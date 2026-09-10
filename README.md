@@ -1,21 +1,21 @@
 # 游戏翻译术语库 / Game-translation-terminology-database / ゲーム翻訳用語集
-[English](README_EN.md) [日本語](README_JP.md)
+
+## [English](README_EN.md) [日本語](README_JP.md)
 
 一种主要用于沉浸式翻译等AI翻译软件的术语库
 
 主要通过本人收集自己日常所需要的翻译术语，通过相关AI软件对其进行整理。
-
-
 
 ## 使用方法：
 1、选择仓库中的单个文件，进入文件详情页后直接选择下载。下载后的表格文件可自行转换成csv等可被软件识别的格式；
 
 2、直接选择下载整个仓库，再自行选择使用哪些文件。
 
-使用的相关内容：
+## 使用的相关内容：
 
 碧蓝航线：[AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)；[AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
 
+星塔旅人：[Hiro420 / StellaSoraData](https://github.com/Hiro420/StellaSoraData)；[JforPlay / sstoy](https://github.com/JforPlay/sstoy)
 
 ## 免责声明 / Disclaimer
 
