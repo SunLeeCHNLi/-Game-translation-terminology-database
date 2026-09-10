@@ -1,0 +1,633 @@
+﻿source,target,tgt_lng
+Alhacén,Alhaitham,th-TH
+Aliosha,Alyosha,th-TH
+Andarilho,ผู้พเนจร,th-TH
+Avare,ผู้พเนจร,th-TH
+Bárbara,Barbara,th-TH
+Citlalí,Citlali,th-TH
+Colombina,Columbina,th-TH
+Faruzán,Faruzan,th-TH
+Fréminet,Freminet,th-TH
+Gezgin (Ateş),นักเดินทาง (ไฟ),th-TH
+Gezgin (Buz),นักเดินทาง (น้ำแข็ง),th-TH
+Gezgin (Doğa),นักเดินทาง (ไม้),th-TH
+Gezgin (Elektrik),นักเดินทาง (ไฟฟ้า),th-TH
+Gezgin (Rüzgar),นักเดินทาง (ลม),th-TH
+Gezgin (Su),นักเดินทาง (น้ำ),th-TH
+Gezgin (Toprak),นักเดินทาง (หิน),th-TH
+Hutao,Hu Tao,th-TH
+Iansán,Iansan,th-TH
+Ifá,Ifa,th-TH
+Keching,Keqing,th-TH
+Kẻ Lang Thang,ผู้พเนจร,th-TH
+Laila,Layla,th-TH
+Linnéa,Linnea,th-TH
+Nhà Lữ Hành (Băng),นักเดินทาง (น้ำแข็ง),th-TH
+Nhà Lữ Hành (Hỏa),นักเดินทาง (ไฟ),th-TH
+Nhà Lữ Hành (Lôi),นักเดินทาง (ไฟฟ้า),th-TH
+Nhà Lữ Hành (Nham),นักเดินทาง (หิน),th-TH
+Nhà Lữ Hành (Phong),นักเดินทาง (ลม),th-TH
+Nhà Lữ Hành (Thảo),นักเดินทาง (ไม้),th-TH
+Nhà Lữ Hành (Thủy),นักเดินทาง (น้ำ),th-TH
+Ninguang,Ningguang,th-TH
+Nomade,ผู้พเนจร,th-TH
+Noëlle,Noelle,th-TH
+Néfer,Nefer,th-TH
+Reisende (Anemo),นักเดินทาง (ลม),th-TH
+Reisende (Dendro),นักเดินทาง (ไม้),th-TH
+Reisende (Elektro),นักเดินทาง (ไฟฟ้า),th-TH
+Reisende (Geo),นักเดินทาง (หิน),th-TH
+Reisende (Hydro),นักเดินทาง (น้ำ),th-TH
+Reisende (Kryo),นักเดินทาง (น้ำแข็ง),th-TH
+Reisende (Pyro),นักเดินทาง (ไฟ),th-TH
+Rosalia,Rosaria,th-TH
+Sacarosa,Sucrose,th-TH
+Saccharose,Sucrose,th-TH
+Shogun Raiden,Raiden Shogun,th-TH
+Shougun Raiden,Raiden Shogun,th-TH
+Thomas,Thoma,th-TH
+Tignari,Tighnari,th-TH
+Traveler (Anemo),นักเดินทาง (ลม),th-TH
+Traveler (Cryo),นักเดินทาง (น้ำแข็ง),th-TH
+Traveler (Dendro),นักเดินทาง (ไม้),th-TH
+Traveler (Electro),นักเดินทาง (ไฟฟ้า),th-TH
+Traveler (Geo),นักเดินทาง (หิน),th-TH
+Traveler (Hydro),นักเดินทาง (น้ำ),th-TH
+Traveler (Pyro),นักเดินทาง (ไฟ),th-TH
+Trotamundos,ผู้พเนจร,th-TH
+Vagabondo,ผู้พเนจร,th-TH
+Viaggiatore (Anemo),นักเดินทาง (ลม),th-TH
+Viaggiatore (Cryo),นักเดินทาง (น้ำแข็ง),th-TH
+Viaggiatore (Dendro),นักเดินทาง (ไม้),th-TH
+Viaggiatore (Electro),นักเดินทาง (ไฟฟ้า),th-TH
+Viaggiatore (Geo),นักเดินทาง (หิน),th-TH
+Viaggiatore (Hydro),นักเดินทาง (น้ำ),th-TH
+Viaggiatore (Pyro),นักเดินทาง (ไฟ),th-TH
+Viajante (Anemo),นักเดินทาง (ลม),th-TH
+Viajante (Cryo),นักเดินทาง (น้ำแข็ง),th-TH
+Viajante (Dendro),นักเดินทาง (ไม้),th-TH
+Viajante (Electro),นักเดินทาง (ไฟฟ้า),th-TH
+Viajante (Geo),นักเดินทาง (หิน),th-TH
+Viajante (Hydro),นักเดินทาง (น้ำ),th-TH
+Viajante (Pyro),นักเดินทาง (ไฟ),th-TH
+Viajera (Anemo),นักเดินทาง (ลม),th-TH
+Viajera (Cryo),นักเดินทาง (น้ำแข็ง),th-TH
+Viajera (Dendro),นักเดินทาง (ไม้),th-TH
+Viajera (Electro),นักเดินทาง (ไฟฟ้า),th-TH
+Viajera (Geo),นักเดินทาง (หิน),th-TH
+Viajera (Hydro),นักเดินทาง (น้ำ),th-TH
+Viajera (Pyro),นักเดินทาง (ไฟ),th-TH
+Voyageuse (Anémo),นักเดินทาง (ลม),th-TH
+Voyageuse (Cryo),นักเดินทาง (น้ำแข็ง),th-TH
+Voyageuse (Dendro),นักเดินทาง (ไม้),th-TH
+Voyageuse (Géo),นักเดินทาง (หิน),th-TH
+Voyageuse (Hydro),นักเดินทาง (น้ำ),th-TH
+Voyageuse (Pyro),นักเดินทาง (ไฟ),th-TH
+Voyageuse (Électro),นักเดินทาง (ไฟฟ้า),th-TH
+Wanderer,ผู้พเนจร,th-TH
+Xingchiu,Xingqiu,th-TH
+Yunjin,Yun Jin,th-TH
+Émilie,Emilie,th-TH
+Şogun Raiden,Raiden Shogun,th-TH
+Ёимия,Yoimiya,th-TH
+Айно,Aino,th-TH
+Аль-Хайтам,Alhaitham,th-TH
+Альбедо,Albedo,th-TH
+Алёша,Alyosha,th-TH
+Арлекино,Arlecchino,th-TH
+Аяка,Kamisato Ayaka,th-TH
+Аято,Kamisato Ayato,th-TH
+Бай Чжу,Baizhu,th-TH
+Барбара,Barbara,th-TH
+Беннет,Bennett,th-TH
+Бэй Доу,Beidou,th-TH
+Вареса,Varesa,th-TH
+Варка,Varka,th-TH
+Венти,Venti,th-TH
+Гань Юй,Ganyu,th-TH
+Горо,Gorou,th-TH
+Далия,Dahlia,th-TH
+Джинн,Jean,th-TH
+Дилюк,Diluc,th-TH
+Диона,Diona,th-TH
+Дори,Dori,th-TH
+Дурин,Durin,th-TH
+Дэхья,Dehya,th-TH
+Е Лань,Yelan,th-TH
+Иансан,Iansan,th-TH
+Иллуги,Illuga,th-TH
+Инеффа,Ineffa,th-TH
+Итто,Arataki Itto,th-TH
+Ифа,Ifa,th-TH
+Ка Мин,Gaming,th-TH
+Кавех,Kaveh,th-TH
+Кадзуха,Kaedehara Kazuha,th-TH
+Кандакия,Candace,th-TH
+Качина,Kachina,th-TH
+Кинич,Kinich,th-TH
+Кирара,Kirara,th-TH
+Кли,Klee,th-TH
+Клоринда,Clorinde,th-TH
+Кокоми,Sangonomiya Kokomi,th-TH
+Коллеи,Collei,th-TH
+Коломбина,Columbina,th-TH
+Кэ Цин,Keqing,th-TH
+Кэйа,Kaeya,th-TH
+Лайла,Layla,th-TH
+Лань Янь,Lan Yan,th-TH
+Лаума,Lauma,th-TH
+Лиза,Lisa,th-TH
+Линетт,Lynette,th-TH
+Лини,Lyney,th-TH
+Линнея,Linnea,th-TH
+Лоэн,Lohen,th-TH
+Мавуика,Mavuika,th-TH
+Мидзуки,Yumemizuki Mizuki,th-TH
+Мика,Mika,th-TH
+Мона,Mona,th-TH
+Муалани,Mualani,th-TH
+Навия,Navia,th-TH
+Нахида,Nahida,th-TH
+Нефер,Nefer,th-TH
+Николь,Nicole,th-TH
+Нилу,Nilou,th-TH
+Нин Гуан,Ningguang,th-TH
+Ноэлль,Noelle,th-TH
+Нёвиллет,Neuvillette,th-TH
+Одетта,Odette,th-TH
+Оророн,Ororon,th-TH
+Прюн,Prune,th-TH
+Путешественница (Анемо),นักเดินทาง (ลม),th-TH
+Путешественница (Гео),นักเดินทาง (หิน),th-TH
+Путешественница (Гидро),นักเดินทาง (น้ำ),th-TH
+Путешественница (Дендро),นักเดินทาง (ไม้),th-TH
+Путешественница (Крио),นักเดินทาง (น้ำแข็ง),th-TH
+Путешественница (Пиро),นักเดินทาง (ไฟ),th-TH
+Путешественница (Электро),นักเดินทาง (ไฟฟ้า),th-TH
+Райдэн,Raiden Shogun,th-TH
+Ризли,Wriothesley,th-TH
+Розария,Rosaria,th-TH
+Рэйзор,Razor,th-TH
+Сайно,Cyno,th-TH
+Сандроне,Sandrone,th-TH
+Сара,Kujou Sara,th-TH
+Сахароза,Sucrose,th-TH
+Саю,Sayu,th-TH
+Сетос,Sethos,th-TH
+Сиджвин,Sigewinne,th-TH
+Син Цю,Xingqiu,th-TH
+Синобу,Kuki Shinobu,th-TH
+Синь Янь,Xinyan,th-TH
+Ситлали,Citlali,th-TH
+Скирк,Skirk,th-TH
+Странник,ผู้พเนจร,th-TH
+Сян Лин,Xiangling,th-TH
+Сянь Юнь,Xianyun,th-TH
+Сяо,Xiao,th-TH
+Тарталья,Tartaglia,th-TH
+Тигнари,Tighnari,th-TH
+Тиори,Chiori,th-TH
+Тома,Thoma,th-TH
+Фарузан,Faruzan,th-TH
+Фишль,Fischl,th-TH
+Флинс,Flins,th-TH
+Фремине,Freminet,th-TH
+Фурина,Furina,th-TH
+Ху Тао,Hu Tao,th-TH
+Хэйдзо,Shikanoin Heizou,th-TH
+Цзы Бай,Zibai,th-TH
+Ци Ци,Qiqi,th-TH
+Часка,Chasca,th-TH
+Чжун Ли,Zhongli,th-TH
+Чун Юнь,Chongyun,th-TH
+Шарлотта,Charlotte,th-TH
+Шеврёз,Chevreuse,th-TH
+Шилонен,Xilonen,th-TH
+Шэнь Хэ,Shenhe,th-TH
+Элой,Aloy,th-TH
+Эмбер,Amber,th-TH
+Эмилия,Emilie,th-TH
+Эола,Eula,th-TH
+Эскофье,Escoffier,th-TH
+Юнь Цзинь,Yun Jin,th-TH
+Ягода,Jahoda,th-TH
+Янь Фэй,Yanfei,th-TH
+Яо Яо,Yaoyao,th-TH
+Яэ Мико,Yae Miko,th-TH
+アイノ,Aino,th-TH
+アリョーシャ,Alyosha,th-TH
+アルハイゼン,Alhaitham,th-TH
+アルベド,Albedo,th-TH
+アルレッキーノ,Arlecchino,th-TH
+アンバー,Amber,th-TH
+アーロイ,Aloy,th-TH
+イアンサ,Iansan,th-TH
+イネファ,Ineffa,th-TH
+イファ,Ifa,th-TH
+イルーガ,Illuga,th-TH
+ウェンティ,Venti,th-TH
+エウルア,Eula,th-TH
+エスコフィエ,Escoffier,th-TH
+エミリエ,Emilie,th-TH
+オデット,Odette,th-TH
+オロルン,Ororon,th-TH
+カチーナ,Kachina,th-TH
+カーヴェ,Kaveh,th-TH
+ガイア,Kaeya,th-TH
+キィニチ,Kinich,th-TH
+キャンディス,Candace,th-TH
+クレー,Klee,th-TH
+クロリンデ,Clorinde,th-TH
+コレイ,Collei,th-TH
+コロンビーナ,Columbina,th-TH
+ゴロー,Gorou,th-TH
+サンドローネ,Sandrone,th-TH
+シグウィン,Sigewinne,th-TH
+シトラリ,Citlali,th-TH
+シャルロット,Charlotte,th-TH
+シュヴルーズ,Chevreuse,th-TH
+シロネン,Xilonen,th-TH
+ジン,Jean,th-TH
+スカーク,Skirk,th-TH
+スクロース,Sucrose,th-TH
+セトス,Sethos,th-TH
+セノ,Cyno,th-TH
+タルタリヤ,Tartaglia,th-TH
+ダリア,Dahlia,th-TH
+チャスカ,Chasca,th-TH
+ティナリ,Tighnari,th-TH
+ディオナ,Diona,th-TH
+ディシア,Dehya,th-TH
+ディルック,Diluc,th-TH
+トーマ,Thoma,th-TH
+ドゥリン,Durin,th-TH
+ドリー,Dori,th-TH
+ナヒーダ,Nahida,th-TH
+ナヴィア,Navia,th-TH
+ニィロウ,Nilou,th-TH
+ニコ,Nicole,th-TH
+ヌヴィレット,Neuvillette,th-TH
+ネフェル,Nefer,th-TH
+ノエル,Noelle,th-TH
+バーバラ,Barbara,th-TH
+ファルカ,Varka,th-TH
+ファルザン,Faruzan,th-TH
+フィッシュル,Fischl,th-TH
+フリンズ,Flins,th-TH
+フリーナ,Furina,th-TH
+フレミネ,Freminet,th-TH
+プルーネ,Prune,th-TH
+ベネット,Bennett,th-TH
+マーヴィカ,Mavuika,th-TH
+ミカ,Mika,th-TH
+ムアラニ,Mualani,th-TH
+モナ,Mona,th-TH
+ヤフォダ,Jahoda,th-TH
+ヨォーヨ,Yaoyao,th-TH
+ラウマ,Lauma,th-TH
+リオセスリ,Wriothesley,th-TH
+リサ,Lisa,th-TH
+リネ,Lyney,th-TH
+リネット,Lynette,th-TH
+リンネア,Linnea,th-TH
+レイラ,Layla,th-TH
+レザー,Razor,th-TH
+ロサリア,Rosaria,th-TH
+ローエン,Lohen,th-TH
+ヴァレサ,Varesa,th-TH
+七七,Qiqi,th-TH
+丝柯克,Skirk,th-TH
+丽莎,Lisa,th-TH
+久岐忍,Kuki Shinobu,th-TH
+九条裟罗,Kujou Sara,th-TH
+九条裟羅,Kujou Sara,th-TH
+九條裟羅,Kujou Sara,th-TH
+云堇,Yun Jin,th-TH
+五郎,Gorou,th-TH
+亞蘿伊,Aloy,th-TH
+伊安珊,Iansan,th-TH
+伊法,Ifa,th-TH
+伊涅芙,Ineffa,th-TH
+优菈,Eula,th-TH
+優菈,Eula,th-TH
+克洛琳德,Clorinde,th-TH
+八重神子,Yae Miko,th-TH
+兹白,Zibai,th-TH
+凝光,Ningguang,th-TH
+凯亚,Kaeya,th-TH
+凱亞,Kaeya,th-TH
+刻晴,Keqing,th-TH
+北斗,Beidou,th-TH
+千織,Chiori,th-TH
+千织,Chiori,th-TH
+卡維,Kaveh,th-TH
+卡维,Kaveh,th-TH
+卡齊娜,Kachina,th-TH
+卡齐娜,Kachina,th-TH
+可莉,Klee,th-TH
+叶洛亚,Illuga,th-TH
+哥伦比娅,Columbina,th-TH
+哥倫比婭,Columbina,th-TH
+嘉明,Gaming,th-TH
+坎蒂丝,Candace,th-TH
+坎蒂絲,Candace,th-TH
+埃洛伊,Aloy,th-TH
+基尼奇,Kinich,th-TH
+塔利雅,Dahlia,th-TH
+夏沃蕾,Chevreuse,th-TH
+夏洛蒂,Charlotte,th-TH
+多莉,Dori,th-TH
+夜兰,Yelan,th-TH
+夜蘭,Yelan,th-TH
+夢見月瑞希,Yumemizuki Mizuki,th-TH
+奈芙尔,Nefer,th-TH
+奈芙爾,Nefer,th-TH
+奥黛塔,Odette,th-TH
+奧黛塔,Odette,th-TH
+妮露,Nilou,th-TH
+娜維婭,Navia,th-TH
+娜维娅,Navia,th-TH
+安柏,Amber,th-TH
+宵宫,Yoimiya,th-TH
+宵宮,Yoimiya,th-TH
+尼可,Nicole,th-TH
+布伦妮,Prune,th-TH
+布倫妮,Prune,th-TH
+希格雯,Sigewinne,th-TH
+希諾寧,Xilonen,th-TH
+希诺宁,Xilonen,th-TH
+恰斯卡,Chasca,th-TH
+愛可菲,Escoffier,th-TH
+愛諾,Aino,th-TH
+托馬,Thoma,th-TH
+托马,Thoma,th-TH
+提納里,Tighnari,th-TH
+提纳里,Tighnari,th-TH
+放浪者,ผู้พเนจร,th-TH
+旅人 (岩元素),นักเดินทาง (หิน),th-TH
+旅人 (水元素),นักเดินทาง (น้ำ),th-TH
+旅人 (氷元素),นักเดินทาง (น้ำแข็ง),th-TH
+旅人 (炎元素),นักเดินทาง (ไฟ),th-TH
+旅人 (草元素),นักเดินทาง (ไม้),th-TH
+旅人 (雷元素),นักเดินทาง (ไฟฟ้า),th-TH
+旅人 (風元素),นักเดินทาง (ลม),th-TH
+旅行者 (冰元素),นักเดินทาง (น้ำแข็ง),th-TH
+旅行者 (岩元素),นักเดินทาง (หิน),th-TH
+旅行者 (水元素),นักเดินทาง (น้ำ),th-TH
+旅行者 (火元素),นักเดินทาง (ไฟ),th-TH
+旅行者 (草元素),นักเดินทาง (ไม้),th-TH
+旅行者 (雷元素),นักเดินทาง (ไฟฟ้า),th-TH
+旅行者 (風元素),นักเดินทาง (ลม),th-TH
+旅行者 (风元素),นักเดินทาง (ลม),th-TH
+早柚,Sayu,th-TH
+杜林,Durin,th-TH
+林尼,Lyney,th-TH
+枫原万叶,Kaedehara Kazuha,th-TH
+柯莱,Collei,th-TH
+柯萊,Collei,th-TH
+桑多涅,Sandrone,th-TH
+梦见月瑞希,Yumemizuki Mizuki,th-TH
+楓原万葉,Kaedehara Kazuha,th-TH
+楓原萬葉,Kaedehara Kazuha,th-TH
+欧洛伦,Ororon,th-TH
+歐洛倫,Ororon,th-TH
+法尔伽,Varka,th-TH
+法爾伽,Varka,th-TH
+洛恩,Lohen,th-TH
+流浪者,ผู้พเนจร,th-TH
+温迪,Venti,th-TH
+溫迪,Venti,th-TH
+烟绯,Yanfei,th-TH
+煙緋,Yanfei,th-TH
+爱可菲,Escoffier,th-TH
+爱诺,Aino,th-TH
+玛拉妮,Mualani,th-TH
+玛薇卡,Mavuika,th-TH
+珊瑚宫心海,Sangonomiya Kokomi,th-TH
+珊瑚宮心海,Sangonomiya Kokomi,th-TH
+珐露珊,Faruzan,th-TH
+班尼特,Bennett,th-TH
+琳妮特,Lynette,th-TH
+琴,Jean,th-TH
+琺露珊,Faruzan,th-TH
+瑤瑤,Yaoyao,th-TH
+瑪拉妮,Mualani,th-TH
+瑪薇卡,Mavuika,th-TH
+瑶瑶,Yaoyao,th-TH
+瓦雷莎,Varesa,th-TH
+甘雨,Ganyu,th-TH
+申鶴,Shenhe,th-TH
+申鹤,Shenhe,th-TH
+白朮,Baizhu,th-TH
+白术,Baizhu,th-TH
+砂糖,Sucrose,th-TH
+神里綾人,Kamisato Ayato,th-TH
+神里綾華,Kamisato Ayaka,th-TH
+神里绫人,Kamisato Ayato,th-TH
+神里绫华,Kamisato Ayaka,th-TH
+米卡,Mika,th-TH
+納西妲,Nahida,th-TH
+絲柯克,Skirk,th-TH
+綺良々,Kirara,th-TH
+綺良良,Kirara,th-TH
+纳西妲,Nahida,th-TH
+绮良良,Kirara,th-TH
+罗莎莉亚,Rosaria,th-TH
+胡桃,Hu Tao,th-TH
+艾尔海森,Alhaitham,th-TH
+艾梅莉埃,Emilie,th-TH
+艾爾海森,Alhaitham,th-TH
+芙宁娜,Furina,th-TH
+芙寧娜,Furina,th-TH
+芭芭拉,Barbara,th-TH
+茜特菈莉,Citlali,th-TH
+茲白,Zibai,th-TH
+荒泷一斗,Arataki Itto,th-TH
+荒瀧一斗,Arataki Itto,th-TH
+莉奈娅,Linnea,th-TH
+莉奈婭,Linnea,th-TH
+莫娜,Mona,th-TH
+莱依拉,Layla,th-TH
+莱欧斯利,Wriothesley,th-TH
+菈乌玛,Lauma,th-TH
+菈烏瑪,Lauma,th-TH
+菲林斯,Flins,th-TH
+菲米尼,Freminet,th-TH
+菲謝爾,Fischl,th-TH
+菲谢尔,Fischl,th-TH
+萊依拉,Layla,th-TH
+萊歐斯利,Wriothesley,th-TH
+葉洛亞,Illuga,th-TH
+蓝砚,Lan Yan,th-TH
+藍硯,Lan Yan,th-TH
+蘿莎莉亞,Rosaria,th-TH
+行秋,Xingqiu,th-TH
+諾艾爾,Noelle,th-TH
+诺艾尔,Noelle,th-TH
+賽索斯,Sethos,th-TH
+賽諾,Cyno,th-TH
+赛索斯,Sethos,th-TH
+赛诺,Cyno,th-TH
+辛炎,Xinyan,th-TH
+辛焱,Xinyan,th-TH
+达达利亚,Tartaglia,th-TH
+迪卢克,Diluc,th-TH
+迪奥娜,Diona,th-TH
+迪奧娜,Diona,th-TH
+迪希雅,Dehya,th-TH
+迪盧克,Diluc,th-TH
+達達利亞,Tartaglia,th-TH
+那維萊特,Neuvillette,th-TH
+那维莱特,Neuvillette,th-TH
+重云,Chongyun,th-TH
+重雲,Chongyun,th-TH
+鍾離,Zhongli,th-TH
+钟离,Zhongli,th-TH
+閑雲,Xianyun,th-TH
+閒雲,Xianyun,th-TH
+闲云,Xianyun,th-TH
+阿罗夏,Alyosha,th-TH
+阿羅夏,Alyosha,th-TH
+阿蕾奇諾,Arlecchino,th-TH
+阿蕾奇诺,Arlecchino,th-TH
+阿貝多,Albedo,th-TH
+阿贝多,Albedo,th-TH
+雅珂达,Jahoda,th-TH
+雅珂達,Jahoda,th-TH
+雲堇,Yun Jin,th-TH
+雲菫,Yun Jin,th-TH
+雷泽,Razor,th-TH
+雷澤,Razor,th-TH
+雷电将军,Raiden Shogun,th-TH
+雷電将軍,Raiden Shogun,th-TH
+雷電將軍,Raiden Shogun,th-TH
+香菱,Xiangling,th-TH
+魈,Xiao,th-TH
+鹿野院平蔵,Shikanoin Heizou,th-TH
+鹿野院平藏,Shikanoin Heizou,th-TH
+麗莎,Lisa,th-TH
+가명,Gaming,th-TH
+각청,Keqing,th-TH
+감우,Ganyu,th-TH
+고로,Gorou,th-TH
+나비아,Navia,th-TH
+나히다,Nahida,th-TH
+남연,Lan Yan,th-TH
+네페르,Nefer,th-TH
+노엘,Noelle,th-TH
+느비예트,Neuvillette,th-TH
+니콜,Nicole,th-TH
+닐루,Nilou,th-TH
+다이루크,Diluc,th-TH
+달리아,Dahlia,th-TH
+데히야,Dehya,th-TH
+도리,Dori,th-TH
+두린,Durin,th-TH
+디오나,Diona,th-TH
+라우마,Lauma,th-TH
+라이덴 쇼군,Raiden Shogun,th-TH
+라이오슬리,Wriothesley,th-TH
+레이저,Razor,th-TH
+레일라,Layla,th-TH
+로엔,Lohen,th-TH
+로자리아,Rosaria,th-TH
+리넷,Lynette,th-TH
+리니,Lyney,th-TH
+리사,Lisa,th-TH
+린네아,Linnea,th-TH
+마비카,Mavuika,th-TH
+말라니,Mualani,th-TH
+모나,Mona,th-TH
+미카,Mika,th-TH
+바레사,Varesa,th-TH
+바르카,Varka,th-TH
+바바라,Barbara,th-TH
+방랑자,ผู้พเนจร,th-TH
+백출,Baizhu,th-TH
+베넷,Bennett,th-TH
+벤티,Venti,th-TH
+북두,Beidou,th-TH
+사유,Sayu,th-TH
+사이노,Cyno,th-TH
+산고노미야 코코미,Sangonomiya Kokomi,th-TH
+산드로네,Sandrone,th-TH
+샤를로트,Charlotte,th-TH
+설탕,Sucrose,th-TH
+세토스,Sethos,th-TH
+소,Xiao,th-TH
+슈브르즈,Chevreuse,th-TH
+스커크,Skirk,th-TH
+시그윈,Sigewinne,th-TH
+시카노인 헤이조,Shikanoin Heizou,th-TH
+시틀라리,Citlali,th-TH
+신염,Xinyan,th-TH
+신학,Shenhe,th-TH
+실로닌,Xilonen,th-TH
+아라타키 이토,Arataki Itto,th-TH
+아를레키노,Arlecchino,th-TH
+아이노,Aino,th-TH
+알료샤,Alyosha,th-TH
+알베도,Albedo,th-TH
+알하이탐,Alhaitham,th-TH
+야란,Yelan,th-TH
+야에 미코,Yae Miko,th-TH
+야호다,Jahoda,th-TH
+얀사,Iansan,th-TH
+에밀리,Emilie,th-TH
+에스코피에,Escoffier,th-TH
+에일로이,Aloy,th-TH
+엠버,Amber,th-TH
+여행자 (물 원소),นักเดินทาง (น้ำ),th-TH
+여행자 (바람 원소),นักเดินทาง (ลม),th-TH
+여행자 (바위 원소),นักเดินทาง (หิน),th-TH
+여행자 (번개 원소),นักเดินทาง (ไฟฟ้า),th-TH
+여행자 (불 원소),นักเดินทาง (ไฟ),th-TH
+여행자 (얼음 원소),นักเดินทาง (น้ำแข็ง),th-TH
+여행자 (풀 원소),นักเดินทาง (ไม้),th-TH
+연비,Yanfei,th-TH
+오데트,Odette,th-TH
+올로룬,Ororon,th-TH
+요요,Yaoyao,th-TH
+요이미야,Yoimiya,th-TH
+운근,Yun Jin,th-TH
+유라,Eula,th-TH
+유메미즈키 미즈키,Yumemizuki Mizuki,th-TH
+응광,Ningguang,th-TH
+이네파,Ineffa,th-TH
+이파,Ifa,th-TH
+일루가,Illuga,th-TH
+자백,Zibai,th-TH
+종려,Zhongli,th-TH
+중운,Chongyun,th-TH
+진,Jean,th-TH
+차스카,Chasca,th-TH
+치오리,Chiori,th-TH
+치치,Qiqi,th-TH
+카미사토 아야카,Kamisato Ayaka,th-TH
+카미사토 아야토,Kamisato Ayato,th-TH
+카베,Kaveh,th-TH
+카에데하라 카즈하,Kaedehara Kazuha,th-TH
+카치나,Kachina,th-TH
+캔디스,Candace,th-TH
+케이아,Kaeya,th-TH
+콜레이,Collei,th-TH
+콜롬비나,Columbina,th-TH
+쿠죠 사라,Kujou Sara,th-TH
+쿠키 시노부,Kuki Shinobu,th-TH
+클레,Klee,th-TH
+클로린드,Clorinde,th-TH
+키니치,Kinich,th-TH
+키라라,Kirara,th-TH
+타르탈리아,Tartaglia,th-TH
+타이나리,Tighnari,th-TH
+토마,Thoma,th-TH
+파루잔,Faruzan,th-TH
+푸리나,Furina,th-TH
+프레미네,Freminet,th-TH
+프루네,Prune,th-TH
+플린스,Flins,th-TH
+피슬,Fischl,th-TH
+한운,Xianyun,th-TH
+행추,Xingqiu,th-TH
+향릉,Xiangling,th-TH
+호두,Hu Tao,th-TH

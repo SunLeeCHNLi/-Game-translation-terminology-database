@@ -1,0 +1,633 @@
+﻿source,target,tgt_lng
+Alhacén,Alhaitham,vi-VN
+Aliosha,Alyosha,vi-VN
+Andarilho,Kẻ Lang Thang,vi-VN
+Avare,Kẻ Lang Thang,vi-VN
+Bárbara,Barbara,vi-VN
+Citlalí,Citlali,vi-VN
+Colombina,Columbina,vi-VN
+Faruzán,Faruzan,vi-VN
+Fréminet,Freminet,vi-VN
+Gezgin (Ateş),Nhà Lữ Hành (Hỏa),vi-VN
+Gezgin (Buz),Nhà Lữ Hành (Băng),vi-VN
+Gezgin (Doğa),Nhà Lữ Hành (Thảo),vi-VN
+Gezgin (Elektrik),Nhà Lữ Hành (Lôi),vi-VN
+Gezgin (Rüzgar),Nhà Lữ Hành (Phong),vi-VN
+Gezgin (Su),Nhà Lữ Hành (Thủy),vi-VN
+Gezgin (Toprak),Nhà Lữ Hành (Nham),vi-VN
+Hutao,Hu Tao,vi-VN
+Iansán,Iansan,vi-VN
+Ifá,Ifa,vi-VN
+Keching,Keqing,vi-VN
+Laila,Layla,vi-VN
+Linnéa,Linnea,vi-VN
+Ninguang,Ningguang,vi-VN
+Nomade,Kẻ Lang Thang,vi-VN
+Noëlle,Noelle,vi-VN
+Néfer,Nefer,vi-VN
+Reisende (Anemo),Nhà Lữ Hành (Phong),vi-VN
+Reisende (Dendro),Nhà Lữ Hành (Thảo),vi-VN
+Reisende (Elektro),Nhà Lữ Hành (Lôi),vi-VN
+Reisende (Geo),Nhà Lữ Hành (Nham),vi-VN
+Reisende (Hydro),Nhà Lữ Hành (Thủy),vi-VN
+Reisende (Kryo),Nhà Lữ Hành (Băng),vi-VN
+Reisende (Pyro),Nhà Lữ Hành (Hỏa),vi-VN
+Rosalia,Rosaria,vi-VN
+Sacarosa,Sucrose,vi-VN
+Saccharose,Sucrose,vi-VN
+Shogun Raiden,Raiden Shogun,vi-VN
+Shougun Raiden,Raiden Shogun,vi-VN
+Thomas,Thoma,vi-VN
+Tignari,Tighnari,vi-VN
+Traveler (Anemo),Nhà Lữ Hành (Phong),vi-VN
+Traveler (Cryo),Nhà Lữ Hành (Băng),vi-VN
+Traveler (Dendro),Nhà Lữ Hành (Thảo),vi-VN
+Traveler (Electro),Nhà Lữ Hành (Lôi),vi-VN
+Traveler (Geo),Nhà Lữ Hành (Nham),vi-VN
+Traveler (Hydro),Nhà Lữ Hành (Thủy),vi-VN
+Traveler (Pyro),Nhà Lữ Hành (Hỏa),vi-VN
+Trotamundos,Kẻ Lang Thang,vi-VN
+Vagabondo,Kẻ Lang Thang,vi-VN
+Viaggiatore (Anemo),Nhà Lữ Hành (Phong),vi-VN
+Viaggiatore (Cryo),Nhà Lữ Hành (Băng),vi-VN
+Viaggiatore (Dendro),Nhà Lữ Hành (Thảo),vi-VN
+Viaggiatore (Electro),Nhà Lữ Hành (Lôi),vi-VN
+Viaggiatore (Geo),Nhà Lữ Hành (Nham),vi-VN
+Viaggiatore (Hydro),Nhà Lữ Hành (Thủy),vi-VN
+Viaggiatore (Pyro),Nhà Lữ Hành (Hỏa),vi-VN
+Viajante (Anemo),Nhà Lữ Hành (Phong),vi-VN
+Viajante (Cryo),Nhà Lữ Hành (Băng),vi-VN
+Viajante (Dendro),Nhà Lữ Hành (Thảo),vi-VN
+Viajante (Electro),Nhà Lữ Hành (Lôi),vi-VN
+Viajante (Geo),Nhà Lữ Hành (Nham),vi-VN
+Viajante (Hydro),Nhà Lữ Hành (Thủy),vi-VN
+Viajante (Pyro),Nhà Lữ Hành (Hỏa),vi-VN
+Viajera (Anemo),Nhà Lữ Hành (Phong),vi-VN
+Viajera (Cryo),Nhà Lữ Hành (Băng),vi-VN
+Viajera (Dendro),Nhà Lữ Hành (Thảo),vi-VN
+Viajera (Electro),Nhà Lữ Hành (Lôi),vi-VN
+Viajera (Geo),Nhà Lữ Hành (Nham),vi-VN
+Viajera (Hydro),Nhà Lữ Hành (Thủy),vi-VN
+Viajera (Pyro),Nhà Lữ Hành (Hỏa),vi-VN
+Voyageuse (Anémo),Nhà Lữ Hành (Phong),vi-VN
+Voyageuse (Cryo),Nhà Lữ Hành (Băng),vi-VN
+Voyageuse (Dendro),Nhà Lữ Hành (Thảo),vi-VN
+Voyageuse (Géo),Nhà Lữ Hành (Nham),vi-VN
+Voyageuse (Hydro),Nhà Lữ Hành (Thủy),vi-VN
+Voyageuse (Pyro),Nhà Lữ Hành (Hỏa),vi-VN
+Voyageuse (Électro),Nhà Lữ Hành (Lôi),vi-VN
+Wanderer,Kẻ Lang Thang,vi-VN
+Xingchiu,Xingqiu,vi-VN
+Yunjin,Yun Jin,vi-VN
+Émilie,Emilie,vi-VN
+Şogun Raiden,Raiden Shogun,vi-VN
+Ёимия,Yoimiya,vi-VN
+Айно,Aino,vi-VN
+Аль-Хайтам,Alhaitham,vi-VN
+Альбедо,Albedo,vi-VN
+Алёша,Alyosha,vi-VN
+Арлекино,Arlecchino,vi-VN
+Аяка,Kamisato Ayaka,vi-VN
+Аято,Kamisato Ayato,vi-VN
+Бай Чжу,Baizhu,vi-VN
+Барбара,Barbara,vi-VN
+Беннет,Bennett,vi-VN
+Бэй Доу,Beidou,vi-VN
+Вареса,Varesa,vi-VN
+Варка,Varka,vi-VN
+Венти,Venti,vi-VN
+Гань Юй,Ganyu,vi-VN
+Горо,Gorou,vi-VN
+Далия,Dahlia,vi-VN
+Джинн,Jean,vi-VN
+Дилюк,Diluc,vi-VN
+Диона,Diona,vi-VN
+Дори,Dori,vi-VN
+Дурин,Durin,vi-VN
+Дэхья,Dehya,vi-VN
+Е Лань,Yelan,vi-VN
+Иансан,Iansan,vi-VN
+Иллуги,Illuga,vi-VN
+Инеффа,Ineffa,vi-VN
+Итто,Arataki Itto,vi-VN
+Ифа,Ifa,vi-VN
+Ка Мин,Gaming,vi-VN
+Кавех,Kaveh,vi-VN
+Кадзуха,Kaedehara Kazuha,vi-VN
+Кандакия,Candace,vi-VN
+Качина,Kachina,vi-VN
+Кинич,Kinich,vi-VN
+Кирара,Kirara,vi-VN
+Кли,Klee,vi-VN
+Клоринда,Clorinde,vi-VN
+Кокоми,Sangonomiya Kokomi,vi-VN
+Коллеи,Collei,vi-VN
+Коломбина,Columbina,vi-VN
+Кэ Цин,Keqing,vi-VN
+Кэйа,Kaeya,vi-VN
+Лайла,Layla,vi-VN
+Лань Янь,Lan Yan,vi-VN
+Лаума,Lauma,vi-VN
+Лиза,Lisa,vi-VN
+Линетт,Lynette,vi-VN
+Лини,Lyney,vi-VN
+Линнея,Linnea,vi-VN
+Лоэн,Lohen,vi-VN
+Мавуика,Mavuika,vi-VN
+Мидзуки,Yumemizuki Mizuki,vi-VN
+Мика,Mika,vi-VN
+Мона,Mona,vi-VN
+Муалани,Mualani,vi-VN
+Навия,Navia,vi-VN
+Нахида,Nahida,vi-VN
+Нефер,Nefer,vi-VN
+Николь,Nicole,vi-VN
+Нилу,Nilou,vi-VN
+Нин Гуан,Ningguang,vi-VN
+Ноэлль,Noelle,vi-VN
+Нёвиллет,Neuvillette,vi-VN
+Одетта,Odette,vi-VN
+Оророн,Ororon,vi-VN
+Прюн,Prune,vi-VN
+Путешественница (Анемо),Nhà Lữ Hành (Phong),vi-VN
+Путешественница (Гео),Nhà Lữ Hành (Nham),vi-VN
+Путешественница (Гидро),Nhà Lữ Hành (Thủy),vi-VN
+Путешественница (Дендро),Nhà Lữ Hành (Thảo),vi-VN
+Путешественница (Крио),Nhà Lữ Hành (Băng),vi-VN
+Путешественница (Пиро),Nhà Lữ Hành (Hỏa),vi-VN
+Путешественница (Электро),Nhà Lữ Hành (Lôi),vi-VN
+Райдэн,Raiden Shogun,vi-VN
+Ризли,Wriothesley,vi-VN
+Розария,Rosaria,vi-VN
+Рэйзор,Razor,vi-VN
+Сайно,Cyno,vi-VN
+Сандроне,Sandrone,vi-VN
+Сара,Kujou Sara,vi-VN
+Сахароза,Sucrose,vi-VN
+Саю,Sayu,vi-VN
+Сетос,Sethos,vi-VN
+Сиджвин,Sigewinne,vi-VN
+Син Цю,Xingqiu,vi-VN
+Синобу,Kuki Shinobu,vi-VN
+Синь Янь,Xinyan,vi-VN
+Ситлали,Citlali,vi-VN
+Скирк,Skirk,vi-VN
+Странник,Kẻ Lang Thang,vi-VN
+Сян Лин,Xiangling,vi-VN
+Сянь Юнь,Xianyun,vi-VN
+Сяо,Xiao,vi-VN
+Тарталья,Tartaglia,vi-VN
+Тигнари,Tighnari,vi-VN
+Тиори,Chiori,vi-VN
+Тома,Thoma,vi-VN
+Фарузан,Faruzan,vi-VN
+Фишль,Fischl,vi-VN
+Флинс,Flins,vi-VN
+Фремине,Freminet,vi-VN
+Фурина,Furina,vi-VN
+Ху Тао,Hu Tao,vi-VN
+Хэйдзо,Shikanoin Heizou,vi-VN
+Цзы Бай,Zibai,vi-VN
+Ци Ци,Qiqi,vi-VN
+Часка,Chasca,vi-VN
+Чжун Ли,Zhongli,vi-VN
+Чун Юнь,Chongyun,vi-VN
+Шарлотта,Charlotte,vi-VN
+Шеврёз,Chevreuse,vi-VN
+Шилонен,Xilonen,vi-VN
+Шэнь Хэ,Shenhe,vi-VN
+Элой,Aloy,vi-VN
+Эмбер,Amber,vi-VN
+Эмилия,Emilie,vi-VN
+Эола,Eula,vi-VN
+Эскофье,Escoffier,vi-VN
+Юнь Цзинь,Yun Jin,vi-VN
+Ягода,Jahoda,vi-VN
+Янь Фэй,Yanfei,vi-VN
+Яо Яо,Yaoyao,vi-VN
+Яэ Мико,Yae Miko,vi-VN
+นักเดินทาง (น้ำ),Nhà Lữ Hành (Thủy),vi-VN
+นักเดินทาง (น้ำแข็ง),Nhà Lữ Hành (Băng),vi-VN
+นักเดินทาง (ลม),Nhà Lữ Hành (Phong),vi-VN
+นักเดินทาง (หิน),Nhà Lữ Hành (Nham),vi-VN
+นักเดินทาง (ไฟ),Nhà Lữ Hành (Hỏa),vi-VN
+นักเดินทาง (ไฟฟ้า),Nhà Lữ Hành (Lôi),vi-VN
+นักเดินทาง (ไม้),Nhà Lữ Hành (Thảo),vi-VN
+ผู้พเนจร,Kẻ Lang Thang,vi-VN
+アイノ,Aino,vi-VN
+アリョーシャ,Alyosha,vi-VN
+アルハイゼン,Alhaitham,vi-VN
+アルベド,Albedo,vi-VN
+アルレッキーノ,Arlecchino,vi-VN
+アンバー,Amber,vi-VN
+アーロイ,Aloy,vi-VN
+イアンサ,Iansan,vi-VN
+イネファ,Ineffa,vi-VN
+イファ,Ifa,vi-VN
+イルーガ,Illuga,vi-VN
+ウェンティ,Venti,vi-VN
+エウルア,Eula,vi-VN
+エスコフィエ,Escoffier,vi-VN
+エミリエ,Emilie,vi-VN
+オデット,Odette,vi-VN
+オロルン,Ororon,vi-VN
+カチーナ,Kachina,vi-VN
+カーヴェ,Kaveh,vi-VN
+ガイア,Kaeya,vi-VN
+キィニチ,Kinich,vi-VN
+キャンディス,Candace,vi-VN
+クレー,Klee,vi-VN
+クロリンデ,Clorinde,vi-VN
+コレイ,Collei,vi-VN
+コロンビーナ,Columbina,vi-VN
+ゴロー,Gorou,vi-VN
+サンドローネ,Sandrone,vi-VN
+シグウィン,Sigewinne,vi-VN
+シトラリ,Citlali,vi-VN
+シャルロット,Charlotte,vi-VN
+シュヴルーズ,Chevreuse,vi-VN
+シロネン,Xilonen,vi-VN
+ジン,Jean,vi-VN
+スカーク,Skirk,vi-VN
+スクロース,Sucrose,vi-VN
+セトス,Sethos,vi-VN
+セノ,Cyno,vi-VN
+タルタリヤ,Tartaglia,vi-VN
+ダリア,Dahlia,vi-VN
+チャスカ,Chasca,vi-VN
+ティナリ,Tighnari,vi-VN
+ディオナ,Diona,vi-VN
+ディシア,Dehya,vi-VN
+ディルック,Diluc,vi-VN
+トーマ,Thoma,vi-VN
+ドゥリン,Durin,vi-VN
+ドリー,Dori,vi-VN
+ナヒーダ,Nahida,vi-VN
+ナヴィア,Navia,vi-VN
+ニィロウ,Nilou,vi-VN
+ニコ,Nicole,vi-VN
+ヌヴィレット,Neuvillette,vi-VN
+ネフェル,Nefer,vi-VN
+ノエル,Noelle,vi-VN
+バーバラ,Barbara,vi-VN
+ファルカ,Varka,vi-VN
+ファルザン,Faruzan,vi-VN
+フィッシュル,Fischl,vi-VN
+フリンズ,Flins,vi-VN
+フリーナ,Furina,vi-VN
+フレミネ,Freminet,vi-VN
+プルーネ,Prune,vi-VN
+ベネット,Bennett,vi-VN
+マーヴィカ,Mavuika,vi-VN
+ミカ,Mika,vi-VN
+ムアラニ,Mualani,vi-VN
+モナ,Mona,vi-VN
+ヤフォダ,Jahoda,vi-VN
+ヨォーヨ,Yaoyao,vi-VN
+ラウマ,Lauma,vi-VN
+リオセスリ,Wriothesley,vi-VN
+リサ,Lisa,vi-VN
+リネ,Lyney,vi-VN
+リネット,Lynette,vi-VN
+リンネア,Linnea,vi-VN
+レイラ,Layla,vi-VN
+レザー,Razor,vi-VN
+ロサリア,Rosaria,vi-VN
+ローエン,Lohen,vi-VN
+ヴァレサ,Varesa,vi-VN
+七七,Qiqi,vi-VN
+丝柯克,Skirk,vi-VN
+丽莎,Lisa,vi-VN
+久岐忍,Kuki Shinobu,vi-VN
+九条裟罗,Kujou Sara,vi-VN
+九条裟羅,Kujou Sara,vi-VN
+九條裟羅,Kujou Sara,vi-VN
+云堇,Yun Jin,vi-VN
+五郎,Gorou,vi-VN
+亞蘿伊,Aloy,vi-VN
+伊安珊,Iansan,vi-VN
+伊法,Ifa,vi-VN
+伊涅芙,Ineffa,vi-VN
+优菈,Eula,vi-VN
+優菈,Eula,vi-VN
+克洛琳德,Clorinde,vi-VN
+八重神子,Yae Miko,vi-VN
+兹白,Zibai,vi-VN
+凝光,Ningguang,vi-VN
+凯亚,Kaeya,vi-VN
+凱亞,Kaeya,vi-VN
+刻晴,Keqing,vi-VN
+北斗,Beidou,vi-VN
+千織,Chiori,vi-VN
+千织,Chiori,vi-VN
+卡維,Kaveh,vi-VN
+卡维,Kaveh,vi-VN
+卡齊娜,Kachina,vi-VN
+卡齐娜,Kachina,vi-VN
+可莉,Klee,vi-VN
+叶洛亚,Illuga,vi-VN
+哥伦比娅,Columbina,vi-VN
+哥倫比婭,Columbina,vi-VN
+嘉明,Gaming,vi-VN
+坎蒂丝,Candace,vi-VN
+坎蒂絲,Candace,vi-VN
+埃洛伊,Aloy,vi-VN
+基尼奇,Kinich,vi-VN
+塔利雅,Dahlia,vi-VN
+夏沃蕾,Chevreuse,vi-VN
+夏洛蒂,Charlotte,vi-VN
+多莉,Dori,vi-VN
+夜兰,Yelan,vi-VN
+夜蘭,Yelan,vi-VN
+夢見月瑞希,Yumemizuki Mizuki,vi-VN
+奈芙尔,Nefer,vi-VN
+奈芙爾,Nefer,vi-VN
+奥黛塔,Odette,vi-VN
+奧黛塔,Odette,vi-VN
+妮露,Nilou,vi-VN
+娜維婭,Navia,vi-VN
+娜维娅,Navia,vi-VN
+安柏,Amber,vi-VN
+宵宫,Yoimiya,vi-VN
+宵宮,Yoimiya,vi-VN
+尼可,Nicole,vi-VN
+布伦妮,Prune,vi-VN
+布倫妮,Prune,vi-VN
+希格雯,Sigewinne,vi-VN
+希諾寧,Xilonen,vi-VN
+希诺宁,Xilonen,vi-VN
+恰斯卡,Chasca,vi-VN
+愛可菲,Escoffier,vi-VN
+愛諾,Aino,vi-VN
+托馬,Thoma,vi-VN
+托马,Thoma,vi-VN
+提納里,Tighnari,vi-VN
+提纳里,Tighnari,vi-VN
+放浪者,Kẻ Lang Thang,vi-VN
+旅人 (岩元素),Nhà Lữ Hành (Nham),vi-VN
+旅人 (水元素),Nhà Lữ Hành (Thủy),vi-VN
+旅人 (氷元素),Nhà Lữ Hành (Băng),vi-VN
+旅人 (炎元素),Nhà Lữ Hành (Hỏa),vi-VN
+旅人 (草元素),Nhà Lữ Hành (Thảo),vi-VN
+旅人 (雷元素),Nhà Lữ Hành (Lôi),vi-VN
+旅人 (風元素),Nhà Lữ Hành (Phong),vi-VN
+旅行者 (冰元素),Nhà Lữ Hành (Băng),vi-VN
+旅行者 (岩元素),Nhà Lữ Hành (Nham),vi-VN
+旅行者 (水元素),Nhà Lữ Hành (Thủy),vi-VN
+旅行者 (火元素),Nhà Lữ Hành (Hỏa),vi-VN
+旅行者 (草元素),Nhà Lữ Hành (Thảo),vi-VN
+旅行者 (雷元素),Nhà Lữ Hành (Lôi),vi-VN
+旅行者 (風元素),Nhà Lữ Hành (Phong),vi-VN
+旅行者 (风元素),Nhà Lữ Hành (Phong),vi-VN
+早柚,Sayu,vi-VN
+杜林,Durin,vi-VN
+林尼,Lyney,vi-VN
+枫原万叶,Kaedehara Kazuha,vi-VN
+柯莱,Collei,vi-VN
+柯萊,Collei,vi-VN
+桑多涅,Sandrone,vi-VN
+梦见月瑞希,Yumemizuki Mizuki,vi-VN
+楓原万葉,Kaedehara Kazuha,vi-VN
+楓原萬葉,Kaedehara Kazuha,vi-VN
+欧洛伦,Ororon,vi-VN
+歐洛倫,Ororon,vi-VN
+法尔伽,Varka,vi-VN
+法爾伽,Varka,vi-VN
+洛恩,Lohen,vi-VN
+流浪者,Kẻ Lang Thang,vi-VN
+温迪,Venti,vi-VN
+溫迪,Venti,vi-VN
+烟绯,Yanfei,vi-VN
+煙緋,Yanfei,vi-VN
+爱可菲,Escoffier,vi-VN
+爱诺,Aino,vi-VN
+玛拉妮,Mualani,vi-VN
+玛薇卡,Mavuika,vi-VN
+珊瑚宫心海,Sangonomiya Kokomi,vi-VN
+珊瑚宮心海,Sangonomiya Kokomi,vi-VN
+珐露珊,Faruzan,vi-VN
+班尼特,Bennett,vi-VN
+琳妮特,Lynette,vi-VN
+琴,Jean,vi-VN
+琺露珊,Faruzan,vi-VN
+瑤瑤,Yaoyao,vi-VN
+瑪拉妮,Mualani,vi-VN
+瑪薇卡,Mavuika,vi-VN
+瑶瑶,Yaoyao,vi-VN
+瓦雷莎,Varesa,vi-VN
+甘雨,Ganyu,vi-VN
+申鶴,Shenhe,vi-VN
+申鹤,Shenhe,vi-VN
+白朮,Baizhu,vi-VN
+白术,Baizhu,vi-VN
+砂糖,Sucrose,vi-VN
+神里綾人,Kamisato Ayato,vi-VN
+神里綾華,Kamisato Ayaka,vi-VN
+神里绫人,Kamisato Ayato,vi-VN
+神里绫华,Kamisato Ayaka,vi-VN
+米卡,Mika,vi-VN
+納西妲,Nahida,vi-VN
+絲柯克,Skirk,vi-VN
+綺良々,Kirara,vi-VN
+綺良良,Kirara,vi-VN
+纳西妲,Nahida,vi-VN
+绮良良,Kirara,vi-VN
+罗莎莉亚,Rosaria,vi-VN
+胡桃,Hu Tao,vi-VN
+艾尔海森,Alhaitham,vi-VN
+艾梅莉埃,Emilie,vi-VN
+艾爾海森,Alhaitham,vi-VN
+芙宁娜,Furina,vi-VN
+芙寧娜,Furina,vi-VN
+芭芭拉,Barbara,vi-VN
+茜特菈莉,Citlali,vi-VN
+茲白,Zibai,vi-VN
+荒泷一斗,Arataki Itto,vi-VN
+荒瀧一斗,Arataki Itto,vi-VN
+莉奈娅,Linnea,vi-VN
+莉奈婭,Linnea,vi-VN
+莫娜,Mona,vi-VN
+莱依拉,Layla,vi-VN
+莱欧斯利,Wriothesley,vi-VN
+菈乌玛,Lauma,vi-VN
+菈烏瑪,Lauma,vi-VN
+菲林斯,Flins,vi-VN
+菲米尼,Freminet,vi-VN
+菲謝爾,Fischl,vi-VN
+菲谢尔,Fischl,vi-VN
+萊依拉,Layla,vi-VN
+萊歐斯利,Wriothesley,vi-VN
+葉洛亞,Illuga,vi-VN
+蓝砚,Lan Yan,vi-VN
+藍硯,Lan Yan,vi-VN
+蘿莎莉亞,Rosaria,vi-VN
+行秋,Xingqiu,vi-VN
+諾艾爾,Noelle,vi-VN
+诺艾尔,Noelle,vi-VN
+賽索斯,Sethos,vi-VN
+賽諾,Cyno,vi-VN
+赛索斯,Sethos,vi-VN
+赛诺,Cyno,vi-VN
+辛炎,Xinyan,vi-VN
+辛焱,Xinyan,vi-VN
+达达利亚,Tartaglia,vi-VN
+迪卢克,Diluc,vi-VN
+迪奥娜,Diona,vi-VN
+迪奧娜,Diona,vi-VN
+迪希雅,Dehya,vi-VN
+迪盧克,Diluc,vi-VN
+達達利亞,Tartaglia,vi-VN
+那維萊特,Neuvillette,vi-VN
+那维莱特,Neuvillette,vi-VN
+重云,Chongyun,vi-VN
+重雲,Chongyun,vi-VN
+鍾離,Zhongli,vi-VN
+钟离,Zhongli,vi-VN
+閑雲,Xianyun,vi-VN
+閒雲,Xianyun,vi-VN
+闲云,Xianyun,vi-VN
+阿罗夏,Alyosha,vi-VN
+阿羅夏,Alyosha,vi-VN
+阿蕾奇諾,Arlecchino,vi-VN
+阿蕾奇诺,Arlecchino,vi-VN
+阿貝多,Albedo,vi-VN
+阿贝多,Albedo,vi-VN
+雅珂达,Jahoda,vi-VN
+雅珂達,Jahoda,vi-VN
+雲堇,Yun Jin,vi-VN
+雲菫,Yun Jin,vi-VN
+雷泽,Razor,vi-VN
+雷澤,Razor,vi-VN
+雷电将军,Raiden Shogun,vi-VN
+雷電将軍,Raiden Shogun,vi-VN
+雷電將軍,Raiden Shogun,vi-VN
+香菱,Xiangling,vi-VN
+魈,Xiao,vi-VN
+鹿野院平蔵,Shikanoin Heizou,vi-VN
+鹿野院平藏,Shikanoin Heizou,vi-VN
+麗莎,Lisa,vi-VN
+가명,Gaming,vi-VN
+각청,Keqing,vi-VN
+감우,Ganyu,vi-VN
+고로,Gorou,vi-VN
+나비아,Navia,vi-VN
+나히다,Nahida,vi-VN
+남연,Lan Yan,vi-VN
+네페르,Nefer,vi-VN
+노엘,Noelle,vi-VN
+느비예트,Neuvillette,vi-VN
+니콜,Nicole,vi-VN
+닐루,Nilou,vi-VN
+다이루크,Diluc,vi-VN
+달리아,Dahlia,vi-VN
+데히야,Dehya,vi-VN
+도리,Dori,vi-VN
+두린,Durin,vi-VN
+디오나,Diona,vi-VN
+라우마,Lauma,vi-VN
+라이덴 쇼군,Raiden Shogun,vi-VN
+라이오슬리,Wriothesley,vi-VN
+레이저,Razor,vi-VN
+레일라,Layla,vi-VN
+로엔,Lohen,vi-VN
+로자리아,Rosaria,vi-VN
+리넷,Lynette,vi-VN
+리니,Lyney,vi-VN
+리사,Lisa,vi-VN
+린네아,Linnea,vi-VN
+마비카,Mavuika,vi-VN
+말라니,Mualani,vi-VN
+모나,Mona,vi-VN
+미카,Mika,vi-VN
+바레사,Varesa,vi-VN
+바르카,Varka,vi-VN
+바바라,Barbara,vi-VN
+방랑자,Kẻ Lang Thang,vi-VN
+백출,Baizhu,vi-VN
+베넷,Bennett,vi-VN
+벤티,Venti,vi-VN
+북두,Beidou,vi-VN
+사유,Sayu,vi-VN
+사이노,Cyno,vi-VN
+산고노미야 코코미,Sangonomiya Kokomi,vi-VN
+산드로네,Sandrone,vi-VN
+샤를로트,Charlotte,vi-VN
+설탕,Sucrose,vi-VN
+세토스,Sethos,vi-VN
+소,Xiao,vi-VN
+슈브르즈,Chevreuse,vi-VN
+스커크,Skirk,vi-VN
+시그윈,Sigewinne,vi-VN
+시카노인 헤이조,Shikanoin Heizou,vi-VN
+시틀라리,Citlali,vi-VN
+신염,Xinyan,vi-VN
+신학,Shenhe,vi-VN
+실로닌,Xilonen,vi-VN
+아라타키 이토,Arataki Itto,vi-VN
+아를레키노,Arlecchino,vi-VN
+아이노,Aino,vi-VN
+알료샤,Alyosha,vi-VN
+알베도,Albedo,vi-VN
+알하이탐,Alhaitham,vi-VN
+야란,Yelan,vi-VN
+야에 미코,Yae Miko,vi-VN
+야호다,Jahoda,vi-VN
+얀사,Iansan,vi-VN
+에밀리,Emilie,vi-VN
+에스코피에,Escoffier,vi-VN
+에일로이,Aloy,vi-VN
+엠버,Amber,vi-VN
+여행자 (물 원소),Nhà Lữ Hành (Thủy),vi-VN
+여행자 (바람 원소),Nhà Lữ Hành (Phong),vi-VN
+여행자 (바위 원소),Nhà Lữ Hành (Nham),vi-VN
+여행자 (번개 원소),Nhà Lữ Hành (Lôi),vi-VN
+여행자 (불 원소),Nhà Lữ Hành (Hỏa),vi-VN
+여행자 (얼음 원소),Nhà Lữ Hành (Băng),vi-VN
+여행자 (풀 원소),Nhà Lữ Hành (Thảo),vi-VN
+연비,Yanfei,vi-VN
+오데트,Odette,vi-VN
+올로룬,Ororon,vi-VN
+요요,Yaoyao,vi-VN
+요이미야,Yoimiya,vi-VN
+운근,Yun Jin,vi-VN
+유라,Eula,vi-VN
+유메미즈키 미즈키,Yumemizuki Mizuki,vi-VN
+응광,Ningguang,vi-VN
+이네파,Ineffa,vi-VN
+이파,Ifa,vi-VN
+일루가,Illuga,vi-VN
+자백,Zibai,vi-VN
+종려,Zhongli,vi-VN
+중운,Chongyun,vi-VN
+진,Jean,vi-VN
+차스카,Chasca,vi-VN
+치오리,Chiori,vi-VN
+치치,Qiqi,vi-VN
+카미사토 아야카,Kamisato Ayaka,vi-VN
+카미사토 아야토,Kamisato Ayato,vi-VN
+카베,Kaveh,vi-VN
+카에데하라 카즈하,Kaedehara Kazuha,vi-VN
+카치나,Kachina,vi-VN
+캔디스,Candace,vi-VN
+케이아,Kaeya,vi-VN
+콜레이,Collei,vi-VN
+콜롬비나,Columbina,vi-VN
+쿠죠 사라,Kujou Sara,vi-VN
+쿠키 시노부,Kuki Shinobu,vi-VN
+클레,Klee,vi-VN
+클로린드,Clorinde,vi-VN
+키니치,Kinich,vi-VN
+키라라,Kirara,vi-VN
+타르탈리아,Tartaglia,vi-VN
+타이나리,Tighnari,vi-VN
+토마,Thoma,vi-VN
+파루잔,Faruzan,vi-VN
+푸리나,Furina,vi-VN
+프레미네,Freminet,vi-VN
+프루네,Prune,vi-VN
+플린스,Flins,vi-VN
+피슬,Fischl,vi-VN
+한운,Xianyun,vi-VN
+행추,Xingqiu,vi-VN
+향릉,Xiangling,vi-VN
+호두,Hu Tao,vi-VN

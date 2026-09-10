@@ -1,0 +1,109 @@
+{
+  "source": "xicri/genshin-langdata",
+  "languages": [
+    {
+      "code": "zh-CN",
+      "categories": {
+        "artifacts": 28,
+        "characters": 3873,
+        "domains": 216,
+        "materials": 691,
+        "enemies": 480,
+        "foods": 209,
+        "animals": 157,
+        "geographies": 1104,
+        "weapons": 56,
+        "extra/dialogue": 117,
+        "extra/facilities": 234,
+        "extra/objects": 459,
+        "extra/organizations": 213,
+        "extra/quests": 1664,
+        "extra/sereniteapot": 33,
+        "extra/story": 286,
+        "extra/system": 357,
+        "extra/events": 1715,
+        "extra/archives": 345
+      },
+      "variantRows": 333,
+      "rows": 12237
+    },
+    {
+      "code": "zh-TW",
+      "categories": {
+        "artifacts": 29,
+        "characters": 3796,
+        "domains": 212,
+        "materials": 738,
+        "enemies": 518,
+        "foods": 259,
+        "animals": 158,
+        "geographies": 1082,
+        "weapons": 75,
+        "extra/dialogue": 115,
+        "extra/facilities": 226,
+        "extra/objects": 447,
+        "extra/organizations": 205,
+        "extra/quests": 1652,
+        "extra/sereniteapot": 32,
+        "extra/story": 282,
+        "extra/system": 343,
+        "extra/events": 1705,
+        "extra/archives": 347
+      },
+      "variantRows": 332,
+      "rows": 12221
+    },
+    {
+      "code": "en-US",
+      "categories": {
+        "artifacts": 31,
+        "characters": 4609,
+        "domains": 240,
+        "materials": 741,
+        "enemies": 525,
+        "foods": 233,
+        "animals": 172,
+        "geographies": 1235,
+        "weapons": 56,
+        "extra/dialogue": 123,
+        "extra/facilities": 270,
+        "extra/objects": 508,
+        "extra/organizations": 243,
+        "extra/quests": 1769,
+        "extra/sereniteapot": 37,
+        "extra/story": 348,
+        "extra/system": 447,
+        "extra/events": 1842,
+        "extra/archives": 386
+      },
+      "variantRows": 395,
+      "rows": 13815
+    },
+    {
+      "code": "ja-JP",
+      "categories": {
+        "artifacts": 32,
+        "characters": 4221,
+        "domains": 226,
+        "materials": 789,
+        "enemies": 697,
+        "foods": 246,
+        "animals": 175,
+        "geographies": 1163,
+        "weapons": 69,
+        "extra/dialogue": 121,
+        "extra/facilities": 236,
+        "extra/objects": 472,
+        "extra/organizations": 209,
+        "extra/quests": 1753,
+        "extra/sereniteapot": 32,
+        "extra/story": 302,
+        "extra/system": 387,
+        "extra/events": 1796,
+        "extra/archives": 382
+      },
+      "variantRows": 283,
+      "rows": 13308
+    }
+  ]
+}
