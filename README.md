@@ -1,2 +1,102 @@
-# -Game-translation-terminology-database
-一种主要用于沉浸式翻译等AI翻译软件的术语库 / A terminology database primarily used in AI translation software, such as immersive translation / AI翻訳ソフトウェア、特に没入型翻訳などに主に用いられる用語集
+# 游戏翻译术语库 / Game-translation-terminology-database / ゲーム翻訳用語集
+
+一种主要用于沉浸式翻译等AI翻译软件的术语库
+
+A terminology database primarily used in AI translation software, such as immersive translation
+
+AI翻訳ソフトウェア、特に没入型翻訳などに主に用いられる用語集
+
+主要通过本人收集自己日常所需要的翻译术语，通过相关AI软件对其进行整理。
+
+I primarily gather the translation terminology I need for daily use by myself and organize it using relevant AI software.
+
+主に自分で日常的に必要な翻訳用語を収集し、関連するAIソフトウェアを使ってそれらを整理する。
+
+
+
+## 使用方法：
+1、选择仓库中的单个文件，进入文件详情页后直接选择下载。下载后的表格文件可自行转换成csv等可被软件识别的格式
+
+2、直接选择下载整个仓库，再自行选择使用哪些文件。
+
+
+
+## Usage:
+1. Select a single file from the warehouse, enter the file details page, and directly choose to download. The downloaded table file can be converted into a format that can be recognized by software, such as CSV
+2. 
+3. Simply choose to download the entire repository, and then manually select which files to use.
+
+
+
+## 使用方法：
+1.倉庫内の単一ファイルを選択し、ファイル詳細ページに進んだら直接ダウンロードを選択する。ダウンロード後のテーブルファイルは、CSVなどのソフトウェアで認識可能なフォーマットに自分で変換できる
+
+2. 一括ダウンロードを選択し、使用するファイルを自由に選ぶ。
+
+
+## 免责声明 / Disclaimer
+
+本项目（**Game-translation-terminology-database / 游戏翻译术语库**）为个人整理与维护的非官方翻译术语资料库，主要用于个人学习、研究以及辅助 AI 翻译软件（包括但不限于沉浸式翻译等）的术语翻译。
+
+### 1. 非官方项目
+
+本项目及其维护者**与任何相关游戏的开发商、发行商、代理商、运营商、版权方或其他相关企业、组织不存在任何从属、授权、合作、代理或官方代表关系**。
+
+除非另有明确说明，本项目中的任何内容均**不代表相关游戏企业或版权方的官方立场、官方译名、官方术语或官方翻译**。
+
+### 2. 知识产权
+
+本项目中出现的游戏名称、作品名称、角色名称、人物名称、地名、组织名称、技能名称、道具名称、专有名词、商标、Logo 及其他相关内容，其相应的著作权、商标权及其他知识产权均归属于各自的合法权利人。
+
+本项目不主张对上述第三方知识产权拥有任何权利。
+
+本项目建立术语对照关系的目的主要是为了方便翻译软件进行文本翻译、语言学习、资料整理及相关研究，不意味着相关权利人对本项目或其中内容进行了任何形式的认可、授权或背书。
+
+### 3. 术语来源与准确性
+
+本项目中的术语主要由维护者根据个人实际使用需求，通过公开资料、个人整理以及相关 AI 软件辅助整理等方式收集和制作。
+
+由于不同语言版本、地区版本、游戏版本以及官方本地化方案可能存在差异，**本项目中的译名、术语及对应关系不保证始终准确、完整或与游戏官方当前版本保持一致**。
+
+部分内容可能存在：
+
+* 翻译错误或遗漏；
+* 不同地区官方译名差异；
+* 游戏版本更新导致的术语变化；
+* 同一术语存在多种译法；
+* AI 辅助整理产生的错误；
+* 第三方资料本身存在错误等情况。
+
+因此，本项目内容**不应被视为任何游戏的官方术语表或官方本地化文件**。
+
+### 4. AI 翻译结果
+
+本项目主要用于辅助AI翻译软件进行术语匹配与翻译。由于AI翻译系统本身具有一定的不确定性，即使使用本项目提供的术语，也**无法保证最终翻译结果完全准确**。
+
+使用本项目产生的任何翻译结果，均应由使用者根据具体语境自行判断。对于因使用本项目或基于本项目产生的翻译结果而造成的任何直接或间接损失，项目维护者不承担责任。
+
+### 5. 使用责任
+
+本项目内容仅供学习、研究、个人翻译辅助及其他合法用途使用。
+
+使用者应自行确保其对本项目及其生成、整理或修改后的内容的使用符合所在地法律法规以及相关服务、软件和游戏的用户协议。
+
+**使用本项目及其相关内容所产生的一切责任由使用者自行承担。**
+
+### 6. 权利人联系
+
+如果任何游戏开发商、发行商、代理商、版权方、商标权人或其他相关权利人认为本项目中的某项内容存在侵犯其合法权益、使用不当、表述不准确或其他需要处理的情况，欢迎通过 GitHub Issues、Pull Request 或其他公开联系方式与项目维护者联系。
+
+在收到合理的权利人反馈后，维护者将根据具体情况对相关内容进行核实、修改或删除。
+
+### 7. 其他
+
+本免责声明并不构成对任何第三方知识产权的放弃，也不构成任何形式的授权、许可、合作或商业关系声明。
+
+如本项目中的内容与相关游戏官方公布的内容存在冲突，**应以相关权利人正式发布的官方信息为准。**
+
+---
+
+**Game-translation-terminology-database 是一个独立的个人项目，与上述任何游戏及其相关企业、组织无关。**
+
+**Game-translation-terminology-database is an independent personal project and is not affiliated with, endorsed by, sponsored by, or officially connected with any of the games, developers, publishers, distributors, operators, or rights holders mentioned in this repository.**
