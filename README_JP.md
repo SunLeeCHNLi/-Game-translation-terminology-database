@@ -20,6 +20,8 @@
 
 **原神（Genshin Impact）**: [genshin-db](https://github.com/theBowja/genshin-db); [genshin-langdata](https://github.com/xicri/genshin-langdata)
 
+**アークナイツ（Arknights）**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite)；[ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata)；[Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
+
 ## 免責事項
 
 本プロジェクト（**Game-translation-terminology-database / ゲーム翻訳用語集**）は、個人が独自に収集・整理・管理している非公式の翻訳用語データベースです。主として個人的な学習、研究、および「没入型翻訳（Immersive Translation）」をはじめとするAI翻訳ソフトウェアの翻訳支援を目的としています。
