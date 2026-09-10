@@ -1,0 +1,220 @@
+﻿category,category_label,source_table,term_count
+01_character,角色名称,AffinityLevel.json,1
+01_character,角色名称,BoardNPC.json,6
+01_character,角色名称,Character.json,39
+01_character,角色名称,CharacterArchiveBaseInfo.json,17
+01_character,角色名称,CharacterDes.json,36
+01_character,角色名称,CharacterSkin.json,104
+01_character,角色名称,CharacterTag.json,25
+01_character,角色名称,Item.json (Type 10/Stype 46),1
+01_character,角色名称,Item.json (Type 18/Stype 49),4
+01_character,角色名称,NPCAffinityGroup.json,5
+01_character,角色名称,NPCConfig.json,6
+01_character,角色名称,SoldierCharacter.json,20
+01_character,角色名称,SoldierPartner.json,11
+01_character,角色名称,SoldierPartnerGroup.json,1
+01_character,角色名称,SoldierSkin.json,8
+01_character,角色名称,TrialCharacter.json,3
+02_skill,技能名称,MainSkill.json,100
+02_skill,技能名称,SecondarySkill.json,140
+02_skill,技能名称,Skill.json,369
+02_skill,技能名称,SkillInstance.json,3
+02_skill,技能名称,SkillInstanceType.json,3
+02_skill,技能名称,SubNoteSkill.json,13
+03_potential,潜能名称,Item.json (Type 6/Stype 41),784
+03_potential,潜能名称,Item.json (Type 6/Stype 42),260
+03_potential,潜能名称,PotentialPreset.json,2
+03_potential,潜能名称,SoldierPotential.json,80
+03_potential,潜能名称,Talent.json,222
+03_potential,潜能名称,TalentGroup.json,2
+03_potential,潜能名称,TowerDefensePotential.json,75
+03_potential,潜能名称,VampireTalent.json,32
+04_disc,唱片 / Disc,DiscIP.json,104
+04_disc,唱片 / Disc,DiscTag.json,24
+04_disc,唱片 / Disc,Item.json (Type 2/Stype 12),4
+04_disc,唱片 / Disc,Item.json (Type 2/Stype 40),100
+04_disc,唱片 / Disc,Item.json (Type 7/Stype 8),2
+05_item,道具,ActivityGoods.json,96
+05_item,道具,GoldenSpyItem.json,10
+05_item,道具,Item.json (Type 1/Stype 1),13
+05_item,道具,Item.json (Type 11/Stype 30),3
+05_item,道具,Item.json (Type 15/Stype 15),2
+05_item,道具,Item.json (Type 16/Stype 1),1
+05_item,道具,Item.json (Type 17/Stype 1),1
+05_item,道具,Item.json (Type 18/Stype 1),1
+05_item,道具,Item.json (Type 2/Stype 13),1
+05_item,道具,Item.json (Type 2/Stype 2),92
+05_item,道具,Item.json (Type 2/Stype 31),2
+05_item,道具,Item.json (Type 2/Stype 32),3
+05_item,道具,Item.json (Type 2/Stype 33),5
+05_item,道具,Item.json (Type 2/Stype 34),1
+05_item,道具,Item.json (Type 2/Stype 35),1
+05_item,道具,Item.json (Type 2/Stype 44),2
+05_item,道具,Item.json (Type 2/Stype 48),2
+05_item,道具,Item.json (Type 2/Stype 6),39
+05_item,道具,Item.json (Type 4/Stype 4),1
+05_item,道具,Item.json (Type 5/Stype 5),1
+05_item,道具,Item.json (Type 6/Stype 1),1
+05_item,道具,Item.json (Type 6/Stype 2),2
+05_item,道具,ItemPackMark.json,2
+05_item,道具,MallGem.json,1
+05_item,道具,MallMonthlyCard.json,2
+05_item,道具,MallPackage.json,168
+05_item,道具,MallShop.json,11
+05_item,道具,MiningTreasure.json,48
+05_item,道具,ResidentGoods.json,32
+05_item,道具,ThrowGiftItem.json,10
+05_item,道具,TowerDefenseItem.json,4
+06_equipment,装备,CharGem.json,9
+06_equipment,装备,CharGemInstance.json,3
+06_equipment,装备,CharGemInstanceType.json,3
+07_enemy,敌人,MonsterManual.json,340
+07_enemy,敌人,RegionBoss.json,6
+07_enemy,敌人,ScoreBossAbility.json,22
+07_enemy,敌人,ScoreBossGetControl.json,26
+07_enemy,敌人,TowerDefenseMonster.json,2
+07_enemy,敌人,TravelerDuelBoss.json,3
+08_stage,关卡,ActivityAvgLevel.json,7
+08_stage,关卡,ActivityIceCreamLevel.json,4
+08_stage,关卡,ActivityLevelsLevel.json,306
+08_stage,关卡,ActivityPenguinCardLevel.json,7
+08_stage,关卡,BreakOutLevel.json,24
+08_stage,关卡,Chapter.json,3
+08_stage,关卡,CookieLevel.json,40
+08_stage,关卡,DailyInstance.json,1
+08_stage,关卡,DailyInstanceType.json,1
+08_stage,关卡,GoldenSpyLevel.json,14
+08_stage,关卡,GoldenSpyLevelGroup.json,8
+08_stage,关卡,InfinityTower.json,7
+08_stage,关卡,InfinityTowerAffix.json,116
+08_stage,关卡,InfinityTowerDifficulty.json,129
+08_stage,关卡,JointDrillAffix.json,25
+08_stage,关卡,JointDrillLevel.json,3
+08_stage,关卡,JointDrill_2_Level.json,3
+08_stage,关卡,PenguinCardEndlessLevel.json,9
+08_stage,关卡,PenguinCardFloor.json,6
+08_stage,关卡,RegionBossAffix.json,15
+08_stage,关卡,RegionBossLevel.json,3
+08_stage,关卡,SoldierEventBattlePool.json,4
+08_stage,关卡,StarTowerGroup.json,4
+08_stage,关卡,StarTowerGrowthGroup.json,4
+08_stage,关卡,StoryChapter.json,9
+08_stage,关卡,StorySetChapter.json,17
+08_stage,关卡,StorySetSection.json,4
+08_stage,关卡,TowerDefenseLevel.json,35
+08_stage,关卡,TravelerDuelBossLevel.json,3
+08_stage,关卡,TravelerDuelChallengeAffix.json,126
+08_stage,关卡,TravelerDuelTarget.json,10
+08_stage,关卡,TutorialLevel.json,8
+08_stage,关卡,VampireSurvivor.json,29
+08_stage,关卡,WeekBossAffix.json,29
+08_stage,关卡,WeekBossLevel.json,6
+09_event,活动,ActivityDoubleQuest.json,7
+09_event,活动,ActivityPenguinCardQuest.json,24
+09_event,活动,ActivityPenguinCardQuestGroup.json,4
+09_event,活动,ActivityShop.json,18
+09_event,活动,ActivityStory.json,122
+09_event,活动,ActivityTaskGroup.json,10
+09_event,活动,BdConvertCondition.json,68
+09_event,活动,BdConvertContent.json,3
+09_event,活动,BdConvertRewardGroup.json,12
+09_event,活动,EventOptions.json,42
+09_event,活动,EventReminder.json,5
+09_event,活动,MiningQuest.json,21
+09_event,活动,MiningQuestGroup.json,3
+09_event,活动,StarTowerBookEntrance.json,13
+09_event,活动,StarTowerBookEventReward.json,129
+09_event,活动,TowerDefenseQuest.json,96
+09_event,活动,TowerDefenseQuestGroup.json,4
+10_system,系统术语,AffinityQuest.json,270
+10_system,系统术语,Agent.json,36
+10_system,系统术语,AgentTab.json,5
+10_system,系统术语,AssistQuest.json,70
+10_system,系统术语,BattlePassQuest.json,17
+10_system,系统术语,DailyQuest.json,13
+10_system,系统术语,EnergyBuy.json,2
+10_system,系统术语,ErrorCode.json,160
+10_system,系统术语,Gacha.json,35
+10_system,系统术语,GachaStorage.json,4
+10_system,系统术语,GachaType.json,9
+10_system,系统术语,JointDrillQuest.json,9
+10_system,系统术语,LevelQuest.json,17
+10_system,系统术语,LevelQuestTarget.json,29
+10_system,系统术语,LoginRewardGroup.json,7
+10_system,系统术语,MallPackagePage.json,6
+10_system,系统术语,MallRecommendGroup.json,4
+10_system,系统术语,MallShopPage.json,3
+10_system,系统术语,NotificationConfig.json,2
+10_system,系统术语,OpenFunc.json,33
+10_system,系统术语,PeriodicQuest.json,69
+10_system,系统术语,ResidentShop.json,4
+10_system,系统术语,SoldierQuest.json,12
+10_system,系统术语,SoldierQuestGroup.json,2
+10_system,系统术语,StarTowerBookFateCardQuest.json,16
+10_system,系统术语,StarTowerQuest.json,52
+10_system,系统术语,TourGuideQuest.json,59
+10_system,系统术语,TravelerDuelChallengeQuest.json,35
+10_system,系统术语,VampireSurvivorQuest.json,55
+10_system,系统术语,WeeklyQuest.json,12
+10_system,系统术语,WorldClass.json,8
+11_ui,UI术语,Achievement.json,629
+11_ui,UI术语,CharacterCG.json,39
+11_ui,UI术语,Honor.json,96
+11_ui,UI术语,InteractiveAction.json,5
+11_ui,UI术语,Item.json (Type 12/Stype 2),40
+11_ui,UI术语,Item.json (Type 13/Stype 43),69
+11_ui,UI术语,Item.json (Type 14/Stype 45),11
+11_ui,UI术语,JumpTo.json,61
+11_ui,UI术语,MailTemplate.json,4
+11_ui,UI术语,MainScreenCG.json,86
+11_ui,UI术语,PlayerHead.json,37
+11_ui,UI术语,StorySetTab.json,6
+11_ui,UI术语,Title.json,38
+11_ui,UI术语,TopBar.json,51
+11_ui,UI术语,UIText.json,3076
+12_story,剧情专有名词,CharacterArchiveContent.json,146
+12_story,剧情专有名词,MangaLoading.json,51
+12_story,剧情专有名词,NPCAffinityPlot.json,2
+12_story,剧情专有名词,Plot.json,117
+12_story,剧情专有名词,StarTowerTalk.json,4
+12_story,剧情专有名词,Story.json,170
+12_story,剧情专有名词,StoryEvidence.json,21
+12_story,剧情专有名词,StoryPreview.json,16
+13_faction,阵营,ContentWord.json,5
+13_faction,阵营,Force.json,16
+14_location,地点,DatingLandmark.json,6
+14_location,地点,StarTower.json,4
+14_location,地点,curated (aligned in-game text),17
+15_terminology,游戏机制术语,DemonAdvance.json,1
+15_terminology,游戏机制术语,DictionaryDiagram.json,183
+15_terminology,游戏机制术语,DictionaryEntry.json,25
+15_terminology,游戏机制术语,DictionaryTab.json,3
+15_terminology,游戏机制术语,DictionaryTopBarEntry.json,35
+15_terminology,游戏机制术语,EffectDesc.json,82
+15_terminology,游戏机制术语,FateCard.json,234
+15_terminology,游戏机制术语,GoldenSpyBuffCard.json,59
+15_terminology,游戏机制术语,IceCreamBuff.json,5
+15_terminology,游戏机制术语,Item.json (Type 6/Stype 19),13
+15_terminology,游戏机制术语,MiningSupport.json,29
+15_terminology,游戏机制术语,PenguinBaseCard.json,8
+15_terminology,游戏机制术语,PenguinCard.json,164
+15_terminology,游戏机制术语,PenguinCardAide.json,6
+15_terminology,游戏机制术语,PenguinCardBuff.json,8
+15_terminology,游戏机制术语,PenguinCardHandRank.json,8
+15_terminology,游戏机制术语,ProductionType.json,3
+15_terminology,游戏机制术语,SoldierChessType.json,3
+15_terminology,游戏机制术语,SoldierGradeChallenge.json,2
+15_terminology,游戏机制术语,SoldierKeyGrade.json,2
+15_terminology,游戏机制术语,SoldierPositionEffect.json,9
+15_terminology,游戏机制术语,SoldierRecommendBuilds.json,8
+15_terminology,游戏机制术语,SoldierStarterCard.json,39
+15_terminology,游戏机制术语,SoldierStrategyCard.json,45
+15_terminology,游戏机制术语,StarTowerBookFateCard.json,2
+15_terminology,游戏机制术语,StarTowerBookFateCardBundle.json,15
+15_terminology,游戏机制术语,StarTowerGrowthNode.json,58
+15_terminology,游戏机制术语,StoryPersonality.json,3
+15_terminology,游戏机制术语,StoryRolePersonality.json,1
+15_terminology,游戏机制术语,ThrowGiftLevel.json,3
+15_terminology,游戏机制术语,TrialBuild.json,13
+15_terminology,游戏机制术语,VampireTalentDesc.json,14
+15_terminology,游戏机制术语,Word.json,153

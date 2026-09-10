@@ -16,7 +16,7 @@
 
 **アズールレーン（Azur Lane）**: [AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData); [AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
 
-**ステラソラ（Stella Sora）**: [Hiro420 / StellaSoraData](https://github.com/Hiro420/StellaSoraData); [JforPlay / sstoy](https://github.com/JforPlay/sstoy)
+**ステラソラ（Stella Sora）**: [StellaSoraData](https://github.com/Hiro420/StellaSoraData); [sstoy](https://github.com/JforPlay/sstoy)
 
 **原神（Genshin Impact）**: [genshin-db](https://github.com/theBowja/genshin-db); [genshin-langdata](https://github.com/xicri/genshin-langdata)
 

@@ -1,0 +1,444 @@
+﻿source,target,tgt_lng
+ASPD +5,攻擊速度+5,zh-TW
+ASPD +6,攻擊速度+6,zh-TW
+ASPD +8,攻擊速度+8,zh-TW
+ATK +12,攻擊力+12,zh-TW
+ATK +15,攻擊力+15,zh-TW
+ATK +18,攻擊力+18,zh-TW
+ATK +19,攻擊力+19,zh-TW
+ATK +20,攻擊力+20,zh-TW
+ATK +21,攻擊力+21,zh-TW
+ATK +22,攻擊力+22,zh-TW
+ATK +23,攻擊力+23,zh-TW
+ATK +24,攻擊力+24,zh-TW
+ATK +25,攻擊力+25,zh-TW
+ATK +26,攻擊力+26,zh-TW
+ATK +27,攻擊力+27,zh-TW
+ATK +28,攻擊力+28,zh-TW
+ATK +29,攻擊力+29,zh-TW
+ATK +30,攻擊力+30,zh-TW
+ATK +31,攻擊力+31,zh-TW
+ATK +32,攻擊力+32,zh-TW
+ATK +33,攻擊力+33,zh-TW
+ATK +34,攻擊力+34,zh-TW
+ATK +35,攻擊力+35,zh-TW
+ATK +36,攻擊力+36,zh-TW
+ATK +37,攻擊力+37,zh-TW
+ATK +40,攻擊力+40,zh-TW
+ATK +45,攻擊力+45,zh-TW
+ATK +46,攻擊力+46,zh-TW
+ATK +52,攻擊力+52,zh-TW
+ATK +9,攻擊力+9,zh-TW
+Antique Caster Token,術師信物藏品,zh-TW
+Antique Defender Token,重裝信物藏品,zh-TW
+Antique Guard Token,近衛信物藏品,zh-TW
+Antique Medic Token,醫療信物藏品,zh-TW
+Antique Sniper Token,狙擊信物藏品,zh-TW
+Antique Specialist Token,特種信物藏品,zh-TW
+Antique Supporter Token,輔助信物藏品,zh-TW
+Antique Vanguard Token,先鋒信物藏品,zh-TW
+DEF +19,防禦力+19,zh-TW
+DEF +20,防禦力+20,zh-TW
+DEF +22,防禦力+22,zh-TW
+DEF +23,防禦力+23,zh-TW
+DEF +24,防禦力+24,zh-TW
+DEF +25,防禦力+25,zh-TW
+DEF +26,防禦力+26,zh-TW
+DEF +27,防禦力+27,zh-TW
+DEF +28,防禦力+28,zh-TW
+DEF +29,防禦力+29,zh-TW
+DEF +30,防禦力+30,zh-TW
+DEF +35,防禦力+35,zh-TW
+DP Cost -1,部署費用-1,zh-TW
+Epic Caster Token,術師遺產信物,zh-TW
+Epic Defender Token,重裝遺產信物,zh-TW
+Epic Guard Token,近衛遺產信物,zh-TW
+Epic Medic Token,醫療遺產信物,zh-TW
+Epic Sniper Token,狙擊遺產信物,zh-TW
+Epic Specialist Token,特種遺產信物,zh-TW
+Epic Supporter Token,輔助遺產信物,zh-TW
+Epic Vanguard Token,先鋒遺產信物,zh-TW
+Improves First Talent,第一天賦效果增強,zh-TW
+Improves Second Talent,第二天賦效果增強,zh-TW
+Improves Talent,天賦效果加強,zh-TW
+Improves Talent,天賦效果增強,zh-TW
+Max HP +100,生命上限+100,zh-TW
+Max HP +130,生命上限+130,zh-TW
+Max HP +140,生命上限+140,zh-TW
+Max HP +150,生命上限+150,zh-TW
+Max HP +160,生命上限+160,zh-TW
+Max HP +180,最大生命值+180,zh-TW
+Max HP +180,生命上限+180,zh-TW
+Max HP +200,生命上限+200,zh-TW
+Max HP +210,生命上限+210,zh-TW
+Max HP +250,生命上限+250,zh-TW
+Max HP +270,生命上限+270,zh-TW
+Max HP +45,生命上限+45,zh-TW
+Max HP +50,生命上限+50,zh-TW
+Original Caster Token,術師信物原件,zh-TW
+Original Defender Token,重裝信物原件,zh-TW
+Original Guard Token,近衛信物原件,zh-TW
+Original Medic Token,醫療信物原件,zh-TW
+Original Sniper Token,狙擊信物原件,zh-TW
+Original Specialist Token,特種信物原件,zh-TW
+Original Supporter Token,輔助信物原件,zh-TW
+Original Vanguard Token,先鋒信物原件,zh-TW
+RES +10,法術抗性+10,zh-TW
+RES +12,法術抗性+12,zh-TW
+RES +8,法術抗性+8,zh-TW
+Rare Caster Token,術師傳承信物,zh-TW
+Rare Defender Token,重裝傳承信物,zh-TW
+Rare Guard Token,近衛傳承信物,zh-TW
+Rare Medic Token,醫療傳承信物,zh-TW
+Rare Sniper Token,狙擊傳承信物,zh-TW
+Rare Specialist Token,特種傳承信物,zh-TW
+Rare Supporter Token,輔助傳承信物,zh-TW
+Rare Vanguard Token,先鋒傳承信物,zh-TW
+Redeployment Time -10 sec,再部署時間-10秒,zh-TW
+Redeployment Time -2 sec,再部署時間-2秒,zh-TW
+Redeployment Time -3 sec,再部署時間-3秒,zh-TW
+Redeployment Time -4 sec,再部署時間-4秒,zh-TW
+Redeployment Time -5 sec,再部署時間-5秒,zh-TW
+Redeployment Time -6 sec,再部署時間-6秒,zh-TW
+Replicated Caster Token,術師信物複製品,zh-TW
+Replicated Defender Token,重裝信物複製品,zh-TW
+Replicated Guard Token,近衛信物複製品,zh-TW
+Replicated Medic Token,醫療信物複製品,zh-TW
+Replicated Sniper Token,狙擊信物複製品,zh-TW
+Replicated Specialist Token,特種信物複製品,zh-TW
+Replicated Supporter Token,輔助信物複製品,zh-TW
+Replicated Vanguard Token,先鋒信物複製品,zh-TW
+Royal Caster Token,術師皇家信物,zh-TW
+Royal Defender Token,重裝皇家信物,zh-TW
+Royal Guard Token,近衛皇家信物,zh-TW
+Royal Medic Token,醫療皇家信物,zh-TW
+Royal Sniper Token,狙擊皇家信物,zh-TW
+Royal Specialist Token,特種皇家信物,zh-TW
+Royal Supporter Token,輔助皇家信物,zh-TW
+Royal Vanguard Token,先鋒皇家信物,zh-TW
+★1先鋒の印,先鋒信物複製品,zh-TW
+★1前衛の印,近衛信物複製品,zh-TW
+★1医療の印,醫療信物複製品,zh-TW
+★1特殊の印,特種信物複製品,zh-TW
+★1狙撃の印,狙擊信物複製品,zh-TW
+★1術師の印,術師信物複製品,zh-TW
+★1補助の印,輔助信物複製品,zh-TW
+★1重装の印,重裝信物複製品,zh-TW
+★2先鋒の印,先鋒信物原件,zh-TW
+★2前衛の印,近衛信物原件,zh-TW
+★2医療の印,醫療信物原件,zh-TW
+★2特殊の印,特種信物原件,zh-TW
+★2狙撃の印,狙擊信物原件,zh-TW
+★2術師の印,術師信物原件,zh-TW
+★2補助の印,輔助信物原件,zh-TW
+★2重装の印,重裝信物原件,zh-TW
+★3先鋒の印,先鋒信物藏品,zh-TW
+★3前衛の印,近衛信物藏品,zh-TW
+★3医療の印,醫療信物藏品,zh-TW
+★3特殊の印,特種信物藏品,zh-TW
+★3狙撃の印,狙擊信物藏品,zh-TW
+★3術師の印,術師信物藏品,zh-TW
+★3補助の印,輔助信物藏品,zh-TW
+★3重装の印,重裝信物藏品,zh-TW
+★4先鋒の印,先鋒傳承信物,zh-TW
+★4前衛の印,近衛傳承信物,zh-TW
+★4医療の印,醫療傳承信物,zh-TW
+★4特殊の印,特種傳承信物,zh-TW
+★4狙撃の印,狙擊傳承信物,zh-TW
+★4術師の印,術師傳承信物,zh-TW
+★4補助の印,輔助傳承信物,zh-TW
+★4重装の印,重裝傳承信物,zh-TW
+★5先鋒の印,先鋒遺產信物,zh-TW
+★5前衛の印,近衛遺產信物,zh-TW
+★5医療の印,醫療遺產信物,zh-TW
+★5特殊の印,特種遺產信物,zh-TW
+★5狙撃の印,狙擊遺產信物,zh-TW
+★5術師の印,術師遺產信物,zh-TW
+★5補助の印,輔助遺產信物,zh-TW
+★5重装の印,重裝遺產信物,zh-TW
+★6先鋒の印,先鋒皇家信物,zh-TW
+★6前衛の印,近衛皇家信物,zh-TW
+★6医療の印,醫療皇家信物,zh-TW
+★6特殊の印,特種皇家信物,zh-TW
+★6狙撃の印,狙擊皇家信物,zh-TW
+★6術師の印,術師皇家信物,zh-TW
+★6補助の印,輔助皇家信物,zh-TW
+★6重装の印,重裝皇家信物,zh-TW
+先锋传承信物,先鋒傳承信物,zh-TW
+先锋信物原件,先鋒信物原件,zh-TW
+先锋信物复制品,先鋒信物複製品,zh-TW
+先锋信物藏品,先鋒信物藏品,zh-TW
+先锋皇家信物,先鋒皇家信物,zh-TW
+先锋遗产信物,先鋒遺產信物,zh-TW
+再部署时间-10秒,再部署時間-10秒,zh-TW
+再部署时间-2秒,再部署時間-2秒,zh-TW
+再部署时间-3秒,再部署時間-3秒,zh-TW
+再部署时间-4秒,再部署時間-4秒,zh-TW
+再部署时间-5秒,再部署時間-5秒,zh-TW
+再部署时间-6秒,再部署時間-6秒,zh-TW
+再配置時間-10秒,再部署時間-10秒,zh-TW
+再配置時間-2秒,再部署時間-2秒,zh-TW
+再配置時間-3秒,再部署時間-3秒,zh-TW
+再配置時間-4秒,再部署時間-4秒,zh-TW
+再配置時間-5秒,再部署時間-5秒,zh-TW
+再配置時間-6秒,再部署時間-6秒,zh-TW
+医疗传承信物,醫療傳承信物,zh-TW
+医疗信物原件,醫療信物原件,zh-TW
+医疗信物复制品,醫療信物複製品,zh-TW
+医疗信物藏品,醫療信物藏品,zh-TW
+医疗皇家信物,醫療皇家信物,zh-TW
+医疗遗产信物,醫療遺產信物,zh-TW
+天赋效果加强,天賦效果加強,zh-TW
+天赋效果增强,天賦效果增強,zh-TW
+攻击力+12,攻擊力+12,zh-TW
+攻击力+15,攻擊力+15,zh-TW
+攻击力+18,攻擊力+18,zh-TW
+攻击力+19,攻擊力+19,zh-TW
+攻击力+20,攻擊力+20,zh-TW
+攻击力+21,攻擊力+21,zh-TW
+攻击力+22,攻擊力+22,zh-TW
+攻击力+23,攻擊力+23,zh-TW
+攻击力+24,攻擊力+24,zh-TW
+攻击力+25,攻擊力+25,zh-TW
+攻击力+26,攻擊力+26,zh-TW
+攻击力+27,攻擊力+27,zh-TW
+攻击力+28,攻擊力+28,zh-TW
+攻击力+29,攻擊力+29,zh-TW
+攻击力+30,攻擊力+30,zh-TW
+攻击力+31,攻擊力+31,zh-TW
+攻击力+32,攻擊力+32,zh-TW
+攻击力+33,攻擊力+33,zh-TW
+攻击力+34,攻擊力+34,zh-TW
+攻击力+35,攻擊力+35,zh-TW
+攻击力+36,攻擊力+36,zh-TW
+攻击力+37,攻擊力+37,zh-TW
+攻击力+40,攻擊力+40,zh-TW
+攻击力+45,攻擊力+45,zh-TW
+攻击力+46,攻擊力+46,zh-TW
+攻击力+52,攻擊力+52,zh-TW
+攻击力+9,攻擊力+9,zh-TW
+攻击速度+5,攻擊速度+5,zh-TW
+攻击速度+6,攻擊速度+6,zh-TW
+攻击速度+8,攻擊速度+8,zh-TW
+攻撃力+12,攻擊力+12,zh-TW
+攻撃力+15,攻擊力+15,zh-TW
+攻撃力+18,攻擊力+18,zh-TW
+攻撃力+19,攻擊力+19,zh-TW
+攻撃力+20,攻擊力+20,zh-TW
+攻撃力+21,攻擊力+21,zh-TW
+攻撃力+22,攻擊力+22,zh-TW
+攻撃力+23,攻擊力+23,zh-TW
+攻撃力+24,攻擊力+24,zh-TW
+攻撃力+25,攻擊力+25,zh-TW
+攻撃力+26,攻擊力+26,zh-TW
+攻撃力+27,攻擊力+27,zh-TW
+攻撃力+28,攻擊力+28,zh-TW
+攻撃力+29,攻擊力+29,zh-TW
+攻撃力+30,攻擊力+30,zh-TW
+攻撃力+31,攻擊力+31,zh-TW
+攻撃力+32,攻擊力+32,zh-TW
+攻撃力+33,攻擊力+33,zh-TW
+攻撃力+34,攻擊力+34,zh-TW
+攻撃力+35,攻擊力+35,zh-TW
+攻撃力+36,攻擊力+36,zh-TW
+攻撃力+37,攻擊力+37,zh-TW
+攻撃力+40,攻擊力+40,zh-TW
+攻撃力+45,攻擊力+45,zh-TW
+攻撃力+46,攻擊力+46,zh-TW
+攻撃力+52,攻擊力+52,zh-TW
+攻撃力+9,攻擊力+9,zh-TW
+攻撃速度+5,攻擊速度+5,zh-TW
+攻撃速度+6,攻擊速度+6,zh-TW
+攻撃速度+8,攻擊速度+8,zh-TW
+最大HP+100,生命上限+100,zh-TW
+最大HP+130,生命上限+130,zh-TW
+最大HP+140,生命上限+140,zh-TW
+最大HP+150,生命上限+150,zh-TW
+最大HP+160,生命上限+160,zh-TW
+最大HP+180,最大生命值+180,zh-TW
+最大HP+180,生命上限+180,zh-TW
+最大HP+200,生命上限+200,zh-TW
+最大HP+210,生命上限+210,zh-TW
+最大HP+250,生命上限+250,zh-TW
+最大HP+270,生命上限+270,zh-TW
+最大HP+45,生命上限+45,zh-TW
+最大HP+50,生命上限+50,zh-TW
+术师传承信物,術師傳承信物,zh-TW
+术师信物原件,術師信物原件,zh-TW
+术师信物复制品,術師信物複製品,zh-TW
+术师信物藏品,術師信物藏品,zh-TW
+术师皇家信物,術師皇家信物,zh-TW
+术师遗产信物,術師遺產信物,zh-TW
+法术抗性+10,法術抗性+10,zh-TW
+法术抗性+12,法術抗性+12,zh-TW
+法术抗性+8,法術抗性+8,zh-TW
+特种传承信物,特種傳承信物,zh-TW
+特种信物原件,特種信物原件,zh-TW
+特种信物复制品,特種信物複製品,zh-TW
+特种信物藏品,特種信物藏品,zh-TW
+特种皇家信物,特種皇家信物,zh-TW
+特种遗产信物,特種遺產信物,zh-TW
+狙击传承信物,狙擊傳承信物,zh-TW
+狙击信物原件,狙擊信物原件,zh-TW
+狙击信物复制品,狙擊信物複製品,zh-TW
+狙击信物藏品,狙擊信物藏品,zh-TW
+狙击皇家信物,狙擊皇家信物,zh-TW
+狙击遗产信物,狙擊遺產信物,zh-TW
+第一天赋效果增强,第一天賦效果增強,zh-TW
+第一素質強化,第一天賦效果增強,zh-TW
+第二天赋效果增强,第二天賦效果增強,zh-TW
+第二素質強化,第二天賦效果增強,zh-TW
+素質強化,天賦效果加強,zh-TW
+素質強化,天賦效果增強,zh-TW
+術耐性+10,法術抗性+10,zh-TW
+術耐性+12,法術抗性+12,zh-TW
+術耐性+8,法術抗性+8,zh-TW
+辅助传承信物,輔助傳承信物,zh-TW
+辅助信物原件,輔助信物原件,zh-TW
+辅助信物复制品,輔助信物複製品,zh-TW
+辅助信物藏品,輔助信物藏品,zh-TW
+辅助皇家信物,輔助皇家信物,zh-TW
+辅助遗产信物,輔助遺產信物,zh-TW
+近卫传承信物,近衛傳承信物,zh-TW
+近卫信物原件,近衛信物原件,zh-TW
+近卫信物复制品,近衛信物複製品,zh-TW
+近卫信物藏品,近衛信物藏品,zh-TW
+近卫皇家信物,近衛皇家信物,zh-TW
+近卫遗产信物,近衛遺產信物,zh-TW
+部署费用-1,部署費用-1,zh-TW
+配置コスト-1,部署費用-1,zh-TW
+重装传承信物,重裝傳承信物,zh-TW
+重装信物原件,重裝信物原件,zh-TW
+重装信物复制品,重裝信物複製品,zh-TW
+重装信物藏品,重裝信物藏品,zh-TW
+重装皇家信物,重裝皇家信物,zh-TW
+重装遗产信物,重裝遺產信物,zh-TW
+防御力+19,防禦力+19,zh-TW
+防御力+20,防禦力+20,zh-TW
+防御力+22,防禦力+22,zh-TW
+防御力+23,防禦力+23,zh-TW
+防御力+24,防禦力+24,zh-TW
+防御力+25,防禦力+25,zh-TW
+防御力+26,防禦力+26,zh-TW
+防御力+27,防禦力+27,zh-TW
+防御力+28,防禦力+28,zh-TW
+防御力+29,防禦力+29,zh-TW
+防御力+30,防禦力+30,zh-TW
+防御力+35,防禦力+35,zh-TW
+가드 레어 증표,近衛傳承信物,zh-TW
+가드 로열 증표,近衛皇家信物,zh-TW
+가드 앤틱 증표,近衛信物藏品,zh-TW
+가드 에픽 증표,近衛遺產信物,zh-TW
+가드 증표 복제품,近衛信物複製品,zh-TW
+가드 증표 원본,近衛信物原件,zh-TW
+공격 속도 +5,攻擊速度+5,zh-TW
+공격 속도 +6,攻擊速度+6,zh-TW
+공격 속도 +8,攻擊速度+8,zh-TW
+공격력 +12,攻擊力+12,zh-TW
+공격력 +15,攻擊力+15,zh-TW
+공격력 +18,攻擊力+18,zh-TW
+공격력 +19,攻擊力+19,zh-TW
+공격력 +20,攻擊力+20,zh-TW
+공격력 +21,攻擊力+21,zh-TW
+공격력 +22,攻擊力+22,zh-TW
+공격력 +23,攻擊力+23,zh-TW
+공격력 +24,攻擊力+24,zh-TW
+공격력 +25,攻擊力+25,zh-TW
+공격력 +26,攻擊力+26,zh-TW
+공격력 +27,攻擊力+27,zh-TW
+공격력 +28,攻擊力+28,zh-TW
+공격력 +29,攻擊力+29,zh-TW
+공격력 +30,攻擊力+30,zh-TW
+공격력 +31,攻擊力+31,zh-TW
+공격력 +32,攻擊力+32,zh-TW
+공격력 +33,攻擊力+33,zh-TW
+공격력 +34,攻擊力+34,zh-TW
+공격력 +35,攻擊力+35,zh-TW
+공격력 +36,攻擊力+36,zh-TW
+공격력 +37,攻擊力+37,zh-TW
+공격력 +40,攻擊力+40,zh-TW
+공격력 +45,攻擊力+45,zh-TW
+공격력 +46,攻擊力+46,zh-TW
+공격력 +52,攻擊力+52,zh-TW
+공격력 +9,攻擊力+9,zh-TW
+디펜더 레어 증표,重裝傳承信物,zh-TW
+디펜더 로열 증표,重裝皇家信物,zh-TW
+디펜더 앤틱 증표,重裝信物藏品,zh-TW
+디펜더 에픽 증표,重裝遺產信物,zh-TW
+디펜더 증표 복제품,重裝信物複製品,zh-TW
+디펜더 증표 원본,重裝信物原件,zh-TW
+마법 저항 +10,法術抗性+10,zh-TW
+마법 저항 +12,法術抗性+12,zh-TW
+마법 저항 +8,法術抗性+8,zh-TW
+메딕 레어 증표,醫療傳承信物,zh-TW
+메딕 로열 증표,醫療皇家信物,zh-TW
+메딕 앤틱 증표,醫療信物藏品,zh-TW
+메딕 에픽 증표,醫療遺產信物,zh-TW
+메딕 증표 복제품,醫療信物複製品,zh-TW
+메딕 증표 원본,醫療信物原件,zh-TW
+방어력 +19,防禦力+19,zh-TW
+방어력 +20,防禦力+20,zh-TW
+방어력 +22,防禦力+22,zh-TW
+방어력 +23,防禦力+23,zh-TW
+방어력 +24,防禦力+24,zh-TW
+방어력 +25,防禦力+25,zh-TW
+방어력 +26,防禦力+26,zh-TW
+방어력 +27,防禦力+27,zh-TW
+방어력 +28,防禦力+28,zh-TW
+방어력 +29,防禦力+29,zh-TW
+방어력 +30,防禦力+30,zh-TW
+방어력 +35,防禦力+35,zh-TW
+배치 코스트 -1,部署費用-1,zh-TW
+뱅가드 레어 증표,先鋒傳承信物,zh-TW
+뱅가드 로열 증표,先鋒皇家信物,zh-TW
+뱅가드 앤틱 증표,先鋒信物藏品,zh-TW
+뱅가드 에픽 증표,先鋒遺產信物,zh-TW
+뱅가드 증표 복제품,先鋒信物複製品,zh-TW
+뱅가드 증표 원본,先鋒信物原件,zh-TW
+서포터 레어 증표,輔助傳承信物,zh-TW
+서포터 로열 증표,輔助皇家信物,zh-TW
+서포터 앤틱 증표,輔助信物藏品,zh-TW
+서포터 에픽 증표,輔助遺產信物,zh-TW
+서포터 증표 복제품,輔助信物複製品,zh-TW
+서포터 증표 원본,輔助信物原件,zh-TW
+스나이퍼 레어 증표,狙擊傳承信物,zh-TW
+스나이퍼 로열 증표,狙擊皇家信物,zh-TW
+스나이퍼 앤틱 증표,狙擊信物藏品,zh-TW
+스나이퍼 에픽 증표,狙擊遺產信物,zh-TW
+스나이퍼 증표 복제품,狙擊信物複製品,zh-TW
+스나이퍼 증표 원본,狙擊信物原件,zh-TW
+스페셜리스트 레어 증표,特種傳承信物,zh-TW
+스페셜리스트 로열 증표,特種皇家信物,zh-TW
+스페셜리스트 앤틱 증표,特種信物藏品,zh-TW
+스페셜리스트 에픽 증표,特種遺產信物,zh-TW
+스페셜리스트 증표 복제품,特種信物複製品,zh-TW
+스페셜리스트 증표 원본,特種信物原件,zh-TW
+재능 강화,天賦效果加強,zh-TW
+재능 강화,天賦效果增強,zh-TW
+재배치 시간 -10초,再部署時間-10秒,zh-TW
+재배치 시간 -2초,再部署時間-2秒,zh-TW
+재배치 시간 -3초,再部署時間-3秒,zh-TW
+재배치 시간 -4초,再部署時間-4秒,zh-TW
+재배치 시간 -5초,再部署時間-5秒,zh-TW
+재배치 시간 -6초,再部署時間-6秒,zh-TW
+제1재능 강화,第一天賦效果增強,zh-TW
+제2재능 강화,第二天賦效果增強,zh-TW
+최대 HP +100,生命上限+100,zh-TW
+최대 HP +130,生命上限+130,zh-TW
+최대 HP +140,生命上限+140,zh-TW
+최대 HP +150,生命上限+150,zh-TW
+최대 HP +160,生命上限+160,zh-TW
+최대 HP +180,最大生命值+180,zh-TW
+최대 HP +180,生命上限+180,zh-TW
+최대 HP +200,生命上限+200,zh-TW
+최대 HP +210,生命上限+210,zh-TW
+최대 HP +250,生命上限+250,zh-TW
+최대 HP +270,生命上限+270,zh-TW
+최대 HP +45,生命上限+45,zh-TW
+최대 HP +50,生命上限+50,zh-TW
+캐스터 레어 증표,術師傳承信物,zh-TW
+캐스터 로열 증표,術師皇家信物,zh-TW
+캐스터 앤틱 증표,術師信物藏品,zh-TW
+캐스터 에픽 증표,術師遺產信物,zh-TW
+캐스터 증표 복제품,術師信物複製品,zh-TW
+캐스터 증표 원본,術師信物原件,zh-TW

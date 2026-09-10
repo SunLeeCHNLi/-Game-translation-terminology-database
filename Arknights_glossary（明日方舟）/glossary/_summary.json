@@ -1,0 +1,565 @@
+{
+ "generated": "Arknights gamedata (cn/tw/en/jp/kr)",
+ "categories": {
+  "01_干员名称": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 1452
+    },
+    "zh-TW": {
+     "rows": 1446
+    },
+    "en-US": {
+     "rows": 1451
+    },
+    "ja-JP": {
+     "rows": 1452
+    },
+    "ko-KR": {
+     "rows": 1451
+    }
+   },
+   "records": 436,
+   "records_all5": 434,
+   "present": {
+    "zh-CN": 436,
+    "zh-TW": 434,
+    "en-US": 436,
+    "ja-JP": 436,
+    "ko-KR": 436
+   }
+  },
+  "02_干员异格": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 130
+    },
+    "zh-TW": {
+     "rows": 130
+    },
+    "en-US": {
+     "rows": 130
+    },
+    "ja-JP": {
+     "rows": 130
+    },
+    "ko-KR": {
+     "rows": 130
+    }
+   },
+   "records": 34,
+   "records_all5": 34,
+   "present": {
+    "zh-CN": 34,
+    "zh-TW": 34,
+    "en-US": 34,
+    "ja-JP": 34,
+    "ko-KR": 34
+   }
+  },
+  "03_职业与分支": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 285
+    },
+    "zh-TW": {
+     "rows": 285
+    },
+    "en-US": {
+     "rows": 284
+    },
+    "ja-JP": {
+     "rows": 285
+    },
+    "ko-KR": {
+     "rows": 284
+    }
+   },
+   "records": 83,
+   "records_all5": 83,
+   "present": {
+    "zh-CN": 83,
+    "zh-TW": 83,
+    "en-US": 83,
+    "ja-JP": 83,
+    "ko-KR": 83
+   }
+  },
+  "04_技能名称": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 4913
+    },
+    "zh-TW": {
+     "rows": 4868
+    },
+    "en-US": {
+     "rows": 4913
+    },
+    "ja-JP": {
+     "rows": 4913
+    },
+    "ko-KR": {
+     "rows": 4912
+    }
+   },
+   "records": 1630,
+   "records_all5": 1599,
+   "present": {
+    "zh-CN": 1630,
+    "zh-TW": 1599,
+    "en-US": 1630,
+    "ja-JP": 1630,
+    "ko-KR": 1630
+   }
+  },
+  "05_技能描述关键术语": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 1174
+    },
+    "zh-TW": {
+     "rows": 1171
+    },
+    "en-US": {
+     "rows": 1067
+    },
+    "ja-JP": {
+     "rows": 1134
+    },
+    "ko-KR": {
+     "rows": 1138
+    }
+   },
+   "records": 350,
+   "records_all5": 296,
+   "present": {
+    "zh-CN": 350,
+    "zh-TW": 349,
+    "en-US": 313,
+    "ja-JP": 339,
+    "ko-KR": 342
+   }
+  },
+  "06_天赋": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 2114
+    },
+    "zh-TW": {
+     "rows": 2105
+    },
+    "en-US": {
+     "rows": 2114
+    },
+    "ja-JP": {
+     "rows": 2114
+    },
+    "ko-KR": {
+     "rows": 2114
+    }
+   },
+   "records": 586,
+   "records_all5": 583,
+   "present": {
+    "zh-CN": 586,
+    "zh-TW": 583,
+    "en-US": 586,
+    "ja-JP": 586,
+    "ko-KR": 586
+   }
+  },
+  "07_潜能": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 443
+    },
+    "zh-TW": {
+     "rows": 443
+    },
+    "en-US": {
+     "rows": 439
+    },
+    "ja-JP": {
+     "rows": 439
+    },
+    "ko-KR": {
+     "rows": 439
+    }
+   },
+   "records": 2068,
+   "records_all5": 2058,
+   "present": {
+    "zh-CN": 2068,
+    "zh-TW": 2058,
+    "en-US": 2068,
+    "ja-JP": 2068,
+    "ko-KR": 2068
+   }
+  },
+  "08_模组": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 3304
+    },
+    "zh-TW": {
+     "rows": 3283
+    },
+    "en-US": {
+     "rows": 3303
+    },
+    "ja-JP": {
+     "rows": 3304
+    },
+    "ko-KR": {
+     "rows": 3303
+    }
+   },
+   "records": 863,
+   "records_all5": 856,
+   "present": {
+    "zh-CN": 863,
+    "zh-TW": 856,
+    "en-US": 863,
+    "ja-JP": 863,
+    "ko-KR": 863
+   }
+  },
+  "09_敌人": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 4986
+    },
+    "zh-TW": {
+     "rows": 5088
+    },
+    "en-US": {
+     "rows": 5088
+    },
+    "ja-JP": {
+     "rows": 5088
+    },
+    "ko-KR": {
+     "rows": 5088
+    }
+   },
+   "records": 1361,
+   "records_all5": 1327,
+   "present": {
+    "zh-CN": 1327,
+    "zh-TW": 1361,
+    "en-US": 1361,
+    "ja-JP": 1361,
+    "ko-KR": 1361
+   }
+  },
+  "10_BOSS": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 709
+    },
+    "zh-TW": {
+     "rows": 709
+    },
+    "en-US": {
+     "rows": 709
+    },
+    "ja-JP": {
+     "rows": 709
+    },
+    "ko-KR": {
+     "rows": 709
+    }
+   },
+   "records": 229,
+   "records_all5": 229,
+   "present": {
+    "zh-CN": 229,
+    "zh-TW": 229,
+    "en-US": 229,
+    "ja-JP": 229,
+    "ko-KR": 229
+   }
+  },
+  "11_关卡": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 7817
+    },
+    "zh-TW": {
+     "rows": 7784
+    },
+    "en-US": {
+     "rows": 7799
+    },
+    "ja-JP": {
+     "rows": 7821
+    },
+    "ko-KR": {
+     "rows": 7826
+    }
+   },
+   "records": 3306,
+   "records_all5": 3263,
+   "present": {
+    "zh-CN": 3306,
+    "zh-TW": 3287,
+    "en-US": 3282,
+    "ja-JP": 3306,
+    "ko-KR": 3306
+   }
+  },
+  "12_地区": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 702
+    },
+    "zh-TW": {
+     "rows": 702
+    },
+    "en-US": {
+     "rows": 716
+    },
+    "ja-JP": {
+     "rows": 702
+    },
+    "ko-KR": {
+     "rows": 707
+    }
+   },
+   "records": 419,
+   "records_all5": 414,
+   "present": {
+    "zh-CN": 419,
+    "zh-TW": 414,
+    "en-US": 419,
+    "ja-JP": 419,
+    "ko-KR": 419
+   }
+  },
+  "13_阵营": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 167
+    },
+    "zh-TW": {
+     "rows": 167
+    },
+    "en-US": {
+     "rows": 167
+    },
+    "ja-JP": {
+     "rows": 167
+    },
+    "ko-KR": {
+     "rows": 167
+    }
+   },
+   "records": 46,
+   "records_all5": 46,
+   "present": {
+    "zh-CN": 46,
+    "zh-TW": 46,
+    "en-US": 46,
+    "ja-JP": 46,
+    "ko-KR": 46
+   }
+  },
+  "14_活动": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 839
+    },
+    "zh-TW": {
+     "rows": 824
+    },
+    "en-US": {
+     "rows": 836
+    },
+    "ja-JP": {
+     "rows": 835
+    },
+    "ko-KR": {
+     "rows": 835
+    }
+   },
+   "records": 299,
+   "records_all5": 291,
+   "present": {
+    "zh-CN": 299,
+    "zh-TW": 293,
+    "en-US": 297,
+    "ja-JP": 298,
+    "ko-KR": 297
+   }
+  },
+  "15_道具": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 2013
+    },
+    "zh-TW": {
+     "rows": 1984
+    },
+    "en-US": {
+     "rows": 2007
+    },
+    "ja-JP": {
+     "rows": 2011
+    },
+    "ko-KR": {
+     "rows": 2007
+    }
+   },
+   "records": 691,
+   "records_all5": 677,
+   "present": {
+    "zh-CN": 691,
+    "zh-TW": 678,
+    "en-US": 690,
+    "ja-JP": 691,
+    "ko-KR": 690
+   }
+  },
+  "16_装备": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 4971
+    },
+    "zh-TW": {
+     "rows": 4991
+    },
+    "en-US": {
+     "rows": 5045
+    },
+    "ja-JP": {
+     "rows": 4954
+    },
+    "ko-KR": {
+     "rows": 4949
+    }
+   },
+   "records": 5723,
+   "records_all5": 5718,
+   "present": {
+    "zh-CN": 5723,
+    "zh-TW": 5718,
+    "en-US": 5723,
+    "ja-JP": 5723,
+    "ko-KR": 5723
+   }
+  },
+  "17_材料": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 2494
+    },
+    "zh-TW": {
+     "rows": 2488
+    },
+    "en-US": {
+     "rows": 2494
+    },
+    "ja-JP": {
+     "rows": 2494
+    },
+    "ko-KR": {
+     "rows": 2494
+    }
+   },
+   "records": 676,
+   "records_all5": 674,
+   "present": {
+    "zh-CN": 676,
+    "zh-TW": 674,
+    "en-US": 676,
+    "ja-JP": 676,
+    "ko-KR": 676
+   }
+  },
+  "18_剧情专有名词": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 4961
+    },
+    "zh-TW": {
+     "rows": 4934
+    },
+    "en-US": {
+     "rows": 4961
+    },
+    "ja-JP": {
+     "rows": 4958
+    },
+    "ko-KR": {
+     "rows": 4962
+    }
+   },
+   "records": 2314,
+   "records_all5": 2303,
+   "present": {
+    "zh-CN": 2314,
+    "zh-TW": 2303,
+    "en-US": 2314,
+    "ja-JP": 2314,
+    "ko-KR": 2314
+   }
+  },
+  "19_UI与系统术语": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 8789
+    },
+    "zh-TW": {
+     "rows": 8799
+    },
+    "en-US": {
+     "rows": 8822
+    },
+    "ja-JP": {
+     "rows": 8813
+    },
+    "ko-KR": {
+     "rows": 8777
+    }
+   },
+   "records": 2479,
+   "records_all5": 2459,
+   "present": {
+    "zh-CN": 2476,
+    "zh-TW": 2473,
+    "en-US": 2471,
+    "ja-JP": 2472,
+    "ko-KR": 2471
+   }
+  },
+  "20_游戏机制": {
+   "by_lang": {
+    "zh-CN": {
+     "rows": 944
+    },
+    "zh-TW": {
+     "rows": 944
+    },
+    "en-US": {
+     "rows": 924
+    },
+    "ja-JP": {
+     "rows": 939
+    },
+    "ko-KR": {
+     "rows": 936
+    }
+   },
+   "records": 247,
+   "records_all5": 236,
+   "present": {
+    "zh-CN": 247,
+    "zh-TW": 247,
+    "en-US": 240,
+    "ja-JP": 245,
+    "ko-KR": 244
+   }
+  }
+ }
+}

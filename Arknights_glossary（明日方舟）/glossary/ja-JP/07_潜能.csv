@@ -1,0 +1,440 @@
+﻿source,target,tgt_lng
+ASPD +5,攻撃速度+5,ja-JP
+ASPD +6,攻撃速度+6,ja-JP
+ASPD +8,攻撃速度+8,ja-JP
+ATK +12,攻撃力+12,ja-JP
+ATK +15,攻撃力+15,ja-JP
+ATK +18,攻撃力+18,ja-JP
+ATK +19,攻撃力+19,ja-JP
+ATK +20,攻撃力+20,ja-JP
+ATK +21,攻撃力+21,ja-JP
+ATK +22,攻撃力+22,ja-JP
+ATK +23,攻撃力+23,ja-JP
+ATK +24,攻撃力+24,ja-JP
+ATK +25,攻撃力+25,ja-JP
+ATK +26,攻撃力+26,ja-JP
+ATK +27,攻撃力+27,ja-JP
+ATK +28,攻撃力+28,ja-JP
+ATK +29,攻撃力+29,ja-JP
+ATK +30,攻撃力+30,ja-JP
+ATK +31,攻撃力+31,ja-JP
+ATK +32,攻撃力+32,ja-JP
+ATK +33,攻撃力+33,ja-JP
+ATK +34,攻撃力+34,ja-JP
+ATK +35,攻撃力+35,ja-JP
+ATK +36,攻撃力+36,ja-JP
+ATK +37,攻撃力+37,ja-JP
+ATK +40,攻撃力+40,ja-JP
+ATK +45,攻撃力+45,ja-JP
+ATK +46,攻撃力+46,ja-JP
+ATK +52,攻撃力+52,ja-JP
+ATK +9,攻撃力+9,ja-JP
+Antique Caster Token,★3術師の印,ja-JP
+Antique Defender Token,★3重装の印,ja-JP
+Antique Guard Token,★3前衛の印,ja-JP
+Antique Medic Token,★3医療の印,ja-JP
+Antique Sniper Token,★3狙撃の印,ja-JP
+Antique Specialist Token,★3特殊の印,ja-JP
+Antique Supporter Token,★3補助の印,ja-JP
+Antique Vanguard Token,★3先鋒の印,ja-JP
+DEF +19,防御力+19,ja-JP
+DEF +20,防御力+20,ja-JP
+DEF +22,防御力+22,ja-JP
+DEF +23,防御力+23,ja-JP
+DEF +24,防御力+24,ja-JP
+DEF +25,防御力+25,ja-JP
+DEF +26,防御力+26,ja-JP
+DEF +27,防御力+27,ja-JP
+DEF +28,防御力+28,ja-JP
+DEF +29,防御力+29,ja-JP
+DEF +30,防御力+30,ja-JP
+DEF +35,防御力+35,ja-JP
+DP Cost -1,配置コスト-1,ja-JP
+Epic Caster Token,★5術師の印,ja-JP
+Epic Defender Token,★5重装の印,ja-JP
+Epic Guard Token,★5前衛の印,ja-JP
+Epic Medic Token,★5医療の印,ja-JP
+Epic Sniper Token,★5狙撃の印,ja-JP
+Epic Specialist Token,★5特殊の印,ja-JP
+Epic Supporter Token,★5補助の印,ja-JP
+Epic Vanguard Token,★5先鋒の印,ja-JP
+Improves First Talent,第一素質強化,ja-JP
+Improves Second Talent,第二素質強化,ja-JP
+Improves Talent,素質強化,ja-JP
+Max HP +100,最大HP+100,ja-JP
+Max HP +130,最大HP+130,ja-JP
+Max HP +140,最大HP+140,ja-JP
+Max HP +150,最大HP+150,ja-JP
+Max HP +160,最大HP+160,ja-JP
+Max HP +180,最大HP+180,ja-JP
+Max HP +200,最大HP+200,ja-JP
+Max HP +210,最大HP+210,ja-JP
+Max HP +250,最大HP+250,ja-JP
+Max HP +270,最大HP+270,ja-JP
+Max HP +45,最大HP+45,ja-JP
+Max HP +50,最大HP+50,ja-JP
+Original Caster Token,★2術師の印,ja-JP
+Original Defender Token,★2重装の印,ja-JP
+Original Guard Token,★2前衛の印,ja-JP
+Original Medic Token,★2医療の印,ja-JP
+Original Sniper Token,★2狙撃の印,ja-JP
+Original Specialist Token,★2特殊の印,ja-JP
+Original Supporter Token,★2補助の印,ja-JP
+Original Vanguard Token,★2先鋒の印,ja-JP
+RES +10,術耐性+10,ja-JP
+RES +12,術耐性+12,ja-JP
+RES +8,術耐性+8,ja-JP
+Rare Caster Token,★4術師の印,ja-JP
+Rare Defender Token,★4重装の印,ja-JP
+Rare Guard Token,★4前衛の印,ja-JP
+Rare Medic Token,★4医療の印,ja-JP
+Rare Sniper Token,★4狙撃の印,ja-JP
+Rare Specialist Token,★4特殊の印,ja-JP
+Rare Supporter Token,★4補助の印,ja-JP
+Rare Vanguard Token,★4先鋒の印,ja-JP
+Redeployment Time -10 sec,再配置時間-10秒,ja-JP
+Redeployment Time -2 sec,再配置時間-2秒,ja-JP
+Redeployment Time -3 sec,再配置時間-3秒,ja-JP
+Redeployment Time -4 sec,再配置時間-4秒,ja-JP
+Redeployment Time -5 sec,再配置時間-5秒,ja-JP
+Redeployment Time -6 sec,再配置時間-6秒,ja-JP
+Replicated Caster Token,★1術師の印,ja-JP
+Replicated Defender Token,★1重装の印,ja-JP
+Replicated Guard Token,★1前衛の印,ja-JP
+Replicated Medic Token,★1医療の印,ja-JP
+Replicated Sniper Token,★1狙撃の印,ja-JP
+Replicated Specialist Token,★1特殊の印,ja-JP
+Replicated Supporter Token,★1補助の印,ja-JP
+Replicated Vanguard Token,★1先鋒の印,ja-JP
+Royal Caster Token,★6術師の印,ja-JP
+Royal Defender Token,★6重装の印,ja-JP
+Royal Guard Token,★6前衛の印,ja-JP
+Royal Medic Token,★6医療の印,ja-JP
+Royal Sniper Token,★6狙撃の印,ja-JP
+Royal Specialist Token,★6特殊の印,ja-JP
+Royal Supporter Token,★6補助の印,ja-JP
+Royal Vanguard Token,★6先鋒の印,ja-JP
+先鋒信物原件,★2先鋒の印,ja-JP
+先鋒信物藏品,★3先鋒の印,ja-JP
+先鋒信物複製品,★1先鋒の印,ja-JP
+先鋒傳承信物,★4先鋒の印,ja-JP
+先鋒皇家信物,★6先鋒の印,ja-JP
+先鋒遺產信物,★5先鋒の印,ja-JP
+先锋传承信物,★4先鋒の印,ja-JP
+先锋信物原件,★2先鋒の印,ja-JP
+先锋信物复制品,★1先鋒の印,ja-JP
+先锋信物藏品,★3先鋒の印,ja-JP
+先锋皇家信物,★6先鋒の印,ja-JP
+先锋遗产信物,★5先鋒の印,ja-JP
+再部署时间-10秒,再配置時間-10秒,ja-JP
+再部署时间-2秒,再配置時間-2秒,ja-JP
+再部署时间-3秒,再配置時間-3秒,ja-JP
+再部署时间-4秒,再配置時間-4秒,ja-JP
+再部署时间-5秒,再配置時間-5秒,ja-JP
+再部署时间-6秒,再配置時間-6秒,ja-JP
+再部署時間-10秒,再配置時間-10秒,ja-JP
+再部署時間-2秒,再配置時間-2秒,ja-JP
+再部署時間-3秒,再配置時間-3秒,ja-JP
+再部署時間-4秒,再配置時間-4秒,ja-JP
+再部署時間-5秒,再配置時間-5秒,ja-JP
+再部署時間-6秒,再配置時間-6秒,ja-JP
+医疗传承信物,★4医療の印,ja-JP
+医疗信物原件,★2医療の印,ja-JP
+医疗信物复制品,★1医療の印,ja-JP
+医疗信物藏品,★3医療の印,ja-JP
+医疗皇家信物,★6医療の印,ja-JP
+医疗遗产信物,★5医療の印,ja-JP
+天賦效果加強,素質強化,ja-JP
+天賦效果增強,素質強化,ja-JP
+天赋效果加强,素質強化,ja-JP
+天赋效果增强,素質強化,ja-JP
+攻击力+12,攻撃力+12,ja-JP
+攻击力+15,攻撃力+15,ja-JP
+攻击力+18,攻撃力+18,ja-JP
+攻击力+19,攻撃力+19,ja-JP
+攻击力+20,攻撃力+20,ja-JP
+攻击力+21,攻撃力+21,ja-JP
+攻击力+22,攻撃力+22,ja-JP
+攻击力+23,攻撃力+23,ja-JP
+攻击力+24,攻撃力+24,ja-JP
+攻击力+25,攻撃力+25,ja-JP
+攻击力+26,攻撃力+26,ja-JP
+攻击力+27,攻撃力+27,ja-JP
+攻击力+28,攻撃力+28,ja-JP
+攻击力+29,攻撃力+29,ja-JP
+攻击力+30,攻撃力+30,ja-JP
+攻击力+31,攻撃力+31,ja-JP
+攻击力+32,攻撃力+32,ja-JP
+攻击力+33,攻撃力+33,ja-JP
+攻击力+34,攻撃力+34,ja-JP
+攻击力+35,攻撃力+35,ja-JP
+攻击力+36,攻撃力+36,ja-JP
+攻击力+37,攻撃力+37,ja-JP
+攻击力+40,攻撃力+40,ja-JP
+攻击力+45,攻撃力+45,ja-JP
+攻击力+46,攻撃力+46,ja-JP
+攻击力+52,攻撃力+52,ja-JP
+攻击力+9,攻撃力+9,ja-JP
+攻击速度+5,攻撃速度+5,ja-JP
+攻击速度+6,攻撃速度+6,ja-JP
+攻击速度+8,攻撃速度+8,ja-JP
+攻擊力+12,攻撃力+12,ja-JP
+攻擊力+15,攻撃力+15,ja-JP
+攻擊力+18,攻撃力+18,ja-JP
+攻擊力+19,攻撃力+19,ja-JP
+攻擊力+20,攻撃力+20,ja-JP
+攻擊力+21,攻撃力+21,ja-JP
+攻擊力+22,攻撃力+22,ja-JP
+攻擊力+23,攻撃力+23,ja-JP
+攻擊力+24,攻撃力+24,ja-JP
+攻擊力+25,攻撃力+25,ja-JP
+攻擊力+26,攻撃力+26,ja-JP
+攻擊力+27,攻撃力+27,ja-JP
+攻擊力+28,攻撃力+28,ja-JP
+攻擊力+29,攻撃力+29,ja-JP
+攻擊力+30,攻撃力+30,ja-JP
+攻擊力+31,攻撃力+31,ja-JP
+攻擊力+32,攻撃力+32,ja-JP
+攻擊力+33,攻撃力+33,ja-JP
+攻擊力+34,攻撃力+34,ja-JP
+攻擊力+35,攻撃力+35,ja-JP
+攻擊力+36,攻撃力+36,ja-JP
+攻擊力+37,攻撃力+37,ja-JP
+攻擊力+40,攻撃力+40,ja-JP
+攻擊力+45,攻撃力+45,ja-JP
+攻擊力+46,攻撃力+46,ja-JP
+攻擊力+52,攻撃力+52,ja-JP
+攻擊力+9,攻撃力+9,ja-JP
+攻擊速度+5,攻撃速度+5,ja-JP
+攻擊速度+6,攻撃速度+6,ja-JP
+攻擊速度+8,攻撃速度+8,ja-JP
+最大生命值+180,最大HP+180,ja-JP
+术师传承信物,★4術師の印,ja-JP
+术师信物原件,★2術師の印,ja-JP
+术师信物复制品,★1術師の印,ja-JP
+术师信物藏品,★3術師の印,ja-JP
+术师皇家信物,★6術師の印,ja-JP
+术师遗产信物,★5術師の印,ja-JP
+法术抗性+10,術耐性+10,ja-JP
+法术抗性+12,術耐性+12,ja-JP
+法术抗性+8,術耐性+8,ja-JP
+法術抗性+10,術耐性+10,ja-JP
+法術抗性+12,術耐性+12,ja-JP
+法術抗性+8,術耐性+8,ja-JP
+特种传承信物,★4特殊の印,ja-JP
+特种信物原件,★2特殊の印,ja-JP
+特种信物复制品,★1特殊の印,ja-JP
+特种信物藏品,★3特殊の印,ja-JP
+特种皇家信物,★6特殊の印,ja-JP
+特种遗产信物,★5特殊の印,ja-JP
+特種信物原件,★2特殊の印,ja-JP
+特種信物藏品,★3特殊の印,ja-JP
+特種信物複製品,★1特殊の印,ja-JP
+特種傳承信物,★4特殊の印,ja-JP
+特種皇家信物,★6特殊の印,ja-JP
+特種遺產信物,★5特殊の印,ja-JP
+狙击传承信物,★4狙撃の印,ja-JP
+狙击信物原件,★2狙撃の印,ja-JP
+狙击信物复制品,★1狙撃の印,ja-JP
+狙击信物藏品,★3狙撃の印,ja-JP
+狙击皇家信物,★6狙撃の印,ja-JP
+狙击遗产信物,★5狙撃の印,ja-JP
+狙擊信物原件,★2狙撃の印,ja-JP
+狙擊信物藏品,★3狙撃の印,ja-JP
+狙擊信物複製品,★1狙撃の印,ja-JP
+狙擊傳承信物,★4狙撃の印,ja-JP
+狙擊皇家信物,★6狙撃の印,ja-JP
+狙擊遺產信物,★5狙撃の印,ja-JP
+生命上限+100,最大HP+100,ja-JP
+生命上限+130,最大HP+130,ja-JP
+生命上限+140,最大HP+140,ja-JP
+生命上限+150,最大HP+150,ja-JP
+生命上限+160,最大HP+160,ja-JP
+生命上限+180,最大HP+180,ja-JP
+生命上限+200,最大HP+200,ja-JP
+生命上限+210,最大HP+210,ja-JP
+生命上限+250,最大HP+250,ja-JP
+生命上限+270,最大HP+270,ja-JP
+生命上限+45,最大HP+45,ja-JP
+生命上限+50,最大HP+50,ja-JP
+第一天賦效果增強,第一素質強化,ja-JP
+第一天赋效果增强,第一素質強化,ja-JP
+第二天賦效果增強,第二素質強化,ja-JP
+第二天赋效果增强,第二素質強化,ja-JP
+術師信物原件,★2術師の印,ja-JP
+術師信物藏品,★3術師の印,ja-JP
+術師信物複製品,★1術師の印,ja-JP
+術師傳承信物,★4術師の印,ja-JP
+術師皇家信物,★6術師の印,ja-JP
+術師遺產信物,★5術師の印,ja-JP
+輔助信物原件,★2補助の印,ja-JP
+輔助信物藏品,★3補助の印,ja-JP
+輔助信物複製品,★1補助の印,ja-JP
+輔助傳承信物,★4補助の印,ja-JP
+輔助皇家信物,★6補助の印,ja-JP
+輔助遺產信物,★5補助の印,ja-JP
+辅助传承信物,★4補助の印,ja-JP
+辅助信物原件,★2補助の印,ja-JP
+辅助信物复制品,★1補助の印,ja-JP
+辅助信物藏品,★3補助の印,ja-JP
+辅助皇家信物,★6補助の印,ja-JP
+辅助遗产信物,★5補助の印,ja-JP
+近卫传承信物,★4前衛の印,ja-JP
+近卫信物原件,★2前衛の印,ja-JP
+近卫信物复制品,★1前衛の印,ja-JP
+近卫信物藏品,★3前衛の印,ja-JP
+近卫皇家信物,★6前衛の印,ja-JP
+近卫遗产信物,★5前衛の印,ja-JP
+近衛信物原件,★2前衛の印,ja-JP
+近衛信物藏品,★3前衛の印,ja-JP
+近衛信物複製品,★1前衛の印,ja-JP
+近衛傳承信物,★4前衛の印,ja-JP
+近衛皇家信物,★6前衛の印,ja-JP
+近衛遺產信物,★5前衛の印,ja-JP
+部署費用-1,配置コスト-1,ja-JP
+部署费用-1,配置コスト-1,ja-JP
+醫療信物原件,★2医療の印,ja-JP
+醫療信物藏品,★3医療の印,ja-JP
+醫療信物複製品,★1医療の印,ja-JP
+醫療傳承信物,★4医療の印,ja-JP
+醫療皇家信物,★6医療の印,ja-JP
+醫療遺產信物,★5医療の印,ja-JP
+重装传承信物,★4重装の印,ja-JP
+重装信物原件,★2重装の印,ja-JP
+重装信物复制品,★1重装の印,ja-JP
+重装信物藏品,★3重装の印,ja-JP
+重装皇家信物,★6重装の印,ja-JP
+重装遗产信物,★5重装の印,ja-JP
+重裝信物原件,★2重装の印,ja-JP
+重裝信物藏品,★3重装の印,ja-JP
+重裝信物複製品,★1重装の印,ja-JP
+重裝傳承信物,★4重装の印,ja-JP
+重裝皇家信物,★6重装の印,ja-JP
+重裝遺產信物,★5重装の印,ja-JP
+防禦力+19,防御力+19,ja-JP
+防禦力+20,防御力+20,ja-JP
+防禦力+22,防御力+22,ja-JP
+防禦力+23,防御力+23,ja-JP
+防禦力+24,防御力+24,ja-JP
+防禦力+25,防御力+25,ja-JP
+防禦力+26,防御力+26,ja-JP
+防禦力+27,防御力+27,ja-JP
+防禦力+28,防御力+28,ja-JP
+防禦力+29,防御力+29,ja-JP
+防禦力+30,防御力+30,ja-JP
+防禦力+35,防御力+35,ja-JP
+가드 레어 증표,★4前衛の印,ja-JP
+가드 로열 증표,★6前衛の印,ja-JP
+가드 앤틱 증표,★3前衛の印,ja-JP
+가드 에픽 증표,★5前衛の印,ja-JP
+가드 증표 복제품,★1前衛の印,ja-JP
+가드 증표 원본,★2前衛の印,ja-JP
+공격 속도 +5,攻撃速度+5,ja-JP
+공격 속도 +6,攻撃速度+6,ja-JP
+공격 속도 +8,攻撃速度+8,ja-JP
+공격력 +12,攻撃力+12,ja-JP
+공격력 +15,攻撃力+15,ja-JP
+공격력 +18,攻撃力+18,ja-JP
+공격력 +19,攻撃力+19,ja-JP
+공격력 +20,攻撃力+20,ja-JP
+공격력 +21,攻撃力+21,ja-JP
+공격력 +22,攻撃力+22,ja-JP
+공격력 +23,攻撃力+23,ja-JP
+공격력 +24,攻撃力+24,ja-JP
+공격력 +25,攻撃力+25,ja-JP
+공격력 +26,攻撃力+26,ja-JP
+공격력 +27,攻撃力+27,ja-JP
+공격력 +28,攻撃力+28,ja-JP
+공격력 +29,攻撃力+29,ja-JP
+공격력 +30,攻撃力+30,ja-JP
+공격력 +31,攻撃力+31,ja-JP
+공격력 +32,攻撃力+32,ja-JP
+공격력 +33,攻撃力+33,ja-JP
+공격력 +34,攻撃力+34,ja-JP
+공격력 +35,攻撃力+35,ja-JP
+공격력 +36,攻撃力+36,ja-JP
+공격력 +37,攻撃力+37,ja-JP
+공격력 +40,攻撃力+40,ja-JP
+공격력 +45,攻撃力+45,ja-JP
+공격력 +46,攻撃力+46,ja-JP
+공격력 +52,攻撃力+52,ja-JP
+공격력 +9,攻撃力+9,ja-JP
+디펜더 레어 증표,★4重装の印,ja-JP
+디펜더 로열 증표,★6重装の印,ja-JP
+디펜더 앤틱 증표,★3重装の印,ja-JP
+디펜더 에픽 증표,★5重装の印,ja-JP
+디펜더 증표 복제품,★1重装の印,ja-JP
+디펜더 증표 원본,★2重装の印,ja-JP
+마법 저항 +10,術耐性+10,ja-JP
+마법 저항 +12,術耐性+12,ja-JP
+마법 저항 +8,術耐性+8,ja-JP
+메딕 레어 증표,★4医療の印,ja-JP
+메딕 로열 증표,★6医療の印,ja-JP
+메딕 앤틱 증표,★3医療の印,ja-JP
+메딕 에픽 증표,★5医療の印,ja-JP
+메딕 증표 복제품,★1医療の印,ja-JP
+메딕 증표 원본,★2医療の印,ja-JP
+방어력 +19,防御力+19,ja-JP
+방어력 +20,防御力+20,ja-JP
+방어력 +22,防御力+22,ja-JP
+방어력 +23,防御力+23,ja-JP
+방어력 +24,防御力+24,ja-JP
+방어력 +25,防御力+25,ja-JP
+방어력 +26,防御力+26,ja-JP
+방어력 +27,防御力+27,ja-JP
+방어력 +28,防御力+28,ja-JP
+방어력 +29,防御力+29,ja-JP
+방어력 +30,防御力+30,ja-JP
+방어력 +35,防御力+35,ja-JP
+배치 코스트 -1,配置コスト-1,ja-JP
+뱅가드 레어 증표,★4先鋒の印,ja-JP
+뱅가드 로열 증표,★6先鋒の印,ja-JP
+뱅가드 앤틱 증표,★3先鋒の印,ja-JP
+뱅가드 에픽 증표,★5先鋒の印,ja-JP
+뱅가드 증표 복제품,★1先鋒の印,ja-JP
+뱅가드 증표 원본,★2先鋒の印,ja-JP
+서포터 레어 증표,★4補助の印,ja-JP
+서포터 로열 증표,★6補助の印,ja-JP
+서포터 앤틱 증표,★3補助の印,ja-JP
+서포터 에픽 증표,★5補助の印,ja-JP
+서포터 증표 복제품,★1補助の印,ja-JP
+서포터 증표 원본,★2補助の印,ja-JP
+스나이퍼 레어 증표,★4狙撃の印,ja-JP
+스나이퍼 로열 증표,★6狙撃の印,ja-JP
+스나이퍼 앤틱 증표,★3狙撃の印,ja-JP
+스나이퍼 에픽 증표,★5狙撃の印,ja-JP
+스나이퍼 증표 복제품,★1狙撃の印,ja-JP
+스나이퍼 증표 원본,★2狙撃の印,ja-JP
+스페셜리스트 레어 증표,★4特殊の印,ja-JP
+스페셜리스트 로열 증표,★6特殊の印,ja-JP
+스페셜리스트 앤틱 증표,★3特殊の印,ja-JP
+스페셜리스트 에픽 증표,★5特殊の印,ja-JP
+스페셜리스트 증표 복제품,★1特殊の印,ja-JP
+스페셜리스트 증표 원본,★2特殊の印,ja-JP
+재능 강화,素質強化,ja-JP
+재배치 시간 -10초,再配置時間-10秒,ja-JP
+재배치 시간 -2초,再配置時間-2秒,ja-JP
+재배치 시간 -3초,再配置時間-3秒,ja-JP
+재배치 시간 -4초,再配置時間-4秒,ja-JP
+재배치 시간 -5초,再配置時間-5秒,ja-JP
+재배치 시간 -6초,再配置時間-6秒,ja-JP
+제1재능 강화,第一素質強化,ja-JP
+제2재능 강화,第二素質強化,ja-JP
+최대 HP +100,最大HP+100,ja-JP
+최대 HP +130,最大HP+130,ja-JP
+최대 HP +140,最大HP+140,ja-JP
+최대 HP +150,最大HP+150,ja-JP
+최대 HP +160,最大HP+160,ja-JP
+최대 HP +180,最大HP+180,ja-JP
+최대 HP +200,最大HP+200,ja-JP
+최대 HP +210,最大HP+210,ja-JP
+최대 HP +250,最大HP+250,ja-JP
+최대 HP +270,最大HP+270,ja-JP
+최대 HP +45,最大HP+45,ja-JP
+최대 HP +50,最大HP+50,ja-JP
+캐스터 레어 증표,★4術師の印,ja-JP
+캐스터 로열 증표,★6術師の印,ja-JP
+캐스터 앤틱 증표,★3術師の印,ja-JP
+캐스터 에픽 증표,★5術師の印,ja-JP
+캐스터 증표 복제품,★1術師の印,ja-JP
+캐스터 증표 원본,★2術師の印,ja-JP

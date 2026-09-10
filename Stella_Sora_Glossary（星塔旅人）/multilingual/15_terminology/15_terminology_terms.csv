@@ -1,0 +1,1237 @@
+﻿id,zh-CN,en-US,ja-JP,ko-KR,zh-TW,src_table
+DemonAdvance.1.1,魔王权限等级,Authorization Level,魔王権限,마왕 권한 레벨,魔王權限等級,DemonAdvance.json
+DictionaryDiagram.10020101.1,升级,Level Up,レベルアップ,레벨업,升級,DictionaryDiagram.json
+DictionaryDiagram.10020102.1,进阶,Tier Up,昇格,승급,進階,DictionaryDiagram.json
+DictionaryDiagram.10020103.1,觉醒,Awakening,覚醒,각성,覺醒,DictionaryDiagram.json
+DictionaryDiagram.10030101.1,技能概述,Skills Description,スキル,스킬 설명,技能概述,DictionaryDiagram.json
+DictionaryDiagram.10030102.1,技能强化,Skills Enhancement,スキル強化,스킬 강화,技能強化,DictionaryDiagram.json
+DictionaryDiagram.10040102.1,词条解锁,Unlocking Affixes,特性解放,옵션 오픈,詞條解鎖,DictionaryDiagram.json
+DictionaryDiagram.10040103.1,词条契合度,Affix Synergy,特性のマッチ度,옵션 호환도,詞條契合度,DictionaryDiagram.json
+DictionaryDiagram.10060101.1,天赋概述,Talent Description,心相,특성 설명,天賦概述,DictionaryDiagram.json
+DictionaryDiagram.10060102.1,天赋效果,Talent Effect,心相の効果,특성 효과,天賦效果,DictionaryDiagram.json
+DictionaryDiagram.10070101.1,默契概述,Affinity Description,信頼,호감도 설명,默契概述,DictionaryDiagram.json
+DictionaryDiagram.10070102.1,默契获取-伙伴任务,Increase Affinity - Affinity Task,パートナー任務,호감도 획득 - 파트너 임무,默契獲得-夥伴任務,DictionaryDiagram.json
+DictionaryDiagram.10080101.1,旅人纹章,Trekker Emblem,巡遊者徽章,여행가 배지,旅人紋章,DictionaryDiagram.json
+DictionaryDiagram.10080102.1,纹章素材,Emblem Material,徽章素材,배지 재료,紋章素材,DictionaryDiagram.json
+DictionaryDiagram.10080103.1,旅人偏好,Trekker Preference,徽章スロット,여행가 취향,旅人偏好,DictionaryDiagram.json
+DictionaryDiagram.10080104.1,纹章铸造,Emblem Forging,徽章の鋳造,배지 연성,紋章鑄造,DictionaryDiagram.json
+DictionaryDiagram.10080105.1,纹章重铸,Emblem Reforging,特性の再抽選,배지 재련,紋章重鑄,DictionaryDiagram.json
+DictionaryDiagram.10080106.1,重铸锁定,Reforge Locking,特性ロック,재련 잠금,重鑄鎖定,DictionaryDiagram.json
+DictionaryDiagram.10080107.1,纹章跃升,Emblem Tempering,特性強化,배지 강화,紋章躍升,DictionaryDiagram.json
+DictionaryDiagram.20020101.1,星塔-概述,Monolith: Description,星ノ塔探索,별의 탑-설명,星塔-概述,DictionaryDiagram.json
+DictionaryDiagram.20020102.1,星塔-潜能,Monolith: Potential,素質,별의 탑-잠재력,星塔-潛能,DictionaryDiagram.json
+DictionaryDiagram.20020103.1,星塔-音符,Monolith: Musical Note,音符,별의 탑-소리,星塔-音符,DictionaryDiagram.json
+DictionaryDiagram.20020104.1,星塔-协奏技能,Monolith: Harmony Skill,アシスト効果,별의 탑-협주 스킬,星塔-協奏技能,DictionaryDiagram.json
+DictionaryDiagram.20020105.1,星塔-事件,Monolith: Event,イベント,별의 탑-사건,星塔-事件,DictionaryDiagram.json
+DictionaryDiagram.20020107.1,星塔-纪录,Monolith: Records,記録,별의 탑-기록,星塔-紀錄,DictionaryDiagram.json
+DictionaryDiagram.20020201.1,概述,Description,星ノ塔研究,설명,概述,DictionaryDiagram.json
+DictionaryDiagram.20020202.1,研究层级,Research Layers,研究段階,연구 단계,研究層級,DictionaryDiagram.json
+DictionaryDiagram.20020203.1,研究条件,Research Requirements,研究条件,연구 조건,研究條件,DictionaryDiagram.json
+DictionaryDiagram.20030101.1,纪录概述,Record Description,記録,기록 설명,紀錄概述,DictionaryDiagram.json
+DictionaryDiagram.20030102.1,潜能与祝福,Potentials and Blessings,素質と音符,잠재력과 축복,潛能與祝福,DictionaryDiagram.json
+DictionaryDiagram.20030204.1,潜能预设-分享与导入,Potential Presets: Share & Import,素質プリセット-共有とインポート,잠재력 프리셋-공유 및 가져오기,潛能預設-分享與匯入,DictionaryDiagram.json
+DictionaryDiagram.20040101.1,旅行故事,Travel Story,ストーリー,여행 스토리,旅行故事,DictionaryDiagram.json
+DictionaryDiagram.20050101.1,日常勤务,Daily Task,基礎研修,일상 업무,日常勤務,DictionaryDiagram.json
+DictionaryDiagram.20060101.1,强敌讨伐,Enemy Hunting,首領討伐,강적 토벌,強敵討伐,DictionaryDiagram.json
+DictionaryDiagram.20070101.1,纹章本,Emblem Hunting,徽章ダンジョン,배지 던전,紋章冊,DictionaryDiagram.json
+DictionaryDiagram.20080103.1,巅峰秀场,Summit Show,頂上決戦,정상결전,巔峰秀場,DictionaryDiagram.json
+DictionaryDiagram.20090101.1,属性增益,Stat Bonus,ステータス強化,속성 버프,屬性增益,DictionaryDiagram.json
+DictionaryDiagram.20090102.1,主位-主旋律技能,Main Slot: Melody Skill,メイン枠のコア効果,메인-멜로디 스킬,主位-主旋律技能,DictionaryDiagram.json
+DictionaryDiagram.20090103.1,主位-协奏技能,Main Slot: Harmony Skill,メイン枠のアシスト効果,메인-협주 스킬,主位-協奏技能,DictionaryDiagram.json
+DictionaryDiagram.20090104.1,辅位-初始音符,Support Slot: Initial Musical Note,サブ枠の初期音符,보조-기본 소리,輔位-初始音符,DictionaryDiagram.json
+DictionaryDiagram.20100101.1,联系人,Contacts,連絡先,연락처,聯絡人,DictionaryDiagram.json
+DictionaryDiagram.20100102.1,聊天会话,Chats,チャット,메시지 대화,聊天對話,DictionaryDiagram.json
+DictionaryDiagram.20100103.1,切换聊天,Chat History,チャット履歴,대화창 전환,切換聊天,DictionaryDiagram.json
+DictionaryDiagram.20110101.1,干劲简介,Vigor Description,やる気,활력 설명,活力簡介,DictionaryDiagram.json
+DictionaryDiagram.20110102.1,手动恢复,Vigor Recovery,やる気の回復,직접 회복,手動恢復,DictionaryDiagram.json
+DictionaryDiagram.20110103.1,干劲储备,Vigor Reserve,やる気ストック,활력 저장,活力儲備,DictionaryDiagram.json
+DictionaryDiagram.20120101.1,玩法概述,Gameplay Overview,無限リング,콘텐츠 설명,玩法概述,DictionaryDiagram.json
+DictionaryDiagram.20120102.1,擂台规则,Arena Rules,リングのルール,아레나 규칙,擂台規則,DictionaryDiagram.json
+DictionaryDiagram.20130102.1,灾变防线-编队,Cataclysm Survivor: Squads,編成,재앙의 전선-편성,災變防線-編隊,DictionaryDiagram.json
+DictionaryDiagram.20130103.1,灾变防线-奖励,Cataclysm Survivor: Rewards,報酬,재앙의 전선-보상,災變防線-獎勵,DictionaryDiagram.json
+DictionaryDiagram.20130104.1,灾变防线-天赋,Cataclysm Survivor: Talent Points,防衛作戦,재앙의 전선-특성,災變防線-天賦,DictionaryDiagram.json
+DictionaryDiagram.20130201.1,灾变防线-等级,Cataclysm Survivor: Level,レベル,재앙의 전선-레벨,災變防線-等級,DictionaryDiagram.json
+DictionaryDiagram.20130202.1,灾变防线-特殊奖励,Cataclysm Survivor: Special Rewards,特別報酬,재앙의 전선-특별 보상,災變防線-特殊獎勵,DictionaryDiagram.json
+DictionaryDiagram.20130203.1,灾变防线-特殊机制,Cataclysm Survivor: Special Mechanism,特殊ギミック,재앙의 전선-특수 기믹,災變防線-特殊機制,DictionaryDiagram.json
+DictionaryDiagram.20140102.1,素材产出,Material Drops,素材,재료 생성,材料產出,DictionaryDiagram.json
+DictionaryDiagram.20150102.1,总星数计算,Total Star Count,星数の合計計算,총 성급 계산,總星數計算,DictionaryDiagram.json
+DictionaryDiagram.20150103.1,奖励规则,Rewards,報酬,보상 규칙,獎勵規則,DictionaryDiagram.json
+DictionaryDiagram.20150104.1,分数获取途经,How to Score,ポイント,점수 획득 경로,分數取得方式,DictionaryDiagram.json
+DictionaryDiagram.20150105.1,星数转化规则,How to Get Stars,星の獲得方法,성급 전환 규칙,星數轉化規則,DictionaryDiagram.json
+DictionaryDiagram.20150106.1,锁定,Lock-In Mechanics,巡遊者のロック,고정,鎖定,DictionaryDiagram.json
+DictionaryDiagram.20160101.1,终焉绝响,A Finale Echoing,大討伐作戦,종언의 노래,終焉絕響,DictionaryDiagram.json
+DictionaryDiagram.20160102.1,挑战难度,Challenge Difficulty,挑戦難易度と模擬戦,도전 난이도,挑戰難度,DictionaryDiagram.json
+DictionaryDiagram.20160201.1,联合战斗,Joint Battle,協力戦闘,연합 전투,聯合戰鬥,DictionaryDiagram.json
+DictionaryDiagram.20170101.1,玩法概述,Gameplay Overview,連合大捕物帖-遊び方,콘텐츠 설명,玩法概述,DictionaryDiagram.json
+DictionaryDiagram.20170102.1,授予委托书,Permits Issuance,連合大捕物帖-依頼書の授与,의뢰서 수여,授予委託書,DictionaryDiagram.json
+DictionaryDiagram.20170103.1,追踪,Tracking,連合大捕物帖-追跡,추적,追蹤,DictionaryDiagram.json
+DictionaryDiagram.20170104.1,协助讨伐,Co-op Hunt,連合大捕物帖-討伐救援,협력 토벌,協助討伐,DictionaryDiagram.json
+DictionaryDiagram.20170105.1,围猎等级,Siege Level,連合大捕物帖-捕物レベル,사냥 레벨,圍獵等級,DictionaryDiagram.json
+DictionaryDiagram.30010101.1,基本操作,Basic Controls,基本操作,기본 조작,基本操作,DictionaryDiagram.json
+DictionaryDiagram.30010501.1,战斗操作-普通攻击,Combat Controls: Auto Attack,主力巡遊者操作-通常攻撃,전투 조작-일반 공격,戰鬥操作-普通攻擊,DictionaryDiagram.json
+DictionaryDiagram.30010601.1,战斗操作-主控技能,Combat Control: Main Skill,主力巡遊者操作-主力スキル,전투 조작-메인 스킬,戰鬥操作-主控技能,DictionaryDiagram.json
+DictionaryDiagram.30010701.1,战斗操作-充能,Combat Controls: Energy Charge,主力巡遊者操作-チャージ,전투 조작-SP 회복,戰鬥操作-蓄能,DictionaryDiagram.json
+DictionaryDiagram.30010801.1,战斗操作-闪避,Combat Controls: Dodge,主力巡遊者操作-回避,전투 조작-회피,戰鬥操作-閃避,DictionaryDiagram.json
+DictionaryDiagram.30010901.1,战斗操作-疾跑,Combat Controls: Dash,主力巡遊者操作-ダッシュ,전투 조작-빠른 발놀림,戰鬥操作-疾跑,DictionaryDiagram.json
+DictionaryDiagram.30011001.1,战斗操作-援护角色技能,Combat Controls: Support Skill,支援巡遊者操作-支援巡遊者スキル,전투 조작-지원 캐릭터 스킬,戰鬥操作-援護角色技能,DictionaryDiagram.json
+DictionaryDiagram.30011101.1,战斗操作-援护角色绝招,Combat Controls: Support Ultimate,支援巡遊者操作-支援巡遊者必殺技,전투 조작-지원 캐릭터 필살기,戰鬥操作-援護角色絕招,DictionaryDiagram.json
+DictionaryDiagram.30011201.1,元素属性-印记,Element: Marks,戦闘システム-印,원소 속성-표식,元素屬性-印記,DictionaryDiagram.json
+DictionaryDiagram.30011202.1,元素印记-组队,Elemental Mark - Squad,元素の印-編成,원소 표식-파티,元素印記-組隊,DictionaryDiagram.json
+DictionaryDiagram.30011301.1,元素属性-弱点与抵抗,Element: Vulnerability & Resistance,戦闘システム-敵の属性,원소 속성-약점과 저항,元素屬性-弱點與抵抗,DictionaryDiagram.json
+DictionaryDiagram.30011302.1,元素属性-弱点与抵抗,Element: Vulnerability & Resistance,戦闘システム-属性相性,원소 속성-약점과 저항,元素屬性-弱點與抵抗,DictionaryDiagram.json
+DictionaryDiagram.30011401.1,元素属性-推荐,Element: Recommendation,戦闘システム-推奨属性,원소 속성-추천,元素屬性-推薦,DictionaryDiagram.json
+DictionaryDiagram.30011701.1,元素属性-印记触发,Element: Mark Trigger,戦闘システム-印発動,원소 속성-표식 발동,元素屬性-印記觸發,DictionaryDiagram.json
+DictionaryDiagram.30011801.1,音符来源,Musical Note Source,音符の獲得方法,소리 획득 경로,音符來源,DictionaryDiagram.json
+DictionaryDiagram.40010101.1,玩法概述,Gameplay Overview,遊び方,콘텐츠 설명,玩法概述,DictionaryDiagram.json
+DictionaryDiagram.40010102.1,寻宝铲获取,How to Obtain Treasure Shovels,ラッキーシャベル,보물삽 획득,獲得尋寶鏟,DictionaryDiagram.json
+DictionaryDiagram.40010103.1,耐久度,Durability,耐久値,내구도,耐久度,DictionaryDiagram.json
+DictionaryDiagram.40010104.1,宝藏形状,Treasure Shape,お宝の形,보물 모양,寶藏形狀,DictionaryDiagram.json
+DictionaryDiagram.40010105.1,宝藏价值,Treasure Value,お宝の価値,보물 가치,寶藏價值,DictionaryDiagram.json
+DictionaryDiagram.40010106.1,层级更替及角色支援,Floor Progression & Trekker Support,階層の切り替えと巡遊者支援,층 변경 및 캐릭터 서포팅,層級更替及角色支援,DictionaryDiagram.json
+DictionaryDiagram.40020101.1,游棋保卫战-基础玩法,Chess Defense - Basic Gameplay,守れ！星ノ塔-遊び方,스텔라 디펜스-기본 플레이,遊棋保衛戰-基礎玩法,DictionaryDiagram.json
+DictionaryDiagram.40020201.1,游棋保卫战-角色升级,Chess Defense - Character Upgrade,守れ！星ノ塔-レベルアップ,스텔라 디펜스-캐릭터 업그레이드,遊棋保衛戰-角色升級,DictionaryDiagram.json
+DictionaryDiagram.40020301.1,游棋保卫战-道具卡,Chess Defense - Item Card,守れ！星ノ塔-アイテムカード,스텔라 디펜스-아이템 카드,遊棋保衛戰-道具卡,DictionaryDiagram.json
+DictionaryDiagram.40020401.1,游棋保卫战-棋子介绍,Chess Defense - About Piece,守れ！星ノ塔-駒紹介,스텔라 디펜스-말 소개,遊棋保衛戰-棋子介紹,DictionaryDiagram.json
+DictionaryDiagram.40020501.1,游棋保卫战-落水,Chess Defense: Drowning,守れ！星ノ塔-落水,스텔라 디펜스-입수,遊棋保衛戰-落水,DictionaryDiagram.json
+DictionaryDiagram.40020502.1,游棋保卫战-拉动,Chess Defense: Pulling,守れ！星ノ塔-引き寄せ,스텔라 디펜스-당기기,遊棋保衛戰-拉動,DictionaryDiagram.json
+DictionaryDiagram.40020601.1,游棋保卫战-推动,Chess Defense: Pushing,守れ！星ノ塔-ノックバック,스텔라 디펜스-밀기,遊棋保衛戰-推動,DictionaryDiagram.json
+DictionaryDiagram.40020701.1,游棋保卫战-精英重量,Chess Defense: Elite Weight,守れ！星ノ塔-重量（エリート）,스텔라 디펜스-정예 중량,遊棋保衛戰-菁英重量,DictionaryDiagram.json
+DictionaryDiagram.40020801.1,游棋保卫战-能量沛沛,Chess Defense: Pep Pep Juice,守れ！星ノ塔-大容量パチパチメテオ,스텔라 디펜스-톡톡메테오,遊棋保衛戰-能量沛沛,DictionaryDiagram.json
+DictionaryDiagram.40020901.1,游棋保卫战-翡冷翠,Chess Defense: Firenze,守れ！星ノ塔-フィレン,스텔라 디펜스-피렌,遊棋保衛戰-翡冷翠,DictionaryDiagram.json
+DictionaryDiagram.40021001.1,游棋保卫战-首领重量,Chess Defense: Boss Weight,守れ！星ノ塔-重量（首領）,스텔라 디펜스-보스 중량,遊棋保衛戰-首領重量,DictionaryDiagram.json
+DictionaryDiagram.40021101.1,游棋保卫战-草丛,Chess Defense - Bush,守れ！星ノ塔-草むら,스텔라 디펜스-수풀,遊棋保衛戰-草叢,DictionaryDiagram.json
+DictionaryDiagram.40021102.1,游棋保卫战-清理草丛,Chess Defense - Bush Clearing,守れ！星ノ塔-草むらの除去,스텔라 디펜스-수풀 제거,遊棋保衛戰-清理草叢,DictionaryDiagram.json
+DictionaryDiagram.40021201.1,游棋保卫战-注意草丛法术,Chess Defense - Bush Spells,守れ！星ノ塔-草むらの生成,스텔라 디펜스-수풀 마법 주의,遊棋保衛戰-注意草叢法術,DictionaryDiagram.json
+DictionaryDiagram.40021301.1,游棋保卫战-注意大规模草丛法术,Chess Defense - Mass Bush Spells,守れ！星ノ塔-草むらの広範囲生成,스텔라 디펜스-광역 수풀 마법 주의,遊棋保衛戰-注意大規模草叢法術,DictionaryDiagram.json
+DictionaryDiagram.40022001.1,游棋保卫战-炎热,Chess Defense: Heat,守れ！星ノ塔-ヒートゲージ,스텔라 디펜스-폭염,遊棋保衛戰-炎熱,DictionaryDiagram.json
+DictionaryDiagram.40022101.1,游棋保卫战-降温,Chess Defense: Cooling Down,守れ！星ノ塔-冷却,스텔라 디펜스-냉각,遊棋保衛戰-降溫,DictionaryDiagram.json
+DictionaryDiagram.40022102.1,游棋保卫战-注意精英怪物,Chess Defense: Watch for Elites,守れ！星ノ塔-エリート,스텔라 디펜스-정예 몬스터 주의,遊棋保衛戰-注意菁英怪物,DictionaryDiagram.json
+DictionaryDiagram.40022201.1,游棋保卫战-灭火,Chess Defense: Extinguish the Fire,守れ！星ノ塔-消火,스텔라 디펜스-화재 진압,遊棋保衛戰-滅火,DictionaryDiagram.json
+DictionaryDiagram.40022301.1,游棋保卫战-注意首领怪物,Chess Defense: Watch for Boss,守れ！星ノ塔-首領,스텔라 디펜스-보스 몬스터 주의,遊棋保衛戰-注意首領怪物,DictionaryDiagram.json
+DictionaryDiagram.40030101.1,玩法说明,Gameplay Introduction,遊び方,콘텐츠 설명,玩法說明,DictionaryDiagram.json
+DictionaryDiagram.40030201.1,“慢火温盏”,Gentle Brew,見た目も美しく,“은은한 온기”,「慢火溫盞」,DictionaryDiagram.json
+DictionaryDiagram.40030301.1,“悬壶高冲”,High Pouring,華麗なる手さばき,“높게 따르는 찻물”,「懸壺高沖」,DictionaryDiagram.json
+DictionaryDiagram.40030401.1,“沸点跃动”,Boiling Beats,リズムに乗って,“끓어오르는 열기”,「沸點躍動」,DictionaryDiagram.json
+DictionaryDiagram.40030501.1,“茶韵臻品”,Tea's Elegance,ライン生産方式,“명차의 운치”,「茶韻臻品」,DictionaryDiagram.json
+DictionaryDiagram.40040101.1,缭乱碎晶球-基础玩法,Bouncing Bumper Bash: Basics,ブロックくずし-遊び方1,브릭 크러쉬-기본 플레이,繚亂碎晶球-基礎玩法,DictionaryDiagram.json
+DictionaryDiagram.40040102.1,缭乱碎晶球-基础玩法,Bouncing Bumper Bash: Basics,ブロックくずし-遊び方2,브릭 크러쉬-기본 플레이,繚亂碎晶球-基礎玩法,DictionaryDiagram.json
+DictionaryDiagram.40040103.1,缭乱碎晶球-基础玩法,Bouncing Bumper Bash: Basics,ブロックくずし-遊び方3,브릭 크러쉬-기본 플레이,繚亂碎晶球-基礎玩法,DictionaryDiagram.json
+DictionaryDiagram.40040104.1,缭乱碎晶球-机关,Bouncing Bumper Bash: Mechanics,ブロックくずし-ギミック,브릭 크러쉬-장치,繚亂碎晶球-機關,DictionaryDiagram.json
+DictionaryDiagram.40040201.1,缭乱碎晶球-道具,Bouncing Bumper Bash: Items,ブロックくずし-アイテム,브릭 크러쉬-아이템,繚亂碎晶球-道具,DictionaryDiagram.json
+DictionaryDiagram.40040301.1,缭乱碎晶球-怪物,Bouncing Bumper Bash: Monsters,ブロックくずし-モンスター,브릭 크러쉬-몬스터,繚亂碎晶球-怪物,DictionaryDiagram.json
+DictionaryDiagram.40040402.1,缭乱碎晶球-机关,Bouncing Bumper Bash: Mechanics,ブロックくずし-ギミック2,브릭 크러쉬-장치,繚亂碎晶球-機關,DictionaryDiagram.json
+DictionaryDiagram.40040501.1,缭乱碎晶球-传送门,Bouncing Bumper Bash: Portal,ブロックくずし-ワープゲート,브릭 크러쉬-워프 포트,繚亂碎晶球-傳送門,DictionaryDiagram.json
+DictionaryDiagram.40040601.1,缭乱碎晶球-重力按钮,Bouncing Bumper Bash: Gravity Button,ブロックくずし-重力ボタン,브릭 크러쉬-중력 버튼,繚亂碎晶球-重力按鈕,DictionaryDiagram.json
+DictionaryDiagram.40050101.1,命运星牌局,Fatebound Stellar Deck,シャロカード,페이트 하우스,命運星牌局,DictionaryDiagram.json
+DictionaryDiagram.40050102.1,牌型,Hand,役,핸드,牌型,DictionaryDiagram.json
+DictionaryDiagram.40050103.1,星命牌,Fatebound Stellar Cards,シャロットカード,페이트 카드,星命牌,DictionaryDiagram.json
+DictionaryDiagram.40050104.1,合约,Contract,契約,계약,合約,DictionaryDiagram.json
+DictionaryDiagram.40050105.1,超越之镜,Transcendence Mirror,超越の鏡,초월의 거울,超越之鏡,DictionaryDiagram.json
+DictionaryDiagram.40060101.1,豪礼抛物线-基础入门,Arc of Abundance: Basics,フライングシャロ-遊び方,슈팅 럭키샷-기본 플레이,豪禮拋物線-基礎入門,DictionaryDiagram.json
+DictionaryDiagram.40060102.1,豪礼抛物线-购物篮,Arc of Abundance: Shopping Basket,フライングシャロ-買い物カゴ,슈팅 럭키샷-쇼핑 바구니,豪禮拋物線-購物籃,DictionaryDiagram.json
+DictionaryDiagram.40060201.1,豪礼抛物线-获得道具,Arc of Abundance: Acquiring Item,フライングシャロ-アイテム,슈팅 럭키샷-아이템 획득,豪禮拋物線-獲得道具,DictionaryDiagram.json
+DictionaryDiagram.40060202.1,豪礼抛物线-选择道具,Arc of Abundance: Selecting Item,フライングシャロ-アイテムの選択,슈팅 럭키샷-아이템 선택,豪禮拋物線-選擇道具,DictionaryDiagram.json
+DictionaryDiagram.40060203.1,豪礼抛物线-使用道具,Arc of Abundance: Using Items,フライングシャロ-アイテムの使用,슈팅 럭키샷-아이템 사용,豪禮拋物線-使用道具,DictionaryDiagram.json
+DictionaryDiagram.40060301.1,豪礼抛物线-鼓风机,Arc of Abundance: Blower,フライングシャロ-扇風機,슈팅 럭키샷-송풍기,豪禮拋物線-鼓風機,DictionaryDiagram.json
+DictionaryDiagram.40060401.1,豪礼抛物线-传送盆,Arc of Abundance: Teleport Basin,フライングシャロ-転送ポッド,슈팅 럭키샷-워프 포트,豪禮拋物線-傳送盆,DictionaryDiagram.json
+DictionaryDiagram.40060501.1,豪礼抛物线-弹射夏洛克,Arc of Abundance: Pinball Sherlock,フライングシャロ-バウンド・シャロ,슈팅 럭키샷-반사 샤로,豪禮拋物線-彈射夏洛克,DictionaryDiagram.json
+DictionaryDiagram.40060701.1,豪礼抛物线-精准盲投,Arc of Abundance: Perfect Blind Toss,フライングシャロ-ブラインドスロー,슈팅 럭키샷-마스터,豪禮拋物線-精準盲投,DictionaryDiagram.json
+DictionaryDiagram.40070101.1,钩爪寻宝,Grapple for Treasure,月夜を盗む白き影-遊び方,갈고리 보물찾기,鉤爪尋寶,DictionaryDiagram.json
+DictionaryDiagram.40070102.1,物资价值,Supply Value,月夜を盗む白き影-物資の価値,물자 가치,物資價值,DictionaryDiagram.json
+DictionaryDiagram.40070103.1,卸下重负,Ditch the Weight,月夜を盗む白き影-重量,중량 해제,卸下重負,DictionaryDiagram.json
+DictionaryDiagram.40070201.1,二重搜查,Double Search,月夜を盗む白き影-捜査,이중 수색,二重搜查,DictionaryDiagram.json
+DictionaryDiagram.40070202.1,炸弹陷阱,Bomb Trap,月夜を盗む白き影-爆薬,폭탄 함정,炸彈陷阱,DictionaryDiagram.json
+DictionaryDiagram.40070301.1,移动装置,Moving Device,月夜を盗む白き影-移動するもの,이동 장치,移動裝置,DictionaryDiagram.json
+DictionaryDiagram.40070302.1,无人机,Drone,月夜を盗む白き影-てーさつバード,드론,無人機,DictionaryDiagram.json
+DictionaryDiagram.40070303.1,扫地机,Cleaning Bot,月夜を盗む白き影-きゅーいんキャット,청소기,掃地機,DictionaryDiagram.json
+DictionaryDiagram.40070304.1,冻结力场,Freeze Field,月夜を盗む白き影-凍結スキル,빙결 역장,凍結力場,DictionaryDiagram.json
+DictionaryDiagram.40070401.1,探测神器,Detection Artifact,月夜を盗む白き影-探知神器,탐지 신기,探測神器,DictionaryDiagram.json
+DictionaryDiagram.40070402.1,冻结射线,Freeze Ray,月夜を盗む白き影-凍結スキル,빙결 레이저 빔,凍結射線,DictionaryDiagram.json
+DictionaryDiagram.40070501.1,行动支援,Mission Support,月夜を盗む白き影-行動支援,작전 지원,行動支援,DictionaryDiagram.json
+DictionaryDiagram.40070502.1,特派清单,Special Mission,月夜を盗む白き影-スパイの情報,특파 목록,特派清單,DictionaryDiagram.json
+DictionaryDiagram.40070503.1,神秘物资,Mysterious Supply,月夜を盗む白き影-シークレット物資,비밀 물자,神祕物資,DictionaryDiagram.json
+DictionaryDiagram.40080101.1,欢迎来到沁凉补给站,Welcome to the Cooling Supply Station,出張、オアシスキッチンカー,웰컴투 청량 스테이션,歡迎來到沁涼補給站,DictionaryDiagram.json
+DictionaryDiagram.40080102.1,选择冰淇淋球,Select Ice Cream Scoops,出張、オアシスキッチンカー-アイスクリーム,아이스크림 볼 선택,選擇冰淇淋球,DictionaryDiagram.json
+DictionaryDiagram.40080103.1,选择配料,Select Toppings,出張、オアシスキッチンカー-トッピング,토핑 선택,選擇配料,DictionaryDiagram.json
+DictionaryDiagram.40080104.1,制作失败,Failed Order,出張、オアシスキッチンカー-ミス,제작 실패,製作失敗,DictionaryDiagram.json
+DictionaryDiagram.40080201.1,特殊顾客,Special Customers,出張、オアシスキッチンカー-スペシャルなお客さん,특별 손님,特殊顧客,DictionaryDiagram.json
+DictionaryDiagram.40080202.1,夏日酷饮,Summer Drinks,出張、オアシスキッチンカー-サマードリンク,시원한 여름 드링크,夏日酷飲,DictionaryDiagram.json
+DictionaryDiagram.40080301.1,欢乐时光,Fever Mode,出張、オアシスキッチンカー-FEVER!!,피버 타임,歡樂時光,DictionaryDiagram.json
+DictionaryDiagram.40080401.1,无限挑战,Endless Challenge,出張、オアシスキッチンカー-エンドレスステージ,무한 도전,無限挑戰,DictionaryDiagram.json
+DictionaryDiagram.40090101.1,尖兵陷阵,Through Hostile Depths,星界の生存戦略-遊び方,스텔라 배틀러,尖兵陷陣,DictionaryDiagram.json
+DictionaryDiagram.40090102.1,棋盘布局,Board Layout,星界の生存戦略-ボードの配置,체스판 배치,棋盤佈局,DictionaryDiagram.json
+DictionaryDiagram.40090103.1,阶段和节点,Phases and Nodes,星界の生存戦略-フェーズとノード,페이즈 및 노드,階段與節點,DictionaryDiagram.json
+DictionaryDiagram.40090104.1,节点介绍,Node Introduction,星界の生存戦略-ノード,노드 소개,節點介紹,DictionaryDiagram.json
+DictionaryDiagram.40090105.1,理智,Sanity (SAN),星界の生存戦略-理性,이성,理智,DictionaryDiagram.json
+DictionaryDiagram.40090106.1,战斗胜利/失败,Battle Victory & Defeat,星界の生存戦略-戦闘の勝利/敗北,전투 승리/실패,戰鬥勝利/失敗,DictionaryDiagram.json
+DictionaryDiagram.40090107.1,棋子费用,Piece Cost,星界の生存戦略-ユニットのコスト,말 코스트,棋子費用,DictionaryDiagram.json
+DictionaryDiagram.40090108.1,棋子星级,Piece Stars,星界の生存戦略-ユニットの☆（レアリティ）,말 성급,棋子星級,DictionaryDiagram.json
+DictionaryDiagram.40090109.1,棋子定位,Piece Roles,星界の生存戦略-ユニットタイプ,말 포지션,棋子定位,DictionaryDiagram.json
+DictionaryDiagram.40090110.1,羁绊,Traits,星界の生存戦略-シナジー,시너지,羈絆,DictionaryDiagram.json
+DictionaryDiagram.40090111.1,羁绊追踪,Track Traits,星界の生存戦略-シナジー対象の追跡,시너지 추적,羈絆追蹤,DictionaryDiagram.json
+DictionaryDiagram.40090112.1,方针和祝福,Plans and Blessings,星界の生存戦略-方針と祝福,방침 및 축복,方針和祝福,DictionaryDiagram.json
+DictionaryDiagram.40090113.1,贤才金币,Talent Gold,星界の生存戦略-賢者コイン,현자의 금화,賢才金幣,DictionaryDiagram.json
+DictionaryDiagram.40090114.1,商店刷新,Shop Refresh,星界の生存戦略-ショップの更新,상점 새로고침,商店刷新,DictionaryDiagram.json
+DictionaryDiagram.40090115.1,商店等级,Shop Level,星界の生存戦略-ショップレベル,상점 레벨,商店等級,DictionaryDiagram.json
+DictionaryDiagram.40090116.1,棋组攻略,Team Guides,星界の生存戦略-おすすめ構築,덱 공략,棋組攻略,DictionaryDiagram.json
+DictionaryDiagram.90010101.1,每日权能点数,Daily Tyrant Points,王権ポイント,일일 로열 포인트,每日權能點數,DictionaryDiagram.json
+DictionaryDiagram.90010102.1,特别指派,Special Tasks,特殊任務,특별 지시,特別指派,DictionaryDiagram.json
+DictionaryDiagram.90010103.1,每周权能点数,Weekly Tyrant Points,週間王権ポイント,주간 로열 포인트,每週權能點數,DictionaryDiagram.json
+DictionaryDiagram.90020101.1,魔王养成,Tyrant Growth,魔王育成,마왕 육성,魔王養成,DictionaryDiagram.json
+DictionaryDiagram.90020102.1,魔王养成-章节,Tyrant Growth - Chapter,魔王育成-章,마왕 육성 - 챕터,魔王養成-章節,DictionaryDiagram.json
+DictionaryDiagram.90030101.1,创业激励基金,Startup Grant,事業支援,창업 지원 패스,創業激勵基金,DictionaryDiagram.json
+DictionaryDiagram.90030102.1,尊享补贴,Elite Grant,コースのグレードアップ,프리미엄 지원금,尊享補貼,DictionaryDiagram.json
+DictionaryDiagram.90030103.1,营业任务说明,Company Goal,事業目標,영업 임무 설명,營業任務說明,DictionaryDiagram.json
+DictionaryDiagram.90030104.1,等级购买及奖励说明,Level Purchase & Reward Notes,レベル購入と報酬,레벨 구매 및 보상 안내,等級購買及獎勵說明,DictionaryDiagram.json
+DictionaryEntry.100101.1,旅人概述,Trekker Description,巡遊者,여행가 설명,旅人概述,DictionaryEntry.json
+DictionaryEntry.100201.1,升级与进阶,Level-up & Tier-up,レベル,승급과 진급,升級與進階,DictionaryEntry.json
+DictionaryEntry.100301.1,技能,Skills,スキル,스킬,技能,DictionaryEntry.json
+DictionaryEntry.100601.1,天赋,Talents,心相,특성,天賦,DictionaryEntry.json
+DictionaryEntry.100701.1,默契,Affinity,信頼,호감도,默契,DictionaryEntry.json
+DictionaryEntry.100801.1,纹章,Emblem,徽章,배지,紋章,DictionaryEntry.json
+DictionaryEntry.200101.1,权限等级,Authorization Level,権限レベル,권한 레벨,權限等級,DictionaryEntry.json
+DictionaryEntry.200201.1,星塔,Monolith,星ノ塔探索,별의 탑,星塔,DictionaryEntry.json
+DictionaryEntry.200202.1,星塔研究,Monolith Research,星ノ塔研究,별의 탑 연구,星塔研究,DictionaryEntry.json
+DictionaryEntry.200302.1,潜能预设,Potential Presets,素質プリセット,잠재력 프리셋,潛能預設,DictionaryEntry.json
+DictionaryEntry.201001.1,心链,Heartlink,ココチャ,하트챗,心鏈,DictionaryEntry.json
+DictionaryEntry.201101.1,干劲,Vigor,やる気,활력,活力,DictionaryEntry.json
+DictionaryEntry.201201.1,心危擂台,Menace Arena,無限リング,혼돈의 아레나,心危擂台,DictionaryEntry.json
+DictionaryEntry.201301.1,灾变防线,Cataclysm Survivor,骸魔防衛戦,재앙의 전선,災變防線,DictionaryEntry.json
+DictionaryEntry.201302.1,灾变防线-战斗,Cataclysm Survivor - Combat,骸魔防衛戦：戦闘,재앙의 전선-전투,災變防線-戰鬥,DictionaryEntry.json
+DictionaryEntry.201401.1,真格挑战,Proving Grounds,首領討伐,진리 도전,真格挑戰,DictionaryEntry.json
+DictionaryEntry.201501.1,联合讨伐,Boss Blitz,指名手配,연합 토벌,聯合討伐,DictionaryEntry.json
+DictionaryEntry.201701.1,猎影合围,Operation: Shadow Siege,連合大捕物帖,쉐도우 헌터,獵影重圍,DictionaryEntry.json
+DictionaryEntry.300102.1,纪录,Records,記録,기록,紀錄,DictionaryEntry.json
+DictionaryEntry.300103.1,潜能,Potentials,素質,잠재력,潛能,DictionaryEntry.json
+DictionaryEntry.300104.1,秘纹,Disc,ロスレコ,레코드,祕紋,DictionaryEntry.json
+DictionaryEntry.300105.1,基础操作,Basic Controls,基本操作,기본 조작,基礎操作,DictionaryEntry.json
+DictionaryEntry.300106.1,元素印记,Elemental Mark,元素の印,원소 표식,元素印記,DictionaryEntry.json
+DictionaryEntry.300107.1,元素属性,Element,元素属性,원소 속성,元素屬性,DictionaryEntry.json
+DictionaryEntry.300108.1,韧性,Resilience,ブレイク値,강인함,韌性,DictionaryEntry.json
+DictionaryTab.1.1,旅人相关,Trekkers,巡遊者,여행가,旅人相關,DictionaryTab.json
+DictionaryTab.2.1,系统玩法,Gameplay,システム,시스템,系統玩法,DictionaryTab.json
+DictionaryTab.3.1,战斗相关,Combat,戦闘,전투 관련,戰鬥相關,DictionaryTab.json
+DictionaryTopBarEntry.300104.1,音符,Musical Note,音符,소리,音符,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300105.1,普通攻击,Attack,通常攻撃,일반 공격,普通攻擊,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300106.1,主控技能,Main Skill,主力スキル,메인 스킬,主控技能,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300107.1,充能,Energy Charge,チャージ,SP 회복,蓄能,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300108.1,闪避,Evasion,回避,회피,閃避,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300109.1,疾跑,Dash,ダッシュ,빠른 발놀림,疾跑,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300110.1,援护技能,Support Skill,支援スキル,지원 스킬,援護技能,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300111.1,援护绝招,Support Ultimate,支援必殺技,지원 필살기,援護絕招,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300112.1,元素印记,Elemental Mark,印,원소 표식,元素印記,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300114.1,推荐属性,Recommended Element,推奨属性,추천 속성,推薦屬性,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300117.1,元素属性-印记附加,Element: Mark Infliction,元素属性-印付与,원소 속성-표식 부여,元素屬性-印記附加,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300118.1,音符来源,Musical Note Source,音符の入手,소리 획득 경로,音符來源,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300119.1,音符,Musical Notes,音符,소리,音符,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400101.1,幸运寻宝铲,Lucky Treasure Shovel,ラッキーシャベル,행운의 보물찾기,幸運尋寶鏟,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400203.1,游棋保卫战-特殊道具,Chess Defense - Special Item,守れ！星ノ塔-特殊アイテム,스텔라 디펜스-특별 아이템,遊棋保衛戰-特殊道具,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400207.1,游棋保卫战-重量,Chess Defense: Weight,守れ！星ノ塔-重量（エリート）,스텔라 디펜스-중량,遊棋保衛戰-重量,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400222.1,游棋保卫战-灭火,Chess Defense: Extinguish the Fire,守れ！星ノ塔-消化,스텔라 디펜스-화재 진압,遊棋保衛戰-滅火,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400223.1,游棋保卫战-注意首领怪物,Chess Defense: Watch for Boss,守れ！星ノ塔-エリート,스텔라 디펜스-보스 몬스터 주의,遊棋保衛戰-注意首領怪物,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400301.1,甜心梦工坊,Cookie Workshop,クッキーラボ,달콤한 공방,甜心夢工坊,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400401.1,缭乱碎晶球-基础玩法,Bouncing Bumper Bash: Basics,ブロックくずし-遊び方,브릭 크러쉬-기본 플레이,繚亂碎晶球-基礎玩法,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400601.1,豪礼抛物线-基础玩法,Arc of Abundance: Basics,フライングシャロ-遊び方,슈팅 럭키샷-기본 플레이,豪禮拋物線-基礎玩法,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400602.1,豪礼抛物线-道具,Arc of Abundance: Items,フライングシャロ-アイテム,슈팅 럭키샷-아이템,豪禮拋物線-道具,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400604.1,豪礼抛物线-传送门,Arc of Abundance: Teleport Basin,フライングシャロ-転送ポッド,슈팅 럭키샷-워프 포트,豪禮拋物線-傳送門,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400701.1,月华窃梦人—基础玩法,Silver-Veiled Dream Catcher: Basics,月夜を盗む白き影-遊び方,스파이 대작전-기본 플레이,月華竊夢人—基礎玩法,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400702.1,月华窃梦人—提升,Silver-Veiled Dream Catcher: Upgrade,月夜を盗む白き影-レベルアップ,스파이 대작전-버프,月華竊夢人—提升,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400703.1,月华窃梦人—警戒,Silver-Veiled Dream Catcher: Security,月夜を盗む白き影-警戒,스파이 대작전-경계,月華竊夢人—警戒,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400704.1,月华窃梦人—镭射,Silver-Veiled Dream Catcher: Laser,月夜を盗む白き影-レーザー,스파이 대작전-레이저,月華竊夢人—雷射,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400705.1,月华窃梦人—神秘物资,Silver-Veiled Dream Catcher: Mysterious Supplies,月夜を盗む白き影-シークレット物資,스파이 대작전-비밀 물자,月華竊夢人—神祕物資,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400801.1,沁凉补给站—基础玩法,Cooling Supply Station: How to Play,出張、オアシスキッチンカー-遊び方,청량 스테이션-기본 플레이,沁涼補給站—基礎玩法,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400802.1,沁凉补给站—夏日酷饮,Cooling Supply Station: Summer Drinks,出張、オアシスキッチンカー-サマードリンク,청량 스테이션-시원한 여름 드링크,沁涼補給站—夏日酷飲,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400803.1,沁凉补给站—欢乐时光,Cooling Supply Station: Fever Mode,出張、オアシスキッチンカー-FEVER,청량 스테이션-피버 타임,沁涼補給站—歡樂時光,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400804.1,沁凉补给站—无限挑战,Cooling Supply Station: Endless Challenge,出張、オアシスキッチンカー-エンドレス,청량 스테이션-무한 도전,沁涼補給站—無限挑戰,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400901.1,尖兵陷阵,Through Hostile Depths,星界の生存戦略,스텔라 배틀러,尖兵陷陣,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.900101.1,日常任务,Daily Task,デイリー任務,일일 임무,每日任務,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.900301.1,创业基金,Startup Grant,事業支援,창업 지원 패스,創業基金,DictionaryTopBarEntry.json
+EffectDesc.10011.1,能量槽,Energy Bar,SPゲージ,SP 슬롯,能量槽,EffectDesc.json
+EffectDesc.10021.1,初始能量,Initial Energy,初期SP,초기 SP,初始能量,EffectDesc.json
+EffectDesc.10031.1,回能效率,Energy Regen,SP獲得効率,SP 회복 효율,回能效率,EffectDesc.json
+EffectDesc.10041.1,攻击速度,ATK SPD,攻撃速度,공격 속도,攻擊速度,EffectDesc.json
+EffectDesc.120001.1,无,None,なし,없음,無,EffectDesc.json
+EffectDesc.120011.1,基础攻击,Base ATK,基礎攻撃力,기본 공격,基礎攻擊力,EffectDesc.json
+EffectDesc.120012.1,攻击,ATK,攻撃力,공격,攻擊,EffectDesc.json
+EffectDesc.120021.1,基础防御,Base DEF,基礎防御力,기본 방어,基礎防禦,EffectDesc.json
+EffectDesc.120022.1,防御,DEF,防御力,방어,防禦,EffectDesc.json
+EffectDesc.120031.1,基础生命,Base HP,基礎HP,기본 HP,基礎生命值,EffectDesc.json
+EffectDesc.120032.1,生命,HP,HP,HP,生命值,EffectDesc.json
+EffectDesc.120041.1,命中率,Accuracy,命中率,명중률,命中率,EffectDesc.json
+EffectDesc.120051.1,回避率,Evasion,回避率,회피율,迴避率,EffectDesc.json
+EffectDesc.120061.1,暴击率,Crit Rate,会心率,치명타율,暴擊率,EffectDesc.json
+EffectDesc.120071.1,暴击抵抗,Crit RES,会心耐性,치명타 저항,暴擊抵抗力,EffectDesc.json
+EffectDesc.120081.1,暴击伤害,Crit DMG,会心ダメージ,치명타 피해,暴擊傷害,EffectDesc.json
+EffectDesc.120101.1,无视防御,Ignore DEF,防御無視,방어 무시,無視防禦,EffectDesc.json
+EffectDesc.120111.1,水系抗性,Aqua RES,水属性耐性,물 속성 저항,水系抗性,EffectDesc.json
+EffectDesc.120121.1,火系抗性,Ignis RES,火属性耐性,불 속성 저항,火系抗性,EffectDesc.json
+EffectDesc.120131.1,地系抗性,Terra RES,地属性耐性,땅 속성 저항,地系抗性,EffectDesc.json
+EffectDesc.120141.1,风系抗性,Ventus RES,風属性耐性,바람 속성 저항,風系抗性,EffectDesc.json
+EffectDesc.120151.1,光系抗性,Lux RES,光属性耐性,빛 속성 저항,光系抗性,EffectDesc.json
+EffectDesc.120161.1,暗系抗性,Umbra RES,闇属性耐性,어둠 속성 저항,暗系抗性,EffectDesc.json
+EffectDesc.120231.1,水系穿透,Aqua PEN,水属性耐性貫通,물 속성 관통,水系穿透力,EffectDesc.json
+EffectDesc.120241.1,火系穿透,Ignis PEN,火属性耐性貫通,불 속성 관통,火系穿透力,EffectDesc.json
+EffectDesc.120251.1,地系穿透,Terra PEN,地属性耐性貫通,땅 속성 관통,地系穿透力,EffectDesc.json
+EffectDesc.120261.1,风系穿透,Ventus PEN,風属性耐性貫通,바람 속성 관통,風系穿透力,EffectDesc.json
+EffectDesc.120271.1,光系穿透,Lux PEN,光属性耐性貫通,빛 속성 관통,光系穿透力,EffectDesc.json
+EffectDesc.120281.1,暗系穿透,Umbra PEN,闇属性耐性貫通,어둠 속성 관통,暗系穿透力,EffectDesc.json
+EffectDesc.120291.1,无视水系抗性,Ignore Aqua RES,水属性耐性無視,물 속성 저항 무시,無視水系抗性,EffectDesc.json
+EffectDesc.120301.1,无视火系抗性,Ignore Ignis RES,火属性耐性無視,불 속성 저항 무시,無視火系抗性,EffectDesc.json
+EffectDesc.120311.1,无视地系抗性,Ignore Terra RES,地属性耐性無視,땅 속성 저항 무시,無視地系抗性,EffectDesc.json
+EffectDesc.120321.1,无视风系抗性,Ignore Ventus RES,風属性耐性無視,바람 속성 저항 무시,無視風系抗性,EffectDesc.json
+EffectDesc.120331.1,无视光系抗性,Ignore Lux RES,光属性耐性無視,빛 속성 저항 무시,無視光系抗性,EffectDesc.json
+EffectDesc.120341.1,无视暗系抗性,Ignore Umbra RES,闇属性耐性無視,어둠 속성 저항 무시,無視暗系抗性,EffectDesc.json
+EffectDesc.120351.1,受到水系伤害,Aqua DMG Taken,水属性被ダメ倍率,받는 물 속성 피해,受到的水系傷害,EffectDesc.json
+EffectDesc.120361.1,受到火系伤害,Ignis DMG Taken,火属性被ダメ倍率,받는 불 속성 피해,受到的火系傷害,EffectDesc.json
+EffectDesc.120371.1,受到地系伤害,Terra DMG Taken,地属性被ダメ倍率,받는 땅 속성 피해,受到的地系傷害,EffectDesc.json
+EffectDesc.120381.1,受到风系伤害,Ventus DMG Taken,風属性被ダメ倍率,받는 바람 속성 피해,受到的風系傷害,EffectDesc.json
+EffectDesc.120391.1,受到光系伤害,Lux DMG Taken,光属性被ダメ倍率,받는 빛 속성 피해,受到的光系傷害,EffectDesc.json
+EffectDesc.120401.1,受到暗系伤害,Umbra DMG Taken,闇属性被ダメ倍率,받는 어둠 속성 피해,受到的暗系傷害,EffectDesc.json
+EffectDesc.120411.1,重量,Weight,重量,무게,重量,EffectDesc.json
+EffectDesc.120421.1,韧性值,Resilience,ブレイク値,방해 내성,韌性值,EffectDesc.json
+EffectDesc.120431.1,破韧效率,Resilience Break Efficiency,ブレイク値貫通効率,방해 내성 무시 효율,破韌效率,EffectDesc.json
+EffectDesc.120441.1,护盾值上限,Max Shield,シールド上限,최대 보호막,護盾值上限,EffectDesc.json
+EffectDesc.120451.1,护盾穿透,Shield PEN,シールド貫通,보호막 관통,護盾穿透力,EffectDesc.json
+EffectDesc.120461.1,移动速度,Movement SPD,移動速度,이동 속도,移動速度,EffectDesc.json
+EffectDesc.120491.1,造成伤害,DMG Dealt,与ダメージ,입힌 피해,造成的傷害,EffectDesc.json
+EffectDesc.120501.1,伤害,DMG,ダメージ,피해,傷害,EffectDesc.json
+EffectDesc.120511.1,最终伤害,Final DMG,最終ダメージ,최종 피해,最終傷害,EffectDesc.json
+EffectDesc.120531.1,受到伤害,DMG Taken,被ダメージ,받는 피해,受到的傷害,EffectDesc.json
+EffectDesc.120551.1,弱点压制,VUL Exploit,弱点特攻,약점 포착,弱點壓制,EffectDesc.json
+EffectDesc.120561.1,普攻伤害,Auto Attack DMG,通常攻撃ダメージ,일반 공격 피해,普攻傷害,EffectDesc.json
+EffectDesc.120571.1,技能伤害,Skill DMG,スキルダメージ,스킬 피해,技能傷害,EffectDesc.json
+EffectDesc.120581.1,绝招伤害,Ultimate DMG,必殺技ダメージ,필살기 피해,絕招傷害,EffectDesc.json
+EffectDesc.120591.1,其他伤害,Other DMG,特殊ダメージ,기타 피해,其他傷害,EffectDesc.json
+EffectDesc.120601.1,受到普攻伤害,Auto Attack DMG Taken,通常攻撃被ダメージ,받는 일반 공격 피해,受到的普攻傷害,EffectDesc.json
+EffectDesc.120611.1,受到技能伤害,Skill DMG Taken,スキル被ダメージ,받는 스킬 피해,受到的技能傷害,EffectDesc.json
+EffectDesc.120621.1,受到绝招伤害,Ultimate DMG Taken,必殺技被ダメージ,받는 필살기 피해,受到的絕招傷害,EffectDesc.json
+EffectDesc.120631.1,受到其他伤害,Other DMG Taken,特殊被ダメージ,받는 기타 피해,受到的其他傷害,EffectDesc.json
+EffectDesc.120641.1,印记伤害,Mark DMG,印ダメージ,표식 피해,印記傷害,EffectDesc.json
+EffectDesc.120651.1,受到印记伤害,Mark DMG Taken,印被ダメージ,받는 표식 피해,受到的印記傷害,EffectDesc.json
+EffectDesc.120661.1,仆从伤害,Minion DMG,従者ダメージ,소환물 피해,僕從傷害,EffectDesc.json
+EffectDesc.120681.1,衍生物伤害,Derivative DMG,派生物ダメージ,파생물 피해,衍生物傷害,EffectDesc.json
+EffectDesc.120701.1,普攻暴击率,Auto Attack Crit Rate,通常攻撃会心率,일반 공격 치명타율,普攻暴擊率,EffectDesc.json
+EffectDesc.120711.1,技能暴击率,Skill Crit Rate,スキル会心率,스킬 치명타율,技能暴擊率,EffectDesc.json
+EffectDesc.120721.1,绝招暴击率,Ultimate Crit Rate,必殺技会心率,필살기 치명타율,絕招暴擊率,EffectDesc.json
+EffectDesc.120731.1,印记暴击率,Mark Crit Rate,印会心率,표식 치명타율,印記暴擊率,EffectDesc.json
+EffectDesc.120741.1,仆从暴击率,Minion Crit Rate,従者会心率,소환물 치명타율,僕從暴擊率,EffectDesc.json
+EffectDesc.120751.1,衍生物暴击率,Derivative Crit Rate,派生物会心率,파생물 치명타율,衍生物暴擊率,EffectDesc.json
+EffectDesc.120771.1,普攻暴击伤害,Normal Attack Crit DMG,通常攻撃会心ダメージ,일반 공격 치명타 피해,普攻暴擊傷害,EffectDesc.json
+EffectDesc.120781.1,技能暴击伤害,Skill Crit DMG,スキル会心ダメージ,스킬 치명타 피해,技能暴擊傷害,EffectDesc.json
+EffectDesc.120791.1,绝招暴击伤害,Ultimate Crit DMG,必殺技会心ダメージ,필살기 치명타 피해,絕招暴擊傷害,EffectDesc.json
+EffectDesc.120801.1,印记暴击伤害,Mark Crit DMG,印会心ダメージ,표식 치명타 피해,印記暴擊傷害,EffectDesc.json
+EffectDesc.120811.1,仆从暴击伤害,Minion Crit DMG,従者会心ダメージ,소환물 치명타 피해,僕從暴擊傷害,EffectDesc.json
+EffectDesc.120821.1,衍生物暴击伤害,Derivative Crit DMG,派生物会心ダメージ,파생물 치명타 피해,衍生物暴擊傷害,EffectDesc.json
+EffectDesc.370011.1,主控能量获取效率,Charge Efficiency (Main),主力SP獲得効率,메인 SP 획득 효율,主控能量獲得效率,EffectDesc.json
+EffectDesc.70011.1,普攻等级提升,Auto Attack Level Up,通常攻撃レベル上昇,일반 공격 레벨업,普攻等級提升,EffectDesc.json
+EffectDesc.70021.1,主控技能等级提升,Main Skill Level Up,主力スキルレベル上昇,메인 스킬 레벨업,主控技能等級提升,EffectDesc.json
+EffectDesc.70031.1,援护技能等级提升,Support Skill Level Up,支援スキルレベル上昇,지원 스킬 레벨업,援護技能等級提升,EffectDesc.json
+EffectDesc.70041.1,绝招等级提升,Ultimate Level Up,必殺技レベル上昇,필살기 레벨업,絕招等級提升,EffectDesc.json
+EffectDesc.990051.1,等级,Lv.,レベル,레벨,等級,EffectDesc.json
+FateCard.98001.1,增大火力·攻击,Firepower Boost: Attack,火力増大・攻撃,화력 강화·공격,增大火力·攻擊,FateCard.json
+FateCard.98002.1,增大火力·技能,Firepower Boost: Skill,火力増大・スキル,화력 강화·스킬,增大火力·技能,FateCard.json
+FateCard.98003.1,增大火力·绝招,Firepower Boost: Ultimate,火力増大・必殺技,화력 강화·필살기,增大火力·絕招,FateCard.json
+FateCard.98004.1,提高转速·技能,RPM Boost: Skill,回転速度上昇・スキル,회전 속도 강화·스킬,提高轉速·技能,FateCard.json
+FateCard.98005.1,提高转速·绝招,RPM Boost: Ultimate,回転速度上昇・必殺技,회전 속도 강화·필살기,提高轉速·絕招,FateCard.json
+FateCard.98006.1,元素侵蚀,Elemental Corrosion,元素浸食,원소 침식,元素侵蝕,FateCard.json
+FateCard.98007.1,高级火力,Advanced Firepower,上級火力,고급 화력,高級火力,FateCard.json
+FateCard.98008.1,全面防护,Full Protection,全面防御,전면 방호,全面防護,FateCard.json
+FateCard.98009.1,快人一步,One Step Ahead,ひと足先へ,누구보다 빠르게,快人一步,FateCard.json
+FateCard.98010.1,致命一击,Fatal Blow,致命の一撃,치명적 일격,致命一擊,FateCard.json
+FateCard.98011.1,压力倍增,Double Pressure,ストレス倍増,압박 증가,壓力倍增,FateCard.json
+FateCard.98012.1,重启预备,Preparation Reset,再始動の準備,리셋 대기,重啟預備,FateCard.json
+FateCard.98013.1,重点演出,Featured Performance,大事なショー,하이라이트,重點演出,FateCard.json
+FateCard.98014.1,再接再厉,Relentless Effort,弛まぬ努力,끊임없는 정진,再接再厲,FateCard.json
+FateCard.98015.1,表演时间,Show Time,ショータイム,쇼 타임,表演時間,FateCard.json
+FateCard.98016.1,添柴加火,Fuel On Fire,火に油,불난 데 부채질,添柴加火,FateCard.json
+FateCard.98017.1,以多欺少,Number Advantage,数の暴力,중과부적,以多欺少,FateCard.json
+FateCard.98018.1,屹立不倒,Stand Tall,揺るがぬ意志,굳건한 의지,屹立不搖,FateCard.json
+FateCard.98019.1,背水一战,Last Stand,背水の陣,배수의 진,背水一戰,FateCard.json
+FateCard.98020.1,状态绝佳,Perfect Form,絶好調,최상의 컨디션,狀態絕佳,FateCard.json
+FateCard.98021.1,变速齿轮,Change Gear,変速ギア,변속 기어,變速齒輪,FateCard.json
+FateCard.98022.1,穷追猛打,Cull the Weak,追い打ち,몰아붙이기,窮追猛打,FateCard.json
+FateCard.98023.1,王牌猎手,Ace Hunter,エースハンター,에이스 헌터,王牌獵手,FateCard.json
+FateCard.98024.1,清理大师,Master Cleaner,お片付けマスター,정리의 달인,清理大師,FateCard.json
+FateCard.98025.1,一鼓作气,Fighting Spirit,ノンストップ,쇠뿔도 단김에,一鼓作氣,FateCard.json
+FateCard.98026.1,最后一击,Last Strike,最後の一撃,최후의 일격,最後一擊,FateCard.json
+FateCard.98027.1,魔王挑战者,Boss Challenger,魔王への挑戦者,마왕 도전자,魔王挑戰者,FateCard.json
+FateCard.98028.1,优势打击,Dominant Strike,攻勢,우세 타격,優勢打擊,FateCard.json
+FateCard.98029.1,幸运节奏点,Lucky Rhythm,幸運のリズムポイント,럭키 리듬,幸運時機,FateCard.json
+FateCard.98030.1,火花飞溅,Flying Sparks,火花の飛沫,비산하는 불꽃,火花飛濺,FateCard.json
+FateCard.98031.1,能量汲取,Energy Drain,SP吸収,에너지 흡수,能量汲取,FateCard.json
+FateCard.98032.1,贪婪攻势,Greed Assault,貪欲な攻勢,탐욕적 공세,貪婪攻勢,FateCard.json
+FateCard.98033.1,王者姿态,King's Demeanor,王者の姿,왕의 자태,王者姿態,FateCard.json
+FateCard.98034.1,精准扫射,Precise Strafing,精密掃射,정밀 사격,精準掃射,FateCard.json
+FateCard.98035.1,帽子戏法,Hat-trick,ハットトリック,해트트릭,帽子戲法,FateCard.json
+FateCard.98036.1,超级投手,Super Thrower,スーパー投手,슈퍼 투수,超級投手,FateCard.json
+FateCard.98037.1,战斗欲望,Battle Lust,闘争本能,전투 욕망,戰鬥慾望,FateCard.json
+FateCard.98038.1,抗性·近战,RES: Melee,耐性・近接戦,저항·근거리,抗性·近戰,FateCard.json
+FateCard.98039.1,抗性·远程,RES: Ranged,耐性・遠距離,저항·원거리,抗性·遠程,FateCard.json
+FateCard.98040.1,反击时刻,Strike Back,反撃の時,반격 시기,反擊時刻,FateCard.json
+FateCard.98061.1,战技·普攻冷却,Skill: Auto Attack Cooldown,戦技・クールタイム短縮,기술·일반 공격 쿨타임,戰技·普攻冷卻,FateCard.json
+FateCard.98062.1,战技·普攻增伤,Skill: Auto Attack Boost,戦技・ダメージ強化,기술·일반 공격 피해 증가,戰技·普攻增傷,FateCard.json
+FateCard.98063.1,战技·伤害抗性,Skill: DMG Resistance,戦技・ダメージ耐性,기술·피해 저항,戰技·傷害抗性,FateCard.json
+FateCard.98064.1,战技·伤害提升,Skill: DMG Boost,戦技・ダメージ上昇,기술·피해 증가,戰技·傷害提升,FateCard.json
+FateCard.98065.1,战技·重置冷却,Skill: Cooldown Reset,戦技・クールタイムリセット,기술·쿨타임 초기화,戰技·重置冷卻,FateCard.json
+FateCard.98066.1,战技·易伤指令,Skill: Vulnerability Command,戦技・ダメージ上昇付与,기술·취약 명령,戰技·易傷指令,FateCard.json
+FateCard.98067.1,战技·虚弱指令,Skill: Weakness Command,戦技・弱体化付与,기술·약화 명령,戰技·虛弱指令,FateCard.json
+FateCard.98068.1,战技·能量充盈,Skill: Energy Infusion,戦技・SP満タン,기술·에너지 과잉,戰技·能量充盈,FateCard.json
+FateCard.98069.1,战技·能量爆破,Skill: Energy Bust,戦技・SPバースト,기술·에너지 폭발,戰技·能量爆破,FateCard.json
+FateCard.98070.1,战技·节奏大师,Skill: Master of Rhythm,戦技・リズムマスター,기술·리듬 마스터,戰技·節奏大師,FateCard.json
+FateCard.98081.1,庆典·攻击提升,Streak: Attack Boost,撃破・攻撃力上昇,축제·공격력 증가,慶典·攻擊提升,FateCard.json
+FateCard.98082.1,庆典·技能冷却,Streak: Skill Cooldown,撃破・スキルクールタイム,축제·스킬 쿨타임,慶典·技能冷卻,FateCard.json
+FateCard.98083.1,庆典·恢复生命,Streak: HP Recovery,撃破・HP回復,축제·HP 회복,慶典·恢復生命,FateCard.json
+FateCard.98084.1,庆典·绝招充能,Streak: Ultimate Charge,撃破・必殺技チャージ,축제·필살기 충전,慶典·絕招蓄能,FateCard.json
+FateCard.98085.1,庆典·暴击提升,Streak: Crit Boost,撃破・会心上昇,축제·치명타 증가,慶典·暴擊提升,FateCard.json
+FateCard.98086.1,庆典·普攻增幅,Streak: Auto Attack Boost,撃破・通常攻撃強化,축제·일반 공격 증폭,慶典·普攻增幅,FateCard.json
+FateCard.98087.1,庆典·技能增伤,Streak: Skill DMG Boost,撃破・スキルダメージ増加,축제·스킬 피해 증가,慶典·技能增傷,FateCard.json
+FateCard.98088.1,庆典·暴击伤害,Streak: Crit DMG,撃破・会心ダメージ増加,축제·치명타 피해,慶典·暴擊傷害,FateCard.json
+FateCard.98089.1,庆典·伤害免疫,Streak: DMG Immunity,撃破・ダメージ無効,축제·피해 면역,慶典·傷害免疫,FateCard.json
+FateCard.98090.1,庆典·降低损伤,Streak: DMG Taken Reduction,撃破・ダメージ軽減,축제·손상 감소,慶典·降低損傷,FateCard.json
+FateCard.98101.1,背水·安抚之息,Tenacity: Soothing Breath,背水・癒しの息吹,배수·위로의 숨결,背水·安撫之息,FateCard.json
+FateCard.98102.1,背水·救世剧本,Tenacity: World Savior,背水・英雄の物語,배수·구원의 시나리오,背水·救世劇本,FateCard.json
+FateCard.98103.1,背水·生命债券,Tenacity: Life Bond,背水・命の債券,배수·생명의 대가,背水·生命債券,FateCard.json
+FateCard.98104.1,背水·天使恩赐,Tenacity: Heaven's Grace,背水・天使の恩恵,배수·천사의 은혜,背水·天使恩賜,FateCard.json
+FateCard.98105.1,背水·求生本能,Tenacity: Survival Instinct,背水・生存本能,배수·생존본능,背水·求生本能,FateCard.json
+FateCard.98106.1,背水·绝地反扑,Tenacity: Last Stand,背水・スキルダメージ増加,배수·벼랑 끝 역습,背水·絕地反撲,FateCard.json
+FateCard.98107.1,背水·绝境之刃,Tenacity: Blade of Despair,背水・通常攻撃強化,배수·궁지의 칼날,背水·絕境之刃,FateCard.json
+FateCard.98108.1,背水·铁血壁垒,Tenacity: Steel Bastion,背水・ダメージ軽減,배수·강철 보루,背水·鐵血壁壘,FateCard.json
+FateCard.98109.1,背水·破釜沉舟,Tenacity: No Way Back,背水・身を捨ててこそ,배수·배수의 진,背水·破釜沉舟,FateCard.json
+FateCard.98110.1,背水·神之庇佑,Tenacity: Divine Protection,背水・無刀取り,배수·신의 보호,背水·神之庇佑,FateCard.json
+FateCard.98121.1,热血·奋斗,Fervor: Endeavor,渾身・ダメージ増加,열혈·분투,熱血·奮鬥,FateCard.json
+FateCard.98122.1,热血·毅力,Fervor: Perseverance,渾身・テンションキープ,열혈·의지,熱血·毅力,FateCard.json
+FateCard.98123.1,热血·坚定,Fervor: Resolution,渾身・堅牢な盾,열혈·결의,熱血·堅定,FateCard.json
+FateCard.98124.1,热血·锋芒,Fervor: Sharp Edge,渾身・急所狙い,열혈·기세,熱血·鋒芒,FateCard.json
+FateCard.98125.1,热血·饮血,Fervor: Blood Glug,渾身・吸血,열혈·혈투,熱血·飲血,FateCard.json
+FateCard.98126.1,热血·愈战愈勇,Fervor: Battle Enraged,渾身・無欠の勇士,열혈·점입가경,熱血·越戰越勇,FateCard.json
+FateCard.98127.1,热血·状态正佳,Fervor: Top Form,渾身・破竹の勢い,열혈·최고의 컨디션,熱血·狀態正佳,FateCard.json
+FateCard.98128.1,热血·铁壁,Fervor: Ironclad,渾身・ダメージ軽減,열혈·철벽,熱血·鐵壁,FateCard.json
+FateCard.98129.1,热血·燃魂,Fervor: Soul Burn,渾身・スキルダメージ増加,열혈·영혼의 불길,熱血·燃魂,FateCard.json
+FateCard.98130.1,热血·急速,Fervor: Rapid,渾身・連撃のチャンス,열혈·광속,熱血·急速,FateCard.json
+FateCard.98141.1,气运·正中靶心,Luck: Bullseye,運気：敵中突破,운명·과녁 명중,氣運·正中靶心,FateCard.json
+FateCard.98142.1,气运·猎杀巨兽,Luck: Behemoth Hunting,運気・手負わぬ獣狩り,운명·거수 사냥,氣運·獵殺巨獸,FateCard.json
+FateCard.98143.1,气运·一鼓作气,Luck: Fighting Spirit,運気・いい手ごたえ,운명·쇠뿔도 단김에,氣運·一鼓作氣,FateCard.json
+FateCard.98144.1,气运·百发百中,Luck: Flawless Accuracy,運気・百発百中,운명·백발백중,氣運·百發百中,FateCard.json
+FateCard.98145.1,气运·化险为夷,Luck: Near Miss,運気・カウンター攻撃,운명·위기를 기회로,氣運·化險為夷,FateCard.json
+FateCard.98146.1,气运·乘胜追击,Luck: Victorious Pursuit,運気・隙あり！,운명·승리의 맹공,氣運·乘勝追擊,FateCard.json
+FateCard.98147.1,气运·连战连捷,Luck: Consecutive Wins,運気・幸運のおすそわけ,운명·연전연승,氣運·連戰連捷,FateCard.json
+FateCard.98148.1,气运·默契无间,Luck: Absolute Affinity,運気・阿吽の呼吸,운명·일심동체,氣運·默契無間,FateCard.json
+FateCard.98149.1,气运·斩草除根,Luck: No Loose End,運気・根絶やし,운명·뿌리 뽑기,氣運·斬草除根,FateCard.json
+FateCard.98150.1,气运·斩将夺旗,Luck: Slay & Seize,運気・大将首をねらえ！,운명·깃발 쟁취,氣運·斬將奪旗,FateCard.json
+FateCard.98161.1,抑制·趁人之危,Degen: Vulture's Strike,抑制・チャンスを逃すな,억제·빈틈 포착,抑制·趁人之危,FateCard.json
+FateCard.98162.1,抑制·趁火打劫,Degen: Opportunist,抑制・泣きっ面を刺す蜂,억제·혼란 속 약탈,抑制·趁火打劫,FateCard.json
+FateCard.98163.1,抑制·落井下石,Degen: Insult to Injury,抑制・サンドバッグ,억제·결정적 일격,抑制·落井下石,FateCard.json
+FateCard.98164.1,抑制·乘隙而入,Degen: Rift Ripper,抑制・弱点把握,억제·틈새 침투,抑制·乘隙而入,FateCard.json
+FateCard.98165.1,抑制·瓮中之鳖,Degen: Trapped Prey,抑制・袋叩き,억제·독 안의 쥐,抑制·甕中之鱉,FateCard.json
+FateCard.98166.1,抑制·致残打击,Degen: Crippling Blow,抑制・足狙い,억제·절명의 일격,抑制·致殘打擊,FateCard.json
+FateCard.98167.1,抑制·伤口撒盐,Degen: Salt in the Wound,抑制・急所狙い,억제·상처 도발,抑制·傷口撒鹽,FateCard.json
+FateCard.98168.1,抑制·扼腕之技,Degen: Wrist Gripping,抑制・コンビ打ち,억제·손목 꺾기,抑制·扼腕之技,FateCard.json
+FateCard.98169.1,抑制·协同桎梏,Degen: Shackles of Synergy,抑制・頼りになる味方,억제·협공 속박,抑制·協同桎梏,FateCard.json
+FateCard.98170.1,抑制·逆境之力,Degen: Power in Peril,抑制・火事場のなんとか,억제·역경의 힘,抑制·逆境之力,FateCard.json
+FateCard.98181.1,反击·蓄势,Counter: Building Power,不屈・反撃の準備,반격·기세 축적,反擊·蓄勢,FateCard.json
+FateCard.98182.1,反击·固守,Counter: Total Defense,不屈・攻撃パターン見切り,반격·수호,反擊·固守,FateCard.json
+FateCard.98183.1,反击·绝境,Counter: Dead End,不屈・逆転の完全回避,반격·절체절명,反擊·絕境,FateCard.json
+FateCard.98184.1,反击·避险,Counter: Risk Aversion,不屈・致命傷回避,반격·위기 회피,反擊·避險,FateCard.json
+FateCard.98185.1,反击·噬血,Counter: Bloodthirsty,不屈・吸血,반격·피의 갈망,反擊·噬血,FateCard.json
+FateCard.98186.1,反击·怒焰,Counter: Raging Flames,不屈・怒髪天を衝く,반격·격노의 화염,反擊·怒焰,FateCard.json
+FateCard.98187.1,反击·借势,Counter: Ride the Wave,不屈・カウンター攻撃,반격·기세 역이용,反擊·借勢,FateCard.json
+FateCard.98188.1,反击·复仇,Counter: Revenge,不屈・復讐心,반격·응징,反擊·復仇,FateCard.json
+FateCard.98189.1,反击·暴伤,Counter: Massive Damage,不屈・肉を切らせて,반격·치명타 피해,反擊·暴傷,FateCard.json
+FateCard.98190.1,反击·凝势,Counter: Strong Support,不屈・バックハンドブロー,반격·응축된 힘,反擊·凝勢,FateCard.json
+FateCard.98201.1,生命汲取,Life Drain,刈り取られる命,생명 흡수,生命汲取,FateCard.json
+FateCard.98202.1,战斗补给,Battle Supply,緊急治療,전투 보급,戰鬥補給,FateCard.json
+FateCard.98203.1,渴血,Blood Thirst,血への渇望,피의 갈망,渴血,FateCard.json
+FateCard.98204.1,坚毅不倒,Immovable,強靭な精神,불요불굴,堅毅不倒,FateCard.json
+FateCard.98601.1,追刃,Tracking Blade,追跡の刃,추격의 칼날,追刃,FateCard.json
+FateCard.98602.1,诡旋刃,Spinning Blade,奇異な刃,기묘한 회전 칼날,詭旋刃,FateCard.json
+FateCard.98603.1,弹射风刃,Bouncing Wind Blade,反射風刃,튕기는 바람 칼날,彈射風刃,FateCard.json
+FateCard.98604.1,骤风,Squall,突風,질풍,驟風,FateCard.json
+FateCard.98605.1,噬敌卷,Devastating Tornado,渦巻く脅威,포식의 소용돌이,噬敵捲,FateCard.json
+FateCard.98606.1,三重疾岚,Triple-Storm,三重嵐,삼중 폭풍,三重疾嵐,FateCard.json
+FateCard.98607.1,风袭,Wind Assault,風の襲撃,바람 기습,風襲,FateCard.json
+FateCard.98608.1,穿刺翎,Piercing Feather,貫通の羽,꿰뚫는 깃털,穿刺翎,FateCard.json
+FateCard.98609.1,妖风袭卷,Megastorm,妖しい風,요풍의 습격,妖風襲捲,FateCard.json
+FateCard.98610.1,点燃,Light Up,点火,점화,點燃,FateCard.json
+FateCard.98611.1,回光烬,Echoing Fire,炎の残滓,반사광,回光燼,FateCard.json
+FateCard.98612.1,逆向诡火,Backdraft,逆行の炎,역행하는 불길,逆向詭火,FateCard.json
+FateCard.98613.1,焰斩,Fiery Slash,火炎斬り,염참,焰斬,FateCard.json
+FateCard.98614.1,陨爆斩,Explosive Slash,隕爆斬り,운폭참,隕爆斬,FateCard.json
+FateCard.98615.1,离火飞焰,Splitting Flame,飛散する炎,흩날리는 불꽃,離火飛焰,FateCard.json
+FateCard.98616.1,灾星,Bane,災いの星,재앙의 별,災星,FateCard.json
+FateCard.98617.1,恶兆星,Meteor of Bad Omen,凶兆の星,흉조의 별,惡兆星,FateCard.json
+FateCard.98618.1,灾祸爆星,Meteor of Catastrophe,災禍の爆星,재앙의 폭발성,災禍爆星,FateCard.json
+FateCard.98619.1,溅云,Splashing Cloud,四散する雲,흩뿌려진 구름,濺雲,FateCard.json
+FateCard.98620.1,岚落水,Stormfall,嵐の水禍,질풍 속 폭우,嵐落水,FateCard.json
+FateCard.98621.1,云卷狂欢,Cloud Frenzy,雲の乱舞,권운 카니발,雲捲狂歡,FateCard.json
+FateCard.98622.1,凶渊,Ominous Abyss,凶禍の淵,흉악한 심연,凶淵,FateCard.json
+FateCard.98623.1,霸主鲨,Shark Lord,鮫の覇者,상어 패왕,霸主鯊,FateCard.json
+FateCard.98624.1,暗礁唤影,Reef Call,暗礁の影,암초 속 그림자,暗礁喚影,FateCard.json
+FateCard.98625.1,悬锥,Hanging Spike,刺突,매달린 송곳,懸錐,FateCard.json
+FateCard.98626.1,恶寒刺,Chilling Spike,悪意の棘,오한의 송곳,惡寒刺,FateCard.json
+FateCard.98627.1,天坠冰寒,Ice Meteor,霜天の怒り,하늘에서 떨어지는 추위,天墜冰寒,FateCard.json
+FateCard.98628.1,瞬雷,Quick Thunder,瞬雷,순뢰,瞬雷,FateCard.json
+FateCard.98629.1,雷电缚,Lightning Rope,雷電の束縛,뇌전 묶기,雷電縛,FateCard.json
+FateCard.98630.1,雷劫贯通,Piercing Thunder,貫通する落雷,뇌전 관통,雷劫貫通,FateCard.json
+FateCard.98631.1,霆霓,Neon Thunderbolt,雷霆の虹,무지갯빛 벼락,霆霓,FateCard.json
+FateCard.98632.1,雷预报,Thunder Forecast,雷電の兆し,번개 예보,雷預報,FateCard.json
+FateCard.98633.1,幻电霓魂,Phantom Specter,ネオン色の魂,무지갯빛 영혼 벼락,幻電霓魂,FateCard.json
+FateCard.98634.1,天引,Heaven's Call,天の導き,하늘의 인도,天引,FateCard.json
+FateCard.98635.1,奉雷罚,Thunderclap,雷の裁き,천뢰의 심판,奉雷罰,FateCard.json
+FateCard.98636.1,天雷昭昭,Thunder Retribution,天雷煌々,천뢰휘황,天雷昭昭,FateCard.json
+FateCard.98637.1,岩矛,Geolance,岩の槍,암석 화살,岩矛,FateCard.json
+FateCard.98638.1,掷岩枪,Piercing Geolance,硬い岩の槍,암석창 투척,擲岩槍,FateCard.json
+FateCard.98639.1,石锋乱击,Flurry of Geolances,乱れ突く岩の槍,돌날 난타,石鋒亂擊,FateCard.json
+FateCard.98640.1,岩突,Rock Spikes,岩突,암석 송곳,岩突,FateCard.json
+FateCard.98641.1,岩十方,Omni-Spikes,岩雪崩,암석 십자가,岩十方,FateCard.json
+FateCard.98642.1,岩幔爆突,Erupting Spikes,岩石爆弾,암석 장막 폭발,岩幔爆突,FateCard.json
+FateCard.98643.1,地裂,Fissure,地割れ,대지 균열,地裂,FateCard.json
+FateCard.98644.1,地轰崩,Mega Fissure,地溝,대지 붕괴,地轟崩,FateCard.json
+FateCard.98645.1,三重崩坏,Triple Fissure,大地溝帯,삼중 붕괴,三重崩壞,FateCard.json
+FateCard.98646.1,轰震,Tremor,地震,격진,轟震,FateCard.json
+FateCard.98647.1,震荡波,Echoing Tremor,震撃の陣,전율파,震盪波,FateCard.json
+FateCard.98648.1,地心轰震,Deep Tremor,地心の咆哮,대지 핵심 충격,地心轟震,FateCard.json
+FateCard.98649.1,影刺,Umbral Thorn,黒針,그림자 송곳,影刺,FateCard.json
+FateCard.98650.1,穿影刺,Umbral Rupture,穿つ黒針,그림자 송곳 관통,穿影刺,FateCard.json
+FateCard.98651.1,堕天杀阵,Rain of Spikes,黒針暗殺術,타락의 섬멸진,墮天殺陣,FateCard.json
+FateCard.98652.1,黯灭,Eclipse,暗黒物質,검은 소멸,黯滅,FateCard.json
+FateCard.98653.1,叠影灭,Layered Oblivion,暗黒物質拡散,쉐도우 소멸,疊影滅,FateCard.json
+FateCard.98654.1,荒芜烬灭,Bleak Ruination,暗黒物質崩壊,황폐한 잿더미,荒蕪燼滅,FateCard.json
+FateCard.98655.1,魔弹,Cursed Bullets,魔弾,마력탄,魔彈,FateCard.json
+FateCard.98656.1,重影弹,Mirage Shot,魔弾連射,이중 그림자탄,重影彈,FateCard.json
+FateCard.98657.1,暗影倾泻,Phantom Volley,魔弾乱射,어둠의 분출,暗影傾瀉,FateCard.json
+FateCard.98658.1,黑洞,Black Hole,縮退物質,암흑 동굴,黑洞,FateCard.json
+FateCard.98659.1,影空噬,Collapsing Star,重力崩壊,그림자 포식,影空噬,FateCard.json
+FateCard.98660.1,重力捕网,Gravity Net,裸の特異点,중력의 그물,重力捕網,FateCard.json
+FateCard.98701.1,火·蒸发效应,Ignis: Evaporation Effect,火・蒸発効果,불·증발 효과,火·蒸發效應,FateCard.json
+FateCard.98702.1,火·暴伤提升,Ignis: Crit Damage Boost,火・会心ダメージ上昇,불·치명타 피해 증가,火·暴傷提升,FateCard.json
+FateCard.98703.1,火·同调反馈,Ignis: Sync Feedback,火・同調反応,불·공명 반응,火·同調回饋,FateCard.json
+FateCard.98704.1,火·处决,Ignis: Execution,火・処刑,불·처형,火·處決,FateCard.json
+FateCard.98705.1,火·束缚,Ignis: Binding,火・束縛,불·속박,火·束縛,FateCard.json
+FateCard.98706.1,火·灼烧之痕,Ignis: Burn Mark,火・灼熱の痕,불·작열의 흔적,火·灼燒之痕,FateCard.json
+FateCard.98707.1,火·热甲,Ignis: Searing Armor,火・炎の鎧,불·열기 갑옷,火·熱甲,FateCard.json
+FateCard.98708.1,火·再燃,Ignis: Reignition,火・再燃,불·재점화,火·再燃,FateCard.json
+FateCard.98709.1,火·炎之舞,Ignis: Flame Dance,火・炎の舞,불·화염의 춤,火·炎之舞,FateCard.json
+FateCard.98710.1,火·烈性,Ignis: Combustibility,火・熾烈,불·격렬,火·烈性,FateCard.json
+FateCard.98731.1,水·覆冰,Aqua: Ice Cover,水・凍てつく氷,물·빙결,水·覆冰,FateCard.json
+FateCard.98732.1,水·技之源流,Aqua: Origin of Technique,水・技の起源,물·기술의 원류,水·技之源流,FateCard.json
+FateCard.98733.1,水·闪避反击,Aqua: Evasion Counterattack,水・回避反撃,물·회피 반격,水·閃避反擊,FateCard.json
+FateCard.98734.1,水·再动可能,Aqua: Quick Restart,水・止まらぬ戦,물·재개 가능,水·再動可能,FateCard.json
+FateCard.98735.1,水·迅击节奏,Aqua: Swift Strike,水・流水の如く,물·속공의 리듬,水·迅擊節奏,FateCard.json
+FateCard.98736.1,水·白雾,Aqua: White Mist,水・白霧,물·흰 안개,水·白霧,FateCard.json
+FateCard.98737.1,水·石穿,Aqua: Stone Piercing,水・穿石,물·바위 뚫기,水·石穿,FateCard.json
+FateCard.98738.1,水·激流增势,Aqua: Rapids Power,水・止まらぬ奔流,물·격류 증세,水·激流增勢,FateCard.json
+FateCard.98739.1,水·涟漪新生,Aqua: Revival Ripples,水・癒しの小波,물·새로운 파동,水·漣漪新生,FateCard.json
+FateCard.98740.1,水·澜潮共鸣,Aqua: Resonance of Waves,水・スクエアウェイヴ,물·파도 공명,水·瀾潮共鳴,FateCard.json
+FateCard.98761.1,光·圣躯,Lux: Divine Body,光・聖なる加護,빛·성구,光·聖軀,FateCard.json
+FateCard.98762.1,光·刻印,Lux: Glyph,光・刻印,빛·각인,光·刻印,FateCard.json
+FateCard.98763.1,光·逐影,Lux: Shadow Chaser,光・影祓い,빛·그림자 추적,光·逐影,FateCard.json
+FateCard.98764.1,光·圣体,Lux: Blessed Sacrament,光・神聖なる魂,빛·성체,光·聖體,FateCard.json
+FateCard.98765.1,光·裁决,Lux: Judgment,光・裁決,빛·판결,光·裁決,FateCard.json
+FateCard.98766.1,光·斩恶,Lux: Evil Slayer,光・悪斬り,빛·악의 처단,光·斬惡,FateCard.json
+FateCard.98767.1,光·共鸣,Lux: Resonance,光・共鳴,빛 공명,光·共鳴,FateCard.json
+FateCard.98768.1,光·立誓,Lux: Oath,光・誓約,빛 맹세,光·立誓,FateCard.json
+FateCard.98769.1,光·炽热,Lux: Heat,光・熱線,빛 작열,光·熾熱,FateCard.json
+FateCard.98770.1,光·律动,Lux: Rhythm,光・共律,빛 리듬,光·律動,FateCard.json
+FateCard.98791.1,暗·束缚,Umbra: Binding,闇・束縛,어둠·속박,暗·束縛,FateCard.json
+FateCard.98792.1,暗·暴击充能,Umbra: Crit Charge,闇・会心チャージ,어둠·치명타 충전,暗·暴擊蓄能,FateCard.json
+FateCard.98793.1,暗·收割,Umbra: Harvest,闇・収穫,어둠·사냥,暗·收割,FateCard.json
+FateCard.98794.1,暗·暴伤提升,Umbra: Crit Damage Boost,闇・会心ダメージ増加,어둠·치명타 피해 증가,暗·暴傷提升,FateCard.json
+FateCard.98795.1,暗·狂暴,Umbra: Berserk,闇・狂暴,어둠·광폭,暗·狂暴,FateCard.json
+FateCard.98796.1,暗·恐惧传染,Umbra: Fear Spread,闇・恐怖の伝染,어둠·공포 전염,暗·恐懼傳染,FateCard.json
+FateCard.98797.1,暗·黑夜降临,Umbra: Darkness Descends,闇・夜の帳,어둠·밤의 강림,暗·黑夜降臨,FateCard.json
+FateCard.98798.1,暗·日蚀,Umbra: Eclipse,闇・日蝕,어둠·일식,暗·日蝕,FateCard.json
+FateCard.98799.1,暗·恶念爆发,Umbra: Malice Outburst,闇・悪意爆発,어둠·악념의 폭발,暗·惡念爆發,FateCard.json
+FateCard.98800.1,暗·魔瘾,Umbra: Magic Frenzy,闇・魔の衝動,어둠·마의 탐닉,暗·魔癮,FateCard.json
+FateCard.98821.1,风·猎物感知,Ventus: Hunter's Instinct,風・感知,바람·사냥감 감지,風·獵物感知,FateCard.json
+FateCard.98822.1,风·刻印,Ventus: Glyph,風・刻印,바람·각인,風·刻印,FateCard.json
+FateCard.98823.1,风·外环,Ventus: Outer Ring,風・射程圏内,바람·바깥 범위,風·外環,FateCard.json
+FateCard.98824.1,风·射手之心,Ventus: Archer's Heart,風・射手の心,바람·사수의 정신,風·射手之心,FateCard.json
+FateCard.98825.1,风·鹰眼,Ventus: Eagle Eye,風・鷹の眼,바람·매의 눈,風·鷹眼,FateCard.json
+FateCard.98826.1,风·追箭,Ventus: Arrow Chaser,風・追跡の矢,바람·추격의 화살,風·追箭,FateCard.json
+FateCard.98827.1,风·抗性衰减,Ventus: Resistance Reduction,風・耐性減衰,바람·저항력 감소,風·抗性衰減,FateCard.json
+FateCard.98828.1,风·狩猎本能,Ventus: Hunting Instinct,風・狩猟本能,바람·사냥 본능,風·狩獵本能,FateCard.json
+FateCard.98829.1,风·乘云,Ventus: Soaring on Clouds,風・雲に乗って,바람·구름을 타는 자,風·乘雲,FateCard.json
+FateCard.98830.1,风·狩猎标记,Ventus: Hunting Mark,風・狩猟の印,바람·사냥 표식,風·狩獵標記,FateCard.json
+FateCard.98851.1,地·坚固,Terra: Sturdy,地・堅牢,땅·강인,地·堅固,FateCard.json
+FateCard.98852.1,地·覆身刚体,Terra: Concrete Shield,地・鋼鉄の体,땅·뒤덮기,地·覆身鋼體,FateCard.json
+FateCard.98853.1,地·土之加护,Terra: Protection of Earth,地・地母神の加護,땅·흙의 가호,地·土之加護,FateCard.json
+FateCard.98854.1,地·震颤共鸣,Terra: Tremor Resonance,地・大地の共振,땅·진동과 공명,地·震顫共鳴,FateCard.json
+FateCard.98855.1,地·压城之势,Terra: Crushing Might,地・巨岩砕きの極意,땅·성을 제압하는 기세,地·壓城之勢,FateCard.json
+FateCard.98856.1,地·蚀岩之痕,Terra: Mark of Erosion,地・風化に抗う巖,땅·침식된 바위의 흔적,地·蝕岩之痕,FateCard.json
+FateCard.98857.1,地·坚如磐石,Terra: Rocksolid,地・盤石な地盤,땅·반석의 견고함,地·堅若磐石,FateCard.json
+FateCard.98858.1,地·石纹增幅,Terra: Pattern Boost,地・岩紋の祝福,땅·암석 무늬 증폭,地·石紋增幅,FateCard.json
+FateCard.98859.1,地·势不可挡,Terra: Unstoppable,地・大地踏み均す進撃,땅·막을 수 없는 기세,地·勢不可擋,FateCard.json
+FateCard.98860.1,地·地震余波,Terra: Seismic Echo,地・鳴動し続ける大地,땅·지진의 여파,地·地震餘波,FateCard.json
+GoldenSpyBuffCard.10111.1,溢价竞拍·公文包,Premium Auction: Briefcase,高額取引・鞄,고가 입찰·서류 가방,溢價競拍·文件包,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10112.1,溢价竞拍·糖果盒,Premium Auction: Candy Box,高額取引・飴箱,고가 입찰·사탕 상자,溢價競拍·糖果盒,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10113.1,溢价竞拍·宝石,Premium Auction: Gem,高額取引・宝石,고가 입찰·보석,溢價競拍·寶石,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10114.1,溢价竞拍·情报卷轴,Premium Auction: Intel Scroll,高額取引・契約書,고가 입찰·정보 문서,溢價競拍·情報卷軸,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10115.1,溢价竞拍·窃听器,Premium Auction: Bug Device,高額取引・盗聴,고가 입찰·도청기,溢價競拍·竊聽器,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10121.1,提升预期·公文包,Elevated Expectation: Briefcase,先買い・鞄,예상가 인상·서류 가방,提升預期·文件包,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10122.1,提升预期·糖果盒,Elevated Expectation: Candy Box,先買い・飴箱,예상가 인상·사탕 상자,提升預期·糖果盒,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10123.1,提升预期·宝石,Elevated Expectation: Gem,先買い・宝石,예상가 인상·보석,提升預期·寶石,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10124.1,提升预期·情报卷轴,Elevated Expectation: Intel Scroll,先買い・契約書,예상가 인상·정보 문서,提升預期·情報卷軸,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10125.1,提升预期·窃听器,Elevated Expectation: Bug Device,先買い・盗聴,예상가 인상·도청기,提升預期·竊聽器,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10131.1,市价操控·公文包,Market Control: Briefcase,価額操作・鞄,시장가 조정·서류 가방,市價操控·文件包,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10132.1,市价操控·糖果盒,Market Control: Candy Box,価額操作・飴箱,시장가 조정·사탕 상자,市價操控·糖果盒,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10133.1,市价操控·宝石,Market Control: Gem,価額操作・宝石,시장가 조정·보석,市價操控·寶石,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10134.1,市价操控·情报卷轴,Market Control: Intel Scroll,価額操作・契約書,시장가 조정·정보 문서,市價操控·情報卷軸,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10135.1,市价操控·窃听器,Market Control: Bug Device,価額操作・盗聴,시장가 조정·도청기,市價操控·竊聽器,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10211.1,挪移奇术·公文包,Displacement Trick: Briefcase,重力忍法・鞄,순간 이동·서류 가방,挪移奇術·文件包,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10212.1,挪移奇术·糖果盒,Displacement Trick: Candy Box,重力忍法・飴箱,순간 이동·사탕 상자,挪移奇術·糖果盒,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10213.1,挪移奇术·宝石,Displacement Trick: Gem,重力忍法・宝石,순간 이동·보석,挪移奇術·寶石,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10214.1,挪移奇术·情报卷轴,Displacement Trick: Intel Scroll,重力忍法・契約書,순간 이동·정보 문서,挪移奇術·情報卷軸,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10215.1,挪移奇术·窃听器,Displacement Trick: Bug Device,重力忍法・盗聴器,순간 이동·도청기,挪移奇術·竊聽器,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10221.1,延迟减重·公文包,Delayed Lightening: Briefcase,軽量処理・鞄,지연 경량화·서류 가방,延遲減重·文件包,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10222.1,延迟减重·糖果盒,Delayed Lightening: Candy Box,軽量処理・飴箱,지연 경량화·사탕 상자,延遲減重·糖果盒,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10223.1,延迟减重·宝石,Delayed Lightening: Gem,軽量処理・宝石,지연 경량화·보석,延遲減重·寶石,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10224.1,延迟减重·情报卷轴,Delayed Lightening: Intel Scroll,軽量処理・契約書,지연 경량화·정보 문서,延遲減重·情報卷軸,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10225.1,延迟减重·窃听器,Delayed Lightening: Bug Device,軽量処理・盗聴器,지연 경량화·도청기,延遲減重·竊聽器,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10231.1,轻量化·公文包,Lightweight: Briefcase,軽量化・鞄,경량화·서류 가방,輕量化·文件包,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10232.1,轻量化·糖果盒,Lightweight: Candy Box,軽量化・飴箱,경량화·사탕 상자,輕量化·糖果盒,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10233.1,轻量化·宝石,Lightweight: Gem,軽量化・宝石,경량화·보석,輕量化·寶石,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10234.1,轻量化·情报卷轴,Lightweight: Intel Scroll,軽量化・契約書,경량화·정보 문서,輕量化·情報卷軸,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10235.1,轻量化·窃听器,Lightweight: Bug Device,軽量化・盗聴器,경량화·도청기,輕量化·竊聽器,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10311.1,高频接单·即时,Fast-Paced Contracts: Instant,単品受注・即時,수주 빈도 증가·즉시,頻繁接單·即時,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10321.1,高频接单·延迟,Fast-Paced Contracts: Delayed,単品受注・遅延,수주 빈도 증가·지연,頻繁接單·延遲,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10331.1,高频接单·永久,Fast-Paced Contracts: Permanent,単品受注・永続,수주 빈도 증가·영구,頻繁接單·永久,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10411.1,特别服务·即时,Special Service: Instant,サービス・即時,특별 서비스·즉시,特別服務·即時,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10421.1,特别服务·延迟,Special Service: Delayed,サービス・遅延,특별 서비스·지연,特別服務·延遲,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10431.1,特别服务·永久,Special Service: Permanent,サービス・永続,특별 서비스·영구,特別服務·永久,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10541.1,爆破专家,Explosives Expert,爆破マスター,폭파 전문가,爆破專家,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10542.1,冷冻大师,Freeze Master,凍結マスター,빙결의 달인,冷凍大師,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10611.1,扳机改造·即时,Trigger Modification: Instant,トリガー改造・即時,방아쇠 개조·즉시,扳機改造·即時,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10621.1,扳机改造·延迟,Trigger Modification: Delayed,トリガー改造・遅延,방아쇠 개조·지연,扳機改造·延遲,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10631.1,扳机改造·永久,Trigger Modification: Permanent,トリガー改造・永続,방아쇠 개조·영구,扳機改造·永久,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10711.1,钩爪加固·即时,Reinforced Grapple: Instant,フック強化・即時,갈고리 강화·즉시,鉤爪補強·即時,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10721.1,钩爪加固·延迟,Reinforced Grapple: Delayed,フック強化・遅延,갈고리 강화·지연,鉤爪補強·延遲,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10731.1,钩爪加固·永久,Reinforced Grapple: Permanent,フック強化・永続,갈고리 강화·영구,鉤爪補強·永久,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10811.1,瞄具进化·即时,Sight Upgrade: Instant,照準進化・即時,조준기 진화·즉시,瞄具進化·即時,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10821.1,瞄具进化·延迟,Sight Upgrade: Delayed,照準進化・遅延,조준기 진화·지연,瞄具進化·延遲,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10911.1,特工怀表,Agent Pocket Watch,懐中時計,요원의 회중시계,特工懷錶,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11031.1,公文包爱好者,Briefcase Enthusiast,収集家・鞄,서류 가방 마니아,文件包愛好者,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11032.1,糖果盒爱好者,Candy Box Enthusiast,収集家・飴箱,사탕 상자 마니아,糖果盒愛好者,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11033.1,宝石爱好者,Gem Enthusiast,収集家・宝石,보석 마니아,寶石愛好者,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11034.1,情报卷轴爱好者,Intel Scroll Enthusiast,収集家・契約書,정보 문서 마니아,情報卷軸愛好者,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11035.1,窃听器爱好者,Bug Device Enthusiast,収集家・盗聴,도청기 마니아,竊聽器愛好者,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11036.1,先利其器,Tool Enhancement,収集家・フック,장비 연마,先利其器,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11037.1,赏金猎手,Bounty Hunter,賞金ハンター,현상금 사냥꾼,賞金獵手,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11038.1,玩转市场,Market Expertise,市場攻略,시장 장악,玩轉市場,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11039.1,轻若鸿毛,Ultra-Lightweight,羽のように軽く,깃털 같은 중량,輕如鴻毛,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11040.1,尽速尽美,Swift and Flawless,迅速、完璧,신속과 완벽,盡速盡美,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11041.1,精益求精,Refined Excellence,さらなる研鑽,완벽 추구,精益求精,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11042.1,稳健布局,Steady Deployment,安定志向,안정적인 배치,穩健佈局,GoldenSpyBuffCard.json
+IceCreamBuff.101.1,冻感酷冰饮,Frosty Chiller,フレッシュクールドリンク,아이스 쿨 드링크,凍感酷冰飲,IceCreamBuff.json
+IceCreamBuff.102.1,安心鲜果饮,Pure Fruit Blend,オレンジレモネード,컴포트 과일 주스,安心鮮果飲,IceCreamBuff.json
+IceCreamBuff.103.1,力满劲,Energy Punch,パワフルエナジー,에너지 뿜뿜 드링크,力滿勁,IceCreamBuff.json
+IceCreamBuff.104.1,营养椰汁,Vitality Coconut Water,ココナッツミルク,영양 코코넛 워터,營養椰子水,IceCreamBuff.json
+IceCreamBuff.105.1,缤纷气泡特调,Rainbow Fizz Special,トロピカルカクテル,알록달록 버블 에이드,繽紛氣泡特調,IceCreamBuff.json
+Item.90011.1,强攻之音,Melody of Pummel,強撃の音符,강공의 소리,強攻之音,Item.json (Type 6/Stype 19)
+Item.90012.1,幸运之音,Melody of Luck,幸運の音符,행운의 소리,幸運之音,Item.json (Type 6/Stype 19)
+Item.90013.1,暴发之音,Melody of Burst,爆発の音符,폭발의 소리,爆發之音,Item.json (Type 6/Stype 19)
+Item.90014.1,体力之音,Melody of Stamina,体力の音符,체력의 소리,體力之音,Item.json (Type 6/Stype 19)
+Item.90015.1,专注之音,Melody of Focus,集中の音符,집중의 소리,專注之音,Item.json (Type 6/Stype 19)
+Item.90016.1,技巧之音,Melody of Skill,器用の音符,기술의 소리,技巧之音,Item.json (Type 6/Stype 19)
+Item.90017.1,绝招之音,Melody of Ultimate,必殺の音符,필살기의 소리,絕招之音,Item.json (Type 6/Stype 19)
+Item.90018.1,水之音,Melody of Aqua,水の音符,물의 소리,水之音,Item.json (Type 6/Stype 19)
+Item.90019.1,火之音,Melody of Ignis,火の音符,불의 소리,火之音,Item.json (Type 6/Stype 19)
+Item.90020.1,风之音,Melody of Ventus,風の音符,바람의 소리,風之音,Item.json (Type 6/Stype 19)
+Item.90021.1,地之音,Melody of Terra,地の音符,땅의 소리,地之音,Item.json (Type 6/Stype 19)
+Item.90022.1,光之音,Melody of Lux,光の音符,빛의 소리,光之音,Item.json (Type 6/Stype 19)
+Item.90023.1,暗之音,Melody of Umbra,闇の音符,어둠의 소리,暗之音,Item.json (Type 6/Stype 19)
+MiningSupport.1.1,希娅：星砂气息,Shia: Stardust Breath,シア：星砂の息吹,시아: 별의 파편 숨결,希婭：星砂氣息,MiningSupport.json
+MiningSupport.2.1,花铃：涡流风暴,Karin: Whirlpool Storm,カリン：渦流の嵐,카린: 소용돌이 폭풍,花鈴：渦流風暴,MiningSupport.json
+MiningSupport.201.1,冬香：火花四溅,Fuyuka: Sparks Fly,フユカ：スプレッドフレア,후유카: 흩날리는 불꽃,冬香：火花四濺,MiningSupport.json
+MiningSupport.202.1,小禾：幸运道具,Nazuna: Lucky Charm,ナズナ：ラッキーゲーム,나즈나: 행운의 아이템,小禾：幸運道具,MiningSupport.json
+MiningSupport.203.1,雾语：幽灵气息,Mistique: Spiritual Trace,ミスティ：いたずらお願い★,미스티: 유령의 기운,霧語：幽靈氣息,MiningSupport.json
+MiningSupport.204.1,瑟拉娜：情报支援,Serena: Intel Support,セレナ：情報提供,세레나: 정보 지원,瑟拉娜：情報支援,MiningSupport.json
+MiningSupport.205.1,埃莉诺：新人登场,Eleanor: Newcomer Debut,エレノア：ビギナーズラック,엘레노어: 루키 등장,埃莉諾：新人登場,MiningSupport.json
+MiningSupport.206.1,枫：全力支援,Kaede: Full Support,カエデ：追撃支援,카에데: 전력 지원,楓：全力支援,MiningSupport.json
+MiningSupport.207.1,夏花：精准发现,Nazuka: Precise Finding,ナツカ：風の導き,나츠카: 정확한 발견,夏花：精準發現,MiningSupport.json
+MiningSupport.3.1,鸢尾：渔获补给,Iris: Fishing Supplies,アヤメ：漁獲補給,아야메: 어획물 보급,鳶尾：漁獲補給,MiningSupport.json
+MiningSupport.301.1,琥珀：新手光环,Amber: Beginner's Luck,コハク：新規開拓チャンス,코하쿠: 신입 버프,琥珀：新手光環,MiningSupport.json
+MiningSupport.302.1,冬香：歪打正着,Fuyuka: Happy Accident,フユカ：体当たり営業,후유카: 전화위복,冬香：歪打正著,MiningSupport.json
+MiningSupport.303.1,红宝石：干劲满满,Ruby: Fired Up,ルビィ：先輩サポート,루비: 활력 가득,紅寶石：活力滿滿,MiningSupport.json
+MiningSupport.304.1,蓝宝石：精密测量,Sapphire: Calculated Precision,サファイア：精密分析,사파이어: 정밀 측정,藍寶石：精密測量,MiningSupport.json
+MiningSupport.305.1,雾语：暗中采访,Mistique: Undercover Scoop,ミスティ：夜中のアポ取り,미스티: 잠입 취재,霧語：暗中採訪,MiningSupport.json
+MiningSupport.306.1,星雁：销售技巧,Nyx: Sales Tactics,ニュクス：セールステクニック,닉스: 판매 스킬,星雁：銷售技巧,MiningSupport.json
+MiningSupport.307.1,翡冷翠：精准投资,Firenze: Smart Investment,フィレン：先見の明,피렌: 타겟 투자,翡冷翠：精準投資,MiningSupport.json
+MiningSupport.4.1,琥珀：沸腾深渊,Amber: Boiling Abyss,コハク：沸騰する深淵,코하쿠: 심연의 분출,琥珀：沸騰深淵,MiningSupport.json
+MiningSupport.401.1,特丽莎：寻宝直觉,Teresa: Treasure Intuition,テレサ：お宝サーチ,테레사: 보물 탐지의 직감,特麗莎：尋寶直覺,MiningSupport.json
+MiningSupport.402.1,鸢尾：缜密调研,Iris: Thorough Investigation,アヤメ：綿密調査,아야메: 치밀한 조사,鳶尾：縝密調查,MiningSupport.json
+MiningSupport.403.1,多娜：身先士卒,Donna: Leading the Charge,トーナ：幸運配達,토나: 솔선수범,多娜：身先士卒,MiningSupport.json
+MiningSupport.404.1,优叶：测绘专家,Leafia: Surveying Expert,スグハ：測量の達人,스구하: 측량 제도 전문가,優葉：測繪專家,MiningSupport.json
+MiningSupport.405.1,苍兰：理性之力,Freesia: Power of Reason,フリージア：『レゾン』の一振り,프리지아: 레종의 힘,蒼蘭：理性之力,MiningSupport.json
+MiningSupport.406.1,尘沙：幸运一铲,Noya: Lucky Shovel,セイナ：ポジティブセンス,세이나: 행운의 삽질,塵沙：幸運一鏟,MiningSupport.json
+MiningSupport.407.1,琥珀：精准命中,Amber: Precision Strike,コハク：必中の慧眼,코하쿠: 빈틈없는 조준,琥珀：精準命中,MiningSupport.json
+MiningSupport.5.1,尘沙：最强舵手,Noya: Ace Helmsman,セイナ：最強の舵手,세이나: 강력한 타수,塵沙：最強舵手,MiningSupport.json
+MiningSupport.506.1,雾语：头条预定,Mistique: Headline Reserved,ミスティ：トップニュース確定,미스티: 특종 예정,霧語：頭條預定,MiningSupport.json
+MiningSupport.507.1,珂赛特：蚀解波纹,Cosette: Corrosive Waves,コゼット：蝕解の波紋,코제트: 침식의 물결,珂賽特：蝕解波紋,MiningSupport.json
+MiningSupport.603.1,薇洛（盛夏）：活力满溢,Suntide Willow: Juiced Up!,ウィロー（水着）：バイタリティ,윌로(여름): 넘치는 에너지,沐夏薇洛：活力滿溢,MiningSupport.json
+PenguinBaseCard.101.1,元素牌·火,Elemental Card: Ignis,属性カード・火,원소 카드·불,元素牌·火,PenguinBaseCard.json
+PenguinBaseCard.102.1,元素牌·水,Elemental Card: Aqua,属性カード・水,원소 카드·물,元素牌·水,PenguinBaseCard.json
+PenguinBaseCard.103.1,元素牌·风,Elemental Card: Ventus,属性カード・風,원소 카드·바람,元素牌·風,PenguinBaseCard.json
+PenguinBaseCard.104.1,元素牌·全部,Elemental Cards: All,属性カード・全,원소 카드·전체,元素牌·全部,PenguinBaseCard.json
+PenguinBaseCard.105.1,石化牌,Petrified Card,ブタカード,석화 카드,石化牌,PenguinBaseCard.json
+PenguinBaseCard.201.1,元素牌·火x2,Elemental Card: Ignis ×2,属性カード・火×2,원소 카드·불x2,元素牌·火×2,PenguinBaseCard.json
+PenguinBaseCard.202.1,元素牌·水x2,Elemental Card: Aqua ×2,属性カード・水×2,원소 카드·물x2,元素牌·水×2,PenguinBaseCard.json
+PenguinBaseCard.203.1,元素牌·风x2,Elemental Card: Ventus ×2,属性カード・風×2,원소 카드·바람x2,元素牌·風×2,PenguinBaseCard.json
+PenguinCard.10101.1,火种新生,Ember Reborn,成長（火）,불씨의 신생,火種新生,PenguinCard.json
+PenguinCard.10102.1,火种新生+1,Ember Reborn +1,成長（火）+1,불씨의 신생+1,火種新生 +1,PenguinCard.json
+PenguinCard.10103.1,火种新生+2,Ember Reborn +2,成長（火）+2,불씨의 신생+2,火種新生 +2,PenguinCard.json
+PenguinCard.10104.1,火种新生+3,Ember Reborn +3,成長（火）+3,불씨의 신생+3,火種新生 +3,PenguinCard.json
+PenguinCard.10105.1,火种新生+4,Ember Reborn +4,成長（火）+4,불씨의 신생+4,火種新生 +4,PenguinCard.json
+PenguinCard.10201.1,清泉育林,Verdant Spring,成長（水）,숲속의 샘물,清泉育林,PenguinCard.json
+PenguinCard.10202.1,清泉育林+1,Verdant Spring +1,成長（水）+1,숲속의 샘물+1,清泉育林 +1,PenguinCard.json
+PenguinCard.10203.1,清泉育林+2,Verdant Spring +2,成長（水）+2,숲속의 샘물+2,清泉育林 +2,PenguinCard.json
+PenguinCard.10204.1,清泉育林+3,Verdant Spring +3,成長（水）+3,숲속의 샘물+3,清泉育林 +3,PenguinCard.json
+PenguinCard.10205.1,清泉育林+4,Verdant Spring +4,成長（水）+4,숲속의 샘물+4,清泉育林 +4,PenguinCard.json
+PenguinCard.10301.1,风林渐盛,Rising Winds,成長（風）,거세지는 바람,風林漸盛,PenguinCard.json
+PenguinCard.10302.1,风林渐盛+1,Rising Winds +1,成長（風）+1,거세지는 바람+1,風林漸盛 +1,PenguinCard.json
+PenguinCard.10303.1,风林渐盛+2,Rising Winds +2,成長（風）+2,거세지는 바람+2,風林漸盛 +2,PenguinCard.json
+PenguinCard.10304.1,风林渐盛+3,Rising Winds +3,成長（風）+3,거세지는 바람+3,風林漸盛 +3,PenguinCard.json
+PenguinCard.10305.1,风林渐盛+4,Rising Winds +4,成長（風）+4,거세지는 바람+4,風林漸盛 +4,PenguinCard.json
+PenguinCard.1101.1,火上浇油,Fan the Flames,ダブルアップ（火）,불난 집에 부채질,火上澆油,PenguinCard.json
+PenguinCard.1102.1,火上浇油+1,Fan the Flames +1,ダブルアップ（火）+1,불난 집에 부채질+1,火上澆油+1,PenguinCard.json
+PenguinCard.1103.1,火上浇油+2,Fan the Flames +2,ダブルアップ（火）+2,불난 집에 부채질+2,火上澆油+2,PenguinCard.json
+PenguinCard.11401.1,坐拥金山,Golden Hoard,定期預金,부의 소유자,坐擁金山,PenguinCard.json
+PenguinCard.11402.1,坐拥金山+1,Golden Hoard +1,定期預金,부의 소유자+1,坐擁金山 +1,PenguinCard.json
+PenguinCard.11403.1,坐拥金山+2,Golden Hoard +2,定期預金,부의 소유자+2,坐擁金山 +2,PenguinCard.json
+PenguinCard.1201.1,推波助澜,Stir the Waters,ダブルアップ（水）,소동 유발,推波助瀾,PenguinCard.json
+PenguinCard.1202.1,推波助澜+1,Stir the Waters +1,ダブルアップ（水）+1,소동 유발+1,推波助瀾+1,PenguinCard.json
+PenguinCard.1203.1,推波助澜+2,Stir the Waters +2,ダブルアップ（水）+2,소동 유발+2,推波助瀾+2,PenguinCard.json
+PenguinCard.12401.1,衡度天下,Grand Measure,支援の手,천하의 균형,衡度天下,PenguinCard.json
+PenguinCard.12402.1,衡度天下+1,Grand Measure +1,支援の手,천하의 균형+1,衡度天下 +1,PenguinCard.json
+PenguinCard.12403.1,衡度天下+2,Grand Measure +2,支援の手,천하의 균형+2,衡度天下 +2,PenguinCard.json
+PenguinCard.1301.1,捕风捉影,Chase the Shadows,ダブルアップ（風）,헛된 꿈,捕風捉影,PenguinCard.json
+PenguinCard.1302.1,捕风捉影+1,Chase the Shadows +1,ダブルアップ（風）+1,헛된 꿈+1,捕風捉影+1,PenguinCard.json
+PenguinCard.1303.1,捕风捉影+2,Chase the Shadows +2,ダブルアップ（風）+2,헛된 꿈+2,捕風捉影+2,PenguinCard.json
+PenguinCard.13401.1,余利再生,Residual Gains,闇取引,이자의 재생,餘利再生,PenguinCard.json
+PenguinCard.13402.1,余利再生+1,Residual Gains +1,闇取引+1,이자의 재생+1,餘利再生 +1,PenguinCard.json
+PenguinCard.13403.1,余利再生+2,Residual Gains +2,闇取引+2,이자의 재생+2,餘利再生 +2,PenguinCard.json
+PenguinCard.14401.1,加冕之刻,Crowning Moment,大統領,왕관을 씌운 순간,加冕之刻,PenguinCard.json
+PenguinCard.14402.1,加冕之刻+1,Crowning Moment +1,大統領+1,왕관을 씌운 순간+1,加冕之刻 +1,PenguinCard.json
+PenguinCard.14403.1,加冕之刻+2,Crowning Moment +2,大統領+2,왕관을 씌운 순간+2,加冕之刻 +2,PenguinCard.json
+PenguinCard.14404.1,加冕之刻+3,Crowning Moment +3,大統領+3,왕관을 씌운 순간+3,加冕之刻 +3,PenguinCard.json
+PenguinCard.14405.1,加冕之刻+4,Crowning Moment +4,大統領+4,왕관을 씌운 순간+4,加冕之刻 +4,PenguinCard.json
+PenguinCard.14406.1,加冕之刻+5,Crowning Moment +5,大統領+5,왕관을 씌운 순간+5,加冕之刻 +5,PenguinCard.json
+PenguinCard.15401.1,命定双星,Destined Pair,ツインボーナス,운명의 트윈스,命定雙星,PenguinCard.json
+PenguinCard.16401.1,四象归一,Four As One,カルテットボーナス,사상의 융합,四象歸一,PenguinCard.json
+PenguinCard.17401.1,旧式重现,Classic Move,イカサマスキル,역사의 재현,舊式重現,PenguinCard.json
+PenguinCard.17402.1,旧式重现+1,Classic Move +1,イカサマスキル+1,역사의 재현+1,舊式重現 +1,PenguinCard.json
+PenguinCard.17403.1,旧式重现+2,Classic Move +2,イカサマスキル+2,역사의 재현+2,舊式重現 +2,PenguinCard.json
+PenguinCard.17404.1,旧式重现+3,Classic Move +3,イカサマスキル+3,역사의 재현+3,舊式重現 +3,PenguinCard.json
+PenguinCard.17405.1,旧式重现+4,Classic Move +4,イカサマスキル+4,역사의 재현+4,舊式重現 +4,PenguinCard.json
+PenguinCard.17406.1,旧式重现+5,Classic Move +5,イカサマスキル+5,역사의 재현+5,舊式重現 +5,PenguinCard.json
+PenguinCard.18401.1,命星所眷,Fated Favor,フルハウスボーナス,선택받은 운명,命星所眷,PenguinCard.json
+PenguinCard.18402.1,命星所眷+1,Fated Favor +1,フルハウスボーナス+1,선택받은 운명+1,命星所眷 +1,PenguinCard.json
+PenguinCard.18403.1,命星所眷+2,Fated Favor +2,フルハウスボーナス+2,선택받은 운명+2,命星所眷 +2,PenguinCard.json
+PenguinCard.18404.1,命星所眷+3,Fated Favor +3,フルハウスボーナス+3,선택받은 운명+3,命星所眷 +3,PenguinCard.json
+PenguinCard.18405.1,命星所眷+4,Fated Favor +4,フルハウスボーナス+4,선택받은 운명+4,命星所眷 +4,PenguinCard.json
+PenguinCard.18406.1,命星所眷+5,Fated Favor +5,フルハウスボーナス+5,선택받은 운명+5,命星所眷 +5,PenguinCard.json
+PenguinCard.19401.1,举杯共饮,Shared Toast,三重奏,축배의 시간,舉杯共飲,PenguinCard.json
+PenguinCard.19402.1,举杯共饮+1,Shared Toast +1,三重奏+1,축배의 시간+1,舉杯共飲 +1,PenguinCard.json
+PenguinCard.19403.1,举杯共饮+2,Shared Toast +2,三重奏+2,축배의 시간+2,舉杯共飲 +2,PenguinCard.json
+PenguinCard.19404.1,举杯共饮+3,Shared Toast +3,三重奏+3,축배의 시간+3,舉杯共飲 +3,PenguinCard.json
+PenguinCard.19405.1,举杯共饮+4,Shared Toast +4,三重奏+4,축배의 시간+4,舉杯共飲 +4,PenguinCard.json
+PenguinCard.19406.1,举杯共饮+5,Shared Toast +5,三重奏+5,축배의 시간+5,舉杯共飲 +5,PenguinCard.json
+PenguinCard.20101.1,必至之炎,Inevitable Flame,必然の炎,반드시 타오를 불꽃,必至之炎,PenguinCard.json
+PenguinCard.20102.1,必至之炎+1,Inevitable Flame +1,必然の炎+1,반드시 타오를 불꽃+1,必至之炎+1,PenguinCard.json
+PenguinCard.20103.1,必至之炎+2,Inevitable Flame +2,必然の炎+2,반드시 타오를 불꽃+2,必至之炎+2,PenguinCard.json
+PenguinCard.20201.1,必临之渊,Inevitable Abyss,必臨の淵,반드시 마주할 심연,必臨之淵,PenguinCard.json
+PenguinCard.20202.1,必临之渊+1,Inevitable Abyss +1,必臨の淵+1,반드시 마주할 심연+1,必臨之淵+1,PenguinCard.json
+PenguinCard.20203.1,必临之渊+2,Inevitable Abyss +2,必臨の淵+2,반드시 마주할 심연+2,必臨之淵+2,PenguinCard.json
+PenguinCard.20301.1,必循之风,Inevitable Wind,因果の風,반드시 따를 바람,必循之風,PenguinCard.json
+PenguinCard.20302.1,必循之风+1,Inevitable Wind +1,因果の風+1,반드시 따를 바람+1,必循之風+1,PenguinCard.json
+PenguinCard.20303.1,必循之风+2,Inevitable Wind +2,因果の風+2,반드시 따를 바람+2,必循之風+2,PenguinCard.json
+PenguinCard.20401.1,必溯之源,Inevitable Source,因果の根源,반드시 되찾을 근원,必溯之源,PenguinCard.json
+PenguinCard.20402.1,必溯之源+1,Inevitable Source +1,因果の根源+1,반드시 되찾을 근원+1,必溯之源+1,PenguinCard.json
+PenguinCard.20403.1,必溯之源+2,Inevitable Source +2,因果の根源+2,반드시 되찾을 근원+2,必溯之源+2,PenguinCard.json
+PenguinCard.2101.1,星火,Starfire,火寄せ,성화,星火,PenguinCard.json
+PenguinCard.2102.1,星火+1,Starfire +1,火寄せ+1,성화+1,星火+1,PenguinCard.json
+PenguinCard.2103.1,星火+2,Starfire +2,火寄せ+2,성화+2,星火+2,PenguinCard.json
+PenguinCard.2201.1,涟漪,Ripple,水寄せ,파장,漣漪,PenguinCard.json
+PenguinCard.2202.1,涟漪+1,Ripple +1,水寄せ+1,파장+1,漣漪+1,PenguinCard.json
+PenguinCard.2203.1,涟漪+2,Ripple +2,水寄せ+2,파장+2,漣漪+2,PenguinCard.json
+PenguinCard.2301.1,气流,Air Current,風寄せ,기류,氣流,PenguinCard.json
+PenguinCard.2302.1,气流+1,Air Current +1,風寄せ+1,기류+1,氣流+1,PenguinCard.json
+PenguinCard.2303.1,气流+2,Air Current +2,風寄せ+2,기류+2,氣流+2,PenguinCard.json
+PenguinCard.3101.1,积热,Heat Stack,倍率（火）,과열,積熱,PenguinCard.json
+PenguinCard.3102.1,积热+1,Heat Stack +1,倍率（火）+1,과열+1,積熱+1,PenguinCard.json
+PenguinCard.3103.1,积热+2,Heat Stack +2,倍率（火）+2,과열+2,積熱+2,PenguinCard.json
+PenguinCard.3104.1,积热+3,Heat Stack +3,倍率（火）+3,과열+3,積熱+3,PenguinCard.json
+PenguinCard.3105.1,积热+4,Heat Stack +4,倍率（火）+4,과열+4,積熱+4,PenguinCard.json
+PenguinCard.3201.1,凝露,Gathering Dew,倍率（水）,이슬 맺힘,凝露,PenguinCard.json
+PenguinCard.3202.1,凝露+1,Gathering Dew +1,倍率（水）+1,이슬 맺힘+1,凝露+1,PenguinCard.json
+PenguinCard.3203.1,凝露+2,Gathering Dew +2,倍率（水）+2,이슬 맺힘+2,凝露+2,PenguinCard.json
+PenguinCard.3204.1,凝露+3,Gathering Dew +3,倍率（水）+3,이슬 맺힘+3,凝露+3,PenguinCard.json
+PenguinCard.3205.1,凝露+4,Gathering Dew +4,倍率（水）+4,이슬 맺힘+4,凝露+4,PenguinCard.json
+PenguinCard.3301.1,聚气,Focus Energy,倍率（風）,기운 집중,聚氣,PenguinCard.json
+PenguinCard.3302.1,聚气+1,Focus Energy +1,倍率（風）+1,기운 집중+1,聚氣+1,PenguinCard.json
+PenguinCard.3303.1,聚气+2,Focus Energy +2,倍率（風）+2,기운 집중+2,聚氣+2,PenguinCard.json
+PenguinCard.3304.1,聚气+3,Focus Energy +3,倍率（風）+3,기운 집중+3,聚氣+3,PenguinCard.json
+PenguinCard.3305.1,聚气+4,Focus Energy +4,倍率（風）+4,기운 집중+4,聚氣+4,PenguinCard.json
+PenguinCard.4101.1,火焰大亨,Flame Tycoon,ダブル（火）,화염의 지배자,火焰大亨,PenguinCard.json
+PenguinCard.4102.1,火焰大亨+1,Flame Tycoon +1,ダブル（火）+1,화염의 지배자+1,火焰大亨+1,PenguinCard.json
+PenguinCard.4103.1,火焰大亨+2,Flame Tycoon +2,ダブル（火）+2,화염의 지배자+2,火焰大亨+2,PenguinCard.json
+PenguinCard.4104.1,火焰大亨+3,Flame Tycoon +3,ダブル（火）+3,화염의 지배자+3,火焰大亨+3,PenguinCard.json
+PenguinCard.4105.1,火焰大亨+4,Flame Tycoon +4,ダブル（火）+4,화염의 지배자+4,火焰大亨+4,PenguinCard.json
+PenguinCard.4201.1,滨海名流,Seaside Celebrity,ダブル（水）,해변의 귀족,濱海名流,PenguinCard.json
+PenguinCard.4202.1,滨海名流+1,Seaside Celebrity +1,ダブル（水）+1,해변의 귀족+1,濱海名流+1,PenguinCard.json
+PenguinCard.4203.1,滨海名流+2,Seaside Celebrity +2,ダブル（水）+2,해변의 귀족+2,濱海名流+2,PenguinCard.json
+PenguinCard.4204.1,滨海名流+3,Seaside Celebrity +3,ダブル（水）+3,해변의 귀족+3,濱海名流+3,PenguinCard.json
+PenguinCard.4205.1,滨海名流+4,Seaside Celebrity +4,ダブル（水）+4,해변의 귀족+4,濱海名流+4,PenguinCard.json
+PenguinCard.4301.1,云端新贵,Cloud Elite,ダブル（風）,하늘의 새 주인,雲端新貴,PenguinCard.json
+PenguinCard.4302.1,云端新贵+1,Cloud Elite +1,ダブル（風）+1,하늘의 새 주인+1,雲端新貴+1,PenguinCard.json
+PenguinCard.4303.1,云端新贵+2,Cloud Elite +2,ダブル（風）+2,하늘의 새 주인+2,雲端新貴+2,PenguinCard.json
+PenguinCard.4304.1,云端新贵+3,Cloud Elite +3,ダブル（風）+3,하늘의 새 주인+3,雲端新貴+3,PenguinCard.json
+PenguinCard.4305.1,云端新贵+4,Cloud Elite +4,ダブル（風）+4,하늘의 새 주인+4,雲端新貴+4,PenguinCard.json
+PenguinCard.4401.1,对弈精英,Against Elite,臨時収入,판의 지배자,對弈菁英,PenguinCard.json
+PenguinCard.4402.1,对弈精英+1,Against Elite +1,臨時収入+1,판의 지배자+1,對弈菁英+1,PenguinCard.json
+PenguinCard.4403.1,对弈精英+2,Against Elite +2,臨時収入+2,판의 지배자+2,對弈菁英+2,PenguinCard.json
+PenguinCard.5101.1,地狱领主,Hell Lord,トリプル（火）,지옥의 영주,地獄領主,PenguinCard.json
+PenguinCard.5102.1,地狱领主+1,Hell Lord +1,トリプル（火）+1,지옥의 영주+1,地獄領主+1,PenguinCard.json
+PenguinCard.5103.1,地狱领主+2,Hell Lord +2,トリプル（火）+2,지옥의 영주+2,地獄領主+2,PenguinCard.json
+PenguinCard.5201.1,深海财阀,Deep-Sea Mogul,トリプル（水）,심해의 재벌,深海財閥,PenguinCard.json
+PenguinCard.5202.1,深海财阀+1,Deep-Sea Mogul +1,トリプル（水）+1,심해의 재벌+1,深海財閥+1,PenguinCard.json
+PenguinCard.5203.1,深海财阀+2,Deep-Sea Mogul +2,トリプル（水）+2,심해의 재벌+2,深海財閥+2,PenguinCard.json
+PenguinCard.5301.1,风暴寡头,Storm Oligarch,トリプル（風）,폭풍의 대장,風暴寡頭,PenguinCard.json
+PenguinCard.5302.1,风暴寡头+1,Storm Oligarch +1,トリプル（風）+1,폭풍의 대장+1,風暴寡頭+1,PenguinCard.json
+PenguinCard.5303.1,风暴寡头+2,Storm Oligarch +2,トリプル（風）+2,폭풍의 대장+2,風暴寡頭+2,PenguinCard.json
+PenguinCard.5401.1,命运捕手,Destiny Catcher,利確投資,운명의 포수,命運捕手,PenguinCard.json
+PenguinCard.5402.1,命运捕手+1,Destiny Catcher +1,利確投資+1,운명의 포수+1,命運捕手+1,PenguinCard.json
+PenguinCard.5403.1,命运捕手+2,Destiny Catcher +2,利確投資+2,운명의 포수+2,命運捕手+2,PenguinCard.json
+PenguinCard.6101.1,余烬复燃,Reignited Ember,クワドラ（火）,다시 타오르는 불씨,餘燼復燃,PenguinCard.json
+PenguinCard.6102.1,余烬复燃+1,Reignited Ember +1,クワドラ（火）+1,다시 타오르는 불씨+1,餘燼復燃+1,PenguinCard.json
+PenguinCard.6103.1,余烬复燃+2,Reignited Ember +2,クワドラ（火）+2,다시 타오르는 불씨+2,餘燼復燃+2,PenguinCard.json
+PenguinCard.6201.1,源泉复涌,Fountain Resurgence,クワドラ（水）,다시 솟는 샘물,源泉復湧,PenguinCard.json
+PenguinCard.6202.1,源泉复涌+1,Fountain Resurgence +1,クワドラ（水）+1,다시 솟는 샘물+1,源泉復湧+1,PenguinCard.json
+PenguinCard.6203.1,源泉复涌+2,Fountain Resurgence +2,クワドラ（水）+2,다시 솟는 샘물+2,源泉復湧+2,PenguinCard.json
+PenguinCard.6301.1,风息再起,Returning Breeze,クワドラ（風）,다시 불어오는 바람,風息再起,PenguinCard.json
+PenguinCard.6302.1,风息再起+1,Returning Breeze +1,クワドラ（風）+1,다시 불어오는 바람+1,風息再起+1,PenguinCard.json
+PenguinCard.6303.1,风息再起+2,Returning Breeze +2,クワドラ（風）+2,다시 불어오는 바람+2,風息再起+2,PenguinCard.json
+PenguinCard.7101.1,热浪叠加,Stacking Heatwave,コインボーナス（火）,더해지는 열기,熱浪疊加,PenguinCard.json
+PenguinCard.7102.1,热浪叠加+1,Stacking Heatwave +1,コインボーナス（火）+1,더해지는 열기+1,熱浪疊加+1,PenguinCard.json
+PenguinCard.7103.1,热浪叠加+2,Stacking Heatwave +2,コインボーナス（火）+2,더해지는 열기+2,熱浪疊加+2,PenguinCard.json
+PenguinCard.7104.1,热浪叠加+3,Stacking Heatwave +3,コインボーナス（火）+3,더해지는 열기+3,熱浪疊加+3,PenguinCard.json
+PenguinCard.7105.1,热浪叠加+4,Stacking Heatwave +4,コインボーナス（火）+4,더해지는 열기+4,熱浪疊加+4,PenguinCard.json
+PenguinCard.7201.1,层层怒涛,Raging Waves,コインボーナス（水）,휘몰아치는 파도,層層怒濤,PenguinCard.json
+PenguinCard.7202.1,层层怒涛+1,Raging Waves +1,コインボーナス（水）+1,휘몰아치는 파도+1,層層怒濤+1,PenguinCard.json
+PenguinCard.7203.1,层层怒涛+2,Raging Waves +2,コインボーナス（水）+2,휘몰아치는 파도+2,層層怒濤+2,PenguinCard.json
+PenguinCard.7204.1,层层怒涛+3,Raging Waves +3,コインボーナス（水）+3,휘몰아치는 파도+3,層層怒濤+3,PenguinCard.json
+PenguinCard.7205.1,层层怒涛+4,Raging Waves +4,コインボーナス（水）+4,휘몰아치는 파도+4,層層怒濤+4,PenguinCard.json
+PenguinCard.7301.1,气流激荡,Turbulent Current,コインボーナス（風）,격앙되는 기류,氣流激蕩,PenguinCard.json
+PenguinCard.7302.1,气流激荡+1,Turbulent Current +1,コインボーナス（風）+1,격앙되는 기류+1,氣流激蕩+1,PenguinCard.json
+PenguinCard.7303.1,气流激荡+2,Turbulent Current +2,コインボーナス（風）+2,격앙되는 기류+2,氣流激蕩+2,PenguinCard.json
+PenguinCard.7304.1,气流激荡+3,Turbulent Current +3,コインボーナス（風）+3,격앙되는 기류+3,氣流激蕩+3,PenguinCard.json
+PenguinCard.7305.1,气流激荡+4,Turbulent Current +4,コインボーナス（風）+4,격앙되는 기류+4,氣流激蕩+4,PenguinCard.json
+PenguinCard.9101.1,焰势高举,Rising Blaze,昇進（火）,활활 타오른 불꽃,焰勢高舉,PenguinCard.json
+PenguinCard.9102.1,焰势高举+1,Rising Blaze +1,昇進（火）+1,활활 타오른 불꽃+1,焰勢高舉 +1,PenguinCard.json
+PenguinCard.9103.1,焰势高举+2,Rising Blaze +2,昇進（火）+2,활활 타오른 불꽃+1,焰勢高舉 +2,PenguinCard.json
+PenguinCard.9104.1,焰势高举+3,Rising Blaze +3,昇進（火）+3,활활 타오른 불꽃+1,焰勢高舉 +3,PenguinCard.json
+PenguinCard.9105.1,焰势高举+4,Rising Blaze +4,昇進（火）+4,활활 타오른 불꽃+1,焰勢高舉 +4,PenguinCard.json
+PenguinCard.9201.1,潮流奔腾,Rushing Tide,昇進（水）,거센 파도,潮流奔騰,PenguinCard.json
+PenguinCard.9202.1,潮流奔腾+1,Rushing Tide +1,昇進（水）+1,거센 파도+1,潮流奔騰 +1,PenguinCard.json
+PenguinCard.9203.1,潮流奔腾+2,Rushing Tide +2,昇進（水）+2,거센 파도+2,潮流奔騰 +2,PenguinCard.json
+PenguinCard.9204.1,潮流奔腾+3,Rushing Tide +3,昇進（水）+3,거센 파도+3,潮流奔騰 +3,PenguinCard.json
+PenguinCard.9205.1,潮流奔腾+4,Rushing Tide +4,昇進（水）+4,거센 파도+4,潮流奔騰 +4,PenguinCard.json
+PenguinCard.9301.1,长风巡行,Roaming Gale,昇進（風）,바람의 순행,長風巡行,PenguinCard.json
+PenguinCard.9302.1,长风巡行+1,Roaming Gale +1,昇進（風）+1,바람의 순행+1,長風巡行 +1,PenguinCard.json
+PenguinCard.9303.1,长风巡行+2,Roaming Gale +2,昇進（風）+2,바람의 순행+2,長風巡行 +2,PenguinCard.json
+PenguinCard.9304.1,长风巡行+3,Roaming Gale +3,昇進（風）+3,바람의 순행+3,長風巡行 +3,PenguinCard.json
+PenguinCard.9305.1,长风巡行+4,Roaming Gale +4,昇進（風）+4,바람의 순행+4,長風巡行 +4,PenguinCard.json
+PenguinCardAide.1.1,鸢尾,Iris,アヤメ,아야메,鳶尾,PenguinCardAide.json
+PenguinCardAide.2.1,埃莉诺,Eleanor,エレノア,엘레노어,埃莉諾,PenguinCardAide.json
+PenguinCardAide.3.1,琥珀,Amber,コハク,코하쿠,琥珀,PenguinCardAide.json
+PenguinCardAide.4.1,花原,Nanoha,ナノハ,나노하,花原,PenguinCardAide.json
+PenguinCardAide.5.1,尘沙,Noya,セイナ,세이나,塵沙,PenguinCardAide.json
+PenguinCardAide.6.1,小禾,Nazuna,ナズナ,나즈나,小禾,PenguinCardAide.json
+PenguinCardBuff.101.1,厚礼回馈,Royal Rebate,割引・大,풍선한 답례,厚禮回饋,PenguinCardBuff.json
+PenguinCardBuff.201.1,额外发牌Ⅰ,Extra Deal Ⅰ,ラウンド追加Ⅰ,추가 카드 지급Ⅰ,額外發牌Ⅰ,PenguinCardBuff.json
+PenguinCardBuff.203.1,额外发牌Ⅱ,Extra Deal Ⅱ,ラウンド追加Ⅱ,추가 카드 지급Ⅱ,額外發牌Ⅱ,PenguinCardBuff.json
+PenguinCardBuff.301.1,牌势高涨,Rising Hand,ベットチャンス,물 만난 물고기,牌勢高漲,PenguinCardBuff.json
+PenguinCardBuff.401.1,财势积累,Growing Capital,ラッキーチップ,쌓이는 재부,財勢積累,PenguinCardBuff.json
+PenguinCardBuff.501.1,命火未熄,Last Ember,リザレクション,꺼지지 않는 불씨,命火未熄,PenguinCardBuff.json
+PenguinCardBuff.601.1,四相星轨,Choose 1 of 4,四相の星軌,사상 성궤,四選一,PenguinCardBuff.json
+PenguinCardBuff.701.1,命运扰动,Fate Disturbance,運命の脈動,운명의 장난,命運擾動,PenguinCardBuff.json
+PenguinCardHandRank.1.1,大同花,Super Flush,メガフラッシュ,빅플러시,大同花,PenguinCardHandRank.json
+PenguinCardHandRank.2.1,同花,Flush,フラッシュ,플러시,同花,PenguinCardHandRank.json
+PenguinCardHandRank.3.1,纯色,Mini Flush,フォーカード,원컬러,純色,PenguinCardHandRank.json
+PenguinCardHandRank.4.1,双三条,Double Triplets,ダブルスリー,투트리플,雙三條,PenguinCardHandRank.json
+PenguinCardHandRank.5.1,葫芦,Full House,フルハウス,풀하우스,葫蘆,PenguinCardHandRank.json
+PenguinCardHandRank.6.1,三条,Three of a Kind,スリーカード,트리플,三條,PenguinCardHandRank.json
+PenguinCardHandRank.7.1,双对,Two Pairs,ツーペア,투페어,雙對,PenguinCardHandRank.json
+PenguinCardHandRank.8.1,石化,Petrified,ブタ,석화,石化,PenguinCardHandRank.json
+ProductionType.101.1,怪物素材,Monster Material,モンスター素材,몬스터 재료,怪物材料,ProductionType.json
+ProductionType.102.1,技能卡带,Skill Cartridge,カセット,스킬 카트리지,技能卡帶,ProductionType.json
+ProductionType.103.1,礼物合成,Gift Crafting,ギフト,선물 합성,禮物合成,ProductionType.json
+SoldierChessType.1.1,主战型,Offense,主力タイプ,공격형,主戰型,SoldierChessType.json
+SoldierChessType.2.1,后援型,Assist,支援タイプ,지원형,後援型,SoldierChessType.json
+SoldierChessType.3.1,全能型,Balanced,オールラウンダー,만능형,全能型,SoldierChessType.json
+SoldierGradeChallenge.10101.1,秩序,Order,秩序,질서,秩序,SoldierGradeChallenge.json
+SoldierGradeChallenge.10201.1,混沌,Chaos,混沌,혼돈,混沌,SoldierGradeChallenge.json
+SoldierKeyGrade.101.1,浅层,Shallow Layer,通常エリア,표층,淺層,SoldierKeyGrade.json
+SoldierKeyGrade.102.1,深层,Deep Layer,深層エリア,심층,深層,SoldierKeyGrade.json
+SoldierPositionEffect.1.1,防御位,Defense,タンク枠,방어 슬롯,防禦位,SoldierPositionEffect.json
+SoldierPositionEffect.2.1,进攻位,Attack,アタッカー枠,공격 슬롯,進攻位,SoldierPositionEffect.json
+SoldierPositionEffect.3.1,机动位,Mobility,スピード枠,기동 슬롯,機動位,SoldierPositionEffect.json
+SoldierPositionEffect.4.1,应援1号位,Assist 1,支援枠1,1번 지원 슬롯,後援1號位,SoldierPositionEffect.json
+SoldierPositionEffect.5.1,应援2号位,Assist 2,支援枠2,2번 지원 슬롯,後援2號位,SoldierPositionEffect.json
+SoldierPositionEffect.6.1,应援3号位,Assist 3,支援枠3,3번 지원 슬롯,後援3號位,SoldierPositionEffect.json
+SoldierPositionEffect.7.1,应援4号位,Assist 4,支援枠4,4번 지원 슬롯,後援4號位,SoldierPositionEffect.json
+SoldierPositionEffect.8.1,应援5号位,Assist 5,支援枠5,5번 지원 슬롯,後援5號位,SoldierPositionEffect.json
+SoldierPositionEffect.9.1,应援6号位,Assist 6,支援枠6,6번 지원 슬롯,後援6號位,SoldierPositionEffect.json
+SoldierRecommendBuilds.1.1,【3空白旅团3百步穿杨】空白旅团均衡全能,"[3 New Star, 3 Dead Shot] New Star Guild: Balanced and All-Rounded",空白旅団&セイナ,"공백 여단 밸런스: 3공백 여단, 3백발백중",【3空白旅團3百步穿楊】空白旅團均衡全能,SoldierRecommendBuilds.json
+SoldierRecommendBuilds.2.1,【3花令旅团3巅峰战士】花令旅团生存叠层,"[3 Petal Bloom, 3 Apex Warrior] Petal Bloom: Survival and Stacking",花咲旅団&ナツカ,"하나사키 여단 생존: 3하나사키 여단, 3최고의 전사",【3花令旅團3巔峰戰士】花令旅團生存疊層,SoldierRecommendBuilds.json
+SoldierRecommendBuilds.3.1,【5恩赐意志4沐浴恩典】恩赐意志DOT爆发,"[5 Grace Imperium, 4 Divine Favor] Grace Imperium: DoT Burst",恩恵意志&カナーチェ,"은헤의지 DOT 폭발: 5은혜의지, 4축복의 세례",【5恩賜意志4沐浴恩典】恩賜意志DOT爆發,SoldierRecommendBuilds.json
+SoldierRecommendBuilds.4.1,【5灰风俱乐部4人多势众】灰风俱乐部围攻流,"[5 Ashwind Clan, 4 United Force] Ashwind Clan: Besiege",ウィンドアッシュ&ミネルバ,"윈드애시 포위 공격: 5윈드 애시, 4인해전술",【5灰風俱樂部4人多勢眾】灰風俱樂部圍攻流,SoldierRecommendBuilds.json
+SoldierRecommendBuilds.5.1,【夏洛克7森林朋友】夏洛克单核输出,[Sherlock: 7 Forest Friends] Sherlock Hypercarry,シャロと愉快な仲間たち,"샤로 단일 핵심: 샤로, 7숲의 친구",【夏洛克7森林朋友】夏洛克單核輸出,SoldierRecommendBuilds.json
+SoldierRecommendBuilds.6.1,【4齿轮转转3恩赐意志】齿轮转转续航DOT,"[4 Gear Spinner, 3 Grace Imperium] Gear Spinner Sustain DoT",キュートフレンズ&スパクル,"돌아가는 톱니바퀴 지속 DOT: 4돌아가는 톱니바퀴, 3은혜의지",【4齒輪轉轉3恩賜意志】齒輪轉轉續航DOT,SoldierRecommendBuilds.json
+SoldierRecommendBuilds.7.1,【地理协会3魅力满溢】薇洛魅力无限减益,[Trekker Association: 3 Charm Aura] Suntide Willow Debuff,魅力全開&ウィロー（水着）,"윌로 매력 만점 디버프: 지리 협회, 3매력 만점",【地理協會3魅力滿溢】薇洛魅力無限減益,SoldierRecommendBuilds.json
+SoldierRecommendBuilds.8.1,【4帝国卫队2联合种业】联合种业经济流,"[4 Imperial Guard, 2 United Harvest] United Harvest Economy Comp",帝国護衛隊&ティリア,"아그리 유니온 금화 수급: 4제국 호위대, 2아그리 유니온",【4帝國衛隊2聯合種業】聯合種業經濟流,SoldierRecommendBuilds.json
+SoldierStarterCard.1010101.1,空白旅团,New Star,空白旅団,공백 여단,空白旅團,SoldierStarterCard.json
+SoldierStarterCard.1010102.1,万送屋,Post Haste,ヨロズ配達,요로즈 택배,萬送屋,SoldierStarterCard.json
+SoldierStarterCard.1010103.1,花令旅团,Petal Bloom,花咲旅団,하나사키 여단,花令旅團,SoldierStarterCard.json
+SoldierStarterCard.1010104.1,恩赐意志,Grace Imperium,恩恵意志,은혜의지,恩賜意志,SoldierStarterCard.json
+SoldierStarterCard.1010105.1,齿轮转转,Gear Spinner,キュートフレンズ,돌아가는 톱니바퀴,齒輪轉轉,SoldierStarterCard.json
+SoldierStarterCard.1010106.1,帝国卫队,Imperial Guard,帝国護衛隊,제국 호위대,帝國衛隊,SoldierStarterCard.json
+SoldierStarterCard.1010107.1,自由旅人,Freelance Trekker,フリー巡遊者,자유 여행가,自由旅人,SoldierStarterCard.json
+SoldierStarterCard.1010108.1,灰风俱乐部,Ashwind Clan,ウィンドアッシュ,윈드 애시,灰風俱樂部,SoldierStarterCard.json
+SoldierStarterCard.1010109.1,联合种业,United Harvest,アグリ・ユニオン,아그리 유니온,聯合種業,SoldierStarterCard.json
+SoldierStarterCard.1010110.1,森林朋友,Forest Friends,森の仲間たち,숲의 친구,森林朋友,SoldierStarterCard.json
+SoldierStarterCard.1010111.1,生存达人,Survival Expert,サバイバルの達人,생존의 달인,生存達人,SoldierStarterCard.json
+SoldierStarterCard.1010112.1,沐浴恩典,Divine Favor,恩恵の加護,축복의 세례,沐浴恩典,SoldierStarterCard.json
+SoldierStarterCard.1010113.1,百步穿杨,Dead Shot,百発百中,백발백중,百步穿楊,SoldierStarterCard.json
+SoldierStarterCard.1010114.1,巅峰战士,Apex Warrior,戦士の頂,최고의 전사,巔峰戰士,SoldierStarterCard.json
+SoldierStarterCard.1010115.1,魅力满溢,Charm Aura,魅力全開,매력 만점,魅力滿溢,SoldierStarterCard.json
+SoldierStarterCard.1010116.1,人多势众,United Force,数は力なり,인해전술,人多勢眾,SoldierStarterCard.json
+SoldierStarterCard.1010117.1,摸鱼高手,Master Slacker,サボりの釣果,땡땡이 고수,摸魚高手,SoldierStarterCard.json
+SoldierStarterCard.1010118.1,启动资金,Starting Funds,起動資金,시작 자금,啟動資金,SoldierStarterCard.json
+SoldierStarterCard.1010119.1,情绪稳定,Steady Nerves,情緒安定,튼튼한 멘탈,情緒穩定,SoldierStarterCard.json
+SoldierStarterCard.1010120.1,初创团队,Startup Team,初期チーム,스타트업,初創團隊,SoldierStarterCard.json
+SoldierStarterCard.1010121.1,长期订单,Standing Orders,長期注文,장기 주문,長期訂單,SoldierStarterCard.json
+SoldierStarterCard.1010122.1,学费已缴,Lessons Learned,年末調整,학비 납부 완료,學費已繳,SoldierStarterCard.json
+SoldierStarterCard.1010123.1,买卖经验,EXP Exchange,経験値の取引,경험치 거래,買賣經驗,SoldierStarterCard.json
+SoldierStarterCard.1010124.1,客群优化,Clientele Refinement,客層の最適化,고객층 최적화,客群調整,SoldierStarterCard.json
+SoldierStarterCard.1010125.1,进阶招募,Advanced Recruitment,上級スカウト,고급 모집,進階招募,SoldierStarterCard.json
+SoldierStarterCard.1010126.1,稳健探索,Steady Exploration,堅実な探索,신중한 탐색,穩健探索,SoldierStarterCard.json
+SoldierStarterCard.1010127.1,奇策精选,Elite Strategies,奇策厳選,책략 선별,奇策精選,SoldierStarterCard.json
+SoldierStarterCard.1010128.1,常胜威名,Undefeated Renown,常勝の威名,불패의 명성,常勝威名,SoldierStarterCard.json
+SoldierStarterCard.1010129.1,连战连捷,Winning Streak,連戦連勝,연전연승,連戰皆捷,SoldierStarterCard.json
+SoldierStarterCard.1010130.1,起步搭档,Founding Partner,ダブルパートナー,첫걸음의 동반자,起步搭檔,SoldierStarterCard.json
+SoldierStarterCard.1010131.1,激进投资,Aggressive Investment,過激な投資,공격적인 투자,激進投資,SoldierStarterCard.json
+SoldierStarterCard.1010133.1,触底反弹,Bounce Back,どん底リベンジ,반등,觸底反彈,SoldierStarterCard.json
+SoldierStarterCard.1010134.1,匠心储备,Artisan Reserve,匠心の備え,장인의 비축,匠心儲備,SoldierStarterCard.json
+SoldierStarterCard.1010135.1,唯一核心,Sole Core,唯一のコア,유일한 핵심,唯一核心,SoldierStarterCard.json
+SoldierStarterCard.1010136.1,突破褒奖,Breakthrough Reward,突破の褒賞,돌파 포상,突破褒獎,SoldierStarterCard.json
+SoldierStarterCard.1010137.1,潇洒巨富,Lavish Wealth,気ままな大富豪,경쾌한 부호,瀟灑巨富,SoldierStarterCard.json
+SoldierStarterCard.1010138.1,风险赌注,Risky Bet,リスクベット,위험한 베팅,風險賭注,SoldierStarterCard.json
+SoldierStarterCard.1010139.1,深挖财富,Unearthing Wealth,富の採掘,부의 발굴,深掘財富,SoldierStarterCard.json
+SoldierStarterCard.1010140.1,广纳贤才,Gathering Talents,広く賢才を募る,인재 총집결,廣納賢才,SoldierStarterCard.json
+SoldierStrategyCard.2010101.1,打包出售,Bundle Sale,まとめて売却,일괄 판매,打包出售,SoldierStrategyCard.json
+SoldierStrategyCard.2010102.1,成长计划,Growth Plan,成長計画,성장 계획,成長計畫,SoldierStrategyCard.json
+SoldierStrategyCard.2010103.1,附加奖,Bonus Reward,追加賞,추가 보상,附加獎,SoldierStrategyCard.json
+SoldierStrategyCard.2010104.1,沉没成本,Sunk Cost,埋没費用,매몰 비용,沉沒成本,SoldierStrategyCard.json
+SoldierStrategyCard.2010105.1,额外刷新,Bonus Refresh,追加更新,추가 새로고침,額外刷新,SoldierStrategyCard.json
+SoldierStrategyCard.2010106.1,节点补贴,Node Subsidy,ノード手当,노드 지원금,節點補貼,SoldierStrategyCard.json
+SoldierStrategyCard.2010107.1,团队补员,Squad Replenishment,チームの増員,팀원 보충,團隊補員,SoldierStrategyCard.json
+SoldierStrategyCard.2010108.1,刷新返利,Refresh Rebate,コインバック,새로고침 페이백,刷新返利,SoldierStrategyCard.json
+SoldierStrategyCard.2010109.1,人才培养,Talent Development,人材育成,인재 육성,人才培養,SoldierStrategyCard.json
+SoldierStrategyCard.2010110.1,冷静保险,Calm Insurance,冷静保険,냉정한 보험,冷靜保險,SoldierStrategyCard.json
+SoldierStrategyCard.2010111.1,理智决策,Rational Decision,理性的な決断,이성적 판단,理智決策,SoldierStrategyCard.json
+SoldierStrategyCard.2010112.1,愈挫愈勇,Rising from Failure,不屈の闘志,오뚝이 정신,越挫越勇,SoldierStrategyCard.json
+SoldierStrategyCard.2010113.1,精英计划,Elite Program,エリート計画,정예 계획,菁英計畫,SoldierStrategyCard.json
+SoldierStrategyCard.2010201.1,交易套利,Trading Profit,取引裁定,거래 차익,交易套利,SoldierStrategyCard.json
+SoldierStrategyCard.2010202.1,交易机会,Trade Opportunity,取引チャンス,거래 기회,交易機會,SoldierStrategyCard.json
+SoldierStrategyCard.2010203.1,扩张计划,Expansion Plan,拡張計画,확장 계획,擴張計畫,SoldierStrategyCard.json
+SoldierStrategyCard.2010204.1,再刷一轮,Another Refresh,追加更新,한 번 더,再刷一輪,SoldierStrategyCard.json
+SoldierStrategyCard.2010205.1,升级仓储,Storage Upgrade,分野拡張,창고 업그레이드,升級倉儲,SoldierStrategyCard.json
+SoldierStrategyCard.2010206.1,连胜爆发,Hot Streak,連勝バースト,연승 폭발,連勝爆發,SoldierStrategyCard.json
+SoldierStrategyCard.2010207.1,极端投资,Radical Investment,極端な投資,극단적인 투자,極端投資,SoldierStrategyCard.json
+SoldierStrategyCard.2010208.1,厚积薄发,Steady Build-Up,大器晩成,대기만성,厚積薄發,SoldierStrategyCard.json
+SoldierStrategyCard.2010209.1,人才储备,Talent Pool,人材リザーブ,인재 비축,人才儲備,SoldierStrategyCard.json
+SoldierStrategyCard.2010210.1,领袖计划,Leadership Plan,リーダー計画,리더 육성 계획,領袖計畫,SoldierStrategyCard.json
+SoldierStrategyCard.2010211.1,暂避锋芒,Strategic Retreat,戦術的撤退,일보 후퇴,暫避鋒芒,SoldierStrategyCard.json
+SoldierStrategyCard.2010212.1,累计增值,Cumulative Growth,累積増大,누적 성장,累計增值,SoldierStrategyCard.json
+SoldierStrategyCard.2010213.1,声望变现,Fame to Fortune,名声の現金化,명성 현금화,聲望變現,SoldierStrategyCard.json
+SoldierStrategyCard.2010214.1,精英引入,Elite Recruitment,エリート加入,정예 영입,菁英引入,SoldierStrategyCard.json
+SoldierStrategyCard.2010215.1,偶见稀客,Rare Guest,稀に見る珍客,어쩌다 찾아온 손님,偶見稀客,SoldierStrategyCard.json
+SoldierStrategyCard.2010216.1,浪漫阵容,Romantic Lineup,ロマン編成,낭만의 조합,浪漫陣容,SoldierStrategyCard.json
+SoldierStrategyCard.2010217.1,财富过载,Fortune Overload,富の暴走,넘치는 부,財富過載,SoldierStrategyCard.json
+SoldierStrategyCard.2010218.1,自然感悟,Natural Revelation,自然保護,자연의 깨달음,自然感悟,SoldierStrategyCard.json
+SoldierStrategyCard.2010219.1,封闭建设,Closed Construction,密室開発,폐쇄 건설,封閉建設,SoldierStrategyCard.json
+SoldierStrategyCard.2010301.1,智能型仓储,Smart Storage,聡明なる決断,스마트 창고,智能型倉儲,SoldierStrategyCard.json
+SoldierStrategyCard.2010302.1,超风险财富,Ultra-Risk Fortune,ダブルアップ,리스크 동반,超風險財富,SoldierStrategyCard.json
+SoldierStrategyCard.2010303.1,狡猾的献祭,Cunning Sacrifice,狡猾な生贄,교활한 재물,狡猾的獻祭,SoldierStrategyCard.json
+SoldierStrategyCard.2010304.1,临界反击点,Comeback Threshold,反撃開始,임계 반격 포인트,臨界反擊點,SoldierStrategyCard.json
+SoldierStrategyCard.2010305.1,品质人才库,Premium Talent Pool,精鋭ユニット,고급 인재풀,品質人才庫,SoldierStrategyCard.json
+SoldierStrategyCard.2010306.1,命运的玩笑,Irony of Fate,幸運のダイス,운명의 장난,命運的玩笑,SoldierStrategyCard.json
+SoldierStrategyCard.2010307.1,极致的浪漫,Ultimate Romance,究極のロマン,극한의 낭만,極致的浪漫,SoldierStrategyCard.json
+SoldierStrategyCard.2010308.1,凯旋三连音,Triple Triumph,凱旋トリプル,연승의 축가,凱旋三連音,SoldierStrategyCard.json
+SoldierStrategyCard.2010309.1,胜利的道标,Beacon of Victory,勝利の道標,승리의 표식,勝利的道標,SoldierStrategyCard.json
+SoldierStrategyCard.2010310.1,危难救世主,Savior in Crisis,救世主,위기의 구세주,危難救世主,SoldierStrategyCard.json
+SoldierStrategyCard.2010311.1,狂赌的深渊,The Gambler's Abyss,博徒の深淵,올인의 심연,狂賭的深淵,SoldierStrategyCard.json
+SoldierStrategyCard.2010312.1,卫队集结令,Call to Arms,護衛隊集結令,호위대 집결령,衛隊集結令,SoldierStrategyCard.json
+SoldierStrategyCard.2010313.1,灰风的召唤,Ashwind's Call,風灰の総号令,윈드 애시의 소환,灰風的召喚,SoldierStrategyCard.json
+StarTowerBookFateCard.98001.1,灾变防线 升级获得,Cataclysm Survivor Upgrade,骸魔防衛戦 レベルアップ報酬,재앙의 전선 레벨업 시 획득,災變防線 升級獲得,StarTowerBookFateCard.json
+StarTowerBookFateCard.98601.1,灾变防线 主题奖励,Cataclysm Survivor Theme Reward,骸魔防衛戦 シリーズ報酬,재앙의 전선 테마 보상,災變防線 主題獎勵,StarTowerBookFateCard.json
+StarTowerBookFateCardBundle.101.1,初始系列：筑基,Basic: Stats,初級シリーズ：基本,기본 계열: 기반,初始系列：築基,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.102.1,初始系列：飞升,Basic: Attack,初級シリーズ：拡張,기본 계열: 비상,初始系列：飛升,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.201.1,进阶系列：战技,Advanced: Skill,上級シリーズ：戦技,심화 계열: 기술,進階系列：戰技,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.202.1,进阶系列：庆典,Advanced: Streak,上級シリーズ：撃破,심화 계열: 축제,進階系列：慶典,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.203.1,进阶系列：背水,Advanced: Tenacity,上級シリーズ：背水,심화 계열: 배수,進階系列：背水,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.204.1,进阶系列：热血,Advanced: Fervor,上級シリーズ：渾身,심화 계열: 열혈,進階系列：熱血,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.205.1,进阶系列：气运,Advanced: Luck,上級シリーズ：運気,심화 계열: 운명,進階系列：氣運,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.206.1,进阶系列：抑制,Advanced: Degen,上級シリーズ：抑制,심화 계열: 억제,進階系列：抑制,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.207.1,进阶系列：反击,Advanced: Counter,上級シリーズ：不屈,심화 계열: 반격,進階系列：反擊,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.301.1,元素系列：火之章,Emblem: Ignis,元素シリーズ：火ノ章,속성 계열: 불의 장,元素系列：火之章,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.302.1,元素系列：水之章,Emblem: Aqua,元素シリーズ：水ノ章,속성 계열: 물의 장,元素系列：水之章,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.303.1,元素系列：风之章,Emblem: Ventus,元素シリーズ：風ノ章,속성 계열: 바람의 장,元素系列：風之章,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.304.1,元素系列：光之章,Emblem: Lux,元素シリーズ：光ノ章,속성 계열: 빛의 장,元素系列：光之章,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.305.1,元素系列：暗之章,Emblem: Umbra,元素シリーズ：闇ノ章,속성 계열: 어둠의 장,元素系列：暗之章,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.306.1,元素系列：地之章,Emblem: Terra,元素シリーズ：地ノ章,속성 계열: 땅의 장,元素系列：地之章,StarTowerBookFateCardBundle.json
+StarTowerGrowthNode.10101.1,同谐的心弦Ⅰ,Harmonic Heartstring I,調和の弦Ⅰ,조화로운 울림 Ⅰ,同諧的心弦I,StarTowerGrowthNode.json
+StarTowerGrowthNode.10102.1,源初的歌谣,Ballad of Origin,原初の歌謡,원초적 노래,源初的歌謠,StarTowerGrowthNode.json
+StarTowerGrowthNode.10103.1,第一桶金Ⅰ,Pot of Gold I,支度金Ⅰ,첫 수익 Ⅰ,第一桶金I,StarTowerGrowthNode.json
+StarTowerGrowthNode.10201.1,超限理论Ⅰ,Limit Break Theory I,超限理論Ⅰ,초과 이론 Ⅰ,超限理論I,StarTowerGrowthNode.json
+StarTowerGrowthNode.10202.1,额外的小确幸,Unexpected Joy,ちょっとした幸せ,뜻밖의 작은 행복,額外的小確幸,StarTowerGrowthNode.json
+StarTowerGrowthNode.10203.1,刮刮乐Ⅰ,Scratch Card I,スクラッチⅠ,복권 Ⅰ,刮刮樂I,StarTowerGrowthNode.json
+StarTowerGrowthNode.10301.1,星梯的密码,Key to the Stairs to the Stars,昇降機のパスワード,별승강기 암호,星梯的密碼,StarTowerGrowthNode.json
+StarTowerGrowthNode.10401.1,同谐的心弦Ⅱ,Harmonic Heartstring Ⅱ,調和の弦Ⅱ,조화로운 울림 Ⅱ,同諧的心弦II,StarTowerGrowthNode.json
+StarTowerGrowthNode.10402.1,星塔严选Ⅰ,Monolith Premium I,トゥールセレクトⅠ,툴셀렉트 Ⅰ,星塔嚴選I,StarTowerGrowthNode.json
+StarTowerGrowthNode.10403.1,第一桶金Ⅱ,Pot of Gold Ⅱ,支度金Ⅱ,첫 수익 Ⅱ,第一桶金II,StarTowerGrowthNode.json
+StarTowerGrowthNode.10501.1,增效定律Ⅰ,Law of Amplification I,相乗の法則Ⅰ,효력 증진 법칙 Ⅰ,增效定律I,StarTowerGrowthNode.json
+StarTowerGrowthNode.10502.1,超限理论Ⅱ,Limit Break Theory Ⅱ,超限理論Ⅱ,초과 이론 Ⅱ,超限理論II,StarTowerGrowthNode.json
+StarTowerGrowthNode.10503.1,刮刮乐Ⅱ,Scratch Card Ⅱ,スクラッチⅡ,복권 Ⅱ,刮刮樂II,StarTowerGrowthNode.json
+StarTowerGrowthNode.10601.1,冲线的褒奖,Honor at the Finish Line,ゴール表彰,결승선 표창,衝線的褒獎,StarTowerGrowthNode.json
+StarTowerGrowthNode.10602.1,唱机改造Ⅰ,Phonograph Modification I,ジュークボックス改造Ⅰ,축음기 개조 Ⅰ,唱機改造I,StarTowerGrowthNode.json
+StarTowerGrowthNode.10701.1,幸运音符Ⅰ,Luck Note I,幸運な音符Ⅰ,럭키 소리Ⅰ,幸運音符Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10702.1,第一桶金Ⅲ,Pot of Gold Ⅲ,支度金Ⅲ,첫 수익 Ⅲ,第一桶金III,StarTowerGrowthNode.json
+StarTowerGrowthNode.10801.1,幸运币,Lucky Coin,ラッキーコイン,럭키코인,幸運幣,StarTowerGrowthNode.json
+StarTowerGrowthNode.10802.1,刮刮乐Ⅲ,Scratch Card Ⅲ,スクラッチⅢ,복권 Ⅲ,刮刮樂III,StarTowerGrowthNode.json
+StarTowerGrowthNode.10901.1,命运的选择Ⅰ,Destiny's Choice I,運命の選択Ⅰ,운명의 선택 Ⅰ,命運的選擇I,StarTowerGrowthNode.json
+StarTowerGrowthNode.20101.1,同谐的心弦Ⅲ,Harmonic Heartstring Ⅲ,調和の弦Ⅲ,조화로운 울림 Ⅲ,同諧的心弦III,StarTowerGrowthNode.json
+StarTowerGrowthNode.20102.1,增效定律Ⅱ,Law of Amplification Ⅱ,相乗の法則Ⅱ,효력 증진 법칙 Ⅱ,增效定律II,StarTowerGrowthNode.json
+StarTowerGrowthNode.20201.1,惊喜音符Ⅰ,Note of Surprise I,サプライズノートⅠ,서프라이즈 소리 Ⅰ,驚喜音符I,StarTowerGrowthNode.json
+StarTowerGrowthNode.20202.1,会员折扣Ⅰ,Member Discount I,会員割引Ⅰ,회원 할인 Ⅰ,會員折扣I,StarTowerGrowthNode.json
+StarTowerGrowthNode.20301.1,吞金的陷阱,Fortune Trap,呑金の罠,황금 함정,吞金的陷阱,StarTowerGrowthNode.json
+StarTowerGrowthNode.20302.1,唱机改造Ⅱ,Phonograph Modification Ⅱ,ジュークボックス改造Ⅱ,축음기 개조 Ⅱ,唱機改造II,StarTowerGrowthNode.json
+StarTowerGrowthNode.20401.1,同谐的心弦Ⅳ,Harmonic Heartstring Ⅳ,調和の弦Ⅳ,조화로운 울림 Ⅳ,同諧的心弦Ⅳ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20402.1,星塔严选Ⅱ,Monolith Premium Ⅱ,トゥールセレクトⅡ,툴셀렉트 Ⅱ,星塔嚴選Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20403.1,增效定律Ⅲ,Law of Amplification Ⅲ,相乗の法則Ⅲ,효력 증진 법칙 Ⅲ,增效定律Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20501.1,惊喜音符Ⅱ,Note of Surprise Ⅱ,サプライズノートⅡ,서프라이즈 소리 Ⅱ,驚喜音符II,StarTowerGrowthNode.json
+StarTowerGrowthNode.20502.1,会员折扣Ⅱ,Member Discount Ⅱ,会員割引Ⅱ,회원 할인 Ⅱ,會員折扣II,StarTowerGrowthNode.json
+StarTowerGrowthNode.20503.1,命运的选择Ⅱ,Destiny's Choice Ⅱ,運命の選択Ⅱ,운명의 선택 Ⅱ,命運的選擇II,StarTowerGrowthNode.json
+StarTowerGrowthNode.20601.1,无际心海Ⅰ,Ocean of Souls I,果てしない心海Ⅰ,끝없는 마음의 바다 Ⅰ,無際心海I,StarTowerGrowthNode.json
+StarTowerGrowthNode.20701.1,幸运音符Ⅱ,Luck Note Ⅱ,幸運な音符Ⅱ,럭키 소리Ⅱ,幸運音符Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20702.1,星塔严选Ⅲ,Monolith Premium Ⅲ,トゥールセレクトⅢ,툴셀렉트 Ⅲ,星塔嚴選III,StarTowerGrowthNode.json
+StarTowerGrowthNode.20801.1,心花怒放Ⅰ,Butterflies Inside I,歓喜の心Ⅰ,마음의 꽃 Ⅰ,心花怒放I,StarTowerGrowthNode.json
+StarTowerGrowthNode.20802.1,会员折扣Ⅲ,Member Discount Ⅲ,会員割引Ⅲ,회원 할인 Ⅲ,會員折扣III,StarTowerGrowthNode.json
+StarTowerGrowthNode.20901.1,云彩的骰子,Cloud Dice,雲のダイス,구름 주사위,雲彩的骰子,StarTowerGrowthNode.json
+StarTowerGrowthNode.20902.1,货仓的钥匙,Storage Key,倉庫の鍵,창고 열쇠,貨倉的鑰匙,StarTowerGrowthNode.json
+StarTowerGrowthNode.30101.1,星空之命Ⅰ,Destiny of Stars I,星空の命Ⅰ,별하늘의 운명 Ⅰ,星空之命I,StarTowerGrowthNode.json
+StarTowerGrowthNode.30102.1,套餐协议Ⅰ,Set Meal Agreement I,セットプロトコルⅠ,패키지 계약 Ⅰ,套餐協議I,StarTowerGrowthNode.json
+StarTowerGrowthNode.30201.1,心花怒放Ⅱ,Butterflies Inside Ⅱ,歓喜の心Ⅱ,마음의 꽃 Ⅱ,心花怒放II,StarTowerGrowthNode.json
+StarTowerGrowthNode.30202.1,潜能飞升Ⅰ,Potential Boost I,素質飛昇Ⅰ,잠재력 비상 Ⅰ,潛能飛升I,StarTowerGrowthNode.json
+StarTowerGrowthNode.30301.1,无际心海Ⅱ,Ocean of Souls Ⅱ,果てしない心海Ⅱ,끝없는 마음의 바다 Ⅱ,無際心海II,StarTowerGrowthNode.json
+StarTowerGrowthNode.30401.1,星空之命Ⅱ,Destiny of Stars Ⅱ,星空の命Ⅱ,별하늘의 운명 Ⅱ,星空之命II,StarTowerGrowthNode.json
+StarTowerGrowthNode.30402.1,套餐协议Ⅱ,Set Meal Agreement Ⅱ,セットプロトコルⅡ,패키지 계약 Ⅱ,套餐協議II,StarTowerGrowthNode.json
+StarTowerGrowthNode.30501.1,惊喜音符Ⅲ,Note of Surprise Ⅲ,サプライズノートⅢ,서프라이즈 소리 Ⅲ,驚喜音符III,StarTowerGrowthNode.json
+StarTowerGrowthNode.30502.1,潜能飞升Ⅱ,Potential Boost Ⅱ,素質飛昇Ⅱ,잠재력 비상 Ⅱ,潛能飛升II,StarTowerGrowthNode.json
+StarTowerGrowthNode.30601.1,仓管的权能,Storage Keeper's Power,倉庫管理者の権限,창고 관리자 권한,倉管的權能,StarTowerGrowthNode.json
+StarTowerGrowthNode.30701.1,幸运音符Ⅲ,Luck Note Ⅲ,幸運な音符Ⅲ,럭키 소리Ⅲ,幸運音符III,StarTowerGrowthNode.json
+StarTowerGrowthNode.30702.1,星空之命Ⅲ,Destiny of Stars Ⅲ,星空の命Ⅲ,별하늘의 운명 Ⅲ,星空之命III,StarTowerGrowthNode.json
+StarTowerGrowthNode.30801.1,心花怒放Ⅲ,Butterflies Inside Ⅲ,歓喜の心Ⅲ,마음의 꽃 Ⅲ,心花怒放III,StarTowerGrowthNode.json
+StarTowerGrowthNode.30802.1,潜能飞升Ⅲ,Potential Boost Ⅲ,素質飛昇Ⅲ,잠재력 비상 Ⅲ,潛能飛升III,StarTowerGrowthNode.json
+StarTowerGrowthNode.30901.1,辉光的奇迹,Radiant Miracle,輝光の奇跡,빛의 기적,輝光的奇蹟,StarTowerGrowthNode.json
+StarTowerGrowthNode.40101.1,圣洁的共鸣,Sacred Resonance,恩恵の共鳴,신성한 공명,聖潔的共鳴,StarTowerGrowthNode.json
+StarTowerGrowthNode.40201.1,欲望的增殖,Proliferation of Desire,欲望の増殖,끝없는 욕망,慾望的增殖,StarTowerGrowthNode.json
+StarTowerGrowthNode.40301.1,公平的贪婪,Equitable Greed,公平なる貪欲,공평한 탐욕,公平的貪婪,StarTowerGrowthNode.json
+StarTowerGrowthNode.40401.1,后付的代价,Deferred Cost,後払いの代価,뒤늦은 대가,後付的代價,StarTowerGrowthNode.json
+StoryPersonality.1.1,直觉,Intuition,直感,직감,直覺,StoryPersonality.json
+StoryPersonality.2.1,分析,Analysis,分析,분석,分析,StoryPersonality.json
+StoryPersonality.3.1,混沌,Chaotic,混沌,혼돈,混沌,StoryPersonality.json
+StoryRolePersonality.1.1,超·慈悲的魔王,Super Merciful Tyrant,慈悲深き魔王,슈퍼·자비로운 보스,超·慈悲的魔王,StoryRolePersonality.json
+ThrowGiftLevel.10101.1,简单,Easy,イージー,쉬움,簡單,ThrowGiftLevel.json
+ThrowGiftLevel.10102.1,困难,Hard,ノーマル,하드,困難,ThrowGiftLevel.json
+ThrowGiftLevel.10106.1,挑战,Hard,チャレンジ,도전,挑戰,ThrowGiftLevel.json
+TrialBuild.101.1,剧情纪录,Story Record,ストーリー記録,스토리 기록,劇情紀錄,TrialBuild.json
+TrialBuild.121010.1,教学关-基础操作,Tutorial: Basic Controls,チュートリアル-基本操作,튜토리얼 스테이지-기본 조작,教學關卡-基礎操作,TrialBuild.json
+TrialBuild.121020.1,教学关-移动操作,Tutorial: Movement Controls,チュートリアル-移動操作,튜토리얼 스테이지-이동 조작,教學關卡-移動操作,TrialBuild.json
+TrialBuild.121030.1,教学关-援护操作,Tutorial: Support Controls,チュートリアル-支援操作,튜토리얼 스테이지-지원 조작,教學關卡-援護操作,TrialBuild.json
+TrialBuild.121040.1,教学关-印记教学,Tutorial: Marks,チュートリアル-印,튜토리얼 스테이지-표식 튜토리얼,教學關卡-印記教學,TrialBuild.json
+TrialBuild.121050.1,教学关-元素属性教学,Tutorial: Elements,チュートリアル-元素属性,튜토리얼 스테이지- 원소 속성 튜토리얼,教學關卡-元素屬性教學,TrialBuild.json
+TrialBuild.12106.1,教学关-星塔潜能,Tutorial: Monolith Potentials,チュートリアル-素質,튜토리얼 스테이지-별의 탑 잠재력,教學關卡-星塔潛能,TrialBuild.json
+TrialBuild.121060.1,教学关-潜能机制教学,Tutorial: the Potential Mechanic,チュートリアル-素質システム,튜토리얼 스테이지-잠재력 시스템 튜토리얼,教學關卡-潛能機制教學,TrialBuild.json
+TrialBuild.12107.1,教学关-秘纹与音符,Tutorial: Discs & Musical Notes,チュートリアル-ロスレコと音符,튜토리얼 스테이지-레코드와 소리,教學關卡-祕紋與音符,TrialBuild.json
+TrialBuild.121070.1,教学关-音符机制教学,Tutorial: the Musical Note Mechanic,チュートリアル-音符システム,튜토리얼 스테이지-소리 시스템 튜토리얼,教學關卡-音符機制教學,TrialBuild.json
+TrialBuild.121080.1,教学关-破韧教学,Tutorial: Resilience Break,チュートリアル-ブレイク,튜토리얼 스테이지-내성 무시 튜토리얼,教學關卡-破韌教學,TrialBuild.json
+TrialBuild.198025.1,风系小队纪录,Ventus Team Record,風属性チームの記録,바람 속성 팀 기록,風系小隊紀錄,TrialBuild.json
+TrialBuild.198026.1,火系小队纪录,Ignis Team Record,火属性チームの記録,불 속성 팀 기록,火系小隊紀錄,TrialBuild.json
+VampireTalentDesc.1.1,攻击力提升%s%%,Increases ATK by %s%%,攻撃力が%s%%上昇,공격력 %s%% 증가,攻擊力提升%s%%,VampireTalentDesc.json
+VampireTalentDesc.2.1,防御力提升%s%%,Increases DEF by %s%%,防御力が%s%%上昇,방어력 %s%% 증가,防禦提升%s%%,VampireTalentDesc.json
+VampireTalentDesc.3.1,最大生命值提升%s%%,Increases Max HP by %s%%,最大HPが%s%%増加,최대 HP %s%% 증가,最大生命值提升%s%%,VampireTalentDesc.json
+VampireTalentDesc.4.1,暴击率提升%s%%,Increases Crit Rate by %s%%,会心率が%s%%上昇,치명타율 %s%% 증가,暴擊率提升%s%%,VampireTalentDesc.json
+VampireTalentDesc.91.1,获得经验提升%s%%,Increases EXP Gain by %s%%,獲得経験値が%s%%増加,획득 경험치 %s%% 증가,獲得經驗提升%s%%,VampireTalentDesc.json
+VampireTalentDesc.92.1,随机事件出现概率提升%s%%,Increases the chance of random events by %s%%,ランダムイベントの出現率が%s%%上昇,랜덤 이벤트 출현 확률 %s%% 증가,隨機事件出現機率提升%s%%,VampireTalentDesc.json
+VampireTalentDesc.93.1,获得命运卡时，增加重新随机%s次,"When acquiring a Destiny Card, refresh %s more times",運命カード獲得時、再抽選の回数が%s回増えるようになる,"운명 카드를 획득할 때, 새로고침 %s회 추가",獲得命運卡時，增加重新隨機%s次,VampireTalentDesc.json
+VampireTalentDesc.94.1,等级提升时，获得的命运卡由二选一提升至三选一,"When leveling up, select from 3 Destiny Cards instead of 2",レベルアップ時に獲得する運命カードが二択から三択になる,레벨업 시 획득하는 운명 카드가 두 가지 선택지에서 세 가지 선택지로 증가,等級提升時，獲得的命運卡由二選一變更為三選一,VampireTalentDesc.json
+VampireTalentDesc.9602.1,「生命回复」掉落概率提升,Increases the drop rate of HP Restoration,「HP回復」のドロップ率が上昇,「HP 회복」 드랍 확률이 증가한다.,「生命值恢復」掉落機率提升,VampireTalentDesc.json
+VampireTalentDesc.9603.1,「生命回复」掉落概率大幅度提升,Significantly increases the drop rate of HP Restoration,「HP回復」のドロップ率が大きく上昇,「HP 회복」 드랍 확률이 대폭 증가한다.,「生命值恢復」掉落機率大幅度提升,VampireTalentDesc.json
+VampireTalentDesc.9702.1,「能量回复」道具掉落概率提升,Increases the drop rate of Energy Restoration items,「SP回復」のドロップ率が上昇,「SP 회복」 아이템 드랍 확률이 증가한다.,「能量恢復」道具掉落機率提升,VampireTalentDesc.json
+VampireTalentDesc.9703.1,「能量回复」道具掉落概率大幅度提升,Significantly increases the drop rate of Energy Restoration items,「SP回復」のドロップ率が大きく上昇,「SP 회복」 아이템 드랍 확률이 대폭 증가한다.,「能量恢復」道具掉落機率大幅度提升,VampireTalentDesc.json
+VampireTalentDesc.9802.1,「冷却降低」道具掉落概率提升,Increases the drop rate of Cooldown Reduction items,「クールタイム短縮」のドロップ率が上昇,「쿨타임 감소」 아이템 드랍 확률이 증가한다.,「冷卻縮短」道具掉落機率提升,VampireTalentDesc.json
+VampireTalentDesc.9803.1,「冷却降低」道具掉落概率大幅度提升,Significantly increases the drop rate of Cooldown Reduction items,「クールタイム短縮」のドロップ率が大きく上昇,「쿨타임 감소」 아이템 드랍 확률이 대폭 증가한다.,「冷卻縮短」道具掉落機率大幅度提升,VampireTalentDesc.json
+Word.1001.1,感电,Shock,感電,감전,感電,Word.json
+Word.1002.1,冻结,Freeze,凍結,빙결,凍結,Word.json
+Word.1003.1,减速,Slow,減速,감속,減速,Word.json
+Word.1004.1,眩晕,Stun,スタン,기절,暈眩,Word.json
+Word.1005.1,灼烧,Burn,灼熱,작열,灼燒,Word.json
+Word.1006.1,破韧,Resilience Break,ブレイク,내성 무시,破韌,Word.json
+Word.1007.1,极寒,Arctic,極寒,혹한,極寒,Word.json
+Word.1008.1,禁锢,Bind,束縛,속박,禁錮,Word.json
+Word.1009.1,潮湿,Damp,湿潤,다습,潮溼,Word.json
+Word.1010.1,光耀印记,Lucent Mark,光輝の印,광휘 표식,光耀印記,Word.json
+Word.1011.1,致盲,Blind,暗闇,실명,致盲,Word.json
+Word.1012.1,超燃印记,Incineration Mark,超燃の印,초연 표식,超燃印記,Word.json
+Word.1013.1,爆燃,Combustion,爆燃,폭연,爆燃,Word.json
+Word.1014.1,风系印记：风息,Ventus Mark: Breeze,風属性の印：風息,바람 속성 표식: 풍식,風系印記：風息,Word.json
+Word.1015.1,光系印记,Lux Mark,光属性の印,빛 속성 표식,光系印記,Word.json
+Word.1016.1,火系印记,Ignis Mark,火属性の印,불 속성 표식,火系印記,Word.json
+Word.1017.1,风系印记,Ventus Mark,風属性の印,바람 속성 표식,風系印記,Word.json
+Word.1018.1,水系印记,Aqua Mark,水属性の印,물 속성 표식,水系印記,Word.json
+Word.1019.1,暗系印记,Umbra Mark,闇属性の印,어둠 속성 표식,暗系印記,Word.json
+Word.1020.1,地系印记,Terra Mark,地属性の印,땅 속성 표식,地系印記,Word.json
+Word.1021.1,光击阵,Lightning Array,光撃陣,빛의 진,光擊陣,Word.json
+Word.1022.1,光之锁链,Chain of Radiance,光の鎖,빛의 사슬,光之鎖鏈,Word.json
+Word.1023.1,雷光,Light of Thunder,雷光,번개의 빛,雷光,Word.json
+Word.1024.1,风切,Wind Shear,風切,바람 베기,風切,Word.json
+Word.1025.1,水蚀印记,Aqua-Etch,水蝕の印,물의 침식 표식,水蝕印記,Word.json
+Word.1026.1,风压印记,Ventus-Press,風圧の印,풍압의 표식,風壓印記,Word.json
+Word.1027.1,寒冷,Chill,寒冷,한랭,寒冷,Word.json
+Word.1029.1,熔甲,Melt Armor,熔甲,갑옷 녹이기,熔甲,Word.json
+Word.1030.1,电魂,Lightning Spirit,電魂,번개 영혼,電魂,Word.json
+Word.1031.1,不稳定的花云朵,Unstable Flowery Cloud,不安定な花雲,불안정한 꽃구름,不穩定的花雲朵,Word.json
+Word.1032.1,凝雾之环,Ring of Fog,氷霧のリング,응결된 안개의 고리,凝霧之環,Word.json
+Word.1033.1,风域,Wind Realm,風域,바람 영역,風域,Word.json
+Word.1034.1,火系易伤,Ignis Vulnerable,火属性被ダメージ増加,불 속성 취약,火系易傷,Word.json
+Word.1035.1,光系易伤,Lux Vulnerable,光属性被ダメージ増加,빛 속성 취약,光系易傷,Word.json
+Word.1036.1,风系易伤,Ventus Vulnerable,風属性被ダメージ増加,바람 속성 취약,風系易傷,Word.json
+Word.1037.1,水系易伤,Aqua Vulnerable,水属性被ダメージ増加,물 속성 취약,水系易傷,Word.json
+Word.1038.1,地系易伤,Terra Vulnerable,地属性被ダメージ増加,땅 속성 취약,地系易傷,Word.json
+Word.1039.1,暗系易伤,Umbra Vulnerable,闇属性被ダメージ増加,어둠 속성 취약,暗系易傷,Word.json
+Word.1040.1,光爆,Light Explosion,ライトフラッシュ,빛의 폭발,光爆,Word.json
+Word.1041.1,镰鼬标记,Mark of Kamaitachi,カマイタチの印,카마이타치 표식,鐮鼬標記,Word.json
+Word.1042.1,大镰鼬标记,Mark of Great Kamaitachi,大カマイタチの印,대형 카마이타치 표식,大鐮鼬標記,Word.json
+Word.1043.1,避矢加护,Protection of Ranged Evasion,矢避けの加護,화살 회피의 가호,避矢加護,Word.json
+Word.1044.1,电魂易伤,Electric Soul Vulnerable,電魂被ダメージ上昇,번개 영혼 취약,電魂易傷,Word.json
+Word.1045.1,麻痹,Paralyze,麻痺,마비,麻痺,Word.json
+Word.1046.1,潜鲨易伤,Dive Shark Vulnerable,狂鮫被ダメージ増加,다이빙 샤크 취약,潛鯊易傷,Word.json
+Word.1047.1,潜鲨水域,Dive Shark Waters,狂鮫水域,다이빙 샤크 수역,潛鯊水域,Word.json
+Word.1048.1,潜鲨猎物标记,Mark of Dive Shark Prey,狂鮫ハントの印,다이빙 샤크 사냥감 표식,潛鯊獵物標記,Word.json
+Word.1049.1,云朵博士,Dr. Cloud,クラウド博士,구름 박사,雲朵博士,Word.json
+Word.1050.1,花云朵,Flowery Cloud,花雲,꽃구름,花雲朵,Word.json
+Word.1051.1,符文冰晶,Runic Ice,ルーン氷晶,룬 얼음 결정,符文冰晶,Word.json
+Word.1052.1,爱心,Heart,ハート,하트,愛心,Word.json
+Word.1053.1,剑气,Sword Aura,剣気,검기,劍氣,Word.json
+Word.1054.1,多重剑气,Multi Sword Aura,多重剣気,다중 검기,多重劍氣,Word.json
+Word.17.1,水系伤害,Aqua DMG,水属性ダメージ,물 속성 피해,水系傷害,Word.json
+Word.18.1,火系伤害,Ignis DMG,火属性ダメージ,불 속성 피해,火系傷害,Word.json
+Word.19.1,地系伤害,Terra DMG,地属性ダメージ,땅 속성 피해,地系傷害,Word.json
+Word.20.1,风系伤害,Ventus DMG,風属性ダメージ,바람 속성 피해,風系傷害,Word.json
+Word.2007.1,碎冰,Shatter,砕氷,쇄빙,碎冰,Word.json
+Word.2008.1,水系印记：水流,Aqua Mark: Torrent,水属性の印：水流,물 속성 표식: 수류,水系印記：水流,Word.json
+Word.2013.1,火系印记：圣焰,Ignis Mark: Sacred Flame,火属性の印：聖炎,불 속성 표식: 성염,火系印記：聖焰,Word.json
+Word.2014.1,狂化,Berserk,狂化,광화,狂化,Word.json
+Word.2015.1,灵巧,Agile,速達,민첩,靈巧,Word.json
+Word.2016.1,光系印记：光明,Lux Mark: Radiance,光属性の印：光明,빛 속성 표식: 광명,光系印記：光明,Word.json
+Word.2018.1,暗系印记：暗影,Umbra Mark: Gloom,闇属性の印：暗影,어둠 속성 표식: 암영,暗系印記：暗影,Word.json
+Word.2019.1,炎残蝶,Scorched Butterfly,炎残蝶,화염의 재 나비,炎殘蝶,Word.json
+Word.2020.1,暗锁,Dark Shackles,暗鎖,어둠 사슬,暗鎖,Word.json
+Word.2021.1,蝶之印,Butterfly Mark,蝶の印,나비 표식,蝶之印,Word.json
+Word.2022.1,水流,Stream,水流,수류,水流,Word.json
+Word.2023.1,圣焰,Sacred Flame,聖炎,성염,聖焰,Word.json
+Word.2024.1,光明,Radiance,光明,광명,光明,Word.json
+Word.2025.1,风息,Breeze,風息,풍식,風息,Word.json
+Word.2026.1,暗影,Dark Shadow,暗影,암영,暗影,Word.json
+Word.2027.1,引燃,Ignite,引火,인화,引燃,Word.json
+Word.2028.1,暗灼,Dark Burn,暗灼,어둠 작열,暗灼,Word.json
+Word.2029.1,地系印记：地脉,Terra Mark: Earth Vein,地属性の印：地脈,땅 속성 표식: 지맥,地系印記：地脈,Word.json
+Word.2030.1,地脉,Earth Vein,地脈,지맥,地脈,Word.json
+Word.21.1,光系伤害,Lux DMG,光属性ダメージ,빛 속성 피해,光系傷害,Word.json
+Word.22.1,暗系伤害,Umbra DMG,闇属性ダメージ,어둠 속성 피해,暗系傷害,Word.json
+Word.3001.1,战斗印记专用,Battle Mark Exclusive,【No Need】,전투 표식 전용,戰鬥印記專用,Word.json
+Word.3002.1,【已废弃】暗锁,!NONEED!,*****,더미0421,!NONEED!,Word.json
+Word.4001.1,角色独特专用,Unique Trekker Exclusive,【No Need】,캐릭터 특징 전용,角色獨特專用,Word.json
+Word.4002.1,暗影分身,Shadow Clone,シャドウサーヴァント,어둠의 그림자,暗影分身,Word.json
+Word.4003.1,「风吟」,Wind Chant,風吟,「바람의 속삭임」,「風吟」,Word.json
+Word.4004.1,「花海」,Flower Formation,花の海,「꽃밭」,「花海」,Word.json
+Word.4006.1,「预留不需要翻译」,!NONEED!,*****,「번역 불필요」,!NONEED!,Word.json
+Word.4007.1,南瓜影灵,Pumpka Phantom,かぼちゃおばけ,호박 유령,南瓜影靈,Word.json
+Word.4008.1,提灯影灵,Lanterna Phantom,ランタンおばけ,램프 유령,提燈影靈,Word.json
+Word.4011.1,气旋【无需翻译】,!NONEED!,*****,「번역 불필요」,!NONEED!,Word.json
+Word.4013.1,泡泡,Bubble,ポポ,포포,泡泡,Word.json
+Word.4014.1,冥能,Nether Energy,冥気,어둠 에너지,冥能,Word.json
+Word.4015.1,人气,Popularity,人気,인기,人氣,Word.json
+Word.4016.1,恶魔音响,Demonic Boombox,悪魔のスピーカー,악마의 스피커,惡魔音響,Word.json
+Word.4017.1,宣传人偶,Advertising Doll,呼び込みトーナちゃん,홍보 인형,宣傳人偶,Word.json
+Word.4018.1,赤龙,Crimson Dragon,赤龍,붉은 용,赤龍,Word.json
+Word.4019.1,寅虎,Tiger of the East,猛虎,인호,寅虎,Word.json
+Word.4020.1,胡桃上校,Colonel Walnut,クルミ大佐,호두 대령,胡桃上校,Word.json
+Word.4021.1,卷毛大将,General Curly,巻き毛将軍,곱슬 장군,捲毛大將,Word.json
+Word.4022.1,发条女王,Clockwork Queen,ゼンマイ女王,태엽 여왕,發條女王,Word.json
+Word.4025.1,灼炎,Conflagration,灼炎,작열하는 불꽃,灼炎,Word.json
+Word.4026.1,超燃,Incineration,超燃,초연,超燃,Word.json
+Word.4027.1,落雷,Thunderbolt,落雷,낙뢰,落雷,Word.json
+Word.4028.1,光耀,Lucent,光輝,광휘,光耀,Word.json
+Word.4029.1,闪烁,Glimmer,残光,반짝임,閃爍,Word.json
+Word.4030.1,炮击形态,Artillery Form,ボコボコモード,포격 형태,砲擊形態,Word.json
+Word.4031.1,剑击形态,Sword Form,ザクザクモード,검격 형태,劍擊形態,Word.json
+Word.4032.1,雪崩,Avalanche,アバランチ,아발란체,雪崩,Word.json
+Word.4033.1,兔兔大开口模式,Bunny Jaws Mode,タンクモード,토끼 대개방 모드,兔兔大開口模式,Word.json
+Word.4034.1,兔兔速射模式,Bunny Rapid Fire Mode,バーストモード,토끼 속사 모드,兔兔速射模式,Word.json
+Word.4035.1,魔眼解放,Evil Eye Unleashed,魔眼解放,마안 해방,魔眼解放,Word.json
+Word.4036.1,暗黑射线,Dark Ray,空に堕ちる焔,암흑 레이저,暗黑射線,Word.json
+Word.4037.1,猫猫弹球,Bouncing Kitty Bomb,ネコ神への祈り,냥냥 통통볼,貓貓彈球,Word.json
+Word.4038.1,分贝值,Decibels,デシベル値,데시벨,分貝值,Word.json
+Word.4040.1,微笑制裁,Smiling Sanction,スマイルパニッシュ,미소의 제재,「微笑制裁」,Word.json
+Word.4041.1,泡沫标记,Bubble Mark,バブルマーク,물거품 표식,「泡沫標記」,Word.json
+Word.4042.1,「柔声劝导」,Gentle Warning,メロウ状態,「다정한 설득」,「柔聲勸導」,Word.json
+Word.4043.1,「安全预警」,Safety Alert,ラウド状態,「안전 경고」,「安全預警」,Word.json
+Word.4045.1,狩能,Hunting Energy,狩猟本能,사냥 능력,狩能,Word.json
+Word.4046.1,猎标,Hunter's Mark,デスデス,사냥 표식,獵標,Word.json
+Word.4047.1,回响声波,Echoing Soundwave,エコーウェーブ,메아리 음파,迴響音波,Word.json
+Word.4048.1,战术储能,Tactical Energy,令嬢のひらめき,전술 에너지,戰術儲能,Word.json
+Word.4049.1,千藏,The Myriad Case,白のトランク,만물창고,千藏,Word.json
+Word.4050.1,哨兵,Sentry,フラワードローン,파수꾼,哨兵,Word.json
+Word.45.1,能量上限,Max Energy,SP上限,최대 SP,能量上限,Word.json
+Word.4500.1,战斗关卡通用,Battle Stage Universal,【No Need】,전투 스테이지 전용,戰鬥關卡通用,Word.json
+Word.4501.1,恐惧,Fear,恐怖,공포,恐懼,Word.json
+Word.4502.1,魅惑,Allure,魅惑,매혹,魅惑,Word.json
+Word.46.1,援护能量获取效率,Charge Efficiency (Support),支援SP獲得効率,지원 SP 획득 효율,援護能量獲得效率,Word.json
+Word.5001.1,关卡专用,Battle Stage Exclusive,【No Need】,스테이지 전용,關卡專用,Word.json
+Word.6001.1,系统专用,System Exclusive,【No Need】,시스템 전용,系統專用,Word.json
+Word.6002.1,「颂歌」,Ode,賛歌,「캐럴」,「頌歌」,Word.json
+Word.66.1,弱点压制倍率,VUL Exploit Multiplier,弱点ダメージ倍率,약점 포착 배율,弱點壓制倍率,Word.json
+Word.7005.1,潜能5引用（仅纹章）,!NONEED!,【No Need】,더미384,!NONEED!,Word.json
+Word.7006.1,潜能6引用（仅纹章）,!NONEED!,【No Need】,더미386,!NONEED!,Word.json
+Word.7007.1,潜能7引用（仅纹章）,!NONEED!,【No Need】,더미388,!NONEED!,Word.json
+Word.7008.1,潜能8引用（仅纹章）,!NONEED!,【No Need】,더미390,!NONEED!,Word.json
+Word.7009.1,潜能9引用（仅纹章）,!NONEED!,【No Need】,더미392,!NONEED!,Word.json
+Word.7010.1,潜能10引用（仅纹章）,!NONEED!,【No Need】,더미394,!NONEED!,Word.json
+Word.7011.1,潜能11引用（仅纹章）,!NONEED!,【No Need】,더미396,!NONEED!,Word.json
+Word.7012.1,潜能12引用（仅纹章）,!NONEED!,【No Need】,더미398,!NONEED!,Word.json
+Word.7013.1,潜能13引用（仅纹章）,!NONEED!,【No Need】,더미400,!NONEED!,Word.json
+Word.7025.1,潜能25引用（仅纹章）,!NONEED!,【No Need】,더미402,!NONEED!,Word.json
+Word.7026.1,潜能26引用（仅纹章）,!NONEED!,【No Need】,더미404,!NONEED!,Word.json
+Word.7027.1,潜能27引用（仅纹章）,!NONEED!,【No Need】,더미406,!NONEED!,Word.json
+Word.7028.1,潜能28引用（仅纹章）,!NONEED!,【No Need】,더미408,!NONEED!,Word.json
+Word.7029.1,潜能29引用（仅纹章）,!NONEED!,【No Need】,더미410,!NONEED!,Word.json
+Word.7030.1,潜能30引用（仅纹章）,!NONEED!,【No Need】,더미412,!NONEED!,Word.json
+Word.7031.1,潜能31引用（仅纹章）,!NONEED!,【No Need】,더미414,!NONEED!,Word.json
+Word.7032.1,潜能32引用（仅纹章）,!NONEED!,【No Need】,더미416,!NONEED!,Word.json
+Word.7033.1,潜能33引用（仅纹章）,!NONEED!,【No Need】,더미418,!NONEED!,Word.json
+Word.7041.1,潜能41引用（仅纹章）,!NONEED!,【No Need】,더미420,!NONEED!,Word.json
+Word.7042.1,潜能42引用（仅纹章）,!NONEED!,【No Need】,더미422,!NONEED!,Word.json
+Word.7043.1,潜能43引用（仅纹章）,!NONEED!,【No Need】,더미424,!NONEED!,Word.json
+Word.9.1,防御穿透,DEF PEN,防御貫通,방어 관통,防禦穿透力,Word.json

@@ -16,9 +16,11 @@ The terminology is mainly collected based on my personal translation needs and o
 
 **Azur Lane**: [AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData); [AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
 
-**Stella Sora**: [Hiro420 / StellaSoraData](https://github.com/Hiro420/StellaSoraData); [JforPlay / sstoy](https://github.com/JforPlay/sstoy)
+**Stella Sora**: [StellaSoraData](https://github.com/Hiro420/StellaSoraData); [sstoy](https://github.com/JforPlay/sstoy)
 
 **Genshin Impact**: [genshin-db](https://github.com/theBowja/genshin-db); [genshin-langdata](https://github.com/xicri/genshin-langdata)
+
+**Arknights**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite)；[ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata)；[Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
 
 ## Disclaimer
 

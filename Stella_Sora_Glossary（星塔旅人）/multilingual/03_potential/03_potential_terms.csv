@@ -1,0 +1,1458 @@
+﻿id,zh-CN,en-US,ja-JP,ko-KR,zh-TW,src_table
+Item.510302.1,枪林弹雨,Bullet Storm,降雨弾,총알 세례,槍林彈雨,Item.json (Type 6/Stype 42)
+Item.510304.1,盛情回音,Echo of Hospitality,感情残響,성대한 울림,盛情回音,Item.json (Type 6/Stype 42)
+Item.510305.1,贪婪枪火,Greed Gunfire,貪欲銃火,탐욕의 총화,貪婪槍火,Item.json (Type 6/Stype 41)
+Item.510307.1,自信时刻,Confident Mode,自信満々,확신의 순간,自信時刻,Item.json (Type 6/Stype 41)
+Item.510308.1,弱点标定,Weakness Mark,弱点見極め,약점 조준,弱點校準,Item.json (Type 6/Stype 41)
+Item.510309.1,盛大尾奏,Grand Finale,標的捕捉,웅장한 피날레,盛大尾奏,Item.json (Type 6/Stype 41)
+Item.510310.1,震撼终曲,Spectacular Finale,標的撃破,전율의 엔딩곡,震撼終曲,Item.json (Type 6/Stype 41)
+Item.510311.1,燃情节拍,Fiery Rhythm,野良猫のリズム,열정의 리듬,燃情節拍,Item.json (Type 6/Stype 41)
+Item.510312.1,灼热舞步,Blazing Waltz,野良猫ステップ,뜨거운 춤사위,灼熱舞步,Item.json (Type 6/Stype 41)
+Item.510313.1,敏锐重音,Keen Accent,凄腕ガンナー,섬세한 강음,敏銳重音,Item.json (Type 6/Stype 41)
+Item.510321.1,追猎舞步,Hunting Waltz,追尾の舞,추적의 춤,追獵舞步,Item.json (Type 6/Stype 42)
+Item.510323.1,回踏舞步,Echoing Waltz,後進の舞,퇴보의 춤,回踏舞步,Item.json (Type 6/Stype 42)
+Item.510324.1,幻焰舞步,Flame Waltz,幻炎の舞,환염의 춤,幻焰舞步,Item.json (Type 6/Stype 42)
+Item.510325.1,灵动猫步,Nimble Catwalk,黒猫の気配,민첩한 캣스텝,靈動貓步,Item.json (Type 6/Stype 41)
+Item.510326.1,渐强节拍,Crescendo Beat,猛る炎渦,강해지는 리듬,漸強節拍,Item.json (Type 6/Stype 41)
+Item.510327.1,共鸣弹痕,Bullet Echoes,弾痕共鳴,공명의 탄흔,共鳴彈痕,Item.json (Type 6/Stype 41)
+Item.510328.1,枪火余温,Lingering Gunfire,銃火の余韻,총열의 잔열,槍火餘溫,Item.json (Type 6/Stype 41)
+Item.510329.1,凌火热舞,Blazing Dance,猛火の舞,열화의 춤사위,凌火熱舞,Item.json (Type 6/Stype 41)
+Item.510330.1,蓄火裂空,Sky Splitter,裂空の炎,열공의 불씨,蓄火裂空,Item.json (Type 6/Stype 41)
+Item.510331.1,弹道强化,Trajectory Enhancement,射撃力上昇,탄도 강화,彈道強化,Item.json (Type 6/Stype 41)
+Item.510332.1,膛压增幅,Pressure Amp,火炎弾装填,압력 증폭,膛壓增幅,Item.json (Type 6/Stype 41)
+Item.510333.1,热浪协同,Thermal Sync,火付け役,열기의 협력,熱浪協同,Item.json (Type 6/Stype 41)
+Item.510341.1,绽焰火花,Bursting Spark,烈火の華,피어오르는 불꽃,綻焰火花,Item.json (Type 6/Stype 41)
+Item.510342.1,超载火花,Overloaded Spark,連射の華,과열된 불꽃,超載火花,Item.json (Type 6/Stype 41)
+Item.510343.1,追魂火花,Soul-Hunting Spark,追魂の華,영혼 추적 불꽃,追魂火花,Item.json (Type 6/Stype 41)
+Item.510701.1,神圣盾反,Shield Counter,守護者の資質,신성 방패의 반격,神聖盾反,Item.json (Type 6/Stype 42)
+Item.510702.1,绝对三角,Perfect Triangle Formation,絶対守護,삼위일체,絕對三角,Item.json (Type 6/Stype 42)
+Item.510703.1,攻防一体,Unity of Offense and Defense,攻防一体,공수 일체,攻防一體,Item.json (Type 6/Stype 42)
+Item.510705.1,格挡强化·光,Block Enhancement: Lux,護りの力・祝,가드 강화·빛,格擋強化·光,Item.json (Type 6/Stype 41)
+Item.510706.1,格挡强化·攻击,Block Enhancement: ATK,護りの力・光,가드 강화·공격,格擋強化·攻擊,Item.json (Type 6/Stype 41)
+Item.510707.1,光陨反击,Bright Counter,閃光の加護,빛의 낙하 반격,光隕反擊,Item.json (Type 6/Stype 41)
+Item.510708.1,圣盾祝福,Aegis Blessing,聖盾の祝福,신성 방패의 축복,聖盾祝福,Item.json (Type 6/Stype 41)
+Item.510709.1,反击时刻,Strike Back,反撃開始,반격 시기,反擊時刻,Item.json (Type 6/Stype 41)
+Item.510710.1,不屈意志,Unyielding Will,不屈の意志,불굴의 의지,不屈意志,Item.json (Type 6/Stype 41)
+Item.510711.1,光幕,Light Curtain,栄光の証,빛의 장막,光幕,Item.json (Type 6/Stype 41)
+Item.510712.1,不羁,Wild Spirit,諦めない心,자유분방,不羈,Item.json (Type 6/Stype 41)
+Item.510713.1,反抗,Revolt Call,最後の抵抗,반항,反抗,Item.json (Type 6/Stype 41)
+Item.510721.1,圣洁的铭刻,Holy Inscription,聖なる銘文,앙주 심상 결정,聖潔的銘刻,Item.json (Type 6/Stype 42)
+Item.510722.1,再续的光谱,Renewed Spectrum,光の系譜,이어지는 스펙트럼,再續的光譜,Item.json (Type 6/Stype 42)
+Item.510725.1,顽敌克制,Enemy Counter,ナイトパンチ,강적 제압,頑敵克制,Item.json (Type 6/Stype 41)
+Item.510726.1,强光致盲,Blinding Beam,眩い正義,강한 빛으로 인한 실명,強光致盲,Item.json (Type 6/Stype 41)
+Item.510727.1,骑士圣印,Knight's Seal,騎士の聖印,기사의 신성한 표식,騎士聖印,Item.json (Type 6/Stype 41)
+Item.510729.1,奇招馈能,Trick Boost,奇策実行,특수 스킬 에너지 증폭,奇招饋能,Item.json (Type 6/Stype 41)
+Item.510730.1,破绽显露,Revealed Flaw,好機発見,약점 노출,破綻顯露,Item.json (Type 6/Stype 41)
+Item.510731.1,护卫决心,Guardian's Resolve,護りの決意,호위의 결심,護衛決心,Item.json (Type 6/Stype 41)
+Item.510733.1,辉耀旌旗,Banner of Glory,堅固な盾,빛나는 깃발,輝耀旌旗,Item.json (Type 6/Stype 41)
+Item.510742.1,骑誓·白垩圣甲,Knight Oath: Chalk Armor,聖誓・白亜聖鎧,기사의 맹세·성스러운 백악 갑옷,騎誓·白堊聖甲,Item.json (Type 6/Stype 41)
+Item.510743.1,骑誓·战意鼓动,Knight Oath: Courage,聖誓・戦意鼓舞,기사의 맹세·전의 고양,騎誓·戰意鼓動,Item.json (Type 6/Stype 41)
+Item.510801.1,散射扳机,Scatter Trigger,散弾準備,확산의 방아쇠,散射扳機,Item.json (Type 6/Stype 42)
+Item.510802.1,燃烧弹头,Incendiary Warhead,火焔弾頭,화염 탄두,燃燒彈頭,Item.json (Type 6/Stype 42)
+Item.510803.1,充能拉栓,Charged Bolt Action,ロングマガジン,에너지 충전 레버,蓄能拉栓,Item.json (Type 6/Stype 42)
+Item.510804.1,幸运弹匣,Lucky Magazine,幸運の白猫・還,럭키 탄창,幸運彈匣,Item.json (Type 6/Stype 42)
+Item.510805.1,佣兵直觉,Mercenary Instinct,傭兵の直感,용병의 직감,傭兵直覺,Item.json (Type 6/Stype 41)
+Item.510806.1,烈弹余热,Incendiary Ember,烈弾の余熱,타오르는 탄환의 잔열,烈彈餘熱,Item.json (Type 6/Stype 41)
+Item.510807.1,弹药过载,Ammo Overload,傭兵の戦術,탄약 과장전,彈藥過載,Item.json (Type 6/Stype 41)
+Item.510808.1,爆焰引燃,Instant Combustion,爆炎引火,폭염 인화,爆焰引燃,Item.json (Type 6/Stype 41)
+Item.510809.1,冲锋号角,Battle Trumpet,精度上昇,진격의 나팔,衝鋒號角,Item.json (Type 6/Stype 41)
+Item.510810.1,伺机待发,Opportunistic Ambush,好機はいずれ,사격의 타이밍,伺機待發,Item.json (Type 6/Stype 41)
+Item.510811.1,完美态势,Prime Condition,体力十分,완벽한 전투 태세,完美態勢,Item.json (Type 6/Stype 41)
+Item.510812.1,枪斗术,Gunfighting,白猫格闘術,사격 격투술,槍鬥術,Item.json (Type 6/Stype 41)
+Item.510813.1,引火烧身,Play with Fire,隊長の腕前,자초한 화염,引火燒身,Item.json (Type 6/Stype 41)
+Item.510821.1,战事焦灼,Heated Battle,戦場の焦燥,치열한 전투,戰事焦灼,Item.json (Type 6/Stype 42)
+Item.510822.1,广域轰炸,Area Bombardment,広域爆撃,광역 폭격,廣域轟炸,Item.json (Type 6/Stype 42)
+Item.510823.1,先发制人,Preemptive Strike,機転,기선제압,先發制人,Item.json (Type 6/Stype 42)
+Item.510824.1,精准制导,Precision Guidance,精密射撃,정밀 폭격,精準導引,Item.json (Type 6/Stype 42)
+Item.510825.1,链式反应,Chain Reaction,連鎖爆撃,연쇄 반응,連鎖反應,Item.json (Type 6/Stype 41)
+Item.510826.1,震撼轰炸,Shocking Bombardment,震撼爆撃,강력 폭격,震撼轟炸,Item.json (Type 6/Stype 41)
+Item.510827.1,弱点标定,Weakness Mark,弱点共有,약점 조준,弱點校準,Item.json (Type 6/Stype 41)
+Item.510828.1,额外大礼,Surprise Gift,連射用意,특별 선물,額外大禮,Item.json (Type 6/Stype 41)
+Item.510829.1,幸运炮火,Lucky Blast,幸運の白猫・爆,럭키 포화,幸運砲火,Item.json (Type 6/Stype 41)
+Item.510830.1,落井下石,Insult to Injury,とどめの一撃,결정적 일격,落井下石,Item.json (Type 6/Stype 41)
+Item.510831.1,逐级升温,Gradual Heat-Up,特殊弾丸,점진적 열기 강화,逐級升溫,Item.json (Type 6/Stype 41)
+Item.510832.1,气氛到位,Perfect Ambience,本調子,분위기 최고조,氣氛到位,Item.json (Type 6/Stype 41)
+Item.510833.1,过热临界,Meltdown Threshold,隊長の指示,과열의 임계점,過熱臨界,Item.json (Type 6/Stype 41)
+Item.510841.1,破军之横扫,Army Breaker,敵兵一掃,파군의 일격,破軍之橫掃,Item.json (Type 6/Stype 41)
+Item.510842.1,终曲之横扫,Finale Sweep,終弾一掃,최후의 일격,終曲之橫掃,Item.json (Type 6/Stype 41)
+Item.510843.1,灼焰之横扫,Blazing Sweep,火炎一掃,화염의 일격,灼焰之橫掃,Item.json (Type 6/Stype 41)
+Item.511001.1,踢踏步,Step Kicking,タップステップ,탭 스텝,踢踏步,Item.json (Type 6/Stype 42)
+Item.511002.1,灵动步,Nimble Step,しなやかステップ,민첩 스텝,靈動步,Item.json (Type 6/Stype 42)
+Item.511004.1,叠影步,Shadow Step,重ね影のステップ,그림자 스텝,疊影步,Item.json (Type 6/Stype 42)
+Item.511006.1,暗径旋舞,Dark Pirouette,闇の円舞,어둠의 스핀,暗徑旋舞,Item.json (Type 6/Stype 41)
+Item.511007.1,瞬影断迷,Flash Break,影の断ち切り,섬광의 그림자,瞬影斷迷,Item.json (Type 6/Stype 41)
+Item.511010.1,精准巧合,Accurate Coincidence,奇妙な偶然,완벽한 우연,精準巧合,Item.json (Type 6/Stype 41)
+Item.511011.1,追猎指令,Hunting Command,追跡指令,추격 명령,追獵指令,Item.json (Type 6/Stype 41)
+Item.511012.1,分身有术,Clone Trick,分身の妙技,분신 작전,分身有術,Item.json (Type 6/Stype 41)
+Item.511013.1,通告时刻,Announcement Time,アナウンスタイム,통보의 순간,通告時刻,Item.json (Type 6/Stype 41)
+Item.511021.1,影暗钉,Shadow Nail,暗黒の鋲,그림자·암흑 가시,影暗釘,Item.json (Type 6/Stype 42)
+Item.511022.1,影燃烛,Shadow Flicker,影燃ゆる灯,그림자·촛불,影燃燭,Item.json (Type 6/Stype 42)
+Item.511023.1,影双身,Twin Shadow,ダブルシャドウ,그림자·분신,影雙身,Item.json (Type 6/Stype 42)
+Item.511024.1,影夜裔,Shadownight Descendant,影夜の末裔,그림자·밤의 후예,影夜裔,Item.json (Type 6/Stype 42)
+Item.511025.1,续杯畅饮,Drinking Party,先見の明,축배의 리필,續杯暢飲,Item.json (Type 6/Stype 41)
+Item.511026.1,典型案例,Typical Case,典型的事例,대표 케이스,典型案例,Item.json (Type 6/Stype 41)
+Item.511027.1,欢愉鞭挞,Joyous Whip,愉悦の仕置き,기쁨의 채찍질,歡愉鞭撻,Item.json (Type 6/Stype 41)
+Item.511028.1,紧随步调,Step Sync,歩調を合わせて,페이스 동기화,緊隨步調,Item.json (Type 6/Stype 41)
+Item.511029.1,暗灭回潮,Dark Resurgence,暗滅のうねり,암흑의 재림,暗滅回潮,Item.json (Type 6/Stype 41)
+Item.511030.1,灵活行事,Flexible Operation,臨機応変,유연한 대응,靈活行事,Item.json (Type 6/Stype 41)
+Item.511031.1,影之舞会,Shadow Waltz,影の舞踏会,그림자 무도회,影之舞會,Item.json (Type 6/Stype 41)
+Item.511032.1,全盛姿态,Prime Stance,全盛の姿,완벽한 춤사위,全盛姿態,Item.json (Type 6/Stype 41)
+Item.511033.1,特别关怀,Special Care,特別な配慮,세심한 배려,特別關懷,Item.json (Type 6/Stype 41)
+Item.511041.1,即刻平仓,Instant Liquidation,即時決済,즉시 청산,立即平倉,Item.json (Type 6/Stype 41)
+Item.511042.1,瞬时高位,Instant Peak,ダブルトップ,순간의 고점,瞬時高位,Item.json (Type 6/Stype 41)
+Item.511043.1,买定离手,Place Your Bets,ショーダウン,결정된 선택,買定離手,Item.json (Type 6/Stype 41)
+Item.511102.1,矢量·破碎,Vector: Shatter,ベクトル・粉砕,벡터·파열,向量·破碎,Item.json (Type 6/Stype 42)
+Item.511103.1,矢量·诱导,Vector: Entice,ベクトル・誘導,벡터·유도,向量·誘導,Item.json (Type 6/Stype 42)
+Item.511104.1,矢量·连坠,Vector: Chainfall,ベクトル・貫通,벡터·추락,向量·連墜,Item.json (Type 6/Stype 42)
+Item.511105.1,碎碎平安,Oops I Did It Again,石橋をたたいて,액땜,碎碎平安,Item.json (Type 6/Stype 41)
+Item.511106.1,意外得利,Windfall,思わぬ利益,뜻밖의 이득,意外得利,Item.json (Type 6/Stype 41)
+Item.511107.1,审时度势,Situational Judgment,鋭い判断,상황 분석,審時度勢,Item.json (Type 6/Stype 41)
+Item.511108.1,二次冻伤,Secondary Frostbite,念には念を,2차 동상,二次凍傷,Item.json (Type 6/Stype 41)
+Item.511109.1,精准结算,Precise Settlement,正しき精算,정확한 결산,精準結算,Item.json (Type 6/Stype 41)
+Item.511111.1,生人勿近,Keep Strangers at Bay,詐欺師警戒,낯선 이 접근 금지,生人勿近,Item.json (Type 6/Stype 41)
+Item.511112.1,淑女本色,Lady Essence,知識の重さ,숙녀 본색,淑女本色,Item.json (Type 6/Stype 41)
+Item.511113.1,乱流层积,Turbulent Layers,セール品ゲット,난류의 축적,亂流層積,Item.json (Type 6/Stype 41)
+Item.511122.1,常量·引力,Blizzard: Vortex,定量・引力,상수·인력,常量·引力,Item.json (Type 6/Stype 42)
+Item.511124.1,常量·冲击,Blizzard: Impact,定量・転移,상수·충격,常量·衝擊,Item.json (Type 6/Stype 42)
+Item.511126.1,冬之延续,Prolonged Winter,永遠の冬,겨울의 연속,冬之延續,Item.json (Type 6/Stype 41)
+Item.511127.1,强制平仓,Forced Liquidation,収入安定,강제 청산,強制平倉,Item.json (Type 6/Stype 41)
+Item.511128.1,打包出售,Bundle Sale,お買い得商品,일괄 판매,打包出售,Item.json (Type 6/Stype 41)
+Item.511129.1,不良资产,Distressed Asset,初志貫徹,부실 자산,不良資產,Item.json (Type 6/Stype 41)
+Item.511130.1,浑水摸鱼,Sneaky Fisher,火事場泥棒,혼란 속의 기회,混水摸魚,Item.json (Type 6/Stype 41)
+Item.511131.1,泛函增幅,Functional Amp,初心にかえって,함수 증폭,泛函增幅,Item.json (Type 6/Stype 41)
+Item.511132.1,急涌漫灌,Torrential Irrigation,備蓄は十分,급격한 침수,急湧漫灌,Item.json (Type 6/Stype 41)
+Item.511133.1,积极信号,Positive Signal,積極シグナル,긍정의 신호,積極訊號,Item.json (Type 6/Stype 41)
+Item.511141.1,梨雨锥冰,Icicle Rain,氷華の槍,빙화의 창,梨雨錐冰,Item.json (Type 6/Stype 41)
+Item.511142.1,凛雪皑皑,Gleaming Snow,雪嵐の行進,눈폭풍의 행진,凜雪皚皚,Item.json (Type 6/Stype 41)
+Item.511143.1,凌冰加护,Frozen Shield,氷結の加護,빙결의 가호,凌冰加護,Item.json (Type 6/Stype 41)
+Item.511204.1,闪·开云！,Slash: Blade Storm!,旋・風切！,섬·개운,閃·開雲！,Item.json (Type 6/Stype 42)
+Item.511206.1,疾闪三连,Triple Blinks,疾風三連,질섬·삼연,疾閃三連,Item.json (Type 6/Stype 41)
+Item.511207.1,突云回转,Cloud Swirl,突風回転,폭풍 회전,突雲回轉,Item.json (Type 6/Stype 41)
+Item.511208.1,连舞姿态,Flurry Stance,廻風剣舞,연무바람,連舞姿態,Item.json (Type 6/Stype 41)
+Item.511209.1,聚沙裂塔,Sandstorm Crush,烈風渦,모래의 붕괴,聚沙裂塔,Item.json (Type 6/Stype 41)
+Item.511210.1,飞沙破石,Pebble Storm,業風,모래 폭풍,飛沙破石,Item.json (Type 6/Stype 41)
+Item.511211.1,拨云落日,Sunset Clouds,雲裂風,떨어지는 석양,撥雲落日,Item.json (Type 6/Stype 41)
+Item.511212.1,勇者本能,Hero's Instinct,勇猛果敢,용자의 본능,勇者本能,Item.json (Type 6/Stype 41)
+Item.511213.1,剑势威压,Blade Dominance,剣勢威圧,검기의 위협,劍勢威壓,Item.json (Type 6/Stype 41)
+Item.511221.1,驰·阵风！,Gallop: Flurry!,馳・陣風！,질주·돌풍,馳·陣風！,Item.json (Type 6/Stype 42)
+Item.511222.1,驰·骤风！,Gallop: Squall!,馳・集風！,질주·강풍,馳·驟風！,Item.json (Type 6/Stype 42)
+Item.511223.1,驰·凌风！,Gallop: Cyclone!,馳・極風！,질주·풍도,馳·凌風！,Item.json (Type 6/Stype 42)
+Item.511224.1,驰·飙风！,Gallop: Gale!,馳・暴風！,질주·폭풍,馳·飆風！,Item.json (Type 6/Stype 42)
+Item.511225.1,蚀风骤裂,Corrosive Breeze,狂風裁断,폭풍의 분열,蝕風驟裂,Item.json (Type 6/Stype 41)
+Item.511226.1,环风聚刃,Wind Glaive,環風集刃,칼날의 회오리,環風聚刃,Item.json (Type 6/Stype 41)
+Item.511227.1,逆风叶障,Leaf Barrier,逆風妨害,역풍의 보호막,逆風葉障,Item.json (Type 6/Stype 41)
+Item.511228.1,群风荟聚,Gathering Storm,群風集結,바람의 집결,群風薈萃,Item.json (Type 6/Stype 41)
+Item.511229.1,迅风连舞,Dancing Airflow,迅風連舞,질풍연무,迅風連舞,Item.json (Type 6/Stype 41)
+Item.511230.1,厉风夺萃,Fierce Essence,暴風奪取,폭풍의 강탈,厲風奪萃,Item.json (Type 6/Stype 41)
+Item.511231.1,环风利刃,Cyclone Blades,風力上昇,날 선 회오리,環風利刃,Item.json (Type 6/Stype 41)
+Item.511232.1,破韧环流,Rupture Circulation,裂風環流,무력화의 환류,破韌環流,Item.json (Type 6/Stype 41)
+Item.511233.1,充能环流,Charged Circulation,凱風環流,에너지 환류,蓄能環流,Item.json (Type 6/Stype 41)
+Item.511241.1,裂空破雾斩,Mist Banisher,裂空破霧斬,열공파무참,裂空破霧斬,Item.json (Type 6/Stype 41)
+Item.511242.1,裂空迅刃斩,Space Splitter,裂空鋭刃斬,열공신인참,裂空迅刃斬,Item.json (Type 6/Stype 41)
+Item.511243.1,裂空连舞斩,Choreographed Assault,裂空連舞斬,열공연무참,裂空連舞斬,Item.json (Type 6/Stype 41)
+Item.511301.1,净流环绕,Stream Embrace,浄流循環,청류 순환,淨流環繞,Item.json (Type 6/Stype 42)
+Item.511302.1,碧浪回旋,Wave Swirl,青波旋回,파도의 소용돌이,碧浪迴旋,Item.json (Type 6/Stype 42)
+Item.511303.1,急流直下,Torrent Plunge,急流直下,급류 하강,急流直下,Item.json (Type 6/Stype 42)
+Item.511304.1,潺潺溪吟,Gurgling Streams,せせらぎの唄,시냇물의 속삭임,潺潺溪吟,Item.json (Type 6/Stype 42)
+Item.511305.1,清流弄影,Stream Mirror,清流の影,청류의 그림자,清流弄影,Item.json (Type 6/Stype 41)
+Item.511306.1,波澜万丈,Towering Waves,波瀾万丈,파란만장,波瀾萬丈,Item.json (Type 6/Stype 41)
+Item.511307.1,银瀑流霞,Cascade Glow,銀瀑の霞,은빛 폭포,銀瀑流霞,Item.json (Type 6/Stype 41)
+Item.511308.1,骤雨初歇,Relenting Rain,驟雨のさざめき,소나기 직후,驟雨初歇,Item.json (Type 6/Stype 41)
+Item.511309.1,雨打涟漪,Raining Ripples,雨の波紋,빗물의 파장,雨打漣漪,Item.json (Type 6/Stype 41)
+Item.511310.1,雨落无声,Silent Rain,音なき雨,침묵의 비,雨落無聲,Item.json (Type 6/Stype 41)
+Item.511311.1,飞泉漱玉,Cliffside Spring,洗玉の泉,하천의 울림,飛泉漱玉,Item.json (Type 6/Stype 41)
+Item.511312.1,海浪滔天,Roaring Ocean Wave,天衝く波紋,해일의 폭풍,海浪滔天,Item.json (Type 6/Stype 41)
+Item.511313.1,吞云涤雨,Sky-Washing Shower,呑雲の雨,정화의 장대비,吞雲滌雨,Item.json (Type 6/Stype 41)
+Item.511321.1,雨意·潇,Rain Whisper: Gentle,宿雨・澄,우기·비바람,雨意·瀟,Item.json (Type 6/Stype 42)
+Item.511322.1,雨意·沥,Rain Whisper: Steady,宿雨・雫,우기·가랑비,雨意·瀝,Item.json (Type 6/Stype 42)
+Item.511323.1,雨意·涔,Rain Whisper: Pouring,宿雨・溜,우기·장맛비,雨意·涔,Item.json (Type 6/Stype 42)
+Item.511324.1,雨意·霏,Rain Whisper: Light,宿雨・降,우기·부슬비,雨意·霏,Item.json (Type 6/Stype 42)
+Item.511325.1,排查隐患,Hazard Elimination,リスクチェック,위험 제거,排除隱患,Item.json (Type 6/Stype 41)
+Item.511326.1,万全准备,Full Preparation,備品管理,만반의 준비,萬全準備,Item.json (Type 6/Stype 41)
+Item.511327.1,消防巡检,Fire Patrol,消防点検,소방 점검,消防巡檢,Item.json (Type 6/Stype 41)
+Item.511328.1,文书支援,Missive Support,事務補佐,문서 지원,文書支援,Item.json (Type 6/Stype 41)
+Item.511329.1,秘书职责,Secretary Duty,秘書の役目,비서의 업무,祕書職責,Item.json (Type 6/Stype 41)
+Item.511330.1,现场复盘,Field Review,現場管理,현장 분석,現場檢討,Item.json (Type 6/Stype 41)
+Item.511331.1,提高效率,Efficiency Boost,効率的業務遂行,효율 증가,提高效率,Item.json (Type 6/Stype 41)
+Item.511332.1,水到渠成,Effortless Fulfillment,貯水管理,순조로운 진행,水到渠成,Item.json (Type 6/Stype 41)
+Item.511333.1,水利专精,Irrigation Mastery,水利専門家,수자원 전문가,水利專精,Item.json (Type 6/Stype 41)
+Item.511341.1,吟咏,Intonation,吟詠,낭독,吟詠,Item.json (Type 6/Stype 41)
+Item.511342.1,凌波,Wave Rider,大浪,파도,凌波,Item.json (Type 6/Stype 41)
+Item.511343.1,涧泉鸣,Humming Wellspring,泉響,산골짜기의 물소리,澗泉鳴,Item.json (Type 6/Stype 41)
+Item.511401.1,广域爆破,Area Explosion,昏き呼び声,광역 폭파,廣域爆破,Item.json (Type 6/Stype 42)
+Item.511402.1,饱和投掷,Overwhelming Throw,漆黒の帳,포화 투척,飽和投擲,Item.json (Type 6/Stype 42)
+Item.511403.1,喵神诅咒,Meowth's Curse,ネコ神の呪い,야옹신의 저주,喵神詛咒,Item.json (Type 6/Stype 42)
+Item.511404.1,黑暗轮回,Reincarnation of Darkness,漆黒の輪舞曲,암흑의 윤회,黑暗輪迴,Item.json (Type 6/Stype 42)
+Item.511405.1,多重弹跳,Chain Bounce,連鎖するカルマ,다중 통통탄,多重彈跳,Item.json (Type 6/Stype 41)
+Item.511406.1,节约使用,Efficient Use,収束する業火,절약 사용,節約使用,Item.json (Type 6/Stype 41)
+Item.511407.1,致命裁定,Deadly Verdict,闇の胎動,치명적 단죄,致命裁定,Item.json (Type 6/Stype 41)
+Item.511408.1,黑暗烙印,Mark of Darkness,漆黒の刻印,암흑 낙인,黑暗烙印,Item.json (Type 6/Stype 41)
+Item.511409.1,幸运子弹,Lucky Bullet,慟哭の聖譚曲,행운의 총알,幸運子彈,Item.json (Type 6/Stype 41)
+Item.511410.1,猎杀标记,Hunting Mark,黄昏の澱,사냥의 표식,獵殺標記,Item.json (Type 6/Stype 41)
+Item.511411.1,机动作战,Mobile Combat,雷鳴の如く,기동 작전,機動作戰,Item.json (Type 6/Stype 41)
+Item.511412.1,优势火力,Dominant Firepower,神速の狩人,압도적인 화력,優勢火力,Item.json (Type 6/Stype 41)
+Item.511413.1,强敌断灭,Foe Annihilation,堕天する翼,강적 처단,強敵斷滅,Item.json (Type 6/Stype 41)
+Item.511421.1,奇袭作战,Ambush Operation,黒き祝福,기습 작전,奇襲作戰,Item.json (Type 6/Stype 42)
+Item.511422.1,胜势追击,Strike While the Iron is Hot,ベリアルシュート,승리 추격,勝勢追擊,Item.json (Type 6/Stype 42)
+Item.511423.1,恋战情绪,Combat Frenzy,忌まわしき翼,전장의 갈망,戀戰情緒,Item.json (Type 6/Stype 42)
+Item.511424.1,中心开花,Core Blast,闇より出でし輩,중심의 분열,中心開花,Item.json (Type 6/Stype 42)
+Item.511425.1,魔眼锁定,Evil Eye Gaze,魔眼の射手,마안 고정,魔眼鎖定,Item.json (Type 6/Stype 41)
+Item.511426.1,超额增幅,Excess Amplification,オーバーブースト,초과 증폭,超額增幅,Item.json (Type 6/Stype 41)
+Item.511427.1,持续压制,Relentless Suppression,サプレッション,지속적인 제압,持續壓制,Item.json (Type 6/Stype 41)
+Item.511428.1,一石二鸟,One Stone Two Birds,ツインショット,일석이조,一石二鳥,Item.json (Type 6/Stype 41)
+Item.511429.1,灼热膛线,Burnt Rifling,フレイムバレル,뜨거운 총열,灼熱膛線,Item.json (Type 6/Stype 41)
+Item.511430.1,不值一提,Minor Fling,支配する混沌,하찮은 존재,不值一提,Item.json (Type 6/Stype 41)
+Item.511431.1,能量充盈,Energy Overflow,フルチャージ,넘치는 에너지,能量充盈,Item.json (Type 6/Stype 41)
+Item.511432.1,快速强袭,Swift Assault,目覚める邪心,빠른 강습,快速強襲,Item.json (Type 6/Stype 41)
+Item.511433.1,热情似火,Burning Passion,パッショネイト,불 같은 열정,熱情如火,Item.json (Type 6/Stype 41)
+Item.511441.1,诅咒降临,Curse Fall,覗き込む闇,저주의 강림,詛咒降臨,Item.json (Type 6/Stype 41)
+Item.511442.1,贯穿射击,Penetrating Bullet,ピアスショット,관통 사격,貫穿射擊,Item.json (Type 6/Stype 41)
+Item.511443.1,灾厄余响,Doom's Echo,破滅の残響,재앙의 잔향,災厄餘響,Item.json (Type 6/Stype 41)
+Item.511503.1,萤流·汇聚,Firefly Glow: Convergence,陣取りあそび,빛의 유영·응축된 빛,螢流·匯聚,Item.json (Type 6/Stype 42)
+Item.511504.1,萤流·射散,Firefly Glow: Scatter Beam,じぐざぐレーザー,빛의 유영·퍼지는 빛,螢流·射散,Item.json (Type 6/Stype 42)
+Item.511505.1,星痕叠潮,Tide of Starmarks,ごほうびアバランチ,성흔의 물결,星痕疊潮,Item.json (Type 6/Stype 41)
+Item.511506.1,光雨倾落,Radiant Rainfall,追撃スパーク,쏟아지는 빛,光雨傾落,Item.json (Type 6/Stype 41)
+Item.511507.1,孤星独耀,Lone Star Gleam,いっしょに遊ぼ,외딴 별의 광채,孤星獨耀,Item.json (Type 6/Stype 41)
+Item.511508.1,星汨影集,Astral Album,バチバチでっぽう,빛의 결집,星汨影集,Item.json (Type 6/Stype 41)
+Item.511509.1,流光律动,Luminous Rhythm,出力上昇,빛의 리듬,流光律動,Item.json (Type 6/Stype 41)
+Item.511510.1,闪光共鸣,Flash Resonance,共鳴反応,섬광의 공명,閃光共鳴,Item.json (Type 6/Stype 41)
+Item.511511.1,炽烈光明,Blazing Radiance,うきうきモード,작열하는 빛,熾烈光明,Item.json (Type 6/Stype 41)
+Item.511512.1,绝对闪耀,Absolute Brilliance,完ぺきアバランチ,절대적인 빛,絕對閃耀,Item.json (Type 6/Stype 41)
+Item.511513.1,残影幻爆,Phantom Blast,かげおに,잔영의 폭발,殘影幻爆,Item.json (Type 6/Stype 41)
+Item.511521.1,辉剑·重影,Radiance Blade: Twin Shadow,おかわりアバランチ,휘검·겹쳐진 그림자,輝劍·重影,Item.json (Type 6/Stype 42)
+Item.511522.1,辉剑·萤火,Radiance Blade: Firefly,きらきらモード,휘검·반딧불,輝劍·螢火,Item.json (Type 6/Stype 42)
+Item.511523.1,辉剑·煌刃,Radiance Blade: Blazing Edge,鬼さんこっち,휘검·찬란한 칼날,輝劍·煌刃,Item.json (Type 6/Stype 42)
+Item.511524.1,辉剑·追斩,Radiance Blade: Pursuing Slash,おしおきモード,휘검·참격,輝劍·追斬,Item.json (Type 6/Stype 42)
+Item.511525.1,积光成刃,Lightforged Blade,友だちの印,빛을 모은 칼날,積光成刃,Item.json (Type 6/Stype 41)
+Item.511526.1,星芒坠落,Stellar Crash,追い打ちアバランチ,성망의 추락,星芒墜落,Item.json (Type 6/Stype 41)
+Item.511527.1,归刃散华,Blade of Falling Petals,おかたづけ,검 끝에 피어난 꽃,歸刃散華,Item.json (Type 6/Stype 41)
+Item.511528.1,重剑迅影,Blade Flash,びゅんびゅんモード,대검의 잔상,重劍迅影,Item.json (Type 6/Stype 41)
+Item.511529.1,光流蓄锋,Luminous Onslaught,ピカピカチャージ,빛을 머금은 칼날,光流蓄鋒,Item.json (Type 6/Stype 41)
+Item.511530.1,光涟扩散,Radiant Ripple,かごめかごめ,빛의 확산,光漣擴散,Item.json (Type 6/Stype 41)
+Item.511531.1,绝光庇护,Sanctuary of Light,まもりたい気持ち,절대적 빛의 가호,絕光庇護,Item.json (Type 6/Stype 41)
+Item.511532.1,天地同辉,Cosmic Brilliance,友だちの輪,천지의 광휘,天地同輝,Item.json (Type 6/Stype 41)
+Item.511533.1,纯洁领域,Domain of Purity,遊び仲間,순결의 영역,純潔領域,Item.json (Type 6/Stype 41)
+Item.511541.1,余辉留温,Persistent Warmth,ほたるび効果,잔빛의 따스함,餘暉留溫,Item.json (Type 6/Stype 41)
+Item.511542.1,极耀明光,Ultimate Radiance,ホタルの本気,극한의 찬란한 빛,極耀明光,Item.json (Type 6/Stype 41)
+Item.511543.1,碎星残芒,Radiance of Shattered Stars,はないちもんめ,부서진 별의 잔광,碎星殘芒,Item.json (Type 6/Stype 41)
+Item.511601.1,枝繁叶茂,Let Nature Thrive,播種箱,무성한 가지,枝繁葉茂,Item.json (Type 6/Stype 42)
+Item.511602.1,草木皆兵,Nature's Guard,豆鉄砲草,사방이 적군,草木皆兵,Item.json (Type 6/Stype 42)
+Item.511603.1,种豆得瓜,A Fortunate Yield,大きな種,뿌린 대로 거두기,種豆得瓜,Item.json (Type 6/Stype 42)
+Item.511604.1,节外生枝,Tangled Mess,不思議な種,가지의 가지,節外生枝,Item.json (Type 6/Stype 42)
+Item.511605.1,增生枝条,Overgrowth,促成栽培,증식하는 가지,增生枝條,Item.json (Type 6/Stype 41)
+Item.511606.1,缠绕根须,Vine Snare,絡む根っこ,얽혀 있는 뿌리,纏繞根鬚,Item.json (Type 6/Stype 41)
+Item.511607.1,双生出芽,Twin Sprouts,双子葉類,쌍둥이 새싹,雙生出芽,Item.json (Type 6/Stype 41)
+Item.511608.1,膨胀种壳,Bursting Pod,品種改良,씨앗의 팽창,膨脹種殼,Item.json (Type 6/Stype 41)
+Item.511609.1,硬化球果,Hardened Cone,硬い種,단단한 열매,硬化毬果,Item.json (Type 6/Stype 41)
+Item.511610.1,狂野生长,Wild Growth,いっぱい水やり,야성적인 성장,狂野生長,Item.json (Type 6/Stype 41)
+Item.511611.1,滑铲进阶,Power Slide,農業で鍛えた足腰,슬라이딩 승급,滑鏟進階,Item.json (Type 6/Stype 41)
+Item.511612.1,瓜熟蒂落,Full Bloom,気合い農法,잘 익은 열매,瓜熟蒂落,Item.json (Type 6/Stype 41)
+Item.511613.1,生机勃勃,Verdant Vigor,収穫を守る決意,넘치는 생기,生機勃勃,Item.json (Type 6/Stype 41)
+Item.511621.1,二度绽放,Reblossom,二期作,두 번째 만개,二度綻放,Item.json (Type 6/Stype 42)
+Item.511622.1,草动风吹,Sense the Stir,種よ風に乗れ,바람에 흔들리는 풀잎,草動風吹,Item.json (Type 6/Stype 42)
+Item.511623.1,揠苗助长,Hasty Growth,肥料注入,조급한 성장,揠苗助長,Item.json (Type 6/Stype 42)
+Item.511624.1,移花接木,Misplaced Bloom,接ぎ木,꽃가지 접목,移花接木,Item.json (Type 6/Stype 42)
+Item.511625.1,针刺之种,Needle Seed,尖った種,가시 씨앗,針刺之種,Item.json (Type 6/Stype 41)
+Item.511626.1,锈蚀缠绕,Corrosive Vines,蔓植物,부식의 속박,鏽蝕纏繞,Item.json (Type 6/Stype 41)
+Item.511627.1,落英缤纷,Bouquet Blast,大規模農法,꽃잎의 춤사위,落英繽紛,Item.json (Type 6/Stype 41)
+Item.511628.1,苗壮根深,Sturdy Foundation,芽吹いた宿り木,강인한 뿌리와 줄기,苗壯根深,Item.json (Type 6/Stype 41)
+Item.511629.1,根须蔓延,Root Grasp,止まらない繁茂,퍼져나가는 뿌리,根鬚蔓延,Item.json (Type 6/Stype 41)
+Item.511630.1,爆裂球果,Cone Bomb,こぼれ種,폭열 열매,爆裂毬果,Item.json (Type 6/Stype 41)
+Item.511631.1,瓜田李下,Ensnaring Ground,食料死守モード,의심의 씨앗,瓜田李下,Item.json (Type 6/Stype 41)
+Item.511632.1,力挽狂澜,Turn the Tide,必死の抵抗,국면 전환,力挽狂瀾,Item.json (Type 6/Stype 41)
+Item.511633.1,积土成山,Small Changes,農業は人海戦術,티끌 모아 태산,積土成山,Item.json (Type 6/Stype 41)
+Item.511641.1,开花结果,Seed to Harvest,泥棒は許さない,꽃과 열매,開花結果,Item.json (Type 6/Stype 41)
+Item.511642.1,草长莺飞,Spring's Embrace,賑やかな収穫祭,완연한 봄,草長鶯飛,Item.json (Type 6/Stype 41)
+Item.511643.1,春耕秋收,Sow and Reap,食糧庫は堅守！,봄과 가을,春耕秋收,Item.json (Type 6/Stype 41)
+Item.511701.1,储能·连,Energy Storage: Bind,蓄雷・連,에너지 축적·연속,儲能·連,Item.json (Type 6/Stype 42)
+Item.511702.1,储能·结,Energy Storage: Knot,蓄雷・結,에너지 축적·연결,儲能·結,Item.json (Type 6/Stype 42)
+Item.511703.1,储能·引,Energy Storage: Channel,蓄雷・引,에너지 축적·인력,儲能·引,Item.json (Type 6/Stype 42)
+Item.511704.1,储能·浮,Energy Storage: Ascend,蓄雷・浮,에너지 축적·부력,儲能·浮,Item.json (Type 6/Stype 42)
+Item.511705.1,充电循环,Charge Cycle,天雷降臨,충전 순환,充電循環,Item.json (Type 6/Stype 41)
+Item.511706.1,放电测试,Discharge Test,雷鳴呼応,방전 테스트,放電測試,Item.json (Type 6/Stype 41)
+Item.511707.1,储能集成,Integrated Energy Storage,蓄雷統合,에너지 축적 및 결합,儲能整合,Item.json (Type 6/Stype 41)
+Item.511708.1,热管理,Heat Management,雷加減調整,열 관리,熱管理,Item.json (Type 6/Stype 41)
+Item.511709.1,回收再利用,Recycle and Reuse,エコクッキング,회수 및 재활용,回收再利用,Item.json (Type 6/Stype 41)
+Item.511710.1,配电管理,Power Distribution,客さばき名人,전력 관리,配電管理,Item.json (Type 6/Stype 41)
+Item.511711.1,漏电防护,Leakage Protection,千客万来,누전 방호,漏電防護,Item.json (Type 6/Stype 41)
+Item.511712.1,左零右火上接地,"Neutral Left, Live Right, Ground Below",クレーマー対応,균형의 회로,白中紅火綠接地,Item.json (Type 6/Stype 41)
+Item.511713.1,导体转化,Conductor Conversion,シフト管理,전도체 전환,導體轉換,Item.json (Type 6/Stype 41)
+Item.511721.1,雷动·元,Thunderbolt: Dragon,雷導・元,뇌동·삼원패,雷動·元,Item.json (Type 6/Stype 42)
+Item.511722.1,雷动·竹,Thunderbolt: Bamboo,雷導・増,뇌동·삭수패,雷動·竹,Item.json (Type 6/Stype 42)
+Item.511723.1,雷动·万,Thunderbolt: Character,雷導・万,뇌동·만수패,雷動·萬,Item.json (Type 6/Stype 42)
+Item.511724.1,雷动·筒,Thunderbolt: Circle,雷導・筒,뇌동·통수패,雷動·筒,Item.json (Type 6/Stype 42)
+Item.511725.1,一色三节高,Sequential Triplets,三連刻,삼연각,一色三連刻,Item.json (Type 6/Stype 41)
+Item.511726.1,门前清自摸,Self-drawn Concealed Hand,門前清自摸和,멘젠쯔모,門清自摸,Item.json (Type 6/Stype 41)
+Item.511727.1,杠上开花,Win upon a Kong,嶺上開花,영상개화,槓上開花,Item.json (Type 6/Stype 41)
+Item.511728.1,一条龙,Complete Sequence,一気通貫,일기통관,一條龍,Item.json (Type 6/Stype 41)
+Item.511729.1,三相逢,Triple Chows,三色同順,삼색동순,三相逢,Item.json (Type 6/Stype 41)
+Item.511730.1,断幺九,No Ones No Nines,断么九,탕야오,斷么九,Item.json (Type 6/Stype 41)
+Item.511731.1,游刃有余,Effortless Mastery,余裕綽々,식은 죽 먹기,游刃有餘,Item.json (Type 6/Stype 41)
+Item.511732.1,小小店长,Little Manager,小さな店長,가게 점장,小小店長,Item.json (Type 6/Stype 41)
+Item.511733.1,交际达人,Social Butterfly,おもてなし精神,사교의 달인,交際達人,Item.json (Type 6/Stype 41)
+Item.511741.1,天上麒麟,Heavenly Kirin,天上の獣,천상의 기린,天上麒麟,Item.json (Type 6/Stype 41)
+Item.511742.1,百兽之宗,Lord of Beasts,百獣の祖,백수의 왕,百獸之宗,Item.json (Type 6/Stype 41)
+Item.511743.1,四灵之瑞,Auspicious Spirit,四霊の瑞,사신수의 가호,四靈之瑞,Item.json (Type 6/Stype 41)
+Item.511801.1,影幕镰舞,Shadow Reaper's Dance,闇鎌の円舞,어둠 낫의 무희,影幕鐮舞,Item.json (Type 6/Stype 42)
+Item.511802.1,骨影裂魂,Soul Splitter,骨影裂魂,혼을 찢는 본 쉐도우,骨影裂魂,Item.json (Type 6/Stype 42)
+Item.511803.1,影潜侵袭,Shadow Invasion,闇夜の斬撃,그림자 잠입,影潛侵襲,Item.json (Type 6/Stype 42)
+Item.511804.1,影刃幻动,Phantom Blade,夜刃の幻影,환영의 그림자 칼날,影刃幻動,Item.json (Type 6/Stype 42)
+Item.511805.1,隐夜疾行,Night Cruise,暗夜疾走,어둠 속 질주,隱夜疾行,Item.json (Type 6/Stype 41)
+Item.511806.1,灵魂扣锁,Soul Buckle,生死の掟,영혼의 구속,靈魂扣鎖,Item.json (Type 6/Stype 41)
+Item.511807.1,魂影困缚,Chained Shadow,魂の束縛,영혼 그림자 결박,魂影困縛,Item.json (Type 6/Stype 41)
+Item.511808.1,游魂吐息,Roaming Spectre,夜霧の誘い,유혼의 숨결,遊魂吐息,Item.json (Type 6/Stype 41)
+Item.511809.1,晦暗爆发,Obscure Eruption,疾病への探究心,어둠의 폭발,晦暗爆發,Item.json (Type 6/Stype 41)
+Item.511810.1,暗幕掠影,Dark Veil,患者発見,암막의 잔상,暗幕掠影,Item.json (Type 6/Stype 41)
+Item.511811.1,秘法之刃,Arcane Blade,高難易度オペ,비법의 칼날,祕法之刃,Item.json (Type 6/Stype 41)
+Item.511812.1,幽影遁形,Shadow Escape,観察眼,흔적 없는 그림자,幽影遁形,Item.json (Type 6/Stype 41)
+Item.511813.1,黑暗迅隐,Shadow Dash,適切な処置,어둠 속 은신,黑暗迅隱,Item.json (Type 6/Stype 41)
+Item.511822.1,破骨乱舞,Skeleton Frenzy,破骨乱舞,파골난무,破骨亂舞,Item.json (Type 6/Stype 42)
+Item.511823.1,激素秘药,Hormone Elixir,特製ホルモン剤,신비의 활성제,激素祕藥,Item.json (Type 6/Stype 42)
+Item.511824.1,毒素浸染,Toxin Infusion,毒にも薬にも,독소 침투,毒素浸染,Item.json (Type 6/Stype 42)
+Item.511826.1,放血治疗,Bloodletting Therapy,患者選定,피의 치유,放血治療,Item.json (Type 6/Stype 41)
+Item.511827.1,魔法移植,Magic Transplant,研究資料収集,마법 이식,魔法移植,Item.json (Type 6/Stype 41)
+Item.511830.1,命运标记,Tag of Fate,難病発見,운명의 표식,命運標記,Item.json (Type 6/Stype 41)
+Item.511831.1,精密手术,Precision Surgery,オペ技術向上,정밀 수술,精密手術,Item.json (Type 6/Stype 41)
+Item.511832.1,医学研究,Medical Research,最先端医学研究,의학 연구,醫學研究,Item.json (Type 6/Stype 41)
+Item.511833.1,地下秘医,Underground Healer,闇医者,불법 의사,地下密醫,Item.json (Type 6/Stype 41)
+Item.511841.1,暗夜镰影,Night Reaper,暗夜の鎌,어둠의 낫 그림자,暗夜鐮影,Item.json (Type 6/Stype 41)
+Item.511842.1,森罗刻印,Formidable Glyph,魂の刻印,삼라의 각인,森羅刻印,Item.json (Type 6/Stype 41)
+Item.511843.1,断魂狂袭,Terrifying Rampage,断魂狂襲,광란의 영혼 사냥,斷魂狂襲,Item.json (Type 6/Stype 41)
+Item.511901.1,生长风暴,Growth Tempest,成長の喜び,생명의 폭풍,生長風暴,Item.json (Type 6/Stype 42)
+Item.511902.1,散花如扇,Blossom Flurry,扇の散花,부채꼴 꽃잎,散花如扇,Item.json (Type 6/Stype 42)
+Item.511903.1,飞旋之刃,Whirling Blade,飛旋の刃,회전 칼날,飛旋之刃,Item.json (Type 6/Stype 42)
+Item.511904.1,满盈之舞,Bloom Dance,満開の舞,풍요의 춤사위,滿盈之舞,Item.json (Type 6/Stype 42)
+Item.511905.1,疾风怒涛,Gale Rage,疾風怒濤,질풍노도,疾風怒濤,Item.json (Type 6/Stype 41)
+Item.511906.1,幻影随行,Phantom Follower,花影の従者,환영의 동행,幻影隨行,Item.json (Type 6/Stype 41)
+Item.511907.1,追日绝尘,Sun Chaser,研鑽の日々,빛을 향한 추격,追日絕塵,Item.json (Type 6/Stype 41)
+Item.511908.1,遥远祈福,Distant Prayer,日輪草への祈り,먼 곳에서의 기도,遙遠祈福,Item.json (Type 6/Stype 41)
+Item.511909.1,绚烂涡流,Splendid Vortex,花の導き,화려한 소용돌이,絢爛渦流,Item.json (Type 6/Stype 41)
+Item.511910.1,飞花乱坠,Blossom Shower,百花繚乱,흩날리는 꽃잎 폭풍,飛花亂墜,Item.json (Type 6/Stype 41)
+Item.511911.1,凌空穿云,Sky Piercer,忍の心得,천공 돌파,凌空穿雲,Item.json (Type 6/Stype 41)
+Item.511912.1,繁花绽放,Blooming Flowers,韋駄天,만개하는 화려한 꽃,繁花綻放,Item.json (Type 6/Stype 41)
+Item.511913.1,飒沓如星,Starlit Dash,早足,별빛의 질풍,颯沓如星,Item.json (Type 6/Stype 41)
+Item.511921.1,滋养再生,Revitalizing Nourishment,追撃用暗器,재생의 양분,滋養再生,Item.json (Type 6/Stype 42)
+Item.511922.1,煦风消融,Gentle Thaw,風の如く,따스한 바람의 포옹,煦風消融,Item.json (Type 6/Stype 42)
+Item.511923.1,丛花之眼,Floral Nexus,草花の眼,꽃무리의 시선,叢花之眼,Item.json (Type 6/Stype 42)
+Item.511924.1,雅兴未尽,Unfulfilled Enthusiasm,対象観察,끝나지 않은 흥,雅興未盡,Item.json (Type 6/Stype 42)
+Item.511925.1,小心栽培,Tender Nurture,急成長,섬세한 재배,小心栽培,Item.json (Type 6/Stype 41)
+Item.511926.1,查漏补缺,Troubleshooting,失敗回避,결점 보완,查漏補缺,Item.json (Type 6/Stype 41)
+Item.511927.1,轮班值守,Shift Duty,監視交代,교대 수호,輪班值守,Item.json (Type 6/Stype 41)
+Item.511928.1,重点关照,VIP Focus,念には念を,특별 보호,重點關照,Item.json (Type 6/Stype 41)
+Item.511929.1,定期修剪,Regular Trim,定期剪定,정기 손질,定期修剪,Item.json (Type 6/Stype 41)
+Item.511930.1,全心呵护,Tender Care,支援忍術,마음을 다한 보살핌,全心呵護,Item.json (Type 6/Stype 41)
+Item.511931.1,起舞散花,Dance of Scattering Petals,精神統一,무용화산,起舞散花,Item.json (Type 6/Stype 41)
+Item.511932.1,温柔陷阱,Tender Trap,花風共鳴,부드러운 함정,溫柔陷阱,Item.json (Type 6/Stype 41)
+Item.511933.1,同舟共济,United in Times,メイドサービス,일심협력,同舟共濟,Item.json (Type 6/Stype 41)
+Item.511941.1,花影诗,Blossom Rhyme,花影の詩,꽃 그림자의 시,花影詩,Item.json (Type 6/Stype 41)
+Item.511942.1,影无涯,Infinite Shade,分身忍術,끝없는 그림자,影無涯,Item.json (Type 6/Stype 41)
+Item.511943.1,影风歌,Wind Whispers,忍の矜持,그림자 바람의 노래,影風歌,Item.json (Type 6/Stype 41)
+Item.512001.1,众星拥戴,Most Admired,生徒の支持,별빛의 가호,眾星擁戴,Item.json (Type 6/Stype 42)
+Item.512002.1,环形疾速,Ring Blitz,環風迅速,회전 질주,環形疾速,Item.json (Type 6/Stype 42)
+Item.512003.1,风云无常,Erratic Weather,風雲無常,변화무쌍,風雲無常,Item.json (Type 6/Stype 42)
+Item.512004.1,正向积分,Positive Score,順方向積分,정방향 적분,正向積分,Item.json (Type 6/Stype 42)
+Item.512005.1,单科学习强化,Subject Boost,一教科集中講義,단일 과목 학습 강화,單科學習強化,Item.json (Type 6/Stype 41)
+Item.512006.1,优势领域利用,Strength Leverage,得意分野の利用,우세 영역 활용,優勢領域利用,Item.json (Type 6/Stype 41)
+Item.512007.1,全科正向反馈,Comprehensive Praise,補習授業,전 과목 긍정적 평가,全科正向回饋,Item.json (Type 6/Stype 41)
+Item.512008.1,良师益友,Friendly Mentor,良師益友,지혜로운 조언자,良師益友,Item.json (Type 6/Stype 41)
+Item.512009.1,独门教义,Unique Teaching,特別講義,고유의 가르침,獨門教義,Item.json (Type 6/Stype 41)
+Item.512010.1,反击教学,Counterstrike Tutorial,反撃教育,반격 교습,反擊教學,Item.json (Type 6/Stype 41)
+Item.512011.1,孤星闪烁,Lone Star Twinkle,学力の煌めき,홀로 빛나는 별,孤星閃爍,Item.json (Type 6/Stype 41)
+Item.512012.1,弱点解析,Weakness Analysis,弱点分析,약점 분석,弱點分析,Item.json (Type 6/Stype 41)
+Item.512013.1,翠影步,Shadow Stride,模範的行動,에메랄드 쉐도우 스텝,翠影步,Item.json (Type 6/Stype 41)
+Item.512021.1,授予高效的钻研,Grants Efficient Delving,効率的な勉強法,효율적 연구 전수,授予高效的鑽研,Item.json (Type 6/Stype 42)
+Item.512022.1,授予质变的结论,Grants Transformative Insight,質的変化の講義,질적 변화 결론 전수,授予質變的結論,Item.json (Type 6/Stype 42)
+Item.512023.1,授予加速的概念,Grants Speedup Notion,加速概念の講義,가속 개념 전수,授予加速的概念,Item.json (Type 6/Stype 42)
+Item.512024.1,授予绽放的美学,Grants Blooming Esthetics,審美眼の講義,피어남의 미학 전수,授予綻放的美學,Item.json (Type 6/Stype 42)
+Item.512025.1,构造解析,Structure Analysis,構造解析,구조 분석,構造分析,Item.json (Type 6/Stype 41)
+Item.512026.1,难题攻坚,Conundrum Solving,難問解明,난제 공략,難題攻堅,Item.json (Type 6/Stype 41)
+Item.512027.1,结论剖析,Conclusion Analysis,結論述懐,결론 정밀 분석,結論剖析,Item.json (Type 6/Stype 41)
+Item.512028.1,高压回流,High Pressure Reflux,向上心,고압 에너지 역류,高壓回流,Item.json (Type 6/Stype 41)
+Item.512029.1,气旋加速,Cyclone Acceleration,厳格講義,선풍 가속,氣旋加速,Item.json (Type 6/Stype 41)
+Item.512030.1,风眼扩张,Storm Eye Expansion,個人授業,바람의 눈 확장,風眼擴張,Item.json (Type 6/Stype 41)
+Item.512031.1,我思,My Thoughts,補講準備,내면의 생각,我思,Item.json (Type 6/Stype 41)
+Item.512032.1,我在,My Presence,自己研鑽,나의 존재,我在,Item.json (Type 6/Stype 41)
+Item.512033.1,演绎推理终论,Finale Deduction,演繹的推理終論,추리의 결론,演繹推理終論,Item.json (Type 6/Stype 41)
+Item.512041.1,风暴压制,Storm Suppression,暴風教育,폭풍 제압,風暴壓制,Item.json (Type 6/Stype 41)
+Item.512042.1,构造破坏,Structure Shatter,構造破壊,구조 파괴,構造破壞,Item.json (Type 6/Stype 41)
+Item.512043.1,顺风领域,Downwind Area,旋風領域,순풍 영역,順風領域,Item.json (Type 6/Stype 41)
+Item.512302.1,飞石尘起,Stone Dust Tempest,飛石舞塵,흩날리는 돌먼지,飛石塵起,Item.json (Type 6/Stype 42)
+Item.512304.1,盛大登场,Grand Debut,友達の力,화려한 등장,盛大登場,Item.json (Type 6/Stype 42)
+Item.512305.1,乘胜追击,Victorious Pursuit,仲間の鼓舞,승리의 맹공,乘勝追擊,Item.json (Type 6/Stype 41)
+Item.512306.1,循风勇气,Permeating Courage,立ち向かう勇気,바람을 따르는 용기,循風勇氣,Item.json (Type 6/Stype 41)
+Item.512309.1,和风拂面,Breeze Caress,そよ風の歌,부드러운 바람,和風拂面,Item.json (Type 6/Stype 41)
+Item.512310.1,顺风轮转,Smooth Rotation,追い風の助け,바람을 타는 소용돌이,順風輪轉,Item.json (Type 6/Stype 41)
+Item.512311.1,树大招风,Tall Tree Attracts Wind,隠れた才能,눈에 띄는 존재,樹大招風,Item.json (Type 6/Stype 41)
+Item.512312.1,风之股道,Wind's Track,風のしるべ,바람의 길,風之軌道,Item.json (Type 6/Stype 41)
+Item.512313.1,轻风踢踏,Zephyr Caress,春風の踊り,바람의 경쾌한 발길,輕風踢踏,Item.json (Type 6/Stype 41)
+Item.512321.1,坚风壁垒,Gale Bastion,強風の壁,견고한 바람 방벽,堅風壁壘,Item.json (Type 6/Stype 42)
+Item.512322.1,暖风加护,Warm Wind Guard,暖風の加護,따스한 바람의 가호,暖風加護,Item.json (Type 6/Stype 42)
+Item.512323.1,禁行逆风,Wind Banish,逆風抵抗,역풍의 억제,禁行逆風,Item.json (Type 6/Stype 42)
+Item.512324.1,顺风航路,Downwind Journey,順風満帆,순풍의 항해,順風航路,Item.json (Type 6/Stype 42)
+Item.512325.1,风压重缚,Burdening Pressure,風の束縛,강풍의 결박,風壓重縛,Item.json (Type 6/Stype 41)
+Item.512326.1,风门障壁,Windgate Barrier,風門の招き,바람 장벽,風門障壁,Item.json (Type 6/Stype 41)
+Item.512327.1,借力强速,Leveraged Boost,風速上昇,가속 강화,借力強速,Item.json (Type 6/Stype 41)
+Item.512328.1,流速紊乱,Turbulent Flow,乱気流,혼란스러운 흐름,流速紊亂,Item.json (Type 6/Stype 41)
+Item.512329.1,穿行提速,Speed Surge,風壁の賜物,가속 돌파,穿行提速,Item.json (Type 6/Stype 41)
+Item.512330.1,风蚀坏劫,Wind Erosion Havoc,風の重み,파멸의 질풍,風蝕壞劫,Item.json (Type 6/Stype 41)
+Item.512331.1,暴风斥退,Storm Repel,爆風の陣,폭풍 격퇴,暴風斥退,Item.json (Type 6/Stype 41)
+Item.512332.1,助推激流,Violent Current,お助け隊出動,조력의 급류,助推激流,Item.json (Type 6/Stype 41)
+Item.512333.1,森林公主的赐福,Forest Princess' Blessing,森の祝福,숲속 공주의 은총,森林公主的賜福,Item.json (Type 6/Stype 41)
+Item.512341.1,领主战吼,Overlord's Warcry,領主の遠吠え,보스의 포효,領主戰吼,Item.json (Type 6/Stype 41)
+Item.512342.1,山脉之吸,Mountain's Entice,山脈寄せ,산맥의 흡입,山脈之吸,Item.json (Type 6/Stype 41)
+Item.512343.1,噬能冲动,Impulsive Devourer,自然の援助,에너지 탐식,噬能衝動,Item.json (Type 6/Stype 41)
+Item.512501.1,冰雾屏障,Ice Mist Barrier,氷霧の守護,얼음 안개의 장막,冰霧屏障,Item.json (Type 6/Stype 42)
+Item.512502.1,急速裁决,Rapid Verdict,即断即決,신속한 심판,急速裁決,Item.json (Type 6/Stype 42)
+Item.512503.1,旋风狂潮,Whirlwind Frenzy,旋風狂雹,회오리 폭풍,旋風狂潮,Item.json (Type 6/Stype 42)
+Item.512505.1,末日祝福,Doomsday Blessing,名残雪の祝福,종말의 축복,末日祝福,Item.json (Type 6/Stype 41)
+Item.512506.1,元素升华,Elemental Sublimation,氷の昇華,원소 승화,元素昇華,Item.json (Type 6/Stype 41)
+Item.512507.1,灵魂萃取,Soul Extraction,衝動強化,영혼 추출,靈魂萃取,Item.json (Type 6/Stype 41)
+Item.512508.1,寒冰礼物,Frost Gift,砕氷の配達人,얼음의 선물,寒冰禮物,Item.json (Type 6/Stype 41)
+Item.512509.1,忘却极限,Limits of Oblivion,雪の忘れ物,극한 망각,忘卻極限,Item.json (Type 6/Stype 41)
+Item.512510.1,晶霜结界,Frost Ward,氷晶結界,서리 결계,晶霜結界,Item.json (Type 6/Stype 41)
+Item.512511.1,乘胜追击,Victorious Pursuit,理性爆発,승리의 맹공,乘勝追擊,Item.json (Type 6/Stype 41)
+Item.512512.1,针锋相对,Tit-for-Tat,寒波襲来,정면 승부,針鋒相對,Item.json (Type 6/Stype 41)
+Item.512513.1,绝地逆转,Desperate Counterattack,形勢逆転,절체절명의 역전,絕地逆轉,Item.json (Type 6/Stype 41)
+Item.512521.1,全境冰封,Realm of Frost,氷床展開,빙결 봉인,全境冰封,Item.json (Type 6/Stype 42)
+Item.512523.1,局部降雪,Localized Snowfall,極地降雪,부분 강설,局部降雪,Item.json (Type 6/Stype 42)
+Item.512524.1,霜冻警告,Frost Warning,霜害警告,서리의 경고,霜凍警告,Item.json (Type 6/Stype 42)
+Item.512525.1,凛冬之咬,Winter's Grip,厳冬の牙,혹한의 깨물기,凜冬之咬,Item.json (Type 6/Stype 41)
+Item.512526.1,蚀骨之寒,Penetrating Chill,絶対零度,뼈 시리는 추위,蝕骨之寒,Item.json (Type 6/Stype 41)
+Item.512527.1,爆裂零度,Crackling Zero,氷塊爆砕,영도 폭발,爆裂零度,Item.json (Type 6/Stype 41)
+Item.512528.1,法律之海,Ocean of Law,法律の氷原,법의 바다,法律之海,Item.json (Type 6/Stype 41)
+Item.512529.1,救赎之力,Power of Redemption,自己弁護,구원의 힘,救贖之力,Item.json (Type 6/Stype 41)
+Item.512530.1,信仰庇佑,Blessing of Faith,家門の力,신앙의 가호,信仰庇佑,Item.json (Type 6/Stype 41)
+Item.512531.1,守护之心,Guardian's Heart,弁護士の心,수호의 의지,守護之心,Item.json (Type 6/Stype 41)
+Item.512532.1,静默祈愿,Silent Prayer,密かな信念,침묵 속의 기도,靜默祈願,Item.json (Type 6/Stype 41)
+Item.512533.1,溯时复苏,Temporal Revival,前進的論証,시간 역행,溯時復甦,Item.json (Type 6/Stype 41)
+Item.512541.1,冰蚀漩涡,Ice Vortex,氷渦,얼음의 소용돌이,冰蝕漩渦,Item.json (Type 6/Stype 41)
+Item.512542.1,呼啸寒流,Wuthering Cold Snap,唸る寒流,휘몰아치는 한기,呼嘯寒流,Item.json (Type 6/Stype 41)
+Item.512543.1,凛霜立斩,Frost Slash,反証論破,서리의 참격,凜霜立斬,Item.json (Type 6/Stype 41)
+Item.512601.1,螺旋舞,Spiral Dance,螺旋の舞,나선 스핀,螺旋舞,Item.json (Type 6/Stype 42)
+Item.512602.1,片尾曲,Ending Song,最終ステージ,엔딩곡,片尾曲,Item.json (Type 6/Stype 42)
+Item.512603.1,协乐诗,Harmony Verse,協演の炎,기쁨의 시가,協樂詩,Item.json (Type 6/Stype 42)
+Item.512604.1,他人格,Other Self,分身マジック,또 다른 자아,多重人格,Item.json (Type 6/Stype 42)
+Item.512605.1,走位调度,Movement Artistry,ポジショニング,위치 조정,走位調度,Item.json (Type 6/Stype 41)
+Item.512606.1,观看心流,Perception of Psyche,反響観察,심연 관찰,觀看心流,Item.json (Type 6/Stype 41)
+Item.512607.1,荒诞闹剧,Absurd Follies,増殖マジック,황당한 소동,荒誕鬧劇,Item.json (Type 6/Stype 41)
+Item.512608.1,情感宣泄,Emotional Catharsis,読心マジック,감정 분출,情感宣洩,Item.json (Type 6/Stype 41)
+Item.512609.1,主人公光环,Hero's Halo,メインキャスト,주인공 버프,主角光環,Item.json (Type 6/Stype 41)
+Item.512610.1,契科夫之枪,Chekhov's Arm,イリュージョン,체호프의 총,契訶夫之槍,Item.json (Type 6/Stype 41)
+Item.512611.1,节奏加速,Rhythm Surge,フラリッシュ,리듬 가속,節奏加速,Item.json (Type 6/Stype 41)
+Item.512612.1,即兴演绎,Impromptu Performance,即興マジック,즉흥 연기,即興表演,Item.json (Type 6/Stype 41)
+Item.512613.1,主场压制,Home Court Dominance,観客掌握,전장의 지배자,主場壓制,Item.json (Type 6/Stype 41)
+Item.512624.1,余烬的火星,Spark of Ashes,灰燼・残炎,잿더미 속 불씨,餘燼的火星,Item.json (Type 6/Stype 42)
+Item.512625.1,伏笔验证,Foreshadowing Verification,トリック検証,복선 검증,伏筆驗證,Item.json (Type 6/Stype 41)
+Item.512626.1,群演效应,Crowd Effect,エキストラ効果,군중 효과,臨演效應,Item.json (Type 6/Stype 41)
+Item.512627.1,完美接戏,Perfect Acting,完璧なショー,완벽한 연계,完美接戲,Item.json (Type 6/Stype 41)
+Item.512628.1,视觉冲击,Visual Impact,クロースアップ,시각적 충격,視覺衝擊,Item.json (Type 6/Stype 41)
+Item.512629.1,印象强化,Reinforced Impression,イメージ強化,인상 강화,印象強化,Item.json (Type 6/Stype 41)
+Item.512630.1,片尾彩蛋,Post-credits Scene,熱狂フィナーレ,이스터 에그,片尾彩蛋,Item.json (Type 6/Stype 41)
+Item.512631.1,客串回,Guest Performer,客演ステージ,특별 출연,客串回,Item.json (Type 6/Stype 41)
+Item.512633.1,永不落幕的演出,Everlasting Show,魅惑のショー,끝없는 공연,永不落幕的演出,Item.json (Type 6/Stype 41)
+Item.512641.1,绝息热焰,Lethal Inferno,煌焔トリック,숨막히는 불꽃,絕息熱焰,Item.json (Type 6/Stype 41)
+Item.512642.1,诸蕴灭尽,Weave of Annihilation,煌焔バニッシュ,해탈의 깨달음,諸蘊滅盡,Item.json (Type 6/Stype 41)
+Item.512643.1,渡火轮回,Reincarnation of Fire,煌焔フォース,불길의 윤회,渡火輪迴,Item.json (Type 6/Stype 41)
+Item.512701.1,潺流·瀑击,Stream: Cascade Strike,飛水・爆撃,물결·폭포의 일격,潺流·瀑擊,Item.json (Type 6/Stype 42)
+Item.512702.1,潺流·真蓄斩击,Stream: True Charged Strike,飛水・溜力,물결·진축의 참격,潺流·真蓄斬擊,Item.json (Type 6/Stype 42)
+Item.512703.1,潺流·环雲,Stream: Cloud Ring,飛水・環雲,물결·휘감는 구름,潺流·環雲,Item.json (Type 6/Stype 42)
+Item.512704.1,潺流·滴水之覆,Stream: Drip's Overturn,飛水・加護,물결·덮치는 물방울,潺流·滴水之覆,Item.json (Type 6/Stype 42)
+Item.512705.1,魔剑重压,Magic Sword Smack,魔剣重圧,마검의 위압,魔劍重壓,Item.json (Type 6/Stype 41)
+Item.512706.1,浊噬,Muddy Engulf,大剣の傷痕,혼탁한 물결,濁噬,Item.json (Type 6/Stype 41)
+Item.512707.1,热诚,Cordiality,濁流の誘い,불타는 열정,熱誠,Item.json (Type 6/Stype 41)
+Item.512708.1,守卫赐福,Guardsman Blessing,護り人の祝福,수호의 은총,守衛賜福,Item.json (Type 6/Stype 41)
+Item.512709.1,魔剑汲能,Magic Sword Siphoning,吸魔大剣,마검의 에너지 흡수,魔劍汲能,Item.json (Type 6/Stype 41)
+Item.512710.1,再启,Restarting,魔盾召喚,재개하는 힘,再啟,Item.json (Type 6/Stype 41)
+Item.512711.1,魔盾强化,Magic Shield Enhancement,魔盾強化,마법 방패 강화,魔盾強化,Item.json (Type 6/Stype 41)
+Item.512712.1,蓄能打击,Power Strike,溜めの一撃,차징 일격,蓄能打擊,Item.json (Type 6/Stype 41)
+Item.512713.1,无可取代的牵绊,Unbreakable Bond,仲間との絆,대체불가한 인연,無可取代的牽絆,Item.json (Type 6/Stype 41)
+Item.512721.1,绝涌·不竭,Surge: Infinite,絶流・無限,끝없는 분출·무한,絕湧·不竭,Item.json (Type 6/Stype 42)
+Item.512722.1,绝涌·涟漪,Surge: Ripple,絶流・波紋,끝없는 분출·물결,絕湧·漣漪,Item.json (Type 6/Stype 42)
+Item.512726.1,再坚持下！,Hold On!,まだまだにゃ！,조금만 더 버텨!,再堅持一下！,Item.json (Type 6/Stype 41)
+Item.512727.1,我保护你！,I'll Protect You!,ウチが守るよ！,내가 지켜줄게!,我保護你！,Item.json (Type 6/Stype 41)
+Item.512728.1,不准靠近！,Stay Away!,近づくにゃ！,가까이 오지마!,不准靠近！,Item.json (Type 6/Stype 41)
+Item.512729.1,我来强化！,Let Me Help!,強化するにゃ！,내가 강화해 줄게!,我來強化！,Item.json (Type 6/Stype 41)
+Item.512731.1,创可贴收藏家,Band-aid Collector,絆創膏集め,반창고 수집가,OK繃收藏家,Item.json (Type 6/Stype 41)
+Item.512732.1,魔剑掌握者,Magic Sword Wielder,縁の下の力持ち,마검 지배자,魔劍掌握者,Item.json (Type 6/Stype 41)
+Item.512733.1,捷径寻路人,Shortcut Seeker,激流鼓舞,지름길의 행인,捷徑尋路人,Item.json (Type 6/Stype 41)
+Item.512741.1,绝浪之流,Wave Breaker,絶水渦流,끝없는 파도,絕浪之流,Item.json (Type 6/Stype 41)
+Item.512742.1,属性解放,Power Unbound,限界超越,속성 해방,屬性解放,Item.json (Type 6/Stype 41)
+Item.512743.1,魔性之噬,Demonic Devour,潮流魔剣,마성의 침식,魔性之噬,Item.json (Type 6/Stype 41)
+Item.513001.1,凝水成珠,Condensation Orbs,石穿つ雨垂れ,물방울의 결속,凝水成珠,Item.json (Type 6/Stype 42)
+Item.513004.1,泡泡落幕,Bubble Finale,呼び込み効果,방울의 끝,泡泡落幕,Item.json (Type 6/Stype 42)
+Item.513005.1,潮音回响,Tidal Echo,配達アドレナリン,파도의 메아리,潮音迴響,Item.json (Type 6/Stype 41)
+Item.513006.1,箭云落雨,Piercing Arrow Rain,戦う配達員,화살 폭우,箭雲祈雨,Item.json (Type 6/Stype 41)
+Item.513007.1,一箭碎霜,Rime Shatterer,シゴデキトーナ,서리를 가르는 화살,一箭碎霜,Item.json (Type 6/Stype 41)
+Item.513008.1,潮涌奔流,Surging Tide,キャンペーン拡大,몰아치는 파도,潮湧奔流,Item.json (Type 6/Stype 41)
+Item.513009.1,破风穿云,Cloud Piercer,パペット補修,바람을 가르는 일격,破風穿雲,Item.json (Type 6/Stype 41)
+Item.513010.1,雨幕朦胧,Hazy Curtain,トーナちゃんガード,흐린 비안개,雨幕朦朧,Item.json (Type 6/Stype 41)
+Item.513012.1,静海凝神,Serene Sea Trance,集中タイム,고요한 바다,靜海凝神,Item.json (Type 6/Stype 41)
+Item.513013.1,潮印共振,Tidal Mark Resonance,水流のシナジー,파도 각인의 공명,潮印共振,Item.json (Type 6/Stype 41)
+Item.513021.1,离弦之箭,Unleashed Arrow,オマケの一矢,시위를 떠난 화살,離弦之箭,Item.json (Type 6/Stype 42)
+Item.513022.1,残矢清算,Arrowfall Reckoning,お届けターゲット,남겨진 화살의 매듭,殘矢清算,Item.json (Type 6/Stype 42)
+Item.513023.1,逐浪连弦,Wave-Chasing String,パワフルシュート,파도를 쫓는 활시위,逐浪連弦,Item.json (Type 6/Stype 42)
+Item.513024.1,流矢放逐,Stray Arrow,追撃サービス,추방의 화살,流矢放逐,Item.json (Type 6/Stype 42)
+Item.513025.1,箭矢追击,Arrow Pursuit,追い打ち配達,화살의 추격,箭矢追擊,Item.json (Type 6/Stype 41)
+Item.513026.1,凝霜箭寒,Frostbitten Arrow,活路の一矢,서리 맺힌 화살,凝霜箭寒,Item.json (Type 6/Stype 41)
+Item.513027.1,百步穿杨,Dead Shot,手紙の守護者,백발백중,百步穿楊,Item.json (Type 6/Stype 41)
+Item.513028.1,尾浪扑岸,Coast Crusher,ビッグウェーブ,마지막 파도,尾浪撲岸,Item.json (Type 6/Stype 41)
+Item.513029.1,水行攻涨,Aquatic Assault,配達ノルマ,거세지는 물길,水行攻漲,Item.json (Type 6/Stype 41)
+Item.513030.1,寒潮起势,Chilling Onslaught,初回サービス,차가운 파동의 전조,寒潮起勢,Item.json (Type 6/Stype 41)
+Item.513031.1,飞矢传信,Messenger Arrow,支援デリバリー,전언의 화살,飛矢傳信,Item.json (Type 6/Stype 41)
+Item.513032.1,水波共鸣,Wave Resonance,トーミナの祝福,파동의 울림,水波共鳴,Item.json (Type 6/Stype 41)
+Item.513033.1,波纹涟漪,Water Ripple,リーダーのカリスマ,잔잔한 물결,波紋漣漪,Item.json (Type 6/Stype 41)
+Item.513041.1,潮汐翻涌,Rushing Tide,幸運の弓,굽이치는 파도,潮汐翻湧,Item.json (Type 6/Stype 41)
+Item.513042.1,覆流侵蚀,Corrosive Torrent,トーミナの愛,물줄기의 침식,覆流侵蝕,Item.json (Type 6/Stype 41)
+Item.513202.1,街斗艺术,Clan Clash Artistry,爆走準備,스트리트 파이트,街鬥藝術,Item.json (Type 6/Stype 42)
+Item.513203.1,板尖妙用,Board Tricks,フルスイング,끄트머리 사용법,板尖妙用,Item.json (Type 6/Stype 42)
+Item.513204.1,不予喘息,No Respite,連続打撃,연속 공격,不予喘息,Item.json (Type 6/Stype 42)
+Item.513205.1,灰风节拍,Ashwind Rhythm,灰色の街の光,윈드 애시 리듬,灰風節拍,Item.json (Type 6/Stype 41)
+Item.513206.1,愈战愈强,Unyielding Strength,闘魂躍進,전투의 승화,越戰越強,Item.json (Type 6/Stype 41)
+Item.513207.1,手感火热,On a Roll,気焔万丈,짜릿한 손맛,手感火熱,Item.json (Type 6/Stype 41)
+Item.513208.1,耀目辉芒,Radiant Glow,光輝炸裂,눈 부신 광휘,耀目輝芒,Item.json (Type 6/Stype 41)
+Item.513209.1,光印灼痕,Light Burn,光印の加護,빛에 그을린 흔적,光印灼痕,Item.json (Type 6/Stype 41)
+Item.513210.1,星云残响,Nebulous Reverb,星雲の誓い,성운의 메아리,星雲殘響,Item.json (Type 6/Stype 41)
+Item.513211.1,不止好看而已,More Than Just Pretty,真の実力者,보이는 게 다가 아냐,不只好看而已,Item.json (Type 6/Stype 41)
+Item.513212.1,主场作战优势,Home Court Advantage,ホームの強み,홈 어드밴티지,主場作戰優勢,Item.json (Type 6/Stype 41)
+Item.513213.1,划过夜空之星,Starlit Sky,流星の打者,별빛 하늘을 가르며,劃過夜空之星,Item.json (Type 6/Stype 41)
+Item.513221.1,四星通缉,Four-Star Wanted Level,総長の名声,4성 수배,四星通緝,Item.json (Type 6/Stype 42)
+Item.513222.1,闪耀爆裂,Radiant Burst,閃光爆裂,섬광 폭발,閃耀爆裂,Item.json (Type 6/Stype 42)
+Item.513223.1,誓盟卫星,Oath Satellite,流星の守り,수호의 별빛,誓盟衛星,Item.json (Type 6/Stype 42)
+Item.513224.1,星核碎裂,Star Core Crumbled,流星の欠片,성핵 폭발,星核碎裂,Item.json (Type 6/Stype 42)
+Item.513225.1,好球区域,Optimal Hit Zone,ミートエリア,완벽한 타격 지점,好球區域,Item.json (Type 6/Stype 41)
+Item.513226.1,完封欲望,Shutout Desire,完封欲求,욕망의 봉쇄,完封慾望,Item.json (Type 6/Stype 41)
+Item.513227.1,终局得分,Final Score,最終得点,클러치 득점,終局得分,Item.json (Type 6/Stype 41)
+Item.513228.1,完美弧度,Perfect Arc,ジャストミート,완벽한 포물선,完美弧度,Item.json (Type 6/Stype 41)
+Item.513229.1,三垒打,Three Base Hit,三塁打,삼루타,三壘安打,Item.json (Type 6/Stype 41)
+Item.513230.1,大喝彩,Fervent Applause,大喝采,엄청난 환호,大喝采,Item.json (Type 6/Stype 41)
+Item.513231.1,你惹上灰风了,Ashwind's Wrath,縄張り争い,윈드 애시를 건드렸어,你惹到灰風了,Item.json (Type 6/Stype 41)
+Item.513232.1,全垒打状态,Home Run State,ホームラン予告,홈런 상태,全壘打狀態,Item.json (Type 6/Stype 41)
+Item.513233.1,辉光连携,Radiant Synergy,輝光の連携,빛의 연계,輝光連攜,Item.json (Type 6/Stype 41)
+Item.513241.1,紧急增员,Urgent Reinforcement,緊急増員,긴급 증원,緊急增員,Item.json (Type 6/Stype 41)
+Item.513242.1,星光乍现,Flash of Starlight,星光登場,번쩍이는 별빛,星光乍現,Item.json (Type 6/Stype 41)
+Item.513243.1,弱点直击,Weakness Strike,弱点直撃,약점 직격타,弱點直擊,Item.json (Type 6/Stype 41)
+Item.513303.1,劲风利矢,Fierce Arrow,追い風の加護,강풍의 화살,勁風利矢,Item.json (Type 6/Stype 42)
+Item.513304.1,螺旋风涡,Spiral Vortex,旋風繚乱,나선 회오리,螺旋風渦,Item.json (Type 6/Stype 42)
+Item.513306.1,强风庇佑,Gale Shield,風刃の加護,강풍의 가호,強風庇佑,Item.json (Type 6/Stype 41)
+Item.513307.1,疾风劲草,Unyielding Leaves,残香の風,질풍경초,疾風勁草,Item.json (Type 6/Stype 41)
+Item.513308.1,御风强化,Gale's Might,薫風乱舞,바람의 지배자,御風強化,Item.json (Type 6/Stype 41)
+Item.513309.1,覆风翻云,Storm Overturned,風陣展開,풍운전환,覆風翻雲,Item.json (Type 6/Stype 41)
+Item.513310.1,风息咏唱,Whisper of Wind,凪の誘い,풍식의 주문,風息詠唱,Item.json (Type 6/Stype 41)
+Item.513311.1,精密操作,Precision Control,千華万風,정밀 조작,精密操作,Item.json (Type 6/Stype 41)
+Item.513312.1,狂风凋零,Gale Fading,狂嵐の華,광풍의 끝자락,狂風凋零,Item.json (Type 6/Stype 41)
+Item.513322.1,芳华·追猎,Youth: Hunting,花びらの舞,향기로운 꽃·추격,芳華·追獵,Item.json (Type 6/Stype 42)
+Item.513323.1,花海·叠浪,Flower Formation: Waves,花の海・凪,꽃의 바다·파도의 물결,花海·疊浪,Item.json (Type 6/Stype 42)
+Item.513324.1,花海·汹涌,Flower Formation: Turbulent,花の海・逆波,꽃의 바다·거센 파도,花海·洶湧,Item.json (Type 6/Stype 42)
+Item.513325.1,芳华·破绽,Youth: Weakness,散華の哀しみ,향기로운 꽃·빈틈,芳華·破綻,Item.json (Type 6/Stype 41)
+Item.513326.1,芳华·灭尽,Youth: Annihilation,散華の怒り,향기로운 꽃·소멸,芳華·滅盡,Item.json (Type 6/Stype 41)
+Item.513327.1,芳华·盛放,Youth: Blooming,散華の歓び,향기로운 꽃·만개,芳華·盛放,Item.json (Type 6/Stype 41)
+Item.513328.1,花海·荟聚,Flower Formation: Convergence,花の海・さざ波,꽃의 바다·결속,花海·薈萃,Item.json (Type 6/Stype 41)
+Item.513329.1,花海·侵蚀,Flower Formation: Erosion,花の海・波紋,꽃의 바다·침식,花海·侵蝕,Item.json (Type 6/Stype 41)
+Item.513330.1,花海·爆裂,Flower Formation: Blast,花の海・怒涛,꽃의 바다·폭열,花海·爆裂,Item.json (Type 6/Stype 41)
+Item.513331.1,风魔种子,Wind Demon Seed,玉風の加護,바람 악마의 씨앗,風魔種子,Item.json (Type 6/Stype 41)
+Item.513332.1,自我提升,Self-Improvement,花嵐の加護,자기 업그레이드,自我提升,Item.json (Type 6/Stype 41)
+Item.513333.1,全能领导,Almighty Leader,嵐の目,전능한 지도자,全能領導,Item.json (Type 6/Stype 41)
+Item.513341.1,多重飓风,Multi-Hurricane,かまいたちの舞,다중 토네이도,多重颶風,Item.json (Type 6/Stype 41)
+Item.513342.1,风神加护,Aeolus's Blessing,禊の風,바람 신의 가호,風神加護,Item.json (Type 6/Stype 41)
+Item.513343.1,龙卷涡流,Maelstrom,一陣の雄風,토네이도 소용돌이,龍捲渦流,Item.json (Type 6/Stype 41)
+Item.513402.1,二连打,Double Strike,延焼パンチ,2연타,二連擊,Item.json (Type 6/Stype 42)
+Item.513404.1,多发弹,Multi-Shot,焔の構え,다중 사격,多發彈,Item.json (Type 6/Stype 42)
+Item.513406.1,重拳轰鸣,Thunder Punch,ブレイズナックル,강력 펀치의 울림,重拳轟鳴,Item.json (Type 6/Stype 41)
+Item.513407.1,全力以赴,All-Out Effort,烈火の覚悟,전심전력,全力以赴,Item.json (Type 6/Stype 41)
+Item.513409.1,爆裂追击,Blast Chase,追撃ファイヤー,폭열 추격,爆裂追擊,Item.json (Type 6/Stype 41)
+Item.513410.1,铁拳蓄势,Inertial Punch,ラヴァチャージ,철권 차징,鐵拳蓄勢,Item.json (Type 6/Stype 41)
+Item.513411.1,回旋反击,Swirling Counterattack,イグニッション,회전 반격,迴旋反擊,Item.json (Type 6/Stype 41)
+Item.513412.1,勇猛挑战,Bold Challenge,勇猛火敢,용맹한 도전,勇猛挑戰,Item.json (Type 6/Stype 41)
+Item.513413.1,终结打击,Finishing Blow,紅蓮のトドメ,마지막 일격,終結打擊,Item.json (Type 6/Stype 41)
+Item.513421.1,碎空,Sky Crusher,ヘビーアタック,쇄공,碎空,Item.json (Type 6/Stype 42)
+Item.513422.1,裂闪,Lightning Split,爆裂火花,열섬,裂閃,Item.json (Type 6/Stype 42)
+Item.513423.1,流星,Meteor Strike,バーストフレア,유성,流星,Item.json (Type 6/Stype 42)
+Item.513424.1,无畏,Fearless,閃火の心,무외,無畏,Item.json (Type 6/Stype 42)
+Item.513425.1,狂热支援,Frenzied Support,熱烈エール,광열의 지원,狂熱支援,Item.json (Type 6/Stype 41)
+Item.513427.1,蓄势待发,Momentum Primed,スキルウォーマー,힘의 폭발 준비,蓄勢待發,Item.json (Type 6/Stype 41)
+Item.513428.1,多重冲击,Multi-Blow Impact,サポートコンボ,다중 충격,多重衝擊,Item.json (Type 6/Stype 41)
+Item.513429.1,致命增幅,Lethal Boost,ヒートアップ,치명적인 증폭,致命增幅,Item.json (Type 6/Stype 41)
+Item.513430.1,闪电突袭,Lightning Raid,ナックルラッシュ,전광석화,閃電突襲,Item.json (Type 6/Stype 41)
+Item.513431.1,勇者的意志,Hero's Will,勇者の闘志,용자의 의지,勇者的意志,Item.json (Type 6/Stype 41)
+Item.513432.1,强者的证明,Prove of Strength,才焔の証,강자의 증명,強者的證明,Item.json (Type 6/Stype 41)
+Item.513433.1,伙伴的力量,Companions' Power,仲間の力,동료의 힘,夥伴的力量,Item.json (Type 6/Stype 41)
+Item.513441.1,炽热之心,Blazing Heart,灼熱ハート,불타는 마음,熾熱之心,Item.json (Type 6/Stype 41)
+Item.513442.1,铁拳如风,Ironfist Blow,業火の鉄拳,바람을 가르는 철권,鐵拳如風,Item.json (Type 6/Stype 41)
+Item.513443.1,巅峰状态,Peak Performance,レイジングソウル,최고의 상태,巔峰狀態,Item.json (Type 6/Stype 41)
+Item.513501.1,删前顽抗,Defiance Before Deletion,連続撮影,삭제 전의 저항,刪前頑抗,Item.json (Type 6/Stype 42)
+Item.513502.1,瞬时连拍,Burst Shooting,削除への抵抗,연속 촬영,瞬時連拍,Item.json (Type 6/Stype 42)
+Item.513503.1,超长曝光,Extended Exposure,助手との連携,장노출,超長曝光,Item.json (Type 6/Stype 42)
+Item.513504.1,见缝插针,Thread the Needle,スクープ激写,순간 포착,見縫插針,Item.json (Type 6/Stype 42)
+Item.513505.1,厄咒啸叫,Cursed Screech,削除への呪言,저주의 울부짖음,厄咒嘯叫,Item.json (Type 6/Stype 41)
+Item.513506.1,遗怨·魔障,Lingering Grudge: Demon Barrier,削除への対策,원념·악마의 시험,遺怨·魔障,Item.json (Type 6/Stype 41)
+Item.513507.1,遗怨·强攻,Lingering Grudge: Onslaught,削除からの復活,원념·강력 공격,遺怨·強攻,Item.json (Type 6/Stype 41)
+Item.513508.1,憎恶痛溃,Abominable Fester,真実への執念,증오의 폭발,憎惡痛潰,Item.json (Type 6/Stype 41)
+Item.513509.1,表现欲望,Spotlight Craving,表現欲求,드러내는 욕망,表現慾望,Item.json (Type 6/Stype 41)
+Item.513510.1,夜幕疾走,Night Dash,夜間疾走,어둠 속 질주,夜幕疾走,Item.json (Type 6/Stype 41)
+Item.513511.1,负曝光补偿,Shadow Brightening,露出補正,네거티브 노출 보정,負曝光補償,Item.json (Type 6/Stype 41)
+Item.513512.1,决定性瞬间,Decisive Moment,ベストショット,결정적 순간,決定性瞬間,Item.json (Type 6/Stype 41)
+Item.513513.1,全画幅对焦,Full Frame Focus,自動焦点調整,풀 프레임 자동 초점,全片幅對焦,Item.json (Type 6/Stype 41)
+Item.513521.1,笑口常开,Happy Face,魔女の微笑み,기쁨의 미소,笑口常開,Item.json (Type 6/Stype 42)
+Item.513524.1,幸运体质,Lucky Constitution,幸運体質,행운의 체질,幸運體質,Item.json (Type 6/Stype 42)
+Item.513526.1,凶灵,Wraith Haunting,助手の成長,흉령,凶靈,Item.json (Type 6/Stype 41)
+Item.513527.1,双生,Twin Born,助手の増員,쌍생,雙生,Item.json (Type 6/Stype 41)
+Item.513529.1,缚影,Shadow Shackle,新ネタへの執着,그림자의 구속,縛影,Item.json (Type 6/Stype 41)
+Item.513530.1,汲阳,Solar Absorption,ターゲティング,긍정의 힘,汲陽,Item.json (Type 6/Stype 41)
+Item.513531.1,额外福利,Extra Perk,追加取材,추가 복지,額外福利,Item.json (Type 6/Stype 41)
+Item.513532.1,热点锁定,Trending Lock,魔女の詮索眼,적외선 열화상,熱點鎖定,Item.json (Type 6/Stype 41)
+Item.513533.1,幕后工作,Behind the Scenes,暗躍者,배후 작업,幕後工作,Item.json (Type 6/Stype 41)
+Item.513541.1,强暗吞噬,Darkness Devourer,全力取材,강력한 어둠의 탐식,強暗吞噬,Item.json (Type 6/Stype 41)
+Item.513542.1,加速入夜,Quick Nightfall,真実の断片,어둠의 빠른 도래,加速入夜,Item.json (Type 6/Stype 41)
+Item.513543.1,混沌狂潮,Chaos Frenzy,ゴシップ発見,광란의 혼돈,混沌狂潮,Item.json (Type 6/Stype 41)
+Item.513701.1,战术协议：阈值,Tactical Protocol: Threshold,令嬢戦術：開花,전술 프로토콜: 임계,戰術協議：閾值,Item.json (Type 6/Stype 42)
+Item.513702.1,战术协议：爆破,Tactical Protocol: Detonation,令嬢戦術：爆花,전술 프로토콜: 폭파,戰術協議：爆破,Item.json (Type 6/Stype 42)
+Item.513703.1,战术协议：过载,Tactical Protocol: Overload,令嬢戦術：閃花,전술 프로토콜: 과부하,戰術協議：超載,Item.json (Type 6/Stype 42)
+Item.513704.1,战术协议：协同,Tactical Protocol: Synergy,令嬢戦術：嵐花,전술 프로토콜: 협동,戰術協議：協同,Item.json (Type 6/Stype 42)
+Item.513705.1,二重裂痕,Double Rifts,レディ・ブレイク,이중 균열,二重裂痕,Item.json (Type 6/Stype 41)
+Item.513706.1,战意激增,Battle Fury,ライジングハート,전의 급증,戰意激增,Item.json (Type 6/Stype 41)
+Item.513707.1,涡流增效,Vortex Boost,フローラルストーム,소용돌이 증폭,渦流增效,Item.json (Type 6/Stype 41)
+Item.513708.1,广域散射,Area Volley,ワイドブルーム,광범위 산탄,廣域散射,Item.json (Type 6/Stype 41)
+Item.513709.1,区域感知,Zone Detection,令嬢の覚悟,구역 감지,區域感知,Item.json (Type 6/Stype 41)
+Item.513710.1,链路反馈,Chain Echo,優雅たる心,연결 피드백,連鎖回饋,Item.json (Type 6/Stype 41)
+Item.513711.1,歼灭脉冲,Annihilation Pulse,お転婆令嬢,섬멸 펄스,殲滅脈衝,Item.json (Type 6/Stype 41)
+Item.513712.1,闪烁序列,Flicker Sequence,風のステップ,반짝임 서열,閃爍序列,Item.json (Type 6/Stype 41)
+Item.513713.1,风灵链接,Wind Bond,冒険の風,바람 정령의 연결,風靈連結,Item.json (Type 6/Stype 41)
+Item.513721.1,连锁引爆,Chain Detonation,ペイントバースト,연쇄 폭발,連鎖引爆,Item.json (Type 6/Stype 42)
+Item.513722.1,震源扩张,Seismic Spread,キャンバス拡張,진원 확장,震源擴張,Item.json (Type 6/Stype 42)
+Item.513723.1,机能续航,Function Sustain,ブルーミングタイム,기능 지속,機能續航,Item.json (Type 6/Stype 42)
+Item.513724.1,集群速射,Cluster Barrage,追撃ガード,집중 속사,集群速射,Item.json (Type 6/Stype 42)
+Item.513725.1,力场牵引,Field Pull,冒険の彩り,역장 견인,力場牽引,Item.json (Type 6/Stype 41)
+Item.513726.1,动力增压,Power Boost,貴族のカリスマ,동력 증압,動力增壓,Item.json (Type 6/Stype 41)
+Item.513727.1,破阵重击,Shattering Blow,パワフルお嬢様,파괴적인 타격,破陣重擊,Item.json (Type 6/Stype 41)
+Item.513728.1,贯穿弹道,Piercing Trajectory,神器転換,관통 탄도,貫穿彈道,Item.json (Type 6/Stype 41)
+Item.513729.1,压制解析,Suppression Analysis,審美眼,제압 분석,壓制解析,Item.json (Type 6/Stype 41)
+Item.513730.1,精密校准,Precision Calibration,エスコートダンス,정밀 영점 조절,精密校準,Item.json (Type 6/Stype 41)
+Item.513731.1,风灵谐振,Wind Resonance,貴族のつとめ,바람 정령의 공명,風靈諧振,Item.json (Type 6/Stype 41)
+Item.513732.1,歼灭余响,Annihilation Echo,お嬢様の本気,섬멸의 잔향,殲滅餘響,Item.json (Type 6/Stype 41)
+Item.513733.1,战力增幅,Power Amp,リーダーの片鱗,전투력 증폭,戰力增幅,Item.json (Type 6/Stype 41)
+Item.513741.1,增援指令,Reinforcement Command,才能開花,증원 명령,增援指令,Item.json (Type 6/Stype 41)
+Item.513742.1,肃清指令,Purge Command,令嬢のたしなみ,숙청 명령,肅清指令,Item.json (Type 6/Stype 41)
+Item.513743.1,集中指令,Focus Command,アドマイアレディ,집중 명령,集中指令,Item.json (Type 6/Stype 41)
+Item.514003.1,布偶重膛,Fluffy Rechamber,ラビットボマー,인형의 묵직한 총성,布偶重膛,Item.json (Type 6/Stype 42)
+Item.514004.1,柔光溢射,Neo Radiance Burst,ムーナリロード,무나 오버플로우,柔光溢射,Item.json (Type 6/Stype 42)
+Item.514005.1,聚跃极射,Leap Barrage,アリシアの大冒険,집중 사격,聚躍極射,Item.json (Type 6/Stype 41)
+Item.514006.1,浮轨伴射,Hover-Rail Volley,空飛ぶ少年,부유 궤도 사격,浮軌伴射,Item.json (Type 6/Stype 41)
+Item.514007.1,齿轮叩契,Clockwork Resonance,ひらめきの連鎖,톱니바퀴의 맞물림,齒輪叩契,Item.json (Type 6/Stype 41)
+Item.514009.1,滴答余响,Ticking Aftershock,かわいさ爆発,째깍 잔향,滴答餘響,Item.json (Type 6/Stype 41)
+Item.514010.1,以静制动,Static Strike,マイペースガード,부동의 위엄,以靜制動,Item.json (Type 6/Stype 41)
+Item.514011.1,集束余韵,Harmonic Barrage,ラボラビの本気,집중 폭격의 끝맛,集束餘韻,Item.json (Type 6/Stype 41)
+Item.514012.1,绒步循影,Velvet Prowl,ガラスの靴の魔法,래빗 스텝,絨步循影,Item.json (Type 6/Stype 41)
+Item.514013.1,阔镜聚华,Prism Convergence,緑の街の魔法使い,유리에 모인 빛,闊鏡聚華,Item.json (Type 6/Stype 41)
+Item.514021.1,背兔鸣火,Bunny Backfire,ラボラビファイア,토끼의 폭발,背兔鳴火,Item.json (Type 6/Stype 42)
+Item.514022.1,轮辙援护,Rolling Support,ラボラビチャージ,휠체어의 엄호,輪轍援護,Item.json (Type 6/Stype 42)
+Item.514023.1,火力援护,Covering Fire,アフターサービス,화력 지원,火力援護,Item.json (Type 6/Stype 42)
+Item.514024.1,火力投射,Incendiary Volley,創造の力,화력 포격,火力投射,Item.json (Type 6/Stype 42)
+Item.514026.1,协兔爆发,Bunny Blitz,冒険のときめき,토끼 협동 폭발,協兔爆發,Item.json (Type 6/Stype 41)
+Item.514028.1,兔兔弹强化,Bunny Munitions Boost,弾丸アップデート,토끼탄 강화,兔兔彈強化,Item.json (Type 6/Stype 41)
+Item.514029.1,兔子的钟表,Rabbit's Watch,白ウサギの時計,토끼의 시계,兔子的鐘錶,Item.json (Type 6/Stype 41)
+Item.514030.1,膛压渐升,Pressure Surge,圧力上昇中,압력 상승,膛壓漸升,Item.json (Type 6/Stype 41)
+Item.514031.1,工匠的自傲,Artisan's Pride,発明家のプライド,장인의 자부심,工匠的自傲,Item.json (Type 6/Stype 41)
+Item.514032.1,以天才之名,Prodigy's Oath,無限のアイデア,천재의 이름으로,以天才之名,Item.json (Type 6/Stype 41)
+Item.514033.1,超频运转,Max Overclock,オーバークロック,과부하 가동,超頻運轉,Item.json (Type 6/Stype 41)
+Item.514041.1,溶剂支援,Solution Support,ムーナパーティー,용액의 도움,溶劑支援,Item.json (Type 6/Stype 41)
+Item.514042.1,奇境跃壤,Wonderland Bound,メルヘンワールド,기묘한 땅,奇境躍壤,Item.json (Type 6/Stype 41)
+Item.514043.1,跃印终章,Leap of Finale,エバーアフター,종결의 낙인,躍印終章,Item.json (Type 6/Stype 41)
+Item.514103.1,焰染墨痕,Flame-Stained Ink,墨染めの焔,먹에 스며든 불꽃,焰染墨痕,Item.json (Type 6/Stype 42)
+Item.514105.1,烈焰毒蚀,Blistering Flame Corrosion,封燃の刻印,열독의 각인,烈焰毒蝕,Item.json (Type 6/Stype 41)
+Item.514106.1,火池遗烬,Ashes of the Firepit,怨火の遺灰,불꽃 연못의 잔재,火池遺燼,Item.json (Type 6/Stype 41)
+Item.514107.1,火焰共鸣,Flame Resonance,共鳴の継ぎ火,화염 공명,火焰共鳴,Item.json (Type 6/Stype 41)
+Item.514108.1,炽焰墨印,Scorching Ink,焔印の墨痕,거센 불길의 표식,熾焰墨印,Item.json (Type 6/Stype 41)
+Item.514109.1,火墨点矩,Flame-Ink Matrix,墨焔の憑刻,불의 먹점,火墨點矩,Item.json (Type 6/Stype 41)
+Item.514110.1,火幕余灰,Infernal Ember,焔煙の布陣,화염 장막의 잔해,火幕餘灰,Item.json (Type 6/Stype 41)
+Item.514112.1,画龙点睛,Finishing Touch,画龍の極致,화룡점정,畫龍點睛,Item.json (Type 6/Stype 41)
+Item.514113.1,墨韵生辉,Ink Brilliance,漆墨の調べ,먹의 색채,墨韻生輝,Item.json (Type 6/Stype 41)
+Item.514121.1,赤龙·游聚,Crimson Dragon: Convergence,赤龍・遊昇,붉은 용·유영,赤龍·遊聚,Item.json (Type 6/Stype 42)
+Item.514122.1,赤龙·长吟,Crimson Dragon: Chant,赤龍・長吟,붉은 용·장음,赤龍·長吟,Item.json (Type 6/Stype 42)
+Item.514123.1,符启·寅虎,Sigil Unleashed: Tiger of the East,護符・虎の巻,부적·인호,符啟·寅虎,Item.json (Type 6/Stype 42)
+Item.514124.1,寅虎·炽鳞,Tiger of the East: Blazing Scales,豪虎・灼燐,인호·화염 비늘,寅虎·熾鱗,Item.json (Type 6/Stype 42)
+Item.514125.1,墨符·角哨,Ink Sigil: Horn Call,墨符・轟く角笛,묵부·뿔피리,墨符·角哨,Item.json (Type 6/Stype 41)
+Item.514126.1,墨符·寻踪,Ink Sigil: Trail Seeker,墨符・残火,묵부·추적,墨符·尋蹤,Item.json (Type 6/Stype 41)
+Item.514127.1,墨符·筑界,Ink Sigil: Barrier Construct,墨符・鼓舞の陣,묵부·결계,墨符·築界,Item.json (Type 6/Stype 41)
+Item.514128.1,墨符·血饲,Ink Sigil: Blood Fed,墨符・赤の儀炎,묵부·피의 제물,墨符·血飼,Item.json (Type 6/Stype 41)
+Item.514129.1,墨符·伏击,Ink Sigil: Ambush,墨符・延焼,묵부·매복,墨符·伏擊,Item.json (Type 6/Stype 41)
+Item.514130.1,墨符·奇袭,Ink Sigil: Raid,墨符・仇襲,묵부·기습,墨符·奇襲,Item.json (Type 6/Stype 41)
+Item.514131.1,龙骧虎步,Majestic Stride,龍飛虎這,용호기상,龍驤虎步,Item.json (Type 6/Stype 41)
+Item.514132.1,烈焰祝祷,Prayer of Raging Flame,赫炎の誓い,불꽃의 기원,烈焰祝禱,Item.json (Type 6/Stype 41)
+Item.514133.1,符启·焰光,Sigil Unleashed: Flame Glow,符始・尭炎,부적·불꽃,符啟·焰光,Item.json (Type 6/Stype 41)
+Item.514141.1,炽焰龙霄,Dragon Blaze,炎龍天翔,거센 불길의 용,熾焰龍霄,Item.json (Type 6/Stype 41)
+Item.514142.1,烈焰龙卷,Blazing Vortex,猛り狂う焔龍,불꽃 선풍,烈焰龍捲,Item.json (Type 6/Stype 41)
+Item.514143.1,炎龙吐息,Dragon Breath,炎龍の契,화염용의 숨결,炎龍吐息,Item.json (Type 6/Stype 41)
+Item.514201.1,幽冥撕裂,Nocturn Rip,幽冥の裁断,어둠의 찢기,幽冥撕裂,Item.json (Type 6/Stype 42)
+Item.514202.1,夜痕刻影,Nightscar Trace,闇影の爪痕,어둠의 흔적,夜痕刻影,Item.json (Type 6/Stype 42)
+Item.514203.1,冥界之触,Netherworld Touch,冥界への誘い,저승의 손길,冥界之觸,Item.json (Type 6/Stype 42)
+Item.514204.1,幽冥烙印,Nocturn Mark,幽闇の烙印,어둠의 낙인,幽冥烙印,Item.json (Type 6/Stype 42)
+Item.514205.1,暗爪触魂,Darkclaw Haunt,闇爪斬魂,영혼의 어둠 발톱,暗爪觸魂,Item.json (Type 6/Stype 41)
+Item.514206.1,暗爪符记,Darkclaw Mark,闇爪鼓舞,각인의 어둠 발톱,暗爪符號,Item.json (Type 6/Stype 41)
+Item.514207.1,暗爪镌影,Darkclaw Etch,闇爪刻影,그림자의 어둠 발톱,暗爪鐫影,Item.json (Type 6/Stype 41)
+Item.514208.1,夜影祝福,Twilight Wish,夜闇の祝福,어둠의 축복,夜影祝福,Item.json (Type 6/Stype 41)
+Item.514209.1,夜影侵袭,Nightshadow Invasion,夜闇の襲撃,어둠의 침습,夜影侵襲,Item.json (Type 6/Stype 41)
+Item.514210.1,夜影掠幕,Nightshadow Veil,夜闇の守護,어둠의 그림자 폭풍,夜影掠幕,Item.json (Type 6/Stype 41)
+Item.514211.1,影闪赋夜,Shadowflash Enigma,閃影・補,그림자의 섬광,影閃賦夜,Item.json (Type 6/Stype 41)
+Item.514212.1,影闪随行,Shadowflash Companion,閃影・攻,그림자의 동행,影閃隨行,Item.json (Type 6/Stype 41)
+Item.514213.1,星痕幽冥,Starmark Nether,烙印の導き,저승 속의 성흔,星痕幽冥,Item.json (Type 6/Stype 41)
+Item.514221.1,深渊之痕,Abyssal Mark,深淵の一閃,심연의 흔적,深淵之痕,Item.json (Type 6/Stype 42)
+Item.514222.1,无光落印,Eclipse Imprint,深淵の証,어둠의 낙인,無光落印,Item.json (Type 6/Stype 42)
+Item.514223.1,残影印记,Phantom Mark,残影の印,잔영 표식,殘影印記,Item.json (Type 6/Stype 42)
+Item.514224.1,残影刻痕,Phantom Inscription,残影の傷痕,잔영 각인,殘影刻痕,Item.json (Type 6/Stype 42)
+Item.514225.1,暗·魔痕,Dark: Demon Mark,暗・魔痕,어둠·마의 흔적,暗·魔痕,Item.json (Type 6/Stype 41)
+Item.514226.1,暗·蜃影,Dark: Mirage,暗・陰影,어둠·신기루,暗·蜃影,Item.json (Type 6/Stype 41)
+Item.514227.1,暗·生息,Dark: Vitality,暗・増幅,어둠·생명,暗·生息,Item.json (Type 6/Stype 41)
+Item.514228.1,暗·迷幻,Dark: Hallucination,暗・迷幻,어둠·환상,暗·迷幻,Item.json (Type 6/Stype 41)
+Item.514229.1,暗·破形,Dark: Form Breaker,暗・破壊,어둠·형상 파괴,暗·破形,Item.json (Type 6/Stype 41)
+Item.514230.1,暗·余辉,Dark: Afterglow,暗・残光,어둠·여휘,暗·餘暉,Item.json (Type 6/Stype 41)
+Item.514231.1,虚空祝福,Void Blessing,幽暗の祝福,허공의 축복,虛空祝福,Item.json (Type 6/Stype 41)
+Item.514232.1,魅影庇护,Phantom Shelter,迅影の加護,그림자의 가호,魅影庇護,Item.json (Type 6/Stype 41)
+Item.514233.1,黑暗之赐,Gift of Darkness,冥府の賜物,어둠의 은총,黑暗之賜,Item.json (Type 6/Stype 41)
+Item.514241.1,魅影燃烧,Spectral Ignition,冥闇の延焼,불타는 그림자,魅影燃燒,Item.json (Type 6/Stype 41)
+Item.514242.1,幽冥烈焰,Nether Blaze,冥闇の烈焔,어둠의 화염,幽冥烈焰,Item.json (Type 6/Stype 41)
+Item.514243.1,黯淡残痕,Tainted Scar,冥闇の残火,어두운 잔상,黯淡殘痕,Item.json (Type 6/Stype 41)
+Item.514305.1,决战时刻,Zero Hour,黄昏の時,결전의 순간,決戰時刻,Item.json (Type 6/Stype 41)
+Item.514306.1,与刃共舞,Blade's Waltz,ブレードダンス,칼날의 춤사위,與刃共舞,Item.json (Type 6/Stype 41)
+Item.514307.1,疾速拔刀,Rapid Draw,クイックドロー,섬광 발도,疾速拔刀,Item.json (Type 6/Stype 41)
+Item.514308.1,过热射击,Overheat Shot,オーバーヒート,과열 사격,過熱射擊,Item.json (Type 6/Stype 41)
+Item.514309.1,灼热利风,Scorching Gale,レイジングゲイル,뜨거운 바람,灼熱利風,Item.json (Type 6/Stype 41)
+Item.514310.1,溯风闪烁,Tracewind Blink,ウィンドラッシュ,바람의 섬광,溯風閃爍,Item.json (Type 6/Stype 41)
+Item.514311.1,无影猎手,Unseen Predator,無影の狩人,무영 사냥꾼,無影獵手,Item.json (Type 6/Stype 41)
+Item.514312.1,昂扬风采,Dauntless Poise,ワイルドハント,드높은 기개,昂揚風采,Item.json (Type 6/Stype 41)
+Item.514313.1,罡风姿态,Tempest Stance,テンペスト,강풍의 자태,罡風姿態,Item.json (Type 6/Stype 41)
+Item.514322.1,镇压型风裂弹,Suppressive Wind-Splitting Round,ホワールウィンド,진압형 풍열탄,鎮壓型風裂彈,Item.json (Type 6/Stype 42)
+Item.514324.1,强化型连发弹,Enhanced Rapid-Fire Round,マルチショット,강화형 연사탄,強化型連發彈,Item.json (Type 6/Stype 42)
+Item.514325.1,危险气息,Ominous Vibe,危険な気配,위험의 기운,危險氣息,Item.json (Type 6/Stype 41)
+Item.514326.1,猎手本能,Hunter's Instinct,狩人の本能,사냥꾼의 본능,獵手本能,Item.json (Type 6/Stype 41)
+Item.514327.1,抗寒体质,Frost-Proof Constitution,耐寒体質,한기 저항 체질,抗寒體質,Item.json (Type 6/Stype 41)
+Item.514328.1,战士之资,Warrior's Quality,戦士の資質,전사의 자격,戰士之資,Item.json (Type 6/Stype 41)
+Item.514329.1,复仇意志,Will of Vengeance,復讐の意志,복수 의지,復仇意志,Item.json (Type 6/Stype 41)
+Item.514330.1,黎明将近,Dawn's Embrace,黎明間近,희망의 여명,黎明將近,Item.json (Type 6/Stype 41)
+Item.514331.1,离乡者,Expatriate,離郷者,방랑자,離鄉者,Item.json (Type 6/Stype 41)
+Item.514332.1,复仇者,Avenger,復讐者,복수자,復仇者,Item.json (Type 6/Stype 41)
+Item.514333.1,猎火者,Flame Hunter,狩猟団,불사냥꾼,獵火者,Item.json (Type 6/Stype 41)
+Item.514341.1,凌风破晓,Daybreaker,ブレイクゲイル,새벽을 여는 칼날,凌風破曉,Item.json (Type 6/Stype 41)
+Item.514342.1,怒风战意,Raging Battle Will,アップドラフト,격노의 바람,怒風戰意,Item.json (Type 6/Stype 41)
+Item.514343.1,暴风虹吸,Tempest Siphon,ストームエリア,폭풍의 흡수,暴風虹吸,Item.json (Type 6/Stype 41)
+Item.514402.1,镜影流锋,Mirror Blade,水影の型,그림자의 칼날,鏡影流鋒,Item.json (Type 6/Stype 42)
+Item.514403.1,断空泷斩,Cascade of Ruin,滝斬の型,하늘 베기,斷空瀧斬,Item.json (Type 6/Stype 42)
+Item.514404.1,溯流泷闪,Against the Flow,引波の型,역류하는 여울빛,溯流瀧閃,Item.json (Type 6/Stype 42)
+Item.514405.1,漱影落振,Tremble and Fall,影隠れの型,그림자 낙하,漱影落振,Item.json (Type 6/Stype 41)
+Item.514406.1,亭亭翩舞,Dance of Elegance,蛟龍の剣舞,가녀린 춤사위,亭亭翩舞,Item.json (Type 6/Stype 41)
+Item.514407.1,逐浪幻鳞,Aqueous Phantasm,蛟龍の尾,환상 비늘,逐浪幻鱗,Item.json (Type 6/Stype 41)
+Item.514408.1,潮影环蛇,Serpent in Tide,波間の剣舞,파도 뱀,潮影環蛇,Item.json (Type 6/Stype 41)
+Item.514409.1,镜水归潮,Returning Tide,連龍の剣舞,거울 같은 물,鏡水歸潮,Item.json (Type 6/Stype 41)
+Item.514410.1,涟汐环行,Flowing Circle,漣撃の型,끝없는 물살,漣汐環行,Item.json (Type 6/Stype 41)
+Item.514411.1,流波幻舞,Waltz of Ripples,石穿の剣舞,물결의 몸짓,流波幻舞,Item.json (Type 6/Stype 41)
+Item.514412.1,坚鳞护体,Adamant Scales,反攻の型,굳센 보호막,堅鱗護體,Item.json (Type 6/Stype 41)
+Item.514413.1,碧浪霖身,Azure Embrace,水龍の共鳴,파도의 물살,碧浪霖身,Item.json (Type 6/Stype 41)
+Item.514414.1,镜水归潮14,!NONEED!,連龍の剣舞14,거울 같은 물14,!NONEED!,Item.json (Type 6/Stype 41)
+Item.514415.1,坚鳞护体15,!NONEED!,反攻の型15,굳센 보호막15,!NONEED!,Item.json (Type 6/Stype 41)
+Item.514421.1,润刃潜波,Submerged Fang,追滝の刃,칼날의 잠행,潤刃潛波,Item.json (Type 6/Stype 42)
+Item.514422.1,液刃回旋,Whirl Blade,呑流の渦刃,물 검의 소용돌이,液刃迴旋,Item.json (Type 6/Stype 42)
+Item.514423.1,渊息斩流,Blade of the Deep,滝壺の水影,깊은 곳의 숨결,淵息斬流,Item.json (Type 6/Stype 42)
+Item.514424.1,碎影沧浪,Where Shadows Drown,砕滝の飛沫,흩어지는 물결,碎影滄浪,Item.json (Type 6/Stype 42)
+Item.514425.1,烁刃连斩,Blink Combo Slash,肺腑穿つ滴,삭인연참,爍刃連斬,Item.json (Type 6/Stype 41)
+Item.514426.1,雨织刀歌,Sing with Steel,末広がりの滝,빗방울 검무,雨織刀歌,Item.json (Type 6/Stype 41)
+Item.514427.1,潋滟刀鸣,Luminous Blade Song,激流に身を任せ,검의 울음,瀲灩刀鳴,Item.json (Type 6/Stype 41)
+Item.514428.1,水心斩影,Shadow Cutter,水映の影武者,물속의 그림자 베기,水心斬影,Item.json (Type 6/Stype 41)
+Item.514429.1,镜影织潮,Mirror Tide,合わせ鏡の水影,그림자 조류,鏡影織潮,Item.json (Type 6/Stype 41)
+Item.514430.1,碎影止息,Shattered Breath,影の追い込み漁,부서진 그림자의 침묵,碎影止息,Item.json (Type 6/Stype 41)
+Item.514431.1,水纹凌刃,Water Edge,滝際の波紋,파문을 가르는 검,水紋凌刃,Item.json (Type 6/Stype 41)
+Item.514432.1,水流环刃,Waterflow Blade,氷川の龍刃,물살의 고리 검,水流環刃,Item.json (Type 6/Stype 41)
+Item.514433.1,水灵藏刃,Unseen Aquatic Blade,水龍の加勢,물 정령의 숨겨진 칼날,水靈藏刃,Item.json (Type 6/Stype 41)
+Item.514441.1,蛇涎流凝,Serpent's Saliva,暴れまわる蛟龍,응고의 독액,蛇涎流凝,Item.json (Type 6/Stype 41)
+Item.514442.1,蛇舞涟漪,Serpent Dance,蛟龍の加護,뱀 춤의 물결,蛇舞漣漪,Item.json (Type 6/Stype 41)
+Item.514443.1,蛇骨寒涛,Tide of Serpent Bones,蛟龍の霊験,얼어붙은 뱀의 뼈,蛇骨寒濤,Item.json (Type 6/Stype 41)
+Item.514501.1,隐约震颤,Subtle Tremor,徒花,미세한 전율,隱約震顫,Item.json (Type 6/Stype 42)
+Item.514502.1,阴翳颂赞,Hymn of Gloom,陰翳礼讃,어둠의 찬사,陰翳頌讚,Item.json (Type 6/Stype 42)
+Item.514503.1,幽寂回响,Solemn Echo,幽寂残響,고요한 울림,幽寂迴響,Item.json (Type 6/Stype 42)
+Item.514504.1,散华之美,Petal-Shower Grace,散華の美,흩어짐의 미학,散華之美,Item.json (Type 6/Stype 42)
+Item.514505.1,微暗深处,Umbral Depth,仄かな闇,어스름한 깊은 곳,微暗深處,Item.json (Type 6/Stype 41)
+Item.514506.1,四时流转,Cycle of Four Seasons,巡り征く四季,시간 순환,四時流轉,Item.json (Type 6/Stype 41)
+Item.514507.1,暗影叩魂,Shadow Soulknell,魂打つ影,암영의 방문,暗影叩魂,Item.json (Type 6/Stype 41)
+Item.514508.1,薄暗微茫,Twilight Gleam,薄暗微光,옅은 어둠,薄暗微茫,Item.json (Type 6/Stype 41)
+Item.514509.1,暮霭降临,Duskfall,霧暮れ,저녁 안개의 강림,暮靄降臨,Item.json (Type 6/Stype 41)
+Item.514510.1,虚烛残焰,Fading Candle Flame,虚ろ火の残影,허상의 잔염,虛燭殘焰,Item.json (Type 6/Stype 41)
+Item.514511.1,潜影迷魂,Bewitching Phantom,迷魂潜陰,그림자 속의 미혹,潛影迷魂,Item.json (Type 6/Stype 41)
+Item.514512.1,夜潮奔涌,Night Tide Rush,夜潮奔りたる,밤의 격랑,夜潮奔湧,Item.json (Type 6/Stype 41)
+Item.514513.1,影下生花,Shadow Blossom,影下に咲く花,그림자 아래 핀 꽃,影下生花,Item.json (Type 6/Stype 41)
+Item.514521.1,寂影成双,Lonely Twin Shadows,双影,침묵의 그림자,寂影成雙,Item.json (Type 6/Stype 42)
+Item.514522.1,暗夜行路,Night-Walker,暗夜行路,어두운 밤길의 여정,暗夜行路,Item.json (Type 6/Stype 42)
+Item.514523.1,暝色浮波,Ripple of Shadow,暝き浮き波,물결 위의 어스름,暝色浮波,Item.json (Type 6/Stype 42)
+Item.514524.1,暮雨沾衣,Evening Rain,衣濡らす暮雨,옷깃을 적시는 저녁비,暮雨沾衣,Item.json (Type 6/Stype 42)
+Item.514525.1,孤灯摇曳,Solitary Lantern,揺るる孤灯,흔들리는 외딴 등,孤燈搖曳,Item.json (Type 6/Stype 41)
+Item.514526.1,须臾无踪,Without A Trace,無形,찰나에 사라진 흔적,須臾無蹤,Item.json (Type 6/Stype 41)
+Item.514527.1,空阶之上,Hollow Steps,逢魔,빈 계단 위,空階之上,Item.json (Type 6/Stype 41)
+Item.514528.1,雨织愁痕,Rain-Woven Sorrow,愁いの痕,빗방울에 엮인 시름,雨織愁痕,Item.json (Type 6/Stype 41)
+Item.514529.1,寒霖浸骨,Bone-Chilling Rain,冷雨侵骨,시린 빗줄기의 침투,寒霖浸骨,Item.json (Type 6/Stype 41)
+Item.514530.1,终期于尽,Inevitable End,終に至る,최후의 끝,終期於盡,Item.json (Type 6/Stype 41)
+Item.514531.1,暗色蚕食,Devouring Shadow,蝕む暗色,어둠의 잠식,暗色蠶食,Item.json (Type 6/Stype 41)
+Item.514532.1,湮灭低鸣,Murmur of Annihilation,消滅の唸り,소멸의 낮은 울림,湮滅低鳴,Item.json (Type 6/Stype 41)
+Item.514533.1,丧钟无声,Silent Knell,鳴らぬ弔いの鐘,침묵의 조종 소리,喪鐘無聲,Item.json (Type 6/Stype 41)
+Item.514541.1,花蚀深渊,Blossom-Eroded Abyss,深淵に蝕まれる花,바스러진 꽃의 심연,花蝕深淵,Item.json (Type 6/Stype 41)
+Item.514542.1,万境归暝,Ultimate Darkness,万象は闇へ,만물이 향하는 어둠,萬鏡歸暝,Item.json (Type 6/Stype 41)
+Item.514543.1,月下华刃,Moonlit Edge,月下白刃,달빛에 빛나는 칼날,月下華刃,Item.json (Type 6/Stype 41)
+Item.514701.1,重音终结,Baseline Finale,ソロパート終了,강음의 종결,重音終結,Item.json (Type 6/Stype 42)
+Item.514702.1,喝彩闪烁,Cheer Sparkle,鳴り止まぬ喝采,환호의 섬광,喝采閃爍,Item.json (Type 6/Stype 42)
+Item.514703.1,节奏脉动,Rhythm Pulse,リズム隊の矜持,리듬 펄스,節奏脈動,Item.json (Type 6/Stype 42)
+Item.514704.1,强音扩散,Sonic Boom,ゴリゴリロック,강음 확산,強音擴散,Item.json (Type 6/Stype 42)
+Item.514705.1,变速点弦,Tempo Shift,変速タッピング,변속 연주,變速點弦,Item.json (Type 6/Stype 41)
+Item.514706.1,热场时机,Hype Trigger,サポートアクト,열기의 타이밍,熱場時機,Item.json (Type 6/Stype 41)
+Item.514707.1,渐强音,Rising Tone,ボルテージMAX,크레센도,漸強音,Item.json (Type 6/Stype 41)
+Item.514708.1,堕天二重奏,Fallen Duet,漆黒のデュオ,타락 2중주,墮天二重奏,Item.json (Type 6/Stype 41)
+Item.514709.1,重叠音量,Echo Stack,共鳴する音色,볼륨 중첩,重疊音量,Item.json (Type 6/Stype 41)
+Item.514710.1,抓耳挠心,Earcatch Riff,アップテンポ,귓가에 맴도는 선율,抓耳撓心,Item.json (Type 6/Stype 41)
+Item.514711.1,闪烁舞步,Flicker Moves,タブ譜を飛び出せ,반짝임의 춤,閃爍舞步,Item.json (Type 6/Stype 41)
+Item.514712.1,全量增益,Maximum Boost,ハウリング,전체 버프,全量增益,Item.json (Type 6/Stype 41)
+Item.514713.1,暗灭音击,Shadow Soundstrike,薄冥の音撃,암멸의 음격,暗滅音擊,Item.json (Type 6/Stype 41)
+Item.514721.1,旋律回归,Melody Return,回帰する旋律,멜로디 회귀,旋律回歸,Item.json (Type 6/Stype 42)
+Item.514722.1,天降震音,Heavenly Dropbeat,空に響く音,하늘의 진동,天降震音,Item.json (Type 6/Stype 42)
+Item.514723.1,心动传导,Heart Sync,躍動するノーツ,가슴 떨리는 전도,心動傳導,Item.json (Type 6/Stype 42)
+Item.514724.1,燃情满溢,Overflowing Passion,情熱的な調べ,넘치는 열정,燃情滿溢,Item.json (Type 6/Stype 42)
+Item.514725.1,低音引力,Bass Gravity,低音の魅力,저음의 이끌림,低音引力,Item.json (Type 6/Stype 41)
+Item.514726.1,律音波纹,Rhythm Waves,黒く染まった翼,선율의 물결,律音波紋,Item.json (Type 6/Stype 41)
+Item.514727.1,扎心锐角,Heart Piercer,癒やしの音色,뾰족한 예각,扎心銳角,Item.json (Type 6/Stype 41)
+Item.514728.1,合拍鸣动,Sync Chime,ファンの手拍子,리듬의 울림,合拍鳴動,Item.json (Type 6/Stype 41)
+Item.514729.1,魂音直击,Soulstrike Sound,魂を揺さぶる音,영혼 직격타,魂音直擊,Item.json (Type 6/Stype 41)
+Item.514730.1,浩室共鸣,House Resonance,レゾナンス,하우스 공명,浩室共鳴,Item.json (Type 6/Stype 41)
+Item.514731.1,暗流涌动,Surging Undercurrent,堕転する音楽,암류 분출,暗流湧動,Item.json (Type 6/Stype 41)
+Item.514732.1,恶焰余灰,Blazing Remnant,燻る黒炎,악염의 잔해,惡焰餘灰,Item.json (Type 6/Stype 41)
+Item.514733.1,黑暗舞会,Ball of Darkness,ようこそ闇の舞台へ,어둠의 무도회,黑暗舞會,Item.json (Type 6/Stype 41)
+Item.514741.1,堕天帷幕,Fallen Veil,黒き喝采,타락의 장막,墮天帷幕,Item.json (Type 6/Stype 41)
+Item.514742.1,恶魔秀场,Demon's Runway,悪魔のステージ,악마의 쇼,惡魔秀場,Item.json (Type 6/Stype 41)
+Item.514743.1,飞升炫音,Ascension Soundflare,星ノ塔の音,비상의 현음,飛升炫音,Item.json (Type 6/Stype 41)
+Item.514902.1,岩崩风暴,Avalanche of Stone,地を砕く円匙,산사태 폭풍,岩崩風暴,Item.json (Type 6/Stype 42)
+Item.514903.1,痛苦增殖,Agony Cascade,苦悶の連環,고통 증식,痛苦增殖,Item.json (Type 6/Stype 42)
+Item.514904.1,持续阵痛,Endless Throes,痛みの連鎖,끝없는 고통,持續陣痛,Item.json (Type 6/Stype 42)
+Item.514905.1,施虐快意,Delight in Ruin,加虐の愉悦,가학적 즐거움,施虐快意,Item.json (Type 6/Stype 41)
+Item.514906.1,无安全词,No Safeword,来たれ甘き死よ,안전장치 없음,無安全詞,Item.json (Type 6/Stype 41)
+Item.514907.1,意犹未尽,Lingering Hunger,満たされぬ強欲,아쉬운 마음,意猶未盡,Item.json (Type 6/Stype 41)
+Item.514908.1,恶意中伤,Slanderous Strike,重い鉄枷,악의적 공격,惡意中傷,Item.json (Type 6/Stype 41)
+Item.514909.1,私罚,Shadow Law,乱れ交わる宴,사적 제재,私罰,Item.json (Type 6/Stype 41)
+Item.514910.1,贯穿伤痛,Piercing Sorrow,肉を喰む鎖,관통의 고통,貫穿傷痛,Item.json (Type 6/Stype 41)
+Item.514911.1,追猎,Hunt is On,嗜虐の狩人,추격 사냥,追獵,Item.json (Type 6/Stype 41)
+Item.514912.1,多人游戏,Everyone's Invited,緋色の私刑,멀티 플레이,多人遊戲,Item.json (Type 6/Stype 41)
+Item.514913.1,共感,Shared Sensation,同好の士,공감,共感,Item.json (Type 6/Stype 41)
+Item.514921.1,罪加一等,Deeper into Sin,重ね続けた罪,가중처벌,罪加一等,Item.json (Type 6/Stype 42)
+Item.514922.1,绝妙余兴,Curtain Call,終わらぬ余興,훌륭한 마무리,絕妙餘興,Item.json (Type 6/Stype 42)
+Item.514923.1,罪缚共振,Sin-Bound Echo,魂の解放,죄의 공진,罪縛共振,Item.json (Type 6/Stype 42)
+Item.514925.1,六灾·死殇,Hexacalamity: Grief's Toll,六罪：殺意,여섯 재앙·죽음의 한,六災·死殤,Item.json (Type 6/Stype 41)
+Item.514926.1,六灾·征服,Hexacalamity: Tyrant's March,六罪：蹂躙,여섯 재앙·정복,六災·征服,Item.json (Type 6/Stype 41)
+Item.514927.1,六灾·殉道,Hexacalamity: Hallowed Chains,六罪：強制殉教,여섯 재앙·순교,六災·殉道,Item.json (Type 6/Stype 41)
+Item.514928.1,六灾·侵蚀,Hexacalamity: Erosion,六罪：伝染,여섯 재앙·침식,六災·侵蝕,Item.json (Type 6/Stype 41)
+Item.514929.1,六灾·死亡,Hexacalamity: Death,六罪：共振,여섯 재앙·사망,六災·死亡,Item.json (Type 6/Stype 41)
+Item.514930.1,六灾·饥溃,Hexacalamity: Famine,六罪：苦痛渇望,여섯 재앙·굶주림,六災·飢潰,Item.json (Type 6/Stype 41)
+Item.514931.1,黄昏的断罪,Twilight's Verdict,黄昏の威震,황혼의 단죄,黃昏的斷罪,Item.json (Type 6/Stype 41)
+Item.514932.1,黄昏的同狩,Twilight's Hunt,緩まぬ追撃の手,황혼의 사냥,黃昏的同狩,Item.json (Type 6/Stype 41)
+Item.514933.1,魂糸之共鸣,Anima Resonance,痛みの伝道者,영혼 실의 공명,魂糸之共鳴,Item.json (Type 6/Stype 41)
+Item.514941.1,燃翼者宣告终结,Emberwing's Proclamation,恩恵：焔の終焉,연익자의 종결 선언,燃翼者宣告終結,Item.json (Type 6/Stype 41)
+Item.514942.1,四面者宣告秘典,Quadrifrons' Lore,恩恵：共鳴の秘跡,사면자의 비전 선언,四面者宣告祕典,Item.json (Type 6/Stype 41)
+Item.514943.1,轮转者宣告审判,Samsara's Judgment,恩恵：隣人の畏れ,윤회자의 심판 선언,輪轉者宣告審判,Item.json (Type 6/Stype 41)
+Item.515001.1,雷域滞空,Aerial Suspension,あたしの庭,번개 영역 부유,雷域滯空,Item.json (Type 6/Stype 42)
+Item.515002.1,电链镭射,Arc Chain Laser,ライトエギング,전격 사슬,電鏈雷射,Item.json (Type 6/Stype 42)
+Item.515003.1,长枪扫荡,Lance Sweep,槍刃掃討,장총 소탕,長槍掃蕩,Item.json (Type 6/Stype 42)
+Item.515004.1,电光枪舞,Lightning Lance Dance,電槍チャージ,번개창무,電光槍舞,Item.json (Type 6/Stype 42)
+Item.515005.1,枪鸣,Lance's Song,神速の槍,총소리,槍鳴,Item.json (Type 6/Stype 41)
+Item.515006.1,裂空,Sky Rend,サビキ釣り,열공,裂空,Item.json (Type 6/Stype 41)
+Item.515007.1,锋刺,Piercing Sting,返し突き,송곳,鋒刺,Item.json (Type 6/Stype 41)
+Item.515008.1,破光,Lightbreaker,ルミナスフラッド,파광,破光,Item.json (Type 6/Stype 41)
+Item.515009.1,电链,Electric Chain,ボルトチェーン,전기 사슬,電鏈,Item.json (Type 6/Stype 41)
+Item.515010.1,炫雷,Cracking Thunderbolt,光の道標,현란한 번개,炫雷,Item.json (Type 6/Stype 41)
+Item.515011.1,瞬袭,Swift Strike,ボルトフラッシュ,순간의 습격,瞬襲,Item.json (Type 6/Stype 41)
+Item.515012.1,圣光铭,Holy Sigil,聖光の印,성스러운 빛의 각인,聖光銘,Item.json (Type 6/Stype 41)
+Item.515013.1,擒王,Checkmate,大物釣り,포획,擒王,Item.json (Type 6/Stype 41)
+Item.515021.1,光焰·续始,Radiant Flame: Cycle Restart,光雷・継起,광염·연속,光焰·續始,Item.json (Type 6/Stype 42)
+Item.515022.1,光焰·闪点,Radiant Flame: Flash Point,光雷・閃滅,광염·번쩍임,光焰·閃點,Item.json (Type 6/Stype 42)
+Item.515023.1,光焰·汇聚,Radiant Flame: Convergence,光雷・集束,광염·응축,光焰·匯聚,Item.json (Type 6/Stype 42)
+Item.515024.1,光焰·追袭,Radiant Flame: Pursuit,光雷・追撃,광염·추격,光焰·追襲,Item.json (Type 6/Stype 42)
+Item.515025.1,光雨磅礴,Radiant Downpour,光雨の奔流,빛의 빗방울,光雨磅礴,Item.json (Type 6/Stype 41)
+Item.515026.1,天光乍现,Light Unleashed,降り注ぐ光,찰나의 빛,天光乍現,Item.json (Type 6/Stype 41)
+Item.515028.1,破空奇袭,Skybreak Raid,空裂く奇襲,하늘을 찢는 기습,破空奇襲,Item.json (Type 6/Stype 41)
+Item.515029.1,天照破晓,Dawn Break,タイニーグロウ,하늘을 비추는 여명,天照破曉,Item.json (Type 6/Stype 41)
+Item.515030.1,光屏风暴,Light Tempest,光の暴嵐,빛의 장벽 폭풍,光屏風暴,Item.json (Type 6/Stype 41)
+Item.515031.1,圣光洗礼,Divine Baptism,聖光の洗礼,성스러운 빛의 세례,聖光洗禮,Item.json (Type 6/Stype 41)
+Item.515032.1,圣枪审判,Lance Judgement,聖槍の審判,성스러운 창의 심판,聖槍審判,Item.json (Type 6/Stype 41)
+Item.515033.1,圣语祷告,Holy Prayer,聖言の祈り,성스러운 말의 기도,聖語禱告,Item.json (Type 6/Stype 41)
+Item.515041.1,落枪·光域,Lancefall: Light Realm,落槍・光の領域,낙창·광역,落槍·光域,Item.json (Type 6/Stype 41)
+Item.515042.1,落枪·电缠,Lancefall: Electro Bind,落槍・光の渦,낙창·전기 속박,落槍·電纏,Item.json (Type 6/Stype 41)
+Item.515043.1,落枪·雷涌,Lancefall: Thunder Surge,落槍・連鎖する光,낙창·번개 파도,落槍·雷湧,Item.json (Type 6/Stype 41)
+Item.515501.1,幻步临光,Phantom Step Radiance,光の雪兎,환상의 발걸음,幻步臨光,Item.json (Type 6/Stype 42)
+Item.515502.1,霁雪化刃,Rimecrystal Edge,スノーフォール,칼날 같은 눈,霽雪化刃,Item.json (Type 6/Stype 42)
+Item.515503.1,月华倾泻,Moonlight Overflow,月の夜兎,달빛의 분출,月華傾瀉,Item.json (Type 6/Stype 42)
+Item.515504.1,星舞追跃,Astral Pirouette,ナイトフォロー,별빛의 도약,星舞追躍,Item.json (Type 6/Stype 42)
+Item.515505.1,穿雪破空,Glacial Dash,シーブリザード,설경 돌파,穿雪破空,Item.json (Type 6/Stype 41)
+Item.515506.1,雪域压制,Subzero Dominion,ホワイトウォール,설원의 제압,雪域壓制,Item.json (Type 6/Stype 41)
+Item.515507.1,凝雪震心,Rimeheart Pulse,マリンスノー,흰 눈의 폭발,凝雪震心,Item.json (Type 6/Stype 41)
+Item.515508.1,月弧断魄,Final Crescent,ナイトパックス,초승달 영혼 자르기,月弧斷魄,Item.json (Type 6/Stype 41)
+Item.515509.1,月能爆裂,Lunar Detonation,集束ミサイル,달빛 폭발,月能爆裂,Item.json (Type 6/Stype 41)
+Item.515510.1,月影连击,Lunar Combo,ラピッドファイア,달그림자 콤보,月影連擊,Item.json (Type 6/Stype 41)
+Item.515511.1,兔影穿风,Leporine Gale,オンショア,토끼의 그림자 질주,兔影穿風,Item.json (Type 6/Stype 41)
+Item.515512.1,兔跃追踪,Hare's Pursuit,フォローアップ,토끼의 도약 추적,兔躍追蹤,Item.json (Type 6/Stype 41)
+Item.515513.1,兔光聚焦,Rabbit's Beam,フィニッシャー,토끼의 집중하는 빛,兔光聚焦,Item.json (Type 6/Stype 41)
+Item.515521.1,兔跃同旅,Kindred Bound,雪兎の火力支援,토끼의 동행,兔躍同旅,Item.json (Type 6/Stype 42)
+Item.515522.1,双月回旋,Twin Moons,夜兎の支援攻撃,쌍월의 회전,雙月迴旋,Item.json (Type 6/Stype 42)
+Item.515523.1,兔浪喷射,Bunny Torrent,いい波きてる♪,토끼 파도 분사,兔浪噴射,Item.json (Type 6/Stype 42)
+Item.515524.1,断浪兔翻,Rabbit Flip,アブナイウェイヴ,물결 자르기,斷浪兔翻,Item.json (Type 6/Stype 42)
+Item.515526.1,舞雪脉冲,Snowfall's Heartbeat,わたしと雪兎,눈의 리듬,舞雪脈衝,Item.json (Type 6/Stype 41)
+Item.515527.1,月蚀爆破,Eclipse Blast,わたしと夜兎,월식 폭발,月蝕爆破,Item.json (Type 6/Stype 41)
+Item.515528.1,翻浪漂移,Flow Reversal,ヘヴィーウェイヴ,파도의 표류,翻浪漂移,Item.json (Type 6/Stype 41)
+Item.515530.1,划浪起速,Catch the Wave,ロングライド,파도 속 가속,划浪起速,Item.json (Type 6/Stype 41)
+Item.515531.1,潮汐充能,Tidal Charge,ビッグウェイヴ,조석 에너지 충전,潮汐蓄能,Item.json (Type 6/Stype 41)
+Item.515532.1,踏浪反转,Counter Current,ハイタイド,파도 밟기,踏浪反轉,Item.json (Type 6/Stype 41)
+Item.515533.1,月幕降临,Moonfall,月の海の兎たち,달의 장막 강림,月幕降臨,Item.json (Type 6/Stype 41)
+Item.515541.1,啸月望舒,Howl to the Moon,シャープムーン,월광을 향한 외침,嘯月望舒,Item.json (Type 6/Stype 41)
+Item.515542.1,寂空汐起,Silent Tide,静かの海に閃く光,고요함 속 물결,寂空汐起,Item.json (Type 6/Stype 41)
+Item.515543.1,巨浪归虚,Wave to Oblivion,ハロー波浪注意報,공허의 파도,巨浪歸虛,Item.json (Type 6/Stype 41)
+Item.515603.1,幸运开奖,Roll the Dice,運試しの三矢,행운 추첨,幸運開獎,Item.json (Type 6/Stype 42)
+Item.515604.1,华丽转身,Graceful Turn,くるっと回って,화려한 턴,華麗轉身,Item.json (Type 6/Stype 42)
+Item.515606.1,萌萌助威,Cutie's Rally,ぬいの激励,사랑스러운 응원,萌萌打氣,Item.json (Type 6/Stype 41)
+Item.515607.1,乐动达人,Beat Maestro,音ゲー感覚,리듬의 달인,樂動達人,Item.json (Type 6/Stype 41)
+Item.515608.1,一击全倒,Clean Sweep,幸運のたまご,원샷 올킬,一擊全倒,Item.json (Type 6/Stype 41)
+Item.515609.1,空窗补齐,Fill the Gap,きみのターン！,빈틈 채우기,空窗補齊,Item.json (Type 6/Stype 41)
+Item.515611.1,垫步技巧,Swiftstep,音ゲーステップ,스텝 기술,墊步技巧,Item.json (Type 6/Stype 41)
+Item.515612.1,自然之触,Touch of Nature,みんな寝転んで,자연의 손길,自然之觸,Item.json (Type 6/Stype 41)
+Item.515613.1,古灵精怪,Wily Wonder,実は策士？,기발한 장난,古靈精怪,Item.json (Type 6/Stype 41)
+Item.515621.1,理直气壮,Bold Assertion,ペンギンの加護,정의로운 기세,理直氣壯,Item.json (Type 6/Stype 42)
+Item.515622.1,尽情摇摆,Feel the Beat,ペンギン贔屓,무한한 스윙,盡情搖擺,Item.json (Type 6/Stype 42)
+Item.515623.1,偏心爱箭,Arrow of Affection,ハート大好き,특별한 러브샷,偏心愛箭,Item.json (Type 6/Stype 42)
+Item.515624.1,甜心盛开,Sweetheart Bloom,ハート爆弾,피어나는 달콤함,甜心盛開,Item.json (Type 6/Stype 42)
+Item.515625.1,羽羽乱舞,Feather Frenzy,ペンギンショー,깃털의 난무,羽羽亂舞,Item.json (Type 6/Stype 41)
+Item.515626.1,欢腾旋跃,Jubilant Spin,ペンギンに歓喜,기쁨의 스핀,歡騰旋躍,Item.json (Type 6/Stype 41)
+Item.515627.1,萌影掷星,Twinkle Toss,あの星に敬礼！,큐티 스타볼,萌影擲星,Item.json (Type 6/Stype 41)
+Item.515628.1,爱意贯心,Love's True Strike,きみのハートに,사랑의 관통,愛意貫心,Item.json (Type 6/Stype 41)
+Item.515629.1,情弩落雨,Rain of Passion,ハートに夢中,러브 애로우,情弩落雨,Item.json (Type 6/Stype 41)
+Item.515630.1,倾情蜜箭,Honeyed Arrow,ハートどきどき,허니 애로우,傾情蜜箭,Item.json (Type 6/Stype 41)
+Item.515631.1,天降幸运,Lucky Drop,わたしがついてる,하늘에서 떨어진 행운,天降幸運,Item.json (Type 6/Stype 41)
+Item.515632.1,累计奖池,Progressive Jackpot,ジャックポット,보너스 풀,累計獎池,Item.json (Type 6/Stype 41)
+Item.515633.1,双连惊喜,Double Delight,ダブルチャンス,연속 서프라이즈,雙連驚喜,Item.json (Type 6/Stype 41)
+Item.515641.1,胡闹总动员,Operation: Pandemonium,どんちき騒ぎ,개구쟁이 총집합,胡鬧總動員,Item.json (Type 6/Stype 41)
+Item.515642.1,气球龙卷风,Balloonado,ここは任せろ！,풍선 토네이도,氣球龍捲風,Item.json (Type 6/Stype 41)
+Item.515643.1,飚速手推车,Rocket Cart,轢いたら離脱！,터보 카트,飆速手推車,Item.json (Type 6/Stype 41)
+Item.515701.1,猎群涡流,Predator's Vortex,フィッシュネード,포식자의 소용돌이,獵群渦流,Item.json (Type 6/Stype 42)
+Item.515702.1,鲨影潜袭,Shark Ambush,シャークアタック,상어 그림자의 습격,鯊影潛襲,Item.json (Type 6/Stype 42)
+Item.515703.1,猎弹散布,Scatter Shot,スキャッター,곳곳에 흩어진 탄환,獵彈散布,Item.json (Type 6/Stype 42)
+Item.515704.1,追猎暗锁,Hunting Dark Shackle,チェインハント,추적의 어둠 사슬,追獵暗鎖,Item.json (Type 6/Stype 42)
+Item.515705.1,滔天巨浪,Crashing Wave,タイダルバースト,솟구치는 거대한 파도,滔天巨浪,Item.json (Type 6/Stype 41)
+Item.515706.1,双影狩猎,Twin Predator,ツインチェイス,두 개의 그림자,雙影狩獵,Item.json (Type 6/Stype 41)
+Item.515707.1,追猎指示,Hunter's Command,ハントシグナル,추격 지시,追獵指示,Item.json (Type 6/Stype 41)
+Item.515708.1,暗锁溢爆,Dark Shackle Detonation,チェインバースト,어둠 사슬의 폭발,暗鎖溢爆,Item.json (Type 6/Stype 41)
+Item.515709.1,高危目标,High-Threat Target,トローリング,고위험 목표,高危目標,Item.json (Type 6/Stype 41)
+Item.515710.1,狩猎压制,Hunting Suppression,素潜り漁,사냥 제압,狩獵壓制,Item.json (Type 6/Stype 41)
+Item.515711.1,信心倍增,Confidence Booster,夜釣り,사기 충전,信心倍增,Item.json (Type 6/Stype 41)
+Item.515712.1,猎影追踪,Pursuit of the Shadow,シャークチェイス,그림자 추적,獵影追蹤,Item.json (Type 6/Stype 41)
+Item.515713.1,同谐气场,Aura of Unity,サビキ釣り,조화로운 기세,共鳴氣場,Item.json (Type 6/Stype 41)
+Item.515721.1,巨鲨连影,Shark's Phantom,ギガシャーク,거대 상어의 잔상,巨鯊連影,Item.json (Type 6/Stype 42)
+Item.515722.1,猎咬暗痕,Dark Bite Mark,ダークバイト,물어뜯은 흔적,獵咬暗痕,Item.json (Type 6/Stype 42)
+Item.515723.1,怒涛鞭策,Tidal Lash,ハニーウィップ,성난 파도의 채찍질,怒濤鞭策,Item.json (Type 6/Stype 42)
+Item.515724.1,暗流震爆,Undercurrent Blast,アンダーサージ,암류의 충격,暗流震爆,Item.json (Type 6/Stype 42)
+Item.515725.1,大海余震,Ocean Aftershock,アフターショック,바다의 여진,大海餘震,Item.json (Type 6/Stype 41)
+Item.515726.1,同猎追击,Pack Pursuit,ジョイントハント,협동 추격,同獵追擊,Item.json (Type 6/Stype 41)
+Item.515727.1,上位压制,Apex Dominance,水の利,우위 제압,上位壓制,Item.json (Type 6/Stype 41)
+Item.515728.1,汹涌节奏,Surging Rhythm,サージングリズム,격동의 리듬,洶湧節奏,Item.json (Type 6/Stype 41)
+Item.515729.1,迎浪而上,Against the Tide,波に乗って,파도를 거슬러,迎浪而上,Item.json (Type 6/Stype 41)
+Item.515730.1,暗流翻涌,Undercurrent Surge,ダークウェイブ,들끊는 암류,暗流翻湧,Item.json (Type 6/Stype 41)
+Item.515731.1,别扭鼓舞,Awkward Inspiration,航海士の心得,쑥스러운 격려,彆扭鼓舞,Item.json (Type 6/Stype 41)
+Item.515732.1,竞争心理,Competitive Spirit,ライバル心,경쟁심리,競爭心理,Item.json (Type 6/Stype 41)
+Item.515733.1,月夜同色,Moonlit Bond,超深海層,달빛에 물든 밤,月夜同色,Item.json (Type 6/Stype 41)
+Item.515741.1,不屈的精神,Unyielding Spirit,渦潮,불굴의 정신,不屈的精神,Item.json (Type 6/Stype 41)
+Item.515742.1,绝海的斗争,Deep-Sea Conflict,ディープシー,외딴 바다의 투쟁,絕海的鬥爭,Item.json (Type 6/Stype 41)
+Item.515743.1,自我的超越,Self-Transcend,海底火山,자아 초월,自我的超越,Item.json (Type 6/Stype 41)
+Item.515801.1,严整仪容,Solemn Look,ドールマスター,위엄 있는 자태,嚴整儀容,Item.json (Type 6/Stype 42)
+Item.515802.1,女王驾到,Here Comes the Queen,女王のお出まし,여왕 강림,女王駕到,Item.json (Type 6/Stype 42)
+Item.515803.1,疾风鞭挞,Whipping Gale,鞭の贈り物,질풍의 채찍질,疾風鞭撻,Item.json (Type 6/Stype 42)
+Item.515804.1,鞭痕交织,Crossing Welts,ギフトマーク,교차 채찍,鞭痕交織,Item.json (Type 6/Stype 42)
+Item.515805.1,火鞭烈焰,Burning Whip,パーリィドール,불꽃 채찍,火鞭烈焰,Item.json (Type 6/Stype 41)
+Item.515806.1,连星刺刀,Starchain Blade,将軍の秘策,유성 찌르기,連星刺刀,Item.json (Type 6/Stype 41)
+Item.515807.1,士气如虹,Fiery Rainbow,クリスマスエール,사기 충전,士氣如虹,Item.json (Type 6/Stype 41)
+Item.515808.1,集鞭一击,All-Out Whiplash,ごほうびウィップ,집중 타격,集鞭一擊,Item.json (Type 6/Stype 41)
+Item.515809.1,火鞭漫舞,Wild Whip Waltz,バーニングウィップ,화염 채찍무,火鞭漫舞,Item.json (Type 6/Stype 41)
+Item.515810.1,捷报频传,Non-Stop Victory,きらめきクリスマス,연이은 승전보,捷報頻傳,Item.json (Type 6/Stype 41)
+Item.515811.1,礼炮合奏,Cannon Ensemble,ソリの行進曲,예포 앙상블,禮砲合奏,Item.json (Type 6/Stype 41)
+Item.515812.1,爵士怒火,Jazz of Rage,おもちゃの本気,작위의 분노,爵士怒火,Item.json (Type 6/Stype 41)
+Item.515813.1,优雅腾挪,Elegant Moves,クリスマスのワルツ,우아한 몸놀림,優雅騰挪,Item.json (Type 6/Stype 41)
+Item.515821.1,火雨倾盆,Fire Downpour,追い打ちプレゼント,화염 폭우,火雨傾盆,Item.json (Type 6/Stype 42)
+Item.515822.1,特别装药,Special Ammo,サプライズプレゼント,특별 화약,特別裝藥,Item.json (Type 6/Stype 42)
+Item.515823.1,升变时刻,Promotion Time,合体進化,승급의 순간,升變時刻,Item.json (Type 6/Stype 42)
+Item.515824.1,授勋仪式,Investiture Ceremony,切り札ドール,훈장 수여식,授勛儀式,Item.json (Type 6/Stype 42)
+Item.515825.1,礼炮双响,Two-Gun Salute,ダブルプレゼント,더블 예포,禮砲雙響,Item.json (Type 6/Stype 41)
+Item.515826.1,振奋炮击,Uplifting Shot,ギフトチャンス,사기충전 포화,振奮砲擊,Item.json (Type 6/Stype 41)
+Item.515827.1,初尝甜蜜,First Taste of Sweetness,プレゼントファイア,첫 달콤함,初嘗甜蜜,Item.json (Type 6/Stype 41)
+Item.515828.1,红心祝祷,Heart's Benediction,追撃ドール,하트의 기원,紅心祝禱,Item.json (Type 6/Stype 41)
+Item.515829.1,红心赦令,Heart's Edict,姫への忠義,하트의 사면,紅心赦令,Item.json (Type 6/Stype 41)
+Item.515830.1,红心号角,Heart's Trumpet,くるみ割りチャンス,하트의 나팔,紅心號角,Item.json (Type 6/Stype 41)
+Item.515831.1,庆典再启,Celebration Resumed,クリスマスの奇跡,축제의 재개,慶典再啟,Item.json (Type 6/Stype 41)
+Item.515832.1,火药纷飞,Ammo Rain,キャンディラッシュ,화약 난무,火藥紛飛,Item.json (Type 6/Stype 41)
+Item.515833.1,童话法则,Fairy Tale Rule,キャンドルパーティー,동화의 법칙,童話法則,Item.json (Type 6/Stype 41)
+Item.515841.1,驱邪银弹,Silver Bullet,お仕置きキャンディ,성은탄,驅邪銀彈,Item.json (Type 6/Stype 41)
+Item.515842.1,王棋未动,Untouched King,クリスマスの守護者,굳건한 왕,王棋未動,Item.json (Type 6/Stype 41)
+Item.515843.1,玩具军团,Toy Army,おもちゃの軍団,장난감 군단,玩具軍團,Item.json (Type 6/Stype 41)
+Item.515901.1,千灯·呈瑞,Radiance of Auspice,開運の兆し,천 개의 등·길조,千燈·呈瑞,Item.json (Type 6/Stype 42)
+Item.515902.1,辉映·呈瑞,Reflection of Auspice,吉兆の印,밝은 빛·길조,輝映·呈瑞,Item.json (Type 6/Stype 42)
+Item.515903.1,砭石疾雨,Needle Shower,調薬変更,편석의 소나기,砭石疾雨,Item.json (Type 6/Stype 42)
+Item.515904.1,大地回响,Echo of Earth,薔薇色の研究,대지의 울림,大地迴響,Item.json (Type 6/Stype 42)
+Item.515905.1,催化反应,Catalyst,招福反応,촉매 반응,催化反應,Item.json (Type 6/Stype 41)
+Item.515906.1,六方琢磨,Exquisite Cut,華服の高揚,육면체 연마,六方琢磨,Item.json (Type 6/Stype 41)
+Item.515907.1,玉振金声,Jade Chime,ご利益延長,조화로운 울림,玉振金聲,Item.json (Type 6/Stype 41)
+Item.515908.1,广敷·岁岁平安,Expanse: Everlasting Peace,検体確保,확산·평안,廣敷·歲歲平安,Item.json (Type 6/Stype 41)
+Item.515909.1,外感内滞,Inner Stagnation,治験結果,정체된 기운,外感內滯,Item.json (Type 6/Stype 41)
+Item.515910.1,瑞兆流转,Fortune's Flow,幸運循環,길조의 흐름,瑞兆流轉,Item.json (Type 6/Stype 41)
+Item.515911.1,晶尘霓裳,Iridescent Robe,薬効付与,빛나는 수정 예복,晶塵霓裳,Item.json (Type 6/Stype 41)
+Item.515912.1,避凶趋吉,Omen Breaker,瞬時の判断,길조의 인도,趨吉避凶,Item.json (Type 6/Stype 41)
+Item.515913.1,琉璃光转,Shifting Brilliance,薬効強化,유리의 빛,琉璃光轉,Item.json (Type 6/Stype 41)
+Item.515921.1,药剂提纯,Essence Extraction,追加処方,약제 정제,藥劑精煉,Item.json (Type 6/Stype 42)
+Item.515922.1,一夜春风,Vernal Breath,春幻の薔薇,하룻밤의 봄,一夜春風,Item.json (Type 6/Stype 42)
+Item.515923.1,落红化泥,Return to Earth,蝕毒作用,낙화의 거름,落紅化泥,Item.json (Type 6/Stype 42)
+Item.515924.1,余韵悠长,Lasting Aftertaste,経過観察,멎지 않는 울림,餘韻悠長,Item.json (Type 6/Stype 42)
+Item.515925.1,锦上添花,Perfect Touch,試薬改良,금상첨화,錦上添花,Item.json (Type 6/Stype 41)
+Item.515926.1,病灶显影,Symptom Sight,病変の影,질병의 형상화,病灶顯影,Item.json (Type 6/Stype 41)
+Item.515927.1,礼尚往来,Reciprocity,潜伏効能,오고 가는 선물,禮尚往來,Item.json (Type 6/Stype 41)
+Item.515928.1,繁花落尽,Faded Splendor,試薬追加,저무는 화려한 꽃,繁花落盡,Item.json (Type 6/Stype 41)
+Item.515929.1,满室生香,Aromatic Room,点滴処置,방안 가득한 향기,滿室生香,Item.json (Type 6/Stype 41)
+Item.515930.1,岁暮穷途,Waning Year,招禍の薬液,막다른 길,歲暮窮途,Item.json (Type 6/Stype 41)
+Item.515931.1,药石淬炼,Herbal Tempering,異文化交流,약석 제련,藥石淬煉,Item.json (Type 6/Stype 41)
+Item.515932.1,彩焰纷飞,Flying Fire,異郷理解,흩날리는 오색 불꽃,彩焰紛飛,Item.json (Type 6/Stype 41)
+Item.515933.1,大地共鸣,Terra Chorus,旅は道連れ,대지 공명,大地共鳴,Item.json (Type 6/Stype 41)
+Item.515941.1,迷离惊梦,Dream Shock,白衣の美姫,미궁 속 놀라운 꿈,迷離驚夢,Item.json (Type 6/Stype 41)
+Item.515942.1,余泽犹在,Lingering Grace,医者の真心,은총의 잔향,餘澤猶在,Item.json (Type 6/Stype 41)
+Item.515943.1,星火成炬,United Flame,蒼梧城の学び,성화의 횃불,星火成炬,Item.json (Type 6/Stype 41)
+Item.516001.1,纷乱泡泡,Bubble Flurry,乱れ飛ぶ水泡,요란한 버블,紛亂泡泡,Item.json (Type 6/Stype 42)
+Item.516002.1,流光微颤,Rippling Radiance,微震する流光,빛의 떨림,流光微顫,Item.json (Type 6/Stype 42)
+Item.516003.1,律动光泡,Rhythmic Bubbles,律動する光泡,리듬 버블,律動光泡,Item.json (Type 6/Stype 42)
+Item.516005.1,久悬不破,Enduring Bubble,久遠に割れぬ泡,난공불락,久懸不破,Item.json (Type 6/Stype 41)
+Item.516006.1,梦幻泡影,Dreamlike Illusion,夢幻泡影,몽환의 물거품,夢幻泡影,Item.json (Type 6/Stype 41)
+Item.516007.1,凝而不散,Clustered Foam,凝りて散らず,단단한 응집,凝而不散,Item.json (Type 6/Stype 41)
+Item.516008.1,碎沫余音,Foam Echo,砕沫の余韻,부서진 여운,碎沫餘音,Item.json (Type 6/Stype 41)
+Item.516009.1,触地既跃,Touch 'n' Bounce,着地からの跳躍,착지 즉시 도약,觸地即躍,Item.json (Type 6/Stype 41)
+Item.516010.1,摇曳浮光,Wavering Glow,揺らめく浮光,일렁이는 윤슬,搖曳浮光,Item.json (Type 6/Stype 41)
+Item.516011.1,风吟碧岸,Singing Shores,碧岸に謡う風,푸른 해안의 노래,風吟碧岸,Item.json (Type 6/Stype 41)
+Item.516012.1,逐浪听风,Ocean Wanderer,浪を追い風を聴く,파도를 쫓는 바람 소리,逐浪聽風,Item.json (Type 6/Stype 41)
+Item.516013.1,云泡乘风,Cumulus Drift,風に乗る泡雲,바람을 탄 구름,雲泡乘風,Item.json (Type 6/Stype 41)
+Item.516021.1,水花飞溅,Flying Droplets,飛び散るしぶき,흩날리는 물꽃,水花飛濺,Item.json (Type 6/Stype 42)
+Item.516022.1,激流覆岸,Flooding Shore,岸を覆う激流,해안을 덮치는 격류,激流覆岸,Item.json (Type 6/Stype 42)
+Item.516023.1,音浪荡漾,Rhythm Surge,たゆたう音の浪,울려 퍼지는 음파,音浪蕩漾,Item.json (Type 6/Stype 42)
+Item.516024.1,浪鸣震耳,Thunderous Surf,耳震わす浪鳴,파도 굉음,浪鳴震耳,Item.json (Type 6/Stype 42)
+Item.516025.1,劝诫依旧,Words Unchanged,変わらぬ戒め,여전한 훈계,勸誡依舊,Item.json (Type 6/Stype 41)
+Item.516027.1,海鸣不息,Eternal Tide,鳴り止まぬ海鳴,멈추지 않는 바다 소리,海鳴不息,Item.json (Type 6/Stype 41)
+Item.516028.1,巨浪吞城,Engulfing Tide,呑み込む巨浪,도시를 삼키는 파도,巨浪吞城,Item.json (Type 6/Stype 41)
+Item.516029.1,潮音渐歇,Receding Echoes,遠ざかる潮騒,잦아드는 물살 소리,潮音漸歇,Item.json (Type 6/Stype 41)
+Item.516030.1,异色水泡,Prismatic Bubbles,異色の水泡,알록달록 물방울,異色水泡,Item.json (Type 6/Stype 41)
+Item.516031.1,流彩为壁,Prismatic Barrier,流彩の障壁,무지개빛의 장벽,流彩為壁,Item.json (Type 6/Stype 41)
+Item.516032.1,海色轻柔,Tender Seas,柔らかな海色,부드러운 바다 빛깔,海色輕柔,Item.json (Type 6/Stype 41)
+Item.516033.1,风和浪暖,Balmy Surf,和らぎの浪風,온화한 바람과 파도,風和浪暖,Item.json (Type 6/Stype 41)
+Item.516041.1,潮声告诫,Tidal Warning,潮騒の戒め,조수의 경고,潮聲告誡,Item.json (Type 6/Stype 41)
+Item.516042.1,晴滩管制,Shore Regulation,ビーチ管制,백사장의 통제,晴灘管制,Item.json (Type 6/Stype 41)
+Item.516043.1,海风执纪,Marine Justice,規律敷く海風,해풍의 규율,海風執紀,Item.json (Type 6/Stype 41)
+PotentialPreset.10301.1,系统推荐预设1,Default Preset 1,サンプル1,추천 프리셋1,系統推薦預設1,PotentialPreset.json
+PotentialPreset.10302.1,系统推荐预设2,Default Preset 2,サンプル2,추천 프리셋2,系統推薦預設2,PotentialPreset.json
+SoldierPotential.1000101.1,破甲投掷,Shatter Pitch,アーマーブレイク,방어 관통 투척,破甲投擲,SoldierPotential.json
+SoldierPotential.1000102.1,不畏大象,Fearless Stand,巨象も恐れぬ,두려움 없는 기세,不畏大象,SoldierPotential.json
+SoldierPotential.1000301.1,森林的愤怒,Wildwood Wrath,森の怒り,숲의 분노,森林的憤怒,SoldierPotential.json
+SoldierPotential.1000302.1,森林的狂怒,Wildwood Outrage,森の狂乱,숲의 격노,森林的狂怒,SoldierPotential.json
+SoldierPotential.1000501.1,威吓冲撞,Fearsome Dash,威嚇突撃,위협의 돌격,威嚇衝撞,SoldierPotential.json
+SoldierPotential.1000502.1,持续冲撞,Endless Ram,連続突撃,지속적인 돌격,持續衝撞,SoldierPotential.json
+SoldierPotential.1000601.1,森林卫士,Wildwood Watcher,森の衛兵,숲의 수비,森林衛士,SoldierPotential.json
+SoldierPotential.1000602.1,森林守护神,Wildwood Patron,森の守護神,숲의 수호신,森林守護神,SoldierPotential.json
+SoldierPotential.1001501.1,森林的祝福,Wildwood Boon,森の祝福,숲의 축복,森林的祝福,SoldierPotential.json
+SoldierPotential.1001502.1,森林的祈祷,Wildwood Prayer,森の祈り,숲의 기도,森林的祈禱,SoldierPotential.json
+SoldierPotential.1001701.1,补能猫条,Power Purree,にゃんスティック,에너지 츄르,補能貓條,SoldierPotential.json
+SoldierPotential.1001702.1,喵神馈赠,Meow's Grace,猫神の恵み,야옹신의 선물,喵神餽贈,SoldierPotential.json
+SoldierPotential.10301.1,究极火花,Spark of Finality,アルティメットバーン,궁극의 불꽃,究極火花,SoldierPotential.json
+SoldierPotential.10302.1,共振鸣火,Pulsing Cinder,散火の舞,공진의 번쩍임,共振鳴火,SoldierPotential.json
+SoldierPotential.10701.1,骑誓·天穹崩落,Knight Oath: Skyfall,聖誓・光明賛歌,기사의 맹세·천공의 붕괴,騎誓·天穹崩落,SoldierPotential.json
+SoldierPotential.10702.1,完美的回旋,Perfect Spiral,栄光の凱旋,완벽한 회전,完美的迴旋,SoldierPotential.json
+SoldierPotential.1100101.1,群狼战术,Wolfpack Coordination,ウルフパック,늑대 무리의 전술,群狼戰術,SoldierPotential.json
+SoldierPotential.1100102.1,头狼,Alpha Wolf,ウルフリーダー,우두머리 늑대,頭狼,SoldierPotential.json
+SoldierPotential.11101.1,矢量·固化,Vector: Solidifying,ベクトル・硬化,벡터·고정,向量·固化,SoldierPotential.json
+SoldierPotential.11102.1,常量·堆叠,Blizzard: Stack,定量・堆積,상수·중첩,常量·堆疊,SoldierPotential.json
+SoldierPotential.11201.1,迅风开云,Swiftwind Cleave,迅風開雲,질풍 가르기,迅風開雲,SoldierPotential.json
+SoldierPotential.11202.1,疾闪四连,Quadra Blinks,疾風連打,질섬·사연,疾閃四連,SoldierPotential.json
+SoldierPotential.11501.1,萤流·拂照,Firefly Glow: Radiance,おしくらまんじゅう,빛의 유영·은은한 빛,螢流·拂照,SoldierPotential.json
+SoldierPotential.11502.1,萤流·拢光,Firefly Glow: Luminary,ねらいうち,빛의 유영·감싸는 빛,螢流·攏光,SoldierPotential.json
+SoldierPotential.12001.1,翠星环行,Verdant Shroud,ラウンドローレル,별의 순환,翠星環行,SoldierPotential.json
+SoldierPotential.12002.1,星环风暴,Double Tempest,ゲイルヴォーテクス,성환 폭풍,星環風暴,SoldierPotential.json
+SoldierPotential.12501.1,严寒预报,Chill Forecast,極寒予報,혹한의 예고,嚴寒預報,SoldierPotential.json
+SoldierPotential.12502.1,风雪无阻,Unstoppable March,風雪不動,멈추지 않는 의지,風雪無阻,SoldierPotential.json
+SoldierPotential.12701.1,浪潮绝涌,Billowing Tide,フーリアマリス,파도의 절정,浪潮絕湧,SoldierPotential.json
+SoldierPotential.12702.1,飞花潺流,Limpid Stream,フロスアクア,꽃잎과 물결,飛花潺流,SoldierPotential.json
+SoldierPotential.13001.1,危险人偶,Lethal Puppet,呼び込みトラップ,위험한 인형,危險人偶,SoldierPotential.json
+SoldierPotential.1300101.1,伤势标记,Wound Mark,ペインマーク,상처 표식,傷勢標記,SoldierPotential.json
+SoldierPotential.1300102.1,伤势扩散,Wound Spread,ペインウェイブ,상처 확산,傷勢擴散,SoldierPotential.json
+SoldierPotential.13002.1,霜凝滞冻,Freezing Stasis,アイシートーミナ,서리 맺힘,霜凝滯凍,SoldierPotential.json
+SoldierPotential.1301101.1,耻辱印记,Disgrace Mark,屈辱の刻印,굴욕의 표식,恥辱印記,SoldierPotential.json
+SoldierPotential.1301102.1,耻辱延续,Boundless Disgrace,屈辱の継続,굴욕의 연속,恥辱延續,SoldierPotential.json
+SoldierPotential.1302101.1,摩拳擦掌,Pumped Up,準備万端,몸풀기 완료,摩拳擦掌,SoldierPotential.json
+SoldierPotential.1302102.1,摩拳擦掌·极,Pumped Up: Max,準備万端・極,몸풀기 완료·극,摩拳擦掌·極,SoldierPotential.json
+SoldierPotential.1303101.1,自信提升,Morale Up,自信過剰,자신감 상승,自信提升,SoldierPotential.json
+SoldierPotential.1303102.1,信心暴增,Morale Spike,自信爆発,자신감 폭발,信心暴增,SoldierPotential.json
+SoldierPotential.13201.1,义！浪扫尘星,Gi: Supernova Burst,義！煌星の激流,의! 파도 속 별가루,義！浪掃塵星,SoldierPotential.json
+SoldierPotential.13202.1,最后通牒,Ultimatum,最後通牒,최후통첩,最後通牒,SoldierPotential.json
+SoldierPotential.13301.1,花海·爆裂,Flower Sea: Blast,花の海・怒涛,꽃의 바다·폭열,花海·爆裂,SoldierPotential.json
+SoldierPotential.13302.1,芳华·缭乱,Youth: Dazzling,花びらの詩,향기로운 꽃·혼란,芳華·撩亂,SoldierPotential.json
+SoldierPotential.13401.1,震撼突袭,Shock Raid,アサルトフレイム,격렬한 돌격,震撼突襲,SoldierPotential.json
+SoldierPotential.13402.1,碎空裂闪,Voidrend Blitz,砕空裂閃,하늘을 찌르는 일섬,碎空裂閃,SoldierPotential.json
+SoldierPotential.14001.1,刻度爆表,Gauge Overdrive,夢を叶えるランプ,계측 한계 초과,刻度爆表,SoldierPotential.json
+SoldierPotential.14002.1,兔兔集束,Furball Fusillade,サポラビ効果,토끼 집속탄,兔兔集束,SoldierPotential.json
+SoldierPotential.14301.1,转轮式切割器,Rotary Saw,スピンカッター,회전식 절삭기,轉輪式切割器,SoldierPotential.json
+SoldierPotential.14302.1,下挂式发射器,Underbarrel Launcher,チェイスストーム,하부 부착 발사기,下掛式發射器,SoldierPotential.json
+SoldierPotential.14401.1,腾蛇凌波,Serpent's Glide,蛟龍の型,등사 파도,騰蛇凌波,SoldierPotential.json
+SoldierPotential.14402.1,惊涛骇浪,Raging Waves,蛟龍の太刀,파도의 소용돌이,驚濤駭浪,SoldierPotential.json
+SoldierPotential.14901.1,震颤地鸣,Earthshaker,鳴動する重罪,진동하는 대지,震顫地鳴,SoldierPotential.json
+SoldierPotential.14902.1,狂乱失控,Beyond All Control,滾る血,통제 불가 폭주,狂亂失控,SoldierPotential.json
+SoldierPotential.15001.1,天雷地涌,Divine Thunderquake,ライトニングピラー,대지의 솟음,天雷地湧,SoldierPotential.json
+SoldierPotential.1500101.1,爪击扩散·双,Scatter Scratch: Duo,ツインクロー,할퀴기 확산·더블,爪擊擴散·雙,SoldierPotential.json
+SoldierPotential.1500102.1,爪击扩散·三,Scatter Scratch: Trio,トリプルクロー,할퀴기 확산·트리플,爪擊擴散·三,SoldierPotential.json
+SoldierPotential.15002.1,照影凌空,Radiant Ascent,影照らし,그림자 비행,照影凌空,SoldierPotential.json
+SoldierPotential.1501101.1,爆冲续行,Chain Sprint,バーストラン,돌격 연속 찌르기,爆衝續行,SoldierPotential.json
+SoldierPotential.1501102.1,守护之盾,Shield of Protection,セイントシールド,수호의 방패,守護之盾,SoldierPotential.json
+SoldierPotential.15501.1,浪潮共舞,Dance of the Riptide,ウサギパーティー,파도의 춤사위,浪潮共舞,SoldierPotential.json
+SoldierPotential.15502.1,板尾掀浪,Kick the Wave,リバースウェイヴ,보드의 물결 가르기,板尾掀浪,SoldierPotential.json
+SoldierPotential.15601.1,惊吓舞步,Spooky Dance,サプライズステップ,놀라운 스텝,驚嚇舞步,SoldierPotential.json
+SoldierPotential.15602.1,缤果奇缘,Bingo Crush,なにがでるかな？,과일 모험,繽果奇緣,SoldierPotential.json
+SoldierPotential.16001.1,七彩回弹,Rainbow Rebound,跳ね回る七彩,무지개빛 리바운드,七彩回彈,SoldierPotential.json
+SoldierPotential.16002.1,海风低徊,Hovering Gale,低徊する海風,낮게 부는 바닷바람,海風低徊,SoldierPotential.json
+SoldierPotential.1700101.1,圣裁加护,Divine Sanction Ward,セイントジャッジ,심판의 가호,聖裁加護,SoldierPotential.json
+SoldierPotential.1700102.1,骑士意志,Knight's Resolve,ナイツウィル,기사의 의지,騎士意志,SoldierPotential.json
+SoldierPotential.1701101.1,星流箭雨,Rain of Arrows,スターアロー,유성 같은 화살,星流箭雨,SoldierPotential.json
+SoldierPotential.1701102.1,军功赏金,War Bounty,軍功稼ぎ,전공 포상금,軍功賞金,SoldierPotential.json
+SoldierPotential.1702101.1,神恩回流,Grace Refund,恩恵の回収,돌아오는 신의 은총,神恩回流,SoldierPotential.json
+SoldierPotential.1702102.1,荣光馈赠,Glory's Boon,栄光の贈り物,영광의 하사품,榮光餽贈,SoldierPotential.json
+SoldierPotential.1703101.1,战旗鼓舞,Banner of Valor,ウォーバナー,사기 진작의 군기,戰旗鼓舞,SoldierPotential.json
+SoldierPotential.1703102.1,战鼓震耳,Drums of War,轟く戦鼓,귀를 찢는 북소리,戰鼓震耳,SoldierPotential.json
+SoldierPotential.5080101.1,夏洛克红包,Sherlock's Bonus,シャロのお年玉,샤로의 보너스,夏洛克紅包,SoldierPotential.json
+SoldierPotential.5080102.1,土豪夏洛克,Sherlock the Moneybag,大富豪シャロ,자산가 샤로,土豪夏洛克,SoldierPotential.json
+SoldierPotential.9000101.1,喵神加护,Meow God Aegis,猫神の加護,야옹신의 가호,喵神加護,SoldierPotential.json
+SoldierPotential.9000102.1,喵神疗愈,Meow God Cure,猫神の癒やし,야옹신의 치유,喵神療癒,SoldierPotential.json
+SoldierPotential.9000201.1,烈焰烘烤,Scorching Oven,フレイムロースト,직화구이,烈焰烘烤,SoldierPotential.json
+SoldierPotential.9000202.1,热锅油炸,Deep Fry,ディープフライ,바삭한 튀김,熱鍋油炸,SoldierPotential.json
+Talent.1030101.1,攻击强化,ATK Enhancement,攻撃力強化,공격 강화,攻擊強化,Talent.json
+Talent.1030102.1,防御强化,DEF Enhancement,防御力強化,방어 강화,防禦強化,Talent.json
+Talent.1030103.1,生命强化,HP Enhancement,HP強化,HP 강화,生命強化,Talent.json
+Talent.1030105.1,暴击伤害提升,Crit DMG Boost,会心ダメージ増加,치명타 피해 증가,暴擊傷害提升,Talent.json
+Talent.1030116.1,枪弹的轮舞,A Dance with Bullets,銃弾のロンド,총탄의 윤무,槍彈的輪舞,Talent.json
+Talent.1030232.1,踏火的连烟,Barrel is Still Hot,踏火連煙,불길의 연기,踏火的連煙,Talent.json
+Talent.1030348.1,缥缈的回忆,Ethereal Memory,記憶の欠片,아련한 기억,縹緲的回憶,Talent.json
+Talent.1030464.1,沉默的长路,A Silent Long Road,沈黙の旅路,침묵의 길,沉默的長路,Talent.json
+Talent.1030580.1,远空的瞭望,Farsight Vision,遠き眺め,하늘의 전망,遠空的瞭望,Talent.json
+Talent.1070104.1,技能伤害提升,Skill DMG Boost,スキルダメージ増加,스킬 피해 증가,技能傷害提升,Talent.json
+Talent.1070105.1,绝招伤害,Ultimate DMG,必殺技ダメージ増加,필살기 피해,絕招傷害,Talent.json
+Talent.1070116.1,圣枪制裁之处,Divine Punishment,聖槍の制裁,성창의 심판,聖槍裁決之處,Talent.json
+Talent.1070232.1,荣耀汇聚之地,Ward of Honor,栄光の集う場所,영예가 모이는 곳,榮耀匯聚之地,Talent.json
+Talent.1070348.1,骑士的憧憬,Knight's Yearning,騎士への憧憬,기사의 동경,騎士的憧憬,Talent.json
+Talent.1070464.1,梦想的身姿,Legend Silhouette,思い描く夢,꿈의 자태,夢想的身姿,Talent.json
+Talent.1070580.1,正义与你同在,Justice in You,正義とともに,정의는 그대 곁에,正義與你同在,Talent.json
+Talent.1080116.1,强击的号令,Joint Attack Command,攻撃指令,강타의 호령,強擊的號令,Talent.json
+Talent.1080232.1,鲜红的怒焰,Scarlet Gunfire,深紅の業火,선홍의 분노,鮮紅的怒焰,Talent.json
+Talent.1080348.1,炽热的远志,Blazing Ambition,燃え盛る情熱,불타오르는 포부,熾熱的遠志,Talent.json
+Talent.1080464.1,焦灰的燃殇,Charred Lethality,焼き尽くす焦熱,다 타버린 비애,焦灰的燃殤,Talent.json
+Talent.1080580.1,崛起的壮心,Rising Aspiration,獅子奮迅,패기의 각성,崛起的壯心,Talent.json
+Talent.1100105.1,暗系伤害提升,Umbra DMG Boost,闇属性ダメージ強化,어둠 속성 피해 증가,暗系傷害提升,Talent.json
+Talent.1100116.1,荒芜烬灭,Bleak Ruination,滅びの荒野,황폐한 잿더미,荒蕪燼滅,Talent.json
+Talent.1100232.1,堕渊悲恸,Sorrowful Strength,奈落の慟哭,나락의 비통,墮淵悲慟,Talent.json
+Talent.1100348.1,精钢柔心,Tender Adamantine Heart,鋼に宿る優しき心,온화한 마음의 제련,精鋼柔心,Talent.json
+Talent.1100464.1,铿锵玫瑰,Tough Rose,鋼鉄の薔薇,사슬 장미,鏗鏘玫瑰,Talent.json
+Talent.1100580.1,独一无二的你我,Unique Individuals,黒染めの夜鳥,하나뿐인 우리,獨一無二的你我,Talent.json
+Talent.1110116.1,极致优化方案,Ultimate Optimization Plan,最終最適化計画,최상의 최적화 방안,極致改善方案,Talent.json
+Talent.1110232.1,尊享贴身服务,Premium Service,VIPサービス,VIP 밀착 서비스,尊享貼身服務,Talent.json
+Talent.1110348.1,学识的力量,Power of Knowledge,知識の力,아는 것의 힘,學識的力量,Talent.json
+Talent.1110464.1,经验的点拨,Veteran's Tips,経験のヒント,경험의 가르침,經驗的點撥,Talent.json
+Talent.1110580.1,人生的启迪,Enlightened Advice,人生の導き,삶의 깨우침,人生的啟迪,Talent.json
+Talent.1120105.1,普攻伤害提升,Auto Attack DMG Boost,通常攻撃ダメージ増加,일반 공격 피해 증가,普攻傷害提升,Talent.json
+Talent.1120116.1,飘风驱驰,Wind Rider,荒ぶる旋風,질풍의 질주,暴風驅馳,Talent.json
+Talent.1120232.1,绝风波导,Air Vibration,絶風の波動,절풍파도,絕風波導,Talent.json
+Talent.1120348.1,旧日的幻影,Shadows from the Past,在りし日の面影,과거의 환영,舊日的幻影,Talent.json
+Talent.1120464.1,今时的牵绊,Today's Bond,イマをともに,현재의 구속,今時的牽絆,Talent.json
+Talent.1120580.1,未解的断章,Unsolved Chapter,星に願いを,풀리지 않은 챕터,未解的斷章,Talent.json
+Talent.1130116.1,夜雨不霁,Ceaseless Drizzle,やまない夜雨,멈추지 않는 밤비,夜雨不霽,Talent.json
+Talent.1130232.1,细雨纷飞,Splashing Raindrops,弾む小雨,흩날리는 가랑비,細雨紛飛,Talent.json
+Talent.1130348.1,澄水·无痕,Clear Water: Traceless,澄水・無痕,맑은 물·무흔,澄水·無痕,Talent.json
+Talent.1130464.1,澄水·幽韵,Clear Water: Melody,澄水・深幽,맑은 물·정취,澄水·幽韻,Talent.json
+Talent.1130580.1,澄水·问心,Clear Water: Meditation,澄水・問心,맑은 물·마음,澄水·問心,Talent.json
+Talent.1140116.1,黑暗弑神之力,Dark Power Slayer,ネコ神の使者,칠흑의 살신력,黑暗弒神之力,Talent.json
+Talent.1140232.1,上古喵神使者,Meowth's Emissary,漆黒の血族,야옹신의 사자,上古喵神使者,Talent.json
+Talent.1140348.1,加重枪管,Enhanced Barrel,エースオブネコ,가중 총열,重型槍管,Talent.json
+Talent.1140464.1,目标指示器,Target Indicator,開眼の刻,목표 지시기,索敵指示器,Talent.json
+Talent.1140580.1,射击节拍器,Shooting Metronome,神も屠る力,사격 메트로놈,射擊節拍器,Talent.json
+Talent.1150101.1,生命强化,HP Enhancement,*****,HP 강화,生命強化,Talent.json
+Talent.1150102.1,潜能提升·主控,Improved Potential: Main,*****,잠재력 증가·메인,潛能提升·主控,Talent.json
+Talent.1150103.1,攻击强化,ATK Enhancement,*****,공격 강화,攻擊強化,Talent.json
+Talent.1150105.1,防御强化,DEF Enhancement,*****,방어 강화,防禦強化,Talent.json
+Talent.1150106.1,能力强化·普攻,Improved Skill: Auto Attack,*****,능력 강화·일반 공격,能力強化·普攻,Talent.json
+Talent.1150108.1,潜能提升·通用,Improved Potential: Generic,*****,잠재력 증가·공용,潛能提升·通用,Talent.json
+Talent.1150110.1,能力强化·援护,Improved Skill: Support,*****,능력 강화·지원,能力強化·援護,Talent.json
+Talent.1150116.1,光散成章,Photon Diffusion,無邪気な光,흩어진 빛의 문장,光散成章,Talent.json
+Talent.1150222.1,能力强化·主控,Improved Skill: Main,*****,능력 강화·메인,能力強化·主控,Talent.json
+Talent.1150232.1,光落如剑,Shining Blades,適合者の才能,빛의 검 강림,光落如劍,Talent.json
+Talent.1150348.1,玩偶与安全小屋,Plushie and Safehouse,師の教え,인형과 안식처,玩偶與安全小屋,Talent.json
+Talent.1150464.1,翅膀与秘密玩伴,Wings and Secret Friends,感情の萌芽,날개와 비밀 친구,翅膀與祕密玩伴,Talent.json
+Talent.1150580.1,兵器与天使之心,Armaments and Angel Heart,友のための剣,병기와 천사의 마음,兵器與天使之心,Talent.json
+Talent.1160105.1,绝招伤害提升,Increases Ultimate DMG by,必殺技ダメージ増加,필살기 피해 증가,絕招傷害提升,Talent.json
+Talent.1160116.1,田园牧歌,Pastoral Ode,収穫のお裾分け,전원의 노래,田園牧歌,Talent.json
+Talent.1160232.1,春华秋实,Cycle of Growth,実りの季節,결실의 계절,春華秋實,Talent.json
+Talent.1160348.1,五谷丰登,Bountiful Harvest,豊作祝い！,대풍년,五穀豐登,Talent.json
+Talent.1160464.1,锄禾日当午,Labor Under the Sun,土壌改良,뙤약볕의 밭일,鋤禾日當午,Talent.json
+Talent.1160580.1,粒粒皆辛苦,Soil and Toil,忍耐と汗の結実,한 톨 한 톨의 수고,粒粒皆辛苦,Talent.json
+Talent.1170116.1,雷霆怒斩,Thunder Wrath,激昂の雷,천둥의 분노 참격,雷霆怒斬,Talent.json
+Talent.1170232.1,麒麟咆哮,Qilin Roar,麒麟の咆哮,기린의 포효,麒麟咆哮,Talent.json
+Talent.1170348.1,开业大吉,Good Business,商売繁盛,번영의 시작,開業大吉,Talent.json
+Talent.1170464.1,收支平衡,Meeting Ends,収支計算,수입 지출 균형,收支平衡,Talent.json
+Talent.1170580.1,利市三倍,Triple Revenue,お年玉三倍,3배의 이익,利市三倍,Talent.json
+Talent.1180116.1,断时之标,Severing Edge,刻を断つ鎌,시간 끊김의 표식,斷時之標,Talent.json
+Talent.1180232.1,时光封缄,Hostile Amplification,時間の檻,시간의 봉인,時光封緘,Talent.json
+Talent.1180348.1,缝合固定,Stitch and Fix,特殊縫合術,고정 봉합,縫合固定,Talent.json
+Talent.1180464.1,修整美化,Beautification and Fix,補修技術,정비와 수선,修整美化,Talent.json
+Talent.1180580.1,标本展示,Specimen Exhibition,標本作り,샘플 전시,標本展示,Talent.json
+Talent.1190105.1,风系伤害提升,Ventus DMG Boost,風属性ダメージ増加,바람 속성 피해 증가,風系傷害提升,Talent.json
+Talent.1190116.1,如梦似幻,Like a Dream,夢幻の如く,꿈과 환상,如夢似幻,Talent.json
+Talent.1190232.1,春日再临,Rejuvenating Spring,春の再臨,봄날의 재림,春日再臨,Talent.json
+Talent.1190348.1,葵之秘术,Esoteric Arts,葵の秘術,아오이의 비술,葵之祕術,Talent.json
+Talent.1190464.1,风之循环,Circulation of Wind,巡るそよ風,바람의 순환,風之循環,Talent.json
+Talent.1190580.1,忍之信条,Ninja Creed,忍の心得,인의 신념,忍之信條,Talent.json
+Talent.1200116.1,青春往复不在,Lost Youth,還らぬ青い春,반복되지 않는 청춘,青春不復存在,Talent.json
+Talent.1200232.1,常夜迎来黎明,Imminent Dawn,常夜の黎明,영원한 밤의 새벽,永夜迎來黎明,Talent.json
+Talent.1200348.1,封存的过去,Hidden Past,暗い過去,봉인된 과거,封存的過去,Talent.json
+Talent.1200464.1,授人的天职,Mentor's Duty,最高の天職,가르침의 천직,授人的天職,Talent.json
+Talent.1200580.1,真相的渴求,Yearning for Truth,真相究明,진실의 갈구,真相的渴求,Talent.json
+Talent.1230116.1,怒风的叹息,Sigh of Storm,風の息吹,분노한 바람의 탄식,怒風的嘆息,Talent.json
+Talent.1230232.1,怒风的低吼,Rumbling Wind,唸る風波,분노한 바람의 울부짖음,怒風的低吼,Talent.json
+Talent.1230348.1,远野的守望,The Watcher in the Rye,見張り番,먼 곳의 파수,遠野的守望,Talent.json
+Talent.1230464.1,麦浪的诗篇,Rippling Crops,金色の子守唄,밀밭 물결의 시편,麥浪的詩篇,Talent.json
+Talent.1230580.1,大地的歌咏,Ode to Earth,大地の歌,대지의 노래,大地的歌詠,Talent.json
+Talent.1250105.1,水系伤害提升,Aqua DMG Boost,水属性ダメージ増加,물 속성 피해 증가,水系傷害提升,Talent.json
+Talent.1250116.1,出走者 新生,The Runaway: Rebirth,脱走者・新生,이탈자 새로운 삶,出走者 新生,Talent.json
+Talent.1250232.1,逃亡者 审判,The Fugitive: Judgment,逃亡者・審判,도망자 심판,逃亡者 審判,Talent.json
+Talent.1250348.1,观点斧正,Correction of Opinions,多角的な視点,관점의 교정,觀念斧正,Talent.json
+Talent.1250464.1,公论辩驳,Debate of Truth,弁論と立証,공론과 반박,公論辯駁,Talent.json
+Talent.1250580.1,义 理 善,"Justice, Reason and Kindness",義・理・善,"의, 이, 선",義 理 善,Talent.json
+Talent.1260116.1,残花缀舞,Withered Flower Show,残花の舞,시든 꽃의 춤,殘花綴舞,Talent.json
+Talent.1260232.1,落花再槃,Fate of Nirvana,狂い散る花弁,쇠락 뒤의 재생,落花再槃,Talent.json
+Talent.1260348.1,孤灯阑珊,A Lonely Stage,孤灯の終末,꺼져가는 등불,孤燈闌珊,Talent.json
+Talent.1260464.1,明烛浮影,Flickering Candle,蝋燭と影,촛불과 그림자,明燭浮影,Talent.json
+Talent.1260580.1,烟舞人间,Lived as Play,くゆる種火,연기의 인간 세상,煙舞人間,Talent.json
+Talent.1270116.1,沉渊坚锋,Sturdy Edge,深淵の峰,심연과 단단한 검,沉淵堅鋒,Talent.json
+Talent.1270232.1,仲夏夜之雨,Midsummer Rain,熱帯夜の雨,한여름 밤의 비,仲夏夜之雨,Talent.json
+Talent.1270348.1,老练游侠,Battle-proven Ranger,魔剣解放,노련한 방랑자,老練遊俠,Talent.json
+Talent.1270464.1,云荡四方,Dispersing Cloud,たゆたう雲,사방을 떠도는 구름,雲遊四方,Talent.json
+Talent.1270580.1,传奇冒险家,Legendary Adventurer,伝説の冒険家,전설의 모험가,傳奇冒險家,Talent.json
+Talent.1300116.1,信使的初心,Courier's Aspiration,配達の真心,메신저의 초심,信使的初心,Talent.json
+Talent.1300232.1,旅途的点滴,Memories of the Journey,両親の愛,여정의 이야기들,旅途的點滴,Talent.json
+Talent.1300348.1,三人的理想,Dreams We Share,リーダーの信念,세 사람의 이상,三人的理想,Talent.json
+Talent.1300464.1,漂泊的归属,Drifter's Destination,ヨロズ配達の夢,떠돌이의 귀속,漂泊的歸屬,Talent.json
+Talent.1300580.1,我们的万送屋,Our Post Haste,想いの届け人,우리의 요로즈 택배,我們的萬送屋,Talent.json
+Talent.1320105.1,光系伤害提升,Lux DMG Boost,光属性ダメージ増加,빛 속성 피해 증가,光系傷害提升,Talent.json
+Talent.1320116.1,夜幕中的群星,Starry Night,真夜中の群星,밤의 장막 속 별무리,夜幕中的群星,Talent.json
+Talent.1320232.1,风吹起的地方,Where Wind Starts,風の出発点,바람이 불어오는 곳,風吹起的地方,Talent.json
+Talent.1320348.1,遗失的追忆,Forsaken Memories,失われた追憶,유실된 추억,遺失的追憶,Talent.json
+Talent.1320464.1,不灭的信念,Imperishable Belief,不滅の信念,불멸의 신념,不滅的信念,Talent.json
+Talent.1320580.1,书与滑板与他们,"Books, Skateboard and the Clan",灰色の魂,"책과 스케이트보드, 그들",書、滑板與他們,Talent.json
+Talent.1330116.1,以旅人之名,In the Name of Trekkers,巡遊者の矜持,여행가의 이름으로,以旅人之名,Talent.json
+Talent.1330232.1,以智慧之名,In the Name of Wisdom,爽風の才媛,지혜의 이름으로,以智慧之名,Talent.json
+Talent.1330348.1,以责任之名,In the Name of Responsibility,先導者の責務,책임의 이름으로,以責任之名,Talent.json
+Talent.1330464.1,榜样的重担,The Burden of a Role Model,鑑の使命,모범의 무게,榜樣的重擔,Talent.json
+Talent.1330580.1,伙伴的坚守,The Resolve of Companions,仲間の絆,동료의 견지,夥伴的堅守,Talent.json
+Talent.1340104.1,火系伤害提升,Ignis DMG Boost,火属性ダメージ増加,불 속성 피해 증가,火系傷害提升,Talent.json
+Talent.1340116.1,天生巨力,Natural Strength,怪力無双,신이 내린 힘,天生巨力,Talent.json
+Talent.1340232.1,拳道觉醒,Fist of Awakening,覚醒ファイター,권도의 각성,拳道覺醒,Talent.json
+Talent.1340348.1,无可匹敌,Peerless Might,無敵の拳,무적의 존재,無可匹敵,Talent.json
+Talent.1340464.1,二拳超人,Two Punch Hero,パワーマスター,권투의 달인,二拳超人,Talent.json
+Talent.1340580.1,名师高徒,Learned from the Best,雪解けの誉れ,뛰어난 사제,名師高徒,Talent.json
+Talent.1350105.1,暗系伤害提升,Umbra DMG Boost,闇属性ダメージ増加,어둠 속성 피해 증가,暗系傷害提升,Talent.json
+Talent.1350116.1,流言似锋,Harmful Rumors,流言の切っ先,칼날 같은 소문,流言似鋒,Talent.json
+Talent.1350232.1,二次中伤,Secondary Slander,影の追跡者,2차 중상,二次中傷,Talent.json
+Talent.1350348.1,传播心理学,Communication Psychology,行動心理学,전파 심리학,傳播心理學,Talent.json
+Talent.1350464.1,社会工程学,Social Engineering,世の中の仕組み,사회 공학,社會工程學,Talent.json
+Talent.1350580.1,真相如你所愿,Truth As You Wish,お気に召すまま,소망하던 진실,真相如你所願,Talent.json
+Talent.1370116.1,小手一挥,Small Treat,籠を出た鳥,손짓 한 번,優雅的餘裕,Talent.json
+Talent.1370232.1,买买买,Spree Mode,深窓の令嬢,폭풍 구매,預算無上限,Talent.json
+Talent.1370348.1,这里我包场,On the House,先輩の背中,골든벨,獨享的特權,Talent.json
+Talent.1370464.1,今天我请客,My Treat Today,お嬢様巡遊者,오늘은 내가 산다,慷慨的贊助,Talent.json
+Talent.1370580.1,大家一起嗨,Party Time,終わらない夢,다같이 놀자,華麗的冒險派對,Talent.json
+Talent.1400116.1,天才工匠,Genius Artisan,天才マイスター,천재 장인,天才工匠,Talent.json
+Talent.1400232.1,拉黑名单,Blacklist,ブラックリスト,블랙리스트,封鎖名單,Talent.json
+Talent.1400348.1,发明蓝图,Invention Blueprint,奇跡の設計図,발명가의 설계도,發明藍圖,Talent.json
+Talent.1400464.1,童话中的朋友,Fairy Tale Friends,童話のお友達,동화 속 친구,童話中的朋友,Talent.json
+Talent.1400580.1,盒中的童谣,Rhymes of the Wonderbox,ラボラビの子守歌,상자 속 동요,盒中的童謠,Talent.json
+Talent.1410116.1,烈火秘卷,Blaze Tome,烈火の秘伝書,열화의 비술서,烈火祕卷,Talent.json
+Talent.1410232.1,离火燎原,Blaze Unbound,離火飛炎,번지는 불길,離火燎原,Talent.json
+Talent.1410348.1,得天独厚,Prime Advantage,天からの贈り物,타고난 재능,得天獨厚,Talent.json
+Talent.1410464.1,成长的试炼,Trial of Growth,昇進試練,성장의 시련,成長的試煉,Talent.json
+Talent.1410580.1,合格的玄师,Qualified Xuan Shi,完璧な玄師,합격한 현사,合格的玄師,Talent.json
+Talent.1420116.1,黯影渎月,Blasphemous Moon,ムーンシャドウ,달 주변의 그림자,黯影瀆月,Talent.json
+Talent.1420232.1,黯影缺刻,Extinctive Downpour,レイジシャドウ,그림자의 각인,黯影缺刻,Talent.json
+Talent.1420348.1,余烬的阴云,Cloud of Embers,余燼の雲,잿더미 속 먹구름,餘燼的陰雲,Talent.json
+Talent.1420464.1,离开的决心,Determined to Leave,別れの決意,헤어질 결심,離開的決心,Talent.json
+Talent.1420580.1,新的“我”,The New Me,新しい『私』,새로운 ‘나’,新的「我」,Talent.json
+Talent.1430104.1,攻击提升,ATK Boost,攻撃力強化,공격 증가,攻擊提升,Talent.json
+Talent.1430105.1,风系伤害,Ventus DMG,風属性ダメージ増加,바람 속성 피해,風系傷害,Talent.json
+Talent.1430116.1,黎明扳机,Daybreak Trigger,黎明の刻,새벽의 방아쇠,黎明扳機,Talent.json
+Talent.1430232.1,扶正诛恶,Righteous Judgment,善き狩り,악의 단죄,扶正誅惡,Talent.json
+Talent.1430348.1,白银魅影,Silver Phantom,白銀の影,백은의 환영,白銀魅影,Talent.json
+Talent.1430464.1,枪响剧终,Curtain Call,終の弾丸,최후의 총성,槍響劇終,Talent.json
+Talent.1430580.1,荣归北境,Glorious Return to Norstheim,故き郷へ,금의환향,榮歸北境,Talent.json
+Talent.1440105.1,攻击强化,ATK Enhancement,攻撃強化,공격 강화,攻擊強化,Talent.json
+Talent.1440116.1,织浪成衣,Tideweaver,連なりし龍刃,파도의 옷,織浪成衣,Talent.json
+Talent.1440232.1,水袖藏刃,Blade in Sleeves,水は循り環りて,소매 속 숨겨진 칼날,水袖藏刃,Talent.json
+Talent.1440348.1,影随潮生,Tideborn Shadow,水影より出る真,조류의 그림자,影隨潮生,Talent.json
+Talent.1440464.1,霁雨初晴,Afterrain Clarity,蛟龍の呼び水,비 갠 후 맑음,霽雨初晴,Talent.json
+Talent.1440580.1,流云踏歌,Cloudstrider's Melody,巌穿つ波,구름 위의 노래,流雲踏歌,Talent.json
+Talent.1450116.1,长夜无明,Lightless Night,長夜無明,끝을 알 수 없는 어둠,長夜無明,Talent.json
+Talent.1450232.1,现世如晦,Gloomy Reality,晦す現世,어둠에 잠긴 세상,現世如晦,Talent.json
+Talent.1450348.1,异邦幻华,Exotic Flora,異邦幻華,낯선 땅의 불꽃,異邦幻華,Talent.json
+Talent.1450464.1,以眼还眼,Eye for an Eye,眼には眼を,눈에는 눈,以眼還眼,Talent.json
+Talent.1450580.1,以心传心,Heart to Heart,以心伝心,이심전심,以心傳心,Talent.json
+Talent.1470116.1,基础乐理,Fundamental Theory,基礎音楽理論,기초 음악 이론,基礎樂理,Talent.json
+Talent.1470232.1,和弦演绎,Chord Crescendo,コード演奏,화음의 연주,和弦演繹,Talent.json
+Talent.1470348.1,丝滑琶音,Silken Performance,4連プル,실크 같은 선율,絲滑琶音,Talent.json
+Talent.1470464.1,炫技弹拨,Cadenza Pluck,弾けるビート,현란한 연주,炫技彈撥,Talent.json
+Talent.1470580.1,巨星登场,Superb Debut,スター爆誕,슈퍼스타 등장,巨星登場,Talent.json
+Talent.1490116.1,诞生即有罪,Original Sin,ワタシの原罪,태생적 원죄,誕生即有罪,Talent.json
+Talent.1490232.1,望见白宝座,White Throne,白き御座の仰ぎ,왕좌를 바라보며,望見白寶座,Talent.json
+Talent.1490348.1,拉撒路回光,Lazarus' Resurrection,サマエルの祝福,나사로의 부활,拉撒路回光,Talent.json
+Talent.1490464.1,黄昏受缚者,Shackled at Dusk,黄昏の呪縛,황혼에 묶인 자,黃昏受縛者,Talent.json
+Talent.1490580.1,等待弥赛亚,Messiah' Promise,シュワキマセリ,메시아를 기다리며,等待彌賽亞,Talent.json
+Talent.1500116.1,落枪·祝祷,Lancefall: Benediction,落槍・祈り,낙창·축도,落槍·祝禱,Talent.json
+Talent.1500232.1,落枪·神罚,Lancefall: Retribution,落槍・神罰,낙창·신벌,落槍·神罰,Talent.json
+Talent.1500348.1,海鸥的薯条,Seagull's Fries,カモメのポテト,갈매기의 감자튀김,海鷗的薯條,Talent.json
+Talent.1500464.1,生存的秘笈,Secret of Survival,サバイバル術,생존의 비결,生存的祕笈,Talent.json
+Talent.1500580.1,特殊的信仰,Special Conviction,仕事熱心,특별한 믿음,特殊的信仰,Talent.json
+Talent.1550116.1,粼光初现时,Sparkling Dawn,マルチウェイヴ,물결 빛의 첫 등장,粼光初現時,Talent.json
+Talent.1550232.1,潮音的回响,Tidecaller's Resonance,潮騒に沸く心,파도의 메아리,潮音的迴響,Talent.json
+Talent.1550348.1,流星指引处,Meteor's Guidance,月・光・兎,유성이 가리키는 곳,流星指引處,Talent.json
+Talent.1550464.1,海平线之外,Beyond the Horizon,波に先立つ兎,수평선 너머,海平線之外,Talent.json
+Talent.1550580.1,最后一滴泪,Last Tear,波間に光る滴,마지막의 눈물,最後一滴淚,Talent.json
+Talent.1560116.1,被窝不离身,Blanket Home,二度寝の誘惑,이불 밖은 위험해,被窩不離身,Talent.json
+Talent.1560232.1,零食召唤阵,Snack Summoning Circle,次から本気出す,간식 소환진,零食召喚陣,Talent.json
+Talent.1560348.1,软绵绵守护,Fluffy Guardian,ボディが甘い！,말랑말랑 수호,軟綿綿守護,Talent.json
+Talent.1560464.1,宅力满分星,Expert Homebody,あいつは任せた,집순이 파워,宅力滿分星,Talent.json
+Talent.1560580.1,甜梦安眠曲,Lullaby of Sweet Dreams,芝生に寝転んで,꿀잠 자장가,甜夢安眠曲,Talent.json
+Talent.1570116.1,清波荡漾时,Ripples of Grace,波揺らぐ時,맑은 물결 일렁일 때,清波蕩漾時,Talent.json
+Talent.1570232.1,远海的潮鸣,Ocean's Echo,遠海からの潮鳴り,먼 바다의 파도 소리,遠海的潮鳴,Talent.json
+Talent.1570348.1,霞光落幕处,Twilight's End,夕陽沈む地,노을빛 내리는 곳,霞光落幕處,Talent.json
+Talent.1570464.1,静驻在夏夜,Calm Summer Night,夏夜に佇みて,여름밤에 머무르며,靜駐於夏夜,Talent.json
+Talent.1570580.1,海浪似我心,Heart as Waves,波寄せる心,내 마음 같은 파도,海浪似我心,Talent.json
+Talent.1580104.1,绝招伤害提升,Ultimate DMG Boost,必殺技ダメージ増加,필살기 피해 증가,絕招傷害提升,Talent.json
+Talent.1580116.1,胡桃夹子,Nutcracker,おもちゃのパーティー,호두까기 인형,胡桃夾子,Talent.json
+Talent.1580232.1,圣夜的礼物,Holy Night Gift,聖夜の贈り物,이브의 선물,聖夜的禮物,Talent.json
+Talent.1580348.1,积木乐园,Block Paradise,焔のキャロル,블록 랜드,積木樂園,Talent.json
+Talent.1580464.1,女王的茶会,Queen's Party,子どもの夢を守る者,여왕의 다과회,女王的茶會,Talent.json
+Talent.1580580.1,梦境再演,Dreams Replayed,クリスマスの使者,꿈의 재연,夢境再演,Talent.json
+Talent.1590105.1,地系伤害提升,Terra DMG Boost,地属性ダメージ増加,땅 속성 피해 증가,地系傷害提升,Talent.json
+Talent.1590116.1,锦灯引路,Guiding Lanterns,異邦の旅人,비단 등불의 인도,錦燈引路,Talent.json
+Talent.1590232.1,守岁长明,Eternal Flame,新たな知見,영원한 등불,守歲長明,Talent.json
+Talent.1590348.1,回春妙手,Magical Touch,医術の融合,회춘의 명의,回春妙手,Talent.json
+Talent.1590464.1,瑞兆镇疾,Healing Auspice,仁術の担い手,질병 제압의 길조,瑞兆鎮疾,Talent.json
+Talent.1590580.1,辞旧迎新,Fresh Start,真実の探求者,새로운 시작의 전조,辭舊迎新,Talent.json
+Talent.1600116.1,假日时光,Holiday Time,碧に溶ける憩い,휴일의 시간,假日時光,Talent.json
+Talent.1600232.1,心悬未落,Heart Unsettled,凪がぬ心,놓여지지 않는 마음,心懸未落,Talent.json
+Talent.1600348.1,知止有得,Wisdom in Restraint,休みて知る,적당한 행복,知止有得,Talent.json
+Talent.1600464.1,浮沉自在,Going with the Flow,波のまにまに,안정한 존재,浮沉自在,Talent.json
+Talent.1600580.1,归零重启,Reset and Restart,波にさらわれて,다시 처음부터,歸零重啟,Talent.json
+TalentGroup.14502.1,现世如晦,Gloomy Reality,眩き現世,어둠에 잠긴 세상,現世如晦,TalentGroup.json
+TalentGroup.14504.1,以眼还眼,Eye for an Eye,陰に沈む,눈에는 눈,以眼還眼,TalentGroup.json
+TowerDefensePotential.1030101.1,热情扳机,Ardent Trigger,情熱射撃,뜨거운 방아쇠,熱情扳機,TowerDefensePotential.json
+TowerDefensePotential.1030102.1,精准控温,Precise Temperature Control,緻密温度調整,정밀 온도 제어,精準控溫,TowerDefensePotential.json
+TowerDefensePotential.1030103.1,优势火力,Dominant Firepower,超火力,압도적인 화력,優勢火力,TowerDefensePotential.json
+TowerDefensePotential.1030104.1,散落舞步,Scattering Waltz,散火の舞,산화의 춤,散落舞步,TowerDefensePotential.json
+TowerDefensePotential.1030105.1,攻击力,ATK,攻撃力,공격력,攻擊力,TowerDefensePotential.json
+TowerDefensePotential.1030106.1,攻击速度,ATK SPD,攻撃速度,공격 속도,攻擊速度,TowerDefensePotential.json
+TowerDefensePotential.1070101.1,坚壁信条,Creed of Fortification,生存本能,견고의 신조,堅壁信條,TowerDefensePotential.json
+TowerDefensePotential.1070102.1,绝妙接力,Brilliant Relay,正義の仲間,절묘한 릴레이,絕妙接力,TowerDefensePotential.json
+TowerDefensePotential.1070103.1,圣光领域,Holy Domain,聖光領域,성스러운 빛의 영역,聖光領域,TowerDefensePotential.json
+TowerDefensePotential.1070104.1,回转的奥义,Mystery of Gyration,ナイトキック,회전의 오의,回轉的奧義,TowerDefensePotential.json
+TowerDefensePotential.1070107.1,技能充能,Skill Charge,スキルチャージ,스킬 SP 회복,技能蓄能,TowerDefensePotential.json
+TowerDefensePotential.1100101.1,延时在岗,Extended Shift,残業タイム,지연 근무,延時駐場,TowerDefensePotential.json
+TowerDefensePotential.1100102.1,高危风险,High Risk,冴えわたる采配,고위험 리스크,高度風險,TowerDefensePotential.json
+TowerDefensePotential.1100103.1,幻舞步,Phantom Waltz,幻舞のステップ,환영의 스텝,幻舞步,TowerDefensePotential.json
+TowerDefensePotential.1100104.1,愁云惨雾,Gloomy Veil,憂いの声,절망의 어둠,愁雲慘霧,TowerDefensePotential.json
+TowerDefensePotential.1110101.1,暴风漫雪,Raging Blizzard,暴風豪雪,폭풍 눈보라,暴風漫雪,TowerDefensePotential.json
+TowerDefensePotential.1110102.1,一日之寒,Cold Snap,寒さ対策,한낮의 추위,一日之寒,TowerDefensePotential.json
+TowerDefensePotential.1110103.1,常量·扩散,Blizzard: Spread,定量・拡散,상수·확산,常量·擴散,TowerDefensePotential.json
+TowerDefensePotential.1110104.1,常量·堆叠,Constant: Stack,定量・堆積,상수·중첩,常量·堆疊,TowerDefensePotential.json
+TowerDefensePotential.1120101.1,断风斩,Wind Slash,断風斬,회오리 베기,斷風斬,TowerDefensePotential.json
+TowerDefensePotential.1120102.1,闪·追风！,Slash: Windfury!,旋・疾風！,섬·질풍,閃·追風！,TowerDefensePotential.json
+TowerDefensePotential.1120103.1,闪·烁影！,Slash: Chain Slash!,旋・風舞！,섬·그림자춤,閃·爍影！,TowerDefensePotential.json
+TowerDefensePotential.1120104.1,闪·二重！,Slash: Dual Strike!,旋・二重奏！,섬·이중주,閃·二重！,TowerDefensePotential.json
+TowerDefensePotential.1140101.1,连招起手,Combo Strike,コンボ始動,연속기 발동,連招起手,TowerDefensePotential.json
+TowerDefensePotential.1140102.1,弹跳炸弹,Rebound Bomb,ネコ神爆弾,탄성 폭탄,彈跳炸彈,TowerDefensePotential.json
+TowerDefensePotential.1140103.1,喵神时刻,Meowth's Favor,ネコ神タイム,야옹신의 순간,喵神時刻,TowerDefensePotential.json
+TowerDefensePotential.1140104.1,狙击天才,Sniper Genius,狙撃の天才,저격 천재,狙擊天才,TowerDefensePotential.json
+TowerDefensePotential.1180101.1,灵魂封禁,Soul Restraint,霊魂封じ,영혼 봉인,靈魂封禁,TowerDefensePotential.json
+TowerDefensePotential.1180102.1,骸骨雕刻,Skeleton Sculpture,骸骨彫刻,해골 조각,骸骨雕刻,TowerDefensePotential.json
+TowerDefensePotential.1180103.1,灵魂典藏,Spiritual Tome,標本集め,영혼 컬렉션,靈魂典藏,TowerDefensePotential.json
+TowerDefensePotential.1180104.1,奇术收藏,Arcane Collection,連続オペ,묘기 수집,奇術收藏,TowerDefensePotential.json
+TowerDefensePotential.1230101.1,风之吐息,Wind's Breath,風の吐息,바람의 숨결,風之吐息,TowerDefensePotential.json
+TowerDefensePotential.1230102.1,凌风势起,Wind Surge,上昇気流,바람을 거스르는 기세,凌風勢起,TowerDefensePotential.json
+TowerDefensePotential.1230103.1,轻摇风铃,Wind Chime,風鈴の音,흔들리는 풍경종,輕搖風鈴,TowerDefensePotential.json
+TowerDefensePotential.1230104.1,炫光漩涡,Dazzling Vortex,風塵渦流,빛의 소용돌이,炫光漩渦,TowerDefensePotential.json
+TowerDefensePotential.1260101.1,幕后的支援,Backstage Support,回復マジック,배후의 지원,幕後的支援,TowerDefensePotential.json
+TowerDefensePotential.1260102.1,薪火的再燃,Ember Rekindled,篝火・再燃,불씨의 재점화,薪火的再燃,TowerDefensePotential.json
+TowerDefensePotential.1260103.1,往日·余烬,Ashes of the Past,灰燼・過去,과거·잿더미,往日·餘燼,TowerDefensePotential.json
+TowerDefensePotential.1260104.1,明日·薪火,Ember of Tomorrow,篝火・未来,미래·희망의 불씨,明日·薪火,TowerDefensePotential.json
+TowerDefensePotential.1270101.1,很厉害吧！,Isn't It Awesome!,どうにゃ！,대단하지!,很厲害吧！,TowerDefensePotential.json
+TowerDefensePotential.1270102.1,这样如何！,How About This!,決めるにゃ！,이건 어때!,這樣如何！,TowerDefensePotential.json
+TowerDefensePotential.1270103.1,绝涌·不息,Surge: Immortality,絶流・悠久,끝없는 분출·불식,絕湧·不息,TowerDefensePotential.json
+TowerDefensePotential.1270104.1,绝涌·快霆,Surge: Thunderbolt,絶流・重圧,끝없는 분출·신속,絕湧·快霆,TowerDefensePotential.json
+TowerDefensePotential.1300101.1,喧闹余音,Lingering Noise,代表の覚悟,떠들썩한 잔음,喧鬧餘音,TowerDefensePotential.json
+TowerDefensePotential.1300102.1,精准营销,Precision Marketing,狙い撃ちセールス,타깃 마케팅,精準行銷,TowerDefensePotential.json
+TowerDefensePotential.1300103.1,绽蓝之夜,Azure Night,速達サービス,푸른 빛의 밤,綻藍之夜,TowerDefensePotential.json
+TowerDefensePotential.1300104.1,换班响铃,Shift Bell,日直交代,교대의 종소리,換班響鈴,TowerDefensePotential.json
+TowerDefensePotential.1330101.1,身如柳絮,Willowy Grace,烈風の加護,가벼운 몸놀림,身如柳絮,TowerDefensePotential.json
+TowerDefensePotential.1330102.1,风蚀冲击,Wind Erosion Impact,風蝕の加護,풍식의 충격,風蝕衝擊,TowerDefensePotential.json
+TowerDefensePotential.1330103.1,风华永续,Everlasting Elegance,久遠の風華,불멸의 바람,風華永續,TowerDefensePotential.json
+TowerDefensePotential.1330104.1,花影旋风,Blooming Gale,天風の華,꽃 그림자 회오리,花影旋風,TowerDefensePotential.json
+TowerDefensePotential.1340101.1,炎能烙印,Pyro Mark,ヒートサイン,불꽃의 낙인,炎能烙印,TowerDefensePotential.json
+TowerDefensePotential.1340102.1,快拳连打,Combo Punch,フレアラッシュ,쾌속 연타,快拳連打,TowerDefensePotential.json
+TowerDefensePotential.1340103.1,再装填,Reload,連撃よーい！,재장전,再裝填,TowerDefensePotential.json
+TowerDefensePotential.1340104.1,猫猫拳,Kitty Punch,ネコパンチ,냥냥펀치,貓貓拳,TowerDefensePotential.json
+TowerDefensePotential.1350101.1,现世侵蚀,Reality Erosion,真実の追求,현실 침식,現世侵蝕,TowerDefensePotential.json
+TowerDefensePotential.1350102.1,恶意,Malice,質問攻め,악의,惡意,TowerDefensePotential.json
+TowerDefensePotential.1350103.1,招魂,The Conjuring,助手の指名,초혼,招魂,TowerDefensePotential.json
+TowerDefensePotential.1350104.1,邀约入眠,Slumber Invitation,ネタ集め,수면 유혹,邀約入眠,TowerDefensePotential.json
+TowerDefensePotential.1400101.1,跃耳极射,Bunny-Ear Volley,ラビットバースト,쫑긋 사격,躍耳極射,TowerDefensePotential.json
+TowerDefensePotential.1400102.1,兔兔大开口,Bunny Jaws,タンクモード,토끼 대개방,兔兔大開口,TowerDefensePotential.json
+TowerDefensePotential.1400103.1,咔哒叠响,Click-Clack Echoes,眠れるバラの姫,찰칵 연쇄음,喀噠疊響,TowerDefensePotential.json
+TowerDefensePotential.1400104.1,旋钮气浪,Cyclone Dial,天才の切り札,다이얼 기류,旋鈕氣浪,TowerDefensePotential.json
+TowerDefensePotential.1410101.1,挥毫焚墨,Inkburn Stroke,気焔万丈,붓 끝의 연소,揮毫焚墨,TowerDefensePotential.json
+TowerDefensePotential.1410102.1,长虹焰阵,Blazing Rainbow Array,虹焔の陣,무지개 화염진,長虹焰陣,TowerDefensePotential.json
+TowerDefensePotential.1410103.1,星焰流光,Shooting Star,星焔の流光,별빛의 불꽃,星焰流光,TowerDefensePotential.json
+TowerDefensePotential.1410104.1,焰光不眠,Sleepless Flame,道標の焔,불꽃의 각성,焰光不眠,TowerDefensePotential.json
+TowerDefensePotential.1430101.1,风尘绝息,Last Gasp of Gale,ダストストーム,절멸의 숨결,風塵絕息,TowerDefensePotential.json
+TowerDefensePotential.1430102.1,穿风激荡,Storm-Piercing Surge,ウィンドピアース,격동의 돌풍,穿風激蕩,TowerDefensePotential.json
+TowerDefensePotential.1430103.1,裂风弹丸,Wind-Splitting Bullet,バーストショット,풍열탄환,裂風彈丸,TowerDefensePotential.json
+TowerDefensePotential.1430104.1,双影同狩,Twin Shadows,ダブルハント,이중 그림자 사냥,雙影同狩,TowerDefensePotential.json
+TowerDefensePotential.1560101.1,惊吓拥抱,Cuddle of Terror,ハグしてドカン,서프라이즈 포옹,驚嚇擁抱,TowerDefensePotential.json
+TowerDefensePotential.1560102.1,协同火力,Focus Fire,求む！支援火力,협력 화력,協同火力,TowerDefensePotential.json
+TowerDefensePotential.1560103.1,小小军势,Small Force,デカぬい軍団,미약한 세력,小小軍勢,TowerDefensePotential.json
+TowerDefensePotential.1560104.1,摇摇舞步,Wobble Dance,みんなで踊ろう,살랑이는 스텝,搖搖舞步,TowerDefensePotential.json
+VampireTalent.1.1,命运馈赠,Destiny's Gift,運命の贈り物,운명의 선물,命運餽贈,VampireTalent.json
+VampireTalent.10.1,生命回复·二,HP Restoration: Ⅱ,HP回復・Ⅱ,HP 회복·2,生命值恢復·二,VampireTalent.json
+VampireTalent.11.1,攻击强化·二,ATK Enhancement: Ⅱ,攻撃強化・Ⅱ,공격 강화·2,攻擊強化·二,VampireTalent.json
+VampireTalent.12.1,暴击强化·一,Crit Enhancement: I,会心強化・Ⅰ,치명타 강화·1,暴擊強化·一,VampireTalent.json
+VampireTalent.13.1,命运之手·二,Hand of Destiny: Ⅱ,運命の手・Ⅱ,운명의 손·2,命運之手·二,VampireTalent.json
+VampireTalent.14.1,经验丰富·一,Abundant EXP: I,経験豊富・Ⅰ,경험 풍부·1,經驗豐富·一,VampireTalent.json
+VampireTalent.15.1,生命强化·二,HP Enhancement: Ⅱ,HP強化・Ⅱ,HP 강화·2,生命值強化·二,VampireTalent.json
+VampireTalent.16.1,经验丰富·二,Abundant EXP: Ⅱ,経験豊富・Ⅱ,경험 풍부·2,經驗豐富·二,VampireTalent.json
+VampireTalent.17.1,幸运之星·二,Lucky Star: Ⅱ,幸運の星・Ⅱ,행운의 별·2,幸運之星·二,VampireTalent.json
+VampireTalent.18.1,命运之手·三,Hand of Destiny: Ⅲ,運命の手・Ⅲ,운명의 손·3,命運之手·三,VampireTalent.json
+VampireTalent.19.1,生命回复·三,HP Restoration: Ⅲ,HP回復・Ⅲ,HP 회복·3,生命值恢復·三,VampireTalent.json
+VampireTalent.2.1,生命回复·一,HP Restoration: I,HP回復・Ⅰ,HP 회복·1,生命值恢復·一,VampireTalent.json
+VampireTalent.20.1,能量回复·二,Energy Restoration: Ⅱ,SP回復・Ⅱ,SP 회복·2,能量恢復·二,VampireTalent.json
+VampireTalent.21.1,攻击强化·三,ATK Enhancement: Ⅲ,攻撃強化・Ⅲ,공격 강화·3,攻擊強化·三,VampireTalent.json
+VampireTalent.22.1,生命强化·三,HP Enhancement: Ⅲ,HP強化・Ⅲ,HP 강화·3,生命值強化·三,VampireTalent.json
+VampireTalent.23.1,经验磁铁,EXP Magnet,経験値マグネット,경험치 자석,經驗磁鐵,VampireTalent.json
+VampireTalent.24.1,冷却降低·二,Cooldown Reduction: Ⅱ,クールタイム短縮・Ⅱ,쿨타임 감소 2,冷卻縮短·二,VampireTalent.json
+VampireTalent.25.1,暴击强化·二,Crit Enhancement: Ⅱ,会心強化・Ⅱ,치명타 강화·2,暴擊強化·二,VampireTalent.json
+VampireTalent.26.1,攻击强化·四,ATK Enhancement: Ⅳ,攻撃強化・Ⅳ,공격 강화·4,攻擊強化·四,VampireTalent.json
+VampireTalent.27.1,生命强化·四,HP Enhancement: Ⅳ,HP強化・Ⅳ,HP 강화·4,生命值強化·四,VampireTalent.json
+VampireTalent.28.1,弱者炸弹,Weakling Bomb,弱者爆弾,약자의 폭탄,弱者炸彈,VampireTalent.json
+VampireTalent.29.1,暴击强化·三,Crit Enhancement: Ⅲ,会心強化・Ⅲ,치명타 강화·3,暴擊強化·三,VampireTalent.json
+VampireTalent.3.1,能量回复·一,Energy Restoration: I,SP回復・Ⅰ,SP 회복·1,能量恢復·一,VampireTalent.json
+VampireTalent.30.1,经验丰富·三,Abundant EXP: Ⅲ,経験豊富・Ⅲ,경험 풍부·3,經驗豐富·三,VampireTalent.json
+VampireTalent.31.1,能量回复·三,Energy Restoration: Ⅲ,SP回復・Ⅲ,SP 회복·3,能量恢復·三,VampireTalent.json
+VampireTalent.32.1,冷却降低·三,Cooldown Reduction: Ⅲ,クールタイム短縮・Ⅲ,쿨타임 감소 3,冷卻縮短·三,VampireTalent.json
+VampireTalent.4.1,神秘宝藏,Mysterious Treasure,謎の秘宝,수수께끼의 보물,神祕寶藏,VampireTalent.json
+VampireTalent.5.1,攻击强化·一,ATK Enhancement: I,攻撃強化・Ⅰ,공격 강화·1,攻擊強化·一,VampireTalent.json
+VampireTalent.6.1,生命强化·一,HP Enhancement: I,HP強化・Ⅰ,HP 강화·1,生命值強化·一,VampireTalent.json
+VampireTalent.7.1,冷却降低·一,Cooldown Reduction: I,クールタイム短縮・Ⅰ,쿨타임 감소 1,冷卻縮短·一,VampireTalent.json
+VampireTalent.8.1,幸运之星·一,Lucky Star: I,幸運の星・Ⅰ,행운의 별·1,幸運之星·一,VampireTalent.json
+VampireTalent.9.1,命运之手·一,Hand of Destiny: I,運命の手・Ⅰ,운명의 손·1,命運之手·一,VampireTalent.json

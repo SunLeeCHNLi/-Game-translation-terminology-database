@@ -1,0 +1,582 @@
+﻿id,term,src_table
+ActivityDoubleQuest.101001.1,누적 200 활력 소모,ActivityDoubleQuest.json
+ActivityDoubleQuest.101002.1,누적 300 활력 소모,ActivityDoubleQuest.json
+ActivityDoubleQuest.101003.1,누적 400 활력 소모,ActivityDoubleQuest.json
+ActivityDoubleQuest.101004.1,누적 600 활력 소모,ActivityDoubleQuest.json
+ActivityDoubleQuest.101005.1,누적 800 활력 소모,ActivityDoubleQuest.json
+ActivityDoubleQuest.101006.1,누적 1000 활력 소모,ActivityDoubleQuest.json
+ActivityDoubleQuest.101007.1,누적 1200 활력 소모,ActivityDoubleQuest.json
+ActivityPenguinCardQuest.101001.1,「거울의 서막」 클리어,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101002.1,「불의 거울」 클리어,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101003.1,「불의 거울」 ★3 클리어,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101004.1,「물의 거울」 클리어,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101005.1,「물의 거울」 ★3 클리어,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101006.1,「바람의 거울」 클리어,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101007.1,「바람의 거울」 ★3 클리어,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101008.1,「종언의 거울」 클리어,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.103002.1,「계약의 거울」 클리어,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201001.1,"한 게임에서 100,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201002.1,"한 게임에서 200,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201003.1,"한 게임에서 300,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201004.1,"한 게임에서 400,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201005.1,"한 게임에서 500,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201006.1,"한 게임에서 600,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201007.1,"한 게임에서 700,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201008.1,"한 게임에서 800,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201009.1,"한 게임에서 900,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201010.1,"한 게임에서 1,000,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.203001.1,"페이트 하우스 300,000포인트 누적",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.203002.1,"페이트 하우스 600,000포인트 누적",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.203003.1,"페이트 하우스 1,000,000포인트 누적",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.203004.1,"페이트 하우스 2,000,000포인트 누적",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.305004.1,"한 게임에서 500,000포인트 획득",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuestGroup.101.1,카드 도전,ActivityPenguinCardQuestGroup.json
+ActivityPenguinCardQuestGroup.102.1,점수 도전,ActivityPenguinCardQuestGroup.json
+ActivityPenguinCardQuestGroup.301.1,카드 도전,ActivityPenguinCardQuestGroup.json
+ActivityPenguinCardQuestGroup.303.1,고득점 도전,ActivityPenguinCardQuestGroup.json
+ActivityShop.1001.1,더미1,ActivityShop.json
+ActivityShop.1002.1,더미2,ActivityShop.json
+ActivityShop.1003.1,나츠카 이벤트 상점,ActivityShop.json
+ActivityShop.1004.1,크리스마스 이벤트 상점,ActivityShop.json
+ActivityShop.1005.1,피렌 이벤트 상점,ActivityShop.json
+ActivityShop.1006.1,새해 이벤트 상점,ActivityShop.json
+ActivityShop.1007.1,레이스 이벤트 상점,ActivityShop.json
+ActivityShop.1008.1,토나 이벤트 상점,ActivityShop.json
+ActivityShop.1009.1,오토하 이벤트 상점,ActivityShop.json
+ActivityShop.1010.1,호타루 이벤트 상점,ActivityShop.json
+ActivityShop.1011.1,스파클 이벤트 상점,ActivityShop.json
+ActivityShop.1012.1,수영복 재출시 이벤트 상점,ActivityShop.json
+ActivityShop.1013.1,샤통 이벤트 상점,ActivityShop.json
+ActivityShop.1014.1,윌로(여름) 이벤트 상점,ActivityShop.json
+ActivityShop.1015.1,카린 이벤트 상점,ActivityShop.json
+ActivityShop.1016.1,엘레노어 이벤트 상점,ActivityShop.json
+ActivityShop.3001.1,브릭 크러쉬 상점,ActivityShop.json
+ActivityShop.3002.1,브릭 크러쉬 상점 시즌2,ActivityShop.json
+ActivityStory.101040201.1,운명 같은 재회,ActivityStory.json
+ActivityStory.101040202.1,거리 탐문,ActivityStory.json
+ActivityStory.101040203.1,절망 끝에 찾아온 희망,ActivityStory.json
+ActivityStory.101040204.1,자승자박,ActivityStory.json
+ActivityStory.101040205.1,일망타진,ActivityStory.json
+ActivityStory.101040206.1,거듭되는 시련,ActivityStory.json
+ActivityStory.101040207.1,기이한 탐사,ActivityStory.json
+ActivityStory.101040208.1,드러난 진실,ActivityStory.json
+ActivityStory.101040209.1,의사의 마음,ActivityStory.json
+ActivityStory.101040210.1,오랜 세월,ActivityStory.json
+ActivityStory.101040211.1,새로운 세상,ActivityStory.json
+ActivityStory.101050201.1,노스헤임으로 가다,ActivityStory.json
+ActivityStory.101050202.1,차가운 밤으로,ActivityStory.json
+ActivityStory.101050203.1,얼어붙은 폐허,ActivityStory.json
+ActivityStory.101050204.1,고향의 기억,ActivityStory.json
+ActivityStory.101050205.1,오래된 비밀,ActivityStory.json
+ActivityStory.101050206.1,여명 전야,ActivityStory.json
+ActivityStory.101050207.1,드러나는 악의,ActivityStory.json
+ActivityStory.101050208.1,존자,ActivityStory.json
+ActivityStory.101050209.1,새벽의 방아쇠,ActivityStory.json
+ActivityStory.101050210.1,배수진,ActivityStory.json
+ActivityStory.101050211.1,강함이란,ActivityStory.json
+ActivityStory.101050212.1,눈보라와의 작별,ActivityStory.json
+ActivityStory.101060201.1,요로즈 택배의 의뢰,ActivityStory.json
+ActivityStory.101060202.1,길에서 들은 소문,ActivityStory.json
+ActivityStory.101060203.1,정보 찾기,ActivityStory.json
+ActivityStory.101060204.1,지도를 보고 단서를 찾다,ActivityStory.json
+ActivityStory.101060205.1,열리지 않은 마음,ActivityStory.json
+ActivityStory.101060206.1,편지 도둑을 만나다,ActivityStory.json
+ActivityStory.101060207.1,이치로 다스리다,ActivityStory.json
+ActivityStory.101060208.1,마물의 소행,ActivityStory.json
+ActivityStory.101060209.1,옥수수 알갱이 대작전,ActivityStory.json
+ActivityStory.101060210.1,광풍을 직면하다,ActivityStory.json
+ActivityStory.101060211.1,시공을 넘어선 안부,ActivityStory.json
+ActivityStory.101060212.1,To. 소중한 당신,ActivityStory.json
+ActivityStory.101070201.1,재회,ActivityStory.json
+ActivityStory.101070202.1,필름,ActivityStory.json
+ActivityStory.101070203.1,보호자,ActivityStory.json
+ActivityStory.101070204.1,실험체,ActivityStory.json
+ActivityStory.101070205.1,친구,ActivityStory.json
+ActivityStory.101070206.1,내민 손길,ActivityStory.json
+ActivityStory.101070207.1,첫 풍경,ActivityStory.json
+ActivityStory.101070208.1,각오,ActivityStory.json
+ActivityStory.101070209.1,모두를 지키는 일,ActivityStory.json
+ActivityStory.101070210.1,웃는 얼굴,ActivityStory.json
+ActivityStory.101070211.1,평범한 소녀,ActivityStory.json
+ActivityStory.101080201.1,에너지 위기,ActivityStory.json
+ActivityStory.101080202.1,천재 장인의 행방,ActivityStory.json
+ActivityStory.101080203.1,도주 대작전,ActivityStory.json
+ActivityStory.101080204.1,웰컴투 암시장,ActivityStory.json
+ActivityStory.101080205.1,스파클의 이동식 제작실,ActivityStory.json
+ActivityStory.101080206.1,본격적인 시작,ActivityStory.json
+ActivityStory.101080207.1,수확의 시간,ActivityStory.json
+ActivityStory.101080208.1,전속력으로 전진,ActivityStory.json
+ActivityStory.101080209.1,위기 탈출,ActivityStory.json
+ActivityStory.101080210.1,새로운 주문서,ActivityStory.json
+ActivityStory.101090201.1,승리한 원정: 칠흑의 힘의 부재,ActivityStory.json
+ActivityStory.101090202.1,창오의 전투: 칠흑의 힘의 증명,ActivityStory.json
+ActivityStory.101090203.1,천 탑의 공연: 칠흑의 힘의 발현,ActivityStory.json
+ActivityStory.101090204.1,출발: 샤통 님의 조사 군단,ActivityStory.json
+ActivityStory.101090205.1,잠입: 어둠에 잠식된 지하 소굴,ActivityStory.json
+ActivityStory.101090206.1,교전: 미라슈 대로의 혼전,ActivityStory.json
+ActivityStory.101090207.1,광산 기습: 소굴에 도사린 함정,ActivityStory.json
+ActivityStory.101090208.1,마물 대결: 고립된 여행가 구출,ActivityStory.json
+ActivityStory.101090209.1,포위망 돌파: 깨어난 칠흑의 힘,ActivityStory.json
+ActivityStory.101090210.1,건배: 최강의 샤통님을 위하여,ActivityStory.json
+ActivityStory.101100201.1,바닷바람에 실려 온 의뢰,ActivityStory.json
+ActivityStory.101100202.1,갑판에서 흔들리는 꿈,ActivityStory.json
+ActivityStory.101100203.1,공백 여단 표류기,ActivityStory.json
+ActivityStory.101100204.1,바다 위 환영,ActivityStory.json
+ActivityStory.101100205.1,심해 속 별의 탑,ActivityStory.json
+ActivityStory.101100206.1,소용돌이 깊은 곳의 수집가,ActivityStory.json
+ActivityStory.101100207.1,소라 껍데기 쟁탈전,ActivityStory.json
+ActivityStory.101100208.1,액자 속에 담긴 바다,ActivityStory.json
+ActivityStory.101100209.1,참교육,ActivityStory.json
+ActivityStory.101100210.1,균열과 안식처,ActivityStory.json
+ActivityStory.101100211.1,끝나지 않은 여름,ActivityStory.json
+ActivityStory.101110201.1,아가씨들의 다과회,ActivityStory.json
+ActivityStory.101110202.1,"성실하게, 겸손하게",ActivityStory.json
+ActivityStory.101110203.1,발전,ActivityStory.json
+ActivityStory.101110204.1,첫 번째 의뢰,ActivityStory.json
+ActivityStory.101110205.1,새로운 삶,ActivityStory.json
+ActivityStory.101110206.1,실종,ActivityStory.json
+ActivityStory.101110207.1,위장,ActivityStory.json
+ActivityStory.101110208.1,돌파,ActivityStory.json
+ActivityStory.101110209.1,적진 깊숙이,ActivityStory.json
+ActivityStory.101110210.1,영광의 밤,ActivityStory.json
+ActivityStory.101110211.1,새로운 꿈,ActivityStory.json
+ActivityStory.111000201.1,깜빡이는 희미한 빛,ActivityStory.json
+ActivityStory.111000202.1,유령선으로부터,ActivityStory.json
+ActivityStory.111000203.1,의문과 냄새,ActivityStory.json
+ActivityStory.111000204.1,소리의 인도,ActivityStory.json
+ActivityStory.111000205.1,보이는 것이 전부는 아니다,ActivityStory.json
+ActivityStory.111000206.1,닮은 사람,ActivityStory.json
+ActivityStory.111000207.1,그림자 아래에서,ActivityStory.json
+ActivityStory.111000208.1,메아리의 땅,ActivityStory.json
+ActivityStory.111000209.1,빛의 근원,ActivityStory.json
+ActivityStory.111000210.1,바닷물의 비밀,ActivityStory.json
+ActivityStory.111000211.1,끝없는 여름,ActivityStory.json
+ActivityStory.201010201.1,크리스마스의 사자,ActivityStory.json
+ActivityStory.201010202.1,선물 대작전,ActivityStory.json
+ActivityStory.201010203.1,정령의 흔적,ActivityStory.json
+ActivityStory.201010204.1,열정적인 진홍빛,ActivityStory.json
+ActivityStory.201010205.1,우연한 회색과 백색,ActivityStory.json
+ActivityStory.201010206.1,눈꽃의 블루스,ActivityStory.json
+ActivityStory.201010207.1,비슷한 빛,ActivityStory.json
+ActivityStory.201010208.1,외로운 소원,ActivityStory.json
+ActivityStory.201010209.1,우정의 마법,ActivityStory.json
+ActivityStory.201010210.1,더 넓은 세상,ActivityStory.json
+ActivityStory.201010211.1,"축제, 화려한 등장",ActivityStory.json
+ActivityStory.201010212.1,위험한 ‘놀이’,ActivityStory.json
+ActivityStory.201010213.1,축제의 여흥,ActivityStory.json
+ActivityStory.201010214.1,너를 위해 준비한 선물,ActivityStory.json
+ActivityStory.201030202.1,"수영복을 입고, 빗자루를 들자",ActivityStory.json
+ActivityStory.201030203.1,"모래사장, 바다, 숨바꼭질",ActivityStory.json
+ActivityStory.201030204.1,자동 판매 신기 괴담,ActivityStory.json
+ActivityStory.201030206.1,보물을 이고 있는 거대한 그림자,ActivityStory.json
+ActivityStory.201030207.1,좋지 않은 시작,ActivityStory.json
+ActivityStory.201030208.1,너의 팔이 되어,ActivityStory.json
+ActivityStory.201030209.1,드러난 진실,ActivityStory.json
+ActivityStory.201030210.1,집게발의 불청객,ActivityStory.json
+ActivityStory.201030211.1,느긋하게 푸른 바다를 즐기다,ActivityStory.json
+ActivityTaskGroup.1000301.1,일반 임무,ActivityTaskGroup.json
+ActivityTaskGroup.1000302.1,도전 임무,ActivityTaskGroup.json
+ActivityTaskGroup.1000303.1,모험 임무,ActivityTaskGroup.json
+ActivityTaskGroup.1000304.1,플레이 임무,ActivityTaskGroup.json
+ActivityTaskGroup.101003.1,활약 임무,ActivityTaskGroup.json
+ActivityTaskGroup.2010204.1,플레이 임무,ActivityTaskGroup.json
+ActivityTaskGroup.2010205.1,페이트 임무,ActivityTaskGroup.json
+ActivityTaskGroup.3010201.1,도전 임무,ActivityTaskGroup.json
+ActivityTaskGroup.3010202.1,크러쉬 임무,ActivityTaskGroup.json
+ActivityTaskGroup.3010203.1,수집 임무,ActivityTaskGroup.json
+BdConvertCondition.101.1,평점 레벨 15 달성,BdConvertCondition.json
+BdConvertCondition.102.1,평점 레벨 21 달성,BdConvertCondition.json
+BdConvertCondition.103.1,평점 레벨 25 달성,BdConvertCondition.json
+BdConvertCondition.104.1,평점 레벨 28 달성,BdConvertCondition.json
+BdConvertCondition.105.1,평점 레벨 31 달성,BdConvertCondition.json
+BdConvertCondition.106.1,평점 레벨 20 달성,BdConvertCondition.json
+BdConvertCondition.201.1,음표 10개 이상 수집,BdConvertCondition.json
+BdConvertCondition.202.1,음표 20개 이상 수집,BdConvertCondition.json
+BdConvertCondition.203.1,음표 30개 이상 수집,BdConvertCondition.json
+BdConvertCondition.204.1,음표 40개 이상 수집,BdConvertCondition.json
+BdConvertCondition.205.1,음표 50개 이상 수집,BdConvertCondition.json
+BdConvertCondition.301.1,수집 잠재력 레벨 합계 10 이상,BdConvertCondition.json
+BdConvertCondition.302.1,수집 잠재력 레벨 합계 15 이상,BdConvertCondition.json
+BdConvertCondition.303.1,수집 잠재력 레벨 합계 20 이상,BdConvertCondition.json
+BdConvertCondition.304.1,수집 잠재력 레벨 합계 30 이상,BdConvertCondition.json
+BdConvertCondition.305.1,수집 잠재력 레벨 합계 35 이상,BdConvertCondition.json
+BdConvertCondition.401.1,레벨 2 이상 잠재력 2종 수집,BdConvertCondition.json
+BdConvertCondition.402.1,레벨 3 이상 잠재력 2종 수집,BdConvertCondition.json
+BdConvertCondition.403.1,레벨 3 이상 잠재력 3종 수집,BdConvertCondition.json
+BdConvertCondition.404.1,레벨 4 이상 잠재력 3종 수집,BdConvertCondition.json
+BdConvertCondition.405.1,레벨 5 이상 잠재력 3종 수집,BdConvertCondition.json
+BdConvertCondition.406.1,레벨 6 이상 잠재력 6종 수집,BdConvertCondition.json
+BdConvertCondition.501.1,협주 스킬 2개 활성화,BdConvertCondition.json
+BdConvertCondition.502.1,협주 스킬 3개 활성화,BdConvertCondition.json
+BdConvertCondition.503.1,협주 스킬 4개 활성화,BdConvertCondition.json
+BdConvertCondition.504.1,레벨 2 이상 협주 스킬 2개 활성화,BdConvertCondition.json
+BdConvertCondition.505.1,레벨 2 이상 협주 스킬 3개 활성화,BdConvertCondition.json
+BdConvertCondition.506.1,임의의 협주 스킬 활성화,BdConvertCondition.json
+BdConvertCondition.601.1,메인 여행가의 원소 속성: 「물」,BdConvertCondition.json
+BdConvertCondition.602.1,메인 여행가의 원소 속성: 「불」,BdConvertCondition.json
+BdConvertCondition.603.1,메인 여행가의 원소 속성: 「땅」,BdConvertCondition.json
+BdConvertCondition.604.1,메인 여행가의 원소 속성: 「바람」,BdConvertCondition.json
+BdConvertCondition.605.1,메인 여행가의 원소 속성: 「빛」,BdConvertCondition.json
+BdConvertCondition.606.1,메인 여행가의 원소 속성: 「어둠」,BdConvertCondition.json
+BdConvertCondition.607.1,메인 여행가의 원소 속성: 「땅」 또는 「어둠」,BdConvertCondition.json
+BdConvertCondition.608.1,메인 여행가의 원소 속성: 「바람」 또는 「물」,BdConvertCondition.json
+BdConvertCondition.609.1,메인 여행가의 원소 속성: 「어둠」 또는 「물」,BdConvertCondition.json
+BdConvertCondition.610.1,메인 여행가의 원소 속성: 「빛」 또는 「어둠」,BdConvertCondition.json
+BdConvertCondition.611.1,메인 여행가의 원소 속성: 「땅」 또는 「빛」,BdConvertCondition.json
+BdConvertCondition.612.1,메인 여행가의 원소 속성: 「불」 또는 「땅」,BdConvertCondition.json
+BdConvertCondition.613.1,메인 여행가의 원소 속성: 「물」 또는 「불」,BdConvertCondition.json
+BdConvertCondition.7011.1,「강공의 소리」 10개 이상 수집,BdConvertCondition.json
+BdConvertCondition.7012.1,「강공의 소리」 15개 이상 수집,BdConvertCondition.json
+BdConvertCondition.7013.1,「강공의 소리」 20개 이상 수집,BdConvertCondition.json
+BdConvertCondition.7021.1,「행운의 소리」 10개 이상 수집,BdConvertCondition.json
+BdConvertCondition.7022.1,「행운의 소리」 15개 이상 수집,BdConvertCondition.json
+BdConvertCondition.7023.1,「행운의 소리」 20개 이상 수집,BdConvertCondition.json
+BdConvertCondition.7041.1,「체력의 소리」 30개 이상 수집,BdConvertCondition.json
+BdConvertCondition.7051.1,「집중의 소리」 40개 이상 수집,BdConvertCondition.json
+BdConvertCondition.7061.1,「기술의 소리」 30개 이상 수집,BdConvertCondition.json
+BdConvertCondition.8001.1,1명 이상 여행가의 원소 속성: 「물」,BdConvertCondition.json
+BdConvertCondition.8002.1,1명 이상 여행가의 원소 속성: 「불」,BdConvertCondition.json
+BdConvertCondition.8003.1,1명 이상 여행가의 원소 속성: 「땅」,BdConvertCondition.json
+BdConvertCondition.8004.1,1명 이상 여행가의 원소 속성: 「바람」,BdConvertCondition.json
+BdConvertCondition.8005.1,1명 이상 여행가의 원소 속성: 「빛」,BdConvertCondition.json
+BdConvertCondition.8006.1,1명 이상 여행가의 원소 속성: 「어둠」,BdConvertCondition.json
+BdConvertCondition.8011.1,기록 내 모든 여행가의 원소 속성: 「물」,BdConvertCondition.json
+BdConvertCondition.8012.1,기록 내 모든 여행가의 원소 속성: 「불」,BdConvertCondition.json
+BdConvertCondition.8013.1,기록 내 모든 여행가의 원소 속성: 「땅」,BdConvertCondition.json
+BdConvertCondition.8021.1,기록 내 모든 여행가의 원소 속성: 「바람」,BdConvertCondition.json
+BdConvertCondition.8022.1,기록 내 모든 여행가의 원소 속성: 「빛」,BdConvertCondition.json
+BdConvertCondition.8023.1,기록 내 모든 여행가의 원소 속성: 「어둠」,BdConvertCondition.json
+BdConvertCondition.9011.1,기록 내 「딜러」 포지션 여행가 1명 이상,BdConvertCondition.json
+BdConvertCondition.9012.1,기록 내 「밸런스」 포지션 여행가 1명 이상,BdConvertCondition.json
+BdConvertCondition.9013.1,기록 내 「서포터」 포지션 여행가 1명 이상,BdConvertCondition.json
+BdConvertCondition.9021.1,기록 내 「딜러」 포지션 여행가 2명 이상,BdConvertCondition.json
+BdConvertCondition.9022.1,기록 내 「밸런스」 포지션 여행가 2명 이상,BdConvertCondition.json
+BdConvertCondition.9023.1,기록 내 「서포터」 포지션 여행가 2명 이상,BdConvertCondition.json
+BdConvertContent.1001.1,「극한 등반」 등급 기록 제출,BdConvertContent.json
+BdConvertContent.1002.1,「심연 탐색」 등급 기록 제출,BdConvertContent.json
+BdConvertContent.1003.1,「표면 조사」 등급 기록 제출,BdConvertContent.json
+BdConvertRewardGroup.1001.1,「공략 기록 대모집」 중 공략 점수 200 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1002.1,「공략 기록 대모집」 중 공략 점수 400 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1003.1,「공략 기록 대모집」 중 공략 점수 600 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1004.1,「공략 기록 대모집」 중 공략 점수 800 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1005.1,「공략 기록 대모집」 중 공략 점수 1000 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1006.1,「공략 기록 대모집」 중 공략 점수 1200 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1007.1,「공략 기록 대모집」 중 공략 점수 1400 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1008.1,「공략 기록 대모집」 중 공략 점수 1600 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1009.1,「공략 기록 대모집」 중 공략 점수 1800 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1010.1,「공략 기록 대모집」 중 공략 점수 2000 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1011.1,「공략 기록 대모집」 중 공략 점수 2200 누적,BdConvertRewardGroup.json
+BdConvertRewardGroup.1012.1,「공략 기록 대모집」 중 공략 점수 2400 누적,BdConvertRewardGroup.json
+EventOptions.10101.1,"100 소모, 1개의 랜덤 일반 잠재력 획득",EventOptions.json
+EventOptions.10102.1,"120 소모, 1개의 랜덤 잠재력 획득",EventOptions.json
+EventOptions.10103.1,30 획득,EventOptions.json
+EventOptions.10201.1,"120 소모, 1개의 랜덤 지원 잠재력 획득",EventOptions.json
+EventOptions.10202.1,"160 소모, 1개의 랜덤 메인 잠재력 획득",EventOptions.json
+EventOptions.10203.1,"200을 소모하고, 랜덤 희귀 잠재력 1개를 획득",EventOptions.json
+EventOptions.10301.1,"랜덤 소리 5개 소모, 150 획득",EventOptions.json
+EventOptions.10401.1,"랜덤 소리 10개 소모, 랜덤 희귀 잠재력 1개를 획득",EventOptions.json
+EventOptions.10501.1,"50% 확률로 200 획득, 50% 확률로 100 차감",EventOptions.json
+EventOptions.10502.1,"30% 확률로 650 획득, 70% 확률로 200 차감",EventOptions.json
+EventOptions.10602.1,"최대 HP의 40% 소모, 1개의 랜덤 일반 잠재력 획득",EventOptions.json
+EventOptions.10701.1,강공의 소리 5개 획득,EventOptions.json
+EventOptions.10702.1,행운의 소리 5개 획득,EventOptions.json
+EventOptions.10703.1,폭발의 소리 5개 획득,EventOptions.json
+EventOptions.10704.1,체력의 소리 5개 획득,EventOptions.json
+EventOptions.10705.1,집중의 소리 5개 획득,EventOptions.json
+EventOptions.10706.1,기술의 소리 5개 획득,EventOptions.json
+EventOptions.10707.1,필살기의 소리 5개 획득,EventOptions.json
+EventOptions.10708.1,랜덤 소리 5개 획득,EventOptions.json
+EventOptions.10801.1,"140 소모, 10개의 강공의 소리 획득",EventOptions.json
+EventOptions.10802.1,"140 소모, 10개의 행운의 소리 획득",EventOptions.json
+EventOptions.10803.1,"140 소모, 10개의 폭발의 소리 획득",EventOptions.json
+EventOptions.10804.1,"140 소모, 10개의 체력의 소리 획득",EventOptions.json
+EventOptions.10805.1,"140 소모, 10개의 집중의 소리 획득",EventOptions.json
+EventOptions.10806.1,"140 소모, 10개의 기술의 소리 획득",EventOptions.json
+EventOptions.10807.1,"140 소모, 10개의 필살기의 소리 획득",EventOptions.json
+EventOptions.10808.1,"90 소모, 10개의 랜덤 소리 획득",EventOptions.json
+EventOptions.10901.1,"50% 확률로 100 획득, 50% 확률로 1개의 랜덤 잠재력 획득",EventOptions.json
+EventOptions.11001.1,"50% 확률로 120 획득, 50% 확률로 1개의 랜덤 희귀 잠재력 획득",EventOptions.json
+EventOptions.11002.1,"160 소모, 1개의 랜덤 희귀 잠재력 획득",EventOptions.json
+EventOptions.11101.1,HP 20% 회복,EventOptions.json
+EventOptions.11102.1,"HP 20%를 소모, 랜덤 일반 잠재력 획득 1개를 획득",EventOptions.json
+EventOptions.11202.1,"HP 30%를 소모, 랜덤 잠재력 1개를 획득",EventOptions.json
+EventOptions.11303.1,"50% HP 소모, 1개의 랜덤 희귀 잠재력 획득",EventOptions.json
+EventOptions.12001.1,"50 소모, 랜덤 소리 5개 획득",EventOptions.json
+EventOptions.12101.1,"100 소모, 1개의 랜덤 잠재력 획득",EventOptions.json
+EventOptions.12201.1,"180을 소모하고, 랜덤 희귀 잠재력 1개를 획득",EventOptions.json
+EventOptions.12301.1,"50 소모, HP 20% 회복",EventOptions.json
+EventOptions.12302.1,"최대 HP의 30% 소모, 1개의 랜덤 잠재력 획득",EventOptions.json
+EventOptions.12601.1,랜덤 1개의 지원 캐릭터 일반 잠재력 획득,EventOptions.json
+EventOptions.12701.1,랜덤 1개의 지원 캐릭터 잠재력 획득,EventOptions.json
+EventOptions.12801.1,랜덤 1개의 지원 캐릭터 희귀 잠재력 획득,EventOptions.json
+EventReminder.1.1,별의 탑 탐색,EventReminder.json
+EventReminder.2.1,진리 도전,EventReminder.json
+EventReminder.3.1,재앙의 전선,EventReminder.json
+EventReminder.4.1,연합 토벌,EventReminder.json
+EventReminder.5.1,쉐도우 헌터,EventReminder.json
+MiningQuest.101.1,이벤트 기간 누적 로그인 1일,MiningQuest.json
+MiningQuest.102.1,이벤트 기간 누적 로그인 2일,MiningQuest.json
+MiningQuest.103.1,이벤트 기간 누적 로그인 3일,MiningQuest.json
+MiningQuest.104.1,이벤트 기간 누적 로그인 4일,MiningQuest.json
+MiningQuest.105.1,이벤트 기간 누적 로그인 5일,MiningQuest.json
+MiningQuest.111.1,누적 200 활력 소모,MiningQuest.json
+MiningQuest.112.1,누적 300 활력 소모,MiningQuest.json
+MiningQuest.113.1,누적 400 활력 소모,MiningQuest.json
+MiningQuest.114.1,누적 600 활력 소모,MiningQuest.json
+MiningQuest.115.1,누적 800 활력 소모,MiningQuest.json
+MiningQuest.116.1,누적 1000 활력 소모,MiningQuest.json
+MiningQuest.121.1,누적 500 이벤트 포인트 획득,MiningQuest.json
+MiningQuest.122.1,누적 1000 이벤트 포인트 획득,MiningQuest.json
+MiningQuest.123.1,누적 1500 이벤트 포인트 획득,MiningQuest.json
+MiningQuest.124.1,누적 2000 이벤트 포인트 획득,MiningQuest.json
+MiningQuest.125.1,누적 2500 이벤트 포인트 획득,MiningQuest.json
+MiningQuest.126.1,누적 3000 이벤트 포인트 획득,MiningQuest.json
+MiningQuest.127.1,누적 3500 이벤트 포인트 획득,MiningQuest.json
+MiningQuest.128.1,누적 4000 이벤트 포인트 획득,MiningQuest.json
+MiningQuest.129.1,누적 4500 이벤트 포인트 획득,MiningQuest.json
+MiningQuest.130.1,누적 5000 이벤트 포인트 획득,MiningQuest.json
+MiningQuestGroup.101.1,일일 출석,MiningQuestGroup.json
+MiningQuestGroup.102.1,근면성실,MiningQuestGroup.json
+MiningQuestGroup.103.1,수확 시간,MiningQuestGroup.json
+StarTowerBookEntrance.1.1,"아모르 시장에서 찍은 사진, 맑음",StarTowerBookEntrance.json
+StarTowerBookEntrance.10.1,"필리에 온실에서 찍은 사진, 맑음",StarTowerBookEntrance.json
+StarTowerBookEntrance.11.1,"아모르 항구에서 찍은 사진, 맑음",StarTowerBookEntrance.json
+StarTowerBookEntrance.12.1,"아모르 애시 에리어에서 찍은 사진, 밤",StarTowerBookEntrance.json
+StarTowerBookEntrance.13.1,"아모르 외곽에서 찍은 사진, 아침",StarTowerBookEntrance.json
+StarTowerBookEntrance.2.1,"아모르 시장에서 찍은 사진, 노을",StarTowerBookEntrance.json
+StarTowerBookEntrance.3.1,"아모르 거리에서 찍은 사진, 맑음",StarTowerBookEntrance.json
+StarTowerBookEntrance.4.1,"아모르 거리에서 찍은 사진, 밤",StarTowerBookEntrance.json
+StarTowerBookEntrance.5.1,"필리에 거리에서 찍은 사진, 맑음",StarTowerBookEntrance.json
+StarTowerBookEntrance.6.1,"필리에 거리에서 찍은 사진, 비",StarTowerBookEntrance.json
+StarTowerBookEntrance.7.1,"미라슈 성 외곽에서 찍은 사진, 모래바람",StarTowerBookEntrance.json
+StarTowerBookEntrance.8.1,"필리에 들판에서 찍은 사진, 맑음",StarTowerBookEntrance.json
+StarTowerBookEntrance.9.1,"필리에 숲에서 찍은 사진, 맑음",StarTowerBookEntrance.json
+StarTowerBookEventReward.10301.1,게이밍폰 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.10302.1,게이밍폰 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.10303.1,게이밍폰 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.10701.1,포토 카드 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.10702.1,포토 카드 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.10703.1,포토 카드 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.10801.1,대도박 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.10802.1,대도박 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.10803.1,대도박 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11001.1,방랑하는 오르골 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11002.1,방랑하는 오르골 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11003.1,방랑하는 오르골 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11101.1,등가 교환 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11102.1,등가 교환 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11103.1,등가 교환 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11201.1,톡톡메테오 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11202.1,톡톡메테오 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11203.1,톡톡메테오 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11301.1,구원 요청 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11302.1,구원 요청 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11303.1,구원 요청 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11401.1,최종 증명(1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11402.1,최종 증명(2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11403.1,최종 증명(3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11501.1,숨바꼭질 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11502.1,숨바꼭질 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11503.1,숨바꼭질 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11601.1,위대한 꿈(1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11602.1,위대한 꿈(2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11603.1,위대한 꿈(3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11701.1,징린의 요리 이야기 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11702.1,징린의 요리 이야기 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11703.1,징린의 요리 이야기 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11801.1,성해 실험 일기 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11802.1,성해 실험 일기 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11803.1,성해 실험 일기 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11901.1,품격 있는 서비스 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11902.1,품격 있는 서비스 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11903.1,품격 있는 서비스 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12001.1,방과후 숙제 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12002.1,방과후 숙제 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12003.1,방과후 숙제 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12301.1,실루엣 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12302.1,실루엣 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12303.1,실루엣 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12501.1,맑은 날은 좋은 날 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12502.1,비 오는 좋은 날(2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12503.1,눈 오는 좋은 날(3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12601.1,플라비오의 과거 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12602.1,플라비오의 과거 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12603.1,플라비오의 과거 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12701.1,편지를 보내고 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12702.1,편지를 보내고 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12703.1,편지를 보내고 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13001.1,별의 탑으로 보내는 편지 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13002.1,별의 탑으로 보내는 편지 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13003.1,별의 탑으로 보내는 편지 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13201.1,월간 소녀 미네르바 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13202.1,월간 소녀 미네르바 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13203.1,월간 소녀 미네르바 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13301.1,여행가 가이드북 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13302.1,여행가 가이드북 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13303.1,여행가 가이드북 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13401.1,별의 탑 클리어 마스터 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13402.1,별의 탑 클리어 마스터 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13403.1,별의 탑 클리어 마스터 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13501.1,잠복 취재 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13502.1,잠복 취재 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13503.1,잠복 취재 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13701.1,별의 탑 스케치 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13702.1,별의 탑 스케치 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13703.1,별의 탑 스케치 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14001.1,메카 마와앙 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14002.1,메카 마와앙 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14003.1,메카 마와앙 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14101.1,함부로 줍지 마세요 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14102.1,함부로 줍지 마세요 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14103.1,함부로 줍지 마세요 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14201.1,특별 임무 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14202.1,특별 임무 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14203.1,특별 임무 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14301.1,불사냥꾼(1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14302.1,불사냥꾼(2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14303.1,불사냥꾼(3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14401.1,정상으로 가는 길 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14402.1,정상으로 가는 길 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14403.1,정상으로 가는 길 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14501.1,거울과 가면 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14502.1,거울과 가면 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14503.1,거울과 가면 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14701.1,별의 탑의 인정 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14702.1,별의 탑의 인정 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14703.1,별의 탑의 인정 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14901.1,기억 속의 조각 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14902.1,기억 속의 조각 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14903.1,기억 속의 조각 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15001.1,행운의 낚시 장비 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15002.1,행운의 낚시 장비 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15003.1,행운의 낚시 장비 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15501.1,여름날의 반짝임 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15502.1,여름날의 반짝임 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15503.1,여름날의 반짝임 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15601.1,깨물 깨물 백작 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15602.1,깨물 깨물 백작 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15603.1,깨물 깨물 백작 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15701.1,서로를 밝게 비추며 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15702.1,서로를 밝게 비추며 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15703.1,서로를 밝게 비추며 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15801.1,별의 탑 안에서의 눈 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15802.1,별의 탑 안에서의 눈 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15803.1,별의 탑 안에서의 눈 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15901.1,성 밖 탐험 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15902.1,성 밖 탐험 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15903.1,성 밖 탐험 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.16001.1,별의 탑 조사 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.16002.1,별의 탑 조사 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.16003.1,별의 탑 조사 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.913301.1,할인 행사 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.913302.1,할인 행사 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.913303.1,할인 행사 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.917201.1,간호사의 주사 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.917202.1,간호사의 주사 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.917203.1,간호사의 주사 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.917301.1,양의 탈을 쓴 늑대 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.917302.1,양의 탈을 쓴 늑대 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.917303.1,양의 탈을 쓴 늑대 (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.917401.1,늑대의 탈을 쓴 양 (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.917402.1,늑대의 탈을 쓴 양 (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.917403.1,늑대의 탈을 쓴 양 (3),StarTowerBookEventReward.json
+TowerDefenseQuest.1.1,[디펜스 튜토리얼 I] 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.10.1,[숲의 경호원 II] 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.11.1,[숲의 경호원 II] ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.12.1,[숲의 경호원 II] ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.13.1,[숲의 경호원 III] 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.14.1,[숲의 경호원 III] ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.15.1,[숲의 경호원 III] ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.16.1,[몬스터 타이드 I] 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.17.1,[몬스터 타이드 I] ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.18.1,[몬스터 타이드 I] ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.19.1,[몬스터 타이드 II] 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.2.1,[디펜스 튜토리얼 I] ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.20.1,[몬스터 타이드 II] ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.21.1,[몬스터 타이드 II] ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.22.1,[몬스터 타이드·진리 I] 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.23.1,[몬스터 타이드·진리 I] ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.24.1,[몬스터 타이드·진리 I] ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.25.1,[몬스터 타이드·진리 II] 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.26.1,[몬스터 타이드·진리 II] ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.27.1,[몬스터 타이드·진리 II] ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.29.1,[디펜스 튜토리얼 II] 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.3.1,[디펜스 튜토리얼 I] ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.30.1,「항로 개척 I」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.31.1,「항로 개척 I」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.32.1,「항로 개척 II」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.33.1,「항로 개척 II」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.34.1,「항로 개척 III」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.35.1,「항로 개척 III」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.36.1,「항로 개척 III」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.37.1,「항로 개척 IV」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.38.1,「항로 개척 IV」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.39.1,「항로 개척 IV」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.4.1,[디펜스 튜토리얼 II] 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.40.1,「지하의 격전 I」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.41.1,「지하의 격전 I」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.42.1,「지하의 격전 I」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.43.1,「지하의 격전 II」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.44.1,「지하의 격전 II」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.45.1,「지하의 격전 II」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.46.1,「지하의 격전 III」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.47.1,「지하의 격전 III」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.48.1,「지하의 격전 III」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.49.1,「지하의 격전 IV」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.5.1,「디펜스 튜토리얼 II」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.50.1,「지하의 격전 IV」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.51.1,「지하의 격전 IV」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.52.1,「디펜스 튜토리얼 Ⅰ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.53.1,「디펜스 튜토리얼 Ⅱ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.54.1,「온고지신 Ⅰ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.55.1,「온고지신 Ⅰ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.56.1,「온고지신 Ⅱ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.57.1,「온고지신 Ⅱ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.58.1,「무성한 초목 Ⅰ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.59.1,「무성한 초목 Ⅰ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.6.1,「디펜스 튜토리얼 II」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.60.1,「무성한 초목 Ⅰ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.61.1,「무성한 초목 Ⅱ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.62.1,「무성한 초목 Ⅱ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.63.1,「무성한 초목 Ⅱ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.64.1,「엉킨 덩굴 Ⅰ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.65.1,「엉킨 덩굴 Ⅰ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.66.1,「엉킨 덩굴 Ⅰ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.67.1,「엉킨 덩굴 Ⅱ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.68.1,「엉킨 덩굴 Ⅱ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.69.1,「엉킨 덩굴 Ⅱ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.7.1,「숲의 경호원 I」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.70.1,「풍성한 수초 Ⅰ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.71.1,「풍성한 수초 Ⅰ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.72.1,「풍성한 수초 Ⅰ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.73.1,「풍성한 수초 Ⅱ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.74.1,「풍성한 수초 Ⅱ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.75.1,「풍성한 수초 Ⅱ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.78.1,「불타는 사막 Ⅰ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.79.1,「불타는 사막 Ⅰ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.8.1,「숲의 경호원 I」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.80.1,「불타는 사막 Ⅱ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.81.1,「불타는 사막 Ⅱ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.82.1,「불타는 사막 Ⅲ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.83.1,「불타는 사막 Ⅲ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.84.1,「불타는 사막 Ⅲ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.85.1,「불타는 사막 Ⅳ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.86.1,「불타는 사막 Ⅳ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.87.1,「불타는 사막 Ⅳ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.88.1,「메마른 물길 Ⅰ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.89.1,「메마른 물길 Ⅰ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.9.1,「숲의 경호원 I」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.90.1,「메마른 물길 Ⅰ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.91.1,「메마른 물길 Ⅱ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.92.1,「메마른 물길 Ⅱ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.93.1,「메마른 물길 Ⅱ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.94.1,「불꽃의 대결 Ⅰ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.95.1,「불꽃의 대결 Ⅰ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.96.1,「불꽃의 대결 Ⅰ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.97.1,「불꽃의 대결 Ⅱ」 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.98.1,「불꽃의 대결 Ⅱ」 ★2 클리어,TowerDefenseQuest.json
+TowerDefenseQuest.99.1,「불꽃의 대결 Ⅱ」 ★3 클리어,TowerDefenseQuest.json
+TowerDefenseQuestGroup.1.1,입문,TowerDefenseQuestGroup.json
+TowerDefenseQuestGroup.10.1,숙련,TowerDefenseQuestGroup.json
+TowerDefenseQuestGroup.11.1,달인,TowerDefenseQuestGroup.json
+TowerDefenseQuestGroup.12.1,마스터,TowerDefenseQuestGroup.json

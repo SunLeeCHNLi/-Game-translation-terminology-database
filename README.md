@@ -15,7 +15,7 @@
 
 **碧蓝航线**：[AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)；[AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
 
-**星塔旅人**：[Hiro420 / StellaSoraData](https://github.com/Hiro420/StellaSoraData)；[JforPlay / sstoy](https://github.com/JforPlay/sstoy)
+**星塔旅人**：[StellaSoraData](https://github.com/Hiro420/StellaSoraData)；[sstoy](https://github.com/JforPlay/sstoy)
 
 **原神**：[genshin-db](https://github.com/theBowja/genshin-db)；[genshin-langdata](https://github.com/xicri/genshin-langdata)
 
