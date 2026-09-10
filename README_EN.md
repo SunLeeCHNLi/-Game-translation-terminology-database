@@ -1,82 +1,90 @@
-# Game-translation-terminology-database
+# Game Translation Terminology Database / 游戏翻译术语库 / ゲーム翻訳用語集
 
-A terminology database primarily used in AI translation software, such as immersive translation
+## [中文](README.md) [日本語](README_JP.md)
 
-I primarily gather the translation terminology I need for daily use by myself and organize it using relevant AI software.
+A terminology database primarily intended for use with AI translation software such as Immersive Translation.
 
+The terminology is mainly collected based on my personal translation needs and organized with the assistance of relevant AI software.
 
+## Usage
 
-## Usage:
-1. Select a single file from the warehouse, enter the file details page, and directly choose to download. The downloaded table file can be converted into a format that can be recognized by software, such as CSV
-2. Simply choose to download the entire repository, and then manually select which files to use.
+1. Select an individual file in the repository, open its file details page, and download it directly. The downloaded spreadsheet files can be converted to CSV or other formats supported by your translation software.
 
+2. Clone or download the entire repository, then select and use the files you need.
 
+## Related Sources and Content
+
+**Azur Lane**: [AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData); [AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
+
+**Stella Sora**: [Hiro420 / StellaSoraData](https://github.com/Hiro420/StellaSoraData); [JforPlay / sstoy](https://github.com/JforPlay/sstoy)
+
+**Genshin Impact**: [genshin-db](https://github.com/theBowja/genshin-db); [genshin-langdata](https://github.com/xicri/genshin-langdata)
 
 ## Disclaimer
 
-This project (**Game-translation-terminology-database**) is an unofficial terminology database independently maintained by an individual. It is primarily intended for personal learning, research, translation assistance, and use with AI translation software, including but not limited to Immersive Translation and similar tools.
+This project (**Game-translation-terminology-database / 游戏翻译术语库**) is an unofficial translation terminology database independently compiled and maintained by an individual. It is primarily intended for personal learning, research, and assisting AI translation software, including but not limited to Immersive Translation.
 
 ### 1. Unofficial Project
 
-This project and its maintainer are **not affiliated with, authorized by, endorsed by, sponsored by, partnered with, or otherwise officially connected to any game developer, publisher, distributor, operator, copyright holder, trademark holder, or other related company or organization**.
+This project and its maintainer are **not affiliated with, authorized by, partnered with, represented by, or otherwise officially connected to any game developer, publisher, distributor, operator, copyright holder, or other related company or organization**.
 
-Unless explicitly stated otherwise, none of the terminology, translations, or other content contained in this repository should be considered or interpreted as representing the official terminology, official localization, official translation, or official position of any relevant game company or rights holder.
+Unless otherwise explicitly stated, none of the content contained in this project **represents the official position, official terminology, official translations, or official localization of any relevant game company or rights holder**.
 
 ### 2. Intellectual Property
 
-Game titles, work titles, character names, person names, locations, organizations, skills, items, proper nouns, trademarks, logos, and other related materials appearing in this repository remain the intellectual property of their respective copyright holders, trademark holders, or other lawful rights holders.
+The copyrights, trademarks, and other intellectual property rights relating to game titles, works, character names, personal names, place names, organization names, skill names, item names, proper nouns, trademarks, logos, and other related content appearing in this project belong to their respective legitimate rights holders.
 
-This project does **not claim ownership of any third-party intellectual property**.
+This project does not claim any rights to the aforementioned third-party intellectual property.
 
-The purpose of establishing terminology mappings in this repository is primarily to facilitate translation software, language learning, information organization, and related research. The inclusion of any third-party terminology does not imply that the relevant rights holder has endorsed, authorized, sponsored, or otherwise approved this project.
+The purpose of establishing terminology mappings in this project is primarily to facilitate text translation through translation software, language learning, information organization, and related research. The inclusion of such content does not imply any form of recognition, authorization, endorsement, or approval by the relevant rights holders.
 
 ### 3. Sources and Accuracy
 
-The terminology contained in this repository is primarily collected and compiled by the maintainer based on personal usage needs, publicly available information, personal research, and assistance from relevant AI software.
+The terminology contained in this project is primarily collected and compiled by the maintainer based on personal usage needs, publicly available information, personal research, and assistance from relevant AI software.
 
-Due to differences between language versions, regional releases, game versions, localization policies, and official terminology, **the terminology, translations, and mappings contained in this repository are not guaranteed to be accurate, complete, current, or consistent with the official terminology used in the latest version of any game**.
+Due to differences between language versions, regional versions, game versions, and official localization policies, **the translations, terminology, and terminology mappings contained in this project are not guaranteed to always be accurate, complete, or consistent with the official terminology used in the current version of the relevant game**.
 
-The repository may contain, among other things:
+Some content may contain:
 
 * Translation errors or omissions;
 * Differences between official translations in different regions;
 * Terminology changes resulting from game updates;
-* Multiple possible translations for the same term;
-* Errors introduced during AI-assisted processing or organization;
+* Multiple possible translations for the same terminology;
+* Errors introduced during AI-assisted compilation;
 * Errors originating from third-party reference materials.
 
-Accordingly, the contents of this repository **should not be regarded as an official terminology database, localization glossary, or translation guide for any game**.
+Therefore, the contents of this project **should not be regarded as an official terminology database or official localization file for any game**.
 
-### 4. AI-Generated Translation Results
+### 4. AI Translation Results
 
-This project is primarily intended to assist AI translation software with terminology matching and translation.
+This project is primarily intended to assist AI translation software with terminology matching and translation. Due to the inherent uncertainty of AI translation systems, even when using the terminology provided by this project, **the final translation results cannot be guaranteed to be completely accurate**.
 
-Due to the inherent uncertainty and limitations of AI translation systems, the use of terminology from this repository **does not guarantee that the resulting translation will be completely accurate or appropriate for its context**.
+Any translation results generated with the assistance of this project should be independently reviewed and evaluated by the user according to the specific context.
 
-Users are responsible for independently reviewing and evaluating any translation generated with the assistance of this repository.
-
-The maintainer of this project shall not be held responsible for any direct, indirect, incidental, consequential, or other losses arising from the use of this repository or translations generated based on its contents, to the extent permitted by applicable law.
+The maintainer of this project shall not be held responsible for any direct or indirect losses resulting from the use of this project or from translation results generated based on its contents.
 
 ### 5. User Responsibility
 
-The contents of this repository are provided primarily for personal learning, research, translation assistance, and other lawful purposes.
+The contents of this project are intended solely for learning, research, personal translation assistance, and other lawful purposes.
 
-Users are solely responsible for ensuring that their use of this repository, as well as any content generated, modified, or derived from it, complies with applicable laws and regulations and with the terms of service, licenses, and usage policies of any relevant software, games, platforms, or services.
+Users are responsible for ensuring that their use of this project, as well as any content generated, compiled, or modified based on it, complies with applicable laws and regulations in their jurisdiction and with the terms of service of any relevant services, software, and games.
 
-**Users assume all responsibility for their use of this repository and its contents.**
+**Users assume all responsibility arising from their use of this project and its related content.**
 
-### 6. Rights Holder Contact
+### 6. Contact for Rights Holders
 
-If any game developer, publisher, distributor, operator, copyright holder, trademark holder, or other rights holder believes that any content in this repository infringes upon their legitimate rights, is being used improperly, contains inaccurate information, or otherwise requires attention, they are welcome to contact the maintainer through GitHub Issues, Pull Requests, or other publicly available contact methods.
+If any game developer, publisher, distributor, copyright holder, trademark holder, or other relevant rights holder believes that any content in this project infringes upon their legitimate rights, is being used improperly, contains inaccurate information, or otherwise requires attention, they are welcome to contact the project maintainer through GitHub Issues, Pull Requests, or other publicly available contact methods.
 
-Upon receiving a reasonable request from a rights holder, the maintainer may review the relevant content and, where appropriate, modify or remove it.
+Upon receiving reasonable feedback from a rights holder, the maintainer will review the relevant content and, depending on the circumstances, may modify or remove it.
 
 ### 7. Miscellaneous
 
-Nothing in this disclaimer constitutes a waiver of any third-party intellectual property rights, nor does it grant or imply any license, authorization, endorsement, partnership, sponsorship, or commercial relationship with any third party.
+This disclaimer does not constitute a waiver of any third-party intellectual property rights, nor does it constitute or imply any form of authorization, license, partnership, endorsement, or commercial relationship.
 
-If any information contained in this repository conflicts with information officially published by the relevant rights holder, **the official information published by the relevant rights holder shall prevail**.
+If any content in this project conflicts with information officially published by the relevant game or rights holder, **the official information published by the relevant rights holder shall prevail.**
 
 ---
 
-**Game-translation-terminology-database is an independent personal project and is not affiliated with, endorsed by, sponsored by, or officially connected to any of the games, developers, publishers, distributors, operators, or rights holders mentioned in this repository.**
+**Game-translation-terminology-database is an independent personal project and is not affiliated with, endorsed by, sponsored by, or officially connected with any of the games, developers, publishers, distributors, operators, or rights holders mentioned in this repository.**
+
+**All game titles, trademarks, characters, and other related intellectual property belong to their respective rights holders.**
