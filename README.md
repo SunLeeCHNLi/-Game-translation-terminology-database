@@ -1,37 +1,16 @@
-# 游戏翻译术语库 / Game-translation-terminology-database / ゲーム翻訳用語集
+# 游戏翻译术语库
+[English](README_EN.md) [日本語](README_JP.md)
 
 一种主要用于沉浸式翻译等AI翻译软件的术语库
 
-A terminology database primarily used in AI translation software, such as immersive translation
-
-AI翻訳ソフトウェア、特に没入型翻訳などに主に用いられる用語集
-
 主要通过本人收集自己日常所需要的翻译术语，通过相关AI软件对其进行整理。
-
-I primarily gather the translation terminology I need for daily use by myself and organize it using relevant AI software.
-
-主に自分で日常的に必要な翻訳用語を収集し、関連するAIソフトウェアを使ってそれらを整理する。
 
 
 
 ## 使用方法：
 1、选择仓库中的单个文件，进入文件详情页后直接选择下载。下载后的表格文件可自行转换成csv等可被软件识别的格式
-
 2、直接选择下载整个仓库，再自行选择使用哪些文件。
 
-
-
-## Usage:
-1. Select a single file from the warehouse, enter the file details page, and directly choose to download. The downloaded table file can be converted into a format that can be recognized by software, such as CSV
-2. 
-3. Simply choose to download the entire repository, and then manually select which files to use.
-
-
-
-## 使用方法：
-1.倉庫内の単一ファイルを選択し、ファイル詳細ページに進んだら直接ダウンロードを選択する。ダウンロード後のテーブルファイルは、CSVなどのソフトウェアで認識可能なフォーマットに自分で変換できる
-
-2. 一括ダウンロードを選択し、使用するファイルを自由に選ぶ。
 
 
 ## 免责声明 / Disclaimer
