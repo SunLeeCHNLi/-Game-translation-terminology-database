@@ -19,6 +19,8 @@
 
 **原神**：[genshin-db](https://github.com/theBowja/genshin-db)；[genshin-langdata](https://github.com/xicri/genshin-langdata)
 
+**明日方舟**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite)；[ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata)；[Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
+
 ## 免责声明
 
 本项目（**Game-translation-terminology-database / 游戏翻译术语库**）为个人整理与维护的非官方翻译术语资料库，主要用于个人学习、研究以及辅助 AI 翻译软件（包括但不限于沉浸式翻译等）的术语翻译。
