@@ -12,6 +12,9 @@
 
 2、直接选择下载整个仓库，再自行选择使用哪些文件。
 
+使用的相关内容：
+
+碧蓝航线：[AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)；[AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
 
 
 ## 免责声明 / Disclaimer
