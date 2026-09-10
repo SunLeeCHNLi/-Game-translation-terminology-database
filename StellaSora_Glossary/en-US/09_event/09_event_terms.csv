@@ -1,0 +1,582 @@
+﻿id,term,src_table
+ActivityDoubleQuest.101001.1,Consume a total of 200 Vigor,ActivityDoubleQuest.json
+ActivityDoubleQuest.101002.1,Consume a total of 300 Vigor,ActivityDoubleQuest.json
+ActivityDoubleQuest.101003.1,Consume a total of 400 Vigor,ActivityDoubleQuest.json
+ActivityDoubleQuest.101004.1,Consume a total of 600 Vigor,ActivityDoubleQuest.json
+ActivityDoubleQuest.101005.1,Consume a total of 800 Vigor,ActivityDoubleQuest.json
+ActivityDoubleQuest.101006.1,"Consume a total of 1,000 Vigor",ActivityDoubleQuest.json
+ActivityDoubleQuest.101007.1,"Consume a total of 1,200 Vigor",ActivityDoubleQuest.json
+ActivityPenguinCardQuest.101001.1,Clear Moment of Entry,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101002.1,Clear Ignis Mirror,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101003.1,Clear Ignis Mirror with 3★.,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101004.1,Clear Aqua Mirror,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101005.1,Clear Aqua Mirror with 3★.,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101006.1,Clear Ventus Mirror,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101007.1,Clear Ventus Mirror with 3★.,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.101008.1,Clear Ultimate Mirror,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.103002.1,Clear Contract Mirror,ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201001.1,"Score 100,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201002.1,"Score 200,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201003.1,"Score 300,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201004.1,"Score 400,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201005.1,"Score 500,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201006.1,"Score 600,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201007.1,"Score 700,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201008.1,"Score 800,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201009.1,"Score 900,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.201010.1,"Score 1,000,000 points in a single run",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.203001.1,"Reach a total of 300,000 pts in card challenges",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.203002.1,"Reach a total of 600,000 pts in card challenges",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.203003.1,"Reach a total of 1,000,000 pts in card challenges",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.203004.1,"Reach a total of 2,000,000 pts in card challenges",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuest.305004.1,"Score 500,000 points in a single run.",ActivityPenguinCardQuest.json
+ActivityPenguinCardQuestGroup.101.1,Card Challenge,ActivityPenguinCardQuestGroup.json
+ActivityPenguinCardQuestGroup.102.1,Score Challenge,ActivityPenguinCardQuestGroup.json
+ActivityPenguinCardQuestGroup.301.1,Card Challenge,ActivityPenguinCardQuestGroup.json
+ActivityPenguinCardQuestGroup.303.1,High Score Challenge,ActivityPenguinCardQuestGroup.json
+ActivityShop.1001.1,!NONEED!,ActivityShop.json
+ActivityShop.1002.1,!NONEED!,ActivityShop.json
+ActivityShop.1003.1,!NONEED!,ActivityShop.json
+ActivityShop.1004.1,Christmas Event Shop,ActivityShop.json
+ActivityShop.1005.1,Firenze Event Shop,ActivityShop.json
+ActivityShop.1006.1,!NONEED!,ActivityShop.json
+ActivityShop.1007.1,!NONEED!,ActivityShop.json
+ActivityShop.1008.1,!NONEED!,ActivityShop.json
+ActivityShop.1009.1,Otoha Event Shop,ActivityShop.json
+ActivityShop.1010.1,Firefly Event Shop,ActivityShop.json
+ActivityShop.1011.1,!NONEED!,ActivityShop.json
+ActivityShop.1012.1,!NONEED!,ActivityShop.json
+ActivityShop.1013.1,Chaton Event Shop,ActivityShop.json
+ActivityShop.1014.1,!NONEED!,ActivityShop.json
+ActivityShop.1015.1,!NONEED!,ActivityShop.json
+ActivityShop.1016.1,!NONEED!,ActivityShop.json
+ActivityShop.3001.1,Bouncing Bumper Bash Shop,ActivityShop.json
+ActivityShop.3002.1,Bouncing Bumper Bash Season 2 Shop,ActivityShop.json
+ActivityStory.101040201.1,Familiar Face in a Million,ActivityStory.json
+ActivityStory.101040202.1,Among the Folks,ActivityStory.json
+ActivityStory.101040203.1,Through the Fog,ActivityStory.json
+ActivityStory.101040204.1,The Bait Is Set,ActivityStory.json
+ActivityStory.101040205.1,Clean Sweep,ActivityStory.json
+ActivityStory.101040206.1,Tough Gains,ActivityStory.json
+ActivityStory.101040207.1,After the Mystery,ActivityStory.json
+ActivityStory.101040208.1,Truth Revealed,ActivityStory.json
+ActivityStory.101040209.1,Healer's Kindness,ActivityStory.json
+ActivityStory.101040210.1,Years Apart,ActivityStory.json
+ActivityStory.101040211.1,A World Made New,ActivityStory.json
+ActivityStory.101050201.1,To the Northern City,ActivityStory.json
+ActivityStory.101050202.1,Into the Frozen Dark,ActivityStory.json
+ActivityStory.101050203.1,The Frozen Ruins,ActivityStory.json
+ActivityStory.101050204.1,Memories of Home,ActivityStory.json
+ActivityStory.101050205.1,Ancient Secrets,ActivityStory.json
+ActivityStory.101050206.1,Night Before Dawn,ActivityStory.json
+ActivityStory.101050207.1,Malicious Intent,ActivityStory.json
+ActivityStory.101050208.1,The Archons,ActivityStory.json
+ActivityStory.101050209.1,Trigger of Dawn,ActivityStory.json
+ActivityStory.101050210.1,Last Stand,ActivityStory.json
+ActivityStory.101050211.1,The Burden of Power,ActivityStory.json
+ActivityStory.101050212.1,Beyond the Storm,ActivityStory.json
+ActivityStory.101060201.1,Post Haste's Commission,ActivityStory.json
+ActivityStory.101060202.1,Rumor Has It,ActivityStory.json
+ActivityStory.101060203.1,Wise in Letters,ActivityStory.json
+ActivityStory.101060204.1,Following the Old Maps,ActivityStory.json
+ActivityStory.101060205.1,A Sealed Heart,ActivityStory.json
+ActivityStory.101060206.1,Letter Thief Encounter,ActivityStory.json
+ActivityStory.101060207.1,Convincing with Reason,ActivityStory.json
+ActivityStory.101060208.1,Monsters Did It?,ActivityStory.json
+ActivityStory.101060209.1,Operation Corn Kernel,ActivityStory.json
+ActivityStory.101060210.1,Braving the Storm,ActivityStory.json
+ActivityStory.101060211.1,A Greeting Transcending Time,ActivityStory.json
+ActivityStory.101060212.1,To My Dearest You,ActivityStory.json
+ActivityStory.101070201.1,The Reunion,ActivityStory.json
+ActivityStory.101070202.1,The Photo Film,ActivityStory.json
+ActivityStory.101070203.1,The Guardian,ActivityStory.json
+ActivityStory.101070204.1,A Test Subject,ActivityStory.json
+ActivityStory.101070205.1,A Friend,ActivityStory.json
+ActivityStory.101070206.1,A Helping Hand,ActivityStory.json
+ActivityStory.101070207.1,The First Time,ActivityStory.json
+ActivityStory.101070208.1,The Resolve,ActivityStory.json
+ActivityStory.101070209.1,The Protection,ActivityStory.json
+ActivityStory.101070210.1,A Smile,ActivityStory.json
+ActivityStory.101070211.1,An Ordinary Girl,ActivityStory.json
+ActivityStory.101080201.1,Energy Crisis,ActivityStory.json
+ActivityStory.101080202.1,Find the Genius Artisan,ActivityStory.json
+ActivityStory.101080203.1,The Great Escape,ActivityStory.json
+ActivityStory.101080204.1,The Underground Market,ActivityStory.json
+ActivityStory.101080205.1,The Mobile Workshop,ActivityStory.json
+ActivityStory.101080206.1,The Show Begins,ActivityStory.json
+ActivityStory.101080207.1,Time to Reel Them In,ActivityStory.json
+ActivityStory.101080208.1,Full Speed Ahead,ActivityStory.json
+ActivityStory.101080209.1,A Narrow Escape,ActivityStory.json
+ActivityStory.101080210.1,A New Order,ActivityStory.json
+ActivityStory.101090201.1,Expedition: Absence of Power,ActivityStory.json
+ActivityStory.101090202.1,Cangwu: Proof of Power,ActivityStory.json
+ActivityStory.101090203.1,Emor: Display of Power,ActivityStory.json
+ActivityStory.101090204.1,Start: Chaton's Investigation,ActivityStory.json
+ActivityStory.101090205.1,Infiltration: Into the Dark Nest,ActivityStory.json
+ActivityStory.101090206.1,Crossfire: Mirage Melee,ActivityStory.json
+ActivityStory.101090207.1,Raid: Traps of the Dark Nest,ActivityStory.json
+ActivityStory.101090208.1,Monster Duel: Trekker Rescuing,ActivityStory.json
+ActivityStory.101090209.1,Breakout: The Power Reborn,ActivityStory.json
+ActivityStory.101090210.1,Cheers: To the Great Chaton,ActivityStory.json
+ActivityStory.101100201.1,Breeze-Delivered Commission,ActivityStory.json
+ActivityStory.101100202.1,Rocking Dreams on Deck,ActivityStory.json
+ActivityStory.101100203.1,New Star's Castaway Tale,ActivityStory.json
+ActivityStory.101100204.1,Phantoms of the Sea,ActivityStory.json
+ActivityStory.101100205.1,Deep-Sea Monolith,ActivityStory.json
+ActivityStory.101100206.1,Collector in the Vortex,ActivityStory.json
+ActivityStory.101100207.1,Conch Shell Scramble,ActivityStory.json
+ActivityStory.101100208.1,Sea in a Frame,ActivityStory.json
+ActivityStory.101100209.1,Moral Education,ActivityStory.json
+ActivityStory.101100210.1,Fractures and Refuge,ActivityStory.json
+ActivityStory.101100211.1,Summer Goes On,ActivityStory.json
+ActivityStory.101110201.1,A Tea Party for Young Ladies,ActivityStory.json
+ActivityStory.101110202.1,Grounded and Humble,ActivityStory.json
+ActivityStory.101110203.1,Improvement,ActivityStory.json
+ActivityStory.101110204.1,First Commission,ActivityStory.json
+ActivityStory.101110205.1,New Life,ActivityStory.json
+ActivityStory.101110206.1,Missing,ActivityStory.json
+ActivityStory.101110207.1,Undercover,ActivityStory.json
+ActivityStory.101110208.1,Breakout,ActivityStory.json
+ActivityStory.101110209.1,Strike at the Heart,ActivityStory.json
+ActivityStory.101110210.1,Night of Honor,ActivityStory.json
+ActivityStory.101110211.1,A New Dream,ActivityStory.json
+ActivityStory.111000201.1,Flickering Glow,ActivityStory.json
+ActivityStory.111000202.1,From the Ghost Ship,ActivityStory.json
+ActivityStory.111000203.1,Mysteries and Scents,ActivityStory.json
+ActivityStory.111000204.1,A Lead from the Voice,ActivityStory.json
+ActivityStory.111000205.1,Seeing is Deceiving,ActivityStory.json
+ActivityStory.111000206.1,The Look-Alike,ActivityStory.json
+ActivityStory.111000207.1,Beneath the Shadow,ActivityStory.json
+ActivityStory.111000208.1,The Land of Echoes,ActivityStory.json
+ActivityStory.111000209.1,The Origin of Light,ActivityStory.json
+ActivityStory.111000210.1,The Secret of the Ocean,ActivityStory.json
+ActivityStory.111000211.1,Never Ending Summer,ActivityStory.json
+ActivityStory.201010201.1,Snowish Festival Messenger,ActivityStory.json
+ActivityStory.201010202.1,Gift Rush,ActivityStory.json
+ActivityStory.201010203.1,Trace of the Spirit,ActivityStory.json
+ActivityStory.201010204.1,Red for Passion,ActivityStory.json
+ActivityStory.201010205.1,Gray for Coincidence,ActivityStory.json
+ActivityStory.201010206.1,Blue for the Snow,ActivityStory.json
+ActivityStory.201010207.1,A Familiar Glimmer,ActivityStory.json
+ActivityStory.201010208.1,A Wish in Loneliness,ActivityStory.json
+ActivityStory.201010209.1,The Magic of Friendship,ActivityStory.json
+ActivityStory.201010210.1,A Bigger World,ActivityStory.json
+ActivityStory.201010211.1,A Spectacular Entrance,ActivityStory.json
+ActivityStory.201010212.1,"A Dangerous ""Game""",ActivityStory.json
+ActivityStory.201010213.1,Afterglow of the Festival,ActivityStory.json
+ActivityStory.201010214.1,A Gift for You,ActivityStory.json
+ActivityStory.201030202.1,With Swimsuits & Brooms,ActivityStory.json
+ActivityStory.201030203.1,Hide-and-Seek on the Beach,ActivityStory.json
+ActivityStory.201030204.1,Tale of the Vending Artifact,ActivityStory.json
+ActivityStory.201030206.1,Giant Shadow with Treasure,ActivityStory.json
+ActivityStory.201030207.1,A Bad Start,ActivityStory.json
+ActivityStory.201030208.1,Let Me Be Your Hand,ActivityStory.json
+ActivityStory.201030209.1,The Sun Shines Again,ActivityStory.json
+ActivityStory.201030210.1,The Crabby One with Claws,ActivityStory.json
+ActivityStory.201030211.1,Sunshine and Sea Breeze,ActivityStory.json
+ActivityTaskGroup.1000301.1,Common Quests,ActivityTaskGroup.json
+ActivityTaskGroup.1000302.1,Challenge Quests,ActivityTaskGroup.json
+ActivityTaskGroup.1000303.1,Adventure Quests,ActivityTaskGroup.json
+ActivityTaskGroup.1000304.1,Special Quests,ActivityTaskGroup.json
+ActivityTaskGroup.101003.1,Activity Missions,ActivityTaskGroup.json
+ActivityTaskGroup.2010204.1,Fun Quests,ActivityTaskGroup.json
+ActivityTaskGroup.2010205.1,Destiny Missions,ActivityTaskGroup.json
+ActivityTaskGroup.3010201.1,Challenge Quests,ActivityTaskGroup.json
+ActivityTaskGroup.3010202.1,Marble Quests,ActivityTaskGroup.json
+ActivityTaskGroup.3010203.1,Collection Quests,ActivityTaskGroup.json
+BdConvertCondition.101.1,Reach Rating Lv. 15,BdConvertCondition.json
+BdConvertCondition.102.1,Reach Rating Lv. 21,BdConvertCondition.json
+BdConvertCondition.103.1,Reach Rating Lv. 25,BdConvertCondition.json
+BdConvertCondition.104.1,Reach Rating Lv. 28,BdConvertCondition.json
+BdConvertCondition.105.1,Reach Rating Lv. 31,BdConvertCondition.json
+BdConvertCondition.106.1,Reach Rating Lv. 20,BdConvertCondition.json
+BdConvertCondition.201.1,Collect 10 or more Musical Notes,BdConvertCondition.json
+BdConvertCondition.202.1,Collect 20 or more Musical Notes,BdConvertCondition.json
+BdConvertCondition.203.1,Collect 30 or more Musical Notes,BdConvertCondition.json
+BdConvertCondition.204.1,Collect 40 or more Musical Notes,BdConvertCondition.json
+BdConvertCondition.205.1,Collect 50 or more Musical Notes,BdConvertCondition.json
+BdConvertCondition.301.1,Record 5 or more types of Potentials,BdConvertCondition.json
+BdConvertCondition.302.1,Record 10 or more types of Potentials,BdConvertCondition.json
+BdConvertCondition.303.1,Record 15 or more types of Potentials,BdConvertCondition.json
+BdConvertCondition.304.1,Record 20 or more types of Potentials,BdConvertCondition.json
+BdConvertCondition.305.1,Record 24 or more types of Potentials,BdConvertCondition.json
+BdConvertCondition.401.1,Record 2 Potentials ≥ Lv.2,BdConvertCondition.json
+BdConvertCondition.402.1,Record 2 Potentials ≥ Lv.3,BdConvertCondition.json
+BdConvertCondition.403.1,Record 3 Potentials ≥ Lv.3,BdConvertCondition.json
+BdConvertCondition.404.1,Record 3 Potentials ≥ Lv.4,BdConvertCondition.json
+BdConvertCondition.405.1,Record 3 Potentials ≥ Lv.5,BdConvertCondition.json
+BdConvertCondition.406.1,Record 3 Potentials ≥ Lv.6,BdConvertCondition.json
+BdConvertCondition.501.1,Activate 2 Harmony Skills,BdConvertCondition.json
+BdConvertCondition.502.1,Activate 3 Harmony Skills,BdConvertCondition.json
+BdConvertCondition.503.1,Activate 4 Harmony Skills,BdConvertCondition.json
+BdConvertCondition.504.1,Activate any 2 Harmony Skills ≥ Lv.2.,BdConvertCondition.json
+BdConvertCondition.505.1,Activate any 3 Harmony Skills ≥ Lv.2.,BdConvertCondition.json
+BdConvertCondition.506.1,Activate a Harmony Skill,BdConvertCondition.json
+BdConvertCondition.601.1,Deploy an Aqua Trekker as the main Trekker,BdConvertCondition.json
+BdConvertCondition.602.1,Deploy an Ignis Trekker as the main Trekker,BdConvertCondition.json
+BdConvertCondition.603.1,Deploy a Terra Trekker as the main Trekker,BdConvertCondition.json
+BdConvertCondition.604.1,Deploy a Ventus Trekker as the main Trekker,BdConvertCondition.json
+BdConvertCondition.605.1,Deploy a Lux Trekker as the main Trekker,BdConvertCondition.json
+BdConvertCondition.606.1,Deploy an Umbra Trekker as the main Trekker,BdConvertCondition.json
+BdConvertCondition.607.1,Deploy a Terra or Umbra Trekker as the main Trekker,BdConvertCondition.json
+BdConvertCondition.608.1,Deploy a Ventus or Aqua Trekker as the main Trekker,BdConvertCondition.json
+BdConvertCondition.609.1,Main Trekker Element is Umbra or Aqua,BdConvertCondition.json
+BdConvertCondition.610.1,Main Trekker Element is Lux or Umbra,BdConvertCondition.json
+BdConvertCondition.611.1,Deploy a Terra or Lux Trekker as the Main Trekker,BdConvertCondition.json
+BdConvertCondition.612.1,Deploy an Ignis or Terra Trekker as the Main Trekker,BdConvertCondition.json
+BdConvertCondition.613.1,Deploy an Aqua or Ignis Trekker as the Main Trekker,BdConvertCondition.json
+BdConvertCondition.7011.1,Collect Melody of Pummel ×10 or more,BdConvertCondition.json
+BdConvertCondition.7012.1,Collect Melody of Pummel ×15 or more,BdConvertCondition.json
+BdConvertCondition.7013.1,Collect Melody of Pummel ×20 or more,BdConvertCondition.json
+BdConvertCondition.7021.1,Collect Melody of Luck ×10 or more,BdConvertCondition.json
+BdConvertCondition.7022.1,Collect Melody of Luck ×15 or more,BdConvertCondition.json
+BdConvertCondition.7023.1,Collect Melody of Luck ×20 or more,BdConvertCondition.json
+BdConvertCondition.7041.1,Collect at least 30 Melodies of Stamina,BdConvertCondition.json
+BdConvertCondition.7051.1,Collect at least 40 Melodies of Focus,BdConvertCondition.json
+BdConvertCondition.7061.1,Collect at least 30 Melodies of Skill,BdConvertCondition.json
+BdConvertCondition.8001.1,Deploy at least 1 Aqua Trekker,BdConvertCondition.json
+BdConvertCondition.8002.1,Deploy at least 1 Ignis Trekker,BdConvertCondition.json
+BdConvertCondition.8003.1,Deploy at least 1 Terra Trekker,BdConvertCondition.json
+BdConvertCondition.8004.1,Deploy at least 1 Ventus Trekker,BdConvertCondition.json
+BdConvertCondition.8005.1,Deploy at least 1 Lux Trekker,BdConvertCondition.json
+BdConvertCondition.8006.1,Deploy at least 1 Umbra Trekker,BdConvertCondition.json
+BdConvertCondition.8011.1,Clear with all Aqua Trekkers in a Record,BdConvertCondition.json
+BdConvertCondition.8012.1,Clear with all Ignis Trekkers in a Record,BdConvertCondition.json
+BdConvertCondition.8013.1,Clear with all Terra Trekkers in a Record,BdConvertCondition.json
+BdConvertCondition.8021.1,Clear with all Ventus Trekkers in a Record,BdConvertCondition.json
+BdConvertCondition.8022.1,Clear with all Lux Trekkers in a Record,BdConvertCondition.json
+BdConvertCondition.8023.1,Clear with all Umbra Trekkers in a Record,BdConvertCondition.json
+BdConvertCondition.9011.1,Include at least 1 Vanguard Trekker in a Record,BdConvertCondition.json
+BdConvertCondition.9012.1,Include at least 1 Versatile Trekker in a Record,BdConvertCondition.json
+BdConvertCondition.9013.1,Include at least 1 Support Trekker in a Record,BdConvertCondition.json
+BdConvertCondition.9021.1,Include at least 2 Vanguard Trekkers in a Record,BdConvertCondition.json
+BdConvertCondition.9022.1,Include at least 2 Versatile Trekkers in a Record,BdConvertCondition.json
+BdConvertCondition.9023.1,Include at least 2 Support Trekkers in a Record,BdConvertCondition.json
+BdConvertContent.1001.1,Uncharted Heights,BdConvertContent.json
+BdConvertContent.1002.1,Deep Dive,BdConvertContent.json
+BdConvertContent.1003.1,First Steps,BdConvertContent.json
+BdConvertRewardGroup.1001.1,Total Clearance Points reach 200 in Call for Best Records,BdConvertRewardGroup.json
+BdConvertRewardGroup.1002.1,Total Clearance Points reach 400 in Call for Best Records,BdConvertRewardGroup.json
+BdConvertRewardGroup.1003.1,Total Clearance Points reach 600 in Call for Best Records,BdConvertRewardGroup.json
+BdConvertRewardGroup.1004.1,Total Clearance Points reach 800 in Call for Best Records,BdConvertRewardGroup.json
+BdConvertRewardGroup.1005.1,"Total Clearance Points reach 1,000 in Call for Best Records",BdConvertRewardGroup.json
+BdConvertRewardGroup.1006.1,"Total Clearance Points reach 1,200 in Call for Best Records",BdConvertRewardGroup.json
+BdConvertRewardGroup.1007.1,"Total Clearance Points reach 1,400 in Call for Best Records",BdConvertRewardGroup.json
+BdConvertRewardGroup.1008.1,"Total Clearance Points reach 1,600 in Call for Best Records",BdConvertRewardGroup.json
+BdConvertRewardGroup.1009.1,"Total Clearance Points reach 1,800 in Call for Best Records",BdConvertRewardGroup.json
+BdConvertRewardGroup.1010.1,"Total Clearance Points reach 2,000 in Call for Best Records",BdConvertRewardGroup.json
+BdConvertRewardGroup.1011.1,"Total Clearance Points reach 2,200 in Call for Best Records",BdConvertRewardGroup.json
+BdConvertRewardGroup.1012.1,"Total Clearance Points reach 2,400 in Call for Best Records",BdConvertRewardGroup.json
+EventOptions.10101.1,Spend ×100 to obtain random Common Potential ×1,EventOptions.json
+EventOptions.10102.1,Spend ×120 to obtain random Potential ×1,EventOptions.json
+EventOptions.10103.1,Obtain ×30,EventOptions.json
+EventOptions.10201.1,Spend ×120 to obtain random Support Potential ×1,EventOptions.json
+EventOptions.10202.1,Spend ×160 to obtain random Main Potential ×1,EventOptions.json
+EventOptions.10203.1,Spend ×200 to obtain random Rare Potential ×1,EventOptions.json
+EventOptions.10301.1,Spend random Musical Note ×5 to obtain ×150,EventOptions.json
+EventOptions.10401.1,Spend random Musical Note ×10 to obtain random Rare Potential ×1,EventOptions.json
+EventOptions.10501.1,"50% chance to obtain ×200, 50% chance to lose ×100",EventOptions.json
+EventOptions.10502.1,"30% chance to obtain ×650, 70% chance to lose ×200",EventOptions.json
+EventOptions.10602.1,Spend 40% Max HP to obtain random Common Potential ×1,EventOptions.json
+EventOptions.10701.1,Obtain Melody of Pummel ×5,EventOptions.json
+EventOptions.10702.1,Obtain Melody of Luck ×5,EventOptions.json
+EventOptions.10703.1,Obtain Melody of Burst ×5,EventOptions.json
+EventOptions.10704.1,Obtain Melody of Stamina ×5,EventOptions.json
+EventOptions.10705.1,Obtain Melody of Focus ×5,EventOptions.json
+EventOptions.10706.1,Obtain Melody of Skill ×5,EventOptions.json
+EventOptions.10707.1,Obtain Melody of Ultimate ×5,EventOptions.json
+EventOptions.10708.1,Obtain random Musical Note ×5,EventOptions.json
+EventOptions.10801.1,Spend ×140 to obtain Melody of Pummel ×10,EventOptions.json
+EventOptions.10802.1,Spend ×140 to obtain Melody of Luck ×10,EventOptions.json
+EventOptions.10803.1,Spend ×140 to obtain Melody of Burst ×10,EventOptions.json
+EventOptions.10804.1,Spend ×140 to obtain Melody of Stamina ×10,EventOptions.json
+EventOptions.10805.1,Spend ×140 to obtain Melody of Focus ×10,EventOptions.json
+EventOptions.10806.1,Spend ×140 to obtain Melody of Skill ×10,EventOptions.json
+EventOptions.10807.1,Spend ×140 to obtain Melody of Ultimate ×10,EventOptions.json
+EventOptions.10808.1,Spend ×90 to obtain random Musical Note ×10,EventOptions.json
+EventOptions.10901.1,"50% chance to obtain ×100, 50% chance to obtain random Potential ×1",EventOptions.json
+EventOptions.11001.1,"50% chance to obtain ×120, 50% chance to obtain random Rare Potential ×1",EventOptions.json
+EventOptions.11002.1,Spend ×160 to obtain random Rare Potential ×1,EventOptions.json
+EventOptions.11101.1,Recover 20% HP,EventOptions.json
+EventOptions.11102.1,Spend 20% HP to obtain random Common Potential ×1,EventOptions.json
+EventOptions.11202.1,Spend 30% HP to obtain random Potential ×1,EventOptions.json
+EventOptions.11303.1,Spend 50% HP to obtain random Rare Potential ×1,EventOptions.json
+EventOptions.12001.1,Spend ×50 to obtain random Musical Note ×5,EventOptions.json
+EventOptions.12101.1,Spend ×100 to obtain random Potential ×1,EventOptions.json
+EventOptions.12201.1,Spend ×180 to obtain random Rare Potential ×1,EventOptions.json
+EventOptions.12301.1,Spend ×50 to recover 20% HP,EventOptions.json
+EventOptions.12302.1,Spend 30% Max HP to obtain random Potential ×1,EventOptions.json
+EventOptions.12601.1,Obtain random Common Potential ×1 for a support Trekker,EventOptions.json
+EventOptions.12701.1,Obtain random Potential ×1 for a support Trekker,EventOptions.json
+EventOptions.12801.1,Obtain random Rare Potential ×1 for a support Trekker,EventOptions.json
+EventReminder.1.1,Ascension,EventReminder.json
+EventReminder.2.1,Proving Grounds,EventReminder.json
+EventReminder.3.1,Cataclysm Survivor,EventReminder.json
+EventReminder.4.1,Boss Blitz,EventReminder.json
+EventReminder.5.1,Operation: Shadow Siege,EventReminder.json
+MiningQuest.101.1,Log in for 1 day during the event period,MiningQuest.json
+MiningQuest.102.1,Log in for 2 days during the event period,MiningQuest.json
+MiningQuest.103.1,Log in for 3 days during the event period,MiningQuest.json
+MiningQuest.104.1,Log in for 4 days during the event period,MiningQuest.json
+MiningQuest.105.1,Log in for 5 days during the event period,MiningQuest.json
+MiningQuest.111.1,Consume a total of 200 Vigor,MiningQuest.json
+MiningQuest.112.1,Consume a total of 300 Vigor,MiningQuest.json
+MiningQuest.113.1,Consume a total of 400 Vigor,MiningQuest.json
+MiningQuest.114.1,Consume a total of 600 Vigor,MiningQuest.json
+MiningQuest.115.1,Consume a total of 800 Vigor,MiningQuest.json
+MiningQuest.116.1,Consume a total of 1000 Vigor,MiningQuest.json
+MiningQuest.121.1,Earn a total of 500 Event Points,MiningQuest.json
+MiningQuest.122.1,"Earn a total of 1,000 Event Points",MiningQuest.json
+MiningQuest.123.1,"Earn a total of 1,500 Event Points",MiningQuest.json
+MiningQuest.124.1,"Earn a total of 2,000 Event Points",MiningQuest.json
+MiningQuest.125.1,"Earn a total of 2,500 Event Points",MiningQuest.json
+MiningQuest.126.1,"Earn a total of 3,000 Event Points",MiningQuest.json
+MiningQuest.127.1,"Earn a total of 3,500 Event Points",MiningQuest.json
+MiningQuest.128.1,"Earn a total of 4,000 Event Points",MiningQuest.json
+MiningQuest.129.1,"Earn a total of 4,500 Event Points",MiningQuest.json
+MiningQuest.130.1,"Earn a total of 5,000 Event Points",MiningQuest.json
+MiningQuestGroup.101.1,Daily Check-in,MiningQuestGroup.json
+MiningQuestGroup.102.1,Sweating Bullets,MiningQuestGroup.json
+MiningQuestGroup.103.1,Harvest Time,MiningQuestGroup.json
+StarTowerBookEntrance.1.1,Emor Market on a sunny day,StarTowerBookEntrance.json
+StarTowerBookEntrance.10.1,A greenhouse in Philae on a sunny day,StarTowerBookEntrance.json
+StarTowerBookEntrance.11.1,Emor Harbor on a sunny day,StarTowerBookEntrance.json
+StarTowerBookEntrance.12.1,Emor Ash District at night,StarTowerBookEntrance.json
+StarTowerBookEntrance.13.1,The outskirts of Emor on an early morning,StarTowerBookEntrance.json
+StarTowerBookEntrance.2.1,Emor Market at sunset,StarTowerBookEntrance.json
+StarTowerBookEntrance.3.1,A Street in Emor on a sunny day,StarTowerBookEntrance.json
+StarTowerBookEntrance.4.1,A Street in Emor at night,StarTowerBookEntrance.json
+StarTowerBookEntrance.5.1,A Street in Philae on a sunny day,StarTowerBookEntrance.json
+StarTowerBookEntrance.6.1,A Street in Philae on a rainy day,StarTowerBookEntrance.json
+StarTowerBookEntrance.7.1,Outside Mirage on a windy and dusty day,StarTowerBookEntrance.json
+StarTowerBookEntrance.8.1,A field near Philae on a sunny day,StarTowerBookEntrance.json
+StarTowerBookEntrance.9.1,A forest near Philae on a sunny day,StarTowerBookEntrance.json
+StarTowerBookEventReward.10301.1,Game Phone (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.10302.1,Game Phone (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.10303.1,Game Phone (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.10701.1,Trading Cards (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.10702.1,Trading Cards (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.10703.1,Trading Cards (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.10801.1,High or Low (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.10802.1,High or Low (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.10803.1,High or Low (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11001.1,The Roaming Music Box (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11002.1,The Roaming Music Box (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11003.1,The Roaming Music Box (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11101.1,Equal Exchange (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11102.1,Equal Exchange (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11103.1,Equal Exchange (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11201.1,When You Wish Upon Pep Pep Juice (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11202.1,When You Wish Upon Pep Pep Juice (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11203.1,When You Wish Upon Pep Pep Juice (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11301.1,Asking for Help (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11302.1,Asking for Help (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11303.1,Asking for Help (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11401.1,The Ultimate Proof Ⅰ,StarTowerBookEventReward.json
+StarTowerBookEventReward.11402.1,The Ultimate Proof Ⅱ,StarTowerBookEventReward.json
+StarTowerBookEventReward.11403.1,The Ultimate Proof Ⅲ,StarTowerBookEventReward.json
+StarTowerBookEventReward.11501.1,Hide-and-Seek (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11502.1,Hide-and-Seek (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11503.1,Hide-and-Seek (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11601.1,The Great Dream (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11602.1,The Great Dream (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11603.1,The Great Dream (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11701.1,Jinglin's Cooking Adventures (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11702.1,Jinglin's Cooking Adventures (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11703.1,Jinglin's Cooking Adventures (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11801.1,Stellaroid Experiment Journal (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11802.1,Stellaroid Experiment Journal (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11803.1,Stellaroid Experiment Journal (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.11901.1,At Your Service (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.11902.1,At Your Service (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.11903.1,At Your Service (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12001.1,Homework Assignment (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12002.1,Homework Assignment (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12003.1,Homework Assignment (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12301.1,That Figure (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12302.1,That Figure (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12303.1,That Figure (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12501.1,A Sunny Day for Fine Weather (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12502.1,A Rainy Day for Fine Weather (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12503.1,A Snowy Day for Fine Weather (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12601.1,Flavio's Past (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12602.1,Flavio's Past (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12603.1,Flavio's Past (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.12701.1,After a Delivery (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.12702.1,After a Delivery (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.12703.1,After a Delivery (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13001.1,Delivery Into the Monolith (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13002.1,Delivery Into the Monolith (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13003.1,Delivery Into the Monolith (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13201.1,Manga Girl Minova (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13202.1,Manga Girl Minova (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13203.1,Manga Girl Minova (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13301.1,Trekker's Handbook (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13302.1,Trekker's Handbook (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13303.1,Trekker's Handbook (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13401.1,Monolith Speedrunner (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13402.1,Monolith Speedrunner (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13403.1,Monolith Speedrunner (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13501.1,Going Undercover (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.13502.1,Going Undercover (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.13503.1,Going Undercover (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.13701.1,Painting the Monolith Ⅰ,StarTowerBookEventReward.json
+StarTowerBookEventReward.13702.1,Painting the Monolith Ⅱ,StarTowerBookEventReward.json
+StarTowerBookEventReward.13703.1,Painting the Monolith Ⅲ,StarTowerBookEventReward.json
+StarTowerBookEventReward.14001.1,Tyrant Pie Ⅰ,StarTowerBookEventReward.json
+StarTowerBookEventReward.14002.1,Tyrant Pie Ⅱ,StarTowerBookEventReward.json
+StarTowerBookEventReward.14003.1,Tyrant Pie Ⅲ,StarTowerBookEventReward.json
+StarTowerBookEventReward.14101.1,Don't Pick Up Strange Things (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14102.1,Don't Pick Up Strange Things (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14103.1,Don't Pick Up Strange Things (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14201.1,Special Mission (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14202.1,Special Mission (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14203.1,Special Mission (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14301.1,Flame Hunter I,StarTowerBookEventReward.json
+StarTowerBookEventReward.14302.1,Flame Hunter II,StarTowerBookEventReward.json
+StarTowerBookEventReward.14303.1,Flame Hunter III,StarTowerBookEventReward.json
+StarTowerBookEventReward.14401.1,Path of the Climb (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14402.1,Path of the Climb (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14403.1,Path of the Climb (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14501.1,Mirror and Mask (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14502.1,Mirror and Mask (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14503.1,Mirror and Mask (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14701.1,Monolith's Approval (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14702.1,Monolith's Approval (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14703.1,Monolith's Approval (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.14901.1,Fragments of Memory (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.14902.1,Fragments of Memory (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.14903.1,Fragments of Memory (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15001.1,Lucky Fishing Gear (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15002.1,Lucky Fishing Gear (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15003.1,Lucky Fishing Gear (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15501.1,Sunlight on the Water (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15502.1,Sunlight on the Water (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15503.1,Sunlight on the Water (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15601.1,Count Chompchomp the Shark (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15602.1,Count Chompchomp the Shark (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15603.1,Count Chompchomp the Shark (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15701.1,Shining From Afar Ⅰ,StarTowerBookEventReward.json
+StarTowerBookEventReward.15702.1,Shining From Afar Ⅱ,StarTowerBookEventReward.json
+StarTowerBookEventReward.15703.1,Shining From Afar Ⅲ,StarTowerBookEventReward.json
+StarTowerBookEventReward.15801.1,Snow Inside the Monolith (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.15802.1,Snow Inside the Monolith (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.15803.1,Snow Inside the Monolith (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.15901.1,Field Expedition Ⅰ,StarTowerBookEventReward.json
+StarTowerBookEventReward.15902.1,Field Expedition Ⅱ,StarTowerBookEventReward.json
+StarTowerBookEventReward.15903.1,Field Expedition Ⅲ,StarTowerBookEventReward.json
+StarTowerBookEventReward.16001.1,Monolith Survey Ⅰ,StarTowerBookEventReward.json
+StarTowerBookEventReward.16002.1,Monolith Survey Ⅱ,StarTowerBookEventReward.json
+StarTowerBookEventReward.16003.1,Monolith Survey Ⅲ,StarTowerBookEventReward.json
+StarTowerBookEventReward.913301.1,Clearance Sale (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.913302.1,Clearance Sale (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.913303.1,Clearance Sale (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.917201.1,The Nurse's Needle (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.917202.1,The Nurse's Needle (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.917203.1,The Nurse's Needle (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.917301.1,A Wolf in Sheep's Clothing (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.917302.1,A Wolf in Sheep's Clothing (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.917303.1,A Wolf in Sheep's Clothing (3),StarTowerBookEventReward.json
+StarTowerBookEventReward.917401.1,A Sheep in Wolf's Clothing (1),StarTowerBookEventReward.json
+StarTowerBookEventReward.917402.1,A Sheep in Wolf's Clothing (2),StarTowerBookEventReward.json
+StarTowerBookEventReward.917403.1,A Sheep in Wolf's Clothing (3),StarTowerBookEventReward.json
+TowerDefenseQuest.1.1,Clear Defense Tutorial Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.10.1,Clear Guardian in the Forest Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.11.1,Clear Guardian in the Forest Ⅱ with 2 stars,TowerDefenseQuest.json
+TowerDefenseQuest.12.1,Clear Guardian in the Forest Ⅱ with 3 stars,TowerDefenseQuest.json
+TowerDefenseQuest.13.1,Clear Guardian in the Forest Ⅲ,TowerDefenseQuest.json
+TowerDefenseQuest.14.1,Clear Guardian in the Forest Ⅲ with 2 stars,TowerDefenseQuest.json
+TowerDefenseQuest.15.1,Clear Guardian in the Forest Ⅲ with 3 stars,TowerDefenseQuest.json
+TowerDefenseQuest.16.1,Clear Demonic Invasion Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.17.1,Clear Demonic Invasion Ⅰ with 2 stars,TowerDefenseQuest.json
+TowerDefenseQuest.18.1,Clear Demonic Invasion Ⅰ with 3 stars,TowerDefenseQuest.json
+TowerDefenseQuest.19.1,Clear Demonic Invasion Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.2.1,Clear Defense Tutorial Ⅰ with 2 stars,TowerDefenseQuest.json
+TowerDefenseQuest.20.1,Clear Demonic Invasion Ⅱ with 2 stars,TowerDefenseQuest.json
+TowerDefenseQuest.21.1,Clear Demonic Invasion Ⅱ with 3 stars,TowerDefenseQuest.json
+TowerDefenseQuest.22.1,Clear Demonic Invasion: Hunt Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.23.1,Clear Demonic Invasion: Hunt Ⅰ with 2 stars,TowerDefenseQuest.json
+TowerDefenseQuest.24.1,Clear Demonic Invasion: Hunt Ⅰ with 3 stars,TowerDefenseQuest.json
+TowerDefenseQuest.25.1,Clear Demonic Invasion: Hunt Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.26.1,Clear Demonic Invasion: Hunt Ⅱ with 2 stars,TowerDefenseQuest.json
+TowerDefenseQuest.27.1,Clear Demonic Invasion: Hunt Ⅱ with 3 stars,TowerDefenseQuest.json
+TowerDefenseQuest.29.1,Clear Defense Tutorial Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.3.1,Clear Defense Tutorial Ⅰ with 3 stars,TowerDefenseQuest.json
+TowerDefenseQuest.30.1,Clear Channel Clearance Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.31.1,Clear Channel Clearance Ⅰ with 3★.,TowerDefenseQuest.json
+TowerDefenseQuest.32.1,Clear Channel Clearance Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.33.1,Clear Channel Clearance Ⅱ with 3★.,TowerDefenseQuest.json
+TowerDefenseQuest.34.1,Clear Channel Clearance Ⅲ,TowerDefenseQuest.json
+TowerDefenseQuest.35.1,Clear Channel Clearance Ⅲ with 2★.,TowerDefenseQuest.json
+TowerDefenseQuest.36.1,Clear Channel Clearance Ⅲ with 3★.,TowerDefenseQuest.json
+TowerDefenseQuest.37.1,Clear Channel Clearance Ⅳ,TowerDefenseQuest.json
+TowerDefenseQuest.38.1,Clear Channel Clearance Ⅳ with 2★.,TowerDefenseQuest.json
+TowerDefenseQuest.39.1,Clear Channel Clearance Ⅳ with 3★.,TowerDefenseQuest.json
+TowerDefenseQuest.4.1,Clear Defense Tutorial Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.40.1,Clear Dark River Clash Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.41.1,Clear Dark River Clash Ⅰ with 2★.,TowerDefenseQuest.json
+TowerDefenseQuest.42.1,Clear Dark River Clash Ⅰ with 3★.,TowerDefenseQuest.json
+TowerDefenseQuest.43.1,Clear Dark River Clash Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.44.1,Clear Dark River Clash Ⅱ with 2★.,TowerDefenseQuest.json
+TowerDefenseQuest.45.1,Clear Dark River Clash Ⅱ with 3★.,TowerDefenseQuest.json
+TowerDefenseQuest.46.1,Clear Dark River Clash Ⅲ,TowerDefenseQuest.json
+TowerDefenseQuest.47.1,Clear Dark River Clash Ⅲ with 2★.,TowerDefenseQuest.json
+TowerDefenseQuest.48.1,Clear Dark River Clash Ⅲ with 3★.,TowerDefenseQuest.json
+TowerDefenseQuest.49.1,Clear Dark River Clash Ⅳ,TowerDefenseQuest.json
+TowerDefenseQuest.5.1,Clear Defense Tutorial Ⅱ with 2 stars,TowerDefenseQuest.json
+TowerDefenseQuest.50.1,Clear Dark River Clash Ⅳ with 2★.,TowerDefenseQuest.json
+TowerDefenseQuest.51.1,Clear Dark River Clash Ⅳ with 3★.,TowerDefenseQuest.json
+TowerDefenseQuest.52.1,Clear Defense Tutorial Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.53.1,Clear Defense Tutorial Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.54.1,Clear Tactical Retrospect Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.55.1,Clear Tactical Retrospect Ⅰ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.56.1,Clear Tactical Retrospect Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.57.1,Clear Tactical Retrospect Ⅱ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.58.1,Clear Verdant Veil Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.59.1,Clear Verdant Veil Ⅰ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.6.1,Clear Defense Tutorial Ⅱ with 3 stars,TowerDefenseQuest.json
+TowerDefenseQuest.60.1,Clear Verdant Veil Ⅰ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.61.1,Clear Verdant Veil Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.62.1,Clear Verdant Veil Ⅱ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.63.1,Clear Verdant Veil Ⅱ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.64.1,Clear Tangled Ingress Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.65.1,Clear Tangled Ingress Ⅰ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.66.1,Clear Tangled Ingress Ⅰ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.67.1,Clear Tangled Ingress Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.68.1,Clear Tangled Ingress Ⅱ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.69.1,Clear Tangled Ingress Ⅱ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.7.1,Clear Guardian in the Forest Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.70.1,Clear Rippling Reeds Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.71.1,Clear Rippling Reeds Ⅰ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.72.1,Clear Rippling Reeds Ⅰ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.73.1,Clear Rippling Reeds Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.74.1,Clear Rippling Reeds Ⅱ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.75.1,Clear Rippling Reeds Ⅱ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.78.1,Clear Scorching Desert Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.79.1,Clear Scorching Desert Ⅰ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.8.1,Clear Guardian in the Forest Ⅰ with 2 stars,TowerDefenseQuest.json
+TowerDefenseQuest.80.1,Clear Scorching Desert Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.81.1,Clear Scorching Desert Ⅱ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.82.1,Clear Scorching Desert Ⅲ,TowerDefenseQuest.json
+TowerDefenseQuest.83.1,Clear Scorching Desert Ⅲ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.84.1,Clear Scorching Desert Ⅲ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.85.1,Clear Scorching Desert Ⅳ,TowerDefenseQuest.json
+TowerDefenseQuest.86.1,Clear Scorching Desert Ⅳ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.87.1,Clear Scorching Desert Ⅳ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.88.1,Clear Dry Riverbed Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.89.1,Clear Dry Riverbed Ⅰ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.9.1,Clear Guardian in the Forest Ⅰ with 3 stars,TowerDefenseQuest.json
+TowerDefenseQuest.90.1,Clear Dry Riverbed Ⅰ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.91.1,Clear Dry Riverbed Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.92.1,Clear Dry Riverbed Ⅱ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.93.1,Clear Dry Riverbed Ⅱ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.94.1,Clear Blazing Showdown Ⅰ,TowerDefenseQuest.json
+TowerDefenseQuest.95.1,Clear Blazing Showdown Ⅰ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.96.1,Clear Blazing Showdown Ⅰ with 3★,TowerDefenseQuest.json
+TowerDefenseQuest.97.1,Clear Blazing Showdown Ⅱ,TowerDefenseQuest.json
+TowerDefenseQuest.98.1,Clear Blazing Showdown Ⅱ with 2★,TowerDefenseQuest.json
+TowerDefenseQuest.99.1,Clear Blazing Showdown Ⅱ with 3★,TowerDefenseQuest.json
+TowerDefenseQuestGroup.1.1,Beginner,TowerDefenseQuestGroup.json
+TowerDefenseQuestGroup.10.1,Practiced,TowerDefenseQuestGroup.json
+TowerDefenseQuestGroup.11.1,Expert,TowerDefenseQuestGroup.json
+TowerDefenseQuestGroup.12.1,Master,TowerDefenseQuestGroup.json
