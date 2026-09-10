@@ -1,0 +1,17 @@
+﻿category,label,term_count,glossary_file,terms_file,target_language
+01_character,角色名称,287,01_character/01_character_glossary.csv,01_character/01_character_terms.csv,ko-KR
+02_skill,技能名称,628,02_skill/02_skill_glossary.csv,02_skill/02_skill_terms.csv,ko-KR
+03_potential,潜能名称,1457,03_potential/03_potential_glossary.csv,03_potential/03_potential_terms.csv,ko-KR
+04_disc,唱片 / Disc,234,04_disc/04_disc_glossary.csv,04_disc/04_disc_terms.csv,ko-KR
+05_item,道具,558,05_item/05_item_glossary.csv,05_item/05_item_terms.csv,ko-KR
+06_equipment,装备,15,06_equipment/06_equipment_glossary.csv,06_equipment/06_equipment_terms.csv,ko-KR
+07_enemy,敌人,399,07_enemy/07_enemy_glossary.csv,07_enemy/07_enemy_terms.csv,ko-KR
+08_stage,关卡,1019,08_stage/08_stage_glossary.csv,08_stage/08_stage_terms.csv,ko-KR
+09_event,活动,581,09_event/09_event_glossary.csv,09_event/09_event_terms.csv,ko-KR
+10_system,系统术语,1055,10_system/10_system_glossary.csv,10_system/10_system_terms.csv,ko-KR
+11_ui,UI术语,4248,11_ui/11_ui_glossary.csv,11_ui/11_ui_terms.csv,ko-KR
+12_story,剧情专有名词,527,12_story/12_story_glossary.csv,12_story/12_story_terms.csv,ko-KR
+13_faction,阵营,21,13_faction/13_faction_glossary.csv,13_faction/13_faction_terms.csv,ko-KR
+14_location,地点,27,14_location/14_location_glossary.csv,14_location/14_location_terms.csv,ko-KR
+15_terminology,游戏机制术语,1236,15_terminology/15_terminology_glossary.csv,15_terminology/15_terminology_terms.csv,ko-KR
+TOTAL,,12292,,,ko-KR

@@ -1,0 +1,17 @@
+﻿category,label,term_count,terms_file,glossary_file,languages
+01_character,角色名称,287,01_character/01_character_terms.csv,01_character/01_character_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+02_skill,技能名称,628,02_skill/02_skill_terms.csv,02_skill/02_skill_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+03_potential,潜能名称,1457,03_potential/03_potential_terms.csv,03_potential/03_potential_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+04_disc,唱片 / Disc,234,04_disc/04_disc_terms.csv,04_disc/04_disc_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+05_item,道具,558,05_item/05_item_terms.csv,05_item/05_item_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+06_equipment,装备,15,06_equipment/06_equipment_terms.csv,06_equipment/06_equipment_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+07_enemy,敌人,399,07_enemy/07_enemy_terms.csv,07_enemy/07_enemy_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+08_stage,关卡,1019,08_stage/08_stage_terms.csv,08_stage/08_stage_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+09_event,活动,581,09_event/09_event_terms.csv,09_event/09_event_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+10_system,系统术语,1055,10_system/10_system_terms.csv,10_system/10_system_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+11_ui,UI术语,4248,11_ui/11_ui_terms.csv,11_ui/11_ui_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+12_story,剧情专有名词,527,12_story/12_story_terms.csv,12_story/12_story_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+13_faction,阵营,21,13_faction/13_faction_terms.csv,13_faction/13_faction_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+14_location,地点,27,14_location/14_location_terms.csv,14_location/14_location_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+15_terminology,游戏机制术语,1236,15_terminology/15_terminology_terms.csv,15_terminology/15_terminology_glossary.csv,"zh-CN, en-US, ja-JP, ko-KR, zh-TW"
+TOTAL,,12292,,,

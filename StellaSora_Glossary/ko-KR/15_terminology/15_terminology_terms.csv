@@ -1,0 +1,1237 @@
+﻿id,term,src_table
+DemonAdvance.1.1,마왕 권한 레벨,DemonAdvance.json
+DictionaryDiagram.10020101.1,레벨업,DictionaryDiagram.json
+DictionaryDiagram.10020102.1,승급,DictionaryDiagram.json
+DictionaryDiagram.10020103.1,각성,DictionaryDiagram.json
+DictionaryDiagram.10030101.1,스킬 설명,DictionaryDiagram.json
+DictionaryDiagram.10030102.1,스킬 강화,DictionaryDiagram.json
+DictionaryDiagram.10040102.1,옵션 오픈,DictionaryDiagram.json
+DictionaryDiagram.10040103.1,옵션 호환도,DictionaryDiagram.json
+DictionaryDiagram.10060101.1,특성 설명,DictionaryDiagram.json
+DictionaryDiagram.10060102.1,특성 효과,DictionaryDiagram.json
+DictionaryDiagram.10070101.1,호감도 설명,DictionaryDiagram.json
+DictionaryDiagram.10070102.1,호감도 획득 - 파트너 임무,DictionaryDiagram.json
+DictionaryDiagram.10080101.1,여행가 배지,DictionaryDiagram.json
+DictionaryDiagram.10080102.1,배지 재료,DictionaryDiagram.json
+DictionaryDiagram.10080103.1,여행가 취향,DictionaryDiagram.json
+DictionaryDiagram.10080104.1,배지 연성,DictionaryDiagram.json
+DictionaryDiagram.10080105.1,배지 재련,DictionaryDiagram.json
+DictionaryDiagram.10080106.1,재련 잠금,DictionaryDiagram.json
+DictionaryDiagram.10080107.1,배지 강화,DictionaryDiagram.json
+DictionaryDiagram.20020101.1,별의 탑-설명,DictionaryDiagram.json
+DictionaryDiagram.20020102.1,별의 탑-잠재력,DictionaryDiagram.json
+DictionaryDiagram.20020103.1,별의 탑-소리,DictionaryDiagram.json
+DictionaryDiagram.20020104.1,별의 탑-협주 스킬,DictionaryDiagram.json
+DictionaryDiagram.20020105.1,별의 탑-사건,DictionaryDiagram.json
+DictionaryDiagram.20020107.1,별의 탑-기록,DictionaryDiagram.json
+DictionaryDiagram.20020201.1,설명,DictionaryDiagram.json
+DictionaryDiagram.20020202.1,연구 단계,DictionaryDiagram.json
+DictionaryDiagram.20020203.1,연구 조건,DictionaryDiagram.json
+DictionaryDiagram.20030101.1,기록 설명,DictionaryDiagram.json
+DictionaryDiagram.20030102.1,잠재력과 축복,DictionaryDiagram.json
+DictionaryDiagram.20030204.1,잠재력 프리셋-공유 및 가져오기,DictionaryDiagram.json
+DictionaryDiagram.20040101.1,여행 스토리,DictionaryDiagram.json
+DictionaryDiagram.20050101.1,일상 업무,DictionaryDiagram.json
+DictionaryDiagram.20060101.1,강적 토벌,DictionaryDiagram.json
+DictionaryDiagram.20070101.1,배지 던전,DictionaryDiagram.json
+DictionaryDiagram.20080103.1,정상결전,DictionaryDiagram.json
+DictionaryDiagram.20090101.1,속성 버프,DictionaryDiagram.json
+DictionaryDiagram.20090102.1,메인-멜로디 스킬,DictionaryDiagram.json
+DictionaryDiagram.20090103.1,메인-협주 스킬,DictionaryDiagram.json
+DictionaryDiagram.20090104.1,보조-기본 소리,DictionaryDiagram.json
+DictionaryDiagram.20100101.1,연락처,DictionaryDiagram.json
+DictionaryDiagram.20100102.1,메시지 대화,DictionaryDiagram.json
+DictionaryDiagram.20100103.1,대화창 전환,DictionaryDiagram.json
+DictionaryDiagram.20110101.1,활력 설명,DictionaryDiagram.json
+DictionaryDiagram.20110102.1,직접 회복,DictionaryDiagram.json
+DictionaryDiagram.20110103.1,활력 저장,DictionaryDiagram.json
+DictionaryDiagram.20120101.1,콘텐츠 설명,DictionaryDiagram.json
+DictionaryDiagram.20120102.1,아레나 규칙,DictionaryDiagram.json
+DictionaryDiagram.20130102.1,재앙의 전선-편성,DictionaryDiagram.json
+DictionaryDiagram.20130103.1,재앙의 전선-보상,DictionaryDiagram.json
+DictionaryDiagram.20130104.1,재앙의 전선-특성,DictionaryDiagram.json
+DictionaryDiagram.20130201.1,재앙의 전선-레벨,DictionaryDiagram.json
+DictionaryDiagram.20130202.1,재앙의 전선-특별 보상,DictionaryDiagram.json
+DictionaryDiagram.20130203.1,재앙의 전선-특수 기믹,DictionaryDiagram.json
+DictionaryDiagram.20140102.1,재료 생성,DictionaryDiagram.json
+DictionaryDiagram.20150102.1,총 성급 계산,DictionaryDiagram.json
+DictionaryDiagram.20150103.1,보상 규칙,DictionaryDiagram.json
+DictionaryDiagram.20150104.1,점수 획득 경로,DictionaryDiagram.json
+DictionaryDiagram.20150105.1,성급 전환 규칙,DictionaryDiagram.json
+DictionaryDiagram.20150106.1,고정,DictionaryDiagram.json
+DictionaryDiagram.20160101.1,종언의 노래,DictionaryDiagram.json
+DictionaryDiagram.20160102.1,도전 난이도,DictionaryDiagram.json
+DictionaryDiagram.20160201.1,연합 전투,DictionaryDiagram.json
+DictionaryDiagram.20170101.1,콘텐츠 설명,DictionaryDiagram.json
+DictionaryDiagram.20170102.1,의뢰서 수여,DictionaryDiagram.json
+DictionaryDiagram.20170103.1,추적,DictionaryDiagram.json
+DictionaryDiagram.20170104.1,협력 토벌,DictionaryDiagram.json
+DictionaryDiagram.20170105.1,사냥 레벨,DictionaryDiagram.json
+DictionaryDiagram.30010101.1,기본 조작,DictionaryDiagram.json
+DictionaryDiagram.30010501.1,전투 조작-일반 공격,DictionaryDiagram.json
+DictionaryDiagram.30010601.1,전투 조작-메인 스킬,DictionaryDiagram.json
+DictionaryDiagram.30010701.1,전투 조작-SP 회복,DictionaryDiagram.json
+DictionaryDiagram.30010801.1,전투 조작-회피,DictionaryDiagram.json
+DictionaryDiagram.30010901.1,전투 조작-빠른 발놀림,DictionaryDiagram.json
+DictionaryDiagram.30011001.1,전투 조작-지원 캐릭터 스킬,DictionaryDiagram.json
+DictionaryDiagram.30011101.1,전투 조작-지원 캐릭터 필살기,DictionaryDiagram.json
+DictionaryDiagram.30011201.1,원소 속성-표식,DictionaryDiagram.json
+DictionaryDiagram.30011202.1,원소 표식-파티,DictionaryDiagram.json
+DictionaryDiagram.30011301.1,원소 속성-약점과 저항,DictionaryDiagram.json
+DictionaryDiagram.30011302.1,원소 속성-약점과 저항,DictionaryDiagram.json
+DictionaryDiagram.30011401.1,원소 속성-추천,DictionaryDiagram.json
+DictionaryDiagram.30011701.1,원소 속성-표식 발동,DictionaryDiagram.json
+DictionaryDiagram.30011801.1,소리 획득 경로,DictionaryDiagram.json
+DictionaryDiagram.40010101.1,콘텐츠 설명,DictionaryDiagram.json
+DictionaryDiagram.40010102.1,보물삽 획득,DictionaryDiagram.json
+DictionaryDiagram.40010103.1,내구도,DictionaryDiagram.json
+DictionaryDiagram.40010104.1,보물 모양,DictionaryDiagram.json
+DictionaryDiagram.40010105.1,보물 가치,DictionaryDiagram.json
+DictionaryDiagram.40010106.1,층 변경 및 캐릭터 서포팅,DictionaryDiagram.json
+DictionaryDiagram.40020101.1,스텔라 디펜스-기본 플레이,DictionaryDiagram.json
+DictionaryDiagram.40020201.1,스텔라 디펜스-캐릭터 업그레이드,DictionaryDiagram.json
+DictionaryDiagram.40020301.1,스텔라 디펜스-아이템 카드,DictionaryDiagram.json
+DictionaryDiagram.40020401.1,스텔라 디펜스-말 소개,DictionaryDiagram.json
+DictionaryDiagram.40020501.1,스텔라 디펜스-입수,DictionaryDiagram.json
+DictionaryDiagram.40020502.1,스텔라 디펜스-당기기,DictionaryDiagram.json
+DictionaryDiagram.40020601.1,스텔라 디펜스-밀기,DictionaryDiagram.json
+DictionaryDiagram.40020701.1,스텔라 디펜스-정예 중량,DictionaryDiagram.json
+DictionaryDiagram.40020801.1,스텔라 디펜스-톡톡메테오,DictionaryDiagram.json
+DictionaryDiagram.40020901.1,스텔라 디펜스-피렌,DictionaryDiagram.json
+DictionaryDiagram.40021001.1,스텔라 디펜스-보스 중량,DictionaryDiagram.json
+DictionaryDiagram.40021101.1,스텔라 디펜스-수풀,DictionaryDiagram.json
+DictionaryDiagram.40021102.1,스텔라 디펜스-수풀 제거,DictionaryDiagram.json
+DictionaryDiagram.40021201.1,스텔라 디펜스-수풀 마법 주의,DictionaryDiagram.json
+DictionaryDiagram.40021301.1,스텔라 디펜스-광역 수풀 마법 주의,DictionaryDiagram.json
+DictionaryDiagram.40022001.1,스텔라 디펜스-폭염,DictionaryDiagram.json
+DictionaryDiagram.40022101.1,스텔라 디펜스-냉각,DictionaryDiagram.json
+DictionaryDiagram.40022102.1,스텔라 디펜스-정예 몬스터 주의,DictionaryDiagram.json
+DictionaryDiagram.40022201.1,스텔라 디펜스-화재 진압,DictionaryDiagram.json
+DictionaryDiagram.40022301.1,스텔라 디펜스-보스 몬스터 주의,DictionaryDiagram.json
+DictionaryDiagram.40030101.1,콘텐츠 설명,DictionaryDiagram.json
+DictionaryDiagram.40030201.1,“은은한 온기”,DictionaryDiagram.json
+DictionaryDiagram.40030301.1,“높게 따르는 찻물”,DictionaryDiagram.json
+DictionaryDiagram.40030401.1,“끓어오르는 열기”,DictionaryDiagram.json
+DictionaryDiagram.40030501.1,“명차의 운치”,DictionaryDiagram.json
+DictionaryDiagram.40040101.1,브릭 크러쉬-기본 플레이,DictionaryDiagram.json
+DictionaryDiagram.40040102.1,브릭 크러쉬-기본 플레이,DictionaryDiagram.json
+DictionaryDiagram.40040103.1,브릭 크러쉬-기본 플레이,DictionaryDiagram.json
+DictionaryDiagram.40040104.1,브릭 크러쉬-장치,DictionaryDiagram.json
+DictionaryDiagram.40040201.1,브릭 크러쉬-아이템,DictionaryDiagram.json
+DictionaryDiagram.40040301.1,브릭 크러쉬-몬스터,DictionaryDiagram.json
+DictionaryDiagram.40040402.1,브릭 크러쉬-장치,DictionaryDiagram.json
+DictionaryDiagram.40040501.1,브릭 크러쉬-워프 포트,DictionaryDiagram.json
+DictionaryDiagram.40040601.1,브릭 크러쉬-중력 버튼,DictionaryDiagram.json
+DictionaryDiagram.40050101.1,페이트 하우스,DictionaryDiagram.json
+DictionaryDiagram.40050102.1,핸드,DictionaryDiagram.json
+DictionaryDiagram.40050103.1,페이트 카드,DictionaryDiagram.json
+DictionaryDiagram.40050104.1,계약,DictionaryDiagram.json
+DictionaryDiagram.40050105.1,초월의 거울,DictionaryDiagram.json
+DictionaryDiagram.40060101.1,슈팅 럭키샷-기본 플레이,DictionaryDiagram.json
+DictionaryDiagram.40060102.1,슈팅 럭키샷-쇼핑 바구니,DictionaryDiagram.json
+DictionaryDiagram.40060201.1,슈팅 럭키샷-아이템 획득,DictionaryDiagram.json
+DictionaryDiagram.40060202.1,슈팅 럭키샷-아이템 선택,DictionaryDiagram.json
+DictionaryDiagram.40060203.1,슈팅 럭키샷-아이템 사용,DictionaryDiagram.json
+DictionaryDiagram.40060301.1,슈팅 럭키샷-송풍기,DictionaryDiagram.json
+DictionaryDiagram.40060401.1,슈팅 럭키샷-워프 포트,DictionaryDiagram.json
+DictionaryDiagram.40060501.1,슈팅 럭키샷-반사 샤로,DictionaryDiagram.json
+DictionaryDiagram.40060701.1,슈팅 럭키샷-마스터,DictionaryDiagram.json
+DictionaryDiagram.40070101.1,갈고리 보물찾기,DictionaryDiagram.json
+DictionaryDiagram.40070102.1,물자 가치,DictionaryDiagram.json
+DictionaryDiagram.40070103.1,중량 해제,DictionaryDiagram.json
+DictionaryDiagram.40070201.1,이중 수색,DictionaryDiagram.json
+DictionaryDiagram.40070202.1,폭탄 함정,DictionaryDiagram.json
+DictionaryDiagram.40070301.1,이동 장치,DictionaryDiagram.json
+DictionaryDiagram.40070302.1,드론,DictionaryDiagram.json
+DictionaryDiagram.40070303.1,청소기,DictionaryDiagram.json
+DictionaryDiagram.40070304.1,빙결 역장,DictionaryDiagram.json
+DictionaryDiagram.40070401.1,탐지 신기,DictionaryDiagram.json
+DictionaryDiagram.40070402.1,빙결 레이저 빔,DictionaryDiagram.json
+DictionaryDiagram.40070501.1,작전 지원,DictionaryDiagram.json
+DictionaryDiagram.40070502.1,특파 목록,DictionaryDiagram.json
+DictionaryDiagram.40070503.1,비밀 물자,DictionaryDiagram.json
+DictionaryDiagram.40080101.1,웰컴투 청량 스테이션,DictionaryDiagram.json
+DictionaryDiagram.40080102.1,아이스크림 볼 선택,DictionaryDiagram.json
+DictionaryDiagram.40080103.1,토핑 선택,DictionaryDiagram.json
+DictionaryDiagram.40080104.1,제작 실패,DictionaryDiagram.json
+DictionaryDiagram.40080201.1,특별 손님,DictionaryDiagram.json
+DictionaryDiagram.40080202.1,시원한 여름 드링크,DictionaryDiagram.json
+DictionaryDiagram.40080301.1,피버 타임,DictionaryDiagram.json
+DictionaryDiagram.40080401.1,무한 도전,DictionaryDiagram.json
+DictionaryDiagram.40090101.1,스텔라 배틀러,DictionaryDiagram.json
+DictionaryDiagram.40090102.1,체스판 배치,DictionaryDiagram.json
+DictionaryDiagram.40090103.1,페이즈 및 노드,DictionaryDiagram.json
+DictionaryDiagram.40090104.1,노드 소개,DictionaryDiagram.json
+DictionaryDiagram.40090105.1,이성,DictionaryDiagram.json
+DictionaryDiagram.40090106.1,전투 승리/실패,DictionaryDiagram.json
+DictionaryDiagram.40090107.1,말 코스트,DictionaryDiagram.json
+DictionaryDiagram.40090108.1,말 성급,DictionaryDiagram.json
+DictionaryDiagram.40090109.1,말 포지션,DictionaryDiagram.json
+DictionaryDiagram.40090110.1,시너지,DictionaryDiagram.json
+DictionaryDiagram.40090111.1,시너지 추적,DictionaryDiagram.json
+DictionaryDiagram.40090112.1,방침 및 축복,DictionaryDiagram.json
+DictionaryDiagram.40090113.1,현자의 금화,DictionaryDiagram.json
+DictionaryDiagram.40090114.1,상점 새로고침,DictionaryDiagram.json
+DictionaryDiagram.40090115.1,상점 레벨,DictionaryDiagram.json
+DictionaryDiagram.40090116.1,덱 공략,DictionaryDiagram.json
+DictionaryDiagram.90010101.1,일일 로열 포인트,DictionaryDiagram.json
+DictionaryDiagram.90010102.1,특별 지시,DictionaryDiagram.json
+DictionaryDiagram.90010103.1,주간 로열 포인트,DictionaryDiagram.json
+DictionaryDiagram.90020101.1,마왕 육성,DictionaryDiagram.json
+DictionaryDiagram.90020102.1,마왕 육성 - 챕터,DictionaryDiagram.json
+DictionaryDiagram.90030101.1,창업 지원 패스,DictionaryDiagram.json
+DictionaryDiagram.90030102.1,프리미엄 지원금,DictionaryDiagram.json
+DictionaryDiagram.90030103.1,영업 임무 설명,DictionaryDiagram.json
+DictionaryDiagram.90030104.1,레벨 구매 및 보상 안내,DictionaryDiagram.json
+DictionaryEntry.100101.1,여행가 설명,DictionaryEntry.json
+DictionaryEntry.100201.1,승급과 진급,DictionaryEntry.json
+DictionaryEntry.100301.1,스킬,DictionaryEntry.json
+DictionaryEntry.100601.1,특성,DictionaryEntry.json
+DictionaryEntry.100701.1,호감도,DictionaryEntry.json
+DictionaryEntry.100801.1,배지,DictionaryEntry.json
+DictionaryEntry.200101.1,권한 레벨,DictionaryEntry.json
+DictionaryEntry.200201.1,별의 탑,DictionaryEntry.json
+DictionaryEntry.200202.1,별의 탑 연구,DictionaryEntry.json
+DictionaryEntry.200302.1,잠재력 프리셋,DictionaryEntry.json
+DictionaryEntry.201001.1,하트챗,DictionaryEntry.json
+DictionaryEntry.201101.1,활력,DictionaryEntry.json
+DictionaryEntry.201201.1,혼돈의 아레나,DictionaryEntry.json
+DictionaryEntry.201301.1,재앙의 전선,DictionaryEntry.json
+DictionaryEntry.201302.1,재앙의 전선-전투,DictionaryEntry.json
+DictionaryEntry.201401.1,진리 도전,DictionaryEntry.json
+DictionaryEntry.201501.1,연합 토벌,DictionaryEntry.json
+DictionaryEntry.201701.1,쉐도우 헌터,DictionaryEntry.json
+DictionaryEntry.300102.1,기록,DictionaryEntry.json
+DictionaryEntry.300103.1,잠재력,DictionaryEntry.json
+DictionaryEntry.300104.1,레코드,DictionaryEntry.json
+DictionaryEntry.300105.1,기본 조작,DictionaryEntry.json
+DictionaryEntry.300106.1,원소 표식,DictionaryEntry.json
+DictionaryEntry.300107.1,원소 속성,DictionaryEntry.json
+DictionaryEntry.300108.1,강인함,DictionaryEntry.json
+DictionaryTab.1.1,여행가,DictionaryTab.json
+DictionaryTab.2.1,시스템,DictionaryTab.json
+DictionaryTab.3.1,전투 관련,DictionaryTab.json
+DictionaryTopBarEntry.300104.1,소리,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300105.1,일반 공격,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300106.1,메인 스킬,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300107.1,SP 회복,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300108.1,회피,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300109.1,빠른 발놀림,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300110.1,지원 스킬,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300111.1,지원 필살기,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300112.1,원소 표식,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300114.1,추천 속성,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300117.1,원소 속성-표식 부여,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300118.1,소리 획득 경로,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.300119.1,소리,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400101.1,행운의 보물찾기,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400203.1,스텔라 디펜스-특별 아이템,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400207.1,스텔라 디펜스-중량,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400222.1,스텔라 디펜스-화재 진압,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400223.1,스텔라 디펜스-보스 몬스터 주의,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400301.1,달콤한 공방,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400401.1,브릭 크러쉬-기본 플레이,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400601.1,슈팅 럭키샷-기본 플레이,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400602.1,슈팅 럭키샷-아이템,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400604.1,슈팅 럭키샷-워프 포트,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400701.1,스파이 대작전-기본 플레이,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400702.1,스파이 대작전-버프,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400703.1,스파이 대작전-경계,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400704.1,스파이 대작전-레이저,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400705.1,스파이 대작전-비밀 물자,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400801.1,청량 스테이션-기본 플레이,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400802.1,청량 스테이션-시원한 여름 드링크,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400803.1,청량 스테이션-피버 타임,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400804.1,청량 스테이션-무한 도전,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.400901.1,스텔라 배틀러,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.900101.1,일일 임무,DictionaryTopBarEntry.json
+DictionaryTopBarEntry.900301.1,창업 지원 패스,DictionaryTopBarEntry.json
+EffectDesc.10011.1,SP 슬롯,EffectDesc.json
+EffectDesc.10021.1,초기 SP,EffectDesc.json
+EffectDesc.10031.1,SP 회복 효율,EffectDesc.json
+EffectDesc.10041.1,공격 속도,EffectDesc.json
+EffectDesc.120001.1,없음,EffectDesc.json
+EffectDesc.120011.1,기본 공격,EffectDesc.json
+EffectDesc.120012.1,공격,EffectDesc.json
+EffectDesc.120021.1,기본 방어,EffectDesc.json
+EffectDesc.120022.1,방어,EffectDesc.json
+EffectDesc.120031.1,기본 HP,EffectDesc.json
+EffectDesc.120032.1,HP,EffectDesc.json
+EffectDesc.120041.1,명중률,EffectDesc.json
+EffectDesc.120051.1,회피율,EffectDesc.json
+EffectDesc.120061.1,치명타율,EffectDesc.json
+EffectDesc.120071.1,치명타 저항,EffectDesc.json
+EffectDesc.120081.1,치명타 피해,EffectDesc.json
+EffectDesc.120101.1,방어 무시,EffectDesc.json
+EffectDesc.120111.1,물 속성 저항,EffectDesc.json
+EffectDesc.120121.1,불 속성 저항,EffectDesc.json
+EffectDesc.120131.1,땅 속성 저항,EffectDesc.json
+EffectDesc.120141.1,바람 속성 저항,EffectDesc.json
+EffectDesc.120151.1,빛 속성 저항,EffectDesc.json
+EffectDesc.120161.1,어둠 속성 저항,EffectDesc.json
+EffectDesc.120231.1,물 속성 관통,EffectDesc.json
+EffectDesc.120241.1,불 속성 관통,EffectDesc.json
+EffectDesc.120251.1,땅 속성 관통,EffectDesc.json
+EffectDesc.120261.1,바람 속성 관통,EffectDesc.json
+EffectDesc.120271.1,빛 속성 관통,EffectDesc.json
+EffectDesc.120281.1,어둠 속성 관통,EffectDesc.json
+EffectDesc.120291.1,물 속성 저항 무시,EffectDesc.json
+EffectDesc.120301.1,불 속성 저항 무시,EffectDesc.json
+EffectDesc.120311.1,땅 속성 저항 무시,EffectDesc.json
+EffectDesc.120321.1,바람 속성 저항 무시,EffectDesc.json
+EffectDesc.120331.1,빛 속성 저항 무시,EffectDesc.json
+EffectDesc.120341.1,어둠 속성 저항 무시,EffectDesc.json
+EffectDesc.120351.1,받는 물 속성 피해,EffectDesc.json
+EffectDesc.120361.1,받는 불 속성 피해,EffectDesc.json
+EffectDesc.120371.1,받는 땅 속성 피해,EffectDesc.json
+EffectDesc.120381.1,받는 바람 속성 피해,EffectDesc.json
+EffectDesc.120391.1,받는 빛 속성 피해,EffectDesc.json
+EffectDesc.120401.1,받는 어둠 속성 피해,EffectDesc.json
+EffectDesc.120411.1,무게,EffectDesc.json
+EffectDesc.120421.1,방해 내성,EffectDesc.json
+EffectDesc.120431.1,방해 내성 무시 효율,EffectDesc.json
+EffectDesc.120441.1,최대 보호막,EffectDesc.json
+EffectDesc.120451.1,보호막 관통,EffectDesc.json
+EffectDesc.120461.1,이동 속도,EffectDesc.json
+EffectDesc.120491.1,입힌 피해,EffectDesc.json
+EffectDesc.120501.1,피해,EffectDesc.json
+EffectDesc.120511.1,최종 피해,EffectDesc.json
+EffectDesc.120531.1,받는 피해,EffectDesc.json
+EffectDesc.120551.1,약점 포착,EffectDesc.json
+EffectDesc.120561.1,일반 공격 피해,EffectDesc.json
+EffectDesc.120571.1,스킬 피해,EffectDesc.json
+EffectDesc.120581.1,필살기 피해,EffectDesc.json
+EffectDesc.120591.1,기타 피해,EffectDesc.json
+EffectDesc.120601.1,받는 일반 공격 피해,EffectDesc.json
+EffectDesc.120611.1,받는 스킬 피해,EffectDesc.json
+EffectDesc.120621.1,받는 필살기 피해,EffectDesc.json
+EffectDesc.120631.1,받는 기타 피해,EffectDesc.json
+EffectDesc.120641.1,표식 피해,EffectDesc.json
+EffectDesc.120651.1,받는 표식 피해,EffectDesc.json
+EffectDesc.120661.1,소환물 피해,EffectDesc.json
+EffectDesc.120681.1,파생물 피해,EffectDesc.json
+EffectDesc.120701.1,일반 공격 치명타율,EffectDesc.json
+EffectDesc.120711.1,스킬 치명타율,EffectDesc.json
+EffectDesc.120721.1,필살기 치명타율,EffectDesc.json
+EffectDesc.120731.1,표식 치명타율,EffectDesc.json
+EffectDesc.120741.1,소환물 치명타율,EffectDesc.json
+EffectDesc.120751.1,파생물 치명타율,EffectDesc.json
+EffectDesc.120771.1,일반 공격 치명타 피해,EffectDesc.json
+EffectDesc.120781.1,스킬 치명타 피해,EffectDesc.json
+EffectDesc.120791.1,필살기 치명타 피해,EffectDesc.json
+EffectDesc.120801.1,표식 치명타 피해,EffectDesc.json
+EffectDesc.120811.1,소환물 치명타 피해,EffectDesc.json
+EffectDesc.120821.1,파생물 치명타 피해,EffectDesc.json
+EffectDesc.370011.1,메인 SP 획득 효율,EffectDesc.json
+EffectDesc.70011.1,일반 공격 레벨업,EffectDesc.json
+EffectDesc.70021.1,메인 스킬 레벨업,EffectDesc.json
+EffectDesc.70031.1,지원 스킬 레벨업,EffectDesc.json
+EffectDesc.70041.1,필살기 레벨업,EffectDesc.json
+EffectDesc.990051.1,레벨,EffectDesc.json
+FateCard.98001.1,화력 강화·공격,FateCard.json
+FateCard.98002.1,화력 강화·스킬,FateCard.json
+FateCard.98003.1,화력 강화·필살기,FateCard.json
+FateCard.98004.1,회전 속도 강화·스킬,FateCard.json
+FateCard.98005.1,회전 속도 강화·필살기,FateCard.json
+FateCard.98006.1,원소 침식,FateCard.json
+FateCard.98007.1,고급 화력,FateCard.json
+FateCard.98008.1,전면 방호,FateCard.json
+FateCard.98009.1,누구보다 빠르게,FateCard.json
+FateCard.98010.1,치명적 일격,FateCard.json
+FateCard.98011.1,압박 증가,FateCard.json
+FateCard.98012.1,리셋 대기,FateCard.json
+FateCard.98013.1,하이라이트,FateCard.json
+FateCard.98014.1,끊임없는 정진,FateCard.json
+FateCard.98015.1,쇼 타임,FateCard.json
+FateCard.98016.1,불난 데 부채질,FateCard.json
+FateCard.98017.1,중과부적,FateCard.json
+FateCard.98018.1,굳건한 의지,FateCard.json
+FateCard.98019.1,배수의 진,FateCard.json
+FateCard.98020.1,최상의 컨디션,FateCard.json
+FateCard.98021.1,변속 기어,FateCard.json
+FateCard.98022.1,몰아붙이기,FateCard.json
+FateCard.98023.1,에이스 헌터,FateCard.json
+FateCard.98024.1,정리의 달인,FateCard.json
+FateCard.98025.1,쇠뿔도 단김에,FateCard.json
+FateCard.98026.1,최후의 일격,FateCard.json
+FateCard.98027.1,마왕 도전자,FateCard.json
+FateCard.98028.1,우세 타격,FateCard.json
+FateCard.98029.1,럭키 리듬,FateCard.json
+FateCard.98030.1,비산하는 불꽃,FateCard.json
+FateCard.98031.1,에너지 흡수,FateCard.json
+FateCard.98032.1,탐욕적 공세,FateCard.json
+FateCard.98033.1,왕의 자태,FateCard.json
+FateCard.98034.1,정밀 사격,FateCard.json
+FateCard.98035.1,해트트릭,FateCard.json
+FateCard.98036.1,슈퍼 투수,FateCard.json
+FateCard.98037.1,전투 욕망,FateCard.json
+FateCard.98038.1,저항·근거리,FateCard.json
+FateCard.98039.1,저항·원거리,FateCard.json
+FateCard.98040.1,반격 시기,FateCard.json
+FateCard.98061.1,기술·일반 공격 쿨타임,FateCard.json
+FateCard.98062.1,기술·일반 공격 피해 증가,FateCard.json
+FateCard.98063.1,기술·피해 저항,FateCard.json
+FateCard.98064.1,기술·피해 증가,FateCard.json
+FateCard.98065.1,기술·쿨타임 초기화,FateCard.json
+FateCard.98066.1,기술·취약 명령,FateCard.json
+FateCard.98067.1,기술·약화 명령,FateCard.json
+FateCard.98068.1,기술·에너지 과잉,FateCard.json
+FateCard.98069.1,기술·에너지 폭발,FateCard.json
+FateCard.98070.1,기술·리듬 마스터,FateCard.json
+FateCard.98081.1,축제·공격력 증가,FateCard.json
+FateCard.98082.1,축제·스킬 쿨타임,FateCard.json
+FateCard.98083.1,축제·HP 회복,FateCard.json
+FateCard.98084.1,축제·필살기 충전,FateCard.json
+FateCard.98085.1,축제·치명타 증가,FateCard.json
+FateCard.98086.1,축제·일반 공격 증폭,FateCard.json
+FateCard.98087.1,축제·스킬 피해 증가,FateCard.json
+FateCard.98088.1,축제·치명타 피해,FateCard.json
+FateCard.98089.1,축제·피해 면역,FateCard.json
+FateCard.98090.1,축제·손상 감소,FateCard.json
+FateCard.98101.1,배수·위로의 숨결,FateCard.json
+FateCard.98102.1,배수·구원의 시나리오,FateCard.json
+FateCard.98103.1,배수·생명의 대가,FateCard.json
+FateCard.98104.1,배수·천사의 은혜,FateCard.json
+FateCard.98105.1,배수·생존본능,FateCard.json
+FateCard.98106.1,배수·벼랑 끝 역습,FateCard.json
+FateCard.98107.1,배수·궁지의 칼날,FateCard.json
+FateCard.98108.1,배수·강철 보루,FateCard.json
+FateCard.98109.1,배수·배수의 진,FateCard.json
+FateCard.98110.1,배수·신의 보호,FateCard.json
+FateCard.98121.1,열혈·분투,FateCard.json
+FateCard.98122.1,열혈·의지,FateCard.json
+FateCard.98123.1,열혈·결의,FateCard.json
+FateCard.98124.1,열혈·기세,FateCard.json
+FateCard.98125.1,열혈·혈투,FateCard.json
+FateCard.98126.1,열혈·점입가경,FateCard.json
+FateCard.98127.1,열혈·최고의 컨디션,FateCard.json
+FateCard.98128.1,열혈·철벽,FateCard.json
+FateCard.98129.1,열혈·영혼의 불길,FateCard.json
+FateCard.98130.1,열혈·광속,FateCard.json
+FateCard.98141.1,운명·과녁 명중,FateCard.json
+FateCard.98142.1,운명·거수 사냥,FateCard.json
+FateCard.98143.1,운명·쇠뿔도 단김에,FateCard.json
+FateCard.98144.1,운명·백발백중,FateCard.json
+FateCard.98145.1,운명·위기를 기회로,FateCard.json
+FateCard.98146.1,운명·승리의 맹공,FateCard.json
+FateCard.98147.1,운명·연전연승,FateCard.json
+FateCard.98148.1,운명·일심동체,FateCard.json
+FateCard.98149.1,운명·뿌리 뽑기,FateCard.json
+FateCard.98150.1,운명·깃발 쟁취,FateCard.json
+FateCard.98161.1,억제·빈틈 포착,FateCard.json
+FateCard.98162.1,억제·혼란 속 약탈,FateCard.json
+FateCard.98163.1,억제·결정적 일격,FateCard.json
+FateCard.98164.1,억제·틈새 침투,FateCard.json
+FateCard.98165.1,억제·독 안의 쥐,FateCard.json
+FateCard.98166.1,억제·절명의 일격,FateCard.json
+FateCard.98167.1,억제·상처 도발,FateCard.json
+FateCard.98168.1,억제·손목 꺾기,FateCard.json
+FateCard.98169.1,억제·협공 속박,FateCard.json
+FateCard.98170.1,억제·역경의 힘,FateCard.json
+FateCard.98181.1,반격·기세 축적,FateCard.json
+FateCard.98182.1,반격·수호,FateCard.json
+FateCard.98183.1,반격·절체절명,FateCard.json
+FateCard.98184.1,반격·위기 회피,FateCard.json
+FateCard.98185.1,반격·피의 갈망,FateCard.json
+FateCard.98186.1,반격·격노의 화염,FateCard.json
+FateCard.98187.1,반격·기세 역이용,FateCard.json
+FateCard.98188.1,반격·응징,FateCard.json
+FateCard.98189.1,반격·치명타 피해,FateCard.json
+FateCard.98190.1,반격·응축된 힘,FateCard.json
+FateCard.98201.1,생명 흡수,FateCard.json
+FateCard.98202.1,전투 보급,FateCard.json
+FateCard.98203.1,피의 갈망,FateCard.json
+FateCard.98204.1,불요불굴,FateCard.json
+FateCard.98601.1,추격의 칼날,FateCard.json
+FateCard.98602.1,기묘한 회전 칼날,FateCard.json
+FateCard.98603.1,튕기는 바람 칼날,FateCard.json
+FateCard.98604.1,질풍,FateCard.json
+FateCard.98605.1,포식의 소용돌이,FateCard.json
+FateCard.98606.1,삼중 폭풍,FateCard.json
+FateCard.98607.1,바람 기습,FateCard.json
+FateCard.98608.1,꿰뚫는 깃털,FateCard.json
+FateCard.98609.1,요풍의 습격,FateCard.json
+FateCard.98610.1,점화,FateCard.json
+FateCard.98611.1,반사광,FateCard.json
+FateCard.98612.1,역행하는 불길,FateCard.json
+FateCard.98613.1,염참,FateCard.json
+FateCard.98614.1,운폭참,FateCard.json
+FateCard.98615.1,흩날리는 불꽃,FateCard.json
+FateCard.98616.1,재앙의 별,FateCard.json
+FateCard.98617.1,흉조의 별,FateCard.json
+FateCard.98618.1,재앙의 폭발성,FateCard.json
+FateCard.98619.1,흩뿌려진 구름,FateCard.json
+FateCard.98620.1,질풍 속 폭우,FateCard.json
+FateCard.98621.1,권운 카니발,FateCard.json
+FateCard.98622.1,흉악한 심연,FateCard.json
+FateCard.98623.1,상어 패왕,FateCard.json
+FateCard.98624.1,암초 속 그림자,FateCard.json
+FateCard.98625.1,매달린 송곳,FateCard.json
+FateCard.98626.1,오한의 송곳,FateCard.json
+FateCard.98627.1,하늘에서 떨어지는 추위,FateCard.json
+FateCard.98628.1,순뢰,FateCard.json
+FateCard.98629.1,뇌전 묶기,FateCard.json
+FateCard.98630.1,뇌전 관통,FateCard.json
+FateCard.98631.1,무지갯빛 벼락,FateCard.json
+FateCard.98632.1,번개 예보,FateCard.json
+FateCard.98633.1,무지갯빛 영혼 벼락,FateCard.json
+FateCard.98634.1,하늘의 인도,FateCard.json
+FateCard.98635.1,천뢰의 심판,FateCard.json
+FateCard.98636.1,천뢰휘황,FateCard.json
+FateCard.98637.1,암석 화살,FateCard.json
+FateCard.98638.1,암석창 투척,FateCard.json
+FateCard.98639.1,돌날 난타,FateCard.json
+FateCard.98640.1,암석 송곳,FateCard.json
+FateCard.98641.1,암석 십자가,FateCard.json
+FateCard.98642.1,암석 장막 폭발,FateCard.json
+FateCard.98643.1,대지 균열,FateCard.json
+FateCard.98644.1,대지 붕괴,FateCard.json
+FateCard.98645.1,삼중 붕괴,FateCard.json
+FateCard.98646.1,격진,FateCard.json
+FateCard.98647.1,전율파,FateCard.json
+FateCard.98648.1,대지 핵심 충격,FateCard.json
+FateCard.98649.1,그림자 송곳,FateCard.json
+FateCard.98650.1,그림자 송곳 관통,FateCard.json
+FateCard.98651.1,타락의 섬멸진,FateCard.json
+FateCard.98652.1,검은 소멸,FateCard.json
+FateCard.98653.1,쉐도우 소멸,FateCard.json
+FateCard.98654.1,황폐한 잿더미,FateCard.json
+FateCard.98655.1,마력탄,FateCard.json
+FateCard.98656.1,이중 그림자탄,FateCard.json
+FateCard.98657.1,어둠의 분출,FateCard.json
+FateCard.98658.1,암흑 동굴,FateCard.json
+FateCard.98659.1,그림자 포식,FateCard.json
+FateCard.98660.1,중력의 그물,FateCard.json
+FateCard.98701.1,불·증발 효과,FateCard.json
+FateCard.98702.1,불·치명타 피해 증가,FateCard.json
+FateCard.98703.1,불·공명 반응,FateCard.json
+FateCard.98704.1,불·처형,FateCard.json
+FateCard.98705.1,불·속박,FateCard.json
+FateCard.98706.1,불·작열의 흔적,FateCard.json
+FateCard.98707.1,불·열기 갑옷,FateCard.json
+FateCard.98708.1,불·재점화,FateCard.json
+FateCard.98709.1,불·화염의 춤,FateCard.json
+FateCard.98710.1,불·격렬,FateCard.json
+FateCard.98731.1,물·빙결,FateCard.json
+FateCard.98732.1,물·기술의 원류,FateCard.json
+FateCard.98733.1,물·회피 반격,FateCard.json
+FateCard.98734.1,물·재개 가능,FateCard.json
+FateCard.98735.1,물·속공의 리듬,FateCard.json
+FateCard.98736.1,물·흰 안개,FateCard.json
+FateCard.98737.1,물·바위 뚫기,FateCard.json
+FateCard.98738.1,물·격류 증세,FateCard.json
+FateCard.98739.1,물·새로운 파동,FateCard.json
+FateCard.98740.1,물·파도 공명,FateCard.json
+FateCard.98761.1,빛·성구,FateCard.json
+FateCard.98762.1,빛·각인,FateCard.json
+FateCard.98763.1,빛·그림자 추적,FateCard.json
+FateCard.98764.1,빛·성체,FateCard.json
+FateCard.98765.1,빛·판결,FateCard.json
+FateCard.98766.1,빛·악의 처단,FateCard.json
+FateCard.98767.1,빛 공명,FateCard.json
+FateCard.98768.1,빛 맹세,FateCard.json
+FateCard.98769.1,빛 작열,FateCard.json
+FateCard.98770.1,빛 리듬,FateCard.json
+FateCard.98791.1,어둠·속박,FateCard.json
+FateCard.98792.1,어둠·치명타 충전,FateCard.json
+FateCard.98793.1,어둠·사냥,FateCard.json
+FateCard.98794.1,어둠·치명타 피해 증가,FateCard.json
+FateCard.98795.1,어둠·광폭,FateCard.json
+FateCard.98796.1,어둠·공포 전염,FateCard.json
+FateCard.98797.1,어둠·밤의 강림,FateCard.json
+FateCard.98798.1,어둠·일식,FateCard.json
+FateCard.98799.1,어둠·악념의 폭발,FateCard.json
+FateCard.98800.1,어둠·마의 탐닉,FateCard.json
+FateCard.98821.1,바람·사냥감 감지,FateCard.json
+FateCard.98822.1,바람·각인,FateCard.json
+FateCard.98823.1,바람·바깥 범위,FateCard.json
+FateCard.98824.1,바람·사수의 정신,FateCard.json
+FateCard.98825.1,바람·매의 눈,FateCard.json
+FateCard.98826.1,바람·추격의 화살,FateCard.json
+FateCard.98827.1,바람·저항력 감소,FateCard.json
+FateCard.98828.1,바람·사냥 본능,FateCard.json
+FateCard.98829.1,바람·구름을 타는 자,FateCard.json
+FateCard.98830.1,바람·사냥 표식,FateCard.json
+FateCard.98851.1,땅·강인,FateCard.json
+FateCard.98852.1,땅·뒤덮기,FateCard.json
+FateCard.98853.1,땅·흙의 가호,FateCard.json
+FateCard.98854.1,땅·진동과 공명,FateCard.json
+FateCard.98855.1,땅·성을 제압하는 기세,FateCard.json
+FateCard.98856.1,땅·침식된 바위의 흔적,FateCard.json
+FateCard.98857.1,땅·반석의 견고함,FateCard.json
+FateCard.98858.1,땅·암석 무늬 증폭,FateCard.json
+FateCard.98859.1,땅·막을 수 없는 기세,FateCard.json
+FateCard.98860.1,땅·지진의 여파,FateCard.json
+GoldenSpyBuffCard.10111.1,고가 입찰·서류 가방,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10112.1,고가 입찰·사탕 상자,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10113.1,고가 입찰·보석,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10114.1,고가 입찰·정보 문서,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10115.1,고가 입찰·도청기,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10121.1,예상가 인상·서류 가방,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10122.1,예상가 인상·사탕 상자,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10123.1,예상가 인상·보석,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10124.1,예상가 인상·정보 문서,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10125.1,예상가 인상·도청기,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10131.1,시장가 조정·서류 가방,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10132.1,시장가 조정·사탕 상자,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10133.1,시장가 조정·보석,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10134.1,시장가 조정·정보 문서,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10135.1,시장가 조정·도청기,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10211.1,순간 이동·서류 가방,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10212.1,순간 이동·사탕 상자,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10213.1,순간 이동·보석,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10214.1,순간 이동·정보 문서,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10215.1,순간 이동·도청기,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10221.1,지연 경량화·서류 가방,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10222.1,지연 경량화·사탕 상자,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10223.1,지연 경량화·보석,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10224.1,지연 경량화·정보 문서,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10225.1,지연 경량화·도청기,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10231.1,경량화·서류 가방,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10232.1,경량화·사탕 상자,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10233.1,경량화·보석,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10234.1,경량화·정보 문서,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10235.1,경량화·도청기,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10311.1,수주 빈도 증가·즉시,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10321.1,수주 빈도 증가·지연,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10331.1,수주 빈도 증가·영구,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10411.1,특별 서비스·즉시,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10421.1,특별 서비스·지연,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10431.1,특별 서비스·영구,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10541.1,폭파 전문가,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10542.1,빙결의 달인,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10611.1,방아쇠 개조·즉시,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10621.1,방아쇠 개조·지연,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10631.1,방아쇠 개조·영구,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10711.1,갈고리 강화·즉시,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10721.1,갈고리 강화·지연,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10731.1,갈고리 강화·영구,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10811.1,조준기 진화·즉시,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10821.1,조준기 진화·지연,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.10911.1,요원의 회중시계,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11031.1,서류 가방 마니아,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11032.1,사탕 상자 마니아,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11033.1,보석 마니아,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11034.1,정보 문서 마니아,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11035.1,도청기 마니아,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11036.1,장비 연마,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11037.1,현상금 사냥꾼,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11038.1,시장 장악,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11039.1,깃털 같은 중량,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11040.1,신속과 완벽,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11041.1,완벽 추구,GoldenSpyBuffCard.json
+GoldenSpyBuffCard.11042.1,안정적인 배치,GoldenSpyBuffCard.json
+IceCreamBuff.101.1,아이스 쿨 드링크,IceCreamBuff.json
+IceCreamBuff.102.1,컴포트 과일 주스,IceCreamBuff.json
+IceCreamBuff.103.1,에너지 뿜뿜 드링크,IceCreamBuff.json
+IceCreamBuff.104.1,영양 코코넛 워터,IceCreamBuff.json
+IceCreamBuff.105.1,알록달록 버블 에이드,IceCreamBuff.json
+Item.90011.1,강공의 소리,Item.json (Type 6/Stype 19)
+Item.90012.1,행운의 소리,Item.json (Type 6/Stype 19)
+Item.90013.1,폭발의 소리,Item.json (Type 6/Stype 19)
+Item.90014.1,체력의 소리,Item.json (Type 6/Stype 19)
+Item.90015.1,집중의 소리,Item.json (Type 6/Stype 19)
+Item.90016.1,기술의 소리,Item.json (Type 6/Stype 19)
+Item.90017.1,필살기의 소리,Item.json (Type 6/Stype 19)
+Item.90018.1,물의 소리,Item.json (Type 6/Stype 19)
+Item.90019.1,불의 소리,Item.json (Type 6/Stype 19)
+Item.90020.1,바람의 소리,Item.json (Type 6/Stype 19)
+Item.90021.1,땅의 소리,Item.json (Type 6/Stype 19)
+Item.90022.1,빛의 소리,Item.json (Type 6/Stype 19)
+Item.90023.1,어둠의 소리,Item.json (Type 6/Stype 19)
+MiningSupport.1.1,시아: 별의 파편 숨결,MiningSupport.json
+MiningSupport.2.1,카린: 소용돌이 폭풍,MiningSupport.json
+MiningSupport.201.1,후유카: 흩날리는 불꽃,MiningSupport.json
+MiningSupport.202.1,나즈나: 행운의 아이템,MiningSupport.json
+MiningSupport.203.1,미스티: 유령의 기운,MiningSupport.json
+MiningSupport.204.1,세레나: 정보 지원,MiningSupport.json
+MiningSupport.205.1,엘레노어: 루키 등장,MiningSupport.json
+MiningSupport.206.1,카에데: 전력 지원,MiningSupport.json
+MiningSupport.207.1,나츠카: 정확한 발견,MiningSupport.json
+MiningSupport.3.1,아야메: 어획물 보급,MiningSupport.json
+MiningSupport.301.1,코하쿠: 신입 버프,MiningSupport.json
+MiningSupport.302.1,후유카: 전화위복,MiningSupport.json
+MiningSupport.303.1,루비: 활력 가득,MiningSupport.json
+MiningSupport.304.1,사파이어: 정밀 측정,MiningSupport.json
+MiningSupport.305.1,미스티: 잠입 취재,MiningSupport.json
+MiningSupport.306.1,닉스: 판매 스킬,MiningSupport.json
+MiningSupport.307.1,피렌: 타겟 투자,MiningSupport.json
+MiningSupport.4.1,코하쿠: 심연의 분출,MiningSupport.json
+MiningSupport.401.1,테레사: 보물 탐지의 직감,MiningSupport.json
+MiningSupport.402.1,아야메: 치밀한 조사,MiningSupport.json
+MiningSupport.403.1,토나: 솔선수범,MiningSupport.json
+MiningSupport.404.1,스구하: 측량 제도 전문가,MiningSupport.json
+MiningSupport.405.1,프리지아: 레종의 힘,MiningSupport.json
+MiningSupport.406.1,세이나: 행운의 삽질,MiningSupport.json
+MiningSupport.407.1,코하쿠: 빈틈없는 조준,MiningSupport.json
+MiningSupport.5.1,세이나: 강력한 타수,MiningSupport.json
+MiningSupport.506.1,미스티: 특종 예정,MiningSupport.json
+MiningSupport.507.1,코제트: 침식의 물결,MiningSupport.json
+MiningSupport.603.1,윌로(여름): 넘치는 에너지,MiningSupport.json
+PenguinBaseCard.101.1,원소 카드·불,PenguinBaseCard.json
+PenguinBaseCard.102.1,원소 카드·물,PenguinBaseCard.json
+PenguinBaseCard.103.1,원소 카드·바람,PenguinBaseCard.json
+PenguinBaseCard.104.1,원소 카드·전체,PenguinBaseCard.json
+PenguinBaseCard.105.1,석화 카드,PenguinBaseCard.json
+PenguinBaseCard.201.1,원소 카드·불x2,PenguinBaseCard.json
+PenguinBaseCard.202.1,원소 카드·물x2,PenguinBaseCard.json
+PenguinBaseCard.203.1,원소 카드·바람x2,PenguinBaseCard.json
+PenguinCard.10101.1,불씨의 신생,PenguinCard.json
+PenguinCard.10102.1,불씨의 신생+1,PenguinCard.json
+PenguinCard.10103.1,불씨의 신생+2,PenguinCard.json
+PenguinCard.10104.1,불씨의 신생+3,PenguinCard.json
+PenguinCard.10105.1,불씨의 신생+4,PenguinCard.json
+PenguinCard.10201.1,숲속의 샘물,PenguinCard.json
+PenguinCard.10202.1,숲속의 샘물+1,PenguinCard.json
+PenguinCard.10203.1,숲속의 샘물+2,PenguinCard.json
+PenguinCard.10204.1,숲속의 샘물+3,PenguinCard.json
+PenguinCard.10205.1,숲속의 샘물+4,PenguinCard.json
+PenguinCard.10301.1,거세지는 바람,PenguinCard.json
+PenguinCard.10302.1,거세지는 바람+1,PenguinCard.json
+PenguinCard.10303.1,거세지는 바람+2,PenguinCard.json
+PenguinCard.10304.1,거세지는 바람+3,PenguinCard.json
+PenguinCard.10305.1,거세지는 바람+4,PenguinCard.json
+PenguinCard.1101.1,불난 집에 부채질,PenguinCard.json
+PenguinCard.1102.1,불난 집에 부채질+1,PenguinCard.json
+PenguinCard.1103.1,불난 집에 부채질+2,PenguinCard.json
+PenguinCard.11401.1,부의 소유자,PenguinCard.json
+PenguinCard.11402.1,부의 소유자+1,PenguinCard.json
+PenguinCard.11403.1,부의 소유자+2,PenguinCard.json
+PenguinCard.1201.1,소동 유발,PenguinCard.json
+PenguinCard.1202.1,소동 유발+1,PenguinCard.json
+PenguinCard.1203.1,소동 유발+2,PenguinCard.json
+PenguinCard.12401.1,천하의 균형,PenguinCard.json
+PenguinCard.12402.1,천하의 균형+1,PenguinCard.json
+PenguinCard.12403.1,천하의 균형+2,PenguinCard.json
+PenguinCard.1301.1,헛된 꿈,PenguinCard.json
+PenguinCard.1302.1,헛된 꿈+1,PenguinCard.json
+PenguinCard.1303.1,헛된 꿈+2,PenguinCard.json
+PenguinCard.13401.1,이자의 재생,PenguinCard.json
+PenguinCard.13402.1,이자의 재생+1,PenguinCard.json
+PenguinCard.13403.1,이자의 재생+2,PenguinCard.json
+PenguinCard.14401.1,왕관을 씌운 순간,PenguinCard.json
+PenguinCard.14402.1,왕관을 씌운 순간+1,PenguinCard.json
+PenguinCard.14403.1,왕관을 씌운 순간+2,PenguinCard.json
+PenguinCard.14404.1,왕관을 씌운 순간+3,PenguinCard.json
+PenguinCard.14405.1,왕관을 씌운 순간+4,PenguinCard.json
+PenguinCard.14406.1,왕관을 씌운 순간+5,PenguinCard.json
+PenguinCard.15401.1,운명의 트윈스,PenguinCard.json
+PenguinCard.16401.1,사상의 융합,PenguinCard.json
+PenguinCard.17401.1,역사의 재현,PenguinCard.json
+PenguinCard.17402.1,역사의 재현+1,PenguinCard.json
+PenguinCard.17403.1,역사의 재현+2,PenguinCard.json
+PenguinCard.17404.1,역사의 재현+3,PenguinCard.json
+PenguinCard.17405.1,역사의 재현+4,PenguinCard.json
+PenguinCard.17406.1,역사의 재현+5,PenguinCard.json
+PenguinCard.18401.1,선택받은 운명,PenguinCard.json
+PenguinCard.18402.1,선택받은 운명+1,PenguinCard.json
+PenguinCard.18403.1,선택받은 운명+2,PenguinCard.json
+PenguinCard.18404.1,선택받은 운명+3,PenguinCard.json
+PenguinCard.18405.1,선택받은 운명+4,PenguinCard.json
+PenguinCard.18406.1,선택받은 운명+5,PenguinCard.json
+PenguinCard.19401.1,축배의 시간,PenguinCard.json
+PenguinCard.19402.1,축배의 시간+1,PenguinCard.json
+PenguinCard.19403.1,축배의 시간+2,PenguinCard.json
+PenguinCard.19404.1,축배의 시간+3,PenguinCard.json
+PenguinCard.19405.1,축배의 시간+4,PenguinCard.json
+PenguinCard.19406.1,축배의 시간+5,PenguinCard.json
+PenguinCard.20101.1,반드시 타오를 불꽃,PenguinCard.json
+PenguinCard.20102.1,반드시 타오를 불꽃+1,PenguinCard.json
+PenguinCard.20103.1,반드시 타오를 불꽃+2,PenguinCard.json
+PenguinCard.20201.1,반드시 마주할 심연,PenguinCard.json
+PenguinCard.20202.1,반드시 마주할 심연+1,PenguinCard.json
+PenguinCard.20203.1,반드시 마주할 심연+2,PenguinCard.json
+PenguinCard.20301.1,반드시 따를 바람,PenguinCard.json
+PenguinCard.20302.1,반드시 따를 바람+1,PenguinCard.json
+PenguinCard.20303.1,반드시 따를 바람+2,PenguinCard.json
+PenguinCard.20401.1,반드시 되찾을 근원,PenguinCard.json
+PenguinCard.20402.1,반드시 되찾을 근원+1,PenguinCard.json
+PenguinCard.20403.1,반드시 되찾을 근원+2,PenguinCard.json
+PenguinCard.2101.1,성화,PenguinCard.json
+PenguinCard.2102.1,성화+1,PenguinCard.json
+PenguinCard.2103.1,성화+2,PenguinCard.json
+PenguinCard.2201.1,파장,PenguinCard.json
+PenguinCard.2202.1,파장+1,PenguinCard.json
+PenguinCard.2203.1,파장+2,PenguinCard.json
+PenguinCard.2301.1,기류,PenguinCard.json
+PenguinCard.2302.1,기류+1,PenguinCard.json
+PenguinCard.2303.1,기류+2,PenguinCard.json
+PenguinCard.3101.1,과열,PenguinCard.json
+PenguinCard.3102.1,과열+1,PenguinCard.json
+PenguinCard.3103.1,과열+2,PenguinCard.json
+PenguinCard.3104.1,과열+3,PenguinCard.json
+PenguinCard.3105.1,과열+4,PenguinCard.json
+PenguinCard.3201.1,이슬 맺힘,PenguinCard.json
+PenguinCard.3202.1,이슬 맺힘+1,PenguinCard.json
+PenguinCard.3203.1,이슬 맺힘+2,PenguinCard.json
+PenguinCard.3204.1,이슬 맺힘+3,PenguinCard.json
+PenguinCard.3205.1,이슬 맺힘+4,PenguinCard.json
+PenguinCard.3301.1,기운 집중,PenguinCard.json
+PenguinCard.3302.1,기운 집중+1,PenguinCard.json
+PenguinCard.3303.1,기운 집중+2,PenguinCard.json
+PenguinCard.3304.1,기운 집중+3,PenguinCard.json
+PenguinCard.3305.1,기운 집중+4,PenguinCard.json
+PenguinCard.4101.1,화염의 지배자,PenguinCard.json
+PenguinCard.4102.1,화염의 지배자+1,PenguinCard.json
+PenguinCard.4103.1,화염의 지배자+2,PenguinCard.json
+PenguinCard.4104.1,화염의 지배자+3,PenguinCard.json
+PenguinCard.4105.1,화염의 지배자+4,PenguinCard.json
+PenguinCard.4201.1,해변의 귀족,PenguinCard.json
+PenguinCard.4202.1,해변의 귀족+1,PenguinCard.json
+PenguinCard.4203.1,해변의 귀족+2,PenguinCard.json
+PenguinCard.4204.1,해변의 귀족+3,PenguinCard.json
+PenguinCard.4205.1,해변의 귀족+4,PenguinCard.json
+PenguinCard.4301.1,하늘의 새 주인,PenguinCard.json
+PenguinCard.4302.1,하늘의 새 주인+1,PenguinCard.json
+PenguinCard.4303.1,하늘의 새 주인+2,PenguinCard.json
+PenguinCard.4304.1,하늘의 새 주인+3,PenguinCard.json
+PenguinCard.4305.1,하늘의 새 주인+4,PenguinCard.json
+PenguinCard.4401.1,판의 지배자,PenguinCard.json
+PenguinCard.4402.1,판의 지배자+1,PenguinCard.json
+PenguinCard.4403.1,판의 지배자+2,PenguinCard.json
+PenguinCard.5101.1,지옥의 영주,PenguinCard.json
+PenguinCard.5102.1,지옥의 영주+1,PenguinCard.json
+PenguinCard.5103.1,지옥의 영주+2,PenguinCard.json
+PenguinCard.5201.1,심해의 재벌,PenguinCard.json
+PenguinCard.5202.1,심해의 재벌+1,PenguinCard.json
+PenguinCard.5203.1,심해의 재벌+2,PenguinCard.json
+PenguinCard.5301.1,폭풍의 대장,PenguinCard.json
+PenguinCard.5302.1,폭풍의 대장+1,PenguinCard.json
+PenguinCard.5303.1,폭풍의 대장+2,PenguinCard.json
+PenguinCard.5401.1,운명의 포수,PenguinCard.json
+PenguinCard.5402.1,운명의 포수+1,PenguinCard.json
+PenguinCard.5403.1,운명의 포수+2,PenguinCard.json
+PenguinCard.6101.1,다시 타오르는 불씨,PenguinCard.json
+PenguinCard.6102.1,다시 타오르는 불씨+1,PenguinCard.json
+PenguinCard.6103.1,다시 타오르는 불씨+2,PenguinCard.json
+PenguinCard.6201.1,다시 솟는 샘물,PenguinCard.json
+PenguinCard.6202.1,다시 솟는 샘물+1,PenguinCard.json
+PenguinCard.6203.1,다시 솟는 샘물+2,PenguinCard.json
+PenguinCard.6301.1,다시 불어오는 바람,PenguinCard.json
+PenguinCard.6302.1,다시 불어오는 바람+1,PenguinCard.json
+PenguinCard.6303.1,다시 불어오는 바람+2,PenguinCard.json
+PenguinCard.7101.1,더해지는 열기,PenguinCard.json
+PenguinCard.7102.1,더해지는 열기+1,PenguinCard.json
+PenguinCard.7103.1,더해지는 열기+2,PenguinCard.json
+PenguinCard.7104.1,더해지는 열기+3,PenguinCard.json
+PenguinCard.7105.1,더해지는 열기+4,PenguinCard.json
+PenguinCard.7201.1,휘몰아치는 파도,PenguinCard.json
+PenguinCard.7202.1,휘몰아치는 파도+1,PenguinCard.json
+PenguinCard.7203.1,휘몰아치는 파도+2,PenguinCard.json
+PenguinCard.7204.1,휘몰아치는 파도+3,PenguinCard.json
+PenguinCard.7205.1,휘몰아치는 파도+4,PenguinCard.json
+PenguinCard.7301.1,격앙되는 기류,PenguinCard.json
+PenguinCard.7302.1,격앙되는 기류+1,PenguinCard.json
+PenguinCard.7303.1,격앙되는 기류+2,PenguinCard.json
+PenguinCard.7304.1,격앙되는 기류+3,PenguinCard.json
+PenguinCard.7305.1,격앙되는 기류+4,PenguinCard.json
+PenguinCard.9101.1,활활 타오른 불꽃,PenguinCard.json
+PenguinCard.9102.1,활활 타오른 불꽃+1,PenguinCard.json
+PenguinCard.9103.1,활활 타오른 불꽃+1,PenguinCard.json
+PenguinCard.9104.1,활활 타오른 불꽃+1,PenguinCard.json
+PenguinCard.9105.1,활활 타오른 불꽃+1,PenguinCard.json
+PenguinCard.9201.1,거센 파도,PenguinCard.json
+PenguinCard.9202.1,거센 파도+1,PenguinCard.json
+PenguinCard.9203.1,거센 파도+2,PenguinCard.json
+PenguinCard.9204.1,거센 파도+3,PenguinCard.json
+PenguinCard.9205.1,거센 파도+4,PenguinCard.json
+PenguinCard.9301.1,바람의 순행,PenguinCard.json
+PenguinCard.9302.1,바람의 순행+1,PenguinCard.json
+PenguinCard.9303.1,바람의 순행+2,PenguinCard.json
+PenguinCard.9304.1,바람의 순행+3,PenguinCard.json
+PenguinCard.9305.1,바람의 순행+4,PenguinCard.json
+PenguinCardAide.1.1,아야메,PenguinCardAide.json
+PenguinCardAide.2.1,엘레노어,PenguinCardAide.json
+PenguinCardAide.3.1,코하쿠,PenguinCardAide.json
+PenguinCardAide.4.1,나노하,PenguinCardAide.json
+PenguinCardAide.5.1,세이나,PenguinCardAide.json
+PenguinCardAide.6.1,나즈나,PenguinCardAide.json
+PenguinCardBuff.101.1,풍선한 답례,PenguinCardBuff.json
+PenguinCardBuff.201.1,추가 카드 지급Ⅰ,PenguinCardBuff.json
+PenguinCardBuff.203.1,추가 카드 지급Ⅱ,PenguinCardBuff.json
+PenguinCardBuff.301.1,물 만난 물고기,PenguinCardBuff.json
+PenguinCardBuff.401.1,쌓이는 재부,PenguinCardBuff.json
+PenguinCardBuff.501.1,꺼지지 않는 불씨,PenguinCardBuff.json
+PenguinCardBuff.601.1,사상 성궤,PenguinCardBuff.json
+PenguinCardBuff.701.1,운명의 장난,PenguinCardBuff.json
+PenguinCardHandRank.1.1,빅플러시,PenguinCardHandRank.json
+PenguinCardHandRank.2.1,플러시,PenguinCardHandRank.json
+PenguinCardHandRank.3.1,원컬러,PenguinCardHandRank.json
+PenguinCardHandRank.4.1,투트리플,PenguinCardHandRank.json
+PenguinCardHandRank.5.1,풀하우스,PenguinCardHandRank.json
+PenguinCardHandRank.6.1,트리플,PenguinCardHandRank.json
+PenguinCardHandRank.7.1,투페어,PenguinCardHandRank.json
+PenguinCardHandRank.8.1,석화,PenguinCardHandRank.json
+ProductionType.101.1,몬스터 재료,ProductionType.json
+ProductionType.102.1,스킬 카트리지,ProductionType.json
+ProductionType.103.1,선물 합성,ProductionType.json
+SoldierChessType.1.1,공격형,SoldierChessType.json
+SoldierChessType.2.1,지원형,SoldierChessType.json
+SoldierChessType.3.1,만능형,SoldierChessType.json
+SoldierGradeChallenge.10101.1,질서,SoldierGradeChallenge.json
+SoldierGradeChallenge.10201.1,혼돈,SoldierGradeChallenge.json
+SoldierKeyGrade.101.1,표층,SoldierKeyGrade.json
+SoldierKeyGrade.102.1,심층,SoldierKeyGrade.json
+SoldierPositionEffect.1.1,방어 슬롯,SoldierPositionEffect.json
+SoldierPositionEffect.2.1,공격 슬롯,SoldierPositionEffect.json
+SoldierPositionEffect.3.1,기동 슬롯,SoldierPositionEffect.json
+SoldierPositionEffect.4.1,1번 지원 슬롯,SoldierPositionEffect.json
+SoldierPositionEffect.5.1,2번 지원 슬롯,SoldierPositionEffect.json
+SoldierPositionEffect.6.1,3번 지원 슬롯,SoldierPositionEffect.json
+SoldierPositionEffect.7.1,4번 지원 슬롯,SoldierPositionEffect.json
+SoldierPositionEffect.8.1,5번 지원 슬롯,SoldierPositionEffect.json
+SoldierPositionEffect.9.1,6번 지원 슬롯,SoldierPositionEffect.json
+SoldierRecommendBuilds.1.1,"공백 여단 밸런스: 3공백 여단, 3백발백중",SoldierRecommendBuilds.json
+SoldierRecommendBuilds.2.1,"하나사키 여단 생존: 3하나사키 여단, 3최고의 전사",SoldierRecommendBuilds.json
+SoldierRecommendBuilds.3.1,"은헤의지 DOT 폭발: 5은혜의지, 4축복의 세례",SoldierRecommendBuilds.json
+SoldierRecommendBuilds.4.1,"윈드애시 포위 공격: 5윈드 애시, 4인해전술",SoldierRecommendBuilds.json
+SoldierRecommendBuilds.5.1,"샤로 단일 핵심: 샤로, 7숲의 친구",SoldierRecommendBuilds.json
+SoldierRecommendBuilds.6.1,"돌아가는 톱니바퀴 지속 DOT: 4돌아가는 톱니바퀴, 3은혜의지",SoldierRecommendBuilds.json
+SoldierRecommendBuilds.7.1,"윌로 매력 만점 디버프: 지리 협회, 3매력 만점",SoldierRecommendBuilds.json
+SoldierRecommendBuilds.8.1,"아그리 유니온 금화 수급: 4제국 호위대, 2아그리 유니온",SoldierRecommendBuilds.json
+SoldierStarterCard.1010101.1,공백 여단,SoldierStarterCard.json
+SoldierStarterCard.1010102.1,요로즈 택배,SoldierStarterCard.json
+SoldierStarterCard.1010103.1,하나사키 여단,SoldierStarterCard.json
+SoldierStarterCard.1010104.1,은혜의지,SoldierStarterCard.json
+SoldierStarterCard.1010105.1,돌아가는 톱니바퀴,SoldierStarterCard.json
+SoldierStarterCard.1010106.1,제국 호위대,SoldierStarterCard.json
+SoldierStarterCard.1010107.1,자유 여행가,SoldierStarterCard.json
+SoldierStarterCard.1010108.1,윈드 애시,SoldierStarterCard.json
+SoldierStarterCard.1010109.1,아그리 유니온,SoldierStarterCard.json
+SoldierStarterCard.1010110.1,숲의 친구,SoldierStarterCard.json
+SoldierStarterCard.1010111.1,생존의 달인,SoldierStarterCard.json
+SoldierStarterCard.1010112.1,축복의 세례,SoldierStarterCard.json
+SoldierStarterCard.1010113.1,백발백중,SoldierStarterCard.json
+SoldierStarterCard.1010114.1,최고의 전사,SoldierStarterCard.json
+SoldierStarterCard.1010115.1,매력 만점,SoldierStarterCard.json
+SoldierStarterCard.1010116.1,인해전술,SoldierStarterCard.json
+SoldierStarterCard.1010117.1,땡땡이 고수,SoldierStarterCard.json
+SoldierStarterCard.1010118.1,시작 자금,SoldierStarterCard.json
+SoldierStarterCard.1010119.1,튼튼한 멘탈,SoldierStarterCard.json
+SoldierStarterCard.1010120.1,스타트업,SoldierStarterCard.json
+SoldierStarterCard.1010121.1,장기 주문,SoldierStarterCard.json
+SoldierStarterCard.1010122.1,학비 납부 완료,SoldierStarterCard.json
+SoldierStarterCard.1010123.1,경험치 거래,SoldierStarterCard.json
+SoldierStarterCard.1010124.1,고객층 최적화,SoldierStarterCard.json
+SoldierStarterCard.1010125.1,고급 모집,SoldierStarterCard.json
+SoldierStarterCard.1010126.1,신중한 탐색,SoldierStarterCard.json
+SoldierStarterCard.1010127.1,책략 선별,SoldierStarterCard.json
+SoldierStarterCard.1010128.1,불패의 명성,SoldierStarterCard.json
+SoldierStarterCard.1010129.1,연전연승,SoldierStarterCard.json
+SoldierStarterCard.1010130.1,첫걸음의 동반자,SoldierStarterCard.json
+SoldierStarterCard.1010131.1,공격적인 투자,SoldierStarterCard.json
+SoldierStarterCard.1010133.1,반등,SoldierStarterCard.json
+SoldierStarterCard.1010134.1,장인의 비축,SoldierStarterCard.json
+SoldierStarterCard.1010135.1,유일한 핵심,SoldierStarterCard.json
+SoldierStarterCard.1010136.1,돌파 포상,SoldierStarterCard.json
+SoldierStarterCard.1010137.1,경쾌한 부호,SoldierStarterCard.json
+SoldierStarterCard.1010138.1,위험한 베팅,SoldierStarterCard.json
+SoldierStarterCard.1010139.1,부의 발굴,SoldierStarterCard.json
+SoldierStarterCard.1010140.1,인재 총집결,SoldierStarterCard.json
+SoldierStrategyCard.2010101.1,일괄 판매,SoldierStrategyCard.json
+SoldierStrategyCard.2010102.1,성장 계획,SoldierStrategyCard.json
+SoldierStrategyCard.2010103.1,추가 보상,SoldierStrategyCard.json
+SoldierStrategyCard.2010104.1,매몰 비용,SoldierStrategyCard.json
+SoldierStrategyCard.2010105.1,추가 새로고침,SoldierStrategyCard.json
+SoldierStrategyCard.2010106.1,노드 지원금,SoldierStrategyCard.json
+SoldierStrategyCard.2010107.1,팀원 보충,SoldierStrategyCard.json
+SoldierStrategyCard.2010108.1,새로고침 페이백,SoldierStrategyCard.json
+SoldierStrategyCard.2010109.1,인재 육성,SoldierStrategyCard.json
+SoldierStrategyCard.2010110.1,냉정한 보험,SoldierStrategyCard.json
+SoldierStrategyCard.2010111.1,이성적 판단,SoldierStrategyCard.json
+SoldierStrategyCard.2010112.1,오뚝이 정신,SoldierStrategyCard.json
+SoldierStrategyCard.2010113.1,정예 계획,SoldierStrategyCard.json
+SoldierStrategyCard.2010201.1,거래 차익,SoldierStrategyCard.json
+SoldierStrategyCard.2010202.1,거래 기회,SoldierStrategyCard.json
+SoldierStrategyCard.2010203.1,확장 계획,SoldierStrategyCard.json
+SoldierStrategyCard.2010204.1,한 번 더,SoldierStrategyCard.json
+SoldierStrategyCard.2010205.1,창고 업그레이드,SoldierStrategyCard.json
+SoldierStrategyCard.2010206.1,연승 폭발,SoldierStrategyCard.json
+SoldierStrategyCard.2010207.1,극단적인 투자,SoldierStrategyCard.json
+SoldierStrategyCard.2010208.1,대기만성,SoldierStrategyCard.json
+SoldierStrategyCard.2010209.1,인재 비축,SoldierStrategyCard.json
+SoldierStrategyCard.2010210.1,리더 육성 계획,SoldierStrategyCard.json
+SoldierStrategyCard.2010211.1,일보 후퇴,SoldierStrategyCard.json
+SoldierStrategyCard.2010212.1,누적 성장,SoldierStrategyCard.json
+SoldierStrategyCard.2010213.1,명성 현금화,SoldierStrategyCard.json
+SoldierStrategyCard.2010214.1,정예 영입,SoldierStrategyCard.json
+SoldierStrategyCard.2010215.1,어쩌다 찾아온 손님,SoldierStrategyCard.json
+SoldierStrategyCard.2010216.1,낭만의 조합,SoldierStrategyCard.json
+SoldierStrategyCard.2010217.1,넘치는 부,SoldierStrategyCard.json
+SoldierStrategyCard.2010218.1,자연의 깨달음,SoldierStrategyCard.json
+SoldierStrategyCard.2010219.1,폐쇄 건설,SoldierStrategyCard.json
+SoldierStrategyCard.2010301.1,스마트 창고,SoldierStrategyCard.json
+SoldierStrategyCard.2010302.1,리스크 동반,SoldierStrategyCard.json
+SoldierStrategyCard.2010303.1,교활한 재물,SoldierStrategyCard.json
+SoldierStrategyCard.2010304.1,임계 반격 포인트,SoldierStrategyCard.json
+SoldierStrategyCard.2010305.1,고급 인재풀,SoldierStrategyCard.json
+SoldierStrategyCard.2010306.1,운명의 장난,SoldierStrategyCard.json
+SoldierStrategyCard.2010307.1,극한의 낭만,SoldierStrategyCard.json
+SoldierStrategyCard.2010308.1,연승의 축가,SoldierStrategyCard.json
+SoldierStrategyCard.2010309.1,승리의 표식,SoldierStrategyCard.json
+SoldierStrategyCard.2010310.1,위기의 구세주,SoldierStrategyCard.json
+SoldierStrategyCard.2010311.1,올인의 심연,SoldierStrategyCard.json
+SoldierStrategyCard.2010312.1,호위대 집결령,SoldierStrategyCard.json
+SoldierStrategyCard.2010313.1,윈드 애시의 소환,SoldierStrategyCard.json
+StarTowerBookFateCard.98001.1,재앙의 전선 레벨업 시 획득,StarTowerBookFateCard.json
+StarTowerBookFateCard.98601.1,재앙의 전선 테마 보상,StarTowerBookFateCard.json
+StarTowerBookFateCardBundle.101.1,기본 계열: 기반,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.102.1,기본 계열: 비상,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.201.1,심화 계열: 기술,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.202.1,심화 계열: 축제,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.203.1,심화 계열: 배수,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.204.1,심화 계열: 열혈,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.205.1,심화 계열: 운명,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.206.1,심화 계열: 억제,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.207.1,심화 계열: 반격,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.301.1,속성 계열: 불의 장,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.302.1,속성 계열: 물의 장,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.303.1,속성 계열: 바람의 장,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.304.1,속성 계열: 빛의 장,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.305.1,속성 계열: 어둠의 장,StarTowerBookFateCardBundle.json
+StarTowerBookFateCardBundle.306.1,속성 계열: 땅의 장,StarTowerBookFateCardBundle.json
+StarTowerGrowthNode.10101.1,조화로운 울림 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10102.1,원초적 노래,StarTowerGrowthNode.json
+StarTowerGrowthNode.10103.1,첫 수익 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10201.1,초과 이론 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10202.1,뜻밖의 작은 행복,StarTowerGrowthNode.json
+StarTowerGrowthNode.10203.1,복권 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10301.1,별승강기 암호,StarTowerGrowthNode.json
+StarTowerGrowthNode.10401.1,조화로운 울림 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10402.1,툴셀렉트 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10403.1,첫 수익 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10501.1,효력 증진 법칙 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10502.1,초과 이론 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10503.1,복권 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10601.1,결승선 표창,StarTowerGrowthNode.json
+StarTowerGrowthNode.10602.1,축음기 개조 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10701.1,럭키 소리Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10702.1,첫 수익 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10801.1,럭키코인,StarTowerGrowthNode.json
+StarTowerGrowthNode.10802.1,복권 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.10901.1,운명의 선택 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20101.1,조화로운 울림 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20102.1,효력 증진 법칙 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20201.1,서프라이즈 소리 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20202.1,회원 할인 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20301.1,황금 함정,StarTowerGrowthNode.json
+StarTowerGrowthNode.20302.1,축음기 개조 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20401.1,조화로운 울림 Ⅳ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20402.1,툴셀렉트 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20403.1,효력 증진 법칙 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20501.1,서프라이즈 소리 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20502.1,회원 할인 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20503.1,운명의 선택 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20601.1,끝없는 마음의 바다 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20701.1,럭키 소리Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20702.1,툴셀렉트 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20801.1,마음의 꽃 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20802.1,회원 할인 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.20901.1,구름 주사위,StarTowerGrowthNode.json
+StarTowerGrowthNode.20902.1,창고 열쇠,StarTowerGrowthNode.json
+StarTowerGrowthNode.30101.1,별하늘의 운명 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30102.1,패키지 계약 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30201.1,마음의 꽃 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30202.1,잠재력 비상 Ⅰ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30301.1,끝없는 마음의 바다 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30401.1,별하늘의 운명 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30402.1,패키지 계약 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30501.1,서프라이즈 소리 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30502.1,잠재력 비상 Ⅱ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30601.1,창고 관리자 권한,StarTowerGrowthNode.json
+StarTowerGrowthNode.30701.1,럭키 소리Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30702.1,별하늘의 운명 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30801.1,마음의 꽃 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30802.1,잠재력 비상 Ⅲ,StarTowerGrowthNode.json
+StarTowerGrowthNode.30901.1,빛의 기적,StarTowerGrowthNode.json
+StarTowerGrowthNode.40101.1,신성한 공명,StarTowerGrowthNode.json
+StarTowerGrowthNode.40201.1,끝없는 욕망,StarTowerGrowthNode.json
+StarTowerGrowthNode.40301.1,공평한 탐욕,StarTowerGrowthNode.json
+StarTowerGrowthNode.40401.1,뒤늦은 대가,StarTowerGrowthNode.json
+StoryPersonality.1.1,직감,StoryPersonality.json
+StoryPersonality.2.1,분석,StoryPersonality.json
+StoryPersonality.3.1,혼돈,StoryPersonality.json
+StoryRolePersonality.1.1,슈퍼·자비로운 보스,StoryRolePersonality.json
+ThrowGiftLevel.10101.1,쉬움,ThrowGiftLevel.json
+ThrowGiftLevel.10102.1,하드,ThrowGiftLevel.json
+ThrowGiftLevel.10106.1,도전,ThrowGiftLevel.json
+TrialBuild.101.1,스토리 기록,TrialBuild.json
+TrialBuild.121010.1,튜토리얼 스테이지-기본 조작,TrialBuild.json
+TrialBuild.121020.1,튜토리얼 스테이지-이동 조작,TrialBuild.json
+TrialBuild.121030.1,튜토리얼 스테이지-지원 조작,TrialBuild.json
+TrialBuild.121040.1,튜토리얼 스테이지-표식 튜토리얼,TrialBuild.json
+TrialBuild.121050.1,튜토리얼 스테이지- 원소 속성 튜토리얼,TrialBuild.json
+TrialBuild.12106.1,튜토리얼 스테이지-별의 탑 잠재력,TrialBuild.json
+TrialBuild.121060.1,튜토리얼 스테이지-잠재력 시스템 튜토리얼,TrialBuild.json
+TrialBuild.12107.1,튜토리얼 스테이지-레코드와 소리,TrialBuild.json
+TrialBuild.121070.1,튜토리얼 스테이지-소리 시스템 튜토리얼,TrialBuild.json
+TrialBuild.121080.1,튜토리얼 스테이지-내성 무시 튜토리얼,TrialBuild.json
+TrialBuild.198025.1,바람 속성 팀 기록,TrialBuild.json
+TrialBuild.198026.1,불 속성 팀 기록,TrialBuild.json
+VampireTalentDesc.1.1,공격력 %s%% 증가,VampireTalentDesc.json
+VampireTalentDesc.2.1,방어력 %s%% 증가,VampireTalentDesc.json
+VampireTalentDesc.3.1,최대 HP %s%% 증가,VampireTalentDesc.json
+VampireTalentDesc.4.1,치명타율 %s%% 증가,VampireTalentDesc.json
+VampireTalentDesc.91.1,획득 경험치 %s%% 증가,VampireTalentDesc.json
+VampireTalentDesc.92.1,랜덤 이벤트 출현 확률 %s%% 증가,VampireTalentDesc.json
+VampireTalentDesc.93.1,"운명 카드를 획득할 때, 새로고침 %s회 추가",VampireTalentDesc.json
+VampireTalentDesc.94.1,레벨업 시 획득하는 운명 카드가 두 가지 선택지에서 세 가지 선택지로 증가,VampireTalentDesc.json
+VampireTalentDesc.9602.1,「HP 회복」 드랍 확률이 증가한다.,VampireTalentDesc.json
+VampireTalentDesc.9603.1,「HP 회복」 드랍 확률이 대폭 증가한다.,VampireTalentDesc.json
+VampireTalentDesc.9702.1,「SP 회복」 아이템 드랍 확률이 증가한다.,VampireTalentDesc.json
+VampireTalentDesc.9703.1,「SP 회복」 아이템 드랍 확률이 대폭 증가한다.,VampireTalentDesc.json
+VampireTalentDesc.9802.1,「쿨타임 감소」 아이템 드랍 확률이 증가한다.,VampireTalentDesc.json
+VampireTalentDesc.9803.1,「쿨타임 감소」 아이템 드랍 확률이 대폭 증가한다.,VampireTalentDesc.json
+Word.1001.1,감전,Word.json
+Word.1002.1,빙결,Word.json
+Word.1003.1,감속,Word.json
+Word.1004.1,기절,Word.json
+Word.1005.1,작열,Word.json
+Word.1006.1,내성 무시,Word.json
+Word.1007.1,혹한,Word.json
+Word.1008.1,속박,Word.json
+Word.1009.1,다습,Word.json
+Word.1010.1,광휘 표식,Word.json
+Word.1011.1,실명,Word.json
+Word.1012.1,초연 표식,Word.json
+Word.1013.1,폭연,Word.json
+Word.1014.1,바람 속성 표식: 풍식,Word.json
+Word.1015.1,빛 속성 표식,Word.json
+Word.1016.1,불 속성 표식,Word.json
+Word.1017.1,바람 속성 표식,Word.json
+Word.1018.1,물 속성 표식,Word.json
+Word.1019.1,어둠 속성 표식,Word.json
+Word.1020.1,땅 속성 표식,Word.json
+Word.1021.1,빛의 진,Word.json
+Word.1022.1,빛의 사슬,Word.json
+Word.1023.1,번개의 빛,Word.json
+Word.1024.1,바람 베기,Word.json
+Word.1025.1,물의 침식 표식,Word.json
+Word.1026.1,풍압의 표식,Word.json
+Word.1027.1,한랭,Word.json
+Word.1029.1,갑옷 녹이기,Word.json
+Word.1030.1,번개 영혼,Word.json
+Word.1031.1,불안정한 꽃구름,Word.json
+Word.1032.1,응결된 안개의 고리,Word.json
+Word.1033.1,바람 영역,Word.json
+Word.1034.1,불 속성 취약,Word.json
+Word.1035.1,빛 속성 취약,Word.json
+Word.1036.1,바람 속성 취약,Word.json
+Word.1037.1,물 속성 취약,Word.json
+Word.1038.1,땅 속성 취약,Word.json
+Word.1039.1,어둠 속성 취약,Word.json
+Word.1040.1,빛의 폭발,Word.json
+Word.1041.1,카마이타치 표식,Word.json
+Word.1042.1,대형 카마이타치 표식,Word.json
+Word.1043.1,화살 회피의 가호,Word.json
+Word.1044.1,번개 영혼 취약,Word.json
+Word.1045.1,마비,Word.json
+Word.1046.1,다이빙 샤크 취약,Word.json
+Word.1047.1,다이빙 샤크 수역,Word.json
+Word.1048.1,다이빙 샤크 사냥감 표식,Word.json
+Word.1049.1,구름 박사,Word.json
+Word.1050.1,꽃구름,Word.json
+Word.1051.1,룬 얼음 결정,Word.json
+Word.1052.1,하트,Word.json
+Word.1053.1,검기,Word.json
+Word.1054.1,다중 검기,Word.json
+Word.17.1,물 속성 피해,Word.json
+Word.18.1,불 속성 피해,Word.json
+Word.19.1,땅 속성 피해,Word.json
+Word.20.1,바람 속성 피해,Word.json
+Word.2007.1,쇄빙,Word.json
+Word.2008.1,물 속성 표식: 수류,Word.json
+Word.2013.1,불 속성 표식: 성염,Word.json
+Word.2014.1,광화,Word.json
+Word.2015.1,민첩,Word.json
+Word.2016.1,빛 속성 표식: 광명,Word.json
+Word.2018.1,어둠 속성 표식: 암영,Word.json
+Word.2019.1,화염의 재 나비,Word.json
+Word.2020.1,어둠 사슬,Word.json
+Word.2021.1,나비 표식,Word.json
+Word.2022.1,수류,Word.json
+Word.2023.1,성염,Word.json
+Word.2024.1,광명,Word.json
+Word.2025.1,풍식,Word.json
+Word.2026.1,암영,Word.json
+Word.2027.1,인화,Word.json
+Word.2028.1,어둠 작열,Word.json
+Word.2029.1,땅 속성 표식: 지맥,Word.json
+Word.2030.1,지맥,Word.json
+Word.21.1,빛 속성 피해,Word.json
+Word.22.1,어둠 속성 피해,Word.json
+Word.3001.1,전투 표식 전용,Word.json
+Word.3002.1,더미0421,Word.json
+Word.4001.1,캐릭터 특징 전용,Word.json
+Word.4002.1,어둠의 그림자,Word.json
+Word.4003.1,「바람의 속삭임」,Word.json
+Word.4004.1,「꽃밭」,Word.json
+Word.4006.1,「번역 불필요」,Word.json
+Word.4007.1,호박 유령,Word.json
+Word.4008.1,램프 유령,Word.json
+Word.4011.1,「번역 불필요」,Word.json
+Word.4013.1,포포,Word.json
+Word.4014.1,어둠 에너지,Word.json
+Word.4015.1,인기,Word.json
+Word.4016.1,악마의 스피커,Word.json
+Word.4017.1,홍보 인형,Word.json
+Word.4018.1,붉은 용,Word.json
+Word.4019.1,인호,Word.json
+Word.4020.1,호두 대령,Word.json
+Word.4021.1,곱슬 장군,Word.json
+Word.4022.1,태엽 여왕,Word.json
+Word.4025.1,작열하는 불꽃,Word.json
+Word.4026.1,초연,Word.json
+Word.4027.1,낙뢰,Word.json
+Word.4028.1,광휘,Word.json
+Word.4029.1,반짝임,Word.json
+Word.4030.1,포격 형태,Word.json
+Word.4031.1,검격 형태,Word.json
+Word.4032.1,아발란체,Word.json
+Word.4033.1,토끼 대개방 모드,Word.json
+Word.4034.1,토끼 속사 모드,Word.json
+Word.4035.1,마안 해방,Word.json
+Word.4036.1,암흑 레이저,Word.json
+Word.4037.1,냥냥 통통볼,Word.json
+Word.4038.1,데시벨,Word.json
+Word.4040.1,미소의 제재,Word.json
+Word.4041.1,물거품 표식,Word.json
+Word.4042.1,「다정한 설득」,Word.json
+Word.4043.1,「안전 경고」,Word.json
+Word.4045.1,사냥 능력,Word.json
+Word.4046.1,사냥 표식,Word.json
+Word.4047.1,메아리 음파,Word.json
+Word.4048.1,전술 에너지,Word.json
+Word.4049.1,만물창고,Word.json
+Word.4050.1,파수꾼,Word.json
+Word.45.1,최대 SP,Word.json
+Word.4500.1,전투 스테이지 전용,Word.json
+Word.4501.1,공포,Word.json
+Word.4502.1,매혹,Word.json
+Word.46.1,지원 SP 획득 효율,Word.json
+Word.5001.1,스테이지 전용,Word.json
+Word.6001.1,시스템 전용,Word.json
+Word.6002.1,「캐럴」,Word.json
+Word.66.1,약점 포착 배율,Word.json
+Word.7005.1,더미384,Word.json
+Word.7006.1,더미386,Word.json
+Word.7007.1,더미388,Word.json
+Word.7008.1,더미390,Word.json
+Word.7009.1,더미392,Word.json
+Word.7010.1,더미394,Word.json
+Word.7011.1,더미396,Word.json
+Word.7012.1,더미398,Word.json
+Word.7013.1,더미400,Word.json
+Word.7025.1,더미402,Word.json
+Word.7026.1,더미404,Word.json
+Word.7027.1,더미406,Word.json
+Word.7028.1,더미408,Word.json
+Word.7029.1,더미410,Word.json
+Word.7030.1,더미412,Word.json
+Word.7031.1,더미414,Word.json
+Word.7032.1,더미416,Word.json
+Word.7033.1,더미418,Word.json
+Word.7041.1,더미420,Word.json
+Word.7042.1,더미422,Word.json
+Word.7043.1,더미424,Word.json
+Word.9.1,방어 관통,Word.json
