@@ -9,15 +9,17 @@
 ## 使用方法：
 1、选择仓库中的单个文件，进入文件详情页后直接选择下载。下载后的表格文件可自行转换成csv等可被软件识别的格式；
 
-2、直接选择下载整个仓库，再自行选择使用哪些文件。
+2、直接选择克隆/下载整个仓库，再自行选择使用哪些文件。
 
 ## 使用的相关内容：
 
-碧蓝航线：[AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)；[AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
+**碧蓝航线**：[AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)；[AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
 
-星塔旅人：[Hiro420 / StellaSoraData](https://github.com/Hiro420/StellaSoraData)；[JforPlay / sstoy](https://github.com/JforPlay/sstoy)
+**星塔旅人**：[Hiro420 / StellaSoraData](https://github.com/Hiro420/StellaSoraData)；[JforPlay / sstoy](https://github.com/JforPlay/sstoy)
 
-## 免责声明 / Disclaimer
+**原神**：[genshin-db](https://github.com/theBowja/genshin-db)；[genshin-langdata](https://github.com/xicri/genshin-langdata)
+
+## 免责声明
 
 本项目（**Game-translation-terminology-database / 游戏翻译术语库**）为个人整理与维护的非官方翻译术语资料库，主要用于个人学习、研究以及辅助 AI 翻译软件（包括但不限于沉浸式翻译等）的术语翻译。
 
