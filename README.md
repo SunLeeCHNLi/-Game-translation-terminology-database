@@ -11,6 +11,8 @@
 
 2、直接选择克隆/下载整个仓库，再自行选择使用哪些文件。
 
+3、同第二种方法，但可以将处理文件一并下载后，再使用相关软件或Codex等AI辅助软件对其进行进一步的处理（需提前下载我引用的相关仓库源代码内容）
+
 ## 使用的相关内容：
 
 **碧蓝航线**：[AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)；[AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
