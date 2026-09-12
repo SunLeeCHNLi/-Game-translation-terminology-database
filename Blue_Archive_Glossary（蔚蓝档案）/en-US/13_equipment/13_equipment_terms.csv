@@ -1,0 +1,156 @@
+﻿id,term,src_table
+Equipment.1,Lesser Enhancement Stone,equipment.json
+Equipment.2,Normal Enhancement Stone,equipment.json
+Equipment.3,Advanced Enhancement Stone,equipment.json
+Equipment.4,Superior Enhancement Stone,equipment.json
+Equipment.10,Rusty Spring,equipment.json
+Equipment.11,Intact Spring,equipment.json
+Equipment.12,Chromium Spring,equipment.json
+Equipment.13,Titanium Spring,equipment.json
+Equipment.20,Rusty Hammer,equipment.json
+Equipment.21,Intact Hammer,equipment.json
+Equipment.22,Chromium Hammer,equipment.json
+Equipment.23,Titanium Hammer,equipment.json
+Equipment.30,Rusty Barrel,equipment.json
+Equipment.31,Intact Barrel,equipment.json
+Equipment.32,Chromium Barrel,equipment.json
+Equipment.33,Titanium Barrel,equipment.json
+Equipment.40,Rusty Firing Pin,equipment.json
+Equipment.41,Intact Firing Pin,equipment.json
+Equipment.42,Chromium Firing Pin,equipment.json
+Equipment.43,Titanium Firing Pin,equipment.json
+Equipment.1000,Plain Baseball Cap,equipment.json
+Equipment.1001,Knitted Wool Hat,equipment.json
+Equipment.1002,Big Brother Fedora,equipment.json
+Equipment.1003,Ribbon Beret,equipment.json
+Equipment.1004,Bulletproof Helmet,equipment.json
+Equipment.1005,Frilly Mini Hat,equipment.json
+Equipment.1006,Bucket Hat,equipment.json
+Equipment.1007,Leaf Ribbon Fedora,equipment.json
+Equipment.2000,Sports Gloves,equipment.json
+Equipment.2001,Knitted Mittens,equipment.json
+Equipment.2002,Peroro Oven Mitts,equipment.json
+Equipment.2003,Leather Gloves,equipment.json
+Equipment.2004,Tactical Gloves,equipment.json
+Equipment.2005,Lace Gloves,equipment.json
+Equipment.2006,Arm Warmers,equipment.json
+Equipment.2007,Pearl Yarn Gloves,equipment.json
+Equipment.3000,Pink Sneakers,equipment.json
+Equipment.3001,Shearling Boots,equipment.json
+Equipment.3002,Pinky-Paca Slippers,equipment.json
+Equipment.3003,Antique Enamel Loafers,equipment.json
+Equipment.3004,Tactical Boots,equipment.json
+Equipment.3005,Heeled Pumps,equipment.json
+Equipment.3006,Casual Sneakers,equipment.json
+Equipment.3007,Waterproof Hiking Boots,equipment.json
+Equipment.4000,Waterproof Sports Bag,equipment.json
+Equipment.4001,Insulated Messenger Bag,equipment.json
+Equipment.4002,Peroro Backpack,equipment.json
+Equipment.4003,Dark Blue School Bag,equipment.json
+Equipment.4004,Tactical Satchel,equipment.json
+Equipment.4005,Devil Wing Tote Bag,equipment.json
+Equipment.4006,Street Bag,equipment.json
+Equipment.4007,Butterfly Shoulder Bag,equipment.json
+Equipment.5000,Serval Metal Badge,equipment.json
+Equipment.5001,Manaslu Felt Badge,equipment.json
+Equipment.5002,Angry Adelie Button,equipment.json
+Equipment.5003,Veronica Embroidered Badge,equipment.json
+Equipment.5004,Kazeyama Patch,equipment.json
+Equipment.5005,Coco Devil Silver Badge,equipment.json
+Equipment.5006,Street Badge,equipment.json
+Equipment.5007,Lorelei Badge,equipment.json
+Equipment.6000,Tennis Headband,equipment.json
+Equipment.6001,Scrunchie,equipment.json
+Equipment.6002,Momo Hairpin,equipment.json
+Equipment.6003,Winged Hairpin,equipment.json
+Equipment.6004,Multi-Purpose Hairpin,equipment.json
+Equipment.6005,Bat Hairpin,equipment.json
+Equipment.6006,Calligraphy Hairpin,equipment.json
+Equipment.6007,Leaf Hairpin,equipment.json
+Equipment.7000,Traffic Safety Amulet,equipment.json
+Equipment.7001,Heat Pack,equipment.json
+Equipment.7002,Peroro Feather,equipment.json
+Equipment.7003,Cross,equipment.json
+Equipment.7004,Camo Daruma,equipment.json
+Equipment.7005,Voodoo Doll,equipment.json
+Equipment.7006,Portable Deodorant,equipment.json
+Equipment.7007,ドリームキャッチャー,equipment.json
+Equipment.8000,Waterproof Digital Watch,equipment.json
+Equipment.8001,Leather Wristwatch,equipment.json
+Equipment.8002,Wavecat Wristwatch,equipment.json
+Equipment.8003,Antique Pocket Watch,equipment.json
+Equipment.8004,Dustproof Leather Wristwatch,equipment.json
+Equipment.8005,Gothic Leather Wristwatch,equipment.json
+Equipment.8006,Street Fashion Wristwatch,equipment.json
+Equipment.8007,ローレライの腕時計,equipment.json
+Equipment.9000,Bluetooth Necklace,equipment.json
+Equipment.9001,Snowflake Pendant,equipment.json
+Equipment.9002,Nicholai Locket,equipment.json
+Equipment.9003,Cross Choker,equipment.json
+Equipment.9004,Dog Tag,equipment.json
+Equipment.9005,Punk Choker,equipment.json
+Equipment.9006,Chain Necklace,equipment.json
+Equipment.9007,グリーンリーフネックレス,equipment.json
+Equipment.101001,Knitted Wool Hat Blueprint,equipment.json
+Equipment.101002,Big Brother Fedora Blueprint,equipment.json
+Equipment.101003,Ribbon Beret Blueprint,equipment.json
+Equipment.101004,Bulletproof Helmet Blueprint,equipment.json
+Equipment.101005,Frilly Mini Hat Blueprint,equipment.json
+Equipment.101006,Bucket Hat Blueprint,equipment.json
+Equipment.101007,Leaf Ribbon Fedora Blueprint,equipment.json
+Equipment.102001,Knitted Mittens Blueprint,equipment.json
+Equipment.102002,Peroro Oven Mitts Blueprint,equipment.json
+Equipment.102003,Leather Gloves Blueprint,equipment.json
+Equipment.102004,Tactical Gloves Blueprint,equipment.json
+Equipment.102005,Lace Gloves Blueprint,equipment.json
+Equipment.102006,Arm Warmers Blueprint,equipment.json
+Equipment.102007,Pearl Yarn Gloves Blueprint,equipment.json
+Equipment.103001,Shearling Boots Blueprint,equipment.json
+Equipment.103002,Pinky-Paca Slippers Blueprint,equipment.json
+Equipment.103003,Antique Enamel Loafers Blueprint,equipment.json
+Equipment.103004,Tactical Boots Blueprint,equipment.json
+Equipment.103005,Heeled Pumps Blueprint,equipment.json
+Equipment.103006,Casual Sneakers Blueprint,equipment.json
+Equipment.103007,Waterproof Hiking Boots Blueprint,equipment.json
+Equipment.104001,Insulated Messenger Bag Blueprint,equipment.json
+Equipment.104002,Peroro Backpack Blueprint,equipment.json
+Equipment.104003,Dark Blue School Bag Blueprint,equipment.json
+Equipment.104004,Tactical Satchel Blueprint,equipment.json
+Equipment.104005,Devil Wing Tote Bag Blueprint,equipment.json
+Equipment.104006,Street Bag Blueprint,equipment.json
+Equipment.104007,Butterfly Shoulder Bag Blueprint,equipment.json
+Equipment.105001,Manaslu Felt Badge Blueprint,equipment.json
+Equipment.105002,Angry Adelie Button Blueprint,equipment.json
+Equipment.105003,Veronica Embroidered Badge Blueprint,equipment.json
+Equipment.105004,Kazeyama Patch Blueprint,equipment.json
+Equipment.105005,Coco Devil Silver Badge Blueprint,equipment.json
+Equipment.105006,Street Badge Blueprint,equipment.json
+Equipment.105007,Lorelei Badge Blueprint,equipment.json
+Equipment.106001,Scrunchie Blueprint,equipment.json
+Equipment.106002,Momo Hairpin Blueprint,equipment.json
+Equipment.106003,Winged Hairpin Blueprint,equipment.json
+Equipment.106004,Multi-Purpose Hairpin Blueprint,equipment.json
+Equipment.106005,Bat Hairpin Blueprint,equipment.json
+Equipment.106006,Calligraphy Hairpin Blueprint,equipment.json
+Equipment.106007,Leaf Hairpin Blueprint,equipment.json
+Equipment.107001,Heat Pack Blueprint,equipment.json
+Equipment.107002,Peroro Feather Blueprint,equipment.json
+Equipment.107003,Cross Blueprint,equipment.json
+Equipment.107004,Camo Daruma Blueprint,equipment.json
+Equipment.107005,Voodoo Doll Blueprint,equipment.json
+Equipment.107006,Portable Deodorant Blueprint,equipment.json
+Equipment.107007,ドリームキャッチャーの設計図,equipment.json
+Equipment.108001,Leather Wristwatch Blueprint,equipment.json
+Equipment.108002,Wavecat Wristwatch Blueprint,equipment.json
+Equipment.108003,Antique Pocket Watch Blueprint,equipment.json
+Equipment.108004,Dustproof Leather Wristwatch Blueprint,equipment.json
+Equipment.108005,Gothic Leather Wristwatch Blueprint,equipment.json
+Equipment.108006,Street Fashion Wristwatch Blueprint,equipment.json
+Equipment.108007,ローレライの腕時計の設計図,equipment.json
+Equipment.109001,Snowflake Pendant Blueprint,equipment.json
+Equipment.109002,Nicholai Locket Blueprint,equipment.json
+Equipment.109003,Cross Choker Blueprint,equipment.json
+Equipment.109004,Dog Tag Blueprint,equipment.json
+Equipment.109005,Punk Choker Blueprint,equipment.json
+Equipment.109006,Chain Necklace Blueprint,equipment.json
+Equipment.109007,グリーンリーフネックレスの設計図,equipment.json

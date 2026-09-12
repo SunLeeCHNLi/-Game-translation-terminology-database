@@ -1,0 +1,9 @@
+﻿id,term,src_table
+Location.10,Abydos High School,translation_table.json:locations
+Location.37,Red Winter Office,translation_table.json:locations
+Location.38,Red Winter Federal Academy,translation_table.json:locations
+Location.62,Black Tortoise Promenade,translation_table.json:locations
+Location.64,Beluga Market,translation_table.json:locations
+EventPlace.shanhaijing,Shanhaijing Academy,story-viewer:eventStoryIndex.ts
+ConquestMap.815,Lost Paradise Resort Archipelago,localization.json:ConquestMap
+ConquestMap.822,The Ark of Atrahasis,localization.json:ConquestMap

@@ -1,0 +1,9 @@
+﻿id,term,src_table
+Location.10,아비도스 고등학교,translation_table.json:locations
+Location.37,붉은겨울 사무국,translation_table.json:locations
+Location.38,붉은겨울 연방학원,translation_table.json:locations
+Location.62,현무상회,translation_table.json:locations
+Location.64,흰돌고래 시장,translation_table.json:locations
+EventPlace.shanhaijing,산해경 고급중학교,story-viewer:eventStoryIndex.ts
+ConquestMap.815,<로스트 파라다이스 리조트> 군도,localization.json:ConquestMap
+ConquestMap.822,<아트라하시스의 방주>,localization.json:ConquestMap

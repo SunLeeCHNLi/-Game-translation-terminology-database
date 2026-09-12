@@ -1,0 +1,650 @@
+﻿id,term,src_table
+Item.1,Keystone Piece,items.json
+Item.2,Booster Ticket,items.json
+Item.3,Keystone,items.json
+Item.7,Total Assault Coin,items.json
+Item.8,Tactical Challenge Coin,items.json
+Item.9,Advanced Total Assault Coin,items.json
+Item.10,Novice Activity Report,items.json
+Item.11,Normal Activity Report,items.json
+Item.12,Advanced Activity Report,items.json
+Item.13,Superior Activity Report,items.json
+Item.23,Eligma,items.json
+Item.30,Cafe Facilities Core Lv. 1,items.json
+Item.31,Cafe Facilities Core Lv. 2,items.json
+Item.32,Cafe Facilities Core Lv. 3,items.json
+Item.60,Joint Firing Drill Coin,items.json
+Item.61,Bounty Coins,items.json
+Item.70,Grand Battle Coin,items.json
+Item.71,大決戦レアコイン,items.json
+Item.80,Lesser Fusion Keystone,items.json
+Item.81,Normal Fusion Keystone,items.json
+Item.82,Advanced Fusion Keystone,items.json
+Item.83,Superior Fusion Keystone,items.json
+Item.90,Lesser Crafting Material,items.json
+Item.91,Normal Crafting Material,items.json
+Item.92,Advanced Crafting Material,items.json
+Item.100,Nebra Sky Disk Piece,items.json
+Item.101,Broken Nebra Sky Disk,items.json
+Item.102,Damaged Nebra Sky Disk,items.json
+Item.103,Intact Nebra Sky Disk,items.json
+Item.110,Phaistos Disc Piece,items.json
+Item.111,Broken Phaistos Disc,items.json
+Item.112,Damaged Phaistos Disc,items.json
+Item.113,Intact Phaistos Disc,items.json
+Item.120,Wolfsegg Iron Ore,items.json
+Item.121,Wolfsegg Steel,items.json
+Item.122,Low-Purity Wolfsegg Steel,items.json
+Item.123,High-Purity Wolfsegg Steel,items.json
+Item.130,Nimrud Lens Piece,items.json
+Item.131,Broken Nimrud Lens,items.json
+Item.132,Damaged Nimrud Lens,items.json
+Item.133,Intact Nimrud Lens,items.json
+Item.140,Mandrake Seed,items.json
+Item.141,Mandrake Sprout,items.json
+Item.142,Mandrake Juice,items.json
+Item.143,Mandrake Extract,items.json
+Item.150,Rohonc Codex Page,items.json
+Item.151,Damaged Rohonc Codex,items.json
+Item.152,Annotated Rohonc Codex,items.json
+Item.153,Intact Rohonc Codex,items.json
+Item.160,Aether Dust,items.json
+Item.161,Aether Piece,items.json
+Item.162,Aether Shard,items.json
+Item.163,Aether Essence,items.json
+Item.170,Antikythera Mechanism Piece,items.json
+Item.171,Broken Antikythera Mechanism,items.json
+Item.172,Damaged Antikythera Mechanism,items.json
+Item.173,Intact Antikythera Mechanism,items.json
+Item.180,Voynich Manuscript Page,items.json
+Item.181,Damaged Voynich Manuscript,items.json
+Item.182,Annotated Voynich Manuscript,items.json
+Item.183,Intact Voynich Manuscript,items.json
+Item.190,Crystal Haniwa Fragment,items.json
+Item.191,Broken Crystal Haniwa,items.json
+Item.192,Repaired Crystal Haniwa,items.json
+Item.193,Intact Crystal Haniwa,items.json
+Item.200,Totem Pole Piece,items.json
+Item.201,Broken Totem Pole,items.json
+Item.202,Repaired Totem Pole,items.json
+Item.203,Intact Totem Pole,items.json
+Item.210,Ancient Battery Piece,items.json
+Item.211,Broken Ancient Battery,items.json
+Item.212,Damaged Ancient Battery,items.json
+Item.213,Intact Ancient Battery,items.json
+Item.220,Golden Fleece,items.json
+Item.221,Golden Yarn,items.json
+Item.222,Golden Wool,items.json
+Item.223,Golden Dress,items.json
+Item.230,Okiku Doll Piece,items.json
+Item.231,Broken Okiku Doll,items.json
+Item.232,Repaired Okiku Doll,items.json
+Item.233,Intact Okiku Doll,items.json
+Item.240,Disco Colgante Piece,items.json
+Item.241,Broken Disco Colgante,items.json
+Item.242,Repaired Disco Colgante,items.json
+Item.243,Intact Disco Colgante,items.json
+Item.250,Atlantis Medal Piece,items.json
+Item.251,Broken Atlantis Medal,items.json
+Item.252,Damaged Atlantis Medal,items.json
+Item.253,Intact Atlantis Medal,items.json
+Item.260,Roman Dodecahedron Piece,items.json
+Item.261,Broken Roman Dodecahedron,items.json
+Item.262,Repaired Roman Dodecahedron,items.json
+Item.263,Intact Roman Dodecahedron,items.json
+Item.290,Winnipesaukee Stone Piece,items.json
+Item.291,Broken Winnipesaukee Stone,items.json
+Item.292,Damaged Winnipesaukee Stone,items.json
+Item.293,Intact Winnipesaukee Stone,items.json
+Item.3000,Beginner Tactical Training Blu-ray (Hyakkiyako),items.json
+Item.3001,Normal Tactical Training Blu-ray (Hyakkiyako),items.json
+Item.3002,Advanced Tactical Training Blu-ray (Hyakkiyako),items.json
+Item.3003,Superior Tactical Training Blu-ray (Hyakkiyako),items.json
+Item.3010,Beginner Tactical Training Blu-ray (Red Winter),items.json
+Item.3011,Normal Tactical Training Blu-ray (Red Winter),items.json
+Item.3012,Advanced Tactical Training Blu-ray (Red Winter),items.json
+Item.3013,Superior Tactical Training Blu-ray (Red Winter),items.json
+Item.3020,Beginner Tactical Training Blu-ray (Trinity),items.json
+Item.3021,Normal Tactical Training Blu-ray (Trinity),items.json
+Item.3022,Advanced Tactical Training Blu-ray (Trinity),items.json
+Item.3023,Superior Tactical Training Blu-ray (Trinity),items.json
+Item.3030,Beginner Tactical Training Blu-ray (Gehenna),items.json
+Item.3031,Normal Tactical Training Blu-ray (Gehenna),items.json
+Item.3032,Advanced Tactical Training Blu-ray (Gehenna),items.json
+Item.3033,Superior Tactical Training Blu-ray (Gehenna),items.json
+Item.3040,Beginner Tactical Training Blu-ray (Abydos),items.json
+Item.3041,Normal Tactical Training Blu-ray (Abydos),items.json
+Item.3042,Advanced Tactical Training Blu-ray (Abydos),items.json
+Item.3043,Superior Tactical Training Blu-ray (Abydos),items.json
+Item.3050,Beginner Tactical Training Blu-ray (Millennium),items.json
+Item.3051,Normal Tactical Training Blu-ray (Millennium),items.json
+Item.3052,Advanced Tactical Training Blu-ray (Millennium),items.json
+Item.3053,Superior Tactical Training Blu-ray (Millennium),items.json
+Item.3060,Beginner Tactical Training Blu-ray (Arius),items.json
+Item.3061,Normal Tactical Training Blu-ray (Arius),items.json
+Item.3062,Advance Tactical Training Blu-ray (Arius),items.json
+Item.3063,Superior Tactical Training Blu-ray (Arius),items.json
+Item.3070,Beginner Tactical Training Blu-ray (Shanhaijing),items.json
+Item.3071,Normal Tactical Training Blu-ray (Shanhaijing),items.json
+Item.3072,Advanced Tactical Training Blu-ray (Shanhaijing),items.json
+Item.3073,Superior Tactical Training Blu-ray (Shanhaijing),items.json
+Item.3080,Beginner Tactical Training Blu-ray (Valkyrie),items.json
+Item.3081,Normal Tactical Training Blu-ray (Valkyrie),items.json
+Item.3082,Advanced Tactical Training Blu-ray (Valkyrie),items.json
+Item.3083,Superior Tactical Training Blu-ray (Valkyrie),items.json
+Item.4000,Beginner Tech Notes (Hyakkiyako),items.json
+Item.4001,Normal Tech Notes (Hyakkiyako),items.json
+Item.4002,Advanced Tech Notes (Hyakkiyako),items.json
+Item.4003,Superior Tech Notes (Hyakkiyako),items.json
+Item.4010,Beginner Tech Notes (Red Winter),items.json
+Item.4011,Normal Tech Notes (Red Winter),items.json
+Item.4012,Advanced Tech Notes (Red Winter),items.json
+Item.4013,Superior Tech Notes (Red Winter),items.json
+Item.4020,Beginner Tech Notes (Trinity),items.json
+Item.4021,Normal Tech Notes (Trinity),items.json
+Item.4022,Advanced Tech Notes (Trinity),items.json
+Item.4023,Superior Tech Notes (Trinity),items.json
+Item.4030,Beginner Tech Notes (Gehenna),items.json
+Item.4031,Normal Tech Notes (Gehenna),items.json
+Item.4032,Advanced Tech Notes (Gehenna),items.json
+Item.4033,Superior Tech Notes (Gehenna),items.json
+Item.4040,Beginner Tech Notes (Abydos),items.json
+Item.4041,Normal Tech Notes (Abydos),items.json
+Item.4042,Advanced Tech Notes (Abydos),items.json
+Item.4043,Superior Tech Notes (Abydos),items.json
+Item.4050,Beginner Tech Notes (Millennium),items.json
+Item.4051,Normal Tech Notes (Millennium),items.json
+Item.4052,Advanced Tech Notes (Millennium),items.json
+Item.4053,Superior Tech Notes (Millennium),items.json
+Item.4060,Beginner Tech Notes (Arius),items.json
+Item.4061,Normal Tech Notes (Arius),items.json
+Item.4062,Advanced Tech Notes (Arius),items.json
+Item.4063,Superior Tech Notes (Arius),items.json
+Item.4070,Beginner Tech Notes (Shanhaijing),items.json
+Item.4071,Normal Tech Notes (Shanhaijing),items.json
+Item.4072,Advanced Tech Notes (Shanhaijing),items.json
+Item.4073,Superior Tech Notes (Shanhaijing),items.json
+Item.4080,Beginner Tech Notes (Valkyrie),items.json
+Item.4081,Normal Tech Notes (Valkyrie),items.json
+Item.4082,Advanced Tech Notes (Valkyrie),items.json
+Item.4083,Superior Tech Notes (Valkyrie),items.json
+Item.7001,Mission Data 1: D Type,items.json
+Item.9998,Secret Tech Sheet,items.json
+Item.9999,Secret Tech Notes,items.json
+Item.10000,Aru&#x27;s Eleph,items.json
+Item.10001,Eimi&#x27;s Eleph,items.json
+Item.10002,Haruna&#x27;s Eleph,items.json
+Item.10003,Hifumi&#x27;s Eleph,items.json
+Item.10004,Hina&#x27;s Eleph,items.json
+Item.10005,Hoshino&#x27;s Eleph,items.json
+Item.10006,Iori&#x27;s Eleph,items.json
+Item.10007,Maki&#x27;s Eleph,items.json
+Item.10008,Neru&#x27;s Eleph,items.json
+Item.10009,Izumi&#x27;s Eleph,items.json
+Item.10010,Shiroko&#x27;s Eleph,items.json
+Item.10011,Shun&#x27;s Eleph,items.json
+Item.10012,Sumire&#x27;s Eleph,items.json
+Item.10013,Tsurugi&#x27;s Eleph,items.json
+Item.10014,Izuna&#x27;s Eleph,items.json
+Item.10015,Aris&#x27; Eleph,items.json
+Item.10016,Midori&#x27;s Eleph,items.json
+Item.10017,Cherino&#x27;s Eleph,items.json
+Item.10018,Yuzu&#x27;s Eleph,items.json
+Item.10019,Azusa&#x27;s Eleph,items.json
+Item.10020,Koharu&#x27;s Eleph,items.json
+Item.10021,Azusa (Swimsuit)&#x27;s Eleph,items.json
+Item.10022,Hina (Swimsuit)&#x27;s Eleph,items.json
+Item.10023,Iori (Swimsuit)&#x27;s Eleph,items.json
+Item.10024,Shiroko (Cycling)&#x27;s Eleph,items.json
+Item.10025,Shun (Small)&#x27;s Eleph,items.json
+Item.10026,Neru (Bunny)&#x27;s Eleph,items.json
+Item.10027,Karin (Bunny)&#x27;s Eleph,items.json
+Item.10028,Asuna (Bunny)&#x27;s Eleph,items.json
+Item.10029,Natsu&#x27;s Eleph,items.json
+Item.10030,Chinatsu (Hot Spring)&#x27;s Eleph,items.json
+Item.10031,Aru (New Year)&#x27;s Eleph,items.json
+Item.10032,Mutsuki (New Year)&#x27;s Eleph,items.json
+Item.10033,Wakamo&#x27;s Eleph,items.json
+Item.10034,Mimori&#x27;s Eleph,items.json
+Item.10035,Ui&#x27;s Eleph,items.json
+Item.10036,Hinata&#x27;s Eleph,items.json
+Item.10037,Marina&#x27;s Eleph,items.json
+Item.10038,Miyako&#x27;s Eleph,items.json
+Item.10039,Miyu&#x27;s Eleph,items.json
+Item.10040,Tsukuyo&#x27;s Eleph,items.json
+Item.10041,Misaki&#x27;s Eleph,items.json
+Item.10042,Atsuko&#x27;s Eleph,items.json
+Item.10043,Wakamo (Swimsuit)&#x27;s Eleph,items.json
+Item.10044,Nonomi (Swimsuit)&#x27;s Eleph,items.json
+Item.10045,Hoshino (Swimsuit)&#x27;s Eleph,items.json
+Item.10046,Izuna (Swimsuit)&#x27;s Eleph,items.json
+Item.10047,Chise (Swimsuit)&#x27;s Eleph,items.json
+Item.10048,Saori&#x27;s Eleph,items.json
+Item.10049,Kazusa&#x27;s Eleph,items.json
+Item.10050,Kokona&#x27;s Eleph,items.json
+Item.10051,Utaha (Cheer Squad)&#x27;s Eleph,items.json
+Item.10052,Noa&#x27;s Eleph,items.json
+Item.10053,Yuuka (Track)&#x27;s Eleph,items.json
+Item.10054,Mari (Track)&#x27;s Eleph,items.json
+Item.10055,Shigure&#x27;s Eleph,items.json
+Item.10056,Serina (Christmas)&#x27;s Eleph,items.json
+Item.10057,Haruna (New Year)&#x27;s Eleph,items.json
+Item.10058,Mine&#x27;s Eleph,items.json
+Item.10059,Mika&#x27;s Eleph,items.json
+Item.10060,Megu&#x27;s Eleph,items.json
+Item.10061,Sakurako&#x27;s Eleph,items.json
+Item.10062,Toki&#x27;s Eleph,items.json
+Item.10063,Koyuki&#x27;s Eleph,items.json
+Item.10064,Kayoko (New Year)&#x27;s Eleph,items.json
+Item.10065,Kaho&#x27;s Eleph,items.json
+Item.10066,Aris (Maid)&#x27;s Eleph,items.json
+Item.10067,Toki (Bunny)&#x27;s Eleph,items.json
+Item.10068,Reisa&#x27;s Eleph,items.json
+Item.10069,Rumi&#x27;s Eleph,items.json
+Item.10070,Mina&#x27;s Eleph,items.json
+Item.10071,Miyako (Swimsuit)&#x27;s Eleph,items.json
+Item.10072,Saki (Swimsuit)&#x27;s Eleph,items.json
+Item.10073,Ui (Swimsuit)&#x27;s Eleph,items.json
+Item.10074,Hanako (Swimsuit)&#x27;s Eleph,items.json
+Item.13000,Akane&#x27;s Eleph,items.json
+Item.13001,Chise&#x27;s Eleph,items.json
+Item.13002,Akari&#x27;s Eleph,items.json
+Item.13003,Hasumi&#x27;s Eleph,items.json
+Item.13004,Nonomi&#x27;s Eleph,items.json
+Item.13005,Kayoko&#x27;s Eleph,items.json
+Item.13006,Mutsuki&#x27;s Eleph,items.json
+Item.13007,Junko&#x27;s Eleph,items.json
+Item.13008,Serika&#x27;s Eleph,items.json
+Item.13009,Tsubaki&#x27;s Eleph,items.json
+Item.13010,Yuuka&#x27;s Eleph,items.json
+Item.13011,Momoi&#x27;s Eleph,items.json
+Item.13012,Kirino&#x27;s Eleph,items.json
+Item.16000,Haruka&#x27;s Eleph,items.json
+Item.16001,Asuna&#x27;s Eleph,items.json
+Item.16002,Kotori&#x27;s Eleph,items.json
+Item.16003,Suzumi&#x27;s Eleph,items.json
+Item.16004,Pina&#x27;s Eleph,items.json
+Item.16005,Tsurugi (Swimsuit)&#x27;s Eleph,items.json
+Item.16006,Izumi (Swimsuit)&#x27;s Eleph,items.json
+Item.16007,Tomoe&#x27;s Eleph,items.json
+Item.16008,Fubuki&#x27;s Eleph,items.json
+Item.16009,Michiru&#x27;s Eleph,items.json
+Item.16010,Hibiki (Cheer Squad)&#x27;s Eleph,items.json
+Item.16011,Hasumi (Track)&#x27;s Eleph,items.json
+Item.16012,Junko (New Year)&#x27;s Eleph,items.json
+Item.16013,Koharu (Swimsuit)&#x27;s Eleph,items.json
+Item.20000,Hibiki&#x27;s Eleph,items.json
+Item.20001,Karin&#x27;s Eleph,items.json
+Item.20002,Saya&#x27;s Eleph,items.json
+Item.20003,Mashiro&#x27;s Eleph,items.json
+Item.20004,Mashiro (Swimsuit)&#x27;s Eleph,items.json
+Item.20005,Hifumi (Swimsuit)&#x27;s Eleph,items.json
+Item.20006,Saya (Casual)&#x27;s Eleph,items.json
+Item.20007,Hatsune Miku&#x27;s Eleph,items.json
+Item.20008,Ako&#x27;s Eleph,items.json
+Item.20009,Cherino (Hot Spring)&#x27;s Eleph,items.json
+Item.20010,Nodoka (Hot Spring)&#x27;s Eleph,items.json
+Item.20011,Serika (New Year)&#x27;s Eleph,items.json
+Item.20012,Sena&#x27;s Eleph,items.json
+Item.20013,Chihiro&#x27;s Eleph,items.json
+Item.20014,Saki&#x27;s Eleph,items.json
+Item.20015,Kaede&#x27;s Eleph,items.json
+Item.20016,Iroha&#x27;s Eleph,items.json
+Item.20017,Hiyori&#x27;s Eleph,items.json
+Item.20018,Moe&#x27;s Eleph,items.json
+Item.20019,Akane (Bunny)&#x27;s Eleph,items.json
+Item.20020,Himari&#x27;s Eleph,items.json
+Item.20021,Hanae (Christmas)&#x27;s Eleph,items.json
+Item.20022,Fuuka (New Year)&#x27;s Eleph,items.json
+Item.20023,Kanna&#x27;s Eleph,items.json
+Item.20024,Nagisa&#x27;s Eleph,items.json
+Item.20025,Haruka (New Year)&#x27;s Eleph,items.json
+Item.20026,Minori&#x27;s Eleph,items.json
+Item.20027,Shiroko (Swimsuit)&#x27;s Eleph,items.json
+Item.20028,Hinata (Swimsuit)&#x27;s Eleph,items.json
+Item.23000,Airi&#x27;s Eleph,items.json
+Item.23001,Fuuka&#x27;s Eleph,items.json
+Item.23002,Hanae&#x27;s Eleph,items.json
+Item.23003,Hare&#x27;s Eleph,items.json
+Item.23004,Utaha&#x27;s Eleph,items.json
+Item.23005,Ayane&#x27;s Eleph,items.json
+Item.23006,Shizuko&#x27;s Eleph,items.json
+Item.23007,Hanako&#x27;s Eleph,items.json
+Item.23008,Mari&#x27;s Eleph,items.json
+Item.26000,Chinatsu&#x27;s Eleph,items.json
+Item.26001,Kotama&#x27;s Eleph,items.json
+Item.26002,Juri&#x27;s Eleph,items.json
+Item.26003,Serina&#x27;s Eleph,items.json
+Item.26004,Shimiko&#x27;s Eleph,items.json
+Item.26005,Yoshimi&#x27;s Eleph,items.json
+Item.26006,Nodoka&#x27;s Eleph,items.json
+Item.26007,Ayane (Swimsuit)&#x27;s Eleph,items.json
+Item.26008,Shizuko (Swimsuit)&#x27;s Eleph,items.json
+Item.26009,Yuzu (Maid)&#x27;s Eleph,items.json
+Item.26010,Miyu (Swimsuit)&#x27;s Eleph,items.json
+Item.30000,Beginner Tactical Training Blu-ray Chest,items.json
+Item.30001,Normal Tactical Training Blu-ray Chest,items.json
+Item.30002,Advanced Training Blu-ray Chest,items.json
+Item.30003,Superior Tactical Training Blu-ray Chest,items.json
+Item.40000,Beginner Tech Notes Chest,items.json
+Item.40001,Normal Tech Notes Chest,items.json
+Item.40002,Advanced Tech Notes Chest,items.json
+Item.40003,Superior Tech Notes Chest,items.json
+Item.80000,Event Points,items.json
+Item.80001,Kitsune Senbei,items.json
+Item.80002,Tanuki Okonomiyaki,items.json
+Item.80003,Sakura Daifuku,items.json
+Item.80010,Cherino Matryoshka,items.json
+Item.80011,Cherenka Chocolate,items.json
+Item.80012,Mustache Crepe,items.json
+Item.80013,Red Mustache Medal,items.json
+Item.80021,Beach Volleyball,items.json
+Item.80022,Beach Shack Meal Ticket,items.json
+Item.80023,Weird Fireworks,items.json
+Item.80024,Ice Cooler,items.json
+Item.80025,Sand Play Set,items.json
+Item.80026,Beach Chair,items.json
+Item.80027,Parasol Table,items.json
+Item.80028,Water Play Equipment,items.json
+Item.80029,Sailing Board,items.json
+Item.80030,Gehenna Supply Box,items.json
+Item.80031,GRS Grilled Corn,items.json
+Item.80032,Thug Summer Shades,items.json
+Item.80033,Splashy Helmet,items.json
+Item.80041,Turtle Mushroom,items.json
+Item.80042,Black Bamboo Shoot,items.json
+Item.80043,Ginseng Doll,items.json
+Item.80050,Chocolate Coin,items.json
+Item.80051,Rabbit Sticker,items.json
+Item.80052,Boarding Pass,items.json
+Item.80053,Dice,items.json
+Item.80061,Hot Spring Towel,items.json
+Item.80062,Mustache Shampoo,items.json
+Item.80063,Capybara Bath Bomb,items.json
+Item.80070,New Year&#x27;s Lucky Pouch,items.json
+Item.80071,Peroro Kagami Mochi,items.json
+Item.80072,Kurokame Gang Ema,items.json
+Item.80073,New Year Omikuji Token,items.json
+Item.80081,Baddie&#x27;s Apology Letter,items.json
+Item.80082,Confiscated Junk Food,items.json
+Item.80083,Eco-Friendly Trash Bags,items.json
+Item.80084,Valentine&#x27;s Day Outing Pass,items.json
+Item.80090,Wakamo Arrest Warrant,items.json
+Item.80101,Missal Veil,items.json
+Item.80102,Hymn Book,items.json
+Item.80103,Cathedral Candle,items.json
+Item.80110,Mushiqueen Card Pack,items.json
+Item.80111,Scrimmage Flyer,items.json
+Item.80112,Princess Waraku Fan,items.json
+Item.80113,Ninpero Plush Merch,items.json
+Item.80120,Materials Box,items.json
+Item.80130,Local Currency,items.json
+Item.80131,Momoyodou Shiny Coin,items.json
+Item.80132,Shiny Conch,items.json
+Item.80133,Summer Ninjutsu Codex Scroll,items.json
+Item.80134,Deep Sea Hot Springs Island Resort Ticket,items.json
+Item.80135,Mushiqueen Cruise Resort Ticket,items.json
+Item.80136,Ultra Luxury Resort Ticket,items.json
+Item.80140,Dessert Coupon,items.json
+Item.80141,Mint Chocolate Parfait,items.json
+Item.80142,Macaron,items.json
+Item.80143,Rolled Wafer,items.json
+Item.80151,Beanbag,items.json
+Item.80152,Millennium Flag,items.json
+Item.80153,Whistle,items.json
+Item.80160,Sports Drink,items.json
+Item.80161,Relay Baton,items.json
+Item.80162,Red Bean Bun,items.json
+Item.80163,Information Brochure,items.json
+Item.80170,Christmas Gift,items.json
+Item.80171,Christmas Stocking,items.json
+Item.80172,Candy Cane,items.json
+Item.80173,Eggnog,items.json
+Item.80181,Red and White Fish Cakes,items.json
+Item.80182,Snapper,items.json
+Item.80183,Omikuji Exchange Ticket,items.json
+Item.80200,Multi-Dimensional Computational Unit,items.json
+Item.80201,Dimension Engine Part,items.json
+Item.80202,Space Choco-Burger,items.json
+Item.80203,Gate Unlock Code - Outer District 2,items.json
+Item.80204,Gate Unlock Code - Outer District 3,items.json
+Item.80205,Gate Unlock Code - Central District,items.json
+Item.80221,Student Council Hard Hat,items.json
+Item.80222,Financial Report,items.json
+Item.80223,Pollack Roe Crackers,items.json
+Item.80230,きれいなカチューシャ,items.json
+Item.80231,メイクアップセット,items.json
+Item.80232,屋敷への招待状,items.json
+Item.80240,カードセット,items.json
+Item.80241,玄武商会の食券,items.json
+Item.80242,玄龍門バッジ,items.json
+Item.80243,溶媒抽出セット,items.json
+Item.80260,冷凍エビ,items.json
+Item.80261,小石,items.json
+Item.80262,貝殻,items.json
+Item.80263,乾いたヒトデ,items.json
+Item.80264,サイコロ確定券,items.json
+Item.80265,サイコロ1確定券,items.json
+Item.80266,サイコロ2確定券,items.json
+Item.80267,サイコロ3確定券,items.json
+Item.80268,サイコロ4確定券,items.json
+Item.80269,サイコロ5確定券,items.json
+Item.80270,サイコロ6確定券,items.json
+Item.80290,イベントPt,items.json
+Item.80291,羊皮紙の欠片,items.json
+Item.80292,レモン,items.json
+Item.80293,古びた鍵,items.json
+Item.85000,Event Points (Rerun),items.json
+Item.85001,Kitsune Senbei (Rerun),items.json
+Item.85002,Tanuki Okonomiyaki (Rerun),items.json
+Item.85003,Sakura Daifuku (Rerun),items.json
+Item.85010,Cherino Matryoshka (Rerun),items.json
+Item.85011,Cherenka Chocolate (Rerun),items.json
+Item.85012,Mustache Crepe (Rerun),items.json
+Item.85013,Red Mustache Medal (Rerun),items.json
+Item.85021,Beach Volleyball (Rerun),items.json
+Item.85022,Beach Shack Meal Ticket (Rerun),items.json
+Item.85023,Weird Fireworks (Rerun),items.json
+Item.85030,Gehenna Supply Box (Rerun),items.json
+Item.85031,GRS Grilled Corn (Rerun),items.json
+Item.85032,Thug Summer Shades (Rerun),items.json
+Item.85033,Splashy Helmet (Rerun),items.json
+Item.85041,Turtle Mushroom (Rerun),items.json
+Item.85042,Black Bamboo Shoot (Rerun),items.json
+Item.85043,Ginseng Doll (Rerun),items.json
+Item.85050,Chocolate Coin (Rerun),items.json
+Item.85051,Rabbit Sticker (Rerun),items.json
+Item.85052,Boarding Pass (Rerun),items.json
+Item.85053,Dice (Rerun),items.json
+Item.85061,Hot Spring Towel (Rerun),items.json
+Item.85062,Mustache Shampoo (Rerun),items.json
+Item.85063,Capybara Bath Bomb (Rerun),items.json
+Item.85070,New Year&#x27;s Lucky Pouch (Rerun),items.json
+Item.85071,Peroro Kagami Mochi (Rerun),items.json
+Item.85072,Kurokame Gang Ema (Rerun),items.json
+Item.85073,New Year Omikuji Token (Rerun),items.json
+Item.85081,Baddie&#x27;s Apology Letter (Rerun),items.json
+Item.85082,Confiscated Junk Food (Rerun),items.json
+Item.85083,Eco-Friendly Trash Bags (Rerun),items.json
+Item.85084,Valentine&#x27;s Day Outing Pass (Rerun),items.json
+Item.85090,Wakamo Arrest Warrant (Rerun),items.json
+Item.85101,Missal Veil (Rerun),items.json
+Item.85102,Hymn Book (Rerun),items.json
+Item.85103,Cathedral Candle (Rerun),items.json
+Item.85110,Mushiqueen Card Pack (Rerun),items.json
+Item.85111,Scrimmage Flyer (Rerun),items.json
+Item.85112,Princess Waraku Fan (Rerun),items.json
+Item.85113,Ninpero Plush Merch (Rerun),items.json
+Item.85120,Materials Box (Rerun),items.json
+Item.85140,Dessert Coupon (Rerun),items.json
+Item.85141,Mint Chocolate Parfait (Rerun),items.json
+Item.85142,Macaron (Rerun),items.json
+Item.85143,Rolled Wafer (Rerun),items.json
+Item.100000,Gift Box,items.json
+Item.100001,Furniture Box (3☆),items.json
+Item.100008,Gift Choice Box,items.json
+Item.100009,Luxury Gift Box,items.json
+Item.100013,Equipment Chest,items.json
+Item.100023,Artifact Raffle Ticket 1,items.json
+Item.100024,Artifact Raffle Ticket 2,items.json
+Item.100025,Artifact Raffle Ticket 3,items.json
+Item.100026,Artifact Raffle Ticket 4,items.json
+Item.150000,Beginner Tech Notes Choice Ticket,items.json
+Item.150001,Normal Tech Notes Choice Ticket,items.json
+Item.150002,Advanced Tech Notes Choice Ticket,items.json
+Item.150003,Superior Tech Notes Choice Ticket,items.json
+Item.150004,Beginner Tactical Training Blu-ray Choice Ticket,items.json
+Item.150005,Normal Tactical Training Blu-ray Choice Ticket,items.json
+Item.150006,Advanced Tactical Training Blu-ray Choice Ticket,items.json
+Item.150007,Superior Tactical Training Blu-ray Choice Ticket,items.json
+Item.150008,Artifact Choice Ticket 1,items.json
+Item.150009,Artifact Choice Ticket 2,items.json
+Item.150010,Artifact Choice Ticket 3,items.json
+Item.150011,Artifact Choice Ticket 4,items.json
+Item.150015,Superior Tech Notes Choice Ticket,items.json
+Item.150028,T2 Equipment Blueprint Choice Ticket,items.json
+Item.150029,T3 Equipment Blueprint Choice Ticket,items.json
+Item.150030,T4 Equipment Blueprint Choice Ticket,items.json
+Item.150031,T5 Equipment Blueprint Choice Ticket,items.json
+Item.150032,T6 Equipment Blueprint Choice Ticket,items.json
+Item.150033,T7 Equipment Blueprint Choice Ticket,items.json
+Item.150038,Furniture Choice Ticket (R),items.json
+Item.150039,Furniture Choice Ticket (SR),items.json
+Item.150040,Furniture Choice Ticket (SSR),items.json
+Item.151000,Beginner Furniture Choice Ticket,items.json
+Item.151001,Momo Friends Furniture Choice Ticket,items.json
+Item.151002,Jellies Arcade Furniture Choice Ticket,items.json
+Item.151003,Valentine&#x27;s Furniture Choice Ticket,items.json
+Item.151004,Summer Resort Furniture Choice Ticket,items.json
+Item.151005,Halloween Furniture Choice Ticket,items.json
+Item.151006,Hot Springs Resort Furniture Choice Ticket,items.json
+Item.151007,New Year&#x27;s Furniture Choice Ticket,items.json
+Item.151008,Military Campground Furniture Choice Ticket,items.json
+Item.151009,Beachside Furniture Choice Ticket,items.json
+Item.151010,Field Day Furniture Choice Ticket,items.json
+Item.151011,Abydos Classroom Furniture Choice Ticket,items.json
+Item.151012,Game Development Department Furniture Choice Ticket,items.json
+Item.151013,Sunshine Resort Furniture Choice Ticket,items.json
+Item.151999,Etc. Furniture Choice Ticket,items.json
+Item.160003,Mission Data 2: D-X Type,items.json
+Item.180000,Chocolate Potato Chips,items.json
+Item.180001,Angel Chocolate,items.json
+Item.180002,Bulk Mini Chocolates,items.json
+Item.180003,Arona&#x27;s Chocolate Ginger Cookies,items.json
+Item.180004,Peroro Valentine,items.json
+Item.180005,Ration D-Type,items.json
+Item.180006,Happy Hot Chocolate,items.json
+Item.180007,Schokolade Gehenna,items.json
+Item.180008,Bulk Chocolate,items.json
+Item.180009,Chocolate Dango,items.json
+Item.180010,Death Love,items.json
+Item.180011,Rider&#x27;s Snack,items.json
+Item.180012,Chocolate Ocean Friend,items.json
+Item.180013,Desert Rose,items.json
+Item.180014,Venus&#x27; Chocolate,items.json
+Item.180015,Wiretapping Device No. 14,items.json
+Item.180016,Hot Cocoa Can,items.json
+Item.180017,Chocolate Pave Set (Receipt Inc.),items.json
+Item.180018,Hero Chocolate (Item),items.json
+Item.180019,Homemade Chocolate Slime,items.json
+Item.180020,Chocolate Monster MAX,items.json
+Item.180021,Chocolate Spray,items.json
+Item.180022,Chocolate Shell Mk.2,items.json
+Item.180023,Chocolate Screw,items.json
+Item.180024,Cherenka,items.json
+Item.180025,Improved Cherenka,items.json
+Item.180026,Cacao Bean,items.json
+Item.180027,Immortality Elixir (Failure),items.json
+Item.180028,Rum Bonbons,items.json
+Item.180029,Chocolate Cuffs,items.json
+Item.180030,Special Chocolate Cruller,items.json
+Item.180031,Chocolate Haniwa,items.json
+Item.180032,Little Bullet,items.json
+Item.180033,Hina&#x27;s Homemade Chocolate,items.json
+Item.180034,A Relaxing Bite,items.json
+Item.180035,Delicious Chocolate! Really!,items.json
+Item.180036,Boss&#x27; Finest Chocolate,items.json
+Item.180037,Roulette from Hell,items.json
+Item.180038,Mug of Hot Cocoa,items.json
+Item.180039,Gave-It-All Chocolate,items.json
+Item.180040,Our Time Together,items.json
+Item.180041,Chocolate Gift Set,items.json
+Item.180042,The Final Choice,items.json
+Item.180043,Advance! Upalupa Chocolate,items.json
+Item.180044,Midori&#x27;s Homemade Chocolate,items.json
+Item.180045,Chocolate Tsujiura Senbei,items.json
+Item.180046,Momoyodou Limited Dessert,items.json
+Item.180047,Chocolate Ninja Set No. 49!,items.json
+Item.180048,Chocolate Sleep Kit,items.json
+Item.180049,Wakamo&#x27;s Love Chocolate,items.json
+Item.180050,Gourmet Matcha Chocolate,items.json
+Item.180051,"Skullman, the Valentine Saint",items.json
+Item.180052,Lovely Cross Line,items.json
+Item.180053,Twinkling Star,items.json
+Item.180054,Chocolate Sister Figure,items.json
+Item.180055,Bead Chocolate,items.json
+Item.180056,Be With You,items.json
+Item.180057,Pennyroyal Chocolate Mint,items.json
+Item.180058,Limited Yoshimi Edition,items.json
+Item.180059,Chocolate Over Words,items.json
+Item.180060,Homemade Fortune Chocolate,items.json
+Item.180061,Bandaged Chocolate,items.json
+Item.180062,Cacao 99.99%,items.json
+Item.180063,Twisted Valentine,items.json
+Item.180064,Made By Maid,items.json
+Item.180065,Chocolate Omurice,items.json
+Item.180066,Chocolate Dragon Engraving,items.json
+Item.180067,Valentine&#x27;s Origins,items.json
+Item.180068,Chocolate Sakazuki,items.json
+Item.180069,Almond Crimson,items.json
+Item.180070,Messily Wrapped Chocolate,items.json
+Item.180071,Chocolate Truffles for Children,items.json
+Item.180072,Squishy Chocolate Cookie,items.json
+Item.180073,Strawberry-Chocolate Cake,items.json
+Item.180074,Small Wrapped Chocolate,items.json
+Item.180075,Thoroughly-Wrapped Chocolate,items.json
+Item.180076,Flowers and Chocolate,items.json
+Item.180077,Decadent Chocolate,items.json
+Item.180078,Cherry Blossom White Chocolate,items.json
+Item.180079,Ultimate Chocosaur,items.json
+Item.180080,Half-Melted Holland Lop Chocolate,items.json
+Item.180081,Delicate Yet Beautiful Super Genius Hacker&#x27;s Chocolate,items.json
+Item.180082,Iroha&#x27;s Handmade Chocolate Breadsticks,items.json
+Item.180083,Ninjutsu Research Club Badge Chocolate Set,items.json
+Item.180084,Chocolate Carrot Cake,items.json
+Item.180085,Chocolate S&#x27;mores,items.json
+Item.180086,Chocolate Caramel Ration,items.json
+Item.180087,Chocolate Bark,items.json
+Item.180088,Chocolate Ink,items.json
+Item.180089,Special Chocolate Medal of Merit,items.json
+Item.180090,Shigure&#x27;s Bittersweet Special,items.json
+Item.180091,Chick-Shaped Chocolate,items.json
+Item.180092,Chocolate-Covered Grapefruit,items.json
+Item.190000,Beginner Tech Notes Raffle Ticket,items.json
+Item.190001,Normal Tech Notes Raffle Ticket,items.json
+Item.190002,Advanced Tech Notes Raffle Ticket,items.json
+Item.190003,Superior Tech Notes Raffle Ticket,items.json
+Item.190010,Beginner Tactical Training Blu-ray Raffle Ticket,items.json
+Item.190011,Normal Tactical Training Blu-ray Raffle Ticket,items.json
+Item.190012,Advanced Tactical Training Blu-ray Raffle Ticket,items.json
+Item.190013,Superior Tactical Training Blu-ray Raffle Ticket,items.json
+Item.191000,Beginner Furniture Raffle Ticket,items.json
+Item.191001,Momo Friends Furniture Raffle Ticket,items.json
+Item.191002,Jellies Arcade Furniture Raffle Ticket,items.json
+Item.191003,Valentine&#x27;s Furniture Raffle Ticket,items.json
+Item.191004,Summer Resort Furniture Raffle Ticket,items.json
+Item.191005,Halloween Furniture Raffle Ticket,items.json
+Item.191006,Hot Springs Resort Furniture Raffle Ticket,items.json
+Item.191007,New Year Furniture Raffle Ticket,items.json
+Item.191008,Military Campground Furniture Raffle Ticket,items.json
+Item.191009,Beachside Furniture Raffle Ticket,items.json
+Item.191010,Field Day Furniture Raffle Ticket,items.json
+Item.191011,Abydos Classroom Furniture Raffle Ticket,items.json
+Item.191012,Game Development Department Furniture Raffle Ticket,items.json
+Item.191013,Sunshine Resort Furniture Raffle Ticket,items.json
+Item.191991,Furniture Raffle Ticket (R),items.json
+Item.191992,Furniture Raffle Ticket (SR),items.json
+Item.191993,Furniture Raffle Ticket (SSR),items.json
+Item.191999,Etc. Furniture Raffle Ticket,items.json
+Item.200000,Phrenapates&#x27;s Credit Card,items.json
+Item.200001,Credit Card Shards,items.json

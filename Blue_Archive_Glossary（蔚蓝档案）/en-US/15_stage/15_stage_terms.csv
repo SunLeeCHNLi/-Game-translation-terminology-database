@@ -1,0 +1,659 @@
+﻿id,term,src_table
+Stage.Campaign.1011101,Aoba Central Building 35,stages.json:Campaign
+Stage.Campaign.1011102,D.U. West Park,stages.json:Campaign
+Stage.Campaign.1011103,Kuro Neko Market,stages.json:Campaign
+Stage.Campaign.1011104,Hub Building 1,stages.json:Campaign
+Stage.Campaign.1011105,D.U. Zone 577,stages.json:Campaign
+Stage.Campaign.1012101,Aoba Central Building 99,stages.json:Campaign
+Stage.Campaign.1012102,D.U. West Central Park Area,stages.json:Campaign
+Stage.Campaign.1012103,Kuro Neko Market Outskirts,stages.json:Campaign
+Stage.Campaign.1021101,Futaba Park,stages.json:Campaign
+Stage.Campaign.1021102,N. District 3rd St.,stages.json:Campaign
+Stage.Campaign.1021103,Shiromon Market 86,stages.json:Campaign
+Stage.Campaign.1021104,N. District Shiba Town,stages.json:Campaign
+Stage.Campaign.1021105,"Business District 7, Zone 1",stages.json:Campaign
+Stage.Campaign.1022101,Futaba Park Sports Center,stages.json:Campaign
+Stage.Campaign.1022102,Neighborhood Park Center,stages.json:Campaign
+Stage.Campaign.1022103,N. District 5th St.,stages.json:Campaign
+Stage.Campaign.1031101,Black Market Building 1,stages.json:Campaign
+Stage.Campaign.1031102,Black Market S. District,stages.json:Campaign
+Stage.Campaign.1031103,KV Highway Zone 7,stages.json:Campaign
+Stage.Campaign.1031104,Black Market N. District,stages.json:Campaign
+Stage.Campaign.1031105,"3rd Arterial Road, 3-51",stages.json:Campaign
+Stage.Campaign.1031401,KVハイウェイ35番道路,stages.json:Campaign
+Stage.Campaign.1032101,Black Market Central Area,stages.json:Campaign
+Stage.Campaign.1032102,Black Market Outskirts,stages.json:Campaign
+Stage.Campaign.1032103,KV Highway Zone 9,stages.json:Campaign
+Stage.Campaign.1041101,N. District Tamagawa River,stages.json:Campaign
+Stage.Campaign.1041102,S. District Nishigawa River,stages.json:Campaign
+Stage.Campaign.1041103,"Abydos Main Street, 3rd Avenue",stages.json:Campaign
+Stage.Campaign.1041104,Sunaomachi 2nd St.,stages.json:Campaign
+Stage.Campaign.1041105,Sunaomachi 3rd St.,stages.json:Campaign
+Stage.Campaign.1042101,North Tamagawa Green Zone,stages.json:Campaign
+Stage.Campaign.1042102,"Abydos Main Street, 1st Ave.",stages.json:Campaign
+Stage.Campaign.1042103,Sunaomachi 5th St.,stages.json:Campaign
+Stage.Campaign.1051101,"Abydos Main Line, Shiromori Station",stages.json:Campaign
+Stage.Campaign.1051102,"Abydos Main Line, Yotsuba Station",stages.json:Campaign
+Stage.Campaign.1051103,Western Ruins,stages.json:Campaign
+Stage.Campaign.1051104,Kaiser PMC Garrison,stages.json:Campaign
+Stage.Campaign.1051105,Eastern Ruins,stages.json:Campaign
+Stage.Campaign.1052101,E. District Shinkiro Station,stages.json:Campaign
+Stage.Campaign.1052102,Eastern Ruins Central Area,stages.json:Campaign
+Stage.Campaign.1052103,Eastern Ruins Outskirts,stages.json:Campaign
+Stage.Campaign.1061101,Kitayama District 2nd St.,stages.json:Campaign
+Stage.Campaign.1061102,Hachi Mountain Ridge Section,stages.json:Campaign
+Stage.Campaign.1061103,Kishu Mountain Sakura Pass,stages.json:Campaign
+Stage.Campaign.1061104,Kishu Mountain Suzuran Pass,stages.json:Campaign
+Stage.Campaign.1061105,Akita Mountain Valley,stages.json:Campaign
+Stage.Campaign.1061401,穐田山ウスイ峠,stages.json:Campaign
+Stage.Campaign.1062101,Kitayama District Central Area,stages.json:Campaign
+Stage.Campaign.1062102,Hachi Mountain Outskirts Trail,stages.json:Campaign
+Stage.Campaign.1062103,Kishu Mountain Outskirts Trail,stages.json:Campaign
+Stage.Campaign.1071101,S. District Public Academy 2,stages.json:Campaign
+Stage.Campaign.1071102,Arius Satellite School East Wing,stages.json:Campaign
+Stage.Campaign.1071103,Clock Tower Station,stages.json:Campaign
+Stage.Campaign.1071104,Central Ward Office,stages.json:Campaign
+Stage.Campaign.1071105,Lake Park Station,stages.json:Campaign
+Stage.Campaign.1072101,Arius Satellite School Building,stages.json:Campaign
+Stage.Campaign.1072102,Kuroyagi Station (Closed),stages.json:Campaign
+Stage.Campaign.1072103,Kurunagi Station (Closed),stages.json:Campaign
+Stage.Campaign.1081101,Suzuki Metal Factory,stages.json:Campaign
+Stage.Campaign.1081102,Kaiser PMC Munitions Factory,stages.json:Campaign
+Stage.Campaign.1081103,N. District Storm Sewer Pipe 3,stages.json:Campaign
+Stage.Campaign.1081104,E. District Storm Sewer Pipe 1,stages.json:Campaign
+Stage.Campaign.1081105,E. District Storm Sewer Pipe 7,stages.json:Campaign
+Stage.Campaign.1082101,Abandoned Factory,stages.json:Campaign
+Stage.Campaign.1082102,Hub Sewer Pipe 4,stages.json:Campaign
+Stage.Campaign.1082103,Hub Sewer Pipe 7,stages.json:Campaign
+Stage.Campaign.1091101,Ametako Market,stages.json:Campaign
+Stage.Campaign.1091102,Tsukiten Market,stages.json:Campaign
+Stage.Campaign.1091103,Kousagi Park,stages.json:Campaign
+Stage.Campaign.1091104,Sazanami Park,stages.json:Campaign
+Stage.Campaign.1091105,Sumomo Park,stages.json:Campaign
+Stage.Campaign.1091401,月天市場横丁,stages.json:Campaign
+Stage.Campaign.1092101,Ametako Market Central Area,stages.json:Campaign
+Stage.Campaign.1092102,E. District Area Park,stages.json:Campaign
+Stage.Campaign.1092103,N. District Sports Park,stages.json:Campaign
+Stage.Campaign.1101101,Nogakucho District 1st St.,stages.json:Campaign
+Stage.Campaign.1101102,A-Class Closed Zone Building 3,stages.json:Campaign
+Stage.Campaign.1101103,B-Class Closed Zone Building 1,stages.json:Campaign
+Stage.Campaign.1101104,C-Class Closed Zone Building 7,stages.json:Campaign
+Stage.Campaign.1101105,D-Class Closed Zone Building 5,stages.json:Campaign
+Stage.Campaign.1102101,A-Class Closed Zone Central Area,stages.json:Campaign
+Stage.Campaign.1102102,B-Class Closed Zone Central Area,stages.json:Campaign
+Stage.Campaign.1102103,C-Class Closed Zone Central Area,stages.json:Campaign
+Stage.Campaign.1111101,KV Highway Zone 1,stages.json:Campaign
+Stage.Campaign.1111102,Outer Beltway 11,stages.json:Campaign
+Stage.Campaign.1111103,Aoba W. District Building 9,stages.json:Campaign
+Stage.Campaign.1111104,"Business District 3, Area 1",stages.json:Campaign
+Stage.Campaign.1111105,Hub Building 3,stages.json:Campaign
+Stage.Campaign.1112101,KV Highway Zone 5,stages.json:Campaign
+Stage.Campaign.1112102,Business District 4 Area 4,stages.json:Campaign
+Stage.Campaign.1112103,Hub Building 7,stages.json:Campaign
+Stage.Campaign.1121101,Kawaminami Station,stages.json:Campaign
+Stage.Campaign.1121102,Kamimori Station,stages.json:Campaign
+Stage.Campaign.1121103,Hub Storm Sewer Pipe 6,stages.json:Campaign
+Stage.Campaign.1121104,Kawanishi Station,stages.json:Campaign
+Stage.Campaign.1121105,W. District Sewer Pipe 2,stages.json:Campaign
+Stage.Campaign.1121401,上森駅南口（工事中）,stages.json:Campaign
+Stage.Campaign.1122101,Hub Sewer Pipe 1,stages.json:Campaign
+Stage.Campaign.1122102,Utopia Park Station (Closed),stages.json:Campaign
+Stage.Campaign.1122103,W. District Sewer Pipe 1,stages.json:Campaign
+Stage.Campaign.1131101,Dream Zone,stages.json:Campaign
+Stage.Campaign.1131102,Fantasy Zone,stages.json:Campaign
+Stage.Campaign.1131103,Adventure Zone,stages.json:Campaign
+Stage.Campaign.1131104,Thrill Zone,stages.json:Campaign
+Stage.Campaign.1131105,Wild Zone,stages.json:Campaign
+Stage.Campaign.1132101,Admin Building Zone 2,stages.json:Campaign
+Stage.Campaign.1132102,Admin Building Zone 5,stages.json:Campaign
+Stage.Campaign.1132103,Admin Building Zone 7,stages.json:Campaign
+Stage.Campaign.1141101,Old Anemone Academy Site,stages.json:Campaign
+Stage.Campaign.1141102,(Former) Private Hyacinth Academy,stages.json:Campaign
+Stage.Campaign.1141103,Linaria Academy (Closed),stages.json:Campaign
+Stage.Campaign.1141104,Old Public Lupine Academy Site,stages.json:Campaign
+Stage.Campaign.1141105,Kuroyuri Academy (Closed),stages.json:Campaign
+Stage.Campaign.1142101,Anemone Practice Hall,stages.json:Campaign
+Stage.Campaign.1142102,Linaria Academy Main Building,stages.json:Campaign
+Stage.Campaign.1142103,Lupine Annex Building,stages.json:Campaign
+Stage.Campaign.1151101,Red Star Road,stages.json:Campaign
+Stage.Campaign.1151102,Black Beard Revolution Plaza,stages.json:Campaign
+Stage.Campaign.1151103,Blue Star Road,stages.json:Campaign
+Stage.Campaign.1151104,White Marten Shopping District,stages.json:Campaign
+Stage.Campaign.1151105,Great Owl Market,stages.json:Campaign
+Stage.Campaign.1151401,アオバズクアーケード,stages.json:Campaign
+Stage.Campaign.1152101,Black Star Road,stages.json:Campaign
+Stage.Campaign.1152102,Black Marten Shopping District,stages.json:Campaign
+Stage.Campaign.1152103,Eagle-Owl Market,stages.json:Campaign
+Stage.Campaign.1161101,Northern Ruins,stages.json:Campaign
+Stage.Campaign.1161102,W. District Wadi River,stages.json:Campaign
+Stage.Campaign.1161103,Southern Ruins,stages.json:Campaign
+Stage.Campaign.1161104,C. District Jarigawa River,stages.json:Campaign
+Stage.Campaign.1161105,PMC Garage,stages.json:Campaign
+Stage.Campaign.1162101,Northern Ruins Outskirts,stages.json:Campaign
+Stage.Campaign.1162102,Wadi Riverside Downstream,stages.json:Campaign
+Stage.Campaign.1162103,Southern Ruins Central Area,stages.json:Campaign
+Stage.Campaign.1171101,Paradise Play Road,stages.json:Campaign
+Stage.Campaign.1171102,Paradise Cafe,stages.json:Campaign
+Stage.Campaign.1171103,Paradise Restaurant,stages.json:Campaign
+Stage.Campaign.1171104,Paradise Hall,stages.json:Campaign
+Stage.Campaign.1171105,Paradise Top Floor,stages.json:Campaign
+Stage.Campaign.1172101,Paradise Event Hall J,stages.json:Campaign
+Stage.Campaign.1172102,Paradise Event Hall Q,stages.json:Campaign
+Stage.Campaign.1172103,Paradise Event Hall K,stages.json:Campaign
+Stage.Campaign.1181101,D.U. Lostway West,stages.json:Campaign
+Stage.Campaign.1181102,D.U. Lostway Intersection,stages.json:Campaign
+Stage.Campaign.1181103,Abandoned Development District,stages.json:Campaign
+Stage.Campaign.1181104,D.U. Lostway East,stages.json:Campaign
+Stage.Campaign.1181105,(Former) Business District 56,stages.json:Campaign
+Stage.Campaign.1181401,旧第34番商業地区,stages.json:Campaign
+Stage.Campaign.1182101,Lost Highway Zone 1,stages.json:Campaign
+Stage.Campaign.1182102,Lost Highway Zone 2,stages.json:Campaign
+Stage.Campaign.1182103,Lost Highway Zone 3,stages.json:Campaign
+Stage.Campaign.1191101,Snowfield District Area 1,stages.json:Campaign
+Stage.Campaign.1191102,Snowfield Northbound Arterial,stages.json:Campaign
+Stage.Campaign.1191103,Snowfield District Area 2,stages.json:Campaign
+Stage.Campaign.1191104,Hokuroku Central Line,stages.json:Campaign
+Stage.Campaign.1191105,Snowfield District Area 3,stages.json:Campaign
+Stage.Campaign.1192101,Shinsetsu Main Line,stages.json:Campaign
+Stage.Campaign.1192102,Mt. Biyori,stages.json:Campaign
+Stage.Campaign.1192103,Mt. Nomyogiri,stages.json:Campaign
+Stage.Campaign.1201101,Shiny Town 3F Hallway,stages.json:Campaign
+Stage.Campaign.1201102,Triple Blue Sports Center,stages.json:Campaign
+Stage.Campaign.1201103,Scramble City 12F Hallway,stages.json:Campaign
+Stage.Campaign.1201104,Dream Gymnasium,stages.json:Campaign
+Stage.Campaign.1201105,Cocoon Building 32F Hallway,stages.json:Campaign
+Stage.Campaign.1202101,Triple Blue Sports Zone 1,stages.json:Campaign
+Stage.Campaign.1202102,Triple Blue Sports Zone 2,stages.json:Campaign
+Stage.Campaign.1202103,Shiny Town 1F Corridor,stages.json:Campaign
+Stage.Campaign.1211101,Arius Main Building Entrance,stages.json:Campaign
+Stage.Campaign.1211102,Old Town Exit,stages.json:Campaign
+Stage.Campaign.1211103,Porta Pacis Plaza,stages.json:Campaign
+Stage.Campaign.1211104,Shadowed Street Exit,stages.json:Campaign
+Stage.Campaign.1211105,Near Toledo Cathedral,stages.json:Campaign
+Stage.Campaign.1211401,階段通り・中央路,stages.json:Campaign
+Stage.Campaign.1212101,Road of the Prelate,stages.json:Campaign
+Stage.Campaign.1212102,Sedimentary Street,stages.json:Campaign
+Stage.Campaign.1212103,Road to the Basilica,stages.json:Campaign
+Stage.Campaign.1221101,メリエハビーチ,stages.json:Campaign
+Stage.Campaign.1221102,シーサイドビーチ,stages.json:Campaign
+Stage.Campaign.1221103,オーシャンパレス,stages.json:Campaign
+Stage.Campaign.1221104,ザ・ベイ301路,stages.json:Campaign
+Stage.Campaign.1221105,水辺公園北路,stages.json:Campaign
+Stage.Campaign.1222101,メリエハビーチの月見通り,stages.json:Campaign
+Stage.Campaign.1222102,雲掛け通り,stages.json:Campaign
+Stage.Campaign.1222103,展望台進入路,stages.json:Campaign
+Stage.Campaign.1231101,ルビーマンション東側の廊下,stages.json:Campaign
+Stage.Campaign.1231102,ルビーマンション中央ロビー,stages.json:Campaign
+Stage.Campaign.1231103,旧廊下進入路,stages.json:Campaign
+Stage.Campaign.1231104,ゲストルーム出入口,stages.json:Campaign
+Stage.Campaign.1231105,セーフルーム連絡通路,stages.json:Campaign
+Stage.Campaign.1232101,ルビーマンション回廊出入口,stages.json:Campaign
+Stage.Campaign.1232102,秘密の廊下・東側,stages.json:Campaign
+Stage.Campaign.1232103,マンション玄関進入路,stages.json:Campaign
+Stage.Event.8012301,Cherry Blossom Grounds Building 3,stages.json:Event
+Stage.Event.8012302,Cherry Blossom Grounds Building 12,stages.json:Event
+Stage.Event.8012303,Fox Market Central Area,stages.json:Event
+Stage.Event.8012304,Fox Market East Street,stages.json:Event
+Stage.Event.8012305,Fox Market Southern Outskirts,stages.json:Event
+Stage.Event.8012306,Hyakkiyako Cherry Blossom Festival Central Square,stages.json:Event
+Stage.Event.8012307,[Challenge] vs Hyakkiyako Mouryo Gang!,stages.json:Event
+Stage.Event.8022101,White Mustache Road,stages.json:Event
+Stage.Event.8022102,Penguin Highway Zone 1,stages.json:Event
+Stage.Event.8022103,Beluga Market,stages.json:Event
+Stage.Event.8022104,Black Mustache Road,stages.json:Event
+Stage.Event.8022105,Penguin Highway Zone 3,stages.json:Event
+Stage.Event.8022106,Black Dolphin Market,stages.json:Event
+Stage.Event.8022107,Red Mustache Road,stages.json:Event
+Stage.Event.8023101,Gari Gari Snowy Mountains,stages.json:Event
+Stage.Event.8023301,Kachi Kachi Snowy Mountains,stages.json:Event
+Stage.Event.8023302,Cherino Inauguration Street,stages.json:Event
+Stage.Event.8032301,Ocean Side Road 66,stages.json:Event
+Stage.Event.8032302,East Shiny Sand Beach,stages.json:Event
+Stage.Event.8032303,West Shiny Sand Beach,stages.json:Event
+Stage.Event.8032104,Deception Beach,stages.json:Event
+Stage.Event.8032305,Sea Urchin Inhabited Area,stages.json:Event
+Stage.Event.8032306,Jellyfish Inhabited Area,stages.json:Event
+Stage.Event.8032307,Thorny Pufferfish Inhabited Area,stages.json:Event
+Stage.Event.8032108,Shark Boulder Area,stages.json:Event
+Stage.Event.8032309,Seaweed Beach,stages.json:Event
+Stage.Event.8032310,Green Laver Beach,stages.json:Event
+Stage.Event.8032311,Blue Crab Beach,stages.json:Event
+Stage.Event.8032112,Beach by Vista Point,stages.json:Event
+Stage.Event.8033301,Whale Mouth Beach,stages.json:Event
+Stage.Event.8033302,Water Ghost Boulder Area,stages.json:Event
+Stage.Event.8033103,No Swimming Area No.1,stages.json:Event
+Stage.Event.8042301,Reconstruction Planned Area C,stages.json:Event
+Stage.Event.8042302,West Araba Beach,stages.json:Event
+Stage.Event.8042303,Araba Slum Area 1,stages.json:Event
+Stage.Event.8042304,Araba Slum Area 3,stages.json:Event
+Stage.Event.8042305,Prefect Team Rescue Training Area,stages.json:Event
+Stage.Event.8042306,Slum Restricted Area C,stages.json:Event
+Stage.Event.8042307,Slum Restricted Area F,stages.json:Event
+Stage.Event.8042308,Araba Beach Central Area,stages.json:Event
+Stage.Event.8042309,North Araba Slum Street,stages.json:Event
+Stage.Event.8042310,East Araba Beach,stages.json:Event
+Stage.Event.8043301,Araba Hot Springs Construction Area,stages.json:Event
+Stage.Event.8043302,Prefect Team March Training Area,stages.json:Event
+Stage.Event.8043303,Araba Slum Central Plaza,stages.json:Event
+Stage.Event.8052301,1st Northeast Road,stages.json:Event
+Stage.Event.8052302,90-7 Orchid Road,stages.json:Event
+Stage.Event.8052303,6th Southeast Road,stages.json:Event
+Stage.Event.8052304,52-9 Chrysanthemum Road,stages.json:Event
+Stage.Event.8052305,3rd Southwest Road,stages.json:Event
+Stage.Event.8052306,Gourmet Alley,stages.json:Event
+Stage.Event.8052307,5th Northwest Road,stages.json:Event
+Stage.Event.8052308,North Black Tortoise Road,stages.json:Event
+Stage.Event.8052309,Black Bamboo Stroll Path,stages.json:Event
+Stage.Event.8052310,South Black Tortoise Road,stages.json:Event
+Stage.Event.8052311,Red Mushroom Stroll Path,stages.json:Event
+Stage.Event.8052312,In Front of Black Tortoise Promenade Office,stages.json:Event
+Stage.Event.8053301,Black Tortoise Back Alley,stages.json:Event
+Stage.Event.8053302,Central Road 4th St.,stages.json:Event
+Stage.Event.8053303,Red Dragon Bridge,stages.json:Event
+Stage.Event.8062101,White View Marina,stages.json:Event
+Stage.Event.8062102,White View Beach,stages.json:Event
+Stage.Event.8062103,White View Sand Dune,stages.json:Event
+Stage.Event.8062104,White View Lagoon,stages.json:Event
+Stage.Event.8062105,White View Beach Entrance,stages.json:Event
+Stage.Event.8062106,White View Beach,stages.json:Event
+Stage.Event.8062107,East Coastal Sand Beach,stages.json:Event
+Stage.Event.8062108,West Coastal Sand Beach,stages.json:Event
+Stage.Event.8062109,Edge of the Coastal Sand Beach,stages.json:Event
+Stage.Event.8063301,Royal Room Zone,stages.json:Event
+Stage.Event.8063102,Ocean Atrium,stages.json:Event
+Stage.Event.8063303,VIP Hall,stages.json:Event
+Stage.Event.8082301,Brown Bear Open-Air Bath,stages.json:Event
+Stage.Event.8082302,Red Bear Open-Air Bath,stages.json:Event
+Stage.Event.8082303,Hot Springs Resort No. 58 Bridge,stages.json:Event
+Stage.Event.8082104,Hot Springs Resort No. 227 Bridge,stages.json:Event
+Stage.Event.8082305,Capybara Valley,stages.json:Event
+Stage.Event.8082306,Capybara Pond,stages.json:Event
+Stage.Event.8082307,East Umbrella Liverwort Garden,stages.json:Event
+Stage.Event.8082108,West Willow Moss Garden,stages.json:Event
+Stage.Event.8082309,Elm Tree Bath,stages.json:Event
+Stage.Event.8082310,Cherry Tree Bath,stages.json:Event
+Stage.Event.8082311,VIP Guest Trail,stages.json:Event
+Stage.Event.8082112,Bamboo Recreation Center,stages.json:Event
+Stage.Event.8083301,Capybara Habitat,stages.json:Event
+Stage.Event.8083102,Resort Redevelopment Site,stages.json:Event
+Stage.Event.8083303,Nodoka&#x27;s Secret Garden,stages.json:Event
+Stage.Event.8083104,Special Student Exclusive Trail,stages.json:Event
+Stage.Event.8083305,Very Difficult VIP Hot Springs,stages.json:Event
+Stage.Event.8092301,Sunrise Mountain Southern Road,stages.json:Event
+Stage.Event.8092302,Plum Blossom Path Entrance,stages.json:Event
+Stage.Event.8092303,Plum Blossom Viewing Path,stages.json:Event
+Stage.Event.8092304,South Smooth Rock Road,stages.json:Event
+Stage.Event.8092305,Smooth Rock Road,stages.json:Event
+Stage.Event.8092306,Singing Stream,stages.json:Event
+Stage.Event.8092307,South Wishing Road,stages.json:Event
+Stage.Event.8092308,Wishing Road,stages.json:Event
+Stage.Event.8092309,North Wishing Road,stages.json:Event
+Stage.Event.8092310,Sky Wind Creek,stages.json:Event
+Stage.Event.8092311,Sunrise Mountain Northern Road,stages.json:Event
+Stage.Event.8092312,Plum Blossom Viewing Path Exit,stages.json:Event
+Stage.Event.8093301,Lotus Flower Rest Area,stages.json:Event
+Stage.Event.8093102,Near the Old Tree,stages.json:Event
+Stage.Event.8093303,Lamp Intersection (North),stages.json:Event
+Stage.Event.8093104,Forked Mountain Road,stages.json:Event
+Stage.Event.8093305,Sunrise Observatory,stages.json:Event
+Stage.Event.8102301,D.U. Central Road,stages.json:Event
+Stage.Event.8102302,KV Highway Zone 2,stages.json:Event
+Stage.Event.8102303,D.U. Zone 427,stages.json:Event
+Stage.Event.8102304,KV Highway Zone 4,stages.json:Event
+Stage.Event.8102305,Front of the D.U. City Library,stages.json:Event
+Stage.Event.8102306,KV Highway Zone 13,stages.json:Event
+Stage.Event.8102307,D.U. Shopping District Entrance,stages.json:Event
+Stage.Event.8102308,KV Highway Zone 26,stages.json:Event
+Stage.Event.8102309,D.U. Stop 7,stages.json:Event
+Stage.Event.8102310,KV Highway Zone 37,stages.json:Event
+Stage.Event.8102311,D.U. Subway Exit,stages.json:Event
+Stage.Event.8102312,KV Highway Zone 43,stages.json:Event
+Stage.Event.8103301,D.U. Stop 2,stages.json:Event
+Stage.Event.8103102,D.U. Zone 51,stages.json:Event
+Stage.Event.8103303,KV Highway Zone 25,stages.json:Event
+Stage.Event.8103104,D.U. Bridge Entrance,stages.json:Event
+Stage.Event.8103305,KV Highway Zone 3,stages.json:Event
+Stage.Event.8111301,D.U. South Street,stages.json:Event
+Stage.Event.8111302,Cherry Blossom Grounds Building 77,stages.json:Event
+Stage.Event.8111303,East Whale Mouth Beach,stages.json:Event
+Stage.Event.8111304,Central District Block 7,stages.json:Event
+Stage.Event.8111305,Araba Slum Area 7,stages.json:Event
+Stage.Event.8111306,52-7 Chrysanthemum Road,stages.json:Event
+Stage.Event.8111307,Paradise Event Hall A,stages.json:Event
+Stage.Event.8111308,D.U. Zone 1,stages.json:Event
+Stage.Event.8122301,Trinity Cathedral Entrance,stages.json:Event
+Stage.Event.8122302,Chapel Entrance,stages.json:Event
+Stage.Event.8122303,Cathedral Chapel 1,stages.json:Event
+Stage.Event.8122304,Cathedral Chapel 2,stages.json:Event
+Stage.Event.8122305,Cathedral Conference Room,stages.json:Event
+Stage.Event.8122306,Cathedral Small Auditorium,stages.json:Event
+Stage.Event.8122307,Cathedral Large Auditorium,stages.json:Event
+Stage.Event.8122308,Cathedral Storage Room,stages.json:Event
+Stage.Event.8122309,Cathedral Confessional,stages.json:Event
+Stage.Event.8122310,Cathedral Waiting Room,stages.json:Event
+Stage.Event.8122311,Cathedral Staff Room,stages.json:Event
+Stage.Event.8122312,Trinity Cathedral Exit,stages.json:Event
+Stage.Event.8123301,Cathedral Ruins Entrance,stages.json:Event
+Stage.Event.8123102,Cathedral Ruins Center,stages.json:Event
+Stage.Event.8123303,Cathedral Ruins Worship Site,stages.json:Event
+Stage.Event.8123104,Cathedral Ruins Main Site,stages.json:Event
+Stage.Event.8123305,Old Cathedral Exit,stages.json:Event
+Stage.Event.8132301,In Front of the Kama-Boko Stage,stages.json:Event
+Stage.Event.8132302,Behind the Kama-Boko Stage,stages.json:Event
+Stage.Event.8132303,Historical Drama No. 1 Exhibition Street,stages.json:Event
+Stage.Event.8132304,Historical Drama No. 4 Exhibition Street,stages.json:Event
+Stage.Event.8132305,Mushiqueen Show Room No. 2,stages.json:Event
+Stage.Event.8132306,Whirlpool Market Street,stages.json:Event
+Stage.Event.8132307,Mushiqueen Show Room No. 3,stages.json:Event
+Stage.Event.8132308,Mushiqueen Tourney Final Stage,stages.json:Event
+Stage.Event.8132309,In Front of the Whirlpool Souvenir Shop,stages.json:Event
+Stage.Event.8132310,In Front of the Whirlpool Film Studio,stages.json:Event
+Stage.Event.8132311,Director Shiba Dog Memorial Hall,stages.json:Event
+Stage.Event.8132312,Hyakkiyako Academy Promo Street,stages.json:Event
+Stage.Event.8133301,Whirlpool Teahouse Front Yard,stages.json:Event
+Stage.Event.8133102,Whirlpool Studio Zone 1,stages.json:Event
+Stage.Event.8133303,In Front of the Princess Waraku Stage,stages.json:Event
+Stage.Event.8133104,Whirlpool Studio Zone 7,stages.json:Event
+Stage.Event.8133305,Behind the Princess Waraku Stage,stages.json:Event
+Stage.Event.8142301,Resort Designated Beach Entrance,stages.json:Event
+Stage.Event.8142302,Resort Designated Beach Exit,stages.json:Event
+Stage.Event.8142303,Resort Trail Entrance,stages.json:Event
+Stage.Event.8142304,Resort Trail Exit,stages.json:Event
+Stage.Event.8142305,Siesta Beach Entrance,stages.json:Event
+Stage.Event.8142306,Siesta Beach Exit,stages.json:Event
+Stage.Event.8142307,Parrot Sound Falls Entrance,stages.json:Event
+Stage.Event.8142308,Parrot Sound Falls Exit,stages.json:Event
+Stage.Event.8142309,Starlight Waves Seaside,stages.json:Event
+Stage.Event.8142310,Starlight Waves Beach,stages.json:Event
+Stage.Event.8142311,Riverside Wooden Bridge Entrance,stages.json:Event
+Stage.Event.8142312,Riverside Wooden Bridge Exit,stages.json:Event
+Stage.Event.8143301,Neglected Seaside,stages.json:Event
+Stage.Event.8143102,Abandoned Courage Test Course,stages.json:Event
+Stage.Event.8143303,Courage Test Course Exit,stages.json:Event
+Stage.Event.8143104,Seabreeze Beach,stages.json:Event
+Stage.Event.8143305,Seabreeze Beach Exit,stages.json:Event
+Stage.Event.8162301,No. 7 Relaxed Road,stages.json:Event
+Stage.Event.8162302,Back of No.7 Relaxed Road,stages.json:Event
+Stage.Event.8162303,Back of Trinity Fountain Park,stages.json:Event
+Stage.Event.8162304,Thump Street,stages.json:Event
+Stage.Event.8162305,Front of Loafer Street,stages.json:Event
+Stage.Event.8162306,2-5 Dark Street,stages.json:Event
+Stage.Event.8162307,Back of Verdant Park,stages.json:Event
+Stage.Event.8162308,Loafer Street,stages.json:Event
+Stage.Event.8162309,No. 7 Street,stages.json:Event
+Stage.Event.8162310,2-1 Dark Street,stages.json:Event
+Stage.Event.8162311,Front of Verdant Park,stages.json:Event
+Stage.Event.8162312,Desolate Street 10,stages.json:Event
+Stage.Event.8163301,Front of D.U. Zone,stages.json:Event
+Stage.Event.8163102,D.U. Area,stages.json:Event
+Stage.Event.8163303,Thug-Occupied Outskirts,stages.json:Event
+Stage.Event.8163104,Thug-Occupied Area,stages.json:Event
+Stage.Event.8163305,Back of D.U. Junkyard,stages.json:Event
+Stage.Event.8172301,Athlete Standby Zone,stages.json:Event
+Stage.Event.8172302,100-Meter Race Track,stages.json:Event
+Stage.Event.8172303,Ball Rolling Track,stages.json:Event
+Stage.Event.8172304,100-Meter Hurdle Track,stages.json:Event
+Stage.Event.8172305,200-Meter Race Track,stages.json:Event
+Stage.Event.8172306,"1,000-Meter Starting Point",stages.json:Event
+Stage.Event.8172307,4x400-Meter Relay Track,stages.json:Event
+Stage.Event.8172308,400-Meter Race Track,stages.json:Event
+Stage.Event.8172309,Basketball Team Clubhouse,stages.json:Event
+Stage.Event.8172310,Locker Room Zone Rear Passage,stages.json:Event
+Stage.Event.8172311,Volleyball Team Clubhouse,stages.json:Event
+Stage.Event.8172312,Front of Fitness Verification Center,stages.json:Event
+Stage.Event.8173301,Marathon Track,stages.json:Event
+Stage.Event.8173102,Second Sports Center,stages.json:Event
+Stage.Event.8173303,Third Sports Center,stages.json:Event
+Stage.Event.8173104,"1,500-Meter Race Track",stages.json:Event
+Stage.Event.8173305,Enhanced Athlete Training Zone,stages.json:Event
+Stage.Event.8182301,Warm-Up Track,stages.json:Event
+Stage.Event.8182302,Cheering Section West of Scoreboard,stages.json:Event
+Stage.Event.8182303,First Ball Field,stages.json:Event
+Stage.Event.8182304,Second Ball Field,stages.json:Event
+Stage.Event.8182305,Kivotos Halo Festival Souvenir Shop,stages.json:Event
+Stage.Event.8182306,Cheering Section East of Scoreboard,stages.json:Event
+Stage.Event.8182307,Bizarre Food Eating Competition Special Stage,stages.json:Event
+Stage.Event.8182308,Kivotos Halo Festival Equipment Maintenance Room,stages.json:Event
+Stage.Event.8182309,Bread-Eating Race Track,stages.json:Event
+Stage.Event.8182310,Kivotos Halo Festival After-Party Stage,stages.json:Event
+Stage.Event.8182311,Stadium Small Tool Storage,stages.json:Event
+Stage.Event.8182312,Stadium Heavy Equipment Storage,stages.json:Event
+Stage.Event.8183301,"2,000-Meter Obstacle Course Race Track",stages.json:Event
+Stage.Event.8183102,Starter Athlete Track,stages.json:Event
+Stage.Event.8183303,Athletic Stadium Personnel Zone,stages.json:Event
+Stage.Event.8183104,"3,000-Meter Obstacle Course Race Track",stages.json:Event
+Stage.Event.8183305,Athletic Stadium VIP Zone,stages.json:Event
+Stage.Event.8192301,Dream Bread Second Street,stages.json:Event
+Stage.Event.8192302,Back of Dream Bread Second Street,stages.json:Event
+Stage.Event.8192303,Cold Brew Street Side Road,stages.json:Event
+Stage.Event.8192304,7-5 Dark Side Road,stages.json:Event
+Stage.Event.8192305,Bright Morning Street 7-3,stages.json:Event
+Stage.Event.8192306,Back of Bright Morning Street 7-3,stages.json:Event
+Stage.Event.8192307,"Small Miracle Street, 1st Ave.",stages.json:Event
+Stage.Event.8192308,"Small Miracle Street, 4th Ave.",stages.json:Event
+Stage.Event.8192309,"D.U. East Street, 3rd Ave.",stages.json:Event
+Stage.Event.8192310,Cafe Street Building 228,stages.json:Event
+Stage.Event.8192311,"D.U. West Street, 1st Ave.",stages.json:Event
+Stage.Event.8192312,Cafe Street 9-3 Ave.,stages.json:Event
+Stage.Event.8193301,"Sunset Street, 4th Ave.",stages.json:Event
+Stage.Event.8193102,Daisy Green 2-2,stages.json:Event
+Stage.Event.8193303,"DU Central Street, 7th Ave.",stages.json:Event
+Stage.Event.8193104,"D.U. West Street, 2nd Ave.",stages.json:Event
+Stage.Event.8193305,"Blue Garden, 8th Ave.",stages.json:Event
+Stage.Event.8202301,"Pleasant Walk, 1st St.",stages.json:Event
+Stage.Event.8202302,"Pleasant Walk, 3rd St.",stages.json:Event
+Stage.Event.8202303,Gourmet Road Building 249,stages.json:Event
+Stage.Event.8202304,Back of Gourmet Road Building 249,stages.json:Event
+Stage.Event.8202305,"Favorite Foods Street, 4th Ave.",stages.json:Event
+Stage.Event.8202306,"Favorite Foods Street, 7th Ave.",stages.json:Event
+Stage.Event.8202307,Red Pinwheel Road 2-4,stages.json:Event
+Stage.Event.8202308,Road in Front of Donut Shop,stages.json:Event
+Stage.Event.8202309,West Pelican Bakery Street,stages.json:Event
+Stage.Event.8202310,East Horizon Tree Street,stages.json:Event
+Stage.Event.8202311,Commercial District 8-2,stages.json:Event
+Stage.Event.8202312,Snack Street North Road,stages.json:Event
+Stage.Event.8203301,Alley Behind Foxy,stages.json:Event
+Stage.Event.8203102,Commercial District Access Road,stages.json:Event
+Stage.Event.8203303,Shopping District Overpass,stages.json:Event
+Stage.Event.8203104,Road in Front of Seafood Market,stages.json:Event
+Stage.Event.8203305,OTC Market Side Road,stages.json:Event
+Stage.Event.8242301,"Business District 3, Area 2",stages.json:Event
+Stage.Event.8242302,Shiratori Boulevard,stages.json:Event
+Stage.Event.8242303,Ramini Town East Entrance,stages.json:Event
+Stage.Event.8242304,Ramini Town Access Road,stages.json:Event
+Stage.Event.8242305,Neighborhood Park Entrance,stages.json:Event
+Stage.Event.8242306,Abandoned Theme Park Back Entrance,stages.json:Event
+Stage.Event.8242307,Kanesaki Port Back Alley,stages.json:Event
+Stage.Event.8242308,Kanesaki Port Reconstruction Area 5,stages.json:Event
+Stage.Event.8242309,Plato Avenue North Boulevard,stages.json:Event
+Stage.Event.8242310,Tri-Square South Street,stages.json:Event
+Stage.Event.8242311,Tri-Square 2-7,stages.json:Event
+Stage.Event.8242312,Shiratori City Building 327,stages.json:Event
+Stage.Event.8243301,Back of Shiba Town Building 39,stages.json:Event
+Stage.Event.8243102,"Plato Avenue, 2nd St.",stages.json:Event
+Stage.Event.8243303,Neighborhood Park Southwest Road,stages.json:Event
+Stage.Event.8243104,(Former) Shiratori City Building 9,stages.json:Event
+Stage.Event.8243305,(Former) Ramini Town 8-5,stages.json:Event
+Stage.Event.8252301,外廊下東側の通路,stages.json:Event
+Stage.Event.8252302,廊下進入路,stages.json:Event
+Stage.Event.8252303,回廊左側出入口,stages.json:Event
+Stage.Event.8252304,回廊右側内部路,stages.json:Event
+Stage.Event.8252305,旧廊下東側誘導路,stages.json:Event
+Stage.Event.8252306,旧廊下の窓辺,stages.json:Event
+Stage.Event.8252307,秘密通路南口,stages.json:Event
+Stage.Event.8252308,応接室出入口,stages.json:Event
+Stage.Event.8252309,秘密通路北口,stages.json:Event
+Stage.Event.8252310,ダイニングルーム連絡通路,stages.json:Event
+Stage.Event.8252311,書斎前通路,stages.json:Event
+Stage.Event.8252312,古びたギャラリー,stages.json:Event
+Stage.Event.8253301,玄関直通通路,stages.json:Event
+Stage.Event.8253102,工房の出入口,stages.json:Event
+Stage.Event.8253303,貯蔵庫通路,stages.json:Event
+Stage.Event.8253104,宴会場の出入口,stages.json:Event
+Stage.Event.8253305,モーニングルーム廊下,stages.json:Event
+Stage.Event.8262301,玄武商会客室,stages.json:Event
+Stage.Event.8262302,六和閣通り,stages.json:Event
+Stage.Event.8262303,錬丹術研究会の部室,stages.json:Event
+Stage.Event.8262304,崑崙山・入口,stages.json:Event
+Stage.Event.8262305,山海経・梅花園,stages.json:Event
+Stage.Event.8262306,山海経・中央街,stages.json:Event
+Stage.Event.8262307,青龍街火鍋路・西側,stages.json:Event
+Stage.Event.8262308,青龍街火鍋路・東側,stages.json:Event
+Stage.Event.8262309,玄龍門太閣殿,stages.json:Event
+Stage.Event.8262310,玄武商会本店,stages.json:Event
+Stage.Event.8262311,虹正路北部,stages.json:Event
+Stage.Event.8262312,土砂街入口,stages.json:Event
+Stage.Event.8263301,玄龍門旧通り,stages.json:Event
+Stage.Event.8263102,石膏街開発地区,stages.json:Event
+Stage.Event.8263303,淮海街の中央道,stages.json:Event
+Stage.Event.8263104,白楽亭の表通り,stages.json:Event
+Stage.Event.8263305,新和閣修行路,stages.json:Event
+Stage.Event.8272301,共用水産物荷役場前,stages.json:Event
+Stage.Event.8272302,海産物加工場入口,stages.json:Event
+Stage.Event.8272303,共用冷凍倉庫入口,stages.json:Event
+Stage.Event.8272304,外部閘門制御室入口,stages.json:Event
+Stage.Event.8272305,内側防波堤一帯,stages.json:Event
+Stage.Event.8272306,コンテナ船第2甲板上,stages.json:Event
+Stage.Event.8272307,船着場浮桟橋前,stages.json:Event
+Stage.Event.8272308,海産物加工場の裏門,stages.json:Event
+Stage.Event.8272309,放置された廃漁具集荷場,stages.json:Event
+Stage.Event.8272310,外側防波堤一帯,stages.json:Event
+Stage.Event.8272311,操業禁止区域4-1,stages.json:Event
+Stage.Event.8272312,操業禁止区域5-1,stages.json:Event
+Stage.Event.8273301,漁港第4埠頭,stages.json:Event
+Stage.Event.8273102,施設管理事業所裏門,stages.json:Event
+Stage.Event.8273303,操業禁止区域1-1,stages.json:Event
+Stage.Event.8273104,特殊船舶専用埠頭,stages.json:Event
+Stage.Event.8273305,海産物加工場,stages.json:Event
+Stage.Event.8282301,放棄された訓練場の入口,stages.json:Event
+Stage.Event.8282302,放棄された訓練場の出口,stages.json:Event
+Stage.Event.8282303,歌風海岸南部,stages.json:Event
+Stage.Event.8282304,歌風海岸北部,stages.json:Event
+Stage.Event.8282305,古いビーチバレーコートの入口,stages.json:Event
+Stage.Event.8282306,古いビーチバレーコートの出口,stages.json:Event
+Stage.Event.8282307,ゆるゆる海岸,stages.json:Event
+Stage.Event.8282308,せかせか海岸,stages.json:Event
+Stage.Event.8282309,無人島船着き場東側,stages.json:Event
+Stage.Event.8282310,無人島船着き場西側,stages.json:Event
+Stage.Event.8282311,隠されし海辺,stages.json:Event
+Stage.Event.8282312,隠されし海辺の果て,stages.json:Event
+Stage.Event.8283301,薄暗い海岸の入口,stages.json:Event
+Stage.Event.8283302,薄暗い海岸の出口,stages.json:Event
+Stage.Event.8283303,不気味な海岸,stages.json:Event
+Stage.Event.8283304,未調査の島の裏側,stages.json:Event
+Stage.Event.7012301,Abydos Ruins Zone 1,stages.json:Event
+Stage.Event.7012302,Abydos Ruins Zone 2,stages.json:Event
+Stage.Event.7012303,Closed Station Zone 1,stages.json:Event
+Stage.Event.7012304,Closed Station Zone 2,stages.json:Event
+Stage.Event.7012305,PMC Excavation Site 1,stages.json:Event
+Stage.Event.7012306,PMC Excavation Site 2,stages.json:Event
+Stage.Event.7012307,Closed Station Transfer Area,stages.json:Event
+Stage.Event.7012308,Closed Station Maintenance,stages.json:Event
+Stage.Event.7012309,Ruined Submerged District Zone 1,stages.json:Event
+Stage.Event.7012310,Ruined Submerged District Zone 2,stages.json:Event
+Stage.Event.7013301,Ruined Submerged District Unidentified Zone,stages.json:Event
+Stage.Event.7013302,Ruined Submerged District Restricted Zone A,stages.json:Event
+Stage.Event.7013303,Ruined Submerged District Restricted Zone B,stages.json:Event
+Stage.Event.7013304,Ruined Submerged District Central Area,stages.json:Event
+Stage.Event.108013301,Cherry Blossom Grounds Building 1,stages.json:Event
+Stage.Event.108013102,Raccoon Grounds Building 6,stages.json:Event
+Stage.Event.108013303,Fox Market Northern Exit,stages.json:Event
+Stage.Event.108023303,RBB Station New Annex,stages.json:Event
+Stage.Event.108023304,RBB Station Annex,stages.json:Event
+Stage.Event.108033104,Silver Sand Beach,stages.json:Event
+Stage.Event.108033105,Moonlit Beach,stages.json:Event
+Stage.Event.108043304,Prefect Team Quartered Training Area,stages.json:Event
+Stage.Event.108043305,Prefect Team Night Firing Range,stages.json:Event
+Stage.Event.108053304,Black Tortoise Reconstruction Area,stages.json:Event
+Stage.Event.108053305,Black Giraffe Alley,stages.json:Event
+Stage.Event.108063304,Deep Blue Place,stages.json:Event
+Stage.Event.108063305,Abyss Blue Place,stages.json:Event
+Stage.Conquest.81511211,Deep Sea Hot Springs Island Development Site 1,stages.json:Conquest
+Stage.Conquest.81511121,Deep Sea Hot Springs Island Command Post,stages.json:Conquest
+Stage.Conquest.81511111,Deep Sea Hot Springs Island Entrance,stages.json:Conquest
+Stage.Conquest.81521131,Settle It! Mushiqueen Cruise Finals Showroom,stages.json:Conquest
+Stage.Conquest.81521111,Clash! Mushiqueen Cruise Preliminary Showroom A,stages.json:Conquest
+Stage.Conquest.81521121,Clash! Mushiqueen Cruise Preliminary Showroom B,stages.json:Conquest
+Stage.Conquest.81522131,Bonus! Mushiqueen Cruise Colosseum A,stages.json:Conquest
+Stage.Conquest.81523111,Clash! Mushiqueen Cruise Preliminary Showroom C,stages.json:Conquest
+Stage.Conquest.81523121,Clash! Mushiqueen Cruise Preliminary Showroom D,stages.json:Conquest
+Stage.Conquest.81523131,Bonus! Mushiqueen Cruise Colosseum B,stages.json:Conquest
+Stage.Conquest.81523211,Mushiqueen Cruise Indoor Training Ground,stages.json:Conquest
+Stage.Conquest.81522111,Mushiqueen Cruise Tourney Participant Room A,stages.json:Conquest
+Stage.Conquest.81522121,Mushiqueen Cruise Tourney Participant Room B,stages.json:Conquest
+Stage.Conquest.81521211,Mushiqueen Cruise Inner Lobby,stages.json:Conquest
+Stage.Conquest.81522211,Mushiqueen Cruise Outdoor Training Ground,stages.json:Conquest
+Stage.Conquest.81531131,Ultra Luxury Resort Champion Road,stages.json:Conquest
+Stage.Conquest.81532121,Ultra Luxury Resort Specialty Product Street,stages.json:Conquest
+Stage.Conquest.81532212,Ultra Luxury Resort Rip-Off Street,stages.json:Conquest
+Stage.Conquest.81533211,Ultra Luxury Resort Assembly Area,stages.json:Conquest
+Stage.Conquest.81532131,Ultra Luxury Resort Elegant Road,stages.json:Conquest
+Stage.Conquest.81533131,Black Tortoise Promenade High Recommendation! UItra Luxurious Beach!,stages.json:Conquest
+Stage.Conquest.81531212,Ultra Luxury Resort Hard-Sell Street,stages.json:Conquest
+Stage.Conquest.81531111,Ultra Luxury Resort Food Court,stages.json:Conquest
+Stage.Conquest.81532111,Ultra Luxury Resort Souvenir Street,stages.json:Conquest
+Stage.Conquest.81533111,Black Tortoise Promenade Beach Recommendation! Bang for Your Buck!,stages.json:Conquest
+Stage.Conquest.81533121,Black Tortoise Promenade Beach Recommendation! Great for Having Fun!,stages.json:Conquest
+Stage.Conquest.81531121,Ultra Luxury Resort Shopping District,stages.json:Conquest
+Stage.Conquest.81541131,Helmet Gangsters&#x27; Best Resort Finals Arena,stages.json:Conquest
+Stage.Conquest.81541121,Helmet Gangsters&#x27; Best Resort Trial Arena,stages.json:Conquest
+Stage.Conquest.81542131,Helmet Gangsters&#x27; Worst Cruise Ship 3.0,stages.json:Conquest
+Stage.Conquest.81543131,Kaiser PMC Supply Base,stages.json:Conquest
+Stage.Conquest.81542212,Cruise Ship Temporary Anchorage,stages.json:Conquest
+Stage.Conquest.81543212,Kaiser PMC Patrol Area,stages.json:Conquest
+Stage.Conquest.81541213,Resort Street Outskirts,stages.json:Conquest
+Stage.Conquest.81541111,Helmet Gangsters&#x27; Best Resort Entrance,stages.json:Conquest
+Stage.Conquest.81542121,Helmet Gangsters&#x27; Worst Cruise Ship 2.0,stages.json:Conquest
+Stage.Conquest.81542111,Helmet Gangsters&#x27; Worst Cruise Ship 1.0,stages.json:Conquest
+Stage.Conquest.81543111,Kaiser PMC Base 1,stages.json:Conquest
+Stage.Conquest.81543121,Kaiser PMC Base 2,stages.json:Conquest
+Stage.Conquest.81550211,Highlight of Summer Vacation! Courage Test! Introduction,stages.json:Conquest
+Stage.Conquest.81550221,Highlight of Summer Vacation! Courage Test! Beginner,stages.json:Conquest
+Stage.Conquest.81550231,Highlight of Summer Vacation! Courage Test! Intermediate,stages.json:Conquest
+Stage.Conquest.81550241,Highlight of Summer Vacation! Courage Test! Advanced,stages.json:Conquest
+Stage.Conquest.81550251,Highlight of Summer Vacation! Courage Test! Expert,stages.json:Conquest
+Stage.Conquest.81550261,Highlight of Summer Vacation! Courage Test! Master,stages.json:Conquest
+Stage.Conquest.82211111,Outskirts District 1 Calculation Unit,stages.json:Conquest
+Stage.Conquest.82211211,Outskirts District 1 Calculation Support Unit,stages.json:Conquest
+Stage.Conquest.82211121,Outskirts District 1 Dimension Engine Defense System,stages.json:Conquest
+Stage.Conquest.82221111,Outskirts District 2 Calculation Unit - Alpha,stages.json:Conquest
+Stage.Conquest.82221121,Outskirts District 2 Calculation Unit - Beta,stages.json:Conquest
+Stage.Conquest.82221131,Outskirts District 2 Dimension Engine Defense System,stages.json:Conquest
+Stage.Conquest.82222111,Outskirts District 2 Recording Unit - Alpha,stages.json:Conquest
+Stage.Conquest.82222121,Outskirts District 2 Recording Unit - Beta,stages.json:Conquest
+Stage.Conquest.82222131,Outskirts District 2 Recording Unit - Gamma,stages.json:Conquest
+Stage.Conquest.82223111,Outskirts District 2 Control Unit - Alpha,stages.json:Conquest
+Stage.Conquest.82223121,Outskirts District 2 Control Unit - Beta,stages.json:Conquest
+Stage.Conquest.82223131,Outskirts District 2 Control Unit - Gamma,stages.json:Conquest
+Stage.Conquest.82221211,Outskirts District 2 Calculation Support Unit,stages.json:Conquest
+Stage.Conquest.82222211,Outskirts District 2 Recording Support Unit,stages.json:Conquest
+Stage.Conquest.82223211,Outskirts District 2 Control Support Unit,stages.json:Conquest
+Stage.Conquest.82231111,Outskirts District 3 Calculation Unit - Alpha,stages.json:Conquest
+Stage.Conquest.82231121,Outskirts District 3 Calculation Unit - Beta,stages.json:Conquest
+Stage.Conquest.82231131,Outskirts District 3 Dimension Engine Defense System,stages.json:Conquest
+Stage.Conquest.82232111,Outskirts District 3 Recording Unit - Alpha,stages.json:Conquest
+Stage.Conquest.82232121,Outskirts District 3 Recording Unit - Beta,stages.json:Conquest
+Stage.Conquest.82232131,Outskirts District 3 Recording Unit - Gamma,stages.json:Conquest
+Stage.Conquest.82233111,Outskirts District 3 Control Unit - Alpha,stages.json:Conquest
+Stage.Conquest.82233121,Outskirts District 3 Control Unit - Beta,stages.json:Conquest
+Stage.Conquest.82233131,Outskirts District 3 Control Unit - Delta,stages.json:Conquest
+Stage.Conquest.82231211,Outskirts District 3 Calculation Support Unit,stages.json:Conquest
+Stage.Conquest.82232211,Outskirts District 3 Recording Support Unit,stages.json:Conquest
+Stage.Conquest.82233211,Outskirts District 3 Control Support Unit,stages.json:Conquest
+Stage.Conquest.82241111,Central District Calculation Unit - Alpha,stages.json:Conquest
+Stage.Conquest.82241121,Central District Calculation Unit - Beta,stages.json:Conquest
+Stage.Conquest.82241131,Central District Dimension Engine Defense System,stages.json:Conquest
+Stage.Conquest.82242111,Central District Recording Unit - Alpha,stages.json:Conquest
+Stage.Conquest.82242121,Central District Recording Unit - Beta,stages.json:Conquest
+Stage.Conquest.82242131,Central District Recording Unit - Delta,stages.json:Conquest
+Stage.Conquest.82243111,Central District Control Unit - Alpha,stages.json:Conquest
+Stage.Conquest.82243121,Central District Control Unit - Beta,stages.json:Conquest
+Stage.Conquest.82243131,Central District Control Unit - Delta,stages.json:Conquest
+Stage.Conquest.82241211,Central District Calculation Support Unit,stages.json:Conquest
+Stage.Conquest.82242211,Central District Recording Support Unit,stages.json:Conquest
+Stage.Conquest.82243211,Central District Control Support Unit,stages.json:Conquest
+Stage.Conquest.82250211,Multidimensional Analysis Regulation Support Unit 1,stages.json:Conquest
+Stage.Conquest.82250221,Multidimensional Analysis Regulation Support Unit 2,stages.json:Conquest
+Stage.Conquest.82250231,Multidimensional Analysis Calculation Support Unit 1,stages.json:Conquest
+Stage.Conquest.82250241,Multidimensional Analysis Calculation Support Unit 2,stages.json:Conquest
+Stage.Conquest.82250251,Multidimensional Analysis Control Support Unit,stages.json:Conquest

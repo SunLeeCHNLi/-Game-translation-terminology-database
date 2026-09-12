@@ -1,0 +1,650 @@
+﻿id,term,src_table
+Item.1,启动石碎片,items.json
+Item.2,加速券,items.json
+Item.3,启动石,items.json
+Item.7,总力战硬币,items.json
+Item.8,战术硬币,items.json
+Item.9,稀有总力战硬币,items.json
+Item.10,初级活动报告,items.json
+Item.11,中级活动报告,items.json
+Item.12,高级活动报告,items.json
+Item.13,最高级活动报告,items.json
+Item.23,神名碎片,items.json
+Item.30,咖啡厅设备核心 LV1,items.json
+Item.31,咖啡厅设备核心 LV2,items.json
+Item.32,咖啡厅设备核心 LV3,items.json
+Item.60,火力演习硬币,items.json
+Item.61,悬赏通缉硬币,items.json
+Item.70,大决战硬币,items.json
+Item.71,大決戦レアコイン,items.json
+Item.80,初级定向启动石,items.json
+Item.81,中级定向启动石,items.json
+Item.82,高级定向启动石,items.json
+Item.83,最高级定向启动石,items.json
+Item.90,初级制造用原料,items.json
+Item.91,中级制造用原料,items.json
+Item.92,高级制造用原料,items.json
+Item.100,内布拉星象盘片碎片,items.json
+Item.101,损坏的内布拉星象盘片,items.json
+Item.102,磨损的内布拉星象盘片,items.json
+Item.103,完整的内布拉星象磁盘,items.json
+Item.110,斐斯托斯圆盘碎片,items.json
+Item.111,损坏的斐斯托斯圆盘,items.json
+Item.112,磨损的斐斯托斯圆盘,items.json
+Item.113,完整的斐斯托斯圆盘,items.json
+Item.120,沃尔夫赛格铁矿,items.json
+Item.121,沃尔夫赛格钢碎块,items.json
+Item.122,低纯度沃尔夫赛格钢块,items.json
+Item.123,高纯度沃尔夫赛格钢块,items.json
+Item.130,尼姆鲁德透镜碎片,items.json
+Item.131,损坏的尼姆鲁德透镜,items.json
+Item.132,磨损的尼姆鲁德透镜,items.json
+Item.133,完整的尼姆鲁德透镜,items.json
+Item.140,曼德拉草种子,items.json
+Item.141,曼德拉草新芽,items.json
+Item.142,曼德拉草汁,items.json
+Item.143,曼德拉草浓缩液,items.json
+Item.150,罗洪特抄本残页,items.json
+Item.151,损毁的罗洪特抄本,items.json
+Item.152,编辑过的罗洪特抄本,items.json
+Item.153,完整的罗洪特抄本,items.json
+Item.160,以太粉末,items.json
+Item.161,以太碎片,items.json
+Item.162,以太结晶,items.json
+Item.163,以太精华,items.json
+Item.170,安提基特拉机械碎片,items.json
+Item.171,损坏的安提基特拉机械,items.json
+Item.172,磨损的安提基特拉机械,items.json
+Item.173,完整的安提基特拉机械,items.json
+Item.180,伏尼契手稿副本残页,items.json
+Item.181,损毁的伏尼契手稿副本,items.json
+Item.182,编辑过的伏尼契手稿副本,items.json
+Item.183,完整的伏尼契手稿副本,items.json
+Item.190,水晶埴轮碎片,items.json
+Item.191,损坏的水晶埴轮,items.json
+Item.192,修复过的水晶埴轮,items.json
+Item.193,完整的水晶埴轮,items.json
+Item.200,图腾柱碎片,items.json
+Item.201,破损的图腾柱,items.json
+Item.202,修复过的图腾柱,items.json
+Item.203,完整的图腾柱,items.json
+Item.210,古代电池碎片,items.json
+Item.211,损坏的古代电池,items.json
+Item.212,磨损的古代电池,items.json
+Item.213,完整的古代电池,items.json
+Item.220,黄金の糸,items.json
+Item.221,黄金の巻糸,items.json
+Item.222,大きな黄金の巻糸,items.json
+Item.223,黄金の布,items.json
+Item.230,御菊人偶碎片,items.json
+Item.231,破损的御菊人偶,items.json
+Item.232,修复过的御菊人偶,items.json
+Item.233,完整的御菊人偶,items.json
+Item.240,圆盘坠饰碎片,items.json
+Item.241,损坏的圆盘坠饰,items.json
+Item.242,修复中的圆盘坠饰,items.json
+Item.243,完整的圆盘坠饰,items.json
+Item.250,亚特兰蒂斯古币碎片,items.json
+Item.251,破损的亚特兰蒂斯古币,items.json
+Item.252,修复中的亚特兰蒂斯古币,items.json
+Item.253,完整的亚特兰蒂斯古币,items.json
+Item.260,中空十二面体の欠片,items.json
+Item.261,壊れた中空十二面体,items.json
+Item.262,修復途中の中空十二面体,items.json
+Item.263,完全な中空十二面体,items.json
+Item.290,温尼珀索基石碎块,items.json
+Item.291,破损的温尼珀索基石,items.json
+Item.292,不完整的温尼珀索基石,items.json
+Item.293,完整的温尼珀索基石,items.json
+Item.3000,初级战术教育BD (百鬼夜行),items.json
+Item.3001,中级战术教育BD (百鬼夜行),items.json
+Item.3002,高级战术教育BD (百鬼夜行),items.json
+Item.3003,最高级战术教育BD (百鬼夜行),items.json
+Item.3010,初级战术教育BD (红冬),items.json
+Item.3011,中级战术教育BD (红冬),items.json
+Item.3012,高级战术教育BD (红冬),items.json
+Item.3013,最高级战术教育BD (红冬),items.json
+Item.3020,初级战术教育BD (三一),items.json
+Item.3021,中级战术教育BD (三一),items.json
+Item.3022,高级战术教育BD (三一),items.json
+Item.3023,最高级战术教育BD (三一),items.json
+Item.3030,初级战术教育BD (格黑娜),items.json
+Item.3031,中级战术教育BD (格黑娜),items.json
+Item.3032,高级战术教育BD (格黑娜),items.json
+Item.3033,最高级战术教育BD (格黑娜),items.json
+Item.3040,初级战术教育BD (阿拜多斯),items.json
+Item.3041,中级战术教育BD (阿拜多斯),items.json
+Item.3042,高级战术教育BD (阿拜多斯),items.json
+Item.3043,最高级战术教育BD (阿拜多斯),items.json
+Item.3050,初级战术教育BD (千年),items.json
+Item.3051,中级战术教育BD (千年),items.json
+Item.3052,高级战术教育BD (千年),items.json
+Item.3053,最高级战术教育BD (千年),items.json
+Item.3060,初级战术教育BD (阿里乌斯),items.json
+Item.3061,中级战术教育BD (阿里乌斯),items.json
+Item.3062,高级战术教育BD (阿里乌斯),items.json
+Item.3063,最高级战术教育BD (阿里乌斯),items.json
+Item.3070,初级战术教育BD (山海经),items.json
+Item.3071,中级战术教育BD (山海经),items.json
+Item.3072,高级战术教育BD (山海经),items.json
+Item.3073,最高级战术教育BD (山海经),items.json
+Item.3080,初级战术教育BD (瓦尔基里),items.json
+Item.3081,中级战术教育BD (瓦尔基里),items.json
+Item.3082,高级战术教育BD (瓦尔基里),items.json
+Item.3083,最高级战术教育BD (瓦尔基里),items.json
+Item.4000,初级技术笔记 (百鬼夜行),items.json
+Item.4001,中级技术笔记 (百鬼夜行),items.json
+Item.4002,高级技术笔记 (百鬼夜行),items.json
+Item.4003,最高级技术笔记 (百鬼夜行),items.json
+Item.4010,初级技术笔记 (红冬),items.json
+Item.4011,中级技术笔记 (红冬),items.json
+Item.4012,高级技术笔记 (红冬),items.json
+Item.4013,最高级技术笔记 (红冬),items.json
+Item.4020,初级技术笔记 (三一),items.json
+Item.4021,中级技术笔记 (三一),items.json
+Item.4022,高级技术笔记 (三一),items.json
+Item.4023,最高级技术笔记 (三一),items.json
+Item.4030,初级技术笔记 (格黑娜),items.json
+Item.4031,中级技术笔记 (格黑娜),items.json
+Item.4032,高级技术笔记 (格黑娜),items.json
+Item.4033,最高级技术笔记 (格黑娜),items.json
+Item.4040,初级技术笔记 (阿拜多斯),items.json
+Item.4041,中级技术笔记 (阿拜多斯),items.json
+Item.4042,高级技术笔记 (阿拜多斯),items.json
+Item.4043,最高级技术笔记 (阿拜多斯),items.json
+Item.4050,初级技术笔记 (千年),items.json
+Item.4051,中级技术笔记 (千年),items.json
+Item.4052,高级技术笔记 (千年),items.json
+Item.4053,最高级技术笔记 (千年),items.json
+Item.4060,初级技术笔记 (阿里乌斯),items.json
+Item.4061,中级技术笔记 (阿里乌斯),items.json
+Item.4062,高级技术笔记 (阿里乌斯),items.json
+Item.4063,最高级技术笔记 (阿里乌斯),items.json
+Item.4070,初级技术笔记 (山海经),items.json
+Item.4071,中级技术笔记 (山海经),items.json
+Item.4072,高级技术笔记 (山海经),items.json
+Item.4073,最高级技术笔记 (山海经),items.json
+Item.4080,初级技术笔记 (瓦尔基里),items.json
+Item.4081,中级技术笔记 (瓦尔基里),items.json
+Item.4082,高级技术笔记 (瓦尔基里),items.json
+Item.4083,最高级技术笔记 (瓦尔基里),items.json
+Item.7001,作战数据1：TypeD,items.json
+Item.9998,秘传笔记残页,items.json
+Item.9999,秘传笔记,items.json
+Item.10000,阿露的神名文字,items.json
+Item.10001,艾米的神名文字,items.json
+Item.10002,晴奈的神名文字,items.json
+Item.10003,日富美的神名文字,items.json
+Item.10004,日奈的神名文字,items.json
+Item.10005,星野的神名文字,items.json
+Item.10006,伊织的神名文字,items.json
+Item.10007,真纪的神名文字,items.json
+Item.10008,尼禄的神名文字,items.json
+Item.10009,泉的神名文字,items.json
+Item.10010,白子的神名文字,items.json
+Item.10011,瞬的神名文字,items.json
+Item.10012,堇的神名文字,items.json
+Item.10013,鹤城的神名文字,items.json
+Item.10014,泉奈的神名文字,items.json
+Item.10015,爱丽丝的神名文字,items.json
+Item.10016,绿的神名文字,items.json
+Item.10017,切里诺的神名文字,items.json
+Item.10018,柚子的神名文字,items.json
+Item.10019,梓的神名文字,items.json
+Item.10020,小春的神名文字,items.json
+Item.10021,梓(泳装)的神名文字,items.json
+Item.10022,日奈(泳装)的神名文字,items.json
+Item.10023,伊织(泳装)的神名文字,items.json
+Item.10024,白子(单车)的神名文字,items.json
+Item.10025,瞬(幼女)的神名文字,items.json
+Item.10026,尼禄(兔女郎)的神名文字,items.json
+Item.10027,花凛(兔女郎)的神名文字,items.json
+Item.10028,明日奈(兔女郎)的神名文字,items.json
+Item.10029,夏的神名文字,items.json
+Item.10030,千夏(温泉)的神名文字,items.json
+Item.10031,阿露(正月)的神名文字,items.json
+Item.10032,睦月(正月)的神名文字,items.json
+Item.10033,若藻的神名文字,items.json
+Item.10034,三森的神名文字,items.json
+Item.10035,忧的神名文字,items.json
+Item.10036,日向的神名文字,items.json
+Item.10037,玛利娜的神名文字,items.json
+Item.10038,宫子的神名文字,items.json
+Item.10039,美游的神名文字,items.json
+Item.10040,月咏的神名文字,items.json
+Item.10041,美咲的神名文字,items.json
+Item.10042,亚津子的神名文字,items.json
+Item.10043,若藻(泳装)的神名文字,items.json
+Item.10044,野宫(泳装)的神名文字,items.json
+Item.10045,星野(泳装)的神名文字,items.json
+Item.10046,泉奈(泳装)的神名文字,items.json
+Item.10047,千世(泳装)的神名文字,items.json
+Item.10048,纱织的神名文字,items.json
+Item.10049,和纱的神名文字,items.json
+Item.10050,心奈的神名文字,items.json
+Item.10051,歌原(应援团)的神名文字,items.json
+Item.10052,诺亚的神名文字,items.json
+Item.10053,优香(体操服)的神名文字,items.json
+Item.10054,玛丽(体操服)的神名文字,items.json
+Item.10055,时雨的神名文字,items.json
+Item.10056,芹娜(圣诞)的神名文字,items.json
+Item.10057,晴奈(正月)的神名文字,items.json
+Item.10058,美弥的神名文字,items.json
+Item.10059,未花的神名文字,items.json
+Item.10060,惠的神名文字,items.json
+Item.10061,樱子的神名文字,items.json
+Item.10062,时的神名文字,items.json
+Item.10063,小雪的神名文字,items.json
+Item.10064,佳代子(正月)的神名文字,items.json
+Item.10065,果穗的神名文字,items.json
+Item.10066,爱丽丝(女仆)的神名文字,items.json
+Item.10067,时(兔女郎)的神名文字,items.json
+Item.10068,玲纱神名文字,items.json
+Item.10069,瑠美的神名文字,items.json
+Item.10070,弥奈的神名文字,items.json
+Item.10071,宫子(泳装)的神名文字,items.json
+Item.10072,咲(泳装)的神名文字,items.json
+Item.10073,ウイ（水着）の神名文字,items.json
+Item.10074,ハナコ（水着）の神名文字,items.json
+Item.13000,茜的神名文字,items.json
+Item.13001,千世的神名文字,items.json
+Item.13002,明里的神名文字,items.json
+Item.13003,莲见的神名文字,items.json
+Item.13004,野宫的神名文字,items.json
+Item.13005,佳代子的神名文字,items.json
+Item.13006,睦月的神名文字,items.json
+Item.13007,淳子的神名文字,items.json
+Item.13008,芹香的神名文字,items.json
+Item.13009,椿的神名文字,items.json
+Item.13010,优香的神名文字,items.json
+Item.13011,桃井的神名文字,items.json
+Item.13012,桐乃的神名文字,items.json
+Item.16000,遥香的神名文字,items.json
+Item.16001,明日奈的神名文字,items.json
+Item.16002,柯托莉的神名文字,items.json
+Item.16003,铃美的神名文字,items.json
+Item.16004,菲娜的神名文字,items.json
+Item.16005,鹤城(泳装)的神名文字,items.json
+Item.16006,泉(泳装)的神名文字,items.json
+Item.16007,智惠的神名文字,items.json
+Item.16008,吹雪的神名文字,items.json
+Item.16009,满的神名文字,items.json
+Item.16010,响(应援团)的神名文字,items.json
+Item.16011,莲见(体操服)的神名文字,items.json
+Item.16012,淳子(正月)的神名文字,items.json
+Item.16013,コハル（水着）の神名文字,items.json
+Item.20000,响的神名文字,items.json
+Item.20001,花凛的神名文字,items.json
+Item.20002,纱绫的神名文字,items.json
+Item.20003,真白的神名文字,items.json
+Item.20004,真白(泳装)的神名文字,items.json
+Item.20005,日富美(泳装)的神名文字,items.json
+Item.20006,纱绫(私服)的神名文字,items.json
+Item.20007,初音未来的神名文字,items.json
+Item.20008,亚子的神名文字,items.json
+Item.20009,切里诺(温泉)的神名文字,items.json
+Item.20010,和香(温泉)的神名文字,items.json
+Item.20011,芹香(正月)的神名文字,items.json
+Item.20012,濑名的神名文字,items.json
+Item.20013,千寻的神名文字,items.json
+Item.20014,咲的神名文字,items.json
+Item.20015,枫的神名文字,items.json
+Item.20016,伊吕波的神名文字,items.json
+Item.20017,日和的神名文字,items.json
+Item.20018,萌绘的神名文字,items.json
+Item.20019,茜(兔女郎)的神名文字,items.json
+Item.20020,日鞠的神名文字,items.json
+Item.20021,花江(圣诞)的神名文字,items.json
+Item.20022,枫香(正月)的神名文字,items.json
+Item.20023,叶渚的神名文字,items.json
+Item.20024,渚的神名文字,items.json
+Item.20025,遥香(正月)的神名文字,items.json
+Item.20026,实里的神名文字,items.json
+Item.20027,白子(泳装)的神名文字,items.json
+Item.20028,ヒナタ（水着）の神名文字,items.json
+Item.23000,爱莉的神名文字,items.json
+Item.23001,枫香的神名文字,items.json
+Item.23002,花江的神名文字,items.json
+Item.23003,晴的神名文字,items.json
+Item.23004,歌原的神名文字,items.json
+Item.23005,绫音的神名文字,items.json
+Item.23006,静子的神名文字,items.json
+Item.23007,花子的神名文字,items.json
+Item.23008,玛丽的神名文字,items.json
+Item.26000,千夏的神名文字,items.json
+Item.26001,小玉的神名文字,items.json
+Item.26002,茱莉的神名文字,items.json
+Item.26003,芹娜的神名文字,items.json
+Item.26004,志美子的神名文字,items.json
+Item.26005,好美的神名文字,items.json
+Item.26006,和香的神名文字,items.json
+Item.26007,绫音(泳装)的神名文字,items.json
+Item.26008,静子(泳装)的神名文字,items.json
+Item.26009,柚子(女仆)的神名文字,items.json
+Item.26010,美游(泳装)的神名文字,items.json
+Item.30000,初级战术教育BD盒,items.json
+Item.30001,中级战术教育BD盒,items.json
+Item.30002,高级战术教育BD盒,items.json
+Item.30003,最高级战术教育BD盒,items.json
+Item.40000,初级技术笔记盒,items.json
+Item.40001,中级技术笔记盒,items.json
+Item.40002,高级技术笔记盒,items.json
+Item.40003,最高级技术笔记盒,items.json
+Item.80000,活动点数,items.json
+Item.80001,狐狸仙贝,items.json
+Item.80002,浣熊御好烧,items.json
+Item.80003,樱花大福饼,items.json
+Item.80010,切里诺俄罗斯套娃,items.json
+Item.80011,切里诺巧克力,items.json
+Item.80012,俏胡子可丽饼,items.json
+Item.80013,勇猛髭勋章,items.json
+Item.80021,沙滩排球,items.json
+Item.80022,海之家餐券,items.json
+Item.80023,迷你火箭烟花,items.json
+Item.80024,冷藏箱,items.json
+Item.80025,玩沙工具套装,items.json
+Item.80026,沙滩椅,items.json
+Item.80027,遮阳伞桌,items.json
+Item.80028,海滩用具,items.json
+Item.80029,风浪板,items.json
+Item.80030,格黑娜补给箱,items.json
+Item.80031,美食研究会的烤玉米,items.json
+Item.80032,夏日用混混太阳镜,items.json
+Item.80033,潮水钢盔,items.json
+Item.80041,龟壳菇,items.json
+Item.80042,乌竹笋,items.json
+Item.80043,人形参,items.json
+Item.80050,巧克力币,items.json
+Item.80051,兔子贴纸,items.json
+Item.80052,乘船券,items.json
+Item.80053,骰子,items.json
+Item.80061,温泉毛巾,items.json
+Item.80062,胡子洗发液,items.json
+Item.80063,水豚入浴剂,items.json
+Item.80070,福袋,items.json
+Item.80071,佩洛洛镜饼,items.json
+Item.80072,黑龟组绘马,items.json
+Item.80073,御神签兑换券,items.json
+Item.80081,问题儿童悔过书,items.json
+Item.80082,没收的违法便宜点心,items.json
+Item.80083,环境美化活动用垃圾袋,items.json
+Item.80084,情人节邀请信,items.json
+Item.80090,若藻逮捕令,items.json
+Item.80101,修女会头巾,items.json
+Item.80102,三一圣歌集,items.json
+Item.80103,三一烛台,items.json
+Item.80110,甲虫皇后卡牌包,items.json
+Item.80111,交流会传单,items.json
+Item.80112,和乐公主扇,items.json
+Item.80113,忍佩洛商品,items.json
+Item.80120,材料箱,items.json
+Item.80130,地区通货,items.json
+Item.80131,百夜堂闪耀硬币,items.json
+Item.80132,平滑光亮海螺,items.json
+Item.80133,夏日用忍术图鉴卷轴,items.json
+Item.80134,深海温泉岛度假村使用权,items.json
+Item.80135,甲虫皇后游轮度假村使用权,items.json
+Item.80136,超豪华度假村使用权,items.json
+Item.80140,甜点优惠券,items.json
+Item.80141,薄荷巧克力芭菲,items.json
+Item.80142,马卡龙,items.json
+Item.80143,威化卷,items.json
+Item.80151,沙包,items.json
+Item.80152,千年旗帜,items.json
+Item.80153,哨子,items.json
+Item.80160,运动饮料,items.json
+Item.80161,接力棒,items.json
+Item.80162,豆沙面包,items.json
+Item.80163,指南手册,items.json
+Item.80170,圣诞礼盒,items.json
+Item.80171,圣诞袜,items.json
+Item.80172,拐杖糖,items.json
+Item.80173,蛋奶酒,items.json
+Item.80181,红白鱼糕,items.json
+Item.80182,福鲷鱼,items.json
+Item.80183,御神签兑换券,items.json
+Item.80200,多维演算电路,items.json
+Item.80201,次元引擎零件,items.json
+Item.80202,宇宙巧克力汉堡,items.json
+Item.80203,通行密钥 - 外环2区,items.json
+Item.80204,通行密钥 - 外环3区,items.json
+Item.80205,通行密钥 - 中心区,items.json
+Item.80221,联邦学生会的安全帽,items.json
+Item.80222,财务报表,items.json
+Item.80223,明太子薯片,items.json
+Item.80230,整洁的发箍,items.json
+Item.80231,化妆套件,items.json
+Item.80232,宅邸邀请函,items.json
+Item.80240,卡牌包,items.json
+Item.80241,玄武商会餐券,items.json
+Item.80242,玄龙门徽章,items.json
+Item.80243,溶剂提取装置,items.json
+Item.80260,冷凍エビ,items.json
+Item.80261,小石,items.json
+Item.80262,貝殻,items.json
+Item.80263,乾いたヒトデ,items.json
+Item.80264,サイコロ確定券,items.json
+Item.80265,サイコロ1確定券,items.json
+Item.80266,サイコロ2確定券,items.json
+Item.80267,サイコロ3確定券,items.json
+Item.80268,サイコロ4確定券,items.json
+Item.80269,サイコロ5確定券,items.json
+Item.80270,サイコロ6確定券,items.json
+Item.80290,イベントPt,items.json
+Item.80291,羊皮紙の欠片,items.json
+Item.80292,レモン,items.json
+Item.80293,古びた鍵,items.json
+Item.85000,活动点数(复刻),items.json
+Item.85001,狐狸仙贝(复刻),items.json
+Item.85002,浣熊御好烧(复刻),items.json
+Item.85003,樱花大福饼(复刻),items.json
+Item.85010,切里诺俄罗斯套娃(复刻),items.json
+Item.85011,切里诺巧克力(复刻),items.json
+Item.85012,俏胡子可丽饼(复刻),items.json
+Item.85013,勇猛髭勋章(复刻),items.json
+Item.85021,沙滩排球(复刻),items.json
+Item.85022,海之家餐券(复刻),items.json
+Item.85023,迷你火箭烟花(复刻),items.json
+Item.85030,格黑娜补给箱(复刻),items.json
+Item.85031,美食研究会的烤玉米(复刻),items.json
+Item.85032,夏日用混混太阳镜(复刻),items.json
+Item.85033,潮水钢盔(复刻),items.json
+Item.85041,龟壳菇(复刻),items.json
+Item.85042,乌竹笋(复刻),items.json
+Item.85043,人形参(复刻),items.json
+Item.85050,巧克力币(复刻),items.json
+Item.85051,兔子贴纸(复刻),items.json
+Item.85052,乘船券(复刻),items.json
+Item.85053,骰子(复刻),items.json
+Item.85061,温泉毛巾(复刻),items.json
+Item.85062,胡子洗发液(复刻),items.json
+Item.85063,水豚入浴剂(复刻),items.json
+Item.85070,福袋(复刻),items.json
+Item.85071,佩洛洛镜饼(复刻),items.json
+Item.85072,黑龟组绘马(复刻),items.json
+Item.85073,御神签兑换券(复刻),items.json
+Item.85081,问题儿童悔过书(复刻),items.json
+Item.85082,没收的违法便宜点心(复刻),items.json
+Item.85083,环境美化活动用垃圾袋(复刻),items.json
+Item.85084,情人节邀请信(复刻),items.json
+Item.85090,若藻逮捕令(复刻),items.json
+Item.85101,修女会头巾(复刻),items.json
+Item.85102,三一圣歌集(复刻),items.json
+Item.85103,三一烛台(复刻),items.json
+Item.85110,甲虫皇后卡牌包(复刻),items.json
+Item.85111,交流会传单(复刻),items.json
+Item.85112,和乐公主扇(复刻),items.json
+Item.85113,忍佩洛商品(复刻),items.json
+Item.85120,材料箱(复刻),items.json
+Item.85140,甜点优惠券(复刻),items.json
+Item.85141,薄荷巧克力芭菲(复刻),items.json
+Item.85142,马卡龙(复刻),items.json
+Item.85143,威化卷(复刻),items.json
+Item.100000,礼物盒,items.json
+Item.100001,家具箱 (☆3),items.json
+Item.100008,礼物自选盒,items.json
+Item.100009,高级礼物盒,items.json
+Item.100013,装备箱,items.json
+Item.100023,欧帕兹(1)抽选箱,items.json
+Item.100024,欧帕兹(2)抽选箱,items.json
+Item.100025,欧帕兹(3)抽选箱,items.json
+Item.100026,欧帕兹(4)抽选箱,items.json
+Item.150000,初级技术笔记自选盒,items.json
+Item.150001,中级技术笔记自选盒,items.json
+Item.150002,高级技术笔记自选盒,items.json
+Item.150003,最高级技术笔记自选盒,items.json
+Item.150004,初级战术教育BD自选盒,items.json
+Item.150005,中级战术教育BD自选盒,items.json
+Item.150006,高级战术教育BD自选盒,items.json
+Item.150007,最高级战术教育BD自选盒,items.json
+Item.150008,欧帕兹(1)自选箱,items.json
+Item.150009,欧帕兹(2)自选箱,items.json
+Item.150010,欧帕兹(3)自选箱,items.json
+Item.150011,欧帕兹(4)自选箱,items.json
+Item.150015,最高级技术笔笔记自选盒,items.json
+Item.150028,T2装备自选设计图,items.json
+Item.150029,T3装备自选设计图,items.json
+Item.150030,T4装备自选设计图,items.json
+Item.150031,T5装备自选设计图,items.json
+Item.150032,T6装备自选设计图,items.json
+Item.150033,T7装备自选设计图,items.json
+Item.150038,家具自选箱(蓝),items.json
+Item.150039,家具自选箱(橙),items.json
+Item.150040,家具自选箱(紫),items.json
+Item.151000,初始家具系列自选箱,items.json
+Item.151001,Momo好友咖啡厅系列家具自选箱,items.json
+Item.151002,果冻娱乐室系列家具自选箱,items.json
+Item.151003,情人节系列家具自选箱,items.json
+Item.151004,避暑胜地系列家具自选箱,items.json
+Item.151005,万圣节咖啡厅系列家具自选箱,items.json
+Item.151006,传统温泉乡系列家具自选箱,items.json
+Item.151007,正月系列家具自选箱,items.json
+Item.151008,军事露营区系列家具自选箱,items.json
+Item.151009,海滨系列家具自选箱,items.json
+Item.151010,大运动会系列家具自选箱,items.json
+Item.151011,阿拜多斯教室系列家具自选箱,items.json
+Item.151012,游戏开发部系列家具自选箱,items.json
+Item.151013,サンシャインリゾートシリーズ選択ボックス,items.json
+Item.151999,其他系列家具自选箱,items.json
+Item.160003,作战数据2：TypeD-X,items.json
+Item.180000,香甜巧克力洋芋片,items.json
+Item.180001,天使巧克力,items.json
+Item.180002,大容量迷你巧克力,items.json
+Item.180003,阿罗娜的巧克力姜饼,items.json
+Item.180004,情人节佩洛洛,items.json
+Item.180005,口粮D型,items.json
+Item.180006,Happy Hot Chocolate,items.json
+Item.180007,巧克力格黑娜,items.json
+Item.180008,大量的板状巧克力,items.json
+Item.180009,巧克团子,items.json
+Item.180010,Death Love,items.json
+Item.180011,骑士的零食,items.json
+Item.180012,巧克力海的朋友们,items.json
+Item.180013,沙漠的玫瑰,items.json
+Item.180014,维纳斯的巧克力,items.json
+Item.180015,窃听装置14号,items.json
+Item.180016,罐装热可可亚,items.json
+Item.180017,生巧克力组合（附发票）,items.json
+Item.180018,勇士的巧克力（道具）,items.json
+Item.180019,手工巧克力Snail,items.json
+Item.180020,巧克力口味妖怪MAX,items.json
+Item.180021,巧克力口味喷漆罐,items.json
+Item.180022,巧克力砲弹Mk.2,items.json
+Item.180023,巧克力螺丝,items.json
+Item.180024,茶莲卡,items.json
+Item.180025,改良型茶莲卡,items.json
+Item.180026,可可果,items.json
+Item.180027,长生不老的灵药（失败作）,items.json
+Item.180028,大人的莱姆夹心巧克力,items.json
+Item.180029,巧克力手铐,items.json
+Item.180030,特制巧克力炸甜甜圈,items.json
+Item.180031,巧克力土偶,items.json
+Item.180032,Little Bullet,items.json
+Item.180033,日奈的手工风纪巧克力,items.json
+Item.180034,献给你一口的休息时间,items.json
+Item.180035,超级！美味的！巧克力！,items.json
+Item.180036,社长的顶级巧克力,items.json
+Item.180037,地狱的俄罗斯轮盘,items.json
+Item.180038,装着可可亚的马克杯,items.json
+Item.180039,倾尽茱莉全力的巧克力,items.json
+Item.180040,一起努力换来的成果,items.json
+Item.180041,综合巧克力点心礼物组合,items.json
+Item.180042,万中选一,items.json
+Item.180043,进击！六角恐龙！,items.json
+Item.180044,绿的手工巧克力,items.json
+Item.180045,千世牌巧克力签诗饼干,items.json
+Item.180046,百夜堂限定甜点,items.json
+Item.180047,忍者巧克力第49号组合！,items.json
+Item.180048,熟眠巧克力及熟眠用具组合,items.json
+Item.180049,若藻的爱情巧克力,items.json
+Item.180050,美食的证明（抹茶口味）,items.json
+Item.180051,情人节神圣骷髅人,items.json
+Item.180052,Lovely Crossline,items.json
+Item.180053,Twinkle Star,items.json
+Item.180054,巧克力修女像,items.json
+Item.180055,圆球巧克力,items.json
+Item.180056,Be With You,items.json
+Item.180057,唇萼薄荷巧克力,items.json
+Item.180058,Limited Yoshimi Edition,items.json
+Item.180059,巧克力不用言语,items.json
+Item.180060,幸运巧克力（自制）,items.json
+Item.180061,绷带巧克力,items.json
+Item.180062,可可99.99%,items.json
+Item.180063,Twisted Valentine,items.json
+Item.180064,Made by Maid,items.json
+Item.180065,巧克力蛋包饭,items.json
+Item.180066,巧克力版画：龙,items.json
+Item.180067,Valentine Beginning,items.json
+Item.180068,甜蜜的干杯,items.json
+Item.180069,Almond Crimson,items.json
+Item.180070,不器用な手作りチョコレート,items.json
+Item.180071,小さなショコラ,items.json
+Item.180072,しっとりめのチョコクッキー,items.json
+Item.180073,苺のチョコケーキ,items.json
+Item.180074,オール・トゥ・ユー,items.json
+Item.180075,丁寧なラッピング済みチョコレート,items.json
+Item.180076,青いバラとチョコレート,items.json
+Item.180077,ギディバのチョコレート,items.json
+Item.180078,桜チョコレート,items.json
+Item.180079,最強のチョコサウルス,items.json
+Item.180080,とろけるロップイヤーチョコ,items.json
+Item.180081,超天才清楚系病弱美少女ハッカー&#x27;sチョコレート,items.json
+Item.180082,イロハの手作りスティックチョコ,items.json
+Item.180083,忍術研究部のバッジ型チョコレート,items.json
+Item.180084,チョコを用いたキャロットケーキ,items.json
+Item.180085,チョコレートスモア,items.json
+Item.180086,補給品のチョコレートキャラメル,items.json
+Item.180087,チョコレートバーク,items.json
+Item.180088,チョコレートインク,items.json
+Item.180089,特別功労勲章チョコレート,items.json
+Item.180090,シグレ・ビタースペシャル,items.json
+Item.180091,ヒヨコ型のチョコレート,items.json
+Item.180092,ドライグレープフルーツのチョコがけ,items.json
+Item.190000,初级技术笔记抽选盒,items.json
+Item.190001,中级技术笔记抽选盒,items.json
+Item.190002,高级技术笔记抽选盒,items.json
+Item.190003,最高级技术笔记抽选盒,items.json
+Item.190010,初级战术教育BD抽选盒,items.json
+Item.190011,中级战术教育BD抽选盒,items.json
+Item.190012,高级战术教育BD抽选盒,items.json
+Item.190013,最高级战术教育BD抽选盒,items.json
+Item.191000,初始家具系列抽选箱,items.json
+Item.191001,Momo好友咖啡厅系列家具抽选箱,items.json
+Item.191002,果冻娱乐室系列家具抽选箱,items.json
+Item.191003,情人节系列家具抽选箱,items.json
+Item.191004,避暑胜地系列家具抽选箱,items.json
+Item.191005,万圣节咖啡厅系列家具抽选箱,items.json
+Item.191006,传统温泉乡系列家具抽选箱,items.json
+Item.191007,正月系列家具抽选箱,items.json
+Item.191008,军事露营区系列家具抽选箱,items.json
+Item.191009,海滨系列家具抽选箱,items.json
+Item.191010,大运动会系列家具抽选箱,items.json
+Item.191011,阿拜多斯教室系列家具抽选箱,items.json
+Item.191012,游戏开发部系列家具抽选箱,items.json
+Item.191013,サンシャインリゾートシリーズ抽選ボックス,items.json
+Item.191991,家具抽选箱(蓝),items.json
+Item.191992,家具抽选箱(橙),items.json
+Item.191993,家具抽选箱(紫),items.json
+Item.191999,其他系列家具抽选箱,items.json
+Item.200000,普雷纳帕特斯的大人的卡片,items.json
+Item.200001,化作灰烬的大人的卡片,items.json

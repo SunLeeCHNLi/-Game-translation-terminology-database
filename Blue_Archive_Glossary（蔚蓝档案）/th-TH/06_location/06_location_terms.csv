@@ -1,0 +1,9 @@
+﻿id,term,src_table
+Location.10,โรงเรียนมัธยมอะบิดอส,translation_table.json:locations
+Location.37,สำนักเลขาธิการเรดวินเทอร์,translation_table.json:locations
+Location.38,สถาบันสหพันธ์เรดวินเทอร์,translation_table.json:locations
+Location.62,ย่านการค้าเทพเต่าดำ,translation_table.json:locations
+Location.64,ตลาดโลมาขาว,translation_table.json:locations
+EventPlace.shanhaijing,โรงเรียนมัธยมซานไห่จิง,story-viewer:eventStoryIndex.ts
+ConquestMap.815,หมู่เกาะ <ลอสต์ พาราไดซ์ รีสอร์ต>,localization.json:ConquestMap
+ConquestMap.822,<เรืออะทราฮาซิส>,localization.json:ConquestMap

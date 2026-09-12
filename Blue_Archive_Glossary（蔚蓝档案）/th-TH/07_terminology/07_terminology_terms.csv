@@ -1,0 +1,1380 @@
+﻿id,term,src_table
+SquadType.Main,STRIKER,localization.json:SquadType
+SquadType.Support,SPECIAL,localization.json:SquadType
+BulletType.Explosion,ระเบิด,localization.json:BulletType
+BulletType.Pierce,เจาะเกราะ,localization.json:BulletType
+BulletType.Mystic,ลึกลับ,localization.json:BulletType
+BulletType.Normal,ทั่วไป,localization.json:BulletType
+BulletType.Sonic,สั่นสะเทือน,localization.json:BulletType
+BulletType.Mixed,หลากหลาย,localization.json:BulletType
+ArmorType.LightArmor,เกราะเบา,localization.json:ArmorType
+ArmorType.HeavyArmor,เกราะหนัก,localization.json:ArmorType
+ArmorType.Unarmed,เกราะพิเศษ,localization.json:ArmorType
+ArmorType.ElasticArmor,เกราะยืดหยุ่น,localization.json:ArmorType
+ArmorType.Normal,เกราะทั่วไป,localization.json:ArmorType
+ArmorType.Structure,สิ่งปลูกสร้าง,localization.json:ArmorType
+ArmorTypeLong.LightArmor,เกราะเบา,localization.json:ArmorTypeLong
+ArmorTypeLong.HeavyArmor,เกราะหนัก,localization.json:ArmorTypeLong
+ArmorTypeLong.Unarmed,เกราะพิเศษ,localization.json:ArmorTypeLong
+ArmorTypeLong.ElasticArmor,เกราะยืดหยุ่น,localization.json:ArmorTypeLong
+ArmorTypeLong.Normal,เกราะปกติ,localization.json:ArmorTypeLong
+TacticRole.DamageDealer,Dealer,localization.json:TacticRole
+TacticRole.Tanker,Tanker,localization.json:TacticRole
+TacticRole.Healer,Healer,localization.json:TacticRole
+TacticRole.Supporter,Supporter,localization.json:TacticRole
+TacticRole.Vehicle,T.S,localization.json:TacticRole
+AdaptationType.Street,เขตเมือง,localization.json:AdaptationType
+AdaptationType.Outdoor,กลางแจ้ง,localization.json:AdaptationType
+AdaptationType.Indoor,ในอาคาร,localization.json:AdaptationType
+SkillType.Normal,การโจมตีทั่วไป,localization.json:SkillType
+SkillType.FormChange,การโจมตีทั่วไป (เสริมพลัง),localization.json:SkillType
+SkillType.Ex,สกิล EX,localization.json:SkillType
+SkillType.Public,สกิลพื้นฐาน,localization.json:SkillType
+SkillType.GearPublic,สกิลพื้นฐาน+,localization.json:SkillType
+SkillType.Passive,สกิลติดตัว,localization.json:SkillType
+SkillType.WeaponPassive,สกิลติดตัว+,localization.json:SkillType
+SkillType.ExtraPassive,สกิลรอง,localization.json:SkillType
+SkillTypeShort.Normal,การโจมตีทั่วไป,localization.json:SkillTypeShort
+SkillTypeShort.Ex,EX,localization.json:SkillTypeShort
+SkillTypeShort.Public,พื้นฐาน,localization.json:SkillTypeShort
+SkillTypeShort.GearPublic,พื้นฐาน+,localization.json:SkillTypeShort
+SkillTypeShort.Passive,ติดตัว,localization.json:SkillTypeShort
+SkillTypeShort.WeaponPassive,ติดตัว+,localization.json:SkillTypeShort
+SkillTypeShort.ExtraPassive,รอง,localization.json:SkillTypeShort
+Stat.Level,เลเวล,localization.json:Stat
+Stat.MaxHP,HP สูงสุด,localization.json:Stat
+Stat.AttackPower,ค่าโจมตี,localization.json:Stat
+Stat.DefensePower,ค่าป้องกัน,localization.json:Stat
+Stat.HealPower,ค่ารักษา,localization.json:Stat
+Stat.AccuracyPoint,ค่าความแม่นยำ,localization.json:Stat
+Stat.DodgePoint,ค่าหลบหลีก,localization.json:Stat
+Stat.CriticalPoint,ค่าคริ,localization.json:Stat
+Stat.CriticalDamageRate,ความเสียหายคริ,localization.json:Stat
+Stat.HealEffectivenessRate,อัตราเร่งการฟื้นฟู,localization.json:Stat
+Stat.OppressionPower,ประสิทธิภาพกดขี่,localization.json:Stat
+Stat.OppressionResist,ต้านทานกดขี่,localization.json:Stat
+Stat.CriticalChanceResistPoint,ต้านทานคริ,localization.json:Stat
+Stat.CriticalDamageResistRate,อัตราต้านทานความเสียหายคริ,localization.json:Stat
+Stat.StabilityPoint,ค่าความเสถียร,localization.json:Stat
+Stat.StabilityRate,ค่าความเสถียร,localization.json:Stat
+Stat.Range,ระยะโจมตีทั่วไป,localization.json:Stat
+Stat.AmmoCount,จำนวนกระสุน,localization.json:Stat
+Stat.AmmoCost,จำนวนกระสุนที่ใช้,localization.json:Stat
+Stat.MoveSpeed,ความเร็วเคลื่อนที่,localization.json:Stat
+Stat.DamageRatio,ความเสียหายที่ทำได้,localization.json:Stat
+Stat.DamageRatio2,ความเสียหายที่ทำได้,localization.json:Stat
+Stat.DamagedRatio,ความเสียหายที่ได้รับ,localization.json:Stat
+Stat.DamagedRatio2,ความเสียหายที่ได้รับ,localization.json:Stat
+Stat.ExDamagedRatio,ความเสียหายที่ได้รับจากสกิล EX,localization.json:Stat
+Stat.EnhanceExDamageRate,EX Skill DMG Dealt,localization.json:Stat
+Stat.AttackSpeed,ความเร็วโจมตี,localization.json:Stat
+Stat.BlockRate,อัตรากำบังสำเร็จ,localization.json:Stat
+Stat.DefensePenetration,ค่าเจาะเกราะ,localization.json:Stat
+Stat.RegenCost,ค่าฟื้นฟู Cost,localization.json:Stat
+Stat.EnhanceExplosionRate,ประสิทธิภาพความเสียหายระเบิด,localization.json:Stat
+Stat.EnhancePierceRate,ประสิทธิภาพความเสียหายเจาะเกราะ,localization.json:Stat
+Stat.EnhanceMysticRate,ประสิทธิภาพความเสียหายลึกลับ,localization.json:Stat
+Stat.EnhanceSonicRate,ประสิทธิภาพความเสียหายสั่นสะเทือน,localization.json:Stat
+Stat.EnhanceLightArmorRate,ประสิทธิภาพเกราะเบา,localization.json:Stat
+Stat.EnhanceHeavyArmorRate,ประสิทธิภาพเกราะหนัก,localization.json:Stat
+Stat.EnhanceUnarmedRate,ประสิทธิภาพเกราะพิเศษ,localization.json:Stat
+Stat.EnhanceElasticArmorRate,ประสิทธิภาพเกราะยืดหยุ่น,localization.json:Stat
+Stat.ExtendBuffDuration,ระยะเวลาบัพ,localization.json:Stat
+Stat.ExtendDebuffDuration,ระยะเวลาเอฟเฟกต์อันตราย,localization.json:Stat
+Stat.ExtendCrowdControlDuration,ระยะเวลาเอฟเฟกต์กดขี่,localization.json:Stat
+Stat.SkillCost,ค่าใช้สกิล EX,localization.json:Stat
+Stat.NormalHits,จำนวนครั้งของการโจมตีทั่วไป,localization.json:Stat
+Stat.EXHits,จำนวนครั้งการโจมตีของสกิล EX,localization.json:Stat
+Stat.PublicHits,จำนวนครั้งการโจมตีของสกิลพื้นฐาน,localization.json:Stat
+Stat.GroggyGauge,เกจมึนงง,localization.json:Stat
+Stat.GroggyTime,ระยะเวลามึนงง,localization.json:Stat
+Stat.LostHP,HP ที่เสียไป,localization.json:Stat
+Stat.CurrentHP,HP ปัจจุบัน,localization.json:Stat
+Stat.BurnDamagedIncrease,ความเสียหายเผาไหม้,localization.json:Stat
+Stat.ChillDamagedIncrease,ความเสียหายหนาวสั่น,localization.json:Stat
+Stat.ElectricShockDamagedIncrease,ความเสียหายไฟฟ้าช็อต,localization.json:Stat
+Stat.PoisonDamagedIncrease,ความเสียหายพิษ,localization.json:Stat
+Stat.IgnoreDelayCount,ไม่สนใจดีเลย์,localization.json:Stat
+StatTooltip.MaxHP,HP สูงสุดของตัวละคร เมื่อ HP เหลือ 0 ตัวละครดังกล่าวจะล่าถอยออกจากการต่อสู้,localization.json:StatTooltip
+StatTooltip.AttackPower,มีผลต่อความเสียหายที่ทำได้ในการโจมตี,localization.json:StatTooltip
+StatTooltip.DefensePower,มีผลต่อความเสียหายที่ได้รับจากการถูกโจมตี,localization.json:StatTooltip
+StatTooltip.HealPower,มีผลต่อจำนวน HP ที่สามารถฟื้นฟูได้จากสกิลฟื้นฟูและความเสียหายที่สามารถดูดซับได้ของสกิลบาเรีย,localization.json:StatTooltip
+StatTooltip.AccuracyPoint,"มีผลต่ออัตราการโจมตีโดนเป้าหมาย, โอกาสโจมตีโดนเป้าหมายจะเป็น 100% หากค่าแม่นยำของเราสูงกว่าค่าหลบหลีกของเป้าหมาย",localization.json:StatTooltip
+StatTooltip.DodgePoint,"มีผลต่ออัตราการหลบการโจมตีของเรา, โดยทั่วไป การหลบหลีกจะสามารถเกิดขึ้นได้ก็ต่อเมื่อค่าหลบหลีกของเรามีค่าสูงกว่าค่าความแม่นยำของผู้โจมตีเท่านั้น",localization.json:StatTooltip
+StatTooltip.CriticalPoint,"มีผลต่ออัตราการโจมตีคริติคอล, โดยทั่วไป การโจมตีคริติคอลจะสามารถเกิดขึ้นได้ก็ต่อเมื่อค่าคริของเรามีค่าสูงกว่าค่าต้านทานคริของเป้าหมายเท่านั้น",localization.json:StatTooltip
+StatTooltip.CriticalDamageRate,"มีผลต่อตัวคูณความเสียหายเมื่อการโจมตีติดคริติคอล, จะถูกลดลงจากอัตราค้านทานความเสียหายคริของเป้าหมาย",localization.json:StatTooltip
+StatTooltip.HealEffectivenessRate,มีผลต่อปริมาณ HP ที่ได้รับการฟื้นฟูจากสกิลฟื้นฟูโดยจะคำนวนเป็น % จากปริมาณการรักษาพื้นฐานจากสกิล (ไม่มีผลกับปริมาณบาเรียที่ได้รับจากสกิลบาเรีย),localization.json:StatTooltip
+StatTooltip.OppressionPower,มีผลต่อโอกาสในการสำเร็จของเอฟเฟกต์กดขี่ของสกิลที่กระทำต่อเป้าหมายและมีผลต่อปริมาณเกจ CC ที่เพิ่มได้ของเป้าหมายศัตรูบางชนิด,localization.json:StatTooltip
+StatTooltip.OppressionResist,มีผลต่อโอกาสในการต้านทานเอฟเฟกต์กดขี่ของสกิลที่เราได้รับและมีผลต่อปริมาณเกจ CC ที่เพิ่มได้ของเป้าหมายศัตรูบางชนิด,localization.json:StatTooltip
+StatTooltip.CriticalChanceResistPoint,มีผลต่อโอกาสในการได้รับการโจมตีคริติคอล โดยทั่วไป การโจมตีคริติคอลจะสามารถเกิดขึ้นได้ก็ต่อเมื่อค่าต้านทานคริของเรามีค่าต่ำกว่าค่าคริของผู้โจมตีเท่านั้น,localization.json:StatTooltip
+StatTooltip.CriticalDamageResistRate,มีผลต่อตัวคูณความเสียหายที่ได้รับเมื่อถูกโจมตีโดยการโจมตีคริติคอล,localization.json:StatTooltip
+StatTooltip.StabilityPoint,มีผลต่อปริมาณตัวแปรสุ่มของความเสียหายที่เกิดขึ้นจากการโจมตี ยิ่งค่าความเสถียรสูงขึ้นเท่าไหร่ ความเสียหายต่ำสุดที่สามารถทำได้ก็จะเพิ่มขึ้นตามไปด้วย,localization.json:StatTooltip
+StatTooltip.Range,ระยะไกลที่สุดที่ตัวละครจะทำการโจมตีทั่วไปได้,localization.json:StatTooltip
+StatTooltip.AmmoCount,ปริมาณกระสุนของอาวุธที่ใช้ กระสุนจะถูกใช้ในการโจมตีทั่วไปของตัวละครทุกครั้งและตัวละครจะต้องรีโหลดเมื่อปริมาณกระสุนที่มีอยู่เท่ากับ 0,localization.json:StatTooltip
+StatTooltip.MoveSpeed,มีผลต่อความเร็วในการเคลื่อนที่ของตัวละครที่สามารถเคลื่อนที่ได้,localization.json:StatTooltip
+StatTooltip.DamageRatio,มีผลต่อความเสียหายที่ทำได้ในการโจมตีเป็น %,localization.json:StatTooltip
+StatTooltip.DamagedRatio,มีผลต่อความเสียหายที่ได้รับจากการถูกโจมตีเป็น %,localization.json:StatTooltip
+StatTooltip.ExDamagedRatio,มีผลต่อความเสียหายที่ได้รับจากการถูกโจมตีจากสกิล EX เป็น %,localization.json:StatTooltip
+StatTooltip.EnhanceExDamageRate,Affects damage dealt by EX Skills by a % amount.,localization.json:StatTooltip
+StatTooltip.AttackSpeed,"มีผลต่อความเร็วในการโจมตีทั่วไป, การรีโหลดและดีเลย์ในการโจมตี",localization.json:StatTooltip
+StatTooltip.BlockRate,มีผลต่ออัตราการบล็อคการโจมตีสำเร็จเมื่อมีกำบังอยู่,localization.json:StatTooltip
+StatTooltip.DefensePenetration,มีผลต่อปริมาณค่าป้องกันของเป้าหมายที่จะไม่สนใจเมื่อสร้างความเสียหายใส่เป้าหมาย,localization.json:StatTooltip
+StatTooltip.RegenCost,มีผลต่ออัตราการฟื้นฟูค่าใช้สกิลของตัวละคร,localization.json:StatTooltip
+StatTooltip.EnhanceExplosionRate,มีผลต่อตัวคูณความเสียหายที่ทำได้ เมื่อทำการโจมตีแบบระเบิดใส่เป้าหมายที่มีเกราะเบา,localization.json:StatTooltip
+StatTooltip.EnhancePierceRate,มีผลต่อตัวคูณความเสียหายที่ทำได้ เมื่อทำการโจมตีแบบเจาะเกราะใส่เป้าหมายที่มีเกราะหนัก,localization.json:StatTooltip
+StatTooltip.EnhanceMysticRate,มีผลต่อตัวคูณความเสียหายที่ทำได้ เมื่อทำการโจมตีแบบลึกลับใส่เป้าหมายที่มีเกราะพิเศษ,localization.json:StatTooltip
+StatTooltip.EnhanceSonicRate,มีผลต่อตัวคูณความเสียหายที่ทำได้ เมื่อทำการโจมตีแบบสั่นสะเทือนใส่เป้าหมายที่มีเกราะยืดหยุ่น,localization.json:StatTooltip
+StatTooltip.ExtendBuffDuration,มีผลต่อระยะเวลาของบัฟที่มีผลต่อฝ่ายเราที่ได้รับจากเรา,localization.json:StatTooltip
+StatTooltip.ExtendDebuffDuration,มีผลต่อระยะเวลาของเอฟเฟกต์อันตรายที่ฝ่ายศัตรูได้รับจากเรา,localization.json:StatTooltip
+StatTooltip.ExtendCrowdControlDuration,มีผลต่อระยะเวลากดขี่ของเอฟเฟกต์กดขี่ที่ศัตรูได้รับจากเรา,localization.json:StatTooltip
+StatTooltip.IgnoreDelayCount,จำนวนครั้งที่การโจมตีทั่วไปนั้นๆ จะข้ามระยะเวลาดีเลย์ของการโจมตีทั่วไป,localization.json:StatTooltip
+EnemyRank.Champion,Boss,localization.json:EnemyRank
+EnemyRank.Elite,Elite,localization.json:EnemyRank
+EnemyRank.Minion,Minion,localization.json:EnemyRank
+EnemyRank.Summoned,Summon,localization.json:EnemyRank
+BossFaction.Decagrammaton,เดคาแกรมมาทอน,localization.json:BossFaction
+BossFaction.Slumpia,สลัมเพีย,localization.json:BossFaction
+BossFaction.CommunioSanctorum,สหพันธ์นักบุญ,localization.json:BossFaction
+BossFaction.Kaitenger,ไคเทนเจอร์,localization.json:BossFaction
+BossFaction.TheLibraryofLore,ห้องสมุดในตำนาน,localization.json:BossFaction
+BossFaction.SevenPrisoners,เจ็ดอาชญากร,localization.json:BossFaction
+BossFaction.HundredGhostTales,ร้อยเรื่องเล่าลี้ลับ,localization.json:BossFaction
+ItemCategory.Furnitures,เฟอร์นิเจอร์,localization.json:ItemCategory
+ItemCategory.Decorations,ตกแต่ง,localization.json:ItemCategory
+ItemCategory.Interiors,ตกแต่งภายใน,localization.json:ItemCategory
+ItemCategory.Wallpaper,วอลเปเปอร์,localization.json:ItemCategory
+ItemCategory.Floor,พื้น,localization.json:ItemCategory
+ItemCategory.Background,พื้นหลัง,localization.json:ItemCategory
+ItemCategory.Table,โต๊ะ,localization.json:ItemCategory
+ItemCategory.Chair,เก้าอี้,localization.json:ItemCategory
+ItemCategory.Closet,ตู้เสื้อผ้า,localization.json:ItemCategory
+ItemCategory.FloorDecoration,ตกแต่งพื้น,localization.json:ItemCategory
+ItemCategory.WallDecoration,ตกแต่งผนัง,localization.json:ItemCategory
+ItemCategory.Prop,ของตกแต่ง,localization.json:ItemCategory
+ItemCategory.HomeAppliance,เครื่องใช้ไฟฟ้า,localization.json:ItemCategory
+ItemCategory.FurnitureEtc,อื่นๆ,localization.json:ItemCategory
+ItemCategory.Bed,เตียง,localization.json:ItemCategory
+ItemCategory.Material,วัตถุดิบ,localization.json:ItemCategory
+ItemCategory.SecretStone,เอลเลฟ,localization.json:ItemCategory
+ItemCategory.Favor,ของขวัญ,localization.json:ItemCategory
+ItemCategory.CharacterExpGrowth,EXP ตัวละคร,localization.json:ItemCategory
+ItemCategory.Coin,เหรียญ,localization.json:ItemCategory
+ItemCategory.Equipment,อุปกรณ์,localization.json:ItemCategory
+ItemCategory.Currency,ค่าเงินหลัก,localization.json:ItemCategory
+ItemCategory.Consumable,ของใช้งาน,localization.json:ItemCategory
+ItemCategory.Collectible,ของสะสม,localization.json:ItemCategory
+ItemCategory.Exp,หินอัปเกรด,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowth,อะไหล่อาวุธ,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowthA,สปริง,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowthB,นกสับ,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowthC,ลำปืน,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowthZ,เข็มชนวน,localization.json:ItemCategory
+ItemCategory.Box,กล่องไอเทม,localization.json:ItemCategory
+ItemCategory.Hat,หมวก,localization.json:ItemCategory
+ItemCategory.Gloves,ถุงมือ,localization.json:ItemCategory
+ItemCategory.Shoes,รองเท้า,localization.json:ItemCategory
+ItemCategory.Bag,กระเป๋า,localization.json:ItemCategory
+ItemCategory.Badge,เครื่องหมาย,localization.json:ItemCategory
+ItemCategory.Hairpin,กิ๊บติดผม,localization.json:ItemCategory
+ItemCategory.Charm,เครื่องราง,localization.json:ItemCategory
+ItemCategory.Necklace,สร้อยคอ,localization.json:ItemCategory
+ItemCategory.Watch,นาฬิกา,localization.json:ItemCategory
+ItemCategory.Artifact,วัตถุหลงยุค,localization.json:ItemCategory
+ItemCategory.BookItem,ตำราสกิล,localization.json:ItemCategory
+ItemCategory.CDItem,BD เรียนสกิล,localization.json:ItemCategory
+ShopCategory.General,ทั่วไป,localization.json:ShopCategory
+ShopCategory.Raid,เรดบอส,localization.json:ShopCategory
+ShopCategory.SecretStone,เอลลิกมา I,localization.json:ShopCategory
+ShopCategory.SecretStoneGrowth,เอลลิกมา II,localization.json:ShopCategory
+ShopCategory.Arena,อารีน่า,localization.json:ShopCategory
+ShopCategory.TimeAttack,สอบประมวล,localization.json:ShopCategory
+ShopCategory.MasterCoin,เหรียญรับรองทักษะ,localization.json:ShopCategory
+ShopCategory.Chaser,ประกาศจับ,localization.json:ShopCategory
+ShopCategory.EliminateRaid,แกรนด์เรดบอส,localization.json:ShopCategory
+StageType.Campaign,ภารกิจ,localization.json:StageType
+StageType.Bounty,ประกาศจับ,localization.json:StageType
+StageType.WeekDungeon,คำขอพิเศษ,localization.json:StageType
+StageType.SchoolDungeon,ทัวร์โรงเรียน,localization.json:StageType
+StageType.Event,อีเวนท์,localization.json:StageType
+StageType.Arena,อารีน่า,localization.json:StageType
+StageType.TimeAttack,การสอบประมวล,localization.json:StageType
+StageType.WorldRaid,เรดบอสสหพันธ์,localization.json:StageType
+StageType.ChaserA,ประกาศจับ - ทางยกระดับ,localization.json:StageType
+StageType.ChaserB,ประกาศจับ - ทางรถไฟทะเลทราย,localization.json:StageType
+StageType.ChaserC,ประกาศจับ - ห้องเรียน,localization.json:StageType
+StageType.Blood,ป้องกันฐาน,localization.json:StageType
+StageType.FindGift,รับของขวัญ,localization.json:StageType
+StageType.SchoolA,ทัวร์โรงเรียน - ทรีนิตี้,localization.json:StageType
+StageType.SchoolB,ทัวร์โรงเรียน - เกเฮนน่า,localization.json:StageType
+StageType.SchoolC,ทัวร์โรงเรียน - มิลเลเนียม,localization.json:StageType
+StageType.Conquest,ยึดครอง,localization.json:StageType
+StageType.MultiFloorRaid,ศึกทลายพันธะ,localization.json:StageType
+StageType.Normal,NORMAL,localization.json:StageType
+StageType.Hard,HARD,localization.json:StageType
+StageType.Quest,QUEST,localization.json:StageType
+StageType.Story,STORY,localization.json:StageType
+StageType.Challenge,CHALLENGE,localization.json:StageType
+StageType.Field,พื้นที่ {0},localization.json:StageType
+RaidDifficulty.Normal,Normal,localization.json:RaidDifficulty
+RaidDifficulty.Hard,Hard,localization.json:RaidDifficulty
+RaidDifficulty.VeryHard,VeryHard,localization.json:RaidDifficulty
+RaidDifficulty.HardCore,HardCore,localization.json:RaidDifficulty
+RaidDifficulty.Extreme,Extreme,localization.json:RaidDifficulty
+RaidDifficulty.Insane,Insane,localization.json:RaidDifficulty
+RaidDifficulty.Torment,Torment,localization.json:RaidDifficulty
+RaidDifficulty.A,A,localization.json:RaidDifficulty
+RaidDifficulty.B,B,localization.json:RaidDifficulty
+RaidDifficulty.C,C,localization.json:RaidDifficulty
+TimeAttackStage.Shooting,สอบยิงปืน,localization.json:TimeAttackStage
+TimeAttackStage.Defense,สอบป้องกัน,localization.json:TimeAttackStage
+TimeAttackStage.Destruction,สอบโจมตี,localization.json:TimeAttackStage
+TimeAttackStage.Escort,สอบคุ้มกัน,localization.json:TimeAttackStage
+GroggyCondition.TypeDamage,เพิ่มเมื่อได้รับความเสียหาย {0},localization.json:GroggyCondition
+GroggyCondition.Chesed,เพิ่มเมื่อทหารจักรกลถูกทำลาย (ไม่นับรวมหุ่นดูดฝุ่น),localization.json:GroggyCondition
+GroggyCondition.Shirokuro,เพิ่มเมื่อถูกโจมตีโดยการโจมตีของตัวเอง,localization.json:GroggyCondition
+GroggyCondition.Hieronymus,เพิ่มเมื่อถูกเรลิกแดงขัดขวางการใช้สกิล EX,localization.json:GroggyCondition
+GroggyCondition.KaitenFxMk0,เพิ่มเมื่อได้รับความเสียหายจนชิ้นส่วนถูกทำลาย,localization.json:GroggyCondition
+GroggyCondition.Perorozilla,เพิ่มเมื่อลูกสมุนเพโรโร่ที่ล้มลงถูกดูดซับ,localization.json:GroggyCondition
+GroggyCondition.HOD,เพิ่มเมื่อเสากัดกร่อนถูกทำลายหรือเกจพิเศษของ Hod เต็ม,localization.json:GroggyCondition
+GroggyCondition.HoverCraft,เพิ่มเมื่อโหมดยิงมิสไซล์จบลง,localization.json:GroggyCondition
+GroggyCondition.EN0005,เพิ่มเมื่อผู้ประสานเสียงล้มลง,localization.json:GroggyCondition
+GroggyCondition.RaidHoverCraft,เพิ่มเมื่อเกจพิเศษของวาคาโมะเต็ม เพิ่มเมื่อระบบนำวิถีมิสไซล์ถูกทำลาย,localization.json:GroggyCondition
+GroggyCondition.EN0006,ไม่เพิ่มจนกว่าจะอยู่ในเฟสสอง,localization.json:GroggyCondition
+GroggyCondition.EN0008,เพิ่มหลังจากใช้งานสกิล ATG,localization.json:GroggyCondition
+BuffType.Buff,บัฟ,localization.json:BuffType
+BuffType.Debuff,เอฟเฟกต์อันตราย,localization.json:BuffType
+BuffType.CC,เอฟเฟกต์กดขี่,localization.json:BuffType
+BuffType.Special,เอฟเฟกต์พิเศษ,localization.json:BuffType
+BuffName.Buff_AidAttitude,ความตั้งใจบรรเทาทุกข์,localization.json:BuffName
+BuffName.Buff_AmmoCount,จำนวนกระสุน,localization.json:BuffName
+BuffName.Buff_AttackSpeed,ความเร็วโจมตี,localization.json:BuffName
+BuffName.Buff_BlockRate,อัตรากำบังสำเร็จ,localization.json:BuffName
+BuffName.Buff_ConcentratedTarget,ล็อคเป้า,localization.json:BuffName
+BuffName.Buff_CostChange,ค่าใช้สกิล EX,localization.json:BuffName
+BuffName.Buff_CostRegen,ค่าฟื้นฟู Cost,localization.json:BuffName
+BuffName.Buff_CriticalChanceResistPoint,ค่าต้านทานคริ,localization.json:BuffName
+BuffName.Buff_CriticalDamageRateResist,อัตราต้านทานความเสียหายคริ,localization.json:BuffName
+BuffName.Buff_DamagedLimit,จำกัดความเสียหายที่ได้รับ,localization.json:BuffName
+BuffName.Buff_DamagedRatio,ความเสียหายที่ได้รับ,localization.json:BuffName
+BuffName.Buff_DamageRatio,ความเสียหายที่ทำได้,localization.json:BuffName
+BuffName.Buff_DotHeal,HP ต่อเนื่อง,localization.json:BuffName
+BuffName.Buff_EnhanceLightArmorRate,ประสิทธิภาพเกราะเบา,localization.json:BuffName
+BuffName.Buff_EnhanceHeavyArmorRate,ประสิทธิภาพเกราะหนัก,localization.json:BuffName
+BuffName.Buff_EnhanceUnarmedRate,ประสิทธิภาพเกราะพิเศษ,localization.json:BuffName
+BuffName.Buff_HealByHit_Damaged,ฟื้นฟู HP,localization.json:BuffName
+BuffName.Buff_HealEffectiveness,อัตราเร่งการฟื้นฟู,localization.json:BuffName
+BuffName.Buff_HealPower,ค่ารักษา,localization.json:BuffName
+BuffName.Buff_MAXHP,HP สูงสุด,localization.json:BuffName
+BuffName.Buff_MoveSpeed,ความเร็วเคลื่อนที่,localization.json:BuffName
+BuffName.Buff_OppressionPower,ประสิทธิภาพกดขี่,localization.json:BuffName
+BuffName.Buff_OppressionResist,ต้านทานกดขี่,localization.json:BuffName
+BuffName.Buff_Penetration,ค่าเจาะเกราะ,localization.json:BuffName
+BuffName.Buff_Range,ระยะโจมตีทั่วไป,localization.json:BuffName
+BuffName.Buff_Shield,บาเรีย,localization.json:BuffName
+BuffName.Buff_EnhanceExDamageRate,ความเสียหายสกิล EX,localization.json:BuffName
+BuffName.Debuff_AmmoCount,จำนวนกระสุน,localization.json:BuffName
+BuffName.Debuff_Burn,เผาไหม้,localization.json:BuffName
+BuffName.Debuff_Cheerleading,เสียงเชียร์เร่าร้อน,localization.json:BuffName
+BuffName.Debuff_Chill,หนาวสั่น,localization.json:BuffName
+BuffName.Debuff_CostChange,ค่าใช้สกิล EX,localization.json:BuffName
+BuffName.Debuff_DamageByHit_Damaged,โจมตีจุดอ่อน,localization.json:BuffName
+BuffName.Debuff_EnhanceLightArmorRate,ประสิทธิภาพเกราะเบา,localization.json:BuffName
+BuffName.Debuff_EnhanceHeavyArmorRate,ประสิทธิภาพเกราะหนัก,localization.json:BuffName
+BuffName.Debuff_EnhanceUnarmedRate,ประสิทธิภาพเกราะพิเศษ,localization.json:BuffName
+BuffName.Debuff_HealedLimit,จำกัดการฟื้นฟู,localization.json:BuffName
+BuffName.Debuff_Hieronymus,คำสาป,localization.json:BuffName
+BuffName.Debuff_Poison,พิษ,localization.json:BuffName
+BuffName.Debuff_ElectricShock,ไฟฟ้าช็อต,localization.json:BuffName
+BuffName.CC_Fear,กลัว,localization.json:BuffName
+BuffName.CC_Stunned,หมดสติ,localization.json:BuffName
+BuffName.CC_Provoke,ยั่วยุ,localization.json:BuffName
+BuffName.CC_Paralysis,อัมพาต,localization.json:BuffName
+BuffName.CC_Emp,EMP,localization.json:BuffName
+BuffName.CC_Confusion,สับสน,localization.json:BuffName
+BuffName.CC_Frozen,แช่แข็ง,localization.json:BuffName
+BuffName.Special_EnergyBatteryEmpty,ชาร์จ,localization.json:BuffName
+BuffName.Special_EnergyBatteryHalf,ชาร์จ,localization.json:BuffName
+BuffName.Special_EnergyBatteryFull,ชาร์จ,localization.json:BuffName
+BuffName.Special_FormChange,โจมตีทั่วไป,localization.json:BuffName
+BuffName.Special_Immortal,เป็นอมตะ,localization.json:BuffName
+BuffName.Special_ImmuneDamage,ไม่ได้รับความเสียหาย,localization.json:BuffName
+BuffName.Special_Fury,โกรธ,localization.json:BuffName
+BuffName.Special_Misdeed,ความชั่ว,localization.json:BuffName
+BuffName.Special_LittleDevil,ปีศาจน้อย,localization.json:BuffName
+BuffName.Special_Accumulation,สะสม,localization.json:BuffName
+BuffName.Special_CostRegenBan,หยุดการฟื้นฟูค่าใช้สกิล EX,localization.json:BuffName
+BuffName.Special_ImmuneCC,ต้านทานเอฟเฟกต์กดขี่,localization.json:BuffName
+BuffName.Special_SuddenDeath,รอยประทับของวาคาโมะ,localization.json:BuffName
+BuffName.Special_Stamp,ตราชื่นชม,localization.json:BuffName
+BuffName.Special_Holiday,พรแห่งค่ำคืนศักดิ์สิทธิ์,localization.json:BuffName
+BuffName.Special_SilverBullet,โจมตีทั่วไป,localization.json:BuffName
+BuffName.Special_CH0187Mod,โหมดอาบี-เอชูฮ์,localization.json:BuffName
+BuffName.Special_Omamori,เครื่องราง,localization.json:BuffName
+BuffName.Special_Dado,จิตใจอันบริสุทธิ์,localization.json:BuffName
+BuffName.Special_DebuffCountGreen,ปลอดภัย,localization.json:BuffName
+BuffName.Special_DebuffCountYellow,เตือนภัย,localization.json:BuffName
+BuffName.Special_DebuffCountRed,อันตราย,localization.json:BuffName
+BuffName.Special_OldBook,เบาะแส,localization.json:BuffName
+BuffName.Special_CH0089_ExtraPassive,สว่าน,localization.json:BuffName
+BuffName.Special_Pray,คำภาวนา,localization.json:BuffName
+BuffName.Special_CH0224_Public,เร่าร้อน,localization.json:BuffName
+BuffName.Special_CH0225_ExtraPassive,ฟูรินคะซัน,localization.json:BuffName
+BuffName.Special_CH0233_ExtraPassive,มันเผาอุ่นๆ,localization.json:BuffName
+BuffName.Special_CH0231_ExtraPassive,คุ้มกันสำเร็จ,localization.json:BuffName
+BuffName.Special_CH0239_ExtraPassive,แทรกซึม,localization.json:BuffName
+BuffName.Special_EN0008_Obelisk,เกินพิกัด,localization.json:BuffName
+BuffName.Special_CH0220_Public,ชูการ์ รัช,localization.json:BuffName
+BuffName.Special_CH0258_Public,เกราะกันกระสุน,localization.json:BuffName
+BuffName.Special_CH0263_ExtraPassive_02,ล่าถอยช้าลง,localization.json:BuffName
+BuffName.Special_CH0271_Ex,ใบปลิว,localization.json:BuffName
+BuffName.Special_AmplifyDoTAdditionalTick_Poison,เสริมความเสียหายพิษ,localization.json:BuffName
+BuffName.Special_AmplifyDoTReducePeriod_Chill,เสริมความเสียหายหนาวสั่น,localization.json:BuffName
+BuffName.Special_CH0273_ExtraPassive,แฟนเซอร์วิส,localization.json:BuffName
+BuffName.Special_CH0275_Public,แท่งไฟ,localization.json:BuffName
+BuffName.Special_EN0009_UnstableFlame,เปลวไฟที่ไม่เสถียร,localization.json:BuffName
+BuffName.Special_ExSkillCardRedrawStackDummy,การันตีสกิล EX,localization.json:BuffName
+BuffNameLong.Buff_AidAttitude,ความตั้งใจบรรเทาทุกข์,localization.json:BuffNameLong
+BuffNameLong.Buff_AmmoCount,จำนวนกระสุนเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_ATK,ค่าโจมตีเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_AttackSpeed,ความเร็วโจมตีเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_BlockRate,อัตรากำบังสำเร็จเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_ConcentratedTarget,ล็อคเป้า,localization.json:BuffNameLong
+BuffNameLong.Buff_CostChange,ค่าใช้สกิล EX ลดลง,localization.json:BuffNameLong
+BuffNameLong.Buff_CostRegen,ค่าฟื้นฟู Cost เพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_CriticalChance,ค่าคริเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_CriticalChanceResistPoint,ค่าต้านทานคริเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_CriticalDamage,ความเสียหายคริเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_CriticalDamageRateResist,อัตราต้านทานความเสียหายคริเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_DamagedLimit,จำกัดความเสียหายที่ได้รับ,localization.json:BuffNameLong
+BuffNameLong.Buff_DamagedRatio,ความเสียหายที่ได้รับลดลง,localization.json:BuffNameLong
+BuffNameLong.Buff_DamageRatio,ความเสียหายที่ทำได้เพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_DEF,ค่าป้องกันเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_Dodge,ค่าหลบหลีกเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_DotHeal,ฟื้นฟู HP ต่อเนื่อง,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceExplosionRate,ประสิทธิภาพความเสียหายระเบิดเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhancePierceRate,ประสิทธิภาพความเสียหายเจาะเกราะเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceMysticRate,ประสิทธิภาพความเสียหายลึกลับเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceSonicRate,ประสิทธิภาพความเสียหายสั่นสะเทือนเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceLightArmorRate,ประสิทธิภาพเกราะเบาเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceHeavyArmorRate,ประสิทธิภาพเกราะหนักเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceUnarmedRate,ประสิทธิภาพเกราะพิเศษเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_ExtendBuffDuration,ระยะเวลาบัฟเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_ExtendDebuffDuration,ระยะเวลาเอฟเฟกต์อันตรายเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_ExtendCrowdControlDuration,ระยะเวลาเอฟเฟกต์กดขี่เพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_HealByHit_Damaged,ฟื้นฟู HP เมื่อได้รับความเสียหายจากการโจมตี,localization.json:BuffNameLong
+BuffNameLong.Buff_HealEffectiveness,อัตราเร่งการฟื้นฟูเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_HealPower,ค่ารักษาเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_HIT,ค่าความแม่นยำเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_MAXHP,HP สูงสุดเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_MoveSpeed,ความเร็วเคลื่อนที่เพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_OppressionPower,ประสิทธิภาพกดขี่เพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_OppressionResist,ต้านทานการกดขี่เพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_Penetration,ค่าเจาะเกราะเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_Range,ระยะโจมตีทั่วไปเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_Stability,ค่าความเสถียรเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceExDamageRate,ความเสียหายสกิล EX เพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Debuff_AmmoCount,จำนวนกระสุนลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_ATK,ค่าโจมตีลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_AttackSpeed,ความเร็วโจมตีลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_BlockRate,อัตรากำบังสำเร็จลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_Burn,เผาไหม้,localization.json:BuffNameLong
+BuffNameLong.Debuff_Cheerleading,เสียงเชียร์เร่าร้อน,localization.json:BuffNameLong
+BuffNameLong.Debuff_Chill,หนาวสั่น,localization.json:BuffNameLong
+BuffNameLong.Debuff_CostChange,ค่าใช้สกิล EX เพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Debuff_CriticalChance,ค่าคริลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_CriticalChanceResistPoint,ค่าต้านทานคริลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_CriticalDamage,ความเสียหายคริลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_CriticalDamageRateResist,อัตราต้านทานความเสียหายคริลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_DamagedRatio,ความเสียหายที่ได้รับเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Debuff_DamageRatio,ความเสียหายที่ทำได้ลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_DEF,ค่าป้องกันลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_Dodge,ค่าหลบหลีกลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceExplosionRate,ประสิทธิภาพความเสียหายระเบิดลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhancePierceRate,ประสิทธิภาพความเสียหายเจาะเกราะลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceMysticRate,ประสิทธิภาพความเสียหายลึกลับลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceSonicRate,ประสิทธิภาพความเสียหายสั่นสะเทือนลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceLightArmorRate,ประสิทธิภาพเกราะเบาลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceHeavyArmorRate,ประสิทธิภาพเกราะหนักลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceUnarmedRate,ประสิทธิภาพเกราะพิเศษลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_HealedLimit,จำกัดการฟื้นฟู,localization.json:BuffNameLong
+BuffNameLong.Debuff_HealEffectiveness,อัตราเร่งการฟื้นฟูลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_HealPower,ค่ารักษาลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_Hieronymus,คำสาป,localization.json:BuffNameLong
+BuffNameLong.Debuff_HIT,ค่าความแม่นยำลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_MAXHP,HP สูงสุดลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_MoveSpeed,ความเร็วเคลื่อนที่ลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_OppressionPower,ประสิทธิภาพกดขี่ลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_OppressionResist,ต้านทานการกดขี่ลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_Penetration,ค่าเจาะเกราะลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_Poison,พิษ,localization.json:BuffNameLong
+BuffNameLong.Debuff_Range,ระยะโจมตีทั่วไปลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_ElectricShock,ไฟฟ้าช็อต,localization.json:BuffNameLong
+BuffNameLong.Debuff_Stability,ค่าความเสถียรลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceExDamageRate,ความเสียหายสกิล EX ลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_CostRegen,ค่าฟื้นฟู Cost ลดลง,localization.json:BuffNameLong
+BuffNameLong.Debuff_BurnDamagedIncrease,ความเสียหายเผาไหม้เพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Debuff_ChillDamagedIncrease,ความเสียหายหนาวสั่นเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Debuff_ElectricShockDamagedIncrease,ความเสียหายไฟฟ้าช็อตเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.Debuff_PoisonDamagedIncrease,ความเสียหายพิษเพิ่มขึ้น,localization.json:BuffNameLong
+BuffNameLong.CC_Emp,EMP,localization.json:BuffNameLong
+BuffNameLong.Special_EnergyBatteryEmpty,ชาร์จ,localization.json:BuffNameLong
+BuffNameLong.Special_EnergyBatteryHalf,ชาร์จ,localization.json:BuffNameLong
+BuffNameLong.Special_EnergyBatteryFull,ชาร์จ,localization.json:BuffNameLong
+BuffNameLong.Special_FormChange,เปลี่ยนรูปแบบการโจมตี,localization.json:BuffNameLong
+BuffNameLong.Special_Immortal,อมตะ,localization.json:BuffNameLong
+BuffNameLong.Special_Misdeed,ความชั่วร้าย,localization.json:BuffNameLong
+BuffNameLong.Special_LittleDevil,ปีศาจน้อย,localization.json:BuffNameLong
+BuffNameLong.Special_Accumulation,สะสมความเสียหาย,localization.json:BuffNameLong
+BuffNameLong.Special_CostRegenBan,หยุดการฟื้นฟูค่าใช้สกิล EX,localization.json:BuffNameLong
+BuffNameLong.Special_ImmuneCC,ต้านทานเอฟเฟกต์กดขี่,localization.json:BuffNameLong
+BuffNameLong.Special_Stamp,ตราชื่นชม,localization.json:BuffNameLong
+BuffNameLong.Special_Holiday,พรแห่งค่ำคืนศักดิ์สิทธิ์,localization.json:BuffNameLong
+BuffNameLong.Special_SilverBullet,ตราชำระบาป,localization.json:BuffNameLong
+BuffNameLong.Special_CH0187Mod,โหมดอาบี-เอชูฮ์,localization.json:BuffNameLong
+BuffNameLong.Special_Omamori,เครื่องราง,localization.json:BuffNameLong
+BuffNameLong.Special_Dado,จิตใจอันบริสุทธิ์,localization.json:BuffNameLong
+BuffNameLong.Special_DebuffCountGreen,จำนวนเอฟเฟกต์อันตราย : ปลอดภัย,localization.json:BuffNameLong
+BuffNameLong.Special_DebuffCountYellow,จำนวนเอฟเฟกต์อันตราย : เตือนภัย,localization.json:BuffNameLong
+BuffNameLong.Special_DebuffCountRed,จำนวนเอฟเฟกต์อันตราย : อันตราย,localization.json:BuffNameLong
+BuffNameLong.Special_Pray,คำภาวนา,localization.json:BuffNameLong
+BuffNameLong.Special_CH0224_Public,เร่าร้อน,localization.json:BuffNameLong
+BuffNameLong.Special_CH0225_ExtraPassive,ฟูรินคะซัน,localization.json:BuffNameLong
+BuffNameLong.Special_CH0233_ExtraPassive,มันเผาร้อนๆ,localization.json:BuffNameLong
+BuffNameLong.Special_CH0231_ExtraPassive,คุ้มกันสำเร็จ,localization.json:BuffNameLong
+BuffNameLong.Special_EN0008_Obelisk,เกินพิกัด,localization.json:BuffNameLong
+BuffNameLong.Special_CH0258_Public,เกราะกันกระสุน,localization.json:BuffNameLong
+BuffNameLong.Special_CH0263_ExtraPassive_02,ล่าถอยช้าลง,localization.json:BuffNameLong
+BuffNameLong.Special_CH0271_Ex,ใบปลิว,localization.json:BuffNameLong
+BuffNameLong.Special_AmplifyDoTAdditionalTick_Poison,เสริมความเสียหายพิษ,localization.json:BuffNameLong
+BuffNameLong.Special_AmplifyDoTReducePeriod_Chill,เสริมความเสียหายหนาวสั่น,localization.json:BuffNameLong
+BuffNameLong.Special_CH0273_ExtraPassive,แฟนเซอร์วิส,localization.json:BuffNameLong
+BuffNameLong.Special_CH0275_Public,แท่งไฟ,localization.json:BuffNameLong
+BuffNameLong.Special_ExSkillCardRedrawStackDummy,การันตีสกิล EX ใบต่อไป,localization.json:BuffNameLong
+BuffTooltip.Buff_AidAttitude,ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง,localization.json:BuffTooltip
+BuffTooltip.Buff_AmmoCount,เพิ่มจำนวนกระสุนสูงสุดของอาวุธในการโจมตีปกติ,localization.json:BuffTooltip
+BuffTooltip.Buff_ATK,เพิ่มความเสียหายของการโจมตี,localization.json:BuffTooltip
+BuffTooltip.Buff_AttackSpeed,"เพิ่มความเร็วในการโจมตี, รีโหลดและลดดีเลย์ในการโจมตี",localization.json:BuffTooltip
+BuffTooltip.Buff_BlockRate,เพิ่มโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง,localization.json:BuffTooltip
+BuffTooltip.Buff_ConcentratedTarget,เป็นเป้าหมายหลักในการโจมตีของศัตรู,localization.json:BuffTooltip
+BuffTooltip.Buff_CostChange,ลดจำนวนค่าใช้สกิล EX ที่ต้องการในการใช้สกิล EX,localization.json:BuffTooltip
+BuffTooltip.Buff_CostRegen,เพิ่มความเร็วในการฟื้นฟูค่าใช้สกิล EX,localization.json:BuffTooltip
+BuffTooltip.Buff_CriticalChance,เพิ่มโอกาสโจมตีติดคริติคอล,localization.json:BuffTooltip
+BuffTooltip.Buff_CriticalChanceResistPoint,ลดโอกาสถูกโจมตีติดคริติคอล,localization.json:BuffTooltip
+BuffTooltip.Buff_CriticalDamage,เพิ่มความเสียหายของการโจมตีคริติคอล,localization.json:BuffTooltip
+BuffTooltip.Buff_CriticalDamageRateResist,ลดความเสียหายของการถูกโจมตีคริติคอล,localization.json:BuffTooltip
+BuffTooltip.Buff_DamagedLimit,จำกัดปริมาณความเสียหายที่ได้รับจากการโจมตี,localization.json:BuffTooltip
+BuffTooltip.Buff_DamagedRatio,ลดความเสียหายที่ได้รับลงเป็นเปอร์เซ็นต์,localization.json:BuffTooltip
+BuffTooltip.Buff_DamageRatio,เพิ่มความเสียหายที่ทำได้ขึ้นเป็นเปอร์เซ็นต์,localization.json:BuffTooltip
+BuffTooltip.Buff_DEF,ลดความเสียหายเมื่อถูกโจมตี,localization.json:BuffTooltip
+BuffTooltip.Buff_Dodge,เพิ่มโอกาสหลบหลีกการโจมตีได้สำเร็จ,localization.json:BuffTooltip
+BuffTooltip.Buff_DotHeal,ฟื้นฟู HP ช้าๆ เป็นเวลาต่อเนื่อง,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceExplosionRate,เพิ่มความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhancePierceRate,เพิ่มความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceMysticRate,เพิ่มความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceSonicRate,เพิ่มความเสียหายของการโจมตีประเภทสั่นสะเทือนเมื่อโจมตีใส่เป้าหมายที่มีเกราะยืดหยุ่น,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceLightArmorRate,ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะเบา,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceHeavyArmorRate,ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะหนัก,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceUnarmedRate,ลดความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะพิเศษ,localization.json:BuffTooltip
+BuffTooltip.Buff_ExtendBuffDuration,เพิ่มระยะเวลาของบัพที่ใช้กับตัวเองและฝ่ายเรา,localization.json:BuffTooltip
+BuffTooltip.Buff_ExtendDebuffDuration,เพิ่มระยะเวลาของเอฟเฟกต์อันตรายที่ใช้ใส่ฝ่ายศัตรู,localization.json:BuffTooltip
+BuffTooltip.Buff_ExtendCrowdControlDuration,เพิ่มระยะเวลาของเอฟเฟกต์กดขี่ที่ใช้ใส่ฝ่ายศัตรู,localization.json:BuffTooltip
+BuffTooltip.Buff_HealByHit_Damaged,ฟื้นฟู HP เมื่อได้รับความเสียหายจากการโจมตี,localization.json:BuffTooltip
+BuffTooltip.Buff_HealEffectiveness,เพิ่มจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา,localization.json:BuffTooltip
+BuffTooltip.Buff_HealPower,เพิ่มจำนวน HP ที่ฟื้นฟูจากความสามารถรักษาและความเสียหายที่ความสามารถบาเรียดูดซับได้,localization.json:BuffTooltip
+BuffTooltip.Buff_HIT,ลดโอกาสที่จะโจมตีไม่โดนเป้าหมายลง,localization.json:BuffTooltip
+BuffTooltip.Buff_MAXHP,เพิ่มจำนวน HP สูงสุด,localization.json:BuffTooltip
+BuffTooltip.Buff_MoveSpeed,เพิ่มความเร็วเคลื่อนที่,localization.json:BuffTooltip
+BuffTooltip.Buff_OppressionPower,เพิ่มโอกาสในการส่งผลเอฟเฟกต์กดขี่สำเร็จ,localization.json:BuffTooltip
+BuffTooltip.Buff_OppressionResist,ลดโอกาสในการได้รับผลจากเอฟเฟกต์กดขี่,localization.json:BuffTooltip
+BuffTooltip.Buff_Penetration,เพิ่มจำนวนค่าป้องกันที่จะไม่สนใจในการโจมตี,localization.json:BuffTooltip
+BuffTooltip.Buff_Range,เพิ่มระยะในการโจมตีทั่วไป,localization.json:BuffTooltip
+BuffTooltip.Buff_Shield,ดูดซับความเสียหายที่ได้รับเป็นจำนวนหนึ่ง,localization.json:BuffTooltip
+BuffTooltip.Buff_Stability,เพิ่มความเสียหายขั้นต่ำที่สามารถทำได้ในการโจมตี,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceExDamageRate,เพิ่มความเสียหายของสกิล EX ที่สามารถทำได้ขึ้นเป็นเปอร์เซ็นต์,localization.json:BuffTooltip
+BuffTooltip.Debuff_AmmoCount,ลดจำนวนกระสุนสูงสุดของอาวุธในการโจมตีปกติ,localization.json:BuffTooltip
+BuffTooltip.Debuff_ATK,ลดความเสียหายของการโจมตี,localization.json:BuffTooltip
+BuffTooltip.Debuff_AttackSpeed,"ลดความเร็วการโจมตี, รีโหลดและเพิ่มดีเลย์ในการโจมตี",localization.json:BuffTooltip
+BuffTooltip.Debuff_BlockRate,ลดโอกาสกำบังสำเร็จเมื่ออยู่ในกำบัง,localization.json:BuffTooltip
+BuffTooltip.Debuff_Burn,ได้รับความเสียหายเผาไหม้ต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้,localization.json:BuffTooltip
+BuffTooltip.Debuff_Cheerleading,ได้รับความเสียหายเสียงเชียร์เร่าร้อนต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้,localization.json:BuffTooltip
+BuffTooltip.Debuff_Chill,ได้รับความเสียหายหนาวสั่นต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้,localization.json:BuffTooltip
+BuffTooltip.Debuff_ConcentratedTarget,เป็นเป้าหมายหลักในการโจมตีของศัตรู,localization.json:BuffTooltip
+BuffTooltip.Debuff_CostChange,เพิ่มจำนวนค่าใช้สกิล EX ที่ต้องการในการใช้สกิล EX,localization.json:BuffTooltip
+BuffTooltip.Debuff_CostRegen,ลดความเร็วในการฟื้นฟูค่าใช้สกิล EX,localization.json:BuffTooltip
+BuffTooltip.Debuff_CriticalChance,ลดโอกาสโจมตีติดคริติคอล,localization.json:BuffTooltip
+BuffTooltip.Debuff_CriticalChanceResistPoint,เพิ่มโอกาสถูกโจมตีติดคริติคอล,localization.json:BuffTooltip
+BuffTooltip.Debuff_CriticalDamage,ลดความเสียหายของการโจมตีคริติคอล,localization.json:BuffTooltip
+BuffTooltip.Debuff_CriticalDamageRateResist,เพิ่มความเสียหายของการถูกโจมตีคริติคอล,localization.json:BuffTooltip
+BuffTooltip.Debuff_DamageByHit_Damaged,ได้รับความเสียหายเพิ่มเติมทุกครั้งที่ถูกโจมตี,localization.json:BuffTooltip
+BuffTooltip.Debuff_DamagedRatio,เพิ่มความเสียหายที่ได้รับขึ้นเป็นเปอร์เซ็นต์,localization.json:BuffTooltip
+BuffTooltip.Debuff_DamageRatio,ลดความเสียหายที่ทำได้ลงเป็นเปอร์เซ็นต์,localization.json:BuffTooltip
+BuffTooltip.Debuff_DEF,เพิ่มความเสียหายเมื่อถูกโจมตี,localization.json:BuffTooltip
+BuffTooltip.Debuff_Dodge,ลดโอกาสหลบหลีกการโจมตีได้สำเร็จ,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceExplosionRate,ลดความเสียหายของการโจมตีประเภทระเบิดเมื่อโจมตีใส่เป้าหมายที่มีเกราะเบา,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhancePierceRate,ลดความเสียหายของการโจมตีประเภทเจาะเกราะเมื่อโจมตีใส่เป้าหมายที่มีเกราะหนัก,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceMysticRate,ลดความเสียหายของการโจมตีประเภทลึกลับเมื่อโจมตีใส่เป้าหมายที่มีเกราะพิเศษ,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceSonicRate,ลดความเสียหายของการโจมตีประเภทสั่นสะเทือนเมื่อโจมตีใส่เป้าหมายที่มีเกราะยืดหยุ่น,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceLightArmorRate,เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะเบา,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceHeavyArmorRate,เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะหนัก,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceUnarmedRate,เพิ่มความเสียหายที่ได้รับเมื่อประเภทการป้องกันเป็นเกราะพิเศษ,localization.json:BuffTooltip
+BuffTooltip.Debuff_HealedLimit,จำกัดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา,localization.json:BuffTooltip
+BuffTooltip.Debuff_HealEffectiveness,ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษา,localization.json:BuffTooltip
+BuffTooltip.Debuff_HealPower,ลดจำนวน HP ที่ฟื้นฟูจากความสามารถรักษาและความเสียหายที่ความสามารถบาเรียดูดซับได้,localization.json:BuffTooltip
+BuffTooltip.Debuff_Hieronymus,สร้างความเสียหายอย่างต่อเนื่อง<br>สร้างความเสียหายรุนแรงในรัศมีรอบเป้าหมายหากดีบัฟไม่ถูกล้างออกก่อนระยะเวลาดีบัฟจบลง<br>ดีบัฟสามารถถูกล้างออกด้วยการรักษาเป้าหมายให้ HP เป็น 100%,localization.json:BuffTooltip
+BuffTooltip.Debuff_HIT,เพิ่มโอกาสที่จะโจมตีไม่โดนเป้าหมายขึ้น,localization.json:BuffTooltip
+BuffTooltip.Debuff_MAXHP,ลดจำนวน HP สูงสุด,localization.json:BuffTooltip
+BuffTooltip.Debuff_MoveSpeed,ลดความเร็วเคลื่อนที่,localization.json:BuffTooltip
+BuffTooltip.Debuff_OppressionPower,ลดโอกาสในการส่งผลเอฟเฟกต์กดขี่สำเร็จ,localization.json:BuffTooltip
+BuffTooltip.Debuff_OppressionResist,เพิ่มโอกาสในการได้รับผลจากเอฟเฟกต์กดขี่,localization.json:BuffTooltip
+BuffTooltip.Debuff_Penetration,ลดจำนวนค่าป้องกันที่จะไม่สนใจในการโจมตี,localization.json:BuffTooltip
+BuffTooltip.Debuff_Poison,ได้รับความเสียหายพิษต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้,localization.json:BuffTooltip
+BuffTooltip.Debuff_Range,ลดระยะในการโจมตีทั่วไป,localization.json:BuffTooltip
+BuffTooltip.Debuff_ElectricShock,ได้รับความเสียหายไฟฟ้าช็อตต่อเนื่อง<br>ความเสียหายนี้ไม่สามารถติดคริติคอลได้,localization.json:BuffTooltip
+BuffTooltip.Debuff_Stability,ลดความเสียหายขั้นต่ำที่สามารถทำได้ในการโจมตี,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceExDamageRate,ลดความเสียหายของสกิล EX ที่สามารถทำได้ลงเป็นเปอร์เซ็นต์,localization.json:BuffTooltip
+BuffTooltip.Debuff_BurnDamagedIncrease,เพิ่มความเสียหายเผาไหม้ที่ได้รับ,localization.json:BuffTooltip
+BuffTooltip.Debuff_ChillDamagedIncrease,เพิ่มความเสียหายหนาวสั่นที่ได้รับ,localization.json:BuffTooltip
+BuffTooltip.Debuff_ElectricShockDamagedIncrease,เพิ่มความเสียหายไฟฟ้าช็อตที่ได้รับ,localization.json:BuffTooltip
+BuffTooltip.Debuff_PoisonDamagedIncrease,เพิ่มความเสียหายพิษที่ได้รับ,localization.json:BuffTooltip
+BuffTooltip.CC_Fear,ไม่สามารถตอบสนองได้และจะค่อยๆ เคลื่อนที่ออกจากคนที่ส่งผลเอฟเฟกต์กลัว นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก,localization.json:BuffTooltip
+BuffTooltip.CC_Stunned,ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก,localization.json:BuffTooltip
+BuffTooltip.CC_Provoke,ถูกบังคับให้โจมตีใส่คนที่ส่งผลเอฟเฟกต์ยั่วยุ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก,localization.json:BuffTooltip
+BuffTooltip.CC_Emp,ไม่สามารถตอบสนองได้ นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก,localization.json:BuffTooltip
+BuffTooltip.CC_Confusion,เปลี่ยนเป้าหมายของการโจมตีทั่วไปเป็นฝ่ายเดียวกันแทน นอกจากนี้การใช้งานสกิลทั้งหมดจะถูกยกเลิก,localization.json:BuffTooltip
+BuffTooltip.Special_EnergyBatteryEmpty,เพิ่มประสิทธิภาพสกิล EX และสกิลรองของอาริสึขึ้น 1.5 เท่า (ครึ่งหนึ่ง) หรือ 2 เท่า (เต็ม) ระดับการชาร์จจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิล EX,localization.json:BuffTooltip
+BuffTooltip.Special_EnergyBatteryHalf,เพิ่มประสิทธิภาพสกิล EX และสกิลรองของอาริสึขึ้น 1.5 เท่า (ครึ่งหนึ่ง) หรือ 2 เท่า (เต็ม) ระดับการชาร์จจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิล EX,localization.json:BuffTooltip
+BuffTooltip.Special_EnergyBatteryFull,เพิ่มประสิทธิภาพสกิล EX และสกิลรองของอาริสึขึ้น 1.5 เท่า (ครึ่งหนึ่ง) หรือ 2 เท่า (เต็ม) ระดับการชาร์จจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิล EX,localization.json:BuffTooltip
+BuffTooltip.Special_FormChange,เปลี่ยนรูปแบบของการโจมตีทั่วไป,localization.json:BuffTooltip
+BuffTooltip.Special_Immortal,HP จะไม่ลดลงไปต่ำกว่า 1 จนกว่าระยะเวลาของเอฟเฟกต์จะหมดลงหรือได้รับความเสียหายพิเศษที่ไม่สนใจเอฟเฟกต์นี้,localization.json:BuffTooltip
+BuffTooltip.Special_ImmuneDamage,ไม่ได้รับความเสียหายใดๆ,localization.json:BuffTooltip
+BuffTooltip.Special_Fury,เพิ่มความเสียหายที่ทำได้จากสกิล EX ของเนรุ,localization.json:BuffTooltip
+BuffTooltip.Special_Misdeed,ลดค่าป้องกันต่อจำนวนที่ถือครองและคืนค่าใช้สกิล EX ให้เมื่ออารุ (ปีใหม่) ใช้สกิล EX,localization.json:BuffTooltip
+BuffTooltip.Special_LittleDevil,เพิ่มความเสียหายคริติคอลต่อจำนวนที่ถือครองและเพิ่มความเสียหายที่ทำได้จากสกิลพื้นฐานของมุทซึกิ (ปีใหม่) เมื่อซ้อนทับถึง 6 ชั้น,localization.json:BuffTooltip
+BuffTooltip.Special_Accumulation,ความเสียหายที่ทำใส่เป้าหมายในระยะเวลาของเอฟเฟกต์นี้จะถูกสะสมและเปลี่ยนเป็นความเสียหายเพิ่มเติมใส่เป้าหมายอีกครั้งเมื่อระยะเวลาของเอฟเฟกต์นี้จบลง,localization.json:BuffTooltip
+BuffTooltip.Special_CostRegenBan,อัตราการฟื้นฟูค่าใช้สกิล EX ถูกลดลงเป็น 0,localization.json:BuffTooltip
+BuffTooltip.Special_ImmuneCC,ไม่ได้รับผลจากเอฟเฟกต์กดขี่ใดๆ,localization.json:BuffTooltip
+BuffTooltip.Special_SuddenDeath,"เมื่อซ้อนทับครบ 5 ชั้น, สร้างความเสียหายที่จะสังหารเป้าหมายทันที",localization.json:BuffTooltip
+BuffTooltip.Special_Stamp,ลดค่าใช้สกิล EX ของฝ่ายเรายกเว้นตัวเองลง 1 และฟื้นฟู HP ของตัวเองเมื่อสะสมครบ 5 ชั้น ตราชื่นชมจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลรอง,localization.json:BuffTooltip
+BuffTooltip.Special_Holiday,เพิ่มประสิทธิภาพของสกิล EX บางสกิลที่ส่งผลกับเป้าหมายที่มีเอฟเฟกต์นี้,localization.json:BuffTooltip
+BuffTooltip.Special_SilverBullet,การโจมตีทั่วไปของซากุราโกะจะสร้างความเสียหายเพิ่มเติม,localization.json:BuffTooltip
+BuffTooltip.Special_CH0187Mod,"เพิ่มค่าโจมตี, ความแม่นยำและหลบหลีกของโทคิ เปลี่ยนรูปแบบของสกิล EX และการโจมตีทั่วไปของโทคิ รวมทั้งเพิ่มความสามารถในการไม่สนค่าป้องกันของศัตรูส่วนหนึ่งให้กับสกิลพื้นฐานและสกิลรอง โหมดอาบี-เอชูฮ์จะสิ้นสุดลงเมื่อใช้งานสกิล EX ในโหมดอาบี-เอชูฮ์ครบ 3 ครั้ง",localization.json:BuffTooltip
+BuffTooltip.Special_Omamori,เพิ่มประสิทธิภาพความเสียหายลึกลับเมื่อสกิลรองของคาโยโกะ (ปีใหม่) ทำงาน,localization.json:BuffTooltip
+BuffTooltip.Special_Dado,การโจมตีของคาโฮะจะสร้างความเสียหายเพิ่มเติม,localization.json:BuffTooltip
+BuffTooltip.Special_DebuffCountGreen,เพิ่มความเสียหายที่เกรกอรีโอและผู้ประสานเสียงได้รับ,localization.json:BuffTooltip
+BuffTooltip.Special_DebuffCountYellow,เพิ่มความเสียหายที่เกรกอรีโอและผู้ประสานเสียงได้รับ เพิ่มค่าโจมตีของเกรโกริโอและผู้ประสานเสียง,localization.json:BuffTooltip
+BuffTooltip.Special_DebuffCountRed,เพิ่มค่าโจมตีของเกรกอรีโอและผู้ประสานเสียง,localization.json:BuffTooltip
+BuffTooltip.Special_OldBook,เพิ่มประสิทธิภาพความเสียหายเจาะเกราะของนักเรียน Striker ฝ่ายเราทั้งหมดเมื่อสะสมครบ 3 ชิ้น เบาะแสจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลพื้นฐาน,localization.json:BuffTooltip
+BuffTooltip.Special_CH0089_ExtraPassive,ทำให้สกิล EX ของคาซึมิสร้างความเสียหายเพิ่มเติมอีกครั้งเมื่อครบ 3 ชั้น สว่านจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิลรอง,localization.json:BuffTooltip
+BuffTooltip.Special_Pray,ทำให้สกิล EX ของยูคาริการันตีสร้างความเสียหายคริเพิ่มเติม ซึ่งความรุนแรงจะเพิ่มขึ้นตามจำนวนคำภาวนาทุกๆ 10 ชั้นที่ใช้ไป,localization.json:BuffTooltip
+BuffTooltip.Special_CH0224_Public,การโจมตีของเรนเกะจะสร้างความเสียหายเพิ่มเติม,localization.json:BuffTooltip
+BuffTooltip.Special_CH0225_ExtraPassive,"เมื่อสะสมครบ 3 ชั้น, หากคิเคียวใช้สกิล EX จะทำการลดค่าใช้สกิล EX ของฝ่ายเราทั้งหมดยกเว้นตัวเองลง 1 ฟูรินคะซันจะถูกรีเซ็ทเป็น 0 หลังการใช้งานสกิล EX ดังกล่าว",localization.json:BuffTooltip
+BuffTooltip.Special_CH0233_ExtraPassive,การโจมตีของฮาเระจะสร้างความเสียหายเพิ่มเติม จำนวนมันเผาร้อนๆจะลดลง 1 ทุกครั้งหลังการโจมตี,localization.json:BuffTooltip
+BuffTooltip.Special_CH0231_ExtraPassive,เพิ่มค่าโจมตีและความเสียหายที่ทำได้ของสกิลพื้นฐานของอาโกะ (เดรส),localization.json:BuffTooltip
+BuffTooltip.Special_CH0239_ExtraPassive,เพิ่มความเสียหายคริและทำให้สกิล EX ของคาโยโกะ (เดรส) การันตีสร้างความเสียหายคริแน่นอน,localization.json:BuffTooltip
+BuffTooltip.Special_EN0008_Obelisk,ไม่สามารถตกเป็นเป้าหมายของสายฟ้าฟาดจากสกิลของความโกรธแค้นของเซ็ตได้,localization.json:BuffTooltip
+BuffTooltip.Special_CH0220_Public,เสริมประสิทธิภาพของสกิลบางสกิลของสมาชิกวงชูการ์ รัช,localization.json:BuffTooltip
+BuffTooltip.Special_CH0258_Public,ลดความเสียหายที่ได้รับของโฮชิโนะ (พร้อมรบ),localization.json:BuffTooltip
+BuffTooltip.Special_CH0263_ExtraPassive_02,ชิโรโกะ (เทอเรอร์) จะไม่ล่าถอยตราบที่เอฟเฟกต์นี้ยังมีผลอยู่ แต่จะล่าถอยทันทีที่ระยะเวลาของเอฟเฟกต์นี้หมดลงและ HP ของชิโรโกะ (เทอเรอร์) ไม่ได้รับการฟื้นฟูจนเต็ม,localization.json:BuffTooltip
+BuffTooltip.Special_CH0271_Ex,เพิ่มประสิทธิภาพของสกิลพื้นฐานของโทโมเอะ (กี่เผ้า) ตามจำนวนเอฟเฟกต์ใบปลิวที่ฝ่ายเรามีอยู่,localization.json:BuffTooltip
+BuffTooltip.Special_AmplifyDoTAdditionalTick_Poison,ทำให้เอฟเฟกต์พิษที่ทำใส่เป้าหมายที่มีเอฟเฟกต์นี้สร้างความเสียหายเพิ่มเติม,localization.json:BuffTooltip
+BuffTooltip.Special_AmplifyDoTReducePeriod_Chill,ทำให้เอฟเฟกต์หนาวสั่นที่ทำใส่เป้าหมายที่มีเอฟเฟกต์นี้ลดระยะเวลาแสดงผลต่อครั้งลง,localization.json:BuffTooltip
+BuffTooltip.Special_CH0273_ExtraPassive,เมื่อสะสมครบ 3 ชั้น จะทำการลดค่าใช้สกิล EX ของฝ่ายเราทั้งหมดยกเว้นตัวเองลง 1 แฟนเซอร์วิสจะถูกรีเซ็ทเป็น 0 หลังการใช้งานเอฟเฟกต์ดังกล่าว,localization.json:BuffTooltip
+BuffTooltip.Special_CH0275_Public,เสริมประสิทธิภาพของสกิลพื้นฐานของมิเนะ (ไอดอล),localization.json:BuffTooltip
+BuffTooltip.Special_EN0009_UnstableFlame,มอบเอฟเฟกต์เพิ่มความเสียหายที่คอคมาห์ได้รับเพิ่มเติมเมื่อคอคมาห์ถูกบาลิสต้าโจมตีในขณะที่มีเอฟเฟกต์นี้อยู่,localization.json:BuffTooltip
+BuffTooltip.Special_ExSkillCardRedrawStackDummy,การันตีว่าสกิล EX ใบต่อไปที่ได้จะเป็นของนักเรียนที่มีเอฟเฟกต์นี้,localization.json:BuffTooltip
+CharacterSize.Small,เล็ก,localization.json:CharacterSize
+CharacterSize.Medium,กลาง,localization.json:CharacterSize
+CharacterSize.Large,ใหญ่,localization.json:CharacterSize
+CharacterSize.XLarge,มหึมา,localization.json:CharacterSize
+FurnitureSet.0,ไม่มี,localization.json:FurnitureSet
+FurnitureSet.100,เซ็ตคาเฟ่ MOMO FRIENDS,localization.json:FurnitureSet
+FurnitureSet.101,เซ็ตเกมเจลลี่,localization.json:FurnitureSet
+FurnitureSet.102,เซ็ตวาเลนไทน์,localization.json:FurnitureSet
+FurnitureSet.103,เซ็ตปาร์ตี้ริมสระรีสอร์ตฤดูร้อน,localization.json:FurnitureSet
+FurnitureSet.104,เซ็ตคาเฟ่ฟักทอง ฮาโลวีน,localization.json:FurnitureSet
+FurnitureSet.105,เซ็ตออนเซ็นดั้งเดิม,localization.json:FurnitureSet
+FurnitureSet.106,เซ็ตแต่งบ้านปีใหม่,localization.json:FurnitureSet
+FurnitureSet.107,เซ็ตค่ายทหาร,localization.json:FurnitureSet
+FurnitureSet.108,เซ็ตริมหาด,localization.json:FurnitureSet
+FurnitureSet.109,เซ็ตงานแข่งขันกีฬา,localization.json:FurnitureSet
+FurnitureSet.110,เซ็ตห้องเรียนอะบิดอส,localization.json:FurnitureSet
+FurnitureSet.111,เซ็ตชมรมพัฒนาเกม,localization.json:FurnitureSet
+FurnitureSet.112,เซ็ตรีสอร์ตซันไชน์,localization.json:FurnitureSet
+FurnitureSet.113,เซ็ตช็อปปิ้งมอลล์,localization.json:FurnitureSet
+FurnitureSet.114,เซ็ตปาร์ตี้เกเฮนน่า,localization.json:FurnitureSet
+FurnitureSet.115,เซ็ตห้องเรียนทรีนิตี้,localization.json:FurnitureSet
+FurnitureSet.116,DJ Party Venue Set,localization.json:FurnitureSet
+FurnitureSet.117,Hyakkiyako Set,localization.json:FurnitureSet
+VoiceClipGroup.Normal,เสียงทั่วไป,localization.json:VoiceClipGroup
+VoiceClipGroup.Battle,เสียงต่อสู้,localization.json:VoiceClipGroup
+VoiceClipGroup.Lobby,เสียงหน้าล็อบบี้,localization.json:VoiceClipGroup
+VoiceClipGroup.Event,เสียงหน้าอีเวนท์,localization.json:VoiceClipGroup
+VoiceClip.UITitleIdle,หน้าเริ่มเกม,localization.json:VoiceClip
+VoiceClip.CharacterGetIdle,ได้รับ,localization.json:VoiceClip
+VoiceClip.CafeIdle,คาเฟ่ {0},localization.json:VoiceClip
+VoiceClip.UILobbyEnter,เข้าหน้าล็อบบี้ {0},localization.json:VoiceClip
+VoiceClip.UILobbyIdle,หน้าล็อบบี้ {0},localization.json:VoiceClip
+VoiceClip.UILobbyUserBDay,วันเกิดของเซ็นเซย์,localization.json:VoiceClip
+VoiceClip.UILobbyStudentBDay,วันเกิดของตัวเอง,localization.json:VoiceClip
+VoiceClip.UILobbyNewYear,ปีใหม่,localization.json:VoiceClip
+VoiceClip.UILobbyXmas,คริสต์มาสต์,localization.json:VoiceClip
+VoiceClip.UILobbyHalloween,ฮาโลวีน,localization.json:VoiceClip
+VoiceClip.WeaponGetIdle,ติดตั้งอาวุธเฉพาะ,localization.json:VoiceClip
+VoiceClip.UILobbySpecial,ล็อบบี้แห่งความทรงจำ {0},localization.json:VoiceClip
+VoiceClip.FormationIn,จัดทีม {0},localization.json:VoiceClip
+VoiceClip.FormationSelect,เลือกจัดทีม,localization.json:VoiceClip
+VoiceClip.TacticIn,เข้ากลยุทธ์ {0},localization.json:VoiceClip
+VoiceClip.TacticVictory,ชนะกลยุทธ์ {0},localization.json:VoiceClip
+VoiceClip.TacticDefeat,แพ้กลยุทธ์ {0},localization.json:VoiceClip
+VoiceClip.BattleIn,เข้ายุทธวิธี {0},localization.json:VoiceClip
+VoiceClip.BattleRecovery,ได้รับการฟื้นฟู HP,localization.json:VoiceClip
+VoiceClip.BattleVictory,ชนะยุทธวิธี {0},localization.json:VoiceClip
+VoiceClip.BattleRetire,ล่าถอยในยุทธวิธี {0},localization.json:VoiceClip
+VoiceClip.CommonSkill,สกิลพื้นฐาน {0},localization.json:VoiceClip
+VoiceClip.CommonSkillSummon,สกิลพื้นฐาน {0},localization.json:VoiceClip
+VoiceClip.SummonRetreat,ล่าถอยในยุทธวิธี (วัตถุอัญเชิญ) {0},localization.json:VoiceClip
+VoiceClip.Growup,พัฒนานักเรียน {0},localization.json:VoiceClip
+VoiceClip.RelationshipUp,เพิ่มระดับสายใย {0},localization.json:VoiceClip
+VoiceClip.BattleDefense,หลบหลีกการโจมตีสำเร็จ,localization.json:VoiceClip
+VoiceClip.BattleBuffed,ได้รับบัฟ {0},localization.json:VoiceClip
+VoiceClip.BattleBuffSelf,ได้บัฟของตัวเอง {0},localization.json:VoiceClip
+VoiceClip.BattleTacticalAction,ดำเนินยุทธวิธี,localization.json:VoiceClip
+VoiceClip.BattleMove,ย้ายโซน {0},localization.json:VoiceClip
+VoiceClip.BattleCovered,เข้าที่กำบัง {0},localization.json:VoiceClip
+VoiceClip.ExSkill,คัทซีนสกิล EX {0},localization.json:VoiceClip
+VoiceClip.ExSkillLevel,สกิล EX (บนสนาม) {0},localization.json:VoiceClip
+VoiceClip.Formchange,เปลี่ยนรูปแบบการต่อสู้,localization.json:VoiceClip
+VoiceClip.UIEventLobbyEnter,เข้าหน้าล็อบบี้อีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventLobbyIdle,หน้าล๊อบบี้อีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventShopEnter,เข้าหน้าร้านค้าอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventShopIdle,หน้าร้านค้าอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventShopBuy,ซื้อของร้านค้าอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventBoxGachaShopEnter,เข้าหน้าแลกรางวัลอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventBoxGachaShopIdle,หน้าแลกรางวัลอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventBoxGachaShopBoxGachaPrize,ได้รับรางวัลหลักจากกล่องแลกรางวัลอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventBoxGachaShopBoxGachaFinish,ระยะเวลาแลกรางวัลอีเวนท์สิ้นสุดลง {0},localization.json:VoiceClip
+VoiceClip.UIEventMissionEnter,เข้าหน้าภารกิจอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventMissionIdle,หน้าภารกิจอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventMissionBuy,รับรางวัลภารกิจอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventMissionInteraction,รับรางวัลภารกิจอีเวนท์รายวัน {0},localization.json:VoiceClip
+VoiceClip.UIEventCardShopEnter,เข้าหน้าสุ่มการ์ดอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventCardShopIdle,หน้าสุ่มการ์ดอีเวนท์ {0},localization.json:VoiceClip
+VoiceClip.UIEventCardShopPrize3,สุ่มได้การ์ด UR,localization.json:VoiceClip
+VoiceClip.UIEventCardShopPrize2,สุ่มได้การ์ด SR,localization.json:VoiceClip
+VoiceClip.UIEventCardShopPrize1,สุ่มได้การ์ด R,localization.json:VoiceClip
+VoiceClip.UIEventCardShopPrize0,สุ่มได้การ์ด N,localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopEnter,เข้าหน้าโอะมิกุจิ {0},localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopIdle,หน้าโอะมิกุจิ {0},localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck5,โอะมิกุจิ [โชคดีครั้งใหญ่],localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck4,โอะมิกุจิ [โชคดีมาก],localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck3,โอะมิกุจิ [โชคดีกลาง],localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck2,โอะมิกุจิ [โชคดีเล็ก],localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck1,โอะมิกุจิ [โชคดีนิดนึง],localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck0,โอะมิกุจิ [ลางร้าย],localization.json:VoiceClip
+VoiceClip.UIEventMiniGameMissionEnter,เข้าหน้าภารกิจมินิเกม {0},localization.json:VoiceClip
+VoiceClip.UIEventMiniGameMissionIdle,หน้าภารกิจมินิเกม {0},localization.json:VoiceClip
+VoiceClip.UIEventMiniGameMissionBuy,รับรางวัลหน้าภารกิจมินิเกม {0},localization.json:VoiceClip
+VoiceClip.UISpecialOperationLobbyEnter,เข้าหน้าล็อบบี้ปฏิบัติการณ์พิเศษ {0},localization.json:VoiceClip
+VoiceClip.UISpecialOperationLobbyIdle,หน้าล็อบบี้ปฏิบัติการณ์พิเศษ {0},localization.json:VoiceClip
+VoiceClip.UISpecialOperationLobbyCollectionOpen,ได้รับข้อมูลปฏิบัติการณ์พิเศษ {0},localization.json:VoiceClip
+VoiceClip.UISpecialOperationLobbyStoryOpen,ปลดล็อคเนื้อเรื่องปฏิบัติการณ์พิเศษ {0},localization.json:VoiceClip
+Shortcut.Students,"ดูค่าสถานะ, สกิล, อาวุธประจำตัว, อุปกรณ์สวมใส่และอื่นๆ ของบรรดานักเรียนทั้งหมดที่สามารถเล่นได้",localization.json:Shortcut
+Shortcut.Calculator,"คำนวนค่าความเสียหาย, ปริมาณการรักษาและผลของเอฟเฟกต์อื่นๆ จากสกิลของนักเรียนและศัตรูทั้งหมดในเกม",localization.json:Shortcut
+Shortcut.Raids,"ดูข้อมูลของเรดบอส, แกรนด์เรดบอสและการสอบประมวล",localization.json:Shortcut
+Shortcut.Items,"ดูข้อมูลของไอเทม, เฟอร์นิเจอร์, อุปกรณ์สวมใส่และแหล่งที่สามารถได้รับ",localization.json:Shortcut
+Shortcut.Stages,"ดูข้อมูลของศัตรู, แผนที่และรางวัลที่ได้รับของด่านต่างๆ",localization.json:Shortcut
+Shortcut.Crafting,ดูข้อมูลเกี่ยวกับโหนดสร้างของและโอกาสในการได้รับไอเทมต่างๆ จากการสร้างของ,localization.json:Shortcut
+UI.navbar_home,หน้าหลัก,localization.json:UI
+UI.students,นักเรียน,localization.json:UI
+UI.student,นักเรียน,localization.json:UI
+UI.enemy,ศัตรู,localization.json:UI
+UI.stages,ภารกิจ,localization.json:UI
+UI.events,อีเวนท์,localization.json:UI
+UI.raids,เรดบอส,localization.json:UI
+UI.crafting,สร้าง,localization.json:UI
+UI.tools,เครื่องมือ,localization.json:UI
+UI.damage_calculator,ตัวคำนวนความเสียหาย,localization.json:UI
+UI.student_compare,เปรียบเทียบนักเรียน,localization.json:UI
+UI.synthesis,สร้างวัตถุ,localization.json:UI
+UI.fusion,รวมวัตถุ,localization.json:UI
+UI.shops,ร้านค้า,localization.json:UI
+UI.schedule,เข้าคลาส,localization.json:UI
+UI.event_stages,ด่าน,localization.json:UI
+UI.event_shop,ร้านค้า,localization.json:UI
+UI.item_sources,แหล่งได้รับ,localization.json:UI
+UI.item_usage,การใช้งาน,localization.json:UI
+UI.item,ไอเทม,localization.json:UI
+UI.settings,ตั้งค่า,localization.json:UI
+UI.settings_appearance,รูปแบบ,localization.json:UI
+UI.settings_server,เซิร์ฟเวอร์,localization.json:UI
+UI.settings_server_description,เลือกเซิร์ฟเวอร์เกมเพื่อดูข้อมูลที่มีอยู่ในเซิร์ฟเวอร์นั้น,localization.json:UI
+UI.settings_language,ภาษา,localization.json:UI
+UI.settings_language_description,"ข้อมูลบางอย่างอาจจะยังไม่ได้รับการแปลอย่างสมบูรณ์, ขึ้นอยู่กับเซิร์ฟเวอร์ของเกมที่เลือก",localization.json:UI
+UI.settings_theme,ธีม,localization.json:UI
+UI.settings_theme_description,Auto จะตั้งค่าตามธีมของอุปกรณ์คุณ,localization.json:UI
+UI.settings_contrast,ความละเอียดสูง,localization.json:UI
+UI.settings_contrast_description,ปิดพื้นหลังแบบไดนามิคและวิชวลเอฟเฟกต์บางอย่างเพื่อทำให้ตัวอักษรสามารถอ่านได้ง่ายขึ้น,localization.json:UI
+UI.settings_experiments,อยู่ในการทดสอบ,localization.json:UI
+UI.settings_preferences,ตั้งค่าการแสดงผล,localization.json:UI
+UI.settings_itemids,แสดง ID ของไอเทม,localization.json:UI
+UI.settings_itemids_description,แสดง ID ภายในเกมของไอเทม หากมี,localization.json:UI
+UI.settings_distanceunit,หน่วยวัดระยะ,localization.json:UI
+UI.settings_distanceunit_description,รูปแบบของหน่วยวัดระยะสำหรับระยะและรัศมีของสกิลที่ต้องการ,localization.json:UI
+UI.settings_animationunit,หน่วยวัดเวลา,localization.json:UI
+UI.settings_animationunit_description,รูปแบบของหน่วยวัดเวลาสำหรับระยะเวลาอนิเมชั่นของสกิลที่ต้องการ,localization.json:UI
+UI.settings_animation,อนิเมชั่นไอคอน,localization.json:UI
+UI.settings_animation_description,อนิเมชั่นไอคอนจะเปลี่ยนไปเรื่อยๆ ตามรูปของไอเทมที่มีโอกาสได้รับจากการดรอปหรือกลุ่มไอเทมนั้นๆ,localization.json:UI
+UI.settings_data,การจัดการข้อมูล,localization.json:UI
+UI.settings_servercollection,แยกข้อมูลคอลเลคชั่นที่ทำไว้ตามเซิร์ฟเวอร์ที่เลือก,localization.json:UI
+UI.settings_servercollection_description,จัดเก็บข้อมูลคอลเลคชั่นโดยแยกไปตามเซิร์ฟเวอร์ที่เลือกไว้ หากปิดเอาไว้ ข้อมูลคอลเลคชั่นทั้งหมดจะอ้างอิงจากข้อมูลของเซิร์ฟเวอร์ JP,localization.json:UI
+UI.settings_collection,จัดการข้อมูลในคอลเลคชั่น,localization.json:UI
+UI.settings_collection_description,นำเข้าหรือส่งออกข้อมูลนักเรียนในคอลเลคชั่น,localization.json:UI
+UI.settings_restorepage,บันทึกหน้าล่าสุดที่ดูไว้,localization.json:UI
+UI.settings_restorepage_description,เริ่มต้น Schale DB จากหน้าล่าสุดที่ดูไว้,localization.json:UI
+UI.settings_defaultpage,ตั้งค่าหน้าเพจดั้งเดิม,localization.json:UI
+UI.settings_defaultpage_description,เลือกว่าจะให้เริ่มต้นด้วยหน้ารายชื่อนักเรียนหรือหน้าสุดท้ายที่เข้าชมก่อนปิดเว็บ,localization.json:UI
+UI.settings_showskilldelay,แสดงดีเลย์การใช้งานของสกิล,localization.json:UI
+UI.settings_showskilldelay_description,แสดงระยะเวลาดีเลย์ของสกิลบัฟและเอฟเฟกต์อันตรายที่ส่งผลเมื่อเทียบกับระยะเวลาอนิเมชั่นของสกิล,localization.json:UI
+UI.settings_screenmode,จำกัดความกว้างของหน้าจอ,localization.json:UI
+UI.settings_screenmode_description,จำกัดความกว้างของหน้าจอเมื่อแสดงผลบนจอขนาดใหญ่,localization.json:UI
+UI.search,ค้นหา,localization.json:UI
+UI.filter_by_name,กรองด้วยชื่อ,localization.json:UI
+UI.collection_export_collection,ส่งออกคอลเลคชั่น,localization.json:UI
+UI.collection_import_collection,นำเข้าคอลเลคชั่น,localization.json:UI
+UI.collection_import_help,"ข้อมูลสามารถนำเข้ามาจาก Schale DB หรือ <a href=""https://justin163.com/planner/"">Justin163's resource planner</a> ได้ (เลือก Transfer > Export)",localization.json:UI
+UI.collection_import_warning,นี่จะเป็นการแทนที่คอลเลคชั่นของคุณในปัจจุบัน,localization.json:UI
+UI.collection_import_status_valid,พบข้อมูลส่งออกสำหรับนักเรียน {0} คน,localization.json:UI
+UI.collection_import_status_invalid,ข้อมูลส่งออกไม่ถูกต้อง,localization.json:UI
+UI.collection_export_placeholder,กดส่งออกเพื่อสร้างรหัสส่งออกจากคอลเลคชั่นของคุณ,localization.json:UI
+UI.collection_import_placeholder,วางรหัสส่งออกที่นี่แล้วกดนำเข้า,localization.json:UI
+UI.collection_export,ส่งออก,localization.json:UI
+UI.collection_import,นำเข้า,localization.json:UI
+UI.setting_off,ปิด,localization.json:UI
+UI.setting_on,เปิด,localization.json:UI
+UI.setting_open,เปิด,localization.json:UI
+UI.setting_normal,ปกติ,localization.json:UI
+UI.setting_slow,ช้า,localization.json:UI
+UI.setting_metric,เมตริก,localization.json:UI
+UI.setting_raw,ตัวเลขดิบ,localization.json:UI
+UI.setting_seconds,วินาที,localization.json:UI
+UI.setting_frames,เฟรม,localization.json:UI
+UI.setting_lastviewed,หน้าสุดท้ายที่เข้าชม,localization.json:UI
+UI.current_events,อีเวนท์ปัจจุบัน,localization.json:UI
+UI.server_region,เซิร์ฟเวอร์{0},localization.json:UI
+UI.server_reset_in,เซิร์ฟเวอร์จะรีเซ็ทในอีก {0} ({1}),localization.json:UI
+UI.home_timezone,ข้อมูลวันและเวลาจะถูกปรับตามโซนเวลาที่คุณอยู่,localization.json:UI
+UI.event_starts,"เริ่มต้นในอีก <b>{0} วัน, {1} ชั่วโมง {2} นาที</b>",localization.json:UI
+UI.event_ends,"สิ้นสุดในอีก <b>{0} วัน, {1} ชั่วโมง {2} นาที</b>",localization.json:UI
+UI.duration_days,{0}วัน,localization.json:UI
+UI.duration_hours,{0}ชั่วโมง,localization.json:UI
+UI.duration_minutes,{0}นาที,localization.json:UI
+UI.student_birthdays,วันเกิดของนักเรียนที่จะมาถึง,localization.json:UI
+UI.attributes,ค่าสถานะ,localization.json:UI
+UI.stats,ค่าสถานะ,localization.json:UI
+UI.sort_order,เรียงตาม,localization.json:UI
+UI.base_stats,ค่าสถานะพื้นฐาน,localization.json:UI
+UI.max_stats,ค่าสถานะสูงสุด,localization.json:UI
+UI.collection_stats,ใช้ค่าสถานะที่บันทึกไว้,localization.json:UI
+UI.sp_sub_skill,สกิลรอง (Special),localization.json:UI
+UI.skills,สกิล,localization.json:UI
+UI.ex_weapon,อาวุธเฉพาะ,localization.json:UI
+UI.ex_gear,อุปกรณ์พิเศษ,localization.json:UI
+UI.profile,โปรไฟล์,localization.json:UI
+UI.voice,เสียง,localization.json:UI
+UI.student_gear_short,อุปกรณ์,localization.json:UI
+UI.student_weapon,อาวุธเฉพาะ,localization.json:UI
+UI.student_ex_gear,อุปกรณ์พิเศษ,localization.json:UI
+UI.student_bond,ระดับสายใย,localization.json:UI
+UI.student_potential,ปลดเพดานความสามารถ,localization.json:UI
+UI.support_stats,รายการค่าพลังเสริม,localization.json:UI
+UI.special_students,นักเรียน Special,localization.json:UI
+UI.add_recommended,เพิ่มบัฟและเอฟเฟกต์อันตรายที่แนะนำ,localization.json:UI
+UI.buff_search,ค้นหาชื่อนักเรียนหรือชื่อสกิล,localization.json:UI
+UI.no_compatible_effects,ไม่มีเอฟเฟกต์ที่ใช้งานร่วมกันได้,localization.json:UI
+UI.buff_overwritten,เอฟเฟกต์ถูกแทนที่ด้วยเอฟเฟกต์ประเภทเดียวกัน,localization.json:UI
+UI.filter_all,ทั้งหมด,localization.json:UI
+UI.filter_bookmark,ที่บุ๊คมาร์คไว้,localization.json:UI
+UI.buff_custom_add,เพิ่มบัฟแบบกำหนดเอง,localization.json:UI
+UI.buff_custom,บัพแบบกำหนดเอง,localization.json:UI
+UI.buff_custom_base,เพิ่มค่าเป็นจำนวนเต็ม,localization.json:UI
+UI.buff_custom_coefficient,เพิ่มค่าเป็นเปอร์เซ็นต์,localization.json:UI
+UI.buff_custom_name_placeholder,ชื่อ (ไม่จำเป็น),localization.json:UI
+UI.buff_custom_value_placeholder,จำนวนค่าที่ต้องการ,localization.json:UI
+UI.student_skills_upgrades,อัปเกรด,localization.json:UI
+UI.student_skills_materials,วัตถุดิบ,localization.json:UI
+UI.student_skills_materials_none,ไม่มีวัตถุดิบที่ต้องการ,localization.json:UI
+UI.student_weapon_rank_2star_desc,เลเวลสูงสุดของอาวุธเฉพาะ Lv.30 → <b>Lv.40</b> / อัปเกรดสกิลติดตัว+,localization.json:UI
+UI.student_weapon_rank_3star_desc,เลเวลสูงสุดของอาวุธเฉพาะ Lv.40 → <b>Lv.50</b> / อัปเกรดความคุ้นชินพื้นที่,localization.json:UI
+UI.student_gear_t2_desc,อัปเกรดสกิลพื้นฐาน+,localization.json:UI
+UI.attack_type_desc,สร้างความเสียหาย <b>&times;{0}</b> ให้กับเป้าหมายประเภท{1},localization.json:UI
+UI.attack_type_normal_desc,"สร้างความเสียหาย <b>&times;1</b> ให้กับเป้าหมายประเภท<b>เกราะทั่วไป</b>, <b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>, <b class='ba-col-mystic'>เกราะพิเศษ</b>และ<b class='ba-col-elasticarmor'>เกราะยืดหยุ่น</b>",localization.json:UI
+UI.defense_type_desc,ได้รับความเสียหาย <b>&times;{0}</b> จากการโจมตีประเภท{1},localization.json:UI
+UI.defense_type_normal_desc,"ได้รับความเสียหาย <b>&times;{0}</b> จากการโจมตีประเภท<b>ทั่วไป</b>,<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>, <b class='ba-col-mystic'>ลึกลับ</b>และ<b class='ba-col-sonic'>สั่นสะเทือน</b>",localization.json:UI
+UI.comfort,ค่าน่าอยู่,localization.json:UI
+UI.age,อายุ,localization.json:UI
+UI.birthday,วันเกิด,localization.json:UI
+UI.hobbies,สนใจ,localization.json:UI
+UI.height,ส่วนสูง,localization.json:UI
+UI.cv,เสียง,localization.json:UI
+UI.designer,ผู้ออกแบบ,localization.json:UI
+UI.illustrator,ผู้วาด,localization.json:UI
+UI.bond_title,โบนัสระดับสายใย,localization.json:UI
+UI.potential_title,โบนัสปลดปล่อยศักยภาพ,localization.json:UI
+UI.favoritem_title,ของขวัญที่ชื่นชอบ,localization.json:UI
+UI.favoritem_none,นักเรียนนี้ไม่มีของขวัญที่ชื่นชอบเป็นพิเศษ,localization.json:UI
+UI.furniture_title,โต้ตอบได้,localization.json:UI
+UI.furniture_none,นักเรียนนี้ไม่มีการโต้ตอบกับเฟอร์นิเจอร์,localization.json:UI
+UI.student_list,รายชื่อนักเรียน,localization.json:UI
+UI.list,รายชื่อ,localization.json:UI
+UI.filters,ตัวกรอง,localization.json:UI
+UI.filters_clear,เคลียร์ {0} ตัวกรอง,localization.json:UI
+UI.students_displayed,แสดงนักเรียนจำนวน {0} / {1},localization.json:UI
+UI.student_search_info,แสดงข้อมูลทั้งหมด,localization.json:UI
+UI.sortby,เรียงตาม,localization.json:UI
+UI.default,ค่าเริ่มต้น,localization.json:UI
+UI.release_date,วันที่เข้าเกม,localization.json:UI
+UI.stat,ค่าสถานะ,localization.json:UI
+UI.name,ชื่อ,localization.json:UI
+UI.type,ประเภท,localization.json:UI
+UI.role,บทบาท,localization.json:UI
+UI.rarity,หายาก,localization.json:UI
+UI.rarity_availability,หายาก,localization.json:UI
+UI.attacktype,ประเภทการโจมตี,localization.json:UI
+UI.defensetype,ประเภทเกราะ,localization.json:UI
+UI.school,โรงเรียน,localization.json:UI
+UI.club,ชมรม,localization.json:UI
+UI.weapon,ประเภทอาวุธ,localization.json:UI
+UI.position,ตำแหน่ง,localization.json:UI
+UI.category,ประเภท,localization.json:UI
+UI.subcategory,ประเภทย่อย,localization.json:UI
+UI.combat_power,ความคุ้นชินพื้นที่,localization.json:UI
+UI.misc,อื่นๆ,localization.json:UI
+UI.uses_cover,ใช้กำบังได้,localization.json:UI
+UI.doesnt_use_cover,ไม่ใช้กำบัง,localization.json:UI
+UI.can_cc,มีเอฟเฟกต์กดขี่,localization.json:UI
+UI.can_buff,มีบัฟ,localization.json:UI
+UI.can_debuff,มีเอฟเฟกต์อันตราย,localization.json:UI
+UI.can_heal,มีการฟื้นฟู HP,localization.json:UI
+UI.can_shield,มีบาเรีย,localization.json:UI
+UI.can_dispel,มีลบเอฟเฟกต์,localization.json:UI
+UI.can_reposition,สามารถเคลื่อนย้ายทีม/ตัวเองได้,localization.json:UI
+UI.can_summon,มีวัตถุอัญเชิญ,localization.json:UI
+UI.ex_ignore_cover,สกิล EX ไม่สนกำบัง,localization.json:UI
+UI.ex_area_damage,สกิล EX ทำดาเมจ AoE,localization.json:UI
+UI.uses_artifact,วัตถุหลงยุคที่ใช้,localization.json:UI
+UI.filter_include_weapon_upgrade,นับรวมผลของอาวุธเฉพาะ,localization.json:UI
+UI.memory_lobby,ล็อบบี้แห่งความทรงจำ,localization.json:UI
+UI.memory_lobby_student,ล็อบบี้แห่งความทรงจำของ{0},localization.json:UI
+UI.memory_lobby_unlock,ปลดล็อคหลังจากระดับสายใยของ{1}ถึงระดับ {0},localization.json:UI
+UI.memory_lobby_unlock_level,ระดับสายใยที่ปลดล็อบบี้ฯ,localization.json:UI
+UI.memory_lobby_bgm_name,เพลงประกอบล็อบบี้ฯ,localization.json:UI
+UI.student_stars,จำนวนดาวที่มี,localization.json:UI
+UI.terrain_adaption,ค่าต่อสู้{0},localization.json:UI
+UI.terrain_adaption_details,สร้างความเสียหาย <b>&times;{0}</b> ในพื้นที่<b>{1}</b> อัตรากำบังสำเร็จเมื่ออยู่ในกำบังเพิ่มขึ้น <b>{2}%</b> อัตรากำบังสำเร็จของศัตรูเมื่อโจมตีลดลง <b>{2}%</b>,localization.json:UI
+UI.stat_details,ค่าสถานะตัวละครแบบละเอียด,localization.json:UI
+UI.buffs,บัฟและเอฟเฟกต์อันตราย,localization.json:UI
+UI.configure_buffs,ตั้งค่าบัฟและเอฟเฟกต์อันตราย,localization.json:UI
+UI.self,ตัวเอง,localization.json:UI
+UI.ally,ฝ่ายเรา,localization.json:UI
+UI.target,เป้าหมาย,localization.json:UI
+UI.summon,วัตถุอัญเชิญ/วัตถุกำบัง,localization.json:UI
+UI.summon_inheritance,ได้รับ{2} {0} ของ{2}ของ{1},localization.json:UI
+UI.damage_reduction,ลดความเสียหายที่ได้รับลง,localization.json:UI
+UI.minimum_damage,ความเสียหายขั้นต่ำ,localization.json:UI
+UI.striker_bonus,สเตตัสโบนัสให้ Striker,localization.json:UI
+UI.stat_info,ข้อมูลค่าพลัง,localization.json:UI
+UI.rec_level,เลเวลแนะนำ,localization.json:UI
+UI.stage_rewards,รางวัลที่มีโอกาสได้รับ,localization.json:UI
+UI.rewards_none,ไม่มีรางวัลที่ได้รับ,localization.json:UI
+UI.rewards_findgift_msg,ศัตรูแต่ละตัวที่ถูกกำจัดจะดรอปไอเทมต่อไปนี้,localization.json:UI
+UI.stage_enemies,ข้อมูลศัตรู,localization.json:UI
+UI.stage_info,ข้อมูล,localization.json:UI
+UI.stage_map,แผนที่,localization.json:UI
+UI.stage_conquest_tile,พื้นที่,localization.json:UI
+UI.event_version,เวอร์ชั่นอีเวนท์,localization.json:UI
+UI.stage_original,ครั้งแรก,localization.json:UI
+UI.stage_rerun,รีรัน,localization.json:UI
+UI.stage_permanent,ถาวร,localization.json:UI
+UI.starcondition_clear,เคลียร์,localization.json:UI
+UI.starcondition_cleartime,เคลียร์ใน {0} วินาที,localization.json:UI
+UI.starcondition_earnrewards,ได้รับรางวัล {0} ชิ้น,localization.json:UI
+UI.starcondition_defeatall,กำจัดศัตรูทั้งหมด,localization.json:UI
+UI.starcondition_defeatalltime,กำจัดศัตรูทั้งหมดภายใน {0} วินาที,localization.json:UI
+UI.starcondition_allsurvive,ปลอดภัยทุกคน,localization.json:UI
+UI.starcondition_complete,จบภารกิจ,localization.json:UI
+UI.starcondition_clearturns,เคลียร์ด่านภายใน {0} เทิร์น,localization.json:UI
+UI.starcondition_sranks,ได้ระดับ S {0} ครั้ง,localization.json:UI
+UI.no_results,ไม่มีผลลัพธ์,localization.json:UI
+UI.furniture_set,เซ็ต,localization.json:UI
+UI.furniture_template,ห้องตามธีม : {0},localization.json:UI
+UI.furniture_templates,ใช้ในเซ็ตเฟอร์นิเจอร์ต่อไปนี้,localization.json:UI
+UI.furniture_size,ขนาดเฟอร์นิเจอร์,localization.json:UI
+UI.others,อื่นๆ,localization.json:UI
+UI.options,ตั้งค่า,localization.json:UI
+UI.details,รายละเอียด,localization.json:UI
+UI.calculations,คำนวน,localization.json:UI
+UI.options_short,ตั้งค่า,localization.json:UI
+UI.rules,กฏพิเศษ,localization.json:UI
+UI.ta_phase,ขั้นที่ {0},localization.json:UI
+UI.craft_rewards,ไอเทมที่สามารถได้รับ,localization.json:UI
+UI.craft_fusion,รวมวัตถุ,localization.json:UI
+UI.craft_recipe_items,วัตถุดิบที่ต้องการ,localization.json:UI
+UI.craft_using,คราฟโดยใช้ไอเทมต่อไปนี้,localization.json:UI
+UI.craft_toggle_chance,แสดง/ซ่อนอัตราการปรากฏของโหนด,localization.json:UI
+UI.craft_toggle_language,แสดงชื่อโหนดในภาษาญี่ปุ่น,localization.json:UI
+UI.bond_req_equip,ต้องการ ของ {1} ระดับ {0} เพื่อสวมใส่,localization.json:UI
+UI.bond_req_upgrade,ต้องการ ของ {1} ระดับ {0} เพื่ออัปเกรด,localization.json:UI
+UI.gacha_pickup,ตู้เพิ่มเรท,localization.json:UI
+UI.rewards,รางวัล,localization.json:UI
+UI.stage_reward_firstclear,ครั้งแรก,localization.json:UI
+UI.stage_reward_threestar,3★,localization.json:UI
+UI.stage_reward_bonus,โบนัส,localization.json:UI
+UI.no_bonus,ไม่มีโบนัสดรอป,localization.json:UI
+UI.max_bonus,โบนัสดรอปสูงสุด,localization.json:UI
+UI.own_bonus,โบนัสดรอปจากนักเรียนที่มี,localization.json:UI
+UI.max_bonus_amount,โบนัสดรอปสูงสุด {0},localization.json:UI
+UI.rewards_season,รางวัลซีซั่น,localization.json:UI
+UI.raid_tab,เรดบอส/แกรนด์เรดบอส,localization.json:UI
+UI.seasons,ซีซั่น,localization.json:UI
+UI.raid_season,ซีซั่น {0},localization.json:UI
+UI.raid_season_select,เลือกซีซั่น,localization.json:UI
+UI.equipment_tier,ระดับอุปกรณ์,localization.json:UI
+UI.show_all,แสดงทั้งหมด,localization.json:UI
+UI.craftable,สร้างในคราฟแชมเบอร์ได้,localization.json:UI
+UI.stagedrop,ฟาร์มในด่านได้,localization.json:UI
+UI.shop,ซื้อในร้านค้าได้,localization.json:UI
+UI.furniture_interaction_list,นักเรียนที่ตอบโต้กับเฟอร์นิเจอร์นี้,localization.json:UI
+UI.item_student_favor,เพิ่มค่าความสัมพันธ์ {0} เมื่อมอบให้กับนักเรียนดังต่อไปนี้,localization.json:UI
+UI.item_student_favor_default,เพิ่มค่าความสัมพันธ์ {0} เมื่อมอบให้กับนักเรียนคนอื่นๆ,localization.json:UI
+UI.item_student_favor_all,เพิ่มค่าความสัมพันธ์ {0} เมื่อมอบให้กับนักเรียนทุกคน,localization.json:UI
+UI.item_usedby_gear,ใช้ในการอัปเกรดอุปกรณ์พิเศษของนักเรียนดังต่อไปนี้,localization.json:UI
+UI.item_usedby_potential,ใช้เพื่อปลดปล่อยศักยภาพให้กับนักเรียนดังต่อไปนี้,localization.json:UI
+UI.item_usedby,ใช้โดยนักเรียนดังต่อไปนี้,localization.json:UI
+UI.item_usedby_exskill_amount,ใช้ในการอัปเกรดสกิล EX: {0},localization.json:UI
+UI.item_usedby_skill_amount,ใช้ในการอัปเกรดสกิลพื้นฐาน/ติดตัว/รอง: {0},localization.json:UI
+UI.item_usedby_skill,ใช้เพื่อพัฒนาสกิลของนักเรียนดังต่อไปนี้,localization.json:UI
+UI.item_usedby_eleph,ใช้เพื่อเพิ่มดาวนักเรียนดังต่อไปนี้,localization.json:UI
+UI.item_usedby_none,ไม่มีนักเรียนที่ใช้ไอเทมนี้,localization.json:UI
+UI.item_obtainedfrom_stage,ได้รับจากด่านดังต่อไปนี้,localization.json:UI
+UI.item_obtainedfrom_synthesis,ได้รับจากโหนดสร้างไอเทมต่อไปนี้,localization.json:UI
+UI.synthesis_ingredients,ต้องการผลรวม 100% จากวัตถุดิบดังต่อไปนี้,localization.json:UI
+UI.random_item,ไอเทมแบบสุ่ม,localization.json:UI
+UI.group_tooltip_overflow,... (คลิกเพื่อดูไอเทมเพิ่มเติมอีก {0} รายการ),localization.json:UI
+UI.ingredient_list,รายชื่อวัตถุดิบ,localization.json:UI
+UI.item_obtainedfrom_fusion,ได้รับจากสูตรรวมไอเทมต่อไปนี้,localization.json:UI
+UI.item_obtainedfrom_consumable,ได้รับจากไอเทมใช้งานต่อไปนี้,localization.json:UI
+UI.item_purchasedfrom,ซื้อได้จากร้านค้าดังต่อไปนี้,localization.json:UI
+UI.item_eventbonus,ไอเทมนี้ได้รับโบนัสดรอปจากนักเรียนดังต่อไปนี้,localization.json:UI
+UI.item_contains,ได้รับไอเทมดังต่อไปนี้,localization.json:UI
+UI.item_contains_random,สุ่มรับหนึ่งในบรรดาไอเทมดังต่อไปนี้,localization.json:UI
+UI.item_contains_choice,เลือกรับหนึ่งในบรรดาไอเทมดังต่อไปนี้,localization.json:UI
+UI.conquest_area,พื้นที่ {0},localization.json:UI
+UI.conquest_occupy,ยึด,localization.json:UI
+UI.conquest_operate,จัดการ,localization.json:UI
+UI.conquest_analyze,วิเคราะห์,localization.json:UI
+UI.base_level,เลเวลฐาน,localization.json:UI
+UI.base_upgrade_cost,เลเวลฐาน,localization.json:UI
+UI.base_settlement,รางวัลดำเนินการ,localization.json:UI
+UI.school_bonus,เอฟเฟกต์จัดทีมโรงเรียน,localization.json:UI
+UI.school_bonus_num_students,{0}คน:,localization.json:UI
+UI.school_bonus_conquest,"รับรางวัล{2}เพิ่ม +{0}%, เพิ่มค่าโจมตี +{1}%",localization.json:UI
+UI.tooltip_bond_level,ระดับสายใยของ{0},localization.json:UI
+UI.tooltip_weapon_level,เลเวลของอาวุธเฉพาะ,localization.json:UI
+UI.tooltip_potential_level,ระดับการปลดปล่อยศักยภาพ{0},localization.json:UI
+UI.tooltip_collection_add,เพิ่มลงในคอลเลคชั่น,localization.json:UI
+UI.tooltip_collection_remove,เอาออกจากคอลเลคชั่น,localization.json:UI
+UI.tooltip_sprite_toggle,เปลี่ยนรูป,localization.json:UI
+UI.collection,คอลเลคชั่น,localization.json:UI
+UI.collection_owned,มีแล้ว,localization.json:UI
+UI.collection_notowned,ยังไม่มี,localization.json:UI
+UI.favourites,ปักหมุด,localization.json:UI
+UI.favourites_add,เพิ่มในปักหมุด,localization.json:UI
+UI.favourites_remove,นำออกจากปักหมุด,localization.json:UI
+UI.add,เพิ่ม,localization.json:UI
+UI.remove,นำออก,localization.json:UI
+UI.toast_import_success,นำเข้าข้อมูลนักเรียนในคอลเลคชั่นสำเร็จ,localization.json:UI
+UI.toast_import_failure,ประสบปัญหาในการนำเข้าข้อมูลนักเรียนในคอลเลคชั่น,localization.json:UI
+UI.toast_import_copy,คัดลอกรหัสนำเข้าลงในคลิปบอร์ด,localization.json:UI
+UI.toast_amount_invalid,ค่าที่ใส่ลงไปไม่ถูกต้อง,localization.json:UI
+UI.toast_release_warning,เนื้อหานี้ยังไม่ถูกเผยแพร่ในเซิร์ฟเวอร์ที่เลือกไว้ ข้อมูลที่แสดงอยู่จะอ้างอิงจากเนื้อหาของเซิร์ฟเวอร์ JP,localization.json:UI
+UI.stat_defense_tooltip,ลดความเสียหายที่ได้รับลง: {0},localization.json:UI
+UI.stat_crit_tooltip,อัตราการติดคริ:,localization.json:UI
+UI.stat_crit_amount_tooltip,{0}&nbsp;<small><i>(ใส่เป้าหมายที่มีค่าต้านทานคริ {1})</i></small>,localization.json:UI
+UI.stat_stability_tooltip,ความเสียหายขั้นต่ำ: {0},localization.json:UI
+UI.home_header,"<b>Schale DB</b> เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <b class=""text-accent"">Blue </b><b>Archive</b> ที่พัฒนาโดยทาง Nexon Games",localization.json:UI
+UI.home_change_server,โดยข้อมูลต่างๆ จะมีหลายภาษาและมีข้อมูลล่าสุดของทุกเซิร์ฟเวอร์ คุณสามารถเปลี่ยนภาษาและเซิร์ฟเวอร์ของเกมได้ที่เมนู {0},localization.json:UI
+UI.home_copyright,"Schale DB นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",localization.json:UI
+UI.changelog,บันทึกการอัปเดท,localization.json:UI
+UI.about,เกี่ยวกับเว็บนี้,localization.json:UI
+UI.links,ลิงค์เพิ่มเติม,localization.json:UI
+UI.community_resources,แหล่งข้อมูลเพิ่มเติมของคอมมูนิตี้,localization.json:UI
+UI.skillinfo_empty,นักเรียนที่เลือกไม่มีสกิลสร้างความเสียหายหรือสกิลรักษาที่สามารถแสดงให้ดูได้,localization.json:UI
+UI.skill_normalattack_target,สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู 1 เป้าหมาย,localization.json:UI
+UI.skill_normalattack_circle,สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในรัศมี,localization.json:UI
+UI.skill_normalattack_line,สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง,localization.json:UI
+UI.skill_normalattack_fan,สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย,localization.json:UI
+UI.skill_normalattack_additional,สร้างความเสียหายเพิ่มเติม <?{0}> ของค่าโจมตี,localization.json:UI
+UI.type_effectiveness,ประสิทธิภาพของการโจมตี,localization.json:UI
+UI.level_difference,ค่าตัวแปรความต่างของเลเวล,localization.json:UI
+UI.hit_rate,โอกาสโจมตีโดนเป้าหมาย,localization.json:UI
+UI.crit_rate,อัตราการติดคริ,localization.json:UI
+UI.block_rate,อัตราสำเร็จของการบล็อคจากกำบัง,localization.json:UI
+UI.dmginfo_ignore_def,อัตราค่าป้องกันที่ไม่สน,localization.json:UI
+UI.dmginfo_hit_avg,ความเสียหายต่อครั้งโดยเฉลี่ย,localization.json:UI
+UI.dmginfo_total_avg,ความเสียหายรวมโดยเฉลี่ย,localization.json:UI
+UI.dmginfo_dmg,ความเสียหาย,localization.json:UI
+UI.dmginfo_heal,ฟื้นฟู,localization.json:UI
+UI.dmginfo_dmg_avg,ความเสียหายโดยเฉลี่ย,localization.json:UI
+UI.dmginfo_minimum,ความเสียต่ำสุด,localization.json:UI
+UI.dmginfo_maximum,ความเสียหายสูงสุด,localization.json:UI
+UI.dmginfo_nocrit_avg,ความเสียหายเฉลี่ยเมื่อไม่มีคริ,localization.json:UI
+UI.dmginfo_allcrit_avg,ความเสียหายเฉลี่ยเมื่อการันตีคริ,localization.json:UI
+UI.rate_of_fire,อัตราการยิง,localization.json:UI
+UI.attacks_per_min,{0} รอบต่อนาที,localization.json:UI
+UI.attacks_per_min_tooltip,จำนวนการโจมตีต่อนาที,localization.json:UI
+UI.hits_per_min,{0} ครั้งต่อนาที,localization.json:UI
+UI.time_seconds,{0} วินาที,localization.json:UI
+UI.time_frames,{0} เฟรม,localization.json:UI
+UI.time_seconds_frames,{0} วินาที ({1} เฟรม),localization.json:UI
+UI.dmginfo_avg_dps,ความเสียหายที่ทำได้ต่อวินาทีโดยเฉลี่ย,localization.json:UI
+UI.dmginfo_heal_amount,ปริมาณ HP ที่รักษา ({0}),localization.json:UI
+UI.dmginfo_shield_amount,HP ของบาเรีย,localization.json:UI
+UI.dmginfo_cc_effect_chance,โอกาสในการ{0},localization.json:UI
+UI.dmginfo_duration,ระยะเวลา{0},localization.json:UI
+UI.dmginfo_tickapplycount,จำนวนครั้งสูงสุด,localization.json:UI
+UI.dmginfo_accumulation_limit,ความเสียหายสูงสุดที่ทำได้,localization.json:UI
+UI.peroro_target_1,เป้าแรก,localization.json:UI
+UI.peroro_target_2,เป้าที่สอง,localization.json:UI
+UI.peroro_target_3,เป้าที่สาม,localization.json:UI
+UI.voicegallery,แกลอรี่เสียงตัวละคร,localization.json:UI
+UI.skill_target_hp,HP ของเป้าหมาย,localization.json:UI
+UI.max_attributes,ปรับทั้งหมดเป็นค่าสูงสุด,localization.json:UI
+UI.lock_attributes,ล็อคค่าสถานะในคอลเลคชั่น,localization.json:UI
+UI.lock_attributes_help,ล็อคไม่ให้ค่าสเตตัสของนักเรียนเปลี่ยนไปจากการบันทึกในขณะที่ล็อค,localization.json:UI
+UI.midokuni_link,ฐานข้อมูลของ Midokuni,localization.json:UI
+UI.version_lastupdated,อัปเดทครั้งล่าสุดเมื่อ {0} ({1} วันที่ผ่านมา),localization.json:UI
+UI.info_unavailable,ยังไม่มีข้อมูลสำหรับเซิร์ฟเวอร์นี้,localization.json:UI
+UI.range,ระยะ,localization.json:UI
+UI.radius,รัศมี,localization.json:UI
+UI.angle,องศา,localization.json:UI
+UI.length,ความยาว,localization.json:UI
+UI.width,ความกว้าง,localization.json:UI
+UI.bounce,ระยะในการชิ่ง,localization.json:UI
+UI.skill_duration,ระยะเวลาใช้สกิล,localization.json:UI
+UI.skill_delay,ระยะเวลาดีเลย์ก่อนเอฟเฟกต์แสดงผล,localization.json:UI
+UI.tsa_board,T.S.A ที่มี,localization.json:UI
+UI.tooltip_combat_style,เปลี่ยนรูปแบบการต่อสู้,localization.json:UI
+UI.show_cumulative,แสดงค่าโดยรวม,localization.json:UI
+UI.exp_value,ค่า EXP ที่ได้รับ,localization.json:UI
+UI.exp_bonus,โบนัส EXP (1.5 เท่า),localization.json:UI
+UI.craft_quality,มูลค่าในการสร้างไอเทม,localization.json:UI
+UI.shifting_craft_quality,มูลค่าในการรวมไอเทม,localization.json:UI
+UI.unit_clear_map_filter,ล้างตัวกรองของยูนิตในแผนที่,localization.json:UI
+UI.gachagroup_contents,ของที่อยู่ในกล่องไอเทม,localization.json:UI
+UI.base_chance,โอกาสพื้นฐาน,localization.json:UI
+UI.appearance_rate,โอกาสในการปรากฏ,localization.json:UI
+UI.appearance_rate_help,โอกาสที่โหนดจะปรากฏในโหนด 5 โหนดในการสร้าง,localization.json:UI
+UI.avg_damage_help,"ความเสียหายรวมทั้งหมดที่โดน, โดยอ้างอิงจากค่าเฉลี่ยทั้งหมดของค่าความเสถียร, ความแม่นยำและอัตราคริติคอลของผู้โจมตี",localization.json:UI
+UI.cc_gauge_fill,จำนวนเกจ CC ที่เติม,localization.json:UI
+UI.cc_gauge_fill_help,จำนวนเกจ CC ที่เติมของเป้าหมายจะเพิ่มขึ้น หากมีการระบุไว้ว่าสามารถได้รับผลจากค่าประสิทธิภาพกดขี่/ต้านทานกดขี่,localization.json:UI
+UI.effect_shiro_bomb,ระเบิดปกติ,localization.json:UI
+UI.effect_shiro_icebomb,ระเบิดน้ำแข็ง,localization.json:UI
+UI.effect_shiro_stickybomb,ระเบิดกาว,localization.json:UI
+UI.avg_dps_help,ความเสียหายโดยเฉลี่ยที่ทำได้ต่อวินาทีของการโจมตีทั่วไปของตัวละคร โดยไม่นับรวมผลของการใช้งานสกิลอื่นๆ ระหว่างนั้น,localization.json:UI
+UI.frames_attackenter,ระยะเวลาเล็ง,localization.json:UI
+UI.frames_attackenter_help,ระยะเวลาของอนิเมชั่นหลังจากที่ตัวละครหยุดเคลื่อนที่และกำลังเตรียมอาวุธเพื่อโจมตี,localization.json:UI
+UI.frames_attackready,ระยะเวลาวาง/ยกอาวุธ,localization.json:UI
+UI.frames_attackready_help,ระยะเวลาของอนิเมชั่นในการวางอาวุธ/ยกอาวุธของตัวละคร (เช่น ชุนที่กำลังจะหมอบลง/ลุกขึ้นจากตำแหน่งหมอบยิง),localization.json:UI
+UI.frames_attacking,ระยะเวลาในการโจมตี,localization.json:UI
+UI.frames_attacking_help,ระยะเวลาของอนิเมชั่นในการยิงอาวุธสำหรับการโจมตีทั่วไปของตัวละคร,localization.json:UI
+UI.frames_attackreload,ระยะเวลารีโหลด,localization.json:UI
+UI.frames_attackreload_help,ระยะเวลาของอนิเมชั่นในการรีโหลดอาวุธของตัวละคร,localization.json:UI
+UI.frames_attackstart,ดีเลย์ตอนเริ่ม / ดีเลย์ตอนจบ,localization.json:UI
+UI.frames_attackstart_help,"ระยะเวลาของดีเลย์ในระหว่างช่วงเริ่มต้น/สิ้นสุดการโจมตีทั่วไป, เมื่อตัวละครต้องรีโหลดหรือทำอย่างอื่น เช่น เคลื่อนที่หรือใช้งานสกิล",localization.json:UI
+UI.frames_attackburstroundover,ดีเลย์ระหว่างการโจมตี,localization.json:UI
+UI.frames_attackburstroundover_help,"ระยะเวลาของดีเลย์ในระหว่างการโจมตีทั่วไปแต่ละครั้ง ในกรณีที่ยังมีกระสุนเหลืออยู่ หากตัวละครนั้นได้รับผลของเอฟเฟกต์""ไม่สนดีเลย์ของการโจมตีทั่วไป"" ค่าดีเลย์นี้จะถูกข้ามไปเป็นจำนวน X ครั้งตามผลของสกิลที่มอบเอฟเฟกต์ดังกล่าวให้",localization.json:UI
+UI.select_all,เลือกทั้งหมด,localization.json:UI
+UI.select_student,เลือกนักเรียน,localization.json:UI
+UI.select_target,เลือกเป้าหมาย,localization.json:UI
+UI.select_special,เลือกนักเรียน Special,localization.json:UI
+UI.calculation_result,ผลลัพธ์,localization.json:UI
+UI.configure_columns,ตั้งค่าคอลัมน์,localization.json:UI
+UI.critical,คริติคอล,localization.json:UI
+UI.damage_hit,ครั้งที่ {0},localization.json:UI
+UI.damage_hits,{0} ครั้ง,localization.json:UI
+UI.damage_ticks,{0} ครั้ง,localization.json:UI
+UI.ignores_cover,ไม่สนกำบัง,localization.json:UI
+UI.ignores_cover_partial,ไม่สนกำบังบางส่วน,localization.json:UI
+UI.unavoidable,ไม่สามารถหลบได้,localization.json:UI
+UI.always_critical,การันตีคริติคอล,localization.json:UI
+UI.never_critical,ไม่สามารถคริคิคอลได้,localization.json:UI
+UI.student_unique_short,ลิมิต,localization.json:UI
+UI.student_event_short,แจก,localization.json:UI
+UI.student_fest_short,เฟส,localization.json:UI
+UI.selection_selected,เลือกไว้,localization.json:UI
+UI.selection_confirm,ยืนยัน,localization.json:UI
+UI.selection_clear,ล้าง,localization.json:UI
+UI.buff_effects,เอฟเฟกต์,localization.json:UI
+UI.base_value,ค่าพื้นฐาน,localization.json:UI
+UI.character_size,ขนาด,localization.json:UI
+UI.enemy_rank,ระดับ,localization.json:UI
+UI.difficulty,ระดับความยาก,localization.json:UI
+UI.event_bonus,โบนัสอีเวนท์,localization.json:UI
+UI.group_view,มุมมองแบบรวม,localization.json:UI
+UI.skill_related,สกิลที่เกี่ยวข้อง,localization.json:UI
+UI.purchase_per_day,{0} ต่อวัน,localization.json:UI
+UI.purchase_per_month,{0} ต่อเดือน,localization.json:UI
+UI.distance_units,{0} หน่วย,localization.json:UI
+UI.date_today,วันนี้,localization.json:UI
+UI.num_alts,จำนวนชุดที่มี,localization.json:UI
+UI.error_msg,มีบางอย่างผิดพลาด,localization.json:UI
+UI.error_retry,ลองใหม่อีกครั้ง,localization.json:UI
+UI.no_enemies,ไม่มีศัตรู,localization.json:UI
+UI.exclude_alts,ไม่นับรวมชุดอื่นๆ,localization.json:UI
+ui.enemy,ศัตรู,localization.json:ui
+ui.navbar_raids,เรดบอส,localization.json:ui
+ui.synthesis,สร้างวัตถุ,localization.json:ui
+ui.item_sources,แหล่งได้รับ,localization.json:ui
+ui.navbar_settings_server,เซิร์ฟเวอร์,localization.json:ui
+ui.navbar_settings_language_description,"ข้อมูลบางอย่างอาจจะยังไม่ได้รับการแปลอย่างสมบูรณ์, ขึ้นอยู่กับเซิร์ฟเวอร์ของเกมที่เลือก",localization.json:ui
+ui.navbar_settings_theme_description,Auto จะตั้งค่าตามธีมของอุปกรณ์คุณ,localization.json:ui
+ui.navbar_settings_contrast_description,ลบเอฟเฟคเบลอและโปร่งใสออก <br>อาจจะเพิ่มประสิทธิภาพการทำงาน,localization.json:ui
+ui.navbar_settings_collection_description,นำเข้าหรือส่งออกข้อมูลนักเรียนในคอลเลคชั่น,localization.json:ui
+ui.navbar_settings_custombuffs,ใช้งานโหมดบัพแบบกำหนดเอง,localization.json:ui
+ui.navbar_settings_custombuffs_description,(อยู่ในการทดสอบ) เปิดใช้งานการเพิ่มบัพแบบกำหนดเองให้กับนักเรียนในหน้าค่าสถานะของนักเรียน,localization.json:ui
+ui.filter_by_name,กรองด้วยชื่อ,localization.json:ui
+ui.collection_export_collection,ส่งออกคอลเลคชั่น,localization.json:ui
+ui.collection_import_collection,นำเข้าคอลเลคชั่น,localization.json:ui
+ui.collection_import_help,"ข้อมูลสามารถนำเข้ามาจาก SchaleDB หรือ <a href=""https://justin163.com/planner/"">Justin163's resource planner</a> ได้ (เลือก Transfer > Export)",localization.json:ui
+ui.collection_import_warning,นี่จะเป็นการแทนที่คอลเลคชั่นของคุณในปัจจุบัน,localization.json:ui
+ui.collection_import_status_valid,พบข้อมูลส่งออกสำหรับนักเรียน {0} คน,localization.json:ui
+ui.collection_import_status_invalid,ข้อมูลส่งออกไม่ถูกต้อง,localization.json:ui
+ui.collection_export_placeholder,กดส่งออกเพื่อสร้างรหัสส่งออกจากคอลเลคชั่นของคุณ,localization.json:ui
+ui.collection_import_placeholder,วางรหัสส่งออกที่นี่แล้วกดนำเข้า,localization.json:ui
+ui.collection_export,ส่งออก,localization.json:ui
+ui.collection_import,นำเข้า,localization.json:ui
+ui.current_events,อีเวนท์ปัจจุบัน (เซิร์ฟเวอร์{0}),localization.json:ui
+ui.home_timezone,ข้อมูลวันและเวลาจะถูกปรับตามโซนเวลาที่คุณอยู่,localization.json:ui
+ui.event_starts,"เริ่มต้นในอีก <b>{0} วัน, {1} ชั่วโมง {2} นาที</b>",localization.json:ui
+ui.event_ends,"สิ้นสุดในอีก <b>{0} วัน, {1} ชั่วโมง {2} นาที</b>",localization.json:ui
+ui.student_birthdays,นักเรียนที่มีวันเกิดอยู่ในสัปดาห์นี้!,localization.json:ui
+ui.base_stats,ค่าสถานะพื้นฐาน,localization.json:ui
+ui.max_stats,ค่าสถานะสูงสุด,localization.json:ui
+ui.collection_stats,ใช้ค่าสถานะที่บันทึกไว้,localization.json:ui
+ui.sp_sub_skill,สกิลรอง (Special),localization.json:ui
+ui.profile,โปรไฟล์,localization.json:ui
+ui.student_ex_gear,อุปกรณ์พิเศษ,localization.json:ui
+ui.student_bond,ระดับสายใย,localization.json:ui
+ui.tooltip_supportstats,รายการค่าพลังเสริม,localization.json:ui
+ui.tooltip_vehiclestats,ค่าสถานะของยานพาหนะ/วัตถุที่ถูกเรียก,localization.json:ui
+ui.add_own,เพิ่มนักเรียน Special ที่มี/เลือกไว้,localization.json:ui
+ui.buff_transferable,บัพอื่นๆ,localization.json:ui
+ui.buff_transferable_conflict,เอฟเฟกต์บัพที่เลือกมีบางบัพที่ไม่สามารถใช้ร่วมกันได้ จะมีเพียงเอฟเฟกต์อันแรกเท่านั้นที่ส่งผล,localization.json:ui
+ui.buff_transferable_incompatible,เอฟเฟกต์บัพที่เลือกมีบางบัพที่ไม่สามารถใช้ได้กับตัวละครปัจจุบันที่เลือก,localization.json:ui
+ui.enemy_debuffs,เอฟเฟกต์อันตรายบนตัวศัตรู,localization.json:ui
+ui.enemy_select,เลือกศัตรู,localization.json:ui
+ui.filter_all,ทั้งหมด,localization.json:ui
+ui.filter_bookmark,ที่บุ๊คมาร์คไว้,localization.json:ui
+ui.buff_custom,บัพแบบกำหนดเอง,localization.json:ui
+ui.buff_custom_enemy,บัพแบบกำหนดเองของศัตรู,localization.json:ui
+ui.buff_custom_base,เพิ่มค่าเป็นจำนวนเต็ม,localization.json:ui
+ui.buff_custom_coefficient,เพิ่มค่าเป็นเปอร์เซ็นต์,localization.json:ui
+ui.buff_custom_name_placeholder,ชื่อ (ไม่จำเป็น),localization.json:ui
+ui.buff_custom_value_placeholder,จำนวนค่าที่ต้องการ,localization.json:ui
+ui.supportstats_search,ค้นหานักเรียน Special,localization.json:ui
+ui.student_skill_gearnormal,สกิลพื้นฐาน+,localization.json:ui
+ui.student_skill_weaponpassive,สกิลติดตัว+,localization.json:ui
+ui.student_skills_upgrades,อัปเกรด,localization.json:ui
+ui.student_skills_materials,วัตถุดิบ,localization.json:ui
+ui.student_skills_materials_none,ไม่มีวัตถุดิบที่ต้องการ,localization.json:ui
+ui.student_weapon_rank_2star_desc,เลเวลสูงสุดของอาวุธเฉพาะ Lv.30 → <b>Lv.40</b> / อัปเกรดสกิลติดตัว+,localization.json:ui
+ui.student_weapon_rank_3star_desc,เลเวลสูงสุดของอาวุธเฉพาะ Lv.40 → <b>Lv.50</b> / อัปเกรดความคุ้นชินพื้นที่,localization.json:ui
+ui.student_gear_t2_desc,อัปเกรดสกิลพื้นฐาน+,localization.json:ui
+ui.attack_type_desc,สร้างความเสียหาย <b>&times;{0}</b> ให้กับเป้าหมายประเภท{1},localization.json:ui
+ui.attack_type_normal_desc,"สร้างความเสียหาย <b>&times;1</b> ให้กับเป้าหมายประเภท<b class='ba-col-explosion'>เกราะเบา</b>, <b class='ba-col-pierce'>เกราะหนัก</b>และ<b class='ba-col-mystic'>เกราะพิเศษ</b><br>สร้างความเสียหาย <b>&times;0.5</b> ให้กับเป้าหมายประเภท<b>สิ่งปลูกสร้าง</b>",localization.json:ui
+ui.defense_type_desc,ได้รับความเสียหาย <b>&times;{0}</b> จากการโจมตีประเภท{1},localization.json:ui
+ui.defense_type_normal_desc,"ได้รับความเสียหาย <b>&times;1</b> จากการโจมตีประเภท<b class='ba-col-explosion'>ระเบิด</b>, <b class='ba-col-pierce'>เจาะเกราะ</b>และ<b class='ba-col-mystic'>ลึกลับ</b>",localization.json:ui
+ui.age,อายุ,localization.json:ui
+ui.hobbies,สนใจ,localization.json:ui
+ui.cv,เสียง,localization.json:ui
+ui.bond_title,โบนัสระดับสายใย,localization.json:ui
+ui.weaponbonus_title,เพิ่มลิมิต,localization.json:ui
+ui.favoritem_title,ของขวัญ,localization.json:ui
+ui.favoritem_none,นักเรียนนี้ไม่มีของขวัญที่ชื่นชอบเป็นพิเศษ,localization.json:ui
+ui.furniture_title,โต้ตอบได้,localization.json:ui
+ui.furniture_none,นักเรียนนี้ไม่มีการโต้ตอบกับเฟอร์นิเจอร์,localization.json:ui
+ui.filters,ตัวกรอง,localization.json:ui
+ui.student_search_filters_clear,ล้างตัวกรองทั้งหมด,localization.json:ui
+ui.student_search_info,แสดงข้อมูลทั้งหมด,localization.json:ui
+ui.sortby,เรียงตาม,localization.json:ui
+ui.default,ค่าเริ่มต้น,localization.json:ui
+ui.type,ประเภท,localization.json:ui
+ui.role,บทบาท,localization.json:ui
+ui.rarity_availability,หายาก,localization.json:ui
+ui.attacktype,ประเภทการโจมตี,localization.json:ui
+ui.defensetype,ประเภทเกราะ,localization.json:ui
+ui.position,ตำแหน่ง,localization.json:ui
+ui.combat_power,ความคุ้นชินพื้นที่,localization.json:ui
+ui.misc,อื่นๆ,localization.json:ui
+ui.uses_cover,ใช้กำบังได้,localization.json:ui
+ui.doesnt_use_cover,ไม่ใช้กำบัง,localization.json:ui
+ui.can_cc,มีเอฟเฟกต์กดขี่,localization.json:ui
+ui.can_debuff,มีเอฟเฟกต์อันตราย,localization.json:ui
+ui.uses_artifact,วัตถุหลงยุคที่ใช้,localization.json:ui
+ui.filter_include_weapon_upgrade,นับรวมผลของอาวุธเฉพาะ,localization.json:ui
+ui.memory_lobby,ล็อบบี้แห่งความทรงจำ,localization.json:ui
+ui.memory_lobby_student,ล็อบบี้แห่งความทรงจำของ{0},localization.json:ui
+ui.memory_lobby_unlock,ปลดล็อคหลังจากระดับสายใยของ{1}ถึงระดับ {0},localization.json:ui
+ui.memory_lobby_unlock_level,ระดับสายใยที่ปลดล็อบบี้ฯ,localization.json:ui
+ui.memory_lobby_bgm,เพลงประกอบล็อบบี้ฯ: {0},localization.json:ui
+ui.memory_lobby_bgm_name,เพลงประกอบล็อบบี้ฯ,localization.json:ui
+ui.student_stars,จำนวนดาวที่มี,localization.json:ui
+ui.terrain_adaption,ค่าต่อสู้{0},localization.json:ui
+ui.terrain_adaption_details,สร้างความเสียหาย <b>&times;{0}</b> ในพื้นที่<b>{1}</b> อัตรากำบังสำเร็จเมื่ออยู่ในกำบังเพิ่มขึ้น <b>{2}%</b> อัตรากำบังสำเร็จของศัตรูเมื่อโจมตีลดลง <b>{2}%</b>,localization.json:ui
+ui.statpreview_title,รายละเอียดค่าสถานะ/สกิล,localization.json:ui
+ui.buffs,บัฟ,localization.json:ui
+ui.enemy_target,จำลองเป้าหมาย,localization.json:ui
+ui.summon_inheritance,ได้รับ{2} {0} ของ{2}ของ{1},localization.json:ui
+ui.stability_mindamage,ความเสียหายขั้นต่ำ: {0},localization.json:ui
+ui.stage_rewards,รางวัลที่มีโอกาสได้รับ,localization.json:ui
+ui.rewards_findgift_msg,ศัตรูแต่ละตัวที่ถูกกำจัดจะดรอปไอเทมต่อไปนี้,localization.json:ui
+ui.stage_enemies,ข้อมูลศัตรู,localization.json:ui
+ui.stage_info,ข้อมูล,localization.json:ui
+ui.stage_map,แผนที่,localization.json:ui
+ui.stage_conquest_tile,พื้นที่,localization.json:ui
+ui.event_rerun,(รีรัน),localization.json:ui
+ui.starcondition_defeatall,กำจัดศัตรูทั้งหมด,localization.json:ui
+ui.starcondition_defeatalltime,กำจัดศัตรูทั้งหมดภายใน {0} วินาที,localization.json:ui
+ui.starcondition_allsurvive,ปลอดภัยทุกคน,localization.json:ui
+ui.starcondition_sranks,ได้ระดับ S {0} ครั้ง,localization.json:ui
+ui.no_results,ไม่มีผลลัพธ์,localization.json:ui
+ui.furniture_set,เซ็ต,localization.json:ui
+ui.others,อื่นๆ,localization.json:ui
+ui.calculations,คำนวน,localization.json:ui
+ui.ta_phase,ขั้นที่,localization.json:ui
+ui.craft_rewards,ไอเทมที่สามารถได้รับ,localization.json:ui
+ui.craft_recipe_items,วัตถุดิบที่ต้องการ,localization.json:ui
+ui.craft_using,คราฟโดยใช้ไอเทมต่อไปนี้,localization.json:ui
+ui.craft_toggle_chance,แสดง/ซ่อนอัตราการปรากฏของโหนด,localization.json:ui
+ui.bond_req_equip,ต้องการ <i class='ms-1 fa-solid fa-heart'></i> ของ {1} ระดับ {0} เพื่อสวมใส่,localization.json:ui
+ui.bond_req_upgrade,ต้องการ <i class='ms-1 fa-solid fa-heart'></i> ของ {1} ระดับ {0} เพื่ออัปเกรด,localization.json:ui
+ui.skill_plus,+,localization.json:ui
+ui.stage_reward_default,รางวัล,localization.json:ui
+ui.rewards_season,รางวัลซีซั่น,localization.json:ui
+ui.raid_season,ซีซั่น {0} ({1}),localization.json:ui
+ui.item_tab_materials,วัตถุดิบ,localization.json:ui
+ui.item_tab_gifts,ของขวัญ,localization.json:ui
+ui.item_tab_currency,ไอเทม,localization.json:ui
+ui.list_style_detailed,มุมมองแบบละเอียด,localization.json:ui
+ui.list_style_compact,มุมมองแบบย่อ,localization.json:ui
+ui.equipment_tier,ระดับอุปกรณ์,localization.json:ui
+ui.furniture_interaction_list,นักเรียนที่ตอบโต้กับเฟอร์นิเจอร์นี้,localization.json:ui
+ui.item_likedbystudent_list_0,เป็นที่รัก {0} โดยนักเรียนดังต่อไปนี้,localization.json:ui
+ui.item_likedbystudent_list_1,ชื่นชอบ {0} โดยนักเรียนดังต่อไปนี้,localization.json:ui
+ui.item_student_favor,เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนดังต่อไปนี้,localization.json:ui
+ui.item_student_favor_default,เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนคนอื่นๆ,localization.json:ui
+ui.item_student_favor_all,เพิ่มค่าความสัมพันธ์ {0} {1} เมื่อมอบให้กับนักเรียนทุกคน,localization.json:ui
+ui.item_usedby_gear,ใช้ในการอัปเกรดอุปกรณ์พิเศษของนักเรียนดังต่อไปนี้,localization.json:ui
+ui.item_specialgift,ของขวัญชิ้นนี้จะถือว่าเป็นของขวัญที่เป็นที่รัก {0} เมื่อมอบให้กับนักเรียนคนไหนก็ตาม,localization.json:ui
+ui.item_usedby,ใช้โดยนักเรียนดังต่อไปนี้,localization.json:ui
+ui.item_usedby_exskill_amount,ใช้ในการอัปเกรดสกิล EX: {0},localization.json:ui
+ui.item_usedby_skill_amount,ใช้ในการอัปเกรดสกิลพื้นฐาน/ติดตัว/รอง: {0},localization.json:ui
+ui.item_usedby_skill,ใช้เพื่อพัฒนาสกิลของนักเรียนดังต่อไปนี้,localization.json:ui
+ui.item_usedby_eleph,ใช้เพื่อเพิ่มดาวนักเรียนดังต่อไปนี้,localization.json:ui
+ui.item_obtainedfrom_stage,ได้รับจากด่านดังต่อไปนี้,localization.json:ui
+ui.item_purchasedfrom,ซื้อได้จากร้านค้าดังต่อไปนี้,localization.json:ui
+ui.item_eventbonus,ไอเทมนี้ได้รับโบนัสดรอปจากนักเรียนดังต่อไปนี้,localization.json:ui
+ui.item_randombox_tier,สุ่ม{1} {0},localization.json:ui
+ui.item_artifact_box,บรรจุหนึ่งในวัตถุหลงยุคดังต่อไปนี้,localization.json:ui
+ui.item_equipment_box,บรรจุหนึ่งในสูตรอุปกรณ์ดังต่อไปนี้,localization.json:ui
+ui.item_contains,ได้รับไอเทมดังต่อไปนี้,localization.json:ui
+ui.item_contains_random,สุ่มรับหนึ่งในบรรดาไอเทมดังต่อไปนี้,localization.json:ui
+ui.item_contains_choice,เลือกรับหนึ่งในบรรดาไอเทมดังต่อไปนี้,localization.json:ui
+ui.item_is_immediateuse,※ ไอเทมนี้จะถูกใช้งานทันทีที่ได้รับ,localization.json:ui
+ui.conquest_area,พื้นที่ {0},localization.json:ui
+ui.conquest_title,พื้นที่ {0} ทีม {1},localization.json:ui
+ui.conquest_occupy,ยึด,localization.json:ui
+ui.conquest_analyze,วิเคราะห์,localization.json:ui
+ui.conquest_settlement,รางวัลดำเนินการ,localization.json:ui
+ui.school_bonus,เอฟเฟกต์จัดทีมโรงเรียน,localization.json:ui
+ui.school_bonus_num_students,{0}คน:,localization.json:ui
+ui.school_bonus_conquest,"รับรางวัล{2}เพิ่ม +{0}%, เพิ่มค่าโจมตี +{1}%",localization.json:ui
+ui.tooltip_relationship_bonus,เปิด/ปิดโบนัสระดับสายใย,localization.json:ui
+ui.tooltip_equipment_bonus,เปิด/ปิดโบนัสอุปกรณ์สวมใส่,localization.json:ui
+ui.tooltip_passiveskill_bonus,เปิด/ปิดโบนัสสกิลติดตัว,localization.json:ui
+ui.tooltip_buffs_bonus,เปิด/ปิด {0} บัพที่เลือกไว้,localization.json:ui
+ui.tooltip_compare,เปรียบเทียบกับนักเรียนคนอื่น,localization.json:ui
+ui.tooltip_compare_remove,ยกเลิกการเปรียบเทียบ,localization.json:ui
+ui.tooltip_collection_add,เพิ่มลงในคอลเลคชั่น,localization.json:ui
+ui.tooltip_sprite_toggle,เปลี่ยนรูป,localization.json:ui
+ui.collection_owned,มีแล้ว,localization.json:ui
+ui.collection_notowned,ยังไม่มี,localization.json:ui
+ui.maptile_spawn,เพิ่มช่อง,localization.json:ui
+ui.maptile_drone,โดรน (แสดงช่องรอบข้าง),localization.json:ui
+ui.maptile_remove,ลบช่อง,localization.json:ui
+ui.maptile_teleport_oneway_entrance,ทางเข้าเทเลพอร์ททางเดียว,localization.json:ui
+ui.maptile_teleport_oneway_exit,ทางออกเทเลพอร์ททางเดียว,localization.json:ui
+ui.maptile_teleport_twoway,เทเลพอร์ทสองทาง,localization.json:ui
+ui.maptile_item_food,จุดเก็บอาหาร (ฟื้นฟู HP 50% ของ Max HP ให้กับยูนิทที่เก็บ),localization.json:ui
+ui.maptile_item_atk,จุดเก็บปืน (เพิ่มค่าโจมตี 10% ให้กับยูนิทที่เก็บในอีก 2 เทิร์นถัดไป),localization.json:ui
+ui.maptile_item_def,จุดเก็บเกราะ (เพิ่มค่าป้องกัน 10% ให้กับยูนิทที่เก็บในอีก 2 เทิร์นถัดไป),localization.json:ui
+ui.maptile_switch_down,พื้นสวิทช์ลดระดับ,localization.json:ui
+ui.maptile_switch_up,พื้นสวิทช์ยกระดับ,localization.json:ui
+ui.maptile_switch_target_down,พื้นลดระดับ,localization.json:ui
+ui.maptile_switch_target_up,พื้นยกระดับ,localization.json:ui
+ui.maptile_enemy_default_msg,คลิกยูนิทศัตรูบนแผนที่เพื่อดูรายชื่อของศัตรู,localization.json:ui
+ui.toast_import_success,นำเข้าข้อมูลนักเรียนในคอลเลคชั่นสำเร็จ,localization.json:ui
+ui.toast_import_failure,ประสบปัญหาในการนำเข้าข้อมูลนักเรียนในคอลเลคชั่น,localization.json:ui
+ui.toast_import_copy,คัดลอกรหัสนำเข้าลงในคลิปบอร์ด,localization.json:ui
+ui.toast_amount_invalid,ค่าที่ใส่ลงไปไม่ถูกต้อง,localization.json:ui
+ui.stat_crit_tooltip,อัตราการติดคริ:,localization.json:ui
+ui.stat_crit_amount_tooltip,{0}&nbsp;<small><i>(ใส่เป้าหมายที่มีค่าต้านทานคริ {1})</i></small>,localization.json:ui
+ui.stat_ammocount_tooltip,การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้ง,localization.json:ui
+ui.stat_ammocount_tooltip_area,การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในรัศมี,localization.json:ui
+ui.stat_ammocount_tooltip_line,การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในแนวเส้นตรง,localization.json:ui
+ui.stat_ammocount_tooltip_fan,การโจมตีปกติใช้กระสุน {0} นัดและสร้างความเสียหายจำนวน {1} ครั้งให้กับศัตรูในพื้นที่รูปทรงกรวย,localization.json:ui
+ui.skill_hits_tooltip,สร้างความเสียหายจำนวน {0} ครั้ง,localization.json:ui
+ui.home_welcome,ยินดีต้อนรับเหล่าเซ็นเซย์ทุกท่านค่ะ!,localization.json:ui
+ui.home_introduction,"Schale เป็นศูนย์รวมข้อมูลอย่างไม่เป็นทางการของเกมมือถือ <i class=""text-bold"">Blue Archive</i> ที่พัฒนาโดยทาง Nexon Games และได้รับการเผยแพร่โดย Yostar (เซิร์ฟเวอร์ญี่ปุ่น) และ Nexon (เซิร์ฟเวอร์โกลบอล) ทั้งในระบบ iOS และ Android",localization.json:ui
+ui.home_change_server,"กรุณาเลือกเซิร์ฟเวอร์เกมของคุณในหน้าเมนูตั้งค่า <i class=""fa-solid fa-gear mx-1""></i> เพื่อมองเห็นเฉพาะข้อมูลที่ได้รับการอัปเดทแล้วในเซิร์ฟเวอร์นั้นๆ",localization.json:ui
+ui.home_features,คุณสมบัติต่างๆ,localization.json:ui
+ui.home_features_list,"<li>ข้อมูลของนักเรียนและสกิลทุกคน รวมไปถึงยานพาหนะ, วัตถุอัญเชิญและวัตถุกำบังอย่างครบถ้วน</li><li>หน้าต่างคำนวนค่าสถานะต่างๆ ของนักเรียนภายใต้เงื่อนไขทุกรูปแบบไม่ว่าจะเป็นจำนวนดาว, เลเวล, อุปกรณ์สวมใส่หรือบัพจากสกิลต่างๆ</li><li>ลิสของไอเทม, อุปกรณ์สวมใส่และเฟอร์นิเจอร์อย่างครบถ้วน</li><li>รางวัลที่ได้รับ, แผนที่และข้อมูลของศัตรูแบบละเอียดสำหรับทุกภารกิจหลัก, เควสอีเวนท์, ชาเลนจ์และด่านเควสรายวัน</li><li>ค่าสถานะและข้อมูลสกิลสำหรับอีเวนท์เรดบอสและการสอบประมวลผล</li><li>ดูตารางและอัตราการได้รับไอเทมต่างๆ จากการคราฟไอเทม</li>",localization.json:ui
+ui.home_footer_text,"Schale พัฒนาและอัปเดทโดย lonqie โดยได้รับความช่วยเหลือในการแปลภาษาเพิ่มเติมจาก Blue-Roar, TKRotund, Yumiruuwu และ akintos Schale นั้นไม่ได้มีส่วนเกี่ยวข้องใดๆ กับทาง Nexon, Nexon Games หรือ Yostar รูปภาพและข้อมูลต่างๆ ที่ใช้ในฐานข้อมูลนี้ถือเป็นสมบัติและทรัพย์สินทางปัญญาของผู้ถือครองลิขสิทธิ์ดั้งเดิม",localization.json:ui
+ui.changelog,บันทึกการอัปเดท,localization.json:ui
+ui.links,ลิงค์เพิ่มเติม,localization.json:ui
+ui.community_resources,แหล่งข้อมูลเพิ่มเติมของคอมมูนิตี้,localization.json:ui
+ui.skillinfo_empty,นักเรียนที่เลือกไม่มีสกิลสร้างความเสียหายหรือสกิลรักษาที่สามารถแสดงให้ดูได้,localization.json:ui
+ui.skill_normalattack_target,สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรู 1 เป้าหมาย,localization.json:ui
+ui.skill_normalattack_circle,สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในรัศมี,localization.json:ui
+ui.skill_normalattack_line,สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในแนวเส้นตรง,localization.json:ui
+ui.skill_normalattack_fan,สร้างความเสียหาย <?1> ของค่าโจมตีให้กับศัตรูในพื้นที่รูปทรงกรวย,localization.json:ui
+ui.type_effectiveness,ประสิทธิภาพของการโจมตี,localization.json:ui
+ui.level_difference,ค่าตัวแปรความต่างของเลเวล,localization.json:ui
+ui.hit_chance,โอกาสโจมตีโดนเป้าหมาย,localization.json:ui
+ui.crit_chance,อัตราการติดคริ,localization.json:ui
+ui.hit_crit_chance,อัตราการโจมตีโดน/ติดคริ,localization.json:ui
+ui.hit_chance_certain,100% (การันตี),localization.json:ui
+ui.stab_variance,ค่าตัวแปรความเสถียร,localization.json:ui
+ui.dmginfo_ignore_def,อัตราค่าป้องกันที่ไม่สน,localization.json:ui
+ui.dmginfo_crit,(คริ),localization.json:ui
+ui.dmginfo_numhits,{0} ครั้ง,localization.json:ui
+ui.dmginfo_heal,ฟื้นฟู,localization.json:ui
+ui.dmginfo_dmg_avg,ความเสียหายโดยเฉลี่ย,localization.json:ui
+ui.dmginfo_rate_of_fire,อัตราการยิง,localization.json:ui
+ui.normalattack_burst,ชุด,localization.json:ui
+ui.dmginfo_rate_of_fire_tooltip,ระยะเวลาในการโจมตี: {0} ดีเลย์ในการโจมตี: {1},localization.json:ui
+ui.dmginfo_reload_time,ระยะเวลารีโหลด,localization.json:ui
+ui.dmginfo_reload_time_tooltip,ระยะเวลารีโหลด: {0} ดีเลย์ตอนเริ่ม: {1} ดีเลย์ตอนจบ: {2},localization.json:ui
+ui.dmginfo_avg_dps,ความเสียหายที่ทำได้ต่อวินาทีโดยเฉลี่ย,localization.json:ui
+ui.dmginfo_heal_amount,ปริมาณ HP ที่รักษา,localization.json:ui
+ui.dmginfo_shield_amount,HP ของ{0},localization.json:ui
+ui.dmginfo_cc_effect_chance,โอกาสในการ{0},localization.json:ui
+ui.dmginfo_cc_effect_gaugefill,(Hod IN/TM),localization.json:ui
+ui.dmginfo_accumulation_limit,ความเสียหาย{0}สูงสุดที่ทำได้,localization.json:ui
+ui.ordinal_1,เป้าแรก,localization.json:ui
+ui.ordinal_2,เป้าที่สอง,localization.json:ui
+ui.ordinal_3,เป้าที่สาม,localization.json:ui
+ui.voicegallery,แกลอรี่เสียงตัวละคร,localization.json:ui
+ui.skill_target_hp,HP ของเป้าหมาย,localization.json:ui
+ui.max_attributes,ปรับทั้งหมดเป็นค่าสูงสุด,localization.json:ui
+ui.lock_attributes,ล็อคค่าสถานะในคอลเลคชั่น,localization.json:ui

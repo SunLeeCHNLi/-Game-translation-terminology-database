@@ -1,0 +1,91 @@
+﻿category,category_label,id,zh-CN,ja-JP,zh-TW,en-US,ko-KR,th-TH,src_table
+06_location,地名,Location.0,Basis Schola,Basis schola,,,,,translation_table.json:locations
+06_location,地名,Location.1,D.U.白鸟区,D.U.シラトリ区,,,,,translation_table.json:locations
+06_location,地名,Location.2,阿拜多斯游泳池,アビドスプール,,,,,translation_table.json:locations
+06_location,地名,Location.3,阿拜多斯体育馆,アビドス体育館,,,,,translation_table.json:locations
+06_location,地名,Location.4,阿拜多斯别馆,アビドス別館,,,,,translation_table.json:locations
+06_location,地名,Location.5,阿拜多斯图书馆,アビドス図書館,,,,,translation_table.json:locations
+06_location,地名,Location.6,阿拜多斯小卖店,アビドス売店,,,,,translation_table.json:locations
+06_location,地名,Location.7,阿拜多斯旧校舍,アビドス旧校舎,,,,,translation_table.json:locations
+06_location,地名,Location.8,阿拜多斯本馆,アビドス本館,,,,,translation_table.json:locations
+06_location,地名,Location.9,阿拜多斯运动场,アビドス運動場,,,,,translation_table.json:locations
+06_location,地名,Location.10,阿拜多斯高中,アビドス高等学校,阿拜多斯高中,Abydos High School,아비도스 고등학교,โรงเรียนมัธยมอะบิดอส,translation_table.json:locations
+06_location,地名,Location.11,格黑娜学园中央区,ゲヘナ学園・中央区,,,,,translation_table.json:locations
+06_location,地名,Location.12,格黑娜学园．中央运动场,ゲヘナ学園・中央運動場,,,,,translation_table.json:locations
+06_location,地名,Location.13,格黑娜学园．校园,ゲヘナ学園・校庭,,,,,translation_table.json:locations
+06_location,地名,Location.14,格黑娜学园．社团大楼本馆,ゲヘナ学園・部室棟本館,,,,,translation_table.json:locations
+06_location,地名,Location.15,格黑娜学生广场,ゲヘナ学生広場,,,,,translation_table.json:locations
+06_location,地名,Location.16,格黑娜废校舍,ゲヘナ廃校舎,,,,,translation_table.json:locations
+06_location,地名,Location.17,格黑娜第一校舍,ゲヘナ第一校舎,,,,,translation_table.json:locations
+06_location,地名,Location.18,格黑娜第二校舍,ゲヘナ第二校舎,,,,,translation_table.json:locations
+06_location,地名,Location.19,格黑娜风纪委员会本部,ゲヘナ風紀委員会本部,,,,,translation_table.json:locations
+06_location,地名,Location.20,游戏中心,ゲームセンター,,,,,translation_table.json:locations
+06_location,地名,Location.21,便利商店,コンビニ,,,,,translation_table.json:locations
+06_location,地名,Location.22,柯基町,コーギータウン,,,,,translation_table.json:locations
+06_location,地名,Location.23,夏莱办公室,シャーレオフィス,,,,,translation_table.json:locations
+06_location,地名,Location.24,夏莱居住区,シャーレ居住区,,,,,translation_table.json:locations
+06_location,地名,Location.25,白鸟邻里公园,シラトリ近隣公園,,,,,translation_table.json:locations
+06_location,地名,Location.26,资料中心,データセンター,,,,,translation_table.json:locations
+06_location,地名,Location.27,三角广场,トライスクエア,,,,,translation_table.json:locations
+06_location,地名,Location.28,三一广场,トリニティ・スクエア,,,,,translation_table.json:locations
+06_location,地名,Location.29,三一大教堂,トリニティ大聖堂,,,,,translation_table.json:locations
+06_location,地名,Location.30,训练室,トレーニングルーム,,,,,translation_table.json:locations
+06_location,地名,Location.31,健身中心,フィットネスセンター,,,,,translation_table.json:locations
+06_location,地名,Location.32,普拉多大道,プラドアベニュー,,,,,translation_table.json:locations
+06_location,地名,Location.33,千年巨塔,ミレニアムタワー,,,,,translation_table.json:locations
+06_location,地名,Location.34,千年研究区域,ミレニアム・スタディーエリア,,,,,translation_table.json:locations
+06_location,地名,Location.35,单轨车站,モノレールステーション,,,,,translation_table.json:locations
+06_location,地名,Location.36,骆马町,ラミニタウン,,,,,translation_table.json:locations
+06_location,地名,Location.37,赤冬事务局,レッドウィンター事務局,赤冬事務局,Red Winter Office,붉은겨울 사무국,สำนักเลขาธิการเรดวินเทอร์,translation_table.json:locations
+06_location,地名,Location.38,赤冬联邦学园,レッドウィンター連邦学園,赤冬聯邦學園,Red Winter Federal Academy,붉은겨울 연방학원,สถาบันสหพันธ์เรดวินเทอร์,translation_table.json:locations
+06_location,地名,Location.39,赤熊电台,レッドベア放送局,,,,,translation_table.json:locations
+06_location,地名,Location.40,女武神警察学园白鸟分校,ヴァルキューレ警察学校シラトリ支所,,,,,translation_table.json:locations
+06_location,地名,Location.41,中央图书馆,中央図書館,,,,,translation_table.json:locations
+06_location,地名,Location.42,中央广场,中央広場,,,,,translation_table.json:locations
+06_location,地名,Location.43,休息室,休憩室,,,,,translation_table.json:locations
+06_location,地名,Location.44,传统博物馆,伝統博物館,,,,,translation_table.json:locations
+06_location,地名,Location.45,体育馆,体育館,,,,,translation_table.json:locations
+06_location,地名,Location.46,六和阁,六和閣,,,,,translation_table.json:locations
+06_location,地名,Location.47,古书馆,古書館,,,,,translation_table.json:locations
+06_location,地名,Location.48,图书馆,図書館,,,,,translation_table.json:locations
+06_location,地名,Location.49,办公室,執務室,,,,,translation_table.json:locations
+06_location,地名,Location.50,小卖店,売店,,,,,translation_table.json:locations
+06_location,地名,Location.51,大庭园,大庭園,,,,,translation_table.json:locations
+06_location,地名,Location.52,实习中心,実習センター,,,,,translation_table.json:locations
+06_location,地名,Location.53,实验室,実験室,,,,,translation_table.json:locations
+06_location,地名,Location.54,射击场,射撃場,,,,,translation_table.json:locations
+06_location,地名,Location.55,山海经中央特区,山海経中央特区,,,,,translation_table.json:locations
+06_location,地名,Location.56,工务部事务所,工務部事務所,,,,,translation_table.json:locations
+06_location,地名,Location.57,教室,教室,,,,,translation_table.json:locations
+06_location,地名,Location.58,林业用仓库,林業用倉庫,,,,,translation_table.json:locations
+06_location,地名,Location.59,载具库,格納庫,,,,,translation_table.json:locations
+06_location,地名,Location.60,桃源乡,桃源郷,,,,,translation_table.json:locations
+06_location,地名,Location.61,梅花园本馆,梅花園本館,,,,,translation_table.json:locations
+06_location,地名,Location.62,玄武商会,玄武商会,玄武商會,Black Tortoise Promenade,현무상회,ย่านการค้าเทพเต่าดำ,translation_table.json:locations
+06_location,地名,Location.63,发电站,発電所,,,,,translation_table.json:locations
+06_location,地名,Location.64,白鲸市场,白イルカ市場,白鯨市場,Beluga Market,흰돌고래 시장,ตลาดโลมาขาว,translation_table.json:locations
+06_location,地名,Location.65,白虎公园,白虎公園,,,,,translation_table.json:locations
+06_location,地名,Location.66,百鬼夜行中心部,百鬼夜行中心部,,,,,translation_table.json:locations
+06_location,地名,Location.67,百鬼夜行商店街,百鬼夜行商店街,,,,,translation_table.json:locations
+06_location,地名,Location.68,百鬼夜行阴阳部主楼,百鬼夜行陰陽部本館,,,,,translation_table.json:locations
+06_location,地名,Location.69,神木观景台,神木展望台,,,,,translation_table.json:locations
+06_location,地名,Location.70,竹林,竹林,,,,,translation_table.json:locations
+06_location,地名,Location.71,第1共用宿舍,第1公共寮,,,,,translation_table.json:locations
+06_location,地名,Location.72,第3公共供给所,第3公共給食所,,,,,translation_table.json:locations
+06_location,地名,Location.73,第3商业区,第3業務地区,,,,,translation_table.json:locations
+06_location,地名,Location.74,美术馆,美術館,,,,,translation_table.json:locations
+06_location,地名,Location.75,自习室,自習室,,,,,translation_table.json:locations
+06_location,地名,Location.76,茶园,茶園,,,,,translation_table.json:locations
+06_location,地名,Location.77,菜园,菜園,,,,,translation_table.json:locations
+06_location,地名,Location.78,视听室,視聴覚室,,,,,translation_table.json:locations
+06_location,地名,Location.79,观光缆车,観光用ケーブルカー,,,,,translation_table.json:locations
+06_location,地名,Location.80,红胡子革命广场,赤ひげ革命広場,,,,,translation_table.json:locations
+06_location,地名,Location.81,社团会馆,部室会館,,,,,translation_table.json:locations
+06_location,地名,Location.82,炼丹术研究会,錬丹術研究所,,,,,translation_table.json:locations
+06_location,地名,Location.83,钟崎港,鐘崎港,,,,,translation_table.json:locations
+06_location,地名,Location.84,阴阳部公演会场,陰陽部公演会場,,,,,translation_table.json:locations
+06_location,地名,Location.85,音乐厅,音楽堂,,,,,translation_table.json:locations
+06_location,地名,Location.86,餐厅,食堂,,,,,translation_table.json:locations
+06_location,地名,EventPlace.shanhaijing,山海经高级中学,山海経高級中学校,山海經高級中學,Shanhaijing Academy,산해경 고급중학교,โรงเรียนมัธยมซานไห่จิง,story-viewer:eventStoryIndex.ts
+06_location,地名,ConquestMap.815,【失乐园度假村】群岛,「ロスト・パラダイス・リゾート」群島,「失樂園渡假勝地」群島,Lost Paradise Resort Archipelago,<로스트 파라다이스 리조트> 군도,หมู่เกาะ <ลอสต์ พาราไดซ์ รีสอร์ต>,localization.json:ConquestMap
+06_location,地名,ConquestMap.822,【阿特拉哈西斯方舟】,「アトラ・ハシースの箱舟」,「阿特拉哈西斯的方舟」,The Ark of Atrahasis,<아트라하시스의 방주>,<เรืออะทราฮาซิส>,localization.json:ConquestMap

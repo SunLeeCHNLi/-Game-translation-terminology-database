@@ -1,0 +1,1070 @@
+﻿category,category_label,id,zh-CN,ja-JP,zh-TW,en-US,ko-KR,th-TH,src_table
+11_skill,技能,Skill.10000.Ex,冷酷无情射击,ハードボイルドショット,Hardboiled Shot,Hard-Boiled Shot,하드보일드 샷,กระสุนแห่งความร้ายกาจ,students.json:Skills
+11_skill,技能,Skill.10000.Public,黑色攻击,ノワールシュート,Noir Shoot,Noir Attack,느와르 어택,นัวร์ แอทแท็ค!,students.json:Skills
+11_skill,技能,Skill.10000.GearPublic,黑色攻击+,ノワールシュート+,Noir Shoot+,Noir Attack+,느와르 어택+,นัวร์ แอทแท็ค!+,students.json:Skills
+11_skill,技能,Skill.10000.Passive,社长的威严,社長の威厳,社長的威嚴,The Gravity of a Boss,사장님의 위엄,เกียรติภูมิของหัวหน้า,students.json:Skills
+11_skill,技能,Skill.10000.WeaponPassive,社长的威严+,社長の威厳+,社長的威嚴+,The Gravity of a Boss+,사장님의 위엄+,เกียรติภูมิของหัวหน้า+,students.json:Skills
+11_skill,技能,Skill.10000.ExtraPassive,法外狂徒之路,アウトローの流儀,亡命之徒的作風,Way of the Outlaw,무법자의 길,วิถีคนนอกรีต,students.json:Skills
+11_skill,技能,Skill.10001.Ex,不屈的意志,不屈の意志,不屈的意志,Undying Will,불굴의 의지,ความตั้งใจที่ไม่ย่อท้อ,students.json:Skills
+11_skill,技能,Skill.10001.Public,执念的猛击,執念の猛撃,執念的猛擊,Single-Minded Assault,집념의 맹격,โจมตีเด็ดเดี่ยว,students.json:Skills
+11_skill,技能,Skill.10001.GearPublic,执念的猛击+,執念の猛撃+,執念的猛擊+,Single-Minded Assault+,집념의 맹격+,โจมตีเด็ดเดี่ยว+,students.json:Skills
+11_skill,技能,Skill.10001.Passive,专家的休憩,スペシャリストの休憩,專家的休息,Specialist's Respite,스페셜리스트의 휴식,การพักผ่อนของผู้เชี่ยวชาญ,students.json:Skills
+11_skill,技能,Skill.10001.WeaponPassive,专家的休憩+,スペシャリストの休憩+,專家的休息+,Specialist's Respite+,스페셜리스트의 휴식+,การพักผ่อนของผู้เชี่ยวชาญ+,students.json:Skills
+11_skill,技能,Skill.10001.ExtraPassive,强韧的精神力,強靱な精神力,強韌的精神力,Iron Will,강인한 정신력,จิตใจที่แข็งแกร่ง,students.json:Skills
+11_skill,技能,Skill.10002.Ex,优雅地贯穿,貫くエレガンス,貫穿 Elegance,Piercing Elegance,꿰뚫는 엘레강스,สง่างามทะลุเกราะ,students.json:Skills
+11_skill,技能,Skill.10002.Public,爆炸的异国风情,爆発するエキゾチック,爆炸 Exotic,Exotic Explosives,폭발하는 엑조틱,ระเบิดเอ็กซ์โซติก,students.json:Skills
+11_skill,技能,Skill.10002.Passive,美食家的品格,美食家の気品,美食家的品格,Gourmand's Honor,미식가의 기품,ศักดิ์ศรีของนักชิม,students.json:Skills
+11_skill,技能,Skill.10002.WeaponPassive,美食家的品格+,美食家の気品+,美食家的品格+,Gourmand's Honor+,미식가의 기품+,ศักดิ์ศรีของนักชิม+,students.json:Skills
+11_skill,技能,Skill.10002.ExtraPassive,美食家的严谨,美食家の冷静さ,美食家的沉著,Prudent Connoisseur,미식가의 신중함,ความสุขุมของนักชิม,students.json:Skills
+11_skill,技能,Skill.10003.Ex,佩洛洛大人，快帮帮我！,助けて、ペロロ様！,幫幫我，佩洛洛大人！,"Help Me, Peroro!","도와줘요, 페로로 님!",ท่านเพโรโร่ออกโรง!,students.json:Skills
+11_skill,技能,Skill.10003.Public,佩洛洛大人的助威,ペロロ様の応援,佩洛洛大人的應援,Peroro's Support,페로로 님의 응원,กำลังใจของท่านเพโรโร่,students.json:Skills
+11_skill,技能,Skill.10003.Passive,收藏家的韧性,コレクター根性,收藏家的毅力,Collector's Spirit,수집가의 근성,ความกล้าของนักสะสม,students.json:Skills
+11_skill,技能,Skill.10003.WeaponPassive,收藏家的韧性+,コレクター根性+,收藏家的毅力+,Collector's Spirit+,수집가의 근성+,ความกล้าของนักสะสม+,students.json:Skills
+11_skill,技能,Skill.10003.ExtraPassive,敏捷的收藏家,すばしっこいコレクター,敏捷的收藏家,Agile Collector,민첩한 수집가,นักสะสมผู้ฉับไว,students.json:Skills
+11_skill,技能,Skill.10004.Ex,终幕：伊施波设,終幕：イシュ・ボシェテ,終幕：Ish-bosheth,Denouement: Ishbosheth,종막: 이스보셋,ปิดฉาก: อิชโบเชท,students.json:Skills
+11_skill,技能,Skill.10004.Public,重装与毁灭,リロードアンドデストロイ,Reload & Destroy,Lock & Load,리로드 앤 디스트로이,โหลดกระสุนและทำลาย!,students.json:Skills
+11_skill,技能,Skill.10004.GearPublic,换弹与摧毁＋,リロードアンドデストロイ＋,Reload & Destroy+,Lock & Load+,리로드 앤 디스트로이+,โหลดกระสุนและทำลาย!+,students.json:Skills
+11_skill,技能,Skill.10004.Passive,冷静的风纪委员会,冷徹な風紀委員会,冷靜的風紀委員會,Prefect Team Member Judgment,선도부의 냉철,ความเยือกเย็นของกรรมการวินัย,students.json:Skills
+11_skill,技能,Skill.10004.WeaponPassive,冷静的风纪委员会+,冷徹な風紀委員会+,冷靜的風紀委員會+,Prefect Team Member Judgment+,선도부의 냉철+,ความเยือกเย็นของกรรมการวินัย+,students.json:Skills
+11_skill,技能,Skill.10004.ExtraPassive,彻头彻尾,徹頭徹尾,徹頭徹尾,Out-and-Out,철두철미,ความมุ่งมั่นที่แรงกล้า,students.json:Skills
+11_skill,技能,Skill.10005.Ex,战术镇压,戦術的鎮圧,戰術鎮壓,Tactical Suppression,전술 진압,กลยุทธ์พิชิต,students.json:Skills
+11_skill,技能,Skill.10005.Public,急救治疗,応急手当,急救,Emergency First Aid,응급 치료,รักษาฉุกเฉิน,students.json:Skills
+11_skill,技能,Skill.10005.GearPublic,急救＋,応急手当＋,急救+,Emergency First Aid+,응급 치료+,รักษาฉุกเฉิน+,students.json:Skills
+11_skill,技能,Skill.10005.Passive,对策委员长,対策委員会の委員長,對策委員會的委員長,Foreclosure Task Force President,대책위원회의 부장,ประธานคณะกรรมการแผนงาน,students.json:Skills
+11_skill,技能,Skill.10005.WeaponPassive,对策委员长+,対策委員会の委員長+,對策委員會的委員長+,Foreclosure Task Force President+,대책위원회의 부장+,ประธานคณะกรรมการแผนงาน+,students.json:Skills
+11_skill,技能,Skill.10005.ExtraPassive,熟练镇压,鎮圧のベテラン,鎮壓老手,Expert Suppression,진압 숙련,ยอดนักพิชิต,students.json:Skills
+11_skill,技能,Skill.10006.Ex,一网打尽,一網打尽,一網打盡,Major Roundup,일망타진,กระสุนสายฟ้า,students.json:Skills
+11_skill,技能,Skill.10006.Public,悬赏通缉,指名手配,懸賞通緝,Bounty,현상수배,ประกาศจับ,students.json:Skills
+11_skill,技能,Skill.10006.Passive,一发必中,一撃必中,一擊必中,One-Shot Bullseye,일발필중,กระสุนพิฆาต,students.json:Skills
+11_skill,技能,Skill.10006.WeaponPassive,一发必中+,一撃必中+,一擊必中+,One-Shot Bullseye+,일발필중+,กระสุนพิฆาต+,students.json:Skills
+11_skill,技能,Skill.10006.ExtraPassive,风纪委员的胆量,風紀委員の度胸,風紀委員的膽量,Prefect Team Nerve,선도부원의 담력,ความกล้าของกรรมการวินัย,students.json:Skills
+11_skill,技能,Skill.10007.Ex,让世界更加鲜艳！,世界をもっと色鮮やかに！,讓世界更加鮮豔！,World Beautification!,세상을 더 아름답게!,เนรมิตโลกงาม!,students.json:Skills
+11_skill,技能,Skill.10007.Public,投掷油漆弹！,くらえ、ペイントボール！,接招吧，漆彈！,Paintball Lob!,페인트 볼 투척!,ยิงลูกเพนท์บอล!,students.json:Skills
+11_skill,技能,Skill.10007.Passive,华丽演出,芸術的な演出,藝術性的演出,Dazzling Display,화려한 연출,การจัดแสดงที่สง่างาม,students.json:Skills
+11_skill,技能,Skill.10007.WeaponPassive,华丽演出+,芸術的な演出+,藝術性的演出+,Dazzling Display+,화려한 연출+,การจัดแสดงที่สง่างาม+,students.json:Skills
+11_skill,技能,Skill.10007.ExtraPassive,艺术的苦痛,芸術の苦しみ,藝術的痛苦,Suffering for Art,예술의 고통,ความเจ็บปวดแห่งศิลปะ,students.json:Skills
+11_skill,技能,Skill.10008.Ex,啊~？活腻了吧你？,あぁ？ぶっ殺されてぇか？,啊？找死嗎？,You Got a Death Wish or Somethin'?,아앙~? 죽인다?,อ๊ะ~? เดี๋ยวก็ฆ่าซะหรอก!,students.json:Skills
+11_skill,技能,Skill.10008.Public,啊~？把我当傻子是吧？！,あぁ？ふざけんな！,啊？開什麼玩笑！,Cruisin' for a Bruisin'!,아앙~? 까불지마!,อ๊ะ~? อย่าซ่าให้มันมากนักนะ!,students.json:Skills
+11_skill,技能,Skill.10008.GearPublic,啊~？把我当傻子是吧？！+,あぁ？ふざけんな！+,啊？開什麼玩笑！+,Cruisin' for a Bruisin'!+,아앙~? 까불지마!+,อ๊ะ~? อย่าซ่าให้มันมากนักนะ!+,students.json:Skills
+11_skill,技能,Skill.10008.Passive,代号00,コールサインダブルオー,Call Sign Double O,Call Sign Double O,코드명 더블오,โค้ดเนมดับเบิ้ลโอ,students.json:Skills
+11_skill,技能,Skill.10008.WeaponPassive,代号00+,コールサインダブルオー+,Call Sign Double O+,Call Sign Double O+,코드명 더블오+,โค้ดเนมดับเบิ้ลโอ+,students.json:Skills
+11_skill,技能,Skill.10008.ExtraPassive,愤怒强化,激昂,激昂,Enhanced Rage,분노 강화,โกรธทะลุจุดเดือด,students.json:Skills
+11_skill,技能,Skill.10009.Ex,芝士巧克力汉堡~,チーズチョコレートバーガー！,起司巧克力漢堡──！,Cheese 'n' Chocolate Hamburger!,치즈 초콜릿 햄버거~,ชีส ช็อกโกแลต แฮมเบอร์เกอร์~,students.json:Skills
+11_skill,技能,Skill.10009.Public,瞄准，砰！,よーーい、BANG！,預──備，BANG！,"Ready, Set, Boom!","준비하고, 빠앙!",เตรียมตัวและ...ยิง!,students.json:Skills
+11_skill,技能,Skill.10009.GearPublic,瞄准，砰！+,よーーい、BANG！+,預──備，BANG！+,"Ready, Set, Boom!+","준비하고, 빠앙!+",เตรียมตัวและ...ยิง!+,students.json:Skills
+11_skill,技能,Skill.10009.Passive,接下来吃什么呢？,次は何を食べよっか？,下一個要吃什麼呢？,What to Eat Next?,또 뭘 먹지?,กินอะไรอีกดีน๊า?,students.json:Skills
+11_skill,技能,Skill.10009.WeaponPassive,接下来吃什么呢？+,次は何を食べよっか？+,下一個要吃什麼呢？+,What to Eat Next?+,또 뭘 먹지?+,กินอะไรอีกดีน๊า?+,students.json:Skills
+11_skill,技能,Skill.10009.ExtraPassive,美食才是最重要的~,美味しいのが一番だよね～,好吃是最重要的吧～,Savor the Flavor!,맛있는 게 최고야~,ของอร่อยน่ะ สุดยอด!,students.json:Skills
+11_skill,技能,Skill.10010.Ex,召唤无人机：火力支援，开始,ドローン召喚：火力支援,召喚無人機：火力支援,Drone Support,드론 소환 : 화력 지원,เรียกโดรน : ยิงสนับสนุน,students.json:Skills
+11_skill,技能,Skill.10010.Public,投掷手榴弹,手榴弾投擲,投擲手榴彈,Grenade Lob,수류탄 투척,ขว้างระเบิด,students.json:Skills
+11_skill,技能,Skill.10010.GearPublic,投掷手榴弹+,手榴弾投擲+,投擲手榴彈+,Grenade Lob+,수류탄 투척+,ขว้างระเบิด+,students.json:Skills
+11_skill,技能,Skill.10010.Passive,瞄准弱点,ピンポイント,Pinpoint,Target Weaknesses,약점 노리기,เล็งจุดอ่อน,students.json:Skills
+11_skill,技能,Skill.10010.WeaponPassive,瞄准弱点+,ピンポイント+,Pinpoint+,Target Weaknesses+,약점 노리기+,เล็งจุดอ่อน+,students.json:Skills
+11_skill,技能,Skill.10010.ExtraPassive,高速连射,高速連射,高速連射,Very Rapid Fire,고속 연사,ยิงเร็วทะลุจุดเดือด,students.json:Skills
+11_skill,技能,Skill.10011.Ex,坏孩子在哪呢？,悪い子はどこですか？,壞孩子在哪裡？,"Where Did You Go, You Rascals?",나쁜 아이는 어디있나요?,หน้าใสใจซุกซน,students.json:Skills
+11_skill,技能,Skill.10011.Public,请大家集中精神！,みなさん、集中してください！,大家，請集中精神！,"Pay Attention, Everyone!",모두 집중하세요!,ตั้งใจหน่อยสิคะ!,students.json:Skills
+11_skill,技能,Skill.10011.Passive,教官的品格,教官としての品格,身為教官的品格,Instructor's Poise,교관의 품격,ศักดิ์ศรีของครูผู้สอน,students.json:Skills
+11_skill,技能,Skill.10011.WeaponPassive,教官的品格+,教官としての品格+,身為教官的品格+,Instructor's Poise+,교관의 품격+,ศักดิ์ศรีของครูผู้สอน+,students.json:Skills
+11_skill,技能,Skill.10011.ExtraPassive,梅花园的训导法,梅花園の教育,梅花園的教育,Plum Blossom Training,매화원의 훈육법,วินัยแห่งสวนต้นบ๊วย,students.json:Skills
+11_skill,技能,Skill.10012.Ex,冲刺，射击！,スパートをかけます！,我要衝了！,Shoot and Score,스퍼트 앤 슛,พุ่งยิง,students.json:Skills
+11_skill,技能,Skill.10012.Public,热身运动,ウォーミングアップ,Warming Up,Warm-Up,워밍업,วอร์มอัป!,students.json:Skills
+11_skill,技能,Skill.10012.GearPublic,热身运动+,ウォーミングアップ+,Warming Up+,Warm-Up+,워밍업+,วอร์มอัป!+,students.json:Skills
+11_skill,技能,Skill.10012.Passive,定点攻击,ピンポイントアタック,Pinpoint Attack,Pinpoint Attack,핀 포인트 어택,พ้นจุดตาย,students.json:Skills
+11_skill,技能,Skill.10012.WeaponPassive,定点攻击+,ピンポイントアタック+,Pinpoint Attack+,Pinpoint Attack+,핀 포인트 어택+,พ้นจุดตาย+,students.json:Skills
+11_skill,技能,Skill.10012.ExtraPassive,士气高昂,テンションアップ,Tension Up,Tension Boost!,텐션업,ตื่นตัว,students.json:Skills
+11_skill,技能,Skill.10013.Ex,诡异灭裂,奇奇怪怪,奇奇怪怪,Bizarre Devastation,기괴멸렬,ทำลายให้สิ้นซาก,students.json:Skills
+11_skill,技能,Skill.10013.Public,激情,激情,激情,Intense Passion,격정,ความรู้สึกท่วมท้น!,students.json:Skills
+11_skill,技能,Skill.10013.GearPublic,激情+,激情+,激情+,Intense Passion+,격정+,ความรู้สึกท่วมท้น!+,students.json:Skills
+11_skill,技能,Skill.10013.Passive,风驰电掣,機敏,機敏,Agility,민첩함,ฉับไว,students.json:Skills
+11_skill,技能,Skill.10013.WeaponPassive,风驰电掣+,機敏+,機敏+,Agility+,민첩함+,ฉับไว+,students.json:Skills
+11_skill,技能,Skill.10013.ExtraPassive,无法控制的力量,制御不能の力,無法控制的力量,Uncontrollable Power,통제불능의 힘,พลังเกินพิกัด,students.json:Skills
+11_skill,技能,Skill.10014.Ex,泉奈忍法帖！,これぞイズナ流忍法！,這就是伊樹菜流忍法！,Izuna Ninja Scrolls!,이즈나 인법첩!,วิถีนินจาอิซุนะ!,students.json:Skills
+11_skill,技能,Skill.10014.Public,秘技！爆炸手里剑！,秘技！爆裂手裏剣！,秘技！爆裂手裏劍！,"Secret Weapon, Exploding Shurikens!",비기! 폭발수리검!,เคล็ดวิชา! ระเบิดชูริเคน!,students.json:Skills
+11_skill,技能,Skill.10014.Passive,泉奈流忍术！隐隐作痛之术！,イズナ流、奇襲の術！,伊樹菜流，奇襲之術！,Izuna-Style Prickly Ninjutsu!,이즈나류 인법! 따끔따끔의 술!,วิถีนินจาอิซุนะ! วิชาเดือดพล่าน!,students.json:Skills
+11_skill,技能,Skill.10014.WeaponPassive,泉奈流忍术！隐隐作痛之术！+,イズナ流、奇襲の術！+,伊樹菜流，奇襲之術！+,Izuna-Style Prickly Ninjutsu!+,이즈나류 인법! 따끔따끔의 술!+,วิถีนินจาอิซุนะ! วิชาเดือดพล่าน!+,students.json:Skills
+11_skill,技能,Skill.10014.ExtraPassive,泉奈流忍术！茁壮成长之术！,イズナ流、興起の術！,伊樹菜流，興起之術！,Izuna-Style Rapid Growth Ninjutsu!,이즈나류 인법! 무럭무럭의 술!,วิถีนินจาอิซุนะ! วิชาเติบโตก้าวกระโดด!,students.json:Skills
+11_skill,技能,Skill.10015.Ex,平衡崩坏！,世界の 法則が 崩壊します！,世界的法則終將崩壞！,Balance Breakdown,밸런스 붕괴,ยิงทลายราบ,students.json:Skills
+11_skill,技能,Skill.10015.Public,光啊！,光よ！,光呀！,Blinding Light!,빛이여!,ลำแสงทำลายล้าง!,students.json:Skills
+11_skill,技能,Skill.10015.Passive,强化魔法！,強化魔法です！,強化魔法！,Enhanced Magic!,강화 마법입니다!,มนตร์เสริมพลัง!,students.json:Skills
+11_skill,技能,Skill.10015.WeaponPassive,强化魔法！+,強化魔法です！+,強化魔法！+,Enhanced Magic!+,강화 마법입니다!+,มนตร์เสริมพลัง!+,students.json:Skills
+11_skill,技能,Skill.10015.ExtraPassive,觉醒吧，超新星！,覚醒せよ、スーパーノヴァ！,覺醒吧，Supernova!,Supernova Awakening!,"슈퍼 노바, 각성입니다!",ตื่นเถิดซูเปอร์โนวา!,students.json:Skills
+11_skill,技能,Skill.10016.Ex,绘画艺术,ドローイングアート,Drawing Art,Drawing Art,드로잉 아트,ศิลปะการยิง,students.json:Skills
+11_skill,技能,Skill.10016.Public,艺术润色,磨き上げるセンス,洗練的品味,Artistic Polish,아트 폴리싱,ฟื้นฟูศิลปะ,students.json:Skills
+11_skill,技能,Skill.10016.Passive,艺术家的灵感,アーティストインスピレーション,Artist Inspiration,Artist's Inspiration,아티스트 인스피어,แรงบันดาลใจของศิลปิน,students.json:Skills
+11_skill,技能,Skill.10016.WeaponPassive,艺术家的灵感+,アーティストインスピレーション+,Artist Inspiration+,Artist's Inspiration+,아티스트 인스피어+,แรงบันดาลใจของศิลปิน+,students.json:Skills
+11_skill,技能,Skill.10016.ExtraPassive,开发者协同效应：桃,開発者シナジー：モモイ,開發者加成：桃井,Developmental Synergy: Momoi,개발자 시너지: 모모이,รวมพลังนักพัฒนา: โมโมอิ,students.json:Skills
+11_skill,技能,Skill.10017.Ex,召唤亲卫队！,親衛隊、集合！,親衛隊，集合！,Call in the Guards!,친위대 소환!,เรียกกองกำลังป้องกัน!,students.json:Skills
+11_skill,技能,Skill.10017.Public,铲除那家伙！,あいつを粛清しろ！,肅清那傢伙！,You Shall Be Purged!,"저 녀석, 숙청이야!",ถูกกำจัดไปซะ!,students.json:Skills
+11_skill,技能,Skill.10017.Passive,胡须的力量！,これが髭の力だ！,這就是鬍子的力量！,Mustache Power!,수염의 힘!,พลังของหนวด!,students.json:Skills
+11_skill,技能,Skill.10017.WeaponPassive,胡须的力量！+,これが髭の力だ！+,這就是鬍子的力量！+,Mustache Power!+,수염의 힘!+,พลังของหนวด!+,students.json:Skills
+11_skill,技能,Skill.10017.ExtraPassive,向胡须的权威俯首吧！,髭の権威にひれ伏せ！,臣服於鬍子的權威吧！,Respect the 'Stache!,이것이 수염의 권위다!,นี่แหละอำนาจของหนวด!,students.json:Skills
+11_skill,技能,Skill.10018.Ex,游戏开始！,ゲームスタート！,Game Start!,Press Start!,"게임, 스타트!",เกมสตาร์ท!,students.json:Skills
+11_skill,技能,Skill.10018.Public,打出COMBO！,連続コンボ！,連續Combo!,Max Chain Combo!,연쇄 콤보 달성!,คอมโบต่อเนื่อง!,students.json:Skills
+11_skill,技能,Skill.10018.Passive,正在检查调试……,デバッグ中……,Debug中……,Debugging Process...,디버깅 체크 중…,ตรวจหาข้อบกพร่อง...,students.json:Skills
+11_skill,技能,Skill.10018.WeaponPassive,正在检查调试……+,デバッグ中……+,Debug中……+,Debugging Process...+,디버깅 체크 중…+,ตรวจหาข้อบกพร่อง...+,students.json:Skills
+11_skill,技能,Skill.10018.ExtraPassive,竭尽全力的勇气,ふりしぼる勇気,鼓起勇氣,A Shy Girl's Courage,부끄럼쟁이의 용기,ความกล้าของคนขี้อาย,students.json:Skills
+11_skill,技能,Skill.10019.Ex,intulit mortem,intulit mortem,Intulit Mortem,Intulit Mortem,intulit mortem,อินทูลิท มอร์เทม,students.json:Skills
+11_skill,技能,Skill.10019.Public,sagitta mortis,sagitta mortis,Sagitta Mortis,Sagitta Mortis,sagitta mortis,ซาจิสทา มอร์ทิส,students.json:Skills
+11_skill,技能,Skill.10019.Passive,严酷的训练,過酷な訓練,嚴苛的訓練,Grueling Training,가혹한 훈련,ฝึกหฤโหด,students.json:Skills
+11_skill,技能,Skill.10019.WeaponPassive,严酷的训练+,過酷な訓練+,嚴苛的訓練+,Grueling Training+,가혹한 훈련+,ฝึกหฤโหด+,students.json:Skills
+11_skill,技能,Skill.10019.ExtraPassive,瞄准弱点,弱点を狙う,瞄準弱點,Kick 'em While They're Down,약점 조준,กำจัดจุดอ่อน,students.json:Skills
+11_skill,技能,Skill.10020.Ex,神圣手榴弹,セイなる手榴弾,神聖手榴彈,Holy Grenade,성스러운 수류탄,ระเบิดมือศักดิ์สิทธิ์,students.json:Skills
+11_skill,技能,Skill.10020.Public,我来治疗！,わ、私が治療するっ！,我，我來治療！,I'll Heal You!,치료해주겠다고!,รักษาให้นะ!,students.json:Skills
+11_skill,技能,Skill.10020.Passive,我也是很努力的！,これでも頑張ってるの！,我還在努力呢！,I'm Trying!,노력하고 있다고!,พยายามอยู่นี่ไง!,students.json:Skills
+11_skill,技能,Skill.10020.WeaponPassive,我也是很努力的！+,これでも頑張ってるの！+,我還在努力呢！+,I'm Trying!+,노력하고 있다고!+,พยายามอยู่นี่ไง!+,students.json:Skills
+11_skill,技能,Skill.10020.ExtraPassive,我可是精英！,エリートだから！,畢竟是精英！,Being the Elite!,엘리트니까!,ฉันคือนักเรียนหัวกะทินะ!,students.json:Skills
+11_skill,技能,Skill.10021.Ex,spicea aqua,spicea aqua,Spicea Aqua,Spicea Aqua,spicea aqua,สปีซ อควา,students.json:Skills
+11_skill,技能,Skill.10021.Public,ira litore,ira litore,Ira Litore,Ira Litore,ira litore,อิระ ลิโทเร,students.json:Skills
+11_skill,技能,Skill.10021.Passive,冰冷之水,奪われる温度,被奪走的溫度,Cold Water,차가운 물,น้ำเย็นชื่นใจ,students.json:Skills
+11_skill,技能,Skill.10021.WeaponPassive,冰冷之水+,奪われる温度+,被奪走的溫度+,Cold Water+,차가운 물+,น้ำเย็นชื่นใจ+,students.json:Skills
+11_skill,技能,Skill.10021.ExtraPassive,伤口撒盐,傷口に塩水を,在傷口上灑鹽水,Salt Water in the Wound,상처에 소금물,น้ำเกลือราดแผล,students.json:Skills
+11_skill,技能,Skill.10022.Ex,滨海：伊施波设,絶海：イシュ・ボシェテ,絕海：Ish-bosheth,Ish-bosheth of the Beach,해변의 이스보셋,อิชโบเชทชายหาด,students.json:Skills
+11_skill,技能,Skill.10022.Public,K.O.投掷,スローアンドノックアウト,Throw and Knockout,Throw and Knock-Out,쓰로우 앤 녹아웃,ขว้างและน็อกเอ้าต์!,students.json:Skills
+11_skill,技能,Skill.10022.GearPublic,K.O.投掷+,スローアンドノックアウト+,Throw and Knockout+,Throw and Knock-Out+,쓰로우 앤 녹아웃+,ขว้างและน็อกเอ้าต์!+,students.json:Skills
+11_skill,技能,Skill.10022.Passive,无情的风纪委员会,無慈悲な風紀委員会,無情的風紀委員會,Prefect Team Inexorability,선도부의 냉혹,ความใจเด็ดของกรรมการวินัย,students.json:Skills
+11_skill,技能,Skill.10022.WeaponPassive,无情的风纪委员会+,無慈悲な風紀委員会+,無情的風紀委員會+,Prefect Team Inexorability+,선도부의 냉혹+,ความใจเด็ดของกรรมการวินัย+,students.json:Skills
+11_skill,技能,Skill.10022.ExtraPassive,维护纪律,実力行使,使用武力,Morality Check,풍기집행,ทำตามระเบียบ,students.json:Skills
+11_skill,技能,Skill.10023.Ex,疾风怒涛,疾風怒濤,疾風怒濤,Storm and Gale,질풍노도,คลื่นลมแรง,students.json:Skills
+11_skill,技能,Skill.10023.Public,快刀斩乱麻,快刀乱麻,快刀斬亂麻,Cutting the Gordian Knot,쾌도난마,เล่ห์เหลี่ยมทลายปม,students.json:Skills
+11_skill,技能,Skill.10023.GearPublic,快刀乱麻＋,快刀乱麻＋,快刀乱麻＋,Cutting the Gordian Knot+,쾌도난마+,เล่ห์เหลี่ยมทลายปม+,students.json:Skills
+11_skill,技能,Skill.10023.Passive,精确瞄准,精密射撃,精密射擊,Sharp Shooting,정밀조준,โจมตีตรงจุด,students.json:Skills
+11_skill,技能,Skill.10023.WeaponPassive,精确瞄准+,精密射撃+,精密射擊+,Sharp Shooting+,정밀조준+,โจมตีตรงจุด+,students.json:Skills
+11_skill,技能,Skill.10023.ExtraPassive,专家的威慑,スペシャリストの威圧,專家的脅迫,Coercion of the Specialist,스페셜리스트의 위압,การขู่ขวัญของผู้เชี่ยวชาญ,students.json:Skills
+11_skill,技能,Skill.10024.Ex,骑行与手榴弹,ライド＆グレネード,Ride & Grenade,Riding Grenade,라이딩 그레네이드,ระเบิดมือนักปั่น,students.json:Skills
+11_skill,技能,Skill.10024.Public,集中突破,一点突破,一點突破,Concentrated Fire,집중 사격,ระดมยิง,students.json:Skills
+11_skill,技能,Skill.10024.Passive,速射,ラピッドファイヤー,Rapid Fire,Rapid Fire,속사,รัวยิง,students.json:Skills
+11_skill,技能,Skill.10024.WeaponPassive,速射+,ラピッドファイヤー+,Rapid Fire+,Rapid Fire+,속사+,รัวยิง+,students.json:Skills
+11_skill,技能,Skill.10024.ExtraPassive,锐眼射击,炯眼,洞察力,Insightful Fire,간파 사격,ยิงทะลุ,students.json:Skills
+11_skill,技能,Skill.10025.Ex,坏人在哪呢？,そういうのはダメなんですよ？,那樣子壞壞唷？,Someone's Been Naughty,나쁜 어른은 어디 있나요?,ผู้ใหญ่นิสัยไม่ดีอยู่ไหนคะ?,students.json:Skills
+11_skill,技能,Skill.10025.Public,危险，不能碰！,危ないのはめっ、です！,這樣子很危險！,You Need a Talking To!,"때찌, 할 거에요!",เดี๋ยวตีเลยนะคะ เพี๊ยะ!,students.json:Skills
+11_skill,技能,Skill.10025.GearPublic,危险，不能碰！+,危ないのはめっ、です！+,這樣子很危險！+,You Need a Talking To!+,"때찌, 할 거에요!+",เดี๋ยวตีเลยนะคะ เพี๊ยะ!+,students.json:Skills
+11_skill,技能,Skill.10025.Passive,活力满满的小朋友,意気軒昂,氣宇軒昂,Bundle of Energy,활기찬 어린이,หนูน้อยเริงร่า,students.json:Skills
+11_skill,技能,Skill.10025.WeaponPassive,活力满满的小朋友+,意気軒昂+,氣宇軒昂+,Bundle of Energy+,활기찬 어린이+,หนูน้อยเริงร่า+,students.json:Skills
+11_skill,技能,Skill.10025.ExtraPassive,沉重的枪,アンバランス,Unbalance,Sooo Heavy!,무거운 총,ปืนหนักจัง,students.json:Skills
+11_skill,技能,Skill.10026.Ex,喂，别动！,そこ、動くなっ！,那裡的，不許動！,Hold It Right There!,거기 꼼짝말고 있어!,หยุดนะ อย่าขยับ!,students.json:Skills
+11_skill,技能,Skill.10026.Public,看什么看？！,見せもんじゃねぇっての！,看什麼看！,What Are You Looking At?!,구경 났어!?,มองอะไรอยู่น่ะ!?,students.json:Skills
+11_skill,技能,Skill.10026.Passive,疾言厉色,苛辣,嚴苛,Abrasion,까칠함,ฟาดไม่เลี้ยง,students.json:Skills
+11_skill,技能,Skill.10026.WeaponPassive,疾言厉色+,苛辣+,嚴苛+,Abrasion+,까칠함+,ฟาดไม่เลี้ยง+,students.json:Skills
+11_skill,技能,Skill.10026.ExtraPassive,想要更疼一点？,もっと痛いのが好きか？,喜歡再痛一點嗎？,Much More Painful,특별히 더 아프게,ทำให้เจ็บเป็นพิเศษเลย,students.json:Skills
+11_skill,技能,Skill.10027.Ex,迅速，精确,迅速に、正確に,迅速地、準確地,Fast and Accurate,"신속, 정확",รวดเร็วแม่นยำ,students.json:Skills
+11_skill,技能,Skill.10027.Public,广域，射击,広域射撃、開始,廣域射擊，開始,Area Fire,"범위, 사격",ยิงเข้าในรัศมี,students.json:Skills
+11_skill,技能,Skill.10027.Passive,火力，强化,火力強化、完了,火力強化，完成,Enhanced Firepower,"화력, 강화",เสริมพละกำลัง,students.json:Skills
+11_skill,技能,Skill.10027.WeaponPassive,火力，强化+,火力強化、完了+,火力強化，完成+,Enhanced Firepower+,"화력, 강화+",เสริมพละกำลัง+,students.json:Skills
+11_skill,技能,Skill.10027.ExtraPassive,精密，严谨,精密に、慎重に,精密地、慎重地,Precise and Careful,"정밀, 신중",แม่นตรงจุด,students.json:Skills
+11_skill,技能,Skill.10028.Ex,快看这个！,ねぇねぇこれ見て！,吶吶，你看這個！,Watch This!,이거 좀 봐!,ดูนี่สิ!,students.json:Skills
+11_skill,技能,Skill.10028.Public,开心起来吧！,楽しくやろう！,開心地玩吧！,Get Pumped!,신나게!,สนุกจังเลย!,students.json:Skills
+11_skill,技能,Skill.10028.GearPublic,开心起来吧！+,楽しくやろう！+,開心地玩吧！+,Get Pumped!+,신나게!+,สนุกจังเลย!+,students.json:Skills
+11_skill,技能,Skill.10028.Passive,多玩一会吧！,もっともっと楽しもう！,再快樂一點吧！,Savoring It,오래 즐기기,เล่นกันนานๆ นะ,students.json:Skills
+11_skill,技能,Skill.10028.WeaponPassive,多玩一会吧！+,もっともっと楽しもう！+,再快樂一點吧！+,Savoring It+,오래 즐기기+,เล่นกันนานๆ นะ+,students.json:Skills
+11_skill,技能,Skill.10028.ExtraPassive,这是赠品！,これはおまけだよ！,這是附贈的唷！,Here's a Freebie!,이건 덤이야!,นี่ไงของแถม!,students.json:Skills
+11_skill,技能,Skill.10029.Ex,秘藏王牌,こういう時のとっておき,為了這種時候準備的,Hidden Ace,비장의 수단,วิธีการลับ,students.json:Skills
+11_skill,技能,Skill.10029.Public,来口这个吧！,これ食べて元気出してー,吃了這個打起精神來,One Bite at a Time!,한 입씩!,ทีละคำนะ!,students.json:Skills
+11_skill,技能,Skill.10029.Passive,要吃饱才行！,腹が減っては……！,肚子餓了……！,Hearty!,든든하게!,มั่นคง!,students.json:Skills
+11_skill,技能,Skill.10029.WeaponPassive,要吃饱才行！+,腹が減っては……！+,肚子餓了……！+,Hearty!+,든든하게!+,มั่นคง!+,students.json:Skills
+11_skill,技能,Skill.10029.ExtraPassive,填满嘴巴的幸福感,お口いっぱいの幸せ,滿嘴的幸福,A Mouth Full of Happiness,입안에 쌓이는 행복,ความสุขในคำเดียว,students.json:Skills
+11_skill,技能,Skill.10030.Ex,战斗用A型能量剂,戦闘用A型エネルギー剤,戰鬥用A型能量劑,Type A Combat Stimulant,A형 전투자극제,ยากระตุ้นพลังต่อสู้แบบ A,students.json:Skills
+11_skill,技能,Skill.10030.Public,强化战斗支援,戦闘支援を強化,強化戰鬥支援,Reinforced Combat Enhancement,전투 지원 강화,การโจมตีฉบับพิเศษ,students.json:Skills
+11_skill,技能,Skill.10030.Passive,休假的乐趣,つかの間の休養,短暫的休養,Relaxing Vacation,휴양의 즐거움,ความสนุกของการพักผ่อน,students.json:Skills
+11_skill,技能,Skill.10030.WeaponPassive,休假的乐趣+,つかの間の休養+,短暫的休養+,Relaxing Vacation+,휴양의 즐거움+,ความสนุกของการพักผ่อน+,students.json:Skills
+11_skill,技能,Skill.10030.ExtraPassive,医疗负责人的严谨,救護担当の用心深さ,救護擔當的謹慎,Cautious First Aid Head,보건 담당의 신중함,ระวังเรื่องสุขภาพด้วยค่ะ,students.json:Skills
+11_skill,技能,Skill.10031.Ex,冷酷无情毽子攻击,ハードボイルド・羽根つきショット,Hardboiled 羽根突Shot,Hard-Boiled Hanetsuki Shot,하드보일드풍 하네츠키 샷,ฮาเนะสึกิ ร็อค ช็อต,students.json:Skills
+11_skill,技能,Skill.10031.Public,黑色毽子攻击,ノワール・羽根つきシュート,Noir 羽根突Shoot,Noir-Style Hanetsuki Attack,느와르풍 하네츠키 어택,ฮาเนะสึกิ นัวร์ แอทแท็ค,students.json:Skills
+11_skill,技能,Skill.10031.Passive,社长的高雅气质,ゴージャスな社長の気品,華麗社長的品格,Gorgeous Dignity of a Boss,사장님의 고져스한 기품,ความสง่างามของท่านประธาน,students.json:Skills
+11_skill,技能,Skill.10031.WeaponPassive,社长的高雅气质+,ゴージャスな社長の気品+,華麗社長的品格+,Gorgeous Dignity of a Boss+,사장님의 고져스한 기품+,ความสง่างามของท่านประธาน+,students.json:Skills
+11_skill,技能,Skill.10031.ExtraPassive,社长的完美做派,パーフェクトな社長の流儀,完美社長的作風,Perfect Tactics of a Boss,사장님의 퍼펙트한 용병술,กลยุทธ์ที่สมบูรณ์แบบของท่านประธาน,students.json:Skills
+11_skill,技能,Skill.10032.Ex,新年交响乐,迎春のシンフォニー,迎春交響樂,New Year's Symphony,신년의 심포니,ซิมโฟนีปีใหม่,students.json:Skills
+11_skill,技能,Skill.10032.Public,小恶魔合唱,小悪魔のコーラス,小惡魔的合唱,Imp Chorus,소악마의 코러스,การคอรัสของปีศาจน้อย,students.json:Skills
+11_skill,技能,Skill.10032.Passive,更有趣的玩法！,もっと楽しい遊び方！,更有趣的玩法！,How to Have More Fun,좀 더 즐겁게 노는 방법,วิธีเล่นให้สนุกยิ่งขึ้น,students.json:Skills
+11_skill,技能,Skill.10032.WeaponPassive,更有趣的玩法！+,もっと楽しい遊び方！+,更有趣的玩法！+,How to Have More Fun+,좀 더 즐겁게 노는 방법+,วิธีเล่นให้สนุกยิ่งขึ้น+,students.json:Skills
+11_skill,技能,Skill.10032.ExtraPassive,小恶魔心机,小悪魔のキュートな企み,小惡魔的可愛企圖,Cute Imp Scheme,소악마의 귀여운 꿍꿍이,แผนลับสุดน่ารักของปีศาจน้อย,students.json:Skills
+11_skill,技能,Skill.10033.Ex,深红花占,深紅の花占い,深紅的花占卜,Crimson Flower Divination,진홍빛 꽃점,ลิขิตแห่งบุปผาสีชาด,students.json:Skills
+11_skill,技能,Skill.10033.Public,随风凋谢的漫天花雨,乱れ散る花吹雪,落英繽紛,Scattering Petals,흩날리는 꽃보라,บุปผาปลิวสะบัด,students.json:Skills
+11_skill,技能,Skill.10033.GearPublic,随风凋谢的漫天花雨+,乱れ散る花吹雪+,落英繽紛+,Scattering Petals+,흩날리는 꽃보라+,บุปผาปลิวสะบัด+,students.json:Skills
+11_skill,技能,Skill.10033.Passive,绽放的毁灭冲动,花開く破壊衝動,開花的破壞衝動,Bloom of Destruction,피어난 파괴충동,การทำลายล้างที่เบ่งบาน,students.json:Skills
+11_skill,技能,Skill.10033.WeaponPassive,绽放的毁灭冲动+,花開く破壊衝動+,開花的破壞衝動+,Bloom of Destruction+,피어난 파괴충동+,การทำลายล้างที่เบ่งบาน+,students.json:Skills
+11_skill,技能,Skill.10033.ExtraPassive,怒放的战斗本能,狂い咲く闘争本能,狂放的鬥爭本能,Full Bloom Battle Instinct,만개한 투쟁본능,สัญชาตญาณการต่อสู้ที่บานสะพรั่ง,students.json:Skills
+11_skill,技能,Skill.10034.Ex,天气好暖和，很适合赏花呢,お花見日和ですね,賞花的好天氣呢,Cherry Blossom Viewing,따끈따끈 꽃구경이에요.,มาชมดอกไม้ที่อบอุ่นกันค่ะ,students.json:Skills
+11_skill,技能,Skill.10034.Public,我带了便当哦,お弁当を作ってきたんです,我做了便當,I Brought a Bento,도시락을 싸왔답니다.,ข้าวกล่องเสริมพลัง,students.json:Skills
+11_skill,技能,Skill.10034.GearPublic,我带了便当哦+,お弁当を作ってきたんです+,我做了便當+,I Brought a Bento+,도시락을 싸왔답니다.+,ข้าวกล่องเสริมพลัง+,students.json:Skills
+11_skill,技能,Skill.10034.Passive,要再来一碗吗？,まだたくさんありますよ,還有很多唷,How About Another Plate?,한 그릇 더 어떠신가요?,รับอีกสักชามไหมคะ?,students.json:Skills
+11_skill,技能,Skill.10034.WeaponPassive,要再来一碗吗？+,まだたくさんありますよ+,還有很多唷+,How About Another Plate?+,한 그릇 더 어떠신가요?+,รับอีกสักชามไหมคะ?+,students.json:Skills
+11_skill,技能,Skill.10034.ExtraPassive,要尝尝看吗？,味見してみませんか？,要嘗嘗看嗎？,Shall We Have a Taste?,살짝만 맛을 볼까요?,ลองชิมดูไหมคะ?,students.json:Skills
+11_skill,技能,Skill.10035.Ex,古书专家,古書の専門家,古書專家,Ancient Texts Expert,고서 전문가,ผู้เชี่ยวชาญหนังสือโบราณ,students.json:Skills
+11_skill,技能,Skill.10035.Public,传授知识,伝授されていく知識,傳授知識,Imparting Knowledge,지식전수,แบ่งปันความรู้,students.json:Skills
+11_skill,技能,Skill.10035.Passive,专家的锐敏,専門家の知見,專家的見解,Expert Skill,전문가의 날카로움,ความเฉียบคมของผู้เชี่ยวชาญ,students.json:Skills
+11_skill,技能,Skill.10035.WeaponPassive,专家的锐敏+,専門家の知見+,專家的見解+,Expert Skill+,전문가의 날카로움+,ความเฉียบคมของผู้เชี่ยวชาญ+,students.json:Skills
+11_skill,技能,Skill.10035.ExtraPassive,神经过敏,神経過敏,神經過敏,Jitters,신경과민,ประสาทฉับไว,students.json:Skills
+11_skill,技能,Skill.10036.Ex,最后的沟通手段,最終手段,最終手段,Last Means of Communication,마지막 대화수단,วิธีเจรจาขั้นสุดท้าย,students.json:Skills
+11_skill,技能,Skill.10036.Public,先来对话吧……！,まずはお話を……！,先談談……！,Let's Talk First...!,우선 대화를…!,มาคุยกันก่อนเถอะค่ะ...!,students.json:Skills
+11_skill,技能,Skill.10036.GearPublic,先来对话吧……！+,まずはお話を……！+,先談談……！+,Let's Talk First...!+,우선 대화를…!+,มาคุยกันก่อนเถอะค่ะ...!+,students.json:Skills
+11_skill,技能,Skill.10036.Passive,意料之外的发展,思いがけない展開,意想不到的發展,Unexpected Development,뜻밖의 전개,พัฒนาแบบไม่คาดคิด,students.json:Skills
+11_skill,技能,Skill.10036.WeaponPassive,意料之外的发展+,思いがけない展開+,意想不到的發展+,Unexpected Development+,뜻밖의 전개+,พัฒนาแบบไม่คาดคิด+,students.json:Skills
+11_skill,技能,Skill.10036.ExtraPassive,请把体力活交给我！,力仕事はお任せを！,力氣活就交給我吧！,Leave the Heavy Lifting to Me!,무거운 건 맡겨주세요!,เรื่องงานหนักไว้ใจได้เลยค่ะ!,students.json:Skills
+11_skill,技能,Skill.10037.Ex,革命的突击！,革命的突撃！,革命的突擊！,Revolutionary Charge!,혁명적 돌격!,บุกเข้าปฏิวัติ!,students.json:Skills
+11_skill,技能,Skill.10037.Public,决不会后退！,退いてなるものか！,沒有退路！,No Retreat!,후퇴는 없다!,ไม่มีการถอย!,students.json:Skills
+11_skill,技能,Skill.10037.Passive,这不是逃跑！,これは後退ではない！,這不是撤退！,Evading Isn't Retreating!,도망치는 게 아니야!,ไม่หนีไปไหน!,students.json:Skills
+11_skill,技能,Skill.10037.WeaponPassive,这不是逃跑！+,これは後退ではない！+,這不是撤退！+,Evading Isn't Retreating!+,도망치는 게 아니야!+,ไม่หนีไปไหน!+,students.json:Skills
+11_skill,技能,Skill.10037.ExtraPassive,果敢的判断,決断力,決斷力,A Bold Decision,과감한 결단,ตัดสินใจเด็ดเดี่ยว,students.json:Skills
+11_skill,技能,Skill.10038.Ex,启动闪光无人机,自走式閃光ドローン,自走式閃光無人機,Launch Flash Drone,섬광 드론 전개,ปล่อยโดรนแฟลช,students.json:Skills
+11_skill,技能,Skill.10038.Public,设置阔剑地雷,クレイモア,Claymore,Claymore Burst,클레이모어 격발,ยิงทุ่นระเบิดเคลย์มอร์,students.json:Skills
+11_skill,技能,Skill.10038.GearPublic,设置阔剑地雷+,クレイモア＋,Claymore+,Claymore Burst+,클레이모어 격발+,ยิงทุ่นระเบิดเคลย์มอร์+,students.json:Skills
+11_skill,技能,Skill.10038.Passive,特制防弹衣,特殊防弾プレート,特殊防彈板,Equip Special Bulletproof Plate,특수 방탄판 장착,สวมเกราะกันกระสุนพิเศษ,students.json:Skills
+11_skill,技能,Skill.10038.WeaponPassive,特制防弹衣+,特殊防弾プレート+,特殊防彈板+,Equip Special Bulletproof Plate+,특수 방탄판 장착+,สวมเกราะกันกระสุนพิเศษ+,students.json:Skills
+11_skill,技能,Skill.10038.ExtraPassive,干扰作战,攪乱作戦,擾亂作戰,Disturbance,교란작전,ยุทธวิธีก่อกวน,students.json:Skills
+11_skill,技能,Skill.10039.Ex,小心谨慎的观察,小心者の観測,膽小者的觀測,Observe Weakness,소심한 관측,การซุ่มยิงของคนขี้อาย,students.json:Skills
+11_skill,技能,Skill.10039.Public,出乎意料的一击,予期せぬ角度からの一撃,來自預期之外角度的一擊,Unexpected Blow,예상치 못한 일격,ไม้ตายที่คาดไม่ถึง,students.json:Skills
+11_skill,技能,Skill.10039.GearPublic,预料角度外的一击＋,予期せぬ角度からの一撃+,來自預期之外角度的一擊+,Unexpected Blow+,예상치 못한 일격+,ไม้ตายที่คาดไม่ถึง+,students.json:Skills
+11_skill,技能,Skill.10039.Passive,深呼吸,深呼吸,深呼吸,Deep Breathing,침착한 호흡,ลมหายใจลุ่มลึก,students.json:Skills
+11_skill,技能,Skill.10039.WeaponPassive,深呼吸+,深呼吸+,深呼吸+,Deep Breathing+,침착한 호흡+,ลมหายใจลุ่มลึก+,students.json:Skills
+11_skill,技能,Skill.10039.ExtraPassive,特制狙击子弹,狙撃用の特殊弾,狙擊用特殊彈,Special Sniper Bullets,저격용 특수탄환,กระสุนปืนลอบยิงแบบพิเศษ,students.json:Skills
+11_skill,技能,Skill.10040.Ex,月，月咏流忍法帖……！,ツクヨ流、忍法……！,月夜流，忍法……！,Ts-Tsukuyo Ninja Scroll!,"츠, 츠쿠요 인법첩…이에요!",ศาสตร์นินจาของสึคุโยะเองค่ะ!,students.json:Skills
+11_skill,技能,Skill.10040.Public,手里剑，我练了好久！,たくさん、練習しましたので……！,因為大量的練習……！,Shuriken Practice!,"수리검, 잔뜩 연습했어요!",ชูริเคนที่ผ่านการฝึกชุดใหญ่ค่ะ!,students.json:Skills
+11_skill,技能,Skill.10040.Passive,因，因为我个子很高……,生まれ持った素質,天生的素質,I'm So Tall...,"저, 덩치가 크니까요….",ฉันก็ไม่ได้ตัวใหญ่นี่คะ...,students.json:Skills
+11_skill,技能,Skill.10040.WeaponPassive,因，因为我个子很高……+,生まれ持った素質+,天生的素質+,I'm So Tall...+,"저, 덩치가 크니까요….+",ฉันก็ไม่ได้ตัวใหญ่นี่คะ...+,students.json:Skills
+11_skill,技能,Skill.10040.ExtraPassive,还，还不能倒下！,まだ、倒れる、わけには……！,我還，不能，倒下……！,I Can't Go Down Yet!,"아, 아직 쓰러질 수 없어요!",ยังไม่ยอมจำนนหรอกค่ะ!,students.json:Skills
+11_skill,技能,Skill.10041.Ex,虚空的世界,虚しい世界,虛無的世界,World of Futility,헛된 세계,โลกอันว่างเปล่า,students.json:Skills
+11_skill,技能,Skill.10041.Public,好想早点结束,早く終わらせたい,想快點結束,Finish It Quickly,빨리 끝내고 싶어,ให้มันจบไวๆ ทีเถอะ,students.json:Skills
+11_skill,技能,Skill.10041.GearPublic,好想早点结束+,早く終わらせたい+,想快點結束+,Finish It Quickly+,빨리 끝내고 싶어+,ให้มันจบไวๆ ทีเถอะ+,students.json:Skills
+11_skill,技能,Skill.10041.Passive,毫无意义的技术,無意味な技術,無意義的技術,Casual Technique,의미 없이 익힌 기술,เทคโนโลยีที่ไร้ความหมาย,students.json:Skills
+11_skill,技能,Skill.10041.WeaponPassive,毫无意义的技术+,無意味な技術+,無意義的技術+,Casual Technique+,의미 없이 익힌 기술+,เทคโนโลยีที่ไร้ความหมาย+,students.json:Skills
+11_skill,技能,Skill.10041.ExtraPassive,等价交换,等価交換,等價交換,Equivalent Exchange,등가교환,การแลกเปลี่ยนที่เท่าเทียม,students.json:Skills
+11_skill,技能,Skill.10042.Ex,这也是我的力量……?,これも私の力……？,這也是我的力量……？,Is This My Power...?,이것도 나의 힘……?,นี่ก็เป็นพลังของฉันเหรอ...?,students.json:Skills
+11_skill,技能,Skill.10042.Public,躲起来吧,隠れるよ,隱藏起來唷,Let's Hide,숨을게,อำพรางตัว,students.json:Skills
+11_skill,技能,Skill.10042.Passive,被教会的事情,教えられた事,被教導的事,Practice Makes Perfect,가르침에서 배운 것,เรื่องที่ได้เรียนรู้,students.json:Skills
+11_skill,技能,Skill.10042.WeaponPassive,被教会的事情+,教えられた事+,被教導的事+,Practice Makes Perfect+,가르침에서 배운 것+,เรื่องที่ได้เรียนรู้+,students.json:Skills
+11_skill,技能,Skill.10042.ExtraPassive,已经习惯了疼痛,痛いのは慣れてる,已經習慣了疼痛,High Pain Tolerance,아픈 건 익숙해,คุ้นชินกับความเจ็บปวด,students.json:Skills
+11_skill,技能,Skill.10043.Ex,翡翠花占,秘色の花占い,秘色的花占卜,Celadon Flower Divination,비색의 꽃점,ลิขิตแห่งบุปผามรกต,students.json:Skills
+11_skill,技能,Skill.10043.Public,只为您一人,ただ、あなた様のため,僅僅，只為了閣下,Just For You,"단지, 당신을 위해서",ความมุ่งมั่นนี้เพื่อคุณ,students.json:Skills
+11_skill,技能,Skill.10043.Passive,无法抑制的感情,あふれ出す恋心,溢出的愛慕之心,Uncontrollable Love,주체할 수 없는 연심,คิดถึงไม่ไหวแล้วค่ะ,students.json:Skills
+11_skill,技能,Skill.10043.WeaponPassive,无法抑制的感情+,あふれ出す恋心+,溢出的愛慕之心+,Uncontrollable Love+,주체할 수 없는 연심+,คิดถึงไม่ไหวแล้วค่ะ+,students.json:Skills
+11_skill,技能,Skill.10043.ExtraPassive,盛夏的热情,真夏の情熱,盛夏的熱情,Midsummer Passion,한여름의 정열,รุนแรงแซงฤดูร้อน,students.json:Skills
+11_skill,技能,Skill.10044.Ex,凉爽时间到~♣,涼しくな～れ♧,變涼快吧～♧,Time to Cool Off!,시원해질 시간이에요~♣,ถึงเวลาสดชื่นแล้ว~♣,students.json:Skills
+11_skill,技能,Skill.10044.Public,一起兴高采烈吧 ！,みんなで楽しく！,大家一起開心！,Everyone Get Pumped!,다 같이 신나게!,มาสนุกด้วยกันเถอะค่ะ!,students.json:Skills
+11_skill,技能,Skill.10044.Passive,迫不及待了~♣,待ちきれません♧,等不及了♧,I Can't Wait!,기다릴 수 없어요~♧,รอไม่ไหวแล้วนะคะ~♧,students.json:Skills
+11_skill,技能,Skill.10044.WeaponPassive,迫不及待了~♣+,待ちきれません♧+,等不及了♧+,I Can't Wait!+,기다릴 수 없어요~♧+,รอไม่ไหวแล้วนะคะ~♧+,students.json:Skills
+11_skill,技能,Skill.10044.ExtraPassive,会很凉爽哦~！,冷たいですよ～！,會有點冷唷～！,It's Gonna Be Cold!,차가울 거에요~!,เย็นนิดนึงน้า~!,students.json:Skills
+11_skill,技能,Skill.10045.Ex,水上支援,水上支援,水上支援,Surface Support,수상 지원,สนับสนุนทางน้ำ,students.json:Skills
+11_skill,技能,Skill.10045.Public,水上袭击,水上襲撃,水上襲擊,Surface Attack,수상 습격,โจมตีทางน้ำ,students.json:Skills
+11_skill,技能,Skill.10045.Passive,忍耐酷暑,猛暑耐久,酷暑耐久,Endure the Heat,더위 참기,ถึงร้อนก็ไม่หวั่น,students.json:Skills
+11_skill,技能,Skill.10045.WeaponPassive,忍耐酷暑+,猛暑耐久+,酷暑耐久+,Endure the Heat+,더위 참기+,ถึงร้อนก็ไม่หวั่น+,students.json:Skills
+11_skill,技能,Skill.10045.ExtraPassive,海边的乐趣,浜辺の楽しさ,海邊的快樂,Fun at the Beach,해변의 즐거움,เพลินใจบนชายหาด,students.json:Skills
+11_skill,技能,Skill.10046.Ex,夏日版·泉奈流忍术,イズナ流忍法・夏バージョン,伊樹菜流忍法．夏日版,Izuna Ninja Scrolls! Summer Style!,여름 · 이즈나 인법첩!,วิถีนินจาอิซุนะ! คิมหันตฤดู!,students.json:Skills
+11_skill,技能,Skill.10046.Public,泉奈流忍术！咕嘟咕嘟之术！,イズナ流忍法！ぷくぷくの術！,伊樹菜流忍法！吹泡泡之術！,Izuna-Style Bobble Bubble Technique!,이즈나류 인법! 뽀글뽀글의 술!,วิถีนินจาอิซุนะ! วิชาฟองเดือดพล่าน!,students.json:Skills
+11_skill,技能,Skill.10046.Passive,主公！夏天到了！,主殿！夏です！,主公！是夏天！,My Lord! It's Summer!,주군! 여름이에요!,นายท่าน! ถึงฤดูร้อนแล้วค่ะ!,students.json:Skills
+11_skill,技能,Skill.10046.WeaponPassive,主公！夏天到了！+,主殿！夏です！+,主公！是夏天！+,My Lord! It's Summer!+,주군! 여름이에요!+,นายท่าน! ถึงฤดูร้อนแล้วค่ะ!+,students.json:Skills
+11_skill,技能,Skill.10046.ExtraPassive,夏日版·泉奈流忍术！奥义攻击！,イズナ流忍法・夏バージョン奥義発動！,伊樹菜流忍法．夏日版奧義發動！,Secret Izuna-Style Summer Ninjutsu!,여름 · 이즈나류 인법 오의 발동!,วิถีนินจาอิซุนะ วิชาลับคิมหันตฤดู!,students.json:Skills
+11_skill,技能,Skill.10047.Ex,夏日海滩，热情满满~,夏の海辺、ふぃ～ば～,夏日的海邊，Fever～,Summer Beach Fever!,"여름 바닷가, 피버~",ชายหาดฤดูร้อน ฟีเวอร์~,students.json:Skills
+11_skill,技能,Skill.10047.Public,沙滩排球，发射~,びーちぼーる、しゅ～と～,沙灘排球，咻～咚～,Beach Volleyball Shot!,비치발리볼 슈웃~,วอลเลย์บอลชายหาด ชู้ต~,students.json:Skills
+11_skill,技能,Skill.10047.GearPublic,沙滩排球，发射~+,びーちぼーる、しゅ～と～+,沙灘排球，咻～咚～+,Beach Volleyball Shot!+,비치발리볼 슈웃~+,วอลเลย์บอลชายหาด ชู้ต~+,students.json:Skills
+11_skill,技能,Skill.10047.Passive,散步，准备完毕~,散歩、準備OK～,散步，準備OK～,Take a Walk!,"산책, 준비 완료~",พร้อมไปเดินเล่นแล้ว~,students.json:Skills
+11_skill,技能,Skill.10047.WeaponPassive,散步，准备完毕~+,散歩、準備OK～+,散步，準備OK～+,Take a Walk!+,"산책, 준비 완료~+",พร้อมไปเดินเล่นแล้ว~+,students.json:Skills
+11_skill,技能,Skill.10047.ExtraPassive,唔唔~会冷飕飕的哦~？,ブルブル～寒いかも～？,抖抖抖～可能會冷喔～？,Getting Chills?,부르르~ 추우려나~?,งึกงักๆ~ จะหนาวมั้ยน้า~?,students.json:Skills
+11_skill,技能,Skill.10048.Ex,Et Omnia Vanitas!,et omnia vanitas！,Et Omnia Vanitas!,Et Omnia Vanitas!,et omnia vanitas!,Et Omnia Vanitas!,students.json:Skills
+11_skill,技能,Skill.10048.Public,快反射击,即時射撃,即時射擊,Oriented Shooting,지향 사격,ยิงตามเป้า,students.json:Skills
+11_skill,技能,Skill.10048.Passive,训练的成果,訓練の成果,訓練的成果,The Fruits of Training,훈련의 성과,ผลของการฝึกฝน,students.json:Skills
+11_skill,技能,Skill.10048.WeaponPassive,训练的成果+,訓練の成果+,訓練的成果+,The Fruits of Training+,훈련의 성과+,ผลของการฝึกฝน+,students.json:Skills
+11_skill,技能,Skill.10048.ExtraPassive,队长的责任感,リーダーの責任感,隊長的責任感,Responsibility of a Leader,리더로서의 책임감,ความรับผิดชอบของผู้นำ,students.json:Skills
+11_skill,技能,Skill.10049.Ex,甜蜜炮火,スイート・ファイア,Sweet Fire,"Sweet, Sweet Gunfire",달콤한 포화,กระสุนเคลือบน้ำตาล,students.json:Skills
+11_skill,技能,Skill.10049.Public,老习惯,しみついたクセ,舊習,Old Habits,예전 습관,นิสัยเดิม,students.json:Skills
+11_skill,技能,Skill.10049.Passive,高糖效应,シュガー・ハイ,Sugar High,Sugar High,슈가 하이,ไฮชูการ์,students.json:Skills
+11_skill,技能,Skill.10049.WeaponPassive,高糖效应+,シュガー・ハイ+,Sugar High+,Sugar High+,슈가 하이+,ไฮชูการ์+,students.json:Skills
+11_skill,技能,Skill.10049.ExtraPassive,初次品尝,つまみ食い,偷吃,The First Taste,퍼스트 테이스트,ลิ้มรสครั้งแรก,students.json:Skills
+11_skill,技能,Skill.10050.Ex,做得真棒！,たいへんよくできました！,做得非常好！,Great Job,참 잘했어요,ทำได้ดีมากเลยค่ะ,students.json:Skills
+11_skill,技能,Skill.10050.Public,下次也要再接再厉哦！,次も楽しみにしてますよ！,期待下一次的表現唷！,Looking Forward to the Next Time,다음에도 기대할게요,ครั้งหน้าก็เต็มที่นะคะ,students.json:Skills
+11_skill,技能,Skill.10050.Passive,教官的责任感,教官としての責任,作為教官的責任,Instructor's Sense of Duty,교관의 책임감,ความรับผิดชอบของผู้ฝึกสอน,students.json:Skills
+11_skill,技能,Skill.10050.WeaponPassive,教官的责任感+,教官としての責任+,作為教官的責任+,Instructor's Sense of Duty+,교관의 책임감+,ความรับผิดชอบของผู้ฝึกสอน+,students.json:Skills
+11_skill,技能,Skill.10050.ExtraPassive,梅花园的教育之道,梅花園の指導法,梅花園的指導法,Plum Blossom Garden Method,매화원의 지도법,การแนะนำแห่งสวนต้นบ๊วย,students.json:Skills
+11_skill,技能,Skill.10051.Ex,小雷MK-Ⅲ，强化,雷ちゃんMK-III、強化,雷醬MK-III，強化,Thundergun MK-III Enhancement,천둥이 MK-III 강화,เสริมพลังสายฟ้า MK-III,students.json:Skills
+11_skill,技能,Skill.10051.Public,热情炮火,情熱砲,熱情砲,Passionate Gunfire,열정의 포화,รัวยิงฮึกเหิม,students.json:Skills
+11_skill,技能,Skill.10051.Passive,应援团长的热情,応援団長の情熱,應援團長的熱情,Cheer Captain's Passion,응원단장의 열정,ความฮึกเหิมของหัวหน้ากองเชียร์,students.json:Skills
+11_skill,技能,Skill.10051.WeaponPassive,应援团长的热情+,応援団長の情熱+,應援團長的熱情+,Cheer Captain's Passion+,응원단장의 열정+,ความฮึกเหิมของหัวหน้ากองเชียร์+,students.json:Skills
+11_skill,技能,Skill.10051.ExtraPassive,应援团长的斗志,応援団長の闘志,應援團長的鬥志,Cheer Captain's Drive,응원단장의 투지,ความมุ่งมั่นของหัวหน้ากองเชียร์,students.json:Skills
+11_skill,技能,Skill.10052.Ex,记录的关键在于速度,記録はスピードが命ですから,紀錄的關鍵在於速度,Speedy Record-Keeper,기록의 생명은 속도랍니다,หัวใจของสถิติคือความรวดเร็วค่ะ,students.json:Skills
+11_skill,技能,Skill.10052.Public,发现弱点！,隙だらけですよ！,漏洞百出！,Found an Opening!,허점 발견!,ตรวจพบจุดอ่อน!,students.json:Skills
+11_skill,技能,Skill.10052.Passive,秘书的从容,書記の余裕,書記的餘裕,The Secretary's Leisure,서기의 여유,ไมตรีของเลขานุการ,students.json:Skills
+11_skill,技能,Skill.10052.WeaponPassive,秘书的从容+,書記の余裕+,書記的餘裕+,The Secretary's Leisure+,서기의 여유+,ไมตรีของเลขานุการ+,students.json:Skills
+11_skill,技能,Skill.10052.ExtraPassive,秘书的坚持,書記のこだわり,書記的堅持,The Secretary's Stubbornness,서기의 고집,ความยึดมั่นของเลขานุการ,students.json:Skills
+11_skill,技能,Skill.10053.Ex,R·S·G！,R.S.G！,R.S.G！,R.S.G!,R.S.G!,R.S.G!,students.json:Skills
+11_skill,技能,Skill.10053.Public,补充水分,水分補給,補充水分,Rehydration,수분 보충,เติมเสบียงน้ำ,students.json:Skills
+11_skill,技能,Skill.10053.Passive,科学的比赛策略,数学的競技戦略,數學的競賽戰略,Mathematical Game Strategy,수학적 경기전략,กลยุทธ์การแข่งแบบนักบัญชี,students.json:Skills
+11_skill,技能,Skill.10053.WeaponPassive,科学的比赛策略+,数学的競技戦略+,數學的競賽戰略+,Mathematical Game Strategy+,수학적 경기전략+,กลยุทธ์การแข่งแบบนักบัญชี+,students.json:Skills
+11_skill,技能,Skill.10053.ExtraPassive,最优路径计算,最適動線算出,計算最佳動線,Optimal Route Calculation,최적 동선 산출,คำนวณระยะที่ดีที่สุด,students.json:Skills
+11_skill,技能,Skill.10054.Ex,喝点凉水吧,お水をどうぞ,請喝水,A Tall Drink of Water,시원한 물 드세요,รับน้ำเย็นๆ ชื่นใจไปได้เลยค่ะ,students.json:Skills
+11_skill,技能,Skill.10054.Public,修女的应援,シスターの応援,修女的應援,Sisters' Cheer,시스터의 응원,กำลังใจจากซิสเตอร์,students.json:Skills
+11_skill,技能,Skill.10054.Passive,应援的准备,応援の心構え,應援的決心,Cheering Attitude,응원의 마음가짐,ทัศนคติในการให้กำลังใจ,students.json:Skills
+11_skill,技能,Skill.10054.WeaponPassive,应援的准备+,応援の心構え+,應援的決心+,Cheering Attitude+,응원의 마음가짐+,ทัศนคติในการให้กำลังใจ+,students.json:Skills
+11_skill,技能,Skill.10054.ExtraPassive,无私的鼓励,献身的な励まし,獻身的鼓勵,Devoted Encouragement,헌신적인 격려,อุทิศตนปลุกกำลังใจ,students.json:Skills
+11_skill,技能,Skill.10055.Ex,时雨特制酒瓶燃烧弹,シグレ特製ボトルグレネード,時雨特製水壺手榴彈,Shigure's Special Bottle Grenade,시구레 특제 보틀 그레네이드,ระเบิดขวดสูตรพิเศษของชิกุเระ,students.json:Skills
+11_skill,技能,Skill.10055.Public,来点儿？,一杯、どう？,要不要喝一杯？,How About a Drink?,"한 잔, 어때?",สักแก้วหน่อยเป็นไง?,students.json:Skills
+11_skill,技能,Skill.10055.Passive,甜蜜发酵,甘い発酵,甜蜜的發酵,Sweet Fermentation,달콤한 발효,การบ่มอันแสนหวาน,students.json:Skills
+11_skill,技能,Skill.10055.WeaponPassive,甜蜜发酵+,甘い発酵+,甜蜜的發酵+,Sweet Fermentation+,달콤한 발효+,การบ่มอันแสนหวาน+,students.json:Skills
+11_skill,技能,Skill.10055.ExtraPassive,野性直觉,野生の勘,野性的直覺,Wild Intuition,야생의 감,สัญชาตญาณสัตว์ป่า,students.json:Skills
+11_skill,技能,Skill.10056.Ex,祝福的铃声,祝福の響き,祝福的聲響,Echo of Blessings,축복의 울림,ท่วงทำนองอวยพร,students.json:Skills
+11_skill,技能,Skill.10056.Public,礼物盲盒C,プレゼントセットC,禮物組合C,Assorted Gift Set C,종합 선물 세트 C,เซ็ตรวมของขวัญ C,students.json:Skills
+11_skill,技能,Skill.10056.Passive,守护天使的意志,守護天使の意志,守護天使的意志,Guardian Angel's Will,수호천사의 의지,เจตจำนงของนางฟ้าบรรเทาทุกข์,students.json:Skills
+11_skill,技能,Skill.10056.WeaponPassive,守护天使的意志+,守護天使の意志+,守護天使的意志+,Guardian Angel's Will+,수호천사의 의지+,เจตจำนงของนางฟ้าบรรเทาทุกข์+,students.json:Skills
+11_skill,技能,Skill.10056.ExtraPassive,神圣的护佑,聖なる加護,神聖的加護,Holy Aegis,성스러운 가호,พรศักดิ์สิทธิ์,students.json:Skills
+11_skill,技能,Skill.10057.Ex,美食家的愤怒,美食家の怒り,美食家的憤怒,Gourmand's Rage,미식가의 분노,ความเดือดดาลของนักชิม,students.json:Skills
+11_skill,技能,Skill.10057.Public,美食家的信念,美食家の信念,美食家的信念,Gourmand's Creed,미식가의 신념,ศรัทธาของนักชิม,students.json:Skills
+11_skill,技能,Skill.10057.Passive,新年的肉菜,新年のヴィアンド,新年的肉料理,New Year's Viande,신년의 비앙드,วิยองด์ปีใหม่,students.json:Skills
+11_skill,技能,Skill.10057.WeaponPassive,新年的肉菜+,新年のヴィアンド+,新年的肉料理+,New Year's Viande+,신년의 비앙드+,วิยองด์ปีใหม่+,students.json:Skills
+11_skill,技能,Skill.10057.ExtraPassive,送别时的甜点,送別のデセール,送別的甜點,Farewell Dessert,송별의 데세르,ของหวานอำลา,students.json:Skills
+11_skill,技能,Skill.10058.Ex,信念与荣耀,誇りと信念,榮耀與信念,Prideful Conviction,신념과 긍지,ศรัทธาและความภาคภูมิใจ,students.json:Skills
+11_skill,技能,Skill.10058.Public,严正宣告,峻厳な宣告,嚴厲的宣告,Stern Verdict,준엄한 선고,คำพิพากษาที่เข้มงวด,students.json:Skills
+11_skill,技能,Skill.10058.Passive,骑士团的意志,騎士団の意志,騎士團的意志,Knight's Will,기사단의 의지,เจตจำนงของชมรมอัศวิน,students.json:Skills
+11_skill,技能,Skill.10058.WeaponPassive,骑士团的意志+,騎士団の意志+,騎士團的意志+,Knight's Will+,기사단의 의지+,เจตจำนงของชมรมอัศวิน+,students.json:Skills
+11_skill,技能,Skill.10058.ExtraPassive,不屈的勇气,不屈の勇気,不屈的勇氣,Unflinching Courage,불굴의 용기,ความกล้าหาญที่ไม่ย่อท้อ,students.json:Skills
+11_skill,技能,Skill.10059.Ex,Kyrie Eleison,Kyrie Eleison,Kyrie Eleison,Kyrie Eleison,Kyrie Eleison,Kyrie Eleison,students.json:Skills
+11_skill,技能,Skill.10059.Public,星之呼唤,星の呼び声,星之呼喚,Call of the Stars,별의 부름,Call of the Stars,students.json:Skills
+11_skill,技能,Skill.10059.Passive,Gloria Patri,Gloria Patri,Gloria Patri,Gloria Patri,Gloria Patri,Gloria Patri,students.json:Skills
+11_skill,技能,Skill.10059.WeaponPassive,Gloria Patri+,Gloria Patri+,Gloria Patri+,Gloria Patri+,Gloria Patri+,Gloria Patri+,students.json:Skills
+11_skill,技能,Skill.10059.ExtraPassive,Benedictio,Benedictio,Benedictio,Benedictio,Benedictio,Benedictio,students.json:Skills
+11_skill,技能,Skill.10060.Ex,你喜欢热一点儿，对吧？,熱いの好きだよね～！,喜歡熱的對吧～！,"You Like it Fiery, Right?","화끈한 거, 좋아하지?",ชอบเรื่องวูบวาบล่ะสิ?,students.json:Skills
+11_skill,技能,Skill.10060.Public,都烧起来吧！,あっためてあげる！,幫你加熱！,Shall I Warm it Up?,따끈하게 해줄까?,เร่าร้อนขึ้นอีกดีไหม?,students.json:Skills
+11_skill,技能,Skill.10060.Passive,简简单单！,よゆ～よゆ～！,輕鬆～輕鬆～！,This is Light Work!,이 정도는 거뜬하지!,แค่นี้ไม่เห็นจะเท่าไรเลย!,students.json:Skills
+11_skill,技能,Skill.10060.WeaponPassive,简简单单！+,よゆ～よゆ～！+,輕鬆～輕鬆～！+,This is Light Work!+,이 정도는 거뜬하지!+,แค่นี้ไม่เห็นจะเท่าไรเลย!+,students.json:Skills
+11_skill,技能,Skill.10060.ExtraPassive,啊~爽到了！,あ～すっきりした！,啊～真暢快！,Ah! So Refreshing!,아~ 시원하다!,อ๊ะ~ สดชื่นดีจัง!,students.json:Skills
+11_skill,技能,Skill.10061.Ex,洗礼之印,洗礼の印,洗禮之印,Proof of Baptism,세례의 증표,ตราชำระบาป,students.json:Skills
+11_skill,技能,Skill.10061.Public,修女的举止,シスターの身支度,修女的儀態,Sister's Demeanor,시스터의 몸가짐,กิริยาของซิสเตอร์,students.json:Skills
+11_skill,技能,Skill.10061.Passive,审判罪恶之人,罪悪を裁く者,審判罪惡之人,Arbiter of Sin,죄악을 심판하는 자,ตุลาการพิชิตบาป,students.json:Skills
+11_skill,技能,Skill.10061.WeaponPassive,审判罪恶之人+,罪悪を裁く者+,審判罪惡之人+,Arbiter of Sin+,죄악을 심판하는 자+,ตุลาการพิชิตบาป+,students.json:Skills
+11_skill,技能,Skill.10061.ExtraPassive,愿光与你同在,光と共にあらんことを,願光與您同在,Light Be with You,빛이 함께하시라,มาเปล่งประกายไปด้วยกัน,students.json:Skills
+11_skill,技能,Skill.10062.Ex,阿比舒系统,システム：アビ・エシュフ,System: Abi-Eshuh,System: Abi-Eshuh,<시스템: 아비 에슈흐>,<ระบบ: อาบี เอชูห์>,students.json:Skills
+11_skill,技能,Skill.10062.Public,战术判断,戦術的判断,戰術判斷,Tactical Decision,전술적 판단,ตัดสินเชิงกลยุทธ์,students.json:Skills
+11_skill,技能,Skill.10062.GearPublic,战术判断＋,戦術的判断+,戰術判斷＋,Tactical Decision+,전술적 판단+,ตัดสินเชิงกลยุทธ์+,students.json:Skills
+11_skill,技能,Skill.10062.Passive,代号04,コールサインゼロフォー,Call Sign Zero Four,Codename Zero-Four,코드명 제로포,โค้ดเนมซีโร่โฟร์,students.json:Skills
+11_skill,技能,Skill.10062.WeaponPassive,代号04+,コールサインゼロフォー+,Call Sign Zero Four+,Codename Zero-Four+,코드명 제로포+,โค้ดเนมซีโร่โฟร์+,students.json:Skills
+11_skill,技能,Skill.10062.ExtraPassive,以眼还眼,目には目を,以眼還眼,Eye for an Eye,눈에는 눈,ตาต่อตา ฟันต่อฟัน,students.json:Skills
+11_skill,技能,Skill.10063.Ex,意外的变数,トリッキーな変数,難以處理的變數,Unexpected Variable,뜻 밖의 변수,ตัวแปรที่ไม่คาดคิด,students.json:Skills
+11_skill,技能,Skill.10063.Public,打一个？还是打两个！,1人だと思いましたか！？,以為只有一個人嗎！？,One? Or Two?!,하나? 혹은 둘!,หนึ่ง? หรือสอง!,students.json:Skills
+11_skill,技能,Skill.10063.Passive,你相信奇迹吗？,ミラクルを信じてますか？,你相信奇蹟嗎？,Do You Believe in Miracles?,기적을 믿나요?,เชื่อในปาฏิหาริย์ไหมคะ?,students.json:Skills
+11_skill,技能,Skill.10063.WeaponPassive,你相信奇迹吗？+,ミラクルを信じてますか？+,你相信奇蹟嗎？+,Do You Believe in Miracles?+,기적을 믿나요?+,เชื่อในปาฏิหาริย์ไหมคะ?+,students.json:Skills
+11_skill,技能,Skill.10063.ExtraPassive,蝴蝶效应,カオス理論,混沌理論,Butterfly Effect,나비효과,ทฤษฎีผีเสื้อขยับปีก,students.json:Skills
+11_skill,技能,Skill.10064.Ex,新年护身符,新年のお守り,新年的御守,New Year's Amulet,새해의 부적,เครื่องรางปีใหม่,students.json:Skills
+11_skill,技能,Skill.10064.Public,猫咪的祝福,猫の加護,貓的加護,Kitty Cat Time,고양이의 시간,เวลาของแมวเหมียว,students.json:Skills
+11_skill,技能,Skill.10064.Passive,误会加深,増える誤解,增加的誤會,A New Misunderstanding,또 다른 오해,อีกหนึ่งความเข้าใจผิด,students.json:Skills
+11_skill,技能,Skill.10064.WeaponPassive,误会加深+,増える誤解+,增加的誤會+,A New Misunderstanding+,또 다른 오해+,อีกหนึ่งความเข้าใจผิด+,students.json:Skills
+11_skill,技能,Skill.10064.ExtraPassive,彼此相连的缘分,お守りの絆,御守的羈絆,Reciprocal Relationship,보답 받는 인연,ความสัมพันธ์ที่ได้รับการตอบสนอง,students.json:Skills
+11_skill,技能,Skill.10065.Ex,粉丝狂热,ファンたるもの,身為粉絲,Fanatical Behavior,팬으로서의 몸가짐,ท่าทางของแฟนคลับ,students.json:Skills
+11_skill,技能,Skill.10065.Public,静心凝神,精神統一,精神統一,Disciplined Preparation,시작 전의 마음가짐,ทัศนคติก่อนเริ่ม,students.json:Skills
+11_skill,技能,Skill.10065.GearPublic,静心凝神＋,精神統一+,精神統一+,Disciplined Preparation+,시작 전의 마음가짐+,ทัศนคติก่อนเริ่ม+,students.json:Skills
+11_skill,技能,Skill.10065.Passive,坚定热情,ひたむきな情熱,始終不變的熱情,Unwavering Passion,한결같은 열정,ความมุ่งมั่นแน่วแน่,students.json:Skills
+11_skill,技能,Skill.10065.WeaponPassive,坚定热情＋,ひたむきな情熱+,始終不變的熱情+,Unwavering Passion+,한결같은 열정+,ความมุ่งมั่นแน่วแน่+,students.json:Skills
+11_skill,技能,Skill.10065.ExtraPassive,心如止水,静かなる余裕,寧靜的餘裕,Serene Relaxation,고요한 여유,ห้วงจิตอันนิ่งสงบ,students.json:Skills
+11_skill,技能,Skill.10066.Ex,爱丽丝，进行清扫！,アリス、お掃除します！,愛麗絲，打掃！,"Aris, Clean Up!","아리스, 청소합니다!",อาริสึจะเก็บกวาดเองค่ะ!,students.json:Skills
+11_skill,技能,Skill.10066.Public,精心保养,丁寧なお手入れ,細心的照料,Earnest Handiwork,예리한 손질,ดูแลให้แบบครบเซ็ตเลยค่ะ,students.json:Skills
+11_skill,技能,Skill.10066.GearPublic,精心保养＋,丁寧なお手入れ+,細心的照料+,Earnest Handiwork+,예리한 손질+,ดูแลให้แบบครบเซ็ตเลยค่ะ+,students.json:Skills
+11_skill,技能,Skill.10066.Passive,这是职业加成！,ジョブボーナスです！,這是職業加成！,Paycheck Bonus!,직업 보너스입니다!,โบนัสอาชีพค่ะ!,students.json:Skills
+11_skill,技能,Skill.10066.WeaponPassive,这是职业加成！＋,ジョブボーナスです！+,這是職業加成！+,Paycheck Bonus!+,직업 보너스입니다!+,โบนัสอาชีพค่ะ!+,students.json:Skills
+11_skill,技能,Skill.10066.ExtraPassive,职业特性：女仆勇者！,ジョブ特性：メイド勇者！,職業特性：女僕勇者！,Class Change: Hero Maid!,직업 특성: 메이드 용사!,คุณสมบัติอาชีพ: ผู้กล้าเมด!,students.json:Skills
+11_skill,技能,Skill.10067.Ex,特殊武装：臂铠,特殊武装：アームギア,特殊武裝：Arm-Gear,Special Weapon: Gauntlet,<특수무장: 암기어>,<อาวุธพิเศษ: อาร์มเกียร์>,students.json:Skills
+11_skill,技能,Skill.10067.Public,特工的秘密道具,エージェントの秘密道具,特務的祕密道具,Covert Agent Tool,에이전트의 비밀도구,อุปกรณ์ลับของสายลับ,students.json:Skills
+11_skill,技能,Skill.10067.Passive,娴熟本领,熟練の技量,熟練的本領,Agent's Expertise,숙련된 솜씨,เทคนิคแบบผู้เชี่ยวชาญ,students.json:Skills
+11_skill,技能,Skill.10067.WeaponPassive,娴熟本领＋,熟練の技量+,熟練的本領+,Agent's Expertise+,숙련된 솜씨+,เทคนิคแบบผู้เชี่ยวชาญ+,students.json:Skills
+11_skill,技能,Skill.10067.ExtraPassive,武装操纵,武装の取り扱い,武裝的使用,Weapon Mastery,무장을 다루는 방법,กลวิธีการใช้อาวุธ,students.json:Skills
+11_skill,技能,Skill.10068.Ex,请收下我的挑战书！,挑戦状を受け取ってください！,請收下挑戰書！,Duel Me!,도전장을 받으세요!,รับหนังสือคำท้าไปสิคะ!,students.json:Skills
+11_skill,技能,Skill.10068.Public,胜利的姿势！,勝利のポーズ！,勝利的姿勢！,Victory Pose!,승리의 포즈!,ท่าโพสแห่งชัยชนะ!,students.json:Skills
+11_skill,技能,Skill.10068.Passive,即使是一整天！,一日中でも！,一整天也沒問題！,I Can Do This All Day,하루 종일도 할 수 있습니다,ทำแบบนี้ทั้งวันก็ยังไหวค่ะ,students.json:Skills
+11_skill,技能,Skill.10068.WeaponPassive,即使是一整天！＋,一日中でも！+,一整天也沒問題！+,I Can Do This All Day+,하루 종일도 할 수 있습니다+,ทำแบบนี้ทั้งวันก็ยังไหวค่ะ+,students.json:Skills
+11_skill,技能,Skill.10068.ExtraPassive,宇泽玲纱的存在感,宇沢レイサの存在感,宇沢澪紗的存在感,The Reisa Effect,우자와 레이사의 존재감,ตัวตนของอุซาวะ เรอิสะ,students.json:Skills
+11_skill,技能,Skill.10069.Ex,天下第一味！,天下一味！,天下第一味！,World's Tastiest!,천하일미!,รสมือชั้นเซียน!,students.json:Skills
+11_skill,技能,Skill.10069.Public,谢绝闹事者！,クレーマーお断り！,拒絕奧客！,Business Safety Regulations,영업상 안전규정,กฎความปลอดภัยทางธรุกิจ,students.json:Skills
+11_skill,技能,Skill.10069.Passive,商会长的矜持,商会長の矜持,商會長的矜持,Merchant Guild President's Pride,상인회장의 자부심,ศักดิ์ศรีของประธานกลุ่มการค้า,students.json:Skills
+11_skill,技能,Skill.10069.WeaponPassive,商会长的矜持＋,商会長の矜持+,商會長的矜持+,Merchant Guild President's Pride+,상인회장의 자부심+,ศักดิ์ศรีของประธานกลุ่มการค้า+,students.json:Skills
+11_skill,技能,Skill.10069.ExtraPassive,回味无穷,記憶に残る味,留在記憶中的味道,Memorable Taste,기억에 남는 맛,รสชาติในความทรงจำ,students.json:Skills
+11_skill,技能,Skill.10070.Ex,龙虎相斗,竜虎相搏,龍爭虎鬥,Well Matched,용호상박,พยัคฆ์ประมังกร,students.json:Skills
+11_skill,技能,Skill.10070.Public,势如破竹,破竹之勢,勢如破竹,Unstoppable,파죽지세,พลังสุดแกร่ง,students.json:Skills
+11_skill,技能,Skill.10070.Passive,陷阵之志,一志不退,一志不退,Stand Your Ground,일전불사,มุ่งมั่นต่อสู้,students.json:Skills
+11_skill,技能,Skill.10070.WeaponPassive,陷阵之志＋,一志不退+,一志不退+,Stand Your Ground+,일전불사+,มุ่งมั่นต่อสู้+,students.json:Skills
+11_skill,技能,Skill.10070.ExtraPassive,骑虎难下,騎虎之勢,騎虎之勢,Determination,기호지세,พลังพิชิตพยัคฆ์,students.json:Skills
+11_skill,技能,Skill.10071.Ex,飞行无人机启动,飛行ドローン稼働,啟動飛行無人機,Flying Drone Launch,비행 드론 가동,ปล่อยโดรนออกบิน,students.json:Skills
+11_skill,技能,Skill.10071.Public,紫外线对策,紫外線対策,紫外線對策,UV Protection,자외선 대책,แผนรับมือรังสี UV,students.json:Skills
+11_skill,技能,Skill.10071.Passive,勤恳训练,地道なトレーニング,堅持不懈的訓練,Disciplined Training,꾸준한 훈련,การฝึกที่สม่ำเสมอ,students.json:Skills
+11_skill,技能,Skill.10071.WeaponPassive,勤恳训练＋,地道なトレーニング+,堅持不懈的訓練+,Disciplined Training+,꾸준한 훈련+,การฝึกที่สม่ำเสมอ+,students.json:Skills
+11_skill,技能,Skill.10071.ExtraPassive,战术机动,戦術機動,戰術機動,Tactical Maneuver,전술 기동,เคลื่อนที่อย่างมีกลยุทธ์,students.json:Skills
+11_skill,技能,Skill.10072.Ex,信号弹，投掷！,シグナルフレア、投擲！,信號彈，投擲！,Throw Flare!,"신호조명탄, 투척!",ขว้างพลุแฟร์!,students.json:Skills
+11_skill,技能,Skill.10072.Public,掩护射击,援護射撃,援護射擊,Cover Fire,엄호사격,ยิงคุ้มกัน,students.json:Skills
+11_skill,技能,Skill.10072.Passive,细致整备,丁寧な整備,細心的整備,Precise Maintenance,정밀한 정비,ดูแลอุปกรณ์อย่างพิถีพิถัน,students.json:Skills
+11_skill,技能,Skill.10072.WeaponPassive,细致整备＋,丁寧な整備+,細心的整備+,Precise Maintenance+,정밀한 정비+,ดูแลอุปกรณ์อย่างพิถีพิถัน+,students.json:Skills
+11_skill,技能,Skill.10072.ExtraPassive,战友情谊,戦友への愛,同袍之情,Camaraderie,전우애,มิตรภาพของสหายร่วมรบ,students.json:Skills
+11_skill,技能,Skill.10073.Ex,私人咖啡馆,プライベートカフェ,無人島咖啡廳,Desert Island Cafe,무인도 카페,คาเฟ่ ณ เกาะร้าง,students.json:Skills
+11_skill,技能,Skill.10073.Public,关键线索,決定的な手がかり,決定性的線索,Decisive Clue,결정적 실마리,เบาะแสขั้นสุดท้าย,students.json:Skills
+11_skill,技能,Skill.10073.Passive,探求者的意志,探求者の意志,探究者的意志,Seeker's Will,탐구자의 의지,ความตั้งใจของนักสำรวจ,students.json:Skills
+11_skill,技能,Skill.10073.WeaponPassive,探求者的意志＋,探求者の意志+,探究者的意志+,Seeker's Will+,탐구자의 의지+,ความตั้งใจของนักสำรวจ+,students.json:Skills
+11_skill,技能,Skill.10073.ExtraPassive,线索掌握,手がかりの把握,掌握線索,Clue Uncovered,실마리 파악,เสาะหาเบาะแส,students.json:Skills
+11_skill,技能,Skill.10074.Ex,满满地喷水♡,たっぷりかけちゃいますね♡,我會多灑一點的♡,Wet All Over ♥,잔뜩 뿌려줄게요♡,จะสาดน้ำให้ฉ่ำเลยนะคะ♡,students.json:Skills
+11_skill,技能,Skill.10074.Public,请好好地收下它♡,上手に受け取ってください♡,請收下吧♡,Take It All ♥,잘 받아봐요♡,ช่วยรับไว้อย่างดีด้วยนะคะ♡,students.json:Skills
+11_skill,技能,Skill.10074.Passive,仲夏的真心话,真夏に隠された本音,藏於仲夏的心聲,Midsummer Truth,한여름의 진실함,ความจริงใจในฤดูร้อน,students.json:Skills
+11_skill,技能,Skill.10074.WeaponPassive,仲夏的真心话＋,真夏に隠された本音+,藏於仲夏的心聲+,Midsummer Truth+,한여름의 진실함+,ความจริงใจในฤดูร้อน+,students.json:Skills
+11_skill,技能,Skill.10074.ExtraPassive,我已准备就绪♡,準備は万端です♡,補水時間,Filling Up,물 채우기,เติมน้ำเต็มแล้วค่ะ,students.json:Skills
+11_skill,技能,Skill.10075.Ex,最强的构想,最強のアイデア,天賜的靈感,Celestial Inspiration,천상의 영감,ไอเดียบรรเจิด,students.json:Skills
+11_skill,技能,Skill.10075.Public,妄想无限大,妄想は無限大,妄想的原動力,Delusional Drive,망상은 원동력,แรงขับเคลื่อนจากความฝัน,students.json:Skills
+11_skill,技能,Skill.10075.Passive,素材收集,インプット,收集素材,Drawing Inspiration,소재 수집,เก็บข้อมูลการวาด,students.json:Skills
+11_skill,技能,Skill.10075.WeaponPassive,素材收集＋,インプット+,收集素材+,Drawing Inspiration+,소재 수집+,เก็บข้อมูลการวาด+,students.json:Skills
+11_skill,技能,Skill.10075.ExtraPassive,设定崩坏！,設定崩壊！,設定崩壞！,Climax Catalyst!,설정 붕괴!,ทลายทุกกฎเกณฑ์!,students.json:Skills
+11_skill,技能,Skill.10076.Ex,说到礼炮的由来……,祝砲の由来は……,禮砲洗禮,Festive Barrage,축포 세례,ที่มาของการยิงปืนสดุดีก็คือ...,students.json:Skills
+11_skill,技能,Skill.10076.Public,啊，原来如此！,あっ、それはですね！,啊，關於那點！,"Uh, About That!","아, 그건 말이죠!",อ๋อ เรื่องนั้นสินะคะ!,students.json:Skills
+11_skill,技能,Skill.10076.Passive,什么都能来问我！,なんでも聞いてください！,有問題要問嗎？,Is That a Question?,질문인가요?,มีคำถามงั้นเหรอคะ?,students.json:Skills
+11_skill,技能,Skill.10076.WeaponPassive,什么都能来问我！＋,なんでも聞いてください！+,有問題要問嗎？+,Is That a Question?+,질문인가요?+,มีคำถามงั้นเหรอคะ?+,students.json:Skills
+11_skill,技能,Skill.10076.ExtraPassive,很高兴能帮上忙！,お役に立てて嬉しいです！,很高興能幫得上忙！,Happy to Help!,도움이 돼서 기뻐요!,ยินดีที่ได้ช่วยค่ะ!,students.json:Skills
+11_skill,技能,Skill.10077.Ex,打扰一下,ちょっと失礼するっす,稍微失禮一下的說,I Have a Request,잠깐 부탁하겠슴다,รบกวนหน่อยนะคะ,students.json:Skills
+11_skill,技能,Skill.10077.Public,正义实现委员会的联络网,正義実現委員会の連絡網,實現正義部的聯絡網,Justice Task Force Network,정의실현부의 연락망,เครือข่ายชมรมทวงความยุติธรรม,students.json:Skills
+11_skill,技能,Skill.10077.Passive,敏锐本能,鋭い本能,敏銳的本能,Keen Instincts,예리한 본성,สัญชาตญาณอันเฉียบคม,students.json:Skills
+11_skill,技能,Skill.10077.WeaponPassive,敏锐本能＋,鋭い本能+,敏銳的本能+,Keen Instincts+,예리한 본성+,สัญชาตญาณอันเฉียบคม+,students.json:Skills
+11_skill,技能,Skill.10077.ExtraPassive,也是会有那种情况的,そういう時もあるっすよね,偶爾就是會這樣呢,It Was Inevitable,그럴 수도 있죠,มันก็มีแบบนี้บ้างแหละค่ะ,students.json:Skills
+11_skill,技能,Skill.10078.Ex,大恶人钻碎,ジャイアントヒール・クラッシュ,Giant Heel Crash,Giant Heel Crush,자이언트 힐 크러시,ไจแอนต์ ฮิล ครัช,students.json:Skills
+11_skill,技能,Skill.10078.Public,这是重要的消息,大切なメッセージだよ,訊息才是最重要的,It's About Sending A Message,중요한 건 메시지야,ข้อความเป็นสิ่งสำคัญนะ,students.json:Skills
+11_skill,技能,Skill.10078.Passive,狂人战略,狂人の戦略,狂人的戰略,Madman Theory,미치광이 전략,กลยุทธ์ของคนไม่เต็มบาท,students.json:Skills
+11_skill,技能,Skill.10078.WeaponPassive,狂人战略＋,狂人の戦略+,狂人的戰略+,Madman Theory+,미치광이 전략+,กลยุทธ์ของคนไม่เต็มบาท+,students.json:Skills
+11_skill,技能,Skill.10078.ExtraPassive,钻头怎么没响了？,ドリルの音は止まったのか？,鑽頭的聲音停下來了嗎？,Have the Drills Stopped Screaming?,굴착기는 소음을 멈췄나?,เสียงสว่านหยุดแล้วเหรอ?,students.json:Skills
+11_skill,技能,Skill.10079.Ex,常盘台的超电磁炮,常盤台の超電磁砲,常盤台的超電磁砲,The Railgun of Tokiwadai,토키와다이의 레일건,เรลกันแห่งโทคิวะได,students.json:Skills
+11_skill,技能,Skill.10079.Public,有点发麻！,ちょっと痺れるわよ！,會有點麻喔！,It's Going to Sting!,조금 저릴 거야!,จะชาๆ หน่อยนะ!,students.json:Skills
+11_skill,技能,Skill.10079.Passive,电击操作能力,電撃操作能力,電擊操作能力,Electromagnetic Manipulation,전격 조작 능력,อิเล็กโทรมาสเตอร์,students.json:Skills
+11_skill,技能,Skill.10079.WeaponPassive,电击操作能力＋,電撃操作能力+,電擊操作能力+,Electromagnetic Manipulation+,전격 조작 능력+,อิเล็กโทรมาสเตอร์+,students.json:Skills
+11_skill,技能,Skill.10079.ExtraPassive,不要让我重复好几遍,何度も言わせんじゃないわよ,別讓我說這麼多次,Don't Make Me Repeat Myself,여러 번 말하게 하지 마,อย่าให้ต้องพูดซ้ำอีกนะ,students.json:Skills
+11_skill,技能,Skill.10080.Ex,心理掌控,心理掌握,心理掌握,Mental Out,멘탈 아웃,เมนทัล เอาต์,students.json:Skills
+11_skill,技能,Skill.10080.Public,能来稍微帮下忙吗？,少し手伝ってくれるかしら？,可以幫我一下嗎？,Assist Me for a Moment,잠시 도와주겠어?,ช่วยฉันหน่อยได้ไหม?,students.json:Skills
+11_skill,技能,Skill.10080.Passive,常盘台的女王,常盤台の女王,常盤台的女王,Queen of Tokiwadai,토키와다이의 여왕,ราชินีแห่งโทคิวะได,students.json:Skills
+11_skill,技能,Skill.10080.WeaponPassive,常盘台的女王＋,常盤台の女王+,常盤台的女王+,Queen of Tokiwadai+,토키와다이의 여왕+,ราชินีแห่งโทคิวะได+,students.json:Skills
+11_skill,技能,Skill.10080.ExtraPassive,我可是头脑派,私は頭脳派だしぃ,畢竟我是頭腦派,"I'm Very Clever, You Know",나는 두뇌파라서 말이야,เพราะฉันคืออัจฉริยะไงล่ะ,students.json:Skills
+11_skill,技能,Skill.10081.Ex,径直萌发的决意,まっすぐに芽生えた決意,剛直的決心,Blooming Resolution,올곧게 피어난 결의,ปณิธานที่เบ่งบาน,students.json:Skills
+11_skill,技能,Skill.10081.Public,殷切渴盼的重逢,待ち侘びた再会,熱切期盼的重逢,Long-Awaited Reunion,애타게 기다려온 재회,การพบกันอีกครั้งที่เฝ้ารอ,students.json:Skills
+11_skill,技能,Skill.10081.Passive,百花缭乱的精～英,百花繚乱のえり～と,身為百花繚亂的菁英,Hyakkaryouran's Elite,백화요란의 엘리~트,อิล~ลีทแห่งเฮียกกะเรียวรัน,students.json:Skills
+11_skill,技能,Skill.10081.WeaponPassive,百花缭乱的精～英＋,百花繚乱のえり～と＋,身為百花繚亂的菁英+,Hyakkaryouran's Elite+,백화요란의 엘리~트+,อิล~ลีทแห่งเฮียกกะเรียวรัน+,students.json:Skills
+11_skill,技能,Skill.10081.ExtraPassive,昂首直面的职责,面を上げて向き合う責務,抬頭面對的責任,Bear the Responsibility,고개 들어 마주한 책무,ความรับผิดชอบที่ต้องเผชิญ,students.json:Skills
+11_skill,技能,Skill.10082.Ex,百花缭乱式射击术,百花繚乱式射撃術,百花繚亂式射擊術,Hyakkaryouran Marksmanship,백화요란식 사격술,ศาสตร์ยิงปืนของเฮียกกะเรียวรัน,students.json:Skills
+11_skill,技能,Skill.10082.Public,炽烈燃烧的热情,燃え上がる情熱,燃燒的熱情,Burning Passion,불타오르는 열정,ความเร่าร้อนอันลุกโชน,students.json:Skills
+11_skill,技能,Skill.10082.Passive,百花缭乱鬼教官,百花繚乱の鬼教官,百花繚亂的鬼教官,Hyakkaryouran's Disciplinarian,백화요란의 귀신 교관,ผู้ฝึกอสูรแห่งเฮียกกะเรียวรัน,students.json:Skills
+11_skill,技能,Skill.10082.WeaponPassive,百花缭乱鬼教官＋,百花繚乱の鬼教官+,百花繚亂的鬼教官+,Hyakkaryouran's Disciplinarian+,백화요란의 귀신 교관+,ผู้ฝึกอสูรแห่งเฮียกกะเรียวรัน+,students.json:Skills
+11_skill,技能,Skill.10082.ExtraPassive,突击队长的本分,切り込み隊長としての本分,突擊隊長的本分,A Commander's Duty,돌격대장으로서의 본분,หน้าที่ของหัวหน้าหน่วยจู่โจม,students.json:Skills
+11_skill,技能,Skill.10083.Ex,神机妙算的一手,神機妙算の一手,神機妙算的一手,Heavenly Tactics,신기묘산의 한 수,เดินหมากตามกลยุทธ์ขั้นเทพ,students.json:Skills
+11_skill,技能,Skill.10083.Public,知己知彼，百战不殆,敵を知り己を知れば百戦殆からず,知己知彼，百戰不殆,"Know Thyself and Thy Enemy, Conquer a Hundred Battles",지피지기 백전불태,รบร้อยไร้พ่ายเพียงล่วงรู้,students.json:Skills
+11_skill,技能,Skill.10083.Passive,作战参谋的素养,作戦参謀としての素養,作戰參謀的素養,Tactician's Expertise,작전참모로서의 소양,คุณสมบัติของที่ปรึกษายุทธศาสตร์,students.json:Skills
+11_skill,技能,Skill.10083.WeaponPassive,作战参谋的素养＋,作戦参謀としての素養+,作戰參謀的素養+,Tactician's Expertise+,작전참모로서의 소양+,คุณสมบัติของที่ปรึกษายุทธศาสตร์+,students.json:Skills
+11_skill,技能,Skill.10083.ExtraPassive,风林火山的谋略,風林火山の計略,風林火山的計謀,Furin Kazan Strategy,풍림화산의 계책,กลศึกฟุรินคะซัน,students.json:Skills
+11_skill,技能,Skill.10084.Ex,避熊铃投掷,熊よけ鈴投げ,投擲熊鈴,Bear Bell Toss,베어 벨 투척,ขว้างกระดิ่งไล่หมี,students.json:Skills
+11_skill,技能,Skill.10084.Public,共鸣效果,共鳴効果,共鳴效果,Resonance Effect,공명 효과,ผลสะท้อน,students.json:Skills
+11_skill,技能,Skill.10084.Passive,噪声增幅,ノイズ増幅,雜訊暴增,Sound Amplification,노이즈 증폭,ขยายคลื่นรบกวน,students.json:Skills
+11_skill,技能,Skill.10084.WeaponPassive,噪声增幅＋,ノイズ増幅+,雜訊暴增+,Sound Amplification+,노이즈 증폭+,ขยายคลื่นรบกวน+,students.json:Skills
+11_skill,技能,Skill.10084.ExtraPassive,电波干涉,電波干渉,電波干擾,Transmission Interference,전파 간섭,แทรกคลื่นวิทยุ,students.json:Skills
+11_skill,技能,Skill.10085.Ex,篝火的风味,焚き火の甘味,營火的滋味,Campfire Delicacies,모닥불 안의 별미,รสละมุนจากกองไฟ,students.json:Skills
+11_skill,技能,Skill.10085.Public,散布温暖,広がる温もり,溫度擴散,Share the Warmth,퍼지는 온기,ความอบอุ่นที่แผ่ซ่าน,students.json:Skills
+11_skill,技能,Skill.10085.Passive,排毒功效,デトックス効果,排毒效果,Caffeine Withdrawals,디톡스 효과,ผลจากดีแคฟ,students.json:Skills
+11_skill,技能,Skill.10085.WeaponPassive,排毒功效＋,デトックス効果+,排毒效果+,Caffeine Withdrawals+,디톡스 효과+,ผลจากดีแคฟ+,students.json:Skills
+11_skill,技能,Skill.10085.ExtraPassive,露营妙趣,キャンプの醍醐味,露營的醍醐味,Joys of Camping,캠핑의 묘미,ความสนุกจากการตั้งแคมป์,students.json:Skills
+11_skill,技能,Skill.10086.Ex,开演：伊施波设,開演：イシュ・ボシェテ,開演：Ish-bosheth,Opening: Ishbosheth,개연: 이스보셋,โหมโรง: อิชโบเชท,students.json:Skills
+11_skill,技能,Skill.10086.Public,滴水不漏的准备,抜かりない準備,毫無破綻的準備,Thorough Preparation,빈틈없는 준비,เตรียมพร้อมอย่างไร้ที่ติ,students.json:Skills
+11_skill,技能,Skill.10086.Passive,面临演奏的内心,演奏に臨む心,面對演奏的心情,A Performer's Mindset,연주에 임하는 마음,จิตวิญญาณในการบรรเลง,students.json:Skills
+11_skill,技能,Skill.10086.WeaponPassive,面临演奏的内心＋,演奏に臨む心+,面對演奏的心情+,A Performer's Mindset+,연주에 임하는 마음+,จิตวิญญาณในการบรรเลง+,students.json:Skills
+11_skill,技能,Skill.10086.ExtraPassive,于此处奏明心声,想いをここに,於此傳達真心,My Sincere Feelings,전하고픈 진심을 이곳에,ความรู้สึกทั้งหมดอยู่ตรงที่แห่งนี้,students.json:Skills
+11_skill,技能,Skill.10087.Ex,完美的特工,完璧なエージェント,完美的特務,Perfect Agent,완벽한 에이전트,เจ้าหน้าที่ผู้สมบูรณ์แบบ,students.json:Skills
+11_skill,技能,Skill.10087.Public,不会让目标逃走！,ターゲットは逃しません！,不會錯過目標的！,I Don't Miss!,타깃은 놓치지 않습니다!,ไม่ปล่อยให้เป้าหมายหลุดไปได้หรอกค่ะ!,students.json:Skills
+11_skill,技能,Skill.10087.Passive,特工的自信,エージェントの自信,身為特務的自信,Agent's Confidence,요원으로서의 자신감,ความมั่นใจของเจ้าหน้าที่,students.json:Skills
+11_skill,技能,Skill.10087.WeaponPassive,特工的自信＋,エージェントの自信+,身為特務的自信+,Agent's Confidence+,요원으로서의 자신감+,ความมั่นใจของเจ้าหน้าที่+,students.json:Skills
+11_skill,技能,Skill.10087.ExtraPassive,作战的成果,作戦の成果,作戰的成果,Operation Outcome,작전의 성과,ผลจากกลยุทธ์,students.json:Skills
+11_skill,技能,Skill.10088.Ex,暗影射击,シャドウショット,Shadow Shot,Shadow Shots,그림자 사격,กระสุนเงา,students.json:Skills
+11_skill,技能,Skill.10088.Public,重回的感觉,取り戻した感覚,找回的感覺,Recovered Senses,되찾는 감각,สัมผัสที่ชวนหวนคืน,students.json:Skills
+11_skill,技能,Skill.10088.Passive,暗杀者之眼,暗殺者の目,暗殺者之眼,Eye of the Assassin,암살자의 눈,สายตาของมือสังหาร,students.json:Skills
+11_skill,技能,Skill.10088.WeaponPassive,暗杀者之眼＋,暗殺者の目+,暗殺者之眼+,Eye of the Assassin+,암살자의 눈+,สายตาของมือสังหาร+,students.json:Skills
+11_skill,技能,Skill.10088.ExtraPassive,潜入行动,潜入行動,潛入行動,Infiltration Mode,잠입 행동,แทรกซึม,students.json:Skills
+11_skill,技能,Skill.10089.Ex,有趣的提案,興味深い提案,有趣的提案,Intriguing Proposal,흥미로운 제안,ข้อเสนอที่ไม่อาจปฏิเสธได้,students.json:Skills
+11_skill,技能,Skill.10089.Public,有益的交易,有意義な取引,有益的交易,Beneficial Deal,유익한 거래,ข้อแลกเปลี่ยนอันทรงคุณค่า,students.json:Skills
+11_skill,技能,Skill.10089.Passive,盛装打扮,ドレスアップ,Dress Up,Dress-up,드레스 업,เดรส อัป,students.json:Skills
+11_skill,技能,Skill.10089.WeaponPassive,盛装打扮＋,ドレスアップ+,Dress Up+,Dress-up+,드레스 업+,เดรส อัป+,students.json:Skills
+11_skill,技能,Skill.10089.ExtraPassive,有利的交易,有利な取引,有利的交易,Favorable Trade,유리한 거래,ข้อแลกเปลี่ยนอย่างคุ้มค่า,students.json:Skills
+11_skill,技能,Skill.10090.Ex,节庆开始！,お祭り開始です！,慶典開始了！,The Festival Begins!,축제 시작이에요!,งานเทศกาลเริ่มแล้วค่ะ!,students.json:Skills
+11_skill,技能,Skill.10090.Public,烟～花～！来喽！,た～まや～！です！,是玉屋～！！,Tamaya!,타마야~! 입니다!,นี่ค่ะ! พลุ~!,students.json:Skills
+11_skill,技能,Skill.10090.Passive,现场的热闹,現地の熱気,現場的熱氣,Heat of the Scene,현장의 열기,ความคึกคักในเทศกาล,students.json:Skills
+11_skill,技能,Skill.10090.WeaponPassive,现场的热闹＋,現地の熱気+,現場的熱氣+,Heat of the Scene+,현장의 열기+,ความคึกคักในเทศกาล+,students.json:Skills
+11_skill,技能,Skill.10090.ExtraPassive,节庆的心动,お祭りのときめき,慶典的悸動,Festival Thrill,축제의 두근거림,ความตื่นเต้นของงานเทศกาล,students.json:Skills
+11_skill,技能,Skill.10091.Ex,历史性的一小节,歴史的一小節,歴史性的一小節,Historic First Verse,역사적인 첫 소절,ไรม์แรกในความทรงจำ,students.json:Skills
+11_skill,技能,Skill.10091.Public,贝斯调音,ベースチューニング,Bass Tuning,Bass Tuning,베이스 튜닝,เบส จูนนิ่ง,students.json:Skills
+11_skill,技能,Skill.10091.Passive,熟悉的舞台,慣れ親しんできた舞台,為舞台而生,Fit for the Stage,무대 체질,พร้อมขึ้นเวที,students.json:Skills
+11_skill,技能,Skill.10091.WeaponPassive,熟悉的舞台＋,慣れ親しんできた舞台+,為舞台而生+,Fit for the Stage+,무대 체질+,พร้อมขึ้นเวที+,students.json:Skills
+11_skill,技能,Skill.10091.ExtraPassive,甜香人声,スイーツボーカル,Sweet Voice,Sweet Voice,달콤한 목소리,สวีต โวคอล,students.json:Skills
+11_skill,技能,Skill.10092.Ex,爆发高潮,爆発クライマックス,爆炸性的高潮,Climax Crescendo,폭발적인 클라이막스,ไคลแมกซ์สุดเดือด,students.json:Skills
+11_skill,技能,Skill.10092.Public,视觉创客,ビジュアルメーカー,Visual Maker,Visual Maker,비주얼 메이커,วิชวล เมกเกอร์,students.json:Skills
+11_skill,技能,Skill.10092.Passive,摇滚,ロックンロール,Rock 'n' Roll,Rock and Roll,로큰롤,ร็อกแอนด์โรล,students.json:Skills
+11_skill,技能,Skill.10092.WeaponPassive,摇滚＋,ロックンロール+,Rock 'n' Roll+,Rock and Roll+,로큰롤+,ร็อกแอนด์โรล+,students.json:Skills
+11_skill,技能,Skill.10092.ExtraPassive,甜品泛音,スイーツハーモニクス,Sweets Harmonics,Sweet Harmonics,스위트 하모닉스,สวีต ฮาร์โมนิกส์,students.json:Skills
+11_skill,技能,Skill.10093.Ex,格黑娜的名人！,ゲヘナのセレブリティー！,格黑娜的名人！,Gehenna's Celebrity!,게헨나의 셀러브리티!,เซเลบริตี้แห่งเกเฮนน่า!,students.json:Skills
+11_skill,技能,Skill.10093.Public,总是闪闪亮亮！,いつもキラキラ！,永遠閃亮亮！,Always Twinkling!,언제나 반짝반짝하게!,เปล่งประกายทุกเมื่อ!,students.json:Skills
+11_skill,技能,Skill.10093.Passive,可丽饼的甜蜜,クレープの甘さ,可麗餅的香甜,"Sweet, Sweet Crepes",크레이프의 달콤함,ความหวานจากเครป,students.json:Skills
+11_skill,技能,Skill.10093.WeaponPassive,可丽饼的甜蜜＋,クレープの甘さ+,可麗餅的香甜+,"Sweet, Sweet Crepes+",크레이프의 달콤함+,ความหวานจากเครป+,students.json:Skills
+11_skill,技能,Skill.10093.ExtraPassive,心动☆的感觉？,トキメキ☆って感じ？,怦然心動☆的感覺？,That Heart-Fluttering Feeling? ☆,두근두근☆이란 느낌?,รู้สึกใจเต้น☆ตึกตักๆ ไหม?,students.json:Skills
+11_skill,技能,Skill.10094.Ex,虚拟女仆武器！,バーチャル・メイドウェポン！,虛擬女僕武器！,Virtual Maid Weapon!,버추얼 메이드 웨폰!,เวอร์ชวล เมด เวพอน!,students.json:Skills
+11_skill,技能,Skill.10094.Public,只要结果好的话就都没问题！,結果よければ全てよし！,結果好就行了！,Our Results Were Fantastic!,결과는 좋았으니까!,ถ้าผลลัพธ์ดี อะไรก็ดี!,students.json:Skills
+11_skill,技能,Skill.10094.Passive,机会难得，选红色！,せっかくだし、赤で！,機會難得，選紅色吧！,"Since We’re Here, Let’s Go Red!","모처럼이니까, 빨강으로!",ก็ต้องสีแดงอยู่แล้ว!,students.json:Skills
+11_skill,技能,Skill.10094.WeaponPassive,机会难得，选红色！＋,せっかくだし、赤で！+,機會難得，選紅色吧！+,"Since We’re Here, Let’s Go Red!+","모처럼이니까, 빨강으로!+",ก็ต้องสีแดงอยู่แล้ว!+,students.json:Skills
+11_skill,技能,Skill.10094.ExtraPassive,当心误射！,誤射注意！,謹防誤射人質,Hostage Danger Warning,인질 피격 주의,ระวังโดนลูกหลงนะ,students.json:Skills
+11_skill,技能,Skill.10095.Ex,虚拟女仆射击,バーチャル・メイドショット,虛擬女僕射擊,Virtual Maid Shot,버추얼 메이드 샷,เวอร์ชวล เมด ช็อต,students.json:Skills
+11_skill,技能,Skill.10095.Public,完美的清扫,完璧なお掃除,完美的掃除,Perfect Cleaning,완벽한 청소,สะอาดหมดจด,students.json:Skills
+11_skill,技能,Skill.10095.Passive,机会难得，选绿色,せっかくですから、緑で,機會難得，選綠色吧,"Since We’re Here, Let’s Go Green!","모처럼이니까, 녹색으로",ก็ต้องสีเขียวอยู่แล้ว,students.json:Skills
+11_skill,技能,Skill.10095.WeaponPassive,机会难得，选绿色+,せっかくですから、緑で+,機會難得，選綠色吧+,"Since We’re Here, Let’s Go Green!","모처럼이니까, 녹색으로+",ก็ต้องสีเขียวอยู่แล้ว+,students.json:Skills
+11_skill,技能,Skill.10095.ExtraPassive,分数挑战,スコアチャレンジ,得分挑戰,Score Challenge,스코어 챌린지,สกอร์ ชาเลนจ์,students.json:Skills
+11_skill,技能,Skill.10096.Ex,水上安全，确保！,水上安全、確保！,確保水上安全！,"Water Safety, Enforced!","수상안전, 실시!",รักษาความปลอดภัยทางน้ำ ปฏิบัติ!,students.json:Skills
+11_skill,技能,Skill.10096.Public,周到的热身运动,入念な準備運動,徹底的暖身運動,Complete Warm-Up Exercise,철저한 준비운동,วอร์มอัปแบบเต็มที่,students.json:Skills
+11_skill,技能,Skill.10096.Passive,救生员的思想准备,ライフセーバーとしての心構え,救生員的心理準備,Lifeguard's Mindset,라이프가드의 마음가짐,ทัศนคติของไลฟ์การ์ด,students.json:Skills
+11_skill,技能,Skill.10096.WeaponPassive,救生员的思想准备＋,ライフセーバーとしての心構え＋,救生員的心理準備+,Lifeguard's Mindset+,라이프가드의 마음가짐+,ทัศนคติของไลฟ์การ์ด+,students.json:Skills
+11_skill,技能,Skill.10096.ExtraPassive,笨拙的笑容,ぎこちない笑顔,尷尬的微笑,Awkward Smile,어색한 미소,รอยยิ้มฝืนๆ,students.json:Skills
+11_skill,技能,Skill.10097.Ex,弹道导弹轰炸,弾道ミサイル砲撃,彈道導彈轟炸,Ballistic Missile Strike,탄도 미사일 타격,ยิงมิสไซล์นำวิถี,students.json:Skills
+11_skill,技能,Skill.10097.Public,水弹轰击,ハイドロストライク,Hydro Strike,Hydro Strike,하이드로 스트라이크,ไฮโดร สไตรก์,students.json:Skills
+11_skill,技能,Skill.10097.Passive,毁灭的美学,破滅の美学,毀滅的美學,Doom-Inspired Observation,파멸의 미학,สุนทรีย์แห่งความพินาศ,students.json:Skills
+11_skill,技能,Skill.10097.WeaponPassive,毁灭的美学＋,破滅の美学＋,毀滅的美學+,Doom-Inspired Observation+,파멸의 미학+,สุนทรีย์แห่งความพินาศ+,students.json:Skills
+11_skill,技能,Skill.10097.ExtraPassive,爆破专家,爆破のスペシャリスト,爆破專家,Demolition Expert,폭파 전문가,ผู้เชี่ยวชาญระเบิด,students.json:Skills
+11_skill,技能,Skill.10098.Ex,防御姿态强化,防御姿勢強化,防禦姿態強化,防御姿勢強化,방어태세 강화,เสริมการป้องกัน,students.json:Skills
+11_skill,技能,Skill.10098.Public,更换护板,プレート交換,更換護板,プレート交換,플레이트 교체,สวมเกราะ,students.json:Skills
+11_skill,技能,Skill.10098.Passive,近战系统,近距離戦闘システム,近戰系統,近距離戦闘システム,근거리 전투체계,ระบบต่อสู้ระยะประชิด,students.json:Skills
+11_skill,技能,Skill.10098.WeaponPassive,近战系统＋,近距離戦闘システム+,近戰系統＋,近距離戦闘システム+,근거리 전투체계+,ระบบต่อสู้ระยะประชิด+,students.json:Skills
+11_skill,技能,Skill.10098.ExtraPassive,有效战术,有効戦術,有效戰術,有効戦術,유효한 전술,กลยุทธ์ที่มีประสิทธิภาพ,students.json:Skills
+11_skill,技能,Skill.10099.Ex,集中突破,集中突破,集中突破,集中突破,집중 돌파,บุกทะลวงดุเดือด,students.json:Skills
+11_skill,技能,Skill.10099.Public,手枪速射,拳銃速射,手槍速射,拳銃速射,권총 속사,รัวยิงปืนพก,students.json:Skills
+11_skill,技能,Skill.10099.Passive,战术视野扩大,戦術的視野の拡大,戰術視野擴大,戦術的視野の拡大,전술 시야 확장,ขยายมุมมองเชิงกลยุทธ์,students.json:Skills
+11_skill,技能,Skill.10099.WeaponPassive,战术视野扩大＋,戦術的視野の拡大+,戰術視野擴大＋,戦術的視野の拡大+,전술 시야 확장+,ขยายมุมมองเชิงกลยุทธ์+,students.json:Skills
+11_skill,技能,Skill.10099.ExtraPassive,镇压攻击,制圧攻撃,鎮壓攻擊,制圧攻撃,제압 사격,โจมตีพิชิต,students.json:Skills
+11_skill,技能,Skill.10100.Ex,火力强化,火力強化,火力強化,火力強化,화력 강화,เสริมการโจมตี,students.json:Skills
+11_skill,技能,Skill.10100.Public,手榴弹投掷・改,手榴弾投擲・改,手榴彈投擲・改,手榴弾投擲・改,수류탄 투척·개(改),ขว้างระเบิดฉบับปรับปรุง,students.json:Skills
+11_skill,技能,Skill.10100.Passive,精密瞄准,精密照準,精密瞄準,精密照準,정밀한 조준,เล็งยิงอย่างแม่นยำ,students.json:Skills
+11_skill,技能,Skill.10100.WeaponPassive,精密瞄准＋,精密照準+,精密瞄準＋,精密照準+,정밀한 조준+,เล็งยิงอย่างแม่นยำ+,students.json:Skills
+11_skill,技能,Skill.10100.ExtraPassive,喘息之时,呼吸を整える時間,喘息之時,呼吸を整える時間,침착한 호흡,ช่วงเวลาพักหายใจ,students.json:Skills
+11_skill,技能,Skill.10101.Ex,音乐，开始！,ミュージック、スタート！,音樂，開始！,ミュージック、スタート！,"공연, 시작!",มิวสิค สตาร์ท!,students.json:Skills
+11_skill,技能,Skill.10101.Public,片刻的休憩,束の間の休息,片刻的休憩,束の間の休息,잠깐의 여유,พักผ่อนชั่วครู่,students.json:Skills
+11_skill,技能,Skill.10101.Passive,完美的任务执行,完璧な任務遂行,完美的任務執行,完璧な任務遂行,빈틈없는 임무수행,สำเร็จอย่างสมบูรณ์แบบ,students.json:Skills
+11_skill,技能,Skill.10101.WeaponPassive,完美的任务执行＋,完璧な任務遂行+,完美的任務執行＋,完璧な任務遂行+,빈틈없는 임무수행+,สำเร็จอย่างสมบูรณ์แบบ+,students.json:Skills
+11_skill,技能,Skill.10101.ExtraPassive,真诚的打工学生,誠実な学生バイト,真誠的打工學生,誠実な学生バイト,성실한 아르바이트생,งานเสริมที่จริงใจของนักเรียน,students.json:Skills
+11_skill,技能,Skill.10102.Ex,目标是头奖！,狙うは1等賞！,目標是頭獎！,狙うは1等賞！,노릴게요! 1등상!,มุ่งสู่อันดับที่ 1!,students.json:Skills
+11_skill,技能,Skill.10102.Public,特制便携风扇,特製ハンディファン,特製便攜風扇,特製ハンディファン,특제 미니 선풍기,พัดพกพาแบบพิเศษ,students.json:Skills
+11_skill,技能,Skill.10102.Passive,夏天享受个够！,夏を満喫します！,夏天享受個夠！,夏を満喫します！,여름! 즐길게요!,สนุกกับหน้าร้อนให้เต็มที่!,students.json:Skills
+11_skill,技能,Skill.10102.WeaponPassive,夏天享受个够！＋,夏を満喫します！+,夏天享受個夠！＋,夏を満喫します！+,여름! 즐길게요!+,สนุกกับหน้าร้อนให้เต็มที่!+,students.json:Skills
+11_skill,技能,Skill.10102.ExtraPassive,度假计划,バカンス計画,度假計劃,バカンス計画,휴가 준비 계획,แผนการพักร้อน,students.json:Skills
+11_skill,技能,Skill.10103.Ex,哇、哇啊啊！？,う、うわああっ！？,哇、哇啊啊！？,う、うわああっ！？,"으, 으아아악?!",ว... หว๊าาาาา!?,students.json:Skills
+11_skill,技能,Skill.10103.Public,战术性保温对策！,戦術的保温対策！,戰術性保溫對策！,戦術的保温対策！,전술적 보온 대책!,อุ่นเครื่องเชิงกลยุทธ์,students.json:Skills
+11_skill,技能,Skill.10103.Passive,直至最后一刻！,最後の瞬間まで！,直至最後一刻！,最後の瞬間まで！,마지막 순간까지!,จังหวะสุดท้ายนี้แหละ!,students.json:Skills
+11_skill,技能,Skill.10103.WeaponPassive,直至最后一刻！＋,最後の瞬間まで！+,直至最後一刻！＋,最後の瞬間まで！+,마지막 순간까지!+,จังหวะสุดท้ายนี้แหละ!+,students.json:Skills
+11_skill,技能,Skill.10103.ExtraPassive,纵深突破！,縦深突破！,縱深突破！,縦深突破！,종심 돌파!,ฝ่าทะลวงลึก!,students.json:Skills
+11_skill,技能,Skill.10104.Ex,腿法：破蹴手榴弹,腿法：破蹴手榴弾,腿法：破蹴手榴彈,腿法：破蹴手榴弾,파퇴: 세열수류탄,กระบวนท่า : ลูกเตะระเบิดพิฆาต,students.json:Skills
+11_skill,技能,Skill.10104.Public,招式：升龙之形,招式：昇龍之形,招式：升龍之形,招式：昇龍之形,초식: 맹룡과강,กระบวนยุทธ์ ：ปราณมังกรทะยาน,students.json:Skills
+11_skill,技能,Skill.10104.Passive,气功：蛋白质奶昔,気功：プロテインシェイク,氣功：蛋白質奶昔,気功：プロテインシェイク,기공: 프로틴 쉐이크,ลมปราณ ：โปรตีนเช็ค,students.json:Skills
+11_skill,技能,Skill.10104.WeaponPassive,气功：蛋白质奶昔＋,気功：プロテインシェイク+,氣功：蛋白質奶昔＋,気功：プロテインシェイク+,기공: 프로틴 쉐이크+,ลมปราณ ：โปรตีนเช็ค+,students.json:Skills
+11_skill,技能,Skill.10104.ExtraPassive,心法：力量训练,心法：ウェイトトレーニング,心法：力量訓練,心法：ウェイトトレーニング,심법: 웨이트 트레이닝,ห้วงจิต ：เวทเทรนนิ่ง,students.json:Skills
+11_skill,技能,Skill.10105.Ex,洋溢的心意,溢れるハート,洋溢的心意,溢れるハート,넘치는 하트,หัวใจอันเปี่ยมล้น,students.json:Skills
+11_skill,技能,Skill.10105.Public,慈爱的飞吻,慈愛の投げキッス,慈愛的飛吻,慈愛の投げキッス,자애의 키스 날리기,จุ๊บแห่งความเมตตา,students.json:Skills
+11_skill,技能,Skill.10105.Passive,不懈的努力,たゆまぬ努力,不懈的努力,たゆまぬ努力,끊임없는 노력,ความทุ่มเทอย่างไม่ลดละ,students.json:Skills
+11_skill,技能,Skill.10105.WeaponPassive,不懈的努力＋,たゆまぬ努力+,不懈的努力＋,たゆまぬ努力+,끊임없는 노력+,ความทุ่มเทอย่างไม่ลดละ+,students.json:Skills
+11_skill,技能,Skill.10105.ExtraPassive,请享受当下一刻,今だけは楽しんで,請享受當下一刻,今だけは楽しんで,힘든 것도 잊어요,สนุกไปกับช่วงเวลานี้,students.json:Skills
+11_skill,技能,Skill.10106.Ex,反差萌,ギャップ萌え,反差萌,ギャップ萌え,갭 모에 아이돌,แก๊ปโมเอะ,students.json:Skills
+11_skill,技能,Skill.10106.Public,你最可爱,あなたが一番,你最可愛,あなたが一番,사실 누구보다 귀여워,เธอคือที่หนึ่งในใจ,students.json:Skills
+11_skill,技能,Skill.10106.Passive,我一直在关注着你,いつも見守っております,我一直在關注著你,いつも見守っております,지켜보고 있어요,เฝ้ามองเธออยู่นะคะ,students.json:Skills
+11_skill,技能,Skill.10106.WeaponPassive,我一直在关注着你＋,いつも見守っております+,我一直在關注著你＋,いつも見守っております+,지켜보고 있어요+,เฝ้ามองเธออยู่นะคะ+,students.json:Skills
+11_skill,技能,Skill.10106.ExtraPassive,为大家声援,皆に声援を,為大家聲援,皆に声援を,서로 응원하기,เสียงเชียร์สำหรับทุกคน,students.json:Skills
+11_skill,技能,Skill.10107.Ex,是真的吗？,本当ですか？,是真的嗎？,本当ですか？,그게 정말 사실인가요?,จริงเหรอคะ?,students.json:Skills
+11_skill,技能,Skill.10107.Public,来，笑一个！,はい、チーズ！,來，笑一個！,はい、チーズ！,자 여기 보세요!,"เอ้า, ชีส!",students.json:Skills
+11_skill,技能,Skill.10107.Passive,此乃独家新闻！,特ダネです！,此乃獨家新聞！,特ダネです！,탐사보도입니다!,หัวข้อพิเศษค่ะ!,students.json:Skills
+11_skill,技能,Skill.10107.WeaponPassive,此乃独家新闻！＋,特ダネです！+,此乃獨家新聞！＋,特ダネです！+,탐사보도입니다!+,หัวข้อพิเศษค่ะ!+,students.json:Skills
+11_skill,技能,Skill.10107.ExtraPassive,是！收到！,はい！分かりました！,是！收到！,はい！分かりました！,네! 황송합니다!,ค่ะ! เข้าใจแล้วค่ะ!,students.json:Skills
+11_skill,技能,Skill.10108.Ex,佩洛洛大人千钧一发！,ペロロ様危機一髪！,佩洛洛大人千鈞一髮！,ペロロ様危機一髪！,위기일발 페로로님,ท่านเพโรโร่กำลังวิกฤติ!,students.json:Skills
+11_skill,技能,Skill.10108.Public,夜间护理,ナイトケア,夜間護理,ナイトケア,숙면을 위한 케어,ไนท์เกียร์,students.json:Skills
+11_skill,技能,Skill.10108.Passive,甜蜜的梦,甘やかな夢,甜蜜的夢,甘やかな夢,달콤한 속잠,ความฝันอันแสนหวาน,students.json:Skills
+11_skill,技能,Skill.10108.WeaponPassive,甜蜜的梦＋,甘やかな夢+,甜蜜的夢＋,甘やかな夢+,달콤한 속잠+,ความฝันอันแสนหวาน+,students.json:Skills
+11_skill,技能,Skill.10108.ExtraPassive,惺忪睡眼,気だるい目覚め,惺忪睡眼,気だるい目覚め,휴식 뒤의 나른함,ตื่นขึ้นอย่างงัวเงีย,students.json:Skills
+11_skill,技能,Skill.10109.Ex,关灯之后请安静,消灯後はお静かに,關燈之後請安靜,消灯後はお静かに,소등 후에는 조용히,ความเงียบงันหลังแสงไฟดับลง,students.json:Skills
+11_skill,技能,Skill.10109.Public,心仪的枕头,お気に入りの枕,心儀的枕頭,お気に入りの枕,애착 베개,หมอนใบโปรด,students.json:Skills
+11_skill,技能,Skill.10109.Passive,冷彻的书记,冷徹なる書記,冷徹的書記,冷徹なる書記,서기의 냉철함,เลขานุการผู้เยือกเย็น,students.json:Skills
+11_skill,技能,Skill.10109.WeaponPassive,冷彻的书记＋,冷徹なる書記+,冷徹的書記＋,冷徹なる書記+,서기의 냉철함+,เลขานุการผู้เยือกเย็น+,students.json:Skills
+11_skill,技能,Skill.10109.ExtraPassive,书记的直觉,書記の勘,書記的直覺,書記の勘,서기의 예리함,การคาดเดาของเลขานุการ,students.json:Skills
+11_skill,技能,Skill.13000.Ex,清除，要优雅,優雅に排除します,優雅地排除,Elegant Removal,"우아하게, 제거합니다.",กำจัดทิ้งอย่างสง่างาม,students.json:Skills
+11_skill,技能,Skill.13000.Public,击穿，要精致,上品に貫きます,高雅地貫穿,Elegant Infiltration,"품위있게, 관통합니다.",บุกทะลวงอย่างสง่างาม,students.json:Skills
+11_skill,技能,Skill.13000.Passive,挺进，要敏捷,速やかに前進します,快速地前進,Agile Advancement,"민첩하게, 전진합니다.",มุ่งหน้าอย่างฉับไว!,students.json:Skills
+11_skill,技能,Skill.13000.WeaponPassive,挺进，要敏捷+,速やかに前進します+,快速地前進+,Agile Advancement+,"민첩하게, 전진합니다.+",มุ่งหน้าอย่างฉับไว!+,students.json:Skills
+11_skill,技能,Skill.13000.ExtraPassive,压制，要明确,的確に制圧します,準確地鎮壓,Total Suppression,"명확하게, 제압합니다.",ชัยชนะเบ็ดเสร็จ,students.json:Skills
+11_skill,技能,Skill.13001.Ex,可能会痛哦~,これは痛いかもよ～,這個可能會痛喔～,You Might Get a Boo-Boo!,아플지도 몰라~,อาจจะเจ็บก็ได้นะ~,students.json:Skills
+11_skill,技能,Skill.13001.Public,要射击啦~,撃つよ～,開槍囉～,I'm Gonna Shoot!,쏠 거야~,จะยิงแล้วนะ~,students.json:Skills
+11_skill,技能,Skill.13001.GearPublic,我要射击喽～＋,撃つよ～＋,開槍囉～+,I'm Gonna Shoot!+,쏠 거야~+,จะยิงแล้วนะ~+,students.json:Skills
+11_skill,技能,Skill.13001.Passive,好嘞，要加油啦~,よーし、頑張ろ～,好，加油吧～,Put Your Back Into It!,"영차, 힘내자~",ย๊าโฮ่ สู้ๆ นะ~,students.json:Skills
+11_skill,技能,Skill.13001.WeaponPassive,好嘞，要加油啦~+,よーし、頑張ろ～+,好，加油吧～+,Put Your Back Into It!+,"영차, 힘내자~+",ย๊าโฮ่ สู้ๆ นะ~+,students.json:Skills
+11_skill,技能,Skill.13001.ExtraPassive,会有点痛哦~,ちょっと痛むよ～,會有點痛喔～,This Is Gonna Sting!,따끔거릴 거야~,แสบๆ คันๆ นิดหน่อย~,students.json:Skills
+11_skill,技能,Skill.13002.Ex,一发榴弹，分量满满！,グレネード、大盛りで！,榴彈，大份！,One Heaping Helping of Grenades!,"유탄 일발, 가득 담아서!",นัดเดียวกวาดเรียบ!,students.json:Skills
+11_skill,技能,Skill.13002.Public,再来一碗辣的！,おかわり、ちょっと辛めで！,再來一碗，微辣！,One More Spicy Serving!,"매콤하게, 한 그릇 더!",แซ่บอีกสักชาม!,students.json:Skills
+11_skill,技能,Skill.13002.Passive,我吃饱了！,ごちそうさまです！,謝謝款待！,Thanks for the Great Meal!,잘 먹었습니다!,คำขอบคุณจากคนรักอาหาร,students.json:Skills
+11_skill,技能,Skill.13002.WeaponPassive,我吃饱了！+,ごちそうさまです！+,謝謝款待！+,Thanks for the Great Meal!+,잘 먹었습니다!+,คำขอบคุณจากคนรักอาหาร+,students.json:Skills
+11_skill,技能,Skill.13002.ExtraPassive,我还可以继续吃！,まだまだ食べられますよ！,我還吃得下！,I Still Got Room for More!,아직 더 먹을 수 있어요!,คนกินจุ,students.json:Skills
+11_skill,技能,Skill.13003.Ex,穿甲射击,アーマーピアッシング弾,穿甲彈,Armor-Piercing Shot,아머피어싱샷,ยิงทะลุเกราะ,students.json:Skills
+11_skill,技能,Skill.13003.Public,明镜止水,冷徹な心,冷靜的心,Shrewd,냉철함,ความเยือกเย็น,students.json:Skills
+11_skill,技能,Skill.13003.Passive,精确瞄准,照準よし,瞄準好了,Precision Aim,정조준,เล็งแม่น,students.json:Skills
+11_skill,技能,Skill.13003.WeaponPassive,精确瞄准+,照準よし+,瞄準好了+,Precision Aim+,정조준+,เล็งแม่น+,students.json:Skills
+11_skill,技能,Skill.13003.ExtraPassive,目标搜索,目標探索,搜索目標,Target Search,목표 수색,ค้นหาเป้าหมาย,students.json:Skills
+11_skill,技能,Skill.13004.Ex,惩罚时间到了~♣,お仕置きの時間です～♣,懲罰時間到囉～♣,Punishment Time!,혼날 시간이에요~♣,เด็กดื้อต้องโดนอะไร~♣,students.json:Skills
+11_skill,技能,Skill.13004.Public,闪亮登场~☆,じゃ～ん☆,鏘～☆,Ta-da! ☆,짜안~☆,แต่นแต๊น~☆,students.json:Skills
+11_skill,技能,Skill.13004.GearPublic,闪亮登场~☆+,じゃ～ん☆+,鏘～☆+,Ta-da! ☆+,짜안~☆ +,แต่นแต๊น~☆+,students.json:Skills
+11_skill,技能,Skill.13004.Passive,这样可不乖哦！,めっ、ですよ！,這樣不行喲！,"Tsk-Tsk, Shame on You!",떽~이에요!,สมควรแล้ว~!,students.json:Skills
+11_skill,技能,Skill.13004.WeaponPassive,这样可不乖哦！+,めっ、ですよ！+,這樣不行喲！+,"Tsk-Tsk, Shame on You!+",떽~이에요!+,สมควรแล้ว~!+,students.json:Skills
+11_skill,技能,Skill.13004.ExtraPassive,打扫干净吧~♧,綺麗にお掃除します～♧,打掃乾淨～♧,Squeaky-Clean Sweep,깨끗하게 청소해요~♧,สะอาดหมดจด~♧,students.json:Skills
+11_skill,技能,Skill.13005.Ex,恐慌传播者,パニックブリンガー,Panic Bringer,Panic Bringer,패닉 브링거,แพนิคบริงเกอร์,students.json:Skills
+11_skill,技能,Skill.13005.Public,恐慌射击,パニックショット,Panic Shot,Panic Shot,패닉샷,แพนิคช็อต,students.json:Skills
+11_skill,技能,Skill.13005.Passive,凶狠的面相,怖い顔,可怕的表情,Scary Face,무서운 얼굴,ใบหน้าที่น่ากลัว,students.json:Skills
+11_skill,技能,Skill.13005.WeaponPassive,凶狠的面相+,怖い顔+,可怕的表情+,Scary Face+,무서운 얼굴+,ใบหน้าที่น่ากลัว+,students.json:Skills
+11_skill,技能,Skill.13005.ExtraPassive,那就没办法了,仕方ない,沒辦法,"Oh, Well...",어쩔 수 없네,ช่วยไม่ได้สินะ,students.json:Skills
+11_skill,技能,Skill.13006.Ex,灼热小夜曲,灼熱のセレナーデ,灼熱的小夜曲,Scorching Serenade,작열의 세레나데,เซเรเนดแห่งความร้อนแรง,students.json:Skills
+11_skill,技能,Skill.13006.Public,爆裂咏叹调,爆裂のアリア,爆裂的詠嘆調,Explosive Aria,폭열의 아리아,เจ้าแห่งระเบิด,students.json:Skills
+11_skill,技能,Skill.13006.Passive,玩得开心一点吧！,楽しく遊ぼう！,開心地玩吧！,Let's Have Some Fun!,재미있게 놀자!,มาเล่นสนุกกันเถอะ!,students.json:Skills
+11_skill,技能,Skill.13006.WeaponPassive,玩得开心一点吧！+,楽しく遊ぼう！+,開心地玩吧！+,Let's Have Some Fun!+,재미있게 놀자!+,มาเล่นสนุกกันเถอะ!+,students.json:Skills
+11_skill,技能,Skill.13006.ExtraPassive,来点儿欢快的吧？,楽しくいこっか？,玩得開心嗎？,Wanna Have Some Fun?,신나게 가볼까?,มันส์สุดขั้ว!,students.json:Skills
+11_skill,技能,Skill.13007.Ex,空腹的愤怒,空腹のイライラ,飢餓的焦躁,I'm Hangry!,공복의 분노,พลังของคนหิว,students.json:Skills
+11_skill,技能,Skill.13007.Public,别在我肚子饿的时候搭话！,お腹空いてる時は話しかけないで！,肚子餓的時候別跟我說話！,Don't Talk to Me When I'm Hungry!,배고플 땐 말 걸지 마!,อย่ามาคุยตอนหิวนะ!,students.json:Skills
+11_skill,技能,Skill.13007.GearPublic,别在我肚子饿的时候搭话！+,お腹空いてる時は話しかけないで！+,肚子餓的時候別跟我說話！+,Don't Talk to Me When I'm Hungry!+,배고플 땐 말 걸지 마!+,อย่ามาคุยตอนหิวนะ!+,students.json:Skills
+11_skill,技能,Skill.13007.Passive,小矮子的优点,小柄のメリット,嬌小的優勢,Tiny Advantage,작은 몸의 장점,ข้อดีของคนตัวเล็ก,students.json:Skills
+11_skill,技能,Skill.13007.WeaponPassive,小矮子的优点+,小柄のメリット+,嬌小的優勢+,Tiny Advantage+,작은 몸의 장점+,ข้อดีของคนตัวเล็ก+,students.json:Skills
+11_skill,技能,Skill.13007.ExtraPassive,饥饿的美食家,空腹の美食家,飢餓的美食家,Hungry Foodie,배고픈 미식가,นักโภชนาการที่หิวโหย,students.json:Skills
+11_skill,技能,Skill.13008.Ex,别碍手碍脚！,邪魔よ！,真礙事！,Outta My Way!,걸리적거리잖아!,วุ่นวายจริงๆ เลย!,students.json:Skills
+11_skill,技能,Skill.13008.Public,瞄准射击,狙い撃ち,狙擊,Focused Fire,조준 사격,ยิงตรงเป้า,students.json:Skills
+11_skill,技能,Skill.13008.GearPublic,瞄准射击+,狙い撃ち+,狙擊+,Focused Fire+,조준 사격+,ยิงตรงเป้า+,students.json:Skills
+11_skill,技能,Skill.13008.Passive,兼职生的韧性,バイト根性,打工毅力,Part-Time Worker's Spirit,알바생의 근성,ความกล้าของเด็กพาร์ทไทม์,students.json:Skills
+11_skill,技能,Skill.13008.WeaponPassive,兼职生的韧性+,バイト根性+,打工毅力+,Part-Time Worker's Spirit+,알바생의 근성+,ความกล้าของเด็กพาร์ทไทม์+,students.json:Skills
+11_skill,技能,Skill.13008.ExtraPassive,对策委员会的愤怒,対策委員会の怒り,對策委員會的憤怒,Wrath of the Task Force,대책위의 분노,ความโกรธของคณะแผนงาน!,students.json:Skills
+11_skill,技能,Skill.13009.Ex,展开战术盾牌,戦闘用シールド、装着,戰鬥用盾牌，裝備,Deploy Tactical Shield,전술방패 전개,ใช้งานกลยุทธ์โล่ป้องกัน,students.json:Skills
+11_skill,技能,Skill.13009.Public,睡眠，大补,疲れたら寝るのが一番,累了就先睡一覺,Sleep Cures All,잠이 보약,ยานอนหลับ,students.json:Skills
+11_skill,技能,Skill.13009.Passive,韧性,胆力,膽量,Fortitude,근성,เลือดนักสู้!,students.json:Skills
+11_skill,技能,Skill.13009.WeaponPassive,韧性+,胆力+,膽量+,Fortitude+,근성+,เลือดนักสู้!+,students.json:Skills
+11_skill,技能,Skill.13009.ExtraPassive,娴熟的装弹动作,手慣れたリロード,熟練的重新裝填,Expert Reload,숙련된 재장전,รีโหลดอย่างมีทักษะ,students.json:Skills
+11_skill,技能,Skill.13010.Ex,Q.E.D,Q.E.D,Q.E.D,Q.E.D.,Q.E.D,Q.E.D,students.json:Skills
+11_skill,技能,Skill.13010.Public,I.F.F,I.F.F,I.F.F,I.F.F.,I.F.F,I.F.F,students.json:Skills
+11_skill,技能,Skill.13010.GearPublic,I.F.F+,I.F.F+,I.F.F+,I.F.F+,I.F.F+,I.F.F.+,students.json:Skills
+11_skill,技能,Skill.13010.Passive,导出最优解,最適解の導出,導出最佳解答,Optimal Solution,최적해 도출,คำนวณเสริมเกราะ,students.json:Skills
+11_skill,技能,Skill.13010.WeaponPassive,导出最优解+,最適解の導出+,導出最佳解答+,Optimal Solution+,최적해 도출+,คำนวณเสริมเกราะ+,students.json:Skills
+11_skill,技能,Skill.13010.ExtraPassive,高速演算,高速暗算,快速心算,Speedy Mental Calculations,고속 암산,คณิตคิดไว,students.json:Skills
+11_skill,技能,Skill.13011.Ex,创作的痛苦,生みの苦しみ,創作的痛苦,Creative Anguish,창작의 고통,เจ็บแสบแบบสร้างสรรค์,students.json:Skills
+11_skill,技能,Skill.13011.Public,严守截稿日,締切厳守,堅守期限,Deadline Cruncher,마감 사수,มือปืนพิฆาต,students.json:Skills
+11_skill,技能,Skill.13011.Passive,创造性品味,クリエイティブセンス,Creative Sense,Creative Sense,크리에이티브 센스,เซนส์ของศิลปิน,students.json:Skills
+11_skill,技能,Skill.13011.WeaponPassive,创造性品味+,クリエイティブセンス+,Creative Sense+,Creative Sense+,크리에이티브 센스+,เซนส์ของศิลปิน+,students.json:Skills
+11_skill,技能,Skill.13011.ExtraPassive,开发者协同效应：绿,開発者シナジー：ミドリ,開發者加成：綠,Developmental Synergy: Midori,개발자 시너지: 미도리,รวมพลังนักพัฒนา: มิโดริ,students.json:Skills
+11_skill,技能,Skill.13012.Ex,谈判到此为止！,交渉はここまでですね……！,交涉到此為止了……！,Done Talking!,협상은 없습니다!,ไม่มีการเจรจาต่อรองค่ะ!,students.json:Skills
+11_skill,技能,Skill.13012.Public,制止暴力！,制圧します！,壓制！,Suppressing Violence!,폭력은 제압합니다!,ความรุนแรงต้องหมดไปค่ะ!,students.json:Skills
+11_skill,技能,Skill.13012.Passive,治疗要迅速！,速やかに処置を！,迅速地處置！,Back on the Horse!,회복은 신속하게!,ฟื้นฟูเร่งด่วน!,students.json:Skills
+11_skill,技能,Skill.13012.WeaponPassive,治疗要迅速！+,速やかに処置を！+,迅速地處置！+,Back on the Horse!+,회복은 신속하게!+,ฟื้นฟูเร่งด่วน!+,students.json:Skills
+11_skill,技能,Skill.13012.ExtraPassive,没时间休息了！,休んでなんていられません！,不能休息！,No Time to Rest!,쉴 틈은 없습니다!,ไม่ให้พักหรอกค่ะ!,students.json:Skills
+11_skill,技能,Skill.13013.Ex,图书馆内请安静,図書館ではお静かに,偉大的溝通方式,An Excellent Medium,위대한 소통법,ห้ามส่งเสียงดังในห้องสมุดค่ะ,students.json:Skills
+11_skill,技能,Skill.13013.Public,知识的力量,知識の力,知識的力量,The Power of Knowledge,지식의 힘,พลังแห่งปัญญา,students.json:Skills
+11_skill,技能,Skill.13013.Passive,收藏家的热情,コレクターの熱量,收藏家的信念,Collector's Will,수집가의 의지,เจตจำนงของนักสะสม,students.json:Skills
+11_skill,技能,Skill.13013.WeaponPassive,收藏家的热情＋,コレクターの熱量+,收藏家的信念+,Collector's Will+,수집가의 의지+,เจตจำนงของนักสะสม+,students.json:Skills
+11_skill,技能,Skill.13013.ExtraPassive,旅途的开始,旅の始まり,旅程的起點,The Journey Begins,여정의 시작,จุดเริ่มต้นการเดินทาง,students.json:Skills
+11_skill,技能,Skill.16000.Ex,混乱射击,乱れ撃ち,亂射,Shotgun Blast,펌프패닝,ยิงสกัด,students.json:Skills
+11_skill,技能,Skill.16000.Public,一触即发,トリガーオーバー,Trigger Over,Over Trigger,트리거 오버,ทริกเกอร์ โอเวอร์,students.json:Skills
+11_skill,技能,Skill.16000.Passive,我，我会加油的！,が、頑張ります！,我，我會加油的！,I'll Keep My Chin Up!,"히, 힘내겠습니다!",สะ...สู้ตายค่ะ!,students.json:Skills
+11_skill,技能,Skill.16000.WeaponPassive,我，我会加油的！+,が、頑張ります！+,我，我會加油的！+,I'll Keep My Chin Up!+,"히, 힘내겠습니다!+",สะ...สู้ตายค่ะ!+,students.json:Skills
+11_skill,技能,Skill.16000.ExtraPassive,呃啊啊啊啊？！,うわああああっ！？,嗚哇啊啊啊啊！？,Hauugh?!,으아아아아아-?!,อ๊าาาาา?!,students.json:Skills
+11_skill,技能,Skill.16001.Ex,要冲了哦！,行っくよー！,上囉──！,On My Way!,갈게!,ลุยไม่ยั้ง!,students.json:Skills
+11_skill,技能,Skill.16001.Public,要射击了哦！,撃つよーっ！,射囉──！,I'll Fire!,쏠게!,ยิง!,students.json:Skills
+11_skill,技能,Skill.16001.Passive,会很痛哦？,これは痛いよ？,這很痛吧？,This Is Gonna Hurt,아플 거야?,เจ็บเหรอ?,students.json:Skills
+11_skill,技能,Skill.16001.WeaponPassive,会很痛哦？+,これは痛いよ？+,這很痛吧？+,This Is Gonna Hurt+,아플 거야?+,เจ็บเหรอ?+,students.json:Skills
+11_skill,技能,Skill.16001.ExtraPassive,要加速了哦？,スピード上げるね？,加快速度吧？,Wanna Pick Up the Pace?,더 빨리 간다?,เร็วกว่านี้เหรอ?,students.json:Skills
+11_skill,技能,Skill.16002.Ex,解答箱,ブラックボックス,Black Box,Box of Answers,해답상자,กล่องสารพัดคำตอบ,students.json:Skills
+11_skill,技能,Skill.16002.Public,对不起！,ごめんなさい！,抱歉！,Pardon!,미안해요!,ขอโทษนะ!,students.json:Skills
+11_skill,技能,Skill.16002.GearPublic,抱歉！＋,ごめんなさい！+,抱歉！＋,Pardon!+,미안해요!+,ขอโทษนะ!+,students.json:Skills
+11_skill,技能,Skill.16002.Passive,掌控论点,論点把握能力,掌握重點能力,Getting the Point,논점파악,วิเคราะห์ประเด็น,students.json:Skills
+11_skill,技能,Skill.16002.WeaponPassive,掌控论点+,論点把握能力+,掌握重點能力+,Getting the Point+,논점파악+,วิเคราะห์ประเด็น+,students.json:Skills
+11_skill,技能,Skill.16002.ExtraPassive,我彻底明白了！,理解しました！,理解了！,"Roger That, Crystal Clear!",확실히 알았습니다!,เข้าใจแจ่มแจ๋ว!,students.json:Skills
+11_skill,技能,Skill.16003.Ex,自制闪光弹,オーダーメイド閃光弾,訂製閃光彈,Holy Flash Grenade,사제 섬광탄,แฟลชบอมบ์,students.json:Skills
+11_skill,技能,Skill.16003.Public,巡逻者的潜能,自警団の底力,自衛隊的潛力,Ranger's Endurance,순찰자의 저력,พลังแฝงของสายตรวจ,students.json:Skills
+11_skill,技能,Skill.16003.GearPublic,巡逻者的潜能+,自警団の底力+,自衛隊的潛力+,Ranger's Endurance+,순찰자의 저력+,พลังแฝงของสายตรวจ+,students.json:Skills
+11_skill,技能,Skill.16003.Passive,紧急闪避,緊急回避,緊急迴避,Urgent Evasion,긴급 회피,หลบหลีกฉุกเฉิน,students.json:Skills
+11_skill,技能,Skill.16003.WeaponPassive,紧急闪避+,緊急回避+,緊急迴避+,Urgent Evasion+,긴급 회피+,หลบหลีกฉุกเฉิน+,students.json:Skills
+11_skill,技能,Skill.16003.ExtraPassive,巡逻者的强袭,自警団の猛襲,自衛隊的猛襲,Ranger's Assault,순찰자의 맹습,ท่าพิฆาตของสายตรวจ,students.json:Skills
+11_skill,技能,Skill.16004.Ex,连射模式！,連射モード、デス！,連射模式！,Rapid Fire Mode!,연사 모드!,โหมดยิงไม่ยั้ง!,students.json:Skills
+11_skill,技能,Skill.16004.Public,再次燃烧！,もう一度燃やすのデス！,再次燃燒！,Burn it Again!,다시 타오릅니다!,เร่าร้อนขึ้นอีก!,students.json:Skills
+11_skill,技能,Skill.16004.Passive,敏锐感知,鋭い直感,敏銳的直覺,Keen Senses,예민한 감각,สัมผัสฉับไว,students.json:Skills
+11_skill,技能,Skill.16004.WeaponPassive,敏锐感知+,鋭い直感+,敏銳的直覺+,Keen Senses+,예민한 감각+,สัมผัสฉับไว+,students.json:Skills
+11_skill,技能,Skill.16004.ExtraPassive,乱射准备就绪！,射撃準備、OK！,射擊準備，OK！,"Ready, Set, Spray!",난사 준비 끝!,พร้อมยิง!,students.json:Skills
+11_skill,技能,Skill.16005.Ex,不息的奔流,止まらない奔流,止不住的奔流,Torrent,격류,กระแสน้ำเชี่ยว,students.json:Skills
+11_skill,技能,Skill.16005.Public,爆燃的猛击,燃え盛る一撃,熊熊燃燒的一擊,Hot Strike,뜨거운 강타,ฟาดฟันระอุ,students.json:Skills
+11_skill,技能,Skill.16005.Passive,轻快的心情,軽やかな気持ち,輕鬆的心情,Nimble On My Feet,가벼운 몸,ตัวเบาหวิว,students.json:Skills
+11_skill,技能,Skill.16005.WeaponPassive,轻快的心情+,軽やかな気持ち+,輕鬆的心情+,Nimble On My Feet+,가벼운 몸+,ตัวเบาหวิว+,students.json:Skills
+11_skill,技能,Skill.16005.ExtraPassive,火热的身体,火照った身体,火辣辣的身體,Warmed Up,달궈진 몸,ตัวร้อนจัด,students.json:Skills
+11_skill,技能,Skill.16006.Ex,凉凉的椰汁！,つめた～いココナッツジュース！,清涼～椰子汁！,Cold Coconut Juice!,시원한 코코넛 주스!,น้ำมะพร้าวเย็นชื่นใจ!,students.json:Skills
+11_skill,技能,Skill.16006.Public,酸酸甜甜，美味可口！,甘酸っぱくて美味しい！,酸甜可口！,"Sweet n' Sour, Crunchy n' Crispy!",새콤달콤 와삭와삭!,ขนมรสหวานอมเปรี้ยว!,students.json:Skills
+11_skill,技能,Skill.16006.GearPublic,酸酸甜甜，美味可口！+,甘酸っぱくて美味しい！+,酸甜可口！+,"Sweet n' Sour, Crunchy n' Crispy!+",새콤달콤 와삭와삭!+,ขนมรสหวานอมเปรี้ยว!+,students.json:Skills
+11_skill,技能,Skill.16006.Passive,吃完这个后可要加油哦！,さぁ、ご飯食べたし頑張ろ～！,來，吃完飯後再加把勁吧～！,Take a Bite and Smile!,"자, 먹고 힘내자~!",กินแล้วสู้ๆ นะ~!,students.json:Skills
+11_skill,技能,Skill.16006.WeaponPassive,吃完这个后可要加油哦！+,さぁ、ご飯食べたし頑張ろ～！+,來，吃完飯後再加把勁吧～！+,Take a Bite and Smile!+,"자, 먹고 힘내자~!+",กินแล้วสู้ๆ นะ~!+,students.json:Skills
+11_skill,技能,Skill.16006.ExtraPassive,虽然好吃，但也会晕晕的哦~,美味しいけどキーンってなるね～,雖然美味但會頭痛呢～,Leaves Your Head Spinning!,맛있는 만큼 어질어질!,อร่อยจนตาลาย!,students.json:Skills
+11_skill,技能,Skill.16007.Ex,诸位，请听我说！,みなさん、こちらに耳を傾けてください！,大家，請注意聽這邊！,"Everyone, Please Listen to Me!","여러분, 제 말에 귀 기울여 주세요!",ทุกคนตั้งใจฟังฉันนะคะ!,students.json:Skills
+11_skill,技能,Skill.16007.Public,巧妙的煽动,巧妙なアジテーション,巧妙的煽動,Clever Incitement,교묘한 선동,การยั่วยุอันชาญฉลาด,students.json:Skills
+11_skill,技能,Skill.16007.Passive,一气呵成,一瀉千里,一瀉千里,Smooth Sailing,일사천리,โจมตีว่องไว,students.json:Skills
+11_skill,技能,Skill.16007.WeaponPassive,一气呵成+,一瀉千里+,一瀉千里+,Smooth Sailing+,일사천리+,โจมตีว่องไว+,students.json:Skills
+11_skill,技能,Skill.16007.ExtraPassive,无可辩驳的论证,反駁不能な言い回し,無法反駁的措辭,Irrefutable Evidence,반박 불가한 논증,หลักฐานที่แย้งไม่ได้,students.json:Skills
+11_skill,技能,Skill.16008.Ex,先来美美地休息下吧,まずは甘い休息から,先從甜蜜的休息開始,Sweet Relief,일단은 달콤한 휴식부터,ของหวานจะเยียวยาทุกสิ่ง,students.json:Skills
+11_skill,技能,Skill.16008.Public,再吃最后一口！,最後のひと口！,最後一口！,Every Last Round!,마지막 한 조각까지!,ถึงชิ้นสุดท้ายละนะ!,students.json:Skills
+11_skill,技能,Skill.16008.Passive,指挥交通,交通整理,交通指揮,Traffic Map,교통지도,แผนที่จราจร,students.json:Skills
+11_skill,技能,Skill.16008.WeaponPassive,指挥交通+,交通整理+,交通指揮+,Traffic Map+,교통지도+,แผนที่จราจร+,students.json:Skills
+11_skill,技能,Skill.16008.ExtraPassive,搭个顺风车吧,便乗させてもらおっかな,讓我搭個便車吧,Free Ride,무임승차,ขอฟรีแล้วกัน~,students.json:Skills
+11_skill,技能,Skill.16009.Ex,满流忍法帖！,ミチル流忍法っ！！,三千留流忍法！！,Michiru's Ninja Scroll!,미치루 인법첩이라구!,นี่แหละศาสตร์นินจาของมิจิรุ!,students.json:Skills
+11_skill,技能,Skill.16009.Public,嚎啕吧，地狱斩魔刀！,捌け、地獄忍魔刀！,出鞘吧，地獄忍魔刀！,Cry of the Exorcist!,"울어라, 지옥참마굿즈!",หายไปซะ ดาบนินจานรก!,students.json:Skills
+11_skill,技能,Skill.16009.Passive,尝尝我的自创忍术！,見て見て、自作の忍術！,你看你看，我自創的忍術！,My Own Ninjutsu!,"이거 봐봐, 내 자작 인법!",ดูสิๆ ศาสตร์นินจาฉบับของข้าน้อย!,students.json:Skills
+11_skill,技能,Skill.16009.WeaponPassive,尝尝我的自创忍术！+,見て見て、自作の忍術！+,你看你看，我自創的忍術！+,My Own Ninjutsu!+,"이거 봐봐, 내 자작 인법!+",ดูสิๆ ศาสตร์นินจาฉบับของข้าน้อย!+,students.json:Skills
+11_skill,技能,Skill.16009.ExtraPassive,满流忍术！奥义攻击！,ミチル流忍術、奥義！,三千留流忍術，奧義！,Secret Michiru-Style Ninjutsu!,미치루류 인법! 오의 발동!,วิถีนินจามิจิรุ! ออกโรงได้!,students.json:Skills
+11_skill,技能,Skill.16010.Ex,可能会有点烫,少し暑いかもしれない,可能會有點熱,This Might Be Hot,조금 뜨거울지도 몰라,อาจจะร้อนหน่อยนะ,students.json:Skills
+11_skill,技能,Skill.16010.Public,如果能听到这声音,この声が届いたなら,如果聲音能傳達到,Can You Hear Me?,이 목소리가 닿는다면,เสียงที่อยากส่งถึง,students.json:Skills
+11_skill,技能,Skill.16010.Passive,热情十足哦,情熱は十分,熱情十足,Too Much Passion,열정은 충분해,ฮึกเหิมเท่านี้ก็ได้ละ,students.json:Skills
+11_skill,技能,Skill.16010.WeaponPassive,热情十足哦+,情熱は十分+,熱情十足+,Too Much Passion+,열정은 충분해+,ฮึกเหิมเท่านี้ก็ได้ละ+,students.json:Skills
+11_skill,技能,Skill.16010.ExtraPassive,总觉得有点害羞……,何だか少し恥ずかしい…,總覺得有點難為情…,I'm a Little Shy...,어쩐지 부끄러워…,เขินจังเลย...,students.json:Skills
+11_skill,技能,Skill.16011.Ex,钢之意志的穿射,鋼の意志のピアッシング弾,鋼之意志穿甲彈,Iron Will Piercing Shot,강철 의지의 피어싱 샷,ยิงทะลุเกราะด้วยใจมุ่งมั่น,students.json:Skills
+11_skill,技能,Skill.16011.Public,体育射击,スポーツ射撃,運動射擊,Sport Shooting,스포츠 사격,กีฬายิงปืน,students.json:Skills
+11_skill,技能,Skill.16011.Passive,上场的决心,出場への心構え,出場的心理準備,The Spirit of Participation,출전의 마음가짐,ทัศนคติในการลงแข่ง,students.json:Skills
+11_skill,技能,Skill.16011.WeaponPassive,上场的决心+,出場への心構え+,出場的心理準備+,The Spirit of Participation+,출전의 마음가짐+,ทัศนคติในการลงแข่ง+,students.json:Skills
+11_skill,技能,Skill.16011.ExtraPassive,大赛的激昂之心,大会の高揚感,大會的激昂,The Excitement of Competition,대회의 고양감,ความตื่นเต้นในการแข่งขัน,students.json:Skills
+11_skill,技能,Skill.16012.Ex,对食物的怨恨,食べ物の恨み,食物的悔恨,Craving Food,먹을 것에 대한 원한,ความกระหายในของอร่อย,students.json:Skills
+11_skill,技能,Skill.16012.Public,我明明很想吃的……,食べたかったのに……,我明明很想吃的……,I Wanted to Eat...,먹고 싶었는데……,...อยากกินจัง,students.json:Skills
+11_skill,技能,Skill.16012.Passive,赶快搞定吧！,早く終わらせるわよ！,趕快搞定吧！,I'll Finish Quickly!,빨리 끝낼게!,รีบๆ จบเรื่องนี้กันเถอะ!,students.json:Skills
+11_skill,技能,Skill.16012.WeaponPassive,赶快搞定吧！+,早く終わらせるわよ！＋,趕快搞定吧！+,I'll Finish Quickly!+,빨리 끝낼게!+,รีบๆ จบเรื่องนี้กันเถอะ!+,students.json:Skills
+11_skill,技能,Skill.16012.ExtraPassive,这身衣服只有一套！,一着しかないのに！,明明只有一套而已！,I Only Have One!,한 벌 뿐이라고!,มีแค่อันเดียวเอง!,students.json:Skills
+11_skill,技能,Skill.16013.Ex,没有那回事！,そんな事ないんだから！,真的不是那樣啦！,Caught Browsing,들켜버린 열람,ไม่ใช่แบบนั้นนะ,students.json:Skills
+11_skill,技能,Skill.16013.Public,这个不能看！,見ちゃダメなんだから！,不可以看哦！,Stimulating Read,자극적인 열람,อย่ามองนะ,students.json:Skills
+11_skill,技能,Skill.16013.Passive,精英的使命感,エリートの使命感,菁英的使命感,Elite Sense of Duty,엘리트의 사명감,ความรับผิดชอบของนักเรียนหัวกะทิ,students.json:Skills
+11_skill,技能,Skill.16013.WeaponPassive,精英的使命感＋,エリートの使命感+,菁英的使命感+,Elite Sense of Duty+,엘리트의 사명감+,ความรับผิดชอบของนักเรียนหัวกะทิ+,students.json:Skills
+11_skill,技能,Skill.16013.ExtraPassive,H的东西绝对不行！死刑！,エッチなのはダメ！死刑！,不可以色色！死刑！,Death Penalty for Indecency!,야한 건 사형!,เรื่องลามกอนาจารจะต้องโดนลงโทษ!,students.json:Skills
+11_skill,技能,Skill.16014.Ex,伊吹的绘画时间！,イブキのお絵描きタイム！,伊吹的畫畫時間！,Ibuki's Magic Time!,이부키의 미술시간!,ชั่วโมงศิลปะของอิบูกิ!,students.json:Skills
+11_skill,技能,Skill.16014.Public,不可以当坏孩子！,悪い子はメッだよ！,不可以做壞事！,Don't Be Naughty!,나쁜 짓은 안돼!,ห้ามทำเรื่องไม่ดีเด็ดขาด!,students.json:Skills
+11_skill,技能,Skill.16014.Passive,品行端正女孩子,品行方正な女の子,循規蹈矩的孩子,Angelic Child,바른 생활 어린이,เด็กที่เติบโตมาอย่างดี,students.json:Skills
+11_skill,技能,Skill.16014.WeaponPassive,品行端正女孩子＋,品行方正な女の子+,循規蹈矩的孩子+,Angelic Child+,바른 생활 어린이+,เด็กที่เติบโตมาอย่างดี+,students.json:Skills
+11_skill,技能,Skill.16014.ExtraPassive,万魔殿的吉祥物,万魔殿のマスコット,萬魔殿的可愛吉祥物,Pandemonium Society's Cute Mascot,만마전의 귀여운 마스코트,มาสคอตสุดน่ารักของแพนเดโมเนียม โซไซตี้,students.json:Skills
+11_skill,技能,Skill.16015.Ex,幸福的旋律,幸せのメロディ,幸福的旋律,Joyful Melody,행복한 멜로디,เมโลดี้แห่งความสุข,students.json:Skills
+11_skill,技能,Skill.16015.Public,薄荷巧克力音阶,チョコミントな音の階段,薄荷巧克力音階,Chocolate Mint Scale,초코민트 스케일,บันไดเสียงมินต์ช็อกโกแลต,students.json:Skills
+11_skill,技能,Skill.16015.Passive,更加洪亮，更加遥远,もっと大きく、もっと遠く,更大，更遠,"Greater, Further",더 크게 더 멀리,ดังกังวานยิ่งกว่า,students.json:Skills
+11_skill,技能,Skill.16015.WeaponPassive,更加洪亮，更加遥远＋,もっと大きく、もっと遠く+,更大，更遠+,"Greater, Further+",더 크게 더 멀리+,ดังกังวานยิ่งกว่า+,students.json:Skills
+11_skill,技能,Skill.16015.ExtraPassive,铭心的感情,染み込む感情,滲透的感情,Emotions Deluge,스며드는 감정,เต็มไปด้วยความรู้สึก,students.json:Skills
+11_skill,技能,Skill.16016.Ex,超级偶像降临,スーパーアイドルランディング,超級偶像降臨,スーパーアイドルランディング,슈퍼 아이돌 랜딩,ซุปเปอร์ ไอดอล แลนด์ดิ้ง,students.json:Skills
+11_skill,技能,Skill.16016.Public,决定是你了,あなたに決めました,決定是你了,あなたに決めました,콕 찍어 가리키기,ฉันเลือกคุณค่ะ,students.json:Skills
+11_skill,技能,Skill.16016.Passive,长时演唱会,長時間ライブ,長時演唱會,長時間ライブ,장시간 라이브,ไลฟ์อันแสนยาวนาน,students.json:Skills
+11_skill,技能,Skill.16016.WeaponPassive,长时演唱会＋,長時間ライブ+,長時演唱會＋,長時間ライブ+,장시간 라이브+,ไลฟ์อันแสนยาวนาน+,students.json:Skills
+11_skill,技能,Skill.16016.ExtraPassive,粉丝的声援,ファンの声援,粉絲的聲援,ファンの声援,팬들의 성원,เสียงเชียร์ของแฟนๆ,students.json:Skills
+11_skill,技能,Skill.20000.Ex,会痛的概率很高哦,これは高確率で痛いよ,這有高機率會痛唷,This Is Gonna Hurt,아플 확률이 높아,โอกาสเจ็บเพิ่มขึ้น,students.json:Skills
+11_skill,技能,Skill.20000.Public,火力应该充足吧,火力は十分,火力十足,Ample Firepower,화력은 충분할지도,ช็อตทรงพลัง,students.json:Skills
+11_skill,技能,Skill.20000.GearPublic,火力充足＋,火力は十分+,火力は十分+,Ample Firepower+,화력은 충분할지도+,ช็อตทรงพลัง+,students.json:Skills
+11_skill,技能,Skill.20000.Passive,可能会有危险哦,これは危険だよ,這個很危險唷,Might Be Dangerous,위험할지도 몰라,อันตรายที่ไม่รู้ตัว,students.json:Skills
+11_skill,技能,Skill.20000.WeaponPassive,可能会有危险哦+,これは危険だよ+,這個很危險唷+,Might Be Dangerous+,위험할지도 몰라+,อันตรายที่ไม่รู้ตัว+,students.json:Skills
+11_skill,技能,Skill.20000.ExtraPassive,希望有所帮助哦,役に立つといいけど,要是有用就好了,Hope That Helps,도움이 되길 바라,ขอให้เป็นประโยชน์นะ,students.json:Skills
+11_skill,技能,Skill.20001.Ex,目标，排除,ターゲット、排除する,目標，排除,Target Removal,"대상, 삭제",กำจัดเป้าหมาย,students.json:Skills
+11_skill,技能,Skill.20001.Public,火力支援，开始,火力支援、開始,火力支援，開始,Supporting Fire,"화력, 지원",เสริมกำลัง,students.json:Skills
+11_skill,技能,Skill.20001.Passive,武装强化，完成,武装強化、完了,武裝強化，完成,Weapon Upgrade,"무장, 강화",เสริมอาวุธ,students.json:Skills
+11_skill,技能,Skill.20001.WeaponPassive,武装强化，完成+,武装強化、完了+,武裝強化，完成+,Weapon Upgrade+,"무장, 강화+",เสริมอาวุธ+,students.json:Skills
+11_skill,技能,Skill.20001.ExtraPassive,支援行动，开始,支援活動、開始,支援活動，開始,Ally Reinforcement,"아군, 지원",สนับสนุนพวกพ้อง,students.json:Skills
+11_skill,技能,Skill.20002.Ex,小爷的杰作！,ぼく様の傑作なのだ！,這是我的傑作！,"Voila, My Masterpiece!",나님의 걸작이라고!,สุดยอดงานชิ้นเอก!,students.json:Skills
+11_skill,技能,Skill.20002.Public,新的实验！,新しい実験なのだ！,這是新的實驗！,A New Experiment!,새로운 실험이야!,การทดลองครั้งใหม่,students.json:Skills
+11_skill,技能,Skill.20002.Passive,小爷我就是伟大！,ぼく様はやっぱり偉大なのだ！,我果然很偉大！,I Am the Greatest!,나님은 역시 위대해!,นักเรียนยอดฝีมือ!,students.json:Skills
+11_skill,技能,Skill.20002.WeaponPassive,小爷我就是伟大！+,ぼく様はやっぱり偉大なのだ！+,我果然很偉大！+,I Am the Greatest!+,나님은 역시 위대해!+,นักเรียนยอดฝีมือ!+,students.json:Skills
+11_skill,技能,Skill.20002.ExtraPassive,尽管相信小爷我吧！,ぼく様だけを信じてて！,相信我就對了！,I've Got This!,나님만 믿으라고!,เชื่อมือฉันได้เลย!,students.json:Skills
+11_skill,技能,Skill.20003.Ex,正义的一击,正義の一撃,正義的一擊,Strike of Justice,정의의 일격,ไม้ตายแห่งยุติธรรม,students.json:Skills
+11_skill,技能,Skill.20003.Public,正义的审判,正義の決断,正義的決斷,Righteous Justice,정의의 심판,พิพากษายุติธรรม,students.json:Skills
+11_skill,技能,Skill.20003.GearPublic,正义的审判＋,正義の決断+,正義的決斷＋,Righteous Justice+,정의의 심판+,พิพากษายุติธรรม+,students.json:Skills
+11_skill,技能,Skill.20003.Passive,正义的气息,正義の気概,正義的氣概,Breath of Justice,정의의 숨결,จิตวิญญาณยุติธรรม,students.json:Skills
+11_skill,技能,Skill.20003.WeaponPassive,正义的气息+,正義の気概+,正義的氣概+,Breath of Justice+,정의의 숨결+,จิตวิญญาณยุติธรรม+,students.json:Skills
+11_skill,技能,Skill.20003.ExtraPassive,正义的纽带,正義の結束,正義的團結,Binding Justice,정의의 결속,เอกภาพแห่งยุติธรรม,students.json:Skills
+11_skill,技能,Skill.20004.Ex,正义的洗礼,正義の洗礼,正義的洗禮,Barrage of Justice,정의의 세례,การล้างบาปแห่งความยุติธรรม,students.json:Skills
+11_skill,技能,Skill.20004.Public,正义的联合,正義の連携,正義的聯合,Solidarity of Justice,정의의 연대,รวมพลังความยุติธรรม,students.json:Skills
+11_skill,技能,Skill.20004.Passive,正义的目光,正義の眼差し,正義的凝視,Gaze of Justice,정의의 시선,สายตาแห่งความยุติธรรม,students.json:Skills
+11_skill,技能,Skill.20004.WeaponPassive,正义的目光+,正義の眼差し+,正義的凝視+,Gaze of Justice+,정의의 시선+,สายตาแห่งความยุติธรรม+,students.json:Skills
+11_skill,技能,Skill.20004.ExtraPassive,正义的庇护,正義の加護,正義的加護,Blessing of Justice,정의의 가호,ความคุ้มครองแห่งความยุติธรรม,students.json:Skills
+11_skill,技能,Skill.20005.Ex,小小十字号，拜托了！,クルセイダーちゃん、お願いします！,十字軍醬，拜託你了！,Crusadie Backup!,"크루세이더 쨩, 부탁해요!",ครูเซเดอร์จัง รบกวนด้วยนะคะ!,students.json:Skills
+11_skill,技能,Skill.20005.Public,佩洛洛大人的一击,ペロロ様の一撃,佩洛洛大人的一擊,Peroro's Strike,페로로 님의 일격,ไม้ตายของท่านเพโรโร่,students.json:Skills
+11_skill,技能,Skill.20005.GearPublic,佩洛洛大人的一击+,ペロロ様の一撃+,佩洛洛大人的一擊+,Peroro's Strike+,페로로 님의 일격+,ไม้ตายของท่านเพโรโร่+,students.json:Skills
+11_skill,技能,Skill.20005.Passive,收藏家的斗志,コレクターの闘志,收藏家的鬥志,Collector's Drive,수집가의 투지,ความมุ่งมั่นของนักสะสม,students.json:Skills
+11_skill,技能,Skill.20005.WeaponPassive,收藏家的斗志+,コレクターの闘志+,收藏家的鬥志+,Collector's Drive+,수집가의 투지+,ความมุ่งมั่นของนักสะสม+,students.json:Skills
+11_skill,技能,Skill.20005.ExtraPassive,愤怒阿德利的庇护,アングリーアデリーさんの加護,憤怒阿德利的加護,Angry Adelie's Blessing,앵그리 아델리 씨의 가호,คุณแองกี้อาเดลีคุ้มครอง,students.json:Skills
+11_skill,技能,Skill.20006.Ex,这是小爷我的礼物！,ぼく様からのプレゼントなのだ！,這是我送的禮物！,A Gift from Me!,나님의 선물이야!,ของขวัญจากท่านซายะ!,students.json:Skills
+11_skill,技能,Skill.20006.Public,实验永无止境！,探究に終わりはない！,探究沒有終點！,The Experiments Must Continue!,실험은 멈추지 않아!,การทดลองไม่มีวันหยุด!,students.json:Skills
+11_skill,技能,Skill.20006.GearPublic,实验永无止境！+,探究に終わりはない！+,探究沒有終點！+,The Experiments Must Continue!+,실험은 멈추지 않아!+,การทดลองไม่มีวันหยุด!+,students.json:Skills
+11_skill,技能,Skill.20006.Passive,专注力秘药,専心の秘薬,專心的秘藥,Focus Elixir,집중의 비약,สมาธิพุ่งพรวด,students.json:Skills
+11_skill,技能,Skill.20006.WeaponPassive,专注力秘药＋,専心の秘薬+,專心的秘藥+,Focus Elixir+,집중의 비약+,สมาธิพุ่งพรวด+,students.json:Skills
+11_skill,技能,Skill.20006.ExtraPassive,这药哪里可疑啦！,怪しい薬じゃないってば！,不是什麼奇怪的藥！,This Isn't Suspicious!,수상한 약이 아니라고!,ไม่ใช่ยาที่น่าสงสัยสักหน่อย!,students.json:Skills
+11_skill,技能,Skill.20007.Ex,每时每刻，倾注真心！,この一瞬一瞬に、心を込めて！,誠心誠意，面對每個瞬間！,My Heart in This Moment!,"이 순간순간에, 마음을 담아서!",เต็มที่ไปกับช่วงเวลานี้เลย!,students.json:Skills
+11_skill,技能,Skill.20007.Public,初音未来的热情,初音ミクの情熱,初音未來的熱情,Hatsune Miku's Passion,하츠네 미쿠의 열정,ความร้อนแรงของฮัตสึเนะ มิกุ,students.json:Skills
+11_skill,技能,Skill.20007.Passive,初音未来的声援,初音ミクの声援,初音未來的聲援,Hatsune Miku's Support,하츠네 미쿠의 응원,เสียงเชียร์ของฮัตสึเนะ มิกุ,students.json:Skills
+11_skill,技能,Skill.20007.WeaponPassive,初音未来的声援+,初音ミクの声援＋,初音未來的聲援+,Hatsune Miku's Support+,하츠네 미쿠의 응원+,เสียงเชียร์ของฮัตสึเนะ มิกุ+,students.json:Skills
+11_skill,技能,Skill.20007.ExtraPassive,初音未来的祝福,初音ミクの祝福,初音未來的祝福,Hatsune Miku's Blessing,하츠네 미쿠의 축복,คำอวยพรของฮัตสึเนะ มิกุ,students.json:Skills
+11_skill,技能,Skill.20008.Ex,共享侦察数据,偵察データを共有します,共享偵查數據,Reconnaissance Report,정찰의 결과입니다.,นี่คือผลของการตรวจตราค่ะ,students.json:Skills
+11_skill,技能,Skill.20008.Public,补给作战B计划,補給プランB,補給B計畫,Supply Operation Plan B,보급 작전 플랜B,แผนปฏิบัติการเสบียง B,students.json:Skills
+11_skill,技能,Skill.20008.Passive,补给支援，开始,支援を開始します,開始支援,Beginning Supply Support,"보급 지원, 시작합니다.",เริ่มสนับสนุนเสบียงได้ค่ะ,students.json:Skills
+11_skill,技能,Skill.20008.WeaponPassive,补给支援，开始+,支援を開始します+,開始支援+,Beginning Supply Support+,"보급 지원, 시작합니다.+",เริ่มสนับสนุนเสบียงได้ค่ะ+,students.json:Skills
+11_skill,技能,Skill.20008.ExtraPassive,战术辅助，开始,サポートはお任せください,支援就交給我吧,Beginning Tactical Support,"전술 보조, 시작합니다.",เริ่มกลยุทธ์เสริมได้เลยค่ะ,students.json:Skills
+11_skill,技能,Skill.20009.Ex,铲除1号，出击！,粛清君1号、出撃！,肅清君1號，出擊！,"Purginator No. 1, Mobilize!","숙청군 1호, 출격이다!",ลุยเลย ผู้กวาดล้าง No.1!,students.json:Skills
+11_skill,技能,Skill.20009.Public,瞄准，铲除！,照準よし、粛清だぁ！,瞄準好了，肅清！,"Aim, Purge!","조준, 숙청!",เล็งลงโทษ!,students.json:Skills
+11_skill,技能,Skill.20009.GearPublic,瞄准，铲除！+,照準よし、粛清だぁ！+,瞄準好了，肅清！+,"Aim, Purge!+","조준, 숙청!+",เล็งลงโทษ!+,students.json:Skills
+11_skill,技能,Skill.20009.Passive,胡子的愤怒！,髭の怒りに触れたな！？,觸犯了鬍子的憤怒！？,Mustache Rage!,수염의 분노!,พลังโกรธของหนวด!,students.json:Skills
+11_skill,技能,Skill.20009.WeaponPassive,胡子的愤怒！+,髭の怒りに触れたな！？+,觸犯了鬍子的憤怒！？+,Mustache Rage!+,수염의 분노!+,พลังโกรธของหนวด!+,students.json:Skills
+11_skill,技能,Skill.20009.ExtraPassive,这就是胡子的威力！,これが髭の威光だ！,這就是鬍子的威力！,Power of the 'Stache!,이것이 수염의 위력이다!,นี่แหละพลังของหนวด!,students.json:Skills
+11_skill,技能,Skill.20010.Ex,227号温泉乡，开业啦！,227号温泉郷、営業開始です！,227號溫泉浴場，開始營業！,"Hot Springs Resort No. 227, Open for Business!","227호 온천장, 개장합니다!",ออนเซ็น No.227 เปิดให้บริการแล้วค่ะ!,students.json:Skills
+11_skill,技能,Skill.20010.Public,老板娘的待客之道,女将のおもてなし,女將的待客之道,The Hostess' Welcome,여주인의 접객,กิจการของนายหญิง,students.json:Skills
+11_skill,技能,Skill.20010.Passive,水疗的功效,湯治の効能,溫泉治療的功效,Hot Springs Therapy,탕치의 효능,ผลการรักษาด้วยออนเซ็น,students.json:Skills
+11_skill,技能,Skill.20010.WeaponPassive,水疗的功效+,湯治の効能+,溫泉治療的功效+,Hot Springs Therapy+,탕치의 효능+,ผลการรักษาด้วยออนเซ็น+,students.json:Skills
+11_skill,技能,Skill.20010.ExtraPassive,温泉的热气,温泉地の空気感,溫泉勝地的氛圍,Hot Springs Heat,온천의 열기,ความร้อนจากออนเซ็น,students.json:Skills
+11_skill,技能,Skill.20011.Ex,别妨碍我兼职！,バイトの邪魔よ！,妨礙到打工了！,Part-Time Interference!,아르바이트에 방해야!,มันรบกวนงานพาร์ทไทม์นะ!,students.json:Skills
+11_skill,技能,Skill.20011.Public,作为巫女而祈祷！,巫女さんとして、祈ってあげる！,以巫女的身分為你祈禱！,A Miko Cheers for Everyone!,모두! 무녀가 응원해 줄게!,มิโกะคนนี้จะให้กำลังใจทุกคนเอง!,students.json:Skills
+11_skill,技能,Skill.20011.Passive,兼职巫女的倔强,巫女さんバイトの拘り,巫女打工的堅持,Full-Time Stubbornness,무녀 알바생의 고집,ความดื้อของมิโกะพาร์ทไทม์,students.json:Skills
+11_skill,技能,Skill.20011.WeaponPassive,兼职巫女的倔强+,巫女さんバイトの拘り+,巫女打工的堅持+,Full-Time Stubbornness+,무녀 알바생의 고집+,ความดื้อของมิโกะพาร์ทไทม์+,students.json:Skills
+11_skill,技能,Skill.20011.ExtraPassive,兼职巫女的执念,巫女さんバイトの執念,巫女打工的執念,Full-Time Tenacity,무녀 알바생의 집념,ความมุ่งมั่นของมิโกะพาร์ทไทม์,students.json:Skills
+11_skill,技能,Skill.20012.Ex,救护车紧急出动,緊急出動,緊急出動,Emergency Dispatch,응급차량 출동,รถฉุกเฉินออกโรง,students.json:Skills
+11_skill,技能,Skill.20012.Public,注射能量补剂,エネルギー剤注入,能量劑注入,Energy Injection,에너지제 주입,เติมพลังงาน,students.json:Skills
+11_skill,技能,Skill.20012.Passive,紧急支援,救急支援,急救支援,Emergency Assist,응급 지원,สนับสนุนฉุกเฉิน,students.json:Skills
+11_skill,技能,Skill.20012.WeaponPassive,紧急支援+,救急支援+,急救支援+,Emergency Assist+,응급 지원+,สนับสนุนฉุกเฉิน+,students.json:Skills
+11_skill,技能,Skill.20012.ExtraPassive,越快越好,可及的速やかに,盡快地,As Soon as Possible,가급적 신속하게,เร็วสุดชีวิต,students.json:Skills
+11_skill,技能,Skill.20013.Ex,覆写,オーバーライド,Override,Override,오버라이드,โอเวอร์ไรด์,students.json:Skills
+11_skill,技能,Skill.20013.Public,潜入后门,イントゥ・ザ・バックドア,Into The Backdoor,Through the Backdoor,인투 더 백도어,อินทูเดอะแบ็กดอร์,students.json:Skills
+11_skill,技能,Skill.20013.Passive,利用漏洞,エクスプロイト,Exploit,Exploit,익스플로잇,เจาะระบบ,students.json:Skills
+11_skill,技能,Skill.20013.WeaponPassive,利用漏洞+,エクスプロイト+,Exploit+,Exploit+,익스플로잇+,เจาะระบบ+,students.json:Skills
+11_skill,技能,Skill.20013.ExtraPassive,构筑防火墙,ファイアウォール構築,防火牆構築,Building a Firewall,방화벽 구축,ตั้งไฟร์วอลล์,students.json:Skills
+11_skill,技能,Skill.20014.Ex,开始火力支援！,支援射撃、開始！,支援射擊，開始！,Rain Support Fire!,지원사격 개시!,ยิงสนับสนุนได้เลย!,students.json:Skills
+11_skill,技能,Skill.20014.Public,火力压制,制圧射撃,壓制射擊,Suppressive Fire,제압사격,รัวยิงกำราบ,students.json:Skills
+11_skill,技能,Skill.20014.Passive,精心维护,準備万端,一切準備就緒,Meticulous Maintenance,꼼꼼한 정비,ดูแลอุปกรณ์อย่างถี่ถ้วน,students.json:Skills
+11_skill,技能,Skill.20014.WeaponPassive,精心维护+,準備万端+,一切準備就緒+,Meticulous Maintenance+,꼼꼼한 정비+,ดูแลอุปกรณ์อย่างถี่ถ้วน+,students.json:Skills
+11_skill,技能,Skill.20014.ExtraPassive,尖兵的向导,ポイントマンの先導,先鋒的領導,Point Woman's Lead,포인트맨의 선도,การนำของพลชี้เป้า,students.json:Skills
+11_skill,技能,Skill.20015.Ex,信号弹，发射！！,信号弾、発射！！,信號彈，發射！！,Fire the Flare!,"신호탄, 발사!!",ยิงให้สัญญาณ!!,students.json:Skills
+11_skill,技能,Skill.20015.Public,独角仙护盾！,カブトムシシールド！,甲蟲之盾！,Herculean Beetle Shield!,장수풍뎅이 실드!,เกราะด้วงกว่างโกลเด้นเฮอร์คิวลิส!,students.json:Skills
+11_skill,技能,Skill.20015.GearPublic,独角仙之盾！＋,カブトムシシールド！+,甲蟲之盾！+,Herculean Beetle Shield!+,장수풍뎅이 실드!+,เกราะด้วงกว่างโกลเด้นเฮอร์คิวลิส!+,students.json:Skills
+11_skill,技能,Skill.20015.Passive,治愈波动！嘿呀！,癒しの波動、とりゃぁっ！,治癒的波動，接招！,Healing Waves! Hyah!,치유의 파동! 이야압!,รับไปเลย! คลื่นแห่งการบำบัด!,students.json:Skills
+11_skill,技能,Skill.20015.WeaponPassive,治愈波动！嘿呀！+,癒しの波動、とりゃぁっ！+,治癒的波動，接招！+,Healing Waves! Hyah!+,치유의 파동! 이야압!+,รับไปเลย! คลื่นแห่งการบำบัด!+,students.json:Skills
+11_skill,技能,Skill.20015.ExtraPassive,继续加油哦！,まだまだ頑張れるよ！,還能堅持下去唷！,I Can Try Harder!,아직 열심히 할 수 있어!,ยังตั้งใจได้อยู่นะ!,students.json:Skills
+11_skill,技能,Skill.20016.Ex,虎丸号，冲锋,行きますよ、虎丸,上吧，虎丸,"Let's Go, Toramaru",갑니다. 토라마루,ไปกันค่ะ โทระมารุ,students.json:Skills
+11_skill,技能,Skill.20016.Public,好麻烦……,めんどくさいですね……,真麻煩啊……,Annoying...,귀찮네요…….,น่ารำคาญจังค่ะ...,students.json:Skills
+11_skill,技能,Skill.20016.Passive,没办法了,仕方ありません,這也是沒辦法的事,Do I Have a Choice?,어쩔 수 없네요.,ช่วยไม่ได้นะคะ,students.json:Skills
+11_skill,技能,Skill.20016.WeaponPassive,没办法了+,仕方ありません+,這也是沒辦法的事+,Do I Have a Choice?+,어쩔 수 없네요.+,ช่วยไม่ได้นะคะ+,students.json:Skills
+11_skill,技能,Skill.20016.ExtraPassive,大家都认真点,しっかりしてください,請振作起來,Please Do Your Best,다들 제대로 해주세요.,ทุกคนเข้มแข็งไว้นะคะ,students.json:Skills
+11_skill,技能,Skill.20017.Ex,我，我来支援了！,い、今支援します！,我，我來支援了！,T-Take This!,"지, 지금 지원할게요!",จะยิงสนับสนุนให้เดี๋ยวนี้เลยค่ะ!,students.json:Skills
+11_skill,技能,Skill.20017.Public,会，会很疼哦！,い、痛くなりますよ！,會，會痛唷！,Th-This Is Gonna Hurt!,"마, 많이 아플 거에요!",มะ... มันจะเจ็บมากเลยนะคะ!,students.json:Skills
+11_skill,技能,Skill.20017.Passive,杂志上学到的知识,雑誌に書いてありました,雜誌上寫的,Magazine Knowledge,잡지에서 배운 지식,ความรู้ที่ได้จากนิตยสาร,students.json:Skills
+11_skill,技能,Skill.20017.WeaponPassive,杂志上学到的知识+,雑誌に書いてありました+,雜誌上寫的+,Magazine Knowledge+,잡지에서 배운 지식+,ความรู้ที่ได้จากนิตยสาร+,students.json:Skills
+11_skill,技能,Skill.20017.ExtraPassive,这是附录的力量！,付録の力です,附錄的力量,Bonus Power!,부록의 힘이에요!,นี่คือพลังของภาคผนวกค่ะ!,students.json:Skills
+11_skill,技能,Skill.20018.Ex,铁雨,鋼鉄の雨,鋼鐵之雨,Steel Rain,강철의 비,ฝนเหล็ก,students.json:Skills
+11_skill,技能,Skill.20018.Public,集中轰炸,集中砲火,集中砲火,Concentrated Gunfire,집중 포화,ระดมประกายไฟ,students.json:Skills
+11_skill,技能,Skill.20018.Passive,毁灭的快感,破滅の快感,破滅的快感,Doom-Inspired Pleasure,파멸의 쾌감,ความพังพินาศที่น่าพึงพอใจ,students.json:Skills
+11_skill,技能,Skill.20018.WeaponPassive,毁灭的快感+,破滅の快感+,破滅的快感+,Doom-Inspired Pleasure+,파멸의 쾌감+,ความพังพินาศที่น่าพึงพอใจ+,students.json:Skills
+11_skill,技能,Skill.20018.ExtraPassive,作战支援,作戦支援,作戰支援,Operation Support,작전 지원,สนับสนุนปฏิบัติการ,students.json:Skills
+11_skill,技能,Skill.20019.Ex,精心地准备,丁寧に準備します,精心地準備,Meticulous Preparations,"신중하게, 준비합니다.",เตรียมพร้อมอย่างถี่ถ้วนแล้วค่ะ,students.json:Skills
+11_skill,技能,Skill.20019.Public,优雅地扫除,優雅に掃除します,優雅地清掃,Immaculate Cleanup,"말끔하게, 청소합니다.",จะทำความสะอาดให้หมดจดเลยค่ะ,students.json:Skills
+11_skill,技能,Skill.20019.Passive,周密地捕捉,的確に捉えます,準確地捕捉,Close Capture,"면밀하게, 포착합니다.",จับกุมอย่างรอบคอบ,students.json:Skills
+11_skill,技能,Skill.20019.WeaponPassive,周密地捕捉+,的確に捉えます+,準確地捕捉+,Close Capture+,"면밀하게, 포착합니다.+",จับกุมอย่างรอบคอบ+,students.json:Skills
+11_skill,技能,Skill.20019.ExtraPassive,迅速地支援,迅速に支援します,迅速地支援,Rapid Support,"신속하게, 지원합니다.",สนับสนุนอย่างฉับไว,students.json:Skills
+11_skill,技能,Skill.20020.Ex,呵呵，见识一下我的实力吧,実力をお見せしましょう,見識我的實力吧,Hah! Look What I'm Made Of!,"후후, 실력을 보여드리죠.",ฮุฮุ ขอแสดงฝีมือหน่อยนะคะ,students.json:Skills
+11_skill,技能,Skill.20020.Public,有些令人意外呢,少し驚くかもしれませんね,可能會有點驚訝,You Might Be Surprised!,살짝 놀랄지도 모르겠네요.,อาจจะตกใจนิดหน่อยนะคะ,students.json:Skills
+11_skill,技能,Skill.20020.Passive,清纯的高岭之花,清楚な高嶺の花,清秀的高嶺之花,Clifftop Bloom,청초한 절벽 위의 꽃,ดอกไม้ริมหน้าผาแสนบริสุทธิ์,students.json:Skills
+11_skill,技能,Skill.20020.WeaponPassive,清纯的高岭之花+,清楚な高嶺の花+,清秀的高嶺之花+,Clifftop Bloom+,청초한 절벽 위의 꽃+,ดอกไม้ริมหน้าผาแสนบริสุทธิ์+,students.json:Skills
+11_skill,技能,Skill.20020.ExtraPassive,超天才病弱美少女黑客的真本事,超天才清楚系病弱美少女の真骨頂,超天才清楚系病弱美少女的真面目,True Worth of a Beautiful Super Genius Hacker,초천재병약미소녀해커의 진면목,ตัวตนของแฮ็กเกอร์ผู้มีรอยยิ้มฮีลใจเหมือนยาวิเศษ,students.json:Skills
+11_skill,技能,Skill.20021.Ex,礼物时间到~,プレゼントの時間ですよ～,禮物時間唷～,Time for Presents!,선물 시간이에요~,ถึงเวลาแจกของขวัญแล้ว~,students.json:Skills
+11_skill,技能,Skill.20021.Public,打起精神来！,元気出してください！,請打起精神！,Cheer Up!,기운 내세요!,ส่งกำลังใจให้นะ!,students.json:Skills
+11_skill,技能,Skill.20021.GearPublic,打起精神来！+,元気出してください！+,請打起精神！+,Cheer Up!+,기운 내세요!+,ส่งกำลังใจให้นะ!+,students.json:Skills
+11_skill,技能,Skill.20021.Passive,祝福的救护,祝福の救護,祝福的救護,Chant of Blessings,축복의 구호,พรบรรเทาทุกข์,students.json:Skills
+11_skill,技能,Skill.20021.WeaponPassive,祝福的救护+,祝福の救護+,祝福的救護+,Chant of Blessings+,축복의 구호+,พรบรรเทาทุกข์+,students.json:Skills
+11_skill,技能,Skill.20021.ExtraPassive,我会为你加油的！,応援しています！,為你加油！,I'm Rooting for You!,응원하고 있어요!,เชียร์อยู่นะ!,students.json:Skills
+11_skill,技能,Skill.20022.Ex,供餐部的御节料理,給食部のおせち,供給部的御節料理,School Lunch Club's Osechi,급양부의 오세치,โอเซจิของชมรมโภชนาการ,students.json:Skills
+11_skill,技能,Skill.20022.Public,试吃时间！,試食タイム！,試吃時間！,Tasting Time!,시식 시간!,ได้เวลาชิมอาหาร!,students.json:Skills
+11_skill,技能,Skill.20022.Passive,最棒的一口,最高の一口,最棒的一口,The Best Bite,최고의 한 입,คำในฝัน,students.json:Skills
+11_skill,技能,Skill.20022.WeaponPassive,最棒的一口+,最高の一口+,最棒的一口+,The Best Bite+,최고의 한 입+,คำในฝัน+,students.json:Skills
+11_skill,技能,Skill.20022.ExtraPassive,供餐部的零食,給食部の差し入れ,供給部的慰勞品,School Lunch Club's Snack,급양부의 간식,ของว่างของชมรมโภชนาการ,students.json:Skills
+11_skill,技能,Skill.20023.Ex,公共安全局局长的手腕,公安局長の手腕,公安局長的手腕,Public Peace Bureau Director's Resourcefulness,공안국장의 수완,ทักษะของหัวหน้ากรมฯ,students.json:Skills
+11_skill,技能,Skill.20023.Public,严格的审讯,苛烈な尋問,殘酷的審問,Harsh Interrogation,가혹한 취조,สอบสวนหฤโหด,students.json:Skills
+11_skill,技能,Skill.20023.Passive,疯狗的执念,狂犬の執念,狂犬的執念,Feral Hound's Tenacity,미친개의 집념,ความมุ่งมั่นของหมาบ้า,students.json:Skills
+11_skill,技能,Skill.20023.WeaponPassive,疯狗的执念+,狂犬の執念+,狂犬的執念+,Feral Hound's Tenacity+,미친개의 집념+,ความมุ่งมั่นของหมาบ้า+,students.json:Skills
+11_skill,技能,Skill.20023.ExtraPassive,公共安全局特制子弹,公安局特製弾,公安局特製彈藥,Public Peace Bureau Special Ammo,공안국 특제 탄약,กระสุนพิเศษของกรมความมั่นคงสาธารณะ,students.json:Skills
+11_skill,技能,Skill.20024.Ex,Time On Target,Time On Target,Time On Target,Time On Target,Time On Target,Time On Target,students.json:Skills
+11_skill,技能,Skill.20024.Public,Afternoon Tea,Afternoon Tea,Afternoon Tea,Afternoon Tea,Afternoon Tea,Afternoon Tea,students.json:Skills
+11_skill,技能,Skill.20024.Passive,Pride of Tea Party,Pride of Tea Party,Pride of Tea Party,Pride of Tea Party,Pride of Tea Party,Pride of Tea Party,students.json:Skills
+11_skill,技能,Skill.20024.WeaponPassive,Pride of Tea Party+,Pride of Tea Party+,Pride of Tea Party+,Pride of Tea Party+,Pride of Tea Party+,Pride of Tea Party+,students.json:Skills
+11_skill,技能,Skill.20024.ExtraPassive,Noblesse oblige,Noblesse oblige,Noblesse Oblige,Noblesse Oblige,Noblesse oblige,Noblesse Oblige,students.json:Skills
+11_skill,技能,Skill.20025.Ex,谁允许你了……？！,誰が許可しましたか……？,有人允許你嗎……！？,Who Approved This...?!,누가 허락했죠…!?,ใครอนุญาตกันคะ!?,students.json:Skills
+11_skill,技能,Skill.20025.Public,好好打招呼,ちゃんとした挨拶,確實打招呼,A Proper Greeting,확실하게 인사하기,การทักทายอย่างถูกต้อง,students.json:Skills
+11_skill,技能,Skill.20025.Passive,不可原谅,許せない許せない,不可原諒不可原諒,"Unforgivable, Unforgivable!!",용서못해용서못해,ยกโทษให้ไม่ได้ ยกโทษให้ไม่ได้,students.json:Skills
+11_skill,技能,Skill.20025.WeaponPassive,不可原谅+,許せない許せない+,不可原諒不可原諒+,"Unforgivable, Unforgivable!!+",용서못해용서못해+,ยกโทษให้ไม่ได้ ยกโทษให้ไม่ได้,students.json:Skills
+11_skill,技能,Skill.20025.ExtraPassive,为大家着想的心,真心を込めて,懷抱真誠的心,All Her Courage,모두를 위한 마음,หัวใจที่ทำเพื่อทุกคน,students.json:Skills
+11_skill,技能,Skill.20026.Ex,振作起来！,奮い立て！,奮起吧！,Onward and Onward!,전진 또 전진!,เดินหน้าต่อเนื่อง!,students.json:Skills
+11_skill,技能,Skill.20026.Public,众志成城,一つになった意志,合而為一的意志,United Will,하나 된 의지,รวมใจเป็นหนึ่ง,students.json:Skills
+11_skill,技能,Skill.20026.Passive,联起手来,手を取り合って,手牽著手,Hand in Hand,손에 손잡고,จับมือรวมพลัง,students.json:Skills
+11_skill,技能,Skill.20026.WeaponPassive,联起手来＋,手を取り合って+,手牽著手+,Hand in Hand+,손에 손잡고+,จับมือรวมพลัง+,students.json:Skills
+11_skill,技能,Skill.20026.ExtraPassive,劳动的果实,労働の結実,勞動的成果,Fruits of Labor,노동의 결실,รางวัลของหยาดเหงื่อ,students.json:Skills
+11_skill,技能,Skill.20027.Ex,大家伙,大物だ,是條大魚,It's a Big Catch,월척이다,ได้ปลาตัวใหญ่ล่ะ,students.json:Skills
+11_skill,技能,Skill.20027.Public,「就在这儿」,「ちょうどここに」,「就是這裡」,"""Coincidental""",'마침 여기',"""แค่ที่นี่""",students.json:Skills
+11_skill,技能,Skill.20027.Passive,浮跃荡漾,少し浮かれて,略顯興奮,Strangely Excited,묘하게 들뜬,ชักจะร้อนแล้วสิ,students.json:Skills
+11_skill,技能,Skill.20027.WeaponPassive,浮跃荡漾＋,少し浮かれて＋,略顯興奮+,Strangely Excited+,묘하게 들뜬+,ชักจะร้อนแล้วสิ+,students.json:Skills
+11_skill,技能,Skill.20027.ExtraPassive,强健身体,鍛えられた肉体,經過鍛鍊的肉體,Trained Health,단련된 체력,พลังที่ผ่านการฝึกฝน,students.json:Skills
+11_skill,技能,Skill.20028.Ex,欢愉戏水,楽しい水遊び,激烈的冷水澡,Overflowing Water Barrage,조금 과한 물세례,ขอสาดน้ำแรงๆ หน่อยนะคะ,students.json:Skills
+11_skill,技能,Skill.20028.Public,清凉浴水,涼しい水浴び,痛快的冷水澡,Chilled Water Barrage,시원한 물세례,สาดน้ำเย็นๆ ชื่นใจค่ะ,students.json:Skills
+11_skill,技能,Skill.20028.Passive,远征队的热忱,遠征隊の情熱,遠征隊的熱情,Passion of the Expedition,원정대의 열정,ความมุ่งมั่นของคณะสำรวจ,students.json:Skills
+11_skill,技能,Skill.20028.WeaponPassive,远征队的热忱＋,遠征隊の情熱+,遠征隊的熱情+,Passion of the Expedition+,원정대의 열정+,ความมุ่งมั่นของคณะสำรวจ+,students.json:Skills
+11_skill,技能,Skill.20028.ExtraPassive,慈爱之手,慈愛の手,不分你我的援手,Helping Hands,모두를 돕는 손,มือนี้พร้อมช่วยเหลือทุกคนค่ะ,students.json:Skills
+11_skill,技能,Skill.20029.Ex,夏天来了呢！,夏ですね！,是夏天呢！,It's Summertime!,여름이네요!,ฤดูร้อนเริ่มแล้วค่ะ!,students.json:Skills
+11_skill,技能,Skill.20029.Public,需要这个吗？,これが必要ですか？,需要這個嗎？,You Need This?,이게 필요하시죠?,ต้องใช้สิ่งนี้ใช่มั้ยคะ?,students.json:Skills
+11_skill,技能,Skill.20029.Passive,我准备了很多哦,たくさん用意しましたよ,準備了很多唷,I'm Ready!,많이 준비했답니다.,พร้อมสุดๆ แล้วค่ะ,students.json:Skills
+11_skill,技能,Skill.20029.WeaponPassive,我准备了很多哦＋,たくさん用意しましたよ+,準備了很多唷+,I'm Ready!+,많이 준비했답니다.+,พร้อมสุดๆ แล้วค่ะ+,students.json:Skills
+11_skill,技能,Skill.20029.ExtraPassive,有我在，请不必担心,心配しないでください。私がついていますから,請別擔心，還有我在,I'm Here for You,걱정 마세요. 제가 있잖아요.,ไม่ต้องห่วงค่ะ มีฉันอยู่ทั้งคน,students.json:Skills
+11_skill,技能,Skill.20030.Ex,美食家的推荐,美食家のオススメ,美食家的提議,The Gourmand's Proposal,미식가의 제안,ข้อเสนอของนักชิม,students.json:Skills
+11_skill,技能,Skill.20030.Public,美食家的接近,美食家のアプローチ,謹慎接觸,Cautious Approach,신중한 접근법,วิธีเข้าหาอย่างสุขุม,students.json:Skills
+11_skill,技能,Skill.20030.Passive,治愈甜品,癒やしのスイーツ,Fromage Blanc,Fromage Blanc,프로마주 블랑,ฟรอมาฌ บล็อง,students.json:Skills
+11_skill,技能,Skill.20030.WeaponPassive,治愈甜品＋,癒やしのスイーツ+,Fromage Blanc+,Fromage Blanc+,프로마주 블랑+,ฟรอมาฌ บล็อง+,students.json:Skills
+11_skill,技能,Skill.20030.ExtraPassive,运动正餐,スポーツ正餐,運動全餐,Athlete's Dinner,스포츠 정찬,มื้อเย็นของนักกีฬา,students.json:Skills
+11_skill,技能,Skill.20031.Ex,时雨特制果味奶,シグレ特製フルーツ牛乳,時雨特製水果牛奶,Shigure's Special Fruit Milk,시구레 특제 후르츠 밀크,นมรสผลไม้สูตรพิเศษของชิกุเระ,students.json:Skills
+11_skill,技能,Skill.20031.Public,来一口，如何？,一口、どう？,要吃一口嗎？,Want a Bite?,"한 입, 먹을래?",ชิมสักคำไหม?,students.json:Skills
+11_skill,技能,Skill.20031.Passive,四叠半室的温暖,四畳半の温もり,四疊半的溫暖,Four-and-a-Half Tatami Mats,다다미 넉 장 반의 온기,ความอบอุ่นของเสื่อทาทามิสี่ผืนครึ่ง,students.json:Skills
+11_skill,技能,Skill.20031.WeaponPassive,四叠半室的温暖＋,四畳半の温もり+,四疊半的溫暖+,Four-and-a-Half Tatami Mats+,다다미 넉 장 반의 온기+,ความอบอุ่นของเสื่อทาทามิสี่ผืนครึ่ง+,students.json:Skills
+11_skill,技能,Skill.20031.ExtraPassive,酥麻风味,ピリッとした風味,火辣的餘韻,Sharp Aftertaste,아릿한 끝맛,รสเผ็ดปลาย,students.json:Skills
+11_skill,技能,Skill.20032.Ex,可靠支援,頼もしい支援,可靠的後援,Dependable Aid,믿음직한 지원군,กำลังเสริมที่พึ่งพาได้,students.json:Skills
+11_skill,技能,Skill.20032.Public,艾米的自信之作,エイミの自信作,英美的自信之作,An Eimi Original,에이미의 자신작,ผลงานที่ภูมิใจของเอมิ,students.json:Skills
+11_skill,技能,Skill.20032.Passive,如鱼得水,水を得た魚,如魚得水,Fish in Water,물 만난 고기,ถูกที่ถูกทาง,students.json:Skills
+11_skill,技能,Skill.20032.WeaponPassive,如鱼得水＋,水を得た魚+,如魚得水+,Fish in Water+,물 만난 고기+,ถูกที่ถูกทาง+,students.json:Skills
+11_skill,技能,Skill.20032.ExtraPassive,好像很滑,滑るように,滑溜溜地,Slippery Slope,미끄러지듯이,เคลื่อนตัวลื่นไหล,students.json:Skills
+11_skill,技能,Skill.20033.Ex,搞、搞错了！,ま、間違えたあ！,搞，搞錯了！,I-I Made a Mistake!,"시, 실수했다!",พะ... พลาดซะได้!,students.json:Skills
+11_skill,技能,Skill.20033.Public,听着就好了！,聞くが良い！,給我仔細聽！,Listen Carefully!,제대로 들어 두도록!,ตั้งใจฟังที่เราพูดทุกคำด้วย!,students.json:Skills
+11_skill,技能,Skill.20033.Passive,万魔殿的伟大议长,万魔殿の偉大な議長,萬魔殿偉大的議長,Great Chairman,만마전의 위대한 의장님,ท่านประธานผู้ยิ่งใหญ่แห่งแพนเดโมเนียม โซไซตี้,students.json:Skills
+11_skill,技能,Skill.20033.WeaponPassive,万魔殿的伟大议长＋,万魔殿の偉大な議長+,萬魔殿偉大的議長+,Great Chairman+,만마전의 위대한 의장님+,ท่านประธานผู้ยิ่งใหญ่แห่งแพนเดโมเนียม โซไซตี้+,students.json:Skills
+11_skill,技能,Skill.20033.ExtraPassive,天下无敌！格黑娜的真正领袖！,天下無敵！ゲヘナの真のリーダー！,天下無敵！格黑娜真正的領袖！,Invincible! The True Leader of Gehenna!,천하무적! 게헨나를 이끄는 진정한 리더!,ผู้นำที่แท้จริงของเกเฮนน่า! ผู้ไร้เทียมทาน!,students.json:Skills
+11_skill,技能,Skill.20034.Ex,暂时借过来用了！,少しお借りしました！,暫時借用一下！,I'm Just Borrowing It!,잠시 빌렸답니다!,ขอยืมสักครู่นะคะ!,students.json:Skills
+11_skill,技能,Skill.20034.Public,这样的如何？,こんなのはどうですか？,這種的如何？,Something Like This?,이런 건 어떠신가요?,ถ้าเป็นแบบนี้ล่ะคะ?,students.json:Skills
+11_skill,技能,Skill.20034.Passive,我不客气了！,いただきます！,我要開動囉！,Thank You for the Meal!,잘 먹겠습니다!,จะทานแล้วนะคะ!,students.json:Skills
+11_skill,技能,Skill.20034.WeaponPassive,我不客气了！＋,いただきます！+,我要開動囉！+,Thank You for the Meal!+,잘 먹겠습니다!+,จะทานแล้วนะคะ!+,students.json:Skills
+11_skill,技能,Skill.20034.ExtraPassive,有人还想要？,もっとほしい方？,還有人需要嗎？,Who Wants Seconds?,더 필요하신 분?,มีใครอยากเติมเพิ่มไหมคะ?,students.json:Skills
+11_skill,技能,Skill.20035.Ex,修行部部长的导游,修行部長のガイド,修行部長的導覽,President's Guidance,수행부장의 가이드,การนำทางของหัวหน้าชมรมฝึกฝน,students.json:Skills
+11_skill,技能,Skill.20035.Public,安眠指南,安眠のご案内,睡眠是良藥,Good Sleep Is the Best Medicine,숙면이 보약,การนอนหลับคือยาชั้นเลิศ,students.json:Skills
+11_skill,技能,Skill.20035.Passive,导游的自豪,ガイドの自負,導覽員的自豪,The Pride of a Guide,가이드의 자부심,ความภูมิใจของไกด์,students.json:Skills
+11_skill,技能,Skill.20035.WeaponPassive,导游的自豪＋,ガイドの自負+,導覽員的自豪+,The Pride of a Guide+,가이드의 자부심+,ความภูมิใจของไกด์+,students.json:Skills
+11_skill,技能,Skill.20035.ExtraPassive,接待，接待,サービス、サービス,服務，服務,Excellent Service,"서비스, 서비스",บริการ บริการ,students.json:Skills
+11_skill,技能,Skill.20036.Ex,愤怒波涛,怒りの波,怒濤,Furious Wave,성난 파도,คลื่นซัดกระหน่ำ,students.json:Skills
+11_skill,技能,Skill.20036.Public,噗通水花,ちゃぽん、ちゃぽん！,嘩啦嘩啦，嘩啦！,"Splish, Splash, Sploosh!","퐁당퐁당, 퐁당!",เล่นน้ำจ๋อมแจ๋ม!,students.json:Skills
+11_skill,技能,Skill.20036.Passive,干劲满满,やる気満々,幹勁十足,Extreme Zeal,의욕 만만,แรงใจเต็มเปี่ยม,students.json:Skills
+11_skill,技能,Skill.20036.WeaponPassive,干劲满满＋,やる気満々+,幹勁十足+,Extreme Zeal+,의욕 만만+,แรงใจเต็มเปี่ยม+,students.json:Skills
+11_skill,技能,Skill.20036.ExtraPassive,呀，好冷！,あっ、冷たい！,哇，好冰！,"Yikes, That’s Freezing!","앗, 차가워!",อ๊ะ เย็นจัง!,students.json:Skills
+11_skill,技能,Skill.20037.Ex,要冷静下吗,頭冷やそっか,清爽的小把戲,Cool Deception,시원한 꼼수,แผนดับร้อน,students.json:Skills
+11_skill,技能,Skill.20037.Public,非做不可嘛～？,やんなきゃダメ～？,非做不可嗎？,Do I Really Have To?,꼭 해야 해?,ต้องทำจริงๆ เหรอ?,students.json:Skills
+11_skill,技能,Skill.20037.Passive,摸鱼法则,サボりルール,偷懶的美學,The Art of Playing Hooky,땡땡이의 미학,สุนทรีย์แห่งการอู้งาน,students.json:Skills
+11_skill,技能,Skill.20037.WeaponPassive,摸鱼法则＋,サボりルール＋,偷懶的美學+,The Art of Playing Hooky+,땡땡이의 미학+,สุนทรีย์แห่งการอู้งาน+,students.json:Skills
+11_skill,技能,Skill.20037.ExtraPassive,稍微麻烦下你啦～,ちょっと頼むね～,拜託一下囉～,Do Me a Favor!,부탁 좀 할게~,รบกวนด้วยนะ~,students.json:Skills
+11_skill,技能,Skill.20038.Ex,货郎,コロブチカ,貨郎,コロブチカ,KOROBUSHKA,Korobushka,students.json:Skills
+11_skill,技能,Skill.20038.Public,喀秋莎,カチューシャ,喀秋莎,カチューシャ,KATYUSHA,Katyusha,students.json:Skills
+11_skill,技能,Skill.20038.Passive,雪球花,カリンカ,雪球花,カリンカ,KALINKA,Kalinka,students.json:Skills
+11_skill,技能,Skill.20038.WeaponPassive,雪球花＋,カリンカ+,雪球花＋,カリンカ+,KALINKA+,Kalinka+,students.json:Skills
+11_skill,技能,Skill.20038.ExtraPassive,三套车,トロイカ,三套車,トロイカ,TROYCA,Troyka,students.json:Skills
+11_skill,技能,Skill.20039.Ex,诏令：格物致知,詔令：格物致知,詔令：格物致知,詔令：格物致知,조령: 격물치지,ประกาศิต：เรียนรู้เพื่อเข้าใจ,students.json:Skills
+11_skill,技能,Skill.20039.Public,敕令：修身齐家,勅令：修身斉家,敕令：修身齊家,勅令：修身斉家,칙령: 수신제가,โองการ ：บ่มเพาะเพื่อหวนคืน,students.json:Skills
+11_skill,技能,Skill.20039.Passive,制令：克己复礼,制令：克己復礼,制令：克己復禮,制令：克己復礼,제령: 극기복례,บัญญัติ ：ละตนเพื่อหมู่มาก,students.json:Skills
+11_skill,技能,Skill.20039.WeaponPassive,制令：克己复礼＋,制令：克己復礼+,制令：克己復禮＋,制令：克己復礼+,제령: 극기복례+,บัญญัติ ：ละตนเพื่อหมู่มาก+,students.json:Skills
+11_skill,技能,Skill.20039.ExtraPassive,布告天下,布告天下,佈告天下,布告天下,포고천하,แจ้งประจักษ์ทั่วโลกา,students.json:Skills
+11_skill,技能,Skill.20040.Ex,变强～吧变强～吧,つよくな～るつよくな～る,變強～吧變強～吧,つよくな～るつよくな～る,강해진 기분이 든다~,จง~ แข็ง~ แกร่ง~ ขึ้น~,students.json:Skills
+11_skill,技能,Skill.20040.Public,情报收集,情報収集,情報收集,情報収集,타겟 정보 수집,รวบรวมข้อมูล,students.json:Skills
+11_skill,技能,Skill.20040.Passive,NKUltra计划,NKウルトラ計画,NKUltra計劃,NKウルトラ計画,NK 울트라 프로젝트,โปรเจกต์อัลตร้า NK,students.json:Skills
+11_skill,技能,Skill.20040.WeaponPassive,NKUltra计划＋,NKウルトラ計画+,NKUltra計劃＋,NKウルトラ計画+,NK 울트라 프로젝트+,โปรเจกต์อัลตร้า NK+,students.json:Skills
+11_skill,技能,Skill.20040.ExtraPassive,对万魔殿宣誓忠诚,万魔殿に忠誠を誓いなさい,對萬魔殿宣誓忠誠,万魔殿に忠誠を誓いなさい,만마전에 충성하도록,จงสวามิภักดิ์ต่อแพนเดโมเนี่ยม โซไซตี้ซะ!,students.json:Skills
+11_skill,技能,Skill.23000.Ex,虽然有点可惜……嘿！,勿体ないけど……えぇいっ！,雖然很可惜……我丟！,If I Have To,"아깝지만, 에잇!",น่าเสียดายจัง,students.json:Skills
+11_skill,技能,Skill.23000.Public,可能会头晕哦……？,頭がキーンってするかも……,頭可能會發麻……,You Might See Stars!,머리가 띵해질지도…?,จะมึนหัวหน่อยนะ...,students.json:Skills
+11_skill,技能,Skill.23000.Passive,甜点的力量,デザートの力,甜點的力量,Dessert Power,디저트의 힘,พลังแห่งของหวาน,students.json:Skills
+11_skill,技能,Skill.23000.WeaponPassive,甜点的力量+,デザートの力+,甜點的力量+,Dessert Power+,디저트의 힘+,พลังแห่งของหวาน+,students.json:Skills
+11_skill,技能,Skill.23000.ExtraPassive,爱理的助威,アイリの声援,愛莉的聲援,Airi's Encouragement,아이리의 응원,กำลังใจจากไอริ,students.json:Skills
+11_skill,技能,Skill.23001.Ex,供餐时间！,給食の時間です！,供餐時間！,Lunchtime!,급식 시간!,กองทัพต้องเดินด้วยท้อง!,students.json:Skills
+11_skill,技能,Skill.23001.Public,供餐部的关怀,給食部の優しさ,供給部的溫柔,Gift of the School Lunch Club,급양부의 배려,น้ำใจชมรมโภชนาการ,students.json:Skills
+11_skill,技能,Skill.23001.Passive,来收集新鲜的食材吧！,新鮮な材料を集めましょう！,收集新鮮材料吧！,Fresh Ingredients!,신선한 재료 수급!,วัตถุดิบสดใหม่!,students.json:Skills
+11_skill,技能,Skill.23001.WeaponPassive,来收集新鲜的食材吧！+,新鮮な材料を集めましょう！+,收集新鮮材料吧！+,Fresh Ingredients!+,신선한 재료 수급!+,วัตถุดิบสดใหม่!+,students.json:Skills
+11_skill,技能,Skill.23001.ExtraPassive,供餐部的骄傲,給食部としての誇り,身為供給部的驕傲,Pride of the School Lunch Club,급양부의 긍지,เกียรติภูมิชมรมโภชนาการ,students.json:Skills
+11_skill,技能,Skill.23002.Ex,治疗时间到了~,治療の時間ですよ～！,治療時間唷～！,Time for Your Treatment!,치료시간이에요~,ถึงเวลารักษาแล้ว~,students.json:Skills
+11_skill,技能,Skill.23002.Public,不能倒下！,倒れちゃダメです！,不能倒下！,Don't Fall!,쓰러지면 안 돼요!,ห้ามหมดสติไปนะ!,students.json:Skills
+11_skill,技能,Skill.23002.Passive,熟练治疗,腕前上達,精進技術,Medical Mastery,치료 숙달,ผู้รักษามือฉมัง,students.json:Skills
+11_skill,技能,Skill.23002.WeaponPassive,熟练治疗+,腕前上達+,精進技術+,Medical Mastery+,치료 숙달+,ผู้รักษามือฉมัง+,students.json:Skills
+11_skill,技能,Skill.23002.ExtraPassive,大家加油~！,みなさん頑張ってくださ～い！,請大家加油～！,"Break a Leg, Everyone!",모두 힘내세요~!,พยายามเข้าน้า~,students.json:Skills
+11_skill,技能,Skill.23003.Ex,启动EMP无人机,EMPドローン展開,EMP無人機展開,EMP Drone Launch,EMP 드론 전개,คลื่นโดรน EMP,students.json:Skills
+11_skill,技能,Skill.23003.Public,破坏工作：A计划,破壊工作：プランA,破壞工作：A計劃,Sabotage: Plan A,파괴 공작: 플랜 A,แผนวินาศกรรม: แผน A,students.json:Skills
+11_skill,技能,Skill.23003.GearPublic,破坏工作：A计划+,破壊工作：プランA+,破壞工作：A計劃+,Sabotage: Plan A+,파괴 공작: 플랜 A+,แผนวินาศกรรม: แผน A+,students.json:Skills
+11_skill,技能,Skill.23003.Passive,强化武装：B计划,武装強化：プランＢ,武裝強化：B計劃,Enhanced Arms: Plan B,무장 강화: 플랜 B,เสริมอาวุธ: แผน B,students.json:Skills
+11_skill,技能,Skill.23003.WeaponPassive,强化武装：B计划+,武装強化：プランＢ+,武裝強化：B計劃+,Enhanced Arms: Plan B+,무장 강화: 플랜 B+,เสริมอาวุธ: แผน B+,students.json:Skills
+11_skill,技能,Skill.23003.ExtraPassive,启动阻击系统,迎撃システム作動,運行攔截系統,Interception System Ops,요격 시스템 가동,เปิดระบบซุ่มยิง,students.json:Skills
+11_skill,技能,Skill.23004.Ex,召唤小雷,雷ちゃん、召喚,雷醬，召喚,Rise of Thundergun,천둥이 등장,สายฟ้าปรากฎตัว!,students.json:Skills
+11_skill,技能,Skill.23004.Public,启动小雷MK-Ⅱ,雷ちゃんMK-II、駆動,雷醬MK-II，驅動,Thundergun MK-II,천둥이 MK-II 가동,ซัมม่อนสายฟ้า MK-II!,students.json:Skills
+11_skill,技能,Skill.23004.GearPublic,启动小雷MK-Ⅱ+,雷ちゃんMK-II、駆動+,雷醬MK-II，驅動+,Thundergun MK-II+,천둥이 MK-II 가동+,ซัมม่อนสายฟ้า MK-II!+,students.json:Skills
+11_skill,技能,Skill.23004.Passive,技术革命,技術革命,技術革命,Tech Revolution,기술혁명,ปฏิวัติเทคโนโลยี,students.json:Skills
+11_skill,技能,Skill.23004.WeaponPassive,技术革命+,技術革命+,技術革命+,Tech Revolution+,기술혁명+,ปฏิวัติเทคโนโลยี+,students.json:Skills
+11_skill,技能,Skill.23004.ExtraPassive,大师的承诺,マイスターの誓い,巨匠的誓言,Meister's Pledge,마이스터의 약속,คำสัญญาของไมสเตอร์,students.json:Skills
+11_skill,技能,Skill.23005.Ex,特级快递：战斗支援物资,支援特急便,支援快遞,Special Delivery: Combat Supplies,특급송달: 전투지원품,ส่งด่วน: อุปกรณ์สนับสนุนการต่อสู้,students.json:Skills
+11_skill,技能,Skill.23005.Public,学习支援,学習サポート,學習支援,Scholastic Support,학습지원,ส่งเสริมการเรียน,students.json:Skills
+11_skill,技能,Skill.23005.Passive,自我提升,向学心,向學心,Self-Development,자기계발,พัฒนาตนเอง,students.json:Skills
+11_skill,技能,Skill.23005.WeaponPassive,自我提升+,向学心+,向學心+,Self-Development+,자기계발+,พัฒนาตนเอง+,students.json:Skills
+11_skill,技能,Skill.23005.ExtraPassive,振奋士气,士気の向上,提振士氣,Morale Boost,사기충전,เติมพลังใจ,students.json:Skills
+11_skill,技能,Skill.23006.Ex,百夜堂出摊！,百夜堂出張サービス！,百夜堂外派服務！,"Behold, Momoyodou!",백야당 출장!,ปฏิบัติการร้านเฮียกคิยาโค!,students.json:Skills
+11_skill,技能,Skill.23006.Public,妨碍营业，不可饶恕！,営業妨害しないで！,不要妨礙營業！,Don't Stand in the Way of Business!,영업방해는 용서못해!,ไม่ยกโทษให้คนที่ขวางการทำงานแน่!,students.json:Skills
+11_skill,技能,Skill.23006.GearPublic,不要妨碍营业！＋,営業妨害しないで！+,営業妨害しないで！+,Don't Stand in the Way of Business!+,영업방해는 용서못해!+,ไม่ยกโทษให้คนที่ขวางการทำงานแน่!+,students.json:Skills
+11_skill,技能,Skill.23006.Passive,诶，诶嘿嘿？,て、てへぺろっ？,嘿嘿(・ω<)？,T-Teeheehee?,"데, 데헷페로?",เดเฮตเปโร?,students.json:Skills
+11_skill,技能,Skill.23006.WeaponPassive,诶，诶嘿嘿？+,て、てへぺろっ？+,嘿嘿(・ω<)？+,T-Teeheehee?+,"데, 데헷페로?+",เดเฮตเปโร?+,students.json:Skills
+11_skill,技能,Skill.23006.ExtraPassive,来自看板娘的助威哦！喵喵！,にゃんにゃんっ！,喵喵！,Pop Idol's Encouragement!,아이돌의 응원이야! 냥냥!,กำลังใจจากไอดอล! เมี๊ยวเมี๊ยว!,students.json:Skills
+11_skill,技能,Skill.23007.Ex,来玩禁忌的游戏吧？,禁じられた遊びを始めましょう,讓禁忌的遊戲開始吧,Want to Break the Rules?,금지된 장난을 시작해볼까요?,มาเริ่มการเล่นต้องห้ามกันเลยไหมคะ?,students.json:Skills
+11_skill,技能,Skill.23007.Public,快变硬吧~,固くなあれ♪,變硬吧♪,Toughen Up!,단단해져라~,แข็งแกร่งสุดๆ เลย~,students.json:Skills
+11_skill,技能,Skill.23007.GearPublic,快变硬吧~+,固くなあれ♪+,變硬吧♪+,Toughen Up!+,단단해져라~+,แข็งแกร่งสุดๆ เลย~+,students.json:Skills
+11_skill,技能,Skill.23007.Passive,干劲满满,ヤル気マンマンです,元氣滿滿,Full of Energy,원기 충만,พลังเต็มเปี่ยม,students.json:Skills
+11_skill,技能,Skill.23007.WeaponPassive,干劲满满+,ヤル気マンマンです+,元氣滿滿+,Full of Energy+,원기 충만+,พลังเต็มเปี่ยม+,students.json:Skills
+11_skill,技能,Skill.23007.ExtraPassive,一起的话就不会害羞了,一緒なら恥ずかしくありません！,一起的話就不會羞恥了！,It's Okay If It's You,함께하면 부끄럽지 않아요,รวมกันเราแกร่ง,students.json:Skills
+11_skill,技能,Skill.23008.Ex,神圣的庇护,聖なる加護,神聖加護,Divine Protection,신성한 가호,การป้องกันศักดิ์สิทธิ์,students.json:Skills
+11_skill,技能,Skill.23008.Public,净化的洗礼,浄化の洗礼,淨化的洗禮,Purifying Barrage,정화의 세례,พิธีการล้างบาป,students.json:Skills
+11_skill,技能,Skill.23008.GearPublic,净化洗礼＋,浄化の洗礼+,浄化の洗礼+,Purifying Barrage+,정화의 세례+,พิธีการล้างบาป+,students.json:Skills
+11_skill,技能,Skill.23008.Passive,坚定的决心,決然たる思い,堅決的想法,Resolute Determination,단호한 결의,ตั้งใจแน่วแน่,students.json:Skills
+11_skill,技能,Skill.23008.WeaponPassive,坚定的决心+,決然たる思い+,堅決的想法+,Resolute Determination+,단호한 결의+,ตั้งใจแน่วแน่+,students.json:Skills
+11_skill,技能,Skill.23008.ExtraPassive,慈爱的祝福,慈愛の心,慈愛之心,Benevolent Blessings,자애의 축복,พรแห่งเมตตา,students.json:Skills
+11_skill,技能,Skill.26000.Ex,实施战术治疗,戦傷治療,戰傷治療,Tactical First Aid,전술 치료 시행,กลยุทธ์การรักษา,students.json:Skills
+11_skill,技能,Skill.26000.Public,重整旗鼓,戦況の立て直し,重整戰況,Regroup,재정비,ซ่อมบำรุง,students.json:Skills
+11_skill,技能,Skill.26000.Passive,强化医疗支援,医療支援を強化,強化醫療支援,Reinforced Medical Enhancement,의료 지원 강화,การรักษาฉบับพิเศษ,students.json:Skills
+11_skill,技能,Skill.26000.WeaponPassive,强化医疗支援+,医療支援を強化+,強化醫療支援+,Reinforced Medical Enhancement+,의료 지원 강화+,การรักษาฉบับพิเศษ+,students.json:Skills
+11_skill,技能,Skill.26000.ExtraPassive,强化防御支援,防御支援を強化,強化防禦支援,Reinforced Defenses,방어 지원 강화,เสริมเกราะป้องกัน,students.json:Skills
+11_skill,技能,Skill.26001.Ex,开始监听,傍受開始,開始監聽,Commence Wiretap,감청 개시,ลอบดักฟัง,students.json:Skills
+11_skill,技能,Skill.26001.Public,监听弱点,弱点を盗聴,竊聽弱點,Tap Vulnerabilities,약점 도청,สกัดจุดอ่อน,students.json:Skills
+11_skill,技能,Skill.26001.Passive,集中分析,集中解析,集中解析,Intensive Analysis,집중분석,วิเคราะห์สุดยอด,students.json:Skills
+11_skill,技能,Skill.26001.WeaponPassive,集中分析+,集中解析+,集中解析+,Intensive Analysis+,집중분석+,วิเคราะห์สุดยอด+,students.json:Skills
+11_skill,技能,Skill.26001.ExtraPassive,电波扩散,電波拡散,電波擴散,EM Wave Diffusion,전파 확산,กระจายคลื่น,students.json:Skills
+11_skill,技能,Skill.26002.Ex,朱莉的烹饪时间！,ジュリのクッキングタイム！,茱莉的Cooking Time!,Juri's Cooking Time!,주리의 요리 시간!,เวลาทำอาหารของจูริ!,students.json:Skills
+11_skill,技能,Skill.26002.Public,最棒的菜肴,最高のお料理,最棒的料理,Peak Culinary Effort,최선의 요리,สุดยอดอาหาร,students.json:Skills
+11_skill,技能,Skill.26002.Passive,干劲十足！,やる気は十分！,幹勁十足！,Extreme Zeal!,의욕만만!,ความตั้งใจเปี่ยมล้น!,students.json:Skills
+11_skill,技能,Skill.26002.WeaponPassive,干劲十足！+,やる気は十分！+,幹勁十足！+,Extreme Zeal!+,의욕만만!+,ความตั้งใจเปี่ยมล้น!+,students.json:Skills
+11_skill,技能,Skill.26002.ExtraPassive,用餐时间到！,召し上がれ！,用餐愉快！,Juri's Mealtime!,주리의 식사 시간!,เวลาทานอาหารของจูริ!,students.json:Skills
+11_skill,技能,Skill.26003.Ex,集中治疗方案A,集中治療セットA,集中治療組合A,Intensive Care Set A,집중 치료 세트 A,เซ็ตรักษาสุดยอด A,students.json:Skills
+11_skill,技能,Skill.26003.Public,紧急救护方案B,緊急治療セットB,集中治療組合B,Urgent Rescue Set B,긴급 구호 세트 B,เซ็ตกู้ภัยฉุกเฉิน B,students.json:Skills
+11_skill,技能,Skill.26003.Passive,白衣天使,白衣の天使,白衣天使,Ministering Angel,백의의 천사,นางฟ้าสีขาว,students.json:Skills
+11_skill,技能,Skill.26003.WeaponPassive,白衣天使+,白衣の天使+,白衣天使+,Ministering Angel+,백의의 천사+,นางฟ้าสีขาว+,students.json:Skills
+11_skill,技能,Skill.26003.ExtraPassive,守护天使的笑容,天使のほほ笑み,天使的微笑,Guardian Angel's Smile,수호천사의 스마일,รอยยิ้มของนางฟ้าบรรเทาทุกข์,students.json:Skills
+11_skill,技能,Skill.26004.Ex,知识的盾牌,知識の盾,知識之盾,Shield of Knowledge,지식의 방패,โล่แห่งปัญญา,students.json:Skills
+11_skill,技能,Skill.26004.Public,心灵的粮食,心の栄養剤,心靈營養劑,Food for the Soul,마음의 양식,กฎของหัวใจ,students.json:Skills
+11_skill,技能,Skill.26004.Passive,积累知识吧！,知識を蓄えましょう！,累積知識吧！,Time to Gain Some Knowledge!,지식을 쌓읍시다!,เสริมสร้างปัญญากันเถอะ!,students.json:Skills
+11_skill,技能,Skill.26004.WeaponPassive,积累知识吧！+,知識を蓄えましょう！+,累積知識吧！+,Time to Gain Some Knowledge!+,지식을 쌓읍시다!+,เสริมสร้างปัญญากันเถอะ!+,students.json:Skills
+11_skill,技能,Skill.26004.ExtraPassive,登高才能望远！,みんなで読書会を開きましょう！,大家一起開讀書會吧！,Study While You Can!,아는 만큼 보입니다!,มาเสริมความรู้กันเถอะ!,students.json:Skills
+11_skill,技能,Skill.26005.Ex,谁，谁慌了？！,だ、誰が慌ててるって！？,誰，誰慌了啊！？,I-I'm Not Worried!,"누, 누가 당황할 줄 알고?",ไม่ได้ตกใจซะหน่อย!,students.json:Skills
+11_skill,技能,Skill.26005.Public,想吃苦头是吧？！,痛い目に遭ってみる？！,想吃點苦頭嗎？！,You Wanna Get Burned?!,뜨거운 맛 좀 볼래?!,แซ่บสังหาร,students.json:Skills
+11_skill,技能,Skill.26005.GearPublic,要尝点苦头吗？！＋,痛い目に遭ってみる？！+,想吃點苦頭嗎？！+,You Wanna Get Burned?!+,뜨거운 맛 좀 볼래?!+,แซ่บสังหาร+,students.json:Skills
+11_skill,技能,Skill.26005.Passive,别，别小看我！,な、舐めないで！,別，別小看我！,Don't Underestimate Me!,"우, 우습게 보지 마!",อย่ามาหัวเราะเยาะนะ!,students.json:Skills
+11_skill,技能,Skill.26005.WeaponPassive,别，别小看我！+,な、舐めないで！+,別，別小看我！+,Don't Underestimate Me!+,"우, 우습게 보지 마!+",อย่ามาหัวเราะเยาะนะ!+,students.json:Skills
+11_skill,技能,Skill.26005.ExtraPassive,都，都听我说！,私の話を聞きなさいよおっ！,聽我說話！,"E-Everyone, Please Listen!","모, 모두 내 말 좀 들어!",ฟังที่ฉันพูดหน่อยเซ่!,students.json:Skills
+11_skill,技能,Skill.26006.Ex,观测支援,観測支援,觀測支援,Observational Support,관측 지원,เสริมความแม่น,students.json:Skills
+11_skill,技能,Skill.26006.Public,执着地监视,頑なな視線,頑固的視線,Persistent Surveillance,집요한 감시,ตรวจตราเข้มงวด,students.json:Skills
+11_skill,技能,Skill.26006.Passive,观测的美学,美学に基づいた観測,基於美學的觀測,Aesthetic Observation,관측의 미학,ยิงแม่นเป็นเลิศ,students.json:Skills
+11_skill,技能,Skill.26006.WeaponPassive,观测的美学+,美学に基づいた観測+,基於美學的觀測+,Aesthetic Observation+,관측의 미학+,ยิงแม่นเป็นเลิศ+,students.json:Skills
+11_skill,技能,Skill.26006.ExtraPassive,特别班的纽带,特別クラスの絆,特別班的羈絆,A Special Bond,특별반의 유대,สายสัมพันธ์พิเศษ,students.json:Skills
+11_skill,技能,Skill.26007.Ex,雨云号，出击！,雨雲号、出撃します！,雨雲號，出擊！,"Water Cloud, Charge!","물구름 호, 출격합니다!",สตอร์มคลาวด์ ออกโรง!,students.json:Skills
+11_skill,技能,Skill.26007.Public,空中支援,空からの支援,空中支援,Air Support,공중지원,สนับสนุนทางอากาศ,students.json:Skills
+11_skill,技能,Skill.26007.Passive,自动瞄准,自動照準,自動瞄準,Auto Aim,자동조준,เล็งอัตโนมัติ,students.json:Skills
+11_skill,技能,Skill.26007.WeaponPassive,自动瞄准+,自動照準+,自動瞄準+,Auto Aim+,자동조준+,เล็งอัตโนมัติ+,students.json:Skills
+11_skill,技能,Skill.26007.ExtraPassive,分析战况,戦況把握,掌握戰況,Grasping the Situation,전황파악,จับจุดสงคราม,students.json:Skills
+11_skill,技能,Skill.26008.Ex,夏日百夜堂，开业！,出張、夏の百夜堂出店！,外派，夏日百夜堂分店！,Summer Momoyodou Opening!,여름의 백야당 출점!,เปิดร้านเฮียกคิยาโคหน้าร้อน!,students.json:Skills
+11_skill,技能,Skill.26008.Public,很热吗？,暑いですか？,會熱嗎？,Are You Hot?,더우신가요?,ร้อนเหรอคะ?,students.json:Skills
+11_skill,技能,Skill.26008.Passive,销售额急速增长中！,売上高増加中！,銷售額增加中！,Sales Are Increasing!,매출액 증가 중!,เพิ่มยอดขายอยู่ค่ะ!,students.json:Skills
+11_skill,技能,Skill.26008.WeaponPassive,销售额急速增长中！+,売上高増加中！+,銷售額增加中！+,Sales Are Increasing!+,매출액 증가 중!+,เพิ่มยอดขายอยู่ค่ะ!+,students.json:Skills
+11_skill,技能,Skill.26008.ExtraPassive,要加油哦！喵喵！,頑張ってください！にゃんにゃん！,請加油！喵喵！,Cheer Up! Nyan!,힘내는 거에요! 냥냥!,สู้เค้านะคะ! เมี้ยว!,students.json:Skills
+11_skill,技能,Skill.26009.Ex,潜入开始！,潜入スタート！,潛入Start!,"Infiltration, Start!","잠입, 스타트!",สปายสตาร์ท!,students.json:Skills
+11_skill,技能,Skill.26009.Public,高分攻击,ハイスコアアタック,High Score Attack,High Score Combo,하이 스코어 어택,ไฮ สกอร์ แอทแท็ค,students.json:Skills
+11_skill,技能,Skill.26009.Passive,正确编码,正確なコーディング,正確的Coding,Precise Coding,섬세한 코딩,การเขียนโค้ดที่แม่นยำ,students.json:Skills
+11_skill,技能,Skill.26009.WeaponPassive,正确编码＋,正確なコーディング+,正確的Coding+,Precise Coding+,섬세한 코딩+,การเขียนโค้ดที่แม่นยำ+,students.json:Skills
+11_skill,技能,Skill.26009.ExtraPassive,游戏开发部的纽带,ゲーム開発部の絆,遊戲開發部的羈絆,Game Developers' Bond,게임개발부의 유대,สายสัมพันธ์ของชมรมพัฒนาเกม,students.json:Skills
+11_skill,技能,Skill.26010.Ex,海鸥的袭击,カモメの襲撃,海鷗的襲擊,Attack of the Seagulls,갈매기의 습격,นกนางนวลจู่โจม,students.json:Skills
+11_skill,技能,Skill.26010.Public,隐秘的一击,密やかな一撃,隱密的一擊,Secret Strike,은밀한 일격,ไม้ตายลับ,students.json:Skills
+11_skill,技能,Skill.26010.Passive,水下用复合弹药,水中用複合弾,水下用複合彈藥,Underwater Composite Ammo,수중용 복합탄환,กระสุนยิงจู่โจมใต้น้ำ,students.json:Skills
+11_skill,技能,Skill.26010.WeaponPassive,水下用复合弹药＋,水中用複合弾+,水下用複合彈藥+,Underwater Composite Ammo+,수중용 복합탄환+,กระสุนยิงจู่โจมใต้น้ำ+,students.json:Skills
+11_skill,技能,Skill.26010.ExtraPassive,观察情况报告,観測状況報告,狀況觀測報告,Observation Status Report,관측 상황 보고,รายงานสังเกตการณ์,students.json:Skills
+11_skill,技能,Skill.26011.Ex,强力挥棒,フルスイング,Bat Full Swing,Bat Full Swing,배트 풀스윙,ฟูล สวิง,students.json:Skills
+11_skill,技能,Skill.26011.Public,秘制鲭鱼咖喱,秘伝のサバカレー,秘傳鯖魚咖哩,Secret Weapon: Mackerel Curry,비전의 고등어 카레,แกงกะหรี่ปลาซาบะสูตรลับ,students.json:Skills
+11_skill,技能,Skill.26011.Passive,竭尽全力！,思いっきり！,拿出全力！,More Power!,더욱 힘껏!,ทุ่มสุดแรง!,students.json:Skills
+11_skill,技能,Skill.26011.WeaponPassive,竭尽全力！＋,思いっきり！+,拿出全力！+,More Power!+,더욱 힘껏!+,ทุ่มสุดแรง!+,students.json:Skills
+11_skill,技能,Skill.26011.ExtraPassive,即便是我！,私だって！,我也可以……！,I'm Here Too...!,나라도…!,มีฉันอยู่ด้วยทั้งคน...!,students.json:Skills
+11_skill,技能,Skill.26012.Ex,本官会照看你们的！,本官が見守っています！,本官會密切觀察！,Headquarters Will Keep Watch!,본관이 지켜보겠습니다!,เฝ้าดูอยู่นะคะ!,students.json:Skills
+11_skill,技能,Skill.26012.Public,紧急情况！,非常事態です！,緊急狀況！,Emergency Situation!,비상사태입니다!,สถานการณ์ฉุกเฉินค่ะ!,students.json:Skills
+11_skill,技能,Skill.26012.Passive,练习要当成实战,練習は本番のように,實戰化訓練,Realistic Training,실전과 같은 훈련,การฝึกเสมือนจริง,students.json:Skills
+11_skill,技能,Skill.26012.WeaponPassive,练习要当成实战＋,練習は本番のように＋,實戰化訓練+,Realistic Training+,실전과 같은 훈련+,การฝึกเสมือนจริง+,students.json:Skills
+11_skill,技能,Skill.26012.ExtraPassive,本官会为你们应援的！,本官が応援しています！,本官為你加油！,Headquarters Supports You!,본관이 응원합니다!,ส่งกำลังใจให้นะคะ!,students.json:Skills
+11_skill,技能,Skill.26013.Ex,夏日的回忆,夏の思い出,夏日的回憶,夏の思い出,추억 남기기,ความทรงจำของฤดูร้อน,students.json:Skills
+11_skill,技能,Skill.26013.Public,此花献给你,この花をあなたに,此花獻給你,この花をあなたに,응원의 꽃송이,ดอกไม้นี้เพื่อคุณ,students.json:Skills
+11_skill,技能,Skill.26013.Passive,清爽的海风,爽やかな海風,清爽的海風,爽やかな海風,바닷가의 상쾌함,ลมเย็นๆ ริมทะเล,students.json:Skills
+11_skill,技能,Skill.26013.WeaponPassive,清爽的海风＋,爽やかな海風+,清爽的海風＋,爽やかな海風+,바닷가의 상쾌함+,ลมเย็นๆ ริมทะเล+,students.json:Skills
+11_skill,技能,Skill.26013.ExtraPassive,沙滩的公主大人,ビーチのお姫様,沙灘的公主大人,ビーチのお姫様,해변의 공주님,เจ้าหญิงริมทะเล,students.json:Skills

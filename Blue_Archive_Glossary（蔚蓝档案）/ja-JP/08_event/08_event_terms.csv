@@ -1,0 +1,73 @@
+﻿id,term,src_table
+EventName.701,特殊作戦・デカグラマトン編,localization.json:EventName
+EventName.801,桜花爛漫お祭り騒ぎ！,localization.json:EventName
+EventName.802,革命のイワン・クパーラ,localization.json:EventName
+EventName.803,夏空のウィッシュリスト,localization.json:EventName
+EventName.804,ヒナ委員長のなつやすみっ！,localization.json:EventName
+EventName.805,ネバーランドでつかまえて,localization.json:EventName
+EventName.806,船上のバニーチェイサー,localization.json:EventName
+EventName.807,初音ミクのスペシャルライブ,localization.json:EventName
+EventName.808,227号温泉郷の運営記録！,localization.json:EventName
+EventName.809,新春狂想曲第68番,localization.json:EventName
+EventName.810,シャーレのハッピー♡バレンタインパトロール,localization.json:EventName
+EventName.811,狐坂ワカモの沈黙と祝宴,localization.json:EventName
+EventName.812,どたばたシスターと古書館の魔術師,localization.json:EventName
+EventName.813,不忍ノ心,localization.json:EventName
+EventName.814,アビドスリゾート復旧対策委員会,localization.json:EventName
+EventName.815,出張！百夜堂海の家FC計画,localization.json:EventName
+EventName.816,放課後スイーツ物語 ～甘い秘密と銃撃戦～,localization.json:EventName
+EventName.817,ON YOUR MARK ＠ MILLENNIUM,localization.json:EventName
+EventName.818,"Get Set, Go！～キヴォトス晄輪大祭～",localization.json:EventName
+EventName.819,聖堂のメリークリスマス〜救護騎士団の贈り物〜,localization.json:EventName
+EventName.820,喰積の 前にいささか～一番勝負～,localization.json:EventName
+EventName.821,虚妄のサンクトゥム攻略戦,localization.json:EventName
+EventName.822,アトラ・ハシースの箱舟占領戦,localization.json:EventName
+EventName.823,プレナパテス決戦,localization.json:EventName
+EventName.824,復旧作業：D.U.シラトリ区,localization.json:EventName
+EventName.825,白亜の予告状～虚飾の館と美学の在り処～,localization.json:EventName
+EventName.826,龍武同舟～思い描くは、ひとつの未来～,localization.json:EventName
+EventName.827,夏の特殊作戦！RABBIT小隊と消えたエビの謎,localization.json:EventName
+EventName.828,隠されし遺産を求めて～トリニティの課外活動～,localization.json:EventName
+EventName.829,学漫同人物語～2人が求める最終回～,localization.json:EventName
+EventName.830,Trip-Trap-Train,localization.json:EventName
+EventName.831,とある科学の青春記録,localization.json:EventName
+EventName.832,（電脳）新春行進曲,localization.json:EventName
+EventName.833,陽ひらく彼女たちの小夜曲,localization.json:EventName
+EventName.834,0068 オペラより愛をこめて！,localization.json:EventName
+EventName.835,にぎにぎと ゆきゆきて,localization.json:EventName
+EventName.836,-ive aLIVE!,localization.json:EventName
+EventName.837,Say-Bing!,localization.json:EventName
+EventName.838,Sheside outside,localization.json:EventName
+EventName.839,月華夢騒,localization.json:EventName
+EventName.840,五塵来降,localization.json:EventName
+EventName.841,Serenade Promenade,localization.json:EventName
+EventName.842,秘密のミッドナイトパーティー～オニの手は鐘と共に～,localization.json:EventName
+EventName.60000,シャーレの総決算,localization.json:EventName
+EventName.70001,セフィロトの樹,localization.json:EventName
+StoryEvent.event_80000,バレンタインの約束,translation_table.json:events
+StoryEvent.event_801,桜花爛漫お祭り騒ぎ！～空に徒花 地に忍び～,translation_table.json:events
+StoryEvent.event_802,革命のイワン・クパーラ 髭とプリンとレッドウィンター,translation_table.json:events
+StoryEvent.event_803,夏空のウィッシュリスト,translation_table.json:events
+StoryEvent.event_804,～風紀委員会行政官緊急特務命令～ヒナ委員長のなつやすみっ！,translation_table.json:events
+StoryEvent.event_805,ネバーランドでつかまえて,translation_table.json:events
+StoryEvent.event_806,船上のバニーチェイサー,translation_table.json:events
+StoryEvent.event_807,初音ミクのスペシャルライブ in キヴォトス～リハーサル篇～,translation_table.json:events
+StoryEvent.event_808,227号温泉郷の運営記録！ ～白い吐息は寄り添って～,translation_table.json:events
+StoryEvent.event_809,新春狂想曲 第68番,translation_table.json:events
+StoryEvent.event_810,シャーレのハッピー♡バレンタインパトロール狐坂ワカモの沈黙と祝宴,translation_table.json:events
+StoryEvent.event_812,どたばたシスターと古書館の魔術師,translation_table.json:events
+StoryEvent.event_813,不忍ノ心,translation_table.json:events
+StoryEvent.event_814,アビドスリゾート復旧対策委員会,translation_table.json:events
+StoryEvent.event_816,放課後スイーツ物語 甘い秘密と銃撃戦,translation_table.json:events
+StoryEvent.event_817,ON YOUR MARK @MILLENNIUM～キヴォトス晄輪大祭～,translation_table.json:events
+StoryEvent.event_818,"Get Set,GO！ ～キヴォトス晄輪大祭～",translation_table.json:events
+StoryEvent.event_819,聖堂のメリークリスマス ～救護騎士団の贈り物～,translation_table.json:events
+StoryEvent.event_820,喰積の 前にいささか ～一番勝負～,translation_table.json:events
+StoryEvent.event_821,連合作戦「F.SCT攻略戦」,translation_table.json:events
+StoryEvent.event_822,A-H.A占領戦,translation_table.json:events
+StoryEvent.event_823,PHT決戦,translation_table.json:events
+StoryEvent.event_824,D.U.シラトリ区 復旧作業,translation_table.json:events
+StoryEvent.event_825,白亜の予告状～虚飾の館と美学の在り処～,translation_table.json:events
+StoryEvent.event_826,龍武同舟 ～思い描くは、ひとつの未来～,translation_table.json:events
+StoryEvent.event_827,夏の特殊作戦！RABBIT小隊と消えたエビの謎,translation_table.json:events
+StoryEvent.event_831,とある科学の青春記録,translation_table.json:events

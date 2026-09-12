@@ -1,0 +1,473 @@
+﻿id,term,src_table
+Furniture.1,내츄럴 나무 바닥,furniture.json
+Furniture.2,내츄럴 나무 벽,furniture.json
+Furniture.3,하늘색 그라데이션 배경,furniture.json
+Furniture.4,화이트보드,furniture.json
+Furniture.5,원목 수납장,furniture.json
+Furniture.6,파랑색 심플 카펫,furniture.json
+Furniture.7,원목 의자,furniture.json
+Furniture.8,원목 보조의자,furniture.json
+Furniture.9,원목 수납 테이블,furniture.json
+Furniture.10,원목 대형 테이블,furniture.json
+Furniture.11,커튼 창문,furniture.json
+Furniture.1100,흰색 커피 테이블,furniture.json
+Furniture.1101,배색 싱글 의자,furniture.json
+Furniture.1102,화분 세트 선반,furniture.json
+Furniture.1103,흰색 디저트 테이블,furniture.json
+Furniture.1104,배색 더블 의자,furniture.json
+Furniture.1105,배색 2단 화분,furniture.json
+Furniture.1106,모모프렌즈 메뉴 벽장식,furniture.json
+Furniture.1107,모모프렌즈 액자 기둥,furniture.json
+Furniture.1108,통유리 창문,furniture.json
+Furniture.1109,페로로 세트 선반,furniture.json
+Furniture.1200,파란색 폴리싱 바닥,furniture.json
+Furniture.1201,우드 카운터 바,furniture.json
+Furniture.1202,우드 수납 바,furniture.json
+Furniture.1203,배색 페로로 의자,furniture.json
+Furniture.1204,모모프렌즈 네온 전광판,furniture.json
+Furniture.1300,파란색 폴리싱 벽,furniture.json
+Furniture.1301,우드 키친 바,furniture.json
+Furniture.1302,모모프렌즈 수납장,furniture.json
+Furniture.1303,바리스타 페로로 인형,furniture.json
+Furniture.2100,핑크색 심플 스툴,furniture.json
+Furniture.2101,관엽식물,furniture.json
+Furniture.2102,작은 창문,furniture.json
+Furniture.2103,흰색 심플 소파,furniture.json
+Furniture.2104,빨간색 아케이드 게임기,furniture.json
+Furniture.2105,보라색 아케이드 게임기,furniture.json
+Furniture.2106,파랑색 아케이드 게임기,furniture.json
+Furniture.2107,아케이드 네온 전광판,furniture.json
+Furniture.2108,젤리즈 네온 전광판,furniture.json
+Furniture.2109,컬러풀 격자무늬 카펫,furniture.json
+Furniture.2200,모눈 타일 바닥,furniture.json
+Furniture.2201,카세트테이프 테이블,furniture.json
+Furniture.2202,컬러풀 자판기,furniture.json
+Furniture.2203,배색 멀티 티비,furniture.json
+Furniture.2204,젤리즈 인형뽑기,furniture.json
+Furniture.2300,모눈 타일 벽,furniture.json
+Furniture.2301,에어하키 게임기,furniture.json
+Furniture.2302,스피드레이스 게임기,furniture.json
+Furniture.2303,댄싱스타 게임기,furniture.json
+Furniture.3100,초콜릿 스위츠 모형,furniture.json
+Furniture.3101,발렌타인 스위트 오븐,furniture.json
+Furniture.3102,발렌타인 스위트 키친 바,furniture.json
+Furniture.3103,발렌타인 스위트 수납 바,furniture.json
+Furniture.3104,갈색 격자무늬 카펫,furniture.json
+Furniture.3105,발렌타인 싱글 의자,furniture.json
+Furniture.3106,초콜릿 파티션,furniture.json
+Furniture.3107,발렌타인 디저트 진열장,furniture.json
+Furniture.3108,발렌타인 쿠키 소파,furniture.json
+Furniture.3109,발렌타인 멀티 테이블,furniture.json
+Furniture.3110,포인트 조명 기둥,furniture.json
+Furniture.3111,초콜릿 네온 전광판,furniture.json
+Furniture.3112,하트 초콜릿 모형,furniture.json
+Furniture.3113,발렌타인 초콜릿 창문,furniture.json
+Furniture.3200,대형 초콜릿 분수,furniture.json
+Furniture.3201,발렌타인 핑크 스위츠 모형,furniture.json
+Furniture.3202,발렌타인 스위트 카운터 바,furniture.json
+Furniture.3203,스위트 초콜릿 벽 장식,furniture.json
+Furniture.3204,발렌타인 분홍색 바닥,furniture.json
+Furniture.3300,발렌타인 하트 선물상자,furniture.json
+Furniture.3301,발렌타인 티 테이블,furniture.json
+Furniture.3302,발렌타인 초콜릿 벽,furniture.json
+Furniture.3303,분홍색 하트 배경,furniture.json
+Furniture.4100,배색 스트라이프 카펫,furniture.json
+Furniture.4101,원형 배색 스트라이프 카펫,furniture.json
+Furniture.4102,접이식 비치 의자,furniture.json
+Furniture.4103,여름 피크닉 세트 용품,furniture.json
+Furniture.4104,파란색 원목 파티션,furniture.json
+Furniture.4105,심플 직사각형 화분,furniture.json
+Furniture.4106,몬스테라 화이트 화분,furniture.json
+Furniture.4107,휴양지 열대 화분,furniture.json
+Furniture.4108,접이식 휴양지 테이블,furniture.json
+Furniture.4109,열대 식물 아트 세트 액자,furniture.json
+Furniture.4110,격자 문양 세로 창문,furniture.json
+Furniture.4200,여름 피크닉 세트 파라솔,furniture.json
+Furniture.4201,레트로 뮤직 앰프,furniture.json
+Furniture.4202,열대 식물 아트 벽 장식,furniture.json
+Furniture.4203,네온 썸머 전광판,furniture.json
+Furniture.4204,여름 휴양지 통유리 창문,furniture.json
+Furniture.4205,블루 포인트 포세린 바닥,furniture.json
+Furniture.4300,썸머 디저트 테이블,furniture.json
+Furniture.4301,소형 튜브 세트 풀장,furniture.json
+Furniture.4302,컬러풀 대형 풀장,furniture.json
+Furniture.4303,휴양지 캐노피 소파,furniture.json
+Furniture.4304,파란색 여름 도트 배경,furniture.json
+Furniture.4305,여름 물결 장식 벽,furniture.json
+Furniture.5101,할로윈 펌킨 수납 바,furniture.json
+Furniture.5102,할로윈 거미줄 카펫,furniture.json
+Furniture.5103,고스트 싱글 의자,furniture.json
+Furniture.5104,호박 스프 스툴,furniture.json
+Furniture.5105,할로윈 고스트 입간판,furniture.json
+Furniture.5106,할로윈 배색 파티션,furniture.json
+Furniture.5107,할로윈 펌킨 2단 선반,furniture.json
+Furniture.5108,할로윈 펌킨 더블 소파,furniture.json
+Furniture.5109,할로윈 배색 테이블,furniture.json
+Furniture.5110,할로윈 네온 전광판,furniture.json
+Furniture.5111,촛불 조명 장식,furniture.json
+Furniture.5112,호러 할로윈 세트 액자,furniture.json
+Furniture.5113,할로윈 펌킨 3단 장식,furniture.json
+Furniture.5201,할로윈 펌킨 벽난로,furniture.json
+Furniture.5202,할로윈 다이아 패턴 바닥,furniture.json
+Furniture.5203,할로윈 펌킨 디저트 테이블,furniture.json
+Furniture.5204,거미줄 무늬 아치형 창문,furniture.json
+Furniture.5205,할로윈 펌킨 카운터 바,furniture.json
+Furniture.5301,할로윈 펌킨 포토존,furniture.json
+Furniture.5302,트릭 오어 트릿 고스트 인형,furniture.json
+Furniture.5303,해피 할로윈 벽 장식,furniture.json
+Furniture.5304,할로윈 시럽 웨이브 벽,furniture.json
+Furniture.5305,할로윈 나이트 배경,furniture.json
+Furniture.6100,파도 무늬 좌식 의자,furniture.json
+Furniture.6101,온천 카피바라 수납장,furniture.json
+Furniture.6102,온천 카피바라 뽑기 기계,furniture.json
+Furniture.6103,온천 문양 원목 무드등,furniture.json
+Furniture.6104,부채 문양 사각 무드등,furniture.json
+Furniture.6105,철제 잡지 거치대,furniture.json
+Furniture.6106,전통 목재 파티션,furniture.json
+Furniture.6107,전통 목재 파티션 입구,furniture.json
+Furniture.6108,대나무 사각 화분,furniture.json
+Furniture.6109,온천 카피바라 태피스트리,furniture.json
+Furniture.6110,온천 용품 수납장,furniture.json
+Furniture.6111,벚꽃 화병 테이블,furniture.json
+Furniture.6112,전통 목재 격자무늬 창문,furniture.json
+Furniture.6200,고급형 힐링 안마의자,furniture.json
+Furniture.6201,말차 세트 좌식 테이블,furniture.json
+Furniture.6202,전통 다다미 바닥,furniture.json
+Furniture.6203,전기 음료 온장고,furniture.json
+Furniture.6300,전통 기와 격자무늬 벽,furniture.json
+Furniture.6301,편백나무 힐링 세트 욕조,furniture.json
+Furniture.6302,눈꽃 무늬 그라데이션 배경,furniture.json
+Furniture.7100,전통 무늬 비단 방석,furniture.json
+Furniture.7101,전통 무늬 우산 장식,furniture.json
+Furniture.7102,새해 원형 무드등,furniture.json
+Furniture.7103,새해 기모노 허리띠 걸이,furniture.json
+Furniture.7104,새해 컬러 파티션,furniture.json
+Furniture.7105,전통 격자무늬 여닫이 창문,furniture.json
+Furniture.7106,등유 난로와 찹쌀떡,furniture.json
+Furniture.7107,새해 켄다마 세트 테이블,furniture.json
+Furniture.7200,꽃무늬 비단 기모노 걸이,furniture.json
+Furniture.7201,새해 음식 세트 테이블,furniture.json
+Furniture.7202,벽돌식 배치 다다미 바닥,furniture.json
+Furniture.7203,새해 신춘휘호 세트 테이블,furniture.json
+Furniture.7300,새해 금장 장식 벽,furniture.json
+Furniture.7301,새해 릴렉스 코타츠,furniture.json
+Furniture.7302,새해 전통 무늬 배경,furniture.json
+Furniture.8100,밀리터리 탄약 수납 상자,furniture.json
+Furniture.8101,정사각형 특수 문양 카펫,furniture.json
+Furniture.8102,직사각형 특수 문양 카펫,furniture.json
+Furniture.8103,녹색 접이식 캠핑 체어,furniture.json
+Furniture.8104,노란색 접이식 캠핑 체어,furniture.json
+Furniture.8105,분홍색 접이식 캠핑 체어,furniture.json
+Furniture.8106,파란색 접이식 캠핑 체어,furniture.json
+Furniture.8107,밀리터리 파티션,furniture.json
+Furniture.8108,접이식 간편 테이블,furniture.json
+Furniture.8200,캠핑 브런치 세트 테이블,furniture.json
+Furniture.8201,접이식 특수 문양 체어,furniture.json
+Furniture.8202,밀리터리 비상식량 수납장,furniture.json
+Furniture.8203,밀리터리 2단 야전 침대,furniture.json
+Furniture.8204,캠핑 목재 데크 바닥,furniture.json
+Furniture.8205,밀리터리 캠핑 타프 벽,furniture.json
+Furniture.8206,밀리터리 캠핑 나무 배경,furniture.json
+Furniture.8300,캠핑 그릴 세트 화로,furniture.json
+Furniture.8301,밀리터리 캠핑 타프 입구,furniture.json
+Furniture.8302,밀리터리 조립식 키친 테이블,furniture.json
+Furniture.8303,밀리터리 목재 총 거치대,furniture.json
+Furniture.9100,비치사이드 화이트 체어,furniture.json
+Furniture.9101,비치사이드 쿨링 매트,furniture.json
+Furniture.9102,베이직 화이트 파티션,furniture.json
+Furniture.9103,원목 화이트 파티션,furniture.json
+Furniture.9104,쿨드링크 냉장고,furniture.json
+Furniture.9105,비치사이드 화이트 테이블,furniture.json
+Furniture.9106,원목 테라스 테이블,furniture.json
+Furniture.9107,상큼 후르츠바,furniture.json
+Furniture.9108,상큼 후르츠 벽장식,furniture.json
+Furniture.9200,넘실파도 현수막,furniture.json
+Furniture.9201,비치사이드 쿨링 선풍기,furniture.json
+Furniture.9202,비치사이드 컬러풀 구명조끼,furniture.json
+Furniture.9203,레몬 파라솔 화이트 테이블,furniture.json
+Furniture.9204,비치사이드 원목 바닥,furniture.json
+Furniture.9205,비치사이드 화이트 벽,furniture.json
+Furniture.9206,비치사이드 오션뷰 창문,furniture.json
+Furniture.9207,비치사이드 배경,furniture.json
+Furniture.9300,칠&amp;쿨 아이스크림 냉장고,furniture.json
+Furniture.9301,컬러풀 드링크바,furniture.json
+Furniture.9302,달콤시원 빙수바,furniture.json
+Furniture.9303,비치사이드 오션뷰 테라스,furniture.json
+Furniture.9304,비치사이드 둥실 튜브,furniture.json
+Furniture.10100,대운동회 벽걸이 시계,furniture.json
+Furniture.10101,대운동회 컬러콘 레드,furniture.json
+Furniture.10102,대운동회 컬러콘 블루,furniture.json
+Furniture.10103,대운동회 컬러콘 스카이블루,furniture.json
+Furniture.10104,대운동회 깃발 라이트블루,furniture.json
+Furniture.10105,대운동회 깃발 블루,furniture.json
+Furniture.10106,대운동회 깃발 옐로우,furniture.json
+Furniture.10107,대운동회 스포츠 매트,furniture.json
+Furniture.10108,대운동회 매트 스카이블루,furniture.json
+Furniture.10109,대운동회 매트 블루,furniture.json
+Furniture.10110,대운동회 매트 베이지,furniture.json
+Furniture.10111,대운동회 점수판,furniture.json
+Furniture.10112,대운동회 창문,furniture.json
+Furniture.10113,대운동회 베이지 기둥,furniture.json
+Furniture.10200,대운동회 볼 보관함,furniture.json
+Furniture.10201,에너지 드링크 바스켓,furniture.json
+Furniture.10202,대운동회 농구 골대,furniture.json
+Furniture.10203,공던지기 바구니 옐로우,furniture.json
+Furniture.10204,공던지기 바구니 블루,furniture.json
+Furniture.10205,공던지기 바구니 스카이블루,furniture.json
+Furniture.10206,대운동회 심판석,furniture.json
+Furniture.10207,대운동회 네트,furniture.json
+Furniture.10208,대운동회 나무 바닥,furniture.json
+Furniture.10209,대운동회 페로로 플래그 장식,furniture.json
+Furniture.10210,대운동회 응원 장식,furniture.json
+Furniture.10211,대운동회 벽지,furniture.json
+Furniture.10212,대운동회 배경,furniture.json
+Furniture.10213,대운동회 입간판,furniture.json
+Furniture.10214,대운동회 접이식 의자,furniture.json
+Furniture.10215,대운동회 액티브 뜀틀,furniture.json
+Furniture.10300,대운동회 도넛 경기 구조물,furniture.json
+Furniture.10301,대운동회 휴식 텐트,furniture.json
+Furniture.10302,대운동회 응원 스탠드,furniture.json
+Furniture.10303,대운동회 기구 보관함,furniture.json
+Furniture.10304,대운동회 런치 테이블,furniture.json
+Furniture.10305,대운동회 트로피 진열대,furniture.json
+Furniture.10306,대운동회 환영 게이트,furniture.json
+Furniture.11100,아비도스 교실 칠판,furniture.json
+Furniture.11101,아비도스 교실 학생 캐비닛,furniture.json
+Furniture.11102,아비도스 교실 수납장,furniture.json
+Furniture.11103,아비도스 교실 의자,furniture.json
+Furniture.11104,아비도스 교실 벽시계,furniture.json
+Furniture.11105,아비도스 교실 도시락이 놓인 책상,furniture.json
+Furniture.11106,아비도스 교실 바닥,furniture.json
+Furniture.11107,아비도스 교실 복도 파티션,furniture.json
+Furniture.11108,아비도스 교실 벽걸이 스피커,furniture.json
+Furniture.11109,아비도스 교실 기둥,furniture.json
+Furniture.11200,아비도스 교실 일정표 칠판,furniture.json
+Furniture.11201,아비도스 교실 캠페인 칠판,furniture.json
+Furniture.11202,아비도스 교실 청소 도구함,furniture.json
+Furniture.11203,아비도스 교실 선생님 캐비닛,furniture.json
+Furniture.11204,아비도스 교실 가디건이 놓인 책상,furniture.json
+Furniture.11205,아비도스 교실 고래인형이 놓인 책상,furniture.json
+Furniture.11206,아비도스 교실 안경이 놓인 책상,furniture.json
+Furniture.11207,아비도스 교실 복면이 놓인 책상,furniture.json
+Furniture.11208,아비도스 교실 리본과 장갑이 놓인 책상,furniture.json
+Furniture.11209,아비도스 교실 큰 가방이 놓인 책상,furniture.json
+Furniture.11210,아비도스 교실 총기 거치대,furniture.json
+Furniture.11211,아비도스 교실 보드 파티션,furniture.json
+Furniture.11212,아비도스 교실 선생님 책상,furniture.json
+Furniture.11213,아비도스 교실 로고 액자,furniture.json
+Furniture.11214,아비도스 교실 급훈,furniture.json
+Furniture.11215,아비도스 교실 분리수거 바스켓,furniture.json
+Furniture.11216,아비도스 교실 화이트보드,furniture.json
+Furniture.11217,아비도스 교실 배경,furniture.json
+Furniture.11218,아비도스 교실 타일 바닥,furniture.json
+Furniture.11219,아비도스 교실 벽,furniture.json
+Furniture.11300,아비도스 교실 책장,furniture.json
+Furniture.11301,아비도스 교실 자전거,furniture.json
+Furniture.11302,아비도스 교실 일반 파티션,furniture.json
+Furniture.11303,아비도스 교실 교탁,furniture.json
+Furniture.11304,아비도스 교실 자판기,furniture.json
+Furniture.11305,아비도스 교실 개틀링 거치대,furniture.json
+Furniture.11306,아비도스 교실 창문,furniture.json
+Furniture.12100,게임개발부 패턴 이불,furniture.json
+Furniture.12101,밀레니엄 택배 세트 상자,furniture.json
+Furniture.12102,블루 배색 원형 카펫,furniture.json
+Furniture.12103,게임개발부 하얀색 스톨,furniture.json
+Furniture.12104,게임개발부 파란 좌식 의자,furniture.json
+Furniture.12105,게임개발부 빨간 방석,furniture.json
+Furniture.12106,게임개발부 부실 문,furniture.json
+Furniture.12107,밀레니엄 로고 창 파티션,furniture.json
+Furniture.12108,실버 폴리싱 바닥 판,furniture.json
+Furniture.12109,게임개발부 파란색 캐비닛,furniture.json
+Furniture.12110,게임개발부 철제 파티션,furniture.json
+Furniture.12111,산세베리아 세트 화분,furniture.json
+Furniture.12112,게임개발부 일정 안내판,furniture.json
+Furniture.12113,음료 과자 세트 테이블,furniture.json
+Furniture.12114,파란색 프린트 빈티지 벽기둥,furniture.json
+Furniture.12115,게임개발부 로고 금속판,furniture.json
+Furniture.12116,하얀색 미니 환풍기,furniture.json
+Furniture.12117,게임개발부 LED 전광판,furniture.json
+Furniture.12118,빈티지 벽걸이 선풍기,furniture.json
+Furniture.12119,게임개발부 액자,furniture.json
+Furniture.12120,게임개발부 벽걸이 에어컨,furniture.json
+Furniture.12200,고전 게임 수납 테이블,furniture.json
+Furniture.12201,노트북 수납 테이블,furniture.json
+Furniture.12202,게임 책 수납 테이블,furniture.json
+Furniture.12203,게임기 모니터,furniture.json
+Furniture.12204,보드게임 수납장,furniture.json
+Furniture.12205,다용도 게임 수납장,furniture.json
+Furniture.12206,게임기 수납장,furniture.json
+Furniture.12207,게임개발부 다인용 소파,furniture.json
+Furniture.12208,게임개발부 핑크 곰인형,furniture.json
+Furniture.12209,무채색 모노 배색 바닥,furniture.json
+Furniture.12210,파란색 프린트 빈티지 벽,furniture.json
+Furniture.12211,게임개발부 로고 배경,furniture.json
+Furniture.12300,게임개발부 개인 수납장,furniture.json
+Furniture.12301,게임기 세트 우드 모니터,furniture.json
+Furniture.12302,게임개발부 카펫,furniture.json
+Furniture.12303,게임개발부 인형,furniture.json
+Furniture.12304,게임개발부 화이트보드,furniture.json
+Furniture.12305,게임개발부 커튼 창문,furniture.json
+Furniture.13100,선샤인 앙상블 화분,furniture.json
+Furniture.13101,선샤인 표지판,furniture.json
+Furniture.13102,선샤인 화분 진열대,furniture.json
+Furniture.13103,선샤인 알로하 화분,furniture.json
+Furniture.13104,선샤인 라탄 조명 세트,furniture.json
+Furniture.13105,선샤인 트로피컬 바스켓,furniture.json
+Furniture.13106,선샤인 파티션,furniture.json
+Furniture.13107,선샤인 트로피컬 화분,furniture.json
+Furniture.13108,선샤인 미니 윈도우,furniture.json
+Furniture.13109,선샤인 트로피컬 페인팅,furniture.json
+Furniture.13110,선샤인 알로하 벽걸이,furniture.json
+Furniture.13111,선샤인 알로하 조명,furniture.json
+Furniture.13112,선샤인 알로하 벽걸이 조명,furniture.json
+Furniture.13113,선샤인 패턴 매트,furniture.json
+Furniture.13114,선샤인 다이아몬드 패턴 매트,furniture.json
+Furniture.13115,선샤인 내추럴 매트,furniture.json
+Furniture.13116,선샤인 라탄 매트,furniture.json
+Furniture.13200,선샤인 브런치 소파,furniture.json
+Furniture.13201,선샤인 소파,furniture.json
+Furniture.13202,선샤인 트로피컬 테이블,furniture.json
+Furniture.13203,선샤인 주스 테이블,furniture.json
+Furniture.13204,선샤인 플라워 분수,furniture.json
+Furniture.13205,선샤인 줄무늬 소파,furniture.json
+Furniture.13206,선샤인 선베드 화이트,furniture.json
+Furniture.13207,선샤인 선베드 레몬,furniture.json
+Furniture.13208,선샤인 진열장,furniture.json
+Furniture.13209,선샤인 야자나무,furniture.json
+Furniture.13210,선샤인 화이트 플라워 화분,furniture.json
+Furniture.13211,선샤인 오션뷰 윈도우,furniture.json
+Furniture.13212,선샤인 비치 매트,furniture.json
+Furniture.13213,선샤인 러블리 벽지,furniture.json
+Furniture.13214,선샤인 내추럴 바닥,furniture.json
+Furniture.13215,선샤인 리조트 배경,furniture.json
+Furniture.13300,선샤인 캐노피 소파,furniture.json
+Furniture.13301,선샤인 드링크바,furniture.json
+Furniture.13302,선샤인 플라워 풀,furniture.json
+Furniture.13303,선샤인 트로피컬 풀,furniture.json
+Furniture.13304,선샤인 레이스 테이블,furniture.json
+Furniture.13305,선샤인 알로하 윈도우,furniture.json
+Furniture.100000,비나(야전) 브론즈 트로피,furniture.json
+Furniture.100001,비나(야전) 실버 트로피,furniture.json
+Furniture.100002,비나(야전) 골드 트로피,furniture.json
+Furniture.100003,비나(야전) 플래티넘 트로피,furniture.json
+Furniture.100020,비나(시가전) 브론즈 트로피,furniture.json
+Furniture.100021,비나(시가전) 실버 트로피,furniture.json
+Furniture.100022,비나(시가전) 골드 트로피,furniture.json
+Furniture.100023,비나(시가전) 플래티넘 트로피,furniture.json
+Furniture.100100,헤세드(야전) 브론즈 트로피,furniture.json
+Furniture.100101,헤세드(야전) 실버 트로피,furniture.json
+Furniture.100102,헤세드(야전) 골드 트로피,furniture.json
+Furniture.100103,헤세드(야전) 플래티넘 트로피,furniture.json
+Furniture.100110,헤세드(실내전) 브론즈 트로피,furniture.json
+Furniture.100111,헤세드(실내전) 실버 트로피,furniture.json
+Furniture.100112,헤세드(실내전) 골드 트로피,furniture.json
+Furniture.100113,헤세드(실내전) 플래티넘 트로피,furniture.json
+Furniture.100210,시로&amp;쿠로(실내전) 브론즈 트로피,furniture.json
+Furniture.100211,시로&amp;쿠로(실내전) 실버 트로피,furniture.json
+Furniture.100212,시로&amp;쿠로(실내전) 골드 트로피,furniture.json
+Furniture.100213,시로&amp;쿠로(실내전) 플래티넘 트로피,furniture.json
+Furniture.100220,시로&amp;쿠로(시가전) 브론즈 트로피,furniture.json
+Furniture.100221,시로&amp;쿠로(시가전) 실버 트로피,furniture.json
+Furniture.100222,시로&amp;쿠로(시가전) 골드 트로피,furniture.json
+Furniture.100223,시로&amp;쿠로(시가전) 플래티넘 트로피,furniture.json
+Furniture.100310,예로니무스(실내전) 브론즈 트로피,furniture.json
+Furniture.100311,예로니무스(실내전) 실버 트로피,furniture.json
+Furniture.100312,예로니무스(실내전) 골드 트로피,furniture.json
+Furniture.100313,예로니무스(실내전) 플래티넘 트로피,furniture.json
+Furniture.100320,예로니무스(시가전) 브론즈 트로피,furniture.json
+Furniture.100321,예로니무스(시가전) 실버 트로피,furniture.json
+Furniture.100322,예로니무스(시가전) 골드 트로피,furniture.json
+Furniture.100323,예로니무스(시가전) 플래티넘 트로피,furniture.json
+Furniture.100400,KAITEN FX Mk.0(야전) 브론즈 트로피,furniture.json
+Furniture.100401,KAITEN FX Mk.0(야전) 실버 트로피,furniture.json
+Furniture.100402,KAITEN FX Mk.0(야전) 골드 트로피,furniture.json
+Furniture.100403,KAITEN FX Mk.0(야전) 플래티넘 트로피,furniture.json
+Furniture.100420,KAITEN FX Mk.0(시가전) 브론즈 트로피,furniture.json
+Furniture.100421,KAITEN FX Mk.0(시가전) 실버 트로피,furniture.json
+Furniture.100422,KAITEN FX Mk.0(시가전) 골드 트로피,furniture.json
+Furniture.100423,KAITEN FX Mk.0(시가전) 플래티넘 트로피,furniture.json
+Furniture.100500,페로로지라(야전) 브론즈 트로피,furniture.json
+Furniture.100501,페로로지라(야전) 실버 트로피,furniture.json
+Furniture.100502,페로로지라(야전) 골드 트로피,furniture.json
+Furniture.100503,페로로지라(야전) 플래티넘 트로피,furniture.json
+Furniture.100510,페로로지라(실내전) 브론즈 트로피,furniture.json
+Furniture.100511,페로로지라(실내전) 실버 트로피,furniture.json
+Furniture.100512,페로로지라(실내전) 골드 트로피,furniture.json
+Furniture.100513,페로로지라(실내전) 플래티넘 트로피,furniture.json
+Furniture.100610,호드(실내전) 브론즈 트로피,furniture.json
+Furniture.100611,호드(실내전) 실버 트로피,furniture.json
+Furniture.100612,호드(실내전) 골드 트로피,furniture.json
+Furniture.100613,호드(실내전) 플래티넘 트로피,furniture.json
+Furniture.100620,호드(시가전) 브론즈 트로피,furniture.json
+Furniture.100621,호드(시가전) 실버 트로피,furniture.json
+Furniture.100622,호드(시가전) 골드 트로피,furniture.json
+Furniture.100623,호드(시가전) 플래티넘 트로피,furniture.json
+Furniture.100700,고즈(야외전) 브론즈 트로피,furniture.json
+Furniture.100701,고즈(야외전) 실버 트로피,furniture.json
+Furniture.100702,고즈(야외전) 골드 트로피,furniture.json
+Furniture.100703,고즈(야외전) 플래티넘 트로피,furniture.json
+Furniture.100710,고즈(실내전) 브론즈 트로피,furniture.json
+Furniture.100711,고즈(실내전) 실버 트로피,furniture.json
+Furniture.100712,고즈(실내전) 골드 트로피,furniture.json
+Furniture.100713,고즈(실내전) 플래티넘 트로피,furniture.json
+Furniture.100810,그레고리오(실내전) 브론즈 트로피,furniture.json
+Furniture.100811,그레고리오(실내전) 실버 트로피,furniture.json
+Furniture.100812,그레고리오(실내전) 골드 트로피,furniture.json
+Furniture.100813,그레고리오(실내전) 플래티넘 트로피,furniture.json
+Furniture.200301,트리니티 양식 분수대,furniture.json
+Furniture.201301,여름 컨셉 포토 보드,furniture.json
+Furniture.202301,반짝이는 크리스마스 트리,furniture.json
+Furniture.202302,227호 온천장 가이드 보드,furniture.json
+Furniture.203301,블루 뉴트로 턴테이블,furniture.json
+Furniture.203302,백야당 이동식 점포,furniture.json
+Furniture.203303,확장형 전통 목재 창문,furniture.json
+Furniture.204301,앤티크 수납형 원목 책상,furniture.json
+Furniture.205301,로얄 다이아 쿠션 체어,furniture.json
+Furniture.206301,홀로그램 큐브 턴테이블,furniture.json
+Furniture.207301,대운동회 가이드 보드,furniture.json
+Furniture.207302,골드 블랙 스툴,furniture.json
+Furniture.207303,골드 레드와인 스툴,furniture.json
+Furniture.207304,실버 네온블루 스툴,furniture.json
+Furniture.207305,다크 바이올렛 스툴,furniture.json
+Furniture.207306,대운동회 컨셉 보드,furniture.json
+Furniture.207307,대전격투 게임기,furniture.json
+Furniture.207308,따뜻한 크리스마스 벽난로,furniture.json
+Furniture.207309,경쾌한 멜로디 악보 스탠드,furniture.json
+Furniture.207310,우아한 플라워 티 테이블,furniture.json
+Furniture.207311,트리니티 오르간,furniture.json
+Furniture.207312,티파티 테이블,furniture.json
+Furniture.207313,심문실 테이블,furniture.json
+Furniture.207314,기도 의자,furniture.json
+Furniture.208301,시라토리구 디오라마 테이블,furniture.json
+Furniture.209301,식물 선반,furniture.json
+Furniture.209302,백귀야행 굿즈 장식장,furniture.json
+Furniture.210301,게임개발부 락커,furniture.json
+Furniture.210302,실버 딥 블루 스툴,furniture.json
+Furniture.210303,하늘색 싱글 소파,furniture.json
+Furniture.210304,철제 미닫이 캐비닛,furniture.json
+Furniture.210305,중화풍 온열 진열장,furniture.json
+Furniture.210306,중화풍 의자,furniture.json
+Furniture.210307,목공 작업대,furniture.json
+Furniture.210308,신선! 생선 상자,furniture.json
+Furniture.210309,스쿠버 다이빙 기어 보관 랙,furniture.json
+Furniture.210310,샤워 부스,furniture.json
+Furniture.210311,파닥파닥 청새치 전시대,furniture.json
+Furniture.210312,흥신소68 밴드 스테이지,furniture.json
+Furniture.210313,클래식 패턴 여행용 가방,furniture.json
+Furniture.210314,미니 스툴과 선베드,furniture.json
+Furniture.210315,아이스크림 테이블,furniture.json
+Furniture.210316,선샤인 레몬 트리,furniture.json
+Furniture.210317,보드게임 테이블,furniture.json
+Furniture.301001,총력전 브론즈 트로피 진열장 01,furniture.json
+Furniture.301002,총력전 브론즈 트로피 진열장 02,furniture.json
+Furniture.301101,총력전 실버 트로피 진열장 01,furniture.json
+Furniture.301102,총력전 실버 트로피 진열장 02,furniture.json
+Furniture.301201,총력전 골드 트로피 진열장 01,furniture.json
+Furniture.301202,총력전 골드 트로피 진열장 02,furniture.json
+Furniture.301301,총력전 플래티넘 트로피 진열장 01,furniture.json
+Furniture.301302,총력전 플래티넘 트로피 진열장 02,furniture.json
+Furniture.302301,메모리얼 재생기 1,furniture.json
+Furniture.302302,메모리얼 재생기 2,furniture.json
+Furniture.302303,메모리얼 재생기 3,furniture.json
+Furniture.302304,메모리얼 재생기 4,furniture.json
+Furniture.302305,메모리얼 재생기 4.5,furniture.json

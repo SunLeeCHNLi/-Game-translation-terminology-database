@@ -1,0 +1,1380 @@
+﻿id,term,src_table
+SquadType.Main,STRIKER,localization.json:SquadType
+SquadType.Support,SPECIAL,localization.json:SquadType
+BulletType.Explosion,Explosive,localization.json:BulletType
+BulletType.Pierce,Piercing,localization.json:BulletType
+BulletType.Mystic,Mystic,localization.json:BulletType
+BulletType.Normal,Normal,localization.json:BulletType
+BulletType.Sonic,Sonic,localization.json:BulletType
+BulletType.Mixed,Varies,localization.json:BulletType
+ArmorType.LightArmor,Light,localization.json:ArmorType
+ArmorType.HeavyArmor,Heavy,localization.json:ArmorType
+ArmorType.Unarmed,Special,localization.json:ArmorType
+ArmorType.ElasticArmor,Elastic,localization.json:ArmorType
+ArmorType.Normal,Normal,localization.json:ArmorType
+ArmorType.Structure,Structure,localization.json:ArmorType
+ArmorTypeLong.LightArmor,Light Armor,localization.json:ArmorTypeLong
+ArmorTypeLong.HeavyArmor,Heavy Armor,localization.json:ArmorTypeLong
+ArmorTypeLong.Unarmed,Special Armor,localization.json:ArmorTypeLong
+ArmorTypeLong.ElasticArmor,Elastic Armor,localization.json:ArmorTypeLong
+ArmorTypeLong.Normal,Normal Armor,localization.json:ArmorTypeLong
+TacticRole.DamageDealer,Dealer,localization.json:TacticRole
+TacticRole.Tanker,Tank,localization.json:TacticRole
+TacticRole.Healer,Healer,localization.json:TacticRole
+TacticRole.Supporter,Support,localization.json:TacticRole
+TacticRole.Vehicle,T.S.,localization.json:TacticRole
+AdaptationType.Street,Street,localization.json:AdaptationType
+AdaptationType.Outdoor,Outdoor,localization.json:AdaptationType
+AdaptationType.Indoor,Indoor,localization.json:AdaptationType
+SkillType.Normal,Normal Attack,localization.json:SkillType
+SkillType.FormChange,Normal Attack (Augmented),localization.json:SkillType
+SkillType.Ex,EX Skill,localization.json:SkillType
+SkillType.Public,Basic Skill,localization.json:SkillType
+SkillType.GearPublic,Basic Skill+,localization.json:SkillType
+SkillType.Passive,Enhanced Skill,localization.json:SkillType
+SkillType.WeaponPassive,Enhanced Skill+,localization.json:SkillType
+SkillType.ExtraPassive,Sub Skill,localization.json:SkillType
+SkillTypeShort.Normal,Normal Attack,localization.json:SkillTypeShort
+SkillTypeShort.Ex,EX,localization.json:SkillTypeShort
+SkillTypeShort.Public,Basic,localization.json:SkillTypeShort
+SkillTypeShort.GearPublic,Basic+,localization.json:SkillTypeShort
+SkillTypeShort.Passive,Enhanced,localization.json:SkillTypeShort
+SkillTypeShort.WeaponPassive,Enhanced+,localization.json:SkillTypeShort
+SkillTypeShort.ExtraPassive,Sub,localization.json:SkillTypeShort
+Stat.Level,Level,localization.json:Stat
+Stat.MaxHP,Max HP,localization.json:Stat
+Stat.AttackPower,ATK,localization.json:Stat
+Stat.DefensePower,DEF,localization.json:Stat
+Stat.HealPower,Healing,localization.json:Stat
+Stat.AccuracyPoint,Accuracy,localization.json:Stat
+Stat.DodgePoint,Evasion,localization.json:Stat
+Stat.CriticalPoint,Crit,localization.json:Stat
+Stat.CriticalDamageRate,Crit DMG,localization.json:Stat
+Stat.HealEffectivenessRate,Recovery Boost,localization.json:Stat
+Stat.OppressionPower,CC Power,localization.json:Stat
+Stat.OppressionResist,CC RES,localization.json:Stat
+Stat.CriticalChanceResistPoint,Crit RES,localization.json:Stat
+Stat.CriticalDamageResistRate,Crit DMG RES,localization.json:Stat
+Stat.StabilityPoint,Stability,localization.json:Stat
+Stat.StabilityRate,Stability Rate,localization.json:Stat
+Stat.Range,Normal Attack Range,localization.json:Stat
+Stat.AmmoCount,Mag Count,localization.json:Stat
+Stat.AmmoCost,Normal Attack Cost,localization.json:Stat
+Stat.MoveSpeed,MOV SPD,localization.json:Stat
+Stat.DamageRatio,DMG Dealt (Enemy),localization.json:Stat
+Stat.DamageRatio2,DMG Dealt,localization.json:Stat
+Stat.DamagedRatio,DMG Resist (Enemy),localization.json:Stat
+Stat.DamagedRatio2,DMG Resist,localization.json:Stat
+Stat.ExDamagedRatio,EX Skill DMG Resist,localization.json:Stat
+Stat.EnhanceExDamageRate,EX Skill DMG Dealt,localization.json:Stat
+Stat.AttackSpeed,ATK SPD,localization.json:Stat
+Stat.BlockRate,Block Rate Bonus,localization.json:Stat
+Stat.DefensePenetration,Defense Piercing,localization.json:Stat
+Stat.RegenCost,Cost Recovery,localization.json:Stat
+Stat.EnhanceExplosionRate,Explosive Effectiveness,localization.json:Stat
+Stat.EnhancePierceRate,Piercing Effectiveness,localization.json:Stat
+Stat.EnhanceMysticRate,Mystic Effectiveness,localization.json:Stat
+Stat.EnhanceSonicRate,Sonic Effectiveness,localization.json:Stat
+Stat.EnhanceLightArmorRate,Light Armor Enhancement,localization.json:Stat
+Stat.EnhanceHeavyArmorRate,Heavy Armor Enhancement,localization.json:Stat
+Stat.EnhanceUnarmedRate,Special Armor Enhancement,localization.json:Stat
+Stat.EnhanceElasticArmorRate,Elastic Armor Enhancement,localization.json:Stat
+Stat.ExtendBuffDuration,Buff Retention,localization.json:Stat
+Stat.ExtendDebuffDuration,Debuff Retention,localization.json:Stat
+Stat.ExtendCrowdControlDuration,CC Retention,localization.json:Stat
+Stat.SkillCost,EX Skill Cost,localization.json:Stat
+Stat.NormalHits,Normal Attack Hits,localization.json:Stat
+Stat.EXHits,EX Skill Hits,localization.json:Stat
+Stat.PublicHits,Basic Skill Hits,localization.json:Stat
+Stat.GroggyGauge,Groggy Gauge,localization.json:Stat
+Stat.GroggyTime,Groggy Duration,localization.json:Stat
+Stat.LostHP,Lost HP,localization.json:Stat
+Stat.CurrentHP,HP,localization.json:Stat
+Stat.BurnDamagedIncrease,Burn DMG Taken,localization.json:Stat
+Stat.ChillDamagedIncrease,Chill DMG Taken,localization.json:Stat
+Stat.ElectricShockDamagedIncrease,Shock DMG Taken,localization.json:Stat
+Stat.PoisonDamagedIncrease,Poison DMG Taken,localization.json:Stat
+Stat.IgnoreDelayCount,Ignore Delay,localization.json:Stat
+StatTooltip.MaxHP,The character's Maximum HP. When HP reaches 0 they will be defeated and retreat from battle.,localization.json:StatTooltip
+StatTooltip.AttackPower,Affects the amount of damage dealt by attacks.,localization.json:StatTooltip
+StatTooltip.DefensePower,Affects the amount of damage received from incoming attacks.,localization.json:StatTooltip
+StatTooltip.HealPower,Affects the amount of HP restored by healing skills and damage absorbed by barrier skills.,localization.json:StatTooltip
+StatTooltip.AccuracyPoint,Affects the hit rate of attacks. Chance to hit is guaranteed when greater than the target's Evasion.,localization.json:StatTooltip
+StatTooltip.DodgePoint,Affects the hit rate of incoming attacks. Evading normally only becomes possible when greater than the attacker's Accuracy.,localization.json:StatTooltip
+StatTooltip.CriticalPoint,Affects the chance of dealing critical hits. Critical hits normally only become possible when greater than the target's Crit RES.,localization.json:StatTooltip
+StatTooltip.CriticalDamageRate,Affects the damage multiplier when the attack critically hits. Reduced by target's Crit DMG RES.,localization.json:StatTooltip
+StatTooltip.HealEffectivenessRate,Affects the amount of HP restored by incoming healing by a % amount. Has no effect on barrier abilities.,localization.json:StatTooltip
+StatTooltip.OppressionPower,Affects the chance of inflicting a Crowd Control effect. Also affects the amount of CC gauge filled on certain enemies.,localization.json:StatTooltip
+StatTooltip.OppressionResist,Affects the chance of being inflicted with a Crowd Control effect. Also affects the amount of CC gauge filled on certain enemies.,localization.json:StatTooltip
+StatTooltip.CriticalChanceResistPoint,Affects the chance of receiving critical hits. Critical hits normally only become possible when lower than the attacker's Crit.,localization.json:StatTooltip
+StatTooltip.CriticalDamageResistRate,Affects the damage multiplier when an incoming attack critically hits.,localization.json:StatTooltip
+StatTooltip.StabilityPoint,Affects the amount of random variance in damage dealt by attacks. A higher stability value will result in a higher damage minimum.,localization.json:StatTooltip
+StatTooltip.Range,The maximum range of the character's normal attacks.,localization.json:StatTooltip
+StatTooltip.AmmoCount,The amount of weapon ammunition. Weapon ammunition is consumed by the character's normal attacks and they must reload when this reaches 0.,localization.json:StatTooltip
+StatTooltip.MoveSpeed,Affects the speed at which the character can move.,localization.json:StatTooltip
+StatTooltip.DamageRatio,Affects all damage dealt by attacks by a % amount.,localization.json:StatTooltip
+StatTooltip.DamagedRatio,Affects all damage received by incoming attacks by a % amount.,localization.json:StatTooltip
+StatTooltip.ExDamagedRatio,Affects damage received by EX Skills by a % amount.,localization.json:StatTooltip
+StatTooltip.EnhanceExDamageRate,Affects damage dealt by EX Skills by a % amount.,localization.json:StatTooltip
+StatTooltip.AttackSpeed,"Affects the speed of normal attacks, reloads and attack delay.",localization.json:StatTooltip
+StatTooltip.BlockRate,Affects the chance to block incoming attacks when taking cover.,localization.json:StatTooltip
+StatTooltip.DefensePenetration,Affects the amount of target DEF that is ignored when dealing damage.,localization.json:StatTooltip
+StatTooltip.RegenCost,Affects the rate at which the character generates skill cost.,localization.json:StatTooltip
+StatTooltip.EnhanceExplosionRate,Affects the damage multiplier when dealing Explosive damage against a Light Armor target.,localization.json:StatTooltip
+StatTooltip.EnhancePierceRate,Affects the damage multiplier when dealing Piercing damage against a Heavy Armor target.,localization.json:StatTooltip
+StatTooltip.EnhanceMysticRate,Affects the damage multiplier when dealing Mystic damage against a Special Armor target.,localization.json:StatTooltip
+StatTooltip.EnhanceSonicRate,Affects the damage multiplier when dealing Sonic damage against a Elastic Armor target.,localization.json:StatTooltip
+StatTooltip.ExtendBuffDuration,Increases the duration of buffs granted to self and allies.,localization.json:StatTooltip
+StatTooltip.ExtendDebuffDuration,Increases the duration of debuffs inflicted on enemies.,localization.json:StatTooltip
+StatTooltip.ExtendCrowdControlDuration,Increases the duration of CC effects inflicted on enemies.,localization.json:StatTooltip
+StatTooltip.IgnoreDelayCount,The number of times Attack Delay is skipped when performing normal attacks.,localization.json:StatTooltip
+EnemyRank.Champion,Boss,localization.json:EnemyRank
+EnemyRank.Elite,Elite,localization.json:EnemyRank
+EnemyRank.Minion,Minion,localization.json:EnemyRank
+EnemyRank.Summoned,Summon,localization.json:EnemyRank
+BossFaction.Decagrammaton,Decagrammaton,localization.json:BossFaction
+BossFaction.Slumpia,Slumpia,localization.json:BossFaction
+BossFaction.CommunioSanctorum,Communio Sanctorum,localization.json:BossFaction
+BossFaction.Kaitenger,Kaitenger,localization.json:BossFaction
+BossFaction.TheLibraryofLore,The Library of Lore,localization.json:BossFaction
+BossFaction.SevenPrisoners,Seven Prisoners,localization.json:BossFaction
+BossFaction.HundredGhostTales,One Hundred Ghost Tales,localization.json:BossFaction
+ItemCategory.Furnitures,Furniture,localization.json:ItemCategory
+ItemCategory.Decorations,Decoration,localization.json:ItemCategory
+ItemCategory.Interiors,Interior,localization.json:ItemCategory
+ItemCategory.Wallpaper,Wallpaper,localization.json:ItemCategory
+ItemCategory.Floor,Floor,localization.json:ItemCategory
+ItemCategory.Background,Background,localization.json:ItemCategory
+ItemCategory.Table,Table,localization.json:ItemCategory
+ItemCategory.Chair,Chair,localization.json:ItemCategory
+ItemCategory.Closet,Wardrobe,localization.json:ItemCategory
+ItemCategory.FloorDecoration,Floor Decoration,localization.json:ItemCategory
+ItemCategory.WallDecoration,Wall Decoration,localization.json:ItemCategory
+ItemCategory.Prop,Trinket,localization.json:ItemCategory
+ItemCategory.HomeAppliance,Home Gadgets,localization.json:ItemCategory
+ItemCategory.FurnitureEtc,Misc.,localization.json:ItemCategory
+ItemCategory.Bed,Bed,localization.json:ItemCategory
+ItemCategory.Material,Material,localization.json:ItemCategory
+ItemCategory.SecretStone,Eleph,localization.json:ItemCategory
+ItemCategory.Favor,Gift,localization.json:ItemCategory
+ItemCategory.CharacterExpGrowth,Character EXP,localization.json:ItemCategory
+ItemCategory.Coin,Currency,localization.json:ItemCategory
+ItemCategory.Equipment,Equipment,localization.json:ItemCategory
+ItemCategory.Currency,Currency,localization.json:ItemCategory
+ItemCategory.Consumable,Consumable,localization.json:ItemCategory
+ItemCategory.Collectible,Collectible,localization.json:ItemCategory
+ItemCategory.Exp,Enhancement Stone,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowth,Weapon Parts,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowthA,Spring,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowthB,Hammer,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowthC,Barrel,localization.json:ItemCategory
+ItemCategory.WeaponExpGrowthZ,Firing Pin,localization.json:ItemCategory
+ItemCategory.Box,Item Box,localization.json:ItemCategory
+ItemCategory.Hat,Hat,localization.json:ItemCategory
+ItemCategory.Gloves,Gloves,localization.json:ItemCategory
+ItemCategory.Shoes,Shoes,localization.json:ItemCategory
+ItemCategory.Bag,Bag,localization.json:ItemCategory
+ItemCategory.Badge,Badge,localization.json:ItemCategory
+ItemCategory.Hairpin,Hairpin,localization.json:ItemCategory
+ItemCategory.Charm,Amulet,localization.json:ItemCategory
+ItemCategory.Necklace,Necklace,localization.json:ItemCategory
+ItemCategory.Watch,Wristwatch,localization.json:ItemCategory
+ItemCategory.Artifact,Artifact,localization.json:ItemCategory
+ItemCategory.BookItem,Tech Notes,localization.json:ItemCategory
+ItemCategory.CDItem,Blu-ray,localization.json:ItemCategory
+ShopCategory.General,Normal,localization.json:ShopCategory
+ShopCategory.Raid,Total Assault,localization.json:ShopCategory
+ShopCategory.SecretStone,Eligma I,localization.json:ShopCategory
+ShopCategory.SecretStoneGrowth,Eligma II,localization.json:ShopCategory
+ShopCategory.Arena,Tactical Challenge,localization.json:ShopCategory
+ShopCategory.TimeAttack,Joint Firing Drill,localization.json:ShopCategory
+ShopCategory.MasterCoin,Expert Permit,localization.json:ShopCategory
+ShopCategory.Chaser,Bounty Shop,localization.json:ShopCategory
+ShopCategory.EliminateRaid,Grand Assault,localization.json:ShopCategory
+StageType.Campaign,Missions,localization.json:StageType
+StageType.Bounty,Bounty,localization.json:StageType
+StageType.WeekDungeon,Commissions,localization.json:StageType
+StageType.SchoolDungeon,Scrimmage,localization.json:StageType
+StageType.Event,Event,localization.json:StageType
+StageType.Arena,Tactical Challenge,localization.json:StageType
+StageType.TimeAttack,Joint Firing Drill,localization.json:StageType
+StageType.WorldRaid,Allied Operation,localization.json:StageType
+StageType.ChaserA,Bounty - Overpass,localization.json:StageType
+StageType.ChaserB,Bounty - Desert Railroad,localization.json:StageType
+StageType.ChaserC,Bounty - Classroom,localization.json:StageType
+StageType.Blood,Base Defense,localization.json:StageType
+StageType.FindGift,Item Retrieval,localization.json:StageType
+StageType.SchoolA,Scrimmage - Trinity,localization.json:StageType
+StageType.SchoolB,Scrimmage - Gehenna,localization.json:StageType
+StageType.SchoolC,Scrimmage - Millennium,localization.json:StageType
+StageType.Conquest,Conquest,localization.json:StageType
+StageType.MultiFloorRaid,Final Restriction Release,localization.json:StageType
+StageType.Normal,Normal,localization.json:StageType
+StageType.Hard,Hard,localization.json:StageType
+StageType.Quest,Quest,localization.json:StageType
+StageType.Story,Story,localization.json:StageType
+StageType.Challenge,Challenge,localization.json:StageType
+StageType.Field,Field {0},localization.json:StageType
+RaidDifficulty.Normal,Normal,localization.json:RaidDifficulty
+RaidDifficulty.Hard,Hard,localization.json:RaidDifficulty
+RaidDifficulty.VeryHard,Very Hard,localization.json:RaidDifficulty
+RaidDifficulty.HardCore,Hardcore,localization.json:RaidDifficulty
+RaidDifficulty.Extreme,Extreme,localization.json:RaidDifficulty
+RaidDifficulty.Insane,Insane,localization.json:RaidDifficulty
+RaidDifficulty.Torment,Torment,localization.json:RaidDifficulty
+RaidDifficulty.A,A,localization.json:RaidDifficulty
+RaidDifficulty.B,B,localization.json:RaidDifficulty
+RaidDifficulty.C,C,localization.json:RaidDifficulty
+TimeAttackStage.Shooting,Shooting Drill,localization.json:TimeAttackStage
+TimeAttackStage.Defense,Defense Drill,localization.json:TimeAttackStage
+TimeAttackStage.Destruction,Breakthrough Drill,localization.json:TimeAttackStage
+TimeAttackStage.Escort,Escort Drill,localization.json:TimeAttackStage
+GroggyCondition.TypeDamage,Increases when dealt {0} damage.,localization.json:GroggyCondition
+GroggyCondition.Chesed,Increases when automaton soldiers are defeated.,localization.json:GroggyCondition
+GroggyCondition.Shirokuro,Increases when hit by own attacks.,localization.json:GroggyCondition
+GroggyCondition.Hieronymus,Increases when EX Skills are interrupted.,localization.json:GroggyCondition
+GroggyCondition.KaitenFxMk0,Increases when components are destroyed.,localization.json:GroggyCondition
+GroggyCondition.Perorozilla,Increases when stunned Perorominions are absorbed.,localization.json:GroggyCondition
+GroggyCondition.HOD,Increases when Erosion Towers are destroyed or Hod's CC Gauge is filled.,localization.json:GroggyCondition
+GroggyCondition.HoverCraft,Increases when Missile Frenzy mode ends.,localization.json:GroggyCondition
+GroggyCondition.EN0005,Increases when Choir Members are knocked down.,localization.json:GroggyCondition
+GroggyCondition.RaidHoverCraft,Increases when CC gauge is filled. Increases when the Missile Guidance System is destroyed.,localization.json:GroggyCondition
+GroggyCondition.EN0006,Does not accumulate groggy until phase 2.,localization.json:GroggyCondition
+GroggyCondition.EN0008,Increases after ATG skill is performed.,localization.json:GroggyCondition
+BuffType.Buff,Buff,localization.json:BuffType
+BuffType.Debuff,Debuff,localization.json:BuffType
+BuffType.CC,Crowd Control Effect,localization.json:BuffType
+BuffType.Special,Special Status Effect,localization.json:BuffType
+BuffName.Buff_AidAttitude,Aiding Mindset,localization.json:BuffName
+BuffName.Buff_AmmoCount,Mag Count,localization.json:BuffName
+BuffName.Buff_AttackSpeed,ATK SPD,localization.json:BuffName
+BuffName.Buff_BlockRate,Block Rate,localization.json:BuffName
+BuffName.Buff_ConcentratedTarget,Focused Assault,localization.json:BuffName
+BuffName.Buff_CostChange,EX Skill Cost,localization.json:BuffName
+BuffName.Buff_CostRegen,Cost Recovery,localization.json:BuffName
+BuffName.Buff_CriticalChanceResistPoint,Crit RES,localization.json:BuffName
+BuffName.Buff_CriticalDamageRateResist,Crit DMG RES,localization.json:BuffName
+BuffName.Buff_DamagedLimit,Max DMG Limit,localization.json:BuffName
+BuffName.Buff_DamagedRatio,Incoming Damage,localization.json:BuffName
+BuffName.Buff_DamageRatio,Damage Dealt,localization.json:BuffName
+BuffName.Buff_DotHeal,HP Regen,localization.json:BuffName
+BuffName.Buff_EnhanceLightArmorRate,Lgt. Armor Enhancement,localization.json:BuffName
+BuffName.Buff_EnhanceHeavyArmorRate,Hvy. Armor Enhancement,localization.json:BuffName
+BuffName.Buff_EnhanceUnarmedRate,Spc. Armor Enhancement,localization.json:BuffName
+BuffName.Buff_HealByHit_Damaged,Heal When Hit,localization.json:BuffName
+BuffName.Buff_HealEffectiveness,Recovery Boost,localization.json:BuffName
+BuffName.Buff_HealPower,Healing,localization.json:BuffName
+BuffName.Buff_MAXHP,Max HP,localization.json:BuffName
+BuffName.Buff_MoveSpeed,MOV SPD,localization.json:BuffName
+BuffName.Buff_OppressionPower,CC Power,localization.json:BuffName
+BuffName.Buff_OppressionResist,CC RES,localization.json:BuffName
+BuffName.Buff_Penetration,Defense Piercing,localization.json:BuffName
+BuffName.Buff_Range,Normal Atk. Range,localization.json:BuffName
+BuffName.Buff_Shield,Barrier,localization.json:BuffName
+BuffName.Buff_EnhanceExDamageRate,EX Skill DMG Dealt,localization.json:BuffName
+BuffName.Debuff_AmmoCount,Mag Count,localization.json:BuffName
+BuffName.Debuff_Burn,Burn,localization.json:BuffName
+BuffName.Debuff_Cheerleading,Passionate Cheering,localization.json:BuffName
+BuffName.Debuff_Chill,Chill,localization.json:BuffName
+BuffName.Debuff_CostChange,EX Skill Cost,localization.json:BuffName
+BuffName.Debuff_DamageByHit_Damaged,Weakness Detection,localization.json:BuffName
+BuffName.Debuff_EnhanceLightArmorRate,Lgt. Armor Effectiveness,localization.json:BuffName
+BuffName.Debuff_EnhanceHeavyArmorRate,Hvy. Armor Effectiveness,localization.json:BuffName
+BuffName.Debuff_EnhanceUnarmedRate,Spc. Armor Effectiveness,localization.json:BuffName
+BuffName.Debuff_HealedLimit,Recovery Limit,localization.json:BuffName
+BuffName.Debuff_Hieronymus,Curse,localization.json:BuffName
+BuffName.Debuff_Poison,Poison,localization.json:BuffName
+BuffName.Debuff_ElectricShock,Shock,localization.json:BuffName
+BuffName.CC_Fear,Fear,localization.json:BuffName
+BuffName.CC_Stunned,Stun,localization.json:BuffName
+BuffName.CC_Provoke,Taunt,localization.json:BuffName
+BuffName.CC_Paralysis,Paralysis,localization.json:BuffName
+BuffName.CC_Emp,EMP,localization.json:BuffName
+BuffName.CC_Confusion,Confusion,localization.json:BuffName
+BuffName.CC_Frozen,Freeze,localization.json:BuffName
+BuffName.Special_EnergyBatteryEmpty,Energy Charge,localization.json:BuffName
+BuffName.Special_EnergyBatteryHalf,Half Charge,localization.json:BuffName
+BuffName.Special_EnergyBatteryFull,Full Charge,localization.json:BuffName
+BuffName.Special_FormChange,Normal Attack,localization.json:BuffName
+BuffName.Special_Immortal,Invincible,localization.json:BuffName
+BuffName.Special_ImmuneDamage,Invulnerable,localization.json:BuffName
+BuffName.Special_Fury,Enraged,localization.json:BuffName
+BuffName.Special_Misdeed,Evil Deeds,localization.json:BuffName
+BuffName.Special_LittleDevil,Imps,localization.json:BuffName
+BuffName.Special_Accumulation,Accumulation,localization.json:BuffName
+BuffName.Special_CostRegenBan,Recovery Stop,localization.json:BuffName
+BuffName.Special_ImmuneCC,CC Immune,localization.json:BuffName
+BuffName.Special_SuddenDeath,Wakamo Imprint,localization.json:BuffName
+BuffName.Special_Stamp,Stamps of Praise,localization.json:BuffName
+BuffName.Special_Holiday,Holy Night's Blessing,localization.json:BuffName
+BuffName.Special_SilverBullet,Normal Attack,localization.json:BuffName
+BuffName.Special_CH0187Mod,Abi-Eshuh Mode,localization.json:BuffName
+BuffName.Special_Omamori,Amulet,localization.json:BuffName
+BuffName.Special_Dado,Serenity,localization.json:BuffName
+BuffName.Special_DebuffCountGreen,Safe,localization.json:BuffName
+BuffName.Special_DebuffCountYellow,Warning,localization.json:BuffName
+BuffName.Special_DebuffCountRed,Danger,localization.json:BuffName
+BuffName.Special_OldBook,Clues,localization.json:BuffName
+BuffName.Special_CH0089_ExtraPassive,Drill,localization.json:BuffName
+BuffName.Special_Pray,Invocations,localization.json:BuffName
+BuffName.Special_CH0224_Public,Passion,localization.json:BuffName
+BuffName.Special_CH0225_ExtraPassive,Furin Kazan,localization.json:BuffName
+BuffName.Special_CH0233_ExtraPassive,Sweet Potatoes,localization.json:BuffName
+BuffName.Special_CH0231_ExtraPassive,Successful Protection,localization.json:BuffName
+BuffName.Special_CH0239_ExtraPassive,Infiltration,localization.json:BuffName
+BuffName.Special_EN0008_Obelisk,Overcharged,localization.json:BuffName
+BuffName.Special_CH0220_Public,Sugar Rush,localization.json:BuffName
+BuffName.Special_CH0258_Public,Bulletproof Plate,localization.json:BuffName
+BuffName.Special_CH0263_ExtraPassive_02,Postponed Retreat,localization.json:BuffName
+BuffName.Special_CH0271_Ex,Leaflets,localization.json:BuffName
+BuffName.Special_AmplifyDoTAdditionalTick_Poison,Poison Add. DMG,localization.json:BuffName
+BuffName.Special_AmplifyDoTReducePeriod_Chill,Chill Interval Down,localization.json:BuffName
+BuffName.Special_CH0273_ExtraPassive,Fan Service,localization.json:BuffName
+BuffName.Special_CH0275_Public,Penlights,localization.json:BuffName
+BuffName.Special_EN0009_UnstableFlame,Unstable Flame,localization.json:BuffName
+BuffName.Special_ExSkillCardRedrawStackDummy,EX Redraw,localization.json:BuffName
+BuffNameLong.Buff_AidAttitude,Aiding Mindset,localization.json:BuffNameLong
+BuffNameLong.Buff_AmmoCount,Mag Count Up,localization.json:BuffNameLong
+BuffNameLong.Buff_ATK,ATK Up,localization.json:BuffNameLong
+BuffNameLong.Buff_AttackSpeed,ATK SPD Up,localization.json:BuffNameLong
+BuffNameLong.Buff_BlockRate,Block Rate Up,localization.json:BuffNameLong
+BuffNameLong.Buff_ConcentratedTarget,Focused Assault,localization.json:BuffNameLong
+BuffNameLong.Buff_CostChange,EX Skill Cost Down,localization.json:BuffNameLong
+BuffNameLong.Buff_CostRegen,Cost Recovery Up,localization.json:BuffNameLong
+BuffNameLong.Buff_CriticalChance,Crit Up,localization.json:BuffNameLong
+BuffNameLong.Buff_CriticalChanceResistPoint,Crit RES Up,localization.json:BuffNameLong
+BuffNameLong.Buff_CriticalDamage,Crit DMG Up,localization.json:BuffNameLong
+BuffNameLong.Buff_CriticalDamageRateResist,Crit DMG RES Up,localization.json:BuffNameLong
+BuffNameLong.Buff_DamagedLimit,Max DMG Limit,localization.json:BuffNameLong
+BuffNameLong.Buff_DamagedRatio,Incoming Damage Down,localization.json:BuffNameLong
+BuffNameLong.Buff_DamageRatio,Damage Dealt Up,localization.json:BuffNameLong
+BuffNameLong.Buff_DEF,DEF Up,localization.json:BuffNameLong
+BuffNameLong.Buff_Dodge,Evasion Up,localization.json:BuffNameLong
+BuffNameLong.Buff_DotHeal,HP Regeneration,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceExplosionRate,Explosive Effectiveness Up,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhancePierceRate,Piercing Effectiveness Up,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceMysticRate,Mystic Effectiveness Up,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceSonicRate,Sonic Effectiveness Up,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceLightArmorRate,Light Armor Effectiveness Up,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceHeavyArmorRate,Heavy Armor Effectiveness Up,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceUnarmedRate,Special Armor Effectiveness Up,localization.json:BuffNameLong
+BuffNameLong.Buff_ExtendBuffDuration,Buff Retention Up,localization.json:BuffNameLong
+BuffNameLong.Buff_ExtendDebuffDuration,Debuff Retention Up,localization.json:BuffNameLong
+BuffNameLong.Buff_ExtendCrowdControlDuration,CC Retention Up,localization.json:BuffNameLong
+BuffNameLong.Buff_HealByHit_Damaged,Heal When Hit,localization.json:BuffNameLong
+BuffNameLong.Buff_HealEffectiveness,Recovery Boost Up,localization.json:BuffNameLong
+BuffNameLong.Buff_HealPower,Healing Up,localization.json:BuffNameLong
+BuffNameLong.Buff_HIT,Accuracy Up,localization.json:BuffNameLong
+BuffNameLong.Buff_MAXHP,Max HP Up,localization.json:BuffNameLong
+BuffNameLong.Buff_MoveSpeed,MOV SPD Up,localization.json:BuffNameLong
+BuffNameLong.Buff_OppressionPower,CC Power Up,localization.json:BuffNameLong
+BuffNameLong.Buff_OppressionResist,CC RES Up,localization.json:BuffNameLong
+BuffNameLong.Buff_Penetration,Defense Piercing Up,localization.json:BuffNameLong
+BuffNameLong.Buff_Range,Normal Atk. Range Up,localization.json:BuffNameLong
+BuffNameLong.Buff_Stability,Stability Up,localization.json:BuffNameLong
+BuffNameLong.Buff_EnhanceExDamageRate,EX Damage Dealt Up,localization.json:BuffNameLong
+BuffNameLong.Debuff_AmmoCount,Mag Count Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_ATK,ATK Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_AttackSpeed,ATK SPD Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_BlockRate,Block Rate Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_Burn,Burn,localization.json:BuffNameLong
+BuffNameLong.Debuff_Cheerleading,Passionate Cheering,localization.json:BuffNameLong
+BuffNameLong.Debuff_Chill,Chill,localization.json:BuffNameLong
+BuffNameLong.Debuff_CostChange,EX Skill Cost Up,localization.json:BuffNameLong
+BuffNameLong.Debuff_CriticalChance,Crit Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_CriticalChanceResistPoint,Crit RES Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_CriticalDamage,Crit DMG Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_CriticalDamageRateResist,Crit DMG RES Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_DamagedRatio,Incoming Damage Up,localization.json:BuffNameLong
+BuffNameLong.Debuff_DamageRatio,Damage Dealt Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_DEF,DEF Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_Dodge,Evasion Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceExplosionRate,Explosive Effectiveness Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhancePierceRate,Piercing Effectiveness Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceMysticRate,Mystic Effectiveness Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceSonicRate,Sonic Effectiveness Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceLightArmorRate,Light Armor Enhancement Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceHeavyArmorRate,Heavy Armor Enhancement Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceUnarmedRate,Special Armor Enhancement Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_HealedLimit,Recovery Limit,localization.json:BuffNameLong
+BuffNameLong.Debuff_HealEffectiveness,Recovery Boost Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_HealPower,Healing Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_Hieronymus,Curse,localization.json:BuffNameLong
+BuffNameLong.Debuff_HIT,Accuracy Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_MAXHP,Max HP Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_MoveSpeed,MOV SPD Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_OppressionPower,CC Power Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_OppressionResist,CC RES Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_Penetration,Defense Piercing Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_Poison,Poison,localization.json:BuffNameLong
+BuffNameLong.Debuff_Range,Normal Atk. Range Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_ElectricShock,Electric Shock,localization.json:BuffNameLong
+BuffNameLong.Debuff_Stability,Stability Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_EnhanceExDamageRate,EX Damage Dealt Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_CostRegen,Cost Recovery Down,localization.json:BuffNameLong
+BuffNameLong.Debuff_BurnDamagedIncrease,Burn Damage Taken,localization.json:BuffNameLong
+BuffNameLong.Debuff_ChillDamagedIncrease,Chill Damage Taken,localization.json:BuffNameLong
+BuffNameLong.Debuff_ElectricShockDamagedIncrease,Shock Damage Taken,localization.json:BuffNameLong
+BuffNameLong.Debuff_PoisonDamagedIncrease,Poison Damage Taken,localization.json:BuffNameLong
+BuffNameLong.CC_Emp,EMP,localization.json:BuffNameLong
+BuffNameLong.Special_EnergyBatteryEmpty,Energy Charge,localization.json:BuffNameLong
+BuffNameLong.Special_EnergyBatteryHalf,Energy Charge: Half,localization.json:BuffNameLong
+BuffNameLong.Special_EnergyBatteryFull,Energy Charge: Full,localization.json:BuffNameLong
+BuffNameLong.Special_FormChange,Form Change,localization.json:BuffNameLong
+BuffNameLong.Special_Immortal,Invincible,localization.json:BuffNameLong
+BuffNameLong.Special_Misdeed,Evil Deeds,localization.json:BuffNameLong
+BuffNameLong.Special_LittleDevil,Imps,localization.json:BuffNameLong
+BuffNameLong.Special_Accumulation,DMG Accumulation,localization.json:BuffNameLong
+BuffNameLong.Special_CostRegenBan,Cost Recovery Stop,localization.json:BuffNameLong
+BuffNameLong.Special_ImmuneCC,CC Immunity,localization.json:BuffNameLong
+BuffNameLong.Special_Stamp,Stamps of Praise,localization.json:BuffNameLong
+BuffNameLong.Special_Holiday,Holy Night's Blessings,localization.json:BuffNameLong
+BuffNameLong.Special_SilverBullet,Silver Bullets,localization.json:BuffNameLong
+BuffNameLong.Special_CH0187Mod,Abi-Eshuh Mode,localization.json:BuffNameLong
+BuffNameLong.Special_Omamori,Amulet,localization.json:BuffNameLong
+BuffNameLong.Special_Dado,Serenity,localization.json:BuffNameLong
+BuffNameLong.Special_DebuffCountGreen,Debuff Count: Safe,localization.json:BuffNameLong
+BuffNameLong.Special_DebuffCountYellow,Debuff Count: Warning,localization.json:BuffNameLong
+BuffNameLong.Special_DebuffCountRed,Debuff Count: Danger,localization.json:BuffNameLong
+BuffNameLong.Special_Pray,Invocations,localization.json:BuffNameLong
+BuffNameLong.Special_CH0224_Public,Passion,localization.json:BuffNameLong
+BuffNameLong.Special_CH0225_ExtraPassive,Furin Kazan,localization.json:BuffNameLong
+BuffNameLong.Special_CH0233_ExtraPassive,Sweet Potatoes,localization.json:BuffNameLong
+BuffNameLong.Special_CH0231_ExtraPassive,Successful Protection,localization.json:BuffNameLong
+BuffNameLong.Special_EN0008_Obelisk,Overcharged,localization.json:BuffNameLong
+BuffNameLong.Special_CH0258_Public,Bulletproof Plate,localization.json:BuffNameLong
+BuffNameLong.Special_CH0263_ExtraPassive_02,Postponed Retreat,localization.json:BuffNameLong
+BuffNameLong.Special_CH0271_Ex,Leaflets,localization.json:BuffNameLong
+BuffNameLong.Special_AmplifyDoTAdditionalTick_Poison,Poison Additional Damage,localization.json:BuffNameLong
+BuffNameLong.Special_AmplifyDoTReducePeriod_Chill,Chill Interval Down,localization.json:BuffNameLong
+BuffNameLong.Special_CH0273_ExtraPassive,Fan Service,localization.json:BuffNameLong
+BuffNameLong.Special_CH0275_Public,Penlights,localization.json:BuffNameLong
+BuffNameLong.Special_ExSkillCardRedrawStackDummy,EX Skill Redraw,localization.json:BuffNameLong
+BuffTooltip.Buff_AidAttitude,Continuously restores HP at set intervals. Activates Mine's Basic Skill upon expiring.,localization.json:BuffTooltip
+BuffTooltip.Buff_AmmoCount,Increases the maximum amount of weapon ammunition used by Normal Attacks.,localization.json:BuffTooltip
+BuffTooltip.Buff_ATK,Increases the amount of damage dealt by attacks.,localization.json:BuffTooltip
+BuffTooltip.Buff_AttackSpeed,"Increases the speed of Normal Attacks and reloads, and reduces attack delay.",localization.json:BuffTooltip
+BuffTooltip.Buff_BlockRate,Increases the chance of successfully blocking attacks when taking cover.,localization.json:BuffTooltip
+BuffTooltip.Buff_ConcentratedTarget,Becomes the priority target of enemies' attacks.,localization.json:BuffTooltip
+BuffTooltip.Buff_CostChange,Reduces the amount of skill cost required for using the EX Skill.,localization.json:BuffTooltip
+BuffTooltip.Buff_CostRegen,Increases the rate at which skill cost is recovered.,localization.json:BuffTooltip
+BuffTooltip.Buff_CriticalChance,Increases the chance of landing a critical hit when attacking.,localization.json:BuffTooltip
+BuffTooltip.Buff_CriticalChanceResistPoint,Decerases the chance of receiving a critical hit when being attacked.,localization.json:BuffTooltip
+BuffTooltip.Buff_CriticalDamage,Increases the damage dealt by critical hits.,localization.json:BuffTooltip
+BuffTooltip.Buff_CriticalDamageRateResist,Decreases the damage received from critical hits.,localization.json:BuffTooltip
+BuffTooltip.Buff_DamagedLimit,Limits the amount of damage received from attacks.,localization.json:BuffTooltip
+BuffTooltip.Buff_DamagedRatio,Decreases all incoming damage by a percentage amount.,localization.json:BuffTooltip
+BuffTooltip.Buff_DamageRatio,Increases all damage dealt by a percentage amount.,localization.json:BuffTooltip
+BuffTooltip.Buff_DEF,Decreases the damage received from attacks.,localization.json:BuffTooltip
+BuffTooltip.Buff_Dodge,Increases the chance of successfully evading attacks.,localization.json:BuffTooltip
+BuffTooltip.Buff_DotHeal,Continuously restores HP at set intervals.,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceExplosionRate,Increases the damage bonus when dealing Explosive type attacks against Light Armor targets.,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhancePierceRate,Increases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceMysticRate,Increases the damage bonus when dealing Mystic type attacks against Special Armor targets.,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceSonicRate,Increases the damage bonus when dealing Sonic type attacks against Elastic Armor targets.,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceLightArmorRate,Decreases the damage received from attacks when defense type is Light Armor.,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceHeavyArmorRate,Decreases the damage received from attacks when defense type is Heavy Armor.,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceUnarmedRate,Decreases the damage received from attacks when defense type is Special Armor.,localization.json:BuffTooltip
+BuffTooltip.Buff_ExtendBuffDuration,Increases the duration of buffs granted to self and allies.,localization.json:BuffTooltip
+BuffTooltip.Buff_ExtendDebuffDuration,Increases the duration of debuffs inflicted on enemies.,localization.json:BuffTooltip
+BuffTooltip.Buff_ExtendCrowdControlDuration,Increases the duration of Crowd Control effects inflicted on enemies.,localization.json:BuffTooltip
+BuffTooltip.Buff_HealByHit_Damaged,Restores HP each time damage is taken from an attack.,localization.json:BuffTooltip
+BuffTooltip.Buff_HealEffectiveness,Increases the amount of HP restored from healing abilities that target this character.,localization.json:BuffTooltip
+BuffTooltip.Buff_HealPower,"Increases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities.",localization.json:BuffTooltip
+BuffTooltip.Buff_HIT,Decreases the chance of missing when attacking.,localization.json:BuffTooltip
+BuffTooltip.Buff_MAXHP,Increases maximum HP.,localization.json:BuffTooltip
+BuffTooltip.Buff_MoveSpeed,Increases movement speed.,localization.json:BuffTooltip
+BuffTooltip.Buff_OppressionPower,Increases the chance of successfully inflicting Crowd Control effects.,localization.json:BuffTooltip
+BuffTooltip.Buff_OppressionResist,Decreases the chance of being inflicting with Crowd Control effects.,localization.json:BuffTooltip
+BuffTooltip.Buff_Penetration,Increases the amount of enemy defense that will be ignored by attacks.,localization.json:BuffTooltip
+BuffTooltip.Buff_Range,Increases the distance from which Normal Attacks can be performed.,localization.json:BuffTooltip
+BuffTooltip.Buff_Shield,Absorbs a set amount of damage.,localization.json:BuffTooltip
+BuffTooltip.Buff_Stability,Increases the minimum damage dealt by attacks due to random damage variance.,localization.json:BuffTooltip
+BuffTooltip.Buff_EnhanceExDamageRate,Increases the amount of damage dealt by EX Skills.,localization.json:BuffTooltip
+BuffTooltip.Debuff_AmmoCount,Decreases the maximum amount of weapon ammunition used by Normal Attacks.,localization.json:BuffTooltip
+BuffTooltip.Debuff_ATK,Decreases the amount of damage dealt by attacks.,localization.json:BuffTooltip
+BuffTooltip.Debuff_AttackSpeed,"Decreases the speed of Normal Attacks and reloads, and increases attack delay.",localization.json:BuffTooltip
+BuffTooltip.Debuff_BlockRate,Decreases the chance of successfully blocking attacks when taking cover.,localization.json:BuffTooltip
+BuffTooltip.Debuff_Burn,Continuously receives Burn damage at set intervals. This damage cannot critically hit.,localization.json:BuffTooltip
+BuffTooltip.Debuff_Cheerleading,Continuously receives damage at set intervals. This damage cannot critically hit.,localization.json:BuffTooltip
+BuffTooltip.Debuff_Chill,Continuously receives Chill damage at set intervals. This damage cannot critically hit.,localization.json:BuffTooltip
+BuffTooltip.Debuff_ConcentratedTarget,Becomes the priority target of enemies' attacks.,localization.json:BuffTooltip
+BuffTooltip.Debuff_CostChange,Increases the amount of skill cost required for using the EX Skill.,localization.json:BuffTooltip
+BuffTooltip.Debuff_CostRegen,Decreases the rate at which skill cost is recovered.,localization.json:BuffTooltip
+BuffTooltip.Debuff_CriticalChance,Decreases the chance of landing a critical hit when attacking.,localization.json:BuffTooltip
+BuffTooltip.Debuff_CriticalChanceResistPoint,Increases the chance of receiving a critical hit when being attacked.,localization.json:BuffTooltip
+BuffTooltip.Debuff_CriticalDamage,Decreases the damage dealt by critical hits.,localization.json:BuffTooltip
+BuffTooltip.Debuff_CriticalDamageRateResist,Increases the damage received from critical hits.,localization.json:BuffTooltip
+BuffTooltip.Debuff_DamageByHit_Damaged,Receives additional damage when being attacked.,localization.json:BuffTooltip
+BuffTooltip.Debuff_DamagedRatio,Increases all incoming damage by a percentage amount.,localization.json:BuffTooltip
+BuffTooltip.Debuff_DamageRatio,Decreases all damage dealt by a percentage amount.,localization.json:BuffTooltip
+BuffTooltip.Debuff_DEF,Increases the damage received from attacks.,localization.json:BuffTooltip
+BuffTooltip.Debuff_Dodge,Decreases the chance of successfully evading attacks.,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceExplosionRate,Decreases the damage bonus when dealing Explosive type attacks against Light Armor targets.,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhancePierceRate,Decreases the damage bonus when dealing Piercing type attacks against Heavy Armor targets.,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceMysticRate,Decreases the damage bonus when dealing Mystic type attacks against Special Armor targets.,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceSonicRate,Decreases the damage bonus when dealing Sonic type attacks against Elastic Armor targets.,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceLightArmorRate,Increases the damage received from attacks when defense type is Light Armor.,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceHeavyArmorRate,Increases the damage received from attacks when defense type is Heavy Armor.,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceUnarmedRate,Increases the damage received from attacks when defense type is Special Armor.,localization.json:BuffTooltip
+BuffTooltip.Debuff_HealedLimit,Limits the amount of HP healing abilities will restore.,localization.json:BuffTooltip
+BuffTooltip.Debuff_HealEffectiveness,Decreases the amount of HP restored from healing abilities that target this character.,localization.json:BuffTooltip
+BuffTooltip.Debuff_HealPower,"Decreases the amount of HP restored by healing abilities, and damage absorbed by barrier abilities.",localization.json:BuffTooltip
+BuffTooltip.Debuff_Hieronymus,Inflicts continuous damage over time. Inflicts a large amount of damage in a circular area around the target if this debuff is not removed before it expires. This debuff can only be removed by healing the afflicted to 100% HP.,localization.json:BuffTooltip
+BuffTooltip.Debuff_HIT,Increases the chance of missing when attacking.,localization.json:BuffTooltip
+BuffTooltip.Debuff_MAXHP,Decreases maximum HP.,localization.json:BuffTooltip
+BuffTooltip.Debuff_MoveSpeed,Decreases movement speed.,localization.json:BuffTooltip
+BuffTooltip.Debuff_OppressionPower,Decreases the chance of successfully inflicting Crowd Control effects.,localization.json:BuffTooltip
+BuffTooltip.Debuff_OppressionResist,Increases the chance of being inflicting with Crowd Control effects.,localization.json:BuffTooltip
+BuffTooltip.Debuff_Penetration,Decreases the amount of enemy defense that will be ignored by attacks.,localization.json:BuffTooltip
+BuffTooltip.Debuff_Poison,Continuously receives poison damage at set intervals. This damage cannot critically hit.,localization.json:BuffTooltip
+BuffTooltip.Debuff_Range,Decreases the distance from which Normal Attacks can be performed.,localization.json:BuffTooltip
+BuffTooltip.Debuff_ElectricShock,Continuously receives Electric Shock damage at set intervals. This damage cannot critically hit.,localization.json:BuffTooltip
+BuffTooltip.Debuff_Stability,Decreases the minimum damage dealt by attacks due to random damage variance.,localization.json:BuffTooltip
+BuffTooltip.Debuff_EnhanceExDamageRate,Decreases the amount of damage dealt by EX Skills.,localization.json:BuffTooltip
+BuffTooltip.Debuff_BurnDamagedIncrease,Increases the continuous damage received by Burn debuffs.,localization.json:BuffTooltip
+BuffTooltip.Debuff_ChillDamagedIncrease,Increases the continuous damage received by Chill debuffs.,localization.json:BuffTooltip
+BuffTooltip.Debuff_ElectricShockDamagedIncrease,Increases the continuous damage received by Shock debuffs.,localization.json:BuffTooltip
+BuffTooltip.Debuff_PoisonDamagedIncrease,Increases the continuous damage received by Poison debuffs.,localization.json:BuffTooltip
+BuffTooltip.CC_Fear,Unable to act and will slowly move away from whoever inflicted fear on them. Also interrupts any active skills.,localization.json:BuffTooltip
+BuffTooltip.CC_Stunned,Unable to act and interrupts any active skills.,localization.json:BuffTooltip
+BuffTooltip.CC_Provoke,Forced to attack whoever inflicted taunt on them. Also interrupts any active skills.,localization.json:BuffTooltip
+BuffTooltip.CC_Emp,Unable to act and interrupts any active skills.,localization.json:BuffTooltip
+BuffTooltip.CC_Confusion,Attacks allies instead of enemies. Also interrupts any active skills.,localization.json:BuffTooltip
+BuffTooltip.Special_EnergyBatteryEmpty,Increases the effectiveness of Aris's EX and Sub skills by 1.5&times; (half) or 2&times; (full). Charge level resets to empty after EX skill use.,localization.json:BuffTooltip
+BuffTooltip.Special_EnergyBatteryHalf,Increases the effectiveness of Aris's EX and Sub skills by 1.5&times;. Charge level resets to empty after EX skill use.,localization.json:BuffTooltip
+BuffTooltip.Special_EnergyBatteryFull,Increases the effectiveness of Aris's EX and Sub skills by 2&times;. Charge level resets to empty after EX skill use.,localization.json:BuffTooltip
+BuffTooltip.Special_FormChange,Augments Normal Attacks.,localization.json:BuffTooltip
+BuffTooltip.Special_Immortal,Able to withstand most attacks without being defeated for the duration of the effect.,localization.json:BuffTooltip
+BuffTooltip.Special_ImmuneDamage,Immune to some or all types of incoming damage.,localization.json:BuffTooltip
+BuffTooltip.Special_Fury,Increases the damage dealt by Neru's EX Skill.,localization.json:BuffTooltip
+BuffTooltip.Special_Misdeed,Decreases DEF with each stack held and generates skill cost when Aru (New Year) uses her EX Skill.,localization.json:BuffTooltip
+BuffTooltip.Special_LittleDevil,Increases Crit DMG with each stack held and increases the damage dealt by Mutuski (New Year)'s Basic Skill when at 6 stacks.,localization.json:BuffTooltip
+BuffTooltip.Special_Accumulation,All damage dealt to this target for the duration of the effect will be accumulated and dealt again as an additional hit once this expires.,localization.json:BuffTooltip
+BuffTooltip.Special_CostRegenBan,Cost Recovery is reduced to 0.,localization.json:BuffTooltip
+BuffTooltip.Special_ImmuneCC,Immune to all Crowd Control effects.,localization.json:BuffTooltip
+BuffTooltip.Special_SuddenDeath,A stack of 5 will deal lethal damage to the character.,localization.json:BuffTooltip
+BuffTooltip.Special_Stamp,Reduces allies' EX skill cost and restores own HP when Kokona reaches 5 stacks.,localization.json:BuffTooltip
+BuffTooltip.Special_Holiday,Increases the effects of certain EX skills on this character.,localization.json:BuffTooltip
+BuffTooltip.Special_SilverBullet,Augments Sakurako's normal attack to deal damage as an additional hit.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0187Mod,"Increases Toki's ATK, Accuracy and Evasion and changes her EX Skill, Basic Skill and Normal Attack pattern. Ends after using the EX Skill 3 times.",localization.json:BuffTooltip
+BuffTooltip.Special_Omamori,Increases Mystic Effectiveness upon activation of Kayoko (New Year)'s Sub Skill.,localization.json:BuffTooltip
+BuffTooltip.Special_Dado,Kaho's attacks will deal damage as an additional hit.,localization.json:BuffTooltip
+BuffTooltip.Special_DebuffCountGreen,Increases Incoming Damage.,localization.json:BuffTooltip
+BuffTooltip.Special_DebuffCountYellow,Increases Incoming Damage and ATK.,localization.json:BuffTooltip
+BuffTooltip.Special_DebuffCountRed,Increases ATK.,localization.json:BuffTooltip
+BuffTooltip.Special_OldBook,Activates Ui (Swimsuit)'s Basic Skill when at 3 stacks.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0089_ExtraPassive,Deals additional damage to the target(s) of Kasumi's EX Skill when at 3 stacks.,localization.json:BuffTooltip
+BuffTooltip.Special_Pray,Deals additional guaranteed critical damage to the target(s) of Yukari's EX Skill for every 10 stacks held.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0224_Public,Attacks will deal damage as an additional hit.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0225_ExtraPassive,EX Skill reduces allies' skill cost when at 3 stacks.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0233_ExtraPassive,Attacks will deal damage as an additional hit.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0231_ExtraPassive,Increases Ako (Dress)'s ATK and the damage dealt by her Basic Skill.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0239_ExtraPassive,Increases Kayoko (Dress)'s Crit DMG and changes EX Skill to be guaranteed critical.,localization.json:BuffTooltip
+BuffTooltip.Special_EN0008_Obelisk,Cannot be targeted by the Fury of Set's lightning strikes.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0220_Public,Enhances various aspects of the Sugar Rush band members' skills.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0258_Public,Reduces damage taken by Hoshino (Armed).,localization.json:BuffTooltip
+BuffTooltip.Special_CH0263_ExtraPassive_02,"Shiroko Terror cannot be defeated for the duration of the effect, but will be defeated once it expires if HP is not fully recovered.",localization.json:BuffTooltip
+BuffTooltip.Special_CH0271_Ex,Increases the effect of Tomoe (Qipao)'s Basic Skill.,localization.json:BuffTooltip
+BuffTooltip.Special_AmplifyDoTAdditionalTick_Poison,Poison debuffs inflcited while under this effect will deal additional damage at set intervals.,localization.json:BuffTooltip
+BuffTooltip.Special_AmplifyDoTReducePeriod_Chill,Chill debuffs inflicted while under this effect will have the interval between instances of continuous damage decreased.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0273_ExtraPassive,Reduces allies' EX skill cost when gaining 3 stacks.,localization.json:BuffTooltip
+BuffTooltip.Special_CH0275_Public,Enhances the effects of Mine (Idol)'s Basic Skill.,localization.json:BuffTooltip
+BuffTooltip.Special_EN0009_UnstableFlame,Increases Chokmah's Incoming Damage when struck by ballista.,localization.json:BuffTooltip
+BuffTooltip.Special_ExSkillCardRedrawStackDummy,Immediately redraws the EX Skill after it is used.,localization.json:BuffTooltip
+CharacterSize.Small,Small,localization.json:CharacterSize
+CharacterSize.Medium,Medium,localization.json:CharacterSize
+CharacterSize.Large,Large,localization.json:CharacterSize
+CharacterSize.XLarge,Extra-Large,localization.json:CharacterSize
+FurnitureSet.0,None,localization.json:FurnitureSet
+FurnitureSet.100,Momo Friends Cafe Set,localization.json:FurnitureSet
+FurnitureSet.101,Jellies Arcade Set,localization.json:FurnitureSet
+FurnitureSet.102,Valentine Set,localization.json:FurnitureSet
+FurnitureSet.103,Summer Resort Pool Party Set,localization.json:FurnitureSet
+FurnitureSet.104,Jack-O-Lantern Cafe Set,localization.json:FurnitureSet
+FurnitureSet.105,Hot Springs Resort Set,localization.json:FurnitureSet
+FurnitureSet.106,New Year House Set,localization.json:FurnitureSet
+FurnitureSet.107,Military Campground Set,localization.json:FurnitureSet
+FurnitureSet.108,Beachside Set,localization.json:FurnitureSet
+FurnitureSet.109,Field Day Set,localization.json:FurnitureSet
+FurnitureSet.110,Abydos Classroom Set,localization.json:FurnitureSet
+FurnitureSet.111,Game Development Department Set,localization.json:FurnitureSet
+FurnitureSet.112,Sunshine Resort Set,localization.json:FurnitureSet
+FurnitureSet.113,Shopping Mall Set,localization.json:FurnitureSet
+FurnitureSet.114,Gehenna Party Set,localization.json:FurnitureSet
+FurnitureSet.115,Trinity Classroom Set,localization.json:FurnitureSet
+FurnitureSet.116,DJ Party Venue Set,localization.json:FurnitureSet
+FurnitureSet.117,Hyakkiyako Set,localization.json:FurnitureSet
+VoiceClipGroup.Normal,General,localization.json:VoiceClipGroup
+VoiceClipGroup.Battle,Combat,localization.json:VoiceClipGroup
+VoiceClipGroup.Lobby,Lobby,localization.json:VoiceClipGroup
+VoiceClipGroup.Event,Events,localization.json:VoiceClipGroup
+VoiceClip.UITitleIdle,Title Screen,localization.json:VoiceClip
+VoiceClip.CharacterGetIdle,Recruitment,localization.json:VoiceClip
+VoiceClip.CafeIdle,Cafe {0},localization.json:VoiceClip
+VoiceClip.UILobbyEnter,Lobby Entry {0},localization.json:VoiceClip
+VoiceClip.UILobbyIdle,Lobby Idle {0},localization.json:VoiceClip
+VoiceClip.UILobbyUserBDay,Sensei's Birthday,localization.json:VoiceClip
+VoiceClip.UILobbyStudentBDay,Student's Birthday,localization.json:VoiceClip
+VoiceClip.UILobbyNewYear,New Year,localization.json:VoiceClip
+VoiceClip.UILobbyXmas,Christmas,localization.json:VoiceClip
+VoiceClip.UILobbyHalloween,Halloween,localization.json:VoiceClip
+VoiceClip.WeaponGetIdle,Exclusive Weapon Unlock,localization.json:VoiceClip
+VoiceClip.UILobbySpecial,Recollection Lobby {0},localization.json:VoiceClip
+VoiceClip.FormationIn,Formation Entry {0},localization.json:VoiceClip
+VoiceClip.FormationSelect,Formation Select,localization.json:VoiceClip
+VoiceClip.TacticIn,Map Entry {0},localization.json:VoiceClip
+VoiceClip.TacticVictory,Map Victory {0},localization.json:VoiceClip
+VoiceClip.TacticDefeat,Map Defeat {0},localization.json:VoiceClip
+VoiceClip.BattleIn,Battle Entry {0},localization.json:VoiceClip
+VoiceClip.BattleRecovery,HP Recovery,localization.json:VoiceClip
+VoiceClip.BattleVictory,Battle Victory {0},localization.json:VoiceClip
+VoiceClip.BattleRetire,Battle Retire {0},localization.json:VoiceClip
+VoiceClip.CommonSkill,Basic Skill {0},localization.json:VoiceClip
+VoiceClip.CommonSkillSummon,Basic Skill (Summon) {0},localization.json:VoiceClip
+VoiceClip.SummonRetreat,Summon Retreat {0},localization.json:VoiceClip
+VoiceClip.Growup,Student Growth {0},localization.json:VoiceClip
+VoiceClip.RelationshipUp,Bond Rank Up {0},localization.json:VoiceClip
+VoiceClip.BattleDefense,Evade Attack,localization.json:VoiceClip
+VoiceClip.BattleBuffed,Buffed {0},localization.json:VoiceClip
+VoiceClip.BattleBuffSelf,Buff Self {0},localization.json:VoiceClip
+VoiceClip.BattleTacticalAction,Tactical Movement,localization.json:VoiceClip
+VoiceClip.BattleMove,Section Movement {0},localization.json:VoiceClip
+VoiceClip.BattleCovered,Entering Cover {0},localization.json:VoiceClip
+VoiceClip.ExSkill,EX Skill {0},localization.json:VoiceClip
+VoiceClip.ExSkillLevel,EX Skill (Field) {0},localization.json:VoiceClip
+VoiceClip.Formchange,Switch Combat Style,localization.json:VoiceClip
+VoiceClip.UIEventLobbyEnter,Event Lobby Entry {0},localization.json:VoiceClip
+VoiceClip.UIEventLobbyIdle,Event Lobby Idle {0},localization.json:VoiceClip
+VoiceClip.UIEventShopEnter,Event Shop Entry {0},localization.json:VoiceClip
+VoiceClip.UIEventShopIdle,Event Shop Idle {0},localization.json:VoiceClip
+VoiceClip.UIEventShopBuy,Event Shop Purchase {0},localization.json:VoiceClip
+VoiceClip.UIEventBoxGachaShopEnter,Prize Exchange Entry {0},localization.json:VoiceClip
+VoiceClip.UIEventBoxGachaShopIdle,Prize Exchange Idle {0},localization.json:VoiceClip
+VoiceClip.UIEventBoxGachaShopBoxGachaPrize,Prize Exchange Win {0},localization.json:VoiceClip
+VoiceClip.UIEventBoxGachaShopBoxGachaFinish,Prize Exchange Ended {0},localization.json:VoiceClip
+VoiceClip.UIEventMissionEnter,Event Mission Entry {0},localization.json:VoiceClip
+VoiceClip.UIEventMissionIdle,Event Mission Idle {0},localization.json:VoiceClip
+VoiceClip.UIEventMissionBuy,Event Mission Completion {0},localization.json:VoiceClip
+VoiceClip.UIEventMissionInteraction,Event Daily Mission Completion {0},localization.json:VoiceClip
+VoiceClip.UIEventCardShopEnter,Card Shop Entry {0},localization.json:VoiceClip
+VoiceClip.UIEventCardShopIdle,Card Shop Idle {0},localization.json:VoiceClip
+VoiceClip.UIEventCardShopPrize3,Draw Ultra Rare Card,localization.json:VoiceClip
+VoiceClip.UIEventCardShopPrize2,Draw Super Rare Card,localization.json:VoiceClip
+VoiceClip.UIEventCardShopPrize1,Draw Rare Card,localization.json:VoiceClip
+VoiceClip.UIEventCardShopPrize0,Draw Normal Card,localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopEnter,Omikuji Entry {0},localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopIdle,Omikuji Idle {0},localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck5,"Omikuji ""Great Blessing""",localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck4,"Omikuji ""Blessing""",localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck3,"Omikuji ""Modest Blessing""",localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck2,"Omikuji ""Small Blessing""",localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck1,"Omikuji ""Future Blessing""",localization.json:VoiceClip
+VoiceClip.UIEventFortuneGachaShopLuck0,"Omikuji ""Curse""",localization.json:VoiceClip
+VoiceClip.UIEventMiniGameMissionEnter,Minigame Mission Entry {0},localization.json:VoiceClip
+VoiceClip.UIEventMiniGameMissionIdle,Minigame Mission Idle {0},localization.json:VoiceClip
+VoiceClip.UIEventMiniGameMissionBuy,Minigame Mission Completion {0},localization.json:VoiceClip
+VoiceClip.UISpecialOperationLobbyEnter,Special Mission Lobby Entry {0},localization.json:VoiceClip
+VoiceClip.UISpecialOperationLobbyIdle,Special Mission Lobby Idle {0},localization.json:VoiceClip
+VoiceClip.UISpecialOperationLobbyCollectionOpen,Special Mission Data Release {0},localization.json:VoiceClip
+VoiceClip.UISpecialOperationLobbyStoryOpen,Special Mission Story Open {0},localization.json:VoiceClip
+Shortcut.Students,"View stats, skills, weapons, equipment and more for all of the playable students.",localization.json:Shortcut
+Shortcut.Calculator,"Calculate student and enemy skill damage, healing and other effects.",localization.json:Shortcut
+Shortcut.Raids,"View Total Assault, Grand Assault and Joint Firing Drill information.",localization.json:Shortcut
+Shortcut.Items,"View data for items, furniture and equipment and where to obtain them.",localization.json:Shortcut
+Shortcut.Stages,"View enemy details, maps and rewards for various types of stages.",localization.json:Shortcut
+Shortcut.Crafting,View contents of crafting nodes and the chance of each possible reward.,localization.json:Shortcut
+UI.navbar_home,Home,localization.json:UI
+UI.students,Students,localization.json:UI
+UI.student,Student,localization.json:UI
+UI.enemy,Enemy,localization.json:UI
+UI.stages,Stages,localization.json:UI
+UI.events,Events,localization.json:UI
+UI.raids,Raids,localization.json:UI
+UI.crafting,Crafting,localization.json:UI
+UI.tools,Tools,localization.json:UI
+UI.damage_calculator,Damage Calculator,localization.json:UI
+UI.student_compare,Compare Students,localization.json:UI
+UI.synthesis,Synthesis,localization.json:UI
+UI.fusion,Fusion,localization.json:UI
+UI.shops,Shops,localization.json:UI
+UI.schedule,Lessons,localization.json:UI
+UI.event_stages,Stages,localization.json:UI
+UI.event_shop,Shop,localization.json:UI
+UI.item_sources,Sources,localization.json:UI
+UI.item_usage,Usage,localization.json:UI
+UI.item,Items,localization.json:UI
+UI.settings,Settings,localization.json:UI
+UI.settings_appearance,Appearance,localization.json:UI
+UI.settings_server,Game Region,localization.json:UI
+UI.settings_server_description,Select the game server to view available content and data from.,localization.json:UI
+UI.settings_language,Language,localization.json:UI
+UI.settings_language_description,"Depending on the region selected, some content may not be translated.",localization.json:UI
+UI.settings_theme,Theme,localization.json:UI
+UI.settings_theme_description,"""Auto"" will use your device's theme.",localization.json:UI
+UI.settings_contrast,High Contrast,localization.json:UI
+UI.settings_contrast_description,Disables dynamic page backgrounds and certain visual effects for better text readability.,localization.json:UI
+UI.settings_experiments,Experiments,localization.json:UI
+UI.settings_preferences,Preferences,localization.json:UI
+UI.settings_itemids,Show item IDs,localization.json:UI
+UI.settings_itemids_description,Displays internal item IDs where available.,localization.json:UI
+UI.settings_distanceunit,Distance Units,localization.json:UI
+UI.settings_distanceunit_description,Preferred display unit for skill range and radius distance.,localization.json:UI
+UI.settings_animationunit,Animation Units,localization.json:UI
+UI.settings_animationunit_description,Preferred display unit for skill animation duration.,localization.json:UI
+UI.settings_animation,Animated Icons,localization.json:UI
+UI.settings_animation_description,"Use animated icons for certain types of randomized item drops or groups. Note: Setting this to ""OFF"" will remove the visual hint for randomized drops unless it is hovered over.",localization.json:UI
+UI.settings_data,Data Management,localization.json:UI
+UI.settings_servercollection,Use Separate Collection per Game Region,localization.json:UI
+UI.settings_servercollection_description,Stores an individual collection for each game region. Disabling this option will use the collection currently assigned to the JP region for all other regions.,localization.json:UI
+UI.settings_collection,Manage Collection Data,localization.json:UI
+UI.settings_collection_description,Import or export your student collection data.,localization.json:UI
+UI.settings_restorepage,Remember Last Viewed Page,localization.json:UI
+UI.settings_restorepage_description,Always start Schale DB on the last viewed page.,localization.json:UI
+UI.settings_defaultpage,Page Default Behavior,localization.json:UI
+UI.settings_defaultpage_description,Set whether to load the list page or the last viewed item by default when navigating to a module.,localization.json:UI
+UI.settings_showskilldelay,Show Skill Application Delay,localization.json:UI
+UI.settings_showskilldelay_description,Show the application delay of buff and debuff skills alongside the skill animation duration.,localization.json:UI
+UI.settings_screenmode,Limit Screen Width,localization.json:UI
+UI.settings_screenmode_description,Limit the width of the display area on wider screens.,localization.json:UI
+UI.search,Search,localization.json:UI
+UI.filter_by_name,Filter by name,localization.json:UI
+UI.collection_export_collection,Export Collection,localization.json:UI
+UI.collection_import_collection,Import Collection,localization.json:UI
+UI.collection_import_help,"Data can be imported from Schale DB or <a href=""https://justin163.com/planner/"">Justin163's resource planner</a>. (Select Transfer > Export)",localization.json:UI
+UI.collection_import_warning,This will overwrite your current collection,localization.json:UI
+UI.collection_import_status_valid,Export data for {0} students found.,localization.json:UI
+UI.collection_import_status_invalid,Export data is invalid.,localization.json:UI
+UI.collection_export_placeholder,Click export to generate an export string from your collection,localization.json:UI
+UI.collection_import_placeholder,Paste export string here and click Import,localization.json:UI
+UI.collection_export,Export,localization.json:UI
+UI.collection_import,Import,localization.json:UI
+UI.setting_off,OFF,localization.json:UI
+UI.setting_on,ON,localization.json:UI
+UI.setting_open,Open,localization.json:UI
+UI.setting_normal,Normal,localization.json:UI
+UI.setting_slow,Slow,localization.json:UI
+UI.setting_metric,Metric,localization.json:UI
+UI.setting_raw,Raw,localization.json:UI
+UI.setting_seconds,Seconds,localization.json:UI
+UI.setting_frames,Frames,localization.json:UI
+UI.setting_lastviewed,Last Viewed,localization.json:UI
+UI.current_events,Current Events,localization.json:UI
+UI.server_region,{0} Region,localization.json:UI
+UI.server_reset_in,Server Reset in {0} ({1}),localization.json:UI
+UI.home_timezone,All dates are converted to your local timezone.,localization.json:UI
+UI.event_starts,"Starts in <b>{0} days, {1} hours and {2} minutes</b>.",localization.json:UI
+UI.event_ends,"Ends in <b>{0} days, {1} hours and {2} minutes</b>.",localization.json:UI
+UI.duration_days,{0}d,localization.json:UI
+UI.duration_hours,{0}h,localization.json:UI
+UI.duration_minutes,{0}m,localization.json:UI
+UI.student_birthdays,Upcoming Birthdays,localization.json:UI
+UI.attributes,Attributes,localization.json:UI
+UI.stats,Stats,localization.json:UI
+UI.sort_order,Sort Order,localization.json:UI
+UI.base_stats,Base Stats,localization.json:UI
+UI.max_stats,Max. Stats,localization.json:UI
+UI.collection_stats,Use Collection Stats,localization.json:UI
+UI.sp_sub_skill,Special Sub Skill,localization.json:UI
+UI.skills,Skills,localization.json:UI
+UI.ex_weapon,Weapon,localization.json:UI
+UI.ex_gear,Item,localization.json:UI
+UI.profile,Profile,localization.json:UI
+UI.voice,Voice,localization.json:UI
+UI.student_gear_short,Equip.,localization.json:UI
+UI.student_weapon,Exclusive Weapon,localization.json:UI
+UI.student_ex_gear,Unique Item,localization.json:UI
+UI.student_bond,Bond Rank,localization.json:UI
+UI.student_potential,Talent Level,localization.json:UI
+UI.support_stats,Support Stats,localization.json:UI
+UI.special_students,Special Students,localization.json:UI
+UI.add_recommended,Add Recommended Buffs & Debuffs,localization.json:UI
+UI.buff_search,Search for Student or Skill Name,localization.json:UI
+UI.no_compatible_effects,No compatible effects,localization.json:UI
+UI.buff_overwritten,Overwritten by similar buff,localization.json:UI
+UI.filter_all,All,localization.json:UI
+UI.filter_bookmark,Bookmarks,localization.json:UI
+UI.buff_custom_add,Add User Defined Buff,localization.json:UI
+UI.buff_custom,User Defined,localization.json:UI
+UI.buff_custom_base,Add as base amount,localization.json:UI
+UI.buff_custom_coefficient,Add as percentage amount,localization.json:UI
+UI.buff_custom_name_placeholder,Label (Optional),localization.json:UI
+UI.buff_custom_value_placeholder,Amount,localization.json:UI
+UI.student_skills_upgrades,Upgrades,localization.json:UI
+UI.student_skills_materials,Materials,localization.json:UI
+UI.student_skills_materials_none,No materials required.,localization.json:UI
+UI.student_weapon_rank_2star_desc,Exclusive Weapon Max Level Lv.30 → <b>Lv.40</b> / Upgrades Enhanced Skill,localization.json:UI
+UI.student_weapon_rank_3star_desc,Exclusive Weapon Max Level Lv.40 → <b>Lv.50</b> / Upgrades Terrain Strength,localization.json:UI
+UI.student_gear_t2_desc,Unlocks Basic Skill+,localization.json:UI
+UI.attack_type_desc,Deals <b>{0}&times;</b> damage to {1}.,localization.json:UI
+UI.attack_type_normal_desc,"Deals <b>1&times;</b> damage to <b>Normal Armor</b>, <b class='ba-col-explosion'>Light Armor</b>, <b class='ba-col-pierce'>Heavy Armor</b>, <b class='ba-col-mystic'>Special Armor</b> and <b class='ba-col-elasticarmor'>Elastic Armor</b>.",localization.json:UI
+UI.defense_type_desc,Receives <b>{0}&times;</b> damage from {1} attacks.,localization.json:UI
+UI.defense_type_normal_desc,"Receives <b>{0}&times;</b> damage from <b>Normal</b>, <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b>, <b class='ba-col-mystic'>Mystic</b> and <b class='ba-col-sonic'>Sonic</b> attacks.",localization.json:UI
+UI.comfort,Comfort,localization.json:UI
+UI.age,Age,localization.json:UI
+UI.birthday,Birthday,localization.json:UI
+UI.hobbies,Hobbies,localization.json:UI
+UI.height,Height,localization.json:UI
+UI.cv,CV.,localization.json:UI
+UI.designer,Design,localization.json:UI
+UI.illustrator,Illustrator,localization.json:UI
+UI.bond_title,Bond Rank Bonus,localization.json:UI
+UI.potential_title,Talent Level Bonus,localization.json:UI
+UI.favoritem_title,Favorite Gifts,localization.json:UI
+UI.favoritem_none,This student does not have any favorite gifts.,localization.json:UI
+UI.furniture_title,Furniture Interaction,localization.json:UI
+UI.furniture_none,This student does not interact with any cafe furniture.,localization.json:UI
+UI.student_list,Student List,localization.json:UI
+UI.list,List,localization.json:UI
+UI.filters,Filters,localization.json:UI
+UI.filters_clear,Clear {0} filter(s),localization.json:UI
+UI.students_displayed,{0} / {1} students displayed,localization.json:UI
+UI.student_search_info,Show all Info,localization.json:UI
+UI.sortby,Sort By,localization.json:UI
+UI.default,Default,localization.json:UI
+UI.release_date,Released,localization.json:UI
+UI.stat,Stat,localization.json:UI
+UI.name,Name,localization.json:UI
+UI.type,Type,localization.json:UI
+UI.role,Role,localization.json:UI
+UI.rarity,Rarity,localization.json:UI
+UI.rarity_availability,Rarity / Availability,localization.json:UI
+UI.attacktype,Attack Type,localization.json:UI
+UI.defensetype,Defense Type,localization.json:UI
+UI.school,Academy,localization.json:UI
+UI.club,Club,localization.json:UI
+UI.weapon,Weapon Type,localization.json:UI
+UI.position,Position,localization.json:UI
+UI.category,Category,localization.json:UI
+UI.subcategory,Sub-Category,localization.json:UI
+UI.combat_power,Terrain Strength,localization.json:UI
+UI.misc,Misc.,localization.json:UI
+UI.uses_cover,Uses Cover,localization.json:UI
+UI.doesnt_use_cover,Doesn't Use Cover,localization.json:UI
+UI.can_cc,Can CC,localization.json:UI
+UI.can_buff,Can Buff,localization.json:UI
+UI.can_debuff,Can Debuff,localization.json:UI
+UI.can_heal,Can Heal,localization.json:UI
+UI.can_shield,Can Shield,localization.json:UI
+UI.can_dispel,Can Dispel,localization.json:UI
+UI.can_reposition,Can Reposition,localization.json:UI
+UI.can_summon,Has Summon,localization.json:UI
+UI.ex_ignore_cover,EX Ignores Cover,localization.json:UI
+UI.ex_area_damage,AoE DMG EX,localization.json:UI
+UI.uses_artifact,Uses Artifact,localization.json:UI
+UI.filter_include_weapon_upgrade,Include Weapon Upgrade,localization.json:UI
+UI.memory_lobby,Recollection Lobby,localization.json:UI
+UI.memory_lobby_student,{0}'s Recollection Lobby,localization.json:UI
+UI.memory_lobby_unlock,Unlocks after reaching bond rank {0} with {1},localization.json:UI
+UI.memory_lobby_unlock_level,Lobby Unlock,localization.json:UI
+UI.memory_lobby_bgm_name,Lobby BGM,localization.json:UI
+UI.student_stars,★ Quantity,localization.json:UI
+UI.terrain_adaption,{0} Combat Power,localization.json:UI
+UI.terrain_adaption_details,Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain. Block rate when taking cover is increased by <b>{2}%</b>. Enemy block rate reduced by <b>{2}%</b> when attacking.,localization.json:UI
+UI.stat_details,Detailed Character Stats,localization.json:UI
+UI.buffs,Buffs & Debuffs,localization.json:UI
+UI.configure_buffs,Configure Buffs & Debuffs,localization.json:UI
+UI.self,Self,localization.json:UI
+UI.ally,Ally,localization.json:UI
+UI.target,Target,localization.json:UI
+UI.summon,Summon,localization.json:UI
+UI.summon_inheritance,Inherits {0} of {1}'s {2},localization.json:UI
+UI.damage_reduction,Damage Reduction,localization.json:UI
+UI.minimum_damage,Minimum Damage,localization.json:UI
+UI.striker_bonus,Striker Bonus,localization.json:UI
+UI.stat_info,Stats Info,localization.json:UI
+UI.rec_level,Rec.,localization.json:UI
+UI.stage_rewards,Rewards,localization.json:UI
+UI.rewards_none,No rewards.,localization.json:UI
+UI.rewards_findgift_msg,Each enemy defeated will drop one of the following items:,localization.json:UI
+UI.stage_enemies,Enemies,localization.json:UI
+UI.stage_info,Info,localization.json:UI
+UI.stage_map,Map,localization.json:UI
+UI.stage_conquest_tile,Tile,localization.json:UI
+UI.event_version,Event Version,localization.json:UI
+UI.stage_original,Original,localization.json:UI
+UI.stage_rerun,Rerun,localization.json:UI
+UI.stage_permanent,Permanent,localization.json:UI
+UI.starcondition_clear,Clear,localization.json:UI
+UI.starcondition_cleartime,Clear within <b>{0}</b> second(s).,localization.json:UI
+UI.starcondition_earnrewards,Earn <b>{0}</b> reward(s).,localization.json:UI
+UI.starcondition_defeatall,Defeat all enemies.,localization.json:UI
+UI.starcondition_defeatalltime,Defeat all enemies within <b>{0}</b> seconds.,localization.json:UI
+UI.starcondition_allsurvive,All students survive.,localization.json:UI
+UI.starcondition_complete,Mission Complete,localization.json:UI
+UI.starcondition_clearturns,Clear stage within <b>{0}</b> turn(s).,localization.json:UI
+UI.starcondition_sranks,Acquire S rank <b>{0}</b> time(s).,localization.json:UI
+UI.no_results,No results.,localization.json:UI
+UI.furniture_set,Set,localization.json:UI
+UI.furniture_template,Preset Layout {0},localization.json:UI
+UI.furniture_templates,Used in the following preset layouts,localization.json:UI
+UI.furniture_size,Size,localization.json:UI
+UI.others,Other,localization.json:UI
+UI.options,Options,localization.json:UI
+UI.details,Details,localization.json:UI
+UI.calculations,Calculations,localization.json:UI
+UI.options_short,Opts.,localization.json:UI
+UI.rules,Rules,localization.json:UI
+UI.ta_phase,Stage {0},localization.json:UI
+UI.craft_rewards,Possible Items,localization.json:UI
+UI.craft_fusion,Material Fusion,localization.json:UI
+UI.craft_recipe_items,Required Items,localization.json:UI
+UI.craft_using,Crafted using the following items,localization.json:UI
+UI.craft_toggle_chance,Show Node Appearance Rates,localization.json:UI
+UI.craft_toggle_language,Show Japanese Node Names,localization.json:UI
+UI.bond_req_equip,Requires {0} with {1} to equip,localization.json:UI
+UI.bond_req_upgrade,Requires {0} with {1} to upgrade,localization.json:UI
+UI.gacha_pickup,Pick-Up Recruitment,localization.json:UI
+UI.rewards,Rewards,localization.json:UI
+UI.stage_reward_firstclear,1st Time,localization.json:UI
+UI.stage_reward_threestar,3★,localization.json:UI
+UI.stage_reward_bonus,Bonus,localization.json:UI
+UI.no_bonus,None,localization.json:UI
+UI.max_bonus,Maximum,localization.json:UI
+UI.own_bonus,Owned Only,localization.json:UI
+UI.max_bonus_amount,Max Bonus {0},localization.json:UI
+UI.rewards_season,Season Pt. Reward,localization.json:UI
+UI.raid_tab,Total/Grand Assault,localization.json:UI
+UI.seasons,Seasons,localization.json:UI
+UI.raid_season,Season {0},localization.json:UI
+UI.raid_season_select,Select Season,localization.json:UI
+UI.equipment_tier,Equipment Tier,localization.json:UI
+UI.show_all,Show All,localization.json:UI
+UI.craftable,Craftable,localization.json:UI
+UI.stagedrop,Farmable,localization.json:UI
+UI.shop,Purchasable,localization.json:UI
+UI.furniture_interaction_list,The following students interact with this furniture,localization.json:UI
+UI.item_student_favor,{0} EXP when given to,localization.json:UI
+UI.item_student_favor_default,{0} EXP when given to all other students,localization.json:UI
+UI.item_student_favor_all,{0} EXP when given to any student,localization.json:UI
+UI.item_usedby_gear,Used to improve the following students' unique item,localization.json:UI
+UI.item_usedby_potential,Used to unlock talent levels in the following students,localization.json:UI
+UI.item_usedby,Used by the following students,localization.json:UI
+UI.item_usedby_exskill_amount,Needed for EX Skill: {0},localization.json:UI
+UI.item_usedby_skill_amount,Needed for Basic/Enhanced/Sub Skill: {0},localization.json:UI
+UI.item_usedby_skill,Used to improve the following students' skills,localization.json:UI
+UI.item_usedby_eleph,Used to increase ★ quantity in the following student,localization.json:UI
+UI.item_usedby_none,Not used by any students,localization.json:UI
+UI.item_obtainedfrom_stage,Obtained from the following missions,localization.json:UI
+UI.item_obtainedfrom_synthesis,Obtained via material synthesis,localization.json:UI
+UI.synthesis_ingredients,Requires 100% worth of eligible ingredients,localization.json:UI
+UI.random_item,Random Item,localization.json:UI
+UI.group_tooltip_overflow,... (Click to view {0} more items),localization.json:UI
+UI.ingredient_list,Ingredient List,localization.json:UI
+UI.item_obtainedfrom_fusion,Obtained via material fusion,localization.json:UI
+UI.item_obtainedfrom_consumable,Obtained via consumable,localization.json:UI
+UI.item_purchasedfrom,Purchased from the following shops,localization.json:UI
+UI.item_eventbonus,The following students earn bonus amounts of this currency.,localization.json:UI
+UI.item_contains,Rewards the following items,localization.json:UI
+UI.item_contains_random,Randomly rewards one of the following items,localization.json:UI
+UI.item_contains_choice,Rewards a choice of one of the following items,localization.json:UI
+UI.conquest_area,Area {0},localization.json:UI
+UI.conquest_occupy,Occupy,localization.json:UI
+UI.conquest_operate,Operate,localization.json:UI
+UI.conquest_analyze,Analyze,localization.json:UI
+UI.base_level,Base Info,localization.json:UI
+UI.base_upgrade_cost,Upgrade Cost,localization.json:UI
+UI.base_settlement,Settlement,localization.json:UI
+UI.school_bonus,Academy Buff,localization.json:UI
+UI.school_bonus_num_students,{0} Students:,localization.json:UI
+UI.school_bonus_conquest,"({2}) Event Currency Reward +{0}%, (Occupy) ATK +{1}%",localization.json:UI
+UI.tooltip_bond_level,{0}'s Bond Level,localization.json:UI
+UI.tooltip_weapon_level,Exclusive Weapon Level,localization.json:UI
+UI.tooltip_potential_level,{0} Talent Level,localization.json:UI
+UI.tooltip_collection_add,Add to Collection <small>(Saves selected stats)</small>,localization.json:UI
+UI.tooltip_collection_remove,Remove from Collection,localization.json:UI
+UI.tooltip_sprite_toggle,Toggle Alternate Portrait,localization.json:UI
+UI.collection,Collection,localization.json:UI
+UI.collection_owned,Owned,localization.json:UI
+UI.collection_notowned,Not Owned,localization.json:UI
+UI.favourites,Favorites,localization.json:UI
+UI.favourites_add,Add to Favorites,localization.json:UI
+UI.favourites_remove,Remove from Favorites,localization.json:UI
+UI.add,Add,localization.json:UI
+UI.remove,Remove,localization.json:UI
+UI.toast_import_success,Successfully imported collection data for {0} students,localization.json:UI
+UI.toast_import_failure,Error importing student collection,localization.json:UI
+UI.toast_import_copy,Copied import string to clipboard,localization.json:UI
+UI.toast_amount_invalid,Invalid amount entered,localization.json:UI
+UI.toast_release_warning,This content has not yet been released in the current region. Data from the JP region will be displayed.,localization.json:UI
+UI.stat_defense_tooltip,DMG Reduction: {0},localization.json:UI
+UI.stat_crit_tooltip,Crit Chance:,localization.json:UI
+UI.stat_crit_amount_tooltip,{0}&nbsp;<small><i>({1} Crit RES)</i></small>,localization.json:UI
+UI.stat_stability_tooltip,Minimum DMG: {0},localization.json:UI
+UI.home_header,"<b>Schale DB</b> is an unofficial database for the iOS and Android game <b class=""text-accent"">Blue </b><b>Archive</b> developed by Nexon Games.",localization.json:UI
+UI.home_change_server,Data is available in multiple languages and supports all game regions. Change language and game region in the {0} menu.,localization.json:UI
+UI.home_copyright,"Schale DB is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",localization.json:UI
+UI.changelog,Changelog,localization.json:UI
+UI.about,About,localization.json:UI
+UI.links,Links,localization.json:UI
+UI.community_resources,Community Resources,localization.json:UI
+UI.skillinfo_empty,The selected character has no damage-dealing or healing skills to display.,localization.json:UI
+UI.skill_normalattack_target,Deals <?1> damage to one enemy.,localization.json:UI
+UI.skill_normalattack_circle,Deals <?1> damage to enemies in a circular area.,localization.json:UI
+UI.skill_normalattack_line,Deals <?1> damage to enemies in a straight line.,localization.json:UI
+UI.skill_normalattack_fan,Deals <?1> damage to enemies in a fan-shaped area.,localization.json:UI
+UI.skill_normalattack_additional,Deals <?{0}> as additional damage.,localization.json:UI
+UI.type_effectiveness,Effectiveness,localization.json:UI
+UI.level_difference,Level Difference,localization.json:UI
+UI.hit_rate,Hit Rate,localization.json:UI
+UI.crit_rate,Crit Rate,localization.json:UI
+UI.block_rate,Cover Block Rate,localization.json:UI
+UI.dmginfo_ignore_def,DEF Ignored,localization.json:UI
+UI.dmginfo_hit_avg,Avg. Hit DMG,localization.json:UI
+UI.dmginfo_total_avg,Avg. Total DMG,localization.json:UI
+UI.dmginfo_dmg,DMG,localization.json:UI
+UI.dmginfo_heal,Heal,localization.json:UI
+UI.dmginfo_dmg_avg,Avg. Damage,localization.json:UI
+UI.dmginfo_minimum,Minimum,localization.json:UI
+UI.dmginfo_maximum,Maximum,localization.json:UI
+UI.dmginfo_nocrit_avg,0% Crit Avg.,localization.json:UI
+UI.dmginfo_allcrit_avg,100% Crit Avg.,localization.json:UI
+UI.rate_of_fire,Rate of Fire,localization.json:UI
+UI.attacks_per_min,{0} atk/min,localization.json:UI
+UI.attacks_per_min_tooltip,Attacks per minute,localization.json:UI
+UI.hits_per_min,{0} hit/min,localization.json:UI
+UI.time_seconds,{0}s,localization.json:UI
+UI.time_frames,{0}f,localization.json:UI
+UI.time_seconds_frames,{0}s ({1} frames),localization.json:UI
+UI.dmginfo_avg_dps,Estimated DPS,localization.json:UI
+UI.dmginfo_heal_amount,HP Restored ({0}),localization.json:UI
+UI.dmginfo_shield_amount,Barrier HP,localization.json:UI
+UI.dmginfo_cc_effect_chance,{0} Chance,localization.json:UI
+UI.dmginfo_duration,{0} Duration,localization.json:UI
+UI.dmginfo_tickapplycount,Max. Ticks,localization.json:UI
+UI.dmginfo_accumulation_limit,DMG Limit,localization.json:UI
+UI.peroro_target_1,1st,localization.json:UI
+UI.peroro_target_2,2nd,localization.json:UI
+UI.peroro_target_3,3rd,localization.json:UI
+UI.voicegallery,Voice Gallery,localization.json:UI
+UI.skill_target_hp,Target HP,localization.json:UI
+UI.max_attributes,Set All to Maximum,localization.json:UI
+UI.lock_attributes,Lock Collection Stats,localization.json:UI
+UI.lock_attributes_help,Prevents changes to the student's stats from saving while locked.,localization.json:UI
+UI.midokuni_link,Midokuni's Insights,localization.json:UI
+UI.version_lastupdated,last updated {0} ({1} day(s) ago),localization.json:UI
+UI.info_unavailable,Information for this server is currently unavailable.,localization.json:UI
+UI.range,Range,localization.json:UI
+UI.radius,Radius,localization.json:UI
+UI.angle,Angle,localization.json:UI
+UI.length,Length,localization.json:UI
+UI.width,Width,localization.json:UI
+UI.bounce,Bounce Range,localization.json:UI
+UI.skill_duration,Skill Animation,localization.json:UI
+UI.skill_delay,Application Delay,localization.json:UI
+UI.tsa_board,T.S.A Boarding,localization.json:UI
+UI.tooltip_combat_style,Switch Combat Style,localization.json:UI
+UI.show_cumulative,Cumulative,localization.json:UI
+UI.exp_value,EXP Value,localization.json:UI
+UI.exp_bonus,EXP Bonus (1.5×),localization.json:UI
+UI.craft_quality,Synthesis Value,localization.json:UI
+UI.shifting_craft_quality,Fusion Value,localization.json:UI
+UI.unit_clear_map_filter,Clear Map Unit Filter,localization.json:UI
+UI.gachagroup_contents,Item Box Contents,localization.json:UI
+UI.base_chance,Base Chance,localization.json:UI
+UI.appearance_rate,Appearance Rate,localization.json:UI
+UI.appearance_rate_help,The chance of the node being one of the chosen five crafting nodes.,localization.json:UI
+UI.avg_damage_help,"Total of all damage hits, using an average based on the attacker's Stability, Accuracy and Crit Rate.",localization.json:UI
+UI.cc_gauge_fill,CC Gauge Fill,localization.json:UI
+UI.cc_gauge_fill_help,The amount the target's CC Gauge will increase by if it is affected by CC Power/CC Res.,localization.json:UI
+UI.effect_shiro_bomb,Bomb,localization.json:UI
+UI.effect_shiro_icebomb,Ice Bomb,localization.json:UI
+UI.effect_shiro_stickybomb,Sticky Bomb,localization.json:UI
+UI.avg_dps_help,"The average damage dealt per second by the character's normal attacks, not accounting for Basic Skill activations.",localization.json:UI
+UI.frames_attackenter,Attack Ready,localization.json:UI
+UI.frames_attackenter_help,The duration of the animation after a character stops moving and readies their weapon to attack.,localization.json:UI
+UI.frames_attackready,Mount/Unmount Duration,localization.json:UI
+UI.frames_attackready_help,The duration of the character mounting and unmounting their weapon. (For Shun this is entering and exiting a prone stance),localization.json:UI
+UI.frames_attacking,Attack Duration,localization.json:UI
+UI.frames_attacking_help,The duration of the character firing their weapon during their normal attack.,localization.json:UI
+UI.frames_attackreload,Reload Duration,localization.json:UI
+UI.frames_attackreload_help,The duration of the character reloading their weapon.,localization.json:UI
+UI.frames_attackstart,Start/End Delay,localization.json:UI
+UI.frames_attackstart_help,"The delay between starting and stopping normal attacks, when the character needs to reload or perform other actions such as moving and activating skills.",localization.json:UI
+UI.frames_attackburstroundover,Attack Delay,localization.json:UI
+UI.frames_attackburstroundover_help,The delay between normal attacks when the character has ammo remaining.,localization.json:UI
+UI.select_all,Select All,localization.json:UI
+UI.select_student,Select Student,localization.json:UI
+UI.select_target,Select Target,localization.json:UI
+UI.select_special,Select Special Student,localization.json:UI
+UI.calculation_result,Results,localization.json:UI
+UI.configure_columns,Configure Columns,localization.json:UI
+UI.critical,Critical,localization.json:UI
+UI.damage_hit,Hit {0},localization.json:UI
+UI.damage_hits,{0} hits,localization.json:UI
+UI.damage_ticks,{0} ticks,localization.json:UI
+UI.ignores_cover,Ignores Cover,localization.json:UI
+UI.ignores_cover_partial,Partially Ignores Cover,localization.json:UI
+UI.unavoidable,Unavoidable,localization.json:UI
+UI.always_critical,Always Critical,localization.json:UI
+UI.never_critical,Never Critical,localization.json:UI
+UI.student_unique_short,U,localization.json:UI
+UI.student_event_short,E,localization.json:UI
+UI.student_fest_short,F,localization.json:UI
+UI.selection_selected,Selected,localization.json:UI
+UI.selection_confirm,Confirm,localization.json:UI
+UI.selection_clear,Clear,localization.json:UI
+UI.buff_effects,Effects:,localization.json:UI
+UI.base_value,Base Value:,localization.json:UI
+UI.character_size,Size,localization.json:UI
+UI.enemy_rank,Rank,localization.json:UI
+UI.difficulty,Difficulty,localization.json:UI
+UI.event_bonus,Event Bonus,localization.json:UI
+UI.group_view,Grouped View,localization.json:UI
+UI.skill_related,Related,localization.json:UI
+UI.purchase_per_day,{0} / day,localization.json:UI
+UI.purchase_per_month,{0} / month,localization.json:UI
+UI.distance_units,{0} units,localization.json:UI
+UI.date_today,Today,localization.json:UI
+UI.num_alts,No. of Alts,localization.json:UI
+UI.error_msg,Something went wrong.,localization.json:UI
+UI.error_retry,Retry,localization.json:UI
+UI.no_enemies,No enemies.,localization.json:UI
+UI.exclude_alts,Exclude Alts,localization.json:UI
+ui.enemy,Enemy,localization.json:ui
+ui.navbar_raids,Raids,localization.json:ui
+ui.synthesis,Synthesis,localization.json:ui
+ui.item_sources,Item Sources,localization.json:ui
+ui.navbar_settings_server,Game Server,localization.json:ui
+ui.navbar_settings_language_description,"Depending on the server selected, some content may not be translated.",localization.json:ui
+ui.navbar_settings_theme_description,Auto will use your device theme.,localization.json:ui
+ui.navbar_settings_contrast_description,Disables blur and transparency effects.<br>May also improve performance.,localization.json:ui
+ui.navbar_settings_collection_description,Import or export your student collection data.,localization.json:ui
+ui.navbar_settings_custombuffs,Enable Custom Buffs,localization.json:ui
+ui.navbar_settings_custombuffs_description,(Experimental) Allows for setting custom buff values on student's stat display options screen.,localization.json:ui
+ui.filter_by_name,Filter by name,localization.json:ui
+ui.collection_export_collection,Export Collection,localization.json:ui
+ui.collection_import_collection,Import Collection,localization.json:ui
+ui.collection_import_help,"Data can be imported from Schale or <a href=""https://justin163.com/planner/"">Justin163's resource planner</a>. (Select Transfer > Export)",localization.json:ui
+ui.collection_import_warning,This will overwrite your current collection,localization.json:ui
+ui.collection_import_status_valid,Export data for {0} students found.,localization.json:ui
+ui.collection_import_status_invalid,Export data is invalid.,localization.json:ui
+ui.collection_export_placeholder,Click export to generate an export string from your collection,localization.json:ui
+ui.collection_import_placeholder,Paste export string here and click Import,localization.json:ui
+ui.collection_export,Export,localization.json:ui
+ui.collection_import,Import,localization.json:ui
+ui.current_events,Current Events ({0} Server),localization.json:ui
+ui.home_timezone,All dates are converted to your local timezone.,localization.json:ui
+ui.event_starts,"Starts in <b>{0} days, {1} hours and {2} minutes</b>.",localization.json:ui
+ui.event_ends,"Ends in <b>{0} days, {1} hours and {2} minutes</b>.",localization.json:ui
+ui.student_birthdays,The following students are celebrating their birthday in the next 7 days!,localization.json:ui
+ui.base_stats,Base Stats,localization.json:ui
+ui.max_stats,Max. Stats,localization.json:ui
+ui.collection_stats,Use Collection Stats,localization.json:ui
+ui.sp_sub_skill,Special Sub Skill,localization.json:ui
+ui.profile,Profile,localization.json:ui
+ui.student_ex_gear,Unique Item,localization.json:ui
+ui.student_bond,Relationship Rank,localization.json:ui
+ui.tooltip_supportstats,Support Stats,localization.json:ui
+ui.tooltip_vehiclestats,Vehicle/Summon Stats,localization.json:ui
+ui.add_own,Add Own/Selected Specials,localization.json:ui
+ui.buff_transferable,Other Buffs,localization.json:ui
+ui.buff_transferable_conflict,Some of the selected buffs' effects conflict with each other. Only the first effect will be applied.,localization.json:ui
+ui.buff_transferable_incompatible,Some of the selected buffs cannot be applied to the current character.,localization.json:ui
+ui.enemy_debuffs,Enemy Debuffs,localization.json:ui
+ui.enemy_select,Select Enemy,localization.json:ui
+ui.filter_all,All,localization.json:ui
+ui.filter_bookmark,Bookmarks,localization.json:ui
+ui.buff_custom,Custom Buffs,localization.json:ui
+ui.buff_custom_enemy,Enemy Custom Buffs,localization.json:ui
+ui.buff_custom_base,Add as base amount,localization.json:ui
+ui.buff_custom_coefficient,Add as percentage amount,localization.json:ui
+ui.buff_custom_name_placeholder,Name (Optional),localization.json:ui
+ui.buff_custom_value_placeholder,Value,localization.json:ui
+ui.supportstats_search,Search for Special Student,localization.json:ui
+ui.student_skill_gearnormal,Basic Skill+,localization.json:ui
+ui.student_skill_weaponpassive,Enhanced Skill+,localization.json:ui
+ui.student_skills_upgrades,Upgrades,localization.json:ui
+ui.student_skills_materials,Materials,localization.json:ui
+ui.student_skills_materials_none,No materials required.,localization.json:ui
+ui.student_weapon_rank_2star_desc,Exclusive Weapon Max Level Lv.30 → <b>Lv.40</b> / Upgrades Enhanced Skill,localization.json:ui
+ui.student_weapon_rank_3star_desc,Exclusive Weapon Max Level Lv.40 → <b>Lv.50</b> / Upgrades Terrain Strength,localization.json:ui
+ui.student_gear_t2_desc,Unlocks Basic Skill+,localization.json:ui
+ui.attack_type_desc,Deals <b>{0}&times;</b> damage to {1}.,localization.json:ui
+ui.attack_type_normal_desc,"Deals <b>1&times;</b> damage to <b class='ba-col-explosion'>Light Armor</b>, <b class='ba-col-pierce'>Heavy Armor</b>, <b class='ba-col-mystic'>Special Armor</b> and <b class='ba-col-elasticarmor'>Elastic Armor</b>.<br>Deals <b>0.5&times;</b> damage to <b>Structures</b>.",localization.json:ui
+ui.defense_type_desc,Receives <b>{0}&times;</b> damage from {1} attacks.,localization.json:ui
+ui.defense_type_normal_desc,"Receives <b>1&times;</b> damage from <b class='ba-col-explosion'>Explosive</b>, <b class='ba-col-pierce'>Piercing</b>, <b class='ba-col-mystic'>Mystic</b> and <b class='ba-col-sonic'>Sonic</b> attacks.",localization.json:ui
+ui.age,Age,localization.json:ui
+ui.hobbies,Hobbies,localization.json:ui
+ui.cv,CV.,localization.json:ui
+ui.bond_title,Relationship Rank Bonus,localization.json:ui
+ui.weaponbonus_title,Limit Breakthrough,localization.json:ui
+ui.favoritem_title,Favorite Gifts,localization.json:ui
+ui.favoritem_none,This student does not have any favourite gifts.,localization.json:ui
+ui.furniture_title,Furniture Interaction,localization.json:ui
+ui.furniture_none,This student does not interact with any cafe furniture.,localization.json:ui
+ui.filters,Filters,localization.json:ui
+ui.student_search_filters_clear,Clear all Filters,localization.json:ui
+ui.student_search_info,Show all Info,localization.json:ui
+ui.sortby,Sort By,localization.json:ui
+ui.default,Default,localization.json:ui
+ui.type,Type,localization.json:ui
+ui.role,Role,localization.json:ui
+ui.rarity_availability,Rarity / Availability,localization.json:ui
+ui.attacktype,Attack Type,localization.json:ui
+ui.defensetype,Defense Type,localization.json:ui
+ui.position,Position,localization.json:ui
+ui.combat_power,Terrain Strength,localization.json:ui
+ui.misc,Misc.,localization.json:ui
+ui.uses_cover,Uses Cover,localization.json:ui
+ui.doesnt_use_cover,Doesn't Use Cover,localization.json:ui
+ui.can_cc,Can CC,localization.json:ui
+ui.can_debuff,Can Debuff,localization.json:ui
+ui.uses_artifact,Uses Artifact,localization.json:ui
+ui.filter_include_weapon_upgrade,Include Weapon Upgrade,localization.json:ui
+ui.memory_lobby,Recollection Lobby,localization.json:ui
+ui.memory_lobby_student,{0}'s Recollection Lobby,localization.json:ui
+ui.memory_lobby_unlock,Unlocks after reaching relationship rank {0} with {1},localization.json:ui
+ui.memory_lobby_unlock_level,Lobby Unlock,localization.json:ui
+ui.memory_lobby_bgm,Lobby BGM: {0},localization.json:ui
+ui.memory_lobby_bgm_name,Lobby BGM,localization.json:ui
+ui.student_stars,Mystic Unlock,localization.json:ui
+ui.terrain_adaption,{0} Combat Power,localization.json:ui
+ui.terrain_adaption_details,Deals <b>{0}&times;</b> damage in <b>{1}</b> terrain. Block rate when taking cover is increased by <b>{2}%</b>. Enemy block rate reduced by <b>{2}%</b> when attacking.,localization.json:ui
+ui.statpreview_title,Stat / Skill Details,localization.json:ui
+ui.buffs,Buffs,localization.json:ui
+ui.enemy_target,Target,localization.json:ui
+ui.summon_inheritance,Inherits {0} of {1}'s {2},localization.json:ui
+ui.stability_mindamage,Minimum Damage: {0},localization.json:ui
+ui.stage_rewards,Rewards,localization.json:ui
+ui.rewards_findgift_msg,Each enemy defeated will drop one of the following items:,localization.json:ui
+ui.stage_enemies,Enemies,localization.json:ui
+ui.stage_info,Info,localization.json:ui
+ui.stage_map,Map,localization.json:ui
+ui.stage_conquest_tile,Zone,localization.json:ui
+ui.event_rerun,(Rerun),localization.json:ui
+ui.starcondition_defeatall,Defeat all enemies.,localization.json:ui
+ui.starcondition_defeatalltime,Defeat all enemies within <b>{0}</b> seconds.,localization.json:ui
+ui.starcondition_allsurvive,All students survive.,localization.json:ui
+ui.starcondition_sranks,Acquire S rank <b>{0}</b> time(s).,localization.json:ui
+ui.no_results,No results.,localization.json:ui
+ui.furniture_set,Set,localization.json:ui
+ui.others,Other,localization.json:ui
+ui.calculations,Calculations,localization.json:ui
+ui.ta_phase,Stage,localization.json:ui
+ui.craft_rewards,Possible Items,localization.json:ui
+ui.craft_recipe_items,Required Items,localization.json:ui
+ui.craft_using,Crafted using the following items,localization.json:ui
+ui.craft_toggle_chance,Show Node Appearance Rates,localization.json:ui
+ui.bond_req_equip,Requires <i class='ms-1 fa-solid fa-heart'></i> {0} with {1} to equip,localization.json:ui
+ui.bond_req_upgrade,Requires <i class='ms-1 fa-solid fa-heart'></i> {0} with {1} to upgrade,localization.json:ui
+ui.skill_plus,+,localization.json:ui
+ui.stage_reward_default,Rewards,localization.json:ui
+ui.rewards_season,Season Reward,localization.json:ui
+ui.raid_season,Season {0} ({1}),localization.json:ui
+ui.item_tab_materials,Materials,localization.json:ui
+ui.item_tab_gifts,Gifts,localization.json:ui
+ui.item_tab_currency,Currency,localization.json:ui
+ui.list_style_detailed,Detailed View,localization.json:ui
+ui.list_style_compact,Compact View,localization.json:ui
+ui.equipment_tier,Equipment Tier,localization.json:ui
+ui.furniture_interaction_list,The following students interact with this furniture,localization.json:ui
+ui.item_likedbystudent_list_0,Loved {0} by the following students,localization.json:ui
+ui.item_likedbystudent_list_1,Liked {0} by the following students,localization.json:ui
+ui.item_student_favor,+{0} Relationship EXP {1} when given to the following students,localization.json:ui
+ui.item_student_favor_default,+{0} Relationship EXP {1} when given to any other student,localization.json:ui
+ui.item_student_favor_all,+{0} Relationship EXP {1} when given to any student,localization.json:ui
+ui.item_usedby_gear,Used to improve the following students' unique item,localization.json:ui
+ui.item_specialgift,This gift will be treated as a liked item {0} when given to any student,localization.json:ui
+ui.item_usedby,Used by the following students,localization.json:ui
+ui.item_usedby_exskill_amount,Needed for EX Skill: {0},localization.json:ui
+ui.item_usedby_skill_amount,Needed for Basic/Enhanced/Sub Skill: {0},localization.json:ui
+ui.item_usedby_skill,Used to improve the following students' skills,localization.json:ui
+ui.item_usedby_eleph,Used to unlock mystic in the following student,localization.json:ui
+ui.item_obtainedfrom_stage,Obtained from the following stages,localization.json:ui
+ui.item_purchasedfrom,Purchased from the following shops,localization.json:ui
+ui.item_eventbonus,The following students earn bonus amounts of this currency.,localization.json:ui
+ui.item_randombox_tier,Random {0} {1},localization.json:ui
+ui.item_artifact_box,Contains one of the following artifacts:,localization.json:ui
+ui.item_equipment_box,Contains one of the following equipment pieces:,localization.json:ui
+ui.item_contains,Rewards the following items,localization.json:ui
+ui.item_contains_random,Randomly rewards one of the following items,localization.json:ui
+ui.item_contains_choice,Rewards a choice of one of the following items,localization.json:ui
+ui.item_is_immediateuse,※ This item is used immediately when acquired,localization.json:ui
+ui.conquest_area,Area {0},localization.json:ui
+ui.conquest_title,"Area {0}, Team {1}",localization.json:ui
+ui.conquest_occupy,Occupy,localization.json:ui
+ui.conquest_analyze,Analyze,localization.json:ui
+ui.conquest_settlement,Settlement Acquisition Reward,localization.json:ui
+ui.school_bonus,Academy Buff,localization.json:ui
+ui.school_bonus_num_students,{0} Students:,localization.json:ui
+ui.school_bonus_conquest,"({2}) Event Currency Reward +{0}%, (Occupy) ATK +{1}%",localization.json:ui
+ui.tooltip_relationship_bonus,Include {0}'s Relationship Bonus,localization.json:ui
+ui.tooltip_equipment_bonus,Include Equipment Bonus,localization.json:ui
+ui.tooltip_passiveskill_bonus,Include Enhanced Skill Buff,localization.json:ui
+ui.tooltip_buffs_bonus,Include {0} Selected Buffs,localization.json:ui
+ui.tooltip_compare,Compare with Student,localization.json:ui
+ui.tooltip_compare_remove,Remove Comparison,localization.json:ui
+ui.tooltip_collection_add,Add to Collection <small>(Saves selected stats)</small>,localization.json:ui
+ui.tooltip_sprite_toggle,Change Sprite,localization.json:ui
+ui.collection_owned,Owned,localization.json:ui
+ui.collection_notowned,Not Owned,localization.json:ui
+ui.maptile_spawn,Spawn Tile,localization.json:ui
+ui.maptile_drone,Drone (Reveals surrounding tiles),localization.json:ui
+ui.maptile_remove,Remove Tile,localization.json:ui
+ui.maptile_teleport_oneway_entrance,One-way Teleporter Entrance,localization.json:ui
+ui.maptile_teleport_oneway_exit,One-way Teleporter Exit,localization.json:ui
+ui.maptile_teleport_twoway,Two-way Teleporter,localization.json:ui
+ui.maptile_item_food,Food Pickup (Heals unit for 50% of their Max HP),localization.json:ui
+ui.maptile_item_atk,Gun Pickup (Increases unit's ATK by 10% for the next two turns),localization.json:ui
+ui.maptile_item_def,Armor Pickup (Increases unit's DEF by 10% for the next two turns),localization.json:ui
+ui.maptile_switch_down,Lowered Switch Tile,localization.json:ui
+ui.maptile_switch_up,Raised Switch Tile,localization.json:ui
+ui.maptile_switch_target_down,Lowered Tile,localization.json:ui
+ui.maptile_switch_target_up,Raised Tile,localization.json:ui
+ui.maptile_enemy_default_msg,Click on an enemy unit on the map to view a list of enemies.,localization.json:ui
+ui.toast_import_success,Successfully imported collection data for {0} students,localization.json:ui
+ui.toast_import_failure,Error importing student collection,localization.json:ui
+ui.toast_import_copy,Copied import string to clipboard,localization.json:ui
+ui.toast_amount_invalid,Invalid amount entered,localization.json:ui
+ui.stat_crit_tooltip,Crit Chance:,localization.json:ui
+ui.stat_crit_amount_tooltip,{0}&nbsp;<small><i>({1} Crit RES)</i></small>,localization.json:ui
+ui.stat_ammocount_tooltip,Normal Attack consumes {0} ammo and deals {1} hit(s),localization.json:ui
+ui.stat_ammocount_tooltip_area,Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a circular area,localization.json:ui
+ui.stat_ammocount_tooltip_line,Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a straight line,localization.json:ui
+ui.stat_ammocount_tooltip_fan,Normal Attack consumes {0} ammo and deals {1} hit(s) to enemies in a fan-shaped area,localization.json:ui
+ui.skill_hits_tooltip,Deals a total of {0} hit(s),localization.json:ui
+ui.home_welcome,"Welcome, Sensei!",localization.json:ui
+ui.home_introduction,"Schale is an unofficial database and calculation tool for the mobile game <i class=""text-bold"">Blue Archive</i> developed by Nexon Games and published by Yostar (Japan) and Nexon (Global) for iOS and Android.",localization.json:ui
+ui.home_change_server,"Please select your game server using the settings menu <i class=""fa-solid fa-gear mx-1""></i> to see only information that has been released on that server.",localization.json:ui
+ui.home_features,Features,localization.json:ui
+ui.home_features_list,"<li>Full information on all students and their skills, summons and vehicles.</li><li>Calculation feature that can display a student's stats under any configuration of level, equipment and buffs, and calculate skill damage and healing against a configurable target enemy.</li><li>Complete Items, Equipment and Furniture database.</li><li>Reward drops, maps and detailed enemy information for all Campaign, Event Quest, Challenge and Daily stages.</li><li>Stats and Skill information for Total Assault bosses and Joint Firing Drill events.</li><li>View the chances of possible items received from crafting nodes.</li>",localization.json:ui
+ui.home_footer_text,"Schale is developed and maintained by lonqie, with additional translation work by Blue-Roar, TKRotund, yumiruuwu & akintos. Schale is not affiliated with Nexon, Nexon Games or Yostar. All game artwork, information and assets used in this database are the property and copyright of the respective authors.",localization.json:ui
+ui.changelog,Changelog,localization.json:ui
+ui.links,Links,localization.json:ui
+ui.community_resources,Community Resources,localization.json:ui
+ui.skillinfo_empty,The selected character has no damage-dealing or healing skills to display.,localization.json:ui
+ui.skill_normalattack_target,Deals <?1> damage to one enemy.,localization.json:ui
+ui.skill_normalattack_circle,Deals <?1> damage to enemies in a circular area.,localization.json:ui
+ui.skill_normalattack_line,Deals <?1> damage to enemies in a straight line.,localization.json:ui
+ui.skill_normalattack_fan,Deals <?1> damage to enemies in a fan-shaped area.,localization.json:ui
+ui.type_effectiveness,Type Effectiveness,localization.json:ui
+ui.level_difference,Level Difference,localization.json:ui
+ui.hit_chance,Hit Chance,localization.json:ui
+ui.crit_chance,Crit Chance,localization.json:ui
+ui.hit_crit_chance,Hit / Crit Chance,localization.json:ui
+ui.hit_chance_certain,&infin;,localization.json:ui
+ui.stab_variance,Stability Variance,localization.json:ui
+ui.dmginfo_ignore_def,DEF Ignored,localization.json:ui
+ui.dmginfo_crit,(Crit),localization.json:ui
+ui.dmginfo_numhits,{0} hits,localization.json:ui
+ui.dmginfo_heal,Heal,localization.json:ui
+ui.dmginfo_dmg_avg,Average DMG,localization.json:ui
+ui.dmginfo_rate_of_fire,Rate of Fire,localization.json:ui
+ui.normalattack_burst,burst,localization.json:ui
+ui.dmginfo_rate_of_fire_tooltip,Attack Duration: {0} Attack Delay: {1},localization.json:ui
+ui.dmginfo_reload_time,Reload Time,localization.json:ui
+ui.dmginfo_reload_time_tooltip,Reload Duration: {0} Start Delay: {1} End Delay: {2},localization.json:ui
+ui.dmginfo_avg_dps,Average DPS,localization.json:ui
+ui.dmginfo_heal_amount,HP Restored,localization.json:ui
+ui.dmginfo_shield_amount,{0} HP,localization.json:ui
+ui.dmginfo_cc_effect_chance,{0} Chance,localization.json:ui
+ui.dmginfo_cc_effect_gaugefill,(Hod INS/TMT),localization.json:ui
+ui.dmginfo_accumulation_limit,{0} DMG Limit,localization.json:ui
+ui.ordinal_1,1st,localization.json:ui
+ui.ordinal_2,2nd,localization.json:ui
+ui.ordinal_3,3rd,localization.json:ui
+ui.voicegallery,Voice Gallery,localization.json:ui
+ui.skill_target_hp,Target HP,localization.json:ui
+ui.max_attributes,Set All to Maximum,localization.json:ui
+ui.lock_attributes,Lock Collection Stats,localization.json:ui

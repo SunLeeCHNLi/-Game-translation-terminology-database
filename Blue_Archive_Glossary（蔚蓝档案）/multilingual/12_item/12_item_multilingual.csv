@@ -1,0 +1,650 @@
+﻿category,category_label,id,zh-CN,ja-JP,zh-TW,en-US,ko-KR,th-TH,src_table
+12_item,道具,Item.1,启动石碎片,キーストーンのカケラ,啟動石碎片,Keystone Piece,기동석 조각,เศษคีย์สโตน,items.json
+12_item,道具,Item.2,加速券,ブースターチケット,加成券,Booster Ticket,부스터 티켓,ตั๋วเร่งเวลา,items.json
+12_item,道具,Item.3,启动石,キーストーン,啟動石,Keystone,기동석,คีย์สโตน,items.json
+12_item,道具,Item.7,总力战硬币,総力戦コイン,總力戰硬幣,Total Assault Coin,총력전 코인,เหรียญเรดบอส,items.json
+12_item,道具,Item.8,战术硬币,戦術コイン,戰術硬幣,Tactical Challenge Coin,전술 대회 코인,เหรียญอารีน่า,items.json
+12_item,道具,Item.9,稀有总力战硬币,総力戦レアコイン,高級總力戰硬幣,Advanced Total Assault Coin,상급 총력전 코인,เหรียญเรดบอสขั้นสูง,items.json
+12_item,道具,Item.10,初级活动报告,初級レポート,初級活動報告,Novice Activity Report,초급 활동 보고서,รายงานขั้นต่ำ,items.json
+12_item,道具,Item.11,中级活动报告,中級レポート,一般活動報告,Normal Activity Report,일반 활동 보고서,รายงานขั้นกลาง,items.json
+12_item,道具,Item.12,高级活动报告,上級レポート,高級活動報告,Advanced Activity Report,상급 활동 보고서,รายงานขั้นสูง,items.json
+12_item,道具,Item.13,最高级活动报告,最上級レポート,最高級活動報告,Superior Activity Report,최상급 활동 보고서,รายงานขั้นสูงสุด,items.json
+12_item,道具,Item.23,神名碎片,神名のカケラ,神名文字碎片,Eligma,엘리그마,เอลลิกมา,items.json
+12_item,道具,Item.30,咖啡厅设备核心 LV1,カフェ設備コアLv1,咖啡廳設備核心 LV1,Cafe Facilities Core Lv. 1,카페 설비 코어 LV1,แก่นอุปกรณ์คาเฟ่ LV1,items.json
+12_item,道具,Item.31,咖啡厅设备核心 LV2,カフェ設備コアLv2,咖啡廳設備核心 LV2,Cafe Facilities Core Lv. 2,카페 설비 코어 LV2,แก่นอุปกรณ์คาเฟ่ LV2,items.json
+12_item,道具,Item.32,咖啡厅设备核心 LV3,カフェ設備コアLv3,咖啡廳設備核心 LV3,Cafe Facilities Core Lv. 3,카페 설비 코어 LV3,แก่นอุปกรณ์คาเฟ่ LV3,items.json
+12_item,道具,Item.60,火力演习硬币,火力演習コイン,綜合戰術考試硬幣,Joint Firing Drill Coin,종합전술시험 코인,เหรียญสอบประมวล,items.json
+12_item,道具,Item.61,悬赏通缉硬币,指名手配コイン,懸賞通緝硬幣,Bounty Coins,현상수배 코인,เหรียญประกาศจับ,items.json
+12_item,道具,Item.70,大决战硬币,大決戦コイン,大決戦コイン,Grand Battle Coin,대결전 코인,เหรียญศึกตัดสิน,items.json
+12_item,道具,Item.71,大決戦レアコイン,大決戦レアコイン,大決戦レアコイン,大決戦レアコイン,상급 대결전 코인,เหรียญศึกตัดสินขั้นสูง,items.json
+12_item,道具,Item.80,初级定向启动石,初級テイラーストーン,下級合成用啟動石,Lesser Fusion Keystone,하급 합성용 기동석,คีย์สโตนเร่งการรวม ขั้นต่ำ,items.json
+12_item,道具,Item.81,中级定向启动石,中級テイラーストーン,一般合成用啟動石,Normal Fusion Keystone,일반 합성용 기동석,คีย์สโตนเร่งการรวม ขั้นกลาง,items.json
+12_item,道具,Item.82,高级定向启动石,上級テイラーストーン,高級合成用啟動石,Advanced Fusion Keystone,상급 합성용 기동석,คีย์สโตนเร่งการรวม ขั้นสูง,items.json
+12_item,道具,Item.83,最高级定向启动石,最上級テイラーストーン,最高級合成用啟動石,Superior Fusion Keystone,최상급 합성용 기동석,คีย์สโตนเร่งการรวม ขั้นสูงสุด,items.json
+12_item,道具,Item.90,初级制造用原料,初級製造用マテリアル,下級製造用原料,Lesser Crafting Material,하급 제조용 마테리얼,วัตถุดิบการสร้างขั้นต่ำ,items.json
+12_item,道具,Item.91,中级制造用原料,中級製造用マテリアル,一般製造用原料,Normal Crafting Material,일반 제조용 마테리얼,วัตถุดิบการสร้างขั้นกลาง,items.json
+12_item,道具,Item.92,高级制造用原料,上級製造用マテリアル,高級製造用原料,Advanced Crafting Material,상급 제조용 마테리얼,วัตถุดิบการสร้างขั้นสูง,items.json
+12_item,道具,Item.100,内布拉星象盘片碎片,ネブラディスクの欠片,內布拉盤碎片,Nebra Sky Disk Piece,네브라 디스크 조각,เศษดิสก์เนบรา,items.json
+12_item,道具,Item.101,损坏的内布拉星象盘片,壊れたネブラディスク,破損的內布拉盤,Broken Nebra Sky Disk,파손된 네브라 디스크,ดิสก์เนบราที่พัง,items.json
+12_item,道具,Item.102,磨损的内布拉星象盘片,摩耗したネブラディスク,磨損的內布拉盤,Damaged Nebra Sky Disk,마모된 네브라 디스크,ดิสก์เนบราที่สึก,items.json
+12_item,道具,Item.103,完整的内布拉星象磁盘,完全なネブラディスク,完整的內布拉盤,Intact Nebra Sky Disk,온전한 네브라 디스크,ดิสก์เนบราสมบูรณ์,items.json
+12_item,道具,Item.110,斐斯托斯圆盘碎片,ファイストス円盤の欠片,斐斯托斯圓盤碎片,Phaistos Disc Piece,파에스토스 원반 조각,เศษจักรเฟสทอส,items.json
+12_item,道具,Item.111,损坏的斐斯托斯圆盘,壊れたファイストス円盤,破損的斐斯托斯圓盤,Broken Phaistos Disc,파손된 파에스토스 원반,จักรเฟสทอสที่พัง,items.json
+12_item,道具,Item.112,磨损的斐斯托斯圆盘,摩耗したファイストス円盤,磨損的斐斯托斯圓盤,Damaged Phaistos Disc,마모된 파에스토스 원반,จักรเฟสทอสที่สึก,items.json
+12_item,道具,Item.113,完整的斐斯托斯圆盘,完全なファイストス円盤,完整的斐斯托斯圓盤,Intact Phaistos Disc,온전한 파에스토스 원반,จักรเฟสทอสสมบูรณ์,items.json
+12_item,道具,Item.120,沃尔夫赛格铁矿,ヴォルフスエックの鉄鉱石,沃普賽克鐵礦,Wolfsegg Iron Ore,볼프세크 철광석,เศษแร่วูล์ฟเซก,items.json
+12_item,道具,Item.121,沃尔夫赛格钢碎块,ヴォルフスエック鋼鉄の欠片,沃普賽克鐵塊,Wolfsegg Steel,볼프세크 철조각,เศษเหล็กวูล์ฟเซก,items.json
+12_item,道具,Item.122,低纯度沃尔夫赛格钢块,低純度のヴォルフスエック鋼鉄,低純度沃普賽克鋼鐵,Low-Purity Wolfsegg Steel,저순도 볼프세크 강철,เหล็กวูล์ฟเซกปนเปื้อน,items.json
+12_item,道具,Item.123,高纯度沃尔夫赛格钢块,高純度のヴォルフスエック鋼鉄,高純度沃普賽克鋼鐵,High-Purity Wolfsegg Steel,고순도 볼프세크 강철,เหล็กวูล์ฟเซกบริสุทธิ์,items.json
+12_item,道具,Item.130,尼姆鲁德透镜碎片,ニムルドレンズの欠片,尼姆魯德透鏡碎片,Nimrud Lens Piece,님루드 렌즈 조각,เศษเลนส์นิมรุด,items.json
+12_item,道具,Item.131,损坏的尼姆鲁德透镜,壊れたニムルドレンズ,破損的尼姆魯德透鏡,Broken Nimrud Lens,파손된 님루드 렌즈,เลนส์นิมรุดที่พัง,items.json
+12_item,道具,Item.132,磨损的尼姆鲁德透镜,摩耗したニムルドレンズ,磨損的尼姆魯德透鏡,Damaged Nimrud Lens,마모된 님루드 렌즈,เลนส์นิมรุดที่สึก,items.json
+12_item,道具,Item.133,完整的尼姆鲁德透镜,完全なニムルドレンズ,完整的尼姆魯德透鏡,Intact Nimrud Lens,온전한 님루드 렌즈,เลนส์นิมรุดสมบูรณ์,items.json
+12_item,道具,Item.140,曼德拉草种子,マンドレイクの種,曼陀羅草種子,Mandrake Seed,만드라고라 씨앗,เมล็ดแมนดราโกร่า,items.json
+12_item,道具,Item.141,曼德拉草新芽,マンドレイクの芽,曼陀羅草新芽,Mandrake Sprout,만드라고라 새싹,ต้นอ่อนแมนดราโกร่า,items.json
+12_item,道具,Item.142,曼德拉草汁,マンドレイクジュース,曼陀羅草汁,Mandrake Juice,만드라고라 주스,น้ำแมนดราโกร่า,items.json
+12_item,道具,Item.143,曼德拉草浓缩液,マンドレイク濃縮液,曼陀羅草濃縮液,Mandrake Extract,만드라고라 농축액,น้ำแมนดราโกร่าสกัด,items.json
+12_item,道具,Item.150,罗洪特抄本残页,レヒニッツ写本のページ,羅洪特抄本書頁,Rohonc Codex Page,로혼치 사본 페이지,แผ่นสำเนาโรฮอนช์,items.json
+12_item,道具,Item.151,损毁的罗洪特抄本,傷んだレヒニッツ写本,毀損的羅洪特抄本,Damaged Rohonc Codex,훼손된 로혼치 사본,สำเนาโรฮอนช์ที่ขาด,items.json
+12_item,道具,Item.152,编辑过的罗洪特抄本,編集済みのレヒニッツ写本,編輯過的羅洪特抄本,Annotated Rohonc Codex,편집된 로혼치 사본,สำเนาโรฮอนช์เข้าเล่ม,items.json
+12_item,道具,Item.153,完整的罗洪特抄本,完全なレヒニッツ写本,完整的羅洪特抄本,Intact Rohonc Codex,온전한 로혼치 사본,สำเนาโรฮอนช์สมบูรณ์,items.json
+12_item,道具,Item.160,以太粉末,エーテルの粉,乙太粉末,Aether Dust,에테르 가루,ผงอีเธอร์,items.json
+12_item,道具,Item.161,以太碎片,エーテルの欠片,乙太碎片,Aether Piece,에테르 조각,เศษอีเธอร์,items.json
+12_item,道具,Item.162,以太结晶,エーテルの結晶,乙太結晶,Aether Shard,에테르 결정,ผลึกอีเธอร์,items.json
+12_item,道具,Item.163,以太精华,エーテルのエッセンス,乙太精髓,Aether Essence,에테르 정수,เอสเซนซ์อีเธอร์,items.json
+12_item,道具,Item.170,安提基特拉机械碎片,アンティキティラ装置の欠片,安迪基西拉裝置碎片,Antikythera Mechanism Piece,안티키테라 장치 조각,เศษอุปกรณ์แอนเทรา,items.json
+12_item,道具,Item.171,损坏的安提基特拉机械,壊れたアンティキティラ装置,破損的安迪基西拉裝置,Broken Antikythera Mechanism,파손된 안티키테라 장치,อุปกรณ์แอนเทราที่พัง,items.json
+12_item,道具,Item.172,磨损的安提基特拉机械,摩耗したアンティキティラ装置,磨損的安迪基西拉裝置,Damaged Antikythera Mechanism,마모된 안티키테라 장치,อุปกรณ์แอนเทราที่สึก,items.json
+12_item,道具,Item.173,完整的安提基特拉机械,完全なアンティキティラ装置,完整的安迪基西拉裝置,Intact Antikythera Mechanism,온전한 안티키테라 장치,อุปกรณ์แอนเทราสมบูรณ์,items.json
+12_item,道具,Item.180,伏尼契手稿副本残页,断片的なヴォイニッチ手稿のコピー,伏尼契手稿書頁,Voynich Manuscript Page,보이니치 사본 페이지,แผ่นสำเนาวอยนิช,items.json
+12_item,道具,Item.181,损毁的伏尼契手稿副本,傷んだヴォイニッチ手稿のコピー,毀損的伏尼契手稿,Damaged Voynich Manuscript,훼손된 보이니치 사본,สำเนาวอยนิชที่ขาด,items.json
+12_item,道具,Item.182,编辑过的伏尼契手稿副本,編集済みのヴォイニッチ手稿のコピー,編輯過的伏尼契手稿,Annotated Voynich Manuscript,편집된 보이니치 사본,สำเนาวอยนิชเข้าเล่ม,items.json
+12_item,道具,Item.183,完整的伏尼契手稿副本,完全なヴォイニッチ手稿のコピー,完整的伏尼契手稿,Intact Voynich Manuscript,온전한 보이니치 사본,สำเนาวอยนิชสมบูรณ์,items.json
+12_item,道具,Item.190,水晶埴轮碎片,水晶埴輪の破片,水晶埴輪碎片,Crystal Haniwa Fragment,수정 하니와 파편,เศษคริสตัลฮานิวา,items.json
+12_item,道具,Item.191,损坏的水晶埴轮,壊れた水晶埴輪,破損的水晶埴輪,Broken Crystal Haniwa,파손된 수정 하니와,คริสตัลฮานิวาที่พัง,items.json
+12_item,道具,Item.192,修复过的水晶埴轮,修復済みの水晶埴輪,修好的水晶埴輪,Repaired Crystal Haniwa,수리된 수정 하니와,คริสตัลฮานิวาที่สึก,items.json
+12_item,道具,Item.193,完整的水晶埴轮,完全な水晶埴輪,完整的水晶埴輪,Intact Crystal Haniwa,온전한 수정 하니와,คริสตัลฮานิวาสมบูรณ์,items.json
+12_item,道具,Item.200,图腾柱碎片,トーテムポールの破片,圖騰柱碎片,Totem Pole Piece,토템폴 조각,เศษเสาโทเทม,items.json
+12_item,道具,Item.201,破损的图腾柱,破損したトーテムポール,破損的圖騰柱,Broken Totem Pole,파손된 토템폴,เสาโทเทมที่พัง,items.json
+12_item,道具,Item.202,修复过的图腾柱,修復済みのトーテムポール,修復的圖騰柱,Repaired Totem Pole,수리된 토템폴,เสาโทเทมที่สึก,items.json
+12_item,道具,Item.203,完整的图腾柱,完全なトーテムポール,完好的圖騰柱,Intact Totem Pole,온전한 토템폴,เสาโทเทมสมบูรณ์,items.json
+12_item,道具,Item.210,古代电池碎片,古代の電池の破片,古代電池碎片,Ancient Battery Piece,고대 전지 조각,เศษแบตเตอรี่โบราณ,items.json
+12_item,道具,Item.211,损坏的古代电池,破損した古代の電池,破損的古代電池,Broken Ancient Battery,파손된 고대 전지,แบตเตอรี่โบราณที่พัง,items.json
+12_item,道具,Item.212,磨损的古代电池,摩耗した古代の電池,磨損的古代電池,Damaged Ancient Battery,마모된 고대 전지,แบตเตอรี่โบราณที่สึก,items.json
+12_item,道具,Item.213,完整的古代电池,完全なる古代の電池,完整的古代電池,Intact Ancient Battery,온전한 고대 전지,แบตเตอรี่โบราณสมบูรณ์,items.json
+12_item,道具,Item.220,黄金の糸,黄金の糸,黃金羊毛,Golden Fleece,황금 양털,ขนแกะทองคำ,items.json
+12_item,道具,Item.221,黄金の巻糸,黄金の巻糸,黃金毛線,Golden Yarn,황금 털실,ด้ายสีทอง,items.json
+12_item,道具,Item.222,大きな黄金の巻糸,大きな黄金の巻糸,黃金羊毛織物,Golden Wool,황금 양모,ผ้าขนแกะทองคำ,items.json
+12_item,道具,Item.223,黄金の布,黄金の布,黃金連身裙,Golden Dress,황금 드레스,เดรสสีทอง,items.json
+12_item,道具,Item.230,御菊人偶碎片,髪伸び人形の破片,長髮娃娃碎片,Okiku Doll Piece,머리가 자라는 인형 조각,เศษตุ๊กตาโอคิคุ,items.json
+12_item,道具,Item.231,破损的御菊人偶,破損した髪伸び人形,破損的長髮娃娃,Broken Okiku Doll,파손된 머리가 자라는 인형,ตุ๊กตาโอคิคุที่พัง,items.json
+12_item,道具,Item.232,修复过的御菊人偶,修理済みの髪伸び人形,修復的長髮娃娃,Repaired Okiku Doll,수리된 머리가 자라는 인형,ตุ๊กตาโอคิคุที่สึก,items.json
+12_item,道具,Item.233,完整的御菊人偶,完全な髪伸び人形,完整的長髮娃娃,Intact Okiku Doll,온전한 머리가 자라는 인형,ตุ๊กตาโอคิคุสมบูรณ์,items.json
+12_item,道具,Item.240,圆盘坠饰碎片,円盤型ペンダントの欠片,圓盤墜飾碎片,Disco Colgante Piece,디스코 콜간테 조각,เศษดิสโก โคลกานเต,items.json
+12_item,道具,Item.241,损坏的圆盘坠饰,壊れた円盤型ペンダント,破損的圓盤墜飾,Broken Disco Colgante,파손된 디스코 콜간테,ดิสโก โคลกานเตที่พัง,items.json
+12_item,道具,Item.242,修复中的圆盘坠饰,修復途中の円盤型ペンダント,修好的圓盤墜飾,Repaired Disco Colgante,수리된 디스코 콜간테,ดิสโก โคลกานเตที่สึก,items.json
+12_item,道具,Item.243,完整的圆盘坠饰,完全な円盤型ペンダント,完好的圓盤墜飾,Intact Disco Colgante,온전한 디스코 콜간테,ดิสโก โคลกานเตสมบูรณ์,items.json
+12_item,道具,Item.250,亚特兰蒂斯古币碎片,古代文明のメダルの欠片,亞特蘭提斯徽章碎片,Atlantis Medal Piece,아틀란티스 메달 조각,เศษเหรียญแอตแลนติส,items.json
+12_item,道具,Item.251,破损的亚特兰蒂斯古币,破損した古代文明のメダル,破損的亞特蘭提斯徽章,Broken Atlantis Medal,파손된 아틀란티스 메달,เหรียญแอตแลนติสที่พัง,items.json
+12_item,道具,Item.252,修复中的亚特兰蒂斯古币,修復途中の古代文明のメダル,磨耗的亞特蘭提斯徽章,Damaged Atlantis Medal,마모된 아틀란티스 메달,เหรียญแอตแลนติสที่สึก,items.json
+12_item,道具,Item.253,完整的亚特兰蒂斯古币,完全な古代文明のメダル,完好的亞特蘭提斯徽章,Intact Atlantis Medal,온전한 아틀란티스 메달,เหรียญแอตแลนติสมบูรณ์,items.json
+12_item,道具,Item.260,中空十二面体の欠片,中空十二面体の欠片,羅馬十二面體碎片,Roman Dodecahedron Piece,로마 12면체 조각,เศษวัตถุสิบสองหน้าของโรมัน,items.json
+12_item,道具,Item.261,壊れた中空十二面体,壊れた中空十二面体,破損的羅馬十二面體,Broken Roman Dodecahedron,파손된 로마 12면체,วัตถุสิบสองหน้าของโรมันที่พัง,items.json
+12_item,道具,Item.262,修復途中の中空十二面体,修復途中の中空十二面体,修好的羅馬十二面體,Repaired Roman Dodecahedron,수리된 로마 12면체,วัตถุสิบสองหน้าของโรมันที่สึก,items.json
+12_item,道具,Item.263,完全な中空十二面体,完全な中空十二面体,完好的羅馬十二面體,Intact Roman Dodecahedron,온전한 로마 12면체,วัตถุสิบสองหน้าของโรมันสมบูรณ์,items.json
+12_item,道具,Item.290,温尼珀索基石碎块,ミステリーストーンの欠片,溫尼珀索基石頭碎片,Winnipesaukee Stone Piece,위니페소키 스톤 조각,เศษหินวินนีเพอซอกี,items.json
+12_item,道具,Item.291,破损的温尼珀索基石,壊れたミステリーストーン,破損的溫尼珀索基石頭,Broken Winnipesaukee Stone,파손된 위니페소키 스톤,หินวินนีเพอซอกีที่พัง,items.json
+12_item,道具,Item.292,不完整的温尼珀索基石,不完全なミステリーストーン,磨耗的溫尼珀索基石頭,Damaged Winnipesaukee Stone,마모된 위니페소키 스톤,หินวินนีเพอซอกีที่สึก,items.json
+12_item,道具,Item.293,完整的温尼珀索基石,完全なミステリーストーン,完好的溫尼珀索基石頭,Intact Winnipesaukee Stone,온전한 위니페소키 스톤,หินวินนีเพอซอกีสมบูรณ์,items.json
+12_item,道具,Item.3000,初级战术教育BD (百鬼夜行),初級戦術教育BD （百鬼夜行）,基礎戰術教育BD (百鬼夜行),Beginner Tactical Training Blu-ray (Hyakkiyako),기초 전술 교육 BD (백귀야행),BD เรียนสกิลขั้นต่ำ (เฮียกคิยาโค),items.json
+12_item,道具,Item.3001,中级战术教育BD (百鬼夜行),中級戦術教育BD （百鬼夜行）,一般戰術教育BD (百鬼夜行),Normal Tactical Training Blu-ray (Hyakkiyako),일반 전술 교육 BD (백귀야행),BD เรียนสกิลขั้นกลาง (เฮียกคิยาโค),items.json
+12_item,道具,Item.3002,高级战术教育BD (百鬼夜行),上級戦術教育BD （百鬼夜行）,高級戰術教育BD (百鬼夜行),Advanced Tactical Training Blu-ray (Hyakkiyako),상급 전술 교육 BD (백귀야행),BD เรียนสกิลขั้นสูง (เฮียกคิยาโค),items.json
+12_item,道具,Item.3003,最高级战术教育BD (百鬼夜行),最上級戦術教育BD （百鬼夜行）,最高級戰術教育BD (百鬼夜行),Superior Tactical Training Blu-ray (Hyakkiyako),최상급 전술 교육 BD (백귀야행),BD เรียนสกิลขั้นสูงสุด (เฮียกคิยาโค),items.json
+12_item,道具,Item.3010,初级战术教育BD (红冬),初級戦術教育BD （レッドウィンター）,基礎戰術教育BD (赤冬),Beginner Tactical Training Blu-ray (Red Winter),기초 전술 교육 BD (붉은겨울),BD เรียนสกิลขั้นต่ำ (เรดวินเทอร์),items.json
+12_item,道具,Item.3011,中级战术教育BD (红冬),中級戦術教育BD （レッドウィンター）,一般戰術教育BD (赤冬),Normal Tactical Training Blu-ray (Red Winter),일반 전술 교육 BD (붉은겨울),BD เรียนสกิลขั้นกลาง (เรดวินเทอร์),items.json
+12_item,道具,Item.3012,高级战术教育BD (红冬),上級戦術教育BD （レッドウィンター）,高級戰術教育BD (赤冬),Advanced Tactical Training Blu-ray (Red Winter),상급 전술 교육 BD (붉은겨울),BD เรียนสกิลขั้นสูง (เรดวินเทอร์),items.json
+12_item,道具,Item.3013,最高级战术教育BD (红冬),最上級戦術教育BD （レッドウィンター）,最高級戰術教育BD (赤冬),Superior Tactical Training Blu-ray (Red Winter),최상급 전술 교육 BD (붉은겨울),BD เรียนสกิลขั้นสูงสุด (เรดวินเทอร์),items.json
+12_item,道具,Item.3020,初级战术教育BD (三一),初級戦術教育BD （トリニティ）,基礎戰術教育BD (三一),Beginner Tactical Training Blu-ray (Trinity),기초 전술 교육 BD (트리니티),BD เรียนสกิลขั้นต่ำ (ทรีนิตี้),items.json
+12_item,道具,Item.3021,中级战术教育BD (三一),中級戦術教育BD （トリニティ）,一般戰術教育BD (三一),Normal Tactical Training Blu-ray (Trinity),일반 전술 교육 BD (트리니티),BD เรียนสกิลขั้นกลาง (ทรีนิตี้),items.json
+12_item,道具,Item.3022,高级战术教育BD (三一),上級戦術教育BD （トリニティ）,高級戰術教育BD (三一),Advanced Tactical Training Blu-ray (Trinity),상급 전술 교육 BD (트리니티),BD เรียนสกิลขั้นสูง (ทรีนิตี้),items.json
+12_item,道具,Item.3023,最高级战术教育BD (三一),最上級戦術教育BD （トリニティ）,最高級戰術教育BD (三一),Superior Tactical Training Blu-ray (Trinity),최상급 전술 교육 BD (트리니티),BD เรียนสกิลขั้นสูงสุด (ทรีนิตี้),items.json
+12_item,道具,Item.3030,初级战术教育BD (格黑娜),初級戦術教育BD （ゲヘナ）,基礎戰術教育BD (格黑娜),Beginner Tactical Training Blu-ray (Gehenna),기초 전술 교육 BD (게헨나),BD เรียนสกิลขั้นต่ำ (เกเฮนน่า),items.json
+12_item,道具,Item.3031,中级战术教育BD (格黑娜),中級戦術教育BD （ゲヘナ）,一般戰術教育BD (格黑娜),Normal Tactical Training Blu-ray (Gehenna),일반 전술 교육 BD (게헨나),BD เรียนสกิลขั้นกลาง (เกเฮนน่า),items.json
+12_item,道具,Item.3032,高级战术教育BD (格黑娜),上級戦術教育BD （ゲヘナ）,高級戰術教育BD (格黑娜),Advanced Tactical Training Blu-ray (Gehenna),상급 전술 교육 BD (게헨나),BD เรียนสกิลขั้นสูง (เกเฮนน่า),items.json
+12_item,道具,Item.3033,最高级战术教育BD (格黑娜),最上級戦術教育BD （ゲヘナ）,最高級戰術教育BD (格黑娜),Superior Tactical Training Blu-ray (Gehenna),최상급 전술 교육 BD (게헨나),BD เรียนสกิลขั้นสูงสุด (เกเฮนน่า),items.json
+12_item,道具,Item.3040,初级战术教育BD (阿拜多斯),初級戦術教育BD （アビドス）,基礎戰術教育BD (阿拜多斯),Beginner Tactical Training Blu-ray (Abydos),기초 전술 교육 BD (아비도스),BD เรียนสกิลขั้นต่ำ (อะบิดอส),items.json
+12_item,道具,Item.3041,中级战术教育BD (阿拜多斯),中級戦術教育BD （アビドス）,一般戰術教育BD (阿拜多斯),Normal Tactical Training Blu-ray (Abydos),일반 전술 교육 BD (아비도스),BD เรียนสกิลขั้นกลาง (อะบิดอส),items.json
+12_item,道具,Item.3042,高级战术教育BD (阿拜多斯),上級戦術教育BD （アビドス）,高級戰術教育BD (阿拜多斯),Advanced Tactical Training Blu-ray (Abydos),상급 전술 교육 BD (아비도스),BD เรียนสกิลขั้นสูง (อะบิดอส),items.json
+12_item,道具,Item.3043,最高级战术教育BD (阿拜多斯),最上級戦術教育BD （アビドス）,最高級戰術教育BD (阿拜多斯),Superior Tactical Training Blu-ray (Abydos),최상급 전술 교육 BD (아비도스),BD เรียนสกิลขั้นสูงสุด (อะบิดอส),items.json
+12_item,道具,Item.3050,初级战术教育BD (千年),初級戦術教育BD （ミレニアム）,基礎戰術教育BD (千年),Beginner Tactical Training Blu-ray (Millennium),기초 전술 교육 BD (밀레니엄),BD เรียนสกิลขั้นต่ำ (มิลเลเนียม),items.json
+12_item,道具,Item.3051,中级战术教育BD (千年),中級戦術教育BD （ミレニアム）,一般戰術教育BD (千年),Normal Tactical Training Blu-ray (Millennium),일반 전술 교육 BD (밀레니엄),BD เรียนสกิลขั้นกลาง (มิลเลเนียม),items.json
+12_item,道具,Item.3052,高级战术教育BD (千年),上級戦術教育BD （ミレニアム）,高級戰術教育BD (千年),Advanced Tactical Training Blu-ray (Millennium),상급 전술 교육 BD (밀레니엄),BD เรียนสกิลขั้นสูง (มิลเลเนียม),items.json
+12_item,道具,Item.3053,最高级战术教育BD (千年),最上級戦術教育BD （ミレニアム）,最高級戰術教育BD (千年),Superior Tactical Training Blu-ray (Millennium),최상급 전술 교육 BD (밀레니엄),BD เรียนสกิลขั้นสูงสุด (มิลเลเนียม),items.json
+12_item,道具,Item.3060,初级战术教育BD (阿里乌斯),初級戦術教育BD （アリウス）,基礎戰術教育BD (奧利斯),Beginner Tactical Training Blu-ray (Arius),기초 전술 교육 BD (아리우스),BD เรียนสกิลขั้นต่ำ (อาเรียส),items.json
+12_item,道具,Item.3061,中级战术教育BD (阿里乌斯),中級戦術教育BD （アリウス）,一般戰術教育BD (奧利斯),Normal Tactical Training Blu-ray (Arius),일반 전술 교육 BD (아리우스),BD เรียนสกิลขั้นกลาง (อาเรียส),items.json
+12_item,道具,Item.3062,高级战术教育BD (阿里乌斯),上級戦術教育BD （アリウス）,高級戰術教育BD (奧利斯),Advance Tactical Training Blu-ray (Arius),상급 전술 교육 BD (아리우스),BD เรียนสกิลขั้นสูง (อาเรียส),items.json
+12_item,道具,Item.3063,最高级战术教育BD (阿里乌斯),最上級戦術教育BD （アリウス）,最高級戰術教育BD (奧利斯),Superior Tactical Training Blu-ray (Arius),최상급 전술 교육 BD (아리우스),BD เรียนสกิลขั้นสูงสุด (อาเรียส),items.json
+12_item,道具,Item.3070,初级战术教育BD (山海经),初級戦術教育BD （山海経）,基礎戰術教育BD (山海經),Beginner Tactical Training Blu-ray (Shanhaijing),기초 전술 교육 BD (산해경),BD เรียนสกิลขั้นต่ำ (ซานไห่จิง),items.json
+12_item,道具,Item.3071,中级战术教育BD (山海经),中級戦術教育BD （山海経）,一般戰術教育BD (山海經),Normal Tactical Training Blu-ray (Shanhaijing),일반 전술 교육 BD (산해경),BD เรียนสกิลขั้นกลาง (ซานไห่จิง),items.json
+12_item,道具,Item.3072,高级战术教育BD (山海经),上級戦術教育BD （山海経）,高級戰術教育BD (山海經),Advanced Tactical Training Blu-ray (Shanhaijing),상급 전술 교육 BD (산해경),BD เรียนสกิลขั้นสูง (ซานไห่จิง),items.json
+12_item,道具,Item.3073,最高级战术教育BD (山海经),最上級戦術教育BD （山海経）,最高級戰術教育BD (山海經),Superior Tactical Training Blu-ray (Shanhaijing),최상급 전술 교육 BD (산해경),BD เรียนสกิลขั้นสูงสุด (ซานไห่จิง),items.json
+12_item,道具,Item.3080,初级战术教育BD (瓦尔基里),初級戦術教育BD （ヴァルキューレ）,基礎戰術教育BD (女武神),Beginner Tactical Training Blu-ray (Valkyrie),기초 전술 교육 BD (발키리),BD เรียนสกิลขั้นต่ำ (วัลคิรี่),items.json
+12_item,道具,Item.3081,中级战术教育BD (瓦尔基里),中級戦術教育BD （ヴァルキューレ）,一般戰術教育BD (女武神),Normal Tactical Training Blu-ray (Valkyrie),일반 전술 교육 BD (발키리),BD เรียนสกิลขั้นกลาง (วัลคิรี่),items.json
+12_item,道具,Item.3082,高级战术教育BD (瓦尔基里),上級戦術教育BD （ヴァルキューレ）,高級戰術教育BD (女武神),Advanced Tactical Training Blu-ray (Valkyrie),상급 전술 교육 BD (발키리),BD เรียนสกิลขั้นสูง (วัลคิรี่),items.json
+12_item,道具,Item.3083,最高级战术教育BD (瓦尔基里),最上級戦術教育BD （ヴァルキューレ）,最高級戰術教育BD (女武神),Superior Tactical Training Blu-ray (Valkyrie),최상급 전술 교육 BD (발키리),BD เรียนสกิลขั้นสูงสุด (วัลคิรี่),items.json
+12_item,道具,Item.4000,初级技术笔记 (百鬼夜行),初級技術ノート （百鬼夜行）,基礎技術筆記 (百鬼夜行),Beginner Tech Notes (Hyakkiyako),기초 기술 노트 (백귀야행),ตำราสกิลขั้นต่ำ (เฮียกคิยาโค),items.json
+12_item,道具,Item.4001,中级技术笔记 (百鬼夜行),中級技術ノート （百鬼夜行）,一般技術筆記 (百鬼夜行),Normal Tech Notes (Hyakkiyako),일반 기술 노트 (백귀야행),ตำราสกิลขั้นกลาง (เฮียกคิยาโค),items.json
+12_item,道具,Item.4002,高级技术笔记 (百鬼夜行),上級技術ノート （百鬼夜行）,高級技術筆記 (百鬼夜行),Advanced Tech Notes (Hyakkiyako),상급 기술 노트 (백귀야행),ตำราสกิลขั้นสูง (เฮียกคิยาโค),items.json
+12_item,道具,Item.4003,最高级技术笔记 (百鬼夜行),最上級技術ノート （百鬼夜行）,最高級技術筆記 (百鬼夜行),Superior Tech Notes (Hyakkiyako),최상급 기술 노트 (백귀야행),ตำราสกิลขั้นสูงสุด (เฮียกคิยาโค),items.json
+12_item,道具,Item.4010,初级技术笔记 (红冬),初級技術ノート （レッドウィンター）,基礎技術筆記 (赤冬),Beginner Tech Notes (Red Winter),기초 기술 노트 (붉은겨울),ตำราสกิลขั้นต่ำ (เรดวินเทอร์),items.json
+12_item,道具,Item.4011,中级技术笔记 (红冬),中級技術ノート （レッドウィンター）,一般技術筆記 (赤冬),Normal Tech Notes (Red Winter),일반 기술 노트 (붉은겨울),ตำราสกิลขั้นกลาง (เรดวินเทอร์),items.json
+12_item,道具,Item.4012,高级技术笔记 (红冬),上級技術ノート （レッドウィンター）,高級技術筆記 (赤冬),Advanced Tech Notes (Red Winter),상급 기술 노트 (붉은겨울),ตำราสกิลขั้นสูง (เรดวินเทอร์),items.json
+12_item,道具,Item.4013,最高级技术笔记 (红冬),最上級技術ノート （レッドウィンター）,最高級技術筆記 (赤冬),Superior Tech Notes (Red Winter),최상급 기술 노트 (붉은겨울),ตำราสกิลขั้นสูงสุด (เรดวินเทอร์),items.json
+12_item,道具,Item.4020,初级技术笔记 (三一),初級技術ノート （トリニティ）,基礎技術筆記 (三一),Beginner Tech Notes (Trinity),기초 기술 노트 (트리니티),ตำราสกิลขั้นต่ำ (ทรีนิตี้),items.json
+12_item,道具,Item.4021,中级技术笔记 (三一),中級技術ノート （トリニティ）,一般技術筆記 (三一),Normal Tech Notes (Trinity),일반 기술 노트 (트리니티),ตำราสกิลขั้นกลาง (ทรีนิตี้),items.json
+12_item,道具,Item.4022,高级技术笔记 (三一),上級技術ノート （トリニティ）,高級技術筆記 (三一),Advanced Tech Notes (Trinity),상급 기술 노트 (트리니티),ตำราสกิลขั้นสูง (ทรีนิตี้),items.json
+12_item,道具,Item.4023,最高级技术笔记 (三一),最上級技術ノート （トリニティ）,最高級技術筆記 (三一),Superior Tech Notes (Trinity),최상급 기술 노트 (트리니티),ตำราสกิลขั้นสูงสุด (ทรีนิตี้),items.json
+12_item,道具,Item.4030,初级技术笔记 (格黑娜),初級技術ノート （ゲヘナ）,基礎技術筆記 (格黑娜),Beginner Tech Notes (Gehenna),기초 기술 노트 (게헨나),ตำราสกิลขั้นต่ำ (เกเฮนน่า),items.json
+12_item,道具,Item.4031,中级技术笔记 (格黑娜),中級技術ノート （ゲヘナ）,一般技術筆記 (格黑娜),Normal Tech Notes (Gehenna),일반 기술 노트 (게헨나),ตำราสกิลขั้นกลาง (เกเฮนน่า),items.json
+12_item,道具,Item.4032,高级技术笔记 (格黑娜),上級技術ノート （ゲヘナ）,高級技術筆記 (格黑娜),Advanced Tech Notes (Gehenna),상급 기술 노트 (게헨나),ตำราสกิลขั้นสูง (เกเฮนน่า),items.json
+12_item,道具,Item.4033,最高级技术笔记 (格黑娜),最上級技術ノート （ゲヘナ）,最高級技術筆記 (格黑娜),Superior Tech Notes (Gehenna),최상급 기술 노트 (게헨나),ตำราสกิลขั้นสูงสุด (เกเฮนน่า),items.json
+12_item,道具,Item.4040,初级技术笔记 (阿拜多斯),初級技術ノート （アビドス）,基礎技術筆記 (阿拜多斯),Beginner Tech Notes (Abydos),기초 기술 노트 (아비도스),ตำราสกิลขั้นต่ำ (อะบิดอส),items.json
+12_item,道具,Item.4041,中级技术笔记 (阿拜多斯),中級技術ノート （アビドス）,一般技術筆記 (阿拜多斯),Normal Tech Notes (Abydos),일반 기술 노트 (아비도스),ตำราสกิลขั้นกลาง (อะบิดอส),items.json
+12_item,道具,Item.4042,高级技术笔记 (阿拜多斯),上級技術ノート （アビドス）,高級技術筆記 (阿拜多斯),Advanced Tech Notes (Abydos),상급 기술 노트 (아비도스),ตำราสกิลขั้นสูง (อะบิดอส),items.json
+12_item,道具,Item.4043,最高级技术笔记 (阿拜多斯),最上級技術ノート （アビドス）,最高級技術筆記 (阿拜多斯),Superior Tech Notes (Abydos),최상급 기술 노트 (아비도스),ตำราสกิลขั้นสูงสุด (อะบิดอส),items.json
+12_item,道具,Item.4050,初级技术笔记 (千年),初級技術ノート （ミレニアム）,基礎技術筆記 (千年),Beginner Tech Notes (Millennium),기초 기술 노트 (밀레니엄),ตำราสกิลขั้นต่ำ (มิลเลเนียม),items.json
+12_item,道具,Item.4051,中级技术笔记 (千年),中級技術ノート （ミレニアム）,一般技術筆記 (千年),Normal Tech Notes (Millennium),일반 기술 노트 (밀레니엄),ตำราสกิลขั้นกลาง (มิลเลเนียม),items.json
+12_item,道具,Item.4052,高级技术笔记 (千年),上級技術ノート （ミレニアム）,高級技術筆記 (千年),Advanced Tech Notes (Millennium),상급 기술 노트 (밀레니엄),ตำราสกิลขั้นสูง (มิลเลเนียม),items.json
+12_item,道具,Item.4053,最高级技术笔记 (千年),最上級技術ノート （ミレニアム）,最高級技術筆記 (千年),Superior Tech Notes (Millennium),최상급 기술 노트 (밀레니엄),ตำราสกิลขั้นสูงสุด (มิลเลเนียม),items.json
+12_item,道具,Item.4060,初级技术笔记 (阿里乌斯),初級技術ノート （アリウス）,基礎技術筆記 (奧利斯),Beginner Tech Notes (Arius),기초 기술 노트 (아리우스),ตำราสกิลขั้นต่ำ (อาเรียส),items.json
+12_item,道具,Item.4061,中级技术笔记 (阿里乌斯),中級技術ノート （アリウス）,一般技術筆記 (奧利斯),Normal Tech Notes (Arius),일반 기술 노트 (아리우스),ตำราสกิลขั้นกลาง (อาเรียส),items.json
+12_item,道具,Item.4062,高级技术笔记 (阿里乌斯),上級技術ノート （アリウス）,高級技術筆記 (奧利斯),Advanced Tech Notes (Arius),상급 기술 노트 (아리우스),ตำราสกิลขั้นสูง (อาเรียส),items.json
+12_item,道具,Item.4063,最高级技术笔记 (阿里乌斯),最上級技術ノート （アリウス）,最高級技術筆記 (奧利斯),Superior Tech Notes (Arius),최상급 기술 노트 (아리우스),ตำราสกิลขั้นสูงสุด (อาเรียส),items.json
+12_item,道具,Item.4070,初级技术笔记 (山海经),初級技術ノート （山海経）,基礎技術筆記 (山海經),Beginner Tech Notes (Shanhaijing),기초 기술 노트 (산해경),ตำราสกิลขั้นต่ำ (ซานไห่จิง),items.json
+12_item,道具,Item.4071,中级技术笔记 (山海经),中級技術ノート （山海経）,一般技術筆記 (山海經),Normal Tech Notes (Shanhaijing),일반 기술 노트 (산해경),ตำราสกิลขั้นกลาง (ซานไห่จิง),items.json
+12_item,道具,Item.4072,高级技术笔记 (山海经),上級技術ノート （山海経）,高級技術筆記 (山海經),Advanced Tech Notes (Shanhaijing),상급 기술 노트 (산해경),ตำราสกิลขั้นสูง (ซานไห่จิง),items.json
+12_item,道具,Item.4073,最高级技术笔记 (山海经),最上級技術ノート （山海経）,最高級技術筆記 (山海經),Superior Tech Notes (Shanhaijing),최상급 기술 노트 (산해경),ตำราสกิลขั้นสูงสุด (ซานไห่จิง),items.json
+12_item,道具,Item.4080,初级技术笔记 (瓦尔基里),初級技術ノート （ヴァルキューレ）,基礎技術筆記 (女武神),Beginner Tech Notes (Valkyrie),기초 기술 노트 (발키리),ตำราสกิลขั้นต่ำ (วัลคิรี่),items.json
+12_item,道具,Item.4081,中级技术笔记 (瓦尔基里),中級技術ノート （ヴァルキューレ）,一般技術筆記 (女武神),Normal Tech Notes (Valkyrie),일반 기술 노트 (발키리),ตำราสกิลขั้นกลาง (วัลคิรี่),items.json
+12_item,道具,Item.4082,高级技术笔记 (瓦尔基里),上級技術ノート （ヴァルキューレ）,高級技術筆記 (女武神),Advanced Tech Notes (Valkyrie),상급 기술 노트 (발키리),ตำราสกิลขั้นสูง (วัลคิรี่),items.json
+12_item,道具,Item.4083,最高级技术笔记 (瓦尔基里),最上級技術ノート （ヴァルキューレ）,最高級技術筆記 (女武神),Superior Tech Notes (Valkyrie),최상급 기술 노트 (발키리),ตำราสกิลขั้นสูงสุด (วัลคิรี่),items.json
+12_item,道具,Item.7001,作战数据1：TypeD,ミッションデータ1：TypeD,作戰數據1：D Type,Mission Data 1: D Type,작전 데이터1: D Type,ข้อมูลกลยุทธ์ 1: แบบ D,items.json
+12_item,道具,Item.9998,秘传笔记残页,秘伝ノートの断片,奧秘之書碎片,Secret Tech Sheet,비의서 조각,เศษตำราสกิลลับ,items.json
+12_item,道具,Item.9999,秘传笔记,秘伝ノート,奧秘之書,Secret Tech Notes,비의서,ตำราสกิลลับ,items.json
+12_item,道具,Item.10000,阿露的神名文字,アルの神名文字,亞瑠的神名文字,Aru&#x27;s Eleph,아루의 엘레프,เอลเลฟของอารุ,items.json
+12_item,道具,Item.10001,艾米的神名文字,エイミの神名文字,英美的神名文字,Eimi&#x27;s Eleph,에이미의 엘레프,เอลเลฟของเอมิ,items.json
+12_item,道具,Item.10002,晴奈的神名文字,ハルナの神名文字,羽留奈的神名文字,Haruna&#x27;s Eleph,하루나의 엘레프,เอลเลฟของฮารุนะ,items.json
+12_item,道具,Item.10003,日富美的神名文字,ヒフミの神名文字,日步美的神名文字,Hifumi&#x27;s Eleph,히후미의 엘레프,เอลเลฟของฮิฟุมิ,items.json
+12_item,道具,Item.10004,日奈的神名文字,ヒナの神名文字,陽奈的神名文字,Hina&#x27;s Eleph,히나의 엘레프,เอลเลฟของฮินะ,items.json
+12_item,道具,Item.10005,星野的神名文字,ホシノの神名文字,星野的神名文字,Hoshino&#x27;s Eleph,호시노의 엘레프,เอลเลฟของโฮชิโนะ,items.json
+12_item,道具,Item.10006,伊织的神名文字,イオリの神名文字,伊織的神名文字,Iori&#x27;s Eleph,이오리의 엘레프,เอลเลฟของอิโอริ,items.json
+12_item,道具,Item.10007,真纪的神名文字,マキの神名文字,真紀的神名文字,Maki&#x27;s Eleph,마키의 엘레프,เอลเลฟของมากิ,items.json
+12_item,道具,Item.10008,尼禄的神名文字,ネルの神名文字,寧瑠的神名文字,Neru&#x27;s Eleph,네루의 엘레프,เอลเลฟของเนรุ,items.json
+12_item,道具,Item.10009,泉的神名文字,イズミの神名文字,泉的神名文字,Izumi&#x27;s Eleph,이즈미의 엘레프,เอลเลฟของอิซุมิ,items.json
+12_item,道具,Item.10010,白子的神名文字,シロコの神名文字,白子的神名文字,Shiroko&#x27;s Eleph,시로코의 엘레프,เอลเลฟของชิโรโกะ,items.json
+12_item,道具,Item.10011,瞬的神名文字,シュンの神名文字,旬的神名文字,Shun&#x27;s Eleph,슌의 엘레프,เอลเลฟของชุน,items.json
+12_item,道具,Item.10012,堇的神名文字,スミレの神名文字,堇的神名文字,Sumire&#x27;s Eleph,스미레의 엘레프,เอลเลฟของสึมิเระ,items.json
+12_item,道具,Item.10013,鹤城的神名文字,ツルギの神名文字,弦生的神名文字,Tsurugi&#x27;s Eleph,츠루기의 엘레프,เอลเลฟของซึรุกิ,items.json
+12_item,道具,Item.10014,泉奈的神名文字,イズナの神名文字,伊樹菜的神名文字,Izuna&#x27;s Eleph,이즈나의 엘레프,เอลเลฟของอิซุนะ,items.json
+12_item,道具,Item.10015,爱丽丝的神名文字,アリスの神名文字,愛麗絲的神名文字,Aris&#x27; Eleph,아리스의 엘레프,เอลเลฟของอาริสึ,items.json
+12_item,道具,Item.10016,绿的神名文字,ミドリの神名文字,綠的神名文字,Midori&#x27;s Eleph,미도리의 엘레프,เอลเลฟของมิโดริ,items.json
+12_item,道具,Item.10017,切里诺的神名文字,チェリノの神名文字,潔莉諾的神名文字,Cherino&#x27;s Eleph,체리노의 엘레프,เอลเลฟของเชริโน่,items.json
+12_item,道具,Item.10018,柚子的神名文字,ユズの神名文字,柚子的神名文字,Yuzu&#x27;s Eleph,유즈의 엘레프,เอลเลฟของยูสึ,items.json
+12_item,道具,Item.10019,梓的神名文字,アズサの神名文字,梓的神名文字,Azusa&#x27;s Eleph,아즈사의 엘레프,เอลเลฟของอาซึสะ,items.json
+12_item,道具,Item.10020,小春的神名文字,コハルの神名文字,小春的神名文字,Koharu&#x27;s Eleph,코하루의 엘레프,เอลเลฟของโคฮารุ,items.json
+12_item,道具,Item.10021,梓(泳装)的神名文字,アズサ（水着）の神名文字,梓(泳裝)的神名文字,Azusa (Swimsuit)&#x27;s Eleph,아즈사(수영복)의 엘레프,เอลเลฟของอาซึสะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10022,日奈(泳装)的神名文字,ヒナ（水着）の神名文字,陽奈(泳裝)的神名文字,Hina (Swimsuit)&#x27;s Eleph,히나(수영복)의 엘레프,เอลเลฟของฮินะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10023,伊织(泳装)的神名文字,イオリ（水着）の神名文字,伊織(泳裝)的神名文字,Iori (Swimsuit)&#x27;s Eleph,이오리(수영복)의 엘레프,เอลเลฟของอิโอริ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10024,白子(单车)的神名文字,シロコ（ライディング）の神名文字,白子(單車)的神名文字,Shiroko (Cycling)&#x27;s Eleph,시로코(라이딩)의 엘레프,เอลเลฟของชิโรโกะ (นักปั่น),items.json
+12_item,道具,Item.10025,瞬(幼女)的神名文字,シュン（幼女）の神名文字,旬(幼女)的神名文字,Shun (Small)&#x27;s Eleph,슌(어린이)의 엘레프,เอลเลฟของชุน (วัยเด็ก),items.json
+12_item,道具,Item.10026,尼禄(兔女郎)的神名文字,ネル（バニーガール）の神名文字,寧瑠(兔女郎)的神名文字,Neru (Bunny)&#x27;s Eleph,네루(바니걸)의 엘레프,เอลเลฟของเนรุ (บันนี่เกิร์ล),items.json
+12_item,道具,Item.10027,花凛(兔女郎)的神名文字,カリン（バニーガール）の神名文字,花凛(兔女郎)的神名文字,Karin (Bunny)&#x27;s Eleph,카린(바니걸)의 엘레프,เอลเลฟของคาริน (บันนี่เกิร์ล),items.json
+12_item,道具,Item.10028,明日奈(兔女郎)的神名文字,アスナ（バニーガール）の神名文字,明日奈(兔女郎)的神名文字,Asuna (Bunny)&#x27;s Eleph,아스나(바니걸)의 엘레프,เอลเลฟของอาสึนะ (บันนี่เกิร์ล),items.json
+12_item,道具,Item.10029,夏的神名文字,ナツの神名文字,夏的神名文字,Natsu&#x27;s Eleph,나츠의 엘레프,เอลเลฟของนัตสึ,items.json
+12_item,道具,Item.10030,千夏(温泉)的神名文字,チナツ（温泉）の神名文字,千夏(溫泉)的神名文字,Chinatsu (Hot Spring)&#x27;s Eleph,치나츠(온천)의 엘레프,เอลเลฟของชินัตสึ (ออนเซ็น),items.json
+12_item,道具,Item.10031,阿露(正月)的神名文字,アル（正月）の神名文字,亞瑠(正月)的神名文字,Aru (New Year)&#x27;s Eleph,아루(새해)의 엘레프,เอลเลฟของอารุ (ปีใหม่),items.json
+12_item,道具,Item.10032,睦月(正月)的神名文字,ムツキ（正月）の神名文字,無月(正月)的神名文字,Mutsuki (New Year)&#x27;s Eleph,무츠키(새해)의 엘레프,เอลเลฟของมุสึกิ (ปีใหม่),items.json
+12_item,道具,Item.10033,若藻的神名文字,ワカモの神名文字,若藻的神名文字,Wakamo&#x27;s Eleph,와카모의 엘레프,เอลเลฟของวาคาโมะ,items.json
+12_item,道具,Item.10034,三森的神名文字,ミモリの神名文字,三森的神名文字,Mimori&#x27;s Eleph,미모리의 엘레프,เอลเลฟของมิโมริ,items.json
+12_item,道具,Item.10035,忧的神名文字,ウイの神名文字,憂的神名文字,Ui&#x27;s Eleph,우이의 엘레프,เอลเลฟของอุย,items.json
+12_item,道具,Item.10036,日向的神名文字,ヒナタの神名文字,日向的神名文字,Hinata&#x27;s Eleph,히나타의 엘레프,เอลเลฟของฮินาตะ,items.json
+12_item,道具,Item.10037,玛利娜的神名文字,マリナの神名文字,瑪麗娜的神名文字,Marina&#x27;s Eleph,마리나의 엘레프,เอลเลฟของมารินะ,items.json
+12_item,道具,Item.10038,宫子的神名文字,ミヤコの神名文字,都子的神名文字,Miyako&#x27;s Eleph,미야코의 엘레프,เอลเลฟของมิยาโกะ,items.json
+12_item,道具,Item.10039,美游的神名文字,ミユの神名文字,美優的神名文字,Miyu&#x27;s Eleph,미유의 엘레프,เอลเลฟของมิยุ,items.json
+12_item,道具,Item.10040,月咏的神名文字,ツクヨの神名文字,月夜的神名文字,Tsukuyo&#x27;s Eleph,츠쿠요의 엘레프,เอลเลฟของสึคุโยะ,items.json
+12_item,道具,Item.10041,美咲的神名文字,ミサキの神名文字,美咲的神名文字,Misaki&#x27;s Eleph,미사키의 엘레프,เอลเลฟของมิซากิ,items.json
+12_item,道具,Item.10042,亚津子的神名文字,アツコの神名文字,敦子的神名文字,Atsuko&#x27;s Eleph,아츠코의 엘레프,เอลเลฟของอาสึโกะ,items.json
+12_item,道具,Item.10043,若藻(泳装)的神名文字,ワカモ（水着）の神名文字,若藻(泳裝)的神名文字,Wakamo (Swimsuit)&#x27;s Eleph,와카모(수영복)의 엘레프,เอลเลฟของวาคาโมะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10044,野宫(泳装)的神名文字,ノノミ（水着）の神名文字,野乃美(泳裝)的神名文字,Nonomi (Swimsuit)&#x27;s Eleph,노노미(수영복)의 엘레프,เอลเลฟของโนโนมิ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10045,星野(泳装)的神名文字,ホシノ（水着）の神名文字,星野(泳裝)的神名文字,Hoshino (Swimsuit)&#x27;s Eleph,호시노(수영복)의 엘레프,เอลเลฟของโฮชิโนะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10046,泉奈(泳装)的神名文字,イズナ（水着）の神名文字,伊樹菜(泳裝)的神名文字,Izuna (Swimsuit)&#x27;s Eleph,이즈나(수영복)의 엘레프,เอลเลฟของอิซุนะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10047,千世(泳装)的神名文字,チセ（水着）の神名文字,知世(泳裝)的神名文字,Chise (Swimsuit)&#x27;s Eleph,치세(수영복)의 엘레프,เอลเลฟของชิเซะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10048,纱织的神名文字,サオリの神名文字,沙織的神名文字,Saori&#x27;s Eleph,사오리의 엘레프,เอลเลฟของซาโอริ,items.json
+12_item,道具,Item.10049,和纱的神名文字,カズサの神名文字,千紗的神名文字,Kazusa&#x27;s Eleph,카즈사의 엘레프,เอลเลฟของคาซึสะ,items.json
+12_item,道具,Item.10050,心奈的神名文字,ココナの神名文字,心菜的神名文字,Kokona&#x27;s Eleph,코코나의 엘레프,เอลเลฟของโคโคน่า,items.json
+12_item,道具,Item.10051,歌原(应援团)的神名文字,ウタハ（応援団）の神名文字,詠葉(應援團)的神名文字,Utaha (Cheer Squad)&#x27;s Eleph,우타하(응원단)의 엘레프,เอลเลฟของอุทาฮะ (ชุดเชียร์),items.json
+12_item,道具,Item.10052,诺亚的神名文字,ノアの神名文字,乃愛的神名文字,Noa&#x27;s Eleph,노아의 엘레프,เอลเลฟของโนอา,items.json
+12_item,道具,Item.10053,优香(体操服)的神名文字,ユウカ（体操服）の神名文字,優香(體育服)的神名文字,Yuuka (Track)&#x27;s Eleph,유우카(체육복)의 엘레프,เอลเลฟของยูกะ (ชุดพละ),items.json
+12_item,道具,Item.10054,玛丽(体操服)的神名文字,マリー（体操服）の神名文字,瑪麗(體育服)的神名文字,Mari (Track)&#x27;s Eleph,마리(체육복)의 엘레프,เอลเลฟของมารี (ชุดพละ),items.json
+12_item,道具,Item.10055,时雨的神名文字,シグレの神名文字,時雨的神名文字,Shigure&#x27;s Eleph,시구레의 엘레프,เอลเลฟของชิกุเระ,items.json
+12_item,道具,Item.10056,芹娜(圣诞)的神名文字,セリナ（クリスマス）の神名文字,芹奈(聖誕節)的神名文字,Serina (Christmas)&#x27;s Eleph,세리나(크리스마스)의 엘레프,เอลเลฟของเซรินะ (คริสต์มาส),items.json
+12_item,道具,Item.10057,晴奈(正月)的神名文字,ハルナ（正月）の神名文字,羽留奈(正月)的神名文字,Haruna (New Year)&#x27;s Eleph,하루나(새해)의 엘레프,เอลเลฟของฮารุนะ (ปีใหม่),items.json
+12_item,道具,Item.10058,美弥的神名文字,ミネの神名文字,美禰的神名文字,Mine&#x27;s Eleph,미네의 엘레프,เอลเลฟของมิเนะ,items.json
+12_item,道具,Item.10059,未花的神名文字,ミカの神名文字,彌香的神名文字,Mika&#x27;s Eleph,미카의 엘레프,เอลเลฟของมิกะ,items.json
+12_item,道具,Item.10060,惠的神名文字,メグの神名文字,惠的神名文字,Megu&#x27;s Eleph,메구의 엘레프,เอลเลฟของเมกุ,items.json
+12_item,道具,Item.10061,樱子的神名文字,サクラコの神名文字,櫻子的神名文字,Sakurako&#x27;s Eleph,사쿠라코의 엘레프,เอลเลฟของซากุระโกะ,items.json
+12_item,道具,Item.10062,时的神名文字,トキの神名文字,季的神名文字,Toki&#x27;s Eleph,토키의 엘레프,เอลเลฟของโทคิ,items.json
+12_item,道具,Item.10063,小雪的神名文字,コユキの神名文字,小雪的神名文字,Koyuki&#x27;s Eleph,코유키의 엘레프,เอลเลฟของโคยูกิ,items.json
+12_item,道具,Item.10064,佳代子(正月)的神名文字,カヨコ（正月）の神名文字,カヨコ（正月）の神名文字,Kayoko (New Year)&#x27;s Eleph,카요코(새해)의 엘레프,เอลเลฟของคาโยโกะ (ปีใหม่),items.json
+12_item,道具,Item.10065,果穗的神名文字,カホの神名文字,カホの神名文字,Kaho&#x27;s Eleph,카호의 엘레프,เอลเลฟของคาโฮะ,items.json
+12_item,道具,Item.10066,爱丽丝(女仆)的神名文字,アリス（メイド）の神名文字,アリス（メイド）の神名文字,Aris (Maid)&#x27;s Eleph,아리스(메이드)의 엘레프,เอลเลฟของอาริสึ (เมด),items.json
+12_item,道具,Item.10067,时(兔女郎)的神名文字,トキ（バニーガール）の神名文字,トキ（バニーガール）の神名文字,Toki (Bunny)&#x27;s Eleph,토키(바니걸)의 엘레프,เอลเลฟของโทคิ (บันนี่เกิร์ล),items.json
+12_item,道具,Item.10068,玲纱神名文字,レイサの神名文字,レイサの神名文字,Reisa&#x27;s Eleph,레이사의 엘레프,เอลเลฟของเรอิสะ,items.json
+12_item,道具,Item.10069,瑠美的神名文字,ルミの神名文字,ルミの神名文字,Rumi&#x27;s Eleph,루미의 엘레프,เอลเลฟของรูมิ,items.json
+12_item,道具,Item.10070,弥奈的神名文字,ミナの神名文字,ミナの神名文字,Mina&#x27;s Eleph,미나의 엘레프,เอลเลฟของมินะ,items.json
+12_item,道具,Item.10071,宫子(泳装)的神名文字,ミヤコ（水着）の神名文字,ミヤコ（水着）の神名文字,Miyako (Swimsuit)&#x27;s Eleph,미야코(수영복)의 엘레프,เอลเลฟของมิยาโกะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10072,咲(泳装)的神名文字,サキ（水着）の神名文字,サキ（水着）の神名文字,Saki (Swimsuit)&#x27;s Eleph,사키(수영복)의 엘레프,เอลเลฟของซากิ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10073,ウイ（水着）の神名文字,ウイ（水着）の神名文字,ウイ（水着）の神名文字,Ui (Swimsuit)&#x27;s Eleph,우이(수영복)의 엘레프,เอลเลฟของอุย (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.10074,ハナコ（水着）の神名文字,ハナコ（水着）の神名文字,ハナコ（水着）の神名文字,Hanako (Swimsuit)&#x27;s Eleph,하나코(수영복)의 엘레프,ハナコ（水着）の神名文字,items.json
+12_item,道具,Item.13000,茜的神名文字,アカネの神名文字,朱音的神名文字,Akane&#x27;s Eleph,아카네의 엘레프,เอลเลฟของอาคาเนะ,items.json
+12_item,道具,Item.13001,千世的神名文字,チセの神名文字,知世的神名文字,Chise&#x27;s Eleph,치세의 엘레프,เอลเลฟของชิเซะ,items.json
+12_item,道具,Item.13002,明里的神名文字,アカリの神名文字,亞伽里的神名文字,Akari&#x27;s Eleph,아카리의 엘레프,เอลเลฟของอาคาริ,items.json
+12_item,道具,Item.13003,莲见的神名文字,ハスミの神名文字,蓮實的神名文字,Hasumi&#x27;s Eleph,하스미의 엘레프,เอลเลฟของฮาสุมิ,items.json
+12_item,道具,Item.13004,野宫的神名文字,ノノミの神名文字,野乃美的神名文字,Nonomi&#x27;s Eleph,노노미의 엘레프,เอลเลฟของโนโนมิ,items.json
+12_item,道具,Item.13005,佳代子的神名文字,カヨコの神名文字,佳世子的神名文字,Kayoko&#x27;s Eleph,카요코의 엘레프,เอลเลฟของคาโยโกะ,items.json
+12_item,道具,Item.13006,睦月的神名文字,ムツキの神名文字,無月的神名文字,Mutsuki&#x27;s Eleph,무츠키의 엘레프,เอลเลฟของมุสึกิ,items.json
+12_item,道具,Item.13007,淳子的神名文字,ジュンコの神名文字,淳子的神名文字,Junko&#x27;s Eleph,준코의 엘레프,เอลเลฟของจุนโกะ,items.json
+12_item,道具,Item.13008,芹香的神名文字,セリカの神名文字,茜香的神名文字,Serika&#x27;s Eleph,세리카의 엘레프,เอลเลฟของเซริกะ,items.json
+12_item,道具,Item.13009,椿的神名文字,ツバキの神名文字,椿的神名文字,Tsubaki&#x27;s Eleph,츠바키의 엘레프,เอลเลฟของสึบากิ,items.json
+12_item,道具,Item.13010,优香的神名文字,ユウカの神名文字,優香的神名文字,Yuuka&#x27;s Eleph,유우카의 엘레프,เอลเลฟของยูกะ,items.json
+12_item,道具,Item.13011,桃井的神名文字,モモイの神名文字,桃井的神名文字,Momoi&#x27;s Eleph,모모이의 엘레프,เอลเลฟของโมโมอิ,items.json
+12_item,道具,Item.13012,桐乃的神名文字,キリノの神名文字,桐乃的神名文字,Kirino&#x27;s Eleph,키리노의 엘레프,เอลเลฟของคิริโนะ,items.json
+12_item,道具,Item.16000,遥香的神名文字,ハルカの神名文字,遙香的神名文字,Haruka&#x27;s Eleph,하루카의 엘레프,เอลเลฟของฮารุกะ,items.json
+12_item,道具,Item.16001,明日奈的神名文字,アスナの神名文字,明日奈的神名文字,Asuna&#x27;s Eleph,아스나의 엘레프,เอลเลฟของอาสึนะ,items.json
+12_item,道具,Item.16002,柯托莉的神名文字,コトリの神名文字,亞都梨的神名文字,Kotori&#x27;s Eleph,코토리의 엘레프,เอลเลฟของโคโทริ,items.json
+12_item,道具,Item.16003,铃美的神名文字,スズミの神名文字,鈴美的神名文字,Suzumi&#x27;s Eleph,스즈미의 엘레프,เอลเลฟของสึซึมิ,items.json
+12_item,道具,Item.16004,菲娜的神名文字,フィーナの神名文字,菲娜的神名文字,Pina&#x27;s Eleph,피나의 엘레프,เอลเลฟของพีน่า,items.json
+12_item,道具,Item.16005,鹤城(泳装)的神名文字,ツルギ（水着）の神名文字,弦生(泳裝)的神名文字,Tsurugi (Swimsuit)&#x27;s Eleph,츠루기(수영복)의 엘레프,เอลเลฟของซึรุกิ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.16006,泉(泳装)的神名文字,イズミ（水着）の神名文字,泉(泳裝)的神名文字,Izumi (Swimsuit)&#x27;s Eleph,이즈미(수영복)의 엘레프,เอลเลฟของอิซุมิ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.16007,智惠的神名文字,トモエの神名文字,智惠的神名文字,Tomoe&#x27;s Eleph,토모에의 엘레프,เอลเลฟของโทโมเอะ,items.json
+12_item,道具,Item.16008,吹雪的神名文字,フブキの神名文字,吹雪的神名文字,Fubuki&#x27;s Eleph,후부키의 엘레프,เอลเลฟของฟุบุกิ,items.json
+12_item,道具,Item.16009,满的神名文字,ミチルの神名文字,三千留的神名文字,Michiru&#x27;s Eleph,미치루의 엘레프,เอลเลฟของมิจิรุ,items.json
+12_item,道具,Item.16010,响(应援团)的神名文字,ヒビキ（応援団）の神名文字,響(應援團)的神名文字,Hibiki (Cheer Squad)&#x27;s Eleph,히비키(응원단)의 엘레프,เอลเลฟของฮิบิกิ (ชุดเชียร์),items.json
+12_item,道具,Item.16011,莲见(体操服)的神名文字,ハスミ（体操服）の神名文字,蓮實(體育服)的神名文字,Hasumi (Track)&#x27;s Eleph,하스미(체육복)의 엘레프,เอลเลฟของฮาสุมิ (ชุดพละ),items.json
+12_item,道具,Item.16012,淳子(正月)的神名文字,ジュンコ（正月）の神名文字,淳子(正月)的神名文字,Junko (New Year)&#x27;s Eleph,준코(새해)의 엘레프,เอลเลฟของจุนโกะ (ปีใหม่),items.json
+12_item,道具,Item.16013,コハル（水着）の神名文字,コハル（水着）の神名文字,コハル（水着）の神名文字,Koharu (Swimsuit)&#x27;s Eleph,코하루(수영복)의 엘레프,เอลเลฟของโคฮารุ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.20000,响的神名文字,ヒビキの神名文字,響的神名文字,Hibiki&#x27;s Eleph,히비키의 엘레프,เอลเลฟของฮิบิกิ,items.json
+12_item,道具,Item.20001,花凛的神名文字,カリンの神名文字,花凛的神名文字,Karin&#x27;s Eleph,카린의 엘레프,เอลเลฟของคาริน,items.json
+12_item,道具,Item.20002,纱绫的神名文字,サヤの神名文字,沙耶的神名文字,Saya&#x27;s Eleph,사야의 엘레프,เอลเลฟของซายะ,items.json
+12_item,道具,Item.20003,真白的神名文字,マシロの神名文字,麻白的神名文字,Mashiro&#x27;s Eleph,마시로의 엘레프,เอลเลฟของมาชิโระ,items.json
+12_item,道具,Item.20004,真白(泳装)的神名文字,マシロ（水着）の神名文字,麻白(泳裝)的神名文字,Mashiro (Swimsuit)&#x27;s Eleph,마시로(수영복)의 엘레프,เอลเลฟของมาชิโระ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.20005,日富美(泳装)的神名文字,ヒフミ（水着）の神名文字,日步美(泳裝)的神名文字,Hifumi (Swimsuit)&#x27;s Eleph,히후미(수영복)의 엘레프,เอลเลฟของฮิฟุมิ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.20006,纱绫(私服)的神名文字,サヤ（私服）の神名文字,沙耶(私服)的神名文字,Saya (Casual)&#x27;s Eleph,사야(사복)의 엘레프,เอลเลฟของซายะ (ชุดลำลอง),items.json
+12_item,道具,Item.20007,初音未来的神名文字,初音ミクの神名文字,初音未來的神名文字,Hatsune Miku&#x27;s Eleph,하츠네 미쿠의 엘레프,เอลเลฟของฮัตสึเนะ มิกุ,items.json
+12_item,道具,Item.20008,亚子的神名文字,アコの神名文字,亞子的神名文字,Ako&#x27;s Eleph,아코의 엘레프,เอลเลฟของอาโกะ,items.json
+12_item,道具,Item.20009,切里诺(温泉)的神名文字,チェリノ（温泉）の神名文字,潔莉諾(溫泉)的神名文字,Cherino (Hot Spring)&#x27;s Eleph,체리노(온천)의 엘레프,เอลเลฟของเชริโน่ (ออนเซ็น),items.json
+12_item,道具,Item.20010,和香(温泉)的神名文字,ノドカ（温泉）の神名文字,和香(溫泉)的神名文字,Nodoka (Hot Spring)&#x27;s Eleph,노도카(온천)의 엘레프,เอลเลฟของโนโดกะ (ออนเซ็น),items.json
+12_item,道具,Item.20011,芹香(正月)的神名文字,セリカ（正月）の神名文字,茜香(正月)的神名文字,Serika (New Year)&#x27;s Eleph,세리카(새해)의 엘레프,เอลเลฟของเซริกะ (ปีใหม่),items.json
+12_item,道具,Item.20012,濑名的神名文字,セナの神名文字,瀬奈的神名文字,Sena&#x27;s Eleph,세나의 엘레프,เอลเลฟของเซนะ,items.json
+12_item,道具,Item.20013,千寻的神名文字,チヒロの神名文字,千尋的神名文字,Chihiro&#x27;s Eleph,치히로의 엘레프,เอลเลฟของจิฮิโระ,items.json
+12_item,道具,Item.20014,咲的神名文字,サキの神名文字,咲希的神名文字,Saki&#x27;s Eleph,사키의 엘레프,เอลเลฟของซากิ,items.json
+12_item,道具,Item.20015,枫的神名文字,カエデの神名文字,楓的神名文字,Kaede&#x27;s Eleph,카에데의 엘레프,เอลเลฟของคาเอเดะ,items.json
+12_item,道具,Item.20016,伊吕波的神名文字,イロハの神名文字,伊呂波的神名文字,Iroha&#x27;s Eleph,이로하의 엘레프,เอลเลฟของอิโรฮะ,items.json
+12_item,道具,Item.20017,日和的神名文字,ヒヨリの神名文字,日和的神名文字,Hiyori&#x27;s Eleph,히요리의 엘레프,เอลเลฟของฮิโยริ,items.json
+12_item,道具,Item.20018,萌绘的神名文字,モエの神名文字,萌的神名文字,Moe&#x27;s Eleph,모에의 엘레프,เอลเลฟของโมเอะ,items.json
+12_item,道具,Item.20019,茜(兔女郎)的神名文字,アカネ（バニーガール）の神名文字,朱音(兔女郎)的神名文字,Akane (Bunny)&#x27;s Eleph,아카네(바니걸)의 엘레프,เอลเลฟของอาคาเนะ (บันนี่เกิร์ล),items.json
+12_item,道具,Item.20020,日鞠的神名文字,ヒマリの神名文字,陽葵的神名文字,Himari&#x27;s Eleph,히마리의 엘레프,เอลเลฟของฮิมาริ,items.json
+12_item,道具,Item.20021,花江(圣诞)的神名文字,ハナエ（クリスマス）の神名文字,花繪(聖誕節)的神名文字,Hanae (Christmas)&#x27;s Eleph,하나에(크리스마스)의 엘레프,เอลเลฟของฮานาเอะ (คริสต์มาส),items.json
+12_item,道具,Item.20022,枫香(正月)的神名文字,フウカ（正月）の神名文字,風華(正月)的神名文字,Fuuka (New Year)&#x27;s Eleph,후우카(새해)의 엘레프,เอลเลฟของฟูกะ (ปีใหม่),items.json
+12_item,道具,Item.20023,叶渚的神名文字,カンナの神名文字,環奈的神名文字,Kanna&#x27;s Eleph,칸나의 엘레프,เอลเลฟของคันนะ,items.json
+12_item,道具,Item.20024,渚的神名文字,ナギサの神名文字,渚的神名文字,Nagisa&#x27;s Eleph,나기사의 엘레프,เอลเลฟของนางิสะ,items.json
+12_item,道具,Item.20025,遥香(正月)的神名文字,ハルカ（正月）の神名文字,ハルカ（正月）の神名文字,Haruka (New Year)&#x27;s Eleph,하루카(새해)의 엘레프,เอลเลฟของฮารุกะ (ปีใหม่),items.json
+12_item,道具,Item.20026,实里的神名文字,ミノリの神名文字,ミノリの神名文字,Minori&#x27;s Eleph,미노리의 엘레프,เอลเลฟของมิโนริ,items.json
+12_item,道具,Item.20027,白子(泳装)的神名文字,シロコ（水着）の神名文字,シロコ（水着）の神名文字,Shiroko (Swimsuit)&#x27;s Eleph,시로코(수영복)의 엘레프,เอลเลฟของชิโรโกะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.20028,ヒナタ（水着）の神名文字,ヒナタ（水着）の神名文字,ヒナタ（水着）の神名文字,Hinata (Swimsuit)&#x27;s Eleph,히나타(수영복)의 엘레프,เอลเลฟของฮินาตะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.23000,爱莉的神名文字,アイリの神名文字,愛莉的神名文字,Airi&#x27;s Eleph,아이리의 엘레프,เอลเลฟของไอริ,items.json
+12_item,道具,Item.23001,枫香的神名文字,フウカの神名文字,風華的神名文字,Fuuka&#x27;s Eleph,후우카의 엘레프,เอลเลฟของฟูกะ,items.json
+12_item,道具,Item.23002,花江的神名文字,ハナエの神名文字,花繪的神名文字,Hanae&#x27;s Eleph,하나에의 엘레프,เอลเลฟของฮานาเอะ,items.json
+12_item,道具,Item.23003,晴的神名文字,ハレの神名文字,晴的神名文字,Hare&#x27;s Eleph,하레의 엘레프,เอลเลฟของฮาเระ,items.json
+12_item,道具,Item.23004,歌原的神名文字,ウタハの神名文字,詠葉的神名文字,Utaha&#x27;s Eleph,우타하의 엘레프,เอลเลฟของอุทาฮะ,items.json
+12_item,道具,Item.23005,绫音的神名文字,アヤネの神名文字,綾音的神名文字,Ayane&#x27;s Eleph,아야네의 엘레프,เอลเลฟของอายาเนะ,items.json
+12_item,道具,Item.23006,静子的神名文字,シズコの神名文字,靜子的神名文字,Shizuko&#x27;s Eleph,시즈코의 엘레프,เอลเลฟของชิซุโกะ,items.json
+12_item,道具,Item.23007,花子的神名文字,ハナコの神名文字,花子的神名文字,Hanako&#x27;s Eleph,하나코의 엘레프,เอลเลฟของฮานาโกะ,items.json
+12_item,道具,Item.23008,玛丽的神名文字,マリーの神名文字,瑪麗的神名文字,Mari&#x27;s Eleph,마리의 엘레프,เอลเลฟของมารี,items.json
+12_item,道具,Item.26000,千夏的神名文字,チナツの神名文字,千夏的神名文字,Chinatsu&#x27;s Eleph,치나츠의 엘레프,เอลเลฟของชินัตสึ,items.json
+12_item,道具,Item.26001,小玉的神名文字,コタマの神名文字,小玉的神名文字,Kotama&#x27;s Eleph,코타마의 엘레프,เอลเลฟของโคทามะ,items.json
+12_item,道具,Item.26002,茱莉的神名文字,ジュリの神名文字,茱莉的神名文字,Juri&#x27;s Eleph,주리의 엘레프,เอลเลฟของจูริ,items.json
+12_item,道具,Item.26003,芹娜的神名文字,セリナの神名文字,芹奈的神名文字,Serina&#x27;s Eleph,세리나의 엘레프,เอลเลฟของเซรินะ,items.json
+12_item,道具,Item.26004,志美子的神名文字,シミコの神名文字,志美子的神名文字,Shimiko&#x27;s Eleph,시미코의 엘레프,เอลเลฟของชิมิโกะ,items.json
+12_item,道具,Item.26005,好美的神名文字,ヨシミの神名文字,喜美的神名文字,Yoshimi&#x27;s Eleph,요시미의 엘레프,เอลเลฟของโยชิมิ,items.json
+12_item,道具,Item.26006,和香的神名文字,ノドカの神名文字,和香的神名文字,Nodoka&#x27;s Eleph,노도카의 엘레프,เอลเลฟของโนโดกะ,items.json
+12_item,道具,Item.26007,绫音(泳装)的神名文字,アヤネ（水着）の神名文字,綾音(泳裝)的神名文字,Ayane (Swimsuit)&#x27;s Eleph,아야네(수영복)의 엘레프,เอลเลฟของอายาเนะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.26008,静子(泳装)的神名文字,シズコ（水着）の神名文字,靜子(泳裝)的神名文字,Shizuko (Swimsuit)&#x27;s Eleph,시즈코(수영복)의 엘레프,เอลเลฟของชิซุโกะ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.26009,柚子(女仆)的神名文字,ユズ（メイド）の神名文字,ユズ（メイド）の神名文字,Yuzu (Maid)&#x27;s Eleph,유즈(메이드)의 엘레프,เอลเลฟของยูสึ (เมด),items.json
+12_item,道具,Item.26010,美游(泳装)的神名文字,ミユ（水着）の神名文字,ミユ（水着）の神名文字,Miyu (Swimsuit)&#x27;s Eleph,미유(수영복)의 엘레프,เอลเลฟของมิยุ (ชุดว่ายน้ำ),items.json
+12_item,道具,Item.30000,初级战术教育BD盒,初級戦術教育BDボックス,基礎戰術教育BD箱,Beginner Tactical Training Blu-ray Chest,기초 전술 교육 BD 상자,กล่อง BD เรียนสกิลขั้นต่ำ,items.json
+12_item,道具,Item.30001,中级战术教育BD盒,中級戦術教育BDボックス,一般戰術教育BD箱,Normal Tactical Training Blu-ray Chest,일반 전술 교육 BD 상자,กล่อง BD เรียนสกิลขั้นกลาง,items.json
+12_item,道具,Item.30002,高级战术教育BD盒,上級戦術教育BDボックス,高級戰術教育BD箱,Advanced Training Blu-ray Chest,상급 전술 교육 BD 상자,กล่อง BD เรียนสกิลขั้นสูง,items.json
+12_item,道具,Item.30003,最高级战术教育BD盒,最上級戦術教育BDボックス,最高級戰術教育BD箱,Superior Tactical Training Blu-ray Chest,최상급 전술 교육 BD 상자,กล่อง BD เรียนสกิลขั้นสูงสุด,items.json
+12_item,道具,Item.40000,初级技术笔记盒,初級技術ノートボックス,基礎技術筆記箱,Beginner Tech Notes Chest,기초 기술 노트 상자,กล่องตำราสกิลขั้นต่ำ,items.json
+12_item,道具,Item.40001,中级技术笔记盒,中級技術ノートボックス,一般技術筆記箱,Normal Tech Notes Chest,일반 기술 노트 상자,กล่องตำราสกิลขั้นกลาง,items.json
+12_item,道具,Item.40002,高级技术笔记盒,上級技術ノートボックス,高級技術筆記箱,Advanced Tech Notes Chest,상급 기술 노트 상자,กล่องตำราสกิลขั้นสูง,items.json
+12_item,道具,Item.40003,最高级技术笔记盒,最上級技術ノートボックス,最高級技術筆記箱,Superior Tech Notes Chest,최상급 기술 노트 상자,กล่องตำราสกิลขั้นสูงสุด,items.json
+12_item,道具,Item.80000,活动点数,イベントPt,活動點數,Event Points,이벤트 포인트,แต้มกิจกรรม,items.json
+12_item,道具,Item.80001,狐狸仙贝,キツネせんべい,狐狸仙貝,Kitsune Senbei,여우여우 센베이,เซ็มเบจิ้งจอก,items.json
+12_item,道具,Item.80002,浣熊御好烧,タヌキ印のお好み焼き,浣熊大阪燒,Tanuki Okonomiyaki,너구리 오코노미야키,โอโคโนมิยากิแร็กคูน,items.json
+12_item,道具,Item.80003,樱花大福饼,サクラ大福,櫻花糯米糕,Sakura Daifuku,벚꽃 찹쌀떡,ไดฟุกุซากุระ,items.json
+12_item,道具,Item.80010,切里诺俄罗斯套娃,チェリノマトリョーシカ,潔莉諾俄羅斯娃娃,Cherino Matryoshka,체리노 마트료시카,ตุ๊กตาแม่ลูกดกเชริโน่,items.json
+12_item,道具,Item.80011,切里诺巧克力,チェリノ印のチョコレート,茶蓮卡巧克力,Cherenka Chocolate,체룐카 초콜릿,ช็อกโกแลตเชริโน่,items.json
+12_item,道具,Item.80012,俏胡子可丽饼,おひげクレープ,俏鬍子可麗餅,Mustache Crepe,수염 크레이프,เครปครีมหนวด,items.json
+12_item,道具,Item.80013,勇猛髭勋章,勇猛髭勲章,紅鬍鬚勳章,Red Mustache Medal,붉은 수염 훈장,เหรียญตราหนวดขาว,items.json
+12_item,道具,Item.80021,沙滩排球,ビーチボール,沙灘排球,Beach Volleyball,비치발리볼,ลูกวอลเลย์บอลชายหาด,items.json
+12_item,道具,Item.80022,海之家餐券,海の家の食券,海之家餐券,Beach Shack Meal Ticket,바다의 집 식권,คูปองอาหารร้านริมทะเล,items.json
+12_item,道具,Item.80023,迷你火箭烟花,ミニロケット花火,奇怪的鞭炮,Weird Fireworks,이상한 폭죽,ดอกไม้ไฟประหลาด,items.json
+12_item,道具,Item.80024,冷藏箱,クーラーボックス,冰桶,Ice Cooler,아이스박스,กล่องแช่เย็น,items.json
+12_item,道具,Item.80025,玩沙工具套装,砂遊びセット,玩沙工具組,Sand Play Set,모래놀이 세트,เซ็ตเล่นทราย,items.json
+12_item,道具,Item.80026,沙滩椅,ビーチチェア,沙灘椅,Beach Chair,비치 체어,เก้าอี้ชายหาด,items.json
+12_item,道具,Item.80027,遮阳伞桌,パラソルテーブル,遮陽傘桌,Parasol Table,파라솔 테이블,โต๊ะร่มบังแดด,items.json
+12_item,道具,Item.80028,海滩用具,ビーチグッズ,水中活動裝備,Water Play Equipment,물놀이 장비,อุปกรณ์เล่นน้ำ,items.json
+12_item,道具,Item.80029,风浪板,セーリングボート,風浪板,Sailing Board,세일링 보드,บอร์ดวินเซิร์ฟ,items.json
+12_item,道具,Item.80030,格黑娜补给箱,ゲヘナ印の補給ボックス,印有格黑娜校徽的補給箱,Gehenna Supply Box,게헨나의 교표가 찍힌 보급상자,กล่องเสบียง ตราเกเฮนน่า,items.json
+12_item,道具,Item.80031,美食研究会的烤玉米,美食研究会の焼きトウモロコシ,美食研究會的烤玉米,GRS Grilled Corn,미식연구회의 군옥수수,ข้าวโพดย่าง ชมรมชิมอาหาร,items.json
+12_item,道具,Item.80032,夏日用混混太阳镜,夏のスケバンサングラス,夏天用太妹太陽眼鏡,Thug Summer Shades,여름용 불량배 선글라스,แว่นแยงกี้สาวฤดูร้อน,items.json
+12_item,道具,Item.80033,潮水钢盔,びしょびしょヘルメット,嘩啦嘩啦頭盔,Splashy Helmet,첨벙첨벙 헬멧,หมวกสาดน้ำ,items.json
+12_item,道具,Item.80041,龟壳菇,コウラ茸,烏龜菇,Turtle Mushroom,거북 버섯,เห็ดเต่า,items.json
+12_item,道具,Item.80042,乌竹笋,クロ筍,烏竹筍,Black Bamboo Shoot,오죽순,ต้นไผ่สีดำ,items.json
+12_item,道具,Item.80043,人形参,ヒトガタ人蔘,人形蔘,Ginseng Doll,인형삼,โสมรูปคน,items.json
+12_item,道具,Item.80050,巧克力币,チョコレートコイン,巧克力硬幣,Chocolate Coin,초콜릿 코인,เหรียญช็อกโกแลต,items.json
+12_item,道具,Item.80051,兔子贴纸,ウサギのステッカー,兔子貼紙,Rabbit Sticker,토끼 스티커,สติกเกอร์กระต่าย,items.json
+12_item,道具,Item.80052,乘船券,乗船チケット,乘船券,Boarding Pass,승선권,ตั๋วเรือ,items.json
+12_item,道具,Item.80053,骰子,サイコロ,骰子,Dice,주사위,ลูกเต๋า,items.json
+12_item,道具,Item.80061,温泉毛巾,温泉タオル,溫泉毛巾,Hot Spring Towel,온천 타월,ผ้าขนหนูออนเซ็น,items.json
+12_item,道具,Item.80062,胡子洗发液,おひげシャンプー,鬍子洗髮精,Mustache Shampoo,수염 샴푸,แชมพูหนวด,items.json
+12_item,道具,Item.80063,水豚入浴剂,カピバラ型の入浴剤,水豚入浴劑,Capybara Bath Bomb,카피바라 입욕제,บาธบอมบ์แคพิบารา,items.json
+12_item,道具,Item.80070,福袋,福袋,特製新年福袋,New Year&#x27;s Lucky Pouch,특제 신년 복주머니,ถุงนำโชคปีใหม่,items.json
+12_item,道具,Item.80071,佩洛洛镜饼,ペロロ餅,佩洛洛鏡餅,Peroro Kagami Mochi,페로로 거울떡,คางามิโมจิเพโรโร่,items.json
+12_item,道具,Item.80072,黑龟组绘马,黒亀組の絵馬,黑龜組繪馬,Kurokame Gang Ema,검은거북파 에마,ป้ายขอพรแก๊งคุโรคาเมะ,items.json
+12_item,道具,Item.80073,御神签兑换券,おみくじ引換券,正月御神籤 抽籤券,New Year Omikuji Token,새해 오미쿠지 뽑기권,ตั๋วเขย่าโอะมิกุจิปีใหม่,items.json
+12_item,道具,Item.80081,问题儿童悔过书,問題児の反省文,問題兒童悔過書,Baddie&#x27;s Apology Letter,문제아의 반성문,หนังสือสำนึกผิด,items.json
+12_item,道具,Item.80082,没收的违法便宜点心,押収された違法駄菓子,沒收的不良便宜點心,Confiscated Junk Food,압수한 불량 막과자,ขนมขบเคี้ยวที่ยึดได้,items.json
+12_item,道具,Item.80083,环境美化活动用垃圾袋,環境美化活動用ゴミ袋,環境美化活動用制式袋子,Eco-Friendly Trash Bags,환경미화활동용 규격 봉투,ถุงงานดูแลสิ่งแวดล้อม,items.json
+12_item,道具,Item.80084,情人节邀请信,バレンタインデーのお誘い,情人節外出券,Valentine&#x27;s Day Outing Pass,발렌타인 데이 외출권,ตั๋วเที่ยววันวาเลนไทน์,items.json
+12_item,道具,Item.80090,若藻逮捕令,ワカモの逮捕状,若藻逮捕令,Wakamo Arrest Warrant,와카모 체포 영장,หมายจับวาคาโมะ,items.json
+12_item,道具,Item.80101,修女会头巾,シスターフッドのヴェール,彌撒巾,Missal Veil,미사보,ผ้าคลุมหน้า,items.json
+12_item,道具,Item.80102,三一圣歌集,トリニティの聖歌集,聖歌書,Hymn Book,성가책,หนังสือเพลง,items.json
+12_item,道具,Item.80103,三一烛台,トリニティの燭台,聖堂燭台,Cathedral Candle,성당 촛대,เชิงเทียนในวิหาร,items.json
+12_item,道具,Item.80110,甲虫皇后卡牌包,ムシクイーンのカードパック,甲蟲皇后卡牌包,Mushiqueen Card Pack,무시퀸 카드팩,แพ็กการ์ดมูชิควีน,items.json
+12_item,道具,Item.80111,交流会传单,交流会のチラシ,學園交流會傳單,Scrimmage Flyer,학원교류회 전단지,ใบปลิวทัวร์โรงเรียน,items.json
+12_item,道具,Item.80112,和乐公主扇,和楽姫のうちわ,和樂公主的扇子,Princess Waraku Fan,와라쿠 공주님 부채,พัดองค์หญิงวาราคุ,items.json
+12_item,道具,Item.80113,忍佩洛商品,ニンペロさんグッズ,忍佩洛玩偶商品,Ninpero Plush Merch,닌페로 씨 인형 굿즈,ตุ๊กตาคุณนินจานินเพโร่,items.json
+12_item,道具,Item.80120,材料箱,資材ボックス,材料箱,Materials Box,자재 상자,กล่องวัสดุ,items.json
+12_item,道具,Item.80130,地区通货,地域通貨,地區貨幣,Local Currency,지역화폐,สกุลเงินท้องถิ่น,items.json
+12_item,道具,Item.80131,百夜堂闪耀硬币,百夜堂キラキラコイン,百夜堂閃亮亮硬幣,Momoyodou Shiny Coin,백야당 번쩍번쩍 코인,เหรียญวิบวับๆ ของร้านเฮียกคิยาโค,items.json
+12_item,道具,Item.80132,平滑光亮海螺,ツルツルサザエ,平滑光亮海螺,Shiny Conch,반들반들 소라고둥,หอยสังข์วาววับ,items.json
+12_item,道具,Item.80133,夏日用忍术图鉴卷轴,夏用忍法図鑑巻物,夏日用忍法圖鑑卷軸,Summer Ninjutsu Codex Scroll,여름용 인법도감 두루마리,คำภีร์ศาสตร์นินจาฤดูร้อน,items.json
+12_item,道具,Item.80134,深海温泉岛度假村使用权,深海温泉島リゾート使用権,海洋深層水溫泉島渡假勝地使用券,Deep Sea Hot Springs Island Resort Ticket,해양심층수온천섬 리조트 사용권,ตั๋วใช้งานรีสอร์ต หมู่เกาะทะเลลึก,items.json
+12_item,道具,Item.80135,甲虫皇后游轮度假村使用权,ムシクイーンクルーズリゾート使用権,甲蟲皇后郵輪渡假勝地使用券,Mushiqueen Cruise Resort Ticket,무시퀸 크루즈 리조트 사용권,ตั๋วใช้งานรีสอร์ต มูชิควีนครูซ,items.json
+12_item,道具,Item.80136,超豪华度假村使用权,超豪華リゾート使用権,超豪華渡假勝地使用券,Ultra Luxury Resort Ticket,초호화 리조트 사용권,ตั๋วใช้งานรีสอร์ต ลักซ์ชัวรี่,items.json
+12_item,道具,Item.80140,甜点优惠券,スイーツクーポン,甜點優惠券,Dessert Coupon,디저트 쿠폰,คูปองของหวาน,items.json
+12_item,道具,Item.80141,薄荷巧克力芭菲,ミントチョコパフェ,薄荷巧克力百匯聖代,Mint Chocolate Parfait,민트초코 파르페,พาร์เฟ่ต์มินต์ช็อกโก,items.json
+12_item,道具,Item.80142,马卡龙,マカロン,馬卡龍,Macaron,마카롱,มาการอง,items.json
+12_item,道具,Item.80143,威化卷,ロールウエハース,威化卷心酥,Rolled Wafer,롤웨하스,เวเฟอร์แท่ง,items.json
+12_item,道具,Item.80151,沙包,お手玉,沙包,Beanbag,오자미,ถุงถั่วอัดระเบิด,items.json
+12_item,道具,Item.80152,千年旗帜,ミレニアムの旗,千年旗幟,Millennium Flag,밀레니엄 깃발,ธงมิลเลเนียม,items.json
+12_item,道具,Item.80153,哨子,ホイッスル,哨子,Whistle,호루라기,นกหวีดสุดล้ำ,items.json
+12_item,道具,Item.80160,运动饮料,スポーツドリンク,運動飲料,Sports Drink,스포츠 드링크,เครื่องดื่มเกลือแร่,items.json
+12_item,道具,Item.80161,接力棒,リレー用バトン,接力棒,Relay Baton,계주용 배턴,ไม้คทาวิ่งผลัด,items.json
+12_item,道具,Item.80162,豆沙面包,あんぱん,紅豆麵包,Red Bean Bun,단팥빵,ขนมปังไส้ถั่วแดง,items.json
+12_item,道具,Item.80163,指南手册,案内パンフレット,指南手冊,Information Brochure,안내 팸플릿,แผ่นพับแจ้งข่าว,items.json
+12_item,道具,Item.80170,圣诞礼盒,クリスマスプレゼント,聖誕禮物,Christmas Gift,크리스마스 선물,ของขวัญคริสต์มาส,items.json
+12_item,道具,Item.80171,圣诞袜,クリスマスソックス,聖誕襪,Christmas Stocking,크리스마스 양말,ถุงเท้าคริสต์มาส,items.json
+12_item,道具,Item.80172,拐杖糖,キャンディケイン,拐杖糖,Candy Cane,캔디 케인,ลูกกวาดไม้เท้า,items.json
+12_item,道具,Item.80173,蛋奶酒,エッグノッグ,蛋奶酒,Eggnog,에그노그,เอ๊กน็อก,items.json
+12_item,道具,Item.80181,红白鱼糕,紅白かまぼこ,紅白魚板,Red and White Fish Cakes,홍백 어묵,คามาโบโกะ,items.json
+12_item,道具,Item.80182,福鲷鱼,おめでタイ,真鯛,Snapper,참돔,ปลาไท,items.json
+12_item,道具,Item.80183,御神签兑换券,おみくじ引換券,御神籤交換券,Omikuji Exchange Ticket,오미쿠지 교환권,บัตรสุ่มโอะมิกุจิ,items.json
+12_item,道具,Item.80200,多维演算电路,多次元演算回路,多次元演算迴路,Multi-Dimensional Computational Unit,다차원 연산 회로,วงจรคำนวณหลายมิติ,items.json
+12_item,道具,Item.80201,次元引擎零件,次元エンジン付属品,次元引擎零件,Dimension Engine Part,차원엔진 부속품,อะไหล่เครื่องทะลุมิติ,items.json
+12_item,道具,Item.80202,宇宙巧克力汉堡,宇宙チョコバーガー,太空巧克力漢堡,Space Choco-Burger,우주 초코버거,เบอร์เกอร์อวกาศ,items.json
+12_item,道具,Item.80203,通行密钥 - 外环2区,ゲートアンロックコード - 外郭2区,大門解鎖密碼 - 外圍2區,Gate Unlock Code - Outer District 2,게이트 언락 코드 - 외곽 2지구,โค้ดปลดล็อกประตู - ชานเมืองเขต 2,items.json
+12_item,道具,Item.80204,通行密钥 - 外环3区,ゲートアンロックコード - 外郭3区,大門解鎖密碼 - 外圍3區,Gate Unlock Code - Outer District 3,게이트 언락 코드 - 외곽 3지구,โค้ดปลดล็อกประตู - ชานเมืองเขต 3,items.json
+12_item,道具,Item.80205,通行密钥 - 中心区,ゲートアンロックコード - 中央区,大門解鎖密碼 - 中央區,Gate Unlock Code - Central District,게이트 언락 코드 - 중앙 지구,โค้ดปลดล็อกประตู - เขตกลาง,items.json
+12_item,道具,Item.80221,联邦学生会的安全帽,連邦生徒会の安全帽,聯邦學生會的安全帽,Student Council Hard Hat,총학생회의 안전모,หมวกนิรภัย องค์การนักเรียน,items.json
+12_item,道具,Item.80222,财务报表,財務諸表,財務報告書,Financial Report,재무보고서,รายงานทางการเงิน,items.json
+12_item,道具,Item.80223,明太子薯片,めんたいポテチ,明太子餅乾,Pollack Roe Crackers,명란 과자,ขนมไข่ปลา,items.json
+12_item,道具,Item.80230,整洁的发箍,きれいなカチューシャ,きれいなカチューシャ,きれいなカチューシャ,깨끗한 카츄샤,きれいなカチューシャ,items.json
+12_item,道具,Item.80231,化妆套件,メイクアップセット,メイクアップセット,メイクアップセット,화장 도구,メイクアップセット,items.json
+12_item,道具,Item.80232,宅邸邀请函,屋敷への招待状,屋敷への招待状,屋敷への招待状,고저택의 초대장,屋敷への招待状,items.json
+12_item,道具,Item.80240,卡牌包,カードセット,カードセット,カードセット,카드 묶음,カードセット,items.json
+12_item,道具,Item.80241,玄武商会餐券,玄武商会の食券,玄武商会の食券,玄武商会の食券,현무상회 식권,玄武商会の食券,items.json
+12_item,道具,Item.80242,玄龙门徽章,玄龍門バッジ,玄龍門バッジ,玄龍門バッジ,현룡문 배지,玄龍門バッジ,items.json
+12_item,道具,Item.80243,溶剂提取装置,溶媒抽出セット,溶媒抽出セット,溶媒抽出セット,용매 추출 세트,溶媒抽出セット,items.json
+12_item,道具,Item.80260,冷凍エビ,冷凍エビ,冷凍エビ,冷凍エビ,냉동 새우,冷凍エビ,items.json
+12_item,道具,Item.80261,小石,小石,小石,小石,조약돌,小石,items.json
+12_item,道具,Item.80262,貝殻,貝殻,貝殻,貝殻,조개 껍데기,貝殻,items.json
+12_item,道具,Item.80263,乾いたヒトデ,乾いたヒトデ,乾いたヒトデ,乾いたヒトデ,마른 불가사리,乾いたヒトデ,items.json
+12_item,道具,Item.80264,サイコロ確定券,サイコロ確定券,サイコロ確定券,サイコロ確定券,주사위 확정권,サイコロ確定券,items.json
+12_item,道具,Item.80265,サイコロ1確定券,サイコロ1確定券,サイコロ1確定券,サイコロ1確定券,주사위 1 확정권,サイコロ1確定券,items.json
+12_item,道具,Item.80266,サイコロ2確定券,サイコロ2確定券,サイコロ2確定券,サイコロ2確定券,주사위 2 확정권,サイコロ2確定券,items.json
+12_item,道具,Item.80267,サイコロ3確定券,サイコロ3確定券,サイコロ3確定券,サイコロ3確定券,주사위 3 확정권,サイコロ3確定券,items.json
+12_item,道具,Item.80268,サイコロ4確定券,サイコロ4確定券,サイコロ4確定券,サイコロ4確定券,주사위 4 확정권,サイコロ4確定券,items.json
+12_item,道具,Item.80269,サイコロ5確定券,サイコロ5確定券,サイコロ5確定券,サイコロ5確定券,주사위 5 확정권,サイコロ5確定券,items.json
+12_item,道具,Item.80270,サイコロ6確定券,サイコロ6確定券,サイコロ6確定券,サイコロ6確定券,주사위 6 확정권,サイコロ6確定券,items.json
+12_item,道具,Item.80290,イベントPt,イベントPt,イベントPt,イベントPt,이벤트 포인트,イベントPt,items.json
+12_item,道具,Item.80291,羊皮紙の欠片,羊皮紙の欠片,羊皮紙の欠片,羊皮紙の欠片,양피지 조각,羊皮紙の欠片,items.json
+12_item,道具,Item.80292,レモン,レモン,レモン,レモン,레몬 열매,レモン,items.json
+12_item,道具,Item.80293,古びた鍵,古びた鍵,古びた鍵,古びた鍵,오래된 열쇠,古びた鍵,items.json
+12_item,道具,Item.85000,活动点数(复刻),イベントPt（復刻）,活動點數(复刻),Event Points (Rerun),이벤트 포인트(복각),แต้มกิจกรรม(รีรัน),items.json
+12_item,道具,Item.85001,狐狸仙贝(复刻),キツネせんべい（復刻）,狐狸仙貝(复刻),Kitsune Senbei (Rerun),여우여우 센베이(복각),เซ็มเบจิ้งจอก(รีรัน),items.json
+12_item,道具,Item.85002,浣熊御好烧(复刻),タヌキ印のお好み焼き（復刻）,浣熊大阪燒(复刻),Tanuki Okonomiyaki (Rerun),너구리 오코노미야키(복각),โอโคโนมิยากิแร็กคูน(รีรัน),items.json
+12_item,道具,Item.85003,樱花大福饼(复刻),サクラ大福（復刻）,櫻花糯米糕(复刻),Sakura Daifuku (Rerun),벚꽃 찹쌀떡(복각),ไดฟุกุซากุระ(รีรัน),items.json
+12_item,道具,Item.85010,切里诺俄罗斯套娃(复刻),チェリノマトリョーシカ（復刻）,潔莉諾俄羅斯娃娃(复刻),Cherino Matryoshka (Rerun),체리노 마트료시카(복각),ตุ๊กตาแม่ลูกดกเชริโน่(รีรัน),items.json
+12_item,道具,Item.85011,切里诺巧克力(复刻),チェリノ印のチョコレート（復刻）,茶蓮卡巧克力(复刻),Cherenka Chocolate (Rerun),체룐카 초콜릿(복각),ช็อกโกแลตเชริโน่(รีรัน),items.json
+12_item,道具,Item.85012,俏胡子可丽饼(复刻),おひげクレープ（復刻）,俏鬍子可麗餅(复刻),Mustache Crepe (Rerun),수염 크레이프(복각),เครปครีมหนวด(รีรัน),items.json
+12_item,道具,Item.85013,勇猛髭勋章(复刻),勇猛髭勲章（復刻）,紅鬍鬚勳章(复刻),Red Mustache Medal (Rerun),붉은 수염 훈장(복각),เหรียญตราหนวดขาว(รีรัน),items.json
+12_item,道具,Item.85021,沙滩排球(复刻),ビーチボール（復刻）,沙灘排球(复刻),Beach Volleyball (Rerun),비치발리볼(복각),ลูกวอลเลย์บอลชายหาด(รีรัน),items.json
+12_item,道具,Item.85022,海之家餐券(复刻),海の家の食券（復刻）,海之家餐券(复刻),Beach Shack Meal Ticket (Rerun),바다의 집 식권(복각),คูปองอาหารร้านริมทะเล(รีรัน),items.json
+12_item,道具,Item.85023,迷你火箭烟花(复刻),ミニロケット花火（復刻）,奇怪的鞭炮(复刻),Weird Fireworks (Rerun),이상한 폭죽(복각),ดอกไม้ไฟประหลาด(รีรัน),items.json
+12_item,道具,Item.85030,格黑娜补给箱(复刻),ゲヘナ印の補給ボックス（復刻）,印有格黑娜校徽的補給箱(复刻),Gehenna Supply Box (Rerun),게헨나의 교표가 찍힌 보급상자(복각),กล่องเสบียง ตราเกเฮนน่า(รีรัน),items.json
+12_item,道具,Item.85031,美食研究会的烤玉米(复刻),美食研究会の焼きトウモロコシ（復刻）,美食研究會的烤玉米(复刻),GRS Grilled Corn (Rerun),미식연구회의 군옥수수(복각),ข้าวโพดย่าง ชมรมชิมอาหาร(รีรัน),items.json
+12_item,道具,Item.85032,夏日用混混太阳镜(复刻),夏のスケバンサングラス（復刻）,夏天用太妹太陽眼鏡(复刻),Thug Summer Shades (Rerun),여름용 불량배 선글라스(복각),แว่นแยงกี้สาวฤดูร้อน(รีรัน),items.json
+12_item,道具,Item.85033,潮水钢盔(复刻),びしょびしょヘルメット（復刻）,嘩啦嘩啦頭盔(复刻),Splashy Helmet (Rerun),첨벙첨벙 헬멧(복각),หมวกสาดน้ำ(รีรัน),items.json
+12_item,道具,Item.85041,龟壳菇(复刻),コウラ茸（復刻）,烏龜菇(复刻),Turtle Mushroom (Rerun),거북 버섯(복각),เห็ดเต่า(รีรัน),items.json
+12_item,道具,Item.85042,乌竹笋(复刻),クロ筍（復刻）,烏竹筍(复刻),Black Bamboo Shoot (Rerun),오죽순(복각),ต้นไผ่สีดำ(รีรัน),items.json
+12_item,道具,Item.85043,人形参(复刻),ヒトガタ人蔘（復刻）,人形蔘(复刻),Ginseng Doll (Rerun),인형삼(복각),โสมรูปคน(รีรัน),items.json
+12_item,道具,Item.85050,巧克力币(复刻),チョコレートコイン（復刻）,巧克力硬幣(复刻),Chocolate Coin (Rerun),초콜릿 코인(복각),เหรียญช็อกโกแลต(รีรัน),items.json
+12_item,道具,Item.85051,兔子贴纸(复刻),ウサギのステッカー（復刻）,兔子貼紙(复刻),Rabbit Sticker (Rerun),토끼 스티커(복각),สติกเกอร์กระต่าย(รีรัน),items.json
+12_item,道具,Item.85052,乘船券(复刻),乗船チケット（復刻）,乘船券(复刻),Boarding Pass (Rerun),승선권(복각),ตั๋วเรือ(รีรัน),items.json
+12_item,道具,Item.85053,骰子(复刻),サイコロ（復刻）,骰子(复刻),Dice (Rerun),주사위(복각),ลูกเต๋า(รีรัน),items.json
+12_item,道具,Item.85061,温泉毛巾(复刻),温泉タオル（復刻）,溫泉毛巾(复刻),Hot Spring Towel (Rerun),온천 타월(복각),ผ้าขนหนูออนเซ็น(รีรัน),items.json
+12_item,道具,Item.85062,胡子洗发液(复刻),おひげシャンプー（復刻）,鬍子洗髮精(复刻),Mustache Shampoo (Rerun),수염 샴푸(복각),แชมพูหนวด(รีรัน),items.json
+12_item,道具,Item.85063,水豚入浴剂(复刻),カピバラ型の入浴剤（復刻）,水豚入浴劑(复刻),Capybara Bath Bomb (Rerun),카피바라 입욕제(복각),บาธบอมบ์แคพิบารา(รีรัน),items.json
+12_item,道具,Item.85070,福袋(复刻),福袋（復刻）,特製新年福袋(复刻),New Year&#x27;s Lucky Pouch (Rerun),특제 신년 복주머니(복각),ถุงนำโชคปีใหม่(รีรัน),items.json
+12_item,道具,Item.85071,佩洛洛镜饼(复刻),ペロロ餅（復刻）,佩洛洛鏡餅(复刻),Peroro Kagami Mochi (Rerun),페로로 거울떡(복각),คางามิโมจิเพโรโร่(รีรัน),items.json
+12_item,道具,Item.85072,黑龟组绘马(复刻),黒亀組の絵馬（復刻）,黑龜組繪馬(复刻),Kurokame Gang Ema (Rerun),검은거북파 에마(복각),ป้ายขอพรแก๊งคุโรคาเมะ(รีรัน),items.json
+12_item,道具,Item.85073,御神签兑换券(复刻),おみくじ引換券（復刻）,正月御神籤 抽籤券(复刻),New Year Omikuji Token (Rerun),새해 오미쿠지 뽑기권(복각),ตั๋วเขย่าโอะมิกุจิปีใหม่(รีรัน),items.json
+12_item,道具,Item.85081,问题儿童悔过书(复刻),問題児の反省文（復刻）,問題兒童悔過書(复刻),Baddie&#x27;s Apology Letter (Rerun),문제아의 반성문(복각),หนังสือสำนึกผิด(รีรัน),items.json
+12_item,道具,Item.85082,没收的违法便宜点心(复刻),押収された違法駄菓子（復刻）,沒收的不良便宜點心(复刻),Confiscated Junk Food (Rerun),압수한 불량 막과자(복각),ขนมขบเคี้ยวที่ยึดได้(รีรัน),items.json
+12_item,道具,Item.85083,环境美化活动用垃圾袋(复刻),環境美化活動用ゴミ袋（復刻）,環境美化活動用制式袋子(复刻),Eco-Friendly Trash Bags (Rerun),환경미화활동용 규격 봉투(복각),ถุงงานดูแลสิ่งแวดล้อม(รีรัน),items.json
+12_item,道具,Item.85084,情人节邀请信(复刻),バレンタインデーのお誘い（復刻）,情人節外出券(复刻),Valentine&#x27;s Day Outing Pass (Rerun),발렌타인 데이 외출권(복각),ตั๋วเที่ยววันวาเลนไทน์(รีรัน),items.json
+12_item,道具,Item.85090,若藻逮捕令(复刻),ワカモの逮捕状（復刻）,若藻逮捕令(复刻),Wakamo Arrest Warrant (Rerun),와카모 체포 영장(복각),หมายจับวาคาโมะ(รีรัน),items.json
+12_item,道具,Item.85101,修女会头巾(复刻),シスターフッドのヴェール（復刻）,彌撒巾(复刻),Missal Veil (Rerun),미사보(복각),ผ้าคลุมหน้า(รีรัน),items.json
+12_item,道具,Item.85102,三一圣歌集(复刻),トリニティの聖歌集（復刻）,聖歌書(复刻),Hymn Book (Rerun),성가책(복각),หนังสือเพลง(รีรัน),items.json
+12_item,道具,Item.85103,三一烛台(复刻),トリニティの燭台（復刻）,聖堂燭台(复刻),Cathedral Candle (Rerun),성당 촛대(복각),เชิงเทียนในวิหาร(รีรัน),items.json
+12_item,道具,Item.85110,甲虫皇后卡牌包(复刻),ムシクイーンのカードパック（復刻）,甲蟲皇后卡牌包(复刻),Mushiqueen Card Pack (Rerun),무시퀸 카드팩(복각),แพ็กการ์ดมูชิควีน(รีรัน),items.json
+12_item,道具,Item.85111,交流会传单(复刻),交流会のチラシ（復刻）,學園交流會傳單(复刻),Scrimmage Flyer (Rerun),학원교류회 전단지(복각),ใบปลิวทัวร์โรงเรียน(รีรัน),items.json
+12_item,道具,Item.85112,和乐公主扇(复刻),和楽姫のうちわ（復刻）,和樂公主的扇子(复刻),Princess Waraku Fan (Rerun),와라쿠 공주님 부채(복각),พัดองค์หญิงวาราคุ(รีรัน),items.json
+12_item,道具,Item.85113,忍佩洛商品(复刻),ニンペロさんグッズ（復刻）,忍佩洛玩偶商品(复刻),Ninpero Plush Merch (Rerun),닌페로 씨 인형 굿즈(복각),ตุ๊กตาคุณนินจานินเพโร่(รีรัน),items.json
+12_item,道具,Item.85120,材料箱(复刻),資材ボックス（復刻）,材料箱(复刻),Materials Box (Rerun),자재 상자(복각),กล่องวัสดุ(รีรัน),items.json
+12_item,道具,Item.85140,甜点优惠券(复刻),スイーツクーポン（復刻）,甜點優惠券(复刻),Dessert Coupon (Rerun),디저트 쿠폰(복각),คูปองของหวาน(รีรัน),items.json
+12_item,道具,Item.85141,薄荷巧克力芭菲(复刻),ミントチョコパフェ（復刻）,薄荷巧克力百匯聖代(复刻),Mint Chocolate Parfait (Rerun),민트초코 파르페(복각),พาร์เฟ่ต์มินต์ช็อกโก(รีรัน),items.json
+12_item,道具,Item.85142,马卡龙(复刻),マカロン（復刻）,馬卡龍(复刻),Macaron (Rerun),마카롱(복각),มาการอง(รีรัน),items.json
+12_item,道具,Item.85143,威化卷(复刻),ロールウエハース（復刻）,威化卷心酥(复刻),Rolled Wafer (Rerun),롤웨하스(복각),เวเฟอร์แท่ง(รีรัน),items.json
+12_item,道具,Item.100000,礼物盒,贈り物ボックス,禮物箱,Gift Box,선물 상자,กล่องของขวัญ,items.json
+12_item,道具,Item.100001,家具箱 (☆3),家具ボックス（☆3）,家具箱子(☆3),Furniture Box (3☆),가구 박스(☆3),กล่องเฟอร์นิเจอร์(☆3),items.json
+12_item,道具,Item.100008,礼物自选盒,贈り物選択ボックス,禮物選擇箱,Gift Choice Box,선물 선택 상자,กล่องเลือกของขวัญ,items.json
+12_item,道具,Item.100009,高级礼物盒,高級贈り物ボックス,高級禮物箱,Luxury Gift Box,고급 선물 상자,กล่องของขวัญชั้นดี,items.json
+12_item,道具,Item.100013,装备箱,装備ボックス,裝備箱,Equipment Chest,장비 상자,กล่องอุปกรณ์,items.json
+12_item,道具,Item.100023,欧帕兹(1)抽选箱,オーパーツ（1）抽選ボックス,歐帕茲抽獎券1,Artifact Raffle Ticket 1,오파츠 추첨권1,ชุดสุ่มวัตถุหลงยุค 1,items.json
+12_item,道具,Item.100024,欧帕兹(2)抽选箱,オーパーツ（2）抽選ボックス,歐帕茲抽獎券2,Artifact Raffle Ticket 2,오파츠 추첨권2,ชุดสุ่มวัตถุหลงยุค 2,items.json
+12_item,道具,Item.100025,欧帕兹(3)抽选箱,オーパーツ（3）抽選ボックス,歐帕茲抽獎券3,Artifact Raffle Ticket 3,오파츠 추첨권3,ชุดสุ่มวัตถุหลงยุค 3,items.json
+12_item,道具,Item.100026,欧帕兹(4)抽选箱,オーパーツ（4）抽選ボックス,歐帕茲抽獎券4,Artifact Raffle Ticket 4,오파츠 추첨권4,ชุดสุ่มวัตถุหลงยุค 4,items.json
+12_item,道具,Item.150000,初级技术笔记自选盒,初級技術ノート選択ボックス,基礎技術筆記選擇券,Beginner Tech Notes Choice Ticket,기초 기술 노트 선택권,ชุดเลือกตำราสกิลขั้นต่ำ,items.json
+12_item,道具,Item.150001,中级技术笔记自选盒,中級技術ノート選択ボックス,一般技術筆記選擇券,Normal Tech Notes Choice Ticket,일반 기술 노트 선택권,ชุดเลือกตำราสกิลขั้นกลาง,items.json
+12_item,道具,Item.150002,高级技术笔记自选盒,上級技術ノート選択ボックス,高級技術筆記選擇券,Advanced Tech Notes Choice Ticket,상급 기술 노트 선택권,ชุดเลือกตำราสกิลขั้นสูง,items.json
+12_item,道具,Item.150003,最高级技术笔记自选盒,最上級技術ノート選択ボックス,最高級技術筆記選擇券,Superior Tech Notes Choice Ticket,최상급 기술 노트 선택권,ชุดเลือกตำราสกิลขั้นสูงสุด,items.json
+12_item,道具,Item.150004,初级战术教育BD自选盒,初級戦術教育BD選択ボックス,基礎戰術教育BD選擇券,Beginner Tactical Training Blu-ray Choice Ticket,기초 전술 교육 BD 선택권,ชุดเลือก BD เรียนสกิลขั้นต่ำ,items.json
+12_item,道具,Item.150005,中级战术教育BD自选盒,中級戦術教育BD選択ボックス,一般戰術教育BD選擇券,Normal Tactical Training Blu-ray Choice Ticket,일반 전술 교육 BD 선택권,ชุดเลือก BD เรียนสกิลขั้นกลาง,items.json
+12_item,道具,Item.150006,高级战术教育BD自选盒,上級戦術教育BD選択ボックス,高級戰術教育BD選擇券,Advanced Tactical Training Blu-ray Choice Ticket,상급 전술 교육 BD 선택권,ชุดเลือก BD เรียนสกิลขั้นสูง,items.json
+12_item,道具,Item.150007,最高级战术教育BD自选盒,最上級戦術教育BD選択ボックス,最高級戰術教育BD選擇券,Superior Tactical Training Blu-ray Choice Ticket,최상급 전술 교육 BD 선택권,ชุดเลือก BD เรียนสกิลขั้นสูงสุด,items.json
+12_item,道具,Item.150008,欧帕兹(1)自选箱,オーパーツ（１）選択ボックス,歐帕茲選擇券1,Artifact Choice Ticket 1,오파츠 선택권1,ชุดเลือกวัตถุหลงยุค 1,items.json
+12_item,道具,Item.150009,欧帕兹(2)自选箱,オーパーツ（２）選択ボックス,歐帕茲選擇券2,Artifact Choice Ticket 2,오파츠 선택권2,ชุดเลือกวัตถุหลงยุค 2,items.json
+12_item,道具,Item.150010,欧帕兹(3)自选箱,オーパーツ（３）選択ボックス,歐帕茲選擇券3,Artifact Choice Ticket 3,오파츠 선택권3,ชุดเลือกวัตถุหลงยุค 3,items.json
+12_item,道具,Item.150011,欧帕兹(4)自选箱,オーパーツ（４）選択ボックス,歐帕茲選擇券4,Artifact Choice Ticket 4,오파츠 선택권4,ชุดเลือกวัตถุหลงยุค 4,items.json
+12_item,道具,Item.150015,最高级技术笔笔记自选盒,最上級技術ノート選択ボックス,最高級技術筆記選擇券,Superior Tech Notes Choice Ticket,최상급 기술 노트 선택권,ชุดเลือกตำราสกิลขั้นสูงสุด,items.json
+12_item,道具,Item.150028,T2装备自选设计图,T2装備設計図選択ボックス,T2裝備設計圖選擇券,T2 Equipment Blueprint Choice Ticket,T2 장비 설계도 선택권,ชุดเลือกสูตรอุปกรณ์ T2,items.json
+12_item,道具,Item.150029,T3装备自选设计图,T3装備設計図選択ボックス,T3裝備設計圖選擇券,T3 Equipment Blueprint Choice Ticket,T3 장비 설계도 선택권,ชุดเลือกสูตรอุปกรณ์ T3,items.json
+12_item,道具,Item.150030,T4装备自选设计图,T4装備設計図選択ボックス,T4裝備設計圖選擇券,T4 Equipment Blueprint Choice Ticket,T4 장비 설계도 선택권,ชุดเลือกสูตรอุปกรณ์ T4,items.json
+12_item,道具,Item.150031,T5装备自选设计图,T5装備設計図選択ボックス,T5裝備設計圖選擇券,T5 Equipment Blueprint Choice Ticket,T5 장비 설계도 선택권,ชุดเลือกสูตรอุปกรณ์ T5,items.json
+12_item,道具,Item.150032,T6装备自选设计图,T6装備設計図選択ボックス,T6裝備設計圖選擇券,T6 Equipment Blueprint Choice Ticket,T6 장비 설계도 선택권,ชุดเลือกสูตรอุปกรณ์ T6,items.json
+12_item,道具,Item.150033,T7装备自选设计图,T7装備設計図選択ボックス,T7裝備設計圖選擇券,T7 Equipment Blueprint Choice Ticket,T7 장비 설계도 선택권,ชุดเลือกสูตรอุปกรณ์ T7,items.json
+12_item,道具,Item.150038,家具自选箱(蓝),家具選択ボックス（青）,家具選択ボックス（青）,Furniture Choice Ticket (R),일반 가구 선택 상자,家具選択ボックス（青）,items.json
+12_item,道具,Item.150039,家具自选箱(橙),家具選択ボックス（橙）,家具選択ボックス（橙）,Furniture Choice Ticket (SR),상급 가구 선택 상자,家具選択ボックス（橙）,items.json
+12_item,道具,Item.150040,家具自选箱(紫),家具選択ボックス（紫）,家具選択ボックス（紫）,Furniture Choice Ticket (SSR),최상급 가구 선택 상자,家具選択ボックス（紫）,items.json
+12_item,道具,Item.151000,初始家具系列自选箱,ノーマル家具シリーズ選択ボックス,基礎家具選擇券,Beginner Furniture Choice Ticket,기초 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ขั้นต่ำ,items.json
+12_item,道具,Item.151001,Momo好友咖啡厅系列家具自选箱,モモフレンズカフェシリーズ選択ボックス,Momo好友主題家具選擇券,Momo Friends Furniture Choice Ticket,모모프렌즈 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ธีม MOMO FRIENDS,items.json
+12_item,道具,Item.151002,果冻娱乐室系列家具自选箱,ゼリーズゲーセンシリーズ選択ボックス,果凍遊戲中心主題家具選擇券,Jellies Arcade Furniture Choice Ticket,젤리즈 오락실 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมเกมเจลลี่,items.json
+12_item,道具,Item.151003,情人节系列家具自选箱,バレンタインシリーズ選択ボックス,情人節主題家具選擇券,Valentine&#x27;s Furniture Choice Ticket,발렌타인 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมวาเลนไทน์,items.json
+12_item,道具,Item.151004,避暑胜地系列家具自选箱,サマーリゾートシリーズ選択ボックス,避暑勝地主題家具選擇券,Summer Resort Furniture Choice Ticket,여름 리조트 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมรีสอร์ตฤดูร้อน,items.json
+12_item,道具,Item.151005,万圣节咖啡厅系列家具自选箱,ハロウィーンカフェシリーズ選択ボックス,萬聖節主題家具選擇券,Halloween Furniture Choice Ticket,할로윈 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมฮาโลวีน,items.json
+12_item,道具,Item.151006,传统温泉乡系列家具自选箱,伝統的な温泉郷シリーズ選択ボックス,傳統溫泉浴場主題家具選擇券,Hot Springs Resort Furniture Choice Ticket,전통 온천장 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมออนเซ็นดั้งเดิม,items.json
+12_item,道具,Item.151007,正月系列家具自选箱,お正月シリーズ選択ボックス,正月主題家具選擇券,New Year&#x27;s Furniture Choice Ticket,새해 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมปีใหม่,items.json
+12_item,道具,Item.151008,军事露营区系列家具自选箱,ミリタリーアウトドアシリーズ選択ボックス,軍事露營區主題家具選擇券,Military Campground Furniture Choice Ticket,밀리터리 캠핑장 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมค่ายทหาร,items.json
+12_item,道具,Item.151009,海滨系列家具自选箱,ビーチサイドシリーズ選択ボックス,海灘主題家具選擇券,Beachside Furniture Choice Ticket,비치사이드 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมริมหาด,items.json
+12_item,道具,Item.151010,大运动会系列家具自选箱,大運動会シリーズ選択ボックス,大運動會主題家具選擇券,Field Day Furniture Choice Ticket,대운동회 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมงานแข่งขันกีฬา,items.json
+12_item,道具,Item.151011,阿拜多斯教室系列家具自选箱,アビドス教室シリーズ選択ボックス,阿拜多斯教室主題家具選擇券,Abydos Classroom Furniture Choice Ticket,아비도스 교실 테마 가구 선택권,ชุดเลือกเฟอร์นิเจอร์ ธีมห้องเรียนอะบิดอส,items.json
+12_item,道具,Item.151012,游戏开发部系列家具自选箱,ゲーム開発部シリーズ選択ボックス,ゲーム開発部シリーズ選択ボックス,Game Development Department Furniture Choice Ticket,게임개발부 테마 가구 선택권,ゲーム開発部シリーズ選択ボックス,items.json
+12_item,道具,Item.151013,サンシャインリゾートシリーズ選択ボックス,サンシャインリゾートシリーズ選択ボックス,サンシャインリゾートシリーズ選択ボックス,Sunshine Resort Furniture Choice Ticket,선샤인 리조트 테마 가구 선택권,サンシャインリゾートシリーズ選択ボックス,items.json
+12_item,道具,Item.151999,其他系列家具自选箱,その他シリーズ選択ボックス,その他シリーズ選択ボックス,Etc. Furniture Choice Ticket,기타 테마 가구 선택권,その他シリーズ選択ボックス,items.json
+12_item,道具,Item.160003,作战数据2：TypeD-X,ミッションデータ2：TypeD-X,作戰數據2：D-X Type,Mission Data 2: D-X Type,작전 데이터2: D-X Type,ข้อมูลกลยุทธ์ 2: แบบ D-X,items.json
+12_item,道具,Item.180000,香甜巧克力洋芋片,スイートチョコポテトチップス,香甜巧克力洋芋片,Chocolate Potato Chips,스위트 초코 감자칩,มันฝรั่งรสช็อกโกแลต,items.json
+12_item,道具,Item.180001,天使巧克力,エンジェルチョコレート,天使巧克力,Angel Chocolate,엔젤 초콜릿,ช็อกโกแลตเอ็นเจล,items.json
+12_item,道具,Item.180002,大容量迷你巧克力,お徳用チョコレートパック,巧克力經濟包,Bulk Mini Chocolates,대용량 미니 초콜릿,ช็อกโกแลตมินิห่อใหญ่,items.json
+12_item,道具,Item.180003,阿罗娜的巧克力姜饼,アロナのチョコジンジャークッキー,彩奈的巧克力薑餅,Arona&#x27;s Chocolate Ginger Cookies,아로나의 초코 진저 쿠키,คุกกี้ขนมปังขิงรสช็อกโกแลต ของอะโรน่า,items.json
+12_item,道具,Item.180004,情人节佩洛洛,バレンタインペロロ,情人節佩洛洛,Peroro Valentine,발렌타인 페로로,เพโรโร่วาเลนไทน์,items.json
+12_item,道具,Item.180005,口粮D型,レーションD型,口糧D型,Ration D-Type,레이션 D형,เรชั่นแบบ D,items.json
+12_item,道具,Item.180006,Happy Hot Chocolate,ハッピーホットチョコレート,Happy Hot Chocolate,Happy Hot Chocolate,해피 핫 초콜릿,ช็อกโกแลตร้อนแฮปปี้,items.json
+12_item,道具,Item.180007,巧克力格黑娜,ショコラ・デ・ゲヘナ,Chocola de Gehenna,Schokolade Gehenna,쇼콜라데 게헨나,ช็อกโกแลตลาเต้ สูตรเกเฮนน่า,items.json
+12_item,道具,Item.180008,大量的板状巧克力,大量の板チョコレート,大量的板巧克力,Bulk Chocolate,대량의 판 초콜릿,ช็อกโกแลตบาร์กองโต,items.json
+12_item,道具,Item.180009,巧克团子,チョコ団子,巧克力糰子,Chocolate Dango,초코 당고,ดังโงะช็อกโกแลต,items.json
+12_item,道具,Item.180010,Death Love,デス·ラブ,Death Love,Death Love,데스 러브,เดธเลิฟ,items.json
+12_item,道具,Item.180011,骑士的零食,ライダーの間食,騎士的零食,Rider&#x27;s Snack,라이더의 간식,ของว่างของนักปั่น,items.json
+12_item,道具,Item.180012,巧克力海的朋友们,海のお友達,海裡的朋友,Chocolate Ocean Friend,초콜릿 바다의 친구들,สหายแห่งทะเลช็อกโกแลต,items.json
+12_item,道具,Item.180013,沙漠的玫瑰,砂漠のバラ,沙漠的玫瑰,Desert Rose,사막의 장미,กุหลาบทะเลทราย,items.json
+12_item,道具,Item.180014,维纳斯的巧克力,ヴィーナスのチョコレート,維納斯的巧克力,Venus&#x27; Chocolate,비너스의 초콜릿,ช็อกโกแลตวีนัส,items.json
+12_item,道具,Item.180015,窃听装置14号,盗聴装置14号,竊聽裝置14號,Wiretapping Device No. 14,도청장치 14호,อุปกรณ์ดักฟัง No.14,items.json
+12_item,道具,Item.180016,罐装热可可亚,缶のホットココア,罐裝熱可可亞,Hot Cocoa Can,핫 코코아 캔,โกโก้ร้อนกระป๋อง,items.json
+12_item,道具,Item.180017,生巧克力组合（附发票）,パヴェ・チョコレート（領収書付き）,生巧克力組合（附收據）,Chocolate Pave Set (Receipt Inc.),파베 초콜릿 세트 (영수증 첨부),เซ็ตนามะช็อกโกแลต (พร้อมใบเสร็จ),items.json
+12_item,道具,Item.180018,勇士的巧克力（道具）,勇者のチョコレート（アイテム）,勇者的巧克力（道具）,Hero Chocolate (Item),용사의 초콜릿 (아이템),ช็อกโกแลตฮีโร่ (ไอเทม),items.json
+12_item,道具,Item.180019,手工巧克力Snail,手作りチョコスネイル,手工巧克力史萊魯,Homemade Chocolate Slime,수제 초코 스네일,สเนลช็อกโกแลตโฮมเมด,items.json
+12_item,道具,Item.180020,巧克力口味妖怪MAX,妖怪MAXチョコレート味,巧克力口味妖怪MAX,Chocolate Monster MAX,초코맛 요괴 MAX,มอนสเตอร์แม็กซ์ รสช็อกโกแลต,items.json
+12_item,道具,Item.180021,巧克力口味喷漆罐,チョコ味のスプレー,巧克力口味噴漆罐,Chocolate Spray,초코맛 스프레이,สเปรย์รสช็อกโกแลต,items.json
+12_item,道具,Item.180022,巧克力砲弹Mk.2,チョコレート砲弾Mk.2,巧克力砲彈Mk.2,Chocolate Shell Mk.2,초콜릿 포탄 Mk.2,ช็อกโกแลต ลูกปืนใหญ่ Mk.2,items.json
+12_item,道具,Item.180023,巧克力螺丝,チョコレートネジ,巧克力螺絲,Chocolate Screw,초콜릿 나사,สกรูช็อกโกแลต,items.json
+12_item,道具,Item.180024,茶莲卡,チェリョンカ,潔蓮卡,Cherenka,체룐카,ช็อกเชริโน่,items.json
+12_item,道具,Item.180025,改良型茶莲卡,改良型チェリョンカ,改良型潔蓮卡,Improved Cherenka,개량형 체룐카,ช็อกเชริโน่รุ่นใหม่,items.json
+12_item,道具,Item.180026,可可果,カカオの実,可可果,Cacao Bean,카카오 열매,ผลโกโก้,items.json
+12_item,道具,Item.180027,长生不老的灵药（失败作）,不老不死の霊薬(失敗作),長生不老的靈藥（失敗作）,Immortality Elixir (Failure),불로불사의 영약 (실패작),ยาอายุวัฒนะ (ล้มเหลว),items.json
+12_item,道具,Item.180028,大人的莱姆夹心巧克力,大人のラムボンボン,大人的蘭姆夾心巧克力,Rum Bonbons,어른의 럼 봉봉,บอนบอน เหล้ารัมสำหรับผู้ใหญ่,items.json
+12_item,道具,Item.180029,巧克力手铐,チョコレート手錠,巧克力手銬,Chocolate Cuffs,초콜릿 수갑,กุญแจมือช็อกโกแลต,items.json
+12_item,道具,Item.180030,特制巧克力炸甜甜圈,特製チョコクルーラー,特製巧克力炸甜甜圈,Special Chocolate Cruller,특제 초코 트롤러,โดนัทเกลียวช็อกโกแลต สูตรพิเศษ,items.json
+12_item,道具,Item.180031,巧克力土偶,チョコ埴輪,巧克力埴輪,Chocolate Haniwa,초코 하니와,ฮานิวาช็อกโกแลต,items.json
+12_item,道具,Item.180032,Little Bullet,リトル·ブレット,Little Bullet,Little Bullet,리틀 불렛,ลูกกระสุนจิ๋ว,items.json
+12_item,道具,Item.180033,日奈的手工风纪巧克力,ヒナの手作りチョコレート,陽奈的手工巧克力,Hina&#x27;s Homemade Chocolate,히나의 수제 풍기 초콜릿,ช็อกโกแลตโฮมเมดของฮินะ,items.json
+12_item,道具,Item.180034,献给你一口的休息时间,あなたのための一口の休息,獻給你一口的休息時間,A Relaxing Bite,당신을 위한 한 입의 휴식,การพักผ่อนสักงีบเพื่อเธอ,items.json
+12_item,道具,Item.180035,超级！美味的！巧克力！,すごく！おいしい！！チョコレート！！！,超級！美味的！巧克力！！！,Delicious Chocolate! Really!,엄청! 맛있는! 초콜릿!,ช็อกโกแลต! อร่อย! ว้าว!,items.json
+12_item,道具,Item.180036,社长的顶级巧克力,社長の最高級チョコレート,社長的頂級巧克力,Boss&#x27; Finest Chocolate,사장님의 최고급 초콜릿,ช็อกโกแลตที่ดีที่สุด ของท่านประธาน,items.json
+12_item,道具,Item.180037,地狱的俄罗斯轮盘,地獄のロシアンルーレット,地獄的俄羅斯輪盤,Roulette from Hell,지옥의 러시안룰렛,รัสเซียนรูเล็ตนรก,items.json
+12_item,道具,Item.180038,装着可可亚的马克杯,ココアが入ったマグカップ,裝著可可亞的馬克杯,Mug of Hot Cocoa,코코아가 담긴 머그잔,แก้วมัคโกโก้,items.json
+12_item,道具,Item.180039,倾尽茱莉全力的巧克力,ジュリの手作りチョコレート,茱莉的手工巧克力,Gave-It-All Chocolate,주리의 전력을 다한 초콜릿,ช็อกโกแลตที่จูริทำสุดฝีมือ,items.json
+12_item,道具,Item.180040,一起努力换来的成果,共にする時間,共度的時間,Our Time Together,함께 한 시간의 결과,เค้กชั่วโมงที่อยู่ด้วยกัน,items.json
+12_item,道具,Item.180041,综合巧克力点心礼物组合,おやつ担当のお仕事,零食負責人的工作,Chocolate Gift Set,종합 초콜릿 과자 선물 세트,เซ็ตของขวัญช็อกโกแลตรวม,items.json
+12_item,道具,Item.180042,万中选一,選りすぐりの一品,精挑細選的巧克力,The Final Choice,고르고 고른 하나,หนึ่งเดียวที่ดีที่สุด,items.json
+12_item,道具,Item.180043,进击！六角恐龙！,カシオペアの拳～ウーパールーパー大列伝～,仙后神拳～六角恐龍大列傳～,Advance! Upalupa Chocolate,진격! 우파루파 초콜릿,ช็อกโกแลตวูฟารูฟาบุก!,items.json
+12_item,道具,Item.180044,绿的手工巧克力,ミドリの手作りチョコレート,綠的手工巧克力,Midori&#x27;s Homemade Chocolate,미도리의 수제 초콜릿,ช็อกโกแลตโฮมเมดของมิโดริ,items.json
+12_item,道具,Item.180045,千世牌巧克力签诗饼干,四字熟語チョコ煎餅,成語巧克力煎餅,Chocolate Tsujiura Senbei,치세표 초콜릿 츠지우라센베이,ช็อกโกแลตเสี่ยงทายของชิเซะ,items.json
+12_item,道具,Item.180046,百夜堂限定甜点,百夜堂の限定スイーツ,百夜堂限定甜點,Momoyodou Limited Dessert,백야당 한정 디저트,ขนมลิมิเต็ด ของร้านเฮียกคิยาโค,items.json
+12_item,道具,Item.180047,忍者巧克力第49号组合！,特製忍者グッズ49番「チョコレートセット」,特製忍具49號「巧克力組合」,Chocolate Ninja Set No. 49!,닌자 초콜릿 제49번 세트!,เซ็ตนินจาช็อกโกแลต No.49!,items.json
+12_item,道具,Item.180048,熟眠巧克力及熟眠用具组合,安眠チョコレートと安眠グッズセット,安眠巧克力及安眠用具組合,Chocolate Sleep Kit,숙면 초콜릿과 숙면 도구 키트,ชุดเตรียมนอน กับช็อกโกแลตชวนนอน,items.json
+12_item,道具,Item.180049,若藻的爱情巧克力,ワカモの愛がこもったチョコレート,充滿若藻愛情的巧克力,Wakamo&#x27;s Love Chocolate,와카모의 애정 초콜릿,ช็อกโกแลตแห่งรักของวาคาโมะ,items.json
+12_item,道具,Item.180050,美食的证明（抹茶口味）,美食の証明（抹茶味）,美食的證明（抹茶口味）,Gourmet Matcha Chocolate,미식의 증명(말차맛),ช็อกโกแลตพิสูจน์รสชาติ (รสชาเขียว),items.json
+12_item,道具,Item.180051,情人节神圣骷髅人,バレンタインの聖者スカルマン,情人節的神聖骷髏人,"Skullman, the Valentine Saint",발렌타인 성자 스컬맨,ทูตวาเลนไทน์ สกัลแมน,items.json
+12_item,道具,Item.180052,Lovely Crossline,ラブリー·クロスライン,Lovely Crossline,Lovely Cross Line,러블리 크로스라인,เลิฟลี่ ครอสไลน์,items.json
+12_item,道具,Item.180053,Twinkle Star,トゥインクルスター,Twinkle Star,Twinkling Star,트윙클 스타,ทวิงเคิล สตาร์,items.json
+12_item,道具,Item.180054,巧克力修女像,ホーリー・チョコレート,Holy Chocolate,Chocolate Sister Figure,초코 시스터 상,รางวัลซิสเตอร์ช็อกโกแลต,items.json
+12_item,道具,Item.180055,圆球巧克力,本のお友,書本之友,Bead Chocolate,구슬 초콜릿,ลูกแก้วช็อกโกแลต,items.json
+12_item,道具,Item.180056,Be With You,ビー·ウィズ·ユー,Be With You,Be With You,비 위드 유,บี วิธ ยู,items.json
+12_item,道具,Item.180057,唇萼薄荷巧克力,ペニーロイヤルチョコミント,唇萼薄荷巧克力,Pennyroyal Chocolate Mint,페니로열 초코민트,ช็อกโกแลตสเปียร์มินต์,items.json
+12_item,道具,Item.180058,Limited Yoshimi Edition,ヨシミの限定チョコレート,喜美的限定巧克力,Limited Yoshimi Edition,리미티드 요시미 에디션,ช็อกโกแลตโยชิมิ รุ่นลิมิเต็ด,items.json
+12_item,道具,Item.180059,巧克力不用言语,言葉よりチョコレート,無須多言巧克力,Chocolate Over Words,말보다 초콜릿,ช็อกโกแลตแทนคำพูด,items.json
+12_item,道具,Item.180060,幸运巧克力（自制）,フォーチュンチョコレート（自作）,幸運巧克力（自製）,Homemade Fortune Chocolate,포춘 초콜릿(자작),ช็อกโกแลตนำโชค (ทำมือ),items.json
+12_item,道具,Item.180061,绷带巧克力,バンデージチョコ,繃帶巧克力,Bandaged Chocolate,밴디지 초코,ช็อกโกแลตผ้าพันแผล,items.json
+12_item,道具,Item.180062,可可99.99%,カカオ99.99%,可可99.99%,Cacao 99.99%,카카오 99.99%,โกโก้ 99.99%,items.json
+12_item,道具,Item.180063,Twisted Valentine,ツイステッドバレンタイン,Twisted Valentine,Twisted Valentine,트위스티드 발렌타인,วาเลนไทน์หักมุม,items.json
+12_item,道具,Item.180064,Made by Maid,メイド·バイ,Made by Maid,Made By Maid,메이드 바이 메이드,เมด บาย เมด,items.json
+12_item,道具,Item.180065,巧克力蛋包饭,チョコオムライス,巧克力蛋包飯,Chocolate Omurice,초코 오므라이스,ข้าวห่อไข่ช็อกโกแลต,items.json
+12_item,道具,Item.180066,巧克力版画：龙,チョコレート版画：竜,巧克力版畫：龍,Chocolate Dragon Engraving,초콜릿 판화 : 용,ภาพพิมพ์ช็อกโกแลต : มังกร,items.json
+12_item,道具,Item.180067,Valentine Beginning,バレンタイン·ビギニング,Valentine Beginning,Valentine&#x27;s Origins,발렌타인 비기닝,จุดเริ่มต้นวาเลนไทน์,items.json
+12_item,道具,Item.180068,甜蜜的干杯,甘い杯,香甜酒杯,Chocolate Sakazuki,달콤한 잔,แก้วแสนหวาน,items.json
+12_item,道具,Item.180069,Almond Crimson,アマンド·クリムゾン,Almond Crimson,Almond Crimson,아망드 크림슨,อัลมอนด์คริมสัน,items.json
+12_item,道具,Item.180070,不器用な手作りチョコレート,不器用な手作りチョコレート,包裝粗糙的手工巧克力,Messily Wrapped Chocolate,서투르게 포장된 초콜릿,ช็อกโกแลตห่อแบบลวกๆ,items.json
+12_item,道具,Item.180071,小さなショコラ,小さなショコラ,小尺寸巧克力球,Chocolate Truffles for Children,꼬마 아이들용 초코볼,ช็อกโกบอลสำหรับหนูน้อย,items.json
+12_item,道具,Item.180072,しっとりめのチョコクッキー,しっとりめのチョコクッキー,濕潤的巧克力餅乾,Squishy Chocolate Cookie,촉촉한 초코쿠키,คุกกี้ช็อกโกแลตเนื้อหนึบ,items.json
+12_item,道具,Item.180073,苺のチョコケーキ,苺のチョコケーキ,草莓巧克力蛋糕,Strawberry-Chocolate Cake,딸기가 올라간 초코 조각케이크,ชิ้นเค้กช็อกโกแลต สตรอว์เบอร์รี,items.json
+12_item,道具,Item.180074,オール・トゥ・ユー,オール・トゥ・ユー,All to You,Small Wrapped Chocolate,포장된 작은 초콜릿,ช็อกโกแลตห่อเล็ก,items.json
+12_item,道具,Item.180075,丁寧なラッピング済みチョコレート,丁寧なラッピング済みチョコレート,細心包裝的巧克力,Thoroughly-Wrapped Chocolate,꼼꼼하게 포장된 초콜릿,ช็อกโกแลตห่อบรรจง,items.json
+12_item,道具,Item.180076,青いバラとチョコレート,青いバラとチョコレート,青薔薇與巧克力,Flowers and Chocolate,꽃과 초콜릿,ดอกไม้กับช็อกโกแลต,items.json
+12_item,道具,Item.180077,ギディバのチョコレート,ギディバのチョコレート,奇帝梵巧克力,Decadent Chocolate,키디바 초콜릿,ช็อกโกแลตกิดีวา,items.json
+12_item,道具,Item.180078,桜チョコレート,桜チョコレート,櫻花巧克力,Cherry Blossom White Chocolate,벚꽃 빛 초콜릿,ซากุระช็อกโกแลต,items.json
+12_item,道具,Item.180079,最強のチョコサウルス,最強のチョコサウルス,最強的巧克力恐龍,Ultimate Chocosaur,최강의 초코사우루스,ช็อกโกซอรัสสุดแกร่ง,items.json
+12_item,道具,Item.180080,とろけるロップイヤーチョコ,とろけるロップイヤーチョコ,融化的垂耳兔巧克力,Half-Melted Holland Lop Chocolate,반쯤 녹은 롭이어 초콜릿,ช็อกโกแลต รูปกระต่ายละลาย,items.json
+12_item,道具,Item.180081,超天才清楚系病弱美少女ハッカー&#x27;sチョコレート,超天才清楚系病弱美少女ハッカー&#x27;sチョコレート,超天才清楚系病弱美少女駭客&#x27;s巧克力,Delicate Yet Beautiful Super Genius Hacker&#x27;s Chocolate,초천재청초계병약미소녀해커&#x27;s 초콜릿,ช็อกโกแลตของแฮ็กเกอร์ ผู้มีรอยยิ้มฮีลใจ,items.json
+12_item,道具,Item.180082,イロハの手作りスティックチョコ,イロハの手作りスティックチョコ,伊呂波的手工巧克力棒,Iroha&#x27;s Handmade Chocolate Breadsticks,이로하의 수제 막대 초콜릿,ช็อกโกแลตสติ๊กโฮมเมด ของอิโรฮะ,items.json
+12_item,道具,Item.180083,忍術研究部のバッジ型チョコレート,忍術研究部のバッジ型チョコレート,忍術研究部的勳章型巧克力,Ninjutsu Research Club Badge Chocolate Set,인법연구부 배지 세트 초콜릿,ช็อกโกแลตเซ็ตเครื่องหมาย ของชมรมวิจัยศาสตร์นินจา,items.json
+12_item,道具,Item.180084,チョコを用いたキャロットケーキ,チョコを用いたキャロットケーキ,添加巧克力的紅蘿蔔蛋糕,Chocolate Carrot Cake,초콜릿을 넣은 당근 케이크,เค้กแคร์รอตช็อกโกแลต,items.json
+12_item,道具,Item.180085,チョコレートスモア,チョコレートスモア,巧克力夾心餅,Chocolate S&#x27;mores,초콜릿 스모어,สมอร์ช็อกโกแลต,items.json
+12_item,道具,Item.180086,補給品のチョコレートキャラメル,補給品のチョコレートキャラメル,補給品巧克力焦糖,Chocolate Caramel Ration,보급품 초콜릿 캐러멜,เสบียงช็อกโกแลต คาราเมล,items.json
+12_item,道具,Item.180087,チョコレートバーク,チョコレートバーク,巧克力脆片,Chocolate Bark,바크 초콜릿,ช็อกโกแลตบาร์ค,items.json
+12_item,道具,Item.180088,チョコレートインク,チョコレートインク,巧克力墨水,Chocolate Ink,초콜릿 잉크,หมึกช็อกโกแลต,items.json
+12_item,道具,Item.180089,特別功労勲章チョコレート,特別功労勲章チョコレート,特殊功勞勳章巧克力,Special Chocolate Medal of Merit,특별 초콜릿 공로 훈장,เหรียญตราผลงานช็อกโกแลต แบบพิเศษ,items.json
+12_item,道具,Item.180090,シグレ・ビタースペシャル,シグレ・ビタースペシャル,時雨．苦味特調,Shigure&#x27;s Bittersweet Special,시구레 비터 스페셜,บิทเทอร์สูตรพิเศษ ของชิกุเระ,items.json
+12_item,道具,Item.180091,ヒヨコ型のチョコレート,ヒヨコ型のチョコレート,小雞造型巧克力,Chick-Shaped Chocolate,병아리 모양 초콜릿,ช็อกโกแลตรูปลูกเจี๊ยบ,items.json
+12_item,道具,Item.180092,ドライグレープフルーツのチョコがけ,ドライグレープフルーツのチョコがけ,乾葡萄柚巧克力,Chocolate-Covered Grapefruit,자몽 칩 초콜릿,ช็อกโกแลตเกรปฟรุตแผ่น,items.json
+12_item,道具,Item.190000,初级技术笔记抽选盒,初級技術ノート抽選ボックス,基礎技術筆記抽獎券,Beginner Tech Notes Raffle Ticket,기초 기술 노트 추첨권,ชุดสุ่มตำราสกิลขั้นต่ำ,items.json
+12_item,道具,Item.190001,中级技术笔记抽选盒,中級技術ノート抽選ボックス,一般技術筆記抽獎券,Normal Tech Notes Raffle Ticket,일반 기술 노트 추첨권,ชุดสุ่มตำราสกิลขั้นกลาง,items.json
+12_item,道具,Item.190002,高级技术笔记抽选盒,上級技術ノート抽選ボックス,高級技術筆記抽獎券,Advanced Tech Notes Raffle Ticket,상급 기술 노트 추첨권,ชุดสุ่มตำราสกิลขั้นสูง,items.json
+12_item,道具,Item.190003,最高级技术笔记抽选盒,最上級技術ノート抽選ボックス,最高級技術筆記抽獎券,Superior Tech Notes Raffle Ticket,최상급 기술 노트 추첨권,ชุดสุ่มตำราสกิลขั้นสูงสุด,items.json
+12_item,道具,Item.190010,初级战术教育BD抽选盒,初級戦術教育BD抽選ボックス,基礎戰術教育BD抽獎券,Beginner Tactical Training Blu-ray Raffle Ticket,기초 전술 교육 BD 추첨권,ชุดสุ่ม BD เรียนสกิลขั้นต่ำ,items.json
+12_item,道具,Item.190011,中级战术教育BD抽选盒,中級戦術教育BD抽選ボックス,一般戰術教育BD抽獎券,Normal Tactical Training Blu-ray Raffle Ticket,일반 전술 교육 BD 추첨권,ชุดสุ่ม BD เรียนสกิลขั้นกลาง,items.json
+12_item,道具,Item.190012,高级战术教育BD抽选盒,上級戦術教育BD抽選ボックス,高級戰術教育BD抽獎券,Advanced Tactical Training Blu-ray Raffle Ticket,상급 전술 교육 BD 추첨권,ชุดสุ่ม BD เรียนสกิลขั้นสูง,items.json
+12_item,道具,Item.190013,最高级战术教育BD抽选盒,最上級戦術教育BD抽選ボックス,最高級戰術教育BD抽獎券,Superior Tactical Training Blu-ray Raffle Ticket,최상급 전술 교육 BD 추첨권,ชุดสุ่ม BD เรียนสกิลขั้นสูงสุด,items.json
+12_item,道具,Item.191000,初始家具系列抽选箱,ノーマル家具シリーズ抽選ボックス,基礎家具抽獎券,Beginner Furniture Raffle Ticket,기초 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ขั้นต่ำ,items.json
+12_item,道具,Item.191001,Momo好友咖啡厅系列家具抽选箱,モモフレンズカフェシリーズ抽選ボックス,Momo好友主題家具抽獎券,Momo Friends Furniture Raffle Ticket,모모프렌즈 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ธีม MOMO FRIENDS,items.json
+12_item,道具,Item.191002,果冻娱乐室系列家具抽选箱,ゼリーズゲーセンシリーズ抽選ボックス,果凍遊戲中心主題家具抽獎券,Jellies Arcade Furniture Raffle Ticket,젤리즈 오락실 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมเกมเจลลี่,items.json
+12_item,道具,Item.191003,情人节系列家具抽选箱,バレンタインシリーズ抽選ボックス,情人節主題家具抽獎券,Valentine&#x27;s Furniture Raffle Ticket,발렌타인 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมวาเลนไทน์,items.json
+12_item,道具,Item.191004,避暑胜地系列家具抽选箱,サマーリゾートシリーズ抽選ボックス,避暑勝地主題家具抽獎券,Summer Resort Furniture Raffle Ticket,여름 리조트 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมรีสอร์ตฤดูร้อน,items.json
+12_item,道具,Item.191005,万圣节咖啡厅系列家具抽选箱,ハロウィーンカフェシリーズ抽選ボックス,萬聖節主題家具抽獎券,Halloween Furniture Raffle Ticket,할로윈 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมฮาโลวีน,items.json
+12_item,道具,Item.191006,传统温泉乡系列家具抽选箱,伝統的な温泉郷シリーズ抽選ボックス,傳統溫泉浴場家具抽獎券,Hot Springs Resort Furniture Raffle Ticket,전통 온천장 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมออนเซ็นดั้งเดิม,items.json
+12_item,道具,Item.191007,正月系列家具抽选箱,お正月シリーズ抽選ボックス,正月主題家具抽獎券,New Year Furniture Raffle Ticket,새해 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมปีใหม่,items.json
+12_item,道具,Item.191008,军事露营区系列家具抽选箱,ミリタリーアウトドアシリーズ抽選ボックス,軍事露營區主題家具抽獎券,Military Campground Furniture Raffle Ticket,밀리터리 캠핑장 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมค่ายทหาร,items.json
+12_item,道具,Item.191009,海滨系列家具抽选箱,ビーチサイドシリーズ抽選ボックス,海灘主題家具抽獎券,Beachside Furniture Raffle Ticket,비치사이드 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมริมหาด,items.json
+12_item,道具,Item.191010,大运动会系列家具抽选箱,大運動会シリーズ抽選ボックス,大運動會主題家具抽獎券,Field Day Furniture Raffle Ticket,대운동회 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมงานแข่งขันกีฬา,items.json
+12_item,道具,Item.191011,阿拜多斯教室系列家具抽选箱,アビドス教室シリーズ抽選ボックス,阿拜多斯教室主題家具抽獎券,Abydos Classroom Furniture Raffle Ticket,아비도스 교실 테마 가구 추첨권,ชุดสุ่มเฟอร์นิเจอร์ ธีมห้องเรียนอะบิดอส,items.json
+12_item,道具,Item.191012,游戏开发部系列家具抽选箱,ゲーム開発部シリーズ抽選ボックス,ゲーム開発部シリーズ抽選ボックス,Game Development Department Furniture Raffle Ticket,게임개발부 테마 가구 추첨권,ゲーム開発部シリーズ抽選ボックス,items.json
+12_item,道具,Item.191013,サンシャインリゾートシリーズ抽選ボックス,サンシャインリゾートシリーズ抽選ボックス,サンシャインリゾートシリーズ抽選ボックス,Sunshine Resort Furniture Raffle Ticket,선샤인 리조트 테마 가구 추첨권,サンシャインリゾートシリーズ抽選ボックス,items.json
+12_item,道具,Item.191991,家具抽选箱(蓝),家具抽選ボックス（青）,家具抽選ボックス（青）,Furniture Raffle Ticket (R),일반 가구 추첨 상자,家具抽選ボックス（青）,items.json
+12_item,道具,Item.191992,家具抽选箱(橙),家具抽選ボックス（橙）,家具抽選ボックス（橙）,Furniture Raffle Ticket (SR),상급 가구 추첨 상자,家具抽選ボックス（橙）,items.json
+12_item,道具,Item.191993,家具抽选箱(紫),家具抽選ボックス（紫）,家具抽選ボックス（紫）,Furniture Raffle Ticket (SSR),최상급 가구 추첨 상자,家具抽選ボックス（紫）,items.json
+12_item,道具,Item.191999,其他系列家具抽选箱,その他シリーズ抽選ボックス,その他シリーズ抽選ボックス,Etc. Furniture Raffle Ticket,기타 테마 가구 추첨권,その他シリーズ抽選ボックス,items.json
+12_item,道具,Item.200000,普雷纳帕特斯的大人的卡片,プレナパテスの大人のカード,誘騙者的大人的卡片,Phrenapates&#x27;s Credit Card,프레나파테스의 어른의 카드,บัตรประจำตัวผู้ใหญ่ ของเพลนาพาเทส,items.json
+12_item,道具,Item.200001,化作灰烬的大人的卡片,粉々になった大人のカード,粉碎的大人的卡片,Credit Card Shards,산산이 조각난 어른의 카드,เศษบัตรประจำตัวผู้ใหญ่,items.json

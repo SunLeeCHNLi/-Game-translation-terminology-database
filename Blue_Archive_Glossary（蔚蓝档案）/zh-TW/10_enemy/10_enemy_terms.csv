@@ -1,0 +1,350 @@
+﻿id,term,src_table
+Enemy.7000001,太妹 (SMG),enemies.json
+Enemy.7000011,太妹 (MG),enemies.json
+Enemy.7000013,殘酷的太妹,enemies.json
+Enemy.7000021,太妹 (SR),enemies.json
+Enemy.7000023,冷靜的太妹,enemies.json
+Enemy.7000101,頭盔團成員 (SG),enemies.json
+Enemy.7000111,頭盔團成員 (AR),enemies.json
+Enemy.7000121,頭盔團成員 (SR),enemies.json
+Enemy.7000201,頭盔團幹部 (SG),enemies.json
+Enemy.7000212,頭盔團幹部 (AR),enemies.json
+Enemy.7000213,慎重的頭盔團幹部,enemies.json
+Enemy.7000221,頭盔團幹部 (SR),enemies.json
+Enemy.7000233,良舞,enemies.json
+Enemy.7000301,打體力工的學生 (SG),enemies.json
+Enemy.7000311,打體力工的學生 (AR),enemies.json
+Enemy.7000313,慎重的打體力工的學生,enemies.json
+Enemy.7000321,打體力工的學生 (SR),enemies.json
+Enemy.7000401,工地領班 (AR),enemies.json
+Enemy.7000411,工地領班 (SMG),enemies.json
+Enemy.7000421,工地領班 (MG),enemies.json
+Enemy.7000423,殘酷的工地領班,enemies.json
+Enemy.7000501,黑市守衛 (SG),enemies.json
+Enemy.7000511,黑市守衛 (AR),enemies.json
+Enemy.7000521,黑市守衛 (SR),enemies.json
+Enemy.7000523,冷靜的黑市守衛,enemies.json
+Enemy.7000531,黑市守衛 (RL),enemies.json
+Enemy.7000601,PMC士兵 (SG),enemies.json
+Enemy.7000611,PMC士兵 (AR),enemies.json
+Enemy.7000613,慎重的PMC士兵,enemies.json
+Enemy.7000621,PMC士兵 (SR),enemies.json
+Enemy.7000623,冷靜的PMC士兵,enemies.json
+Enemy.7000631,PMC士兵 (HG),enemies.json
+Enemy.7000633,聰明的PMC士兵,enemies.json
+Enemy.7000701,格黑娜風紀委員 (SG),enemies.json
+Enemy.7000711,格黑娜風紀委員 (AR),enemies.json
+Enemy.7000713,慎重的格黑娜風紀委員,enemies.json
+Enemy.7000721,格黑娜風紀委員 (SR),enemies.json
+Enemy.7000731,格黑娜風紀委員 (MG),enemies.json
+Enemy.7000733,殘酷的格黑娜風紀委員,enemies.json
+Enemy.7000801,奧利斯學生(SMG),enemies.json
+Enemy.7000803,好戰的奧利斯學生,enemies.json
+Enemy.7000811,奧利斯學生(GL),enemies.json
+Enemy.7000813,精明的奧利斯學生,enemies.json
+Enemy.7000821,奧利斯學生(MG),enemies.json
+Enemy.7000901,妖怪劇團．街頭流派 (SG),enemies.json
+Enemy.7000903,魯莽的妖怪劇團．街頭流派,enemies.json
+Enemy.7000911,妖怪劇團．街頭流派 (MG),enemies.json
+Enemy.7000921,妖怪劇團．街頭流派 (RL),enemies.json
+Enemy.7000923,狡猾的妖怪劇團．街頭流派,enemies.json
+Enemy.7000993,般若面的妖怪劇團,enemies.json
+Enemy.7001001,赤冬工務部成員 (SG),enemies.json
+Enemy.7001011,赤冬工務部成員 (AR),enemies.json
+Enemy.7001021,赤冬工務部成員 (SR),enemies.json
+Enemy.7001101,赤冬親衛隊 (SMG),enemies.json
+Enemy.7001111,赤冬親衛隊 (GL),enemies.json
+Enemy.7001131,赤冬親衛隊 (AR),enemies.json
+Enemy.7001143,赤冬親衛隊小隊長,enemies.json
+Enemy.7001201,海邊太妹 (SMG),enemies.json
+Enemy.7001211,海邊太妹 (MG),enemies.json
+Enemy.7001231,海邊太妹 (SR),enemies.json
+Enemy.7001243,太妹突擊隊長,enemies.json
+Enemy.7001301,玄武商會員工 (SG),enemies.json
+Enemy.7001311,玄武商會員工 (AR),enemies.json
+Enemy.7001321,玄武商會員工 (MG),enemies.json
+Enemy.7001333,玄武商會特殊餐車,enemies.json
+Enemy.7001401,兔女郎守衛 (SG),enemies.json
+Enemy.7001411,兔女郎守衛 (AR),enemies.json
+Enemy.7001421,兔女郎守衛 (SR),enemies.json
+Enemy.7001442,冷靜的兔女郎守衛,enemies.json
+Enemy.7001453,小雪,enemies.json
+Enemy.7001501,溫泉開發部成員（SG）,enemies.json
+Enemy.7001511,溫泉開發部成員（GL）,enemies.json
+Enemy.7001513,精明的溫泉開發部成員,enemies.json
+Enemy.7001521,溫泉開發部成員（RL）,enemies.json
+Enemy.7001533,惠,enemies.json
+Enemy.7001701,女武神警察學園學生（SG）,enemies.json
+Enemy.7001711,女武神警察學園學生（AR）,enemies.json
+Enemy.7001721,女武神警察學園學生（SR）,enemies.json
+Enemy.7001723,冷靜的女武神警察學園學生,enemies.json
+Enemy.7001812,修復材料保管裝置,enemies.json
+Enemy.7001903,慈愛の怪盗,enemies.json
+Enemy.7002001,玄龍門構成員（HG）,enemies.json
+Enemy.7002003,知的な玄龍門構成員（HG）,enemies.json
+Enemy.7002011,玄龍門構成員（AR）,enemies.json
+Enemy.7002021,玄龍門構成員（MG）,enemies.json
+Enemy.7002023,好戦的な玄龍門構成員（MG）,enemies.json
+Enemy.7010001,量產型自動機 (Shield),enemies.json
+Enemy.7010011,量產型自動機 (AR),enemies.json
+Enemy.7010021,量產型自動機 (RL),enemies.json
+Enemy.7010023,具攻擊性的量產型自動機,enemies.json
+Enemy.7010101,黑市自動機 (Shield),enemies.json
+Enemy.7010111,黑市自動機 (AR),enemies.json
+Enemy.7010113,敏捷的黑市自動機,enemies.json
+Enemy.7010121,黑市自動機 (RL),enemies.json
+Enemy.7010123,具攻擊性的黑市自動機,enemies.json
+Enemy.7010201,軍用自動機 (Shield),enemies.json
+Enemy.7010211,軍用自動機 (AR),enemies.json
+Enemy.7010221,軍用自動機 (RL),enemies.json
+Enemy.7010223,具攻擊性的軍用自動機,enemies.json
+Enemy.7010301,實驗用自動機 (Shield),enemies.json
+Enemy.7010311,實驗用自動機 (AR),enemies.json
+Enemy.7010313,敏捷的實驗用自動機,enemies.json
+Enemy.7010321,實驗用自動機 (RL),enemies.json
+Enemy.7010323,具攻擊性的實驗用自動機,enemies.json
+Enemy.7010401,量產型無人機 (Vulcan),enemies.json
+Enemy.7010411,量產型無人機 (Missile),enemies.json
+Enemy.7010413,改造量產型無人機,enemies.json
+Enemy.7010421,黑市無人機 (Vulcan),enemies.json
+Enemy.7010431,黑市無人機 (Missile),enemies.json
+Enemy.7010441,軍用無人機 (Vulcan),enemies.json
+Enemy.7010451,軍用無人機 (Missile),enemies.json
+Enemy.7010471,實驗用無人機 (Missile),enemies.json
+Enemy.7010501,量產型戰車 (Cannon),enemies.json
+Enemy.7010511,量產型戰車 (Railgun),enemies.json
+Enemy.7010521,黑市戰車 (Cannon),enemies.json
+Enemy.7010523,強化黑市戰車,enemies.json
+Enemy.7010531,黑市戰車 (Railgun),enemies.json
+Enemy.7010542,軍用戰車 (Cannon),enemies.json
+Enemy.7010543,強化軍用戰車,enemies.json
+Enemy.7010551,軍用戰車 (Railgun),enemies.json
+Enemy.7010561,實驗用戰車 (Cannon),enemies.json
+Enemy.7010563,強化實驗用戰車,enemies.json
+Enemy.7010572,實驗用戰車 (Railgun),enemies.json
+Enemy.7010573,改造實驗用戰車,enemies.json
+Enemy.7010603,歌利亞,enemies.json
+Enemy.7010613,十字軍,enemies.json
+Enemy.7010703,黑市阿帕契直升機,enemies.json
+Enemy.7010803,PMC雙足步行機甲,enemies.json
+Enemy.7010901,熊機器人 (SG),enemies.json
+Enemy.7010911,兔子機器人 (AR),enemies.json
+Enemy.7010913,敏捷的機器人,enemies.json
+Enemy.7011001,頭盔團自動機 (SMG),enemies.json
+Enemy.7011011,頭盔團自動機 (AR),enemies.json
+Enemy.7011021,頭盔團自動機 (RL),enemies.json
+Enemy.7011033,頭盔團突擊隊長,enemies.json
+Enemy.7011101,頭盔團輕戰車,enemies.json
+Enemy.7011103,強化的頭盔團輕戰車,enemies.json
+Enemy.7011201,頭盔團重戰車,enemies.json
+Enemy.7011203,改造的頭盔團重戰車,enemies.json
+Enemy.7011301,黑龜組防禦塔（GL）,enemies.json
+Enemy.7011303,強化的黑龜組防禦塔,enemies.json
+Enemy.7011411,黑龜組自動機（AR）,enemies.json
+Enemy.7011421,黑龜組自動機（RL）,enemies.json
+Enemy.7011501,嬉皮機器人（HG）,enemies.json
+Enemy.7011503,智能的嬉皮機器人,enemies.json
+Enemy.7011511,嬉皮機器人（AR）,enemies.json
+Enemy.7011521,嬉皮機器人（SR）,enemies.json
+Enemy.7011523,冷靜的嬉皮機器人,enemies.json
+Enemy.7011603,KAITEN FX Mk.1,enemies.json
+Enemy.7011803,強化量產型挖土機,enemies.json
+Enemy.7011903,賽道破壞者,enemies.json
+Enemy.7012001,AMAS (SMG),enemies.json
+Enemy.7012011,AMAS (AR),enemies.json
+Enemy.7012021,AMAS (Vulcan),enemies.json
+Enemy.7012033,前衛君,enemies.json
+Enemy.7020001,優斯提娜聖徒 (SMG),enemies.json
+Enemy.7020011,優斯提娜聖徒 (AR),enemies.json
+Enemy.7020013,慎重的優斯提娜聖徒,enemies.json
+Enemy.7020021,優斯提娜聖徒 (SR),enemies.json
+Enemy.7020023,冷靜的優斯提娜聖徒,enemies.json
+Enemy.7020033,白芭蕾,enemies.json
+Enemy.7020101,狂暴化奧利斯學生 (SMG),enemies.json
+Enemy.7020111,狂暴化奧利斯學生 (GL),enemies.json
+Enemy.7020121,狂暴化奧利斯學生 (MG),enemies.json
+Enemy.7020123,殘酷的狂暴化奧利斯學生,enemies.json
+Enemy.7020201,狂暴化自動機 (Shield),enemies.json
+Enemy.7020211,狂暴化自動機 (AR),enemies.json
+Enemy.7020221,狂暴化自動機 (RL),enemies.json
+Enemy.7020223,具攻擊性的狂暴化自動機,enemies.json
+Enemy.7020303,狂暴化雙足步行機甲,enemies.json
+Enemy.7020313,安普羅西斯,enemies.json
+Enemy.7020501,狂暴化熊機器人,enemies.json
+Enemy.7020503,堅固的狂暴化熊機器人,enemies.json
+Enemy.7020511,狂暴化兔子機器人,enemies.json
+Enemy.7020513,敏捷的狂暴化兔子機器人,enemies.json
+Enemy.7030001,水着信徒（FT）,enemies.json
+Enemy.7030011,水着信徒（AR）,enemies.json
+Enemy.7030021,水着信徒（SR）,enemies.json
+Enemy.7030033,フラヴィア,enemies.json
+Enemy.7050002,亞瑠,enemies.json
+Enemy.7050022,羽留奈,enemies.json
+Enemy.7050032,日步美,enemies.json
+Enemy.7050042,陽奈,enemies.json
+Enemy.7050052,星野,enemies.json
+Enemy.7050062,伊織,enemies.json
+Enemy.7050102,白子,enemies.json
+Enemy.7050143,朱音,enemies.json
+Enemy.7050152,知世,enemies.json
+Enemy.7050162,遙香,enemies.json
+Enemy.7050172,蓮實,enemies.json
+Enemy.7050182,泉,enemies.json
+Enemy.7050192,佳世子,enemies.json
+Enemy.7050202,無月,enemies.json
+Enemy.7050212,菲娜,enemies.json
+Enemy.7050222,茜香,enemies.json
+Enemy.7050232,椿,enemies.json
+Enemy.7050242,優香,enemies.json
+Enemy.7050252,淳子,enemies.json
+Enemy.7050262,亞伽里,enemies.json
+Enemy.7050272,明日奈,enemies.json
+Enemy.7050282,亞都梨,enemies.json
+Enemy.7050292,鈴美,enemies.json
+Enemy.7050322,寧瑠,enemies.json
+Enemy.7050333,堇,enemies.json
+Enemy.7050342,喜美,enemies.json
+Enemy.7050352,花凛,enemies.json
+Enemy.7050532,桐乃,enemies.json
+Enemy.7050562,三森,enemies.json
+Enemy.7050572,靜子,enemies.json
+Enemy.7050582,楓,enemies.json
+Enemy.7050592,茱莉,enemies.json
+Enemy.7050602,愛莉,enemies.json
+Enemy.7050612,伊樹菜,enemies.json
+Enemy.7050622,芹奈,enemies.json
+Enemy.7050632,晴,enemies.json
+Enemy.7050642,響,enemies.json
+Enemy.7050672,日步美(泳裝),enemies.json
+Enemy.7050682,愛麗絲,enemies.json
+Enemy.7050693,ルミ,enemies.json
+Enemy.7050703,ミナ,enemies.json
+Enemy.7053002,綾音,enemies.json
+Enemy.7056002,志美子,enemies.json
+Enemy.7090001,無名守護者Type.F,enemies.json
+Enemy.7090011,無名守護者Type.M,enemies.json
+Enemy.7090021,無名守護者Type.B,enemies.json
+Enemy.7090023,堅固的無名守護者Type.B,enemies.json
+Enemy.7090033,次元引擎防禦系統,enemies.json
+Enemy.7090043,白子＊TERROR,enemies.json
+Enemy.7090061,色彩化機器人 (Shield),enemies.json
+Enemy.7090071,色彩化機器人 (AR),enemies.json
+Enemy.7090081,色彩化機器人 (RL),enemies.json
+Enemy.7090103,色彩化凱瑟Type.V,enemies.json
+Enemy.7100002,凱坦澤Red,enemies.json
+Enemy.7100012,凱坦澤Black,enemies.json
+Enemy.7100022,凱坦澤Green,enemies.json
+Enemy.7100032,凱坦澤Yellow,enemies.json
+Enemy.7100042,凱坦澤Pink,enemies.json
+Enemy.7110753,奈洛,enemies.json
+Enemy.7110801,清除器,enemies.json
+Enemy.7110812,改造清除器,enemies.json
+Enemy.7110822,強化清除器,enemies.json
+Enemy.7120003,夜晚的奈洛,enemies.json
+Enemy.7300100,薇娜,enemies.json
+Enemy.7301100,赫賽德,enemies.json
+Enemy.7301105,實驗用無人機 (Vulcan),enemies.json
+Enemy.7301107,防禦塔,enemies.json
+Enemy.7302100,白,enemies.json
+Enemy.7302101,黑,enemies.json
+Enemy.7303100,耶羅尼姆斯,enemies.json
+Enemy.7303900,綠色聖遺物,enemies.json
+Enemy.7303910,紅色聖遺物,enemies.json
+Enemy.7303925,紫色聖遺物,enemies.json
+Enemy.7304100,KAITEN FX Mk.0,enemies.json
+Enemy.7305100,佩洛洛吉拉,enemies.json
+Enemy.7305101,佩洛洛士兵,enemies.json
+Enemy.7305190,小型佩洛洛士兵,enemies.json
+Enemy.7306100,霍德,enemies.json
+Enemy.7306101,入侵者之柱,enemies.json
+Enemy.7308100,高茲,enemies.json
+Enemy.7308101,ゴズ（分身）,enemies.json
+Enemy.7309100,グレゴリオ,enemies.json
+Enemy.7310100,若藻（氣墊船）,enemies.json
+Enemy.7310110,アンプルミサイル,enemies.json
+Enemy.7310120,シャークミサイル,enemies.json
+Enemy.7310140,ブラックミサイル,enemies.json
+Enemy.7310150,鋼盔團自製導彈,enemies.json
+Enemy.7310160,重建中的度假村,enemies.json
+Enemy.7311000,若藻(泳裝),enemies.json
+Enemy.7611013,梓,enemies.json
+Enemy.7611032,小春,enemies.json
+Enemy.7611042,花子,enemies.json
+Enemy.7612052,花繪,enemies.json
+Enemy.7613013,弦生,enemies.json
+Enemy.7613062,麻白,enemies.json
+Enemy.7614092,瑪麗,enemies.json
+Enemy.7622052,風華,enemies.json
+Enemy.7623072,千夏,enemies.json
+Enemy.7624092,亞子,enemies.json
+Enemy.7624102,瀬奈,enemies.json
+Enemy.7631013,桃井,enemies.json
+Enemy.7631032,綠,enemies.json
+Enemy.7631042,詠葉,enemies.json
+Enemy.7633013,柚子,enemies.json
+Enemy.7634102,千尋,enemies.json
+Enemy.7710363,凱瑟 Type.V,enemies.json
+Enemy.7710373,凱瑟 Type.C,enemies.json
+Enemy.7710383,凱瑟 Type.E,enemies.json
+Enemy.7710534,電漿磁場產生裝置,enemies.json
+Enemy.7800001,輕巧的清除器,enemies.json
+Enemy.7800101,輕巧的改造清除器,enemies.json
+Enemy.7800201,輕巧的強化清除器,enemies.json
+Enemy.7802001,神秘的清除器,enemies.json
+Enemy.7802101,神秘的改造清除器,enemies.json
+Enemy.7802201,神秘的強化清除器,enemies.json
+Enemy.7810001,白天的奈洛,enemies.json
+Enemy.7823099,稻草人,enemies.json
+Enemy.7823199,稻草人,enemies.json
+Enemy.7823299,稻草人,enemies.json
+Enemy.7921503,ユキノ,enemies.json
+Enemy.7921602,クルミ,enemies.json
+Enemy.7921702,ニコ,enemies.json
+Enemy.7921802,オトギ,enemies.json
+Enemy.7960000,薇娜 (色彩),enemies.json
+Enemy.7961000,白 (色彩),enemies.json
+Enemy.7961010,黑 (色彩),enemies.json
+Enemy.7962000,耶羅尼姆斯 (色彩),enemies.json
+Enemy.7962501,紫色聖遺物,enemies.json
+Enemy.7963000,赫賽德 (色彩),enemies.json
+Enemy.7963001,實驗用自動機 (AR),enemies.json
+Enemy.7963003,實驗用無人機 (Missile),enemies.json
+Enemy.7963005,實驗用無人機 (Vulcan),enemies.json
+Enemy.7963007,防禦塔,enemies.json
+Enemy.7963009,歌利亞,enemies.json
+Enemy.7963103,實驗用無人機 (Missile),enemies.json
+Enemy.7963511,清除器,enemies.json
+Enemy.7964001,霍德 (色彩),enemies.json
+Enemy.7964002,色彩 入侵者之柱,enemies.json
+Enemy.7965001,佩洛洛吉拉 (色彩),enemies.json
+Enemy.7965002,佩洛洛士兵,enemies.json
+Enemy.7965026,小型佩洛洛士兵,enemies.json
+Enemy.8020018,潔莉諾,enemies.json
+Enemy.8020019,智惠,enemies.json
+Enemy.8030008,好戰的優斯提娜聖徒,enemies.json
+Enemy.8050010,殘酷的玄武商會員工,enemies.json
+Enemy.8050040,魯莽的玄武商會員工,enemies.json
+Enemy.8080012,狡猾的溫泉開發部成員,enemies.json
+Enemy.8100020,被奪取的若藻裝甲車,enemies.json
+Enemy.8110010,若藻,enemies.json
+Enemy.8150043,野乃美,enemies.json
+Enemy.8180054,柴郡貓,enemies.json
+Enemy.8190051,瑪麗娜,enemies.json
+Enemy.8190053,時雨,enemies.json
+Enemy.8190054,和香,enemies.json
+Enemy.8190056,伊呂波,enemies.json
+Enemy.8200014,高級食材搬運車輛,enemies.json
+Enemy.8220014,具攻擊性的無名守護者Type.M,enemies.json
+Enemy.8250303,ユズ（メイド）,enemies.json
+Enemy.8250304,アリス（メイド）,enemies.json
+Enemy.8250305,トキ（バニーガール）,enemies.json
+Enemy.8260303,旬,enemies.json
+Enemy.8260305,心菜,enemies.json
+Enemy.8260306,沙耶,enemies.json
+Enemy.8270301,ミヤコ（水着）,enemies.json
+Enemy.8270302,サキ（水着）,enemies.json
+Enemy.8270303,ミユ（水着）,enemies.json
+Enemy.8270304,萌,enemies.json
+Enemy.8280201,ウイ（水着）,enemies.json
+Enemy.8280202,コハル（水着）,enemies.json
+Enemy.8280203,ヒナタ（水着）,enemies.json

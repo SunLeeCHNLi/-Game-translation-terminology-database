@@ -1,0 +1,17 @@
+﻿category,label,term_count,glossary_file,terms_file,target_language
+01_character,角色名称,408,01_character/01_character_glossary.csv,01_character/01_character_terms.csv,ja-JP
+02_school,学校,26,02_school/02_school_glossary.csv,02_school/02_school_terms.csv,ja-JP
+03_club,社团,43,03_club/03_club_glossary.csv,03_club/03_club_terms.csv,ja-JP
+04_story_title,剧情标题,1144,04_story_title/04_story_title_glossary.csv,04_story_title/04_story_title_terms.csv,ja-JP
+05_favor_item,爱用品,51,05_favor_item/05_favor_item_glossary.csv,05_favor_item/05_favor_item_terms.csv,ja-JP
+06_location,地名,90,06_location/06_location_glossary.csv,06_location/06_location_terms.csv,ja-JP
+07_terminology,术语,1401,07_terminology/07_terminology_glossary.csv,07_terminology/07_terminology_terms.csv,ja-JP
+08_event,活动,72,08_event/08_event_glossary.csv,08_event/08_event_terms.csv,ja-JP
+09_scenario_character,剧情角色,945,09_scenario_character/09_scenario_character_glossary.csv,09_scenario_character/09_scenario_character_terms.csv,ja-JP
+10_enemy,敌人,351,10_enemy/10_enemy_glossary.csv,10_enemy/10_enemy_terms.csv,ja-JP
+11_skill,技能,1069,11_skill/11_skill_glossary.csv,11_skill/11_skill_terms.csv,ja-JP
+12_item,道具,649,12_item/12_item_glossary.csv,12_item/12_item_terms.csv,ja-JP
+13_equipment,装备,155,13_equipment/13_equipment_glossary.csv,13_equipment/13_equipment_terms.csv,ja-JP
+14_furniture,家具,472,14_furniture/14_furniture_glossary.csv,14_furniture/14_furniture_terms.csv,ja-JP
+15_stage,关卡,658,15_stage/15_stage_glossary.csv,15_stage/15_stage_terms.csv,ja-JP
+TOTAL,,7534,,,ja-JP

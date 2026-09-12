@@ -1,0 +1,650 @@
+﻿id,term,src_table
+Item.1,キーストーンのカケラ,items.json
+Item.2,ブースターチケット,items.json
+Item.3,キーストーン,items.json
+Item.7,総力戦コイン,items.json
+Item.8,戦術コイン,items.json
+Item.9,総力戦レアコイン,items.json
+Item.10,初級レポート,items.json
+Item.11,中級レポート,items.json
+Item.12,上級レポート,items.json
+Item.13,最上級レポート,items.json
+Item.23,神名のカケラ,items.json
+Item.30,カフェ設備コアLv1,items.json
+Item.31,カフェ設備コアLv2,items.json
+Item.32,カフェ設備コアLv3,items.json
+Item.60,火力演習コイン,items.json
+Item.61,指名手配コイン,items.json
+Item.70,大決戦コイン,items.json
+Item.71,大決戦レアコイン,items.json
+Item.80,初級テイラーストーン,items.json
+Item.81,中級テイラーストーン,items.json
+Item.82,上級テイラーストーン,items.json
+Item.83,最上級テイラーストーン,items.json
+Item.90,初級製造用マテリアル,items.json
+Item.91,中級製造用マテリアル,items.json
+Item.92,上級製造用マテリアル,items.json
+Item.100,ネブラディスクの欠片,items.json
+Item.101,壊れたネブラディスク,items.json
+Item.102,摩耗したネブラディスク,items.json
+Item.103,完全なネブラディスク,items.json
+Item.110,ファイストス円盤の欠片,items.json
+Item.111,壊れたファイストス円盤,items.json
+Item.112,摩耗したファイストス円盤,items.json
+Item.113,完全なファイストス円盤,items.json
+Item.120,ヴォルフスエックの鉄鉱石,items.json
+Item.121,ヴォルフスエック鋼鉄の欠片,items.json
+Item.122,低純度のヴォルフスエック鋼鉄,items.json
+Item.123,高純度のヴォルフスエック鋼鉄,items.json
+Item.130,ニムルドレンズの欠片,items.json
+Item.131,壊れたニムルドレンズ,items.json
+Item.132,摩耗したニムルドレンズ,items.json
+Item.133,完全なニムルドレンズ,items.json
+Item.140,マンドレイクの種,items.json
+Item.141,マンドレイクの芽,items.json
+Item.142,マンドレイクジュース,items.json
+Item.143,マンドレイク濃縮液,items.json
+Item.150,レヒニッツ写本のページ,items.json
+Item.151,傷んだレヒニッツ写本,items.json
+Item.152,編集済みのレヒニッツ写本,items.json
+Item.153,完全なレヒニッツ写本,items.json
+Item.160,エーテルの粉,items.json
+Item.161,エーテルの欠片,items.json
+Item.162,エーテルの結晶,items.json
+Item.163,エーテルのエッセンス,items.json
+Item.170,アンティキティラ装置の欠片,items.json
+Item.171,壊れたアンティキティラ装置,items.json
+Item.172,摩耗したアンティキティラ装置,items.json
+Item.173,完全なアンティキティラ装置,items.json
+Item.180,断片的なヴォイニッチ手稿のコピー,items.json
+Item.181,傷んだヴォイニッチ手稿のコピー,items.json
+Item.182,編集済みのヴォイニッチ手稿のコピー,items.json
+Item.183,完全なヴォイニッチ手稿のコピー,items.json
+Item.190,水晶埴輪の破片,items.json
+Item.191,壊れた水晶埴輪,items.json
+Item.192,修復済みの水晶埴輪,items.json
+Item.193,完全な水晶埴輪,items.json
+Item.200,トーテムポールの破片,items.json
+Item.201,破損したトーテムポール,items.json
+Item.202,修復済みのトーテムポール,items.json
+Item.203,完全なトーテムポール,items.json
+Item.210,古代の電池の破片,items.json
+Item.211,破損した古代の電池,items.json
+Item.212,摩耗した古代の電池,items.json
+Item.213,完全なる古代の電池,items.json
+Item.220,黄金の糸,items.json
+Item.221,黄金の巻糸,items.json
+Item.222,大きな黄金の巻糸,items.json
+Item.223,黄金の布,items.json
+Item.230,髪伸び人形の破片,items.json
+Item.231,破損した髪伸び人形,items.json
+Item.232,修理済みの髪伸び人形,items.json
+Item.233,完全な髪伸び人形,items.json
+Item.240,円盤型ペンダントの欠片,items.json
+Item.241,壊れた円盤型ペンダント,items.json
+Item.242,修復途中の円盤型ペンダント,items.json
+Item.243,完全な円盤型ペンダント,items.json
+Item.250,古代文明のメダルの欠片,items.json
+Item.251,破損した古代文明のメダル,items.json
+Item.252,修復途中の古代文明のメダル,items.json
+Item.253,完全な古代文明のメダル,items.json
+Item.260,中空十二面体の欠片,items.json
+Item.261,壊れた中空十二面体,items.json
+Item.262,修復途中の中空十二面体,items.json
+Item.263,完全な中空十二面体,items.json
+Item.290,ミステリーストーンの欠片,items.json
+Item.291,壊れたミステリーストーン,items.json
+Item.292,不完全なミステリーストーン,items.json
+Item.293,完全なミステリーストーン,items.json
+Item.3000,初級戦術教育BD （百鬼夜行）,items.json
+Item.3001,中級戦術教育BD （百鬼夜行）,items.json
+Item.3002,上級戦術教育BD （百鬼夜行）,items.json
+Item.3003,最上級戦術教育BD （百鬼夜行）,items.json
+Item.3010,初級戦術教育BD （レッドウィンター）,items.json
+Item.3011,中級戦術教育BD （レッドウィンター）,items.json
+Item.3012,上級戦術教育BD （レッドウィンター）,items.json
+Item.3013,最上級戦術教育BD （レッドウィンター）,items.json
+Item.3020,初級戦術教育BD （トリニティ）,items.json
+Item.3021,中級戦術教育BD （トリニティ）,items.json
+Item.3022,上級戦術教育BD （トリニティ）,items.json
+Item.3023,最上級戦術教育BD （トリニティ）,items.json
+Item.3030,初級戦術教育BD （ゲヘナ）,items.json
+Item.3031,中級戦術教育BD （ゲヘナ）,items.json
+Item.3032,上級戦術教育BD （ゲヘナ）,items.json
+Item.3033,最上級戦術教育BD （ゲヘナ）,items.json
+Item.3040,初級戦術教育BD （アビドス）,items.json
+Item.3041,中級戦術教育BD （アビドス）,items.json
+Item.3042,上級戦術教育BD （アビドス）,items.json
+Item.3043,最上級戦術教育BD （アビドス）,items.json
+Item.3050,初級戦術教育BD （ミレニアム）,items.json
+Item.3051,中級戦術教育BD （ミレニアム）,items.json
+Item.3052,上級戦術教育BD （ミレニアム）,items.json
+Item.3053,最上級戦術教育BD （ミレニアム）,items.json
+Item.3060,初級戦術教育BD （アリウス）,items.json
+Item.3061,中級戦術教育BD （アリウス）,items.json
+Item.3062,上級戦術教育BD （アリウス）,items.json
+Item.3063,最上級戦術教育BD （アリウス）,items.json
+Item.3070,初級戦術教育BD （山海経）,items.json
+Item.3071,中級戦術教育BD （山海経）,items.json
+Item.3072,上級戦術教育BD （山海経）,items.json
+Item.3073,最上級戦術教育BD （山海経）,items.json
+Item.3080,初級戦術教育BD （ヴァルキューレ）,items.json
+Item.3081,中級戦術教育BD （ヴァルキューレ）,items.json
+Item.3082,上級戦術教育BD （ヴァルキューレ）,items.json
+Item.3083,最上級戦術教育BD （ヴァルキューレ）,items.json
+Item.4000,初級技術ノート （百鬼夜行）,items.json
+Item.4001,中級技術ノート （百鬼夜行）,items.json
+Item.4002,上級技術ノート （百鬼夜行）,items.json
+Item.4003,最上級技術ノート （百鬼夜行）,items.json
+Item.4010,初級技術ノート （レッドウィンター）,items.json
+Item.4011,中級技術ノート （レッドウィンター）,items.json
+Item.4012,上級技術ノート （レッドウィンター）,items.json
+Item.4013,最上級技術ノート （レッドウィンター）,items.json
+Item.4020,初級技術ノート （トリニティ）,items.json
+Item.4021,中級技術ノート （トリニティ）,items.json
+Item.4022,上級技術ノート （トリニティ）,items.json
+Item.4023,最上級技術ノート （トリニティ）,items.json
+Item.4030,初級技術ノート （ゲヘナ）,items.json
+Item.4031,中級技術ノート （ゲヘナ）,items.json
+Item.4032,上級技術ノート （ゲヘナ）,items.json
+Item.4033,最上級技術ノート （ゲヘナ）,items.json
+Item.4040,初級技術ノート （アビドス）,items.json
+Item.4041,中級技術ノート （アビドス）,items.json
+Item.4042,上級技術ノート （アビドス）,items.json
+Item.4043,最上級技術ノート （アビドス）,items.json
+Item.4050,初級技術ノート （ミレニアム）,items.json
+Item.4051,中級技術ノート （ミレニアム）,items.json
+Item.4052,上級技術ノート （ミレニアム）,items.json
+Item.4053,最上級技術ノート （ミレニアム）,items.json
+Item.4060,初級技術ノート （アリウス）,items.json
+Item.4061,中級技術ノート （アリウス）,items.json
+Item.4062,上級技術ノート （アリウス）,items.json
+Item.4063,最上級技術ノート （アリウス）,items.json
+Item.4070,初級技術ノート （山海経）,items.json
+Item.4071,中級技術ノート （山海経）,items.json
+Item.4072,上級技術ノート （山海経）,items.json
+Item.4073,最上級技術ノート （山海経）,items.json
+Item.4080,初級技術ノート （ヴァルキューレ）,items.json
+Item.4081,中級技術ノート （ヴァルキューレ）,items.json
+Item.4082,上級技術ノート （ヴァルキューレ）,items.json
+Item.4083,最上級技術ノート （ヴァルキューレ）,items.json
+Item.7001,ミッションデータ1：TypeD,items.json
+Item.9998,秘伝ノートの断片,items.json
+Item.9999,秘伝ノート,items.json
+Item.10000,アルの神名文字,items.json
+Item.10001,エイミの神名文字,items.json
+Item.10002,ハルナの神名文字,items.json
+Item.10003,ヒフミの神名文字,items.json
+Item.10004,ヒナの神名文字,items.json
+Item.10005,ホシノの神名文字,items.json
+Item.10006,イオリの神名文字,items.json
+Item.10007,マキの神名文字,items.json
+Item.10008,ネルの神名文字,items.json
+Item.10009,イズミの神名文字,items.json
+Item.10010,シロコの神名文字,items.json
+Item.10011,シュンの神名文字,items.json
+Item.10012,スミレの神名文字,items.json
+Item.10013,ツルギの神名文字,items.json
+Item.10014,イズナの神名文字,items.json
+Item.10015,アリスの神名文字,items.json
+Item.10016,ミドリの神名文字,items.json
+Item.10017,チェリノの神名文字,items.json
+Item.10018,ユズの神名文字,items.json
+Item.10019,アズサの神名文字,items.json
+Item.10020,コハルの神名文字,items.json
+Item.10021,アズサ（水着）の神名文字,items.json
+Item.10022,ヒナ（水着）の神名文字,items.json
+Item.10023,イオリ（水着）の神名文字,items.json
+Item.10024,シロコ（ライディング）の神名文字,items.json
+Item.10025,シュン（幼女）の神名文字,items.json
+Item.10026,ネル（バニーガール）の神名文字,items.json
+Item.10027,カリン（バニーガール）の神名文字,items.json
+Item.10028,アスナ（バニーガール）の神名文字,items.json
+Item.10029,ナツの神名文字,items.json
+Item.10030,チナツ（温泉）の神名文字,items.json
+Item.10031,アル（正月）の神名文字,items.json
+Item.10032,ムツキ（正月）の神名文字,items.json
+Item.10033,ワカモの神名文字,items.json
+Item.10034,ミモリの神名文字,items.json
+Item.10035,ウイの神名文字,items.json
+Item.10036,ヒナタの神名文字,items.json
+Item.10037,マリナの神名文字,items.json
+Item.10038,ミヤコの神名文字,items.json
+Item.10039,ミユの神名文字,items.json
+Item.10040,ツクヨの神名文字,items.json
+Item.10041,ミサキの神名文字,items.json
+Item.10042,アツコの神名文字,items.json
+Item.10043,ワカモ（水着）の神名文字,items.json
+Item.10044,ノノミ（水着）の神名文字,items.json
+Item.10045,ホシノ（水着）の神名文字,items.json
+Item.10046,イズナ（水着）の神名文字,items.json
+Item.10047,チセ（水着）の神名文字,items.json
+Item.10048,サオリの神名文字,items.json
+Item.10049,カズサの神名文字,items.json
+Item.10050,ココナの神名文字,items.json
+Item.10051,ウタハ（応援団）の神名文字,items.json
+Item.10052,ノアの神名文字,items.json
+Item.10053,ユウカ（体操服）の神名文字,items.json
+Item.10054,マリー（体操服）の神名文字,items.json
+Item.10055,シグレの神名文字,items.json
+Item.10056,セリナ（クリスマス）の神名文字,items.json
+Item.10057,ハルナ（正月）の神名文字,items.json
+Item.10058,ミネの神名文字,items.json
+Item.10059,ミカの神名文字,items.json
+Item.10060,メグの神名文字,items.json
+Item.10061,サクラコの神名文字,items.json
+Item.10062,トキの神名文字,items.json
+Item.10063,コユキの神名文字,items.json
+Item.10064,カヨコ（正月）の神名文字,items.json
+Item.10065,カホの神名文字,items.json
+Item.10066,アリス（メイド）の神名文字,items.json
+Item.10067,トキ（バニーガール）の神名文字,items.json
+Item.10068,レイサの神名文字,items.json
+Item.10069,ルミの神名文字,items.json
+Item.10070,ミナの神名文字,items.json
+Item.10071,ミヤコ（水着）の神名文字,items.json
+Item.10072,サキ（水着）の神名文字,items.json
+Item.10073,ウイ（水着）の神名文字,items.json
+Item.10074,ハナコ（水着）の神名文字,items.json
+Item.13000,アカネの神名文字,items.json
+Item.13001,チセの神名文字,items.json
+Item.13002,アカリの神名文字,items.json
+Item.13003,ハスミの神名文字,items.json
+Item.13004,ノノミの神名文字,items.json
+Item.13005,カヨコの神名文字,items.json
+Item.13006,ムツキの神名文字,items.json
+Item.13007,ジュンコの神名文字,items.json
+Item.13008,セリカの神名文字,items.json
+Item.13009,ツバキの神名文字,items.json
+Item.13010,ユウカの神名文字,items.json
+Item.13011,モモイの神名文字,items.json
+Item.13012,キリノの神名文字,items.json
+Item.16000,ハルカの神名文字,items.json
+Item.16001,アスナの神名文字,items.json
+Item.16002,コトリの神名文字,items.json
+Item.16003,スズミの神名文字,items.json
+Item.16004,フィーナの神名文字,items.json
+Item.16005,ツルギ（水着）の神名文字,items.json
+Item.16006,イズミ（水着）の神名文字,items.json
+Item.16007,トモエの神名文字,items.json
+Item.16008,フブキの神名文字,items.json
+Item.16009,ミチルの神名文字,items.json
+Item.16010,ヒビキ（応援団）の神名文字,items.json
+Item.16011,ハスミ（体操服）の神名文字,items.json
+Item.16012,ジュンコ（正月）の神名文字,items.json
+Item.16013,コハル（水着）の神名文字,items.json
+Item.20000,ヒビキの神名文字,items.json
+Item.20001,カリンの神名文字,items.json
+Item.20002,サヤの神名文字,items.json
+Item.20003,マシロの神名文字,items.json
+Item.20004,マシロ（水着）の神名文字,items.json
+Item.20005,ヒフミ（水着）の神名文字,items.json
+Item.20006,サヤ（私服）の神名文字,items.json
+Item.20007,初音ミクの神名文字,items.json
+Item.20008,アコの神名文字,items.json
+Item.20009,チェリノ（温泉）の神名文字,items.json
+Item.20010,ノドカ（温泉）の神名文字,items.json
+Item.20011,セリカ（正月）の神名文字,items.json
+Item.20012,セナの神名文字,items.json
+Item.20013,チヒロの神名文字,items.json
+Item.20014,サキの神名文字,items.json
+Item.20015,カエデの神名文字,items.json
+Item.20016,イロハの神名文字,items.json
+Item.20017,ヒヨリの神名文字,items.json
+Item.20018,モエの神名文字,items.json
+Item.20019,アカネ（バニーガール）の神名文字,items.json
+Item.20020,ヒマリの神名文字,items.json
+Item.20021,ハナエ（クリスマス）の神名文字,items.json
+Item.20022,フウカ（正月）の神名文字,items.json
+Item.20023,カンナの神名文字,items.json
+Item.20024,ナギサの神名文字,items.json
+Item.20025,ハルカ（正月）の神名文字,items.json
+Item.20026,ミノリの神名文字,items.json
+Item.20027,シロコ（水着）の神名文字,items.json
+Item.20028,ヒナタ（水着）の神名文字,items.json
+Item.23000,アイリの神名文字,items.json
+Item.23001,フウカの神名文字,items.json
+Item.23002,ハナエの神名文字,items.json
+Item.23003,ハレの神名文字,items.json
+Item.23004,ウタハの神名文字,items.json
+Item.23005,アヤネの神名文字,items.json
+Item.23006,シズコの神名文字,items.json
+Item.23007,ハナコの神名文字,items.json
+Item.23008,マリーの神名文字,items.json
+Item.26000,チナツの神名文字,items.json
+Item.26001,コタマの神名文字,items.json
+Item.26002,ジュリの神名文字,items.json
+Item.26003,セリナの神名文字,items.json
+Item.26004,シミコの神名文字,items.json
+Item.26005,ヨシミの神名文字,items.json
+Item.26006,ノドカの神名文字,items.json
+Item.26007,アヤネ（水着）の神名文字,items.json
+Item.26008,シズコ（水着）の神名文字,items.json
+Item.26009,ユズ（メイド）の神名文字,items.json
+Item.26010,ミユ（水着）の神名文字,items.json
+Item.30000,初級戦術教育BDボックス,items.json
+Item.30001,中級戦術教育BDボックス,items.json
+Item.30002,上級戦術教育BDボックス,items.json
+Item.30003,最上級戦術教育BDボックス,items.json
+Item.40000,初級技術ノートボックス,items.json
+Item.40001,中級技術ノートボックス,items.json
+Item.40002,上級技術ノートボックス,items.json
+Item.40003,最上級技術ノートボックス,items.json
+Item.80000,イベントPt,items.json
+Item.80001,キツネせんべい,items.json
+Item.80002,タヌキ印のお好み焼き,items.json
+Item.80003,サクラ大福,items.json
+Item.80010,チェリノマトリョーシカ,items.json
+Item.80011,チェリノ印のチョコレート,items.json
+Item.80012,おひげクレープ,items.json
+Item.80013,勇猛髭勲章,items.json
+Item.80021,ビーチボール,items.json
+Item.80022,海の家の食券,items.json
+Item.80023,ミニロケット花火,items.json
+Item.80024,クーラーボックス,items.json
+Item.80025,砂遊びセット,items.json
+Item.80026,ビーチチェア,items.json
+Item.80027,パラソルテーブル,items.json
+Item.80028,ビーチグッズ,items.json
+Item.80029,セーリングボート,items.json
+Item.80030,ゲヘナ印の補給ボックス,items.json
+Item.80031,美食研究会の焼きトウモロコシ,items.json
+Item.80032,夏のスケバンサングラス,items.json
+Item.80033,びしょびしょヘルメット,items.json
+Item.80041,コウラ茸,items.json
+Item.80042,クロ筍,items.json
+Item.80043,ヒトガタ人蔘,items.json
+Item.80050,チョコレートコイン,items.json
+Item.80051,ウサギのステッカー,items.json
+Item.80052,乗船チケット,items.json
+Item.80053,サイコロ,items.json
+Item.80061,温泉タオル,items.json
+Item.80062,おひげシャンプー,items.json
+Item.80063,カピバラ型の入浴剤,items.json
+Item.80070,福袋,items.json
+Item.80071,ペロロ餅,items.json
+Item.80072,黒亀組の絵馬,items.json
+Item.80073,おみくじ引換券,items.json
+Item.80081,問題児の反省文,items.json
+Item.80082,押収された違法駄菓子,items.json
+Item.80083,環境美化活動用ゴミ袋,items.json
+Item.80084,バレンタインデーのお誘い,items.json
+Item.80090,ワカモの逮捕状,items.json
+Item.80101,シスターフッドのヴェール,items.json
+Item.80102,トリニティの聖歌集,items.json
+Item.80103,トリニティの燭台,items.json
+Item.80110,ムシクイーンのカードパック,items.json
+Item.80111,交流会のチラシ,items.json
+Item.80112,和楽姫のうちわ,items.json
+Item.80113,ニンペロさんグッズ,items.json
+Item.80120,資材ボックス,items.json
+Item.80130,地域通貨,items.json
+Item.80131,百夜堂キラキラコイン,items.json
+Item.80132,ツルツルサザエ,items.json
+Item.80133,夏用忍法図鑑巻物,items.json
+Item.80134,深海温泉島リゾート使用権,items.json
+Item.80135,ムシクイーンクルーズリゾート使用権,items.json
+Item.80136,超豪華リゾート使用権,items.json
+Item.80140,スイーツクーポン,items.json
+Item.80141,ミントチョコパフェ,items.json
+Item.80142,マカロン,items.json
+Item.80143,ロールウエハース,items.json
+Item.80151,お手玉,items.json
+Item.80152,ミレニアムの旗,items.json
+Item.80153,ホイッスル,items.json
+Item.80160,スポーツドリンク,items.json
+Item.80161,リレー用バトン,items.json
+Item.80162,あんぱん,items.json
+Item.80163,案内パンフレット,items.json
+Item.80170,クリスマスプレゼント,items.json
+Item.80171,クリスマスソックス,items.json
+Item.80172,キャンディケイン,items.json
+Item.80173,エッグノッグ,items.json
+Item.80181,紅白かまぼこ,items.json
+Item.80182,おめでタイ,items.json
+Item.80183,おみくじ引換券,items.json
+Item.80200,多次元演算回路,items.json
+Item.80201,次元エンジン付属品,items.json
+Item.80202,宇宙チョコバーガー,items.json
+Item.80203,ゲートアンロックコード - 外郭2区,items.json
+Item.80204,ゲートアンロックコード - 外郭3区,items.json
+Item.80205,ゲートアンロックコード - 中央区,items.json
+Item.80221,連邦生徒会の安全帽,items.json
+Item.80222,財務諸表,items.json
+Item.80223,めんたいポテチ,items.json
+Item.80230,きれいなカチューシャ,items.json
+Item.80231,メイクアップセット,items.json
+Item.80232,屋敷への招待状,items.json
+Item.80240,カードセット,items.json
+Item.80241,玄武商会の食券,items.json
+Item.80242,玄龍門バッジ,items.json
+Item.80243,溶媒抽出セット,items.json
+Item.80260,冷凍エビ,items.json
+Item.80261,小石,items.json
+Item.80262,貝殻,items.json
+Item.80263,乾いたヒトデ,items.json
+Item.80264,サイコロ確定券,items.json
+Item.80265,サイコロ1確定券,items.json
+Item.80266,サイコロ2確定券,items.json
+Item.80267,サイコロ3確定券,items.json
+Item.80268,サイコロ4確定券,items.json
+Item.80269,サイコロ5確定券,items.json
+Item.80270,サイコロ6確定券,items.json
+Item.80290,イベントPt,items.json
+Item.80291,羊皮紙の欠片,items.json
+Item.80292,レモン,items.json
+Item.80293,古びた鍵,items.json
+Item.85000,イベントPt（復刻）,items.json
+Item.85001,キツネせんべい（復刻）,items.json
+Item.85002,タヌキ印のお好み焼き（復刻）,items.json
+Item.85003,サクラ大福（復刻）,items.json
+Item.85010,チェリノマトリョーシカ（復刻）,items.json
+Item.85011,チェリノ印のチョコレート（復刻）,items.json
+Item.85012,おひげクレープ（復刻）,items.json
+Item.85013,勇猛髭勲章（復刻）,items.json
+Item.85021,ビーチボール（復刻）,items.json
+Item.85022,海の家の食券（復刻）,items.json
+Item.85023,ミニロケット花火（復刻）,items.json
+Item.85030,ゲヘナ印の補給ボックス（復刻）,items.json
+Item.85031,美食研究会の焼きトウモロコシ（復刻）,items.json
+Item.85032,夏のスケバンサングラス（復刻）,items.json
+Item.85033,びしょびしょヘルメット（復刻）,items.json
+Item.85041,コウラ茸（復刻）,items.json
+Item.85042,クロ筍（復刻）,items.json
+Item.85043,ヒトガタ人蔘（復刻）,items.json
+Item.85050,チョコレートコイン（復刻）,items.json
+Item.85051,ウサギのステッカー（復刻）,items.json
+Item.85052,乗船チケット（復刻）,items.json
+Item.85053,サイコロ（復刻）,items.json
+Item.85061,温泉タオル（復刻）,items.json
+Item.85062,おひげシャンプー（復刻）,items.json
+Item.85063,カピバラ型の入浴剤（復刻）,items.json
+Item.85070,福袋（復刻）,items.json
+Item.85071,ペロロ餅（復刻）,items.json
+Item.85072,黒亀組の絵馬（復刻）,items.json
+Item.85073,おみくじ引換券（復刻）,items.json
+Item.85081,問題児の反省文（復刻）,items.json
+Item.85082,押収された違法駄菓子（復刻）,items.json
+Item.85083,環境美化活動用ゴミ袋（復刻）,items.json
+Item.85084,バレンタインデーのお誘い（復刻）,items.json
+Item.85090,ワカモの逮捕状（復刻）,items.json
+Item.85101,シスターフッドのヴェール（復刻）,items.json
+Item.85102,トリニティの聖歌集（復刻）,items.json
+Item.85103,トリニティの燭台（復刻）,items.json
+Item.85110,ムシクイーンのカードパック（復刻）,items.json
+Item.85111,交流会のチラシ（復刻）,items.json
+Item.85112,和楽姫のうちわ（復刻）,items.json
+Item.85113,ニンペロさんグッズ（復刻）,items.json
+Item.85120,資材ボックス（復刻）,items.json
+Item.85140,スイーツクーポン（復刻）,items.json
+Item.85141,ミントチョコパフェ（復刻）,items.json
+Item.85142,マカロン（復刻）,items.json
+Item.85143,ロールウエハース（復刻）,items.json
+Item.100000,贈り物ボックス,items.json
+Item.100001,家具ボックス（☆3）,items.json
+Item.100008,贈り物選択ボックス,items.json
+Item.100009,高級贈り物ボックス,items.json
+Item.100013,装備ボックス,items.json
+Item.100023,オーパーツ（1）抽選ボックス,items.json
+Item.100024,オーパーツ（2）抽選ボックス,items.json
+Item.100025,オーパーツ（3）抽選ボックス,items.json
+Item.100026,オーパーツ（4）抽選ボックス,items.json
+Item.150000,初級技術ノート選択ボックス,items.json
+Item.150001,中級技術ノート選択ボックス,items.json
+Item.150002,上級技術ノート選択ボックス,items.json
+Item.150003,最上級技術ノート選択ボックス,items.json
+Item.150004,初級戦術教育BD選択ボックス,items.json
+Item.150005,中級戦術教育BD選択ボックス,items.json
+Item.150006,上級戦術教育BD選択ボックス,items.json
+Item.150007,最上級戦術教育BD選択ボックス,items.json
+Item.150008,オーパーツ（１）選択ボックス,items.json
+Item.150009,オーパーツ（２）選択ボックス,items.json
+Item.150010,オーパーツ（３）選択ボックス,items.json
+Item.150011,オーパーツ（４）選択ボックス,items.json
+Item.150015,最上級技術ノート選択ボックス,items.json
+Item.150028,T2装備設計図選択ボックス,items.json
+Item.150029,T3装備設計図選択ボックス,items.json
+Item.150030,T4装備設計図選択ボックス,items.json
+Item.150031,T5装備設計図選択ボックス,items.json
+Item.150032,T6装備設計図選択ボックス,items.json
+Item.150033,T7装備設計図選択ボックス,items.json
+Item.150038,家具選択ボックス（青）,items.json
+Item.150039,家具選択ボックス（橙）,items.json
+Item.150040,家具選択ボックス（紫）,items.json
+Item.151000,ノーマル家具シリーズ選択ボックス,items.json
+Item.151001,モモフレンズカフェシリーズ選択ボックス,items.json
+Item.151002,ゼリーズゲーセンシリーズ選択ボックス,items.json
+Item.151003,バレンタインシリーズ選択ボックス,items.json
+Item.151004,サマーリゾートシリーズ選択ボックス,items.json
+Item.151005,ハロウィーンカフェシリーズ選択ボックス,items.json
+Item.151006,伝統的な温泉郷シリーズ選択ボックス,items.json
+Item.151007,お正月シリーズ選択ボックス,items.json
+Item.151008,ミリタリーアウトドアシリーズ選択ボックス,items.json
+Item.151009,ビーチサイドシリーズ選択ボックス,items.json
+Item.151010,大運動会シリーズ選択ボックス,items.json
+Item.151011,アビドス教室シリーズ選択ボックス,items.json
+Item.151012,ゲーム開発部シリーズ選択ボックス,items.json
+Item.151013,サンシャインリゾートシリーズ選択ボックス,items.json
+Item.151999,その他シリーズ選択ボックス,items.json
+Item.160003,ミッションデータ2：TypeD-X,items.json
+Item.180000,スイートチョコポテトチップス,items.json
+Item.180001,エンジェルチョコレート,items.json
+Item.180002,お徳用チョコレートパック,items.json
+Item.180003,アロナのチョコジンジャークッキー,items.json
+Item.180004,バレンタインペロロ,items.json
+Item.180005,レーションD型,items.json
+Item.180006,ハッピーホットチョコレート,items.json
+Item.180007,ショコラ・デ・ゲヘナ,items.json
+Item.180008,大量の板チョコレート,items.json
+Item.180009,チョコ団子,items.json
+Item.180010,デス·ラブ,items.json
+Item.180011,ライダーの間食,items.json
+Item.180012,海のお友達,items.json
+Item.180013,砂漠のバラ,items.json
+Item.180014,ヴィーナスのチョコレート,items.json
+Item.180015,盗聴装置14号,items.json
+Item.180016,缶のホットココア,items.json
+Item.180017,パヴェ・チョコレート（領収書付き）,items.json
+Item.180018,勇者のチョコレート（アイテム）,items.json
+Item.180019,手作りチョコスネイル,items.json
+Item.180020,妖怪MAXチョコレート味,items.json
+Item.180021,チョコ味のスプレー,items.json
+Item.180022,チョコレート砲弾Mk.2,items.json
+Item.180023,チョコレートネジ,items.json
+Item.180024,チェリョンカ,items.json
+Item.180025,改良型チェリョンカ,items.json
+Item.180026,カカオの実,items.json
+Item.180027,不老不死の霊薬(失敗作),items.json
+Item.180028,大人のラムボンボン,items.json
+Item.180029,チョコレート手錠,items.json
+Item.180030,特製チョコクルーラー,items.json
+Item.180031,チョコ埴輪,items.json
+Item.180032,リトル·ブレット,items.json
+Item.180033,ヒナの手作りチョコレート,items.json
+Item.180034,あなたのための一口の休息,items.json
+Item.180035,すごく！おいしい！！チョコレート！！！,items.json
+Item.180036,社長の最高級チョコレート,items.json
+Item.180037,地獄のロシアンルーレット,items.json
+Item.180038,ココアが入ったマグカップ,items.json
+Item.180039,ジュリの手作りチョコレート,items.json
+Item.180040,共にする時間,items.json
+Item.180041,おやつ担当のお仕事,items.json
+Item.180042,選りすぐりの一品,items.json
+Item.180043,カシオペアの拳～ウーパールーパー大列伝～,items.json
+Item.180044,ミドリの手作りチョコレート,items.json
+Item.180045,四字熟語チョコ煎餅,items.json
+Item.180046,百夜堂の限定スイーツ,items.json
+Item.180047,特製忍者グッズ49番「チョコレートセット」,items.json
+Item.180048,安眠チョコレートと安眠グッズセット,items.json
+Item.180049,ワカモの愛がこもったチョコレート,items.json
+Item.180050,美食の証明（抹茶味）,items.json
+Item.180051,バレンタインの聖者スカルマン,items.json
+Item.180052,ラブリー·クロスライン,items.json
+Item.180053,トゥインクルスター,items.json
+Item.180054,ホーリー・チョコレート,items.json
+Item.180055,本のお友,items.json
+Item.180056,ビー·ウィズ·ユー,items.json
+Item.180057,ペニーロイヤルチョコミント,items.json
+Item.180058,ヨシミの限定チョコレート,items.json
+Item.180059,言葉よりチョコレート,items.json
+Item.180060,フォーチュンチョコレート（自作）,items.json
+Item.180061,バンデージチョコ,items.json
+Item.180062,カカオ99.99%,items.json
+Item.180063,ツイステッドバレンタイン,items.json
+Item.180064,メイド·バイ,items.json
+Item.180065,チョコオムライス,items.json
+Item.180066,チョコレート版画：竜,items.json
+Item.180067,バレンタイン·ビギニング,items.json
+Item.180068,甘い杯,items.json
+Item.180069,アマンド·クリムゾン,items.json
+Item.180070,不器用な手作りチョコレート,items.json
+Item.180071,小さなショコラ,items.json
+Item.180072,しっとりめのチョコクッキー,items.json
+Item.180073,苺のチョコケーキ,items.json
+Item.180074,オール・トゥ・ユー,items.json
+Item.180075,丁寧なラッピング済みチョコレート,items.json
+Item.180076,青いバラとチョコレート,items.json
+Item.180077,ギディバのチョコレート,items.json
+Item.180078,桜チョコレート,items.json
+Item.180079,最強のチョコサウルス,items.json
+Item.180080,とろけるロップイヤーチョコ,items.json
+Item.180081,超天才清楚系病弱美少女ハッカー&#x27;sチョコレート,items.json
+Item.180082,イロハの手作りスティックチョコ,items.json
+Item.180083,忍術研究部のバッジ型チョコレート,items.json
+Item.180084,チョコを用いたキャロットケーキ,items.json
+Item.180085,チョコレートスモア,items.json
+Item.180086,補給品のチョコレートキャラメル,items.json
+Item.180087,チョコレートバーク,items.json
+Item.180088,チョコレートインク,items.json
+Item.180089,特別功労勲章チョコレート,items.json
+Item.180090,シグレ・ビタースペシャル,items.json
+Item.180091,ヒヨコ型のチョコレート,items.json
+Item.180092,ドライグレープフルーツのチョコがけ,items.json
+Item.190000,初級技術ノート抽選ボックス,items.json
+Item.190001,中級技術ノート抽選ボックス,items.json
+Item.190002,上級技術ノート抽選ボックス,items.json
+Item.190003,最上級技術ノート抽選ボックス,items.json
+Item.190010,初級戦術教育BD抽選ボックス,items.json
+Item.190011,中級戦術教育BD抽選ボックス,items.json
+Item.190012,上級戦術教育BD抽選ボックス,items.json
+Item.190013,最上級戦術教育BD抽選ボックス,items.json
+Item.191000,ノーマル家具シリーズ抽選ボックス,items.json
+Item.191001,モモフレンズカフェシリーズ抽選ボックス,items.json
+Item.191002,ゼリーズゲーセンシリーズ抽選ボックス,items.json
+Item.191003,バレンタインシリーズ抽選ボックス,items.json
+Item.191004,サマーリゾートシリーズ抽選ボックス,items.json
+Item.191005,ハロウィーンカフェシリーズ抽選ボックス,items.json
+Item.191006,伝統的な温泉郷シリーズ抽選ボックス,items.json
+Item.191007,お正月シリーズ抽選ボックス,items.json
+Item.191008,ミリタリーアウトドアシリーズ抽選ボックス,items.json
+Item.191009,ビーチサイドシリーズ抽選ボックス,items.json
+Item.191010,大運動会シリーズ抽選ボックス,items.json
+Item.191011,アビドス教室シリーズ抽選ボックス,items.json
+Item.191012,ゲーム開発部シリーズ抽選ボックス,items.json
+Item.191013,サンシャインリゾートシリーズ抽選ボックス,items.json
+Item.191991,家具抽選ボックス（青）,items.json
+Item.191992,家具抽選ボックス（橙）,items.json
+Item.191993,家具抽選ボックス（紫）,items.json
+Item.191999,その他シリーズ抽選ボックス,items.json
+Item.200000,プレナパテスの大人のカード,items.json
+Item.200001,粉々になった大人のカード,items.json

@@ -1,0 +1,650 @@
+﻿id,term,src_table
+Item.1,기동석 조각,items.json
+Item.2,부스터 티켓,items.json
+Item.3,기동석,items.json
+Item.7,총력전 코인,items.json
+Item.8,전술 대회 코인,items.json
+Item.9,상급 총력전 코인,items.json
+Item.10,초급 활동 보고서,items.json
+Item.11,일반 활동 보고서,items.json
+Item.12,상급 활동 보고서,items.json
+Item.13,최상급 활동 보고서,items.json
+Item.23,엘리그마,items.json
+Item.30,카페 설비 코어 LV1,items.json
+Item.31,카페 설비 코어 LV2,items.json
+Item.32,카페 설비 코어 LV3,items.json
+Item.60,종합전술시험 코인,items.json
+Item.61,현상수배 코인,items.json
+Item.70,대결전 코인,items.json
+Item.71,상급 대결전 코인,items.json
+Item.80,하급 합성용 기동석,items.json
+Item.81,일반 합성용 기동석,items.json
+Item.82,상급 합성용 기동석,items.json
+Item.83,최상급 합성용 기동석,items.json
+Item.90,하급 제조용 마테리얼,items.json
+Item.91,일반 제조용 마테리얼,items.json
+Item.92,상급 제조용 마테리얼,items.json
+Item.100,네브라 디스크 조각,items.json
+Item.101,파손된 네브라 디스크,items.json
+Item.102,마모된 네브라 디스크,items.json
+Item.103,온전한 네브라 디스크,items.json
+Item.110,파에스토스 원반 조각,items.json
+Item.111,파손된 파에스토스 원반,items.json
+Item.112,마모된 파에스토스 원반,items.json
+Item.113,온전한 파에스토스 원반,items.json
+Item.120,볼프세크 철광석,items.json
+Item.121,볼프세크 철조각,items.json
+Item.122,저순도 볼프세크 강철,items.json
+Item.123,고순도 볼프세크 강철,items.json
+Item.130,님루드 렌즈 조각,items.json
+Item.131,파손된 님루드 렌즈,items.json
+Item.132,마모된 님루드 렌즈,items.json
+Item.133,온전한 님루드 렌즈,items.json
+Item.140,만드라고라 씨앗,items.json
+Item.141,만드라고라 새싹,items.json
+Item.142,만드라고라 주스,items.json
+Item.143,만드라고라 농축액,items.json
+Item.150,로혼치 사본 페이지,items.json
+Item.151,훼손된 로혼치 사본,items.json
+Item.152,편집된 로혼치 사본,items.json
+Item.153,온전한 로혼치 사본,items.json
+Item.160,에테르 가루,items.json
+Item.161,에테르 조각,items.json
+Item.162,에테르 결정,items.json
+Item.163,에테르 정수,items.json
+Item.170,안티키테라 장치 조각,items.json
+Item.171,파손된 안티키테라 장치,items.json
+Item.172,마모된 안티키테라 장치,items.json
+Item.173,온전한 안티키테라 장치,items.json
+Item.180,보이니치 사본 페이지,items.json
+Item.181,훼손된 보이니치 사본,items.json
+Item.182,편집된 보이니치 사본,items.json
+Item.183,온전한 보이니치 사본,items.json
+Item.190,수정 하니와 파편,items.json
+Item.191,파손된 수정 하니와,items.json
+Item.192,수리된 수정 하니와,items.json
+Item.193,온전한 수정 하니와,items.json
+Item.200,토템폴 조각,items.json
+Item.201,파손된 토템폴,items.json
+Item.202,수리된 토템폴,items.json
+Item.203,온전한 토템폴,items.json
+Item.210,고대 전지 조각,items.json
+Item.211,파손된 고대 전지,items.json
+Item.212,마모된 고대 전지,items.json
+Item.213,온전한 고대 전지,items.json
+Item.220,황금 양털,items.json
+Item.221,황금 털실,items.json
+Item.222,황금 양모,items.json
+Item.223,황금 드레스,items.json
+Item.230,머리가 자라는 인형 조각,items.json
+Item.231,파손된 머리가 자라는 인형,items.json
+Item.232,수리된 머리가 자라는 인형,items.json
+Item.233,온전한 머리가 자라는 인형,items.json
+Item.240,디스코 콜간테 조각,items.json
+Item.241,파손된 디스코 콜간테,items.json
+Item.242,수리된 디스코 콜간테,items.json
+Item.243,온전한 디스코 콜간테,items.json
+Item.250,아틀란티스 메달 조각,items.json
+Item.251,파손된 아틀란티스 메달,items.json
+Item.252,마모된 아틀란티스 메달,items.json
+Item.253,온전한 아틀란티스 메달,items.json
+Item.260,로마 12면체 조각,items.json
+Item.261,파손된 로마 12면체,items.json
+Item.262,수리된 로마 12면체,items.json
+Item.263,온전한 로마 12면체,items.json
+Item.290,위니페소키 스톤 조각,items.json
+Item.291,파손된 위니페소키 스톤,items.json
+Item.292,마모된 위니페소키 스톤,items.json
+Item.293,온전한 위니페소키 스톤,items.json
+Item.3000,기초 전술 교육 BD (백귀야행),items.json
+Item.3001,일반 전술 교육 BD (백귀야행),items.json
+Item.3002,상급 전술 교육 BD (백귀야행),items.json
+Item.3003,최상급 전술 교육 BD (백귀야행),items.json
+Item.3010,기초 전술 교육 BD (붉은겨울),items.json
+Item.3011,일반 전술 교육 BD (붉은겨울),items.json
+Item.3012,상급 전술 교육 BD (붉은겨울),items.json
+Item.3013,최상급 전술 교육 BD (붉은겨울),items.json
+Item.3020,기초 전술 교육 BD (트리니티),items.json
+Item.3021,일반 전술 교육 BD (트리니티),items.json
+Item.3022,상급 전술 교육 BD (트리니티),items.json
+Item.3023,최상급 전술 교육 BD (트리니티),items.json
+Item.3030,기초 전술 교육 BD (게헨나),items.json
+Item.3031,일반 전술 교육 BD (게헨나),items.json
+Item.3032,상급 전술 교육 BD (게헨나),items.json
+Item.3033,최상급 전술 교육 BD (게헨나),items.json
+Item.3040,기초 전술 교육 BD (아비도스),items.json
+Item.3041,일반 전술 교육 BD (아비도스),items.json
+Item.3042,상급 전술 교육 BD (아비도스),items.json
+Item.3043,최상급 전술 교육 BD (아비도스),items.json
+Item.3050,기초 전술 교육 BD (밀레니엄),items.json
+Item.3051,일반 전술 교육 BD (밀레니엄),items.json
+Item.3052,상급 전술 교육 BD (밀레니엄),items.json
+Item.3053,최상급 전술 교육 BD (밀레니엄),items.json
+Item.3060,기초 전술 교육 BD (아리우스),items.json
+Item.3061,일반 전술 교육 BD (아리우스),items.json
+Item.3062,상급 전술 교육 BD (아리우스),items.json
+Item.3063,최상급 전술 교육 BD (아리우스),items.json
+Item.3070,기초 전술 교육 BD (산해경),items.json
+Item.3071,일반 전술 교육 BD (산해경),items.json
+Item.3072,상급 전술 교육 BD (산해경),items.json
+Item.3073,최상급 전술 교육 BD (산해경),items.json
+Item.3080,기초 전술 교육 BD (발키리),items.json
+Item.3081,일반 전술 교육 BD (발키리),items.json
+Item.3082,상급 전술 교육 BD (발키리),items.json
+Item.3083,최상급 전술 교육 BD (발키리),items.json
+Item.4000,기초 기술 노트 (백귀야행),items.json
+Item.4001,일반 기술 노트 (백귀야행),items.json
+Item.4002,상급 기술 노트 (백귀야행),items.json
+Item.4003,최상급 기술 노트 (백귀야행),items.json
+Item.4010,기초 기술 노트 (붉은겨울),items.json
+Item.4011,일반 기술 노트 (붉은겨울),items.json
+Item.4012,상급 기술 노트 (붉은겨울),items.json
+Item.4013,최상급 기술 노트 (붉은겨울),items.json
+Item.4020,기초 기술 노트 (트리니티),items.json
+Item.4021,일반 기술 노트 (트리니티),items.json
+Item.4022,상급 기술 노트 (트리니티),items.json
+Item.4023,최상급 기술 노트 (트리니티),items.json
+Item.4030,기초 기술 노트 (게헨나),items.json
+Item.4031,일반 기술 노트 (게헨나),items.json
+Item.4032,상급 기술 노트 (게헨나),items.json
+Item.4033,최상급 기술 노트 (게헨나),items.json
+Item.4040,기초 기술 노트 (아비도스),items.json
+Item.4041,일반 기술 노트 (아비도스),items.json
+Item.4042,상급 기술 노트 (아비도스),items.json
+Item.4043,최상급 기술 노트 (아비도스),items.json
+Item.4050,기초 기술 노트 (밀레니엄),items.json
+Item.4051,일반 기술 노트 (밀레니엄),items.json
+Item.4052,상급 기술 노트 (밀레니엄),items.json
+Item.4053,최상급 기술 노트 (밀레니엄),items.json
+Item.4060,기초 기술 노트 (아리우스),items.json
+Item.4061,일반 기술 노트 (아리우스),items.json
+Item.4062,상급 기술 노트 (아리우스),items.json
+Item.4063,최상급 기술 노트 (아리우스),items.json
+Item.4070,기초 기술 노트 (산해경),items.json
+Item.4071,일반 기술 노트 (산해경),items.json
+Item.4072,상급 기술 노트 (산해경),items.json
+Item.4073,최상급 기술 노트 (산해경),items.json
+Item.4080,기초 기술 노트 (발키리),items.json
+Item.4081,일반 기술 노트 (발키리),items.json
+Item.4082,상급 기술 노트 (발키리),items.json
+Item.4083,최상급 기술 노트 (발키리),items.json
+Item.7001,작전 데이터1: D Type,items.json
+Item.9998,비의서 조각,items.json
+Item.9999,비의서,items.json
+Item.10000,아루의 엘레프,items.json
+Item.10001,에이미의 엘레프,items.json
+Item.10002,하루나의 엘레프,items.json
+Item.10003,히후미의 엘레프,items.json
+Item.10004,히나의 엘레프,items.json
+Item.10005,호시노의 엘레프,items.json
+Item.10006,이오리의 엘레프,items.json
+Item.10007,마키의 엘레프,items.json
+Item.10008,네루의 엘레프,items.json
+Item.10009,이즈미의 엘레프,items.json
+Item.10010,시로코의 엘레프,items.json
+Item.10011,슌의 엘레프,items.json
+Item.10012,스미레의 엘레프,items.json
+Item.10013,츠루기의 엘레프,items.json
+Item.10014,이즈나의 엘레프,items.json
+Item.10015,아리스의 엘레프,items.json
+Item.10016,미도리의 엘레프,items.json
+Item.10017,체리노의 엘레프,items.json
+Item.10018,유즈의 엘레프,items.json
+Item.10019,아즈사의 엘레프,items.json
+Item.10020,코하루의 엘레프,items.json
+Item.10021,아즈사(수영복)의 엘레프,items.json
+Item.10022,히나(수영복)의 엘레프,items.json
+Item.10023,이오리(수영복)의 엘레프,items.json
+Item.10024,시로코(라이딩)의 엘레프,items.json
+Item.10025,슌(어린이)의 엘레프,items.json
+Item.10026,네루(바니걸)의 엘레프,items.json
+Item.10027,카린(바니걸)의 엘레프,items.json
+Item.10028,아스나(바니걸)의 엘레프,items.json
+Item.10029,나츠의 엘레프,items.json
+Item.10030,치나츠(온천)의 엘레프,items.json
+Item.10031,아루(새해)의 엘레프,items.json
+Item.10032,무츠키(새해)의 엘레프,items.json
+Item.10033,와카모의 엘레프,items.json
+Item.10034,미모리의 엘레프,items.json
+Item.10035,우이의 엘레프,items.json
+Item.10036,히나타의 엘레프,items.json
+Item.10037,마리나의 엘레프,items.json
+Item.10038,미야코의 엘레프,items.json
+Item.10039,미유의 엘레프,items.json
+Item.10040,츠쿠요의 엘레프,items.json
+Item.10041,미사키의 엘레프,items.json
+Item.10042,아츠코의 엘레프,items.json
+Item.10043,와카모(수영복)의 엘레프,items.json
+Item.10044,노노미(수영복)의 엘레프,items.json
+Item.10045,호시노(수영복)의 엘레프,items.json
+Item.10046,이즈나(수영복)의 엘레프,items.json
+Item.10047,치세(수영복)의 엘레프,items.json
+Item.10048,사오리의 엘레프,items.json
+Item.10049,카즈사의 엘레프,items.json
+Item.10050,코코나의 엘레프,items.json
+Item.10051,우타하(응원단)의 엘레프,items.json
+Item.10052,노아의 엘레프,items.json
+Item.10053,유우카(체육복)의 엘레프,items.json
+Item.10054,마리(체육복)의 엘레프,items.json
+Item.10055,시구레의 엘레프,items.json
+Item.10056,세리나(크리스마스)의 엘레프,items.json
+Item.10057,하루나(새해)의 엘레프,items.json
+Item.10058,미네의 엘레프,items.json
+Item.10059,미카의 엘레프,items.json
+Item.10060,메구의 엘레프,items.json
+Item.10061,사쿠라코의 엘레프,items.json
+Item.10062,토키의 엘레프,items.json
+Item.10063,코유키의 엘레프,items.json
+Item.10064,카요코(새해)의 엘레프,items.json
+Item.10065,카호의 엘레프,items.json
+Item.10066,아리스(메이드)의 엘레프,items.json
+Item.10067,토키(바니걸)의 엘레프,items.json
+Item.10068,레이사의 엘레프,items.json
+Item.10069,루미의 엘레프,items.json
+Item.10070,미나의 엘레프,items.json
+Item.10071,미야코(수영복)의 엘레프,items.json
+Item.10072,사키(수영복)의 엘레프,items.json
+Item.10073,우이(수영복)의 엘레프,items.json
+Item.10074,하나코(수영복)의 엘레프,items.json
+Item.13000,아카네의 엘레프,items.json
+Item.13001,치세의 엘레프,items.json
+Item.13002,아카리의 엘레프,items.json
+Item.13003,하스미의 엘레프,items.json
+Item.13004,노노미의 엘레프,items.json
+Item.13005,카요코의 엘레프,items.json
+Item.13006,무츠키의 엘레프,items.json
+Item.13007,준코의 엘레프,items.json
+Item.13008,세리카의 엘레프,items.json
+Item.13009,츠바키의 엘레프,items.json
+Item.13010,유우카의 엘레프,items.json
+Item.13011,모모이의 엘레프,items.json
+Item.13012,키리노의 엘레프,items.json
+Item.16000,하루카의 엘레프,items.json
+Item.16001,아스나의 엘레프,items.json
+Item.16002,코토리의 엘레프,items.json
+Item.16003,스즈미의 엘레프,items.json
+Item.16004,피나의 엘레프,items.json
+Item.16005,츠루기(수영복)의 엘레프,items.json
+Item.16006,이즈미(수영복)의 엘레프,items.json
+Item.16007,토모에의 엘레프,items.json
+Item.16008,후부키의 엘레프,items.json
+Item.16009,미치루의 엘레프,items.json
+Item.16010,히비키(응원단)의 엘레프,items.json
+Item.16011,하스미(체육복)의 엘레프,items.json
+Item.16012,준코(새해)의 엘레프,items.json
+Item.16013,코하루(수영복)의 엘레프,items.json
+Item.20000,히비키의 엘레프,items.json
+Item.20001,카린의 엘레프,items.json
+Item.20002,사야의 엘레프,items.json
+Item.20003,마시로의 엘레프,items.json
+Item.20004,마시로(수영복)의 엘레프,items.json
+Item.20005,히후미(수영복)의 엘레프,items.json
+Item.20006,사야(사복)의 엘레프,items.json
+Item.20007,하츠네 미쿠의 엘레프,items.json
+Item.20008,아코의 엘레프,items.json
+Item.20009,체리노(온천)의 엘레프,items.json
+Item.20010,노도카(온천)의 엘레프,items.json
+Item.20011,세리카(새해)의 엘레프,items.json
+Item.20012,세나의 엘레프,items.json
+Item.20013,치히로의 엘레프,items.json
+Item.20014,사키의 엘레프,items.json
+Item.20015,카에데의 엘레프,items.json
+Item.20016,이로하의 엘레프,items.json
+Item.20017,히요리의 엘레프,items.json
+Item.20018,모에의 엘레프,items.json
+Item.20019,아카네(바니걸)의 엘레프,items.json
+Item.20020,히마리의 엘레프,items.json
+Item.20021,하나에(크리스마스)의 엘레프,items.json
+Item.20022,후우카(새해)의 엘레프,items.json
+Item.20023,칸나의 엘레프,items.json
+Item.20024,나기사의 엘레프,items.json
+Item.20025,하루카(새해)의 엘레프,items.json
+Item.20026,미노리의 엘레프,items.json
+Item.20027,시로코(수영복)의 엘레프,items.json
+Item.20028,히나타(수영복)의 엘레프,items.json
+Item.23000,아이리의 엘레프,items.json
+Item.23001,후우카의 엘레프,items.json
+Item.23002,하나에의 엘레프,items.json
+Item.23003,하레의 엘레프,items.json
+Item.23004,우타하의 엘레프,items.json
+Item.23005,아야네의 엘레프,items.json
+Item.23006,시즈코의 엘레프,items.json
+Item.23007,하나코의 엘레프,items.json
+Item.23008,마리의 엘레프,items.json
+Item.26000,치나츠의 엘레프,items.json
+Item.26001,코타마의 엘레프,items.json
+Item.26002,주리의 엘레프,items.json
+Item.26003,세리나의 엘레프,items.json
+Item.26004,시미코의 엘레프,items.json
+Item.26005,요시미의 엘레프,items.json
+Item.26006,노도카의 엘레프,items.json
+Item.26007,아야네(수영복)의 엘레프,items.json
+Item.26008,시즈코(수영복)의 엘레프,items.json
+Item.26009,유즈(메이드)의 엘레프,items.json
+Item.26010,미유(수영복)의 엘레프,items.json
+Item.30000,기초 전술 교육 BD 상자,items.json
+Item.30001,일반 전술 교육 BD 상자,items.json
+Item.30002,상급 전술 교육 BD 상자,items.json
+Item.30003,최상급 전술 교육 BD 상자,items.json
+Item.40000,기초 기술 노트 상자,items.json
+Item.40001,일반 기술 노트 상자,items.json
+Item.40002,상급 기술 노트 상자,items.json
+Item.40003,최상급 기술 노트 상자,items.json
+Item.80000,이벤트 포인트,items.json
+Item.80001,여우여우 센베이,items.json
+Item.80002,너구리 오코노미야키,items.json
+Item.80003,벚꽃 찹쌀떡,items.json
+Item.80010,체리노 마트료시카,items.json
+Item.80011,체룐카 초콜릿,items.json
+Item.80012,수염 크레이프,items.json
+Item.80013,붉은 수염 훈장,items.json
+Item.80021,비치발리볼,items.json
+Item.80022,바다의 집 식권,items.json
+Item.80023,이상한 폭죽,items.json
+Item.80024,아이스박스,items.json
+Item.80025,모래놀이 세트,items.json
+Item.80026,비치 체어,items.json
+Item.80027,파라솔 테이블,items.json
+Item.80028,물놀이 장비,items.json
+Item.80029,세일링 보드,items.json
+Item.80030,게헨나의 교표가 찍힌 보급상자,items.json
+Item.80031,미식연구회의 군옥수수,items.json
+Item.80032,여름용 불량배 선글라스,items.json
+Item.80033,첨벙첨벙 헬멧,items.json
+Item.80041,거북 버섯,items.json
+Item.80042,오죽순,items.json
+Item.80043,인형삼,items.json
+Item.80050,초콜릿 코인,items.json
+Item.80051,토끼 스티커,items.json
+Item.80052,승선권,items.json
+Item.80053,주사위,items.json
+Item.80061,온천 타월,items.json
+Item.80062,수염 샴푸,items.json
+Item.80063,카피바라 입욕제,items.json
+Item.80070,특제 신년 복주머니,items.json
+Item.80071,페로로 거울떡,items.json
+Item.80072,검은거북파 에마,items.json
+Item.80073,새해 오미쿠지 뽑기권,items.json
+Item.80081,문제아의 반성문,items.json
+Item.80082,압수한 불량 막과자,items.json
+Item.80083,환경미화활동용 규격 봉투,items.json
+Item.80084,발렌타인 데이 외출권,items.json
+Item.80090,와카모 체포 영장,items.json
+Item.80101,미사보,items.json
+Item.80102,성가책,items.json
+Item.80103,성당 촛대,items.json
+Item.80110,무시퀸 카드팩,items.json
+Item.80111,학원교류회 전단지,items.json
+Item.80112,와라쿠 공주님 부채,items.json
+Item.80113,닌페로 씨 인형 굿즈,items.json
+Item.80120,자재 상자,items.json
+Item.80130,지역화폐,items.json
+Item.80131,백야당 번쩍번쩍 코인,items.json
+Item.80132,반들반들 소라고둥,items.json
+Item.80133,여름용 인법도감 두루마리,items.json
+Item.80134,해양심층수온천섬 리조트 사용권,items.json
+Item.80135,무시퀸 크루즈 리조트 사용권,items.json
+Item.80136,초호화 리조트 사용권,items.json
+Item.80140,디저트 쿠폰,items.json
+Item.80141,민트초코 파르페,items.json
+Item.80142,마카롱,items.json
+Item.80143,롤웨하스,items.json
+Item.80151,오자미,items.json
+Item.80152,밀레니엄 깃발,items.json
+Item.80153,호루라기,items.json
+Item.80160,스포츠 드링크,items.json
+Item.80161,계주용 배턴,items.json
+Item.80162,단팥빵,items.json
+Item.80163,안내 팸플릿,items.json
+Item.80170,크리스마스 선물,items.json
+Item.80171,크리스마스 양말,items.json
+Item.80172,캔디 케인,items.json
+Item.80173,에그노그,items.json
+Item.80181,홍백 어묵,items.json
+Item.80182,참돔,items.json
+Item.80183,오미쿠지 교환권,items.json
+Item.80200,다차원 연산 회로,items.json
+Item.80201,차원엔진 부속품,items.json
+Item.80202,우주 초코버거,items.json
+Item.80203,게이트 언락 코드 - 외곽 2지구,items.json
+Item.80204,게이트 언락 코드 - 외곽 3지구,items.json
+Item.80205,게이트 언락 코드 - 중앙 지구,items.json
+Item.80221,총학생회의 안전모,items.json
+Item.80222,재무보고서,items.json
+Item.80223,명란 과자,items.json
+Item.80230,깨끗한 카츄샤,items.json
+Item.80231,화장 도구,items.json
+Item.80232,고저택의 초대장,items.json
+Item.80240,카드 묶음,items.json
+Item.80241,현무상회 식권,items.json
+Item.80242,현룡문 배지,items.json
+Item.80243,용매 추출 세트,items.json
+Item.80260,냉동 새우,items.json
+Item.80261,조약돌,items.json
+Item.80262,조개 껍데기,items.json
+Item.80263,마른 불가사리,items.json
+Item.80264,주사위 확정권,items.json
+Item.80265,주사위 1 확정권,items.json
+Item.80266,주사위 2 확정권,items.json
+Item.80267,주사위 3 확정권,items.json
+Item.80268,주사위 4 확정권,items.json
+Item.80269,주사위 5 확정권,items.json
+Item.80270,주사위 6 확정권,items.json
+Item.80290,이벤트 포인트,items.json
+Item.80291,양피지 조각,items.json
+Item.80292,레몬 열매,items.json
+Item.80293,오래된 열쇠,items.json
+Item.85000,이벤트 포인트(복각),items.json
+Item.85001,여우여우 센베이(복각),items.json
+Item.85002,너구리 오코노미야키(복각),items.json
+Item.85003,벚꽃 찹쌀떡(복각),items.json
+Item.85010,체리노 마트료시카(복각),items.json
+Item.85011,체룐카 초콜릿(복각),items.json
+Item.85012,수염 크레이프(복각),items.json
+Item.85013,붉은 수염 훈장(복각),items.json
+Item.85021,비치발리볼(복각),items.json
+Item.85022,바다의 집 식권(복각),items.json
+Item.85023,이상한 폭죽(복각),items.json
+Item.85030,게헨나의 교표가 찍힌 보급상자(복각),items.json
+Item.85031,미식연구회의 군옥수수(복각),items.json
+Item.85032,여름용 불량배 선글라스(복각),items.json
+Item.85033,첨벙첨벙 헬멧(복각),items.json
+Item.85041,거북 버섯(복각),items.json
+Item.85042,오죽순(복각),items.json
+Item.85043,인형삼(복각),items.json
+Item.85050,초콜릿 코인(복각),items.json
+Item.85051,토끼 스티커(복각),items.json
+Item.85052,승선권(복각),items.json
+Item.85053,주사위(복각),items.json
+Item.85061,온천 타월(복각),items.json
+Item.85062,수염 샴푸(복각),items.json
+Item.85063,카피바라 입욕제(복각),items.json
+Item.85070,특제 신년 복주머니(복각),items.json
+Item.85071,페로로 거울떡(복각),items.json
+Item.85072,검은거북파 에마(복각),items.json
+Item.85073,새해 오미쿠지 뽑기권(복각),items.json
+Item.85081,문제아의 반성문(복각),items.json
+Item.85082,압수한 불량 막과자(복각),items.json
+Item.85083,환경미화활동용 규격 봉투(복각),items.json
+Item.85084,발렌타인 데이 외출권(복각),items.json
+Item.85090,와카모 체포 영장(복각),items.json
+Item.85101,미사보(복각),items.json
+Item.85102,성가책(복각),items.json
+Item.85103,성당 촛대(복각),items.json
+Item.85110,무시퀸 카드팩(복각),items.json
+Item.85111,학원교류회 전단지(복각),items.json
+Item.85112,와라쿠 공주님 부채(복각),items.json
+Item.85113,닌페로 씨 인형 굿즈(복각),items.json
+Item.85120,자재 상자(복각),items.json
+Item.85140,디저트 쿠폰(복각),items.json
+Item.85141,민트초코 파르페(복각),items.json
+Item.85142,마카롱(복각),items.json
+Item.85143,롤웨하스(복각),items.json
+Item.100000,선물 상자,items.json
+Item.100001,가구 박스(☆3),items.json
+Item.100008,선물 선택 상자,items.json
+Item.100009,고급 선물 상자,items.json
+Item.100013,장비 상자,items.json
+Item.100023,오파츠 추첨권1,items.json
+Item.100024,오파츠 추첨권2,items.json
+Item.100025,오파츠 추첨권3,items.json
+Item.100026,오파츠 추첨권4,items.json
+Item.150000,기초 기술 노트 선택권,items.json
+Item.150001,일반 기술 노트 선택권,items.json
+Item.150002,상급 기술 노트 선택권,items.json
+Item.150003,최상급 기술 노트 선택권,items.json
+Item.150004,기초 전술 교육 BD 선택권,items.json
+Item.150005,일반 전술 교육 BD 선택권,items.json
+Item.150006,상급 전술 교육 BD 선택권,items.json
+Item.150007,최상급 전술 교육 BD 선택권,items.json
+Item.150008,오파츠 선택권1,items.json
+Item.150009,오파츠 선택권2,items.json
+Item.150010,오파츠 선택권3,items.json
+Item.150011,오파츠 선택권4,items.json
+Item.150015,최상급 기술 노트 선택권,items.json
+Item.150028,T2 장비 설계도 선택권,items.json
+Item.150029,T3 장비 설계도 선택권,items.json
+Item.150030,T4 장비 설계도 선택권,items.json
+Item.150031,T5 장비 설계도 선택권,items.json
+Item.150032,T6 장비 설계도 선택권,items.json
+Item.150033,T7 장비 설계도 선택권,items.json
+Item.150038,일반 가구 선택 상자,items.json
+Item.150039,상급 가구 선택 상자,items.json
+Item.150040,최상급 가구 선택 상자,items.json
+Item.151000,기초 가구 선택권,items.json
+Item.151001,모모프렌즈 테마 가구 선택권,items.json
+Item.151002,젤리즈 오락실 테마 가구 선택권,items.json
+Item.151003,발렌타인 테마 가구 선택권,items.json
+Item.151004,여름 리조트 테마 가구 선택권,items.json
+Item.151005,할로윈 테마 가구 선택권,items.json
+Item.151006,전통 온천장 테마 가구 선택권,items.json
+Item.151007,새해 테마 가구 선택권,items.json
+Item.151008,밀리터리 캠핑장 테마 가구 선택권,items.json
+Item.151009,비치사이드 테마 가구 선택권,items.json
+Item.151010,대운동회 테마 가구 선택권,items.json
+Item.151011,아비도스 교실 테마 가구 선택권,items.json
+Item.151012,게임개발부 테마 가구 선택권,items.json
+Item.151013,선샤인 리조트 테마 가구 선택권,items.json
+Item.151999,기타 테마 가구 선택권,items.json
+Item.160003,작전 데이터2: D-X Type,items.json
+Item.180000,스위트 초코 감자칩,items.json
+Item.180001,엔젤 초콜릿,items.json
+Item.180002,대용량 미니 초콜릿,items.json
+Item.180003,아로나의 초코 진저 쿠키,items.json
+Item.180004,발렌타인 페로로,items.json
+Item.180005,레이션 D형,items.json
+Item.180006,해피 핫 초콜릿,items.json
+Item.180007,쇼콜라데 게헨나,items.json
+Item.180008,대량의 판 초콜릿,items.json
+Item.180009,초코 당고,items.json
+Item.180010,데스 러브,items.json
+Item.180011,라이더의 간식,items.json
+Item.180012,초콜릿 바다의 친구들,items.json
+Item.180013,사막의 장미,items.json
+Item.180014,비너스의 초콜릿,items.json
+Item.180015,도청장치 14호,items.json
+Item.180016,핫 코코아 캔,items.json
+Item.180017,파베 초콜릿 세트 (영수증 첨부),items.json
+Item.180018,용사의 초콜릿 (아이템),items.json
+Item.180019,수제 초코 스네일,items.json
+Item.180020,초코맛 요괴 MAX,items.json
+Item.180021,초코맛 스프레이,items.json
+Item.180022,초콜릿 포탄 Mk.2,items.json
+Item.180023,초콜릿 나사,items.json
+Item.180024,체룐카,items.json
+Item.180025,개량형 체룐카,items.json
+Item.180026,카카오 열매,items.json
+Item.180027,불로불사의 영약 (실패작),items.json
+Item.180028,어른의 럼 봉봉,items.json
+Item.180029,초콜릿 수갑,items.json
+Item.180030,특제 초코 트롤러,items.json
+Item.180031,초코 하니와,items.json
+Item.180032,리틀 불렛,items.json
+Item.180033,히나의 수제 풍기 초콜릿,items.json
+Item.180034,당신을 위한 한 입의 휴식,items.json
+Item.180035,엄청! 맛있는! 초콜릿!,items.json
+Item.180036,사장님의 최고급 초콜릿,items.json
+Item.180037,지옥의 러시안룰렛,items.json
+Item.180038,코코아가 담긴 머그잔,items.json
+Item.180039,주리의 전력을 다한 초콜릿,items.json
+Item.180040,함께 한 시간의 결과,items.json
+Item.180041,종합 초콜릿 과자 선물 세트,items.json
+Item.180042,고르고 고른 하나,items.json
+Item.180043,진격! 우파루파 초콜릿,items.json
+Item.180044,미도리의 수제 초콜릿,items.json
+Item.180045,치세표 초콜릿 츠지우라센베이,items.json
+Item.180046,백야당 한정 디저트,items.json
+Item.180047,닌자 초콜릿 제49번 세트!,items.json
+Item.180048,숙면 초콜릿과 숙면 도구 키트,items.json
+Item.180049,와카모의 애정 초콜릿,items.json
+Item.180050,미식의 증명(말차맛),items.json
+Item.180051,발렌타인 성자 스컬맨,items.json
+Item.180052,러블리 크로스라인,items.json
+Item.180053,트윙클 스타,items.json
+Item.180054,초코 시스터 상,items.json
+Item.180055,구슬 초콜릿,items.json
+Item.180056,비 위드 유,items.json
+Item.180057,페니로열 초코민트,items.json
+Item.180058,리미티드 요시미 에디션,items.json
+Item.180059,말보다 초콜릿,items.json
+Item.180060,포춘 초콜릿(자작),items.json
+Item.180061,밴디지 초코,items.json
+Item.180062,카카오 99.99%,items.json
+Item.180063,트위스티드 발렌타인,items.json
+Item.180064,메이드 바이 메이드,items.json
+Item.180065,초코 오므라이스,items.json
+Item.180066,초콜릿 판화 : 용,items.json
+Item.180067,발렌타인 비기닝,items.json
+Item.180068,달콤한 잔,items.json
+Item.180069,아망드 크림슨,items.json
+Item.180070,서투르게 포장된 초콜릿,items.json
+Item.180071,꼬마 아이들용 초코볼,items.json
+Item.180072,촉촉한 초코쿠키,items.json
+Item.180073,딸기가 올라간 초코 조각케이크,items.json
+Item.180074,포장된 작은 초콜릿,items.json
+Item.180075,꼼꼼하게 포장된 초콜릿,items.json
+Item.180076,꽃과 초콜릿,items.json
+Item.180077,키디바 초콜릿,items.json
+Item.180078,벚꽃 빛 초콜릿,items.json
+Item.180079,최강의 초코사우루스,items.json
+Item.180080,반쯤 녹은 롭이어 초콜릿,items.json
+Item.180081,초천재청초계병약미소녀해커&#x27;s 초콜릿,items.json
+Item.180082,이로하의 수제 막대 초콜릿,items.json
+Item.180083,인법연구부 배지 세트 초콜릿,items.json
+Item.180084,초콜릿을 넣은 당근 케이크,items.json
+Item.180085,초콜릿 스모어,items.json
+Item.180086,보급품 초콜릿 캐러멜,items.json
+Item.180087,바크 초콜릿,items.json
+Item.180088,초콜릿 잉크,items.json
+Item.180089,특별 초콜릿 공로 훈장,items.json
+Item.180090,시구레 비터 스페셜,items.json
+Item.180091,병아리 모양 초콜릿,items.json
+Item.180092,자몽 칩 초콜릿,items.json
+Item.190000,기초 기술 노트 추첨권,items.json
+Item.190001,일반 기술 노트 추첨권,items.json
+Item.190002,상급 기술 노트 추첨권,items.json
+Item.190003,최상급 기술 노트 추첨권,items.json
+Item.190010,기초 전술 교육 BD 추첨권,items.json
+Item.190011,일반 전술 교육 BD 추첨권,items.json
+Item.190012,상급 전술 교육 BD 추첨권,items.json
+Item.190013,최상급 전술 교육 BD 추첨권,items.json
+Item.191000,기초 가구 추첨권,items.json
+Item.191001,모모프렌즈 테마 가구 추첨권,items.json
+Item.191002,젤리즈 오락실 테마 가구 추첨권,items.json
+Item.191003,발렌타인 테마 가구 추첨권,items.json
+Item.191004,여름 리조트 테마 가구 추첨권,items.json
+Item.191005,할로윈 테마 가구 추첨권,items.json
+Item.191006,전통 온천장 테마 가구 추첨권,items.json
+Item.191007,새해 테마 가구 추첨권,items.json
+Item.191008,밀리터리 캠핑장 테마 가구 추첨권,items.json
+Item.191009,비치사이드 테마 가구 추첨권,items.json
+Item.191010,대운동회 테마 가구 추첨권,items.json
+Item.191011,아비도스 교실 테마 가구 추첨권,items.json
+Item.191012,게임개발부 테마 가구 추첨권,items.json
+Item.191013,선샤인 리조트 테마 가구 추첨권,items.json
+Item.191991,일반 가구 추첨 상자,items.json
+Item.191992,상급 가구 추첨 상자,items.json
+Item.191993,최상급 가구 추첨 상자,items.json
+Item.191999,기타 테마 가구 추첨권,items.json
+Item.200000,프레나파테스의 어른의 카드,items.json
+Item.200001,산산이 조각난 어른의 카드,items.json

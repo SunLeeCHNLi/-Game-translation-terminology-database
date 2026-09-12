@@ -1,0 +1,659 @@
+﻿id,term,src_table
+Stage.Campaign.1011101,เขตศูนย์กลาง อาโอบะ เลขที่ 35,stages.json:Campaign
+Stage.Campaign.1011102,D.U. เวสต์ พาร์ก,stages.json:Campaign
+Stage.Campaign.1011103,ตลาดคุโระเนโกะ,stages.json:Campaign
+Stage.Campaign.1011104,เขตศูนย์กลาง เลขที่ 1,stages.json:Campaign
+Stage.Campaign.1011105,พื้นที่ D.U. 577,stages.json:Campaign
+Stage.Campaign.1012101,เขตศูนย์กลาง อาโอบะ เลขที่ 99,stages.json:Campaign
+Stage.Campaign.1012102,ใจกลาง D.U. เวสต์ พาร์ก,stages.json:Campaign
+Stage.Campaign.1012103,ด้านนอกตลาดคุโระเนโกะ,stages.json:Campaign
+Stage.Campaign.1021101,ฟุตาบะ การ์เด้น,stages.json:Campaign
+Stage.Campaign.1021102,บล็อกที่ 3 เขตเหนือ,stages.json:Campaign
+Stage.Campaign.1021103,ตลาดชิโรมอน 86,stages.json:Campaign
+Stage.Campaign.1021104,เขตเหนือ เมืองชิบะ,stages.json:Campaign
+Stage.Campaign.1021105,เขตธุรกิจที่ 7 พื้นที่ 1,stages.json:Campaign
+Stage.Campaign.1022101,ฟุตาบะ การ์เด้น สปอร์ตเซนเตอร์,stages.json:Campaign
+Stage.Campaign.1022102,กรีน การ์เด้น สปอร์ตเซนเตอร์,stages.json:Campaign
+Stage.Campaign.1022103,บล็อกที่ 5 เขตเหนือ,stages.json:Campaign
+Stage.Campaign.1031101,ตลาดมืด เลขที่ 1,stages.json:Campaign
+Stage.Campaign.1031102,ตลาดมืด เขตใต้,stages.json:Campaign
+Stage.Campaign.1031103,ทางด่วน KV พื้นที่ 7,stages.json:Campaign
+Stage.Campaign.1031104,ตลาดมืด เขตเหนือ,stages.json:Campaign
+Stage.Campaign.1031105,บทที่ 3 ถนนสายหลัก 3-51,stages.json:Campaign
+Stage.Campaign.1031401,KVハイウェイ35番道路,stages.json:Campaign
+Stage.Campaign.1032101,ใจกลางตลาดมืด,stages.json:Campaign
+Stage.Campaign.1032102,ด้านนอกตลาดมืด,stages.json:Campaign
+Stage.Campaign.1032103,ทางด่วน KV พื้นที่ 9,stages.json:Campaign
+Stage.Campaign.1041101,แม่น้ำทามากาวะ เขตเหนือ,stages.json:Campaign
+Stage.Campaign.1041102,แม่น้ำทามากาวะ เขตใต้,stages.json:Campaign
+Stage.Campaign.1041103,ถนนสายหลักหมายเลข 3 อะบิดอส,stages.json:Campaign
+Stage.Campaign.1041104,ซึนาโอมาชิ บล็อกที่ 2,stages.json:Campaign
+Stage.Campaign.1041105,ซึนาโอมาชิ บล็อกที่ 3,stages.json:Campaign
+Stage.Campaign.1042101,เขตปลอดภัย เขตทามากาวะเหนือ,stages.json:Campaign
+Stage.Campaign.1042102,ถนนสายหลักหมายเลข 1 อะบิดอส,stages.json:Campaign
+Stage.Campaign.1042103,ซึนาโอมาชิ บล็อกที่ 5,stages.json:Campaign
+Stage.Campaign.1051101,สถานีชิโระโมริ เส้นทางสายอะบิดอส,stages.json:Campaign
+Stage.Campaign.1051102,สถานีโยทสึบะ เส้นทางสายอะบิดอส,stages.json:Campaign
+Stage.Campaign.1051103,โบราณสถาน ทิศตะวันตก,stages.json:Campaign
+Stage.Campaign.1051104,ฐานทัพ PMC ไคเซอร์,stages.json:Campaign
+Stage.Campaign.1051105,โบราณสถานด้านทิศตะวันออก,stages.json:Campaign
+Stage.Campaign.1052101,สถานีชินคิโรโอะ เขตตะวันออก,stages.json:Campaign
+Stage.Campaign.1052102,ใจกลางโบราณสถาน ทิศตะวันออก,stages.json:Campaign
+Stage.Campaign.1052103,ภายนอกโบราณสถาน ทิศตะวันออก,stages.json:Campaign
+Stage.Campaign.1061101,บล็อกที่ 2 คิตะยามะ,stages.json:Campaign
+Stage.Campaign.1061102,แนวสันเขา ภูเขาฮาชิ,stages.json:Campaign
+Stage.Campaign.1061103,จุดชมซากุระ ภูเขาคิชู,stages.json:Campaign
+Stage.Campaign.1061104,จุดชมดอกสึซึรัน ภูเขาคิชู,stages.json:Campaign
+Stage.Campaign.1061105,บริเวณหุบเขา ภูเขาอาคิตะ,stages.json:Campaign
+Stage.Campaign.1061401,穐田山ウスイ峠,stages.json:Campaign
+Stage.Campaign.1062101,ใจกลางเขตคิตะยามะ,stages.json:Campaign
+Stage.Campaign.1062102,เส้นทางเดินเขารอบนอก ภูเขาฮาชิ,stages.json:Campaign
+Stage.Campaign.1062103,เส้นทางเดินเขารอบนอก ภูเขาคิชู,stages.json:Campaign
+Stage.Campaign.1071101,สถาบันการศึกษาของรัฐ 2 เขตใต้,stages.json:Campaign
+Stage.Campaign.1071102,อาคารหลักสาขาย่อย โรงเรียนอาเรียส,stages.json:Campaign
+Stage.Campaign.1071103,สถานีหอนาฬิกา,stages.json:Campaign
+Stage.Campaign.1071104,สถานีที่ทำการกลาง,stages.json:Campaign
+Stage.Campaign.1071105,สถานีสวนริมทะเลสาบ,stages.json:Campaign
+Stage.Campaign.1072101,อาคารหลักสาขาย่อย โรงเรียนอาเรียส,stages.json:Campaign
+Stage.Campaign.1072102,สถานีคุโรยากิ (ปิด),stages.json:Campaign
+Stage.Campaign.1072103,สถานีคุโรอูนากิ (ปิด),stages.json:Campaign
+Stage.Campaign.1081101,โรงงานเหล็กสึซึกิ,stages.json:Campaign
+Stage.Campaign.1081102,โรงงานอาวุธ PMC ไคเซอร์,stages.json:Campaign
+Stage.Campaign.1081103,ทางระบายน้ำฝน 3 เขตเหนือ,stages.json:Campaign
+Stage.Campaign.1081104,ทางระบายน้ำฝน 1 เขตตะวันออก,stages.json:Campaign
+Stage.Campaign.1081105,ทางระบายน้ำฝน 7 เขตตะวันออก,stages.json:Campaign
+Stage.Campaign.1082101,โรงงานขยะในเขตปกครองตนเอง มิลเลเนียม,stages.json:Campaign
+Stage.Campaign.1082102,เขตศูนย์กลาง ทางระบายน้ำเสีย 4,stages.json:Campaign
+Stage.Campaign.1082103,เขตศูนย์กลาง ทางระบายน้ำเสีย 7,stages.json:Campaign
+Stage.Campaign.1091101,ตลาดอาเมะทาโกะ,stages.json:Campaign
+Stage.Campaign.1091102,ตลาดสึคิเทน,stages.json:Campaign
+Stage.Campaign.1091103,โคะอุซางิ การ์เด้น,stages.json:Campaign
+Stage.Campaign.1091104,ซาจานามิ การ์เด้น,stages.json:Campaign
+Stage.Campaign.1091105,ซึโมโมะ การ์เด้น,stages.json:Campaign
+Stage.Campaign.1091401,月天市場横丁,stages.json:Campaign
+Stage.Campaign.1092101,ใจกลางตลาดอาเมะทาโกะ,stages.json:Campaign
+Stage.Campaign.1092102,กรีน การ์เด้น เขตตะวันออก,stages.json:Campaign
+Stage.Campaign.1092103,สปอร์ต พาร์ค เขตเหนือ,stages.json:Campaign
+Stage.Campaign.1101101,แขวงโนกาคุ บล็อกที่ 1,stages.json:Campaign
+Stage.Campaign.1101102,สถานีปิดตายชั้น 1 เลขที่ 3,stages.json:Campaign
+Stage.Campaign.1101103,สถานีปิดตายชั้น 2 เลขที่ 1,stages.json:Campaign
+Stage.Campaign.1101104,สถานีปิดตายชั้น 3 เลขที่ 7,stages.json:Campaign
+Stage.Campaign.1101105,สถานีปิดตายชั้น 4 เลขที่ 5,stages.json:Campaign
+Stage.Campaign.1102101,ใจกลางสถานีปิดตาย คลาส A,stages.json:Campaign
+Stage.Campaign.1102102,ใจกลางสถานีปิดตาย คลาส B,stages.json:Campaign
+Stage.Campaign.1102103,ใจกลางสถานีปิดตาย คลาส C,stages.json:Campaign
+Stage.Campaign.1111101,ทางด่วน KV พื้นที่ 1,stages.json:Campaign
+Stage.Campaign.1111102,ถนนวงแหวนรอบนอกหมายเลข 11,stages.json:Campaign
+Stage.Campaign.1111103,อาโอบะ เขตตะวันตก เลขที่ 9,stages.json:Campaign
+Stage.Campaign.1111104,เขตธุรกิจที่ 3 พื้นที่ 1,stages.json:Campaign
+Stage.Campaign.1111105,เขตศูนย์กลาง เลขที่ 3,stages.json:Campaign
+Stage.Campaign.1112101,ทางด่วน KV พื้นที่ 5,stages.json:Campaign
+Stage.Campaign.1112102,เขตธุรกิจที่ 4 พื้นที่ 4,stages.json:Campaign
+Stage.Campaign.1112103,เขตศูนย์กลาง เลขที่ 7,stages.json:Campaign
+Stage.Campaign.1121101,สถานีคาวามินามิ,stages.json:Campaign
+Stage.Campaign.1121102,สถานีคามิโมริ,stages.json:Campaign
+Stage.Campaign.1121103,เขตศูนย์กลาง ทางระบายน้ำฝน 6,stages.json:Campaign
+Stage.Campaign.1121104,สถานีคาวานิชิ,stages.json:Campaign
+Stage.Campaign.1121105,ทางระบายน้ำเสีย 2 เขตตะวันตก,stages.json:Campaign
+Stage.Campaign.1121401,上森駅南口（工事中）,stages.json:Campaign
+Stage.Campaign.1122101,เขตศูนย์กลาง ทางระบายน้ำเสีย 1,stages.json:Campaign
+Stage.Campaign.1122102,สถานียูโทเปีย พาร์ก (ปิด),stages.json:Campaign
+Stage.Campaign.1122103,ทางระบายน้ำเสีย 1 เขตตะวันตก,stages.json:Campaign
+Stage.Campaign.1131101,โซนแห่งความฝัน,stages.json:Campaign
+Stage.Campaign.1131102,โซนแฟนตาซี,stages.json:Campaign
+Stage.Campaign.1131103,โซนผจญภัย,stages.json:Campaign
+Stage.Campaign.1131104,โซนน่าตื่นเต้น,stages.json:Campaign
+Stage.Campaign.1131105,โซนป่า,stages.json:Campaign
+Stage.Campaign.1132101,อาคารบริหารพื้นที่ 2,stages.json:Campaign
+Stage.Campaign.1132102,อาคารบริหารพื้นที่ 5,stages.json:Campaign
+Stage.Campaign.1132103,อาคารบริหารพื้นที่ 7,stages.json:Campaign
+Stage.Campaign.1141101,โบราณสถานสถาบันอาเนโมเน่,stages.json:Campaign
+Stage.Campaign.1141102,สถาบันเอกชนไฮยาซิน (เขต),stages.json:Campaign
+Stage.Campaign.1141103,สถาบันลินาเรีย (ปิด),stages.json:Campaign
+Stage.Campaign.1141104,พื้นที่สถาบันของรัฐ ลูพินัสเก่า,stages.json:Campaign
+Stage.Campaign.1141105,สถาบันคุโระยูริ (ปิด),stages.json:Campaign
+Stage.Campaign.1142101,ห้องทดลองสถาบันอาเนโมเน่,stages.json:Campaign
+Stage.Campaign.1142102,อาคารหลักสถาบันลินาเรีย,stages.json:Campaign
+Stage.Campaign.1142103,อาคารย่อยโรงเรียนรัฐลูปินาส,stages.json:Campaign
+Stage.Campaign.1151101,ถนนดาวแดง,stages.json:Campaign
+Stage.Campaign.1151102,จัตุรัสการปฏิวัติหนวดดำ,stages.json:Campaign
+Stage.Campaign.1151103,ถนนดาวน้ำเงิน,stages.json:Campaign
+Stage.Campaign.1151104,ย่านการค้ามาร์เทินขาว,stages.json:Campaign
+Stage.Campaign.1151105,ตลาดนกฮูกยักษ์,stages.json:Campaign
+Stage.Campaign.1151401,アオバズクアーケード,stages.json:Campaign
+Stage.Campaign.1152101,ถนนดาวดำ,stages.json:Campaign
+Stage.Campaign.1152102,ย่านการค้ามาร์เทินดำ,stages.json:Campaign
+Stage.Campaign.1152103,ตลาดนกเค้าแมว,stages.json:Campaign
+Stage.Campaign.1161101,โบราณสถานทิศเหนือ,stages.json:Campaign
+Stage.Campaign.1161102,แม่น้ำวาดิ เขตตะวันตก,stages.json:Campaign
+Stage.Campaign.1161103,โบราณสถานทิศใต้,stages.json:Campaign
+Stage.Campaign.1161104,แม่น้ำจาริกาวะ เขตกลาง,stages.json:Campaign
+Stage.Campaign.1161105,สถานีฐาน PMC,stages.json:Campaign
+Stage.Campaign.1162101,รอบนอกโบราณสถาน ทิศเหนือ,stages.json:Campaign
+Stage.Campaign.1162102,ลุ่มแม่น้ำวาดิ,stages.json:Campaign
+Stage.Campaign.1162103,ใจกลางโบราณสถานทิศใต้,stages.json:Campaign
+Stage.Campaign.1171101,พาราไดซ์ เพลย์โรด,stages.json:Campaign
+Stage.Campaign.1171102,คาเฟ่พาราไดซ์,stages.json:Campaign
+Stage.Campaign.1171103,ร้านอาหารพาราไดซ์,stages.json:Campaign
+Stage.Campaign.1171104,พาราไดซ์ฮอลล์,stages.json:Campaign
+Stage.Campaign.1171105,พาราไดซ์ชั้นบนสุด,stages.json:Campaign
+Stage.Campaign.1172101,ลานกิจกรรมพาราไดซ์ J,stages.json:Campaign
+Stage.Campaign.1172102,ลานกิจกรรมพาราไดซ์ Q,stages.json:Campaign
+Stage.Campaign.1172103,ลานกิจกรรมพาราไดซ์ K,stages.json:Campaign
+Stage.Campaign.1181101,ถนนร้าง D.U. ตะวันตก,stages.json:Campaign
+Stage.Campaign.1181102,สี่แยกถนนร้าง D.U.,stages.json:Campaign
+Stage.Campaign.1181103,เขตพัฒนาที่ถูกทิ้งร้าง,stages.json:Campaign
+Stage.Campaign.1181104,ถนนร้าง D.U. ฝั่งตะวันออก,stages.json:Campaign
+Stage.Campaign.1181105,(เดิม) เขตธุรกิจที่ 56,stages.json:Campaign
+Stage.Campaign.1181401,旧第34番商業地区,stages.json:Campaign
+Stage.Campaign.1182101,ทางด่วนร้าง พื้นที่ 1,stages.json:Campaign
+Stage.Campaign.1182102,ทางด่วนร้าง พื้นที่ 2,stages.json:Campaign
+Stage.Campaign.1182103,ทางด่วนร้าง พื้นที่ 3,stages.json:Campaign
+Stage.Campaign.1191101,เขตดินแดนหิมะที่ 1,stages.json:Campaign
+Stage.Campaign.1191102,รถไฟดินแดนหิมะ สายเหนือ,stages.json:Campaign
+Stage.Campaign.1191103,เขตดินแดนหิมะที่ 2,stages.json:Campaign
+Stage.Campaign.1191104,รถไฟสายโฮคุโรคุ,stages.json:Campaign
+Stage.Campaign.1191105,เขตดินแดนหิมะที่ 3,stages.json:Campaign
+Stage.Campaign.1192101,สายหลักชินเซ็ตสึ,stages.json:Campaign
+Stage.Campaign.1192102,ภูเขาฮิโยริ,stages.json:Campaign
+Stage.Campaign.1192103,ภูเขาโนโมกิริ,stages.json:Campaign
+Stage.Campaign.1201101,ไชน์ ทาวน์ ทางเชื่อมชั้น 3,stages.json:Campaign
+Stage.Campaign.1201102,ทริปเปิล บลู สปอร์ตเซนเตอร์,stages.json:Campaign
+Stage.Campaign.1201103,สแครมเบิล ซิตี้ ทางเดินชั้น 12,stages.json:Campaign
+Stage.Campaign.1201104,ดรีม ยิมเนเซียม,stages.json:Campaign
+Stage.Campaign.1201105,โคคูน บิลดิ้ง ทางเดินชั้น 32,stages.json:Campaign
+Stage.Campaign.1202101,พื้นที่ออกกำลังกายรวม ทริปเปิล บลู โซน 1,stages.json:Campaign
+Stage.Campaign.1202102,พื้นที่ออกกำลังกายรวม ทริปเปิล บลู โซน 2,stages.json:Campaign
+Stage.Campaign.1202103,ไชน์ ทาวน์ ทางเชื่อมชั้น 1,stages.json:Campaign
+Stage.Campaign.1211101,ทางเข้าอาคารส่วนกลาง อาเรียส,stages.json:Campaign
+Stage.Campaign.1211102,ทางออกเขตเมืองเก่า,stages.json:Campaign
+Stage.Campaign.1211103,จัตุรัสปอร์ตาปาซิส,stages.json:Campaign
+Stage.Campaign.1211104,ทางออกเส้นทางลับ,stages.json:Campaign
+Stage.Campaign.1211105,บริเวณวิหารทอร์เรอู,stages.json:Campaign
+Stage.Campaign.1211401,階段通り・中央路,stages.json:Campaign
+Stage.Campaign.1212101,ถนนแห่งนักบุญ,stages.json:Campaign
+Stage.Campaign.1212102,ถนนแห่งการทับถม,stages.json:Campaign
+Stage.Campaign.1212103,ถนนสู่มหาวิหาร,stages.json:Campaign
+Stage.Campaign.1221101,メリエハビーチ,stages.json:Campaign
+Stage.Campaign.1221102,シーサイドビーチ,stages.json:Campaign
+Stage.Campaign.1221103,オーシャンパレス,stages.json:Campaign
+Stage.Campaign.1221104,ザ・ベイ301路,stages.json:Campaign
+Stage.Campaign.1221105,水辺公園北路,stages.json:Campaign
+Stage.Campaign.1222101,メリエハビーチの月見通り,stages.json:Campaign
+Stage.Campaign.1222102,雲掛け通り,stages.json:Campaign
+Stage.Campaign.1222103,展望台進入路,stages.json:Campaign
+Stage.Campaign.1231101,ルビーマンション東側の廊下,stages.json:Campaign
+Stage.Campaign.1231102,ルビーマンション中央ロビー,stages.json:Campaign
+Stage.Campaign.1231103,旧廊下進入路,stages.json:Campaign
+Stage.Campaign.1231104,ゲストルーム出入口,stages.json:Campaign
+Stage.Campaign.1231105,セーフルーム連絡通路,stages.json:Campaign
+Stage.Campaign.1232101,ルビーマンション回廊出入口,stages.json:Campaign
+Stage.Campaign.1232102,秘密の廊下・東側,stages.json:Campaign
+Stage.Campaign.1232103,マンション玄関進入路,stages.json:Campaign
+Stage.Event.8012301,ซุ้มซากุระ เลขที่ 3,stages.json:Event
+Stage.Event.8012302,ซุ้มซากุระ เลขที่ 12,stages.json:Event
+Stage.Event.8012303,ใจกลางตลาดคิสึเนะ,stages.json:Event
+Stage.Event.8012304,ถนนด้านตะวันออก ตลาดคิสึเนะ,stages.json:Event
+Stage.Event.8012305,ถนนด้านใต้ ตลาดคิสึเนะ,stages.json:Event
+Stage.Event.8012306,เทศกาลแห่งค่ำคืนสีขาว จัตุรัสกลาง,stages.json:Event
+Stage.Event.8012307,[ท้าทาย] vs กลุ่มปีศาจร้อยเสน่ห์เฮียกคิยาโค!,stages.json:Event
+Stage.Event.8022101,ถนนหนวดขาว,stages.json:Event
+Stage.Event.8022102,ทางด่วนเพนกวิน พื้นที่ 1,stages.json:Event
+Stage.Event.8022103,ตลาดโลมาขาว,stages.json:Event
+Stage.Event.8022104,ถนนหนวดดำ,stages.json:Event
+Stage.Event.8022105,ทางด่วนเพนกวิน พื้นที่ 3,stages.json:Event
+Stage.Event.8022106,ตลาดโลมาดำ,stages.json:Event
+Stage.Event.8022107,ถนนหนวดแดง,stages.json:Event
+Stage.Event.8023101,ภูเขาหิมะคาริคาริ,stages.json:Event
+Stage.Event.8023301,ภูเขาหิมะคาจิคาจิ,stages.json:Event
+Stage.Event.8023302,ที่ระลึกการรับตำแหน่งของประธานเชริโน่,stages.json:Event
+Stage.Event.8032301,ถนนชายฝั่งหมายเลข 66,stages.json:Event
+Stage.Event.8032302,หาดทรายระยิบระยับฝั่งตะวันออก,stages.json:Event
+Stage.Event.8032303,หาดทรายระยิบระยับฝั่งตะวันตก,stages.json:Event
+Stage.Event.8032104,ชายหาดลวงหลอก,stages.json:Event
+Stage.Event.8032305,เขตที่พบเม่นทะเล,stages.json:Event
+Stage.Event.8032306,เขตที่พบแมงกะพรุน,stages.json:Event
+Stage.Event.8032307,เขตที่พบปลาปักเป้า,stages.json:Event
+Stage.Event.8032108,บริเวณหินฉลาม,stages.json:Event
+Stage.Event.8032309,ชายหาดสาหร่ายทะเล,stages.json:Event
+Stage.Event.8032310,ชายหาดสาหร่ายเขียว,stages.json:Event
+Stage.Event.8032311,ชายหาดปูม้า,stages.json:Event
+Stage.Event.8032112,ทะเลหน้าจุดชมวิว,stages.json:Event
+Stage.Event.8033301,ชายหาดปากปลาวาฬ,stages.json:Event
+Stage.Event.8033302,บริเวณหินพรายน้ำ,stages.json:Event
+Stage.Event.8033103,พื้นที่ห้ามว่ายน้ำที่ 1,stages.json:Event
+Stage.Event.8042301,พื้นที่เตรียมพัฒนาใหม่ C,stages.json:Event
+Stage.Event.8042302,ชายหาดอาราบะฝั่งตะวันตก,stages.json:Event
+Stage.Event.8042303,เขตสลัมอาราบะเลขที่ 1,stages.json:Event
+Stage.Event.8042304,เขตสลัมอาราบะเลขที่ 3,stages.json:Event
+Stage.Event.8042305,ศูนย์ฝึกอบรมคณะกรรมการวินัย,stages.json:Event
+Stage.Event.8042306,พื้นที่ห้ามเข้าเขตสลัม C,stages.json:Event
+Stage.Event.8042307,พื้นที่ห้ามเข้าเขตสลัม F,stages.json:Event
+Stage.Event.8042308,ใจกลางชายหาดอาราบะ,stages.json:Event
+Stage.Event.8042309,ถนนฝั่งเหนือเขตสลัมอาราบะ,stages.json:Event
+Stage.Event.8042310,ชายหาดอาราบะฝั่งตะวันออก,stages.json:Event
+Stage.Event.8043301,พื้นที่แผนพัฒนาน้ำพุร้อนอาราบะ,stages.json:Event
+Stage.Event.8043302,ศูนย์ฝึกขบวนคณะกรรมการวินัย,stages.json:Event
+Stage.Event.8043303,จัตุรัสกลางเขตสลัมอาราบะ,stages.json:Event
+Stage.Event.8052301,ถนนตะวันออกเฉียงเหนือสาย 1,stages.json:Event
+Stage.Event.8052302,ถนนกล้วยไม้ 90-7,stages.json:Event
+Stage.Event.8052303,ถนนตะวันออกเฉียงใต้สาย 6,stages.json:Event
+Stage.Event.8052304,ถนนดอกเบญจมาศ 52-9,stages.json:Event
+Stage.Event.8052305,ถนนตะวันตกเฉียงใต้สาย 3,stages.json:Event
+Stage.Event.8052306,ตรอกนักชิม,stages.json:Event
+Stage.Event.8052307,ถนนตะวันตกเฉียงเหนือสาย 5,stages.json:Event
+Stage.Event.8052308,ถนนย่านการค้าเทพเต่าดำ ฝั่งเหนือ,stages.json:Event
+Stage.Event.8052309,ทางเดินไม้ไผ่ดำ,stages.json:Event
+Stage.Event.8052310,ถนนย่านการค้าเทพเต่าดำ ฝั่งใต้,stages.json:Event
+Stage.Event.8052311,ทางเดินเห็ดแดง,stages.json:Event
+Stage.Event.8052312,หน้าสำนักงานย่านการค้าเทพเต่าดำ,stages.json:Event
+Stage.Event.8053301,ตรอกหลังย่านการค้าเทพเต่าดำ,stages.json:Event
+Stage.Event.8053302,ถนนหลักสาย 4,stages.json:Event
+Stage.Event.8053303,สะพานมังกรแดง,stages.json:Event
+Stage.Event.8062101,ท่าจอดเรือไวต์วิว,stages.json:Event
+Stage.Event.8062102,ชายทะเลไวต์วิว,stages.json:Event
+Stage.Event.8062103,เนินทรายไวต์วิว,stages.json:Event
+Stage.Event.8062104,ไวต์วิวลากูน,stages.json:Event
+Stage.Event.8062105,ทางเข้าชายหาดไวต์วิว,stages.json:Event
+Stage.Event.8062106,ชายหาดไวต์วิว,stages.json:Event
+Stage.Event.8062107,หาดทรายฝั่งตะวันออก,stages.json:Event
+Stage.Event.8062108,หาดทรายฝั่งตะวันตก,stages.json:Event
+Stage.Event.8062109,สุดเขตหาดทราย,stages.json:Event
+Stage.Event.8063301,โซนห้องรอยัล,stages.json:Event
+Stage.Event.8063102,โอเชียนอาเทรียม,stages.json:Event
+Stage.Event.8063303,ห้อง VIP,stages.json:Event
+Stage.Event.8082301,บ่อน้ำบราวน์แบร์,stages.json:Event
+Stage.Event.8082302,บ่อน้ำเรดแบร์,stages.json:Event
+Stage.Event.8082303,สะพานเชื่อมออนเซ็น 58,stages.json:Event
+Stage.Event.8082104,สะพานเชื่อมออนเซ็น 227,stages.json:Event
+Stage.Event.8082305,หุบเขาแคพิบารา,stages.json:Event
+Stage.Event.8082306,สระน้ำแคพิบารา,stages.json:Event
+Stage.Event.8082307,สวนลิเวอร์เวิร์ดฝั่งตะวันออก,stages.json:Event
+Stage.Event.8082108,สวนมอสส์หลิวฝั่งตะวันตก,stages.json:Event
+Stage.Event.8082309,บ่อน้ำต้นเซลโคว่า,stages.json:Event
+Stage.Event.8082310,บ่อน้ำต้นยามะซากุระ,stages.json:Event
+Stage.Event.8082311,ทางเดินสำหรับแขกห้องพิเศษ,stages.json:Event
+Stage.Event.8082112,ด้านหน้าศูนย์สันทนาการต้นไผ่,stages.json:Event
+Stage.Event.8083301,ถิ่นที่อยู่ของแคพิบารา,stages.json:Event
+Stage.Event.8083102,ศูนย์ฟื้นฟูสวนออนเซ็น,stages.json:Event
+Stage.Event.8083303,สวนลับของโนโดกะ,stages.json:Event
+Stage.Event.8083104,ทางเดินสำหรับนักเรียนห้องเรียนพิเศษ,stages.json:Event
+Stage.Event.8083305,&lt;Very Hard&gt; ออนเซ็นพิเศษสำหรับ VIP,stages.json:Event
+Stage.Event.8092301,ถนนฝั่งใต้ภูเขารุ่งอรุณ,stages.json:Event
+Stage.Event.8092302,ทางเข้าเส้นทางชมต้นบ๊วย,stages.json:Event
+Stage.Event.8092303,เส้นทางชมต้นบ๊วย,stages.json:Event
+Stage.Event.8092304,ถนนหินแมนเดิลฝั่งใต้,stages.json:Event
+Stage.Event.8092305,ถนนหินแมนเดิล,stages.json:Event
+Stage.Event.8092306,ริมแม่น้ำเสียงเพลง,stages.json:Event
+Stage.Event.8092307,ถนนอธิษฐานฝั่งใต้,stages.json:Event
+Stage.Event.8092308,ถนนอธิษฐาน,stages.json:Event
+Stage.Event.8092309,ถนนอธิษฐานฝั่งเหนือ,stages.json:Event
+Stage.Event.8092310,ริมลำธารลมเวหา,stages.json:Event
+Stage.Event.8092311,ถนนฝั่งเหนือภูเขารุ่งอรุณ,stages.json:Event
+Stage.Event.8092312,ทางออกเส้นทางชมต้นบ๊วย,stages.json:Event
+Stage.Event.8093301,ที่พักดอกบัว,stages.json:Event
+Stage.Event.8093102,บริเวณต้นไม้เก่าแก่,stages.json:Event
+Stage.Event.8093303,สี่แยกโคมไฟฝั่งเหนือ,stages.json:Event
+Stage.Event.8093104,ทางแยกตีนเขา,stages.json:Event
+Stage.Event.8093305,จุดชมวิวรุ่งอรุณ,stages.json:Event
+Stage.Event.8102301,ถนนสายหลัก D.U.,stages.json:Event
+Stage.Event.8102302,ทางด่วน KV พื้นที่ 2,stages.json:Event
+Stage.Event.8102303,พื้นที่ D.U. 427,stages.json:Event
+Stage.Event.8102304,ทางด่วน KV พื้นที่ 4,stages.json:Event
+Stage.Event.8102305,ห้องสมุดสาธารณะ D.U.,stages.json:Event
+Stage.Event.8102306,ทางด่วน KV พื้นที่ 13,stages.json:Event
+Stage.Event.8102307,ทางเข้าย่านการค้า D.U.,stages.json:Event
+Stage.Event.8102308,ทางด่วน KV พื้นที่ 26,stages.json:Event
+Stage.Event.8102309,ป้ายรถหมายเลข 7 D.U.,stages.json:Event
+Stage.Event.8102310,ทางด่วน KV พื้นที่ 37,stages.json:Event
+Stage.Event.8102311,ทางออกใต้ดิน D.U.,stages.json:Event
+Stage.Event.8102312,ทางด่วน KV พื้นที่ 43,stages.json:Event
+Stage.Event.8103301,สถานี D.U. หมายเลข 2,stages.json:Event
+Stage.Event.8103102,พื้นที่ D.U. 51,stages.json:Event
+Stage.Event.8103303,ทางด่วน KV พื้นที่ 25,stages.json:Event
+Stage.Event.8103104,ทางเข้าสะพาน D.U.,stages.json:Event
+Stage.Event.8103305,ทางด่วน KV พื้นที่ 37,stages.json:Event
+Stage.Event.8111301,D.U. เซาท์สตรีท,stages.json:Event
+Stage.Event.8111302,ซุ้มซากุระ เลขที่ 77,stages.json:Event
+Stage.Event.8111303,ชายหาดปากปลาวาฬฝั่งตะวันออก,stages.json:Event
+Stage.Event.8111304,บล็อก 7 เขตศูนย์กลาง,stages.json:Event
+Stage.Event.8111305,เขตสลัมอะราบาเลขที่ 7,stages.json:Event
+Stage.Event.8111306,ถนนดอกเบญจมาศ 52-7,stages.json:Event
+Stage.Event.8111307,ลานกิจกรรมพาราไดซ์ A,stages.json:Event
+Stage.Event.8111308,พื้นที่ D.U. 1,stages.json:Event
+Stage.Event.8122301,ทางเข้ามหาวิหารทรีนิตี้,stages.json:Event
+Stage.Event.8122302,ทางเข้าโบสถ์,stages.json:Event
+Stage.Event.8122303,โบสถ์ที่ 1 มหาวิหาร,stages.json:Event
+Stage.Event.8122304,โบสถ์ที่ 2 มหาวิหาร,stages.json:Event
+Stage.Event.8122305,ห้องประชุม มหาวิหาร,stages.json:Event
+Stage.Event.8122306,หอประชุมเล็ก มหาวิหาร,stages.json:Event
+Stage.Event.8122307,หอประชุมใหญ่ มหาวิหาร,stages.json:Event
+Stage.Event.8122308,ห้องเก็บของ มหาวิหาร,stages.json:Event
+Stage.Event.8122309,ห้องสารภาพบาป มหาวิหาร,stages.json:Event
+Stage.Event.8122310,ห้องรับรองซิสเตอร์ มหาวิหาร,stages.json:Event
+Stage.Event.8122311,ห้องพัก มหาวิหาร,stages.json:Event
+Stage.Event.8122312,ทางออกโบสถ์ ทรีนิตี้,stages.json:Event
+Stage.Event.8123301,ทางเข้าซากวิหารโบราณ ทรีนิตี้,stages.json:Event
+Stage.Event.8123102,พื้นที่กลาง ซากวิหารโบราณ,stages.json:Event
+Stage.Event.8123303,พื้นที่ห้องสวด ซากวิหารโบราณ,stages.json:Event
+Stage.Event.8123104,พื้นที่หอประชุมใหญ่ ซากวิหารโบราณ,stages.json:Event
+Stage.Event.8123305,ทางออกวิหารโบราณ ทรีนิตี้,stages.json:Event
+Stage.Event.8132301,หน้าเวทีการแสดงคามาโบโกะ,stages.json:Event
+Stage.Event.8132302,หน้าเวทีการแสดงคามาโบโกะ,stages.json:Event
+Stage.Event.8132303,ถนนนิทรรศกาลประวัติศาสตร์ที่ 1,stages.json:Event
+Stage.Event.8132304,ถนนนิทรรศกาลประวัติศาสตร์ที่ 4,stages.json:Event
+Stage.Event.8132305,สนามแข่งขันมูชิควีนที่ 2,stages.json:Event
+Stage.Event.8132306,ถนนคนเดิน,stages.json:Event
+Stage.Event.8132307,สนามแข่งขันมูชิควีนที่ 3,stages.json:Event
+Stage.Event.8132308,รอบชิงชนะเลิศการแข่งขันมูชิควีน,stages.json:Event
+Stage.Event.8132309,หน้าร้านขายของที่ระลึก,stages.json:Event
+Stage.Event.8132310,หน้าสตูดิโอถ่ายทำ,stages.json:Event
+Stage.Event.8132311,อนุสรณ์สถานปรมาจารย์ผู้กำกับชิบะ,stages.json:Event
+Stage.Event.8132312,ถนนประชาสัมพันธ์ สหพันธ์เฮียกคิยาโค,stages.json:Event
+Stage.Event.8133301,ลานหน้าร้านน้ำชา,stages.json:Event
+Stage.Event.8133102,พื้นที่ถ่ายทำ 1,stages.json:Event
+Stage.Event.8133303,หน้าเวทีการแสดง &lt;องค์หญิงวาราคุ&gt;,stages.json:Event
+Stage.Event.8133104,พื้นที่ถ่ายทำ 7,stages.json:Event
+Stage.Event.8133305,หลังเวทีการแสดง &lt;องค์หญิงวาราคุ&gt;,stages.json:Event
+Stage.Event.8142301,ทางเข้าชายหาดของรีสอร์ต,stages.json:Event
+Stage.Event.8142302,ทางออกชายหาดของรีสอร์ต,stages.json:Event
+Stage.Event.8142303,ทางเข้าทางเดินในรีสอร์ต,stages.json:Event
+Stage.Event.8142304,ทางออกทางเดินในรีสอร์ต,stages.json:Event
+Stage.Event.8142305,ทางเข้าชายหาดซีเอสต้า,stages.json:Event
+Stage.Event.8142306,ทางออกชายหาดซีเอสต้า,stages.json:Event
+Stage.Event.8142307,ทางเข้าน้ำตกเสียงนกแก้ว,stages.json:Event
+Stage.Event.8142308,ทางออกน้ำตกเสียงนกแก้ว,stages.json:Event
+Stage.Event.8142309,ชายหาดคลื่นแสงจันทรา,stages.json:Event
+Stage.Event.8142310,ริมหาดคลื่นแสงจันทรา,stages.json:Event
+Stage.Event.8142311,ทางเข้าสะพานไม้ริมน้ำ,stages.json:Event
+Stage.Event.8142312,ทางออกสะพานไม้ริมน้ำ,stages.json:Event
+Stage.Event.8143301,ชายฝั่งที่ถูกละเลย,stages.json:Event
+Stage.Event.8143102,เส้นทางทดสอบความกล้าที่ถูกทิ้งร้าง,stages.json:Event
+Stage.Event.8143303,ทางออกเส้นทางทดสอบความกล้า,stages.json:Event
+Stage.Event.8143104,ชายหาดลมทะเล,stages.json:Event
+Stage.Event.8143305,ทางออกชายหาดลมทะเล,stages.json:Event
+Stage.Event.8162301,ถนนสายชิลหมายเลข 7,stages.json:Event
+Stage.Event.8162302,ด้านหลังถนนสายชิลหมายเลข 7,stages.json:Event
+Stage.Event.8162303,หลังสวนน้ำพุทรีนิตี้,stages.json:Event
+Stage.Event.8162304,ถนนสายอึกทึก,stages.json:Event
+Stage.Event.8162305,หน้าถนนสายโดดเรียน,stages.json:Event
+Stage.Event.8162306,ถนนเปลี่ยวหมายเลข 2-5,stages.json:Event
+Stage.Event.8162307,หลังสวนเขียวขจี,stages.json:Event
+Stage.Event.8162308,ถนนสายโดดเรียน,stages.json:Event
+Stage.Event.8162309,เขตเมืองหมายเลข 7,stages.json:Event
+Stage.Event.8162310,ถนนวังเวงหมายเลข 2-1,stages.json:Event
+Stage.Event.8162311,หน้าสวนเขียวขจี,stages.json:Event
+Stage.Event.8162312,ถนนเปลี่ยวสาย 10,stages.json:Event
+Stage.Event.8163301,ด้านหน้าย่านแออัด D.U.,stages.json:Event
+Stage.Event.8163102,บริเวณย่านแออัด D.U.,stages.json:Event
+Stage.Event.8163303,ชานเมือง เขตนักเลง,stages.json:Event
+Stage.Event.8163104,เขตนักเลง,stages.json:Event
+Stage.Event.8163305,หลังโรงจอดรถร้าง D.U.,stages.json:Event
+Stage.Event.8172301,พื้นที่เตรียมตัวนักกีฬา,stages.json:Event
+Stage.Event.8172302,ลู่แข่งกรีฑา 100m,stages.json:Event
+Stage.Event.8172303,สนามกลิ้งบอลยักษ์,stages.json:Event
+Stage.Event.8172304,ลู่วิ่งข้ามเครื่องกีดขวาง 100m,stages.json:Event
+Stage.Event.8172305,ลู่แข่งกรีฑา 200m,stages.json:Event
+Stage.Event.8172306,จุดออกตัว 1000m,stages.json:Event
+Stage.Event.8172307,ลู่วิ่งผลัด 4x400m,stages.json:Event
+Stage.Event.8172308,ลู่แข่งกรีฑา 400m,stages.json:Event
+Stage.Event.8172309,บาสเกตบอล คลับเฮาส์,stages.json:Event
+Stage.Event.8172310,ทางในพื้นที่ห้องเปลี่ยนชุดส่วนหลัง,stages.json:Event
+Stage.Event.8172311,วอลเลย์บอล คลับเฮาส์,stages.json:Event
+Stage.Event.8172312,หน้าศูนย์รับรองสมรรถภาพร่างกาย,stages.json:Event
+Stage.Event.8173301,ลู่วิ่งระยะไกล,stages.json:Event
+Stage.Event.8173102,ศูนย์กีฬาที่ 2,stages.json:Event
+Stage.Event.8173303,ศูนย์กีฬาที่ 3,stages.json:Event
+Stage.Event.8173104,ลู่แข่งกรีฑา 1500m,stages.json:Event
+Stage.Event.8173305,พื้นที่ฝึกนักกีฬาขั้นสูง,stages.json:Event
+Stage.Event.8182301,ลู่วอร์มอัป,stages.json:Event
+Stage.Event.8182302,อัฒจันทร์เชียร์ข้างป้ายไฟ ฝั่งตะวันตก,stages.json:Event
+Stage.Event.8182303,สนามบอล 1,stages.json:Event
+Stage.Event.8182304,สนามบอล 2,stages.json:Event
+Stage.Event.8182305,ร้านขายของที่ระลึกฮาโลเฟสติวัล,stages.json:Event
+Stage.Event.8182306,อัฒจันทร์เชียร์ข้างป้ายไฟ ฝั่งตะวันออก,stages.json:Event
+Stage.Event.8182307,เวทีแข่งกินจุโดยเฉพาะ,stages.json:Event
+Stage.Event.8182308,ห้องซ่อมบำรุงอุปกรณ์ ฮาโลเฟสติวัล,stages.json:Event
+Stage.Event.8182309,ลู่แข่งกินขนมปัง,stages.json:Event
+Stage.Event.8182310,เวทีอาฟเตอร์ปาร์ตี้ฮาโลเฟสติวัล,stages.json:Event
+Stage.Event.8182311,คลังพร็อพสนามกีฬา,stages.json:Event
+Stage.Event.8182312,คลังอาวุธหนักสนามกีฬา,stages.json:Event
+Stage.Event.8183301,ลู่วิ่งข้ามเครื่องกีดขวาง 2000m,stages.json:Event
+Stage.Event.8183102,ลู่คัดเลือกนักกีฬา,stages.json:Event
+Stage.Event.8183303,พื้นที่สำหรับเจ้าหน้าที่ สนามแข่งขันกีฬา,stages.json:Event
+Stage.Event.8183104,ลู่วิ่งข้ามเครื่องกีดขวาง 3000m,stages.json:Event
+Stage.Event.8183305,พื้นที่ VIP สนามแข่งขันกีฬา,stages.json:Event
+Stage.Event.8192301,ถนนขนมปังแห่งฝันหมายเลข 2,stages.json:Event
+Stage.Event.8192302,ด้านหลังถนนขนมปังแห่งฝัน หมายเลข 2,stages.json:Event
+Stage.Event.8192303,ถนนรองเส้นโค้ดบลู,stages.json:Event
+Stage.Event.8192304,ถนนเปลี่ยวรองหมายเลข 7-5,stages.json:Event
+Stage.Event.8192305,ถนนเช้าอันสดใสสาย 7-3,stages.json:Event
+Stage.Event.8192306,ด้านหลังถนนเช้าอันสดใส 7-3,stages.json:Event
+Stage.Event.8192307,ถนนแห่งปาฏิหาริย์ย่อยหมายเลข 1,stages.json:Event
+Stage.Event.8192308,ถนนสีเทาย่อยหมายเลข 4,stages.json:Event
+Stage.Event.8192309,ถนนฝั่งตะวันออกหมายเลข 3 D.U.,stages.json:Event
+Stage.Event.8192310,ถนนคาเฟ่ เลขที่ 228,stages.json:Event
+Stage.Event.8192311,ถนนฝั่งตะวันตกหมายเลข 1 D.U.,stages.json:Event
+Stage.Event.8192312,ถนนคาเฟ่หมายเลข 9-3,stages.json:Event
+Stage.Event.8193301,ถนนชมอาทิตย์ตกหมายเลข 4,stages.json:Event
+Stage.Event.8193102,เดซี่ กรีน สาย 2-2,stages.json:Event
+Stage.Event.8193303,ถนนสายหลักหมายเลข 7 D.U.,stages.json:Event
+Stage.Event.8193104,ถนนฝั่งตะวันตกหมายเลข 2 D.U.,stages.json:Event
+Stage.Event.8193305,บลู การ์เด้นหมายเลข 8,stages.json:Event
+Stage.Event.8202301,ถนนคนเดินหมายเลข 1,stages.json:Event
+Stage.Event.8202302,ถนนคนเดินหมายเลข 3,stages.json:Event
+Stage.Event.8202303,ถนนนักชิมหมายเลข 249,stages.json:Event
+Stage.Event.8202304,ด้านหลังถนนนักชิมหมายเลข 249,stages.json:Event
+Stage.Event.8202305,ถนนนักกินหมายเลข 4,stages.json:Event
+Stage.Event.8202306,ถนนนักกินหมายเลข 7,stages.json:Event
+Stage.Event.8202307,ถนนกังหันลมสีแดงสาย 2-4,stages.json:Event
+Stage.Event.8202308,ถนนหน้าร้านราวท์,stages.json:Event
+Stage.Event.8202309,ถนนร้านเบเกอรี่เพลิแกน ฝั่งตะวันตก,stages.json:Event
+Stage.Event.8202310,ถนนร้านฮอไรซอนทรี ฝั่งตะวันออก,stages.json:Event
+Stage.Event.8202311,ถนนย่านการค้าหมายเลข 8-2,stages.json:Event
+Stage.Event.8202312,ถนนของว่างฝั่งเหนือ,stages.json:Event
+Stage.Event.8203301,ตรอกด้านหลังศาลเจ้าจิ้งจอก,stages.json:Event
+Stage.Event.8203102,ทางเข้าถนนย่านการค้า,stages.json:Event
+Stage.Event.8203303,เส้นทางยกระดับย่านการค้า,stages.json:Event
+Stage.Event.8203104,ถนนหน้าตลาดอาหารทะเล,stages.json:Event
+Stage.Event.8203305,ถนนรองตลาดส่วนนอก,stages.json:Event
+Stage.Event.8242301,เขตธุรกิจที่ 3 พื้นที่ 2,stages.json:Event
+Stage.Event.8242302,ถนนชิราโทริ,stages.json:Event
+Stage.Event.8242303,รามินิทาวน์ ประตูทิศตะวันออก,stages.json:Event
+Stage.Event.8242304,ทางเข้ารามินิทาวน์,stages.json:Event
+Stage.Event.8242305,ทางเข้าสวนในท้องถิ่น,stages.json:Event
+Stage.Event.8242306,ประตูหลังสวนสนุกร้าง,stages.json:Event
+Stage.Event.8242307,ตรอกด้านหลัง ท่าเรือคาเนะซากิ,stages.json:Event
+Stage.Event.8242308,เขตก่อสร้าง ท่าเรือคาเนะซากิ 5,stages.json:Event
+Stage.Event.8242309,พราโดอเวนิวฝั่งเหนือ,stages.json:Event
+Stage.Event.8242310,ถนนไทรสแควร์ฝั่งใต้,stages.json:Event
+Stage.Event.8242311,ไทรสแควร์สาย 2-7,stages.json:Event
+Stage.Event.8242312,เขตชิราโทริ เลขที่ 327,stages.json:Event
+Stage.Event.8243301,ด้านหลังชิบะทาวน์ หมายเลข 39,stages.json:Event
+Stage.Event.8243102,พราโดอเวนิวหมายเลข 2,stages.json:Event
+Stage.Event.8243303,ถนนสวนในท้องถิ่น ฝั่งตะวันตกเฉียงใต้,stages.json:Event
+Stage.Event.8243104,เขตชิราโทริ เลขที่ 9 (เก่า),stages.json:Event
+Stage.Event.8243305,ถนนรามินิทาวน์สาย 8-5 (เก่า),stages.json:Event
+Stage.Event.8252301,外廊下東側の通路,stages.json:Event
+Stage.Event.8252302,廊下進入路,stages.json:Event
+Stage.Event.8252303,回廊左側出入口,stages.json:Event
+Stage.Event.8252304,回廊右側内部路,stages.json:Event
+Stage.Event.8252305,旧廊下東側誘導路,stages.json:Event
+Stage.Event.8252306,旧廊下の窓辺,stages.json:Event
+Stage.Event.8252307,秘密通路南口,stages.json:Event
+Stage.Event.8252308,応接室出入口,stages.json:Event
+Stage.Event.8252309,秘密通路北口,stages.json:Event
+Stage.Event.8252310,ダイニングルーム連絡通路,stages.json:Event
+Stage.Event.8252311,書斎前通路,stages.json:Event
+Stage.Event.8252312,古びたギャラリー,stages.json:Event
+Stage.Event.8253301,玄関直通通路,stages.json:Event
+Stage.Event.8253102,工房の出入口,stages.json:Event
+Stage.Event.8253303,貯蔵庫通路,stages.json:Event
+Stage.Event.8253104,宴会場の出入口,stages.json:Event
+Stage.Event.8253305,モーニングルーム廊下,stages.json:Event
+Stage.Event.8262301,玄武商会客室,stages.json:Event
+Stage.Event.8262302,六和閣通り,stages.json:Event
+Stage.Event.8262303,錬丹術研究会の部室,stages.json:Event
+Stage.Event.8262304,崑崙山・入口,stages.json:Event
+Stage.Event.8262305,山海経・梅花園,stages.json:Event
+Stage.Event.8262306,山海経・中央街,stages.json:Event
+Stage.Event.8262307,青龍街火鍋路・西側,stages.json:Event
+Stage.Event.8262308,青龍街火鍋路・東側,stages.json:Event
+Stage.Event.8262309,玄龍門太閣殿,stages.json:Event
+Stage.Event.8262310,玄武商会本店,stages.json:Event
+Stage.Event.8262311,虹正路北部,stages.json:Event
+Stage.Event.8262312,土砂街入口,stages.json:Event
+Stage.Event.8263301,玄龍門旧通り,stages.json:Event
+Stage.Event.8263102,石膏街開発地区,stages.json:Event
+Stage.Event.8263303,淮海街の中央道,stages.json:Event
+Stage.Event.8263104,白楽亭の表通り,stages.json:Event
+Stage.Event.8263305,新和閣修行路,stages.json:Event
+Stage.Event.8272301,共用水産物荷役場前,stages.json:Event
+Stage.Event.8272302,海産物加工場入口,stages.json:Event
+Stage.Event.8272303,共用冷凍倉庫入口,stages.json:Event
+Stage.Event.8272304,外部閘門制御室入口,stages.json:Event
+Stage.Event.8272305,内側防波堤一帯,stages.json:Event
+Stage.Event.8272306,コンテナ船第2甲板上,stages.json:Event
+Stage.Event.8272307,船着場浮桟橋前,stages.json:Event
+Stage.Event.8272308,海産物加工場の裏門,stages.json:Event
+Stage.Event.8272309,放置された廃漁具集荷場,stages.json:Event
+Stage.Event.8272310,外側防波堤一帯,stages.json:Event
+Stage.Event.8272311,操業禁止区域4-1,stages.json:Event
+Stage.Event.8272312,操業禁止区域5-1,stages.json:Event
+Stage.Event.8273301,漁港第4埠頭,stages.json:Event
+Stage.Event.8273102,施設管理事業所裏門,stages.json:Event
+Stage.Event.8273303,操業禁止区域1-1,stages.json:Event
+Stage.Event.8273104,特殊船舶専用埠頭,stages.json:Event
+Stage.Event.8273305,海産物加工場,stages.json:Event
+Stage.Event.8282301,放棄された訓練場の入口,stages.json:Event
+Stage.Event.8282302,放棄された訓練場の出口,stages.json:Event
+Stage.Event.8282303,歌風海岸南部,stages.json:Event
+Stage.Event.8282304,歌風海岸北部,stages.json:Event
+Stage.Event.8282305,古いビーチバレーコートの入口,stages.json:Event
+Stage.Event.8282306,古いビーチバレーコートの出口,stages.json:Event
+Stage.Event.8282307,ゆるゆる海岸,stages.json:Event
+Stage.Event.8282308,せかせか海岸,stages.json:Event
+Stage.Event.8282309,無人島船着き場東側,stages.json:Event
+Stage.Event.8282310,無人島船着き場西側,stages.json:Event
+Stage.Event.8282311,隠されし海辺,stages.json:Event
+Stage.Event.8282312,隠されし海辺の果て,stages.json:Event
+Stage.Event.8283301,薄暗い海岸の入口,stages.json:Event
+Stage.Event.8283302,薄暗い海岸の出口,stages.json:Event
+Stage.Event.8283303,不気味な海岸,stages.json:Event
+Stage.Event.8283304,未調査の島の裏側,stages.json:Event
+Stage.Event.7012301,พื้นที่รกร้างในอะบิดอส 1,stages.json:Event
+Stage.Event.7012302,พื้นที่รกร้างในอะบิดอส 2,stages.json:Event
+Stage.Event.7012303,พื้นที่สถานีที่ปิด 1,stages.json:Event
+Stage.Event.7012304,พื้นที่สถานีที่ปิด 2,stages.json:Event
+Stage.Event.7012305,พื้นที่ขุดค้น PMC 1,stages.json:Event
+Stage.Event.7012306,พื้นที่ขุดค้น PMC 2,stages.json:Event
+Stage.Event.7012307,ฐานเปลี่ยนสายในสถานีที่ปิด,stages.json:Event
+Stage.Event.7012308,ศูนย์ซ่อมบำรุงเก่าสถานีที่ปิด,stages.json:Event
+Stage.Event.7012309,พื้นที่รกร้างจมน้ำ 1,stages.json:Event
+Stage.Event.7012310,พื้นที่รกร้างจมน้ำ 2,stages.json:Event
+Stage.Event.7013301,พื้นที่รกร้างจมน้ำที่ยังไม่ถูกยืนยัน,stages.json:Event
+Stage.Event.7013302,พื้นที่รกร้างจมน้ำปิดตาย A,stages.json:Event
+Stage.Event.7013303,พื้นที่รกร้างจมน้ำปิดตาย B,stages.json:Event
+Stage.Event.7013304,ใจกลางพื้นที่จมน้ำรกร้าง,stages.json:Event
+Stage.Event.108013301,ซุ้มซากุระ เลขที่ 1,stages.json:Event
+Stage.Event.108013102,ทานูกิโช เลขที่ 6,stages.json:Event
+Stage.Event.108013303,ทางออกด้านเหนือ ตลาดคิสึเนะ,stages.json:Event
+Stage.Event.108023303,อาคารใหม่ สถานีโทรทัศน์เรดแบร์,stages.json:Event
+Stage.Event.108023304,อาคารย่อย สถานีโทรทัศน์เรดแบร์,stages.json:Event
+Stage.Event.108033104,หาดทรายเงิน,stages.json:Event
+Stage.Event.108033105,ชายหาดพรจันทรา,stages.json:Event
+Stage.Event.108043304,พื้นที่ฝึกค่ายพักแรมของคณะกรรมการวินัย,stages.json:Event
+Stage.Event.108043305,สนามฝึกยิงตอนกลางคืนของคณะกรรมการวินัย,stages.json:Event
+Stage.Event.108053304,พื้นที่พัฒนาใหม่ ย่านการค้าเทพเต่าดำ,stages.json:Event
+Stage.Event.108053305,ตรอกยีราฟดำ,stages.json:Event
+Stage.Event.108063304,ดีป บลู เพลส,stages.json:Event
+Stage.Event.108063305,อะบิส บลู เพลส,stages.json:Event
+Stage.Conquest.81511211,เขตพัฒนา &lt;หมู่เกาะทะเลลึก&gt;,stages.json:Conquest
+Stage.Conquest.81511121,หน่วยสั่งการ &lt;หมู่เกาะทะเลลึก&gt;,stages.json:Conquest
+Stage.Conquest.81511111,ทางเข้า &lt;หมู่เกาะทะเลลึก&gt;,stages.json:Conquest
+Stage.Conquest.81521131,สถานที่แข่งขันศึก &lt;มูชิควีนครูซ&gt; รอบตัดสิน,stages.json:Conquest
+Stage.Conquest.81521111,สถานที่แข่งขันศึก &lt;มูชิควีนครูซ&gt; รอบคัดเลือก A,stages.json:Conquest
+Stage.Conquest.81521121,สถานที่แข่งขันศึก &lt;มูชิควีนครูซ&gt; รอบคัดเลือก B,stages.json:Conquest
+Stage.Conquest.81522131,สนามกีฬา &lt;มูชิควีนครูซ&gt; นอกรอบ A,stages.json:Conquest
+Stage.Conquest.81523111,สถานที่แข่งขันศึก &lt;มูชิควีนครูซ&gt; รอบคัดเลือก C,stages.json:Conquest
+Stage.Conquest.81523121,สถานที่แข่งขันศึก &lt;มูชิควีนครูซ&gt; รอบคัดเลือก D,stages.json:Conquest
+Stage.Conquest.81523131,สนามกีฬา &lt;มูชิควีนครูซ&gt; นอกรอบ B,stages.json:Conquest
+Stage.Conquest.81523211,สนามฝึก &lt;มูชิควีนครูซ&gt; ในร่ม,stages.json:Conquest
+Stage.Conquest.81522111,หอพักผู้เข้าแข่งขัน &lt;มูชิควีนครูซ&gt; A,stages.json:Conquest
+Stage.Conquest.81522121,หอพักผู้เข้าแข่งขัน &lt;มูชิควีนครูซ&gt; B,stages.json:Conquest
+Stage.Conquest.81521211,ล็อบบี้สนามฝึก &lt;มูชิควีนครูซ&gt;,stages.json:Conquest
+Stage.Conquest.81522211,สนามฝึก &lt;มูชิควีนครูซ&gt; กลางแจ้ง,stages.json:Conquest
+Stage.Conquest.81531131,ถนนแชมป์เปี้ยน &lt;ลักซ์ชัวรี่รีสอร์ต&gt;,stages.json:Conquest
+Stage.Conquest.81532121,ถนนสินค้าพิเศษ &lt;ลักซ์ชัวรี่รีสอร์ต&gt;,stages.json:Conquest
+Stage.Conquest.81532212,ถนนโก่งราคา &lt;ลักซ์ชัวรี่รีสอร์ต&gt;,stages.json:Conquest
+Stage.Conquest.81533211,จุดนัดพบ &lt;ลักซ์ชัวรี่รีสอร์ต&gt;,stages.json:Conquest
+Stage.Conquest.81532131,ถนนคนรวย &lt;ลักซ์ชัวรี่รีสอร์ต&gt;,stages.json:Conquest
+Stage.Conquest.81533131,ชายหาดสุดหรูหรา! ชุดเช็กอินย่านการค้าเทพเต่าดำ!,stages.json:Conquest
+Stage.Conquest.81531212,ถนนบังคับซื้อ &lt;ลักซ์ชัวรี่รีสอร์ต&gt;,stages.json:Conquest
+Stage.Conquest.81531111,แหล่งร้านอาหาร &lt;ลักซ์ชัวรี่รีสอร์ต&gt;,stages.json:Conquest
+Stage.Conquest.81532111,ถนนของที่ระลึก &lt;ลักซ์ชัวรี่รีสอร์ต&gt;,stages.json:Conquest
+Stage.Conquest.81533111,ชายหาดคุ้มค่าคุ้มราคา! ชุดเช็กอินย่านการค้าเทพเต่าดำ!,stages.json:Conquest
+Stage.Conquest.81533121,ชายหาดที่น่าเพลิดเพลิน! ชุดเช็กอินย่านการค้าเทพเต่าดำ!,stages.json:Conquest
+Stage.Conquest.81531121,แหล่งช็อปปิ้ง &lt;ลักซ์ชัวรี่รีสอร์ต&gt;,stages.json:Conquest
+Stage.Conquest.81541131,สนามสุดท้าย &lt;รีสอร์ตแห่งแก๊งหมวกกันน็อก&gt;,stages.json:Conquest
+Stage.Conquest.81541121,สนามทดสอบ &lt;รีสอร์ตแห่งแก๊งหมวกกันน็อก&gt;,stages.json:Conquest
+Stage.Conquest.81542131,เรือสำราญยอดแย่ของแก๊งหมวกกันน็อก (ฉุกเฉิน),stages.json:Conquest
+Stage.Conquest.81543131,ฐานเสบียงไคเซอร์ PMC,stages.json:Conquest
+Stage.Conquest.81542212,ท่าเทียบเรือสำราญชั่วคราว,stages.json:Conquest
+Stage.Conquest.81543212,เขตลาดตระเวนไคเซอร์ PMC,stages.json:Conquest
+Stage.Conquest.81541213,นอกถนนชายขอบรีสอร์ต,stages.json:Conquest
+Stage.Conquest.81541111,ทางเข้า &lt;รีสอร์ตแห่งแก๊งหมวกกันน็อก&gt;,stages.json:Conquest
+Stage.Conquest.81542121,เรือสำราญยอดแย่ของแก๊งหมวกกันน็อก (คลื่น),stages.json:Conquest
+Stage.Conquest.81542111,เรือสำราญยอดแย่ของแก๊งหมวกกันน็อก (บทนำ),stages.json:Conquest
+Stage.Conquest.81543111,ฐานไคเซอร์ PMC ที่ 1,stages.json:Conquest
+Stage.Conquest.81543121,ฐานไคเซอร์ PMC ที่ 2,stages.json:Conquest
+Stage.Conquest.81550211,ทดสอบความกล้าในวันพักร้อน! พื้นฐาน,stages.json:Conquest
+Stage.Conquest.81550221,ทดสอบความกล้าในวันพักร้อน! ระดับต้น,stages.json:Conquest
+Stage.Conquest.81550231,ทดสอบความกล้าในวันพักร้อน! ระดับกลาง,stages.json:Conquest
+Stage.Conquest.81550241,ทดสอบความกล้าในวันพักร้อน! ระดับสูง,stages.json:Conquest
+Stage.Conquest.81550251,ทดสอบความกล้าในวันพักร้อน! ระดับเทพ,stages.json:Conquest
+Stage.Conquest.81550261,ทดสอบความกล้าในวันพักร้อน! ระดับมหาเทพ,stages.json:Conquest
+Stage.Conquest.82211111,&lt;ชานเมืองเขต 1&gt; อุปกรณ์คำนวณ,stages.json:Conquest
+Stage.Conquest.82211211,&lt;ชานเมืองเขต 1&gt; อุปกรณ์ช่วยคำนวณ,stages.json:Conquest
+Stage.Conquest.82211121,&lt;ชานเมืองเขต 1&gt; ระบบป้องกันเครื่องทะลุมิติ,stages.json:Conquest
+Stage.Conquest.82221111,&lt;ชานเมืองเขต 2&gt; อุปกรณ์คำนวณ - อัลฟ่า,stages.json:Conquest
+Stage.Conquest.82221121,&lt;ชานเมืองเขต 2&gt; อุปกรณ์คำนวณ - เบต้า,stages.json:Conquest
+Stage.Conquest.82221131,&lt;ชานเมืองเขต 2&gt; ระบบป้องกันเครื่องทะลุมิติ,stages.json:Conquest
+Stage.Conquest.82222111,&lt;ชานเมืองเขต 2&gt; อุปกรณ์บันทึก - อัลฟ่า,stages.json:Conquest
+Stage.Conquest.82222121,&lt;ชานเมืองเขต 2&gt; อุปกรณ์บันทึก - เบต้า,stages.json:Conquest
+Stage.Conquest.82222131,&lt;ชานเมืองเขต 2&gt; อุปกรณ์บันทึก - แกรมม่า,stages.json:Conquest
+Stage.Conquest.82223111,&lt;ชานเมืองเขต 2&gt; อุปกรณ์ควบคุม - อัลฟ่า,stages.json:Conquest
+Stage.Conquest.82223121,&lt;ชานเมืองเขต 2&gt; อุปกรณ์ควบคุม - เบต้า,stages.json:Conquest
+Stage.Conquest.82223131,&lt;ชานเมืองเขต 2&gt; อุปกรณ์ควบคุม - แกรมม่า,stages.json:Conquest
+Stage.Conquest.82221211,&lt;ชานเมืองเขต 2&gt; อุปกรณ์ช่วยคำนวณ,stages.json:Conquest
+Stage.Conquest.82222211,&lt;ชานเมืองเขต 2&gt; อุปกรณ์ช่วยบันทึก,stages.json:Conquest
+Stage.Conquest.82223211,&lt;ชานเมืองเขต 2&gt; อุปกรณ์ช่วยควบคุม,stages.json:Conquest
+Stage.Conquest.82231111,&lt;ชานเมืองเขต 3&gt; อุปกรณ์คำนวณ - อัลฟ่า,stages.json:Conquest
+Stage.Conquest.82231121,&lt;ชานเมืองเขต 3&gt; อุปกรณ์คำนวณ - เบต้า,stages.json:Conquest
+Stage.Conquest.82231131,&lt;ชานเมืองเขต 3&gt; ระบบป้องกันเครื่องทะลุมิติ,stages.json:Conquest
+Stage.Conquest.82232111,&lt;ชานเมืองเขต 3&gt; อุปกรณ์บันทึก - อัลฟ่า,stages.json:Conquest
+Stage.Conquest.82232121,&lt;ชานเมืองเขต 3&gt; อุปกรณ์บันทึก - เบต้า,stages.json:Conquest
+Stage.Conquest.82232131,&lt;ชานเมืองเขต 3&gt; อุปกรณ์บันทึก - แกรมม่า,stages.json:Conquest
+Stage.Conquest.82233111,&lt;ชานเมืองเขต 3&gt; อุปกรณ์ควบคุม - อัลฟ่า,stages.json:Conquest
+Stage.Conquest.82233121,&lt;ชานเมืองเขต 3&gt; อุปกรณ์ควบคุม - เบต้า,stages.json:Conquest
+Stage.Conquest.82233131,&lt;ชานเมืองเขต 3&gt; อุปกรณ์ควบคุม - เดลต้า,stages.json:Conquest
+Stage.Conquest.82231211,&lt;ชานเมืองเขต 3&gt; อุปกรณ์ช่วยคำนวณ,stages.json:Conquest
+Stage.Conquest.82232211,&lt;ชานเมืองเขต 3&gt; อุปกรณ์ช่วยบันทึก,stages.json:Conquest
+Stage.Conquest.82233211,&lt;ชานเมืองเขต 3&gt; อุปกรณ์ช่วยควบคุม,stages.json:Conquest
+Stage.Conquest.82241111,&lt;เขตกลาง&gt; อุปกรณ์คำนวณ - อัลฟ่า,stages.json:Conquest
+Stage.Conquest.82241121,&lt;เขตกลาง&gt; อุปกรณ์คำนวณ - เบต้า,stages.json:Conquest
+Stage.Conquest.82241131,&lt;เขตกลาง&gt; ระบบป้องกันเครื่องทะลุมิติ,stages.json:Conquest
+Stage.Conquest.82242111,&lt;เขตกลาง&gt; อุปกรณ์บันทึก - อัลฟ่า,stages.json:Conquest
+Stage.Conquest.82242121,&lt;เขตกลาง&gt; อุปกรณ์บันทึก - เบต้า,stages.json:Conquest
+Stage.Conquest.82242131,&lt;เขตกลาง&gt; อุปกรณ์บันทึก - เดลต้า,stages.json:Conquest
+Stage.Conquest.82243111,&lt;เขตกลาง&gt; อุปกรณ์ควบคุม - อัลฟ่า,stages.json:Conquest
+Stage.Conquest.82243121,&lt;เขตกลาง&gt; อุปกรณ์ควบคุม - เบต้า,stages.json:Conquest
+Stage.Conquest.82243131,&lt;เขตกลาง&gt; อุปกรณ์ควบคุม - เดลต้า,stages.json:Conquest
+Stage.Conquest.82241211,&lt;เขตกลาง&gt; อุปกรณ์ช่วยคำนวณ,stages.json:Conquest
+Stage.Conquest.82242211,&lt;เขตกลาง&gt; อุปกรณ์ช่วยบันทึก,stages.json:Conquest
+Stage.Conquest.82243211,&lt;เขตกลาง&gt; อุปกรณ์ช่วยควบคุม,stages.json:Conquest
+Stage.Conquest.82250211,อุปกรณ์ช่วยบังคับการวิเคราะห์หลายมิติ 1,stages.json:Conquest
+Stage.Conquest.82250221,อุปกรณ์ช่วยบังคับการวิเคราะห์หลายมิติ 2,stages.json:Conquest
+Stage.Conquest.82250231,อุปกรณ์ช่วยคำนวณการวิเคราะห์หลายมิติ 1,stages.json:Conquest
+Stage.Conquest.82250241,อุปกรณ์ช่วยคำนวณการวิเคราะห์หลายมิติ 2,stages.json:Conquest
+Stage.Conquest.82250251,อุปกรณ์ช่วยควบคุมการวิเคราะห์หลายมิติ,stages.json:Conquest

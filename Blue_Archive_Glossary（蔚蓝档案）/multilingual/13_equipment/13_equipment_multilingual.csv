@@ -1,0 +1,156 @@
+﻿category,category_label,id,zh-CN,ja-JP,zh-TW,en-US,ko-KR,th-TH,src_table
+13_equipment,装备,Equipment.1,初级强化石,初級強化珠,下級強化石,Lesser Enhancement Stone,하급 강화석,หินอัปเกรดขั้นต่ำ,equipment.json
+13_equipment,装备,Equipment.2,中级强化石,中級強化珠,一般強化石,Normal Enhancement Stone,일반 강화석,หินอัปเกรดขั้นกลาง,equipment.json
+13_equipment,装备,Equipment.3,高级强化石,上級強化珠,高級強化石,Advanced Enhancement Stone,상급 강화석,หินอัปเกรดขั้นสูง,equipment.json
+13_equipment,装备,Equipment.4,最高级强化石,最上級強化珠,最高級強化石,Superior Enhancement Stone,최상급 강화석,หินอัปเกรดขั้นสูงสุด,equipment.json
+13_equipment,装备,Equipment.10,锈蚀的弹簧,錆びたスプリング,生鏽的彈簧,Rusty Spring,녹슨 스프링,สปริงขึ้นสนิม,equipment.json
+13_equipment,装备,Equipment.11,良好的弹簧,普通のスプリング,完整的彈簧,Intact Spring,온전한 스프링,สปริงสมบูรณ์,equipment.json
+13_equipment,装备,Equipment.12,铬合金弹簧,クロムスプリング,鉻彈簧,Chromium Spring,크로뮴 스프링,สปริงโครเมียม,equipment.json
+13_equipment,装备,Equipment.13,钛合金弹簧,チタンスプリング,鈦彈簧,Titanium Spring,티타늄 스프링,สปริงไทเทเนียม,equipment.json
+13_equipment,装备,Equipment.20,锈蚀的击锤,錆びたハンマー,生鏽的錘子,Rusty Hammer,녹슨 해머,แฮมเมอร์ปืนขึ้นสนิม,equipment.json
+13_equipment,装备,Equipment.21,良好的击锤,普通のハンマー,完整的錘子,Intact Hammer,온전한 해머,แฮมเมอร์ปืนสมบูรณ์,equipment.json
+13_equipment,装备,Equipment.22,铬合金击锤,クロムハンマー,鉻金屬鎚子,Chromium Hammer,크로뮴 해머,แฮมเมอร์ปืนโครเมียม,equipment.json
+13_equipment,装备,Equipment.23,钛合金击锤,チタンハンマー,鈦金屬鎚子,Titanium Hammer,티타늄 해머,แฮมเมอร์ปืนไทเทเนียม,equipment.json
+13_equipment,装备,Equipment.30,锈蚀的枪管,錆びた銃身,生鏽的槍管,Rusty Barrel,녹슨 총열,ลำปืนขึ้นสนิม,equipment.json
+13_equipment,装备,Equipment.31,良好的枪管,普通の銃身,完好的槍管,Intact Barrel,온전한 총열,ลำปืนสมบูรณ์,equipment.json
+13_equipment,装备,Equipment.32,铬合金枪管,クロム銃身,鉻金屬槍管,Chromium Barrel,크로뮴 총열,ลำปืนโครเนียม,equipment.json
+13_equipment,装备,Equipment.33,钛合金枪管,チタン銃身,鈦金屬槍管,Titanium Barrel,티타늄 총열,ลำปืนไทเทเนียม,equipment.json
+13_equipment,装备,Equipment.40,锈蚀的击针,錆びた撃針,生鏽的擊針,Rusty Firing Pin,녹슨 공이,เข็มชนวนขึ้นสนิม,equipment.json
+13_equipment,装备,Equipment.41,良好的击针,普通の撃針,完好的擊針,Intact Firing Pin,온전한 공이,เข็มชนวนสมบูรณ์,equipment.json
+13_equipment,装备,Equipment.42,铬合金击针,クロム撃針,鉻金屬擊針,Chromium Firing Pin,크로뮴 공이,เข็มชนวนโครเมียม,equipment.json
+13_equipment,装备,Equipment.43,钛合金击针,チタン撃針,鈦金屬擊針,Titanium Firing Pin,티타늄 공이,เข็มชนวนไทเทเนียม,equipment.json
+13_equipment,装备,Equipment.1000,纯色鸭舌帽,無地のキャップ,素色鴨舌帽,Plain Baseball Cap,무지 캡모자,หมวกแก๊ป,equipment.json
+13_equipment,装备,Equipment.1001,针织帽,ニット帽,針織毛線帽,Knitted Wool Hat,니트 털모자,หมวกไหมพรม,equipment.json
+13_equipment,装备,Equipment.1002,大哥软呢帽,ビッグブラザーの中折れ帽,大哥軟呢帽,Big Brother Fedora,빅 브라더 페도라,หมวกบิ๊กบราเธอร์,equipment.json
+13_equipment,装备,Equipment.1003,缎带贝雷帽,リボン付きベレー帽,蝴蝶結貝雷帽,Ribbon Beret,리본 베레모,หมวกเบเร่ต์โบว์,equipment.json
+13_equipment,装备,Equipment.1004,防弹头盔,防弾ヘルメット,防彈頭盔,Bulletproof Helmet,방탄 헬멧,หมวกกันกระสุน,equipment.json
+13_equipment,装备,Equipment.1005,褶边迷你帽,フリルのミニハット,荷葉邊迷你帽,Frilly Mini Hat,프릴 미니 햇,หมวกปีกจีบมินิ,equipment.json
+13_equipment,装备,Equipment.1006,遮阳帽,バケットハット,遮陽帽,Bucket Hat,버킷 햇,หมวกบักเก็ต,equipment.json
+13_equipment,装备,Equipment.1007,叶条软呢帽,リーフリボン付き中折れ帽,リーフリボン付き中折れ帽,Leaf Ribbon Fedora,리프 리본 페도라,リーフリボン付き中折れ帽,equipment.json
+13_equipment,装备,Equipment.2000,运动手套,スポーツグローブ,運動手套,Sports Gloves,스포츠용 장갑,ถุงมือกีฬา,equipment.json
+13_equipment,装备,Equipment.2001,针织手套,ニットのミトン,針織連指手套,Knitted Mittens,니트 벙어리 장갑,ถุงมือไหมพรม,equipment.json
+13_equipment,装备,Equipment.2002,佩洛洛隔热手套,ペロロの鍋掴み,佩洛洛烤箱手套,Peroro Oven Mitts,페로로 오븐 장갑,ถุงมือเพโรโร่,equipment.json
+13_equipment,装备,Equipment.2003,真皮手套,レザーグローブ,皮手套,Leather Gloves,가죽 글러브,ถุงมือหนัง,equipment.json
+13_equipment,装备,Equipment.2004,战术手套,タクティカルグローブ,戰術手套,Tactical Gloves,택티컬 글러브,ถุงมือทหาร,equipment.json
+13_equipment,装备,Equipment.2005,蕾丝手套,レースのグローブ,蕾絲手套,Lace Gloves,레이스 글러브,ถุงมือลูกไม้,equipment.json
+13_equipment,装备,Equipment.2006,袖套,アームカバー,袖套,Arm Warmers,팔 토시,ปลอกแขนอบอุ่น,equipment.json
+13_equipment,装备,Equipment.2007,珍珠纱线手套,パールヤーングローブ,パールヤーングローブ,Pearl Yarn Gloves,진주 털실 장갑,パールヤーングローブ,equipment.json
+13_equipment,装备,Equipment.3000,粉红运动鞋,ピンクスニーカー,粉紅色休閒鞋,Pink Sneakers,핑크 스니커즈,รองเท้าผ้าใบสีชมพู,equipment.json
+13_equipment,装备,Equipment.3001,雪靴,ムートンブーツ,雪靴,Shearling Boots,어그 부츠,บูทกันหนาว,equipment.json
+13_equipment,装备,Equipment.3002,粉红帕卡拖鞋,ピンキーパカのスリッパ,粉紅波卡拖鞋,Pinky-Paca Slippers,핑키파카 슬리퍼,สลิปเปอร์พิงค์กี้พาก้า,equipment.json
+13_equipment,装备,Equipment.3003,古典珐琅乐福鞋,アンティークなエナメルローファー,古典琺瑯樂福鞋,Antique Enamel Loafers,앤티크 에나멜 로퍼,รองเท้าโลฟเฟอร์,equipment.json
+13_equipment,装备,Equipment.3004,战术长靴,戦闘用ブーツ,戰術長靴,Tactical Boots,전술 부츠,รองเท้าทหาร,equipment.json
+13_equipment,装备,Equipment.3005,高跟鞋,ヒールパンプス,高跟鞋,Heeled Pumps,펌프스 힐,รองเท้าส้นสูงพันข้อ,equipment.json
+13_equipment,装备,Equipment.3006,休闲运动鞋,カジュアルスニーカー,休閒運動鞋,Casual Sneakers,캐주얼 스니커즈,รองเท้าผ้าใบธรรมดา,equipment.json
+13_equipment,装备,Equipment.3007,防水登山靴,防水登山ブーツ,防水登山ブーツ,Waterproof Hiking Boots,방수 등산 부츠,防水登山ブーツ,equipment.json
+13_equipment,装备,Equipment.4000,防水运动包,防水スポーツバッグ,防水運動包,Waterproof Sports Bag,방수 스포츠백,กระเป๋ากีฬา,equipment.json
+13_equipment,装备,Equipment.4001,防寒斜挎包,寒冷地用バッグ,防寒斜背包,Insulated Messenger Bag,방한용 크로스백,กระเป๋าสะพายข้าง,equipment.json
+13_equipment,装备,Equipment.4002,佩洛洛背包,ペロロのバッグ,佩洛洛背包,Peroro Backpack,페로로 백팩,กระเป๋าเป้เพโรโร่,equipment.json
+13_equipment,装备,Equipment.4003,绀蓝书包,紺色のスクールバッグ,海軍藍書包,Dark Blue School Bag,감색 스쿨백,กระเป๋านักเรียน,equipment.json
+13_equipment,装备,Equipment.4004,战术书包,戦闘用ランドセル,戰術日式書包,Tactical Satchel,전술 란도셀,กระเป๋าเป้ทหาร,equipment.json
+13_equipment,装备,Equipment.4005,恶魔翅膀手提包,デビルウイングのトートバッグ,惡魔翅膀托特包,Devil Wing Tote Bag,데빌 윙 토트백,กระเป๋าเดวิลวิงส์,equipment.json
+13_equipment,装备,Equipment.4006,街头包,ストリートバッグ,街頭包,Street Bag,스트릿 백,กระเป๋าสตรีท,equipment.json
+13_equipment,装备,Equipment.4007,蝶饰单肩包,蝶柄のショルダーバッグ,蝶柄のショルダーバッグ,Butterfly Shoulder Bag,버터플라이 숄더백,蝶柄のショルダーバッグ,equipment.json
+13_equipment,装备,Equipment.5000,塞瓦尔金属徽章,サーバルのメタルバッジ,serval金屬徽章,Serval Metal Badge,서벌 금속 배지,เครื่องหมายเหล็กเซอร์วัล,equipment.json
+13_equipment,装备,Equipment.5001,马纳斯卢毛毡徽章,マナスルのフェルトバッジ,馬納斯路毛氈徽章,Manaslu Felt Badge,마나슬루 펠트 배지,เครื่องหมายผ้ามานาซึรุ,equipment.json
+13_equipment,装备,Equipment.5002,愤怒阿德利徽章,アングリーアデリーのバッジ,憤怒阿德利圓形徽章,Angry Adelie Button,앵그리 아델리 원형 배지,เครื่องหมายแองกี้อาเดลี,equipment.json
+13_equipment,装备,Equipment.5003,维罗妮卡刺绣徽章,ベロニカの刺繍バッジ,貝洛尼卡刺繡徽章,Veronica Embroidered Badge,베로니카 자수 배지,เครื่องหมายปักลายเวโรนิก้า,equipment.json
+13_equipment,装备,Equipment.5004,风山徽章,カゼヤマのワッペン,風山魔鬼氈臂章,Kazeyama Patch,카제야마 벨크로 패치,เครื่องหมายคาเซยาม่า,equipment.json
+13_equipment,装备,Equipment.5005,可可恶魔徽章,ココデビルのバッジ,可可惡魔銀勳章,Coco Devil Silver Badge,코코데빌 실버 배지,เครื่องหมายโคโค่เดวิลเงิน,equipment.json
+13_equipment,装备,Equipment.5006,街头徽章,ストリートバッジ,街頭勳章,Street Badge,스트릿 배지,เครื่องหมายสตรีท,equipment.json
+13_equipment,装备,Equipment.5007,罗蕾莱徽章,ローレライバッジ,ローレライバッジ,Lorelei Badge,로렐라이 배지,ローレライバッジ,equipment.json
+13_equipment,装备,Equipment.6000,网球头带,テニス用ヘアバンド,網球頭帶,Tennis Headband,테니스 헤어밴드,ผ้าคาดหัวนักเทนนิส,equipment.json
+13_equipment,装备,Equipment.6001,发圈,シュシュ,髮圈,Scrunchie,헤어 슈슈,ยางมัดผม,equipment.json
+13_equipment,装备,Equipment.6002,蜜桃发卡,モモのヘアピン,水蜜桃髮夾,Momo Hairpin,모모 헤어핀,กิ๊บติดผมลูกพีช,equipment.json
+13_equipment,装备,Equipment.6003,白翼发卡,翼のヘアピン,翅膀髮夾,Winged Hairpin,날개 헤어핀,กิ๊บติดผมปีก,equipment.json
+13_equipment,装备,Equipment.6004,多功能发卡,多目的ヘアピン,多功能髮夾,Multi-Purpose Hairpin,다목적 헤어핀,กิ๊บอเนกประสงค์,equipment.json
+13_equipment,装备,Equipment.6005,蝙蝠发卡,コウモリのヘアピン,蝙蝠髮夾,Bat Hairpin,박쥐 헤어핀,กิ๊บติดผมปีกค้างคาว,equipment.json
+13_equipment,装备,Equipment.6006,艺术字发卡,カリグラフィーヘアピン,藝術字髮夾,Calligraphy Hairpin,캘리그라피 헤어핀,กิ๊บติดผมอักษรศิลป์,equipment.json
+13_equipment,装备,Equipment.6007,翠叶发卡,リーフヘアピン,リーフヘアピン,Leaf Hairpin,나뭇잎 헤어핀,リーフヘアピン,equipment.json
+13_equipment,装备,Equipment.7000,交通安全护符,交通安全のお守り,交通安全符,Traffic Safety Amulet,교통안전 부적,เครื่องรางเดินทางปลอดภัย,equipment.json
+13_equipment,装备,Equipment.7001,暖暖贴,発熱カイロ,暖暖貼,Heat Pack,발열팩,ถุงร้อนอุ่นมือ,equipment.json
+13_equipment,装备,Equipment.7002,佩洛洛护符,ペロロのお守り,佩洛洛的羽毛,Peroro Feather,페로로의 깃털,ขนนกของเพโรโร่,equipment.json
+13_equipment,装备,Equipment.7003,十字架,クルス,十字架,Cross,십자가,จี้กางเขน,equipment.json
+13_equipment,装备,Equipment.7004,迷彩达摩,カモフラダルマ,迷彩達摩,Camo Daruma,카모 달마,ดารุมะลายพราง,equipment.json
+13_equipment,装备,Equipment.7005,诅咒娃娃,呪いの人形,詛咒娃娃,Voodoo Doll,저주 인형,ตุ๊กตาวูดู,equipment.json
+13_equipment,装备,Equipment.7006,便携式除臭剂,ポケット消臭剤,便攜式除臭劑,Portable Deodorant,휴대용 탈취제,เครื่องหอมแบบพกพา,equipment.json
+13_equipment,装备,Equipment.7007,ドリームキャッチャー,ドリームキャッチャー,ドリームキャッチャー,ドリームキャッチャー,드림캐쳐,ドリームキャッチャー,equipment.json
+13_equipment,装备,Equipment.8000,电子手表,デジタルウォッチ,防水電子錶,Waterproof Digital Watch,방수 디지털 시계,นาฬิกาดิจิตอลกันน้ำ,equipment.json
+13_equipment,装备,Equipment.8001,皮革手表,レザーの腕時計,皮革手錶,Leather Wristwatch,가죽 손목 시계,นาฬิกาข้อมือหนัง,equipment.json
+13_equipment,装备,Equipment.8002,波浪猫手表,ウェーブキャットの時計,波浪貓手錶,Wavecat Wristwatch,웨이브캣 손목 시계,นาฬิกาเวฟแคท,equipment.json
+13_equipment,装备,Equipment.8003,古董怀表,アンティークな懐中時計,骨董懷錶,Antique Pocket Watch,앤티크 회중 시계,นาฬิกาพกโบราณ,equipment.json
+13_equipment,装备,Equipment.8004,防尘手表,防塵型の腕時計,防震手錶,Dustproof Leather Wristwatch,방진 손목 시계,นาฬิกาลายพราง,equipment.json
+13_equipment,装备,Equipment.8005,哥特风手表,ゴシック風の腕時計,哥德風手錶,Gothic Leather Wristwatch,고딕풍 손목 시계,นาฬิกาข้อมือโกธิก,equipment.json
+13_equipment,装备,Equipment.8006,街头时尚表,ストリートファッションウォッチ,街頭時尚手錶,Street Fashion Wristwatch,스트릿 패션 시계,นาฬิกาสตรีทแฟชั่น,equipment.json
+13_equipment,装备,Equipment.8007,ローレライの腕時計,ローレライの腕時計,ローレライの腕時計,ローレライの腕時計,로렐라이 손목 시계,ローレライの腕時計,equipment.json
+13_equipment,装备,Equipment.9000,蓝牙项链,ブルートゥースのネックレス,藍牙項鍊,Bluetooth Necklace,블루투스 목걸이,สร้อยคอบลูธูท,equipment.json
+13_equipment,装备,Equipment.9001,雪花吊坠,雪花のペンダント,雪花墜飾,Snowflake Pendant,눈꽃 펜던트,สร้อยคอเกล็ดหิมะ,equipment.json
+13_equipment,装备,Equipment.9002,尼科莱盒式链坠,ニコライのロケットペンダント,尼科萊盒式鍊墜,Nicholai Locket,니콜라이 로켓,สร้อยคอนิโคไล,equipment.json
+13_equipment,装备,Equipment.9003,十字架项圈,十字架のチョーカー,十字架項鍊,Cross Choker,십자가 초커,โชคเกอร์จี้กางเขน,equipment.json
+13_equipment,装备,Equipment.9004,狗牌,ドッグタグ,識別牌,Dog Tag,도그택,ป้ายชื่อทหาร,equipment.json
+13_equipment,装备,Equipment.9005,朋克项圈,パンクチョーカー,龐克頸圈,Punk Choker,펑크 초커,โชคเกอร์พังก์,equipment.json
+13_equipment,装备,Equipment.9006,锁链项链,チェーンネックレス,鍊式項鍊,Chain Necklace,체인 목걸이,สร้อยคอโซ่,equipment.json
+13_equipment,装备,Equipment.9007,グリーンリーフネックレス,グリーンリーフネックレス,グリーンリーフネックレス,グリーンリーフネックレス,그린리프 목걸이,グリーンリーフネックレス,equipment.json
+13_equipment,装备,Equipment.101001,针织帽设计图,ニット帽の設計図,針織毛線帽設計圖,Knitted Wool Hat Blueprint,니트 털모자 설계도면,สูตรหมวกไหมพรม,equipment.json
+13_equipment,装备,Equipment.101002,大哥软呢帽设计图,ビッグブラザーの中折れ帽の設計図,大哥軟呢帽設計圖,Big Brother Fedora Blueprint,빅 브라더 페도라 설계도면,สูตรหมวกบิ๊กบราเธอร์,equipment.json
+13_equipment,装备,Equipment.101003,缎带贝雷帽设计图,リボン付きベレー帽の設計図,蝴蝶結貝雷帽設計圖,Ribbon Beret Blueprint,리본 베레모 설계도면,สูตรหมวกเบเร่ต์โบว์,equipment.json
+13_equipment,装备,Equipment.101004,防弹头盔设计图,防弾ヘルメットの設計図,防彈頭盔設計圖,Bulletproof Helmet Blueprint,방탄 헬멧 설계도면,สูตรหมวกกันกระสุน,equipment.json
+13_equipment,装备,Equipment.101005,褶边迷你帽设计图,フリルのミニハットの設計図,荷葉邊迷你帽設計圖,Frilly Mini Hat Blueprint,프릴 미니 햇 설계도면,สูตรหมวกผ้าจีบมินิ,equipment.json
+13_equipment,装备,Equipment.101006,遮阳帽设计图,バケットハットの設計図,遮陽帽設計圖,Bucket Hat Blueprint,버킷 햇 설계도면,สูตรหมวกบักเก็ต,equipment.json
+13_equipment,装备,Equipment.101007,叶条软呢帽设计图,リーフリボン付き中折れ帽の設計図,リーフリボン付き中折れ帽の設計図,Leaf Ribbon Fedora Blueprint,리프 리본 페도라 설계도면,リーフリボン付き中折れ帽の設計図,equipment.json
+13_equipment,装备,Equipment.102001,针织手套设计图,ニットのミトンの設計図,針織連指手套設計圖,Knitted Mittens Blueprint,니트 벙어리 장갑 설계도면,สูตรถุงมือไหมพรม,equipment.json
+13_equipment,装备,Equipment.102002,佩洛洛隔热手套设计图,ペロロの鍋掴みの設計図,佩洛洛烤箱手套設計圖,Peroro Oven Mitts Blueprint,페로로 오븐 장갑 설계도면,สูตรถุงมือเพโรโร่,equipment.json
+13_equipment,装备,Equipment.102003,真皮手套设计图,レザーグローブの設計図,皮手套設計圖,Leather Gloves Blueprint,가죽 글러브 설계도면,สูตรถุงมือหนัง,equipment.json
+13_equipment,装备,Equipment.102004,战术手套设计图,タクティカルグローブの設計図,戰術手套設計圖,Tactical Gloves Blueprint,택티컬 글러브 설계도면,สูตรถุงมือทหาร,equipment.json
+13_equipment,装备,Equipment.102005,蕾丝手套设计图,レースのグローブの設計図,蕾絲手套設計圖,Lace Gloves Blueprint,레이스 글러브 설계도면,สูตรถุงมือลูกไม้,equipment.json
+13_equipment,装备,Equipment.102006,袖套设计图,アームカバーの設計図,袖套設計圖,Arm Warmers Blueprint,팔 토시 설계도면,สูตรปลอกแขนอบอุ่น,equipment.json
+13_equipment,装备,Equipment.102007,珍珠纱线手套设计图,パールヤーングローブの設計図,パールヤーングローブの設計図,Pearl Yarn Gloves Blueprint,진주 털실 장갑 설계도면,パールヤーングローブの設計図,equipment.json
+13_equipment,装备,Equipment.103001,雪靴设计图,ムートンブーツの設計図,雪靴設計圖,Shearling Boots Blueprint,어그 부츠 설계도면,สูตรบูทกันหนาว,equipment.json
+13_equipment,装备,Equipment.103002,粉红帕卡设计图,ピンキーパカのスリッパの設計図,粉紅波卡粉紅拖鞋設計圖,Pinky-Paca Slippers Blueprint,핑키파카 슬리퍼 설계도면,สูตรสลิปเปอร์พิงค์กี้พาก้า,equipment.json
+13_equipment,装备,Equipment.103003,古典珐琅乐福鞋设计图,アンティークなエナメルローファーの設計図,古典琺瑯樂福鞋設計圖,Antique Enamel Loafers Blueprint,앤티크 에나멜 로퍼 설계도면,สูตรรองเท้าโลฟเฟอร์,equipment.json
+13_equipment,装备,Equipment.103004,战术长靴设计图,戦闘用ブーツの設計図,戰術長靴設計圖,Tactical Boots Blueprint,전술 부츠 설계도면,สูตรรองเท้าทหาร,equipment.json
+13_equipment,装备,Equipment.103005,高跟鞋设计图,ヒールパンプスの設計図,高跟鞋設計圖,Heeled Pumps Blueprint,펌프스 힐 설계도면,สูตรรองเท้าส้นสูงพันข้อ,equipment.json
+13_equipment,装备,Equipment.103006,休闲运动鞋设计图,カジュアルスニーカーの設計図,休閒運動鞋設計圖,Casual Sneakers Blueprint,캐주얼 스니커즈 설계도면,สูตรรองเท้าผ้าใบธรรมดา,equipment.json
+13_equipment,装备,Equipment.103007,防水登山靴设计图,防水登山ブーツの設計図,防水登山ブーツの設計図,Waterproof Hiking Boots Blueprint,방수 등산 부츠 설계도면,防水登山ブーツの設計図,equipment.json
+13_equipment,装备,Equipment.104001,防寒斜挎包设计图,寒冷地用バッグの設計図,防寒斜背包設計圖,Insulated Messenger Bag Blueprint,방한용 크로스백 설계도면,สูตรกระเป๋าสะพายข้าง,equipment.json
+13_equipment,装备,Equipment.104002,佩洛洛背包设计图,ペロロのバッグの設計図,佩洛洛背包設計圖,Peroro Backpack Blueprint,페로로 백팩 설계도면,สูตรกระเป๋าเป้เพโรโร่,equipment.json
+13_equipment,装备,Equipment.104003,绀蓝书包设计图,紺色のスクールバッグの設計図,海軍藍書包設計圖,Dark Blue School Bag Blueprint,감색 스쿨백 설계도면,สูตรกระเป๋านักเรียน,equipment.json
+13_equipment,装备,Equipment.104004,战术书包设计图,戦闘用ランドセルの設計図,戰術日式書包設計圖,Tactical Satchel Blueprint,전술 란도셀 설계도면,สูตรกระเป๋าทหาร,equipment.json
+13_equipment,装备,Equipment.104005,恶魔翅膀手提包设计图,デビルウイングのトートバッグの設計図,魔鬼翅膀托特包設計圖,Devil Wing Tote Bag Blueprint,데빌 윙 토트백 설계도면,สูตรกระเป๋าเดวิลวิงส์,equipment.json
+13_equipment,装备,Equipment.104006,街头包设计图,ストリートバッグの設計図,街頭包設計圖,Street Bag Blueprint,스트릿 백 설계도면,สูตรกระเป๋าสตรีท,equipment.json
+13_equipment,装备,Equipment.104007,蝶饰单肩包设计图,蝶柄のショルダーバッグの設計図,蝶柄のショルダーバッグの設計図,Butterfly Shoulder Bag Blueprint,버터플라이 숄더백 설계도면,蝶柄のショルダーバッグの設計図,equipment.json
+13_equipment,装备,Equipment.105001,马纳斯卢毛毡徽章设计图,マナスルのフェルトバッジの設計図,馬納斯路毛氈徽章設計圖,Manaslu Felt Badge Blueprint,마나슬루 펠트 배지 설계도면,สูตรเครื่องหมายผ้ามานาซึรุ,equipment.json
+13_equipment,装备,Equipment.105002,愤怒阿德利徽章设计图,アングリーアデリーのバッジの設計図,憤怒阿德利圓形徽章設計圖,Angry Adelie Button Blueprint,앵그리 아델리 원형 배지 설계도면,สูตรเครื่องหมายแองกี้อาเดลี,equipment.json
+13_equipment,装备,Equipment.105003,维罗妮卡刺绣徽章设计图,ベロニカの刺繍バッジの設計図,貝洛尼卡刺繡徽章設計圖,Veronica Embroidered Badge Blueprint,베로니카 자수 배지 설계도면,สูตรเครื่องหมายปักลายเวโรนิก้า,equipment.json
+13_equipment,装备,Equipment.105004,风山徽章设计图,カゼヤマのワッペンの設計図,風山魔鬼氈臂章設計圖,Kazeyama Patch Blueprint,카제야마 벨크로 패치 설계도면,สูตรเครื่องหมายคาเซยาม่า,equipment.json
+13_equipment,装备,Equipment.105005,可可恶魔徽章设计图,ココデビルのバッジの設計図,可可魔鬼銀勳章設計圖,Coco Devil Silver Badge Blueprint,코코데빌 실버 배지 설계도면,สูตรเครื่องหมายโคโค่เดวิลเงิน,equipment.json
+13_equipment,装备,Equipment.105006,街头徽章设计图,ストリートバッジの設計図,街頭徽章設計圖,Street Badge Blueprint,스트릿 배지 설계도면,สูตรเครื่องหมายสตรีท,equipment.json
+13_equipment,装备,Equipment.105007,罗蕾莱徽章设计图,ローレライバッジの設計図,ローレライバッジの設計図,Lorelei Badge Blueprint,로렐라이 배지 설계도면,ローレライバッジの設計図,equipment.json
+13_equipment,装备,Equipment.106001,发圈设计图,シュシュの設計図,髮圈設計圖,Scrunchie Blueprint,헤어 슈슈 설계도면,สูตรยางมัดผม,equipment.json
+13_equipment,装备,Equipment.106002,蜜桃发卡设计图,モモのヘアピンの設計図,水蜜桃髮夾設計圖,Momo Hairpin Blueprint,모모 헤어핀 설계도면,สูตรกิ๊บติดผมลูกพีช,equipment.json
+13_equipment,装备,Equipment.106003,白翼发卡设计图,翼のヘアピンの設計図,翅膀髮夾設計圖,Winged Hairpin Blueprint,날개 헤어핀 설계도면,สูตรกิ๊บติดผมปีก,equipment.json
+13_equipment,装备,Equipment.106004,多功能发卡设计图,多目的ヘアピンの設計図,多功能髮夾設計圖,Multi-Purpose Hairpin Blueprint,다목적 헤어핀 설계도면,สูตรกิ๊บอเนกประสงค์,equipment.json
+13_equipment,装备,Equipment.106005,蝙蝠发卡设计图,コウモリのヘアピンの設計図,蝙蝠髮夾設計圖,Bat Hairpin Blueprint,박쥐 헤어핀 설계도면,สูตรกิ๊บติดผมปีกค้างคาว,equipment.json
+13_equipment,装备,Equipment.106006,艺术字发卡设计图,カリグラフィーヘアピンの設計図,藝術字髮夾設計圖,Calligraphy Hairpin Blueprint,캘리그라피 헤어핀 설계도면,สูตรกิ๊บติดผมอักษรศิลป์,equipment.json
+13_equipment,装备,Equipment.106007,翠叶发卡设计图,リーフヘアピンの設計図,リーフヘアピンの設計図,Leaf Hairpin Blueprint,나뭇잎 헤어핀 설계도면,リーフヘアピンの設計図,equipment.json
+13_equipment,装备,Equipment.107001,暖暖贴设计图,発熱カイロの設計図,暖暖貼設計圖,Heat Pack Blueprint,발열팩 설계도면,สูตรถุงร้อนอุ่นมือ,equipment.json
+13_equipment,装备,Equipment.107002,佩洛洛护符设计图,ペロロのお守りの設計図,佩洛洛的羽毛設計圖,Peroro Feather Blueprint,페로로의 깃털 설계도면,สูตรขนนกของเพโรโร่,equipment.json
+13_equipment,装备,Equipment.107003,十字架设计图,クルスの設計図,十字架設計圖,Cross Blueprint,십자가 설계도면,สูตรจี้กางเขน,equipment.json
+13_equipment,装备,Equipment.107004,迷彩达摩设计图,カモフラダルマの設計図,迷彩達摩設計圖,Camo Daruma Blueprint,카모 달마 설계도면,สูตรดารุมะลายพราง,equipment.json
+13_equipment,装备,Equipment.107005,诅咒娃娃设计图,呪いの人形の設計図,詛咒娃娃設計圖,Voodoo Doll Blueprint,저주 인형 설계도면,สูตรตุ๊กตาวูดู,equipment.json
+13_equipment,装备,Equipment.107006,便携式除臭剂设计图,ポケット消臭剤の設計図,便攜式除臭劑設計圖,Portable Deodorant Blueprint,휴대용 탈취제 설계도면,สูตรเครื่องหอมแบบพกพา,equipment.json
+13_equipment,装备,Equipment.107007,ドリームキャッチャーの設計図,ドリームキャッチャーの設計図,ドリームキャッチャーの設計図,ドリームキャッチャーの設計図,드림캐쳐 설계도면,ドリームキャッチャーの設計図,equipment.json
+13_equipment,装备,Equipment.108001,皮革手表设计图,レザーの腕時計の設計図,皮革手錶設計圖,Leather Wristwatch Blueprint,가죽 손목 시계 설계도면,สูตรนาฬิกาข้อมือหนัง,equipment.json
+13_equipment,装备,Equipment.108002,波浪猫手表设计图,ウェーブキャットの時計の設計図,波浪貓手錶設計圖,Wavecat Wristwatch Blueprint,웨이브캣 손목 시계 설계도면,สูตรนาฬิกาเวฟแคท,equipment.json
+13_equipment,装备,Equipment.108003,古董怀表设计图,アンティークな懐中時計の設計図,骨董懷錶設計圖,Antique Pocket Watch Blueprint,앤티크 회중 시계 설계도면,สูตรนาฬิกาพกโบราณ,equipment.json
+13_equipment,装备,Equipment.108004,防尘手表设计图,防塵型の腕時計の設計図,防震手錶設計圖,Dustproof Leather Wristwatch Blueprint,방진 손목 시계 설계도면,สูตรนาฬิกาลายพราง,equipment.json
+13_equipment,装备,Equipment.108005,哥特风手表设计图,ゴシック風の腕時計の設計図,哥德風手錶設計圖,Gothic Leather Wristwatch Blueprint,고딕풍 손목 시계 설계도면,สูตรนาฬิกาข้อมือโกธิก,equipment.json
+13_equipment,装备,Equipment.108006,街头时尚表设计图,ストリートファッションウォッチの設計図,街頭時尚手錶設計圖,Street Fashion Wristwatch Blueprint,스트릿 패션 시계 설계도면,สูตรนาฬิกาสตรีทแฟชั่น,equipment.json
+13_equipment,装备,Equipment.108007,ローレライの腕時計の設計図,ローレライの腕時計の設計図,ローレライの腕時計の設計図,ローレライの腕時計の設計図,로렐라이 손목 시계 설계도면,ローレライの腕時計の設計図,equipment.json
+13_equipment,装备,Equipment.109001,雪花吊坠设计图,雪花のペンダントの設計図,雪花墜飾設計圖,Snowflake Pendant Blueprint,눈꽃 펜던트 설계도면,สูตรสร้อยคอเกล็ดหิมะ,equipment.json
+13_equipment,装备,Equipment.109002,尼科莱盒式链坠设计图,ニコライのロケットペンダントの設計図,尼科萊盒式鍊墜設計圖,Nicholai Locket Blueprint,니콜라이 로켓 설계도면,สูตรสร้อยคอนิโคไล,equipment.json
+13_equipment,装备,Equipment.109003,十字架项圈设计图,十字架のチョーカーの設計図,十字架項鍊設計圖,Cross Choker Blueprint,십자가 초커 설계도면,สูตรโชคเกอร์จี้กางเขน,equipment.json
+13_equipment,装备,Equipment.109004,狗牌设计图,ドッグタグの設計図,識別牌設計圖,Dog Tag Blueprint,도그택 설계도면,สูตรป้ายชื่อทหาร,equipment.json
+13_equipment,装备,Equipment.109005,朋克项圈设计图,パンクチョーカーの設計図,龐克頸圈設計圖,Punk Choker Blueprint,펑크 초커 설계도면,สูตรโชคเกอร์พังก์,equipment.json
+13_equipment,装备,Equipment.109006,锁链项链设计图,チェーンネックレスの設計図,鍊式項鍊設計圖,Chain Necklace Blueprint,체인 목걸이 설계도면,สูตรสร้อยคอโซ่,equipment.json
+13_equipment,装备,Equipment.109007,グリーンリーフネックレスの設計図,グリーンリーフネックレスの設計図,グリーンリーフネックレスの設計図,グリーンリーフネックレスの設計図,그린리프 목걸이 설계도면,グリーンリーフネックレスの設計図,equipment.json

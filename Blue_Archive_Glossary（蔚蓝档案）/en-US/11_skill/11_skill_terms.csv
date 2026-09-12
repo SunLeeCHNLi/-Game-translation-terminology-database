@@ -1,0 +1,1070 @@
+﻿id,term,src_table
+Skill.10000.Ex,Hard-Boiled Shot,students.json:Skills
+Skill.10000.Public,Noir Attack,students.json:Skills
+Skill.10000.GearPublic,Noir Attack+,students.json:Skills
+Skill.10000.Passive,The Gravity of a Boss,students.json:Skills
+Skill.10000.WeaponPassive,The Gravity of a Boss+,students.json:Skills
+Skill.10000.ExtraPassive,Way of the Outlaw,students.json:Skills
+Skill.10001.Ex,Undying Will,students.json:Skills
+Skill.10001.Public,Single-Minded Assault,students.json:Skills
+Skill.10001.GearPublic,Single-Minded Assault+,students.json:Skills
+Skill.10001.Passive,Specialist's Respite,students.json:Skills
+Skill.10001.WeaponPassive,Specialist's Respite+,students.json:Skills
+Skill.10001.ExtraPassive,Iron Will,students.json:Skills
+Skill.10002.Ex,Piercing Elegance,students.json:Skills
+Skill.10002.Public,Exotic Explosives,students.json:Skills
+Skill.10002.Passive,Gourmand's Honor,students.json:Skills
+Skill.10002.WeaponPassive,Gourmand's Honor+,students.json:Skills
+Skill.10002.ExtraPassive,Prudent Connoisseur,students.json:Skills
+Skill.10003.Ex,"Help Me, Peroro!",students.json:Skills
+Skill.10003.Public,Peroro's Support,students.json:Skills
+Skill.10003.Passive,Collector's Spirit,students.json:Skills
+Skill.10003.WeaponPassive,Collector's Spirit+,students.json:Skills
+Skill.10003.ExtraPassive,Agile Collector,students.json:Skills
+Skill.10004.Ex,Denouement: Ishbosheth,students.json:Skills
+Skill.10004.Public,Lock & Load,students.json:Skills
+Skill.10004.GearPublic,Lock & Load+,students.json:Skills
+Skill.10004.Passive,Prefect Team Member Judgment,students.json:Skills
+Skill.10004.WeaponPassive,Prefect Team Member Judgment+,students.json:Skills
+Skill.10004.ExtraPassive,Out-and-Out,students.json:Skills
+Skill.10005.Ex,Tactical Suppression,students.json:Skills
+Skill.10005.Public,Emergency First Aid,students.json:Skills
+Skill.10005.GearPublic,Emergency First Aid+,students.json:Skills
+Skill.10005.Passive,Foreclosure Task Force President,students.json:Skills
+Skill.10005.WeaponPassive,Foreclosure Task Force President+,students.json:Skills
+Skill.10005.ExtraPassive,Expert Suppression,students.json:Skills
+Skill.10006.Ex,Major Roundup,students.json:Skills
+Skill.10006.Public,Bounty,students.json:Skills
+Skill.10006.Passive,One-Shot Bullseye,students.json:Skills
+Skill.10006.WeaponPassive,One-Shot Bullseye+,students.json:Skills
+Skill.10006.ExtraPassive,Prefect Team Nerve,students.json:Skills
+Skill.10007.Ex,World Beautification!,students.json:Skills
+Skill.10007.Public,Paintball Lob!,students.json:Skills
+Skill.10007.Passive,Dazzling Display,students.json:Skills
+Skill.10007.WeaponPassive,Dazzling Display+,students.json:Skills
+Skill.10007.ExtraPassive,Suffering for Art,students.json:Skills
+Skill.10008.Ex,You Got a Death Wish or Somethin'?,students.json:Skills
+Skill.10008.Public,Cruisin' for a Bruisin'!,students.json:Skills
+Skill.10008.GearPublic,Cruisin' for a Bruisin'!+,students.json:Skills
+Skill.10008.Passive,Call Sign Double O,students.json:Skills
+Skill.10008.WeaponPassive,Call Sign Double O+,students.json:Skills
+Skill.10008.ExtraPassive,Enhanced Rage,students.json:Skills
+Skill.10009.Ex,Cheese 'n' Chocolate Hamburger!,students.json:Skills
+Skill.10009.Public,"Ready, Set, Boom!",students.json:Skills
+Skill.10009.GearPublic,"Ready, Set, Boom!+",students.json:Skills
+Skill.10009.Passive,What to Eat Next?,students.json:Skills
+Skill.10009.WeaponPassive,What to Eat Next?+,students.json:Skills
+Skill.10009.ExtraPassive,Savor the Flavor!,students.json:Skills
+Skill.10010.Ex,Drone Support,students.json:Skills
+Skill.10010.Public,Grenade Lob,students.json:Skills
+Skill.10010.GearPublic,Grenade Lob+,students.json:Skills
+Skill.10010.Passive,Target Weaknesses,students.json:Skills
+Skill.10010.WeaponPassive,Target Weaknesses+,students.json:Skills
+Skill.10010.ExtraPassive,Very Rapid Fire,students.json:Skills
+Skill.10011.Ex,"Where Did You Go, You Rascals?",students.json:Skills
+Skill.10011.Public,"Pay Attention, Everyone!",students.json:Skills
+Skill.10011.Passive,Instructor's Poise,students.json:Skills
+Skill.10011.WeaponPassive,Instructor's Poise+,students.json:Skills
+Skill.10011.ExtraPassive,Plum Blossom Training,students.json:Skills
+Skill.10012.Ex,Shoot and Score,students.json:Skills
+Skill.10012.Public,Warm-Up,students.json:Skills
+Skill.10012.GearPublic,Warm-Up+,students.json:Skills
+Skill.10012.Passive,Pinpoint Attack,students.json:Skills
+Skill.10012.WeaponPassive,Pinpoint Attack+,students.json:Skills
+Skill.10012.ExtraPassive,Tension Boost!,students.json:Skills
+Skill.10013.Ex,Bizarre Devastation,students.json:Skills
+Skill.10013.Public,Intense Passion,students.json:Skills
+Skill.10013.GearPublic,Intense Passion+,students.json:Skills
+Skill.10013.Passive,Agility,students.json:Skills
+Skill.10013.WeaponPassive,Agility+,students.json:Skills
+Skill.10013.ExtraPassive,Uncontrollable Power,students.json:Skills
+Skill.10014.Ex,Izuna Ninja Scrolls!,students.json:Skills
+Skill.10014.Public,"Secret Weapon, Exploding Shurikens!",students.json:Skills
+Skill.10014.Passive,Izuna-Style Prickly Ninjutsu!,students.json:Skills
+Skill.10014.WeaponPassive,Izuna-Style Prickly Ninjutsu!+,students.json:Skills
+Skill.10014.ExtraPassive,Izuna-Style Rapid Growth Ninjutsu!,students.json:Skills
+Skill.10015.Ex,Balance Breakdown,students.json:Skills
+Skill.10015.Public,Blinding Light!,students.json:Skills
+Skill.10015.Passive,Enhanced Magic!,students.json:Skills
+Skill.10015.WeaponPassive,Enhanced Magic!+,students.json:Skills
+Skill.10015.ExtraPassive,Supernova Awakening!,students.json:Skills
+Skill.10016.Ex,Drawing Art,students.json:Skills
+Skill.10016.Public,Artistic Polish,students.json:Skills
+Skill.10016.Passive,Artist's Inspiration,students.json:Skills
+Skill.10016.WeaponPassive,Artist's Inspiration+,students.json:Skills
+Skill.10016.ExtraPassive,Developmental Synergy: Momoi,students.json:Skills
+Skill.10017.Ex,Call in the Guards!,students.json:Skills
+Skill.10017.Public,You Shall Be Purged!,students.json:Skills
+Skill.10017.Passive,Mustache Power!,students.json:Skills
+Skill.10017.WeaponPassive,Mustache Power!+,students.json:Skills
+Skill.10017.ExtraPassive,Respect the 'Stache!,students.json:Skills
+Skill.10018.Ex,Press Start!,students.json:Skills
+Skill.10018.Public,Max Chain Combo!,students.json:Skills
+Skill.10018.Passive,Debugging Process...,students.json:Skills
+Skill.10018.WeaponPassive,Debugging Process...+,students.json:Skills
+Skill.10018.ExtraPassive,A Shy Girl's Courage,students.json:Skills
+Skill.10019.Ex,Intulit Mortem,students.json:Skills
+Skill.10019.Public,Sagitta Mortis,students.json:Skills
+Skill.10019.Passive,Grueling Training,students.json:Skills
+Skill.10019.WeaponPassive,Grueling Training+,students.json:Skills
+Skill.10019.ExtraPassive,Kick 'em While They're Down,students.json:Skills
+Skill.10020.Ex,Holy Grenade,students.json:Skills
+Skill.10020.Public,I'll Heal You!,students.json:Skills
+Skill.10020.Passive,I'm Trying!,students.json:Skills
+Skill.10020.WeaponPassive,I'm Trying!+,students.json:Skills
+Skill.10020.ExtraPassive,Being the Elite!,students.json:Skills
+Skill.10021.Ex,Spicea Aqua,students.json:Skills
+Skill.10021.Public,Ira Litore,students.json:Skills
+Skill.10021.Passive,Cold Water,students.json:Skills
+Skill.10021.WeaponPassive,Cold Water+,students.json:Skills
+Skill.10021.ExtraPassive,Salt Water in the Wound,students.json:Skills
+Skill.10022.Ex,Ish-bosheth of the Beach,students.json:Skills
+Skill.10022.Public,Throw and Knock-Out,students.json:Skills
+Skill.10022.GearPublic,Throw and Knock-Out+,students.json:Skills
+Skill.10022.Passive,Prefect Team Inexorability,students.json:Skills
+Skill.10022.WeaponPassive,Prefect Team Inexorability+,students.json:Skills
+Skill.10022.ExtraPassive,Morality Check,students.json:Skills
+Skill.10023.Ex,Storm and Gale,students.json:Skills
+Skill.10023.Public,Cutting the Gordian Knot,students.json:Skills
+Skill.10023.GearPublic,Cutting the Gordian Knot+,students.json:Skills
+Skill.10023.Passive,Sharp Shooting,students.json:Skills
+Skill.10023.WeaponPassive,Sharp Shooting+,students.json:Skills
+Skill.10023.ExtraPassive,Coercion of the Specialist,students.json:Skills
+Skill.10024.Ex,Riding Grenade,students.json:Skills
+Skill.10024.Public,Concentrated Fire,students.json:Skills
+Skill.10024.Passive,Rapid Fire,students.json:Skills
+Skill.10024.WeaponPassive,Rapid Fire+,students.json:Skills
+Skill.10024.ExtraPassive,Insightful Fire,students.json:Skills
+Skill.10025.Ex,Someone's Been Naughty,students.json:Skills
+Skill.10025.Public,You Need a Talking To!,students.json:Skills
+Skill.10025.GearPublic,You Need a Talking To!+,students.json:Skills
+Skill.10025.Passive,Bundle of Energy,students.json:Skills
+Skill.10025.WeaponPassive,Bundle of Energy+,students.json:Skills
+Skill.10025.ExtraPassive,Sooo Heavy!,students.json:Skills
+Skill.10026.Ex,Hold It Right There!,students.json:Skills
+Skill.10026.Public,What Are You Looking At?!,students.json:Skills
+Skill.10026.Passive,Abrasion,students.json:Skills
+Skill.10026.WeaponPassive,Abrasion+,students.json:Skills
+Skill.10026.ExtraPassive,Much More Painful,students.json:Skills
+Skill.10027.Ex,Fast and Accurate,students.json:Skills
+Skill.10027.Public,Area Fire,students.json:Skills
+Skill.10027.Passive,Enhanced Firepower,students.json:Skills
+Skill.10027.WeaponPassive,Enhanced Firepower+,students.json:Skills
+Skill.10027.ExtraPassive,Precise and Careful,students.json:Skills
+Skill.10028.Ex,Watch This!,students.json:Skills
+Skill.10028.Public,Get Pumped!,students.json:Skills
+Skill.10028.GearPublic,Get Pumped!+,students.json:Skills
+Skill.10028.Passive,Savoring It,students.json:Skills
+Skill.10028.WeaponPassive,Savoring It+,students.json:Skills
+Skill.10028.ExtraPassive,Here's a Freebie!,students.json:Skills
+Skill.10029.Ex,Hidden Ace,students.json:Skills
+Skill.10029.Public,One Bite at a Time!,students.json:Skills
+Skill.10029.Passive,Hearty!,students.json:Skills
+Skill.10029.WeaponPassive,Hearty!+,students.json:Skills
+Skill.10029.ExtraPassive,A Mouth Full of Happiness,students.json:Skills
+Skill.10030.Ex,Type A Combat Stimulant,students.json:Skills
+Skill.10030.Public,Reinforced Combat Enhancement,students.json:Skills
+Skill.10030.Passive,Relaxing Vacation,students.json:Skills
+Skill.10030.WeaponPassive,Relaxing Vacation+,students.json:Skills
+Skill.10030.ExtraPassive,Cautious First Aid Head,students.json:Skills
+Skill.10031.Ex,Hard-Boiled Hanetsuki Shot,students.json:Skills
+Skill.10031.Public,Noir-Style Hanetsuki Attack,students.json:Skills
+Skill.10031.Passive,Gorgeous Dignity of a Boss,students.json:Skills
+Skill.10031.WeaponPassive,Gorgeous Dignity of a Boss+,students.json:Skills
+Skill.10031.ExtraPassive,Perfect Tactics of a Boss,students.json:Skills
+Skill.10032.Ex,New Year's Symphony,students.json:Skills
+Skill.10032.Public,Imp Chorus,students.json:Skills
+Skill.10032.Passive,How to Have More Fun,students.json:Skills
+Skill.10032.WeaponPassive,How to Have More Fun+,students.json:Skills
+Skill.10032.ExtraPassive,Cute Imp Scheme,students.json:Skills
+Skill.10033.Ex,Crimson Flower Divination,students.json:Skills
+Skill.10033.Public,Scattering Petals,students.json:Skills
+Skill.10033.GearPublic,Scattering Petals+,students.json:Skills
+Skill.10033.Passive,Bloom of Destruction,students.json:Skills
+Skill.10033.WeaponPassive,Bloom of Destruction+,students.json:Skills
+Skill.10033.ExtraPassive,Full Bloom Battle Instinct,students.json:Skills
+Skill.10034.Ex,Cherry Blossom Viewing,students.json:Skills
+Skill.10034.Public,I Brought a Bento,students.json:Skills
+Skill.10034.GearPublic,I Brought a Bento+,students.json:Skills
+Skill.10034.Passive,How About Another Plate?,students.json:Skills
+Skill.10034.WeaponPassive,How About Another Plate?+,students.json:Skills
+Skill.10034.ExtraPassive,Shall We Have a Taste?,students.json:Skills
+Skill.10035.Ex,Ancient Texts Expert,students.json:Skills
+Skill.10035.Public,Imparting Knowledge,students.json:Skills
+Skill.10035.Passive,Expert Skill,students.json:Skills
+Skill.10035.WeaponPassive,Expert Skill+,students.json:Skills
+Skill.10035.ExtraPassive,Jitters,students.json:Skills
+Skill.10036.Ex,Last Means of Communication,students.json:Skills
+Skill.10036.Public,Let's Talk First...!,students.json:Skills
+Skill.10036.GearPublic,Let's Talk First...!+,students.json:Skills
+Skill.10036.Passive,Unexpected Development,students.json:Skills
+Skill.10036.WeaponPassive,Unexpected Development+,students.json:Skills
+Skill.10036.ExtraPassive,Leave the Heavy Lifting to Me!,students.json:Skills
+Skill.10037.Ex,Revolutionary Charge!,students.json:Skills
+Skill.10037.Public,No Retreat!,students.json:Skills
+Skill.10037.Passive,Evading Isn't Retreating!,students.json:Skills
+Skill.10037.WeaponPassive,Evading Isn't Retreating!+,students.json:Skills
+Skill.10037.ExtraPassive,A Bold Decision,students.json:Skills
+Skill.10038.Ex,Launch Flash Drone,students.json:Skills
+Skill.10038.Public,Claymore Burst,students.json:Skills
+Skill.10038.GearPublic,Claymore Burst+,students.json:Skills
+Skill.10038.Passive,Equip Special Bulletproof Plate,students.json:Skills
+Skill.10038.WeaponPassive,Equip Special Bulletproof Plate+,students.json:Skills
+Skill.10038.ExtraPassive,Disturbance,students.json:Skills
+Skill.10039.Ex,Observe Weakness,students.json:Skills
+Skill.10039.Public,Unexpected Blow,students.json:Skills
+Skill.10039.GearPublic,Unexpected Blow+,students.json:Skills
+Skill.10039.Passive,Deep Breathing,students.json:Skills
+Skill.10039.WeaponPassive,Deep Breathing+,students.json:Skills
+Skill.10039.ExtraPassive,Special Sniper Bullets,students.json:Skills
+Skill.10040.Ex,Ts-Tsukuyo Ninja Scroll!,students.json:Skills
+Skill.10040.Public,Shuriken Practice!,students.json:Skills
+Skill.10040.Passive,I'm So Tall...,students.json:Skills
+Skill.10040.WeaponPassive,I'm So Tall...+,students.json:Skills
+Skill.10040.ExtraPassive,I Can't Go Down Yet!,students.json:Skills
+Skill.10041.Ex,World of Futility,students.json:Skills
+Skill.10041.Public,Finish It Quickly,students.json:Skills
+Skill.10041.GearPublic,Finish It Quickly+,students.json:Skills
+Skill.10041.Passive,Casual Technique,students.json:Skills
+Skill.10041.WeaponPassive,Casual Technique+,students.json:Skills
+Skill.10041.ExtraPassive,Equivalent Exchange,students.json:Skills
+Skill.10042.Ex,Is This My Power...?,students.json:Skills
+Skill.10042.Public,Let's Hide,students.json:Skills
+Skill.10042.Passive,Practice Makes Perfect,students.json:Skills
+Skill.10042.WeaponPassive,Practice Makes Perfect+,students.json:Skills
+Skill.10042.ExtraPassive,High Pain Tolerance,students.json:Skills
+Skill.10043.Ex,Celadon Flower Divination,students.json:Skills
+Skill.10043.Public,Just For You,students.json:Skills
+Skill.10043.Passive,Uncontrollable Love,students.json:Skills
+Skill.10043.WeaponPassive,Uncontrollable Love+,students.json:Skills
+Skill.10043.ExtraPassive,Midsummer Passion,students.json:Skills
+Skill.10044.Ex,Time to Cool Off!,students.json:Skills
+Skill.10044.Public,Everyone Get Pumped!,students.json:Skills
+Skill.10044.Passive,I Can't Wait!,students.json:Skills
+Skill.10044.WeaponPassive,I Can't Wait!+,students.json:Skills
+Skill.10044.ExtraPassive,It's Gonna Be Cold!,students.json:Skills
+Skill.10045.Ex,Surface Support,students.json:Skills
+Skill.10045.Public,Surface Attack,students.json:Skills
+Skill.10045.Passive,Endure the Heat,students.json:Skills
+Skill.10045.WeaponPassive,Endure the Heat+,students.json:Skills
+Skill.10045.ExtraPassive,Fun at the Beach,students.json:Skills
+Skill.10046.Ex,Izuna Ninja Scrolls! Summer Style!,students.json:Skills
+Skill.10046.Public,Izuna-Style Bobble Bubble Technique!,students.json:Skills
+Skill.10046.Passive,My Lord! It's Summer!,students.json:Skills
+Skill.10046.WeaponPassive,My Lord! It's Summer!+,students.json:Skills
+Skill.10046.ExtraPassive,Secret Izuna-Style Summer Ninjutsu!,students.json:Skills
+Skill.10047.Ex,Summer Beach Fever!,students.json:Skills
+Skill.10047.Public,Beach Volleyball Shot!,students.json:Skills
+Skill.10047.GearPublic,Beach Volleyball Shot!+,students.json:Skills
+Skill.10047.Passive,Take a Walk!,students.json:Skills
+Skill.10047.WeaponPassive,Take a Walk!+,students.json:Skills
+Skill.10047.ExtraPassive,Getting Chills?,students.json:Skills
+Skill.10048.Ex,Et Omnia Vanitas!,students.json:Skills
+Skill.10048.Public,Oriented Shooting,students.json:Skills
+Skill.10048.Passive,The Fruits of Training,students.json:Skills
+Skill.10048.WeaponPassive,The Fruits of Training+,students.json:Skills
+Skill.10048.ExtraPassive,Responsibility of a Leader,students.json:Skills
+Skill.10049.Ex,"Sweet, Sweet Gunfire",students.json:Skills
+Skill.10049.Public,Old Habits,students.json:Skills
+Skill.10049.Passive,Sugar High,students.json:Skills
+Skill.10049.WeaponPassive,Sugar High+,students.json:Skills
+Skill.10049.ExtraPassive,The First Taste,students.json:Skills
+Skill.10050.Ex,Great Job,students.json:Skills
+Skill.10050.Public,Looking Forward to the Next Time,students.json:Skills
+Skill.10050.Passive,Instructor's Sense of Duty,students.json:Skills
+Skill.10050.WeaponPassive,Instructor's Sense of Duty+,students.json:Skills
+Skill.10050.ExtraPassive,Plum Blossom Garden Method,students.json:Skills
+Skill.10051.Ex,Thundergun MK-III Enhancement,students.json:Skills
+Skill.10051.Public,Passionate Gunfire,students.json:Skills
+Skill.10051.Passive,Cheer Captain's Passion,students.json:Skills
+Skill.10051.WeaponPassive,Cheer Captain's Passion+,students.json:Skills
+Skill.10051.ExtraPassive,Cheer Captain's Drive,students.json:Skills
+Skill.10052.Ex,Speedy Record-Keeper,students.json:Skills
+Skill.10052.Public,Found an Opening!,students.json:Skills
+Skill.10052.Passive,The Secretary's Leisure,students.json:Skills
+Skill.10052.WeaponPassive,The Secretary's Leisure+,students.json:Skills
+Skill.10052.ExtraPassive,The Secretary's Stubbornness,students.json:Skills
+Skill.10053.Ex,R.S.G!,students.json:Skills
+Skill.10053.Public,Rehydration,students.json:Skills
+Skill.10053.Passive,Mathematical Game Strategy,students.json:Skills
+Skill.10053.WeaponPassive,Mathematical Game Strategy+,students.json:Skills
+Skill.10053.ExtraPassive,Optimal Route Calculation,students.json:Skills
+Skill.10054.Ex,A Tall Drink of Water,students.json:Skills
+Skill.10054.Public,Sisters' Cheer,students.json:Skills
+Skill.10054.Passive,Cheering Attitude,students.json:Skills
+Skill.10054.WeaponPassive,Cheering Attitude+,students.json:Skills
+Skill.10054.ExtraPassive,Devoted Encouragement,students.json:Skills
+Skill.10055.Ex,Shigure's Special Bottle Grenade,students.json:Skills
+Skill.10055.Public,How About a Drink?,students.json:Skills
+Skill.10055.Passive,Sweet Fermentation,students.json:Skills
+Skill.10055.WeaponPassive,Sweet Fermentation+,students.json:Skills
+Skill.10055.ExtraPassive,Wild Intuition,students.json:Skills
+Skill.10056.Ex,Echo of Blessings,students.json:Skills
+Skill.10056.Public,Assorted Gift Set C,students.json:Skills
+Skill.10056.Passive,Guardian Angel's Will,students.json:Skills
+Skill.10056.WeaponPassive,Guardian Angel's Will+,students.json:Skills
+Skill.10056.ExtraPassive,Holy Aegis,students.json:Skills
+Skill.10057.Ex,Gourmand's Rage,students.json:Skills
+Skill.10057.Public,Gourmand's Creed,students.json:Skills
+Skill.10057.Passive,New Year's Viande,students.json:Skills
+Skill.10057.WeaponPassive,New Year's Viande+,students.json:Skills
+Skill.10057.ExtraPassive,Farewell Dessert,students.json:Skills
+Skill.10058.Ex,Prideful Conviction,students.json:Skills
+Skill.10058.Public,Stern Verdict,students.json:Skills
+Skill.10058.Passive,Knight's Will,students.json:Skills
+Skill.10058.WeaponPassive,Knight's Will+,students.json:Skills
+Skill.10058.ExtraPassive,Unflinching Courage,students.json:Skills
+Skill.10059.Ex,Kyrie Eleison,students.json:Skills
+Skill.10059.Public,Call of the Stars,students.json:Skills
+Skill.10059.Passive,Gloria Patri,students.json:Skills
+Skill.10059.WeaponPassive,Gloria Patri+,students.json:Skills
+Skill.10059.ExtraPassive,Benedictio,students.json:Skills
+Skill.10060.Ex,"You Like it Fiery, Right?",students.json:Skills
+Skill.10060.Public,Shall I Warm it Up?,students.json:Skills
+Skill.10060.Passive,This is Light Work!,students.json:Skills
+Skill.10060.WeaponPassive,This is Light Work!+,students.json:Skills
+Skill.10060.ExtraPassive,Ah! So Refreshing!,students.json:Skills
+Skill.10061.Ex,Proof of Baptism,students.json:Skills
+Skill.10061.Public,Sister's Demeanor,students.json:Skills
+Skill.10061.Passive,Arbiter of Sin,students.json:Skills
+Skill.10061.WeaponPassive,Arbiter of Sin+,students.json:Skills
+Skill.10061.ExtraPassive,Light Be with You,students.json:Skills
+Skill.10062.Ex,System: Abi-Eshuh,students.json:Skills
+Skill.10062.Public,Tactical Decision,students.json:Skills
+Skill.10062.GearPublic,Tactical Decision+,students.json:Skills
+Skill.10062.Passive,Codename Zero-Four,students.json:Skills
+Skill.10062.WeaponPassive,Codename Zero-Four+,students.json:Skills
+Skill.10062.ExtraPassive,Eye for an Eye,students.json:Skills
+Skill.10063.Ex,Unexpected Variable,students.json:Skills
+Skill.10063.Public,One? Or Two?!,students.json:Skills
+Skill.10063.Passive,Do You Believe in Miracles?,students.json:Skills
+Skill.10063.WeaponPassive,Do You Believe in Miracles?+,students.json:Skills
+Skill.10063.ExtraPassive,Butterfly Effect,students.json:Skills
+Skill.10064.Ex,New Year's Amulet,students.json:Skills
+Skill.10064.Public,Kitty Cat Time,students.json:Skills
+Skill.10064.Passive,A New Misunderstanding,students.json:Skills
+Skill.10064.WeaponPassive,A New Misunderstanding+,students.json:Skills
+Skill.10064.ExtraPassive,Reciprocal Relationship,students.json:Skills
+Skill.10065.Ex,Fanatical Behavior,students.json:Skills
+Skill.10065.Public,Disciplined Preparation,students.json:Skills
+Skill.10065.GearPublic,Disciplined Preparation+,students.json:Skills
+Skill.10065.Passive,Unwavering Passion,students.json:Skills
+Skill.10065.WeaponPassive,Unwavering Passion+,students.json:Skills
+Skill.10065.ExtraPassive,Serene Relaxation,students.json:Skills
+Skill.10066.Ex,"Aris, Clean Up!",students.json:Skills
+Skill.10066.Public,Earnest Handiwork,students.json:Skills
+Skill.10066.GearPublic,Earnest Handiwork+,students.json:Skills
+Skill.10066.Passive,Paycheck Bonus!,students.json:Skills
+Skill.10066.WeaponPassive,Paycheck Bonus!+,students.json:Skills
+Skill.10066.ExtraPassive,Class Change: Hero Maid!,students.json:Skills
+Skill.10067.Ex,Special Weapon: Gauntlet,students.json:Skills
+Skill.10067.Public,Covert Agent Tool,students.json:Skills
+Skill.10067.Passive,Agent's Expertise,students.json:Skills
+Skill.10067.WeaponPassive,Agent's Expertise+,students.json:Skills
+Skill.10067.ExtraPassive,Weapon Mastery,students.json:Skills
+Skill.10068.Ex,Duel Me!,students.json:Skills
+Skill.10068.Public,Victory Pose!,students.json:Skills
+Skill.10068.Passive,I Can Do This All Day,students.json:Skills
+Skill.10068.WeaponPassive,I Can Do This All Day+,students.json:Skills
+Skill.10068.ExtraPassive,The Reisa Effect,students.json:Skills
+Skill.10069.Ex,World's Tastiest!,students.json:Skills
+Skill.10069.Public,Business Safety Regulations,students.json:Skills
+Skill.10069.Passive,Merchant Guild President's Pride,students.json:Skills
+Skill.10069.WeaponPassive,Merchant Guild President's Pride+,students.json:Skills
+Skill.10069.ExtraPassive,Memorable Taste,students.json:Skills
+Skill.10070.Ex,Well Matched,students.json:Skills
+Skill.10070.Public,Unstoppable,students.json:Skills
+Skill.10070.Passive,Stand Your Ground,students.json:Skills
+Skill.10070.WeaponPassive,Stand Your Ground+,students.json:Skills
+Skill.10070.ExtraPassive,Determination,students.json:Skills
+Skill.10071.Ex,Flying Drone Launch,students.json:Skills
+Skill.10071.Public,UV Protection,students.json:Skills
+Skill.10071.Passive,Disciplined Training,students.json:Skills
+Skill.10071.WeaponPassive,Disciplined Training+,students.json:Skills
+Skill.10071.ExtraPassive,Tactical Maneuver,students.json:Skills
+Skill.10072.Ex,Throw Flare!,students.json:Skills
+Skill.10072.Public,Cover Fire,students.json:Skills
+Skill.10072.Passive,Precise Maintenance,students.json:Skills
+Skill.10072.WeaponPassive,Precise Maintenance+,students.json:Skills
+Skill.10072.ExtraPassive,Camaraderie,students.json:Skills
+Skill.10073.Ex,Desert Island Cafe,students.json:Skills
+Skill.10073.Public,Decisive Clue,students.json:Skills
+Skill.10073.Passive,Seeker's Will,students.json:Skills
+Skill.10073.WeaponPassive,Seeker's Will+,students.json:Skills
+Skill.10073.ExtraPassive,Clue Uncovered,students.json:Skills
+Skill.10074.Ex,Wet All Over ♥,students.json:Skills
+Skill.10074.Public,Take It All ♥,students.json:Skills
+Skill.10074.Passive,Midsummer Truth,students.json:Skills
+Skill.10074.WeaponPassive,Midsummer Truth+,students.json:Skills
+Skill.10074.ExtraPassive,Filling Up,students.json:Skills
+Skill.10075.Ex,Celestial Inspiration,students.json:Skills
+Skill.10075.Public,Delusional Drive,students.json:Skills
+Skill.10075.Passive,Drawing Inspiration,students.json:Skills
+Skill.10075.WeaponPassive,Drawing Inspiration+,students.json:Skills
+Skill.10075.ExtraPassive,Climax Catalyst!,students.json:Skills
+Skill.10076.Ex,Festive Barrage,students.json:Skills
+Skill.10076.Public,"Uh, About That!",students.json:Skills
+Skill.10076.Passive,Is That a Question?,students.json:Skills
+Skill.10076.WeaponPassive,Is That a Question?+,students.json:Skills
+Skill.10076.ExtraPassive,Happy to Help!,students.json:Skills
+Skill.10077.Ex,I Have a Request,students.json:Skills
+Skill.10077.Public,Justice Task Force Network,students.json:Skills
+Skill.10077.Passive,Keen Instincts,students.json:Skills
+Skill.10077.WeaponPassive,Keen Instincts+,students.json:Skills
+Skill.10077.ExtraPassive,It Was Inevitable,students.json:Skills
+Skill.10078.Ex,Giant Heel Crush,students.json:Skills
+Skill.10078.Public,It's About Sending A Message,students.json:Skills
+Skill.10078.Passive,Madman Theory,students.json:Skills
+Skill.10078.WeaponPassive,Madman Theory+,students.json:Skills
+Skill.10078.ExtraPassive,Have the Drills Stopped Screaming?,students.json:Skills
+Skill.10079.Ex,The Railgun of Tokiwadai,students.json:Skills
+Skill.10079.Public,It's Going to Sting!,students.json:Skills
+Skill.10079.Passive,Electromagnetic Manipulation,students.json:Skills
+Skill.10079.WeaponPassive,Electromagnetic Manipulation+,students.json:Skills
+Skill.10079.ExtraPassive,Don't Make Me Repeat Myself,students.json:Skills
+Skill.10080.Ex,Mental Out,students.json:Skills
+Skill.10080.Public,Assist Me for a Moment,students.json:Skills
+Skill.10080.Passive,Queen of Tokiwadai,students.json:Skills
+Skill.10080.WeaponPassive,Queen of Tokiwadai+,students.json:Skills
+Skill.10080.ExtraPassive,"I'm Very Clever, You Know",students.json:Skills
+Skill.10081.Ex,Blooming Resolution,students.json:Skills
+Skill.10081.Public,Long-Awaited Reunion,students.json:Skills
+Skill.10081.Passive,Hyakkaryouran's Elite,students.json:Skills
+Skill.10081.WeaponPassive,Hyakkaryouran's Elite+,students.json:Skills
+Skill.10081.ExtraPassive,Bear the Responsibility,students.json:Skills
+Skill.10082.Ex,Hyakkaryouran Marksmanship,students.json:Skills
+Skill.10082.Public,Burning Passion,students.json:Skills
+Skill.10082.Passive,Hyakkaryouran's Disciplinarian,students.json:Skills
+Skill.10082.WeaponPassive,Hyakkaryouran's Disciplinarian+,students.json:Skills
+Skill.10082.ExtraPassive,A Commander's Duty,students.json:Skills
+Skill.10083.Ex,Heavenly Tactics,students.json:Skills
+Skill.10083.Public,"Know Thyself and Thy Enemy, Conquer a Hundred Battles",students.json:Skills
+Skill.10083.Passive,Tactician's Expertise,students.json:Skills
+Skill.10083.WeaponPassive,Tactician's Expertise+,students.json:Skills
+Skill.10083.ExtraPassive,Furin Kazan Strategy,students.json:Skills
+Skill.10084.Ex,Bear Bell Toss,students.json:Skills
+Skill.10084.Public,Resonance Effect,students.json:Skills
+Skill.10084.Passive,Sound Amplification,students.json:Skills
+Skill.10084.WeaponPassive,Sound Amplification+,students.json:Skills
+Skill.10084.ExtraPassive,Transmission Interference,students.json:Skills
+Skill.10085.Ex,Campfire Delicacies,students.json:Skills
+Skill.10085.Public,Share the Warmth,students.json:Skills
+Skill.10085.Passive,Caffeine Withdrawals,students.json:Skills
+Skill.10085.WeaponPassive,Caffeine Withdrawals+,students.json:Skills
+Skill.10085.ExtraPassive,Joys of Camping,students.json:Skills
+Skill.10086.Ex,Opening: Ishbosheth,students.json:Skills
+Skill.10086.Public,Thorough Preparation,students.json:Skills
+Skill.10086.Passive,A Performer's Mindset,students.json:Skills
+Skill.10086.WeaponPassive,A Performer's Mindset+,students.json:Skills
+Skill.10086.ExtraPassive,My Sincere Feelings,students.json:Skills
+Skill.10087.Ex,Perfect Agent,students.json:Skills
+Skill.10087.Public,I Don't Miss!,students.json:Skills
+Skill.10087.Passive,Agent's Confidence,students.json:Skills
+Skill.10087.WeaponPassive,Agent's Confidence+,students.json:Skills
+Skill.10087.ExtraPassive,Operation Outcome,students.json:Skills
+Skill.10088.Ex,Shadow Shots,students.json:Skills
+Skill.10088.Public,Recovered Senses,students.json:Skills
+Skill.10088.Passive,Eye of the Assassin,students.json:Skills
+Skill.10088.WeaponPassive,Eye of the Assassin+,students.json:Skills
+Skill.10088.ExtraPassive,Infiltration Mode,students.json:Skills
+Skill.10089.Ex,Intriguing Proposal,students.json:Skills
+Skill.10089.Public,Beneficial Deal,students.json:Skills
+Skill.10089.Passive,Dress-up,students.json:Skills
+Skill.10089.WeaponPassive,Dress-up+,students.json:Skills
+Skill.10089.ExtraPassive,Favorable Trade,students.json:Skills
+Skill.10090.Ex,The Festival Begins!,students.json:Skills
+Skill.10090.Public,Tamaya!,students.json:Skills
+Skill.10090.Passive,Heat of the Scene,students.json:Skills
+Skill.10090.WeaponPassive,Heat of the Scene+,students.json:Skills
+Skill.10090.ExtraPassive,Festival Thrill,students.json:Skills
+Skill.10091.Ex,Historic First Verse,students.json:Skills
+Skill.10091.Public,Bass Tuning,students.json:Skills
+Skill.10091.Passive,Fit for the Stage,students.json:Skills
+Skill.10091.WeaponPassive,Fit for the Stage+,students.json:Skills
+Skill.10091.ExtraPassive,Sweet Voice,students.json:Skills
+Skill.10092.Ex,Climax Crescendo,students.json:Skills
+Skill.10092.Public,Visual Maker,students.json:Skills
+Skill.10092.Passive,Rock and Roll,students.json:Skills
+Skill.10092.WeaponPassive,Rock and Roll+,students.json:Skills
+Skill.10092.ExtraPassive,Sweet Harmonics,students.json:Skills
+Skill.10093.Ex,Gehenna's Celebrity!,students.json:Skills
+Skill.10093.Public,Always Twinkling!,students.json:Skills
+Skill.10093.Passive,"Sweet, Sweet Crepes",students.json:Skills
+Skill.10093.WeaponPassive,"Sweet, Sweet Crepes+",students.json:Skills
+Skill.10093.ExtraPassive,That Heart-Fluttering Feeling? ☆,students.json:Skills
+Skill.10094.Ex,Virtual Maid Weapon!,students.json:Skills
+Skill.10094.Public,Our Results Were Fantastic!,students.json:Skills
+Skill.10094.Passive,"Since We’re Here, Let’s Go Red!",students.json:Skills
+Skill.10094.WeaponPassive,"Since We’re Here, Let’s Go Red!+",students.json:Skills
+Skill.10094.ExtraPassive,Hostage Danger Warning,students.json:Skills
+Skill.10095.Ex,Virtual Maid Shot,students.json:Skills
+Skill.10095.Public,Perfect Cleaning,students.json:Skills
+Skill.10095.Passive,"Since We’re Here, Let’s Go Green!",students.json:Skills
+Skill.10095.WeaponPassive,"Since We’re Here, Let’s Go Green!",students.json:Skills
+Skill.10095.ExtraPassive,Score Challenge,students.json:Skills
+Skill.10096.Ex,"Water Safety, Enforced!",students.json:Skills
+Skill.10096.Public,Complete Warm-Up Exercise,students.json:Skills
+Skill.10096.Passive,Lifeguard's Mindset,students.json:Skills
+Skill.10096.WeaponPassive,Lifeguard's Mindset+,students.json:Skills
+Skill.10096.ExtraPassive,Awkward Smile,students.json:Skills
+Skill.10097.Ex,Ballistic Missile Strike,students.json:Skills
+Skill.10097.Public,Hydro Strike,students.json:Skills
+Skill.10097.Passive,Doom-Inspired Observation,students.json:Skills
+Skill.10097.WeaponPassive,Doom-Inspired Observation+,students.json:Skills
+Skill.10097.ExtraPassive,Demolition Expert,students.json:Skills
+Skill.10098.Ex,防御姿勢強化,students.json:Skills
+Skill.10098.Public,プレート交換,students.json:Skills
+Skill.10098.Passive,近距離戦闘システム,students.json:Skills
+Skill.10098.WeaponPassive,近距離戦闘システム+,students.json:Skills
+Skill.10098.ExtraPassive,有効戦術,students.json:Skills
+Skill.10099.Ex,集中突破,students.json:Skills
+Skill.10099.Public,拳銃速射,students.json:Skills
+Skill.10099.Passive,戦術的視野の拡大,students.json:Skills
+Skill.10099.WeaponPassive,戦術的視野の拡大+,students.json:Skills
+Skill.10099.ExtraPassive,制圧攻撃,students.json:Skills
+Skill.10100.Ex,火力強化,students.json:Skills
+Skill.10100.Public,手榴弾投擲・改,students.json:Skills
+Skill.10100.Passive,精密照準,students.json:Skills
+Skill.10100.WeaponPassive,精密照準+,students.json:Skills
+Skill.10100.ExtraPassive,呼吸を整える時間,students.json:Skills
+Skill.10101.Ex,ミュージック、スタート！,students.json:Skills
+Skill.10101.Public,束の間の休息,students.json:Skills
+Skill.10101.Passive,完璧な任務遂行,students.json:Skills
+Skill.10101.WeaponPassive,完璧な任務遂行+,students.json:Skills
+Skill.10101.ExtraPassive,誠実な学生バイト,students.json:Skills
+Skill.10102.Ex,狙うは1等賞！,students.json:Skills
+Skill.10102.Public,特製ハンディファン,students.json:Skills
+Skill.10102.Passive,夏を満喫します！,students.json:Skills
+Skill.10102.WeaponPassive,夏を満喫します！+,students.json:Skills
+Skill.10102.ExtraPassive,バカンス計画,students.json:Skills
+Skill.10103.Ex,う、うわああっ！？,students.json:Skills
+Skill.10103.Public,戦術的保温対策！,students.json:Skills
+Skill.10103.Passive,最後の瞬間まで！,students.json:Skills
+Skill.10103.WeaponPassive,最後の瞬間まで！+,students.json:Skills
+Skill.10103.ExtraPassive,縦深突破！,students.json:Skills
+Skill.10104.Ex,腿法：破蹴手榴弾,students.json:Skills
+Skill.10104.Public,招式：昇龍之形,students.json:Skills
+Skill.10104.Passive,気功：プロテインシェイク,students.json:Skills
+Skill.10104.WeaponPassive,気功：プロテインシェイク+,students.json:Skills
+Skill.10104.ExtraPassive,心法：ウェイトトレーニング,students.json:Skills
+Skill.10105.Ex,溢れるハート,students.json:Skills
+Skill.10105.Public,慈愛の投げキッス,students.json:Skills
+Skill.10105.Passive,たゆまぬ努力,students.json:Skills
+Skill.10105.WeaponPassive,たゆまぬ努力+,students.json:Skills
+Skill.10105.ExtraPassive,今だけは楽しんで,students.json:Skills
+Skill.10106.Ex,ギャップ萌え,students.json:Skills
+Skill.10106.Public,あなたが一番,students.json:Skills
+Skill.10106.Passive,いつも見守っております,students.json:Skills
+Skill.10106.WeaponPassive,いつも見守っております+,students.json:Skills
+Skill.10106.ExtraPassive,皆に声援を,students.json:Skills
+Skill.10107.Ex,本当ですか？,students.json:Skills
+Skill.10107.Public,はい、チーズ！,students.json:Skills
+Skill.10107.Passive,特ダネです！,students.json:Skills
+Skill.10107.WeaponPassive,特ダネです！+,students.json:Skills
+Skill.10107.ExtraPassive,はい！分かりました！,students.json:Skills
+Skill.10108.Ex,ペロロ様危機一髪！,students.json:Skills
+Skill.10108.Public,ナイトケア,students.json:Skills
+Skill.10108.Passive,甘やかな夢,students.json:Skills
+Skill.10108.WeaponPassive,甘やかな夢+,students.json:Skills
+Skill.10108.ExtraPassive,気だるい目覚め,students.json:Skills
+Skill.10109.Ex,消灯後はお静かに,students.json:Skills
+Skill.10109.Public,お気に入りの枕,students.json:Skills
+Skill.10109.Passive,冷徹なる書記,students.json:Skills
+Skill.10109.WeaponPassive,冷徹なる書記+,students.json:Skills
+Skill.10109.ExtraPassive,書記の勘,students.json:Skills
+Skill.13000.Ex,Elegant Removal,students.json:Skills
+Skill.13000.Public,Elegant Infiltration,students.json:Skills
+Skill.13000.Passive,Agile Advancement,students.json:Skills
+Skill.13000.WeaponPassive,Agile Advancement+,students.json:Skills
+Skill.13000.ExtraPassive,Total Suppression,students.json:Skills
+Skill.13001.Ex,You Might Get a Boo-Boo!,students.json:Skills
+Skill.13001.Public,I'm Gonna Shoot!,students.json:Skills
+Skill.13001.GearPublic,I'm Gonna Shoot!+,students.json:Skills
+Skill.13001.Passive,Put Your Back Into It!,students.json:Skills
+Skill.13001.WeaponPassive,Put Your Back Into It!+,students.json:Skills
+Skill.13001.ExtraPassive,This Is Gonna Sting!,students.json:Skills
+Skill.13002.Ex,One Heaping Helping of Grenades!,students.json:Skills
+Skill.13002.Public,One More Spicy Serving!,students.json:Skills
+Skill.13002.Passive,Thanks for the Great Meal!,students.json:Skills
+Skill.13002.WeaponPassive,Thanks for the Great Meal!+,students.json:Skills
+Skill.13002.ExtraPassive,I Still Got Room for More!,students.json:Skills
+Skill.13003.Ex,Armor-Piercing Shot,students.json:Skills
+Skill.13003.Public,Shrewd,students.json:Skills
+Skill.13003.Passive,Precision Aim,students.json:Skills
+Skill.13003.WeaponPassive,Precision Aim+,students.json:Skills
+Skill.13003.ExtraPassive,Target Search,students.json:Skills
+Skill.13004.Ex,Punishment Time!,students.json:Skills
+Skill.13004.Public,Ta-da! ☆,students.json:Skills
+Skill.13004.GearPublic,Ta-da! ☆+,students.json:Skills
+Skill.13004.Passive,"Tsk-Tsk, Shame on You!",students.json:Skills
+Skill.13004.WeaponPassive,"Tsk-Tsk, Shame on You!+",students.json:Skills
+Skill.13004.ExtraPassive,Squeaky-Clean Sweep,students.json:Skills
+Skill.13005.Ex,Panic Bringer,students.json:Skills
+Skill.13005.Public,Panic Shot,students.json:Skills
+Skill.13005.Passive,Scary Face,students.json:Skills
+Skill.13005.WeaponPassive,Scary Face+,students.json:Skills
+Skill.13005.ExtraPassive,"Oh, Well...",students.json:Skills
+Skill.13006.Ex,Scorching Serenade,students.json:Skills
+Skill.13006.Public,Explosive Aria,students.json:Skills
+Skill.13006.Passive,Let's Have Some Fun!,students.json:Skills
+Skill.13006.WeaponPassive,Let's Have Some Fun!+,students.json:Skills
+Skill.13006.ExtraPassive,Wanna Have Some Fun?,students.json:Skills
+Skill.13007.Ex,I'm Hangry!,students.json:Skills
+Skill.13007.Public,Don't Talk to Me When I'm Hungry!,students.json:Skills
+Skill.13007.GearPublic,Don't Talk to Me When I'm Hungry!+,students.json:Skills
+Skill.13007.Passive,Tiny Advantage,students.json:Skills
+Skill.13007.WeaponPassive,Tiny Advantage+,students.json:Skills
+Skill.13007.ExtraPassive,Hungry Foodie,students.json:Skills
+Skill.13008.Ex,Outta My Way!,students.json:Skills
+Skill.13008.Public,Focused Fire,students.json:Skills
+Skill.13008.GearPublic,Focused Fire+,students.json:Skills
+Skill.13008.Passive,Part-Time Worker's Spirit,students.json:Skills
+Skill.13008.WeaponPassive,Part-Time Worker's Spirit+,students.json:Skills
+Skill.13008.ExtraPassive,Wrath of the Task Force,students.json:Skills
+Skill.13009.Ex,Deploy Tactical Shield,students.json:Skills
+Skill.13009.Public,Sleep Cures All,students.json:Skills
+Skill.13009.Passive,Fortitude,students.json:Skills
+Skill.13009.WeaponPassive,Fortitude+,students.json:Skills
+Skill.13009.ExtraPassive,Expert Reload,students.json:Skills
+Skill.13010.Ex,Q.E.D.,students.json:Skills
+Skill.13010.Public,I.F.F.,students.json:Skills
+Skill.13010.GearPublic,I.F.F+,students.json:Skills
+Skill.13010.Passive,Optimal Solution,students.json:Skills
+Skill.13010.WeaponPassive,Optimal Solution+,students.json:Skills
+Skill.13010.ExtraPassive,Speedy Mental Calculations,students.json:Skills
+Skill.13011.Ex,Creative Anguish,students.json:Skills
+Skill.13011.Public,Deadline Cruncher,students.json:Skills
+Skill.13011.Passive,Creative Sense,students.json:Skills
+Skill.13011.WeaponPassive,Creative Sense+,students.json:Skills
+Skill.13011.ExtraPassive,Developmental Synergy: Midori,students.json:Skills
+Skill.13012.Ex,Done Talking!,students.json:Skills
+Skill.13012.Public,Suppressing Violence!,students.json:Skills
+Skill.13012.Passive,Back on the Horse!,students.json:Skills
+Skill.13012.WeaponPassive,Back on the Horse!+,students.json:Skills
+Skill.13012.ExtraPassive,No Time to Rest!,students.json:Skills
+Skill.13013.Ex,An Excellent Medium,students.json:Skills
+Skill.13013.Public,The Power of Knowledge,students.json:Skills
+Skill.13013.Passive,Collector's Will,students.json:Skills
+Skill.13013.WeaponPassive,Collector's Will+,students.json:Skills
+Skill.13013.ExtraPassive,The Journey Begins,students.json:Skills
+Skill.16000.Ex,Shotgun Blast,students.json:Skills
+Skill.16000.Public,Over Trigger,students.json:Skills
+Skill.16000.Passive,I'll Keep My Chin Up!,students.json:Skills
+Skill.16000.WeaponPassive,I'll Keep My Chin Up!+,students.json:Skills
+Skill.16000.ExtraPassive,Hauugh?!,students.json:Skills
+Skill.16001.Ex,On My Way!,students.json:Skills
+Skill.16001.Public,I'll Fire!,students.json:Skills
+Skill.16001.Passive,This Is Gonna Hurt,students.json:Skills
+Skill.16001.WeaponPassive,This Is Gonna Hurt+,students.json:Skills
+Skill.16001.ExtraPassive,Wanna Pick Up the Pace?,students.json:Skills
+Skill.16002.Ex,Box of Answers,students.json:Skills
+Skill.16002.Public,Pardon!,students.json:Skills
+Skill.16002.GearPublic,Pardon!+,students.json:Skills
+Skill.16002.Passive,Getting the Point,students.json:Skills
+Skill.16002.WeaponPassive,Getting the Point+,students.json:Skills
+Skill.16002.ExtraPassive,"Roger That, Crystal Clear!",students.json:Skills
+Skill.16003.Ex,Holy Flash Grenade,students.json:Skills
+Skill.16003.Public,Ranger's Endurance,students.json:Skills
+Skill.16003.GearPublic,Ranger's Endurance+,students.json:Skills
+Skill.16003.Passive,Urgent Evasion,students.json:Skills
+Skill.16003.WeaponPassive,Urgent Evasion+,students.json:Skills
+Skill.16003.ExtraPassive,Ranger's Assault,students.json:Skills
+Skill.16004.Ex,Rapid Fire Mode!,students.json:Skills
+Skill.16004.Public,Burn it Again!,students.json:Skills
+Skill.16004.Passive,Keen Senses,students.json:Skills
+Skill.16004.WeaponPassive,Keen Senses+,students.json:Skills
+Skill.16004.ExtraPassive,"Ready, Set, Spray!",students.json:Skills
+Skill.16005.Ex,Torrent,students.json:Skills
+Skill.16005.Public,Hot Strike,students.json:Skills
+Skill.16005.Passive,Nimble On My Feet,students.json:Skills
+Skill.16005.WeaponPassive,Nimble On My Feet+,students.json:Skills
+Skill.16005.ExtraPassive,Warmed Up,students.json:Skills
+Skill.16006.Ex,Cold Coconut Juice!,students.json:Skills
+Skill.16006.Public,"Sweet n' Sour, Crunchy n' Crispy!",students.json:Skills
+Skill.16006.GearPublic,"Sweet n' Sour, Crunchy n' Crispy!+",students.json:Skills
+Skill.16006.Passive,Take a Bite and Smile!,students.json:Skills
+Skill.16006.WeaponPassive,Take a Bite and Smile!+,students.json:Skills
+Skill.16006.ExtraPassive,Leaves Your Head Spinning!,students.json:Skills
+Skill.16007.Ex,"Everyone, Please Listen to Me!",students.json:Skills
+Skill.16007.Public,Clever Incitement,students.json:Skills
+Skill.16007.Passive,Smooth Sailing,students.json:Skills
+Skill.16007.WeaponPassive,Smooth Sailing+,students.json:Skills
+Skill.16007.ExtraPassive,Irrefutable Evidence,students.json:Skills
+Skill.16008.Ex,Sweet Relief,students.json:Skills
+Skill.16008.Public,Every Last Round!,students.json:Skills
+Skill.16008.Passive,Traffic Map,students.json:Skills
+Skill.16008.WeaponPassive,Traffic Map+,students.json:Skills
+Skill.16008.ExtraPassive,Free Ride,students.json:Skills
+Skill.16009.Ex,Michiru's Ninja Scroll!,students.json:Skills
+Skill.16009.Public,Cry of the Exorcist!,students.json:Skills
+Skill.16009.Passive,My Own Ninjutsu!,students.json:Skills
+Skill.16009.WeaponPassive,My Own Ninjutsu!+,students.json:Skills
+Skill.16009.ExtraPassive,Secret Michiru-Style Ninjutsu!,students.json:Skills
+Skill.16010.Ex,This Might Be Hot,students.json:Skills
+Skill.16010.Public,Can You Hear Me?,students.json:Skills
+Skill.16010.Passive,Too Much Passion,students.json:Skills
+Skill.16010.WeaponPassive,Too Much Passion+,students.json:Skills
+Skill.16010.ExtraPassive,I'm a Little Shy...,students.json:Skills
+Skill.16011.Ex,Iron Will Piercing Shot,students.json:Skills
+Skill.16011.Public,Sport Shooting,students.json:Skills
+Skill.16011.Passive,The Spirit of Participation,students.json:Skills
+Skill.16011.WeaponPassive,The Spirit of Participation+,students.json:Skills
+Skill.16011.ExtraPassive,The Excitement of Competition,students.json:Skills
+Skill.16012.Ex,Craving Food,students.json:Skills
+Skill.16012.Public,I Wanted to Eat...,students.json:Skills
+Skill.16012.Passive,I'll Finish Quickly!,students.json:Skills
+Skill.16012.WeaponPassive,I'll Finish Quickly!+,students.json:Skills
+Skill.16012.ExtraPassive,I Only Have One!,students.json:Skills
+Skill.16013.Ex,Caught Browsing,students.json:Skills
+Skill.16013.Public,Stimulating Read,students.json:Skills
+Skill.16013.Passive,Elite Sense of Duty,students.json:Skills
+Skill.16013.WeaponPassive,Elite Sense of Duty+,students.json:Skills
+Skill.16013.ExtraPassive,Death Penalty for Indecency!,students.json:Skills
+Skill.16014.Ex,Ibuki's Magic Time!,students.json:Skills
+Skill.16014.Public,Don't Be Naughty!,students.json:Skills
+Skill.16014.Passive,Angelic Child,students.json:Skills
+Skill.16014.WeaponPassive,Angelic Child+,students.json:Skills
+Skill.16014.ExtraPassive,Pandemonium Society's Cute Mascot,students.json:Skills
+Skill.16015.Ex,Joyful Melody,students.json:Skills
+Skill.16015.Public,Chocolate Mint Scale,students.json:Skills
+Skill.16015.Passive,"Greater, Further",students.json:Skills
+Skill.16015.WeaponPassive,"Greater, Further+",students.json:Skills
+Skill.16015.ExtraPassive,Emotions Deluge,students.json:Skills
+Skill.16016.Ex,スーパーアイドルランディング,students.json:Skills
+Skill.16016.Public,あなたに決めました,students.json:Skills
+Skill.16016.Passive,長時間ライブ,students.json:Skills
+Skill.16016.WeaponPassive,長時間ライブ+,students.json:Skills
+Skill.16016.ExtraPassive,ファンの声援,students.json:Skills
+Skill.20000.Ex,This Is Gonna Hurt,students.json:Skills
+Skill.20000.Public,Ample Firepower,students.json:Skills
+Skill.20000.GearPublic,Ample Firepower+,students.json:Skills
+Skill.20000.Passive,Might Be Dangerous,students.json:Skills
+Skill.20000.WeaponPassive,Might Be Dangerous+,students.json:Skills
+Skill.20000.ExtraPassive,Hope That Helps,students.json:Skills
+Skill.20001.Ex,Target Removal,students.json:Skills
+Skill.20001.Public,Supporting Fire,students.json:Skills
+Skill.20001.Passive,Weapon Upgrade,students.json:Skills
+Skill.20001.WeaponPassive,Weapon Upgrade+,students.json:Skills
+Skill.20001.ExtraPassive,Ally Reinforcement,students.json:Skills
+Skill.20002.Ex,"Voila, My Masterpiece!",students.json:Skills
+Skill.20002.Public,A New Experiment!,students.json:Skills
+Skill.20002.Passive,I Am the Greatest!,students.json:Skills
+Skill.20002.WeaponPassive,I Am the Greatest!+,students.json:Skills
+Skill.20002.ExtraPassive,I've Got This!,students.json:Skills
+Skill.20003.Ex,Strike of Justice,students.json:Skills
+Skill.20003.Public,Righteous Justice,students.json:Skills
+Skill.20003.GearPublic,Righteous Justice+,students.json:Skills
+Skill.20003.Passive,Breath of Justice,students.json:Skills
+Skill.20003.WeaponPassive,Breath of Justice+,students.json:Skills
+Skill.20003.ExtraPassive,Binding Justice,students.json:Skills
+Skill.20004.Ex,Barrage of Justice,students.json:Skills
+Skill.20004.Public,Solidarity of Justice,students.json:Skills
+Skill.20004.Passive,Gaze of Justice,students.json:Skills
+Skill.20004.WeaponPassive,Gaze of Justice+,students.json:Skills
+Skill.20004.ExtraPassive,Blessing of Justice,students.json:Skills
+Skill.20005.Ex,Crusadie Backup!,students.json:Skills
+Skill.20005.Public,Peroro's Strike,students.json:Skills
+Skill.20005.GearPublic,Peroro's Strike+,students.json:Skills
+Skill.20005.Passive,Collector's Drive,students.json:Skills
+Skill.20005.WeaponPassive,Collector's Drive+,students.json:Skills
+Skill.20005.ExtraPassive,Angry Adelie's Blessing,students.json:Skills
+Skill.20006.Ex,A Gift from Me!,students.json:Skills
+Skill.20006.Public,The Experiments Must Continue!,students.json:Skills
+Skill.20006.GearPublic,The Experiments Must Continue!+,students.json:Skills
+Skill.20006.Passive,Focus Elixir,students.json:Skills
+Skill.20006.WeaponPassive,Focus Elixir+,students.json:Skills
+Skill.20006.ExtraPassive,This Isn't Suspicious!,students.json:Skills
+Skill.20007.Ex,My Heart in This Moment!,students.json:Skills
+Skill.20007.Public,Hatsune Miku's Passion,students.json:Skills
+Skill.20007.Passive,Hatsune Miku's Support,students.json:Skills
+Skill.20007.WeaponPassive,Hatsune Miku's Support+,students.json:Skills
+Skill.20007.ExtraPassive,Hatsune Miku's Blessing,students.json:Skills
+Skill.20008.Ex,Reconnaissance Report,students.json:Skills
+Skill.20008.Public,Supply Operation Plan B,students.json:Skills
+Skill.20008.Passive,Beginning Supply Support,students.json:Skills
+Skill.20008.WeaponPassive,Beginning Supply Support+,students.json:Skills
+Skill.20008.ExtraPassive,Beginning Tactical Support,students.json:Skills
+Skill.20009.Ex,"Purginator No. 1, Mobilize!",students.json:Skills
+Skill.20009.Public,"Aim, Purge!",students.json:Skills
+Skill.20009.GearPublic,"Aim, Purge!+",students.json:Skills
+Skill.20009.Passive,Mustache Rage!,students.json:Skills
+Skill.20009.WeaponPassive,Mustache Rage!+,students.json:Skills
+Skill.20009.ExtraPassive,Power of the 'Stache!,students.json:Skills
+Skill.20010.Ex,"Hot Springs Resort No. 227, Open for Business!",students.json:Skills
+Skill.20010.Public,The Hostess' Welcome,students.json:Skills
+Skill.20010.Passive,Hot Springs Therapy,students.json:Skills
+Skill.20010.WeaponPassive,Hot Springs Therapy+,students.json:Skills
+Skill.20010.ExtraPassive,Hot Springs Heat,students.json:Skills
+Skill.20011.Ex,Part-Time Interference!,students.json:Skills
+Skill.20011.Public,A Miko Cheers for Everyone!,students.json:Skills
+Skill.20011.Passive,Full-Time Stubbornness,students.json:Skills
+Skill.20011.WeaponPassive,Full-Time Stubbornness+,students.json:Skills
+Skill.20011.ExtraPassive,Full-Time Tenacity,students.json:Skills
+Skill.20012.Ex,Emergency Dispatch,students.json:Skills
+Skill.20012.Public,Energy Injection,students.json:Skills
+Skill.20012.Passive,Emergency Assist,students.json:Skills
+Skill.20012.WeaponPassive,Emergency Assist+,students.json:Skills
+Skill.20012.ExtraPassive,As Soon as Possible,students.json:Skills
+Skill.20013.Ex,Override,students.json:Skills
+Skill.20013.Public,Through the Backdoor,students.json:Skills
+Skill.20013.Passive,Exploit,students.json:Skills
+Skill.20013.WeaponPassive,Exploit+,students.json:Skills
+Skill.20013.ExtraPassive,Building a Firewall,students.json:Skills
+Skill.20014.Ex,Rain Support Fire!,students.json:Skills
+Skill.20014.Public,Suppressive Fire,students.json:Skills
+Skill.20014.Passive,Meticulous Maintenance,students.json:Skills
+Skill.20014.WeaponPassive,Meticulous Maintenance+,students.json:Skills
+Skill.20014.ExtraPassive,Point Woman's Lead,students.json:Skills
+Skill.20015.Ex,Fire the Flare!,students.json:Skills
+Skill.20015.Public,Herculean Beetle Shield!,students.json:Skills
+Skill.20015.GearPublic,Herculean Beetle Shield!+,students.json:Skills
+Skill.20015.Passive,Healing Waves! Hyah!,students.json:Skills
+Skill.20015.WeaponPassive,Healing Waves! Hyah!+,students.json:Skills
+Skill.20015.ExtraPassive,I Can Try Harder!,students.json:Skills
+Skill.20016.Ex,"Let's Go, Toramaru",students.json:Skills
+Skill.20016.Public,Annoying...,students.json:Skills
+Skill.20016.Passive,Do I Have a Choice?,students.json:Skills
+Skill.20016.WeaponPassive,Do I Have a Choice?+,students.json:Skills
+Skill.20016.ExtraPassive,Please Do Your Best,students.json:Skills
+Skill.20017.Ex,T-Take This!,students.json:Skills
+Skill.20017.Public,Th-This Is Gonna Hurt!,students.json:Skills
+Skill.20017.Passive,Magazine Knowledge,students.json:Skills
+Skill.20017.WeaponPassive,Magazine Knowledge+,students.json:Skills
+Skill.20017.ExtraPassive,Bonus Power!,students.json:Skills
+Skill.20018.Ex,Steel Rain,students.json:Skills
+Skill.20018.Public,Concentrated Gunfire,students.json:Skills
+Skill.20018.Passive,Doom-Inspired Pleasure,students.json:Skills
+Skill.20018.WeaponPassive,Doom-Inspired Pleasure+,students.json:Skills
+Skill.20018.ExtraPassive,Operation Support,students.json:Skills
+Skill.20019.Ex,Meticulous Preparations,students.json:Skills
+Skill.20019.Public,Immaculate Cleanup,students.json:Skills
+Skill.20019.Passive,Close Capture,students.json:Skills
+Skill.20019.WeaponPassive,Close Capture+,students.json:Skills
+Skill.20019.ExtraPassive,Rapid Support,students.json:Skills
+Skill.20020.Ex,Hah! Look What I'm Made Of!,students.json:Skills
+Skill.20020.Public,You Might Be Surprised!,students.json:Skills
+Skill.20020.Passive,Clifftop Bloom,students.json:Skills
+Skill.20020.WeaponPassive,Clifftop Bloom+,students.json:Skills
+Skill.20020.ExtraPassive,True Worth of a Beautiful Super Genius Hacker,students.json:Skills
+Skill.20021.Ex,Time for Presents!,students.json:Skills
+Skill.20021.Public,Cheer Up!,students.json:Skills
+Skill.20021.GearPublic,Cheer Up!+,students.json:Skills
+Skill.20021.Passive,Chant of Blessings,students.json:Skills
+Skill.20021.WeaponPassive,Chant of Blessings+,students.json:Skills
+Skill.20021.ExtraPassive,I'm Rooting for You!,students.json:Skills
+Skill.20022.Ex,School Lunch Club's Osechi,students.json:Skills
+Skill.20022.Public,Tasting Time!,students.json:Skills
+Skill.20022.Passive,The Best Bite,students.json:Skills
+Skill.20022.WeaponPassive,The Best Bite+,students.json:Skills
+Skill.20022.ExtraPassive,School Lunch Club's Snack,students.json:Skills
+Skill.20023.Ex,Public Peace Bureau Director's Resourcefulness,students.json:Skills
+Skill.20023.Public,Harsh Interrogation,students.json:Skills
+Skill.20023.Passive,Feral Hound's Tenacity,students.json:Skills
+Skill.20023.WeaponPassive,Feral Hound's Tenacity+,students.json:Skills
+Skill.20023.ExtraPassive,Public Peace Bureau Special Ammo,students.json:Skills
+Skill.20024.Ex,Time On Target,students.json:Skills
+Skill.20024.Public,Afternoon Tea,students.json:Skills
+Skill.20024.Passive,Pride of Tea Party,students.json:Skills
+Skill.20024.WeaponPassive,Pride of Tea Party+,students.json:Skills
+Skill.20024.ExtraPassive,Noblesse Oblige,students.json:Skills
+Skill.20025.Ex,Who Approved This...?!,students.json:Skills
+Skill.20025.Public,A Proper Greeting,students.json:Skills
+Skill.20025.Passive,"Unforgivable, Unforgivable!!",students.json:Skills
+Skill.20025.WeaponPassive,"Unforgivable, Unforgivable!!+",students.json:Skills
+Skill.20025.ExtraPassive,All Her Courage,students.json:Skills
+Skill.20026.Ex,Onward and Onward!,students.json:Skills
+Skill.20026.Public,United Will,students.json:Skills
+Skill.20026.Passive,Hand in Hand,students.json:Skills
+Skill.20026.WeaponPassive,Hand in Hand+,students.json:Skills
+Skill.20026.ExtraPassive,Fruits of Labor,students.json:Skills
+Skill.20027.Ex,It's a Big Catch,students.json:Skills
+Skill.20027.Public,"""Coincidental""",students.json:Skills
+Skill.20027.Passive,Strangely Excited,students.json:Skills
+Skill.20027.WeaponPassive,Strangely Excited+,students.json:Skills
+Skill.20027.ExtraPassive,Trained Health,students.json:Skills
+Skill.20028.Ex,Overflowing Water Barrage,students.json:Skills
+Skill.20028.Public,Chilled Water Barrage,students.json:Skills
+Skill.20028.Passive,Passion of the Expedition,students.json:Skills
+Skill.20028.WeaponPassive,Passion of the Expedition+,students.json:Skills
+Skill.20028.ExtraPassive,Helping Hands,students.json:Skills
+Skill.20029.Ex,It's Summertime!,students.json:Skills
+Skill.20029.Public,You Need This?,students.json:Skills
+Skill.20029.Passive,I'm Ready!,students.json:Skills
+Skill.20029.WeaponPassive,I'm Ready!+,students.json:Skills
+Skill.20029.ExtraPassive,I'm Here for You,students.json:Skills
+Skill.20030.Ex,The Gourmand's Proposal,students.json:Skills
+Skill.20030.Public,Cautious Approach,students.json:Skills
+Skill.20030.Passive,Fromage Blanc,students.json:Skills
+Skill.20030.WeaponPassive,Fromage Blanc+,students.json:Skills
+Skill.20030.ExtraPassive,Athlete's Dinner,students.json:Skills
+Skill.20031.Ex,Shigure's Special Fruit Milk,students.json:Skills
+Skill.20031.Public,Want a Bite?,students.json:Skills
+Skill.20031.Passive,Four-and-a-Half Tatami Mats,students.json:Skills
+Skill.20031.WeaponPassive,Four-and-a-Half Tatami Mats+,students.json:Skills
+Skill.20031.ExtraPassive,Sharp Aftertaste,students.json:Skills
+Skill.20032.Ex,Dependable Aid,students.json:Skills
+Skill.20032.Public,An Eimi Original,students.json:Skills
+Skill.20032.Passive,Fish in Water,students.json:Skills
+Skill.20032.WeaponPassive,Fish in Water+,students.json:Skills
+Skill.20032.ExtraPassive,Slippery Slope,students.json:Skills
+Skill.20033.Ex,I-I Made a Mistake!,students.json:Skills
+Skill.20033.Public,Listen Carefully!,students.json:Skills
+Skill.20033.Passive,Great Chairman,students.json:Skills
+Skill.20033.WeaponPassive,Great Chairman+,students.json:Skills
+Skill.20033.ExtraPassive,Invincible! The True Leader of Gehenna!,students.json:Skills
+Skill.20034.Ex,I'm Just Borrowing It!,students.json:Skills
+Skill.20034.Public,Something Like This?,students.json:Skills
+Skill.20034.Passive,Thank You for the Meal!,students.json:Skills
+Skill.20034.WeaponPassive,Thank You for the Meal!+,students.json:Skills
+Skill.20034.ExtraPassive,Who Wants Seconds?,students.json:Skills
+Skill.20035.Ex,President's Guidance,students.json:Skills
+Skill.20035.Public,Good Sleep Is the Best Medicine,students.json:Skills
+Skill.20035.Passive,The Pride of a Guide,students.json:Skills
+Skill.20035.WeaponPassive,The Pride of a Guide+,students.json:Skills
+Skill.20035.ExtraPassive,Excellent Service,students.json:Skills
+Skill.20036.Ex,Furious Wave,students.json:Skills
+Skill.20036.Public,"Splish, Splash, Sploosh!",students.json:Skills
+Skill.20036.Passive,Extreme Zeal,students.json:Skills
+Skill.20036.WeaponPassive,Extreme Zeal+,students.json:Skills
+Skill.20036.ExtraPassive,"Yikes, That’s Freezing!",students.json:Skills
+Skill.20037.Ex,Cool Deception,students.json:Skills
+Skill.20037.Public,Do I Really Have To?,students.json:Skills
+Skill.20037.Passive,The Art of Playing Hooky,students.json:Skills
+Skill.20037.WeaponPassive,The Art of Playing Hooky+,students.json:Skills
+Skill.20037.ExtraPassive,Do Me a Favor!,students.json:Skills
+Skill.20038.Ex,コロブチカ,students.json:Skills
+Skill.20038.Public,カチューシャ,students.json:Skills
+Skill.20038.Passive,カリンカ,students.json:Skills
+Skill.20038.WeaponPassive,カリンカ+,students.json:Skills
+Skill.20038.ExtraPassive,トロイカ,students.json:Skills
+Skill.20039.Ex,詔令：格物致知,students.json:Skills
+Skill.20039.Public,勅令：修身斉家,students.json:Skills
+Skill.20039.Passive,制令：克己復礼,students.json:Skills
+Skill.20039.WeaponPassive,制令：克己復礼+,students.json:Skills
+Skill.20039.ExtraPassive,布告天下,students.json:Skills
+Skill.20040.Ex,つよくな～るつよくな～る,students.json:Skills
+Skill.20040.Public,情報収集,students.json:Skills
+Skill.20040.Passive,NKウルトラ計画,students.json:Skills
+Skill.20040.WeaponPassive,NKウルトラ計画+,students.json:Skills
+Skill.20040.ExtraPassive,万魔殿に忠誠を誓いなさい,students.json:Skills
+Skill.23000.Ex,If I Have To,students.json:Skills
+Skill.23000.Public,You Might See Stars!,students.json:Skills
+Skill.23000.Passive,Dessert Power,students.json:Skills
+Skill.23000.WeaponPassive,Dessert Power+,students.json:Skills
+Skill.23000.ExtraPassive,Airi's Encouragement,students.json:Skills
+Skill.23001.Ex,Lunchtime!,students.json:Skills
+Skill.23001.Public,Gift of the School Lunch Club,students.json:Skills
+Skill.23001.Passive,Fresh Ingredients!,students.json:Skills
+Skill.23001.WeaponPassive,Fresh Ingredients!+,students.json:Skills
+Skill.23001.ExtraPassive,Pride of the School Lunch Club,students.json:Skills
+Skill.23002.Ex,Time for Your Treatment!,students.json:Skills
+Skill.23002.Public,Don't Fall!,students.json:Skills
+Skill.23002.Passive,Medical Mastery,students.json:Skills
+Skill.23002.WeaponPassive,Medical Mastery+,students.json:Skills
+Skill.23002.ExtraPassive,"Break a Leg, Everyone!",students.json:Skills
+Skill.23003.Ex,EMP Drone Launch,students.json:Skills
+Skill.23003.Public,Sabotage: Plan A,students.json:Skills
+Skill.23003.GearPublic,Sabotage: Plan A+,students.json:Skills
+Skill.23003.Passive,Enhanced Arms: Plan B,students.json:Skills
+Skill.23003.WeaponPassive,Enhanced Arms: Plan B+,students.json:Skills
+Skill.23003.ExtraPassive,Interception System Ops,students.json:Skills
+Skill.23004.Ex,Rise of Thundergun,students.json:Skills
+Skill.23004.Public,Thundergun MK-II,students.json:Skills
+Skill.23004.GearPublic,Thundergun MK-II+,students.json:Skills
+Skill.23004.Passive,Tech Revolution,students.json:Skills
+Skill.23004.WeaponPassive,Tech Revolution+,students.json:Skills
+Skill.23004.ExtraPassive,Meister's Pledge,students.json:Skills
+Skill.23005.Ex,Special Delivery: Combat Supplies,students.json:Skills
+Skill.23005.Public,Scholastic Support,students.json:Skills
+Skill.23005.Passive,Self-Development,students.json:Skills
+Skill.23005.WeaponPassive,Self-Development+,students.json:Skills
+Skill.23005.ExtraPassive,Morale Boost,students.json:Skills
+Skill.23006.Ex,"Behold, Momoyodou!",students.json:Skills
+Skill.23006.Public,Don't Stand in the Way of Business!,students.json:Skills
+Skill.23006.GearPublic,Don't Stand in the Way of Business!+,students.json:Skills
+Skill.23006.Passive,T-Teeheehee?,students.json:Skills
+Skill.23006.WeaponPassive,T-Teeheehee?+,students.json:Skills
+Skill.23006.ExtraPassive,Pop Idol's Encouragement!,students.json:Skills
+Skill.23007.Ex,Want to Break the Rules?,students.json:Skills
+Skill.23007.Public,Toughen Up!,students.json:Skills
+Skill.23007.GearPublic,Toughen Up!+,students.json:Skills
+Skill.23007.Passive,Full of Energy,students.json:Skills
+Skill.23007.WeaponPassive,Full of Energy+,students.json:Skills
+Skill.23007.ExtraPassive,It's Okay If It's You,students.json:Skills
+Skill.23008.Ex,Divine Protection,students.json:Skills
+Skill.23008.Public,Purifying Barrage,students.json:Skills
+Skill.23008.GearPublic,Purifying Barrage+,students.json:Skills
+Skill.23008.Passive,Resolute Determination,students.json:Skills
+Skill.23008.WeaponPassive,Resolute Determination+,students.json:Skills
+Skill.23008.ExtraPassive,Benevolent Blessings,students.json:Skills
+Skill.26000.Ex,Tactical First Aid,students.json:Skills
+Skill.26000.Public,Regroup,students.json:Skills
+Skill.26000.Passive,Reinforced Medical Enhancement,students.json:Skills
+Skill.26000.WeaponPassive,Reinforced Medical Enhancement+,students.json:Skills
+Skill.26000.ExtraPassive,Reinforced Defenses,students.json:Skills
+Skill.26001.Ex,Commence Wiretap,students.json:Skills
+Skill.26001.Public,Tap Vulnerabilities,students.json:Skills
+Skill.26001.Passive,Intensive Analysis,students.json:Skills
+Skill.26001.WeaponPassive,Intensive Analysis+,students.json:Skills
+Skill.26001.ExtraPassive,EM Wave Diffusion,students.json:Skills
+Skill.26002.Ex,Juri's Cooking Time!,students.json:Skills
+Skill.26002.Public,Peak Culinary Effort,students.json:Skills
+Skill.26002.Passive,Extreme Zeal!,students.json:Skills
+Skill.26002.WeaponPassive,Extreme Zeal!+,students.json:Skills
+Skill.26002.ExtraPassive,Juri's Mealtime!,students.json:Skills
+Skill.26003.Ex,Intensive Care Set A,students.json:Skills
+Skill.26003.Public,Urgent Rescue Set B,students.json:Skills
+Skill.26003.Passive,Ministering Angel,students.json:Skills
+Skill.26003.WeaponPassive,Ministering Angel+,students.json:Skills
+Skill.26003.ExtraPassive,Guardian Angel's Smile,students.json:Skills
+Skill.26004.Ex,Shield of Knowledge,students.json:Skills
+Skill.26004.Public,Food for the Soul,students.json:Skills
+Skill.26004.Passive,Time to Gain Some Knowledge!,students.json:Skills
+Skill.26004.WeaponPassive,Time to Gain Some Knowledge!+,students.json:Skills
+Skill.26004.ExtraPassive,Study While You Can!,students.json:Skills
+Skill.26005.Ex,I-I'm Not Worried!,students.json:Skills
+Skill.26005.Public,You Wanna Get Burned?!,students.json:Skills
+Skill.26005.GearPublic,You Wanna Get Burned?!+,students.json:Skills
+Skill.26005.Passive,Don't Underestimate Me!,students.json:Skills
+Skill.26005.WeaponPassive,Don't Underestimate Me!+,students.json:Skills
+Skill.26005.ExtraPassive,"E-Everyone, Please Listen!",students.json:Skills
+Skill.26006.Ex,Observational Support,students.json:Skills
+Skill.26006.Public,Persistent Surveillance,students.json:Skills
+Skill.26006.Passive,Aesthetic Observation,students.json:Skills
+Skill.26006.WeaponPassive,Aesthetic Observation+,students.json:Skills
+Skill.26006.ExtraPassive,A Special Bond,students.json:Skills
+Skill.26007.Ex,"Water Cloud, Charge!",students.json:Skills
+Skill.26007.Public,Air Support,students.json:Skills
+Skill.26007.Passive,Auto Aim,students.json:Skills
+Skill.26007.WeaponPassive,Auto Aim+,students.json:Skills
+Skill.26007.ExtraPassive,Grasping the Situation,students.json:Skills
+Skill.26008.Ex,Summer Momoyodou Opening!,students.json:Skills
+Skill.26008.Public,Are You Hot?,students.json:Skills
+Skill.26008.Passive,Sales Are Increasing!,students.json:Skills
+Skill.26008.WeaponPassive,Sales Are Increasing!+,students.json:Skills
+Skill.26008.ExtraPassive,Cheer Up! Nyan!,students.json:Skills
+Skill.26009.Ex,"Infiltration, Start!",students.json:Skills
+Skill.26009.Public,High Score Combo,students.json:Skills
+Skill.26009.Passive,Precise Coding,students.json:Skills
+Skill.26009.WeaponPassive,Precise Coding+,students.json:Skills
+Skill.26009.ExtraPassive,Game Developers' Bond,students.json:Skills
+Skill.26010.Ex,Attack of the Seagulls,students.json:Skills
+Skill.26010.Public,Secret Strike,students.json:Skills
+Skill.26010.Passive,Underwater Composite Ammo,students.json:Skills
+Skill.26010.WeaponPassive,Underwater Composite Ammo+,students.json:Skills
+Skill.26010.ExtraPassive,Observation Status Report,students.json:Skills
+Skill.26011.Ex,Bat Full Swing,students.json:Skills
+Skill.26011.Public,Secret Weapon: Mackerel Curry,students.json:Skills
+Skill.26011.Passive,More Power!,students.json:Skills
+Skill.26011.WeaponPassive,More Power!+,students.json:Skills
+Skill.26011.ExtraPassive,I'm Here Too...!,students.json:Skills
+Skill.26012.Ex,Headquarters Will Keep Watch!,students.json:Skills
+Skill.26012.Public,Emergency Situation!,students.json:Skills
+Skill.26012.Passive,Realistic Training,students.json:Skills
+Skill.26012.WeaponPassive,Realistic Training+,students.json:Skills
+Skill.26012.ExtraPassive,Headquarters Supports You!,students.json:Skills
+Skill.26013.Ex,夏の思い出,students.json:Skills
+Skill.26013.Public,この花をあなたに,students.json:Skills
+Skill.26013.Passive,爽やかな海風,students.json:Skills
+Skill.26013.WeaponPassive,爽やかな海風+,students.json:Skills
+Skill.26013.ExtraPassive,ビーチのお姫様,students.json:Skills

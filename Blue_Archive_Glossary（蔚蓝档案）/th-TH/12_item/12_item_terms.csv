@@ -1,0 +1,650 @@
+﻿id,term,src_table
+Item.1,เศษคีย์สโตน,items.json
+Item.2,ตั๋วเร่งเวลา,items.json
+Item.3,คีย์สโตน,items.json
+Item.7,เหรียญเรดบอส,items.json
+Item.8,เหรียญอารีน่า,items.json
+Item.9,เหรียญเรดบอสขั้นสูง,items.json
+Item.10,รายงานขั้นต่ำ,items.json
+Item.11,รายงานขั้นกลาง,items.json
+Item.12,รายงานขั้นสูง,items.json
+Item.13,รายงานขั้นสูงสุด,items.json
+Item.23,เอลลิกมา,items.json
+Item.30,แก่นอุปกรณ์คาเฟ่ LV1,items.json
+Item.31,แก่นอุปกรณ์คาเฟ่ LV2,items.json
+Item.32,แก่นอุปกรณ์คาเฟ่ LV3,items.json
+Item.60,เหรียญสอบประมวล,items.json
+Item.61,เหรียญประกาศจับ,items.json
+Item.70,เหรียญศึกตัดสิน,items.json
+Item.71,เหรียญศึกตัดสินขั้นสูง,items.json
+Item.80,คีย์สโตนเร่งการรวม ขั้นต่ำ,items.json
+Item.81,คีย์สโตนเร่งการรวม ขั้นกลาง,items.json
+Item.82,คีย์สโตนเร่งการรวม ขั้นสูง,items.json
+Item.83,คีย์สโตนเร่งการรวม ขั้นสูงสุด,items.json
+Item.90,วัตถุดิบการสร้างขั้นต่ำ,items.json
+Item.91,วัตถุดิบการสร้างขั้นกลาง,items.json
+Item.92,วัตถุดิบการสร้างขั้นสูง,items.json
+Item.100,เศษดิสก์เนบรา,items.json
+Item.101,ดิสก์เนบราที่พัง,items.json
+Item.102,ดิสก์เนบราที่สึก,items.json
+Item.103,ดิสก์เนบราสมบูรณ์,items.json
+Item.110,เศษจักรเฟสทอส,items.json
+Item.111,จักรเฟสทอสที่พัง,items.json
+Item.112,จักรเฟสทอสที่สึก,items.json
+Item.113,จักรเฟสทอสสมบูรณ์,items.json
+Item.120,เศษแร่วูล์ฟเซก,items.json
+Item.121,เศษเหล็กวูล์ฟเซก,items.json
+Item.122,เหล็กวูล์ฟเซกปนเปื้อน,items.json
+Item.123,เหล็กวูล์ฟเซกบริสุทธิ์,items.json
+Item.130,เศษเลนส์นิมรุด,items.json
+Item.131,เลนส์นิมรุดที่พัง,items.json
+Item.132,เลนส์นิมรุดที่สึก,items.json
+Item.133,เลนส์นิมรุดสมบูรณ์,items.json
+Item.140,เมล็ดแมนดราโกร่า,items.json
+Item.141,ต้นอ่อนแมนดราโกร่า,items.json
+Item.142,น้ำแมนดราโกร่า,items.json
+Item.143,น้ำแมนดราโกร่าสกัด,items.json
+Item.150,แผ่นสำเนาโรฮอนช์,items.json
+Item.151,สำเนาโรฮอนช์ที่ขาด,items.json
+Item.152,สำเนาโรฮอนช์เข้าเล่ม,items.json
+Item.153,สำเนาโรฮอนช์สมบูรณ์,items.json
+Item.160,ผงอีเธอร์,items.json
+Item.161,เศษอีเธอร์,items.json
+Item.162,ผลึกอีเธอร์,items.json
+Item.163,เอสเซนซ์อีเธอร์,items.json
+Item.170,เศษอุปกรณ์แอนเทรา,items.json
+Item.171,อุปกรณ์แอนเทราที่พัง,items.json
+Item.172,อุปกรณ์แอนเทราที่สึก,items.json
+Item.173,อุปกรณ์แอนเทราสมบูรณ์,items.json
+Item.180,แผ่นสำเนาวอยนิช,items.json
+Item.181,สำเนาวอยนิชที่ขาด,items.json
+Item.182,สำเนาวอยนิชเข้าเล่ม,items.json
+Item.183,สำเนาวอยนิชสมบูรณ์,items.json
+Item.190,เศษคริสตัลฮานิวา,items.json
+Item.191,คริสตัลฮานิวาที่พัง,items.json
+Item.192,คริสตัลฮานิวาที่สึก,items.json
+Item.193,คริสตัลฮานิวาสมบูรณ์,items.json
+Item.200,เศษเสาโทเทม,items.json
+Item.201,เสาโทเทมที่พัง,items.json
+Item.202,เสาโทเทมที่สึก,items.json
+Item.203,เสาโทเทมสมบูรณ์,items.json
+Item.210,เศษแบตเตอรี่โบราณ,items.json
+Item.211,แบตเตอรี่โบราณที่พัง,items.json
+Item.212,แบตเตอรี่โบราณที่สึก,items.json
+Item.213,แบตเตอรี่โบราณสมบูรณ์,items.json
+Item.220,ขนแกะทองคำ,items.json
+Item.221,ด้ายสีทอง,items.json
+Item.222,ผ้าขนแกะทองคำ,items.json
+Item.223,เดรสสีทอง,items.json
+Item.230,เศษตุ๊กตาโอคิคุ,items.json
+Item.231,ตุ๊กตาโอคิคุที่พัง,items.json
+Item.232,ตุ๊กตาโอคิคุที่สึก,items.json
+Item.233,ตุ๊กตาโอคิคุสมบูรณ์,items.json
+Item.240,เศษดิสโก โคลกานเต,items.json
+Item.241,ดิสโก โคลกานเตที่พัง,items.json
+Item.242,ดิสโก โคลกานเตที่สึก,items.json
+Item.243,ดิสโก โคลกานเตสมบูรณ์,items.json
+Item.250,เศษเหรียญแอตแลนติส,items.json
+Item.251,เหรียญแอตแลนติสที่พัง,items.json
+Item.252,เหรียญแอตแลนติสที่สึก,items.json
+Item.253,เหรียญแอตแลนติสมบูรณ์,items.json
+Item.260,เศษวัตถุสิบสองหน้าของโรมัน,items.json
+Item.261,วัตถุสิบสองหน้าของโรมันที่พัง,items.json
+Item.262,วัตถุสิบสองหน้าของโรมันที่สึก,items.json
+Item.263,วัตถุสิบสองหน้าของโรมันสมบูรณ์,items.json
+Item.290,เศษหินวินนีเพอซอกี,items.json
+Item.291,หินวินนีเพอซอกีที่พัง,items.json
+Item.292,หินวินนีเพอซอกีที่สึก,items.json
+Item.293,หินวินนีเพอซอกีสมบูรณ์,items.json
+Item.3000,BD เรียนสกิลขั้นต่ำ (เฮียกคิยาโค),items.json
+Item.3001,BD เรียนสกิลขั้นกลาง (เฮียกคิยาโค),items.json
+Item.3002,BD เรียนสกิลขั้นสูง (เฮียกคิยาโค),items.json
+Item.3003,BD เรียนสกิลขั้นสูงสุด (เฮียกคิยาโค),items.json
+Item.3010,BD เรียนสกิลขั้นต่ำ (เรดวินเทอร์),items.json
+Item.3011,BD เรียนสกิลขั้นกลาง (เรดวินเทอร์),items.json
+Item.3012,BD เรียนสกิลขั้นสูง (เรดวินเทอร์),items.json
+Item.3013,BD เรียนสกิลขั้นสูงสุด (เรดวินเทอร์),items.json
+Item.3020,BD เรียนสกิลขั้นต่ำ (ทรีนิตี้),items.json
+Item.3021,BD เรียนสกิลขั้นกลาง (ทรีนิตี้),items.json
+Item.3022,BD เรียนสกิลขั้นสูง (ทรีนิตี้),items.json
+Item.3023,BD เรียนสกิลขั้นสูงสุด (ทรีนิตี้),items.json
+Item.3030,BD เรียนสกิลขั้นต่ำ (เกเฮนน่า),items.json
+Item.3031,BD เรียนสกิลขั้นกลาง (เกเฮนน่า),items.json
+Item.3032,BD เรียนสกิลขั้นสูง (เกเฮนน่า),items.json
+Item.3033,BD เรียนสกิลขั้นสูงสุด (เกเฮนน่า),items.json
+Item.3040,BD เรียนสกิลขั้นต่ำ (อะบิดอส),items.json
+Item.3041,BD เรียนสกิลขั้นกลาง (อะบิดอส),items.json
+Item.3042,BD เรียนสกิลขั้นสูง (อะบิดอส),items.json
+Item.3043,BD เรียนสกิลขั้นสูงสุด (อะบิดอส),items.json
+Item.3050,BD เรียนสกิลขั้นต่ำ (มิลเลเนียม),items.json
+Item.3051,BD เรียนสกิลขั้นกลาง (มิลเลเนียม),items.json
+Item.3052,BD เรียนสกิลขั้นสูง (มิลเลเนียม),items.json
+Item.3053,BD เรียนสกิลขั้นสูงสุด (มิลเลเนียม),items.json
+Item.3060,BD เรียนสกิลขั้นต่ำ (อาเรียส),items.json
+Item.3061,BD เรียนสกิลขั้นกลาง (อาเรียส),items.json
+Item.3062,BD เรียนสกิลขั้นสูง (อาเรียส),items.json
+Item.3063,BD เรียนสกิลขั้นสูงสุด (อาเรียส),items.json
+Item.3070,BD เรียนสกิลขั้นต่ำ (ซานไห่จิง),items.json
+Item.3071,BD เรียนสกิลขั้นกลาง (ซานไห่จิง),items.json
+Item.3072,BD เรียนสกิลขั้นสูง (ซานไห่จิง),items.json
+Item.3073,BD เรียนสกิลขั้นสูงสุด (ซานไห่จิง),items.json
+Item.3080,BD เรียนสกิลขั้นต่ำ (วัลคิรี่),items.json
+Item.3081,BD เรียนสกิลขั้นกลาง (วัลคิรี่),items.json
+Item.3082,BD เรียนสกิลขั้นสูง (วัลคิรี่),items.json
+Item.3083,BD เรียนสกิลขั้นสูงสุด (วัลคิรี่),items.json
+Item.4000,ตำราสกิลขั้นต่ำ (เฮียกคิยาโค),items.json
+Item.4001,ตำราสกิลขั้นกลาง (เฮียกคิยาโค),items.json
+Item.4002,ตำราสกิลขั้นสูง (เฮียกคิยาโค),items.json
+Item.4003,ตำราสกิลขั้นสูงสุด (เฮียกคิยาโค),items.json
+Item.4010,ตำราสกิลขั้นต่ำ (เรดวินเทอร์),items.json
+Item.4011,ตำราสกิลขั้นกลาง (เรดวินเทอร์),items.json
+Item.4012,ตำราสกิลขั้นสูง (เรดวินเทอร์),items.json
+Item.4013,ตำราสกิลขั้นสูงสุด (เรดวินเทอร์),items.json
+Item.4020,ตำราสกิลขั้นต่ำ (ทรีนิตี้),items.json
+Item.4021,ตำราสกิลขั้นกลาง (ทรีนิตี้),items.json
+Item.4022,ตำราสกิลขั้นสูง (ทรีนิตี้),items.json
+Item.4023,ตำราสกิลขั้นสูงสุด (ทรีนิตี้),items.json
+Item.4030,ตำราสกิลขั้นต่ำ (เกเฮนน่า),items.json
+Item.4031,ตำราสกิลขั้นกลาง (เกเฮนน่า),items.json
+Item.4032,ตำราสกิลขั้นสูง (เกเฮนน่า),items.json
+Item.4033,ตำราสกิลขั้นสูงสุด (เกเฮนน่า),items.json
+Item.4040,ตำราสกิลขั้นต่ำ (อะบิดอส),items.json
+Item.4041,ตำราสกิลขั้นกลาง (อะบิดอส),items.json
+Item.4042,ตำราสกิลขั้นสูง (อะบิดอส),items.json
+Item.4043,ตำราสกิลขั้นสูงสุด (อะบิดอส),items.json
+Item.4050,ตำราสกิลขั้นต่ำ (มิลเลเนียม),items.json
+Item.4051,ตำราสกิลขั้นกลาง (มิลเลเนียม),items.json
+Item.4052,ตำราสกิลขั้นสูง (มิลเลเนียม),items.json
+Item.4053,ตำราสกิลขั้นสูงสุด (มิลเลเนียม),items.json
+Item.4060,ตำราสกิลขั้นต่ำ (อาเรียส),items.json
+Item.4061,ตำราสกิลขั้นกลาง (อาเรียส),items.json
+Item.4062,ตำราสกิลขั้นสูง (อาเรียส),items.json
+Item.4063,ตำราสกิลขั้นสูงสุด (อาเรียส),items.json
+Item.4070,ตำราสกิลขั้นต่ำ (ซานไห่จิง),items.json
+Item.4071,ตำราสกิลขั้นกลาง (ซานไห่จิง),items.json
+Item.4072,ตำราสกิลขั้นสูง (ซานไห่จิง),items.json
+Item.4073,ตำราสกิลขั้นสูงสุด (ซานไห่จิง),items.json
+Item.4080,ตำราสกิลขั้นต่ำ (วัลคิรี่),items.json
+Item.4081,ตำราสกิลขั้นกลาง (วัลคิรี่),items.json
+Item.4082,ตำราสกิลขั้นสูง (วัลคิรี่),items.json
+Item.4083,ตำราสกิลขั้นสูงสุด (วัลคิรี่),items.json
+Item.7001,ข้อมูลกลยุทธ์ 1: แบบ D,items.json
+Item.9998,เศษตำราสกิลลับ,items.json
+Item.9999,ตำราสกิลลับ,items.json
+Item.10000,เอลเลฟของอารุ,items.json
+Item.10001,เอลเลฟของเอมิ,items.json
+Item.10002,เอลเลฟของฮารุนะ,items.json
+Item.10003,เอลเลฟของฮิฟุมิ,items.json
+Item.10004,เอลเลฟของฮินะ,items.json
+Item.10005,เอลเลฟของโฮชิโนะ,items.json
+Item.10006,เอลเลฟของอิโอริ,items.json
+Item.10007,เอลเลฟของมากิ,items.json
+Item.10008,เอลเลฟของเนรุ,items.json
+Item.10009,เอลเลฟของอิซุมิ,items.json
+Item.10010,เอลเลฟของชิโรโกะ,items.json
+Item.10011,เอลเลฟของชุน,items.json
+Item.10012,เอลเลฟของสึมิเระ,items.json
+Item.10013,เอลเลฟของซึรุกิ,items.json
+Item.10014,เอลเลฟของอิซุนะ,items.json
+Item.10015,เอลเลฟของอาริสึ,items.json
+Item.10016,เอลเลฟของมิโดริ,items.json
+Item.10017,เอลเลฟของเชริโน่,items.json
+Item.10018,เอลเลฟของยูสึ,items.json
+Item.10019,เอลเลฟของอาซึสะ,items.json
+Item.10020,เอลเลฟของโคฮารุ,items.json
+Item.10021,เอลเลฟของอาซึสะ (ชุดว่ายน้ำ),items.json
+Item.10022,เอลเลฟของฮินะ (ชุดว่ายน้ำ),items.json
+Item.10023,เอลเลฟของอิโอริ (ชุดว่ายน้ำ),items.json
+Item.10024,เอลเลฟของชิโรโกะ (นักปั่น),items.json
+Item.10025,เอลเลฟของชุน (วัยเด็ก),items.json
+Item.10026,เอลเลฟของเนรุ (บันนี่เกิร์ล),items.json
+Item.10027,เอลเลฟของคาริน (บันนี่เกิร์ล),items.json
+Item.10028,เอลเลฟของอาสึนะ (บันนี่เกิร์ล),items.json
+Item.10029,เอลเลฟของนัตสึ,items.json
+Item.10030,เอลเลฟของชินัตสึ (ออนเซ็น),items.json
+Item.10031,เอลเลฟของอารุ (ปีใหม่),items.json
+Item.10032,เอลเลฟของมุสึกิ (ปีใหม่),items.json
+Item.10033,เอลเลฟของวาคาโมะ,items.json
+Item.10034,เอลเลฟของมิโมริ,items.json
+Item.10035,เอลเลฟของอุย,items.json
+Item.10036,เอลเลฟของฮินาตะ,items.json
+Item.10037,เอลเลฟของมารินะ,items.json
+Item.10038,เอลเลฟของมิยาโกะ,items.json
+Item.10039,เอลเลฟของมิยุ,items.json
+Item.10040,เอลเลฟของสึคุโยะ,items.json
+Item.10041,เอลเลฟของมิซากิ,items.json
+Item.10042,เอลเลฟของอาสึโกะ,items.json
+Item.10043,เอลเลฟของวาคาโมะ (ชุดว่ายน้ำ),items.json
+Item.10044,เอลเลฟของโนโนมิ (ชุดว่ายน้ำ),items.json
+Item.10045,เอลเลฟของโฮชิโนะ (ชุดว่ายน้ำ),items.json
+Item.10046,เอลเลฟของอิซุนะ (ชุดว่ายน้ำ),items.json
+Item.10047,เอลเลฟของชิเซะ (ชุดว่ายน้ำ),items.json
+Item.10048,เอลเลฟของซาโอริ,items.json
+Item.10049,เอลเลฟของคาซึสะ,items.json
+Item.10050,เอลเลฟของโคโคน่า,items.json
+Item.10051,เอลเลฟของอุทาฮะ (ชุดเชียร์),items.json
+Item.10052,เอลเลฟของโนอา,items.json
+Item.10053,เอลเลฟของยูกะ (ชุดพละ),items.json
+Item.10054,เอลเลฟของมารี (ชุดพละ),items.json
+Item.10055,เอลเลฟของชิกุเระ,items.json
+Item.10056,เอลเลฟของเซรินะ (คริสต์มาส),items.json
+Item.10057,เอลเลฟของฮารุนะ (ปีใหม่),items.json
+Item.10058,เอลเลฟของมิเนะ,items.json
+Item.10059,เอลเลฟของมิกะ,items.json
+Item.10060,เอลเลฟของเมกุ,items.json
+Item.10061,เอลเลฟของซากุระโกะ,items.json
+Item.10062,เอลเลฟของโทคิ,items.json
+Item.10063,เอลเลฟของโคยูกิ,items.json
+Item.10064,เอลเลฟของคาโยโกะ (ปีใหม่),items.json
+Item.10065,เอลเลฟของคาโฮะ,items.json
+Item.10066,เอลเลฟของอาริสึ (เมด),items.json
+Item.10067,เอลเลฟของโทคิ (บันนี่เกิร์ล),items.json
+Item.10068,เอลเลฟของเรอิสะ,items.json
+Item.10069,เอลเลฟของรูมิ,items.json
+Item.10070,เอลเลฟของมินะ,items.json
+Item.10071,เอลเลฟของมิยาโกะ (ชุดว่ายน้ำ),items.json
+Item.10072,เอลเลฟของซากิ (ชุดว่ายน้ำ),items.json
+Item.10073,เอลเลฟของอุย (ชุดว่ายน้ำ),items.json
+Item.10074,ハナコ（水着）の神名文字,items.json
+Item.13000,เอลเลฟของอาคาเนะ,items.json
+Item.13001,เอลเลฟของชิเซะ,items.json
+Item.13002,เอลเลฟของอาคาริ,items.json
+Item.13003,เอลเลฟของฮาสุมิ,items.json
+Item.13004,เอลเลฟของโนโนมิ,items.json
+Item.13005,เอลเลฟของคาโยโกะ,items.json
+Item.13006,เอลเลฟของมุสึกิ,items.json
+Item.13007,เอลเลฟของจุนโกะ,items.json
+Item.13008,เอลเลฟของเซริกะ,items.json
+Item.13009,เอลเลฟของสึบากิ,items.json
+Item.13010,เอลเลฟของยูกะ,items.json
+Item.13011,เอลเลฟของโมโมอิ,items.json
+Item.13012,เอลเลฟของคิริโนะ,items.json
+Item.16000,เอลเลฟของฮารุกะ,items.json
+Item.16001,เอลเลฟของอาสึนะ,items.json
+Item.16002,เอลเลฟของโคโทริ,items.json
+Item.16003,เอลเลฟของสึซึมิ,items.json
+Item.16004,เอลเลฟของพีน่า,items.json
+Item.16005,เอลเลฟของซึรุกิ (ชุดว่ายน้ำ),items.json
+Item.16006,เอลเลฟของอิซุมิ (ชุดว่ายน้ำ),items.json
+Item.16007,เอลเลฟของโทโมเอะ,items.json
+Item.16008,เอลเลฟของฟุบุกิ,items.json
+Item.16009,เอลเลฟของมิจิรุ,items.json
+Item.16010,เอลเลฟของฮิบิกิ (ชุดเชียร์),items.json
+Item.16011,เอลเลฟของฮาสุมิ (ชุดพละ),items.json
+Item.16012,เอลเลฟของจุนโกะ (ปีใหม่),items.json
+Item.16013,เอลเลฟของโคฮารุ (ชุดว่ายน้ำ),items.json
+Item.20000,เอลเลฟของฮิบิกิ,items.json
+Item.20001,เอลเลฟของคาริน,items.json
+Item.20002,เอลเลฟของซายะ,items.json
+Item.20003,เอลเลฟของมาชิโระ,items.json
+Item.20004,เอลเลฟของมาชิโระ (ชุดว่ายน้ำ),items.json
+Item.20005,เอลเลฟของฮิฟุมิ (ชุดว่ายน้ำ),items.json
+Item.20006,เอลเลฟของซายะ (ชุดลำลอง),items.json
+Item.20007,เอลเลฟของฮัตสึเนะ มิกุ,items.json
+Item.20008,เอลเลฟของอาโกะ,items.json
+Item.20009,เอลเลฟของเชริโน่ (ออนเซ็น),items.json
+Item.20010,เอลเลฟของโนโดกะ (ออนเซ็น),items.json
+Item.20011,เอลเลฟของเซริกะ (ปีใหม่),items.json
+Item.20012,เอลเลฟของเซนะ,items.json
+Item.20013,เอลเลฟของจิฮิโระ,items.json
+Item.20014,เอลเลฟของซากิ,items.json
+Item.20015,เอลเลฟของคาเอเดะ,items.json
+Item.20016,เอลเลฟของอิโรฮะ,items.json
+Item.20017,เอลเลฟของฮิโยริ,items.json
+Item.20018,เอลเลฟของโมเอะ,items.json
+Item.20019,เอลเลฟของอาคาเนะ (บันนี่เกิร์ล),items.json
+Item.20020,เอลเลฟของฮิมาริ,items.json
+Item.20021,เอลเลฟของฮานาเอะ (คริสต์มาส),items.json
+Item.20022,เอลเลฟของฟูกะ (ปีใหม่),items.json
+Item.20023,เอลเลฟของคันนะ,items.json
+Item.20024,เอลเลฟของนางิสะ,items.json
+Item.20025,เอลเลฟของฮารุกะ (ปีใหม่),items.json
+Item.20026,เอลเลฟของมิโนริ,items.json
+Item.20027,เอลเลฟของชิโรโกะ (ชุดว่ายน้ำ),items.json
+Item.20028,เอลเลฟของฮินาตะ (ชุดว่ายน้ำ),items.json
+Item.23000,เอลเลฟของไอริ,items.json
+Item.23001,เอลเลฟของฟูกะ,items.json
+Item.23002,เอลเลฟของฮานาเอะ,items.json
+Item.23003,เอลเลฟของฮาเระ,items.json
+Item.23004,เอลเลฟของอุทาฮะ,items.json
+Item.23005,เอลเลฟของอายาเนะ,items.json
+Item.23006,เอลเลฟของชิซุโกะ,items.json
+Item.23007,เอลเลฟของฮานาโกะ,items.json
+Item.23008,เอลเลฟของมารี,items.json
+Item.26000,เอลเลฟของชินัตสึ,items.json
+Item.26001,เอลเลฟของโคทามะ,items.json
+Item.26002,เอลเลฟของจูริ,items.json
+Item.26003,เอลเลฟของเซรินะ,items.json
+Item.26004,เอลเลฟของชิมิโกะ,items.json
+Item.26005,เอลเลฟของโยชิมิ,items.json
+Item.26006,เอลเลฟของโนโดกะ,items.json
+Item.26007,เอลเลฟของอายาเนะ (ชุดว่ายน้ำ),items.json
+Item.26008,เอลเลฟของชิซุโกะ (ชุดว่ายน้ำ),items.json
+Item.26009,เอลเลฟของยูสึ (เมด),items.json
+Item.26010,เอลเลฟของมิยุ (ชุดว่ายน้ำ),items.json
+Item.30000,กล่อง BD เรียนสกิลขั้นต่ำ,items.json
+Item.30001,กล่อง BD เรียนสกิลขั้นกลาง,items.json
+Item.30002,กล่อง BD เรียนสกิลขั้นสูง,items.json
+Item.30003,กล่อง BD เรียนสกิลขั้นสูงสุด,items.json
+Item.40000,กล่องตำราสกิลขั้นต่ำ,items.json
+Item.40001,กล่องตำราสกิลขั้นกลาง,items.json
+Item.40002,กล่องตำราสกิลขั้นสูง,items.json
+Item.40003,กล่องตำราสกิลขั้นสูงสุด,items.json
+Item.80000,แต้มกิจกรรม,items.json
+Item.80001,เซ็มเบจิ้งจอก,items.json
+Item.80002,โอโคโนมิยากิแร็กคูน,items.json
+Item.80003,ไดฟุกุซากุระ,items.json
+Item.80010,ตุ๊กตาแม่ลูกดกเชริโน่,items.json
+Item.80011,ช็อกโกแลตเชริโน่,items.json
+Item.80012,เครปครีมหนวด,items.json
+Item.80013,เหรียญตราหนวดขาว,items.json
+Item.80021,ลูกวอลเลย์บอลชายหาด,items.json
+Item.80022,คูปองอาหารร้านริมทะเล,items.json
+Item.80023,ดอกไม้ไฟประหลาด,items.json
+Item.80024,กล่องแช่เย็น,items.json
+Item.80025,เซ็ตเล่นทราย,items.json
+Item.80026,เก้าอี้ชายหาด,items.json
+Item.80027,โต๊ะร่มบังแดด,items.json
+Item.80028,อุปกรณ์เล่นน้ำ,items.json
+Item.80029,บอร์ดวินเซิร์ฟ,items.json
+Item.80030,กล่องเสบียง ตราเกเฮนน่า,items.json
+Item.80031,ข้าวโพดย่าง ชมรมชิมอาหาร,items.json
+Item.80032,แว่นแยงกี้สาวฤดูร้อน,items.json
+Item.80033,หมวกสาดน้ำ,items.json
+Item.80041,เห็ดเต่า,items.json
+Item.80042,ต้นไผ่สีดำ,items.json
+Item.80043,โสมรูปคน,items.json
+Item.80050,เหรียญช็อกโกแลต,items.json
+Item.80051,สติกเกอร์กระต่าย,items.json
+Item.80052,ตั๋วเรือ,items.json
+Item.80053,ลูกเต๋า,items.json
+Item.80061,ผ้าขนหนูออนเซ็น,items.json
+Item.80062,แชมพูหนวด,items.json
+Item.80063,บาธบอมบ์แคพิบารา,items.json
+Item.80070,ถุงนำโชคปีใหม่,items.json
+Item.80071,คางามิโมจิเพโรโร่,items.json
+Item.80072,ป้ายขอพรแก๊งคุโรคาเมะ,items.json
+Item.80073,ตั๋วเขย่าโอะมิกุจิปีใหม่,items.json
+Item.80081,หนังสือสำนึกผิด,items.json
+Item.80082,ขนมขบเคี้ยวที่ยึดได้,items.json
+Item.80083,ถุงงานดูแลสิ่งแวดล้อม,items.json
+Item.80084,ตั๋วเที่ยววันวาเลนไทน์,items.json
+Item.80090,หมายจับวาคาโมะ,items.json
+Item.80101,ผ้าคลุมหน้า,items.json
+Item.80102,หนังสือเพลง,items.json
+Item.80103,เชิงเทียนในวิหาร,items.json
+Item.80110,แพ็กการ์ดมูชิควีน,items.json
+Item.80111,ใบปลิวทัวร์โรงเรียน,items.json
+Item.80112,พัดองค์หญิงวาราคุ,items.json
+Item.80113,ตุ๊กตาคุณนินจานินเพโร่,items.json
+Item.80120,กล่องวัสดุ,items.json
+Item.80130,สกุลเงินท้องถิ่น,items.json
+Item.80131,เหรียญวิบวับๆ ของร้านเฮียกคิยาโค,items.json
+Item.80132,หอยสังข์วาววับ,items.json
+Item.80133,คำภีร์ศาสตร์นินจาฤดูร้อน,items.json
+Item.80134,ตั๋วใช้งานรีสอร์ต หมู่เกาะทะเลลึก,items.json
+Item.80135,ตั๋วใช้งานรีสอร์ต มูชิควีนครูซ,items.json
+Item.80136,ตั๋วใช้งานรีสอร์ต ลักซ์ชัวรี่,items.json
+Item.80140,คูปองของหวาน,items.json
+Item.80141,พาร์เฟ่ต์มินต์ช็อกโก,items.json
+Item.80142,มาการอง,items.json
+Item.80143,เวเฟอร์แท่ง,items.json
+Item.80151,ถุงถั่วอัดระเบิด,items.json
+Item.80152,ธงมิลเลเนียม,items.json
+Item.80153,นกหวีดสุดล้ำ,items.json
+Item.80160,เครื่องดื่มเกลือแร่,items.json
+Item.80161,ไม้คทาวิ่งผลัด,items.json
+Item.80162,ขนมปังไส้ถั่วแดง,items.json
+Item.80163,แผ่นพับแจ้งข่าว,items.json
+Item.80170,ของขวัญคริสต์มาส,items.json
+Item.80171,ถุงเท้าคริสต์มาส,items.json
+Item.80172,ลูกกวาดไม้เท้า,items.json
+Item.80173,เอ๊กน็อก,items.json
+Item.80181,คามาโบโกะ,items.json
+Item.80182,ปลาไท,items.json
+Item.80183,บัตรสุ่มโอะมิกุจิ,items.json
+Item.80200,วงจรคำนวณหลายมิติ,items.json
+Item.80201,อะไหล่เครื่องทะลุมิติ,items.json
+Item.80202,เบอร์เกอร์อวกาศ,items.json
+Item.80203,โค้ดปลดล็อกประตู - ชานเมืองเขต 2,items.json
+Item.80204,โค้ดปลดล็อกประตู - ชานเมืองเขต 3,items.json
+Item.80205,โค้ดปลดล็อกประตู - เขตกลาง,items.json
+Item.80221,หมวกนิรภัย องค์การนักเรียน,items.json
+Item.80222,รายงานทางการเงิน,items.json
+Item.80223,ขนมไข่ปลา,items.json
+Item.80230,きれいなカチューシャ,items.json
+Item.80231,メイクアップセット,items.json
+Item.80232,屋敷への招待状,items.json
+Item.80240,カードセット,items.json
+Item.80241,玄武商会の食券,items.json
+Item.80242,玄龍門バッジ,items.json
+Item.80243,溶媒抽出セット,items.json
+Item.80260,冷凍エビ,items.json
+Item.80261,小石,items.json
+Item.80262,貝殻,items.json
+Item.80263,乾いたヒトデ,items.json
+Item.80264,サイコロ確定券,items.json
+Item.80265,サイコロ1確定券,items.json
+Item.80266,サイコロ2確定券,items.json
+Item.80267,サイコロ3確定券,items.json
+Item.80268,サイコロ4確定券,items.json
+Item.80269,サイコロ5確定券,items.json
+Item.80270,サイコロ6確定券,items.json
+Item.80290,イベントPt,items.json
+Item.80291,羊皮紙の欠片,items.json
+Item.80292,レモン,items.json
+Item.80293,古びた鍵,items.json
+Item.85000,แต้มกิจกรรม(รีรัน),items.json
+Item.85001,เซ็มเบจิ้งจอก(รีรัน),items.json
+Item.85002,โอโคโนมิยากิแร็กคูน(รีรัน),items.json
+Item.85003,ไดฟุกุซากุระ(รีรัน),items.json
+Item.85010,ตุ๊กตาแม่ลูกดกเชริโน่(รีรัน),items.json
+Item.85011,ช็อกโกแลตเชริโน่(รีรัน),items.json
+Item.85012,เครปครีมหนวด(รีรัน),items.json
+Item.85013,เหรียญตราหนวดขาว(รีรัน),items.json
+Item.85021,ลูกวอลเลย์บอลชายหาด(รีรัน),items.json
+Item.85022,คูปองอาหารร้านริมทะเล(รีรัน),items.json
+Item.85023,ดอกไม้ไฟประหลาด(รีรัน),items.json
+Item.85030,กล่องเสบียง ตราเกเฮนน่า(รีรัน),items.json
+Item.85031,ข้าวโพดย่าง ชมรมชิมอาหาร(รีรัน),items.json
+Item.85032,แว่นแยงกี้สาวฤดูร้อน(รีรัน),items.json
+Item.85033,หมวกสาดน้ำ(รีรัน),items.json
+Item.85041,เห็ดเต่า(รีรัน),items.json
+Item.85042,ต้นไผ่สีดำ(รีรัน),items.json
+Item.85043,โสมรูปคน(รีรัน),items.json
+Item.85050,เหรียญช็อกโกแลต(รีรัน),items.json
+Item.85051,สติกเกอร์กระต่าย(รีรัน),items.json
+Item.85052,ตั๋วเรือ(รีรัน),items.json
+Item.85053,ลูกเต๋า(รีรัน),items.json
+Item.85061,ผ้าขนหนูออนเซ็น(รีรัน),items.json
+Item.85062,แชมพูหนวด(รีรัน),items.json
+Item.85063,บาธบอมบ์แคพิบารา(รีรัน),items.json
+Item.85070,ถุงนำโชคปีใหม่(รีรัน),items.json
+Item.85071,คางามิโมจิเพโรโร่(รีรัน),items.json
+Item.85072,ป้ายขอพรแก๊งคุโรคาเมะ(รีรัน),items.json
+Item.85073,ตั๋วเขย่าโอะมิกุจิปีใหม่(รีรัน),items.json
+Item.85081,หนังสือสำนึกผิด(รีรัน),items.json
+Item.85082,ขนมขบเคี้ยวที่ยึดได้(รีรัน),items.json
+Item.85083,ถุงงานดูแลสิ่งแวดล้อม(รีรัน),items.json
+Item.85084,ตั๋วเที่ยววันวาเลนไทน์(รีรัน),items.json
+Item.85090,หมายจับวาคาโมะ(รีรัน),items.json
+Item.85101,ผ้าคลุมหน้า(รีรัน),items.json
+Item.85102,หนังสือเพลง(รีรัน),items.json
+Item.85103,เชิงเทียนในวิหาร(รีรัน),items.json
+Item.85110,แพ็กการ์ดมูชิควีน(รีรัน),items.json
+Item.85111,ใบปลิวทัวร์โรงเรียน(รีรัน),items.json
+Item.85112,พัดองค์หญิงวาราคุ(รีรัน),items.json
+Item.85113,ตุ๊กตาคุณนินจานินเพโร่(รีรัน),items.json
+Item.85120,กล่องวัสดุ(รีรัน),items.json
+Item.85140,คูปองของหวาน(รีรัน),items.json
+Item.85141,พาร์เฟ่ต์มินต์ช็อกโก(รีรัน),items.json
+Item.85142,มาการอง(รีรัน),items.json
+Item.85143,เวเฟอร์แท่ง(รีรัน),items.json
+Item.100000,กล่องของขวัญ,items.json
+Item.100001,กล่องเฟอร์นิเจอร์(☆3),items.json
+Item.100008,กล่องเลือกของขวัญ,items.json
+Item.100009,กล่องของขวัญชั้นดี,items.json
+Item.100013,กล่องอุปกรณ์,items.json
+Item.100023,ชุดสุ่มวัตถุหลงยุค 1,items.json
+Item.100024,ชุดสุ่มวัตถุหลงยุค 2,items.json
+Item.100025,ชุดสุ่มวัตถุหลงยุค 3,items.json
+Item.100026,ชุดสุ่มวัตถุหลงยุค 4,items.json
+Item.150000,ชุดเลือกตำราสกิลขั้นต่ำ,items.json
+Item.150001,ชุดเลือกตำราสกิลขั้นกลาง,items.json
+Item.150002,ชุดเลือกตำราสกิลขั้นสูง,items.json
+Item.150003,ชุดเลือกตำราสกิลขั้นสูงสุด,items.json
+Item.150004,ชุดเลือก BD เรียนสกิลขั้นต่ำ,items.json
+Item.150005,ชุดเลือก BD เรียนสกิลขั้นกลาง,items.json
+Item.150006,ชุดเลือก BD เรียนสกิลขั้นสูง,items.json
+Item.150007,ชุดเลือก BD เรียนสกิลขั้นสูงสุด,items.json
+Item.150008,ชุดเลือกวัตถุหลงยุค 1,items.json
+Item.150009,ชุดเลือกวัตถุหลงยุค 2,items.json
+Item.150010,ชุดเลือกวัตถุหลงยุค 3,items.json
+Item.150011,ชุดเลือกวัตถุหลงยุค 4,items.json
+Item.150015,ชุดเลือกตำราสกิลขั้นสูงสุด,items.json
+Item.150028,ชุดเลือกสูตรอุปกรณ์ T2,items.json
+Item.150029,ชุดเลือกสูตรอุปกรณ์ T3,items.json
+Item.150030,ชุดเลือกสูตรอุปกรณ์ T4,items.json
+Item.150031,ชุดเลือกสูตรอุปกรณ์ T5,items.json
+Item.150032,ชุดเลือกสูตรอุปกรณ์ T6,items.json
+Item.150033,ชุดเลือกสูตรอุปกรณ์ T7,items.json
+Item.150038,家具選択ボックス（青）,items.json
+Item.150039,家具選択ボックス（橙）,items.json
+Item.150040,家具選択ボックス（紫）,items.json
+Item.151000,ชุดเลือกเฟอร์นิเจอร์ขั้นต่ำ,items.json
+Item.151001,ชุดเลือกเฟอร์นิเจอร์ธีม MOMO FRIENDS,items.json
+Item.151002,ชุดเลือกเฟอร์นิเจอร์ ธีมเกมเจลลี่,items.json
+Item.151003,ชุดเลือกเฟอร์นิเจอร์ ธีมวาเลนไทน์,items.json
+Item.151004,ชุดเลือกเฟอร์นิเจอร์ ธีมรีสอร์ตฤดูร้อน,items.json
+Item.151005,ชุดเลือกเฟอร์นิเจอร์ ธีมฮาโลวีน,items.json
+Item.151006,ชุดเลือกเฟอร์นิเจอร์ ธีมออนเซ็นดั้งเดิม,items.json
+Item.151007,ชุดเลือกเฟอร์นิเจอร์ ธีมปีใหม่,items.json
+Item.151008,ชุดเลือกเฟอร์นิเจอร์ ธีมค่ายทหาร,items.json
+Item.151009,ชุดเลือกเฟอร์นิเจอร์ ธีมริมหาด,items.json
+Item.151010,ชุดเลือกเฟอร์นิเจอร์ ธีมงานแข่งขันกีฬา,items.json
+Item.151011,ชุดเลือกเฟอร์นิเจอร์ ธีมห้องเรียนอะบิดอส,items.json
+Item.151012,ゲーム開発部シリーズ選択ボックス,items.json
+Item.151013,サンシャインリゾートシリーズ選択ボックス,items.json
+Item.151999,その他シリーズ選択ボックス,items.json
+Item.160003,ข้อมูลกลยุทธ์ 2: แบบ D-X,items.json
+Item.180000,มันฝรั่งรสช็อกโกแลต,items.json
+Item.180001,ช็อกโกแลตเอ็นเจล,items.json
+Item.180002,ช็อกโกแลตมินิห่อใหญ่,items.json
+Item.180003,คุกกี้ขนมปังขิงรสช็อกโกแลต ของอะโรน่า,items.json
+Item.180004,เพโรโร่วาเลนไทน์,items.json
+Item.180005,เรชั่นแบบ D,items.json
+Item.180006,ช็อกโกแลตร้อนแฮปปี้,items.json
+Item.180007,ช็อกโกแลตลาเต้ สูตรเกเฮนน่า,items.json
+Item.180008,ช็อกโกแลตบาร์กองโต,items.json
+Item.180009,ดังโงะช็อกโกแลต,items.json
+Item.180010,เดธเลิฟ,items.json
+Item.180011,ของว่างของนักปั่น,items.json
+Item.180012,สหายแห่งทะเลช็อกโกแลต,items.json
+Item.180013,กุหลาบทะเลทราย,items.json
+Item.180014,ช็อกโกแลตวีนัส,items.json
+Item.180015,อุปกรณ์ดักฟัง No.14,items.json
+Item.180016,โกโก้ร้อนกระป๋อง,items.json
+Item.180017,เซ็ตนามะช็อกโกแลต (พร้อมใบเสร็จ),items.json
+Item.180018,ช็อกโกแลตฮีโร่ (ไอเทม),items.json
+Item.180019,สเนลช็อกโกแลตโฮมเมด,items.json
+Item.180020,มอนสเตอร์แม็กซ์ รสช็อกโกแลต,items.json
+Item.180021,สเปรย์รสช็อกโกแลต,items.json
+Item.180022,ช็อกโกแลต ลูกปืนใหญ่ Mk.2,items.json
+Item.180023,สกรูช็อกโกแลต,items.json
+Item.180024,ช็อกเชริโน่,items.json
+Item.180025,ช็อกเชริโน่รุ่นใหม่,items.json
+Item.180026,ผลโกโก้,items.json
+Item.180027,ยาอายุวัฒนะ (ล้มเหลว),items.json
+Item.180028,บอนบอน เหล้ารัมสำหรับผู้ใหญ่,items.json
+Item.180029,กุญแจมือช็อกโกแลต,items.json
+Item.180030,โดนัทเกลียวช็อกโกแลต สูตรพิเศษ,items.json
+Item.180031,ฮานิวาช็อกโกแลต,items.json
+Item.180032,ลูกกระสุนจิ๋ว,items.json
+Item.180033,ช็อกโกแลตโฮมเมดของฮินะ,items.json
+Item.180034,การพักผ่อนสักงีบเพื่อเธอ,items.json
+Item.180035,ช็อกโกแลต! อร่อย! ว้าว!,items.json
+Item.180036,ช็อกโกแลตที่ดีที่สุด ของท่านประธาน,items.json
+Item.180037,รัสเซียนรูเล็ตนรก,items.json
+Item.180038,แก้วมัคโกโก้,items.json
+Item.180039,ช็อกโกแลตที่จูริทำสุดฝีมือ,items.json
+Item.180040,เค้กชั่วโมงที่อยู่ด้วยกัน,items.json
+Item.180041,เซ็ตของขวัญช็อกโกแลตรวม,items.json
+Item.180042,หนึ่งเดียวที่ดีที่สุด,items.json
+Item.180043,ช็อกโกแลตวูฟารูฟาบุก!,items.json
+Item.180044,ช็อกโกแลตโฮมเมดของมิโดริ,items.json
+Item.180045,ช็อกโกแลตเสี่ยงทายของชิเซะ,items.json
+Item.180046,ขนมลิมิเต็ด ของร้านเฮียกคิยาโค,items.json
+Item.180047,เซ็ตนินจาช็อกโกแลต No.49!,items.json
+Item.180048,ชุดเตรียมนอน กับช็อกโกแลตชวนนอน,items.json
+Item.180049,ช็อกโกแลตแห่งรักของวาคาโมะ,items.json
+Item.180050,ช็อกโกแลตพิสูจน์รสชาติ (รสชาเขียว),items.json
+Item.180051,ทูตวาเลนไทน์ สกัลแมน,items.json
+Item.180052,เลิฟลี่ ครอสไลน์,items.json
+Item.180053,ทวิงเคิล สตาร์,items.json
+Item.180054,รางวัลซิสเตอร์ช็อกโกแลต,items.json
+Item.180055,ลูกแก้วช็อกโกแลต,items.json
+Item.180056,บี วิธ ยู,items.json
+Item.180057,ช็อกโกแลตสเปียร์มินต์,items.json
+Item.180058,ช็อกโกแลตโยชิมิ รุ่นลิมิเต็ด,items.json
+Item.180059,ช็อกโกแลตแทนคำพูด,items.json
+Item.180060,ช็อกโกแลตนำโชค (ทำมือ),items.json
+Item.180061,ช็อกโกแลตผ้าพันแผล,items.json
+Item.180062,โกโก้ 99.99%,items.json
+Item.180063,วาเลนไทน์หักมุม,items.json
+Item.180064,เมด บาย เมด,items.json
+Item.180065,ข้าวห่อไข่ช็อกโกแลต,items.json
+Item.180066,ภาพพิมพ์ช็อกโกแลต : มังกร,items.json
+Item.180067,จุดเริ่มต้นวาเลนไทน์,items.json
+Item.180068,แก้วแสนหวาน,items.json
+Item.180069,อัลมอนด์คริมสัน,items.json
+Item.180070,ช็อกโกแลตห่อแบบลวกๆ,items.json
+Item.180071,ช็อกโกบอลสำหรับหนูน้อย,items.json
+Item.180072,คุกกี้ช็อกโกแลตเนื้อหนึบ,items.json
+Item.180073,ชิ้นเค้กช็อกโกแลต สตรอว์เบอร์รี,items.json
+Item.180074,ช็อกโกแลตห่อเล็ก,items.json
+Item.180075,ช็อกโกแลตห่อบรรจง,items.json
+Item.180076,ดอกไม้กับช็อกโกแลต,items.json
+Item.180077,ช็อกโกแลตกิดีวา,items.json
+Item.180078,ซากุระช็อกโกแลต,items.json
+Item.180079,ช็อกโกซอรัสสุดแกร่ง,items.json
+Item.180080,ช็อกโกแลต รูปกระต่ายละลาย,items.json
+Item.180081,ช็อกโกแลตของแฮ็กเกอร์ ผู้มีรอยยิ้มฮีลใจ,items.json
+Item.180082,ช็อกโกแลตสติ๊กโฮมเมด ของอิโรฮะ,items.json
+Item.180083,ช็อกโกแลตเซ็ตเครื่องหมาย ของชมรมวิจัยศาสตร์นินจา,items.json
+Item.180084,เค้กแคร์รอตช็อกโกแลต,items.json
+Item.180085,สมอร์ช็อกโกแลต,items.json
+Item.180086,เสบียงช็อกโกแลต คาราเมล,items.json
+Item.180087,ช็อกโกแลตบาร์ค,items.json
+Item.180088,หมึกช็อกโกแลต,items.json
+Item.180089,เหรียญตราผลงานช็อกโกแลต แบบพิเศษ,items.json
+Item.180090,บิทเทอร์สูตรพิเศษ ของชิกุเระ,items.json
+Item.180091,ช็อกโกแลตรูปลูกเจี๊ยบ,items.json
+Item.180092,ช็อกโกแลตเกรปฟรุตแผ่น,items.json
+Item.190000,ชุดสุ่มตำราสกิลขั้นต่ำ,items.json
+Item.190001,ชุดสุ่มตำราสกิลขั้นกลาง,items.json
+Item.190002,ชุดสุ่มตำราสกิลขั้นสูง,items.json
+Item.190003,ชุดสุ่มตำราสกิลขั้นสูงสุด,items.json
+Item.190010,ชุดสุ่ม BD เรียนสกิลขั้นต่ำ,items.json
+Item.190011,ชุดสุ่ม BD เรียนสกิลขั้นกลาง,items.json
+Item.190012,ชุดสุ่ม BD เรียนสกิลขั้นสูง,items.json
+Item.190013,ชุดสุ่ม BD เรียนสกิลขั้นสูงสุด,items.json
+Item.191000,ชุดสุ่มเฟอร์นิเจอร์ขั้นต่ำ,items.json
+Item.191001,ชุดสุ่มเฟอร์นิเจอร์ธีม MOMO FRIENDS,items.json
+Item.191002,ชุดสุ่มเฟอร์นิเจอร์ ธีมเกมเจลลี่,items.json
+Item.191003,ชุดสุ่มเฟอร์นิเจอร์ ธีมวาเลนไทน์,items.json
+Item.191004,ชุดสุ่มเฟอร์นิเจอร์ ธีมรีสอร์ตฤดูร้อน,items.json
+Item.191005,ชุดสุ่มเฟอร์นิเจอร์ ธีมฮาโลวีน,items.json
+Item.191006,ชุดสุ่มเฟอร์นิเจอร์ ธีมออนเซ็นดั้งเดิม,items.json
+Item.191007,ชุดสุ่มเฟอร์นิเจอร์ ธีมปีใหม่,items.json
+Item.191008,ชุดสุ่มเฟอร์นิเจอร์ ธีมค่ายทหาร,items.json
+Item.191009,ชุดสุ่มเฟอร์นิเจอร์ ธีมริมหาด,items.json
+Item.191010,ชุดสุ่มเฟอร์นิเจอร์ ธีมงานแข่งขันกีฬา,items.json
+Item.191011,ชุดสุ่มเฟอร์นิเจอร์ ธีมห้องเรียนอะบิดอส,items.json
+Item.191012,ゲーム開発部シリーズ抽選ボックス,items.json
+Item.191013,サンシャインリゾートシリーズ抽選ボックス,items.json
+Item.191991,家具抽選ボックス（青）,items.json
+Item.191992,家具抽選ボックス（橙）,items.json
+Item.191993,家具抽選ボックス（紫）,items.json
+Item.191999,その他シリーズ抽選ボックス,items.json
+Item.200000,บัตรประจำตัวผู้ใหญ่ ของเพลนาพาเทส,items.json
+Item.200001,เศษบัตรประจำตัวผู้ใหญ่,items.json

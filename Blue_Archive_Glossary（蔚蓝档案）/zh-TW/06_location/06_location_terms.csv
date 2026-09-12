@@ -1,0 +1,9 @@
+﻿id,term,src_table
+Location.10,阿拜多斯高中,translation_table.json:locations
+Location.37,赤冬事務局,translation_table.json:locations
+Location.38,赤冬聯邦學園,translation_table.json:locations
+Location.62,玄武商會,translation_table.json:locations
+Location.64,白鯨市場,translation_table.json:locations
+EventPlace.shanhaijing,山海經高級中學,story-viewer:eventStoryIndex.ts
+ConquestMap.815,「失樂園渡假勝地」群島,localization.json:ConquestMap
+ConquestMap.822,「阿特拉哈西斯的方舟」,localization.json:ConquestMap

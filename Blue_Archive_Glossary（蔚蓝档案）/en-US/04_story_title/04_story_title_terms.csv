@@ -1,0 +1,666 @@
+﻿id,term,src_table
+StoryIndex.main.0,Prologue,story-viewer:mainStoryIndex.ts
+StoryIndex.main.11000,Prologue 1.1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.1,Vol.3 Eden Treaty Chapter 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31010,Prologue,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31020,Make-Up Work Club,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31030,Tea Party,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31040,Failing Students Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31050,Failing Students Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31060,Breaking the Ice,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31070,Exam Prep,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31080,The First Evaluation Exam,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31090,What Lurks in the Depths,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31100,"Boot Camp, Here We Come!",story-viewer:mainStoryIndex.ts
+StoryIndex.main.31110,Spring Cleaning!,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31120,First Night of Boot Camp,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31130,First Mock Exam,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31140,Justice Task Force Vice President Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31150,Justice Task Force Vice President Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31160,Crack in the Surface,story-viewer:mainStoryIndex.ts
+StoryIndex.main.31170,Trinity's Traitor,story-viewer:mainStoryIndex.ts
+StoryIndex.main.2,Vol.3 Eden Treaty Chapter 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32010,The Great Leviathan,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32020,The Sisterhood,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32030,Secret Society,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32040,Swimsuit Symposium,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32050,Midnight Commotion Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32060,Midnight Commotion Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32070,A New Perspective,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32080,A Glimmer of Hope,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32090,A Shadowy Reach,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32100,The Second Exam Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32110,The Second Exam Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32120,Back to Square One,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32130,In Spite of Everything,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32140,A Confession,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32150,Lighting the Fuse,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32160,A Fearsome Clash,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32170,The Way of the World Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32180,The Way of the World Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32190,The Third Exam,story-viewer:mainStoryIndex.ts
+StoryIndex.main.32200,Epilogue,story-viewer:mainStoryIndex.ts
+StoryIndex.main.3,Vol.3 Eden Treaty Chapter 3,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33010,Postmortem Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33020,Postmortem Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33030,Postmortem Part 3,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33040,What Comes Next,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33050,Eden Treaty Signing Ceremony Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33060,Eden Treaty Signing Ceremony Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33070,Day of Fire and Ash Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33080,Day of Fire and Ash Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33090,Bearing Witness to Hatred,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33100,Sweet Lies,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33110,Aggravated Confusion Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33120,Aggravated Confusion Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33130,A Side Beyond Reach,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33140,A Light in the Darkness,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33150,In Response to the Fifth Topic,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33160,Bits and Pieces,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33170,The Embodiment of Hate,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33180,Without a Moment's Hesitation,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33190,Our Stories,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33200,The Name of Paradise Part 1,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33210,The Name of Paradise Part 2,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33220,The Name of Paradise Part 3,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33230,Below the Old Cathedral,story-viewer:mainStoryIndex.ts
+StoryIndex.main.33240,Hatred That Is Not Our Own,story-viewer:mainStoryIndex.ts
+StoryIndex.other.0,Total Assault,story-viewer:otherStoryIndex.ts
+StoryIndex.other.200,Total Assault Mission Briefing,story-viewer:otherStoryIndex.ts
+StoryIndex.other.201,Binah: The Contemplator of Disparity,story-viewer:otherStoryIndex.ts
+StoryIndex.other.202,"Chesed, the Merciful Arbitrator",story-viewer:otherStoryIndex.ts
+StoryIndex.other.203,Replicants of Delight,story-viewer:otherStoryIndex.ts
+StoryIndex.other.204,Ancient Doctrines,story-viewer:otherStoryIndex.ts
+StoryIndex.other.205,Raiding the Kaitenger!,story-viewer:otherStoryIndex.ts
+StoryIndex.other.206,The World of Signs,story-viewer:otherStoryIndex.ts
+StoryIndex.other.207,Hod: Glory Through Splendor,story-viewer:otherStoryIndex.ts
+StoryIndex.other.208,The Show Must Go On,story-viewer:otherStoryIndex.ts
+StoryIndex.other.1,Work Stories,story-viewer:otherStoryIndex.ts
+StoryIndex.other.100,Let the Commissions Begin,story-viewer:otherStoryIndex.ts
+StoryIndex.other.101,Let the Arrests Begin,story-viewer:otherStoryIndex.ts
+StoryIndex.other.102,Commission: Item Retrieval,story-viewer:otherStoryIndex.ts
+StoryIndex.other.103,Commission: Base Defense Complete,story-viewer:otherStoryIndex.ts
+StoryIndex.other.300,The Allied Tournament!,story-viewer:otherStoryIndex.ts
+StoryIndex.other.400,Welcome to the Angel 24 Convenience Store!,story-viewer:otherStoryIndex.ts
+StoryIndex.other.500,What Is the Crafting Chamber?,story-viewer:otherStoryIndex.ts
+StoryIndex.other.600,Joint Firing Drill,story-viewer:otherStoryIndex.ts
+StoryIndex.other.700,Many a Mickle Makes a Muckle,story-viewer:otherStoryIndex.ts
+StoryIndex.other.800,Aoi's Appearance,story-viewer:otherStoryIndex.ts
+StoryIndex.other.801,Grand Assault Mission Briefing,story-viewer:otherStoryIndex.ts
+StoryIndex.other.2,Restriction Release Decisive Battle,story-viewer:otherStoryIndex.ts
+StoryIndex.other.901,Seth's Wrath,story-viewer:otherStoryIndex.ts
+StoryIndex.event.0,Descent of the Five Senses,story-viewer:eventStoryIndex.ts
+MomoTalk.10000.126,Motivating Your Workers,momotalk/10000.yml
+MomoTalk.10000.127,Power of Persuasion,momotalk/10000.yml
+MomoTalk.10000.128,The True Leader,momotalk/10000.yml
+MomoTalk.10000.129,Management Consultant Job Offer,momotalk/10000.yml
+MomoTalk.10000.130,Something Very Precious and Important,momotalk/10000.yml
+MomoTalk.10001.131,Temperature Control,momotalk/10001.yml
+MomoTalk.10001.132,Trend Research 1,momotalk/10001.yml
+MomoTalk.10001.133,Trend Research 2,momotalk/10001.yml
+MomoTalk.10001.134,Peak Fashion,momotalk/10001.yml
+MomoTalk.10001.135,Wounds,momotalk/10001.yml
+MomoTalk.10002.137,Forbidden Research,momotalk/10002.yml
+MomoTalk.10002.138,The Dignified Path,momotalk/10002.yml
+MomoTalk.10002.139,The Raging Epicure,momotalk/10002.yml
+MomoTalk.10002.140,The True Epicure,momotalk/10002.yml
+MomoTalk.10003.141,New Merch!,momotalk/10003.yml
+MomoTalk.10003.142,The Secret of the Bag,momotalk/10003.yml
+MomoTalk.10003.143,Peroro Rescue Mission,momotalk/10003.yml
+MomoTalk.10003.144,A Consultation,momotalk/10003.yml
+MomoTalk.10003.145,A Casual Outing,momotalk/10003.yml
+MomoTalk.10003.146,Guerrilla Meet and Greet,momotalk/10003.yml
+MomoTalk.10004.147,Late-Night Rendezvous,momotalk/10004.yml
+MomoTalk.10004.148,Reason to be Proud,momotalk/10004.yml
+MomoTalk.10004.149,Someone Else's Preference,momotalk/10004.yml
+MomoTalk.10004.150,Warm Sunshine,momotalk/10004.yml
+MomoTalk.10004.151,A Strange Night,momotalk/10004.yml
+MomoTalk.10005.153,The Sleeping Whale,momotalk/10005.yml
+MomoTalk.10005.154,A Lazy Morning,momotalk/10005.yml
+MomoTalk.10005.155,Faint Light,momotalk/10005.yml
+MomoTalk.10005.156,Midnight Ranger,momotalk/10005.yml
+MomoTalk.10005.157,How to Seize Luck,momotalk/10005.yml
+MomoTalk.10005.158,A Day at the Aquarium!,momotalk/10005.yml
+MomoTalk.10006.160,A Big Misunderstanding,momotalk/10006.yml
+MomoTalk.10006.161,Resting on Campus,momotalk/10006.yml
+MomoTalk.10006.162,A Secret Trade,momotalk/10006.yml
+MomoTalk.10006.163,Tender Treatment,momotalk/10006.yml
+MomoTalk.10006.164,Sensei's Misunderstanding,momotalk/10006.yml
+MomoTalk.10007.165,An Exemplary Citizen,momotalk/10007.yml
+MomoTalk.10007.166,Suspicious Hacking,momotalk/10007.yml
+MomoTalk.10007.167,Brilliant or Brainless,momotalk/10007.yml
+MomoTalk.10007.168,Aesthetic Maintenance,momotalk/10007.yml
+MomoTalk.10007.169,Everlasting Memories,momotalk/10007.yml
+MomoTalk.10008.170,Morning Maid Cleaning!,momotalk/10008.yml
+MomoTalk.10008.171,Visiting Sick Neru,momotalk/10008.yml
+MomoTalk.10008.172,Neru's Visit,momotalk/10008.yml
+MomoTalk.10008.173,Tardiness Trouble,momotalk/10008.yml
+MomoTalk.10008.174,Shining Night,momotalk/10008.yml
+MomoTalk.10008.175,Why She Wears The Bomber Jacket,momotalk/10008.yml
+MomoTalk.10009.176,Peak Enjoyment,momotalk/10009.yml
+MomoTalk.10009.177,A Tale of Delicious Pudding,momotalk/10009.yml
+MomoTalk.10009.178,Mouthwatering Treats,momotalk/10009.yml
+MomoTalk.10010.180,Running Machine,momotalk/10010.yml
+MomoTalk.10010.181,Distancing,momotalk/10010.yml
+MomoTalk.10010.182,Road Biking,momotalk/10010.yml
+MomoTalk.10010.183,The Subway,momotalk/10010.yml
+MomoTalk.10010.184,Scoping Out the City,momotalk/10010.yml
+MomoTalk.10010.185,Personal Counseling,momotalk/10010.yml
+MomoTalk.10010.186,Better Safe Than Sorry,momotalk/10010.yml
+MomoTalk.10011.187,Snack Time,momotalk/10011.yml
+MomoTalk.10011.188,Brush After Every Meal,momotalk/10011.yml
+MomoTalk.10011.189,I'm Not Old!,momotalk/10011.yml
+MomoTalk.10011.190,Higher and Higher,momotalk/10011.yml
+MomoTalk.10011.191,Choosing Gifts,momotalk/10011.yml
+MomoTalk.10011.192,Sweet Afternoon Nap,momotalk/10011.yml
+MomoTalk.10012.193,The Trainer Appears!,momotalk/10012.yml
+MomoTalk.10012.194,My Trainer and Me,momotalk/10012.yml
+MomoTalk.10012.195,Quality Time with Trainer,momotalk/10012.yml
+MomoTalk.10012.196,A Date with Trainer,momotalk/10012.yml
+MomoTalk.10013.198,Distance Is the Key!,momotalk/10013.yml
+MomoTalk.10013.199,The World of Selfies,momotalk/10013.yml
+MomoTalk.10013.200,A Grown-Up Date,momotalk/10013.yml
+MomoTalk.10013.201,A Special Chest,momotalk/10013.yml
+MomoTalk.10014.202,Izuna's Tailing Technique,momotalk/10014.yml
+MomoTalk.10014.203,Izuna's Protection Technique,momotalk/10014.yml
+MomoTalk.10014.204,What Izuna Likes,momotalk/10014.yml
+MomoTalk.10014.205,Together with My Lord,momotalk/10014.yml
+MomoTalk.10015.206,Aris Quest: The Adventure Begins,momotalk/10015.yml
+MomoTalk.10015.207,Aris Quest: To Become a Legend,momotalk/10015.yml
+MomoTalk.10015.208,Aris' Choice,momotalk/10015.yml
+MomoTalk.10015.209,The Cat and Aris,momotalk/10015.yml
+MomoTalk.10015.210,Aris' Magic,momotalk/10015.yml
+MomoTalk.10016.211,"The Deadline's Approaching, Sensei",momotalk/10016.yml
+MomoTalk.10016.212,"It's Field Training, Sensei",momotalk/10016.yml
+MomoTalk.10016.213,"It's Limited Edition, Sensei",momotalk/10016.yml
+MomoTalk.10016.214,"It's a Sparkling Memory, Sensei",momotalk/10016.yml
+MomoTalk.10016.215,"It's a Memory that Never Fades, Sensei",momotalk/10016.yml
+MomoTalk.10017.216,The Award Ceremony,momotalk/10017.yml
+MomoTalk.10017.217,Bell Peppers and Hamburger Steak,momotalk/10017.yml
+MomoTalk.10017.218,Cherino's Nine Years Old?,momotalk/10017.yml
+MomoTalk.10017.219,The Snowfield Assassin,momotalk/10017.yml
+MomoTalk.10017.220,Nightmares,momotalk/10017.yml
+MomoTalk.10018.221,Sanctuary of the Cabinet,momotalk/10018.yml
+MomoTalk.10018.222,A Friendly Fighter,momotalk/10018.yml
+MomoTalk.10018.223,A Shy Girl's Part-Time Job 1,momotalk/10018.yml
+MomoTalk.10018.224,A Shy Girl's Part-Time Job 2,momotalk/10018.yml
+MomoTalk.10018.225,A Promise at the Theme Park,momotalk/10018.yml
+MomoTalk.10019.226,Incorporate,momotalk/10019.yml
+MomoTalk.10019.227,Security,momotalk/10019.yml
+MomoTalk.10019.228,Plan,momotalk/10019.yml
+MomoTalk.10019.229,Shooting,momotalk/10019.yml
+MomoTalk.10020.230,What Are You Thinking About?,momotalk/10020.yml
+MomoTalk.10020.231,What Are You Talking About?,momotalk/10020.yml
+MomoTalk.10020.232,What Can I Do for You?,momotalk/10020.yml
+MomoTalk.10020.233,What Are You Doing?,momotalk/10020.yml
+MomoTalk.10021.234,Priority Subject,momotalk/10021.yml
+MomoTalk.10021.235,Ambiance Matters,momotalk/10021.yml
+MomoTalk.10021.236,Visible at a Glance,momotalk/10021.yml
+MomoTalk.10021.237,Luxuries of the Beach,momotalk/10021.yml
+MomoTalk.10022.238,Walking on the Beach with the Head Prefect,momotalk/10022.yml
+MomoTalk.10022.239,Doing Paperwork with the Head Prefect,momotalk/10022.yml
+MomoTalk.10022.240,A Summer View with Hina,momotalk/10022.yml
+MomoTalk.10023.242,What Not To Do At the Beach,momotalk/10023.yml
+MomoTalk.10023.243,The Prefect Team's Weakness,momotalk/10023.yml
+MomoTalk.10023.244,The Prefect Team's Change of Pace,momotalk/10023.yml
+MomoTalk.10023.245,Buried in the Sand,momotalk/10023.yml
+MomoTalk.10024.247,Cycling Across Kivotos,momotalk/10024.yml
+MomoTalk.10024.248,My Personal Cheerleader,momotalk/10024.yml
+MomoTalk.10024.249,Being Together Everywhere,momotalk/10024.yml
+MomoTalk.10024.250,The Last Stop,momotalk/10024.yml
+MomoTalk.10025.251,It's Convenient Being Small!,momotalk/10025.yml
+MomoTalk.10025.252,It's Inconvenient Being Small!,momotalk/10025.yml
+MomoTalk.10025.253,Playground Safety Check,momotalk/10025.yml
+MomoTalk.10025.254,Secret Base,momotalk/10025.yml
+MomoTalk.10025.255,Changing and Unchanging,momotalk/10025.yml
+MomoTalk.10026.256,A Request for Help,momotalk/10026.yml
+MomoTalk.10026.257,A Small Favor,momotalk/10026.yml
+MomoTalk.10026.258,A Sea of Stares,momotalk/10026.yml
+MomoTalk.10027.259,An Unforeseen Gaze,momotalk/10027.yml
+MomoTalk.10027.260,An Unforeseen Misunderstanding,momotalk/10027.yml
+MomoTalk.10027.261,An Unforeseen Conclusion,momotalk/10027.yml
+MomoTalk.10028.262,What We Do Late at Night,momotalk/10028.yml
+MomoTalk.10028.263,Life of Rabbits,momotalk/10028.yml
+MomoTalk.10028.264,Life of Bunny Girls,momotalk/10028.yml
+MomoTalk.10028.265,Rabbit Tail Ruckus,momotalk/10028.yml
+MomoTalk.10029.266,Lecture Title: Romance,momotalk/10029.yml
+MomoTalk.10029.267,Today's Lecture: Embracing,momotalk/10029.yml
+MomoTalk.10029.268,Excavation and Discovery,momotalk/10029.yml
+MomoTalk.10029.269,Break Time: Snack Shop,momotalk/10029.yml
+MomoTalk.10030.270,Workaholic,momotalk/10030.yml
+MomoTalk.10030.271,Yakuzen Therapy,momotalk/10030.yml
+MomoTalk.10030.272,A Thank-You Gift,momotalk/10030.yml
+MomoTalk.10030.273,An Open-Air Bath for Two,momotalk/10030.yml
+MomoTalk.10031.274,Before the Year Is Out,momotalk/10031.yml
+MomoTalk.10031.275,The Side You'd Like to Show,momotalk/10031.yml
+MomoTalk.10031.276,The First Step With You,momotalk/10031.yml
+MomoTalk.10031.277,Reading New Year Fortunes,momotalk/10031.yml
+MomoTalk.10032.278,New Year's Gift for Sensei,momotalk/10032.yml
+MomoTalk.10032.279,Activities for New Year's!,momotalk/10032.yml
+MomoTalk.10032.280,It Takes Two to Hanetsuki!,momotalk/10032.yml
+MomoTalk.10033.281,A Gentle Reunion,momotalk/10033.yml
+MomoTalk.10033.282,A Solo Date Together,momotalk/10033.yml
+MomoTalk.10033.283,A Date Gone Slightly Awry,momotalk/10033.yml
+MomoTalk.10033.284,Unchanging Faith,momotalk/10033.yml
+MomoTalk.10034.286,Time to Rise and Shine,momotalk/10034.yml
+MomoTalk.10034.287,Etiquette I: The Home Cooking Episode,momotalk/10034.yml
+MomoTalk.10034.288,Etiquette II: The Cleaning Episode,momotalk/10034.yml
+MomoTalk.10034.289,Heartfelt Embroidery,momotalk/10034.yml
+MomoTalk.10035.291,Director of the Old Library,momotalk/10035.yml
+MomoTalk.10035.292,Finding a Missing Child,momotalk/10035.yml
+MomoTalk.10035.293,A Sudden Proposal,momotalk/10035.yml
+MomoTalk.10035.294,Nameless Translator,momotalk/10035.yml
+MomoTalk.10036.295,The Cathedral's Manager,momotalk/10036.yml
+MomoTalk.10036.296,Overpayment,momotalk/10036.yml
+MomoTalk.10036.297,Inside the Bushes,momotalk/10036.yml
+MomoTalk.10036.298,Picnic Bag,momotalk/10036.yml
+MomoTalk.10036.299,A Picnic Blanket,momotalk/10036.yml
+MomoTalk.10037.300,Security Committee Chair's Interrogation,momotalk/10037.yml
+MomoTalk.10037.301,Security Committee Chair's Reasoning,momotalk/10037.yml
+MomoTalk.10037.302,Security Committee Chair's Cleaning,momotalk/10037.yml
+MomoTalk.10037.303,Security Committee Chair's Misunderstanding,momotalk/10037.yml
+MomoTalk.10038.304,"SRT, Charge!",momotalk/10038.yml
+MomoTalk.10038.305,SRT to the Rescue!,momotalk/10038.yml
+MomoTalk.10038.306,"SRT, Protect!",momotalk/10038.yml
+MomoTalk.10038.307,"SRT, Descend!",momotalk/10038.yml
+MomoTalk.10038.308,"SRT, Break!",momotalk/10038.yml
+MomoTalk.10039.310,"RABBIT 4, Hide",momotalk/10039.yml
+MomoTalk.10039.311,"RABBIT 4, Mobilize",momotalk/10039.yml
+MomoTalk.10039.312,"RABBIT 4, Shoot",momotalk/10039.yml
+MomoTalk.10039.313,"RABBIT 4, Let's Rest",momotalk/10039.yml
+MomoTalk.10040.315,I-I Want to Be an Official Ninja!,momotalk/10040.yml
+MomoTalk.10040.316,Being Tall Isn't So Bad,momotalk/10040.yml
+MomoTalk.10040.317,Do You Think I Can Be a Great Kunoichi?,momotalk/10040.yml
+MomoTalk.10040.318,My Chance to Show My Ninja Skills!,momotalk/10040.yml
+MomoTalk.10041.319,The Body Is a Prison,momotalk/10041.yml
+MomoTalk.10041.320,Uncontrollable Body,momotalk/10041.yml
+MomoTalk.10041.321,Tough to Clean,momotalk/10041.yml
+MomoTalk.10042.323,Princess in the Ruins,momotalk/10042.yml
+MomoTalk.10042.324,Late Night at the Academy,momotalk/10042.yml
+MomoTalk.10042.325,Street Garden,momotalk/10042.yml
+MomoTalk.10042.326,Much More than Now,momotalk/10042.yml
+MomoTalk.10043.327,Because It's for You,momotalk/10043.yml
+MomoTalk.10043.328,To Keep a Promise,momotalk/10043.yml
+MomoTalk.10043.329,A Fluttering Heart Near a Bonfire,momotalk/10043.yml
+MomoTalk.10044.330,Sometimes on Days Like These,momotalk/10044.yml
+MomoTalk.10044.331,Coconut Harvest Challenge,momotalk/10044.yml
+MomoTalk.10044.332,Stars on the Sand,momotalk/10044.yml
+MomoTalk.10045.333,Treasure of the Hidden Island,momotalk/10045.yml
+MomoTalk.10045.334,Farm Fresh Ingredients,momotalk/10045.yml
+MomoTalk.10045.335,I Want to Read Your Mind,momotalk/10045.yml
+MomoTalk.10046.336,Crushing Watermelons with Izuna!,momotalk/10046.yml
+MomoTalk.10046.337,Sand-Play with Izuna!,momotalk/10046.yml
+MomoTalk.10046.338,Escaping Crisis with Izuna!,momotalk/10046.yml
+MomoTalk.10046.339,Holding Hands with Izuna,momotalk/10046.yml
+MomoTalk.10047.340,Finding Sparkles,momotalk/10047.yml
+MomoTalk.10047.341,What I Want to Show You,momotalk/10047.yml
+MomoTalk.10047.342,Where the Sparkles Are,momotalk/10047.yml
+MomoTalk.10048.344,Self-Reliance,momotalk/10048.yml
+MomoTalk.10048.345,A Mistake,momotalk/10048.yml
+MomoTalk.10048.346,Blaming Yourself,momotalk/10048.yml
+MomoTalk.10049.348,Make-Up Work and Dessert,momotalk/10049.yml
+MomoTalk.10049.349,After-School Sweets Club Member,momotalk/10049.yml
+MomoTalk.10049.350,Bad Timing,momotalk/10049.yml
+MomoTalk.10049.351,The Cat's Tongue,momotalk/10049.yml
+MomoTalk.10050.352,It's not Kokona. It's Instructor Kokona!,momotalk/10050.yml
+MomoTalk.10050.353,"Not a Girl, but a Lady!",momotalk/10050.yml
+MomoTalk.10050.354,I Said I Hate It!,momotalk/10050.yml
+MomoTalk.10050.355,"...Just This Once, Really!",momotalk/10050.yml
+MomoTalk.10051.356,A Captain's Fashion Passion,momotalk/10051.yml
+MomoTalk.10051.357,A Captain's Moving Performance,momotalk/10051.yml
+MomoTalk.10051.358,A Captain's Heaven-Piercing Cheer,momotalk/10051.yml
+MomoTalk.10051.359,A Captain's Soul of Flaming...Passion?,momotalk/10051.yml
+MomoTalk.10052.360,The Secretary is in the Details,momotalk/10052.yml
+MomoTalk.10052.361,The Secretary Becomes the Teacher,momotalk/10052.yml
+MomoTalk.10052.362,The Daily Life of Secretary Noa,momotalk/10052.yml
+MomoTalk.10052.363,The Daily Life of Ushio Noa,momotalk/10052.yml
+MomoTalk.10053.364,Morning Jog,momotalk/10053.yml
+MomoTalk.10053.365,The Secrets of Scientific Cooking,momotalk/10053.yml
+MomoTalk.10053.366,Rational Cheer Culture,momotalk/10053.yml
+MomoTalk.10053.367,Sports Card,momotalk/10053.yml
+MomoTalk.10054.368,An Unfamiliar Uniform,momotalk/10054.yml
+MomoTalk.10054.369,Sister on the Bench,momotalk/10054.yml
+MomoTalk.10054.370,Mari's Repayment,momotalk/10054.yml
+MomoTalk.10055.371,Discretely,momotalk/10055.yml
+MomoTalk.10055.372,Slyly,momotalk/10055.yml
+MomoTalk.10055.373,Intimately,momotalk/10055.yml
+MomoTalk.10055.374,Frankly,momotalk/10055.yml
+MomoTalk.10056.375,Serina on a Holy Night,momotalk/10056.yml
+MomoTalk.10056.376,A Gift Prepared in Earnest,momotalk/10056.yml
+MomoTalk.10056.377,The Remedial Knights Experience,momotalk/10056.yml
+MomoTalk.10057.378,Off the Rails. But Only Sometimes.,momotalk/10057.yml
+MomoTalk.10057.379,The Means and the Ends,momotalk/10057.yml
+MomoTalk.10057.380,The Four Elements of Gastronomy,momotalk/10057.yml
+MomoTalk.10058.381,Far and Wide,momotalk/10058.yml
+MomoTalk.10058.382,The Realm of Hobbies,momotalk/10058.yml
+MomoTalk.10058.383,Afternoon Tea,momotalk/10058.yml
+MomoTalk.10058.384,Where Aid Is Needed,momotalk/10058.yml
+MomoTalk.10059.385,Back to Daily Life,momotalk/10059.yml
+MomoTalk.10059.386,Volunteer Activities,momotalk/10059.yml
+MomoTalk.10059.387,The Princess of the Attic,momotalk/10059.yml
+MomoTalk.10059.388,Wounds and Scars,momotalk/10059.yml
+MomoTalk.10060.389,Morimori Stack,momotalk/10060.yml
+MomoTalk.10060.390,How to Relax,momotalk/10060.yml
+MomoTalk.10060.391,The Business of the Hot Springs Department,momotalk/10060.yml
+MomoTalk.10060.392,Ramen and Hot Springs,momotalk/10060.yml
+MomoTalk.10061.393,Easily Misunderstood,momotalk/10061.yml
+MomoTalk.10061.394,Catching Up on the Trends,momotalk/10061.yml
+MomoTalk.10061.395,Walking the Halls,momotalk/10061.yml
+MomoTalk.10061.396,An Unexpected Hobby,momotalk/10061.yml
+MomoTalk.10061.397,Proof of Good Intent,momotalk/10061.yml
+MomoTalk.10062.398,Daily Chores,momotalk/10062.yml
+MomoTalk.10062.399,Academy Life,momotalk/10062.yml
+MomoTalk.10062.400,Concerning Hobbies,momotalk/10062.yml
+MomoTalk.10062.401,A Day's Tardiness,momotalk/10062.yml
+MomoTalk.10080.470,Mental Out,momotalk/10080.yml
+MomoTalk.10103.547,Cutting the Gordian Knot,momotalk/10103.yml
+MomoTalk.10119.606,Hyakkaryouran Marksmanship,momotalk/10119.yml
+MomoTalk.13000.620,Are You My Master? Part 1,momotalk/13000.yml
+MomoTalk.13000.621,Are You My Master? Part 2,momotalk/13000.yml
+MomoTalk.13000.622,Going Out Together,momotalk/13000.yml
+MomoTalk.13000.623,Sleeping Maid,momotalk/13000.yml
+MomoTalk.13000.624,"Good Morning, Master",momotalk/13000.yml
+MomoTalk.13000.625,Golden Afternoon,momotalk/13000.yml
+MomoTalk.13001.626,The Scent of Clouds,momotalk/13001.yml
+MomoTalk.13001.627,Superstar of the Yin-Yang Club,momotalk/13001.yml
+MomoTalk.13001.628,Celestial Inspiration,momotalk/13001.yml
+MomoTalk.13002.630,The Pacesetter,momotalk/13002.yml
+MomoTalk.13002.631,Garlic-A-Holic,momotalk/13002.yml
+MomoTalk.13002.632,The Right to Refuse Gluttons,momotalk/13002.yml
+MomoTalk.13002.633,Gourmand's Pride,momotalk/13002.yml
+MomoTalk.13003.634,Major Miscommunication,momotalk/13003.yml
+MomoTalk.13003.635,Unrealized Truth,momotalk/13003.yml
+MomoTalk.13003.636,Twilight Hour,momotalk/13003.yml
+MomoTalk.13003.637,The Cause of Stress,momotalk/13003.yml
+MomoTalk.13003.638,Short but Splendid,momotalk/13003.yml
+MomoTalk.13004.639,A Coincidental Meeting,momotalk/13004.yml
+MomoTalk.13004.640,Cleaning Time,momotalk/13004.yml
+MomoTalk.13004.641,Time to Repay,momotalk/13004.yml
+MomoTalk.13004.642,Games Are Fun,momotalk/13004.yml
+MomoTalk.13004.643,In Pursuit of Health,momotalk/13004.yml
+MomoTalk.13005.645,Police Interrogation,momotalk/13005.yml
+MomoTalk.13005.646,Office Cleaning,momotalk/13005.yml
+MomoTalk.13005.647,Heavy Metal Spirit,momotalk/13005.yml
+MomoTalk.13005.648,Rainy Day Alleyway,momotalk/13005.yml
+MomoTalk.13005.649,Record Store,momotalk/13005.yml
+MomoTalk.13006.650,The Party Imp,momotalk/13006.yml
+MomoTalk.13006.651,The Imp's Unspeakable Secret,momotalk/13006.yml
+MomoTalk.13006.652,The Imp's Hobby,momotalk/13006.yml
+MomoTalk.13006.653,Someone's Special Request,momotalk/13006.yml
+MomoTalk.13007.654,Sincere Rewards,momotalk/13007.yml
+MomoTalk.13007.655,Fake Food,momotalk/13007.yml
+MomoTalk.13007.656,A Poor Gourmet,momotalk/13007.yml
+MomoTalk.13007.657,Stomach Training,momotalk/13007.yml
+MomoTalk.13007.658,The Not-So-Solitary Gourmet,momotalk/13007.yml
+MomoTalk.13007.659,The Results of Hard Work,momotalk/13007.yml
+MomoTalk.13008.660,Part-Time Job Assistant,momotalk/13008.yml
+MomoTalk.13008.661,Hardcore All-Night Part-Time Job,momotalk/13008.yml
+MomoTalk.13008.662,Pulling Weeds at the Park,momotalk/13008.yml
+MomoTalk.13008.663,A Belated Realization,momotalk/13008.yml
+MomoTalk.13008.664,Unexpected Luck,momotalk/13008.yml
+MomoTalk.13008.665,A Brief Respite,momotalk/13008.yml
+MomoTalk.13009.667,Just Another Lazy Day,momotalk/13009.yml
+MomoTalk.13009.668,Tsubaki's Training: Tools,momotalk/13009.yml
+MomoTalk.13009.669,Tsubaki's Training: Practice,momotalk/13009.yml
+MomoTalk.13009.670,The Best Place to Train with You,momotalk/13009.yml
+MomoTalk.13010.671,Responsible Spending,momotalk/13010.yml
+MomoTalk.13010.672,Priceless,momotalk/13010.yml
+MomoTalk.13010.673,The Human Calculator,momotalk/13010.yml
+MomoTalk.13010.674,Overslept,momotalk/13010.yml
+MomoTalk.13010.675,Poker Face,momotalk/13010.yml
+MomoTalk.13010.676,The Queen of Mental Arithmetic,momotalk/13010.yml
+MomoTalk.13011.677,A Gamer's Day,momotalk/13011.yml
+MomoTalk.13011.678,What Makes a Good Story,momotalk/13011.yml
+MomoTalk.13011.679,Momoi Recollection!,momotalk/13011.yml
+MomoTalk.13011.680,Peachy Stamp Rally,momotalk/13011.yml
+MomoTalk.13012.681,Relaxed Shakedown,momotalk/13012.yml
+MomoTalk.13012.682,Gunfire and Zirconia,momotalk/13012.yml
+MomoTalk.13012.683,Double Target,momotalk/13012.yml
+MomoTalk.13012.684,Kindergarten Going Downtown,momotalk/13012.yml
+MomoTalk.16000.690,Wrong Number,momotalk/16000.yml
+MomoTalk.16000.691,Miscommunication,momotalk/16000.yml
+MomoTalk.16000.692,Improper Method,momotalk/16000.yml
+MomoTalk.16000.693,Wrong Assumption,momotalk/16000.yml
+MomoTalk.16000.694,Wrong Place,momotalk/16000.yml
+MomoTalk.16001.695,At Her Own Pace,momotalk/16001.yml
+MomoTalk.16001.696,Date Tracking,momotalk/16001.yml
+MomoTalk.16001.697,The Maid's Surprise,momotalk/16001.yml
+MomoTalk.16001.698,Asuna 404: Thought not Found,momotalk/16001.yml
+MomoTalk.16002.699,Listen Here!,momotalk/16002.yml
+MomoTalk.16002.700,You Came to the Right Place!,momotalk/16002.yml
+MomoTalk.16002.701,Sensei Is the Answer!,momotalk/16002.yml
+MomoTalk.16002.702,Fully Prepared,momotalk/16002.yml
+MomoTalk.16003.704,Trinity's Vigilante Crew,momotalk/16003.yml
+MomoTalk.16003.705,To Shine So Blindingly,momotalk/16003.yml
+MomoTalk.16003.706,Almighty Flash Grenade,momotalk/16003.yml
+MomoTalk.16003.707,Girl Chases Sparkles,momotalk/16003.yml
+MomoTalk.16003.708,Special Companions,momotalk/16003.yml
+MomoTalk.16004.709,Mob Student,momotalk/16004.yml
+MomoTalk.16004.710,What's on the Inside,momotalk/16004.yml
+MomoTalk.16004.711,Endless Night,momotalk/16004.yml
+MomoTalk.16004.712,At This Time...,momotalk/16004.yml
+MomoTalk.16005.713,Summer Siren,momotalk/16005.yml
+MomoTalk.16005.714,Summer Ocean Playtime,momotalk/16005.yml
+MomoTalk.16005.715,Summer Ocean Stairs,momotalk/16005.yml
+MomoTalk.16006.716,How a Girl Enjoys Summer,momotalk/16006.yml
+MomoTalk.16006.717,A Girl's Secret Ingredient,momotalk/16006.yml
+MomoTalk.16006.718,The Girl Fights with the Ocean,momotalk/16006.yml
+MomoTalk.16007.720,Misunderstandings and Lies,momotalk/16007.yml
+MomoTalk.16007.721,Work Begets Enjoyable Rest,momotalk/16007.yml
+MomoTalk.16007.722,A Speech in the Snow,momotalk/16007.yml
+MomoTalk.16007.723,Failure Must Be Eradicated,momotalk/16007.yml
+MomoTalk.16007.724,Fibs Are More like Mistakes Than Lies,momotalk/16007.yml
+MomoTalk.16008.725,A Lazy Cop's Invention,momotalk/16008.yml
+MomoTalk.16008.726,A Lazy Cop's Patrol,momotalk/16008.yml
+MomoTalk.16008.727,A Lazy Cop's Undercover Duties,momotalk/16008.yml
+MomoTalk.16008.728,A Lazy Cop's Kindness,momotalk/16008.yml
+MomoTalk.16009.729,Ninja Girls Are Picky,momotalk/16009.yml
+MomoTalk.16009.730,Ninja Girl Never Stops,momotalk/16009.yml
+MomoTalk.16009.731,Ninja Girl Never Hides Anything,momotalk/16009.yml
+MomoTalk.16009.732,Ninja Girl Wants to Shine!,momotalk/16009.yml
+MomoTalk.16010.733,A Meister's Hidden Habits,momotalk/16010.yml
+MomoTalk.16010.734,A Meister's Moving Cheer,momotalk/16010.yml
+MomoTalk.16010.735,High-Pressure Meister,momotalk/16010.yml
+MomoTalk.16010.736,Sweet Dreams (Are Made of Pom-Poms),momotalk/16010.yml
+MomoTalk.16011.737,Well-Developed,momotalk/16011.yml
+MomoTalk.16011.738,Honeyed Lemons,momotalk/16011.yml
+MomoTalk.16011.739,Self-Care,momotalk/16011.yml
+MomoTalk.16011.740,Proper Form,momotalk/16011.yml
+MomoTalk.16012.741,"New Year, New Clothes! New Me?",momotalk/16012.yml
+MomoTalk.16012.742,"More Food, More Fun! More Me?",momotalk/16012.yml
+MomoTalk.16012.743,Gimme Warmth,momotalk/16012.yml
+MomoTalk.20000.762,Call Me Meister,momotalk/20000.yml
+MomoTalk.20000.763,The Burning in My Heart,momotalk/20000.yml
+MomoTalk.20000.764,Strike Your Heart,momotalk/20000.yml
+MomoTalk.20000.765,Dreaming of a Day With You,momotalk/20000.yml
+MomoTalk.20000.766,Rain Makes Me Emotional,momotalk/20000.yml
+MomoTalk.20000.767,The Night Is Yours!,momotalk/20000.yml
+MomoTalk.20001.769,"When in Need, Call C&C!",momotalk/20001.yml
+MomoTalk.20001.770,Studying is Hard Part 1,momotalk/20001.yml
+MomoTalk.20001.771,Studying is Hard Part 2,momotalk/20001.yml
+MomoTalk.20001.772,My Relationship with Sensei?,momotalk/20001.yml
+MomoTalk.20001.773,Maid Cafe! Part 1,momotalk/20001.yml
+MomoTalk.20001.774,Maid Cafe! Part 2,momotalk/20001.yml
+MomoTalk.20002.775,Welcome to Saya's Research Lab!,momotalk/20002.yml
+MomoTalk.20002.776,Immortality Elixir,momotalk/20002.yml
+MomoTalk.20002.777,Diet Medicine,momotalk/20002.yml
+MomoTalk.20002.778,Cheese in the Trap,momotalk/20002.yml
+MomoTalk.20002.779,Love Potion,momotalk/20002.yml
+MomoTalk.20002.780,Nezusuke Is Missing!,momotalk/20002.yml
+MomoTalk.20003.781,Black Uniforms,momotalk/20003.yml
+MomoTalk.20003.782,What Is Justice?,momotalk/20003.yml
+MomoTalk.20003.783,The Sniper's Ordeal Part 1,momotalk/20003.yml
+MomoTalk.20003.784,The Sniper's Ordeal Part 2,momotalk/20003.yml
+MomoTalk.20003.785,A Duty to Justice,momotalk/20003.yml
+MomoTalk.20003.786,Friends in High Places,momotalk/20003.yml
+MomoTalk.20004.788,Cuteness is Justice!,momotalk/20004.yml
+MomoTalk.20004.789,Beach Sniper,momotalk/20004.yml
+MomoTalk.20004.790,Preventing Heatstroke,momotalk/20004.yml
+MomoTalk.20004.791,Enjoying High Places,momotalk/20004.yml
+MomoTalk.20005.792,Summer Debut!,momotalk/20005.yml
+MomoTalk.20005.793,Please Drive Safely,momotalk/20005.yml
+MomoTalk.20005.794,Return Where You Found It,momotalk/20005.yml
+MomoTalk.20005.795,Exclusive Summer Peroro Merch!,momotalk/20005.yml
+MomoTalk.20006.797,Skateboarding Tips,momotalk/20006.yml
+MomoTalk.20006.798,A Genius' Day Off,momotalk/20006.yml
+MomoTalk.20006.799,Saya's Favorite Spot,momotalk/20006.yml
+MomoTalk.20006.800,Laws of Trendiness,momotalk/20006.yml
+MomoTalk.20007.802,The Virtual Idol's Secret,momotalk/20007.yml
+MomoTalk.20007.803,The Virtual Idol's Troubles,momotalk/20007.yml
+MomoTalk.20007.804,The Virtual Idol's Resolve,momotalk/20007.yml
+MomoTalk.20007.805,The Virtual Idol's Stage,momotalk/20007.yml
+MomoTalk.20008.806,"Whatever, There's Conspiracy!",momotalk/20008.yml
+MomoTalk.20008.807,"Whatever, It's Urgent!",momotalk/20008.yml
+MomoTalk.20008.808,"Whatever, It's Sensei's Fault!",momotalk/20008.yml
+MomoTalk.20009.809,The President's Winter Vacation,momotalk/20009.yml
+MomoTalk.20009.810,Softer Than Pudding,momotalk/20009.yml
+MomoTalk.20009.811,Waterproof Mustache,momotalk/20009.yml
+MomoTalk.20009.812,Milk-Made Authority,momotalk/20009.yml
+MomoTalk.20009.813,Bath Assistant,momotalk/20009.yml
+MomoTalk.20010.814,Hot Springs Training: Kaiseki,momotalk/20010.yml
+MomoTalk.20010.815,Hot Springs Training: Bathtub Repairs,momotalk/20010.yml
+MomoTalk.20010.816,Hot Springs Training: Etiquette,momotalk/20010.yml
+MomoTalk.20010.817,Hot Springs Training: Rest and Relaxation,momotalk/20010.yml
+MomoTalk.20011.818,Part-Time Prep,momotalk/20011.yml
+MomoTalk.20011.819,The Miko Specialist,momotalk/20011.yml
+MomoTalk.20011.820,A Slightly Extended Break,momotalk/20011.yml
+MomoTalk.20012.821,Transporting the Wounded,momotalk/20012.yml
+MomoTalk.20012.822,An Urgent Situation,momotalk/20012.yml
+MomoTalk.20012.823,Himuro Sena,momotalk/20012.yml
+MomoTalk.20012.824,On Call,momotalk/20012.yml
+MomoTalk.20013.825,Daily Security Audit,momotalk/20013.yml
+MomoTalk.20013.826,Ultimate Hacking Techniques,momotalk/20013.yml
+MomoTalk.20013.827,Maintenance,momotalk/20013.yml
+MomoTalk.20013.828,Black and White,momotalk/20013.yml
+MomoTalk.20014.829,The Sun and Northerly Wind,momotalk/20014.yml
+MomoTalk.20014.830,Lost Rabbit,momotalk/20014.yml
+MomoTalk.20014.831,Frugality,momotalk/20014.yml
+MomoTalk.20014.832,Fully Prepared,momotalk/20014.yml
+MomoTalk.20015.834,The Inner Discipline Club Mascot!,momotalk/20015.yml
+MomoTalk.20015.835,I Wanna Be a Proper Lady!,momotalk/20015.yml
+MomoTalk.20015.836,When I Grow Up,momotalk/20015.yml
+MomoTalk.20015.837,From Girl to Lady,momotalk/20015.yml
+MomoTalk.20016.839,Ambushing Fraulein,momotalk/20016.yml
+MomoTalk.20016.840,Enticing Fraulein,momotalk/20016.yml
+MomoTalk.20016.841,Clever Fraulein,momotalk/20016.yml
+MomoTalk.20016.842,Smiling Fraulein,momotalk/20016.yml
+MomoTalk.20017.843,The Girl Still Wants to Read,momotalk/20017.yml
+MomoTalk.20017.844,The Girl Still Doesn't Give Up,momotalk/20017.yml
+MomoTalk.20017.845,The Girl Still Wants to Know,momotalk/20017.yml
+MomoTalk.20018.846,Collateral Damage,momotalk/20018.yml
+MomoTalk.20018.847,Missing in Action,momotalk/20018.yml
+MomoTalk.20018.848,Unexploded Ordinance,momotalk/20018.yml
+MomoTalk.20018.849,Phase Line,momotalk/20018.yml
+MomoTalk.20019.850,Case 1. Sensei Does not Dream of Bunny Akane,momotalk/20019.yml
+MomoTalk.20019.851,Case 2. Best to Rest,momotalk/20019.yml
+MomoTalk.20019.852,Case 3. Bunny Study,momotalk/20019.yml
+MomoTalk.20019.853,Case 4. Secretary Service Straight to You,momotalk/20019.yml
+MomoTalk.20020.854,The Tastes of a Genius Hacker,momotalk/20020.yml
+MomoTalk.20020.855,The Test of a Genius Hacker,momotalk/20020.yml
+MomoTalk.20020.856,The Argument of a Genius Hacker,momotalk/20020.yml
+MomoTalk.20020.857,The Delicate Semicolon of a Genius Hacker,momotalk/20020.yml
+MomoTalk.20021.858,Naughty or Nice?,momotalk/20021.yml
+MomoTalk.20021.859,Special Training! The Target? Santa!,momotalk/20021.yml
+MomoTalk.20021.860,Waiting for Santa,momotalk/20021.yml
+MomoTalk.20022.862,What's Your Wish?,momotalk/20022.yml
+MomoTalk.20022.863,Even If It's a Little Off,momotalk/20022.yml
+MomoTalk.20022.864,Keep It Slow Like So,momotalk/20022.yml
+MomoTalk.20023.865,The Director's Rumors,momotalk/20023.yml
+MomoTalk.20023.866,The Director's Duties,momotalk/20023.yml
+MomoTalk.20023.867,The Director's Rest,momotalk/20023.yml
+MomoTalk.20023.868,The Director's Dream,momotalk/20023.yml
+MomoTalk.20024.869,Afternoon Tea Time,momotalk/20024.yml
+MomoTalk.20024.870,Proper Speech,momotalk/20024.yml
+MomoTalk.20024.871,The Rich Flavor of Black Tea,momotalk/20024.yml
+MomoTalk.20024.872,Let Them Eat...,momotalk/20024.yml
+MomoTalk.20041.930,Design,momotalk/20041.yml
+MomoTalk.20042.934,Joys of Camping,momotalk/20042.yml
+MomoTalk.23000.952,Dessert Over Lunch,momotalk/23000.yml
+MomoTalk.23000.953,Sugar Fix,momotalk/23000.yml
+MomoTalk.23000.954,Airi's Concern,momotalk/23000.yml
+MomoTalk.23000.955,A Little Date,momotalk/23000.yml
+MomoTalk.23001.956,Want to Go Grocery Shopping?,momotalk/23001.yml
+MomoTalk.23001.957,Fuuka's Meal of the Day,momotalk/23001.yml
+MomoTalk.23001.958,Back to the Supermarket!,momotalk/23001.yml
+MomoTalk.23001.959,Sensei's Special of the Day,momotalk/23001.yml
+MomoTalk.23001.960,School Lunch Club President's Dedication,momotalk/23001.yml
+MomoTalk.23002.961,Painless Injection Process,momotalk/23002.yml
+MomoTalk.23002.962,Insomnia,momotalk/23002.yml
+MomoTalk.23002.963,Radio Workout,momotalk/23002.yml
+MomoTalk.23002.964,Trinity Surgical Procedures,momotalk/23002.yml
+MomoTalk.23002.965,Morning Glory Diary,momotalk/23002.yml
+MomoTalk.23003.966,A Hacker's Image,momotalk/23003.yml
+MomoTalk.23003.967,Energy Drink Addiction,momotalk/23003.yml
+MomoTalk.23003.968,Welcome to the Internet Cafe,momotalk/23003.yml
+MomoTalk.23003.969,Rise of the Machines,momotalk/23003.yml
+MomoTalk.23003.970,The Rise of the Machines Part 2,momotalk/23003.yml
+MomoTalk.23004.971,Craftmanship,momotalk/23004.yml
+MomoTalk.23004.972,An Indiscriminate Craftsman,momotalk/23004.yml
+MomoTalk.23004.973,The Perfect Animaloid,momotalk/23004.yml
+MomoTalk.23004.974,Don't Watch Me,momotalk/23004.yml
+MomoTalk.23004.975,The Meister's Medal,momotalk/23004.yml
+MomoTalk.23004.976,Even If Everything Is Replaced,momotalk/23004.yml
+MomoTalk.23005.977,Ayane's Hobby,momotalk/23005.yml
+MomoTalk.23005.978,"Run, Ayane, Run!",momotalk/23005.yml
+MomoTalk.23005.979,Fixing the School of Hard Knocks,momotalk/23005.yml
+MomoTalk.23006.980,The Idol of Momoyodou!,momotalk/23006.yml
+MomoTalk.23006.981,President of the Festival Operations Department!,momotalk/23006.yml
+MomoTalk.23006.982,The Pro of Momoyodou!,momotalk/23006.yml
+MomoTalk.23006.983,Recharge Day,momotalk/23006.yml
+MomoTalk.23007.985,An Unusual Girl,momotalk/23007.yml
+MomoTalk.23007.986,An Extraordinary Girl,momotalk/23007.yml
+MomoTalk.23007.987,A Girl's Gift,momotalk/23007.yml
+MomoTalk.23007.988,A Girl in the Rain,momotalk/23007.yml
+MomoTalk.23008.990,A Noble Sister,momotalk/23008.yml
+MomoTalk.23008.991,Thoughts and Prayers,momotalk/23008.yml
+MomoTalk.23008.992,The Body Keeps the Score,momotalk/23008.yml
+MomoTalk.23008.993,What You Want,momotalk/23008.yml
+MomoTalk.26000.995,What's Gotta Be Done,momotalk/26000.yml
+MomoTalk.26000.996,An Uneventful Day,momotalk/26000.yml
+MomoTalk.26000.997,Fatigue Recovery Counseling,momotalk/26000.yml
+MomoTalk.26000.998,Unexpected Situation,momotalk/26000.yml
+MomoTalk.26001.1000,Grown-Up Secrets,momotalk/26001.yml
+MomoTalk.26001.1001,The Voice of Mary,momotalk/26001.yml
+MomoTalk.26001.1002,Unspeakable Secrets,momotalk/26001.yml
+MomoTalk.26001.1003,So Pale it's See-Through,momotalk/26001.yml
+MomoTalk.26002.1004,The Most Important Spice,momotalk/26002.yml
+MomoTalk.26002.1005,A Girl's Recipe,momotalk/26002.yml
+MomoTalk.26002.1006,A Girl's Determination,momotalk/26002.yml
+MomoTalk.26002.1007,Something Even a Beginner Can Do,momotalk/26002.yml
+MomoTalk.26003.1008,Trinity's Angel,momotalk/26003.yml
+MomoTalk.26003.1009,Night Duty Angel,momotalk/26003.yml
+MomoTalk.26003.1010,"Serina, Anytime, Anywhere",momotalk/26003.yml
+MomoTalk.26003.1011,Gotcha!,momotalk/26003.yml
+MomoTalk.26004.1012,Bookworm,momotalk/26004.yml
+MomoTalk.26004.1013,I've Got a Secret,momotalk/26004.yml
+MomoTalk.26004.1014,The Mysterious Scavenger Hunt,momotalk/26004.yml
+MomoTalk.26004.1015,More Often Please,momotalk/26004.yml
+MomoTalk.26005.1016,Sensei's Treat,momotalk/26005.yml
+MomoTalk.26005.1017,Death by Macaron Challenge,momotalk/26005.yml
+MomoTalk.26005.1018,Cafe Studying,momotalk/26005.yml
+MomoTalk.26005.1019,You Are My Sunshine,momotalk/26005.yml
+MomoTalk.26006.1021,One Lucky Day,momotalk/26006.yml
+MomoTalk.26006.1022,Observational Diary,momotalk/26006.yml
+MomoTalk.26006.1023,A Place to Watch the Meteors,momotalk/26006.yml
+MomoTalk.26006.1024,When You Wish Upon a Meteor,momotalk/26006.yml
+MomoTalk.26006.1025,In Search of Clouds,momotalk/26006.yml
+MomoTalk.26007.1026,The Meaning of Enjoyment,momotalk/26007.yml
+MomoTalk.26007.1027,Ayane in a Blanket,momotalk/26007.yml
+MomoTalk.26007.1028,A Reason for Urgency,momotalk/26007.yml
+MomoTalk.26008.1029,Did You See? I Succeeded!,momotalk/26008.yml
+MomoTalk.26008.1030,But...What Was It For?,momotalk/26008.yml
+MomoTalk.26008.1031,I'm So Ambitious!,momotalk/26008.yml
+StoryTitle.14,Item Retrieval,translation_table.json:story_titles
+StoryTitle.16,Balancing Schale's Books,translation_table.json:story_titles
+StoryTitle.17,Shops,translation_table.json:story_titles
+StoryTitle.29,Missions,translation_table.json:story_titles
+StoryTitle.42,Joint Firing Drill,translation_table.json:story_titles
+StoryTitle.50,Grand Assault,translation_table.json:story_titles
+StoryTitle.53,Tactical Challenge,translation_table.json:story_titles
+StoryTitle.54,Base Defense,translation_table.json:story_titles
+StoryTitle.55,Bounty,translation_table.json:story_titles
+StoryTitle.57,New Year's Rhapsody No. 68,translation_table.json:story_titles
+StoryTitle.59,Commissions,translation_table.json:story_titles
+StoryTitle.60,Special Mission Decagrammaton,translation_table.json:story_titles
+StoryTitle.89,Total Assault,translation_table.json:story_titles
+StoryTitle.105,Crafting,translation_table.json:story_titles

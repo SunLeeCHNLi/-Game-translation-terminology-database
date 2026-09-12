@@ -1,0 +1,352 @@
+﻿id,term,src_table
+Enemy.7000001,แยงกี้สาว (SMG),enemies.json
+Enemy.7000011,แยงกี้สาว (MG),enemies.json
+Enemy.7000013,แยงกี้สาวอำมหิต,enemies.json
+Enemy.7000021,แยงกี้สาว (SR),enemies.json
+Enemy.7000023,แยงกี้สาวเย็นชา,enemies.json
+Enemy.7000101,สมาชิกแก๊งหมวกกันน็อก (SG),enemies.json
+Enemy.7000111,สมาชิกแก๊งหมวกกันน็อก (AR),enemies.json
+Enemy.7000121,สมาชิกแก๊งหมวกกันน็อก (SR),enemies.json
+Enemy.7000201,หัวหน้าแก๊งหมวกกันน็อก (SG),enemies.json
+Enemy.7000212,หัวหน้าแก๊งหมวกกันน็อก (AR),enemies.json
+Enemy.7000213,หัวหน้าแก๊งหมวกกันน็อกสุขุม,enemies.json
+Enemy.7000221,หัวหน้าแก๊งหมวกกันน็อก (SR),enemies.json
+Enemy.7000233,ราบุ,enemies.json
+Enemy.7000301,อัลบารับใช้ (SG),enemies.json
+Enemy.7000311,อัลบารับใช้ (AR),enemies.json
+Enemy.7000313,อัลบารับใช้สุขุม,enemies.json
+Enemy.7000321,อัลบารับใช้ (SR),enemies.json
+Enemy.7000401,หัวหน้าผู้รับใช้ (AR),enemies.json
+Enemy.7000411,หัวหน้าผู้รับใช้ (SMG),enemies.json
+Enemy.7000421,หัวหน้าผู้รับใช้ (MG),enemies.json
+Enemy.7000423,หัวหน้าผู้รับใช้อำมหิต,enemies.json
+Enemy.7000501,ผู้คุมตลาดมืด (SG),enemies.json
+Enemy.7000511,ผู้คุมตลาดมืด (AR),enemies.json
+Enemy.7000521,ผู้คุมตลาดมืด (SR),enemies.json
+Enemy.7000523,ผู้คุมตลาดมืดเย็นชา,enemies.json
+Enemy.7000531,ผู้คุมตลาดมืด (RL),enemies.json
+Enemy.7000601,ทหาร PMC (SG),enemies.json
+Enemy.7000611,ทหาร PMC (AR),enemies.json
+Enemy.7000613,ทหาร PMC สุขุม,enemies.json
+Enemy.7000621,ทหาร PMC (SR),enemies.json
+Enemy.7000623,ทหาร PMC เย็นชา,enemies.json
+Enemy.7000631,ทหาร PMC (HG),enemies.json
+Enemy.7000633,ทหาร PMC เจ้าเล่ห์,enemies.json
+Enemy.7000701,กรรมการวินัยเกเฮนน่า (SG),enemies.json
+Enemy.7000711,กรรมการวินัยเกเฮนน่า (AR),enemies.json
+Enemy.7000713,กรรมการวินัยเกเฮนน่าสุขุม,enemies.json
+Enemy.7000721,กรรมการวินัยเกเฮนน่า (SR),enemies.json
+Enemy.7000731,กรรมการวินัยเกเฮนน่า (MG),enemies.json
+Enemy.7000733,กรรมการวินัยเกเฮนน่าอำมหิต,enemies.json
+Enemy.7000801,นักเรียนอาเรียส (SMG),enemies.json
+Enemy.7000803,นักเรียนอาเรียสก้าวร้าว,enemies.json
+Enemy.7000811,นักเรียนอาเรียส (GL),enemies.json
+Enemy.7000813,นักเรียนอาเรียสนักคำนวณ,enemies.json
+Enemy.7000821,นักเรียนอาเรียส (MG),enemies.json
+Enemy.7000901,ปีศาจบนท้องถนน (SG),enemies.json
+Enemy.7000903,ปีศาจบนท้องถนนมุทะลุ,enemies.json
+Enemy.7000911,ปีศาจบนท้องถนน (MG),enemies.json
+Enemy.7000921,ปีศาจบนท้องถนน (RL),enemies.json
+Enemy.7000923,ปีศาจบนท้องถนนเจ้าเล่ห์,enemies.json
+Enemy.7000993,ปีศาจหน้ากากฮันยา,enemies.json
+Enemy.7001001,สมาชิกผู้รับใช้เรดวินเทอร์ (SG),enemies.json
+Enemy.7001011,สมาชิกผู้รับใช้เรดวินเทอร์ (AR),enemies.json
+Enemy.7001021,สมาชิกผู้รับใช้เรดวินเทอร์ (SR),enemies.json
+Enemy.7001101,กองกำลังป้องกันเรดวินเทอร์ (SMG),enemies.json
+Enemy.7001111,กองกำลังป้องกันเรดวินเทอร์ (GL),enemies.json
+Enemy.7001131,กองกำลังป้องกันเรดวินเทอร์ (AR),enemies.json
+Enemy.7001143,หัวหน้ากองกำลังป้องกัน เรดวินเทอร์,enemies.json
+Enemy.7001201,แยงกี้สาวริมหาด (SMG),enemies.json
+Enemy.7001211,แยงกี้สาวริมหาด (MG),enemies.json
+Enemy.7001231,แยงกี้สาวริมหาด (SR),enemies.json
+Enemy.7001243,หัวหน้าหน่วยจู่โจมแยงกี้สาว,enemies.json
+Enemy.7001301,พนักงานย่านการค้าเทพเต่าดำ (SG),enemies.json
+Enemy.7001311,พนักงานย่านการค้าเทพเต่าดำ (AR),enemies.json
+Enemy.7001321,พนักงานย่านการค้าเทพเต่าดำ (MG),enemies.json
+Enemy.7001333,ฟูดทรัคย่านการค้าเทพเต่าดำ,enemies.json
+Enemy.7001401,การ์ดบันนี่เกิร์ล (SG),enemies.json
+Enemy.7001411,การ์ดบันนี่เกิร์ล (AR),enemies.json
+Enemy.7001421,การ์ดบันนี่เกิร์ล (SR),enemies.json
+Enemy.7001442,การ์ดบันนี่เกิร์ลเย็นชา,enemies.json
+Enemy.7001453,โคยูกิ,enemies.json
+Enemy.7001501,สมาชิกชมรมพัฒนาออนเซ็น (SG),enemies.json
+Enemy.7001511,สมาชิกชมรมพัฒนาออนเซ็น (GL),enemies.json
+Enemy.7001513,สมาชิกชมรมพัฒนาออนเซ็นนักคำนวณ,enemies.json
+Enemy.7001521,สมาชิกชมรมพัฒนาออนเซ็น (RL),enemies.json
+Enemy.7001533,เมกุ,enemies.json
+Enemy.7001701,นักเรียนตำรวจวัลคิรี่ (SG),enemies.json
+Enemy.7001711,นักเรียนตำรวจวัลคิรี่ (AR),enemies.json
+Enemy.7001721,นักเรียนตำรวจวัลคิรี่ (SR),enemies.json
+Enemy.7001723,นักเรียนตำรวจวัลคิรี่เย็นชา,enemies.json
+Enemy.7001812,เครื่องเก็บวัสดุซ่อมแซม,enemies.json
+Enemy.7001903,慈愛の怪盗,enemies.json
+Enemy.7002001,玄龍門構成員（HG）,enemies.json
+Enemy.7002003,知的な玄龍門構成員（HG）,enemies.json
+Enemy.7002011,玄龍門構成員（AR）,enemies.json
+Enemy.7002021,玄龍門構成員（MG）,enemies.json
+Enemy.7002023,好戦的な玄龍門構成員（MG）,enemies.json
+Enemy.7010001,หุ่นจักรกลอุตสาหกรรม (โล่),enemies.json
+Enemy.7010011,หุ่นจักรกลอุตสาหกรรม (AR),enemies.json
+Enemy.7010021,หุ่นจักรกลอุตสาหกรรม (RL),enemies.json
+Enemy.7010023,หุ่นจักรกลอุตสาหกรรมจู่โจม,enemies.json
+Enemy.7010101,หุ่นจักรกลตลาดมืด (โล่),enemies.json
+Enemy.7010111,หุ่นจักรกลตลาดมืด (AR),enemies.json
+Enemy.7010113,หุ่นจักรกลตลาดมืดว่องไว,enemies.json
+Enemy.7010121,หุ่นจักรกลตลาดมืด (RL),enemies.json
+Enemy.7010123,หุ่นจักรกลตลาดมืดจู่โจม,enemies.json
+Enemy.7010201,หุ่นจักรกลทหาร (โล่),enemies.json
+Enemy.7010211,หุ่นจักรกลทหาร (AR),enemies.json
+Enemy.7010221,หุ่นจักรกลทหาร (RL),enemies.json
+Enemy.7010223,หุ่นจักรกลทหารจู่โจม,enemies.json
+Enemy.7010301,หุ่นจักรกลทดลอง (โล่),enemies.json
+Enemy.7010311,หุ่นจักรกลทดลอง (AR),enemies.json
+Enemy.7010313,หุ่นจักรกลทดลองว่องไว,enemies.json
+Enemy.7010321,หุ่นจักรกลทดลอง (RL),enemies.json
+Enemy.7010323,หุ่นจักรกลทดลองจู่โจม,enemies.json
+Enemy.7010401,โดรนอุตสาหกรรม (วัลแคน),enemies.json
+Enemy.7010411,โดรนอุตสาหกรรม (มิสไซล์),enemies.json
+Enemy.7010413,โดรนอุตสาหกรรมดัดแปลง,enemies.json
+Enemy.7010421,โดรนตลาดมืด (วัลแคน),enemies.json
+Enemy.7010431,โดรนตลาดมืด (มิสไซล์),enemies.json
+Enemy.7010441,โดรนทหาร (วัลแคน),enemies.json
+Enemy.7010451,โดรนทหาร (มิสไซล์),enemies.json
+Enemy.7010471,โดรนทดลอง (มิสไซล์),enemies.json
+Enemy.7010501,รถถังอุตสาหกรรม (ปืนใหญ่),enemies.json
+Enemy.7010511,รถถังอุตสาหกรรม (เรลกัน),enemies.json
+Enemy.7010521,รถถังตลาดมืด (ปืนใหญ่),enemies.json
+Enemy.7010523,รถถังตลาดมืดเสริมแกร่ง,enemies.json
+Enemy.7010531,รถถังตลาดมืด (เรลกัน),enemies.json
+Enemy.7010542,รถถังทหาร (ปืนใหญ่),enemies.json
+Enemy.7010543,รถถังทหารเสริมแกร่ง,enemies.json
+Enemy.7010551,รถถังทหาร (เรลกัน),enemies.json
+Enemy.7010561,รถถังทดลอง (ปืนใหญ่),enemies.json
+Enemy.7010563,รถถังทดลองเสริมแกร่ง,enemies.json
+Enemy.7010572,รถถังทดลอง (เรลกัน),enemies.json
+Enemy.7010573,รถถังทดลองดัดแปลง,enemies.json
+Enemy.7010603,หุ่นยักษ์โกลิอัท,enemies.json
+Enemy.7010613,ครูเซเดอร์,enemies.json
+Enemy.7010703,อาปาเช่ตลาดมืด,enemies.json
+Enemy.7010803,PMC พาวเวอร์โลดเดอร์,enemies.json
+Enemy.7010901,คุมะบอท (SG),enemies.json
+Enemy.7010911,อุซากิบอท (AR),enemies.json
+Enemy.7010913,อุซากิบอทว่องไว,enemies.json
+Enemy.7011001,หุ่นจักรกลแก๊งหมวกกันน็อก (SMG),enemies.json
+Enemy.7011011,หุ่นจักรกลแก๊งหมวกกันน็อก (AR),enemies.json
+Enemy.7011021,หุ่นจักรกลแก๊งหมวกกันน็อก (RL),enemies.json
+Enemy.7011033,หัวหน้าหน่วยจู่โจม แก๊งหมวกกันน็อก,enemies.json
+Enemy.7011101,รถถังเบาแก๊งหมวกกันน็อก,enemies.json
+Enemy.7011103,รถถังเบาแก๊งหมวกกันน็อก เสริมแกร่ง,enemies.json
+Enemy.7011201,รถถังหนักแก๊งหมวกกันน็อก,enemies.json
+Enemy.7011203,รถถังหนักแก๊งหมวกกันน็อก ดัดแปลง,enemies.json
+Enemy.7011301,แก๊งคุโระกาเมะ การ์ด ทาวเวอร์ (GL),enemies.json
+Enemy.7011303,แก๊งคุโระกาเมะ การ์ด ทาวเวอร์เสริมแกร่ง,enemies.json
+Enemy.7011411,หุ่นจักรกลแก๊งคุโระกาเมะ (AR),enemies.json
+Enemy.7011421,หุ่นจักรกลแก๊งคุโระกาเมะ (RL),enemies.json
+Enemy.7011501,หุ่นจักรกลฮิปปี้ (HG),enemies.json
+Enemy.7011503,หุ่นจักรกลฮิปปี้เจ้าเล่ห์,enemies.json
+Enemy.7011511,หุ่นจักรกลฮิปปี้ (AR),enemies.json
+Enemy.7011521,หุ่นจักรกลฮิปปี้ (SR),enemies.json
+Enemy.7011523,หุ่นจักรกลฮิปปี้เย็นชา,enemies.json
+Enemy.7011603,KAITEN FX Mk.1,enemies.json
+Enemy.7011803,แบคโฮอุตสาหกรรมเสริมแกร่ง,enemies.json
+Enemy.7011903,แทร็กครัชเชอร์,enemies.json
+Enemy.7012001,AMAS (SMG),enemies.json
+Enemy.7012011,AMAS (AR),enemies.json
+Enemy.7012021,AMAS (Vulcan),enemies.json
+Enemy.7012033,หุ่นรบล้ำยุค,enemies.json
+Enemy.7020001,สาวกยูสตาร์ (SMG),enemies.json
+Enemy.7020011,สาวกยูสตาร์ (AR),enemies.json
+Enemy.7020013,สาวกยูสตาร์สุขุม,enemies.json
+Enemy.7020021,สาวกยูสตาร์ (SR),enemies.json
+Enemy.7020023,สาวกยูสตาร์เย็นชา,enemies.json
+Enemy.7020033,บาร์บารา,enemies.json
+Enemy.7020101,ม็อบนักเรียนอาเรียส (SMG),enemies.json
+Enemy.7020111,ม็อบนักเรียนอาเรียส (GL),enemies.json
+Enemy.7020121,ม็อบนักเรียนอาเรียส (MG),enemies.json
+Enemy.7020123,ม็อบนักเรียนอาเรียสอำมหิต,enemies.json
+Enemy.7020201,ม็อบหุ่นจักรกล (โล่),enemies.json
+Enemy.7020211,ม็อบหุ่นจักรกล (AR),enemies.json
+Enemy.7020221,ม็อบหุ่นจักรกล (RL),enemies.json
+Enemy.7020223,ม็อบหุ่นจักรกลจู่โจม,enemies.json
+Enemy.7020303,ม็อบพาวเวอร์โลดเดอร์,enemies.json
+Enemy.7020313,อัมโบรส,enemies.json
+Enemy.7020501,ม็อบหุ่นยนต์หมี,enemies.json
+Enemy.7020503,ม็อบหุ่นยนต์หมีทนทาน,enemies.json
+Enemy.7020511,ม็อบหุ่นยนต์กระต่าย,enemies.json
+Enemy.7020513,ม็อบหุ่นยนต์กระต่ายว่องไว,enemies.json
+Enemy.7030001,水着信徒（FT）,enemies.json
+Enemy.7030011,水着信徒（AR）,enemies.json
+Enemy.7030021,水着信徒（SR）,enemies.json
+Enemy.7030033,フラヴィア,enemies.json
+Enemy.7050002,อารุ,enemies.json
+Enemy.7050022,ฮารุนะ,enemies.json
+Enemy.7050032,ฮิฟุมิ,enemies.json
+Enemy.7050042,ฮินะ,enemies.json
+Enemy.7050052,โฮชิโนะ,enemies.json
+Enemy.7050062,อิโอริ,enemies.json
+Enemy.7050102,ชิโรโกะ,enemies.json
+Enemy.7050143,อาคาเนะ,enemies.json
+Enemy.7050152,ชิเซะ,enemies.json
+Enemy.7050162,ฮารุกะ,enemies.json
+Enemy.7050172,ฮาสุมิ,enemies.json
+Enemy.7050182,อิซุมิ,enemies.json
+Enemy.7050192,คาโยโกะ,enemies.json
+Enemy.7050202,มุสึกิ,enemies.json
+Enemy.7050212,พีน่า,enemies.json
+Enemy.7050222,เซริกะ,enemies.json
+Enemy.7050232,สึบากิ,enemies.json
+Enemy.7050242,ยูกะ,enemies.json
+Enemy.7050252,จุนโกะ,enemies.json
+Enemy.7050262,อาคาริ,enemies.json
+Enemy.7050272,อาสึนะ,enemies.json
+Enemy.7050282,โคโทริ,enemies.json
+Enemy.7050292,สึซึมิ,enemies.json
+Enemy.7050322,เนรุ,enemies.json
+Enemy.7050333,สึมิเระ,enemies.json
+Enemy.7050342,โยชิมิ,enemies.json
+Enemy.7050352,คาริน,enemies.json
+Enemy.7050532,คิริโนะ,enemies.json
+Enemy.7050562,มิโมริ,enemies.json
+Enemy.7050572,ชิซุโกะ,enemies.json
+Enemy.7050582,คาเอเดะ,enemies.json
+Enemy.7050592,จูริ,enemies.json
+Enemy.7050602,ไอริ,enemies.json
+Enemy.7050612,อิซุนะ,enemies.json
+Enemy.7050622,เซรินะ,enemies.json
+Enemy.7050632,ฮาเระ,enemies.json
+Enemy.7050642,ฮิบิกิ,enemies.json
+Enemy.7050672,ฮิฟุมิ (ชุดว่ายน้ำ),enemies.json
+Enemy.7050682,อาริสึ,enemies.json
+Enemy.7050693,รูมิ,enemies.json
+Enemy.7050703,มินะ,enemies.json
+Enemy.7053002,อายาเนะ,enemies.json
+Enemy.7056002,ชิมิโกะ,enemies.json
+Enemy.7090001,ผู้พิทักษ์นิรนาม Type.F,enemies.json
+Enemy.7090011,ผู้พิทักษ์นิรนาม Type.M,enemies.json
+Enemy.7090021,ผู้พิทักษ์นิรนาม Type.B,enemies.json
+Enemy.7090023,ผู้พิทักษ์นิรนามทนทาน Type.B,enemies.json
+Enemy.7090033,ระบบป้องกันเครื่องทะลุมิติ,enemies.json
+Enemy.7090043,ชิโรโกะ (เทอเรอร์),enemies.json
+Enemy.7090061,หุ่นจักรกลสีสัน (โล่),enemies.json
+Enemy.7090071,หุ่นจักรกลสีสัน (AR),enemies.json
+Enemy.7090081,หุ่นจักรกลสีสัน (RL),enemies.json
+Enemy.7090103,เคเทอร์สีสัน Type.V,enemies.json
+Enemy.7100002,ไคเทนเจอร์เรด,enemies.json
+Enemy.7100012,ไคเทนเจอร์แบล็ก,enemies.json
+Enemy.7100022,ไคเทนเจอร์กรีน,enemies.json
+Enemy.7100032,ไคเทนเจอร์เยลโลว์,enemies.json
+Enemy.7100042,ไคเทนเจอร์พิงค์,enemies.json
+Enemy.7110753,เนโร,enemies.json
+Enemy.7110801,หุ่นดูดฝุ่น,enemies.json
+Enemy.7110812,หุ่นดูดฝุ่นดัดแปลง,enemies.json
+Enemy.7110822,หุ่นดูดฝุ่นเสริมแกร่ง,enemies.json
+Enemy.7120003,เนโรกลางคืน,enemies.json
+Enemy.7300100,บีนาห์,enemies.json
+Enemy.7301100,เชเซ็ด,enemies.json
+Enemy.7301105,โดรนทดลอง (วัลแคน),enemies.json
+Enemy.7301107,การ์ด ทาวเวอร์,enemies.json
+Enemy.7302100,ชิโระ,enemies.json
+Enemy.7302101,คุโระ,enemies.json
+Enemy.7303100,ไฮโรนีมัส,enemies.json
+Enemy.7303900,เรลิกเขียว,enemies.json
+Enemy.7303910,เรลิกแดง,enemies.json
+Enemy.7303925,เรลิกม่วง,enemies.json
+Enemy.7304100,KAITEN FX Mk.0,enemies.json
+Enemy.7305100,เพโรโร่ซิลล่า,enemies.json
+Enemy.7305101,ลูกสมุนบิ๊กเพโรโร่,enemies.json
+Enemy.7305190,ลูกสมุนเพโรโร่,enemies.json
+Enemy.7306100,HOD,enemies.json
+Enemy.7306101,เสากัดกร่อน,enemies.json
+Enemy.7308100,GOZ,enemies.json
+Enemy.7308101,Goz (ร่างแยก),enemies.json
+Enemy.7309100,เกรโกริโอ,enemies.json
+Enemy.7309110,ผู้ประสานเสียง,enemies.json
+Enemy.7309120,ไปป์ออร์แกน,enemies.json
+Enemy.7310100,วาคาโมะ (เรือโฮเวอร์คราฟต์),enemies.json
+Enemy.7310110,มิสไซล์หลอดแก้ว,enemies.json
+Enemy.7310120,ชาร์ค มิสไซล์,enemies.json
+Enemy.7310140,มิสไซล์ดำ,enemies.json
+Enemy.7310150,มิสไซล์แฮนด์เมดของแก๊งหมวกกันน็อค,enemies.json
+Enemy.7310160,รีสอร์ต,enemies.json
+Enemy.7311000,วาคาโมะ (ชุดว่ายน้ำ),enemies.json
+Enemy.7611013,อาซึสะ,enemies.json
+Enemy.7611032,โคฮารุ,enemies.json
+Enemy.7611042,ฮานาโกะ,enemies.json
+Enemy.7612052,ฮานาเอะ,enemies.json
+Enemy.7613013,ซึรุกิ,enemies.json
+Enemy.7613062,มาชิโระ,enemies.json
+Enemy.7614092,มารี,enemies.json
+Enemy.7622052,ฟูกะ,enemies.json
+Enemy.7623072,ชินัตสึ,enemies.json
+Enemy.7624092,อาโกะ,enemies.json
+Enemy.7624102,เซนะ,enemies.json
+Enemy.7631013,โมโมอิ,enemies.json
+Enemy.7631032,มิโดริ,enemies.json
+Enemy.7631042,อุทาฮะ,enemies.json
+Enemy.7633013,ยูสึ,enemies.json
+Enemy.7634102,จิฮิโระ,enemies.json
+Enemy.7710363,เคเทอร์ Type.V,enemies.json
+Enemy.7710373,เคเทอร์ Type.C,enemies.json
+Enemy.7710383,เคเทอร์ Type.E,enemies.json
+Enemy.7710534,เครื่องสร้างสนามพลาสม่า,enemies.json
+Enemy.7800001,หุ่นดูดฝุ่นน้ำหนักเบา,enemies.json
+Enemy.7800101,หุ่นดูดฝุ่นดัดแปลงน้ำหนักเบา,enemies.json
+Enemy.7800201,หุ่นดูดฝุ่นเสริมแกร่งน้ำหนักเบา,enemies.json
+Enemy.7802001,หุ่นดูดฝุ่นลึกลับ,enemies.json
+Enemy.7802101,หุ่นดูดฝุ่นดัดแปลงน้ำหนักเบา,enemies.json
+Enemy.7802201,หุ่นดูดฝุ่นเสริมแกร่งลึกลับ,enemies.json
+Enemy.7810001,เนโรกลางวัน,enemies.json
+Enemy.7823099,หุ่นไล่กา (เวฟ 1),enemies.json
+Enemy.7823199,หุ่นไล่กา (เวฟ 2),enemies.json
+Enemy.7823299,หุ่นไล่กา (เวฟ 3),enemies.json
+Enemy.7921503,ยูกิโนะ,enemies.json
+Enemy.7921602,คุรุมิ,enemies.json
+Enemy.7921702,นิโกะ,enemies.json
+Enemy.7921802,โอโทกิ,enemies.json
+Enemy.7960000,บีนาห์ (สีสัน),enemies.json
+Enemy.7961000,ชิโระ (สีสัน),enemies.json
+Enemy.7961010,คุโระ (สีสัน),enemies.json
+Enemy.7962000,ไฮโรนีมัส (สีสัน),enemies.json
+Enemy.7962501,เรลิกม่วง,enemies.json
+Enemy.7963000,เชเซ็ด (สีสัน),enemies.json
+Enemy.7963001,หุ่นจักรกลทดลอง AR (สีสัน),enemies.json
+Enemy.7963003,โดรนทดลองมิสไซล์ (สีสัน),enemies.json
+Enemy.7963005,โดรนทดลองวัลแคน (สีสัน),enemies.json
+Enemy.7963007,การ์ด ทาวเวอร์ (สีสัน),enemies.json
+Enemy.7963009,หุ่นยักษ์โกลิอัท (สีสัน),enemies.json
+Enemy.7963103,หุ่นจักรกลทดลอง AR (สีสัน),enemies.json
+Enemy.7963511,หุ่นดูดฝุ่น (สีสัน),enemies.json
+Enemy.7964001,HOD (สีสัน),enemies.json
+Enemy.7964002,เสากัดกร่อน (สีสัน),enemies.json
+Enemy.7965001,เพโรโร่ซิลล่า (สีสัน),enemies.json
+Enemy.7965002,ลูกสมุนบิ๊กเพโรโร่,enemies.json
+Enemy.7965026,ลูกสมุนเพโรโร่,enemies.json
+Enemy.8020018,เชริโน่,enemies.json
+Enemy.8020019,โทโมเอะ,enemies.json
+Enemy.8030008,สาวกยูสตาร์ก้าวร้าว,enemies.json
+Enemy.8050010,พนักงานย่านการค้าเทพเต่าดำอำมหิต,enemies.json
+Enemy.8050040,พนักงานย่านการค้าเทพเต่าดำมุทะลุ,enemies.json
+Enemy.8080012,สมาชิกชมรมพัฒนาออนเซ็นเจ้าเล่ห์,enemies.json
+Enemy.8100020,รถหุ้มเกราะวาคาโมะที่ถูกชิง,enemies.json
+Enemy.8110010,วาคาโมะ,enemies.json
+Enemy.8150043,โนโนมิ,enemies.json
+Enemy.8180054,เชสเชียร์แคท,enemies.json
+Enemy.8190051,มารินะ,enemies.json
+Enemy.8190053,ชิกุเระ,enemies.json
+Enemy.8190054,โนโดกะ,enemies.json
+Enemy.8190056,อิโรฮะ,enemies.json
+Enemy.8200014,พาหนะลำเลียงวัตถุดิบชั้นสูง,enemies.json
+Enemy.8220014,ผู้พิทักษ์นิรนามจู่โจม Type.M,enemies.json
+Enemy.8250303,ยูสึ (เมด),enemies.json
+Enemy.8250304,อาริสึ (เมด),enemies.json
+Enemy.8250305,โทคิ (บันนี่เกิร์ล),enemies.json
+Enemy.8260303,ชุน,enemies.json
+Enemy.8260305,โคโคน่า,enemies.json
+Enemy.8260306,ซายะ,enemies.json
+Enemy.8270301,มิยาโกะ (ชุดว่ายน้ำ),enemies.json
+Enemy.8270302,ซากิ (ชุดว่ายน้ำ),enemies.json
+Enemy.8270303,มิยุ (ชุดว่ายน้ำ),enemies.json
+Enemy.8270304,โมเอะ,enemies.json
+Enemy.8280201,อุย (ชุดว่ายน้ำ),enemies.json
+Enemy.8280202,โคฮารุ (ชุดว่ายน้ำ),enemies.json
+Enemy.8280203,ฮินาตะ (ชุดว่ายน้ำ),enemies.json

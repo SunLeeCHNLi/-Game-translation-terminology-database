@@ -1,0 +1,352 @@
+﻿id,term,src_table
+Enemy.7000001,Thug (SMG),enemies.json
+Enemy.7000011,Thug (MG),enemies.json
+Enemy.7000013,Ruthless Thug,enemies.json
+Enemy.7000021,Thug (SR),enemies.json
+Enemy.7000023,Heartless Thug,enemies.json
+Enemy.7000101,Helmet Gangster (SG),enemies.json
+Enemy.7000111,Helmet Gangster (AR),enemies.json
+Enemy.7000121,Helmet Gangster (SR),enemies.json
+Enemy.7000201,Helmet Gang Officer (SG),enemies.json
+Enemy.7000212,Helmet Gang Officer (AR),enemies.json
+Enemy.7000213,Cautious Helmet Gang Officer,enemies.json
+Enemy.7000221,Helmet Gang Officer (SR),enemies.json
+Enemy.7000233,Rabu,enemies.json
+Enemy.7000301,Part-Timer (SG),enemies.json
+Enemy.7000311,Part-Timer (AR),enemies.json
+Enemy.7000313,Cautious Part-Timer,enemies.json
+Enemy.7000321,Part-Timer (SR),enemies.json
+Enemy.7000401,Labor Captain (AR),enemies.json
+Enemy.7000411,Labor Captain (SMG),enemies.json
+Enemy.7000421,Labor Captain (MG),enemies.json
+Enemy.7000423,Ruthless Labor Captain,enemies.json
+Enemy.7000501,Black Market Guard (SG),enemies.json
+Enemy.7000511,Black Market Guard (AR),enemies.json
+Enemy.7000521,Black Market Guard (SR),enemies.json
+Enemy.7000523,Heartless Black Market Guard,enemies.json
+Enemy.7000531,Black Market Guard (RL),enemies.json
+Enemy.7000601,PMC Soldier (SG),enemies.json
+Enemy.7000611,PMC Soldier (AR),enemies.json
+Enemy.7000613,Cautious PMC Soldier,enemies.json
+Enemy.7000621,PMC Soldier (SR),enemies.json
+Enemy.7000623,Heartless PMC Soldier,enemies.json
+Enemy.7000631,PMC Soldier (HG),enemies.json
+Enemy.7000633,Intelligent PMC Soldier,enemies.json
+Enemy.7000701,Gehenna Prefect Team Member (SG),enemies.json
+Enemy.7000711,Gehenna Prefect Team Member (AR),enemies.json
+Enemy.7000713,Cautious Gehenna Prefect Team Member,enemies.json
+Enemy.7000721,Gehenna Prefect Team Member (SR),enemies.json
+Enemy.7000731,Gehenna Prefect Team Member (MG),enemies.json
+Enemy.7000733,Ruthless Gehenna Prefect Team Member,enemies.json
+Enemy.7000801,Arius Student (SMG),enemies.json
+Enemy.7000803,Belligerent Arius Student,enemies.json
+Enemy.7000811,Arius Student (GL),enemies.json
+Enemy.7000813,Calculating Arius Student,enemies.json
+Enemy.7000821,Arius Student (MG),enemies.json
+Enemy.7000901,Street Mouryo (SG),enemies.json
+Enemy.7000903,Brazen Street Mouryo,enemies.json
+Enemy.7000911,Street Mouryo (MG),enemies.json
+Enemy.7000921,Street Mouryo (RL),enemies.json
+Enemy.7000923,Conniving Street Mouryo,enemies.json
+Enemy.7000993,Hannya Mask Mouryo,enemies.json
+Enemy.7001001,Red Winter Labor Party Member (SG),enemies.json
+Enemy.7001011,Red Winter Labor Party Member (AR),enemies.json
+Enemy.7001021,Red Winter Labor Party Member (SR),enemies.json
+Enemy.7001101,Red Winter State Guard (SMG),enemies.json
+Enemy.7001111,Red Winter State Guard (GL),enemies.json
+Enemy.7001131,Red Winter State Guard (AR),enemies.json
+Enemy.7001143,Red Winter State Guard Squad Leader,enemies.json
+Enemy.7001201,Beach Thug (SMG),enemies.json
+Enemy.7001211,Beach Thug (MG),enemies.json
+Enemy.7001231,Beach Thug (SR),enemies.json
+Enemy.7001243,Thug Commando,enemies.json
+Enemy.7001301,Black Tortoise Promenade Member (SG),enemies.json
+Enemy.7001311,Black Tortoise Promenade Member (AR),enemies.json
+Enemy.7001321,Black Tortoise Promenade Member (MG),enemies.json
+Enemy.7001333,Black Tortoise Special Food Truck,enemies.json
+Enemy.7001401,Bunny Girl Guard (SG),enemies.json
+Enemy.7001411,Bunny Girl Guard (AR),enemies.json
+Enemy.7001421,Bunny Girl Guard (SR),enemies.json
+Enemy.7001442,Heartless Bunny Girl Guard,enemies.json
+Enemy.7001453,Koyuki,enemies.json
+Enemy.7001501,Hot Springs Member (SG),enemies.json
+Enemy.7001511,Hot Springs Member (GL),enemies.json
+Enemy.7001513,Calculating Hot Springs Member,enemies.json
+Enemy.7001521,Hot Springs Member (RL),enemies.json
+Enemy.7001533,Megu,enemies.json
+Enemy.7001701,Valkyrie Police Student,enemies.json
+Enemy.7001711,Valkyrie Police Student (AR),enemies.json
+Enemy.7001721,Valkyrie Police Student (SR),enemies.json
+Enemy.7001723,Heartless Valkyrie Police Student,enemies.json
+Enemy.7001812,Restorative Material Storage Device,enemies.json
+Enemy.7001903,Benevolent Phantom Thief,enemies.json
+Enemy.7002001,Genryumon Member (HG),enemies.json
+Enemy.7002003,Intelligent Genryumon Member (HG),enemies.json
+Enemy.7002011,Genryumon Member (AR),enemies.json
+Enemy.7002021,Genryumon Member (MG),enemies.json
+Enemy.7002023,Belligerent Genryumon Member (MG),enemies.json
+Enemy.7010001,Mass-Produced Automaton (Shield),enemies.json
+Enemy.7010011,Mass-Produced Automaton (AR),enemies.json
+Enemy.7010021,Mass-Produced Automaton (RL),enemies.json
+Enemy.7010023,Aggressive Mass-Produced Automaton,enemies.json
+Enemy.7010101,Black Market Automaton (Shield),enemies.json
+Enemy.7010111,Black Market Automaton (AR),enemies.json
+Enemy.7010113,Swift Black Market Automaton,enemies.json
+Enemy.7010121,Black Market Automaton (RL),enemies.json
+Enemy.7010123,Aggressive Black Market Automaton,enemies.json
+Enemy.7010201,Military Automaton (Shield),enemies.json
+Enemy.7010211,Military Automaton (AR),enemies.json
+Enemy.7010221,Military Automaton (RL),enemies.json
+Enemy.7010223,Aggressive Military Automaton,enemies.json
+Enemy.7010301,Tester Automaton (Shield),enemies.json
+Enemy.7010311,Tester Automaton (AR),enemies.json
+Enemy.7010313,Swift Tester Automaton,enemies.json
+Enemy.7010321,Tester Automaton (RL),enemies.json
+Enemy.7010323,Aggressive Tester Automaton,enemies.json
+Enemy.7010401,Mass-Produced Drone (Vulcan),enemies.json
+Enemy.7010411,Mass-Produced Drone (Missile),enemies.json
+Enemy.7010413,Modded Mass-Produced Drone,enemies.json
+Enemy.7010421,Black Market Drone (Vulcan),enemies.json
+Enemy.7010431,Black Market Drone (Missile),enemies.json
+Enemy.7010441,Military Drone (Vulcan),enemies.json
+Enemy.7010451,Military Drone (Missile),enemies.json
+Enemy.7010471,Tester Drone (Missile),enemies.json
+Enemy.7010501,Mass Production Tank (Cannon),enemies.json
+Enemy.7010511,Mass Production Tank (Railgun),enemies.json
+Enemy.7010521,Black Market Tank (Cannon),enemies.json
+Enemy.7010523,Enhanced Black Market Tank,enemies.json
+Enemy.7010531,Black Market Tank (Railgun),enemies.json
+Enemy.7010542,Military Tank (Cannon),enemies.json
+Enemy.7010543,Enhanced Military Tank,enemies.json
+Enemy.7010551,Military Tank (Railgun),enemies.json
+Enemy.7010561,Tester Tank (Cannon),enemies.json
+Enemy.7010563,Enhanced Tester Tank,enemies.json
+Enemy.7010572,Tester Tank (Railgun),enemies.json
+Enemy.7010573,Modded Tester Tank,enemies.json
+Enemy.7010603,Goliath,enemies.json
+Enemy.7010613,Crusader,enemies.json
+Enemy.7010703,Black Market Apache,enemies.json
+Enemy.7010803,PMC Power Loader,enemies.json
+Enemy.7010901,Kumabot (SG),enemies.json
+Enemy.7010911,Usagibot (AR),enemies.json
+Enemy.7010913,Swift Usagibot,enemies.json
+Enemy.7011001,Helmet Gangster Automaton (SMG),enemies.json
+Enemy.7011011,Helmet Gangster Automaton (AR),enemies.json
+Enemy.7011021,Helmet Gangster Automaton (RL),enemies.json
+Enemy.7011033,Helmet Gangster Commando,enemies.json
+Enemy.7011101,Helmet Gangster Light Tank,enemies.json
+Enemy.7011103,Enhanced Helmet Gangster Light Tank,enemies.json
+Enemy.7011201,Helmet Gangster Heavy Tank,enemies.json
+Enemy.7011203,Modded Helmet Gangster Heavy Tank,enemies.json
+Enemy.7011301,Kurokame Gang Guard Tower (GL),enemies.json
+Enemy.7011303,Enhanced Kurokame Gang Guard Tower,enemies.json
+Enemy.7011411,Kurokame Gang Automaton (AR),enemies.json
+Enemy.7011421,Kurokame Gang Automaton (RL),enemies.json
+Enemy.7011501,Hippie Automaton (HG),enemies.json
+Enemy.7011503,Intelligent Hippie Automaton,enemies.json
+Enemy.7011511,Hippie Automaton (AR),enemies.json
+Enemy.7011521,Hippie Automaton (SR),enemies.json
+Enemy.7011523,Heartless Hippie Automaton,enemies.json
+Enemy.7011603,KAITEN FX Mk.1,enemies.json
+Enemy.7011803,Enhanced Mass-Produced Excavator,enemies.json
+Enemy.7011903,Track Crasher,enemies.json
+Enemy.7012001,AMAS (SMG),enemies.json
+Enemy.7012011,AMAS (AR),enemies.json
+Enemy.7012021,AMAS (Vulcan),enemies.json
+Enemy.7012033,Avant Garde,enemies.json
+Enemy.7020001,Justina Follower (SMG),enemies.json
+Enemy.7020011,Justina Follower (AR),enemies.json
+Enemy.7020013,Cautious Justina Follower,enemies.json
+Enemy.7020021,Justina Follower (SR),enemies.json
+Enemy.7020023,Heartless Justina Follower,enemies.json
+Enemy.7020033,Barbara,enemies.json
+Enemy.7020101,Menacing Arius Student (SMG),enemies.json
+Enemy.7020111,Menacing Arius Student (GL),enemies.json
+Enemy.7020121,Menacing Arius Student (MG),enemies.json
+Enemy.7020123,Ruthless Menacing Arius Student,enemies.json
+Enemy.7020201,Menacing Automaton (Shield),enemies.json
+Enemy.7020211,Menacing Automaton (AR),enemies.json
+Enemy.7020221,Menacing Automaton (RL),enemies.json
+Enemy.7020223,Aggressive Menacing Automaton,enemies.json
+Enemy.7020303,Menacing Power Loader,enemies.json
+Enemy.7020313,Ambrosius,enemies.json
+Enemy.7020501,Menacing Kumabot,enemies.json
+Enemy.7020503,Sturdy Menacing Kumabot,enemies.json
+Enemy.7020511,Menacing Usagibot,enemies.json
+Enemy.7020513,Swift Menacing Usagibot,enemies.json
+Enemy.7030001,Swimsuit Follower (FT),enemies.json
+Enemy.7030011,Swimsuit Follower (AR),enemies.json
+Enemy.7030021,Swimsuit Follower (SR),enemies.json
+Enemy.7030033,Flavia,enemies.json
+Enemy.7050002,Aru,enemies.json
+Enemy.7050022,Haruna,enemies.json
+Enemy.7050032,Hifumi,enemies.json
+Enemy.7050042,Hina,enemies.json
+Enemy.7050052,Hoshino,enemies.json
+Enemy.7050062,Iori,enemies.json
+Enemy.7050102,Shiroko,enemies.json
+Enemy.7050143,Akane,enemies.json
+Enemy.7050152,Chise,enemies.json
+Enemy.7050162,Haruka,enemies.json
+Enemy.7050172,Hasumi,enemies.json
+Enemy.7050182,Izumi,enemies.json
+Enemy.7050192,Kayoko,enemies.json
+Enemy.7050202,Mutsuki,enemies.json
+Enemy.7050212,Pina,enemies.json
+Enemy.7050222,Serika,enemies.json
+Enemy.7050232,Tsubaki,enemies.json
+Enemy.7050242,Yuuka,enemies.json
+Enemy.7050252,Junko,enemies.json
+Enemy.7050262,Akari,enemies.json
+Enemy.7050272,Asuna,enemies.json
+Enemy.7050282,Kotori,enemies.json
+Enemy.7050292,Suzumi,enemies.json
+Enemy.7050322,Neru,enemies.json
+Enemy.7050333,Sumire,enemies.json
+Enemy.7050342,Yoshimi,enemies.json
+Enemy.7050352,Karin,enemies.json
+Enemy.7050532,Kirino,enemies.json
+Enemy.7050562,Mimori,enemies.json
+Enemy.7050572,Shizuko,enemies.json
+Enemy.7050582,Kaede,enemies.json
+Enemy.7050592,Juri,enemies.json
+Enemy.7050602,Airi,enemies.json
+Enemy.7050612,Izuna,enemies.json
+Enemy.7050622,Serina,enemies.json
+Enemy.7050632,Hare,enemies.json
+Enemy.7050642,Hibiki,enemies.json
+Enemy.7050672,Hifumi (Swimsuit),enemies.json
+Enemy.7050682,Aris,enemies.json
+Enemy.7050693,Rumi,enemies.json
+Enemy.7050703,Mina,enemies.json
+Enemy.7053002,Ayane,enemies.json
+Enemy.7056002,Shimiko,enemies.json
+Enemy.7090001,Unknown Guardian Type F,enemies.json
+Enemy.7090011,Unknown Guardian Type M,enemies.json
+Enemy.7090021,Unknown Guardian Type B,enemies.json
+Enemy.7090023,Rugged Unknown Guardian Type B,enemies.json
+Enemy.7090033,Dimension Engine Defense System,enemies.json
+Enemy.7090043,Shiroko Terror,enemies.json
+Enemy.7090061,Chromatic Automaton (Shield),enemies.json
+Enemy.7090071,Chromatic Automaton (AR),enemies.json
+Enemy.7090081,Chromatic Automaton (RL),enemies.json
+Enemy.7090103,Chromatic Kether Type V,enemies.json
+Enemy.7100002,Kaitenger Red,enemies.json
+Enemy.7100012,Kaitenger Black,enemies.json
+Enemy.7100022,Kaitenger Green,enemies.json
+Enemy.7100032,Kaitenger Yellow,enemies.json
+Enemy.7100042,Kaitenger Pink,enemies.json
+Enemy.7110753,Nero,enemies.json
+Enemy.7110801,Sweeper,enemies.json
+Enemy.7110812,Modded Sweeper,enemies.json
+Enemy.7110822,Enhanced Sweeper,enemies.json
+Enemy.7120003,Nighttime Nero,enemies.json
+Enemy.7300100,Binah,enemies.json
+Enemy.7301100,Chesed,enemies.json
+Enemy.7301105,Tester Drone (Vulcan),enemies.json
+Enemy.7301107,Guard Tower,enemies.json
+Enemy.7302100,Shiro,enemies.json
+Enemy.7302101,Kuro,enemies.json
+Enemy.7303100,Hieronymus,enemies.json
+Enemy.7303900,Green Relic,enemies.json
+Enemy.7303910,Red Relic,enemies.json
+Enemy.7303925,Violet Relic,enemies.json
+Enemy.7304100,KAITEN FX Mk.0,enemies.json
+Enemy.7305100,Perorodzilla,enemies.json
+Enemy.7305101,Perorominion,enemies.json
+Enemy.7305190,Small Perorominion,enemies.json
+Enemy.7306100,Hod,enemies.json
+Enemy.7306101,Erosion Tower,enemies.json
+Enemy.7308100,Goz,enemies.json
+Enemy.7308101,Goz (Clone),enemies.json
+Enemy.7309100,Gregorio,enemies.json
+Enemy.7309110,Choir Member,enemies.json
+Enemy.7309120,Pipe Organ,enemies.json
+Enemy.7310100,Wakamo (Hovercraft),enemies.json
+Enemy.7310110,Ampoule Missile,enemies.json
+Enemy.7310120,Shark Missile,enemies.json
+Enemy.7310140,Black Missile,enemies.json
+Enemy.7310150,Helmet Gang&#x27;s Handmade Missile,enemies.json
+Enemy.7310160,Resort,enemies.json
+Enemy.7311000,Wakamo (Swimsuit),enemies.json
+Enemy.7611013,Azusa,enemies.json
+Enemy.7611032,Koharu,enemies.json
+Enemy.7611042,Hanako,enemies.json
+Enemy.7612052,Hanae,enemies.json
+Enemy.7613013,Tsurugi,enemies.json
+Enemy.7613062,Mashiro,enemies.json
+Enemy.7614092,Mari,enemies.json
+Enemy.7622052,Fuuka,enemies.json
+Enemy.7623072,Chinatsu,enemies.json
+Enemy.7624092,Ako,enemies.json
+Enemy.7624102,Sena,enemies.json
+Enemy.7631013,Momoi,enemies.json
+Enemy.7631032,Midori,enemies.json
+Enemy.7631042,Utaha,enemies.json
+Enemy.7633013,Yuzu,enemies.json
+Enemy.7634102,Chihiro,enemies.json
+Enemy.7710363,Kether Type V,enemies.json
+Enemy.7710373,Kether Type C,enemies.json
+Enemy.7710383,Kether Type E,enemies.json
+Enemy.7710534,Plasma Field Generator,enemies.json
+Enemy.7800001,Light Sweeper,enemies.json
+Enemy.7800101,Light Modded Sweeper,enemies.json
+Enemy.7800201,Light Enhanced Sweeper,enemies.json
+Enemy.7802001,Mystic Sweeper,enemies.json
+Enemy.7802101,Mystic Modded Sweeper,enemies.json
+Enemy.7802201,Mystic Enhanced Sweeper,enemies.json
+Enemy.7810001,Daytime Nero,enemies.json
+Enemy.7823099,Scarecrow (Wave 1),enemies.json
+Enemy.7823199,Scarecrow (Wave 2),enemies.json
+Enemy.7823299,Scarecrow (Wave 3),enemies.json
+Enemy.7921503,Yukino,enemies.json
+Enemy.7921602,Kurumi,enemies.json
+Enemy.7921702,Niko,enemies.json
+Enemy.7921802,Otogi,enemies.json
+Enemy.7960000,Binah (Chroma),enemies.json
+Enemy.7961000,Shiro (Chroma),enemies.json
+Enemy.7961010,Kuro (Chroma),enemies.json
+Enemy.7962000,Hieronymus (Chroma),enemies.json
+Enemy.7962501,Violet Relic,enemies.json
+Enemy.7963000,Chesed (Chroma),enemies.json
+Enemy.7963001,Chromatic Automaton (AR),enemies.json
+Enemy.7963003,Chromatic Drone (Missile),enemies.json
+Enemy.7963005,Chromatic Drone (Vulcan),enemies.json
+Enemy.7963007,Chromatic Guard Tower,enemies.json
+Enemy.7963009,Chromatic Goliath,enemies.json
+Enemy.7963103,Chromatic Automaton (AR),enemies.json
+Enemy.7963511,Chromatic Sweeper,enemies.json
+Enemy.7964001,Hod (Chroma),enemies.json
+Enemy.7964002,Chromatic Erosion Tower,enemies.json
+Enemy.7965001,Perorodzilla (Chroma),enemies.json
+Enemy.7965002,Perorominion,enemies.json
+Enemy.7965026,Small Perorominion,enemies.json
+Enemy.8020018,Cherino,enemies.json
+Enemy.8020019,Tomoe,enemies.json
+Enemy.8030008,Belligerent Justina Follower,enemies.json
+Enemy.8050010,Ruthless Black Tortoise Promenade Member,enemies.json
+Enemy.8050040,Brazen Black Tortoise Promenade Member,enemies.json
+Enemy.8080012,Conniving Hot Springs Member,enemies.json
+Enemy.8100020,Hijacked Wakamo Armored Vehicle,enemies.json
+Enemy.8110010,Wakamo,enemies.json
+Enemy.8150043,Nonomi,enemies.json
+Enemy.8180054,Cheshire Cat,enemies.json
+Enemy.8190051,Marina,enemies.json
+Enemy.8190053,Shigure,enemies.json
+Enemy.8190054,Nodoka,enemies.json
+Enemy.8190056,Iroha,enemies.json
+Enemy.8200014,High-Quality Ingredient Transportation Vehicle,enemies.json
+Enemy.8220014,Aggressive Unknown Guardian Type M,enemies.json
+Enemy.8250303,Yuzu (Maid),enemies.json
+Enemy.8250304,Aris (Maid),enemies.json
+Enemy.8250305,Toki (Bunny),enemies.json
+Enemy.8260303,Shun,enemies.json
+Enemy.8260305,Kokona,enemies.json
+Enemy.8260306,Saya,enemies.json
+Enemy.8270301,Miyako (Swimsuit),enemies.json
+Enemy.8270302,Saki (Swimsuit),enemies.json
+Enemy.8270303,Miyu (Swimsuit),enemies.json
+Enemy.8270304,Moe,enemies.json
+Enemy.8280201,Ui (Swimsuit),enemies.json
+Enemy.8280202,Koharu (Swimsuit),enemies.json
+Enemy.8280203,Hinata (Swimsuit),enemies.json
