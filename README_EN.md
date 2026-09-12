@@ -10,7 +10,7 @@ The terminology is mainly collected based on my personal translation needs and o
 
 1. Select an individual file in the repository, open its file details page, and download it directly. The downloaded spreadsheet files can be converted to CSV or other formats supported by the relevant software.
 
-2. Clone or download the entire repository, then select and use the files you need.
+2. Clone or download the entire repository and unzip it in one go, then pick out whichever files you need. (**Strongly discouraged** — as the dataset keeps growing, the zip’s compression ratio will most likely keep shrinking, which means one unzip could eat up ten times… or even nine times… the disk space [just kidding])
 
 3. Follow the same approach as the second method, but download the processed files together and then use relevant software or AI-assisted tools such as Codex for further processing. **The source code of the relevant repositories referenced by this project must be downloaded in advance.**
 
