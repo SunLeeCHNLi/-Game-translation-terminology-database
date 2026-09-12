@@ -27,6 +27,8 @@
 
 **鸣潮**：[wuwa-translate-bot](https://github.com/My-Denia/wuwa-translate-bot)；[WutheringData](https://github.com/Dimbreath/WutheringData)；[WutheringWavesUID](https://github.com/CM-Edelweiss/WutheringWavesUID)；[WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
 
+**我的世界（Minecraft）**：[mcmeta](https://github.com/misode/mcmeta)；[minecraft-data](https://github.com/PrismarineJS/minecraft-data)；[minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets)；[Minecraft Wiki 译名标准化](https://zh.minecraft.wiki/w/Minecraft_Wiki:译名标准化)
+
 ## 免责声明
 
 本项目（**Game-translation-terminology-database / 游戏翻译术语库**）为个人整理与维护的非官方翻译术语资料库，主要用于个人学习、研究以及辅助 AI 翻译软件（包括但不限于沉浸式翻译等）的术语翻译。

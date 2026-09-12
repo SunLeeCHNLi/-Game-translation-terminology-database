@@ -28,6 +28,8 @@
 
 **鳴潮（Wuthering Waves）**: [wuwa-translate-bot](https://github.com/My-Denia/wuwa-translate-bot); [WutheringData](https://github.com/Dimbreath/WutheringData); [WutheringWavesUID](https://github.com/CM-Edelweiss/WutheringWavesUID); [WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
 
+**マインクラフト（Minecraft）**: [mcmeta](https://github.com/misode/mcmeta); [minecraft-data](https://github.com/PrismarineJS/minecraft-data); [minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets); [Minecraft Wiki 訳名標準化](https://zh.minecraft.wiki/w/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96)
+
 ## 免責事項
 
 本プロジェクト（**Game-translation-terminology-database / ゲーム翻訳用語集**）は、個人が独自に収集・整理・管理している非公式の翻訳用語データベースです。主として個人的な学習、研究、および「没入型翻訳（Immersive Translation）」をはじめとするAI翻訳ソフトウェアの翻訳支援を目的としています。
