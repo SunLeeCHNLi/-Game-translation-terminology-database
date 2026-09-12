@@ -8,9 +8,11 @@ The terminology is mainly collected based on my personal translation needs and o
 
 ## Usage
 
-1. Select an individual file in the repository, open its file details page, and download it directly. The downloaded spreadsheet files can be converted to CSV or other formats supported by your translation software.
+1. Select an individual file in the repository, open its file details page, and download it directly. The downloaded spreadsheet files can be converted to CSV or other formats supported by the relevant software.
 
 2. Clone or download the entire repository, then select and use the files you need.
+
+3. Follow the same approach as the second method, but download the processed files together and then use relevant software or AI-assisted tools such as Codex for further processing. **The source code of the relevant repositories referenced by this project must be downloaded in advance.**
 
 ## Related Sources and Content
 
@@ -20,7 +22,11 @@ The terminology is mainly collected based on my personal translation needs and o
 
 **Genshin Impact**: [genshin-db](https://github.com/theBowja/genshin-db); [genshin-langdata](https://github.com/xicri/genshin-langdata)
 
-**Arknights**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite)；[ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata)；[Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
+**Arknights**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite); [ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata); [Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
+
+**Blue Archive**: [ba-storybook](https://github.com/HePudding/ba-storybook); [blue-archive](https://github.com/ba-archive/blue-archive); [bluearchive-data](https://github.com/arisu-archive/bluearchive-data); [BlueArchive](https://github.com/RedBeanN/BlueArchive)
+
+**Wuthering Waves**: [wuwa-translate-bot](https://github.com/My-Denia/wuwa-translate-bot); [WutheringData](https://github.com/Dimbreath/WutheringData); [WutheringWavesUID](https://github.com/CM-Edelweiss/WutheringWavesUID); [WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
 
 ## Disclaimer
 
@@ -30,7 +36,7 @@ This project (**Game-translation-terminology-database / 游戏翻译术语库**)
 
 This project and its maintainer are **not affiliated with, authorized by, partnered with, represented by, or otherwise officially connected to any game developer, publisher, distributor, operator, copyright holder, or other related company or organization**.
 
-Unless otherwise explicitly stated, none of the content contained in this project **represents the official position, official terminology, official translations, or official localization of any relevant game company or rights holder**.
+Unless otherwise explicitly stated, none of the content contained in this project **represents the official position, official names, official terminology, or official translations of any relevant game company or rights holder**.
 
 ### 2. Intellectual Property
 
@@ -81,12 +87,10 @@ Upon receiving reasonable feedback from a rights holder, the maintainer will rev
 
 ### 7. Miscellaneous
 
-This disclaimer does not constitute a waiver of any third-party intellectual property rights, nor does it constitute or imply any form of authorization, license, partnership, endorsement, or commercial relationship.
+This disclaimer does not constitute a waiver of any third-party intellectual property rights, nor does it constitute or imply any form of authorization, license, partnership, or commercial relationship.
 
 If any content in this project conflicts with information officially published by the relevant game or rights holder, **the official information published by the relevant rights holder shall prevail.**
 
 ---
 
 **Game-translation-terminology-database is an independent personal project and is not affiliated with, endorsed by, sponsored by, or officially connected with any of the games, developers, publishers, distributors, operators, or rights holders mentioned in this repository.**
-
-**All game titles, trademarks, characters, and other related intellectual property belong to their respective rights holders.**
