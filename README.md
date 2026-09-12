@@ -11,6 +11,8 @@
 
 2、直接选择克隆/下载整个仓库，再自行选择使用哪些文件。
 
+3、同第二种方法，但可以将处理文件一并下载后，再使用相关软件或Codex等AI辅助软件对其进行进一步的处理（需提前下载我引用的相关仓库源代码内容）
+
 ## 使用的相关内容：
 
 **碧蓝航线**：[AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData)；[AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
@@ -18,6 +20,12 @@
 **星塔旅人**：[StellaSoraData](https://github.com/Hiro420/StellaSoraData)；[sstoy](https://github.com/JforPlay/sstoy)
 
 **原神**：[genshin-db](https://github.com/theBowja/genshin-db)；[genshin-langdata](https://github.com/xicri/genshin-langdata)
+
+**明日方舟**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite)；[ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata)；[Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
+
+**蔚蓝档案**：[ba-storybook](https://github.com/HePudding/ba-storybook)；[blue-archive](https://github.com/ba-archive/blue-archive)；[bluearchive-data](https://github.com/arisu-archive/bluearchive-data)；[BlueArchive](https://github.com/RedBeanN/BlueArchive)
+
+**鸣潮**：[wuwa-translate-bot](https://github.com/My-Denia/wuwa-translate-bot)；[WutheringData](https://github.com/Dimbreath/WutheringData)；[WutheringWavesUID](https://github.com/CM-Edelweiss/WutheringWavesUID)；[WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
 
 ## 免责声明
 
