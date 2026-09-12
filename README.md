@@ -23,6 +23,10 @@
 
 **明日方舟**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite)；[ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata)；[Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
 
+**蔚蓝档案**：[ba-storybook](https://github.com/HePudding/ba-storybook)；[blue-archive](https://github.com/ba-archive/blue-archive)；[bluearchive-data](https://github.com/arisu-archive/bluearchive-data)；[BlueArchive](https://github.com/RedBeanN/BlueArchive)
+
+**鸣潮**：[wuwa-translate-bot](https://github.com/My-Denia/wuwa-translate-bot)；[WutheringData](https://github.com/Dimbreath/WutheringData)；[WutheringWavesUID](https://github.com/CM-Edelweiss/WutheringWavesUID)；[WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
+
 ## 免责声明
 
 本项目（**Game-translation-terminology-database / 游戏翻译术语库**）为个人整理与维护的非官方翻译术语资料库，主要用于个人学习、研究以及辅助 AI 翻译软件（包括但不限于沉浸式翻译等）的术语翻译。
