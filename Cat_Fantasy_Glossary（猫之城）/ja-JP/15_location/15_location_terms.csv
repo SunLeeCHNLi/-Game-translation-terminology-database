@@ -1,0 +1,450 @@
+﻿id,term,src_table
+BattleScene.10101.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.10101.address2,市街地-夕暮れ,Battle/BattleScene.txt
+BattleScene.10301.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.10301.address2,Funnyゲームセンター-ホール,Battle/BattleScene.txt
+BattleScene.10601.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.10601.address2,ベイカーストリート-雨,Battle/BattleScene.txt
+BattleScene.10701.address1,南港区,Battle/BattleScene.txt
+BattleScene.10701.address2,ぬいぐるみ工房,Battle/BattleScene.txt
+BattleScene.10801.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.10801.address2,渋谷,Battle/BattleScene.txt
+BattleScene.10901.address1,機能,Battle/BattleScene.txt
+BattleScene.10901.address2,竹林ステージ,Battle/BattleScene.txt
+BattleScene.10902.address1,機能,Battle/BattleScene.txt
+BattleScene.10902.address2,竹林ステージ,Battle/BattleScene.txt
+BattleScene.11001.address1,竹林イベント,Battle/BattleScene.txt
+BattleScene.11001.address2,竹林ステージ,Battle/BattleScene.txt
+BattleScene.11101.address1,南港区,Battle/BattleScene.txt
+BattleScene.11101.address2,赤ずきんのシーン,Battle/BattleScene.txt
+BattleScene.11201.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.11201.address2,新市街-夜,Battle/BattleScene.txt
+BattleScene.11401.address1,凛北区,Battle/BattleScene.txt
+BattleScene.11401.address2,サッカーシーン,Battle/BattleScene.txt
+BattleScene.11501.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.11501.address2,繁華街,Battle/BattleScene.txt
+BattleScene.11599.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.11599.address2,繁華街,Battle/BattleScene.txt
+BattleScene.11901.address1,機能,Battle/BattleScene.txt
+BattleScene.11901.address2,定向ステージ・青,Battle/BattleScene.txt
+BattleScene.12001.address1,機能,Battle/BattleScene.txt
+BattleScene.12001.address2,定向ステージ・青,Battle/BattleScene.txt
+BattleScene.12002.address1,機能,Battle/BattleScene.txt
+BattleScene.12002.address2,定向ステージ・緑,Battle/BattleScene.txt
+BattleScene.12003.address1,機能,Battle/BattleScene.txt
+BattleScene.12003.address2,定向ステージ・紫,Battle/BattleScene.txt
+BattleScene.12004.address1,機能,Battle/BattleScene.txt
+BattleScene.12004.address2,定向ステージ・赤,Battle/BattleScene.txt
+BattleScene.12005.address1,機能,Battle/BattleScene.txt
+BattleScene.12005.address2,定向ステージ・黄,Battle/BattleScene.txt
+BattleScene.12101.address1,南港区,Battle/BattleScene.txt
+BattleScene.12101.address2,エリーの家-玄関,Battle/BattleScene.txt
+BattleScene.12201.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.12201.address2,ベイカーストリート-雨,Battle/BattleScene.txt
+BattleScene.12301.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.12301.address2,ERCホール,Battle/BattleScene.txt
+BattleScene.12401.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.12401.address2,ERCホール,Battle/BattleScene.txt
+BattleScene.12601.address1,リーズ城,Battle/BattleScene.txt
+BattleScene.12601.address2,オルドタウン市街-昼,Battle/BattleScene.txt
+BattleScene.12901.address1,リーズ城,Battle/BattleScene.txt
+BattleScene.12901.address2,郊外遺跡,Battle/BattleScene.txt
+BattleScene.13001.address1,離島区,Battle/BattleScene.txt
+BattleScene.13001.address2,離島大通り-昼,Battle/BattleScene.txt
+BattleScene.13101.address1,離島区,Battle/BattleScene.txt
+BattleScene.13101.address2,離島大通り-夜,Battle/BattleScene.txt
+BattleScene.13201.address1,離島区,Battle/BattleScene.txt
+BattleScene.13201.address2,荒廃した大通り,Battle/BattleScene.txt
+BattleScene.13299.address1,離島区,Battle/BattleScene.txt
+BattleScene.13299.address2,荒廃した大通り,Battle/BattleScene.txt
+BattleScene.13301.address1,離島区,Battle/BattleScene.txt
+BattleScene.13301.address2,競売所,Battle/BattleScene.txt
+BattleScene.13401.address1,離島区,Battle/BattleScene.txt
+BattleScene.13401.address2,競売所,Battle/BattleScene.txt
+BattleScene.13402.address1,南港区,Battle/BattleScene.txt
+BattleScene.13402.address2,臨辺ストリート,Battle/BattleScene.txt
+BattleScene.13501.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.13501.address2,音楽祭-入場口,Battle/BattleScene.txt
+BattleScene.13601.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.13601.address2,音楽祭-現場,Battle/BattleScene.txt
+BattleScene.13701.address1,離島区,Battle/BattleScene.txt
+BattleScene.13701.address2,荒廃した市街地,Battle/BattleScene.txt
+BattleScene.13702.address1,離島区,Battle/BattleScene.txt
+BattleScene.13702.address2,荒廃した市街地,Battle/BattleScene.txt
+BattleScene.13801.address1,コンシ区,Battle/BattleScene.txt
+BattleScene.13801.address2,エモーションリメディセンター,Battle/BattleScene.txt
+BattleScene.13901.address1,離島区,Battle/BattleScene.txt
+BattleScene.13901.address2,競売所,Battle/BattleScene.txt
+BattleScene.14501.address1,pvp,Battle/BattleScene.txt
+BattleScene.14501.address2,pvp,Battle/BattleScene.txt
+BattleScene.14601.address1,離島区,Battle/BattleScene.txt
+BattleScene.14601.address2,ビーチ,Battle/BattleScene.txt
+BattleScene.14802.address1,神秘空間,Battle/BattleScene.txt
+BattleScene.14802.address2,小さな森,Battle/BattleScene.txt
+BattleScene.14901.address1,神秘空間,Battle/BattleScene.txt
+BattleScene.14901.address2,時空トンネル,Battle/BattleScene.txt
+BattleScene.20101.address1,機能,Battle/BattleScene.txt
+BattleScene.20101.address2,緒晶空間,Battle/BattleScene.txt
+BattleScene.20201.address1,機能,Battle/BattleScene.txt
+BattleScene.20201.address2,緒晶空間,Battle/BattleScene.txt
+BattleScene.20301.address1,機能,Battle/BattleScene.txt
+BattleScene.20301.address2,緒晶空間,Battle/BattleScene.txt
+BattleScene.20401.address1,南港区,Battle/BattleScene.txt
+BattleScene.20401.address2,Pending依依工厂的场景,Battle/BattleScene.txt
+BattleScene.20501.address1,南港区,Battle/BattleScene.txt
+BattleScene.20501.address2,破壊された工場敷地,Battle/BattleScene.txt
+BattleScene.23701.address1,離島区,Battle/BattleScene.txt
+BattleScene.23701.address2,競売所,Battle/BattleScene.txt
+BattleScene.30101.address1,機能,Battle/BattleScene.txt
+BattleScene.30101.address2,虚数空間α,Battle/BattleScene.txt
+BattleScene.30102.address1,機能,Battle/BattleScene.txt
+BattleScene.30102.address2,虚数空間α変種,Battle/BattleScene.txt
+BattleScene.30103.address1,機能,Battle/BattleScene.txt
+BattleScene.30103.address2,虚数空間α変種,Battle/BattleScene.txt
+BattleScene.30104.address1,機能,Battle/BattleScene.txt
+BattleScene.30104.address2,虚数空間α変種,Battle/BattleScene.txt
+BattleScene.30105.address1,機能,Battle/BattleScene.txt
+BattleScene.30105.address2,虚数空間α変種,Battle/BattleScene.txt
+BattleScene.30106.address1,機能,Battle/BattleScene.txt
+BattleScene.30106.address2,虚数空間α変種,Battle/BattleScene.txt
+BattleScene.30107.address1,機能,Battle/BattleScene.txt
+BattleScene.30107.address2,虚数空間α変種,Battle/BattleScene.txt
+BattleScene.30108.address1,機能,Battle/BattleScene.txt
+BattleScene.30108.address2,虚数空間α変種,Battle/BattleScene.txt
+BattleScene.30109.address1,機能,Battle/BattleScene.txt
+BattleScene.30109.address2,虚数空間α変種,Battle/BattleScene.txt
+BattleScene.30110.address1,機能,Battle/BattleScene.txt
+BattleScene.30110.address2,虚数空間α変種,Battle/BattleScene.txt
+BattleScene.30202.address1,機能,Battle/BattleScene.txt
+BattleScene.30202.address2,虚数空間β変種,Battle/BattleScene.txt
+BattleScene.30203.address1,機能,Battle/BattleScene.txt
+BattleScene.30203.address2,虚数空間β変種,Battle/BattleScene.txt
+BattleScene.30204.address1,機能,Battle/BattleScene.txt
+BattleScene.30204.address2,虚数空間β変種,Battle/BattleScene.txt
+BattleScene.30205.address1,機能,Battle/BattleScene.txt
+BattleScene.30205.address2,虚数空間β変種,Battle/BattleScene.txt
+BattleScene.30206.address1,機能,Battle/BattleScene.txt
+BattleScene.30206.address2,虚数空間β変種,Battle/BattleScene.txt
+BattleScene.30207.address1,機能,Battle/BattleScene.txt
+BattleScene.30207.address2,虚数空間β変種,Battle/BattleScene.txt
+BattleScene.30208.address1,機能,Battle/BattleScene.txt
+BattleScene.30208.address2,虚数空間β変種,Battle/BattleScene.txt
+BattleScene.30209.address1,機能,Battle/BattleScene.txt
+BattleScene.30209.address2,虚数空間β変種,Battle/BattleScene.txt
+BattleScene.30210.address1,機能,Battle/BattleScene.txt
+BattleScene.30210.address2,虚数空間β変種,Battle/BattleScene.txt
+BattleScene.30301.address1,機能,Battle/BattleScene.txt
+BattleScene.30301.address2,虚数空間β変種,Battle/BattleScene.txt
+ChapterLoadingVo.day.2207年??月??日,2217/??/??,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月24日,2217/11/24,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月25日,2217/11/25,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月26日,2217年11月26日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月27日,2217年11月27日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月30日,2217年11月30日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月08日,2217年12月08日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月09日,2217年12月09日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月10日,2217年12月10日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月11日,2217年12月11日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月12日,2217年12月12日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月5日,2217年12月5日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月6日,2217年12月6日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年??月?日,2217年??月?日,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.????年??月??日,????,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.未知时间,????,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.？？？？年？？月？？日,????,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中央大道,中央ストリート,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区  情绪干预中心,中央区　ERC,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区  情绪干预中心会诊室,中央区　ERC　治療室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 万叶会 客舍,中央区 万葉会 旅館,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 万叶会 客舍连廊,中央区 万葉会 旅館廊下,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 万叶会 庭院,中央区 万葉会 庭院,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 宴会馆,中央区　宴会館,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 市政厅走廊 ,中心区　市庁廊下,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 情绪干预中心,中央区　ERC,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 惊海Live House,中央区　驚海ライブハウス,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 暴风眼调查署,中央区　ストームアイ調査署,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 涂鸦街区,中央区　グラフィティブロック,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 白塔研究院,中央区　ホワイトタワー研究院,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 百货大楼,中央区　デパート,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 议事厅前,中央区　議事会場前,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 音乐节 ,中央区　音楽祭,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 音乐节后台,中央区　音楽祭バックステージ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 高级餐厅盥洗室,中央区　高級レストラン　お手洗い,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.五城广场附近街道,五城広場付近の町,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.光幕之下,光幕の下,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 冰穹边境,凛北区　氷穹の境界,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 新边森林,凛北区　新辺の森,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 监狱城,凛北区　監獄城,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 雪将军广场,凛北区　雪将軍広場,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区,南港区,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 偏僻小路,南港区　裏路地,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 克利尔街13号 ,南港区　クレア街13番,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 工业园区,南港区　工場区,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 工厂区街道,南港区　工場区の街,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 废弃工厂,南港区　廃棄工場,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 弗雷泽尔家中,南港区　フレイジャーの家,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 新海电力门口,南港区 新海電力の入り口,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 无名小路,南港区　名もない道,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 星光福利院,南港区　スターライト院,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 白猫侦探社,南港区　白猫探偵社,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 白猫侦探社 客厅,南港区　白猫探偵社　リビング,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 白猫侦探社 走廊,南港区　白猫探偵社　廊下,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂,南港区　織巣織物工場,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂 厂房门外,南港区　織巣織物工場　工場前,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂 空地,南港区　織巣織物工場　空き地,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂 老厂房,南港区　織巣織物工場　昔の工場,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂内部,南港区　織巣織物工場内,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂门口,南港区　織巣織物工場前,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 花园街,南港区　ガーデンストリート,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 街道,南港区　道,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 音乐之声,南港区　サウンド・オブ・ミュージック,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.发布会现场 后台,記者会見　控室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.地道,地下道,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.居酒屋,居酒屋,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 小议事厅,市庁　小議事堂,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 议事厅,市庁　議事会場,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 议事厅前,市庁　議事会場前,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 议事厅隔间,市庁　議事会場の個室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 VIP病房,ERC　VIPルーム,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 中心花园,ERC　中央ガーデン,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 会诊室,ERC　治療室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 前台,ERC　フロント,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 前坪,ERC　病院前,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 医生办公室,ERC　ドクターオフィス,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 地下仓库门口,エモーションリメディセンター 地下倉庫の入り口,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 大厅,ERC　ロビー,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 大门,エモーションリメディセンター ゲート,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 废弃仓库,ERC　廃棄倉庫,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 护士长办公室,ERC　看護師長室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 正门,ERC　正門,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 病房,ERC　病室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 监护病房,ERC　看護室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 监控室,ERC　警備室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 轻症区,ERC　通常治療室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 重症3区,ERC　集中治療室3区,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 重症监护室,ERC　集中治療室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 院长办公室,ERC　院長室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.新海市,新海市,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.新边森林 深处,新辺の森の奥,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区,オールドタウン,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 云灿的家,オールドタウン　雲燦の家,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 光幕的另一边,オールドタウン　光幕の向こう側,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 关键绪能点古老遗迹,オールドタウン　遺跡　ドロップポイント,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 利兹大道,オールドタウン　リーズストリート,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 利兹大道附近,オールドタウン　リーズストリート付近,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 古老遗迹,オールドタウン　遺跡,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 古老遗迹边缘,オールドタウン　遺跡の端,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 某处小巷,オールドタウン　裏路地,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 猩红庄园周边,オールドタウン　緋色荘園周辺,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 珍宝拍卖会通道,オールドタウン　宝物オークション　通路,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 绪能点乌鸦巷,オールドタウン　緋色荘園周辺,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 五城广场,コンシ区　五城広場,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 便利店,コンシ区　コンビニ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 光幕之下,コンシ区　光幕の下,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 商业街,コンシ区　商店街,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 弗露依亚事务所,コンシ区　フルアイア・エージェンシー,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 特莉丝入职发布会,コンシ区　トリス入社発表会,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 福玻斯剧院,コンシ区　ポイボスシアター,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫二楼,コンシ区 ベイカーキャットレストラン二楼,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅,コンシ区　ベイカーキャットレストラン,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 一楼,コンシ区　ベイカーキャットレストラン　1階,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 主卧,コンシ区　ベイカーキャットレストラン　寝室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 主卧室,コンシ区　ベイカーキャットレストラン　寝室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 二楼,コンシ区　ベイカーキャットレストラン　2階,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 天台,コンシ区　ベイカーキャットレストラン　屋上,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅一楼,コンシ区　ベイカーキャットレストラン　1階,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅二楼,コンシ区　ベイカーキャットレストラン　2階,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅地下室,コンシ区　ベイカーキャットレストラン　地下室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅天台,コンシ区　ベイカーキャットレストラン　屋上,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克街,コンシ区　ベイカーストリート,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克街 ,コンシ区　ベイカーストリート,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 边缘街区,コンシ区　堺街区,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区民居 儿童房,コンシ区の民居 子供部屋,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区民居 客厅,コンシ区の民居 リビング,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区边缘 老街,コンシ区の端の古い街,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼 办公室,ストームアイ　オフィス,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼 走廊,ストームアイ　廊下,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 保密档案室,アイ・オブ・ザ・ストーム本部,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 大门,アイ・オブ・ザ・ストーム本部　正門,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 天台,アイ・オブ・ザ・ストーム本部　屋上,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 署长办公室,アイ・オブ・ザ・ストーム本部　署長室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 豪威尔办公室,アイ・オブ・ザ・ストーム本部　ホーウェルのオフィス,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼调查署 办公室,ストームアイ調査署　オフィス,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园,チェシャ猫ランド,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 ???,チェシャ猫ランド　観覧車,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 办公大楼,チェシャ猫ランド　観覧車,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 大门,チェシャ猫ランド　正門,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 控制室,チェシャ猫ランド　コントロール室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 摩天轮,チェシャ猫ランド　観覧車,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园周边,チェシャ猫ランド　周辺,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 内部,ペルシャスタジアム内,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 后街,ペルシャスタジアム　裏地,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 正门,ペルシャスタジアム　正門,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 舞台前,ペルシャスタジアム　舞台前,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 中庭,監獄城　中庭,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 中庭 ,監獄城　中庭,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 中控走廊,監獄城　中央廊下,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 囚牢,監獄城　牢屋,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 物资室,監獄城　物資室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 三兄弟酒吧,離島　三兄弟のバー,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 三途川,離島　三途の川,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 临海岩洞,離島 臨海の岩窟,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 区长办公室,離島　区长室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 区长办公楼 前台,離島　区长オフィスビル　受付,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨,離島　彗星キッチン,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨 二楼休息室,離島　彗星キッチン　2階の休憩室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨 露天餐厅,離島　彗星キッチン　屋外テラス,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨周边,離島　彗星キッチン周辺,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 未知海域,離島　未知の海域,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 村长家仓库,離島　村長の家　倉庫,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海底通道 升降台,離島　海底トンネル昇降台,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海底遗迹,離島　海底遺跡,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海滨,離島　海浜,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村,離島　海門村,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 入口,離島　海門村　入口,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 墓地,離島　海門村　墓地,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 村长家,離島　海門村　村長の家,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 海边,離島　海門村　海辺,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 荧光森林边缘,離島　海門村　蛍光の森のはずれ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 豪威尔老宅,離島　海門村,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村口,離島　海門村　入口,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村墓地,離島　海門村　墓地,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村广场,離島　海門村　広場,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门站站台,離島　海門駅ホーム,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门站附近,離島　海門駅付近,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门车站,離島　海門駅ホーム,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门车站内,離島　海門駅ホーム,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 破旧街区,離島　廃れた街区,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 私人宅邸,離島　私邸,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 豪威尔老宅,離島 ホーウェル老宅,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 车站外街道,離島　駅構外,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 酒吧后巷,離島 裏通りバー,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 音乐餐吧,離島　ミュージックバー,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼嘴巷,離島　魚嘴巷,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼尾巷,離島　魚尾巷,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼尾巷 ,離島　魚尾巷,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市,離島　魚市場,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市 三兄弟酒吧,離島　魚市場　三兄弟のバー,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市 夜之都,離島　魚市場　夜の都,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市 酒吧后巷,離島　魚市場　バーの路地裏,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.织巢纺织厂 门口,織巣織物工場　工場前,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 东岸艺术中心,耀州区　イーストコーストアートセンター,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 云霞群岛,耀州区　雲霞諸島,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 揽月楼,耀州区　覧月楼,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 摩罗古道,耀州区　モロ古道,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 摩罗古道 私宅,耀州区　モロ古道　私宅,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 摩罗古道附近,耀州区　モロ古道付近,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 文物修复所,耀州区　文物修復所,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 朝报院,耀州区　朝報院,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 朱雀大道,耀州区　スザクストリート,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 杰克贸易公司,耀州区　ジャックカンパニー,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 梧桐巷,耀州区　梧桐街,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 海棠坊,耀州区　海棠坊,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 珍宝拍卖会,耀州区　宝物オークション,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 福斯府邸,耀州区　フォース家,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 豪威尔宅,耀州区　ホーウェル家,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 豪威尔家,耀州区　ホーウェル家,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 通天街,耀州区　通天街,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 通天街附近区域,耀州区　通天街付近,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 闻心茶社,耀州区 聞心茶社,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区绪能点 朝报院,耀州区　ドロップポイント　朝報院,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.肖特朗家 厨房,チャートランド家　キッチン,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.街道,市街地,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅,ベイカーキャットレストラン,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 一楼,ベイカーキャットレストラン　1階,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 主卧,ベイカーキャットレストラン　寝室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 主卧室,ベイカーキャットレストラン　寝室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 二楼,ベイカーキャットレストラン　2階,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 会议室,ベイカーキャットレストラン　会議室,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 天台,ベイカーキャットレストラン　屋上,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 门口,ベイカーキャットレストラン　前,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街,ベイカーストリート,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街 四时花门口,ベイカーストリート　四時花前,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街的猫 一楼,ベイカーキャットレストラン　1階,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街的猫 天台,ベイカーキャットレストラン　屋上,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街餐厅 一楼,ベイカーキャットレストラン　1階,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街餐厅 天台,ベイカーキャットレストラン　屋上,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.音乐之声 肖特朗家,サウンド・オブ・ミュージック　チャートランド家,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.高塔研究院,高塔研究院,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.鱼市 金鱼屋,離島　金魚屋,NewChapter/ChapterLoadingVo.txt
+RegionPrimaryMap.1.name,コンシ区,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.1.taskName,地域調査,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.2.name,南港区,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.2.taskName,地域調査,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.3.name,耀州区,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.3.taskName,地域調査,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.4.name,オールドタウン,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.4.taskName,地域調査,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.5.name,中央区,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.5.taskName,地域調査,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.6.name,凛北区,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.6.taskName,地域調査,Region/RegionPrimaryMap.txt
+RegionSecondaryMap.103.desc,このエリアで【エモーション粒子】を獲得できる,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.103.label,五城広場,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.103.name,【粒子ステージ】五城広場,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.104.desc,このエリアで【戦闘員EXP】を獲得できる,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.104.label,エリア1普通戦闘ポイント1,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.104.name,【EXPステージ】チェシャ猫ランド,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.107.label,エリア1普通戦闘ポイント4,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.107.name,【チップステージ】不帰の城,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.108.label,エリア1普通戦闘ポイント5,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.108.name,【食材】ベイカーストリート,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.110.label,エリア1漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.110.name,【釣り】メノウベイ,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.117.label,エリア6漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.117.name,地域調査,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.203.desc,このエリアで【攻撃装飾】を獲得できる,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.203.label,廃工場,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.203.name,【装備】廃工場,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.204.label,エリア2普通戦闘ポイント1,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.204.name,【食材】ガーデンストリート,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.206.label,エリア2普通戦闘ポイント4,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.206.name,【協同】南洋港,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.210.label,エリア2漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.210.name,【釣り】スピーヤー貯水池,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.217.label,エリア6漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.217.name,地域調査,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.303.desc,このエリアで【防御装飾】を獲得できる,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.303.label,通天街,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.303.name,【装備】通天街,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.304.label,エリア3普通戦闘ポイント1,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.304.name,【PVP】ファントム特訓場,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.308.label,エリア3普通戦闘ポイント5,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.308.name,【食材】屋台街,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.309.label,エリア3特殊モードポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.309.name,【PVP】アリーナランク戦,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.310.label,エリア3漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.310.name,【釣り】雲霞湖島,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.317.label,エリア6漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.317.name,地域調査,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.403.desc,このエリアで【最大HP装飾】を獲得できる,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.403.label,悪夢回収所,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.403.name,【装備】リーズストリート,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.408.label,エリア4普通戦闘ポイント5,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.408.name,【食材】カラス横丁,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.409.label,エリア4特殊モードポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.409.name,【特殊】ワールドBOSS,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.410.label,エリア4漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.410.name,【釣り】森の湖,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.417.label,エリア6漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.417.name,地域調査,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.503.desc,このエリアで【会心装飾】を獲得できる,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.503.label,ホワイトタワー,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.503.name,【装備】ホワイトタワー,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.506.label,エリア5普通戦闘ポイント2,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.506.name,【PVP】ファントム闘技場,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.508.label,エリア5普通戦闘ポイント5,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.508.name,【食材】宴の館,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.510.label,エリア5漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.510.name,【釣り】レークパーク,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.517.label,エリア6漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.517.name,地域調査,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.603.desc,このエリアで【強靱装飾】を獲得できる,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.603.label,雪将軍広場,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.603.name,【装備】雪将軍広場,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.607.label,エリア6普通戦闘ポイント5,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.607.name,【食材】新辺の森,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.610.label,エリア6特殊モードポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.610.name,【釣り】ホテルヴィクトル,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.617.label,エリア6漁場ポイント,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.617.name,地域調査,Region/RegionSecondaryMap.txt

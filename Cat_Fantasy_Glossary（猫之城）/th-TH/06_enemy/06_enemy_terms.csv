@@ -1,0 +1,28 @@
+﻿id,term,src_table
+CatBallAttributeFlagVo.101.expound,สามารถ​ใช้​การ์ด​สกิล​ใน​ระหว่าง​การต่อสู้​ได้​ สกิล​เป็น​ประเภท​โจมตี​,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.101.title,แอ็กทีฟ-โจมตี,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.102.expound,สามารถ​ใช้​การ์ด​สกิล​ใน​ระหว่าง​การต่อสู้​ได้​ สกิล​เป็น​ประเภท​ป้องกัน​,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.102.title,แอ็กทีฟ-ป้องกัน,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.103.expound,สามารถ​ใช้​การ์ด​สกิล​ใน​ระหว่าง​การต่อสู้​ได้​ สกิล​เป็น​ประเภท​ซัพพอร์ต​,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.103.title,แอ็กทีฟ-ซัพพอร์ต,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.201.expound,ใน​การต่อสู้​ มอบ​เอฟเฟกต์​พาส​ซี​ฟ​ที่​เพิ่ม​ ATK​ ให้​กับ​เพื่อน​ร่วม​ทีม​ทุกคน​,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.201.title,พาสซีฟ-โจมตี,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.202.expound,ใน​การต่อสู้​ มอบ​เอฟเฟกต์​พาส​ซี​ฟ​ที่​เพิ่ม​ DEF​ ให้​กับ​เพื่อน​ร่วม​ทีม​ทุกคน​,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.202.title,พาสซีฟ-ป้องกัน,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.203.expound,ใน​การต่อสู้​ มอบ​เอฟเฟกต์​พาส​ซี​ฟ​ที่​ที่​เสริม​พลัง​ซัพพอร์ต​ให้​กับ​เพื่อน​ร่วม​ทีม​ทุกคน​,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.203.title,พาสซีฟ-ซัพพอร์ต,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.304.expound,ประเภท​พิเศษ​ที่จะ​เพิ่ม​ผลกำไร​ใน​คาเฟ่​ ไม่​สามารถ​ใช้​ใน​การต่อสู้​ได้​,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.304.title,บริหารคาเฟ่,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallDrawVo.10001.name,ตู้กาชาแคทบอล,MonsterCat/CatBallDrawVo.txt
+ClubBossPassVo.801001.illustrate,1.​เมื่อ​เอฟเฟกต์​ลด​ ATK​ บน​ตัวละคร​ของ​ผู้​เล่น​สะสม​ถึง​ 6​ ชั้น​ คลอว์​บัส​เตอร์​จะ​ตื่นเต้น​ และ​ได้รับ​ ATK​ เพิ่มขึ้น​ 30%​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801002.illustrate,1.​ซอร์ด​มาสเตอร์​มีพลัง​โจมตี​ที่​รุนแรง​ และ​เมื่อ​สร้าง​ดา​เม​จ​ จะ​ลด​ผล​การฟื้นฟู​ที่​ตัวละคร​ของ​ผู้​เล่น​ได้รับ​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801003.illustrate,1.​ลิต​เติ้ล​ไนต์​แมร์​จะ​ได้รับ​การ​เสริม​พลัง​หลัง​การ​โจมตี​ โดย​ทุกๆ​ พลังงาน​อัล​ติ​เมท​ 1​ แต้ม​ จะ​เพิ่ม​ ATK​ ขึ้น​ 10%​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801004.illustrate,1.​ม็อบ​จะ​เพิ่ม​ ATK​ ของ​ตัวเอง​ 10%​ ทุกครั้งที่​ทำลาย​ [​โล่​ป้องกัน​]​ ได้​ ซ้อนทับ​ได้​สูงสุด​ 20​ ชั้น​\n2.​ใน​เทิร์น​ที่​ 3​ เป็นต้นไป​ ม็อบ​จะ​เผย​จุดอ่อน​ ทำให้​ได้รับ​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​ 50%​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801005.illustrate,1.​มินิ​บ็อก​เซอร์​ได้รับ​เอฟเฟกต์​เสริม​ความอดทน​ เพิ่มค่า​อดทน​ 100%​ เมื่อ​โจมตี​จะ​ลด​เอฟเฟกต์​ฟื้นฟู​ HP​ ที่​ศัตรู​ได้รับ​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801006.illustrate,1.​เด​ธด​ริ​ลเลอร์​ได้รับ​เอฟเฟกต์​เสริม​พลัง​ป้องกัน​ เพิ่ม​ DEF​ ให้​กับ​ตัวเอง​ 50%​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801007.illustrate,1.​สจ๊วดว​อริ​เออร์​ได้รับ​การ​เสริม​ความสามารถ​ และ​เอฟเฟกต์​ควบคุม​จะ​ไม่​มีผล​กับ​มัน​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801008.illustrate,1.​ไททัน​แบ​มบู​สามารถ​ทะลวง​การป้องกัน​ของ​ศัตรู​ ทำให้​ DEF​ ของ​ศัตรู​ลดลง​อย่าง​มาก​\n2.​ไททัน​แบ​มบู​สามารถ​เสริม​พลัง​ให้​ตัวเอง​ โดย​จะ​เพิ่ม​ DEF​ 30%​ และ​ดา​เม​จ​สุดท้าย​ 30%​ เมื่อ​สร้าง​ดา​เม​จ​ จะ​สร้าง​ดา​เม​จ​ตัดกำลัง​อย่าง​รุนแรง​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801012.illustrate,วอร์​แมชชีน​เพิ่ม​ DEF​ ขึ้น​อย่าง​มาก​ และ​เอฟเฟกต์​เพิ่ม​ DEF​ จะ​ลดลง​ 1​ ชั้น​ทุกครั้งที่​ได้รับ​ดา​เม​จ​ (​รวม​ 50​ ชั้น​)​ เมื่อ​เอฟเฟกต์​เพิ่ม​ DEF​ หมด​ลง​ จะ​รีเซ็ต​ และ​การ​โจมตี​ครั้ง​ถัดไป​จะ​สร้าง​ [​ดา​เม​จ​เพียว​]​ 500%​ ของ​ ATK​ ผู้​โจมตี​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801016.illustrate,วอร์​แมชชีน​เพิ่ม​ DEF​ ขึ้น​อย่าง​มาก​ และ​เอฟเฟกต์​เพิ่ม​ DEF​ จะ​ลดลง​ 1​ ชั้น​ทุกครั้งที่​ได้รับ​ดา​เม​จ​ (​รวม​ 50​ ชั้น​)​ เมื่อ​เอฟเฟกต์​เพิ่ม​ DEF​ หมด​ลง​ จะ​รีเซ็ต​ และ​การ​โจมตี​ครั้ง​ถัดไป​จะ​สร้าง​ [​ดา​เม​จ​เพียว​]​ 500%​ ของ​ ATK​ ผู้​โจมตี​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801020.illustrate,ซาวด์​ลิ​ซาร์​ด​สามารถ​ใช้​สกิลอัล​ติ​เมท​ เรียก​มอนสเตอร์​มา​ช่วย​ต่อสู้​ได้​ และ​จะ​รับ​ดา​เม​จ​ 50%​ ที่​มอนสเตอร์​ที่​ถูก​เรียก​ได้รับ​ ผู้​เล่น​สามารถ​โจมตี​มอนสเตอร์​ที่​ถูก​เรียก​เพื่อ​สร้าง​ดา​เม​จ​เพิ่มเติม​แก่​บอส​ได้​,Club/ClubBossPassVo.txt
+ClubBossPassVo.801024.illustrate,ซาวด์​ลิ​ซาร์​ด​สามารถ​ใช้​สกิลอัล​ติ​เมท​ เรียก​มอนสเตอร์​มา​ช่วย​ต่อสู้​ได้​ และ​จะ​รับ​ดา​เม​จ​ 50%​ ที่​มอนสเตอร์​ที่​ถูก​เรียก​ได้รับ​ ผู้​เล่น​สามารถ​โจมตี​มอนสเตอร์​ที่​ถูก​เรียก​เพื่อ​สร้าง​ดา​เม​จ​เพิ่มเติม​แก่​บอส​ได้​,Club/ClubBossPassVo.txt

@@ -1,0 +1,28 @@
+﻿id,term,src_table
+CatBallAttributeFlagVo.101.expound,전투 중 사용할 수 있는 공격형 스킬 카드,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.101.title,액티브 - 공격,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.102.expound,전투 중 사용할 수 있는 방어형 스킬 카드,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.102.title,액티브 - 방어,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.103.expound,전투 중 사용할 수 있는 보조형 스킬 카드,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.103.title,액티브 - 보조,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.201.expound,전투 중 모든 아군에게 공격 능력을 증가시키는 패시브 스킬 효과 부여,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.201.title,패시브 - 공격,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.202.expound,전투 중 모든 아군에게 방어 능력을 증가시키는 패시브 스킬 효과 부여,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.202.title,패시브 - 방어,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.203.expound,전투 중 모든 아군에게 보조 능력을 증가시키는 패시브 스킬 효과 부여,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.203.title,패시브 - 보조,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.304.expound,"카페테리아에 수익을 가져다 부여하는 특수 타입으로, 전투에서 사용 불가",MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.304.title,카페테리아 운영,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallDrawVo.10001.name,냥냥볼 뽑기,MonsterCat/CatBallDrawVo.txt
+ClubBossPassVo.801001.illustrate,"1. 플레이어의 전투원 감소 효과가 6스택까지 중첩된 후, 드럼 크랩은 비정상적인 흥분 상태가 되며 공격력이 30% 증가한다.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801002.illustrate,1. 소드맨은 강한 공격성을 가지고 있습니다. 소드맨이 대미지를 부여 시 플레이어의 전투원에 대한 치유 효과가 감소합니다.,Club/ClubBossPassVo.txt
+ClubBossPassVo.801003.illustrate,1. 아기 인형은 공격 후에 속성이 강화됩니다. 필살기 게이지 1pt 보유 시마다 공격력이 10% 증가합니다.,Club/ClubBossPassVo.txt
+ClubBossPassVo.801004.illustrate,"1. 걸레는 [실드] 효과를 파괴할 때마다 자신의 공격력 10%가 증가하고, 최대 20스택까지 중첩됩니다.\n2. 세번째턴 시작 시 약점을 노출하며 적용되는 크리터컬 대미지가 50% 증가합니다.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801005.illustrate,"1. 권투 게임기는 인내율 강화 효과를 획득하며, 인내율이 100%까지 증가된다. 공격 시 적의 치유 효과가 감소합니다.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801006.illustrate,"1. 장난치는 포크레인은 방어력 강화 효과를 획득하며, 자체 방어력이 50%까지 증가합니다.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801007.illustrate,"1. 랫 소드맨 자체 속성은 대폭 증가하며, 제어 효과는 효력을 발휘하지 않습니다.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801008.illustrate,"1. 자이언트 죽순은 상대방의 방어를 관통할 수 있으며, 적 방어력은 대폭으로 감소합니다.\n2. 자이언트 죽순은 자신을 강화할 수 있으며 자체 방어력과 최종 대미지가 30% 증가합니다. 대미지 부여시 대량의 파탄 대미지를 부여합니다.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801012.illustrate,"게임기는 자체 방어력이 대폭 증가하며, 대미지가 적용된 후 적용되는 효과가 1스택 감소합니다.(총 50스택). 증가 효과가 완전히 사라지면 패시브 효과는 초기화되고, 게임기가 다음 번 공격에서 대미지 적용 시 공격자의 공격력의 500%에 해당하는 [순수 대미지]를 1회 부여합니다.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801016.illustrate,"게임기는 자체 방어력이 대폭 증가하며, 대미지가 적용된 후 적용되는 효과가 1스택 감소합니다.(총 50스택). 증가 효과가 완전히 사라지면 패시브 효과는 초기화되고, 게임기가 다음 번 공격에서 대미지 적용 시 공격자의 공격력의 500%에 해당하는 [순수 대미지]를 1회 부여합니다.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801020.illustrate,"마이크 도마뱀의 필살기 스킬은 몬스터를 소환하여 도움을 받는 것이며, 소환된 몬스터가 적용되는 대미지의 50%를 대신 적용하며, 소환된 몬스터를 공격하면 보스에게 추가 대미지를 부여할 수 있다.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801024.illustrate,"마이크 도마뱀의 필살기 스킬은 몬스터를 소환하여 도움을 받는 것이며, 소환된 몬스터가 적용되는 대미지의 50%를 대신 적용하며, 소환된 몬스터를 공격하면 보스에게 추가 대미지를 부여할 수 있다.",Club/ClubBossPassVo.txt

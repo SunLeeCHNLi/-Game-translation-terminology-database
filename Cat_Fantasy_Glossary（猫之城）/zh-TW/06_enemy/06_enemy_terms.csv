@@ -1,0 +1,28 @@
+﻿id,term,src_table
+CatBallAttributeFlagVo.101.expound,可以在戰鬥中主動釋放技能卡牌，技能偏向攻擊型,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.101.title,主動-攻擊,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.102.expound,可以在戰鬥主動釋放技能卡牌，技能偏向防禦型,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.102.title,主動-防禦,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.103.expound,可以在戰鬥主動釋放技能卡牌，技能偏向輔助型,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.103.title,主動-輔助,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.201.expound,在戰鬥中，給所有友方增加攻擊偏向的被動技能效果,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.201.title,被動-攻擊,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.202.expound,在戰鬥中，給所有友方增加防護偏向的被動技能效果,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.202.title,被動-防禦,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.203.expound,在戰鬥中，給所有友方增加輔助偏向的被動技能效果,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.203.title,被動-輔助,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.304.expound,能夠在餐廳帶來收益的特殊類型，不能進入戰鬥,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.304.title,餐廳經營,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallDrawVo.10001.name,猫球扭蛋,MonsterCat/CatBallDrawVo.txt
+ClubBossPassVo.801001.illustrate,1. 當玩家武裝身上的攻擊力降低效果疊加到6層後，爆裂鼓蟹會異常興奮，攻擊力提升30%。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801002.illustrate,1.孤傲劍客有較強的攻擊性，造成傷害時，還會降低玩家武裝的受治療效果。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801003.illustrate,1.寶寶玩偶在攻擊後會獲得能力增強，每擁有1點奧義能量，攻擊力提升10%。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801004.illustrate,1.莫布每次擊破【護盾】效果都可以提升自身10%的 攻擊力，最多可以疊加20層。\n2.莫布第3回合開始時，暴露出破綻，受到的爆擊傷害提升50%。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801005.illustrate,1. 拳擊販賣機獲得忍耐強化，忍耐值提升100%。攻擊時使敵人的受治療效果降低。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801006.illustrate,1.惡意挖掘機獲得防禦強化，自身防禦值提升50%。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801007.illustrate,1.持劍鼠自身能力得到大幅度提升，控制效果對其無效。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801008.illustrate,1.竹牙巨人可以擊穿對方防禦，使敵人防禦力大幅度降低。\n2.竹牙巨人可以強化己身，提升自身30%防禦和30%最終傷害。造成傷害時，將造成大量的破勢傷害。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801012.illustrate,遊戲機自身防禦力大幅提升，每受到一段傷害提升效果降低1層（共50層），當提升效果完全消失時，重置被動，並使遊戲機下一次受到傷害時額外按攻擊者500%攻擊力造成一次【純粹傷害】。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801016.illustrate,遊戲機自身防禦力大幅提升，每受到一段傷害提升效果降低1層（共50層），當提升效果完全消失時，重置被動，並使遊戲機下一次受到傷害時額外按攻擊者500%攻擊力造成一次【純粹傷害】。,Club/ClubBossPassVo.txt
+ClubBossPassVo.801020.illustrate,麥克風蜥蜴的奧義技能會頻繁召喚怪獸助戰，承擔召喚怪獸50%受到的傷害，可以透過攻擊召喚怪獸對首領造成額外傷害,Club/ClubBossPassVo.txt
+ClubBossPassVo.801024.illustrate,麥克風蜥蜴的奧義技能會頻繁召喚怪獸助戰，承擔召喚怪獸50%受到的傷害，可以透過攻擊召喚怪獸對首領造成額外傷害,Club/ClubBossPassVo.txt

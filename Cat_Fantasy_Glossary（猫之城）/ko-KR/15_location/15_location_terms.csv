@@ -1,0 +1,450 @@
+﻿id,term,src_table
+BattleScene.10101.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.10101.address2,일반 거리 - 황혼,Battle/BattleScene.txt
+BattleScene.10301.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.10301.address2,Funny 게임 센터 - 홀,Battle/BattleScene.txt
+BattleScene.10601.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.10601.address2,베이커 가 - 비,Battle/BattleScene.txt
+BattleScene.10701.address1,사우스포트,Battle/BattleScene.txt
+BattleScene.10701.address2,인형 공장,Battle/BattleScene.txt
+BattleScene.10801.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.10801.address2,시부야,Battle/BattleScene.txt
+BattleScene.10901.address1,기능,Battle/BattleScene.txt
+BattleScene.10901.address2,대나무 숲 던전,Battle/BattleScene.txt
+BattleScene.10902.address1,기능,Battle/BattleScene.txt
+BattleScene.10902.address2,대나무 숲 던전,Battle/BattleScene.txt
+BattleScene.11001.address1,대나무 숲 이벤트,Battle/BattleScene.txt
+BattleScene.11001.address2,대나무 숲 던전,Battle/BattleScene.txt
+BattleScene.11101.address1,사우스포트,Battle/BattleScene.txt
+BattleScene.11101.address2,빨간 망토 씬,Battle/BattleScene.txt
+BattleScene.11201.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.11201.address2,신시가지 - 밤,Battle/BattleScene.txt
+BattleScene.11401.address1,노스 타운,Battle/BattleScene.txt
+BattleScene.11401.address2,축구 씬,Battle/BattleScene.txt
+BattleScene.11501.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.11501.address2,상가,Battle/BattleScene.txt
+BattleScene.11599.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.11599.address2,상가,Battle/BattleScene.txt
+BattleScene.11901.address1,기능,Battle/BattleScene.txt
+BattleScene.11901.address2,일반 던전 - 블루,Battle/BattleScene.txt
+BattleScene.12001.address1,기능,Battle/BattleScene.txt
+BattleScene.12001.address2,일반 던전 - 블루,Battle/BattleScene.txt
+BattleScene.12002.address1,기능,Battle/BattleScene.txt
+BattleScene.12002.address2,일반 던전 - 그린,Battle/BattleScene.txt
+BattleScene.12003.address1,기능,Battle/BattleScene.txt
+BattleScene.12003.address2,일반 던전 - 퍼플,Battle/BattleScene.txt
+BattleScene.12004.address1,기능,Battle/BattleScene.txt
+BattleScene.12004.address2,일반 던전 - 레드,Battle/BattleScene.txt
+BattleScene.12005.address1,기능,Battle/BattleScene.txt
+BattleScene.12005.address2,일반 던전 - 옐로우,Battle/BattleScene.txt
+BattleScene.12101.address1,사우스포트,Battle/BattleScene.txt
+BattleScene.12101.address2,엘리의 집 앞 - 밤,Battle/BattleScene.txt
+BattleScene.12201.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.12201.address2,베이커 가 - 비,Battle/BattleScene.txt
+BattleScene.12301.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.12301.address2,이모션 컨트롤 센터 홀,Battle/BattleScene.txt
+BattleScene.12401.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.12401.address2,이모션 컨트롤 센터 홀,Battle/BattleScene.txt
+BattleScene.12601.address1,리즈 시,Battle/BattleScene.txt
+BattleScene.12601.address2,구시가지 거리 - 낮,Battle/BattleScene.txt
+BattleScene.12901.address1,리즈 시,Battle/BattleScene.txt
+BattleScene.12901.address2,교외 유적,Battle/BattleScene.txt
+BattleScene.13001.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.13001.address2,캐스터웨이 섬 거리 - 낮,Battle/BattleScene.txt
+BattleScene.13101.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.13101.address2,캐스터웨이 섬 거리 - 밤,Battle/BattleScene.txt
+BattleScene.13201.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.13201.address2,파괴된 거리,Battle/BattleScene.txt
+BattleScene.13299.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.13299.address2,파괴된 거리,Battle/BattleScene.txt
+BattleScene.13301.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.13301.address2,경매장,Battle/BattleScene.txt
+BattleScene.13401.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.13401.address2,경매장,Battle/BattleScene.txt
+BattleScene.13402.address1,사우스포트,Battle/BattleScene.txt
+BattleScene.13402.address2,무너진 거리,Battle/BattleScene.txt
+BattleScene.13501.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.13501.address2,뮤직 페스티벌 입구,Battle/BattleScene.txt
+BattleScene.13601.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.13601.address2,뮤직 페스티벌 내부,Battle/BattleScene.txt
+BattleScene.13701.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.13701.address2,파괴된 거리,Battle/BattleScene.txt
+BattleScene.13702.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.13702.address2,파괴된 거리,Battle/BattleScene.txt
+BattleScene.13801.address1,퀸즈 타운,Battle/BattleScene.txt
+BattleScene.13801.address2,이모션 컨트롤 센터,Battle/BattleScene.txt
+BattleScene.13901.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.13901.address2,경매장,Battle/BattleScene.txt
+BattleScene.14501.address1,pvp,Battle/BattleScene.txt
+BattleScene.14501.address2,pvp,Battle/BattleScene.txt
+BattleScene.14601.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.14601.address2,백사장,Battle/BattleScene.txt
+BattleScene.14802.address1,신비한 공간,Battle/BattleScene.txt
+BattleScene.14802.address2,작은 숲,Battle/BattleScene.txt
+BattleScene.14901.address1,신비한 공간,Battle/BattleScene.txt
+BattleScene.14901.address2,시공 터널,Battle/BattleScene.txt
+BattleScene.20101.address1,기능,Battle/BattleScene.txt
+BattleScene.20101.address2,이모션 크리스털 공간,Battle/BattleScene.txt
+BattleScene.20201.address1,기능,Battle/BattleScene.txt
+BattleScene.20201.address2,이모션 크리스털 공간,Battle/BattleScene.txt
+BattleScene.20301.address1,기능,Battle/BattleScene.txt
+BattleScene.20301.address2,이모션 크리스털 공간,Battle/BattleScene.txt
+BattleScene.20401.address1,사우스포트,Battle/BattleScene.txt
+BattleScene.20401.address2,엘리 공장의 풍경,Battle/BattleScene.txt
+BattleScene.20501.address1,사우스포트,Battle/BattleScene.txt
+BattleScene.20501.address2,파괴된 공장 지역,Battle/BattleScene.txt
+BattleScene.23701.address1,캐스터웨이 섬,Battle/BattleScene.txt
+BattleScene.23701.address2,경매장,Battle/BattleScene.txt
+BattleScene.30101.address1,기능,Battle/BattleScene.txt
+BattleScene.30101.address2,허수 공간 α,Battle/BattleScene.txt
+BattleScene.30102.address1,기능,Battle/BattleScene.txt
+BattleScene.30102.address2,허수 공간 α 변종,Battle/BattleScene.txt
+BattleScene.30103.address1,기능,Battle/BattleScene.txt
+BattleScene.30103.address2,허수 공간 α 변종,Battle/BattleScene.txt
+BattleScene.30104.address1,기능,Battle/BattleScene.txt
+BattleScene.30104.address2,허수 공간 α 변종,Battle/BattleScene.txt
+BattleScene.30105.address1,기능,Battle/BattleScene.txt
+BattleScene.30105.address2,허수 공간 α 변종,Battle/BattleScene.txt
+BattleScene.30106.address1,기능,Battle/BattleScene.txt
+BattleScene.30106.address2,허수 공간 α 변종,Battle/BattleScene.txt
+BattleScene.30107.address1,기능,Battle/BattleScene.txt
+BattleScene.30107.address2,허수 공간 α 변종,Battle/BattleScene.txt
+BattleScene.30108.address1,기능,Battle/BattleScene.txt
+BattleScene.30108.address2,허수 공간 α 변종,Battle/BattleScene.txt
+BattleScene.30109.address1,기능,Battle/BattleScene.txt
+BattleScene.30109.address2,허수 공간 α 변종,Battle/BattleScene.txt
+BattleScene.30110.address1,기능,Battle/BattleScene.txt
+BattleScene.30110.address2,허수 공간 α 변종,Battle/BattleScene.txt
+BattleScene.30202.address1,기능,Battle/BattleScene.txt
+BattleScene.30202.address2,허수 공간 β 변종,Battle/BattleScene.txt
+BattleScene.30203.address1,기능,Battle/BattleScene.txt
+BattleScene.30203.address2,허수 공간 β 변종,Battle/BattleScene.txt
+BattleScene.30204.address1,기능,Battle/BattleScene.txt
+BattleScene.30204.address2,허수 공간 β 변종,Battle/BattleScene.txt
+BattleScene.30205.address1,기능,Battle/BattleScene.txt
+BattleScene.30205.address2,허수 공간 β 변종,Battle/BattleScene.txt
+BattleScene.30206.address1,기능,Battle/BattleScene.txt
+BattleScene.30206.address2,허수 공간 β 변종,Battle/BattleScene.txt
+BattleScene.30207.address1,기능,Battle/BattleScene.txt
+BattleScene.30207.address2,허수 공간 β 변종,Battle/BattleScene.txt
+BattleScene.30208.address1,기능,Battle/BattleScene.txt
+BattleScene.30208.address2,허수 공간 β 변종,Battle/BattleScene.txt
+BattleScene.30209.address1,기능,Battle/BattleScene.txt
+BattleScene.30209.address2,허수 공간 β 변종,Battle/BattleScene.txt
+BattleScene.30210.address1,기능,Battle/BattleScene.txt
+BattleScene.30210.address2,허수 공간 β 변종,Battle/BattleScene.txt
+BattleScene.30301.address1,기능,Battle/BattleScene.txt
+BattleScene.30301.address2,허수 공간 β 변종,Battle/BattleScene.txt
+ChapterLoadingVo.day.2207年??月??日,2207년 ??월 ??일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月24日,2217년 11월 24일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月25日,2217년 11월 25일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月26日,2217년 11월 26일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月27日,2217년 11월 27일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月30日,2217년 11월 30일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月08日,2217년 12월 8일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月09日,2217년 12월 9일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月10日,2217년 12월 10일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月11日,2217년 12월 11일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月12日,2217년 12월 12일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月5日,2217년 12월 5일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月6日,2217년 12월 6일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年??月?日,2217년 ??월 ??일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.????年??月??日,????년 ??월 ??일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.未知时间,알 수 없음,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.？？？？年？？月？？日,????년 ??월 ??일,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中央大道,중앙대로,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区  情绪干预中心,센트럴 타운 이모션 컨트롤 센터,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区  情绪干预中心会诊室,센트럴 타운 이모션 컨트롤 센터 진찰실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 万叶会 客舍,센트럴 타운 만엽회 객사,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 万叶会 客舍连廊,센트럴 타운 만엽회 객사 복도,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 万叶会 庭院,센트럴 타운 만엽회 정원,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 宴会馆,센트럴 타운 파티홀,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 市政厅走廊 ,센트럴타운 시정부 복도,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 情绪干预中心,센트럴 타운 이모션 컨트롤 센터,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 惊海Live House,센트럴 타운 오션 라이브 하우스,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 暴风眼调查署,센트럴 타운 스톰아이 조사국,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 涂鸦街区,센트럴 타운 그래피티 거리,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 白塔研究院,센트럴 타운 브라이트 타워 연구소,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 百货大楼,센트럴 타운 백화점,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 议事厅前,센트럴 타운 의사당 앞,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 音乐节 ,센트럴 타운 음악 행사,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 音乐节后台,센트럴 타운 음악 축제 백스테이지,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 高级餐厅盥洗室,센트럴 타운 고급 레스토랑 화장실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.五城广场附近街道,펜타폴리스 근처 거리,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.光幕之下,빛의 장막 아래,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 冰穹边境,노스타운 빙궁 변경,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 新边森林,노스 타운 뉴엣지 숲,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 监狱城,노스 타운 감옥 존,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 雪将军广场,노스 타운 제네럴 스노우 프라자,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区,사우스포트,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 偏僻小路,사우스포트 좁은 길,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 克利尔街13号 ,사우스포트 크릴 13번가,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 工业园区,사우스포트 공업단지,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 工厂区街道,사우스포트 공업단지 길,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 废弃工厂,사우스포트 버려진 공장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 弗雷泽尔家中,사우스포트 프레비아 집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 新海电力门口,사우스포트 뉴오션 전력 입구,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 无名小路,사우스포트 이름 모를 길,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 星光福利院,사우스포트 스타라이트 복지 센터,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 白猫侦探社,사우스포트 화이트캣 탐정 사무소,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 白猫侦探社 客厅,사우스포트 화이트캣 탐정 사무소 응접실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 白猫侦探社 走廊,사우스포트 화이트캣 탐정 사무소 복도,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂,사우스포트 베뉴 방직공장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂 厂房门外,사우스포트 베뉴 방직공장 문밖,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂 空地,사우스포트 베뉴 방직공장 공터,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂 老厂房,사우스포트 베뉴 방직공장 옛 공장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂内部,사우스포트 베뉴 방직공장 내부,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂门口,사우스포트 베뉴 방직공장 정문,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 花园街,사우스포트 가든 스트리트,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 街道,사우스포트 길,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 音乐之声,사우스포트 음악의 집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.发布会现场 后台,발표회 현장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.地道,길,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.居酒屋,선술집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 小议事厅,시정부 소의사당,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 议事厅,시정부 청사 의사당,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 议事厅前,시정부 의사당 앞,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 议事厅隔间,시정부 청사와 의사당 사잇길,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 VIP病房,이모션 컨트롤 센터 VIP 병실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 中心花园,이모션 컨트롤 센터 중앙 정원,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 会诊室,이모션 컨트롤 센터 회진실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 前台,이모션 컨트롤 센터 프론트,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 前坪,이모션 컨트롤 센터 잔디밭,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 医生办公室,이모션 컨트롤 센터 의국,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 地下仓库门口,이모션 컨트롤 센터 지하창고 입구,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 大厅,이모션 컨트롤 센터 로비,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 大门,이모션 컨트롤 센터 정문,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 废弃仓库,이모션 컨트롤 센터 폐기된 창고,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 护士长办公室,이모션 컨트롤 센터 수간호사 사무실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 正门,이모션 컨트롤 센터 정문,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 病房,이모션 컨트롤 센터 병실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 监护病房,이모션 컨트롤 센터 보호 병동,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 监控室,이모션 컨트롤 센터 CCTV실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 轻症区,이모션 컨트롤 센터 경증 병동,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 重症3区,이모션 컨트롤 센터 중환자실 3병동,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 重症监护室,이모션 컨트롤 센터 중증 보호실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 院长办公室,이모션 컨트롤 센터 원장 사무실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.新海市,뉴오션 시티,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.新边森林 深处,뉴엣지 숲 깊은 곳,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区,구시가지,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 云灿的家,구시가지 운찬의 집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 光幕的另一边,구시가지 은막의 한 부분,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 关键绪能点古老遗迹,구시가지 메인 이모션 에너지 스팟 고대 유적,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 利兹大道,구시가지 리즈 에비뉴,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 利兹大道附近,구시가지 리즈 에비뉴 근처,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 古老遗迹,구시가지 고대 유적,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 古老遗迹边缘,구시가지 고대 유적 근처,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 某处小巷,구시가지 한 골목,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 猩红庄园周边,구시가지 크림슨 농장 근처,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 珍宝拍卖会通道,구시가지 보석 경매장 통로,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 绪能点乌鸦巷,구시가지 이모션 에너지 스팟 크로우로드,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 五城广场,퀸즈 타운 펜타폴리스,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 便利店,퀸즈 타운 편의점,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 光幕之下,퀸즈 타운 빛의 장막,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 商业街,퀸즈 타운 상점가,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 弗露依亚事务所,퀸즈 타운 프레비아 에이전시,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 特莉丝入职发布会,퀸즈 타운 트리스 입관 발표회,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 福玻斯剧院,퀸즈 타운 포브스 극장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫二楼,퀸즈 타운 베이커캣 2층,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅,퀸즈 타운 베이커캣 카페테리아,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 一楼,퀸즈 타운 베이커캣 카페테리아 1층,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 主卧,퀸즈 타운 베이커캣 카페테리아 메인 침실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 主卧室,퀸즈 타운 베이커캣 카페테리아 메인 침실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 二楼,퀸즈 타운 베이커캣 카페테리아 2층,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 天台,퀸즈 타운 베이커캣 카페테리아 발코니,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅一楼,퀸즈 타운 베이커캣 카페테리아 1층,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅二楼,퀸즈 타운 베이커캣 카페테리아 2층,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅地下室,퀸즈 타운 베이커캣 카페테리아 지하실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅天台,퀸즈 타운 베이커캣 카페테리아 발코니,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克街,퀸즈 타운 베이커 가,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克街 ,퀸즈 타운 베이커가,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 边缘街区,퀸즈 타운 경계 구역,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区民居 儿童房,퀸즈 타운 민가 아이방,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区民居 客厅,퀸즈 타운 민가 거실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区边缘 老街,퀸즈 타운 경계 옛 거리,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼 办公室,스톰아이 사무실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼 走廊,스톰아이 복도,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 保密档案室,스톰아이 본부 비밀문서 보관실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 大门,스톰아이 본부 정문,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 天台,스톰아이 본부 옥상,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 署长办公室,스톰아이 본부 국장 사무실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 豪威尔办公室,스톰아이 본부 하웰 사무실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼调查署 办公室,스톰아이 조사국 사무실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园,체셔 캣 랜드,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 ???,체셔 캣 랜드 ???,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 办公大楼,체셔 캣 랜드 사무실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 大门,체셔 캣 랜드 정문,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 控制室,체셔 캣 랜드 통제실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 摩天轮,체셔 캣 랜드 관람차,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园周边,체셔 캣 랜드 주변,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 内部,라이온캣 체육관 내부,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 后街,라이온캣 체육관 뒷골목,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 正门,라이온캣 체육관 정문,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 舞台前,라이온캣 체육관 스테이지 앞,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 中庭,감옥 존 중정,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 中庭 ,감옥 도시 중정,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 中控走廊,감옥 존 중앙 컨트롤 복도,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 囚牢,감옥 존 감옥,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 物资室,감옥 존 물자 보관실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 三兄弟酒吧,케스터웨이 삼형제 술집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 三途川,케스터웨이 삼도천,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 临海岩洞,케스터웨이 해안 암굴,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 区长办公室,케스터웨이 관리자 사무실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 区长办公楼 前台,케스터웨이 관리자 사무실 센터 프론트,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨,케스터웨이 혜성 키친,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨 二楼休息室,케스터웨이 혜성 키친 2층 휴게실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨 露天餐厅,케스터웨이 혜성 키친 옥외 레스토랑,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨周边,케스터웨이 혜성 키친 주변,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 未知海域,케스터웨이 미지의 해역,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 村长家仓库,케스터웨이 촌장집 창고,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海底通道 升降台,케스터웨이 해저 통로 승강대,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海底遗迹,케스터웨이 해저 유적,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海滨,케스터웨이 오션게이트 바닷가,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村,케스터웨이 오션게이트,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 入口,케스터웨이 오션게이트 입구,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 墓地,케스터웨이 오션게이트 무덤,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 村长家,케스터웨이 오션게이트 촌장집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 海边,케스터웨이 오션게이트 해변,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 荧光森林边缘,케스터웨이 오션게이트 네온 포레스트 변경,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 豪威尔老宅,케스터웨이 오션게이트 하웰의 주택,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村口,케스터웨이 오션게이트 앞,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村墓地,케스터웨이 오션게이트 묘지,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村广场,케스터웨이 오션게이트 광장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门站站台,케스터웨이 오션게이트 승강장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门站附近,케스터웨이 오션게이트역 근처,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门车站,케스터웨이 오션게이트 정거장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门车站内,케스터웨이 오션게이트 역내,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 破旧街区,케스터웨이 오래된 구역,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 私人宅邸,케스터웨이 개인 주택,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 豪威尔老宅,케스터웨이 하웰의 주택,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 车站外街道,케스터웨이 역 바깥 거리,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 酒吧后巷,케스터웨이 술집 뒷골목,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 音乐餐吧,케스터웨이 뮤직 레스토랑,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼嘴巷,케스터웨이 피쉬마우스 골목,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼尾巷,케스터웨이 피쉬테일 골목,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼尾巷 ,케스터웨이 피쉬테일 골목,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市,케스터웨이 어시장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市 三兄弟酒吧,케스터웨이 어시장 삼형제 술집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市 夜之都,케스터웨이 어시장 밤의 도시,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市 酒吧后巷,케스터웨이 어시장 술집 뒷골목,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.织巢纺织厂 门口,베뉴 방직공장 정문,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 东岸艺术中心,요주 타운 동부 아트센터,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 云霞群岛,요주 타운 운하섬,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 揽月楼,요주 타운 남월루,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 摩罗古道,요주 타운 마라고도,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 摩罗古道 私宅,요주 타운 마라고도 사택,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 摩罗古道附近,요주 타운 마라고도 근처,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 文物修复所,요주 타운 유물 복원소,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 朝报院,요주 타운 신문사,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 朱雀大道,요주 타운 주작대로,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 杰克贸易公司,요주 타운 잭 트레이드 컴퍼니,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 梧桐巷,요주 타운 오동 골목,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 海棠坊,요주 타운 해당화 공방,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 珍宝拍卖会,요주 타운 보석 경매장,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 福斯府邸,요주 타운 파우스 저택,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 豪威尔宅,요주 타운 하웰의 집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 豪威尔家,요주 타운 하웰의 집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 通天街,요주 타운 통천가,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 通天街附近区域,요주 타운 통천가 근처,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 闻心茶社,요주 타운 문심찻집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区绪能点 朝报院,요주 타운 이모션 에너지 스팟 신문사,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.肖特朗家 厨房,쇼트랑의 집 주방,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.街道,거리,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅,베이커캣 카페테리아,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 一楼,베이커캣 카페테리아 1층,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 主卧,베이커캣 카페테리아 메인 침실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 主卧室,베이커캣 카페테리아 메인 침실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 二楼,베이커캣 카페테리아 2층,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 会议室,베이커캣 카페테리아 회의실,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 天台,베이커캣 카페테리아 발코니,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 门口,베이커캣 카페테리아 입구,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街,베이커 가,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街 四时花门口,베이커 가 포시즌 플라워 입구,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街的猫 一楼,베이커캣 카페테리아 1층,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街的猫 天台,베이커캣 카페테리아 발코니,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街餐厅 一楼,베이커캣 카페테리아 1층,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街餐厅 天台,베이커캣 카페테리아 발코니,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.音乐之声 肖特朗家,음악의 집 쇼트랑의 집,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.高塔研究院,첨탑 연구원,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.鱼市 金鱼屋,어시장 금붕어 가게,NewChapter/ChapterLoadingVo.txt
+RegionPrimaryMap.1.name,퀸즈 타운,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.1.taskName,퀸즈 타운 조사,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.2.name,사우스포트,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.2.taskName,사우스포트 조사,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.3.name,요주 타운,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.3.taskName,요주 타운 조사,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.4.name,구시가지,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.4.taskName,구시가지 조사,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.5.name,센트럴 타운,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.5.taskName,센트럴 타운 조사,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.6.name,노스 타운,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.6.taskName,노스 타운 조사,Region/RegionPrimaryMap.txt
+RegionSecondaryMap.103.desc,해당 지역에서 [이모션 파티클] 획득 가능,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.103.label,펜타폴리스,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.103.name,[파티클 던전] 펜타폴리스,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.104.desc,해당 지역에서 [전투원 EXP] 획득 가능,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.104.label,지역 1 일반 전투 지점 1,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.104.name,[EXP 던전] 체셔 캣 랜드,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.107.label,지역 1 일반 전투 지점 4,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.107.name,[칩 던전] 네버백 연맹,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.108.label,지역 1 일반 전투 지점 5,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.108.name,[식재료] 베이커 가,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.110.label,지역 1 낚시터 지점,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.110.name,[낚시] 카넬리언 베이,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.117.label,지역 미션,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.117.name,퀸즈 타운 조사,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.203.desc,해당 지역에서 [공격 세트] 획득 가능,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.203.label,폐공장 지대,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.203.name,[장비] 폐공장 지대,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.204.label,지역 2 일반 전투 지점 1,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.204.name,[식재료] 가든 스트리트,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.206.label,지역 2 일반 전투 지점 3,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.206.name,[협력] 사우스 오션 포트,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.210.label,지역 2 낚시터 지점,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.210.name,[낚시] 스피어 저수지,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.217.label,지역 미션,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.217.name,사우스포트 조사,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.303.desc,해당 지역에서 [방어 세트] 획득 가능,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.303.label,통천궁,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.303.name,[장비] 통천궁,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.304.label,지역 3 일반 전투 지점 1,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.304.name,[PVP] 팬텀 특훈장,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.308.label,지역 3 일반 전투 지점 5,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.308.name,[식재료] 맛남의 거리,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.309.label,지역 3 특수 플레이 지점,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.309.name,[PVP] 래더 투기장,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.310.label,지역 3 낚시터 지점,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.310.name,[낚시] 운하 호수,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.317.label,지역 미션,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.317.name,요주 타운 조사,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.403.desc,해당 지역에서 [HP 세트] 획득 가능,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.403.label,악몽 회수역,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.403.name,[장비] 리즈 에비뉴,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.408.label,지역 4 일반 전투 지점 5,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.408.name,[식재료] 크로우로드,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.409.label,지역 4 특수 플레이 지점,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.409.name,[특수] 월드 보스,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.410.label,지역 4 낚시터 지점,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.410.name,[낚시] 마키모리 호수,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.417.label,지역 미션,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.417.name,구시가지 조사,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.503.desc,해당 지역에서 [크리티컬 세트] 획득 가능,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.503.label,브라이트 타워,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.503.name,[장비] 브라이트 타워,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.506.label,지역 5 일반 전투 지점 3,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.506.name,[PVP] 팬텀 투기장,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.508.label,지역 5 일반 전투 지점 5,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.508.name,[식재료] 파티홀,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.510.label,지역 5 낚시터 지점,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.510.name,[낚시] 레이크베이 공원,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.517.label,지역 미션,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.517.name,센트럴 타운 조사,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.603.desc,해당 지역에서 [강인 세트] 획득 가능,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.603.label,제네럴 스노우 프라자,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.603.name,[장비] 제네럴 스노우 프라자,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.607.label,지역 6 일반 전투 지점 4,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.607.name,[식재료] 뉴엣지 숲,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.610.label,지역 6 낚시터 지점,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.610.name,[낚시] 빅터 호텔,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.617.label,지역 미션,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.617.name,노스 타운 조사,Region/RegionSecondaryMap.txt

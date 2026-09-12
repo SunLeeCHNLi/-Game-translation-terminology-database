@@ -1,0 +1,1635 @@
+﻿id,term,src_table
+AttrAddition.1003.attributeName,แม่นยำ,Card/AttrAddition.txt
+AttrAddition.101.attributeName,ATK,Card/AttrAddition.txt
+AttrAddition.102.attributeName,ATK,Card/AttrAddition.txt
+AttrAddition.1103.attributeName,บล็อก,Card/AttrAddition.txt
+AttrAddition.1203.attributeName,อัตราเจาะเกราะ,Card/AttrAddition.txt
+AttrAddition.1303.attributeName,อัตราอดทน,Card/AttrAddition.txt
+AttrAddition.1401.attributeName,ดาเมจพื้นฐาน,Card/AttrAddition.txt
+AttrAddition.1402.attributeName,ลดดาเมจพื้นฐาน,Card/AttrAddition.txt
+AttrAddition.1501.attributeName,ดาเมจ,Card/AttrAddition.txt
+AttrAddition.1502.attributeName,ลดดาเมจ,Card/AttrAddition.txt
+AttrAddition.1601.attributeName,สร้างการฟื้นฟูเพิ่มขึ้น,Card/AttrAddition.txt
+AttrAddition.1602.attributeName,ได้รับการฟื้นฟูเพิ่มขึ้น,Card/AttrAddition.txt
+AttrAddition.1701.attributeName,ดูดเลือด,Card/AttrAddition.txt
+AttrAddition.1901.attributeName,กระจายดาเมจ,Card/AttrAddition.txt
+AttrAddition.2001.attributeName,สะท้อนดาเมจ,Card/AttrAddition.txt
+AttrAddition.2002.attributeName,สะท้อนดาเมจ,Card/AttrAddition.txt
+AttrAddition.201.attributeName,DEF,Card/AttrAddition.txt
+AttrAddition.202.attributeName,DEF,Card/AttrAddition.txt
+AttrAddition.2101.attributeName,สร้างโล่ป้องกันเพิ่มขึ้น,Card/AttrAddition.txt
+AttrAddition.2102.attributeName,ได้รับโล่ป้องกันเพิ่มขึ้น,Card/AttrAddition.txt
+AttrAddition.2201.attributeName,ดาเมจต่อเนื่อง,Card/AttrAddition.txt
+AttrAddition.2202.attributeName,ลดดาเมจต่อเนื่อง,Card/AttrAddition.txt
+AttrAddition.2501.attributeName,เสริมการควบคุม,Card/AttrAddition.txt
+AttrAddition.2502.attributeName,ต่อต้านการควบคุม,Card/AttrAddition.txt
+AttrAddition.2601.attributeName,ปรับคริติคอล,Card/AttrAddition.txt
+AttrAddition.301.attributeName,HP,Card/AttrAddition.txt
+AttrAddition.302.attributeName,HP,Card/AttrAddition.txt
+AttrAddition.401.attributeName,โชค,Card/AttrAddition.txt
+AttrAddition.603.attributeName,อัตราคริติคอล,Card/AttrAddition.txt
+AttrAddition.703.attributeName,ดาเมจคริติคอล,Card/AttrAddition.txt
+AttrAddition.803.attributeName,ต้านทานอัตราคริ,Card/AttrAddition.txt
+AttrAddition.903.attributeName,ต้านทานดาเมจคริ,Card/AttrAddition.txt
+AttrDefines.1.attributeDesc,คุณสมบัติ​พื้นฐาน​สำหรับ​สร้าง​ดา​เม​จ​,Card/AttrDefines.txt
+AttrDefines.1.attributeName,ATK,Card/AttrDefines.txt
+AttrDefines.10.attributeDesc,ความสามารถ​ใน​การ​หลบ​ดา​เม​จ​แม่นยำ​ แต่​ไม่​สามารถ​หลบ​ดา​เม​จ​ทั้งหมด​ได้​,Card/AttrDefines.txt
+AttrDefines.10.attributeName,บล็อก,Card/AttrDefines.txt
+AttrDefines.100.attributeDesc,ค่า HP ปัจจุบัน,Card/AttrDefines.txt
+AttrDefines.100.attributeName,ค่าพลังชีวิตปัจจุบัน,Card/AttrDefines.txt
+AttrDefines.2.attributeDesc,คุณสมบัติ​พื้นฐาน​สำหรับ​ป้องกัน​ดา​เม​จ​,Card/AttrDefines.txt
+AttrDefines.2.attributeName,DEF,Card/AttrDefines.txt
+AttrDefines.20.attributeDesc,เพิ่ม​โอกาส​ได้รับ​การ์ด​สกิล​สอง​ดาว​ระหว่าง​ต่อสู้​,Card/AttrDefines.txt
+AttrDefines.20.attributeName,โชค,Card/AttrDefines.txt
+AttrDefines.201.attributeName,การเปลี่ยนแปลง​ของ​ดา​เม​จ​,Card/AttrDefines.txt
+AttrDefines.202.attributeName,เปราะบาง,Card/AttrDefines.txt
+AttrDefines.206.attributeDesc,เพิ่ม​เอฟเฟกต์​ฟื้นฟู​ที่​ได้รับ​,Card/AttrDefines.txt
+AttrDefines.206.attributeName,ได้รับการฟื้นฟูเพิ่มขึ้น,Card/AttrDefines.txt
+AttrDefines.207.attributeName,การเปลี่ยนแปลง​ของ​ดา​เม​จ​ที่​สร้าง​ได้​,Card/AttrDefines.txt
+AttrDefines.208.attributeName,ดูด​เลือด​ (​ใช้​ค่า​ทศนิยม​ อิง​ตาม​ดา​เม​จ​ที่​ทำได้​จริง​)​,Card/AttrDefines.txt
+AttrDefines.209.attributeDesc,เปลี่ยน​ ATK​ บางส่วน​ ไป​เป็น​ดา​เม​จ​เจาะ​เกราะ​เพิ่มเติม​ โดย​จะ​ไม่​ต่ำกว่า​ 0​,Card/AttrDefines.txt
+AttrDefines.209.attributeName,อัตราเจาะเกราะ,Card/AttrDefines.txt
+AttrDefines.21.attributeDesc,โอกาส​ใน​การป้องกัน​การ​โดน​ดา​เม​จค​ริ​ติ​คอ​ล​,Card/AttrDefines.txt
+AttrDefines.21.attributeName,ต้านทานอัตราคริ,Card/AttrDefines.txt
+AttrDefines.210.attributeDesc,เปลี่ยน​ DEF​ บางส่วน​ ไป​เป็น​ค่า​ป้องกัน​ดา​เม​จ​เจาะ​เกราะ​ โดย​จะ​ไม่​ต่ำกว่า​ 0​,Card/AttrDefines.txt
+AttrDefines.210.attributeName,อัตราอดทน,Card/AttrDefines.txt
+AttrDefines.211.attributeDesc,เพิ่ม​เอฟเฟกต์​ฟื้นฟู​ที่​ทำได้​,Card/AttrDefines.txt
+AttrDefines.211.attributeName,สร้างการฟื้นฟูเพิ่มขึ้น,Card/AttrDefines.txt
+AttrDefines.212.attributeName,ค่ากระจายดาเมจ,Card/AttrDefines.txt
+AttrDefines.213.attributeDesc,พลังงาน​ที่​ต้องการ​ใน​การ​ใช้​สกิล​,Card/AttrDefines.txt
+AttrDefines.213.attributeName,แต้ม sp,Card/AttrDefines.txt
+AttrDefines.214.attributeDesc,เพิ่ม​เอฟเฟ็กต์​โล่​ป้อง​กันที่​ทำได้​,Card/AttrDefines.txt
+AttrDefines.214.attributeName,สร้างโล่ป้องกันเพิ่มขึ้น,Card/AttrDefines.txt
+AttrDefines.215.attributeDesc,เพิ่ม​เอฟเฟกต์​โล่​ป้อง​กันที่​ได้รับ​,Card/AttrDefines.txt
+AttrDefines.215.attributeName,ได้รับโล่ป้องกันเพิ่มขึ้น,Card/AttrDefines.txt
+AttrDefines.216.attributeName,เพิ่มดาเมจต่อเนื่อง,Card/AttrDefines.txt
+AttrDefines.217.attributeName,ลดดาเมจต่อเนื่อง,Card/AttrDefines.txt
+AttrDefines.218.attributeName,โล่​ป้องกัน​ที่เกิด​จาก​ค่า​ฟื้นฟู​ที่​เกิน​มา​,Card/AttrDefines.txt
+AttrDefines.219.attributeName,ดา​เม​จ​ที่เกิด​จาก​ค่า​ฟื้นฟู​ที่​เกิน​มา​,Card/AttrDefines.txt
+AttrDefines.22.attributeDesc,ลด​ดา​เม​จ​ที่​ได้รับ​เมื่อ​โดน​โจมตี​ค​ริ​ติ​คอ​ล​,Card/AttrDefines.txt
+AttrDefines.22.attributeName,ต้านทานดาเมจคริ,Card/AttrDefines.txt
+AttrDefines.220.attributeDesc,เพิ่ม​โอกาส​ใน​การ​ติด​เอฟเฟกต์​ควบคุม​,Card/AttrDefines.txt
+AttrDefines.220.attributeName,เสริมการควบคุม,Card/AttrDefines.txt
+AttrDefines.221.attributeDesc,ลด​โอกาส​ใน​การ​ติด​เอฟเฟกต์​ควบคุม​,Card/AttrDefines.txt
+AttrDefines.221.attributeName,ต่อต้านการควบคุม,Card/AttrDefines.txt
+AttrDefines.222.attributeName,ค่า​การ​ปรับ​ค​ริ​ติ​คอ​ล​ที่​เกิน​มา​,Card/AttrDefines.txt
+AttrDefines.23.attributeDesc,เพิ่มปริมาณ​ดา​เม​จ​สุดท้าย​ที่​สร้าง​,Card/AttrDefines.txt
+AttrDefines.23.attributeName,ดาเมจเพิ่มขึ้น,Card/AttrDefines.txt
+AttrDefines.24.attributeDesc,ป้องกัน​ปริมาณ​ดา​เม​จ​สุดท้าย​ที​ได้รับ​,Card/AttrDefines.txt
+AttrDefines.24.attributeName,ลดดาเมจ,Card/AttrDefines.txt
+AttrDefines.25.attributeName,เพิ่ม​ดา​เม​จ​ของ​สกิล​ (​ภายนอก​)​,Card/AttrDefines.txt
+AttrDefines.26.attributeName,ลด​ดา​เม​จ​จาก​สกิล​ที่​ได้รับ​ (​ภายนอก​)​,Card/AttrDefines.txt
+AttrDefines.27.attributeDesc,เพิ่ม​ดา​เม​จ​ที่เกิด​จาก​สกิล​,Card/AttrDefines.txt
+AttrDefines.27.attributeName,เพิ่มดาเมจพื้นฐาน,Card/AttrDefines.txt
+AttrDefines.28.attributeDesc,ลด​ดา​เม​จ​จาก​สกิล​ของ​ฝ่ายตรงข้าม​,Card/AttrDefines.txt
+AttrDefines.28.attributeName,ลดดาเมจพื้นฐาน,Card/AttrDefines.txt
+AttrDefines.29.attributeDesc,เปลี่ยน​ ATK​ บางส่วน​ ไป​เป็น​ค่า​พื้นฐาน​ของ​ดา​เม​จ​เจาะ​เกราะ​,Card/AttrDefines.txt
+AttrDefines.29.attributeName,เจาะเกราะ,Card/AttrDefines.txt
+AttrDefines.3.attributeDesc,คุณสมบัติ​พื้นฐาน​สำหรับ​รับ​ดา​เม​จ​,Card/AttrDefines.txt
+AttrDefines.3.attributeName,HP,Card/AttrDefines.txt
+AttrDefines.30.attributeDesc,เปลี่ยน​ DEF​ บางส่วน​ ไป​เป็น​ค่า​พื้นฐาน​สำหรับ​ป้องกัน​ดา​เม​จ​เจาะ​เกราะ​,Card/AttrDefines.txt
+AttrDefines.30.attributeName,รับ,Card/AttrDefines.txt
+AttrDefines.32.attributeDesc,ค่า​พื้นฐาน​ของ​การ​ลด​ดา​เม​จ​เมื่อ​โด​นค​ริ​ติ​คอ​ล​,Card/AttrDefines.txt
+AttrDefines.32.attributeName,ต้านทานดาเมจคริ,Card/AttrDefines.txt
+AttrDefines.35.attributeDesc,ค่า​โอกาส​พื้นฐาน​ใน​การ​สร้าง​ดา​เม​จค​ริ​ติ​คอ​ล​,Card/AttrDefines.txt
+AttrDefines.35.attributeName,คริติคอล,Card/AttrDefines.txt
+AttrDefines.36.attributeDesc,ค่า​ดา​เม​จ​พื้นฐาน​ของ​การ​โจมตี​เมื่อ​สร้าง​ดา​เม​จค​ริ​ติ​คอ​ล​,Card/AttrDefines.txt
+AttrDefines.36.attributeName,ดาเมจคริ,Card/AttrDefines.txt
+AttrDefines.37.attributeDesc,ค่า​โอกาส​พื้นฐาน​ของ​การ​สร้าง​ดา​เม​จ​โดน​ จาก​การ​โจมตี​,Card/AttrDefines.txt
+AttrDefines.37.attributeName,แม่นยำ,Card/AttrDefines.txt
+AttrDefines.40.attributeDesc,ความสามารถ​ใน​การ​หลบ​ดา​เม​จ​แม่นยำ​ แต่​ยัง​โดน​ดา​เม​จ​พื้นฐาน​อยู่ดี​,Card/AttrDefines.txt
+AttrDefines.40.attributeName,บล็อก,Card/AttrDefines.txt
+AttrDefines.41.attributeDesc,ค่า​โอกาส​พื้นฐาน​ใน​การป้องกัน​การ​โดน​ดา​เม​จค​ริ​ติ​คอ​ล​,Card/AttrDefines.txt
+AttrDefines.41.attributeName,ต้านทานคริติคอล,Card/AttrDefines.txt
+AttrDefines.5.attributeDesc,โอกาส​ใน​การ​สร้าง​ดา​เม​จค​ริ​ติ​คอ​ล​,Card/AttrDefines.txt
+AttrDefines.5.attributeName,อัตราคริติคอล,Card/AttrDefines.txt
+AttrDefines.6.attributeDesc,ค่า​ดา​เม​จ​ของ​การ​โจมตี​เมื่อ​สร้าง​ดา​เม​จค​ริ​ติ​คอ​ล​,Card/AttrDefines.txt
+AttrDefines.6.attributeName,ดาเมจคริติคอล,Card/AttrDefines.txt
+AttrDefines.7.attributeDesc,ค่า​โอกาส​ของ​การ​สร้าง​ดา​เม​จ​โดน​ จาก​สกิล​,Card/AttrDefines.txt
+AttrDefines.7.attributeName,แม่นยำ,Card/AttrDefines.txt
+AttributeColor.1.name,พาโธสสีแดง,Card/AttributeColor.txt
+AttributeColor.1.restrain,ชนะ​ทาง​พา​โธส​สี​เขียว​ ดา​เม​จ​เพิ่มขึ้น​ 30%​ ถูก​พา​โธส​สีน้ำเงิน​ชนะ​ทาง​ ดา​เม​จล​ดล​ง​ 25%​,Card/AttributeColor.txt
+AttributeColor.2.name,พาโธสสีเขียว,Card/AttributeColor.txt
+AttributeColor.2.restrain,ชนะ​ทาง​พา​โธส​สีน้ำเงิน​ ดา​เม​จ​เพิ่มขึ้น​ 30%​ ถูก​พา​โธส​สีแดง​ชนะ​ทาง​ ดา​เม​จล​ดล​ง​ 25%​,Card/AttributeColor.txt
+AttributeColor.3.name,พาโธสสีน้ำเงิน,Card/AttributeColor.txt
+AttributeColor.3.restrain,ชนะ​ทาง​พา​โธส​สีแดง​ ดา​เม​จ​เพิ่มขึ้น​ 30%​ ถูก​พา​โธส​สี​เขียว​ชนะ​ทาง​ ดา​เม​จล​ดล​ง​ 25%​,Card/AttributeColor.txt
+AttributeColor.4.desc,พา​โธ​สขา​วจะ​สร้าง​ดา​เม​จ​แก่​พา​โธส​สีแดง​ เขียว​ น้ำเงิน​ และ​ดำ​เพิ่มขึ้น​ 10%​ และ​ได้รับ​ดา​เม​จล​ดล​ง​ 10%​,Card/AttributeColor.txt
+AttributeColor.4.name,พาโธสขาว,Card/AttributeColor.txt
+AttributeColor.4.restrain,พา​โธ​สขา​วจะ​สร้าง​ดา​เม​จ​แก่​พา​โธส​อื่นๆ​ ทั้ง​ 4​ ชนิด​เพิ่มขึ้น​ 10%​ และ​ได้รับ​ดา​เม​จล​ดล​ง​ 10%​,Card/AttributeColor.txt
+AttributeColor.5.name,พาโธสดำ,Card/AttributeColor.txt
+AttributeColor.5.restrain,พา​โธ​สดำ​จะ​สร้าง​ดา​เม​จ​แก่​พา​โธส​อื่นๆ​ ทั้ง​ 4​ ชนิด​เพิ่มขึ้น​ 20%​,Card/AttributeColor.txt
+CheckInBonusVo.1.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.10.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.100.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.101.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.102.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.103.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.104.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.105.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.106.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.107.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.108.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.109.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.11.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.110.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.111.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.112.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.113.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.114.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.115.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.116.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.117.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.118.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.119.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.12.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.120.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.121.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.122.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.123.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.124.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.125.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.126.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.127.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.128.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.129.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.13.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.130.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.131.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.132.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.133.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.134.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.135.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.136.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.137.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.138.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.139.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.14.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.140.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.141.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.142.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.143.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.144.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.145.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.146.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.147.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.148.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.149.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.15.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.150.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.151.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.152.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.153.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.154.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.155.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.156.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.157.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.158.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.159.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.16.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.160.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.161.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.162.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.163.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.164.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.165.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.166.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.167.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.168.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.169.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.17.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.170.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.171.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.172.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.173.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.174.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.175.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.176.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.177.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.178.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.179.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.18.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.180.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.181.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.182.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.183.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.184.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.185.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.186.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.187.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.188.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.189.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.19.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.190.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.191.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.192.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.193.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.194.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.195.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.196.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.197.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.198.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.199.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.2.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.20.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.200.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.201.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.202.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.203.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.204.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.205.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.206.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.207.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.208.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.209.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.21.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.210.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.22.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.23.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.24.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.25.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.26.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.27.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.28.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.29.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.3.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.30.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.31.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.32.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.33.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.34.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.35.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.36.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.37.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.38.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.39.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.4.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.40.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.41.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.42.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.43.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.44.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.45.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.46.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.47.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.48.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.49.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.5.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.50.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.51.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.52.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.53.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.54.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.55.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.56.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.57.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.58.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.59.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.6.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.60.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.61.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.62.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.63.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.64.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.65.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.66.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.67.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.68.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.69.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.7.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.70.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.71.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.72.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.73.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.74.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.75.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.76.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.77.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.78.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.79.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.8.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.80.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.81.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.82.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.83.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.84.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.85.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.86.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.87.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.88.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.89.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.9.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.90.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.91.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.92.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.93.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.94.des,"ATK​ <color=""#00fffc"">+%d</color>;​ DEF​ <color=""#00fffc"">+%d</color>;​ HP​ <color=""#00fffc"">+%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.95.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.96.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.97.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.98.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.99.des,"ค่า​คุณสมบัติ​ที่​บันทึก​เพิ่มขึ้น​เป็น​<color=""#00fffc"">%d</color>​",GlobalAttr/CheckIn/CheckInBonusVo.txt
+ElementNames.1.desc,ดาเมจ +30%,Common/ElementNames.txt
+ElementNames.1.desc1,ดาเมจ -25%,Common/ElementNames.txt
+ElementNames.1.mark,ธาตุสีแดง,Common/ElementNames.txt
+ElementNames.1.name,อนุภาค R,Common/ElementNames.txt
+ElementNames.2.mark,ธาตุสีเขียว,Common/ElementNames.txt
+ElementNames.2.name,อนุภาค G,Common/ElementNames.txt
+ElementNames.3.mark,ธาตุสีน้ำเงิน,Common/ElementNames.txt
+ElementNames.3.name,อนุภาค B,Common/ElementNames.txt
+ElementNames.4.desc,ดาเมจ+10%,Common/ElementNames.txt
+ElementNames.4.desc1,ได้รับดาเมจ -10%,Common/ElementNames.txt
+ElementNames.4.mark,ธาตุแสง,Common/ElementNames.txt
+ElementNames.4.name,อนุภาค L,Common/ElementNames.txt
+ElementNames.5.desc,ดาเมจ +20%,Common/ElementNames.txt
+ElementNames.5.mark,ธาตุมืด,Common/ElementNames.txt
+ElementNames.5.name,อนุภาค D,Common/ElementNames.txt
+QuestUpBuff.10000001.desc,ATK +20,Common/QuestUpBuff.txt
+QuestUpBuff.10000001.name,ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000002.desc,DEF +30,Common/QuestUpBuff.txt
+QuestUpBuff.10000002.name,DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000003.desc,HP +150,Common/QuestUpBuff.txt
+QuestUpBuff.10000003.name,HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000004.desc,อัตราคริติคอล +4.5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000004.name,อัตราคริติคอลเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000005.desc,ดาเมจคริติคอล +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000005.name,ดาเมจคริติคอลเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000006.desc,ต้านทานอัตราคริ +4.5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000006.name,ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.10000007.desc,ต้านทานดาเมจคริ +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000007.name,ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.10000008.desc,อัตราเจาะเกราะ +4.5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000008.name,อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.10000009.desc,อัตราอดทน +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000009.name,อัตราอดทนเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000010.desc,สร้าง​การฟื้นฟู​เพิ่มขึ้น​ +8%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000010.name,สร้างการฟื้นฟูเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000011.desc,ได้รับ​การฟื้นฟู​เพิ่มขึ้น​ +8%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000011.name,ได้รับการฟื้นฟูเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000012.desc,สร้างโล่ป้องกันเพิ่มขึ้น +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000012.name,สร้างโล่ป้องกันเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000013.desc,ได้รับโล่ป้องกันเพิ่มขึ้น +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000013.name,ได้รับโล่ป้องกันเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000014.desc,ATK +50,Common/QuestUpBuff.txt
+QuestUpBuff.10000014.name,ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000015.desc,DEF +60,Common/QuestUpBuff.txt
+QuestUpBuff.10000015.name,DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000016.desc,HP +200,Common/QuestUpBuff.txt
+QuestUpBuff.10000016.name,HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000017.desc,อัตราคริติคอล +5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000017.name,อัตราคริติคอลเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000018.desc,ดาเมจคริติคอล+10%,Common/QuestUpBuff.txt
+QuestUpBuff.10000018.name,ดาเมจคริติคอลเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000019.desc,ต้านทานอัตราคริ +5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000019.name,ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.10000020.desc,ต้านทานดาเมจคริ +10%,Common/QuestUpBuff.txt
+QuestUpBuff.10000020.name,ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.10000021.desc,อัตราเจาะเกราะ +5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000021.name,อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.10000022.desc,อัตราอดทน +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000022.name,อัตราอดทนเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000023.desc,เพิ่ม​เอฟเฟกต์​ฟื้นฟู​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000023.name,สร้างการฟื้นฟูเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000024.desc,ได้รับ​เอฟเฟกต์​ฟื้นฟู​เพิ่มขึ้น​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000024.name,ได้รับการฟื้นฟูเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000025.desc,สร้าง​โล่​ป้องกัน​เพิ่มขึ้น​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000025.name,สร้างโล่ป้องกันเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000026.desc,ได้รับ​โล่​ป้องกัน​เพิ่มขึ้น​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000026.name,ได้รับโล่ป้องกันเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000027.desc,ATK +6%,Common/QuestUpBuff.txt
+QuestUpBuff.10000027.name,ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000028.desc,DEF +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000028.name,DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000029.desc,HP +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000029.name,HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000030.desc,อัตราคริติคอล+7%,Common/QuestUpBuff.txt
+QuestUpBuff.10000030.name,อัตราคริติคอลเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000031.desc,ดาเมจคริติคอล+15%,Common/QuestUpBuff.txt
+QuestUpBuff.10000031.name,ดาเมจคริติคอลเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000032.desc,ต้านทานอัตราคริ +7%,Common/QuestUpBuff.txt
+QuestUpBuff.10000032.name,ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.10000033.desc,ต้านทานดาเมจคริ +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10000033.name,ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.10000034.desc,อัตราเจาะเกราะ +7%,Common/QuestUpBuff.txt
+QuestUpBuff.10000034.name,อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.10000035.desc,อัตราอดทน +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000035.name,อัตราอดทนเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000036.desc,สร้าง​การฟื้นฟู​เพิ่มขึ้น​ +11%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000036.name,สร้างการฟื้นฟูเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000037.desc,ได้รับ​การฟื้นฟู​เพิ่มขึ้น​ +11%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000037.name,ได้รับการฟื้นฟูเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000038.desc,สร้าง​โล่​ป้องกัน​เพิ่มขึ้น​ +11%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000038.name,สร้างโล่ป้องกันเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10000039.desc,ได้รับ​โล่​ป้องกัน​เพิ่มขึ้น​ +11%​,Common/QuestUpBuff.txt
+QuestUpBuff.10000039.name,ได้รับโล่ป้องกันเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.10001.desc,ATK +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10001.name,โบนัสพิเศษ,Common/QuestUpBuff.txt
+QuestUpBuff.10002.desc,ดาเมจคริติคอล +35%,Common/QuestUpBuff.txt
+QuestUpBuff.10002.name,โบนัสพิเศษ,Common/QuestUpBuff.txt
+QuestUpBuff.10003.desc,อัตราคริติคอล +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10003.name,โบนัสพิเศษ,Common/QuestUpBuff.txt
+QuestUpBuff.10004.desc,HP +30%,Common/QuestUpBuff.txt
+QuestUpBuff.10004.name,โบนัสพิเศษ,Common/QuestUpBuff.txt
+QuestUpBuff.10005.desc,อัตราเจาะเกราะ +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10005.name,โบนัสพิเศษ,Common/QuestUpBuff.txt
+QuestUpBuff.120601011.desc,"ATK​ พื้นฐาน​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601011.name,บัตรนักเรียน,Common/QuestUpBuff.txt
+QuestUpBuff.120601012.desc,"ATK​ พื้นฐาน​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601012.name,บัตรนักเรียน,Common/QuestUpBuff.txt
+QuestUpBuff.120601013.desc,"ATK​ พื้นฐาน​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601013.name,บัตรนักเรียน,Common/QuestUpBuff.txt
+QuestUpBuff.120601014.desc,"ATK​ พื้นฐาน​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601014.name,บัตรนักเรียน,Common/QuestUpBuff.txt
+QuestUpBuff.120601015.desc,"ATK​ พื้นฐาน​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601015.name,บัตรนักเรียน,Common/QuestUpBuff.txt
+QuestUpBuff.120601016.desc,"ATK​ พื้นฐาน​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601016.name,บัตรนักเรียน,Common/QuestUpBuff.txt
+QuestUpBuff.120601021.desc,"DEF​ พื้นฐาน​ +20%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601021.name,ถ้วยชา,Common/QuestUpBuff.txt
+QuestUpBuff.120601022.desc,"DEF​ พื้นฐาน​ +30%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601022.name,ถ้วยชา,Common/QuestUpBuff.txt
+QuestUpBuff.120601023.desc,"DEF​ พื้นฐาน​ +40%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601023.name,ถ้วยชา,Common/QuestUpBuff.txt
+QuestUpBuff.120601024.desc,"DEF​ พื้นฐาน​ +50%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601024.name,ถ้วยชา,Common/QuestUpBuff.txt
+QuestUpBuff.120601025.desc,"DEF​ พื้นฐาน​ +60%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601025.name,ถ้วยชา,Common/QuestUpBuff.txt
+QuestUpBuff.120601026.desc,"DEF​ พื้นฐาน​ +80%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601026.name,ถ้วยชา,Common/QuestUpBuff.txt
+QuestUpBuff.120601031.desc,"HP​ พื้นฐาน​ +20%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601031.name,สมุดบันทึก,Common/QuestUpBuff.txt
+QuestUpBuff.120601032.desc,"HP​ พื้นฐาน​ +30%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601032.name,สมุดบันทึก,Common/QuestUpBuff.txt
+QuestUpBuff.120601033.desc,"HP​ พื้นฐาน​ +40%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601033.name,สมุดบันทึก,Common/QuestUpBuff.txt
+QuestUpBuff.120601034.desc,"HP​ พื้นฐาน​ +50%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601034.name,สมุดบันทึก,Common/QuestUpBuff.txt
+QuestUpBuff.120601035.desc,"HP​ พื้นฐาน​ +60%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601035.name,สมุดบันทึก,Common/QuestUpBuff.txt
+QuestUpBuff.120601036.desc,"HP​ พื้นฐาน​ +80%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601036.name,สมุดบันทึก,Common/QuestUpBuff.txt
+QuestUpBuff.120601041.desc,"ATK​ พื้นฐาน​ +200,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601041.name,เค้ก,Common/QuestUpBuff.txt
+QuestUpBuff.120601042.desc,"ATK​ พื้นฐาน​ +420,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601042.name,เค้ก,Common/QuestUpBuff.txt
+QuestUpBuff.120601043.desc,"ATK​ พื้นฐาน​ +640,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601043.name,เค้ก,Common/QuestUpBuff.txt
+QuestUpBuff.120601044.desc,"ATK​ พื้นฐาน​ +860,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601044.name,เค้ก,Common/QuestUpBuff.txt
+QuestUpBuff.120601045.desc,"ATK​ พื้นฐาน​ +1,080,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601045.name,เค้ก,Common/QuestUpBuff.txt
+QuestUpBuff.120601046.desc,"ATK​ พื้นฐาน​ +1,500,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601046.name,เค้ก,Common/QuestUpBuff.txt
+QuestUpBuff.120601051.desc,"DEF​ พื้นฐาน​ +300,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601051.name,แมวพาโธซิส,Common/QuestUpBuff.txt
+QuestUpBuff.120601052.desc,"DEF​ พื้นฐาน​ +550,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601052.name,แมวพาโธซิส,Common/QuestUpBuff.txt
+QuestUpBuff.120601053.desc,"DEF​ พื้นฐาน​ +800,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601053.name,แมวพาโธซิส,Common/QuestUpBuff.txt
+QuestUpBuff.120601054.desc,"DEF​ พื้นฐาน​ +1,050,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601054.name,แมวพาโธซิส,Common/QuestUpBuff.txt
+QuestUpBuff.120601055.desc,"DEF​ พื้นฐาน​ +1,300,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601055.name,แมวพาโธซิส,Common/QuestUpBuff.txt
+QuestUpBuff.120601056.desc,"DEF​ พื้นฐาน​ +1,800,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601056.name,แมวพาโธซิส,Common/QuestUpBuff.txt
+QuestUpBuff.120601061.desc,"อัตรา​การเจาะ​ +10%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601061.name,หนังสือพิมพ์,Common/QuestUpBuff.txt
+QuestUpBuff.120601062.desc,"อัตรา​การเจาะ​ +18%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601062.name,หนังสือพิมพ์,Common/QuestUpBuff.txt
+QuestUpBuff.120601063.desc,"อัตรา​การเจาะ​ +26%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601063.name,หนังสือพิมพ์,Common/QuestUpBuff.txt
+QuestUpBuff.120601064.desc,"อัตรา​การเจาะ​ +35%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601064.name,หนังสือพิมพ์,Common/QuestUpBuff.txt
+QuestUpBuff.120601065.desc,"อัตรา​การเจาะ​ +43%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601065.name,หนังสือพิมพ์,Common/QuestUpBuff.txt
+QuestUpBuff.120601066.desc,"อัตรา​การเจาะ​ +60%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601066.name,หนังสือพิมพ์,Common/QuestUpBuff.txt
+QuestUpBuff.120601071.desc,"อัตรา​อดทน​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601071.name,เอกสารที่ถูกทิ้ง,Common/QuestUpBuff.txt
+QuestUpBuff.120601072.desc,"อัตรา​อดทน​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601072.name,เอกสารที่ถูกทิ้ง,Common/QuestUpBuff.txt
+QuestUpBuff.120601073.desc,"อัตรา​อดทน​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601073.name,เอกสารที่ถูกทิ้ง,Common/QuestUpBuff.txt
+QuestUpBuff.120601074.desc,"อัตรา​อดทน​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601074.name,เอกสารที่ถูกทิ้ง,Common/QuestUpBuff.txt
+QuestUpBuff.120601075.desc,"อัตรา​อดทน​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601075.name,เอกสารที่ถูกทิ้ง,Common/QuestUpBuff.txt
+QuestUpBuff.120601076.desc,"อัตรา​อดทน​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601076.name,เอกสารที่ถูกทิ้ง,Common/QuestUpBuff.txt
+QuestUpBuff.120601081.desc,"อัต​ราค​ริ​ติ​คอ​ล​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601081.name,ป้ายแขวน,Common/QuestUpBuff.txt
+QuestUpBuff.120601082.desc,"อัต​ราค​ริ​ติ​คอ​ล​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601082.name,ป้ายแขวน,Common/QuestUpBuff.txt
+QuestUpBuff.120601083.desc,"อัต​ราค​ริ​ติ​คอ​ล​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601083.name,ป้ายแขวน,Common/QuestUpBuff.txt
+QuestUpBuff.120601084.desc,"อัต​ราค​ริ​ติ​คอ​ล​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601084.name,ป้ายแขวน,Common/QuestUpBuff.txt
+QuestUpBuff.120601085.desc,"อัต​ราค​ริ​ติ​คอ​ล​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601085.name,ป้ายแขวน,Common/QuestUpBuff.txt
+QuestUpBuff.120601086.desc,"อัต​ราค​ริ​ติ​คอ​ล​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601086.name,ป้ายแขวน,Common/QuestUpBuff.txt
+QuestUpBuff.120601091.desc,"ดา​เม​จค​ริ​ติ​คอ​ล​ +20%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601091.name,กล่องกระดาษ,Common/QuestUpBuff.txt
+QuestUpBuff.120601092.desc,"ดา​เม​จค​ริ​ติ​คอ​ล​ +31%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601092.name,กล่องกระดาษ,Common/QuestUpBuff.txt
+QuestUpBuff.120601093.desc,"ดา​เม​จค​ริ​ติ​คอ​ล​ +43%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601093.name,กล่องกระดาษ,Common/QuestUpBuff.txt
+QuestUpBuff.120601094.desc,"ดา​เม​จค​ริ​ติ​คอ​ล​ +55%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601094.name,กล่องกระดาษ,Common/QuestUpBuff.txt
+QuestUpBuff.120601095.desc,"ดา​เม​จค​ริ​ติ​คอ​ล​ +66%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601095.name,กล่องกระดาษ,Common/QuestUpBuff.txt
+QuestUpBuff.120601096.desc,"ดา​เม​จค​ริ​ติ​คอ​ล​ +90%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601096.name,กล่องกระดาษ,Common/QuestUpBuff.txt
+QuestUpBuff.120601101.desc,"สร้าง​ดา​เม​จ​จริง​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601101.name,ภาพวาดที่มีชื่อเสียง,Common/QuestUpBuff.txt
+QuestUpBuff.120601102.desc,"สร้าง​ดา​เม​จ​จริง​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601102.name,ภาพวาดที่มีชื่อเสียง,Common/QuestUpBuff.txt
+QuestUpBuff.120601103.desc,"สร้าง​ดา​เม​จ​จริง​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601103.name,ภาพวาดที่มีชื่อเสียง,Common/QuestUpBuff.txt
+QuestUpBuff.120601104.desc,"สร้าง​ดา​เม​จ​จริง​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601104.name,ภาพวาดที่มีชื่อเสียง,Common/QuestUpBuff.txt
+QuestUpBuff.120601105.desc,"สร้าง​ดา​เม​จ​จริง​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601105.name,ภาพวาดที่มีชื่อเสียง,Common/QuestUpBuff.txt
+QuestUpBuff.120601106.desc,"สร้าง​ดา​เม​จ​จริง​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601106.name,ภาพวาดที่มีชื่อเสียง,Common/QuestUpBuff.txt
+QuestUpBuff.120601111.desc,"สร้าง​ดา​เม​จ​เจาะ​เกราะ​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601111.name,ใบไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601112.desc,"สร้าง​ดา​เม​จ​เจาะ​เกราะ​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601112.name,ใบไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601113.desc,"ดา​เม​จ​การเจาะ​ที่​สร้าง​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601113.name,ใบไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601114.desc,"สร้าง​ดา​เม​จ​เจาะ​เกราะ​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601114.name,ใบไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601115.desc,"สร้าง​ดา​เม​จ​เจาะ​เกราะ​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601115.name,ใบไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601116.desc,"สร้าง​ดา​เม​จ​เจาะ​เกราะ​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601116.name,ใบไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601121.desc,"สร้าง​ดา​เม​จ​ทะลวง​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601121.name,หมอน,Common/QuestUpBuff.txt
+QuestUpBuff.120601122.desc,"สร้าง​ดา​เม​จ​ทะลวง​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601122.name,หมอน,Common/QuestUpBuff.txt
+QuestUpBuff.120601123.desc,"สร้าง​ดา​เม​จ​ทะลวง​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601123.name,หมอน,Common/QuestUpBuff.txt
+QuestUpBuff.120601124.desc,"สร้าง​ดา​เม​จ​ทะลวง​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601124.name,หมอน,Common/QuestUpBuff.txt
+QuestUpBuff.120601125.desc,"สร้าง​ดา​เม​จ​ทะลวง​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601125.name,หมอน,Common/QuestUpBuff.txt
+QuestUpBuff.120601126.desc,"สร้าง​ดา​เม​จ​ทะลวง​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601126.name,หมอน,Common/QuestUpBuff.txt
+QuestUpBuff.120601131.desc,"สร้าง​ดา​เม​จบ​ด​ขยี้​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601131.name,กระจกที่แตกหัก,Common/QuestUpBuff.txt
+QuestUpBuff.120601132.desc,"สร้าง​ดา​เม​จบ​ด​ขยี้​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601132.name,กระจกที่แตกหัก,Common/QuestUpBuff.txt
+QuestUpBuff.120601133.desc,"สร้าง​ดา​เม​จบ​ด​ขยี้​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601133.name,กระจกที่แตกหัก,Common/QuestUpBuff.txt
+QuestUpBuff.120601134.desc,"สร้าง​ดา​เม​จบ​ด​ขยี้​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601134.name,กระจกที่แตกหัก,Common/QuestUpBuff.txt
+QuestUpBuff.120601135.desc,"สร้าง​ดา​เม​จบ​ด​ขยี้​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601135.name,กระจกที่แตกหัก,Common/QuestUpBuff.txt
+QuestUpBuff.120601136.desc,"สร้าง​ดา​เม​จบ​ด​ขยี้​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601136.name,กระจกที่แตกหัก,Common/QuestUpBuff.txt
+QuestUpBuff.120601141.desc,"สร้าง​ดา​เม​จ​ฉีก​กระชาก​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601141.name,แล็ปท็อป,Common/QuestUpBuff.txt
+QuestUpBuff.120601142.desc,"สร้าง​ดา​เม​จ​ฉีก​กระชาก​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601142.name,แล็ปท็อป,Common/QuestUpBuff.txt
+QuestUpBuff.120601143.desc,"สร้าง​ดา​เม​จ​ฉีก​กระชาก​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601143.name,แล็ปท็อป,Common/QuestUpBuff.txt
+QuestUpBuff.120601144.desc,"สร้าง​ดา​เม​จ​ฉีก​กระชาก​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601144.name,แล็ปท็อป,Common/QuestUpBuff.txt
+QuestUpBuff.120601145.desc,"สร้าง​ดา​เม​จ​ฉีก​กระชาก​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601145.name,แล็ปท็อป,Common/QuestUpBuff.txt
+QuestUpBuff.120601146.desc,"สร้าง​ดา​เม​จ​ฉีก​กระชาก​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601146.name,แล็ปท็อป,Common/QuestUpBuff.txt
+QuestUpBuff.120601151.desc,"สร้าง​ดา​เม​จ​ทำลายล้าง​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601151.name,ภาพครอบครัว,Common/QuestUpBuff.txt
+QuestUpBuff.120601152.desc,"สร้าง​ดา​เม​จ​ทำลายล้าง​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601152.name,ภาพครอบครัว,Common/QuestUpBuff.txt
+QuestUpBuff.120601153.desc,"สร้าง​ดา​เม​จ​ทำลายล้าง​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601153.name,ภาพครอบครัว,Common/QuestUpBuff.txt
+QuestUpBuff.120601154.desc,"สร้าง​ดา​เม​จ​ทำลายล้าง​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601154.name,ภาพครอบครัว,Common/QuestUpBuff.txt
+QuestUpBuff.120601155.desc,"สร้าง​ดา​เม​จ​ทำลายล้าง​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601155.name,ภาพครอบครัว,Common/QuestUpBuff.txt
+QuestUpBuff.120601156.desc,"สร้าง​ดา​เม​จ​ทำลายล้าง​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601156.name,ภาพครอบครัว,Common/QuestUpBuff.txt
+QuestUpBuff.120601161.desc,"สร้าง​ดา​เม​จ​สุดท้าย​ +10%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601161.name,โซฟา,Common/QuestUpBuff.txt
+QuestUpBuff.120601162.desc,"สร้าง​ดา​เม​จ​สุดท้าย​ +18%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601162.name,โซฟา,Common/QuestUpBuff.txt
+QuestUpBuff.120601163.desc,"สร้าง​ดา​เม​จ​สุดท้าย​ +26%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601163.name,โซฟา,Common/QuestUpBuff.txt
+QuestUpBuff.120601164.desc,"สร้าง​ดา​เม​จ​สุดท้าย​ +35%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601164.name,โซฟา,Common/QuestUpBuff.txt
+QuestUpBuff.120601165.desc,"สร้าง​ดา​เม​จ​สุดท้าย​ +43%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601165.name,โซฟา,Common/QuestUpBuff.txt
+QuestUpBuff.120601166.desc,"สร้าง​ดา​เม​จ​สุดท้าย​ +60%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601166.name,โซฟา,Common/QuestUpBuff.txt
+QuestUpBuff.120601171.desc,"ลด​ดา​เม​จ​สุดท้าย​ +10%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601171.name,หุ่นยนต์,Common/QuestUpBuff.txt
+QuestUpBuff.120601172.desc,"ลด​ดา​เม​จ​สุดท้าย​ +18%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601172.name,หุ่นยนต์,Common/QuestUpBuff.txt
+QuestUpBuff.120601173.desc,"ลด​ดา​เม​จ​สุดท้าย​ +26%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601173.name,หุ่นยนต์,Common/QuestUpBuff.txt
+QuestUpBuff.120601174.desc,"ลด​ดา​เม​จ​สุดท้าย​ +35%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601174.name,หุ่นยนต์,Common/QuestUpBuff.txt
+QuestUpBuff.120601175.desc,"ลด​ดา​เม​จ​สุดท้าย​ +43%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601175.name,หุ่นยนต์,Common/QuestUpBuff.txt
+QuestUpBuff.120601176.desc,"ลด​ดา​เม​จ​สุดท้าย​ +60%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601176.name,หุ่นยนต์,Common/QuestUpBuff.txt
+QuestUpBuff.120601181.desc,"สร้าง​ดา​เม​จ​ต่อเนื่อง​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601181.name,รถเข็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601182.desc,"สร้าง​ดา​เม​จ​ต่อเนื่อง​ +24%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601182.name,รถเข็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601183.desc,"สร้าง​ดา​เม​จ​ต่อเนื่อง​ +33%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601183.name,รถเข็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601184.desc,"สร้าง​ดา​เม​จ​ต่อเนื่อง​ +42%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601184.name,รถเข็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601185.desc,"สร้าง​ดา​เม​จ​ต่อเนื่อง​ +51%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601185.name,รถเข็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601186.desc,"สร้าง​ดา​เม​จ​ต่อเนื่อง​ +70%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601186.name,รถเข็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601191.desc,"ดูด​เลือด​ +20%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601191.name,ปฏิทิน,Common/QuestUpBuff.txt
+QuestUpBuff.120601192.desc,"ดูด​เลือด​ +30%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601192.name,ปฏิทิน,Common/QuestUpBuff.txt
+QuestUpBuff.120601193.desc,"ดูด​เลือด​ +40%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601193.name,ปฏิทิน,Common/QuestUpBuff.txt
+QuestUpBuff.120601194.desc,"ดูด​เลือด​ +50%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601194.name,ปฏิทิน,Common/QuestUpBuff.txt
+QuestUpBuff.120601195.desc,"ดูด​เลือด​ +60%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601195.name,ปฏิทิน,Common/QuestUpBuff.txt
+QuestUpBuff.120601196.desc,"ดูด​เลือด​ +80%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601196.name,ปฏิทิน,Common/QuestUpBuff.txt
+QuestUpBuff.120601201.desc,"เอฟเฟกต์​ฟื้นฟู​ที่​สร้าง​ +10%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601201.name,ถังขยะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601202.desc,"เอฟเฟกต์​ฟื้นฟู​ที่​สร้าง​ +18%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601202.name,ถังขยะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601203.desc,"เอฟเฟกต์​ฟื้นฟู​ที่​สร้าง​ +26%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601203.name,ถังขยะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601204.desc,"เอฟเฟกต์​ฟื้นฟู​ที่​สร้าง​ +35%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601204.name,ถังขยะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601205.desc,"เอฟเฟกต์​ฟื้นฟู​ที่​สร้าง​ +43%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601205.name,ถังขยะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601206.desc,"เอฟเฟกต์​ฟื้นฟู​ที่​สร้าง​ +60%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601206.name,ถังขยะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601211.desc,"เอฟเฟกต์​โล่​ป้อง​กันที่​สร้าง​ +10%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601211.name,โคมไฟ,Common/QuestUpBuff.txt
+QuestUpBuff.120601212.desc,"เอฟเฟกต์​โล่​ป้อง​กันที่​สร้าง​ +18%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601212.name,โคมไฟ,Common/QuestUpBuff.txt
+QuestUpBuff.120601213.desc,"เอฟเฟกต์​โล่​ป้อง​กันที่​สร้าง​ +26%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601213.name,โคมไฟ,Common/QuestUpBuff.txt
+QuestUpBuff.120601214.desc,"เอฟเฟกต์​โล่​ป้อง​กันที่​สร้าง​ +35%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601214.name,โคมไฟ,Common/QuestUpBuff.txt
+QuestUpBuff.120601215.desc,"เอฟเฟกต์​โล่​ป้อง​กันที่​สร้าง​ +43%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601215.name,โคมไฟ,Common/QuestUpBuff.txt
+QuestUpBuff.120601216.desc,"เอฟเฟกต์​โล่​ป้อง​กันที่​สร้าง​ +60%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601216.name,โคมไฟ,Common/QuestUpBuff.txt
+QuestUpBuff.120601221.desc,"โชค​ +15%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601221.name,ต้นไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601222.desc,"โชค​ +22%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601222.name,ต้นไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601223.desc,"โชค​ +30%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601223.name,ต้นไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601224.desc,"โชค​ +37%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601224.name,ต้นไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601225.desc,"โชค​ +45%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601225.name,ต้นไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601226.desc,"โชค​ +60%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601226.name,ต้นไม้,Common/QuestUpBuff.txt
+QuestUpBuff.120601231.desc,"ใน​เทิร์น​แรก​สร้าง​ดา​เม​จ​เพียว​ 5%​ ของ​ MaxHP​ แก่​ศัตรู​ทั้งหมด​,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601231.name,ต้นฉบับมังงะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601232.desc,"ใน​เทิร์น​แรก​สร้าง​ดา​เม​จ​เพียว​ 10%​ ของ​ MaxHP​ แก่​ศัตรู​ทั้งหมด​,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601232.name,ต้นฉบับมังงะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601233.desc,"ใน​เทิร์น​แรก​สร้าง​ดา​เม​จ​เพียว​ 16%​ ของ​ MaxHP​ แก่​ศัตรู​ทั้งหมด​,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601233.name,ต้นฉบับมังงะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601234.desc,"ใน​เทิร์น​แรก​สร้าง​ดา​เม​จ​เพียว​ 23%​ ของ​ MaxHP​ แก่​ศัตรู​ทั้งหมด​,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601234.name,ต้นฉบับมังงะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601235.desc,"ใน​เทิร์น​แรก​สร้าง​ดา​เม​จ​เพียว​ 31%​ ของ​ MaxHP​ แก่​ศัตรู​ทั้งหมด​,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601235.name,ต้นฉบับมังงะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601236.desc,"ใน​เทิร์น​แรก​สร้าง​ดา​เม​จ​เพียว​ 40%​ ของ​ MaxHP​ แก่​ศัตรู​ทั้งหมด​,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601236.name,ต้นฉบับมังงะ,Common/QuestUpBuff.txt
+QuestUpBuff.120601241.desc,"เมื่อ​เริ่ม​เทิร์น​ที่​ 4​ จะ​ได้รับ​ SP​ 1​ แต้ม​,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601241.name,ต้นฉบับ,Common/QuestUpBuff.txt
+QuestUpBuff.120601242.desc,"เมื่อ​เริ่ม​เทิร์น​ที่​ 3​ จะ​ได้รับ​ SP​ 1​ แต้ม​,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601242.name,ต้นฉบับ,Common/QuestUpBuff.txt
+QuestUpBuff.120601243.desc,"เมื่อ​เริ่ม​เทิร์น​ที่​ 2​ จะ​ได้รับ​ SP​ 1​ แต้ม​,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601243.name,ต้นฉบับ,Common/QuestUpBuff.txt
+QuestUpBuff.120601244.desc,"เมื่อ​เริ่ม​เทิร์น​ที่​ 1​ จะ​ได้รับ​ SP​ 1​ แต้ม​,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601244.name,ต้นฉบับ,Common/QuestUpBuff.txt
+QuestUpBuff.120601245.desc,"เมื่อ​เริ่ม​เทิร์น​ที่​ 1​ จะ​ได้รับ​ SP​ 2​ แต้ม​,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601245.name,ต้นฉบับ,Common/QuestUpBuff.txt
+QuestUpBuff.120601246.desc,"เมื่อ​เริ่ม​เทิร์น​ที่​ 1​ จะ​ได้รับ​ SP​ 3​ แต้ม​,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601246.name,ต้นฉบับ,Common/QuestUpBuff.txt
+QuestUpBuff.120601251.desc,"ตัว​ละครใน​ทีม​ไนต์​แค​ท​จะ​สร้าง​ดา​เม​จ​เพิ่มขึ้น​ +20%,​ CP​ ใน​การต่อสู้​ +1,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601251.name,มังงะโชเน็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601252.desc,"ตัว​ละครใน​ทีม​ไนต์​แค​ท​จะ​สร้าง​ดา​เม​จ​เพิ่มขึ้น​ +33%,​ CP​ ใน​การต่อสู้​ +2,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601252.name,มังงะโชเน็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601253.desc,"ตัว​ละครใน​ทีม​ไนต์​แค​ท​จะ​สร้าง​ดา​เม​จ​เพิ่มขึ้น​ +46%,​ CP​ ใน​การต่อสู้​ +3,600​",Common/QuestUpBuff.txt
+QuestUpBuff.120601253.name,มังงะโชเน็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601254.desc,"ตัว​ละครใน​ทีม​ไนต์​แค​ท​จะ​สร้าง​ดา​เม​จ​เพิ่มขึ้น​ +60%,​ CP​ ใน​การต่อสู้​ +5,000​",Common/QuestUpBuff.txt
+QuestUpBuff.120601254.name,มังงะโชเน็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601255.desc,"ตัว​ละครใน​ทีม​ไนต์​แค​ท​จะ​สร้าง​ดา​เม​จ​เพิ่มขึ้น​ +73%,​ CP​ ใน​การต่อสู้​ +6,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601255.name,มังงะโชเน็น,Common/QuestUpBuff.txt
+QuestUpBuff.120601256.desc,"ตัว​ละครใน​ทีม​ไนต์​แค​ท​จะ​สร้าง​ดา​เม​จ​เพิ่มขึ้น​ +100%,​ CP​ ใน​การต่อสู้​ +8,400​",Common/QuestUpBuff.txt
+QuestUpBuff.120601256.name,มังงะโชเน็น,Common/QuestUpBuff.txt
+QuestUpBuff.40001.desc,เพิ่ม​ ATK​ ให้​เพื่อน​ร่วม​ทีม​ทุกคน​ 10%​,Common/QuestUpBuff.txt
+QuestUpBuff.40001.name,ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.40002.desc,เพิ่ม​เอฟเฟกต์​ของ​โล่​ป้อง​กันที่​เพื่อน​ร่วม​ทีม​ได้รับ​ขึ้น​ 100%​,Common/QuestUpBuff.txt
+QuestUpBuff.40002.name,ได้รับโล่ป้องกันเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.40005.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​เพื่อน​ร่วม​ทีม​ทุกคน​ 30%​,Common/QuestUpBuff.txt
+QuestUpBuff.40005.name,อัตราคริติคอลเพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.40006.desc,ทุก​การสังหาร​เป้าหมาย​หนึ่ง​คน​จะ​ฟื้นฟู​ SP​ 1​ แต้ม​,Common/QuestUpBuff.txt
+QuestUpBuff.40006.name,ฟื้นฟูเมื่อสังหาร,Common/QuestUpBuff.txt
+QuestUpBuff.41000001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +1.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000001.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000002.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000003.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000004.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +6.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000005.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000006.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +8.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000007.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000008.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000009.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000010.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41000011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ ATK​ ขึ้น​ +13.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41000011.name,สีแดง-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +1.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100001.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100002.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100003.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100004.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +6.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100005.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100006.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +8.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100007.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100008.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100009.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100010.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41100011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ ATK​ ขึ้น​ +13.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41100011.name,สีเขียว-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +1.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200001.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200002.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200003.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200004.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +6.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200005.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200006.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +8.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200007.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200008.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200009.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200010.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41200011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ ATK​ ขึ้น​ +13.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41200011.name,สีน้ำเงิน-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300001.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +1%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300001.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300002.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300002.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300003.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +3%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300003.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300004.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300004.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300005.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +5%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300005.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300006.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300006.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300007.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +7%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300007.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300008.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300008.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300009.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300009.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300010.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +10%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300010.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41300011.desc,เพิ่ม​ ATK​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +11%​,Common/QuestUpBuff.txt
+QuestUpBuff.41300011.name,ทั้งหมด-ATK เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400001.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400002.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400003.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400004.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400005.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400006.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400007.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400008.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400009.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400010.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41400011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ DEF​ ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41400011.name,สีแดง-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500001.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500002.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500003.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500004.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500005.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500006.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500007.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500008.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500009.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500010.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41500011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ DEF​ ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41500011.name,สีเขียว-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41600001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600001.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600002.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600003.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600004.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600005.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600006.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600007.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600008.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600009.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600010.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41600011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ DEF​ ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41600011.name,สำ​น้ำเงิน​-​DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.41700001.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700001.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700002.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700002.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700003.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700003.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700004.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700004.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700005.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +10%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700005.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700006.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +12%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700006.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700007.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +14%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700007.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700008.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +16%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700008.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700009.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700009.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700010.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +20%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700010.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41700011.desc,เพิ่ม​ DEF​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +22%​,Common/QuestUpBuff.txt
+QuestUpBuff.41700011.name,ทั้งหมด-DEF เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +1.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800001.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800002.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800003.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800004.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +6.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800005.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800006.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +8.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800007.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800008.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800009.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800010.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41800011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +13.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41800011.name,สีแดง-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +1.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900001.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900002.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ HP​ ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900003.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900004.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +6.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900005.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900006.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +8.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900007.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900008.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900009.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900010.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.41900011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ HP​ ขึ้น​ +13.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.41900011.name,สีเขียว-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +1.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000001.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000002.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000003.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000004.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +6.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000005.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000006.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +8.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000007.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000008.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000009.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000010.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42000011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ HP​ ขึ้น​ +13.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42000011.name,สีน้ำเงิน-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100001.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +1%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100001.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100002.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100002.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100003.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +3%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100003.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100004.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100004.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100005.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +5%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100005.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100006.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100006.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100007.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +7%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100007.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100008.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100008.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100009.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100009.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100010.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +10%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100010.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42100011.desc,เพิ่ม​ HP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +11%​,Common/QuestUpBuff.txt
+QuestUpBuff.42100011.name,ทั้งหมด-HP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.42200001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200001.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200002.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200003.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200004.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200005.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200006.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200007.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200008.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200009.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200010.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42200011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42200011.name,สีแดง​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300001.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300002.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300003.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300004.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300005.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300006.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300007.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300008.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300009.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300010.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42300011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42300011.name,สี​เขียว​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400001.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400002.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400003.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400004.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400005.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400006.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400007.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400008.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400009.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400010.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42400011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42400011.name,สีน้ำเงิน​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500001.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500001.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500002.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500002.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500003.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500003.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500004.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500004.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500005.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +10%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500005.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500006.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +12%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500006.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500007.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +14%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500007.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500008.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +16%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500008.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500009.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500009.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500010.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +20%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500010.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42500011.desc,เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +22%​,Common/QuestUpBuff.txt
+QuestUpBuff.42500011.name,ทั้งหมด​-​อัต​ราค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600001.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600002.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัต​ราค​ริ​ติ​คอ​ล​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600003.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600004.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600005.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600006.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600007.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600008.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600009.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600010.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42600011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42600011.name,สีแดง​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700001.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700002.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700003.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700004.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700005.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700006.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700007.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700008.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700009.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700010.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42700011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42700011.name,สี​เขียว​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800001.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800002.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800003.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800004.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800005.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800006.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800007.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800008.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800009.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800010.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42800011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42800011.name,สีน้ำเงิน​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900001.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +2%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900001.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900002.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +4%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900002.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900003.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900003.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900004.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +8%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900004.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900005.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +10%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900005.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900006.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +12%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900006.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900007.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +14%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900007.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900008.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +16%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900008.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900009.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900009.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900010.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +20%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900010.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.42900011.desc,เพิ่ม​ดา​เม​จค​ริ​ติ​คอ​ล​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +22%​,Common/QuestUpBuff.txt
+QuestUpBuff.42900011.name,ทั้งหมด​-​ดา​เม​จค​ริ​ติ​คอ​ล​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000001.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000002.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000003.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000004.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +18.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000005.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000006.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +25.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000007.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +28.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000008.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +32.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000009.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +36.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000010.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43000011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +39.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43000011.name,สีแดง​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100001.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100002.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100003.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100004.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +18.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100005.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100006.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +25.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100007.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +28.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100008.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +32.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100009.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +36.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100010.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43100011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +39.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43100011.name,สี​เขียว​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200001.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200002.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200003.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200004.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +18.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200005.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200006.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +25.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200007.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +28.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200008.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +32.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200009.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +36.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200010.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43200011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​อัต​ราค​ริ​ขึ้น​ +39.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43200011.name,สีน้ำเงิน​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300001.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +3%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300001.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300002.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300002.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300003.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300003.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300004.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +12%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300004.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300005.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +15%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300005.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300006.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300006.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300007.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +21%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300007.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300008.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +24%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300008.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300009.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +27%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300009.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300010.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +30%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300010.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43300011.desc,เพิ่ม​ต้านทาน​อัต​ราค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +33%​,Common/QuestUpBuff.txt
+QuestUpBuff.43300011.name,ทั้งหมด​-​ต้านทาน​อัต​ราค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400001.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400002.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400003.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400004.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400005.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400006.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +25.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400007.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +28.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400008.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +32.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400009.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +36%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400010.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43400011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +39.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43400011.name,สีแดง​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500001.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500002.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500003.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500004.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500005.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500006.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +25.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500007.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +28.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500008.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +32.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500009.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +36%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500010.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43500011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +39.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43500011.name,สี​เขียว​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600001.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600002.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600003.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600004.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600005.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600006.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +25.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600007.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +28.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600008.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +32.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600009.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +36%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600010.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43600011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ขึ้น​ +39.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43600011.name,สีน้ำเงิน​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700001.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +3%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700001.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700002.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700002.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700003.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700003.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700004.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +12%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700004.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700005.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +15%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700005.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700006.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700006.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700007.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +21%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700007.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700008.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +24%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700008.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700009.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +27%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700009.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700010.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +30%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700010.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43700011.desc,เพิ่ม​ต้านทาน​ดา​เม​จค​ริ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +33%​,Common/QuestUpBuff.txt
+QuestUpBuff.43700011.name,ทั้งหมด​-​ต้านทาน​ดา​เม​จค​ริ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800001.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800002.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800003.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800004.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800005.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800006.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800007.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800008.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800009.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800010.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43800011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43800011.name,สีแดง​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900001.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900002.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900003.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900004.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900005.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900006.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900007.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900008.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900009.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900010.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.43900011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.43900011.name,สี​เขียว​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000001.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000002.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000003.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +9.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000004.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +12.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000005.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000006.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +16.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000007.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +19.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000008.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000009.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +24.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000010.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44000011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​เจาะ​เกราะ​ขึ้น​ +26.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44000011.name,สี​ฟ้า​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100001.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100001.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100002.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100002.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100003.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100003.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100004.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100004.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100005.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +10%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100005.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100006.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +12%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100006.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100007.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +14%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100007.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100008.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +16%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100008.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100009.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100009.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100010.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +20%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100010.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44100011.desc,เพิ่ม​อัตรา​เจาะ​เกราะ​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +22%​,Common/QuestUpBuff.txt
+QuestUpBuff.44100011.name,ทั้งหมด​-​อัตรา​เจาะ​เกราะ​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200001.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200002.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200003.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200004.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +18.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200005.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200006.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +25.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200007.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +28.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200008.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +32.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200009.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +36.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200010.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44200011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ R​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +39.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44200011.name,สีแดง​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300001.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300002.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300003.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300004.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +18.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300005.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300006.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +25.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300007.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +28.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300008.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +32.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300009.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +36.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300010.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44300011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ G​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +39.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44300011.name,สี​เขียว​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400001.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400001.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400002.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +7.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400002.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400003.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +10.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400003.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400004.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +14.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400004.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400005.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +18.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400005.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400006.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +21.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400006.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400007.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +25.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400007.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400008.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +28.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400008.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400009.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +32.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400009.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400010.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +36.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400010.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44400011.desc,ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ที่​มี​อนุภาค​ B​ จะ​เพิ่ม​อัตรา​อดทน​ขึ้น​ +39.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44400011.name,สีน้ำเงิน​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500001.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +3%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500001.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500002.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500002.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500003.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500003.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500004.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +12%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500004.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500005.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +15%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500005.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500006.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +18%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500006.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500007.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +21%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500007.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500008.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +24%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500008.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500009.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +27%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500009.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500010.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +30%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500010.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44500011.desc,เพิ่ม​อัตรา​อดทน​ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +33%​,Common/QuestUpBuff.txt
+QuestUpBuff.44500011.name,ทั้งหมด​-​อัตรา​อดทน​เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44600001.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +1%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600001.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600002.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600002.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600003.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +3%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600003.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600004.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600004.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600005.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +5%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600005.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600006.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600006.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600007.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +7%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600007.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600008.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600008.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600009.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +9%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600009.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600010.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +10%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600010.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44600011.desc,เพิ่ม​ CP​ ให้​ตัวละคร​ฝ่าย​เรา​ทั้งหมด​ +11%​,Common/QuestUpBuff.txt
+QuestUpBuff.44600011.name,ทั้งหมด-CP เพิ่มขึ้น,Common/QuestUpBuff.txt
+QuestUpBuff.44700001.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 0.3%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700001.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700002.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 0.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700002.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700003.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 0.9%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700003.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700004.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 1.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700004.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700005.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 1.5%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700005.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700006.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 1.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700006.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700007.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 2.1%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700007.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700008.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700008.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700009.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 2.7%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700009.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700010.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 3.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700010.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44700011.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ ATK​ ขึ้น​ 3.3%​,Common/QuestUpBuff.txt
+QuestUpBuff.44700011.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ ATK​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800001.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 0.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800001.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800002.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 1.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800002.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800003.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 1.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800003.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800004.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800004.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800005.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 3.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800005.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800006.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 3.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800006.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800007.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 4.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800007.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800008.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 4.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800008.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800009.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 5.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800009.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800010.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 6.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800010.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44800011.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ DEF​ ขึ้น​ 6.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44800011.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ DEF​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900001.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 0.3%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900001.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900002.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 0.6%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900002.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900003.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 0.9%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900003.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900004.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 1.2%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900004.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900005.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 1.5%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900005.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900006.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 1.8%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900006.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900007.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 2.1%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900007.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900008.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 2.4%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900008.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900009.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 2.7%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900009.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900010.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 3.0%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900010.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.44900011.desc,เมื่อ​เริ่ม​การต่อสู้​ฝ่าย​เรา​ทั้งหมด​จะ​ได้รับ​ SP​ 1​ แต้ม​ และ​เพิ่ม​ HP​ ขึ้น​ 3.3%​,Common/QuestUpBuff.txt
+QuestUpBuff.44900011.name,ทั้งหมด​-​เพิ่ม​ 1​ SP​ +​ HP​ เพิ่มขึ้น​,Common/QuestUpBuff.txt
+QuestUpBuff.7100152.desc,ATK HP ทั้งทีม +15%,Common/QuestUpBuff.txt
+QuestUpBuff.7100152.name,เสริมพลัง 0★,Common/QuestUpBuff.txt
+QuestUpBuff.7100153.desc,ATK HP ทั้งทีม +20%,Common/QuestUpBuff.txt
+QuestUpBuff.7100153.name,เสริมพลัง 1★,Common/QuestUpBuff.txt
+QuestUpBuff.7100154.desc,ATK HP ทั้งทีม +24%,Common/QuestUpBuff.txt
+QuestUpBuff.7100154.name,เสริมพลัง 2★,Common/QuestUpBuff.txt
+QuestUpBuff.7100155.desc,ATK HP ทั้งทีม +27%,Common/QuestUpBuff.txt
+QuestUpBuff.7100155.name,เสริมพลัง 3★,Common/QuestUpBuff.txt
+QuestUpBuff.7100156.desc,ATK HP ทั้งทีม +30%,Common/QuestUpBuff.txt
+QuestUpBuff.7100156.name,เสริมพลัง 4★,Common/QuestUpBuff.txt
+QuestUpBuff.7100157.desc,ATK HP ทั้งทีม +33%,Common/QuestUpBuff.txt
+QuestUpBuff.7100157.name,เสริมพลัง 5★,Common/QuestUpBuff.txt
+QuestUpBuff.7100158.desc,ATK HP ทั้งทีม +35%,Common/QuestUpBuff.txt
+QuestUpBuff.7100158.name,เสริมพลัง 6★,Common/QuestUpBuff.txt

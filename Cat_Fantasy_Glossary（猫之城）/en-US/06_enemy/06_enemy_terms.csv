@@ -1,0 +1,28 @@
+﻿id,term,src_table
+CatBallAttributeFlagVo.101.expound,An offensive-type skill that actively uses skills in battle.,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.101.title,Active - ATK,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.102.expound,A defensive-type skill that actively uses skills in battle.,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.102.title,Active - DEF,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.103.expound,Actively uses skills in battle. A support-type Catto.,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.103.title,Active - Support,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.201.expound,A passive skill effect that grants offensive-type benefits to all allies.,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.201.title,Passive - ATK,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.202.expound,A passive skill effect that grants defensive-type benefits to all allies.,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.202.title,Passive - DEF,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.203.expound,A passive skill effect that grants support-type benefits to all allies.,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.203.title,Passive - Support,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.304.expound,A special type that generates revenue for the cafe. Cannot participate in battles.,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallAttributeFlagVo.304.title,Cafe Management,MonsterCat/CatBallAttributeFlagVo.txt
+CatBallDrawVo.10001.name,Cato Gacha,MonsterCat/CatBallDrawVo.txt
+ClubBossPassVo.801001.illustrate,"1. When your Combatant's ATK Decrease debuff reaches 6 stacks, the Drummer Crab enters a frenzied state, increasing its ATK by 30%.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801002.illustrate,"1. The Solitary Swordsman is a fierce offensive creature. When it attacks, it not only deals damage but also weakens the healing effects on your Combatants.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801003.illustrate,"1. The Baby Doll gains enhanced stats after each attack, receiving a 10% ATK boost for each SP it possesses.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801004.illustrate,"1. Each time Mobu breaks through a shield, increases its ATK by 10%, stacking up to 20 times. \n2. Starting from the 3rd turn, Mobu exposes a weakness, causing it to take a 50% increased CRIT DMG.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801005.illustrate,"1. The Boxing Vending Machine gains Endurance Enhancement, increasing its Endurance by 100%. It also reduces the healing effect on enemies when attacking.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801006.illustrate,"1. The Vicious Excavator gains a significant Defense Boost, increasing its DEF by 50%.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801007.illustrate,1. The Saberclaw Mouse boasts vastly improved abilities and is immune to control effects.,Club/ClubBossPassVo.txt
+ClubBossPassVo.801008.illustrate,"1. Bamboo Tooth can pierce through enemy defenses, significantly reducing their DEF. \n2. Bamboo Tooth can fortify itself, increasing its DEF and Final DMG by 30%. Additionally, it inflicts substantial Fierce DMG.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801012.illustrate,"The Arcade has a substantial DEF Boost. For each instance of damage it takes, the Boost effect is reduced by 1 stack (up to a maximum of 50 stacks). Once the Boost effect is fully depleted, its Passive resets, causing it to take an additional [Pure DMG] at 500% of the attacker's ATK the next time it is attacked.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801016.illustrate,"The Arcade has a substantial DEF Boost. For each instance of damage it takes, the Boost effect is reduced by 1 stack (up to a maximum of 50 stacks). Once the Boost effect is fully depleted, its Passive resets, causing it to take an additional [Pure DMG] at 500% of the attacker's ATK the next time it is attacked.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801020.illustrate,"The MIC Lizard regularly summons assisting monsters with its Ultimate, absorbing 50% of the damage these summoned creatures receive. You can attack the summoned monsters to deal additional damage to the boss.",Club/ClubBossPassVo.txt
+ClubBossPassVo.801024.illustrate,"The MIC Lizard regularly summons assisting monsters with its Ultimate, absorbing 50% of the damage these summoned creatures receive. You can attack the summoned monsters to deal additional damage to the boss.",Club/ClubBossPassVo.txt

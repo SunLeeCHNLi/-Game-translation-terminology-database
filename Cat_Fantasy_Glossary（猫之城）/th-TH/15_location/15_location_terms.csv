@@ -1,0 +1,450 @@
+﻿id,term,src_table
+BattleScene.10101.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.10101.address2,ถนนทั่วไป - พลบค่ำ,Battle/BattleScene.txt
+BattleScene.10301.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.10301.address2,ศูนย์​เกม​อาร์​เคด​ Funny​ -​ ล็อบบี้​,Battle/BattleScene.txt
+BattleScene.10601.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.10601.address2,ถนนเบเกอร์ - ฝนตก,Battle/BattleScene.txt
+BattleScene.10701.address1,เขตทะเลใต้,Battle/BattleScene.txt
+BattleScene.10701.address2,โรงงานตุ๊กตา,Battle/BattleScene.txt
+BattleScene.10801.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.10801.address2,ชิบูย่า,Battle/BattleScene.txt
+BattleScene.10901.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.10901.address2,ดันเจี้ยนป่าไผ่,Battle/BattleScene.txt
+BattleScene.10902.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.10902.address2,ดันเจี้ยนป่าไผ่,Battle/BattleScene.txt
+BattleScene.11001.address1,กิจกรรมป่าไผ่,Battle/BattleScene.txt
+BattleScene.11001.address2,ดันเจี้ยนป่าไผ่,Battle/BattleScene.txt
+BattleScene.11101.address1,เขตทะเลใต้,Battle/BattleScene.txt
+BattleScene.11101.address2,ฉากหนูน้อยหมวกแดง,Battle/BattleScene.txt
+BattleScene.11201.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.11201.address2,ถนนสายใหม่ - กลางคืน,Battle/BattleScene.txt
+BattleScene.11401.address1,เขตโบเรียร่า,Battle/BattleScene.txt
+BattleScene.11401.address2,ฉากสนามฟุตบอล,Battle/BattleScene.txt
+BattleScene.11501.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.11501.address2,ถนนการค้า,Battle/BattleScene.txt
+BattleScene.11599.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.11599.address2,ถนนการค้า,Battle/BattleScene.txt
+BattleScene.11901.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.11901.address2,ดัน​เจี้ยน​เฉพาะทาง​ -​ สีน้ำเงิน​,Battle/BattleScene.txt
+BattleScene.12001.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.12001.address2,ดัน​เจี้ยน​เฉพาะทาง​ -​ สีน้ำเงิน​,Battle/BattleScene.txt
+BattleScene.12002.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.12002.address2,ดัน​เจี้ยน​เฉพาะทาง​ -​ สี​เขียว​,Battle/BattleScene.txt
+BattleScene.12003.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.12003.address2,ดัน​เจี้ยน​เฉพาะทาง​-​ สีม่วง​,Battle/BattleScene.txt
+BattleScene.12004.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.12004.address2,ดัน​เจี้ยน​เฉพาะทาง​ -​ สีแดง​,Battle/BattleScene.txt
+BattleScene.12005.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.12005.address2,ดัน​เจี้ยน​เฉพาะทาง​ -​ สีเหลือง​,Battle/BattleScene.txt
+BattleScene.12101.address1,เขตทะเลใต้,Battle/BattleScene.txt
+BattleScene.12101.address2,นอก​ประตู​บ้าน​เอ​ล​ลี่​ -​ กลางคืน​,Battle/BattleScene.txt
+BattleScene.12201.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.12201.address2,ถนนเบเกอร์ - ฝนตก,Battle/BattleScene.txt
+BattleScene.12301.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.12301.address2,ห้องโถง​ ศูนย์​เยียวยา​พา​โธ​ซิ​ส​,Battle/BattleScene.txt
+BattleScene.12401.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.12401.address2,ห้องโถง​ ศูนย์​เยียวยา​พา​โธ​ซิ​ส​,Battle/BattleScene.txt
+BattleScene.12601.address1,เมืองลิซ,Battle/BattleScene.txt
+BattleScene.12601.address2,ถนน​เขตเมือง​โบราณ​-​กลางวัน​,Battle/BattleScene.txt
+BattleScene.12901.address1,เมืองลิซ,Battle/BattleScene.txt
+BattleScene.12901.address2,ซากปรักหักพังชานเมือง,Battle/BattleScene.txt
+BattleScene.13001.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.13001.address2,ถนน​หลัก​เกาะ​นอก​ชายฝั่ง​-​ กลางวัน​,Battle/BattleScene.txt
+BattleScene.13101.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.13101.address2,ถนน​หลัก​เกาะ​นอก​ชายฝั่ง​ -​ กลางคืน​,Battle/BattleScene.txt
+BattleScene.13201.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.13201.address2,ถนนหลักที่ทรุดโทรม,Battle/BattleScene.txt
+BattleScene.13299.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.13299.address2,ถนนหลักที่ทรุดโทรม,Battle/BattleScene.txt
+BattleScene.13301.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.13301.address2,โรงประมูล,Battle/BattleScene.txt
+BattleScene.13401.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.13401.address2,โรงประมูล,Battle/BattleScene.txt
+BattleScene.13402.address1,เขตทะเลใต้,Battle/BattleScene.txt
+BattleScene.13402.address2,ถนนริมขอบฝั่ง,Battle/BattleScene.txt
+BattleScene.13501.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.13501.address2,ทางเข้าเทศกาลดนตรี,Battle/BattleScene.txt
+BattleScene.13601.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.13601.address2,ภายในเทศกาลดนตรี,Battle/BattleScene.txt
+BattleScene.13701.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.13701.address2,ถนนที่ทรุดโทรม,Battle/BattleScene.txt
+BattleScene.13702.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.13702.address2,ถนนที่ทรุดโทรม,Battle/BattleScene.txt
+BattleScene.13801.address1,เขตควินซ์,Battle/BattleScene.txt
+BattleScene.13801.address2,ศูนย์เยียวยาพาโธซิส,Battle/BattleScene.txt
+BattleScene.13901.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.13901.address2,โรงประมูล,Battle/BattleScene.txt
+BattleScene.14501.address1,PVP,Battle/BattleScene.txt
+BattleScene.14501.address2,PVP,Battle/BattleScene.txt
+BattleScene.14601.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.14601.address2,ชายหาด,Battle/BattleScene.txt
+BattleScene.14802.address1,พื้นที่ลึกลับ,Battle/BattleScene.txt
+BattleScene.14802.address2,ป่าริมขอบ,Battle/BattleScene.txt
+BattleScene.14901.address1,พื้นที่ลึกลับ,Battle/BattleScene.txt
+BattleScene.14901.address2,อุโมงค์กาลเวลา,Battle/BattleScene.txt
+BattleScene.20101.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.20101.address2,พื้นที่พาไธต์,Battle/BattleScene.txt
+BattleScene.20201.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.20201.address2,พื้นที่พาไธต์,Battle/BattleScene.txt
+BattleScene.20301.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.20301.address2,พื้นที่พาไธต์,Battle/BattleScene.txt
+BattleScene.20401.address1,เขตทะเลใต้,Battle/BattleScene.txt
+BattleScene.20401.address2,ฉากโรงงานเอลลี่,Battle/BattleScene.txt
+BattleScene.20501.address1,เขตทะเลใต้,Battle/BattleScene.txt
+BattleScene.20501.address2,พื้นที่​โรงงาน​ที่​ถูก​ทํา​ลาย​,Battle/BattleScene.txt
+BattleScene.23701.address1,เขตเกาะนอกชายฝั่ง,Battle/BattleScene.txt
+BattleScene.23701.address2,โรงประมูล,Battle/BattleScene.txt
+BattleScene.30101.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30101.address2,มิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30102.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30102.address2,ตัวแปรมิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30103.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30103.address2,ตัวแปรมิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30104.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30104.address2,ตัวแปรมิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30105.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30105.address2,ตัวแปรมิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30106.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30106.address2,ตัวแปรมิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30107.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30107.address2,ตัวแปรมิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30108.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30108.address2,ตัวแปรมิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30109.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30109.address2,ตัวแปรมิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30110.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30110.address2,ตัวแปรมิติอัลฟ่า α,Battle/BattleScene.txt
+BattleScene.30202.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30202.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+BattleScene.30203.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30203.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+BattleScene.30204.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30204.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+BattleScene.30205.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30205.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+BattleScene.30206.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30206.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+BattleScene.30207.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30207.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+BattleScene.30208.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30208.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+BattleScene.30209.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30209.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+BattleScene.30210.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30210.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+BattleScene.30301.address1,ฟังก์ชัน,Battle/BattleScene.txt
+BattleScene.30301.address2,ตัวแปรมิติอัลฟ่า β,Battle/BattleScene.txt
+ChapterLoadingVo.day.2207年??月??日,??/??/2207,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月24日,24/11/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月25日,25/11/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月26日,26/11/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月27日,27/11/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年11月30日,30/11/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月08日,08/12/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月09日,09/12/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月10日,10/12/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月11日,11/12/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月12日,12/12/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月5日,05/12/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年12月6日,06/12/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.2217年??月?日,??/??/2217,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.????年??月??日,??/??/????,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.未知时间,？？？,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.day.？？？？年？？月？？日,??/??/????,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中央大道,ถนนกลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区  情绪干预中心,ศูนย์เยียวยาพาโธซิส เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区  情绪干预中心会诊室,ห้องตรวจ ศูนย์เยียวยาพาโธซิส เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 万叶会 客舍,เรือนรับรอง สมาคมมันโยะ เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 万叶会 客舍连廊,โถงทางเดินเรือนรับรอง สมาคมมันโยะ เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 万叶会 庭院,ลานสวน สมาคมมันโยะ เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 宴会馆,สถานจัดเลี้ยง เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 市政厅走廊 ,ระเบียงซิตี้ฮอลล์ เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 情绪干预中心,ศูนย์เยียวยาพาโธซิส เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 惊海Live House,ไลฟ์เฮาส์ชอกคลื่น เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 暴风眼调查署,สำนักงานสืบสวนสตอร์มอาย เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 涂鸦街区,ย่านกราฟฟิตี้ เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 白塔研究院,สถาบันวิจัยไวท์ทาวเวอร์ เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 百货大楼,ห้างสรรพสินค้า เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 议事厅前,หน้าห้องประชุมสภา เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 音乐节 ,เทศกาลดนตรี เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 音乐节后台,หลังเวทีเทศกาลดนตรี เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.中心区 高级餐厅盥洗室,ห้องน้ำร้านอาหารหรู เขตศูนย์กลาง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.五城广场附近街道,ถนนรอบจัตุรัสควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.光幕之下,ใต้ม่านแสง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 冰穹边境,ชายแดนโดมน้ำแข็ง เขตโบเรียร่า,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 新边森林,ป่านิวเอดจ์ เขตโบเรียร่า,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 监狱城,แดนคุมขัง เขตโบเรียร่า,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.凛北区 雪将军广场,จัตุรัสสโนว์ เขตโบเรียร่า,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区,เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 偏僻小路,ถนนเปลี่ยว เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 克利尔街13号 ,เลขที่ 13 ถนนเคลียร์ เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 工业园区,เขตอุตสาหกรรม เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 工厂区街道,ถนนย่านโรงงาน เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 废弃工厂,โรงงานร้าง เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 弗雷泽尔家中,บ้านเฟรเซอร์ เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 新海电力门口,ทางเข้าแคทโตะการไฟฟ้า  เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 无名小路,ถนนไร้ชื่อ เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 星光福利院,สถานสงเคราะห์สตาร์ไชน์ เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 白猫侦探社,สำนักงานนักสืบไวท์แคท เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 白猫侦探社 客厅,ห้องนั่งเล่น สำนักงานนักสืบไวท์แคท เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 白猫侦探社 走廊,ระเบียง สำนักงานนักสืบไวท์แคท เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂,โรงงานทอผ้าวีฟวิง เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂 厂房门外,นอกโรงงาน โรงงานทอผ้าวีฟวิง เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂 空地,ลานโล่ง โรงงานเก่า โรงงานทอผ้าวีฟวิง เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂 老厂房,โรงงานเก่า โรงงานทอผ้าวีฟวิง เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂内部,ภายในโรงงานทอผ้าวีฟวิง เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 织巢纺织厂门口,หน้าโรงงานทอผ้าวีฟวิง เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 花园街,ถนนการ์เด้น เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 街道,ถนน เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.南港区 音乐之声,เสียงแห่งดนตรี เขตทะเลใต้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.发布会现场 后台,หลังเวที สถานที่แถลงข่าว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.地道,อุโมงค์ลับ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.居酒屋,ร้านเหล้าญี่ปุ่น,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 小议事厅,ห้องประชุมเล็ก ซิตี้ฮอลล์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 议事厅,ห้องประชุมสภา ซิตี้ฮอลล์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 议事厅前,หน้าห้องประชุมสภา ซิตี้ฮอลล์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.市政厅 议事厅隔间,ห้องแยกห้องประชุมสภา ซิตี้ฮอลล์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 VIP病房,ห้องผู้ป่วยวีไอพี ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 中心花园,สวนกลาง ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 会诊室,ห้องตรวจ ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 前台,เคาน์เตอร์ต้อนรับ ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 前坪,ลานหน้า ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 医生办公室,สำนักงานแพทย์ ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 地下仓库门口,ทางเข้าโกดังใต้ดิน ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 大厅,ห้องโถง ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 大门,ประตูใหญ่ ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 废弃仓库,คลังร้าง ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 护士长办公室,สำนักงานหัวหน้าพยาบาล ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 正门,ประตูหลัก ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 病房,ห้องผู้ป่วย ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 监护病房,ห้องดูแลผู้ป่วย ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 监控室,ห้องควบคุม ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 轻症区,แผนกผู้ป่วยทั่วไป ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 重症3区,แผนกผู้ป่วยหนักที่ 3 ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 重症监护室,ห้องดูแลผู้ป่วยหนัก ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.情绪干预中心 院长办公室,สำนักงานผู้อำนวยการ ศูนย์เยียวยาพาโธซิส,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.新海市,แคทโตะ ซิตี้,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.新边森林 深处,ส่วนลึกของป่านิวเอดจ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区,เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 云灿的家,บ้านของหยุนซาน เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 光幕的另一边,อีกฟากของม่านแสง เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 关键绪能点古老遗迹,จุดพาโธสรั่วไหลหลักซากโบราณสถาน เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 利兹大道,ถนนสายหลักลิซ เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 利兹大道附近,บริเวณถนนสายหลักลิซ เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 古老遗迹,ซากโบราณสถาน เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 古老遗迹边缘,ขอบซากโบราณสถาน เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 某处小巷,ตรอกแห่งหนึ่ง เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 猩红庄园周边,บริเวณรอบคฤหาสน์คริมสัน เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 珍宝拍卖会通道,ทางเดินหอประมูลของล้ำค่า เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.旧城区 绪能点乌鸦巷,จุดพาโธสรั่วไหลตรอกเรเวน เขตเมืองโบราณ,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 五城广场,จัตุรัสควินซ์ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 便利店,ร้านสะดวกซื้อ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 光幕之下,ใต้ม่านแสง เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 商业街,ถนนการค้า เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 弗露依亚事务所,สำนักงานฟลูย่า เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 特莉丝入职发布会,งานแถลงข่าวการเข้างานของทริส เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 福玻斯剧院,โรงละครฟอร์บส์ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫二楼,เบเกอร์คาเฟ่ ชั้น 2 เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅,เบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 一楼,ชั้น 1 เบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 主卧,ห้องนอนหลัก เบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 主卧室,ห้องนอนใหญ่ เบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 二楼,ชั้น 2 เบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅 天台,ดาดฟ้า เบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅一楼,ชั้น 1 เบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅二楼,ชั้น 2 เบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅地下室,ห้องใต้ดินเบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克猫餐厅天台,ดาดฟ้าเบเกอร์คาเฟ่ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克街,ถนนเบเกอร์ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 贝克街 ,ถนนเบเกอร์ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区 边缘街区,ย่านชายขอบ เขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区民居 儿童房,ห้องเด็ก บ้านพักเขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区民居 客厅,บ้านในเขตควินซ์ ห้องนั่งเล่น,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.昆士区边缘 老街,ถนนเก่า ชายขอบเขตควินซ์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼 办公室,สำนักงาน สตอร์มอาย,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼 走廊,ระเบียง สตอร์มอาย,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 保密档案室,ห้องเอกสารลับ สำนักงานใหญ่สตอร์มอาย,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 大门,ประตูใหญ่ สำนักงานใหญ่สตอร์มอาย,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 天台,ดาดฟ้า สำนักงานใหญ่สตอร์มอาย,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 署长办公室,สำนักงานผู้อำนวยการ สำนักงานใหญ่สตอร์มอาย,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼总部 豪威尔办公室,สำนักงานฮาวเวลล์ สำนักงานใหญ่สตอร์มอาย,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.暴风眼调查署 办公室,สำนักงาน สำนักงานสืบสวนสตอร์มอาย,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园,สวนสนุกเชสเชียร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 ???,??? สวนสนุกเชสเชียร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 办公大楼,ตึกสำนักงาน สวนสนุกเชสเชียร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 大门,ประตูใหญ่ สวนสนุกเชสเชียร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 控制室,ห้องควบคุม สวนสนุกเชสเชียร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园 摩天轮,ชิงช้าสวรรค์ สวนสนุกเชสเชียร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.柴郡猫乐园周边,บริเวณรอบสวนสนุกเชสเชียร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 内部,ภายใน ไลอ้อนแคท สเตเดียม,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 后街,ถนนหลังสนาม ไลอ้อนแคท สเตเดียม,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 正门,ประตูหลัก ไลอ้อนแคท สเตเดียม,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.狮子猫体育馆 舞台前,หน้าเวที ไลอ้อนแคท สเตเดียม,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 中庭,ลานกลาง เขตคุมขัง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 中庭 ,ลานกลาง เขตคุมขัง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 中控走廊,ระเบียงควบคุมกลาง เขตคุมขัง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 囚牢,คุก เขตคุมขัง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.监狱城 物资室,ห้องพัสดุ เขตคุมขัง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 三兄弟酒吧,บาร์สามพี่น้อง เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 三途川,แม่น้ำซันซุ เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 临海岩洞,ถ้ำริมทะเล เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 区长办公室,สำนักงานผู้ว่าการเขต เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 区长办公楼 前台,เคาน์เตอร์ ตึกผู้ว่าการเขต เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨,ครัวดาวตก เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨 二楼休息室,ห้องพัก ชั้น 2 ครัวดาวตก เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨 露天餐厅,ร้านอาหารกลางแจ้ง ครัวดาวตก เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 扫帚星厨周边,บริเวณรอบครัวดาวตก เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 未知海域,น่านน้ำลี้ลับ เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 村长家仓库,โกดังของบ้านผู้ใหญ่บ้าน เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海底通道 升降台,แพลตฟอร์มลิฟต์ อุโมงค์ใต้ทะเลลึก เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海底遗迹,ซากโบราณใต้ทะเลลึก เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海滨,ชายหาด เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村,หมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 入口,ทางเข้า หมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 墓地,สุสาน หมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 村长家,บ้านผู้ใหญ่บ้าน หมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 海边,ชายหาด หมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 荧光森林边缘,ขอบป่าเรืองแสง หหมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村 豪威尔老宅,คฤหาสน์เก่าฮาวเวลล์ หมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村口,ทางเข้าหมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村墓地,สุสานของหมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门村广场,จัตุรัสกลางหมู่บ้านซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门站站台,ชานชาลาสถานีซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门站附近,บริเวณสถานีซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门车站,สถานีซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 海门车站内,ภายในสถานีซีเกท เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 破旧街区,ย่านเสื่อมโทรม เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 私人宅邸,คฤหาสน์ส่วนตัว เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 豪威尔老宅,คฤหาสน์เก่าฮาวเวลล์ เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 车站外街道,ถนนนอกสถานี เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 酒吧后巷,ตรอกหลังบาร์ เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 音乐餐吧,ร้านอาหารดนตรี เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼嘴巷,ตรอกปากปลา เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼尾巷,ตรอกหางปลา เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼尾巷 ,ตรอกหางปลา เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市,ตลาดปลา เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市 三兄弟酒吧,บาร์สามพี่น้อง ตลาดปลา เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市 夜之都,เมืองราตรี ตลาดปลา เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.离岛 鱼市 酒吧后巷,ตรอกหลังบาร์ ตลาดปลา เกาะนอกชายฝั่ง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.织巢纺织厂 门口,หน้าโรงงานทอผ้าวีฟวิง,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 东岸艺术中心,ศูนย์ศิลปะฝั่งตะวันออก เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 云霞群岛,หมู่เกาะเมฆารุ้ง เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 揽月楼,หอชมจันทร์ เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 摩罗古道,ถนนโบราณโมโร่ เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 摩罗古道 私宅,คฤหาสน์ส่วนตัว ถนนโบราณโมโร่ เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 摩罗古道附近,บริเวณถนนโบราณโมโร่ เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 文物修复所,สถานที่ซ่อมแซมโบราณวัตถุ เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 朝报院,สำนักข่าวเรื่องเล่าเช้านั้น เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 朱雀大道,ถนนฟีนิกซ์ เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 杰克贸易公司,บริษัทการค้าแจ็ค เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 梧桐巷,ตรอกต้นพลาตานัส เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 海棠坊,ย่านดอกไห่ถัง เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 珍宝拍卖会,งานประมูลของล้ำค่า เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 福斯府邸,คฤหาสน์ฟอสส์ เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 豪威尔宅,คฤหาสน์ฮาวเวลล์ เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 豪威尔家,บ้านฮาวเวลล์ เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 通天街,ถนนเทียมฟ้า เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 通天街附近区域,บริเวณใกล้ถนนเทียมฟ้า เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区 闻心茶社,โรงน้ำชาเหวินซิน เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.耀州区绪能点 朝报院,จุดพาโธสรั่วไหล สำนักข่าวเรื่องเล่าเช้านั้น เขตเหยาโจว,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.肖特朗家 厨房,ห้องครัวบ้านชอร์ตแลนด์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.街道,ถนน,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅,เบเกอร์คาเฟ่,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 一楼,เบเกอร์คาเฟ่ ชั้น 1,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 主卧,ห้องนอนใหญ่เบเกอร์คาเฟ่,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 主卧室,ห้องนอนใหญ่เบเกอร์คาเฟ่,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 二楼,เบเกอร์คาเฟ่ ชั้น 2,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 会议室,ห้องประชุมเบเกอร์คาเฟ่,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 天台,ดาดฟ้าเบเกอร์คาเฟ่,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克猫餐厅 门口,หน้าเบเกอร์คาเฟ่,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街,ถนนเบเกอร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街 四时花门口,หน้าร้านดอกไม้สี่ฤดู ถนนเบเกอร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街的猫 一楼,แมวแห่งถนนเบเกอร์ ชั้น 1,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街的猫 天台,แมวแห่งถนนเบเกอร์ ดาดฟ้า,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街餐厅 一楼,ร้านอาหารถนนเบเกอร์ ชั้น 1,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.贝克街餐厅 天台,ร้านอาหารถนนเบเกอร์ ดาดฟ้า,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.音乐之声 肖特朗家,เสียงแห่งดนตรี บ้านชอร์ตแลนด์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.高塔研究院,สถาบันวิจัยไฮทาวเวอร์,NewChapter/ChapterLoadingVo.txt
+ChapterLoadingVo.location.鱼市 金鱼屋,ตลาดปลา ร้านปลาทอง,NewChapter/ChapterLoadingVo.txt
+RegionPrimaryMap.1.name,เขตควินซ์,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.1.taskName,ตรวจสอบเขตควินซ์,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.2.name,เขตทะเลใต้,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.2.taskName,ตรวจสอบเขตทะเลใต้,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.3.name,เขตเหยาโจว,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.3.taskName,ตรวจสอบเขตเหยาโจว,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.4.name,เขตเมืองโบราณ,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.4.taskName,ตรวจสอบเขตเมืองโบราณ,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.5.name,เขตศูนย์กลาง,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.5.taskName,ตรวจสอบเขตศูนย์กลาง,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.6.name,เขตโบเรียร่า,Region/RegionPrimaryMap.txt
+RegionPrimaryMap.6.taskName,ตรวจสอบเขตโบเรียร่า,Region/RegionPrimaryMap.txt
+RegionSecondaryMap.103.desc,เขต​พื้นที่​ดังกล่าว​สามารถ​ได้รับ​ [​อนุภาค​พา​โธส​]​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.103.label,จัตุรัสควินซ์,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.103.name,[​ดัน​เจี้ยน​อนุภาค​]​ จัตุรัส​ควินซ์​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.104.desc,เขต​พื้นที่​ดังกล่าว​สามารถ​ได้รับ​ [EXP​ ตัวละคร​]​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.104.label,เขต​ที่​ 1​ จุด​ต่อสู้​ทั่วไป​ 1​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.104.name,[​ดัน​เจี้ยน​ EXP]​ สวนสนุก​เชสเชียร์​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.107.label,เขต​ที่​ 1​ จุด​ต่อสู้​ทั่วไป​ 4​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.107.name,[​ดัน​เจี้ยน​ชิป​]​ สหพันธ์​ไม่​หวนคืน​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.108.label,เขต​ที่​ 1​ จุด​ต่อสู้​ทั่วไป​ 5​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.108.name,[​วัตถุดิบ​อาหาร​]​ ถนน​เบเกอร์​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.110.label,เขตที่ 1 จุดบ่อตกปลา,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.110.name,[ตกปลา] อ่าวอาเกต,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.117.label,ภารกิจเขต,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.117.name,ตรวจสอบเขตควินซ์,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.203.desc,เขต​พื้นที่​ดังกล่าว​สามารถ​ได้รับ​ [​เช็ต​โจมตี​]​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.203.label,โรงงานร้าง,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.203.name,[อุปกรณ์] โรงงานร้าง,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.204.label,เขต​ที่​ 2​ จุด​ต่อสู้​ทั่วไป​ 1​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.204.name,[​วัตถุดิบ​]​ ถนน​สวนดอกไม้​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.206.label,เขต​ที่​ 2​ จุด​ต่อสู้​ทั่วไป​ 3​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.206.name,[​ผนึก​กำลัง​]​ ท่าเรือ​ทะเล​ใต้​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.210.label,เขตที่ 2 จุดบ่อตกปลา,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.210.name,[​ตกปลา​]​ อ่างเก็บน้ำ​สเปียร์​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.217.label,ภารกิจเขต,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.217.name,ตรวจสอบเขตทะเลใต้,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.303.desc,เขต​พื้นที่​ดังกล่าว​สามารถ​ได้รับ​ [​เช็ต​ป้องกัน​]​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.303.label,หอคอยเทียมฟ้า,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.303.name,[​อุปกรณ์​]​ หอคอย​เทียมฟ้า​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.304.label,เขต​ที่​ 3​ จุด​ต่อสู้​ทั่วไป​ 1​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.304.name,[PVP]​ สนาม​ซ้อม​แฟน​ธอม​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.308.label,เขต​ที่​ 3​ จุด​ต่อสู้​ทั่วไป​ 5​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.308.name,[​วัตถุดิบ​อาหาร​]​ ถนน​เลิศ​รส​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.309.label,เขต​ที่​ 3​ จุด​รูปแบบ​การ​เล่น​พิเศษ​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.309.name,[PVP] สกายอารีน่า,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.310.label,เขตที่ 3 จุดบ่อตกปลา,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.310.name,[ตกปลา] เกาะเมฆารุ้ง,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.317.label,ภารกิจเขต,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.317.name,ตรวจสอบเขตเหยาโจว,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.403.desc,เขต​พื้นที่​ดังกล่าว​สามารถ​ได้รับ​ [​เช็ต​พลัง​ชีวิต​]​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.403.label,สถานีรีไซเคิลฝันร้าย,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.403.name,[​อุปกรณ์​]​ ถนนสายหลัก​ลิ​ซ​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.408.label,เขต​ที่​ 4​ จุด​ต่อสู้​ทั่วไป​ 5​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.408.name,[​วัตถุดิบ​อาหาร​]​ ตรอก​เร​เวน​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.409.label,เขต​ที่​ 4​ จุด​รูปแบบ​การ​เล่น​พิเศษ​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.409.name,[พิเศษ] เวิลด์บอส,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.410.label,เขตที่ 4 จุดบ่อตกปลา,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.410.name,[​ตกปลา​]​ ทะเลสาบ​วินเซอร์​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.417.label,ภารกิจเขต,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.417.name,ตรวจสอบเขตเมืองโบราณ,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.503.desc,เขต​พื้นที่​ดังกล่าว​สามารถ​ได้รับ​ [​เช็ตค​ริ​ติ​คอ​ล​]​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.503.label,ไวท์ทาวเวอร์,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.503.name,[​อุปกรณ์​]​ ไวท์​ทาวเวอร์​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.506.label,เขต​ที่​ 5​ จุด​ต่อสู้​ทั่วไป​ 3​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.506.name,[PVP] แฟนธอมอารีน่า,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.508.label,เขต​ที่​ 5​ จุด​ต่อสู้​ทั่วไป​ 5​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.508.name,[​วัตถุดิบ​อาหาร​]​ สถาน​จัด​เลี้ยง​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.510.label,เขตที่ 5 จุดบ่อตกปลา,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.510.name,[​ตกปลา​]​ สวนสาธารณะ​เลค​เบย์​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.517.label,ภารกิจเขต,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.517.name,ตรวจสอบเขตศูนย์กลาง,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.603.desc,เขต​พื้นที่​ดังกล่าว​สามารถ​ได้รับ​ [​เซ็ต​ทนทาน​]​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.603.label,จัตุรัสสโนว์,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.603.name,[อุปกรณ์] จัตุรัสสโนว์,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.607.label,เขต​ที่​ 6​ จุด​ต่อสู้​ทั่วไป​ 4​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.607.name,[​วัตถุดิบ​อาหาร​]​ ป่า​นิวเอดจ์​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.610.label,เขตที่ 6 จุดบ่อตกปลา,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.610.name,[​ตกปลา​]​ โรงแรม​วิคเตอร์​,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.617.label,ภารกิจเขต,Region/RegionSecondaryMap.txt
+RegionSecondaryMap.617.name,ตรวจสอบเขตโบเรียร่า,Region/RegionSecondaryMap.txt

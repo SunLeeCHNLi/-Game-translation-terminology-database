@@ -1,0 +1,1635 @@
+﻿id,term,src_table
+AttrAddition.1003.attributeName,정밀도,Card/AttrAddition.txt
+AttrAddition.101.attributeName,공격력,Card/AttrAddition.txt
+AttrAddition.102.attributeName,공격력,Card/AttrAddition.txt
+AttrAddition.1103.attributeName,블록,Card/AttrAddition.txt
+AttrAddition.1203.attributeName,관통률,Card/AttrAddition.txt
+AttrAddition.1303.attributeName,인내율,Card/AttrAddition.txt
+AttrAddition.1401.attributeName,기본 대미지,Card/AttrAddition.txt
+AttrAddition.1402.attributeName,기본 대미지 감면,Card/AttrAddition.txt
+AttrAddition.1501.attributeName,대미지,Card/AttrAddition.txt
+AttrAddition.1502.attributeName,대미지 감면,Card/AttrAddition.txt
+AttrAddition.1601.attributeName,부여하는 치유 증가,Card/AttrAddition.txt
+AttrAddition.1602.attributeName,적용되는 치유 증가,Card/AttrAddition.txt
+AttrAddition.1701.attributeName,흡혈,Card/AttrAddition.txt
+AttrAddition.1901.attributeName,확산 대미지,Card/AttrAddition.txt
+AttrAddition.2001.attributeName,반사 대미지,Card/AttrAddition.txt
+AttrAddition.2002.attributeName,반사 대미지,Card/AttrAddition.txt
+AttrAddition.201.attributeName,방어력,Card/AttrAddition.txt
+AttrAddition.202.attributeName,방어력,Card/AttrAddition.txt
+AttrAddition.2101.attributeName,부여하는 실드,Card/AttrAddition.txt
+AttrAddition.2102.attributeName,적용되는 실드,Card/AttrAddition.txt
+AttrAddition.2201.attributeName,간접 대미지,Card/AttrAddition.txt
+AttrAddition.2202.attributeName,간접 대미지 감면,Card/AttrAddition.txt
+AttrAddition.2501.attributeName,제어 증폭,Card/AttrAddition.txt
+AttrAddition.2502.attributeName,제어 저항,Card/AttrAddition.txt
+AttrAddition.2601.attributeName,크리티컬 보정,Card/AttrAddition.txt
+AttrAddition.301.attributeName,HP,Card/AttrAddition.txt
+AttrAddition.302.attributeName,HP,Card/AttrAddition.txt
+AttrAddition.401.attributeName,행운,Card/AttrAddition.txt
+AttrAddition.603.attributeName,크리티컬율,Card/AttrAddition.txt
+AttrAddition.703.attributeName,크리티컬 대미지,Card/AttrAddition.txt
+AttrAddition.803.attributeName,크리티컬율 저항,Card/AttrAddition.txt
+AttrAddition.903.attributeName,크리티컬 대미지 저항,Card/AttrAddition.txt
+AttrDefines.1.attributeDesc,대미지를 부여하는 기본 속성,Card/AttrDefines.txt
+AttrDefines.1.attributeName,공격력,Card/AttrDefines.txt
+AttrDefines.10.attributeDesc,"명중 효과를 막는 능력이지만, 대미지를 막진 못합니다.",Card/AttrDefines.txt
+AttrDefines.10.attributeName,블록,Card/AttrDefines.txt
+AttrDefines.100.attributeDesc,현재 HP,Card/AttrDefines.txt
+AttrDefines.100.attributeName,현재 HP,Card/AttrDefines.txt
+AttrDefines.2.attributeDesc,대미지를 막는 기본 속성,Card/AttrDefines.txt
+AttrDefines.2.attributeName,방어력,Card/AttrDefines.txt
+AttrDefines.20.attributeDesc,전투 중 2★ 스킬 카드 드로우 확률 증가,Card/AttrDefines.txt
+AttrDefines.20.attributeName,행운,Card/AttrDefines.txt
+AttrDefines.201.attributeName,대미지 변화,Card/AttrDefines.txt
+AttrDefines.202.attributeName,취약,Card/AttrDefines.txt
+AttrDefines.206.attributeDesc,적용되는 치유 효과 증가,Card/AttrDefines.txt
+AttrDefines.206.attributeName,적용되는 치유 증가,Card/AttrDefines.txt
+AttrDefines.207.attributeName,부여하는 대미지 변화,Card/AttrDefines.txt
+AttrDefines.208.attributeName,"흡혈 (소수점 기입, 마지막에 실제로 부여하는 대미지에 따라 흡혈)",Card/AttrDefines.txt
+AttrDefines.209.attributeDesc,공격력 일부를 추가 관통 대미지로 전환하려면 0포인트 이상이어야 한다,Card/AttrDefines.txt
+AttrDefines.209.attributeName,관통률,Card/AttrDefines.txt
+AttrDefines.21.attributeDesc,적용되는 크리티컬 대미지를 막는 확률,Card/AttrDefines.txt
+AttrDefines.21.attributeName,크리티컬율 저항,Card/AttrDefines.txt
+AttrDefines.210.attributeDesc,방어력 일부가 관통 대미지를 막으려면 0포인트 이상이어야 한다,Card/AttrDefines.txt
+AttrDefines.210.attributeName,인내율,Card/AttrDefines.txt
+AttrDefines.211.attributeDesc,시전하는 치유 효과 증가,Card/AttrDefines.txt
+AttrDefines.211.attributeName,부여하는 치유 증가,Card/AttrDefines.txt
+AttrDefines.212.attributeName,확산 대미지 수치,Card/AttrDefines.txt
+AttrDefines.213.attributeDesc,스킬 발동에 필요한 점수,Card/AttrDefines.txt
+AttrDefines.213.attributeName,SP 포인트,Card/AttrDefines.txt
+AttrDefines.214.attributeDesc,시전하는 실드 효과 증가,Card/AttrDefines.txt
+AttrDefines.214.attributeName,부여하는 실드,Card/AttrDefines.txt
+AttrDefines.215.attributeDesc,적용되는 실드 효과 증가,Card/AttrDefines.txt
+AttrDefines.215.attributeName,적용되는 실드,Card/AttrDefines.txt
+AttrDefines.216.attributeName,간접 대미지 증가,Card/AttrDefines.txt
+AttrDefines.217.attributeName,간접 대미지 감면,Card/AttrDefines.txt
+AttrDefines.218.attributeName,버프 치유가 실드로 전환,Card/AttrDefines.txt
+AttrDefines.219.attributeName,버프 치유가 대미지로 전환,Card/AttrDefines.txt
+AttrDefines.22.attributeDesc,크리티컬을 받을 때 대미지 감소,Card/AttrDefines.txt
+AttrDefines.22.attributeName,크리티컬 대미지 저항,Card/AttrDefines.txt
+AttrDefines.220.attributeDesc,제어 시전 확률 증가,Card/AttrDefines.txt
+AttrDefines.220.attributeName,제어 증폭,Card/AttrDefines.txt
+AttrDefines.221.attributeDesc,제어 당하는 확률 감소,Card/AttrDefines.txt
+AttrDefines.221.attributeName,제어 저항,Card/AttrDefines.txt
+AttrDefines.222.attributeName,크리티컬 버프 보정,Card/AttrDefines.txt
+AttrDefines.23.attributeDesc,총 대미지가 증가합니다.,Card/AttrDefines.txt
+AttrDefines.23.attributeName,대미지 증가,Card/AttrDefines.txt
+AttrDefines.24.attributeDesc,"방어력 계산 후, 최종적으로 들어가는 대미지입니다.",Card/AttrDefines.txt
+AttrDefines.24.attributeName,대미지 감면,Card/AttrDefines.txt
+AttrDefines.25.attributeName,스킬 대미지 증가 (외부),Card/AttrDefines.txt
+AttrDefines.26.attributeName,적용되는 스킬 대미지 감소 (외부),Card/AttrDefines.txt
+AttrDefines.27.attributeDesc,스킬로 인한 대미지 증가,Card/AttrDefines.txt
+AttrDefines.27.attributeName,기본 대미지 증가,Card/AttrDefines.txt
+AttrDefines.28.attributeDesc,상대 스킬로 인한 대미지 감소,Card/AttrDefines.txt
+AttrDefines.28.attributeName,기본 대미지 감면,Card/AttrDefines.txt
+AttrDefines.29.attributeDesc,공격력 일부를 추가 관통 대미지로 전환하는 기본 수치,Card/AttrDefines.txt
+AttrDefines.29.attributeName,관통,Card/AttrDefines.txt
+AttrDefines.3.attributeDesc,대미지가 적용되는 기본 속성,Card/AttrDefines.txt
+AttrDefines.3.attributeName,HP,Card/AttrDefines.txt
+AttrDefines.30.attributeDesc,방어력 일부가 관통 대미지를 막는 기본 수치,Card/AttrDefines.txt
+AttrDefines.30.attributeName,계승,Card/AttrDefines.txt
+AttrDefines.32.attributeDesc,크리티컬을 받을 때 대미지가 감소하는 기본 수치,Card/AttrDefines.txt
+AttrDefines.32.attributeName,크리티컬 대미지 저항,Card/AttrDefines.txt
+AttrDefines.35.attributeDesc,크리티컬 대미지가 발동하는 기본 확률,Card/AttrDefines.txt
+AttrDefines.35.attributeName,크리티컬,Card/AttrDefines.txt
+AttrDefines.36.attributeDesc,크리티컬 대미지 시전 시 출력 효과의 기본 값,Card/AttrDefines.txt
+AttrDefines.36.attributeName,크리티컬 대미지,Card/AttrDefines.txt
+AttrDefines.37.attributeDesc,스킬 대미지를 입힐 수 있는 기초 명중률의 기본 값,Card/AttrDefines.txt
+AttrDefines.37.attributeName,정밀도,Card/AttrDefines.txt
+AttrDefines.40.attributeDesc,"명중 효과를 막는 능력이지만, 기초 대미지를 막진 못합니다.",Card/AttrDefines.txt
+AttrDefines.40.attributeName,블록,Card/AttrDefines.txt
+AttrDefines.41.attributeDesc,적용되는 크리티컬 대미지를 막는 확률 기본 값,Card/AttrDefines.txt
+AttrDefines.41.attributeName,크리티컬 저항,Card/AttrDefines.txt
+AttrDefines.5.attributeDesc,크리티컬 대미지가 발동하는 확률,Card/AttrDefines.txt
+AttrDefines.5.attributeName,크리티컬율,Card/AttrDefines.txt
+AttrDefines.6.attributeDesc,크리티컬 대미지 시전 시 출력 효과,Card/AttrDefines.txt
+AttrDefines.6.attributeName,크리티컬 대미지,Card/AttrDefines.txt
+AttrDefines.7.attributeDesc,스킬 대미지를 입힐 수 있는 기본 명중률,Card/AttrDefines.txt
+AttrDefines.7.attributeName,정밀도,Card/AttrDefines.txt
+AttributeColor.1.name,레드 이모션,Card/AttributeColor.txt
+AttributeColor.1.restrain,"그린 이모션과 상성되며 부여하는 대미지 +30%, 블루 이모션에 역상성되며 대미지 -25%",Card/AttributeColor.txt
+AttributeColor.2.name,그린 이모션,Card/AttributeColor.txt
+AttributeColor.2.restrain,"블루 이모션과 상성되며 부여하는 대미지 +30%, 레드 이모션에 역상성되며 대미지 -25%",Card/AttributeColor.txt
+AttributeColor.3.name,블루 이모션,Card/AttributeColor.txt
+AttributeColor.3.restrain,"레드 이모션과 상성되며 부여하는 대미지 +30%, 그린 이모션에 역상성되며 대미지 -25%",Card/AttributeColor.txt
+AttributeColor.4.desc,"화이트 이모션이 레드, 그린, 블루, 블랙 이모션 파티클에게 부여하는 대미지 +10%, 적용되는 대미지 -10%",Card/AttributeColor.txt
+AttributeColor.4.name,화이트 이모션,Card/AttributeColor.txt
+AttributeColor.4.restrain,"화이트 이모션이 다른 4종의 이모션 파티클에게 부여하는 대미지 +10%, 적용되는 대미지 -10%",Card/AttributeColor.txt
+AttributeColor.5.name,블랙 이모션,Card/AttributeColor.txt
+AttributeColor.5.restrain,블랙 이모션이 다른 4종의 이모션에게 부여하는 대미지 +20%,Card/AttributeColor.txt
+CheckInBonusVo.1.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.10.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.100.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.101.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.102.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.103.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.104.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.105.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.106.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.107.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.108.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.109.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.11.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.110.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.111.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.112.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.113.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.114.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.115.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.116.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.117.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.118.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.119.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.12.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.120.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.121.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.122.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.123.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.124.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.125.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.126.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.127.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.128.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.129.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.13.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.130.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.131.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.132.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.133.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.134.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.135.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.136.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.137.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.138.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.139.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.14.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.140.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.141.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.142.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.143.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.144.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.145.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.146.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.147.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.148.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.149.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.15.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.150.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.151.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.152.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.153.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.154.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.155.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.156.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.157.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.158.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.159.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.16.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.160.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.161.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.162.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.163.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.164.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.165.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.166.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.167.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.168.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.169.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.17.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.170.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.171.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.172.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.173.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.174.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.175.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.176.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.177.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.178.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.179.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.18.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.180.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.181.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.182.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.183.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.184.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.185.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.186.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.187.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.188.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.189.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.19.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.190.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.191.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.192.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.193.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.194.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.195.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.196.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.197.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.198.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.199.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.2.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.20.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.200.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.201.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.202.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.203.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.204.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.205.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.206.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.207.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.208.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.209.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.21.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.210.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.22.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.23.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.24.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.25.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.26.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.27.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.28.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.29.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.3.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.30.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.31.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.32.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.33.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.34.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.35.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.36.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.37.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.38.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.39.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.4.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.40.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.41.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.42.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.43.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.44.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.45.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.46.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.47.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.48.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.49.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.5.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.50.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.51.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.52.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.53.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.54.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.55.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.56.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.57.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.58.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.59.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.6.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.60.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.61.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.62.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.63.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.64.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.65.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.66.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.67.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.68.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.69.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.7.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.70.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.71.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.72.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.73.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.74.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.75.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.76.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.77.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.78.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.79.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.8.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.80.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.81.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.82.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.83.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.84.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.85.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.86.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.87.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.88.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.89.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.9.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.90.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.91.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.92.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.93.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.94.des,"공격력 <color=""#00fffc"">+%d</color>;방어력 <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.95.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.96.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.97.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.98.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.99.des,"입력한 속성이 <color=""#00fffc"">%d</color>까지 증가됩니다",GlobalAttr/CheckIn/CheckInBonusVo.txt
+ElementNames.1.desc,대미지 +30%,Common/ElementNames.txt
+ElementNames.1.desc1,대미지 -25%,Common/ElementNames.txt
+ElementNames.1.mark,레드 속성,Common/ElementNames.txt
+ElementNames.1.name,R 파티클,Common/ElementNames.txt
+ElementNames.2.mark,그린 속성,Common/ElementNames.txt
+ElementNames.2.name,G 파티클,Common/ElementNames.txt
+ElementNames.3.mark,블루 속성,Common/ElementNames.txt
+ElementNames.3.name,B 파티클,Common/ElementNames.txt
+ElementNames.4.desc,대미지 +10%,Common/ElementNames.txt
+ElementNames.4.desc1,적용되는 대미지 -10%,Common/ElementNames.txt
+ElementNames.4.mark,라이트 속성,Common/ElementNames.txt
+ElementNames.4.name,L 파티클,Common/ElementNames.txt
+ElementNames.5.desc,대미지 +20%,Common/ElementNames.txt
+ElementNames.5.mark,다크 속성,Common/ElementNames.txt
+ElementNames.5.name,D 파티클,Common/ElementNames.txt
+QuestUpBuff.10000001.desc,공격력 +20,Common/QuestUpBuff.txt
+QuestUpBuff.10000001.name,공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000002.desc,방어력 +30,Common/QuestUpBuff.txt
+QuestUpBuff.10000002.name,방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000003.desc,HP +150,Common/QuestUpBuff.txt
+QuestUpBuff.10000003.name,HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000004.desc,크리티컬 확률 +4.5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000004.name,크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000005.desc,크리티컬 대미지 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000005.name,크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000006.desc,크리티컬 확률 저항 +4.5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000006.name,크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000007.desc,크리티컬 대미지 저항 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000007.name,크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000008.desc,관통률 +4.5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000008.name,관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000009.desc,인내율 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000009.name,인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000010.desc,부여하는 치유 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000010.name,부여하는 치유 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000011.desc,적용되는 치유 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000011.name,적용되는 치유 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000012.desc,부여하는 실드 8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000012.name,부여하는 실드,Common/QuestUpBuff.txt
+QuestUpBuff.10000013.desc,적용되는 실드 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000013.name,적용되는 실드,Common/QuestUpBuff.txt
+QuestUpBuff.10000014.desc,공격력 +50,Common/QuestUpBuff.txt
+QuestUpBuff.10000014.name,공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000015.desc,방어력 +60,Common/QuestUpBuff.txt
+QuestUpBuff.10000015.name,방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000016.desc,HP +200,Common/QuestUpBuff.txt
+QuestUpBuff.10000016.name,HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000017.desc,크리티컬 확률 +5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000017.name,크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000018.desc,크리티컬 대미지 +10%,Common/QuestUpBuff.txt
+QuestUpBuff.10000018.name,크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000019.desc,크리티컬 확률 저항 +5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000019.name,크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000020.desc,크리티컬 대미지 저항 +10%,Common/QuestUpBuff.txt
+QuestUpBuff.10000020.name,크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000021.desc,관통률 +5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000021.name,관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000022.desc,인내율 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000022.name,인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000023.desc,부여하는 치유 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000023.name,부여하는 치유 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000024.desc,적용되는 치유 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000024.name,적용되는 치유 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000025.desc,부여하는 실드 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000025.name,부여하는 실드,Common/QuestUpBuff.txt
+QuestUpBuff.10000026.desc,적용되는 실드 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000026.name,적용되는 실드,Common/QuestUpBuff.txt
+QuestUpBuff.10000027.desc,공격력 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.10000027.name,공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000028.desc,방어력 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000028.name,방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000029.desc,HP +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000029.name,HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000030.desc,크리티컬 확률 +7%,Common/QuestUpBuff.txt
+QuestUpBuff.10000030.name,크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000031.desc,크리티컬 대미지 +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10000031.name,크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000032.desc,크리티컬 확률 저항 +7%,Common/QuestUpBuff.txt
+QuestUpBuff.10000032.name,크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000033.desc,크리티컬 대미지 저항 +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10000033.name,크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000034.desc,관통률 +7%,Common/QuestUpBuff.txt
+QuestUpBuff.10000034.name,관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000035.desc,인내율 +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000035.name,인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000036.desc,부여하는 치유 +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000036.name,부여하는 치유 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000037.desc,적용되는 치유 +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000037.name,적용되는 치유 증가,Common/QuestUpBuff.txt
+QuestUpBuff.10000038.desc,부여하는 실드 +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000038.name,부여하는 실드,Common/QuestUpBuff.txt
+QuestUpBuff.10000039.desc,적용되는 실드 +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000039.name,적용되는 실드,Common/QuestUpBuff.txt
+QuestUpBuff.10001.desc,공격력 +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10001.name,전용 버프,Common/QuestUpBuff.txt
+QuestUpBuff.10002.desc,크리티컬 대미지 +35%,Common/QuestUpBuff.txt
+QuestUpBuff.10002.name,전용 버프,Common/QuestUpBuff.txt
+QuestUpBuff.10003.desc,크리티컬율 +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10003.name,전용 버프,Common/QuestUpBuff.txt
+QuestUpBuff.10004.desc,기본 HP +30%,Common/QuestUpBuff.txt
+QuestUpBuff.10004.name,전용 버프,Common/QuestUpBuff.txt
+QuestUpBuff.10005.desc,관통률 +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10005.name,전용 버프,Common/QuestUpBuff.txt
+QuestUpBuff.120601011.desc,기본 공격력 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601011.name,학생증,Common/QuestUpBuff.txt
+QuestUpBuff.120601012.desc,기본 공격력 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601012.name,학생증,Common/QuestUpBuff.txt
+QuestUpBuff.120601013.desc,기본 공격력 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601013.name,학생증,Common/QuestUpBuff.txt
+QuestUpBuff.120601014.desc,기본 공격력 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601014.name,학생증,Common/QuestUpBuff.txt
+QuestUpBuff.120601015.desc,기본 공격력 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601015.name,학생증,Common/QuestUpBuff.txt
+QuestUpBuff.120601016.desc,기본 공격력 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601016.name,학생증,Common/QuestUpBuff.txt
+QuestUpBuff.120601021.desc,기본 방어력 +20%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601021.name,찻잔,Common/QuestUpBuff.txt
+QuestUpBuff.120601022.desc,기본 방어력 +30%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601022.name,찻잔,Common/QuestUpBuff.txt
+QuestUpBuff.120601023.desc,기본 방어력 +40%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601023.name,찻잔,Common/QuestUpBuff.txt
+QuestUpBuff.120601024.desc,기본 방어력 +50%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601024.name,찻잔,Common/QuestUpBuff.txt
+QuestUpBuff.120601025.desc,기본 방어력 +60%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601025.name,찻잔,Common/QuestUpBuff.txt
+QuestUpBuff.120601026.desc,기본 방어력 +80%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601026.name,찻잔,Common/QuestUpBuff.txt
+QuestUpBuff.120601031.desc,기본 HP +20%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601031.name,일기장,Common/QuestUpBuff.txt
+QuestUpBuff.120601032.desc,기본 HP +30%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601032.name,일기장,Common/QuestUpBuff.txt
+QuestUpBuff.120601033.desc,기본 HP +40%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601033.name,일기장,Common/QuestUpBuff.txt
+QuestUpBuff.120601034.desc,기본 HP +50%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601034.name,일기장,Common/QuestUpBuff.txt
+QuestUpBuff.120601035.desc,기본 HP +60%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601035.name,일기장,Common/QuestUpBuff.txt
+QuestUpBuff.120601036.desc,기본 HP +80%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601036.name,일기장,Common/QuestUpBuff.txt
+QuestUpBuff.120601041.desc,기본 공격력 +200;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601041.name,케이크,Common/QuestUpBuff.txt
+QuestUpBuff.120601042.desc,기본 공격력 +420;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601042.name,케이크,Common/QuestUpBuff.txt
+QuestUpBuff.120601043.desc,기본 공격력 +640;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601043.name,케이크,Common/QuestUpBuff.txt
+QuestUpBuff.120601044.desc,기본 공격력 +860;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601044.name,케이크,Common/QuestUpBuff.txt
+QuestUpBuff.120601045.desc,기본 공격력 +1080;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601045.name,케이크,Common/QuestUpBuff.txt
+QuestUpBuff.120601046.desc,기본 공격력 +1500;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601046.name,케이크,Common/QuestUpBuff.txt
+QuestUpBuff.120601051.desc,기본 방어력 +300;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601051.name,블랙 펠리니언,Common/QuestUpBuff.txt
+QuestUpBuff.120601052.desc,기본 방어력 +550;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601052.name,블랙 펠리니언,Common/QuestUpBuff.txt
+QuestUpBuff.120601053.desc,기본 방어력 +800;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601053.name,블랙 펠리니언,Common/QuestUpBuff.txt
+QuestUpBuff.120601054.desc,기본 방어력 +1050;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601054.name,블랙 펠리니언,Common/QuestUpBuff.txt
+QuestUpBuff.120601055.desc,기본 방어력 +1300;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601055.name,블랙 펠리니언,Common/QuestUpBuff.txt
+QuestUpBuff.120601056.desc,기본 방어력 +1800;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601056.name,블랙 펠리니언,Common/QuestUpBuff.txt
+QuestUpBuff.120601061.desc,관통률 +10%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601061.name,신문,Common/QuestUpBuff.txt
+QuestUpBuff.120601062.desc,관통률 +18%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601062.name,신문,Common/QuestUpBuff.txt
+QuestUpBuff.120601063.desc,관통률 +26%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601063.name,신문,Common/QuestUpBuff.txt
+QuestUpBuff.120601064.desc,관통률 +35%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601064.name,신문,Common/QuestUpBuff.txt
+QuestUpBuff.120601065.desc,관통률 +43%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601065.name,신문,Common/QuestUpBuff.txt
+QuestUpBuff.120601066.desc,관통률 +60%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601066.name,신문,Common/QuestUpBuff.txt
+QuestUpBuff.120601071.desc,인내율 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601071.name,폐기문건,Common/QuestUpBuff.txt
+QuestUpBuff.120601072.desc,인내율 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601072.name,폐기문건,Common/QuestUpBuff.txt
+QuestUpBuff.120601073.desc,인내율 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601073.name,폐기문건,Common/QuestUpBuff.txt
+QuestUpBuff.120601074.desc,인내율 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601074.name,폐기문건,Common/QuestUpBuff.txt
+QuestUpBuff.120601075.desc,인내율 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601075.name,폐기문건,Common/QuestUpBuff.txt
+QuestUpBuff.120601076.desc,인내율 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601076.name,폐기문건,Common/QuestUpBuff.txt
+QuestUpBuff.120601081.desc,크리티컬 확률 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601081.name,개업,Common/QuestUpBuff.txt
+QuestUpBuff.120601082.desc,크리티컬 확률 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601082.name,개업,Common/QuestUpBuff.txt
+QuestUpBuff.120601083.desc,크리티컬 확률 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601083.name,개업,Common/QuestUpBuff.txt
+QuestUpBuff.120601084.desc,크리티컬 확률 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601084.name,개업,Common/QuestUpBuff.txt
+QuestUpBuff.120601085.desc,크리티컬 확률 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601085.name,개업,Common/QuestUpBuff.txt
+QuestUpBuff.120601086.desc,크리티컬 확률 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601086.name,개업,Common/QuestUpBuff.txt
+QuestUpBuff.120601091.desc,크리티컬 대미지 +20%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601091.name,종이상자,Common/QuestUpBuff.txt
+QuestUpBuff.120601092.desc,크리티컬 대미지 +31%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601092.name,종이상자,Common/QuestUpBuff.txt
+QuestUpBuff.120601093.desc,크리티컬 대미지 +43%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601093.name,종이상자,Common/QuestUpBuff.txt
+QuestUpBuff.120601094.desc,크리티컬 대미지 +55%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601094.name,종이상자,Common/QuestUpBuff.txt
+QuestUpBuff.120601095.desc,크리티컬 대미지 +66%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601095.name,종이상자,Common/QuestUpBuff.txt
+QuestUpBuff.120601096.desc,크리티컬 대미지 +90%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601096.name,종이상자,Common/QuestUpBuff.txt
+QuestUpBuff.120601101.desc,부여하는 고정 대미지 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601101.name,명화,Common/QuestUpBuff.txt
+QuestUpBuff.120601102.desc,부여하는 고정 대미지 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601102.name,명화,Common/QuestUpBuff.txt
+QuestUpBuff.120601103.desc,부여하는 고정 대미지 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601103.name,명화,Common/QuestUpBuff.txt
+QuestUpBuff.120601104.desc,부여하는 고정 대미지 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601104.name,명화,Common/QuestUpBuff.txt
+QuestUpBuff.120601105.desc,부여하는 고정 대미지 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601105.name,명화,Common/QuestUpBuff.txt
+QuestUpBuff.120601106.desc,부여하는 고정 대미지 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601106.name,명화,Common/QuestUpBuff.txt
+QuestUpBuff.120601111.desc,부여하는 관통 대미지 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601111.name,나뭇잎,Common/QuestUpBuff.txt
+QuestUpBuff.120601112.desc,부여하는 관통 대미지 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601112.name,나뭇잎,Common/QuestUpBuff.txt
+QuestUpBuff.120601113.desc,부여하는 관통 대미지 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601113.name,나뭇잎,Common/QuestUpBuff.txt
+QuestUpBuff.120601114.desc,부여하는 관통 대미지 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601114.name,나뭇잎,Common/QuestUpBuff.txt
+QuestUpBuff.120601115.desc,부여하는 관통 대미지 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601115.name,나뭇잎,Common/QuestUpBuff.txt
+QuestUpBuff.120601116.desc,부여하는 관통 대미지 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601116.name,나뭇잎,Common/QuestUpBuff.txt
+QuestUpBuff.120601121.desc,부여하는 크리티컬 관통 대미지 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601121.name,베개,Common/QuestUpBuff.txt
+QuestUpBuff.120601122.desc,부여하는 크리티컬 관통 대미지 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601122.name,베개,Common/QuestUpBuff.txt
+QuestUpBuff.120601123.desc,부여하는 크리티컬 관통 대미지 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601123.name,베개,Common/QuestUpBuff.txt
+QuestUpBuff.120601124.desc,부여하는 크리티컬 관통 대미지 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601124.name,베개,Common/QuestUpBuff.txt
+QuestUpBuff.120601125.desc,부여하는 크리티컬 관통 대미지 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601125.name,베개,Common/QuestUpBuff.txt
+QuestUpBuff.120601126.desc,부여하는 크리티컬 관통 대미지 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601126.name,베개,Common/QuestUpBuff.txt
+QuestUpBuff.120601131.desc,부여하는 파쇄 대미지 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601131.name,깨진 유리,Common/QuestUpBuff.txt
+QuestUpBuff.120601132.desc,부여하는 파쇄 대미지 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601132.name,깨진 유리,Common/QuestUpBuff.txt
+QuestUpBuff.120601133.desc,부여하는 파쇄 대미지 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601133.name,깨진 유리,Common/QuestUpBuff.txt
+QuestUpBuff.120601134.desc,부여하는 파쇄 대미지 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601134.name,깨진 유리,Common/QuestUpBuff.txt
+QuestUpBuff.120601135.desc,부여하는 파쇄 대미지 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601135.name,깨진 유리,Common/QuestUpBuff.txt
+QuestUpBuff.120601136.desc,부여하는 파쇄 대미지 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601136.name,깨진 유리,Common/QuestUpBuff.txt
+QuestUpBuff.120601141.desc,부여하는 파열 대미지 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601141.name,노트북 컴퓨터,Common/QuestUpBuff.txt
+QuestUpBuff.120601142.desc,부여하는 파열 대미지 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601142.name,노트북 컴퓨터,Common/QuestUpBuff.txt
+QuestUpBuff.120601143.desc,부여하는 파열 대미지 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601143.name,노트북 컴퓨터,Common/QuestUpBuff.txt
+QuestUpBuff.120601144.desc,부여하는 파열 대미지 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601144.name,노트북 컴퓨터,Common/QuestUpBuff.txt
+QuestUpBuff.120601145.desc,부여하는 파열 대미지 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601145.name,노트북 컴퓨터,Common/QuestUpBuff.txt
+QuestUpBuff.120601146.desc,부여하는 파열 대미지 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601146.name,노트북 컴퓨터,Common/QuestUpBuff.txt
+QuestUpBuff.120601151.desc,부여하는 파멸 대미지 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601151.name,가족사진,Common/QuestUpBuff.txt
+QuestUpBuff.120601152.desc,부여하는 파멸 대미지 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601152.name,가족사진,Common/QuestUpBuff.txt
+QuestUpBuff.120601153.desc,부여하는 파멸 대미지 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601153.name,가족사진,Common/QuestUpBuff.txt
+QuestUpBuff.120601154.desc,부여하는 파멸 대미지 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601154.name,가족사진,Common/QuestUpBuff.txt
+QuestUpBuff.120601155.desc,부여하는 파멸 대미지 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601155.name,가족사진,Common/QuestUpBuff.txt
+QuestUpBuff.120601156.desc,부여하는 파멸 대미지 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601156.name,가족사진,Common/QuestUpBuff.txt
+QuestUpBuff.120601161.desc,부여하는 최종 대미지 +10%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601161.name,소파,Common/QuestUpBuff.txt
+QuestUpBuff.120601162.desc,부여하는 최종 대미지 +18%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601162.name,소파,Common/QuestUpBuff.txt
+QuestUpBuff.120601163.desc,부여하는 최종 대미지 +26%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601163.name,소파,Common/QuestUpBuff.txt
+QuestUpBuff.120601164.desc,부여하는 최종 대미지 +35%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601164.name,소파,Common/QuestUpBuff.txt
+QuestUpBuff.120601165.desc,부여하는 최종 대미지 +43%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601165.name,소파,Common/QuestUpBuff.txt
+QuestUpBuff.120601166.desc,부여하는 최종 대미지 +60%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601166.name,소파,Common/QuestUpBuff.txt
+QuestUpBuff.120601171.desc,적용되는 최종 대미지 무시 +10%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601171.name,로봇,Common/QuestUpBuff.txt
+QuestUpBuff.120601172.desc,적용되는 최종 대미지 무시 +18%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601172.name,로봇,Common/QuestUpBuff.txt
+QuestUpBuff.120601173.desc,적용되는 최종 대미지 무시 +26%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601173.name,로봇,Common/QuestUpBuff.txt
+QuestUpBuff.120601174.desc,적용되는 최종 대미지 무시 +35%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601174.name,로봇,Common/QuestUpBuff.txt
+QuestUpBuff.120601175.desc,적용되는 최종 대미지 무시 +43%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601175.name,로봇,Common/QuestUpBuff.txt
+QuestUpBuff.120601176.desc,적용되는 최종 대미지 무시 +60%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601176.name,로봇,Common/QuestUpBuff.txt
+QuestUpBuff.120601181.desc,부여하는 간접 대미지 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601181.name,카트,Common/QuestUpBuff.txt
+QuestUpBuff.120601182.desc,부여하는 간접 대미지 +24%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601182.name,카트,Common/QuestUpBuff.txt
+QuestUpBuff.120601183.desc,부여하는 간접 대미지 +33%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601183.name,카트,Common/QuestUpBuff.txt
+QuestUpBuff.120601184.desc,부여하는 간접 대미지 +42%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601184.name,카트,Common/QuestUpBuff.txt
+QuestUpBuff.120601185.desc,부여하는 간접 대미지 +51%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601185.name,카트,Common/QuestUpBuff.txt
+QuestUpBuff.120601186.desc,부여하는 간접 대미지 +70%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601186.name,카트,Common/QuestUpBuff.txt
+QuestUpBuff.120601191.desc,흡혈 +20%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601191.name,달력,Common/QuestUpBuff.txt
+QuestUpBuff.120601192.desc,흡혈 +30%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601192.name,달력,Common/QuestUpBuff.txt
+QuestUpBuff.120601193.desc,흡혈 +40%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601193.name,달력,Common/QuestUpBuff.txt
+QuestUpBuff.120601194.desc,흡혈 +50%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601194.name,달력,Common/QuestUpBuff.txt
+QuestUpBuff.120601195.desc,흡혈 +60%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601195.name,달력,Common/QuestUpBuff.txt
+QuestUpBuff.120601196.desc,흡혈 +80%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601196.name,달력,Common/QuestUpBuff.txt
+QuestUpBuff.120601201.desc,부여하는 치유 효과 +10%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601201.name,쓰레기통,Common/QuestUpBuff.txt
+QuestUpBuff.120601202.desc,부여하는 치유 효과 +18%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601202.name,쓰레기통,Common/QuestUpBuff.txt
+QuestUpBuff.120601203.desc,부여하는 치유 효과 +26%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601203.name,쓰레기통,Common/QuestUpBuff.txt
+QuestUpBuff.120601204.desc,부여하는 치유 효과 +35%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601204.name,쓰레기통,Common/QuestUpBuff.txt
+QuestUpBuff.120601205.desc,부여하는 치유 효과 +43%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601205.name,쓰레기통,Common/QuestUpBuff.txt
+QuestUpBuff.120601206.desc,부여하는 치유 효과 +60%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601206.name,쓰레기통,Common/QuestUpBuff.txt
+QuestUpBuff.120601211.desc,부여하는 실드 효과 +10%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601211.name,전기스탠드,Common/QuestUpBuff.txt
+QuestUpBuff.120601212.desc,부여하는 실드 효과 +18%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601212.name,전기스탠드,Common/QuestUpBuff.txt
+QuestUpBuff.120601213.desc,부여하는 실드 효과 +26%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601213.name,전기스탠드,Common/QuestUpBuff.txt
+QuestUpBuff.120601214.desc,부여하는 실드 효과 +35%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601214.name,전기스탠드,Common/QuestUpBuff.txt
+QuestUpBuff.120601215.desc,부여하는 실드 효과 +43%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601215.name,전기스탠드,Common/QuestUpBuff.txt
+QuestUpBuff.120601216.desc,부여하는 실드 효과 +60%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601216.name,전기스탠드,Common/QuestUpBuff.txt
+QuestUpBuff.120601221.desc,행운 +15%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601221.name,나무,Common/QuestUpBuff.txt
+QuestUpBuff.120601222.desc,행운 +22%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601222.name,나무,Common/QuestUpBuff.txt
+QuestUpBuff.120601223.desc,행운 +30%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601223.name,나무,Common/QuestUpBuff.txt
+QuestUpBuff.120601224.desc,행운 +37%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601224.name,나무,Common/QuestUpBuff.txt
+QuestUpBuff.120601225.desc,행운 +45%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601225.name,나무,Common/QuestUpBuff.txt
+QuestUpBuff.120601226.desc,행운 +60%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601226.name,나무,Common/QuestUpBuff.txt
+QuestUpBuff.120601231.desc,첫 턴에 적 전체에게 최대 HP의 5%에 해당하는 순수 대미지 부여;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601231.name,만화 원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601232.desc,첫 턴에 적 전체에게 최대 HP의 10%에 해당하는 순수 대미지 부여;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601232.name,만화 원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601233.desc,첫 턴에 적 전체에게 최대 HP의 16%에 해당하는 순수 대미지 부여;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601233.name,만화 원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601234.desc,첫 턴에 적 전체에게 최대 HP의 23%에 해당하는 순수 대미지 부여;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601234.name,만화 원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601235.desc,첫 턴에 적 전체에게 최대 HP의 31%에 해당하는 순수 대미지 부여;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601235.name,만화 원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601236.desc,첫 턴에 적 전체에게 최대 HP의 40%에 해당하는 순수 대미지 부여;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601236.name,만화 원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601241.desc,매 전투마다 4턴 시작 시 1SP 획득;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601241.name,원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601242.desc,매 전투마다 3턴 시작 시 1SP 획득;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601242.name,원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601243.desc,매 전투마다 2턴 시작 시 1SP 획득;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601243.name,원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601244.desc,매 전투마다 1턴 시작 시 1SP 획득;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601244.name,원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601245.desc,매 전투마다 1턴 시작 시 2SP 획득;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601245.name,원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601246.desc,매 전투마다 1턴 시작 시 3SP 획득;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601246.name,원고,Common/QuestUpBuff.txt
+QuestUpBuff.120601251.desc,다크나이트 캣 팀 캐릭터가 부여하는 대미지 +20%;전투 시 전투력 +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601251.name,소년만화,Common/QuestUpBuff.txt
+QuestUpBuff.120601252.desc,다크나이트 캣 팀 캐릭터가 부여하는 대미지 +33%;전투 시 전투력 +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601252.name,소년만화,Common/QuestUpBuff.txt
+QuestUpBuff.120601253.desc,다크나이트 캣 팀 캐릭터가 부여하는 대미지 +46%;전투 시 전투력 +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601253.name,소년만화,Common/QuestUpBuff.txt
+QuestUpBuff.120601254.desc,다크나이트 캣 팀 캐릭터가 부여하는 대미지 +60%;전투 시 전투력 +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601254.name,소년만화,Common/QuestUpBuff.txt
+QuestUpBuff.120601255.desc,다크나이트 캣 팀 캐릭터가 부여하는 대미지 +73%;전투 시 전투력 +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601255.name,소년만화,Common/QuestUpBuff.txt
+QuestUpBuff.120601256.desc,다크나이트 캣 팀 캐릭터가 부여하는 대미지 +100%;전투 시 전투력 +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601256.name,소년만화,Common/QuestUpBuff.txt
+QuestUpBuff.40001.desc,아군 전체 공격력 +10%,Common/QuestUpBuff.txt
+QuestUpBuff.40001.name,공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.40002.desc,아군에게 적용되는 실드 효과 100% 증가,Common/QuestUpBuff.txt
+QuestUpBuff.40002.name,적용되는 실드,Common/QuestUpBuff.txt
+QuestUpBuff.40005.desc,아군 전체 크리티컬율 30% 증가,Common/QuestUpBuff.txt
+QuestUpBuff.40005.name,크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.40006.desc,목표를 하나 처치할 때 마다 SP를 1pt 회복한다,Common/QuestUpBuff.txt
+QuestUpBuff.40006.name,처치 회복,Common/QuestUpBuff.txt
+QuestUpBuff.41000001.desc,아군 R 파티클 속성의 전투원 공격력 +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41000001.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000002.desc,아군 R 파티클 속성의 전투원 공격력 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41000002.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000003.desc,아군 R 파티클 속성의 전투원 공격력 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41000003.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000004.desc,아군 R 파티클 속성의 전투원 공격력 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41000004.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000005.desc,아군 R 파티클 속성의 전투원 공격력 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41000005.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000006.desc,아군 R 파티클 속성의 전투원 공격력 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41000006.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000007.desc,아군 R 파티클 속성의 전투원 공격력 +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41000007.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000008.desc,아군 R 파티클 속성의 전투원 공격력 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41000008.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000009.desc,아군 R 파티클 속성의 전투원 공격력 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41000009.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000010.desc,아군 R 파티클 속성의 전투원 공격력 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41000010.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41000011.desc,아군 R 파티클 속성의 전투원 공격력 +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41000011.name,레드 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100001.desc,아군 G 파티클 속성의 전투원 공격력 +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41100001.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100002.desc,아군 G 파티클 속성의 전투원 공격력 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41100002.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100003.desc,아군 G 파티클 속성의 전투원 공격력 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41100003.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100004.desc,아군 G 파티클 속성의 전투원 공격력 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41100004.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100005.desc,아군 G 파티클 속성의 전투원 공격력 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41100005.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100006.desc,아군 G 파티클 속성의 전투원 공격력 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41100006.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100007.desc,아군 G 파티클 속성의 전투원 공격력 +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41100007.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100008.desc,아군 G 파티클 속성의 전투원 공격력 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41100008.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100009.desc,아군 G 파티클 속성의 전투원 공격력 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41100009.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100010.desc,아군 G 파티클 속성의 전투원 공격력 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41100010.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41100011.desc,아군 G 파티클 속성의 전투원 공격력 +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41100011.name,그린 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200001.desc,아군 B 파티클 속성의 전투원 공격력 +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41200001.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200002.desc,아군 B 파티클 속성의 전투원 공격력 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41200002.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200003.desc,아군 B 파티클 속성의 전투원 공격력 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41200003.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200004.desc,아군 B 파티클 속성의 전투원 공격력 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41200004.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200005.desc,아군 B 파티클 속성의 전투원 공격력 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41200005.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200006.desc,아군 B 파티클 속성의 전투원 공격력 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41200006.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200007.desc,아군 B 파티클 속성의 전투원 공격력 +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41200007.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200008.desc,아군 B 파티클 속성의 전투원 공격력 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41200008.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200009.desc,아군 B 파티클 속성의 전투원 공격력 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41200009.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200010.desc,아군 B 파티클 속성의 전투원 공격력 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41200010.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41200011.desc,아군 B 파티클 속성의 전투원 공격력 +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41200011.name,블루 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300001.desc,아군 전체 전투원 공격력 +1%,Common/QuestUpBuff.txt
+QuestUpBuff.41300001.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300002.desc,아군 전체 전투원 공격력 +2%,Common/QuestUpBuff.txt
+QuestUpBuff.41300002.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300003.desc,아군 전체 전투원 공격력 +3%,Common/QuestUpBuff.txt
+QuestUpBuff.41300003.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300004.desc,아군 전체 전투원 공격력 +4%,Common/QuestUpBuff.txt
+QuestUpBuff.41300004.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300005.desc,아군 전체 전투원 공격력 +5%,Common/QuestUpBuff.txt
+QuestUpBuff.41300005.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300006.desc,아군 전체 전투원 공격력 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41300006.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300007.desc,아군 전체 전투원 공격력 +7%,Common/QuestUpBuff.txt
+QuestUpBuff.41300007.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300008.desc,아군 전체 전투원 공격력 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.41300008.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300009.desc,아군 전체 전투원 공격력 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.41300009.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300010.desc,아군 전체 전투원 공격력 +10%,Common/QuestUpBuff.txt
+QuestUpBuff.41300010.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41300011.desc,아군 전체 전투원 공격력 +11%,Common/QuestUpBuff.txt
+QuestUpBuff.41300011.name,전체 - 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400001.desc,아군 R 파티클 속성의 전투원 방어력 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41400001.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400002.desc,아군 R 파티클 속성의 전투원 방어력 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41400002.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400003.desc,아군 R 파티클 속성의 전투원 방어력 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41400003.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400004.desc,아군 R 파티클 속성의 전투원 방어력 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41400004.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400005.desc,아군 R 파티클 속성의 전투원 방어력 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41400005.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400006.desc,아군 R 파티클 속성의 전투원 방어력 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41400006.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400007.desc,아군 R 파티클 속성의 전투원 방어력 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41400007.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400008.desc,아군 R 파티클 속성의 전투원 방어력 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41400008.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400009.desc,아군 R 파티클 속성의 전투원 방어력 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41400009.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400010.desc,아군 R 파티클 속성의 전투원 방어력 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.41400010.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41400011.desc,아군 R 파티클 속성의 전투원 방어력 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41400011.name,레드 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500001.desc,아군 G 파티클 속성의 전투원 방어력 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41500001.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500002.desc,아군 G 파티클 속성의 전투원 방어력 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41500002.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500003.desc,아군 G 파티클 속성의 전투원 방어력 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41500003.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500004.desc,아군 G 파티클 속성의 전투원 방어력 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41500004.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500005.desc,아군 G 파티클 속성의 전투원 방어력 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41500005.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500006.desc,아군 G 파티클 속성의 전투원 방어력 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41500006.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500007.desc,아군 G 파티클 속성의 전투원 방어력 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41500007.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500008.desc,아군 G 파티클 속성의 전투원 방어력 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41500008.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500009.desc,아군 G 파티클 속성의 전투원 방어력 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41500009.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500010.desc,아군 G 파티클 속성의 전투원 방어력 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.41500010.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41500011.desc,아군 G 파티클 속성의 전투원 방어력 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41500011.name,그린 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600001.desc,아군 B 파티클 속성의 전투원 방어력 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41600001.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600002.desc,아군 B 파티클 속성의 전투원 방어력 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41600002.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600003.desc,아군 B 파티클 속성의 전투원 방어력 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41600003.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600004.desc,아군 B 파티클 속성의 전투원 방어력 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41600004.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600005.desc,아군 B 파티클 속성의 전투원 방어력 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41600005.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600006.desc,아군 B 파티클 속성의 전투원 방어력 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41600006.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600007.desc,아군 B 파티클 속성의 전투원 방어력 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41600007.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600008.desc,아군 B 파티클 속성의 전투원 방어력 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41600008.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600009.desc,아군 B 파티클 속성의 전투원 방어력 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41600009.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600010.desc,아군 B 파티클 속성의 전투원 방어력 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.41600010.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41600011.desc,아군 B 파티클 속성의 전투원 방어력 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41600011.name,블루 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700001.desc,아군 전체 전투원 방어력 +2%,Common/QuestUpBuff.txt
+QuestUpBuff.41700001.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700002.desc,아군 전체 전투원 방어력 +4%,Common/QuestUpBuff.txt
+QuestUpBuff.41700002.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700003.desc,아군 전체 전투원 방어력 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41700003.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700004.desc,아군 전체 전투원 방어력 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.41700004.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700005.desc,아군 전체 전투원 방어력 +10%,Common/QuestUpBuff.txt
+QuestUpBuff.41700005.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700006.desc,아군 전체 전투원 방어력 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41700006.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700007.desc,아군 전체 전투원 방어력 +14%,Common/QuestUpBuff.txt
+QuestUpBuff.41700007.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700008.desc,아군 전체 전투원 방어력 +16%,Common/QuestUpBuff.txt
+QuestUpBuff.41700008.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700009.desc,아군 전체 전투원 방어력 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.41700009.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700010.desc,아군 전체 전투원 방어력 +20%,Common/QuestUpBuff.txt
+QuestUpBuff.41700010.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41700011.desc,아군 전체 전투원 방어력 +22%,Common/QuestUpBuff.txt
+QuestUpBuff.41700011.name,전체 - 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800001.desc,아군 R 파티클 속성의 전투원 HP +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41800001.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800002.desc,아군 R 파티클 속성의 전투원 HP +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41800002.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800003.desc,아군 R 파티클 속성의 전투원 HP +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41800003.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800004.desc,아군 R 파티클 속성의 전투원 HP +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41800004.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800005.desc,아군 R 파티클 속성의 전투원 HP +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41800005.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800006.desc,아군 R 파티클 속성의 전투원 HP +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41800006.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800007.desc,아군 R 파티클 속성의 전투원 HP +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41800007.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800008.desc,아군 R 파티클 속성의 전투원 HP +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41800008.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800009.desc,아군 R 파티클 속성의 전투원 HP +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41800009.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800010.desc,아군 R 파티클 속성의 전투원 HP +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41800010.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41800011.desc,아군 R 파티클 속성의 전투원 HP +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41800011.name,레드 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900001.desc,아군 G 파티클 속성의 전투원 HP +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41900001.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900002.desc,아군 G 파티클 속성의 전투원 HP +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41900002.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900003.desc,아군 G 파티클 속성의 전투원 HP +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41900003.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900004.desc,아군 G 파티클 속성의 전투원 HP +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41900004.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900005.desc,아군 G 파티클 속성의 전투원 HP +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41900005.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900006.desc,아군 G 파티클 속성의 전투원 HP +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41900006.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900007.desc,아군 G 파티클 속성의 전투원 HP +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41900007.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900008.desc,아군 G 파티클 속성의 전투원 HP +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41900008.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900009.desc,아군 G 파티클 속성의 전투원 HP +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41900009.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900010.desc,아군 G 파티클 속성의 전투원 HP +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41900010.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.41900011.desc,아군 G 파티클 속성의 전투원 HP +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41900011.name,그린 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000001.desc,아군 B 파티클 속성의 전투원 HP +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42000001.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000002.desc,아군 B 파티클 속성의 전투원 HP +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42000002.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000003.desc,아군 B 파티클 속성의 전투원 HP +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42000003.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000004.desc,아군 B 파티클 속성의 전투원 HP +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42000004.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000005.desc,아군 B 파티클 속성의 전투원 HP +6%,Common/QuestUpBuff.txt
+QuestUpBuff.42000005.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000006.desc,아군 B 파티클 속성의 전투원 HP +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42000006.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000007.desc,아군 B 파티클 속성의 전투원 HP +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42000007.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000008.desc,아군 B 파티클 속성의 전투원 HP +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42000008.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000009.desc,아군 B 파티클 속성의 전투원 HP +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42000009.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000010.desc,아군 B 파티클 속성의 전투원 HP +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42000010.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42000011.desc,아군 B 파티클 속성의 전투원 HP +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42000011.name,블루 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100001.desc,아군 전체 전투원 HP +1%,Common/QuestUpBuff.txt
+QuestUpBuff.42100001.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100002.desc,아군 전체 전투원 HP +2%,Common/QuestUpBuff.txt
+QuestUpBuff.42100002.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100003.desc,아군 전체 전투원 HP +3%,Common/QuestUpBuff.txt
+QuestUpBuff.42100003.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100004.desc,아군 전체 전투원 HP +4%,Common/QuestUpBuff.txt
+QuestUpBuff.42100004.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100005.desc,아군 전체 전투원 HP +5%,Common/QuestUpBuff.txt
+QuestUpBuff.42100005.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100006.desc,아군 전체 전투원 HP +6%,Common/QuestUpBuff.txt
+QuestUpBuff.42100006.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100007.desc,아군 전체 전투원 HP +7%,Common/QuestUpBuff.txt
+QuestUpBuff.42100007.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100008.desc,아군 전체 전투원 HP +8%,Common/QuestUpBuff.txt
+QuestUpBuff.42100008.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100009.desc,아군 전체 전투원 HP +9%,Common/QuestUpBuff.txt
+QuestUpBuff.42100009.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100010.desc,아군 전체 전투원 HP +10%,Common/QuestUpBuff.txt
+QuestUpBuff.42100010.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42100011.desc,아군 전체 전투원 HP +11%,Common/QuestUpBuff.txt
+QuestUpBuff.42100011.name,전체 - HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200001.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42200001.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200002.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42200002.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200003.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42200003.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200004.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42200004.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200005.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42200005.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200006.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42200006.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200007.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42200007.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200008.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42200008.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200009.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42200009.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200010.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42200010.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42200011.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42200011.name,레드 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300001.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42300001.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300002.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42300002.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300003.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42300003.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300004.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42300004.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300005.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42300005.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300006.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42300006.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300007.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42300007.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300008.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42300008.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300009.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42300009.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300010.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42300010.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42300011.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42300011.name,그린 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400001.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42400001.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400002.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42400002.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400003.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42400003.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400004.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42400004.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400005.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42400005.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400006.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42400006.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400007.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42400007.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400008.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42400008.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400009.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42400009.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400010.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42400010.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42400011.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42400011.name,블루 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500001.desc,아군 전체 전투원 크리티컬 확률 +2%,Common/QuestUpBuff.txt
+QuestUpBuff.42500001.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500002.desc,아군 전체 전투원 크리티컬 확률 +4%,Common/QuestUpBuff.txt
+QuestUpBuff.42500002.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500003.desc,아군 전체 전투원 크리티컬 확률 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.42500003.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500004.desc,아군 전체 전투원 크리티컬 확률 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.42500004.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500005.desc,아군 전체 전투원 크리티컬 확률 +10%,Common/QuestUpBuff.txt
+QuestUpBuff.42500005.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500006.desc,아군 전체 전투원 크리티컬 확률 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42500006.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500007.desc,아군 전체 전투원 크리티컬 확률 +14%,Common/QuestUpBuff.txt
+QuestUpBuff.42500007.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500008.desc,아군 전체 전투원 크리티컬 확률 +16%,Common/QuestUpBuff.txt
+QuestUpBuff.42500008.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500009.desc,아군 전체 전투원 크리티컬 확률 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.42500009.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500010.desc,아군 전체 전투원 크리티컬 확률 +20%,Common/QuestUpBuff.txt
+QuestUpBuff.42500010.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42500011.desc,아군 전체 전투원 크리티컬 확률 +22%,Common/QuestUpBuff.txt
+QuestUpBuff.42500011.name,전체 - 크리티컬 확률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600001.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42600001.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600002.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42600002.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600003.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42600003.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600004.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42600004.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600005.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42600005.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600006.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42600006.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600007.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42600007.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600008.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42600008.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600009.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42600009.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600010.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42600010.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42600011.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42600011.name,레드 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700001.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42700001.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700002.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42700002.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700003.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42700003.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700004.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42700004.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700005.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42700005.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700006.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42700006.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700007.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42700007.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700008.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42700008.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700009.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42700009.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700010.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42700010.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42700011.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42700011.name,그린 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800001.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42800001.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800002.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42800002.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800003.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42800003.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800004.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42800004.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800005.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42800005.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800006.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42800006.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800007.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42800007.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800008.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42800008.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800009.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42800009.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800010.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42800010.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42800011.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42800011.name,블루 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900001.desc,아군 전체 전투원 크리티컬 대미지 +2%,Common/QuestUpBuff.txt
+QuestUpBuff.42900001.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900002.desc,아군 전체 전투원 크리티컬 대미지 +4%,Common/QuestUpBuff.txt
+QuestUpBuff.42900002.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900003.desc,아군 전체 전투원 크리티컬 대미지 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.42900003.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900004.desc,아군 전체 전투원 크리티컬 대미지 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.42900004.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900005.desc,아군 전체 전투원 크리티컬 대미지 +10%,Common/QuestUpBuff.txt
+QuestUpBuff.42900005.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900006.desc,아군 전체 전투원 크리티컬 대미지 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42900006.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900007.desc,아군 전체 전투원 크리티컬 대미지 +14%,Common/QuestUpBuff.txt
+QuestUpBuff.42900007.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900008.desc,아군 전체 전투원 크리티컬 대미지 +16%,Common/QuestUpBuff.txt
+QuestUpBuff.42900008.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900009.desc,아군 전체 전투원 크리티컬 대미지 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.42900009.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900010.desc,아군 전체 전투원 크리티컬 대미지 +20%,Common/QuestUpBuff.txt
+QuestUpBuff.42900010.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.42900011.desc,아군 전체 전투원 크리티컬 대미지 +22%,Common/QuestUpBuff.txt
+QuestUpBuff.42900011.name,전체 - 크리티컬 대미지 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000001.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43000001.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000002.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43000002.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000003.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43000003.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000004.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43000004.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000005.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43000005.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000006.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43000006.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000007.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43000007.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000008.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43000008.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000009.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43000009.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000010.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43000010.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43000011.desc,아군 R 파티클 속성의 전투원 크리티컬 확률 저항 +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43000011.name,레드 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100001.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43100001.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100002.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43100002.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100003.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43100003.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100004.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43100004.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100005.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43100005.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100006.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43100006.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100007.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43100007.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100008.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43100008.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100009.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43100009.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100010.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43100010.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43100011.desc,아군 G 파티클 속성의 전투원 크리티컬 확률 저항 +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43100011.name,그린 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200001.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43200001.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200002.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43200002.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200003.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43200003.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200004.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43200004.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200005.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43200005.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200006.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43200006.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200007.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43200007.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200008.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43200008.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200009.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43200009.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200010.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43200010.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43200011.desc,아군 B 파티클 속성의 전투원 크리티컬 확률 저항 +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43200011.name,블루 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300001.desc,아군 전체 전투원 크리티컬 확률 저항 +3%,Common/QuestUpBuff.txt
+QuestUpBuff.43300001.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300002.desc,아군 전체 전투원 크리티컬 확률 저항 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.43300002.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300003.desc,아군 전체 전투원 크리티컬 확률 저항 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.43300003.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300004.desc,아군 전체 전투원 크리티컬 확률 저항 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.43300004.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300005.desc,아군 전체 전투원 크리티컬 확률 저항 +15%,Common/QuestUpBuff.txt
+QuestUpBuff.43300005.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300006.desc,아군 전체 전투원 크리티컬 확률 저항 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43300006.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300007.desc,아군 전체 전투원 크리티컬 확률 저항 +21%,Common/QuestUpBuff.txt
+QuestUpBuff.43300007.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300008.desc,아군 전체 전투원 크리티컬 확률 저항 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.43300008.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300009.desc,아군 전체 전투원 크리티컬 확률 저항 +27%,Common/QuestUpBuff.txt
+QuestUpBuff.43300009.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300010.desc,아군 전체 전투원 크리티컬 확률 저항 +30%,Common/QuestUpBuff.txt
+QuestUpBuff.43300010.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43300011.desc,아군 전체 전투원 크리티컬 확률 저항 +33%,Common/QuestUpBuff.txt
+QuestUpBuff.43300011.name,전체 - 크리티컬 확률 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400001.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43400001.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400002.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43400002.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400003.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43400003.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400004.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43400004.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400005.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43400005.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400006.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43400006.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400007.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43400007.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400008.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43400008.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400009.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43400009.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400010.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43400010.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43400011.desc,아군 R 파티클 속성의 전투원 크리티컬 대미지 저항 +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43400011.name,레드 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500001.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43500001.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500002.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43500002.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500003.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43500003.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500004.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43500004.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500005.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43500005.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500006.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43500006.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500007.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43500007.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500008.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43500008.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500009.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43500009.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500010.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43500010.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43500011.desc,아군 G 파티클 속성의 전투원 크리티컬 대미지 저항 +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43500011.name,그린 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600001.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43600001.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600002.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43600002.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600003.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43600003.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600004.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43600004.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600005.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43600005.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600006.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43600006.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600007.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43600007.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600008.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43600008.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600009.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43600009.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600010.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43600010.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43600011.desc,아군 B 파티클 속성의 전투원 크리티컬 대미지 저항 +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43600011.name,블루 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700001.desc,아군 전체 전투원 크리티컬 대미지 저항 +3%,Common/QuestUpBuff.txt
+QuestUpBuff.43700001.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700002.desc,아군 전체 전투원 크리티컬 대미지 저항 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.43700002.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700003.desc,아군 전체 전투원 크리티컬 대미지 저항 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.43700003.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700004.desc,아군 전체 전투원 크리티컬 대미지 저항 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.43700004.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700005.desc,아군 전체 전투원 크리티컬 대미지 저항 +15%,Common/QuestUpBuff.txt
+QuestUpBuff.43700005.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700006.desc,아군 전체 전투원 크리티컬 대미지 저항 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43700006.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700007.desc,아군 전체 전투원 크리티컬 대미지 저항 +21%,Common/QuestUpBuff.txt
+QuestUpBuff.43700007.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700008.desc,아군 전체 전투원 크리티컬 대미지 저항 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.43700008.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700009.desc,아군 전체 전투원 크리티컬 대미지 저항 +27%,Common/QuestUpBuff.txt
+QuestUpBuff.43700009.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700010.desc,아군 전체 전투원 크리티컬 대미지 저항 +30%,Common/QuestUpBuff.txt
+QuestUpBuff.43700010.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43700011.desc,아군 전체 전투원 크리티컬 대미지 저항 +33%,Common/QuestUpBuff.txt
+QuestUpBuff.43700011.name,전체 - 크리티컬 대미지 저항 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800001.desc,아군 R 파티클 속성의 전투원 관통률 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43800001.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800002.desc,아군 R 파티클 속성의 전투원 관통률 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43800002.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800003.desc,아군 R 파티클 속성의 전투원 관통률 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43800003.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800004.desc,아군 R 파티클 속성의 전투원 관통률 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43800004.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800005.desc,아군 R 파티클 속성의 전투원 관통률 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.43800005.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800006.desc,아군 R 파티클 속성의 전투원 관통률 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43800006.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800007.desc,아군 R 파티클 속성의 전투원 관통률 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43800007.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800008.desc,아군 R 파티클 속성의 전투원 관통률 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43800008.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800009.desc,아군 R 파티클 속성의 전투원 관통률 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43800009.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800010.desc,아군 R 파티클 속성의 전투원 관통률 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.43800010.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43800011.desc,아군 R 파티클 속성의 전투원 관통률 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43800011.name,레드 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900001.desc,아군 G 파티클 속성의 전투원 관통률 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43900001.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900002.desc,아군 G 파티클 속성의 전투원 관통률 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43900002.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900003.desc,아군 G 파티클 속성의 전투원 관통률 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43900003.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900004.desc,아군 G 파티클 속성의 전투원 관통률 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43900004.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900005.desc,아군 G 파티클 속성의 전투원 관통률 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.43900005.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900006.desc,아군 G 파티클 속성의 전투원 관통률 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43900006.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900007.desc,아군 G 파티클 속성의 전투원 관통률 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43900007.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900008.desc,아군 G 파티클 속성의 전투원 관통률 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43900008.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900009.desc,아군 G 파티클 속성의 전투원 관통률 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43900009.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900010.desc,아군 G 파티클 속성의 전투원 관통률 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.43900010.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.43900011.desc,아군 G 파티클 속성의 전투원 관통률 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43900011.name,그린 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000001.desc,아군 B 파티클 속성의 전투원 관통률 +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44000001.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000002.desc,아군 B 파티클 속성의 전투원 관통률 +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44000002.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000003.desc,아군 B 파티클 속성의 전투원 관통률 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44000003.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000004.desc,아군 B 파티클 속성의 전투원 관통률 +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44000004.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000005.desc,아군 B 파티클 속성의 전투원 관통률 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.44000005.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000006.desc,아군 B 파티클 속성의 전투원 관통률 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44000006.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000007.desc,아군 B 파티클 속성의 전투원 관통률 +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44000007.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000008.desc,아군 B 파티클 속성의 전투원 관통률 +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44000008.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000009.desc,아군 B 파티클 속성의 전투원 관통률 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44000009.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000010.desc,아군 B 파티클 속성의 전투원 관통률 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.44000010.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44000011.desc,아군 B 파티클 속성의 전투원 관통률 +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44000011.name,블루 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100001.desc,아군 전체 전투원 관통률 +2%,Common/QuestUpBuff.txt
+QuestUpBuff.44100001.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100002.desc,아군 전체 전투원 관통률 +4%,Common/QuestUpBuff.txt
+QuestUpBuff.44100002.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100003.desc,아군 전체 전투원 관통률 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.44100003.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100004.desc,아군 전체 전투원 관통률 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.44100004.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100005.desc,아군 전체 전투원 관통률 +10%,Common/QuestUpBuff.txt
+QuestUpBuff.44100005.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100006.desc,아군 전체 전투원 관통률 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.44100006.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100007.desc,아군 전체 전투원 관통률 +14%,Common/QuestUpBuff.txt
+QuestUpBuff.44100007.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100008.desc,아군 전체 전투원 관통률 +16%,Common/QuestUpBuff.txt
+QuestUpBuff.44100008.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100009.desc,아군 전체 전투원 관통률 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44100009.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100010.desc,아군 전체 전투원 관통률 +20%,Common/QuestUpBuff.txt
+QuestUpBuff.44100010.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44100011.desc,아군 전체 전투원 관통률 +22%,Common/QuestUpBuff.txt
+QuestUpBuff.44100011.name,전체 - 관통률 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200001.desc,아군 R 파티클 속성의 전투원 인내율 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44200001.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200002.desc,아군 R 파티클 속성의 전투원 인내율 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44200002.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200003.desc,아군 R 파티클 속성의 전투원 인내율 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44200003.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200004.desc,아군 R 파티클 속성의 전투원 인내율 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44200004.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200005.desc,아군 R 파티클 속성의 전투원 인내율 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44200005.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200006.desc,아군 R 파티클 속성의 전투원 인내율 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44200006.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200007.desc,아군 R 파티클 속성의 전투원 인내율 +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44200007.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200008.desc,아군 R 파티클 속성의 전투원 인내율 +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44200008.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200009.desc,아군 R 파티클 속성의 전투원 인내율 +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44200009.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200010.desc,아군 R 파티클 속성의 전투원 인내율 +36%,Common/QuestUpBuff.txt
+QuestUpBuff.44200010.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44200011.desc,아군 R 파티클 속성의 전투원 인내율 +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44200011.name,레드 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300001.desc,아군 G 파티클 속성의 전투원 인내율 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44300001.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300002.desc,아군 G 파티클 속성의 전투원 인내율 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44300002.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300003.desc,아군 G 파티클 속성의 전투원 인내율 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44300003.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300004.desc,아군 G 파티클 속성의 전투원 인내율 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44300004.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300005.desc,아군 G 파티클 속성의 전투원 인내율 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44300005.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300006.desc,아군 G 파티클 속성의 전투원 인내율 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44300006.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300007.desc,아군 G 파티클 속성의 전투원 인내율 +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44300007.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300008.desc,아군 G 파티클 속성의 전투원 인내율 +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44300008.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300009.desc,아군 G 파티클 속성의 전투원 인내율 +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44300009.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300010.desc,아군 G 파티클 속성의 전투원 인내율 +36%,Common/QuestUpBuff.txt
+QuestUpBuff.44300010.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44300011.desc,아군 G 파티클 속성의 전투원 인내율 +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44300011.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400001.desc,아군 B 파티클 속성의 전투원 인내율 +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44400001.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400002.desc,아군 B 파티클 속성의 전투원 인내율 +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44400002.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400003.desc,아군 B 파티클 속성의 전투원 인내율 +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44400003.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400004.desc,아군 B 파티클 속성의 전투원 인내율 +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44400004.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400005.desc,아군 B 파티클 속성의 전투원 인내율 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44400005.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400006.desc,아군 B 파티클 속성의 전투원 인내율 +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44400006.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400007.desc,아군 B 파티클 속성의 전투원 인내율 +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44400007.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400008.desc,아군 B 파티클 속성의 전투원 인내율 +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44400008.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400009.desc,아군 B 파티클 속성의 전투원 인내율 +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44400009.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400010.desc,아군 B 파티클 속성의 전투원 인내율 +36%,Common/QuestUpBuff.txt
+QuestUpBuff.44400010.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44400011.desc,아군 B 파티클 속성의 전투원 인내율 +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44400011.name,그린 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500001.desc,아군 전체 전투원 인내율 +3%,Common/QuestUpBuff.txt
+QuestUpBuff.44500001.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500002.desc,아군 전체 전투원 인내율 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.44500002.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500003.desc,아군 전체 전투원 인내율 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.44500003.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500004.desc,아군 전체 전투원 인내율 +12%,Common/QuestUpBuff.txt
+QuestUpBuff.44500004.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500005.desc,아군 전체 전투원 인내율 +15%,Common/QuestUpBuff.txt
+QuestUpBuff.44500005.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500006.desc,아군 전체 전투원 인내율 +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44500006.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500007.desc,아군 전체 전투원 인내율 +21%,Common/QuestUpBuff.txt
+QuestUpBuff.44500007.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500008.desc,아군 전체 전투원 인내율 +24%,Common/QuestUpBuff.txt
+QuestUpBuff.44500008.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500009.desc,아군 전체 전투원 인내율 +27%,Common/QuestUpBuff.txt
+QuestUpBuff.44500009.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500010.desc,아군 전체 전투원 인내율 +30%,Common/QuestUpBuff.txt
+QuestUpBuff.44500010.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44500011.desc,아군 전체 전투원 인내율 +33%,Common/QuestUpBuff.txt
+QuestUpBuff.44500011.name,전체 - 인내율 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600001.desc,아군 전체 전투원 전투력 +1%,Common/QuestUpBuff.txt
+QuestUpBuff.44600001.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600002.desc,아군 전체 전투원 전투력 +2%,Common/QuestUpBuff.txt
+QuestUpBuff.44600002.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600003.desc,아군 전체 전투원 전투력 +3%,Common/QuestUpBuff.txt
+QuestUpBuff.44600003.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600004.desc,아군 전체 전투원 전투력 +4%,Common/QuestUpBuff.txt
+QuestUpBuff.44600004.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600005.desc,아군 전체 전투원 전투력 +5%,Common/QuestUpBuff.txt
+QuestUpBuff.44600005.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600006.desc,아군 전체 전투원 전투력 +6%,Common/QuestUpBuff.txt
+QuestUpBuff.44600006.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600007.desc,아군 전체 전투원 전투력 +7%,Common/QuestUpBuff.txt
+QuestUpBuff.44600007.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600008.desc,아군 전체 전투원 전투력 +8%,Common/QuestUpBuff.txt
+QuestUpBuff.44600008.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600009.desc,아군 전체 전투원 전투력 +9%,Common/QuestUpBuff.txt
+QuestUpBuff.44600009.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600010.desc,아군 전체 전투원 전투력 +10%,Common/QuestUpBuff.txt
+QuestUpBuff.44600010.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44600011.desc,아군 전체 전투원 전투력 +11%,Common/QuestUpBuff.txt
+QuestUpBuff.44600011.name,전체 - 전투력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700001.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 0.3% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700001.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700002.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 0.6% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700002.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700003.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 0.9% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700003.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700004.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 1.2% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700004.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700005.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 1.5% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700005.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700006.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 1.8% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700006.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700007.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 2.1% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700007.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700008.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 2.4% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700008.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700009.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 2.7% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700009.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700010.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 3% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700010.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44700011.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 공격력 3.3% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44700011.name,전체 - SP 1점 + 공격력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800001.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 0.6% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800001.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800002.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 1.2% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800002.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800003.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 1.8% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800003.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800004.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 2.4% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800004.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800005.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 3% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800005.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800006.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 3.6% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800006.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800007.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 4.2% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800007.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800008.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 4.8% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800008.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800009.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 5.4% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800009.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800010.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 6% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800010.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44800011.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, 방어력 6.6% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44800011.name,전체 - SP 1점 + 방어력 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900001.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 0.3% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900001.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900002.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 0.6% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900002.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900003.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 0.9% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900003.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900004.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 1.2% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900004.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900005.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 1.5% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900005.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900006.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 1.8% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900006.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900007.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 2.1% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900007.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900008.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 2.4% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900008.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900009.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 2.7% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900009.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900010.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 3% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900010.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.44900011.desc,"아군 전체 전투원 전투 시작 시 SP 1점 획득, HP 3.3% 증가",Common/QuestUpBuff.txt
+QuestUpBuff.44900011.name,전체 - SP 1점 + HP 증가,Common/QuestUpBuff.txt
+QuestUpBuff.7100152.desc,"모든 팀원의 공격력, HP+15%",Common/QuestUpBuff.txt
+QuestUpBuff.7100152.name,0★ 증가:,Common/QuestUpBuff.txt
+QuestUpBuff.7100153.desc,"모든 팀원의 공격력, HP+20%",Common/QuestUpBuff.txt
+QuestUpBuff.7100153.name,1★ 증가:,Common/QuestUpBuff.txt
+QuestUpBuff.7100154.desc,"모든 팀원의 공격력, HP+24%",Common/QuestUpBuff.txt
+QuestUpBuff.7100154.name,2★ 증가:,Common/QuestUpBuff.txt
+QuestUpBuff.7100155.desc,"모든 팀원의 공격력, HP+27%",Common/QuestUpBuff.txt
+QuestUpBuff.7100155.name,3★ 증가:,Common/QuestUpBuff.txt
+QuestUpBuff.7100156.desc,"모든 팀원의 공격력, HP+30%",Common/QuestUpBuff.txt
+QuestUpBuff.7100156.name,4★ 증가:,Common/QuestUpBuff.txt
+QuestUpBuff.7100157.desc,"모든 팀원의 공격력, HP+33%",Common/QuestUpBuff.txt
+QuestUpBuff.7100157.name,5★ 증가:,Common/QuestUpBuff.txt
+QuestUpBuff.7100158.desc,"모든 팀원의 공격력, HP+35%",Common/QuestUpBuff.txt
+QuestUpBuff.7100158.name,6★ 증가:,Common/QuestUpBuff.txt

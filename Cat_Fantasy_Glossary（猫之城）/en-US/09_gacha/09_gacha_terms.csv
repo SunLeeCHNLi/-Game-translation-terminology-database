@@ -1,0 +1,54 @@
+﻿id,term,src_table
+GachaSkinTaskVo.1.desc,Log into the game.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.10.desc,Make 150 summons in the current event.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.11.desc,Make 200 summons in the current event.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.12.desc,Get 200 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.13.desc,Get 500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.14.desc,Get 1000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.15.desc,Get 1500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.16.desc,Get 2000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.17.desc,Get 200 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.18.desc,Get 500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.19.desc,Get 1000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.2.desc,Log in 3 days in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.20.desc,Get 1500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.21.desc,Get 2000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.22.desc,Get 200 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.23.desc,Get 500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.24.desc,Get 1000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.25.desc,Get 1500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.26.desc,Get 2000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.27.desc,Get 200 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.28.desc,Get 500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.29.desc,Get 1000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.3.desc,Log in 7 days in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.30.desc,Get 1500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.31.desc,Get 2000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.32.desc,Get 200 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.33.desc,Get 500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.34.desc,Get 1000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.35.desc,Get 1500 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.36.desc,Get 2000 Activeness Pts in total.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.4.desc,Make 10 summons.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.5.desc,Spend 200 Pathos.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.6.desc,Complete any EXP Stage 1 time.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.7.desc,Complete any Chip Stage 1 time.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.8.desc,Make 50 summons in the current event.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.9.desc,Make 100 summons in the current event.,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTreasureTaskVo.1.desc,Get 200 Activeness Pts in total.,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaSkinTreasureTaskVo.2.desc,Get 500 Activeness Pts in total.,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaSkinTreasureTaskVo.3.desc,Get 1000 Activeness Pts in total.,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaSkinTreasureTaskVo.4.desc,Get 1500 Activeness Pts in total.,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaSkinTreasureTaskVo.5.desc,Get 2000 Activeness Pts in total.,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaponGuide.999999.name,Regular Summon,Gachapon/GachaponGuide.txt
+GachaponGuide.999999.poolDes,"In the Regular Summon, if you fail to summon an SSR Combatant for <color=#ff7b11>50</color> consecutive attempts, the chance of obtaining an SSR Combatant increases from the original <color=#ff7b11>2%</color> to <color=#ff7b11>4%</color> on your next attempt. If you still don't summon an SSR Combatant, the chance will rise from <color=#ff7b11>4%</color> to <color=#ff7b11>6%</color> for the following summons, continuing this pattern with an increase of <color=#ff7b11>2%</color> each time until it reaches a <color=#ff7b11>100%</color> chance.\nAdditionally, in a ten-summon sequence, you are guaranteed to receive at least one SR Combatant.",Gachapon/GachaponGuide.txt
+GachaponTaskVo.1.desc,Log in to the game.,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.10.desc,Summon 100 times.,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.2.desc,Summon 20 times.,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.3.desc,Summon 30 times.,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.4.desc,Summon 40 times.,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.5.desc,Summon 50 times.,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.6.desc,Summon 60 times.,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.7.desc,Summon 70 times.,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.8.desc,Summon 80 times.,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.9.desc,Summon 90 times.,Gachapon/GachaponTaskVo.txt

@@ -1,0 +1,54 @@
+﻿id,term,src_table
+GachaSkinTaskVo.1.desc,로그인 시 증정,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.10.desc,이번 이벤트 소환 150회 진행,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.11.desc,이번 이벤트 소환 200회 진행,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.12.desc,활약도 누적 200pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.13.desc,활약도 누적 500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.14.desc,활약도 누적 1000 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.15.desc,활약도 누적 1500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.16.desc,활약도 누적 2000pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.17.desc,활약도 누적 200pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.18.desc,활약도 누적 500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.19.desc,활약도 누적 1000 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.2.desc,누적 로그인 3일,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.20.desc,활약도 누적 1500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.21.desc,활약도 누적 2000pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.22.desc,활약도 누적 200pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.23.desc,활약도 누적 500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.24.desc,활약도 누적 1000 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.25.desc,활약도 누적 1500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.26.desc,활약도 누적 2000pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.27.desc,활약도 누적 200pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.28.desc,활약도 누적 500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.29.desc,활약도 누적 1000 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.3.desc,누적 로그인 7일,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.30.desc,활약도 누적 1500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.31.desc,활약도 누적 2000pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.32.desc,활약도 누적 200pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.33.desc,활약도 누적 500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.34.desc,활약도 누적 1000 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.35.desc,활약도 누적 1500pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.36.desc,활약도 누적 2000pt 획득,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.4.desc,10회 소환 진행,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.5.desc,이모션 200 소모,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.6.desc,임의의 난이도 경험치 던전 1회 클리어,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.7.desc,임의의 난이도 크리스털 던전 1회 클리어,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.8.desc,이번 이벤트 소환 50회 진행,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTaskVo.9.desc,이번 이벤트 소환 100회 진행,GachaSkin/GachaSkinTaskVo.txt
+GachaSkinTreasureTaskVo.1.desc,활약도 누적 200pt 획득,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaSkinTreasureTaskVo.2.desc,활약도 누적 500pt 획득,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaSkinTreasureTaskVo.3.desc,활약도 누적 1000 획득,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaSkinTreasureTaskVo.4.desc,활약도 누적 1500pt 획득,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaSkinTreasureTaskVo.5.desc,활약도 누적 2000pt 획득,GachaSkin/GachaSkinTreasureTaskVo.txt
+GachaponGuide.999999.name,일반 소환,Gachapon/GachaponGuide.txt
+GachaponGuide.999999.poolDes,"일반 소환에서 <color=#ff7b11>50</color>회 연속 SSR 전투원이 소환되지 않으면，다음 차례에 SSR 전투원 획득 확률이 기존 <color=#ff7b11>2%</color>에서 <color=#ff7b11>4%</color>로 증가하고, 그 다음 차례에도 SSR 전투원이 소환되지 않으면 SSR 전투원 획득 확률은 <color=#ff7b11>4%</color>에서 <color=#ff7b11>6%</color>로 증가하며, 이와 같이 매 차례 SSR 전투원 미소환 시 <color=#ff7b11>2%</color>만큼 SSR 전투원 획득률이 증가하고, 최대 <color=#ff7b11>100%</color>확률로 SSR 전투원을 획득할 때까지 증가한다.\n10회 연속 소환 시, 반드시 하나의 SR 전투원을 획득할 수 있습니다.",Gachapon/GachaponGuide.txt
+GachaponTaskVo.1.desc,게임 로그인,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.10.desc,소환 100회 하기,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.2.desc,소환 20회 하기,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.3.desc,소환 30회 하기,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.4.desc,소환 40회 하기,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.5.desc,소환 50회 하기,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.6.desc,소환 60회 하기,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.7.desc,소환 70회 하기,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.8.desc,소환 80회 하기,Gachapon/GachaponTaskVo.txt
+GachaponTaskVo.9.desc,소환 90회 하기,Gachapon/GachaponTaskVo.txt

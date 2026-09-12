@@ -1,0 +1,1635 @@
+﻿id,term,src_table
+AttrAddition.1003.attributeName,Accuracy,Card/AttrAddition.txt
+AttrAddition.101.attributeName,ATK,Card/AttrAddition.txt
+AttrAddition.102.attributeName,ATK,Card/AttrAddition.txt
+AttrAddition.1103.attributeName,Block,Card/AttrAddition.txt
+AttrAddition.1203.attributeName,Armor PEN,Card/AttrAddition.txt
+AttrAddition.1303.attributeName,Endurance,Card/AttrAddition.txt
+AttrAddition.1401.attributeName,Base DMG,Card/AttrAddition.txt
+AttrAddition.1402.attributeName,Base DMG Red.,Card/AttrAddition.txt
+AttrAddition.1501.attributeName,DMG,Card/AttrAddition.txt
+AttrAddition.1502.attributeName,DMG Reduction,Card/AttrAddition.txt
+AttrAddition.1601.attributeName,Healing Boost,Card/AttrAddition.txt
+AttrAddition.1602.attributeName,Received Healing UP,Card/AttrAddition.txt
+AttrAddition.1701.attributeName,Lifesteal,Card/AttrAddition.txt
+AttrAddition.1901.attributeName,Splash,Card/AttrAddition.txt
+AttrAddition.2001.attributeName,DMG Reflection,Card/AttrAddition.txt
+AttrAddition.2002.attributeName,DMG Reflection,Card/AttrAddition.txt
+AttrAddition.201.attributeName,DEF,Card/AttrAddition.txt
+AttrAddition.202.attributeName,DEF,Card/AttrAddition.txt
+AttrAddition.2101.attributeName,Shield Effect UP,Card/AttrAddition.txt
+AttrAddition.2102.attributeName,Shield Gained UP,Card/AttrAddition.txt
+AttrAddition.2201.attributeName,Indirect DMG,Card/AttrAddition.txt
+AttrAddition.2202.attributeName,Indirect DMG Red.,Card/AttrAddition.txt
+AttrAddition.2501.attributeName,Control Boost,Card/AttrAddition.txt
+AttrAddition.2502.attributeName,Control RES,Card/AttrAddition.txt
+AttrAddition.2601.attributeName,Critical Modifier,Card/AttrAddition.txt
+AttrAddition.301.attributeName,HP,Card/AttrAddition.txt
+AttrAddition.302.attributeName,HP,Card/AttrAddition.txt
+AttrAddition.401.attributeName,LUCK,Card/AttrAddition.txt
+AttrAddition.603.attributeName,CRIT Rate,Card/AttrAddition.txt
+AttrAddition.703.attributeName,CRIT DMG,Card/AttrAddition.txt
+AttrAddition.803.attributeName,CRIT RES,Card/AttrAddition.txt
+AttrAddition.903.attributeName,CRIT DMG RES,Card/AttrAddition.txt
+AttrDefines.1.attributeDesc,The base stat that deals DMG,Card/AttrDefines.txt
+AttrDefines.1.attributeName,ATK,Card/AttrDefines.txt
+AttrDefines.10.attributeDesc,Resists hit effects but cannot nullify damage.,Card/AttrDefines.txt
+AttrDefines.10.attributeName,Block,Card/AttrDefines.txt
+AttrDefines.100.attributeDesc,Current HP,Card/AttrDefines.txt
+AttrDefines.100.attributeName,Current HP,Card/AttrDefines.txt
+AttrDefines.2.attributeDesc,The base stat that resists DMG,Card/AttrDefines.txt
+AttrDefines.2.attributeName,DEF,Card/AttrDefines.txt
+AttrDefines.20.attributeDesc,Increases probability of summoning 2★ skill cards in battle.,Card/AttrDefines.txt
+AttrDefines.20.attributeName,LUCK,Card/AttrDefines.txt
+AttrDefines.201.attributeName,DMG Variation,Card/AttrDefines.txt
+AttrDefines.202.attributeName,Vulnerability,Card/AttrDefines.txt
+AttrDefines.206.attributeDesc,Increases healing effect received.,Card/AttrDefines.txt
+AttrDefines.206.attributeName,Received Healing UP,Card/AttrDefines.txt
+AttrDefines.207.attributeName,Variation of DMG dealt,Card/AttrDefines.txt
+AttrDefines.208.attributeName,Lifesteal (calculated based on the actual damage dealt),Card/AttrDefines.txt
+AttrDefines.209.attributeDesc,Converts a portion of ATK to additional Piercing DMG (minimum of 0),Card/AttrDefines.txt
+AttrDefines.209.attributeName,Armor PEN,Card/AttrDefines.txt
+AttrDefines.21.attributeDesc,Probability of resisting CRIT DMG,Card/AttrDefines.txt
+AttrDefines.21.attributeName,CRIT RES,Card/AttrDefines.txt
+AttrDefines.210.attributeDesc,Converts a portion of DEF to resist Piercing DMG (minimum of 0),Card/AttrDefines.txt
+AttrDefines.210.attributeName,Endurance,Card/AttrDefines.txt
+AttrDefines.211.attributeDesc,Increases healing effect applied.,Card/AttrDefines.txt
+AttrDefines.211.attributeName,Healing Boost,Card/AttrDefines.txt
+AttrDefines.212.attributeName,Splash,Card/AttrDefines.txt
+AttrDefines.213.attributeDesc,Points required to activate skills.,Card/AttrDefines.txt
+AttrDefines.213.attributeName,SP,Card/AttrDefines.txt
+AttrDefines.214.attributeDesc,Increases Shield Effect applied.,Card/AttrDefines.txt
+AttrDefines.214.attributeName,Shield Effect UP,Card/AttrDefines.txt
+AttrDefines.215.attributeDesc,Increases Shield Effect received.,Card/AttrDefines.txt
+AttrDefines.215.attributeName,Shield Gained UP,Card/AttrDefines.txt
+AttrDefines.216.attributeName,Increases Indirect DMG.,Card/AttrDefines.txt
+AttrDefines.217.attributeName,Indirect DMG Red.,Card/AttrDefines.txt
+AttrDefines.218.attributeName,Converts excess healing to Shield.,Card/AttrDefines.txt
+AttrDefines.219.attributeName,Converts excess healing to DMG.,Card/AttrDefines.txt
+AttrDefines.22.attributeDesc,Reduces the amount of DMG from critical hits.,Card/AttrDefines.txt
+AttrDefines.22.attributeName,CRIT DMG RES,Card/AttrDefines.txt
+AttrDefines.220.attributeDesc,Increases probability of inflicting Control effects.,Card/AttrDefines.txt
+AttrDefines.220.attributeName,Control Boost,Card/AttrDefines.txt
+AttrDefines.221.attributeDesc,Reduces probability of being Controlled.,Card/AttrDefines.txt
+AttrDefines.221.attributeName,Control RES,Card/AttrDefines.txt
+AttrDefines.222.attributeName,CRIT Overflow Modifier,Card/AttrDefines.txt
+AttrDefines.23.attributeDesc,Increases the final DMG dealt.,Card/AttrDefines.txt
+AttrDefines.23.attributeName,DMG Boost,Card/AttrDefines.txt
+AttrDefines.24.attributeDesc,Resists the final DMG received.,Card/AttrDefines.txt
+AttrDefines.24.attributeName,DMG Reduction,Card/AttrDefines.txt
+AttrDefines.25.attributeName,Skill DMG increase (external),Card/AttrDefines.txt
+AttrDefines.26.attributeName,Skill DMG taken reduction (external),Card/AttrDefines.txt
+AttrDefines.27.attributeDesc,Increases skill damage.,Card/AttrDefines.txt
+AttrDefines.27.attributeName,Base DMG Increase,Card/AttrDefines.txt
+AttrDefines.28.attributeDesc,Reduces incoming skill damage.,Card/AttrDefines.txt
+AttrDefines.28.attributeName,Base DMG Red.,Card/AttrDefines.txt
+AttrDefines.29.attributeDesc,A base stat that converts some ATK into extra penetration damage.,Card/AttrDefines.txt
+AttrDefines.29.attributeName,Penetration,Card/AttrDefines.txt
+AttrDefines.3.attributeDesc,The base stat that takes DMG,Card/AttrDefines.txt
+AttrDefines.3.attributeName,HP,Card/AttrDefines.txt
+AttrDefines.30.attributeDesc,Converts some DEF into resistance to penetration damage.,Card/AttrDefines.txt
+AttrDefines.30.attributeName,DMG Taken,Card/AttrDefines.txt
+AttrDefines.32.attributeDesc,Reduces the base amount of DMG from critical hits.,Card/AttrDefines.txt
+AttrDefines.32.attributeName,CRIT DMG RES,Card/AttrDefines.txt
+AttrDefines.35.attributeDesc,Base probability of inflicting CRIT DMG,Card/AttrDefines.txt
+AttrDefines.35.attributeName,CRIT Rate,Card/AttrDefines.txt
+AttrDefines.36.attributeDesc,Base amount of DMG when inflicting CRIT DMG,Card/AttrDefines.txt
+AttrDefines.36.attributeName,CRIT DMG,Card/AttrDefines.txt
+AttrDefines.37.attributeDesc,A base stat that can affect the basic hit rate of skill damage.,Card/AttrDefines.txt
+AttrDefines.37.attributeName,Accuracy,Card/AttrDefines.txt
+AttrDefines.40.attributeDesc,The basic stat that can resist hit effects but cannot nullify damage.,Card/AttrDefines.txt
+AttrDefines.40.attributeName,Block,Card/AttrDefines.txt
+AttrDefines.41.attributeDesc,Base probability of resisting CRIT DMG,Card/AttrDefines.txt
+AttrDefines.41.attributeName,CRIT RES,Card/AttrDefines.txt
+AttrDefines.5.attributeDesc,Probability of inflicting CRIT DMG,Card/AttrDefines.txt
+AttrDefines.5.attributeName,CRIT Rate,Card/AttrDefines.txt
+AttrDefines.6.attributeDesc,Amount of DMG when inflicting CRIT DMG,Card/AttrDefines.txt
+AttrDefines.6.attributeName,CRIT DMG,Card/AttrDefines.txt
+AttrDefines.7.attributeDesc,A base stat that can affect the basic hit rate of skill damage.,Card/AttrDefines.txt
+AttrDefines.7.attributeName,Accuracy,Card/AttrDefines.txt
+AttributeColor.1.name,Red Pathos,Card/AttributeColor.txt
+AttributeColor.1.restrain,Counters Green Pathos. DMG +30%;Countered by Blue Pathos. DMG -25%.,Card/AttributeColor.txt
+AttributeColor.2.name,Green Pathos,Card/AttributeColor.txt
+AttributeColor.2.restrain,Counters Blue Pathos. DMG +30%;Countered by Red Pathos. DMG -25%.,Card/AttributeColor.txt
+AttributeColor.3.name,Blue Pathos,Card/AttributeColor.txt
+AttributeColor.3.restrain,Counters Red Pathos. DMG +30%;Countered by Green Pathos. DMG -25%.,Card/AttributeColor.txt
+AttributeColor.4.desc,"Against Red, Green, Blue, and Black Pathos, White Pathos deals 10% more damage and takes 10% less damage.",Card/AttributeColor.txt
+AttributeColor.4.name,White Pathos,Card/AttributeColor.txt
+AttributeColor.4.restrain,"Against the other 4 Pathos, White Pathos deals 10% more damage and takes 10% less damage.",Card/AttributeColor.txt
+AttributeColor.5.name,Black Pathos,Card/AttributeColor.txt
+AttributeColor.5.restrain,"Against the other 4 Pathos, Black Pathos deals 20% more damage.",Card/AttributeColor.txt
+CheckInBonusVo.1.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.10.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.100.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.101.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.102.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.103.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.104.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.105.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.106.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.107.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.108.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.109.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.11.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.110.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.111.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.112.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.113.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.114.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.115.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.116.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.117.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.118.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.119.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.12.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.120.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.121.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.122.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.123.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.124.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.125.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.126.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.127.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.128.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.129.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.13.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.130.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.131.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.132.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.133.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.134.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.135.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.136.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.137.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.138.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.139.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.14.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.140.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.141.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.142.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.143.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.144.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.145.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.146.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.147.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.148.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.149.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.15.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.150.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.151.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.152.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.153.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.154.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.155.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.156.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.157.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.158.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.159.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.16.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.160.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.161.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.162.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.163.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.164.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.165.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.166.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.167.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.168.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.169.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.17.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.170.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.171.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.172.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.173.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.174.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.175.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.176.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.177.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.178.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.179.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.18.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.180.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.181.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.182.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.183.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.184.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.185.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.186.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.187.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.188.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.189.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.19.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.190.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.191.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.192.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.193.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.194.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.195.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.196.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.197.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.198.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.199.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.2.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.20.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.200.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.201.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.202.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.203.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.204.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.205.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.206.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.207.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.208.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.209.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.21.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.210.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.22.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.23.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.24.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.25.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.26.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.27.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.28.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.29.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.3.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.30.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.31.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.32.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.33.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.34.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.35.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.36.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.37.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.38.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.39.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.4.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.40.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.41.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.42.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.43.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.44.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.45.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.46.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.47.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.48.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.49.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.5.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.50.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.51.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.52.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.53.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.54.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.55.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.56.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.57.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.58.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.59.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.6.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.60.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.61.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.62.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.63.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.64.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.65.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.66.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.67.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.68.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.69.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.7.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.70.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.71.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.72.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.73.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.74.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.75.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.76.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.77.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.78.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.79.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.8.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.80.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.81.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.82.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.83.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.84.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.85.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.86.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.87.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.88.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.89.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.9.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.90.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.91.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.92.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.93.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.94.des,"ATK <color=""#00fffc"">+%d</color>;DEF <color=""#00fffc"">+%d</color>;HP <color=""#00fffc"">+%d</color>",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.95.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.96.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.97.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.98.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+CheckInBonusVo.99.des,"Recorded stats increase to <color=""#00fffc"">%d</color>.",GlobalAttr/CheckIn/CheckInBonusVo.txt
+ElementNames.1.desc,DMG +30%,Common/ElementNames.txt
+ElementNames.1.desc1,DMG -25%,Common/ElementNames.txt
+ElementNames.1.mark,Red,Common/ElementNames.txt
+ElementNames.1.name,R Particle,Common/ElementNames.txt
+ElementNames.2.mark,Green,Common/ElementNames.txt
+ElementNames.2.name,G Particle,Common/ElementNames.txt
+ElementNames.3.mark,Blue,Common/ElementNames.txt
+ElementNames.3.name,B Particle,Common/ElementNames.txt
+ElementNames.4.desc,DMG +10%,Common/ElementNames.txt
+ElementNames.4.desc1,DMG Taken -10%,Common/ElementNames.txt
+ElementNames.4.mark,Light,Common/ElementNames.txt
+ElementNames.4.name,L Particle,Common/ElementNames.txt
+ElementNames.5.desc,DMG +20%,Common/ElementNames.txt
+ElementNames.5.mark,Dark,Common/ElementNames.txt
+ElementNames.5.name,D Particle,Common/ElementNames.txt
+QuestUpBuff.10000001.desc,ATK +20,Common/QuestUpBuff.txt
+QuestUpBuff.10000001.name,ATK Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000002.desc,DEF +30,Common/QuestUpBuff.txt
+QuestUpBuff.10000002.name,DEF Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000003.desc,HP +150,Common/QuestUpBuff.txt
+QuestUpBuff.10000003.name,HP Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000004.desc,CRIT Rate +4.5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000004.name,CRIT Rate UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000005.desc,CRIT DMG +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000005.name,CRIT DMG Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000006.desc,CRIT RES +4.5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000006.name,CRIT RES UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000007.desc,CRIT DMG RES +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000007.name,CRIT DMG UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000008.desc,Armor PEN +4.5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000008.name,Armor PEN UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000009.desc,END +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000009.name,Endurance UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000010.desc,Healing Effect +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000010.name,Healing Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000011.desc,Healing Received +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000011.name,Received Healing UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000012.desc,Shield Effect +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000012.name,Shield Effect UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000013.desc,Shield Gained +8%,Common/QuestUpBuff.txt
+QuestUpBuff.10000013.name,Shield Gained UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000014.desc,ATK +50,Common/QuestUpBuff.txt
+QuestUpBuff.10000014.name,ATK Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000015.desc,DEF +60,Common/QuestUpBuff.txt
+QuestUpBuff.10000015.name,DEF Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000016.desc,HP +200,Common/QuestUpBuff.txt
+QuestUpBuff.10000016.name,HP Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000017.desc,CRIT Rate +5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000017.name,CRIT Rate UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000018.desc,CRIT DMG +10%,Common/QuestUpBuff.txt
+QuestUpBuff.10000018.name,CRIT DMG Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000019.desc,CRIT RES +5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000019.name,CRIT RES UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000020.desc,CRIT DMG RES +10%,Common/QuestUpBuff.txt
+QuestUpBuff.10000020.name,CRIT DMG UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000021.desc,Armor PEN +5%,Common/QuestUpBuff.txt
+QuestUpBuff.10000021.name,Armor PEN UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000022.desc,Endurance +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000022.name,Endurance UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000023.desc,Healing Effect +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000023.name,Healing Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000024.desc,Healing Received +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000024.name,Received Healing UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000025.desc,Shield Effect +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000025.name,Shield Effect UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000026.desc,Shield Gained +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000026.name,Shield Gained UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000027.desc,ATK +6%,Common/QuestUpBuff.txt
+QuestUpBuff.10000027.name,ATK Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000028.desc,DEF +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000028.name,DEF Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000029.desc,HP +9%,Common/QuestUpBuff.txt
+QuestUpBuff.10000029.name,HP Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000030.desc,CRIT Rate +7%,Common/QuestUpBuff.txt
+QuestUpBuff.10000030.name,CRIT Rate UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000031.desc,CRIT DMG +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10000031.name,CRIT DMG Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000032.desc,CRIT RES +7%,Common/QuestUpBuff.txt
+QuestUpBuff.10000032.name,CRIT RES UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000033.desc,CRIT DMG RES +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10000033.name,CRIT DMG UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000034.desc,Armor PEN +7%,Common/QuestUpBuff.txt
+QuestUpBuff.10000034.name,Armor PEN UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000035.desc,Endurance +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000035.name,Endurance UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000036.desc,Healing Effect +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000036.name,Healing Boost,Common/QuestUpBuff.txt
+QuestUpBuff.10000037.desc,Received Healing +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000037.name,Received Healing UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000038.desc,Shield Effect +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000038.name,Shield Effect UP,Common/QuestUpBuff.txt
+QuestUpBuff.10000039.desc,Shield Gained +11%,Common/QuestUpBuff.txt
+QuestUpBuff.10000039.name,Shield Gained UP,Common/QuestUpBuff.txt
+QuestUpBuff.10001.desc,ATK +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10001.name,Exclusive Bonus,Common/QuestUpBuff.txt
+QuestUpBuff.10002.desc,CRIT DMG +35%,Common/QuestUpBuff.txt
+QuestUpBuff.10002.name,Exclusive Bonus,Common/QuestUpBuff.txt
+QuestUpBuff.10003.desc,CRIT Rate +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10003.name,Exclusive Bonus,Common/QuestUpBuff.txt
+QuestUpBuff.10004.desc,HP +30%,Common/QuestUpBuff.txt
+QuestUpBuff.10004.name,Exclusive Bonus,Common/QuestUpBuff.txt
+QuestUpBuff.10005.desc,Armor PEN +15%,Common/QuestUpBuff.txt
+QuestUpBuff.10005.name,Exclusive Bonus,Common/QuestUpBuff.txt
+QuestUpBuff.120601011.desc,Base ATK +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601011.name,Student ID,Common/QuestUpBuff.txt
+QuestUpBuff.120601012.desc,Base ATK +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601012.name,Student ID,Common/QuestUpBuff.txt
+QuestUpBuff.120601013.desc,Base ATK +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601013.name,Student ID,Common/QuestUpBuff.txt
+QuestUpBuff.120601014.desc,Base ATK +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601014.name,Student ID,Common/QuestUpBuff.txt
+QuestUpBuff.120601015.desc,Base ATK +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601015.name,Student ID,Common/QuestUpBuff.txt
+QuestUpBuff.120601016.desc,Base ATK +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601016.name,Student ID,Common/QuestUpBuff.txt
+QuestUpBuff.120601021.desc,Base DEF +20%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601021.name,Tea Cup,Common/QuestUpBuff.txt
+QuestUpBuff.120601022.desc,Base DEF +30%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601022.name,Tea Cup,Common/QuestUpBuff.txt
+QuestUpBuff.120601023.desc,Base DEF +40%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601023.name,Tea Cup,Common/QuestUpBuff.txt
+QuestUpBuff.120601024.desc,Base DEF +50%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601024.name,Tea Cup,Common/QuestUpBuff.txt
+QuestUpBuff.120601025.desc,Base DEF +60%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601025.name,Tea Cup,Common/QuestUpBuff.txt
+QuestUpBuff.120601026.desc,Base DEF +80%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601026.name,Tea Cup,Common/QuestUpBuff.txt
+QuestUpBuff.120601031.desc,Base HP +20%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601031.name,Diary,Common/QuestUpBuff.txt
+QuestUpBuff.120601032.desc,Base HP +30%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601032.name,Diary,Common/QuestUpBuff.txt
+QuestUpBuff.120601033.desc,Base HP +40%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601033.name,Diary,Common/QuestUpBuff.txt
+QuestUpBuff.120601034.desc,Base HP +50%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601034.name,Diary,Common/QuestUpBuff.txt
+QuestUpBuff.120601035.desc,Base HP +60%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601035.name,Diary,Common/QuestUpBuff.txt
+QuestUpBuff.120601036.desc,Base HP +80%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601036.name,Diary,Common/QuestUpBuff.txt
+QuestUpBuff.120601041.desc,Base ATK +200;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601041.name,Cake,Common/QuestUpBuff.txt
+QuestUpBuff.120601042.desc,Base ATK +420;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601042.name,Cake,Common/QuestUpBuff.txt
+QuestUpBuff.120601043.desc,Base ATK +640;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601043.name,Cake,Common/QuestUpBuff.txt
+QuestUpBuff.120601044.desc,Base ATK +860;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601044.name,Cake,Common/QuestUpBuff.txt
+QuestUpBuff.120601045.desc,Base ATK +1080;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601045.name,Cake,Common/QuestUpBuff.txt
+QuestUpBuff.120601046.desc,Base ATK +1500;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601046.name,Cake,Common/QuestUpBuff.txt
+QuestUpBuff.120601051.desc,Base DEF +300;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601051.name,Darkpaw,Common/QuestUpBuff.txt
+QuestUpBuff.120601052.desc,Base DEF +550;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601052.name,Darkpaw,Common/QuestUpBuff.txt
+QuestUpBuff.120601053.desc,Base DEF +800;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601053.name,Darkpaw,Common/QuestUpBuff.txt
+QuestUpBuff.120601054.desc,Base DEF +1050;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601054.name,Darkpaw,Common/QuestUpBuff.txt
+QuestUpBuff.120601055.desc,Base DEF +1300;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601055.name,Darkpaw,Common/QuestUpBuff.txt
+QuestUpBuff.120601056.desc,Base DEF +1800;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601056.name,Darkpaw,Common/QuestUpBuff.txt
+QuestUpBuff.120601061.desc,Armor PEN +10%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601061.name,Newspaper,Common/QuestUpBuff.txt
+QuestUpBuff.120601062.desc,Armor PEN +18%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601062.name,Newspaper,Common/QuestUpBuff.txt
+QuestUpBuff.120601063.desc,Armor PEN +26%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601063.name,Newspaper,Common/QuestUpBuff.txt
+QuestUpBuff.120601064.desc,Armor PEN +35%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601064.name,Newspaper,Common/QuestUpBuff.txt
+QuestUpBuff.120601065.desc,Armor PEN +43%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601065.name,Newspaper,Common/QuestUpBuff.txt
+QuestUpBuff.120601066.desc,Armor PEN +60%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601066.name,Newspaper,Common/QuestUpBuff.txt
+QuestUpBuff.120601071.desc,Endurance +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601071.name,Abandoned File,Common/QuestUpBuff.txt
+QuestUpBuff.120601072.desc,Endurance +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601072.name,Abandoned File,Common/QuestUpBuff.txt
+QuestUpBuff.120601073.desc,Endurance +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601073.name,Abandoned File,Common/QuestUpBuff.txt
+QuestUpBuff.120601074.desc,Endurance +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601074.name,Abandoned File,Common/QuestUpBuff.txt
+QuestUpBuff.120601075.desc,Endurance +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601075.name,Abandoned File,Common/QuestUpBuff.txt
+QuestUpBuff.120601076.desc,Endurance +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601076.name,Abandoned File,Common/QuestUpBuff.txt
+QuestUpBuff.120601081.desc,CRIT Rate +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601081.name,List,Common/QuestUpBuff.txt
+QuestUpBuff.120601082.desc,CRIT Rate +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601082.name,List,Common/QuestUpBuff.txt
+QuestUpBuff.120601083.desc,CRIT Rate +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601083.name,List,Common/QuestUpBuff.txt
+QuestUpBuff.120601084.desc,CRIT Rate +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601084.name,List,Common/QuestUpBuff.txt
+QuestUpBuff.120601085.desc,CRIT Rate +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601085.name,List,Common/QuestUpBuff.txt
+QuestUpBuff.120601086.desc,CRIT Rate +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601086.name,List,Common/QuestUpBuff.txt
+QuestUpBuff.120601091.desc,CRIT DMG +20%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601091.name,Paper Box,Common/QuestUpBuff.txt
+QuestUpBuff.120601092.desc,CRIT DMG +31%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601092.name,Paper Box,Common/QuestUpBuff.txt
+QuestUpBuff.120601093.desc,CRIT DMG +43%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601093.name,Paper Box,Common/QuestUpBuff.txt
+QuestUpBuff.120601094.desc,CRIT DMG +55%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601094.name,Paper Box,Common/QuestUpBuff.txt
+QuestUpBuff.120601095.desc,CRIT DMG +66%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601095.name,Paper Box,Common/QuestUpBuff.txt
+QuestUpBuff.120601096.desc,CRIT DMG +90%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601096.name,Paper Box,Common/QuestUpBuff.txt
+QuestUpBuff.120601101.desc,True DMG Dealt +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601101.name,Famous Painting,Common/QuestUpBuff.txt
+QuestUpBuff.120601102.desc,True DMG Dealt +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601102.name,Famous Painting,Common/QuestUpBuff.txt
+QuestUpBuff.120601103.desc,True DMG Dealt +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601103.name,Famous Painting,Common/QuestUpBuff.txt
+QuestUpBuff.120601104.desc,True DMG Dealt +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601104.name,Famous Painting,Common/QuestUpBuff.txt
+QuestUpBuff.120601105.desc,True DMG Dealt +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601105.name,Famous Painting,Common/QuestUpBuff.txt
+QuestUpBuff.120601106.desc,True DMG Dealt +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601106.name,Famous Painting,Common/QuestUpBuff.txt
+QuestUpBuff.120601111.desc,Piercing DMG Dealt +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601111.name,Leaf,Common/QuestUpBuff.txt
+QuestUpBuff.120601112.desc,Piercing DMG Dealt +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601112.name,Leaf,Common/QuestUpBuff.txt
+QuestUpBuff.120601113.desc,Piercing DMG Dealt +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601113.name,Leaf,Common/QuestUpBuff.txt
+QuestUpBuff.120601114.desc,Piercing DMG Dealt +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601114.name,Leaf,Common/QuestUpBuff.txt
+QuestUpBuff.120601115.desc,Piercing DMG Dealt +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601115.name,Leaf,Common/QuestUpBuff.txt
+QuestUpBuff.120601116.desc,Piercing DMG Dealt +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601116.name,Leaf,Common/QuestUpBuff.txt
+QuestUpBuff.120601121.desc,Jab DMG Dealt +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601121.name,Pillow,Common/QuestUpBuff.txt
+QuestUpBuff.120601122.desc,Jab DMG Dealt +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601122.name,Pillow,Common/QuestUpBuff.txt
+QuestUpBuff.120601123.desc,Jab DMG Dealt +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601123.name,Pillow,Common/QuestUpBuff.txt
+QuestUpBuff.120601124.desc,Jab DMG Dealt +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601124.name,Pillow,Common/QuestUpBuff.txt
+QuestUpBuff.120601125.desc,Jab DMG Dealt +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601125.name,Pillow,Common/QuestUpBuff.txt
+QuestUpBuff.120601126.desc,Jab DMG Dealt +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601126.name,Pillow,Common/QuestUpBuff.txt
+QuestUpBuff.120601131.desc,Sunder DMG Dealt +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601131.name,Glass Shard,Common/QuestUpBuff.txt
+QuestUpBuff.120601132.desc,Sunder DMG Dealt +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601132.name,Glass Shard,Common/QuestUpBuff.txt
+QuestUpBuff.120601133.desc,Sunder DMG Dealt +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601133.name,Glass Shard,Common/QuestUpBuff.txt
+QuestUpBuff.120601134.desc,Sunder DMG Dealt +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601134.name,Glass Shard,Common/QuestUpBuff.txt
+QuestUpBuff.120601135.desc,Sunder DMG Dealt +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601135.name,Glass Shard,Common/QuestUpBuff.txt
+QuestUpBuff.120601136.desc,Sunder DMG Dealt +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601136.name,Glass Shard,Common/QuestUpBuff.txt
+QuestUpBuff.120601141.desc,Overload DMG Dealt +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601141.name,Laptop,Common/QuestUpBuff.txt
+QuestUpBuff.120601142.desc,Overload DMG Dealt +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601142.name,Laptop,Common/QuestUpBuff.txt
+QuestUpBuff.120601143.desc,Overload DMG Dealt +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601143.name,Laptop,Common/QuestUpBuff.txt
+QuestUpBuff.120601144.desc,Overload DMG Dealt +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601144.name,Laptop,Common/QuestUpBuff.txt
+QuestUpBuff.120601145.desc,Overload DMG Dealt +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601145.name,Laptop,Common/QuestUpBuff.txt
+QuestUpBuff.120601146.desc,Overload DMG Dealt +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601146.name,Laptop,Common/QuestUpBuff.txt
+QuestUpBuff.120601151.desc,Dire DMG Dealt +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601151.name,Family Photo,Common/QuestUpBuff.txt
+QuestUpBuff.120601152.desc,Dire DMG Dealt +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601152.name,Family Photo,Common/QuestUpBuff.txt
+QuestUpBuff.120601153.desc,Dire DMG Dealt +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601153.name,Family Photo,Common/QuestUpBuff.txt
+QuestUpBuff.120601154.desc,Dire DMG Dealt +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601154.name,Family Photo,Common/QuestUpBuff.txt
+QuestUpBuff.120601155.desc,Dire DMG Dealt +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601155.name,Family Photo,Common/QuestUpBuff.txt
+QuestUpBuff.120601156.desc,Dire DMG Dealt +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601156.name,Family Photo,Common/QuestUpBuff.txt
+QuestUpBuff.120601161.desc,Final DMG Dealt +10%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601161.name,Couch,Common/QuestUpBuff.txt
+QuestUpBuff.120601162.desc,Final DMG Dealt +18%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601162.name,Couch,Common/QuestUpBuff.txt
+QuestUpBuff.120601163.desc,Final DMG Dealt +26%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601163.name,Couch,Common/QuestUpBuff.txt
+QuestUpBuff.120601164.desc,Final DMG Dealt +35%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601164.name,Couch,Common/QuestUpBuff.txt
+QuestUpBuff.120601165.desc,Final DMG Dealt +43%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601165.name,Couch,Common/QuestUpBuff.txt
+QuestUpBuff.120601166.desc,Final DMG Dealt +60%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601166.name,Couch,Common/QuestUpBuff.txt
+QuestUpBuff.120601171.desc,Final DMG Red. +10%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601171.name,Robot,Common/QuestUpBuff.txt
+QuestUpBuff.120601172.desc,Final DMG Red. +18%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601172.name,Robot,Common/QuestUpBuff.txt
+QuestUpBuff.120601173.desc,Final DMG Red. +26%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601173.name,Robot,Common/QuestUpBuff.txt
+QuestUpBuff.120601174.desc,Final DMG Red. +35%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601174.name,Robot,Common/QuestUpBuff.txt
+QuestUpBuff.120601175.desc,Final DMG Red. +43%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601175.name,Robot,Common/QuestUpBuff.txt
+QuestUpBuff.120601176.desc,Final DMG Red. +60%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601176.name,Robot,Common/QuestUpBuff.txt
+QuestUpBuff.120601181.desc,Indirect DMG Dealt +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601181.name,Cart,Common/QuestUpBuff.txt
+QuestUpBuff.120601182.desc,Indirect DMG Dealt +24%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601182.name,Cart,Common/QuestUpBuff.txt
+QuestUpBuff.120601183.desc,Indirect DMG Dealt +33%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601183.name,Cart,Common/QuestUpBuff.txt
+QuestUpBuff.120601184.desc,Indirect DMG Dealt +42%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601184.name,Cart,Common/QuestUpBuff.txt
+QuestUpBuff.120601185.desc,Indirect DMG Dealt +51%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601185.name,Cart,Common/QuestUpBuff.txt
+QuestUpBuff.120601186.desc,Indirect DMG Dealt +70%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601186.name,Cart,Common/QuestUpBuff.txt
+QuestUpBuff.120601191.desc,Lifesteal +20%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601191.name,Calendar,Common/QuestUpBuff.txt
+QuestUpBuff.120601192.desc,Lifesteal +30%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601192.name,Calendar,Common/QuestUpBuff.txt
+QuestUpBuff.120601193.desc,Lifesteal +40%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601193.name,Calendar,Common/QuestUpBuff.txt
+QuestUpBuff.120601194.desc,Lifesteal +50%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601194.name,Calendar,Common/QuestUpBuff.txt
+QuestUpBuff.120601195.desc,Lifesteal +60%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601195.name,Calendar,Common/QuestUpBuff.txt
+QuestUpBuff.120601196.desc,Lifesteal +80%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601196.name,Calendar,Common/QuestUpBuff.txt
+QuestUpBuff.120601201.desc,Healing Effect +10%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601201.name,Trash Can,Common/QuestUpBuff.txt
+QuestUpBuff.120601202.desc,Healing Effect +18%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601202.name,Trash Can,Common/QuestUpBuff.txt
+QuestUpBuff.120601203.desc,Healing Effect +26%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601203.name,Trash Can,Common/QuestUpBuff.txt
+QuestUpBuff.120601204.desc,Healing Effect +35%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601204.name,Trash Can,Common/QuestUpBuff.txt
+QuestUpBuff.120601205.desc,Healing Effect +43%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601205.name,Trash Can,Common/QuestUpBuff.txt
+QuestUpBuff.120601206.desc,Healing Effect +60%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601206.name,Trash Can,Common/QuestUpBuff.txt
+QuestUpBuff.120601211.desc,Shield Effect +10%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601211.name,Desk Lamp,Common/QuestUpBuff.txt
+QuestUpBuff.120601212.desc,Shield Effect +18%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601212.name,Desk Lamp,Common/QuestUpBuff.txt
+QuestUpBuff.120601213.desc,Shield Effect +26%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601213.name,Desk Lamp,Common/QuestUpBuff.txt
+QuestUpBuff.120601214.desc,Shield Effect +35%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601214.name,Desk Lamp,Common/QuestUpBuff.txt
+QuestUpBuff.120601215.desc,Shield Effect +43%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601215.name,Desk Lamp,Common/QuestUpBuff.txt
+QuestUpBuff.120601216.desc,Shield Effect +60%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601216.name,Desk Lamp,Common/QuestUpBuff.txt
+QuestUpBuff.120601221.desc,LUCK +15%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601221.name,Tree,Common/QuestUpBuff.txt
+QuestUpBuff.120601222.desc,LUCK +22%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601222.name,Tree,Common/QuestUpBuff.txt
+QuestUpBuff.120601223.desc,LUCK +30%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601223.name,Tree,Common/QuestUpBuff.txt
+QuestUpBuff.120601224.desc,LUCK +37%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601224.name,Tree,Common/QuestUpBuff.txt
+QuestUpBuff.120601225.desc,LUCK +45%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601225.name,Tree,Common/QuestUpBuff.txt
+QuestUpBuff.120601226.desc,LUCK +60%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601226.name,Tree,Common/QuestUpBuff.txt
+QuestUpBuff.120601231.desc,"On the first turn, deal Pure DMG equal to 5% of max HP to all enemies;Battle Power +1600",Common/QuestUpBuff.txt
+QuestUpBuff.120601231.name,Manga Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601232.desc,"On the first turn, deal Pure DMG equal to 10% of max HP to all enemies;Battle Power +2400",Common/QuestUpBuff.txt
+QuestUpBuff.120601232.name,Manga Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601233.desc,"On the first turn, deal Pure DMG equal to 16% of max HP to all enemies;Battle Power +3600",Common/QuestUpBuff.txt
+QuestUpBuff.120601233.name,Manga Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601234.desc,"On the first turn, deal Pure DMG equal to 23% of max HP to all enemies;Battle Power +5000",Common/QuestUpBuff.txt
+QuestUpBuff.120601234.name,Manga Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601235.desc,"On the first turn, deal Pure DMG equal to 31% of max HP to all enemies;Battle Power +6400",Common/QuestUpBuff.txt
+QuestUpBuff.120601235.name,Manga Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601236.desc,"On the first turn, deal Pure DMG equal to 40% of max HP to all enemies;Battle Power +8400",Common/QuestUpBuff.txt
+QuestUpBuff.120601236.name,Manga Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601241.desc,"When the 4th turn begins, gain 1 SP;Battle Power +1600",Common/QuestUpBuff.txt
+QuestUpBuff.120601241.name,Original Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601242.desc,"When the 3rd turn begins, gain 1 SP;Battle Power +2400",Common/QuestUpBuff.txt
+QuestUpBuff.120601242.name,Original Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601243.desc,"When the 2nd turn begins, gain 1 SP;Battle Power +3600",Common/QuestUpBuff.txt
+QuestUpBuff.120601243.name,Original Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601244.desc,"When the 1st turn begins, gain 1 SP;Battle Power +5000",Common/QuestUpBuff.txt
+QuestUpBuff.120601244.name,Original Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601245.desc,"When the 1st turn begins, gain 2 SP;Battle Power +6400",Common/QuestUpBuff.txt
+QuestUpBuff.120601245.name,Original Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601246.desc,"When the 1st turn begins, gain 3 SP;Battle Power +8400",Common/QuestUpBuff.txt
+QuestUpBuff.120601246.name,Original Draft,Common/QuestUpBuff.txt
+QuestUpBuff.120601251.desc,Night Cat Squad's DMG +20%;Battle Power +1600,Common/QuestUpBuff.txt
+QuestUpBuff.120601251.name,Shonen Manga,Common/QuestUpBuff.txt
+QuestUpBuff.120601252.desc,Night Cat Squad's DMG +33%;Battle Power +2400,Common/QuestUpBuff.txt
+QuestUpBuff.120601252.name,Shonen Manga,Common/QuestUpBuff.txt
+QuestUpBuff.120601253.desc,Night Cat Squad's DMG +46%;Battle Power +3600,Common/QuestUpBuff.txt
+QuestUpBuff.120601253.name,Shonen Manga,Common/QuestUpBuff.txt
+QuestUpBuff.120601254.desc,Night Cat Squad's DMG +60%;Battle Power +5000,Common/QuestUpBuff.txt
+QuestUpBuff.120601254.name,Shonen Manga,Common/QuestUpBuff.txt
+QuestUpBuff.120601255.desc,Night Cat Squad's DMG +73%;Battle Power +6400,Common/QuestUpBuff.txt
+QuestUpBuff.120601255.name,Shonen Manga,Common/QuestUpBuff.txt
+QuestUpBuff.120601256.desc,Night Cat Squad's DMG +100%;Battle Power +8400,Common/QuestUpBuff.txt
+QuestUpBuff.120601256.name,Shonen Manga,Common/QuestUpBuff.txt
+QuestUpBuff.40001.desc,All allies' ATK +10%.,Common/QuestUpBuff.txt
+QuestUpBuff.40001.name,ATK Boost,Common/QuestUpBuff.txt
+QuestUpBuff.40002.desc,Shield gained by allies +100%.,Common/QuestUpBuff.txt
+QuestUpBuff.40002.name,Shield Gained UP,Common/QuestUpBuff.txt
+QuestUpBuff.40005.desc,All allies' CRIT Rate +30%.,Common/QuestUpBuff.txt
+QuestUpBuff.40005.name,CRIT Rate UP,Common/QuestUpBuff.txt
+QuestUpBuff.40006.desc,Restores 1 SP with each target defeated.,Common/QuestUpBuff.txt
+QuestUpBuff.40006.name,Killing for Healing,Common/QuestUpBuff.txt
+QuestUpBuff.41000001.desc,All allied Particle R Combatants' ATK +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41000001.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000002.desc,All allied Particle R Combatants' ATK +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41000002.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000003.desc,All allied Particle R Combatants' ATK +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41000003.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000004.desc,All allied Particle R Combatants' ATK +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41000004.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000005.desc,All allied Particle R Combatants' ATK +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41000005.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000006.desc,All allied Particle R Combatants' ATK +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41000006.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000007.desc,All allied Particle R Combatants' ATK +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41000007.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000008.desc,All allied Particle R Combatants' ATK +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41000008.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000009.desc,All allied Particle R Combatants' ATK +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41000009.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000010.desc,All allied Particle R Combatants' ATK +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41000010.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41000011.desc,All allied Particle R Combatants' ATK +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41000011.name,Red - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100001.desc,All allied Particle G Combatants' ATK +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41100001.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100002.desc,All allied Particle G Combatants' ATK +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41100002.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100003.desc,All allied Particle G Combatants' ATK +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41100003.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100004.desc,All allied Particle G Combatants' ATK +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41100004.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100005.desc,All allied Particle G Combatants' ATK +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41100005.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100006.desc,All allied Particle G Combatants' ATK +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41100006.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100007.desc,All allied Particle G Combatants' ATK +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41100007.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100008.desc,All allied Particle G Combatants' ATK +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41100008.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100009.desc,All allied Particle G Combatants' ATK +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41100009.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100010.desc,All allied Particle G Combatants' ATK +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41100010.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41100011.desc,All allied Particle G Combatants' ATK +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41100011.name,Green - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200001.desc,All allied Particle B Combatants' ATK +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41200001.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200002.desc,All allied Particle B Combatants' ATK +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41200002.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200003.desc,All allied Particle B Combatants' ATK +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41200003.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200004.desc,All allied Particle B Combatants' ATK +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41200004.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200005.desc,All allied Particle B Combatants' ATK +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41200005.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200006.desc,All allied Particle B Combatants' ATK +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41200006.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200007.desc,All allied Particle B Combatants' ATK +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41200007.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200008.desc,All allied Particle B Combatants' ATK +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41200008.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200009.desc,All allied Particle B Combatants' ATK +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41200009.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200010.desc,All allied Particle B Combatants' ATK +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41200010.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41200011.desc,All allied Particle B Combatants' ATK +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41200011.name,Blue - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300001.desc,All allied Combatants' ATK +1%,Common/QuestUpBuff.txt
+QuestUpBuff.41300001.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300002.desc,All allied Combatants' ATK +2%,Common/QuestUpBuff.txt
+QuestUpBuff.41300002.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300003.desc,All allied Combatants' ATK +3%,Common/QuestUpBuff.txt
+QuestUpBuff.41300003.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300004.desc,All allied Combatants' ATK +4%,Common/QuestUpBuff.txt
+QuestUpBuff.41300004.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300005.desc,All allied Combatants' ATK +5%,Common/QuestUpBuff.txt
+QuestUpBuff.41300005.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300006.desc,All allied Combatants' ATK +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41300006.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300007.desc,All allied Combatants' ATK +7%,Common/QuestUpBuff.txt
+QuestUpBuff.41300007.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300008.desc,All allied Combatants' ATK +8%,Common/QuestUpBuff.txt
+QuestUpBuff.41300008.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300009.desc,All allied Combatants' ATK +9%,Common/QuestUpBuff.txt
+QuestUpBuff.41300009.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300010.desc,All allied Combatants' ATK +10%,Common/QuestUpBuff.txt
+QuestUpBuff.41300010.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41300011.desc,All allied Combatants' ATK +11%,Common/QuestUpBuff.txt
+QuestUpBuff.41300011.name,All - Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.41400001.desc,All allied Particle R Combatants' DEF +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41400001.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400002.desc,All allied Particle R Combatants' DEF +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41400002.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400003.desc,All allied Particle R Combatants' DEF +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41400003.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400004.desc,All allied Particle R Combatants' DEF +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41400004.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400005.desc,All allied Particle R Combatants' DEF +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41400005.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400006.desc,All allied Particle R Combatants' DEF +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41400006.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400007.desc,All allied Particle R Combatants' DEF +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41400007.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400008.desc,All allied Particle R Combatants' DEF +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41400008.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400009.desc,All allied Particle R Combatants' DEF +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41400009.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400010.desc,All allied Particle R Combatants' DEF +24%,Common/QuestUpBuff.txt
+QuestUpBuff.41400010.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41400011.desc,All allied Particle R Combatants' DEF +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41400011.name,Red - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500001.desc,All allied Particle G Combatants' DEF +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41500001.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500002.desc,All allied Particle G Combatants' DEF +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41500002.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500003.desc,All allied Particle G Combatants' DEF +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41500003.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500004.desc,All allied Particle G Combatants' DEF +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41500004.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500005.desc,All allied Particle G Combatants' DEF +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41500005.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500006.desc,All allied Particle G Combatants' DEF +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41500006.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500007.desc,All allied Particle G Combatants' DEF +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41500007.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500008.desc,All allied Particle G Combatants' DEF +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41500008.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500009.desc,All allied Particle G Combatants' DEF +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41500009.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500010.desc,All allied Particle G Combatants' DEF +24%,Common/QuestUpBuff.txt
+QuestUpBuff.41500010.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41500011.desc,All allied Particle G Combatants' DEF +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41500011.name,Green - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600001.desc,All allied Particle B Combatants' DEF +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41600001.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600002.desc,All allied Particle B Combatants' DEF +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41600002.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600003.desc,All allied Particle B Combatants' DEF +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41600003.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600004.desc,All allied Particle B Combatants' DEF +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41600004.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600005.desc,All allied Particle B Combatants' DEF +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41600005.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600006.desc,All allied Particle B Combatants' DEF +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41600006.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600007.desc,All allied Particle B Combatants' DEF +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41600007.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600008.desc,All allied Particle B Combatants' DEF +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41600008.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600009.desc,All allied Particle B Combatants' DEF +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41600009.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600010.desc,All allied Particle B Combatants' DEF +24%,Common/QuestUpBuff.txt
+QuestUpBuff.41600010.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41600011.desc,All allied Particle B Combatants' DEF +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41600011.name,Blue - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700001.desc,All allied Combatants' DEF +2%,Common/QuestUpBuff.txt
+QuestUpBuff.41700001.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700002.desc,All allied Combatants' DEF +4%,Common/QuestUpBuff.txt
+QuestUpBuff.41700002.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700003.desc,All allied Combatants' DEF +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41700003.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700004.desc,All allied Combatants' DEF +8%,Common/QuestUpBuff.txt
+QuestUpBuff.41700004.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700005.desc,All allied Combatants' DEF +10%,Common/QuestUpBuff.txt
+QuestUpBuff.41700005.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700006.desc,All allied Combatants' DEF +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41700006.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700007.desc,All allied Combatants' DEF +14%,Common/QuestUpBuff.txt
+QuestUpBuff.41700007.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700008.desc,All allied Combatants' DEF +16%,Common/QuestUpBuff.txt
+QuestUpBuff.41700008.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700009.desc,All allied Combatants' DEF +18%,Common/QuestUpBuff.txt
+QuestUpBuff.41700009.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700010.desc,All allied Combatants' DEF +20%,Common/QuestUpBuff.txt
+QuestUpBuff.41700010.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41700011.desc,All allied Combatants' DEF +22%,Common/QuestUpBuff.txt
+QuestUpBuff.41700011.name,All - Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.41800001.desc,All allied Particle R Combatants' HP +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41800001.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800002.desc,All allied Particle R Combatants' HP +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41800002.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800003.desc,All allied Particle R Combatants' HP +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41800003.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800004.desc,All allied Particle R Combatants' HP +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41800004.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800005.desc,All allied Particle R Combatants' HP +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41800005.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800006.desc,All allied Particle R Combatants' HP +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41800006.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800007.desc,All allied Particle R Combatants' HP +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41800007.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800008.desc,All allied Particle R Combatants' HP +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41800008.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800009.desc,All allied Particle R Combatants' HP +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41800009.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800010.desc,All allied Particle R Combatants' HP +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41800010.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41800011.desc,All allied Particle R Combatants' HP +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41800011.name,Red - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900001.desc,All allied Particle G Combatants' HP +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41900001.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900002.desc,All allied Particle G Combatants' HP +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41900002.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900003.desc,All allied Particle G Combatants' HP +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41900003.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900004.desc,All allied Particle G Combatants' HP +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41900004.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900005.desc,All allied Particle G Combatants' HP +6%,Common/QuestUpBuff.txt
+QuestUpBuff.41900005.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900006.desc,All allied Particle G Combatants' HP +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41900006.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900007.desc,All allied Particle G Combatants' HP +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.41900007.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900008.desc,All allied Particle G Combatants' HP +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.41900008.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900009.desc,All allied Particle G Combatants' HP +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.41900009.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900010.desc,All allied Particle G Combatants' HP +12%,Common/QuestUpBuff.txt
+QuestUpBuff.41900010.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.41900011.desc,All allied Particle G Combatants' HP +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.41900011.name,Green - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000001.desc,All allied Particle B Combatants' HP +1.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42000001.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000002.desc,All allied Particle B Combatants' HP +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42000002.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000003.desc,All allied Particle B Combatants' HP +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42000003.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000004.desc,All allied Particle B Combatants' HP +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42000004.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000005.desc,All allied Particle B Combatants' HP +6%,Common/QuestUpBuff.txt
+QuestUpBuff.42000005.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000006.desc,All allied Particle B Combatants' HP +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42000006.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000007.desc,All allied Particle B Combatants' HP +8.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42000007.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000008.desc,All allied Particle B Combatants' HP +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42000008.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000009.desc,All allied Particle B Combatants' HP +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42000009.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000010.desc,All allied Particle B Combatants' HP +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42000010.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42000011.desc,All allied Particle B Combatants' HP +13.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42000011.name,Blue - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100001.desc,All allied Combatants' HP +1%,Common/QuestUpBuff.txt
+QuestUpBuff.42100001.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100002.desc,All allied Combatants' HP +2%,Common/QuestUpBuff.txt
+QuestUpBuff.42100002.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100003.desc,All allied Combatants' HP +3%,Common/QuestUpBuff.txt
+QuestUpBuff.42100003.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100004.desc,All allied Combatants' HP +4%,Common/QuestUpBuff.txt
+QuestUpBuff.42100004.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100005.desc,All allied Combatants' HP +5%,Common/QuestUpBuff.txt
+QuestUpBuff.42100005.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100006.desc,All allied Combatants' HP +6%,Common/QuestUpBuff.txt
+QuestUpBuff.42100006.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100007.desc,All allied Combatants' HP +7%,Common/QuestUpBuff.txt
+QuestUpBuff.42100007.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100008.desc,All allied Combatants' HP +8%,Common/QuestUpBuff.txt
+QuestUpBuff.42100008.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100009.desc,All allied Combatants' HP +9%,Common/QuestUpBuff.txt
+QuestUpBuff.42100009.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100010.desc,All allied Combatants' HP +10%,Common/QuestUpBuff.txt
+QuestUpBuff.42100010.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42100011.desc,All allied Combatants' HP +11%,Common/QuestUpBuff.txt
+QuestUpBuff.42100011.name,All - Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.42200001.desc,All allied Particle R Combatants' CRIT Rate +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42200001.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200002.desc,All allied Particle R Combatants' CRIT Rate +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42200002.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200003.desc,All allied Particle R Combatants' CRIT Rate +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42200003.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200004.desc,All allied Particle R Combatants' CRIT Rate +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42200004.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200005.desc,All allied Particle R Combatants' CRIT Rate +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42200005.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200006.desc,All allied Particle R Combatants' CRIT Rate +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42200006.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200007.desc,All allied Particle R Combatants' CRIT Rate +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42200007.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200008.desc,All allied Particle R Combatants' CRIT Rate +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42200008.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200009.desc,All allied Particle R Combatants' CRIT Rate +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42200009.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200010.desc,All allied Particle R Combatants' CRIT Rate +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42200010.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42200011.desc,All allied Particle R Combatants' CRIT Rate +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42200011.name,Red - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300001.desc,All allied Particle G Combatants' CRIT Rate +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42300001.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300002.desc,All allied Particle G Combatants' CRIT Rate +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42300002.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300003.desc,All allied Particle G Combatants' CRIT Rate +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42300003.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300004.desc,All allied Particle G Combatants' CRIT Rate +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42300004.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300005.desc,All allied Particle G Combatants' CRIT Rate +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42300005.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300006.desc,All allied Particle G Combatants' CRIT Rate +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42300006.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300007.desc,All allied Particle G Combatants' CRIT Rate +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42300007.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300008.desc,All allied Particle G Combatants' CRIT Rate +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42300008.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300009.desc,All allied Particle G Combatants' CRIT Rate +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42300009.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300010.desc,All allied Particle G Combatants' CRIT Rate +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42300010.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42300011.desc,All allied Particle G Combatants' CRIT Rate +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42300011.name,Green - Increases CRIT,Common/QuestUpBuff.txt
+QuestUpBuff.42400001.desc,All allied Particle B Combatants' CRIT Rate +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42400001.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400002.desc,All allied Particle B Combatants' CRIT Rate +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42400002.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400003.desc,All allied Particle B Combatants' CRIT Rate +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42400003.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400004.desc,All allied Particle B Combatants' CRIT Rate +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42400004.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400005.desc,All allied Particle B Combatants' CRIT Rate +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42400005.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400006.desc,All allied Particle B Combatants' CRIT Rate +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42400006.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400007.desc,All allied Particle B Combatants' CRIT Rate +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42400007.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400008.desc,All allied Particle B Combatants' CRIT Rate +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42400008.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400009.desc,All allied Particle B Combatants' CRIT Rate +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42400009.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400010.desc,All allied Particle B Combatants' CRIT Rate +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42400010.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42400011.desc,All allied Particle B Combatants' CRIT Rate +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42400011.name,Blue - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500001.desc,All allied Combatants' CRIT Rate +2%,Common/QuestUpBuff.txt
+QuestUpBuff.42500001.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500002.desc,All allied Combatants' CRIT Rate +4%,Common/QuestUpBuff.txt
+QuestUpBuff.42500002.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500003.desc,All allied Combatants' CRIT Rate +6%,Common/QuestUpBuff.txt
+QuestUpBuff.42500003.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500004.desc,All allied Combatants' CRIT Rate +8%,Common/QuestUpBuff.txt
+QuestUpBuff.42500004.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500005.desc,All allied Combatants' CRIT Rate +10%,Common/QuestUpBuff.txt
+QuestUpBuff.42500005.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500006.desc,All allied Combatants' CRIT Rate +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42500006.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500007.desc,All allied Combatants' CRIT Rate +14%,Common/QuestUpBuff.txt
+QuestUpBuff.42500007.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500008.desc,All allied Combatants' CRIT Rate +16%,Common/QuestUpBuff.txt
+QuestUpBuff.42500008.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500009.desc,All allied Combatants' CRIT Rate +18%,Common/QuestUpBuff.txt
+QuestUpBuff.42500009.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500010.desc,All allied Combatants' CRIT Rate +20%,Common/QuestUpBuff.txt
+QuestUpBuff.42500010.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42500011.desc,All allied Combatants' CRIT Rate +22%,Common/QuestUpBuff.txt
+QuestUpBuff.42500011.name,All - Increases CRIT Rate,Common/QuestUpBuff.txt
+QuestUpBuff.42600001.desc,All allied Particle R Combatants' CRIT DMG +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42600001.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600002.desc,All allied Particle R Combatants' CRIT DMG +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42600002.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600003.desc,All allied Particle R Combatants' CRIT DMG +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42600003.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600004.desc,All allied Particle R Combatants' CRIT DMG +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42600004.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600005.desc,All allied Particle R Combatants' CRIT DMG +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42600005.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600006.desc,All allied Particle R Combatants' CRIT DMG +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42600006.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600007.desc,All allied Particle R Combatants' CRIT DMG +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42600007.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600008.desc,All allied Particle R Combatants' CRIT DMG +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42600008.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600009.desc,All allied Particle R Combatants' CRIT DMG +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42600009.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600010.desc,All allied Particle R Combatants' CRIT DMG +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42600010.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42600011.desc,All allied Particle R Combatants' CRIT DMG +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42600011.name,Red - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700001.desc,All allied Particle G Combatants' CRIT DMG +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42700001.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700002.desc,All allied Particle G Combatants' CRIT DMG +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42700002.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700003.desc,All allied Particle G Combatants' CRIT DMG +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42700003.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700004.desc,All allied Particle G Combatants' CRIT DMG +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42700004.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700005.desc,All allied Particle G Combatants' CRIT DMG +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42700005.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700006.desc,All allied Particle G Combatants' CRIT DMG +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42700006.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700007.desc,All allied Particle G Combatants' CRIT DMG +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42700007.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700008.desc,All allied Particle G Combatants' CRIT DMG +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42700008.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700009.desc,All allied Particle G Combatants' CRIT DMG +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42700009.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700010.desc,All allied Particle G Combatants' CRIT DMG +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42700010.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42700011.desc,All allied Particle G Combatants' CRIT DMG +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42700011.name,Green - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800001.desc,All allied Particle B Combatants' CRIT DMG +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42800001.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800002.desc,All allied Particle B Combatants' CRIT DMG +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42800002.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800003.desc,All allied Particle B Combatants' CRIT DMG +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42800003.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800004.desc,All allied Particle B Combatants' CRIT DMG +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42800004.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800005.desc,All allied Particle B Combatants' CRIT DMG +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42800005.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800006.desc,All allied Particle B Combatants' CRIT DMG +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42800006.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800007.desc,All allied Particle B Combatants' CRIT DMG +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.42800007.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800008.desc,All allied Particle B Combatants' CRIT DMG +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.42800008.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800009.desc,All allied Particle B Combatants' CRIT DMG +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.42800009.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800010.desc,All allied Particle B Combatants' CRIT DMG +24%,Common/QuestUpBuff.txt
+QuestUpBuff.42800010.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42800011.desc,All allied Particle B Combatants' CRIT DMG +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.42800011.name,Blue - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900001.desc,All allied Combatants' CRIT DMG +2%,Common/QuestUpBuff.txt
+QuestUpBuff.42900001.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900002.desc,All allied Combatants' CRIT DMG +4%,Common/QuestUpBuff.txt
+QuestUpBuff.42900002.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900003.desc,All allied Combatants' CRIT DMG +6%,Common/QuestUpBuff.txt
+QuestUpBuff.42900003.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900004.desc,All allied Combatants' CRIT DMG +8%,Common/QuestUpBuff.txt
+QuestUpBuff.42900004.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900005.desc,All allied Combatants' CRIT DMG +10%,Common/QuestUpBuff.txt
+QuestUpBuff.42900005.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900006.desc,All allied Combatants' CRIT DMG +12%,Common/QuestUpBuff.txt
+QuestUpBuff.42900006.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900007.desc,All allied Combatants' CRIT DMG +14%,Common/QuestUpBuff.txt
+QuestUpBuff.42900007.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900008.desc,All allied Combatants' CRIT DMG +16%,Common/QuestUpBuff.txt
+QuestUpBuff.42900008.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900009.desc,All allied Combatants' CRIT DMG +18%,Common/QuestUpBuff.txt
+QuestUpBuff.42900009.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900010.desc,All allied Combatants' CRIT DMG +20%,Common/QuestUpBuff.txt
+QuestUpBuff.42900010.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.42900011.desc,All allied Combatants' CRIT DMG +22%,Common/QuestUpBuff.txt
+QuestUpBuff.42900011.name,All - Increases CRIT DMG,Common/QuestUpBuff.txt
+QuestUpBuff.43000001.desc,All allied Particle R Combatants' CRIT RES +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43000001.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000002.desc,All allied Particle R Combatants' CRIT RES +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43000002.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000003.desc,All allied Particle R Combatants' CRIT RES +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43000003.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000004.desc,All allied Particle R Combatants' CRIT RES +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43000004.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000005.desc,All allied Particle R Combatants' CRIT RES +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43000005.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000006.desc,All allied Particle R Combatants' CRIT RES +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43000006.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000007.desc,All allied Particle R Combatants' CRIT RES +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43000007.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000008.desc,All allied Particle R Combatants' CRIT RES +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43000008.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000009.desc,All allied Particle R Combatants' CRIT RES +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43000009.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000010.desc,All allied Particle R Combatants' CRIT RES +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43000010.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43000011.desc,All allied Particle R Combatants' CRIT RES +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43000011.name,Red - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100001.desc,All allied Particle G Combatants' CRIT RES +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43100001.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100002.desc,All allied Particle G Combatants' CRIT RES +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43100002.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100003.desc,All allied Particle G Combatants' CRIT RES +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43100003.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100004.desc,All allied Particle G Combatants' CRIT RES +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43100004.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100005.desc,All allied Particle G Combatants' CRIT RES +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43100005.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100006.desc,All allied Particle G Combatants' CRIT RES +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43100006.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100007.desc,All allied Particle G Combatants' CRIT RES +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43100007.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100008.desc,All allied Particle G Combatants' CRIT RES +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43100008.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100009.desc,All allied Particle G Combatants' CRIT RES +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43100009.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100010.desc,All allied Particle G Combatants' CRIT RES +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43100010.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43100011.desc,All allied Particle G Combatants' CRIT RES +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43100011.name,Green - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200001.desc,All allied Particle B Combatants' CRIT RES +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43200001.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200002.desc,All allied Particle B Combatants' CRIT RES +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43200002.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200003.desc,All allied Particle B Combatants' CRIT RES +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43200003.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200004.desc,All allied Particle B Combatants' CRIT RES +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43200004.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200005.desc,All allied Particle B Combatants' CRIT RES +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43200005.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200006.desc,All allied Particle B Combatants' CRIT RES +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43200006.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200007.desc,All allied Particle B Combatants' CRIT RES +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43200007.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200008.desc,All allied Particle B Combatants' CRIT RES +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43200008.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200009.desc,All allied Particle B Combatants' CRIT RES +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43200009.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200010.desc,All allied Particle B Combatants' CRIT RES +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43200010.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43200011.desc,All allied Particle B Combatants' CRIT RES +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43200011.name,Blue - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300001.desc,All allied Combatants' CRIT RES +3%,Common/QuestUpBuff.txt
+QuestUpBuff.43300001.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300002.desc,All allied Combatants' CRIT RES +6%,Common/QuestUpBuff.txt
+QuestUpBuff.43300002.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300003.desc,All allied Combatants' CRIT RES +9%,Common/QuestUpBuff.txt
+QuestUpBuff.43300003.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300004.desc,All allied Combatants' CRIT RES +12%,Common/QuestUpBuff.txt
+QuestUpBuff.43300004.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300005.desc,All allied Combatants' CRIT RES +15%,Common/QuestUpBuff.txt
+QuestUpBuff.43300005.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300006.desc,All allied Combatants' CRIT RES +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43300006.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300007.desc,All allied Combatants' CRIT RES +21%,Common/QuestUpBuff.txt
+QuestUpBuff.43300007.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300008.desc,All allied Combatants' CRIT RES +24%,Common/QuestUpBuff.txt
+QuestUpBuff.43300008.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300009.desc,All allied Combatants' CRIT RES +27%,Common/QuestUpBuff.txt
+QuestUpBuff.43300009.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300010.desc,All allied Combatants' CRIT RES +30%,Common/QuestUpBuff.txt
+QuestUpBuff.43300010.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43300011.desc,All allied Combatants' CRIT RES +33%,Common/QuestUpBuff.txt
+QuestUpBuff.43300011.name,All - Increases CRIT RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400001.desc,All allied Particle R Combatants' CRIT DMG RES +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43400001.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400002.desc,All allied Particle R Combatants' CRIT DMG RES +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43400002.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400003.desc,All allied Particle R Combatants' CRIT DMG RES +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43400003.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400004.desc,All allied Particle R Combatants' CRIT DMG RES +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43400004.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400005.desc,All allied Particle R Combatants' CRIT DMG RES +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43400005.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400006.desc,All allied Particle R Combatants' CRIT DMG RES +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43400006.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400007.desc,All allied Particle R Combatants' CRIT DMG RES +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43400007.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400008.desc,All allied Particle R Combatants' CRIT DMG RES +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43400008.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400009.desc,All allied Particle R Combatants' CRIT DMG RES +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43400009.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400010.desc,All allied Particle R Combatants' CRIT DMG RES +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43400010.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43400011.desc,All allied Particle R Combatants' CRIT DMG RES +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43400011.name,Red - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500001.desc,All allied Particle G Combatants' CRIT DMG RES +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43500001.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500002.desc,All allied Particle G Combatants' CRIT DMG RES +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43500002.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500003.desc,All allied Particle G Combatants' CRIT DMG RES +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43500003.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500004.desc,All allied Particle G Combatants' CRIT DMG RES +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43500004.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500005.desc,All allied Particle G Combatants' CRIT DMG RES +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43500005.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500006.desc,All allied Particle G Combatants' CRIT DMG RES +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43500006.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500007.desc,All allied Particle G Combatants' CRIT DMG RES +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43500007.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500008.desc,All allied Particle G Combatants' CRIT DMG RES +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43500008.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500009.desc,All allied Particle G Combatants' CRIT DMG RES +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43500009.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500010.desc,All allied Particle G Combatants' CRIT DMG RES +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43500010.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43500011.desc,All allied Particle G Combatants' CRIT DMG RES +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43500011.name,Green - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600001.desc,All allied Particle B Combatants' CRIT DMG RES +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43600001.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600002.desc,All allied Particle B Combatants' CRIT DMG RES +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43600002.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600003.desc,All allied Particle B Combatants' CRIT DMG RES +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43600003.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600004.desc,All allied Particle B Combatants' CRIT DMG RES +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43600004.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600005.desc,All allied Particle B Combatants' CRIT DMG RES +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43600005.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600006.desc,All allied Particle B Combatants' CRIT DMG RES +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43600006.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600007.desc,All allied Particle B Combatants' CRIT DMG RES +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43600007.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600008.desc,All allied Particle B Combatants' CRIT DMG RES +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43600008.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600009.desc,All allied Particle B Combatants' CRIT DMG RES +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43600009.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600010.desc,All allied Particle B Combatants' CRIT DMG RES +36%,Common/QuestUpBuff.txt
+QuestUpBuff.43600010.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43600011.desc,All allied Particle B Combatants' CRIT DMG RES +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43600011.name,Blue - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700001.desc,All allied Combatants' CRIT DMG RES +3%,Common/QuestUpBuff.txt
+QuestUpBuff.43700001.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700002.desc,All allied Combatants' CRIT DMG RES +6%,Common/QuestUpBuff.txt
+QuestUpBuff.43700002.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700003.desc,All allied Combatants' CRIT DMG RES +9%,Common/QuestUpBuff.txt
+QuestUpBuff.43700003.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700004.desc,All allied Combatants' CRIT DMG RES +12%,Common/QuestUpBuff.txt
+QuestUpBuff.43700004.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700005.desc,All allied Combatants' CRIT DMG RES +15%,Common/QuestUpBuff.txt
+QuestUpBuff.43700005.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700006.desc,All allied Combatants' CRIT DMG RES +18%,Common/QuestUpBuff.txt
+QuestUpBuff.43700006.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700007.desc,All allied Combatants' CRIT DMG RES +21%,Common/QuestUpBuff.txt
+QuestUpBuff.43700007.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700008.desc,All allied Combatants' CRIT DMG RES +24%,Common/QuestUpBuff.txt
+QuestUpBuff.43700008.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700009.desc,All allied Combatants' CRIT DMG RES +27%,Common/QuestUpBuff.txt
+QuestUpBuff.43700009.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700010.desc,All allied Combatants' CRIT DMG RES +30%,Common/QuestUpBuff.txt
+QuestUpBuff.43700010.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43700011.desc,All allied Combatants' CRIT DMG RES +33%,Common/QuestUpBuff.txt
+QuestUpBuff.43700011.name,All - Increases CRIT DMG RES,Common/QuestUpBuff.txt
+QuestUpBuff.43800001.desc,All allied Particle R Combatants' Armor PEN +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43800001.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800002.desc,All allied Particle R Combatants' Armor PEN +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43800002.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800003.desc,All allied Particle R Combatants' Armor PEN +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43800003.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800004.desc,All allied Particle R Combatants' Armor PEN +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43800004.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800005.desc,All allied Particle R Combatants' Armor PEN +12%,Common/QuestUpBuff.txt
+QuestUpBuff.43800005.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800006.desc,All allied Particle R Combatants' Armor PEN +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43800006.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800007.desc,All allied Particle R Combatants' Armor PEN +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43800007.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800008.desc,All allied Particle R Combatants' Armor PEN +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43800008.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800009.desc,All allied Particle R Combatants' Armor PEN +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43800009.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800010.desc,All allied Particle R Combatants' Armor PEN +24%,Common/QuestUpBuff.txt
+QuestUpBuff.43800010.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43800011.desc,All allied Particle R Combatants' Armor PEN +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43800011.name,Red - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900001.desc,All allied Particle G Combatants' Armor PEN +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43900001.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900002.desc,All allied Particle G Combatants' Armor PEN +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43900002.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900003.desc,All allied Particle G Combatants' Armor PEN +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43900003.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900004.desc,All allied Particle G Combatants' Armor PEN +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43900004.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900005.desc,All allied Particle G Combatants' Armor PEN +12%,Common/QuestUpBuff.txt
+QuestUpBuff.43900005.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900006.desc,All allied Particle G Combatants' Armor PEN +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43900006.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900007.desc,All allied Particle G Combatants' Armor PEN +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.43900007.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900008.desc,All allied Particle G Combatants' Armor PEN +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.43900008.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900009.desc,All allied Particle G Combatants' Armor PEN +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.43900009.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900010.desc,All allied Particle G Combatants' Armor PEN +24%,Common/QuestUpBuff.txt
+QuestUpBuff.43900010.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.43900011.desc,All allied Particle G Combatants' Armor PEN +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.43900011.name,Green - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000001.desc,All allied Particle B Combatants' Armor PEN +2.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44000001.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000002.desc,All allied Particle B Combatants' Armor PEN +4.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44000002.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000003.desc,All allied Particle B Combatants' Armor PEN +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44000003.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000004.desc,All allied Particle B Combatants' Armor PEN +9.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44000004.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000005.desc,All allied Particle B Combatants' Armor PEN +12%,Common/QuestUpBuff.txt
+QuestUpBuff.44000005.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000006.desc,All allied Particle B Combatants' Armor PEN +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44000006.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000007.desc,All allied Particle B Combatants' Armor PEN +16.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44000007.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000008.desc,All allied Particle B Combatants' Armor PEN +19.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44000008.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000009.desc,All allied Particle B Combatants' Armor PEN +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44000009.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000010.desc,All allied Particle B Combatants' Armor PEN +24%,Common/QuestUpBuff.txt
+QuestUpBuff.44000010.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44000011.desc,All allied Particle B Combatants' Armor PEN +26.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44000011.name,Blue - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100001.desc,All allied Combatants' Armor PEN +2%,Common/QuestUpBuff.txt
+QuestUpBuff.44100001.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100002.desc,All allied Combatants' Armor PEN +4%,Common/QuestUpBuff.txt
+QuestUpBuff.44100002.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100003.desc,All allied Combatants' Armor PEN +6%,Common/QuestUpBuff.txt
+QuestUpBuff.44100003.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100004.desc,All allied Combatants' Armor PEN +8%,Common/QuestUpBuff.txt
+QuestUpBuff.44100004.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100005.desc,All allied Combatants' Armor PEN +10%,Common/QuestUpBuff.txt
+QuestUpBuff.44100005.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100006.desc,All allied Combatants' Armor PEN +12%,Common/QuestUpBuff.txt
+QuestUpBuff.44100006.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100007.desc,All allied Combatants' Armor PEN +14%,Common/QuestUpBuff.txt
+QuestUpBuff.44100007.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100008.desc,All allied Combatants' Armor PEN +16%,Common/QuestUpBuff.txt
+QuestUpBuff.44100008.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100009.desc,All allied Combatants' Armor PEN +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44100009.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100010.desc,All allied Combatants' Armor PEN +20%,Common/QuestUpBuff.txt
+QuestUpBuff.44100010.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44100011.desc,All allied Combatants' Armor PEN +22%,Common/QuestUpBuff.txt
+QuestUpBuff.44100011.name,All - Increases Armor PEN,Common/QuestUpBuff.txt
+QuestUpBuff.44200001.desc,All allied Particle R Combatants' END +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44200001.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200002.desc,All allied Particle R Combatants' END +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44200002.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200003.desc,All allied Particle R Combatants' END +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44200003.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200004.desc,All allied Particle R Combatants' END +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44200004.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200005.desc,All allied Particle R Combatants' END +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44200005.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200006.desc,All allied Particle R Combatants' END +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44200006.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200007.desc,All allied Particle R Combatants' END +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44200007.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200008.desc,All allied Particle R Combatants' END +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44200008.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200009.desc,All allied Particle R Combatants' END +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44200009.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200010.desc,All allied Particle R Combatants' END +36%,Common/QuestUpBuff.txt
+QuestUpBuff.44200010.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44200011.desc,All allied Particle R Combatants' END +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44200011.name,Red - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300001.desc,All allied Particle G Combatants' END +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44300001.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300002.desc,All allied Particle G Combatants' END +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44300002.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300003.desc,All allied Particle G Combatants' END +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44300003.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300004.desc,All allied Particle G Combatants' END +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44300004.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300005.desc,All allied Particle G Combatants' END +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44300005.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300006.desc,All allied Particle G Combatants' END +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44300006.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300007.desc,All allied Particle G Combatants' END +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44300007.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300008.desc,All allied Particle G Combatants' END +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44300008.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300009.desc,All allied Particle G Combatants' END +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44300009.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300010.desc,All allied Particle G Combatants' END +36%,Common/QuestUpBuff.txt
+QuestUpBuff.44300010.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44300011.desc,All allied Particle G Combatants' END +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44300011.name,Green - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400001.desc,All allied Particle B Combatants' END +3.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44400001.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400002.desc,All allied Particle B Combatants' END +7.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44400002.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400003.desc,All allied Particle B Combatants' END +10.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44400003.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400004.desc,All allied Particle B Combatants' END +14.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44400004.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400005.desc,All allied Particle B Combatants' END +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44400005.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400006.desc,All allied Particle B Combatants' END +21.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44400006.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400007.desc,All allied Particle B Combatants' END +25.2%,Common/QuestUpBuff.txt
+QuestUpBuff.44400007.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400008.desc,All allied Particle B Combatants' END +28.8%,Common/QuestUpBuff.txt
+QuestUpBuff.44400008.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400009.desc,All allied Particle B Combatants' END +32.4%,Common/QuestUpBuff.txt
+QuestUpBuff.44400009.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400010.desc,All allied Particle B Combatants' END +36%,Common/QuestUpBuff.txt
+QuestUpBuff.44400010.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44400011.desc,All allied Particle B Combatants' END +39.6%,Common/QuestUpBuff.txt
+QuestUpBuff.44400011.name,Blue - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500001.desc,All allied Combatants' END +3%,Common/QuestUpBuff.txt
+QuestUpBuff.44500001.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500002.desc,All allied Combatants' END +6%,Common/QuestUpBuff.txt
+QuestUpBuff.44500002.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500003.desc,All allied Combatants' END +9%,Common/QuestUpBuff.txt
+QuestUpBuff.44500003.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500004.desc,All allied Combatants' END +12%,Common/QuestUpBuff.txt
+QuestUpBuff.44500004.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500005.desc,All allied Combatants' END +15%,Common/QuestUpBuff.txt
+QuestUpBuff.44500005.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500006.desc,All allied Combatants' END +18%,Common/QuestUpBuff.txt
+QuestUpBuff.44500006.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500007.desc,All allied Combatants' END +21%,Common/QuestUpBuff.txt
+QuestUpBuff.44500007.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500008.desc,All allied Combatants' END +24%,Common/QuestUpBuff.txt
+QuestUpBuff.44500008.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500009.desc,All allied Combatants' END +27%,Common/QuestUpBuff.txt
+QuestUpBuff.44500009.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500010.desc,All allied Combatants' END +30%,Common/QuestUpBuff.txt
+QuestUpBuff.44500010.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44500011.desc,All allied Combatants' END +33%,Common/QuestUpBuff.txt
+QuestUpBuff.44500011.name,All - Increases END,Common/QuestUpBuff.txt
+QuestUpBuff.44600001.desc,All allied Combatants' Power +1%,Common/QuestUpBuff.txt
+QuestUpBuff.44600001.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600002.desc,All allied Combatants' Power +2%,Common/QuestUpBuff.txt
+QuestUpBuff.44600002.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600003.desc,All allied Combatants' Power +3%,Common/QuestUpBuff.txt
+QuestUpBuff.44600003.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600004.desc,All allied Combatants' Power +4%,Common/QuestUpBuff.txt
+QuestUpBuff.44600004.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600005.desc,All allied Combatants' Power +5%,Common/QuestUpBuff.txt
+QuestUpBuff.44600005.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600006.desc,All allied Combatants' Power +6%,Common/QuestUpBuff.txt
+QuestUpBuff.44600006.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600007.desc,All allied Combatants' Power +7%,Common/QuestUpBuff.txt
+QuestUpBuff.44600007.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600008.desc,All allied Combatants' Power +8%,Common/QuestUpBuff.txt
+QuestUpBuff.44600008.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600009.desc,All allied Combatants' Power +9%,Common/QuestUpBuff.txt
+QuestUpBuff.44600009.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600010.desc,All allied Combatants' Power +10%,Common/QuestUpBuff.txt
+QuestUpBuff.44600010.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44600011.desc,All allied Combatants' Power +11%,Common/QuestUpBuff.txt
+QuestUpBuff.44600011.name,All - Increases Combat Power,Common/QuestUpBuff.txt
+QuestUpBuff.44700001.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 0.3%",Common/QuestUpBuff.txt
+QuestUpBuff.44700001.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700002.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 0.6%",Common/QuestUpBuff.txt
+QuestUpBuff.44700002.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700003.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 0.9%",Common/QuestUpBuff.txt
+QuestUpBuff.44700003.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700004.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 1.2%",Common/QuestUpBuff.txt
+QuestUpBuff.44700004.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700005.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 1.5%",Common/QuestUpBuff.txt
+QuestUpBuff.44700005.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700006.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 1.8%",Common/QuestUpBuff.txt
+QuestUpBuff.44700006.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700007.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 2.1%",Common/QuestUpBuff.txt
+QuestUpBuff.44700007.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700008.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 2.4%",Common/QuestUpBuff.txt
+QuestUpBuff.44700008.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700009.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 2.7%",Common/QuestUpBuff.txt
+QuestUpBuff.44700009.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700010.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 3%",Common/QuestUpBuff.txt
+QuestUpBuff.44700010.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44700011.desc,"At the start of battles, all allied Combatants gain 1 SP and increase ATK by 3.3%",Common/QuestUpBuff.txt
+QuestUpBuff.44700011.name,All - 1 SP + Increases ATK,Common/QuestUpBuff.txt
+QuestUpBuff.44800001.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 0.6%",Common/QuestUpBuff.txt
+QuestUpBuff.44800001.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800002.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 1.2%",Common/QuestUpBuff.txt
+QuestUpBuff.44800002.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800003.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 1.8%",Common/QuestUpBuff.txt
+QuestUpBuff.44800003.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800004.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 2.4%",Common/QuestUpBuff.txt
+QuestUpBuff.44800004.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800005.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 3%",Common/QuestUpBuff.txt
+QuestUpBuff.44800005.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800006.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 3.6%",Common/QuestUpBuff.txt
+QuestUpBuff.44800006.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800007.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 4.2%",Common/QuestUpBuff.txt
+QuestUpBuff.44800007.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800008.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 4.8%",Common/QuestUpBuff.txt
+QuestUpBuff.44800008.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800009.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 5.4%",Common/QuestUpBuff.txt
+QuestUpBuff.44800009.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800010.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 6%",Common/QuestUpBuff.txt
+QuestUpBuff.44800010.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44800011.desc,"At the start of battles, all allied Combatants gain 1 SP and increase DEF by 6.6%",Common/QuestUpBuff.txt
+QuestUpBuff.44800011.name,All - 1 SP + Increases DEF,Common/QuestUpBuff.txt
+QuestUpBuff.44900001.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 0.3%",Common/QuestUpBuff.txt
+QuestUpBuff.44900001.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900002.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 0.6%",Common/QuestUpBuff.txt
+QuestUpBuff.44900002.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900003.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 0.9%",Common/QuestUpBuff.txt
+QuestUpBuff.44900003.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900004.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 1.2%",Common/QuestUpBuff.txt
+QuestUpBuff.44900004.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900005.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 1.5%",Common/QuestUpBuff.txt
+QuestUpBuff.44900005.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900006.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 1.8%",Common/QuestUpBuff.txt
+QuestUpBuff.44900006.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900007.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 2.1%",Common/QuestUpBuff.txt
+QuestUpBuff.44900007.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900008.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 2.4%",Common/QuestUpBuff.txt
+QuestUpBuff.44900008.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900009.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 2.7%",Common/QuestUpBuff.txt
+QuestUpBuff.44900009.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900010.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 3%",Common/QuestUpBuff.txt
+QuestUpBuff.44900010.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.44900011.desc,"At the start of battles, all allied Combatants gain 1 SP and increase HP by 3.3%",Common/QuestUpBuff.txt
+QuestUpBuff.44900011.name,All - 1 SP + Increases HP,Common/QuestUpBuff.txt
+QuestUpBuff.7100152.desc,The whole team's ATK and HP +15%,Common/QuestUpBuff.txt
+QuestUpBuff.7100152.name,0★ Boost,Common/QuestUpBuff.txt
+QuestUpBuff.7100153.desc,The whole team's ATK and HP +20%,Common/QuestUpBuff.txt
+QuestUpBuff.7100153.name,1★ Boost,Common/QuestUpBuff.txt
+QuestUpBuff.7100154.desc,The whole team's ATK and HP +24%,Common/QuestUpBuff.txt
+QuestUpBuff.7100154.name,2★ Boost,Common/QuestUpBuff.txt
+QuestUpBuff.7100155.desc,The whole team's ATK and HP +27%,Common/QuestUpBuff.txt
+QuestUpBuff.7100155.name,3★ Boost,Common/QuestUpBuff.txt
+QuestUpBuff.7100156.desc,The whole team's ATK and HP +30%,Common/QuestUpBuff.txt
+QuestUpBuff.7100156.name,4★ Boost,Common/QuestUpBuff.txt
+QuestUpBuff.7100157.desc,The whole team's ATK and HP +33%,Common/QuestUpBuff.txt
+QuestUpBuff.7100157.name,5★ Boost,Common/QuestUpBuff.txt
+QuestUpBuff.7100158.desc,The whole team's ATK and HP +35%,Common/QuestUpBuff.txt
+QuestUpBuff.7100158.name,6★ Boost,Common/QuestUpBuff.txt
