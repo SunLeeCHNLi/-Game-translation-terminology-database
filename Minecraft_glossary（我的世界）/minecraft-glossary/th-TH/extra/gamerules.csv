@@ -1,0 +1,1493 @@
+﻿source,target,tgt_lng
+'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+A porcentagem de jogadores que devem dormir para passar a noite.,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+Accesso al Nether,อนุญาตให้เข้าเนเธอร์,th-TH
+Accès au Nether,อนุญาตให้เข้าเนเธอร์,th-TH
+Actions destructives des créatures,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+Activar la barra localizadora de jugadores,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+Actualisation du feu loin des joueurs,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+Actualisations du monde,การอัปเดตของโลก,th-TH
+Actualizaciones del mundo,การอัปเดตของโลก,th-TH
+Administratorbefehle protokollieren,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+Advance time of day,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+"Al explotar (criaturas), algunos bloques no soltarán objetos",ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"Al explotar (por bloques), algunos bloques no soltarán objetos",ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"Al verificarsi di determinati eventi, come la generazione di un boss, il suono verrà udito globalmente.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+Alcune entità potrebbero avere regole separate.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+Algumas entidades podem ter regras separadas.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+Algunas entidades pueden tener sus propias reglas.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de criaturas desaparecen con la explosión.,ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de interacciones con bloques desaparecen con la explosión.,ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de la dinamita desaparecen con la explosión.,ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Allgemeine Verärgerung,การโกรธทุกคน,th-TH
+Allow destructive mob actions,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+Allow Nether,อนุญาตให้เข้าเนเธอร์,th-TH
+Allow spectators to generate terrain,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+Allow TNT to be activated and to explode,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+Altezza di accumulo della neve,ความสูงในการสะสมชั้นหิมะ,th-TH
+Altura de acumulación de nieve,ความสูงในการสะสมชั้นหิมะ,th-TH
+Altura de acumulação de neve,ความสูงในการสะสมชั้นหิมะ,th-TH
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.","ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+Angered neutral mobs stop being angry when the targeted player dies nearby.,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+Announce advancements,ประกาศความก้าวหน้า,th-TH
+Anunciar comandos de administrador,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+Anunciar progresos,ประกาศความก้าวหน้า,th-TH
+Anunciar progressos,ประกาศความก้าวหน้า,th-TH
+Anunciar saída dos Blocos de Comando,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+Anında yeniden canlanma,เกิดใหม่ทันที,th-TH
+"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+"Ao ativar, uma barra na tela indica a direção dos jogadores.",เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+Aplicável às cadeias de blocos de comando e funções.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+Apparition,การเกิด,th-TH
+Apparition des créatures,ให้ม็อบเกิด,th-TH
+Apparition des marchands ambulants,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+Apparition des monstres,ให้มอนสเตอร์เกิด,th-TH
+Apparition des patrouilles de pillards,ให้กองโจรลาดตระเวนเกิด,th-TH
+Apparition des Phantoms,ให้แฟนท่อมเกิด,th-TH
+Apparition des Wardens,ให้วอร์เดนเกิด,th-TH
+Applies to command block chains and functions.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+Are you sure you want to discard your pending game rule changes?,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+As entidades com passageiros podem atravessar portais,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+Ateş hasarı alma,ดาเมจจากไฟ,th-TH
+Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+Ateş yayılabilsin,อัปเดตไฟ,th-TH
+Ateş yayılma yarıçapı,รัศมีการลุกลามของไฟ,th-TH
+Ativar Barra Localizadora de jogadores,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+Ativar Blocos de Comando,เปิดใช้งานบล็อกคำสั่ง,th-TH
+Ativar Blocos Geradores,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+Ativar invasões,เปิดการปล้นสะดม,th-TH
+Ativar PvP,เปิดใช้งาน PvP,th-TH
+Atraso do Portal do Nether em modo não Criativo,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Atraso do Portal do Nether no Modo Criativo,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Atualizar as regras do jogo requer permissões de operador.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+Atılabilirler blokları kırabilir,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+Atılan Ender İncileri ölünce yok olurlar,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+Ausbeute,การดรอป,th-TH
+Avanzar ciclo de día y noche,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+Azioni distruttive delle creature,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+Baixando regras do jogo...,กำลังดึงข้อมูลกฎเกม...,th-TH
+Barra localizzatrice,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+Barre de localisation,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+Baskınlar olsun,เปิดการปล้นสะดม,th-TH
+Baskınları kapat,ปิดการปล้นสะดม,th-TH
+Bazı varlıkların ayrı kuralları olabilir.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+Başlangıç yığınları yarıçapı,รัศมีชังก์จุดเกิด,th-TH
+Befehlsausgabe anzeigen,แสดงผลป้อนกลับคำสั่ง,th-TH
+Befehlsblockausgabe anzeigen,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+Befehlsblöcke,เปิดใช้งานบล็อกคำสั่ง,th-TH
+Begrenzt die Inhalte der Debug‐Anzeige.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+"Bist du sicher, dass du die ausstehenden Änderungen der Spielregeln verwerfen möchtest?",คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+Blocchi comandi funzionanti,เปิดใช้งานบล็อกคำสั่ง,th-TH
+Blockausbeute fallen lassen,บล็อกดรอป,th-TH
+Blockgrenze für Befehlsänderungen,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+Blockzerstörung durch Geschosse,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+Block‐Explosionsausbeute verschwindet,ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Blocs de commande activés,เปิดใช้งานบล็อกคำสั่ง,th-TH
+"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Bloklar düşsün,บล็อกดรอป,th-TH
+Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Boğulma hasarı alma,ดาเมจจากการจมน้ำ,th-TH
+Broadcast admin commands,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+Broadcast command block output,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+Butin des blocs,บล็อกดรอป,th-TH
+Butin des créatures,ดรอปลูตของม็อบ,th-TH
+Butin des entités,ดรอปของจากเอนทิตี้,th-TH
+Butins,การดรอป,th-TH
+Bán kính lan lửa,รัศมีการลุกลามของไฟ,th-TH
+Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+Bán kính vị trí hồi sinh,รัศมีจุดเกิด,th-TH
+Bán kính đoạn khúc hồi sinh,รัศมีชังก์จุดเกิด,th-TH
+Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+Bật các cuộc xâm lược,เปิดการปล้นสะดม,th-TH
+Bật khối lệnh,เปิดใช้งานบล็อกคำสั่ง,th-TH
+Bật khối triệu hồi,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+Bật PVP,เปิดใช้งาน PvP,th-TH
+Bật thanh định vị người chơi,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+Cambiar las reglas del juego requiere permisos de administrador.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+Cambios en las reglas del juego,เปลี่ยนแปลงกฎเกม,th-TH
+Canavarlar Oluşsun,ให้มอนสเตอร์เกิด,th-TH
+Canavarların doğal olarak oluşabilmesini kontrol eder.,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+Canlı ganimeti düşsün,ดรอปลูตของม็อบ,th-TH
+"Canlı patlamalarında, bazı bloklar düşmesin",ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Canlılar,ม็อบ,th-TH
+Canlılar oluşsun,ให้ม็อบเกิด,th-TH
+Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Canlıların yıkıcı etkilerine izin verilsin,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+Cannot change game rules in a hardcore world.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+"Cantidad de bloques que se pueden cambiar a la vez con un solo comando, como «/fill» o «/clone».",จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+Cantidad de chunks que se mantienen cargados alrededor del punto de aparición.,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+Cargar fuego lejos de los jugadores,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+Causar dano por afogamento,ดาเมจจากการจมน้ำ,th-TH
+Causar dano por congelamento,ดาเมจจากความเย็น,th-TH
+Causar dano por fogo,ดาเมจจากไฟ,th-TH
+Causar dano por queda,ดาเมจจากการตกจากที่สูง,th-TH
+Certaines entités peuvent avoir des règles distinctes.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+Certains butins des blocs détruits par des explosions de créatures sont perdus dans l'explosion.,ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Certains butins des blocs détruits par des explosions de TNT sont perdus dans l'explosion.,ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Certains butins des blocs détruits par des explosions dues à des interactions de blocs sont perdus dans l'explosion.,ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Chat,แชต,th-TH
+Chiều cao tích tụ tuyết,ความสูงในการสะสมชั้นหิมะ,th-TH
+Cho phép hành động sinh vật phá hoại,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+Cho phép khán giả tạo địa hình,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+Cho phép Nether,อนุญาตให้เข้าเนเธอร์,th-TH
+"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+Cho phép TNT được kích hoạt và phát nổ,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+Chỉnh sửa luật chơi,แก้ไขกฎเกม,th-TH
+Chỉnh sửa luật chơi...,แก้ไขกฎเกม...,th-TH
+Ciclo circadiano,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+Ciclo meteorológico,อัปเดตสภาพอากาศ,th-TH
+Ciclos do mundo,การอัปเดตของโลก,th-TH
+Colère universelle,การโกรธทุกคน,th-TH
+Combattimento tra giocatori,เปิดใช้งาน PvP,th-TH
+Command chain size limit,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+Command context limit,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+Command modification block limit,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+Commandes d'administrateur affichées,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+Comprobar movimiento con élitros,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Comprobar movimiento del jugador,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+"Consenti alle entità con passeggeri di teletrasportarsi attraverso i portali del Nether, i portali dell'End e i varchi dell'End.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+Conservation de l'inventaire après la mort,ตายของไม่ตก,th-TH
+Conservazione dell'inventario dopo la morte,ตายของไม่ตก,th-TH
+Controla el tamaño de la zona alrededor del punto de reaparición donde pueden aparecer los jugadores.,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+"Controla que las criaturas puedan soltar recursos, incluyendo orbes de experiencia.",ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+"Controla que los bloques puedan soltar recursos, incluyendo orbes de experiencia.",ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+Controla si el fuego o la lava deberían estar cargados al estar a más de 8 chunks de distancia de cualquier jugador.,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+Controla si el impacto de proyectiles destruirá bloques a los que normalmente puede destruir.,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+"Controla si las enredaderas se propagan a bloques adyacentes. No afecta otros tipos de enredaderas como enredaderas lacrimosas o enredaderas retorcidas, entre otras.",ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+Controla si los jugadores pueden dañar a otros jugadores o no.,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+Controla si los jugadores pueden entrar en el Nether.,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+Controla si los monstruos aparecen naturalmente o no.,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+"Controls resource drops from blocks, including experience orbs.",ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+"Controls resource drops from mobs, including experience orbs.",ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+Controls the size of the area around the spawn point that players can spawn in.,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+Controls whether impact projectiles will destroy blocks that are destructible by them.,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+Controls whether monsters naturally spawn.,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+Controls whether players are allowed to damage other players.,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+Controls whether players are allowed to enter the Nether.,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+"Contrôle la propagation aléatoire des lianes sur les blocs adjacents. Cela n'affecte pas les autres types de lianes tels que les lianes pleureuses, les lianes tortueuses, etc.",ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+Contrôle la taille de la zone autour du point d'apparition dans laquelle les joueurs peuvent apparaître.,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+"Contrôle les butins des blocs, y compris les orbes d'expérience.",ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+"Contrôle les butins des créatures, y compris les orbes d'expérience.",ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+"Contrôle les butins des wagonnets (y compris leur inventaire), des cadres, des bateaux, etc.",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+Contrôle si le feu et la lave peuvent s'actualiser à plus de 8 chunks de n'importe quel joueur.,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+Contrôle si les joueurs peuvent entrer dans le Nether.,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+Contrôle si les joueurs peuvent infliger des dégâts aux autres joueurs.,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+Contrôle si les monstres apparaissent naturellement.,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+Contrôle si les perles de l'Ender lancées par un joueur disparaissent lorsque celui-ci meurt.,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+Contrôle si les projectiles détruisent les blocs destructibles par ceux-ci à l'impact.,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+Conversione d'acqua in sorgente,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+Conversione di lava in sorgente,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+Creature,ม็อบ,th-TH
+Creature,ให้ม็อบเกิด,th-TH
+Criaturas,ม็อบ,th-TH
+Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.","ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+Créatures,ม็อบ,th-TH
+"Cuando está activada, se muestra una barra en la pantalla que indica la dirección de otros jugadores.",เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+"Cuando nieva, se forma este número máximo de capas de nieve en el suelo.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+"Cuando se producen ciertos eventos durante la partida, como que aparezca un jefe, el sonido se escucha en todas partes.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+"Cuando una corriente de agua está rodeada de más agua por dos de sus lados, se convierte en una fuente.",เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+"Cuando una corriente de lava está rodeada de más lava por dos de sus lados, se convierte en una fuente.",เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+Cycle jour-nuit,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+Cycle météorologique,อัปเดตสภาพอากาศ,th-TH
+Cập nhật luật chơi yêu cầu quyền người điều hành.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+Cập nhật lửa,อัปเดตไฟ,th-TH
+Cập nhật thế giới,การอัปเดตของโลก,th-TH
+Cập nhật thời tiết,อัปเดตสภาพอากาศ,th-TH
+Danno da annegamento,ดาเมจจากการจมน้ำ,th-TH
+Danno da bruciatura,ดาเมจจากไฟ,th-TH
+Danno da caduta,ดาเมจจากการตกจากที่สูง,th-TH
+Danno da congelamento,ดาเมจจากความเย็น,th-TH
+Das Ändern der Spielregeln erfordert Operatorrechte.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+Daño por ahogamiento,ดาเมจจากการจมน้ำ,th-TH
+Daño por caída,ดาเมจจากการตกจากที่สูง,th-TH
+Daño por congelamiento,ดาเมจจากความเย็น,th-TH
+Daño por fuego,ดาเมจจากไฟ,th-TH
+Deal drowning damage,ดาเมจจากการจมน้ำ,th-TH
+Deal fall damage,ดาเมจจากการตกจากที่สูง,th-TH
+Deal fire damage,ดาเมจจากไฟ,th-TH
+Deal freeze damage,ดาเมจจากความเย็น,th-TH
+Debug‐Infos reduzieren,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+Default: %s,ค่าเริ่มต้น: %s,th-TH
+"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+Define o tamanho do ponto de renascimento dos jogadores.,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+"Define os itens largados pelos blocos, incluindo as esferas de experiência.",ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+"Define os itens largados por criaturas, incluindo as esferas de experiência.",ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+Define se os jogadores podem atacar outros jogadores.,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+Define se os jogadores podem entrar no Nether.,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+Define se os monstros podem ser gerados naturalmente.,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+Demora para teletransportarse al Nether en creativo,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Demora para teletransportarse al Nether por defecto,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+"Der Prozentsatz an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.",จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+"Der Radius in Blöcken um einen Spieler, in dem sich Feuer ausbreiten kann.",รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+Desactivar control de movimiento de los jugadores,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Desactivar control de movimiento de élitros,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Desactivar invasiones,ปิดการปล้นสะดม,th-TH
+Desativar invasões,ปิดการปล้นสะดม,th-TH
+Desativar verificação de movimento do jogador,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Desativar verificação de movimento dos Élitros,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+Destruction des blocs par des projectiles,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+Destruir Pérolas de Ender lançadas ao morrer,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+"Determina i rilasci dei vagonetti (compresi gli inventari), delle cornici, delle barche ecc.",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+Determina la dimensione dell'area intorno al punto di generazione dei giocatori.,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+Determina la propagazione casuale dei rampicanti verso i blocchi adiacenti. Non ha effetto sugli altri tipi di rampicanti (come i rampicanti piangenti o i rampicanti attorcigliati).,ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+"Determina le risorse che vengono rilasciate dalle creature, comprese le sfere di esperienza.",ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+"Determina le risorse rilasciate dai blocchi, comprese le sfere di esperienza.",ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+Determina se i giocatori possono entrare nel Nether attraverso i portali.,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+Determina se i giocatori possono infliggere danno agli altri giocatori.,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+Determina se i mostri si generano naturalmente.,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+Determina se i proiettili da impatto possono distruggere i blocchi vulnerabili.,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+Determina se il fuoco e la lava sono attivi anche a una distanza maggiore di 8 chunk da ogni giocatore.,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+"Die Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.",จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+"Die Anzahl der Chunks um den Einstiegspunkt in der Oberwelt, die dauerhaft geladen bleiben.",จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+Die Spielregeln können in einer Hardcore‐Welt nicht angepasst werden.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+Disable elytra movement check,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Disable player movement check,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Disable raids,ปิดการปล้นสะดม,th-TH
+Disparition des perles de l'Ender lancées à la mort,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+Distruzione dei blocchi tramite proiettili,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+Divers,เบ็ดเตล็ด,th-TH
+Diversos,เบ็ดเตล็ด,th-TH
+Do elytra movement check,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Do player movement check,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Do raids,เปิดการปล้นสะดม,th-TH
+Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+Donma hasarı alma,ดาเมจจากความเย็น,th-TH
+Drop blocks,บล็อกดรอป,th-TH
+Drop entity equipment,ดรอปของจากเอนทิตี้,th-TH
+Drop mob loot,ดรอปลูตของม็อบ,th-TH
+Drops,การดรอป,th-TH
+Dung nham chuyển thành nguồn,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+Dây leo lan ra,ให้เถาวัลย์แพร่,th-TH
+Dégâts de chute,ดาเมจจากการตกจากที่สูง,th-TH
+Dégâts de feu,ดาเมจจากไฟ,th-TH
+Dégâts de gel,ดาเมจจากความเย็น,th-TH
+Dégâts de noyade,ดาเมจจากการจมน้ำ,th-TH
+Délai du portail du Nether,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Délai du portail du Nether en mode Créatif,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+Dünyadaki Hareketler,การอัปเดตของโลก,th-TH
+Düşenler,การดรอป,th-TH
+Düşme hasarı alma,ดาเมจจากการตกจากที่สูง,th-TH
+Edit Game Rules,แก้ไขกฎเกม,th-TH
+Edit Game Rules...,แก้ไขกฎเกม...,th-TH
+Editar las reglas del juego,แก้ไขกฎเกม,th-TH
+Editar las reglas del juego...,แก้ไขกฎเกม...,th-TH
+Editar regras do jogo,แก้ไขกฎเกม,th-TH
+Editar regras do jogo...,แก้ไขกฎเกม...,th-TH
+"Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.",ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+"Einiges von der Ausbeute von Blöcken, die durch TNT‐Explosionen zerstört werden, geht dabei verloren.",ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+"Einiges von der Ausbeute von Blöcken, die durch von Kreaturen verursachte Explosionen zerstört werden, geht dabei verloren.",ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Einstiegs‐Chunk‐Radius,รัศมีชังก์จุดเกิด,th-TH
+El agua se convierte en fuente,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+El número máximo de contextos que se pueden utilizar en comandos como «execute as».,จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+El porcentaje necesario de jugadores que deben dormir para pasar la noche.,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+El radio en bloques alrededor de un jugador en el que el fuego puede expandirse,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+Elitra hareket hızı kontrolünü kapat,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Elitra hareketini denetle,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Elytrenflug nicht überprüfen,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Elytren‐Bewegungsprüfung,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+"En explosiones por dinamita, algunos bloques no soltarán objetos",ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+En yüksek vagon hızı,ความเร็วสูงสุดของรถราง,th-TH
+Enable Command Blocks,เปิดใช้งานบล็อกคำสั่ง,th-TH
+Enable player Locator Bar,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+Enable pvp,เปิดใช้งาน PvP,th-TH
+Enable Spawner Blocks,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+Enderperlen‐Mitleidenschaft,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+Entities with passengers can use portals,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+Entity cramming threshold,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+Entzünden und Explodieren von TNT,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+Enviar respuestas de comandos,แสดงผลป้อนกลับคำสั่ง,th-TH
+Erfrierungsschaden,ดาเมจจากความเย็น,th-TH
+"Ermöglicht es Objekten mit Passagieren, sich durch Nether‐, End‐ und Endtransitportale zu teleportieren.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+Erzeugung,การเกิด,th-TH
+Esito dei blocchi comandi,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+Eventi sonori globali,เหตุการณ์เสียงดังไปทั่ว,th-TH
+Eventos de sonido globales,เหตุการณ์เสียงดังไปทั่ว,th-TH
+Eventos sonoros globais,เหตุการณ์เสียงดังไปทั่ว,th-TH
+Evrensel öfke,การโกรธทุกคน,th-TH
+Exigir receitas para fabricação,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+Exigir recetas para poder fabricar,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+Explosion de TNT,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+Fabbricazione limitata,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+Fahrende Händler erzeugen,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+Fallschaden,ดาเมจจากการตกจากที่สูง,th-TH
+Fantasmi,ให้แฟนท่อมเกิด,th-TH
+Feuerausbreitung,อัปเดตไฟ,th-TH
+Feuerausbreitungs‐Radius,รัศมีการลุกลามของไฟ,th-TH
+Feuerschaden,ดาเมจจากไฟ,th-TH
+fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+Fire spread radius,รัศมีการลุกลามของไฟ,th-TH
+Forgive dead players,อภัยผู้เล่นที่ตายแล้ว,th-TH
+Fortschritte bekannt geben,ประกาศความก้าวหน้า,th-TH
+Frequenza dei tick casuali,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+Fúria universal,การโกรธทุกคน,th-TH
+Für einige Objekte können eigene Regeln gelten.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+Game Rule Changes,เปลี่ยนแปลงกฎเกม,th-TH
+Gece-gündüz döngüsü olsun,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+Gelişimler gösterilsin,ประกาศความก้าวหน้า,th-TH
+Generación de criaturas,การเกิด,th-TH
+Generar bandas de saqueadores,ให้กองโจรลาดตระเวนเกิด,th-TH
+Generar criaturas,ให้ม็อบเกิด,th-TH
+Generar fantasmas,ให้แฟนท่อมเกิด,th-TH
+Generar monstruos,ให้มอนสเตอร์เกิด,th-TH
+Generar terreno en modo espectador,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+Generar vendedores ambulantes,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+Generar wardens,ให้วอร์เดนเกิด,th-TH
+Generatori funzionanti,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+Generazione,การเกิด,th-TH
+Generazione di terreno da parte degli spettatori,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+Gerar criaturas,ให้ม็อบเกิด,th-TH
+Gerar Defensores,ให้วอร์เดนเกิด,th-TH
+Gerar Espectros,ให้แฟนท่อมเกิด,th-TH
+Gerar Mercadores Ambulantes,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+Gerar monstros,ให้มอนสเตอร์เกิด,th-TH
+Gerar patrulhas de Saqueadores,ให้กองโจรลาดตระเวนเกิด,th-TH
+Gerar terreno para os espectadores,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+Geração,การเกิด,th-TH
+Gestorbenen Spielern vergeben,อภัยผู้เล่นที่ตายแล้ว,th-TH
+Gesundheit regenerieren,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+Giocatore,ผู้เล่น,th-TH
+Giảm thông tin gỡ lỗi,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+Giận dữ toàn diện,การโกรธทุกคน,th-TH
+Giới hạn kích cỡ chuỗi lệnh,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+Giới hạn ngữ cảnh lệnh,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+Giới hạn nội dung của màn hình gỡ lỗi.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+Giới hạn số khối sửa đổi bởi lệnh,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+Giữ túi đồ sau khi chết,ตายของไม่ตก,th-TH
+Global sound events,เหตุการณ์เสียงดังไปทั่ว,th-TH
+Gây sát thương lửa,ดาเมจจากไฟ,th-TH
+Gây sát thương rơi,ดาเมจจากการตกจากที่สูง,th-TH
+Gây sát thương đuối nước,ดาเมจจากการจมน้ำ,th-TH
+Gây sát thương đóng băng,ดาเมจจากความเย็น,th-TH
+Générateurs activés,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+Génération du terrain par les spectateurs,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+Gửi phản hồi về lệnh,แสดงผลป้อนกลับคำสั่ง,th-TH
+Hata ayıklama bilgisini azalt,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+Hata ayıklama ekranı içeriğini kısıtlar.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+Hauteur d'accumulation de la neige,ความสูงในการสะสมชั้นหิมะ,th-TH
+Hava durumu döngüsü olsun,อัปเดตสภาพอากาศ,th-TH
+Hiển thị thông báo chết,แสดงข้อความการตาย,th-TH
+Häufigkeit von Zufallsereignissen,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+"Höchstgeschwindigkeit, die eine Lore an Land standardmäßig erreichen kann.",ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+Hồi phục sinh lực,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+"If enabled, players will be able to craft only unlocked recipes.",หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+Il raggio in blocchi intorno a un giocatore entro cui il fuoco può propagarsi,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+Impossible de modifier les règles de jeu dans un monde Hardcore.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+"In block interaction explosions, some blocks won't drop their loot",ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"In mob explosions, some blocks won't drop their loot",ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"In TNT explosions, some blocks won't drop their loot",ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Incursioni,เปิดการปล้นสะดม,th-TH
+Incursioni disattivate,ปิดการปล้นสะดม,th-TH
+Informazioni diagnostiche ridotte,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+Infos de débogage réduites,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+Innesco ed esplosione di TNT,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+Invasiones,เปิดการปล้นสะดม,th-TH
+Invasions,เปิดการปล้นสะดม,th-TH
+Invasions désactivées,ปิดการปล้นสะดม,th-TH
+Inventar nach dem Tod behalten,ตายของไม่ตก,th-TH
+Ira universal,การโกรธทุกคน,th-TH
+Itens largados,การดรอป,th-TH
+Jogador,ผู้เล่น,th-TH
+Joueur,ผู้เล่น,th-TH
+Joueurs morts pardonnés,อภัยผู้เล่นที่ตายแล้ว,th-TH
+Jugador,ผู้เล่น,th-TH
+Kar birikme yüksekliği,ความสูงในการสะสมชั้นหิมะ,th-TH
+"Kar yağdığında, zeminde birikecek kar katmanı sayısı.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+Keep inventory after death,ตายของไม่ตก,th-TH
+"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+Khác,เบ็ดเตล็ด,th-TH
+Không thể thay đổi luật chơi trong thế giới siêu khó.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+Kiểm soát người chơi được phép vào Nether hay không.,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+Kiểm soát quái vật sinh ra tự nhiên hay không.,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+Kiểm tra chuyển động của cánh cứng,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Kiểm tra chuyển động của người chơi,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Komut bağlam limiti,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+Komut Bloklarını Etkinleştir,เปิดใช้งานบล็อกคำสั่ง,th-TH
+Komut bloğu zincirleri ve fonksiyonlar için geçerli.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+Komut bloğu çıktıları gösterilsin,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+Komut değişikliği blok sınırı,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+Komut geri bildirimi gösterilsin,แสดงผลป้อนกลับคำสั่ง,th-TH
+Komut zinciri uzunluk sınırı,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+Kreaturen,ม็อบ,th-TH
+Kreaturen erzeugen,ให้ม็อบเกิด,th-TH
+Kreaturenausbeute fallen lassen,ดรอปลูตของม็อบ,th-TH
+Kreatur‐Explosionsausbeute verschwindet,ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Kâbuslar oluşsun,ให้แฟนท่อมเกิด,th-TH
+Küresel ses olayları,เหตุการณ์เสียงดังไปทั่ว,th-TH
+La lava se convierte en fuente,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+La mise à jour des règles de jeu nécessite des permissions d'opérateur.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+La percentuale di giocatori che devono dormire per saltare la notte.,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+La vitesse maximale par défaut des wagonnets en mouvement sur le sol.,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+Largar blocos,บล็อกดรอป,th-TH
+Largar itens de criaturas,ดรอปลูตของม็อบ,th-TH
+Largar itens de entidades,ดรอปของจากเอนทิตี้,th-TH
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar.
+Funciona mejor si «Perdonar jugadores muertos» se desactiva.","ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar. Funciona mejor si «Perdonar jugadores muertos» se desactiva.",ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+Las criaturas neutrales que estén enfadadas dejarán de estarlo cuando el jugador al que persigan muera cerca.,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+Las entidades con pasajeros pueden utilizar portales,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+Las perlas de ender lanzadas desaparecen al morir,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+Las perlas de ender lanzadas por un jugador desaparecen cuando este muere.,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+"Lav, kaynağa dönüşsün",ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+Lava converts to source,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+Lava‐Erneuerbarkeit,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgive_dead_players» è disattivata.",ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgiveDeadPlayers» è disattivata.","ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+Le creature neutrali che sono state provocate smettono di essere arrabbiate quando il giocatore puntato muore nelle vicinanze.,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+Le entità con passeggeri possono attraversare i portali,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+"Le nombre de blocs qui peuvent être modifiés à la fois par une commande, telle que /fill ou /clone.",จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+Le nombre de chunks qui restent chargés autour du point d'apparition de la Surface.,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+"Le nombre maximal de contextes qui peuvent être utilisés par des commandes telles que ""execute as"".",จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+Le pourcentage de joueurs qui doivent dormir pour passer la nuit.,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+Le rayon (en blocs) autour d'un joueur dans lequel le feu peut se propager.,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+Le regole di gioco possono essere cambiate solo dagli operatori.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+Le regole di gioco sono bloccate nei mondi in modalità estrema.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+Le temps (en ticks) pendant lequel un joueur en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Le temps (en ticks) pendant lequel un joueur qui n'est pas en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgive_dead_players"" est désactivée.",ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgiveDeadPlayers"" est désactivée.","ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+Les créatures neutres en colère redeviennent calmes lorsque le joueur ciblé meurt à proximité.,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+Limita el contenido de la pantalla de desarrollo al pulsar F3.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+Limita il contenuto del cruscotto diagnostico.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+Limite d'ammassamento delle entità,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+Limite d'entassement des entités,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+Limite de blocos modificados por comando,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+Limite de blocs modifiables par commande,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+Limite de comandos em cadeia,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+Limite de contextes des commandes,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+Limite de contextos por comando,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+Limite dei blocchi modificabili per comando,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+Limite dei contesti dei comandi,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+Limite delle catene di comandi,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+Limite des chaînes de commandes,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+Limite le contenu de l'écran de débogage.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+Limits contents of debug screen.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+Loren‐Höchstgeschwindigkeit,ความเร็วสูงสุดของรถราง,th-TH
+"Lorsqu'il neige, les couches de neige qui se forment sur le sol peuvent atteindre cette hauteur.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+"Lorsqu'un écoulement d'eau est entouré de deux sources d'eau, il se transforme en source.",เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+"Lorsqu'un écoulement de lave est entouré de deux sources de lave, il se transforme en source.",เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+"Lorsque certains événements se produisent dans le jeu, comme l'apparition d'un boss, le son est entendu partout.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+Los proyectiles pueden romper bloques,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+Límite de bloques modificables por comandos,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+Límite de comandos encadenados,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+Límite de contextos del comando,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+Límite de entidades por bloque,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+Lập tức hồi sinh,เกิดใหม่ทันที,th-TH
+Mantener inventario tras morir,ตายของไม่ตก,th-TH
+Manter o inventário ao morrer,ตายของไม่ตก,th-TH
+"Maximale Anzahl an Befehlsrahmen, die von Befehlen wie „execute as“ benutzt werden können.",จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+Maximum default speed of a moving Minecart on land.,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+Maximum number of contexts that can be used by commands like 'execute as'.,จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+Mercanti ambulanti,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+Messages de mort,แสดงข้อความการตาย,th-TH
+Messaggi di morte,แสดงข้อความการตาย,th-TH
+Minecart max speed,ความเร็วสูงสุดของรถราง,th-TH
+Miscellaneous,เบ็ดเตล็ด,th-TH
+Mob,ม็อบ,th-TH
+Mobs,ม็อบ,th-TH
+Mobがアイテムや経験値オーブをドロップするかを設定できます。,ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Mobのアイテムのドロップ,ดรอปลูตของม็อบ,th-TH
+Mobのスポーン,ให้ม็อบเกิด,th-TH
+Mobの破壊行動の許可,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+Mob爆発時にブロックがドロップアイテムを落とさない可能性,ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Modifica le regole di gioco,แก้ไขกฎเกม,th-TH
+Modification des règles de jeu,แก้ไขกฎเกม,th-TH
+Modifications des règles de jeu,เปลี่ยนแปลงกฎเกม,th-TH
+Monster erzeugen,ให้มอนสเตอร์เกิด,th-TH
+Mostrar mensagens de morte,แสดงข้อความการตาย,th-TH
+Mostrar mensajes de muerte,แสดงข้อความการตาย,th-TH
+Mostrar respostas dos comandos,แสดงผลป้อนกลับคำสั่ง,th-TH
+Mostri,ให้มอนสเตอร์เกิด,th-TH
+Mudanças nas regras do jogo,เปลี่ยนแปลงกฎเกม,th-TH
+Muhafızlar oluşsun,ให้วอร์เดนเกิด,th-TH
+Mặc định: %s,ค่าเริ่มต้น: %s,th-TH
+Một vài thực thể có thể sẽ có luật riêng biệt.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Natura,การอัปเดตของโลก,th-TH
+Nether'a İzin Ver,อนุญาตให้เข้าเนเธอร์,th-TH
+Netherportal‐Verzögerung,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Netherportal‐Verzögerung im Kreativmodus,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Netherportal‐Zugang,อนุญาตให้เข้าเนเธอร์,th-TH
+Người chơi,ผู้เล่น,th-TH
+Ngưỡng nhồi nhét thực thể,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+Ngọc Ender được ném ra biến mất khi chết,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+No se pueden cambiar las reglas del juego en modo extremo.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+Notificar uso de bloques de comandos,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+Notificar uso de comandos de admin.,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+Numero di chunk che rimangono caricati intorno al punto di generazione globale.,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+Numero massimo di blocchi che possono essere cambiati contemporaneamente da un solo comando (come «/fill» o «/clone»).,จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+Numero massimo di contesti che possono essere usati da comandi come «/execute as».,จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+Não largar todos os itens com explosões de blocos,ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Não largar todos os itens com explosões de criaturas,ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Não largar todos os itens com explosões de TNT,ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+Número máximo de entidades agrupadas,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+Nước chuyển thành nguồn,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+Obergrenze für Befehlsketten,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+Obergrenze für Befehlsrahmen,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+Obergrenze für Objektgedränge,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+Objektausbeute fallen lassen,ดรอปของจากเอนทิตี้,th-TH
+Obtención de objetos,การดรอป,th-TH
+Obtener botín de criaturas,ดรอปลูตของม็อบ,th-TH
+Obteniendo las reglas del juego...,กำลังดึงข้อมูลกฎเกม...,th-TH
+Oluşum,การเกิด,th-TH
+Oyun kuralları alınıyor,กำลังดึงข้อมูลกฎเกม...,th-TH
+Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+Oyun Kurallarını Düzenle,แก้ไขกฎเกม,th-TH
+Oyun Kurallarını Düzenle...,แก้ไขกฎเกม...,th-TH
+Oyun Kuralı Değişiklikleri,เปลี่ยนแปลงกฎเกม,th-TH
+Oyuncu,ผู้เล่น,th-TH
+Oyuncu etrafında ateş yayılabilen blok yarıçapı.,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+Oyuncu hareket denetimini kapat,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Oyuncu hareketini denetle,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Oyuncu Konum Çubuğunu aç,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+Oyunculardan uzakta ateş yayılabilsin,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+Oyuncuların Nether'a girebilmesini kontrol eder.,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+Padrão: %s,ค่าเริ่มต้น: %s,th-TH
+Par défaut : %s,ค่าเริ่มต้น: %s,th-TH
+Pattuglie di predoni,ให้กองโจรลาดตระเวนเกิด,th-TH
+Percentuale di giocatori addormentati,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+Perdita dei rilasci con le esplosioni dei blocchi,ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Perdita dei rilasci con le esplosioni delle creature,ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Perdita dei rilasci con le esplosioni di TNT,ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Perdoar jogadores mortos,อภัยผู้เล่นที่ตายแล้ว,th-TH
+Perdonar jugadores muertos,อภัยผู้เล่นที่ตายแล้ว,th-TH
+Perdono dei giocatori morti,อภัยผู้เล่นที่ตายแล้ว,th-TH
+"Permet aux entités avec des passagers de se téléporter au travers des portails du Nether et de l'End, et des passerelles de l'End.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+"Permite a las entidades viajar con pasajeros a través de portales del Nether, del End y nexos del End.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+"Permite que se recupere una entidad al romperla. Afecta a vagonetas (incluyendo sus inventarios), marcos, barcas, etc.",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+Permitir acesso ao Nether,อนุญาตให้เข้าเนเธอร์,th-TH
+Permitir ativação e explosão de TNT,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+Permitir ações destrutivas de criaturas,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+Permitir bloques de comandos,เปิดใช้งานบล็อกคำสั่ง,th-TH
+Permitir explosiones de dinamita,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+Permitir generadores de criaturas,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+Permitir JcJ (PvP),เปิดใช้งาน PvP,th-TH
+Permitir Nether,อนุญาตให้เข้าเนเธอร์,th-TH
+Permitir que las criaturas destruyan,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+Perte de butin dans les explosions de blocs,ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Perte de butin dans les explosions de créatures,ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Perte de butin dans les explosions de TNT,ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Phantome erzeugen,ให้แฟนท่อมเกิด,th-TH
+Player,ผู้เล่น,th-TH
+Player's Nether Portal delay in creative mode,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Player's Nether Portal delay in non-creative mode,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Plünderer‐Patrouillen erzeugen,ให้กองโจรลาดตระเวนเกิด,th-TH
+Por defecto: %s,ค่าเริ่มต้น: %s,th-TH
+Porcentagem de sono,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+Porcentaje de jugadores para dormir,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+Portalnutzung durch Objekte mit Passagieren,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+Pourcentage de joueurs endormis,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+Predefinito: %s,ค่าเริ่มต้น: %s,th-TH
+Progressi annunciati,ประกาศความก้าวหน้า,th-TH
+Progrès annoncés,ประกาศความก้าวหน้า,th-TH
+Projectiles can break blocks,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+Propagación de enredaderas,ให้เถาวัลย์แพร่,th-TH
+Propagación del fuego,อัปเดตไฟ,th-TH
+Propagation des lianes,ให้เถาวัลย์แพร่,th-TH
+Propagation du feu,อัปเดตไฟ,th-TH
+Propagazione dei rampicanti,ให้เถาวัลย์แพร่,th-TH
+Propagazione del fuoco,อัปเดตไฟ,th-TH
+Propagazione distante del fuoco,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+Propagação de trepadeiras,ให้เถาวัลย์แพร่,th-TH
+Propagação distante de fogo,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+Propagação do fogo,อัปเดตไฟ,th-TH
+PvP,เปิดใช้งาน PvP,th-TH
+pvp 켜기,เปิดใช้งาน PvP,th-TH
+Pvp'yi etkinleştir,เปิดใช้งาน PvP,th-TH
+PvPの有効化,เปิดใช้งาน PvP,th-TH
+"Quando attiva, viene mostrata una barra sullo schermo per indicare la posizione dei giocatori.",เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+"Quando il TNT causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+"Quando l'acqua corrente è circondata da sorgenti d'acqua su due lati, si trasforma in sorgente.",เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+"Quando l'interazione con blocchi causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+"Quando la lava colante è circondata da sorgenti di lava su due lati, si trasforma in sorgente.",เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+"Quando le creature causano esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+"Quando nevica, la neve si accumulerà a terra fino al numero massimo di strati specificato.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+Quebrar blocos com projéteis,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+Rabbia generale,การโกรธทุกคน,th-TH
+Radio de propagación del fuego,รัศมีการลุกลามของไฟ,th-TH
+Radio del punto de reaparición,รัศมีจุดเกิด,th-TH
+Radio del punto de reaparición,รัศมีชังก์จุดเกิด,th-TH
+Radius des Wiedereinstiegsbereichs,รัศมีจุดเกิด,th-TH
+Raggio dei chunk di generazione,รัศมีชังก์จุดเกิด,th-TH
+Raggio del punto di rinascita,รัศมีจุดเกิด,th-TH
+Raggio di propagazione del fuoco intorno al giocatore,รัศมีการลุกลามของไฟ,th-TH
+Raio de propagação do fogo,รัศมีการลุกลามของไฟ,th-TH
+Raio do ponto de renascimento,รัศมีจุดเกิด,th-TH
+Raio dos chunks ao renascer,รัศมีชังก์จุดเกิด,th-TH
+Random tick speed rate,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+Rankenausbreitung,ให้เถาวัลย์แพร่,th-TH
+Rastgele zaman birimi ilerleme oranı,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+Rayon de la zone de réapparition,รัศมีจุดเกิด,th-TH
+Rayon de propagation du feu,รัศมีการลุกลามของไฟ,th-TH
+Rayon des chunks d'apparition,รัศมีชังก์จุดเกิด,th-TH
+Reaparición instantánea,เกิดใหม่ทันที,th-TH
+Recette requise pour fabriquer,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+Recupero delle regole di gioco...,กำลังดึงข้อมูลกฎเกม...,th-TH
+Reduce debug info,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+Reducir datos de F3,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+Reduz o conteúdo da tela de depuração.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+Reduzir informações de depuração,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+Regenerar salud,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+Regenerar vida,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+Regenerate health,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+Registrazione dei comandi degli operatori,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+Regole di gioco,เปลี่ยนแปลงกฎเกม,th-TH
+Regole di gioco...,แก้ไขกฎเกม...,th-TH
+Renascer imediatamente,เกิดใหม่ทันที,th-TH
+Require recipe for crafting,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+Respawn immediately,เกิดใหม่ทันที,th-TH
+Respawn location radius,รัศมีจุดเกิด,th-TH
+Retrieving game rules...,กำลังดึงข้อมูลกฎเกม...,th-TH
+Rezepte zur Herstellung benötigt,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+Rigenerazione della salute,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+Rilasci,การดรอป,th-TH
+Rilasci dei blocchi,บล็อกดรอป,th-TH
+Rilasci delle creature,ดรอปลูตของม็อบ,th-TH
+Rilasci delle entità,ดรอปของจากเอนทิตี้,th-TH
+Rinascita immediata,เกิดใหม่ทันที,th-TH
+Risposte dei comandi,แสดงผลป้อนกลับคำสั่ง,th-TH
+Ritardo dei portali del Nether,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Ritardo dei portali del Nether in modalità creativa,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Règles de jeu...,แก้ไขกฎเกม...,th-TH
+Réapparition immédiate,เกิดใหม่ทันที,th-TH
+Récupération des règles de jeu...,กำลังดึงข้อมูลกฎเกม...,th-TH
+Régénération de la vie,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+Résultat des commandes,แสดงผลป้อนกลับคำสั่ง,th-TH
+Rơi ra,การดรอป,th-TH
+Rơi ra khối,บล็อกดรอป,th-TH
+Rơi ra lợi phẩm của sinh vật,ดรอปลูตของม็อบ,th-TH
+Rơi ra trang bị của thực thể,ดรอปของจากเอนทิตี้,th-TH
+S'applique aux blocs de commande en chaîne et aux fonctions.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+Sarmaşıklar yayılsın,ให้เถาวัลย์แพร่,th-TH
+Sağlık yenilensin,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+Schaden durch Ertrinken,ดาเมจจากการจมน้ำ,th-TH
+Schlafquote,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+Schneedeckenhöhe,ความสูงในการสะสมชั้นหิมะ,th-TH
+Scomparsa alla morte delle perle di ender già lanciate,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+Se aplica a las cadenas de bloques de comandos y funciones.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+"Se attivata, i giocatori possono fabbricare oggetti solo seguendo le ricette sbloccate.",หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+Send command feedback,แสดงผลป้อนกลับคำสั่ง,th-TH
+Seyircilerin arazi oluşturmasına izin verilsin,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+Seyyar Tüccarlar oluşsun,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+Show death messages,แสดงข้อความการตาย,th-TH
+"Si activée, les joueurs ne pourront fabriquer qu'à partir des recettes débloquées.",หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+"Si activée, une barre s'affiche à l'écran pour indiquer la position des joueurs.",เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+Si applica a blocchi comandi a catena e funzioni.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+"Si se activa, solo se podrán fabricar recetas aprendidas.",หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+Sinh ra,การเกิด,th-TH
+Sinh ra kẻ cai ngục,ให้วอร์เดนเกิด,th-TH
+Sinh ra kẻ cướp tuần tra,ให้กองโจรลาดตระเวนเกิด,th-TH
+Sinh ra phantom,ให้แฟนท่อมเกิด,th-TH
+Sinh ra quái vật,ให้มอนสเตอร์เกิด,th-TH
+Sinh ra sinh vật,ให้ม็อบเกิด,th-TH
+Sinh ra thương nhân lang thang,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+Sinh vật,ม็อบ,th-TH
+Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.","ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+Sleep percentage,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+Snow accumulation height,ความสูงในการสะสมชั้นหิมะ,th-TH
+Sofortiger Wiedereinstieg,เกิดใหม่ทันที,th-TH
+Sohbet,แชต,th-TH
+Soltar objetos al romper bloques,บล็อกดรอป,th-TH
+Soltar objetos al romper entidades,ดรอปของจากเอนทิตี้,th-TH
+Some entities might have separate rules.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+Sortie des blocs de commande,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+Sorveglianti,ให้วอร์เดนเกิด,th-TH
+Spawn chunk radius,รัศมีชังก์จุดเกิด,th-TH
+Spawn mobs,ให้ม็อบเกิด,th-TH
+Spawn Monsters,ให้มอนสเตอร์เกิด,th-TH
+Spawn phantoms,ให้แฟนท่อมเกิด,th-TH
+Spawn pillager patrols,ให้กองโจรลาดตระเวนเกิด,th-TH
+Spawn Wandering Traders,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+Spawn Wardens,ให้วอร์เดนเกิด,th-TH
+Spawner,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+Spawning,การเกิด,th-TH
+Spieler,ผู้เล่น,th-TH
+Spielerbewegung nicht überprüfen,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Spielerortungsleiste aktivieren,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+Spieler‐Bewegungsprüfung,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Spielregeln bearbeiten,แก้ไขกฎเกม,th-TH
+Spielregeln bearbeiten …,แก้ไขกฎเกม...,th-TH
+Spielregeln werden abgerufen …,กำลังดึงข้อมูลกฎเกม...,th-TH
+Stabilisce se le perle di ender lanciate da un giocatore scompaiono alla morte di quest'ultimo.,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+Standard: %s,ค่าเริ่มต้น: %s,th-TH
+"Steuert die Größe des Bereichs um den Einstiegspunkt, in dem Spieler in die Welt einsteigen können.",ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+"Steuert, ob aufprallende Geschosse Blöcke zerstören, die durch sie zerstörbar wären.",ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+"Steuert, ob Blöcke ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+"Steuert, ob Feuer und Lava in einer Entfernung von mehr als 8 Chunks von einem Spieler aktualisiert werden",ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+"Steuert, ob Kreaturen ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+"Steuert, ob Loren, Rahmen, Boote usw. ihre Ausbeute fallen lassen (einschließlich Inventaren).",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+"Steuert, ob Monster natürlich erscheinen.",ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+"Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.",ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+"Steuert, ob Spieler anderen Spielern Schaden zufügen können.",ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+"Steuert, ob Spieler den Nether durch Portale betreten können.",ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+"Steuert, ob vom Spieler geworfene Enderperlen verschwinden, wenn dieser stirbt.",ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+"Su, kaynağa dönüşsün",ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+Sự kiện âm thanh toàn cầu,เหตุการณ์เสียงดังไปทั่ว,th-TH
+Taxa de velocidade de tiques aleatórios,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+Tchat,แชต,th-TH
+Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Tempo (in tick) che un giocatore in modalità creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Tempo (in tick) che un giocatore in modalità diverse dalla creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Tempo atmosferico,อัปเดตสภาพอากาศ,th-TH
+Tha thứ cho người chơi đã chết,อภัยผู้เล่นที่ตายแล้ว,th-TH
+Thay đổi luật chơi,เปลี่ยนแปลงกฎเกม,th-TH
+The amount of chunks that stay loaded around the Overworld spawn position.,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+"The number of blocks that can be changed at once by one command, such as fill or clone.",จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+The percentage of players who must be sleeping to skip the night.,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+The radius in blocks around a player in which fire can spread.,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+Thrown Ender Pearls vanish on death,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+Thông báo tiến trình,ประกาศความก้าวหน้า,th-TH
+Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Thời gian trong ngày trôi đi,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+Thực thể với hành khách có thể sử dụng cổng,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+Tick fire away from players,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modo creativo para cambiar de dimensión.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modos que no sean creativo para cambiar de dimensión.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+"TNT patlamalarında, bazı bloklar düşmesin",ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+TNT‐Explosionsausbeute verschwindet,ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+TNT’nin etkinleştirilmesine ve patlamasına izin ver,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+TNTの点火及び爆発の許可,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+TNT爆発時にブロックがドロップアイテムを落とさない可能性,ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+TNT의 점화 및 폭발 허용,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+Todesmeldungen anzeigen,แสดงข้อความการตาย,th-TH
+"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+Transformar lava em fonte,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+Transformar água em fonte,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+Transformation de l'eau en source,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+Transformation de la lave en source,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Truyền đi lệnh quản trị,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+Truyền đi đầu ra của khối lệnh,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+Trò chuyện,แชต,th-TH
+Téléportation des entités avec des passagers à travers les portails,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+Tắt các cuộc xâm lược,ปิดการปล้นสะดม,th-TH
+Tắt kiểm tra chuyển động của cánh cứng,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Tắt kiểm tra chuyển động của người chơi,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+Tỉ lệ phần trăm ngủ,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+Tỉ lệ tốc độ nhịp ngẫu nhiên,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+Tốc độ tối đa của xe mỏ,ความเร็วสูงสุดของรถราง,th-TH
+Universal anger,การโกรธทุกคน,th-TH
+Update fire,อัปเดตไฟ,th-TH
+Update weather,อัปเดตสภาพอากาศ,th-TH
+Updating game rules requires operator permissions.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+Uyuma yüzdesi,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+Varie,เบ็ดเตล็ด,th-TH
+Varios,เบ็ดเตล็ด,th-TH
+Varlık ekipmanı düşsün,ดรอปของจากเอนทิตี้,th-TH
+Varlık sıkışması alt sınırı,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+Varsayılan: %s,ค่าเริ่มต้น: %s,th-TH
+Velocidad de tics al azar,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+Velocidad máxima de las vagonetas,ความเร็วสูงสุดของรถราง,th-TH
+Velocidad máxima por defecto de una vagoneta por tierra.,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+Velocidade máxima do Carrinho de Mina,ความเร็วสูงสุดของรถราง,th-TH
+Velocidade padrão máxima de um Carrinho de Mina no solo.,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+Velocità massima dei vagonetti,ความเร็วสูงสุดของรถราง,th-TH
+Velocità massima predefinita di un vagonetto in movimento.,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+Verifica dei movimenti dei giocatori,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Verifica dei movimenti dei giocatori disattivata,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Verifica del volo con le elitre,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Verifica del volo con le elitre disattivata,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Verificação de movimentos do jogador,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Verificação de movimentos dos Élitros,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Verschiedenes,เบ็ดเตล็ด,th-TH
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgive_dead_players deaktiviert ist.",ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgiveDeadPlayers deaktiviert ist.","ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+"Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.",ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+Vines spread,ให้เถาวัลย์แพร่,th-TH
+Vitesse des ticks aléatoires,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+Vitesse maximale des wagonnets,ความเร็วสูงสุดของรถราง,th-TH
+Você não pode alterar as regras do jogo em mundos no modo Intenso.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+Von Spielern entferntes Feuer aktualisieren,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+Voranschreiten der Tageszeit,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+Voulez-vous vraiment abandonner les modifications en cours des règles de jeu ?,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+Vuoi davvero annullare le modifiche in sospeso alle regole di gioco?,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+Vérification des mouvements du joueur,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Vérification du vol en élytres,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Vérification désactivée des mouvements du joueur,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Vérification désactivée du vol en élytres,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Vật bắn ra có thể phá khối,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+Wasser‐Erneuerbarkeit,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+Water converts to source,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+Weltaktualisierungen,การอัปเดตของโลก,th-TH
+Weltweite Geräuschereignisse,เหตุการณ์เสียงดังไปทั่ว,th-TH
+"Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen.",หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+"Wenn aktiviert, zeigt eine Leiste auf dem Bildschirm die Richtung der Mitspieler an.",เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+"Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+"Wenn es schneit, entsteht auf dem Boden eine Schneedecke, die höchstens diese Anzahl von Schichten erreicht.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+"Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, wird sie zu einer Quelle.",เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+"Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, wird es zu einer Quelle.",เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+Wetterwechsel,อัปเดตสภาพอากาศ,th-TH
+"When certain game events happen, like a boss spawning, the sound is heard everywhere.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+"When enabled, a bar is shown on the screen to indicate the direction of players.",เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+"When flowing lava is surrounded on two sides by lava sources, it converts into a source.",เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+"When flowing water is surrounded on two sides by water sources, it converts into a source.",เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+"When it snows, layers of snow form on the ground up to at most this number of layers.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+Whether Ender Pearls thrown by a player vanish when that player dies.,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+Wird auf Befehlsblockketten und Funktionen angewandt.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+World Updates,การอัปเดตของโลก,th-TH
+Wärter erzeugen,ให้วอร์เดนเกิด,th-TH
+Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Yağmacı devriyeleri oluşsun,ให้กองโจรลาดตระเวนเกิด,th-TH
+Yeniden canlanma yeri çevresi,รัศมีจุดเกิด,th-TH
+"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+Yolcusu olan varlıklar geçitlerden geçebilir,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+Yêu cầu công thức chế tạo,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+Yönetici komutları gösterilsin,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+"Zeit (in Ticks), die ein Spieler außerhalb des Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+"Zeit (in Ticks), die ein Spieler im Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Zerstörung durch Kreaturen,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+Zorlayıcı dünyada oyun kuralları değiştirilemez.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+Zuschauer generieren Landschaft,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+¿Seguro que quieres descartar tus cambios?,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+Áp dụng cho chuỗi khối lệnh và hàm.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+Änderungen der Spielregeln,เปลี่ยนแปลงกฎเกม,th-TH
+Çağırıcı Bloklarını Etkinleştir,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+Çeşitli,เบ็ดเตล็ด,th-TH
+Événements sonores globaux,เหตุการณ์เสียงดังไปทั่ว,th-TH
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.","ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+Öldükten sonra envanteri koru,ตายของไม่ตก,th-TH
+Ölü oyuncular affedilsin,อภัยผู้เล่นที่ตายแล้ว,th-TH
+Ölüm iletileri gösterilsin,แสดงข้อความการตาย,th-TH
+Überfälle,เปิดการปล้นสะดม,th-TH
+Überfälle deaktivieren,ปิดการปล้นสะดม,th-TH
+Üretim için tarif gereksin,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+Đang truy xuất luật chơi...,กำลังดึงข้อมูลกฎเกม...,th-TH
+Đếm nhịp lửa cách xa người chơi,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Активация и взрыв динамита,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+Влияет на выпадение предметов и сфер опыта из блоков.,ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+Влияет на выпадение предметов и сфер опыта из мобов.,ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+"Влияет на потерю предметов, выпавших после взрыва динамита.",ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+"Влияет на потерю предметов, выпавших после взрыва моба.",ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+Возобновление источников воды,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+Возобновление источников лавы,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+Время прохождения портала Незера в творческом режиме,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Время прохождения портала Незера вне творческого режима,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+Вы действительно хотите отменить изменения игровых правил?,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+Выпадение блоков,บล็อกดรอป,th-TH
+Выпадение добычи из мобов,ดรอปลูตของม็อบ,th-TH
+Выпадение ресурсов,การดรอป,th-TH
+Выпадение экипировки сущностей,ดรอปของจากเอนทิตี้,th-TH
+Высота снежного покрова,ความสูงในการสะสมชั้นหิมะ,th-TH
+Генерация мира наблюдателями,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+Глобальные звуковые события,เหตุการณ์เสียงดังไปทั่ว,th-TH
+Доступ в Незер,อนุญาตให้เข้าเนเธอร์,th-TH
+"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+Загрузка игровых правил...,กำลังดึงข้อมูลกฎเกม...,th-TH
+Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+Запись команд администраторов,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+Затрагивает цепочки командных блоков и функции.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+Игровые правила...,แก้ไขกฎเกม...,th-TH
+Игрок,ผู้เล่น,th-TH
+Изменение игровых правил в Хардкоре недоступно.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+Изменение игровых правил требует прав оператора.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+Изменения игровых правил,เปลี่ยนแปลงกฎเกม,th-TH
+Изменения погоды,อัปเดตสภาพอากาศ,th-TH
+Использование командных блоков,เปิดใช้งานบล็อกคำสั่ง,th-TH
+Использование порталов сущностями с пассажирами,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+Исчезновение брошенного эндер-жемчуга при смерти,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+Командные блоки,เปิดใช้งานบล็อกคำสั่ง,th-TH
+Локатор игроков,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+Максимальная базовая скорость движения вагонетки по земле.,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+Максимальная скорость вагонетки,ความเร็วสูงสุดของรถราง,th-TH
+"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+Малый экран отладки,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+Мгновенное возрождение,เกิดใหม่ทันที,th-TH
+Мобы,ม็อบ,th-TH
+Настройка игровых правил,แก้ไขกฎเกม,th-TH
+Обновление огня вдали от игроков,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+Обновления мира,การอัปเดตของโลก,th-TH
+Ограничение длины цепи команд,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+Ограничение изменения блоков командой,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+Ограничение контекста команд,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+Ограничение содержания экрана отладки.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+Окружённая двумя источниками текущая вода образует третий.,เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+Окружённая двумя источниками текущая лава образует третий.,เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+Оповещения о достижениях,ประกาศความก้าวหน้า,th-TH
+"Определяет, могут ли игроки входить в Незер.",ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+"Определяет, могут ли игроки наносить урон другим игрокам.",ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+"Определяет, появляются ли монстры сами по себе.",ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+Отключение проверки движения игрока,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Отключение проверки на элитрах,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+Отключение рейдов,ปิดการปล้นสะดม,th-TH
+Отображение сообщений команд,แสดงผลป้อนกลับคำสั่ง,th-TH
+Патрули разбойников,ให้กองโจรลาดตระเวนเกิด,th-TH
+По умолчанию: %s,ค่าเริ่มต้น: %s,th-TH
+"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+Потеря части добычи от взрыва при использовании блока,ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Потеря части добычи при взрыве динамита,ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Потеря части добычи при взрыве моба,ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+Появление,การเกิด,th-TH
+Появление мобов,ให้ม็อบเกิด,th-TH
+Появление монстров,ให้มอนสเตอร์เกิด,th-TH
+Появление фантомов,ให้แฟนท่อมเกิด,th-TH
+Появление хранителей,ให้วอร์เดนเกิด,th-TH
+Предел сущностей в одном блоке,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+"Предельное число слоёв снега, образующихся во время снегопада.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+Проверка движения игрока,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+Проверка движения на элитрах,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+"Процент игроков, которым нужно спать для пропуска ночи.",จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+Процент спящих,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+Прощение умерших игроков,อภัยผู้เล่นที่ตายแล้ว,th-TH
+"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+Радиус невыгружаемой области вокруг точек возрождения игроков.,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+Радиус невыгружаемой области вокруг точки возрождения мира.,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+Радиус области возрождения,รัศมีจุดเกิด,th-TH
+Радиус распространения огня,รัศมีการลุกลามของไฟ,th-TH
+Радиус чанков возрождения мира,รัศมีชังก์จุดเกิด,th-TH
+Разное,เบ็ดเตล็ด,th-TH
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.","ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+Разрушительные действия мобов,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+Распространение лианы,ให้เถาวัลย์แพร่,th-TH
+Распространение огня,อัปเดตไฟ,th-TH
+Рассадники,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+Регенерация здоровья,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+Рейды,เปิดการปล้นสะดม,th-TH
+Слепая ярость,การโกรธทุกคน,th-TH
+Смена дня и ночи,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+Снаряды могут разрушать блоки,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+Создание только по рецепту,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+Сообщения командных блоков,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+Сообщения о смерти,แสดงข้อความการตาย,th-TH
+Сохранение инвентаря при смерти,ตายของไม่ตก,th-TH
+Странствующие торговцы,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+У некоторых сущностей могут быть свои игровые правила.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+Урон от замерзания,ดาเมจจากความเย็น,th-TH
+Урон от огня,ดาเมจจากไฟ,th-TH
+Урон от падения,ดาเมจจากการตกจากที่สูง,th-TH
+Урон от утопления,ดาเมจจากการจมน้ำ,th-TH
+Частота случайных тактов,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+Чат,แชต,th-TH
+’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+“execute as”等命令可以使用的上下文数量最大值。,จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+「execute as」などのコマンドで使用できる実行文脈の最大数,จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+「execute as」等指令使用的上下文最大數量。,จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',th-TH
+その他,เบ็ดเตล็ด,th-TH
+どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+ウォーデンのスポーン,ให้วอร์เดนเกิด,th-TH
+エリトラの速度チェック,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+エリトラの速度チェックの無効化,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+エンティティの最大密集数,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+クラフトにレシピを要求,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+クリエイティブモードでのネザーポータルの待機時間,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+ゲームルールの変更,เปลี่ยนแปลงกฎเกม,th-TH
+ゲームルールの更新には管理者権限が必要です。,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+ゲームルールを取得中…,กำลังดึงข้อมูลกฎเกม...,th-TH
+ゲームルールを編集,แก้ไขกฎเกม,th-TH
+ゲームルールを編集…,แก้ไขกฎเกม...,th-TH
+ゲーム内時刻の進行,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+コマンドによるブロックの最大変更数,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+コマンドの実行結果の表示,แสดงผลป้อนกลับคำสั่ง,th-TH
+コマンドの最大チェーン数,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+コマンドの最大実行文脈数,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+コマンドブロックの実行結果の通知,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+コマンドブロックの有効化,เปิดใช้งานบล็อกคำสั่ง,th-TH
+スペクテイターモードのプレイヤーによる地形生成の許可,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+スポナーの有効化,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+スポーン,การเกิด,th-TH
+スポーンチャンクの半径,รัศมีชังก์จุดเกิด,th-TH
+スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+チェーンコマンドブロックや関数に適用されます。,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+チャット,แชต,th-TH
+ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+ツタの成長,ให้เถาวัลย์แพร่,th-TH
+デバッグ情報の制限,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+デフォルト値：%s,ค่าเริ่มต้น: %s,th-TH
+トロッコの最高速度,ความเร็วสูงสุดของรถราง,th-TH
+トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+ドロップ,การดรอป,th-TH
+ネザーの許可,อนุญาตให้เข้าเนเธอร์,th-TH
+ハードコアのワールドではゲームルールを変更できません。,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+ファントムのスポーン,ให้แฟนท่อมเกิด,th-TH
+ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+ブロックのドロップ,บล็อกดรอป,th-TH
+ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+プレイヤー,ผู้เล่น,th-TH
+プレイヤーから遠い炎のティック処理,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+プレイヤーがネザーに入ることができるかどうかを設定できます,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+プレイヤーの方向バーの有効化,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+プレイヤーの速度チェック,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+プレイヤーの速度チェックの無効化,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+プレイヤー死亡時のエンダーパールの消滅,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+モンスターが自然にスポーンするかどうかを設定できます,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+モンスターのスポーン,ให้มอนสเตอร์เกิด,th-TH
+ランダムティックの発生数,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+リスポーン地点の半径,รัศมีจุดเกิด,th-TH
+ワールドの更新,การอัปเดตของโลก,th-TH
+ワールド全体のサウンドイベント,เหตุการณ์เสียงดังไปทั่ว,th-TH
+一些实体可能有其特定的规则。,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+世界更新,การอัปเดตของโลก,th-TH
+主世界出生点周围保持加载的区块数量。,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+主世界重生點周圍維持載入的區塊數量。,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+体力の自動回復,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+何かが乗っているエンティティのポータル使用可否,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+你确定要放弃未保存的游戏规则更改吗？,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+你確定要捨棄尚未儲存的遊戲規則變更嗎？,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+停用玩家移動檢測,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+停用突襲,ปิดการปล้นสะดม,th-TH
+停用鞘翅移動檢測,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+允許 TNT 被點燃並爆炸,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+允許旁觀者生成地形,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+允許火在遠離玩家處蔓延,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+允許生物的破壞行為,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+允許進入地獄,อนุญาตให้เข้าเนเธอร์,th-TH
+允许TNT被点燃并爆炸,อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,th-TH
+允许旁观者生成地形,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+允许流动水转化为水源,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+允许流动熔岩转化为熔岩源,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+允许火在远离玩家处蔓延,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+允许破坏性生物行为,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+允许被骑乘的实体通过下界传送门、末地传送门和末地折跃门传送。,อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+允许进入下界,อนุญาตให้เข้าเนเธอร์,th-TH
+入睡占比,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+全域聲音事件,เหตุการณ์เสียงดังไปทั่ว,th-TH
+全局声音事件,เหตุการณ์เสียงดังไปทั่ว,th-TH
+冰冻伤害,ดาเมจจากความเย็น,th-TH
+凍結ダメージ,ดาเมจจากความเย็น,th-TH
+出生区块半径,รัศมีชังก์จุดเกิด,th-TH
+创造模式下玩家在下界传送门中等待的时间,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+創造模式玩家使用地獄傳送門的等待時間,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+单条命令（如fill和clone）最多能更改的方块数量。,จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+即時リスポーン,เกิดใหม่ทันที,th-TH
+原諒死者,อภัยผู้เล่นที่ตายแล้ว,th-TH
+发送命令反馈,แสดงผลป้อนกลับคำสั่ง,th-TH
+合成需要配方,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+启用PvP,เปิดใช้งาน PvP,th-TH
+启用刷怪笼方块,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+启用后，屏幕上会显示指示玩家方位的定位栏。,เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+启用命令方块,เปิดใช้งานบล็อกคำสั่ง,th-TH
+启用玩家定位栏,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+启用玩家移动检测,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+启用袭击,เปิดการปล้นสะดม,th-TH
+启用鞘翅移动检测,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+命令上下文数量限制,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+命令修改方块数量限制,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+命令连锁执行数量限制,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+啟用 PvP,เปิดใช้งาน PvP,th-TH
+啟用後，畫面上會顯示指示玩家方位的定位條。,เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+啟用指令方塊,เปิดใช้งานบล็อกคำสั่ง,th-TH
+啟用玩家定位條,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+啟用玩家移動檢測,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+啟用生怪磚,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+啟用突襲,เปิดการปล้นสะดม,th-TH
+啟用鞘翅移動檢測,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,th-TH
+回傳指令回饋,แสดงผลป้อนกลับคำสั่ง,th-TH
+在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+在 TNT 的爆炸中，部分方塊不會掉落成戰利品,ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+在TNT引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+在TNT爆炸中，一些方块不会掉落战利品,ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+在与方块交互引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+在方块交互爆炸中，一些方块不会掉落战利品,ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+在生物引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+在生物爆炸中，一些方块不会掉落战利品,ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+在生物的爆炸中，部分方塊不會掉落成戰利品,ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+地上を走るトロッコのデフォルトの最高速度,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+天气更替,อัปเดตสภาพอากาศ,th-TH
+天気の更新,อัปเดตสภาพอากาศ,th-TH
+套用於連鎖型指令方塊及函數。,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+实体挤压上限,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+宽恕死亡玩家,อภัยผู้เล่นที่ตายแล้ว,th-TH
+實體擠壓上限,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+就寝率,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+广播命令方块输出,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+应用于命令方块链和函数。,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+弹射物能否破坏方块,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+愤怒的中立生物将在其目标玩家于附近死亡后息怒。,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用forgive_dead_players可达到最佳效果。,ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。,"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+投射物是否能破壞方塊,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+拋出的終界珍珠在死亡時消失,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+指令修改方塊數量限制,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+指令的上下文上限,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+指令連鎖大小限制,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+掉落,การดรอป,th-TH
+掉落實體裝備,ดรอปของจากเอนทิตี้,th-TH
+掉落方塊,บล็อกดรอป,th-TH
+掉落生物戰利品,ดรอปลูตของม็อบ,th-TH
+控制各种矿车（含内容物）、物品展示框、船等的物品掉落。,ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+控制弹射物能否破坏可被其破坏的方块。,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+控制怪物是否能自然生成。,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+控制怪物能否自然生成。,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+控制投射物是否能破壞可被其破壞的方塊。,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+控制方块是否掉落资源，包括经验球。,ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+控制方塊資源掉落，包含經驗球。,ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+控制火和熔岩能否在距离任何玩家超过8个区块处蔓延。,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+控制玩家是否能互相傷害。,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+控制玩家是否能進入地獄。,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+控制玩家能否进入下界。,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+控制玩家能夠生成的重生點範圍區域大小。,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+控制玩家间能否互相伤害。,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+控制生物是否掉落资源，包括经验球。,ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+控制生物資源掉落，包含經驗球。,ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+控制礦車（包括內容物）、物品展示框、船等的掉落物。,ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+控制藤蔓方块能否随机向相邻的方块蔓延。不会影响其他藤蔓类方块（例如垂泪藤和缠怨藤等）。,ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+控制适合玩家生成的出生点周围区域大小。,ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+掷出的末影珍珠在死亡时消失,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+摔落伤害,ดาเมจจากการตกจากที่สูง,th-TH
+敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+敵対の共有,การโกรธทุกคน,th-TH
+敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+方块掉落,บล็อกดรอป,th-TH
+无差别愤怒,การโกรธทุกคน,th-TH
+无法在极限模式世界中更改游戏规则。,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+日夜交替,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+显示死亡消息,แสดงข้อความการตาย,th-TH
+更新天氣,อัปเดตสภาพอากาศ,th-TH
+更新游戏规则需要管理员权限。,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+更新火焰,อัปเดตไฟ,th-TH
+更新遊戲規則需要管理員權限。,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+杂项,เบ็ดเตล็ด,th-TH
+正在擷取遊戲規則...,กำลังดึงข้อมูลกฎเกม...,th-TH
+正在获取游戏规则…,กำลังดึงข้อมูลกฎเกม...,th-TH
+死亡したプレイヤーへの敵対を解除,อภัยผู้เล่นที่ตายแล้ว,th-TH
+死亡メッセージの表示,แสดงข้อความการตาย,th-TH
+死亡后保留物品栏,ตายของไม่ตก,th-TH
+死亡後保留物品欄,ตายของไม่ตก,th-TH
+死亡時のインベントリの保持,ตายของไม่ตก,th-TH
+水流から水源への変化,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+流動水在被兩個水源包圍時，會轉化成水源。,เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+流動水轉化成水源,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+流動熔岩轉化成熔岩源,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+游戏内时间流逝,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+游戏规则更改,เปลี่ยนแปลงกฎเกม,th-TH
+溶岩流から溶岩源への変化,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+溺水ダメージ,ดาเมจจากการจมน้ำ,th-TH
+溺水伤害,ดาเมจจากการจมน้ำ,th-TH
+火傷ダメージ,ดาเมจจากไฟ,th-TH
+火焰伤害,ดาเมจจากไฟ,th-TH
+火焰蔓延,อัปเดตไฟ,th-TH
+火焰蔓延半径,รัศมีการลุกลามของไฟ,th-TH
+火焰蔓延半徑,รัศมีการลุกลามของไฟ,th-TH
+炎の延焼が起こる半径,รัศมีการลุกลามของไฟ,th-TH
+炎の更新,อัปเดตไฟ,th-TH
+無差別憤怒,การโกรธทุกคน,th-TH
+無法在極限模式世界中變更遊戲規則。,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+特定游戏事件（如Boss生成）发生时，声音可在所有地方听见。,เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+玩家,ผู้เล่น,th-TH
+玩家周围火可以蔓延的方块半径。,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+玩家周圍火焰可蔓延的半徑格數。,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+玩家投掷的末影珍珠是否在玩家死亡时消失。,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+玩家拋出的終界珍珠是否在玩家死亡時消失。,ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+生命值自然恢复,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+生成,การเกิด,th-TH
+生成伏守者,ให้วอร์เดนเกิด,th-TH
+生成夜魅,ให้แฟนท่อมเกิด,th-TH
+生成幻翼,ให้แฟนท่อมเกิด,th-TH
+生成怪物,ให้มอนสเตอร์เกิด,th-TH
+生成掠奪者巡邏隊,ให้กองโจรลาดตระเวนเกิด,th-TH
+生成流浪商人,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+生成灾厄巡逻队,ให้กองโจรลาดตระเวนเกิด,th-TH
+生成生物,ให้ม็อบเกิด,th-TH
+生成监守者,ให้วอร์เดนเกิด,th-TH
+生物,ม็อบ,th-TH
+生物战利品掉落,ดรอปลูตของม็อบ,th-TH
+略奪隊のスポーン,ให้กองโจรลาดตระเวนเกิด,th-TH
+當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+相邻两面方块为水源的流动水会转化为水源。,เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+相邻两面方块为熔岩源的流动熔岩会转化为熔岩源。,เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH
+睡眠比例,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+矿车在地面上移动的默认最大速度。,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+矿车最大速度,ความเร็วสูงสุดของรถราง,th-TH
+礦車在地面上移動的預設速度上限。,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+礦車最大速度,ความเร็วสูงสุดของรถราง,th-TH
+禁用玩家移动检测,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+禁用袭击,ปิดการปล้นสะดม,th-TH
+禁用鞘翅移动检测,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+积雪厚度,ความสูงในการสะสมชั้นหิมะ,th-TH
+積雪の深さ,ความสูงในการสะสมชั้นหิมะ,th-TH
+積雪厚度,ความสูงในการสะสมชั้นหิมะ,th-TH
+立即重生,เกิดใหม่ทันที,th-TH
+简化调试信息,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+管理者ログへのコマンドの実行結果の通知,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+簡化除錯資訊,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+編輯遊戲規則,แก้ไขกฎเกม,th-TH
+編輯遊戲規則...,แก้ไขกฎเกม...,th-TH
+編集中のゲームルールの変更を破棄してもよろしいですか？,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+编辑游戏规则,แก้ไขกฎเกม,th-TH
+编辑游戏规则…,แก้ไขกฎเกม...,th-TH
+聊天,แชต,th-TH
+聊天欄,แชต,th-TH
+自然回血,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+若启用，玩家只能使用已解锁的配方合成。,หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+若啟用，玩家將只能合成已解鎖的配方。,หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+落下ダメージ,ดาเมจจากการตกจากที่สูง,th-TH
+藤蔓蔓延,ให้เถาวัลย์แพร่,th-TH
+行商人のスポーン,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+表示するデバッグ情報の項目数を制限します。,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+被騎乘的實體是否能使用傳送門,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+被骑乘的实体能否使用传送门,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+襲撃の無効化,ปิดการปล้นสะดม,th-TH
+襲撃の発生,เปิดการปล้นสะดม,th-TH
+記錄指令方塊輸出,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+記錄管理員指令,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+設備エンティティのドロップ,ดรอปของจากเอนทิตี้,th-TH
+跳过夜晚所需的入睡玩家占比。,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+跳過夜晚所需的入睡玩家比例。,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+进度通知,ประกาศความก้าวหน้า,th-TH
+通告管理员命令,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+造成冰凍傷害,ดาเมจจากความเย็น,th-TH
+造成摔落傷害,ดาเมจจากการตกจากที่สูง,th-TH
+造成溺水傷害,ดาเมจจากการจมน้ำ,th-TH
+造成火焰傷害,ดาเมจจากไฟ,th-TH
+進度通知,ประกาศความก้าวหน้า,th-TH
+進捗達成の通知,ประกาศความก้าวหน้า,th-TH
+遊戲規則變更,เปลี่ยนแปลงกฎเกม,th-TH
+部分實體可能採用不同的規則。,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+重生區塊半徑,รัศมีชังก์จุดเกิด,th-TH
+重生点半径,รัศมีจุดเกิด,th-TH
+重生點半徑,รัศมีจุดเกิด,th-TH
+降雪时，地面上的雪最多堆积到此处指定的层数。,เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+降雪時に積もる雪の層の最大数を設定できます。,เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+降雪時，地面上的積雪最多累積至此處指定的層數。,เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+限制调试屏幕内容。,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+限制除錯畫面的內容。,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+随机刻速率,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+隨機刻速率,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+雜項,เบ็ดเตล็ด,th-TH
+需要配方才能合成,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+非クリエイティブモードでのネザーポータルの待機時間,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+非创造模式下玩家在下界传送门中等待的时间,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+非创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+非創造模式玩家使用地獄傳送門的等待時間,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+非生物实体掉落,ดรอปของจากเอนทิตี้,th-TH
+預設值：%s,ค่าเริ่มต้น: %s,th-TH
+顯示死亡訊息,แสดงข้อความการตาย,th-TH
+飛び道具によるブロック破壊の可否,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+默认：%s,ค่าเริ่มต้น: %s,th-TH
+개체 장비 떨굼,ดรอปของจากเอนทิตี้,th-TH
+개체 중첩 한계,จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,th-TH
+겉날개 움직임 확인 끄기,ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+겉날개 움직임 확인하기,ตรวจสอบความเร็วขณะบินด้วยปีก,th-TH
+게임 규칙 받아오는 중...,กำลังดึงข้อมูลกฎเกม...,th-TH
+게임 규칙 변경 사항,เปลี่ยนแปลงกฎเกม,th-TH
+게임 규칙 수정,แก้ไขกฎเกม,th-TH
+게임 규칙 수정...,แก้ไขกฎเกม...,th-TH
+게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,th-TH
+경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,th-TH
+경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,th-TH
+관리자 명령 알림,แสดงบันทึกคำสั่งของแอดมิน,th-TH
+관전자의 지형 생성 허용,ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,th-TH
+"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,th-TH
+광산 수레 최고 속도,ความเร็วสูงสุดของรถราง,th-TH
+기본값: %s,ค่าเริ่มต้น: %s,th-TH
+기타,เบ็ดเตล็ด,th-TH
+낙하 피해,ดาเมจจากการตกจากที่สูง,th-TH
+날씨 갱신,อัปเดตสภาพอากาศ,th-TH
+네더 허용,อนุญาตให้เข้าเนเธอร์,th-TH
+"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,th-TH
+대화,แชต,th-TH
+덩굴 퍼짐,ให้เถาวัลย์แพร่,th-TH
+덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,th-TH
+동상 피해,ดาเมจจากความเย็น,th-TH
+디버그 정보 축소,ลดการแสดงข้อมูลดีบั๊ก,th-TH
+디버그 화면의 내용을 제한합니다.,จำกัดเนื้อหาของหน้าจอดีบั๊ก,th-TH
+땅에서 광산 수레가 움직일 때 최고 기본 속도,ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,th-TH
+떠돌이 상인 생성,ให้พ่อค้าเร่ร่อนเกิด,th-TH
+떨굼 설정,การดรอป,th-TH
+랜덤 틱 속도 비율,อัตราความเร็วติ๊กแบบสุ่ม,th-TH
+리스폰 위치 반지름,รัศมีจุดเกิด,th-TH
+명령 블록 연쇄와 함수에 해당.,มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,th-TH
+명령 블록 출력 알림,แสดงเอาต์พุตของบล็อกคำสั่ง,th-TH
+명령 블록 켜기,เปิดใช้งานบล็อกคำสั่ง,th-TH
+명령 연쇄 크기 제한,จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,th-TH
+명령 피드백 전송,แสดงผลป้อนกลับคำสั่ง,th-TH
+명령어 맥락 제한,จำกัดจำนวนบริบทของคำสั่ง,th-TH
+명령어의 블록 변경량 제한,แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,th-TH
+몬스터 생성,ให้มอนสเตอร์เกิด,th-TH
+몬스터의 자연적 생성 여부를 제어합니다.,ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,th-TH
+몹,ม็อบ,th-TH
+몹 노획물 떨굼,ดรอปลูตของม็อบ,th-TH
+몹 생성,ให้ม็อบเกิด,th-TH
+"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+무차별적 분노,การโกรธทุกคน,th-TH
+물이 원천으로 바뀜,ให้น้ำไหลกลายเป็นแหล่งน้ำได้,th-TH
+발전 과제 알림,ประกาศความก้าวหน้า,th-TH
+밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,th-TH
+"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,th-TH
+분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,th-TH
+불 갱신,อัปเดตไฟ,th-TH
+불 피해,ดาเมจจากไฟ,th-TH
+불 확산 반지름,รัศมีการลุกลามของไฟ,th-TH
+블록 떨굼,บล็อกดรอป,th-TH
+"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,th-TH
+"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,th-TH
+생명력 재생,ฟื้นฟูเลือดตามธรรมชาติ,th-TH
+생성,การเกิด,th-TH
+생성기 블록 켜기,เปิดใช้งานบล็อกกรงกำเนิด,th-TH
+세계 갱신,การอัปเดตของโลก,th-TH
+"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,th-TH
+스폰 청크 반지름,รัศมีชังก์จุดเกิด,th-TH
+습격 끄기,ปิดการปล้นสะดม,th-TH
+습격 켜기,เปิดการปล้นสะดม,th-TH
+시간 흐름,ดำเนินวัฏจักรกลางวัน-กลางคืน,th-TH
+약탈자 정찰대 생성,ให้กองโจรลาดตระเวนเกิด,th-TH
+오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,th-TH
+용암이 원천으로 바뀜,ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,th-TH
+워든 생성,ให้วอร์เดนเกิด,th-TH
+이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,th-TH
+익사 피해,ดาเมจจากการจมน้ำ,th-TH
+일부 개체는 별도의 규칙이 있을 수 있습니다.,เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,th-TH
+저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,th-TH
+적설 높이,ความสูงในการสะสมชั้นหิมะ,th-TH
+전역 소리 이벤트,เหตุการณ์เสียงดังไปทั่ว,th-TH
+제작에 제작법 필요,ต้องมีสูตรสำหรับการคราฟต์,th-TH
+죽은 플레이어 용서,อภัยผู้เล่นที่ตายแล้ว,th-TH
+죽을 때 던져져 있는 엔더 진주 소멸,ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,th-TH
+죽음 문구 표시,แสดงข้อความการตาย,th-TH
+죽음 후 보관함 보존,ตายของไม่ตก,th-TH
+중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,th-TH
+중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",th-TH
+즉시 리스폰,เกิดใหม่ทันที,th-TH
+취침 비율,เปอร์เซ็นต์ของผู้เล่นนอน,th-TH
+켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,th-TH
+크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,th-TH
+크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,th-TH
+"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,th-TH
+탑승자가 있는 개체의 차원문 사용 허용,เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,th-TH
+투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,th-TH
+투사체가 블록 파괴 가능,วัตถุพุ่งสามารถทำลายบล็อกได้,th-TH
+파괴적 몹 행위 허용,ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,th-TH
+팬텀 생성,ให้แฟนท่อมเกิด,th-TH
+플레이어,ผู้เล่น,th-TH
+플레이어 움직임 확인 끄기,ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+플레이어 움직임 확인하기,ตรวจสอบการเคลื่อนที่ของผู้เล่น,th-TH
+플레이어 위치 표시 바 켜기,เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,th-TH
+플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,th-TH
+"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,th-TH
+플레이어로부터 떨어진 불 틱,ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,th-TH
+플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,th-TH
+플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,th-TH
+플레이어의 네더 진입 가능 여부를 제어합니다.,ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,th-TH
+하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,th-TH
+"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,th-TH
+"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,th-TH

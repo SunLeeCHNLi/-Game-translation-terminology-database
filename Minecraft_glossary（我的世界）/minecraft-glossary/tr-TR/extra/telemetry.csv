@@ -1,0 +1,998 @@
+﻿source,target,tgt_lng
+%s (Bắt buộc),%s (Gerekli),tr-TR
+%s (erforderlich),%s (Gerekli),tr-TR
+%s (facoltativo),%s (İsteğe Bağlı),tr-TR
+%s (facoltativo) — disattivato,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (facultatif),%s (İsteğe Bağlı),tr-TR
+%s (facultatif) - désactivé,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (Không bắt buộc),%s (İsteğe Bağlı),tr-TR
+%s (không bắt buộc) - Đã tắt,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (necesario),%s (Gerekli),tr-TR
+%s (necessario),%s (Gerekli),tr-TR
+%s (obrigatório),%s (Gerekli),tr-TR
+%s (opcional),%s (İsteğe Bağlı),tr-TR
+%s (opcional) — Não,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (opcional): Desactivado,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (Optional),%s (İsteğe Bağlı),tr-TR
+%s (optional),%s (İsteğe Bağlı),tr-TR
+%s (Optional) - Disabled,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (optional) – Deaktiviert,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (Required),%s (Gerekli),tr-TR
+%s (requis),%s (Gerekli),tr-TR
+%s (необязательно),%s (İsteğe Bağlı),tr-TR
+%s (необязательно) — Отключено,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (обязательно),%s (Gerekli),tr-TR
+%s (จำเป็น),%s (Gerekli),tr-TR
+%s (ไม่จำเป็น),%s (İsteğe Bağlı),tr-TR
+%s (ไม่จำเป็น) - ปิดการใช้งาน,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (선택적),%s (İsteğe Bağlı),tr-TR
+%s (선택적) - 꺼짐,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s (필수),%s (Gerekli),tr-TR
+%s（任意）,%s (İsteğe Bağlı),tr-TR
+%s（任意） - 無効,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s（可选）,%s (İsteğe Bağlı),tr-TR
+%s（可选，已禁用）,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s（可選 – 已停用）,%s (İsteğe Bağlı) - Devre Dışı,tr-TR
+%s（可選）,%s (İsteğe Bağlı),tr-TR
+%s（必要）,%s (Gerekli),tr-TR
+%s（必須）,%s (Gerekli),tr-TR
+Acconsento all'invio di dati di telemetria facoltativi,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+Aceito o envio de telemetria opcional,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+Advancement ID,Gelişim Kimliği,tr-TR
+Advancement Made,Gelişim Yapıldı,tr-TR
+Alcance visual,Görüş Mesafesi,tr-TR
+Amostras de taxa de quadros (FPS),Kare Hızı Örnekleri (fps),tr-TR
+Amostras do tempo de renderização,Görüntü Oluşturma Zamanları,tr-TR
+"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+Anzahl der Datenwerte,Örnek Sayısı,tr-TR
+Backend Creation Failure Message,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+Backend Creation Failure Missing Capabilities,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+Backend Creation Failure Reason,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+Backend Name,Arka Uç Adı,tr-TR
+Backend‐Initialisierungsfehler: Fehlende Funktionen,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+Backend‐Initialisierungsfehler: Fehlermeldung,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+Backend‐Initialisierungsfehler: Grund,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+Benutzer‐ID,Kullanıcı Kimliği,tr-TR
+Betriebssystem,İşletim Sistemi,tr-TR
+Bootstrap Time (Milliseconds),Önyükleme Süresi (Milisaniye),tr-TR
+Bộ nhớ chuyên dụng (kB),Ayrılmış Bellek (kB),tr-TR
+Bộ nhớ truy cập ngẫu nhiên đã sử dụng,Kullanılan Bellek (RAM),tr-TR
+Caminho do Interactive Connectivity Establishment (ICE),Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+Campioni del tempo di elaborazione grafica,Görüntü Oluşturma Zamanları,tr-TR
+Campioni di frequenza dei fotogrammi [fps],Kare Hızı Örnekleri (fps),tr-TR
+Capacidades gráficas,Grafik Özellikleri,tr-TR
+Capacités graphiques,Grafik Özellikleri,tr-TR
+Capacités manquantes lors de l'échec de la création du backend,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+Capire il contesto relativo al compimento di un progresso può aiutarci a comprendere meglio e a perfezionare la sequenza di gioco.,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+"Cet événement est associé à l'événement ""Monde chargé"" pour calculer la durée de la session de jeu.
+La durée (en secondes et en ticks) est mesurée lorsqu'une session de jeu est terminée (en retournant au menu principal ou en se déconnectant d'un serveur).","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+"Cet événement nous aide à évaluer la fiabilité et les performances des connexions pair à pair entre les joueurs. Il enregistre la réussite ou l'échec de la connexion, le type de candidat utilisé pour l'établissement de connectivité interactive (ICE, le protocole que nous utilisons pour établir les connexions pair à pair) ainsi que le temps nécessaire pour établir la connexion.","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+Cet événement nous informe des capacités du périphérique graphique utilisé pour jouer au jeu.,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+Cet événement peut nous aider à déterminer où des améliorations des performances au démarrage sont nécessaires en mesurant les temps d'exécution des phases.,Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+Chemin de l'établissement de connectivité interactive (ICE),Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+Chế độ chơi,Oyun Modu,tr-TR
+Chọn tham gia,Katıl,tr-TR
+Client ID,İstemci Kimliği,tr-TR
+Client Modded,Modlanmış İstemci,tr-TR
+Client moddé ?,Modlanmış İstemci,tr-TR
+Client modifiziert,Modlanmış İstemci,tr-TR
+Cliente modificado,Modlanmış İstemci,tr-TR
+Client‐ID,İstemci Kimliği,tr-TR
+Coleta de dados telemétricos,Ölçüm Verileri Toplama,tr-TR
+"Coletar esses dados nos ajuda a melhorar o Minecraft, guiando nosso trabalho em direções relevantes para os jogadores.
+Você também pode enviar seu feedback para nos ajudar a melhorar o Minecraft.","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+Collecte des données de télémétrie,Ölçüm Verileri Toplama,tr-TR
+"Collecter ces données nous aide à améliorer Minecraft en nous guidant dans des directions qui sont pertinentes pour nos joueurs.
+Vous pouvez aussi donner votre avis pour nous aider à améliorer le jeu.","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+"Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.
+You can also send in additional feedback to help us keep improving Minecraft.","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+Compartir datos,Katıl,tr-TR
+Comprender el contexto en el que se realiza un progreso nos ayudará a entender y mejorar la progresión del juego.,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+Comprendre le contexte derrière la réalisation d'un progrès peut nous aider à améliorer la progression du jeu.,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+Conectado con éxito,Bağlantı Başarılı,tr-TR
+Conexión P2P,Peer-to-peer Bağlantı,tr-TR
+Conexão estabelecida,Bağlantı Başarılı,tr-TR
+Conexão ponto a ponto,Peer-to-peer Bağlantı,tr-TR
+"Conhecer o perfil geral de desempenho do Minecraft nos ajuda a otimizar o jogo para uma ampla variedade de dispositivos e sistemas operacionais. 
+A versão do jogo é incluída para nos ajudar a comparar o desempenho das novas versões do Minecraft.","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+Connection Successful,Bağlantı Başarılı,tr-TR
+Connessione a rete paritaria,Peer-to-peer Bağlantı,tr-TR
+Connexion pair à pair,Peer-to-peer Bağlantı,tr-TR
+Connexion réussie,Bağlantı Başarılı,tr-TR
+"Conocer el perfil de rendimiento de Minecraft nos ayuda a optimizar el juego para muchas especificaciones y sistemas operativos. 
+La versión del juego se incluye para ayudarnos a comparar el rendimiento de nuevas versiones.","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+"Conoscere il profilo delle prestazioni di Minecraft ci aiuta ad adattare e a ottimizzare il gioco per un'ampia gamma di dispositivi e sistemi operativi.
+La versione del gioco è inclusa per aiutarci a effettuare il confronto con il profilo delle prestazioni delle nuove versioni di Minecraft.","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+Consenso,Katıl,tr-TR
+Consentement,Katıl,tr-TR
+Contagem de amostras,Örnek Sayısı,tr-TR
+Contenido del mapa de Realms (nombre del minijuego),Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Contenu de la carte de Realms (nom du mini-jeu),Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Conteúdo do mapa do Realms (nome do minijogo),Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Dados incluídos,İçerilen Veri,tr-TR
+Danos tu opinión,Geri Bildirim,tr-TR
+Datenschutzerklärung,Gizlilik Beyanı,tr-TR
+Datenwerte zur Bildwiederholrate (FPS),Kare Hızı Örnekleri (fps),tr-TR
+Datenwerte zur Renderzeit,Görüntü Oluşturma Zamanları,tr-TR
+Dati inclusi,İçerilen Veri,tr-TR
+Datos incluidos,İçerilen Veri,tr-TR
+Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+Declaración de privacidad,Gizlilik Beyanı,tr-TR
+Declaração de Privacidade,Gizlilik Beyanı,tr-TR
+Dedicated Memory (kB),Ayrılmış Bellek (kB),tr-TR
+"Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+"Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+"Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+Direktverbindung,Peer-to-peer Bağlantı,tr-TR
+Distance d'affichage,Görüş Mesafesi,tr-TR
+Distancia de renderizado,Görüş Mesafesi,tr-TR
+Donner son avis,Geri Bildirim,tr-TR
+Données incluses,İçerilen Veri,tr-TR
+Déclaration de confidentialité,Gizlilik Beyanı,tr-TR
+Dấu thời gian sự kiện (giờ UTC),Olay Tarih Bilgisi (UTC),tr-TR
+Dữ liệu được bao gồm,İçerilen Veri,tr-TR
+"En apprendre davantage sur la manière dont les joueurs jouent à Minecraft (avec quel mode de jeu, si le client ou le serveur est moddé, sous quelle version) nous aide à améliorer les aspects qui ont le plus d'importance pour les joueurs.
+L'événement ""Monde chargé"" est associé à l'événement ""Monde déchargé"" pour calculer la durée de la session de jeu.","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+"En apprendre davantage sur le profil global des performances de Minecraft nous aide à ajuster et optimiser le jeu pour un large éventail d'appareils et de systèmes d'exploitation. 
+La version du jeu est incluse pour nous aider à comparer le profil des performances des nouvelles versions de Minecraft.","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+Entender o contexto de um progresso pode nos ajudar a entender e melhorar a progressão do jogo.,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+Enthaltene Daten,İçerilen Veri,tr-TR
+Enviar feedback,Geri Bildirim,tr-TR
+Erforderliches/optionales Ereignis,Katıl,tr-TR
+Erro ao criar o backend por falta de capacidades,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+Error en la creación del backend por falta de capacidades,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+"Es importante que sepamos cuánto tiempo se tarda en entrar en un mundo y cómo cambia eso con el tiempo. Por ejemplo, cuando añadimos nuevas características o realizamos cambios técnicos grandes, necesitamos ver qué impacto tienen en los tiempos de carga.","Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.","Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+Esito della connessione positivo,Bağlantı Başarılı,tr-TR
+"Esse evento nos ajuda a detectar a estabilidade e o desempenho das conexões ponto a ponto entre jogadores. Ele registra se a conexão foi estabelecida com êxito, o tipo de candidato usado (também conhecido por Interactive Connectivity Establishment, ou ICE, protocolo usado para estabelecer conexões ponto a ponto) e a duração para estabelecer a conexão.","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+Esse evento nos informa sobre as capacidades do dispositivo gráfico usado durante o jogo.,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+Esse evento pode nos ajudar a identificar as melhorias de desempenho de inicialização necessárias ao medir os tempos de execução das fases de inicialização.,Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+"Esse evento é sincronizado com o ""Mundo Carregado"" para calcular a duração da sessão de jogo.
+A duração (em segundos e tiques) é medida no final de uma sessão (ao sair para o menu principal ou de um servidor).","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+"Este evento está unido al de «Mundo cargado» para calcular cuánto ha durado la sesión de juego.
+La duración (en segundos y tics) se mide cuando una sesión de juego termina (saliendo al menú principal, desconectándose de un servidor).","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+"Este evento nos ayuda a comprender la fiabilidad y el rendimiento de las conexiones P2P entre jugadores. Registra si la conexión fue exitosa, el tipo de conectividad interactiva (ICE, el protocolo que usamos para establecer conexiones P2P) que pudo utilizarse y cuánto tiempo tardó en establecerse la conexión.","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+Este evento nos informa sobre las capacidades del dispositivo gráfico utilizado para jugar.,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+"Este evento puede ayudarnos a determinar donde se necesitan las mejoras de rendimiento, midiendo los tiempos de ejecución de las diferentes fases de arranque.",Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+Event Timestamp (UTC),Olay Tarih Bilgisi (UTC),tr-TR
+Externer Kandidatentyp,Uzak Aday Tipi,tr-TR
+Failure Stage,Başarısızlık Aşaması,tr-TR
+Fase de fallo,Başarısızlık Aşaması,tr-TR
+Fase dell'errore,Başarısızlık Aşaması,tr-TR
+Fase do erro,Başarısızlık Aşaması,tr-TR
+Feedback geben,Geri Bildirim,tr-TR
+Fehlerphase,Başarısızlık Aşaması,tr-TR
+Fortschritt erzielt,Gelişim Yapıldı,tr-TR
+Fortschritts‐ID,Gelişim Kimliği,tr-TR
+Frame Rate Samples (fps),Kare Hızı Örnekleri (fps),tr-TR
+Funzionalità grafiche,Grafik Özellikleri,tr-TR
+Funzionalità mancanti alla creazione della libreria,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+Game Load Times,Oyun Yükleme Süreleri,tr-TR
+Game Mode,Oyun Modu,tr-TR
+Game Time (Ticks),Oyun Süresi (Birim Zaman),tr-TR
+Game Version,Oyun Sürümü,tr-TR
+Gesamte Ladezeit (Millisekunden),Toplam Yükleme Süresi (Milisaniye),tr-TR
+Gesamte Verbindungszeit (Millisekunden),Toplam Bağlanma Süresi (Milisaniye),tr-TR
+Giai đoạn gây lỗi,Başarısızlık Aşaması,tr-TR
+Give Feedback,Geri Bildirim,tr-TR
+Grafikfunktionen,Grafik Özellikleri,tr-TR
+Graphics Capabilities,Grafik Özellikleri,tr-TR
+Gửi phản hồi,Geri Bildirim,tr-TR
+Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+Hora del evento (UTC),Olay Tarih Bilgisi (UTC),tr-TR
+Hora do evento (UTC),Olay Tarih Bilgisi (UTC),tr-TR
+Horodatage de l'événement (UTC),Olay Tarih Bilgisi (UTC),tr-TR
+Hệ điều hành,İşletim Sistemi,tr-TR
+I consent to sending optional telemetry data,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+Ich stimme der Übermittlung optionaler Telemetriedaten zu,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+ID da sessão do Minecraft,Minecraft Oturum Kimliği,tr-TR
+ID da sessão do mundo,Dünya Oturum Kimliği,tr-TR
+ID da sessão do servidor,Sunucu Oturum Kimliği,tr-TR
+ID de l'utilisateur,Kullanıcı Kimliği,tr-TR
+ID de la session de Minecraft,Minecraft Oturum Kimliği,tr-TR
+ID de la session du monde,Dünya Oturum Kimliği,tr-TR
+ID de la session du serveur,Sunucu Oturum Kimliği,tr-TR
+ID del client,İstemci Kimliği,tr-TR
+ID del progresso,Gelişim Kimliği,tr-TR
+ID dell'utente,Kullanıcı Kimliği,tr-TR
+ID della sessione del mondo,Dünya Oturum Kimliği,tr-TR
+ID della sessione del server,Sunucu Oturum Kimliği,tr-TR
+ID della sessione di Minecraft,Minecraft Oturum Kimliği,tr-TR
+ID do cliente,İstemci Kimliği,tr-TR
+ID do progresso,Gelişim Kimliği,tr-TR
+ID do usuário,Kullanıcı Kimliği,tr-TR
+ID du client,İstemci Kimliği,tr-TR
+ID du progrès,Gelişim Kimliği,tr-TR
+ID máy khách,İstemci Kimliği,tr-TR
+ID người dùng,Kullanıcı Kimliği,tr-TR
+ID phiên Minecraft,Minecraft Oturum Kimliği,tr-TR
+ID phiên máy chủ,Sunucu Oturum Kimliği,tr-TR
+ID phiên thế giới,Dünya Oturum Kimliği,tr-TR
+ID tiến trình,Gelişim Kimliği,tr-TR
+ID ความก้าวหน้า,Gelişim Kimliği,tr-TR
+ID ผู้ใช้,Kullanıcı Kimliği,tr-TR
+ID เซสชัน Minecraft,Minecraft Oturum Kimliği,tr-TR
+ID เซสชันเซิร์ฟเวอร์,Sunucu Oturum Kimliği,tr-TR
+ID เซสชันโลก,Dünya Oturum Kimliği,tr-TR
+ID ไคลเอนต์,İstemci Kimliği,tr-TR
+Id. de cliente,İstemci Kimliği,tr-TR
+Id. de sesión de Minecraft,Minecraft Oturum Kimliği,tr-TR
+Id. de sesión del mundo,Dünya Oturum Kimliği,tr-TR
+Id. de sesión del servidor,Sunucu Oturum Kimliği,tr-TR
+Id. de usuario,Kullanıcı Kimliği,tr-TR
+Id. del progreso,Gelişim Kimliği,tr-TR
+"Il est important pour nous de déterminer le temps nécessaire pour rejoindre un monde, et la manière dont cela évolue au fil du temps. Par exemple, lorsque nous ajoutons de nouvelles fonctionnalités ou réalisons d'importants changements techniques, nous avons besoin d'en observer l'impact sur les temps de chargement.","Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+Included Data,İçerilen Veri,tr-TR
+Info sulla riservatezza,Gizlilik Beyanı,tr-TR
+Initialisierungszeit (Millisekunden),Önyükleme Süresi (Milisaniye),tr-TR
+Interactive Connectivity Establishment (ICE) Connect Time (Milliseconds),Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+Interactive Connectivity Establishment (ICE) Path,Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+Interactive Connectivity Establishment（ICE）パス,Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+Interner Kandidatentyp,Yerel Aday Tipi,tr-TR
+Invia riscontro,Geri Bildirim,tr-TR
+"It's important for us to understand how long it takes to join a world, and how that changes over time. For example, when we add new features or do larger technical changes, we need to see what impact that had on load times.","Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+J'accepte l'envoi de données de télémétrie facultatives,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+Khoảng cách kết xuất,Görüş Mesafesi,tr-TR
+"Knowing how players play Minecraft (such as Game Mode, client or server modded, and game version) allows us to focus game updates to improve the areas that players care about most.
+The World Loaded event is paired with the World Unloaded event to calculate how long the play session has lasted.","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+"Knowing the overall performance profile of Minecraft helps us tune and optimize the game for a wide range of machine specifications and operating systems.
+Game version is included to help us compare the performance profile for new versions of Minecraft.","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+Kết nối ngang hàng,Peer-to-peer Bağlantı,tr-TR
+Kết nối thành công,Bağlantı Başarılı,tr-TR
+"La raccolta di questi dati ci aiuta a migliorare Minecraft, indicandoci le decisioni più opportune per i giocatori. Inoltre, puoi inviare un riscontro aggiuntivo per aiutarci a migliorare Minecraft ulteriormente.","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+"La recolección de datos nos ayuda a mejorar Minecraft guiándonos hacia direcciones que sean relevantes para nuestros jugadores.
+También puedes enviar sugerencias para ayudarnos a seguir mejorando Minecraft.","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+Launcher Name,Başlatıcı Adı,tr-TR
+Launcher‐Name,Başlatıcı Adı,tr-TR
+Leistungsmetriken,Performans Ölçümleri,tr-TR
+Local Candidate Type,Yerel Aday Tipi,tr-TR
+Loại máy chủ,Sunucu Türü,tr-TR
+Loại ứng viên cục bộ,Yerel Aday Tipi,tr-TR
+Loại ứng viên từ xa,Uzak Aday Tipi,tr-TR
+Lý do lỗi tạo Backend,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+Medición del rendimiento,Performans Ölçümleri,tr-TR
+Meine Daten einsehen,Verilerimi Görüntüle,tr-TR
+Memoria de acceso aleatorio usada (RAM),Kullanılan Bellek (RAM),tr-TR
+Memoria dedicada (kB),Ayrılmış Bellek (kB),tr-TR
+Memoria dedicata [kB],Ayrılmış Bellek (kB),tr-TR
+Memória dedicada (kB),Ayrılmış Bellek (kB),tr-TR
+Memória RAM usada,Kullanılan Bellek (RAM),tr-TR
+Mensagem de erro ao criar o backend,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+Mensaje de error en la creación del backend,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+Message d'échec de la création du backend,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+Messaggio dell'errore nella creazione della libreria,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+Mesures de performances,Performans Ölçümleri,tr-TR
+Metriche di prestazione,Performans Ölçümleri,tr-TR
+Minecraft Session ID,Minecraft Oturum Kimliği,tr-TR
+Minecraft 세션 ID,Minecraft Oturum Kimliği,tr-TR
+Minecraft‐Sitzungs‐ID,Minecraft Oturum Kimliği,tr-TR
+MinecraftのセッションID,Minecraft Oturum Kimliği,tr-TR
+Minecraft会话ID,Minecraft Oturum Kimliği,tr-TR
+"Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+"Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+"Misurando il tempo necessario a eseguire le fasi di avvio, quest'evento può aiutarci a capire dove c'è bisogno di migliorie.",Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+Modalità di gioco,Oyun Modu,tr-TR
+Mode de jeu,Oyun Modu,tr-TR
+Modifiche del client,Modlanmış İstemci,tr-TR
+Modifiche del server,Modlanmış Sunucu,tr-TR
+Modo de jogo,Oyun Modu,tr-TR
+Modo de juego,Oyun Modu,tr-TR
+Modが導入されたクライアント,Modlanmış İstemci,tr-TR
+Modが導入されたサーバー,Modlanmış Sunucu,tr-TR
+Monde chargé,Dünya Yüklendi,tr-TR
+Monde déchargé,Dünyadan Çıkıldı,tr-TR
+Mondo caricato,Dünya Yüklendi,tr-TR
+Mondo scaricato,Dünyadan Çıkıldı,tr-TR
+Mostra i miei dati,Verilerimi Görüntüle,tr-TR
+Motivo de error en la creación del backend,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+Motivo dell'errore nella creazione della libreria,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+Motivo do erro ao criar o backend,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+Muestras de fotogramas por segundo (FPS),Kare Hızı Örnekleri (fps),tr-TR
+Muestras de tiempo de renderizado,Görüntü Oluşturma Zamanları,tr-TR
+Mundo cargado,Dünya Yüklendi,tr-TR
+Mundo Carregado,Dünya Yüklendi,tr-TR
+Mundo descargado,Dünyadan Çıkıldı,tr-TR
+Mundo Descarregado,Dünyadan Çıkıldı,tr-TR
+Mundo nuevo,Yeni Dünya,tr-TR
+Máy chủ đã sửa đổi,Modlanmış Sunucu,tr-TR
+Máy khách đã sửa đổi,Modlanmış İstemci,tr-TR
+Mémoire dédiée (Ko),Ayrılmış Bellek (kB),tr-TR
+Mémoire vive utilisée (RAM),Kullanılan Bellek (RAM),tr-TR
+Métricas de desempenho,Performans Ölçümleri,tr-TR
+Mẫu thời gian kết xuất,Görüntü Oluşturma Zamanları,tr-TR
+Mẫu tốc độ khung hình (FPS),Kare Hızı Örnekleri (fps),tr-TR
+Name der Schnittstelle,Arka Uç Adı,tr-TR
+Neue Welt,Yeni Dünya,tr-TR
+New World,Yeni Dünya,tr-TR
+Nom du backend,Arka Uç Adı,tr-TR
+Nom du Launcher,Başlatıcı Adı,tr-TR
+Nombre d'échantillons,Örnek Sayısı,tr-TR
+Nombre del backend,Arka Uç Adı,tr-TR
+Nombre del lanzador,Başlatıcı Adı,tr-TR
+Nome del launcher,Başlatıcı Adı,tr-TR
+Nome del minigioco o contenuto di Realms,Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Nome della libreria grafica,Arka Uç Adı,tr-TR
+Nome do backend,Arka Uç Adı,tr-TR
+Nome do launcher,Başlatıcı Adı,tr-TR
+Nouveau monde ?,Yeni Dünya,tr-TR
+Novo mundo,Yeni Dünya,tr-TR
+Numero di campioni,Örnek Sayısı,tr-TR
+Nuovo mondo,Yeni Dünya,tr-TR
+Número de muestras,Örnek Sayısı,tr-TR
+Nền tảng,Platform,tr-TR
+Nội dung bản đồ Realms (tên trò chơi nhỏ),Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Operating System,İşletim Sistemi,tr-TR
+Opt-In,Katıl,tr-TR
+Orario dell'evento [UTC],Olay Tarih Bilgisi (UTC),tr-TR
+P2P 連線,Peer-to-peer Bağlantı,tr-TR
+P2P接続,Peer-to-peer Bağlantı,tr-TR
+Participação,Katıl,tr-TR
+Peer-to-peer Connection,Peer-to-peer Bağlantı,tr-TR
+"Per noi è importante capire il tempo necessario per entrare in un mondo e come questo dato può cambiare. Ad esempio, quando aggiungiamo nuove funzionalità o apportiamo modifiche tecniche significative, ci serve sapere in che modo ciò incide sui tempi di caricamento.","Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+Percorso dello stabilimento di connettività interattiva (SCI),Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+Performance Metrics,Performans Ölçümleri,tr-TR
+Permito enviar mis datos de telemetría opcionales,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+Phase de l'échec,Başarısızlık Aşaması,tr-TR
+Phiên bản trò chơi,Oyun Sürümü,tr-TR
+Piattaforma,Platform,tr-TR
+Plataforma,Platform,tr-TR
+Plateforme,Platform,tr-TR
+Plattform,Platform,tr-TR
+Privacy Statement,Gizlilik Beyanı,tr-TR
+Progreso realizado,Gelişim Yapıldı,tr-TR
+Progresso compiuto,Gelişim Yapıldı,tr-TR
+Progressos feitos,Gelişim Yapıldı,tr-TR
+Progrès réalisés,Gelişim Yapıldı,tr-TR
+"Quest'evento viene usato insieme a «Mondo caricato» per calcolare la durata della sessione del mondo. La durata (in secondi e in tick) viene misurata al termine della sessione di un mondo, cioè quando si torna al menù principale o ci si disconnette da un server.","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+"Questo evento ci aiuta a capire l'affidabilità e le prestazioni delle connessioni a rete paritaria tra giocatori. Registra l'esito della connessione, il tipo di candidato usato per lo stabilimento di connettività interattiva (SCI, o ICE in inglese, il protocollo che usiamo per le connessioni a rete paritaria) e il tempo richiesto per stabilire la connessione.","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+Questo evento ci comunica le capacità del dispositivo grafico in uso durante la partita.,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+Raccolta dei dati di telemetria,Ölçüm Verileri Toplama,tr-TR
+Raison de l'échec de la création du backend,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+RAM ที่ใช้,Kullanılan Bellek (RAM),tr-TR
+Realms Map Content (Minigame Name),Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Realms 地圖內容（小遊戲名稱）,Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Realms 맵 콘텐츠 (미니게임 이름),Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Realms‐Weltinhalt (Name des Minispiels),Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Realmsのマップコンテンツ（ミニゲームの名前）,Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Realm地图内容（小游戏名称）,Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Recolección de datos de telemetría,Ölçüm Verileri Toplama,tr-TR
+Remote Candidate Type,Uzak Aday Tipi,tr-TR
+Render Distance,Görüş Mesafesi,tr-TR
+Render Time Samples,Görüntü Oluşturma Zamanları,tr-TR
+Route des interaktiven Verbindungsaufbaus (ICE),Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+Ruta de tipo de conectividad interactiva (ICE),Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+"Saber como os jogadores jogam Minecraft (como o modo de jogo, modificações de cliente ou servidor e a versão do jogo) nos permite melhorar as áreas mais interessantes aos jogadores.
+O evento Mundo Carregado é sincronizado com o Mundo Descarregado para calcular a duração da sessão de jogo.","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+"Saber cómo juegan los jugadores a Minecraft (qué modo de juego, cliente o servidor modificado y versión del juego usan) nos ayuda a mejorar los aspectos que más le importan a los jugadores.
+El evento «Mundo cargado» está unido al de «Mundo descargado» para calcular cuánto ha durado la sesión de juego.","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+Sample Count,Örnek Sayısı,tr-TR
+Sapere come i giocatori giocano a Minecraft (per esempio la modalità e la versione di gioco o client e server modificati) ci consente di focalizzare gli aggiornamenti del gioco al fine di migliorare le aree a cui i giocatori tengono di più. L'evento «Mondo caricato» è usato insieme a «Mondo scaricato» per calcolare la durata delle sessioni di gioco.,"Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+Server Modded,Modlanmış Sunucu,tr-TR
+Server modifiziert,Modlanmış Sunucu,tr-TR
+Server Session ID,Sunucu Oturum Kimliği,tr-TR
+Server Type,Sunucu Türü,tr-TR
+Servertyp,Sunucu Türü,tr-TR
+Server‐Sitzungs‐ID,Sunucu Oturum Kimliği,tr-TR
+Serveur moddé ?,Modlanmış Sunucu,tr-TR
+Servidor modificado,Modlanmış Sunucu,tr-TR
+Sichtweite,Görüş Mesafesi,tr-TR
+Signalaufbauzeit (Millisekunden),Bağlantı Süresi (Milisaniye),tr-TR
+Signaling Connection Time (Milliseconds),Bağlantı Süresi (Milisaniye),tr-TR
+Sistema operacional,İşletim Sistemi,tr-TR
+Sistema operativo,İşletim Sistemi,tr-TR
+Spielladezeiten,Oyun Yükleme Süreleri,tr-TR
+Spielmodus,Oyun Modu,tr-TR
+Spielversion,Oyun Sürümü,tr-TR
+Spielzeit (Ticks),Oyun Süresi (Birim Zaman),tr-TR
+Système d'exploitation,İşletim Sistemi,tr-TR
+Số liệu hiệu suất,Performans Ölçümleri,tr-TR
+Số lượng mẫu,Örnek Sayısı,tr-TR
+Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+"Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+Telemetrie‐Datenerhebung,Ölçüm Verileri Toplama,tr-TR
+Telemetry Data Collection,Ölçüm Verileri Toplama,tr-TR
+Tempi di caricamento del gioco,Oyun Yükleme Süreleri,tr-TR
+Tempo antes da abertura da janela (milissegundos),Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+Tempo dal caricamento del mondo [s],Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+Tempo dal caricamento del mondo [t],Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+Tempo de carregamento de mundos,Dünya Yüklenme Süreleri,tr-TR
+Tempo de carregamento do mundo (milissegundos),Dünya Yükleme Süresi (Milisaniye),tr-TR
+Tempo de carregamento total (milissegundos),Toplam Yükleme Süresi (Milisaniye),tr-TR
+Tempo de conexão (milissegundos) do Interactive Connectivity Establishment (ICE),Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+Tempo de conexão da sinalização (milissegundos),Bağlantı Süresi (Milisaniye),tr-TR
+Tempo de conexão total (milissegundos),Toplam Bağlanma Süresi (Milisaniye),tr-TR
+Tempo de inicialização (milissegundos),Önyükleme Süresi (Milisaniye),tr-TR
+Tempo de jogo (tiques),Oyun Süresi (Birim Zaman),tr-TR
+Tempo desde carregamento (tiques),Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+Tempo desde o carregamento (segundos),Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+Tempo di avvio [ms],Önyükleme Süresi (Milisaniye),tr-TR
+Tempo di caricamento dei mondi,Dünya Yüklenme Süreleri,tr-TR
+Tempo di caricamento del mondo [ms],Dünya Yükleme Süresi (Milisaniye),tr-TR
+Tempo di connessione dello SCI [ms],Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+Tempo di connessione di segnalamento [ms],Bağlantı Süresi (Milisaniye),tr-TR
+Tempo di gioco [t],Oyun Süresi (Birim Zaman),tr-TR
+Tempo na tela de carregamento (milissegundos),Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+Tempo nella schermata di caricamento [ms],Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+Tempo prima dell'apertura della finestra [ms],Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+Tempo totale di caricamento [ms],Toplam Yükleme Süresi (Milisaniye),tr-TR
+Tempo totale di connessione [ms],Toplam Bağlanma Süresi (Milisaniye),tr-TR
+Tempos de carregamento do jogo,Oyun Yükleme Süreleri,tr-TR
+Temps avant l'ouverture de la fenêtre (en millisecondes),Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+Temps de chargement des mondes,Dünya Yüklenme Süreleri,tr-TR
+Temps de chargement du jeu,Oyun Yükleme Süreleri,tr-TR
+Temps de chargement du monde (en millisecondes),Dünya Yükleme Süresi (Milisaniye),tr-TR
+Temps de connexion de l'établissement de connectivité interactive (ICE) (en millisecondes),Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+Temps de connexion de la signalisation (en millisecondes),Bağlantı Süresi (Milisaniye),tr-TR
+Temps de démarrage (en millisecondes),Önyükleme Süresi (Milisaniye),tr-TR
+Temps de l'écran de chargement (en millisecondes),Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+Temps depuis le chargement (en secondes),Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+Temps depuis le chargement (en ticks),Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+Temps en jeu (en ticks),Oyun Süresi (Birim Zaman),tr-TR
+Temps total de chargement (en millisecondes),Toplam Yükleme Süresi (Milisaniye),tr-TR
+Temps total de connexion (en millisecondes),Toplam Bağlanma Süresi (Milisaniye),tr-TR
+This event can help us figure out where startup performance improvements are needed by measuring the execution times of the startup phases.,Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+"This event helps us understand the reliability and performance of peer-to-peer connections between players. It records whether the connection was successful, the type of Interactive Connectivity Establishment (ICE, the protocol we use to establish peer-to-peer connections) candidate used, and how long it took to establish the connection.","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+This event informs us of the capabilities of the graphics device used to play the game.,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+"This event is paired with the World Loaded event to calculate how long the world session has lasted.
+The duration (in seconds and ticks) is measured when a world session has ended (quitting to title, disconnecting from a server).","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+Thu thập dữ liệu đo từ xa,Ölçüm Verileri Toplama,tr-TR
+Thông tin lỗi tạo Backend,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+Thế giới chưa nạp,Dünyadan Çıkıldı,tr-TR
+Thế giới mới,Yeni Dünya,tr-TR
+Thế giới đã nạp,Dünya Yüklendi,tr-TR
+Thời gian khởi tạo trò chơi (miligiây),Önyükleme Süresi (Milisaniye),tr-TR
+Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+Thời gian kết nối tín hiệu (Miligiây),Bağlantı Süresi (Milisaniye),tr-TR
+Thời gian nạp thế giới,Dünya Yüklenme Süreleri,tr-TR
+Thời gian nạp thế giới (Miligiây),Dünya Yükleme Süresi (Milisaniye),tr-TR
+Thời gian nạp trò chơi,Oyun Yükleme Süreleri,tr-TR
+Thời gian trong màn hình nạp (miligiây),Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+Thời gian trong trò chơi (nhịp),Oyun Süresi (Birim Zaman),tr-TR
+Thời gian trước khi cửa sổ mở (miligiây),Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+Thời gian từ khi nạp (Giây),Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+Thời gian từ khi nạp (Nhịp),Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+Tiempo antes de que la ventana se abra (milisegundos),Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+Tiempo de carga del mundo (en milisegundos),Dünya Yükleme Süresi (Milisaniye),tr-TR
+Tiempo de conexión de conectividad interactiva (ICE) (ms),Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+Tiempo de conexión de señalización (ms),Bağlantı Süresi (Milisaniye),tr-TR
+Tiempo de conexión total (ms),Toplam Bağlanma Süresi (Milisaniye),tr-TR
+Tiempo de inicio (milisegundos),Önyükleme Süresi (Milisaniye),tr-TR
+Tiempo de juego (tics),Oyun Süresi (Birim Zaman),tr-TR
+Tiempo desde que se cargó (en segundos),Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+Tiempo desde que se cargó (en tics),Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+Tiempo en pantalla de carga (milisegundos),Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+Tiempo total de carga (milisegundos),Toplam Yükleme Süresi (Milisaniye),tr-TR
+Tiempos de carga del juego,Oyun Yükleme Süreleri,tr-TR
+Tiempos de carga del mundo,Dünya Yüklenme Süreleri,tr-TR
+Time Before Window Opens (Milliseconds),Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+Time in Loading Screen (Milliseconds),Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+Time Since Load (Seconds),Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+Time Since Load (Ticks),Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+Tipo de candidato local,Yerel Aday Tipi,tr-TR
+Tipo de candidato remoto,Uzak Aday Tipi,tr-TR
+Tipo de servidor,Sunucu Türü,tr-TR
+Tipo di candidato locale,Yerel Aday Tipi,tr-TR
+Tipo di candidato remoto,Uzak Aday Tipi,tr-TR
+Tipo di server,Sunucu Türü,tr-TR
+Tiến trình đã làm,Gelişim Yapıldı,tr-TR
+Total Connection Time (Milliseconds),Toplam Bağlanma Süresi (Milisaniye),tr-TR
+Total Load Time (Milliseconds),Toplam Yükleme Süresi (Milisaniye),tr-TR
+Tuyên bố về quyền riêng tư,Gizlilik Beyanı,tr-TR
+Type de candidat distant,Uzak Aday Tipi,tr-TR
+Type de candidat local,Yerel Aday Tipi,tr-TR
+Type de serveur,Sunucu Türü,tr-TR
+Tên Backend,Arka Uç Adı,tr-TR
+Tên trình khởi động,Başlatıcı Adı,tr-TR
+Tính năng bị thiếu gây lỗi tạo Backend,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+Tương thích đồ họa,Grafik Özellikleri,tr-TR
+Tổng thời gian kết nối (Miligiây),Toplam Bağlanma Süresi (Milisaniye),tr-TR
+Tổng thời gian nạp (Miligiây),Toplam Yükleme Süresi (Milisaniye),tr-TR
+Understanding the context behind receiving an advancement can help us better understand and improve the progression of the game.,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+Used Random Access Memory,Kullanılan Bellek (RAM),tr-TR
+User ID,Kullanıcı Kimliği,tr-TR
+Utilizzo della memoria (RAM),Kullanılan Bellek (RAM),tr-TR
+Ver meus dados,Verilerimi Görüntüle,tr-TR
+Ver mis datos,Verilerimi Görüntüle,tr-TR
+Verbindungserfolg,Bağlantı Başarılı,tr-TR
+Version du jeu,Oyun Sürümü,tr-TR
+Versione del gioco,Oyun Sürümü,tr-TR
+Versión del juego,Oyun Sürümü,tr-TR
+Versão do jogo,Oyun Sürümü,tr-TR
+Verwendeter Arbeitsspeicher,Kullanılan Bellek (RAM),tr-TR
+View My Data,Verilerimi Görüntüle,tr-TR
+Visibilità,Görüş Mesafesi,tr-TR
+"Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+"Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+"Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+Voir mes données,Verilerimi Görüntüle,tr-TR
+Welt entladen,Dünyadan Çıkıldı,tr-TR
+Welt geladen,Dünya Yüklendi,tr-TR
+Weltladezeit (Millisekunden),Dünya Yükleme Süresi (Milisaniye),tr-TR
+Weltladezeiten,Dünya Yüklenme Süreleri,tr-TR
+Welt‐Sitzungs‐ID,Dünya Oturum Kimliği,tr-TR
+World Load Time (Milliseconds),Dünya Yükleme Süresi (Milisaniye),tr-TR
+World Load Times,Dünya Yüklenme Süreleri,tr-TR
+World Loaded,Dünya Yüklendi,tr-TR
+World Session ID,Dünya Oturum Kimliği,tr-TR
+World Unloaded,Dünyadan Çıkıldı,tr-TR
+Xem dữ liệu của tôi,Verilerimi Görüntüle,tr-TR
+Zeit im Ladebildschirm (Millisekunden),Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+Zeit seit dem Laden (Sekunden),Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+Zeit seit dem Laden (Ticks),Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+Zeitpunkt des Ereignisses (koordinierte Weltzeit),Olay Tarih Bilgisi (UTC),tr-TR
+"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.","Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+"Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+Zugewiesener Arbeitsspeicher (KB),Ayrılmış Bellek (kB),tr-TR
+"É importante entendermos o tempo necessário para entrar num mundo e como isso muda ao longo do tempo. Por exemplo, ao adicionar novos recursos ou fazer mudanças técnicas maiores, precisamos observar o impacto nos tempos de carregamento.","Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+Échantillons d'images par seconde (FPS),Kare Hızı Örnekleri (fps),tr-TR
+Échantillons du temps de rendu,Görüntü Oluşturma Zamanları,tr-TR
+"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.","Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+Đường dẫn thiết lập kết nối tương tác (ICE),Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+"В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+Величина выборки,Örnek Sayısı,tr-TR
+Версия игры,Oyun Sürümü,tr-TR
+Включённые данные,İçerilen Veri,tr-TR
+Возможности графического устройства,Grafik Özellikleri,tr-TR
+Временная метка (UTC),Olay Tarih Bilgisi (UTC),tr-TR
+Время до открытия окна (миллисекунды),Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+Время загрузки игры,Oyun Yükleme Süreleri,tr-TR
+Время загрузки мира,Dünya Yüklenme Süreleri,tr-TR
+Время загрузки мира (миллисекунды),Dünya Yükleme Süresi (Milisaniye),tr-TR
+Время игры (такты),Oyun Süresi (Birim Zaman),tr-TR
+Время инициализации (миллисекунды),Önyükleme Süresi (Milisaniye),tr-TR
+Время на экране загрузки (миллисекунды),Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+Время с загрузки (секунды),Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+Время с загрузки (такты),Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+Время установления интерактивного соединения (ICE) (миллисекунды),Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+Время установления соединения (миллисекунды),Bağlantı Süresi (Milisaniye),tr-TR
+Выборка времени кадра,Görüntü Oluşturma Zamanları,tr-TR
+Выборка частоты кадров (FPS),Kare Hızı Örnekleri (fps),tr-TR
+Выгрузка мира,Dünyadan Çıkıldı,tr-TR
+Выделенная память (Кбайт),Ayrılmış Bellek (kB),tr-TR
+Дальность прорисовки,Görüş Mesafesi,tr-TR
+Загрузка мира,Dünya Yüklendi,tr-TR
+Заявление о конфиденциальности,Gizlilik Beyanı,tr-TR
+"Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+"Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+Идентификатор достижения,Gelişim Kimliği,tr-TR
+Идентификатор клиента,İstemci Kimliği,tr-TR
+Идентификатор пользователя,Kullanıcı Kimliği,tr-TR
+Идентификатор сессии Minecraft,Minecraft Oturum Kimliği,tr-TR
+Идентификатор сессии мира,Dünya Oturum Kimliği,tr-TR
+Идентификатор сессии сервера,Sunucu Oturum Kimliği,tr-TR
+Использование ОЗУ,Kullanılan Bellek (RAM),tr-TR
+Карта Realms (название мини-игры),Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+Маршрут установления интерактивного соединения (ICE),Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+Модифицированность клиента,Modlanmış İstemci,tr-TR
+Модифицированность сервера,Modlanmış Sunucu,tr-TR
+Мои данные,Verilerimi Görüntüle,tr-TR
+Название графического API,Arka Uç Adı,tr-TR
+Название лаунчера,Başlatıcı Adı,tr-TR
+"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.","Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+Новое достижение,Gelişim Yapıldı,tr-TR
+Новый мир,Yeni Dünya,tr-TR
+Общее время загрузки (миллисекунды),Toplam Yükleme Süresi (Milisaniye),tr-TR
+Общее время подключения (миллисекунды),Toplam Bağlanma Süresi (Milisaniye),tr-TR
+Одноранговое соединение,Peer-to-peer Bağlantı,tr-TR
+Операционная система,İşletim Sistemi,tr-TR
+Оставить отзыв,Geri Bildirim,tr-TR
+Ошибка инициализации графического API: отсутствующие возможности,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+Ошибка инициализации графического API: подробности,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+Ошибка инициализации графического API: причина,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+Платформа,Platform,tr-TR
+Показатели производительности,Performans Ölçümleri,tr-TR
+Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+Режим игры,Oyun Modu,tr-TR
+Сбор данных телеметрии,Ölçüm Verileri Toplama,tr-TR
+"Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+Согласие на отправку,Katıl,tr-TR
+Тип локального кандидата,Yerel Aday Tipi,tr-TR
+Тип сервера,Sunucu Türü,tr-TR
+Тип удалённого кандидата,Uzak Aday Tipi,tr-TR
+Успешность подключения,Bağlantı Başarılı,tr-TR
+Этап отказа,Başarısızlık Aşaması,tr-TR
+"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+Это событие сообщает о возможностях используемого графического устройства.,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+Я даю согласие на отправку дополнительных телеметрических данных,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+กลุ่มตัวอย่างอัตราเฟรม (FPS),Kare Hızı Örnekleri (fps),tr-TR
+กลุ่มตัวอย่างเวลาเร็นเดอร์,Görüntü Oluşturma Zamanları,tr-TR
+"การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+การทำความก้าวหน้า,Gelişim Yapıldı,tr-TR
+การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,Ölçüm Verileri Toplama,tr-TR
+"การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+"การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+การเชื่อมต่อสำเร็จ,Bağlantı Başarılı,tr-TR
+การเชื่อมต่อแบบเพียร์ทูเพียร์,Peer-to-peer Bağlantı,tr-TR
+ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+ข้อมูลที่รวมอยู่ด้วย,İçerilen Veri,tr-TR
+ความยินยอมเข้าร่วม,Katıl,tr-TR
+ความสามารถของกราฟิก,Grafik Özellikleri,tr-TR
+ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+คำชี้แจงสิทธิ์ส่วนบุคคล,Gizlilik Beyanı,tr-TR
+จำนวนกลุ่มตัวอย่าง,Örnek Sayısı,tr-TR
+ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+ชื่อลันเชอร์,Başlatıcı Adı,tr-TR
+ชื่อแบ็กเอนด์,Arka Uç Adı,tr-TR
+ดูข้อมูลของฉัน,Verilerimi Görüntüle,tr-TR
+ประทับเวลาเหตุการณ์ (UTC),Olay Tarih Bilgisi (UTC),tr-TR
+ประเภทตัวเลือกท้องถิ่น,Yerel Aday Tipi,tr-TR
+ประเภทตัวเลือกระยะไกล,Uzak Aday Tipi,tr-TR
+ประเภทเซิร์ฟเวอร์,Sunucu Türü,tr-TR
+ระบบปฏิบัติการ,İşletim Sistemi,tr-TR
+ระยะการมองเห็น,Görüş Mesafesi,tr-TR
+ระยะการล้มเหลว,Başarısızlık Aşaması,tr-TR
+หน่วยความจำเฉพาะ (kB),Ayrılmış Bellek (kB),tr-TR
+เซิร์ฟเวอร์มีการดัดแปร,Modlanmış Sunucu,tr-TR
+เนื้อหาแมป Realms (ชื่อมินิเกม),Realms Harita İçeriği (Mini Oyun Adı),tr-TR
+เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+เมตริกประสิทธิภาพ,Performans Ölçümleri,tr-TR
+เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+เวลาตั้งแต่โหลด (ติ๊ก),Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+เวลาตั้งแต่โหลด (วินาที),Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),Toplam Bağlanma Süresi (Milisaniye),tr-TR
+เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),Bağlantı Süresi (Milisaniye),tr-TR
+เวลาเกม (ติ๊ก),Oyun Süresi (Birim Zaman),tr-TR
+เวลาเริ่มต้นระบบ (มิลลิวินาที),Önyükleme Süresi (Milisaniye),tr-TR
+เวลาโหลดทั้งหมด (มิลลิวินาที),Toplam Yükleme Süresi (Milisaniye),tr-TR
+เวลาโหลดเกม,Oyun Yükleme Süreleri,tr-TR
+เวลาโหลดโลก,Dünya Yüklenme Süreleri,tr-TR
+เวลาโหลดโลก (มิลลิวินาที),Dünya Yükleme Süresi (Milisaniye),tr-TR
+เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+เวอร์ชันเกม,Oyun Sürümü,tr-TR
+เส้นทาง Interactive Connectivity Establishment (ICE),Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+"เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+แพลตฟอร์ม,Platform,tr-TR
+โลกโหลด,Dünya Yüklendi,tr-TR
+โลกใหม่,Yeni Dünya,tr-TR
+โลกไม่โหลด,Dünyadan Çıkıldı,tr-TR
+โหมดเกม,Oyun Modu,tr-TR
+ให้ข้อเสนอแนะ,Geri Bildirim,tr-TR
+ไคลเอนต์มีการดัดแปร,Modlanmış İstemci,tr-TR
+このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+"このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+"これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+イベントの時刻（UTC）,Olay Tarih Bilgisi (UTC),tr-TR
+ウィンドウが開くまでの時間（ミリ秒）,Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+オプトイン,Katıl,tr-TR
+オペレーティングシステム,İşletim Sistemi,tr-TR
+クライアントID,İstemci Kimliği,tr-TR
+グラフィック性能,Grafik Özellikleri,tr-TR
+ゲームのバージョン,Oyun Sürümü,tr-TR
+ゲームの読み込み時間,Oyun Yükleme Süreleri,tr-TR
+ゲームモード,Oyun Modu,tr-TR
+ゲーム内時間（ティック）,Oyun Süresi (Birim Zaman),tr-TR
+サンプリング数,Örnek Sayısı,tr-TR
+サーバーのセッションID,Sunucu Oturum Kimliği,tr-TR
+サーバーの種類,Sunucu Türü,tr-TR
+シグナリング接続時間（ミリ秒）,Bağlantı Süresi (Milisaniye),tr-TR
+データの遠隔収集,Ölçüm Verileri Toplama,tr-TR
+バックエンド作成失敗の原因,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+バックエンド作成失敗時のメッセージ,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+バックエンド作成失敗時の不足していた性能情報,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+バックエンド名,Arka Uç Adı,tr-TR
+パフォーマンス測定,Performans Ölçümleri,tr-TR
+フィードバックを送信,Geri Bildirim,tr-TR
+フレームレートのサンプル（FPS）,Kare Hızı Örnekleri (fps),tr-TR
+プライバシーに関する声明,Gizlilik Beyanı,tr-TR
+プラットフォーム,Platform,tr-TR
+"プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+ユーザーID,Kullanıcı Kimliği,tr-TR
+ランチャー名,Başlatıcı Adı,tr-TR
+リモート候補タイプ,Uzak Aday Tipi,tr-TR
+ローカル候補タイプ,Yerel Aday Tipi,tr-TR
+ワールドのセッションID,Dünya Oturum Kimliği,tr-TR
+ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+ワールドの読み込み時間（ミリ秒）,Dünya Yükleme Süresi (Milisaniye),tr-TR
+ワールドアンロード,Dünyadan Çıkıldı,tr-TR
+ワールドロード,Dünya Yüklendi,tr-TR
+ワールド読み込み時間,Dünya Yüklenme Süreleri,tr-TR
+专用内存（kB）,Ayrılmış Bellek (kB),tr-TR
+世界 Session ID,Dünya Oturum Kimliği,tr-TR
+世界会话ID,Dünya Oturum Kimliği,tr-TR
+世界加载,Dünya Yüklendi,tr-TR
+世界加载时间,Dünya Yüklenme Süreleri,tr-TR
+世界加载时间（毫秒）,Dünya Yükleme Süresi (Milisaniye),tr-TR
+世界卸載,Dünyadan Çıkıldı,tr-TR
+世界卸载,Dünyadan Çıkıldı,tr-TR
+世界載入,Dünya Yüklendi,tr-TR
+世界載入時間,Dünya Yüklenme Süreleri,tr-TR
+世界載入時間（毫秒）,Dünya Yükleme Süresi (Milisaniye),tr-TR
+"了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+"了解Minecraft的整体性能概况，可以帮助我们针对各种机型和操作系统调整与优化游戏。 
+游戏版本信息也包含在其中，以帮助我们比较Minecraft新版本的性能概况。","Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.",tr-TR
+"了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+"了解玩家玩Minecraft时的细节（例如游戏模式、客户端或服务端是否被修改，以及游戏版本）有助于我们在游戏更新时注重改进玩家最关心的部分。
+世界加载事件将同世界卸载事件一起用于计算游戏会话的持续时长。","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+了解达成进度前后发生的事情有助于我们更好了解及改进游戏流程。,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+事件时间戳（UTC）,Olay Tarih Bilgisi (UTC),tr-TR
+事件時間戳記（UTC）,Olay Tarih Bilgisi (UTC),tr-TR
+互動式連線建立 (ICE) 路徑,Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+互動式連線建立 (ICE) 連線時間（毫秒）,Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+交互式连接建立（ICE）路径,Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+交互式连接建立（ICE）连接时间（毫秒）,Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+任意の遠隔測定データを送信することに同意する,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+伺服器 Session ID,Sunucu Oturum Kimliği,tr-TR
+伺服器是否為原版,Modlanmış Sunucu,tr-TR
+伺服器類型,Sunucu Türü,tr-TR
+作業系統,İşletim Sistemi,tr-TR
+使用されたランダムアクセスメモリ,Kullanılan Bellek (RAM),tr-TR
+使用的記憶體,Kullanılan Bellek (RAM),tr-TR
+使用者 ID,Kullanıcı Kimliği,tr-TR
+信令连接时间（毫秒）,Bağlantı Süresi (Milisaniye),tr-TR
+信令連線時間（毫秒）,Bağlantı Süresi (Milisaniye),tr-TR
+加载屏幕显示时间（毫秒）,Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+包含的数据,İçerilen Veri,tr-TR
+包含的資料,İçerilen Veri,tr-TR
+可选择加入,Katıl,tr-TR
+可選擇加入,Katıl,tr-TR
+后端创建失败原因,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+后端创建失败消息,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+后端创建失败缺失功能,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+后端名称,Arka Uç Adı,tr-TR
+含まれるデータ,İçerilen Veri,tr-TR
+启动器名称,Başlatıcı Adı,tr-TR
+启动引导时间（毫秒）,Önyükleme Süresi (Milisaniye),tr-TR
+啟動器名稱,Başlatıcı Adı,tr-TR
+啟動引導時間（毫秒）,Önyükleme Süresi (Milisaniye),tr-TR
+图形功能,Grafik Özellikleri,tr-TR
+圖形功能,Grafik Özellikleri,tr-TR
+失敗の起きた段階,Başarısızlık Aşaması,tr-TR
+失敗階段,Başarısızlık Aşaması,tr-TR
+失败阶段,Başarısızlık Aşaması,tr-TR
+客户端ID,İstemci Kimliği,tr-TR
+客户端是否被修改,Modlanmış İstemci,tr-TR
+对我们而言，了解加入世界所需的时长，以及这一时长随着时间推移会如何变化是很重要的。比如，当我们加入新功能或进行较大的技术更改时，我们需要知道这对加载时间有何影响。,"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+専用メモリ（kB）,Ayrılmış Bellek (kB),tr-TR
+專屬記憶體（kB）,Ayrılmış Bellek (kB),tr-TR
+對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+已使用的内存,Kullanılan Bellek (RAM),tr-TR
+帧率样本（FPS）,Kare Hızı Örnekleri (fps),tr-TR
+平台,Platform,tr-TR
+後端名稱,Arka Uç Adı,tr-TR
+後端建立失敗原因,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+後端建立失敗缺少功能,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+後端建立失敗訊息,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+性能指标,Performans Ölçümleri,tr-TR
+总计加载时间（毫秒）,Toplam Yükleme Süresi (Milisaniye),tr-TR
+总计连接时间（毫秒）,Toplam Bağlanma Süresi (Milisaniye),tr-TR
+我同意傳送可選的遙測資料,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+我同意发送可选的遥测数据,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+打开我的数据,Verilerimi Görüntüle,tr-TR
+接続の成功の是非,Bağlantı Başarılı,tr-TR
+描画所要時間のサンプル,Görüntü Oluşturma Zamanları,tr-TR
+描画距離,Görüş Mesafesi,tr-TR
+提供反馈,Geri Bildirim,tr-TR
+提供意見回饋,Geri Bildirim,tr-TR
+操作系统,İşletim Sistemi,tr-TR
+"收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+"收集这些数据可以让我们了解与玩家有关的实际情况，以便帮助我们改进Minecraft。
+你也可以发送其他反馈来帮助我们持续改进Minecraft。","Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+效能指標,Performans Ölçümleri,tr-TR
+新規ワールド,Yeni Dünya,tr-TR
+是否为新的世界,Yeni Dünya,tr-TR
+是否為新的世界,Yeni Dünya,tr-TR
+服务器会话ID,Sunucu Oturum Kimliği,tr-TR
+服务器类型,Sunucu Türü,tr-TR
+服务端是否被修改,Modlanmış Sunucu,tr-TR
+本地候选类型,Yerel Aday Tipi,tr-TR
+本機候選類型,Yerel Aday Tipi,tr-TR
+样本数,Örnek Sayısı,tr-TR
+樣本數量,Örnek Sayısı,tr-TR
+"此事件与世界加载事件用于计算世界会话的持续时间。
+持续时间（以秒和刻为单位）在世界会话结束时（退回到标题屏幕，或从服务器断开连接）测量。","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+此事件会测量游戏启动各个阶段的时长以帮助我们找到游戏启动的性能优化点。,Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+此事件告知我们运行游戏所使用的图形设备的功能信息。,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+此事件有助于我们了解玩家之间点对点连接的可靠性和性能情况。事件将记录连接是否成功、所使用的交互式连接建立（ICE，即我们用于建立点对点连接的协议）候选类型，以及建立连接所花费的时间。,"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+"此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+渲染用时样本,Görüntü Oluşturma Zamanları,tr-TR
+渲染距离,Görüş Mesafesi,tr-TR
+游戏加载时间,Oyun Yükleme Süreleri,tr-TR
+游戏时间（刻）,Oyun Süresi (Birim Zaman),tr-TR
+游戏模式,Oyun Modu,tr-TR
+游戏版本,Oyun Sürümü,tr-TR
+点对点连接,Peer-to-peer Bağlantı,tr-TR
+用戶端 ID,İstemci Kimliği,tr-TR
+用戶端是否為原版,Modlanmış İstemci,tr-TR
+用户ID,Kullanıcı Kimliği,tr-TR
+畫面更新率樣本（FPS）,Kare Hızı Örnekleri (fps),tr-TR
+窗口开启前时间（毫秒）,Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+総接続時間（ミリ秒）,Toplam Bağlanma Süresi (Milisaniye),tr-TR
+総読み込み時間（ミリ秒）,Toplam Yükleme Süresi (Milisaniye),tr-TR
+總載入時間（毫秒）,Toplam Yükleme Süresi (Milisaniye),tr-TR
+總連線時間（毫秒）,Toplam Bağlanma Süresi (Milisaniye),tr-TR
+繪製時間樣本,Görüntü Oluşturma Zamanları,tr-TR
+自分のデータを確認する,Verilerimi Görüntüle,tr-TR
+自加载后的时间（刻）,Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+自加载后的时间（秒）,Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+自載入後的時間（刻）,Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+自載入後的時間（秒）,Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+視窗開啟前時間（毫秒）,Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+読み込みからの時間（ティック）,Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+読み込みからの時間（秒）,Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+読み込み画面の所要時間（ミリ秒）,Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+起動所要時間（ミリ秒）,Önyükleme Süresi (Milisaniye),tr-TR
+載入畫面顯示時間（毫秒）,Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+达成进度,Gelişim Yapıldı,tr-TR
+进度ID,Gelişim Kimliği,tr-TR
+远程候选类型,Uzak Aday Tipi,tr-TR
+连接成功,Bağlantı Başarılı,tr-TR
+這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+連線成功,Bağlantı Başarılı,tr-TR
+進度 ID,Gelişim Kimliği,tr-TR
+進捗ID,Gelişim Kimliği,tr-TR
+進捗の達成に関するデータ,Gelişim Yapıldı,tr-TR
+進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+遊戲時間（刻）,Oyun Süresi (Birim Zaman),tr-TR
+遊戲模式,Oyun Modu,tr-TR
+遊戲版本,Oyun Sürümü,tr-TR
+遊戲載入時間,Oyun Yükleme Süreleri,tr-TR
+達成進度,Gelişim Yapıldı,tr-TR
+遙測資料收集,Ölçüm Verileri Toplama,tr-TR
+遠端候選類型,Uzak Aday Tipi,tr-TR
+遥测数据收集,Ölçüm Verileri Toplama,tr-TR
+開啟我的統計資料,Verilerimi Görüntüle,tr-TR
+隐私声明,Gizlilik Beyanı,tr-TR
+隱私權聲明,Gizlilik Beyanı,tr-TR
+顯示距離,Görüş Mesafesi,tr-TR
+개인 정보 처리 방침,Gizlilik Beyanı,tr-TR
+게임 모드,Oyun Modu,tr-TR
+게임 버전,Oyun Sürümü,tr-TR
+게임 시간 (틱),Oyun Süresi (Birim Zaman),tr-TR
+게임을 불러오는 데 걸린 시간,Oyun Yükleme Süreleri,tr-TR
+그래픽 기능,Grafik Özellikleri,tr-TR
+내 데이터 보기,Verilerimi Görüntüle,tr-TR
+대화형 연결 구축 (ICE) 경로,Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,tr-TR
+대화형 연결 구축 (ICE) 연결 시간 (밀리초),Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),tr-TR
+랜덤 액세스 메모리 사용량,Kullanılan Bellek (RAM),tr-TR
+런처 이름,Başlatıcı Adı,tr-TR
+렌더 거리,Görüş Mesafesi,tr-TR
+렌더 시간 표본,Görüntü Oluşturma Zamanları,tr-TR
+로딩 화면에 있던 시간 (밀리초),Yükleme Ekranında Geçen Süre (Milisaniye),tr-TR
+로컬 후보 유형,Yerel Aday Tipi,tr-TR
+발전 과제 ID,Gelişim Kimliği,tr-TR
+발전 과제 달성,Gelişim Yapıldı,tr-TR
+발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",tr-TR
+백엔드 생성 실패 기능 누락,Arka Uç Oluşturma Hatası Eksik Özellikler,tr-TR
+백엔드 생성 실패 메시지,Arka Uç Oluşturma Hatası Mesajı,tr-TR
+백엔드 생성 실패 사유,Arka Uç Oluşturma Hatası Nedeni,tr-TR
+백엔드 이름,Arka Uç Adı,tr-TR
+부트스트랩 시간 (밀리초),Önyükleme Süresi (Milisaniye),tr-TR
+사용자 ID,Kullanıcı Kimliği,tr-TR
+새로운 세계 여부,Yeni Dünya,tr-TR
+서버 모드 여부,Modlanmış Sunucu,tr-TR
+서버 세션 ID,Sunucu Oturum Kimliği,tr-TR
+서버 유형,Sunucu Türü,tr-TR
+선택 수집 여부,Katıl,tr-TR
+선택적 원격 측정 데이터 전송에 동의합니다,İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,tr-TR
+성능 측정 결과,Performans Ölçümleri,tr-TR
+세계 세션 ID,Dünya Oturum Kimliği,tr-TR
+세계를 떠날 때,Dünyadan Çıkıldı,tr-TR
+세계를 불러오는 데 걸린 시간,Dünya Yüklenme Süreleri,tr-TR
+세계를 불러오는 데 걸린 시간 (밀리초),Dünya Yükleme Süresi (Milisaniye),tr-TR
+세계를 불러올 때,Dünya Yüklendi,tr-TR
+"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.","Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",tr-TR
+시그널링 연결 시간 (밀리초),Bağlantı Süresi (Milisaniye),tr-TR
+실패 단계,Başarısızlık Aşaması,tr-TR
+실행된 시간 (초),Yüklemeden Bu Yana Geçen Zaman (Saniye),tr-TR
+실행된 시간 (틱),Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),tr-TR
+연결 성공,Bağlantı Başarılı,tr-TR
+운영 체제,İşletim Sistemi,tr-TR
+원격 측정 데이터 수집,Ölçüm Verileri Toplama,tr-TR
+원격 후보 유형,Uzak Aday Tipi,tr-TR
+이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,"Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",tr-TR
+이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,tr-TR
+이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,tr-TR
+"이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.","Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).",tr-TR
+"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.","Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",tr-TR
+이벤트 시간 기록 (UTC),Olay Tarih Bilgisi (UTC),tr-TR
+창이 켜지기까지 걸린 시간 (밀리초),Pencere Açılmadan Önceki Süre (Milisaniye),tr-TR
+총 접속 시간 (밀리초),Toplam Bağlanma Süresi (Milisaniye),tr-TR
+총합 로드 시간 (밀리초),Toplam Yükleme Süresi (Milisaniye),tr-TR
+클라이언트 ID,İstemci Kimliği,tr-TR
+클라이언트 모드 여부,Modlanmış İstemci,tr-TR
+포함 데이터,İçerilen Veri,tr-TR
+표본 수,Örnek Sayısı,tr-TR
+프레임률 표본 (fps),Kare Hızı Örnekleri (fps),tr-TR
+플랫폼,Platform,tr-TR
+"플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.","Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.",tr-TR
+피드백 보내기,Geri Bildirim,tr-TR
+피어 투 피어 연결,Peer-to-peer Bağlantı,tr-TR
+할당된 메모리 (kB),Ayrılmış Bellek (kB),tr-TR

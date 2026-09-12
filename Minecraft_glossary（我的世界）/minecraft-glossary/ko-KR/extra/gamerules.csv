@@ -1,0 +1,1493 @@
+﻿source,target,tgt_lng
+A porcentagem de jogadores que devem dormir para passar a noite.,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+Accesso al Nether,네더 허용,ko-KR
+Accès au Nether,네더 허용,ko-KR
+Actions destructives des créatures,파괴적 몹 행위 허용,ko-KR
+Activar la barra localizadora de jugadores,플레이어 위치 표시 바 켜기,ko-KR
+Actualisation du feu loin des joueurs,플레이어로부터 떨어진 불 틱,ko-KR
+Actualisations du monde,세계 갱신,ko-KR
+Actualizaciones del mundo,세계 갱신,ko-KR
+Administratorbefehle protokollieren,관리자 명령 알림,ko-KR
+Advance time of day,시간 흐름,ko-KR
+"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.","흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.","흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Al explotar (criaturas), algunos bloques no soltarán objetos","몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+"Al explotar (por bloques), algunos bloques no soltarán objetos","블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+"Al verificarsi di determinati eventi, come la generazione di un boss, il suono verrà udito globalmente.","보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+Alcune entità potrebbero avere regole separate.,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+Algumas entidades podem ter regras separadas.,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+Algunas entidades pueden tener sus propias reglas.,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de criaturas desaparecen con la explosión.,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de interacciones con bloques desaparecen con la explosión.,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de la dinamita desaparecen con la explosión.,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Allgemeine Verärgerung,무차별적 분노,ko-KR
+Allow destructive mob actions,파괴적 몹 행위 허용,ko-KR
+"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.","탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+Allow Nether,네더 허용,ko-KR
+Allow spectators to generate terrain,관전자의 지형 생성 허용,ko-KR
+Allow TNT to be activated and to explode,TNT의 점화 및 폭발 허용,ko-KR
+Altezza di accumulo della neve,적설 높이,ko-KR
+Altura de acumulación de nieve,적설 높이,ko-KR
+Altura de acumulação de neve,적설 높이,ko-KR
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+Angered neutral mobs stop being angry when the targeted player dies nearby.,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+Announce advancements,발전 과제 알림,ko-KR
+Anunciar comandos de administrador,관리자 명령 알림,ko-KR
+Anunciar progresos,발전 과제 알림,ko-KR
+Anunciar progressos,발전 과제 알림,ko-KR
+Anunciar saída dos Blocos de Comando,명령 블록 출력 알림,ko-KR
+Anında yeniden canlanma,즉시 리스폰,ko-KR
+"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+"Ao ativar, uma barra na tela indica a direção dos jogadores.",켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.","눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+Aplicável às cadeias de blocos de comando e funções.,명령 블록 연쇄와 함수에 해당.,ko-KR
+Apparition,생성,ko-KR
+Apparition des créatures,몹 생성,ko-KR
+Apparition des marchands ambulants,떠돌이 상인 생성,ko-KR
+Apparition des monstres,몬스터 생성,ko-KR
+Apparition des patrouilles de pillards,약탈자 정찰대 생성,ko-KR
+Apparition des Phantoms,팬텀 생성,ko-KR
+Apparition des Wardens,워든 생성,ko-KR
+Applies to command block chains and functions.,명령 블록 연쇄와 함수에 해당.,ko-KR
+Are you sure you want to discard your pending game rule changes?,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+As entidades com passageiros podem atravessar portais,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+Ateş hasarı alma,불 피해,ko-KR
+Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+Ateş yayılabilsin,불 갱신,ko-KR
+Ateş yayılma yarıçapı,불 확산 반지름,ko-KR
+Ativar Barra Localizadora de jogadores,플레이어 위치 표시 바 켜기,ko-KR
+Ativar Blocos de Comando,명령 블록 켜기,ko-KR
+Ativar Blocos Geradores,생성기 블록 켜기,ko-KR
+Ativar invasões,습격 켜기,ko-KR
+Ativar PvP,pvp 켜기,ko-KR
+Atraso do Portal do Nether em modo não Criativo,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+Atraso do Portal do Nether no Modo Criativo,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+Atualizar as regras do jogo requer permissões de operador.,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+Atılabilirler blokları kırabilir,투사체가 블록 파괴 가능,ko-KR
+Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+Atılan Ender İncileri ölünce yok olurlar,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+Ausbeute,떨굼 설정,ko-KR
+Avanzar ciclo de día y noche,시간 흐름,ko-KR
+Azioni distruttive delle creature,파괴적 몹 행위 허용,ko-KR
+Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+Baixando regras do jogo...,게임 규칙 받아오는 중...,ko-KR
+Barra localizzatrice,플레이어 위치 표시 바 켜기,ko-KR
+Barre de localisation,플레이어 위치 표시 바 켜기,ko-KR
+Baskınlar olsun,습격 켜기,ko-KR
+Baskınları kapat,습격 끄기,ko-KR
+Bazı varlıkların ayrı kuralları olabilir.,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+Başlangıç yığınları yarıçapı,스폰 청크 반지름,ko-KR
+Befehlsausgabe anzeigen,명령 피드백 전송,ko-KR
+Befehlsblockausgabe anzeigen,명령 블록 출력 알림,ko-KR
+Befehlsblöcke,명령 블록 켜기,ko-KR
+Begrenzt die Inhalte der Debug‐Anzeige.,디버그 화면의 내용을 제한합니다.,ko-KR
+Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.","보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+"Bist du sicher, dass du die ausstehenden Änderungen der Spielregeln verwerfen möchtest?",저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+Blocchi comandi funzionanti,명령 블록 켜기,ko-KR
+Blockausbeute fallen lassen,블록 떨굼,ko-KR
+Blockgrenze für Befehlsänderungen,명령어의 블록 변경량 제한,ko-KR
+Blockzerstörung durch Geschosse,투사체가 블록 파괴 가능,ko-KR
+Block‐Explosionsausbeute verschwindet,"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Blocs de commande activés,명령 블록 켜기,ko-KR
+"Blok etkileşimi patlamalarında, bazı bloklar düşmesin","블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Bloklar düşsün,블록 떨굼,ko-KR
+Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Boğulma hasarı alma,익사 피해,ko-KR
+Broadcast admin commands,관리자 명령 알림,ko-KR
+Broadcast command block output,명령 블록 출력 알림,ko-KR
+Butin des blocs,블록 떨굼,ko-KR
+Butin des créatures,몹 노획물 떨굼,ko-KR
+Butin des entités,개체 장비 떨굼,ko-KR
+Butins,떨굼 설정,ko-KR
+Bán kính lan lửa,불 확산 반지름,ko-KR
+Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+Bán kính vị trí hồi sinh,리스폰 위치 반지름,ko-KR
+Bán kính đoạn khúc hồi sinh,스폰 청크 반지름,ko-KR
+Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+Bật các cuộc xâm lược,습격 켜기,ko-KR
+Bật khối lệnh,명령 블록 켜기,ko-KR
+Bật khối triệu hồi,생성기 블록 켜기,ko-KR
+Bật PVP,pvp 켜기,ko-KR
+Bật thanh định vị người chơi,플레이어 위치 표시 바 켜기,ko-KR
+Cambiar las reglas del juego requiere permisos de administrador.,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+Cambios en las reglas del juego,게임 규칙 변경 사항,ko-KR
+Canavarlar Oluşsun,몬스터 생성,ko-KR
+Canavarların doğal olarak oluşabilmesini kontrol eder.,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+Canlı ganimeti düşsün,몹 노획물 떨굼,ko-KR
+"Canlı patlamalarında, bazı bloklar düşmesin","몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Canlılar,몹,ko-KR
+Canlılar oluşsun,몹 생성,ko-KR
+Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Canlıların yıkıcı etkilerine izin verilsin,파괴적 몹 행위 허용,ko-KR
+Cannot change game rules in a hardcore world.,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+"Cantidad de bloques que se pueden cambiar a la vez con un solo comando, como «/fill» o «/clone».",fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+Cantidad de chunks que se mantienen cargados alrededor del punto de aparición.,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+Cargar fuego lejos de los jugadores,플레이어로부터 떨어진 불 틱,ko-KR
+Causar dano por afogamento,익사 피해,ko-KR
+Causar dano por congelamento,동상 피해,ko-KR
+Causar dano por fogo,불 피해,ko-KR
+Causar dano por queda,낙하 피해,ko-KR
+Certaines entités peuvent avoir des règles distinctes.,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+Certains butins des blocs détruits par des explosions de créatures sont perdus dans l'explosion.,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Certains butins des blocs détruits par des explosions de TNT sont perdus dans l'explosion.,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Certains butins des blocs détruits par des explosions dues à des interactions de blocs sont perdus dans l'explosion.,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Chat,대화,ko-KR
+Chiều cao tích tụ tuyết,적설 높이,ko-KR
+Cho phép hành động sinh vật phá hoại,파괴적 몹 행위 허용,ko-KR
+Cho phép khán giả tạo địa hình,관전자의 지형 생성 허용,ko-KR
+Cho phép Nether,네더 허용,ko-KR
+"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.","탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+Cho phép TNT được kích hoạt và phát nổ,TNT의 점화 및 폭발 허용,ko-KR
+Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+Chỉnh sửa luật chơi,게임 규칙 수정,ko-KR
+Chỉnh sửa luật chơi...,게임 규칙 수정...,ko-KR
+Ciclo circadiano,시간 흐름,ko-KR
+Ciclo meteorológico,날씨 갱신,ko-KR
+Ciclos do mundo,세계 갱신,ko-KR
+Colère universelle,무차별적 분노,ko-KR
+Combattimento tra giocatori,pvp 켜기,ko-KR
+Command chain size limit,명령 연쇄 크기 제한,ko-KR
+Command context limit,명령어 맥락 제한,ko-KR
+Command modification block limit,명령어의 블록 변경량 제한,ko-KR
+Commandes d'administrateur affichées,관리자 명령 알림,ko-KR
+Comprobar movimiento con élitros,겉날개 움직임 확인하기,ko-KR
+Comprobar movimiento del jugador,플레이어 움직임 확인하기,ko-KR
+"Consenti alle entità con passeggeri di teletrasportarsi attraverso i portali del Nether, i portali dell'End e i varchi dell'End.","탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+Conservation de l'inventaire après la mort,죽음 후 보관함 보존,ko-KR
+Conservazione dell'inventario dopo la morte,죽음 후 보관함 보존,ko-KR
+Controla el tamaño de la zona alrededor del punto de reaparición donde pueden aparecer los jugadores.,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+"Controla que las criaturas puedan soltar recursos, incluyendo orbes de experiencia.",경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Controla que los bloques puedan soltar recursos, incluyendo orbes de experiencia.",경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+Controla si el fuego o la lava deberían estar cargados al estar a más de 8 chunks de distancia de cualquier jugador.,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+Controla si el impacto de proyectiles destruirá bloques a los que normalmente puede destruir.,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+"Controla si las enredaderas se propagan a bloques adyacentes. No afecta otros tipos de enredaderas como enredaderas lacrimosas o enredaderas retorcidas, entre otras.",덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+Controla si los jugadores pueden dañar a otros jugadores o no.,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+Controla si los jugadores pueden entrar en el Nether.,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+Controla si los monstruos aparecen naturalmente o no.,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.","광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+"Controls resource drops from blocks, including experience orbs.",경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Controls resource drops from mobs, including experience orbs.",경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+Controls the size of the area around the spawn point that players can spawn in.,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+Controls whether impact projectiles will destroy blocks that are destructible by them.,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+Controls whether monsters naturally spawn.,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+Controls whether players are allowed to damage other players.,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+Controls whether players are allowed to enter the Nether.,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+"Contrôle la propagation aléatoire des lianes sur les blocs adjacents. Cela n'affecte pas les autres types de lianes tels que les lianes pleureuses, les lianes tortueuses, etc.",덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+Contrôle la taille de la zone autour du point d'apparition dans laquelle les joueurs peuvent apparaître.,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+"Contrôle les butins des blocs, y compris les orbes d'expérience.",경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Contrôle les butins des créatures, y compris les orbes d'expérience.",경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Contrôle les butins des wagonnets (y compris leur inventaire), des cadres, des bateaux, etc.","광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+Contrôle si le feu et la lave peuvent s'actualiser à plus de 8 chunks de n'importe quel joueur.,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+Contrôle si les joueurs peuvent entrer dans le Nether.,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+Contrôle si les joueurs peuvent infliger des dégâts aux autres joueurs.,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+Contrôle si les monstres apparaissent naturellement.,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+Contrôle si les perles de l'Ender lancées par un joueur disparaissent lorsque celui-ci meurt.,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+Contrôle si les projectiles détruisent les blocs destructibles par ceux-ci à l'impact.,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+Conversione d'acqua in sorgente,물이 원천으로 바뀜,ko-KR
+Conversione di lava in sorgente,용암이 원천으로 바뀜,ko-KR
+Creature,몹,ko-KR
+Creature,몹 생성,ko-KR
+Criaturas,몹,ko-KR
+Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+Créatures,몹,ko-KR
+"Cuando está activada, se muestra una barra en la pantalla que indica la dirección de otros jugadores.",켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+"Cuando nieva, se forma este número máximo de capas de nieve en el suelo.","눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+"Cuando se producen ciertos eventos durante la partida, como que aparezca un jefe, el sonido se escucha en todas partes.","보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+"Cuando una corriente de agua está rodeada de más agua por dos de sus lados, se convierte en una fuente.","흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Cuando una corriente de lava está rodeada de más lava por dos de sus lados, se convierte en una fuente.","흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+Cycle jour-nuit,시간 흐름,ko-KR
+Cycle météorologique,날씨 갱신,ko-KR
+Cập nhật luật chơi yêu cầu quyền người điều hành.,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+Cập nhật lửa,불 갱신,ko-KR
+Cập nhật thế giới,세계 갱신,ko-KR
+Cập nhật thời tiết,날씨 갱신,ko-KR
+Danno da annegamento,익사 피해,ko-KR
+Danno da bruciatura,불 피해,ko-KR
+Danno da caduta,낙하 피해,ko-KR
+Danno da congelamento,동상 피해,ko-KR
+Das Ändern der Spielregeln erfordert Operatorrechte.,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+Daño por ahogamiento,익사 피해,ko-KR
+Daño por caída,낙하 피해,ko-KR
+Daño por congelamiento,동상 피해,ko-KR
+Daño por fuego,불 피해,ko-KR
+Deal drowning damage,익사 피해,ko-KR
+Deal fall damage,낙하 피해,ko-KR
+Deal fire damage,불 피해,ko-KR
+Deal freeze damage,동상 피해,ko-KR
+Debug‐Infos reduzieren,디버그 정보 축소,ko-KR
+Default: %s,기본값: %s,ko-KR
+"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+Define o tamanho do ponto de renascimento dos jogadores.,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+"Define os itens largados pelos blocos, incluindo as esferas de experiência.",경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.","광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+"Define os itens largados por criaturas, incluindo as esferas de experiência.",경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+Define se os jogadores podem atacar outros jogadores.,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+Define se os jogadores podem entrar no Nether.,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+Define se os monstros podem ser gerados naturalmente.,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+Demora para teletransportarse al Nether en creativo,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+Demora para teletransportarse al Nether por defecto,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+"Der Prozentsatz an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.",밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+"Der Radius in Blöcken um einen Spieler, in dem sich Feuer ausbreiten kann.",플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+Desactivar control de movimiento de los jugadores,플레이어 움직임 확인 끄기,ko-KR
+Desactivar control de movimiento de élitros,겉날개 움직임 확인 끄기,ko-KR
+Desactivar invasiones,습격 끄기,ko-KR
+Desativar invasões,습격 끄기,ko-KR
+Desativar verificação de movimento do jogador,플레이어 움직임 확인 끄기,ko-KR
+Desativar verificação de movimento dos Élitros,겉날개 움직임 확인 끄기,ko-KR
+Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+Destruction des blocs par des projectiles,투사체가 블록 파괴 가능,ko-KR
+Destruir Pérolas de Ender lançadas ao morrer,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+"Determina i rilasci dei vagonetti (compresi gli inventari), delle cornici, delle barche ecc.","광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+Determina la dimensione dell'area intorno al punto di generazione dei giocatori.,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+Determina la propagazione casuale dei rampicanti verso i blocchi adiacenti. Non ha effetto sugli altri tipi di rampicanti (come i rampicanti piangenti o i rampicanti attorcigliati).,덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+"Determina le risorse che vengono rilasciate dalle creature, comprese le sfere di esperienza.",경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Determina le risorse rilasciate dai blocchi, comprese le sfere di esperienza.",경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+Determina se i giocatori possono entrare nel Nether attraverso i portali.,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+Determina se i giocatori possono infliggere danno agli altri giocatori.,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+Determina se i mostri si generano naturalmente.,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+Determina se i proiettili da impatto possono distruggere i blocchi vulnerabili.,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+Determina se il fuoco e la lava sono attivi anche a una distanza maggiore di 8 chunk da ogni giocatore.,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+"Die Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.",fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+"Die Anzahl der Chunks um den Einstiegspunkt in der Oberwelt, die dauerhaft geladen bleiben.",오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+Die Spielregeln können in einer Hardcore‐Welt nicht angepasst werden.,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+Disable elytra movement check,겉날개 움직임 확인 끄기,ko-KR
+Disable player movement check,플레이어 움직임 확인 끄기,ko-KR
+Disable raids,습격 끄기,ko-KR
+Disparition des perles de l'Ender lancées à la mort,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+Distruzione dei blocchi tramite proiettili,투사체가 블록 파괴 가능,ko-KR
+Divers,기타,ko-KR
+Diversos,기타,ko-KR
+Do elytra movement check,겉날개 움직임 확인하기,ko-KR
+Do player movement check,플레이어 움직임 확인하기,ko-KR
+Do raids,습격 켜기,ko-KR
+Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+Donma hasarı alma,동상 피해,ko-KR
+Drop blocks,블록 떨굼,ko-KR
+Drop entity equipment,개체 장비 떨굼,ko-KR
+Drop mob loot,몹 노획물 떨굼,ko-KR
+Drops,떨굼 설정,ko-KR
+Dung nham chuyển thành nguồn,용암이 원천으로 바뀜,ko-KR
+Dây leo lan ra,덩굴 퍼짐,ko-KR
+Dégâts de chute,낙하 피해,ko-KR
+Dégâts de feu,불 피해,ko-KR
+Dégâts de gel,동상 피해,ko-KR
+Dégâts de noyade,익사 피해,ko-KR
+Délai du portail du Nether,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+Délai du portail du Nether en mode Créatif,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+Dünyadaki Hareketler,세계 갱신,ko-KR
+Düşenler,떨굼 설정,ko-KR
+Düşme hasarı alma,낙하 피해,ko-KR
+Edit Game Rules,게임 규칙 수정,ko-KR
+Edit Game Rules...,게임 규칙 수정...,ko-KR
+Editar las reglas del juego,게임 규칙 수정,ko-KR
+Editar las reglas del juego...,게임 규칙 수정...,ko-KR
+Editar regras do jogo,게임 규칙 수정,ko-KR
+Editar regras do jogo...,게임 규칙 수정...,ko-KR
+"Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.","블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+"Einiges von der Ausbeute von Blöcken, die durch TNT‐Explosionen zerstört werden, geht dabei verloren.","TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+"Einiges von der Ausbeute von Blöcken, die durch von Kreaturen verursachte Explosionen zerstört werden, geht dabei verloren.","몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Einstiegs‐Chunk‐Radius,스폰 청크 반지름,ko-KR
+El agua se convierte en fuente,물이 원천으로 바뀜,ko-KR
+El número máximo de contextos que se pueden utilizar en comandos como «execute as».,'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+El porcentaje necesario de jugadores que deben dormir para pasar la noche.,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+El radio en bloques alrededor de un jugador en el que el fuego puede expandirse,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+Elitra hareket hızı kontrolünü kapat,겉날개 움직임 확인 끄기,ko-KR
+Elitra hareketini denetle,겉날개 움직임 확인하기,ko-KR
+Elytrenflug nicht überprüfen,겉날개 움직임 확인 끄기,ko-KR
+Elytren‐Bewegungsprüfung,겉날개 움직임 확인하기,ko-KR
+"En explosiones por dinamita, algunos bloques no soltarán objetos","TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+En yüksek vagon hızı,광산 수레 최고 속도,ko-KR
+Enable Command Blocks,명령 블록 켜기,ko-KR
+Enable player Locator Bar,플레이어 위치 표시 바 켜기,ko-KR
+Enable pvp,pvp 켜기,ko-KR
+Enable Spawner Blocks,생성기 블록 켜기,ko-KR
+Enderperlen‐Mitleidenschaft,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+Entities with passengers can use portals,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+Entity cramming threshold,개체 중첩 한계,ko-KR
+Entzünden und Explodieren von TNT,TNT의 점화 및 폭발 허용,ko-KR
+Enviar respuestas de comandos,명령 피드백 전송,ko-KR
+Erfrierungsschaden,동상 피해,ko-KR
+"Ermöglicht es Objekten mit Passagieren, sich durch Nether‐, End‐ und Endtransitportale zu teleportieren.","탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+Erzeugung,생성,ko-KR
+Esito dei blocchi comandi,명령 블록 출력 알림,ko-KR
+Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+Eventi sonori globali,전역 소리 이벤트,ko-KR
+Eventos de sonido globales,전역 소리 이벤트,ko-KR
+Eventos sonoros globais,전역 소리 이벤트,ko-KR
+Evrensel öfke,무차별적 분노,ko-KR
+Exigir receitas para fabricação,제작에 제작법 필요,ko-KR
+Exigir recetas para poder fabricar,제작에 제작법 필요,ko-KR
+Explosion de TNT,TNT의 점화 및 폭발 허용,ko-KR
+Fabbricazione limitata,제작에 제작법 필요,ko-KR
+Fahrende Händler erzeugen,떠돌이 상인 생성,ko-KR
+Fallschaden,낙하 피해,ko-KR
+Fantasmi,팬텀 생성,ko-KR
+Feuerausbreitung,불 갱신,ko-KR
+Feuerausbreitungs‐Radius,불 확산 반지름,ko-KR
+Feuerschaden,불 피해,ko-KR
+fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+Fire spread radius,불 확산 반지름,ko-KR
+Forgive dead players,죽은 플레이어 용서,ko-KR
+Fortschritte bekannt geben,발전 과제 알림,ko-KR
+Frequenza dei tick casuali,랜덤 틱 속도 비율,ko-KR
+Fúria universal,무차별적 분노,ko-KR
+Für einige Objekte können eigene Regeln gelten.,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+Game Rule Changes,게임 규칙 변경 사항,ko-KR
+Gece-gündüz döngüsü olsun,시간 흐름,ko-KR
+Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+Gelişimler gösterilsin,발전 과제 알림,ko-KR
+Generación de criaturas,생성,ko-KR
+Generar bandas de saqueadores,약탈자 정찰대 생성,ko-KR
+Generar criaturas,몹 생성,ko-KR
+Generar fantasmas,팬텀 생성,ko-KR
+Generar monstruos,몬스터 생성,ko-KR
+Generar terreno en modo espectador,관전자의 지형 생성 허용,ko-KR
+Generar vendedores ambulantes,떠돌이 상인 생성,ko-KR
+Generar wardens,워든 생성,ko-KR
+Generatori funzionanti,생성기 블록 켜기,ko-KR
+Generazione,생성,ko-KR
+Generazione di terreno da parte degli spettatori,관전자의 지형 생성 허용,ko-KR
+Gerar criaturas,몹 생성,ko-KR
+Gerar Defensores,워든 생성,ko-KR
+Gerar Espectros,팬텀 생성,ko-KR
+Gerar Mercadores Ambulantes,떠돌이 상인 생성,ko-KR
+Gerar monstros,몬스터 생성,ko-KR
+Gerar patrulhas de Saqueadores,약탈자 정찰대 생성,ko-KR
+Gerar terreno para os espectadores,관전자의 지형 생성 허용,ko-KR
+Geração,생성,ko-KR
+Gestorbenen Spielern vergeben,죽은 플레이어 용서,ko-KR
+Gesundheit regenerieren,생명력 재생,ko-KR
+Giocatore,플레이어,ko-KR
+Giảm thông tin gỡ lỗi,디버그 정보 축소,ko-KR
+Giận dữ toàn diện,무차별적 분노,ko-KR
+Giới hạn kích cỡ chuỗi lệnh,명령 연쇄 크기 제한,ko-KR
+Giới hạn ngữ cảnh lệnh,명령어 맥락 제한,ko-KR
+Giới hạn nội dung của màn hình gỡ lỗi.,디버그 화면의 내용을 제한합니다.,ko-KR
+Giới hạn số khối sửa đổi bởi lệnh,명령어의 블록 변경량 제한,ko-KR
+Giữ túi đồ sau khi chết,죽음 후 보관함 보존,ko-KR
+Global sound events,전역 소리 이벤트,ko-KR
+Gây sát thương lửa,불 피해,ko-KR
+Gây sát thương rơi,낙하 피해,ko-KR
+Gây sát thương đuối nước,익사 피해,ko-KR
+Gây sát thương đóng băng,동상 피해,ko-KR
+Générateurs activés,생성기 블록 켜기,ko-KR
+Génération du terrain par les spectateurs,관전자의 지형 생성 허용,ko-KR
+Gửi phản hồi về lệnh,명령 피드백 전송,ko-KR
+Hata ayıklama bilgisini azalt,디버그 정보 축소,ko-KR
+Hata ayıklama ekranı içeriğini kısıtlar.,디버그 화면의 내용을 제한합니다.,ko-KR
+Hauteur d'accumulation de la neige,적설 높이,ko-KR
+Hava durumu döngüsü olsun,날씨 갱신,ko-KR
+Hiển thị thông báo chết,죽음 문구 표시,ko-KR
+Häufigkeit von Zufallsereignissen,랜덤 틱 속도 비율,ko-KR
+"Höchstgeschwindigkeit, die eine Lore an Land standardmäßig erreichen kann.",땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+Hồi phục sinh lực,생명력 재생,ko-KR
+"If enabled, players will be able to craft only unlocked recipes.",이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+Il raggio in blocchi intorno a un giocatore entro cui il fuoco può propagarsi,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+Impossible de modifier les règles de jeu dans un monde Hardcore.,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+"In block interaction explosions, some blocks won't drop their loot","블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+"In mob explosions, some blocks won't drop their loot","몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+"In TNT explosions, some blocks won't drop their loot","TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Incursioni,습격 켜기,ko-KR
+Incursioni disattivate,습격 끄기,ko-KR
+Informazioni diagnostiche ridotte,디버그 정보 축소,ko-KR
+Infos de débogage réduites,디버그 정보 축소,ko-KR
+Innesco ed esplosione di TNT,TNT의 점화 및 폭발 허용,ko-KR
+Invasiones,습격 켜기,ko-KR
+Invasions,습격 켜기,ko-KR
+Invasions désactivées,습격 끄기,ko-KR
+Inventar nach dem Tod behalten,죽음 후 보관함 보존,ko-KR
+Ira universal,무차별적 분노,ko-KR
+Itens largados,떨굼 설정,ko-KR
+Jogador,플레이어,ko-KR
+Joueur,플레이어,ko-KR
+Joueurs morts pardonnés,죽은 플레이어 용서,ko-KR
+Jugador,플레이어,ko-KR
+Kar birikme yüksekliği,적설 높이,ko-KR
+"Kar yağdığında, zeminde birikecek kar katmanı sayısı.","눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+Keep inventory after death,죽음 후 보관함 보존,ko-KR
+"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.","흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.","보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.","흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.","눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+Khác,기타,ko-KR
+Không thể thay đổi luật chơi trong thế giới siêu khó.,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+Kiểm soát người chơi được phép vào Nether hay không.,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+Kiểm soát quái vật sinh ra tự nhiên hay không.,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.","광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+Kiểm tra chuyển động của cánh cứng,겉날개 움직임 확인하기,ko-KR
+Kiểm tra chuyển động của người chơi,플레이어 움직임 확인하기,ko-KR
+Komut bağlam limiti,명령어 맥락 제한,ko-KR
+Komut Bloklarını Etkinleştir,명령 블록 켜기,ko-KR
+Komut bloğu zincirleri ve fonksiyonlar için geçerli.,명령 블록 연쇄와 함수에 해당.,ko-KR
+Komut bloğu çıktıları gösterilsin,명령 블록 출력 알림,ko-KR
+Komut değişikliği blok sınırı,명령어의 블록 변경량 제한,ko-KR
+Komut geri bildirimi gösterilsin,명령 피드백 전송,ko-KR
+Komut zinciri uzunluk sınırı,명령 연쇄 크기 제한,ko-KR
+Kreaturen,몹,ko-KR
+Kreaturen erzeugen,몹 생성,ko-KR
+Kreaturenausbeute fallen lassen,몹 노획물 떨굼,ko-KR
+Kreatur‐Explosionsausbeute verschwindet,"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Kâbuslar oluşsun,팬텀 생성,ko-KR
+Küresel ses olayları,전역 소리 이벤트,ko-KR
+La lava se convierte en fuente,용암이 원천으로 바뀜,ko-KR
+La mise à jour des règles de jeu nécessite des permissions d'opérateur.,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+La percentuale di giocatori che devono dormire per saltare la notte.,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+La vitesse maximale par défaut des wagonnets en mouvement sur le sol.,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+Largar blocos,블록 떨굼,ko-KR
+Largar itens de criaturas,몹 노획물 떨굼,ko-KR
+Largar itens de entidades,개체 장비 떨굼,ko-KR
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar.
+Funciona mejor si «Perdonar jugadores muertos» se desactiva.",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar. Funciona mejor si «Perdonar jugadores muertos» se desactiva.",분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+Las criaturas neutrales que estén enfadadas dejarán de estarlo cuando el jugador al que persigan muera cerca.,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+Las entidades con pasajeros pueden utilizar portales,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+Las perlas de ender lanzadas desaparecen al morir,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+Las perlas de ender lanzadas por un jugador desaparecen cuando este muere.,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+"Lav, kaynağa dönüşsün",용암이 원천으로 바뀜,ko-KR
+Lava converts to source,용암이 원천으로 바뀜,ko-KR
+Lava‐Erneuerbarkeit,용암이 원천으로 바뀜,ko-KR
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgive_dead_players» è disattivata.",분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgiveDeadPlayers» è disattivata.",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+Le creature neutrali che sono state provocate smettono di essere arrabbiate quando il giocatore puntato muore nelle vicinanze.,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+Le entità con passeggeri possono attraversare i portali,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+"Le nombre de blocs qui peuvent être modifiés à la fois par une commande, telle que /fill ou /clone.",fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+Le nombre de chunks qui restent chargés autour du point d'apparition de la Surface.,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+"Le nombre maximal de contextes qui peuvent être utilisés par des commandes telles que ""execute as"".",'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+Le pourcentage de joueurs qui doivent dormir pour passer la nuit.,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+Le rayon (en blocs) autour d'un joueur dans lequel le feu peut se propager.,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+Le regole di gioco possono essere cambiate solo dagli operatori.,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+Le regole di gioco sono bloccate nei mondi in modalità estrema.,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+Le temps (en ticks) pendant lequel un joueur en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Le temps (en ticks) pendant lequel un joueur qui n'est pas en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgive_dead_players"" est désactivée.",분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgiveDeadPlayers"" est désactivée.",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+Les créatures neutres en colère redeviennent calmes lorsque le joueur ciblé meurt à proximité.,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+Limita el contenido de la pantalla de desarrollo al pulsar F3.,디버그 화면의 내용을 제한합니다.,ko-KR
+Limita il contenuto del cruscotto diagnostico.,디버그 화면의 내용을 제한합니다.,ko-KR
+Limite d'ammassamento delle entità,개체 중첩 한계,ko-KR
+Limite d'entassement des entités,개체 중첩 한계,ko-KR
+Limite de blocos modificados por comando,명령어의 블록 변경량 제한,ko-KR
+Limite de blocs modifiables par commande,명령어의 블록 변경량 제한,ko-KR
+Limite de comandos em cadeia,명령 연쇄 크기 제한,ko-KR
+Limite de contextes des commandes,명령어 맥락 제한,ko-KR
+Limite de contextos por comando,명령어 맥락 제한,ko-KR
+Limite dei blocchi modificabili per comando,명령어의 블록 변경량 제한,ko-KR
+Limite dei contesti dei comandi,명령어 맥락 제한,ko-KR
+Limite delle catene di comandi,명령 연쇄 크기 제한,ko-KR
+Limite des chaînes de commandes,명령 연쇄 크기 제한,ko-KR
+Limite le contenu de l'écran de débogage.,디버그 화면의 내용을 제한합니다.,ko-KR
+Limits contents of debug screen.,디버그 화면의 내용을 제한합니다.,ko-KR
+Loren‐Höchstgeschwindigkeit,광산 수레 최고 속도,ko-KR
+"Lorsqu'il neige, les couches de neige qui se forment sur le sol peuvent atteindre cette hauteur.","눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+"Lorsqu'un écoulement d'eau est entouré de deux sources d'eau, il se transforme en source.","흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Lorsqu'un écoulement de lave est entouré de deux sources de lave, il se transforme en source.","흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Lorsque certains événements se produisent dans le jeu, comme l'apparition d'un boss, le son est entendu partout.","보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+Los proyectiles pueden romper bloques,투사체가 블록 파괴 가능,ko-KR
+Límite de bloques modificables por comandos,명령어의 블록 변경량 제한,ko-KR
+Límite de comandos encadenados,명령 연쇄 크기 제한,ko-KR
+Límite de contextos del comando,명령어 맥락 제한,ko-KR
+Límite de entidades por bloque,개체 중첩 한계,ko-KR
+Lập tức hồi sinh,즉시 리스폰,ko-KR
+Mantener inventario tras morir,죽음 후 보관함 보존,ko-KR
+Manter o inventário ao morrer,죽음 후 보관함 보존,ko-KR
+"Maximale Anzahl an Befehlsrahmen, die von Befehlen wie „execute as“ benutzt werden können.",'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+Maximum default speed of a moving Minecart on land.,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+Maximum number of contexts that can be used by commands like 'execute as'.,'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+Mercanti ambulanti,떠돌이 상인 생성,ko-KR
+Messages de mort,죽음 문구 표시,ko-KR
+Messaggi di morte,죽음 문구 표시,ko-KR
+Minecart max speed,광산 수레 최고 속도,ko-KR
+Miscellaneous,기타,ko-KR
+Mob,몹,ko-KR
+Mobs,몹,ko-KR
+Mobがアイテムや経験値オーブをドロップするかを設定できます。,경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Mobのアイテムのドロップ,몹 노획물 떨굼,ko-KR
+Mobのスポーン,몹 생성,ko-KR
+Mobの破壊行動の許可,파괴적 몹 행위 허용,ko-KR
+Mob爆発時にブロックがドロップアイテムを落とさない可能性,"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Modifica le regole di gioco,게임 규칙 수정,ko-KR
+Modification des règles de jeu,게임 규칙 수정,ko-KR
+Modifications des règles de jeu,게임 규칙 변경 사항,ko-KR
+Monster erzeugen,몬스터 생성,ko-KR
+Mostrar mensagens de morte,죽음 문구 표시,ko-KR
+Mostrar mensajes de muerte,죽음 문구 표시,ko-KR
+Mostrar respostas dos comandos,명령 피드백 전송,ko-KR
+Mostri,몬스터 생성,ko-KR
+Mudanças nas regras do jogo,게임 규칙 변경 사항,ko-KR
+Muhafızlar oluşsun,워든 생성,ko-KR
+Mặc định: %s,기본값: %s,ko-KR
+Một vài thực thể có thể sẽ có luật riêng biệt.,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Natura,세계 갱신,ko-KR
+Nether'a İzin Ver,네더 허용,ko-KR
+Netherportal‐Verzögerung,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+Netherportal‐Verzögerung im Kreativmodus,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+Netherportal‐Zugang,네더 허용,ko-KR
+Người chơi,플레이어,ko-KR
+Ngưỡng nhồi nhét thực thể,개체 중첩 한계,ko-KR
+Ngọc Ender được ném ra biến mất khi chết,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+No se pueden cambiar las reglas del juego en modo extremo.,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+Notificar uso de bloques de comandos,명령 블록 출력 알림,ko-KR
+Notificar uso de comandos de admin.,관리자 명령 알림,ko-KR
+Numero di chunk che rimangono caricati intorno al punto di generazione globale.,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+Numero massimo di blocchi che possono essere cambiati contemporaneamente da un solo comando (come «/fill» o «/clone»).,fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+Numero massimo di contesti che possono essere usati da comandi come «/execute as».,'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+Não largar todos os itens com explosões de blocos,"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Não largar todos os itens com explosões de criaturas,"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Não largar todos os itens com explosões de TNT,"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+Número máximo de entidades agrupadas,개체 중첩 한계,ko-KR
+Nước chuyển thành nguồn,물이 원천으로 바뀜,ko-KR
+"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+Obergrenze für Befehlsketten,명령 연쇄 크기 제한,ko-KR
+Obergrenze für Befehlsrahmen,명령어 맥락 제한,ko-KR
+Obergrenze für Objektgedränge,개체 중첩 한계,ko-KR
+Objektausbeute fallen lassen,개체 장비 떨굼,ko-KR
+Obtención de objetos,떨굼 설정,ko-KR
+Obtener botín de criaturas,몹 노획물 떨굼,ko-KR
+Obteniendo las reglas del juego...,게임 규칙 받아오는 중...,ko-KR
+Oluşum,생성,ko-KR
+Oyun kuralları alınıyor,게임 규칙 받아오는 중...,ko-KR
+Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+Oyun Kurallarını Düzenle,게임 규칙 수정,ko-KR
+Oyun Kurallarını Düzenle...,게임 규칙 수정...,ko-KR
+Oyun Kuralı Değişiklikleri,게임 규칙 변경 사항,ko-KR
+Oyuncu,플레이어,ko-KR
+Oyuncu etrafında ateş yayılabilen blok yarıçapı.,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+Oyuncu hareket denetimini kapat,플레이어 움직임 확인 끄기,ko-KR
+Oyuncu hareketini denetle,플레이어 움직임 확인하기,ko-KR
+Oyuncu Konum Çubuğunu aç,플레이어 위치 표시 바 켜기,ko-KR
+Oyunculardan uzakta ateş yayılabilsin,플레이어로부터 떨어진 불 틱,ko-KR
+Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+Oyuncuların Nether'a girebilmesini kontrol eder.,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+Padrão: %s,기본값: %s,ko-KR
+Par défaut : %s,기본값: %s,ko-KR
+Pattuglie di predoni,약탈자 정찰대 생성,ko-KR
+Percentuale di giocatori addormentati,취침 비율,ko-KR
+Perdita dei rilasci con le esplosioni dei blocchi,"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Perdita dei rilasci con le esplosioni delle creature,"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Perdita dei rilasci con le esplosioni di TNT,"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Perdoar jogadores mortos,죽은 플레이어 용서,ko-KR
+Perdonar jugadores muertos,죽은 플레이어 용서,ko-KR
+Perdono dei giocatori morti,죽은 플레이어 용서,ko-KR
+"Permet aux entités avec des passagers de se téléporter au travers des portails du Nether et de l'End, et des passerelles de l'End.","탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+"Permite a las entidades viajar con pasajeros a través de portales del Nether, del End y nexos del End.","탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.","탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+"Permite que se recupere una entidad al romperla. Afecta a vagonetas (incluyendo sus inventarios), marcos, barcas, etc.","광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+Permitir acesso ao Nether,네더 허용,ko-KR
+Permitir ativação e explosão de TNT,TNT의 점화 및 폭발 허용,ko-KR
+Permitir ações destrutivas de criaturas,파괴적 몹 행위 허용,ko-KR
+Permitir bloques de comandos,명령 블록 켜기,ko-KR
+Permitir explosiones de dinamita,TNT의 점화 및 폭발 허용,ko-KR
+Permitir generadores de criaturas,생성기 블록 켜기,ko-KR
+Permitir JcJ (PvP),pvp 켜기,ko-KR
+Permitir Nether,네더 허용,ko-KR
+Permitir que las criaturas destruyan,파괴적 몹 행위 허용,ko-KR
+Perte de butin dans les explosions de blocs,"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Perte de butin dans les explosions de créatures,"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Perte de butin dans les explosions de TNT,"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Phantome erzeugen,팬텀 생성,ko-KR
+Player,플레이어,ko-KR
+Player's Nether Portal delay in creative mode,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+Player's Nether Portal delay in non-creative mode,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+Plünderer‐Patrouillen erzeugen,약탈자 정찰대 생성,ko-KR
+Por defecto: %s,기본값: %s,ko-KR
+Porcentagem de sono,취침 비율,ko-KR
+Porcentaje de jugadores para dormir,취침 비율,ko-KR
+Portalnutzung durch Objekte mit Passagieren,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+Pourcentage de joueurs endormis,취침 비율,ko-KR
+Predefinito: %s,기본값: %s,ko-KR
+Progressi annunciati,발전 과제 알림,ko-KR
+Progrès annoncés,발전 과제 알림,ko-KR
+Projectiles can break blocks,투사체가 블록 파괴 가능,ko-KR
+Propagación de enredaderas,덩굴 퍼짐,ko-KR
+Propagación del fuego,불 갱신,ko-KR
+Propagation des lianes,덩굴 퍼짐,ko-KR
+Propagation du feu,불 갱신,ko-KR
+Propagazione dei rampicanti,덩굴 퍼짐,ko-KR
+Propagazione del fuoco,불 갱신,ko-KR
+Propagazione distante del fuoco,플레이어로부터 떨어진 불 틱,ko-KR
+Propagação de trepadeiras,덩굴 퍼짐,ko-KR
+Propagação distante de fogo,플레이어로부터 떨어진 불 틱,ko-KR
+Propagação do fogo,불 갱신,ko-KR
+PvP,pvp 켜기,ko-KR
+Pvp'yi etkinleştir,pvp 켜기,ko-KR
+PvPの有効化,pvp 켜기,ko-KR
+"Quando attiva, viene mostrata una barra sullo schermo per indicare la posizione dei giocatori.",켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.","보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+"Quando il TNT causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.","TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+"Quando l'acqua corrente è circondata da sorgenti d'acqua su due lati, si trasforma in sorgente.","흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Quando l'interazione con blocchi causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.","블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+"Quando la lava colante è circondata da sorgenti di lava su due lati, si trasforma in sorgente.","흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Quando le creature causano esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.","몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+"Quando nevica, la neve si accumulerà a terra fino al numero massimo di strati specificato.","눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+Quebrar blocos com projéteis,투사체가 블록 파괴 가능,ko-KR
+Rabbia generale,무차별적 분노,ko-KR
+Radio de propagación del fuego,불 확산 반지름,ko-KR
+Radio del punto de reaparición,리스폰 위치 반지름,ko-KR
+Radio del punto de reaparición,스폰 청크 반지름,ko-KR
+Radius des Wiedereinstiegsbereichs,리스폰 위치 반지름,ko-KR
+Raggio dei chunk di generazione,스폰 청크 반지름,ko-KR
+Raggio del punto di rinascita,리스폰 위치 반지름,ko-KR
+Raggio di propagazione del fuoco intorno al giocatore,불 확산 반지름,ko-KR
+Raio de propagação do fogo,불 확산 반지름,ko-KR
+Raio do ponto de renascimento,리스폰 위치 반지름,ko-KR
+Raio dos chunks ao renascer,스폰 청크 반지름,ko-KR
+Random tick speed rate,랜덤 틱 속도 비율,ko-KR
+Rankenausbreitung,덩굴 퍼짐,ko-KR
+Rastgele zaman birimi ilerleme oranı,랜덤 틱 속도 비율,ko-KR
+Rayon de la zone de réapparition,리스폰 위치 반지름,ko-KR
+Rayon de propagation du feu,불 확산 반지름,ko-KR
+Rayon des chunks d'apparition,스폰 청크 반지름,ko-KR
+Reaparición instantánea,즉시 리스폰,ko-KR
+Recette requise pour fabriquer,제작에 제작법 필요,ko-KR
+Recupero delle regole di gioco...,게임 규칙 받아오는 중...,ko-KR
+Reduce debug info,디버그 정보 축소,ko-KR
+Reducir datos de F3,디버그 정보 축소,ko-KR
+Reduz o conteúdo da tela de depuração.,디버그 화면의 내용을 제한합니다.,ko-KR
+Reduzir informações de depuração,디버그 정보 축소,ko-KR
+Regenerar salud,생명력 재생,ko-KR
+Regenerar vida,생명력 재생,ko-KR
+Regenerate health,생명력 재생,ko-KR
+Registrazione dei comandi degli operatori,관리자 명령 알림,ko-KR
+Regole di gioco,게임 규칙 변경 사항,ko-KR
+Regole di gioco...,게임 규칙 수정...,ko-KR
+Renascer imediatamente,즉시 리스폰,ko-KR
+Require recipe for crafting,제작에 제작법 필요,ko-KR
+Respawn immediately,즉시 리스폰,ko-KR
+Respawn location radius,리스폰 위치 반지름,ko-KR
+Retrieving game rules...,게임 규칙 받아오는 중...,ko-KR
+Rezepte zur Herstellung benötigt,제작에 제작법 필요,ko-KR
+Rigenerazione della salute,생명력 재생,ko-KR
+Rilasci,떨굼 설정,ko-KR
+Rilasci dei blocchi,블록 떨굼,ko-KR
+Rilasci delle creature,몹 노획물 떨굼,ko-KR
+Rilasci delle entità,개체 장비 떨굼,ko-KR
+Rinascita immediata,즉시 리스폰,ko-KR
+Risposte dei comandi,명령 피드백 전송,ko-KR
+Ritardo dei portali del Nether,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+Ritardo dei portali del Nether in modalità creativa,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+Règles de jeu...,게임 규칙 수정...,ko-KR
+Réapparition immédiate,즉시 리스폰,ko-KR
+Récupération des règles de jeu...,게임 규칙 받아오는 중...,ko-KR
+Régénération de la vie,생명력 재생,ko-KR
+Résultat des commandes,명령 피드백 전송,ko-KR
+Rơi ra,떨굼 설정,ko-KR
+Rơi ra khối,블록 떨굼,ko-KR
+Rơi ra lợi phẩm của sinh vật,몹 노획물 떨굼,ko-KR
+Rơi ra trang bị của thực thể,개체 장비 떨굼,ko-KR
+S'applique aux blocs de commande en chaîne et aux fonctions.,명령 블록 연쇄와 함수에 해당.,ko-KR
+"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+Sarmaşıklar yayılsın,덩굴 퍼짐,ko-KR
+Sağlık yenilensin,생명력 재생,ko-KR
+Schaden durch Ertrinken,익사 피해,ko-KR
+Schlafquote,취침 비율,ko-KR
+Schneedeckenhöhe,적설 높이,ko-KR
+Scomparsa alla morte delle perle di ender già lanciate,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+Se aplica a las cadenas de bloques de comandos y funciones.,명령 블록 연쇄와 함수에 해당.,ko-KR
+"Se attivata, i giocatori possono fabbricare oggetti solo seguendo le ricette sbloccate.",이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+Send command feedback,명령 피드백 전송,ko-KR
+Seyircilerin arazi oluşturmasına izin verilsin,관전자의 지형 생성 허용,ko-KR
+Seyyar Tüccarlar oluşsun,떠돌이 상인 생성,ko-KR
+Show death messages,죽음 문구 표시,ko-KR
+"Si activée, les joueurs ne pourront fabriquer qu'à partir des recettes débloquées.",이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+"Si activée, une barre s'affiche à l'écran pour indiquer la position des joueurs.",켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+Si applica a blocchi comandi a catena e funzioni.,명령 블록 연쇄와 함수에 해당.,ko-KR
+"Si se activa, solo se podrán fabricar recetas aprendidas.",이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+Sinh ra,생성,ko-KR
+Sinh ra kẻ cai ngục,워든 생성,ko-KR
+Sinh ra kẻ cướp tuần tra,약탈자 정찰대 생성,ko-KR
+Sinh ra phantom,팬텀 생성,ko-KR
+Sinh ra quái vật,몬스터 생성,ko-KR
+Sinh ra sinh vật,몹 생성,ko-KR
+Sinh ra thương nhân lang thang,떠돌이 상인 생성,ko-KR
+Sinh vật,몹,ko-KR
+Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+Sleep percentage,취침 비율,ko-KR
+Snow accumulation height,적설 높이,ko-KR
+Sofortiger Wiedereinstieg,즉시 리스폰,ko-KR
+Sohbet,대화,ko-KR
+Soltar objetos al romper bloques,블록 떨굼,ko-KR
+Soltar objetos al romper entidades,개체 장비 떨굼,ko-KR
+Some entities might have separate rules.,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+Sortie des blocs de commande,명령 블록 출력 알림,ko-KR
+Sorveglianti,워든 생성,ko-KR
+Spawn chunk radius,스폰 청크 반지름,ko-KR
+Spawn mobs,몹 생성,ko-KR
+Spawn Monsters,몬스터 생성,ko-KR
+Spawn phantoms,팬텀 생성,ko-KR
+Spawn pillager patrols,약탈자 정찰대 생성,ko-KR
+Spawn Wandering Traders,떠돌이 상인 생성,ko-KR
+Spawn Wardens,워든 생성,ko-KR
+Spawner,생성기 블록 켜기,ko-KR
+Spawning,생성,ko-KR
+Spieler,플레이어,ko-KR
+Spielerbewegung nicht überprüfen,플레이어 움직임 확인 끄기,ko-KR
+Spielerortungsleiste aktivieren,플레이어 위치 표시 바 켜기,ko-KR
+Spieler‐Bewegungsprüfung,플레이어 움직임 확인하기,ko-KR
+Spielregeln bearbeiten,게임 규칙 수정,ko-KR
+Spielregeln bearbeiten …,게임 규칙 수정...,ko-KR
+Spielregeln werden abgerufen …,게임 규칙 받아오는 중...,ko-KR
+Stabilisce se le perle di ender lanciate da un giocatore scompaiono alla morte di quest'ultimo.,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+Standard: %s,기본값: %s,ko-KR
+"Steuert die Größe des Bereichs um den Einstiegspunkt, in dem Spieler in die Welt einsteigen können.","스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+"Steuert, ob aufprallende Geschosse Blöcke zerstören, die durch sie zerstörbar wären.",투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+"Steuert, ob Blöcke ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Steuert, ob Feuer und Lava in einer Entfernung von mehr als 8 Chunks von einem Spieler aktualisiert werden",플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+"Steuert, ob Kreaturen ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Steuert, ob Loren, Rahmen, Boote usw. ihre Ausbeute fallen lassen (einschließlich Inventaren).","광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+"Steuert, ob Monster natürlich erscheinen.",몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+"Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.",덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+"Steuert, ob Spieler anderen Spielern Schaden zufügen können.",플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+"Steuert, ob Spieler den Nether durch Portale betreten können.",플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+"Steuert, ob vom Spieler geworfene Enderperlen verschwinden, wenn dieser stirbt.","플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+"Su, kaynağa dönüşsün",물이 원천으로 바뀜,ko-KR
+Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+Sự kiện âm thanh toàn cầu,전역 소리 이벤트,ko-KR
+Taxa de velocidade de tiques aleatórios,랜덤 틱 속도 비율,ko-KR
+Tchat,대화,ko-KR
+Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Tempo (in tick) che un giocatore in modalità creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Tempo (in tick) che un giocatore in modalità diverse dalla creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Tempo atmosferico,날씨 갱신,ko-KR
+Tha thứ cho người chơi đã chết,죽은 플레이어 용서,ko-KR
+Thay đổi luật chơi,게임 규칙 변경 사항,ko-KR
+The amount of chunks that stay loaded around the Overworld spawn position.,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+"The number of blocks that can be changed at once by one command, such as fill or clone.",fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+The percentage of players who must be sleeping to skip the night.,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+The radius in blocks around a player in which fire can spread.,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+Thrown Ender Pearls vanish on death,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+Thông báo tiến trình,발전 과제 알림,ko-KR
+Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Thời gian trong ngày trôi đi,시간 흐름,ko-KR
+Thực thể với hành khách có thể sử dụng cổng,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+Tick fire away from players,플레이어로부터 떨어진 불 틱,ko-KR
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modo creativo para cambiar de dimensión.,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modos que no sean creativo para cambiar de dimensión.,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+"TNT patlamalarında, bazı bloklar düşmesin","TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+TNT‐Explosionsausbeute verschwindet,"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+TNT’nin etkinleştirilmesine ve patlamasına izin ver,TNT의 점화 및 폭발 허용,ko-KR
+TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+TNTの点火及び爆発の許可,TNT의 점화 및 폭발 허용,ko-KR
+TNT爆発時にブロックがドロップアイテムを落とさない可能性,"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Todesmeldungen anzeigen,죽음 문구 표시,ko-KR
+"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.","흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.","흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+Transformar lava em fonte,용암이 원천으로 바뀜,ko-KR
+Transformar água em fonte,물이 원천으로 바뀜,ko-KR
+Transformation de l'eau en source,물이 원천으로 바뀜,ko-KR
+Transformation de la lave en source,용암이 원천으로 바뀜,ko-KR
+"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm","블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm","몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm","TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Truyền đi lệnh quản trị,관리자 명령 알림,ko-KR
+Truyền đi đầu ra của khối lệnh,명령 블록 출력 알림,ko-KR
+Trò chuyện,대화,ko-KR
+Téléportation des entités avec des passagers à travers les portails,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+Tắt các cuộc xâm lược,습격 끄기,ko-KR
+Tắt kiểm tra chuyển động của cánh cứng,겉날개 움직임 확인 끄기,ko-KR
+Tắt kiểm tra chuyển động của người chơi,플레이어 움직임 확인 끄기,ko-KR
+Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+Tỉ lệ phần trăm ngủ,취침 비율,ko-KR
+Tỉ lệ tốc độ nhịp ngẫu nhiên,랜덤 틱 속도 비율,ko-KR
+Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+Tốc độ tối đa của xe mỏ,광산 수레 최고 속도,ko-KR
+Universal anger,무차별적 분노,ko-KR
+Update fire,불 갱신,ko-KR
+Update weather,날씨 갱신,ko-KR
+Updating game rules requires operator permissions.,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+Uyuma yüzdesi,취침 비율,ko-KR
+"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.","광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+Varie,기타,ko-KR
+Varios,기타,ko-KR
+Varlık ekipmanı düşsün,개체 장비 떨굼,ko-KR
+Varlık sıkışması alt sınırı,개체 중첩 한계,ko-KR
+Varsayılan: %s,기본값: %s,ko-KR
+Velocidad de tics al azar,랜덤 틱 속도 비율,ko-KR
+Velocidad máxima de las vagonetas,광산 수레 최고 속도,ko-KR
+Velocidad máxima por defecto de una vagoneta por tierra.,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+Velocidade máxima do Carrinho de Mina,광산 수레 최고 속도,ko-KR
+Velocidade padrão máxima de um Carrinho de Mina no solo.,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+Velocità massima dei vagonetti,광산 수레 최고 속도,ko-KR
+Velocità massima predefinita di un vagonetto in movimento.,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+Verifica dei movimenti dei giocatori,플레이어 움직임 확인하기,ko-KR
+Verifica dei movimenti dei giocatori disattivata,플레이어 움직임 확인 끄기,ko-KR
+Verifica del volo con le elitre,겉날개 움직임 확인하기,ko-KR
+Verifica del volo con le elitre disattivata,겉날개 움직임 확인 끄기,ko-KR
+Verificação de movimentos do jogador,플레이어 움직임 확인하기,ko-KR
+Verificação de movimentos dos Élitros,겉날개 움직임 확인하기,ko-KR
+Verschiedenes,기타,ko-KR
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgive_dead_players deaktiviert ist.",분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgiveDeadPlayers deaktiviert ist.",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+"Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.",중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+Vines spread,덩굴 퍼짐,ko-KR
+Vitesse des ticks aléatoires,랜덤 틱 속도 비율,ko-KR
+Vitesse maximale des wagonnets,광산 수레 최고 속도,ko-KR
+Você não pode alterar as regras do jogo em mundos no modo Intenso.,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+Von Spielern entferntes Feuer aktualisieren,플레이어로부터 떨어진 불 틱,ko-KR
+Voranschreiten der Tageszeit,시간 흐름,ko-KR
+Voulez-vous vraiment abandonner les modifications en cours des règles de jeu ?,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+Vuoi davvero annullare le modifiche in sospeso alle regole di gioco?,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+Vérification des mouvements du joueur,플레이어 움직임 확인하기,ko-KR
+Vérification du vol en élytres,겉날개 움직임 확인하기,ko-KR
+Vérification désactivée des mouvements du joueur,플레이어 움직임 확인 끄기,ko-KR
+Vérification désactivée du vol en élytres,겉날개 움직임 확인 끄기,ko-KR
+Vật bắn ra có thể phá khối,투사체가 블록 파괴 가능,ko-KR
+Wasser‐Erneuerbarkeit,물이 원천으로 바뀜,ko-KR
+Water converts to source,물이 원천으로 바뀜,ko-KR
+Weltaktualisierungen,세계 갱신,ko-KR
+Weltweite Geräuschereignisse,전역 소리 이벤트,ko-KR
+"Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen.",이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+"Wenn aktiviert, zeigt eine Leiste auf dem Bildschirm die Richtung der Mitspieler an.",켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+"Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.","보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+"Wenn es schneit, entsteht auf dem Boden eine Schneedecke, die höchstens diese Anzahl von Schichten erreicht.","눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+"Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, wird sie zu einer Quelle.","흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, wird es zu einer Quelle.","흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+Wetterwechsel,날씨 갱신,ko-KR
+"When certain game events happen, like a boss spawning, the sound is heard everywhere.","보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+"When enabled, a bar is shown on the screen to indicate the direction of players.",켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+"When flowing lava is surrounded on two sides by lava sources, it converts into a source.","흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"When flowing water is surrounded on two sides by water sources, it converts into a source.","흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+"When it snows, layers of snow form on the ground up to at most this number of layers.","눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+Whether Ender Pearls thrown by a player vanish when that player dies.,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+Wird auf Befehlsblockketten und Funktionen angewandt.,명령 블록 연쇄와 함수에 해당.,ko-KR
+World Updates,세계 갱신,ko-KR
+Wärter erzeugen,워든 생성,ko-KR
+Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+Yağmacı devriyeleri oluşsun,약탈자 정찰대 생성,ko-KR
+Yeniden canlanma yeri çevresi,리스폰 위치 반지름,ko-KR
+"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.","탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+Yolcusu olan varlıklar geçitlerden geçebilir,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+Yêu cầu công thức chế tạo,제작에 제작법 필요,ko-KR
+Yönetici komutları gösterilsin,관리자 명령 알림,ko-KR
+"Zeit (in Ticks), die ein Spieler außerhalb des Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+"Zeit (in Ticks), die ein Spieler im Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Zerstörung durch Kreaturen,파괴적 몹 행위 허용,ko-KR
+Zorlayıcı dünyada oyun kuralları değiştirilemez.,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+Zuschauer generieren Landschaft,관전자의 지형 생성 허용,ko-KR
+¿Seguro que quieres descartar tus cambios?,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+Áp dụng cho chuỗi khối lệnh và hàm.,명령 블록 연쇄와 함수에 해당.,ko-KR
+Änderungen der Spielregeln,게임 규칙 변경 사항,ko-KR
+Çağırıcı Bloklarını Etkinleştir,생성기 블록 켜기,ko-KR
+Çeşitli,기타,ko-KR
+Événements sonores globaux,전역 소리 이벤트,ko-KR
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+Öldükten sonra envanteri koru,죽음 후 보관함 보존,ko-KR
+Ölü oyuncular affedilsin,죽은 플레이어 용서,ko-KR
+Ölüm iletileri gösterilsin,죽음 문구 표시,ko-KR
+Überfälle,습격 켜기,ko-KR
+Überfälle deaktivieren,습격 끄기,ko-KR
+Üretim için tarif gereksin,제작에 제작법 필요,ko-KR
+Đang truy xuất luật chơi...,게임 규칙 받아오는 중...,ko-KR
+Đếm nhịp lửa cách xa người chơi,플레이어로부터 떨어진 불 틱,ko-KR
+Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+Активация и взрыв динамита,TNT의 점화 및 폭발 허용,ko-KR
+Влияет на выпадение предметов и сфер опыта из блоков.,경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+Влияет на выпадение предметов и сфер опыта из мобов.,경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.","광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+"Влияет на потерю предметов, выпавших после взрыва динамита.","TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+"Влияет на потерю предметов, выпавших после взрыва моба.","몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.","블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.","보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+Возобновление источников воды,물이 원천으로 바뀜,ko-KR
+Возобновление источников лавы,용암이 원천으로 바뀜,ko-KR
+Время прохождения портала Незера в творческом режиме,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+Время прохождения портала Незера вне творческого режима,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+Вы действительно хотите отменить изменения игровых правил?,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+Выпадение блоков,블록 떨굼,ko-KR
+Выпадение добычи из мобов,몹 노획물 떨굼,ko-KR
+Выпадение ресурсов,떨굼 설정,ko-KR
+Выпадение экипировки сущностей,개체 장비 떨굼,ko-KR
+Высота снежного покрова,적설 높이,ko-KR
+Генерация мира наблюдателями,관전자의 지형 생성 허용,ko-KR
+Глобальные звуковые события,전역 소리 이벤트,ko-KR
+Доступ в Незер,네더 허용,ko-KR
+"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+Загрузка игровых правил...,게임 규칙 받아오는 중...,ko-KR
+Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+Запись команд администраторов,관리자 명령 알림,ko-KR
+Затрагивает цепочки командных блоков и функции.,명령 블록 연쇄와 함수에 해당.,ko-KR
+Игровые правила...,게임 규칙 수정...,ko-KR
+Игрок,플레이어,ko-KR
+Изменение игровых правил в Хардкоре недоступно.,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+Изменение игровых правил требует прав оператора.,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+Изменения игровых правил,게임 규칙 변경 사항,ko-KR
+Изменения погоды,날씨 갱신,ko-KR
+Использование командных блоков,명령 블록 켜기,ko-KR
+Использование порталов сущностями с пассажирами,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+Исчезновение брошенного эндер-жемчуга при смерти,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+Командные блоки,명령 블록 켜기,ko-KR
+Локатор игроков,플레이어 위치 표시 바 켜기,ko-KR
+Максимальная базовая скорость движения вагонетки по земле.,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+Максимальная скорость вагонетки,광산 수레 최고 속도,ko-KR
+"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+Малый экран отладки,디버그 정보 축소,ko-KR
+Мгновенное возрождение,즉시 리스폰,ko-KR
+Мобы,몹,ko-KR
+Настройка игровых правил,게임 규칙 수정,ko-KR
+Обновление огня вдали от игроков,플레이어로부터 떨어진 불 틱,ko-KR
+Обновления мира,세계 갱신,ko-KR
+Ограничение длины цепи команд,명령 연쇄 크기 제한,ko-KR
+Ограничение изменения блоков командой,명령어의 블록 변경량 제한,ko-KR
+Ограничение контекста команд,명령어 맥락 제한,ko-KR
+Ограничение содержания экрана отладки.,디버그 화면의 내용을 제한합니다.,ko-KR
+Окружённая двумя источниками текущая вода образует третий.,"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+Окружённая двумя источниками текущая лава образует третий.,"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+Оповещения о достижениях,발전 과제 알림,ko-KR
+"Определяет, могут ли игроки входить в Незер.",플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+"Определяет, могут ли игроки наносить урон другим игрокам.",플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+"Определяет, появляются ли монстры сами по себе.",몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+Отключение проверки движения игрока,플레이어 움직임 확인 끄기,ko-KR
+Отключение проверки на элитрах,겉날개 움직임 확인 끄기,ko-KR
+Отключение рейдов,습격 끄기,ko-KR
+Отображение сообщений команд,명령 피드백 전송,ko-KR
+Патрули разбойников,약탈자 정찰대 생성,ko-KR
+По умолчанию: %s,기본값: %s,ko-KR
+"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.","탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+Потеря части добычи от взрыва при использовании блока,"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Потеря части добычи при взрыве динамита,"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Потеря части добычи при взрыве моба,"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+Появление,생성,ko-KR
+Появление мобов,몹 생성,ko-KR
+Появление монстров,몬스터 생성,ko-KR
+Появление фантомов,팬텀 생성,ko-KR
+Появление хранителей,워든 생성,ko-KR
+Предел сущностей в одном блоке,개체 중첩 한계,ko-KR
+"Предельное число слоёв снега, образующихся во время снегопада.","눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+Проверка движения игрока,플레이어 움직임 확인하기,ko-KR
+Проверка движения на элитрах,겉날개 움직임 확인하기,ko-KR
+"Процент игроков, которым нужно спать для пропуска ночи.",밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+Процент спящих,취침 비율,ko-KR
+Прощение умерших игроков,죽은 플레이어 용서,ko-KR
+"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+Радиус невыгружаемой области вокруг точек возрождения игроков.,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+Радиус невыгружаемой области вокруг точки возрождения мира.,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+Радиус области возрождения,리스폰 위치 반지름,ko-KR
+Радиус распространения огня,불 확산 반지름,ko-KR
+Радиус чанков возрождения мира,스폰 청크 반지름,ko-KR
+Разное,기타,ko-KR
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+Разрушительные действия мобов,파괴적 몹 행위 허용,ko-KR
+Распространение лианы,덩굴 퍼짐,ko-KR
+Распространение огня,불 갱신,ko-KR
+Рассадники,생성기 블록 켜기,ko-KR
+Регенерация здоровья,생명력 재생,ko-KR
+"Регулирует, разрушаются ли определённые блоки от удара снаряда.",투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+Рейды,습격 켜기,ko-KR
+Слепая ярость,무차별적 분노,ko-KR
+Смена дня и ночи,시간 흐름,ko-KR
+Снаряды могут разрушать блоки,투사체가 블록 파괴 가능,ko-KR
+Создание только по рецепту,제작에 제작법 필요,ko-KR
+Сообщения командных блоков,명령 블록 출력 알림,ko-KR
+Сообщения о смерти,죽음 문구 표시,ko-KR
+Сохранение инвентаря при смерти,죽음 후 보관함 보존,ko-KR
+Странствующие торговцы,떠돌이 상인 생성,ko-KR
+У некоторых сущностей могут быть свои игровые правила.,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+Урон от замерзания,동상 피해,ko-KR
+Урон от огня,불 피해,ko-KR
+Урон от падения,낙하 피해,ko-KR
+Урон от утопления,익사 피해,ko-KR
+Частота случайных тактов,랜덤 틱 속도 비율,ko-KR
+Чат,대화,ko-KR
+การดรอป,떨굼 설정,ko-KR
+การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+การอัปเดตของโลก,세계 갱신,ko-KR
+การเกิด,생성,ko-KR
+การโกรธทุกคน,무차별적 분노,ko-KR
+กำลังดึงข้อมูลกฎเกม...,게임 규칙 받아오는 중...,ko-KR
+ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+ความสูงในการสะสมชั้นหิมะ,적설 높이,ko-KR
+ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+ความเร็วสูงสุดของรถราง,광산 수레 최고 속도,ko-KR
+คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+ค่าเริ่มต้น: %s,기본값: %s,ko-KR
+จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as','execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,명령 연쇄 크기 제한,ko-KR
+จำกัดจำนวนบริบทของคำสั่ง,명령어 맥락 제한,ko-KR
+จำกัดเนื้อหาของหน้าจอดีบั๊ก,디버그 화면의 내용을 제한합니다.,ko-KR
+จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,개체 중첩 한계,ko-KR
+ดรอปของจากเอนทิตี้,개체 장비 떨굼,ko-KR
+ดรอปลูตของม็อบ,몹 노획물 떨굼,ko-KR
+ดาเมจจากการจมน้ำ,익사 피해,ko-KR
+ดาเมจจากการตกจากที่สูง,낙하 피해,ko-KR
+ดาเมจจากความเย็น,동상 피해,ko-KR
+ดาเมจจากไฟ,불 피해,ko-KR
+ดำเนินวัฏจักรกลางวัน-กลางคืน,시간 흐름,ko-KR
+ตรวจสอบการเคลื่อนที่ของผู้เล่น,플레이어 움직임 확인하기,ko-KR
+ตรวจสอบความเร็วขณะบินด้วยปีก,겉날개 움직임 확인하기,ko-KR
+ตายของไม่ตก,죽음 후 보관함 보존,ko-KR
+ต้องมีสูตรสำหรับการคราฟต์,제작에 제작법 필요,ko-KR
+บล็อกดรอป,블록 떨굼,ko-KR
+ประกาศความก้าวหน้า,발전 과제 알림,ko-KR
+ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,플레이어 움직임 확인 끄기,ko-KR
+ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,겉날개 움직임 확인 끄기,ko-KR
+ปิดการปล้นสะดม,습격 끄기,ko-KR
+ผู้เล่น,플레이어,ko-KR
+ฟื้นฟูเลือดตามธรรมชาติ,생명력 재생,ko-KR
+มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,명령 블록 연쇄와 함수에 해당.,ko-KR
+ม็อบ,몹,ko-KR
+ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+รัศมีการลุกลามของไฟ,불 확산 반지름,ko-KR
+รัศมีจุดเกิด,리스폰 위치 반지름,ko-KR
+รัศมีชังก์จุดเกิด,스폰 청크 반지름,ko-KR
+รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+ลดการแสดงข้อมูลดีบั๊ก,디버그 정보 축소,ko-KR
+วัตถุพุ่งสามารถทำลายบล็อกได้,투사체가 블록 파괴 가능,ko-KR
+หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,TNT의 점화 및 폭발 허용,ko-KR
+อนุญาตให้เข้าเนเธอร์,네더 허용,ko-KR
+อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+อภัยผู้เล่นที่ตายแล้ว,죽은 플레이어 용서,ko-KR
+อัตราความเร็วติ๊กแบบสุ่ม,랜덤 틱 속도 비율,ko-KR
+อัปเดตสภาพอากาศ,날씨 갱신,ko-KR
+อัปเดตไฟ,불 갱신,ko-KR
+เกิดใหม่ทันที,즉시 리스폰,ko-KR
+เบ็ดเตล็ด,기타,ko-KR
+เปลี่ยนแปลงกฎเกม,게임 규칙 변경 사항,ko-KR
+เปอร์เซ็นต์ของผู้เล่นนอน,취침 비율,ko-KR
+เปิดการปล้นสะดม,습격 켜기,ko-KR
+เปิดใช้งาน PvP,pvp 켜기,ko-KR
+เปิดใช้งานบล็อกกรงกำเนิด,생성기 블록 켜기,ko-KR
+เปิดใช้งานบล็อกคำสั่ง,명령 블록 켜기,ko-KR
+เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,플레이어 위치 표시 바 켜기,ko-KR
+เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+เหตุการณ์เสียงดังไปทั่ว,전역 소리 이벤트,ko-KR
+เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+แก้ไขกฎเกม,게임 규칙 수정,ko-KR
+แก้ไขกฎเกม...,게임 규칙 수정...,ko-KR
+แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,명령어의 블록 변경량 제한,ko-KR
+แชต,대화,ko-KR
+แสดงข้อความการตาย,죽음 문구 표시,ko-KR
+แสดงบันทึกคำสั่งของแอดมิน,관리자 명령 알림,ko-KR
+แสดงผลป้อนกลับคำสั่ง,명령 피드백 전송,ko-KR
+แสดงเอาต์พุตของบล็อกคำสั่ง,명령 블록 출력 알림,ko-KR
+ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+ให้กองโจรลาดตระเวนเกิด,약탈자 정찰대 생성,ko-KR
+ให้น้ำไหลกลายเป็นแหล่งน้ำได้,물이 원천으로 바뀜,ko-KR
+ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,관전자의 지형 생성 허용,ko-KR
+ให้พ่อค้าเร่ร่อนเกิด,떠돌이 상인 생성,ko-KR
+ให้มอนสเตอร์เกิด,몬스터 생성,ko-KR
+ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,파괴적 몹 행위 허용,ko-KR
+ให้ม็อบเกิด,몹 생성,ko-KR
+ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,용암이 원천으로 바뀜,ko-KR
+ให้วอร์เดนเกิด,워든 생성,ko-KR
+ให้เถาวัลย์แพร่,덩굴 퍼짐,ko-KR
+ให้แฟนท่อมเกิด,팬텀 생성,ko-KR
+ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,플레이어로부터 떨어진 불 틱,ko-KR
+ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+“execute as”等命令可以使用的上下文数量最大值。,'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+「execute as」などのコマンドで使用できる実行文脈の最大数,'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+「execute as」等指令使用的上下文最大數量。,'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,ko-KR
+その他,기타,ko-KR
+どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+ウォーデンのスポーン,워든 생성,ko-KR
+エリトラの速度チェック,겉날개 움직임 확인하기,ko-KR
+エリトラの速度チェックの無効化,겉날개 움직임 확인 끄기,ko-KR
+エンティティの最大密集数,개체 중첩 한계,ko-KR
+オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+クラフトにレシピを要求,제작에 제작법 필요,ko-KR
+クリエイティブモードでのネザーポータルの待機時間,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+ゲームルールの変更,게임 규칙 변경 사항,ko-KR
+ゲームルールの更新には管理者権限が必要です。,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+ゲームルールを取得中…,게임 규칙 받아오는 중...,ko-KR
+ゲームルールを編集,게임 규칙 수정,ko-KR
+ゲームルールを編集…,게임 규칙 수정...,ko-KR
+ゲーム内時刻の進行,시간 흐름,ko-KR
+コマンドによるブロックの最大変更数,명령어의 블록 변경량 제한,ko-KR
+コマンドの実行結果の表示,명령 피드백 전송,ko-KR
+コマンドの最大チェーン数,명령 연쇄 크기 제한,ko-KR
+コマンドの最大実行文脈数,명령어 맥락 제한,ko-KR
+コマンドブロックの実行結果の通知,명령 블록 출력 알림,ko-KR
+コマンドブロックの有効化,명령 블록 켜기,ko-KR
+スペクテイターモードのプレイヤーによる地形生成の許可,관전자의 지형 생성 허용,ko-KR
+スポナーの有効化,생성기 블록 켜기,ko-KR
+スポーン,생성,ko-KR
+スポーンチャンクの半径,스폰 청크 반지름,ko-KR
+スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+チェーンコマンドブロックや関数に適用されます。,명령 블록 연쇄와 함수에 해당.,ko-KR
+チャット,대화,ko-KR
+ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+ツタの成長,덩굴 퍼짐,ko-KR
+デバッグ情報の制限,디버그 정보 축소,ko-KR
+デフォルト値：%s,기본값: %s,ko-KR
+トロッコの最高速度,광산 수레 최고 속도,ko-KR
+トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+ドロップ,떨굼 설정,ko-KR
+ネザーの許可,네더 허용,ko-KR
+ハードコアのワールドではゲームルールを変更できません。,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+ファントムのスポーン,팬텀 생성,ko-KR
+ブロックがアイテムや経験値オーブをドロップするかを設定できます。,경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+ブロックのドロップ,블록 떨굼,ko-KR
+ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+プレイヤー,플레이어,ko-KR
+プレイヤーから遠い炎のティック処理,플레이어로부터 떨어진 불 틱,ko-KR
+プレイヤーがネザーに入ることができるかどうかを設定できます,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+プレイヤーの方向バーの有効化,플레이어 위치 표시 바 켜기,ko-KR
+プレイヤーの速度チェック,플레이어 움직임 확인하기,ko-KR
+プレイヤーの速度チェックの無効化,플레이어 움직임 확인 끄기,ko-KR
+プレイヤー死亡時のエンダーパールの消滅,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+モンスターが自然にスポーンするかどうかを設定できます,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+モンスターのスポーン,몬스터 생성,ko-KR
+ランダムティックの発生数,랜덤 틱 속도 비율,ko-KR
+リスポーン地点の半径,리스폰 위치 반지름,ko-KR
+ワールドの更新,세계 갱신,ko-KR
+ワールド全体のサウンドイベント,전역 소리 이벤트,ko-KR
+一些实体可能有其特定的规则。,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+世界更新,세계 갱신,ko-KR
+主世界出生点周围保持加载的区块数量。,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+主世界重生點周圍維持載入的區塊數量。,오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,ko-KR
+体力の自動回復,생명력 재생,ko-KR
+何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+何かが乗っているエンティティのポータル使用可否,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+你确定要放弃未保存的游戏规则更改吗？,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+你確定要捨棄尚未儲存的遊戲規則變更嗎？,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+停用玩家移動檢測,플레이어 움직임 확인 끄기,ko-KR
+停用突襲,습격 끄기,ko-KR
+停用鞘翅移動檢測,겉날개 움직임 확인 끄기,ko-KR
+允許 TNT 被點燃並爆炸,TNT의 점화 및 폭발 허용,ko-KR
+允許旁觀者生成地形,관전자의 지형 생성 허용,ko-KR
+允許火在遠離玩家處蔓延,플레이어로부터 떨어진 불 틱,ko-KR
+允許生物的破壞行為,파괴적 몹 행위 허용,ko-KR
+允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+允許進入地獄,네더 허용,ko-KR
+允许TNT被点燃并爆炸,TNT의 점화 및 폭발 허용,ko-KR
+允许旁观者生成地形,관전자의 지형 생성 허용,ko-KR
+允许流动水转化为水源,물이 원천으로 바뀜,ko-KR
+允许流动熔岩转化为熔岩源,용암이 원천으로 바뀜,ko-KR
+允许火在远离玩家处蔓延,플레이어로부터 떨어진 불 틱,ko-KR
+允许破坏性生物行为,파괴적 몹 행위 허용,ko-KR
+允许被骑乘的实体通过下界传送门、末地传送门和末地折跃门传送。,"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",ko-KR
+允许进入下界,네더 허용,ko-KR
+入睡占比,취침 비율,ko-KR
+全域聲音事件,전역 소리 이벤트,ko-KR
+全局声音事件,전역 소리 이벤트,ko-KR
+冰冻伤害,동상 피해,ko-KR
+凍結ダメージ,동상 피해,ko-KR
+出生区块半径,스폰 청크 반지름,ko-KR
+创造模式下玩家在下界传送门中等待的时间,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+創造模式玩家使用地獄傳送門的等待時間,크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,ko-KR
+单条命令（如fill和clone）最多能更改的方块数量。,fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+即時リスポーン,즉시 리스폰,ko-KR
+原諒死者,죽은 플레이어 용서,ko-KR
+发送命令反馈,명령 피드백 전송,ko-KR
+合成需要配方,제작에 제작법 필요,ko-KR
+启用PvP,pvp 켜기,ko-KR
+启用刷怪笼方块,생성기 블록 켜기,ko-KR
+启用后，屏幕上会显示指示玩家方位的定位栏。,켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+启用命令方块,명령 블록 켜기,ko-KR
+启用玩家定位栏,플레이어 위치 표시 바 켜기,ko-KR
+启用玩家移动检测,플레이어 움직임 확인하기,ko-KR
+启用袭击,습격 켜기,ko-KR
+启用鞘翅移动检测,겉날개 움직임 확인하기,ko-KR
+命令上下文数量限制,명령어 맥락 제한,ko-KR
+命令修改方块数量限制,명령어의 블록 변경량 제한,ko-KR
+命令连锁执行数量限制,명령 연쇄 크기 제한,ko-KR
+啟用 PvP,pvp 켜기,ko-KR
+啟用後，畫面上會顯示指示玩家方位的定位條。,켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+啟用指令方塊,명령 블록 켜기,ko-KR
+啟用玩家定位條,플레이어 위치 표시 바 켜기,ko-KR
+啟用玩家移動檢測,플레이어 움직임 확인하기,ko-KR
+啟用生怪磚,생성기 블록 켜기,ko-KR
+啟用突襲,습격 켜기,ko-KR
+啟用鞘翅移動檢測,겉날개 움직임 확인하기,ko-KR
+單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,ko-KR
+回傳指令回饋,명령 피드백 전송,ko-KR
+在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+在 TNT 的爆炸中，部分方塊不會掉落成戰利品,"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+在TNT引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+在TNT爆炸中，一些方块不会掉落战利品,"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+在与方块交互引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+在方块交互爆炸中，一些方块不会掉落战利品,"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+在生物引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+在生物爆炸中，一些方块不会掉落战利品,"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+在生物的爆炸中，部分方塊不會掉落成戰利品,"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ko-KR
+在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",ko-KR
+地上を走るトロッコのデフォルトの最高速度,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+天气更替,날씨 갱신,ko-KR
+天気の更新,날씨 갱신,ko-KR
+套用於連鎖型指令方塊及函數。,명령 블록 연쇄와 함수에 해당.,ko-KR
+实体挤压上限,개체 중첩 한계,ko-KR
+宽恕死亡玩家,죽은 플레이어 용서,ko-KR
+實體擠壓上限,개체 중첩 한계,ko-KR
+就寝率,취침 비율,ko-KR
+广播命令方块输出,명령 블록 출력 알림,ko-KR
+应用于命令方块链和函数。,명령 블록 연쇄와 함수에 해당.,ko-KR
+弹射物能否破坏方块,투사체가 블록 파괴 가능,ko-KR
+愤怒的中立生物将在其目标玩家于附近死亡后息怒。,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用forgive_dead_players可达到最佳效果。,분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。,중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+投射物是否能破壞方塊,투사체가 블록 파괴 가능,ko-KR
+拋出的終界珍珠在死亡時消失,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+指令修改方塊數量限制,명령어의 블록 변경량 제한,ko-KR
+指令的上下文上限,명령어 맥락 제한,ko-KR
+指令連鎖大小限制,명령 연쇄 크기 제한,ko-KR
+掉落,떨굼 설정,ko-KR
+掉落實體裝備,개체 장비 떨굼,ko-KR
+掉落方塊,블록 떨굼,ko-KR
+掉落生物戰利品,몹 노획물 떨굼,ko-KR
+控制各种矿车（含内容物）、物品展示框、船等的物品掉落。,"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+控制弹射物能否破坏可被其破坏的方块。,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+控制怪物是否能自然生成。,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+控制怪物能否自然生成。,몬스터의 자연적 생성 여부를 제어합니다.,ko-KR
+控制投射物是否能破壞可被其破壞的方塊。,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+控制方块是否掉落资源，包括经验球。,경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+控制方塊資源掉落，包含經驗球。,경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ko-KR
+控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+控制火和熔岩能否在距离任何玩家超过8个区块处蔓延。,플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,ko-KR
+控制玩家是否能互相傷害。,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+控制玩家是否能進入地獄。,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+控制玩家能否进入下界。,플레이어의 네더 진입 가능 여부를 제어합니다.,ko-KR
+控制玩家能夠生成的重生點範圍區域大小。,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+控制玩家间能否互相伤害。,플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,ko-KR
+控制生物是否掉落资源，包括经验球。,경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+控制生物資源掉落，包含經驗球。,경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,ko-KR
+控制礦車（包括內容物）、物品展示框、船等的掉落物。,"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",ko-KR
+控制藤蔓方块能否随机向相邻的方块蔓延。不会影响其他藤蔓类方块（例如垂泪藤和缠怨藤等）。,덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ko-KR
+控制适合玩家生成的出生点周围区域大小。,"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",ko-KR
+掷出的末影珍珠在死亡时消失,죽을 때 던져져 있는 엔더 진주 소멸,ko-KR
+摔落伤害,낙하 피해,ko-KR
+敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+敵対の共有,무차별적 분노,ko-KR
+敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+方块掉落,블록 떨굼,ko-KR
+无差别愤怒,무차별적 분노,ko-KR
+无法在极限模式世界中更改游戏规则。,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+日夜交替,시간 흐름,ko-KR
+显示死亡消息,죽음 문구 표시,ko-KR
+更新天氣,날씨 갱신,ko-KR
+更新游戏规则需要管理员权限。,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+更新火焰,불 갱신,ko-KR
+更新遊戲規則需要管理員權限。,게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ko-KR
+有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,ko-KR
+杂项,기타,ko-KR
+正在擷取遊戲規則...,게임 규칙 받아오는 중...,ko-KR
+正在获取游戏规则…,게임 규칙 받아오는 중...,ko-KR
+死亡したプレイヤーへの敵対を解除,죽은 플레이어 용서,ko-KR
+死亡メッセージの表示,죽음 문구 표시,ko-KR
+死亡后保留物品栏,죽음 후 보관함 보존,ko-KR
+死亡後保留物品欄,죽음 후 보관함 보존,ko-KR
+死亡時のインベントリの保持,죽음 후 보관함 보존,ko-KR
+水流から水源への変化,물이 원천으로 바뀜,ko-KR
+水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+流動水在被兩個水源包圍時，會轉化成水源。,"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+流動水轉化成水源,물이 원천으로 바뀜,ko-KR
+流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+流動熔岩轉化成熔岩源,용암이 원천으로 바뀜,ko-KR
+游戏内时间流逝,시간 흐름,ko-KR
+游戏规则更改,게임 규칙 변경 사항,ko-KR
+溶岩流から溶岩源への変化,용암이 원천으로 바뀜,ko-KR
+溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+溺水ダメージ,익사 피해,ko-KR
+溺水伤害,익사 피해,ko-KR
+火傷ダメージ,불 피해,ko-KR
+火焰伤害,불 피해,ko-KR
+火焰蔓延,불 갱신,ko-KR
+火焰蔓延半径,불 확산 반지름,ko-KR
+火焰蔓延半徑,불 확산 반지름,ko-KR
+炎の延焼が起こる半径,불 확산 반지름,ko-KR
+炎の更新,불 갱신,ko-KR
+無差別憤怒,무차별적 분노,ko-KR
+無法在極限模式世界中變更遊戲規則。,하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ko-KR
+特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+特定游戏事件（如Boss生成）发生时，声音可在所有地方听见。,"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+玩家,플레이어,ko-KR
+玩家周围火可以蔓延的方块半径。,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+玩家周圍火焰可蔓延的半徑格數。,플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,ko-KR
+玩家投掷的末影珍珠是否在玩家死亡时消失。,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+玩家拋出的終界珍珠是否在玩家死亡時消失。,"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",ko-KR
+生命值自然恢复,생명력 재생,ko-KR
+生成,생성,ko-KR
+生成伏守者,워든 생성,ko-KR
+生成夜魅,팬텀 생성,ko-KR
+生成幻翼,팬텀 생성,ko-KR
+生成怪物,몬스터 생성,ko-KR
+生成掠奪者巡邏隊,약탈자 정찰대 생성,ko-KR
+生成流浪商人,떠돌이 상인 생성,ko-KR
+生成灾厄巡逻队,약탈자 정찰대 생성,ko-KR
+生成生物,몹 생성,ko-KR
+生成监守者,워든 생성,ko-KR
+生物,몹,ko-KR
+生物战利品掉落,몹 노획물 떨굼,ko-KR
+略奪隊のスポーン,약탈자 정찰대 생성,ko-KR
+當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ko-KR
+當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,ko-KR
+相邻两面方块为水源的流动水会转化为水源。,"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+相邻两面方块为熔岩源的流动熔岩会转化为熔岩源。,"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",ko-KR
+睡眠比例,취침 비율,ko-KR
+矿车在地面上移动的默认最大速度。,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+矿车最大速度,광산 수레 최고 속도,ko-KR
+礦車在地面上移動的預設速度上限。,땅에서 광산 수레가 움직일 때 최고 기본 속도,ko-KR
+礦車最大速度,광산 수레 최고 속도,ko-KR
+禁用玩家移动检测,플레이어 움직임 확인 끄기,ko-KR
+禁用袭击,습격 끄기,ko-KR
+禁用鞘翅移动检测,겉날개 움직임 확인 끄기,ko-KR
+积雪厚度,적설 높이,ko-KR
+積雪の深さ,적설 높이,ko-KR
+積雪厚度,적설 높이,ko-KR
+立即重生,즉시 리스폰,ko-KR
+简化调试信息,디버그 정보 축소,ko-KR
+管理者ログへのコマンドの実行結果の通知,관리자 명령 알림,ko-KR
+簡化除錯資訊,디버그 정보 축소,ko-KR
+編輯遊戲規則,게임 규칙 수정,ko-KR
+編輯遊戲規則...,게임 규칙 수정...,ko-KR
+編集中のゲームルールの変更を破棄してもよろしいですか？,저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,ko-KR
+编辑游戏规则,게임 규칙 수정,ko-KR
+编辑游戏规则…,게임 규칙 수정...,ko-KR
+聊天,대화,ko-KR
+聊天欄,대화,ko-KR
+自然回血,생명력 재생,ko-KR
+若启用，玩家只能使用已解锁的配方合成。,이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+若啟用，玩家將只能合成已解鎖的配方。,이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,ko-KR
+落下ダメージ,낙하 피해,ko-KR
+藤蔓蔓延,덩굴 퍼짐,ko-KR
+行商人のスポーン,떠돌이 상인 생성,ko-KR
+表示するデバッグ情報の項目数を制限します。,디버그 화면의 내용을 제한합니다.,ko-KR
+被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,ko-KR
+被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,ko-KR
+被騎乘的實體是否能使用傳送門,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+被骑乘的实体能否使用传送门,탑승자가 있는 개체의 차원문 사용 허용,ko-KR
+襲撃の無効化,습격 끄기,ko-KR
+襲撃の発生,습격 켜기,ko-KR
+記錄指令方塊輸出,명령 블록 출력 알림,ko-KR
+記錄管理員指令,관리자 명령 알림,ko-KR
+設備エンティティのドロップ,개체 장비 떨굼,ko-KR
+跳过夜晚所需的入睡玩家占比。,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+跳過夜晚所需的入睡玩家比例。,밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,ko-KR
+进度通知,발전 과제 알림,ko-KR
+通告管理员命令,관리자 명령 알림,ko-KR
+造成冰凍傷害,동상 피해,ko-KR
+造成摔落傷害,낙하 피해,ko-KR
+造成溺水傷害,익사 피해,ko-KR
+造成火焰傷害,불 피해,ko-KR
+進度通知,발전 과제 알림,ko-KR
+進捗達成の通知,발전 과제 알림,ko-KR
+遊戲規則變更,게임 규칙 변경 사항,ko-KR
+部分實體可能採用不同的規則。,일부 개체는 별도의 규칙이 있을 수 있습니다.,ko-KR
+重生區塊半徑,스폰 청크 반지름,ko-KR
+重生点半径,리스폰 위치 반지름,ko-KR
+重生點半徑,리스폰 위치 반지름,ko-KR
+降雪时，地面上的雪最多堆积到此处指定的层数。,"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+降雪時に積もる雪の層の最大数を設定できます。,"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+降雪時，地面上的積雪最多累積至此處指定的層數。,"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",ko-KR
+限制调试屏幕内容。,디버그 화면의 내용을 제한합니다.,ko-KR
+限制除錯畫面的內容。,디버그 화면의 내용을 제한합니다.,ko-KR
+随机刻速率,랜덤 틱 속도 비율,ko-KR
+隨機刻速率,랜덤 틱 속도 비율,ko-KR
+雜項,기타,ko-KR
+需要配方才能合成,제작에 제작법 필요,ko-KR
+非クリエイティブモードでのネザーポータルの待機時間,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+非创造模式下玩家在下界传送门中等待的时间,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+非创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+非創造模式玩家使用地獄傳送門的等待時間,크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,ko-KR
+非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,ko-KR
+非生物实体掉落,개체 장비 떨굼,ko-KR
+預設值：%s,기본값: %s,ko-KR
+顯示死亡訊息,죽음 문구 표시,ko-KR
+飛び道具によるブロック破壊の可否,투사체가 블록 파괴 가능,ko-KR
+飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,ko-KR
+默认：%s,기본값: %s,ko-KR

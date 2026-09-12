@@ -1,0 +1,556 @@
+﻿source,target,tgt_lng
+%%%s %s,%s%% %s,zh-TW
+%2$s %1$s%%,%s%% %s,zh-TW
+%2$s +%1$s,+%s %s,zh-TW
+%2$s +%1$s%%,+%s%% %s,zh-TW
+%2$s -%1$s,-%s %s,zh-TW
+%2$s -%1$s%%,-%s%% %s,zh-TW
+%2$s: %1$s,%s %s,zh-TW
+%2$s: %1$s%%,%s%% %s,zh-TW
+%2$s: +%1$s,+%s %s,zh-TW
+%2$s: +%1$s%%,+%s%% %s,zh-TW
+%2$s: -%1$s,-%s %s,zh-TW
+%2$s: -%1$s%%,-%s%% %s,zh-TW
+%s %% %s,%s%% %s,zh-TW
+%s %% en %s,%s%% %s,zh-TW
+%s en %s,%s %s,zh-TW
++%%%s %s,+%s%% %s,zh-TW
++%s %% %s,+%s%% %s,zh-TW
++%s %% en %s,+%s%% %s,zh-TW
++%s en %s,+%s %s,zh-TW
+-%%%s %s,-%s%% %s,zh-TW
+-%s %% %s,-%s%% %s,zh-TW
+-%s %% en %s,-%s%% %s,zh-TW
+-%s en %s,-%s %s,zh-TW
+Abbaueffizienz,挖掘效率,zh-TW
+Absorción máxima,最大傷害吸收值,zh-TW
+absorption maximale,最大傷害吸收值,zh-TW
+Absorção máxima,最大傷害吸收值,zh-TW
+Ad Etiketi Mesafesi,名稱標籤距離,zh-TW
+Ad Etiketi Puan Mesafesi,名稱標籤分數距離,zh-TW
+Adım Yüksekliği,最大行走高度,zh-TW
+Air Drag Modifier,空氣阻力修正係數,zh-TW
+Alcance de atração das criaturas,生物引誘範圍,zh-TW
+Alcance de detecção do marcador,路徑點接收距離,zh-TW
+Alcance de interação com blocos,方塊互動距離,zh-TW
+Alcance de interação com entidades,實體互動距離,zh-TW
+Alcance de perseguição das criaturas,生物追蹤範圍,zh-TW
+Alcance de transmissão do marcador,路徑點傳輸距離,zh-TW
+Altezza del passo,最大行走高度,zh-TW
+Altura de paso,最大行走高度,zh-TW
+Altura dos passos,最大行走高度,zh-TW
+Angriffsgeschwindigkeit,攻擊速度,zh-TW
+Angriffsrückstoß,擊退,zh-TW
+Angriffsschaden,攻擊傷害,zh-TW
+Armadura,盔甲,zh-TW
+Armatura,盔甲,zh-TW
+Armor,盔甲,zh-TW
+Armor Toughness,盔甲強度,zh-TW
+Assorbimento massimo,最大傷害吸收值,zh-TW
+At Zıplama Gücü,馬跳躍力,zh-TW
+Attack Damage,攻擊傷害,zh-TW
+Attack Knockback,擊退,zh-TW
+Attack Speed,攻擊速度,zh-TW
+Bewegungseffizienz,移動效率,zh-TW
+Block Break Speed,方塊破壞速度,zh-TW
+Block Interaction Range,方塊互動距離,zh-TW
+Blockabbaugeschwindigkeit,方塊破壞速度,zh-TW
+Block‐Interaktionsweite,方塊互動距離,zh-TW
+Blok Etkileşim Mesafesi,方塊互動距離,zh-TW
+Blok Kırma Hızı,方塊破壞速度,zh-TW
+bonus d'oxygène,額外氧氣,zh-TW
+Bounciness,彈性,zh-TW
+Brenndauer,燃燒時間,zh-TW
+Burning Time,燃燒時間,zh-TW
+Bật lùi tấn công,擊退,zh-TW
+Camera Distance,鏡頭距離,zh-TW
+Canlı Fark Etme Mesafesi,生物引誘範圍,zh-TW
+Canlı Takip Menzili,生物追蹤範圍,zh-TW
+Canlı Takip Mesafesi,生物追蹤範圍,zh-TW
+chance,幸運,zh-TW
+Chiều cao bước,最大行走高度,zh-TW
+Contraccolpo,擊退,zh-TW
+Danni per colpo,攻擊傷害,zh-TW
+Dano por golpe,攻擊傷害,zh-TW
+Daño de ataque,攻擊傷害,zh-TW
+distance d'affichage du nom,名稱標籤距離,zh-TW
+distance d'affichage du score du nom,名稱標籤分數距離,zh-TW
+distance de chute sûre,安全摔落高度,zh-TW
+distance de la caméra,鏡頭距離,zh-TW
+Distancia de caída segura,安全摔落高度,zh-TW
+Distancia de la cámara,鏡頭距離,zh-TW
+Distancia del identificador,名稱標籤距離,zh-TW
+Distancia del marcador de puntuación,名稱標籤分數距離,zh-TW
+Distanza del punteggio nella targhetta,名稱標籤分數距離,zh-TW
+Distanza dell'inquadratura,鏡頭距離,zh-TW
+Distanza della targhetta,名稱標籤距離,zh-TW
+Distanza di caduta sicura,安全摔落高度,zh-TW
+Distância da câmera,鏡頭距離,zh-TW
+Distância de queda segura,安全摔落高度,zh-TW
+Distância do identificador,名稱標籤距離,zh-TW
+Distância do marcador de pontuação,名稱標籤分數距離,zh-TW
+Duración de quemadura,燃燒時間,zh-TW
+Duração de queima,燃燒時間,zh-TW
+Dureza de armadura,盔甲強度,zh-TW
+Düşme Hasarı Çarpanı,摔落傷害倍率,zh-TW
+efficacité de minage,挖掘效率,zh-TW
+efficacité de mouvement,移動效率,zh-TW
+efficacité de mouvement aquatique,水中移動效率,zh-TW
+Efficienza d'estrazione,挖掘效率,zh-TW
+Efficienza del movimento,移動效率,zh-TW
+Efficienza del movimento in acqua,水中移動效率,zh-TW
+Eficiencia al romper bloques,挖掘效率,zh-TW
+Eficiencia de movimiento,移動效率,zh-TW
+Eficiencia de movimiento acuático,水中移動效率,zh-TW
+Eficiência de mineração,挖掘效率,zh-TW
+Eficiência de movimento,移動效率,zh-TW
+Eficiência de movimento na água,水中移動效率,zh-TW
+Elasticità,彈性,zh-TW
+Empuje de ataque,擊退,zh-TW
+En Fazla Emilim,最大傷害吸收值,zh-TW
+En Fazla Sağlık,最高生命值,zh-TW
+Entity Interaction Range,實體互動距離,zh-TW
+Escala,大小,zh-TW
+Explosion Knockback Resistance,抗爆炸擊退,zh-TW
+Explosionsstandfestigkeit,抗爆炸擊退,zh-TW
+Eğilirken Hareket Hızı,潛行速度,zh-TW
+Eğilme Hızı,潛行速度,zh-TW
+Fall Damage Multiplier,摔落傷害倍率,zh-TW
+Fallschaden‐Multiplikator,摔落傷害倍率,zh-TW
+Federung,彈性,zh-TW
+Fluggeschwindigkeit,飛行速度,zh-TW
+Flying Speed,飛行速度,zh-TW
+Fortuna,幸運,zh-TW
+Forza del salto,跳躍力,zh-TW
+Forza di salto del cavallo,馬跳躍力,zh-TW
+Força de salto do cavalo,馬跳躍力,zh-TW
+Força do salto,跳躍力,zh-TW
+Friction Modifier,摩擦力修正係數,zh-TW
+Geniş Saldırı Hasar Oranı,橫掃傷害率,zh-TW
+Geschwindigkeit,速度,zh-TW
+Giáp,盔甲,zh-TW
+Glück,幸運,zh-TW
+Gravedad,重力,zh-TW
+Gravidade,重力,zh-TW
+Gravity,重力,zh-TW
+Gravità,重力,zh-TW
+gravité,重力,zh-TW
+Größe,大小,zh-TW
+Güvenli Düşüş Mesafesi,安全摔落高度,zh-TW
+Hareket Verimliliği,移動效率,zh-TW
+hauteur des pas,最大行走高度,zh-TW
+Hava Direnci Niteleyici,空氣阻力修正係數,zh-TW
+Hiệu quả di chuyển,移動效率,zh-TW
+Hiệu quả di chuyển dưới nước,水中移動效率,zh-TW
+Hiệu suất đào,挖掘效率,zh-TW
+Horse Jump Strength,馬跳躍力,zh-TW
+Hız,速度,zh-TW
+Hấp thụ tối đa,最大傷害吸收值,zh-TW
+Hệ số lực cản không khí,空氣阻力修正係數,zh-TW
+Hệ số ma sát,摩擦力修正係數,zh-TW
+Hệ số sát thương rơi,摔落傷害倍率,zh-TW
+Jump Strength,跳躍力,zh-TW
+Kamera Mesafesi,鏡頭距離,zh-TW
+Kameraabstand,鏡頭距離,zh-TW
+Kazım Verimliliği,挖掘效率,zh-TW
+Khoảng cách hiển thị nhãn ghi tên,名稱標籤距離,zh-TW
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,名稱標籤分數距離,zh-TW
+Khoảng cách máy quay,鏡頭距離,zh-TW
+Kháng đẩy lùi,抗擊退,zh-TW
+Kháng đẩy lùi từ vụ nổ,抗爆炸擊退,zh-TW
+Knockback Resistance,抗擊退,zh-TW
+Kreaturen‐Anlockdistanz,生物引誘範圍,zh-TW
+Kreaturen‐Verfolgedistanz,生物追蹤範圍,zh-TW
+Luck,幸運,zh-TW
+Luftwiderstandsfaktor,空氣阻力修正係數,zh-TW
+Lực lượng thây ma tăng cường,殭屍增援隊,zh-TW
+Max Absorption,最大傷害吸收值,zh-TW
+Max Health,最高生命值,zh-TW
+Maximale Absorption,最大傷害吸收值,zh-TW
+Maximale Gesundheit,最高生命值,zh-TW
+May mắn,幸運,zh-TW
+Mining Efficiency,挖掘效率,zh-TW
+Mob Follow Range,生物追蹤範圍,zh-TW
+Mob Tempt Range,生物引誘範圍,zh-TW
+Mobの誘引される範囲,生物引誘範圍,zh-TW
+Mobの追跡範囲,生物追蹤範圍,zh-TW
+Modificador de atrito,摩擦力修正係數,zh-TW
+Modificador de fricción,摩擦力修正係數,zh-TW
+Modificador de resistencia del aire,空氣阻力修正係數,zh-TW
+Modificador de resistência ao ar,空氣阻力修正係數,zh-TW
+modificateur de friction,摩擦力修正係數,zh-TW
+modificateur de résistance à l'air,空氣阻力修正係數,zh-TW
+Modificatore di attrito,摩擦力修正係數,zh-TW
+Modificatore di resistenza aerodinamica,空氣阻力修正係數,zh-TW
+Moltiplicatore del danno da caduta,摔落傷害倍率,zh-TW
+Movement Efficiency,移動效率,zh-TW
+Multiplicador de dano por queda,摔落傷害倍率,zh-TW
+Multiplicador de daño por caída,摔落傷害倍率,zh-TW
+multiplicateur des dégâts de chute,摔落傷害倍率,zh-TW
+Name Tag Distance,名稱標籤距離,zh-TW
+Name Tag Score Distance,名稱標籤分數距離,zh-TW
+Namensschildabstand,名稱標籤距離,zh-TW
+Objekt‐Interaktionsweite,實體互動距離,zh-TW
+Oksijen Takviyesi,額外氧氣,zh-TW
+Ossigeno aggiuntivo,額外氧氣,zh-TW
+Oxigênio extra,額外氧氣,zh-TW
+Oxygen Bonus,額外氧氣,zh-TW
+Oxígeno extra,額外氧氣,zh-TW
+Patlama Savrulması Direnci,抗爆炸擊退,zh-TW
+Pferdesprungstärke,馬跳躍力,zh-TW
+Phạm vi nhận điểm mốc,路徑點接收距離,zh-TW
+Phạm vi thu hút sinh vật,生物引誘範圍,zh-TW
+Phạm vi truyền điểm mốc,路徑點傳輸距離,zh-TW
+Phạm vi tương tác khối,方塊互動距離,zh-TW
+Phạm vi tương tác thực thể,實體互動距離,zh-TW
+Phạm vi đi theo của sinh vật,生物追蹤範圍,zh-TW
+Phần oxi thêm,額外氧氣,zh-TW
+points d'armure,盔甲,zh-TW
+points d'attaque,攻擊傷害,zh-TW
+Portata di ricezione del punto di riferimento,路徑點接收距離,zh-TW
+Portata di trasmissione del punto di riferimento,路徑點傳輸距離,zh-TW
+portée d'interaction avec les blocs,方塊互動距離,zh-TW
+portée d'interaction avec les entités,實體互動距離,zh-TW
+portée de détection des créatures,生物追蹤範圍,zh-TW
+portée de réception du point de repère,路徑點接收距離,zh-TW
+portée de tentation des créatures,生物引誘範圍,zh-TW
+portée de transmission du point de repère,路徑點傳輸距離,zh-TW
+Potencia de salto,跳躍力,zh-TW
+Potencia de salto del caballo,馬跳躍力,zh-TW
+Proporción del daño de barrido,橫掃傷害率,zh-TW
+puissance de saut,跳躍力,zh-TW
+puissance de saut du cheval,馬跳躍力,zh-TW
+Punktetafelabstand,名稱標籤分數距離,zh-TW
+Punti armatura,盔甲,zh-TW
+Quy mô,大小,zh-TW
+Radio de atracción de criaturas,生物引誘範圍,zh-TW
+Raggio d'interazione con i blocchi,方塊互動距離,zh-TW
+Raggio d'interazione con le entità,實體互動距離,zh-TW
+Raggio di rilevamento delle creature,生物追蹤範圍,zh-TW
+Raggio di tentazione delle creature,生物引誘範圍,zh-TW
+Rango de interacción con bloques,方塊互動距離,zh-TW
+Rango de interacción con entidades,實體互動距離,zh-TW
+Rango de recepción del punto de referencia,路徑點接收距離,zh-TW
+Rango de seguimiento,生物追蹤範圍,zh-TW
+Rango de transmisión del punto de referencia,路徑點傳輸距離,zh-TW
+rapidité,速度,zh-TW
+Rapporto del danno sferzante,橫掃傷害率,zh-TW
+ratio de dégâts par balayage,橫掃傷害率,zh-TW
+rebond,彈性,zh-TW
+Rebote,彈性,zh-TW
+recul d'attaque,擊退,zh-TW
+Reforços de zumbis,殭屍增援隊,zh-TW
+Refuerzos zombi,殭屍增援隊,zh-TW
+Reibungsfaktor,摩擦力修正係數,zh-TW
+renforts de zombies,殭屍增援隊,zh-TW
+Repulsão do ataque,擊退,zh-TW
+Resistencia al empuje,抗擊退,zh-TW
+Resistencia al empuje de las explosiones,抗爆炸擊退,zh-TW
+Resistenza al contraccolpo,抗擊退,zh-TW
+Resistenza al contraccolpo delle esplosioni,抗爆炸擊退,zh-TW
+Resistência da armadura,盔甲強度,zh-TW
+Resistência à repulsão,抗擊退,zh-TW
+Resistência à repulsão de explosões,抗爆炸擊退,zh-TW
+Rinforzi zombi,殭屍增援隊,zh-TW
+robustesse,盔甲強度,zh-TW
+résistance au recul,抗擊退,zh-TW
+résistance au recul des explosions,抗爆炸擊退,zh-TW
+Rüstung,盔甲,zh-TW
+Rüstungshärte,盔甲強度,zh-TW
+Safe Fall Distance,安全摔落高度,zh-TW
+Saldırı Hasarı,攻擊傷害,zh-TW
+Saldırı Hızı,攻擊速度,zh-TW
+Saldırı Savurması,擊退,zh-TW
+Salud máxima,最高生命值,zh-TW
+Salute massima,最高生命值,zh-TW
+Sauerstoffbonus,額外氧氣,zh-TW
+Savrulma Direnci,抗擊退,zh-TW
+Scala,大小,zh-TW
+Scale,大小,zh-TW
+Schleichgeschwindigkeit,潛行速度,zh-TW
+Schritthöhe,最大行走高度,zh-TW
+Schwerkraft,重力,zh-TW
+Schwungschadensverhältnis,橫掃傷害率,zh-TW
+Sekme,彈性,zh-TW
+Sichere Fallhöhe,安全摔落高度,zh-TW
+Sinh lực tối đa,最高生命值,zh-TW
+Sneaking Speed,潛行速度,zh-TW
+Solidità dell'armatura,盔甲強度,zh-TW
+Sorte,幸運,zh-TW
+Speed,速度,zh-TW
+Sprungstärke,跳躍力,zh-TW
+Standfestigkeit,抗擊退,zh-TW
+Step Height,最大行走高度,zh-TW
+Su Altında Kazım Hızı,水中挖掘速度,zh-TW
+Submerged Mining Speed,水中挖掘速度,zh-TW
+Suda Hareket Verimliliği,水中移動效率,zh-TW
+Suerte,幸運,zh-TW
+Sweeping Damage Ratio,橫掃傷害率,zh-TW
+Sürtünme Düzenleyici,摩擦力修正係數,zh-TW
+Sức bật lùi,擊退,zh-TW
+Sức nhảy,跳躍力,zh-TW
+Sức nhảy của ngựa,馬跳躍力,zh-TW
+Sức tấn công,攻擊傷害,zh-TW
+taille,大小,zh-TW
+Taxa de dano lateral,橫掃傷害率,zh-TW
+Tempo di combustione,燃燒時間,zh-TW
+temps en feu,燃燒時間,zh-TW
+Thời gian cháy,燃燒時間,zh-TW
+Trọng lực,重力,zh-TW
+Tỉ lệ sát thương quét cạnh,橫掃傷害率,zh-TW
+Tốc độ,速度,zh-TW
+Tốc độ bay,飛行速度,zh-TW
+Tốc độ phá khối,方塊破壞速度,zh-TW
+Tốc độ tấn công,攻擊速度,zh-TW
+Tốc độ đi rón rén,潛行速度,zh-TW
+Tốc độ đào dưới nước,水中挖掘速度,zh-TW
+Unterwasser‐Abbaugeschwindigkeit,水中挖掘速度,zh-TW
+Uçma Hızı,飛行速度,zh-TW
+Uçuş Hızı,飛行速度,zh-TW
+Varlık Etkileşim Mesafesi,實體互動距離,zh-TW
+Velocidad,速度,zh-TW
+Velocidad al agacharse,潛行速度,zh-TW
+Velocidad al romper bloques,方塊破壞速度,zh-TW
+Velocidad al romper bloques sumergido,水中挖掘速度,zh-TW
+Velocidad de ataque,攻擊速度,zh-TW
+Velocidad de vuelo,飛行速度,zh-TW
+Velocidade,速度,zh-TW
+Velocidade de ataque,攻擊速度,zh-TW
+Velocidade de mineração submersa,水中挖掘速度,zh-TW
+Velocidade de quebra de blocos,方塊破壞速度,zh-TW
+Velocidade do voo,飛行速度,zh-TW
+Velocidade furtiva,潛行速度,zh-TW
+Velocità,速度,zh-TW
+Velocità d'attacco,攻擊速度,zh-TW
+Velocità d'estrazione sott'acqua,水中挖掘速度,zh-TW
+Velocità di distruzione dei blocchi,方塊破壞速度,zh-TW
+Velocità furtiva,潛行速度,zh-TW
+Velocità in volo,飛行速度,zh-TW
+Vida máxima,最高生命值,zh-TW
+vie maximale,最高生命值,zh-TW
+vitesse accroupie,潛行速度,zh-TW
+vitesse d'attaque,攻擊速度,zh-TW
+vitesse de destruction des blocs,方塊破壞速度,zh-TW
+vitesse de minage sous l'eau,水中挖掘速度,zh-TW
+vitesse de vol,飛行速度,zh-TW
+Wasser‐Bewegungseffizienz,水中移動效率,zh-TW
+Water Movement Efficiency,水中移動效率,zh-TW
+Waypoint Receive Range,路徑點接收距離,zh-TW
+Waypoint Transmit Range,路徑點傳輸距離,zh-TW
+Wegpunkt‐Empfangsreichweite,路徑點接收距離,zh-TW
+Wegpunkt‐Sendereichweite,路徑點傳輸距離,zh-TW
+Yanma Süresi,燃燒時間,zh-TW
+Yer Çekimi,重力,zh-TW
+Yol Noktası Alma Mesafesi,路徑點接收距離,zh-TW
+Yol Noktası İletme Mesafesi,路徑點傳輸距離,zh-TW
+Zombi Takviyesi,殭屍增援隊,zh-TW
+Zombie Reinforcements,殭屍增援隊,zh-TW
+Zombie-Verstärkung,殭屍增援隊,zh-TW
+Zombie‐Verstärkung,殭屍增援隊,zh-TW
+Zıplama Gücü,跳躍力,zh-TW
+Zırh,盔甲,zh-TW
+Zırh Sertliği,盔甲強度,zh-TW
+Ölçek,大小,zh-TW
+Độ bền của áo giáp,盔甲強度,zh-TW
+Độ bền áo giáp,盔甲強度,zh-TW
+Độ cao rơi xuống an toàn,安全摔落高度,zh-TW
+Độ nảy,彈性,zh-TW
+Şans,幸運,zh-TW
+Безопасная высота падения,安全摔落高度,zh-TW
+Бонус к кислороду,額外氧氣,zh-TW
+Броня,盔甲,zh-TW
+Везение,幸運,zh-TW
+Время горения,燃燒時間,zh-TW
+Высота шага,最大行走高度,zh-TW
+Гравитация,重力,zh-TW
+Дальность взаимодействия с блоками,方塊互動距離,zh-TW
+Дальность взаимодействия с сущностями,實體互動距離,zh-TW
+Дальность видимости имени,名稱標籤距離,zh-TW
+Дальность видимости счёта под именем,名稱標籤分數距離,zh-TW
+Дальность обнаружения маркеров,路徑點接收距離,zh-TW
+Дальность передачи маркера,路徑點傳輸距離,zh-TW
+Дальность приманивания,生物引誘範圍,zh-TW
+Диапазон преследования моба,生物追蹤範圍,zh-TW
+Коэффициент разящего удара,橫掃傷害率,zh-TW
+Максимальное здоровье,最高生命值,zh-TW
+Множитель урона от падения,摔落傷害倍率,zh-TW
+Модификатор сопротивления воздуха,空氣阻力修正係數,zh-TW
+Модификатор трения,摩擦力修正係數,zh-TW
+Отбрасывание при атаке,擊退,zh-TW
+Отдалённость камеры,鏡頭距離,zh-TW
+Подкрепление зомби,殭屍增援隊,zh-TW
+Предел поглощения,最大傷害吸收值,zh-TW
+Размер,大小,zh-TW
+Сила прыжка,跳躍力,zh-TW
+Сила прыжка лошади,馬跳躍力,zh-TW
+Скорость,速度,zh-TW
+Скорость атаки,攻擊速度,zh-TW
+Скорость добычи под водой,水中挖掘速度,zh-TW
+Скорость подкрадывания,潛行速度,zh-TW
+Скорость полёта,飛行速度,zh-TW
+Скорость разрушения блоков,方塊破壞速度,zh-TW
+Сопротивление к отбрасыванию,抗擊退,zh-TW
+Сопротивление к отбрасыванию взрывом,抗爆炸擊退,zh-TW
+Твёрдость брони,盔甲強度,zh-TW
+Упругость,彈性,zh-TW
+Урон при атаке,攻擊傷害,zh-TW
+Эффективность добычи,挖掘效率,zh-TW
+Эффективность передвижения,移動效率,zh-TW
+Эффективность передвижения в воде,水中移動效率,zh-TW
+กระดอนโจมตี,擊退,zh-TW
+กำลังเสริมซอมบี้,殭屍增援隊,zh-TW
+ขนาด,大小,zh-TW
+ความต้านทานการกระดอน,抗擊退,zh-TW
+ความต้านทานการกระดอนจากระเบิด,抗爆炸擊退,zh-TW
+ความสูงของขั้นก้าว,最大行走高度,zh-TW
+ความเด้ง,彈性,zh-TW
+ความเร็ว,速度,zh-TW
+ความเร็วการขุดใต้น้ำ,水中挖掘速度,zh-TW
+ความเร็วการทำลายบล็อก,方塊破壞速度,zh-TW
+ความเร็วการบิน,飛行速度,zh-TW
+ความเร็วการย่อง,潛行速度,zh-TW
+ความเร็วโจมตี,攻擊速度,zh-TW
+ความแข็งแกร่งของเกราะ,盔甲強度,zh-TW
+ความแรงการกระโดด,跳躍力,zh-TW
+ดาเมจโจมตี,攻擊傷害,zh-TW
+ดูดซับสูงสุด,最大傷害吸收值,zh-TW
+ตัวคูณดาเมจจากการตก,摔落傷害倍率,zh-TW
+ตัวดัดแปรแรงต้านอากาศ,空氣阻力修正係數,zh-TW
+ตัวดัดแปรแรงเสียดทาน,摩擦力修正係數,zh-TW
+ประสิทธิภาพการขุด,挖掘效率,zh-TW
+ประสิทธิภาพการเคลื่อนที่,移動效率,zh-TW
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,水中移動效率,zh-TW
+ระยะการตกที่ปลอดภัย,安全摔落高度,zh-TW
+ระยะการรับเวย์พอยต์,路徑點接收距離,zh-TW
+ระยะการล่อของม็อบ,生物引誘範圍,zh-TW
+ระยะการส่งผ่านเวย์พอยต์,路徑點傳輸距離,zh-TW
+ระยะคะแนนใต้ป้ายชื่อ,名稱標籤分數距離,zh-TW
+ระยะที่ม็อบติดตาม,生物追蹤範圍,zh-TW
+ระยะปฏิสัมพันธ์กับบล็อก,方塊互動距離,zh-TW
+ระยะปฏิสัมพันธ์กับเอนทิตี้,實體互動距離,zh-TW
+ระยะป้ายชื่อ,名稱標籤距離,zh-TW
+ระยะห่างกล้อง,鏡頭距離,zh-TW
+ระยะเวลาติดไฟ,燃燒時間,zh-TW
+ออกซิเจนพิเศษ,額外氧氣,zh-TW
+อัตราส่วนดาเมจแบบกวาด,橫掃傷害率,zh-TW
+เกราะ,盔甲,zh-TW
+เลือดสูงสุด,最高生命值,zh-TW
+แรงม้ากระโดด,馬跳躍力,zh-TW
+แรงโน้มถ่วง,重力,zh-TW
+โชค,幸運,zh-TW
+なぎ払いダメージの比率,橫掃傷害率,zh-TW
+ウェイポイント伝達距離,路徑點傳輸距離,zh-TW
+ウェイポイント受信距離,路徑點接收距離,zh-TW
+ウマの跳躍力,馬跳躍力,zh-TW
+エンティティ操作範囲,實體互動距離,zh-TW
+カメラ距離,鏡頭距離,zh-TW
+サイズ,大小,zh-TW
+スニーク速度,潛行速度,zh-TW
+ゾンビの増援,殭屍增援隊,zh-TW
+ネームタグの表示距離,名稱標籤距離,zh-TW
+ネームタグ下のスコアの表示距離,名稱標籤分數距離,zh-TW
+ノックバック,擊退,zh-TW
+ノックバック力,擊退,zh-TW
+ノックバック耐性,抗擊退,zh-TW
+ブロック操作範囲,方塊互動距離,zh-TW
+ブロック破壊速度,方塊破壞速度,zh-TW
+僵尸增援,殭屍增援隊,zh-TW
+击退,擊退,zh-TW
+击退抗性,抗擊退,zh-TW
+名牌分数距离,名稱標籤分數距離,zh-TW
+名牌距离,名稱標籤距離,zh-TW
+大きさ,大小,zh-TW
+安全落下高度,安全摔落高度,zh-TW
+实体交互距离,實體互動距離,zh-TW
+尺寸,大小,zh-TW
+幸运值,幸運,zh-TW
+弹性,彈性,zh-TW
+弾性係数,彈性,zh-TW
+护甲值,盔甲,zh-TW
+採掘効率,挖掘效率,zh-TW
+摔落伤害倍数,摔落傷害倍率,zh-TW
+摩擦係数,摩擦力修正係數,zh-TW
+摩擦力修正系数,摩擦力修正係數,zh-TW
+攻击伤害,攻擊傷害,zh-TW
+攻击速度,攻擊速度,zh-TW
+攻撃力,攻擊傷害,zh-TW
+攻撃速度,攻擊速度,zh-TW
+方块交互距离,方塊互動距離,zh-TW
+方块破坏速度,方塊破壞速度,zh-TW
+最大伤害吸收值,最大傷害吸收值,zh-TW
+最大体力,最高生命值,zh-TW
+最大生命值,最高生命值,zh-TW
+横扫伤害比率,橫掃傷害率,zh-TW
+段差上限,最大行走高度,zh-TW
+水下挖掘速度,水中挖掘速度,zh-TW
+水中採掘速度,水中挖掘速度,zh-TW
+水中移动效率,水中移動效率,zh-TW
+水中移動効率,水中移動效率,zh-TW
+潜行速度,潛行速度,zh-TW
+炎上時間,燃燒時間,zh-TW
+爆炸击退抗性,抗爆炸擊退,zh-TW
+爆発ノックバック耐性,抗爆炸擊退,zh-TW
+生物引诱范围,生物引誘範圍,zh-TW
+生物跟随距离,生物追蹤範圍,zh-TW
+盔甲韧性,盔甲強度,zh-TW
+着火时间,燃燒時間,zh-TW
+移动效率,移動效率,zh-TW
+移動効率,移動效率,zh-TW
+移動速度,速度,zh-TW
+空气阻力修正系数,空氣阻力修正係數,zh-TW
+空気抵抗係数,空氣阻力修正係數,zh-TW
+落下ダメージ倍率,摔落傷害倍率,zh-TW
+衝撃吸収レベルの上限,最大傷害吸收值,zh-TW
+路径点传输距离,路徑點傳輸距離,zh-TW
+路径点接收距离,路徑點接收距離,zh-TW
+跳跃力度,跳躍力,zh-TW
+運,幸運,zh-TW
+酸素ボーナス,額外氧氣,zh-TW
+镜头距离,鏡頭距離,zh-TW
+防具強度,盔甲強度,zh-TW
+防御力,盔甲,zh-TW
+额外氧气,額外氧氣,zh-TW
+飞行速度,飛行速度,zh-TW
+马匹跳跃能力,馬跳躍力,zh-TW
+개체 상호 작용 범위,實體互動距離,zh-TW
+걸음 높이,最大行走高度,zh-TW
+경로점 발신 범위,路徑點傳輸距離,zh-TW
+경로점 수신 범위,路徑點接收距離,zh-TW
+공격 밀침 세기,擊退,zh-TW
+공격 속도,攻擊速度,zh-TW
+공격 피해,攻擊傷害,zh-TW
+공기 저항력 변경자,空氣阻力修正係數,zh-TW
+낙하 피해 배수,摔落傷害倍率,zh-TW
+마찰력 변경자,摩擦力修正係數,zh-TW
+말 점프 강도,馬跳躍力,zh-TW
+몹 따름 범위,生物追蹤範圍,zh-TW
+몹 유인 범위,生物引誘範圍,zh-TW
+밀침 저항,抗擊退,zh-TW
+방어,盔甲,zh-TW
+방어 강도,盔甲強度,zh-TW
+배율,大小,zh-TW
+블록 상호 작용 범위,方塊互動距離,zh-TW
+블록 파괴 속도,方塊破壞速度,zh-TW
+비행 속도,飛行速度,zh-TW
+산소 추가,額外氧氣,zh-TW
+속도,速度,zh-TW
+수중 이동 효율,水中移動效率,zh-TW
+수중 채굴 속도,水中挖掘速度,zh-TW
+안전 낙하 거리,安全摔落高度,zh-TW
+연소 시간,燃燒時間,zh-TW
+웅크렸을 때 속도,潛行速度,zh-TW
+이동 효율,移動效率,zh-TW
+이름표 거리,名稱標籤距離,zh-TW
+이름표 점수 거리,名稱標籤分數距離,zh-TW
+점프 세기,跳躍力,zh-TW
+좀비 증원,殭屍增援隊,zh-TW
+중력,重力,zh-TW
+채굴 효율,挖掘效率,zh-TW
+최대 생명력,最高生命值,zh-TW
+최대 흡수,最大傷害吸收值,zh-TW
+카메라 거리,鏡頭距離,zh-TW
+크기,大小,zh-TW
+탄성,彈性,zh-TW
+폭발 밀침 저항,抗爆炸擊退,zh-TW
+행운,幸運,zh-TW
+휩쓸기 피해 비율,橫掃傷害率,zh-TW

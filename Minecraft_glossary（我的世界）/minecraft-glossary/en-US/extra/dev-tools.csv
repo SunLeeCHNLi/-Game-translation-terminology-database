@@ -1,0 +1,1915 @@
+﻿source,target,tgt_lng
+ ,Placement Priority:,en-US
+"""%s"" n'est pas un nom de structure valide",Invalid structure name '%s',en-US
+"#%s etiketinde blok beklendi, %s bulundu",Expected block in #%s: got %s,en-US
+#%sに含まれるブロックが必要ですが、%sが検出されました,Expected block in #%s: got %s,en-US
+"#%s에 속하는 블록이 필요한데, %s(이)었습니다",Expected block in #%s: got %s,en-US
+%2$s birim zamanda %1$s,%s on tick %s,en-US
+"%2$s türü %1$s eşya beklendi, %3$s bulundu",Expected %s items of type %s: found %s,en-US
+"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",Expected %s entities of type %s: found %s,en-US
+"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",Expected %s items of type %s: found %s,en-US
+"%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+"%2$s, %3$s, %4$s 周圍應只有一個 %1$s，但找到了 %5$s 個","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+"%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다","Expected %s to exist around %s, %s, %s",en-US
+"%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+"%2$s, %3$s, %4$s周围应仅存在一个%1$s，实际为%5$s个","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+"%2$s, %3$s, %4$s周围应存在%1$s","Expected %s to exist around %s, %s, %s",en-US
+%2$sティック時点で%1$s,%s on tick %s,en-US
+"%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+%s (틱 %s),%s on tick %s,en-US
+%s al tick %s,%s on tick %s,en-US
+%s au tick %s,%s on tick %s,en-US
+"%s bei %s, %s, %s (relativ: %s, %s, %s) in Tick %s","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+%s beklendi,Expected %s,en-US
+%s birim zaman içinde başarılı veya başarısız olunmadı,Didn't succeed or fail within %s ticks,en-US
+"%s bloğu beklendi, %s bulundu",Expected block %s: got %s,en-US
+%s bloğunun mevcut olması bekleniyor,Expected block %s to be present,en-US
+"%s chạm vào %s, %s, %s không mong muốn (tương đối: %s, %s, %s)","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"%s değerinin %s olması beklendi, %s bulundu",Expected %s to be %s: was %s,en-US
+"%s durumunun %s olması beklendi, %s bulundu",Expected property %s to be %s: was %s,en-US
+"%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+"%s en %s, %s, %s (relative : %s, %s, %s) au tick %s","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+"%s en %s, %s, %s (relativo: %s, %s, %s) en el tic %s","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+%s en el tic %s,%s on tick %s,en-US
+"%s entités de type ""%s"" attendues (%s trouvées)",Expected %s entities of type %s: found %s,en-US
+%s erwartet,Expected %s,en-US
+%s eşya tipi beklenmedi,Did not expect item of type %s,en-US
+%s Gegenstände vom Typ %s erwartet; %s gefunden,Expected %s items of type %s: found %s,en-US
+%s in Tick %s,%s on tick %s,en-US
+%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,Expected %s to be in between %s and %s: was %s,en-US
+%s için olan test yapısı yerleştirilemedi,Failed to place test structure for %s,en-US
+%s için varlık verisi uyumsuzluğu,Entity data mismatch for %s,en-US
+%s no tique %s,%s on tick %s,en-US
+%s Objekte vom Typ %s erwartet; %s gefunden,Expected %s entities of type %s: found %s,en-US
+"%s objets de type ""%s"" attendus (%s trouvés)",Expected %s items of type %s: found %s,en-US
+"%s presso %s, %s, %s (relativa: %s, %s, %s) al tick %s","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+"%s previsto: %s, risultato: %s",Expected %s to be %s: was %s,en-US
+"%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+%s testi yürütülüyor,Starting test %s,en-US
+%s trên nhịp %s,%s on tick %s,en-US
+%s türünde eşya beklendi,Expected item of type %s,en-US
+"%s türünden %s varlık beklendi, %s bulundu",Expected %s entities of type %s: found %s,en-US
+"%s tại %s, %s, %s (tương đối: %s, %s, %s) trên nhịp %s","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+%s varlığı oluşturulamadı,Failed to create entity %s,en-US
+%s varlığı testte başarısız oldu: %s,Entity %s failed test: %s,en-US
+%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,Entity %s failed test: %s. Expected %s: was %s,en-US
+%s varlığının %s %s etkisine sahip olması beklendi,Expected %s to have effect %s %s,en-US
+"%s varlığının %s, %s, %s civarında var olması beklendi","Expected %s to exist around %s, %s, %s",en-US
+%s varlığının testte var olması beklendi,Expected %s to exist in test,en-US
+%s varlığının var olması beklenmedi,Did not expect %s to exist,en-US
+"%s wurde als %s erwartet, war aber %s",Expected %s to be %s: was %s,en-US
+"%s wurde als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"%s wurde bei %s, %s, %s erwartet","Expected %s to exist around %s, %s, %s",en-US
+"%s wurde nicht als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"%s zwischen %s und %s erwartet, war aber %s",Expected %s to be in between %s and %s: was %s,en-US
+%s в такте %s,%s on tick %s,en-US
+"%s в точке %s, %s, %s (относительно: %s, %s, %s) в такте %s","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+%s ต้องมีเอฟเฟกต์ %s %s,Expected %s to have effect %s %s,en-US
+%s ต้องเป็น %s: ตอนนี้เป็น %s,Expected %s to be %s: was %s,en-US
+"%s ที่ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s) ในติ๊กที่ %s","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+%s ในติ๊กที่ %s,%s on tick %s,en-US
+%s 不應存在,Did not expect %s to exist,en-US
+"%s 不應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+%s 應位於 %s 和 %s 之間，但實際為 %s,Expected %s to be in between %s and %s: was %s,en-US
+"%s 應存在於 %s, %s, %s 周圍","Expected %s to exist around %s, %s, %s",en-US
+%s 應存在於測試中,Expected %s to exist in test,en-US
+%s 應有效果 %s %s,Expected %s to have effect %s %s,en-US
+%s 應為 %s，但實際為 %s,Expected %s to be %s: was %s,en-US
+"%s 應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+%s 方塊過多,Too many %s blocks,en-US
+%s 的實體資料不相符,Entity data mismatch for %s,en-US
+%s 개체 생성에 실패했습니다,Failed to create entity %s,en-US
+%s 개체가 테스트에 실패했습니다: %s,Entity %s failed test: %s,en-US
+"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",Entity %s failed test: %s. Expected %s: was %s,en-US
+%s 블록이 너무 많습니다,Too many %s blocks,en-US
+%s 블록이 있으면 안 됩니다,Did not expect block to be %s,en-US
+"%s 블록이 필요한데, %s(이)었습니다",Expected block %s: got %s,en-US
+"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",Expected property %s to be %s: was %s,en-US
+%s 유형의 아이템이 있으면 안 됩니다,Did not expect item of type %s,en-US
+%s 유형의 아이템이 필요합니다,Expected item of type %s,en-US
+"%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+"%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません","Unable to save test structure template for test instance at %s, %s, %s",en-US
+"%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다","Unable to save test structure template for test instance at %s, %s, %s",en-US
+"%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"%sが%s, %s, %sの周囲に存在することが必要です","Expected %s to exist around %s, %s, %s",en-US
+%sが%sであることが必要ですが、%sでした,Expected %s to be %s: was %s,en-US
+%sがテスト内に存在している必要があります,Expected %s to exist in test,en-US
+%sが存在することは予期されていません,Did not expect %s to exist,en-US
+%sが必要です,Expected %s,en-US
+%sには効果%s %sが付与されている必要があります,Expected %s to have effect %s %s,en-US
+%sのテスト構造物の設置に失敗しました,Failed to place test structure for %s,en-US
+%sは%sから%sの間であることが必要ですが、%sでした,Expected %s to be in between %s and %s: was %s,en-US
+%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,Invalid timeout (%s) - must be a positive number of ticks,en-US
+%sティック以内にシーケンスが終了しませんでした,No sequences finished within %s ticks,en-US
+%sティック以内に成功も失敗もしませんでした。,Didn't succeed or fail within %s ticks,en-US
+%sブロックが多すぎます,Too many %s blocks,en-US
+%s不应存在,Did not expect %s to exist,en-US
+"%s不应接触%s, %s, %s（相对位置：%s, %s, %s）","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+%s应存在于测试中,Expected %s to exist in test,en-US
+"%s应接触%s, %s, %s（相对位置：%s, %s, %s）","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+%s应有%s %s效果,Expected %s to have effect %s %s,en-US
+%s方块过多,Too many %s blocks,en-US
+%s的实体数据不匹配,Entity data mismatch for %s,en-US
+%s의 개체 데이터가 일치하지 않았습니다,Entity data mismatch for %s,en-US
+%s의 테스트 구조물 설치에 실패했습니다,Failed to place test structure for %s,en-US
+%s이(가) %s %s 효과를 갖고 있어야 합니다,Expected %s to have effect %s %s,en-US
+"%s이(가) %s(이)어야 하는데, %s(이)었습니다",Expected %s to be %s: was %s,en-US
+"%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",Expected %s to be in between %s and %s: was %s,en-US
+%s이(가) 아닌 잘못된 틱에 성공했습니다,Succeeded in invalid tick: expected %s,en-US
+%s이(가) 있으면 안 됩니다,Did not expect %s to exist,en-US
+%s이(가) 필요합니다,Expected %s,en-US
+%s틱 안에 끝난 시퀀스가 없습니다,No sequences finished within %s ticks,en-US
+%s틱 안에 성공하거나 실패하지 않았습니다,Didn't succeed or fail within %s ticks,en-US
+"%s，位于%s, %s, %s（相对位置：%s, %s, %s），时间为第%s刻","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+"%s，位於 %s, %s, %s（相對位置：%s, %s, %s），時間為 %s 刻","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+%s，时间为%s刻,%s on tick %s,en-US
+%s，時間為 %s 刻,%s on tick %s,en-US
+'%s' yapısı için boyut başarıyla tespit edildi,Size successfully detected for '%s',en-US
+'%s' yapısı için konum hazırlandı,Structure '%s' position prepared,en-US
+'%s' yapısı kullanılabilir değil,Structure '%s' is not available,en-US
+'%s' 구조물을 사용할 수 없습니다,Structure '%s' is not available,en-US
+'%s'은(는) 잘못된 구조물 이름입니다,Invalid structure name '%s',en-US
+'%s'의 크기를 성공적으로 감지했습니다,Size successfully detected for '%s',en-US
+[geçersiz],[invalid],en-US
+[inválido],[invalid],en-US
+[không hợp lệ],[invalid],en-US
+[no válido],[invalid],en-US
+[non valide],[invalid],en-US
+[non valido],[invalid],en-US
+[ungültig],[invalid],en-US
+[недействительно],[invalid],en-US
+[ไม่ถูกต้อง],[invalid],en-US
+[无效],[invalid],en-US
+[無効],[invalid],en-US
+[無效],[invalid],en-US
+[잘못됨],[invalid],en-US
+A entidade %s falhou no teste: %s,Entity %s failed test: %s,en-US
+"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",Entity %s failed test: %s. Expected %s: was %s,en-US
+A entidade deve segurar: %s,Entity should be holding %s,en-US
+Accepter,Accept,en-US
+Accetta,Accept,en-US
+Accettazione: accetta la riuscita di (una parte di) un collaudo,Accept Mode - Accept success for (part of) a test,en-US
+Aceitar,Accept,en-US
+Aceptar,Accept,en-US
+Ad:,Name:,en-US
+Afficher la zone de délimitation :,Show Bounding Box:,en-US
+Afficher les blocs invisibles :,Show Invisible Blocks:,en-US
+Akzeptanzmodus – Nimmt (teilweisen) Erfolg eines Tests entgegen,Accept Mode - Accept success for (part of) a test,en-US
+Akzeptieren,Accept,en-US
+"Al procesar la pieza asociada a las conexiones, este es el orden en el que el bloque rompecabezas intenta conectar con su pieza de destino.
+
+Los bloques rompecabezas se procesan en orden descendente, con un orden de inserción aleatorio.","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+Aligné,Aligned,en-US
+Ambiente: %s,Environment: %s,en-US
+Angolo,Corner,en-US
+Angolo: %s,Corner: %s,en-US
+Angolo: marcatore per piazzamento e dimensione,Corner Mode - Placement and size marker,en-US
+"Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+Aucun test,No such test,en-US
+Aucune séquence ne s'est terminée durant %s ticks,No sequences finished within %s ticks,en-US
+Ausgerichtet,Aligned,en-US
+Auswahlpriorität:,Selection Priority:,en-US
+Avvia,Start,en-US
+Avvio del collaudo %s...,Starting test %s,en-US
+Avvio: il punto di partenza di un collaudo,Start Mode - The starting point for a test,en-US
+Bao gồm thực thể:,Include Entities:,en-US
+Bağlantı Türü:,Joint Type:,en-US
+Başarısız et,Fail,en-US
+Başarısız Etme Modu - Testi başarısızlığa uğrat,Fail Mode - Fail the test,en-US
+Başarısız: %s,Failed: %s,en-US
+Başarısızlık şartları karşılandı,Fail conditions met,en-US
+Başlat,Start,en-US
+Bedingung bereits in Tick %s ausgelöst,Condition already triggered at %s,en-US
+Bedingung nicht ausgelöst,Condition not triggered,en-US
+Begrenzungsrahmen anzeigen:,Show Bounding Box:,en-US
+Behälter muss ein %s enthalten,Container should contain a single: %s,en-US
+Behälter muss enthalten: %s,Container should contain: %s,en-US
+Behälter muss leer sein,Container should be empty,en-US
+Beklenen tick'den önce başarıldı: beklenen tick %s,Succeeded before expected tick: expected to wait %s,en-US
+Beklenmeyen blok türü bulundu: %s,Unexpected block type found: %s,en-US
+Benutzerdefinierte NBT-Daten,Custom Data Tag Name,en-US
+Bezugsquelle:,Target Pool:,en-US
+Bilinmeyen dâhilî hata: %s,Unknown internal error: %s,en-US
+Biom für Test konnte nicht festgelegt werden,Failed to set biome for test,en-US
+"Bloc ""%s"" attendu (bloc reçu : ""%s"")",Expected block %s: got %s,en-US
+"Bloc ""%s"" inattendu",Did not expect block to be %s,en-US
+"Bloc ""%s"" manquant de la structure de test",Test structure missing %s block,en-US
+"Bloc attendu dans le tag #%s (valeur reçue : ""%s"")",Expected block in #%s: got %s,en-US
+Blocco %s mancante dalla struttura di collaudo,Test structure missing %s block,en-US
+Blocco complesso mancante,Missing block entity,en-US
+"Block %s erwartet, war aber %s",Expected block %s: got %s,en-US
+"Block in #%s erwartet, war aber %s",Expected block in #%s: got %s,en-US
+Block Tabanlı Test,Block-Based Test,en-US
+Block wurde nicht als %s erwartet,Did not expect block to be %s,en-US
+Blockbasierter Test,Block-Based Test,en-US
+Blockeigenschaft nicht vorhanden. Eigenschaft %s wurde als %s erwartet,Block property missing. Expected property %s to be %s,en-US
+"Blok durumu eksik, %s durumunun %s olması beklendi",Block property missing. Expected property %s to be %s,en-US
+Blok varlık eksik,Missing block entity,en-US
+Bloğun %s olması beklenmedi,Did not expect block to be %s,en-US
+Boyut: %s,Dimension: %s,en-US
+"Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+Böyle bir test yok,No such test,en-US
+Bắt đầu,Start,en-US
+Bị dư %s,Did not expect %s to exist,en-US
+Bị dư khối %s,Did not expect block to be %s,en-US
+Bị dư vật phẩm thuộc loại %s,Did not expect item of type %s,en-US
+Bị thiếu %s,Expected %s,en-US
+Bị thiếu %s thực thể thuộc loại %s: đã tìm thấy %s,Expected %s entities of type %s: found %s,en-US
+"Bị thiếu %s tồn tại xung quanh %s, %s, %s","Expected %s to exist around %s, %s, %s",en-US
+Bị thiếu %s vật phẩm thuộc loại %s: đã tìm thấy %s,Expected %s items of type %s: found %s,en-US
+Bị thiếu khối %s,Expected block %s to be present,en-US
+Bị thiếu khối %s: đã nhận %s,Expected block %s: got %s,en-US
+Bị thiếu khối trong #%s: đã nhận %s,Expected block in #%s: got %s,en-US
+Bị thiếu thuộc tính khối. Dự kiến thuộc tính %s là %s,Block property missing. Expected property %s to be %s,en-US
+Bị thiếu thực thể khối,Missing block entity,en-US
+Bị thiếu vật phẩm thuộc loại %s,Expected item of type %s,en-US
+Canto,Corner,en-US
+Cantos: %s,Corner: %s,en-US
+CARGAR,LOAD,en-US
+Cargar,Load,en-US
+Cargar y ejecutar,Load and Run,en-US
+Cargar: %s,Load: %s,en-US
+Carica,LOAD,en-US
+Carica,Load,en-US
+Carica ed esegui,Load and Run,en-US
+Caricamento: %s,Load: %s,en-US
+Caricamento: carica da documento,Load Mode - Load from file,en-US
+Caricato la struttura da «%s»,Structure loaded from '%s',en-US
+CARREGAR,LOAD,en-US
+Carregar,Load,en-US
+Carregar e executar,Load and Run,en-US
+Carregar: %s,Load: %s,en-US
+Ch.nhận,Accept,en-US
+CHARGE,LOAD,en-US
+Charger,Load,en-US
+Charger : %s,Load: %s,en-US
+Charger et exécuter,Load and Run,en-US
+Chiều không gian: %s,Dimension: %s,en-US
+Chế độ bắt đầu - Điểm bắt đầu cho một bài kiểm tra,Start Mode - The starting point for a test,en-US
+Chế độ chấp nhận - Chấp nhận thành công (một phần) bài kiểm tra,Accept Mode - Accept success for (part of) a test,en-US
+Chế độ dữ liệu - Đánh dấu logic trò chơi,Data Mode - Game logic marker,en-US
+Chế độ góc - Đánh dấu vị trí và kích cỡ,Corner Mode - Placement and size marker,en-US
+Chế độ lưu - Ghi vào tập tin,Save Mode - Write to file,en-US
+Chế độ nhật kí - Ghi một tin nhắn,Log Mode - Log a message,en-US
+Chế độ nạp - Nạp từ tập tin,Load Mode - Load from file,en-US
+Chế độ thất bại - Kiểm tra không thành công,Fail Mode - Fail the test,en-US
+Coin,Corner,en-US
+Coin : %s,Corner: %s,en-US
+Collaudo basato su blocchi,Block-Based Test,en-US
+Collaudo di funzione integrata,Built-in Function Test,en-US
+Collaudo in corso prima di piazzare la struttura,Ticking test before placing structure,en-US
+Colocación estricta:,Strict Placement:,en-US
+Concluído antes do tique esperado: esperava-se %s,Succeeded before expected tick: expected to wait %s,en-US
+Concluído no tique inválido. Esperava-se: %s,Succeeded in invalid tick: expected %s,en-US
+Condición no activada,Condition not triggered,en-US
+Condición ya activada en %s,Condition already triggered at %s,en-US
+Condition déjà déclenchée au tick %s,Condition already triggered at %s,en-US
+Condition non déclenchée,Condition not triggered,en-US
+Conditions d'échec remplies,Fail conditions met,en-US
+Condizione già attivata nel tick %s,Condition already triggered at %s,en-US
+Condizione non attivata,Condition not triggered,en-US
+Condizioni di fallimento soddisfatte,Fail conditions met,en-US
+Condição já acionada em %s,Condition already triggered at %s,en-US
+Condição não acionada,Condition not triggered,en-US
+Condições de falha atendidas,Fail conditions met,en-US
+Conjunto-alvo:,Target Pool:,en-US
+"Coordenadas de prueba: [%s, %s, %s] en %s","Test coordinates: [%s, %s, %s] in %s",en-US
+"Coordenadas de teste: [%s, %s, %s] em %s","Test coordinates: [%s, %s, %s] in %s",en-US
+"Coordenadas del jugador: [%s, %s, %s] en %s","Player coordinates: [%s, %s, %s] in %s",en-US
+"Coordenadas do jogador: [%s, %s, %s] em %s","Player coordinates: [%s, %s, %s] in %s",en-US
+Coordinate automatiche,Detect Structure Size and Position:,en-US
+"Coordinate del giocatore: [%s, %s, %s] nella dimensione %s","Player coordinates: [%s, %s, %s] in %s",en-US
+"Coordinate di collaudo: [%s, %s, %s] nella dimensione %s","Test coordinates: [%s, %s, %s] in %s",en-US
+"Coordonnées de test : [%s, %s, %s] dans la dimension %s","Test coordinates: [%s, %s, %s] in %s",en-US
+"Coordonnées du joueur : [%s, %s, %s] dans la dimension %s","Player coordinates: [%s, %s, %s] in %s",en-US
+Creazione dell'entità %s non riuscita,Failed to create entity %s,en-US
+"Cuando el bloque rompecabezas se conecta a una pieza, este es el orden en el que la pieza se procesa para las conexiones en estructuras más anchas.
+
+Las piezas se procesan en orden descendente, teniendo en cuenta el orden de inserción.","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+Cấp độ: %s,Levels: %s,en-US
+Cấu trúc '%s' không có sẵn,Structure '%s' is not available,en-US
+Cấu trúc kiểm tra thiếu %s khối,Test structure missing %s block,en-US
+Cấu trúc được lưu với tên '%s',Structure saved as '%s',en-US
+Cấu trúc: %s,Structure: %s,en-US
+Dados,Data,en-US
+Dados: %s,Data: %s,en-US
+Daten,Data,en-US
+Daten: %s,Data: %s,en-US
+Daten‐Modus – Markierung der Spiellogik,Data Mode - Game logic marker,en-US
+Dati,Data,en-US
+Dati dell'entità previsti: %s (ricevuto: %s),Expected entity data to be %s: was %s,en-US
+Dati: %s,Data: %s,en-US
+Dati: marcatore per logiche di gioco,Data Mode - Game logic marker,en-US
+Datos,Data,en-US
+Datos: %s,Data: %s,en-US
+Demasiados bloques %s,Too many %s blocks,en-US
+Depo boş olmalı,Container should be empty,en-US
+Depo şu eşyadan bir tane barındırmalı: %s,Container should contain a single: %s,en-US
+Depo şu eşyayı barındırmalı: %s,Container should contain: %s,en-US
+Der angegebene Block ist kein Blockgegenstand,Given block is not a block item,en-US
+DETECTAR,DETECT,en-US
+Detectar posição e tamanho da estrutura:,Detect Structure Size and Position:,en-US
+Detectar tamaño y posición:,Detect Structure Size and Position:,en-US
+Dieser Test existiert nicht,No such test,en-US
+Dimension : %s,Dimension: %s,en-US
+Dimensione della struttura,Structure Size,en-US
+Dimensione della struttura di collaudo,Test Structure Size,en-US
+dimensione della struttura in x,structure size x,en-US
+dimensione della struttura in y,structure size y,en-US
+dimensione della struttura in z,structure size z,en-US
+Dimensione: %s,Dimension: %s,en-US
+Dimensión: %s,Dimension: %s,en-US
+Dimensão: %s,Dimension: %s,en-US
+Données,Data,en-US
+Données : %s,Data: %s,en-US
+Données d'entité attendues : %s (valeur reçue : %s),Expected entity data to be %s: was %s,en-US
+Drehbar,Rollable,en-US
+Dâhilî Fonksiyon Testi,Built-in Function Test,en-US
+Délai d'expiration non valide (%s) - doit être un nombre positif de ticks,Invalid timeout (%s) - must be a positive number of ticks,en-US
+"Démarrage du test ""%s""",Starting test %s,en-US
+Démarrer,Start,en-US
+DÉTECTE,DETECT,en-US
+Détecter la position et la taille :,Detect Structure Size and Position:,en-US
+Döndürülebilir,Rollable,en-US
+Dönüşür:,Turns into:,en-US
+Dữ liệu,Data,en-US
+Dữ liệu thực thể không khớp cho %s,Entity data mismatch for %s,en-US
+Dữ liệu: %s,Data: %s,en-US
+"Dự kiến %s chạm vào %s, %s, %s (tương đối: %s, %s, %s)","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+Dự kiến %s có hiệu ứng %s %s,Expected %s to have effect %s %s,en-US
+Dự kiến %s là %s: trước đó là %s,Expected %s to be %s: was %s,en-US
+Dự kiến %s nằm trong phạm vi từ %s đến %s: trước đó là %s,Expected %s to be in between %s and %s: was %s,en-US
+Dự kiến %s tồn tại trong kiểm tra,Expected %s to exist in test,en-US
+"Dự kiến chỉ một %s tồn tại xung quanh %s, %s, %s nhưng đã tìm thấy %s","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+Dự kiến dữ liệu thực thể là %s: trước đó là %s,Expected entity data to be %s: was %s,en-US
+Dự kiến thuộc tính %s là %s: trước đó là %s,Expected property %s to be %s: was %s,en-US
+Ebenen: %s,Levels: %s,en-US
+Ecke,Corner,en-US
+Ecke: %s,Corner: %s,en-US
+Eck‐Modus – Markierung von Position und Größe,Corner Mode - Placement and size marker,en-US
+Effekt für %s wurde als %s %s erwartet,Expected %s to have effect %s %s,en-US
+Ejecutar la prueba antes de colocar la estructura,Ticking test before placing structure,en-US
+El bloque proporcionado no puede ser un objeto,Given block is not a block item,en-US
+El contenedor debe contener un único: %s,Container should contain a single: %s,en-US
+El contenedor debe contener: %s,Container should contain: %s,en-US
+El contenedor debe estar vacío,Container should be empty,en-US
+El inventario de la entidad debe contener %s,Entity inventory should contain %s,en-US
+El tamaño de «%s» se ha detectado con éxito,Size successfully detected for '%s',en-US
+Enregistrer,Log,en-US
+Enregistrer la structure,Save Structure,en-US
+Ensemble d'éléments cible :,Target Pool:,en-US
+Entidade-bloco ausente,Missing block entity,en-US
+Entidades:,Entities:,en-US
+Entità,Entities:,en-US
+Entità,Include Entities:,en-US
+"Entité ""%s"" attendue",Expected %s,en-US
+"Entité ""%s"" attendue autour de %s, %s, %s","Expected %s to exist around %s, %s, %s",en-US
+"Entité ""%s"" attendue d'avoir l'effet %s %s",Expected %s to have effect %s %s,en-US
+"Entité ""%s"" attendue dans le test",Expected %s to exist in test,en-US
+"Entité ""%s"" attendue de toucher %s, %s, %s (relative : %s, %s, %s)","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"Entité ""%s"" inattendue",Did not expect %s to exist,en-US
+"Entité ""%s"" non attendue de toucher %s, %s, %s (relative : %s, %s, %s)","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+Entité de bloc manquante,Missing block entity,en-US
+Entités :,Entities:,en-US
+Entorno: %s,Environment: %s,en-US
+Environnement : %s,Environment: %s,en-US
+Erkennen,DETECT,en-US
+Erreur interne inconnue : %s,Unknown internal error: %s,en-US
+Erro interno desconhecido: %s,Unknown internal error: %s,en-US
+Error al colocar la estructura de prueba para %s,Failed to place test structure for %s,en-US
+Error interno desconocido: %s,Unknown internal error: %s,en-US
+Errore interno sconosciuto: %s,Unknown internal error: %s,en-US
+Erwartete %s im Test,Expected %s to exist in test,en-US
+Esa prueba no existe,No such test,en-US
+"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",Expected %s entities of type %s: found %s,en-US
+Esperava-se %s,Expected %s,en-US
+Esperava-se a presença do bloco %s,Expected block %s to be present,en-US
+"Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+"Esperava-se o bloco %s, obteve-se %s",Expected block %s: got %s,en-US
+"Esperava-se o bloco em #%s, obteve-se %s",Expected block in #%s: got %s,en-US
+Esperava-se o item do tipo %s,Expected item of type %s,en-US
+"Esperava-se que %s exista ao redor de %s, %s, %s","Expected %s to exist around %s, %s, %s",en-US
+Esperava-se que %s existisse no teste,Expected %s to exist in test,en-US
+"Esperava-se que %s fosse %s, foi %s",Expected %s to be %s: was %s,en-US
+Esperava-se que a entidade %s tivesse o efeito %s (%s),Expected %s to have effect %s %s,en-US
+"Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"Esperava-se que a propriedade %s seja %s, foi %s",Expected property %s to be %s: was %s,en-US
+"Esperava-se que o valor %s estivesse %s e %s, foi %s",Expected %s to be in between %s and %s: was %s,en-US
+"Esperavam-se %s itens do tipo %s, encontrou-se %s",Expected %s items of type %s: found %s,en-US
+"Esperavam-se os dados da entidade: %s, foram: %s",Expected entity data to be %s: was %s,en-US
+Esquina,Corner,en-US
+Esquina: %s,Corner: %s,en-US
+Estado incorrecto. Se requiere %s: se obtuvo %s,Incorrect state. Expected %s: was %s,en-US
+"Estado incorreto. Esperava-se %s, foi %s",Incorrect state. Expected %s: was %s,en-US
+Estructura: %s,Structure: %s,en-US
+"Estrutura ""%s"" não encontrada",Structure '%s' is not available,en-US
+"Estrutura carregada de ""%s""",Structure loaded from '%s',en-US
+Estrutura de teste com o bloco ausente: %s,Test structure missing %s block,en-US
+"Estrutura salva como ""%s""",Structure saved as '%s',en-US
+Estrutura: %s,Structure: %s,en-US
+Falha ao colocar a estrutura de teste para %s,Failed to place test structure for %s,en-US
+Falha ao criar a entidade %s,Failed to create entity %s,en-US
+Falha ao definir o bioma para teste,Failed to set biome for test,en-US
+Falhar,Fail,en-US
+Falhou: %s,Failed: %s,en-US
+Fallar,Fail,en-US
+Fallimento: fa' fallire il collaudo,Fail Mode - Fail the test,en-US
+Fallisci,Fail,en-US
+Falló: %s,Failed: %s,en-US
+Falscher Blockobjekttyp: %s,Wrong block entity type: %s,en-US
+"Falscher Zustand. %s erwartet, war %s",Incorrect state. Expected %s: was %s,en-US
+Falta el bloque %s en la estructura de prueba,Test structure missing %s block,en-US
+Falta una entidad-bloque,Missing block entity,en-US
+Falta una propiedad de bloque. Se requiere que la propiedad %s sea %s,Block property missing. Expected property %s to be %s,en-US
+Fehlendes Blockobjekt,Missing block entity,en-US
+Fehlermodus – Lässt den Test fehlschlagen,Fail Mode - Fail the test,en-US
+Fehlgeschlagen: %s,Failed: %s,en-US
+Fehlkriterien erfüllt,Fail conditions met,en-US
+Fehlschlag,Fail,en-US
+Fija,Aligned,en-US
+Fissa,Aligned,en-US
+Fixa,Aligned,en-US
+Fonction : %s,Function: %s,en-US
+Fonksiyon: %s,Function: %s,en-US
+Función: %s,Function: %s,en-US
+Funktion: %s,Function: %s,en-US
+Funzione: %s,Function: %s,en-US
+Função: %s,Function: %s,en-US
+Garder puzzle,Keep Jigsaws,en-US
+Gegenstand vom Typ %s erwartet,Expected item of type %s,en-US
+Gegenstand vom Typ %s wurde nicht erwartet,Did not expect item of type %s,en-US
+Genera,Generate,en-US
+Generar,Generate,en-US
+Generieren,Generate,en-US
+Gerar,Generate,en-US
+Geçersiz birim zamanda başarıldı: %s beklendi,Succeeded in invalid tick: expected %s,en-US
+"Geçersiz durum. %s beklendi, %s bulundu",Incorrect state. Expected %s: was %s,en-US
+Geçersiz test kimliği,Invalid test ID,en-US
+Geçersiz yapı adı '%s',Invalid structure name '%s',en-US
+Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,Invalid timeout (%s) - must be a positive number of ticks,en-US
+Giữ mảnh ghép,Keep Jigsaws,en-US
+Graine de la structure,Structure Seed,en-US
+Grupo objetivo:,Target Pool:,en-US
+Größe der Testkonstruktion,Test Structure Size,en-US
+Größe von ‚%s‘ erfolgreich erkannt,Size successfully detected for '%s',en-US
+GUARDAR,SAVE,en-US
+Guardar,Save,en-US
+Guardar estructura,Save Structure,en-US
+Guardar: %s,Save: %s,en-US
+Générer,Generate,en-US
+Góc,Corner,en-US
+Góc: %s,Corner: %s,en-US
+Göreceli Konum,Relative Position,en-US
+göreceli konum x,relative position x,en-US
+göreceli konum y,relative position y,en-US
+göreceli konum z,relative position z,en-US
+Görünmez Blokları Göster:,Show Invisible Blocks:,en-US
+Günlük Modu - Günlüğe mesaj yazdır,Log Mode - Log a message,en-US
+Günlüğe Yaz,Log,en-US
+Hedef adı:,Target Name:,en-US
+Hedef Havuzu:,Target Pool:,en-US
+Hizalı,Aligned,en-US
+"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",No sequences finished within %s ticks,en-US
+Hiển thị hộp giới hạn:,Show Bounding Box:,en-US
+Hiển thị khối vô hình:,Show Invisible Blocks:,en-US
+Hàm: %s,Function: %s,en-US
+Há muitos blocos (%s),Too many %s blocks,en-US
+Hạt giống cấu trúc,Structure Seed,en-US
+I dati dell'entità non corrispondono per %s,Entity data mismatch for %s,en-US
+ID de instância do teste,Test Instance ID,en-US
+ID de l'instance de test,Test Instance ID,en-US
+ID de test non valide,Invalid test ID,en-US
+ID dell'istanza di collaudo,Test Instance ID,en-US
+ID di collaudo non valido,Invalid test ID,en-US
+ID do teste inválido,Invalid test ID,en-US
+ID kiểm tra không hợp lệ,Invalid test ID,en-US
+ID trường hợp kiểm tra,Test Instance ID,en-US
+ID กรณีตัวอย่างทดสอบ,Test Instance ID,en-US
+ID การทดสอบไม่ถูกต้อง,Invalid test ID,en-US
+Id. de prueba no válida,Invalid test ID,en-US
+Id. del caso de prueba,Test Instance ID,en-US
+Il blocco specificato non può essere un oggetto,Given block is not a block item,en-US
+Il collaudo è scaduto prima del completamento della sequenza,Test timed out before sequence completed,en-US
+Il contenitore dovrebbe avere un solo: %s,Container should contain a single: %s,en-US
+Il contenitore dovrebbe avere: %s,Container should contain: %s,en-US
+Il contenitore dovrebbe essere vuoto,Container should be empty,en-US
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non ha una struttura di collaudo","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non è stato definito alcun collaudo","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+Impossibile rilevare la dimensione della struttura. Aggiungi degli angoli con il nome della struttura corrispondente.,Unable to detect structure size. Add corners with matching structure names,en-US
+"Impossibile salvare il modello di struttura per l'istanza di collaudo presso %s, %s, %s","Unable to save test structure template for test instance at %s, %s, %s",en-US
+Impossibile salvare la struttura %s,Unable to save structure '%s',en-US
+"Impossible d'enregistrer la structure ""%s""",Unable to save structure '%s',en-US
+"Impossible d'enregistrer le modèle de structure de test pour l'instance de test en %s, %s, %s","Unable to save test structure template for test instance at %s, %s, %s",en-US
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de structure de test","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de test défini","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+Impossible de détecter la taille de la structure. Ajoutez des coins avec les noms de structure correspondants,Unable to detect structure size. Add corners with matching structure names,en-US
+Impostazione del bioma non riuscita,Failed to set biome for test,en-US
+In ungültigem Tick stattgefunden: %s wurde erwartet,Succeeded in invalid tick: expected %s,en-US
+Incluir entidades:,Include Entities:,en-US
+Inclure les entités :,Include Entities:,en-US
+Iniciando o teste %s,Starting test %s,en-US
+Iniciando prueba %s,Starting test %s,en-US
+Iniciar,Start,en-US
+Insieme di destinazione,Target Pool:,en-US
+Integridad de la estructura,Structure Integrity,en-US
+Integridad y semilla de la estructura,Structure Integrity and Seed,en-US
+Integridade da estrutura,Structure Integrity,en-US
+Integridade e semente da estrutura,Structure Integrity and Seed,en-US
+Integrierter Funktionstest,Built-in Function Test,en-US
+Integrità della struttura,Structure Integrity,en-US
+Integrità e seme della struttura,Structure Integrity and Seed,en-US
+Intégrité de la structure,Structure Integrity,en-US
+Intégrité de la structure et graine,Structure Integrity and Seed,en-US
+Kann Konstruktionsgröße nicht erkennen - füge Ecken mit gleichem Konstruktionsnamen hinzu,Unable to detect structure size. Add corners with matching structure names,en-US
+Katı Yerleştirme:,Strict Placement:,en-US
+KAYDET,SAVE,en-US
+Kaydet,Save,en-US
+Kaydet: %s,Save: %s,en-US
+Kayıt Modu - Dosyaya yaz,Save Mode - Write to file,en-US
+Keine Testabläufe innerhalb von %s Ticks abgeschlossen,No sequences finished within %s ticks,en-US
+"Khi khối mảnh ghép này kết nối đến một mảnh, đây là thứ tự mà mảnh đó được xử lí cho các kết nối trong cấu trúc rộng hơn.
+
+Các mảnh sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự chèn.","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+"Khi mảnh gốc được xử lí cho các kết nối, đây là thứ tự mà khối mảnh ghép này cố gắng kết nối đến mảnh mục tiêu.
+
+Các khối mảnh ghép sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự ngẫu nhiên.","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+Không có kiểm tra nào như vậy,No such test,en-US
+Không có trình tự nào được hoàn tất trong %s nhịp,No sequences finished within %s ticks,en-US
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có cấu trúc kiểm tra nào","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có kiểm tra nào được xác định","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+Không thể chỉnh quần xã cho kiểm tra,Failed to set biome for test,en-US
+Không thể lưu cấu trúc '%s',Unable to save structure '%s',en-US
+"Không thể lưu mẫu cấu trúc kiểm tra cho trường hợp kiểm tra ở %s, %s, %s","Unable to save test structure template for test instance at %s, %s, %s",en-US
+Không thể phát hiện kích cỡ của cấu trúc. Hãy bổ sung thêm góc với tên cấu trúc khớp nhau,Unable to detect structure size. Add corners with matching structure names,en-US
+Không thể tạo thực thể %s,Failed to create entity %s,en-US
+Không thể đặt cấu trúc kiểm tra cho %s,Failed to place test structure for %s,en-US
+Khối được trao không phải là một khối vật phẩm,Given block is not a block item,en-US
+Kiểm tra dựa trên khối,Block-Based Test,en-US
+Kiểm tra hàm được tích hợp sẵn,Built-in Function Test,en-US
+Kiểm tra đang đếm nhịp trước khi đặt cấu trúc,Ticking test before placing structure,en-US
+Kiểm tra đã hết thời gian trước khi trình tự được hoàn thành,Test timed out before sequence completed,en-US
+Konstruktion als ‚%s‘ gespeichert,Structure saved as '%s',en-US
+Konstruktion speichern,Save Structure,en-US
+Konstruktion ‚%s‘ geladen,Structure loaded from '%s',en-US
+Konstruktion ‚%s‘ konnte nicht gespeichert werden,Unable to save structure '%s',en-US
+Konstruktion ‚%s‘ nicht gefunden,Structure '%s' is not available,en-US
+Konstruktion: %s,Structure: %s,en-US
+Konstruktions-Startwert,Structure Seed,en-US
+Konstruktionsgröße,Structure Size,en-US
+Konstruktionsgröße (X),structure size x,en-US
+Konstruktionsgröße (Y),structure size y,en-US
+Konstruktionsgröße (Z),structure size z,en-US
+Konstruktionsgröße und ‐position erkennen:,Detect Structure Size and Position:,en-US
+Konstruktionsname,Structure Name,en-US
+Konstruktionsvollständigkeit,Structure Integrity,en-US
+Kích cỡ cấu trúc,Structure Size,en-US
+Kích cỡ cấu trúc kiểm tra,Test Structure Size,en-US
+kích cỡ cấu trúc x,structure size x,en-US
+kích cỡ cấu trúc y,structure size y,en-US
+kích cỡ cấu trúc z,structure size z,en-US
+Köşe,Corner,en-US
+Köşe Modu - Konum ve boyut işaretleyici,Corner Mode - Placement and size marker,en-US
+Köşe: %s,Corner: %s,en-US
+L'entità %s ha fallito il collaudo: %s,Entity %s failed test: %s,en-US
+"L'entità %s ha fallito il collaudo: %s (previsto: %s, ricevuto: %s)",Entity %s failed test: %s. Expected %s: was %s,en-US
+L'entità dovrebbe impugnare %s,Entity should be holding %s,en-US
+"L'entité ""%s"" a échoué le test : %s (valeur attendue : %s, valeur reçue : %s)",Entity %s failed test: %s. Expected %s: was %s,en-US
+"L'entité doit tenir l'objet ""%s""",Entity should be holding %s,en-US
+"L'inventaire de l'entité doit contenir l'objet ""%s""",Entity inventory should contain %s,en-US
+L'inventario dell'entità dovrebbe avere %s,Entity inventory should contain %s,en-US
+La entidad %s falló la prueba: %s,Entity %s failed test: %s,en-US
+La entidad %s falló la prueba: %s. Se requiere %s: se obtuvo %s,Entity %s failed test: %s. Expected %s: was %s,en-US
+La entidad debe sostener %s,Entity should be holding %s,en-US
+"La estructura ""%s"" no está disponible ",Structure '%s' is not available,en-US
+La estructura se ha guardado como «%s»,Structure saved as '%s',en-US
+"La position de la structure ""%s"" a été préparée",Structure '%s' position prepared,en-US
+La prueba se terminó antes de que se completara la secuencia,Test timed out before sequence completed,en-US
+"La structure ""%s"" n'est pas disponible ",Structure '%s' is not available,en-US
+La struttura %s non è disponibile,Structure '%s' is not available,en-US
+"La taille de la structure ""%s"" a été détectée",Size successfully detected for '%s',en-US
+Laden,LOAD,en-US
+Laden,Load,en-US
+Laden und ausführen,Load and Run,en-US
+Laden: %s,Load: %s,en-US
+Lade‐Modus – Aus Datei laden,Load Mode - Load from file,en-US
+Le bloc spécifié n'est pas un bloc sous forme d'objet,Given block is not a block item,en-US
+"Le conteneur doit contenir l'objet ""%s""",Container should contain: %s,en-US
+"Le conteneur doit contenir un seul objet ""%s""",Container should contain a single: %s,en-US
+Le conteneur doit être vide,Container should be empty,en-US
+Le test n'a ni réussi ni échoué durant %s tick(s),Didn't succeed or fail within %s ticks,en-US
+Le test s'est terminé avant la fin de la séquence,Test timed out before sequence completed,en-US
+Livelli: %s,Levels: %s,en-US
+Los datos de la entidad no coinciden para %s,Entity data mismatch for %s,en-US
+Loại khớp nối:,Joint Type:,en-US
+Loại: %s,Type: %s,en-US
+LƯU,SAVE,en-US
+Lưu,Save,en-US
+Lưu cấu trúc,Save Structure,en-US
+Lưu: %s,Save: %s,en-US
+Lỗi nội bộ không rõ: %s,Unknown internal error: %s,en-US
+Mantener rompec.,Keep Jigsaws,en-US
+Mantenimento,Keep Jigsaws,en-US
+Mantê-los,Keep Jigsaws,en-US
+Mensagem:,Message:,en-US
+Mensaje:,Message:,en-US
+Mesaj:,Message:,en-US
+Message :,Message:,en-US
+Messaggio,Message:,en-US
+Mode Accepter - Accepter la réussite (d'une partie) d'un test,Accept Mode - Accept success for (part of) a test,en-US
+Mode Charger - Charger depuis un fichier,Load Mode - Load from file,en-US
+Mode Coin - Marqueur de position et de taille,Corner Mode - Placement and size marker,en-US
+Mode Données - Marqueur de logique du jeu,Data Mode - Game logic marker,en-US
+Mode Démarrer - Le point de départ d'un test,Start Mode - The starting point for a test,en-US
+Mode Enregistrer - Enregistrer un message,Log Mode - Log a message,en-US
+Mode Sauvegarder - Écrire dans un fichier,Save Mode - Write to file,en-US
+Mode Échouer - Échouer le test,Fail Mode - Fail the test,en-US
+Modo aceptar: acepta superación de (parte de) una prueba,Accept Mode - Accept success for (part of) a test,en-US
+Modo cargar: carga desde un archivo,Load Mode - Load from file,en-US
+Modo datos: usa la lógica del juego,Data Mode - Game logic marker,en-US
+Modo de aceite — Aceitar o sucesso de (parte de) um teste,Accept Mode - Accept success for (part of) a test,en-US
+Modo de canto — Marcador de posição e tamanho,Corner Mode - Placement and size marker,en-US
+Modo de carregamento — Carregar do arquivo,Load Mode - Load from file,en-US
+Modo de dados — Marcador lógico do jogo,Data Mode - Game logic marker,en-US
+Modo de falha — Falhar o teste,Fail Mode - Fail the test,en-US
+Modo de início — Ponto inicial de um teste,Start Mode - The starting point for a test,en-US
+Modo de registro — Registrar uma mensagem,Log Mode - Log a message,en-US
+Modo de salvamento — Salvar no arquivo,Save Mode - Write to file,en-US
+Modo esquina: indica posición y tamaño,Corner Mode - Placement and size marker,en-US
+Modo fallar: falla la prueba,Fail Mode - Fail the test,en-US
+Modo guardar: guarda en un archivo,Save Mode - Write to file,en-US
+Modo iniciar: el punto de inicio de una prueba,Start Mode - The starting point for a test,en-US
+Modo registrar: registra un mensaje,Log Mode - Log a message,en-US
+Mostra blocchi invisibili,Show Invisible Blocks:,en-US
+Mostrar blocos invisíveis:,Show Invisible Blocks:,en-US
+Mostrar bloques invisibles:,Show Invisible Blocks:,en-US
+Mostrar bordas:,Show Bounding Box:,en-US
+Mostrar límites:,Show Bounding Box:,en-US
+Môi trường: %s,Environment: %s,en-US
+Nachricht:,Message:,en-US
+Nenhum teste,No such test,en-US
+Nenhuma sequência concluída dentro de %s tique(s),No sequences finished within %s ticks,en-US
+Nessun collaudo trovato,No such test,en-US
+Nessuna sequenza finita entro %s tick,No sequences finished within %s ticks,en-US
+Nhóm mục tiêu:,Target Pool:,en-US
+Nhật kí,Log,en-US
+"Nicht erwartet, %s vorzufinden",Did not expect %s to exist,en-US
+Ninguna secuencia finalizó durante %s ticks,No sequences finished within %s ticks,en-US
+Niveaux : %s,Levels: %s,en-US
+Niveles: %s,Levels: %s,en-US
+No hubo ningún resultado durante %s tics,Didn't succeed or fail within %s ticks,en-US
+No se esperaba que %s existiera,Did not expect %s to exist,en-US
+"No se esperaba que %s tocase %s, %s, %s (relativo: %s, %s, %s)","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+No se esperaba que el bloque fuese %s,Did not expect block to be %s,en-US
+No se esperaba un objeto del tipo %s,Did not expect item of type %s,en-US
+No se ha podido detectar el tamaño de la estructura. Añade más esquinas con el nombre de la estructura correspondiente,Unable to detect structure size. Add corners with matching structure names,en-US
+"No se ha podido ejecutar el caso de prueba en %s, %s, %s porque no se ha definido una prueba","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+"No se ha podido ejecutar la instancia de prueba en %s, %s, %s porque no tiene estructura de prueba","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+No se ha podido guardar la estructura «%s»,Unable to save structure '%s',en-US
+No se pudo crear la entidad %s,Failed to create entity %s,en-US
+No se pudo establecer el bioma para la prueba,Failed to set biome for test,en-US
+"No se pudo guardar la plantilla de estructura de prueba en %s, %s, %s","Unable to save test structure template for test instance at %s, %s, %s",en-US
+Nom :,Name:,en-US
+Nom de la cible :,Target Name:,en-US
+Nom de la structure,Structure Name,en-US
+Nom du tag de données personnalisé,Custom Data Tag Name,en-US
+Nombre de etiqueta de datos personalizado,Custom Data Tag Name,en-US
+Nombre de la estructura,Structure Name,en-US
+Nombre del objetivo:,Target Name:,en-US
+Nombre:,Name:,en-US
+Nome,Name:,en-US
+Nome da estrutura,Structure Name,en-US
+Nome da estrutura inválido: %s,Invalid structure name '%s',en-US
+Nome da marcação de dados personalizados,Custom Data Tag Name,en-US
+Nome del marcatore personalizzato,Custom Data Tag Name,en-US
+Nome della struttura,Structure Name,en-US
+Nome della struttura non valido: «%s»,Invalid structure name '%s',en-US
+Nome di destinazione,Target Name:,en-US
+Nome do alvo:,Target Name:,en-US
+Nome:,Name:,en-US
+Non era prevista l'esistenza di %s,Did not expect %s to exist,en-US
+Non era previsto che il blocco fosse %s,Did not expect block to be %s,en-US
+Non era previsto un oggetto di tipo %s,Did not expect item of type %s,en-US
+"Non previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+Non riuscito né fallito entro %s tick,Didn't succeed or fail within %s ticks,en-US
+Non riuscito: %s,Failed: %s,en-US
+"Non-correspondance des données de l'entité ""%s""",Entity data mismatch for %s,en-US
+"Nur ein %s um %s, %s, %s erwartet, aber %s gefunden","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+"Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+Não esperava-se que o bloco fosse %s,Did not expect block to be %s,en-US
+Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,Unable to detect structure size. Add corners with matching structure names,en-US
+"Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+"Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+"Não foi possível salvar a estrutura ""%s""",Unable to save structure '%s',en-US
+"Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s","Unable to save test structure template for test instance at %s, %s, %s",en-US
+Não se esperava que %s existisse,Did not expect %s to exist,en-US
+Não se esperava um item do tipo %s,Did not expect item of type %s,en-US
+Níveis: %s,Levels: %s,en-US
+NẠP,LOAD,en-US
+Nạp,Load,en-US
+Nạp và chạy,Load and Run,en-US
+Nạp: %s,Load: %s,en-US
+O bloco especificado não é um item-bloco.,Given block is not a block item,en-US
+O inventário da entidade deve conter %s,Entity inventory should contain %s,en-US
+O recipiente deve conter um único: %s,Container should contain a single: %s,en-US
+O recipiente deve conter: %s,Container should contain: %s,en-US
+O recipiente deve estar vazio,Container should be empty,en-US
+O teste acabou antes de completar a sequência,Test timed out before sequence completed,en-US
+O teste não foi concluído ou falhou dentro de %s tique(s),Didn't succeed or fail within %s ticks,en-US
+Objekt %s erfüllte Test nicht: %s,Entity %s failed test: %s,en-US
+"Objekt %s hat Test %s nicht erfüllt: %s erwartet, war aber %s",Entity %s failed test: %s. Expected %s: was %s,en-US
+Objekt %s konnte nicht erzeugt werden,Failed to create entity %s,en-US
+Objekt hätte %s halten sollen,Entity should be holding %s,en-US
+"Objektdaten %s wurden erwartet, waren aber %s",Expected entity data to be %s: was %s,en-US
+Objektdaten für %s stimmen nicht überein,Entity data mismatch for %s,en-US
+Objekte einbeziehen:,Include Entities:,en-US
+Objekte:,Entities:,en-US
+Objektinventar hätte %s enthalten sollen,Entity inventory should contain %s,en-US
+"Objet de type ""%s"" attendu",Expected item of type %s,en-US
+"Objet de type ""%s"" inattendu",Did not expect item of type %s,en-US
+Oluştur,Generate,en-US
+Onay Modu - Bir testin (parçasının) başarısını onaylama,Accept Mode - Accept success for (part of) a test,en-US
+Onayla,Accept,en-US
+"Ordre dans lequel ce bloc de puzzle tente de se connecter à sa pièce cible lorsque la pièce parent est traitée pour les connexions.
+
+Le processus se déroule dans l'ordre décroissant, ou de manière aléatoire en cas d'égalité.","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+"Ordre dans lequel la pièce sur laquelle se connecte ce bloc de puzzle est traitée parmi les connexions d'une structure plus large.
+
+Le processus se déroule dans l'ordre décroissant, en suivant l'ordre d'insertion en cas d'égalité.","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+Os dados da entidade não correspondem para: %s,Entity data mismatch for %s,en-US
+"Oyuncu konumu: [%s, %s, %s] %s","Player coordinates: [%s, %s, %s] in %s",en-US
+P. de colocación:,Placement Priority:,en-US
+P. de selección:,Selection Priority:,en-US
+PH.HIỆN,DETECT,en-US
+Phát hiện kích cỡ và vị trí cấu trúc:,Detect Structure Size and Position:,en-US
+Piazzamento della struttura di collaudo per %s non riuscita,Failed to place test structure for %s,en-US
+Piazzamento statico,Strict Placement:,en-US
+Placement strict :,Strict Placement:,en-US
+Platzierpriorität:,Placement Priority:,en-US
+Posicionamento exato:,Strict Placement:,en-US
+Position relative,Relative Position,en-US
+position relative x,relative position x,en-US
+position relative y,relative position y,en-US
+position relative z,relative position z,en-US
+Position von Konstruktion ‚%s‘ vorbereitet,Structure '%s' position prepared,en-US
+Posizione relativa,Relative Position,en-US
+Posizione relativa in x,relative position x,en-US
+Posizione relativa in y,relative position y,en-US
+Posizione relativa in z,relative position z,en-US
+"Posição da estrutura ""%s"" preparada",Structure '%s' position prepared,en-US
+Posição relativa,Relative Position,en-US
+posição x relativa,relative position x,en-US
+posição y relativa,relative position y,en-US
+posição z relativa,relative position z,en-US
+Preparato la posizione della struttura %s,Structure '%s' position prepared,en-US
+"Prevista l'esistenza di %s intorno a %s, %s, %s","Expected %s to exist around %s, %s, %s",en-US
+Prevista l'esistenza di %s nel collaudo,Expected %s to exist in test,en-US
+"Prevista l'esistenza di una sola entità %s intorno a %s, %s, %s (ricevuto: %s)","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+Prevista la presenza del blocco %s,Expected block %s to be present,en-US
+Previste %s entità di tipo %s (ricevuto: %s),Expected %s entities of type %s: found %s,en-US
+Previsti %s oggetti di tipo %s (ricevuto: %s),Expected %s items of type %s: found %s,en-US
+Previsto %s,Expected %s,en-US
+"Previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+Previsto blocco nell'insieme #%s (ricevuto: %s),Expected block in #%s: got %s,en-US
+Previsto che %s abbia l'effetto %s %s,Expected %s to have effect %s %s,en-US
+Previsto il blocco %s (ricevuto: %s),Expected block %s: got %s,en-US
+Previsto oggetto di tipo %s,Expected item of type %s,en-US
+Previsto un valore %s tra %s e %s (ricevuto: %s),Expected %s to be in between %s and %s: was %s,en-US
+Prio. de placement :,Placement Priority:,en-US
+Prio. de sélection :,Selection Priority:,en-US
+Prior. de posição:,Placement Priority:,en-US
+Prior. de seleção:,Selection Priority:,en-US
+Priorità di selezione e di piazzamento,Selection Priority:,en-US
+Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,Block property missing. Expected property %s to be %s,en-US
+Proprietà %s prevista: %s (ricevuto: %s),Expected property %s to be %s: was %s,en-US
+Proprietà di blocco mancante. Proprietà %s prevista: %s,Block property missing. Expected property %s to be %s,en-US
+"Propriété de bloc manquante. Valeur de la propriété ""%s"" attendue : %s",Block property missing. Expected property %s to be %s,en-US
+Protokoll,Log,en-US
+Protokollmodus – Protokolliere eine Nachricht,Log Mode - Log a message,en-US
+Prueba basada en bloques,Block-Based Test,en-US
+Prueba de función integrada,Built-in Function Test,en-US
+"Présence du bloc ""%s"" attendue",Expected block %s to be present,en-US
+"Quando il pezzo associato viene elaborato per le connessioni, questo sarà l'ordine in cui questo blocco incastri tenterà di connettersi al suo pezzo di destinazione.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, casualmente.","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+"Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+"Quando questo blocco incastri si connette a un pezzo, questo sarà l'ordine in cui il pezzo viene elaborato per le connessioni nella struttura complessiva.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, seguendo l'ordine d'inserimento.","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+Quá nhiều khối %s,Too many %s blocks,en-US
+Redefinir e carregar,Reset and Load,en-US
+Redefinição concluída para o teste: %s,Reset succeeded for test: %s,en-US
+Registra,Log,en-US
+Registrar,Log,en-US
+Registrazione: registra un messaggio,Log Mode - Log a message,en-US
+Reiniciar y cargar,Reset and Load,en-US
+Relative X-Position,relative position x,en-US
+Relative Y-Position,relative position y,en-US
+Relative Z-Position,relative position z,en-US
+Rileva,DETECT,en-US
+Rilevato la dimensione della struttura %s,Size successfully detected for '%s',en-US
+Ripristina e carica,Reset and Load,en-US
+Ripristino riuscito per il collaudo: %s,Reset succeeded for test: %s,en-US
+Riuscita ottenuta durante un tick non valido: previsto %s,Succeeded in invalid tick: expected %s,en-US
+Riuscita ottenuta prima del tick previsto: prevista l'attesa di %s,Succeeded before expected tick: expected to wait %s,en-US
+Rotable,Rollable,en-US
+Rotación:,Rotation:,en-US
+Rotatif,Rollable,en-US
+Rotation :,Rotation:,en-US
+Rotativa,Rollable,en-US
+Rotatoria,Rollable,en-US
+Rotazione,Rotation:,en-US
+Rotação:,Rotation:,en-US
+"Réinitialisation réussie pour le test ""%s""",Reset succeeded for test: %s,en-US
+Réinitialiser et charger,Reset and Load,en-US
+Réussite avant le tick attendu : le tick minimum attendu était de %s,Succeeded before expected tick: expected to wait %s,en-US
+Réussite dans le tick non valide : %s attendu(s),Succeeded in invalid tick: expected %s,en-US
+Sai loại thực thể khối: %s,Wrong block entity type: %s,en-US
+Salva,SAVE,en-US
+Salva,Save,en-US
+Salva struttura,Save Structure,en-US
+SALVAR,SAVE,en-US
+Salvar,Save,en-US
+Salvar estrutura,Save Structure,en-US
+Salvar: %s,Save: %s,en-US
+Salvataggio: %s,Save: %s,en-US
+Salvataggio: scrivi su documento,Save Mode - Write to file,en-US
+Salvato la struttura come «%s»,Structure saved as '%s',en-US
+SAUVE,SAVE,en-US
+Sauvegarder,Save,en-US
+Sauvegarder : %s,Save: %s,en-US
+Se change en :,Turns into:,en-US
+Se convierte en:,Turns into:,en-US
+Se cumplieron las condiciones de falla,Fail conditions met,en-US
+Se encontró un tipo de bloque no esperado: %s,Unexpected block type found: %s,en-US
+Se ha cargado la estructura de «%s»,Structure loaded from '%s',en-US
+"Se ha preparado la ubicación de la estructura ""%s""",Structure '%s' position prepared,en-US
+Se ha reiniciado la prueba %s,Reset succeeded for test: %s,en-US
+Se requiere %s,Expected %s,en-US
+Se requiere el bloque %s: se obtuvo %s,Expected block %s: got %s,en-US
+Se requiere el bloque en #%s: se obtuvo %s,Expected block in #%s: got %s,en-US
+"Se requiere que %s exista alrededor de %s, %s, %s","Expected %s to exist around %s, %s, %s",en-US
+Se requiere que %s exista en la prueba,Expected %s to exist in test,en-US
+Se requiere que %s sea %s: se obtuvo %s,Expected %s to be %s: was %s,en-US
+Se requiere que %s tenga efecto %s %s,Expected %s to have effect %s %s,en-US
+Se requiere que %s tenga un valor entre %s y %s: es %s,Expected %s to be in between %s and %s: was %s,en-US
+"Se requiere que %s toque %s, %s, %s (relativo: %s, %s, %s)","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+Se requiere que el bloque %s esté presente,Expected block %s to be present,en-US
+"Se requiere que exista un único %s alrededor de %s, %s, %s, pero se encontraron %s","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+Se requiere que la propiedad %s sea %s: se obtuvo %s,Expected property %s to be %s: was %s,en-US
+Se requiere que los datos de la entidad sean %s: se obtuvo %s,Expected entity data to be %s: was %s,en-US
+Se requiere un objeto del tipo %s,Expected item of type %s,en-US
+"Se requieren %s entidades del tipo %s, encontradas: %s",Expected %s entities of type %s: found %s,en-US
+"Se requieren %s objetos del tipo %s, encontrados: %s",Expected %s items of type %s: found %s,en-US
+Seme della struttura,Structure Seed,en-US
+Semente da estrutura,Structure Seed,en-US
+Semilla de la estructura,Structure Seed,en-US
+Seviyeler: %s,Levels: %s,en-US
+Seçim Önceliği:,Selection Priority:,en-US
+Speichern,SAVE,en-US
+Speichern,Save,en-US
+Speichern: %s,Save: %s,en-US
+Speicher‐Modus – In Datei speichern,Save Mode - Write to file,en-US
+"Spielerkoordinaten: [%s, %s, %s] in %s","Player coordinates: [%s, %s, %s] in %s",en-US
+Startmodus – Der Anfangspunkt eines Tests,Start Mode - The starting point for a test,en-US
+Stato finale,Turns into:,en-US
+"Stato non corretto (previsto: %s, ricevuto: %s)",Incorrect state. Expected %s: was %s,en-US
+Strikte Platzierung:,Strict Placement:,en-US
+Structure : %s,Structure: %s,en-US
+"Structure chargée depuis ""%s""",Structure loaded from '%s',en-US
+"Structure enregistrée comme ""%s""",Structure saved as '%s',en-US
+Struttura: %s,Structure: %s,en-US
+Sıfırla ve Yükle,Reset and Load,en-US
+Taille de la structure,Structure Size,en-US
+Taille de la structure de test,Test Structure Size,en-US
+taille de la structure x,structure size x,en-US
+taille de la structure y,structure size y,en-US
+taille de la structure z,structure size z,en-US
+Tamanho da estrutura,Structure Size,en-US
+"Tamanho da estrutura ""%s"" detectado",Size successfully detected for '%s',en-US
+Tamanho da estrutura do teste,Test Structure Size,en-US
+tamanho x da estrutura,structure size x,en-US
+tamanho y da estrutura,structure size y,en-US
+tamanho z da estrutura,structure size z,en-US
+Tamaño de la estructura,Structure Size,en-US
+Tamaño de la estructura de prueba,Test Structure Size,en-US
+tamaño de la estructura x,structure size x,en-US
+tamaño de la estructura y,structure size y,en-US
+tamaño de la estructura z,structure size z,en-US
+"Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+Tempo limite inválido (%s) — Deve conter um número positivo de tiques,Invalid timeout (%s) - must be a positive number of ticks,en-US
+TESPİT ET,DETECT,en-US
+Test %s wird gestartet,Starting test %s,en-US
+Test %s wurde erfolgreich zurückgesetzt,Reset succeeded for test: %s,en-US
+Test basé sur des blocs,Block-Based Test,en-US
+Test Birimi Kimliği,Test Instance ID,en-US
+Test de fonction intégrée,Built-in Function Test,en-US
+Test de ticks effectué avant le placement de la structure,Ticking test before placing structure,en-US
+Test için biyom değiştirilemedi,Failed to set biome for test,en-US
+"Test konumu: [%s, %s, %s] %s","Test coordinates: [%s, %s, %s] in %s",en-US
+Test sıfırlama başarılı oldu: %s,Reset succeeded for test: %s,en-US
+Test vor Abschluss des Vorgangs abgelaufen,Test timed out before sequence completed,en-US
+"Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi","Unable to save test structure template for test instance at %s, %s, %s",en-US
+Test Yapısı Boyutu,Test Structure Size,en-US
+"Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+Test yapısında %s bloğu eksik,Test structure missing %s block,en-US
+"Test, dizi tamamlanmadan zaman aşımına uğradı",Test timed out before sequence completed,en-US
+"Testausführung begann, bevor Konstruktion platziert wurde",Ticking test before placing structure,en-US
+Teste baseado em blocos,Block-Based Test,en-US
+Teste de função integrada,Built-in Function Test,en-US
+Teste em tiques antes de colocar a estrutura,Ticking test before placing structure,en-US
+"Testinstanz bei %s, %s, %s kann nicht ausgeführt werden, da ihr kein Test zugewiesen ist","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+"Testinstanz bei %s, %s, %s konnte nicht ausgeführt werden, da ihre Testkonstruktion fehlt","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+Testinstanz‐ID,Test Instance ID,en-US
+Testkonstruktion für %s konnte nicht platziert werden,Failed to place test structure for %s,en-US
+Testkonstruktion hat keinen %s‐Block,Test structure missing %s block,en-US
+"Testkonstruktionsvorlage für Testinstanz bei %s, %s, %s kann nicht gespeichert werden","Unable to save test structure template for test instance at %s, %s, %s",en-US
+"Testkoordinaten: [%s, %s, %s] in %s","Test coordinates: [%s, %s, %s] in %s",en-US
+Thiết lập lại và nạp,Reset and Load,en-US
+Thất bại,Fail,en-US
+Thất bại: %s,Failed: %s,en-US
+Thời gian chờ không hợp lệ (%s) - số lượng nhịp phải là số dương,Invalid timeout (%s) - must be a positive number of ticks,en-US
+Thực thể %s đã kiểm tra thất bại: %s,Entity %s failed test: %s,en-US
+Thực thể %s đã kiểm tra thất bại: %s. Bị thiếu: %s: trước đó là %s,Entity %s failed test: %s. Expected %s: was %s,en-US
+Thực thể phải giữ %s,Entity should be holding %s,en-US
+Thực thể:,Entities:,en-US
+Tiempo de espera no válido (%s): debe ser un número positivo de tics,Invalid timeout (%s) - must be a positive number of ticks,en-US
+Timeout non valido (%s): deve essere un numero positivo di tick,Invalid timeout (%s) - must be a positive number of ticks,en-US
+Tin nhắn:,Message:,en-US
+Tipo de bloco inesperado encontrado: %s,Unexpected block type found: %s,en-US
+Tipo de entidade-bloco incorreto: %s,Wrong block entity type: %s,en-US
+Tipo de ligação:,Joint Type:,en-US
+Tipo de unión:,Joint Type:,en-US
+Tipo di blocco complesso errato: %s,Wrong block entity type: %s,en-US
+Tipo di giunzione,Joint Type:,en-US
+Tipo incorrecto de entidad-bloque: %s,Wrong block entity type: %s,en-US
+Tipo: %s,Type: %s,en-US
+Torna-se:,Turns into:,en-US
+"Toạ độ kiểm tra: [%s, %s, %s] trong %s","Test coordinates: [%s, %s, %s] in %s",en-US
+"Toạ độ người chơi: [%s, %s, %s] trong %s","Player coordinates: [%s, %s, %s] in %s",en-US
+toạ độ tương đối x,relative position x,en-US
+"Trop de blocs ""%s""",Too many %s blocks,en-US
+Troppi blocchi (%s),Too many %s blocks,en-US
+Trovato tipo di blocco non previsto: %s,Unexpected block type found: %s,en-US
+Trạng thái không chính xác. Bị thiếu %s: trước đó là %s,Incorrect state. Expected %s: was %s,en-US
+Trở thành:,Turns into:,en-US
+Typ: %s,Type: %s,en-US
+Type : %s,Type: %s,en-US
+Type d'emboîtement :,Joint Type:,en-US
+Type d'entité de bloc incorrect : %s,Wrong block entity type: %s,en-US
+Type de bloc inattendu trouvé : %s,Unexpected block type found: %s,en-US
+Tên cấu trúc,Structure Name,en-US
+Tên cấu trúc '%s' không hợp lệ,Invalid structure name '%s',en-US
+Tên mục tiêu:,Target Name:,en-US
+Tên nhãn dữ liệu tuỳ chỉnh,Custom Data Tag Name,en-US
+Tên:,Name:,en-US
+Túi đồ của thực thể phải chứa %s,Entity inventory should contain %s,en-US
+Tür: %s,Type: %s,en-US
+Tạo,Generate,en-US
+Ubicación relativa,Relative Position,en-US
+ubicación X relativa,relative position x,en-US
+ubicación Y relativa,relative position y,en-US
+ubicación Z relativa,relative position z,en-US
+Umgebung: %s,Environment: %s,en-US
+Unbekannter interner Fehler: %s,Unknown internal error: %s,en-US
+"Une seule entité ""%s"" attendue autour de %s, %s, %s mais en a trouvé %s","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+Unerwarteter Blocktyp gefunden: %s,Unexpected block type found: %s,en-US
+Ungültige Test‐ID,Invalid test ID,en-US
+Ungültiger Konstruktionsname ‚%s‘,Invalid structure name '%s',en-US
+Ungültiges Timeout (%s) – muss eine positive Anzahl von Ticks sein,Invalid timeout (%s) - must be a positive number of ticks,en-US
+Unsichtbare Blöcke anzeigen:,Show Invisible Blocks:,en-US
+Valeur %s attendue : %s (valeur reçue : %s),Expected %s to be %s: was %s,en-US
+Valeur %s attendue entre %s et %s (valeur reçue : %s),Expected %s to be in between %s and %s: was %s,en-US
+"Valeur de la propriété ""%s"" attendue : %s (valeur reçue : %s)",Expected property %s to be %s: was %s,en-US
+Varlık %s tutmalı,Entity should be holding %s,en-US
+"Varlık verisinin: %s olması beklendi, %s bulundu",Expected entity data to be %s: was %s,en-US
+Varlıklar:,Entities:,en-US
+Varlıkları Dâhil Et:,Include Entities:,en-US
+Varlığın envanteri %s barındırmalı,Entity inventory should contain %s,en-US
+Verbindung:,Joint Type:,en-US
+Verbundblöcke behalten,Keep Jigsaws,en-US
+Veri,Data,en-US
+Veri Modu - Oyun mantığı işaretleyici,Data Mode - Game logic marker,en-US
+Veri: %s,Data: %s,en-US
+Verilen blok bir blok eşyası değil,Given block is not a block item,en-US
+Vollständigkeit & Startwert (Konstruktion),Structure Integrity and Seed,en-US
+"Vor erwartetem Tick stattgefunden: erwartet, %s zu warten",Succeeded before expected tick: expected to wait %s,en-US
+Vorhandensein des Blocks %s erwartet,Expected block %s to be present,en-US
+Vật chứa phải chứa một: %s,Container should contain a single: %s,en-US
+Vật chứa phải chứa: %s,Container should contain: %s,en-US
+Vật chứa phải để trống,Container should be empty,en-US
+Vị trí bảo toàn:,Strict Placement:,en-US
+Vị trí tương đối,Relative Position,en-US
+vị trí tương đối y,relative position y,en-US
+vị trí tương đối z,relative position z,en-US
+Weder Erfolg noch Fehlschlag innerhalb von %s Ticks,Didn't succeed or fail within %s ticks,en-US
+"Wenn das zugehörige Stück auf Verbindungen verarbeitet wird, ist dies die Reihenfolge, in der dieser Verbundblock versucht, sich mit seinem Zielstück zu verbinden.
+
+Verbünde werden in absteigender Priorität verarbeitet, wobei Gleichstände durch eine zufällige Reihenfolge gelöst werden.","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+"Wenn sich dieser Verbundblock mit einem Stück verbindet, ist dies die Reihenfolge, in der das Stück auf Verbindungen zur Gesamtkonstruktion verarbeitet wird.
+
+Stücke werden in absteigender Priorität verarbeitet, wobei Gleichstände durch die Einfügungsreihenfolge gelöst werden.","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+Wird zu:,Turns into:,en-US
+X 軸相對位置,relative position x,en-US
+X 軸結構大小,structure size x,en-US
+Xoay được,Rollable,en-US
+X軸方向の構造物のサイズ,structure size x,en-US
+X軸方向の相対座標,relative position x,en-US
+Y 軸相對位置,relative position y,en-US
+Y 軸結構大小,structure size y,en-US
+Yanlış blok varlık türü: %s,Wrong block entity type: %s,en-US
+Yapbozları Sakla,Keep Jigsaws,en-US
+Yapı '%s' kaydedilemedi,Unable to save structure '%s',en-US
+Yapı '%s' olarak kaydedildi,Structure saved as '%s',en-US
+Yapı '%s' yüklendi,Structure loaded from '%s',en-US
+Yapı Adı,Structure Name,en-US
+Yapı Boyutu,Structure Size,en-US
+Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,Unable to detect structure size. Add corners with matching structure names,en-US
+yapı boyutu x,structure size x,en-US
+yapı boyutu y,structure size y,en-US
+yapı boyutu z,structure size z,en-US
+Yapı boyutunu ve konumunu algıla:,Detect Structure Size and Position:,en-US
+Yapı Bütünlüğü,Structure Integrity,en-US
+Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,Structure Integrity and Seed,en-US
+Yapı Oluşturucusu Kodu,Structure Seed,en-US
+Yapı yerleştirilmeden test yürütüldü,Ticking test before placing structure,en-US
+Yapı: %s,Structure: %s,en-US
+Yapıyı Kaydet,Save Structure,en-US
+Yerleştirme Önceliği:,Placement Priority:,en-US
+Yön:,Rotation:,en-US
+YÜKLE,LOAD,en-US
+Yükle ve Yürüt,Load and Run,en-US
+Yükle: %s,Load: %s,en-US
+Yükleme,Load,en-US
+Yükleme Modu - Dosyadan yükle,Load Mode - Load from file,en-US
+Yürütme Modu - Bir testin başlama noktası,Start Mode - The starting point for a test,en-US
+Y軸方向の構造物のサイズ,structure size y,en-US
+Y軸方向の相対位置,relative position y,en-US
+Z 軸相對位置,relative position z,en-US
+Z 軸結構大小,structure size z,en-US
+Zielname:,Target Name:,en-US
+Zona di delimitazione,Show Bounding Box:,en-US
+Zu viele %s‐Blöcke,Too many %s blocks,en-US
+Zurücksetzen und laden,Reset and Load,en-US
+"Zustand %s wurde als %s erwartet, war aber %s",Expected property %s to be %s: was %s,en-US
+Z軸方向の構造物のサイズ,structure size z,en-US
+Z軸方向の相対位置,relative position z,en-US
+«%s» no es un nombre de estructura válido,Invalid structure name '%s',en-US
+Çerçeveyi göster:,Show Bounding Box:,en-US
+Çevre: %s,Environment: %s,en-US
+Çok fazla %s bloğu,Too many %s blocks,en-US
+Échec : %s,Failed: %s,en-US
+"Échec de la création de l'entité ""%s""",Failed to create entity %s,en-US
+Échec de la définition du biome pour le test,Failed to set biome for test,en-US
+"Échec du placement de la structure de test pour ""%s""",Failed to place test structure for %s,en-US
+"Échec du test de l'entité ""%s"" : %s",Entity %s failed test: %s,en-US
+Échouer,Fail,en-US
+"État incorrect (état attendu : %s, état reçu : %s)",Incorrect state. Expected %s: was %s,en-US
+Éxito antes del tic esperado: se esperaba %s,Succeeded before expected tick: expected to wait %s,en-US
+Éxito en tic no válido: se esperaba %s,Succeeded in invalid tick: expected %s,en-US
+Özel Veri Etiketi Adı,Custom Data Tag Name,en-US
+"Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+Đang bắt đầu kiểm tra %s,Starting test %s,en-US
+Điều kiện không được kích hoạt,Condition not triggered,en-US
+Điều kiện đã được kích hoạt ở %s,Condition already triggered at %s,en-US
+Đã gặp điều kiện gây thất bại,Fail conditions met,en-US
+Đã không thành công hoặc thất bại trong %s nhịp,Didn't succeed or fail within %s ticks,en-US
+Đã nạp cấu trúc từ '%s',Structure loaded from '%s',en-US
+Đã phát hiện thành công kích cỡ của '%s',Size successfully detected for '%s',en-US
+Đã thiết lập lại thành công kiểm tra: %s,Reset succeeded for test: %s,en-US
+Đã thành công trong nhịp không hợp lệ: bị thiếu %s,Succeeded in invalid tick: expected %s,en-US
+Đã thành công trước nhịp dự kiến: đã dự kiến đợi %s,Succeeded before expected tick: expected to wait %s,en-US
+Đã tìm thấy loại khối bị dư: %s,Unexpected block type found: %s,en-US
+Đã xác định vị trí cấu trúc '%s',Structure '%s' position prepared,en-US
+Được căn chỉnh,Aligned,en-US
+Độ toàn vẹn của cấu trúc,Structure Integrity,en-US
+Độ toàn vẹn và hạt giống của cấu trúc,Structure Integrity and Seed,en-US
+Độ xoay:,Rotation:,en-US
+Şart %s birim zamanda zaten tetiklendi,Condition already triggered at %s,en-US
+Şart tetiklenmedi,Condition not triggered,en-US
+Ưu tiên lựa chọn:,Selection Priority:,en-US
+Ưu tiên đặt:,Placement Priority:,en-US
+Без обновлений:,Strict Placement:,en-US
+В тестовой конструкции отсутствует блок «%s»,Test structure missing %s block,en-US
+Вращаемый,Rollable,en-US
+Выполнены условия провала,Fail conditions met,en-US
+Выровнен,Aligned,en-US
+Генерировать,Generate,en-US
+Данные,Data,en-US
+Данные: %s,Data: %s,en-US
+Журнал,Log,en-US
+Завершено до указанного такта: ожидалось прождать %s,Succeeded before expected tick: expected to wait %s,en-US
+Загрузить и запустить,Load and Run,en-US
+ЗАПИСЬ,SAVE,en-US
+Запись,Save,en-US
+Запись: %s,Save: %s,en-US
+Запуск,Start,en-US
+Запуск теста %s,Starting test %s,en-US
+Идентификатор тестового экземпляра,Test Instance ID,en-US
+Измерение: %s,Dimension: %s,en-US
+Инвентарь сущности должен содержать %s,Entity inventory should contain %s,en-US
+Ключ строений,Structure Seed,en-US
+Конструкция «%s» не обнаружена,Structure '%s' is not available,en-US
+Конструкция загружена из файла «%s»,Structure loaded from '%s',en-US
+Конструкция сохранена в файл «%s»,Structure saved as '%s',en-US
+Конструкция: %s,Structure: %s,en-US
+Контейнер должен быть пустым,Container should be empty,en-US
+Контейнер должен содержать один %s,Container should contain a single: %s,en-US
+Контейнер должен содержать: %s,Container should contain: %s,en-US
+"Координаты игрока: [%s, %s, %s] в %s","Player coordinates: [%s, %s, %s] in %s",en-US
+"Координаты теста: [%s, %s, %s] в %s","Test coordinates: [%s, %s, %s] in %s",en-US
+Название конструкции,Structure Name,en-US
+Название цели:,Target Name:,en-US
+Название:,Name:,en-US
+Найден неожиданный тип блока: %s,Unexpected block type found: %s,en-US
+"Не ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+Не ожидался %s,Did not expect %s to exist,en-US
+Не ожидался блок %s,Did not expect block to be %s,en-US
+Не ожидался предмет типа %s,Did not expect item of type %s,en-US
+Не получено результатов в течение %s тактов,Didn't succeed or fail within %s ticks,en-US
+Не удалось задать биом для теста,Failed to set biome for test,en-US
+"Не удалось определить размер конструкции. Добавьте углы с названием, соответствующим конструкции",Unable to detect structure size. Add corners with matching structure names,en-US
+Не удалось разместить тестовую конструкцию для %s,Failed to place test structure for %s,en-US
+Не удалось создать сущность %s,Failed to create entity %s,en-US
+Не удалось сохранить конструкцию «%s»,Unable to save structure '%s',en-US
+Неверное время ожидания (%s); должно быть положительное число тактов,Invalid timeout (%s) - must be a positive number of ticks,en-US
+Неверное название конструкции «%s»,Invalid structure name '%s',en-US
+Неверное состояние. Ожидалось: %s; получено: %s,Incorrect state. Expected %s: was %s,en-US
+Неверный идентификатор теста,Invalid test ID,en-US
+Неверный тип блока-сущности: %s,Wrong block entity type: %s,en-US
+"Невозможно выполнить тестовый экземпляр в точке %s, %s, %s: тест не определён","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+"Невозможно запустить тестовый экземпляр в точке %s, %s, %s: тестовая конструкция отсутствует","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+"Невозможно сохранить шаблон тестовой конструкции у тестового экземпляра в точке %s, %s, %s","Unable to save test structure template for test instance at %s, %s, %s",en-US
+Неизвестная внутренняя ошибка: %s,Unknown internal error: %s,en-US
+Несоответствие данных сущности %s,Entity data mismatch for %s,en-US
+Нет такого теста,No such test,en-US
+Ни одна последовательность не завершилась в течение %s тактов,No sequences finished within %s ticks,en-US
+"Ожидалась одна сущность типа %s рядом с точкой %s, %s, %s; обнаружено %s","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+Ожидались данные сущности со значением %s; получено: %s,Expected entity data to be %s: was %s,en-US
+"Ожидалось %s возле точки %s, %s, %s","Expected %s to exist around %s, %s, %s",en-US
+Ожидалось %s предметов типа %s; обнаружено %s,Expected %s items of type %s: found %s,en-US
+Ожидалось %s со значением %s; получено: %s,Expected %s to be %s: was %s,en-US
+Ожидалось %s со значением между %s и %s; получено: %s,Expected %s to be in between %s and %s: was %s,en-US
+Ожидалось %s сущностей типа %s; обнаружено %s,Expected %s entities of type %s: found %s,en-US
+Ожидалось наличие блока %s,Expected block %s to be present,en-US
+Ожидалось присутствие %s в тесте,Expected %s to exist in test,en-US
+Ожидалось свойство %s со значением %s; получено: %s,Expected property %s to be %s: was %s,en-US
+"Ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+Ожидался %s,Expected %s,en-US
+Ожидался %s с эффектом «%s» %s,Expected %s to have effect %s %s,en-US
+Ожидался блок %s; получено: %s,Expected block %s: got %s,en-US
+"Ожидался блок из #%s, получено: %s",Expected block in #%s: got %s,en-US
+Ожидался предмет типа %s,Expected item of type %s,en-US
+Определить размер и расположение:,Detect Structure Size and Position:,en-US
+"Определяется порядок, в котором этот шаблон обрабатывается в рамках общей конструкции.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться порядком вставки.","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+Отказ,Fail,en-US
+относительная координата зет,relative position z,en-US
+относительная координата игрек,relative position y,en-US
+относительная координата икс,relative position x,en-US
+Относительные координаты,Relative Position,en-US
+Отсутствует блок-сущность,Missing block entity,en-US
+Ошибка в недопустимом такте: ожидается %s,Succeeded in invalid tick: expected %s,en-US
+Пазлы,Keep Jigsaws,en-US
+Поворот:,Rotation:,en-US
+Подготовлено расположение конструкции «%s»,Structure '%s' position prepared,en-US
+Показать границы:,Show Bounding Box:,en-US
+Показывать невидимые блоки:,Show Invisible Blocks:,en-US
+"Порядок, в котором этот блок пазла будет пытаться связываться с соседними шаблонами.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться случайным образом.","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+Превращается в:,Turns into:,en-US
+Приоритет выбора:,Selection Priority:,en-US
+Приоритет установки:,Placement Priority:,en-US
+Провал: %s,Failed: %s,en-US
+Проверка хода тактов перед установкой конструкции,Ticking test before placing structure,en-US
+Произвольные теги данных,Custom Data Tag Name,en-US
+Пул шаблонов:,Target Pool:,en-US
+Размер конструкции,Structure Size,en-US
+размер конструкции зет,structure size z,en-US
+размер конструкции игрек,structure size y,en-US
+размер конструкции икс,structure size x,en-US
+Размер тестовой конструкции,Test Structure Size,en-US
+Рассчитан размер конструкции «%s»,Size successfully detected for '%s',en-US
+РАСЧЁТ,DETECT,en-US
+Режим данных — маркер игровой логики,Data Mode - Game logic marker,en-US
+Режим журнала — запись сообщения в журнал,Log Mode - Log a message,en-US
+Режим записи — сохранение в файл,Save Mode - Write to file,en-US
+Режим запуска — начальная точка теста,Start Mode - The starting point for a test,en-US
+Режим отказа — тестирование на ошибку,Fail Mode - Fail the test,en-US
+Режим успеха — достижение успеха для (части) теста,Accept Mode - Accept success for (part of) a test,en-US
+Режим чтения — загрузка из файла,Load Mode - Load from file,en-US
+Сбросить и загрузить,Reset and Load,en-US
+Сброшен тест %s,Reset succeeded for test: %s,en-US
+Свойство блока отсутствует; ожидалось свойство %s со значением %s,Block property missing. Expected property %s to be %s,en-US
+Слишком много блоков %s,Too many %s blocks,en-US
+Сообщение:,Message:,en-US
+Сохранить конструкцию,Save Structure,en-US
+Среда: %s,Environment: %s,en-US
+Сущности:,Entities:,en-US
+Сущность %s провалила тест: %s,Entity %s failed test: %s,en-US
+Сущность %s провалила тест: %s; ожидалось: %s; получено: %s,Entity %s failed test: %s. Expected %s: was %s,en-US
+Сущность должна держать %s,Entity should be holding %s,en-US
+Тест встроенной функции,Built-in Function Test,en-US
+Тест завершился по таймеру до завершения последовательности,Test timed out before sequence completed,en-US
+Тест на блоках,Block-Based Test,en-US
+Тип соединения:,Joint Type:,en-US
+Тип: %s,Type: %s,en-US
+Угол,Corner,en-US
+Угол — маркер размещения и размера,Corner Mode - Placement and size marker,en-US
+Угол: %s,Corner: %s,en-US
+Указанный блок не имеет соответствующего ему предмета,Given block is not a block item,en-US
+Уровни: %s,Levels: %s,en-US
+Условие не задействовано,Condition not triggered,en-US
+Условие уже задействовано в такте %s,Condition already triggered at %s,en-US
+Успех,Accept,en-US
+Учитывать сущности:,Include Entities:,en-US
+Функция: %s,Function: %s,en-US
+Целостность конструкции,Structure Integrity,en-US
+Целостность конструкции и ключ,Structure Integrity and Seed,en-US
+ЧТЕНИЕ,LOAD,en-US
+Чтение,Load,en-US
+Чтение: %s,Load: %s,en-US
+กลุ่มเป้าหมาย:,Target Pool:,en-US
+การทดสอบฟังก์ชันในตัว,Built-in Function Test,en-US
+การทดสอบหมดเวลาก่อนที่ลำดับจะเสร็จสิ้น,Test timed out before sequence completed,en-US
+การทดสอบโดยอิงจากบล็อก,Block-Based Test,en-US
+การทดสอบได้เริ่มนับติ๊กโดยที่ยังไม่ได้วางโครงสร้าง,Ticking test before placing structure,en-US
+การวางอย่างเคร่งครัด:,Strict Placement:,en-US
+การหมดเวลาไม่ถูกต้อง (%s) - ติ๊กต้องเป็นจำนวนบวก,Invalid timeout (%s) - must be a positive number of ticks,en-US
+การหมุน:,Rotation:,en-US
+กำลังเริ่มการทดสอบ %s,Starting test %s,en-US
+ขนาดโครงสร้าง,Structure Size,en-US
+ขนาดโครงสร้าง x,structure size x,en-US
+ขนาดโครงสร้าง y,structure size y,en-US
+ขนาดโครงสร้าง z,structure size z,en-US
+ขนาดโครงสร้างทดสอบ,Test Structure Size,en-US
+ขาดคุณสมบัติบล็อก ต้องมีคุณสมบัติ %s เป็น %s,Block property missing. Expected property %s to be %s,en-US
+ขาดเอนทิตี้บล็อก,Missing block entity,en-US
+ข้อความ:,Message:,en-US
+ข้อมูล,Data,en-US
+ข้อมูล: %s,Data: %s,en-US
+ข้อมูลเอนทิตี้ต้องเป็น %s: ตอนนี้เป็น %s,Expected entity data to be %s: was %s,en-US
+ข้อมูลเอนทิตี้สำหรับ %s ไม่ตรงกัน,Entity data mismatch for %s,en-US
+คงบล็อกจิ๊กซอว์ไว้,Keep Jigsaws,en-US
+ความสมบูรณ์ของโครงสร้าง,Structure Integrity,en-US
+ความสมบูรณ์ของโครงสร้างและซีด,Structure Integrity and Seed,en-US
+คอนเทนเนอร์ควรมี: %s,Container should contain: %s,en-US
+คอนเทนเนอร์ควรมีสิ่งนี้เพียงชิ้นเดียว: %s,Container should contain a single: %s,en-US
+คอนเทนเนอร์ควรว่างเปล่า,Container should be empty,en-US
+คุณสมบัติ %s ต้องเป็น %s: ตอนนี้เป็น %s,Expected property %s to be %s: was %s,en-US
+ชื่อ:,Name:,en-US
+ชื่อเป้าหมาย:,Target Name:,en-US
+ชื่อแท็กข้อมูลกำหนดเอง,Custom Data Tag Name,en-US
+ชื่อโครงสร้าง,Structure Name,en-US
+ชื่อโครงสร้าง '%s' ไม่ถูกต้อง,Invalid structure name '%s',en-US
+ช่องเก็บของเอนทิตี้ควรมี %s,Entity inventory should contain %s,en-US
+ซีดโครงสร้าง,Structure Seed,en-US
+ตรงตามเงื่อนไขความล้มเหลว,Fail conditions met,en-US
+ตรวจจับ,DETECT,en-US
+ตรวจจับขนาดและตำแหน่งโครงสร้าง:,Detect Structure Size and Position:,en-US
+ตรวจพบขนาดสำหรับ '%s' แล้ว,Size successfully detected for '%s',en-US
+ตำแหน่ง x สัมพัทธ์,relative position x,en-US
+ตำแหน่งสัมพัทธ์,Relative Position,en-US
+ตำแหน่งสัมพัทธ์ y,relative position y,en-US
+ตำแหน่งสัมพัทธ์ z,relative position z,en-US
+ตำแหน่งโครงสร้าง '%s' ถูกเตรียม,Structure '%s' position prepared,en-US
+ต้องมี %s,Expected %s,en-US
+"ต้องมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","Expected %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+"ต้องมี %s อยู่รอบ %s, %s, %s","Expected %s to exist around %s, %s, %s",en-US
+ต้องมี %s อยู่ระหว่าง %s กับ %s: ตอนนี้เป็น %s,Expected %s to be in between %s and %s: was %s,en-US
+ต้องมี %s อยู่ในการทดสอบ,Expected %s to exist in test,en-US
+"ต้องมี %s เพียง 1 รายการรอบ %s, %s, %s เท่านั้น แต่พบ %s รายการ","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+ต้องมีบล็อก %s อยู่,Expected block %s to be present,en-US
+ต้องมีเอนทิตี้ %s รายการของประเภท %s: พบ %s รายการ,Expected %s entities of type %s: found %s,en-US
+ต้องมีไอเทม %s รายการของประเภท %s: พบ %s รายการ,Expected %s items of type %s: found %s,en-US
+ต้องมีไอเทมของประเภท %s,Expected item of type %s,en-US
+ต้องเป็นบล็อก %s: ได้รับ %s,Expected block %s: got %s,en-US
+ต้องเป็นบล็อกใน #%s: ได้รับ %s,Expected block in #%s: got %s,en-US
+บล็อก%sมากเกินไป,Too many %s blocks,en-US
+บล็อกนั้นไม่ใช่ไอเทมบล็อก,Given block is not a block item,en-US
+บล็อกไม่ควรเป็น %s,Did not expect block to be %s,en-US
+บันทึก,SAVE,en-US
+บันทึก,Save,en-US
+บันทึก: %s,Save: %s,en-US
+บันทึกโครงสร้าง,Save Structure,en-US
+ประเภท: %s,Type: %s,en-US
+ประเภทการต่อ:,Joint Type:,en-US
+ประเภทเอนทิตี้บล็อกผิดพลาด: %s,Wrong block entity type: %s,en-US
+พบประเภทบล็อกที่ไม่คาดคิด: %s,Unexpected block type found: %s,en-US
+"พิกัดทดสอบ: [%s, %s, %s] ใน %s","Test coordinates: [%s, %s, %s] in %s",en-US
+"พิกัดผู้เล่น: [%s, %s, %s] ใน %s","Player coordinates: [%s, %s, %s] in %s",en-US
+ฟังก์ชัน: %s,Function: %s,en-US
+มิติ: %s,Dimension: %s,en-US
+มุม,Corner,en-US
+มุม: %s,Corner: %s,en-US
+ยอมรับ,Accept,en-US
+รวมถึงเอนทิตี้:,Include Entities:,en-US
+ระดับ: %s,Levels: %s,en-US
+รีเซตการทดสอบสำเร็จ: %s,Reset succeeded for test: %s,en-US
+รีเซตและโหลด,Reset and Load,en-US
+ลงบันทึก,Log,en-US
+ลำดับความสำคัญในการวาง:,Placement Priority:,en-US
+ลำดับความสำคัญในการเลือก:,Selection Priority:,en-US
+ล้มเหลว,Fail,en-US
+ล้มเหลว: %s,Failed: %s,en-US
+ล้มเหลวในการตั้งไบโอมสำหรับการทดสอบ,Failed to set biome for test,en-US
+ล้มเหลวในการวางโครงสร้างทดสอบสำหรับ %s,Failed to place test structure for %s,en-US
+ล้มเหลวในการสร้างเอนทิตี้ %s,Failed to create entity %s,en-US
+สถานะไม่ถูกต้อง ต้องเป็น %s: ตอนนี้เป็น %s,Incorrect state. Expected %s: was %s,en-US
+สภาพแวดล้อม: %s,Environment: %s,en-US
+สร้าง,Generate,en-US
+สำเร็จก่อนติ๊กที่คาดไว้: ต้องรอจนถึง %s,Succeeded before expected tick: expected to wait %s,en-US
+สำเร็จในติ๊กที่ไม่ถูกต้อง: ต้องเป็น %s,Succeeded in invalid tick: expected %s,en-US
+หมุนได้,Rollable,en-US
+หมุนไม่ได้,Aligned,en-US
+เงื่อนไขถูกทริกเกอร์ไปแล้วในติ๊กที่ %s,Condition already triggered at %s,en-US
+เงื่อนไขไม่ถูกทริกเกอร์,Condition not triggered,en-US
+"เมื่อชิ้นส่วนแม่ถูกประมวลผลเพื่อการเชื่อมต่อ นี่คือลำดับที่บล็อกจิ๊กซอว์นี้จะพยายามเชื่อมต่อกับชิ้นส่วนเป้าหมาย
+
+บล็อกจิ๊กซอว์ต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย หากมีลำดับความสำคัญเท่ากัน จะใช้การสุ่มในการเลือกลำดับการประมวลผล","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+"เมื่อบล็อกจิ๊กซอว์นี้เชื่อมต่อกับชิ้นส่วนใด ๆ นี่คือลำดับที่ชิ้นส่วนนั้นจะถูกประมวลผลเพื่อการเชื่อมต่อในโครงสร้างที่ใหญ่ขึ้น
+
+ชิ้นส่วนต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย โดยหากมีลำดับความสำคัญเท่ากัน จะประมวลผลตามลำดับการแทรก","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+เริ่มต้น,Start,en-US
+เสร็จสิ้นกลายเป็น:,Turns into:,en-US
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s,Entity %s failed test: %s,en-US
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s ต้องเป็น %s: ตอนนี้เป็น %s,Entity %s failed test: %s. Expected %s: was %s,en-US
+เอนทิตี้:,Entities:,en-US
+เอนทิตี้ควรกำลังถือ %s,Entity should be holding %s,en-US
+แสดงกล่องขอบเขต:,Show Bounding Box:,en-US
+แสดงบล็อกล่องหน:,Show Invisible Blocks:,en-US
+โครงสร้าง '%s' ไม่พร้อมใช้งาน,Structure '%s' is not available,en-US
+โครงสร้าง: %s,Structure: %s,en-US
+โครงสร้างถูกบันทึกเป็น '%s',Structure saved as '%s',en-US
+โครงสร้างถูกโหลดจาก '%s',Structure loaded from '%s',en-US
+โครงสร้างทดสอบขาดบล็อก%s,Test structure missing %s block,en-US
+โหมดข้อมูล - ตัวทำเครื่องหมายตรรกะเกม,Data Mode - Game logic marker,en-US
+โหมดบันทึก - บันทึกไปยังไฟล์,Save Mode - Write to file,en-US
+โหมดมุม - ตัวทําเครื่องหมายการวางและขนาด,Corner Mode - Placement and size marker,en-US
+โหมดยอมรับ - ยอมรับความสำเร็จของ (บางส่วนของ) การทดสอบ,Accept Mode - Accept success for (part of) a test,en-US
+โหมดลงบันทึก - บันทึกข้อความเอาต์พุตลงไฟล์บันทึก,Log Mode - Log a message,en-US
+โหมดล้มเหลว - ทำให้การทดสอบล้มเหลว,Fail Mode - Fail the test,en-US
+โหมดเริ่มต้น - จุดเริ่มต้นของการทดสอบ,Start Mode - The starting point for a test,en-US
+โหมดโหลด - โหลดจากไฟล์,Load Mode - Load from file,en-US
+โหลด,LOAD,en-US
+โหลด,Load,en-US
+โหลด: %s,Load: %s,en-US
+โหลดและรัน,Load and Run,en-US
+"ไม่ควรมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)",en-US
+ไม่ควรมี %s อยู่,Did not expect %s to exist,en-US
+ไม่ควรมีไอเทมประเภท %s,Did not expect item of type %s,en-US
+ไม่ทราบข้อผิดพลาดภายใน: %s,Unknown internal error: %s,en-US
+ไม่มีการทดสอบดังกล่าว,No such test,en-US
+ไม่มีลำดับเสร็จสิ้นภายใน %s ติ๊ก,No sequences finished within %s ticks,en-US
+ไม่สามารถตรวจจับขนาดโครงสร้างได้ เพิ่มมุมด้วยชื่อโครงสร้างที่ตรงกัน,Unable to detect structure size. Add corners with matching structure names,en-US
+"ไม่สามารถบันทึกแม่แบบโครงสร้างทดสอบสำหรับกรณีทดสอบที่ %s, %s, %s","Unable to save test structure template for test instance at %s, %s, %s",en-US
+ไม่สามารถบันทึกโครงสร้าง '%s' ได้,Unable to save structure '%s',en-US
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีการกำหนดค่าการทดสอบ","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีโครงสร้างทดสอบ","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+ไม่สำเร็จหรือล้มเหลวภายใน %s ติ๊ก,Didn't succeed or fail within %s ticks,en-US
+“%s”的大小已成功检测,Size successfully detected for '%s',en-US
+「%s」から構造物を読み込みました,Structure loaded from '%s',en-US
+「%s」のサイズが正常に検出されました,Size successfully detected for '%s',en-US
+「%s」は無効な構造物名です,Invalid structure name '%s',en-US
+"この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+"この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+そのテストは存在しません,No such test,en-US
+"ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました","Expected only one %s to exist around %s, %s, %s but found %s",en-US
+エンティティ%sがテストに失敗しました：%s,Entity %s failed test: %s,en-US
+エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,Entity %s failed test: %s. Expected %s: was %s,en-US
+エンティティ%sの作成に失敗しました,Failed to create entity %s,en-US
+エンティティのインベントリには%sが入っている必要があります,Entity inventory should contain %s,en-US
+エンティティは%sを手に持っている必要があります,Entity should be holding %s,en-US
+エンティティを含めるかどうか：,Include Entities:,en-US
+エンティティデータが%sに合致しません,Entity data mismatch for %s,en-US
+エンティティデータは%sでなければなりませんが、%sでした,Expected entity data to be %s: was %s,en-US
+エンティティ：,Entities:,en-US
+カスタムデータタグ名,Custom Data Tag Name,en-US
+コンテナには%sが入っている必要があります,Container should contain: %s,en-US
+コンテナには単一の%sが入っている必要があります,Container should contain a single: %s,en-US
+コンテナは空である必要があります,Container should be empty,en-US
+コーナー,Corner,en-US
+コーナーモード - 構造物のサイズと位置を標識します,Corner Mode - Placement and size marker,en-US
+コーナー：%s,Corner: %s,en-US
+シーケンスが完了する前にテストがタイムアウトしました,Test timed out before sequence completed,en-US
+ジグソーを維持,Keep Jigsaws,en-US
+セーブ,Save,en-US
+セーブモード - ファイルへの書き込みを行います,Save Mode - Write to file,en-US
+セーブ：%s,Save: %s,en-US
+タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,Expected %s items of type %s: found %s,en-US
+タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,Expected %s entities of type %s: found %s,en-US
+タイプ%sのアイテムが必要です,Expected item of type %s,en-US
+タイプ%sのアイテムは予期されていません,Did not expect item of type %s,en-US
+タイプ：%s,Type: %s,en-US
+"ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s","%s at %s, %s, %s (relative: %s, %s, %s) on tick %s",en-US
+テスト%sを開始します,Starting test %s,en-US
+テストに向けたバイオームの設定に失敗しました,Failed to set biome for test,en-US
+テストのリセットが成功しました：%s,Reset succeeded for test: %s,en-US
+"テストの座標：%4$s内の[%1$s, %2$s, %3$s]","Test coordinates: [%s, %s, %s] in %s",en-US
+テストインスタンスID,Test Instance ID,en-US
+"テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+テスト構造物に%sブロックがありません,Test structure missing %s block,en-US
+テスト構造物のサイズ,Test Structure Size,en-US
+ディメンション：%s,Dimension: %s,en-US
+データ,Data,en-US
+データモード - 構造物ごとに固有の処理をマーキングします,Data Mode - Game logic marker,en-US
+データ：%s,Data: %s,en-US
+ビルトイン関数型テスト,Built-in Function Test,en-US
+ブロック%sが存在する必要があります,Expected block %s to be present,en-US
+ブロック%sが必要ですが、%sが検出されました,Expected block %s: got %s,en-US
+ブロックが%sであることは予期されていません,Did not expect block to be %s,en-US
+ブロックエンティティが不足しています,Missing block entity,en-US
+ブロックエンティティタイプが間違っています：%s,Wrong block entity type: %s,en-US
+ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,Block property missing. Expected property %s to be %s,en-US
+ブロックベース型テスト,Block-Based Test,en-US
+"プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]","Player coordinates: [%s, %s, %s] in %s",en-US
+プロパティ%sが%sであることが必要ですが、%sでした,Expected property %s to be %s: was %s,en-US
+メッセージ：,Message:,en-US
+リセットして読み込む,Reset and Load,en-US
+レベル：%s,Levels: %s,en-US
+ログ,Log,en-US
+ログモード - メッセージをログに出力します,Log Mode - Log a message,en-US
+ロード,Load,en-US
+ロードモード - ファイルからの読み込みを行います,Load Mode - Load from file,en-US
+ロード：%s,Load: %s,en-US
+不存在名为“%s”的结构 ,Structure '%s' is not available,en-US
+不明な内部エラーです：%s,Unknown internal error: %s,en-US
+严格放置：,Strict Placement:,en-US
+为%s放置测试结构失败,Failed to place test structure for %s,en-US
+予定のティックより早く成功しました。予想された待ち時間は%sでした,Succeeded before expected tick: expected to wait %s,en-US
+予期せぬブロックタイプが検出されました：%s,Unexpected block type found: %s,en-US
+保存,SAVE,en-US
+保存模式,Save,en-US
+保存模式 — 写入文件,Save Mode - Write to file,en-US
+保存结构,Save Structure,en-US
+保存：%s,Save: %s,en-US
+保留拼图,Keep Jigsaws,en-US
+偵測,DETECT,en-US
+偵測結構的大小與位置：,Detect Structure Size and Position:,en-US
+儲存,SAVE,en-US
+儲存,Save,en-US
+儲存拼圖,Keep Jigsaws,en-US
+儲存模式 ─ 寫入檔案,Save Mode - Write to file,en-US
+儲存結構,Save Structure,en-US
+儲存：%s,Save: %s,en-US
+內建函數測試,Built-in Function Test,en-US
+内置函数测试,Built-in Function Test,en-US
+函数：%s,Function: %s,en-US
+函數：%s,Function: %s,en-US
+创建实体%s失败,Failed to create entity %s,en-US
+加载,LOAD,en-US
+加载并运行,Load and Run,en-US
+加载模式,Load,en-US
+加载模式 — 从文件中加载,Load Mode - Load from file,en-US
+加载：%s,Load: %s,en-US
+包含實體：,Include Entities:,en-US
+包括实体：,Include Entities:,en-US
+厳密な配置：,Strict Placement:,en-US
+发现非预期的方块类型：%s,Unexpected block type found: %s,en-US
+可旋轉,Rollable,en-US
+可旋转,Rollable,en-US
+名前：,Name:,en-US
+名称：,Name:,en-US
+名稱：,Name:,en-US
+启动,Start,en-US
+启动模式 - 测试的起点,Start Mode - The starting point for a test,en-US
+啟動,Start,en-US
+啟動模式 ─ 測試的起點,Start Mode - The starting point for a test,en-US
+嚴格放置：,Strict Placement:,en-US
+回転可能,Rollable,en-US
+回転：,Rotation:,en-US
+固定,Aligned,en-US
+在 %s 刻內沒有序列完成,No sequences finished within %s ticks,en-US
+在%s刻内没有序列完成,No sequences finished within %s ticks,en-US
+在放置結構前執行了測試,Ticking test before placing structure,en-US
+在無效刻時成功：應為 %s,Succeeded in invalid tick: expected %s,en-US
+在預期刻之前成功：應等待 %s,Succeeded before expected tick: expected to wait %s,en-US
+基于方块的测试,Block-Based Test,en-US
+基於方塊的測試,Block-Based Test,en-US
+境界線を表示する：,Show Bounding Box:,en-US
+失敗,Fail,en-US
+失敗モード - テストを失敗させます,Fail Mode - Fail the test,en-US
+失敗条件が満たされました,Fail conditions met,en-US
+失敗模式 ─ 使測試失敗,Fail Mode - Fail the test,en-US
+失敗：%s,Failed: %s,en-US
+失败,Fail,en-US
+失败模式 - 使测试失败,Fail Mode - Fail the test,en-US
+失败：%s,Failed: %s,en-US
+"存在未定义的测试，无法在%s, %s, %s处运行测试实例","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+"存在未被定義的測試，無法在 %s, %s, %s 處執行測試實例","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+实体%s测试失败：%s,Entity %s failed test: %s,en-US
+实体%s测试失败：%s。应为%s：实际为%s,Entity %s failed test: %s. Expected %s: was %s,en-US
+实体应持有%s,Entity should be holding %s,en-US
+实体数据应为%s：实际为%s,Expected entity data to be %s: was %s,en-US
+实体物品栏中应包含%s,Entity inventory should contain %s,en-US
+实体：,Entities:,en-US
+容器应为空,Container should be empty,en-US
+容器应包含：%s,Container should contain: %s,en-US
+容器应含有单个：%s,Container should contain a single: %s,en-US
+容器應含有單個：%s,Container should contain a single: %s,en-US
+容器應含有：%s,Container should contain: %s,en-US
+容器應為空,Container should be empty,en-US
+實體 %s 測試失敗：%s,Entity %s failed test: %s,en-US
+實體 %s 測試失敗：%s。應為 %s，但實際為 %s,Entity %s failed test: %s. Expected %s: was %s,en-US
+實體應持有 %s,Entity should be holding %s,en-US
+實體物品欄中應含有 %s,Entity inventory should contain %s,en-US
+實體資料應為 %s，但實際為 %s,Expected entity data to be %s: was %s,en-US
+實體：,Entities:,en-US
+対象の名前：,Target Name:,en-US
+尚未放置结构时执行了测试,Ticking test before placing structure,en-US
+层数：%s,Levels: %s,en-US
+属性%s应为%s：实际为%s,Expected %s to be %s: was %s,en-US
+属性%s应为%s：实际为%s,Expected property %s to be %s: was %s,en-US
+属性%s应在%s和%s之间：实际为%s,Expected %s to be in between %s and %s: was %s,en-US
+層數：%s,Levels: %s,en-US
+屬性 %s 應為 %s，但實際為 %s,Expected property %s to be %s: was %s,en-US
+已將結構儲存為 '%s',Structure saved as '%s',en-US
+已從 '%s' 載入結構,Structure loaded from '%s',en-US
+已成功偵測 '%s' 的大小,Size successfully detected for '%s',en-US
+应为%s个%s类型的物品：实际为%s个,Expected %s items of type %s: found %s,en-US
+应为%s类型的物品,Expected item of type %s,en-US
+应存在方块%s,Expected block %s to be present,en-US
+应有%s个类型为%s的实体：实际有%s个,Expected %s entities of type %s: found %s,en-US
+"当此拼图方块连接到部件时，此处即为在更大的结构中各部件处理连接的顺序。
+
+部件按照优先级由高到低处理，若优先级相同，则按照插入顺序处理。","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+"当父级片段处理连接时，此处即为各拼图方块尝试连接目标部件的顺序。
+
+拼图方块将会按照优先级由高到低处理，同级则随机处理。","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+應存在方塊 %s,Expected block %s to be present,en-US
+應為 %s,Expected %s,en-US
+應為類型 %s 的物品,Expected item of type %s,en-US
+成功于无效的刻：应为%s,Succeeded in invalid tick: expected %s,en-US
+成功于预期的刻之前：应等待%s,Succeeded before expected tick: expected to wait %s,en-US
+成功从“%s”中加载结构,Structure loaded from '%s',en-US
+成功将结构保存为“%s”,Structure saved as '%s',en-US
+找到非預期的方塊類型：%s,Unexpected block type found: %s,en-US
+拼接类型：,Joint Type:,en-US
+拼接類型：,Joint Type:,en-US
+指定のブロックはブロックアイテムではありません,Given block is not a block item,en-US
+指定的方块不是方块物品,Given block is not a block item,en-US
+指定的方塊不是方塊物品,Given block is not a block item,en-US
+探测,DETECT,en-US
+探测结构大小和位置：,Detect Structure Size and Position:,en-US
+接受,Accept,en-US
+接受模式 - 接受（部分）测试的成功,Accept Mode - Accept success for (part of) a test,en-US
+接受模式 ─ 接受測試（部分）成功,Accept Mode - Accept success for (part of) a test,en-US
+接続タイプ：,Joint Type:,en-US
+放置优先级：,Placement Priority:,en-US
+放置優先順序：,Placement Priority:,en-US
+数据模式,Data,en-US
+数据模式 — 游戏逻辑标记,Data Mode - Game logic marker,en-US
+数据：%s,Data: %s,en-US
+整列,Aligned,en-US
+方块不应为%s,Did not expect block to be %s,en-US
+方块应为%s：实际为%s,Expected block %s: got %s,en-US
+方块应在#%s中：实际为%s,Expected block in #%s: got %s,en-US
+方塊不應為 %s,Did not expect block to be %s,en-US
+方塊應在 #%s 中，但實際為 %s,Expected block in #%s: got %s,en-US
+方塊應為 %s，但實際為 %s,Expected block %s: got %s,en-US
+旋轉角度：,Rotation:,en-US
+旋转角度：,Rotation:,en-US
+无效的时限（%s），刻数必须为正数,Invalid timeout (%s) - must be a positive number of ticks,en-US
+无效的测试ID,Invalid test ID,en-US
+无效的结构名“%s”,Invalid structure name '%s',en-US
+"无法保存%s, %s, %s处测试实例的测试结构模板","Unable to save test structure template for test instance at %s, %s, %s",en-US
+无法保存结构“%s”,Unable to save structure '%s',en-US
+无法检测结构大小。请放置与结构名称对应的角落结构方块,Unable to detect structure size. Add corners with matching structure names,en-US
+日志输出,Log,en-US
+日志输出模式 - 将消息输出到日志,Log Mode - Log a message,en-US
+显示边框：,Show Bounding Box:,en-US
+显示隐形方块：,Show Invisible Blocks:,en-US
+未在 %s 刻內成功或失敗,Didn't succeed or fail within %s ticks,en-US
+未在%s刻内成功或失败,Didn't succeed or fail within %s ticks,en-US
+"未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+未知的內部錯誤：%s,Unknown internal error: %s,en-US
+未知的内部错误：%s,Unknown internal error: %s,en-US
+条件がすでに%sでトリガーされています,Condition already triggered at %s,en-US
+条件がトリガーされていません,Condition not triggered,en-US
+条件已在%s刻时触发,Condition already triggered at %s,en-US
+条件未触发,Condition not triggered,en-US
+條件已在 %s 刻時觸發,Condition already triggered at %s,en-US
+條件未觸發,Condition not triggered,en-US
+検出,DETECT,en-US
+構成要素プール：,Target Pool:,en-US
+構造物「%s」の位置が準備されました,Structure '%s' position prepared,en-US
+構造物「%s」は利用できません,Structure '%s' is not available,en-US
+構造物「%s」を保存できません,Unable to save structure '%s',en-US
+構造物が「%s」として保存されました,Structure saved as '%s',en-US
+構造物が未設置の状態でティック処理が実行されました,Ticking test before placing structure,en-US
+構造物のサイズ,Structure Size,en-US
+構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,Unable to detect structure size. Add corners with matching structure names,en-US
+構造物のシード値,Structure Seed,en-US
+構造物の大きさと位置を検出：,Detect Structure Size and Position:,en-US
+構造物の完全性,Structure Integrity,en-US
+構造物の完全性とシード値,Structure Integrity and Seed,en-US
+構造物を保存,Save Structure,en-US
+構造物名,Structure Name,en-US
+構造物：%s,Structure: %s,en-US
+正在启动测试%s,Starting test %s,en-US
+正在啟動測試 %s,Starting test %s,en-US
+此测试不存在,No such test,en-US
+沒有名為 '%s' 的結構,Structure '%s' is not available,en-US
+"沒有測試結構，無法在 %s, %s, %s 處執行測試實例","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+"没有测试结构，无法在%s, %s, %s处运行测试实例","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+测试在序列完成前超时,Test timed out before sequence completed,en-US
+"测试坐标：[%s, %s, %s]，位于%s","Test coordinates: [%s, %s, %s] in %s",en-US
+测试实例ID,Test Instance ID,en-US
+测试结构大小,Test Structure Size,en-US
+测试结构缺少%s方块,Test structure missing %s block,en-US
+测试重置成功：%s,Reset succeeded for test: %s,en-US
+消息：,Message:,en-US
+測試不存在,No such test,en-US
+測試在序列完成前已逾時,Test timed out before sequence completed,en-US
+測試實例 ID,Test Instance ID,en-US
+"測試座標：[%s, %s, %s]，位於 %s","Test coordinates: [%s, %s, %s] in %s",en-US
+測試結構大小,Test Structure Size,en-US
+測試結構缺少 %s 方塊,Test structure missing %s block,en-US
+測試重設成功：%s,Reset succeeded for test: %s,en-US
+满足失败条件,Fail conditions met,en-US
+滿足失敗條件,Fail conditions met,en-US
+無効なティックにおいて成功しました。%sでなければなりません,Succeeded in invalid tick: expected %s,en-US
+無効なテストID,Invalid test ID,en-US
+無效的時間限制 (%s) - 刻數須為正數,Invalid timeout (%s) - must be a positive number of ticks,en-US
+無效的測試 ID,Invalid test ID,en-US
+無效的結構名稱 '%s',Invalid structure name '%s',en-US
+無法偵測結構大小。請添加與結構名稱對應的角落,Unable to detect structure size. Add corners with matching structure names,en-US
+無法儲存結構 '%s',Unable to save structure '%s',en-US
+"無法在 %s, %s, %s 處儲存測試實例的測試結構模板","Unable to save test structure template for test instance at %s, %s, %s",en-US
+無法建立實體 %s,Failed to create entity %s,en-US
+無法為 %s 放置測試結構,Failed to place test structure for %s,en-US
+無法設定測試的生態域,Failed to set biome for test,en-US
+物品不应为类型%s,Did not expect item of type %s,en-US
+物品不應為類型 %s,Did not expect item of type %s,en-US
+状态错误。应为%s：实际为%s,Incorrect state. Expected %s: was %s,en-US
+状態が間違っています。%sであることが必要ですが、%sでした,Incorrect state. Expected %s: was %s,en-US
+狀態錯誤。應為 %s，但實際為 %s,Incorrect state. Expected %s: was %s,en-US
+"玩家坐标：[%s, %s, %s]，位于%s","Player coordinates: [%s, %s, %s] in %s",en-US
+"玩家座標：[%s, %s, %s]，位於 %s","Player coordinates: [%s, %s, %s] in %s",en-US
+环境：%s,Environment: %s,en-US
+環境：%s,Environment: %s,en-US
+生成,Generate,en-US
+"當此拼圖方塊連接到某個部件時，此處即為在更大的結構中各部件的處理連接的順序。
+
+部件依照優先順序由高到低處理，若優先順序相同，則依插入順序處理。","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+"當父級部件處理連接時，此處即為拼圖方塊嘗試連接到目標部件的順序。
+
+拼圖方塊會依照優先順序由高到低處理，若優先順序相同，則依隨機順序處理。","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+目标名称：,Target Name:,en-US
+目标池：,Target Pool:,en-US
+目標名稱：,Target Name:,en-US
+目標池：,Target Pool:,en-US
+相对X坐标,relative position x,en-US
+相对Y坐标,relative position y,en-US
+相对Z坐标,relative position z,en-US
+相对位置,Relative Position,en-US
+相対位置,Relative Position,en-US
+相對位置,Relative Position,en-US
+类型：%s,Type: %s,en-US
+結構 '%s' 的位置已準備就緒,Structure '%s' position prepared,en-US
+結構名稱,Structure Name,en-US
+結構大小,Structure Size,en-US
+結構完整度及種子碼,Structure Integrity and Seed,en-US
+結構完整性,Structure Integrity,en-US
+結構種子碼,Structure Seed,en-US
+結構：%s,Structure: %s,en-US
+維度：%s,Dimension: %s,en-US
+结构X轴大小,structure size x,en-US
+结构Y轴大小,structure size y,en-US
+结构Z轴大小,structure size z,en-US
+结构“%s”的加载位置已就绪,Structure '%s' position prepared,en-US
+结构名称,Structure Name,en-US
+结构大小,Structure Size,en-US
+结构完整性,Structure Integrity,en-US
+结构完整性及种子,Structure Integrity and Seed,en-US
+结构种子,Structure Seed,en-US
+结构：%s,Structure: %s,en-US
+维度：%s,Dimension: %s,en-US
+缺少%s,Expected %s,en-US
+缺少方块实体,Missing block entity,en-US
+缺少方块属性。属性%s应为%s,Block property missing. Expected property %s to be %s,en-US
+缺少方塊實體,Missing block entity,en-US
+缺少方塊屬性。屬性 %s 應為 %s,Block property missing. Expected property %s to be %s,en-US
+置換先：,Turns into:,en-US
+自定义数据标签名,Custom Data Tag Name,en-US
+自訂資料標籤名稱,Custom Data Tag Name,en-US
+見えないブロックを表示する：,Show Invisible Blocks:,en-US
+角落,Corner,en-US
+角落模式,Corner,en-US
+角落模式 — 位置和大小标记,Corner Mode - Placement and size marker,en-US
+角落模式 ─ 位置及大小記號,Corner Mode - Placement and size marker,en-US
+角落：%s,Corner: %s,en-US
+訊息：,Message:,en-US
+記錄,Log,en-US
+記錄模式 ─ 將紀錄輸出至記錄檔中,Log Mode - Log a message,en-US
+設置優先度：,Placement Priority:,en-US
+認証,Accept,en-US
+認証モード - テスト（の一部）の成功を認証します,Accept Mode - Accept success for (part of) a test,en-US
+読み込み,LOAD,en-US
+読み込んで実行,Load and Run,en-US
+设置测试生物群系失败,Failed to set biome for test,en-US
+資料,Data,en-US
+資料模式 ─ 遊戲邏輯記號,Data Mode - Game logic marker,en-US
+資料：%s,Data: %s,en-US
+載入,LOAD,en-US
+載入,Load,en-US
+載入並執行,Load and Run,en-US
+載入模式 ─ 從檔案載入,Load Mode - Load from file,en-US
+載入：%s,Load: %s,en-US
+轉變為：,Turns into:,en-US
+转变为：,Turns into:,en-US
+选择优先级：,Selection Priority:,en-US
+選択優先度：,Selection Priority:,en-US
+選擇優先順序：,Selection Priority:,en-US
+重置并加载,Reset and Load,en-US
+重設並載入,Reset and Load,en-US
+錯誤的方塊實體類型：%s,Wrong block entity type: %s,en-US
+错误的方块实体类型：%s,Wrong block entity type: %s,en-US
+開始,Start,en-US
+開始モード - テストの起点となります,Start Mode - The starting point for a test,en-US
+関数：%s,Function: %s,en-US
+類型為 %2$s 的實體應有 %1$s 個，但實際為 %3$s 個,Expected %s entities of type %s: found %s,en-US
+類型為 %2$s 的物品應有 %1$s 個，但實際為 %3$s 個,Expected %s items of type %s: found %s,en-US
+類型：%s,Type: %s,en-US
+顯示定界框：,Show Bounding Box:,en-US
+顯示隱形方塊：,Show Invisible Blocks:,en-US
+감지,DETECT,en-US
+"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",Expected entity data to be %s: was %s,en-US
+개체 보관함이 %s을(를) 포함해아 합니다,Entity inventory should contain %s,en-US
+개체 포함:,Include Entities:,en-US
+개체:,Entities:,en-US
+개체가 %s을(를) 들고 있어야 합니다,Entity should be holding %s,en-US
+결합 유형:,Joint Type:,en-US
+경계 상자 표시:,Show Bounding Box:,en-US
+고정,Aligned,en-US
+구조물 '%s'의 위치가 준비되었습니다,Structure '%s' position prepared,en-US
+구조물 설치 전에 테스트를 틱하려 했습니다,Ticking test before placing structure,en-US
+구조물 시드,Structure Seed,en-US
+구조물 온전도,Structure Integrity,en-US
+구조물 온전도 및 시드,Structure Integrity and Seed,en-US
+구조물 이름,Structure Name,en-US
+구조물 저장,Save Structure,en-US
+구조물 크기,Structure Size,en-US
+구조물 크기 x,structure size x,en-US
+구조물 크기 y,structure size y,en-US
+구조물 크기 z,structure size z,en-US
+구조물 크기 및 위치 감지:,Detect Structure Size and Position:,en-US
+구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,Unable to detect structure size. Add corners with matching structure names,en-US
+구조물: %s,Structure: %s,en-US
+구조물을 '%s'(으)로 저장할 수 없습니다,Unable to save structure '%s',en-US
+구조물을 '%s'에서 불러왔습니다,Structure loaded from '%s',en-US
+구조물이 '%s'(으)로 저장되었습니다,Structure saved as '%s',en-US
+기록,Log,en-US
+기록 모드 - 메시지를 기록합니다,Log Mode - Log a message,en-US
+내장 함수 테스트,Built-in Function Test,en-US
+다음으로 변화:,Turns into:,en-US
+대상 이름:,Target Name:,en-US
+대상 풀:,Target Pool:,en-US
+데이터,Data,en-US
+데이터 모드 - 게임 논리 표지,Data Mode - Game logic marker,en-US
+데이터: %s,Data: %s,en-US
+레벨: %s,Levels: %s,en-US
+메시지:,Message:,en-US
+모서리,Corner,en-US
+모서리 모드 - 설치 및 크기 표지,Corner Mode - Placement and size marker,en-US
+모서리: %s,Corner: %s,en-US
+"부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.","When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.",en-US
+불러오고 실행,Load and Run,en-US
+불러오기,LOAD,en-US
+불러오기,Load,en-US
+불러오기 모드 - 파일에서 불러오기,Load Mode - Load from file,en-US
+불러오기: %s,Load: %s,en-US
+블록 %s이(가) 존재해야 합니다,Expected block %s to be present,en-US
+블록 개체가 누락되었습니다,Missing block entity,en-US
+블록 기반 테스트,Block-Based Test,en-US
+블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,Block property missing. Expected property %s to be %s,en-US
+사용자 지정 데이터 태그 이름,Custom Data Tag Name,en-US
+상대 위치 x,relative position x,en-US
+상대 위치 y,relative position y,en-US
+상대 위치 z,relative position z,en-US
+상대적 위치,Relative Position,en-US
+생성,Generate,en-US
+선택 우선도:,Selection Priority:,en-US
+설치 우선도:,Placement Priority:,en-US
+시작,Start,en-US
+시작 모드 - 테스트의 시작 지점입니다,Start Mode - The starting point for a test,en-US
+시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,Test timed out before sequence completed,en-US
+실패,Fail,en-US
+실패 모드 - 테스트를 실패시킵니다,Fail Mode - Fail the test,en-US
+실패 조건을 충족했습니다,Fail conditions met,en-US
+실패: %s,Failed: %s,en-US
+알 수 없는 내부 오류: %s,Unknown internal error: %s,en-US
+엄격한 설치:,Strict Placement:,en-US
+예기치 않은 블록 유형입니다: %s,Unexpected block type found: %s,en-US
+예상된 %s보다 빨리 성공했습니다,Succeeded before expected tick: expected to wait %s,en-US
+용기가 다음을 포함해야 합니다: %s,Container should contain: %s,en-US
+용기가 다음을 하나 포함해야 합니다: %s,Container should contain a single: %s,en-US
+용기가 비어 있어야 합니다,Container should be empty,en-US
+유형: %s,Type: %s,en-US
+"이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.","When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.",en-US
+이름:,Name:,en-US
+인정,Accept,en-US
+인정 모드 - 테스트 (일부)의 성공을 인정합니다,Accept Mode - Accept success for (part of) a test,en-US
+잘못된 블록 개체 유형입니다: %s,Wrong block entity type: %s,en-US
+"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",Incorrect state. Expected %s: was %s,en-US
+잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,Invalid timeout (%s) - must be a positive number of ticks,en-US
+잘못된 테스트 ID입니다,Invalid test ID,en-US
+저장,SAVE,en-US
+저장,Save,en-US
+저장 모드 - 파일에 쓰기,Save Mode - Write to file,en-US
+저장: %s,Save: %s,en-US
+"정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다","Unable to run test instance at %s, %s, %s since it has an undefined test",en-US
+조건이 %s에 이미 발동했습니다,Condition already triggered at %s,en-US
+조건이 발동하지 않았습니다,Condition not triggered,en-US
+주어진 블록은 블록 아이템이 아닙니다,Given block is not a block item,en-US
+직소 유지,Keep Jigsaws,en-US
+차원: %s,Dimension: %s,en-US
+초기화하고 불러오기,Reset and Load,en-US
+테스트 %s을(를) 시작합니다,Starting test %s,en-US
+테스트 %s을(를) 초기화하는 데 성공했습니다,Reset succeeded for test: %s,en-US
+테스트 구조물 크기,Test Structure Size,en-US
+테스트 구조물에 %s 블록이 없습니다,Test structure missing %s block,en-US
+"테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다","Unable to run test instance at %s, %s, %s since it has no test structure",en-US
+테스트 안에 %s이(가) 있어야 합니다,Expected %s to exist in test,en-US
+테스트 인스턴스 ID,Test Instance ID,en-US
+"테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]","Test coordinates: [%s, %s, %s] in %s",en-US
+테스트를 위해 생물 군계를 설정하는 데 실패했습니다,Failed to set biome for test,en-US
+투명 블록 표시:,Show Invisible Blocks:,en-US
+"플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]","Player coordinates: [%s, %s, %s] in %s",en-US
+함수: %s,Function: %s,en-US
+해당하는 테스트 없음,No such test,en-US
+환경: %s,Environment: %s,en-US
+회전 가능,Rollable,en-US
+회전:,Rotation:,en-US

@@ -1,0 +1,1493 @@
+﻿source,target,tgt_lng
+'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+A porcentagem de jogadores que devem dormir para passar a noite.,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+Accesso al Nether,Cho phép Nether,vi-VN
+Accès au Nether,Cho phép Nether,vi-VN
+Actions destructives des créatures,Cho phép hành động sinh vật phá hoại,vi-VN
+Activar la barra localizadora de jugadores,Bật thanh định vị người chơi,vi-VN
+Actualisation du feu loin des joueurs,Đếm nhịp lửa cách xa người chơi,vi-VN
+Actualisations du monde,Cập nhật thế giới,vi-VN
+Actualizaciones del mundo,Cập nhật thế giới,vi-VN
+Administratorbefehle protokollieren,Truyền đi lệnh quản trị,vi-VN
+Advance time of day,Thời gian trong ngày trôi đi,vi-VN
+"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.","Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.","Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+"Al explotar (criaturas), algunos bloques no soltarán objetos","Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+"Al explotar (por bloques), algunos bloques no soltarán objetos","Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+"Al verificarsi di determinati eventi, come la generazione di un boss, il suono verrà udito globalmente.","Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+Alcune entità potrebbero avere regole separate.,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+Algumas entidades podem ter regras separadas.,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+Algunas entidades pueden tener sus propias reglas.,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de criaturas desaparecen con la explosión.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de interacciones con bloques desaparecen con la explosión.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de la dinamita desaparecen con la explosión.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Allgemeine Verärgerung,Giận dữ toàn diện,vi-VN
+Allow destructive mob actions,Cho phép hành động sinh vật phá hoại,vi-VN
+"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.","Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+Allow Nether,Cho phép Nether,vi-VN
+Allow spectators to generate terrain,Cho phép khán giả tạo địa hình,vi-VN
+Allow TNT to be activated and to explode,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+Altezza di accumulo della neve,Chiều cao tích tụ tuyết,vi-VN
+Altura de acumulación de nieve,Chiều cao tích tụ tuyết,vi-VN
+Altura de acumulação de neve,Chiều cao tích tụ tuyết,vi-VN
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+Angered neutral mobs stop being angry when the targeted player dies nearby.,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+Announce advancements,Thông báo tiến trình,vi-VN
+Anunciar comandos de administrador,Truyền đi lệnh quản trị,vi-VN
+Anunciar progresos,Thông báo tiến trình,vi-VN
+Anunciar progressos,Thông báo tiến trình,vi-VN
+Anunciar saída dos Blocos de Comando,Truyền đi đầu ra của khối lệnh,vi-VN
+Anında yeniden canlanma,Lập tức hồi sinh,vi-VN
+"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.","Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+"Ao ativar, uma barra na tela indica a direção dos jogadores.","Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.","Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+Aplicável às cadeias de blocos de comando e funções.,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+Apparition,Sinh ra,vi-VN
+Apparition des créatures,Sinh ra sinh vật,vi-VN
+Apparition des marchands ambulants,Sinh ra thương nhân lang thang,vi-VN
+Apparition des monstres,Sinh ra quái vật,vi-VN
+Apparition des patrouilles de pillards,Sinh ra kẻ cướp tuần tra,vi-VN
+Apparition des Phantoms,Sinh ra phantom,vi-VN
+Apparition des Wardens,Sinh ra kẻ cai ngục,vi-VN
+Applies to command block chains and functions.,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+Are you sure you want to discard your pending game rule changes?,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+As entidades com passageiros podem atravessar portais,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+Ateş hasarı alma,Gây sát thương lửa,vi-VN
+Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+Ateş yayılabilsin,Cập nhật lửa,vi-VN
+Ateş yayılma yarıçapı,Bán kính lan lửa,vi-VN
+Ativar Barra Localizadora de jogadores,Bật thanh định vị người chơi,vi-VN
+Ativar Blocos de Comando,Bật khối lệnh,vi-VN
+Ativar Blocos Geradores,Bật khối triệu hồi,vi-VN
+Ativar invasões,Bật các cuộc xâm lược,vi-VN
+Ativar PvP,Bật PVP,vi-VN
+Atraso do Portal do Nether em modo não Criativo,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+Atraso do Portal do Nether no Modo Criativo,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+Atualizar as regras do jogo requer permissões de operador.,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+Atılabilirler blokları kırabilir,Vật bắn ra có thể phá khối,vi-VN
+Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+Atılan Ender İncileri ölünce yok olurlar,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+Ausbeute,Rơi ra,vi-VN
+Avanzar ciclo de día y noche,Thời gian trong ngày trôi đi,vi-VN
+Azioni distruttive delle creature,Cho phép hành động sinh vật phá hoại,vi-VN
+Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+Baixando regras do jogo...,Đang truy xuất luật chơi...,vi-VN
+Barra localizzatrice,Bật thanh định vị người chơi,vi-VN
+Barre de localisation,Bật thanh định vị người chơi,vi-VN
+Baskınlar olsun,Bật các cuộc xâm lược,vi-VN
+Baskınları kapat,Tắt các cuộc xâm lược,vi-VN
+Bazı varlıkların ayrı kuralları olabilir.,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+Başlangıç yığınları yarıçapı,Bán kính đoạn khúc hồi sinh,vi-VN
+Befehlsausgabe anzeigen,Gửi phản hồi về lệnh,vi-VN
+Befehlsblockausgabe anzeigen,Truyền đi đầu ra của khối lệnh,vi-VN
+Befehlsblöcke,Bật khối lệnh,vi-VN
+Begrenzt die Inhalte der Debug‐Anzeige.,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.","Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+"Bist du sicher, dass du die ausstehenden Änderungen der Spielregeln verwerfen möchtest?",Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+Blocchi comandi funzionanti,Bật khối lệnh,vi-VN
+Blockausbeute fallen lassen,Rơi ra khối,vi-VN
+Blockgrenze für Befehlsänderungen,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+Blockzerstörung durch Geschosse,Vật bắn ra có thể phá khối,vi-VN
+Block‐Explosionsausbeute verschwindet,"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Blocs de commande activés,Bật khối lệnh,vi-VN
+"Blok etkileşimi patlamalarında, bazı bloklar düşmesin","Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Bloklar düşsün,Rơi ra khối,vi-VN
+Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Boğulma hasarı alma,Gây sát thương đuối nước,vi-VN
+Broadcast admin commands,Truyền đi lệnh quản trị,vi-VN
+Broadcast command block output,Truyền đi đầu ra của khối lệnh,vi-VN
+Butin des blocs,Rơi ra khối,vi-VN
+Butin des créatures,Rơi ra lợi phẩm của sinh vật,vi-VN
+Butin des entités,Rơi ra trang bị của thực thể,vi-VN
+Butins,Rơi ra,vi-VN
+Cambiar las reglas del juego requiere permisos de administrador.,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+Cambios en las reglas del juego,Thay đổi luật chơi,vi-VN
+Canavarlar Oluşsun,Sinh ra quái vật,vi-VN
+Canavarların doğal olarak oluşabilmesini kontrol eder.,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+Canlı ganimeti düşsün,Rơi ra lợi phẩm của sinh vật,vi-VN
+"Canlı patlamalarında, bazı bloklar düşmesin","Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Canlılar,Sinh vật,vi-VN
+Canlılar oluşsun,Sinh ra sinh vật,vi-VN
+Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Canlıların yıkıcı etkilerine izin verilsin,Cho phép hành động sinh vật phá hoại,vi-VN
+Cannot change game rules in a hardcore world.,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+"Cantidad de bloques que se pueden cambiar a la vez con un solo comando, como «/fill» o «/clone».",Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+Cantidad de chunks que se mantienen cargados alrededor del punto de aparición.,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+Cargar fuego lejos de los jugadores,Đếm nhịp lửa cách xa người chơi,vi-VN
+Causar dano por afogamento,Gây sát thương đuối nước,vi-VN
+Causar dano por congelamento,Gây sát thương đóng băng,vi-VN
+Causar dano por fogo,Gây sát thương lửa,vi-VN
+Causar dano por queda,Gây sát thương rơi,vi-VN
+Certaines entités peuvent avoir des règles distinctes.,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+Certains butins des blocs détruits par des explosions de créatures sont perdus dans l'explosion.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Certains butins des blocs détruits par des explosions de TNT sont perdus dans l'explosion.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Certains butins des blocs détruits par des explosions dues à des interactions de blocs sont perdus dans l'explosion.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Chat,Trò chuyện,vi-VN
+Ciclo circadiano,Thời gian trong ngày trôi đi,vi-VN
+Ciclo meteorológico,Cập nhật thời tiết,vi-VN
+Ciclos do mundo,Cập nhật thế giới,vi-VN
+Colère universelle,Giận dữ toàn diện,vi-VN
+Combattimento tra giocatori,Bật PVP,vi-VN
+Command chain size limit,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+Command context limit,Giới hạn ngữ cảnh lệnh,vi-VN
+Command modification block limit,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+Commandes d'administrateur affichées,Truyền đi lệnh quản trị,vi-VN
+Comprobar movimiento con élitros,Kiểm tra chuyển động của cánh cứng,vi-VN
+Comprobar movimiento del jugador,Kiểm tra chuyển động của người chơi,vi-VN
+"Consenti alle entità con passeggeri di teletrasportarsi attraverso i portali del Nether, i portali dell'End e i varchi dell'End.","Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+Conservation de l'inventaire après la mort,Giữ túi đồ sau khi chết,vi-VN
+Conservazione dell'inventario dopo la morte,Giữ túi đồ sau khi chết,vi-VN
+Controla el tamaño de la zona alrededor del punto de reaparición donde pueden aparecer los jugadores.,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+"Controla que las criaturas puedan soltar recursos, incluyendo orbes de experiencia.","Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+"Controla que los bloques puedan soltar recursos, incluyendo orbes de experiencia.","Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+Controla si el fuego o la lava deberían estar cargados al estar a más de 8 chunks de distancia de cualquier jugador.,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+Controla si el impacto de proyectiles destruirá bloques a los que normalmente puede destruir.,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+"Controla si las enredaderas se propagan a bloques adyacentes. No afecta otros tipos de enredaderas como enredaderas lacrimosas o enredaderas retorcidas, entre otras.","Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+Controla si los jugadores pueden dañar a otros jugadores o no.,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+Controla si los jugadores pueden entrar en el Nether.,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+Controla si los monstruos aparecen naturalmente o no.,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.","Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+"Controls resource drops from blocks, including experience orbs.","Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+"Controls resource drops from mobs, including experience orbs.","Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+Controls the size of the area around the spawn point that players can spawn in.,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+Controls whether impact projectiles will destroy blocks that are destructible by them.,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+Controls whether monsters naturally spawn.,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+Controls whether players are allowed to damage other players.,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+Controls whether players are allowed to enter the Nether.,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.","Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+"Contrôle la propagation aléatoire des lianes sur les blocs adjacents. Cela n'affecte pas les autres types de lianes tels que les lianes pleureuses, les lianes tortueuses, etc.","Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+Contrôle la taille de la zone autour du point d'apparition dans laquelle les joueurs peuvent apparaître.,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+"Contrôle les butins des blocs, y compris les orbes d'expérience.","Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+"Contrôle les butins des créatures, y compris les orbes d'expérience.","Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+"Contrôle les butins des wagonnets (y compris leur inventaire), des cadres, des bateaux, etc.","Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+Contrôle si le feu et la lave peuvent s'actualiser à plus de 8 chunks de n'importe quel joueur.,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+Contrôle si les joueurs peuvent entrer dans le Nether.,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+Contrôle si les joueurs peuvent infliger des dégâts aux autres joueurs.,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+Contrôle si les monstres apparaissent naturellement.,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+Contrôle si les perles de l'Ender lancées par un joueur disparaissent lorsque celui-ci meurt.,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+Contrôle si les projectiles détruisent les blocs destructibles par ceux-ci à l'impact.,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+Conversione d'acqua in sorgente,Nước chuyển thành nguồn,vi-VN
+Conversione di lava in sorgente,Dung nham chuyển thành nguồn,vi-VN
+Creature,Sinh ra sinh vật,vi-VN
+Creature,Sinh vật,vi-VN
+Criaturas,Sinh vật,vi-VN
+Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+Créatures,Sinh vật,vi-VN
+"Cuando está activada, se muestra una barra en la pantalla que indica la dirección de otros jugadores.","Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+"Cuando nieva, se forma este número máximo de capas de nieve en el suelo.","Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+"Cuando se producen ciertos eventos durante la partida, como que aparezca un jefe, el sonido se escucha en todas partes.","Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+"Cuando una corriente de agua está rodeada de más agua por dos de sus lados, se convierte en una fuente.","Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+"Cuando una corriente de lava está rodeada de más lava por dos de sus lados, se convierte en una fuente.","Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+Cycle jour-nuit,Thời gian trong ngày trôi đi,vi-VN
+Cycle météorologique,Cập nhật thời tiết,vi-VN
+Danno da annegamento,Gây sát thương đuối nước,vi-VN
+Danno da bruciatura,Gây sát thương lửa,vi-VN
+Danno da caduta,Gây sát thương rơi,vi-VN
+Danno da congelamento,Gây sát thương đóng băng,vi-VN
+Das Ändern der Spielregeln erfordert Operatorrechte.,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+Daño por ahogamiento,Gây sát thương đuối nước,vi-VN
+Daño por caída,Gây sát thương rơi,vi-VN
+Daño por congelamiento,Gây sát thương đóng băng,vi-VN
+Daño por fuego,Gây sát thương lửa,vi-VN
+Deal drowning damage,Gây sát thương đuối nước,vi-VN
+Deal fall damage,Gây sát thương rơi,vi-VN
+Deal fire damage,Gây sát thương lửa,vi-VN
+Deal freeze damage,Gây sát thương đóng băng,vi-VN
+Debug‐Infos reduzieren,Giảm thông tin gỡ lỗi,vi-VN
+Default: %s,Mặc định: %s,vi-VN
+"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.","Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+Define o tamanho do ponto de renascimento dos jogadores.,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+"Define os itens largados pelos blocos, incluindo as esferas de experiência.","Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.","Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+"Define os itens largados por criaturas, incluindo as esferas de experiência.","Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+Define se os jogadores podem atacar outros jogadores.,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+Define se os jogadores podem entrar no Nether.,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+Define se os monstros podem ser gerados naturalmente.,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+Demora para teletransportarse al Nether en creativo,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+Demora para teletransportarse al Nether por defecto,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+"Der Prozentsatz an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.",Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+"Der Radius in Blöcken um einen Spieler, in dem sich Feuer ausbreiten kann.",Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+Desactivar control de movimiento de los jugadores,Tắt kiểm tra chuyển động của người chơi,vi-VN
+Desactivar control de movimiento de élitros,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+Desactivar invasiones,Tắt các cuộc xâm lược,vi-VN
+Desativar invasões,Tắt các cuộc xâm lược,vi-VN
+Desativar verificação de movimento do jogador,Tắt kiểm tra chuyển động của người chơi,vi-VN
+Desativar verificação de movimento dos Élitros,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+Destruction des blocs par des projectiles,Vật bắn ra có thể phá khối,vi-VN
+Destruir Pérolas de Ender lançadas ao morrer,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+"Determina i rilasci dei vagonetti (compresi gli inventari), delle cornici, delle barche ecc.","Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+Determina la dimensione dell'area intorno al punto di generazione dei giocatori.,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+Determina la propagazione casuale dei rampicanti verso i blocchi adiacenti. Non ha effetto sugli altri tipi di rampicanti (come i rampicanti piangenti o i rampicanti attorcigliati).,"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+"Determina le risorse che vengono rilasciate dalle creature, comprese le sfere di esperienza.","Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+"Determina le risorse rilasciate dai blocchi, comprese le sfere di esperienza.","Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+Determina se i giocatori possono entrare nel Nether attraverso i portali.,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+Determina se i giocatori possono infliggere danno agli altri giocatori.,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+Determina se i mostri si generano naturalmente.,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+Determina se i proiettili da impatto possono distruggere i blocchi vulnerabili.,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+Determina se il fuoco e la lava sono attivi anche a una distanza maggiore di 8 chunk da ogni giocatore.,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+"Die Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.",Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+"Die Anzahl der Chunks um den Einstiegspunkt in der Oberwelt, die dauerhaft geladen bleiben.",Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+Die Spielregeln können in einer Hardcore‐Welt nicht angepasst werden.,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+Disable elytra movement check,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+Disable player movement check,Tắt kiểm tra chuyển động của người chơi,vi-VN
+Disable raids,Tắt các cuộc xâm lược,vi-VN
+Disparition des perles de l'Ender lancées à la mort,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+Distruzione dei blocchi tramite proiettili,Vật bắn ra có thể phá khối,vi-VN
+Divers,Khác,vi-VN
+Diversos,Khác,vi-VN
+Do elytra movement check,Kiểm tra chuyển động của cánh cứng,vi-VN
+Do player movement check,Kiểm tra chuyển động của người chơi,vi-VN
+Do raids,Bật các cuộc xâm lược,vi-VN
+Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+Donma hasarı alma,Gây sát thương đóng băng,vi-VN
+Drop blocks,Rơi ra khối,vi-VN
+Drop entity equipment,Rơi ra trang bị của thực thể,vi-VN
+Drop mob loot,Rơi ra lợi phẩm của sinh vật,vi-VN
+Drops,Rơi ra,vi-VN
+Dégâts de chute,Gây sát thương rơi,vi-VN
+Dégâts de feu,Gây sát thương lửa,vi-VN
+Dégâts de gel,Gây sát thương đóng băng,vi-VN
+Dégâts de noyade,Gây sát thương đuối nước,vi-VN
+Délai du portail du Nether,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+Délai du portail du Nether en mode Créatif,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+Dünyadaki Hareketler,Cập nhật thế giới,vi-VN
+Düşenler,Rơi ra,vi-VN
+Düşme hasarı alma,Gây sát thương rơi,vi-VN
+Edit Game Rules,Chỉnh sửa luật chơi,vi-VN
+Edit Game Rules...,Chỉnh sửa luật chơi...,vi-VN
+Editar las reglas del juego,Chỉnh sửa luật chơi,vi-VN
+Editar las reglas del juego...,Chỉnh sửa luật chơi...,vi-VN
+Editar regras do jogo,Chỉnh sửa luật chơi,vi-VN
+Editar regras do jogo...,Chỉnh sửa luật chơi...,vi-VN
+"Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+"Einiges von der Ausbeute von Blöcken, die durch TNT‐Explosionen zerstört werden, geht dabei verloren.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+"Einiges von der Ausbeute von Blöcken, die durch von Kreaturen verursachte Explosionen zerstört werden, geht dabei verloren.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Einstiegs‐Chunk‐Radius,Bán kính đoạn khúc hồi sinh,vi-VN
+El agua se convierte en fuente,Nước chuyển thành nguồn,vi-VN
+El número máximo de contextos que se pueden utilizar en comandos como «execute as».,Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+El porcentaje necesario de jugadores que deben dormir para pasar la noche.,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+El radio en bloques alrededor de un jugador en el que el fuego puede expandirse,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+Elitra hareket hızı kontrolünü kapat,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+Elitra hareketini denetle,Kiểm tra chuyển động của cánh cứng,vi-VN
+Elytrenflug nicht überprüfen,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+Elytren‐Bewegungsprüfung,Kiểm tra chuyển động của cánh cứng,vi-VN
+"En explosiones por dinamita, algunos bloques no soltarán objetos","Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+En yüksek vagon hızı,Tốc độ tối đa của xe mỏ,vi-VN
+Enable Command Blocks,Bật khối lệnh,vi-VN
+Enable player Locator Bar,Bật thanh định vị người chơi,vi-VN
+Enable pvp,Bật PVP,vi-VN
+Enable Spawner Blocks,Bật khối triệu hồi,vi-VN
+Enderperlen‐Mitleidenschaft,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+Entities with passengers can use portals,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+Entity cramming threshold,Ngưỡng nhồi nhét thực thể,vi-VN
+Entzünden und Explodieren von TNT,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+Enviar respuestas de comandos,Gửi phản hồi về lệnh,vi-VN
+Erfrierungsschaden,Gây sát thương đóng băng,vi-VN
+"Ermöglicht es Objekten mit Passagieren, sich durch Nether‐, End‐ und Endtransitportale zu teleportieren.","Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+Erzeugung,Sinh ra,vi-VN
+Esito dei blocchi comandi,Truyền đi đầu ra của khối lệnh,vi-VN
+Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+Eventi sonori globali,Sự kiện âm thanh toàn cầu,vi-VN
+Eventos de sonido globales,Sự kiện âm thanh toàn cầu,vi-VN
+Eventos sonoros globais,Sự kiện âm thanh toàn cầu,vi-VN
+Evrensel öfke,Giận dữ toàn diện,vi-VN
+Exigir receitas para fabricação,Yêu cầu công thức chế tạo,vi-VN
+Exigir recetas para poder fabricar,Yêu cầu công thức chế tạo,vi-VN
+Explosion de TNT,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+Fabbricazione limitata,Yêu cầu công thức chế tạo,vi-VN
+Fahrende Händler erzeugen,Sinh ra thương nhân lang thang,vi-VN
+Fallschaden,Gây sát thương rơi,vi-VN
+Fantasmi,Sinh ra phantom,vi-VN
+Feuerausbreitung,Cập nhật lửa,vi-VN
+Feuerausbreitungs‐Radius,Bán kính lan lửa,vi-VN
+Feuerschaden,Gây sát thương lửa,vi-VN
+fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+Fire spread radius,Bán kính lan lửa,vi-VN
+Forgive dead players,Tha thứ cho người chơi đã chết,vi-VN
+Fortschritte bekannt geben,Thông báo tiến trình,vi-VN
+Frequenza dei tick casuali,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+Fúria universal,Giận dữ toàn diện,vi-VN
+Für einige Objekte können eigene Regeln gelten.,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+Game Rule Changes,Thay đổi luật chơi,vi-VN
+Gece-gündüz döngüsü olsun,Thời gian trong ngày trôi đi,vi-VN
+Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+Gelişimler gösterilsin,Thông báo tiến trình,vi-VN
+Generación de criaturas,Sinh ra,vi-VN
+Generar bandas de saqueadores,Sinh ra kẻ cướp tuần tra,vi-VN
+Generar criaturas,Sinh ra sinh vật,vi-VN
+Generar fantasmas,Sinh ra phantom,vi-VN
+Generar monstruos,Sinh ra quái vật,vi-VN
+Generar terreno en modo espectador,Cho phép khán giả tạo địa hình,vi-VN
+Generar vendedores ambulantes,Sinh ra thương nhân lang thang,vi-VN
+Generar wardens,Sinh ra kẻ cai ngục,vi-VN
+Generatori funzionanti,Bật khối triệu hồi,vi-VN
+Generazione,Sinh ra,vi-VN
+Generazione di terreno da parte degli spettatori,Cho phép khán giả tạo địa hình,vi-VN
+Gerar criaturas,Sinh ra sinh vật,vi-VN
+Gerar Defensores,Sinh ra kẻ cai ngục,vi-VN
+Gerar Espectros,Sinh ra phantom,vi-VN
+Gerar Mercadores Ambulantes,Sinh ra thương nhân lang thang,vi-VN
+Gerar monstros,Sinh ra quái vật,vi-VN
+Gerar patrulhas de Saqueadores,Sinh ra kẻ cướp tuần tra,vi-VN
+Gerar terreno para os espectadores,Cho phép khán giả tạo địa hình,vi-VN
+Geração,Sinh ra,vi-VN
+Gestorbenen Spielern vergeben,Tha thứ cho người chơi đã chết,vi-VN
+Gesundheit regenerieren,Hồi phục sinh lực,vi-VN
+Giocatore,Người chơi,vi-VN
+Global sound events,Sự kiện âm thanh toàn cầu,vi-VN
+Générateurs activés,Bật khối triệu hồi,vi-VN
+Génération du terrain par les spectateurs,Cho phép khán giả tạo địa hình,vi-VN
+Hata ayıklama bilgisini azalt,Giảm thông tin gỡ lỗi,vi-VN
+Hata ayıklama ekranı içeriğini kısıtlar.,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+Hauteur d'accumulation de la neige,Chiều cao tích tụ tuyết,vi-VN
+Hava durumu döngüsü olsun,Cập nhật thời tiết,vi-VN
+Häufigkeit von Zufallsereignissen,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+"Höchstgeschwindigkeit, die eine Lore an Land standardmäßig erreichen kann.",Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+"If enabled, players will be able to craft only unlocked recipes.","Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+Il raggio in blocchi intorno a un giocatore entro cui il fuoco può propagarsi,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+Impossible de modifier les règles de jeu dans un monde Hardcore.,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+"In block interaction explosions, some blocks won't drop their loot","Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+"In mob explosions, some blocks won't drop their loot","Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+"In TNT explosions, some blocks won't drop their loot","Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Incursioni,Bật các cuộc xâm lược,vi-VN
+Incursioni disattivate,Tắt các cuộc xâm lược,vi-VN
+Informazioni diagnostiche ridotte,Giảm thông tin gỡ lỗi,vi-VN
+Infos de débogage réduites,Giảm thông tin gỡ lỗi,vi-VN
+Innesco ed esplosione di TNT,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+Invasiones,Bật các cuộc xâm lược,vi-VN
+Invasions,Bật các cuộc xâm lược,vi-VN
+Invasions désactivées,Tắt các cuộc xâm lược,vi-VN
+Inventar nach dem Tod behalten,Giữ túi đồ sau khi chết,vi-VN
+Ira universal,Giận dữ toàn diện,vi-VN
+Itens largados,Rơi ra,vi-VN
+Jogador,Người chơi,vi-VN
+Joueur,Người chơi,vi-VN
+Joueurs morts pardonnés,Tha thứ cho người chơi đã chết,vi-VN
+Jugador,Người chơi,vi-VN
+Kar birikme yüksekliği,Chiều cao tích tụ tuyết,vi-VN
+"Kar yağdığında, zeminde birikecek kar katmanı sayısı.","Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+Keep inventory after death,Giữ túi đồ sau khi chết,vi-VN
+Komut bağlam limiti,Giới hạn ngữ cảnh lệnh,vi-VN
+Komut Bloklarını Etkinleştir,Bật khối lệnh,vi-VN
+Komut bloğu zincirleri ve fonksiyonlar için geçerli.,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+Komut bloğu çıktıları gösterilsin,Truyền đi đầu ra của khối lệnh,vi-VN
+Komut değişikliği blok sınırı,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+Komut geri bildirimi gösterilsin,Gửi phản hồi về lệnh,vi-VN
+Komut zinciri uzunluk sınırı,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+Kreaturen,Sinh vật,vi-VN
+Kreaturen erzeugen,Sinh ra sinh vật,vi-VN
+Kreaturenausbeute fallen lassen,Rơi ra lợi phẩm của sinh vật,vi-VN
+Kreatur‐Explosionsausbeute verschwindet,"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Kâbuslar oluşsun,Sinh ra phantom,vi-VN
+Küresel ses olayları,Sự kiện âm thanh toàn cầu,vi-VN
+La lava se convierte en fuente,Dung nham chuyển thành nguồn,vi-VN
+La mise à jour des règles de jeu nécessite des permissions d'opérateur.,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+La percentuale di giocatori che devono dormire per saltare la notte.,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+La vitesse maximale par défaut des wagonnets en mouvement sur le sol.,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+Largar blocos,Rơi ra khối,vi-VN
+Largar itens de criaturas,Rơi ra lợi phẩm của sinh vật,vi-VN
+Largar itens de entidades,Rơi ra trang bị của thực thể,vi-VN
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar.
+Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar. Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+Las criaturas neutrales que estén enfadadas dejarán de estarlo cuando el jugador al que persigan muera cerca.,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+Las entidades con pasajeros pueden utilizar portales,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+Las perlas de ender lanzadas desaparecen al morir,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+Las perlas de ender lanzadas por un jugador desaparecen cuando este muere.,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+"Lav, kaynağa dönüşsün",Dung nham chuyển thành nguồn,vi-VN
+Lava converts to source,Dung nham chuyển thành nguồn,vi-VN
+Lava‐Erneuerbarkeit,Dung nham chuyển thành nguồn,vi-VN
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgive_dead_players» è disattivata.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgiveDeadPlayers» è disattivata.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+Le creature neutrali che sono state provocate smettono di essere arrabbiate quando il giocatore puntato muore nelle vicinanze.,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+Le entità con passeggeri possono attraversare i portali,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+"Le nombre de blocs qui peuvent être modifiés à la fois par une commande, telle que /fill ou /clone.",Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+Le nombre de chunks qui restent chargés autour du point d'apparition de la Surface.,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+"Le nombre maximal de contextes qui peuvent être utilisés par des commandes telles que ""execute as"".",Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+Le pourcentage de joueurs qui doivent dormir pour passer la nuit.,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+Le rayon (en blocs) autour d'un joueur dans lequel le feu peut se propager.,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+Le regole di gioco possono essere cambiate solo dagli operatori.,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+Le regole di gioco sono bloccate nei mondi in modalità estrema.,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+Le temps (en ticks) pendant lequel un joueur en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Le temps (en ticks) pendant lequel un joueur qui n'est pas en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgive_dead_players"" est désactivée.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgiveDeadPlayers"" est désactivée.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+Les créatures neutres en colère redeviennent calmes lorsque le joueur ciblé meurt à proximité.,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+Limita el contenido de la pantalla de desarrollo al pulsar F3.,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+Limita il contenuto del cruscotto diagnostico.,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+Limite d'ammassamento delle entità,Ngưỡng nhồi nhét thực thể,vi-VN
+Limite d'entassement des entités,Ngưỡng nhồi nhét thực thể,vi-VN
+Limite de blocos modificados por comando,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+Limite de blocs modifiables par commande,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+Limite de comandos em cadeia,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+Limite de contextes des commandes,Giới hạn ngữ cảnh lệnh,vi-VN
+Limite de contextos por comando,Giới hạn ngữ cảnh lệnh,vi-VN
+Limite dei blocchi modificabili per comando,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+Limite dei contesti dei comandi,Giới hạn ngữ cảnh lệnh,vi-VN
+Limite delle catene di comandi,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+Limite des chaînes de commandes,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+Limite le contenu de l'écran de débogage.,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+Limits contents of debug screen.,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+Loren‐Höchstgeschwindigkeit,Tốc độ tối đa của xe mỏ,vi-VN
+"Lorsqu'il neige, les couches de neige qui se forment sur le sol peuvent atteindre cette hauteur.","Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+"Lorsqu'un écoulement d'eau est entouré de deux sources d'eau, il se transforme en source.","Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+"Lorsqu'un écoulement de lave est entouré de deux sources de lave, il se transforme en source.","Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+"Lorsque certains événements se produisent dans le jeu, comme l'apparition d'un boss, le son est entendu partout.","Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+Los proyectiles pueden romper bloques,Vật bắn ra có thể phá khối,vi-VN
+Límite de bloques modificables por comandos,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+Límite de comandos encadenados,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+Límite de contextos del comando,Giới hạn ngữ cảnh lệnh,vi-VN
+Límite de entidades por bloque,Ngưỡng nhồi nhét thực thể,vi-VN
+Mantener inventario tras morir,Giữ túi đồ sau khi chết,vi-VN
+Manter o inventário ao morrer,Giữ túi đồ sau khi chết,vi-VN
+"Maximale Anzahl an Befehlsrahmen, die von Befehlen wie „execute as“ benutzt werden können.",Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+Maximum default speed of a moving Minecart on land.,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+Maximum number of contexts that can be used by commands like 'execute as'.,Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+Mercanti ambulanti,Sinh ra thương nhân lang thang,vi-VN
+Messages de mort,Hiển thị thông báo chết,vi-VN
+Messaggi di morte,Hiển thị thông báo chết,vi-VN
+Minecart max speed,Tốc độ tối đa của xe mỏ,vi-VN
+Miscellaneous,Khác,vi-VN
+Mob,Sinh vật,vi-VN
+Mobs,Sinh vật,vi-VN
+Mobがアイテムや経験値オーブをドロップするかを設定できます。,"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Mobのアイテムのドロップ,Rơi ra lợi phẩm của sinh vật,vi-VN
+Mobのスポーン,Sinh ra sinh vật,vi-VN
+Mobの破壊行動の許可,Cho phép hành động sinh vật phá hoại,vi-VN
+Mob爆発時にブロックがドロップアイテムを落とさない可能性,"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Modifica le regole di gioco,Chỉnh sửa luật chơi,vi-VN
+Modification des règles de jeu,Chỉnh sửa luật chơi,vi-VN
+Modifications des règles de jeu,Thay đổi luật chơi,vi-VN
+Monster erzeugen,Sinh ra quái vật,vi-VN
+Mostrar mensagens de morte,Hiển thị thông báo chết,vi-VN
+Mostrar mensajes de muerte,Hiển thị thông báo chết,vi-VN
+Mostrar respostas dos comandos,Gửi phản hồi về lệnh,vi-VN
+Mostri,Sinh ra quái vật,vi-VN
+Mudanças nas regras do jogo,Thay đổi luật chơi,vi-VN
+Muhafızlar oluşsun,Sinh ra kẻ cai ngục,vi-VN
+Natura,Cập nhật thế giới,vi-VN
+Nether'a İzin Ver,Cho phép Nether,vi-VN
+Netherportal‐Verzögerung,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+Netherportal‐Verzögerung im Kreativmodus,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+Netherportal‐Zugang,Cho phép Nether,vi-VN
+No se pueden cambiar las reglas del juego en modo extremo.,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+Notificar uso de bloques de comandos,Truyền đi đầu ra của khối lệnh,vi-VN
+Notificar uso de comandos de admin.,Truyền đi lệnh quản trị,vi-VN
+Numero di chunk che rimangono caricati intorno al punto di generazione globale.,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+Numero massimo di blocchi che possono essere cambiati contemporaneamente da un solo comando (come «/fill» o «/clone»).,Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+Numero massimo di contesti che possono essere usati da comandi come «/execute as».,Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+Não largar todos os itens com explosões de blocos,"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Não largar todos os itens com explosões de criaturas,"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Não largar todos os itens com explosões de TNT,"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+Número máximo de entidades agrupadas,Ngưỡng nhồi nhét thực thể,vi-VN
+"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+Obergrenze für Befehlsketten,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+Obergrenze für Befehlsrahmen,Giới hạn ngữ cảnh lệnh,vi-VN
+Obergrenze für Objektgedränge,Ngưỡng nhồi nhét thực thể,vi-VN
+Objektausbeute fallen lassen,Rơi ra trang bị của thực thể,vi-VN
+Obtención de objetos,Rơi ra,vi-VN
+Obtener botín de criaturas,Rơi ra lợi phẩm của sinh vật,vi-VN
+Obteniendo las reglas del juego...,Đang truy xuất luật chơi...,vi-VN
+Oluşum,Sinh ra,vi-VN
+Oyun kuralları alınıyor,Đang truy xuất luật chơi...,vi-VN
+Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+Oyun Kurallarını Düzenle,Chỉnh sửa luật chơi,vi-VN
+Oyun Kurallarını Düzenle...,Chỉnh sửa luật chơi...,vi-VN
+Oyun Kuralı Değişiklikleri,Thay đổi luật chơi,vi-VN
+Oyuncu,Người chơi,vi-VN
+Oyuncu etrafında ateş yayılabilen blok yarıçapı.,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+Oyuncu hareket denetimini kapat,Tắt kiểm tra chuyển động của người chơi,vi-VN
+Oyuncu hareketini denetle,Kiểm tra chuyển động của người chơi,vi-VN
+Oyuncu Konum Çubuğunu aç,Bật thanh định vị người chơi,vi-VN
+Oyunculardan uzakta ateş yayılabilsin,Đếm nhịp lửa cách xa người chơi,vi-VN
+Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+Oyuncuların Nether'a girebilmesini kontrol eder.,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+Padrão: %s,Mặc định: %s,vi-VN
+Par défaut : %s,Mặc định: %s,vi-VN
+Pattuglie di predoni,Sinh ra kẻ cướp tuần tra,vi-VN
+Percentuale di giocatori addormentati,Tỉ lệ phần trăm ngủ,vi-VN
+Perdita dei rilasci con le esplosioni dei blocchi,"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Perdita dei rilasci con le esplosioni delle creature,"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Perdita dei rilasci con le esplosioni di TNT,"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Perdoar jogadores mortos,Tha thứ cho người chơi đã chết,vi-VN
+Perdonar jugadores muertos,Tha thứ cho người chơi đã chết,vi-VN
+Perdono dei giocatori morti,Tha thứ cho người chơi đã chết,vi-VN
+"Permet aux entités avec des passagers de se téléporter au travers des portails du Nether et de l'End, et des passerelles de l'End.","Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+"Permite a las entidades viajar con pasajeros a través de portales del Nether, del End y nexos del End.","Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.","Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+"Permite que se recupere una entidad al romperla. Afecta a vagonetas (incluyendo sus inventarios), marcos, barcas, etc.","Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+Permitir acesso ao Nether,Cho phép Nether,vi-VN
+Permitir ativação e explosão de TNT,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+Permitir ações destrutivas de criaturas,Cho phép hành động sinh vật phá hoại,vi-VN
+Permitir bloques de comandos,Bật khối lệnh,vi-VN
+Permitir explosiones de dinamita,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+Permitir generadores de criaturas,Bật khối triệu hồi,vi-VN
+Permitir JcJ (PvP),Bật PVP,vi-VN
+Permitir Nether,Cho phép Nether,vi-VN
+Permitir que las criaturas destruyan,Cho phép hành động sinh vật phá hoại,vi-VN
+Perte de butin dans les explosions de blocs,"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Perte de butin dans les explosions de créatures,"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Perte de butin dans les explosions de TNT,"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Phantome erzeugen,Sinh ra phantom,vi-VN
+Player,Người chơi,vi-VN
+Player's Nether Portal delay in creative mode,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+Player's Nether Portal delay in non-creative mode,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+Plünderer‐Patrouillen erzeugen,Sinh ra kẻ cướp tuần tra,vi-VN
+Por defecto: %s,Mặc định: %s,vi-VN
+Porcentagem de sono,Tỉ lệ phần trăm ngủ,vi-VN
+Porcentaje de jugadores para dormir,Tỉ lệ phần trăm ngủ,vi-VN
+Portalnutzung durch Objekte mit Passagieren,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+Pourcentage de joueurs endormis,Tỉ lệ phần trăm ngủ,vi-VN
+Predefinito: %s,Mặc định: %s,vi-VN
+Progressi annunciati,Thông báo tiến trình,vi-VN
+Progrès annoncés,Thông báo tiến trình,vi-VN
+Projectiles can break blocks,Vật bắn ra có thể phá khối,vi-VN
+Propagación de enredaderas,Dây leo lan ra,vi-VN
+Propagación del fuego,Cập nhật lửa,vi-VN
+Propagation des lianes,Dây leo lan ra,vi-VN
+Propagation du feu,Cập nhật lửa,vi-VN
+Propagazione dei rampicanti,Dây leo lan ra,vi-VN
+Propagazione del fuoco,Cập nhật lửa,vi-VN
+Propagazione distante del fuoco,Đếm nhịp lửa cách xa người chơi,vi-VN
+Propagação de trepadeiras,Dây leo lan ra,vi-VN
+Propagação distante de fogo,Đếm nhịp lửa cách xa người chơi,vi-VN
+Propagação do fogo,Cập nhật lửa,vi-VN
+PvP,Bật PVP,vi-VN
+pvp 켜기,Bật PVP,vi-VN
+Pvp'yi etkinleştir,Bật PVP,vi-VN
+PvPの有効化,Bật PVP,vi-VN
+"Quando attiva, viene mostrata una barra sullo schermo per indicare la posizione dei giocatori.","Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.","Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+"Quando il TNT causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+"Quando l'acqua corrente è circondata da sorgenti d'acqua su due lati, si trasforma in sorgente.","Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+"Quando l'interazione con blocchi causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+"Quando la lava colante è circondata da sorgenti di lava su due lati, si trasforma in sorgente.","Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+"Quando le creature causano esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+"Quando nevica, la neve si accumulerà a terra fino al numero massimo di strati specificato.","Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+Quebrar blocos com projéteis,Vật bắn ra có thể phá khối,vi-VN
+Rabbia generale,Giận dữ toàn diện,vi-VN
+Radio de propagación del fuego,Bán kính lan lửa,vi-VN
+Radio del punto de reaparición,Bán kính vị trí hồi sinh,vi-VN
+Radio del punto de reaparición,Bán kính đoạn khúc hồi sinh,vi-VN
+Radius des Wiedereinstiegsbereichs,Bán kính vị trí hồi sinh,vi-VN
+Raggio dei chunk di generazione,Bán kính đoạn khúc hồi sinh,vi-VN
+Raggio del punto di rinascita,Bán kính vị trí hồi sinh,vi-VN
+Raggio di propagazione del fuoco intorno al giocatore,Bán kính lan lửa,vi-VN
+Raio de propagação do fogo,Bán kính lan lửa,vi-VN
+Raio do ponto de renascimento,Bán kính vị trí hồi sinh,vi-VN
+Raio dos chunks ao renascer,Bán kính đoạn khúc hồi sinh,vi-VN
+Random tick speed rate,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+Rankenausbreitung,Dây leo lan ra,vi-VN
+Rastgele zaman birimi ilerleme oranı,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+Rayon de la zone de réapparition,Bán kính vị trí hồi sinh,vi-VN
+Rayon de propagation du feu,Bán kính lan lửa,vi-VN
+Rayon des chunks d'apparition,Bán kính đoạn khúc hồi sinh,vi-VN
+Reaparición instantánea,Lập tức hồi sinh,vi-VN
+Recette requise pour fabriquer,Yêu cầu công thức chế tạo,vi-VN
+Recupero delle regole di gioco...,Đang truy xuất luật chơi...,vi-VN
+Reduce debug info,Giảm thông tin gỡ lỗi,vi-VN
+Reducir datos de F3,Giảm thông tin gỡ lỗi,vi-VN
+Reduz o conteúdo da tela de depuração.,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+Reduzir informações de depuração,Giảm thông tin gỡ lỗi,vi-VN
+Regenerar salud,Hồi phục sinh lực,vi-VN
+Regenerar vida,Hồi phục sinh lực,vi-VN
+Regenerate health,Hồi phục sinh lực,vi-VN
+Registrazione dei comandi degli operatori,Truyền đi lệnh quản trị,vi-VN
+Regole di gioco,Thay đổi luật chơi,vi-VN
+Regole di gioco...,Chỉnh sửa luật chơi...,vi-VN
+Renascer imediatamente,Lập tức hồi sinh,vi-VN
+Require recipe for crafting,Yêu cầu công thức chế tạo,vi-VN
+Respawn immediately,Lập tức hồi sinh,vi-VN
+Respawn location radius,Bán kính vị trí hồi sinh,vi-VN
+Retrieving game rules...,Đang truy xuất luật chơi...,vi-VN
+Rezepte zur Herstellung benötigt,Yêu cầu công thức chế tạo,vi-VN
+Rigenerazione della salute,Hồi phục sinh lực,vi-VN
+Rilasci,Rơi ra,vi-VN
+Rilasci dei blocchi,Rơi ra khối,vi-VN
+Rilasci delle creature,Rơi ra lợi phẩm của sinh vật,vi-VN
+Rilasci delle entità,Rơi ra trang bị của thực thể,vi-VN
+Rinascita immediata,Lập tức hồi sinh,vi-VN
+Risposte dei comandi,Gửi phản hồi về lệnh,vi-VN
+Ritardo dei portali del Nether,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+Ritardo dei portali del Nether in modalità creativa,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+Règles de jeu...,Chỉnh sửa luật chơi...,vi-VN
+Réapparition immédiate,Lập tức hồi sinh,vi-VN
+Récupération des règles de jeu...,Đang truy xuất luật chơi...,vi-VN
+Régénération de la vie,Hồi phục sinh lực,vi-VN
+Résultat des commandes,Gửi phản hồi về lệnh,vi-VN
+S'applique aux blocs de commande en chaîne et aux fonctions.,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.","Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+Sarmaşıklar yayılsın,Dây leo lan ra,vi-VN
+Sağlık yenilensin,Hồi phục sinh lực,vi-VN
+Schaden durch Ertrinken,Gây sát thương đuối nước,vi-VN
+Schlafquote,Tỉ lệ phần trăm ngủ,vi-VN
+Schneedeckenhöhe,Chiều cao tích tụ tuyết,vi-VN
+Scomparsa alla morte delle perle di ender già lanciate,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+Se aplica a las cadenas de bloques de comandos y funciones.,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+"Se attivata, i giocatori possono fabbricare oggetti solo seguendo le ricette sbloccate.","Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+Send command feedback,Gửi phản hồi về lệnh,vi-VN
+Seyircilerin arazi oluşturmasına izin verilsin,Cho phép khán giả tạo địa hình,vi-VN
+Seyyar Tüccarlar oluşsun,Sinh ra thương nhân lang thang,vi-VN
+Show death messages,Hiển thị thông báo chết,vi-VN
+"Si activée, les joueurs ne pourront fabriquer qu'à partir des recettes débloquées.","Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+"Si activée, une barre s'affiche à l'écran pour indiquer la position des joueurs.","Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+Si applica a blocchi comandi a catena e funzioni.,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+"Si se activa, solo se podrán fabricar recetas aprendidas.","Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+Sleep percentage,Tỉ lệ phần trăm ngủ,vi-VN
+Snow accumulation height,Chiều cao tích tụ tuyết,vi-VN
+Sofortiger Wiedereinstieg,Lập tức hồi sinh,vi-VN
+Sohbet,Trò chuyện,vi-VN
+Soltar objetos al romper bloques,Rơi ra khối,vi-VN
+Soltar objetos al romper entidades,Rơi ra trang bị của thực thể,vi-VN
+Some entities might have separate rules.,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+Sortie des blocs de commande,Truyền đi đầu ra của khối lệnh,vi-VN
+Sorveglianti,Sinh ra kẻ cai ngục,vi-VN
+Spawn chunk radius,Bán kính đoạn khúc hồi sinh,vi-VN
+Spawn mobs,Sinh ra sinh vật,vi-VN
+Spawn Monsters,Sinh ra quái vật,vi-VN
+Spawn phantoms,Sinh ra phantom,vi-VN
+Spawn pillager patrols,Sinh ra kẻ cướp tuần tra,vi-VN
+Spawn Wandering Traders,Sinh ra thương nhân lang thang,vi-VN
+Spawn Wardens,Sinh ra kẻ cai ngục,vi-VN
+Spawner,Bật khối triệu hồi,vi-VN
+Spawning,Sinh ra,vi-VN
+Spieler,Người chơi,vi-VN
+Spielerbewegung nicht überprüfen,Tắt kiểm tra chuyển động của người chơi,vi-VN
+Spielerortungsleiste aktivieren,Bật thanh định vị người chơi,vi-VN
+Spieler‐Bewegungsprüfung,Kiểm tra chuyển động của người chơi,vi-VN
+Spielregeln bearbeiten,Chỉnh sửa luật chơi,vi-VN
+Spielregeln bearbeiten …,Chỉnh sửa luật chơi...,vi-VN
+Spielregeln werden abgerufen …,Đang truy xuất luật chơi...,vi-VN
+Stabilisce se le perle di ender lanciate da un giocatore scompaiono alla morte di quest'ultimo.,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+Standard: %s,Mặc định: %s,vi-VN
+"Steuert die Größe des Bereichs um den Einstiegspunkt, in dem Spieler in die Welt einsteigen können.",Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+"Steuert, ob aufprallende Geschosse Blöcke zerstören, die durch sie zerstörbar wären.",Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+"Steuert, ob Blöcke ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).","Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+"Steuert, ob Feuer und Lava in einer Entfernung von mehr als 8 Chunks von einem Spieler aktualisiert werden",Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+"Steuert, ob Kreaturen ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).","Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+"Steuert, ob Loren, Rahmen, Boote usw. ihre Ausbeute fallen lassen (einschließlich Inventaren).","Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+"Steuert, ob Monster natürlich erscheinen.",Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+"Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.","Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+"Steuert, ob Spieler anderen Spielern Schaden zufügen können.",Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+"Steuert, ob Spieler den Nether durch Portale betreten können.",Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+"Steuert, ob vom Spieler geworfene Enderperlen verschwinden, wenn dieser stirbt.",Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+"Su, kaynağa dönüşsün",Nước chuyển thành nguồn,vi-VN
+Taxa de velocidade de tiques aleatórios,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+Tchat,Trò chuyện,vi-VN
+Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Tempo (in tick) che un giocatore in modalità creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Tempo (in tick) che un giocatore in modalità diverse dalla creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Tempo atmosferico,Cập nhật thời tiết,vi-VN
+The amount of chunks that stay loaded around the Overworld spawn position.,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+"The number of blocks that can be changed at once by one command, such as fill or clone.",Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+The percentage of players who must be sleeping to skip the night.,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+The radius in blocks around a player in which fire can spread.,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+Thrown Ender Pearls vanish on death,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+Tick fire away from players,Đếm nhịp lửa cách xa người chơi,vi-VN
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modo creativo para cambiar de dimensión.,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modos que no sean creativo para cambiar de dimensión.,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+"TNT patlamalarında, bazı bloklar düşmesin","Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음","Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+TNT‐Explosionsausbeute verschwindet,"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+TNT’nin etkinleştirilmesine ve patlamasına izin ver,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+TNTの点火及び爆発の許可,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+TNT爆発時にブロックがドロップアイテムを落とさない可能性,"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+TNT의 점화 및 폭발 허용,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+Todesmeldungen anzeigen,Hiển thị thông báo chết,vi-VN
+"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.","Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.","Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+Transformar lava em fonte,Dung nham chuyển thành nguồn,vi-VN
+Transformar água em fonte,Nước chuyển thành nguồn,vi-VN
+Transformation de l'eau en source,Nước chuyển thành nguồn,vi-VN
+Transformation de la lave en source,Dung nham chuyển thành nguồn,vi-VN
+Téléportation des entités avec des passagers à travers les portails,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+Universal anger,Giận dữ toàn diện,vi-VN
+Update fire,Cập nhật lửa,vi-VN
+Update weather,Cập nhật thời tiết,vi-VN
+Updating game rules requires operator permissions.,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+Uyuma yüzdesi,Tỉ lệ phần trăm ngủ,vi-VN
+"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.","Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+Varie,Khác,vi-VN
+Varios,Khác,vi-VN
+Varlık ekipmanı düşsün,Rơi ra trang bị của thực thể,vi-VN
+Varlık sıkışması alt sınırı,Ngưỡng nhồi nhét thực thể,vi-VN
+Varsayılan: %s,Mặc định: %s,vi-VN
+Velocidad de tics al azar,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+Velocidad máxima de las vagonetas,Tốc độ tối đa của xe mỏ,vi-VN
+Velocidad máxima por defecto de una vagoneta por tierra.,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+Velocidade máxima do Carrinho de Mina,Tốc độ tối đa của xe mỏ,vi-VN
+Velocidade padrão máxima de um Carrinho de Mina no solo.,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+Velocità massima dei vagonetti,Tốc độ tối đa của xe mỏ,vi-VN
+Velocità massima predefinita di un vagonetto in movimento.,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+Verifica dei movimenti dei giocatori,Kiểm tra chuyển động của người chơi,vi-VN
+Verifica dei movimenti dei giocatori disattivata,Tắt kiểm tra chuyển động của người chơi,vi-VN
+Verifica del volo con le elitre,Kiểm tra chuyển động của cánh cứng,vi-VN
+Verifica del volo con le elitre disattivata,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+Verificação de movimentos do jogador,Kiểm tra chuyển động của người chơi,vi-VN
+Verificação de movimentos dos Élitros,Kiểm tra chuyển động của cánh cứng,vi-VN
+Verschiedenes,Khác,vi-VN
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgive_dead_players deaktiviert ist.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgiveDeadPlayers deaktiviert ist.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+"Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.",Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+Vines spread,Dây leo lan ra,vi-VN
+Vitesse des ticks aléatoires,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+Vitesse maximale des wagonnets,Tốc độ tối đa của xe mỏ,vi-VN
+Você não pode alterar as regras do jogo em mundos no modo Intenso.,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+Von Spielern entferntes Feuer aktualisieren,Đếm nhịp lửa cách xa người chơi,vi-VN
+Voranschreiten der Tageszeit,Thời gian trong ngày trôi đi,vi-VN
+Voulez-vous vraiment abandonner les modifications en cours des règles de jeu ?,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+Vuoi davvero annullare le modifiche in sospeso alle regole di gioco?,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+Vérification des mouvements du joueur,Kiểm tra chuyển động của người chơi,vi-VN
+Vérification du vol en élytres,Kiểm tra chuyển động của cánh cứng,vi-VN
+Vérification désactivée des mouvements du joueur,Tắt kiểm tra chuyển động của người chơi,vi-VN
+Vérification désactivée du vol en élytres,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+Wasser‐Erneuerbarkeit,Nước chuyển thành nguồn,vi-VN
+Water converts to source,Nước chuyển thành nguồn,vi-VN
+Weltaktualisierungen,Cập nhật thế giới,vi-VN
+Weltweite Geräuschereignisse,Sự kiện âm thanh toàn cầu,vi-VN
+"Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen.","Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+"Wenn aktiviert, zeigt eine Leiste auf dem Bildschirm die Richtung der Mitspieler an.","Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+"Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.","Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+"Wenn es schneit, entsteht auf dem Boden eine Schneedecke, die höchstens diese Anzahl von Schichten erreicht.","Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+"Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, wird sie zu einer Quelle.","Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+"Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, wird es zu einer Quelle.","Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+Wetterwechsel,Cập nhật thời tiết,vi-VN
+"When certain game events happen, like a boss spawning, the sound is heard everywhere.","Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+"When enabled, a bar is shown on the screen to indicate the direction of players.","Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+"When flowing lava is surrounded on two sides by lava sources, it converts into a source.","Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+"When flowing water is surrounded on two sides by water sources, it converts into a source.","Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+"When it snows, layers of snow form on the ground up to at most this number of layers.","Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+Whether Ender Pearls thrown by a player vanish when that player dies.,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+Wird auf Befehlsblockketten und Funktionen angewandt.,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+World Updates,Cập nhật thế giới,vi-VN
+Wärter erzeugen,Sinh ra kẻ cai ngục,vi-VN
+Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+Yağmacı devriyeleri oluşsun,Sinh ra kẻ cướp tuần tra,vi-VN
+Yeniden canlanma yeri çevresi,Bán kính vị trí hồi sinh,vi-VN
+"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.","Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+Yolcusu olan varlıklar geçitlerden geçebilir,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+Yönetici komutları gösterilsin,Truyền đi lệnh quản trị,vi-VN
+"Zeit (in Ticks), die ein Spieler außerhalb des Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+"Zeit (in Ticks), die ein Spieler im Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Zerstörung durch Kreaturen,Cho phép hành động sinh vật phá hoại,vi-VN
+Zorlayıcı dünyada oyun kuralları değiştirilemez.,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+Zuschauer generieren Landschaft,Cho phép khán giả tạo địa hình,vi-VN
+¿Seguro que quieres descartar tus cambios?,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+Änderungen der Spielregeln,Thay đổi luật chơi,vi-VN
+Çağırıcı Bloklarını Etkinleştir,Bật khối triệu hồi,vi-VN
+Çeşitli,Khác,vi-VN
+Événements sonores globaux,Sự kiện âm thanh toàn cầu,vi-VN
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+Öldükten sonra envanteri koru,Giữ túi đồ sau khi chết,vi-VN
+Ölü oyuncular affedilsin,Tha thứ cho người chơi đã chết,vi-VN
+Ölüm iletileri gösterilsin,Hiển thị thông báo chết,vi-VN
+Überfälle,Bật các cuộc xâm lược,vi-VN
+Überfälle deaktivieren,Tắt các cuộc xâm lược,vi-VN
+Üretim için tarif gereksin,Yêu cầu công thức chế tạo,vi-VN
+Активация и взрыв динамита,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+Влияет на выпадение предметов и сфер опыта из блоков.,"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+Влияет на выпадение предметов и сфер опыта из мобов.,"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.","Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+"Влияет на потерю предметов, выпавших после взрыва динамита.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+"Влияет на потерю предметов, выпавших после взрыва моба.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.","Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.","Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+Возобновление источников воды,Nước chuyển thành nguồn,vi-VN
+Возобновление источников лавы,Dung nham chuyển thành nguồn,vi-VN
+Время прохождения портала Незера в творческом режиме,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+Время прохождения портала Незера вне творческого режима,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+Вы действительно хотите отменить изменения игровых правил?,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+Выпадение блоков,Rơi ra khối,vi-VN
+Выпадение добычи из мобов,Rơi ra lợi phẩm của sinh vật,vi-VN
+Выпадение ресурсов,Rơi ra,vi-VN
+Выпадение экипировки сущностей,Rơi ra trang bị của thực thể,vi-VN
+Высота снежного покрова,Chiều cao tích tụ tuyết,vi-VN
+Генерация мира наблюдателями,Cho phép khán giả tạo địa hình,vi-VN
+Глобальные звуковые события,Sự kiện âm thanh toàn cầu,vi-VN
+Доступ в Незер,Cho phép Nether,vi-VN
+"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.","Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+Загрузка игровых правил...,Đang truy xuất luật chơi...,vi-VN
+Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+Запись команд администраторов,Truyền đi lệnh quản trị,vi-VN
+Затрагивает цепочки командных блоков и функции.,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+Игровые правила...,Chỉnh sửa luật chơi...,vi-VN
+Игрок,Người chơi,vi-VN
+Изменение игровых правил в Хардкоре недоступно.,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+Изменение игровых правил требует прав оператора.,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+Изменения игровых правил,Thay đổi luật chơi,vi-VN
+Изменения погоды,Cập nhật thời tiết,vi-VN
+Использование командных блоков,Bật khối lệnh,vi-VN
+Использование порталов сущностями с пассажирами,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+Исчезновение брошенного эндер-жемчуга при смерти,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+"Когда включено, на экране отображается локатор, указывающий на расположение игроков.","Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+Командные блоки,Bật khối lệnh,vi-VN
+Локатор игроков,Bật thanh định vị người chơi,vi-VN
+Максимальная базовая скорость движения вагонетки по земле.,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+Максимальная скорость вагонетки,Tốc độ tối đa của xe mỏ,vi-VN
+"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+Малый экран отладки,Giảm thông tin gỡ lỗi,vi-VN
+Мгновенное возрождение,Lập tức hồi sinh,vi-VN
+Мобы,Sinh vật,vi-VN
+Настройка игровых правил,Chỉnh sửa luật chơi,vi-VN
+Обновление огня вдали от игроков,Đếm nhịp lửa cách xa người chơi,vi-VN
+Обновления мира,Cập nhật thế giới,vi-VN
+Ограничение длины цепи команд,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+Ограничение изменения блоков командой,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+Ограничение контекста команд,Giới hạn ngữ cảnh lệnh,vi-VN
+Ограничение содержания экрана отладки.,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+Окружённая двумя источниками текущая вода образует третий.,"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+Окружённая двумя источниками текущая лава образует третий.,"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+Оповещения о достижениях,Thông báo tiến trình,vi-VN
+"Определяет, могут ли игроки входить в Незер.",Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+"Определяет, могут ли игроки наносить урон другим игрокам.",Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+"Определяет, появляются ли монстры сами по себе.",Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+Отключение проверки движения игрока,Tắt kiểm tra chuyển động của người chơi,vi-VN
+Отключение проверки на элитрах,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+Отключение рейдов,Tắt các cuộc xâm lược,vi-VN
+Отображение сообщений команд,Gửi phản hồi về lệnh,vi-VN
+Патрули разбойников,Sinh ra kẻ cướp tuần tra,vi-VN
+По умолчанию: %s,Mặc định: %s,vi-VN
+"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.","Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+Потеря части добычи от взрыва при использовании блока,"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Потеря части добычи при взрыве динамита,"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Потеря части добычи при взрыве моба,"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+Появление,Sinh ra,vi-VN
+Появление мобов,Sinh ra sinh vật,vi-VN
+Появление монстров,Sinh ra quái vật,vi-VN
+Появление фантомов,Sinh ra phantom,vi-VN
+Появление хранителей,Sinh ra kẻ cai ngục,vi-VN
+Предел сущностей в одном блоке,Ngưỡng nhồi nhét thực thể,vi-VN
+"Предельное число слоёв снега, образующихся во время снегопада.","Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+Проверка движения игрока,Kiểm tra chuyển động của người chơi,vi-VN
+Проверка движения на элитрах,Kiểm tra chuyển động của cánh cứng,vi-VN
+"Процент игроков, которым нужно спать для пропуска ночи.",Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+Процент спящих,Tỉ lệ phần trăm ngủ,vi-VN
+Прощение умерших игроков,Tha thứ cho người chơi đã chết,vi-VN
+"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+Радиус невыгружаемой области вокруг точек возрождения игроков.,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+Радиус невыгружаемой области вокруг точки возрождения мира.,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+Радиус области возрождения,Bán kính vị trí hồi sinh,vi-VN
+Радиус распространения огня,Bán kính lan lửa,vi-VN
+Радиус чанков возрождения мира,Bán kính đoạn khúc hồi sinh,vi-VN
+Разное,Khác,vi-VN
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+Разрушительные действия мобов,Cho phép hành động sinh vật phá hoại,vi-VN
+Распространение лианы,Dây leo lan ra,vi-VN
+Распространение огня,Cập nhật lửa,vi-VN
+Рассадники,Bật khối triệu hồi,vi-VN
+Регенерация здоровья,Hồi phục sinh lực,vi-VN
+"Регулирует, разрушаются ли определённые блоки от удара снаряда.",Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+Рейды,Bật các cuộc xâm lược,vi-VN
+Слепая ярость,Giận dữ toàn diện,vi-VN
+Смена дня и ночи,Thời gian trong ngày trôi đi,vi-VN
+Снаряды могут разрушать блоки,Vật bắn ra có thể phá khối,vi-VN
+Создание только по рецепту,Yêu cầu công thức chế tạo,vi-VN
+Сообщения командных блоков,Truyền đi đầu ra của khối lệnh,vi-VN
+Сообщения о смерти,Hiển thị thông báo chết,vi-VN
+Сохранение инвентаря при смерти,Giữ túi đồ sau khi chết,vi-VN
+Странствующие торговцы,Sinh ra thương nhân lang thang,vi-VN
+У некоторых сущностей могут быть свои игровые правила.,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+Урон от замерзания,Gây sát thương đóng băng,vi-VN
+Урон от огня,Gây sát thương lửa,vi-VN
+Урон от падения,Gây sát thương rơi,vi-VN
+Урон от утопления,Gây sát thương đuối nước,vi-VN
+Частота случайных тактов,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+Чат,Trò chuyện,vi-VN
+การดรอป,Rơi ra,vi-VN
+การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+การอัปเดตของโลก,Cập nhật thế giới,vi-VN
+การเกิด,Sinh ra,vi-VN
+การโกรธทุกคน,Giận dữ toàn diện,vi-VN
+กำลังดึงข้อมูลกฎเกม...,Đang truy xuất luật chơi...,vi-VN
+ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+ความสูงในการสะสมชั้นหิมะ,Chiều cao tích tụ tuyết,vi-VN
+ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+ความเร็วสูงสุดของรถราง,Tốc độ tối đa của xe mỏ,vi-VN
+คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+ค่าเริ่มต้น: %s,Mặc định: %s,vi-VN
+จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+จำกัดจำนวนบริบทของคำสั่ง,Giới hạn ngữ cảnh lệnh,vi-VN
+จำกัดเนื้อหาของหน้าจอดีบั๊ก,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,Ngưỡng nhồi nhét thực thể,vi-VN
+ดรอปของจากเอนทิตี้,Rơi ra trang bị của thực thể,vi-VN
+ดรอปลูตของม็อบ,Rơi ra lợi phẩm của sinh vật,vi-VN
+ดาเมจจากการจมน้ำ,Gây sát thương đuối nước,vi-VN
+ดาเมจจากการตกจากที่สูง,Gây sát thương rơi,vi-VN
+ดาเมจจากความเย็น,Gây sát thương đóng băng,vi-VN
+ดาเมจจากไฟ,Gây sát thương lửa,vi-VN
+ดำเนินวัฏจักรกลางวัน-กลางคืน,Thời gian trong ngày trôi đi,vi-VN
+ตรวจสอบการเคลื่อนที่ของผู้เล่น,Kiểm tra chuyển động của người chơi,vi-VN
+ตรวจสอบความเร็วขณะบินด้วยปีก,Kiểm tra chuyển động của cánh cứng,vi-VN
+ตายของไม่ตก,Giữ túi đồ sau khi chết,vi-VN
+ต้องมีสูตรสำหรับการคราฟต์,Yêu cầu công thức chế tạo,vi-VN
+บล็อกดรอป,Rơi ra khối,vi-VN
+ประกาศความก้าวหน้า,Thông báo tiến trình,vi-VN
+ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,Tắt kiểm tra chuyển động của người chơi,vi-VN
+ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+ปิดการปล้นสะดม,Tắt các cuộc xâm lược,vi-VN
+ผู้เล่น,Người chơi,vi-VN
+ฟื้นฟูเลือดตามธรรมชาติ,Hồi phục sinh lực,vi-VN
+มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+ม็อบ,Sinh vật,vi-VN
+ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""","Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+รัศมีการลุกลามของไฟ,Bán kính lan lửa,vi-VN
+รัศมีจุดเกิด,Bán kính vị trí hồi sinh,vi-VN
+รัศมีชังก์จุดเกิด,Bán kính đoạn khúc hồi sinh,vi-VN
+รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+ลดการแสดงข้อมูลดีบั๊ก,Giảm thông tin gỡ lỗi,vi-VN
+วัตถุพุ่งสามารถทำลายบล็อกได้,Vật bắn ra có thể phá khối,vi-VN
+หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+อนุญาตให้เข้าเนเธอร์,Cho phép Nether,vi-VN
+อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+อภัยผู้เล่นที่ตายแล้ว,Tha thứ cho người chơi đã chết,vi-VN
+อัตราความเร็วติ๊กแบบสุ่ม,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+อัปเดตสภาพอากาศ,Cập nhật thời tiết,vi-VN
+อัปเดตไฟ,Cập nhật lửa,vi-VN
+เกิดใหม่ทันที,Lập tức hồi sinh,vi-VN
+เบ็ดเตล็ด,Khác,vi-VN
+เปลี่ยนแปลงกฎเกม,Thay đổi luật chơi,vi-VN
+เปอร์เซ็นต์ของผู้เล่นนอน,Tỉ lệ phần trăm ngủ,vi-VN
+เปิดการปล้นสะดม,Bật các cuộc xâm lược,vi-VN
+เปิดใช้งาน PvP,Bật PVP,vi-VN
+เปิดใช้งานบล็อกกรงกำเนิด,Bật khối triệu hồi,vi-VN
+เปิดใช้งานบล็อกคำสั่ง,Bật khối lệnh,vi-VN
+เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,Bật thanh định vị người chơi,vi-VN
+เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+เหตุการณ์เสียงดังไปทั่ว,Sự kiện âm thanh toàn cầu,vi-VN
+เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+แก้ไขกฎเกม,Chỉnh sửa luật chơi,vi-VN
+แก้ไขกฎเกม...,Chỉnh sửa luật chơi...,vi-VN
+แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+แชต,Trò chuyện,vi-VN
+แสดงข้อความการตาย,Hiển thị thông báo chết,vi-VN
+แสดงบันทึกคำสั่งของแอดมิน,Truyền đi lệnh quản trị,vi-VN
+แสดงผลป้อนกลับคำสั่ง,Gửi phản hồi về lệnh,vi-VN
+แสดงเอาต์พุตของบล็อกคำสั่ง,Truyền đi đầu ra của khối lệnh,vi-VN
+ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+ให้กองโจรลาดตระเวนเกิด,Sinh ra kẻ cướp tuần tra,vi-VN
+ให้น้ำไหลกลายเป็นแหล่งน้ำได้,Nước chuyển thành nguồn,vi-VN
+ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,Cho phép khán giả tạo địa hình,vi-VN
+ให้พ่อค้าเร่ร่อนเกิด,Sinh ra thương nhân lang thang,vi-VN
+ให้มอนสเตอร์เกิด,Sinh ra quái vật,vi-VN
+ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,Cho phép hành động sinh vật phá hoại,vi-VN
+ให้ม็อบเกิด,Sinh ra sinh vật,vi-VN
+ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,Dung nham chuyển thành nguồn,vi-VN
+ให้วอร์เดนเกิด,Sinh ra kẻ cai ngục,vi-VN
+ให้เถาวัลย์แพร่,Dây leo lan ra,vi-VN
+ให้แฟนท่อมเกิด,Sinh ra phantom,vi-VN
+ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,Đếm nhịp lửa cách xa người chơi,vi-VN
+ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+“execute as”等命令可以使用的上下文数量最大值。,Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+「execute as」などのコマンドで使用できる実行文脈の最大数,Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+「execute as」等指令使用的上下文最大數量。,Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,vi-VN
+その他,Khác,vi-VN
+どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+ウォーデンのスポーン,Sinh ra kẻ cai ngục,vi-VN
+エリトラの速度チェック,Kiểm tra chuyển động của cánh cứng,vi-VN
+エリトラの速度チェックの無効化,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+エンティティの最大密集数,Ngưỡng nhồi nhét thực thể,vi-VN
+オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+クラフトにレシピを要求,Yêu cầu công thức chế tạo,vi-VN
+クリエイティブモードでのネザーポータルの待機時間,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+ゲームルールの変更,Thay đổi luật chơi,vi-VN
+ゲームルールの更新には管理者権限が必要です。,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+ゲームルールを取得中…,Đang truy xuất luật chơi...,vi-VN
+ゲームルールを編集,Chỉnh sửa luật chơi,vi-VN
+ゲームルールを編集…,Chỉnh sửa luật chơi...,vi-VN
+ゲーム内時刻の進行,Thời gian trong ngày trôi đi,vi-VN
+コマンドによるブロックの最大変更数,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+コマンドの実行結果の表示,Gửi phản hồi về lệnh,vi-VN
+コマンドの最大チェーン数,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+コマンドの最大実行文脈数,Giới hạn ngữ cảnh lệnh,vi-VN
+コマンドブロックの実行結果の通知,Truyền đi đầu ra của khối lệnh,vi-VN
+コマンドブロックの有効化,Bật khối lệnh,vi-VN
+スペクテイターモードのプレイヤーによる地形生成の許可,Cho phép khán giả tạo địa hình,vi-VN
+スポナーの有効化,Bật khối triệu hồi,vi-VN
+スポーン,Sinh ra,vi-VN
+スポーンチャンクの半径,Bán kính đoạn khúc hồi sinh,vi-VN
+スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+チェーンコマンドブロックや関数に適用されます。,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+チャット,Trò chuyện,vi-VN
+ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+ツタの成長,Dây leo lan ra,vi-VN
+デバッグ情報の制限,Giảm thông tin gỡ lỗi,vi-VN
+デフォルト値：%s,Mặc định: %s,vi-VN
+トロッコの最高速度,Tốc độ tối đa của xe mỏ,vi-VN
+トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+ドロップ,Rơi ra,vi-VN
+ネザーの許可,Cho phép Nether,vi-VN
+ハードコアのワールドではゲームルールを変更できません。,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+ファントムのスポーン,Sinh ra phantom,vi-VN
+ブロックがアイテムや経験値オーブをドロップするかを設定できます。,"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+ブロックのドロップ,Rơi ra khối,vi-VN
+ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+プレイヤー,Người chơi,vi-VN
+プレイヤーから遠い炎のティック処理,Đếm nhịp lửa cách xa người chơi,vi-VN
+プレイヤーがネザーに入ることができるかどうかを設定できます,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+プレイヤーの方向バーの有効化,Bật thanh định vị người chơi,vi-VN
+プレイヤーの速度チェック,Kiểm tra chuyển động của người chơi,vi-VN
+プレイヤーの速度チェックの無効化,Tắt kiểm tra chuyển động của người chơi,vi-VN
+プレイヤー死亡時のエンダーパールの消滅,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+モンスターが自然にスポーンするかどうかを設定できます,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+モンスターのスポーン,Sinh ra quái vật,vi-VN
+ランダムティックの発生数,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+リスポーン地点の半径,Bán kính vị trí hồi sinh,vi-VN
+ワールドの更新,Cập nhật thế giới,vi-VN
+ワールド全体のサウンドイベント,Sự kiện âm thanh toàn cầu,vi-VN
+一些实体可能有其特定的规则。,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+世界更新,Cập nhật thế giới,vi-VN
+主世界出生点周围保持加载的区块数量。,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+主世界重生點周圍維持載入的區塊數量。,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+体力の自動回復,Hồi phục sinh lực,vi-VN
+何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+何かが乗っているエンティティのポータル使用可否,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+你确定要放弃未保存的游戏规则更改吗？,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+你確定要捨棄尚未儲存的遊戲規則變更嗎？,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+停用玩家移動檢測,Tắt kiểm tra chuyển động của người chơi,vi-VN
+停用突襲,Tắt các cuộc xâm lược,vi-VN
+停用鞘翅移動檢測,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+允許 TNT 被點燃並爆炸,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+允許旁觀者生成地形,Cho phép khán giả tạo địa hình,vi-VN
+允許火在遠離玩家處蔓延,Đếm nhịp lửa cách xa người chơi,vi-VN
+允許生物的破壞行為,Cho phép hành động sinh vật phá hoại,vi-VN
+允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+允許進入地獄,Cho phép Nether,vi-VN
+允许TNT被点燃并爆炸,Cho phép TNT được kích hoạt và phát nổ,vi-VN
+允许旁观者生成地形,Cho phép khán giả tạo địa hình,vi-VN
+允许流动水转化为水源,Nước chuyển thành nguồn,vi-VN
+允许流动熔岩转化为熔岩源,Dung nham chuyển thành nguồn,vi-VN
+允许火在远离玩家处蔓延,Đếm nhịp lửa cách xa người chơi,vi-VN
+允许破坏性生物行为,Cho phép hành động sinh vật phá hoại,vi-VN
+允许被骑乘的实体通过下界传送门、末地传送门和末地折跃门传送。,"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+允许进入下界,Cho phép Nether,vi-VN
+入睡占比,Tỉ lệ phần trăm ngủ,vi-VN
+全域聲音事件,Sự kiện âm thanh toàn cầu,vi-VN
+全局声音事件,Sự kiện âm thanh toàn cầu,vi-VN
+冰冻伤害,Gây sát thương đóng băng,vi-VN
+凍結ダメージ,Gây sát thương đóng băng,vi-VN
+出生区块半径,Bán kính đoạn khúc hồi sinh,vi-VN
+创造模式下玩家在下界传送门中等待的时间,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+創造模式玩家使用地獄傳送門的等待時間,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+单条命令（如fill和clone）最多能更改的方块数量。,Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+即時リスポーン,Lập tức hồi sinh,vi-VN
+原諒死者,Tha thứ cho người chơi đã chết,vi-VN
+发送命令反馈,Gửi phản hồi về lệnh,vi-VN
+合成需要配方,Yêu cầu công thức chế tạo,vi-VN
+启用PvP,Bật PVP,vi-VN
+启用刷怪笼方块,Bật khối triệu hồi,vi-VN
+启用后，屏幕上会显示指示玩家方位的定位栏。,"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+启用命令方块,Bật khối lệnh,vi-VN
+启用玩家定位栏,Bật thanh định vị người chơi,vi-VN
+启用玩家移动检测,Kiểm tra chuyển động của người chơi,vi-VN
+启用袭击,Bật các cuộc xâm lược,vi-VN
+启用鞘翅移动检测,Kiểm tra chuyển động của cánh cứng,vi-VN
+命令上下文数量限制,Giới hạn ngữ cảnh lệnh,vi-VN
+命令修改方块数量限制,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+命令连锁执行数量限制,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+啟用 PvP,Bật PVP,vi-VN
+啟用後，畫面上會顯示指示玩家方位的定位條。,"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+啟用指令方塊,Bật khối lệnh,vi-VN
+啟用玩家定位條,Bật thanh định vị người chơi,vi-VN
+啟用玩家移動檢測,Kiểm tra chuyển động của người chơi,vi-VN
+啟用生怪磚,Bật khối triệu hồi,vi-VN
+啟用突襲,Bật các cuộc xâm lược,vi-VN
+啟用鞘翅移動檢測,Kiểm tra chuyển động của cánh cứng,vi-VN
+單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,vi-VN
+回傳指令回饋,Gửi phản hồi về lệnh,vi-VN
+在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+在 TNT 的爆炸中，部分方塊不會掉落成戰利品,"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+在TNT引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+在TNT爆炸中，一些方块不会掉落战利品,"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+在与方块交互引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+在方块交互爆炸中，一些方块不会掉落战利品,"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+在生物引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+在生物爆炸中，一些方块不会掉落战利品,"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+在生物的爆炸中，部分方塊不會掉落成戰利品,"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+地上を走るトロッコのデフォルトの最高速度,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+天气更替,Cập nhật thời tiết,vi-VN
+天気の更新,Cập nhật thời tiết,vi-VN
+套用於連鎖型指令方塊及函數。,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+实体挤压上限,Ngưỡng nhồi nhét thực thể,vi-VN
+宽恕死亡玩家,Tha thứ cho người chơi đã chết,vi-VN
+實體擠壓上限,Ngưỡng nhồi nhét thực thể,vi-VN
+就寝率,Tỉ lệ phần trăm ngủ,vi-VN
+广播命令方块输出,Truyền đi đầu ra của khối lệnh,vi-VN
+应用于命令方块链和函数。,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+弹射物能否破坏方块,Vật bắn ra có thể phá khối,vi-VN
+愤怒的中立生物将在其目标玩家于附近死亡后息怒。,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用forgive_dead_players可达到最佳效果。,"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。,"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+投射物是否能破壞方塊,Vật bắn ra có thể phá khối,vi-VN
+拋出的終界珍珠在死亡時消失,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+指令修改方塊數量限制,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+指令的上下文上限,Giới hạn ngữ cảnh lệnh,vi-VN
+指令連鎖大小限制,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+掉落,Rơi ra,vi-VN
+掉落實體裝備,Rơi ra trang bị của thực thể,vi-VN
+掉落方塊,Rơi ra khối,vi-VN
+掉落生物戰利品,Rơi ra lợi phẩm của sinh vật,vi-VN
+控制各种矿车（含内容物）、物品展示框、船等的物品掉落。,"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+控制弹射物能否破坏可被其破坏的方块。,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+控制怪物是否能自然生成。,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+控制怪物能否自然生成。,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+控制投射物是否能破壞可被其破壞的方塊。,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+控制方块是否掉落资源，包括经验球。,"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+控制方塊資源掉落，包含經驗球。,"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+控制火和熔岩能否在距离任何玩家超过8个区块处蔓延。,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+控制玩家是否能互相傷害。,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+控制玩家是否能進入地獄。,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+控制玩家能否进入下界。,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+控制玩家能夠生成的重生點範圍區域大小。,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+控制玩家间能否互相伤害。,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+控制生物是否掉落资源，包括经验球。,"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+控制生物資源掉落，包含經驗球。,"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+控制礦車（包括內容物）、物品展示框、船等的掉落物。,"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+控制藤蔓方块能否随机向相邻的方块蔓延。不会影响其他藤蔓类方块（例如垂泪藤和缠怨藤等）。,"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+控制适合玩家生成的出生点周围区域大小。,Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+掷出的末影珍珠在死亡时消失,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+摔落伤害,Gây sát thương rơi,vi-VN
+敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+敵対の共有,Giận dữ toàn diện,vi-VN
+敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+方块掉落,Rơi ra khối,vi-VN
+无差别愤怒,Giận dữ toàn diện,vi-VN
+无法在极限模式世界中更改游戏规则。,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+日夜交替,Thời gian trong ngày trôi đi,vi-VN
+显示死亡消息,Hiển thị thông báo chết,vi-VN
+更新天氣,Cập nhật thời tiết,vi-VN
+更新游戏规则需要管理员权限。,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+更新火焰,Cập nhật lửa,vi-VN
+更新遊戲規則需要管理員權限。,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+杂项,Khác,vi-VN
+正在擷取遊戲規則...,Đang truy xuất luật chơi...,vi-VN
+正在获取游戏规则…,Đang truy xuất luật chơi...,vi-VN
+死亡したプレイヤーへの敵対を解除,Tha thứ cho người chơi đã chết,vi-VN
+死亡メッセージの表示,Hiển thị thông báo chết,vi-VN
+死亡后保留物品栏,Giữ túi đồ sau khi chết,vi-VN
+死亡後保留物品欄,Giữ túi đồ sau khi chết,vi-VN
+死亡時のインベントリの保持,Giữ túi đồ sau khi chết,vi-VN
+水流から水源への変化,Nước chuyển thành nguồn,vi-VN
+水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+流動水在被兩個水源包圍時，會轉化成水源。,"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+流動水轉化成水源,Nước chuyển thành nguồn,vi-VN
+流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+流動熔岩轉化成熔岩源,Dung nham chuyển thành nguồn,vi-VN
+游戏内时间流逝,Thời gian trong ngày trôi đi,vi-VN
+游戏规则更改,Thay đổi luật chơi,vi-VN
+溶岩流から溶岩源への変化,Dung nham chuyển thành nguồn,vi-VN
+溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+溺水ダメージ,Gây sát thương đuối nước,vi-VN
+溺水伤害,Gây sát thương đuối nước,vi-VN
+火傷ダメージ,Gây sát thương lửa,vi-VN
+火焰伤害,Gây sát thương lửa,vi-VN
+火焰蔓延,Cập nhật lửa,vi-VN
+火焰蔓延半径,Bán kính lan lửa,vi-VN
+火焰蔓延半徑,Bán kính lan lửa,vi-VN
+炎の延焼が起こる半径,Bán kính lan lửa,vi-VN
+炎の更新,Cập nhật lửa,vi-VN
+無差別憤怒,Giận dữ toàn diện,vi-VN
+無法在極限模式世界中變更遊戲規則。,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+特定游戏事件（如Boss生成）发生时，声音可在所有地方听见。,"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+玩家,Người chơi,vi-VN
+玩家周围火可以蔓延的方块半径。,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+玩家周圍火焰可蔓延的半徑格數。,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+玩家投掷的末影珍珠是否在玩家死亡时消失。,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+玩家拋出的終界珍珠是否在玩家死亡時消失。,Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+生命值自然恢复,Hồi phục sinh lực,vi-VN
+生成,Sinh ra,vi-VN
+生成伏守者,Sinh ra kẻ cai ngục,vi-VN
+生成夜魅,Sinh ra phantom,vi-VN
+生成幻翼,Sinh ra phantom,vi-VN
+生成怪物,Sinh ra quái vật,vi-VN
+生成掠奪者巡邏隊,Sinh ra kẻ cướp tuần tra,vi-VN
+生成流浪商人,Sinh ra thương nhân lang thang,vi-VN
+生成灾厄巡逻队,Sinh ra kẻ cướp tuần tra,vi-VN
+生成生物,Sinh ra sinh vật,vi-VN
+生成监守者,Sinh ra kẻ cai ngục,vi-VN
+生物,Sinh vật,vi-VN
+生物战利品掉落,Rơi ra lợi phẩm của sinh vật,vi-VN
+略奪隊のスポーン,Sinh ra kẻ cướp tuần tra,vi-VN
+當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+相邻两面方块为水源的流动水会转化为水源。,"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+相邻两面方块为熔岩源的流动熔岩会转化为熔岩源。,"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN
+睡眠比例,Tỉ lệ phần trăm ngủ,vi-VN
+矿车在地面上移动的默认最大速度。,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+矿车最大速度,Tốc độ tối đa của xe mỏ,vi-VN
+礦車在地面上移動的預設速度上限。,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+礦車最大速度,Tốc độ tối đa của xe mỏ,vi-VN
+禁用玩家移动检测,Tắt kiểm tra chuyển động của người chơi,vi-VN
+禁用袭击,Tắt các cuộc xâm lược,vi-VN
+禁用鞘翅移动检测,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+积雪厚度,Chiều cao tích tụ tuyết,vi-VN
+積雪の深さ,Chiều cao tích tụ tuyết,vi-VN
+積雪厚度,Chiều cao tích tụ tuyết,vi-VN
+立即重生,Lập tức hồi sinh,vi-VN
+简化调试信息,Giảm thông tin gỡ lỗi,vi-VN
+管理者ログへのコマンドの実行結果の通知,Truyền đi lệnh quản trị,vi-VN
+簡化除錯資訊,Giảm thông tin gỡ lỗi,vi-VN
+編輯遊戲規則,Chỉnh sửa luật chơi,vi-VN
+編輯遊戲規則...,Chỉnh sửa luật chơi...,vi-VN
+編集中のゲームルールの変更を破棄してもよろしいですか？,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+编辑游戏规则,Chỉnh sửa luật chơi,vi-VN
+编辑游戏规则…,Chỉnh sửa luật chơi...,vi-VN
+聊天,Trò chuyện,vi-VN
+聊天欄,Trò chuyện,vi-VN
+自然回血,Hồi phục sinh lực,vi-VN
+若启用，玩家只能使用已解锁的配方合成。,"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+若啟用，玩家將只能合成已解鎖的配方。,"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+落下ダメージ,Gây sát thương rơi,vi-VN
+藤蔓蔓延,Dây leo lan ra,vi-VN
+行商人のスポーン,Sinh ra thương nhân lang thang,vi-VN
+表示するデバッグ情報の項目数を制限します。,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+被騎乘的實體是否能使用傳送門,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+被骑乘的实体能否使用传送门,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+襲撃の無効化,Tắt các cuộc xâm lược,vi-VN
+襲撃の発生,Bật các cuộc xâm lược,vi-VN
+記錄指令方塊輸出,Truyền đi đầu ra của khối lệnh,vi-VN
+記錄管理員指令,Truyền đi lệnh quản trị,vi-VN
+設備エンティティのドロップ,Rơi ra trang bị của thực thể,vi-VN
+跳过夜晚所需的入睡玩家占比。,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+跳過夜晚所需的入睡玩家比例。,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+进度通知,Thông báo tiến trình,vi-VN
+通告管理员命令,Truyền đi lệnh quản trị,vi-VN
+造成冰凍傷害,Gây sát thương đóng băng,vi-VN
+造成摔落傷害,Gây sát thương rơi,vi-VN
+造成溺水傷害,Gây sát thương đuối nước,vi-VN
+造成火焰傷害,Gây sát thương lửa,vi-VN
+進度通知,Thông báo tiến trình,vi-VN
+進捗達成の通知,Thông báo tiến trình,vi-VN
+遊戲規則變更,Thay đổi luật chơi,vi-VN
+部分實體可能採用不同的規則。,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+重生區塊半徑,Bán kính đoạn khúc hồi sinh,vi-VN
+重生点半径,Bán kính vị trí hồi sinh,vi-VN
+重生點半徑,Bán kính vị trí hồi sinh,vi-VN
+降雪时，地面上的雪最多堆积到此处指定的层数。,"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+降雪時に積もる雪の層の最大数を設定できます。,"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+降雪時，地面上的積雪最多累積至此處指定的層數。,"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+限制调试屏幕内容。,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+限制除錯畫面的內容。,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+随机刻速率,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+隨機刻速率,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+雜項,Khác,vi-VN
+需要配方才能合成,Yêu cầu công thức chế tạo,vi-VN
+非クリエイティブモードでのネザーポータルの待機時間,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+非创造模式下玩家在下界传送门中等待的时间,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+非创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+非創造模式玩家使用地獄傳送門的等待時間,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+非生物实体掉落,Rơi ra trang bị của thực thể,vi-VN
+預設值：%s,Mặc định: %s,vi-VN
+顯示死亡訊息,Hiển thị thông báo chết,vi-VN
+飛び道具によるブロック破壊の可否,Vật bắn ra có thể phá khối,vi-VN
+飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+默认：%s,Mặc định: %s,vi-VN
+개체 장비 떨굼,Rơi ra trang bị của thực thể,vi-VN
+개체 중첩 한계,Ngưỡng nhồi nhét thực thể,vi-VN
+겉날개 움직임 확인 끄기,Tắt kiểm tra chuyển động của cánh cứng,vi-VN
+겉날개 움직임 확인하기,Kiểm tra chuyển động của cánh cứng,vi-VN
+게임 규칙 받아오는 중...,Đang truy xuất luật chơi...,vi-VN
+게임 규칙 변경 사항,Thay đổi luật chơi,vi-VN
+게임 규칙 수정,Chỉnh sửa luật chơi,vi-VN
+게임 규칙 수정...,Chỉnh sửa luật chơi...,vi-VN
+게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,Cập nhật luật chơi yêu cầu quyền người điều hành.,vi-VN
+경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",vi-VN
+경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",vi-VN
+관리자 명령 알림,Truyền đi lệnh quản trị,vi-VN
+관전자의 지형 생성 허용,Cho phép khán giả tạo địa hình,vi-VN
+"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.","Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",vi-VN
+광산 수레 최고 속도,Tốc độ tối đa của xe mỏ,vi-VN
+기본값: %s,Mặc định: %s,vi-VN
+기타,Khác,vi-VN
+낙하 피해,Gây sát thương rơi,vi-VN
+날씨 갱신,Cập nhật thời tiết,vi-VN
+네더 허용,Cho phép Nether,vi-VN
+"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.","Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",vi-VN
+대화,Trò chuyện,vi-VN
+덩굴 퍼짐,Dây leo lan ra,vi-VN
+덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",vi-VN
+동상 피해,Gây sát thương đóng băng,vi-VN
+디버그 정보 축소,Giảm thông tin gỡ lỗi,vi-VN
+디버그 화면의 내용을 제한합니다.,Giới hạn nội dung của màn hình gỡ lỗi.,vi-VN
+땅에서 광산 수레가 움직일 때 최고 기본 속도,Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,vi-VN
+떠돌이 상인 생성,Sinh ra thương nhân lang thang,vi-VN
+떨굼 설정,Rơi ra,vi-VN
+랜덤 틱 속도 비율,Tỉ lệ tốc độ nhịp ngẫu nhiên,vi-VN
+리스폰 위치 반지름,Bán kính vị trí hồi sinh,vi-VN
+명령 블록 연쇄와 함수에 해당.,Áp dụng cho chuỗi khối lệnh và hàm.,vi-VN
+명령 블록 출력 알림,Truyền đi đầu ra của khối lệnh,vi-VN
+명령 블록 켜기,Bật khối lệnh,vi-VN
+명령 연쇄 크기 제한,Giới hạn kích cỡ chuỗi lệnh,vi-VN
+명령 피드백 전송,Gửi phản hồi về lệnh,vi-VN
+명령어 맥락 제한,Giới hạn ngữ cảnh lệnh,vi-VN
+명령어의 블록 변경량 제한,Giới hạn số khối sửa đổi bởi lệnh,vi-VN
+몬스터 생성,Sinh ra quái vật,vi-VN
+몬스터의 자연적 생성 여부를 제어합니다.,Kiểm soát quái vật sinh ra tự nhiên hay không.,vi-VN
+몹,Sinh vật,vi-VN
+몹 노획물 떨굼,Rơi ra lợi phẩm của sinh vật,vi-VN
+몹 생성,Sinh ra sinh vật,vi-VN
+"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음","Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+무차별적 분노,Giận dữ toàn diện,vi-VN
+물이 원천으로 바뀜,Nước chuyển thành nguồn,vi-VN
+발전 과제 알림,Thông báo tiến trình,vi-VN
+밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,vi-VN
+"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.","Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",vi-VN
+분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",vi-VN
+불 갱신,Cập nhật lửa,vi-VN
+불 피해,Gây sát thương lửa,vi-VN
+불 확산 반지름,Bán kính lan lửa,vi-VN
+블록 떨굼,Rơi ra khối,vi-VN
+"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음","Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",vi-VN
+"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,vi-VN
+생명력 재생,Hồi phục sinh lực,vi-VN
+생성,Sinh ra,vi-VN
+생성기 블록 켜기,Bật khối triệu hồi,vi-VN
+세계 갱신,Cập nhật thế giới,vi-VN
+"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,vi-VN
+스폰 청크 반지름,Bán kính đoạn khúc hồi sinh,vi-VN
+습격 끄기,Tắt các cuộc xâm lược,vi-VN
+습격 켜기,Bật các cuộc xâm lược,vi-VN
+시간 흐름,Thời gian trong ngày trôi đi,vi-VN
+약탈자 정찰대 생성,Sinh ra kẻ cướp tuần tra,vi-VN
+오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,vi-VN
+용암이 원천으로 바뀜,Dung nham chuyển thành nguồn,vi-VN
+워든 생성,Sinh ra kẻ cai ngục,vi-VN
+이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",vi-VN
+익사 피해,Gây sát thương đuối nước,vi-VN
+일부 개체는 별도의 규칙이 있을 수 있습니다.,Một vài thực thể có thể sẽ có luật riêng biệt.,vi-VN
+저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,vi-VN
+적설 높이,Chiều cao tích tụ tuyết,vi-VN
+전역 소리 이벤트,Sự kiện âm thanh toàn cầu,vi-VN
+제작에 제작법 필요,Yêu cầu công thức chế tạo,vi-VN
+죽은 플레이어 용서,Tha thứ cho người chơi đã chết,vi-VN
+죽을 때 던져져 있는 엔더 진주 소멸,Ngọc Ender được ném ra biến mất khi chết,vi-VN
+죽음 문구 표시,Hiển thị thông báo chết,vi-VN
+죽음 후 보관함 보존,Giữ túi đồ sau khi chết,vi-VN
+중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,vi-VN
+중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",vi-VN
+즉시 리스폰,Lập tức hồi sinh,vi-VN
+취침 비율,Tỉ lệ phần trăm ngủ,vi-VN
+켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",vi-VN
+크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,vi-VN
+크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,vi-VN
+크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,vi-VN
+"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.","Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",vi-VN
+탑승자가 있는 개체의 차원문 사용 허용,Thực thể với hành khách có thể sử dụng cổng,vi-VN
+투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,vi-VN
+투사체가 블록 파괴 가능,Vật bắn ra có thể phá khối,vi-VN
+파괴적 몹 행위 허용,Cho phép hành động sinh vật phá hoại,vi-VN
+팬텀 생성,Sinh ra phantom,vi-VN
+플레이어,Người chơi,vi-VN
+플레이어 움직임 확인 끄기,Tắt kiểm tra chuyển động của người chơi,vi-VN
+플레이어 움직임 확인하기,Kiểm tra chuyển động của người chơi,vi-VN
+플레이어 위치 표시 바 켜기,Bật thanh định vị người chơi,vi-VN
+플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,vi-VN
+"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,vi-VN
+플레이어로부터 떨어진 불 틱,Đếm nhịp lửa cách xa người chơi,vi-VN
+플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,vi-VN
+플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,vi-VN
+플레이어의 네더 진입 가능 여부를 제어합니다.,Kiểm soát người chơi được phép vào Nether hay không.,vi-VN
+하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,Không thể thay đổi luật chơi trong thế giới siêu khó.,vi-VN
+"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.","Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",vi-VN
+"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.","Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",vi-VN

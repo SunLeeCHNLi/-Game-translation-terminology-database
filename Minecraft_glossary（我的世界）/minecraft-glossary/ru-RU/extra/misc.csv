@@ -1,0 +1,525 @@
+﻿source,target,tgt_lng
+ % 你好,привет %,ru-RU
+% 你好,привет %,ru-RU
+%s bileşen,%s компонентов,ru-RU
+%s component(s),%s компонентов,ru-RU
+%s componente(s),%s компонентов,ru-RU
+%s composant(s),%s компонентов,ru-RU
+%s Komponente(n),%s компонентов,ru-RU
+%s thành phần,%s компонентов,ru-RU
+%s 你好,привет %s,ru-RU
+%s 個元件,%s компонентов,ru-RU
+%s个组件,%s компонентов,ru-RU
+%s個のコンポーネント,%s компонентов,ru-RU
+%s（%s）,%s (%s),ru-RU
+-,—,ru-RU
+Achtung:,Внимание:,ru-RU
+Addosso:,Когда надето:,ru-RU
+Advertencia:,Внимание:,ru-RU
+Ai piedi:,Когда обуто:,ru-RU
+Al aplicarse:,При применении:,ru-RU
+Al equipar montura:,Когда снаряжено:,ru-RU
+Al equipar:,Когда надето:,ru-RU
+Al equipar:,Когда экипировано:,ru-RU
+Allgemein,Основное,ru-RU
+Am Körper:,Когда надето:,ru-RU
+An den Beinen:,Когда надето на ноги:,ru-RU
+An den Füßen:,Когда обуто:,ru-RU
+Ana Eldeyken:,Когда в ведущей руке:,ru-RU
+Angelegt:,Когда надето:,ru-RU
+Attention :,Внимание:,ru-RU
+Attenzione!,Внимание:,ru-RU
+Auf dem Kopf:,Когда надето на голову:,ru-RU
+Auf „Friedlich“ deaktiviert,Отключено на мирной сложности,ru-RU
+Ausgerüstet:,Когда экипировано:,ru-RU
+Auswirkungen:,При применении:,ru-RU
+Aux jambes :,Когда надето на ноги:,ru-RU
+Aux pieds :,Когда обуто:,ru-RU
+Aviso:,Внимание:,ru-RU
+Ayaktayken:,Когда обуто:,ru-RU
+Bacaktayken:,Когда надето на ноги:,ru-RU
+Barışçıl zorlukta devre dışı,Отключено на мирной сложности,ru-RU
+Baskın,Рейд,ru-RU
+Baskın - Galibiyet,Рейд — Победа,ru-RU
+Baskın - Mağlubiyet,Рейд — Поражение,ru-RU
+Bilinmeyen,Неизвестно,ru-RU
+Bonjour tout le monde !,"Привет, мир!",ru-RU
+Boyalı,Крашеный,ru-RU
+Bu eşyanın kullanılması belirli komutlar çalıştırabilir.,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+Can be placed on:,Ставить на:,ru-RU
+Can break:,Может ломать:,ru-RU
+Canlılar,Мобы,ru-RU
+Chiến thắng,Победа,ru-RU
+chào %,привет %,ru-RU
+chào %s,привет %s,ru-RU
+ciao %,привет %,ru-RU
+ciao %s,привет %s,ru-RU
+"Ciao, mondo!","Привет, мир!",ru-RU
+Color: %s,Цвет: %s,ru-RU
+Colore: %s,Цвет: %s,ru-RU
+Com sela:,Когда снаряжено:,ru-RU
+Componenti: %s,%s компонентов,ru-RU
+Con sella:,Когда снаряжено:,ru-RU
+Cor: %s,Цвет: %s,ru-RU
+Couleur : %s,Цвет: %s,ru-RU
+Creature,Мобы,ru-RU
+Criaturas,Мобы,ru-RU
+Créatures,Мобы,ru-RU
+Cuộc xâm lược,Рейд,ru-RU
+Cuộc xâm lược - Chiến thắng,Рейд — Победа,ru-RU
+Cuộc xâm lược - Thất bại,Рейд — Поражение,ru-RU
+Có thể phá:,Может ломать:,ru-RU
+Có thể đặt lên:,Ставить на:,ru-RU
+Dans la main :,Когда в руке:,ru-RU
+Dans la main principale :,Когда в ведущей руке:,ru-RU
+Dans la main secondaire :,Когда во второстепенной руке:,ru-RU
+Dayanıklılık: %s / %s,Прочность: %s / %s,ru-RU
+Deaktivierter Gegenstand,Отключённый предмет,ru-RU
+Defeat,Поражение,ru-RU
+Derrota,Поражение,ru-RU
+Desactivado en Pacífico,Отключено на мирной сложности,ru-RU
+Desativado na dificuldade Pacífica,Отключено на мирной сложности,ru-RU
+Desconhecido,Неизвестно,ru-RU
+Desconocido,Неизвестно,ru-RU
+Devre dışı bırakılmış öge,Отключённый предмет,ru-RU
+Dinamico,Динамический,ru-RU
+Dinamik,Динамический,ru-RU
+Dinámico,Динамический,ru-RU
+Dinâmico,Динамический,ru-RU
+Disabled in Peaceful,Отключено на мирной сложности,ru-RU
+Disabled item,Отключённый предмет,ru-RU
+Disattivato in modalità pacifica,Отключено на мирной сложности,ru-RU
+Diğer Eldeyken:,Когда во второстепенной руке:,ru-RU
+Do not use unless you know the exact contents!,"Используйте, только если точно знаете его содержимое!",ru-RU
+Durabilidad: %s / %s,Прочность: %s / %s,ru-RU
+Durabilidade: %s / %s,Прочность: %s / %s,ru-RU
+Durability: %s / %s,Прочность: %s / %s,ru-RU
+Durabilità: %s/%s,Прочность: %s / %s,ru-RU
+Durabilité : %s / %s,Прочность: %s / %s,ru-RU
+Dyed,Крашеный,ru-RU
+Dynamic,Динамический,ru-RU
+Dynamique,Динамический,ru-RU
+Dynamisch,Динамический,ru-RU
+Défaite,Поражение,ru-RU
+Désactivé en Paisible,Отключено на мирной сложности,ru-RU
+dünya,мир,ru-RU
+Efeito aplicado:,При применении:,ru-RU
+Effet appliqué :,При применении:,ru-RU
+Effetto applicato:,При применении:,ru-RU
+Em uso:,Когда надето:,ru-RU
+Em uso:,Когда экипировано:,ru-RU
+En el cuerpo:,Когда надето:,ru-RU
+En el torso:,Когда надето:,ru-RU
+En la cabeza:,Когда надето на голову:,ru-RU
+En la mano principal:,Когда в ведущей руке:,ru-RU
+En la mano secundaria:,Когда во второстепенной руке:,ru-RU
+En la mano:,Когда в руке:,ru-RU
+En las piernas:,Когда надето на ноги:,ru-RU
+En los pies:,Когда обуто:,ru-RU
+En selle :,Когда снаряжено:,ru-RU
+Envahisseurs restants : %s,Осталось нападающих: %s,ru-RU
+Eyerlendiğinde:,Когда снаряжено:,ru-RU
+Eşyalar,Предметы,ru-RU
+Farbe: %s,Цвет: %s,ru-RU
+Gefärbt,Крашеный,ru-RU
+Gegenstand könnte Befehle ausführen,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+Gegenstände,Предметы,ru-RU
+Gehalten:,Когда в руке:,ru-RU
+Genel,Основное,ru-RU
+General,Основное,ru-RU
+Generali,Основное,ru-RU
+Gerais,Основное,ru-RU
+Gesattelt:,Когда снаряжено:,ru-RU
+Giyildiğinde:,Когда надето:,ru-RU
+Général,Основное,ru-RU
+Göğüsteyken:,Когда надето:,ru-RU
+"Hallo, Welt!","Привет, мир!",ru-RU
+Haltbarkeit: %s/%s,Прочность: %s / %s,ru-RU
+"Hello, world!","Привет, мир!",ru-RU
+Hi %,привет %,ru-RU
+hi %,привет %,ru-RU
+hi %  s,привет %s,ru-RU
+Hi %s,привет %s,ru-RU
+hi %s,привет %s,ru-RU
+hola %,привет %,ru-RU
+hola %s,привет %s,ru-RU
+In der Haupthand:,Когда в ведущей руке:,ru-RU
+In der Zweithand:,Когда во второстепенной руке:,ru-RU
+In mano:,Когда в руке:,ru-RU
+In testa:,Когда надето на голову:,ru-RU
+Incassable,Неразрушаемый,ru-RU
+Inconnu,Неизвестно,ru-RU
+Incursione,Рейд,ru-RU
+Incursione — Sconfitta,Рейд — Поражение,ru-RU
+Incursione — Vittoria,Рейд — Победа,ru-RU
+Incursori restanti: %s,Осталось нападающих: %s,ru-RU
+Inquebrável,Неразрушаемый,ru-RU
+Intangibile,Неосязаемый,ru-RU
+Intangible,Неосязаемый,ru-RU
+Intangível,Неосязаемый,ru-RU
+Invasion,Рейд,ru-RU
+Invasion - Défaite,Рейд — Поражение,ru-RU
+Invasion - Victoire,Рейд — Победа,ru-RU
+Invasión,Рейд,ru-RU
+Invasión - Derrota,Рейд — Поражение,ru-RU
+Invasión - Victoria,Рейд — Победа,ru-RU
+Invasores restantes: %s,Осталось нападающих: %s,ru-RU
+Invasão,Рейд,ru-RU
+Invasão — Derrota,Рейд — Поражение,ru-RU
+Invasão — Vitória,Рейд — Победа,ru-RU
+Irrompible,Неразрушаемый,ru-RU
+Item desativado,Отключённый предмет,ru-RU
+Items,Предметы,ru-RU
+Itens,Предметы,ru-RU
+İçeriğini tamamen bilmiyorsanız kullanmayın!,"Используйте, только если точно знаете его содержимое!",ru-RU
+Kafadayken:,Когда надето на голову:,ru-RU
+Kalan Yağmacılar: %s,Осталось нападающих: %s,ru-RU
+Kann abbauen:,Может ломать:,ru-RU
+Kann platziert werden auf:,Ставить на:,ru-RU
+Khi được dùng:,При применении:,ru-RU
+Khi được giữ:,Когда в руке:,ru-RU
+Khi được mặc yên cưỡi:,Когда снаряжено:,ru-RU
+Khi được mặc:,Когда надето:,ru-RU
+Khi được trang bị:,Когда надето:,ru-RU
+Khi được trang bị:,Когда экипировано:,ru-RU
+Khi ở bàn chân:,Когда обуто:,ru-RU
+Khi ở chân:,Когда надето на ноги:,ru-RU
+Khi ở ngực:,Когда надето:,ru-RU
+Khi ở tay chính:,Когда в ведущей руке:,ru-RU
+Khi ở tay phụ:,Когда во второстепенной руке:,ru-RU
+Khi ở đầu:,Когда надето на голову:,ru-RU
+Không cầm được,Неосязаемый,ru-RU
+Không phá được,Неразрушаемый,ru-RU
+Không rõ,Неизвестно,ru-RU
+Kreaturen,Мобы,ru-RU
+Kuşanıldığında:,Когда надето:,ru-RU
+Kuşanıldığında:,Когда экипировано:,ru-RU
+Kırabilir:,Может ломать:,ru-RU
+Kırılamaz,Неразрушаемый,ru-RU
+Lưu ý:,Внимание:,ru-RU
+merhaba %,привет %,ru-RU
+merhaba %s,привет %s,ru-RU
+"Merhaba, dünya!","Привет, мир!",ru-RU
+Mob,Мобы,ru-RU
+Mobs,Мобы,ru-RU
+monde,мир,ru-RU
+mondo,мир,ru-RU
+mundo,мир,ru-RU
+Màu sắc: %s,Цвет: %s,ru-RU
+Na cabeça:,Когда надето на голову:,ru-RU
+Na mão principal:,Когда в ведущей руке:,ru-RU
+Na mão secundária:,Когда во второстепенной руке:,ru-RU
+Na mão:,Когда в руке:,ru-RU
+Nas pernas:,Когда надето на ноги:,ru-RU
+NBT : %s tag(s),NBT: %s тегов,ru-RU
+NBT: %s Eigenschaft(en),NBT: %s тегов,ru-RU
+NBT: %s etiket,NBT: %s тегов,ru-RU
+NBT: %s etiqueta(s),NBT: %s тегов,ru-RU
+NBT: %s marcatore/i,NBT: %s тегов,ru-RU
+NBT: %s marcação(ões),NBT: %s тегов,ru-RU
+NBT: %s nhãn,NBT: %s тегов,ru-RU
+NBT: %s tag(s),NBT: %s тегов,ru-RU
+NBT: %s แท็ก,NBT: %s тегов,ru-RU
+NBT: 태그 %s개,NBT: %s тегов,ru-RU
+NBTタグ：%s,NBT: %s тегов,ru-RU
+NBT：%s 個標籤,NBT: %s тегов,ru-RU
+NBT：%s个标签,NBT: %s тегов,ru-RU
+Ne pas utiliser à moins d'en connaître le contenu exact !,"Используйте, только если точно знаете его содержимое!",ru-RU
+Nella mano principale:,Когда в ведущей руке:,ru-RU
+Nella mano secondaria:,Когда во второстепенной руке:,ru-RU
+Niederlage,Поражение,ru-RU
+No corpo:,Когда надето:,ru-RU
+No peito:,Когда надето:,ru-RU
+Nos pés:,Когда обуто:,ru-RU
+Nutzung auf eigene Gefahr!,"Используйте, только если точно знаете его содержимое!",ru-RU
+Não use a menos que você saiba o conteúdo exato!,"Используйте, только если точно знаете его содержимое!",ru-RU
+"Nếu bạn không biết chính xác nội dung, vui lòng không sử dụng vật phẩm này!","Используйте, только если точно знаете его содержимое!",ru-RU
+Objet désactivé,Отключённый предмет,ru-RU
+Objeto desactivado,Отключённый предмет,ru-RU
+Objetos,Предметы,ru-RU
+Objets,Предметы,ru-RU
+Oggetti,Предметы,ru-RU
+Oggetto disattivato,Отключённый предмет,ru-RU
+Oggetto indistruttibile,Неразрушаемый,ru-RU
+Oggetto tinto,Крашеный,ru-RU
+"oi, %",привет %,ru-RU
+"oi, %s",привет %s,ru-RU
+"Olá, mundo!","Привет, мир!",ru-RU
+Peut détruire :,Может ломать:,ru-RU
+Peut se placer sur :,Ставить на:,ru-RU
+Placer cet objet pourrait entraîner l'exécution d'une commande.,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+Pode ser colocado em:,Ставить на:,ru-RU
+"Prefijo, %s%2$s otra vez %s y %1$s por último %s ¡y también %1$s otra vez!","Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+"Prefisso, %s%2$s ancora %s e %1$s infine %s e anche %1$s ancora!","Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+"Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!","Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+"Prefixo, %s%2$s de novo %s e %1$s no final %s, e também %1$s novamente!","Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+"Préfixe, %s%2$s encore %s et %1$s enfin %s et également %1$s encore !","Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+Puede colocarse sobre:,Ставить на:,ru-RU
+Puede romper:,Может ломать:,ru-RU
+Può distruggere:,Может ломать:,ru-RU
+Quebrável:,Может ломать:,ru-RU
+Quest'oggetto potrebbe eseguire comandi.,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+Raid,Рейд,ru-RU
+Raid - Defeat,Рейд — Поражение,ru-RU
+Raid - Victory,Рейд — Победа,ru-RU
+Raiders Remaining: %s,Осталось нападающих: %s,ru-RU
+Renk: %s,Цвет: %s,ru-RU
+salut %,привет %,ru-RU
+salut %s,привет %s,ru-RU
+Sconfitta,Поражение,ru-RU
+Sconosciuto,Неизвестно,ru-RU
+Se podrían ejecutar comandos al colocar este bloque,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+Si può piazzare su:,Ставить на:,ru-RU
+Sieg,Победа,ru-RU
+Sinh vật,Мобы,ru-RU
+Soyut,Неосязаемый,ru-RU
+Sul corpo:,Когда надето:,ru-RU
+Sul corpo:,Когда экипировано:,ru-RU
+Sul torso:,Когда надето:,ru-RU
+Sulle gambe:,Когда надето на ноги:,ru-RU
+Sur la tête :,Когда надето на голову:,ru-RU
+Sur le corps :,Когда надето:,ru-RU
+Sur le torse :,Когда надето:,ru-RU
+Số kẻ xâm lược còn lại: %s,Осталось нападающих: %s,ru-RU
+Teint,Крашеный,ru-RU
+Thất bại,Поражение,ru-RU
+thế giới,мир,ru-RU
+Tingido,Крашеный,ru-RU
+Tintado,Крашеный,ru-RU
+"Tiền tố, %s%2$s thêm một lần %s và %1$s cuối cùng là %s và cả %1$s một lần nữa!","Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+Tutulduğunda:,Когда в руке:,ru-RU
+Tổng quát,Основное,ru-RU
+Unbekannt,Неизвестно,ru-RU
+Unbreakable,Неразрушаемый,ru-RU
+Ungreifbar,Неосязаемый,ru-RU
+Unknown,Неизвестно,ru-RU
+Unzerstörbar,Неразрушаемый,ru-RU
+Usar esse item pode acionar um comando.,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+Use of this item might lead to command execution.,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+Utilizzalo soltanto se sai a che cosa serve!,"Используйте, только если точно знаете его содержимое!",ru-RU
+Uyarı:,Внимание:,ru-RU
+Uygulandığında:,При применении:,ru-RU
+Verbleibende Räuber: %s,Осталось нападающих: %s,ru-RU
+Victoire,Победа,ru-RU
+Victoria,Победа,ru-RU
+Victory,Победа,ru-RU
+Vittoria,Победа,ru-RU
+Vitória,Победа,ru-RU
+Việc sử dụng vật phẩm này có thể khiến các lệnh được thực thi.,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+Vật phẩm,Предметы,ru-RU
+Vật phẩm đã tắt,Отключённый предмет,ru-RU
+Warning:,Внимание:,ru-RU
+Welt,мир,ru-RU
+When Applied:,При применении:,ru-RU
+When equipped:,Когда надето:,ru-RU
+When equipped:,Когда экипировано:,ru-RU
+When held:,Когда в руке:,ru-RU
+When in Main Hand:,Когда в ведущей руке:,ru-RU
+When in Off Hand:,Когда во второстепенной руке:,ru-RU
+When on Chest:,Когда надето:,ru-RU
+When on Feet:,Когда обуто:,ru-RU
+When on Head:,Когда надето на голову:,ru-RU
+When on Legs:,Когда надето на ноги:,ru-RU
+When saddled:,Когда снаряжено:,ru-RU
+When worn:,Когда надето:,ru-RU
+world,мир,ru-RU
+X,—,ru-RU
+Xin chào thế giới!,"Привет, мир!",ru-RU
+Yenilgi,Поражение,ru-RU
+Zafer,Победа,ru-RU
+"¡Hola, mundo!","Привет, мир!",ru-RU
+¡No lo utilices a menos que conozcas su contenido!,"Используйте, только если точно знаете его содержимое!",ru-RU
+À l'usage :,Когда экипировано:,ru-RU
+"Önek, %s%2$s tekrar %s ve %1$s son olarak %s ve ayrıca tekrar %1$s!","Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+Überfall,Рейд,ru-RU
+Überfall – Niederlage,Рейд — Поражение,ru-RU
+Überfall – Sieg,Рейд — Победа,ru-RU
+Üzerine yerleştirilebilir:,Ставить на:,ru-RU
+Đã tắt trong độ khó bình yên,Отключено на мирной сложности,ru-RU
+Đã được nhuộm,Крашеный,ru-RU
+Độ bền: %s / %s,Прочность: %s / %s,ru-RU
+Động,Динамический,ru-RU
+การปล้นสะดม,Рейд,ru-RU
+การปล้นสะดม - ชาวบ้านชนะ,Рейд — Победа,ru-RU
+การปล้นสะดม - ชาวบ้านพ่ายแพ้,Рейд — Поражение,ru-RU
+การใช้ไอเทมนี้อาจนำไปสู่การดำเนินการคำสั่ง,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+ความทนทาน: %s / %s,Прочность: %s / %s,ru-RU
+"คำนำหน้า,%s%2$s อีกครั้ง %s และ%1$s สุดท้ายของ %s และ%1$s อีกครั้ง!","Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+คำเตือน:,Внимание:,ru-RU
+ชาวบ้านชนะ,Победа,ru-RU
+ชาวบ้านพ่ายแพ้,Поражение,ru-RU
+ทั่วไป,Основное,ru-RU
+ปิดใช้งานในระดับความยากปลอดภัย,Отключено на мирной сложности,ru-RU
+ม็อบ,Мобы,ru-RU
+ย้อมสีแล้ว,Крашеный,ru-RU
+สวัสดี %,привет %,ru-RU
+สวัสดี %s,привет %s,ru-RU
+สามารถทำลาย:,Может ломать:,ru-RU
+สามารถวางบน:,Ставить на:,ru-RU
+สี: %s,Цвет: %s,ru-RU
+หยิบไม่ได้,Неосязаемый,ru-RU
+องค์ประกอบ %s รายการ,%s компонентов,ru-RU
+อย่าใช้ไอเทมนี้จนกว่าคุณจะทราบถึงเนื้อหาที่ชัดเจน!,"Используйте, только если точно знаете его содержимое!",ru-RU
+เมื่อถือ:,Когда в руке:,ru-RU
+เมื่อนำไปใช้:,При применении:,ru-RU
+เมื่อสวมใส่:,Когда надето:,ru-RU
+เมื่อสวมใส่ที่ขา:,Когда надето на ноги:,ru-RU
+เมื่อสวมใส่ที่หัว:,Когда надето на голову:,ru-RU
+เมื่อสวมใส่ที่เท้า:,Когда обуто:,ru-RU
+เมื่อส่วมใส่ที่ลำตัว:,Когда надето:,ru-RU
+เมื่ออยู่ในมือรอง:,Когда во второстепенной руке:,ru-RU
+เมื่ออยู่ในมือหลัก:,Когда в ведущей руке:,ru-RU
+เมื่อใช้งาน:,Когда надето:,ru-RU
+เมื่อใช้งาน:,Когда экипировано:,ru-RU
+เมื่อใส่อาน:,Когда снаряжено:,ru-RU
+โจรที่เหลืออยู่: %s,Осталось нападающих: %s,ru-RU
+โลก,мир,ru-RU
+ไดนามิก,Динамический,ru-RU
+ไม่ทราบ,Неизвестно,ru-RU
+ไม่สามารถทำลายได้,Неразрушаемый,ru-RU
+ไอเทม,Предметы,ru-RU
+ไอเทมถูกปิดใช้งาน,Отключённый предмет,ru-RU
+๒,II,ru-RU
+๓,III,ru-RU
+๔,IV,ru-RU
+๕,V,ru-RU
+๖,VI,ru-RU
+このアイテムを使用すると、コマンドが実行される可能性があります,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+アイテム,Предметы,ru-RU
+オフハンドに持ったとき：,Когда во второстепенной руке:,ru-RU
+ピースフルでは無効,Отключено на мирной сложности,ru-RU
+一般,Основное,ru-RU
+不可回收,Неосязаемый,ru-RU
+不可壊,Неразрушаемый,ru-RU
+不可拾取,Неосязаемый,ru-RU
+不明,Неизвестно,ru-RU
+世界,мир,ru-RU
+你好 %s,привет %s,ru-RU
+你好，世界！,"Привет, мир!",ru-RU
+使用時：,При применении:,ru-RU
+使用此物品可能會導致指令執行。,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+使用该物品可能会导致命令执行。,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+利き手に持ったとき：,Когда в ведущей руке:,ru-RU
+前缀，%s%2$s 然后是 %s 和 %1$s 最后是 %s 还有 %1$s！,"Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+剩余%s名袭击者,Осталось нападающих: %s,ru-RU
+剩餘敵人：%s,Осталось нападающих: %s,ru-RU
+効果：,При применении:,ru-RU
+動的,Динамический,ru-RU
+勝利,Победа,ru-RU
+即時更新,Динамический,ru-RU
+可以放在：,Ставить на:,ru-RU
+可破壞：,Может ломать:,ru-RU
+可置於：,Ставить на:,ru-RU
+回収不可,Неосязаемый,ru-RU
+在主手时：,Когда в ведущей руке:,ru-RU
+在副手时：,Когда во второстепенной руке:,ru-RU
+在和平難易度下停用,Отключено на мирной сложности,ru-RU
+在慣用手時：,Когда в ведущей руке:,ru-RU
+在非慣用手時：,Когда во второстепенной руке:,ru-RU
+失敗,Поражение,ru-RU
+失败,Поражение,ru-RU
+实时更新,Динамический,ru-RU
+已停用的物品,Отключённый предмет,ru-RU
+已在和平难度下禁用,Отключено на мирной сложности,ru-RU
+已染色,Крашеный,ru-RU
+已禁用物品,Отключённый предмет,ru-RU
+当生效后：,При применении:,ru-RU
+戴在头上时：,Когда надето на голову:,ru-RU
+手に持ったとき：,Когда в руке:,ru-RU
+手持时：,Когда в руке:,ru-RU
+手持時：,Когда в руке:,ru-RU
+敗北,Поражение,ru-RU
+无法破坏,Неразрушаемый,ru-RU
+未知,Неизвестно,ru-RU
+染色済み,Крашеный,ru-RU
+正確な内容を知らない場合は使用を避けてください！,"Используйте, только если точно знаете его содержимое!",ru-RU
+残り%s体,Осталось нападающих: %s,ru-RU
+無効なアイテム,Отключённый предмет,ru-RU
+無法破壞,Неразрушаемый,ru-RU
+物品,Предметы,ru-RU
+生物,Мобы,ru-RU
+破壊可能：,Может ломать:,ru-RU
+穿在脚上时：,Когда обуто:,ru-RU
+穿在腿上时：,Когда надето на ноги:,ru-RU
+穿在身上时：,Когда надето:,ru-RU
+穿戴时：,Когда надето:,ru-RU
+穿戴時：,Когда надето:,ru-RU
+突襲,Рейд,ru-RU
+突襲 - 勝利,Рейд — Победа,ru-RU
+突襲 - 失敗,Рейд — Поражение,ru-RU
+耐久値：%s／%s,Прочность: %s / %s,ru-RU
+耐久度：%s / %s,Прочность: %s / %s,ru-RU
+胜利,Победа,ru-RU
+胴体に装備したとき：,Когда надето:,ru-RU
+能破坏：,Может ломать:,ru-RU
+脚に装備したとき：,Когда надето на ноги:,ru-RU
+色：%s,Цвет: %s,ru-RU
+袭击,Рейд,ru-RU
+袭击 - 失败,Рейд — Поражение,ru-RU
+袭击 - 胜利,Рейд — Победа,ru-RU
+装備したとき：,Когда надето:,ru-RU
+装備したとき：,Когда экипировано:,ru-RU
+装备时：,Когда надето:,ru-RU
+装备时：,Когда экипировано:,ru-RU
+装备鞍时：,Когда снаряжено:,ru-RU
+装着したとき：,Когда надето:,ru-RU
+裝備在腳上時：,Когда обуто:,ru-RU
+裝備在腿上時：,Когда надето на ноги:,ru-RU
+裝備在身上時：,Когда надето:,ru-RU
+裝備於頭部時：,Когда надето на голову:,ru-RU
+裝備時：,Когда надето:,ru-RU
+裝備時：,Когда экипировано:,ru-RU
+裝備鞍時：,Когда снаряжено:,ru-RU
+襲撃,Рейд,ru-RU
+襲撃 - 勝利,Рейд — Победа,ru-RU
+襲撃 - 敗北,Рейд — Поражение,ru-RU
+設置可能：,Ставить на:,ru-RU
+警告：,Внимание:,ru-RU
+足に装備したとき：,Когда обуто:,ru-RU
+通用,Основное,ru-RU
+除非您完全了解其內容，否則請勿使用！,"Используйте, только если точно знаете его содержимое!",ru-RU
+除非知道确切内容，否则请勿使用！,"Используйте, только если точно знаете его содержимое!",ru-RU
+鞍として装備したとき：,Когда снаряжено:,ru-RU
+頭に装備したとき：,Когда надето на голову:,ru-RU
+顏色：%s,Цвет: %s,ru-RU
+颜色：%s,Цвет: %s,ru-RU
+경고:,Внимание:,ru-RU
+구성 요소 %s개,%s компонентов,ru-RU
+남은 습격자 수: %s,Осталось нападающих: %s,ru-RU
+내구도: %s / %s,Прочность: %s / %s,ru-RU
+다른 손에 있을 때:,Когда во второстепенной руке:,ru-RU
+다리에 있을 때:,Когда надето на ноги:,ru-RU
+동적,Динамический,ru-RU
+들었을 때:,Когда в руке:,ru-RU
+머리에 있을 때:,Когда надето на голову:,ru-RU
+몹,Мобы,ru-RU
+무형,Неосязаемый,ru-RU
+발에 있을 때:,Когда обуто:,ru-RU
+부서지지 않음,Неразрушаемый,ru-RU
+부술 수 있는 것:,Может ломать:,ru-RU
+비활성화된 아이템,Отключённый предмет,ru-RU
+사용 시:,При применении:,ru-RU
+색: %s,Цвет: %s,ru-RU
+세계,мир,ru-RU
+습격,Рейд,ru-RU
+습격 - 승리,Рейд — Победа,ru-RU
+습격 - 패배,Рейд — Поражение,ru-RU
+승리,Победа,ru-RU
+"시작해봅시다, %s%2$s이(가) 먼저 오고 그 다음에는 %s에 %1$s, 그리고 %s, 마지막으로 %1$s까지!","Префикс, %s%2$s снова %s и %1$s наконец %s, а также %1$s снова!",ru-RU
+아이템,Предметы,ru-RU
+안녕하세요 %,привет %,ru-RU
+안녕하세요 %s,привет %s,ru-RU
+안장을 얹었을 때:,Когда снаряжено:,ru-RU
+알 수 없음,Неизвестно,ru-RU
+염색됨,Крашеный,ru-RU
+이 아이템을 사용하면 명령어가 실행될 수 있습니다.,Использование этого предмета может повлечь за собой выполнение команд,ru-RU
+이 위에 설치 가능:,Ставить на:,ru-RU
+일반,Основное,ru-RU
+입었을 때:,Когда надето:,ru-RU
+장비했을 때:,Когда надето:,ru-RU
+장비했을 때:,Когда экипировано:,ru-RU
+정확한 내용을 모른다면 사용하지 마세요!,"Используйте, только если точно знаете его содержимое!",ru-RU
+주로 사용하는 손에 있을 때:,Когда в ведущей руке:,ru-RU
+패배,Поражение,ru-RU
+평화로움에서는 사용할 수 없습니다,Отключено на мирной сложности,ru-RU
+흉부에 있을 때:,Когда надето:,ru-RU

@@ -1,0 +1,566 @@
+﻿source,target,tgt_lng
+%%%s %s,%s%% %s,ko-KR
+%2$s %1$s%%,%s%% %s,ko-KR
+%2$s +%1$s,+%s %s,ko-KR
+%2$s +%1$s%%,+%s%% %s,ko-KR
+%2$s -%1$s,-%s %s,ko-KR
+%2$s -%1$s%%,-%s%% %s,ko-KR
+%2$s: %1$s,%s %s,ko-KR
+%2$s: %1$s%%,%s%% %s,ko-KR
+%2$s: +%1$s,+%s %s,ko-KR
+%2$s: +%1$s%%,+%s%% %s,ko-KR
+%2$s: -%1$s,-%s %s,ko-KR
+%2$s: -%1$s%%,-%s%% %s,ko-KR
+%s %% %s,%s%% %s,ko-KR
+%s %% en %s,%s%% %s,ko-KR
+%s en %s,%s %s,ko-KR
++%%%s %s,+%s%% %s,ko-KR
++%s %% %s,+%s%% %s,ko-KR
++%s %% en %s,+%s%% %s,ko-KR
++%s en %s,+%s %s,ko-KR
+-%%%s %s,-%s%% %s,ko-KR
+-%s %% %s,-%s%% %s,ko-KR
+-%s %% en %s,-%s%% %s,ko-KR
+-%s en %s,-%s %s,ko-KR
+Abbaueffizienz,채굴 효율,ko-KR
+Absorción máxima,최대 흡수,ko-KR
+absorption maximale,최대 흡수,ko-KR
+Absorção máxima,최대 흡수,ko-KR
+Ad Etiketi Mesafesi,이름표 거리,ko-KR
+Ad Etiketi Puan Mesafesi,이름표 점수 거리,ko-KR
+Adım Yüksekliği,걸음 높이,ko-KR
+Air Drag Modifier,공기 저항력 변경자,ko-KR
+Alcance de atração das criaturas,몹 유인 범위,ko-KR
+Alcance de detecção do marcador,경로점 수신 범위,ko-KR
+Alcance de interação com blocos,블록 상호 작용 범위,ko-KR
+Alcance de interação com entidades,개체 상호 작용 범위,ko-KR
+Alcance de perseguição das criaturas,몹 따름 범위,ko-KR
+Alcance de transmissão do marcador,경로점 발신 범위,ko-KR
+Altezza del passo,걸음 높이,ko-KR
+Altura de paso,걸음 높이,ko-KR
+Altura dos passos,걸음 높이,ko-KR
+Angriffsgeschwindigkeit,공격 속도,ko-KR
+Angriffsrückstoß,공격 밀침 세기,ko-KR
+Angriffsschaden,공격 피해,ko-KR
+Armadura,방어,ko-KR
+Armatura,방어,ko-KR
+Armor,방어,ko-KR
+Armor Toughness,방어 강도,ko-KR
+Assorbimento massimo,최대 흡수,ko-KR
+At Zıplama Gücü,말 점프 강도,ko-KR
+Attack Damage,공격 피해,ko-KR
+Attack Knockback,공격 밀침 세기,ko-KR
+Attack Speed,공격 속도,ko-KR
+Bewegungseffizienz,이동 효율,ko-KR
+Block Break Speed,블록 파괴 속도,ko-KR
+Block Interaction Range,블록 상호 작용 범위,ko-KR
+Blockabbaugeschwindigkeit,블록 파괴 속도,ko-KR
+Block‐Interaktionsweite,블록 상호 작용 범위,ko-KR
+Blok Etkileşim Mesafesi,블록 상호 작용 범위,ko-KR
+Blok Kırma Hızı,블록 파괴 속도,ko-KR
+bonus d'oxygène,산소 추가,ko-KR
+Bounciness,탄성,ko-KR
+Brenndauer,연소 시간,ko-KR
+Burning Time,연소 시간,ko-KR
+Bật lùi tấn công,공격 밀침 세기,ko-KR
+Camera Distance,카메라 거리,ko-KR
+Canlı Fark Etme Mesafesi,몹 유인 범위,ko-KR
+Canlı Takip Menzili,몹 따름 범위,ko-KR
+Canlı Takip Mesafesi,몹 따름 범위,ko-KR
+chance,행운,ko-KR
+Chiều cao bước,걸음 높이,ko-KR
+Contraccolpo,공격 밀침 세기,ko-KR
+Danni per colpo,공격 피해,ko-KR
+Dano por golpe,공격 피해,ko-KR
+Daño de ataque,공격 피해,ko-KR
+distance d'affichage du nom,이름표 거리,ko-KR
+distance d'affichage du score du nom,이름표 점수 거리,ko-KR
+distance de chute sûre,안전 낙하 거리,ko-KR
+distance de la caméra,카메라 거리,ko-KR
+Distancia de caída segura,안전 낙하 거리,ko-KR
+Distancia de la cámara,카메라 거리,ko-KR
+Distancia del identificador,이름표 거리,ko-KR
+Distancia del marcador de puntuación,이름표 점수 거리,ko-KR
+Distanza del punteggio nella targhetta,이름표 점수 거리,ko-KR
+Distanza dell'inquadratura,카메라 거리,ko-KR
+Distanza della targhetta,이름표 거리,ko-KR
+Distanza di caduta sicura,안전 낙하 거리,ko-KR
+Distância da câmera,카메라 거리,ko-KR
+Distância de queda segura,안전 낙하 거리,ko-KR
+Distância do identificador,이름표 거리,ko-KR
+Distância do marcador de pontuação,이름표 점수 거리,ko-KR
+Duración de quemadura,연소 시간,ko-KR
+Duração de queima,연소 시간,ko-KR
+Dureza de armadura,방어 강도,ko-KR
+Düşme Hasarı Çarpanı,낙하 피해 배수,ko-KR
+efficacité de minage,채굴 효율,ko-KR
+efficacité de mouvement,이동 효율,ko-KR
+efficacité de mouvement aquatique,수중 이동 효율,ko-KR
+Efficienza d'estrazione,채굴 효율,ko-KR
+Efficienza del movimento,이동 효율,ko-KR
+Efficienza del movimento in acqua,수중 이동 효율,ko-KR
+Eficiencia al romper bloques,채굴 효율,ko-KR
+Eficiencia de movimiento,이동 효율,ko-KR
+Eficiencia de movimiento acuático,수중 이동 효율,ko-KR
+Eficiência de mineração,채굴 효율,ko-KR
+Eficiência de movimento,이동 효율,ko-KR
+Eficiência de movimento na água,수중 이동 효율,ko-KR
+Elasticità,탄성,ko-KR
+Empuje de ataque,공격 밀침 세기,ko-KR
+En Fazla Emilim,최대 흡수,ko-KR
+En Fazla Sağlık,최대 생명력,ko-KR
+Entity Interaction Range,개체 상호 작용 범위,ko-KR
+Escala,배율,ko-KR
+Escala,크기,ko-KR
+Explosion Knockback Resistance,폭발 밀침 저항,ko-KR
+Explosionsstandfestigkeit,폭발 밀침 저항,ko-KR
+Eğilirken Hareket Hızı,웅크렸을 때 속도,ko-KR
+Eğilme Hızı,웅크렸을 때 속도,ko-KR
+Fall Damage Multiplier,낙하 피해 배수,ko-KR
+Fallschaden‐Multiplikator,낙하 피해 배수,ko-KR
+Federung,탄성,ko-KR
+Fluggeschwindigkeit,비행 속도,ko-KR
+Flying Speed,비행 속도,ko-KR
+Fortuna,행운,ko-KR
+Forza del salto,점프 세기,ko-KR
+Forza di salto del cavallo,말 점프 강도,ko-KR
+Força de salto do cavalo,말 점프 강도,ko-KR
+Força do salto,점프 세기,ko-KR
+Friction Modifier,마찰력 변경자,ko-KR
+Geniş Saldırı Hasar Oranı,휩쓸기 피해 비율,ko-KR
+Geschwindigkeit,속도,ko-KR
+Giáp,방어,ko-KR
+Glück,행운,ko-KR
+Gravedad,중력,ko-KR
+Gravidade,중력,ko-KR
+Gravity,중력,ko-KR
+Gravità,중력,ko-KR
+gravité,중력,ko-KR
+Größe,배율,ko-KR
+Größe,크기,ko-KR
+Güvenli Düşüş Mesafesi,안전 낙하 거리,ko-KR
+Hareket Verimliliği,이동 효율,ko-KR
+hauteur des pas,걸음 높이,ko-KR
+Hava Direnci Niteleyici,공기 저항력 변경자,ko-KR
+Hiệu quả di chuyển,이동 효율,ko-KR
+Hiệu quả di chuyển dưới nước,수중 이동 효율,ko-KR
+Hiệu suất đào,채굴 효율,ko-KR
+Horse Jump Strength,말 점프 강도,ko-KR
+Hız,속도,ko-KR
+Hấp thụ tối đa,최대 흡수,ko-KR
+Hệ số lực cản không khí,공기 저항력 변경자,ko-KR
+Hệ số ma sát,마찰력 변경자,ko-KR
+Hệ số sát thương rơi,낙하 피해 배수,ko-KR
+Jump Strength,점프 세기,ko-KR
+Kamera Mesafesi,카메라 거리,ko-KR
+Kameraabstand,카메라 거리,ko-KR
+Kazım Verimliliği,채굴 효율,ko-KR
+Khoảng cách hiển thị nhãn ghi tên,이름표 거리,ko-KR
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,이름표 점수 거리,ko-KR
+Khoảng cách máy quay,카메라 거리,ko-KR
+Kháng đẩy lùi,밀침 저항,ko-KR
+Kháng đẩy lùi từ vụ nổ,폭발 밀침 저항,ko-KR
+Knockback Resistance,밀침 저항,ko-KR
+Kreaturen‐Anlockdistanz,몹 유인 범위,ko-KR
+Kreaturen‐Verfolgedistanz,몹 따름 범위,ko-KR
+Luck,행운,ko-KR
+Luftwiderstandsfaktor,공기 저항력 변경자,ko-KR
+Lực lượng thây ma tăng cường,좀비 증원,ko-KR
+Max Absorption,최대 흡수,ko-KR
+Max Health,최대 생명력,ko-KR
+Maximale Absorption,최대 흡수,ko-KR
+Maximale Gesundheit,최대 생명력,ko-KR
+May mắn,행운,ko-KR
+Mining Efficiency,채굴 효율,ko-KR
+Mob Follow Range,몹 따름 범위,ko-KR
+Mob Tempt Range,몹 유인 범위,ko-KR
+Mobの誘引される範囲,몹 유인 범위,ko-KR
+Mobの追跡範囲,몹 따름 범위,ko-KR
+Modificador de atrito,마찰력 변경자,ko-KR
+Modificador de fricción,마찰력 변경자,ko-KR
+Modificador de resistencia del aire,공기 저항력 변경자,ko-KR
+Modificador de resistência ao ar,공기 저항력 변경자,ko-KR
+modificateur de friction,마찰력 변경자,ko-KR
+modificateur de résistance à l'air,공기 저항력 변경자,ko-KR
+Modificatore di attrito,마찰력 변경자,ko-KR
+Modificatore di resistenza aerodinamica,공기 저항력 변경자,ko-KR
+Moltiplicatore del danno da caduta,낙하 피해 배수,ko-KR
+Movement Efficiency,이동 효율,ko-KR
+Multiplicador de dano por queda,낙하 피해 배수,ko-KR
+Multiplicador de daño por caída,낙하 피해 배수,ko-KR
+multiplicateur des dégâts de chute,낙하 피해 배수,ko-KR
+Name Tag Distance,이름표 거리,ko-KR
+Name Tag Score Distance,이름표 점수 거리,ko-KR
+Namensschildabstand,이름표 거리,ko-KR
+Objekt‐Interaktionsweite,개체 상호 작용 범위,ko-KR
+Oksijen Takviyesi,산소 추가,ko-KR
+Ossigeno aggiuntivo,산소 추가,ko-KR
+Oxigênio extra,산소 추가,ko-KR
+Oxygen Bonus,산소 추가,ko-KR
+Oxígeno extra,산소 추가,ko-KR
+Patlama Savrulması Direnci,폭발 밀침 저항,ko-KR
+Pferdesprungstärke,말 점프 강도,ko-KR
+Phạm vi nhận điểm mốc,경로점 수신 범위,ko-KR
+Phạm vi thu hút sinh vật,몹 유인 범위,ko-KR
+Phạm vi truyền điểm mốc,경로점 발신 범위,ko-KR
+Phạm vi tương tác khối,블록 상호 작용 범위,ko-KR
+Phạm vi tương tác thực thể,개체 상호 작용 범위,ko-KR
+Phạm vi đi theo của sinh vật,몹 따름 범위,ko-KR
+Phần oxi thêm,산소 추가,ko-KR
+points d'armure,방어,ko-KR
+points d'attaque,공격 피해,ko-KR
+Portata di ricezione del punto di riferimento,경로점 수신 범위,ko-KR
+Portata di trasmissione del punto di riferimento,경로점 발신 범위,ko-KR
+portée d'interaction avec les blocs,블록 상호 작용 범위,ko-KR
+portée d'interaction avec les entités,개체 상호 작용 범위,ko-KR
+portée de détection des créatures,몹 따름 범위,ko-KR
+portée de réception du point de repère,경로점 수신 범위,ko-KR
+portée de tentation des créatures,몹 유인 범위,ko-KR
+portée de transmission du point de repère,경로점 발신 범위,ko-KR
+Potencia de salto,점프 세기,ko-KR
+Potencia de salto del caballo,말 점프 강도,ko-KR
+Proporción del daño de barrido,휩쓸기 피해 비율,ko-KR
+puissance de saut,점프 세기,ko-KR
+puissance de saut du cheval,말 점프 강도,ko-KR
+Punktetafelabstand,이름표 점수 거리,ko-KR
+Punti armatura,방어,ko-KR
+Quy mô,배율,ko-KR
+Quy mô,크기,ko-KR
+Radio de atracción de criaturas,몹 유인 범위,ko-KR
+Raggio d'interazione con i blocchi,블록 상호 작용 범위,ko-KR
+Raggio d'interazione con le entità,개체 상호 작용 범위,ko-KR
+Raggio di rilevamento delle creature,몹 따름 범위,ko-KR
+Raggio di tentazione delle creature,몹 유인 범위,ko-KR
+Rango de interacción con bloques,블록 상호 작용 범위,ko-KR
+Rango de interacción con entidades,개체 상호 작용 범위,ko-KR
+Rango de recepción del punto de referencia,경로점 수신 범위,ko-KR
+Rango de seguimiento,몹 따름 범위,ko-KR
+Rango de transmisión del punto de referencia,경로점 발신 범위,ko-KR
+rapidité,속도,ko-KR
+Rapporto del danno sferzante,휩쓸기 피해 비율,ko-KR
+ratio de dégâts par balayage,휩쓸기 피해 비율,ko-KR
+rebond,탄성,ko-KR
+Rebote,탄성,ko-KR
+recul d'attaque,공격 밀침 세기,ko-KR
+Reforços de zumbis,좀비 증원,ko-KR
+Refuerzos zombi,좀비 증원,ko-KR
+Reibungsfaktor,마찰력 변경자,ko-KR
+renforts de zombies,좀비 증원,ko-KR
+Repulsão do ataque,공격 밀침 세기,ko-KR
+Resistencia al empuje,밀침 저항,ko-KR
+Resistencia al empuje de las explosiones,폭발 밀침 저항,ko-KR
+Resistenza al contraccolpo,밀침 저항,ko-KR
+Resistenza al contraccolpo delle esplosioni,폭발 밀침 저항,ko-KR
+Resistência da armadura,방어 강도,ko-KR
+Resistência à repulsão,밀침 저항,ko-KR
+Resistência à repulsão de explosões,폭발 밀침 저항,ko-KR
+Rinforzi zombi,좀비 증원,ko-KR
+robustesse,방어 강도,ko-KR
+résistance au recul,밀침 저항,ko-KR
+résistance au recul des explosions,폭발 밀침 저항,ko-KR
+Rüstung,방어,ko-KR
+Rüstungshärte,방어 강도,ko-KR
+Safe Fall Distance,안전 낙하 거리,ko-KR
+Saldırı Hasarı,공격 피해,ko-KR
+Saldırı Hızı,공격 속도,ko-KR
+Saldırı Savurması,공격 밀침 세기,ko-KR
+Salud máxima,최대 생명력,ko-KR
+Salute massima,최대 생명력,ko-KR
+Sauerstoffbonus,산소 추가,ko-KR
+Savrulma Direnci,밀침 저항,ko-KR
+Scala,배율,ko-KR
+Scala,크기,ko-KR
+Scale,배율,ko-KR
+Scale,크기,ko-KR
+Schleichgeschwindigkeit,웅크렸을 때 속도,ko-KR
+Schritthöhe,걸음 높이,ko-KR
+Schwerkraft,중력,ko-KR
+Schwungschadensverhältnis,휩쓸기 피해 비율,ko-KR
+Sekme,탄성,ko-KR
+Sichere Fallhöhe,안전 낙하 거리,ko-KR
+Sinh lực tối đa,최대 생명력,ko-KR
+Sneaking Speed,웅크렸을 때 속도,ko-KR
+Solidità dell'armatura,방어 강도,ko-KR
+Sorte,행운,ko-KR
+Speed,속도,ko-KR
+Sprungstärke,점프 세기,ko-KR
+Standfestigkeit,밀침 저항,ko-KR
+Step Height,걸음 높이,ko-KR
+Su Altında Kazım Hızı,수중 채굴 속도,ko-KR
+Submerged Mining Speed,수중 채굴 속도,ko-KR
+Suda Hareket Verimliliği,수중 이동 효율,ko-KR
+Suerte,행운,ko-KR
+Sweeping Damage Ratio,휩쓸기 피해 비율,ko-KR
+Sürtünme Düzenleyici,마찰력 변경자,ko-KR
+Sức bật lùi,공격 밀침 세기,ko-KR
+Sức nhảy,점프 세기,ko-KR
+Sức nhảy của ngựa,말 점프 강도,ko-KR
+Sức tấn công,공격 피해,ko-KR
+taille,배율,ko-KR
+taille,크기,ko-KR
+Taxa de dano lateral,휩쓸기 피해 비율,ko-KR
+Tempo di combustione,연소 시간,ko-KR
+temps en feu,연소 시간,ko-KR
+Thời gian cháy,연소 시간,ko-KR
+Trọng lực,중력,ko-KR
+Tỉ lệ sát thương quét cạnh,휩쓸기 피해 비율,ko-KR
+Tốc độ,속도,ko-KR
+Tốc độ bay,비행 속도,ko-KR
+Tốc độ phá khối,블록 파괴 속도,ko-KR
+Tốc độ tấn công,공격 속도,ko-KR
+Tốc độ đi rón rén,웅크렸을 때 속도,ko-KR
+Tốc độ đào dưới nước,수중 채굴 속도,ko-KR
+Unterwasser‐Abbaugeschwindigkeit,수중 채굴 속도,ko-KR
+Uçma Hızı,비행 속도,ko-KR
+Uçuş Hızı,비행 속도,ko-KR
+Varlık Etkileşim Mesafesi,개체 상호 작용 범위,ko-KR
+Velocidad,속도,ko-KR
+Velocidad al agacharse,웅크렸을 때 속도,ko-KR
+Velocidad al romper bloques,블록 파괴 속도,ko-KR
+Velocidad al romper bloques sumergido,수중 채굴 속도,ko-KR
+Velocidad de ataque,공격 속도,ko-KR
+Velocidad de vuelo,비행 속도,ko-KR
+Velocidade,속도,ko-KR
+Velocidade de ataque,공격 속도,ko-KR
+Velocidade de mineração submersa,수중 채굴 속도,ko-KR
+Velocidade de quebra de blocos,블록 파괴 속도,ko-KR
+Velocidade do voo,비행 속도,ko-KR
+Velocidade furtiva,웅크렸을 때 속도,ko-KR
+Velocità,속도,ko-KR
+Velocità d'attacco,공격 속도,ko-KR
+Velocità d'estrazione sott'acqua,수중 채굴 속도,ko-KR
+Velocità di distruzione dei blocchi,블록 파괴 속도,ko-KR
+Velocità furtiva,웅크렸을 때 속도,ko-KR
+Velocità in volo,비행 속도,ko-KR
+Vida máxima,최대 생명력,ko-KR
+vie maximale,최대 생명력,ko-KR
+vitesse accroupie,웅크렸을 때 속도,ko-KR
+vitesse d'attaque,공격 속도,ko-KR
+vitesse de destruction des blocs,블록 파괴 속도,ko-KR
+vitesse de minage sous l'eau,수중 채굴 속도,ko-KR
+vitesse de vol,비행 속도,ko-KR
+Wasser‐Bewegungseffizienz,수중 이동 효율,ko-KR
+Water Movement Efficiency,수중 이동 효율,ko-KR
+Waypoint Receive Range,경로점 수신 범위,ko-KR
+Waypoint Transmit Range,경로점 발신 범위,ko-KR
+Wegpunkt‐Empfangsreichweite,경로점 수신 범위,ko-KR
+Wegpunkt‐Sendereichweite,경로점 발신 범위,ko-KR
+Yanma Süresi,연소 시간,ko-KR
+Yer Çekimi,중력,ko-KR
+Yol Noktası Alma Mesafesi,경로점 수신 범위,ko-KR
+Yol Noktası İletme Mesafesi,경로점 발신 범위,ko-KR
+Zombi Takviyesi,좀비 증원,ko-KR
+Zombie Reinforcements,좀비 증원,ko-KR
+Zombie-Verstärkung,좀비 증원,ko-KR
+Zombie‐Verstärkung,좀비 증원,ko-KR
+Zıplama Gücü,점프 세기,ko-KR
+Zırh,방어,ko-KR
+Zırh Sertliği,방어 강도,ko-KR
+Ölçek,배율,ko-KR
+Ölçek,크기,ko-KR
+Độ bền của áo giáp,방어 강도,ko-KR
+Độ bền áo giáp,방어 강도,ko-KR
+Độ cao rơi xuống an toàn,안전 낙하 거리,ko-KR
+Độ nảy,탄성,ko-KR
+Şans,행운,ko-KR
+Безопасная высота падения,안전 낙하 거리,ko-KR
+Бонус к кислороду,산소 추가,ko-KR
+Броня,방어,ko-KR
+Везение,행운,ko-KR
+Время горения,연소 시간,ko-KR
+Высота шага,걸음 높이,ko-KR
+Гравитация,중력,ko-KR
+Дальность взаимодействия с блоками,블록 상호 작용 범위,ko-KR
+Дальность взаимодействия с сущностями,개체 상호 작용 범위,ko-KR
+Дальность видимости имени,이름표 거리,ko-KR
+Дальность видимости счёта под именем,이름표 점수 거리,ko-KR
+Дальность обнаружения маркеров,경로점 수신 범위,ko-KR
+Дальность передачи маркера,경로점 발신 범위,ko-KR
+Дальность приманивания,몹 유인 범위,ko-KR
+Диапазон преследования моба,몹 따름 범위,ko-KR
+Коэффициент разящего удара,휩쓸기 피해 비율,ko-KR
+Максимальное здоровье,최대 생명력,ko-KR
+Множитель урона от падения,낙하 피해 배수,ko-KR
+Модификатор сопротивления воздуха,공기 저항력 변경자,ko-KR
+Модификатор трения,마찰력 변경자,ko-KR
+Отбрасывание при атаке,공격 밀침 세기,ko-KR
+Отдалённость камеры,카메라 거리,ko-KR
+Подкрепление зомби,좀비 증원,ko-KR
+Предел поглощения,최대 흡수,ko-KR
+Размер,배율,ko-KR
+Размер,크기,ko-KR
+Сила прыжка,점프 세기,ko-KR
+Сила прыжка лошади,말 점프 강도,ko-KR
+Скорость,속도,ko-KR
+Скорость атаки,공격 속도,ko-KR
+Скорость добычи под водой,수중 채굴 속도,ko-KR
+Скорость подкрадывания,웅크렸을 때 속도,ko-KR
+Скорость полёта,비행 속도,ko-KR
+Скорость разрушения блоков,블록 파괴 속도,ko-KR
+Сопротивление к отбрасыванию,밀침 저항,ko-KR
+Сопротивление к отбрасыванию взрывом,폭발 밀침 저항,ko-KR
+Твёрдость брони,방어 강도,ko-KR
+Упругость,탄성,ko-KR
+Урон при атаке,공격 피해,ko-KR
+Эффективность добычи,채굴 효율,ko-KR
+Эффективность передвижения,이동 효율,ko-KR
+Эффективность передвижения в воде,수중 이동 효율,ko-KR
+กระดอนโจมตี,공격 밀침 세기,ko-KR
+กำลังเสริมซอมบี้,좀비 증원,ko-KR
+ขนาด,배율,ko-KR
+ขนาด,크기,ko-KR
+ความต้านทานการกระดอน,밀침 저항,ko-KR
+ความต้านทานการกระดอนจากระเบิด,폭발 밀침 저항,ko-KR
+ความสูงของขั้นก้าว,걸음 높이,ko-KR
+ความเด้ง,탄성,ko-KR
+ความเร็ว,속도,ko-KR
+ความเร็วการขุดใต้น้ำ,수중 채굴 속도,ko-KR
+ความเร็วการทำลายบล็อก,블록 파괴 속도,ko-KR
+ความเร็วการบิน,비행 속도,ko-KR
+ความเร็วการย่อง,웅크렸을 때 속도,ko-KR
+ความเร็วโจมตี,공격 속도,ko-KR
+ความแข็งแกร่งของเกราะ,방어 강도,ko-KR
+ความแรงการกระโดด,점프 세기,ko-KR
+ดาเมจโจมตี,공격 피해,ko-KR
+ดูดซับสูงสุด,최대 흡수,ko-KR
+ตัวคูณดาเมจจากการตก,낙하 피해 배수,ko-KR
+ตัวดัดแปรแรงต้านอากาศ,공기 저항력 변경자,ko-KR
+ตัวดัดแปรแรงเสียดทาน,마찰력 변경자,ko-KR
+ประสิทธิภาพการขุด,채굴 효율,ko-KR
+ประสิทธิภาพการเคลื่อนที่,이동 효율,ko-KR
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,수중 이동 효율,ko-KR
+ระยะการตกที่ปลอดภัย,안전 낙하 거리,ko-KR
+ระยะการรับเวย์พอยต์,경로점 수신 범위,ko-KR
+ระยะการล่อของม็อบ,몹 유인 범위,ko-KR
+ระยะการส่งผ่านเวย์พอยต์,경로점 발신 범위,ko-KR
+ระยะคะแนนใต้ป้ายชื่อ,이름표 점수 거리,ko-KR
+ระยะที่ม็อบติดตาม,몹 따름 범위,ko-KR
+ระยะปฏิสัมพันธ์กับบล็อก,블록 상호 작용 범위,ko-KR
+ระยะปฏิสัมพันธ์กับเอนทิตี้,개체 상호 작용 범위,ko-KR
+ระยะป้ายชื่อ,이름표 거리,ko-KR
+ระยะห่างกล้อง,카메라 거리,ko-KR
+ระยะเวลาติดไฟ,연소 시간,ko-KR
+ออกซิเจนพิเศษ,산소 추가,ko-KR
+อัตราส่วนดาเมจแบบกวาด,휩쓸기 피해 비율,ko-KR
+เกราะ,방어,ko-KR
+เลือดสูงสุด,최대 생명력,ko-KR
+แรงม้ากระโดด,말 점프 강도,ko-KR
+แรงโน้มถ่วง,중력,ko-KR
+โชค,행운,ko-KR
+なぎ払いダメージの比率,휩쓸기 피해 비율,ko-KR
+ウェイポイント伝達距離,경로점 발신 범위,ko-KR
+ウェイポイント受信距離,경로점 수신 범위,ko-KR
+ウマの跳躍力,말 점프 강도,ko-KR
+エンティティ操作範囲,개체 상호 작용 범위,ko-KR
+カメラ距離,카메라 거리,ko-KR
+サイズ,배율,ko-KR
+スニーク速度,웅크렸을 때 속도,ko-KR
+ゾンビの増援,좀비 증원,ko-KR
+ネームタグの表示距離,이름표 거리,ko-KR
+ネームタグ下のスコアの表示距離,이름표 점수 거리,ko-KR
+ノックバック,공격 밀침 세기,ko-KR
+ノックバック力,공격 밀침 세기,ko-KR
+ノックバック耐性,밀침 저항,ko-KR
+ブロック操作範囲,블록 상호 작용 범위,ko-KR
+ブロック破壊速度,블록 파괴 속도,ko-KR
+僵尸增援,좀비 증원,ko-KR
+击退,공격 밀침 세기,ko-KR
+击退抗性,밀침 저항,ko-KR
+名牌分数距离,이름표 점수 거리,ko-KR
+名牌距离,이름표 거리,ko-KR
+名稱標籤分數距離,이름표 점수 거리,ko-KR
+名稱標籤距離,이름표 거리,ko-KR
+大きさ,크기,ko-KR
+大小,배율,ko-KR
+大小,크기,ko-KR
+安全摔落高度,안전 낙하 거리,ko-KR
+安全落下高度,안전 낙하 거리,ko-KR
+实体交互距离,개체 상호 작용 범위,ko-KR
+實體互動距離,개체 상호 작용 범위,ko-KR
+尺寸,배율,ko-KR
+尺寸,크기,ko-KR
+幸运值,행운,ko-KR
+幸運,행운,ko-KR
+弹性,탄성,ko-KR
+弾性係数,탄성,ko-KR
+彈性,탄성,ko-KR
+抗擊退,밀침 저항,ko-KR
+抗爆炸擊退,폭발 밀침 저항,ko-KR
+护甲值,방어,ko-KR
+挖掘效率,채굴 효율,ko-KR
+採掘効率,채굴 효율,ko-KR
+摔落伤害倍数,낙하 피해 배수,ko-KR
+摔落傷害倍率,낙하 피해 배수,ko-KR
+摩擦係数,마찰력 변경자,ko-KR
+摩擦力修正係數,마찰력 변경자,ko-KR
+摩擦力修正系数,마찰력 변경자,ko-KR
+擊退,공격 밀침 세기,ko-KR
+攻击伤害,공격 피해,ko-KR
+攻击速度,공격 속도,ko-KR
+攻撃力,공격 피해,ko-KR
+攻撃速度,공격 속도,ko-KR
+攻擊傷害,공격 피해,ko-KR
+攻擊速度,공격 속도,ko-KR
+方块交互距离,블록 상호 작용 범위,ko-KR
+方块破坏速度,블록 파괴 속도,ko-KR
+方塊互動距離,블록 상호 작용 범위,ko-KR
+方塊破壞速度,블록 파괴 속도,ko-KR
+最大伤害吸收值,최대 흡수,ko-KR
+最大体力,최대 생명력,ko-KR
+最大傷害吸收值,최대 흡수,ko-KR
+最大生命值,최대 생명력,ko-KR
+最大行走高度,걸음 높이,ko-KR
+最高生命值,최대 생명력,ko-KR
+横扫伤害比率,휩쓸기 피해 비율,ko-KR
+橫掃傷害率,휩쓸기 피해 비율,ko-KR
+殭屍增援隊,좀비 증원,ko-KR
+段差上限,걸음 높이,ko-KR
+水下挖掘速度,수중 채굴 속도,ko-KR
+水中挖掘速度,수중 채굴 속도,ko-KR
+水中採掘速度,수중 채굴 속도,ko-KR
+水中移动效率,수중 이동 효율,ko-KR
+水中移動効率,수중 이동 효율,ko-KR
+水中移動效率,수중 이동 효율,ko-KR
+潛行速度,웅크렸을 때 속도,ko-KR
+潜行速度,웅크렸을 때 속도,ko-KR
+炎上時間,연소 시간,ko-KR
+燃燒時間,연소 시간,ko-KR
+爆炸击退抗性,폭발 밀침 저항,ko-KR
+爆発ノックバック耐性,폭발 밀침 저항,ko-KR
+生物引誘範圍,몹 유인 범위,ko-KR
+生物引诱范围,몹 유인 범위,ko-KR
+生物跟随距离,몹 따름 범위,ko-KR
+生物追蹤範圍,몹 따름 범위,ko-KR
+盔甲,방어,ko-KR
+盔甲強度,방어 강도,ko-KR
+盔甲韧性,방어 강도,ko-KR
+着火时间,연소 시간,ko-KR
+移动效率,이동 효율,ko-KR
+移動効率,이동 효율,ko-KR
+移動效率,이동 효율,ko-KR
+移動速度,속도,ko-KR
+空气阻力修正系数,공기 저항력 변경자,ko-KR
+空気抵抗係数,공기 저항력 변경자,ko-KR
+空氣阻力修正係數,공기 저항력 변경자,ko-KR
+落下ダメージ倍率,낙하 피해 배수,ko-KR
+衝撃吸収レベルの上限,최대 흡수,ko-KR
+路径点传输距离,경로점 발신 범위,ko-KR
+路径点接收距离,경로점 수신 범위,ko-KR
+路徑點傳輸距離,경로점 발신 범위,ko-KR
+路徑點接收距離,경로점 수신 범위,ko-KR
+跳跃力度,점프 세기,ko-KR
+跳躍力,점프 세기,ko-KR
+速度,속도,ko-KR
+運,행운,ko-KR
+酸素ボーナス,산소 추가,ko-KR
+重力,중력,ko-KR
+鏡頭距離,카메라 거리,ko-KR
+镜头距离,카메라 거리,ko-KR
+防具強度,방어 강도,ko-KR
+防御力,방어,ko-KR
+額外氧氣,산소 추가,ko-KR
+额外氧气,산소 추가,ko-KR
+飛行速度,비행 속도,ko-KR
+飞行速度,비행 속도,ko-KR
+馬跳躍力,말 점프 강도,ko-KR
+马匹跳跃能力,말 점프 강도,ko-KR

@@ -1,0 +1,986 @@
+﻿source,target,tgt_lng
+%s (Bắt buộc),%s (필수),ko-KR
+%s (erforderlich),%s (필수),ko-KR
+%s (facoltativo),%s (선택적),ko-KR
+%s (facoltativo) — disattivato,%s (선택적) - 꺼짐,ko-KR
+%s (facultatif),%s (선택적),ko-KR
+%s (facultatif) - désactivé,%s (선택적) - 꺼짐,ko-KR
+%s (Gerekli),%s (필수),ko-KR
+%s (İsteğe Bağlı),%s (선택적),ko-KR
+%s (İsteğe Bağlı) - Devre Dışı,%s (선택적) - 꺼짐,ko-KR
+%s (Không bắt buộc),%s (선택적),ko-KR
+%s (không bắt buộc) - Đã tắt,%s (선택적) - 꺼짐,ko-KR
+%s (necesario),%s (필수),ko-KR
+%s (necessario),%s (필수),ko-KR
+%s (obrigatório),%s (필수),ko-KR
+%s (opcional),%s (선택적),ko-KR
+%s (opcional) — Não,%s (선택적) - 꺼짐,ko-KR
+%s (opcional): Desactivado,%s (선택적) - 꺼짐,ko-KR
+%s (Optional),%s (선택적),ko-KR
+%s (optional),%s (선택적),ko-KR
+%s (Optional) - Disabled,%s (선택적) - 꺼짐,ko-KR
+%s (optional) – Deaktiviert,%s (선택적) - 꺼짐,ko-KR
+%s (Required),%s (필수),ko-KR
+%s (requis),%s (필수),ko-KR
+%s (необязательно),%s (선택적),ko-KR
+%s (необязательно) — Отключено,%s (선택적) - 꺼짐,ko-KR
+%s (обязательно),%s (필수),ko-KR
+%s (จำเป็น),%s (필수),ko-KR
+%s (ไม่จำเป็น),%s (선택적),ko-KR
+%s (ไม่จำเป็น) - ปิดการใช้งาน,%s (선택적) - 꺼짐,ko-KR
+%s（任意）,%s (선택적),ko-KR
+%s（任意） - 無効,%s (선택적) - 꺼짐,ko-KR
+%s（可选）,%s (선택적),ko-KR
+%s（可选，已禁用）,%s (선택적) - 꺼짐,ko-KR
+%s（可選 – 已停用）,%s (선택적) - 꺼짐,ko-KR
+%s（可選）,%s (선택적),ko-KR
+%s（必要）,%s (필수),ko-KR
+%s（必須）,%s (필수),ko-KR
+Acconsento all'invio di dati di telemetria facoltativi,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+Aceito o envio de telemetria opcional,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+Advancement ID,발전 과제 ID,ko-KR
+Advancement Made,발전 과제 달성,ko-KR
+Alcance visual,렌더 거리,ko-KR
+Amostras de taxa de quadros (FPS),프레임률 표본 (fps),ko-KR
+Amostras do tempo de renderização,렌더 시간 표본,ko-KR
+"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+Anzahl der Datenwerte,표본 수,ko-KR
+Arka Uç Adı,백엔드 이름,ko-KR
+Arka Uç Oluşturma Hatası Eksik Özellikler,백엔드 생성 실패 기능 누락,ko-KR
+Arka Uç Oluşturma Hatası Mesajı,백엔드 생성 실패 메시지,ko-KR
+Arka Uç Oluşturma Hatası Nedeni,백엔드 생성 실패 사유,ko-KR
+Ayrılmış Bellek (kB),할당된 메모리 (kB),ko-KR
+Backend Creation Failure Message,백엔드 생성 실패 메시지,ko-KR
+Backend Creation Failure Missing Capabilities,백엔드 생성 실패 기능 누락,ko-KR
+Backend Creation Failure Reason,백엔드 생성 실패 사유,ko-KR
+Backend Name,백엔드 이름,ko-KR
+Backend‐Initialisierungsfehler: Fehlende Funktionen,백엔드 생성 실패 기능 누락,ko-KR
+Backend‐Initialisierungsfehler: Fehlermeldung,백엔드 생성 실패 메시지,ko-KR
+Backend‐Initialisierungsfehler: Grund,백엔드 생성 실패 사유,ko-KR
+Bağlantı Başarılı,연결 성공,ko-KR
+Bağlantı Süresi (Milisaniye),시그널링 연결 시간 (밀리초),ko-KR
+Başarısızlık Aşaması,실패 단계,ko-KR
+Başlatıcı Adı,런처 이름,ko-KR
+Benutzer‐ID,사용자 ID,ko-KR
+Betriebssystem,운영 체제,ko-KR
+"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.","세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+Bootstrap Time (Milliseconds),부트스트랩 시간 (밀리초),ko-KR
+Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+"Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+"Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+Bộ nhớ chuyên dụng (kB),할당된 메모리 (kB),ko-KR
+Bộ nhớ truy cập ngẫu nhiên đã sử dụng,랜덤 액세스 메모리 사용량,ko-KR
+Caminho do Interactive Connectivity Establishment (ICE),대화형 연결 구축 (ICE) 경로,ko-KR
+Campioni del tempo di elaborazione grafica,렌더 시간 표본,ko-KR
+Campioni di frequenza dei fotogrammi [fps],프레임률 표본 (fps),ko-KR
+Capacidades gráficas,그래픽 기능,ko-KR
+Capacités graphiques,그래픽 기능,ko-KR
+Capacités manquantes lors de l'échec de la création du backend,백엔드 생성 실패 기능 누락,ko-KR
+Capire il contesto relativo al compimento di un progresso può aiutarci a comprendere meglio e a perfezionare la sequenza di gioco.,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+"Cet événement est associé à l'événement ""Monde chargé"" pour calculer la durée de la session de jeu.
+La durée (en secondes et en ticks) est mesurée lorsqu'une session de jeu est terminée (en retournant au menu principal ou en se déconnectant d'un serveur).","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+"Cet événement nous aide à évaluer la fiabilité et les performances des connexions pair à pair entre les joueurs. Il enregistre la réussite ou l'échec de la connexion, le type de candidat utilisé pour l'établissement de connectivité interactive (ICE, le protocole que nous utilisons pour établir les connexions pair à pair) ainsi que le temps nécessaire pour établir la connexion.","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+Cet événement nous informe des capacités du périphérique graphique utilisé pour jouer au jeu.,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+Cet événement peut nous aider à déterminer où des améliorations des performances au démarrage sont nécessaires en mesurant les temps d'exécution des phases.,이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+Chemin de l'établissement de connectivité interactive (ICE),대화형 연결 구축 (ICE) 경로,ko-KR
+Chế độ chơi,게임 모드,ko-KR
+Chọn tham gia,선택 수집 여부,ko-KR
+Client ID,클라이언트 ID,ko-KR
+Client Modded,클라이언트 모드 여부,ko-KR
+Client moddé ?,클라이언트 모드 여부,ko-KR
+Client modifiziert,클라이언트 모드 여부,ko-KR
+Cliente modificado,클라이언트 모드 여부,ko-KR
+Client‐ID,클라이언트 ID,ko-KR
+Coleta de dados telemétricos,원격 측정 데이터 수집,ko-KR
+"Coletar esses dados nos ajuda a melhorar o Minecraft, guiando nosso trabalho em direções relevantes para os jogadores.
+Você também pode enviar seu feedback para nos ajudar a melhorar o Minecraft.",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+Collecte des données de télémétrie,원격 측정 데이터 수집,ko-KR
+"Collecter ces données nous aide à améliorer Minecraft en nous guidant dans des directions qui sont pertinentes pour nos joueurs.
+Vous pouvez aussi donner votre avis pour nous aider à améliorer le jeu.",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+"Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.
+You can also send in additional feedback to help us keep improving Minecraft.",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+Compartir datos,선택 수집 여부,ko-KR
+Comprender el contexto en el que se realiza un progreso nos ayudará a entender y mejorar la progresión del juego.,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+Comprendre le contexte derrière la réalisation d'un progrès peut nous aider à améliorer la progression du jeu.,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+Conectado con éxito,연결 성공,ko-KR
+Conexión P2P,피어 투 피어 연결,ko-KR
+Conexão estabelecida,연결 성공,ko-KR
+Conexão ponto a ponto,피어 투 피어 연결,ko-KR
+"Conhecer o perfil geral de desempenho do Minecraft nos ajuda a otimizar o jogo para uma ampla variedade de dispositivos e sistemas operacionais. 
+A versão do jogo é incluída para nos ajudar a comparar o desempenho das novas versões do Minecraft.","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+Connection Successful,연결 성공,ko-KR
+Connessione a rete paritaria,피어 투 피어 연결,ko-KR
+Connexion pair à pair,피어 투 피어 연결,ko-KR
+Connexion réussie,연결 성공,ko-KR
+"Conocer el perfil de rendimiento de Minecraft nos ayuda a optimizar el juego para muchas especificaciones y sistemas operativos. 
+La versión del juego se incluye para ayudarnos a comparar el rendimiento de nuevas versiones.","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+"Conoscere il profilo delle prestazioni di Minecraft ci aiuta ad adattare e a ottimizzare il gioco per un'ampia gamma di dispositivi e sistemi operativi.
+La versione del gioco è inclusa per aiutarci a effettuare il confronto con il profilo delle prestazioni delle nuove versioni di Minecraft.","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+Consenso,선택 수집 여부,ko-KR
+Consentement,선택 수집 여부,ko-KR
+Contagem de amostras,표본 수,ko-KR
+Contenido del mapa de Realms (nombre del minijuego),Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Contenu de la carte de Realms (nom du mini-jeu),Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Conteúdo do mapa do Realms (nome do minijogo),Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Dados incluídos,포함 데이터,ko-KR
+Danos tu opinión,피드백 보내기,ko-KR
+Datenschutzerklärung,개인 정보 처리 방침,ko-KR
+Datenwerte zur Bildwiederholrate (FPS),프레임률 표본 (fps),ko-KR
+Datenwerte zur Renderzeit,렌더 시간 표본,ko-KR
+Dati inclusi,포함 데이터,ko-KR
+Datos incluidos,포함 데이터,ko-KR
+Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Declaración de privacidad,개인 정보 처리 방침,ko-KR
+Declaração de Privacidade,개인 정보 처리 방침,ko-KR
+Dedicated Memory (kB),할당된 메모리 (kB),ko-KR
+"Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+"Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+"Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+Direktverbindung,피어 투 피어 연결,ko-KR
+Distance d'affichage,렌더 거리,ko-KR
+Distancia de renderizado,렌더 거리,ko-KR
+Donner son avis,피드백 보내기,ko-KR
+Données incluses,포함 데이터,ko-KR
+Déclaration de confidentialité,개인 정보 처리 방침,ko-KR
+Dünya Oturum Kimliği,세계 세션 ID,ko-KR
+Dünya Yükleme Süresi (Milisaniye),세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+Dünya Yüklendi,세계를 불러올 때,ko-KR
+Dünya Yüklenme Süreleri,세계를 불러오는 데 걸린 시간,ko-KR
+Dünyadan Çıkıldı,세계를 떠날 때,ko-KR
+Dấu thời gian sự kiện (giờ UTC),이벤트 시간 기록 (UTC),ko-KR
+Dữ liệu được bao gồm,포함 데이터,ko-KR
+"En apprendre davantage sur la manière dont les joueurs jouent à Minecraft (avec quel mode de jeu, si le client ou le serveur est moddé, sous quelle version) nous aide à améliorer les aspects qui ont le plus d'importance pour les joueurs.
+L'événement ""Monde chargé"" est associé à l'événement ""Monde déchargé"" pour calculer la durée de la session de jeu.","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+"En apprendre davantage sur le profil global des performances de Minecraft nous aide à ajuster et optimiser le jeu pour un large éventail d'appareils et de systèmes d'exploitation. 
+La version du jeu est incluse pour nous aider à comparer le profil des performances des nouvelles versions de Minecraft.","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+Entender o contexto de um progresso pode nos ajudar a entender e melhorar a progressão do jogo.,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+Enthaltene Daten,포함 데이터,ko-KR
+Enviar feedback,피드백 보내기,ko-KR
+Erforderliches/optionales Ereignis,선택 수집 여부,ko-KR
+Erro ao criar o backend por falta de capacidades,백엔드 생성 실패 기능 누락,ko-KR
+Error en la creación del backend por falta de capacidades,백엔드 생성 실패 기능 누락,ko-KR
+"Es importante que sepamos cuánto tiempo se tarda en entrar en un mundo y cómo cambia eso con el tiempo. Por ejemplo, cuando añadimos nuevas características o realizamos cambios técnicos grandes, necesitamos ver qué impacto tienen en los tiempos de carga.","세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.","세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+Esito della connessione positivo,연결 성공,ko-KR
+"Esse evento nos ajuda a detectar a estabilidade e o desempenho das conexões ponto a ponto entre jogadores. Ele registra se a conexão foi estabelecida com êxito, o tipo de candidato usado (também conhecido por Interactive Connectivity Establishment, ou ICE, protocolo usado para estabelecer conexões ponto a ponto) e a duração para estabelecer a conexão.","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+Esse evento nos informa sobre as capacidades do dispositivo gráfico usado durante o jogo.,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+Esse evento pode nos ajudar a identificar as melhorias de desempenho de inicialização necessárias ao medir os tempos de execução das fases de inicialização.,이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+"Esse evento é sincronizado com o ""Mundo Carregado"" para calcular a duração da sessão de jogo.
+A duração (em segundos e tiques) é medida no final de uma sessão (ao sair para o menu principal ou de um servidor).","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+"Este evento está unido al de «Mundo cargado» para calcular cuánto ha durado la sesión de juego.
+La duración (en segundos y tics) se mide cuando una sesión de juego termina (saliendo al menú principal, desconectándose de un servidor).","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+"Este evento nos ayuda a comprender la fiabilidad y el rendimiento de las conexiones P2P entre jugadores. Registra si la conexión fue exitosa, el tipo de conectividad interactiva (ICE, el protocolo que usamos para establecer conexiones P2P) que pudo utilizarse y cuánto tiempo tardó en establecerse la conexión.","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+Este evento nos informa sobre las capacidades del dispositivo gráfico utilizado para jugar.,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+"Este evento puede ayudarnos a determinar donde se necesitan las mejoras de rendimiento, midiendo los tiempos de ejecución de las diferentes fases de arranque.",이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,대화형 연결 구축 (ICE) 경로,ko-KR
+Event Timestamp (UTC),이벤트 시간 기록 (UTC),ko-KR
+Externer Kandidatentyp,원격 후보 유형,ko-KR
+Failure Stage,실패 단계,ko-KR
+Fase de fallo,실패 단계,ko-KR
+Fase dell'errore,실패 단계,ko-KR
+Fase do erro,실패 단계,ko-KR
+Feedback geben,피드백 보내기,ko-KR
+Fehlerphase,실패 단계,ko-KR
+Fortschritt erzielt,발전 과제 달성,ko-KR
+Fortschritts‐ID,발전 과제 ID,ko-KR
+Frame Rate Samples (fps),프레임률 표본 (fps),ko-KR
+Funzionalità grafiche,그래픽 기능,ko-KR
+Funzionalità mancanti alla creazione della libreria,백엔드 생성 실패 기능 누락,ko-KR
+Game Load Times,게임을 불러오는 데 걸린 시간,ko-KR
+Game Mode,게임 모드,ko-KR
+Game Time (Ticks),게임 시간 (틱),ko-KR
+Game Version,게임 버전,ko-KR
+Gelişim Kimliği,발전 과제 ID,ko-KR
+Gelişim Yapıldı,발전 과제 달성,ko-KR
+Geri Bildirim,피드백 보내기,ko-KR
+Gesamte Ladezeit (Millisekunden),총합 로드 시간 (밀리초),ko-KR
+Gesamte Verbindungszeit (Millisekunden),총 접속 시간 (밀리초),ko-KR
+Giai đoạn gây lỗi,실패 단계,ko-KR
+Give Feedback,피드백 보내기,ko-KR
+Gizlilik Beyanı,개인 정보 처리 방침,ko-KR
+Grafik Özellikleri,그래픽 기능,ko-KR
+Grafikfunktionen,그래픽 기능,ko-KR
+Graphics Capabilities,그래픽 기능,ko-KR
+Görüntü Oluşturma Zamanları,렌더 시간 표본,ko-KR
+Görüş Mesafesi,렌더 거리,ko-KR
+Gửi phản hồi,피드백 보내기,ko-KR
+Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+Hora del evento (UTC),이벤트 시간 기록 (UTC),ko-KR
+Hora do evento (UTC),이벤트 시간 기록 (UTC),ko-KR
+Horodatage de l'événement (UTC),이벤트 시간 기록 (UTC),ko-KR
+Hệ điều hành,운영 체제,ko-KR
+I consent to sending optional telemetry data,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+Ich stimme der Übermittlung optionaler Telemetriedaten zu,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+ID da sessão do Minecraft,Minecraft 세션 ID,ko-KR
+ID da sessão do mundo,세계 세션 ID,ko-KR
+ID da sessão do servidor,서버 세션 ID,ko-KR
+ID de l'utilisateur,사용자 ID,ko-KR
+ID de la session de Minecraft,Minecraft 세션 ID,ko-KR
+ID de la session du monde,세계 세션 ID,ko-KR
+ID de la session du serveur,서버 세션 ID,ko-KR
+ID del client,클라이언트 ID,ko-KR
+ID del progresso,발전 과제 ID,ko-KR
+ID dell'utente,사용자 ID,ko-KR
+ID della sessione del mondo,세계 세션 ID,ko-KR
+ID della sessione del server,서버 세션 ID,ko-KR
+ID della sessione di Minecraft,Minecraft 세션 ID,ko-KR
+ID do cliente,클라이언트 ID,ko-KR
+ID do progresso,발전 과제 ID,ko-KR
+ID do usuário,사용자 ID,ko-KR
+ID du client,클라이언트 ID,ko-KR
+ID du progrès,발전 과제 ID,ko-KR
+ID máy khách,클라이언트 ID,ko-KR
+ID người dùng,사용자 ID,ko-KR
+ID phiên Minecraft,Minecraft 세션 ID,ko-KR
+ID phiên máy chủ,서버 세션 ID,ko-KR
+ID phiên thế giới,세계 세션 ID,ko-KR
+ID tiến trình,발전 과제 ID,ko-KR
+ID ความก้าวหน้า,발전 과제 ID,ko-KR
+ID ผู้ใช้,사용자 ID,ko-KR
+ID เซสชัน Minecraft,Minecraft 세션 ID,ko-KR
+ID เซสชันเซิร์ฟเวอร์,서버 세션 ID,ko-KR
+ID เซสชันโลก,세계 세션 ID,ko-KR
+ID ไคลเอนต์,클라이언트 ID,ko-KR
+Id. de cliente,클라이언트 ID,ko-KR
+Id. de sesión de Minecraft,Minecraft 세션 ID,ko-KR
+Id. de sesión del mundo,세계 세션 ID,ko-KR
+Id. de sesión del servidor,서버 세션 ID,ko-KR
+Id. de usuario,사용자 ID,ko-KR
+Id. del progreso,발전 과제 ID,ko-KR
+"Il est important pour nous de déterminer le temps nécessaire pour rejoindre un monde, et la manière dont cela évolue au fil du temps. Par exemple, lorsque nous ajoutons de nouvelles fonctionnalités ou réalisons d'importants changements techniques, nous avons besoin d'en observer l'impact sur les temps de chargement.","세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+Included Data,포함 데이터,ko-KR
+Info sulla riservatezza,개인 정보 처리 방침,ko-KR
+Initialisierungszeit (Millisekunden),부트스트랩 시간 (밀리초),ko-KR
+Interactive Connectivity Establishment (ICE) Connect Time (Milliseconds),대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Interactive Connectivity Establishment (ICE) Path,대화형 연결 구축 (ICE) 경로,ko-KR
+Interactive Connectivity Establishment（ICE）パス,대화형 연결 구축 (ICE) 경로,ko-KR
+Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Interner Kandidatentyp,로컬 후보 유형,ko-KR
+Invia riscontro,피드백 보내기,ko-KR
+"It's important for us to understand how long it takes to join a world, and how that changes over time. For example, when we add new features or do larger technical changes, we need to see what impact that had on load times.","세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+İstemci Kimliği,클라이언트 ID,ko-KR
+İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+İçerilen Veri,포함 데이터,ko-KR
+İşletim Sistemi,운영 체제,ko-KR
+J'accepte l'envoi de données de télémétrie facultatives,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+Kare Hızı Örnekleri (fps),프레임률 표본 (fps),ko-KR
+Katıl,선택 수집 여부,ko-KR
+Khoảng cách kết xuất,렌더 거리,ko-KR
+"Knowing how players play Minecraft (such as Game Mode, client or server modded, and game version) allows us to focus game updates to improve the areas that players care about most.
+The World Loaded event is paired with the World Unloaded event to calculate how long the play session has lasted.","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+"Knowing the overall performance profile of Minecraft helps us tune and optimize the game for a wide range of machine specifications and operating systems.
+Game version is included to help us compare the performance profile for new versions of Minecraft.","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+Kullanıcı Kimliği,사용자 ID,ko-KR
+Kullanılan Bellek (RAM),랜덤 액세스 메모리 사용량,ko-KR
+Kết nối ngang hàng,피어 투 피어 연결,ko-KR
+Kết nối thành công,연결 성공,ko-KR
+"La raccolta di questi dati ci aiuta a migliorare Minecraft, indicandoci le decisioni più opportune per i giocatori. Inoltre, puoi inviare un riscontro aggiuntivo per aiutarci a migliorare Minecraft ulteriormente.",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+"La recolección de datos nos ayuda a mejorar Minecraft guiándonos hacia direcciones que sean relevantes para nuestros jugadores.
+También puedes enviar sugerencias para ayudarnos a seguir mejorando Minecraft.",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+Launcher Name,런처 이름,ko-KR
+Launcher‐Name,런처 이름,ko-KR
+Leistungsmetriken,성능 측정 결과,ko-KR
+Local Candidate Type,로컬 후보 유형,ko-KR
+Loại máy chủ,서버 유형,ko-KR
+Loại ứng viên cục bộ,로컬 후보 유형,ko-KR
+Loại ứng viên từ xa,원격 후보 유형,ko-KR
+Lý do lỗi tạo Backend,백엔드 생성 실패 사유,ko-KR
+Medición del rendimiento,성능 측정 결과,ko-KR
+Meine Daten einsehen,내 데이터 보기,ko-KR
+Memoria de acceso aleatorio usada (RAM),랜덤 액세스 메모리 사용량,ko-KR
+Memoria dedicada (kB),할당된 메모리 (kB),ko-KR
+Memoria dedicata [kB],할당된 메모리 (kB),ko-KR
+Memória dedicada (kB),할당된 메모리 (kB),ko-KR
+Memória RAM usada,랜덤 액세스 메모리 사용량,ko-KR
+Mensagem de erro ao criar o backend,백엔드 생성 실패 메시지,ko-KR
+Mensaje de error en la creación del backend,백엔드 생성 실패 메시지,ko-KR
+Message d'échec de la création du backend,백엔드 생성 실패 메시지,ko-KR
+Messaggio dell'errore nella creazione della libreria,백엔드 생성 실패 메시지,ko-KR
+Mesures de performances,성능 측정 결과,ko-KR
+Metriche di prestazione,성능 측정 결과,ko-KR
+Minecraft Oturum Kimliği,Minecraft 세션 ID,ko-KR
+Minecraft Session ID,Minecraft 세션 ID,ko-KR
+Minecraft‐Sitzungs‐ID,Minecraft 세션 ID,ko-KR
+"Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+MinecraftのセッションID,Minecraft 세션 ID,ko-KR
+Minecraft会话ID,Minecraft 세션 ID,ko-KR
+"Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+"Misurando il tempo necessario a eseguire le fasi di avvio, quest'evento può aiutarci a capire dove c'è bisogno di migliorie.",이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+Modalità di gioco,게임 모드,ko-KR
+Mode de jeu,게임 모드,ko-KR
+Modifiche del client,클라이언트 모드 여부,ko-KR
+Modifiche del server,서버 모드 여부,ko-KR
+Modlanmış İstemci,클라이언트 모드 여부,ko-KR
+Modlanmış Sunucu,서버 모드 여부,ko-KR
+Modo de jogo,게임 모드,ko-KR
+Modo de juego,게임 모드,ko-KR
+Modが導入されたクライアント,클라이언트 모드 여부,ko-KR
+Modが導入されたサーバー,서버 모드 여부,ko-KR
+Monde chargé,세계를 불러올 때,ko-KR
+Monde déchargé,세계를 떠날 때,ko-KR
+Mondo caricato,세계를 불러올 때,ko-KR
+Mondo scaricato,세계를 떠날 때,ko-KR
+Mostra i miei dati,내 데이터 보기,ko-KR
+Motivo de error en la creación del backend,백엔드 생성 실패 사유,ko-KR
+Motivo dell'errore nella creazione della libreria,백엔드 생성 실패 사유,ko-KR
+Motivo do erro ao criar o backend,백엔드 생성 실패 사유,ko-KR
+Muestras de fotogramas por segundo (FPS),프레임률 표본 (fps),ko-KR
+Muestras de tiempo de renderizado,렌더 시간 표본,ko-KR
+Mundo cargado,세계를 불러올 때,ko-KR
+Mundo Carregado,세계를 불러올 때,ko-KR
+Mundo descargado,세계를 떠날 때,ko-KR
+Mundo Descarregado,세계를 떠날 때,ko-KR
+Mundo nuevo,새로운 세계 여부,ko-KR
+Máy chủ đã sửa đổi,서버 모드 여부,ko-KR
+Máy khách đã sửa đổi,클라이언트 모드 여부,ko-KR
+Mémoire dédiée (Ko),할당된 메모리 (kB),ko-KR
+Mémoire vive utilisée (RAM),랜덤 액세스 메모리 사용량,ko-KR
+Métricas de desempenho,성능 측정 결과,ko-KR
+Mẫu thời gian kết xuất,렌더 시간 표본,ko-KR
+Mẫu tốc độ khung hình (FPS),프레임률 표본 (fps),ko-KR
+Name der Schnittstelle,백엔드 이름,ko-KR
+Neue Welt,새로운 세계 여부,ko-KR
+New World,새로운 세계 여부,ko-KR
+Nom du backend,백엔드 이름,ko-KR
+Nom du Launcher,런처 이름,ko-KR
+Nombre d'échantillons,표본 수,ko-KR
+Nombre del backend,백엔드 이름,ko-KR
+Nombre del lanzador,런처 이름,ko-KR
+Nome del launcher,런처 이름,ko-KR
+Nome del minigioco o contenuto di Realms,Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Nome della libreria grafica,백엔드 이름,ko-KR
+Nome do backend,백엔드 이름,ko-KR
+Nome do launcher,런처 이름,ko-KR
+Nouveau monde ?,새로운 세계 여부,ko-KR
+Novo mundo,새로운 세계 여부,ko-KR
+Numero di campioni,표본 수,ko-KR
+Nuovo mondo,새로운 세계 여부,ko-KR
+Número de muestras,표본 수,ko-KR
+Nền tảng,플랫폼,ko-KR
+Nội dung bản đồ Realms (tên trò chơi nhỏ),Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Olay Tarih Bilgisi (UTC),이벤트 시간 기록 (UTC),ko-KR
+Operating System,운영 체제,ko-KR
+Opt-In,선택 수집 여부,ko-KR
+Orario dell'evento [UTC],이벤트 시간 기록 (UTC),ko-KR
+Oyun Modu,게임 모드,ko-KR
+Oyun Süresi (Birim Zaman),게임 시간 (틱),ko-KR
+Oyun Sürümü,게임 버전,ko-KR
+Oyun Yükleme Süreleri,게임을 불러오는 데 걸린 시간,ko-KR
+"Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+P2P 連線,피어 투 피어 연결,ko-KR
+P2P接続,피어 투 피어 연결,ko-KR
+Participação,선택 수집 여부,ko-KR
+Peer-to-peer Bağlantı,피어 투 피어 연결,ko-KR
+Peer-to-peer Connection,피어 투 피어 연결,ko-KR
+Pencere Açılmadan Önceki Süre (Milisaniye),창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+"Per noi è importante capire il tempo necessario per entrare in un mondo e come questo dato può cambiare. Ad esempio, quando aggiungiamo nuove funzionalità o apportiamo modifiche tecniche significative, ci serve sapere in che modo ciò incide sui tempi di caricamento.","세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+Percorso dello stabilimento di connettività interattiva (SCI),대화형 연결 구축 (ICE) 경로,ko-KR
+Performance Metrics,성능 측정 결과,ko-KR
+Performans Ölçümleri,성능 측정 결과,ko-KR
+Permito enviar mis datos de telemetría opcionales,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+Phase de l'échec,실패 단계,ko-KR
+Phiên bản trò chơi,게임 버전,ko-KR
+Piattaforma,플랫폼,ko-KR
+Plataforma,플랫폼,ko-KR
+Plateforme,플랫폼,ko-KR
+Platform,플랫폼,ko-KR
+Plattform,플랫폼,ko-KR
+Privacy Statement,개인 정보 처리 방침,ko-KR
+Progreso realizado,발전 과제 달성,ko-KR
+Progresso compiuto,발전 과제 달성,ko-KR
+Progressos feitos,발전 과제 달성,ko-KR
+Progrès réalisés,발전 과제 달성,ko-KR
+"Quest'evento viene usato insieme a «Mondo caricato» per calcolare la durata della sessione del mondo. La durata (in secondi e in tick) viene misurata al termine della sessione di un mondo, cioè quando si torna al menù principale o ci si disconnette da un server.","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+"Questo evento ci aiuta a capire l'affidabilità e le prestazioni delle connessioni a rete paritaria tra giocatori. Registra l'esito della connessione, il tipo di candidato usato per lo stabilimento di connettività interattiva (SCI, o ICE in inglese, il protocollo che usiamo per le connessioni a rete paritaria) e il tempo richiesto per stabilire la connessione.","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+Questo evento ci comunica le capacità del dispositivo grafico in uso durante la partita.,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+Raccolta dei dati di telemetria,원격 측정 데이터 수집,ko-KR
+Raison de l'échec de la création du backend,백엔드 생성 실패 사유,ko-KR
+RAM ที่ใช้,랜덤 액세스 메모리 사용량,ko-KR
+Realms Harita İçeriği (Mini Oyun Adı),Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Realms Map Content (Minigame Name),Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Realms 地圖內容（小遊戲名稱）,Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Realms‐Weltinhalt (Name des Minispiels),Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Realmsのマップコンテンツ（ミニゲームの名前）,Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Realm地图内容（小游戏名称）,Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Recolección de datos de telemetría,원격 측정 데이터 수집,ko-KR
+Remote Candidate Type,원격 후보 유형,ko-KR
+Render Distance,렌더 거리,ko-KR
+Render Time Samples,렌더 시간 표본,ko-KR
+Route des interaktiven Verbindungsaufbaus (ICE),대화형 연결 구축 (ICE) 경로,ko-KR
+Ruta de tipo de conectividad interactiva (ICE),대화형 연결 구축 (ICE) 경로,ko-KR
+"Saber como os jogadores jogam Minecraft (como o modo de jogo, modificações de cliente ou servidor e a versão do jogo) nos permite melhorar as áreas mais interessantes aos jogadores.
+O evento Mundo Carregado é sincronizado com o Mundo Descarregado para calcular a duração da sessão de jogo.","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+"Saber cómo juegan los jugadores a Minecraft (qué modo de juego, cliente o servidor modificado y versión del juego usan) nos ayuda a mejorar los aspectos que más le importan a los jugadores.
+El evento «Mundo cargado» está unido al de «Mundo descargado» para calcular cuánto ha durado la sesión de juego.","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+Sample Count,표본 수,ko-KR
+Sapere come i giocatori giocano a Minecraft (per esempio la modalità e la versione di gioco o client e server modificati) ci consente di focalizzare gli aggiornamenti del gioco al fine di migliorare le aree a cui i giocatori tengono di più. L'evento «Mondo caricato» è usato insieme a «Mondo scaricato» per calcolare la durata delle sessioni di gioco.,"플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+Server Modded,서버 모드 여부,ko-KR
+Server modifiziert,서버 모드 여부,ko-KR
+Server Session ID,서버 세션 ID,ko-KR
+Server Type,서버 유형,ko-KR
+Servertyp,서버 유형,ko-KR
+Server‐Sitzungs‐ID,서버 세션 ID,ko-KR
+Serveur moddé ?,서버 모드 여부,ko-KR
+Servidor modificado,서버 모드 여부,ko-KR
+Sichtweite,렌더 거리,ko-KR
+Signalaufbauzeit (Millisekunden),시그널링 연결 시간 (밀리초),ko-KR
+Signaling Connection Time (Milliseconds),시그널링 연결 시간 (밀리초),ko-KR
+Sistema operacional,운영 체제,ko-KR
+Sistema operativo,운영 체제,ko-KR
+Spielladezeiten,게임을 불러오는 데 걸린 시간,ko-KR
+Spielmodus,게임 모드,ko-KR
+Spielversion,게임 버전,ko-KR
+Spielzeit (Ticks),게임 시간 (틱),ko-KR
+Sunucu Oturum Kimliği,서버 세션 ID,ko-KR
+Sunucu Türü,서버 유형,ko-KR
+Système d'exploitation,운영 체제,ko-KR
+Số liệu hiệu suất,성능 측정 결과,ko-KR
+Số lượng mẫu,표본 수,ko-KR
+Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+"Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+Telemetrie‐Datenerhebung,원격 측정 데이터 수집,ko-KR
+Telemetry Data Collection,원격 측정 데이터 수집,ko-KR
+Tempi di caricamento del gioco,게임을 불러오는 데 걸린 시간,ko-KR
+Tempo antes da abertura da janela (milissegundos),창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+Tempo dal caricamento del mondo [s],실행된 시간 (초),ko-KR
+Tempo dal caricamento del mondo [t],실행된 시간 (틱),ko-KR
+Tempo de carregamento de mundos,세계를 불러오는 데 걸린 시간,ko-KR
+Tempo de carregamento do mundo (milissegundos),세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+Tempo de carregamento total (milissegundos),총합 로드 시간 (밀리초),ko-KR
+Tempo de conexão (milissegundos) do Interactive Connectivity Establishment (ICE),대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Tempo de conexão da sinalização (milissegundos),시그널링 연결 시간 (밀리초),ko-KR
+Tempo de conexão total (milissegundos),총 접속 시간 (밀리초),ko-KR
+Tempo de inicialização (milissegundos),부트스트랩 시간 (밀리초),ko-KR
+Tempo de jogo (tiques),게임 시간 (틱),ko-KR
+Tempo desde carregamento (tiques),실행된 시간 (틱),ko-KR
+Tempo desde o carregamento (segundos),실행된 시간 (초),ko-KR
+Tempo di avvio [ms],부트스트랩 시간 (밀리초),ko-KR
+Tempo di caricamento dei mondi,세계를 불러오는 데 걸린 시간,ko-KR
+Tempo di caricamento del mondo [ms],세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+Tempo di connessione dello SCI [ms],대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Tempo di connessione di segnalamento [ms],시그널링 연결 시간 (밀리초),ko-KR
+Tempo di gioco [t],게임 시간 (틱),ko-KR
+Tempo na tela de carregamento (milissegundos),로딩 화면에 있던 시간 (밀리초),ko-KR
+Tempo nella schermata di caricamento [ms],로딩 화면에 있던 시간 (밀리초),ko-KR
+Tempo prima dell'apertura della finestra [ms],창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+Tempo totale di caricamento [ms],총합 로드 시간 (밀리초),ko-KR
+Tempo totale di connessione [ms],총 접속 시간 (밀리초),ko-KR
+Tempos de carregamento do jogo,게임을 불러오는 데 걸린 시간,ko-KR
+Temps avant l'ouverture de la fenêtre (en millisecondes),창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+Temps de chargement des mondes,세계를 불러오는 데 걸린 시간,ko-KR
+Temps de chargement du jeu,게임을 불러오는 데 걸린 시간,ko-KR
+Temps de chargement du monde (en millisecondes),세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+Temps de connexion de l'établissement de connectivité interactive (ICE) (en millisecondes),대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Temps de connexion de la signalisation (en millisecondes),시그널링 연결 시간 (밀리초),ko-KR
+Temps de démarrage (en millisecondes),부트스트랩 시간 (밀리초),ko-KR
+Temps de l'écran de chargement (en millisecondes),로딩 화면에 있던 시간 (밀리초),ko-KR
+Temps depuis le chargement (en secondes),실행된 시간 (초),ko-KR
+Temps depuis le chargement (en ticks),실행된 시간 (틱),ko-KR
+Temps en jeu (en ticks),게임 시간 (틱),ko-KR
+Temps total de chargement (en millisecondes),총합 로드 시간 (밀리초),ko-KR
+Temps total de connexion (en millisecondes),총 접속 시간 (밀리초),ko-KR
+This event can help us figure out where startup performance improvements are needed by measuring the execution times of the startup phases.,이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+"This event helps us understand the reliability and performance of peer-to-peer connections between players. It records whether the connection was successful, the type of Interactive Connectivity Establishment (ICE, the protocol we use to establish peer-to-peer connections) candidate used, and how long it took to establish the connection.","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+This event informs us of the capabilities of the graphics device used to play the game.,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+"This event is paired with the World Loaded event to calculate how long the world session has lasted.
+The duration (in seconds and ticks) is measured when a world session has ended (quitting to title, disconnecting from a server).","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+Thu thập dữ liệu đo từ xa,원격 측정 데이터 수집,ko-KR
+Thông tin lỗi tạo Backend,백엔드 생성 실패 메시지,ko-KR
+Thế giới chưa nạp,세계를 떠날 때,ko-KR
+Thế giới mới,새로운 세계 여부,ko-KR
+Thế giới đã nạp,세계를 불러올 때,ko-KR
+Thời gian khởi tạo trò chơi (miligiây),부트스트랩 시간 (밀리초),ko-KR
+Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Thời gian kết nối tín hiệu (Miligiây),시그널링 연결 시간 (밀리초),ko-KR
+Thời gian nạp thế giới,세계를 불러오는 데 걸린 시간,ko-KR
+Thời gian nạp thế giới (Miligiây),세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+Thời gian nạp trò chơi,게임을 불러오는 데 걸린 시간,ko-KR
+Thời gian trong màn hình nạp (miligiây),로딩 화면에 있던 시간 (밀리초),ko-KR
+Thời gian trong trò chơi (nhịp),게임 시간 (틱),ko-KR
+Thời gian trước khi cửa sổ mở (miligiây),창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+Thời gian từ khi nạp (Giây),실행된 시간 (초),ko-KR
+Thời gian từ khi nạp (Nhịp),실행된 시간 (틱),ko-KR
+Tiempo antes de que la ventana se abra (milisegundos),창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+Tiempo de carga del mundo (en milisegundos),세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+Tiempo de conexión de conectividad interactiva (ICE) (ms),대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Tiempo de conexión de señalización (ms),시그널링 연결 시간 (밀리초),ko-KR
+Tiempo de conexión total (ms),총 접속 시간 (밀리초),ko-KR
+Tiempo de inicio (milisegundos),부트스트랩 시간 (밀리초),ko-KR
+Tiempo de juego (tics),게임 시간 (틱),ko-KR
+Tiempo desde que se cargó (en segundos),실행된 시간 (초),ko-KR
+Tiempo desde que se cargó (en tics),실행된 시간 (틱),ko-KR
+Tiempo en pantalla de carga (milisegundos),로딩 화면에 있던 시간 (밀리초),ko-KR
+Tiempo total de carga (milisegundos),총합 로드 시간 (밀리초),ko-KR
+Tiempos de carga del juego,게임을 불러오는 데 걸린 시간,ko-KR
+Tiempos de carga del mundo,세계를 불러오는 데 걸린 시간,ko-KR
+Time Before Window Opens (Milliseconds),창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+Time in Loading Screen (Milliseconds),로딩 화면에 있던 시간 (밀리초),ko-KR
+Time Since Load (Seconds),실행된 시간 (초),ko-KR
+Time Since Load (Ticks),실행된 시간 (틱),ko-KR
+Tipo de candidato local,로컬 후보 유형,ko-KR
+Tipo de candidato remoto,원격 후보 유형,ko-KR
+Tipo de servidor,서버 유형,ko-KR
+Tipo di candidato locale,로컬 후보 유형,ko-KR
+Tipo di candidato remoto,원격 후보 유형,ko-KR
+Tipo di server,서버 유형,ko-KR
+Tiến trình đã làm,발전 과제 달성,ko-KR
+Toplam Bağlanma Süresi (Milisaniye),총 접속 시간 (밀리초),ko-KR
+Toplam Yükleme Süresi (Milisaniye),총합 로드 시간 (밀리초),ko-KR
+Total Connection Time (Milliseconds),총 접속 시간 (밀리초),ko-KR
+Total Load Time (Milliseconds),총합 로드 시간 (밀리초),ko-KR
+Tuyên bố về quyền riêng tư,개인 정보 처리 방침,ko-KR
+Type de candidat distant,원격 후보 유형,ko-KR
+Type de candidat local,로컬 후보 유형,ko-KR
+Type de serveur,서버 유형,ko-KR
+Tên Backend,백엔드 이름,ko-KR
+Tên trình khởi động,런처 이름,ko-KR
+Tính năng bị thiếu gây lỗi tạo Backend,백엔드 생성 실패 기능 누락,ko-KR
+Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+Tương thích đồ họa,그래픽 기능,ko-KR
+Tổng thời gian kết nối (Miligiây),총 접속 시간 (밀리초),ko-KR
+Tổng thời gian nạp (Miligiây),총합 로드 시간 (밀리초),ko-KR
+Understanding the context behind receiving an advancement can help us better understand and improve the progression of the game.,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+Used Random Access Memory,랜덤 액세스 메모리 사용량,ko-KR
+User ID,사용자 ID,ko-KR
+Utilizzo della memoria (RAM),랜덤 액세스 메모리 사용량,ko-KR
+Uzak Aday Tipi,원격 후보 유형,ko-KR
+Ver meus dados,내 데이터 보기,ko-KR
+Ver mis datos,내 데이터 보기,ko-KR
+Verbindungserfolg,연결 성공,ko-KR
+Verilerimi Görüntüle,내 데이터 보기,ko-KR
+Version du jeu,게임 버전,ko-KR
+Versione del gioco,게임 버전,ko-KR
+Versión del juego,게임 버전,ko-KR
+Versão do jogo,게임 버전,ko-KR
+Verwendeter Arbeitsspeicher,랜덤 액세스 메모리 사용량,ko-KR
+View My Data,내 데이터 보기,ko-KR
+Visibilità,렌더 거리,ko-KR
+"Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+"Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+"Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+Voir mes données,내 데이터 보기,ko-KR
+Welt entladen,세계를 떠날 때,ko-KR
+Welt geladen,세계를 불러올 때,ko-KR
+Weltladezeit (Millisekunden),세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+Weltladezeiten,세계를 불러오는 데 걸린 시간,ko-KR
+Welt‐Sitzungs‐ID,세계 세션 ID,ko-KR
+World Load Time (Milliseconds),세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+World Load Times,세계를 불러오는 데 걸린 시간,ko-KR
+World Loaded,세계를 불러올 때,ko-KR
+World Session ID,세계 세션 ID,ko-KR
+World Unloaded,세계를 떠날 때,ko-KR
+Xem dữ liệu của tôi,내 데이터 보기,ko-KR
+Yeni Dünya,새로운 세계 여부,ko-KR
+Yerel Aday Tipi,로컬 후보 유형,ko-KR
+Yükleme Ekranında Geçen Süre (Milisaniye),로딩 화면에 있던 시간 (밀리초),ko-KR
+Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),실행된 시간 (틱),ko-KR
+Yüklemeden Bu Yana Geçen Zaman (Saniye),실행된 시간 (초),ko-KR
+Zeit im Ladebildschirm (Millisekunden),로딩 화면에 있던 시간 (밀리초),ko-KR
+Zeit seit dem Laden (Sekunden),실행된 시간 (초),ko-KR
+Zeit seit dem Laden (Ticks),실행된 시간 (틱),ko-KR
+"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+Zeitpunkt des Ereignisses (koordinierte Weltzeit),이벤트 시간 기록 (UTC),ko-KR
+"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+"Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+Zugewiesener Arbeitsspeicher (KB),할당된 메모리 (kB),ko-KR
+"É importante entendermos o tempo necessário para entrar num mundo e como isso muda ao longo do tempo. Por exemplo, ao adicionar novos recursos ou fazer mudanças técnicas maiores, precisamos observar o impacto nos tempos de carregamento.","세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+Échantillons d'images par seconde (FPS),프레임률 표본 (fps),ko-KR
+Échantillons du temps de rendu,렌더 시간 표본,ko-KR
+Ölçüm Verileri Toplama,원격 측정 데이터 수집,ko-KR
+Önyükleme Süresi (Milisaniye),부트스트랩 시간 (밀리초),ko-KR
+Örnek Sayısı,표본 수,ko-KR
+"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.","세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+Đường dẫn thiết lập kết nối tương tác (ICE),대화형 연결 구축 (ICE) 경로,ko-KR
+"В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+Величина выборки,표본 수,ko-KR
+Версия игры,게임 버전,ko-KR
+Включённые данные,포함 데이터,ko-KR
+Возможности графического устройства,그래픽 기능,ko-KR
+Временная метка (UTC),이벤트 시간 기록 (UTC),ko-KR
+Время до открытия окна (миллисекунды),창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+Время загрузки игры,게임을 불러오는 데 걸린 시간,ko-KR
+Время загрузки мира,세계를 불러오는 데 걸린 시간,ko-KR
+Время загрузки мира (миллисекунды),세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+Время игры (такты),게임 시간 (틱),ko-KR
+Время инициализации (миллисекунды),부트스트랩 시간 (밀리초),ko-KR
+Время на экране загрузки (миллисекунды),로딩 화면에 있던 시간 (밀리초),ko-KR
+Время с загрузки (секунды),실행된 시간 (초),ko-KR
+Время с загрузки (такты),실행된 시간 (틱),ko-KR
+Время установления интерактивного соединения (ICE) (миллисекунды),대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+Время установления соединения (миллисекунды),시그널링 연결 시간 (밀리초),ko-KR
+Выборка времени кадра,렌더 시간 표본,ko-KR
+Выборка частоты кадров (FPS),프레임률 표본 (fps),ko-KR
+Выгрузка мира,세계를 떠날 때,ko-KR
+Выделенная память (Кбайт),할당된 메모리 (kB),ko-KR
+Дальность прорисовки,렌더 거리,ko-KR
+Загрузка мира,세계를 불러올 때,ko-KR
+Заявление о конфиденциальности,개인 정보 처리 방침,ko-KR
+"Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+"Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+Идентификатор достижения,발전 과제 ID,ko-KR
+Идентификатор клиента,클라이언트 ID,ko-KR
+Идентификатор пользователя,사용자 ID,ko-KR
+Идентификатор сессии Minecraft,Minecraft 세션 ID,ko-KR
+Идентификатор сессии мира,세계 세션 ID,ko-KR
+Идентификатор сессии сервера,서버 세션 ID,ko-KR
+Использование ОЗУ,랜덤 액세스 메모리 사용량,ko-KR
+Карта Realms (название мини-игры),Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+Маршрут установления интерактивного соединения (ICE),대화형 연결 구축 (ICE) 경로,ko-KR
+Модифицированность клиента,클라이언트 모드 여부,ko-KR
+Модифицированность сервера,서버 모드 여부,ko-KR
+Мои данные,내 데이터 보기,ko-KR
+Название графического API,백엔드 이름,ko-KR
+Название лаунчера,런처 이름,ko-KR
+"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.","세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+Новое достижение,발전 과제 달성,ko-KR
+Новый мир,새로운 세계 여부,ko-KR
+Общее время загрузки (миллисекунды),총합 로드 시간 (밀리초),ko-KR
+Общее время подключения (миллисекунды),총 접속 시간 (밀리초),ko-KR
+Одноранговое соединение,피어 투 피어 연결,ko-KR
+Операционная система,운영 체제,ko-KR
+Оставить отзыв,피드백 보내기,ko-KR
+Ошибка инициализации графического API: отсутствующие возможности,백엔드 생성 실패 기능 누락,ko-KR
+Ошибка инициализации графического API: подробности,백엔드 생성 실패 메시지,ko-KR
+Ошибка инициализации графического API: причина,백엔드 생성 실패 사유,ko-KR
+Платформа,플랫폼,ko-KR
+Показатели производительности,성능 측정 결과,ko-KR
+Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+Режим игры,게임 모드,ko-KR
+Сбор данных телеметрии,원격 측정 데이터 수집,ko-KR
+"Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+Согласие на отправку,선택 수집 여부,ko-KR
+Тип локального кандидата,로컬 후보 유형,ko-KR
+Тип сервера,서버 유형,ko-KR
+Тип удалённого кандидата,원격 후보 유형,ko-KR
+Успешность подключения,연결 성공,ko-KR
+Этап отказа,실패 단계,ko-KR
+"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+Это событие сообщает о возможностях используемого графического устройства.,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+Я даю согласие на отправку дополнительных телеметрических данных,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+กลุ่มตัวอย่างอัตราเฟรม (FPS),프레임률 표본 (fps),ko-KR
+กลุ่มตัวอย่างเวลาเร็นเดอร์,렌더 시간 표본,ko-KR
+"การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+การทำความก้าวหน้า,발전 과제 달성,ko-KR
+การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,원격 측정 데이터 수집,ko-KR
+"การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+"การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+การเชื่อมต่อสำเร็จ,연결 성공,ko-KR
+การเชื่อมต่อแบบเพียร์ทูเพียร์,피어 투 피어 연결,ko-KR
+ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,백엔드 생성 실패 메시지,ko-KR
+ข้อมูลที่รวมอยู่ด้วย,포함 데이터,ko-KR
+ความยินยอมเข้าร่วม,선택 수집 여부,ko-KR
+ความสามารถของกราฟิก,그래픽 기능,ko-KR
+ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,백엔드 생성 실패 기능 누락,ko-KR
+คำชี้แจงสิทธิ์ส่วนบุคคล,개인 정보 처리 방침,ko-KR
+จำนวนกลุ่มตัวอย่าง,표본 수,ko-KR
+ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+ชื่อลันเชอร์,런처 이름,ko-KR
+ชื่อแบ็กเอนด์,백엔드 이름,ko-KR
+ดูข้อมูลของฉัน,내 데이터 보기,ko-KR
+ประทับเวลาเหตุการณ์ (UTC),이벤트 시간 기록 (UTC),ko-KR
+ประเภทตัวเลือกท้องถิ่น,로컬 후보 유형,ko-KR
+ประเภทตัวเลือกระยะไกล,원격 후보 유형,ko-KR
+ประเภทเซิร์ฟเวอร์,서버 유형,ko-KR
+ระบบปฏิบัติการ,운영 체제,ko-KR
+ระยะการมองเห็น,렌더 거리,ko-KR
+ระยะการล้มเหลว,실패 단계,ko-KR
+หน่วยความจำเฉพาะ (kB),할당된 메모리 (kB),ko-KR
+เซิร์ฟเวอร์มีการดัดแปร,서버 모드 여부,ko-KR
+เนื้อหาแมป Realms (ชื่อมินิเกม),Realms 맵 콘텐츠 (미니게임 이름),ko-KR
+เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+เมตริกประสิทธิภาพ,성능 측정 결과,ko-KR
+เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+เวลาตั้งแต่โหลด (ติ๊ก),실행된 시간 (틱),ko-KR
+เวลาตั้งแต่โหลด (วินาที),실행된 시간 (초),ko-KR
+เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),총 접속 시간 (밀리초),ko-KR
+เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),시그널링 연결 시간 (밀리초),ko-KR
+เวลาเกม (ติ๊ก),게임 시간 (틱),ko-KR
+เวลาเริ่มต้นระบบ (มิลลิวินาที),부트스트랩 시간 (밀리초),ko-KR
+เวลาโหลดทั้งหมด (มิลลิวินาที),총합 로드 시간 (밀리초),ko-KR
+เวลาโหลดเกม,게임을 불러오는 데 걸린 시간,ko-KR
+เวลาโหลดโลก,세계를 불러오는 데 걸린 시간,ko-KR
+เวลาโหลดโลก (มิลลิวินาที),세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),로딩 화면에 있던 시간 (밀리초),ko-KR
+เวอร์ชันเกม,게임 버전,ko-KR
+เส้นทาง Interactive Connectivity Establishment (ICE),대화형 연결 구축 (ICE) 경로,ko-KR
+"เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ","이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,백엔드 생성 실패 사유,ko-KR
+แพลตฟอร์ม,플랫폼,ko-KR
+โลกโหลด,세계를 불러올 때,ko-KR
+โลกใหม่,새로운 세계 여부,ko-KR
+โลกไม่โหลด,세계를 떠날 때,ko-KR
+โหมดเกม,게임 모드,ko-KR
+ให้ข้อเสนอแนะ,피드백 보내기,ko-KR
+ไคลเอนต์มีการดัดแปร,클라이언트 모드 여부,ko-KR
+このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+"このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+"これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+イベントの時刻（UTC）,이벤트 시간 기록 (UTC),ko-KR
+ウィンドウが開くまでの時間（ミリ秒）,창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+オプトイン,선택 수집 여부,ko-KR
+オペレーティングシステム,운영 체제,ko-KR
+クライアントID,클라이언트 ID,ko-KR
+グラフィック性能,그래픽 기능,ko-KR
+ゲームのバージョン,게임 버전,ko-KR
+ゲームの読み込み時間,게임을 불러오는 데 걸린 시간,ko-KR
+ゲームモード,게임 모드,ko-KR
+ゲーム内時間（ティック）,게임 시간 (틱),ko-KR
+サンプリング数,표본 수,ko-KR
+サーバーのセッションID,서버 세션 ID,ko-KR
+サーバーの種類,서버 유형,ko-KR
+シグナリング接続時間（ミリ秒）,시그널링 연결 시간 (밀리초),ko-KR
+データの遠隔収集,원격 측정 데이터 수집,ko-KR
+バックエンド作成失敗の原因,백엔드 생성 실패 사유,ko-KR
+バックエンド作成失敗時のメッセージ,백엔드 생성 실패 메시지,ko-KR
+バックエンド作成失敗時の不足していた性能情報,백엔드 생성 실패 기능 누락,ko-KR
+バックエンド名,백엔드 이름,ko-KR
+パフォーマンス測定,성능 측정 결과,ko-KR
+フィードバックを送信,피드백 보내기,ko-KR
+フレームレートのサンプル（FPS）,프레임률 표본 (fps),ko-KR
+プライバシーに関する声明,개인 정보 처리 방침,ko-KR
+プラットフォーム,플랫폼,ko-KR
+"プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+ユーザーID,사용자 ID,ko-KR
+ランチャー名,런처 이름,ko-KR
+リモート候補タイプ,원격 후보 유형,ko-KR
+ローカル候補タイプ,로컬 후보 유형,ko-KR
+ワールドのセッションID,세계 세션 ID,ko-KR
+ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+ワールドの読み込み時間（ミリ秒）,세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+ワールドアンロード,세계를 떠날 때,ko-KR
+ワールドロード,세계를 불러올 때,ko-KR
+ワールド読み込み時間,세계를 불러오는 데 걸린 시간,ko-KR
+专用内存（kB）,할당된 메모리 (kB),ko-KR
+世界 Session ID,세계 세션 ID,ko-KR
+世界会话ID,세계 세션 ID,ko-KR
+世界加载,세계를 불러올 때,ko-KR
+世界加载时间,세계를 불러오는 데 걸린 시간,ko-KR
+世界加载时间（毫秒）,세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+世界卸載,세계를 떠날 때,ko-KR
+世界卸载,세계를 떠날 때,ko-KR
+世界載入,세계를 불러올 때,ko-KR
+世界載入時間,세계를 불러오는 데 걸린 시간,ko-KR
+世界載入時間（毫秒）,세계를 불러오는 데 걸린 시간 (밀리초),ko-KR
+"了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+"了解Minecraft的整体性能概况，可以帮助我们针对各种机型和操作系统调整与优化游戏。 
+游戏版本信息也包含在其中，以帮助我们比较Minecraft新版本的性能概况。","Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.",ko-KR
+"了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+"了解玩家玩Minecraft时的细节（例如游戏模式、客户端或服务端是否被修改，以及游戏版本）有助于我们在游戏更新时注重改进玩家最关心的部分。
+世界加载事件将同世界卸载事件一起用于计算游戏会话的持续时长。","플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.",ko-KR
+了解达成进度前后发生的事情有助于我们更好了解及改进游戏流程。,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+事件时间戳（UTC）,이벤트 시간 기록 (UTC),ko-KR
+事件時間戳記（UTC）,이벤트 시간 기록 (UTC),ko-KR
+互動式連線建立 (ICE) 路徑,대화형 연결 구축 (ICE) 경로,ko-KR
+互動式連線建立 (ICE) 連線時間（毫秒）,대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+交互式连接建立（ICE）路径,대화형 연결 구축 (ICE) 경로,ko-KR
+交互式连接建立（ICE）连接时间（毫秒）,대화형 연결 구축 (ICE) 연결 시간 (밀리초),ko-KR
+任意の遠隔測定データを送信することに同意する,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+伺服器 Session ID,서버 세션 ID,ko-KR
+伺服器是否為原版,서버 모드 여부,ko-KR
+伺服器類型,서버 유형,ko-KR
+作業系統,운영 체제,ko-KR
+使用されたランダムアクセスメモリ,랜덤 액세스 메모리 사용량,ko-KR
+使用的記憶體,랜덤 액세스 메모리 사용량,ko-KR
+使用者 ID,사용자 ID,ko-KR
+信令连接时间（毫秒）,시그널링 연결 시간 (밀리초),ko-KR
+信令連線時間（毫秒）,시그널링 연결 시간 (밀리초),ko-KR
+加载屏幕显示时间（毫秒）,로딩 화면에 있던 시간 (밀리초),ko-KR
+包含的数据,포함 데이터,ko-KR
+包含的資料,포함 데이터,ko-KR
+可选择加入,선택 수집 여부,ko-KR
+可選擇加入,선택 수집 여부,ko-KR
+后端创建失败原因,백엔드 생성 실패 사유,ko-KR
+后端创建失败消息,백엔드 생성 실패 메시지,ko-KR
+后端创建失败缺失功能,백엔드 생성 실패 기능 누락,ko-KR
+后端名称,백엔드 이름,ko-KR
+含まれるデータ,포함 데이터,ko-KR
+启动器名称,런처 이름,ko-KR
+启动引导时间（毫秒）,부트스트랩 시간 (밀리초),ko-KR
+啟動器名稱,런처 이름,ko-KR
+啟動引導時間（毫秒）,부트스트랩 시간 (밀리초),ko-KR
+图形功能,그래픽 기능,ko-KR
+圖形功能,그래픽 기능,ko-KR
+失敗の起きた段階,실패 단계,ko-KR
+失敗階段,실패 단계,ko-KR
+失败阶段,실패 단계,ko-KR
+客户端ID,클라이언트 ID,ko-KR
+客户端是否被修改,클라이언트 모드 여부,ko-KR
+对我们而言，了解加入世界所需的时长，以及这一时长随着时间推移会如何变化是很重要的。比如，当我们加入新功能或进行较大的技术更改时，我们需要知道这对加载时间有何影响。,"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+専用メモリ（kB）,할당된 메모리 (kB),ko-KR
+專屬記憶體（kB）,할당된 메모리 (kB),ko-KR
+對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ko-KR
+已使用的内存,랜덤 액세스 메모리 사용량,ko-KR
+帧率样本（FPS）,프레임률 표본 (fps),ko-KR
+平台,플랫폼,ko-KR
+後端名稱,백엔드 이름,ko-KR
+後端建立失敗原因,백엔드 생성 실패 사유,ko-KR
+後端建立失敗缺少功能,백엔드 생성 실패 기능 누락,ko-KR
+後端建立失敗訊息,백엔드 생성 실패 메시지,ko-KR
+性能指标,성능 측정 결과,ko-KR
+总计加载时间（毫秒）,총합 로드 시간 (밀리초),ko-KR
+总计连接时间（毫秒）,총 접속 시간 (밀리초),ko-KR
+我同意傳送可選的遙測資料,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+我同意发送可选的遥测数据,선택적 원격 측정 데이터 전송에 동의합니다,ko-KR
+打开我的数据,내 데이터 보기,ko-KR
+接続の成功の是非,연결 성공,ko-KR
+描画所要時間のサンプル,렌더 시간 표본,ko-KR
+描画距離,렌더 거리,ko-KR
+提供反馈,피드백 보내기,ko-KR
+提供意見回饋,피드백 보내기,ko-KR
+操作系统,운영 체제,ko-KR
+"收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+"收集这些数据可以让我们了解与玩家有关的实际情况，以便帮助我们改进Minecraft。
+你也可以发送其他反馈来帮助我们持续改进Minecraft。",이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,ko-KR
+效能指標,성능 측정 결과,ko-KR
+新規ワールド,새로운 세계 여부,ko-KR
+是否为新的世界,새로운 세계 여부,ko-KR
+是否為新的世界,새로운 세계 여부,ko-KR
+服务器会话ID,서버 세션 ID,ko-KR
+服务器类型,서버 유형,ko-KR
+服务端是否被修改,서버 모드 여부,ko-KR
+本地候选类型,로컬 후보 유형,ko-KR
+本機候選類型,로컬 후보 유형,ko-KR
+样本数,표본 수,ko-KR
+樣本數量,표본 수,ko-KR
+"此事件与世界加载事件用于计算世界会话的持续时间。
+持续时间（以秒和刻为单位）在世界会话结束时（退回到标题屏幕，或从服务器断开连接）测量。","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+此事件会测量游戏启动各个阶段的时长以帮助我们找到游戏启动的性能优化点。,이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+此事件告知我们运行游戏所使用的图形设备的功能信息。,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+此事件有助于我们了解玩家之间点对点连接的可靠性和性能情况。事件将记录连接是否成功、所使用的交互式连接建立（ICE，即我们用于建立点对点连接的协议）候选类型，以及建立连接所花费的时间。,"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+"此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。","이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.",ko-KR
+此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,ko-KR
+渲染用时样本,렌더 시간 표본,ko-KR
+渲染距离,렌더 거리,ko-KR
+游戏加载时间,게임을 불러오는 데 걸린 시간,ko-KR
+游戏时间（刻）,게임 시간 (틱),ko-KR
+游戏模式,게임 모드,ko-KR
+游戏版本,게임 버전,ko-KR
+点对点连接,피어 투 피어 연결,ko-KR
+用戶端 ID,클라이언트 ID,ko-KR
+用戶端是否為原版,클라이언트 모드 여부,ko-KR
+用户ID,사용자 ID,ko-KR
+畫面更新率樣本（FPS）,프레임률 표본 (fps),ko-KR
+窗口开启前时间（毫秒）,창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+総接続時間（ミリ秒）,총 접속 시간 (밀리초),ko-KR
+総読み込み時間（ミリ秒）,총합 로드 시간 (밀리초),ko-KR
+總載入時間（毫秒）,총합 로드 시간 (밀리초),ko-KR
+總連線時間（毫秒）,총 접속 시간 (밀리초),ko-KR
+繪製時間樣本,렌더 시간 표본,ko-KR
+自分のデータを確認する,내 데이터 보기,ko-KR
+自加载后的时间（刻）,실행된 시간 (틱),ko-KR
+自加载后的时间（秒）,실행된 시간 (초),ko-KR
+自載入後的時間（刻）,실행된 시간 (틱),ko-KR
+自載入後的時間（秒）,실행된 시간 (초),ko-KR
+視窗開啟前時間（毫秒）,창이 켜지기까지 걸린 시간 (밀리초),ko-KR
+読み込みからの時間（ティック）,실행된 시간 (틱),ko-KR
+読み込みからの時間（秒）,실행된 시간 (초),ko-KR
+読み込み画面の所要時間（ミリ秒）,로딩 화면에 있던 시간 (밀리초),ko-KR
+起動所要時間（ミリ秒）,부트스트랩 시간 (밀리초),ko-KR
+載入畫面顯示時間（毫秒）,로딩 화면에 있던 시간 (밀리초),ko-KR
+达成进度,발전 과제 달성,ko-KR
+进度ID,발전 과제 ID,ko-KR
+远程候选类型,원격 후보 유형,ko-KR
+连接成功,연결 성공,ko-KR
+這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,ko-KR
+這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",ko-KR
+連線成功,연결 성공,ko-KR
+進度 ID,발전 과제 ID,ko-KR
+進捗ID,발전 과제 ID,ko-KR
+進捗の達成に関するデータ,발전 과제 달성,ko-KR
+進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,ko-KR
+遊戲時間（刻）,게임 시간 (틱),ko-KR
+遊戲模式,게임 모드,ko-KR
+遊戲版本,게임 버전,ko-KR
+遊戲載入時間,게임을 불러오는 데 걸린 시간,ko-KR
+達成進度,발전 과제 달성,ko-KR
+遙測資料收集,원격 측정 데이터 수집,ko-KR
+遠端候選類型,원격 후보 유형,ko-KR
+遥测数据收集,원격 측정 데이터 수집,ko-KR
+開啟我的統計資料,내 데이터 보기,ko-KR
+隐私声明,개인 정보 처리 방침,ko-KR
+隱私權聲明,개인 정보 처리 방침,ko-KR
+顯示距離,렌더 거리,ko-KR

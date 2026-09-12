@@ -1,0 +1,591 @@
+﻿source,target,tgt_lng
+%2$s %1$s%%,%%%s %s,tr-TR
+%2$s +%1$s,+%s %s,tr-TR
+%2$s +%1$s%%,+%%%s %s,tr-TR
+%2$s -%1$s,-%s %s,tr-TR
+%2$s -%1$s%%,-%%%s %s,tr-TR
+%2$s: %1$s,%s %s,tr-TR
+%2$s: %1$s%%,%%%s %s,tr-TR
+%2$s: +%1$s,+%s %s,tr-TR
+%2$s: +%1$s%%,+%%%s %s,tr-TR
+%2$s: -%1$s,-%s %s,tr-TR
+%2$s: -%1$s%%,-%%%s %s,tr-TR
+%s %% %s,%%%s %s,tr-TR
+%s %% en %s,%%%s %s,tr-TR
+%s en %s,%s %s,tr-TR
+%s%% %s,%%%s %s,tr-TR
++%s %% %s,+%%%s %s,tr-TR
++%s %% en %s,+%%%s %s,tr-TR
++%s en %s,+%s %s,tr-TR
++%s%% %s,+%%%s %s,tr-TR
+-%s %% %s,-%%%s %s,tr-TR
+-%s %% en %s,-%%%s %s,tr-TR
+-%s en %s,-%s %s,tr-TR
+-%s%% %s,-%%%s %s,tr-TR
+Abbaueffizienz,Kazım Verimliliği,tr-TR
+Absorción máxima,En Fazla Emilim,tr-TR
+absorption maximale,En Fazla Emilim,tr-TR
+Absorção máxima,En Fazla Emilim,tr-TR
+Air Drag Modifier,Hava Direnci Niteleyici,tr-TR
+Alcance de atração das criaturas,Canlı Fark Etme Mesafesi,tr-TR
+Alcance de detecção do marcador,Yol Noktası Alma Mesafesi,tr-TR
+Alcance de interação com blocos,Blok Etkileşim Mesafesi,tr-TR
+Alcance de interação com entidades,Varlık Etkileşim Mesafesi,tr-TR
+Alcance de perseguição das criaturas,Canlı Takip Menzili,tr-TR
+Alcance de perseguição das criaturas,Canlı Takip Mesafesi,tr-TR
+Alcance de transmissão do marcador,Yol Noktası İletme Mesafesi,tr-TR
+Altezza del passo,Adım Yüksekliği,tr-TR
+Altura de paso,Adım Yüksekliği,tr-TR
+Altura dos passos,Adım Yüksekliği,tr-TR
+Angriffsgeschwindigkeit,Saldırı Hızı,tr-TR
+Angriffsrückstoß,Saldırı Savurması,tr-TR
+Angriffsschaden,Saldırı Hasarı,tr-TR
+Armadura,Zırh,tr-TR
+Armatura,Zırh,tr-TR
+Armor,Zırh,tr-TR
+Armor Toughness,Zırh Sertliği,tr-TR
+Assorbimento massimo,En Fazla Emilim,tr-TR
+Attack Damage,Saldırı Hasarı,tr-TR
+Attack Knockback,Saldırı Savurması,tr-TR
+Attack Speed,Saldırı Hızı,tr-TR
+Bewegungseffizienz,Hareket Verimliliği,tr-TR
+Block Break Speed,Blok Kırma Hızı,tr-TR
+Block Interaction Range,Blok Etkileşim Mesafesi,tr-TR
+Blockabbaugeschwindigkeit,Blok Kırma Hızı,tr-TR
+Block‐Interaktionsweite,Blok Etkileşim Mesafesi,tr-TR
+bonus d'oxygène,Oksijen Takviyesi,tr-TR
+Bounciness,Sekme,tr-TR
+Brenndauer,Yanma Süresi,tr-TR
+Burning Time,Yanma Süresi,tr-TR
+Bật lùi tấn công,Saldırı Savurması,tr-TR
+Camera Distance,Kamera Mesafesi,tr-TR
+chance,Şans,tr-TR
+Chiều cao bước,Adım Yüksekliği,tr-TR
+Contraccolpo,Saldırı Savurması,tr-TR
+Danni per colpo,Saldırı Hasarı,tr-TR
+Dano por golpe,Saldırı Hasarı,tr-TR
+Daño de ataque,Saldırı Hasarı,tr-TR
+distance d'affichage du nom,Ad Etiketi Mesafesi,tr-TR
+distance d'affichage du score du nom,Ad Etiketi Puan Mesafesi,tr-TR
+distance de chute sûre,Güvenli Düşüş Mesafesi,tr-TR
+distance de la caméra,Kamera Mesafesi,tr-TR
+Distancia de caída segura,Güvenli Düşüş Mesafesi,tr-TR
+Distancia de la cámara,Kamera Mesafesi,tr-TR
+Distancia del identificador,Ad Etiketi Mesafesi,tr-TR
+Distancia del marcador de puntuación,Ad Etiketi Puan Mesafesi,tr-TR
+Distanza del punteggio nella targhetta,Ad Etiketi Puan Mesafesi,tr-TR
+Distanza dell'inquadratura,Kamera Mesafesi,tr-TR
+Distanza della targhetta,Ad Etiketi Mesafesi,tr-TR
+Distanza di caduta sicura,Güvenli Düşüş Mesafesi,tr-TR
+Distância da câmera,Kamera Mesafesi,tr-TR
+Distância de queda segura,Güvenli Düşüş Mesafesi,tr-TR
+Distância do identificador,Ad Etiketi Mesafesi,tr-TR
+Distância do marcador de pontuação,Ad Etiketi Puan Mesafesi,tr-TR
+Duración de quemadura,Yanma Süresi,tr-TR
+Duração de queima,Yanma Süresi,tr-TR
+Dureza de armadura,Zırh Sertliği,tr-TR
+efficacité de minage,Kazım Verimliliği,tr-TR
+efficacité de mouvement,Hareket Verimliliği,tr-TR
+efficacité de mouvement aquatique,Suda Hareket Verimliliği,tr-TR
+Efficienza d'estrazione,Kazım Verimliliği,tr-TR
+Efficienza del movimento,Hareket Verimliliği,tr-TR
+Efficienza del movimento in acqua,Suda Hareket Verimliliği,tr-TR
+Eficiencia al romper bloques,Kazım Verimliliği,tr-TR
+Eficiencia de movimiento,Hareket Verimliliği,tr-TR
+Eficiencia de movimiento acuático,Suda Hareket Verimliliği,tr-TR
+Eficiência de mineração,Kazım Verimliliği,tr-TR
+Eficiência de movimento,Hareket Verimliliği,tr-TR
+Eficiência de movimento na água,Suda Hareket Verimliliği,tr-TR
+Elasticità,Sekme,tr-TR
+Empuje de ataque,Saldırı Savurması,tr-TR
+Entity Interaction Range,Varlık Etkileşim Mesafesi,tr-TR
+Escala,Ölçek,tr-TR
+Explosion Knockback Resistance,Patlama Savrulması Direnci,tr-TR
+Explosionsstandfestigkeit,Patlama Savrulması Direnci,tr-TR
+Fall Damage Multiplier,Düşme Hasarı Çarpanı,tr-TR
+Fallschaden‐Multiplikator,Düşme Hasarı Çarpanı,tr-TR
+Federung,Sekme,tr-TR
+Fluggeschwindigkeit,Uçma Hızı,tr-TR
+Fluggeschwindigkeit,Uçuş Hızı,tr-TR
+Flying Speed,Uçma Hızı,tr-TR
+Flying Speed,Uçuş Hızı,tr-TR
+Fortuna,Şans,tr-TR
+Forza del salto,Zıplama Gücü,tr-TR
+Forza di salto del cavallo,At Zıplama Gücü,tr-TR
+Força de salto do cavalo,At Zıplama Gücü,tr-TR
+Força do salto,Zıplama Gücü,tr-TR
+Friction Modifier,Sürtünme Düzenleyici,tr-TR
+Geschwindigkeit,Hız,tr-TR
+Giáp,Zırh,tr-TR
+Glück,Şans,tr-TR
+Gravedad,Yer Çekimi,tr-TR
+Gravidade,Yer Çekimi,tr-TR
+Gravity,Yer Çekimi,tr-TR
+Gravità,Yer Çekimi,tr-TR
+gravité,Yer Çekimi,tr-TR
+Größe,Ölçek,tr-TR
+hauteur des pas,Adım Yüksekliği,tr-TR
+Hiệu quả di chuyển,Hareket Verimliliği,tr-TR
+Hiệu quả di chuyển dưới nước,Suda Hareket Verimliliği,tr-TR
+Hiệu suất đào,Kazım Verimliliği,tr-TR
+Horse Jump Strength,At Zıplama Gücü,tr-TR
+Hấp thụ tối đa,En Fazla Emilim,tr-TR
+Hệ số lực cản không khí,Hava Direnci Niteleyici,tr-TR
+Hệ số ma sát,Sürtünme Düzenleyici,tr-TR
+Hệ số sát thương rơi,Düşme Hasarı Çarpanı,tr-TR
+Jump Strength,Zıplama Gücü,tr-TR
+Kameraabstand,Kamera Mesafesi,tr-TR
+Khoảng cách hiển thị nhãn ghi tên,Ad Etiketi Mesafesi,tr-TR
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,Ad Etiketi Puan Mesafesi,tr-TR
+Khoảng cách máy quay,Kamera Mesafesi,tr-TR
+Kháng đẩy lùi,Savrulma Direnci,tr-TR
+Kháng đẩy lùi từ vụ nổ,Patlama Savrulması Direnci,tr-TR
+Knockback Resistance,Savrulma Direnci,tr-TR
+Kreaturen‐Anlockdistanz,Canlı Fark Etme Mesafesi,tr-TR
+Kreaturen‐Verfolgedistanz,Canlı Takip Menzili,tr-TR
+Kreaturen‐Verfolgedistanz,Canlı Takip Mesafesi,tr-TR
+Luck,Şans,tr-TR
+Luftwiderstandsfaktor,Hava Direnci Niteleyici,tr-TR
+Lực lượng thây ma tăng cường,Zombi Takviyesi,tr-TR
+Max Absorption,En Fazla Emilim,tr-TR
+Max Health,En Fazla Sağlık,tr-TR
+Maximale Absorption,En Fazla Emilim,tr-TR
+Maximale Gesundheit,En Fazla Sağlık,tr-TR
+May mắn,Şans,tr-TR
+Mining Efficiency,Kazım Verimliliği,tr-TR
+Mob Follow Range,Canlı Takip Menzili,tr-TR
+Mob Follow Range,Canlı Takip Mesafesi,tr-TR
+Mob Tempt Range,Canlı Fark Etme Mesafesi,tr-TR
+Mobの誘引される範囲,Canlı Fark Etme Mesafesi,tr-TR
+Mobの追跡範囲,Canlı Takip Menzili,tr-TR
+Mobの追跡範囲,Canlı Takip Mesafesi,tr-TR
+Modificador de atrito,Sürtünme Düzenleyici,tr-TR
+Modificador de fricción,Sürtünme Düzenleyici,tr-TR
+Modificador de resistencia del aire,Hava Direnci Niteleyici,tr-TR
+Modificador de resistência ao ar,Hava Direnci Niteleyici,tr-TR
+modificateur de friction,Sürtünme Düzenleyici,tr-TR
+modificateur de résistance à l'air,Hava Direnci Niteleyici,tr-TR
+Modificatore di attrito,Sürtünme Düzenleyici,tr-TR
+Modificatore di resistenza aerodinamica,Hava Direnci Niteleyici,tr-TR
+Moltiplicatore del danno da caduta,Düşme Hasarı Çarpanı,tr-TR
+Movement Efficiency,Hareket Verimliliği,tr-TR
+Multiplicador de dano por queda,Düşme Hasarı Çarpanı,tr-TR
+Multiplicador de daño por caída,Düşme Hasarı Çarpanı,tr-TR
+multiplicateur des dégâts de chute,Düşme Hasarı Çarpanı,tr-TR
+Name Tag Distance,Ad Etiketi Mesafesi,tr-TR
+Name Tag Score Distance,Ad Etiketi Puan Mesafesi,tr-TR
+Namensschildabstand,Ad Etiketi Mesafesi,tr-TR
+Objekt‐Interaktionsweite,Varlık Etkileşim Mesafesi,tr-TR
+Ossigeno aggiuntivo,Oksijen Takviyesi,tr-TR
+Oxigênio extra,Oksijen Takviyesi,tr-TR
+Oxygen Bonus,Oksijen Takviyesi,tr-TR
+Oxígeno extra,Oksijen Takviyesi,tr-TR
+Pferdesprungstärke,At Zıplama Gücü,tr-TR
+Phạm vi nhận điểm mốc,Yol Noktası Alma Mesafesi,tr-TR
+Phạm vi thu hút sinh vật,Canlı Fark Etme Mesafesi,tr-TR
+Phạm vi truyền điểm mốc,Yol Noktası İletme Mesafesi,tr-TR
+Phạm vi tương tác khối,Blok Etkileşim Mesafesi,tr-TR
+Phạm vi tương tác thực thể,Varlık Etkileşim Mesafesi,tr-TR
+Phạm vi đi theo của sinh vật,Canlı Takip Menzili,tr-TR
+Phạm vi đi theo của sinh vật,Canlı Takip Mesafesi,tr-TR
+Phần oxi thêm,Oksijen Takviyesi,tr-TR
+points d'armure,Zırh,tr-TR
+points d'attaque,Saldırı Hasarı,tr-TR
+Portata di ricezione del punto di riferimento,Yol Noktası Alma Mesafesi,tr-TR
+Portata di trasmissione del punto di riferimento,Yol Noktası İletme Mesafesi,tr-TR
+portée d'interaction avec les blocs,Blok Etkileşim Mesafesi,tr-TR
+portée d'interaction avec les entités,Varlık Etkileşim Mesafesi,tr-TR
+portée de détection des créatures,Canlı Takip Menzili,tr-TR
+portée de détection des créatures,Canlı Takip Mesafesi,tr-TR
+portée de réception du point de repère,Yol Noktası Alma Mesafesi,tr-TR
+portée de tentation des créatures,Canlı Fark Etme Mesafesi,tr-TR
+portée de transmission du point de repère,Yol Noktası İletme Mesafesi,tr-TR
+Potencia de salto,Zıplama Gücü,tr-TR
+Potencia de salto del caballo,At Zıplama Gücü,tr-TR
+Proporción del daño de barrido,Geniş Saldırı Hasar Oranı,tr-TR
+puissance de saut,Zıplama Gücü,tr-TR
+puissance de saut du cheval,At Zıplama Gücü,tr-TR
+Punktetafelabstand,Ad Etiketi Puan Mesafesi,tr-TR
+Punti armatura,Zırh,tr-TR
+Quy mô,Ölçek,tr-TR
+Radio de atracción de criaturas,Canlı Fark Etme Mesafesi,tr-TR
+Raggio d'interazione con i blocchi,Blok Etkileşim Mesafesi,tr-TR
+Raggio d'interazione con le entità,Varlık Etkileşim Mesafesi,tr-TR
+Raggio di rilevamento delle creature,Canlı Takip Menzili,tr-TR
+Raggio di rilevamento delle creature,Canlı Takip Mesafesi,tr-TR
+Raggio di tentazione delle creature,Canlı Fark Etme Mesafesi,tr-TR
+Rango de interacción con bloques,Blok Etkileşim Mesafesi,tr-TR
+Rango de interacción con entidades,Varlık Etkileşim Mesafesi,tr-TR
+Rango de recepción del punto de referencia,Yol Noktası Alma Mesafesi,tr-TR
+Rango de seguimiento,Canlı Takip Menzili,tr-TR
+Rango de seguimiento,Canlı Takip Mesafesi,tr-TR
+Rango de transmisión del punto de referencia,Yol Noktası İletme Mesafesi,tr-TR
+rapidité,Hız,tr-TR
+Rapporto del danno sferzante,Geniş Saldırı Hasar Oranı,tr-TR
+ratio de dégâts par balayage,Geniş Saldırı Hasar Oranı,tr-TR
+rebond,Sekme,tr-TR
+Rebote,Sekme,tr-TR
+recul d'attaque,Saldırı Savurması,tr-TR
+Reforços de zumbis,Zombi Takviyesi,tr-TR
+Refuerzos zombi,Zombi Takviyesi,tr-TR
+Reibungsfaktor,Sürtünme Düzenleyici,tr-TR
+renforts de zombies,Zombi Takviyesi,tr-TR
+Repulsão do ataque,Saldırı Savurması,tr-TR
+Resistencia al empuje,Savrulma Direnci,tr-TR
+Resistencia al empuje de las explosiones,Patlama Savrulması Direnci,tr-TR
+Resistenza al contraccolpo,Savrulma Direnci,tr-TR
+Resistenza al contraccolpo delle esplosioni,Patlama Savrulması Direnci,tr-TR
+Resistência da armadura,Zırh Sertliği,tr-TR
+Resistência à repulsão,Savrulma Direnci,tr-TR
+Resistência à repulsão de explosões,Patlama Savrulması Direnci,tr-TR
+Rinforzi zombi,Zombi Takviyesi,tr-TR
+robustesse,Zırh Sertliği,tr-TR
+résistance au recul,Savrulma Direnci,tr-TR
+résistance au recul des explosions,Patlama Savrulması Direnci,tr-TR
+Rüstung,Zırh,tr-TR
+Rüstungshärte,Zırh Sertliği,tr-TR
+Safe Fall Distance,Güvenli Düşüş Mesafesi,tr-TR
+Salud máxima,En Fazla Sağlık,tr-TR
+Salute massima,En Fazla Sağlık,tr-TR
+Sauerstoffbonus,Oksijen Takviyesi,tr-TR
+Scala,Ölçek,tr-TR
+Scale,Ölçek,tr-TR
+Schleichgeschwindigkeit,Eğilirken Hareket Hızı,tr-TR
+Schleichgeschwindigkeit,Eğilme Hızı,tr-TR
+Schritthöhe,Adım Yüksekliği,tr-TR
+Schwerkraft,Yer Çekimi,tr-TR
+Schwungschadensverhältnis,Geniş Saldırı Hasar Oranı,tr-TR
+Sichere Fallhöhe,Güvenli Düşüş Mesafesi,tr-TR
+Sinh lực tối đa,En Fazla Sağlık,tr-TR
+Sneaking Speed,Eğilirken Hareket Hızı,tr-TR
+Sneaking Speed,Eğilme Hızı,tr-TR
+Solidità dell'armatura,Zırh Sertliği,tr-TR
+Sorte,Şans,tr-TR
+Speed,Hız,tr-TR
+Sprungstärke,Zıplama Gücü,tr-TR
+Standfestigkeit,Savrulma Direnci,tr-TR
+Step Height,Adım Yüksekliği,tr-TR
+Submerged Mining Speed,Su Altında Kazım Hızı,tr-TR
+Suerte,Şans,tr-TR
+Sweeping Damage Ratio,Geniş Saldırı Hasar Oranı,tr-TR
+Sức bật lùi,Saldırı Savurması,tr-TR
+Sức nhảy,Zıplama Gücü,tr-TR
+Sức nhảy của ngựa,At Zıplama Gücü,tr-TR
+Sức tấn công,Saldırı Hasarı,tr-TR
+taille,Ölçek,tr-TR
+Taxa de dano lateral,Geniş Saldırı Hasar Oranı,tr-TR
+Tempo di combustione,Yanma Süresi,tr-TR
+temps en feu,Yanma Süresi,tr-TR
+Thời gian cháy,Yanma Süresi,tr-TR
+Trọng lực,Yer Çekimi,tr-TR
+Tỉ lệ sát thương quét cạnh,Geniş Saldırı Hasar Oranı,tr-TR
+Tốc độ,Hız,tr-TR
+Tốc độ bay,Uçma Hızı,tr-TR
+Tốc độ bay,Uçuş Hızı,tr-TR
+Tốc độ phá khối,Blok Kırma Hızı,tr-TR
+Tốc độ tấn công,Saldırı Hızı,tr-TR
+Tốc độ đi rón rén,Eğilirken Hareket Hızı,tr-TR
+Tốc độ đi rón rén,Eğilme Hızı,tr-TR
+Tốc độ đào dưới nước,Su Altında Kazım Hızı,tr-TR
+Unterwasser‐Abbaugeschwindigkeit,Su Altında Kazım Hızı,tr-TR
+Velocidad,Hız,tr-TR
+Velocidad al agacharse,Eğilirken Hareket Hızı,tr-TR
+Velocidad al agacharse,Eğilme Hızı,tr-TR
+Velocidad al romper bloques,Blok Kırma Hızı,tr-TR
+Velocidad al romper bloques sumergido,Su Altında Kazım Hızı,tr-TR
+Velocidad de ataque,Saldırı Hızı,tr-TR
+Velocidad de vuelo,Uçma Hızı,tr-TR
+Velocidad de vuelo,Uçuş Hızı,tr-TR
+Velocidade,Hız,tr-TR
+Velocidade de ataque,Saldırı Hızı,tr-TR
+Velocidade de mineração submersa,Su Altında Kazım Hızı,tr-TR
+Velocidade de quebra de blocos,Blok Kırma Hızı,tr-TR
+Velocidade do voo,Uçma Hızı,tr-TR
+Velocidade do voo,Uçuş Hızı,tr-TR
+Velocidade furtiva,Eğilirken Hareket Hızı,tr-TR
+Velocidade furtiva,Eğilme Hızı,tr-TR
+Velocità,Hız,tr-TR
+Velocità d'attacco,Saldırı Hızı,tr-TR
+Velocità d'estrazione sott'acqua,Su Altında Kazım Hızı,tr-TR
+Velocità di distruzione dei blocchi,Blok Kırma Hızı,tr-TR
+Velocità furtiva,Eğilirken Hareket Hızı,tr-TR
+Velocità furtiva,Eğilme Hızı,tr-TR
+Velocità in volo,Uçma Hızı,tr-TR
+Velocità in volo,Uçuş Hızı,tr-TR
+Vida máxima,En Fazla Sağlık,tr-TR
+vie maximale,En Fazla Sağlık,tr-TR
+vitesse accroupie,Eğilirken Hareket Hızı,tr-TR
+vitesse accroupie,Eğilme Hızı,tr-TR
+vitesse d'attaque,Saldırı Hızı,tr-TR
+vitesse de destruction des blocs,Blok Kırma Hızı,tr-TR
+vitesse de minage sous l'eau,Su Altında Kazım Hızı,tr-TR
+vitesse de vol,Uçma Hızı,tr-TR
+vitesse de vol,Uçuş Hızı,tr-TR
+Wasser‐Bewegungseffizienz,Suda Hareket Verimliliği,tr-TR
+Water Movement Efficiency,Suda Hareket Verimliliği,tr-TR
+Waypoint Receive Range,Yol Noktası Alma Mesafesi,tr-TR
+Waypoint Transmit Range,Yol Noktası İletme Mesafesi,tr-TR
+Wegpunkt‐Empfangsreichweite,Yol Noktası Alma Mesafesi,tr-TR
+Wegpunkt‐Sendereichweite,Yol Noktası İletme Mesafesi,tr-TR
+Zombie Reinforcements,Zombi Takviyesi,tr-TR
+Zombie-Verstärkung,Zombi Takviyesi,tr-TR
+Zombie‐Verstärkung,Zombi Takviyesi,tr-TR
+Độ bền của áo giáp,Zırh Sertliği,tr-TR
+Độ bền áo giáp,Zırh Sertliği,tr-TR
+Độ cao rơi xuống an toàn,Güvenli Düşüş Mesafesi,tr-TR
+Độ nảy,Sekme,tr-TR
+Безопасная высота падения,Güvenli Düşüş Mesafesi,tr-TR
+Бонус к кислороду,Oksijen Takviyesi,tr-TR
+Броня,Zırh,tr-TR
+Везение,Şans,tr-TR
+Время горения,Yanma Süresi,tr-TR
+Высота шага,Adım Yüksekliği,tr-TR
+Гравитация,Yer Çekimi,tr-TR
+Дальность взаимодействия с блоками,Blok Etkileşim Mesafesi,tr-TR
+Дальность взаимодействия с сущностями,Varlık Etkileşim Mesafesi,tr-TR
+Дальность видимости имени,Ad Etiketi Mesafesi,tr-TR
+Дальность видимости счёта под именем,Ad Etiketi Puan Mesafesi,tr-TR
+Дальность обнаружения маркеров,Yol Noktası Alma Mesafesi,tr-TR
+Дальность передачи маркера,Yol Noktası İletme Mesafesi,tr-TR
+Дальность приманивания,Canlı Fark Etme Mesafesi,tr-TR
+Диапазон преследования моба,Canlı Takip Menzili,tr-TR
+Диапазон преследования моба,Canlı Takip Mesafesi,tr-TR
+Коэффициент разящего удара,Geniş Saldırı Hasar Oranı,tr-TR
+Максимальное здоровье,En Fazla Sağlık,tr-TR
+Множитель урона от падения,Düşme Hasarı Çarpanı,tr-TR
+Модификатор сопротивления воздуха,Hava Direnci Niteleyici,tr-TR
+Модификатор трения,Sürtünme Düzenleyici,tr-TR
+Отбрасывание при атаке,Saldırı Savurması,tr-TR
+Отдалённость камеры,Kamera Mesafesi,tr-TR
+Подкрепление зомби,Zombi Takviyesi,tr-TR
+Предел поглощения,En Fazla Emilim,tr-TR
+Размер,Ölçek,tr-TR
+Сила прыжка,Zıplama Gücü,tr-TR
+Сила прыжка лошади,At Zıplama Gücü,tr-TR
+Скорость,Hız,tr-TR
+Скорость атаки,Saldırı Hızı,tr-TR
+Скорость добычи под водой,Su Altında Kazım Hızı,tr-TR
+Скорость подкрадывания,Eğilirken Hareket Hızı,tr-TR
+Скорость подкрадывания,Eğilme Hızı,tr-TR
+Скорость полёта,Uçma Hızı,tr-TR
+Скорость полёта,Uçuş Hızı,tr-TR
+Скорость разрушения блоков,Blok Kırma Hızı,tr-TR
+Сопротивление к отбрасыванию,Savrulma Direnci,tr-TR
+Сопротивление к отбрасыванию взрывом,Patlama Savrulması Direnci,tr-TR
+Твёрдость брони,Zırh Sertliği,tr-TR
+Упругость,Sekme,tr-TR
+Урон при атаке,Saldırı Hasarı,tr-TR
+Эффективность добычи,Kazım Verimliliği,tr-TR
+Эффективность передвижения,Hareket Verimliliği,tr-TR
+Эффективность передвижения в воде,Suda Hareket Verimliliği,tr-TR
+กระดอนโจมตี,Saldırı Savurması,tr-TR
+กำลังเสริมซอมบี้,Zombi Takviyesi,tr-TR
+ขนาด,Ölçek,tr-TR
+ความต้านทานการกระดอน,Savrulma Direnci,tr-TR
+ความต้านทานการกระดอนจากระเบิด,Patlama Savrulması Direnci,tr-TR
+ความสูงของขั้นก้าว,Adım Yüksekliği,tr-TR
+ความเด้ง,Sekme,tr-TR
+ความเร็ว,Hız,tr-TR
+ความเร็วการขุดใต้น้ำ,Su Altında Kazım Hızı,tr-TR
+ความเร็วการทำลายบล็อก,Blok Kırma Hızı,tr-TR
+ความเร็วการบิน,Uçma Hızı,tr-TR
+ความเร็วการบิน,Uçuş Hızı,tr-TR
+ความเร็วการย่อง,Eğilirken Hareket Hızı,tr-TR
+ความเร็วการย่อง,Eğilme Hızı,tr-TR
+ความเร็วโจมตี,Saldırı Hızı,tr-TR
+ความแข็งแกร่งของเกราะ,Zırh Sertliği,tr-TR
+ความแรงการกระโดด,Zıplama Gücü,tr-TR
+ดาเมจโจมตี,Saldırı Hasarı,tr-TR
+ดูดซับสูงสุด,En Fazla Emilim,tr-TR
+ตัวคูณดาเมจจากการตก,Düşme Hasarı Çarpanı,tr-TR
+ตัวดัดแปรแรงต้านอากาศ,Hava Direnci Niteleyici,tr-TR
+ตัวดัดแปรแรงเสียดทาน,Sürtünme Düzenleyici,tr-TR
+ประสิทธิภาพการขุด,Kazım Verimliliği,tr-TR
+ประสิทธิภาพการเคลื่อนที่,Hareket Verimliliği,tr-TR
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,Suda Hareket Verimliliği,tr-TR
+ระยะการตกที่ปลอดภัย,Güvenli Düşüş Mesafesi,tr-TR
+ระยะการรับเวย์พอยต์,Yol Noktası Alma Mesafesi,tr-TR
+ระยะการล่อของม็อบ,Canlı Fark Etme Mesafesi,tr-TR
+ระยะการส่งผ่านเวย์พอยต์,Yol Noktası İletme Mesafesi,tr-TR
+ระยะคะแนนใต้ป้ายชื่อ,Ad Etiketi Puan Mesafesi,tr-TR
+ระยะที่ม็อบติดตาม,Canlı Takip Menzili,tr-TR
+ระยะที่ม็อบติดตาม,Canlı Takip Mesafesi,tr-TR
+ระยะปฏิสัมพันธ์กับบล็อก,Blok Etkileşim Mesafesi,tr-TR
+ระยะปฏิสัมพันธ์กับเอนทิตี้,Varlık Etkileşim Mesafesi,tr-TR
+ระยะป้ายชื่อ,Ad Etiketi Mesafesi,tr-TR
+ระยะห่างกล้อง,Kamera Mesafesi,tr-TR
+ระยะเวลาติดไฟ,Yanma Süresi,tr-TR
+ออกซิเจนพิเศษ,Oksijen Takviyesi,tr-TR
+อัตราส่วนดาเมจแบบกวาด,Geniş Saldırı Hasar Oranı,tr-TR
+เกราะ,Zırh,tr-TR
+เลือดสูงสุด,En Fazla Sağlık,tr-TR
+แรงม้ากระโดด,At Zıplama Gücü,tr-TR
+แรงโน้มถ่วง,Yer Çekimi,tr-TR
+โชค,Şans,tr-TR
+なぎ払いダメージの比率,Geniş Saldırı Hasar Oranı,tr-TR
+ウェイポイント伝達距離,Yol Noktası İletme Mesafesi,tr-TR
+ウェイポイント受信距離,Yol Noktası Alma Mesafesi,tr-TR
+ウマの跳躍力,At Zıplama Gücü,tr-TR
+エンティティ操作範囲,Varlık Etkileşim Mesafesi,tr-TR
+カメラ距離,Kamera Mesafesi,tr-TR
+サイズ,Ölçek,tr-TR
+スニーク速度,Eğilirken Hareket Hızı,tr-TR
+スニーク速度,Eğilme Hızı,tr-TR
+ゾンビの増援,Zombi Takviyesi,tr-TR
+ネームタグの表示距離,Ad Etiketi Mesafesi,tr-TR
+ネームタグ下のスコアの表示距離,Ad Etiketi Puan Mesafesi,tr-TR
+ノックバック,Saldırı Savurması,tr-TR
+ノックバック力,Saldırı Savurması,tr-TR
+ノックバック耐性,Savrulma Direnci,tr-TR
+ブロック操作範囲,Blok Etkileşim Mesafesi,tr-TR
+ブロック破壊速度,Blok Kırma Hızı,tr-TR
+僵尸增援,Zombi Takviyesi,tr-TR
+击退,Saldırı Savurması,tr-TR
+击退抗性,Savrulma Direnci,tr-TR
+名牌分数距离,Ad Etiketi Puan Mesafesi,tr-TR
+名牌距离,Ad Etiketi Mesafesi,tr-TR
+名稱標籤分數距離,Ad Etiketi Puan Mesafesi,tr-TR
+名稱標籤距離,Ad Etiketi Mesafesi,tr-TR
+大きさ,Ölçek,tr-TR
+大小,Ölçek,tr-TR
+安全摔落高度,Güvenli Düşüş Mesafesi,tr-TR
+安全落下高度,Güvenli Düşüş Mesafesi,tr-TR
+实体交互距离,Varlık Etkileşim Mesafesi,tr-TR
+實體互動距離,Varlık Etkileşim Mesafesi,tr-TR
+尺寸,Ölçek,tr-TR
+幸运值,Şans,tr-TR
+幸運,Şans,tr-TR
+弹性,Sekme,tr-TR
+弾性係数,Sekme,tr-TR
+彈性,Sekme,tr-TR
+抗擊退,Savrulma Direnci,tr-TR
+抗爆炸擊退,Patlama Savrulması Direnci,tr-TR
+护甲值,Zırh,tr-TR
+挖掘效率,Kazım Verimliliği,tr-TR
+採掘効率,Kazım Verimliliği,tr-TR
+摔落伤害倍数,Düşme Hasarı Çarpanı,tr-TR
+摔落傷害倍率,Düşme Hasarı Çarpanı,tr-TR
+摩擦係数,Sürtünme Düzenleyici,tr-TR
+摩擦力修正係數,Sürtünme Düzenleyici,tr-TR
+摩擦力修正系数,Sürtünme Düzenleyici,tr-TR
+擊退,Saldırı Savurması,tr-TR
+攻击伤害,Saldırı Hasarı,tr-TR
+攻击速度,Saldırı Hızı,tr-TR
+攻撃力,Saldırı Hasarı,tr-TR
+攻撃速度,Saldırı Hızı,tr-TR
+攻擊傷害,Saldırı Hasarı,tr-TR
+攻擊速度,Saldırı Hızı,tr-TR
+方块交互距离,Blok Etkileşim Mesafesi,tr-TR
+方块破坏速度,Blok Kırma Hızı,tr-TR
+方塊互動距離,Blok Etkileşim Mesafesi,tr-TR
+方塊破壞速度,Blok Kırma Hızı,tr-TR
+最大伤害吸收值,En Fazla Emilim,tr-TR
+最大体力,En Fazla Sağlık,tr-TR
+最大傷害吸收值,En Fazla Emilim,tr-TR
+最大生命值,En Fazla Sağlık,tr-TR
+最大行走高度,Adım Yüksekliği,tr-TR
+最高生命值,En Fazla Sağlık,tr-TR
+横扫伤害比率,Geniş Saldırı Hasar Oranı,tr-TR
+橫掃傷害率,Geniş Saldırı Hasar Oranı,tr-TR
+殭屍增援隊,Zombi Takviyesi,tr-TR
+段差上限,Adım Yüksekliği,tr-TR
+水下挖掘速度,Su Altında Kazım Hızı,tr-TR
+水中挖掘速度,Su Altında Kazım Hızı,tr-TR
+水中採掘速度,Su Altında Kazım Hızı,tr-TR
+水中移动效率,Suda Hareket Verimliliği,tr-TR
+水中移動効率,Suda Hareket Verimliliği,tr-TR
+水中移動效率,Suda Hareket Verimliliği,tr-TR
+潛行速度,Eğilirken Hareket Hızı,tr-TR
+潛行速度,Eğilme Hızı,tr-TR
+潜行速度,Eğilirken Hareket Hızı,tr-TR
+潜行速度,Eğilme Hızı,tr-TR
+炎上時間,Yanma Süresi,tr-TR
+燃燒時間,Yanma Süresi,tr-TR
+爆炸击退抗性,Patlama Savrulması Direnci,tr-TR
+爆発ノックバック耐性,Patlama Savrulması Direnci,tr-TR
+生物引誘範圍,Canlı Fark Etme Mesafesi,tr-TR
+生物引诱范围,Canlı Fark Etme Mesafesi,tr-TR
+生物跟随距离,Canlı Takip Menzili,tr-TR
+生物跟随距离,Canlı Takip Mesafesi,tr-TR
+生物追蹤範圍,Canlı Takip Menzili,tr-TR
+生物追蹤範圍,Canlı Takip Mesafesi,tr-TR
+盔甲,Zırh,tr-TR
+盔甲強度,Zırh Sertliği,tr-TR
+盔甲韧性,Zırh Sertliği,tr-TR
+着火时间,Yanma Süresi,tr-TR
+移动效率,Hareket Verimliliği,tr-TR
+移動効率,Hareket Verimliliği,tr-TR
+移動效率,Hareket Verimliliği,tr-TR
+移動速度,Hız,tr-TR
+空气阻力修正系数,Hava Direnci Niteleyici,tr-TR
+空気抵抗係数,Hava Direnci Niteleyici,tr-TR
+空氣阻力修正係數,Hava Direnci Niteleyici,tr-TR
+落下ダメージ倍率,Düşme Hasarı Çarpanı,tr-TR
+衝撃吸収レベルの上限,En Fazla Emilim,tr-TR
+路径点传输距离,Yol Noktası İletme Mesafesi,tr-TR
+路径点接收距离,Yol Noktası Alma Mesafesi,tr-TR
+路徑點傳輸距離,Yol Noktası İletme Mesafesi,tr-TR
+路徑點接收距離,Yol Noktası Alma Mesafesi,tr-TR
+跳跃力度,Zıplama Gücü,tr-TR
+跳躍力,Zıplama Gücü,tr-TR
+速度,Hız,tr-TR
+運,Şans,tr-TR
+酸素ボーナス,Oksijen Takviyesi,tr-TR
+重力,Yer Çekimi,tr-TR
+鏡頭距離,Kamera Mesafesi,tr-TR
+镜头距离,Kamera Mesafesi,tr-TR
+防具強度,Zırh Sertliği,tr-TR
+防御力,Zırh,tr-TR
+額外氧氣,Oksijen Takviyesi,tr-TR
+额外氧气,Oksijen Takviyesi,tr-TR
+飛行速度,Uçma Hızı,tr-TR
+飛行速度,Uçuş Hızı,tr-TR
+飞行速度,Uçma Hızı,tr-TR
+飞行速度,Uçuş Hızı,tr-TR
+馬跳躍力,At Zıplama Gücü,tr-TR
+马匹跳跃能力,At Zıplama Gücü,tr-TR
+개체 상호 작용 범위,Varlık Etkileşim Mesafesi,tr-TR
+걸음 높이,Adım Yüksekliği,tr-TR
+경로점 발신 범위,Yol Noktası İletme Mesafesi,tr-TR
+경로점 수신 범위,Yol Noktası Alma Mesafesi,tr-TR
+공격 밀침 세기,Saldırı Savurması,tr-TR
+공격 속도,Saldırı Hızı,tr-TR
+공격 피해,Saldırı Hasarı,tr-TR
+공기 저항력 변경자,Hava Direnci Niteleyici,tr-TR
+낙하 피해 배수,Düşme Hasarı Çarpanı,tr-TR
+마찰력 변경자,Sürtünme Düzenleyici,tr-TR
+말 점프 강도,At Zıplama Gücü,tr-TR
+몹 따름 범위,Canlı Takip Menzili,tr-TR
+몹 따름 범위,Canlı Takip Mesafesi,tr-TR
+몹 유인 범위,Canlı Fark Etme Mesafesi,tr-TR
+밀침 저항,Savrulma Direnci,tr-TR
+방어,Zırh,tr-TR
+방어 강도,Zırh Sertliği,tr-TR
+배율,Ölçek,tr-TR
+블록 상호 작용 범위,Blok Etkileşim Mesafesi,tr-TR
+블록 파괴 속도,Blok Kırma Hızı,tr-TR
+비행 속도,Uçma Hızı,tr-TR
+비행 속도,Uçuş Hızı,tr-TR
+산소 추가,Oksijen Takviyesi,tr-TR
+속도,Hız,tr-TR
+수중 이동 효율,Suda Hareket Verimliliği,tr-TR
+수중 채굴 속도,Su Altında Kazım Hızı,tr-TR
+안전 낙하 거리,Güvenli Düşüş Mesafesi,tr-TR
+연소 시간,Yanma Süresi,tr-TR
+웅크렸을 때 속도,Eğilirken Hareket Hızı,tr-TR
+웅크렸을 때 속도,Eğilme Hızı,tr-TR
+이동 효율,Hareket Verimliliği,tr-TR
+이름표 거리,Ad Etiketi Mesafesi,tr-TR
+이름표 점수 거리,Ad Etiketi Puan Mesafesi,tr-TR
+점프 세기,Zıplama Gücü,tr-TR
+좀비 증원,Zombi Takviyesi,tr-TR
+중력,Yer Çekimi,tr-TR
+채굴 효율,Kazım Verimliliği,tr-TR
+최대 생명력,En Fazla Sağlık,tr-TR
+최대 흡수,En Fazla Emilim,tr-TR
+카메라 거리,Kamera Mesafesi,tr-TR
+크기,Ölçek,tr-TR
+탄성,Sekme,tr-TR
+폭발 밀침 저항,Patlama Savrulması Direnci,tr-TR
+행운,Şans,tr-TR
+휩쓸기 피해 비율,Geniş Saldırı Hasar Oranı,tr-TR

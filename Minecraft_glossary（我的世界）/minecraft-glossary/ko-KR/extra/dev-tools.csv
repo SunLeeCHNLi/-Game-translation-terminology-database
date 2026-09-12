@@ -1,0 +1,1907 @@
+﻿source,target,tgt_lng
+ ,설치 우선도:,ko-KR
+"""%s"" n'est pas un nom de structure valide",'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+"#%s etiketinde blok beklendi, %s bulundu","#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+#%sに含まれるブロックが必要ですが、%sが検出されました,"#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+%2$s birim zamanda %1$s,%s (틱 %s),ko-KR
+"%2$s türü %1$s eşya beklendi, %3$s bulundu","%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+"%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+"%2$s, %3$s, %4$s 周圍應只有一個 %1$s，但找到了 %5$s 個","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+"%2$s, %3$s, %4$s周围应仅存在一个%1$s，实际为%5$s个","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+"%2$s, %3$s, %4$s周围应存在%1$s","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+%2$sティック時点で%1$s,%s (틱 %s),ko-KR
+%s al tick %s,%s (틱 %s),ko-KR
+"%s at %s, %s, %s (relative: %s, %s, %s) on tick %s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+%s au tick %s,%s (틱 %s),ko-KR
+"%s bei %s, %s, %s (relativ: %s, %s, %s) in Tick %s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+%s beklendi,%s이(가) 필요합니다,ko-KR
+%s birim zaman içinde başarılı veya başarısız olunmadı,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+"%s bloğu beklendi, %s bulundu","%s 블록이 필요한데, %s(이)었습니다",ko-KR
+%s bloğunun mevcut olması bekleniyor,블록 %s이(가) 존재해야 합니다,ko-KR
+"%s chạm vào %s, %s, %s không mong muốn (tương đối: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+"%s değerinin %s olması beklendi, %s bulundu","%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+"%s durumunun %s olması beklendi, %s bulundu","%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+"%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+"%s en %s, %s, %s (relative : %s, %s, %s) au tick %s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+"%s en %s, %s, %s (relativo: %s, %s, %s) en el tic %s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+%s en el tic %s,%s (틱 %s),ko-KR
+"%s entités de type ""%s"" attendues (%s trouvées)","%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+%s erwartet,%s이(가) 필요합니다,ko-KR
+%s eşya tipi beklenmedi,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+%s Gegenstände vom Typ %s erwartet; %s gefunden,"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+%s in Tick %s,%s (틱 %s),ko-KR
+%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+%s için olan test yapısı yerleştirilemedi,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+%s için varlık verisi uyumsuzluğu,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+%s no tique %s,%s (틱 %s),ko-KR
+%s Objekte vom Typ %s erwartet; %s gefunden,"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+"%s objets de type ""%s"" attendus (%s trouvés)","%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+%s on tick %s,%s (틱 %s),ko-KR
+"%s presso %s, %s, %s (relativa: %s, %s, %s) al tick %s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+"%s previsto: %s, risultato: %s","%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+"%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+"%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+%s testi yürütülüyor,테스트 %s을(를) 시작합니다,ko-KR
+%s trên nhịp %s,%s (틱 %s),ko-KR
+%s türünde eşya beklendi,%s 유형의 아이템이 필요합니다,ko-KR
+"%s türünden %s varlık beklendi, %s bulundu","%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+"%s tại %s, %s, %s (tương đối: %s, %s, %s) trên nhịp %s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+%s varlığı oluşturulamadı,%s 개체 생성에 실패했습니다,ko-KR
+%s varlığı testte başarısız oldu: %s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+%s varlığının %s %s etkisine sahip olması beklendi,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+"%s varlığının %s, %s, %s civarında var olması beklendi","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+%s varlığının testte var olması beklendi,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+%s varlığının var olması beklenmedi,%s이(가) 있으면 안 됩니다,ko-KR
+"%s wurde als %s erwartet, war aber %s","%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+"%s wurde als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+"%s wurde bei %s, %s, %s erwartet","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+"%s wurde nicht als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+"%s zwischen %s und %s erwartet, war aber %s","%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+%s в такте %s,%s (틱 %s),ko-KR
+"%s в точке %s, %s, %s (относительно: %s, %s, %s) в такте %s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+%s ต้องมีเอฟเฟกต์ %s %s,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+%s ต้องเป็น %s: ตอนนี้เป็น %s,"%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+"%s ที่ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s) ในติ๊กที่ %s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+%s ในติ๊กที่ %s,%s (틱 %s),ko-KR
+%s 不應存在,%s이(가) 있으면 안 됩니다,ko-KR
+"%s 不應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+%s 應位於 %s 和 %s 之間，但實際為 %s,"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+"%s 應存在於 %s, %s, %s 周圍","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+%s 應存在於測試中,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+%s 應有效果 %s %s,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+%s 應為 %s，但實際為 %s,"%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+"%s 應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+%s 方塊過多,%s 블록이 너무 많습니다,ko-KR
+%s 的實體資料不相符,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+"%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+"%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+"%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+"%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+"%sが%s, %s, %sの周囲に存在することが必要です","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+%sが%sであることが必要ですが、%sでした,"%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+%sがテスト内に存在している必要があります,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+%sが存在することは予期されていません,%s이(가) 있으면 안 됩니다,ko-KR
+%sが必要です,%s이(가) 필요합니다,ko-KR
+%sには効果%s %sが付与されている必要があります,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+%sのテスト構造物の設置に失敗しました,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+%sは%sから%sの間であることが必要ですが、%sでした,"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+%sティック以内にシーケンスが終了しませんでした,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+%sティック以内に成功も失敗もしませんでした。,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+%sブロックが多すぎます,%s 블록이 너무 많습니다,ko-KR
+%s不应存在,%s이(가) 있으면 안 됩니다,ko-KR
+"%s不应接触%s, %s, %s（相对位置：%s, %s, %s）","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+%s应存在于测试中,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+"%s应接触%s, %s, %s（相对位置：%s, %s, %s）","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+%s应有%s %s效果,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+%s方块过多,%s 블록이 너무 많습니다,ko-KR
+%s的实体数据不匹配,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+"%s，位于%s, %s, %s（相对位置：%s, %s, %s），时间为第%s刻","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+"%s，位於 %s, %s, %s（相對位置：%s, %s, %s），時間為 %s 刻","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+%s，时间为%s刻,%s (틱 %s),ko-KR
+%s，時間為 %s 刻,%s (틱 %s),ko-KR
+'%s' yapısı için boyut başarıyla tespit edildi,'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+'%s' yapısı için konum hazırlandı,구조물 '%s'의 위치가 준비되었습니다,ko-KR
+'%s' yapısı kullanılabilir değil,'%s' 구조물을 사용할 수 없습니다,ko-KR
+[geçersiz],[잘못됨],ko-KR
+[invalid],[잘못됨],ko-KR
+[inválido],[잘못됨],ko-KR
+[không hợp lệ],[잘못됨],ko-KR
+[no válido],[잘못됨],ko-KR
+[non valide],[잘못됨],ko-KR
+[non valido],[잘못됨],ko-KR
+[ungültig],[잘못됨],ko-KR
+[недействительно],[잘못됨],ko-KR
+[ไม่ถูกต้อง],[잘못됨],ko-KR
+[无效],[잘못됨],ko-KR
+[無効],[잘못됨],ko-KR
+[無效],[잘못됨],ko-KR
+A entidade %s falhou no teste: %s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s","%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+A entidade deve segurar: %s,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+Accept,인정,ko-KR
+Accept Mode - Accept success for (part of) a test,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+Accepter,인정,ko-KR
+Accetta,인정,ko-KR
+Accettazione: accetta la riuscita di (una parte di) un collaudo,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+Aceitar,인정,ko-KR
+Aceptar,인정,ko-KR
+Ad:,이름:,ko-KR
+Afficher la zone de délimitation :,경계 상자 표시:,ko-KR
+Afficher les blocs invisibles :,투명 블록 표시:,ko-KR
+Akzeptanzmodus – Nimmt (teilweisen) Erfolg eines Tests entgegen,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+Akzeptieren,인정,ko-KR
+"Al procesar la pieza asociada a las conexiones, este es el orden en el que el bloque rompecabezas intenta conectar con su pieza de destino.
+
+Los bloques rompecabezas se procesan en orden descendente, con un orden de inserción aleatorio.","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+Aligned,고정,ko-KR
+Aligné,고정,ko-KR
+Ambiente: %s,환경: %s,ko-KR
+Angolo,모서리,ko-KR
+Angolo: %s,모서리: %s,ko-KR
+Angolo: marcatore per piazzamento e dimensione,모서리 모드 - 설치 및 크기 표지,ko-KR
+"Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+Aucun test,해당하는 테스트 없음,ko-KR
+Aucune séquence ne s'est terminée durant %s ticks,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+Ausgerichtet,고정,ko-KR
+Auswahlpriorität:,선택 우선도:,ko-KR
+Avvia,시작,ko-KR
+Avvio del collaudo %s...,테스트 %s을(를) 시작합니다,ko-KR
+Avvio: il punto di partenza di un collaudo,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+Bao gồm thực thể:,개체 포함:,ko-KR
+Bağlantı Türü:,결합 유형:,ko-KR
+Başarısız et,실패,ko-KR
+Başarısız Etme Modu - Testi başarısızlığa uğrat,실패 모드 - 테스트를 실패시킵니다,ko-KR
+Başarısız: %s,실패: %s,ko-KR
+Başarısızlık şartları karşılandı,실패 조건을 충족했습니다,ko-KR
+Başlat,시작,ko-KR
+Bedingung bereits in Tick %s ausgelöst,조건이 %s에 이미 발동했습니다,ko-KR
+Bedingung nicht ausgelöst,조건이 발동하지 않았습니다,ko-KR
+Begrenzungsrahmen anzeigen:,경계 상자 표시:,ko-KR
+Behälter muss ein %s enthalten,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+Behälter muss enthalten: %s,용기가 다음을 포함해야 합니다: %s,ko-KR
+Behälter muss leer sein,용기가 비어 있어야 합니다,ko-KR
+Beklenen tick'den önce başarıldı: beklenen tick %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+Beklenmeyen blok türü bulundu: %s,예기치 않은 블록 유형입니다: %s,ko-KR
+Benutzerdefinierte NBT-Daten,사용자 지정 데이터 태그 이름,ko-KR
+Bezugsquelle:,대상 풀:,ko-KR
+Bilinmeyen dâhilî hata: %s,알 수 없는 내부 오류: %s,ko-KR
+Biom für Test konnte nicht festgelegt werden,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+"Bloc ""%s"" attendu (bloc reçu : ""%s"")","%s 블록이 필요한데, %s(이)었습니다",ko-KR
+"Bloc ""%s"" inattendu",%s 블록이 있으면 안 됩니다,ko-KR
+"Bloc ""%s"" manquant de la structure de test",테스트 구조물에 %s 블록이 없습니다,ko-KR
+"Bloc attendu dans le tag #%s (valeur reçue : ""%s"")","#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+Blocco %s mancante dalla struttura di collaudo,테스트 구조물에 %s 블록이 없습니다,ko-KR
+Blocco complesso mancante,블록 개체가 누락되었습니다,ko-KR
+"Block %s erwartet, war aber %s","%s 블록이 필요한데, %s(이)었습니다",ko-KR
+"Block in #%s erwartet, war aber %s","#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+Block property missing. Expected property %s to be %s,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+Block Tabanlı Test,블록 기반 테스트,ko-KR
+Block wurde nicht als %s erwartet,%s 블록이 있으면 안 됩니다,ko-KR
+Block-Based Test,블록 기반 테스트,ko-KR
+Blockbasierter Test,블록 기반 테스트,ko-KR
+Blockeigenschaft nicht vorhanden. Eigenschaft %s wurde als %s erwartet,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+"Blok durumu eksik, %s durumunun %s olması beklendi",블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+Blok varlık eksik,블록 개체가 누락되었습니다,ko-KR
+Bloğun %s olması beklenmedi,%s 블록이 있으면 안 됩니다,ko-KR
+Boyut: %s,차원: %s,ko-KR
+"Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+Built-in Function Test,내장 함수 테스트,ko-KR
+Böyle bir test yok,해당하는 테스트 없음,ko-KR
+Bắt đầu,시작,ko-KR
+Bị dư %s,%s이(가) 있으면 안 됩니다,ko-KR
+Bị dư khối %s,%s 블록이 있으면 안 됩니다,ko-KR
+Bị dư vật phẩm thuộc loại %s,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+Bị thiếu %s,%s이(가) 필요합니다,ko-KR
+Bị thiếu %s thực thể thuộc loại %s: đã tìm thấy %s,"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+"Bị thiếu %s tồn tại xung quanh %s, %s, %s","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+Bị thiếu %s vật phẩm thuộc loại %s: đã tìm thấy %s,"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+Bị thiếu khối %s,블록 %s이(가) 존재해야 합니다,ko-KR
+Bị thiếu khối %s: đã nhận %s,"%s 블록이 필요한데, %s(이)었습니다",ko-KR
+Bị thiếu khối trong #%s: đã nhận %s,"#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+Bị thiếu thuộc tính khối. Dự kiến thuộc tính %s là %s,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+Bị thiếu thực thể khối,블록 개체가 누락되었습니다,ko-KR
+Bị thiếu vật phẩm thuộc loại %s,%s 유형의 아이템이 필요합니다,ko-KR
+Canto,모서리,ko-KR
+Cantos: %s,모서리: %s,ko-KR
+CARGAR,불러오기,ko-KR
+Cargar,불러오기,ko-KR
+Cargar y ejecutar,불러오고 실행,ko-KR
+Cargar: %s,불러오기: %s,ko-KR
+Carica,불러오기,ko-KR
+Carica ed esegui,불러오고 실행,ko-KR
+Caricamento: %s,불러오기: %s,ko-KR
+Caricamento: carica da documento,불러오기 모드 - 파일에서 불러오기,ko-KR
+Caricato la struttura da «%s»,구조물을 '%s'에서 불러왔습니다,ko-KR
+CARREGAR,불러오기,ko-KR
+Carregar,불러오기,ko-KR
+Carregar e executar,불러오고 실행,ko-KR
+Carregar: %s,불러오기: %s,ko-KR
+Ch.nhận,인정,ko-KR
+CHARGE,불러오기,ko-KR
+Charger,불러오기,ko-KR
+Charger : %s,불러오기: %s,ko-KR
+Charger et exécuter,불러오고 실행,ko-KR
+Chiều không gian: %s,차원: %s,ko-KR
+Chế độ bắt đầu - Điểm bắt đầu cho một bài kiểm tra,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+Chế độ chấp nhận - Chấp nhận thành công (một phần) bài kiểm tra,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+Chế độ dữ liệu - Đánh dấu logic trò chơi,데이터 모드 - 게임 논리 표지,ko-KR
+Chế độ góc - Đánh dấu vị trí và kích cỡ,모서리 모드 - 설치 및 크기 표지,ko-KR
+Chế độ lưu - Ghi vào tập tin,저장 모드 - 파일에 쓰기,ko-KR
+Chế độ nhật kí - Ghi một tin nhắn,기록 모드 - 메시지를 기록합니다,ko-KR
+Chế độ nạp - Nạp từ tập tin,불러오기 모드 - 파일에서 불러오기,ko-KR
+Chế độ thất bại - Kiểm tra không thành công,실패 모드 - 테스트를 실패시킵니다,ko-KR
+Coin,모서리,ko-KR
+Coin : %s,모서리: %s,ko-KR
+Collaudo basato su blocchi,블록 기반 테스트,ko-KR
+Collaudo di funzione integrata,내장 함수 테스트,ko-KR
+Collaudo in corso prima di piazzare la struttura,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+Colocación estricta:,엄격한 설치:,ko-KR
+Concluído antes do tique esperado: esperava-se %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+Concluído no tique inválido. Esperava-se: %s,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+Condición no activada,조건이 발동하지 않았습니다,ko-KR
+Condición ya activada en %s,조건이 %s에 이미 발동했습니다,ko-KR
+Condition already triggered at %s,조건이 %s에 이미 발동했습니다,ko-KR
+Condition déjà déclenchée au tick %s,조건이 %s에 이미 발동했습니다,ko-KR
+Condition non déclenchée,조건이 발동하지 않았습니다,ko-KR
+Condition not triggered,조건이 발동하지 않았습니다,ko-KR
+Conditions d'échec remplies,실패 조건을 충족했습니다,ko-KR
+Condizione già attivata nel tick %s,조건이 %s에 이미 발동했습니다,ko-KR
+Condizione non attivata,조건이 발동하지 않았습니다,ko-KR
+Condizioni di fallimento soddisfatte,실패 조건을 충족했습니다,ko-KR
+Condição já acionada em %s,조건이 %s에 이미 발동했습니다,ko-KR
+Condição não acionada,조건이 발동하지 않았습니다,ko-KR
+Condições de falha atendidas,실패 조건을 충족했습니다,ko-KR
+Conjunto-alvo:,대상 풀:,ko-KR
+Container should be empty,용기가 비어 있어야 합니다,ko-KR
+Container should contain a single: %s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+Container should contain: %s,용기가 다음을 포함해야 합니다: %s,ko-KR
+"Coordenadas de prueba: [%s, %s, %s] en %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"Coordenadas de teste: [%s, %s, %s] em %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"Coordenadas del jugador: [%s, %s, %s] en %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"Coordenadas do jogador: [%s, %s, %s] em %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+Coordinate automatiche,구조물 크기 및 위치 감지:,ko-KR
+"Coordinate del giocatore: [%s, %s, %s] nella dimensione %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"Coordinate di collaudo: [%s, %s, %s] nella dimensione %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"Coordonnées de test : [%s, %s, %s] dans la dimension %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"Coordonnées du joueur : [%s, %s, %s] dans la dimension %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+Corner,모서리,ko-KR
+Corner Mode - Placement and size marker,모서리 모드 - 설치 및 크기 표지,ko-KR
+Corner: %s,모서리: %s,ko-KR
+Creazione dell'entità %s non riuscita,%s 개체 생성에 실패했습니다,ko-KR
+"Cuando el bloque rompecabezas se conecta a una pieza, este es el orden en el que la pieza se procesa para las conexiones en estructuras más anchas.
+
+Las piezas se procesan en orden descendente, teniendo en cuenta el orden de inserción.","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+Custom Data Tag Name,사용자 지정 데이터 태그 이름,ko-KR
+Cấp độ: %s,레벨: %s,ko-KR
+Cấu trúc '%s' không có sẵn,'%s' 구조물을 사용할 수 없습니다,ko-KR
+Cấu trúc kiểm tra thiếu %s khối,테스트 구조물에 %s 블록이 없습니다,ko-KR
+Cấu trúc được lưu với tên '%s',구조물이 '%s'(으)로 저장되었습니다,ko-KR
+Cấu trúc: %s,구조물: %s,ko-KR
+Dados,데이터,ko-KR
+Dados: %s,데이터: %s,ko-KR
+Data,데이터,ko-KR
+Data Mode - Game logic marker,데이터 모드 - 게임 논리 표지,ko-KR
+Data: %s,데이터: %s,ko-KR
+Daten,데이터,ko-KR
+Daten: %s,데이터: %s,ko-KR
+Daten‐Modus – Markierung der Spiellogik,데이터 모드 - 게임 논리 표지,ko-KR
+Dati,데이터,ko-KR
+Dati dell'entità previsti: %s (ricevuto: %s),"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Dati: %s,데이터: %s,ko-KR
+Dati: marcatore per logiche di gioco,데이터 모드 - 게임 논리 표지,ko-KR
+Datos,데이터,ko-KR
+Datos: %s,데이터: %s,ko-KR
+Demasiados bloques %s,%s 블록이 너무 많습니다,ko-KR
+Depo boş olmalı,용기가 비어 있어야 합니다,ko-KR
+Depo şu eşyadan bir tane barındırmalı: %s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+Depo şu eşyayı barındırmalı: %s,용기가 다음을 포함해야 합니다: %s,ko-KR
+Der angegebene Block ist kein Blockgegenstand,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+DETECT,감지,ko-KR
+Detect Structure Size and Position:,구조물 크기 및 위치 감지:,ko-KR
+DETECTAR,감지,ko-KR
+Detectar posição e tamanho da estrutura:,구조물 크기 및 위치 감지:,ko-KR
+Detectar tamaño y posición:,구조물 크기 및 위치 감지:,ko-KR
+Did not expect %s to exist,%s이(가) 있으면 안 됩니다,ko-KR
+"Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+Did not expect block to be %s,%s 블록이 있으면 안 됩니다,ko-KR
+Did not expect item of type %s,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+Didn't succeed or fail within %s ticks,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+Dieser Test existiert nicht,해당하는 테스트 없음,ko-KR
+Dimension : %s,차원: %s,ko-KR
+Dimension: %s,차원: %s,ko-KR
+Dimensione della struttura,구조물 크기,ko-KR
+Dimensione della struttura di collaudo,테스트 구조물 크기,ko-KR
+dimensione della struttura in x,구조물 크기 x,ko-KR
+dimensione della struttura in y,구조물 크기 y,ko-KR
+dimensione della struttura in z,구조물 크기 z,ko-KR
+Dimensione: %s,차원: %s,ko-KR
+Dimensión: %s,차원: %s,ko-KR
+Dimensão: %s,차원: %s,ko-KR
+Données,데이터,ko-KR
+Données : %s,데이터: %s,ko-KR
+Données d'entité attendues : %s (valeur reçue : %s),"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Drehbar,회전 가능,ko-KR
+Dâhilî Fonksiyon Testi,내장 함수 테스트,ko-KR
+Délai d'expiration non valide (%s) - doit être un nombre positif de ticks,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+"Démarrage du test ""%s""",테스트 %s을(를) 시작합니다,ko-KR
+Démarrer,시작,ko-KR
+DÉTECTE,감지,ko-KR
+Détecter la position et la taille :,구조물 크기 및 위치 감지:,ko-KR
+Döndürülebilir,회전 가능,ko-KR
+Dönüşür:,다음으로 변화:,ko-KR
+Dữ liệu,데이터,ko-KR
+Dữ liệu thực thể không khớp cho %s,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+Dữ liệu: %s,데이터: %s,ko-KR
+"Dự kiến %s chạm vào %s, %s, %s (tương đối: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+Dự kiến %s có hiệu ứng %s %s,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+Dự kiến %s là %s: trước đó là %s,"%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Dự kiến %s nằm trong phạm vi từ %s đến %s: trước đó là %s,"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+Dự kiến %s tồn tại trong kiểm tra,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+"Dự kiến chỉ một %s tồn tại xung quanh %s, %s, %s nhưng đã tìm thấy %s","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+Dự kiến dữ liệu thực thể là %s: trước đó là %s,"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Dự kiến thuộc tính %s là %s: trước đó là %s,"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Ebenen: %s,레벨: %s,ko-KR
+Ecke,모서리,ko-KR
+Ecke: %s,모서리: %s,ko-KR
+Eck‐Modus – Markierung von Position und Größe,모서리 모드 - 설치 및 크기 표지,ko-KR
+Effekt für %s wurde als %s %s erwartet,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+Ejecutar la prueba antes de colocar la estructura,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+El bloque proporcionado no puede ser un objeto,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+El contenedor debe contener un único: %s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+El contenedor debe contener: %s,용기가 다음을 포함해야 합니다: %s,ko-KR
+El contenedor debe estar vacío,용기가 비어 있어야 합니다,ko-KR
+El inventario de la entidad debe contener %s,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+El tamaño de «%s» se ha detectado con éxito,'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+Enregistrer,기록,ko-KR
+Enregistrer la structure,구조물 저장,ko-KR
+Ensemble d'éléments cible :,대상 풀:,ko-KR
+Entidade-bloco ausente,블록 개체가 누락되었습니다,ko-KR
+Entidades:,개체:,ko-KR
+Entities:,개체:,ko-KR
+Entity %s failed test: %s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+Entity %s failed test: %s. Expected %s: was %s,"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Entity data mismatch for %s,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+Entity inventory should contain %s,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+Entity should be holding %s,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+Entità,개체 포함:,ko-KR
+Entità,개체:,ko-KR
+"Entité ""%s"" attendue",%s이(가) 필요합니다,ko-KR
+"Entité ""%s"" attendue autour de %s, %s, %s","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+"Entité ""%s"" attendue d'avoir l'effet %s %s",%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+"Entité ""%s"" attendue dans le test",테스트 안에 %s이(가) 있어야 합니다,ko-KR
+"Entité ""%s"" attendue de toucher %s, %s, %s (relative : %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+"Entité ""%s"" inattendue",%s이(가) 있으면 안 됩니다,ko-KR
+"Entité ""%s"" non attendue de toucher %s, %s, %s (relative : %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+Entité de bloc manquante,블록 개체가 누락되었습니다,ko-KR
+Entités :,개체:,ko-KR
+Entorno: %s,환경: %s,ko-KR
+Environment: %s,환경: %s,ko-KR
+Environnement : %s,환경: %s,ko-KR
+Erkennen,감지,ko-KR
+Erreur interne inconnue : %s,알 수 없는 내부 오류: %s,ko-KR
+Erro interno desconhecido: %s,알 수 없는 내부 오류: %s,ko-KR
+Error al colocar la estructura de prueba para %s,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+Error interno desconocido: %s,알 수 없는 내부 오류: %s,ko-KR
+Errore interno sconosciuto: %s,알 수 없는 내부 오류: %s,ko-KR
+Erwartete %s im Test,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+Esa prueba no existe,해당하는 테스트 없음,ko-KR
+"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s","%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+Esperava-se %s,%s이(가) 필요합니다,ko-KR
+Esperava-se a presença do bloco %s,블록 %s이(가) 존재해야 합니다,ko-KR
+"Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+"Esperava-se o bloco %s, obteve-se %s","%s 블록이 필요한데, %s(이)었습니다",ko-KR
+"Esperava-se o bloco em #%s, obteve-se %s","#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+Esperava-se o item do tipo %s,%s 유형의 아이템이 필요합니다,ko-KR
+"Esperava-se que %s exista ao redor de %s, %s, %s","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+Esperava-se que %s existisse no teste,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+"Esperava-se que %s fosse %s, foi %s","%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Esperava-se que a entidade %s tivesse o efeito %s (%s),%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+"Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+"Esperava-se que a propriedade %s seja %s, foi %s","%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+"Esperava-se que o valor %s estivesse %s e %s, foi %s","%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+"Esperavam-se %s itens do tipo %s, encontrou-se %s","%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+"Esperavam-se os dados da entidade: %s, foram: %s","개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Esquina,모서리,ko-KR
+Esquina: %s,모서리: %s,ko-KR
+Estado incorrecto. Se requiere %s: se obtuvo %s,"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+"Estado incorreto. Esperava-se %s, foi %s","잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Estructura: %s,구조물: %s,ko-KR
+"Estrutura ""%s"" não encontrada",'%s' 구조물을 사용할 수 없습니다,ko-KR
+"Estrutura carregada de ""%s""",구조물을 '%s'에서 불러왔습니다,ko-KR
+Estrutura de teste com o bloco ausente: %s,테스트 구조물에 %s 블록이 없습니다,ko-KR
+"Estrutura salva como ""%s""",구조물이 '%s'(으)로 저장되었습니다,ko-KR
+Estrutura: %s,구조물: %s,ko-KR
+Expected %s,%s이(가) 필요합니다,ko-KR
+Expected %s entities of type %s: found %s,"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+Expected %s items of type %s: found %s,"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+Expected %s to be %s: was %s,"%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Expected %s to be in between %s and %s: was %s,"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+"Expected %s to exist around %s, %s, %s","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+Expected %s to exist in test,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+Expected %s to have effect %s %s,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+"Expected %s touching %s, %s, %s (relative: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+Expected block %s to be present,블록 %s이(가) 존재해야 합니다,ko-KR
+Expected block %s: got %s,"%s 블록이 필요한데, %s(이)었습니다",ko-KR
+Expected block in #%s: got %s,"#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+Expected entity data to be %s: was %s,"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Expected item of type %s,%s 유형의 아이템이 필요합니다,ko-KR
+"Expected only one %s to exist around %s, %s, %s but found %s","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+Expected property %s to be %s: was %s,"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Fail,실패,ko-KR
+Fail conditions met,실패 조건을 충족했습니다,ko-KR
+Fail Mode - Fail the test,실패 모드 - 테스트를 실패시킵니다,ko-KR
+Failed to create entity %s,%s 개체 생성에 실패했습니다,ko-KR
+Failed to place test structure for %s,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+Failed to set biome for test,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+Failed: %s,실패: %s,ko-KR
+Falha ao colocar a estrutura de teste para %s,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+Falha ao criar a entidade %s,%s 개체 생성에 실패했습니다,ko-KR
+Falha ao definir o bioma para teste,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+Falhar,실패,ko-KR
+Falhou: %s,실패: %s,ko-KR
+Fallar,실패,ko-KR
+Fallimento: fa' fallire il collaudo,실패 모드 - 테스트를 실패시킵니다,ko-KR
+Fallisci,실패,ko-KR
+Falló: %s,실패: %s,ko-KR
+Falscher Blockobjekttyp: %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+"Falscher Zustand. %s erwartet, war %s","잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Falta el bloque %s en la estructura de prueba,테스트 구조물에 %s 블록이 없습니다,ko-KR
+Falta una entidad-bloque,블록 개체가 누락되었습니다,ko-KR
+Falta una propiedad de bloque. Se requiere que la propiedad %s sea %s,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+Fehlendes Blockobjekt,블록 개체가 누락되었습니다,ko-KR
+Fehlermodus – Lässt den Test fehlschlagen,실패 모드 - 테스트를 실패시킵니다,ko-KR
+Fehlgeschlagen: %s,실패: %s,ko-KR
+Fehlkriterien erfüllt,실패 조건을 충족했습니다,ko-KR
+Fehlschlag,실패,ko-KR
+Fija,고정,ko-KR
+Fissa,고정,ko-KR
+Fixa,고정,ko-KR
+Fonction : %s,함수: %s,ko-KR
+Fonksiyon: %s,함수: %s,ko-KR
+Función: %s,함수: %s,ko-KR
+Function: %s,함수: %s,ko-KR
+Funktion: %s,함수: %s,ko-KR
+Funzione: %s,함수: %s,ko-KR
+Função: %s,함수: %s,ko-KR
+Garder puzzle,직소 유지,ko-KR
+Gegenstand vom Typ %s erwartet,%s 유형의 아이템이 필요합니다,ko-KR
+Gegenstand vom Typ %s wurde nicht erwartet,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+Genera,생성,ko-KR
+Generar,생성,ko-KR
+Generate,생성,ko-KR
+Generieren,생성,ko-KR
+Gerar,생성,ko-KR
+Geçersiz birim zamanda başarıldı: %s beklendi,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+"Geçersiz durum. %s beklendi, %s bulundu","잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Geçersiz test kimliği,잘못된 테스트 ID입니다,ko-KR
+Geçersiz yapı adı '%s','%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+Given block is not a block item,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+Giữ mảnh ghép,직소 유지,ko-KR
+Graine de la structure,구조물 시드,ko-KR
+Grupo objetivo:,대상 풀:,ko-KR
+Größe der Testkonstruktion,테스트 구조물 크기,ko-KR
+Größe von ‚%s‘ erfolgreich erkannt,'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+GUARDAR,저장,ko-KR
+Guardar,저장,ko-KR
+Guardar estructura,구조물 저장,ko-KR
+Guardar: %s,저장: %s,ko-KR
+Générer,생성,ko-KR
+Góc,모서리,ko-KR
+Góc: %s,모서리: %s,ko-KR
+Göreceli Konum,상대적 위치,ko-KR
+göreceli konum x,상대 위치 x,ko-KR
+göreceli konum y,상대 위치 y,ko-KR
+göreceli konum z,상대 위치 z,ko-KR
+Görünmez Blokları Göster:,투명 블록 표시:,ko-KR
+Günlük Modu - Günlüğe mesaj yazdır,기록 모드 - 메시지를 기록합니다,ko-KR
+Günlüğe Yaz,기록,ko-KR
+Hedef adı:,대상 이름:,ko-KR
+Hedef Havuzu:,대상 풀:,ko-KR
+Hizalı,고정,ko-KR
+"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+Hiển thị hộp giới hạn:,경계 상자 표시:,ko-KR
+Hiển thị khối vô hình:,투명 블록 표시:,ko-KR
+Hàm: %s,함수: %s,ko-KR
+Há muitos blocos (%s),%s 블록이 너무 많습니다,ko-KR
+Hạt giống cấu trúc,구조물 시드,ko-KR
+I dati dell'entità non corrispondono per %s,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+ID de instância do teste,테스트 인스턴스 ID,ko-KR
+ID de l'instance de test,테스트 인스턴스 ID,ko-KR
+ID de test non valide,잘못된 테스트 ID입니다,ko-KR
+ID dell'istanza di collaudo,테스트 인스턴스 ID,ko-KR
+ID di collaudo non valido,잘못된 테스트 ID입니다,ko-KR
+ID do teste inválido,잘못된 테스트 ID입니다,ko-KR
+ID kiểm tra không hợp lệ,잘못된 테스트 ID입니다,ko-KR
+ID trường hợp kiểm tra,테스트 인스턴스 ID,ko-KR
+ID กรณีตัวอย่างทดสอบ,테스트 인스턴스 ID,ko-KR
+ID การทดสอบไม่ถูกต้อง,잘못된 테스트 ID입니다,ko-KR
+Id. de prueba no válida,잘못된 테스트 ID입니다,ko-KR
+Id. del caso de prueba,테스트 인스턴스 ID,ko-KR
+Il blocco specificato non può essere un oggetto,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+Il collaudo è scaduto prima del completamento della sequenza,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+Il contenitore dovrebbe avere un solo: %s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+Il contenitore dovrebbe avere: %s,용기가 다음을 포함해야 합니다: %s,ko-KR
+Il contenitore dovrebbe essere vuoto,용기가 비어 있어야 합니다,ko-KR
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non ha una struttura di collaudo","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non è stato definito alcun collaudo","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+Impossibile rilevare la dimensione della struttura. Aggiungi degli angoli con il nome della struttura corrispondente.,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+"Impossibile salvare il modello di struttura per l'istanza di collaudo presso %s, %s, %s","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+Impossibile salvare la struttura %s,구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+"Impossible d'enregistrer la structure ""%s""",구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+"Impossible d'enregistrer le modèle de structure de test pour l'instance de test en %s, %s, %s","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de structure de test","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de test défini","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+Impossible de détecter la taille de la structure. Ajoutez des coins avec les noms de structure correspondants,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+Impostazione del bioma non riuscita,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+In ungültigem Tick stattgefunden: %s wurde erwartet,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+Include Entities:,개체 포함:,ko-KR
+Incluir entidades:,개체 포함:,ko-KR
+Inclure les entités :,개체 포함:,ko-KR
+Incorrect state. Expected %s: was %s,"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Iniciando o teste %s,테스트 %s을(를) 시작합니다,ko-KR
+Iniciando prueba %s,테스트 %s을(를) 시작합니다,ko-KR
+Iniciar,시작,ko-KR
+Insieme di destinazione,대상 풀:,ko-KR
+Integridad de la estructura,구조물 온전도,ko-KR
+Integridad y semilla de la estructura,구조물 온전도 및 시드,ko-KR
+Integridade da estrutura,구조물 온전도,ko-KR
+Integridade e semente da estrutura,구조물 온전도 및 시드,ko-KR
+Integrierter Funktionstest,내장 함수 테스트,ko-KR
+Integrità della struttura,구조물 온전도,ko-KR
+Integrità e seme della struttura,구조물 온전도 및 시드,ko-KR
+Intégrité de la structure,구조물 온전도,ko-KR
+Intégrité de la structure et graine,구조물 온전도 및 시드,ko-KR
+Invalid structure name '%s','%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+Invalid test ID,잘못된 테스트 ID입니다,ko-KR
+Invalid timeout (%s) - must be a positive number of ticks,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+Joint Type:,결합 유형:,ko-KR
+Kann Konstruktionsgröße nicht erkennen - füge Ecken mit gleichem Konstruktionsnamen hinzu,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+Katı Yerleştirme:,엄격한 설치:,ko-KR
+KAYDET,저장,ko-KR
+Kaydet,저장,ko-KR
+Kaydet: %s,저장: %s,ko-KR
+Kayıt Modu - Dosyaya yaz,저장 모드 - 파일에 쓰기,ko-KR
+Keep Jigsaws,직소 유지,ko-KR
+Keine Testabläufe innerhalb von %s Ticks abgeschlossen,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+"Khi khối mảnh ghép này kết nối đến một mảnh, đây là thứ tự mà mảnh đó được xử lí cho các kết nối trong cấu trúc rộng hơn.
+
+Các mảnh sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự chèn.","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+"Khi mảnh gốc được xử lí cho các kết nối, đây là thứ tự mà khối mảnh ghép này cố gắng kết nối đến mảnh mục tiêu.
+
+Các khối mảnh ghép sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự ngẫu nhiên.","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+Không có kiểm tra nào như vậy,해당하는 테스트 없음,ko-KR
+Không có trình tự nào được hoàn tất trong %s nhịp,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có cấu trúc kiểm tra nào","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có kiểm tra nào được xác định","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+Không thể chỉnh quần xã cho kiểm tra,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+Không thể lưu cấu trúc '%s',구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+"Không thể lưu mẫu cấu trúc kiểm tra cho trường hợp kiểm tra ở %s, %s, %s","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+Không thể phát hiện kích cỡ của cấu trúc. Hãy bổ sung thêm góc với tên cấu trúc khớp nhau,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+Không thể tạo thực thể %s,%s 개체 생성에 실패했습니다,ko-KR
+Không thể đặt cấu trúc kiểm tra cho %s,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+Khối được trao không phải là một khối vật phẩm,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+Kiểm tra dựa trên khối,블록 기반 테스트,ko-KR
+Kiểm tra hàm được tích hợp sẵn,내장 함수 테스트,ko-KR
+Kiểm tra đang đếm nhịp trước khi đặt cấu trúc,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+Kiểm tra đã hết thời gian trước khi trình tự được hoàn thành,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+Konstruktion als ‚%s‘ gespeichert,구조물이 '%s'(으)로 저장되었습니다,ko-KR
+Konstruktion speichern,구조물 저장,ko-KR
+Konstruktion ‚%s‘ geladen,구조물을 '%s'에서 불러왔습니다,ko-KR
+Konstruktion ‚%s‘ konnte nicht gespeichert werden,구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+Konstruktion ‚%s‘ nicht gefunden,'%s' 구조물을 사용할 수 없습니다,ko-KR
+Konstruktion: %s,구조물: %s,ko-KR
+Konstruktions-Startwert,구조물 시드,ko-KR
+Konstruktionsgröße,구조물 크기,ko-KR
+Konstruktionsgröße (X),구조물 크기 x,ko-KR
+Konstruktionsgröße (Y),구조물 크기 y,ko-KR
+Konstruktionsgröße (Z),구조물 크기 z,ko-KR
+Konstruktionsgröße und ‐position erkennen:,구조물 크기 및 위치 감지:,ko-KR
+Konstruktionsname,구조물 이름,ko-KR
+Konstruktionsvollständigkeit,구조물 온전도,ko-KR
+Kích cỡ cấu trúc,구조물 크기,ko-KR
+Kích cỡ cấu trúc kiểm tra,테스트 구조물 크기,ko-KR
+kích cỡ cấu trúc x,구조물 크기 x,ko-KR
+kích cỡ cấu trúc y,구조물 크기 y,ko-KR
+kích cỡ cấu trúc z,구조물 크기 z,ko-KR
+Köşe,모서리,ko-KR
+Köşe Modu - Konum ve boyut işaretleyici,모서리 모드 - 설치 및 크기 표지,ko-KR
+Köşe: %s,모서리: %s,ko-KR
+L'entità %s ha fallito il collaudo: %s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+"L'entità %s ha fallito il collaudo: %s (previsto: %s, ricevuto: %s)","%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+L'entità dovrebbe impugnare %s,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+"L'entité ""%s"" a échoué le test : %s (valeur attendue : %s, valeur reçue : %s)","%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+"L'entité doit tenir l'objet ""%s""",개체가 %s을(를) 들고 있어야 합니다,ko-KR
+"L'inventaire de l'entité doit contenir l'objet ""%s""",개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+L'inventario dell'entità dovrebbe avere %s,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+La entidad %s falló la prueba: %s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+La entidad %s falló la prueba: %s. Se requiere %s: se obtuvo %s,"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+La entidad debe sostener %s,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+"La estructura ""%s"" no está disponible ",'%s' 구조물을 사용할 수 없습니다,ko-KR
+La estructura se ha guardado como «%s»,구조물이 '%s'(으)로 저장되었습니다,ko-KR
+"La position de la structure ""%s"" a été préparée",구조물 '%s'의 위치가 준비되었습니다,ko-KR
+La prueba se terminó antes de que se completara la secuencia,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+"La structure ""%s"" n'est pas disponible ",'%s' 구조물을 사용할 수 없습니다,ko-KR
+La struttura %s non è disponibile,'%s' 구조물을 사용할 수 없습니다,ko-KR
+"La taille de la structure ""%s"" a été détectée",'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+Laden,불러오기,ko-KR
+Laden und ausführen,불러오고 실행,ko-KR
+Laden: %s,불러오기: %s,ko-KR
+Lade‐Modus – Aus Datei laden,불러오기 모드 - 파일에서 불러오기,ko-KR
+Le bloc spécifié n'est pas un bloc sous forme d'objet,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+"Le conteneur doit contenir l'objet ""%s""",용기가 다음을 포함해야 합니다: %s,ko-KR
+"Le conteneur doit contenir un seul objet ""%s""",용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+Le conteneur doit être vide,용기가 비어 있어야 합니다,ko-KR
+Le test n'a ni réussi ni échoué durant %s tick(s),%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+Le test s'est terminé avant la fin de la séquence,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+Levels: %s,레벨: %s,ko-KR
+Livelli: %s,레벨: %s,ko-KR
+LOAD,불러오기,ko-KR
+Load,불러오기,ko-KR
+Load and Run,불러오고 실행,ko-KR
+Load Mode - Load from file,불러오기 모드 - 파일에서 불러오기,ko-KR
+Load: %s,불러오기: %s,ko-KR
+Log,기록,ko-KR
+Log Mode - Log a message,기록 모드 - 메시지를 기록합니다,ko-KR
+Los datos de la entidad no coinciden para %s,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+Loại khớp nối:,결합 유형:,ko-KR
+Loại: %s,유형: %s,ko-KR
+LƯU,저장,ko-KR
+Lưu,저장,ko-KR
+Lưu cấu trúc,구조물 저장,ko-KR
+Lưu: %s,저장: %s,ko-KR
+Lỗi nội bộ không rõ: %s,알 수 없는 내부 오류: %s,ko-KR
+Mantener rompec.,직소 유지,ko-KR
+Mantenimento,직소 유지,ko-KR
+Mantê-los,직소 유지,ko-KR
+Mensagem:,메시지:,ko-KR
+Mensaje:,메시지:,ko-KR
+Mesaj:,메시지:,ko-KR
+Message :,메시지:,ko-KR
+Message:,메시지:,ko-KR
+Messaggio,메시지:,ko-KR
+Missing block entity,블록 개체가 누락되었습니다,ko-KR
+Mode Accepter - Accepter la réussite (d'une partie) d'un test,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+Mode Charger - Charger depuis un fichier,불러오기 모드 - 파일에서 불러오기,ko-KR
+Mode Coin - Marqueur de position et de taille,모서리 모드 - 설치 및 크기 표지,ko-KR
+Mode Données - Marqueur de logique du jeu,데이터 모드 - 게임 논리 표지,ko-KR
+Mode Démarrer - Le point de départ d'un test,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+Mode Enregistrer - Enregistrer un message,기록 모드 - 메시지를 기록합니다,ko-KR
+Mode Sauvegarder - Écrire dans un fichier,저장 모드 - 파일에 쓰기,ko-KR
+Mode Échouer - Échouer le test,실패 모드 - 테스트를 실패시킵니다,ko-KR
+Modo aceptar: acepta superación de (parte de) una prueba,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+Modo cargar: carga desde un archivo,불러오기 모드 - 파일에서 불러오기,ko-KR
+Modo datos: usa la lógica del juego,데이터 모드 - 게임 논리 표지,ko-KR
+Modo de aceite — Aceitar o sucesso de (parte de) um teste,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+Modo de canto — Marcador de posição e tamanho,모서리 모드 - 설치 및 크기 표지,ko-KR
+Modo de carregamento — Carregar do arquivo,불러오기 모드 - 파일에서 불러오기,ko-KR
+Modo de dados — Marcador lógico do jogo,데이터 모드 - 게임 논리 표지,ko-KR
+Modo de falha — Falhar o teste,실패 모드 - 테스트를 실패시킵니다,ko-KR
+Modo de início — Ponto inicial de um teste,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+Modo de registro — Registrar uma mensagem,기록 모드 - 메시지를 기록합니다,ko-KR
+Modo de salvamento — Salvar no arquivo,저장 모드 - 파일에 쓰기,ko-KR
+Modo esquina: indica posición y tamaño,모서리 모드 - 설치 및 크기 표지,ko-KR
+Modo fallar: falla la prueba,실패 모드 - 테스트를 실패시킵니다,ko-KR
+Modo guardar: guarda en un archivo,저장 모드 - 파일에 쓰기,ko-KR
+Modo iniciar: el punto de inicio de una prueba,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+Modo registrar: registra un mensaje,기록 모드 - 메시지를 기록합니다,ko-KR
+Mostra blocchi invisibili,투명 블록 표시:,ko-KR
+Mostrar blocos invisíveis:,투명 블록 표시:,ko-KR
+Mostrar bloques invisibles:,투명 블록 표시:,ko-KR
+Mostrar bordas:,경계 상자 표시:,ko-KR
+Mostrar límites:,경계 상자 표시:,ko-KR
+Môi trường: %s,환경: %s,ko-KR
+Nachricht:,메시지:,ko-KR
+Name:,이름:,ko-KR
+Nenhum teste,해당하는 테스트 없음,ko-KR
+Nenhuma sequência concluída dentro de %s tique(s),%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+Nessun collaudo trovato,해당하는 테스트 없음,ko-KR
+Nessuna sequenza finita entro %s tick,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+Nhóm mục tiêu:,대상 풀:,ko-KR
+Nhật kí,기록,ko-KR
+"Nicht erwartet, %s vorzufinden",%s이(가) 있으면 안 됩니다,ko-KR
+Ninguna secuencia finalizó durante %s ticks,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+Niveaux : %s,레벨: %s,ko-KR
+Niveles: %s,레벨: %s,ko-KR
+No hubo ningún resultado durante %s tics,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+No se esperaba que %s existiera,%s이(가) 있으면 안 됩니다,ko-KR
+"No se esperaba que %s tocase %s, %s, %s (relativo: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+No se esperaba que el bloque fuese %s,%s 블록이 있으면 안 됩니다,ko-KR
+No se esperaba un objeto del tipo %s,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+No se ha podido detectar el tamaño de la estructura. Añade más esquinas con el nombre de la estructura correspondiente,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+"No se ha podido ejecutar el caso de prueba en %s, %s, %s porque no se ha definido una prueba","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"No se ha podido ejecutar la instancia de prueba en %s, %s, %s porque no tiene estructura de prueba","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+No se ha podido guardar la estructura «%s»,구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+No se pudo crear la entidad %s,%s 개체 생성에 실패했습니다,ko-KR
+No se pudo establecer el bioma para la prueba,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+"No se pudo guardar la plantilla de estructura de prueba en %s, %s, %s","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+No sequences finished within %s ticks,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+No such test,해당하는 테스트 없음,ko-KR
+Nom :,이름:,ko-KR
+Nom de la cible :,대상 이름:,ko-KR
+Nom de la structure,구조물 이름,ko-KR
+Nom du tag de données personnalisé,사용자 지정 데이터 태그 이름,ko-KR
+Nombre de etiqueta de datos personalizado,사용자 지정 데이터 태그 이름,ko-KR
+Nombre de la estructura,구조물 이름,ko-KR
+Nombre del objetivo:,대상 이름:,ko-KR
+Nombre:,이름:,ko-KR
+Nome,이름:,ko-KR
+Nome da estrutura,구조물 이름,ko-KR
+Nome da estrutura inválido: %s,'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+Nome da marcação de dados personalizados,사용자 지정 데이터 태그 이름,ko-KR
+Nome del marcatore personalizzato,사용자 지정 데이터 태그 이름,ko-KR
+Nome della struttura,구조물 이름,ko-KR
+Nome della struttura non valido: «%s»,'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+Nome di destinazione,대상 이름:,ko-KR
+Nome do alvo:,대상 이름:,ko-KR
+Nome:,이름:,ko-KR
+Non era prevista l'esistenza di %s,%s이(가) 있으면 안 됩니다,ko-KR
+Non era previsto che il blocco fosse %s,%s 블록이 있으면 안 됩니다,ko-KR
+Non era previsto un oggetto di tipo %s,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+"Non previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+Non riuscito né fallito entro %s tick,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+Non riuscito: %s,실패: %s,ko-KR
+"Non-correspondance des données de l'entité ""%s""",%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+"Nur ein %s um %s, %s, %s erwartet, aber %s gefunden","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+"Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+Não esperava-se que o bloco fosse %s,%s 블록이 있으면 안 됩니다,ko-KR
+Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+"Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"Não foi possível salvar a estrutura ""%s""",구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+"Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+Não se esperava que %s existisse,%s이(가) 있으면 안 됩니다,ko-KR
+Não se esperava um item do tipo %s,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+Níveis: %s,레벨: %s,ko-KR
+NẠP,불러오기,ko-KR
+Nạp,불러오기,ko-KR
+Nạp và chạy,불러오고 실행,ko-KR
+Nạp: %s,불러오기: %s,ko-KR
+O bloco especificado não é um item-bloco.,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+O inventário da entidade deve conter %s,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+O recipiente deve conter um único: %s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+O recipiente deve conter: %s,용기가 다음을 포함해야 합니다: %s,ko-KR
+O recipiente deve estar vazio,용기가 비어 있어야 합니다,ko-KR
+O teste acabou antes de completar a sequência,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+O teste não foi concluído ou falhou dentro de %s tique(s),%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+Objekt %s erfüllte Test nicht: %s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+"Objekt %s hat Test %s nicht erfüllt: %s erwartet, war aber %s","%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Objekt %s konnte nicht erzeugt werden,%s 개체 생성에 실패했습니다,ko-KR
+Objekt hätte %s halten sollen,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+"Objektdaten %s wurden erwartet, waren aber %s","개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Objektdaten für %s stimmen nicht überein,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+Objekte einbeziehen:,개체 포함:,ko-KR
+Objekte:,개체:,ko-KR
+Objektinventar hätte %s enthalten sollen,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+"Objet de type ""%s"" attendu",%s 유형의 아이템이 필요합니다,ko-KR
+"Objet de type ""%s"" inattendu",%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+Oluştur,생성,ko-KR
+Onay Modu - Bir testin (parçasının) başarısını onaylama,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+Onayla,인정,ko-KR
+"Ordre dans lequel ce bloc de puzzle tente de se connecter à sa pièce cible lorsque la pièce parent est traitée pour les connexions.
+
+Le processus se déroule dans l'ordre décroissant, ou de manière aléatoire en cas d'égalité.","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+"Ordre dans lequel la pièce sur laquelle se connecte ce bloc de puzzle est traitée parmi les connexions d'une structure plus large.
+
+Le processus se déroule dans l'ordre décroissant, en suivant l'ordre d'insertion en cas d'égalité.","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+Os dados da entidade não correspondem para: %s,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+"Oyuncu konumu: [%s, %s, %s] %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+P. de colocación:,설치 우선도:,ko-KR
+P. de selección:,선택 우선도:,ko-KR
+PH.HIỆN,감지,ko-KR
+Phát hiện kích cỡ và vị trí cấu trúc:,구조물 크기 및 위치 감지:,ko-KR
+Piazzamento della struttura di collaudo per %s non riuscita,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+Piazzamento statico,엄격한 설치:,ko-KR
+Placement Priority:,설치 우선도:,ko-KR
+Placement strict :,엄격한 설치:,ko-KR
+Platzierpriorität:,설치 우선도:,ko-KR
+"Player coordinates: [%s, %s, %s] in %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+Posicionamento exato:,엄격한 설치:,ko-KR
+Position relative,상대적 위치,ko-KR
+position relative x,상대 위치 x,ko-KR
+position relative y,상대 위치 y,ko-KR
+position relative z,상대 위치 z,ko-KR
+Position von Konstruktion ‚%s‘ vorbereitet,구조물 '%s'의 위치가 준비되었습니다,ko-KR
+Posizione relativa,상대적 위치,ko-KR
+Posizione relativa in x,상대 위치 x,ko-KR
+Posizione relativa in y,상대 위치 y,ko-KR
+Posizione relativa in z,상대 위치 z,ko-KR
+"Posição da estrutura ""%s"" preparada",구조물 '%s'의 위치가 준비되었습니다,ko-KR
+Posição relativa,상대적 위치,ko-KR
+posição x relativa,상대 위치 x,ko-KR
+posição y relativa,상대 위치 y,ko-KR
+posição z relativa,상대 위치 z,ko-KR
+Preparato la posizione della struttura %s,구조물 '%s'의 위치가 준비되었습니다,ko-KR
+"Prevista l'esistenza di %s intorno a %s, %s, %s","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+Prevista l'esistenza di %s nel collaudo,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+"Prevista l'esistenza di una sola entità %s intorno a %s, %s, %s (ricevuto: %s)","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+Prevista la presenza del blocco %s,블록 %s이(가) 존재해야 합니다,ko-KR
+Previste %s entità di tipo %s (ricevuto: %s),"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+Previsti %s oggetti di tipo %s (ricevuto: %s),"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+Previsto %s,%s이(가) 필요합니다,ko-KR
+"Previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+Previsto blocco nell'insieme #%s (ricevuto: %s),"#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+Previsto che %s abbia l'effetto %s %s,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+Previsto il blocco %s (ricevuto: %s),"%s 블록이 필요한데, %s(이)었습니다",ko-KR
+Previsto oggetto di tipo %s,%s 유형의 아이템이 필요합니다,ko-KR
+Previsto un valore %s tra %s e %s (ricevuto: %s),"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+Prio. de placement :,설치 우선도:,ko-KR
+Prio. de sélection :,선택 우선도:,ko-KR
+Prior. de posição:,설치 우선도:,ko-KR
+Prior. de seleção:,선택 우선도:,ko-KR
+Priorità di selezione e di piazzamento,선택 우선도:,ko-KR
+Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+Proprietà %s prevista: %s (ricevuto: %s),"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Proprietà di blocco mancante. Proprietà %s prevista: %s,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+"Propriété de bloc manquante. Valeur de la propriété ""%s"" attendue : %s",블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+Protokoll,기록,ko-KR
+Protokollmodus – Protokolliere eine Nachricht,기록 모드 - 메시지를 기록합니다,ko-KR
+Prueba basada en bloques,블록 기반 테스트,ko-KR
+Prueba de función integrada,내장 함수 테스트,ko-KR
+"Présence du bloc ""%s"" attendue",블록 %s이(가) 존재해야 합니다,ko-KR
+"Quando il pezzo associato viene elaborato per le connessioni, questo sarà l'ordine in cui questo blocco incastri tenterà di connettersi al suo pezzo di destinazione.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, casualmente.","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+"Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+"Quando questo blocco incastri si connette a un pezzo, questo sarà l'ordine in cui il pezzo viene elaborato per le connessioni nella struttura complessiva.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, seguendo l'ordine d'inserimento.","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+Quá nhiều khối %s,%s 블록이 너무 많습니다,ko-KR
+Redefinir e carregar,초기화하고 불러오기,ko-KR
+Redefinição concluída para o teste: %s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+Registra,기록,ko-KR
+Registrar,기록,ko-KR
+Registrazione: registra un messaggio,기록 모드 - 메시지를 기록합니다,ko-KR
+Reiniciar y cargar,초기화하고 불러오기,ko-KR
+Relative Position,상대적 위치,ko-KR
+relative position x,상대 위치 x,ko-KR
+relative position y,상대 위치 y,ko-KR
+relative position z,상대 위치 z,ko-KR
+Relative X-Position,상대 위치 x,ko-KR
+Relative Y-Position,상대 위치 y,ko-KR
+Relative Z-Position,상대 위치 z,ko-KR
+Reset and Load,초기화하고 불러오기,ko-KR
+Reset succeeded for test: %s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+Rileva,감지,ko-KR
+Rilevato la dimensione della struttura %s,'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+Ripristina e carica,초기화하고 불러오기,ko-KR
+Ripristino riuscito per il collaudo: %s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+Riuscita ottenuta durante un tick non valido: previsto %s,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+Riuscita ottenuta prima del tick previsto: prevista l'attesa di %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+Rollable,회전 가능,ko-KR
+Rotable,회전 가능,ko-KR
+Rotación:,회전:,ko-KR
+Rotatif,회전 가능,ko-KR
+Rotation :,회전:,ko-KR
+Rotation:,회전:,ko-KR
+Rotativa,회전 가능,ko-KR
+Rotatoria,회전 가능,ko-KR
+Rotazione,회전:,ko-KR
+Rotação:,회전:,ko-KR
+"Réinitialisation réussie pour le test ""%s""",테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+Réinitialiser et charger,초기화하고 불러오기,ko-KR
+Réussite avant le tick attendu : le tick minimum attendu était de %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+Réussite dans le tick non valide : %s attendu(s),%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+Sai loại thực thể khối: %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+Salva,저장,ko-KR
+Salva struttura,구조물 저장,ko-KR
+SALVAR,저장,ko-KR
+Salvar,저장,ko-KR
+Salvar estrutura,구조물 저장,ko-KR
+Salvar: %s,저장: %s,ko-KR
+Salvataggio: %s,저장: %s,ko-KR
+Salvataggio: scrivi su documento,저장 모드 - 파일에 쓰기,ko-KR
+Salvato la struttura come «%s»,구조물이 '%s'(으)로 저장되었습니다,ko-KR
+SAUVE,저장,ko-KR
+Sauvegarder,저장,ko-KR
+Sauvegarder : %s,저장: %s,ko-KR
+SAVE,저장,ko-KR
+Save,저장,ko-KR
+Save Mode - Write to file,저장 모드 - 파일에 쓰기,ko-KR
+Save Structure,구조물 저장,ko-KR
+Save: %s,저장: %s,ko-KR
+Se change en :,다음으로 변화:,ko-KR
+Se convierte en:,다음으로 변화:,ko-KR
+Se cumplieron las condiciones de falla,실패 조건을 충족했습니다,ko-KR
+Se encontró un tipo de bloque no esperado: %s,예기치 않은 블록 유형입니다: %s,ko-KR
+Se ha cargado la estructura de «%s»,구조물을 '%s'에서 불러왔습니다,ko-KR
+"Se ha preparado la ubicación de la estructura ""%s""",구조물 '%s'의 위치가 준비되었습니다,ko-KR
+Se ha reiniciado la prueba %s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+Se requiere %s,%s이(가) 필요합니다,ko-KR
+Se requiere el bloque %s: se obtuvo %s,"%s 블록이 필요한데, %s(이)었습니다",ko-KR
+Se requiere el bloque en #%s: se obtuvo %s,"#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+"Se requiere que %s exista alrededor de %s, %s, %s","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+Se requiere que %s exista en la prueba,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+Se requiere que %s sea %s: se obtuvo %s,"%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Se requiere que %s tenga efecto %s %s,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+Se requiere que %s tenga un valor entre %s y %s: es %s,"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+"Se requiere que %s toque %s, %s, %s (relativo: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+Se requiere que el bloque %s esté presente,블록 %s이(가) 존재해야 합니다,ko-KR
+"Se requiere que exista un único %s alrededor de %s, %s, %s, pero se encontraron %s","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+Se requiere que la propiedad %s sea %s: se obtuvo %s,"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Se requiere que los datos de la entidad sean %s: se obtuvo %s,"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Se requiere un objeto del tipo %s,%s 유형의 아이템이 필요합니다,ko-KR
+"Se requieren %s entidades del tipo %s, encontradas: %s","%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+"Se requieren %s objetos del tipo %s, encontrados: %s","%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+Selection Priority:,선택 우선도:,ko-KR
+Seme della struttura,구조물 시드,ko-KR
+Semente da estrutura,구조물 시드,ko-KR
+Semilla de la estructura,구조물 시드,ko-KR
+Seviyeler: %s,레벨: %s,ko-KR
+Seçim Önceliği:,선택 우선도:,ko-KR
+Show Bounding Box:,경계 상자 표시:,ko-KR
+Show Invisible Blocks:,투명 블록 표시:,ko-KR
+Size successfully detected for '%s','%s'의 크기를 성공적으로 감지했습니다,ko-KR
+Speichern,저장,ko-KR
+Speichern: %s,저장: %s,ko-KR
+Speicher‐Modus – In Datei speichern,저장 모드 - 파일에 쓰기,ko-KR
+"Spielerkoordinaten: [%s, %s, %s] in %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+Start,시작,ko-KR
+Start Mode - The starting point for a test,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+Starting test %s,테스트 %s을(를) 시작합니다,ko-KR
+Startmodus – Der Anfangspunkt eines Tests,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+Stato finale,다음으로 변화:,ko-KR
+"Stato non corretto (previsto: %s, ricevuto: %s)","잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Strict Placement:,엄격한 설치:,ko-KR
+Strikte Platzierung:,엄격한 설치:,ko-KR
+Structure '%s' is not available,'%s' 구조물을 사용할 수 없습니다,ko-KR
+Structure '%s' position prepared,구조물 '%s'의 위치가 준비되었습니다,ko-KR
+Structure : %s,구조물: %s,ko-KR
+"Structure chargée depuis ""%s""",구조물을 '%s'에서 불러왔습니다,ko-KR
+"Structure enregistrée comme ""%s""",구조물이 '%s'(으)로 저장되었습니다,ko-KR
+Structure Integrity,구조물 온전도,ko-KR
+Structure Integrity and Seed,구조물 온전도 및 시드,ko-KR
+Structure loaded from '%s',구조물을 '%s'에서 불러왔습니다,ko-KR
+Structure Name,구조물 이름,ko-KR
+Structure saved as '%s',구조물이 '%s'(으)로 저장되었습니다,ko-KR
+Structure Seed,구조물 시드,ko-KR
+Structure Size,구조물 크기,ko-KR
+structure size x,구조물 크기 x,ko-KR
+structure size y,구조물 크기 y,ko-KR
+structure size z,구조물 크기 z,ko-KR
+Structure: %s,구조물: %s,ko-KR
+Struttura: %s,구조물: %s,ko-KR
+Succeeded before expected tick: expected to wait %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+Succeeded in invalid tick: expected %s,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+Sıfırla ve Yükle,초기화하고 불러오기,ko-KR
+Taille de la structure,구조물 크기,ko-KR
+Taille de la structure de test,테스트 구조물 크기,ko-KR
+taille de la structure x,구조물 크기 x,ko-KR
+taille de la structure y,구조물 크기 y,ko-KR
+taille de la structure z,구조물 크기 z,ko-KR
+Tamanho da estrutura,구조물 크기,ko-KR
+"Tamanho da estrutura ""%s"" detectado",'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+Tamanho da estrutura do teste,테스트 구조물 크기,ko-KR
+tamanho x da estrutura,구조물 크기 x,ko-KR
+tamanho y da estrutura,구조물 크기 y,ko-KR
+tamanho z da estrutura,구조물 크기 z,ko-KR
+Tamaño de la estructura,구조물 크기,ko-KR
+Tamaño de la estructura de prueba,테스트 구조물 크기,ko-KR
+tamaño de la estructura x,구조물 크기 x,ko-KR
+tamaño de la estructura y,구조물 크기 y,ko-KR
+tamaño de la estructura z,구조물 크기 z,ko-KR
+"Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+Target Name:,대상 이름:,ko-KR
+Target Pool:,대상 풀:,ko-KR
+Tempo limite inválido (%s) — Deve conter um número positivo de tiques,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+TESPİT ET,감지,ko-KR
+Test %s wird gestartet,테스트 %s을(를) 시작합니다,ko-KR
+Test %s wurde erfolgreich zurückgesetzt,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+Test basé sur des blocs,블록 기반 테스트,ko-KR
+Test Birimi Kimliği,테스트 인스턴스 ID,ko-KR
+"Test coordinates: [%s, %s, %s] in %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+Test de fonction intégrée,내장 함수 테스트,ko-KR
+Test de ticks effectué avant le placement de la structure,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+Test Instance ID,테스트 인스턴스 ID,ko-KR
+Test için biyom değiştirilemedi,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+"Test konumu: [%s, %s, %s] %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+Test structure missing %s block,테스트 구조물에 %s 블록이 없습니다,ko-KR
+Test Structure Size,테스트 구조물 크기,ko-KR
+Test sıfırlama başarılı oldu: %s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+Test timed out before sequence completed,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+Test vor Abschluss des Vorgangs abgelaufen,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+"Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+Test Yapısı Boyutu,테스트 구조물 크기,ko-KR
+"Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+Test yapısında %s bloğu eksik,테스트 구조물에 %s 블록이 없습니다,ko-KR
+"Test, dizi tamamlanmadan zaman aşımına uğradı",시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+"Testausführung begann, bevor Konstruktion platziert wurde",구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+Teste baseado em blocos,블록 기반 테스트,ko-KR
+Teste de função integrada,내장 함수 테스트,ko-KR
+Teste em tiques antes de colocar a estrutura,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+"Testinstanz bei %s, %s, %s kann nicht ausgeführt werden, da ihr kein Test zugewiesen ist","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"Testinstanz bei %s, %s, %s konnte nicht ausgeführt werden, da ihre Testkonstruktion fehlt","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+Testinstanz‐ID,테스트 인스턴스 ID,ko-KR
+Testkonstruktion für %s konnte nicht platziert werden,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+Testkonstruktion hat keinen %s‐Block,테스트 구조물에 %s 블록이 없습니다,ko-KR
+"Testkonstruktionsvorlage für Testinstanz bei %s, %s, %s kann nicht gespeichert werden","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+"Testkoordinaten: [%s, %s, %s] in %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+Thiết lập lại và nạp,초기화하고 불러오기,ko-KR
+Thất bại,실패,ko-KR
+Thất bại: %s,실패: %s,ko-KR
+Thời gian chờ không hợp lệ (%s) - số lượng nhịp phải là số dương,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+Thực thể %s đã kiểm tra thất bại: %s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+Thực thể %s đã kiểm tra thất bại: %s. Bị thiếu: %s: trước đó là %s,"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Thực thể phải giữ %s,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+Thực thể:,개체:,ko-KR
+Ticking test before placing structure,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+Tiempo de espera no válido (%s): debe ser un número positivo de tics,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+Timeout non valido (%s): deve essere un numero positivo di tick,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+Tin nhắn:,메시지:,ko-KR
+Tipo de bloco inesperado encontrado: %s,예기치 않은 블록 유형입니다: %s,ko-KR
+Tipo de entidade-bloco incorreto: %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+Tipo de ligação:,결합 유형:,ko-KR
+Tipo de unión:,결합 유형:,ko-KR
+Tipo di blocco complesso errato: %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+Tipo di giunzione,결합 유형:,ko-KR
+Tipo incorrecto de entidad-bloque: %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+Tipo: %s,유형: %s,ko-KR
+Too many %s blocks,%s 블록이 너무 많습니다,ko-KR
+Torna-se:,다음으로 변화:,ko-KR
+"Toạ độ kiểm tra: [%s, %s, %s] trong %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"Toạ độ người chơi: [%s, %s, %s] trong %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+toạ độ tương đối x,상대 위치 x,ko-KR
+"Trop de blocs ""%s""",%s 블록이 너무 많습니다,ko-KR
+Troppi blocchi (%s),%s 블록이 너무 많습니다,ko-KR
+Trovato tipo di blocco non previsto: %s,예기치 않은 블록 유형입니다: %s,ko-KR
+Trạng thái không chính xác. Bị thiếu %s: trước đó là %s,"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Trở thành:,다음으로 변화:,ko-KR
+Turns into:,다음으로 변화:,ko-KR
+Typ: %s,유형: %s,ko-KR
+Type : %s,유형: %s,ko-KR
+Type d'emboîtement :,결합 유형:,ko-KR
+Type d'entité de bloc incorrect : %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+Type de bloc inattendu trouvé : %s,예기치 않은 블록 유형입니다: %s,ko-KR
+Type: %s,유형: %s,ko-KR
+Tên cấu trúc,구조물 이름,ko-KR
+Tên cấu trúc '%s' không hợp lệ,'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+Tên mục tiêu:,대상 이름:,ko-KR
+Tên nhãn dữ liệu tuỳ chỉnh,사용자 지정 데이터 태그 이름,ko-KR
+Tên:,이름:,ko-KR
+Túi đồ của thực thể phải chứa %s,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+Tür: %s,유형: %s,ko-KR
+Tạo,생성,ko-KR
+Ubicación relativa,상대적 위치,ko-KR
+ubicación X relativa,상대 위치 x,ko-KR
+ubicación Y relativa,상대 위치 y,ko-KR
+ubicación Z relativa,상대 위치 z,ko-KR
+Umgebung: %s,환경: %s,ko-KR
+Unable to detect structure size. Add corners with matching structure names,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+"Unable to run test instance at %s, %s, %s since it has an undefined test","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"Unable to run test instance at %s, %s, %s since it has no test structure","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+Unable to save structure '%s',구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+"Unable to save test structure template for test instance at %s, %s, %s","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+Unbekannter interner Fehler: %s,알 수 없는 내부 오류: %s,ko-KR
+"Une seule entité ""%s"" attendue autour de %s, %s, %s mais en a trouvé %s","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+Unerwarteter Blocktyp gefunden: %s,예기치 않은 블록 유형입니다: %s,ko-KR
+Unexpected block type found: %s,예기치 않은 블록 유형입니다: %s,ko-KR
+Ungültige Test‐ID,잘못된 테스트 ID입니다,ko-KR
+Ungültiger Konstruktionsname ‚%s‘,'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+Ungültiges Timeout (%s) – muss eine positive Anzahl von Ticks sein,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+Unknown internal error: %s,알 수 없는 내부 오류: %s,ko-KR
+Unsichtbare Blöcke anzeigen:,투명 블록 표시:,ko-KR
+Valeur %s attendue : %s (valeur reçue : %s),"%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Valeur %s attendue entre %s et %s (valeur reçue : %s),"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+"Valeur de la propriété ""%s"" attendue : %s (valeur reçue : %s)","%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Varlık %s tutmalı,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+"Varlık verisinin: %s olması beklendi, %s bulundu","개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Varlıklar:,개체:,ko-KR
+Varlıkları Dâhil Et:,개체 포함:,ko-KR
+Varlığın envanteri %s barındırmalı,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+Verbindung:,결합 유형:,ko-KR
+Verbundblöcke behalten,직소 유지,ko-KR
+Veri,데이터,ko-KR
+Veri Modu - Oyun mantığı işaretleyici,데이터 모드 - 게임 논리 표지,ko-KR
+Veri: %s,데이터: %s,ko-KR
+Verilen blok bir blok eşyası değil,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+Vollständigkeit & Startwert (Konstruktion),구조물 온전도 및 시드,ko-KR
+"Vor erwartetem Tick stattgefunden: erwartet, %s zu warten",예상된 %s보다 빨리 성공했습니다,ko-KR
+Vorhandensein des Blocks %s erwartet,블록 %s이(가) 존재해야 합니다,ko-KR
+Vật chứa phải chứa một: %s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+Vật chứa phải chứa: %s,용기가 다음을 포함해야 합니다: %s,ko-KR
+Vật chứa phải để trống,용기가 비어 있어야 합니다,ko-KR
+Vị trí bảo toàn:,엄격한 설치:,ko-KR
+Vị trí tương đối,상대적 위치,ko-KR
+vị trí tương đối y,상대 위치 y,ko-KR
+vị trí tương đối z,상대 위치 z,ko-KR
+Weder Erfolg noch Fehlschlag innerhalb von %s Ticks,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+"Wenn das zugehörige Stück auf Verbindungen verarbeitet wird, ist dies die Reihenfolge, in der dieser Verbundblock versucht, sich mit seinem Zielstück zu verbinden.
+
+Verbünde werden in absteigender Priorität verarbeitet, wobei Gleichstände durch eine zufällige Reihenfolge gelöst werden.","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+"Wenn sich dieser Verbundblock mit einem Stück verbindet, ist dies die Reihenfolge, in der das Stück auf Verbindungen zur Gesamtkonstruktion verarbeitet wird.
+
+Stücke werden in absteigender Priorität verarbeitet, wobei Gleichstände durch die Einfügungsreihenfolge gelöst werden.","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+"When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+"When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+Wird zu:,다음으로 변화:,ko-KR
+Wrong block entity type: %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+X 軸相對位置,상대 위치 x,ko-KR
+X 軸結構大小,구조물 크기 x,ko-KR
+Xoay được,회전 가능,ko-KR
+X軸方向の構造物のサイズ,구조물 크기 x,ko-KR
+X軸方向の相対座標,상대 위치 x,ko-KR
+Y 軸相對位置,상대 위치 y,ko-KR
+Y 軸結構大小,구조물 크기 y,ko-KR
+Yanlış blok varlık türü: %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+Yapbozları Sakla,직소 유지,ko-KR
+Yapı '%s' kaydedilemedi,구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+Yapı '%s' olarak kaydedildi,구조물이 '%s'(으)로 저장되었습니다,ko-KR
+Yapı '%s' yüklendi,구조물을 '%s'에서 불러왔습니다,ko-KR
+Yapı Adı,구조물 이름,ko-KR
+Yapı Boyutu,구조물 크기,ko-KR
+Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+yapı boyutu x,구조물 크기 x,ko-KR
+yapı boyutu y,구조물 크기 y,ko-KR
+yapı boyutu z,구조물 크기 z,ko-KR
+Yapı boyutunu ve konumunu algıla:,구조물 크기 및 위치 감지:,ko-KR
+Yapı Bütünlüğü,구조물 온전도,ko-KR
+Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,구조물 온전도 및 시드,ko-KR
+Yapı Oluşturucusu Kodu,구조물 시드,ko-KR
+Yapı yerleştirilmeden test yürütüldü,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+Yapı: %s,구조물: %s,ko-KR
+Yapıyı Kaydet,구조물 저장,ko-KR
+Yerleştirme Önceliği:,설치 우선도:,ko-KR
+Yön:,회전:,ko-KR
+YÜKLE,불러오기,ko-KR
+Yükle ve Yürüt,불러오고 실행,ko-KR
+Yükle: %s,불러오기: %s,ko-KR
+Yükleme,불러오기,ko-KR
+Yükleme Modu - Dosyadan yükle,불러오기 모드 - 파일에서 불러오기,ko-KR
+Yürütme Modu - Bir testin başlama noktası,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+Y軸方向の構造物のサイズ,구조물 크기 y,ko-KR
+Y軸方向の相対位置,상대 위치 y,ko-KR
+Z 軸相對位置,상대 위치 z,ko-KR
+Z 軸結構大小,구조물 크기 z,ko-KR
+Zielname:,대상 이름:,ko-KR
+Zona di delimitazione,경계 상자 표시:,ko-KR
+Zu viele %s‐Blöcke,%s 블록이 너무 많습니다,ko-KR
+Zurücksetzen und laden,초기화하고 불러오기,ko-KR
+"Zustand %s wurde als %s erwartet, war aber %s","%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Z軸方向の構造物のサイズ,구조물 크기 z,ko-KR
+Z軸方向の相対位置,상대 위치 z,ko-KR
+«%s» no es un nombre de estructura válido,'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+Çerçeveyi göster:,경계 상자 표시:,ko-KR
+Çevre: %s,환경: %s,ko-KR
+Çok fazla %s bloğu,%s 블록이 너무 많습니다,ko-KR
+Échec : %s,실패: %s,ko-KR
+"Échec de la création de l'entité ""%s""",%s 개체 생성에 실패했습니다,ko-KR
+Échec de la définition du biome pour le test,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+"Échec du placement de la structure de test pour ""%s""",%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+"Échec du test de l'entité ""%s"" : %s",%s 개체가 테스트에 실패했습니다: %s,ko-KR
+Échouer,실패,ko-KR
+"État incorrect (état attendu : %s, état reçu : %s)","잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Éxito antes del tic esperado: se esperaba %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+Éxito en tic no válido: se esperaba %s,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+Özel Veri Etiketi Adı,사용자 지정 데이터 태그 이름,ko-KR
+"Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+Đang bắt đầu kiểm tra %s,테스트 %s을(를) 시작합니다,ko-KR
+Điều kiện không được kích hoạt,조건이 발동하지 않았습니다,ko-KR
+Điều kiện đã được kích hoạt ở %s,조건이 %s에 이미 발동했습니다,ko-KR
+Đã gặp điều kiện gây thất bại,실패 조건을 충족했습니다,ko-KR
+Đã không thành công hoặc thất bại trong %s nhịp,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+Đã nạp cấu trúc từ '%s',구조물을 '%s'에서 불러왔습니다,ko-KR
+Đã phát hiện thành công kích cỡ của '%s','%s'의 크기를 성공적으로 감지했습니다,ko-KR
+Đã thiết lập lại thành công kiểm tra: %s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+Đã thành công trong nhịp không hợp lệ: bị thiếu %s,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+Đã thành công trước nhịp dự kiến: đã dự kiến đợi %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+Đã tìm thấy loại khối bị dư: %s,예기치 않은 블록 유형입니다: %s,ko-KR
+Đã xác định vị trí cấu trúc '%s',구조물 '%s'의 위치가 준비되었습니다,ko-KR
+Được căn chỉnh,고정,ko-KR
+Độ toàn vẹn của cấu trúc,구조물 온전도,ko-KR
+Độ toàn vẹn và hạt giống của cấu trúc,구조물 온전도 및 시드,ko-KR
+Độ xoay:,회전:,ko-KR
+Şart %s birim zamanda zaten tetiklendi,조건이 %s에 이미 발동했습니다,ko-KR
+Şart tetiklenmedi,조건이 발동하지 않았습니다,ko-KR
+Ưu tiên lựa chọn:,선택 우선도:,ko-KR
+Ưu tiên đặt:,설치 우선도:,ko-KR
+Без обновлений:,엄격한 설치:,ko-KR
+В тестовой конструкции отсутствует блок «%s»,테스트 구조물에 %s 블록이 없습니다,ko-KR
+Вращаемый,회전 가능,ko-KR
+Выполнены условия провала,실패 조건을 충족했습니다,ko-KR
+Выровнен,고정,ko-KR
+Генерировать,생성,ko-KR
+Данные,데이터,ko-KR
+Данные: %s,데이터: %s,ko-KR
+Журнал,기록,ko-KR
+Завершено до указанного такта: ожидалось прождать %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+Загрузить и запустить,불러오고 실행,ko-KR
+ЗАПИСЬ,저장,ko-KR
+Запись,저장,ko-KR
+Запись: %s,저장: %s,ko-KR
+Запуск,시작,ko-KR
+Запуск теста %s,테스트 %s을(를) 시작합니다,ko-KR
+Идентификатор тестового экземпляра,테스트 인스턴스 ID,ko-KR
+Измерение: %s,차원: %s,ko-KR
+Инвентарь сущности должен содержать %s,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+Ключ строений,구조물 시드,ko-KR
+Конструкция «%s» не обнаружена,'%s' 구조물을 사용할 수 없습니다,ko-KR
+Конструкция загружена из файла «%s»,구조물을 '%s'에서 불러왔습니다,ko-KR
+Конструкция сохранена в файл «%s»,구조물이 '%s'(으)로 저장되었습니다,ko-KR
+Конструкция: %s,구조물: %s,ko-KR
+Контейнер должен быть пустым,용기가 비어 있어야 합니다,ko-KR
+Контейнер должен содержать один %s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+Контейнер должен содержать: %s,용기가 다음을 포함해야 합니다: %s,ko-KR
+"Координаты игрока: [%s, %s, %s] в %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"Координаты теста: [%s, %s, %s] в %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+Название конструкции,구조물 이름,ko-KR
+Название цели:,대상 이름:,ko-KR
+Название:,이름:,ko-KR
+Найден неожиданный тип блока: %s,예기치 않은 블록 유형입니다: %s,ko-KR
+"Не ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+Не ожидался %s,%s이(가) 있으면 안 됩니다,ko-KR
+Не ожидался блок %s,%s 블록이 있으면 안 됩니다,ko-KR
+Не ожидался предмет типа %s,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+Не получено результатов в течение %s тактов,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+Не удалось задать биом для теста,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+"Не удалось определить размер конструкции. Добавьте углы с названием, соответствующим конструкции",구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+Не удалось разместить тестовую конструкцию для %s,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+Не удалось создать сущность %s,%s 개체 생성에 실패했습니다,ko-KR
+Не удалось сохранить конструкцию «%s»,구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+Неверное время ожидания (%s); должно быть положительное число тактов,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+Неверное название конструкции «%s»,'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+Неверное состояние. Ожидалось: %s; получено: %s,"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Неверный идентификатор теста,잘못된 테스트 ID입니다,ko-KR
+Неверный тип блока-сущности: %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+"Невозможно выполнить тестовый экземпляр в точке %s, %s, %s: тест не определён","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"Невозможно запустить тестовый экземпляр в точке %s, %s, %s: тестовая конструкция отсутствует","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"Невозможно сохранить шаблон тестовой конструкции у тестового экземпляра в точке %s, %s, %s","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+Неизвестная внутренняя ошибка: %s,알 수 없는 내부 오류: %s,ko-KR
+Несоответствие данных сущности %s,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+Нет такого теста,해당하는 테스트 없음,ko-KR
+Ни одна последовательность не завершилась в течение %s тактов,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+"Ожидалась одна сущность типа %s рядом с точкой %s, %s, %s; обнаружено %s","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+Ожидались данные сущности со значением %s; получено: %s,"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+"Ожидалось %s возле точки %s, %s, %s","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+Ожидалось %s предметов типа %s; обнаружено %s,"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+Ожидалось %s со значением %s; получено: %s,"%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+Ожидалось %s со значением между %s и %s; получено: %s,"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+Ожидалось %s сущностей типа %s; обнаружено %s,"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+Ожидалось наличие блока %s,블록 %s이(가) 존재해야 합니다,ko-KR
+Ожидалось присутствие %s в тесте,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+Ожидалось свойство %s со значением %s; получено: %s,"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+"Ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+Ожидался %s,%s이(가) 필요합니다,ko-KR
+Ожидался %s с эффектом «%s» %s,%s이(가) %s %s 효과를 갖고 있어야 합니다,ko-KR
+Ожидался блок %s; получено: %s,"%s 블록이 필요한데, %s(이)었습니다",ko-KR
+"Ожидался блок из #%s, получено: %s","#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+Ожидался предмет типа %s,%s 유형의 아이템이 필요합니다,ko-KR
+Определить размер и расположение:,구조물 크기 및 위치 감지:,ko-KR
+"Определяется порядок, в котором этот шаблон обрабатывается в рамках общей конструкции.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться порядком вставки.","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+Отказ,실패,ko-KR
+относительная координата зет,상대 위치 z,ko-KR
+относительная координата игрек,상대 위치 y,ko-KR
+относительная координата икс,상대 위치 x,ko-KR
+Относительные координаты,상대적 위치,ko-KR
+Отсутствует блок-сущность,블록 개체가 누락되었습니다,ko-KR
+Ошибка в недопустимом такте: ожидается %s,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+Пазлы,직소 유지,ko-KR
+Поворот:,회전:,ko-KR
+Подготовлено расположение конструкции «%s»,구조물 '%s'의 위치가 준비되었습니다,ko-KR
+Показать границы:,경계 상자 표시:,ko-KR
+Показывать невидимые блоки:,투명 블록 표시:,ko-KR
+"Порядок, в котором этот блок пазла будет пытаться связываться с соседними шаблонами.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться случайным образом.","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+Превращается в:,다음으로 변화:,ko-KR
+Приоритет выбора:,선택 우선도:,ko-KR
+Приоритет установки:,설치 우선도:,ko-KR
+Провал: %s,실패: %s,ko-KR
+Проверка хода тактов перед установкой конструкции,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+Произвольные теги данных,사용자 지정 데이터 태그 이름,ko-KR
+Пул шаблонов:,대상 풀:,ko-KR
+Размер конструкции,구조물 크기,ko-KR
+размер конструкции зет,구조물 크기 z,ko-KR
+размер конструкции игрек,구조물 크기 y,ko-KR
+размер конструкции икс,구조물 크기 x,ko-KR
+Размер тестовой конструкции,테스트 구조물 크기,ko-KR
+Рассчитан размер конструкции «%s»,'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+РАСЧЁТ,감지,ko-KR
+Режим данных — маркер игровой логики,데이터 모드 - 게임 논리 표지,ko-KR
+Режим журнала — запись сообщения в журнал,기록 모드 - 메시지를 기록합니다,ko-KR
+Режим записи — сохранение в файл,저장 모드 - 파일에 쓰기,ko-KR
+Режим запуска — начальная точка теста,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+Режим отказа — тестирование на ошибку,실패 모드 - 테스트를 실패시킵니다,ko-KR
+Режим успеха — достижение успеха для (части) теста,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+Режим чтения — загрузка из файла,불러오기 모드 - 파일에서 불러오기,ko-KR
+Сбросить и загрузить,초기화하고 불러오기,ko-KR
+Сброшен тест %s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+Свойство блока отсутствует; ожидалось свойство %s со значением %s,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+Слишком много блоков %s,%s 블록이 너무 많습니다,ko-KR
+Сообщение:,메시지:,ko-KR
+Сохранить конструкцию,구조물 저장,ko-KR
+Среда: %s,환경: %s,ko-KR
+Сущности:,개체:,ko-KR
+Сущность %s провалила тест: %s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+Сущность %s провалила тест: %s; ожидалось: %s; получено: %s,"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+Сущность должна держать %s,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+Тест встроенной функции,내장 함수 테스트,ko-KR
+Тест завершился по таймеру до завершения последовательности,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+Тест на блоках,블록 기반 테스트,ko-KR
+Тип соединения:,결합 유형:,ko-KR
+Тип: %s,유형: %s,ko-KR
+Угол,모서리,ko-KR
+Угол — маркер размещения и размера,모서리 모드 - 설치 및 크기 표지,ko-KR
+Угол: %s,모서리: %s,ko-KR
+Указанный блок не имеет соответствующего ему предмета,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+Уровни: %s,레벨: %s,ko-KR
+Условие не задействовано,조건이 발동하지 않았습니다,ko-KR
+Условие уже задействовано в такте %s,조건이 %s에 이미 발동했습니다,ko-KR
+Успех,인정,ko-KR
+Учитывать сущности:,개체 포함:,ko-KR
+Функция: %s,함수: %s,ko-KR
+Целостность конструкции,구조물 온전도,ko-KR
+Целостность конструкции и ключ,구조물 온전도 및 시드,ko-KR
+ЧТЕНИЕ,불러오기,ko-KR
+Чтение,불러오기,ko-KR
+Чтение: %s,불러오기: %s,ko-KR
+กลุ่มเป้าหมาย:,대상 풀:,ko-KR
+การทดสอบฟังก์ชันในตัว,내장 함수 테스트,ko-KR
+การทดสอบหมดเวลาก่อนที่ลำดับจะเสร็จสิ้น,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+การทดสอบโดยอิงจากบล็อก,블록 기반 테스트,ko-KR
+การทดสอบได้เริ่มนับติ๊กโดยที่ยังไม่ได้วางโครงสร้าง,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+การวางอย่างเคร่งครัด:,엄격한 설치:,ko-KR
+การหมดเวลาไม่ถูกต้อง (%s) - ติ๊กต้องเป็นจำนวนบวก,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+การหมุน:,회전:,ko-KR
+กำลังเริ่มการทดสอบ %s,테스트 %s을(를) 시작합니다,ko-KR
+ขนาดโครงสร้าง,구조물 크기,ko-KR
+ขนาดโครงสร้าง x,구조물 크기 x,ko-KR
+ขนาดโครงสร้าง y,구조물 크기 y,ko-KR
+ขนาดโครงสร้าง z,구조물 크기 z,ko-KR
+ขนาดโครงสร้างทดสอบ,테스트 구조물 크기,ko-KR
+ขาดคุณสมบัติบล็อก ต้องมีคุณสมบัติ %s เป็น %s,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+ขาดเอนทิตี้บล็อก,블록 개체가 누락되었습니다,ko-KR
+ข้อความ:,메시지:,ko-KR
+ข้อมูล,데이터,ko-KR
+ข้อมูล: %s,데이터: %s,ko-KR
+ข้อมูลเอนทิตี้ต้องเป็น %s: ตอนนี้เป็น %s,"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+ข้อมูลเอนทิตี้สำหรับ %s ไม่ตรงกัน,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+คงบล็อกจิ๊กซอว์ไว้,직소 유지,ko-KR
+ความสมบูรณ์ของโครงสร้าง,구조물 온전도,ko-KR
+ความสมบูรณ์ของโครงสร้างและซีด,구조물 온전도 및 시드,ko-KR
+คอนเทนเนอร์ควรมี: %s,용기가 다음을 포함해야 합니다: %s,ko-KR
+คอนเทนเนอร์ควรมีสิ่งนี้เพียงชิ้นเดียว: %s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+คอนเทนเนอร์ควรว่างเปล่า,용기가 비어 있어야 합니다,ko-KR
+คุณสมบัติ %s ต้องเป็น %s: ตอนนี้เป็น %s,"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+ชื่อ:,이름:,ko-KR
+ชื่อเป้าหมาย:,대상 이름:,ko-KR
+ชื่อแท็กข้อมูลกำหนดเอง,사용자 지정 데이터 태그 이름,ko-KR
+ชื่อโครงสร้าง,구조물 이름,ko-KR
+ชื่อโครงสร้าง '%s' ไม่ถูกต้อง,'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+ช่องเก็บของเอนทิตี้ควรมี %s,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+ซีดโครงสร้าง,구조물 시드,ko-KR
+ตรงตามเงื่อนไขความล้มเหลว,실패 조건을 충족했습니다,ko-KR
+ตรวจจับ,감지,ko-KR
+ตรวจจับขนาดและตำแหน่งโครงสร้าง:,구조물 크기 및 위치 감지:,ko-KR
+ตรวจพบขนาดสำหรับ '%s' แล้ว,'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+ตำแหน่ง x สัมพัทธ์,상대 위치 x,ko-KR
+ตำแหน่งสัมพัทธ์,상대적 위치,ko-KR
+ตำแหน่งสัมพัทธ์ y,상대 위치 y,ko-KR
+ตำแหน่งสัมพัทธ์ z,상대 위치 z,ko-KR
+ตำแหน่งโครงสร้าง '%s' ถูกเตรียม,구조물 '%s'의 위치가 준비되었습니다,ko-KR
+ต้องมี %s,%s이(가) 필요합니다,ko-KR
+"ต้องมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다",ko-KR
+"ต้องมี %s อยู่รอบ %s, %s, %s","%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다",ko-KR
+ต้องมี %s อยู่ระหว่าง %s กับ %s: ตอนนี้เป็น %s,"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+ต้องมี %s อยู่ในการทดสอบ,테스트 안에 %s이(가) 있어야 합니다,ko-KR
+"ต้องมี %s เพียง 1 รายการรอบ %s, %s, %s เท่านั้น แต่พบ %s รายการ","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+ต้องมีบล็อก %s อยู่,블록 %s이(가) 존재해야 합니다,ko-KR
+ต้องมีเอนทิตี้ %s รายการของประเภท %s: พบ %s รายการ,"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+ต้องมีไอเทม %s รายการของประเภท %s: พบ %s รายการ,"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+ต้องมีไอเทมของประเภท %s,%s 유형의 아이템이 필요합니다,ko-KR
+ต้องเป็นบล็อก %s: ได้รับ %s,"%s 블록이 필요한데, %s(이)었습니다",ko-KR
+ต้องเป็นบล็อกใน #%s: ได้รับ %s,"#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+บล็อก%sมากเกินไป,%s 블록이 너무 많습니다,ko-KR
+บล็อกนั้นไม่ใช่ไอเทมบล็อก,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+บล็อกไม่ควรเป็น %s,%s 블록이 있으면 안 됩니다,ko-KR
+บันทึก,저장,ko-KR
+บันทึก: %s,저장: %s,ko-KR
+บันทึกโครงสร้าง,구조물 저장,ko-KR
+ประเภท: %s,유형: %s,ko-KR
+ประเภทการต่อ:,결합 유형:,ko-KR
+ประเภทเอนทิตี้บล็อกผิดพลาด: %s,잘못된 블록 개체 유형입니다: %s,ko-KR
+พบประเภทบล็อกที่ไม่คาดคิด: %s,예기치 않은 블록 유형입니다: %s,ko-KR
+"พิกัดทดสอบ: [%s, %s, %s] ใน %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"พิกัดผู้เล่น: [%s, %s, %s] ใน %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+ฟังก์ชัน: %s,함수: %s,ko-KR
+มิติ: %s,차원: %s,ko-KR
+มุม,모서리,ko-KR
+มุม: %s,모서리: %s,ko-KR
+ยอมรับ,인정,ko-KR
+รวมถึงเอนทิตี้:,개체 포함:,ko-KR
+ระดับ: %s,레벨: %s,ko-KR
+รีเซตการทดสอบสำเร็จ: %s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+รีเซตและโหลด,초기화하고 불러오기,ko-KR
+ลงบันทึก,기록,ko-KR
+ลำดับความสำคัญในการวาง:,설치 우선도:,ko-KR
+ลำดับความสำคัญในการเลือก:,선택 우선도:,ko-KR
+ล้มเหลว,실패,ko-KR
+ล้มเหลว: %s,실패: %s,ko-KR
+ล้มเหลวในการตั้งไบโอมสำหรับการทดสอบ,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+ล้มเหลวในการวางโครงสร้างทดสอบสำหรับ %s,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+ล้มเหลวในการสร้างเอนทิตี้ %s,%s 개체 생성에 실패했습니다,ko-KR
+สถานะไม่ถูกต้อง ต้องเป็น %s: ตอนนี้เป็น %s,"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+สภาพแวดล้อม: %s,환경: %s,ko-KR
+สร้าง,생성,ko-KR
+สำเร็จก่อนติ๊กที่คาดไว้: ต้องรอจนถึง %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+สำเร็จในติ๊กที่ไม่ถูกต้อง: ต้องเป็น %s,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+หมุนได้,회전 가능,ko-KR
+หมุนไม่ได้,고정,ko-KR
+เงื่อนไขถูกทริกเกอร์ไปแล้วในติ๊กที่ %s,조건이 %s에 이미 발동했습니다,ko-KR
+เงื่อนไขไม่ถูกทริกเกอร์,조건이 발동하지 않았습니다,ko-KR
+"เมื่อชิ้นส่วนแม่ถูกประมวลผลเพื่อการเชื่อมต่อ นี่คือลำดับที่บล็อกจิ๊กซอว์นี้จะพยายามเชื่อมต่อกับชิ้นส่วนเป้าหมาย
+
+บล็อกจิ๊กซอว์ต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย หากมีลำดับความสำคัญเท่ากัน จะใช้การสุ่มในการเลือกลำดับการประมวลผล","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+"เมื่อบล็อกจิ๊กซอว์นี้เชื่อมต่อกับชิ้นส่วนใด ๆ นี่คือลำดับที่ชิ้นส่วนนั้นจะถูกประมวลผลเพื่อการเชื่อมต่อในโครงสร้างที่ใหญ่ขึ้น
+
+ชิ้นส่วนต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย โดยหากมีลำดับความสำคัญเท่ากัน จะประมวลผลตามลำดับการแทรก","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+เริ่มต้น,시작,ko-KR
+เสร็จสิ้นกลายเป็น:,다음으로 변화:,ko-KR
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s ต้องเป็น %s: ตอนนี้เป็น %s,"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+เอนทิตี้:,개체:,ko-KR
+เอนทิตี้ควรกำลังถือ %s,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+แสดงกล่องขอบเขต:,경계 상자 표시:,ko-KR
+แสดงบล็อกล่องหน:,투명 블록 표시:,ko-KR
+โครงสร้าง '%s' ไม่พร้อมใช้งาน,'%s' 구조물을 사용할 수 없습니다,ko-KR
+โครงสร้าง: %s,구조물: %s,ko-KR
+โครงสร้างถูกบันทึกเป็น '%s',구조물이 '%s'(으)로 저장되었습니다,ko-KR
+โครงสร้างถูกโหลดจาก '%s',구조물을 '%s'에서 불러왔습니다,ko-KR
+โครงสร้างทดสอบขาดบล็อก%s,테스트 구조물에 %s 블록이 없습니다,ko-KR
+โหมดข้อมูล - ตัวทำเครื่องหมายตรรกะเกม,데이터 모드 - 게임 논리 표지,ko-KR
+โหมดบันทึก - บันทึกไปยังไฟล์,저장 모드 - 파일에 쓰기,ko-KR
+โหมดมุม - ตัวทําเครื่องหมายการวางและขนาด,모서리 모드 - 설치 및 크기 표지,ko-KR
+โหมดยอมรับ - ยอมรับความสำเร็จของ (บางส่วนของ) การทดสอบ,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+โหมดลงบันทึก - บันทึกข้อความเอาต์พุตลงไฟล์บันทึก,기록 모드 - 메시지를 기록합니다,ko-KR
+โหมดล้มเหลว - ทำให้การทดสอบล้มเหลว,실패 모드 - 테스트를 실패시킵니다,ko-KR
+โหมดเริ่มต้น - จุดเริ่มต้นของการทดสอบ,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+โหมดโหลด - โหลดจากไฟล์,불러오기 모드 - 파일에서 불러오기,ko-KR
+โหลด,불러오기,ko-KR
+โหลด: %s,불러오기: %s,ko-KR
+โหลดและรัน,불러오고 실행,ko-KR
+"ไม่ควรมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다",ko-KR
+ไม่ควรมี %s อยู่,%s이(가) 있으면 안 됩니다,ko-KR
+ไม่ควรมีไอเทมประเภท %s,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+ไม่ทราบข้อผิดพลาดภายใน: %s,알 수 없는 내부 오류: %s,ko-KR
+ไม่มีการทดสอบดังกล่าว,해당하는 테스트 없음,ko-KR
+ไม่มีลำดับเสร็จสิ้นภายใน %s ติ๊ก,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+ไม่สามารถตรวจจับขนาดโครงสร้างได้ เพิ่มมุมด้วยชื่อโครงสร้างที่ตรงกัน,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+"ไม่สามารถบันทึกแม่แบบโครงสร้างทดสอบสำหรับกรณีทดสอบที่ %s, %s, %s","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+ไม่สามารถบันทึกโครงสร้าง '%s' ได้,구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีการกำหนดค่าการทดสอบ","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีโครงสร้างทดสอบ","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+ไม่สำเร็จหรือล้มเหลวภายใน %s ติ๊ก,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+“%s”的大小已成功检测,'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+「%s」から構造物を読み込みました,구조물을 '%s'에서 불러왔습니다,ko-KR
+「%s」のサイズが正常に検出されました,'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+「%s」は無効な構造物名です,'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+"この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+"この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+そのテストは存在しません,해당하는 테스트 없음,ko-KR
+"ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました","%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다",ko-KR
+エンティティ%sがテストに失敗しました：%s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+エンティティ%sの作成に失敗しました,%s 개체 생성에 실패했습니다,ko-KR
+エンティティのインベントリには%sが入っている必要があります,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+エンティティは%sを手に持っている必要があります,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+エンティティを含めるかどうか：,개체 포함:,ko-KR
+エンティティデータが%sに合致しません,%s의 개체 데이터가 일치하지 않았습니다,ko-KR
+エンティティデータは%sでなければなりませんが、%sでした,"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+エンティティ：,개체:,ko-KR
+カスタムデータタグ名,사용자 지정 데이터 태그 이름,ko-KR
+コンテナには%sが入っている必要があります,용기가 다음을 포함해야 합니다: %s,ko-KR
+コンテナには単一の%sが入っている必要があります,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+コンテナは空である必要があります,용기가 비어 있어야 합니다,ko-KR
+コーナー,모서리,ko-KR
+コーナーモード - 構造物のサイズと位置を標識します,모서리 모드 - 설치 및 크기 표지,ko-KR
+コーナー：%s,모서리: %s,ko-KR
+シーケンスが完了する前にテストがタイムアウトしました,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+ジグソーを維持,직소 유지,ko-KR
+セーブ,저장,ko-KR
+セーブモード - ファイルへの書き込みを行います,저장 모드 - 파일에 쓰기,ko-KR
+セーブ：%s,저장: %s,ko-KR
+タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+タイプ%sのアイテムが必要です,%s 유형의 아이템이 필요합니다,ko-KR
+タイプ%sのアイテムは予期されていません,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+タイプ：%s,유형: %s,ko-KR
+"ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s","%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)",ko-KR
+テスト%sを開始します,테스트 %s을(를) 시작합니다,ko-KR
+テストに向けたバイオームの設定に失敗しました,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+テストのリセットが成功しました：%s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+"テストの座標：%4$s内の[%1$s, %2$s, %3$s]","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+テストインスタンスID,테스트 인스턴스 ID,ko-KR
+"テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+テスト構造物に%sブロックがありません,테스트 구조물에 %s 블록이 없습니다,ko-KR
+テスト構造物のサイズ,테스트 구조물 크기,ko-KR
+ディメンション：%s,차원: %s,ko-KR
+データ,데이터,ko-KR
+データモード - 構造物ごとに固有の処理をマーキングします,데이터 모드 - 게임 논리 표지,ko-KR
+データ：%s,데이터: %s,ko-KR
+ビルトイン関数型テスト,내장 함수 테스트,ko-KR
+ブロック%sが存在する必要があります,블록 %s이(가) 존재해야 합니다,ko-KR
+ブロック%sが必要ですが、%sが検出されました,"%s 블록이 필요한데, %s(이)었습니다",ko-KR
+ブロックが%sであることは予期されていません,%s 블록이 있으면 안 됩니다,ko-KR
+ブロックエンティティが不足しています,블록 개체가 누락되었습니다,ko-KR
+ブロックエンティティタイプが間違っています：%s,잘못된 블록 개체 유형입니다: %s,ko-KR
+ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+ブロックベース型テスト,블록 기반 테스트,ko-KR
+"プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+プロパティ%sが%sであることが必要ですが、%sでした,"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+メッセージ：,메시지:,ko-KR
+リセットして読み込む,초기화하고 불러오기,ko-KR
+レベル：%s,레벨: %s,ko-KR
+ログ,기록,ko-KR
+ログモード - メッセージをログに出力します,기록 모드 - 메시지를 기록합니다,ko-KR
+ロード,불러오기,ko-KR
+ロードモード - ファイルからの読み込みを行います,불러오기 모드 - 파일에서 불러오기,ko-KR
+ロード：%s,불러오기: %s,ko-KR
+不存在名为“%s”的结构 ,'%s' 구조물을 사용할 수 없습니다,ko-KR
+不明な内部エラーです：%s,알 수 없는 내부 오류: %s,ko-KR
+严格放置：,엄격한 설치:,ko-KR
+为%s放置测试结构失败,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+予定のティックより早く成功しました。予想された待ち時間は%sでした,예상된 %s보다 빨리 성공했습니다,ko-KR
+予期せぬブロックタイプが検出されました：%s,예기치 않은 블록 유형입니다: %s,ko-KR
+保存,저장,ko-KR
+保存模式,저장,ko-KR
+保存模式 — 写入文件,저장 모드 - 파일에 쓰기,ko-KR
+保存结构,구조물 저장,ko-KR
+保存：%s,저장: %s,ko-KR
+保留拼图,직소 유지,ko-KR
+偵測,감지,ko-KR
+偵測結構的大小與位置：,구조물 크기 및 위치 감지:,ko-KR
+儲存,저장,ko-KR
+儲存拼圖,직소 유지,ko-KR
+儲存模式 ─ 寫入檔案,저장 모드 - 파일에 쓰기,ko-KR
+儲存結構,구조물 저장,ko-KR
+儲存：%s,저장: %s,ko-KR
+內建函數測試,내장 함수 테스트,ko-KR
+内置函数测试,내장 함수 테스트,ko-KR
+函数：%s,함수: %s,ko-KR
+函數：%s,함수: %s,ko-KR
+创建实体%s失败,%s 개체 생성에 실패했습니다,ko-KR
+加载,불러오기,ko-KR
+加载并运行,불러오고 실행,ko-KR
+加载模式,불러오기,ko-KR
+加载模式 — 从文件中加载,불러오기 모드 - 파일에서 불러오기,ko-KR
+加载：%s,불러오기: %s,ko-KR
+包含實體：,개체 포함:,ko-KR
+包括实体：,개체 포함:,ko-KR
+厳密な配置：,엄격한 설치:,ko-KR
+发现非预期的方块类型：%s,예기치 않은 블록 유형입니다: %s,ko-KR
+可旋轉,회전 가능,ko-KR
+可旋转,회전 가능,ko-KR
+名前：,이름:,ko-KR
+名称：,이름:,ko-KR
+名稱：,이름:,ko-KR
+启动,시작,ko-KR
+启动模式 - 测试的起点,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+啟動,시작,ko-KR
+啟動模式 ─ 測試的起點,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+嚴格放置：,엄격한 설치:,ko-KR
+回転可能,회전 가능,ko-KR
+回転：,회전:,ko-KR
+固定,고정,ko-KR
+在 %s 刻內沒有序列完成,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+在%s刻内没有序列完成,%s틱 안에 끝난 시퀀스가 없습니다,ko-KR
+在放置結構前執行了測試,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+在無效刻時成功：應為 %s,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+在預期刻之前成功：應等待 %s,예상된 %s보다 빨리 성공했습니다,ko-KR
+基于方块的测试,블록 기반 테스트,ko-KR
+基於方塊的測試,블록 기반 테스트,ko-KR
+境界線を表示する：,경계 상자 표시:,ko-KR
+失敗,실패,ko-KR
+失敗モード - テストを失敗させます,실패 모드 - 테스트를 실패시킵니다,ko-KR
+失敗条件が満たされました,실패 조건을 충족했습니다,ko-KR
+失敗模式 ─ 使測試失敗,실패 모드 - 테스트를 실패시킵니다,ko-KR
+失敗：%s,실패: %s,ko-KR
+失败,실패,ko-KR
+失败模式 - 使测试失败,실패 모드 - 테스트를 실패시킵니다,ko-KR
+失败：%s,실패: %s,ko-KR
+"存在未定义的测试，无法在%s, %s, %s处运行测试实例","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"存在未被定義的測試，無法在 %s, %s, %s 處執行測試實例","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+实体%s测试失败：%s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+实体%s测试失败：%s。应为%s：实际为%s,"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+实体应持有%s,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+实体数据应为%s：实际为%s,"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+实体物品栏中应包含%s,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+实体：,개체:,ko-KR
+容器应为空,용기가 비어 있어야 합니다,ko-KR
+容器应包含：%s,용기가 다음을 포함해야 합니다: %s,ko-KR
+容器应含有单个：%s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+容器應含有單個：%s,용기가 다음을 하나 포함해야 합니다: %s,ko-KR
+容器應含有：%s,용기가 다음을 포함해야 합니다: %s,ko-KR
+容器應為空,용기가 비어 있어야 합니다,ko-KR
+實體 %s 測試失敗：%s,%s 개체가 테스트에 실패했습니다: %s,ko-KR
+實體 %s 測試失敗：%s。應為 %s，但實際為 %s,"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+實體應持有 %s,개체가 %s을(를) 들고 있어야 합니다,ko-KR
+實體物品欄中應含有 %s,개체 보관함이 %s을(를) 포함해아 합니다,ko-KR
+實體資料應為 %s，但實際為 %s,"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+實體：,개체:,ko-KR
+対象の名前：,대상 이름:,ko-KR
+尚未放置结构时执行了测试,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+层数：%s,레벨: %s,ko-KR
+属性%s应为%s：实际为%s,"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+属性%s应为%s：实际为%s,"%s이(가) %s(이)어야 하는데, %s(이)었습니다",ko-KR
+属性%s应在%s和%s之间：实际为%s,"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",ko-KR
+層數：%s,레벨: %s,ko-KR
+屬性 %s 應為 %s，但實際為 %s,"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",ko-KR
+已將結構儲存為 '%s',구조물이 '%s'(으)로 저장되었습니다,ko-KR
+已從 '%s' 載入結構,구조물을 '%s'에서 불러왔습니다,ko-KR
+已成功偵測 '%s' 的大小,'%s'의 크기를 성공적으로 감지했습니다,ko-KR
+应为%s个%s类型的物品：实际为%s个,"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+应为%s类型的物品,%s 유형의 아이템이 필요합니다,ko-KR
+应存在方块%s,블록 %s이(가) 존재해야 합니다,ko-KR
+应有%s个类型为%s的实体：实际有%s个,"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+"当此拼图方块连接到部件时，此处即为在更大的结构中各部件处理连接的顺序。
+
+部件按照优先级由高到低处理，若优先级相同，则按照插入顺序处理。","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+"当父级片段处理连接时，此处即为各拼图方块尝试连接目标部件的顺序。
+
+拼图方块将会按照优先级由高到低处理，同级则随机处理。","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+應存在方塊 %s,블록 %s이(가) 존재해야 합니다,ko-KR
+應為 %s,%s이(가) 필요합니다,ko-KR
+應為類型 %s 的物品,%s 유형의 아이템이 필요합니다,ko-KR
+成功于无效的刻：应为%s,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+成功于预期的刻之前：应等待%s,예상된 %s보다 빨리 성공했습니다,ko-KR
+成功从“%s”中加载结构,구조물을 '%s'에서 불러왔습니다,ko-KR
+成功将结构保存为“%s”,구조물이 '%s'(으)로 저장되었습니다,ko-KR
+找到非預期的方塊類型：%s,예기치 않은 블록 유형입니다: %s,ko-KR
+拼接类型：,결합 유형:,ko-KR
+拼接類型：,결합 유형:,ko-KR
+指定のブロックはブロックアイテムではありません,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+指定的方块不是方块物品,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+指定的方塊不是方塊物品,주어진 블록은 블록 아이템이 아닙니다,ko-KR
+探测,감지,ko-KR
+探测结构大小和位置：,구조물 크기 및 위치 감지:,ko-KR
+接受,인정,ko-KR
+接受模式 - 接受（部分）测试的成功,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+接受模式 ─ 接受測試（部分）成功,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+接続タイプ：,결합 유형:,ko-KR
+放置优先级：,설치 우선도:,ko-KR
+放置優先順序：,설치 우선도:,ko-KR
+数据模式,데이터,ko-KR
+数据模式 — 游戏逻辑标记,데이터 모드 - 게임 논리 표지,ko-KR
+数据：%s,데이터: %s,ko-KR
+整列,고정,ko-KR
+方块不应为%s,%s 블록이 있으면 안 됩니다,ko-KR
+方块应为%s：实际为%s,"%s 블록이 필요한데, %s(이)었습니다",ko-KR
+方块应在#%s中：实际为%s,"#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+方塊不應為 %s,%s 블록이 있으면 안 됩니다,ko-KR
+方塊應在 #%s 中，但實際為 %s,"#%s에 속하는 블록이 필요한데, %s(이)었습니다",ko-KR
+方塊應為 %s，但實際為 %s,"%s 블록이 필요한데, %s(이)었습니다",ko-KR
+旋轉角度：,회전:,ko-KR
+旋转角度：,회전:,ko-KR
+无效的时限（%s），刻数必须为正数,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+无效的测试ID,잘못된 테스트 ID입니다,ko-KR
+无效的结构名“%s”,'%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+"无法保存%s, %s, %s处测试实例的测试结构模板","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+无法保存结构“%s”,구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+无法检测结构大小。请放置与结构名称对应的角落结构方块,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+日志输出,기록,ko-KR
+日志输出模式 - 将消息输出到日志,기록 모드 - 메시지를 기록합니다,ko-KR
+显示边框：,경계 상자 표시:,ko-KR
+显示隐形方块：,투명 블록 표시:,ko-KR
+未在 %s 刻內成功或失敗,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+未在%s刻内成功或失败,%s틱 안에 성공하거나 실패하지 않았습니다,ko-KR
+"未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません","정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+未知的內部錯誤：%s,알 수 없는 내부 오류: %s,ko-KR
+未知的内部错误：%s,알 수 없는 내부 오류: %s,ko-KR
+条件がすでに%sでトリガーされています,조건이 %s에 이미 발동했습니다,ko-KR
+条件がトリガーされていません,조건이 발동하지 않았습니다,ko-KR
+条件已在%s刻时触发,조건이 %s에 이미 발동했습니다,ko-KR
+条件未触发,조건이 발동하지 않았습니다,ko-KR
+條件已在 %s 刻時觸發,조건이 %s에 이미 발동했습니다,ko-KR
+條件未觸發,조건이 발동하지 않았습니다,ko-KR
+検出,감지,ko-KR
+構成要素プール：,대상 풀:,ko-KR
+構造物「%s」の位置が準備されました,구조물 '%s'의 위치가 준비되었습니다,ko-KR
+構造物「%s」は利用できません,'%s' 구조물을 사용할 수 없습니다,ko-KR
+構造物「%s」を保存できません,구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+構造物が「%s」として保存されました,구조물이 '%s'(으)로 저장되었습니다,ko-KR
+構造物が未設置の状態でティック処理が実行されました,구조물 설치 전에 테스트를 틱하려 했습니다,ko-KR
+構造物のサイズ,구조물 크기,ko-KR
+構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+構造物のシード値,구조물 시드,ko-KR
+構造物の大きさと位置を検出：,구조물 크기 및 위치 감지:,ko-KR
+構造物の完全性,구조물 온전도,ko-KR
+構造物の完全性とシード値,구조물 온전도 및 시드,ko-KR
+構造物を保存,구조물 저장,ko-KR
+構造物名,구조물 이름,ko-KR
+構造物：%s,구조물: %s,ko-KR
+正在启动测试%s,테스트 %s을(를) 시작합니다,ko-KR
+正在啟動測試 %s,테스트 %s을(를) 시작합니다,ko-KR
+此测试不存在,해당하는 테스트 없음,ko-KR
+沒有名為 '%s' 的結構,'%s' 구조물을 사용할 수 없습니다,ko-KR
+"沒有測試結構，無法在 %s, %s, %s 處執行測試實例","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+"没有测试结构，无法在%s, %s, %s处运行测试实例","테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다",ko-KR
+测试在序列完成前超时,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+"测试坐标：[%s, %s, %s]，位于%s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+测试实例ID,테스트 인스턴스 ID,ko-KR
+测试结构大小,테스트 구조물 크기,ko-KR
+测试结构缺少%s方块,테스트 구조물에 %s 블록이 없습니다,ko-KR
+测试重置成功：%s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+消息：,메시지:,ko-KR
+測試不存在,해당하는 테스트 없음,ko-KR
+測試在序列完成前已逾時,시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,ko-KR
+測試實例 ID,테스트 인스턴스 ID,ko-KR
+"測試座標：[%s, %s, %s]，位於 %s","테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+測試結構大小,테스트 구조물 크기,ko-KR
+測試結構缺少 %s 方塊,테스트 구조물에 %s 블록이 없습니다,ko-KR
+測試重設成功：%s,테스트 %s을(를) 초기화하는 데 성공했습니다,ko-KR
+满足失败条件,실패 조건을 충족했습니다,ko-KR
+滿足失敗條件,실패 조건을 충족했습니다,ko-KR
+無効なティックにおいて成功しました。%sでなければなりません,%s이(가) 아닌 잘못된 틱에 성공했습니다,ko-KR
+無効なテストID,잘못된 테스트 ID입니다,ko-KR
+無效的時間限制 (%s) - 刻數須為正數,잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,ko-KR
+無效的測試 ID,잘못된 테스트 ID입니다,ko-KR
+無效的結構名稱 '%s','%s'은(는) 잘못된 구조물 이름입니다,ko-KR
+無法偵測結構大小。請添加與結構名稱對應的角落,구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,ko-KR
+無法儲存結構 '%s',구조물을 '%s'(으)로 저장할 수 없습니다,ko-KR
+"無法在 %s, %s, %s 處儲存測試實例的測試結構模板","%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다",ko-KR
+無法建立實體 %s,%s 개체 생성에 실패했습니다,ko-KR
+無法為 %s 放置測試結構,%s의 테스트 구조물 설치에 실패했습니다,ko-KR
+無法設定測試的生態域,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+物品不应为类型%s,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+物品不應為類型 %s,%s 유형의 아이템이 있으면 안 됩니다,ko-KR
+状态错误。应为%s：实际为%s,"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+状態が間違っています。%sであることが必要ですが、%sでした,"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+狀態錯誤。應為 %s，但實際為 %s,"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",ko-KR
+"玩家坐标：[%s, %s, %s]，位于%s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+"玩家座標：[%s, %s, %s]，位於 %s","플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]",ko-KR
+环境：%s,환경: %s,ko-KR
+環境：%s,환경: %s,ko-KR
+生成,생성,ko-KR
+"當此拼圖方塊連接到某個部件時，此處即為在更大的結構中各部件的處理連接的順序。
+
+部件依照優先順序由高到低處理，若優先順序相同，則依插入順序處理。","이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.",ko-KR
+"當父級部件處理連接時，此處即為拼圖方塊嘗試連接到目標部件的順序。
+
+拼圖方塊會依照優先順序由高到低處理，若優先順序相同，則依隨機順序處理。","부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.",ko-KR
+目标名称：,대상 이름:,ko-KR
+目标池：,대상 풀:,ko-KR
+目標名稱：,대상 이름:,ko-KR
+目標池：,대상 풀:,ko-KR
+相对X坐标,상대 위치 x,ko-KR
+相对Y坐标,상대 위치 y,ko-KR
+相对Z坐标,상대 위치 z,ko-KR
+相对位置,상대적 위치,ko-KR
+相対位置,상대적 위치,ko-KR
+相對位置,상대적 위치,ko-KR
+类型：%s,유형: %s,ko-KR
+結構 '%s' 的位置已準備就緒,구조물 '%s'의 위치가 준비되었습니다,ko-KR
+結構名稱,구조물 이름,ko-KR
+結構大小,구조물 크기,ko-KR
+結構完整度及種子碼,구조물 온전도 및 시드,ko-KR
+結構完整性,구조물 온전도,ko-KR
+結構種子碼,구조물 시드,ko-KR
+結構：%s,구조물: %s,ko-KR
+維度：%s,차원: %s,ko-KR
+结构X轴大小,구조물 크기 x,ko-KR
+结构Y轴大小,구조물 크기 y,ko-KR
+结构Z轴大小,구조물 크기 z,ko-KR
+结构“%s”的加载位置已就绪,구조물 '%s'의 위치가 준비되었습니다,ko-KR
+结构名称,구조물 이름,ko-KR
+结构大小,구조물 크기,ko-KR
+结构完整性,구조물 온전도,ko-KR
+结构完整性及种子,구조물 온전도 및 시드,ko-KR
+结构种子,구조물 시드,ko-KR
+结构：%s,구조물: %s,ko-KR
+维度：%s,차원: %s,ko-KR
+缺少%s,%s이(가) 필요합니다,ko-KR
+缺少方块实体,블록 개체가 누락되었습니다,ko-KR
+缺少方块属性。属性%s应为%s,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+缺少方塊實體,블록 개체가 누락되었습니다,ko-KR
+缺少方塊屬性。屬性 %s 應為 %s,블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ko-KR
+置換先：,다음으로 변화:,ko-KR
+自定义数据标签名,사용자 지정 데이터 태그 이름,ko-KR
+自訂資料標籤名稱,사용자 지정 데이터 태그 이름,ko-KR
+見えないブロックを表示する：,투명 블록 표시:,ko-KR
+角落,모서리,ko-KR
+角落模式,모서리,ko-KR
+角落模式 — 位置和大小标记,모서리 모드 - 설치 및 크기 표지,ko-KR
+角落模式 ─ 位置及大小記號,모서리 모드 - 설치 및 크기 표지,ko-KR
+角落：%s,모서리: %s,ko-KR
+訊息：,메시지:,ko-KR
+記錄,기록,ko-KR
+記錄模式 ─ 將紀錄輸出至記錄檔中,기록 모드 - 메시지를 기록합니다,ko-KR
+設置優先度：,설치 우선도:,ko-KR
+認証,인정,ko-KR
+認証モード - テスト（の一部）の成功を認証します,인정 모드 - 테스트 (일부)의 성공을 인정합니다,ko-KR
+読み込み,불러오기,ko-KR
+読み込んで実行,불러오고 실행,ko-KR
+设置测试生物群系失败,테스트를 위해 생물 군계를 설정하는 데 실패했습니다,ko-KR
+資料,데이터,ko-KR
+資料模式 ─ 遊戲邏輯記號,데이터 모드 - 게임 논리 표지,ko-KR
+資料：%s,데이터: %s,ko-KR
+載入,불러오기,ko-KR
+載入並執行,불러오고 실행,ko-KR
+載入模式 ─ 從檔案載入,불러오기 모드 - 파일에서 불러오기,ko-KR
+載入：%s,불러오기: %s,ko-KR
+轉變為：,다음으로 변화:,ko-KR
+转变为：,다음으로 변화:,ko-KR
+选择优先级：,선택 우선도:,ko-KR
+選択優先度：,선택 우선도:,ko-KR
+選擇優先順序：,선택 우선도:,ko-KR
+重置并加载,초기화하고 불러오기,ko-KR
+重設並載入,초기화하고 불러오기,ko-KR
+錯誤的方塊實體類型：%s,잘못된 블록 개체 유형입니다: %s,ko-KR
+错误的方块实体类型：%s,잘못된 블록 개체 유형입니다: %s,ko-KR
+開始,시작,ko-KR
+開始モード - テストの起点となります,시작 모드 - 테스트의 시작 지점입니다,ko-KR
+関数：%s,함수: %s,ko-KR
+類型為 %2$s 的實體應有 %1$s 個，但實際為 %3$s 個,"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+類型為 %2$s 的物品應有 %1$s 個，但實際為 %3$s 個,"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",ko-KR
+類型：%s,유형: %s,ko-KR
+顯示定界框：,경계 상자 표시:,ko-KR
+顯示隱形方塊：,투명 블록 표시:,ko-KR

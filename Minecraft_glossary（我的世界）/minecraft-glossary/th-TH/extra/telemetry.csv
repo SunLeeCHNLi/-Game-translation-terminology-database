@@ -1,0 +1,998 @@
+﻿source,target,tgt_lng
+%s (Bắt buộc),%s (จำเป็น),th-TH
+%s (erforderlich),%s (จำเป็น),th-TH
+%s (facoltativo),%s (ไม่จำเป็น),th-TH
+%s (facoltativo) — disattivato,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (facultatif),%s (ไม่จำเป็น),th-TH
+%s (facultatif) - désactivé,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (Gerekli),%s (จำเป็น),th-TH
+%s (İsteğe Bağlı),%s (ไม่จำเป็น),th-TH
+%s (İsteğe Bağlı) - Devre Dışı,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (Không bắt buộc),%s (ไม่จำเป็น),th-TH
+%s (không bắt buộc) - Đã tắt,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (necesario),%s (จำเป็น),th-TH
+%s (necessario),%s (จำเป็น),th-TH
+%s (obrigatório),%s (จำเป็น),th-TH
+%s (opcional),%s (ไม่จำเป็น),th-TH
+%s (opcional) — Não,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (opcional): Desactivado,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (Optional),%s (ไม่จำเป็น),th-TH
+%s (optional),%s (ไม่จำเป็น),th-TH
+%s (Optional) - Disabled,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (optional) – Deaktiviert,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (Required),%s (จำเป็น),th-TH
+%s (requis),%s (จำเป็น),th-TH
+%s (необязательно),%s (ไม่จำเป็น),th-TH
+%s (необязательно) — Отключено,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (обязательно),%s (จำเป็น),th-TH
+%s (선택적),%s (ไม่จำเป็น),th-TH
+%s (선택적) - 꺼짐,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s (필수),%s (จำเป็น),th-TH
+%s（任意）,%s (ไม่จำเป็น),th-TH
+%s（任意） - 無効,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s（可选）,%s (ไม่จำเป็น),th-TH
+%s（可选，已禁用）,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s（可選 – 已停用）,%s (ไม่จำเป็น) - ปิดการใช้งาน,th-TH
+%s（可選）,%s (ไม่จำเป็น),th-TH
+%s（必要）,%s (จำเป็น),th-TH
+%s（必須）,%s (จำเป็น),th-TH
+Acconsento all'invio di dati di telemetria facoltativi,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+Aceito o envio de telemetria opcional,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+Advancement ID,ID ความก้าวหน้า,th-TH
+Advancement Made,การทำความก้าวหน้า,th-TH
+Alcance visual,ระยะการมองเห็น,th-TH
+Amostras de taxa de quadros (FPS),กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+Amostras do tempo de renderização,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+Anzahl der Datenwerte,จำนวนกลุ่มตัวอย่าง,th-TH
+Arka Uç Adı,ชื่อแบ็กเอนด์,th-TH
+Arka Uç Oluşturma Hatası Eksik Özellikler,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Arka Uç Oluşturma Hatası Mesajı,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Arka Uç Oluşturma Hatası Nedeni,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Ayrılmış Bellek (kB),หน่วยความจำเฉพาะ (kB),th-TH
+Backend Creation Failure Message,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Backend Creation Failure Missing Capabilities,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Backend Creation Failure Reason,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Backend Name,ชื่อแบ็กเอนด์,th-TH
+Backend‐Initialisierungsfehler: Fehlende Funktionen,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Backend‐Initialisierungsfehler: Fehlermeldung,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Backend‐Initialisierungsfehler: Grund,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Bağlantı Başarılı,การเชื่อมต่อสำเร็จ,th-TH
+Bağlantı Süresi (Milisaniye),เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+Başarısızlık Aşaması,ระยะการล้มเหลว,th-TH
+Başlatıcı Adı,ชื่อลันเชอร์,th-TH
+Benutzer‐ID,ID ผู้ใช้,th-TH
+Betriebssystem,ระบบปฏิบัติการ,th-TH
+"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+Bootstrap Time (Milliseconds),เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+"Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+"Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+Bộ nhớ chuyên dụng (kB),หน่วยความจำเฉพาะ (kB),th-TH
+Bộ nhớ truy cập ngẫu nhiên đã sử dụng,RAM ที่ใช้,th-TH
+Caminho do Interactive Connectivity Establishment (ICE),เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+Campioni del tempo di elaborazione grafica,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+Campioni di frequenza dei fotogrammi [fps],กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+Capacidades gráficas,ความสามารถของกราฟิก,th-TH
+Capacités graphiques,ความสามารถของกราฟิก,th-TH
+Capacités manquantes lors de l'échec de la création du backend,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Capire il contesto relativo al compimento di un progresso può aiutarci a comprendere meglio e a perfezionare la sequenza di gioco.,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+"Cet événement est associé à l'événement ""Monde chargé"" pour calculer la durée de la session de jeu.
+La durée (en secondes et en ticks) est mesurée lorsqu'une session de jeu est terminée (en retournant au menu principal ou en se déconnectant d'un serveur).","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+"Cet événement nous aide à évaluer la fiabilité et les performances des connexions pair à pair entre les joueurs. Il enregistre la réussite ou l'échec de la connexion, le type de candidat utilisé pour l'établissement de connectivité interactive (ICE, le protocole que nous utilisons pour établir les connexions pair à pair) ainsi que le temps nécessaire pour établir la connexion.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+Cet événement nous informe des capacités du périphérique graphique utilisé pour jouer au jeu.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+Cet événement peut nous aider à déterminer où des améliorations des performances au démarrage sont nécessaires en mesurant les temps d'exécution des phases.,เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+Chemin de l'établissement de connectivité interactive (ICE),เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+Chế độ chơi,โหมดเกม,th-TH
+Chọn tham gia,ความยินยอมเข้าร่วม,th-TH
+Client ID,ID ไคลเอนต์,th-TH
+Client Modded,ไคลเอนต์มีการดัดแปร,th-TH
+Client moddé ?,ไคลเอนต์มีการดัดแปร,th-TH
+Client modifiziert,ไคลเอนต์มีการดัดแปร,th-TH
+Cliente modificado,ไคลเอนต์มีการดัดแปร,th-TH
+Client‐ID,ID ไคลเอนต์,th-TH
+Coleta de dados telemétricos,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+"Coletar esses dados nos ajuda a melhorar o Minecraft, guiando nosso trabalho em direções relevantes para os jogadores.
+Você também pode enviar seu feedback para nos ajudar a melhorar o Minecraft.","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+Collecte des données de télémétrie,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+"Collecter ces données nous aide à améliorer Minecraft en nous guidant dans des directions qui sont pertinentes pour nos joueurs.
+Vous pouvez aussi donner votre avis pour nous aider à améliorer le jeu.","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+"Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.
+You can also send in additional feedback to help us keep improving Minecraft.","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+Compartir datos,ความยินยอมเข้าร่วม,th-TH
+Comprender el contexto en el que se realiza un progreso nos ayudará a entender y mejorar la progresión del juego.,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+Comprendre le contexte derrière la réalisation d'un progrès peut nous aider à améliorer la progression du jeu.,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+Conectado con éxito,การเชื่อมต่อสำเร็จ,th-TH
+Conexión P2P,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+Conexão estabelecida,การเชื่อมต่อสำเร็จ,th-TH
+Conexão ponto a ponto,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+"Conhecer o perfil geral de desempenho do Minecraft nos ajuda a otimizar o jogo para uma ampla variedade de dispositivos e sistemas operacionais. 
+A versão do jogo é incluída para nos ajudar a comparar o desempenho das novas versões do Minecraft.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+Connection Successful,การเชื่อมต่อสำเร็จ,th-TH
+Connessione a rete paritaria,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+Connexion pair à pair,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+Connexion réussie,การเชื่อมต่อสำเร็จ,th-TH
+"Conocer el perfil de rendimiento de Minecraft nos ayuda a optimizar el juego para muchas especificaciones y sistemas operativos. 
+La versión del juego se incluye para ayudarnos a comparar el rendimiento de nuevas versiones.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+"Conoscere il profilo delle prestazioni di Minecraft ci aiuta ad adattare e a ottimizzare il gioco per un'ampia gamma di dispositivi e sistemi operativi.
+La versione del gioco è inclusa per aiutarci a effettuare il confronto con il profilo delle prestazioni delle nuove versioni di Minecraft.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+Consenso,ความยินยอมเข้าร่วม,th-TH
+Consentement,ความยินยอมเข้าร่วม,th-TH
+Contagem de amostras,จำนวนกลุ่มตัวอย่าง,th-TH
+Contenido del mapa de Realms (nombre del minijuego),เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Contenu de la carte de Realms (nom du mini-jeu),เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Conteúdo do mapa do Realms (nome do minijogo),เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Dados incluídos,ข้อมูลที่รวมอยู่ด้วย,th-TH
+Danos tu opinión,ให้ข้อเสนอแนะ,th-TH
+Datenschutzerklärung,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+Datenwerte zur Bildwiederholrate (FPS),กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+Datenwerte zur Renderzeit,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+Dati inclusi,ข้อมูลที่รวมอยู่ด้วย,th-TH
+Datos incluidos,ข้อมูลที่รวมอยู่ด้วย,th-TH
+Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Declaración de privacidad,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+Declaração de Privacidade,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+Dedicated Memory (kB),หน่วยความจำเฉพาะ (kB),th-TH
+"Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+"Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+"Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+Direktverbindung,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+Distance d'affichage,ระยะการมองเห็น,th-TH
+Distancia de renderizado,ระยะการมองเห็น,th-TH
+Donner son avis,ให้ข้อเสนอแนะ,th-TH
+Données incluses,ข้อมูลที่รวมอยู่ด้วย,th-TH
+Déclaration de confidentialité,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+Dünya Oturum Kimliği,ID เซสชันโลก,th-TH
+Dünya Yükleme Süresi (Milisaniye),เวลาโหลดโลก (มิลลิวินาที),th-TH
+Dünya Yüklendi,โลกโหลด,th-TH
+Dünya Yüklenme Süreleri,เวลาโหลดโลก,th-TH
+Dünyadan Çıkıldı,โลกไม่โหลด,th-TH
+Dấu thời gian sự kiện (giờ UTC),ประทับเวลาเหตุการณ์ (UTC),th-TH
+Dữ liệu được bao gồm,ข้อมูลที่รวมอยู่ด้วย,th-TH
+"En apprendre davantage sur la manière dont les joueurs jouent à Minecraft (avec quel mode de jeu, si le client ou le serveur est moddé, sous quelle version) nous aide à améliorer les aspects qui ont le plus d'importance pour les joueurs.
+L'événement ""Monde chargé"" est associé à l'événement ""Monde déchargé"" pour calculer la durée de la session de jeu.","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+"En apprendre davantage sur le profil global des performances de Minecraft nous aide à ajuster et optimiser le jeu pour un large éventail d'appareils et de systèmes d'exploitation. 
+La version du jeu est incluse pour nous aider à comparer le profil des performances des nouvelles versions de Minecraft.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+Entender o contexto de um progresso pode nos ajudar a entender e melhorar a progressão do jogo.,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+Enthaltene Daten,ข้อมูลที่รวมอยู่ด้วย,th-TH
+Enviar feedback,ให้ข้อเสนอแนะ,th-TH
+Erforderliches/optionales Ereignis,ความยินยอมเข้าร่วม,th-TH
+Erro ao criar o backend por falta de capacidades,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Error en la creación del backend por falta de capacidades,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+"Es importante que sepamos cuánto tiempo se tarda en entrar en un mundo y cómo cambia eso con el tiempo. Por ejemplo, cuando añadimos nuevas características o realizamos cambios técnicos grandes, necesitamos ver qué impacto tienen en los tiempos de carga.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+Esito della connessione positivo,การเชื่อมต่อสำเร็จ,th-TH
+"Esse evento nos ajuda a detectar a estabilidade e o desempenho das conexões ponto a ponto entre jogadores. Ele registra se a conexão foi estabelecida com êxito, o tipo de candidato usado (também conhecido por Interactive Connectivity Establishment, ou ICE, protocolo usado para estabelecer conexões ponto a ponto) e a duração para estabelecer a conexão.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+Esse evento nos informa sobre as capacidades do dispositivo gráfico usado durante o jogo.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+Esse evento pode nos ajudar a identificar as melhorias de desempenho de inicialização necessárias ao medir os tempos de execução das fases de inicialização.,เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+"Esse evento é sincronizado com o ""Mundo Carregado"" para calcular a duração da sessão de jogo.
+A duração (em segundos e tiques) é medida no final de uma sessão (ao sair para o menu principal ou de um servidor).","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+"Este evento está unido al de «Mundo cargado» para calcular cuánto ha durado la sesión de juego.
+La duración (en segundos y tics) se mide cuando una sesión de juego termina (saliendo al menú principal, desconectándose de un servidor).","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+"Este evento nos ayuda a comprender la fiabilidad y el rendimiento de las conexiones P2P entre jugadores. Registra si la conexión fue exitosa, el tipo de conectividad interactiva (ICE, el protocolo que usamos para establecer conexiones P2P) que pudo utilizarse y cuánto tiempo tardó en establecerse la conexión.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+Este evento nos informa sobre las capacidades del dispositivo gráfico utilizado para jugar.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+"Este evento puede ayudarnos a determinar donde se necesitan las mejoras de rendimiento, midiendo los tiempos de ejecución de las diferentes fases de arranque.",เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+Event Timestamp (UTC),ประทับเวลาเหตุการณ์ (UTC),th-TH
+Externer Kandidatentyp,ประเภทตัวเลือกระยะไกล,th-TH
+Failure Stage,ระยะการล้มเหลว,th-TH
+Fase de fallo,ระยะการล้มเหลว,th-TH
+Fase dell'errore,ระยะการล้มเหลว,th-TH
+Fase do erro,ระยะการล้มเหลว,th-TH
+Feedback geben,ให้ข้อเสนอแนะ,th-TH
+Fehlerphase,ระยะการล้มเหลว,th-TH
+Fortschritt erzielt,การทำความก้าวหน้า,th-TH
+Fortschritts‐ID,ID ความก้าวหน้า,th-TH
+Frame Rate Samples (fps),กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+Funzionalità grafiche,ความสามารถของกราฟิก,th-TH
+Funzionalità mancanti alla creazione della libreria,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Game Load Times,เวลาโหลดเกม,th-TH
+Game Mode,โหมดเกม,th-TH
+Game Time (Ticks),เวลาเกม (ติ๊ก),th-TH
+Game Version,เวอร์ชันเกม,th-TH
+Gelişim Kimliği,ID ความก้าวหน้า,th-TH
+Gelişim Yapıldı,การทำความก้าวหน้า,th-TH
+Geri Bildirim,ให้ข้อเสนอแนะ,th-TH
+Gesamte Ladezeit (Millisekunden),เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+Gesamte Verbindungszeit (Millisekunden),เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+Giai đoạn gây lỗi,ระยะการล้มเหลว,th-TH
+Give Feedback,ให้ข้อเสนอแนะ,th-TH
+Gizlilik Beyanı,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+Grafik Özellikleri,ความสามารถของกราฟิก,th-TH
+Grafikfunktionen,ความสามารถของกราฟิก,th-TH
+Graphics Capabilities,ความสามารถของกราฟิก,th-TH
+Görüntü Oluşturma Zamanları,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+Görüş Mesafesi,ระยะการมองเห็น,th-TH
+Gửi phản hồi,ให้ข้อเสนอแนะ,th-TH
+Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+Hora del evento (UTC),ประทับเวลาเหตุการณ์ (UTC),th-TH
+Hora do evento (UTC),ประทับเวลาเหตุการณ์ (UTC),th-TH
+Horodatage de l'événement (UTC),ประทับเวลาเหตุการณ์ (UTC),th-TH
+Hệ điều hành,ระบบปฏิบัติการ,th-TH
+I consent to sending optional telemetry data,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+Ich stimme der Übermittlung optionaler Telemetriedaten zu,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+ID da sessão do Minecraft,ID เซสชัน Minecraft,th-TH
+ID da sessão do mundo,ID เซสชันโลก,th-TH
+ID da sessão do servidor,ID เซสชันเซิร์ฟเวอร์,th-TH
+ID de l'utilisateur,ID ผู้ใช้,th-TH
+ID de la session de Minecraft,ID เซสชัน Minecraft,th-TH
+ID de la session du monde,ID เซสชันโลก,th-TH
+ID de la session du serveur,ID เซสชันเซิร์ฟเวอร์,th-TH
+ID del client,ID ไคลเอนต์,th-TH
+ID del progresso,ID ความก้าวหน้า,th-TH
+ID dell'utente,ID ผู้ใช้,th-TH
+ID della sessione del mondo,ID เซสชันโลก,th-TH
+ID della sessione del server,ID เซสชันเซิร์ฟเวอร์,th-TH
+ID della sessione di Minecraft,ID เซสชัน Minecraft,th-TH
+ID do cliente,ID ไคลเอนต์,th-TH
+ID do progresso,ID ความก้าวหน้า,th-TH
+ID do usuário,ID ผู้ใช้,th-TH
+ID du client,ID ไคลเอนต์,th-TH
+ID du progrès,ID ความก้าวหน้า,th-TH
+ID máy khách,ID ไคลเอนต์,th-TH
+ID người dùng,ID ผู้ใช้,th-TH
+ID phiên Minecraft,ID เซสชัน Minecraft,th-TH
+ID phiên máy chủ,ID เซสชันเซิร์ฟเวอร์,th-TH
+ID phiên thế giới,ID เซสชันโลก,th-TH
+ID tiến trình,ID ความก้าวหน้า,th-TH
+Id. de cliente,ID ไคลเอนต์,th-TH
+Id. de sesión de Minecraft,ID เซสชัน Minecraft,th-TH
+Id. de sesión del mundo,ID เซสชันโลก,th-TH
+Id. de sesión del servidor,ID เซสชันเซิร์ฟเวอร์,th-TH
+Id. de usuario,ID ผู้ใช้,th-TH
+Id. del progreso,ID ความก้าวหน้า,th-TH
+"Il est important pour nous de déterminer le temps nécessaire pour rejoindre un monde, et la manière dont cela évolue au fil du temps. Par exemple, lorsque nous ajoutons de nouvelles fonctionnalités ou réalisons d'importants changements techniques, nous avons besoin d'en observer l'impact sur les temps de chargement.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+Included Data,ข้อมูลที่รวมอยู่ด้วย,th-TH
+Info sulla riservatezza,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+Initialisierungszeit (Millisekunden),เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+Interactive Connectivity Establishment (ICE) Connect Time (Milliseconds),เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Interactive Connectivity Establishment (ICE) Path,เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+Interactive Connectivity Establishment（ICE）パス,เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Interner Kandidatentyp,ประเภทตัวเลือกท้องถิ่น,th-TH
+Invia riscontro,ให้ข้อเสนอแนะ,th-TH
+"It's important for us to understand how long it takes to join a world, and how that changes over time. For example, when we add new features or do larger technical changes, we need to see what impact that had on load times.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+İstemci Kimliği,ID ไคลเอนต์,th-TH
+İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+İçerilen Veri,ข้อมูลที่รวมอยู่ด้วย,th-TH
+İşletim Sistemi,ระบบปฏิบัติการ,th-TH
+J'accepte l'envoi de données de télémétrie facultatives,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+Kare Hızı Örnekleri (fps),กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+Katıl,ความยินยอมเข้าร่วม,th-TH
+Khoảng cách kết xuất,ระยะการมองเห็น,th-TH
+"Knowing how players play Minecraft (such as Game Mode, client or server modded, and game version) allows us to focus game updates to improve the areas that players care about most.
+The World Loaded event is paired with the World Unloaded event to calculate how long the play session has lasted.","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+"Knowing the overall performance profile of Minecraft helps us tune and optimize the game for a wide range of machine specifications and operating systems.
+Game version is included to help us compare the performance profile for new versions of Minecraft.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+Kullanıcı Kimliği,ID ผู้ใช้,th-TH
+Kullanılan Bellek (RAM),RAM ที่ใช้,th-TH
+Kết nối ngang hàng,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+Kết nối thành công,การเชื่อมต่อสำเร็จ,th-TH
+"La raccolta di questi dati ci aiuta a migliorare Minecraft, indicandoci le decisioni più opportune per i giocatori. Inoltre, puoi inviare un riscontro aggiuntivo per aiutarci a migliorare Minecraft ulteriormente.","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+"La recolección de datos nos ayuda a mejorar Minecraft guiándonos hacia direcciones que sean relevantes para nuestros jugadores.
+También puedes enviar sugerencias para ayudarnos a seguir mejorando Minecraft.","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+Launcher Name,ชื่อลันเชอร์,th-TH
+Launcher‐Name,ชื่อลันเชอร์,th-TH
+Leistungsmetriken,เมตริกประสิทธิภาพ,th-TH
+Local Candidate Type,ประเภทตัวเลือกท้องถิ่น,th-TH
+Loại máy chủ,ประเภทเซิร์ฟเวอร์,th-TH
+Loại ứng viên cục bộ,ประเภทตัวเลือกท้องถิ่น,th-TH
+Loại ứng viên từ xa,ประเภทตัวเลือกระยะไกล,th-TH
+Lý do lỗi tạo Backend,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Medición del rendimiento,เมตริกประสิทธิภาพ,th-TH
+Meine Daten einsehen,ดูข้อมูลของฉัน,th-TH
+Memoria de acceso aleatorio usada (RAM),RAM ที่ใช้,th-TH
+Memoria dedicada (kB),หน่วยความจำเฉพาะ (kB),th-TH
+Memoria dedicata [kB],หน่วยความจำเฉพาะ (kB),th-TH
+Memória dedicada (kB),หน่วยความจำเฉพาะ (kB),th-TH
+Memória RAM usada,RAM ที่ใช้,th-TH
+Mensagem de erro ao criar o backend,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Mensaje de error en la creación del backend,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Message d'échec de la création du backend,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Messaggio dell'errore nella creazione della libreria,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Mesures de performances,เมตริกประสิทธิภาพ,th-TH
+Metriche di prestazione,เมตริกประสิทธิภาพ,th-TH
+Minecraft Oturum Kimliği,ID เซสชัน Minecraft,th-TH
+Minecraft Session ID,ID เซสชัน Minecraft,th-TH
+Minecraft 세션 ID,ID เซสชัน Minecraft,th-TH
+Minecraft‐Sitzungs‐ID,ID เซสชัน Minecraft,th-TH
+"Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+MinecraftのセッションID,ID เซสชัน Minecraft,th-TH
+Minecraft会话ID,ID เซสชัน Minecraft,th-TH
+"Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+"Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+"Misurando il tempo necessario a eseguire le fasi di avvio, quest'evento può aiutarci a capire dove c'è bisogno di migliorie.",เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+Modalità di gioco,โหมดเกม,th-TH
+Mode de jeu,โหมดเกม,th-TH
+Modifiche del client,ไคลเอนต์มีการดัดแปร,th-TH
+Modifiche del server,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+Modlanmış İstemci,ไคลเอนต์มีการดัดแปร,th-TH
+Modlanmış Sunucu,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+Modo de jogo,โหมดเกม,th-TH
+Modo de juego,โหมดเกม,th-TH
+Modが導入されたクライアント,ไคลเอนต์มีการดัดแปร,th-TH
+Modが導入されたサーバー,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+Monde chargé,โลกโหลด,th-TH
+Monde déchargé,โลกไม่โหลด,th-TH
+Mondo caricato,โลกโหลด,th-TH
+Mondo scaricato,โลกไม่โหลด,th-TH
+Mostra i miei dati,ดูข้อมูลของฉัน,th-TH
+Motivo de error en la creación del backend,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Motivo dell'errore nella creazione della libreria,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Motivo do erro ao criar o backend,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Muestras de fotogramas por segundo (FPS),กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+Muestras de tiempo de renderizado,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+Mundo cargado,โลกโหลด,th-TH
+Mundo Carregado,โลกโหลด,th-TH
+Mundo descargado,โลกไม่โหลด,th-TH
+Mundo Descarregado,โลกไม่โหลด,th-TH
+Mundo nuevo,โลกใหม่,th-TH
+Máy chủ đã sửa đổi,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+Máy khách đã sửa đổi,ไคลเอนต์มีการดัดแปร,th-TH
+Mémoire dédiée (Ko),หน่วยความจำเฉพาะ (kB),th-TH
+Mémoire vive utilisée (RAM),RAM ที่ใช้,th-TH
+Métricas de desempenho,เมตริกประสิทธิภาพ,th-TH
+Mẫu thời gian kết xuất,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+Mẫu tốc độ khung hình (FPS),กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+Name der Schnittstelle,ชื่อแบ็กเอนด์,th-TH
+Neue Welt,โลกใหม่,th-TH
+New World,โลกใหม่,th-TH
+Nom du backend,ชื่อแบ็กเอนด์,th-TH
+Nom du Launcher,ชื่อลันเชอร์,th-TH
+Nombre d'échantillons,จำนวนกลุ่มตัวอย่าง,th-TH
+Nombre del backend,ชื่อแบ็กเอนด์,th-TH
+Nombre del lanzador,ชื่อลันเชอร์,th-TH
+Nome del launcher,ชื่อลันเชอร์,th-TH
+Nome del minigioco o contenuto di Realms,เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Nome della libreria grafica,ชื่อแบ็กเอนด์,th-TH
+Nome do backend,ชื่อแบ็กเอนด์,th-TH
+Nome do launcher,ชื่อลันเชอร์,th-TH
+Nouveau monde ?,โลกใหม่,th-TH
+Novo mundo,โลกใหม่,th-TH
+Numero di campioni,จำนวนกลุ่มตัวอย่าง,th-TH
+Nuovo mondo,โลกใหม่,th-TH
+Número de muestras,จำนวนกลุ่มตัวอย่าง,th-TH
+Nền tảng,แพลตฟอร์ม,th-TH
+Nội dung bản đồ Realms (tên trò chơi nhỏ),เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Olay Tarih Bilgisi (UTC),ประทับเวลาเหตุการณ์ (UTC),th-TH
+Operating System,ระบบปฏิบัติการ,th-TH
+Opt-In,ความยินยอมเข้าร่วม,th-TH
+Orario dell'evento [UTC],ประทับเวลาเหตุการณ์ (UTC),th-TH
+Oyun Modu,โหมดเกม,th-TH
+Oyun Süresi (Birim Zaman),เวลาเกม (ติ๊ก),th-TH
+Oyun Sürümü,เวอร์ชันเกม,th-TH
+Oyun Yükleme Süreleri,เวลาโหลดเกม,th-TH
+"Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+P2P 連線,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+P2P接続,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+Participação,ความยินยอมเข้าร่วม,th-TH
+Peer-to-peer Bağlantı,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+Peer-to-peer Connection,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+Pencere Açılmadan Önceki Süre (Milisaniye),เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+"Per noi è importante capire il tempo necessario per entrare in un mondo e come questo dato può cambiare. Ad esempio, quando aggiungiamo nuove funzionalità o apportiamo modifiche tecniche significative, ci serve sapere in che modo ciò incide sui tempi di caricamento.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+Percorso dello stabilimento di connettività interattiva (SCI),เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+Performance Metrics,เมตริกประสิทธิภาพ,th-TH
+Performans Ölçümleri,เมตริกประสิทธิภาพ,th-TH
+Permito enviar mis datos de telemetría opcionales,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+Phase de l'échec,ระยะการล้มเหลว,th-TH
+Phiên bản trò chơi,เวอร์ชันเกม,th-TH
+Piattaforma,แพลตฟอร์ม,th-TH
+Plataforma,แพลตฟอร์ม,th-TH
+Plateforme,แพลตฟอร์ม,th-TH
+Platform,แพลตฟอร์ม,th-TH
+Plattform,แพลตฟอร์ม,th-TH
+Privacy Statement,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+Progreso realizado,การทำความก้าวหน้า,th-TH
+Progresso compiuto,การทำความก้าวหน้า,th-TH
+Progressos feitos,การทำความก้าวหน้า,th-TH
+Progrès réalisés,การทำความก้าวหน้า,th-TH
+"Quest'evento viene usato insieme a «Mondo caricato» per calcolare la durata della sessione del mondo. La durata (in secondi e in tick) viene misurata al termine della sessione di un mondo, cioè quando si torna al menù principale o ci si disconnette da un server.","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+"Questo evento ci aiuta a capire l'affidabilità e le prestazioni delle connessioni a rete paritaria tra giocatori. Registra l'esito della connessione, il tipo di candidato usato per lo stabilimento di connettività interattiva (SCI, o ICE in inglese, il protocollo che usiamo per le connessioni a rete paritaria) e il tempo richiesto per stabilire la connessione.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+Questo evento ci comunica le capacità del dispositivo grafico in uso durante la partita.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+Raccolta dei dati di telemetria,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+Raison de l'échec de la création du backend,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Realms Harita İçeriği (Mini Oyun Adı),เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Realms Map Content (Minigame Name),เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Realms 地圖內容（小遊戲名稱）,เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Realms 맵 콘텐츠 (미니게임 이름),เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Realms‐Weltinhalt (Name des Minispiels),เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Realmsのマップコンテンツ（ミニゲームの名前）,เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Realm地图内容（小游戏名称）,เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Recolección de datos de telemetría,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+Remote Candidate Type,ประเภทตัวเลือกระยะไกล,th-TH
+Render Distance,ระยะการมองเห็น,th-TH
+Render Time Samples,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+Route des interaktiven Verbindungsaufbaus (ICE),เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+Ruta de tipo de conectividad interactiva (ICE),เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+"Saber como os jogadores jogam Minecraft (como o modo de jogo, modificações de cliente ou servidor e a versão do jogo) nos permite melhorar as áreas mais interessantes aos jogadores.
+O evento Mundo Carregado é sincronizado com o Mundo Descarregado para calcular a duração da sessão de jogo.","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+"Saber cómo juegan los jugadores a Minecraft (qué modo de juego, cliente o servidor modificado y versión del juego usan) nos ayuda a mejorar los aspectos que más le importan a los jugadores.
+El evento «Mundo cargado» está unido al de «Mundo descargado» para calcular cuánto ha durado la sesión de juego.","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+Sample Count,จำนวนกลุ่มตัวอย่าง,th-TH
+Sapere come i giocatori giocano a Minecraft (per esempio la modalità e la versione di gioco o client e server modificati) ci consente di focalizzare gli aggiornamenti del gioco al fine di migliorare le aree a cui i giocatori tengono di più. L'evento «Mondo caricato» è usato insieme a «Mondo scaricato» per calcolare la durata delle sessioni di gioco.,"การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+Server Modded,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+Server modifiziert,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+Server Session ID,ID เซสชันเซิร์ฟเวอร์,th-TH
+Server Type,ประเภทเซิร์ฟเวอร์,th-TH
+Servertyp,ประเภทเซิร์ฟเวอร์,th-TH
+Server‐Sitzungs‐ID,ID เซสชันเซิร์ฟเวอร์,th-TH
+Serveur moddé ?,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+Servidor modificado,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+Sichtweite,ระยะการมองเห็น,th-TH
+Signalaufbauzeit (Millisekunden),เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+Signaling Connection Time (Milliseconds),เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+Sistema operacional,ระบบปฏิบัติการ,th-TH
+Sistema operativo,ระบบปฏิบัติการ,th-TH
+Spielladezeiten,เวลาโหลดเกม,th-TH
+Spielmodus,โหมดเกม,th-TH
+Spielversion,เวอร์ชันเกม,th-TH
+Spielzeit (Ticks),เวลาเกม (ติ๊ก),th-TH
+Sunucu Oturum Kimliği,ID เซสชันเซิร์ฟเวอร์,th-TH
+Sunucu Türü,ประเภทเซิร์ฟเวอร์,th-TH
+Système d'exploitation,ระบบปฏิบัติการ,th-TH
+Số liệu hiệu suất,เมตริกประสิทธิภาพ,th-TH
+Số lượng mẫu,จำนวนกลุ่มตัวอย่าง,th-TH
+Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+"Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+Telemetrie‐Datenerhebung,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+Telemetry Data Collection,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+Tempi di caricamento del gioco,เวลาโหลดเกม,th-TH
+Tempo antes da abertura da janela (milissegundos),เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+Tempo dal caricamento del mondo [s],เวลาตั้งแต่โหลด (วินาที),th-TH
+Tempo dal caricamento del mondo [t],เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+Tempo de carregamento de mundos,เวลาโหลดโลก,th-TH
+Tempo de carregamento do mundo (milissegundos),เวลาโหลดโลก (มิลลิวินาที),th-TH
+Tempo de carregamento total (milissegundos),เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+Tempo de conexão (milissegundos) do Interactive Connectivity Establishment (ICE),เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Tempo de conexão da sinalização (milissegundos),เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+Tempo de conexão total (milissegundos),เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+Tempo de inicialização (milissegundos),เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+Tempo de jogo (tiques),เวลาเกม (ติ๊ก),th-TH
+Tempo desde carregamento (tiques),เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+Tempo desde o carregamento (segundos),เวลาตั้งแต่โหลด (วินาที),th-TH
+Tempo di avvio [ms],เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+Tempo di caricamento dei mondi,เวลาโหลดโลก,th-TH
+Tempo di caricamento del mondo [ms],เวลาโหลดโลก (มิลลิวินาที),th-TH
+Tempo di connessione dello SCI [ms],เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Tempo di connessione di segnalamento [ms],เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+Tempo di gioco [t],เวลาเกม (ติ๊ก),th-TH
+Tempo na tela de carregamento (milissegundos),เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+Tempo nella schermata di caricamento [ms],เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+Tempo prima dell'apertura della finestra [ms],เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+Tempo totale di caricamento [ms],เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+Tempo totale di connessione [ms],เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+Tempos de carregamento do jogo,เวลาโหลดเกม,th-TH
+Temps avant l'ouverture de la fenêtre (en millisecondes),เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+Temps de chargement des mondes,เวลาโหลดโลก,th-TH
+Temps de chargement du jeu,เวลาโหลดเกม,th-TH
+Temps de chargement du monde (en millisecondes),เวลาโหลดโลก (มิลลิวินาที),th-TH
+Temps de connexion de l'établissement de connectivité interactive (ICE) (en millisecondes),เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Temps de connexion de la signalisation (en millisecondes),เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+Temps de démarrage (en millisecondes),เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+Temps de l'écran de chargement (en millisecondes),เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+Temps depuis le chargement (en secondes),เวลาตั้งแต่โหลด (วินาที),th-TH
+Temps depuis le chargement (en ticks),เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+Temps en jeu (en ticks),เวลาเกม (ติ๊ก),th-TH
+Temps total de chargement (en millisecondes),เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+Temps total de connexion (en millisecondes),เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+This event can help us figure out where startup performance improvements are needed by measuring the execution times of the startup phases.,เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+"This event helps us understand the reliability and performance of peer-to-peer connections between players. It records whether the connection was successful, the type of Interactive Connectivity Establishment (ICE, the protocol we use to establish peer-to-peer connections) candidate used, and how long it took to establish the connection.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+This event informs us of the capabilities of the graphics device used to play the game.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+"This event is paired with the World Loaded event to calculate how long the world session has lasted.
+The duration (in seconds and ticks) is measured when a world session has ended (quitting to title, disconnecting from a server).","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+Thu thập dữ liệu đo từ xa,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+Thông tin lỗi tạo Backend,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Thế giới chưa nạp,โลกไม่โหลด,th-TH
+Thế giới mới,โลกใหม่,th-TH
+Thế giới đã nạp,โลกโหลด,th-TH
+Thời gian khởi tạo trò chơi (miligiây),เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Thời gian kết nối tín hiệu (Miligiây),เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+Thời gian nạp thế giới,เวลาโหลดโลก,th-TH
+Thời gian nạp thế giới (Miligiây),เวลาโหลดโลก (มิลลิวินาที),th-TH
+Thời gian nạp trò chơi,เวลาโหลดเกม,th-TH
+Thời gian trong màn hình nạp (miligiây),เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+Thời gian trong trò chơi (nhịp),เวลาเกม (ติ๊ก),th-TH
+Thời gian trước khi cửa sổ mở (miligiây),เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+Thời gian từ khi nạp (Giây),เวลาตั้งแต่โหลด (วินาที),th-TH
+Thời gian từ khi nạp (Nhịp),เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+Tiempo antes de que la ventana se abra (milisegundos),เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+Tiempo de carga del mundo (en milisegundos),เวลาโหลดโลก (มิลลิวินาที),th-TH
+Tiempo de conexión de conectividad interactiva (ICE) (ms),เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Tiempo de conexión de señalización (ms),เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+Tiempo de conexión total (ms),เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+Tiempo de inicio (milisegundos),เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+Tiempo de juego (tics),เวลาเกม (ติ๊ก),th-TH
+Tiempo desde que se cargó (en segundos),เวลาตั้งแต่โหลด (วินาที),th-TH
+Tiempo desde que se cargó (en tics),เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+Tiempo en pantalla de carga (milisegundos),เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+Tiempo total de carga (milisegundos),เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+Tiempos de carga del juego,เวลาโหลดเกม,th-TH
+Tiempos de carga del mundo,เวลาโหลดโลก,th-TH
+Time Before Window Opens (Milliseconds),เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+Time in Loading Screen (Milliseconds),เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+Time Since Load (Seconds),เวลาตั้งแต่โหลด (วินาที),th-TH
+Time Since Load (Ticks),เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+Tipo de candidato local,ประเภทตัวเลือกท้องถิ่น,th-TH
+Tipo de candidato remoto,ประเภทตัวเลือกระยะไกล,th-TH
+Tipo de servidor,ประเภทเซิร์ฟเวอร์,th-TH
+Tipo di candidato locale,ประเภทตัวเลือกท้องถิ่น,th-TH
+Tipo di candidato remoto,ประเภทตัวเลือกระยะไกล,th-TH
+Tipo di server,ประเภทเซิร์ฟเวอร์,th-TH
+Tiến trình đã làm,การทำความก้าวหน้า,th-TH
+Toplam Bağlanma Süresi (Milisaniye),เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+Toplam Yükleme Süresi (Milisaniye),เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+Total Connection Time (Milliseconds),เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+Total Load Time (Milliseconds),เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+Tuyên bố về quyền riêng tư,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+Type de candidat distant,ประเภทตัวเลือกระยะไกล,th-TH
+Type de candidat local,ประเภทตัวเลือกท้องถิ่น,th-TH
+Type de serveur,ประเภทเซิร์ฟเวอร์,th-TH
+Tên Backend,ชื่อแบ็กเอนด์,th-TH
+Tên trình khởi động,ชื่อลันเชอร์,th-TH
+Tính năng bị thiếu gây lỗi tạo Backend,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+Tương thích đồ họa,ความสามารถของกราฟิก,th-TH
+Tổng thời gian kết nối (Miligiây),เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+Tổng thời gian nạp (Miligiây),เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+Understanding the context behind receiving an advancement can help us better understand and improve the progression of the game.,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+Used Random Access Memory,RAM ที่ใช้,th-TH
+User ID,ID ผู้ใช้,th-TH
+Utilizzo della memoria (RAM),RAM ที่ใช้,th-TH
+Uzak Aday Tipi,ประเภทตัวเลือกระยะไกล,th-TH
+Ver meus dados,ดูข้อมูลของฉัน,th-TH
+Ver mis datos,ดูข้อมูลของฉัน,th-TH
+Verbindungserfolg,การเชื่อมต่อสำเร็จ,th-TH
+Verilerimi Görüntüle,ดูข้อมูลของฉัน,th-TH
+Version du jeu,เวอร์ชันเกม,th-TH
+Versione del gioco,เวอร์ชันเกม,th-TH
+Versión del juego,เวอร์ชันเกม,th-TH
+Versão do jogo,เวอร์ชันเกม,th-TH
+Verwendeter Arbeitsspeicher,RAM ที่ใช้,th-TH
+View My Data,ดูข้อมูลของฉัน,th-TH
+Visibilità,ระยะการมองเห็น,th-TH
+"Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+"Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+"Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+Voir mes données,ดูข้อมูลของฉัน,th-TH
+Welt entladen,โลกไม่โหลด,th-TH
+Welt geladen,โลกโหลด,th-TH
+Weltladezeit (Millisekunden),เวลาโหลดโลก (มิลลิวินาที),th-TH
+Weltladezeiten,เวลาโหลดโลก,th-TH
+Welt‐Sitzungs‐ID,ID เซสชันโลก,th-TH
+World Load Time (Milliseconds),เวลาโหลดโลก (มิลลิวินาที),th-TH
+World Load Times,เวลาโหลดโลก,th-TH
+World Loaded,โลกโหลด,th-TH
+World Session ID,ID เซสชันโลก,th-TH
+World Unloaded,โลกไม่โหลด,th-TH
+Xem dữ liệu của tôi,ดูข้อมูลของฉัน,th-TH
+Yeni Dünya,โลกใหม่,th-TH
+Yerel Aday Tipi,ประเภทตัวเลือกท้องถิ่น,th-TH
+Yükleme Ekranında Geçen Süre (Milisaniye),เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+Yüklemeden Bu Yana Geçen Zaman (Saniye),เวลาตั้งแต่โหลด (วินาที),th-TH
+Zeit im Ladebildschirm (Millisekunden),เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+Zeit seit dem Laden (Sekunden),เวลาตั้งแต่โหลด (วินาที),th-TH
+Zeit seit dem Laden (Ticks),เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+Zeitpunkt des Ereignisses (koordinierte Weltzeit),ประทับเวลาเหตุการณ์ (UTC),th-TH
+"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+"Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+Zugewiesener Arbeitsspeicher (KB),หน่วยความจำเฉพาะ (kB),th-TH
+"É importante entendermos o tempo necessário para entrar num mundo e como isso muda ao longo do tempo. Por exemplo, ao adicionar novos recursos ou fazer mudanças técnicas maiores, precisamos observar o impacto nos tempos de carregamento.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+Échantillons d'images par seconde (FPS),กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+Échantillons du temps de rendu,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+Ölçüm Verileri Toplama,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+Önyükleme Süresi (Milisaniye),เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+Örnek Sayısı,จำนวนกลุ่มตัวอย่าง,th-TH
+"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+Đường dẫn thiết lập kết nối tương tác (ICE),เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+"В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+Величина выборки,จำนวนกลุ่มตัวอย่าง,th-TH
+Версия игры,เวอร์ชันเกม,th-TH
+Включённые данные,ข้อมูลที่รวมอยู่ด้วย,th-TH
+Возможности графического устройства,ความสามารถของกราฟิก,th-TH
+Временная метка (UTC),ประทับเวลาเหตุการณ์ (UTC),th-TH
+Время до открытия окна (миллисекунды),เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+Время загрузки игры,เวลาโหลดเกม,th-TH
+Время загрузки мира,เวลาโหลดโลก,th-TH
+Время загрузки мира (миллисекунды),เวลาโหลดโลก (มิลลิวินาที),th-TH
+Время игры (такты),เวลาเกม (ติ๊ก),th-TH
+Время инициализации (миллисекунды),เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+Время на экране загрузки (миллисекунды),เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+Время с загрузки (секунды),เวลาตั้งแต่โหลด (วินาที),th-TH
+Время с загрузки (такты),เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+Время установления интерактивного соединения (ICE) (миллисекунды),เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+Время установления соединения (миллисекунды),เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+Выборка времени кадра,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+Выборка частоты кадров (FPS),กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+Выгрузка мира,โลกไม่โหลด,th-TH
+Выделенная память (Кбайт),หน่วยความจำเฉพาะ (kB),th-TH
+Дальность прорисовки,ระยะการมองเห็น,th-TH
+Загрузка мира,โลกโหลด,th-TH
+Заявление о конфиденциальности,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+"Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+"Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+Идентификатор достижения,ID ความก้าวหน้า,th-TH
+Идентификатор клиента,ID ไคลเอนต์,th-TH
+Идентификатор пользователя,ID ผู้ใช้,th-TH
+Идентификатор сессии Minecraft,ID เซสชัน Minecraft,th-TH
+Идентификатор сессии мира,ID เซสชันโลก,th-TH
+Идентификатор сессии сервера,ID เซสชันเซิร์ฟเวอร์,th-TH
+Использование ОЗУ,RAM ที่ใช้,th-TH
+Карта Realms (название мини-игры),เนื้อหาแมป Realms (ชื่อมินิเกม),th-TH
+Маршрут установления интерактивного соединения (ICE),เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+Модифицированность клиента,ไคลเอนต์มีการดัดแปร,th-TH
+Модифицированность сервера,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+Мои данные,ดูข้อมูลของฉัน,th-TH
+Название графического API,ชื่อแบ็กเอนด์,th-TH
+Название лаунчера,ชื่อลันเชอร์,th-TH
+"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+Новое достижение,การทำความก้าวหน้า,th-TH
+Новый мир,โลกใหม่,th-TH
+Общее время загрузки (миллисекунды),เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+Общее время подключения (миллисекунды),เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+Одноранговое соединение,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+Операционная система,ระบบปฏิบัติการ,th-TH
+Оставить отзыв,ให้ข้อเสนอแนะ,th-TH
+Ошибка инициализации графического API: отсутствующие возможности,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Ошибка инициализации графического API: подробности,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Ошибка инициализации графического API: причина,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+Платформа,แพลตฟอร์ม,th-TH
+Показатели производительности,เมตริกประสิทธิภาพ,th-TH
+Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+Режим игры,โหมดเกม,th-TH
+Сбор данных телеметрии,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+"Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+Согласие на отправку,ความยินยอมเข้าร่วม,th-TH
+Тип локального кандидата,ประเภทตัวเลือกท้องถิ่น,th-TH
+Тип сервера,ประเภทเซิร์ฟเวอร์,th-TH
+Тип удалённого кандидата,ประเภทตัวเลือกระยะไกล,th-TH
+Успешность подключения,การเชื่อมต่อสำเร็จ,th-TH
+Этап отказа,ระยะการล้มเหลว,th-TH
+"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+Это событие сообщает о возможностях используемого графического устройства.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+Я даю согласие на отправку дополнительных телеметрических данных,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+"このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+"これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+イベントの時刻（UTC）,ประทับเวลาเหตุการณ์ (UTC),th-TH
+ウィンドウが開くまでの時間（ミリ秒）,เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+オプトイン,ความยินยอมเข้าร่วม,th-TH
+オペレーティングシステム,ระบบปฏิบัติการ,th-TH
+クライアントID,ID ไคลเอนต์,th-TH
+グラフィック性能,ความสามารถของกราฟิก,th-TH
+ゲームのバージョン,เวอร์ชันเกม,th-TH
+ゲームの読み込み時間,เวลาโหลดเกม,th-TH
+ゲームモード,โหมดเกม,th-TH
+ゲーム内時間（ティック）,เวลาเกม (ติ๊ก),th-TH
+サンプリング数,จำนวนกลุ่มตัวอย่าง,th-TH
+サーバーのセッションID,ID เซสชันเซิร์ฟเวอร์,th-TH
+サーバーの種類,ประเภทเซิร์ฟเวอร์,th-TH
+シグナリング接続時間（ミリ秒）,เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+データの遠隔収集,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+バックエンド作成失敗の原因,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+バックエンド作成失敗時のメッセージ,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+バックエンド作成失敗時の不足していた性能情報,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+バックエンド名,ชื่อแบ็กเอนด์,th-TH
+パフォーマンス測定,เมตริกประสิทธิภาพ,th-TH
+フィードバックを送信,ให้ข้อเสนอแนะ,th-TH
+フレームレートのサンプル（FPS）,กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+プライバシーに関する声明,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+プラットフォーム,แพลตฟอร์ม,th-TH
+"プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+ユーザーID,ID ผู้ใช้,th-TH
+ランチャー名,ชื่อลันเชอร์,th-TH
+リモート候補タイプ,ประเภทตัวเลือกระยะไกล,th-TH
+ローカル候補タイプ,ประเภทตัวเลือกท้องถิ่น,th-TH
+ワールドのセッションID,ID เซสชันโลก,th-TH
+ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+ワールドの読み込み時間（ミリ秒）,เวลาโหลดโลก (มิลลิวินาที),th-TH
+ワールドアンロード,โลกไม่โหลด,th-TH
+ワールドロード,โลกโหลด,th-TH
+ワールド読み込み時間,เวลาโหลดโลก,th-TH
+专用内存（kB）,หน่วยความจำเฉพาะ (kB),th-TH
+世界 Session ID,ID เซสชันโลก,th-TH
+世界会话ID,ID เซสชันโลก,th-TH
+世界加载,โลกโหลด,th-TH
+世界加载时间,เวลาโหลดโลก,th-TH
+世界加载时间（毫秒）,เวลาโหลดโลก (มิลลิวินาที),th-TH
+世界卸載,โลกไม่โหลด,th-TH
+世界卸载,โลกไม่โหลด,th-TH
+世界載入,โลกโหลด,th-TH
+世界載入時間,เวลาโหลดโลก,th-TH
+世界載入時間（毫秒）,เวลาโหลดโลก (มิลลิวินาที),th-TH
+"了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+"了解Minecraft的整体性能概况，可以帮助我们针对各种机型和操作系统调整与优化游戏。 
+游戏版本信息也包含在其中，以帮助我们比较Minecraft新版本的性能概况。","การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่",th-TH
+"了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+"了解玩家玩Minecraft时的细节（例如游戏模式、客户端或服务端是否被修改，以及游戏版本）有助于我们在游戏更新时注重改进玩家最关心的部分。
+世界加载事件将同世界卸载事件一起用于计算游戏会话的持续时长。","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+了解达成进度前后发生的事情有助于我们更好了解及改进游戏流程。,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+事件时间戳（UTC）,ประทับเวลาเหตุการณ์ (UTC),th-TH
+事件時間戳記（UTC）,ประทับเวลาเหตุการณ์ (UTC),th-TH
+互動式連線建立 (ICE) 路徑,เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+互動式連線建立 (ICE) 連線時間（毫秒）,เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+交互式连接建立（ICE）路径,เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+交互式连接建立（ICE）连接时间（毫秒）,เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+任意の遠隔測定データを送信することに同意する,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+伺服器 Session ID,ID เซสชันเซิร์ฟเวอร์,th-TH
+伺服器是否為原版,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+伺服器類型,ประเภทเซิร์ฟเวอร์,th-TH
+作業系統,ระบบปฏิบัติการ,th-TH
+使用されたランダムアクセスメモリ,RAM ที่ใช้,th-TH
+使用的記憶體,RAM ที่ใช้,th-TH
+使用者 ID,ID ผู้ใช้,th-TH
+信令连接时间（毫秒）,เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+信令連線時間（毫秒）,เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+加载屏幕显示时间（毫秒）,เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+包含的数据,ข้อมูลที่รวมอยู่ด้วย,th-TH
+包含的資料,ข้อมูลที่รวมอยู่ด้วย,th-TH
+可选择加入,ความยินยอมเข้าร่วม,th-TH
+可選擇加入,ความยินยอมเข้าร่วม,th-TH
+后端创建失败原因,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+后端创建失败消息,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+后端创建失败缺失功能,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+后端名称,ชื่อแบ็กเอนด์,th-TH
+含まれるデータ,ข้อมูลที่รวมอยู่ด้วย,th-TH
+启动器名称,ชื่อลันเชอร์,th-TH
+启动引导时间（毫秒）,เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+啟動器名稱,ชื่อลันเชอร์,th-TH
+啟動引導時間（毫秒）,เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+图形功能,ความสามารถของกราฟิก,th-TH
+圖形功能,ความสามารถของกราฟิก,th-TH
+失敗の起きた段階,ระยะการล้มเหลว,th-TH
+失敗階段,ระยะการล้มเหลว,th-TH
+失败阶段,ระยะการล้มเหลว,th-TH
+客户端ID,ID ไคลเอนต์,th-TH
+客户端是否被修改,ไคลเอนต์มีการดัดแปร,th-TH
+对我们而言，了解加入世界所需的时长，以及这一时长随着时间推移会如何变化是很重要的。比如，当我们加入新功能或进行较大的技术更改时，我们需要知道这对加载时间有何影响。,เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+専用メモリ（kB）,หน่วยความจำเฉพาะ (kB),th-TH
+專屬記憶體（kB）,หน่วยความจำเฉพาะ (kB),th-TH
+對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+已使用的内存,RAM ที่ใช้,th-TH
+帧率样本（FPS）,กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+平台,แพลตฟอร์ม,th-TH
+後端名稱,ชื่อแบ็กเอนด์,th-TH
+後端建立失敗原因,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+後端建立失敗缺少功能,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+後端建立失敗訊息,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+性能指标,เมตริกประสิทธิภาพ,th-TH
+总计加载时间（毫秒）,เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+总计连接时间（毫秒）,เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+我同意傳送可選的遙測資料,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+我同意发送可选的遥测数据,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+打开我的数据,ดูข้อมูลของฉัน,th-TH
+接続の成功の是非,การเชื่อมต่อสำเร็จ,th-TH
+描画所要時間のサンプル,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+描画距離,ระยะการมองเห็น,th-TH
+提供反馈,ให้ข้อเสนอแนะ,th-TH
+提供意見回饋,ให้ข้อเสนอแนะ,th-TH
+操作系统,ระบบปฏิบัติการ,th-TH
+"收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+"收集这些数据可以让我们了解与玩家有关的实际情况，以便帮助我们改进Minecraft。
+你也可以发送其他反馈来帮助我们持续改进Minecraft。","การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+效能指標,เมตริกประสิทธิภาพ,th-TH
+新規ワールド,โลกใหม่,th-TH
+是否为新的世界,โลกใหม่,th-TH
+是否為新的世界,โลกใหม่,th-TH
+服务器会话ID,ID เซสชันเซิร์ฟเวอร์,th-TH
+服务器类型,ประเภทเซิร์ฟเวอร์,th-TH
+服务端是否被修改,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+本地候选类型,ประเภทตัวเลือกท้องถิ่น,th-TH
+本機候選類型,ประเภทตัวเลือกท้องถิ่น,th-TH
+样本数,จำนวนกลุ่มตัวอย่าง,th-TH
+樣本數量,จำนวนกลุ่มตัวอย่าง,th-TH
+"此事件与世界加载事件用于计算世界会话的持续时间。
+持续时间（以秒和刻为单位）在世界会话结束时（退回到标题屏幕，或从服务器断开连接）测量。","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+此事件会测量游戏启动各个阶段的时长以帮助我们找到游戏启动的性能优化点。,เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+此事件告知我们运行游戏所使用的图形设备的功能信息。,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+此事件有助于我们了解玩家之间点对点连接的可靠性和性能情况。事件将记录连接是否成功、所使用的交互式连接建立（ICE，即我们用于建立点对点连接的协议）候选类型，以及建立连接所花费的时间。,"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+"此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+渲染用时样本,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+渲染距离,ระยะการมองเห็น,th-TH
+游戏加载时间,เวลาโหลดเกม,th-TH
+游戏时间（刻）,เวลาเกม (ติ๊ก),th-TH
+游戏模式,โหมดเกม,th-TH
+游戏版本,เวอร์ชันเกม,th-TH
+点对点连接,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+用戶端 ID,ID ไคลเอนต์,th-TH
+用戶端是否為原版,ไคลเอนต์มีการดัดแปร,th-TH
+用户ID,ID ผู้ใช้,th-TH
+畫面更新率樣本（FPS）,กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+窗口开启前时间（毫秒）,เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+総接続時間（ミリ秒）,เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+総読み込み時間（ミリ秒）,เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+總載入時間（毫秒）,เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+總連線時間（毫秒）,เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+繪製時間樣本,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+自分のデータを確認する,ดูข้อมูลของฉัน,th-TH
+自加载后的时间（刻）,เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+自加载后的时间（秒）,เวลาตั้งแต่โหลด (วินาที),th-TH
+自載入後的時間（刻）,เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+自載入後的時間（秒）,เวลาตั้งแต่โหลด (วินาที),th-TH
+視窗開啟前時間（毫秒）,เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+読み込みからの時間（ティック）,เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+読み込みからの時間（秒）,เวลาตั้งแต่โหลด (วินาที),th-TH
+読み込み画面の所要時間（ミリ秒）,เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+起動所要時間（ミリ秒）,เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+載入畫面顯示時間（毫秒）,เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+达成进度,การทำความก้าวหน้า,th-TH
+进度ID,ID ความก้าวหน้า,th-TH
+远程候选类型,ประเภทตัวเลือกระยะไกล,th-TH
+连接成功,การเชื่อมต่อสำเร็จ,th-TH
+這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+連線成功,การเชื่อมต่อสำเร็จ,th-TH
+進度 ID,ID ความก้าวหน้า,th-TH
+進捗ID,ID ความก้าวหน้า,th-TH
+進捗の達成に関するデータ,การทำความก้าวหน้า,th-TH
+進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+遊戲時間（刻）,เวลาเกม (ติ๊ก),th-TH
+遊戲模式,โหมดเกม,th-TH
+遊戲版本,เวอร์ชันเกม,th-TH
+遊戲載入時間,เวลาโหลดเกม,th-TH
+達成進度,การทำความก้าวหน้า,th-TH
+遙測資料收集,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+遠端候選類型,ประเภทตัวเลือกระยะไกล,th-TH
+遥测数据收集,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+開啟我的統計資料,ดูข้อมูลของฉัน,th-TH
+隐私声明,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+隱私權聲明,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+顯示距離,ระยะการมองเห็น,th-TH
+개인 정보 처리 방침,คำชี้แจงสิทธิ์ส่วนบุคคล,th-TH
+게임 모드,โหมดเกม,th-TH
+게임 버전,เวอร์ชันเกม,th-TH
+게임 시간 (틱),เวลาเกม (ติ๊ก),th-TH
+게임을 불러오는 데 걸린 시간,เวลาโหลดเกม,th-TH
+그래픽 기능,ความสามารถของกราฟิก,th-TH
+내 데이터 보기,ดูข้อมูลของฉัน,th-TH
+대화형 연결 구축 (ICE) 경로,เส้นทาง Interactive Connectivity Establishment (ICE),th-TH
+대화형 연결 구축 (ICE) 연결 시간 (밀리초),เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),th-TH
+랜덤 액세스 메모리 사용량,RAM ที่ใช้,th-TH
+런처 이름,ชื่อลันเชอร์,th-TH
+렌더 거리,ระยะการมองเห็น,th-TH
+렌더 시간 표본,กลุ่มตัวอย่างเวลาเร็นเดอร์,th-TH
+로딩 화면에 있던 시간 (밀리초),เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),th-TH
+로컬 후보 유형,ประเภทตัวเลือกท้องถิ่น,th-TH
+발전 과제 ID,ID ความก้าวหน้า,th-TH
+발전 과제 달성,การทำความก้าวหน้า,th-TH
+발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,th-TH
+백엔드 생성 실패 기능 누락,ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+백엔드 생성 실패 메시지,ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+백엔드 생성 실패 사유,เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,th-TH
+백엔드 이름,ชื่อแบ็กเอนด์,th-TH
+부트스트랩 시간 (밀리초),เวลาเริ่มต้นระบบ (มิลลิวินาที),th-TH
+사용자 ID,ID ผู้ใช้,th-TH
+새로운 세계 여부,โลกใหม่,th-TH
+서버 모드 여부,เซิร์ฟเวอร์มีการดัดแปร,th-TH
+서버 세션 ID,ID เซสชันเซิร์ฟเวอร์,th-TH
+서버 유형,ประเภทเซิร์ฟเวอร์,th-TH
+선택 수집 여부,ความยินยอมเข้าร่วม,th-TH
+선택적 원격 측정 데이터 전송에 동의합니다,ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,th-TH
+성능 측정 결과,เมตริกประสิทธิภาพ,th-TH
+세계 세션 ID,ID เซสชันโลก,th-TH
+세계를 떠날 때,โลกไม่โหลด,th-TH
+세계를 불러오는 데 걸린 시간,เวลาโหลดโลก,th-TH
+세계를 불러오는 데 걸린 시간 (밀리초),เวลาโหลดโลก (มิลลิวินาที),th-TH
+세계를 불러올 때,โลกโหลด,th-TH
+"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,th-TH
+시그널링 연결 시간 (밀리초),เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),th-TH
+실패 단계,ระยะการล้มเหลว,th-TH
+실행된 시간 (초),เวลาตั้งแต่โหลด (วินาที),th-TH
+실행된 시간 (틱),เวลาตั้งแต่โหลด (ติ๊ก),th-TH
+연결 성공,การเชื่อมต่อสำเร็จ,th-TH
+운영 체제,ระบบปฏิบัติการ,th-TH
+원격 측정 데이터 수집,การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,th-TH
+원격 후보 유형,ประเภทตัวเลือกระยะไกล,th-TH
+이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,"การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี",th-TH
+이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,th-TH
+이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,th-TH
+"이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.","เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)",th-TH
+"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.","เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",th-TH
+이벤트 시간 기록 (UTC),ประทับเวลาเหตุการณ์ (UTC),th-TH
+창이 켜지기까지 걸린 시간 (밀리초),เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),th-TH
+총 접속 시간 (밀리초),เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),th-TH
+총합 로드 시간 (밀리초),เวลาโหลดทั้งหมด (มิลลิวินาที),th-TH
+클라이언트 ID,ID ไคลเอนต์,th-TH
+클라이언트 모드 여부,ไคลเอนต์มีการดัดแปร,th-TH
+포함 데이터,ข้อมูลที่รวมอยู่ด้วย,th-TH
+표본 수,จำนวนกลุ่มตัวอย่าง,th-TH
+프레임률 표본 (fps),กลุ่มตัวอย่างอัตราเฟรม (FPS),th-TH
+플랫폼,แพลตฟอร์ม,th-TH
+"플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.","การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร",th-TH
+피드백 보내기,ให้ข้อเสนอแนะ,th-TH
+피어 투 피어 연결,การเชื่อมต่อแบบเพียร์ทูเพียร์,th-TH
+할당된 메모리 (kB),หน่วยความจำเฉพาะ (kB),th-TH

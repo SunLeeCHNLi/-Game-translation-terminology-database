@@ -1,0 +1,2550 @@
+﻿source,target,tgt_lng
+"
+Banimento válido até: %s","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+Deine Sperre wird am %s aufgehoben","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+El bloqueo acabará en %s","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+Fecha de desbloqueo: %s","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+Lệnh cấm sẽ hết hiệu lực vào %s","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+Rimozione del ban: %s","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+Votre bannissement prendra fin le %s","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+Your ban will be removed on %s","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+Ваша блокировка будет снята %s","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+คุณจะได้รับการปลดแบนเมื่อ %s","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+アクセスの禁止は%sに解除されます","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+你的封禁将于%s解除","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+您的封鎖將於 %s 解除","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"
+차단은 %s에 해제됩니다","
+Yasağınız %s tarihinde kalkacak",tr-TR
+"""%s"" sera perdu pour toujours ! (Très longtemps !)",'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+"""%s"" será perdido para sempre! (é muito tempo!)",'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+%2$s人のうち%1$s人のプレイヤーがオンラインです,%s/%s oyuncu çevrim içi,tr-TR
+%2$s명 중 %1$s명 접속 중,%s/%s oyuncu çevrim içi,tr-TR
+"%s
+
+Mensagem do servidor:
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+Mensaje del servidor:
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+Message du serveur :
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+Message from server:
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+Messaggio dal server:
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+Nachricht vom Server:
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+Tin nhắn từ máy chủ:
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+Сообщение сервера:
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+ข้อความจากเซิร์ฟเวอร์:
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+サーバーからのメッセージ：
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+来自服务器的消息：
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+訊息來自於以下伺服器：
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+"%s
+
+서버에서 보낸 메시지:
+%s","%s
+
+Sunucu iletisi:
+%s",tr-TR
+%s (anciennement connu(e) sous le nom de %s) a rejoint la partie,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s (antes conocido como %s) se ha unido a la partida,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s (formerly known as %s) joined the game,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s (früher bekannt als %s) hat das Spiel betreten,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s (in precedenza %s) è ora nella partita,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s (previamente como %s) entrou no jogo,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s (trước đây gọi là %s) đã tham gia trò chơi,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s (ранее известный как %s) присоединился к игре,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s (แต่เดิมชื่อ %s) เข้าร่วมเกม,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s a quitté la partie,%s oyundan ayrıldı,tr-TR
+%s a rejoint la partie,%s oyuna katıldı,tr-TR
+%s de %s jogadores online,%s/%s oyuncu çevrim içi,tr-TR
+%s de %s jugadores en línea,%s/%s oyuncu çevrim içi,tr-TR
+%s entrou no jogo,%s oyuna katıldı,tr-TR
+%s ha abandonado la partida,%s oyundan ayrıldı,tr-TR
+%s ha abbandonato la partita,%s oyundan ayrıldı,tr-TR
+%s hat das Spiel betreten,%s oyuna katıldı,tr-TR
+%s hat das Spiel verlassen,%s oyundan ayrıldı,tr-TR
+%s joined the game,%s oyuna katıldı,tr-TR
+%s joueurs sur %s en ligne,%s/%s oyuncu çevrim içi,tr-TR
+%s left the game,%s oyundan ayrıldı,tr-TR
+%s LP,%shp,tr-TR
+%s ms (miligiây),%s ms,tr-TR
+%s out of %s players online,%s/%s oyuncu çevrim içi,tr-TR
+%s PS,%shp,tr-TR
+%s PV,%shp,tr-TR
+%s saiu do jogo,%s oyundan ayrıldı,tr-TR
+%s se ha unido a la partida,%s oyuna katıldı,tr-TR
+%s trên %s người chơi đang trực tuyến,%s/%s oyuncu çevrim içi,tr-TR
+%s von %s Spielern online,%s/%s oyuncu çevrim içi,tr-TR
+%s è ora nella partita,%s oyuna katıldı,tr-TR
+%s đã rời trò chơi,%s oyundan ayrıldı,tr-TR
+%s đã tham gia trò chơi,%s oyuna katıldı,tr-TR
+%s из %s игроков в сети,%s/%s oyuncu çevrim içi,tr-TR
+%s мс,%s ms,tr-TR
+%s покинул игру,%s oyundan ayrıldı,tr-TR
+%s присоединился к игре,%s oyuna katıldı,tr-TR
+%s ออกจากเกม,%s oyundan ayrıldı,tr-TR
+%s เข้าร่วมเกม,%s oyuna katıldı,tr-TR
+%s 加入了遊戲,%s oyuna katıldı,tr-TR
+%s 毫秒,%s ms,tr-TR
+%s 生命值,%shp,tr-TR
+%s 離開了遊戲,%s oyundan ayrıldı,tr-TR
+%s （之前是 %s）加入了遊戲,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s(본래 %s)이(가) 게임에 참여했습니다,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%sms,%s ms,tr-TR
+%sоз,%shp,tr-TR
+%sがゲームに参加しました,%s oyuna katıldı,tr-TR
+%sがゲームを退出しました,%s oyundan ayrıldı,tr-TR
+%s加入了游戏,%s oyuna katıldı,tr-TR
+%s名玩家在线，共%s名玩家,%s/%s oyuncu çevrim içi,tr-TR
+%s毫秒,%s ms,tr-TR
+%s生命值,%shp,tr-TR
+%s退出了游戏,%s oyundan ayrıldı,tr-TR
+%s이(가) 게임에 참여했습니다,%s oyuna katıldı,tr-TR
+%s이(가) 게임을 떠났습니다,%s oyundan ayrıldı,tr-TR
+%s（之前被称为%s）加入了游戏,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s（旧名%s）がゲームに参加しました,%s (eski adıyla %s) oyuna katıldı,tr-TR
+%s／%s,%s/%s,tr-TR
+'%s' sẽ bị mất vĩnh viễn! (một thời gian dài!),'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+'%s' will be lost forever! (A long time!),'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+'%s' จะหายไปตลอดกาล! (นานมาก!),'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+'%s'이(가) 영원히 사라지게 됩니다!,'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+(aucune connexion),(bağlantı yok),tr-TR
+(connessione assente),(bağlantı yok),tr-TR
+(Hidden),(Gizli),tr-TR
+(IP oculta),(Gizli),tr-TR
+(keine Verbindung),(bağlantı yok),tr-TR
+(không có kết nối),(bağlantı yok),tr-TR
+(Masquée),(Gizli),tr-TR
+(Nascosto),(Gizli),tr-TR
+(no connection),(bağlantı yok),tr-TR
+(oculto),(Gizli),tr-TR
+(sem conexão),(bağlantı yok),tr-TR
+(sin conexión),(bağlantı yok),tr-TR
+(versteckt),(Gizli),tr-TR
+(Đã ẩn đi),(Gizli),tr-TR
+(нет соединения),(bağlantı yok),tr-TR
+(Скрыт),(Gizli),tr-TR
+(ซ่อนอยู่),(Gizli),tr-TR
+(ไม่มีการเชื่อมต่อ),(bağlantı yok),tr-TR
+(숨겨짐),(Gizli),tr-TR
+(연결 없음),(bağlantı yok),tr-TR
+... and %s more ...,... ve %s daha ...,tr-TR
+... e altri %s ...,... ve %s daha ...,tr-TR
+... e mais %s...,... ve %s daha ...,tr-TR
+... et %s de plus...,... ve %s daha ...,tr-TR
+... và %s người nữa ...,... ve %s daha ...,tr-TR
+... y %s más ...,... ve %s daha ...,tr-TR
+... и ещё %s ...,... ve %s daha ...,tr-TR
+... และเพิ่มเติมอีก %s คน ...,... ve %s daha ...,tr-TR
+... 以及另外 %s 人 ...,... ve %s daha ...,tr-TR
+... 외 %s명,... ve %s daha ...,tr-TR
+?,???,tr-TR
+A conexão com o servidor será interrompida ao recusar esse pacote de recursos personalizado.,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+A conexão falhou ao transferir para o servidor,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+Abfrage,Sor,tr-TR
+Abfragen …,Bağlantı sınanıyor...,tr-TR
+Abgebrochen,İptal Edildi,tr-TR
+Abgebrochen,İptal edildi,tr-TR
+Aborted,İptal Edildi,tr-TR
+Accesso diretto,Doğrudan Bağlantı,tr-TR
+Accesso in corso...,Giriş yapılıyor...,tr-TR
+Accesso non riuscito: %s,Giriş yapılamadı: %s,tr-TR
+Activado,Açık,tr-TR
+Activés,Açık,tr-TR
+Actualiser,Yenile,tr-TR
+Actualizar,Yenile,tr-TR
+Add Server,Sunucu Ekle,tr-TR
+Adicionar servidor,Sunucu Ekle,tr-TR
+Adresse du serveur,Sunucu Adresi,tr-TR
+Aggiorna,Yenile,tr-TR
+Aggiungi server,Sunucu Ekle,tr-TR
+Aggiungi un server,Sunucu Ekle,tr-TR
+Ajout d'un serveur,Sunucu Ekle,tr-TR
+Ajustes para otros jugadores,Diğer Oyuncular için Ayarlar,tr-TR
+Ajustes para outros jogadores,Diğer Oyuncular için Ayarlar,tr-TR
+Aktiviert,Açık,tr-TR
+Aktualisieren,Yenile,tr-TR
+Alzati dal letto,Yataktan Ayrıl,tr-TR
+An einen anderen Server übertragen,Başka bir sunucuya aktarıldı,tr-TR
+Anfitrión desconocido,Bilinmeyen sunucu,tr-TR
+Ankündigungen,Duyurular,tr-TR
+Anmelden …,Giriş yapılıyor...,tr-TR
+Anmeldung fehlgeschlagen: %s,Giriş yapılamadı: %s,tr-TR
+Annonces,Duyurular,tr-TR
+Announcements,Duyurular,tr-TR
+Annulé,İptal edildi,tr-TR
+Annunci,Duyurular,tr-TR
+Anonymer Spieler,Anonim Oyuncu,tr-TR
+Anonymous Player,Anonim Oyuncu,tr-TR
+Anuncios,Duyurular,tr-TR
+Any functionality that requires custom resources might not work as expected,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+Anúncios,Duyurular,tr-TR
+Apagar,Sil,tr-TR
+Aplicando pacote de recursos,Kaynak paketi uygulanıyor,tr-TR
+Aplicando paquete de recursos,Kaynak paketi uygulanıyor,tr-TR
+Application du pack de ressources...,Kaynak paketi uygulanıyor,tr-TR
+Applicazione del pacchetto di risorse...,Kaynak paketi uygulanıyor,tr-TR
+Applying resource pack,Kaynak paketi uygulanıyor,tr-TR
+Apri il mondo in rete locale,Yerel Ağ Dünyası Başlat,tr-TR
+Are you sure you want to remove this server?,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+As interações sociais só estão disponíveis em mundos multijogador,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+As mensagens enviadas nesse servidor podem ser modificadas e diferir do conteúdo original da mensagem,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+"Assinatura inválida para a chave pública do perfil.
+Tente reiniciar seu jogo.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+Assistance,Destek,tr-TR
+Assistenza,Destek,tr-TR
+"Atención: El juego en línea está provisto de servidores de terceros los cuales no son propiedad de Mojang Studios ni Microsoft, ni están administrados ni supervisados por ellos. Mientras juegas en línea puedes estar expuesto a mensajes de texto sin moderar u otro tipo de contenido generado por la comunidad que puede no ser apropiado para todos los usuarios.",Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+Atención: Juego en línea de terceros,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+Atenção: modo online de terceiros,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+"Atenção: o modo online é oferecido por servidores de terceiros não pertencentes e não operados ou supervisionados pela Mojang Studios ou pela Microsoft. No modo online, você poderá encontrar mensagens de chat não moderadas ou outros tipos de conteúdo criado por usuários que podem não ser adequados para todos.",Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+Attempting to attack an invalid entity,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+Attention : jeu en ligne tiers,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+"Attention : le jeu en ligne est proposé par des serveurs tiers qui ne sont pas détenus, exploités ou supervisés par Mojang Studios ou Microsoft. Durant le jeu en ligne, vous pouvez être exposé(e) à des messages non modérés dans le tchat ou à d'autres types de contenu généré par les utilisateurs qui peuvent ne pas convenir à tout le monde.",Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+Attenzione! Gioco in rete di terze parti,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+"Attenzione! Il gioco in rete è offerto da server di terze parti che non sono di proprietà, gestiti o controllati da Mojang Studios o da Microsoft. Durante il gioco in rete, potresti trovare messaggi in chat non moderati o altri tipi di contenuti generati da utenti che potrebbero non essere adatti a tutti.",Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+Atualizar,Yenile,tr-TR
+Atualização de status não solicitada recebida,İstenmeyen durum alındı,tr-TR
+Aufstehen,Yataktan Ayrıl,tr-TR
+Aushandeln …,Anlaşma yapılıyor...,tr-TR
+Authentication servers are down. Please try again later. Sorry!,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+Avvia la partita in rete locale,Yerel Ağ Dünyası,tr-TR
+Añadir servidor,Sunucu Ekle,tr-TR
+Ban da un operatore,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+Banimento por um operador.,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+Banned by an operator.,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+Banni(e) par un opérateur,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+Bearbeiten,Düzenle,tr-TR
+Befehl ausführen,Komutu Çalıştır,tr-TR
+Befehlsausführung bestätigen,Komut Çalıştırılması Doğrulama,tr-TR
+Benutzername konnte nicht überprüft werden!,Kullanıcı adı doğrulanamadı!,tr-TR
+"Bist du sicher, dass du diesen Server entfernen möchtest?",Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+Bloqueado/a por un administrador.,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+Buscando mundos en LAN,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+Báo lỗi máy chủ,Sunucu Hatası Bildir,tr-TR
+Bạn có muốn tải về và tự động cài đặt nó một cách kì diệu không?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+Bạn không nằm trong danh sách trắng của máy chủ này!,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+Bạn vẫn chắc chắn muốn loại bỏ máy chủ này chứ?,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+"Bạn đang cố thực thi một lệnh không nhận dạng được hoặc không hợp lệ.
+Bạn vẫn chắc chắn chứ?
+Lệnh: %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+"Bạn đang cố thực thi một lệnh mà sẽ gửi tin nhắn trò chuyện bằng tên của bạn.
+Lệnh này chỉ có thể chạy từ màn hình trò chuyện.
+Lệnh: %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"Bạn đang cố thực thi một lệnh yêu cầu quyền nâng cao.
+Điều này có thể ảnh hưởng tiêu cực trò chơi của bạn.
+Bạn vẫn chắc chắn chứ?
+Lệnh: %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+Bạn đã bị cấm chơi trực tuyến,Çevrim içi oynamanız yasaklandı,tr-TR
+Bạn đã bị cấm IP khỏi máy chủ này,IP adresiniz bu sunucudan yasaklandı,tr-TR
+Bạn đã bị cấm khỏi máy chủ này,Bu sunucudan yasaklandınız,tr-TR
+"Bạn đã bị cấm khỏi máy chủ này.
+Lí do: %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+Bạn đã đăng nhập từ một vị trí khác,Başka bir konumdan oturum açtınız,tr-TR
+Bạn đã đứng yên quá lâu!,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+Bắt đầu thế giới mạng LAN,Yerel Ağ Dünyası Başlat,tr-TR
+Bị dư dữ liệu tuỳ chỉnh từ máy khách,İstemciden beklenmeyen özel veri alındı,tr-TR
+Bị mất kết nối,Bağlantı kesildi,tr-TR
+Calculando latência...,Bağlantı sınanıyor...,tr-TR
+Can't connect to server,Sunucuya bağlanılamıyor,tr-TR
+Can't deliver chat message; check server logs: %s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+Can't resolve hostname,Sunucu adı çözümlenemiyor,tr-TR
+Cancelada,İptal edildi,tr-TR
+Cancelado,İptal edildi,tr-TR
+Cancelled,İptal edildi,tr-TR
+Caracteres no permitidos en el chat,Sohbette yasaklı karakterler kullanıldı,tr-TR
+Caracteres não permitidos no chat,Sohbette yasaklı karakterler kullanıldı,tr-TR
+Caractères interdits dans le tchat,Sohbette yasaklı karakterler kullanıldı,tr-TR
+Caratteri non consentiti in chat,Sohbette yasaklı karakterler kullanıldı,tr-TR
+Cargando el terreno...,Arazi yükleniyor...,tr-TR
+Caricamento del terreno...,Arazi yükleniyor...,tr-TR
+Carregando terreno...,Arazi yükleniyor...,tr-TR
+"Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone.",Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+Caution: Third-Party Online Play,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+Ce nom est déjà pris,Bu ad zaten alınmış,tr-TR
+Ce serveur n'accepte pas les transferts,Bu sunucu aktarımları kabul etmiyor,tr-TR
+Ce serveur recommande l'utilisation d'un pack de ressources personnalisé.,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+Ce serveur requiert l'utilisation d'un pack de ressources personnalisé.,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+Ce serveur requiert un pack de ressources personnalisé,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+Chargement du terrain...,Arazi yükleniyor...,tr-TR
+Chat message validation failure,Sohbet iletisi doğrulama başarısız,tr-TR
+Chat messages can't be verified,Sohbet iletileri doğrulanamıyor,tr-TR
+Chatnachricht konnte nicht zugestellt werden; Bitte Protokolldateien des Servers prüfen: %s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+Chatnachrichten sind nicht überprüfbar,Sohbet iletileri doğrulanamıyor,tr-TR
+Chave pública do perfil expirada. Verifique se a hora do seu sistema está sincronizada e reinicie o jogo.,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+Chiedi,Sor,tr-TR
+Chiffrement en cours...,Şifreleniyor...,tr-TR
+Chiusura in corso...,Çıkılıyor,tr-TR
+Chú ý: Chơi trực tuyến bên thứ ba,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+"Chú ý: Việc chơi trực tuyến được cung cấp bởi máy chủ bên thứ ba không được sở hữu, điều hành hoặc giám sát bởi Mojang Studios hoặc Microsoft. Trong suốt quá trình chơi trực tuyến, bạn có thể tiếp xúc với tin nhắn trò chuyện không được kiểm duyệt hoặc loại nội dung khác được người dùng tạo ra có thể không phù hợp với tất cả mọi người.",Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+Chơi mạng,Çok Oyunculu Oyna,tr-TR
+Chơi mạng đã bị tắt. Hãy kiểm tra cài đặt tài khoản Microsoft của bạn.,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+Chạy lệnh,Komutu Çalıştır,tr-TR
+Chỉnh sửa,Düzenle,tr-TR
+Chỉnh sửa thông tin máy chủ,Sunucu Bilgilerini Düzenle,tr-TR
+Chỉnh sửa thông tin máy chủ,Sunucu Bilgisini Düzenle,tr-TR
+"Chữ kí không hợp lệ cho mã khoá công khai của tài khoản.
+Hãy thử khởi động lại trò chơi của bạn.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+"Chữ kí không hợp lệ cho mã khoá công khai của tài khoản. 
+Hãy thử khởi động lại trò chơi của bạn.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+Client incompatibile! Usa la versione %s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+Client incompatible ! Veuillez utiliser la %s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+Cliente incompatível! Use a versão %s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+Clé publique du profil expirée. Vérifiez que l'heure de votre système est synchronisée puis essayez de redémarrer le jeu.,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+Code de conduite du serveur,Sunucu Davranış Kuralları,tr-TR
+Codice di condotta del server,Sunucu Davranış Kuralları,tr-TR
+Collettività,Topluluk,tr-TR
+Commentaires,Geri Bildirim,tr-TR
+Communauté,Topluluk,tr-TR
+Community,Topluluk,tr-TR
+Community Guidelines,Topluluk Kuralları,tr-TR
+Comprobando conexión...,Bağlantı sınanıyor...,tr-TR
+Comunidad,Topluluk,tr-TR
+Comunidade,Topluluk,tr-TR
+Concluído,Bitti,tr-TR
+Conectando con el servidor...,Sunucuya bağlanılıyor...,tr-TR
+Conectando-se ao servidor...,Sunucuya bağlanılıyor...,tr-TR
+Conectando...,Anlaşma yapılıyor...,tr-TR
+Conexión cancelada,İptal Edildi,tr-TR
+Conexión directa,Doğrudan Bağlantı,tr-TR
+Conexión perdida,Bağlantı koptu,tr-TR
+Conexão direta,Doğrudan Bağlantı,tr-TR
+Conexão perdida,Bağlantı koptu,tr-TR
+Conferma l'esecuzione del comando,Komut Çalıştırılması Doğrulama,tr-TR
+Confirm Command Execution,Komut Çalıştırılması Doğrulama,tr-TR
+Confirmar ejecución del comando,Komut Çalıştırılması Doğrulama,tr-TR
+Confirmar execução do comando,Komut Çalıştırılması Doğrulama,tr-TR
+Confirmation de l'exécution d'une commande,Komut Çalıştırılması Doğrulama,tr-TR
+"Conjunto de marcações incompletas recebidas do servidor.
+Fale com um operador do servidor.","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+Connecting to the server...,Sunucuya bağlanılıyor...,tr-TR
+Connection failed while transferring to the server,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+Connection Lost,Bağlantı koptu,tr-TR
+Connection request timed out,Bağlantı isteğinin süresi doldu,tr-TR
+Connessione al server non riuscita,Sunucuya bağlanılamadı,tr-TR
+Connessione al server...,Sunucuya bağlanılıyor...,tr-TR
+Connessione annullata,İptal edildi,tr-TR
+Connessione interrotta,Bağlantı kesildi,tr-TR
+Connessione non riuscita durante il trasferimento al server,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+Connessione persa,Bağlantı koptu,tr-TR
+Connessione scaduta,Zaman aşımına uğradı,tr-TR
+Connexion au serveur...,Sunucuya bağlanılıyor...,tr-TR
+Connexion en cours...,Giriş yapılıyor...,tr-TR
+Connexion interrompue,İptal Edildi,tr-TR
+Connexion perdue,Bağlantı koptu,tr-TR
+Connexion rapide,Doğrudan Bağlantı,tr-TR
+Copia nella chat,Sohbeti Ekrana Kopyala,tr-TR
+Copiar a la pantalla de chat,Sohbeti Ekrana Kopyala,tr-TR
+Copiar para o chat,Sohbeti Ekrana Kopyala,tr-TR
+Copier dans le tchat,Sohbeti Ekrana Kopyala,tr-TR
+Copy to Chat Screen,Sohbeti Ekrana Kopyala,tr-TR
+Couldn't connect to player,Oyuncuya bağlanılamadı,tr-TR
+Criptografando...,Şifreleniyor...,tr-TR
+Crittografia in corso...,Şifreleniyor...,tr-TR
+Cualquier funcionalidad que requiera recursos personalizados puede no funcionar como se espera,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+Cài đặt cho người chơi khác,Diğer Oyuncular için Ayarlar,tr-TR
+Các máy chủ xác thực hiện không thể truy cập được. Vui lòng thử lại.,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+Các tin nhắn được gửi trên máy chủ này có thể bị sửa đổi và không phản ánh đúng nội dung gốc,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+Có kí tự không hợp lệ trong trò chuyện,Sohbette yasaklı karakterler kullanıldı,tr-TR
+Código de conducta del servidor,Sunucu Davranış Kuralları,tr-TR
+Código de Conduta do servidor,Sunucu Davranış Kuralları,tr-TR
+Cũ,Eski,tr-TR
+Cố gắng tấn công một thực thể không hợp lệ,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+"Cổng không có sẵn.
+Để trống hộp chỉnh sửa hoặc nhập vào một số khác trong phạm vi từ %s đến %s.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Cổng không có sẵn.
+Để trống hộp chỉnh sửa hoặc nhập vào một số khác trong phạm vi từ 1024 đến 65535.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Cổng không hợp lệ.
+Để trống hộp chỉnh sửa hoặc nhập vào một số trong phạm vi từ %s đến %s.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Cổng không hợp lệ.
+Để trống hộp chỉnh sửa hoặc điền một số trong phạm vi từ 1024 đến 65535.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+Cộng đồng,Topluluk,tr-TR
+Dados inválidos do jogador,Geçersiz oyuncu verisi,tr-TR
+Dados personalizados inesperados do cliente,İstemciden beklenmeyen özel veri alındı,tr-TR
+Das Ressourcenpaket des Servers konnte nicht angewandt werden,Sunucu kaynak paketi uygulanamadı,tr-TR
+Dati del giocatore non validi,Geçersiz oyuncu verisi,tr-TR
+Datos del jugador no válidos,Geçersiz oyuncu verisi,tr-TR
+Deaktiviert,Kapalı,tr-TR
+Deine IP‐Adresse wurde auf diesem Server gesperrt,IP adresiniz bu sunucudan yasaklandı,tr-TR
+"Deine IP‐Adresse wurde auf diesem Server gesperrt. 
+Grund: %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+Delete,Sil,tr-TR
+Demande de connexion expirée,Bağlantı isteğinin süresi doldu,tr-TR
+Demande de statut ignorée,Durum isteği yok sayılıyor,tr-TR
+Demander,Sor,tr-TR
+Demasiados mensajes de chat sin confirmar,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+Demorou muito para iniciar sessão,Oturum açmak çok uzun sürdü,tr-TR
+Der Anmeldevorgang hat zu lange gedauert,Oturum açmak çok uzun sürdü,tr-TR
+Der Mehrspielermodus ist deaktiviert. Bitte überprüfe die Einstellungen deines Microsoft‐Kontos.,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+Der Server hat ein ungültiges Paket gesendet,Sunucu geçersiz bir paket gönderdi,tr-TR
+Der Server ist voll!,Sunucu dolu!,tr-TR
+"Der Server verlangt, dem Verhaltenskodex zuzustimmen.","Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+"Der öffentliche Profilschlüssel ist abgelaufen. Überprüfe, ob deine Systemzeit synchronisiert ist, und versuche, dein Spiel neu zu starten.",Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+Desactivado,Kapalı,tr-TR
+Desactualizado,Eski,tr-TR
+Desatualizado,Eski,tr-TR
+Desconectado,Bağlantı kesildi,tr-TR
+Desconectando,Çıkılıyor,tr-TR
+Deseja baixar e instalá-lo automagicamente?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+Deseja mesmo remover esse servidor?,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+Detected a missed or reordered chat message from the server,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+Die auf diesem Server gesendeten Nachrichten können verändert werden und entsprechen möglicherweise nicht der ursprünglichen Nachricht.,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+Die Authentifizierungsserver sind derzeit nicht erreichbar. Bitte versuche es erneut.,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+Die Authentifizierungsserver sind derzeit nicht erreichbar. Bitte versuche es später erneut!,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+Die Serveradresse kann nicht aufgelöst werden,Sunucu adı çözümlenemiyor,tr-TR
+Die Verbindung zum Server kann nicht hergestellt werden,Sunucuya bağlanılamıyor,tr-TR
+Diesen Hinweis nicht mehr anzeigen,Bu ekranı bir daha gösterme,tr-TR
+Dieser Name wird bereits verwendet,Bu ad zaten alınmış,tr-TR
+Dieser Server empfiehlt die Verwendung eines benutzerdefinierten Ressourcenpakets.,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+Dieser Server erfordert die Verwendung eines benutzerdefinierten Ressourcenpakets.,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+Dieser Server erfordert ein benutzerdefiniertes Ressourcenpaket,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+Dieser Server nimmt keine Übertragungen entgegen.,Bu sunucu aktarımları kabul etmiyor,tr-TR
+Dirección del servidor,Sunucu Adresi,tr-TR
+Direct Connection,Doğrudan Bağlantı,tr-TR
+Directives communautaires,Topluluk Kuralları,tr-TR
+Direktverbindung,Doğrudan Bağlantı,tr-TR
+Diretrizes da Comunidade,Topluluk Kuralları,tr-TR
+Disabled,Kapalı,tr-TR
+Disconnected,Bağlantı kesildi,tr-TR
+Diễn đàn,Forumlar,tr-TR
+Do not notify again for this Code of Conduct,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+Do not show this screen again,Bu ekranı bir daha gösterme,tr-TR
+Done,Bitti,tr-TR
+Données de joueur non valides,Geçersiz oyuncu verisi,tr-TR
+Données personnalisées inattendues de la part du client,İstemciden beklenmeyen özel veri alındı,tr-TR
+Du bist vom Online‐Spielen ausgeschlossen,Çevrim içi oynamanız yasaklandı,tr-TR
+Du hast dich von einem anderen Standort aus angemeldet,Başka bir konumdan oturum açtınız,tr-TR
+Du stehst nicht auf der Gästeliste dieses Servers!,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+"Du versuchst, einen Befehl auszuführen, der Chatnachrichten in deinem Namen versendet.
+Dieser Befehl kann nur über das Chatfenster ausgeführt werden.
+Befehl: %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"Du versuchst, einen Befehl auszuführen, der ein erhöhtes Berechtigungslevel erfordert.
+Dies könnte sich negativ auf dein Spiel auswirken.
+Bist du sicher?
+Befehl: %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+"Du versuchst, einen unbekannten oder ungültigen Befehl auszuführen.
+Bist du sicher?
+Befehl: %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+Du warst zu lange untätig!,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+Du wurdest auf diesem Server gesperrt,Bu sunucudan yasaklandınız,tr-TR
+"Du wurdest auf diesem Server gesperrt. 
+Grund: %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+Déconnecté(e),Bağlantı kesildi,tr-TR
+Délai de connexion expiré,Zaman aşımına uğradı,tr-TR
+Désactivés,Kapalı,tr-TR
+Dữ liệu người chơi không hợp lệ,Geçersiz oyuncu verisi,tr-TR
+Edit,Düzenle,tr-TR
+Edit Server Info,Sunucu Bilgilerini Düzenle,tr-TR
+Edit Server Info,Sunucu Bilgisini Düzenle,tr-TR
+Editar,Düzenle,tr-TR
+Editar información del servidor,Sunucu Bilgilerini Düzenle,tr-TR
+Editar informações do servidor,Sunucu Bilgilerini Düzenle,tr-TR
+Editar informações do servidor,Sunucu Bilgisini Düzenle,tr-TR
+Ein Chatpaket mit fehlender oder ungültiger Signatur empfangen.,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+Eine verpasste oder umgeordnete Chatnachricht vom Server erkannt,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+Einstellungen für andere Spieler,Diğer Oyuncular için Ayarlar,tr-TR
+Ejecutar comando,Komutu Çalıştır,tr-TR
+"El conjunto de etiquetas del servidor está incompleto.
+Ponte en contacto con el administrador del servidor.","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+El jugador no está disponible,Oyuncuya ulaşılamıyor,tr-TR
+"El modo multijugador está desactivado. Por favor, comprueba los ajustes de tu cuenta de Microsoft.",Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+El servidor envió un paquete no válido,Sunucu geçersiz bir paket gönderdi,tr-TR
+El servidor no acepta transferencias,Bu sunucu aktarımları kabul etmiyor,tr-TR
+El servidor requiere aceptar el código de conducta,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+Elimina,Sil,tr-TR
+Eliminar,Sil,tr-TR
+En ligne,Çevrim içi,tr-TR
+En línea,Çevrim içi,tr-TR
+Enabled,Açık,tr-TR
+Encriptando...,Şifreleniyor...,tr-TR
+Encrypting...,Şifreleniyor...,tr-TR
+End of stream,Bağlantı sonu,tr-TR
+Ende der Datenübertragung,Bağlantı sonu,tr-TR
+Endereço do servidor,Sunucu Adresi,tr-TR
+Entra nel server,Sunucuya Katıl,tr-TR
+Entrando al mundo...,Dünyaya katılınıyor...,tr-TR
+Entrando no mundo...,Dünyaya katılınıyor...,tr-TR
+Entrar al servidor,Sunucuya Katıl,tr-TR
+Entrar no servidor,Sunucuya Katıl,tr-TR
+Entrée dans le monde...,Dünyaya katılınıyor...,tr-TR
+Erreur de protocole réseau,Ağ Protokolü Hatası,tr-TR
+Erreur inattendue durant la configuration,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+Erro inesperado durante a configuração,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+Erro no protocolo de rede,Ağ Protokolü Hatası,tr-TR
+Error al conectar con el servidor,Sunucuya bağlanılamadı,tr-TR
+Error al conectar con el servidor,Sunucuya bağlanılamıyor,tr-TR
+"Error al enviar el mensaje del chat, revisa los registros del servidor: %s","Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+Error al iniciar sesión: %s,Giriş yapılamadı: %s,tr-TR
+Error al resolver el nombre del host,Sunucu adı çözümlenemiyor,tr-TR
+Error al validar el mensaje de chat,Sohbet iletisi doğrulama başarısız,tr-TR
+Error de conexión al transferir al servidor,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+Error de protocolo de red,Ağ Protokolü Hatası,tr-TR
+Errore del protocollo di rete,Ağ Protokolü Hatası,tr-TR
+Errore non previsto durante la configurazione,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+"Es kann gerade keine Verbindung aufgebaut werden.
+Versuche es später erneut.","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+"Es wurde versucht, ein ungültiges Objekt anzugreifen",Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+Esegui il comando,Komutu Çalıştır,tr-TR
+Espulsione da un operatore,Bir yönetici tarafından atıldın,tr-TR
+Espulsione per azioni ripetute,Spam nedeniyle atıldın,tr-TR
+Espulsione per superamento del limite di pacchetti,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+Esse nome já está em uso,Bu ad zaten alınmış,tr-TR
+Esse servidor não aceita transferências,Bu sunucu aktarımları kabul etmiyor,tr-TR
+Esse servidor recomenda o uso de um pacote de recursos personalizado.,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+Esse servidor requer o uso de um pacote de recursos personalizado.,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+Esse servidor requer um pacote de recursos personalizado,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+Estabelecendo conexão...,Anlaşma yapılıyor...,tr-TR
+Estabelecendo conexão...,Bağlantı kuruluyor...,tr-TR
+Estableciendo conexión...,Bağlantı kuruluyor...,tr-TR
+Establishing connection...,Bağlantı kuruluyor...,tr-TR
+Estado,Durum,tr-TR
+Este servidor recomienda el uso de un paquete de recursos personalizado.,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+Este servidor requiere el uso de un paquete de recursos personalizado.,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+Este servidor requiere un paquete de recursos personalizado,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+"Estás intentando ejecutar un comando desconocido o no válido.
+¿Seguro que quieres hacer eso?
+Comando: %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+"Estás intentando ejecutar un comando que enviará mensajes de chat utilizando tu nombre.
+Solo se puede ejecutar desde la pantalla de chat.
+Comando: %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"Estás intentando ejecutar un comando que requiere permisos elevados.
+Esto podría afectar negativamente a tu juego.
+¿Seguro que quieres hacer esto?
+Comando: %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+Executar comando,Komutu Çalıştır,tr-TR
+"Expired profile public key. Check that your system time is synchronized, and try restarting your game.",Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+Expulsado por exceso de paquetes,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+Expulsado por hacer spam,Spam nedeniyle atıldın,tr-TR
+Expulsado/a por un administrador,Bir yönetici tarafından atıldın,tr-TR
+Expulsão por atingir o limite de envio de pacotes,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+Expulsão por spam,Spam nedeniyle atıldın,tr-TR
+Expulsão por um operador,Bir yönetici tarafından atıldın,tr-TR
+Expulsé(e) par un opérateur,Bir yönetici tarafından atıldın,tr-TR
+Expulsé(e) pour avoir dépassé la limite de débit de paquets,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+Expulsé(e) pour spam,Spam nedeniyle atıldın,tr-TR
+Exécuter la commande,Komutu Çalıştır,tr-TR
+Failed to connect to the server,Sunucuya bağlanılamadı,tr-TR
+Failed to log in: %s,Giriş yapılamadı: %s,tr-TR
+Failed to verify username!,Kullanıcı adı doğrulanamadı!,tr-TR
+Falha ao conectar-se ao servidor,Sunucuya bağlanılamadı,tr-TR
+Falha ao iniciar sessão: %s,Giriş yapılamadı: %s,tr-TR
+Falha ao validar a mensagem,Sohbet iletisi doğrulama başarısız,tr-TR
+Falha ao verificar o nome de usuário!,Kullanıcı adı doğrulanamadı!,tr-TR
+Fatto,Bitti,tr-TR
+Feedback,Geri Bildirim,tr-TR
+Fehler am Server melden,Sunucu Hatası Bildir,tr-TR
+Fehler bei der Überprüfung der Chatnachricht,Sohbet iletisi doğrulama başarısız,tr-TR
+Fehler im Netzwerkprotokoll,Ağ Protokolü Hatası,tr-TR
+Fermeture en cours...,Çıkılıyor,tr-TR
+Fertig,Bitti,tr-TR
+Fim da transmissão,Bağlantı sonu,tr-TR
+Fin de la conexión,Bağlantı sonu,tr-TR
+Fin du flux,Bağlantı sonu,tr-TR
+Finalizado,Bitti,tr-TR
+Fine del flusso dati,Bağlantı sonu,tr-TR
+Finished,Bitti,tr-TR
+"Firma de la clave pública del perfil no válida.
+Prueba a reiniciar el juego.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+"Firma della chiave pubblica del tuo profilo non valida.
+Prova a riavviare il gioco.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+Fliegen ist auf diesem Server nicht erlaubt,Uçma bu sunucuda açık değil,tr-TR
+Flying is not enabled on this server,Uçma bu sunucuda açık değil,tr-TR
+Foi recebido um pacote de chat com uma assinatura inválida ou ausente.,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+Foren,Forumlar,tr-TR
+Foros,Forumlar,tr-TR
+Forum,Forumlar,tr-TR
+Forums,Forumlar,tr-TR
+Fóruns,Forumlar,tr-TR
+Für diesen Verhaltenskodex nicht erneut benachrichtigen,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+Gemeinschaft,Topluluk,tr-TR
+Gemeinschaftsrichtlinien,Topluluk Kuralları,tr-TR
+Gioca in multigiocatore,Çok Oyunculu Oyna,tr-TR
+Giocatore anonimo,Anonim Oyuncu,tr-TR
+Giocatore non raggiungibile,Oyuncuya ulaşılamıyor,tr-TR
+Giocatori in linea: %s,Çevrim içi oyuncular: %s,tr-TR
+Giocatori in linea: %s su %s,%s/%s oyuncu çevrim içi,tr-TR
+Gioco in rete proibito,Çevrim içi oynamanız yasaklandı,tr-TR
+"Gruppendaten konnten vom Server nur unvollständig empfangen werden.
+Bitte benachrichtige den Serverbetreiber.","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+Gói người chơi di chuyển đã nhận không hợp lệ,Geçersiz oyuncu hareket paketi alındı,tr-TR
+Gói phương tiện di chuyển đã nhận không hợp lệ,Geçersiz taşıt hareket paketi alındı,tr-TR
+Gói tin nhắn đã nhận không theo trật tự. Thời gian hệ thống của bạn có thay đổi không?,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+Gói tài nguyên máy chủ,Sunucu Kaynak Paketleri,tr-TR
+Gặp lỗi bất thường khi đang cấu hình,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+Hai già effettuato l'accesso da un'altra posizione,Başka bir konumdan oturum açtınız,tr-TR
+Hai superato il tempo massimo d'inattività!,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+Has iniciado sesión desde otro sitio,Başka bir konumdan oturum açtınız,tr-TR
+Hecho,Bitti,tr-TR
+Hilfe/Unterstützung,Destek,tr-TR
+Host desconhecido,Bilinmeyen sunucu,tr-TR
+Hoạt động bay không được bật trên máy chủ này,Uçma bu sunucuda açık değil,tr-TR
+HP：%s,%shp,tr-TR
+Há muitas mensagens não confirmadas,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+Hôte inconnu,Bilinmeyen sunucu,tr-TR
+Hỗ trợ,Destek,tr-TR
+I messaggi inviati su questo server possono essere modificati e potrebbero non riflettere i messaggi originali,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+I server di autenticazione non sono al momento raggiungibili. Riprova più tardi.,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+I server di autenticazione sono fuori servizio. Riprova più tardi.,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+Ignorando solicitud de estado,Durum isteği yok sayılıyor,tr-TR
+Ignoring status request,Durum isteği yok sayılıyor,tr-TR
+"Il n'est pas possible de se connecter pour le moment.
+Réessayez plus tard.","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+Il server ha inviato un pacchetto non valido,Sunucu geçersiz bir paket gönderdi,tr-TR
+Il server richiede l'accettazione del codice di condotta,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+Il server è pieno!,Sunucu dolu!,tr-TR
+Il tuo nome è già in uso,Bu ad zaten alınmış,tr-TR
+Il volo non è consentito in questo server,Uçma bu sunucuda açık değil,tr-TR
+Illegal characters in chat,Sohbette yasaklı karakterler kullanıldı,tr-TR
+Impossibile applicare il pacchetto di risorse del server.,Sunucu kaynak paketi uygulanamadı,tr-TR
+Impossibile connettersi al giocatore,Oyuncuya bağlanılamadı,tr-TR
+Impossibile connettersi al server,Sunucuya bağlanılamıyor,tr-TR
+Impossibile convalidare il messaggio in chat,Sohbet iletisi doğrulama başarısız,tr-TR
+Impossibile inviare il messaggio in chat. Controlla i registri del server: %s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+Impossible de résoudre le nom de l'hôte,Sunucu adı çözümlenemiyor,tr-TR
+Impossible de se connecter au joueur,Oyuncuya bağlanılamadı,tr-TR
+Impossible de se connecter au serveur,Sunucuya bağlanılamıyor,tr-TR
+Impossible de transmettre le message dans le tchat. Consultez les journaux du serveur : %s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+Impossible de vérifier les messages,Sohbet iletileri doğrulanamıyor,tr-TR
+Impossible de vérifier votre nom d'utilisateur !,Kullanıcı adı doğrulanamadı!,tr-TR
+Impostazioni per gli altri giocatori,Diğer Oyuncular için Ayarlar,tr-TR
+In linea,Çevrim içi,tr-TR
+Incompatible client! Please use %s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+Incompatible version!,Uyumsuz sürüm!,tr-TR
+"Incomplete set of tags received from the server.
+Please contact a server operator.","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+Indirizzo del server,Sunucu Adresi,tr-TR
+Indirizzo non trovato,Bilinmeyen sunucu,tr-TR
+Información del servidor,Sunucu Bilgisini Düzenle,tr-TR
+Informar de error en el servidor,Sunucu Hatası Bildir,tr-TR
+Informar erro do servidor,Sunucu Hatası Bildir,tr-TR
+Ingresso nel mondo...,Dünyaya katılınıyor...,tr-TR
+Iniciando sesión...,Giriş yapılıyor...,tr-TR
+Iniciando sessão...,Giriş yapılıyor...,tr-TR
+Iniciar mundo em LAN,Yerel Ağ Dünyası Başlat,tr-TR
+Iniciar un mundo en LAN,Yerel Ağ Dünyası Başlat,tr-TR
+Inkompatible Version!,Uyumsuz sürüm!,tr-TR
+Inkompatibler Client! Verwende bitte %s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+Ins Chatfenster kopieren,Sohbeti Ekrana Kopyala,tr-TR
+Intentando atacar una entidad no válida,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+Interrompida,İptal Edildi,tr-TR
+Invalid move player packet received,Geçersiz oyuncu hareket paketi alındı,tr-TR
+Invalid move vehicle packet received,Geçersiz taşıt hareket paketi alındı,tr-TR
+Invalid player data,Geçersiz oyuncu verisi,tr-TR
+Invalid session (Try restarting your game and the launcher),Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+"Invalid signature for profile public key.
+Try restarting your game.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+IP del servidor,Sunucu Adresi,tr-TR
+"IP 주소가 서버에서 차단되었습니다.
+사유: %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+"It is not possible to connect right now.
+Try again later.","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+Jogador anônimo,Anonim Oyuncu,tr-TR
+Jogador inacessível,Oyuncuya ulaşılamıyor,tr-TR
+Jogadores online: %s,Çevrim içi oyuncular: %s,tr-TR
+Join Server,Sunucuya Katıl,tr-TR
+Joining world...,Dünyaya katılınıyor...,tr-TR
+Joueur anonyme,Anonim Oyuncu,tr-TR
+Joueurs en ligne : %s,Çevrim içi oyuncular: %s,tr-TR
+Jugador anónimo,Anonim Oyuncu,tr-TR
+Jugadores en línea: %s,Çevrim içi oyuncular: %s,tr-TR
+"Kein gültiger Port.
+Lass das Eingabefeld leer oder gib eine Nummer zwischen %s und %s ein.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Kein gültiger Port.
+Lass das Eingabefeld leer oder gib eine Nummer zwischen 1024 und 65535 ein.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Khoá hồ sơ công khai đã hết hạn. Kiểm tra xem thời gian hệ thống của bạn đã được đồng bộ hay chưa, rồi thử khởi động lại trò chơi của bạn.",Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+Không thể chuyển tin nhắn trò chuyện; hãy kiểm tra bản ghi máy chủ: %s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+"Không thể kết nối ngay lúc này.
+Hãy thử lại sau.","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+Không thể kết nối đến máy chủ,Sunucuya bağlanılamadı,tr-TR
+Không thể kết nối đến máy chủ,Sunucuya bağlanılamıyor,tr-TR
+Không thể kết nối đến người chơi,Oyuncuya bağlanılamadı,tr-TR
+Không thể phân giải tên máy chủ,Sunucu adı çözümlenemiyor,tr-TR
+Không thể xác minh tên người dùng!,Kullanıcı adı doğrulanamadı!,tr-TR
+Không thể xác thực tin nhắn trò chuyện,Sohbet iletisi doğrulama başarısız,tr-TR
+Không thể áp dụng gói tài nguyên của máy chủ,Sunucu kaynak paketi uygulanamadı,tr-TR
+Không thể đăng nhập: %s,Giriş yapılamadı: %s,tr-TR
+Kicked by an operator,Bir yönetici tarafından atıldın,tr-TR
+Kicked for exceeding packet rate limit,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+Kicked for spamming,Spam nedeniyle atıldın,tr-TR
+Kết nối không thành công khi đang di chuyển sang máy chủ,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+Kết nối trực tiếp,Doğrudan Bağlantı,tr-TR
+L'accesso ha richiesto troppo tempo,Oturum açmak çok uzun sürdü,tr-TR
+La chat non può essere verificata,Sohbet iletileri doğrulanamıyor,tr-TR
+La chiave pubblica del tuo profilo è scaduta. Controlla che l'ora del sistema sia sincronizzata e prova a riavviare il gioco.,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+La clave pública de perfil ha caducado. Comprueba que la hora del sistema esté sincronizada y reinicia tu juego.,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+La connexion a mis trop longtemps à s'établir,Oturum açmak çok uzun sürdü,tr-TR
+La demande de statut a été traitée,Durum isteği işlendi,tr-TR
+La modalità multigiocatore è disattivata. Controlla le impostazioni del tuo account Microsoft.,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+LAN World,Yerel Ağ Dünyası,tr-TR
+LAN 세계,Yerel Ağ Dünyası,tr-TR
+LAN 세계 시작,Yerel Ağ Dünyası Başlat,tr-TR
+Landschaft wird geladen …,Arazi yükleniyor...,tr-TR
+LAN‐Welt,Yerel Ağ Dünyası,tr-TR
+LAN‐Welt starten,Yerel Ağ Dünyası Başlat,tr-TR
+LANワールド,Yerel Ağ Dünyası,tr-TR
+LANワールドを公開,Yerel Ağ Dünyası Başlat,tr-TR
+LAN内のゲームを検索中,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+Las interacciones sociales solo están disponibles en mundos multijugador,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+Latencia de %s milisegundos,Gecikme %s milisaniye,tr-TR
+Latenza di %s millisecondi,Gecikme %s milisaniye,tr-TR
+Latência de %s milissegundos,Gecikme %s milisaniye,tr-TR
+Le interazioni sociali sono disponibili solo nei mondi in multigiocatore,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+Le joueur est injoignable,Oyuncuya ulaşılamıyor,tr-TR
+Le menu des interactions sociales est uniquement disponible en multijoueur,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+Le mode multijoueur est désactivé. Veuillez vérifier les paramètres de votre compte Microsoft.,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+Le pack de ressources du serveur n'a pas pu être appliqué.,Sunucu kaynak paketi uygulanamadı,tr-TR
+"Le serveur a envoyé un ensemble incomplet de tags.
+Veuillez contacter l'opérateur du serveur.","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+Le serveur a envoyé un paquet non valide,Sunucu geçersiz bir paket gönderdi,tr-TR
+Le serveur est complet !,Sunucu dolu!,tr-TR
+Le serveur exige l'acceptation du code de conduite,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+Leave Bed,Yataktan Ayrıl,tr-TR
+Les messages envoyés sur ce serveur peuvent être modifiés et peuvent ne pas refléter le message d'origine,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+Les serveurs d'authentification sont actuellement inaccessibles. Veuillez réessayer.,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+Les serveurs d'authentification sont indisponibles. Veuillez réessayer plus tard. Désolé !,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+Levantar da cama,Yataktan Ayrıl,tr-TR
+Levantarse,Yataktan Ayrıl,tr-TR
+Linee guida,Topluluk Kuralları,tr-TR
+Loading terrain...,Arazi yükleniyor...,tr-TR
+Logging in...,Giriş yapılıyor...,tr-TR
+Los mensajes enviados en este servidor pueden ser modificados y podrían no reflejar el mensaje original.,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+Los servidores de autenticación no funcionan. ¡Lo sentimos! Inténtalo más tarde.,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+Làm mới,Yenile,tr-TR
+Löschen,Sil,tr-TR
+Lỗi giao thức mạng,Ağ Protokolü Hatası,tr-TR
+"Mechanismen, die benutzerdefinierte Ressourcen erfordern, funktionieren möglicherweise nicht wie erwartet","Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+Mehrspielermodus spielen,Çok Oyunculu Oyna,tr-TR
+Mensagem de chat detectada como ausente ou reordenada do servidor,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+Mensagem do dia: %s,Günün iletisi: %s,tr-TR
+Mensaje de chat perdido o reordenado recibido del servidor,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+Mensaje del día: %s,Günün iletisi: %s,tr-TR
+Mensajes de chat no verificados,Sohbet iletileri doğrulanamıyor,tr-TR
+Message du jour : %s,Günün iletisi: %s,tr-TR
+Message of the day: %s,Günün iletisi: %s,tr-TR
+Messages sent on this server may be modified and might not reflect the original message,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+Messaggio del giorno: %s,Günün iletisi: %s,tr-TR
+Minecraft Server,Minecraft Sunucusu,tr-TR
+Minecraft 伺服器,Minecraft Sunucusu,tr-TR
+Minecraft 서버,Minecraft Sunucusu,tr-TR
+Minecraft‐Server,Minecraft Sunucusu,tr-TR
+Minecraftサーバー,Minecraft Sunucusu,tr-TR
+Minecraft服务器,Minecraft Sunucusu,tr-TR
+Modifica,Düzenle,tr-TR
+Modifica le informazioni del server,Sunucu Bilgilerini Düzenle,tr-TR
+Modifica le informazioni del server,Sunucu Bilgisini Düzenle,tr-TR
+Modification des informations du serveur,Sunucu Bilgilerini Düzenle,tr-TR
+Modification des informations du serveur,Sunucu Bilgisini Düzenle,tr-TR
+Modifier,Düzenle,tr-TR
+Modo multijogador desativado. Veja as configurações da sua conta Microsoft.,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+Monde en réseau local,Yerel Ağ Dünyası,tr-TR
+Multijogador,Çok Oyunculu Oyna,tr-TR
+Multijoueur,Çok Oyunculu Oyna,tr-TR
+Multijugador,Çok Oyunculu Oyna,tr-TR
+Multiplayer is disabled. Please check your Microsoft account settings.,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+Mundo (LAN),Yerel Ağ Dünyası,tr-TR
+Mundo LAN,Yerel Ağ Dünyası,tr-TR
+Máy chủ không rõ,Bilinmeyen sunucu,tr-TR
+Máy chủ Minecraft,Minecraft Sunucusu,tr-TR
+Máy chủ này không chấp nhận di chuyển,Bu sunucu aktarımları kabul etmiyor,tr-TR
+Máy chủ này yêu cầu một gói tài nguyên tùy chỉnh,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+Máy chủ này yêu cầu sử dụng một gói tài nguyên tùy chỉnh.,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+Máy chủ này đề nghị sử dụng một gói tài nguyên tuỳ chỉnh.,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+"Máy chủ xác thực đã bị sập. Vui lòng thử lại sau, xin lỗi!",Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+Máy chủ yêu cầu chấp nhận quy tắc ứng xử,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+Máy chủ đã gửi một gói không hợp lệ,Sunucu geçersiz bir paket gönderdi,tr-TR
+Máy chủ đã đóng,Sunucu kapatıldı,tr-TR
+Máy chủ đã đầy!,Sunucu dolu!,tr-TR
+Möchtest du es automagisch herunterladen und installieren?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+Mất kết nối,Bağlantı koptu,tr-TR
+Mất quá lâu để đăng nhập,Oturum açmak çok uzun sürdü,tr-TR
+Mọi chức năng yêu cầu tài nguyên tùy chỉnh có thể không hoạt động như mong đợi,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+Nachricht des Tages: %s,Günün iletisi: %s,tr-TR
+Ne plus afficher ce message,Bu ekranı bir daha gösterme,tr-TR
+Ne plus m'avertir de ce code de conduite,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+Negotiating...,Anlaşma yapılıyor...,tr-TR
+Negoziazione in corso...,Anlaşma yapılıyor...,tr-TR
+Network Protocol Error,Ağ Protokolü Hatası,tr-TR
+Neu konfigurieren …,Yeniden Yapılandırılıyor...,tr-TR
+Neuen Server gefunden: %s,Yeni sunucu bulundu: %s,tr-TR
+Neuigkeiten,Haberler,tr-TR
+New server found: %s,Yeni sunucu bulundu: %s,tr-TR
+News,Haberler,tr-TR
+Nguyên tắc cộng đồng,Topluluk Kuralları,tr-TR
+Người chơi không tiếp cận được,Oyuncuya ulaşılamıyor,tr-TR
+Người chơi trực tuyến: %s,Çevrim içi oyuncular: %s,tr-TR
+Người chơi ẩn danh,Anonim Oyuncu,tr-TR
+Ngừng kết nối,Bağlantı sonu,tr-TR
+Nhắc nhở,Sor,tr-TR
+No,Kapalı,tr-TR
+No está permitido volar en este servidor,Uçma bu sunucuda açık değil,tr-TR
+No mostrar este mensaje de nuevo,Bu ekranı bir daha gösterme,tr-TR
+No se ha podido aplicar el paquete de recursos del servidor,Sunucu kaynak paketi uygulanamadı,tr-TR
+"No se ha podido conectar ahora mismo.
+Inténtalo de nuevo más tarde.","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+No se pudo conectar con el jugador,Oyuncuya bağlanılamadı,tr-TR
+"No se tiene acceso a los servidores de autenticación. Por favor, inténtalo de nuevo.",Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+No volver a notificar sobre este código de conducta,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+Nom du serveur,Sunucu Adı,tr-TR
+Nombre del servidor,Sunucu Adı,tr-TR
+Nome del server,Sunucu Adı,tr-TR
+Nome do servidor,Sunucu Adı,tr-TR
+Non aggiornato,Eski,tr-TR
+Non avvisarmi più per questo codice di condotta,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+Non mostrare più questa schermata,Bu ekranı bir daha gösterme,tr-TR
+Non sei nella lista bianca di questo server!,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+"Non è possibile connettersi al momento.
+Riprova più tardi.","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+Normas de la comunidad,Topluluk Kuralları,tr-TR
+"Not a valid port.
+Leave the edit box empty or enter a number between %s and %s.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Not a valid port.
+Leave the edit box empty or enter a number between 1024 and 65535.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+Notizie,Haberler,tr-TR
+Nouveau serveur,Sunucu Ekle,tr-TR
+Nouveau serveur trouvé : %s,Yeni sunucu bulundu: %s,tr-TR
+Nouvelles,Haberler,tr-TR
+Novedades,Haberler,tr-TR
+Novidades,Haberler,tr-TR
+Novo servidor encontrado: %s,Yeni sunucu bulundu: %s,tr-TR
+Nuevo servidor encontrado: %s,Yeni sunucu bulundu: %s,tr-TR
+Numero di porta,Bağlantı Noktası Numarası,tr-TR
+Numéro de port,Bağlantı Noktası Numarası,tr-TR
+Não,Kapalı,tr-TR
+Não foi possível aplicar o pacote de recursos do servidor.,Sunucu kaynak paketi uygulanamadı,tr-TR
+Não foi possível conectar-se ao jogador,Oyuncuya bağlanılamadı,tr-TR
+Não mostre esse aviso novamente,Bu ekranı bir daha gösterme,tr-TR
+Não notificar novamente sobre esse Código de Conduta,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+Não é permitido voar nesse servidor,Uçma bu sunucuda açık değil,tr-TR
+"Não é possível conectar no momento.
+Tente novamente mais tarde.","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+Não é possível verificar as mensagens,Sohbet iletileri doğrulanamıyor,tr-TR
+Négociation en cours...,Anlaşma yapılıyor...,tr-TR
+Número da porta,Bağlantı Noktası Numarası,tr-TR
+Número de puerto,Bağlantı Noktası Numarası,tr-TR
+O servidor enviou um pacote inválido,Sunucu geçersiz bir paket gönderdi,tr-TR
+O servidor está lotado!,Sunucu dolu!,tr-TR
+O servidor exige a aceitação do Código de Conduta,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+Obsolète,Eski,tr-TR
+Obtendo estatísticas...,İstatistikler alınıyor...,tr-TR
+Obteniendo estadísticas...,İstatistikler alınıyor...,tr-TR
+Old,Eski,tr-TR
+Online,Çevrim içi,tr-TR
+Online players: %s,Çevrim içi oyuncular: %s,tr-TR
+Operazione interrotta,İptal Edildi,tr-TR
+Opiniones,Geri Bildirim,tr-TR
+Options pour les autres joueurs,Diğer Oyuncular için Ayarlar,tr-TR
+Os servidores de autenticação estão indisponíveis. Tente novamente mais tarde.,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+Out-of-order chat packet received. Did your system time change?,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+Ouvrir au réseau local,Yerel Ağ Dünyası Başlat,tr-TR
+Packs de ressources,Sunucu Kaynak Paketleri,tr-TR
+Packs de ressources du serveur,Sunucu Kaynak Paketleri,tr-TR
+Pacote de chat corrompido recebido. A hora do seu sistema mudou?,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+Pacote de movimento inválido de jogador recebido,Geçersiz oyuncu hareket paketi alındı,tr-TR
+Pacote de movimento inválido de veículo recebido,Geçersiz taşıt hareket paketi alındı,tr-TR
+Pacotes de recursos,Sunucu Kaynak Paketleri,tr-TR
+Pacotes de recursos do servidor,Sunucu Kaynak Paketleri,tr-TR
+Paquet de déplacement du joueur non valide reçu,Geçersiz oyuncu hareket paketi alındı,tr-TR
+Paquet de déplacement en véhicule non valide reçu,Geçersiz taşıt hareket paketi alındı,tr-TR
+Paquet de tchat reçu dans le désordre. L'heure de votre système a-t-elle changé ?,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+Paquete de recursos del servidor,Sunucu Kaynak Paketleri,tr-TR
+Paquetes de recursos,Sunucu Kaynak Paketleri,tr-TR
+Pedido de status ignorado,Durum isteği yok sayılıyor,tr-TR
+Pedido de status processado,Durum isteği işlendi,tr-TR
+Perguntar,Sor,tr-TR
+Phiên bản không tương thích!,Uyumsuz sürüm!,tr-TR
+Phiên bản máy chủ: %s,Sunucu sürümü %s,tr-TR
+Phiên bản trò chơi không tương thích! Hãy sử dụng %s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+Phiên không hợp lệ (Hãy thử khởi động lại trò chơi và trình khởi động của bạn),Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+Phản hồi,Geri Bildirim,tr-TR
+Ping %s miligiây,Gecikme %s milisaniye,tr-TR
+Ping %s milliseconds,Gecikme %s milisaniye,tr-TR
+Ping de %s millisecondes,Gecikme %s milisaniye,tr-TR
+Ping en cours...,Bağlantı sınanıyor...,tr-TR
+Ping: %s Millisekunden,Gecikme %s milisaniye,tr-TR
+Pinging...,Bağlantı sınanıyor...,tr-TR
+Ping応答時間は%sミリ秒です,Gecikme %s milisaniye,tr-TR
+Play Multiplayer,Çok Oyunculu Oyna,tr-TR
+Player isn't reachable,Oyuncuya ulaşılamıyor,tr-TR
+"Port nicht verfügbar.
+Lass das Eingabefeld leer oder gib eine andere Nummer zwischen %s und %s ein.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Port nicht verfügbar.
+Lass das Eingabefeld leer oder gib eine andere Nummer zwischen 1024 und 65535 ein.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Port non disponible.
+Laissez le champ de saisie vide ou entrez un numéro différent compris entre %s et %s.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Port non disponible.
+Laissez le champ de saisie vide ou entrez un numéro différent compris entre 1024 et 65535.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Port non valide.
+Laissez le champ de saisie vide ou entrez un numéro compris entre %s et %s.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Port non valide.
+Laissez le champ de saisie vide ou entrez un numéro compris entre 1024 et 65535.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Port not available.
+Leave the edit box empty or enter a different number between %s and %s.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Port not available.
+Leave the edit box empty or enter a different number between 1024 and 65535.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+Port Number,Bağlantı Noktası Numarası,tr-TR
+"Porta indisponível.
+Deixe o campo em branco ou escolha um número diferente entre %s e %s.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Porta indisponível.
+Deixe o campo em branco ou escolha um número diferente entre 1024 e 65535.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Porta inválida.
+Deixe o campo em branco ou escolha um número entre %s e %s.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Porta inválida.
+Deixe o campo em branco ou escolha um número entre 1024 e 65535.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Porta non disponibile.
+Lascia il riquadro vuoto o inserisci un numero diverso compreso tra %s e %s.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Porta non disponibile.
+Lascia il riquadro vuoto o inserisci un numero diverso compreso tra 1024 e 65535.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Porta non valida.
+Lascia il riquadro vuoto o inserisci un numero tra %s e %s.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Porta non valida.
+Lascia il riquadro vuoto o inserisci un numero tra 1024 e 65535.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+Portnummer,Bağlantı Noktası Numarası,tr-TR
+Preguntar,Sor,tr-TR
+Procurando jogos em sua rede local,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+Prompt,Sor,tr-TR
+"Puerto no disponible.
+Deja la caja de edición vacía o elige un número diferente entre 1024 y 65535.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Puerto no disponible.
+Deja la caja de edición vacía o introduce un número distinto entre %s y %s.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Puerto no válido.
+Deja la caja de edición vacía o elige un número entre 1024 y 65535.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"Puerto no válido.
+Deja la caja de edición vacía o introduce un número entre %s y %s.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+Qualquer funcionalidade dependente de recursos personalizados pode não funcionar corretamente.,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+Qualsiasi funzionalità che richieda risorse personalizzate potrebbe non funzionare come previsto,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+Questo server consiglia l'uso di un pacchetto di risorse personalizzato.,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+Questo server non accetta i trasferimenti,Bu sunucu aktarımları kabul etmiyor,tr-TR
+Questo server richiede l'uso di un pacchetto di risorse personalizzato.,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+Questo server richiede un pacchetto di risorse personalizzato,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+Quitter le lit,Yataktan Ayrıl,tr-TR
+Quitting,Çıkılıyor,tr-TR
+Quy tắc ứng xử máy chủ,Sunucu Davranış Kuralları,tr-TR
+Quá nhiều tin nhắn trò chuyện chưa được xác nhận,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+Received a chat packet with a missing or invalid signature.,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+Received unrequested status,İstenmeyen durum alındı,tr-TR
+Rechazar este paquete de recursos personalizado te desconectará del servidor.,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+Recherche de parties sur votre réseau local,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+Reconfigurando...,Yeniden Yapılandırılıyor...,tr-TR
+Reconfiguration en cours...,Yeniden Yapılandırılıyor...,tr-TR
+Reconfiguring...,Yeniden Yapılandırılıyor...,tr-TR
+Recupero delle statistiche...,İstatistikler alınıyor...,tr-TR
+Refresh,Yenile,tr-TR
+Rejecting this custom resource pack will disconnect you from this server.,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+Rejeter ce pack de ressources personnalisé vous déconnectera de ce serveur.,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+Rejoindre,Sunucuya Katıl,tr-TR
+Report Server Bug,Sunucu Hatası Bildir,tr-TR
+Ressourcenpaket wird angewandt,Kaynak paketi uygulanıyor,tr-TR
+Retrieving statistics...,İstatistikler alınıyor...,tr-TR
+Ricerca di partite nella rete locale...,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+"Ricevuta dal server una serie di dati non completa.
+Contatta un operatore del server.","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+Ricevuti dal client dei dati personalizzati non previsti,İstemciden beklenmeyen özel veri alındı,tr-TR
+Ricevuto stato non richiesto,İstenmeyen durum alındı,tr-TR
+Ricevuto un pacchetto chat con firma mancante o non valida.,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+Ricevuto un pacchetto chat non funzionante. L'orario del tuo computer è stato modificato?,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+Ricevuto un pacchetto di movimento del giocatore non valido,Geçersiz oyuncu hareket paketi alındı,tr-TR
+Ricevuto un pacchetto di movimento di un veicolo non valido,Geçersiz taşıt hareket paketi alındı,tr-TR
+Richiesta di connessione scaduta,Bağlantı isteğinin süresi doldu,tr-TR
+Richiesta di stato ignorata,Durum isteği yok sayılıyor,tr-TR
+Richiesta di stato presa in gestione,Durum isteği işlendi,tr-TR
+Riconfigurazione in corso...,Yeniden Yapılandırılıyor...,tr-TR
+Rifiutare questo pacchetto di risorse ti disconnetterà dal server.,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+Rilevato un messaggio in chat mancante o riordinato dal server,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+Riscontro,Geri Bildirim,tr-TR
+Risoluzione dell'indirizzo non riuscita,Sunucu adı çözümlenemiyor,tr-TR
+Risorse del server,Sunucu Kaynak Paketleri,tr-TR
+Run Command,Komutu Çalıştır,tr-TR
+Récupération des statistiques...,İstatistikler alınıyor...,tr-TR
+Rückmeldung,Geri Bildirim,tr-TR
+Rời khỏi giường,Yataktan Ayrıl,tr-TR
+Saindo,Çıkılıyor,tr-TR
+Sao chép vào màn hình trò chuyện,Sohbeti Ekrana Kopyala,tr-TR
+Scanning for games on your local network,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+Se ha detectado un movimiento de jugador no válido,Geçersiz oyuncu hareket paketi alındı,tr-TR
+Se ha detectado un movimiento de vehículo no válido,Geçersiz taşıt hareket paketi alındı,tr-TR
+Se ha producido un error inesperado durante la configuración,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+Se ha recibido la solicitud de estado,Durum isteği işlendi,tr-TR
+Se ha recibido un estado no solicitado,İstenmeyen durum alındı,tr-TR
+Se ha recibido un paquete de chat desordenado. ¿Ha habido algún cambio en la hora de tu dispositivo?,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+Se ha recibido un paquete de chat sin firma o con una firma no válida.,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+Se ha tardado demasiado en iniciar sesión,Oturum açmak çok uzun sürdü,tr-TR
+Se han enviado datos desconocidos desde el cliente,İstemciden beklenmeyen özel veri alındı,tr-TR
+Se te ha prohibido jugar en línea,Çevrim içi oynamanız yasaklandı,tr-TR
+Segnala un errore,Sunucu Hatası Bildir,tr-TR
+Server Address,Sunucu Adresi,tr-TR
+Server beitreten,Sunucuya Katıl,tr-TR
+Server chiuso,Sunucu kapatıldı,tr-TR
+Server closed,Sunucu kapatıldı,tr-TR
+Server Code of Conduct,Sunucu Davranış Kuralları,tr-TR
+Server di Minecraft,Minecraft Sunucusu,tr-TR
+Server geschlossen,Sunucu kapatıldı,tr-TR
+Server hinzufügen,Sunucu Ekle,tr-TR
+Server Name,Sunucu Adı,tr-TR
+Server requires accepting the Code of Conduct,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+Server resource pack couldn't be applied,Sunucu kaynak paketi uygulanamadı,tr-TR
+Server Resource Packs,Sunucu Kaynak Paketleri,tr-TR
+Server version: %s,Sunucu sürümü %s,tr-TR
+Server-Ressourcenpakete,Sunucu Kaynak Paketleri,tr-TR
+Serveradresse,Sunucu Adresi,tr-TR
+Serverinformationen bearbeiten,Sunucu Bilgilerini Düzenle,tr-TR
+Serverinformationen bearbeiten,Sunucu Bilgisini Düzenle,tr-TR
+Servername,Sunucu Adı,tr-TR
+Server‐Ressourcenpakete,Sunucu Kaynak Paketleri,tr-TR
+Server‐Verhaltenskodex,Sunucu Davranış Kuralları,tr-TR
+Server‐Version: %s,Sunucu sürümü %s,tr-TR
+Serveur fermé,Sunucu kapatıldı,tr-TR
+Serveur Minecraft,Minecraft Sunucusu,tr-TR
+Servidor cerrado,Sunucu kapatıldı,tr-TR
+Servidor de Minecraft,Minecraft Sunucusu,tr-TR
+Servidor fechado,Sunucu kapatıldı,tr-TR
+Servidores de autenticação indisponíveis. Tente novamente mais tarde!,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+Sesión no válida (prueba a reiniciar el juego y el lanzador),Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+Session non valide (essayez de redémarrer le jeu et le Launcher),Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+Sessione non valida. Prova a riavviare il gioco e il launcher.,Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+Sessão inválida (tente reiniciar o jogo e o Launcher),Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+Settings for Other Players,Diğer Oyuncular için Ayarlar,tr-TR
+Seu endereço IP foi banido desse servidor,IP adresiniz bu sunucudan yasaklandı,tr-TR
+"Seu endereço IP foi banido desse servidor.
+Motivo: %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+Si è tentato di attaccare un'entità non valida,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+Signaler un bug du serveur,Sunucu Hatası Bildir,tr-TR
+"Signature non valide pour la clé publique du profil.
+Essayez de redémarrer le jeu.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+Sim,Açık,tr-TR
+Site,İnternet Sitesi,tr-TR
+Site web,İnternet Sitesi,tr-TR
+Sitio web,İnternet Sitesi,tr-TR
+Sito,İnternet Sitesi,tr-TR
+Social Interactions are only available in Multiplayer worlds,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+Soporte,Destek,tr-TR
+Soziale Interaktionen sind nur in Mehrspielerwelten verfügbar,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+Spieler ist nicht erreichbar,Oyuncuya ulaşılamıyor,tr-TR
+Spieler online: %s,Çevrim içi oyuncular: %s,tr-TR
+Stabilimento della connessione...,Bağlantı kuruluyor...,tr-TR
+"Stai cercando di eseguire un comando che invierà messaggi in chat a nome tuo.
+Può essere eseguito solo dalla chat.
+Comando: %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"Stai cercando di eseguire un comando che richiede autorizzazioni elevate.
+Ciò potrebbe influire negativamente sulla tua esperienza di gioco.
+Vuoi davvero continuare?
+Comando: %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+"Stai cercando di eseguire un comando non riconosciuto o invalido.
+Vuoi davvero continuare?
+Comando: %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+Start LAN World,Yerel Ağ Dünyası Başlat,tr-TR
+Statistiken werden abgerufen …,İstatistikler alınıyor...,tr-TR
+Stato,Durum,tr-TR
+Status,Durum,tr-TR
+Status ohne Anfrage erhalten,İstenmeyen durum alındı,tr-TR
+Status request has been handled,Durum isteği işlendi,tr-TR
+Statusanfrage wurde bearbeitet,Durum isteği işlendi,tr-TR
+Statusanfrage wurde nicht beantwortet,Durum isteği yok sayılıyor,tr-TR
+Statut non demandé reçu,İstenmeyen durum alındı,tr-TR
+Sua conta está banida do modo online,Çevrim içi oynamanız yasaklandı,tr-TR
+Suche nach Spielen im lokalen Netzwerk,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+Suporte,Destek,tr-TR
+Support,Destek,tr-TR
+Supprimer,Sil,tr-TR
+Sì,Açık,tr-TR
+Số cổng,Bağlantı Noktası Numarası,tr-TR
+Te han bloqueado en este servidor,Bu sunucudan yasaklandınız,tr-TR
+"Te han bloqueado en este servidor.
+Motivo: %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+Tempo esgotado,Zaman aşımına uğradı,tr-TR
+Tempo limite do pedido de conexão excedido,Bağlantı isteğinin süresi doldu,tr-TR
+Tentativa de atacar uma entidade inválida,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+Tentative d'attaque sur une entité non valide,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+Terminato,Bitti,tr-TR
+Terminé,Bitti,tr-TR
+Tham gia máy chủ,Sunucuya Katıl,tr-TR
+That name is already taken,Bu ad zaten alınmış,tr-TR
+The authentication servers are currently not reachable. Please try again.,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+The server is full!,Sunucu dolu!,tr-TR
+The server sent an invalid packet,Sunucu geçersiz bir paket gönderdi,tr-TR
+This server does not accept transfers,Bu sunucu aktarımları kabul etmiyor,tr-TR
+This server recommends the use of a custom resource pack.,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+This server requires a custom resource pack,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+This server requires the use of a custom resource pack.,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+Thêm máy chủ,Sunucu Ekle,tr-TR
+Thông báo,Duyurular,tr-TR
+Thế giới mạng LAN,Yerel Ağ Dünyası,tr-TR
+Tiempo de espera agotado,Zaman aşımına uğradı,tr-TR
+Tiempo de espera de solicitud agotado,Bağlantı isteğinin süresi doldu,tr-TR
+Timed out,Zaman aşımına uğradı,tr-TR
+Tin nhắn của ngày: %s,Günün iletisi: %s,tr-TR
+Tin nhắn trò chuyện không được xác minh,Sohbet iletileri doğrulanamıyor,tr-TR
+Tin tức,Haberler,tr-TR
+Too many unacknowledged chat messages,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+Took too long to log in,Oturum açmak çok uzun sürdü,tr-TR
+Toute fonctionnalité qui requiert des ressources personnalisées peut ne pas fonctionner comme prévu.,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+Trang web,İnternet Sitesi,tr-TR
+Transferido a otro servidor,Başka bir sunucuya aktarıldı,tr-TR
+Transferido para outro servidor,Başka bir sunucuya aktarıldı,tr-TR
+Transferindo para o novo servidor...,Yeni sunucuya aktarılıyor...,tr-TR
+Transferred to another server,Başka bir sunucuya aktarıldı,tr-TR
+Transferring to new server...,Yeni sunucuya aktarılıyor...,tr-TR
+Transfert vers un nouveau serveur...,Yeni sunucuya aktarılıyor...,tr-TR
+Transfiriendo al nuevo servidor...,Yeni sunucuya aktarılıyor...,tr-TR
+Transféré(e) vers un autre serveur,Başka bir sunucuya aktarıldı,tr-TR
+Trasferimento a un nuovo server...,Yeni sunucuya aktarılıyor...,tr-TR
+Trasferito a un altro server,Başka bir sunucuya aktarıldı,tr-TR
+Trop de messages du tchat non reconnus,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+Troppi messaggi in chat non riconosciuti,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+Trovato nuovo server: %s,Yeni sunucu bulundu: %s,tr-TR
+Trạng thái,Durum,tr-TR
+Trực tuyến,Çevrim içi,tr-TR
+Tu IP ha sido bloqueada en este servidor,IP adresiniz bu sunucudan yasaklandı,tr-TR
+"Tu IP ha sido bloqueada en este servidor.
+Motivo: %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+Tên máy chủ,Sunucu Adı,tr-TR
+Tên đó đã bị lấy rồi,Bu ad zaten alınmış,tr-TR
+Tương tác xã hội chỉ có sẵn trong thế giới chơi mạng,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+"Tập hợp nhãn nhận được từ máy chủ chưa hoàn thành.
+Hãy liên hệ người điều hành máy chủ.","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+Từ chối sử dụng gói tài nguyên này sẽ khiến bạn rời khỏi máy chủ.,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+Un message manquant ou réordonné reçu de la part du serveur a été détecté,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+Un operatore ha bannato il tuo IP da questo server,IP adresiniz bu sunucudan yasaklandı,tr-TR
+"Un operatore ha bannato il tuo IP da questo server
+
+Motivo: %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+Un operatore ti ha bannato dal server,Bu sunucudan yasaklandınız,tr-TR
+"Un operatore ti ha bannato dal server
+
+Motivo: %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+Un paquet de tchat avec une signature manquante ou non valide a été reçu.,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+Unbekannter Server,Bilinmeyen sunucu,tr-TR
+Unerwartete benutzerdefinierte Daten vom Client empfangen,İstemciden beklenmeyen özel veri alındı,tr-TR
+Unerwarteter Fehler während der Konfiguration,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+Unerwartetes Chatpaket empfangen. Hat sich deine Systemzeit geändert?,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+Unexpected custom data from client,İstemciden beklenmeyen özel veri alındı,tr-TR
+Unexpected error during configuration,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+"Ungültige Signatur für den öffentlichen Profilschlüssel.
+Versuche, dein Spiel neu zu starten.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+"Ungültige Sitzung (Versuche, das Spiel und ggf. den Launcher neu zu starten)",Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+Ungültige Spielerdaten,Geçersiz oyuncu verisi,tr-TR
+Ungültiges Paket zur Fahrmittelbewegung empfangen,Geçersiz taşıt hareket paketi alındı,tr-TR
+Ungültiges Paket zur Spielerbewegung empfangen,Geçersiz oyuncu hareket paketi alındı,tr-TR
+Unknown host,Bilinmeyen sunucu,tr-TR
+Unzulässige Zeichen im Chat,Sohbette yasaklı karakterler kullanıldı,tr-TR
+Veraltet,Eski,tr-TR
+Verbindung abgebrochen,Bağlantı koptu,tr-TR
+Verbindung bei Übertragung an den Server fehlgeschlagen,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+Verbindung getrennt,Bağlantı kesildi,tr-TR
+Verbindung mit dem Server wird hergestellt …,Sunucuya bağlanılıyor...,tr-TR
+Verbindung wird hergestellt …,Bağlantı kuruluyor...,tr-TR
+Verbindung zum Spieler konnte nicht hergestellt werden,Oyuncuya bağlanılamadı,tr-TR
+Verbindungsaufbau fehlgeschlagen,Sunucuya bağlanılamadı,tr-TR
+Verifica del nome utente non riuscita!,Kullanıcı adı doğrulanamadı!,tr-TR
+Verifica della latenza...,Bağlantı sınanıyor...,tr-TR
+Verschlüsseln …,Şifreleniyor...,tr-TR
+Version du serveur : %s,Sunucu sürümü %s,tr-TR
+Version incompatible !,Uyumsuz sürüm!,tr-TR
+Versione del server: %s,Sunucu sürümü %s,tr-TR
+Versione incompatibile!,Uyumsuz sürüm!,tr-TR
+Versión del servidor: %s,Sunucu sürümü %s,tr-TR
+Versão do servidor: %s,Sunucu sürümü %s,tr-TR
+Versão incompatível!,Uyumsuz sürüm!,tr-TR
+"Você está tentando executar um comando não reconhecido ou inválido.
+Deseja continuar?
+Comando: %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+"Você está tentando executar um comando que enviará mensagens de chat em seu nome.
+Só é possível executá-lo pelo chat.
+Comando: %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"Você está tentando executar um comando que exige permissões altas.
+Isso pode prejudicar o seu jogo.
+Deseja continuar?
+Comando: %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+Você ficou ausente por muito tempo!,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+Você foi banido(a) desse servidor,Bu sunucudan yasaklandınız,tr-TR
+"Você foi banido(a) desse servidor.
+Motivo: %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+Você iniciou sessão a partir de outro local,Başka bir konumdan oturum açtınız,tr-TR
+Você não está na lista branca desse servidor!,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+Você não pode enviar a mensagem de chat. Veja os registros do servidor: %s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+Você não pode resolver o nome do host,Sunucu adı çözümlenemiyor,tr-TR
+Você não pode se conectar ao servidor,Sunucuya bağlanılamıyor,tr-TR
+Voler n'est pas autorisé sur ce serveur,Uçma bu sunucuda açık değil,tr-TR
+Von einem Operator gesperrt.,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+Von einem Operator hinausgeworfen,Bir yönetici tarafından atıldın,tr-TR
+"Vorsicht: Der Mehrspielermodus wird über Drittanbieter‐Server angeboten, die Mojang Studios oder Microsoft weder gehören, noch von diesen betrieben oder überwacht werden. Bei der Verwendung des Mehrspielermodus könntest du unmoderierten Chatnachrichten oder sonstigen nutzergenerierten Inhalten ausgesetzt sein, die womöglich nicht für jeden angemessen sind.",Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+Vorsicht: Mehrspielermodus von Drittanbietern,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+Votre adresse IP est bannie de ce serveur,IP adresiniz bu sunucudan yasaklandı,tr-TR
+"Votre adresse IP est bannie de ce serveur.
+Raison : %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+Voulez-vous le télécharger et l'installer automagiquement ?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+Voulez-vous vraiment supprimer ce serveur ?,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+Vous avez été immobile trop longtemps !,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+Vous n'êtes pas sur la liste blanche de ce serveur !,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+Vous êtes banni(e) de ce serveur,Bu sunucudan yasaklandınız,tr-TR
+"Vous êtes banni(e) de ce serveur.
+Raison : %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+Vous êtes banni(e) du jeu en ligne,Çevrim içi oynamanız yasaklandı,tr-TR
+Vous êtes déjà connecté(e) depuis un autre emplacement,Başka bir konumdan oturum açtınız,tr-TR
+"Vous êtes sur le point d'exécuter une commande non reconnue ou non valide.
+Voulez-vous continuer ?
+Commande : %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+"Vous êtes sur le point d'exécuter une commande qui enverra des messages dans le tchat à votre nom.
+Elle ne peut être exécutée qu'à partir du tchat.
+Commande : %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"Vous êtes sur le point d'exécuter une commande qui nécessite des permissions élevées.
+Cela pourrait affecter négativement votre partie.
+Voulez-vous continuer ?
+Commande : %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+Vuoi davvero rimuovere questo server?,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+Vuoi scaricarlo e installarlo automagicamente?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+Website,İnternet Sitesi,tr-TR
+Wegen Spamming hinausgeworfen,Spam nedeniyle atıldın,tr-TR
+Wegen Überschreitung des Paketratenlimits hinausgeworfen,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+Welt wird betreten …,Dünyaya katılınıyor...,tr-TR
+"Wenn du das Ressourcenpaket ablehnst, wird deine Verbindung mit dem Server getrennt.","Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+Wird beendet,Çıkılıyor,tr-TR
+Would you like to download and install it automagically?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+Xong,Bitti,tr-TR
+Xoá,Sil,tr-TR
+Xác nhận thực thi lệnh,Komut Çalıştırılması Doğrulama,tr-TR
+Ya hay alguien conectado con tu nombre,Bu ad zaten alınmış,tr-TR
+You are banned from playing online,Çevrim içi oynamanız yasaklandı,tr-TR
+You are banned from this server,Bu sunucudan yasaklandınız,tr-TR
+"You are banned from this server.
+Reason: %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+You are not white-listed on this server!,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+"You are trying to execute a command that requires elevated permissions.
+This might negatively affect your game.
+Are you sure?
+Command: %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+"You are trying to execute a command that will send chat messages using your name.
+It can only be run from the chat screen.
+Command: %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"You are trying to execute an unrecognized or invalid command.
+Are you sure?
+Command: %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+You have been idle for too long!,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+You have been IP banned from this server,IP adresiniz bu sunucudan yasaklandı,tr-TR
+You logged in from another location,Başka bir konumdan oturum açtınız,tr-TR
+"Your IP address is banned from this server.
+Reason: %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+Yêu cầu kết nối đã hết thời gian,Bağlantı isteğinin süresi doldu,tr-TR
+Zeitüberschreitung,Zaman aşımına uğradı,tr-TR
+Zeitüberschreitung beim Verbindungsaufbau,Bağlantı isteğinin süresi doldu,tr-TR
+Zu viele unbestätigte Chatnachrichten,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+"¡Cliente no compatible! Por favor, usa %s",Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+¡El servidor está lleno!,Sunucu dolu!,tr-TR
+¡Has estado inactivo mucho tiempo!,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+¡No estás en la lista blanca del servidor!,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+¡No se ha podido verificar el nombre de usuario!,Kullanıcı adı doğrulanamadı!,tr-TR
+¡Versión incompatible!,Uyumsuz sürüm!,tr-TR
+«%s» andrà perso per sempre! (Un sacco di tempo!),'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+«%s» desaparecerá... ¡para siempre! (¡mucho tiempo!),'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+«%s» будет удалён навсегда! (Безвозвратно!),'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+¿Quieres descargarlo e instalarlo automágicamente?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+¿Seguro que quieres eliminar este servidor?,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+¿¿??,???,tr-TR
+Échec de connexion au serveur,Sunucuya bağlanılamadı,tr-TR
+Échec de la connexion : %s,Giriş yapılamadı: %s,tr-TR
+Échec de la connexion lors du transfert vers le serveur,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+Échec de la validation du message du tchat,Sohbet iletisi doğrulama başarısız,tr-TR
+Établissement de la connexion...,Bağlantı kuruluyor...,tr-TR
+État,Durum,tr-TR
+Übertrage an neuen Server …,Yeni sunucuya aktarılıyor...,tr-TR
+Đang bỏ qua yêu cầu trạng thái,Durum isteği yok sayılıyor,tr-TR
+Đang cấu hình lại...,Yeniden Yapılandırılıyor...,tr-TR
+Đang di chuyển sang máy chủ mới...,Yeni sunucuya aktarılıyor...,tr-TR
+Đang kết nối đến máy chủ...,Sunucuya bağlanılıyor...,tr-TR
+Đang mã hóa...,Şifreleniyor...,tr-TR
+Đang ping...,Bağlantı sınanıyor...,tr-TR
+Đang tham gia thế giới...,Dünyaya katılınıyor...,tr-TR
+Đang thiết lập kết nối...,Bağlantı kuruluyor...,tr-TR
+Đang thoát,Çıkılıyor,tr-TR
+Đang truy xuất số liệu...,İstatistikler alınıyor...,tr-TR
+Đang truyền...,Anlaşma yapılıyor...,tr-TR
+Đang tìm kiếm trò chơi trên mạng cục bộ của bạn,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+Đang tải địa hình...,Arazi yükleniyor...,tr-TR
+Đang áp dụng gói tài nguyên,Kaynak paketi uygulanıyor,tr-TR
+Đang đăng nhập...,Giriş yapılıyor...,tr-TR
+Đã bật,Açık,tr-TR
+Đã bị cấm bởi một người điều hành.,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+Đã bị đuổi vì vượt quá giới hạn tốc độ gói,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+Đã bị đá bởi một người điều hành,Bir yönetici tarafından atıldın,tr-TR
+Đã bị đá vì spam,Spam nedeniyle atıldın,tr-TR
+Đã di chuyển sang một máy chủ khác,Başka bir sunucuya aktarıldı,tr-TR
+Đã hoàn tất,Bitti,tr-TR
+Đã huỷ bỏ,İptal edildi,tr-TR
+Đã hết thời gian,Zaman aşımına uğradı,tr-TR
+Đã hủy,İptal Edildi,tr-TR
+Đã nhận gói tin nhắn với chữ kí bị thiếu hoặc không hợp lệ.,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+Đã nhận được trạng thái không được yêu cầu,İstenmeyen durum alındı,tr-TR
+Đã phát hiện một tin nhắn trò chuyện bị thiếu hoặc đã sắp xếp lại từ máy chủ,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+Đã tìm thấy máy chủ mới: %s,Yeni sunucu bulundu: %s,tr-TR
+Đã tắt,Kapalı,tr-TR
+Đã xử lí yêu cầu trạng thái,Durum isteği işlendi,tr-TR
+"Địa chỉ IP của bạn đã bị cấm khỏi máy chủ này.
+Lí do: %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+Địa chỉ máy chủ,Sunucu Adresi,tr-TR
+Đừng hiển thị lại màn hình này nữa,Bu ekranı bir daha gösterme,tr-TR
+Đừng thông báo lại cho quy tắc ứng xử này,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+Адрес сервера,Sunucu Adresi,tr-TR
+Анонимный игрок,Anonim Oyuncu,tr-TR
+Больше не показывать,Bu ekranı bir daha gösterme,tr-TR
+Вам заблокирована сетевая игра,Çevrim içi oynamanız yasaklandı,tr-TR
+Вас нет в белом списке этого сервера!,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+Ваш IP-адрес заблокирован на этом сервере,IP adresiniz bu sunucudan yasaklandı,tr-TR
+"Ваш IP-адрес заблокирован на этом сервере.
+Причина: %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+Версия сервера: %s,Sunucu sürümü %s,tr-TR
+Включены,Açık,tr-TR
+Время подключения истекло,Bağlantı isteğinin süresi doldu,tr-TR
+Встать с кровати,Yataktan Ayrıl,tr-TR
+Вы были исключены оператором,Bir yönetici tarafından atıldın,tr-TR
+Вы действительно хотите удалить этот сервер?,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+Вы заблокированы на этом сервере,Bu sunucudan yasaklandınız,tr-TR
+"Вы заблокированы на этом сервере.
+Причина: %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+Вы исключены за превышение частоты передачи пакетов,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+Вы исключены за спам,Spam nedeniyle atıldın,tr-TR
+"Вы пытаетесь выполнить команду для отправки сообщений от вашего имени.
+Её можно выполнить только из чата.
+Команда: %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"Вы пытаетесь выполнить команду, которая требует права администратора.
+Это может негативно повлиять на вашу игру.
+Продолжить?
+Команда: %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+"Вы пытаетесь выполнить нераспознанную или недопустимую команду.
+Вы уверены?
+Команда: %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+Вы слишком долго бездействовали!,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+Вы уже авторизованы где-то ещё,Başka bir konumdan oturum açtınız,tr-TR
+Выполнить команду,Komutu Çalıştır,tr-TR
+Выполняется вход...,Giriş yapılıyor...,tr-TR
+Выполняется запрос состояния,Durum isteği işlendi,tr-TR
+Выход,Çıkılıyor,tr-TR
+Готово,Bitti,tr-TR
+Добавить,Sunucu Ekle,tr-TR
+Добавление сервера,Sunucu Ekle,tr-TR
+Заблокирован оператором.,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+Завершено,Bitti,tr-TR
+Загрузить и установить его автомагически?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+Загрузка статистики...,İstatistikler alınıyor...,tr-TR
+Загрузка территории...,Arazi yükleniyor...,tr-TR
+Задержка %s миллисекунд,Gecikme %s milisaniye,tr-TR
+Запрашивать,Sor,tr-TR
+Игнорирование запроса статуса,Durum isteği yok sayılıyor,tr-TR
+Игрок недоступен,Oyuncuya ulaşılamıyor,tr-TR
+Игроки в сети: %s,Çevrim içi oyuncular: %s,tr-TR
+Информация о сервере,Sunucu Bilgilerini Düzenle,tr-TR
+Информация о сервере,Sunucu Bilgisini Düzenle,tr-TR
+Истёк срок действия открытого ключа профиля. Проверьте правильность системного времени и попробуйте перезапустить игру.,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+Клиент несовместим! Используйте %s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+Кодекс поведения сервера,Sunucu Davranış Kuralları,tr-TR
+Конец потока,Bağlantı sonu,tr-TR
+Копировать в окно чата,Sohbeti Ekrana Kopyala,tr-TR
+"Любые возможности, использующие пользовательские ресурсы, могут работать неправильно","Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+Мир в локальной сети,Yerel Ağ Dünyası,tr-TR
+На этом сервере полёты отключены,Uçma bu sunucuda açık değil,tr-TR
+Наборы ресурсов,Sunucu Kaynak Paketleri,tr-TR
+Название сервера,Sunucu Adı,tr-TR
+Найден новый сервер: %s,Yeni sunucu bulundu: %s,tr-TR
+Нарушена очерёдность пакетов чата. Проверьте настройки системного времени.,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+Настроить,Düzenle,tr-TR
+Настройки для других игроков,Diğer Oyuncular için Ayarlar,tr-TR
+Не уведомлять об этом кодексе поведения,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+Не удалось доставить сообщение в чат; проверьте журнал сервера: %s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+Не удалось подключиться к игроку,Oyuncuya bağlanılamadı,tr-TR
+Не удалось подключиться к серверу,Sunucuya bağlanılamadı,tr-TR
+Не удалось получить название узла,Sunucu adı çözümlenemiyor,tr-TR
+Не удалось проверить имя пользователя!,Kullanıcı adı doğrulanamadı!,tr-TR
+"Неверная подпись открытого ключа профиля.
+Попробуйте перезапустить игру.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+Неверные данные игрока,Geçersiz oyuncu verisi,tr-TR
+Невозможно подключиться к серверу,Sunucuya bağlanılamıyor,tr-TR
+Невозможно проверить сообщения чата,Sohbet iletileri doğrulanamıyor,tr-TR
+Недействительная сессия (попробуйте перезапустить игру и лаунчер),Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+"Недействительный порт.
+Оставьте поле пустым или введите число от %s до %s.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Недействительный порт.
+Оставьте поле пустым или введите число от 1024 до 65535.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+Недопустимые символы в чате,Sohbette yasaklı karakterler kullanıldı,tr-TR
+Неизвестный сервер,Bilinmeyen sunucu,tr-TR
+Непредвиденная ошибка при настройке,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+Несовместимая версия!,Uyumsuz sürüm!,tr-TR
+Новости,Haberler,tr-TR
+Обнаружено пропущенное или внеочередное сообщение от сервера,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+Обновить,Yenile,tr-TR
+Обратная связь,Geri Bildirim,tr-TR
+Объявления,Duyurular,tr-TR
+Онлайн,Çevrim içi,tr-TR
+Описание: %s,Günün iletisi: %s,tr-TR
+Отказ от использования набора ресурсов приведёт к отключению от сервера.,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+Отключение,Bağlantı kesildi,tr-TR
+Отключены,Kapalı,tr-TR
+Открыть мир для сети,Yerel Ağ Dünyası Başlat,tr-TR
+Отменено,İptal edildi,tr-TR
+Ошибка входа: %s,Giriş yapılamadı: %s,tr-TR
+Ошибка подключения к новому серверу,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+"Ошибка подключения.
+Повторите попытку позже.","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+Ошибка проверки сообщения в чате,Sohbet iletisi doğrulama başarısız,tr-TR
+Ошибка сетевого протокола,Ağ Protokolü Hatası,tr-TR
+Перенастройка...,Yeniden Yapılandırılıyor...,tr-TR
+Перенесён на другой сервер,Başka bir sunucuya aktarıldı,tr-TR
+Переход на новый сервер...,Yeni sunucuya aktarılıyor...,tr-TR
+По адресу,Doğrudan Bağlantı,tr-TR
+Поддержка,Destek,tr-TR
+Подключение к миру...,Dünyaya katılınıyor...,tr-TR
+Подключение к серверу...,Sunucuya bağlanılıyor...,tr-TR
+Подключиться,Sunucuya Katıl,tr-TR
+Подтвердить выполнение команды,Komut Çalıştırılması Doğrulama,tr-TR
+Поиск миров в локальной сети...,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+Получен неверный пакет перемещения игрока,Geçersiz oyuncu hareket paketi alındı,tr-TR
+Получен неверный пакет перемещения транспорта,Geçersiz taşıt hareket paketi alındı,tr-TR
+Получен неожиданный статус,İstenmeyen durum alındı,tr-TR
+"Получен неполный набор тегов от сервера.
+Свяжитесь с оператором сервера.","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+Получен пакет чата с отсутствующей или некорректной цифровой подписью.,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+Получены неверные данные от клиента,İstemciden beklenmeyen özel veri alındı,tr-TR
+Попытка взаимодействия с неверной сущностью,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+Порт,Bağlantı Noktası Numarası,tr-TR
+"Порт недоступен.
+Оставьте поле пустым или введите другое число в диапазоне от %s до %s.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"Порт недоступен.
+Оставьте поле пустым или введите другое число в диапазоне от 1024 до 65535.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+Правила сообщества,Topluluk Kuralları,tr-TR
+Превышено время ожидания,Zaman aşımına uğradı,tr-TR
+"Предупреждение. Сетевая игра, предложенная сторонними серверами, не является собственностью, не управляется и не модерируется Mojang Studios или Microsoft. Во время сетевой игры вы можете столкнуться с немодерируемыми сообщениями в чате или иными видами пользовательского контента, который может подходить не всем игрокам.",Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+Предупреждение: игра на сторонних серверах,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+Применение набора ресурсов,Kaynak paketi uygulanıyor,tr-TR
+Сайт,İnternet Sitesi,tr-TR
+Сервер Minecraft,Minecraft Sunucusu,tr-TR
+Сервер закрыт,Sunucu kapatıldı,tr-TR
+Сервер не принимает сторонних игроков,Bu sunucu aktarımları kabul etmiyor,tr-TR
+Сервер отправил неверный пакет,Sunucu geçersiz bir paket gönderdi,tr-TR
+Сервер полон!,Sunucu dolu!,tr-TR
+Сервер предлагает использовать свой набор ресурсов.,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+Сервер требует принятия кодекса поведения,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+Сервер требует специальный набор ресурсов,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+Серверный набор ресурсов не применён,Sunucu kaynak paketi uygulanamadı,tr-TR
+Серверы аутентификации недоступны. Попробуйте снова.,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+Серверы аутентификации отключены. Повторите попытку позже. Извините!,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+Сетевая игра,Çok Oyunculu Oyna,tr-TR
+Сетевая игра отключена. Проверьте настройки своего аккаунта Microsoft.,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+Слишком долгое подключение,Oturum açmak çok uzun sürdü,tr-TR
+Слишком много неподтверждённых сообщений,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+Соединение потеряно,Bağlantı koptu,tr-TR
+Соединение прервано,İptal Edildi,tr-TR
+Соединение...,Anlaşma yapılıyor...,tr-TR
+Соединение...,Bağlantı sınanıyor...,tr-TR
+"Сообщения, отправляемые в чат этого сервера, могут быть изменены и не отражать реальное сообщение",Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+Сообщество,Topluluk,tr-TR
+Сообщить об ошибке сервера,Sunucu Hatası Bildir,tr-TR
+Социальные взаимодействия доступны только в сетевой игре,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+Статус,Durum,tr-TR
+Удалить,Sil,tr-TR
+Установка соединения...,Bağlantı kuruluyor...,tr-TR
+Устарел,Eski,tr-TR
+Форумы,Forumlar,tr-TR
+Шифрование...,Şifreleniyor...,tr-TR
+Это имя уже занято,Bu ad zaten alınmış,tr-TR
+Этот сервер требует использования специального набора ресурсов.,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+การตรวจสอบความถูกต้องของข้อความแชตล้มเหลว,Sohbet iletisi doğrulama başarısız,tr-TR
+การตั้งค่าสำหรับผู้เล่นคนอื่น,Diğer Oyuncular için Ayarlar,tr-TR
+การบินไม่ได้เปิดใช้งานบนเซิร์ฟเวอร์นี้,Uçma bu sunucuda açık değil,tr-TR
+การปฏิเสธรีซอร์ซแพ็กที่กำหนดเองนี้จะตัดการเชื่อมต่อคุณจากเซิร์ฟเวอร์นี้,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+การรับส่งข้อมูลขาดตอน,Bağlantı sonu,tr-TR
+การเชื่อมต่อล้มเหลวขณะกำลังโอนย้ายไปยังเซิร์ฟเวอร์,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+การเชื่อมต่อสูญหาย,Bağlantı koptu,tr-TR
+การเชื่อมต่อโดยตรง,Doğrudan Bağlantı,tr-TR
+กำลังดึงข้อมูลทางสถิติ...,İstatistikler alınıyor...,tr-TR
+กำลังตรวจสอบการเชื่อมต่อ...,Bağlantı sınanıyor...,tr-TR
+กำลังต่อรอง...,Anlaşma yapılıyor...,tr-TR
+กำลังปรับแต่งใหม่...,Yeniden Yapılandırılıyor...,tr-TR
+กำลังปรับใช้รีซอร์ซแพ็ก,Kaynak paketi uygulanıyor,tr-TR
+กำลังสร้างการเชื่อมต่อ...,Bağlantı kuruluyor...,tr-TR
+กำลังสแกนหาเกมบนเครือข่ายท้องถิ่นของคุณ,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+กำลังออก,Çıkılıyor,tr-TR
+กำลังเข้ารหัส...,Şifreleniyor...,tr-TR
+กำลังเข้าร่วมโลก...,Dünyaya katılınıyor...,tr-TR
+กำลังเข้าสู่ระบบ...,Giriş yapılıyor...,tr-TR
+กำลังเชื่อมต่อไปยังเซิร์ฟเวอร์...,Sunucuya bağlanılıyor...,tr-TR
+กำลังโหลดภูมิประเทศ...,Arazi yükleniyor...,tr-TR
+กำลังโอนย้ายไปยังเซิร์ฟเวอร์ใหม่...,Yeni sunucuya aktarılıyor...,tr-TR
+ขออภัย! เซิร์ฟเวอร์ระบบยืนยันตัวตนไม่ทำงาน กรุณาลองใหม่อีกครั้งในภายหลัง,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+ข่าวสาร,Haberler,tr-TR
+ข้อความที่ส่งบนเซิร์ฟเวอร์นี้อาจมีการดัดแปรและอาจไม่สะท้อนให้เห็นถึงข้อความต้นฉบับได้,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+ข้อความประจำวัน: %s,Günün iletisi: %s,tr-TR
+ข้อผิดพลาดโพรโทคอลเครือข่าย,Ağ Protokolü Hatası,tr-TR
+ข้อมูลผู้เล่นไม่ถูกต้อง,Geçersiz oyuncu verisi,tr-TR
+ข้อเสนอแนะ,Geri Bildirim,tr-TR
+คัดลอกไปยังหน้าจอแชต,Sohbeti Ekrana Kopyala,tr-TR
+คำขอสถานะได้รับการจัดการแล้ว,Durum isteği işlendi,tr-TR
+คำขอเชื่อมต่อหมดเวลา,Bağlantı isteğinin süresi doldu,tr-TR
+คำเตือน: การเล่นออนไลน์ภายนอก,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+คำเตือน: การเล่นออนไลน์เป็นการใช้เซิร์ฟเวอร์ภายนอกที่ไม่ได้อยู่ภายใต้การดำเนินการหรือเป็นเจ้าของโดย Mojang หรือ Microsoft ดังนั้นในระหว่างการเล่นออนไลน์คุณอาจพบข้อความที่ปราศจากการคัดกรองหรือเนื้อหาที่สร้างจากผู้เล่นคนอื่น ๆ ซึ่งอาจไม่เหมาะสำหรับทุกคน,Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+คีย์สาธารณะของโปรไฟล์หมดอายุ โปรดตรวจสอบว่าได้ซิงค์เวลาระบบของคุณแล้ว และลองเริ่มเกมใหม่อีกครั้ง,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+"คุณกำลังพยายามดำเนินการคำสั่งที่จะส่งข้อความแชตโดยใช้ชื่อของคุณ
+การกระทำนี้สามารถรันได้จากหน้าจอแชตเท่านั้น
+คำสั่ง: %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"คุณกำลังพยายามดำเนินการคำสั่งที่จำเป็นต้องใช้สิทธิ์ระดับสูง
+สิ่งนี้อาจส่งผลเชิงลบต่อเกมของคุณ
+คุณแน่ใจหรือไม่?
+คำสั่ง: %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+"คุณกำลังพยายามดำเนินการคำสั่งที่ไม่รู้จักหรือไม่ถูกต้อง
+คุณแน่ใจหรือไม่?
+คำสั่ง: %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+คุณต้องการให้ดาวน์โหลดและติดตั้งโดยอัตโนมัติไหม?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+คุณถูกแบน IP จากเซิร์ฟเวอร์นี้,IP adresiniz bu sunucudan yasaklandı,tr-TR
+คุณถูกแบนจากการเล่นแบบออนไลน์,Çevrim içi oynamanız yasaklandı,tr-TR
+คุณถูกแบนจากเซิร์ฟเวอร์นี้,Bu sunucudan yasaklandınız,tr-TR
+"คุณถูกแบนจากเซิร์ฟเวอร์นี้
+เหตุผล: %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+คุณอยู่เฉย ๆ นานเกินไป!,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+คุณเข้าสู่ระบบจากที่อื่น,Başka bir konumdan oturum açtınız,tr-TR
+คุณแน่ใจหรือไม่ว่าคุณต้องการลบเซิร์ฟเวอร์นี้?,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+คุณไม่ได้อยู่ในบัญชีขาวบนเซิร์ฟเวอร์นี้!,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+ชื่อนี้ถูกใช้ไปแล้ว,Bu ad zaten alınmış,tr-TR
+ชื่อเซิร์ฟเวอร์,Sunucu Adı,tr-TR
+ชุมชน,Topluluk,tr-TR
+ตรวจพบข้อความแชตที่สูญหายหรือเรียงลำดับใหม่จากเซิร์ฟเวอร์,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+ตัดการเชื่อมต่อแล้ว,Bağlantı kesildi,tr-TR
+ถามก่อน,Sor,tr-TR
+ถูกยกเลิก,İptal Edildi,tr-TR
+ถูกเตะเนื่องจากการสแปม,Spam nedeniyle atıldın,tr-TR
+ถูกเตะเนื่องจากอัตราแพ็กเก็ตเกินขีดจำกัด,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+ถูกเตะโดยผู้ควบคุม,Bir yönetici tarafından atıldın,tr-TR
+ถูกแบนโดยผู้ควบคุม,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+"ที่อยู่ IP ของคุณถูกแบนจากเซิร์ฟเวอร์นี้
+เหตุผล: %s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+ที่อยู่เซิร์ฟเวอร์,Sunucu Adresi,tr-TR
+ปฏิสัมพันธ์ทางสังคมพร้อมใช้งานในโลกผู้เล่นหลายคนเท่านั้น,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+ประกาศ,Duyurular,tr-TR
+ปิง %s มิลลิวินาที,Gecikme %s milisaniye,tr-TR
+ปิดใช้งาน,Kapalı,tr-TR
+ผู้เล่นที่ออนไลน์: %s,Çevrim içi oyuncular: %s,tr-TR
+ผู้เล่นไม่ระบุชื่อ,Anonim Oyuncu,tr-TR
+พบเซิร์ฟเวอร์ใหม่: %s,Yeni sunucu bulundu: %s,tr-TR
+พยายามโจมตีเอนทิตี้อย่างไม่ถูกต้อง,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+"พอร์ตไม่ถูกต้อง
+เว้นช่องแก้ไขให้ว่างไว้หรือป้อนตัวเลขระหว่าง %s ถึง %s","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"พอร์ตไม่ถูกต้อง
+เว้นช่องแก้ไขให้ว่างไว้หรือป้อนตัวเลขระหว่าง 1024 ถึง 65535","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"พอร์ตไม่พร้อมใช้งาน
+เว้นช่องแก้ไขให้ว่างไว้หรือป้อนตัวเลขอื่นระหว่าง %s ถึง %s","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"พอร์ตไม่พร้อมใช้งาน
+เว้นช่องแก้ไขให้ว่างไว้หรือป้อนตัวเลขอื่นระหว่าง 1024 ถึง 65535","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+ฟอรัม,Forumlar,tr-TR
+ฟังก์ชันการทำงานใด ๆ ที่ต้องใช้รีซอร์ซแพ็กแบบกำหนดเองอาจไม่ทำงานตามที่คาดไว้,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+มีข้อความแชตที่ไม่สามารถยืนยันได้มากเกินไป,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+มีข้อมูลแบบปรับแต่งเองที่ไม่คาดคิดจากไคลเอนต์,İstemciden beklenmeyen özel veri alındı,tr-TR
+มีผู้เล่น %s คนจาก %s คนที่ออนไลน์,%s/%s oyuncu çevrim içi,tr-TR
+ยกเลิกแล้ว,İptal edildi,tr-TR
+ยืนยันการดำเนินการคำสั่ง,Komut Çalıştırılması Doğrulama,tr-TR
+รันคำสั่ง,Komutu Çalıştır,tr-TR
+รายงานจุดบกพร่องเซิร์ฟเวอร์,Sunucu Hatası Bildir,tr-TR
+รีซอร์ซแพ็กเซิร์ฟเวอร์,Sunucu Kaynak Paketleri,tr-TR
+รีซอร์ซแพ็กเซิร์ฟเวอร์ไม่สามารถใช้งานได้,Sunucu kaynak paketi uygulanamadı,tr-TR
+รีเฟรช,Yenile,tr-TR
+ลบ,Sil,tr-TR
+ละเว้นคำขอสถานะ,Durum isteği yok sayılıyor,tr-TR
+"ลายเซ็นสำหรับคีย์สาธารณะของโปรไฟล์ไม่ถูกต้อง
+ลองรีสตาร์ตเกมของคุณ","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+ลุกออกจากเตียง,Yataktan Ayrıl,tr-TR
+ล้มเหลวในการทวนสอบชื่อผู้ใช้!,Kullanıcı adı doğrulanamadı!,tr-TR
+ล้มเหลวในการเข้าสู่ระบบ: %s,Giriş yapılamadı: %s,tr-TR
+สถานะ,Durum,tr-TR
+สนับสนุน,Destek,tr-TR
+หมดเวลาการเชื่อมต่อ,Zaman aşımına uğradı,tr-TR
+หมายเลขพอร์ต,Bağlantı Noktası Numarası,tr-TR
+หลักเกณฑ์ของชุมชน,Topluluk Kuralları,tr-TR
+ออนไลน์,Çevrim içi,tr-TR
+อักขระผิดกฎในแชต,Sohbette yasaklı karakterler kullanıldı,tr-TR
+เกิดข้อผิดพลาดที่ไม่คาดคิดระหว่างการปรับแต่ง,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+เก่า,Eski,tr-TR
+เข้าร่วมเซิร์ฟเวอร์,Sunucuya Katıl,tr-TR
+"เซตของแท็กที่ได้รับจากเซิร์ฟเวอร์ไม่สมบูรณ์
+โปรดติดต่อผู้ควบคุมเซิร์ฟเวอร์","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+เซสชันไม่ถูกต้อง (ลองรีสตาร์ตเกมและลันเชอร์ของคุณ),Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+เซิร์ฟเวอร์ Minecraft,Minecraft Sunucusu,tr-TR
+เซิร์ฟเวอร์ต้องการให้ยอมรับแนวทางปฏิบัติ,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+เซิร์ฟเวอร์นี้ต้องใช้รีซอร์ซแพ็กที่กำหนดเอง,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+เซิร์ฟเวอร์นี้ต้องใช้รีซอร์ซแพ็กที่กำหนดเอง,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+เซิร์ฟเวอร์นี้แนะนำให้ใช้รีซอร์ซแพ็กที่กำหนดเอง,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+เซิร์ฟเวอร์นี้ไม่ยอมรับการโอนย้าย,Bu sunucu aktarımları kabul etmiyor,tr-TR
+เซิร์ฟเวอร์ปิดแล้ว,Sunucu kapatıldı,tr-TR
+เซิร์ฟเวอร์ส่งแพ็กเก็ตที่ไม่ถูกต้อง,Sunucu geçersiz bir paket gönderdi,tr-TR
+เซิร์ฟเวอร์เต็มแล้ว!,Sunucu dolu!,tr-TR
+เปิดใช้งาน,Açık,tr-TR
+เพิ่มเซิร์ฟเวอร์,Sunucu Ekle,tr-TR
+เริ่มโลก LAN,Yerel Ağ Dünyası Başlat,tr-TR
+เล่นแบบผู้เล่นหลายคน,Çok Oyunculu Oyna,tr-TR
+เวอร์ชันเข้ากันไม่ได้!,Uyumsuz sürüm!,tr-TR
+เวอร์ชันเซิร์ฟเวอร์: %s,Sunucu sürümü %s,tr-TR
+เว็บไซต์,İnternet Sitesi,tr-TR
+เสร็จสิ้น,Bitti,tr-TR
+แก้ไข,Düzenle,tr-TR
+แก้ไขข้อมูลเซิร์ฟเวอร์,Sunucu Bilgilerini Düzenle,tr-TR
+แก้ไขข้อมูลเซิร์ฟเวอร์,Sunucu Bilgisini Düzenle,tr-TR
+แนวทางปฏิบัติของเซิร์ฟเวอร์,Sunucu Davranış Kuralları,tr-TR
+โลก LAN,Yerel Ağ Dünyası,tr-TR
+โหมดผู้เล่นหลายคนถูกปิดใช้งาน โปรดตรวจสอบการตั้งค่าบัญชี Microsoft ของคุณ,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+โอนย้ายไปอีกเซิร์ฟเวอร์แล้ว,Başka bir sunucuya aktarıldı,tr-TR
+ใช้เวลานานเกินไปในการเข้าสู่ระบบ,Oturum açmak çok uzun sürdü,tr-TR
+ไคลเอนต์เข้ากันไม่ได้! โปรดใช้ %s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+ได้รับสถานะที่ไม่ได้ร้องขอ,İstenmeyen durum alındı,tr-TR
+ได้รับแพ็กเก็ตการเคลื่อนที่ของผู้เล่นที่ไม่ถูกต้อง,Geçersiz oyuncu hareket paketi alındı,tr-TR
+ได้รับแพ็กเก็ตการเคลื่อนที่ของยานพาหนะที่ไม่ถูกต้อง,Geçersiz taşıt hareket paketi alındı,tr-TR
+ได้รับแพ็กเก็ตแชตที่ลายเซ็นสูญหายหรือไม่ถูกต้อง,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+ได้รับแพ็กเก็ตแชตที่ไม่เป็นลำดับ เวลาระบบของคุณเปลี่ยนไปหรือไม่?,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+ไม่ต้องแจ้งเตือนแนวทางปฏิบัตินี้อีก,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+ไม่ทราบโฮสต์,Bilinmeyen sunucu,tr-TR
+ไม่พบชื่อโฮสต์,Sunucu adı çözümlenemiyor,tr-TR
+ไม่สามารถยืนยันข้อความแชตได้,Sohbet iletileri doğrulanamıyor,tr-TR
+ไม่สามารถส่งข้อความแชต โปรดตรวจสอบบันทึกเซิร์ฟเวอร์: %s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+ไม่สามารถเข้าถึงผู้เล่น,Oyuncuya ulaşılamıyor,tr-TR
+ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ระบบยืนยันตัวตนได้ โปรดลองใหม่อีกครั้ง,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+"ไม่สามารถเชื่อมต่อได้ในขณะนี้
+ลองใหม่อีกครั้งในภายหลัง","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+ไม่สามารถเชื่อมต่อไปยังผู้เล่น,Oyuncuya bağlanılamadı,tr-TR
+ไม่สามารถเชื่อมต่อไปยังเซิร์ฟเวอร์,Sunucuya bağlanılamıyor,tr-TR
+ไม่สามารถเชื่อมต่อไปยังเซิร์ฟเวอร์ได้,Sunucuya bağlanılamadı,tr-TR
+ไม่แสดงหน้านี้อีก,Bu ekranı bir daha gösterme,tr-TR
+‚%s‘ wird für immer verloren sein! (Eine lange Zeit!),'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+“%s”将会永久消失！（真的很久！）,'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+… und %s weitere …,... ve %s daha ...,tr-TR
+…その他%s人…,... ve %s daha ...,tr-TR
+…及其他%s名玩家…,... ve %s daha ...,tr-TR
+「%s」は完全に削除され、二度と元に戻せません！,'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+「%s」將會永遠消失！（非常久！）,'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),tr-TR
+"あなたのIPアドレスはこのサーバーからアクセスを禁止されています。
+理由：%s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+あなたのIPアドレスはこのサーバーへのアクセスを禁止されています,IP adresiniz bu sunucudan yasaklandı,tr-TR
+"あなたの名前でチャットメッセージを送信するコマンドを実行しようとしています。
+このコマンドはチャット欄からしか実行できません。
+コマンド：%s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+あなたはこのサーバーのホワイトリストに含まれていません,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+あなたは別の場所で既にログインしています,Başka bir konumdan oturum açtınız,tr-TR
+お知らせ,Duyurular,tr-TR
+このカスタムリソースパックを拒否すると、このサーバーから切断されます。,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+このサーバーでは、カスタムリソースパックの利用が必要です。,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+このサーバーでは、カスタムリソースパックの利用をお勧めします。,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+このサーバーではカスタムリソースパックが必要です,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+このサーバーでは行動規範に同意する必要があります,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+このサーバーでは飛行は有効ではありません,Uçma bu sunucuda açık değil,tr-TR
+このサーバーで送信されたメッセージは変更される場合があり、元のメッセージを反映していない可能性があります。,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+このサーバーへのアクセスは禁止されています,Bu sunucudan yasaklandınız,tr-TR
+"このサーバーへのアクセスは禁止されています。
+理由：%s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+このサーバーを削除しますか？,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+"このポートは利用できません。
+編集ボックスを空にするか、%1$sから%2$sまでの別の数値を入力してください。","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"このポートは利用できません。
+編集ボックスを空にするか、%1$sから%2$sまでの数値を入力してください。","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"このポートは利用できません。
+編集ボックスを空にするか、1024から65535までの別の数値を入力してください。","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+この画面を再度表示しない,Bu ekranı bir daha gösterme,tr-TR
+この行動規範について二度と通知しない,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+その名前は既に使用されています,Bu ad zaten alınmış,tr-TR
+ウェブサイト,İnternet Sitesi,tr-TR
+オンライン,Çevrim içi,tr-TR
+オンラインプレイが禁止されています,Çevrim içi oynamanız yasaklandı,tr-TR
+カスタムリソースパックが必要になる機能は、正常に機能しない可能性があります,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+キャンセルしました,İptal edildi,tr-TR
+クライアントからの予期しないカスタムデータ,İstemciden beklenmeyen özel veri alındı,tr-TR
+クライアントのバージョンが対応していません。%sを使用してください,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+コマンドの実行確認,Komut Çalıştırılması Doğrulama,tr-TR
+コマンドを実行,Komutu Çalıştır,tr-TR
+コミュニティ,Topluluk,tr-TR
+コミュニティガイドライン,Topluluk Kuralları,tr-TR
+サポート,Destek,tr-TR
+"サーバーから不完全なタグのセットが受信されました。
+サーバーの管理者にお問い合わせください。","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+サーバーから欠けていた、あるいは再送信されたチャットメッセージを検出しました,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+サーバーが無効なパケットを送信しました,Sunucu geçersiz bir paket gönderdi,tr-TR
+サーバーが転送を受け付けていません,Bu sunucu aktarımları kabul etmiyor,tr-TR
+サーバーが閉鎖されました,Sunucu kapatıldı,tr-TR
+サーバーに接続,Sunucuya Katıl,tr-TR
+サーバーに接続できません,Sunucuya bağlanılamıyor,tr-TR
+サーバーに接続中…,Sunucuya bağlanılıyor...,tr-TR
+サーバーのバグを報告,Sunucu Hatası Bildir,tr-TR
+サーバーのバージョンは%sです,Sunucu sürümü %s,tr-TR
+サーバーの行動規範,Sunucu Davranış Kuralları,tr-TR
+サーバーは満員です,Sunucu dolu!,tr-TR
+サーバーへの接続に失敗しました,Sunucuya bağlanılamadı,tr-TR
+サーバーへの転送中に接続が切断されました,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+サーバーを追加,Sunucu Ekle,tr-TR
+サーバーアドレス,Sunucu Adresi,tr-TR
+サーバーリソースパック,Sunucu Kaynak Paketleri,tr-TR
+サーバーリソースパックを適用できませんでした,Sunucu kaynak paketi uygulanamadı,tr-TR
+サーバー名,Sunucu Adı,tr-TR
+サーバー情報の編集,Sunucu Bilgilerini Düzenle,tr-TR
+サーバー情報の編集,Sunucu Bilgisini Düzenle,tr-TR
+ステータスのリクエストが処理されました,Durum isteği işlendi,tr-TR
+ステータスのリクエストの無視,Durum isteği yok sayılıyor,tr-TR
+スパム行為のために退出させられました,Spam nedeniyle atıldın,tr-TR
+タイムアウトしました,Zaman aşımına uğradı,tr-TR
+ダイレクト接続,Doğrudan Bağlantı,tr-TR
+チャットに使用できない文字がありました,Sohbette yasaklı karakterler kullanıldı,tr-TR
+チャットメッセージの安全性の確認ができません,Sohbet iletileri doğrulanamıyor,tr-TR
+チャットメッセージの検証に失敗しました,Sohbet iletisi doğrulama başarısız,tr-TR
+チャットメッセージを配信できません。サーバーのログを確認してください：%s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+チャット欄にコピー,Sohbeti Ekrana Kopyala,tr-TR
+ニュース,Haberler,tr-TR
+ネットワークプロトコルのエラーが発生しました,Ağ Protokolü Hatası,tr-TR
+バージョンが対応していません！,Uyumsuz sürüm!,tr-TR
+パケット量が規定値を超えたため退出させられました,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+フィードバック,Geri Bildirim,tr-TR
+フォーラム,Forumlar,tr-TR
+プレイヤーに到達できません,Oyuncuya ulaşılamıyor,tr-TR
+プレイヤーに接続できませんでした,Oyuncuya bağlanılamadı,tr-TR
+プレイヤーの不正な動きを検知しました,Geçersiz oyuncu hareket paketi alındı,tr-TR
+プロフィール公開鍵が失効しています。システム時刻が同期していることを確認し、ゲームを再起動してみてください。,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+ベッドから出る,Yataktan Ayrıl,tr-TR
+ホスト名が見つかりません,Sunucu adı çözümlenemiyor,tr-TR
+ポート番号,Bağlantı Noktası Numarası,tr-TR
+マルチプレイが無効になっています。Microsoftアカウントの設定をご確認ください。,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+マルチプレイで遊ぶ,Çok Oyunculu Oyna,tr-TR
+ユーザー名の検証に失敗しました,Kullanıcı adı doğrulanamadı!,tr-TR
+リクエストされていないステータスを受信しました,İstenmeyen durum alındı,tr-TR
+リソースパックを適用中,Kaynak paketi uygulanıyor,tr-TR
+ログインにかかる時間が長すぎました,Oturum açmak çok uzun sürdü,tr-TR
+ログインに失敗しました：%s,Giriş yapılamadı: %s,tr-TR
+ログイン中…,Giriş yapılıyor...,tr-TR
+ワールドに接続中…,Dünyaya katılınıyor...,tr-TR
+不再显示此屏幕,Bu ekranı bir daha gösterme,tr-TR
+不再通知本行為準則,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+不再通知此行为准则,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+不再顯示此畫面,Bu ekranı bir daha gösterme,tr-TR
+不明なホストです,Bilinmeyen sunucu,tr-TR
+中断されました,İptal Edildi,tr-TR
+乗り物の不正な動きを検知しました,Geçersiz taşıt hareket paketi alındı,tr-TR
+从客户端收到未知的自定义数据,İstemciden beklenmeyen özel veri alındı,tr-TR
+"从该服务器接收到了不完整标签集。
+请联系服务器管理员。","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+他のプレイヤーのための設定,Diğer Oyuncular için Ayarlar,tr-TR
+任何需要自訂資源包的功能可能無法依預期執行,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+伺服器不接受轉移,Bu sunucu aktarımları kabul etmiyor,tr-TR
+伺服器位址,Sunucu Adresi,tr-TR
+伺服器傳送了無效的封包,Sunucu geçersiz bir paket gönderdi,tr-TR
+伺服器名稱,Sunucu Adı,tr-TR
+伺服器已滿！,Sunucu dolu!,tr-TR
+伺服器已關閉,Sunucu kapatıldı,tr-TR
+伺服器版本：%s,Sunucu sürümü %s,tr-TR
+伺服器行為準則,Sunucu Davranış Kuralları,tr-TR
+伺服器要求使用其自訂的資源包,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+伺服器要求接受行為準則,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+伺服器訊息：%s,Günün iletisi: %s,tr-TR
+伺服器資源包,Sunucu Kaynak Paketleri,tr-TR
+你不在此服务器的白名单中！,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+你不在這個伺服器的白名單中！,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+"你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+"你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+"你尝试执行的命令将使用你的名称发送聊天消息。
+该命令只能在聊天屏幕执行。
+命令：%s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+"你尝试执行的命令无法识别或无效。
+确定要执行吗？
+命令：%s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+"你尝试执行的命令需要较高的权限。
+这可能会对游戏产生负面影响。
+确定要执行吗？
+命令：%s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+你已在异地登录,Başka bir konumdan oturum açtınız,tr-TR
+你已被此服务器封禁,Bu sunucudan yasaklandınız,tr-TR
+"你已被此服务器封禁。
+原因：%s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+你已被禁止进行在线游戏,Çevrim içi oynamanız yasaklandı,tr-TR
+你想要自动下载和安装它吗？,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+你的IP地址已被此服务器封禁,IP adresiniz bu sunucudan yasaklandı,tr-TR
+"你的IP已被此服务器封禁。
+原因：%s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+你的未操作时间过长！,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+你确定要删除此服务器吗？,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+你確定要移除這個伺服器嗎？,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+偵測到來自伺服器已遺失或已重新排序的聊天訊息,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+公告,Duyurular,tr-TR
+再構成中…,Yeniden Yapılandırılıyor...,tr-TR
+切断されました,Bağlantı kesildi,tr-TR
+创建局域网世界,Yerel Ağ Dünyası Başlat,tr-TR
+删除,Sil,tr-TR
+別のサーバーに転送しました,Başka bir sunucuya aktarıldı,tr-TR
+刪除,Sil,tr-TR
+刷新,Yenile,tr-TR
+削除,Sil,tr-TR
+加入世界中…,Dünyaya katılınıyor...,tr-TR
+加入伺服器,Sunucuya Katıl,tr-TR
+加入服务器,Sunucuya Katıl,tr-TR
+加密中...,Şifreleniyor...,tr-TR
+加载地形中…,Arazi yükleniyor...,tr-TR
+匿名のプレイヤー,Anonim Oyuncu,tr-TR
+匿名玩家,Anonim Oyuncu,tr-TR
+區網世界,Yerel Ağ Dünyası,tr-TR
+協議中...,Anlaşma yapılıyor...,tr-TR
+反馈,Geri Bildirim,tr-TR
+发现新的服务器：%s,Yeni sunucu bulundu: %s,tr-TR
+受信したチャットパケットの署名が存在しないか、無効になっています,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+古いです,Eski,tr-TR
+启用,Açık,tr-TR
+回報伺服器錯誤,Sunucu Hatası Bildir,tr-TR
+因為濫發訊息被踢出,Spam nedeniyle atıldın,tr-TR
+在線玩家：%s,Çevrim içi oyuncular: %s,tr-TR
+在线,Çevrim içi,tr-TR
+在线玩家：%s,Çevrim içi oyuncular: %s,tr-TR
+地形情報を読み込み中…,Arazi yükleniyor...,tr-TR
+執行指令,Komutu Çalıştır,tr-TR
+复制到聊天屏幕,Sohbeti Ekrana Kopyala,tr-TR
+多人游戏,Çok Oyunculu Oyna,tr-TR
+多人游戏已被禁用，请检查你的Microsoft账户设置。,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+太多未經認可的聊天訊息,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+失去連線,Bağlantı koptu,tr-TR
+完了,Bitti,tr-TR
+完了しました,Bitti,tr-TR
+完成,Bitti,tr-TR
+客户端不兼容！请使用%s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+对其他玩家的设置,Diğer Oyuncular için Ayarlar,tr-TR
+對其他玩家的設定,Diğer Oyuncular için Ayarlar,tr-TR
+局域网世界,Yerel Ağ Dünyası,tr-TR
+已中止,İptal Edildi,tr-TR
+已停用,Kapalı,tr-TR
+已取消,İptal edildi,tr-TR
+已啟用,Açık,tr-TR
+已完成,Bitti,tr-TR
+已處理傳送的狀態請求,Durum isteği işlendi,tr-TR
+已被管理员封禁。,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+已被管理員封鎖。,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+已被管理員踢出,Bir yönetici tarafından atıldın,tr-TR
+已轉移至另一個伺服器,Başka bir sunucuya aktarıldı,tr-TR
+已转移至另一个服务器,Başka bir sunucuya aktarıldı,tr-TR
+延迟为%s毫秒,Gecikme %s milisaniye,tr-TR
+延遲為 %s 毫秒,Gecikme %s milisaniye,tr-TR
+建立连接中…,Bağlantı kuruluyor...,tr-TR
+"從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+從用戶端接收到預期外的自訂資料,İstemciden beklenmeyen özel veri alındı,tr-TR
+応答待機中…,Bağlantı sınanıyor...,tr-TR
+忽略状态请求,Durum isteği yok sayılıyor,tr-TR
+忽略狀態請求,Durum isteği yok sayılıyor,tr-TR
+您已從其他位置登入,Başka bir konumdan oturum açtınız,tr-TR
+您已經被這個伺服器封鎖,Bu sunucudan yasaklandınız,tr-TR
+您已被禁止遊玩多人遊戲,Çevrim içi oynamanız yasaklandı,tr-TR
+"您已被這個伺服器封鎖。
+原因：%s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+您是否希望它自動下載並安裝？,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+您的 IP 位址已被這個伺服器封鎖,IP adresiniz bu sunucudan yasaklandı,tr-TR
+"您的 IP 位址已被這個伺服器封鎖。
+原因：%s","IP adresiniz sunucudan yasaklandı.
+Sebep: %s",tr-TR
+您的閒置時間過長！,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+意見回饋,Geri Bildirim,tr-TR
+所有依赖自定义资源包的功能都有可能不按预期工作,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+执行命令,Komutu Çalıştır,tr-TR
+找到新的伺服器：%s,Yeni sunucu bulundu: %s,tr-TR
+报告服务器漏洞,Sunucu Hatası Bildir,tr-TR
+拒絕此自訂資源包將使你和伺服器的連線中斷。,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+拒绝使用该自定义资源包将会断开你与该服务器的连接。,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+接收到了乱序的聊天数据包。你的系统时间是否被更改过？,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+接收到了缺少签名或含有无效签名的聊天数据包。,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+接收到未請求的資訊,İstenmeyen durum alındı,tr-TR
+接收到無效的玩家移動封包,Geçersiz oyuncu hareket paketi alındı,tr-TR
+接收到無效的載具移動封包,Geçersiz taşıt hareket paketi alındı,tr-TR
+接続が終了されました,Bağlantı sonu,tr-TR
+接続を確立中…,Bağlantı kuruluyor...,tr-TR
+接続を維持できません,Bağlantı koptu,tr-TR
+接続リクエストがタイムアウトしました,Bağlantı isteğinin süresi doldu,tr-TR
+提示,Sor,tr-TR
+支持,Destek,tr-TR
+支援,Destek,tr-TR
+收到了包含非法玩家移动的数据包,Geçersiz oyuncu hareket paketi alındı,tr-TR
+收到了包含非法载具移动的数据包,Geçersiz taşıt hareket paketi alındı,tr-TR
+收到了未请求的状态,İstenmeyen durum alındı,tr-TR
+收到的聊天封包順序不正確。您的系統時間是否已變更？,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+收到缺少或含有無效簽章的聊天封包。,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+数据流终止,Bağlantı sonu,tr-TR
+數據傳送終止,Bağlantı sonu,tr-TR
+新しいサーバーが見つかりました：%s,Yeni sunucu bulundu: %s,tr-TR
+新しいサーバーに転送中...,Yeni sunucuya aktarılıyor...,tr-TR
+新增伺服器,Sunucu Ekle,tr-TR
+新聞,Haberler,tr-TR
+新闻,Haberler,tr-TR
+无效会话（请尝试重启游戏及启动器）,Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+无效的玩家数据,Geçersiz oyuncu verisi,tr-TR
+"无效的玩家档案公钥签名。
+请尝试重启游戏。","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+无法发送聊天信息，请检查服务器日志：%s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+无法应用服务器资源包,Sunucu kaynak paketi uygulanamadı,tr-TR
+无法解析主机名,Sunucu adı çözümlenemiyor,tr-TR
+无法连接至服务器,Sunucuya bağlanılamadı,tr-TR
+无法连接至服务器,Sunucuya bağlanılamıyor,tr-TR
+无法连接至该玩家,Oyuncuya bağlanılamadı,tr-TR
+无法验证聊天消息,Sohbet iletileri doğrulanamıyor,tr-TR
+旧版,Eski,tr-TR
+"暂时无法连接。
+请稍后再试。","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+暂时无法连接到身份验证服务器，请稍后再试。,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+暗号化中…,Şifreleniyor...,tr-TR
+更新,Yenile,tr-TR
+有 %s 位玩家在線上，共 %s 位玩家,%s/%s oyuncu çevrim içi,tr-TR
+有効,Açık,tr-TR
+服务器信息：%s,Günün iletisi: %s,tr-TR
+服务器名称,Sunucu Adı,tr-TR
+服务器地址,Sunucu Adresi,tr-TR
+服务器已关闭,Sunucu kapatıldı,tr-TR
+服务器已满！,Sunucu dolu!,tr-TR
+服务器版本：%s,Sunucu sürümü %s,tr-TR
+服务器行为准则,Sunucu Davranış Kuralları,tr-TR
+服务器要求接受行为准则,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+服务器资源包,Sunucu Kaynak Paketleri,tr-TR
+未承認のチャットメッセージが多すぎます,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+未知的主机,Bilinmeyen sunucu,tr-TR
+未知的主機,Bilinmeyen sunucu,tr-TR
+未经确认的聊天消息过多,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+本日のメッセージは「%s」です,Günün iletisi: %s,tr-TR
+检测中…,Bağlantı sınanıyor...,tr-TR
+检测到来自此服务器的聊天消息部分缺失或已被重新排序,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+構成中に予期せぬエラーが発生しました,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+正在下載統計資訊...,İstatistikler alınıyor...,tr-TR
+正在你的本地网络中寻找游戏,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+正在加入世界...,Dünyaya katılınıyor...,tr-TR
+正在套用資源包,Kaynak paketi uygulanıyor,tr-TR
+正在应用资源包,Kaynak paketi uygulanıyor,tr-TR
+正在建立連線...,Bağlantı kuruluyor...,tr-TR
+正在您的區域網路內尋找可供加入的遊戲,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+正在获取统计信息…,İstatistikler alınıyor...,tr-TR
+正在載入地形...,Arazi yükleniyor...,tr-TR
+正在轉移至新的伺服器...,Yeni sunucuya aktarılıyor...,tr-TR
+正在转移至新的服务器…,Yeni sunucuya aktarılıyor...,tr-TR
+正在连接至服务器…,Sunucuya bağlanılıyor...,tr-TR
+正在退出,Çıkılıyor,tr-TR
+正在連線到伺服器...,Sunucuya bağlanılıyor...,tr-TR
+正在重新設定...,Yeniden Yapılandırılıyor...,tr-TR
+正在離開,Çıkılıyor,tr-TR
+此伺服器並沒有啟用飛行,Uçma bu sunucuda açık değil,tr-TR
+此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+此伺服器建議使用其自訂的資源包。,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+此伺服器要求使用其自訂的資源包。,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+此名称已被占用,Bu ad zaten alınmış,tr-TR
+此服务器不接受转移,Bu sunucu aktarımları kabul etmiyor,tr-TR
+此服务器发送了一个无效的数据包,Sunucu geçersiz bir paket gönderdi,tr-TR
+此服务器未启用飞行,Uçma bu sunucuda açık değil,tr-TR
+此服务器需要自定义资源包,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+毎回確認,Sor,tr-TR
+添加服务器,Sunucu Ekle,tr-TR
+無効,Kapalı,tr-TR
+無効なエンティティを攻撃しようとしました,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+無効なセッションです（ゲームとランチャーを再起動してください）,Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+無効なプレイヤーデータです,Geçersiz oyuncu verisi,tr-TR
+"無効なプロフィール公開鍵の署名です。
+ゲームを再起動してください。","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+"無効なポートです。
+編集ボックスを空にするか、1024から65535までの数値を入力してください。","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+無操作時間が長すぎました,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+無效的 session（請嘗試重開您的遊戲與啟動器）,Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+"無效的個人資訊公鑰。
+請嘗試重啟遊戲。","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+"無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+無效的玩家資料,Geçersiz oyuncu verisi,tr-TR
+"無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+"無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+無法傳送聊天訊息，請檢查伺服器記錄：%s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+無法套用伺服器資源包,Sunucu kaynak paketi uygulanamadı,tr-TR
+無法解析主機名稱,Sunucu adı çözümlenemiyor,tr-TR
+無法連上玩家,Oyuncuya ulaşılamıyor,tr-TR
+無法連線到伺服器,Sunucuya bağlanılamıyor,tr-TR
+無法連線至該玩家,Oyuncuya bağlanılamadı,tr-TR
+無法驗證使用者名稱！,Kullanıcı adı doğrulanamadı!,tr-TR
+無法驗證聊天訊息,Sohbet iletileri doğrulanamıyor,tr-TR
+版本不兼容！,Uyumsuz sürüm!,tr-TR
+状态,Durum,tr-TR
+状态请求已处理,Durum isteği işlendi,tr-TR
+状態,Durum,tr-TR
+狀態,Durum,tr-TR
+玩家无法连接,Oyuncuya ulaşılamıyor,tr-TR
+玩家档案公钥过期。请确保系统时间同步，然后尝试重启游戏。,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+"現在、接続できません。
+後でもう一度お試しください。","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+現在オンラインのプレイヤーは%sです,Çevrim içi oyuncular: %s,tr-TR
+用戶端不相容！請使用 %s,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+由于滥发消息而被踢出游戏,Spam nedeniyle atıldın,tr-TR
+由于超出数据包速率限制而被踢出游戏,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+由於超過封包速率限制而被踢出遊戲,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+登入中...,Giriş yapılıyor...,tr-TR
+登入失敗：%s,Giriş yapılamadı: %s,tr-TR
+登入逾時,Oturum açmak çok uzun sürdü,tr-TR
+登录中…,Giriş yapılıyor...,tr-TR
+登录失败：%s,Giriş yapılamadı: %s,tr-TR
+登录超时,Oturum açmak çok uzun sürdü,tr-TR
+"目前無法連線。
+請稍後再試。","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+目前無法連線到驗證伺服器。請稍後再試。,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+直接连接,Doğrudan Bağlantı,tr-TR
+直接連線,Doğrudan Bağlantı,tr-TR
+确认执行命令,Komut Çalıştırılması Doğrulama,tr-TR
+確認執行指令,Komut Çalıştırılması Doğrulama,tr-TR
+社交屏幕仅在多人游戏世界中可用,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+社交設定はマルチプレイでのみ利用できます,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+社区,Topluluk,tr-TR
+社区方针,Topluluk Kuralları,tr-TR
+社群,Topluluk,tr-TR
+社群交流僅適用於多人遊戲世界,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+社群規範,Topluluk Kuralları,tr-TR
+禁用,Kapalı,tr-TR
+"端口不可用。
+请将编辑框留空，或输入一个介于%s和%s之间的新数字。","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"端口不可用。
+请将编辑框留空，或输入一个介于1024和65535之间的新数字。","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+端口号,Bağlantı Noktası Numarası,tr-TR
+"端口无效。
+请将编辑框留空，或输入一个介于%s和%s之间的数字。","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"端口无效。
+请将编辑框留空，或输入一个介于1024和65535之间的数字。","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+管理者によりアクセスが禁止されました。,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+管理者に退出させられました,Bir yönetici tarafından atıldın,tr-TR
+終了中,Çıkılıyor,tr-TR
+統計情報を取得中…,İstatistikler alınıyor...,tr-TR
+網站,İnternet Sitesi,tr-TR
+網路協定錯誤,Ağ Protokolü Hatası,tr-TR
+線上,Çevrim içi,tr-TR
+編輯,Düzenle,tr-TR
+編輯伺服器資訊,Sunucu Bilgilerini Düzenle,tr-TR
+編輯伺服器資訊,Sunucu Bilgisini Düzenle,tr-TR
+編集,Düzenle,tr-TR
+编辑,Düzenle,tr-TR
+编辑服务器信息,Sunucu Bilgilerini Düzenle,tr-TR
+编辑服务器信息,Sunucu Bilgisini Düzenle,tr-TR
+网站,İnternet Sitesi,tr-TR
+网络协议错误,Ağ Protokolü Hatası,tr-TR
+聊天欄中出現不允許的字元,Sohbette yasaklı karakterler kullanıldı,tr-TR
+聊天消息验证失败,Sohbet iletisi doğrulama başarısız,tr-TR
+聊天訊息驗證失敗,Sohbet iletisi doğrulama başarısız,tr-TR
+自動的にダウンロードしてインストールしますか？,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+與伺服器連線失敗,Sunucuya bağlanılamadı,tr-TR
+舊版,Eski,tr-TR
+被管理员踢出游戏,Bir yönetici tarafından atıldın,tr-TR
+複製到聊天欄,Sohbeti Ekrana Kopyala,tr-TR
+設定時發生非預期的錯誤,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+試圖攻擊無效的實體,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+該名稱已被使用,Bu ad zaten alınmış,tr-TR
+認証サーバーがダウンしています。後でもう一度お試しください。,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+認証サーバーに接続できませんでした。もう一度お試しください。,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+"認識できないか無効なコマンドを実行しようとしています。
+よろしいですか？
+コマンド：%s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+論壇,Forumlar,tr-TR
+警告：オンラインでのプレイはサードパーティ製のサーバーによって提供されており、Mojang StudiosやMicrosoftが所有、運営、監督するものではありません。オンラインでのプレイ中に、不適切な可能性があるチャットメッセージ等の内容にさらされる可能性があります。,Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+警告：サードパーティ製のオンラインサーバー,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+警告：在线游戏由第三方提供,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+警告：在线游戏由第三方服务器提供，不由Mojang Studios或Microsoft拥有、运营和监督。 在线游戏的过程中，你可能会收到不受规制的聊天消息或者其他用户生成内容，而这些内容可能不适合所有人。,Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+警告：第三方遊戲伺服器,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+论坛,Forumlar,tr-TR
+试图攻击无效实体,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+询问,Sor,tr-TR
+该服务器上发送的消息可能会被修改，可能无法反映原始消息,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+起床,Yataktan Ayrıl,tr-TR
+身份验证服务器目前处于宕机状态。请稍后再试。抱歉！,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+轉移至伺服器時連線失敗,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+转移至服务器时连接失败,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+这个服务器推荐使用自定义的资源包。,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+这个服务器需要使用自定义的资源包。,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+连接中断,Bağlantı kesildi,tr-TR
+连接中断,İptal Edildi,tr-TR
+连接协商中…,Anlaşma yapılıyor...,tr-TR
+连接已丢失,Bağlantı koptu,tr-TR
+连接请求超时,Bağlantı isteğinin süresi doldu,tr-TR
+连接超时,Zaman aşımına uğradı,tr-TR
+通信を確立中…,Anlaşma yapılıyor...,tr-TR
+通讯加密中…,Şifreleniyor...,tr-TR
+連接埠號碼,Bağlantı Noktası Numarası,tr-TR
+連線中斷,Bağlantı kesildi,tr-TR
+連線要求逾時,Bağlantı isteğinin süresi doldu,tr-TR
+連線逾時,Zaman aşımına uğradı,tr-TR
+進行多人遊戲,Çok Oyunculu Oyna,tr-TR
+遊戲版本不相容！,Uyumsuz sürüm!,tr-TR
+配置时出现意外错误,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+重新整理,Yenile,tr-TR
+重新設定中...,Yeniden Yapılandırılıyor...,tr-TR
+重新配置中…,Yeniden Yapılandırılıyor...,tr-TR
+開始區網世界,Yerel Ağ Dünyası Başlat,tr-TR
+非法聊天字符,Sohbette yasaklı karakterler kullanıldı,tr-TR
+順序の不正なチャットパケットを受信しました。システム時刻を変更していませんか？,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+驗證伺服器沒有回應。請稍後再試。非常抱歉！,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+验证用户名失败！,Kullanıcı adı doğrulanamadı!,tr-TR
+"高い権限が必要なコマンドを実行しようとしています。
+これはゲームに悪影響をもたらす可能性があります。
+よろしいですか？
+コマンド：%s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+공지,Duyurular,tr-TR
+관리자에게 차단당했습니다.,Bir yönetici tarafından sunucuya girmen yasaklandı.,tr-TR
+관리자에게 추방당함,Bir yönetici tarafından atıldın,tr-TR
+구 버전,Eski,tr-TR
+너무 오랫동안 가만히 있었습니다!,Çok uzun süre bir şey yapmadan bekledin!,tr-TR
+네트워크 프로토콜 오류,Ağ Protokolü Hatası,tr-TR
+다른 서버로 이송됐습니다,Başka bir sunucuya aktarıldı,tr-TR
+다른 서버로 이송되는 중 연결에 실패했습니다,Sunucuya aktarılırken bağlantı başarısız oldu,tr-TR
+다른 위치에서 로그인했습니다,Başka bir konumdan oturum açtınız,tr-TR
+다른 플레이어 설정,Diğer Oyuncular için Ayarlar,tr-TR
+"당신의 이름을 사용해서 대화 메시지를 보내는 명령어를 실행하려고 합니다.
+대화 화면에서만 실행할 수 있습니다.
+명령어: %s","Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s",tr-TR
+대화 메시지 검증 실패,Sohbet iletisi doğrulama başarısız,tr-TR
+대화 메시지를 검증할 수 없습니다,Sohbet iletileri doğrulanamıyor,tr-TR
+대화 메시지를 전달할 수 없습니다. 서버 로그를 확인하세요: %s,"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",tr-TR
+대화 화면으로 복사하기,Sohbeti Ekrana Kopyala,tr-TR
+대화에서 금지된 문자를 사용했습니다,Sohbette yasaklı karakterler kullanıldı,tr-TR
+로그인 단계에 너무 긴 시간이 지났습니다,Oturum açmak çok uzun sürdü,tr-TR
+로그인 중...,Giriş yapılıyor...,tr-TR
+로그인에 실패했습니다: %s,Giriş yapılamadı: %s,tr-TR
+로컬 네트워크에서 게임을 찾는 중,Yerel ağınızdaki oyunlar taranıyor,tr-TR
+리소스 팩 적용 중,Kaynak paketi uygulanıyor,tr-TR
+멀티플레이,Çok Oyunculu Oyna,tr-TR
+멀티플레이가 꺼져 있습니다. Microsoft 계정 설정을 확인해 주세요.,Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,tr-TR
+명령어 실행,Komutu Çalıştır,tr-TR
+명령어 실행 확인,Komut Çalıştırılması Doğrulama,tr-TR
+물어보기,Sor,tr-TR
+사용,Açık,tr-TR
+사용자 지정 리소스가 필요한 기능들이 예상대로 작동하지 않을 수 있습니다,"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",tr-TR
+사용자명을 확인할 수 없습니다!,Kullanıcı adı doğrulanamadı!,tr-TR
+사용하지 않음,Kapalı,tr-TR
+사회적 상호 작용 설정은 멀티플레이 세계에서만 사용할 수 있습니다,Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,tr-TR
+삭제,Sil,tr-TR
+"상위 권한이 필요한 명령어를 실행하려 합니다.
+이는 게임에 부정적인 영향을 줄 수 있습니다.
+그럼에도 실행할까요?
+명령어: %s","Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s",tr-TR
+상태,Durum,tr-TR
+상태 요청 무시,Durum isteği yok sayılıyor,tr-TR
+상태 요청이 처리되었습니다,Durum isteği işlendi,tr-TR
+새 서버 발견: %s,Yeni sunucu bulundu: %s,tr-TR
+새 서버로 이송되는 중...,Yeni sunucuya aktarılıyor...,tr-TR
+새로 고침,Yenile,tr-TR
+서명이 없거나 유효하지 않은 대화 패킷을 받았습니다.,Eksik veya geçersiz imzalı bir sohbet paketi alındı.,tr-TR
+서버 리소스 팩,Sunucu Kaynak Paketleri,tr-TR
+서버 리소스 팩을 적용하지 못했습니다,Sunucu kaynak paketi uygulanamadı,tr-TR
+서버 버그 제보,Sunucu Hatası Bildir,tr-TR
+서버 버전: %s,Sunucu sürümü %s,tr-TR
+서버 이름,Sunucu Adı,tr-TR
+서버 접속에 실패했습니다,Sunucuya bağlanılamadı,tr-TR
+서버 정보 편집,Sunucu Bilgilerini Düzenle,tr-TR
+서버 정보 편집,Sunucu Bilgisini Düzenle,tr-TR
+서버 주소,Sunucu Adresi,tr-TR
+서버 참여,Sunucuya Katıl,tr-TR
+서버 추가,Sunucu Ekle,tr-TR
+서버 행동 강령,Sunucu Davranış Kuralları,tr-TR
+서버 화이트리스트에 등록되어 있지 않습니다!,Bu sunucunun beyaz listesinde değilsiniz!,tr-TR
+서버가 가득 찼습니다!,Sunucu dolu!,tr-TR
+서버가 닫혔습니다,Sunucu kapatıldı,tr-TR
+서버가 잘못된 패킷을 전송했습니다,Sunucu geçersiz bir paket gönderdi,tr-TR
+"서버로부터 받지 못한 태그가 있습니다.
+서버 관리자에게 문의해 주세요.","Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.",tr-TR
+서버에 연결할 수 없습니다,Sunucuya bağlanılamıyor,tr-TR
+서버에 접속하는 중...,Sunucuya bağlanılıyor...,tr-TR
+서버에 접속하려면 행동 강령에 동의해야 합니다,"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",tr-TR
+서버에서 IP 주소가 차단되었습니다,IP adresiniz bu sunucudan yasaklandı,tr-TR
+서버에서 오는 대화 메시지가 누락되거나 순서가 바뀐 것을 감지했습니다,Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,tr-TR
+서버에서 차단되었습니다,Bu sunucudan yasaklandınız,tr-TR
+"서버에서 차단되었습니다.
+사유: %s","Bu sunucudan yasaklandınız.
+Sebep: %s",tr-TR
+설정 중 예상치 못한 오류가 발생했습니다,Yapılandırmada beklenmeyen hata oluştu,tr-TR
+세계 참여 중...,Dünyaya katılınıyor...,tr-TR
+세션이 잘못되었습니다 (게임과 런처를 다시 시작해 보세요),Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),tr-TR
+소식,Haberler,tr-TR
+순서가 잘못된 대화 패킷을 수신했습니다. 시스템 시간이 변경되었나요?,Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,tr-TR
+스팸으로 인해 추방당함,Spam nedeniyle atıldın,tr-TR
+시간 초과,Zaman aşımına uğradı,tr-TR
+알 수 없는 호스트입니다,Bilinmeyen sunucu,tr-TR
+암호화 중...,Şifreleniyor...,tr-TR
+연결 구축 중...,Bağlantı kuruluyor...,tr-TR
+연결 끊김,Bağlantı kesildi,tr-TR
+연결 끊김,Bağlantı koptu,tr-TR
+연결 요청 시간이 초과되었습니다,Bağlantı isteğinin süresi doldu,tr-TR
+연결이 종료되었습니다,Bağlantı sonu,tr-TR
+온라인,Çevrim içi,tr-TR
+온라인 플레이에서 차단되었습니다,Çevrim içi oynamanız yasaklandı,tr-TR
+"올바른 포트가 아닙니다.
+편집 상자를 비워두거나 %s과(와) %s 사이의 다른 번호를 입력하세요.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"올바른 포트가 아닙니다.
+편집 상자를 비워두거나 1024와 65535 사이의 다른 번호를 입력하세요.","Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+완료,Bitti,tr-TR
+완료됨,Bitti,tr-TR
+요청하지 않은 상태를 수신했습니다,İstenmeyen durum alındı,tr-TR
+웹사이트,İnternet Sitesi,tr-TR
+응답 대기 중...,Bağlantı sınanıyor...,tr-TR
+이 사용자 지정 리소스 팩을 거부할 경우 서버에서 연결이 끊깁니다.,"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",tr-TR
+이 서버는 사용자 지정 리소스 팩 사용을 권장하고 있습니다.,Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,tr-TR
+이 서버는 사용자 지정 리소스 팩 사용을 요구합니다,"Bu sunucu, özel bir kaynak paketi gerektiriyor",tr-TR
+이 서버는 사용자 지정 리소스 팩 사용을 요구합니다.,Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,tr-TR
+이 서버는 전송을 수락하지 않습니다,Bu sunucu aktarımları kabul etmiyor,tr-TR
+이 서버를 지우시겠습니까?,Bu sunucuyu kaldırmak istediğinizden emin misin?,tr-TR
+이 서버에서 오가는 메시지는 수정될 수 있으며 원본 메시지를 반영하지 않을 수도 있습니다,Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,tr-TR
+이 서버에서는 비행이 허용되지 않습니다,Uçma bu sunucuda açık değil,tr-TR
+이 행동 강령에 대해서는 더 이상 알림을 보내지 않기,Bu Davranış Kurallarını tekrar gösterme,tr-TR
+이 화면을 다시 보지 않기,Bu ekranı bir daha gösterme,tr-TR
+익명 플레이어,Anonim Oyuncu,tr-TR
+"인식되지 않았거나 잘못된 명령어를 실행하려 합니다.
+그럼에도 실행할까요?
+명령어: %s","Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s",tr-TR
+인증 서버에 현재 연결할 수 없습니다. 다시 시도해 주세요.,Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,tr-TR
+일어나기,Yataktan Ayrıl,tr-TR
+자동으로 다운로드 후 설치하시겠습니까?,Otomatik olarak indirilip yüklenmesini ister misiniz?,tr-TR
+잘못된 개체를 공격하려고 시도했습니다,Geçersiz bir varlığa saldırılmaya çalışıldı,tr-TR
+잘못된 탈것 이동 패킷을 수신했습니다,Geçersiz taşıt hareket paketi alındı,tr-TR
+잘못된 플레이어 데이터입니다,Geçersiz oyuncu verisi,tr-TR
+잘못된 플레이어 이동 패킷을 수신했습니다,Geçersiz oyuncu hareket paketi alındı,tr-TR
+재설정 중...,Yeniden Yapılandırılıyor...,tr-TR
+접속 중인 플레이어: %s,Çevrim içi oyuncular: %s,tr-TR
+종료 중,Çıkılıyor,tr-TR
+"주의: 온라인 플레이는 Mojang Studios 및 Microsoft가 소유, 운영 또는 감독하지 않는 제삼자 서버를 통해 제공됩니다. 온라인 플레이 중에 모두에게 적합하지 않은, 관리되지 않는 대화 메시지나 다른 종류의 사용자 생성 콘텐츠에 노출될 수 있습니다.",Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,tr-TR
+주의: 제삼자 온라인 플레이,Dikkat: Üçüncü Parti Çevrim içi Oyun,tr-TR
+중단됨,İptal Edildi,tr-TR
+"지금은 연결할 수 없습니다.
+나중에 다시 시도해 주세요.","Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.",tr-TR
+지금은 인증 서버를 사용할 수 없습니다. 나중에 다시 시도해 주세요. 죄송합니다!,Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,tr-TR
+지원,Destek,tr-TR
+지형 불러오는 중...,Arazi yükleniyor...,tr-TR
+직접 연결,Doğrudan Bağlantı,tr-TR
+취소됨,İptal edildi,tr-TR
+커뮤니티,Topluluk,tr-TR
+커뮤니티 지침,Topluluk Kuralları,tr-TR
+클라이언트가 호환되지 않습니다! %s을(를) 사용해 주세요,Uyumsuz istemci! Lütfen %s kullanın,tr-TR
+클라이언트로부터 예기치 않은 사용자 지정 데이터를 수신했습니다,İstemciden beklenmeyen özel veri alındı,tr-TR
+통계 받아오는 중...,İstatistikler alınıyor...,tr-TR
+패킷 전송 속도 제한을 초과하여 추방당함,Paket oranı sınırını aştığınız için atıldınız,tr-TR
+편집,Düzenle,tr-TR
+포럼,Forumlar,tr-TR
+포트 번호,Bağlantı Noktası Numarası,tr-TR
+"포트를 사용할 수 없습니다.
+편집 상자를 비워두거나 %s과(와) %s 사이의 다른 번호를 입력하세요.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.",tr-TR
+"포트를 사용할 수 없습니다.
+편집 상자를 비워두거나 1024와 65535 사이의 다른 번호를 입력하세요.","Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.",tr-TR
+프로필 공개 키가 만료되었습니다. 시스템 시간이 동기화되어 있는지 확인 후에 게임을 다시 시작해 보세요.,Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,tr-TR
+"프로필 공개 키의 서명이 잘못되었습니다.
+게임을 다시 시작해 보세요.","Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.",tr-TR
+플레이어에게 연결할 수 없습니다,Oyuncuya ulaşılamıyor,tr-TR
+플레이어와 연결할 수 없습니다,Oyuncuya bağlanılamadı,tr-TR
+피드백,Geri Bildirim,tr-TR
+핑 %s 밀리초,Gecikme %s milisaniye,tr-TR
+해당 이름은 이미 사용 중입니다,Bu ad zaten alınmış,tr-TR
+협상 중...,Anlaşma yapılıyor...,tr-TR
+호스트 이름을 확인할 수 없습니다,Sunucu adı çözümlenemiyor,tr-TR
+호환되지 않는 버전입니다!,Uyumsuz sürüm!,tr-TR
+확인 응답이 없는 대화 메시지가 너무 많습니다,Çok fazla onaylanmamış sohbet iletisi,tr-TR
+환영 문구: %s,Günün iletisi: %s,tr-TR
+（接続なし）,(bağlantı yok),tr-TR
+（无连接）,(bağlantı yok),tr-TR
+（未連線）,(bağlantı yok),tr-TR
+（隐藏）,(Gizli),tr-TR
+（隱藏）,(Gizli),tr-TR
+（非表示）,(Gizli),tr-TR
+？？？,???,tr-TR

@@ -1,0 +1,568 @@
+﻿source,target,tgt_lng
+%%%s %s,%2$s: %1$s%%,ru-RU
+%%%s %s,%s%% %s,ru-RU
+%2$s %1$s%%,%s%% %s,ru-RU
+%2$s +%1$s,+%s %s,ru-RU
+%2$s +%1$s%%,+%s%% %s,ru-RU
+%2$s -%1$s,-%s %s,ru-RU
+%2$s -%1$s%%,-%s%% %s,ru-RU
+%2$s: %1$s%%,%s%% %s,ru-RU
+%2$s: +%1$s,+%s %s,ru-RU
+%2$s: +%1$s%%,+%s%% %s,ru-RU
+%2$s: -%1$s,-%s %s,ru-RU
+%2$s: -%1$s%%,-%s%% %s,ru-RU
+%s %% %s,%2$s: %1$s%%,ru-RU
+%s %% %s,%s%% %s,ru-RU
+%s %% en %s,%2$s: %1$s%%,ru-RU
+%s %% en %s,%s%% %s,ru-RU
+%s %s,%2$s: %1$s,ru-RU
+%s en %s,%2$s: %1$s,ru-RU
+%s%% %s,%2$s: %1$s%%,ru-RU
++%%%s %s,%2$s: +%1$s%%,ru-RU
++%%%s %s,+%s%% %s,ru-RU
++%s %% %s,%2$s: +%1$s%%,ru-RU
++%s %% %s,+%s%% %s,ru-RU
++%s %% en %s,%2$s: +%1$s%%,ru-RU
++%s %% en %s,+%s%% %s,ru-RU
++%s en %s,+%s %s,ru-RU
++%s%% %s,%2$s: +%1$s%%,ru-RU
+-%%%s %s,%2$s: -%1$s%%,ru-RU
+-%%%s %s,-%s%% %s,ru-RU
+-%s %% %s,%2$s: -%1$s%%,ru-RU
+-%s %% %s,-%s%% %s,ru-RU
+-%s %% en %s,%2$s: -%1$s%%,ru-RU
+-%s %% en %s,-%s%% %s,ru-RU
+-%s en %s,-%s %s,ru-RU
+-%s%% %s,%2$s: -%1$s%%,ru-RU
+Abbaueffizienz,Эффективность добычи,ru-RU
+Absorción máxima,Предел поглощения,ru-RU
+absorption maximale,Предел поглощения,ru-RU
+Absorção máxima,Предел поглощения,ru-RU
+Ad Etiketi Mesafesi,Дальность видимости имени,ru-RU
+Ad Etiketi Puan Mesafesi,Дальность видимости счёта под именем,ru-RU
+Adım Yüksekliği,Высота шага,ru-RU
+Air Drag Modifier,Модификатор сопротивления воздуха,ru-RU
+Alcance de atração das criaturas,Дальность приманивания,ru-RU
+Alcance de detecção do marcador,Дальность обнаружения маркеров,ru-RU
+Alcance de interação com blocos,Дальность взаимодействия с блоками,ru-RU
+Alcance de interação com entidades,Дальность взаимодействия с сущностями,ru-RU
+Alcance de perseguição das criaturas,Диапазон преследования моба,ru-RU
+Alcance de transmissão do marcador,Дальность передачи маркера,ru-RU
+Altezza del passo,Высота шага,ru-RU
+Altura de paso,Высота шага,ru-RU
+Altura dos passos,Высота шага,ru-RU
+Angriffsgeschwindigkeit,Скорость атаки,ru-RU
+Angriffsrückstoß,Отбрасывание при атаке,ru-RU
+Angriffsschaden,Урон при атаке,ru-RU
+Armadura,Броня,ru-RU
+Armatura,Броня,ru-RU
+Armor,Броня,ru-RU
+Armor Toughness,Твёрдость брони,ru-RU
+Assorbimento massimo,Предел поглощения,ru-RU
+At Zıplama Gücü,Сила прыжка лошади,ru-RU
+Attack Damage,Урон при атаке,ru-RU
+Attack Knockback,Отбрасывание при атаке,ru-RU
+Attack Speed,Скорость атаки,ru-RU
+Bewegungseffizienz,Эффективность передвижения,ru-RU
+Block Break Speed,Скорость разрушения блоков,ru-RU
+Block Interaction Range,Дальность взаимодействия с блоками,ru-RU
+Blockabbaugeschwindigkeit,Скорость разрушения блоков,ru-RU
+Block‐Interaktionsweite,Дальность взаимодействия с блоками,ru-RU
+Blok Etkileşim Mesafesi,Дальность взаимодействия с блоками,ru-RU
+Blok Kırma Hızı,Скорость разрушения блоков,ru-RU
+bonus d'oxygène,Бонус к кислороду,ru-RU
+Bounciness,Упругость,ru-RU
+Brenndauer,Время горения,ru-RU
+Burning Time,Время горения,ru-RU
+Bật lùi tấn công,Отбрасывание при атаке,ru-RU
+Camera Distance,Отдалённость камеры,ru-RU
+Canlı Fark Etme Mesafesi,Дальность приманивания,ru-RU
+Canlı Takip Menzili,Диапазон преследования моба,ru-RU
+Canlı Takip Mesafesi,Диапазон преследования моба,ru-RU
+chance,Везение,ru-RU
+Chiều cao bước,Высота шага,ru-RU
+Contraccolpo,Отбрасывание при атаке,ru-RU
+Danni per colpo,Урон при атаке,ru-RU
+Dano por golpe,Урон при атаке,ru-RU
+Daño de ataque,Урон при атаке,ru-RU
+distance d'affichage du nom,Дальность видимости имени,ru-RU
+distance d'affichage du score du nom,Дальность видимости счёта под именем,ru-RU
+distance de chute sûre,Безопасная высота падения,ru-RU
+distance de la caméra,Отдалённость камеры,ru-RU
+Distancia de caída segura,Безопасная высота падения,ru-RU
+Distancia de la cámara,Отдалённость камеры,ru-RU
+Distancia del identificador,Дальность видимости имени,ru-RU
+Distancia del marcador de puntuación,Дальность видимости счёта под именем,ru-RU
+Distanza del punteggio nella targhetta,Дальность видимости счёта под именем,ru-RU
+Distanza dell'inquadratura,Отдалённость камеры,ru-RU
+Distanza della targhetta,Дальность видимости имени,ru-RU
+Distanza di caduta sicura,Безопасная высота падения,ru-RU
+Distância da câmera,Отдалённость камеры,ru-RU
+Distância de queda segura,Безопасная высота падения,ru-RU
+Distância do identificador,Дальность видимости имени,ru-RU
+Distância do marcador de pontuação,Дальность видимости счёта под именем,ru-RU
+Duración de quemadura,Время горения,ru-RU
+Duração de queima,Время горения,ru-RU
+Dureza de armadura,Твёрдость брони,ru-RU
+Düşme Hasarı Çarpanı,Множитель урона от падения,ru-RU
+efficacité de minage,Эффективность добычи,ru-RU
+efficacité de mouvement,Эффективность передвижения,ru-RU
+efficacité de mouvement aquatique,Эффективность передвижения в воде,ru-RU
+Efficienza d'estrazione,Эффективность добычи,ru-RU
+Efficienza del movimento,Эффективность передвижения,ru-RU
+Efficienza del movimento in acqua,Эффективность передвижения в воде,ru-RU
+Eficiencia al romper bloques,Эффективность добычи,ru-RU
+Eficiencia de movimiento,Эффективность передвижения,ru-RU
+Eficiencia de movimiento acuático,Эффективность передвижения в воде,ru-RU
+Eficiência de mineração,Эффективность добычи,ru-RU
+Eficiência de movimento,Эффективность передвижения,ru-RU
+Eficiência de movimento na água,Эффективность передвижения в воде,ru-RU
+Elasticità,Упругость,ru-RU
+Empuje de ataque,Отбрасывание при атаке,ru-RU
+En Fazla Emilim,Предел поглощения,ru-RU
+En Fazla Sağlık,Максимальное здоровье,ru-RU
+Entity Interaction Range,Дальность взаимодействия с сущностями,ru-RU
+Escala,Размер,ru-RU
+Explosion Knockback Resistance,Сопротивление к отбрасыванию взрывом,ru-RU
+Explosionsstandfestigkeit,Сопротивление к отбрасыванию взрывом,ru-RU
+Eğilirken Hareket Hızı,Скорость подкрадывания,ru-RU
+Eğilme Hızı,Скорость подкрадывания,ru-RU
+Fall Damage Multiplier,Множитель урона от падения,ru-RU
+Fallschaden‐Multiplikator,Множитель урона от падения,ru-RU
+Federung,Упругость,ru-RU
+Fluggeschwindigkeit,Скорость полёта,ru-RU
+Flying Speed,Скорость полёта,ru-RU
+Fortuna,Везение,ru-RU
+Forza del salto,Сила прыжка,ru-RU
+Forza di salto del cavallo,Сила прыжка лошади,ru-RU
+Força de salto do cavalo,Сила прыжка лошади,ru-RU
+Força do salto,Сила прыжка,ru-RU
+Friction Modifier,Модификатор трения,ru-RU
+Geniş Saldırı Hasar Oranı,Коэффициент разящего удара,ru-RU
+Geschwindigkeit,Скорость,ru-RU
+Giáp,Броня,ru-RU
+Glück,Везение,ru-RU
+Gravedad,Гравитация,ru-RU
+Gravidade,Гравитация,ru-RU
+Gravity,Гравитация,ru-RU
+Gravità,Гравитация,ru-RU
+gravité,Гравитация,ru-RU
+Größe,Размер,ru-RU
+Güvenli Düşüş Mesafesi,Безопасная высота падения,ru-RU
+Hareket Verimliliği,Эффективность передвижения,ru-RU
+hauteur des pas,Высота шага,ru-RU
+Hava Direnci Niteleyici,Модификатор сопротивления воздуха,ru-RU
+Hiệu quả di chuyển,Эффективность передвижения,ru-RU
+Hiệu quả di chuyển dưới nước,Эффективность передвижения в воде,ru-RU
+Hiệu suất đào,Эффективность добычи,ru-RU
+Horse Jump Strength,Сила прыжка лошади,ru-RU
+Hız,Скорость,ru-RU
+Hấp thụ tối đa,Предел поглощения,ru-RU
+Hệ số lực cản không khí,Модификатор сопротивления воздуха,ru-RU
+Hệ số ma sát,Модификатор трения,ru-RU
+Hệ số sát thương rơi,Множитель урона от падения,ru-RU
+Jump Strength,Сила прыжка,ru-RU
+Kamera Mesafesi,Отдалённость камеры,ru-RU
+Kameraabstand,Отдалённость камеры,ru-RU
+Kazım Verimliliği,Эффективность добычи,ru-RU
+Khoảng cách hiển thị nhãn ghi tên,Дальность видимости имени,ru-RU
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,Дальность видимости счёта под именем,ru-RU
+Khoảng cách máy quay,Отдалённость камеры,ru-RU
+Kháng đẩy lùi,Сопротивление к отбрасыванию,ru-RU
+Kháng đẩy lùi từ vụ nổ,Сопротивление к отбрасыванию взрывом,ru-RU
+Knockback Resistance,Сопротивление к отбрасыванию,ru-RU
+Kreaturen‐Anlockdistanz,Дальность приманивания,ru-RU
+Kreaturen‐Verfolgedistanz,Диапазон преследования моба,ru-RU
+Luck,Везение,ru-RU
+Luftwiderstandsfaktor,Модификатор сопротивления воздуха,ru-RU
+Lực lượng thây ma tăng cường,Подкрепление зомби,ru-RU
+Max Absorption,Предел поглощения,ru-RU
+Max Health,Максимальное здоровье,ru-RU
+Maximale Absorption,Предел поглощения,ru-RU
+Maximale Gesundheit,Максимальное здоровье,ru-RU
+May mắn,Везение,ru-RU
+Mining Efficiency,Эффективность добычи,ru-RU
+Mob Follow Range,Диапазон преследования моба,ru-RU
+Mob Tempt Range,Дальность приманивания,ru-RU
+Mobの誘引される範囲,Дальность приманивания,ru-RU
+Mobの追跡範囲,Диапазон преследования моба,ru-RU
+Modificador de atrito,Модификатор трения,ru-RU
+Modificador de fricción,Модификатор трения,ru-RU
+Modificador de resistencia del aire,Модификатор сопротивления воздуха,ru-RU
+Modificador de resistência ao ar,Модификатор сопротивления воздуха,ru-RU
+modificateur de friction,Модификатор трения,ru-RU
+modificateur de résistance à l'air,Модификатор сопротивления воздуха,ru-RU
+Modificatore di attrito,Модификатор трения,ru-RU
+Modificatore di resistenza aerodinamica,Модификатор сопротивления воздуха,ru-RU
+Moltiplicatore del danno da caduta,Множитель урона от падения,ru-RU
+Movement Efficiency,Эффективность передвижения,ru-RU
+Multiplicador de dano por queda,Множитель урона от падения,ru-RU
+Multiplicador de daño por caída,Множитель урона от падения,ru-RU
+multiplicateur des dégâts de chute,Множитель урона от падения,ru-RU
+Name Tag Distance,Дальность видимости имени,ru-RU
+Name Tag Score Distance,Дальность видимости счёта под именем,ru-RU
+Namensschildabstand,Дальность видимости имени,ru-RU
+Objekt‐Interaktionsweite,Дальность взаимодействия с сущностями,ru-RU
+Oksijen Takviyesi,Бонус к кислороду,ru-RU
+Ossigeno aggiuntivo,Бонус к кислороду,ru-RU
+Oxigênio extra,Бонус к кислороду,ru-RU
+Oxygen Bonus,Бонус к кислороду,ru-RU
+Oxígeno extra,Бонус к кислороду,ru-RU
+Patlama Savrulması Direnci,Сопротивление к отбрасыванию взрывом,ru-RU
+Pferdesprungstärke,Сила прыжка лошади,ru-RU
+Phạm vi nhận điểm mốc,Дальность обнаружения маркеров,ru-RU
+Phạm vi thu hút sinh vật,Дальность приманивания,ru-RU
+Phạm vi truyền điểm mốc,Дальность передачи маркера,ru-RU
+Phạm vi tương tác khối,Дальность взаимодействия с блоками,ru-RU
+Phạm vi tương tác thực thể,Дальность взаимодействия с сущностями,ru-RU
+Phạm vi đi theo của sinh vật,Диапазон преследования моба,ru-RU
+Phần oxi thêm,Бонус к кислороду,ru-RU
+points d'armure,Броня,ru-RU
+points d'attaque,Урон при атаке,ru-RU
+Portata di ricezione del punto di riferimento,Дальность обнаружения маркеров,ru-RU
+Portata di trasmissione del punto di riferimento,Дальность передачи маркера,ru-RU
+portée d'interaction avec les blocs,Дальность взаимодействия с блоками,ru-RU
+portée d'interaction avec les entités,Дальность взаимодействия с сущностями,ru-RU
+portée de détection des créatures,Диапазон преследования моба,ru-RU
+portée de réception du point de repère,Дальность обнаружения маркеров,ru-RU
+portée de tentation des créatures,Дальность приманивания,ru-RU
+portée de transmission du point de repère,Дальность передачи маркера,ru-RU
+Potencia de salto,Сила прыжка,ru-RU
+Potencia de salto del caballo,Сила прыжка лошади,ru-RU
+Proporción del daño de barrido,Коэффициент разящего удара,ru-RU
+puissance de saut,Сила прыжка,ru-RU
+puissance de saut du cheval,Сила прыжка лошади,ru-RU
+Punktetafelabstand,Дальность видимости счёта под именем,ru-RU
+Punti armatura,Броня,ru-RU
+Quy mô,Размер,ru-RU
+Radio de atracción de criaturas,Дальность приманивания,ru-RU
+Raggio d'interazione con i blocchi,Дальность взаимодействия с блоками,ru-RU
+Raggio d'interazione con le entità,Дальность взаимодействия с сущностями,ru-RU
+Raggio di rilevamento delle creature,Диапазон преследования моба,ru-RU
+Raggio di tentazione delle creature,Дальность приманивания,ru-RU
+Rango de interacción con bloques,Дальность взаимодействия с блоками,ru-RU
+Rango de interacción con entidades,Дальность взаимодействия с сущностями,ru-RU
+Rango de recepción del punto de referencia,Дальность обнаружения маркеров,ru-RU
+Rango de seguimiento,Диапазон преследования моба,ru-RU
+Rango de transmisión del punto de referencia,Дальность передачи маркера,ru-RU
+rapidité,Скорость,ru-RU
+Rapporto del danno sferzante,Коэффициент разящего удара,ru-RU
+ratio de dégâts par balayage,Коэффициент разящего удара,ru-RU
+rebond,Упругость,ru-RU
+Rebote,Упругость,ru-RU
+recul d'attaque,Отбрасывание при атаке,ru-RU
+Reforços de zumbis,Подкрепление зомби,ru-RU
+Refuerzos zombi,Подкрепление зомби,ru-RU
+Reibungsfaktor,Модификатор трения,ru-RU
+renforts de zombies,Подкрепление зомби,ru-RU
+Repulsão do ataque,Отбрасывание при атаке,ru-RU
+Resistencia al empuje,Сопротивление к отбрасыванию,ru-RU
+Resistencia al empuje de las explosiones,Сопротивление к отбрасыванию взрывом,ru-RU
+Resistenza al contraccolpo,Сопротивление к отбрасыванию,ru-RU
+Resistenza al contraccolpo delle esplosioni,Сопротивление к отбрасыванию взрывом,ru-RU
+Resistência da armadura,Твёрдость брони,ru-RU
+Resistência à repulsão,Сопротивление к отбрасыванию,ru-RU
+Resistência à repulsão de explosões,Сопротивление к отбрасыванию взрывом,ru-RU
+Rinforzi zombi,Подкрепление зомби,ru-RU
+robustesse,Твёрдость брони,ru-RU
+résistance au recul,Сопротивление к отбрасыванию,ru-RU
+résistance au recul des explosions,Сопротивление к отбрасыванию взрывом,ru-RU
+Rüstung,Броня,ru-RU
+Rüstungshärte,Твёрдость брони,ru-RU
+Safe Fall Distance,Безопасная высота падения,ru-RU
+Saldırı Hasarı,Урон при атаке,ru-RU
+Saldırı Hızı,Скорость атаки,ru-RU
+Saldırı Savurması,Отбрасывание при атаке,ru-RU
+Salud máxima,Максимальное здоровье,ru-RU
+Salute massima,Максимальное здоровье,ru-RU
+Sauerstoffbonus,Бонус к кислороду,ru-RU
+Savrulma Direnci,Сопротивление к отбрасыванию,ru-RU
+Scala,Размер,ru-RU
+Scale,Размер,ru-RU
+Schleichgeschwindigkeit,Скорость подкрадывания,ru-RU
+Schritthöhe,Высота шага,ru-RU
+Schwerkraft,Гравитация,ru-RU
+Schwungschadensverhältnis,Коэффициент разящего удара,ru-RU
+Sekme,Упругость,ru-RU
+Sichere Fallhöhe,Безопасная высота падения,ru-RU
+Sinh lực tối đa,Максимальное здоровье,ru-RU
+Sneaking Speed,Скорость подкрадывания,ru-RU
+Solidità dell'armatura,Твёрдость брони,ru-RU
+Sorte,Везение,ru-RU
+Speed,Скорость,ru-RU
+Sprungstärke,Сила прыжка,ru-RU
+Standfestigkeit,Сопротивление к отбрасыванию,ru-RU
+Step Height,Высота шага,ru-RU
+Su Altında Kazım Hızı,Скорость добычи под водой,ru-RU
+Submerged Mining Speed,Скорость добычи под водой,ru-RU
+Suda Hareket Verimliliği,Эффективность передвижения в воде,ru-RU
+Suerte,Везение,ru-RU
+Sweeping Damage Ratio,Коэффициент разящего удара,ru-RU
+Sürtünme Düzenleyici,Модификатор трения,ru-RU
+Sức bật lùi,Отбрасывание при атаке,ru-RU
+Sức nhảy,Сила прыжка,ru-RU
+Sức nhảy của ngựa,Сила прыжка лошади,ru-RU
+Sức tấn công,Урон при атаке,ru-RU
+taille,Размер,ru-RU
+Taxa de dano lateral,Коэффициент разящего удара,ru-RU
+Tempo di combustione,Время горения,ru-RU
+temps en feu,Время горения,ru-RU
+Thời gian cháy,Время горения,ru-RU
+Trọng lực,Гравитация,ru-RU
+Tỉ lệ sát thương quét cạnh,Коэффициент разящего удара,ru-RU
+Tốc độ,Скорость,ru-RU
+Tốc độ bay,Скорость полёта,ru-RU
+Tốc độ phá khối,Скорость разрушения блоков,ru-RU
+Tốc độ tấn công,Скорость атаки,ru-RU
+Tốc độ đi rón rén,Скорость подкрадывания,ru-RU
+Tốc độ đào dưới nước,Скорость добычи под водой,ru-RU
+Unterwasser‐Abbaugeschwindigkeit,Скорость добычи под водой,ru-RU
+Uçma Hızı,Скорость полёта,ru-RU
+Uçuş Hızı,Скорость полёта,ru-RU
+Varlık Etkileşim Mesafesi,Дальность взаимодействия с сущностями,ru-RU
+Velocidad,Скорость,ru-RU
+Velocidad al agacharse,Скорость подкрадывания,ru-RU
+Velocidad al romper bloques,Скорость разрушения блоков,ru-RU
+Velocidad al romper bloques sumergido,Скорость добычи под водой,ru-RU
+Velocidad de ataque,Скорость атаки,ru-RU
+Velocidad de vuelo,Скорость полёта,ru-RU
+Velocidade,Скорость,ru-RU
+Velocidade de ataque,Скорость атаки,ru-RU
+Velocidade de mineração submersa,Скорость добычи под водой,ru-RU
+Velocidade de quebra de blocos,Скорость разрушения блоков,ru-RU
+Velocidade do voo,Скорость полёта,ru-RU
+Velocidade furtiva,Скорость подкрадывания,ru-RU
+Velocità,Скорость,ru-RU
+Velocità d'attacco,Скорость атаки,ru-RU
+Velocità d'estrazione sott'acqua,Скорость добычи под водой,ru-RU
+Velocità di distruzione dei blocchi,Скорость разрушения блоков,ru-RU
+Velocità furtiva,Скорость подкрадывания,ru-RU
+Velocità in volo,Скорость полёта,ru-RU
+Vida máxima,Максимальное здоровье,ru-RU
+vie maximale,Максимальное здоровье,ru-RU
+vitesse accroupie,Скорость подкрадывания,ru-RU
+vitesse d'attaque,Скорость атаки,ru-RU
+vitesse de destruction des blocs,Скорость разрушения блоков,ru-RU
+vitesse de minage sous l'eau,Скорость добычи под водой,ru-RU
+vitesse de vol,Скорость полёта,ru-RU
+Wasser‐Bewegungseffizienz,Эффективность передвижения в воде,ru-RU
+Water Movement Efficiency,Эффективность передвижения в воде,ru-RU
+Waypoint Receive Range,Дальность обнаружения маркеров,ru-RU
+Waypoint Transmit Range,Дальность передачи маркера,ru-RU
+Wegpunkt‐Empfangsreichweite,Дальность обнаружения маркеров,ru-RU
+Wegpunkt‐Sendereichweite,Дальность передачи маркера,ru-RU
+Yanma Süresi,Время горения,ru-RU
+Yer Çekimi,Гравитация,ru-RU
+Yol Noktası Alma Mesafesi,Дальность обнаружения маркеров,ru-RU
+Yol Noktası İletme Mesafesi,Дальность передачи маркера,ru-RU
+Zombi Takviyesi,Подкрепление зомби,ru-RU
+Zombie Reinforcements,Подкрепление зомби,ru-RU
+Zombie-Verstärkung,Подкрепление зомби,ru-RU
+Zombie‐Verstärkung,Подкрепление зомби,ru-RU
+Zıplama Gücü,Сила прыжка,ru-RU
+Zırh,Броня,ru-RU
+Zırh Sertliği,Твёрдость брони,ru-RU
+Ölçek,Размер,ru-RU
+Độ bền của áo giáp,Твёрдость брони,ru-RU
+Độ bền áo giáp,Твёрдость брони,ru-RU
+Độ cao rơi xuống an toàn,Безопасная высота падения,ru-RU
+Độ nảy,Упругость,ru-RU
+Şans,Везение,ru-RU
+กระดอนโจมตี,Отбрасывание при атаке,ru-RU
+กำลังเสริมซอมบี้,Подкрепление зомби,ru-RU
+ขนาด,Размер,ru-RU
+ความต้านทานการกระดอน,Сопротивление к отбрасыванию,ru-RU
+ความต้านทานการกระดอนจากระเบิด,Сопротивление к отбрасыванию взрывом,ru-RU
+ความสูงของขั้นก้าว,Высота шага,ru-RU
+ความเด้ง,Упругость,ru-RU
+ความเร็ว,Скорость,ru-RU
+ความเร็วการขุดใต้น้ำ,Скорость добычи под водой,ru-RU
+ความเร็วการทำลายบล็อก,Скорость разрушения блоков,ru-RU
+ความเร็วการบิน,Скорость полёта,ru-RU
+ความเร็วการย่อง,Скорость подкрадывания,ru-RU
+ความเร็วโจมตี,Скорость атаки,ru-RU
+ความแข็งแกร่งของเกราะ,Твёрдость брони,ru-RU
+ความแรงการกระโดด,Сила прыжка,ru-RU
+ดาเมจโจมตี,Урон при атаке,ru-RU
+ดูดซับสูงสุด,Предел поглощения,ru-RU
+ตัวคูณดาเมจจากการตก,Множитель урона от падения,ru-RU
+ตัวดัดแปรแรงต้านอากาศ,Модификатор сопротивления воздуха,ru-RU
+ตัวดัดแปรแรงเสียดทาน,Модификатор трения,ru-RU
+ประสิทธิภาพการขุด,Эффективность добычи,ru-RU
+ประสิทธิภาพการเคลื่อนที่,Эффективность передвижения,ru-RU
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,Эффективность передвижения в воде,ru-RU
+ระยะการตกที่ปลอดภัย,Безопасная высота падения,ru-RU
+ระยะการรับเวย์พอยต์,Дальность обнаружения маркеров,ru-RU
+ระยะการล่อของม็อบ,Дальность приманивания,ru-RU
+ระยะการส่งผ่านเวย์พอยต์,Дальность передачи маркера,ru-RU
+ระยะคะแนนใต้ป้ายชื่อ,Дальность видимости счёта под именем,ru-RU
+ระยะที่ม็อบติดตาม,Диапазон преследования моба,ru-RU
+ระยะปฏิสัมพันธ์กับบล็อก,Дальность взаимодействия с блоками,ru-RU
+ระยะปฏิสัมพันธ์กับเอนทิตี้,Дальность взаимодействия с сущностями,ru-RU
+ระยะป้ายชื่อ,Дальность видимости имени,ru-RU
+ระยะห่างกล้อง,Отдалённость камеры,ru-RU
+ระยะเวลาติดไฟ,Время горения,ru-RU
+ออกซิเจนพิเศษ,Бонус к кислороду,ru-RU
+อัตราส่วนดาเมจแบบกวาด,Коэффициент разящего удара,ru-RU
+เกราะ,Броня,ru-RU
+เลือดสูงสุด,Максимальное здоровье,ru-RU
+แรงม้ากระโดด,Сила прыжка лошади,ru-RU
+แรงโน้มถ่วง,Гравитация,ru-RU
+โชค,Везение,ru-RU
+なぎ払いダメージの比率,Коэффициент разящего удара,ru-RU
+ウェイポイント伝達距離,Дальность передачи маркера,ru-RU
+ウェイポイント受信距離,Дальность обнаружения маркеров,ru-RU
+ウマの跳躍力,Сила прыжка лошади,ru-RU
+エンティティ操作範囲,Дальность взаимодействия с сущностями,ru-RU
+カメラ距離,Отдалённость камеры,ru-RU
+サイズ,Размер,ru-RU
+スニーク速度,Скорость подкрадывания,ru-RU
+ゾンビの増援,Подкрепление зомби,ru-RU
+ネームタグの表示距離,Дальность видимости имени,ru-RU
+ネームタグ下のスコアの表示距離,Дальность видимости счёта под именем,ru-RU
+ノックバック,Отбрасывание при атаке,ru-RU
+ノックバック力,Отбрасывание при атаке,ru-RU
+ノックバック耐性,Сопротивление к отбрасыванию,ru-RU
+ブロック操作範囲,Дальность взаимодействия с блоками,ru-RU
+ブロック破壊速度,Скорость разрушения блоков,ru-RU
+僵尸增援,Подкрепление зомби,ru-RU
+击退,Отбрасывание при атаке,ru-RU
+击退抗性,Сопротивление к отбрасыванию,ru-RU
+名牌分数距离,Дальность видимости счёта под именем,ru-RU
+名牌距离,Дальность видимости имени,ru-RU
+名稱標籤分數距離,Дальность видимости счёта под именем,ru-RU
+名稱標籤距離,Дальность видимости имени,ru-RU
+大きさ,Размер,ru-RU
+大小,Размер,ru-RU
+安全摔落高度,Безопасная высота падения,ru-RU
+安全落下高度,Безопасная высота падения,ru-RU
+实体交互距离,Дальность взаимодействия с сущностями,ru-RU
+實體互動距離,Дальность взаимодействия с сущностями,ru-RU
+尺寸,Размер,ru-RU
+幸运值,Везение,ru-RU
+幸運,Везение,ru-RU
+弹性,Упругость,ru-RU
+弾性係数,Упругость,ru-RU
+彈性,Упругость,ru-RU
+抗擊退,Сопротивление к отбрасыванию,ru-RU
+抗爆炸擊退,Сопротивление к отбрасыванию взрывом,ru-RU
+护甲值,Броня,ru-RU
+挖掘效率,Эффективность добычи,ru-RU
+採掘効率,Эффективность добычи,ru-RU
+摔落伤害倍数,Множитель урона от падения,ru-RU
+摔落傷害倍率,Множитель урона от падения,ru-RU
+摩擦係数,Модификатор трения,ru-RU
+摩擦力修正係數,Модификатор трения,ru-RU
+摩擦力修正系数,Модификатор трения,ru-RU
+擊退,Отбрасывание при атаке,ru-RU
+攻击伤害,Урон при атаке,ru-RU
+攻击速度,Скорость атаки,ru-RU
+攻撃力,Урон при атаке,ru-RU
+攻撃速度,Скорость атаки,ru-RU
+攻擊傷害,Урон при атаке,ru-RU
+攻擊速度,Скорость атаки,ru-RU
+方块交互距离,Дальность взаимодействия с блоками,ru-RU
+方块破坏速度,Скорость разрушения блоков,ru-RU
+方塊互動距離,Дальность взаимодействия с блоками,ru-RU
+方塊破壞速度,Скорость разрушения блоков,ru-RU
+最大伤害吸收值,Предел поглощения,ru-RU
+最大体力,Максимальное здоровье,ru-RU
+最大傷害吸收值,Предел поглощения,ru-RU
+最大生命值,Максимальное здоровье,ru-RU
+最大行走高度,Высота шага,ru-RU
+最高生命值,Максимальное здоровье,ru-RU
+横扫伤害比率,Коэффициент разящего удара,ru-RU
+橫掃傷害率,Коэффициент разящего удара,ru-RU
+殭屍增援隊,Подкрепление зомби,ru-RU
+段差上限,Высота шага,ru-RU
+水下挖掘速度,Скорость добычи под водой,ru-RU
+水中挖掘速度,Скорость добычи под водой,ru-RU
+水中採掘速度,Скорость добычи под водой,ru-RU
+水中移动效率,Эффективность передвижения в воде,ru-RU
+水中移動効率,Эффективность передвижения в воде,ru-RU
+水中移動效率,Эффективность передвижения в воде,ru-RU
+潛行速度,Скорость подкрадывания,ru-RU
+潜行速度,Скорость подкрадывания,ru-RU
+炎上時間,Время горения,ru-RU
+燃燒時間,Время горения,ru-RU
+爆炸击退抗性,Сопротивление к отбрасыванию взрывом,ru-RU
+爆発ノックバック耐性,Сопротивление к отбрасыванию взрывом,ru-RU
+生物引誘範圍,Дальность приманивания,ru-RU
+生物引诱范围,Дальность приманивания,ru-RU
+生物跟随距离,Диапазон преследования моба,ru-RU
+生物追蹤範圍,Диапазон преследования моба,ru-RU
+盔甲,Броня,ru-RU
+盔甲強度,Твёрдость брони,ru-RU
+盔甲韧性,Твёрдость брони,ru-RU
+着火时间,Время горения,ru-RU
+移动效率,Эффективность передвижения,ru-RU
+移動効率,Эффективность передвижения,ru-RU
+移動效率,Эффективность передвижения,ru-RU
+移動速度,Скорость,ru-RU
+空气阻力修正系数,Модификатор сопротивления воздуха,ru-RU
+空気抵抗係数,Модификатор сопротивления воздуха,ru-RU
+空氣阻力修正係數,Модификатор сопротивления воздуха,ru-RU
+落下ダメージ倍率,Множитель урона от падения,ru-RU
+衝撃吸収レベルの上限,Предел поглощения,ru-RU
+路径点传输距离,Дальность передачи маркера,ru-RU
+路径点接收距离,Дальность обнаружения маркеров,ru-RU
+路徑點傳輸距離,Дальность передачи маркера,ru-RU
+路徑點接收距離,Дальность обнаружения маркеров,ru-RU
+跳跃力度,Сила прыжка,ru-RU
+跳躍力,Сила прыжка,ru-RU
+速度,Скорость,ru-RU
+運,Везение,ru-RU
+酸素ボーナス,Бонус к кислороду,ru-RU
+重力,Гравитация,ru-RU
+鏡頭距離,Отдалённость камеры,ru-RU
+镜头距离,Отдалённость камеры,ru-RU
+防具強度,Твёрдость брони,ru-RU
+防御力,Броня,ru-RU
+額外氧氣,Бонус к кислороду,ru-RU
+额外氧气,Бонус к кислороду,ru-RU
+飛行速度,Скорость полёта,ru-RU
+飞行速度,Скорость полёта,ru-RU
+馬跳躍力,Сила прыжка лошади,ru-RU
+马匹跳跃能力,Сила прыжка лошади,ru-RU
+개체 상호 작용 범위,Дальность взаимодействия с сущностями,ru-RU
+걸음 높이,Высота шага,ru-RU
+경로점 발신 범위,Дальность передачи маркера,ru-RU
+경로점 수신 범위,Дальность обнаружения маркеров,ru-RU
+공격 밀침 세기,Отбрасывание при атаке,ru-RU
+공격 속도,Скорость атаки,ru-RU
+공격 피해,Урон при атаке,ru-RU
+공기 저항력 변경자,Модификатор сопротивления воздуха,ru-RU
+낙하 피해 배수,Множитель урона от падения,ru-RU
+마찰력 변경자,Модификатор трения,ru-RU
+말 점프 강도,Сила прыжка лошади,ru-RU
+몹 따름 범위,Диапазон преследования моба,ru-RU
+몹 유인 범위,Дальность приманивания,ru-RU
+밀침 저항,Сопротивление к отбрасыванию,ru-RU
+방어,Броня,ru-RU
+방어 강도,Твёрдость брони,ru-RU
+배율,Размер,ru-RU
+블록 상호 작용 범위,Дальность взаимодействия с блоками,ru-RU
+블록 파괴 속도,Скорость разрушения блоков,ru-RU
+비행 속도,Скорость полёта,ru-RU
+산소 추가,Бонус к кислороду,ru-RU
+속도,Скорость,ru-RU
+수중 이동 효율,Эффективность передвижения в воде,ru-RU
+수중 채굴 속도,Скорость добычи под водой,ru-RU
+안전 낙하 거리,Безопасная высота падения,ru-RU
+연소 시간,Время горения,ru-RU
+웅크렸을 때 속도,Скорость подкрадывания,ru-RU
+이동 효율,Эффективность передвижения,ru-RU
+이름표 거리,Дальность видимости имени,ru-RU
+이름표 점수 거리,Дальность видимости счёта под именем,ru-RU
+점프 세기,Сила прыжка,ru-RU
+좀비 증원,Подкрепление зомби,ru-RU
+중력,Гравитация,ru-RU
+채굴 효율,Эффективность добычи,ru-RU
+최대 생명력,Максимальное здоровье,ru-RU
+최대 흡수,Предел поглощения,ru-RU
+카메라 거리,Отдалённость камеры,ru-RU
+크기,Размер,ru-RU
+탄성,Упругость,ru-RU
+폭발 밀침 저항,Сопротивление к отбрасыванию взрывом,ru-RU
+행운,Везение,ru-RU
+휩쓸기 피해 비율,Коэффициент разящего удара,ru-RU

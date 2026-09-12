@@ -1,0 +1,1915 @@
+﻿source,target,tgt_lng
+ ,Prior. de posição:,pt-BR
+"""%s"" n'est pas un nom de structure valide",Nome da estrutura inválido: %s,pt-BR
+"#%s etiketinde blok beklendi, %s bulundu","Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+#%sに含まれるブロックが必要ですが、%sが検出されました,"Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+"#%s에 속하는 블록이 필요한데, %s(이)었습니다","Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+%2$s birim zamanda %1$s,%s no tique %s,pt-BR
+"%2$s türü %1$s eşya beklendi, %3$s bulundu","Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다","Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다","Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+"%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+"%2$s, %3$s, %4$s 周圍應只有一個 %1$s，但找到了 %5$s 個","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+"%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+"%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+"%2$s, %3$s, %4$s周围应仅存在一个%1$s，实际为%5$s个","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+"%2$s, %3$s, %4$s周围应存在%1$s","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+%2$sティック時点で%1$s,%s no tique %s,pt-BR
+"%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+%s (틱 %s),%s no tique %s,pt-BR
+%s al tick %s,%s no tique %s,pt-BR
+"%s at %s, %s, %s (relative: %s, %s, %s) on tick %s","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+%s au tick %s,%s no tique %s,pt-BR
+"%s bei %s, %s, %s (relativ: %s, %s, %s) in Tick %s","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+%s beklendi,Esperava-se %s,pt-BR
+%s birim zaman içinde başarılı veya başarısız olunmadı,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+"%s bloğu beklendi, %s bulundu","Esperava-se o bloco %s, obteve-se %s",pt-BR
+%s bloğunun mevcut olması bekleniyor,Esperava-se a presença do bloco %s,pt-BR
+"%s chạm vào %s, %s, %s không mong muốn (tương đối: %s, %s, %s)","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"%s değerinin %s olması beklendi, %s bulundu","Esperava-se que %s fosse %s, foi %s",pt-BR
+"%s durumunun %s olması beklendi, %s bulundu","Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+"%s en %s, %s, %s (relative : %s, %s, %s) au tick %s","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+"%s en %s, %s, %s (relativo: %s, %s, %s) en el tic %s","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+%s en el tic %s,%s no tique %s,pt-BR
+"%s entités de type ""%s"" attendues (%s trouvées)","Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+%s erwartet,Esperava-se %s,pt-BR
+%s eşya tipi beklenmedi,Não se esperava um item do tipo %s,pt-BR
+%s Gegenstände vom Typ %s erwartet; %s gefunden,"Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+%s in Tick %s,%s no tique %s,pt-BR
+%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+%s için olan test yapısı yerleştirilemedi,Falha ao colocar a estrutura de teste para %s,pt-BR
+%s için varlık verisi uyumsuzluğu,Os dados da entidade não correspondem para: %s,pt-BR
+%s Objekte vom Typ %s erwartet; %s gefunden,"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+"%s objets de type ""%s"" attendus (%s trouvés)","Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+%s on tick %s,%s no tique %s,pt-BR
+"%s presso %s, %s, %s (relativa: %s, %s, %s) al tick %s","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+"%s previsto: %s, risultato: %s","Esperava-se que %s fosse %s, foi %s",pt-BR
+"%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+%s testi yürütülüyor,Iniciando o teste %s,pt-BR
+%s trên nhịp %s,%s no tique %s,pt-BR
+%s türünde eşya beklendi,Esperava-se o item do tipo %s,pt-BR
+"%s türünden %s varlık beklendi, %s bulundu","Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+"%s tại %s, %s, %s (tương đối: %s, %s, %s) trên nhịp %s","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+%s varlığı oluşturulamadı,Falha ao criar a entidade %s,pt-BR
+%s varlığı testte başarısız oldu: %s,A entidade %s falhou no teste: %s,pt-BR
+%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+%s varlığının %s %s etkisine sahip olması beklendi,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+"%s varlığının %s, %s, %s civarında var olması beklendi","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+%s varlığının testte var olması beklendi,Esperava-se que %s existisse no teste,pt-BR
+%s varlığının var olması beklenmedi,Não se esperava que %s existisse,pt-BR
+"%s wurde als %s erwartet, war aber %s","Esperava-se que %s fosse %s, foi %s",pt-BR
+"%s wurde als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"%s wurde bei %s, %s, %s erwartet","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+"%s wurde nicht als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"%s zwischen %s und %s erwartet, war aber %s","Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+%s в такте %s,%s no tique %s,pt-BR
+"%s в точке %s, %s, %s (относительно: %s, %s, %s) в такте %s","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+%s ต้องมีเอฟเฟกต์ %s %s,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+%s ต้องเป็น %s: ตอนนี้เป็น %s,"Esperava-se que %s fosse %s, foi %s",pt-BR
+"%s ที่ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s) ในติ๊กที่ %s","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+%s ในติ๊กที่ %s,%s no tique %s,pt-BR
+%s 不應存在,Não se esperava que %s existisse,pt-BR
+"%s 不應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+%s 應位於 %s 和 %s 之間，但實際為 %s,"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+"%s 應存在於 %s, %s, %s 周圍","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+%s 應存在於測試中,Esperava-se que %s existisse no teste,pt-BR
+%s 應有效果 %s %s,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+%s 應為 %s，但實際為 %s,"Esperava-se que %s fosse %s, foi %s",pt-BR
+"%s 應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+%s 方塊過多,Há muitos blocos (%s),pt-BR
+%s 的實體資料不相符,Os dados da entidade não correspondem para: %s,pt-BR
+%s 개체 생성에 실패했습니다,Falha ao criar a entidade %s,pt-BR
+%s 개체가 테스트에 실패했습니다: %s,A entidade %s falhou no teste: %s,pt-BR
+"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다","A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+%s 블록이 너무 많습니다,Há muitos blocos (%s),pt-BR
+%s 블록이 있으면 안 됩니다,Não esperava-se que o bloco fosse %s,pt-BR
+"%s 블록이 필요한데, %s(이)었습니다","Esperava-se o bloco %s, obteve-se %s",pt-BR
+"%s 속성이 %s(이)어야 하는데, %s(이)었습니다","Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+%s 유형의 아이템이 있으면 안 됩니다,Não se esperava um item do tipo %s,pt-BR
+%s 유형의 아이템이 필요합니다,Esperava-se o item do tipo %s,pt-BR
+"%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+"%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+"%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+"%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"%sが%s, %s, %sの周囲に存在することが必要です","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+%sが%sであることが必要ですが、%sでした,"Esperava-se que %s fosse %s, foi %s",pt-BR
+%sがテスト内に存在している必要があります,Esperava-se que %s existisse no teste,pt-BR
+%sが存在することは予期されていません,Não se esperava que %s existisse,pt-BR
+%sが必要です,Esperava-se %s,pt-BR
+%sには効果%s %sが付与されている必要があります,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+%sのテスト構造物の設置に失敗しました,Falha ao colocar a estrutura de teste para %s,pt-BR
+%sは%sから%sの間であることが必要ですが、%sでした,"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+%sティック以内にシーケンスが終了しませんでした,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+%sティック以内に成功も失敗もしませんでした。,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+%sブロックが多すぎます,Há muitos blocos (%s),pt-BR
+%s不应存在,Não se esperava que %s existisse,pt-BR
+"%s不应接触%s, %s, %s（相对位置：%s, %s, %s）","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+%s应存在于测试中,Esperava-se que %s existisse no teste,pt-BR
+"%s应接触%s, %s, %s（相对位置：%s, %s, %s）","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+%s应有%s %s效果,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+%s方块过多,Há muitos blocos (%s),pt-BR
+%s的实体数据不匹配,Os dados da entidade não correspondem para: %s,pt-BR
+%s의 개체 데이터가 일치하지 않았습니다,Os dados da entidade não correspondem para: %s,pt-BR
+%s의 테스트 구조물 설치에 실패했습니다,Falha ao colocar a estrutura de teste para %s,pt-BR
+%s이(가) %s %s 효과를 갖고 있어야 합니다,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+"%s이(가) %s(이)어야 하는데, %s(이)었습니다","Esperava-se que %s fosse %s, foi %s",pt-BR
+"%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다","Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+%s이(가) 아닌 잘못된 틱에 성공했습니다,Concluído no tique inválido. Esperava-se: %s,pt-BR
+%s이(가) 있으면 안 됩니다,Não se esperava que %s existisse,pt-BR
+%s이(가) 필요합니다,Esperava-se %s,pt-BR
+%s틱 안에 끝난 시퀀스가 없습니다,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+%s틱 안에 성공하거나 실패하지 않았습니다,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+"%s，位于%s, %s, %s（相对位置：%s, %s, %s），时间为第%s刻","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+"%s，位於 %s, %s, %s（相對位置：%s, %s, %s），時間為 %s 刻","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+%s，时间为%s刻,%s no tique %s,pt-BR
+%s，時間為 %s 刻,%s no tique %s,pt-BR
+'%s' yapısı için boyut başarıyla tespit edildi,"Tamanho da estrutura ""%s"" detectado",pt-BR
+'%s' yapısı için konum hazırlandı,"Posição da estrutura ""%s"" preparada",pt-BR
+'%s' yapısı kullanılabilir değil,"Estrutura ""%s"" não encontrada",pt-BR
+'%s' 구조물을 사용할 수 없습니다,"Estrutura ""%s"" não encontrada",pt-BR
+'%s'은(는) 잘못된 구조물 이름입니다,Nome da estrutura inválido: %s,pt-BR
+'%s'의 크기를 성공적으로 감지했습니다,"Tamanho da estrutura ""%s"" detectado",pt-BR
+[geçersiz],[inválido],pt-BR
+[invalid],[inválido],pt-BR
+[không hợp lệ],[inválido],pt-BR
+[no válido],[inválido],pt-BR
+[non valide],[inválido],pt-BR
+[non valido],[inválido],pt-BR
+[ungültig],[inválido],pt-BR
+[недействительно],[inválido],pt-BR
+[ไม่ถูกต้อง],[inválido],pt-BR
+[无效],[inválido],pt-BR
+[無効],[inválido],pt-BR
+[無效],[inválido],pt-BR
+[잘못됨],[inválido],pt-BR
+Accept,Aceitar,pt-BR
+Accept Mode - Accept success for (part of) a test,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+Accepter,Aceitar,pt-BR
+Accetta,Aceitar,pt-BR
+Accettazione: accetta la riuscita di (una parte di) un collaudo,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+Aceptar,Aceitar,pt-BR
+Ad:,Nome:,pt-BR
+Afficher la zone de délimitation :,Mostrar bordas:,pt-BR
+Afficher les blocs invisibles :,Mostrar blocos invisíveis:,pt-BR
+Akzeptanzmodus – Nimmt (teilweisen) Erfolg eines Tests entgegen,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+Akzeptieren,Aceitar,pt-BR
+"Al procesar la pieza asociada a las conexiones, este es el orden en el que el bloque rompecabezas intenta conectar con su pieza de destino.
+
+Los bloques rompecabezas se procesan en orden descendente, con un orden de inserción aleatorio.","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+Aligned,Fixa,pt-BR
+Aligné,Fixa,pt-BR
+Angolo,Canto,pt-BR
+Angolo: %s,Cantos: %s,pt-BR
+Angolo: marcatore per piazzamento e dimensione,Modo de canto — Marcador de posição e tamanho,pt-BR
+Aucun test,Nenhum teste,pt-BR
+Aucune séquence ne s'est terminée durant %s ticks,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+Ausgerichtet,Fixa,pt-BR
+Auswahlpriorität:,Prior. de seleção:,pt-BR
+Avvia,Iniciar,pt-BR
+Avvio del collaudo %s...,Iniciando o teste %s,pt-BR
+Avvio: il punto di partenza di un collaudo,Modo de início — Ponto inicial de um teste,pt-BR
+Bao gồm thực thể:,Incluir entidades:,pt-BR
+Bağlantı Türü:,Tipo de ligação:,pt-BR
+Başarısız et,Falhar,pt-BR
+Başarısız Etme Modu - Testi başarısızlığa uğrat,Modo de falha — Falhar o teste,pt-BR
+Başarısız: %s,Falhou: %s,pt-BR
+Başarısızlık şartları karşılandı,Condições de falha atendidas,pt-BR
+Başlat,Iniciar,pt-BR
+Bedingung bereits in Tick %s ausgelöst,Condição já acionada em %s,pt-BR
+Bedingung nicht ausgelöst,Condição não acionada,pt-BR
+Begrenzungsrahmen anzeigen:,Mostrar bordas:,pt-BR
+Behälter muss ein %s enthalten,O recipiente deve conter um único: %s,pt-BR
+Behälter muss enthalten: %s,O recipiente deve conter: %s,pt-BR
+Behälter muss leer sein,O recipiente deve estar vazio,pt-BR
+Beklenen tick'den önce başarıldı: beklenen tick %s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+Beklenmeyen blok türü bulundu: %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+Benutzerdefinierte NBT-Daten,Nome da marcação de dados personalizados,pt-BR
+Bezugsquelle:,Conjunto-alvo:,pt-BR
+Bilinmeyen dâhilî hata: %s,Erro interno desconhecido: %s,pt-BR
+Biom für Test konnte nicht festgelegt werden,Falha ao definir o bioma para teste,pt-BR
+"Bloc ""%s"" attendu (bloc reçu : ""%s"")","Esperava-se o bloco %s, obteve-se %s",pt-BR
+"Bloc ""%s"" inattendu",Não esperava-se que o bloco fosse %s,pt-BR
+"Bloc ""%s"" manquant de la structure de test",Estrutura de teste com o bloco ausente: %s,pt-BR
+"Bloc attendu dans le tag #%s (valeur reçue : ""%s"")","Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+Blocco %s mancante dalla struttura di collaudo,Estrutura de teste com o bloco ausente: %s,pt-BR
+Blocco complesso mancante,Entidade-bloco ausente,pt-BR
+"Block %s erwartet, war aber %s","Esperava-se o bloco %s, obteve-se %s",pt-BR
+"Block in #%s erwartet, war aber %s","Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+Block property missing. Expected property %s to be %s,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+Block Tabanlı Test,Teste baseado em blocos,pt-BR
+Block wurde nicht als %s erwartet,Não esperava-se que o bloco fosse %s,pt-BR
+Block-Based Test,Teste baseado em blocos,pt-BR
+Blockbasierter Test,Teste baseado em blocos,pt-BR
+Blockeigenschaft nicht vorhanden. Eigenschaft %s wurde als %s erwartet,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+"Blok durumu eksik, %s durumunun %s olması beklendi",Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+Blok varlık eksik,Entidade-bloco ausente,pt-BR
+Bloğun %s olması beklenmedi,Não esperava-se que o bloco fosse %s,pt-BR
+Boyut: %s,Dimensão: %s,pt-BR
+"Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+Built-in Function Test,Teste de função integrada,pt-BR
+Böyle bir test yok,Nenhum teste,pt-BR
+Bắt đầu,Iniciar,pt-BR
+Bị dư %s,Não se esperava que %s existisse,pt-BR
+Bị dư khối %s,Não esperava-se que o bloco fosse %s,pt-BR
+Bị dư vật phẩm thuộc loại %s,Não se esperava um item do tipo %s,pt-BR
+Bị thiếu %s,Esperava-se %s,pt-BR
+Bị thiếu %s thực thể thuộc loại %s: đã tìm thấy %s,"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+"Bị thiếu %s tồn tại xung quanh %s, %s, %s","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+Bị thiếu %s vật phẩm thuộc loại %s: đã tìm thấy %s,"Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+Bị thiếu khối %s,Esperava-se a presença do bloco %s,pt-BR
+Bị thiếu khối %s: đã nhận %s,"Esperava-se o bloco %s, obteve-se %s",pt-BR
+Bị thiếu khối trong #%s: đã nhận %s,"Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+Bị thiếu thuộc tính khối. Dự kiến thuộc tính %s là %s,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+Bị thiếu thực thể khối,Entidade-bloco ausente,pt-BR
+Bị thiếu vật phẩm thuộc loại %s,Esperava-se o item do tipo %s,pt-BR
+CARGAR,CARREGAR,pt-BR
+Cargar,Carregar,pt-BR
+Cargar y ejecutar,Carregar e executar,pt-BR
+Cargar: %s,Carregar: %s,pt-BR
+Carica,CARREGAR,pt-BR
+Carica,Carregar,pt-BR
+Carica ed esegui,Carregar e executar,pt-BR
+Caricamento: %s,Carregar: %s,pt-BR
+Caricamento: carica da documento,Modo de carregamento — Carregar do arquivo,pt-BR
+Caricato la struttura da «%s»,"Estrutura carregada de ""%s""",pt-BR
+Ch.nhận,Aceitar,pt-BR
+CHARGE,CARREGAR,pt-BR
+Charger,Carregar,pt-BR
+Charger : %s,Carregar: %s,pt-BR
+Charger et exécuter,Carregar e executar,pt-BR
+Chiều không gian: %s,Dimensão: %s,pt-BR
+Chế độ bắt đầu - Điểm bắt đầu cho một bài kiểm tra,Modo de início — Ponto inicial de um teste,pt-BR
+Chế độ chấp nhận - Chấp nhận thành công (một phần) bài kiểm tra,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+Chế độ dữ liệu - Đánh dấu logic trò chơi,Modo de dados — Marcador lógico do jogo,pt-BR
+Chế độ góc - Đánh dấu vị trí và kích cỡ,Modo de canto — Marcador de posição e tamanho,pt-BR
+Chế độ lưu - Ghi vào tập tin,Modo de salvamento — Salvar no arquivo,pt-BR
+Chế độ nhật kí - Ghi một tin nhắn,Modo de registro — Registrar uma mensagem,pt-BR
+Chế độ nạp - Nạp từ tập tin,Modo de carregamento — Carregar do arquivo,pt-BR
+Chế độ thất bại - Kiểm tra không thành công,Modo de falha — Falhar o teste,pt-BR
+Coin,Canto,pt-BR
+Coin : %s,Cantos: %s,pt-BR
+Collaudo basato su blocchi,Teste baseado em blocos,pt-BR
+Collaudo di funzione integrata,Teste de função integrada,pt-BR
+Collaudo in corso prima di piazzare la struttura,Teste em tiques antes de colocar a estrutura,pt-BR
+Colocación estricta:,Posicionamento exato:,pt-BR
+Condición no activada,Condição não acionada,pt-BR
+Condición ya activada en %s,Condição já acionada em %s,pt-BR
+Condition already triggered at %s,Condição já acionada em %s,pt-BR
+Condition déjà déclenchée au tick %s,Condição já acionada em %s,pt-BR
+Condition non déclenchée,Condição não acionada,pt-BR
+Condition not triggered,Condição não acionada,pt-BR
+Conditions d'échec remplies,Condições de falha atendidas,pt-BR
+Condizione già attivata nel tick %s,Condição já acionada em %s,pt-BR
+Condizione non attivata,Condição não acionada,pt-BR
+Condizioni di fallimento soddisfatte,Condições de falha atendidas,pt-BR
+Container should be empty,O recipiente deve estar vazio,pt-BR
+Container should contain a single: %s,O recipiente deve conter um único: %s,pt-BR
+Container should contain: %s,O recipiente deve conter: %s,pt-BR
+"Coordenadas de prueba: [%s, %s, %s] en %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+"Coordenadas del jugador: [%s, %s, %s] en %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+Coordinate automatiche,Detectar posição e tamanho da estrutura:,pt-BR
+"Coordinate del giocatore: [%s, %s, %s] nella dimensione %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+"Coordinate di collaudo: [%s, %s, %s] nella dimensione %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+"Coordonnées de test : [%s, %s, %s] dans la dimension %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+"Coordonnées du joueur : [%s, %s, %s] dans la dimension %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+Corner,Canto,pt-BR
+Corner Mode - Placement and size marker,Modo de canto — Marcador de posição e tamanho,pt-BR
+Corner: %s,Cantos: %s,pt-BR
+Creazione dell'entità %s non riuscita,Falha ao criar a entidade %s,pt-BR
+"Cuando el bloque rompecabezas se conecta a una pieza, este es el orden en el que la pieza se procesa para las conexiones en estructuras más anchas.
+
+Las piezas se procesan en orden descendente, teniendo en cuenta el orden de inserción.","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+Custom Data Tag Name,Nome da marcação de dados personalizados,pt-BR
+Cấp độ: %s,Níveis: %s,pt-BR
+Cấu trúc '%s' không có sẵn,"Estrutura ""%s"" não encontrada",pt-BR
+Cấu trúc kiểm tra thiếu %s khối,Estrutura de teste com o bloco ausente: %s,pt-BR
+Cấu trúc được lưu với tên '%s',"Estrutura salva como ""%s""",pt-BR
+Cấu trúc: %s,Estrutura: %s,pt-BR
+Data,Dados,pt-BR
+Data Mode - Game logic marker,Modo de dados — Marcador lógico do jogo,pt-BR
+Data: %s,Dados: %s,pt-BR
+Daten,Dados,pt-BR
+Daten: %s,Dados: %s,pt-BR
+Daten‐Modus – Markierung der Spiellogik,Modo de dados — Marcador lógico do jogo,pt-BR
+Dati,Dados,pt-BR
+Dati dell'entità previsti: %s (ricevuto: %s),"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+Dati: %s,Dados: %s,pt-BR
+Dati: marcatore per logiche di gioco,Modo de dados — Marcador lógico do jogo,pt-BR
+Datos,Dados,pt-BR
+Datos: %s,Dados: %s,pt-BR
+Demasiados bloques %s,Há muitos blocos (%s),pt-BR
+Depo boş olmalı,O recipiente deve estar vazio,pt-BR
+Depo şu eşyadan bir tane barındırmalı: %s,O recipiente deve conter um único: %s,pt-BR
+Depo şu eşyayı barındırmalı: %s,O recipiente deve conter: %s,pt-BR
+Der angegebene Block ist kein Blockgegenstand,O bloco especificado não é um item-bloco.,pt-BR
+DETECT,DETECTAR,pt-BR
+Detect Structure Size and Position:,Detectar posição e tamanho da estrutura:,pt-BR
+Detectar tamaño y posición:,Detectar posição e tamanho da estrutura:,pt-BR
+Did not expect %s to exist,Não se esperava que %s existisse,pt-BR
+"Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+Did not expect block to be %s,Não esperava-se que o bloco fosse %s,pt-BR
+Did not expect item of type %s,Não se esperava um item do tipo %s,pt-BR
+Didn't succeed or fail within %s ticks,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+Dieser Test existiert nicht,Nenhum teste,pt-BR
+Dimension : %s,Dimensão: %s,pt-BR
+Dimension: %s,Dimensão: %s,pt-BR
+Dimensione della struttura,Tamanho da estrutura,pt-BR
+Dimensione della struttura di collaudo,Tamanho da estrutura do teste,pt-BR
+dimensione della struttura in x,tamanho x da estrutura,pt-BR
+dimensione della struttura in y,tamanho y da estrutura,pt-BR
+dimensione della struttura in z,tamanho z da estrutura,pt-BR
+Dimensione: %s,Dimensão: %s,pt-BR
+Dimensión: %s,Dimensão: %s,pt-BR
+Données,Dados,pt-BR
+Données : %s,Dados: %s,pt-BR
+Données d'entité attendues : %s (valeur reçue : %s),"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+Drehbar,Rotativa,pt-BR
+Dâhilî Fonksiyon Testi,Teste de função integrada,pt-BR
+Délai d'expiration non valide (%s) - doit être un nombre positif de ticks,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+"Démarrage du test ""%s""",Iniciando o teste %s,pt-BR
+Démarrer,Iniciar,pt-BR
+DÉTECTE,DETECTAR,pt-BR
+Détecter la position et la taille :,Detectar posição e tamanho da estrutura:,pt-BR
+Döndürülebilir,Rotativa,pt-BR
+Dönüşür:,Torna-se:,pt-BR
+Dữ liệu,Dados,pt-BR
+Dữ liệu thực thể không khớp cho %s,Os dados da entidade não correspondem para: %s,pt-BR
+Dữ liệu: %s,Dados: %s,pt-BR
+"Dự kiến %s chạm vào %s, %s, %s (tương đối: %s, %s, %s)","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+Dự kiến %s có hiệu ứng %s %s,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+Dự kiến %s là %s: trước đó là %s,"Esperava-se que %s fosse %s, foi %s",pt-BR
+Dự kiến %s nằm trong phạm vi từ %s đến %s: trước đó là %s,"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+Dự kiến %s tồn tại trong kiểm tra,Esperava-se que %s existisse no teste,pt-BR
+"Dự kiến chỉ một %s tồn tại xung quanh %s, %s, %s nhưng đã tìm thấy %s","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+Dự kiến dữ liệu thực thể là %s: trước đó là %s,"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+Dự kiến thuộc tính %s là %s: trước đó là %s,"Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+Ebenen: %s,Níveis: %s,pt-BR
+Ecke,Canto,pt-BR
+Ecke: %s,Cantos: %s,pt-BR
+Eck‐Modus – Markierung von Position und Größe,Modo de canto — Marcador de posição e tamanho,pt-BR
+Effekt für %s wurde als %s %s erwartet,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+Ejecutar la prueba antes de colocar la estructura,Teste em tiques antes de colocar a estrutura,pt-BR
+El bloque proporcionado no puede ser un objeto,O bloco especificado não é um item-bloco.,pt-BR
+El contenedor debe contener un único: %s,O recipiente deve conter um único: %s,pt-BR
+El contenedor debe contener: %s,O recipiente deve conter: %s,pt-BR
+El contenedor debe estar vacío,O recipiente deve estar vazio,pt-BR
+El inventario de la entidad debe contener %s,O inventário da entidade deve conter %s,pt-BR
+El tamaño de «%s» se ha detectado con éxito,"Tamanho da estrutura ""%s"" detectado",pt-BR
+Enregistrer,Registrar,pt-BR
+Enregistrer la structure,Salvar estrutura,pt-BR
+Ensemble d'éléments cible :,Conjunto-alvo:,pt-BR
+Entities:,Entidades:,pt-BR
+Entity %s failed test: %s,A entidade %s falhou no teste: %s,pt-BR
+Entity %s failed test: %s. Expected %s: was %s,"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+Entity data mismatch for %s,Os dados da entidade não correspondem para: %s,pt-BR
+Entity inventory should contain %s,O inventário da entidade deve conter %s,pt-BR
+Entity should be holding %s,A entidade deve segurar: %s,pt-BR
+Entità,Entidades:,pt-BR
+Entità,Incluir entidades:,pt-BR
+"Entité ""%s"" attendue",Esperava-se %s,pt-BR
+"Entité ""%s"" attendue autour de %s, %s, %s","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+"Entité ""%s"" attendue d'avoir l'effet %s %s",Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+"Entité ""%s"" attendue dans le test",Esperava-se que %s existisse no teste,pt-BR
+"Entité ""%s"" attendue de toucher %s, %s, %s (relative : %s, %s, %s)","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"Entité ""%s"" inattendue",Não se esperava que %s existisse,pt-BR
+"Entité ""%s"" non attendue de toucher %s, %s, %s (relative : %s, %s, %s)","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+Entité de bloc manquante,Entidade-bloco ausente,pt-BR
+Entités :,Entidades:,pt-BR
+Entorno: %s,Ambiente: %s,pt-BR
+Environment: %s,Ambiente: %s,pt-BR
+Environnement : %s,Ambiente: %s,pt-BR
+Erkennen,DETECTAR,pt-BR
+Erreur interne inconnue : %s,Erro interno desconhecido: %s,pt-BR
+Error al colocar la estructura de prueba para %s,Falha ao colocar a estrutura de teste para %s,pt-BR
+Error interno desconocido: %s,Erro interno desconhecido: %s,pt-BR
+Errore interno sconosciuto: %s,Erro interno desconhecido: %s,pt-BR
+Erwartete %s im Test,Esperava-se que %s existisse no teste,pt-BR
+Esa prueba no existe,Nenhum teste,pt-BR
+Esquina,Canto,pt-BR
+Esquina: %s,Cantos: %s,pt-BR
+Estado incorrecto. Se requiere %s: se obtuvo %s,"Estado incorreto. Esperava-se %s, foi %s",pt-BR
+Estructura: %s,Estrutura: %s,pt-BR
+Expected %s,Esperava-se %s,pt-BR
+Expected %s entities of type %s: found %s,"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+Expected %s items of type %s: found %s,"Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+Expected %s to be %s: was %s,"Esperava-se que %s fosse %s, foi %s",pt-BR
+Expected %s to be in between %s and %s: was %s,"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+"Expected %s to exist around %s, %s, %s","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+Expected %s to exist in test,Esperava-se que %s existisse no teste,pt-BR
+Expected %s to have effect %s %s,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+"Expected %s touching %s, %s, %s (relative: %s, %s, %s)","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+Expected block %s to be present,Esperava-se a presença do bloco %s,pt-BR
+Expected block %s: got %s,"Esperava-se o bloco %s, obteve-se %s",pt-BR
+Expected block in #%s: got %s,"Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+Expected entity data to be %s: was %s,"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+Expected item of type %s,Esperava-se o item do tipo %s,pt-BR
+"Expected only one %s to exist around %s, %s, %s but found %s","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+Expected property %s to be %s: was %s,"Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+Fail,Falhar,pt-BR
+Fail conditions met,Condições de falha atendidas,pt-BR
+Fail Mode - Fail the test,Modo de falha — Falhar o teste,pt-BR
+Failed to create entity %s,Falha ao criar a entidade %s,pt-BR
+Failed to place test structure for %s,Falha ao colocar a estrutura de teste para %s,pt-BR
+Failed to set biome for test,Falha ao definir o bioma para teste,pt-BR
+Failed: %s,Falhou: %s,pt-BR
+Fallar,Falhar,pt-BR
+Fallimento: fa' fallire il collaudo,Modo de falha — Falhar o teste,pt-BR
+Fallisci,Falhar,pt-BR
+Falló: %s,Falhou: %s,pt-BR
+Falscher Blockobjekttyp: %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+"Falscher Zustand. %s erwartet, war %s","Estado incorreto. Esperava-se %s, foi %s",pt-BR
+Falta el bloque %s en la estructura de prueba,Estrutura de teste com o bloco ausente: %s,pt-BR
+Falta una entidad-bloque,Entidade-bloco ausente,pt-BR
+Falta una propiedad de bloque. Se requiere que la propiedad %s sea %s,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+Fehlendes Blockobjekt,Entidade-bloco ausente,pt-BR
+Fehlermodus – Lässt den Test fehlschlagen,Modo de falha — Falhar o teste,pt-BR
+Fehlgeschlagen: %s,Falhou: %s,pt-BR
+Fehlkriterien erfüllt,Condições de falha atendidas,pt-BR
+Fehlschlag,Falhar,pt-BR
+Fija,Fixa,pt-BR
+Fissa,Fixa,pt-BR
+Fonction : %s,Função: %s,pt-BR
+Fonksiyon: %s,Função: %s,pt-BR
+Función: %s,Função: %s,pt-BR
+Function: %s,Função: %s,pt-BR
+Funktion: %s,Função: %s,pt-BR
+Funzione: %s,Função: %s,pt-BR
+Garder puzzle,Mantê-los,pt-BR
+Gegenstand vom Typ %s erwartet,Esperava-se o item do tipo %s,pt-BR
+Gegenstand vom Typ %s wurde nicht erwartet,Não se esperava um item do tipo %s,pt-BR
+Genera,Gerar,pt-BR
+Generar,Gerar,pt-BR
+Generate,Gerar,pt-BR
+Generieren,Gerar,pt-BR
+Geçersiz birim zamanda başarıldı: %s beklendi,Concluído no tique inválido. Esperava-se: %s,pt-BR
+"Geçersiz durum. %s beklendi, %s bulundu","Estado incorreto. Esperava-se %s, foi %s",pt-BR
+Geçersiz test kimliği,ID do teste inválido,pt-BR
+Geçersiz yapı adı '%s',Nome da estrutura inválido: %s,pt-BR
+Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+Given block is not a block item,O bloco especificado não é um item-bloco.,pt-BR
+Giữ mảnh ghép,Mantê-los,pt-BR
+Graine de la structure,Semente da estrutura,pt-BR
+Grupo objetivo:,Conjunto-alvo:,pt-BR
+Größe der Testkonstruktion,Tamanho da estrutura do teste,pt-BR
+Größe von ‚%s‘ erfolgreich erkannt,"Tamanho da estrutura ""%s"" detectado",pt-BR
+GUARDAR,SALVAR,pt-BR
+Guardar,Salvar,pt-BR
+Guardar estructura,Salvar estrutura,pt-BR
+Guardar: %s,Salvar: %s,pt-BR
+Générer,Gerar,pt-BR
+Góc,Canto,pt-BR
+Góc: %s,Cantos: %s,pt-BR
+Göreceli Konum,Posição relativa,pt-BR
+göreceli konum x,posição x relativa,pt-BR
+göreceli konum y,posição y relativa,pt-BR
+göreceli konum z,posição z relativa,pt-BR
+Görünmez Blokları Göster:,Mostrar blocos invisíveis:,pt-BR
+Günlük Modu - Günlüğe mesaj yazdır,Modo de registro — Registrar uma mensagem,pt-BR
+Günlüğe Yaz,Registrar,pt-BR
+Hedef adı:,Nome do alvo:,pt-BR
+Hedef Havuzu:,Conjunto-alvo:,pt-BR
+Hizalı,Fixa,pt-BR
+"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+Hiển thị hộp giới hạn:,Mostrar bordas:,pt-BR
+Hiển thị khối vô hình:,Mostrar blocos invisíveis:,pt-BR
+Hàm: %s,Função: %s,pt-BR
+Hạt giống cấu trúc,Semente da estrutura,pt-BR
+I dati dell'entità non corrispondono per %s,Os dados da entidade não correspondem para: %s,pt-BR
+ID de l'instance de test,ID de instância do teste,pt-BR
+ID de test non valide,ID do teste inválido,pt-BR
+ID dell'istanza di collaudo,ID de instância do teste,pt-BR
+ID di collaudo non valido,ID do teste inválido,pt-BR
+ID kiểm tra không hợp lệ,ID do teste inválido,pt-BR
+ID trường hợp kiểm tra,ID de instância do teste,pt-BR
+ID กรณีตัวอย่างทดสอบ,ID de instância do teste,pt-BR
+ID การทดสอบไม่ถูกต้อง,ID do teste inválido,pt-BR
+Id. de prueba no válida,ID do teste inválido,pt-BR
+Id. del caso de prueba,ID de instância do teste,pt-BR
+Il blocco specificato non può essere un oggetto,O bloco especificado não é um item-bloco.,pt-BR
+Il collaudo è scaduto prima del completamento della sequenza,O teste acabou antes de completar a sequência,pt-BR
+Il contenitore dovrebbe avere un solo: %s,O recipiente deve conter um único: %s,pt-BR
+Il contenitore dovrebbe avere: %s,O recipiente deve conter: %s,pt-BR
+Il contenitore dovrebbe essere vuoto,O recipiente deve estar vazio,pt-BR
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non ha una struttura di collaudo","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non è stato definito alcun collaudo","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+Impossibile rilevare la dimensione della struttura. Aggiungi degli angoli con il nome della struttura corrispondente.,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+"Impossibile salvare il modello di struttura per l'istanza di collaudo presso %s, %s, %s","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+Impossibile salvare la struttura %s,"Não foi possível salvar a estrutura ""%s""",pt-BR
+"Impossible d'enregistrer la structure ""%s""","Não foi possível salvar a estrutura ""%s""",pt-BR
+"Impossible d'enregistrer le modèle de structure de test pour l'instance de test en %s, %s, %s","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de structure de test","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de test défini","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+Impossible de détecter la taille de la structure. Ajoutez des coins avec les noms de structure correspondants,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+Impostazione del bioma non riuscita,Falha ao definir o bioma para teste,pt-BR
+In ungültigem Tick stattgefunden: %s wurde erwartet,Concluído no tique inválido. Esperava-se: %s,pt-BR
+Include Entities:,Incluir entidades:,pt-BR
+Inclure les entités :,Incluir entidades:,pt-BR
+Incorrect state. Expected %s: was %s,"Estado incorreto. Esperava-se %s, foi %s",pt-BR
+Iniciando prueba %s,Iniciando o teste %s,pt-BR
+Insieme di destinazione,Conjunto-alvo:,pt-BR
+Integridad de la estructura,Integridade da estrutura,pt-BR
+Integridad y semilla de la estructura,Integridade e semente da estrutura,pt-BR
+Integrierter Funktionstest,Teste de função integrada,pt-BR
+Integrità della struttura,Integridade da estrutura,pt-BR
+Integrità e seme della struttura,Integridade e semente da estrutura,pt-BR
+Intégrité de la structure,Integridade da estrutura,pt-BR
+Intégrité de la structure et graine,Integridade e semente da estrutura,pt-BR
+Invalid structure name '%s',Nome da estrutura inválido: %s,pt-BR
+Invalid test ID,ID do teste inválido,pt-BR
+Invalid timeout (%s) - must be a positive number of ticks,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+Joint Type:,Tipo de ligação:,pt-BR
+Kann Konstruktionsgröße nicht erkennen - füge Ecken mit gleichem Konstruktionsnamen hinzu,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+Katı Yerleştirme:,Posicionamento exato:,pt-BR
+KAYDET,SALVAR,pt-BR
+Kaydet,Salvar,pt-BR
+Kaydet: %s,Salvar: %s,pt-BR
+Kayıt Modu - Dosyaya yaz,Modo de salvamento — Salvar no arquivo,pt-BR
+Keep Jigsaws,Mantê-los,pt-BR
+Keine Testabläufe innerhalb von %s Ticks abgeschlossen,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+"Khi khối mảnh ghép này kết nối đến một mảnh, đây là thứ tự mà mảnh đó được xử lí cho các kết nối trong cấu trúc rộng hơn.
+
+Các mảnh sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự chèn.","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+"Khi mảnh gốc được xử lí cho các kết nối, đây là thứ tự mà khối mảnh ghép này cố gắng kết nối đến mảnh mục tiêu.
+
+Các khối mảnh ghép sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự ngẫu nhiên.","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+Không có kiểm tra nào như vậy,Nenhum teste,pt-BR
+Không có trình tự nào được hoàn tất trong %s nhịp,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có cấu trúc kiểm tra nào","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có kiểm tra nào được xác định","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+Không thể chỉnh quần xã cho kiểm tra,Falha ao definir o bioma para teste,pt-BR
+Không thể lưu cấu trúc '%s',"Não foi possível salvar a estrutura ""%s""",pt-BR
+"Không thể lưu mẫu cấu trúc kiểm tra cho trường hợp kiểm tra ở %s, %s, %s","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+Không thể phát hiện kích cỡ của cấu trúc. Hãy bổ sung thêm góc với tên cấu trúc khớp nhau,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+Không thể tạo thực thể %s,Falha ao criar a entidade %s,pt-BR
+Không thể đặt cấu trúc kiểm tra cho %s,Falha ao colocar a estrutura de teste para %s,pt-BR
+Khối được trao không phải là một khối vật phẩm,O bloco especificado não é um item-bloco.,pt-BR
+Kiểm tra dựa trên khối,Teste baseado em blocos,pt-BR
+Kiểm tra hàm được tích hợp sẵn,Teste de função integrada,pt-BR
+Kiểm tra đang đếm nhịp trước khi đặt cấu trúc,Teste em tiques antes de colocar a estrutura,pt-BR
+Kiểm tra đã hết thời gian trước khi trình tự được hoàn thành,O teste acabou antes de completar a sequência,pt-BR
+Konstruktion als ‚%s‘ gespeichert,"Estrutura salva como ""%s""",pt-BR
+Konstruktion speichern,Salvar estrutura,pt-BR
+Konstruktion ‚%s‘ geladen,"Estrutura carregada de ""%s""",pt-BR
+Konstruktion ‚%s‘ konnte nicht gespeichert werden,"Não foi possível salvar a estrutura ""%s""",pt-BR
+Konstruktion ‚%s‘ nicht gefunden,"Estrutura ""%s"" não encontrada",pt-BR
+Konstruktion: %s,Estrutura: %s,pt-BR
+Konstruktions-Startwert,Semente da estrutura,pt-BR
+Konstruktionsgröße,Tamanho da estrutura,pt-BR
+Konstruktionsgröße (X),tamanho x da estrutura,pt-BR
+Konstruktionsgröße (Y),tamanho y da estrutura,pt-BR
+Konstruktionsgröße (Z),tamanho z da estrutura,pt-BR
+Konstruktionsgröße und ‐position erkennen:,Detectar posição e tamanho da estrutura:,pt-BR
+Konstruktionsname,Nome da estrutura,pt-BR
+Konstruktionsvollständigkeit,Integridade da estrutura,pt-BR
+Kích cỡ cấu trúc,Tamanho da estrutura,pt-BR
+Kích cỡ cấu trúc kiểm tra,Tamanho da estrutura do teste,pt-BR
+kích cỡ cấu trúc x,tamanho x da estrutura,pt-BR
+kích cỡ cấu trúc y,tamanho y da estrutura,pt-BR
+kích cỡ cấu trúc z,tamanho z da estrutura,pt-BR
+Köşe,Canto,pt-BR
+Köşe Modu - Konum ve boyut işaretleyici,Modo de canto — Marcador de posição e tamanho,pt-BR
+Köşe: %s,Cantos: %s,pt-BR
+L'entità %s ha fallito il collaudo: %s,A entidade %s falhou no teste: %s,pt-BR
+"L'entità %s ha fallito il collaudo: %s (previsto: %s, ricevuto: %s)","A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+L'entità dovrebbe impugnare %s,A entidade deve segurar: %s,pt-BR
+"L'entité ""%s"" a échoué le test : %s (valeur attendue : %s, valeur reçue : %s)","A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+"L'entité doit tenir l'objet ""%s""",A entidade deve segurar: %s,pt-BR
+"L'inventaire de l'entité doit contenir l'objet ""%s""",O inventário da entidade deve conter %s,pt-BR
+L'inventario dell'entità dovrebbe avere %s,O inventário da entidade deve conter %s,pt-BR
+La entidad %s falló la prueba: %s,A entidade %s falhou no teste: %s,pt-BR
+La entidad %s falló la prueba: %s. Se requiere %s: se obtuvo %s,"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+La entidad debe sostener %s,A entidade deve segurar: %s,pt-BR
+"La estructura ""%s"" no está disponible ","Estrutura ""%s"" não encontrada",pt-BR
+La estructura se ha guardado como «%s»,"Estrutura salva como ""%s""",pt-BR
+"La position de la structure ""%s"" a été préparée","Posição da estrutura ""%s"" preparada",pt-BR
+La prueba se terminó antes de que se completara la secuencia,O teste acabou antes de completar a sequência,pt-BR
+"La structure ""%s"" n'est pas disponible ","Estrutura ""%s"" não encontrada",pt-BR
+La struttura %s non è disponibile,"Estrutura ""%s"" não encontrada",pt-BR
+"La taille de la structure ""%s"" a été détectée","Tamanho da estrutura ""%s"" detectado",pt-BR
+Laden,CARREGAR,pt-BR
+Laden,Carregar,pt-BR
+Laden und ausführen,Carregar e executar,pt-BR
+Laden: %s,Carregar: %s,pt-BR
+Lade‐Modus – Aus Datei laden,Modo de carregamento — Carregar do arquivo,pt-BR
+Le bloc spécifié n'est pas un bloc sous forme d'objet,O bloco especificado não é um item-bloco.,pt-BR
+"Le conteneur doit contenir l'objet ""%s""",O recipiente deve conter: %s,pt-BR
+"Le conteneur doit contenir un seul objet ""%s""",O recipiente deve conter um único: %s,pt-BR
+Le conteneur doit être vide,O recipiente deve estar vazio,pt-BR
+Le test n'a ni réussi ni échoué durant %s tick(s),O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+Le test s'est terminé avant la fin de la séquence,O teste acabou antes de completar a sequência,pt-BR
+Levels: %s,Níveis: %s,pt-BR
+Livelli: %s,Níveis: %s,pt-BR
+LOAD,CARREGAR,pt-BR
+Load,Carregar,pt-BR
+Load and Run,Carregar e executar,pt-BR
+Load Mode - Load from file,Modo de carregamento — Carregar do arquivo,pt-BR
+Load: %s,Carregar: %s,pt-BR
+Log,Registrar,pt-BR
+Log Mode - Log a message,Modo de registro — Registrar uma mensagem,pt-BR
+Los datos de la entidad no coinciden para %s,Os dados da entidade não correspondem para: %s,pt-BR
+Loại khớp nối:,Tipo de ligação:,pt-BR
+Loại: %s,Tipo: %s,pt-BR
+LƯU,SALVAR,pt-BR
+Lưu,Salvar,pt-BR
+Lưu cấu trúc,Salvar estrutura,pt-BR
+Lưu: %s,Salvar: %s,pt-BR
+Lỗi nội bộ không rõ: %s,Erro interno desconhecido: %s,pt-BR
+Mantener rompec.,Mantê-los,pt-BR
+Mantenimento,Mantê-los,pt-BR
+Mensaje:,Mensagem:,pt-BR
+Mesaj:,Mensagem:,pt-BR
+Message :,Mensagem:,pt-BR
+Message:,Mensagem:,pt-BR
+Messaggio,Mensagem:,pt-BR
+Missing block entity,Entidade-bloco ausente,pt-BR
+Mode Accepter - Accepter la réussite (d'une partie) d'un test,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+Mode Charger - Charger depuis un fichier,Modo de carregamento — Carregar do arquivo,pt-BR
+Mode Coin - Marqueur de position et de taille,Modo de canto — Marcador de posição e tamanho,pt-BR
+Mode Données - Marqueur de logique du jeu,Modo de dados — Marcador lógico do jogo,pt-BR
+Mode Démarrer - Le point de départ d'un test,Modo de início — Ponto inicial de um teste,pt-BR
+Mode Enregistrer - Enregistrer un message,Modo de registro — Registrar uma mensagem,pt-BR
+Mode Sauvegarder - Écrire dans un fichier,Modo de salvamento — Salvar no arquivo,pt-BR
+Mode Échouer - Échouer le test,Modo de falha — Falhar o teste,pt-BR
+Modo aceptar: acepta superación de (parte de) una prueba,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+Modo cargar: carga desde un archivo,Modo de carregamento — Carregar do arquivo,pt-BR
+Modo datos: usa la lógica del juego,Modo de dados — Marcador lógico do jogo,pt-BR
+Modo esquina: indica posición y tamaño,Modo de canto — Marcador de posição e tamanho,pt-BR
+Modo fallar: falla la prueba,Modo de falha — Falhar o teste,pt-BR
+Modo guardar: guarda en un archivo,Modo de salvamento — Salvar no arquivo,pt-BR
+Modo iniciar: el punto de inicio de una prueba,Modo de início — Ponto inicial de um teste,pt-BR
+Modo registrar: registra un mensaje,Modo de registro — Registrar uma mensagem,pt-BR
+Mostra blocchi invisibili,Mostrar blocos invisíveis:,pt-BR
+Mostrar bloques invisibles:,Mostrar blocos invisíveis:,pt-BR
+Mostrar límites:,Mostrar bordas:,pt-BR
+Môi trường: %s,Ambiente: %s,pt-BR
+Nachricht:,Mensagem:,pt-BR
+Name:,Nome:,pt-BR
+Nessun collaudo trovato,Nenhum teste,pt-BR
+Nessuna sequenza finita entro %s tick,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+Nhóm mục tiêu:,Conjunto-alvo:,pt-BR
+Nhật kí,Registrar,pt-BR
+"Nicht erwartet, %s vorzufinden",Não se esperava que %s existisse,pt-BR
+Ninguna secuencia finalizó durante %s ticks,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+Niveaux : %s,Níveis: %s,pt-BR
+Niveles: %s,Níveis: %s,pt-BR
+No hubo ningún resultado durante %s tics,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+No se esperaba que %s existiera,Não se esperava que %s existisse,pt-BR
+"No se esperaba que %s tocase %s, %s, %s (relativo: %s, %s, %s)","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+No se esperaba que el bloque fuese %s,Não esperava-se que o bloco fosse %s,pt-BR
+No se esperaba un objeto del tipo %s,Não se esperava um item do tipo %s,pt-BR
+No se ha podido detectar el tamaño de la estructura. Añade más esquinas con el nombre de la estructura correspondiente,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+"No se ha podido ejecutar el caso de prueba en %s, %s, %s porque no se ha definido una prueba","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+"No se ha podido ejecutar la instancia de prueba en %s, %s, %s porque no tiene estructura de prueba","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+No se ha podido guardar la estructura «%s»,"Não foi possível salvar a estrutura ""%s""",pt-BR
+No se pudo crear la entidad %s,Falha ao criar a entidade %s,pt-BR
+No se pudo establecer el bioma para la prueba,Falha ao definir o bioma para teste,pt-BR
+"No se pudo guardar la plantilla de estructura de prueba en %s, %s, %s","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+No sequences finished within %s ticks,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+No such test,Nenhum teste,pt-BR
+Nom :,Nome:,pt-BR
+Nom de la cible :,Nome do alvo:,pt-BR
+Nom de la structure,Nome da estrutura,pt-BR
+Nom du tag de données personnalisé,Nome da marcação de dados personalizados,pt-BR
+Nombre de etiqueta de datos personalizado,Nome da marcação de dados personalizados,pt-BR
+Nombre de la estructura,Nome da estrutura,pt-BR
+Nombre del objetivo:,Nome do alvo:,pt-BR
+Nombre:,Nome:,pt-BR
+Nome,Nome:,pt-BR
+Nome del marcatore personalizzato,Nome da marcação de dados personalizados,pt-BR
+Nome della struttura,Nome da estrutura,pt-BR
+Nome della struttura non valido: «%s»,Nome da estrutura inválido: %s,pt-BR
+Nome di destinazione,Nome do alvo:,pt-BR
+Non era prevista l'esistenza di %s,Não se esperava que %s existisse,pt-BR
+Non era previsto che il blocco fosse %s,Não esperava-se que o bloco fosse %s,pt-BR
+Non era previsto un oggetto di tipo %s,Não se esperava um item do tipo %s,pt-BR
+"Non previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+Non riuscito né fallito entro %s tick,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+Non riuscito: %s,Falhou: %s,pt-BR
+"Non-correspondance des données de l'entité ""%s""",Os dados da entidade não correspondem para: %s,pt-BR
+"Nur ein %s um %s, %s, %s erwartet, aber %s gefunden","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+NẠP,CARREGAR,pt-BR
+Nạp,Carregar,pt-BR
+Nạp và chạy,Carregar e executar,pt-BR
+Nạp: %s,Carregar: %s,pt-BR
+Objekt %s erfüllte Test nicht: %s,A entidade %s falhou no teste: %s,pt-BR
+"Objekt %s hat Test %s nicht erfüllt: %s erwartet, war aber %s","A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+Objekt %s konnte nicht erzeugt werden,Falha ao criar a entidade %s,pt-BR
+Objekt hätte %s halten sollen,A entidade deve segurar: %s,pt-BR
+"Objektdaten %s wurden erwartet, waren aber %s","Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+Objektdaten für %s stimmen nicht überein,Os dados da entidade não correspondem para: %s,pt-BR
+Objekte einbeziehen:,Incluir entidades:,pt-BR
+Objekte:,Entidades:,pt-BR
+Objektinventar hätte %s enthalten sollen,O inventário da entidade deve conter %s,pt-BR
+"Objet de type ""%s"" attendu",Esperava-se o item do tipo %s,pt-BR
+"Objet de type ""%s"" inattendu",Não se esperava um item do tipo %s,pt-BR
+Oluştur,Gerar,pt-BR
+Onay Modu - Bir testin (parçasının) başarısını onaylama,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+Onayla,Aceitar,pt-BR
+"Ordre dans lequel ce bloc de puzzle tente de se connecter à sa pièce cible lorsque la pièce parent est traitée pour les connexions.
+
+Le processus se déroule dans l'ordre décroissant, ou de manière aléatoire en cas d'égalité.","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+"Ordre dans lequel la pièce sur laquelle se connecte ce bloc de puzzle est traitée parmi les connexions d'une structure plus large.
+
+Le processus se déroule dans l'ordre décroissant, en suivant l'ordre d'insertion en cas d'égalité.","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+"Oyuncu konumu: [%s, %s, %s] %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+P. de colocación:,Prior. de posição:,pt-BR
+P. de selección:,Prior. de seleção:,pt-BR
+PH.HIỆN,DETECTAR,pt-BR
+Phát hiện kích cỡ và vị trí cấu trúc:,Detectar posição e tamanho da estrutura:,pt-BR
+Piazzamento della struttura di collaudo per %s non riuscita,Falha ao colocar a estrutura de teste para %s,pt-BR
+Piazzamento statico,Posicionamento exato:,pt-BR
+Placement Priority:,Prior. de posição:,pt-BR
+Placement strict :,Posicionamento exato:,pt-BR
+Platzierpriorität:,Prior. de posição:,pt-BR
+"Player coordinates: [%s, %s, %s] in %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+Position relative,Posição relativa,pt-BR
+position relative x,posição x relativa,pt-BR
+position relative y,posição y relativa,pt-BR
+position relative z,posição z relativa,pt-BR
+Position von Konstruktion ‚%s‘ vorbereitet,"Posição da estrutura ""%s"" preparada",pt-BR
+Posizione relativa,Posição relativa,pt-BR
+Posizione relativa in x,posição x relativa,pt-BR
+Posizione relativa in y,posição y relativa,pt-BR
+Posizione relativa in z,posição z relativa,pt-BR
+Preparato la posizione della struttura %s,"Posição da estrutura ""%s"" preparada",pt-BR
+"Prevista l'esistenza di %s intorno a %s, %s, %s","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+Prevista l'esistenza di %s nel collaudo,Esperava-se que %s existisse no teste,pt-BR
+"Prevista l'esistenza di una sola entità %s intorno a %s, %s, %s (ricevuto: %s)","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+Prevista la presenza del blocco %s,Esperava-se a presença do bloco %s,pt-BR
+Previste %s entità di tipo %s (ricevuto: %s),"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+Previsti %s oggetti di tipo %s (ricevuto: %s),"Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+Previsto %s,Esperava-se %s,pt-BR
+"Previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+Previsto blocco nell'insieme #%s (ricevuto: %s),"Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+Previsto che %s abbia l'effetto %s %s,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+Previsto il blocco %s (ricevuto: %s),"Esperava-se o bloco %s, obteve-se %s",pt-BR
+Previsto oggetto di tipo %s,Esperava-se o item do tipo %s,pt-BR
+Previsto un valore %s tra %s e %s (ricevuto: %s),"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+Prio. de placement :,Prior. de posição:,pt-BR
+Prio. de sélection :,Prior. de seleção:,pt-BR
+Priorità di selezione e di piazzamento,Prior. de seleção:,pt-BR
+Proprietà %s prevista: %s (ricevuto: %s),"Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+Proprietà di blocco mancante. Proprietà %s prevista: %s,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+"Propriété de bloc manquante. Valeur de la propriété ""%s"" attendue : %s",Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+Protokoll,Registrar,pt-BR
+Protokollmodus – Protokolliere eine Nachricht,Modo de registro — Registrar uma mensagem,pt-BR
+Prueba basada en bloques,Teste baseado em blocos,pt-BR
+Prueba de función integrada,Teste de função integrada,pt-BR
+"Présence du bloc ""%s"" attendue",Esperava-se a presença do bloco %s,pt-BR
+"Quando il pezzo associato viene elaborato per le connessioni, questo sarà l'ordine in cui questo blocco incastri tenterà di connettersi al suo pezzo di destinazione.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, casualmente.","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+"Quando questo blocco incastri si connette a un pezzo, questo sarà l'ordine in cui il pezzo viene elaborato per le connessioni nella struttura complessiva.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, seguendo l'ordine d'inserimento.","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+Quá nhiều khối %s,Há muitos blocos (%s),pt-BR
+Registra,Registrar,pt-BR
+Registrazione: registra un messaggio,Modo de registro — Registrar uma mensagem,pt-BR
+Reiniciar y cargar,Redefinir e carregar,pt-BR
+Relative Position,Posição relativa,pt-BR
+relative position x,posição x relativa,pt-BR
+relative position y,posição y relativa,pt-BR
+relative position z,posição z relativa,pt-BR
+Relative X-Position,posição x relativa,pt-BR
+Relative Y-Position,posição y relativa,pt-BR
+Relative Z-Position,posição z relativa,pt-BR
+Reset and Load,Redefinir e carregar,pt-BR
+Reset succeeded for test: %s,Redefinição concluída para o teste: %s,pt-BR
+Rileva,DETECTAR,pt-BR
+Rilevato la dimensione della struttura %s,"Tamanho da estrutura ""%s"" detectado",pt-BR
+Ripristina e carica,Redefinir e carregar,pt-BR
+Ripristino riuscito per il collaudo: %s,Redefinição concluída para o teste: %s,pt-BR
+Riuscita ottenuta durante un tick non valido: previsto %s,Concluído no tique inválido. Esperava-se: %s,pt-BR
+Riuscita ottenuta prima del tick previsto: prevista l'attesa di %s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+Rollable,Rotativa,pt-BR
+Rotable,Rotativa,pt-BR
+Rotación:,Rotação:,pt-BR
+Rotatif,Rotativa,pt-BR
+Rotation :,Rotação:,pt-BR
+Rotation:,Rotação:,pt-BR
+Rotatoria,Rotativa,pt-BR
+Rotazione,Rotação:,pt-BR
+"Réinitialisation réussie pour le test ""%s""",Redefinição concluída para o teste: %s,pt-BR
+Réinitialiser et charger,Redefinir e carregar,pt-BR
+Réussite avant le tick attendu : le tick minimum attendu était de %s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+Réussite dans le tick non valide : %s attendu(s),Concluído no tique inválido. Esperava-se: %s,pt-BR
+Sai loại thực thể khối: %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+Salva,SALVAR,pt-BR
+Salva,Salvar,pt-BR
+Salva struttura,Salvar estrutura,pt-BR
+Salvataggio: %s,Salvar: %s,pt-BR
+Salvataggio: scrivi su documento,Modo de salvamento — Salvar no arquivo,pt-BR
+Salvato la struttura come «%s»,"Estrutura salva como ""%s""",pt-BR
+SAUVE,SALVAR,pt-BR
+Sauvegarder,Salvar,pt-BR
+Sauvegarder : %s,Salvar: %s,pt-BR
+SAVE,SALVAR,pt-BR
+Save,Salvar,pt-BR
+Save Mode - Write to file,Modo de salvamento — Salvar no arquivo,pt-BR
+Save Structure,Salvar estrutura,pt-BR
+Save: %s,Salvar: %s,pt-BR
+Se change en :,Torna-se:,pt-BR
+Se convierte en:,Torna-se:,pt-BR
+Se cumplieron las condiciones de falla,Condições de falha atendidas,pt-BR
+Se encontró un tipo de bloque no esperado: %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+Se ha cargado la estructura de «%s»,"Estrutura carregada de ""%s""",pt-BR
+"Se ha preparado la ubicación de la estructura ""%s""","Posição da estrutura ""%s"" preparada",pt-BR
+Se ha reiniciado la prueba %s,Redefinição concluída para o teste: %s,pt-BR
+Se requiere %s,Esperava-se %s,pt-BR
+Se requiere el bloque %s: se obtuvo %s,"Esperava-se o bloco %s, obteve-se %s",pt-BR
+Se requiere el bloque en #%s: se obtuvo %s,"Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+"Se requiere que %s exista alrededor de %s, %s, %s","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+Se requiere que %s exista en la prueba,Esperava-se que %s existisse no teste,pt-BR
+Se requiere que %s sea %s: se obtuvo %s,"Esperava-se que %s fosse %s, foi %s",pt-BR
+Se requiere que %s tenga efecto %s %s,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+Se requiere que %s tenga un valor entre %s y %s: es %s,"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+"Se requiere que %s toque %s, %s, %s (relativo: %s, %s, %s)","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+Se requiere que el bloque %s esté presente,Esperava-se a presença do bloco %s,pt-BR
+"Se requiere que exista un único %s alrededor de %s, %s, %s, pero se encontraron %s","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+Se requiere que la propiedad %s sea %s: se obtuvo %s,"Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+Se requiere que los datos de la entidad sean %s: se obtuvo %s,"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+Se requiere un objeto del tipo %s,Esperava-se o item do tipo %s,pt-BR
+"Se requieren %s entidades del tipo %s, encontradas: %s","Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+"Se requieren %s objetos del tipo %s, encontrados: %s","Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+Selection Priority:,Prior. de seleção:,pt-BR
+Seme della struttura,Semente da estrutura,pt-BR
+Semilla de la estructura,Semente da estrutura,pt-BR
+Seviyeler: %s,Níveis: %s,pt-BR
+Seçim Önceliği:,Prior. de seleção:,pt-BR
+Show Bounding Box:,Mostrar bordas:,pt-BR
+Show Invisible Blocks:,Mostrar blocos invisíveis:,pt-BR
+Size successfully detected for '%s',"Tamanho da estrutura ""%s"" detectado",pt-BR
+Speichern,SALVAR,pt-BR
+Speichern,Salvar,pt-BR
+Speichern: %s,Salvar: %s,pt-BR
+Speicher‐Modus – In Datei speichern,Modo de salvamento — Salvar no arquivo,pt-BR
+"Spielerkoordinaten: [%s, %s, %s] in %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+Start,Iniciar,pt-BR
+Start Mode - The starting point for a test,Modo de início — Ponto inicial de um teste,pt-BR
+Starting test %s,Iniciando o teste %s,pt-BR
+Startmodus – Der Anfangspunkt eines Tests,Modo de início — Ponto inicial de um teste,pt-BR
+Stato finale,Torna-se:,pt-BR
+"Stato non corretto (previsto: %s, ricevuto: %s)","Estado incorreto. Esperava-se %s, foi %s",pt-BR
+Strict Placement:,Posicionamento exato:,pt-BR
+Strikte Platzierung:,Posicionamento exato:,pt-BR
+Structure '%s' is not available,"Estrutura ""%s"" não encontrada",pt-BR
+Structure '%s' position prepared,"Posição da estrutura ""%s"" preparada",pt-BR
+Structure : %s,Estrutura: %s,pt-BR
+"Structure chargée depuis ""%s""","Estrutura carregada de ""%s""",pt-BR
+"Structure enregistrée comme ""%s""","Estrutura salva como ""%s""",pt-BR
+Structure Integrity,Integridade da estrutura,pt-BR
+Structure Integrity and Seed,Integridade e semente da estrutura,pt-BR
+Structure loaded from '%s',"Estrutura carregada de ""%s""",pt-BR
+Structure Name,Nome da estrutura,pt-BR
+Structure saved as '%s',"Estrutura salva como ""%s""",pt-BR
+Structure Seed,Semente da estrutura,pt-BR
+Structure Size,Tamanho da estrutura,pt-BR
+structure size x,tamanho x da estrutura,pt-BR
+structure size y,tamanho y da estrutura,pt-BR
+structure size z,tamanho z da estrutura,pt-BR
+Structure: %s,Estrutura: %s,pt-BR
+Struttura: %s,Estrutura: %s,pt-BR
+Succeeded before expected tick: expected to wait %s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+Succeeded in invalid tick: expected %s,Concluído no tique inválido. Esperava-se: %s,pt-BR
+Sıfırla ve Yükle,Redefinir e carregar,pt-BR
+Taille de la structure,Tamanho da estrutura,pt-BR
+Taille de la structure de test,Tamanho da estrutura do teste,pt-BR
+taille de la structure x,tamanho x da estrutura,pt-BR
+taille de la structure y,tamanho y da estrutura,pt-BR
+taille de la structure z,tamanho z da estrutura,pt-BR
+Tamaño de la estructura,Tamanho da estrutura,pt-BR
+Tamaño de la estructura de prueba,Tamanho da estrutura do teste,pt-BR
+tamaño de la estructura x,tamanho x da estrutura,pt-BR
+tamaño de la estructura y,tamanho y da estrutura,pt-BR
+tamaño de la estructura z,tamanho z da estrutura,pt-BR
+"Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+Target Name:,Nome do alvo:,pt-BR
+Target Pool:,Conjunto-alvo:,pt-BR
+TESPİT ET,DETECTAR,pt-BR
+Test %s wird gestartet,Iniciando o teste %s,pt-BR
+Test %s wurde erfolgreich zurückgesetzt,Redefinição concluída para o teste: %s,pt-BR
+Test basé sur des blocs,Teste baseado em blocos,pt-BR
+Test Birimi Kimliği,ID de instância do teste,pt-BR
+"Test coordinates: [%s, %s, %s] in %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+Test de fonction intégrée,Teste de função integrada,pt-BR
+Test de ticks effectué avant le placement de la structure,Teste em tiques antes de colocar a estrutura,pt-BR
+Test Instance ID,ID de instância do teste,pt-BR
+Test için biyom değiştirilemedi,Falha ao definir o bioma para teste,pt-BR
+"Test konumu: [%s, %s, %s] %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+Test structure missing %s block,Estrutura de teste com o bloco ausente: %s,pt-BR
+Test Structure Size,Tamanho da estrutura do teste,pt-BR
+Test sıfırlama başarılı oldu: %s,Redefinição concluída para o teste: %s,pt-BR
+Test timed out before sequence completed,O teste acabou antes de completar a sequência,pt-BR
+Test vor Abschluss des Vorgangs abgelaufen,O teste acabou antes de completar a sequência,pt-BR
+"Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+Test Yapısı Boyutu,Tamanho da estrutura do teste,pt-BR
+"Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+Test yapısında %s bloğu eksik,Estrutura de teste com o bloco ausente: %s,pt-BR
+"Test, dizi tamamlanmadan zaman aşımına uğradı",O teste acabou antes de completar a sequência,pt-BR
+"Testausführung begann, bevor Konstruktion platziert wurde",Teste em tiques antes de colocar a estrutura,pt-BR
+"Testinstanz bei %s, %s, %s kann nicht ausgeführt werden, da ihr kein Test zugewiesen ist","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+"Testinstanz bei %s, %s, %s konnte nicht ausgeführt werden, da ihre Testkonstruktion fehlt","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+Testinstanz‐ID,ID de instância do teste,pt-BR
+Testkonstruktion für %s konnte nicht platziert werden,Falha ao colocar a estrutura de teste para %s,pt-BR
+Testkonstruktion hat keinen %s‐Block,Estrutura de teste com o bloco ausente: %s,pt-BR
+"Testkonstruktionsvorlage für Testinstanz bei %s, %s, %s kann nicht gespeichert werden","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+"Testkoordinaten: [%s, %s, %s] in %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+Thiết lập lại và nạp,Redefinir e carregar,pt-BR
+Thất bại,Falhar,pt-BR
+Thất bại: %s,Falhou: %s,pt-BR
+Thời gian chờ không hợp lệ (%s) - số lượng nhịp phải là số dương,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+Thực thể %s đã kiểm tra thất bại: %s,A entidade %s falhou no teste: %s,pt-BR
+Thực thể %s đã kiểm tra thất bại: %s. Bị thiếu: %s: trước đó là %s,"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+Thực thể phải giữ %s,A entidade deve segurar: %s,pt-BR
+Thực thể:,Entidades:,pt-BR
+Ticking test before placing structure,Teste em tiques antes de colocar a estrutura,pt-BR
+Tiempo de espera no válido (%s): debe ser un número positivo de tics,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+Timeout non valido (%s): deve essere un numero positivo di tick,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+Tin nhắn:,Mensagem:,pt-BR
+Tipo de unión:,Tipo de ligação:,pt-BR
+Tipo di blocco complesso errato: %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+Tipo di giunzione,Tipo de ligação:,pt-BR
+Tipo incorrecto de entidad-bloque: %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+Too many %s blocks,Há muitos blocos (%s),pt-BR
+"Toạ độ kiểm tra: [%s, %s, %s] trong %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+"Toạ độ người chơi: [%s, %s, %s] trong %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+toạ độ tương đối x,posição x relativa,pt-BR
+"Trop de blocs ""%s""",Há muitos blocos (%s),pt-BR
+Troppi blocchi (%s),Há muitos blocos (%s),pt-BR
+Trovato tipo di blocco non previsto: %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+Trạng thái không chính xác. Bị thiếu %s: trước đó là %s,"Estado incorreto. Esperava-se %s, foi %s",pt-BR
+Trở thành:,Torna-se:,pt-BR
+Turns into:,Torna-se:,pt-BR
+Typ: %s,Tipo: %s,pt-BR
+Type : %s,Tipo: %s,pt-BR
+Type d'emboîtement :,Tipo de ligação:,pt-BR
+Type d'entité de bloc incorrect : %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+Type de bloc inattendu trouvé : %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+Type: %s,Tipo: %s,pt-BR
+Tên cấu trúc,Nome da estrutura,pt-BR
+Tên cấu trúc '%s' không hợp lệ,Nome da estrutura inválido: %s,pt-BR
+Tên mục tiêu:,Nome do alvo:,pt-BR
+Tên nhãn dữ liệu tuỳ chỉnh,Nome da marcação de dados personalizados,pt-BR
+Tên:,Nome:,pt-BR
+Túi đồ của thực thể phải chứa %s,O inventário da entidade deve conter %s,pt-BR
+Tür: %s,Tipo: %s,pt-BR
+Tạo,Gerar,pt-BR
+Ubicación relativa,Posição relativa,pt-BR
+ubicación X relativa,posição x relativa,pt-BR
+ubicación Y relativa,posição y relativa,pt-BR
+ubicación Z relativa,posição z relativa,pt-BR
+Umgebung: %s,Ambiente: %s,pt-BR
+Unable to detect structure size. Add corners with matching structure names,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+"Unable to run test instance at %s, %s, %s since it has an undefined test","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+"Unable to run test instance at %s, %s, %s since it has no test structure","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+Unable to save structure '%s',"Não foi possível salvar a estrutura ""%s""",pt-BR
+"Unable to save test structure template for test instance at %s, %s, %s","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+Unbekannter interner Fehler: %s,Erro interno desconhecido: %s,pt-BR
+"Une seule entité ""%s"" attendue autour de %s, %s, %s mais en a trouvé %s","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+Unerwarteter Blocktyp gefunden: %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+Unexpected block type found: %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+Ungültige Test‐ID,ID do teste inválido,pt-BR
+Ungültiger Konstruktionsname ‚%s‘,Nome da estrutura inválido: %s,pt-BR
+Ungültiges Timeout (%s) – muss eine positive Anzahl von Ticks sein,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+Unknown internal error: %s,Erro interno desconhecido: %s,pt-BR
+Unsichtbare Blöcke anzeigen:,Mostrar blocos invisíveis:,pt-BR
+Valeur %s attendue : %s (valeur reçue : %s),"Esperava-se que %s fosse %s, foi %s",pt-BR
+Valeur %s attendue entre %s et %s (valeur reçue : %s),"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+"Valeur de la propriété ""%s"" attendue : %s (valeur reçue : %s)","Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+Varlık %s tutmalı,A entidade deve segurar: %s,pt-BR
+"Varlık verisinin: %s olması beklendi, %s bulundu","Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+Varlıklar:,Entidades:,pt-BR
+Varlıkları Dâhil Et:,Incluir entidades:,pt-BR
+Varlığın envanteri %s barındırmalı,O inventário da entidade deve conter %s,pt-BR
+Verbindung:,Tipo de ligação:,pt-BR
+Verbundblöcke behalten,Mantê-los,pt-BR
+Veri,Dados,pt-BR
+Veri Modu - Oyun mantığı işaretleyici,Modo de dados — Marcador lógico do jogo,pt-BR
+Veri: %s,Dados: %s,pt-BR
+Verilen blok bir blok eşyası değil,O bloco especificado não é um item-bloco.,pt-BR
+Vollständigkeit & Startwert (Konstruktion),Integridade e semente da estrutura,pt-BR
+"Vor erwartetem Tick stattgefunden: erwartet, %s zu warten",Concluído antes do tique esperado: esperava-se %s,pt-BR
+Vorhandensein des Blocks %s erwartet,Esperava-se a presença do bloco %s,pt-BR
+Vật chứa phải chứa một: %s,O recipiente deve conter um único: %s,pt-BR
+Vật chứa phải chứa: %s,O recipiente deve conter: %s,pt-BR
+Vật chứa phải để trống,O recipiente deve estar vazio,pt-BR
+Vị trí bảo toàn:,Posicionamento exato:,pt-BR
+Vị trí tương đối,Posição relativa,pt-BR
+vị trí tương đối y,posição y relativa,pt-BR
+vị trí tương đối z,posição z relativa,pt-BR
+Weder Erfolg noch Fehlschlag innerhalb von %s Ticks,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+"Wenn das zugehörige Stück auf Verbindungen verarbeitet wird, ist dies die Reihenfolge, in der dieser Verbundblock versucht, sich mit seinem Zielstück zu verbinden.
+
+Verbünde werden in absteigender Priorität verarbeitet, wobei Gleichstände durch eine zufällige Reihenfolge gelöst werden.","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+"Wenn sich dieser Verbundblock mit einem Stück verbindet, ist dies die Reihenfolge, in der das Stück auf Verbindungen zur Gesamtkonstruktion verarbeitet wird.
+
+Stücke werden in absteigender Priorität verarbeitet, wobei Gleichstände durch die Einfügungsreihenfolge gelöst werden.","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+"When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+"When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+Wird zu:,Torna-se:,pt-BR
+Wrong block entity type: %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+X 軸相對位置,posição x relativa,pt-BR
+X 軸結構大小,tamanho x da estrutura,pt-BR
+Xoay được,Rotativa,pt-BR
+X軸方向の構造物のサイズ,tamanho x da estrutura,pt-BR
+X軸方向の相対座標,posição x relativa,pt-BR
+Y 軸相對位置,posição y relativa,pt-BR
+Y 軸結構大小,tamanho y da estrutura,pt-BR
+Yanlış blok varlık türü: %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+Yapbozları Sakla,Mantê-los,pt-BR
+Yapı '%s' kaydedilemedi,"Não foi possível salvar a estrutura ""%s""",pt-BR
+Yapı '%s' olarak kaydedildi,"Estrutura salva como ""%s""",pt-BR
+Yapı '%s' yüklendi,"Estrutura carregada de ""%s""",pt-BR
+Yapı Adı,Nome da estrutura,pt-BR
+Yapı Boyutu,Tamanho da estrutura,pt-BR
+Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+yapı boyutu x,tamanho x da estrutura,pt-BR
+yapı boyutu y,tamanho y da estrutura,pt-BR
+yapı boyutu z,tamanho z da estrutura,pt-BR
+Yapı boyutunu ve konumunu algıla:,Detectar posição e tamanho da estrutura:,pt-BR
+Yapı Bütünlüğü,Integridade da estrutura,pt-BR
+Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,Integridade e semente da estrutura,pt-BR
+Yapı Oluşturucusu Kodu,Semente da estrutura,pt-BR
+Yapı yerleştirilmeden test yürütüldü,Teste em tiques antes de colocar a estrutura,pt-BR
+Yapı: %s,Estrutura: %s,pt-BR
+Yapıyı Kaydet,Salvar estrutura,pt-BR
+Yerleştirme Önceliği:,Prior. de posição:,pt-BR
+Yön:,Rotação:,pt-BR
+YÜKLE,CARREGAR,pt-BR
+Yükle ve Yürüt,Carregar e executar,pt-BR
+Yükle: %s,Carregar: %s,pt-BR
+Yükleme,Carregar,pt-BR
+Yükleme Modu - Dosyadan yükle,Modo de carregamento — Carregar do arquivo,pt-BR
+Yürütme Modu - Bir testin başlama noktası,Modo de início — Ponto inicial de um teste,pt-BR
+Y軸方向の構造物のサイズ,tamanho y da estrutura,pt-BR
+Y軸方向の相対位置,posição y relativa,pt-BR
+Z 軸相對位置,posição z relativa,pt-BR
+Z 軸結構大小,tamanho z da estrutura,pt-BR
+Zielname:,Nome do alvo:,pt-BR
+Zona di delimitazione,Mostrar bordas:,pt-BR
+Zu viele %s‐Blöcke,Há muitos blocos (%s),pt-BR
+Zurücksetzen und laden,Redefinir e carregar,pt-BR
+"Zustand %s wurde als %s erwartet, war aber %s","Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+Z軸方向の構造物のサイズ,tamanho z da estrutura,pt-BR
+Z軸方向の相対位置,posição z relativa,pt-BR
+«%s» no es un nombre de estructura válido,Nome da estrutura inválido: %s,pt-BR
+Çerçeveyi göster:,Mostrar bordas:,pt-BR
+Çevre: %s,Ambiente: %s,pt-BR
+Çok fazla %s bloğu,Há muitos blocos (%s),pt-BR
+Échec : %s,Falhou: %s,pt-BR
+"Échec de la création de l'entité ""%s""",Falha ao criar a entidade %s,pt-BR
+Échec de la définition du biome pour le test,Falha ao definir o bioma para teste,pt-BR
+"Échec du placement de la structure de test pour ""%s""",Falha ao colocar a estrutura de teste para %s,pt-BR
+"Échec du test de l'entité ""%s"" : %s",A entidade %s falhou no teste: %s,pt-BR
+Échouer,Falhar,pt-BR
+"État incorrect (état attendu : %s, état reçu : %s)","Estado incorreto. Esperava-se %s, foi %s",pt-BR
+Éxito antes del tic esperado: se esperaba %s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+Éxito en tic no válido: se esperaba %s,Concluído no tique inválido. Esperava-se: %s,pt-BR
+Özel Veri Etiketi Adı,Nome da marcação de dados personalizados,pt-BR
+"Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+Đang bắt đầu kiểm tra %s,Iniciando o teste %s,pt-BR
+Điều kiện không được kích hoạt,Condição não acionada,pt-BR
+Điều kiện đã được kích hoạt ở %s,Condição já acionada em %s,pt-BR
+Đã gặp điều kiện gây thất bại,Condições de falha atendidas,pt-BR
+Đã không thành công hoặc thất bại trong %s nhịp,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+Đã nạp cấu trúc từ '%s',"Estrutura carregada de ""%s""",pt-BR
+Đã phát hiện thành công kích cỡ của '%s',"Tamanho da estrutura ""%s"" detectado",pt-BR
+Đã thiết lập lại thành công kiểm tra: %s,Redefinição concluída para o teste: %s,pt-BR
+Đã thành công trong nhịp không hợp lệ: bị thiếu %s,Concluído no tique inválido. Esperava-se: %s,pt-BR
+Đã thành công trước nhịp dự kiến: đã dự kiến đợi %s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+Đã tìm thấy loại khối bị dư: %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+Đã xác định vị trí cấu trúc '%s',"Posição da estrutura ""%s"" preparada",pt-BR
+Được căn chỉnh,Fixa,pt-BR
+Độ toàn vẹn của cấu trúc,Integridade da estrutura,pt-BR
+Độ toàn vẹn và hạt giống của cấu trúc,Integridade e semente da estrutura,pt-BR
+Độ xoay:,Rotação:,pt-BR
+Şart %s birim zamanda zaten tetiklendi,Condição já acionada em %s,pt-BR
+Şart tetiklenmedi,Condição não acionada,pt-BR
+Ưu tiên lựa chọn:,Prior. de seleção:,pt-BR
+Ưu tiên đặt:,Prior. de posição:,pt-BR
+Без обновлений:,Posicionamento exato:,pt-BR
+В тестовой конструкции отсутствует блок «%s»,Estrutura de teste com o bloco ausente: %s,pt-BR
+Вращаемый,Rotativa,pt-BR
+Выполнены условия провала,Condições de falha atendidas,pt-BR
+Выровнен,Fixa,pt-BR
+Генерировать,Gerar,pt-BR
+Данные,Dados,pt-BR
+Данные: %s,Dados: %s,pt-BR
+Журнал,Registrar,pt-BR
+Завершено до указанного такта: ожидалось прождать %s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+Загрузить и запустить,Carregar e executar,pt-BR
+ЗАПИСЬ,SALVAR,pt-BR
+Запись,Salvar,pt-BR
+Запись: %s,Salvar: %s,pt-BR
+Запуск,Iniciar,pt-BR
+Запуск теста %s,Iniciando o teste %s,pt-BR
+Идентификатор тестового экземпляра,ID de instância do teste,pt-BR
+Измерение: %s,Dimensão: %s,pt-BR
+Инвентарь сущности должен содержать %s,O inventário da entidade deve conter %s,pt-BR
+Ключ строений,Semente da estrutura,pt-BR
+Конструкция «%s» не обнаружена,"Estrutura ""%s"" não encontrada",pt-BR
+Конструкция загружена из файла «%s»,"Estrutura carregada de ""%s""",pt-BR
+Конструкция сохранена в файл «%s»,"Estrutura salva como ""%s""",pt-BR
+Конструкция: %s,Estrutura: %s,pt-BR
+Контейнер должен быть пустым,O recipiente deve estar vazio,pt-BR
+Контейнер должен содержать один %s,O recipiente deve conter um único: %s,pt-BR
+Контейнер должен содержать: %s,O recipiente deve conter: %s,pt-BR
+"Координаты игрока: [%s, %s, %s] в %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+"Координаты теста: [%s, %s, %s] в %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+Название конструкции,Nome da estrutura,pt-BR
+Название цели:,Nome do alvo:,pt-BR
+Название:,Nome:,pt-BR
+Найден неожиданный тип блока: %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+"Не ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+Не ожидался %s,Não se esperava que %s existisse,pt-BR
+Не ожидался блок %s,Não esperava-se que o bloco fosse %s,pt-BR
+Не ожидался предмет типа %s,Não se esperava um item do tipo %s,pt-BR
+Не получено результатов в течение %s тактов,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+Не удалось задать биом для теста,Falha ao definir o bioma para teste,pt-BR
+"Не удалось определить размер конструкции. Добавьте углы с названием, соответствующим конструкции",Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+Не удалось разместить тестовую конструкцию для %s,Falha ao colocar a estrutura de teste para %s,pt-BR
+Не удалось создать сущность %s,Falha ao criar a entidade %s,pt-BR
+Не удалось сохранить конструкцию «%s»,"Não foi possível salvar a estrutura ""%s""",pt-BR
+Неверное время ожидания (%s); должно быть положительное число тактов,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+Неверное название конструкции «%s»,Nome da estrutura inválido: %s,pt-BR
+Неверное состояние. Ожидалось: %s; получено: %s,"Estado incorreto. Esperava-se %s, foi %s",pt-BR
+Неверный идентификатор теста,ID do teste inválido,pt-BR
+Неверный тип блока-сущности: %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+"Невозможно выполнить тестовый экземпляр в точке %s, %s, %s: тест не определён","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+"Невозможно запустить тестовый экземпляр в точке %s, %s, %s: тестовая конструкция отсутствует","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+"Невозможно сохранить шаблон тестовой конструкции у тестового экземпляра в точке %s, %s, %s","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+Неизвестная внутренняя ошибка: %s,Erro interno desconhecido: %s,pt-BR
+Несоответствие данных сущности %s,Os dados da entidade não correspondem para: %s,pt-BR
+Нет такого теста,Nenhum teste,pt-BR
+Ни одна последовательность не завершилась в течение %s тактов,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+"Ожидалась одна сущность типа %s рядом с точкой %s, %s, %s; обнаружено %s","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+Ожидались данные сущности со значением %s; получено: %s,"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+"Ожидалось %s возле точки %s, %s, %s","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+Ожидалось %s предметов типа %s; обнаружено %s,"Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+Ожидалось %s со значением %s; получено: %s,"Esperava-se que %s fosse %s, foi %s",pt-BR
+Ожидалось %s со значением между %s и %s; получено: %s,"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+Ожидалось %s сущностей типа %s; обнаружено %s,"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+Ожидалось наличие блока %s,Esperava-se a presença do bloco %s,pt-BR
+Ожидалось присутствие %s в тесте,Esperava-se que %s existisse no teste,pt-BR
+Ожидалось свойство %s со значением %s; получено: %s,"Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+"Ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+Ожидался %s,Esperava-se %s,pt-BR
+Ожидался %s с эффектом «%s» %s,Esperava-se que a entidade %s tivesse o efeito %s (%s),pt-BR
+Ожидался блок %s; получено: %s,"Esperava-se o bloco %s, obteve-se %s",pt-BR
+"Ожидался блок из #%s, получено: %s","Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+Ожидался предмет типа %s,Esperava-se o item do tipo %s,pt-BR
+Определить размер и расположение:,Detectar posição e tamanho da estrutura:,pt-BR
+"Определяется порядок, в котором этот шаблон обрабатывается в рамках общей конструкции.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться порядком вставки.","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+Отказ,Falhar,pt-BR
+относительная координата зет,posição z relativa,pt-BR
+относительная координата игрек,posição y relativa,pt-BR
+относительная координата икс,posição x relativa,pt-BR
+Относительные координаты,Posição relativa,pt-BR
+Отсутствует блок-сущность,Entidade-bloco ausente,pt-BR
+Ошибка в недопустимом такте: ожидается %s,Concluído no tique inválido. Esperava-se: %s,pt-BR
+Пазлы,Mantê-los,pt-BR
+Поворот:,Rotação:,pt-BR
+Подготовлено расположение конструкции «%s»,"Posição da estrutura ""%s"" preparada",pt-BR
+Показать границы:,Mostrar bordas:,pt-BR
+Показывать невидимые блоки:,Mostrar blocos invisíveis:,pt-BR
+"Порядок, в котором этот блок пазла будет пытаться связываться с соседними шаблонами.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться случайным образом.","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+Превращается в:,Torna-se:,pt-BR
+Приоритет выбора:,Prior. de seleção:,pt-BR
+Приоритет установки:,Prior. de posição:,pt-BR
+Провал: %s,Falhou: %s,pt-BR
+Проверка хода тактов перед установкой конструкции,Teste em tiques antes de colocar a estrutura,pt-BR
+Произвольные теги данных,Nome da marcação de dados personalizados,pt-BR
+Пул шаблонов:,Conjunto-alvo:,pt-BR
+Размер конструкции,Tamanho da estrutura,pt-BR
+размер конструкции зет,tamanho z da estrutura,pt-BR
+размер конструкции игрек,tamanho y da estrutura,pt-BR
+размер конструкции икс,tamanho x da estrutura,pt-BR
+Размер тестовой конструкции,Tamanho da estrutura do teste,pt-BR
+Рассчитан размер конструкции «%s»,"Tamanho da estrutura ""%s"" detectado",pt-BR
+РАСЧЁТ,DETECTAR,pt-BR
+Режим данных — маркер игровой логики,Modo de dados — Marcador lógico do jogo,pt-BR
+Режим журнала — запись сообщения в журнал,Modo de registro — Registrar uma mensagem,pt-BR
+Режим записи — сохранение в файл,Modo de salvamento — Salvar no arquivo,pt-BR
+Режим запуска — начальная точка теста,Modo de início — Ponto inicial de um teste,pt-BR
+Режим отказа — тестирование на ошибку,Modo de falha — Falhar o teste,pt-BR
+Режим успеха — достижение успеха для (части) теста,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+Режим чтения — загрузка из файла,Modo de carregamento — Carregar do arquivo,pt-BR
+Сбросить и загрузить,Redefinir e carregar,pt-BR
+Сброшен тест %s,Redefinição concluída para o teste: %s,pt-BR
+Свойство блока отсутствует; ожидалось свойство %s со значением %s,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+Слишком много блоков %s,Há muitos blocos (%s),pt-BR
+Сообщение:,Mensagem:,pt-BR
+Сохранить конструкцию,Salvar estrutura,pt-BR
+Среда: %s,Ambiente: %s,pt-BR
+Сущности:,Entidades:,pt-BR
+Сущность %s провалила тест: %s,A entidade %s falhou no teste: %s,pt-BR
+Сущность %s провалила тест: %s; ожидалось: %s; получено: %s,"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+Сущность должна держать %s,A entidade deve segurar: %s,pt-BR
+Тест встроенной функции,Teste de função integrada,pt-BR
+Тест завершился по таймеру до завершения последовательности,O teste acabou antes de completar a sequência,pt-BR
+Тест на блоках,Teste baseado em blocos,pt-BR
+Тип соединения:,Tipo de ligação:,pt-BR
+Тип: %s,Tipo: %s,pt-BR
+Угол,Canto,pt-BR
+Угол — маркер размещения и размера,Modo de canto — Marcador de posição e tamanho,pt-BR
+Угол: %s,Cantos: %s,pt-BR
+Указанный блок не имеет соответствующего ему предмета,O bloco especificado não é um item-bloco.,pt-BR
+Уровни: %s,Níveis: %s,pt-BR
+Условие не задействовано,Condição não acionada,pt-BR
+Условие уже задействовано в такте %s,Condição já acionada em %s,pt-BR
+Успех,Aceitar,pt-BR
+Учитывать сущности:,Incluir entidades:,pt-BR
+Функция: %s,Função: %s,pt-BR
+Целостность конструкции,Integridade da estrutura,pt-BR
+Целостность конструкции и ключ,Integridade e semente da estrutura,pt-BR
+ЧТЕНИЕ,CARREGAR,pt-BR
+Чтение,Carregar,pt-BR
+Чтение: %s,Carregar: %s,pt-BR
+กลุ่มเป้าหมาย:,Conjunto-alvo:,pt-BR
+การทดสอบฟังก์ชันในตัว,Teste de função integrada,pt-BR
+การทดสอบหมดเวลาก่อนที่ลำดับจะเสร็จสิ้น,O teste acabou antes de completar a sequência,pt-BR
+การทดสอบโดยอิงจากบล็อก,Teste baseado em blocos,pt-BR
+การทดสอบได้เริ่มนับติ๊กโดยที่ยังไม่ได้วางโครงสร้าง,Teste em tiques antes de colocar a estrutura,pt-BR
+การวางอย่างเคร่งครัด:,Posicionamento exato:,pt-BR
+การหมดเวลาไม่ถูกต้อง (%s) - ติ๊กต้องเป็นจำนวนบวก,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+การหมุน:,Rotação:,pt-BR
+กำลังเริ่มการทดสอบ %s,Iniciando o teste %s,pt-BR
+ขนาดโครงสร้าง,Tamanho da estrutura,pt-BR
+ขนาดโครงสร้าง x,tamanho x da estrutura,pt-BR
+ขนาดโครงสร้าง y,tamanho y da estrutura,pt-BR
+ขนาดโครงสร้าง z,tamanho z da estrutura,pt-BR
+ขนาดโครงสร้างทดสอบ,Tamanho da estrutura do teste,pt-BR
+ขาดคุณสมบัติบล็อก ต้องมีคุณสมบัติ %s เป็น %s,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+ขาดเอนทิตี้บล็อก,Entidade-bloco ausente,pt-BR
+ข้อความ:,Mensagem:,pt-BR
+ข้อมูล,Dados,pt-BR
+ข้อมูล: %s,Dados: %s,pt-BR
+ข้อมูลเอนทิตี้ต้องเป็น %s: ตอนนี้เป็น %s,"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+ข้อมูลเอนทิตี้สำหรับ %s ไม่ตรงกัน,Os dados da entidade não correspondem para: %s,pt-BR
+คงบล็อกจิ๊กซอว์ไว้,Mantê-los,pt-BR
+ความสมบูรณ์ของโครงสร้าง,Integridade da estrutura,pt-BR
+ความสมบูรณ์ของโครงสร้างและซีด,Integridade e semente da estrutura,pt-BR
+คอนเทนเนอร์ควรมี: %s,O recipiente deve conter: %s,pt-BR
+คอนเทนเนอร์ควรมีสิ่งนี้เพียงชิ้นเดียว: %s,O recipiente deve conter um único: %s,pt-BR
+คอนเทนเนอร์ควรว่างเปล่า,O recipiente deve estar vazio,pt-BR
+คุณสมบัติ %s ต้องเป็น %s: ตอนนี้เป็น %s,"Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+ชื่อ:,Nome:,pt-BR
+ชื่อเป้าหมาย:,Nome do alvo:,pt-BR
+ชื่อแท็กข้อมูลกำหนดเอง,Nome da marcação de dados personalizados,pt-BR
+ชื่อโครงสร้าง,Nome da estrutura,pt-BR
+ชื่อโครงสร้าง '%s' ไม่ถูกต้อง,Nome da estrutura inválido: %s,pt-BR
+ช่องเก็บของเอนทิตี้ควรมี %s,O inventário da entidade deve conter %s,pt-BR
+ซีดโครงสร้าง,Semente da estrutura,pt-BR
+ตรงตามเงื่อนไขความล้มเหลว,Condições de falha atendidas,pt-BR
+ตรวจจับ,DETECTAR,pt-BR
+ตรวจจับขนาดและตำแหน่งโครงสร้าง:,Detectar posição e tamanho da estrutura:,pt-BR
+ตรวจพบขนาดสำหรับ '%s' แล้ว,"Tamanho da estrutura ""%s"" detectado",pt-BR
+ตำแหน่ง x สัมพัทธ์,posição x relativa,pt-BR
+ตำแหน่งสัมพัทธ์,Posição relativa,pt-BR
+ตำแหน่งสัมพัทธ์ y,posição y relativa,pt-BR
+ตำแหน่งสัมพัทธ์ z,posição z relativa,pt-BR
+ตำแหน่งโครงสร้าง '%s' ถูกเตรียม,"Posição da estrutura ""%s"" preparada",pt-BR
+ต้องมี %s,Esperava-se %s,pt-BR
+"ต้องมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+"ต้องมี %s อยู่รอบ %s, %s, %s","Esperava-se que %s exista ao redor de %s, %s, %s",pt-BR
+ต้องมี %s อยู่ระหว่าง %s กับ %s: ตอนนี้เป็น %s,"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+ต้องมี %s อยู่ในการทดสอบ,Esperava-se que %s existisse no teste,pt-BR
+"ต้องมี %s เพียง 1 รายการรอบ %s, %s, %s เท่านั้น แต่พบ %s รายการ","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+ต้องมีบล็อก %s อยู่,Esperava-se a presença do bloco %s,pt-BR
+ต้องมีเอนทิตี้ %s รายการของประเภท %s: พบ %s รายการ,"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+ต้องมีไอเทม %s รายการของประเภท %s: พบ %s รายการ,"Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+ต้องมีไอเทมของประเภท %s,Esperava-se o item do tipo %s,pt-BR
+ต้องเป็นบล็อก %s: ได้รับ %s,"Esperava-se o bloco %s, obteve-se %s",pt-BR
+ต้องเป็นบล็อกใน #%s: ได้รับ %s,"Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+บล็อก%sมากเกินไป,Há muitos blocos (%s),pt-BR
+บล็อกนั้นไม่ใช่ไอเทมบล็อก,O bloco especificado não é um item-bloco.,pt-BR
+บล็อกไม่ควรเป็น %s,Não esperava-se que o bloco fosse %s,pt-BR
+บันทึก,SALVAR,pt-BR
+บันทึก,Salvar,pt-BR
+บันทึก: %s,Salvar: %s,pt-BR
+บันทึกโครงสร้าง,Salvar estrutura,pt-BR
+ประเภท: %s,Tipo: %s,pt-BR
+ประเภทการต่อ:,Tipo de ligação:,pt-BR
+ประเภทเอนทิตี้บล็อกผิดพลาด: %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+พบประเภทบล็อกที่ไม่คาดคิด: %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+"พิกัดทดสอบ: [%s, %s, %s] ใน %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+"พิกัดผู้เล่น: [%s, %s, %s] ใน %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+ฟังก์ชัน: %s,Função: %s,pt-BR
+มิติ: %s,Dimensão: %s,pt-BR
+มุม,Canto,pt-BR
+มุม: %s,Cantos: %s,pt-BR
+ยอมรับ,Aceitar,pt-BR
+รวมถึงเอนทิตี้:,Incluir entidades:,pt-BR
+ระดับ: %s,Níveis: %s,pt-BR
+รีเซตการทดสอบสำเร็จ: %s,Redefinição concluída para o teste: %s,pt-BR
+รีเซตและโหลด,Redefinir e carregar,pt-BR
+ลงบันทึก,Registrar,pt-BR
+ลำดับความสำคัญในการวาง:,Prior. de posição:,pt-BR
+ลำดับความสำคัญในการเลือก:,Prior. de seleção:,pt-BR
+ล้มเหลว,Falhar,pt-BR
+ล้มเหลว: %s,Falhou: %s,pt-BR
+ล้มเหลวในการตั้งไบโอมสำหรับการทดสอบ,Falha ao definir o bioma para teste,pt-BR
+ล้มเหลวในการวางโครงสร้างทดสอบสำหรับ %s,Falha ao colocar a estrutura de teste para %s,pt-BR
+ล้มเหลวในการสร้างเอนทิตี้ %s,Falha ao criar a entidade %s,pt-BR
+สถานะไม่ถูกต้อง ต้องเป็น %s: ตอนนี้เป็น %s,"Estado incorreto. Esperava-se %s, foi %s",pt-BR
+สภาพแวดล้อม: %s,Ambiente: %s,pt-BR
+สร้าง,Gerar,pt-BR
+สำเร็จก่อนติ๊กที่คาดไว้: ต้องรอจนถึง %s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+สำเร็จในติ๊กที่ไม่ถูกต้อง: ต้องเป็น %s,Concluído no tique inválido. Esperava-se: %s,pt-BR
+หมุนได้,Rotativa,pt-BR
+หมุนไม่ได้,Fixa,pt-BR
+เงื่อนไขถูกทริกเกอร์ไปแล้วในติ๊กที่ %s,Condição já acionada em %s,pt-BR
+เงื่อนไขไม่ถูกทริกเกอร์,Condição não acionada,pt-BR
+"เมื่อชิ้นส่วนแม่ถูกประมวลผลเพื่อการเชื่อมต่อ นี่คือลำดับที่บล็อกจิ๊กซอว์นี้จะพยายามเชื่อมต่อกับชิ้นส่วนเป้าหมาย
+
+บล็อกจิ๊กซอว์ต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย หากมีลำดับความสำคัญเท่ากัน จะใช้การสุ่มในการเลือกลำดับการประมวลผล","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+"เมื่อบล็อกจิ๊กซอว์นี้เชื่อมต่อกับชิ้นส่วนใด ๆ นี่คือลำดับที่ชิ้นส่วนนั้นจะถูกประมวลผลเพื่อการเชื่อมต่อในโครงสร้างที่ใหญ่ขึ้น
+
+ชิ้นส่วนต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย โดยหากมีลำดับความสำคัญเท่ากัน จะประมวลผลตามลำดับการแทรก","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+เริ่มต้น,Iniciar,pt-BR
+เสร็จสิ้นกลายเป็น:,Torna-se:,pt-BR
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s,A entidade %s falhou no teste: %s,pt-BR
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s ต้องเป็น %s: ตอนนี้เป็น %s,"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+เอนทิตี้:,Entidades:,pt-BR
+เอนทิตี้ควรกำลังถือ %s,A entidade deve segurar: %s,pt-BR
+แสดงกล่องขอบเขต:,Mostrar bordas:,pt-BR
+แสดงบล็อกล่องหน:,Mostrar blocos invisíveis:,pt-BR
+โครงสร้าง '%s' ไม่พร้อมใช้งาน,"Estrutura ""%s"" não encontrada",pt-BR
+โครงสร้าง: %s,Estrutura: %s,pt-BR
+โครงสร้างถูกบันทึกเป็น '%s',"Estrutura salva como ""%s""",pt-BR
+โครงสร้างถูกโหลดจาก '%s',"Estrutura carregada de ""%s""",pt-BR
+โครงสร้างทดสอบขาดบล็อก%s,Estrutura de teste com o bloco ausente: %s,pt-BR
+โหมดข้อมูล - ตัวทำเครื่องหมายตรรกะเกม,Modo de dados — Marcador lógico do jogo,pt-BR
+โหมดบันทึก - บันทึกไปยังไฟล์,Modo de salvamento — Salvar no arquivo,pt-BR
+โหมดมุม - ตัวทําเครื่องหมายการวางและขนาด,Modo de canto — Marcador de posição e tamanho,pt-BR
+โหมดยอมรับ - ยอมรับความสำเร็จของ (บางส่วนของ) การทดสอบ,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+โหมดลงบันทึก - บันทึกข้อความเอาต์พุตลงไฟล์บันทึก,Modo de registro — Registrar uma mensagem,pt-BR
+โหมดล้มเหลว - ทำให้การทดสอบล้มเหลว,Modo de falha — Falhar o teste,pt-BR
+โหมดเริ่มต้น - จุดเริ่มต้นของการทดสอบ,Modo de início — Ponto inicial de um teste,pt-BR
+โหมดโหลด - โหลดจากไฟล์,Modo de carregamento — Carregar do arquivo,pt-BR
+โหลด,CARREGAR,pt-BR
+โหลด,Carregar,pt-BR
+โหลด: %s,Carregar: %s,pt-BR
+โหลดและรัน,Carregar e executar,pt-BR
+"ไม่ควรมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)",pt-BR
+ไม่ควรมี %s อยู่,Não se esperava que %s existisse,pt-BR
+ไม่ควรมีไอเทมประเภท %s,Não se esperava um item do tipo %s,pt-BR
+ไม่ทราบข้อผิดพลาดภายใน: %s,Erro interno desconhecido: %s,pt-BR
+ไม่มีการทดสอบดังกล่าว,Nenhum teste,pt-BR
+ไม่มีลำดับเสร็จสิ้นภายใน %s ติ๊ก,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+ไม่สามารถตรวจจับขนาดโครงสร้างได้ เพิ่มมุมด้วยชื่อโครงสร้างที่ตรงกัน,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+"ไม่สามารถบันทึกแม่แบบโครงสร้างทดสอบสำหรับกรณีทดสอบที่ %s, %s, %s","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+ไม่สามารถบันทึกโครงสร้าง '%s' ได้,"Não foi possível salvar a estrutura ""%s""",pt-BR
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีการกำหนดค่าการทดสอบ","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีโครงสร้างทดสอบ","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+ไม่สำเร็จหรือล้มเหลวภายใน %s ติ๊ก,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+“%s”的大小已成功检测,"Tamanho da estrutura ""%s"" detectado",pt-BR
+「%s」から構造物を読み込みました,"Estrutura carregada de ""%s""",pt-BR
+「%s」のサイズが正常に検出されました,"Tamanho da estrutura ""%s"" detectado",pt-BR
+「%s」は無効な構造物名です,Nome da estrutura inválido: %s,pt-BR
+"この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+"この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+そのテストは存在しません,Nenhum teste,pt-BR
+"ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました","Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s",pt-BR
+エンティティ%sがテストに失敗しました：%s,A entidade %s falhou no teste: %s,pt-BR
+エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+エンティティ%sの作成に失敗しました,Falha ao criar a entidade %s,pt-BR
+エンティティのインベントリには%sが入っている必要があります,O inventário da entidade deve conter %s,pt-BR
+エンティティは%sを手に持っている必要があります,A entidade deve segurar: %s,pt-BR
+エンティティを含めるかどうか：,Incluir entidades:,pt-BR
+エンティティデータが%sに合致しません,Os dados da entidade não correspondem para: %s,pt-BR
+エンティティデータは%sでなければなりませんが、%sでした,"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+エンティティ：,Entidades:,pt-BR
+カスタムデータタグ名,Nome da marcação de dados personalizados,pt-BR
+コンテナには%sが入っている必要があります,O recipiente deve conter: %s,pt-BR
+コンテナには単一の%sが入っている必要があります,O recipiente deve conter um único: %s,pt-BR
+コンテナは空である必要があります,O recipiente deve estar vazio,pt-BR
+コーナー,Canto,pt-BR
+コーナーモード - 構造物のサイズと位置を標識します,Modo de canto — Marcador de posição e tamanho,pt-BR
+コーナー：%s,Cantos: %s,pt-BR
+シーケンスが完了する前にテストがタイムアウトしました,O teste acabou antes de completar a sequência,pt-BR
+ジグソーを維持,Mantê-los,pt-BR
+セーブ,Salvar,pt-BR
+セーブモード - ファイルへの書き込みを行います,Modo de salvamento — Salvar no arquivo,pt-BR
+セーブ：%s,Salvar: %s,pt-BR
+タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,"Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+タイプ%sのアイテムが必要です,Esperava-se o item do tipo %s,pt-BR
+タイプ%sのアイテムは予期されていません,Não se esperava um item do tipo %s,pt-BR
+タイプ：%s,Tipo: %s,pt-BR
+"ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s","%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s",pt-BR
+テスト%sを開始します,Iniciando o teste %s,pt-BR
+テストに向けたバイオームの設定に失敗しました,Falha ao definir o bioma para teste,pt-BR
+テストのリセットが成功しました：%s,Redefinição concluída para o teste: %s,pt-BR
+"テストの座標：%4$s内の[%1$s, %2$s, %3$s]","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+テストインスタンスID,ID de instância do teste,pt-BR
+"テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+テスト構造物に%sブロックがありません,Estrutura de teste com o bloco ausente: %s,pt-BR
+テスト構造物のサイズ,Tamanho da estrutura do teste,pt-BR
+ディメンション：%s,Dimensão: %s,pt-BR
+データ,Dados,pt-BR
+データモード - 構造物ごとに固有の処理をマーキングします,Modo de dados — Marcador lógico do jogo,pt-BR
+データ：%s,Dados: %s,pt-BR
+ビルトイン関数型テスト,Teste de função integrada,pt-BR
+ブロック%sが存在する必要があります,Esperava-se a presença do bloco %s,pt-BR
+ブロック%sが必要ですが、%sが検出されました,"Esperava-se o bloco %s, obteve-se %s",pt-BR
+ブロックが%sであることは予期されていません,Não esperava-se que o bloco fosse %s,pt-BR
+ブロックエンティティが不足しています,Entidade-bloco ausente,pt-BR
+ブロックエンティティタイプが間違っています：%s,Tipo de entidade-bloco incorreto: %s,pt-BR
+ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+ブロックベース型テスト,Teste baseado em blocos,pt-BR
+"プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+プロパティ%sが%sであることが必要ですが、%sでした,"Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+メッセージ：,Mensagem:,pt-BR
+リセットして読み込む,Redefinir e carregar,pt-BR
+レベル：%s,Níveis: %s,pt-BR
+ログ,Registrar,pt-BR
+ログモード - メッセージをログに出力します,Modo de registro — Registrar uma mensagem,pt-BR
+ロード,Carregar,pt-BR
+ロードモード - ファイルからの読み込みを行います,Modo de carregamento — Carregar do arquivo,pt-BR
+ロード：%s,Carregar: %s,pt-BR
+不存在名为“%s”的结构 ,"Estrutura ""%s"" não encontrada",pt-BR
+不明な内部エラーです：%s,Erro interno desconhecido: %s,pt-BR
+严格放置：,Posicionamento exato:,pt-BR
+为%s放置测试结构失败,Falha ao colocar a estrutura de teste para %s,pt-BR
+予定のティックより早く成功しました。予想された待ち時間は%sでした,Concluído antes do tique esperado: esperava-se %s,pt-BR
+予期せぬブロックタイプが検出されました：%s,Tipo de bloco inesperado encontrado: %s,pt-BR
+保存,SALVAR,pt-BR
+保存模式,Salvar,pt-BR
+保存模式 — 写入文件,Modo de salvamento — Salvar no arquivo,pt-BR
+保存结构,Salvar estrutura,pt-BR
+保存：%s,Salvar: %s,pt-BR
+保留拼图,Mantê-los,pt-BR
+偵測,DETECTAR,pt-BR
+偵測結構的大小與位置：,Detectar posição e tamanho da estrutura:,pt-BR
+儲存,SALVAR,pt-BR
+儲存,Salvar,pt-BR
+儲存拼圖,Mantê-los,pt-BR
+儲存模式 ─ 寫入檔案,Modo de salvamento — Salvar no arquivo,pt-BR
+儲存結構,Salvar estrutura,pt-BR
+儲存：%s,Salvar: %s,pt-BR
+內建函數測試,Teste de função integrada,pt-BR
+内置函数测试,Teste de função integrada,pt-BR
+函数：%s,Função: %s,pt-BR
+函數：%s,Função: %s,pt-BR
+创建实体%s失败,Falha ao criar a entidade %s,pt-BR
+加载,CARREGAR,pt-BR
+加载并运行,Carregar e executar,pt-BR
+加载模式,Carregar,pt-BR
+加载模式 — 从文件中加载,Modo de carregamento — Carregar do arquivo,pt-BR
+加载：%s,Carregar: %s,pt-BR
+包含實體：,Incluir entidades:,pt-BR
+包括实体：,Incluir entidades:,pt-BR
+厳密な配置：,Posicionamento exato:,pt-BR
+发现非预期的方块类型：%s,Tipo de bloco inesperado encontrado: %s,pt-BR
+可旋轉,Rotativa,pt-BR
+可旋转,Rotativa,pt-BR
+名前：,Nome:,pt-BR
+名称：,Nome:,pt-BR
+名稱：,Nome:,pt-BR
+启动,Iniciar,pt-BR
+启动模式 - 测试的起点,Modo de início — Ponto inicial de um teste,pt-BR
+啟動,Iniciar,pt-BR
+啟動模式 ─ 測試的起點,Modo de início — Ponto inicial de um teste,pt-BR
+嚴格放置：,Posicionamento exato:,pt-BR
+回転可能,Rotativa,pt-BR
+回転：,Rotação:,pt-BR
+固定,Fixa,pt-BR
+在 %s 刻內沒有序列完成,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+在%s刻内没有序列完成,Nenhuma sequência concluída dentro de %s tique(s),pt-BR
+在放置結構前執行了測試,Teste em tiques antes de colocar a estrutura,pt-BR
+在無效刻時成功：應為 %s,Concluído no tique inválido. Esperava-se: %s,pt-BR
+在預期刻之前成功：應等待 %s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+基于方块的测试,Teste baseado em blocos,pt-BR
+基於方塊的測試,Teste baseado em blocos,pt-BR
+境界線を表示する：,Mostrar bordas:,pt-BR
+失敗,Falhar,pt-BR
+失敗モード - テストを失敗させます,Modo de falha — Falhar o teste,pt-BR
+失敗条件が満たされました,Condições de falha atendidas,pt-BR
+失敗模式 ─ 使測試失敗,Modo de falha — Falhar o teste,pt-BR
+失敗：%s,Falhou: %s,pt-BR
+失败,Falhar,pt-BR
+失败模式 - 使测试失败,Modo de falha — Falhar o teste,pt-BR
+失败：%s,Falhou: %s,pt-BR
+"存在未定义的测试，无法在%s, %s, %s处运行测试实例","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+"存在未被定義的測試，無法在 %s, %s, %s 處執行測試實例","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+实体%s测试失败：%s,A entidade %s falhou no teste: %s,pt-BR
+实体%s测试失败：%s。应为%s：实际为%s,"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+实体应持有%s,A entidade deve segurar: %s,pt-BR
+实体数据应为%s：实际为%s,"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+实体物品栏中应包含%s,O inventário da entidade deve conter %s,pt-BR
+实体：,Entidades:,pt-BR
+容器应为空,O recipiente deve estar vazio,pt-BR
+容器应包含：%s,O recipiente deve conter: %s,pt-BR
+容器应含有单个：%s,O recipiente deve conter um único: %s,pt-BR
+容器應含有單個：%s,O recipiente deve conter um único: %s,pt-BR
+容器應含有：%s,O recipiente deve conter: %s,pt-BR
+容器應為空,O recipiente deve estar vazio,pt-BR
+實體 %s 測試失敗：%s,A entidade %s falhou no teste: %s,pt-BR
+實體 %s 測試失敗：%s。應為 %s，但實際為 %s,"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",pt-BR
+實體應持有 %s,A entidade deve segurar: %s,pt-BR
+實體物品欄中應含有 %s,O inventário da entidade deve conter %s,pt-BR
+實體資料應為 %s，但實際為 %s,"Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+實體：,Entidades:,pt-BR
+対象の名前：,Nome do alvo:,pt-BR
+尚未放置结构时执行了测试,Teste em tiques antes de colocar a estrutura,pt-BR
+层数：%s,Níveis: %s,pt-BR
+属性%s应为%s：实际为%s,"Esperava-se que %s fosse %s, foi %s",pt-BR
+属性%s应为%s：实际为%s,"Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+属性%s应在%s和%s之间：实际为%s,"Esperava-se que o valor %s estivesse %s e %s, foi %s",pt-BR
+層數：%s,Níveis: %s,pt-BR
+屬性 %s 應為 %s，但實際為 %s,"Esperava-se que a propriedade %s seja %s, foi %s",pt-BR
+已將結構儲存為 '%s',"Estrutura salva como ""%s""",pt-BR
+已從 '%s' 載入結構,"Estrutura carregada de ""%s""",pt-BR
+已成功偵測 '%s' 的大小,"Tamanho da estrutura ""%s"" detectado",pt-BR
+应为%s个%s类型的物品：实际为%s个,"Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+应为%s类型的物品,Esperava-se o item do tipo %s,pt-BR
+应存在方块%s,Esperava-se a presença do bloco %s,pt-BR
+应有%s个类型为%s的实体：实际有%s个,"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+"当此拼图方块连接到部件时，此处即为在更大的结构中各部件处理连接的顺序。
+
+部件按照优先级由高到低处理，若优先级相同，则按照插入顺序处理。","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+"当父级片段处理连接时，此处即为各拼图方块尝试连接目标部件的顺序。
+
+拼图方块将会按照优先级由高到低处理，同级则随机处理。","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+應存在方塊 %s,Esperava-se a presença do bloco %s,pt-BR
+應為 %s,Esperava-se %s,pt-BR
+應為類型 %s 的物品,Esperava-se o item do tipo %s,pt-BR
+成功于无效的刻：应为%s,Concluído no tique inválido. Esperava-se: %s,pt-BR
+成功于预期的刻之前：应等待%s,Concluído antes do tique esperado: esperava-se %s,pt-BR
+成功从“%s”中加载结构,"Estrutura carregada de ""%s""",pt-BR
+成功将结构保存为“%s”,"Estrutura salva como ""%s""",pt-BR
+找到非預期的方塊類型：%s,Tipo de bloco inesperado encontrado: %s,pt-BR
+拼接类型：,Tipo de ligação:,pt-BR
+拼接類型：,Tipo de ligação:,pt-BR
+指定のブロックはブロックアイテムではありません,O bloco especificado não é um item-bloco.,pt-BR
+指定的方块不是方块物品,O bloco especificado não é um item-bloco.,pt-BR
+指定的方塊不是方塊物品,O bloco especificado não é um item-bloco.,pt-BR
+探测,DETECTAR,pt-BR
+探测结构大小和位置：,Detectar posição e tamanho da estrutura:,pt-BR
+接受,Aceitar,pt-BR
+接受模式 - 接受（部分）测试的成功,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+接受模式 ─ 接受測試（部分）成功,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+接続タイプ：,Tipo de ligação:,pt-BR
+放置优先级：,Prior. de posição:,pt-BR
+放置優先順序：,Prior. de posição:,pt-BR
+数据模式,Dados,pt-BR
+数据模式 — 游戏逻辑标记,Modo de dados — Marcador lógico do jogo,pt-BR
+数据：%s,Dados: %s,pt-BR
+整列,Fixa,pt-BR
+方块不应为%s,Não esperava-se que o bloco fosse %s,pt-BR
+方块应为%s：实际为%s,"Esperava-se o bloco %s, obteve-se %s",pt-BR
+方块应在#%s中：实际为%s,"Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+方塊不應為 %s,Não esperava-se que o bloco fosse %s,pt-BR
+方塊應在 #%s 中，但實際為 %s,"Esperava-se o bloco em #%s, obteve-se %s",pt-BR
+方塊應為 %s，但實際為 %s,"Esperava-se o bloco %s, obteve-se %s",pt-BR
+旋轉角度：,Rotação:,pt-BR
+旋转角度：,Rotação:,pt-BR
+无效的时限（%s），刻数必须为正数,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+无效的测试ID,ID do teste inválido,pt-BR
+无效的结构名“%s”,Nome da estrutura inválido: %s,pt-BR
+"无法保存%s, %s, %s处测试实例的测试结构模板","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+无法保存结构“%s”,"Não foi possível salvar a estrutura ""%s""",pt-BR
+无法检测结构大小。请放置与结构名称对应的角落结构方块,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+日志输出,Registrar,pt-BR
+日志输出模式 - 将消息输出到日志,Modo de registro — Registrar uma mensagem,pt-BR
+显示边框：,Mostrar bordas:,pt-BR
+显示隐形方块：,Mostrar blocos invisíveis:,pt-BR
+未在 %s 刻內成功或失敗,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+未在%s刻内成功或失败,O teste não foi concluído ou falhou dentro de %s tique(s),pt-BR
+"未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+未知的內部錯誤：%s,Erro interno desconhecido: %s,pt-BR
+未知的内部错误：%s,Erro interno desconhecido: %s,pt-BR
+条件がすでに%sでトリガーされています,Condição já acionada em %s,pt-BR
+条件がトリガーされていません,Condição não acionada,pt-BR
+条件已在%s刻时触发,Condição já acionada em %s,pt-BR
+条件未触发,Condição não acionada,pt-BR
+條件已在 %s 刻時觸發,Condição já acionada em %s,pt-BR
+條件未觸發,Condição não acionada,pt-BR
+検出,DETECTAR,pt-BR
+構成要素プール：,Conjunto-alvo:,pt-BR
+構造物「%s」の位置が準備されました,"Posição da estrutura ""%s"" preparada",pt-BR
+構造物「%s」は利用できません,"Estrutura ""%s"" não encontrada",pt-BR
+構造物「%s」を保存できません,"Não foi possível salvar a estrutura ""%s""",pt-BR
+構造物が「%s」として保存されました,"Estrutura salva como ""%s""",pt-BR
+構造物が未設置の状態でティック処理が実行されました,Teste em tiques antes de colocar a estrutura,pt-BR
+構造物のサイズ,Tamanho da estrutura,pt-BR
+構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+構造物のシード値,Semente da estrutura,pt-BR
+構造物の大きさと位置を検出：,Detectar posição e tamanho da estrutura:,pt-BR
+構造物の完全性,Integridade da estrutura,pt-BR
+構造物の完全性とシード値,Integridade e semente da estrutura,pt-BR
+構造物を保存,Salvar estrutura,pt-BR
+構造物名,Nome da estrutura,pt-BR
+構造物：%s,Estrutura: %s,pt-BR
+正在启动测试%s,Iniciando o teste %s,pt-BR
+正在啟動測試 %s,Iniciando o teste %s,pt-BR
+此测试不存在,Nenhum teste,pt-BR
+沒有名為 '%s' 的結構,"Estrutura ""%s"" não encontrada",pt-BR
+"沒有測試結構，無法在 %s, %s, %s 處執行測試實例","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+"没有测试结构，无法在%s, %s, %s处运行测试实例","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+测试在序列完成前超时,O teste acabou antes de completar a sequência,pt-BR
+"测试坐标：[%s, %s, %s]，位于%s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+测试实例ID,ID de instância do teste,pt-BR
+测试结构大小,Tamanho da estrutura do teste,pt-BR
+测试结构缺少%s方块,Estrutura de teste com o bloco ausente: %s,pt-BR
+测试重置成功：%s,Redefinição concluída para o teste: %s,pt-BR
+消息：,Mensagem:,pt-BR
+測試不存在,Nenhum teste,pt-BR
+測試在序列完成前已逾時,O teste acabou antes de completar a sequência,pt-BR
+測試實例 ID,ID de instância do teste,pt-BR
+"測試座標：[%s, %s, %s]，位於 %s","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+測試結構大小,Tamanho da estrutura do teste,pt-BR
+測試結構缺少 %s 方塊,Estrutura de teste com o bloco ausente: %s,pt-BR
+測試重設成功：%s,Redefinição concluída para o teste: %s,pt-BR
+满足失败条件,Condições de falha atendidas,pt-BR
+滿足失敗條件,Condições de falha atendidas,pt-BR
+無効なティックにおいて成功しました。%sでなければなりません,Concluído no tique inválido. Esperava-se: %s,pt-BR
+無効なテストID,ID do teste inválido,pt-BR
+無效的時間限制 (%s) - 刻數須為正數,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+無效的測試 ID,ID do teste inválido,pt-BR
+無效的結構名稱 '%s',Nome da estrutura inválido: %s,pt-BR
+無法偵測結構大小。請添加與結構名稱對應的角落,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+無法儲存結構 '%s',"Não foi possível salvar a estrutura ""%s""",pt-BR
+"無法在 %s, %s, %s 處儲存測試實例的測試結構模板","Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s",pt-BR
+無法建立實體 %s,Falha ao criar a entidade %s,pt-BR
+無法為 %s 放置測試結構,Falha ao colocar a estrutura de teste para %s,pt-BR
+無法設定測試的生態域,Falha ao definir o bioma para teste,pt-BR
+物品不应为类型%s,Não se esperava um item do tipo %s,pt-BR
+物品不應為類型 %s,Não se esperava um item do tipo %s,pt-BR
+状态错误。应为%s：实际为%s,"Estado incorreto. Esperava-se %s, foi %s",pt-BR
+状態が間違っています。%sであることが必要ですが、%sでした,"Estado incorreto. Esperava-se %s, foi %s",pt-BR
+狀態錯誤。應為 %s，但實際為 %s,"Estado incorreto. Esperava-se %s, foi %s",pt-BR
+"玩家坐标：[%s, %s, %s]，位于%s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+"玩家座標：[%s, %s, %s]，位於 %s","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+环境：%s,Ambiente: %s,pt-BR
+環境：%s,Ambiente: %s,pt-BR
+生成,Gerar,pt-BR
+"當此拼圖方塊連接到某個部件時，此處即為在更大的結構中各部件的處理連接的順序。
+
+部件依照優先順序由高到低處理，若優先順序相同，則依插入順序處理。","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+"當父級部件處理連接時，此處即為拼圖方塊嘗試連接到目標部件的順序。
+
+拼圖方塊會依照優先順序由高到低處理，若優先順序相同，則依隨機順序處理。","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+目标名称：,Nome do alvo:,pt-BR
+目标池：,Conjunto-alvo:,pt-BR
+目標名稱：,Nome do alvo:,pt-BR
+目標池：,Conjunto-alvo:,pt-BR
+相对X坐标,posição x relativa,pt-BR
+相对Y坐标,posição y relativa,pt-BR
+相对Z坐标,posição z relativa,pt-BR
+相对位置,Posição relativa,pt-BR
+相対位置,Posição relativa,pt-BR
+相對位置,Posição relativa,pt-BR
+类型：%s,Tipo: %s,pt-BR
+結構 '%s' 的位置已準備就緒,"Posição da estrutura ""%s"" preparada",pt-BR
+結構名稱,Nome da estrutura,pt-BR
+結構大小,Tamanho da estrutura,pt-BR
+結構完整度及種子碼,Integridade e semente da estrutura,pt-BR
+結構完整性,Integridade da estrutura,pt-BR
+結構種子碼,Semente da estrutura,pt-BR
+結構：%s,Estrutura: %s,pt-BR
+維度：%s,Dimensão: %s,pt-BR
+结构X轴大小,tamanho x da estrutura,pt-BR
+结构Y轴大小,tamanho y da estrutura,pt-BR
+结构Z轴大小,tamanho z da estrutura,pt-BR
+结构“%s”的加载位置已就绪,"Posição da estrutura ""%s"" preparada",pt-BR
+结构名称,Nome da estrutura,pt-BR
+结构大小,Tamanho da estrutura,pt-BR
+结构完整性,Integridade da estrutura,pt-BR
+结构完整性及种子,Integridade e semente da estrutura,pt-BR
+结构种子,Semente da estrutura,pt-BR
+结构：%s,Estrutura: %s,pt-BR
+维度：%s,Dimensão: %s,pt-BR
+缺少%s,Esperava-se %s,pt-BR
+缺少方块实体,Entidade-bloco ausente,pt-BR
+缺少方块属性。属性%s应为%s,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+缺少方塊實體,Entidade-bloco ausente,pt-BR
+缺少方塊屬性。屬性 %s 應為 %s,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+置換先：,Torna-se:,pt-BR
+自定义数据标签名,Nome da marcação de dados personalizados,pt-BR
+自訂資料標籤名稱,Nome da marcação de dados personalizados,pt-BR
+見えないブロックを表示する：,Mostrar blocos invisíveis:,pt-BR
+角落,Canto,pt-BR
+角落模式,Canto,pt-BR
+角落模式 — 位置和大小标记,Modo de canto — Marcador de posição e tamanho,pt-BR
+角落模式 ─ 位置及大小記號,Modo de canto — Marcador de posição e tamanho,pt-BR
+角落：%s,Cantos: %s,pt-BR
+訊息：,Mensagem:,pt-BR
+記錄,Registrar,pt-BR
+記錄模式 ─ 將紀錄輸出至記錄檔中,Modo de registro — Registrar uma mensagem,pt-BR
+設置優先度：,Prior. de posição:,pt-BR
+認証,Aceitar,pt-BR
+認証モード - テスト（の一部）の成功を認証します,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+読み込み,CARREGAR,pt-BR
+読み込んで実行,Carregar e executar,pt-BR
+设置测试生物群系失败,Falha ao definir o bioma para teste,pt-BR
+資料,Dados,pt-BR
+資料模式 ─ 遊戲邏輯記號,Modo de dados — Marcador lógico do jogo,pt-BR
+資料：%s,Dados: %s,pt-BR
+載入,CARREGAR,pt-BR
+載入,Carregar,pt-BR
+載入並執行,Carregar e executar,pt-BR
+載入模式 ─ 從檔案載入,Modo de carregamento — Carregar do arquivo,pt-BR
+載入：%s,Carregar: %s,pt-BR
+轉變為：,Torna-se:,pt-BR
+转变为：,Torna-se:,pt-BR
+选择优先级：,Prior. de seleção:,pt-BR
+選択優先度：,Prior. de seleção:,pt-BR
+選擇優先順序：,Prior. de seleção:,pt-BR
+重置并加载,Redefinir e carregar,pt-BR
+重設並載入,Redefinir e carregar,pt-BR
+錯誤的方塊實體類型：%s,Tipo de entidade-bloco incorreto: %s,pt-BR
+错误的方块实体类型：%s,Tipo de entidade-bloco incorreto: %s,pt-BR
+開始,Iniciar,pt-BR
+開始モード - テストの起点となります,Modo de início — Ponto inicial de um teste,pt-BR
+関数：%s,Função: %s,pt-BR
+類型為 %2$s 的實體應有 %1$s 個，但實際為 %3$s 個,"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",pt-BR
+類型為 %2$s 的物品應有 %1$s 個，但實際為 %3$s 個,"Esperavam-se %s itens do tipo %s, encontrou-se %s",pt-BR
+類型：%s,Tipo: %s,pt-BR
+顯示定界框：,Mostrar bordas:,pt-BR
+顯示隱形方塊：,Mostrar blocos invisíveis:,pt-BR
+감지,DETECTAR,pt-BR
+"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다","Esperavam-se os dados da entidade: %s, foram: %s",pt-BR
+개체 보관함이 %s을(를) 포함해아 합니다,O inventário da entidade deve conter %s,pt-BR
+개체 포함:,Incluir entidades:,pt-BR
+개체:,Entidades:,pt-BR
+개체가 %s을(를) 들고 있어야 합니다,A entidade deve segurar: %s,pt-BR
+결합 유형:,Tipo de ligação:,pt-BR
+경계 상자 표시:,Mostrar bordas:,pt-BR
+고정,Fixa,pt-BR
+구조물 '%s'의 위치가 준비되었습니다,"Posição da estrutura ""%s"" preparada",pt-BR
+구조물 설치 전에 테스트를 틱하려 했습니다,Teste em tiques antes de colocar a estrutura,pt-BR
+구조물 시드,Semente da estrutura,pt-BR
+구조물 온전도,Integridade da estrutura,pt-BR
+구조물 온전도 및 시드,Integridade e semente da estrutura,pt-BR
+구조물 이름,Nome da estrutura,pt-BR
+구조물 저장,Salvar estrutura,pt-BR
+구조물 크기,Tamanho da estrutura,pt-BR
+구조물 크기 x,tamanho x da estrutura,pt-BR
+구조물 크기 y,tamanho y da estrutura,pt-BR
+구조물 크기 z,tamanho z da estrutura,pt-BR
+구조물 크기 및 위치 감지:,Detectar posição e tamanho da estrutura:,pt-BR
+구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,pt-BR
+구조물: %s,Estrutura: %s,pt-BR
+구조물을 '%s'(으)로 저장할 수 없습니다,"Não foi possível salvar a estrutura ""%s""",pt-BR
+구조물을 '%s'에서 불러왔습니다,"Estrutura carregada de ""%s""",pt-BR
+구조물이 '%s'(으)로 저장되었습니다,"Estrutura salva como ""%s""",pt-BR
+기록,Registrar,pt-BR
+기록 모드 - 메시지를 기록합니다,Modo de registro — Registrar uma mensagem,pt-BR
+내장 함수 테스트,Teste de função integrada,pt-BR
+다음으로 변화:,Torna-se:,pt-BR
+대상 이름:,Nome do alvo:,pt-BR
+대상 풀:,Conjunto-alvo:,pt-BR
+데이터,Dados,pt-BR
+데이터 모드 - 게임 논리 표지,Modo de dados — Marcador lógico do jogo,pt-BR
+데이터: %s,Dados: %s,pt-BR
+레벨: %s,Níveis: %s,pt-BR
+메시지:,Mensagem:,pt-BR
+모서리,Canto,pt-BR
+모서리 모드 - 설치 및 크기 표지,Modo de canto — Marcador de posição e tamanho,pt-BR
+모서리: %s,Cantos: %s,pt-BR
+"부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.","Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.",pt-BR
+불러오고 실행,Carregar e executar,pt-BR
+불러오기,CARREGAR,pt-BR
+불러오기,Carregar,pt-BR
+불러오기 모드 - 파일에서 불러오기,Modo de carregamento — Carregar do arquivo,pt-BR
+불러오기: %s,Carregar: %s,pt-BR
+블록 %s이(가) 존재해야 합니다,Esperava-se a presença do bloco %s,pt-BR
+블록 개체가 누락되었습니다,Entidade-bloco ausente,pt-BR
+블록 기반 테스트,Teste baseado em blocos,pt-BR
+블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,pt-BR
+사용자 지정 데이터 태그 이름,Nome da marcação de dados personalizados,pt-BR
+상대 위치 x,posição x relativa,pt-BR
+상대 위치 y,posição y relativa,pt-BR
+상대 위치 z,posição z relativa,pt-BR
+상대적 위치,Posição relativa,pt-BR
+생성,Gerar,pt-BR
+선택 우선도:,Prior. de seleção:,pt-BR
+설치 우선도:,Prior. de posição:,pt-BR
+시작,Iniciar,pt-BR
+시작 모드 - 테스트의 시작 지점입니다,Modo de início — Ponto inicial de um teste,pt-BR
+시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,O teste acabou antes de completar a sequência,pt-BR
+실패,Falhar,pt-BR
+실패 모드 - 테스트를 실패시킵니다,Modo de falha — Falhar o teste,pt-BR
+실패 조건을 충족했습니다,Condições de falha atendidas,pt-BR
+실패: %s,Falhou: %s,pt-BR
+알 수 없는 내부 오류: %s,Erro interno desconhecido: %s,pt-BR
+엄격한 설치:,Posicionamento exato:,pt-BR
+예기치 않은 블록 유형입니다: %s,Tipo de bloco inesperado encontrado: %s,pt-BR
+예상된 %s보다 빨리 성공했습니다,Concluído antes do tique esperado: esperava-se %s,pt-BR
+용기가 다음을 포함해야 합니다: %s,O recipiente deve conter: %s,pt-BR
+용기가 다음을 하나 포함해야 합니다: %s,O recipiente deve conter um único: %s,pt-BR
+용기가 비어 있어야 합니다,O recipiente deve estar vazio,pt-BR
+유형: %s,Tipo: %s,pt-BR
+"이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.","Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.",pt-BR
+이름:,Nome:,pt-BR
+인정,Aceitar,pt-BR
+인정 모드 - 테스트 (일부)의 성공을 인정합니다,Modo de aceite — Aceitar o sucesso de (parte de) um teste,pt-BR
+잘못된 블록 개체 유형입니다: %s,Tipo de entidade-bloco incorreto: %s,pt-BR
+"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다","Estado incorreto. Esperava-se %s, foi %s",pt-BR
+잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,Tempo limite inválido (%s) — Deve conter um número positivo de tiques,pt-BR
+잘못된 테스트 ID입니다,ID do teste inválido,pt-BR
+저장,SALVAR,pt-BR
+저장,Salvar,pt-BR
+저장 모드 - 파일에 쓰기,Modo de salvamento — Salvar no arquivo,pt-BR
+저장: %s,Salvar: %s,pt-BR
+"정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다","Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido",pt-BR
+조건이 %s에 이미 발동했습니다,Condição já acionada em %s,pt-BR
+조건이 발동하지 않았습니다,Condição não acionada,pt-BR
+주어진 블록은 블록 아이템이 아닙니다,O bloco especificado não é um item-bloco.,pt-BR
+직소 유지,Mantê-los,pt-BR
+차원: %s,Dimensão: %s,pt-BR
+초기화하고 불러오기,Redefinir e carregar,pt-BR
+테스트 %s을(를) 시작합니다,Iniciando o teste %s,pt-BR
+테스트 %s을(를) 초기화하는 데 성공했습니다,Redefinição concluída para o teste: %s,pt-BR
+테스트 구조물 크기,Tamanho da estrutura do teste,pt-BR
+테스트 구조물에 %s 블록이 없습니다,Estrutura de teste com o bloco ausente: %s,pt-BR
+"테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다","Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste",pt-BR
+테스트 안에 %s이(가) 있어야 합니다,Esperava-se que %s existisse no teste,pt-BR
+테스트 인스턴스 ID,ID de instância do teste,pt-BR
+"테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]","Coordenadas de teste: [%s, %s, %s] em %s",pt-BR
+테스트를 위해 생물 군계를 설정하는 데 실패했습니다,Falha ao definir o bioma para teste,pt-BR
+투명 블록 표시:,Mostrar blocos invisíveis:,pt-BR
+"플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]","Coordenadas do jogador: [%s, %s, %s] em %s",pt-BR
+함수: %s,Função: %s,pt-BR
+해당하는 테스트 없음,Nenhum teste,pt-BR
+환경: %s,Ambiente: %s,pt-BR
+회전 가능,Rotativa,pt-BR
+회전:,Rotação:,pt-BR

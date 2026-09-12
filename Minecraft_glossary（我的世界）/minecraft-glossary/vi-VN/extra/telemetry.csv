@@ -1,0 +1,998 @@
+﻿source,target,tgt_lng
+%s (erforderlich),%s (Bắt buộc),vi-VN
+%s (facoltativo),%s (Không bắt buộc),vi-VN
+%s (facoltativo) — disattivato,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (facultatif),%s (Không bắt buộc),vi-VN
+%s (facultatif) - désactivé,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (Gerekli),%s (Bắt buộc),vi-VN
+%s (İsteğe Bağlı),%s (Không bắt buộc),vi-VN
+%s (İsteğe Bağlı) - Devre Dışı,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (necesario),%s (Bắt buộc),vi-VN
+%s (necessario),%s (Bắt buộc),vi-VN
+%s (obrigatório),%s (Bắt buộc),vi-VN
+%s (opcional),%s (Không bắt buộc),vi-VN
+%s (opcional) — Não,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (opcional): Desactivado,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (Optional),%s (Không bắt buộc),vi-VN
+%s (optional),%s (Không bắt buộc),vi-VN
+%s (Optional) - Disabled,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (optional) – Deaktiviert,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (Required),%s (Bắt buộc),vi-VN
+%s (requis),%s (Bắt buộc),vi-VN
+%s (необязательно),%s (Không bắt buộc),vi-VN
+%s (необязательно) — Отключено,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (обязательно),%s (Bắt buộc),vi-VN
+%s (จำเป็น),%s (Bắt buộc),vi-VN
+%s (ไม่จำเป็น),%s (Không bắt buộc),vi-VN
+%s (ไม่จำเป็น) - ปิดการใช้งาน,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (선택적),%s (Không bắt buộc),vi-VN
+%s (선택적) - 꺼짐,%s (không bắt buộc) - Đã tắt,vi-VN
+%s (필수),%s (Bắt buộc),vi-VN
+%s（任意）,%s (Không bắt buộc),vi-VN
+%s（任意） - 無効,%s (không bắt buộc) - Đã tắt,vi-VN
+%s（可选）,%s (Không bắt buộc),vi-VN
+%s（可选，已禁用）,%s (không bắt buộc) - Đã tắt,vi-VN
+%s（可選 – 已停用）,%s (không bắt buộc) - Đã tắt,vi-VN
+%s（可選）,%s (Không bắt buộc),vi-VN
+%s（必要）,%s (Bắt buộc),vi-VN
+%s（必須）,%s (Bắt buộc),vi-VN
+Acconsento all'invio di dati di telemetria facoltativi,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+Aceito o envio de telemetria opcional,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+Advancement ID,ID tiến trình,vi-VN
+Advancement Made,Tiến trình đã làm,vi-VN
+Alcance visual,Khoảng cách kết xuất,vi-VN
+Amostras de taxa de quadros (FPS),Mẫu tốc độ khung hình (FPS),vi-VN
+Amostras do tempo de renderização,Mẫu thời gian kết xuất,vi-VN
+"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+Anzahl der Datenwerte,Số lượng mẫu,vi-VN
+Arka Uç Adı,Tên Backend,vi-VN
+Arka Uç Oluşturma Hatası Eksik Özellikler,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+Arka Uç Oluşturma Hatası Mesajı,Thông tin lỗi tạo Backend,vi-VN
+Arka Uç Oluşturma Hatası Nedeni,Lý do lỗi tạo Backend,vi-VN
+Ayrılmış Bellek (kB),Bộ nhớ chuyên dụng (kB),vi-VN
+Backend Creation Failure Message,Thông tin lỗi tạo Backend,vi-VN
+Backend Creation Failure Missing Capabilities,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+Backend Creation Failure Reason,Lý do lỗi tạo Backend,vi-VN
+Backend Name,Tên Backend,vi-VN
+Backend‐Initialisierungsfehler: Fehlende Funktionen,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+Backend‐Initialisierungsfehler: Fehlermeldung,Thông tin lỗi tạo Backend,vi-VN
+Backend‐Initialisierungsfehler: Grund,Lý do lỗi tạo Backend,vi-VN
+Bağlantı Başarılı,Kết nối thành công,vi-VN
+Bağlantı Süresi (Milisaniye),Thời gian kết nối tín hiệu (Miligiây),vi-VN
+Başarısızlık Aşaması,Giai đoạn gây lỗi,vi-VN
+Başlatıcı Adı,Tên trình khởi động,vi-VN
+Benutzer‐ID,ID người dùng,vi-VN
+Betriebssystem,Hệ điều hành,vi-VN
+"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.","Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+Bootstrap Time (Milliseconds),Thời gian khởi tạo trò chơi (miligiây),vi-VN
+Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+"Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+"Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+Caminho do Interactive Connectivity Establishment (ICE),Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+Campioni del tempo di elaborazione grafica,Mẫu thời gian kết xuất,vi-VN
+Campioni di frequenza dei fotogrammi [fps],Mẫu tốc độ khung hình (FPS),vi-VN
+Capacidades gráficas,Tương thích đồ họa,vi-VN
+Capacités graphiques,Tương thích đồ họa,vi-VN
+Capacités manquantes lors de l'échec de la création du backend,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+Capire il contesto relativo al compimento di un progresso può aiutarci a comprendere meglio e a perfezionare la sequenza di gioco.,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+"Cet événement est associé à l'événement ""Monde chargé"" pour calculer la durée de la session de jeu.
+La durée (en secondes et en ticks) est mesurée lorsqu'une session de jeu est terminée (en retournant au menu principal ou en se déconnectant d'un serveur).","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+"Cet événement nous aide à évaluer la fiabilité et les performances des connexions pair à pair entre les joueurs. Il enregistre la réussite ou l'échec de la connexion, le type de candidat utilisé pour l'établissement de connectivité interactive (ICE, le protocole que nous utilisons pour établir les connexions pair à pair) ainsi que le temps nécessaire pour établir la connexion.","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+Cet événement nous informe des capacités du périphérique graphique utilisé pour jouer au jeu.,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+Cet événement peut nous aider à déterminer où des améliorations des performances au démarrage sont nécessaires en mesurant les temps d'exécution des phases.,Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+Chemin de l'établissement de connectivité interactive (ICE),Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+Client ID,ID máy khách,vi-VN
+Client Modded,Máy khách đã sửa đổi,vi-VN
+Client moddé ?,Máy khách đã sửa đổi,vi-VN
+Client modifiziert,Máy khách đã sửa đổi,vi-VN
+Cliente modificado,Máy khách đã sửa đổi,vi-VN
+Client‐ID,ID máy khách,vi-VN
+Coleta de dados telemétricos,Thu thập dữ liệu đo từ xa,vi-VN
+"Coletar esses dados nos ajuda a melhorar o Minecraft, guiando nosso trabalho em direções relevantes para os jogadores.
+Você também pode enviar seu feedback para nos ajudar a melhorar o Minecraft.","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+Collecte des données de télémétrie,Thu thập dữ liệu đo từ xa,vi-VN
+"Collecter ces données nous aide à améliorer Minecraft en nous guidant dans des directions qui sont pertinentes pour nos joueurs.
+Vous pouvez aussi donner votre avis pour nous aider à améliorer le jeu.","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+"Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.
+You can also send in additional feedback to help us keep improving Minecraft.","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+Compartir datos,Chọn tham gia,vi-VN
+Comprender el contexto en el que se realiza un progreso nos ayudará a entender y mejorar la progresión del juego.,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+Comprendre le contexte derrière la réalisation d'un progrès peut nous aider à améliorer la progression du jeu.,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+Conectado con éxito,Kết nối thành công,vi-VN
+Conexión P2P,Kết nối ngang hàng,vi-VN
+Conexão estabelecida,Kết nối thành công,vi-VN
+Conexão ponto a ponto,Kết nối ngang hàng,vi-VN
+"Conhecer o perfil geral de desempenho do Minecraft nos ajuda a otimizar o jogo para uma ampla variedade de dispositivos e sistemas operacionais. 
+A versão do jogo é incluída para nos ajudar a comparar o desempenho das novas versões do Minecraft.","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+Connection Successful,Kết nối thành công,vi-VN
+Connessione a rete paritaria,Kết nối ngang hàng,vi-VN
+Connexion pair à pair,Kết nối ngang hàng,vi-VN
+Connexion réussie,Kết nối thành công,vi-VN
+"Conocer el perfil de rendimiento de Minecraft nos ayuda a optimizar el juego para muchas especificaciones y sistemas operativos. 
+La versión del juego se incluye para ayudarnos a comparar el rendimiento de nuevas versiones.","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+"Conoscere il profilo delle prestazioni di Minecraft ci aiuta ad adattare e a ottimizzare il gioco per un'ampia gamma di dispositivi e sistemi operativi.
+La versione del gioco è inclusa per aiutarci a effettuare il confronto con il profilo delle prestazioni delle nuove versioni di Minecraft.","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+Consenso,Chọn tham gia,vi-VN
+Consentement,Chọn tham gia,vi-VN
+Contagem de amostras,Số lượng mẫu,vi-VN
+Contenido del mapa de Realms (nombre del minijuego),Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Contenu de la carte de Realms (nom du mini-jeu),Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Conteúdo do mapa do Realms (nome do minijogo),Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Dados incluídos,Dữ liệu được bao gồm,vi-VN
+Danos tu opinión,Gửi phản hồi,vi-VN
+Datenschutzerklärung,Tuyên bố về quyền riêng tư,vi-VN
+Datenwerte zur Bildwiederholrate (FPS),Mẫu tốc độ khung hình (FPS),vi-VN
+Datenwerte zur Renderzeit,Mẫu thời gian kết xuất,vi-VN
+Dati inclusi,Dữ liệu được bao gồm,vi-VN
+Datos incluidos,Dữ liệu được bao gồm,vi-VN
+Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+Declaración de privacidad,Tuyên bố về quyền riêng tư,vi-VN
+Declaração de Privacidade,Tuyên bố về quyền riêng tư,vi-VN
+Dedicated Memory (kB),Bộ nhớ chuyên dụng (kB),vi-VN
+"Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+"Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+"Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+Direktverbindung,Kết nối ngang hàng,vi-VN
+Distance d'affichage,Khoảng cách kết xuất,vi-VN
+Distancia de renderizado,Khoảng cách kết xuất,vi-VN
+Donner son avis,Gửi phản hồi,vi-VN
+Données incluses,Dữ liệu được bao gồm,vi-VN
+Déclaration de confidentialité,Tuyên bố về quyền riêng tư,vi-VN
+Dünya Oturum Kimliği,ID phiên thế giới,vi-VN
+Dünya Yükleme Süresi (Milisaniye),Thời gian nạp thế giới (Miligiây),vi-VN
+Dünya Yüklendi,Thế giới đã nạp,vi-VN
+Dünya Yüklenme Süreleri,Thời gian nạp thế giới,vi-VN
+Dünyadan Çıkıldı,Thế giới chưa nạp,vi-VN
+"En apprendre davantage sur la manière dont les joueurs jouent à Minecraft (avec quel mode de jeu, si le client ou le serveur est moddé, sous quelle version) nous aide à améliorer les aspects qui ont le plus d'importance pour les joueurs.
+L'événement ""Monde chargé"" est associé à l'événement ""Monde déchargé"" pour calculer la durée de la session de jeu.","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+"En apprendre davantage sur le profil global des performances de Minecraft nous aide à ajuster et optimiser le jeu pour un large éventail d'appareils et de systèmes d'exploitation. 
+La version du jeu est incluse pour nous aider à comparer le profil des performances des nouvelles versions de Minecraft.","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+Entender o contexto de um progresso pode nos ajudar a entender e melhorar a progressão do jogo.,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+Enthaltene Daten,Dữ liệu được bao gồm,vi-VN
+Enviar feedback,Gửi phản hồi,vi-VN
+Erforderliches/optionales Ereignis,Chọn tham gia,vi-VN
+Erro ao criar o backend por falta de capacidades,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+Error en la creación del backend por falta de capacidades,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+"Es importante que sepamos cuánto tiempo se tarda en entrar en un mundo y cómo cambia eso con el tiempo. Por ejemplo, cuando añadimos nuevas características o realizamos cambios técnicos grandes, necesitamos ver qué impacto tienen en los tiempos de carga.","Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.","Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+Esito della connessione positivo,Kết nối thành công,vi-VN
+"Esse evento nos ajuda a detectar a estabilidade e o desempenho das conexões ponto a ponto entre jogadores. Ele registra se a conexão foi estabelecida com êxito, o tipo de candidato usado (também conhecido por Interactive Connectivity Establishment, ou ICE, protocolo usado para estabelecer conexões ponto a ponto) e a duração para estabelecer a conexão.","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+Esse evento nos informa sobre as capacidades do dispositivo gráfico usado durante o jogo.,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+Esse evento pode nos ajudar a identificar as melhorias de desempenho de inicialização necessárias ao medir os tempos de execução das fases de inicialização.,Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+"Esse evento é sincronizado com o ""Mundo Carregado"" para calcular a duração da sessão de jogo.
+A duração (em segundos e tiques) é medida no final de uma sessão (ao sair para o menu principal ou de um servidor).","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+"Este evento está unido al de «Mundo cargado» para calcular cuánto ha durado la sesión de juego.
+La duración (en segundos y tics) se mide cuando una sesión de juego termina (saliendo al menú principal, desconectándose de un servidor).","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+"Este evento nos ayuda a comprender la fiabilidad y el rendimiento de las conexiones P2P entre jugadores. Registra si la conexión fue exitosa, el tipo de conectividad interactiva (ICE, el protocolo que usamos para establecer conexiones P2P) que pudo utilizarse y cuánto tiempo tardó en establecerse la conexión.","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+Este evento nos informa sobre las capacidades del dispositivo gráfico utilizado para jugar.,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+"Este evento puede ayudarnos a determinar donde se necesitan las mejoras de rendimiento, midiendo los tiempos de ejecución de las diferentes fases de arranque.",Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+Event Timestamp (UTC),Dấu thời gian sự kiện (giờ UTC),vi-VN
+Externer Kandidatentyp,Loại ứng viên từ xa,vi-VN
+Failure Stage,Giai đoạn gây lỗi,vi-VN
+Fase de fallo,Giai đoạn gây lỗi,vi-VN
+Fase dell'errore,Giai đoạn gây lỗi,vi-VN
+Fase do erro,Giai đoạn gây lỗi,vi-VN
+Feedback geben,Gửi phản hồi,vi-VN
+Fehlerphase,Giai đoạn gây lỗi,vi-VN
+Fortschritt erzielt,Tiến trình đã làm,vi-VN
+Fortschritts‐ID,ID tiến trình,vi-VN
+Frame Rate Samples (fps),Mẫu tốc độ khung hình (FPS),vi-VN
+Funzionalità grafiche,Tương thích đồ họa,vi-VN
+Funzionalità mancanti alla creazione della libreria,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+Game Load Times,Thời gian nạp trò chơi,vi-VN
+Game Mode,Chế độ chơi,vi-VN
+Game Time (Ticks),Thời gian trong trò chơi (nhịp),vi-VN
+Game Version,Phiên bản trò chơi,vi-VN
+Gelişim Kimliği,ID tiến trình,vi-VN
+Gelişim Yapıldı,Tiến trình đã làm,vi-VN
+Geri Bildirim,Gửi phản hồi,vi-VN
+Gesamte Ladezeit (Millisekunden),Tổng thời gian nạp (Miligiây),vi-VN
+Gesamte Verbindungszeit (Millisekunden),Tổng thời gian kết nối (Miligiây),vi-VN
+Give Feedback,Gửi phản hồi,vi-VN
+Gizlilik Beyanı,Tuyên bố về quyền riêng tư,vi-VN
+Grafik Özellikleri,Tương thích đồ họa,vi-VN
+Grafikfunktionen,Tương thích đồ họa,vi-VN
+Graphics Capabilities,Tương thích đồ họa,vi-VN
+Görüntü Oluşturma Zamanları,Mẫu thời gian kết xuất,vi-VN
+Görüş Mesafesi,Khoảng cách kết xuất,vi-VN
+Hora del evento (UTC),Dấu thời gian sự kiện (giờ UTC),vi-VN
+Hora do evento (UTC),Dấu thời gian sự kiện (giờ UTC),vi-VN
+Horodatage de l'événement (UTC),Dấu thời gian sự kiện (giờ UTC),vi-VN
+I consent to sending optional telemetry data,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+Ich stimme der Übermittlung optionaler Telemetriedaten zu,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+ID da sessão do Minecraft,ID phiên Minecraft,vi-VN
+ID da sessão do mundo,ID phiên thế giới,vi-VN
+ID da sessão do servidor,ID phiên máy chủ,vi-VN
+ID de l'utilisateur,ID người dùng,vi-VN
+ID de la session de Minecraft,ID phiên Minecraft,vi-VN
+ID de la session du monde,ID phiên thế giới,vi-VN
+ID de la session du serveur,ID phiên máy chủ,vi-VN
+ID del client,ID máy khách,vi-VN
+ID del progresso,ID tiến trình,vi-VN
+ID dell'utente,ID người dùng,vi-VN
+ID della sessione del mondo,ID phiên thế giới,vi-VN
+ID della sessione del server,ID phiên máy chủ,vi-VN
+ID della sessione di Minecraft,ID phiên Minecraft,vi-VN
+ID do cliente,ID máy khách,vi-VN
+ID do progresso,ID tiến trình,vi-VN
+ID do usuário,ID người dùng,vi-VN
+ID du client,ID máy khách,vi-VN
+ID du progrès,ID tiến trình,vi-VN
+ID ความก้าวหน้า,ID tiến trình,vi-VN
+ID ผู้ใช้,ID người dùng,vi-VN
+ID เซสชัน Minecraft,ID phiên Minecraft,vi-VN
+ID เซสชันเซิร์ฟเวอร์,ID phiên máy chủ,vi-VN
+ID เซสชันโลก,ID phiên thế giới,vi-VN
+ID ไคลเอนต์,ID máy khách,vi-VN
+Id. de cliente,ID máy khách,vi-VN
+Id. de sesión de Minecraft,ID phiên Minecraft,vi-VN
+Id. de sesión del mundo,ID phiên thế giới,vi-VN
+Id. de sesión del servidor,ID phiên máy chủ,vi-VN
+Id. de usuario,ID người dùng,vi-VN
+Id. del progreso,ID tiến trình,vi-VN
+"Il est important pour nous de déterminer le temps nécessaire pour rejoindre un monde, et la manière dont cela évolue au fil du temps. Par exemple, lorsque nous ajoutons de nouvelles fonctionnalités ou réalisons d'importants changements techniques, nous avons besoin d'en observer l'impact sur les temps de chargement.","Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+Included Data,Dữ liệu được bao gồm,vi-VN
+Info sulla riservatezza,Tuyên bố về quyền riêng tư,vi-VN
+Initialisierungszeit (Millisekunden),Thời gian khởi tạo trò chơi (miligiây),vi-VN
+Interactive Connectivity Establishment (ICE) Connect Time (Milliseconds),Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+Interactive Connectivity Establishment (ICE) Path,Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+Interactive Connectivity Establishment（ICE）パス,Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+Interner Kandidatentyp,Loại ứng viên cục bộ,vi-VN
+Invia riscontro,Gửi phản hồi,vi-VN
+"It's important for us to understand how long it takes to join a world, and how that changes over time. For example, when we add new features or do larger technical changes, we need to see what impact that had on load times.","Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+İstemci Kimliği,ID máy khách,vi-VN
+İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+İçerilen Veri,Dữ liệu được bao gồm,vi-VN
+İşletim Sistemi,Hệ điều hành,vi-VN
+J'accepte l'envoi de données de télémétrie facultatives,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+Kare Hızı Örnekleri (fps),Mẫu tốc độ khung hình (FPS),vi-VN
+Katıl,Chọn tham gia,vi-VN
+"Knowing how players play Minecraft (such as Game Mode, client or server modded, and game version) allows us to focus game updates to improve the areas that players care about most.
+The World Loaded event is paired with the World Unloaded event to calculate how long the play session has lasted.","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+"Knowing the overall performance profile of Minecraft helps us tune and optimize the game for a wide range of machine specifications and operating systems.
+Game version is included to help us compare the performance profile for new versions of Minecraft.","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+Kullanıcı Kimliği,ID người dùng,vi-VN
+Kullanılan Bellek (RAM),Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+"La raccolta di questi dati ci aiuta a migliorare Minecraft, indicandoci le decisioni più opportune per i giocatori. Inoltre, puoi inviare un riscontro aggiuntivo per aiutarci a migliorare Minecraft ulteriormente.","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+"La recolección de datos nos ayuda a mejorar Minecraft guiándonos hacia direcciones que sean relevantes para nuestros jugadores.
+También puedes enviar sugerencias para ayudarnos a seguir mejorando Minecraft.","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+Launcher Name,Tên trình khởi động,vi-VN
+Launcher‐Name,Tên trình khởi động,vi-VN
+Leistungsmetriken,Số liệu hiệu suất,vi-VN
+Local Candidate Type,Loại ứng viên cục bộ,vi-VN
+Medición del rendimiento,Số liệu hiệu suất,vi-VN
+Meine Daten einsehen,Xem dữ liệu của tôi,vi-VN
+Memoria de acceso aleatorio usada (RAM),Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+Memoria dedicada (kB),Bộ nhớ chuyên dụng (kB),vi-VN
+Memoria dedicata [kB],Bộ nhớ chuyên dụng (kB),vi-VN
+Memória dedicada (kB),Bộ nhớ chuyên dụng (kB),vi-VN
+Memória RAM usada,Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+Mensagem de erro ao criar o backend,Thông tin lỗi tạo Backend,vi-VN
+Mensaje de error en la creación del backend,Thông tin lỗi tạo Backend,vi-VN
+Message d'échec de la création du backend,Thông tin lỗi tạo Backend,vi-VN
+Messaggio dell'errore nella creazione della libreria,Thông tin lỗi tạo Backend,vi-VN
+Mesures de performances,Số liệu hiệu suất,vi-VN
+Metriche di prestazione,Số liệu hiệu suất,vi-VN
+Minecraft Oturum Kimliği,ID phiên Minecraft,vi-VN
+Minecraft Session ID,ID phiên Minecraft,vi-VN
+Minecraft 세션 ID,ID phiên Minecraft,vi-VN
+Minecraft‐Sitzungs‐ID,ID phiên Minecraft,vi-VN
+"Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+MinecraftのセッションID,ID phiên Minecraft,vi-VN
+Minecraft会话ID,ID phiên Minecraft,vi-VN
+"Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+"Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+"Misurando il tempo necessario a eseguire le fasi di avvio, quest'evento può aiutarci a capire dove c'è bisogno di migliorie.",Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+Modalità di gioco,Chế độ chơi,vi-VN
+Mode de jeu,Chế độ chơi,vi-VN
+Modifiche del client,Máy khách đã sửa đổi,vi-VN
+Modifiche del server,Máy chủ đã sửa đổi,vi-VN
+Modlanmış İstemci,Máy khách đã sửa đổi,vi-VN
+Modlanmış Sunucu,Máy chủ đã sửa đổi,vi-VN
+Modo de jogo,Chế độ chơi,vi-VN
+Modo de juego,Chế độ chơi,vi-VN
+Modが導入されたクライアント,Máy khách đã sửa đổi,vi-VN
+Modが導入されたサーバー,Máy chủ đã sửa đổi,vi-VN
+Monde chargé,Thế giới đã nạp,vi-VN
+Monde déchargé,Thế giới chưa nạp,vi-VN
+Mondo caricato,Thế giới đã nạp,vi-VN
+Mondo scaricato,Thế giới chưa nạp,vi-VN
+Mostra i miei dati,Xem dữ liệu của tôi,vi-VN
+Motivo de error en la creación del backend,Lý do lỗi tạo Backend,vi-VN
+Motivo dell'errore nella creazione della libreria,Lý do lỗi tạo Backend,vi-VN
+Motivo do erro ao criar o backend,Lý do lỗi tạo Backend,vi-VN
+Muestras de fotogramas por segundo (FPS),Mẫu tốc độ khung hình (FPS),vi-VN
+Muestras de tiempo de renderizado,Mẫu thời gian kết xuất,vi-VN
+Mundo cargado,Thế giới đã nạp,vi-VN
+Mundo Carregado,Thế giới đã nạp,vi-VN
+Mundo descargado,Thế giới chưa nạp,vi-VN
+Mundo Descarregado,Thế giới chưa nạp,vi-VN
+Mundo nuevo,Thế giới mới,vi-VN
+Mémoire dédiée (Ko),Bộ nhớ chuyên dụng (kB),vi-VN
+Mémoire vive utilisée (RAM),Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+Métricas de desempenho,Số liệu hiệu suất,vi-VN
+Name der Schnittstelle,Tên Backend,vi-VN
+Neue Welt,Thế giới mới,vi-VN
+New World,Thế giới mới,vi-VN
+Nom du backend,Tên Backend,vi-VN
+Nom du Launcher,Tên trình khởi động,vi-VN
+Nombre d'échantillons,Số lượng mẫu,vi-VN
+Nombre del backend,Tên Backend,vi-VN
+Nombre del lanzador,Tên trình khởi động,vi-VN
+Nome del launcher,Tên trình khởi động,vi-VN
+Nome del minigioco o contenuto di Realms,Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Nome della libreria grafica,Tên Backend,vi-VN
+Nome do backend,Tên Backend,vi-VN
+Nome do launcher,Tên trình khởi động,vi-VN
+Nouveau monde ?,Thế giới mới,vi-VN
+Novo mundo,Thế giới mới,vi-VN
+Numero di campioni,Số lượng mẫu,vi-VN
+Nuovo mondo,Thế giới mới,vi-VN
+Número de muestras,Số lượng mẫu,vi-VN
+Olay Tarih Bilgisi (UTC),Dấu thời gian sự kiện (giờ UTC),vi-VN
+Operating System,Hệ điều hành,vi-VN
+Opt-In,Chọn tham gia,vi-VN
+Orario dell'evento [UTC],Dấu thời gian sự kiện (giờ UTC),vi-VN
+Oyun Modu,Chế độ chơi,vi-VN
+Oyun Süresi (Birim Zaman),Thời gian trong trò chơi (nhịp),vi-VN
+Oyun Sürümü,Phiên bản trò chơi,vi-VN
+Oyun Yükleme Süreleri,Thời gian nạp trò chơi,vi-VN
+"Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+P2P 連線,Kết nối ngang hàng,vi-VN
+P2P接続,Kết nối ngang hàng,vi-VN
+Participação,Chọn tham gia,vi-VN
+Peer-to-peer Bağlantı,Kết nối ngang hàng,vi-VN
+Peer-to-peer Connection,Kết nối ngang hàng,vi-VN
+Pencere Açılmadan Önceki Süre (Milisaniye),Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+"Per noi è importante capire il tempo necessario per entrare in un mondo e come questo dato può cambiare. Ad esempio, quando aggiungiamo nuove funzionalità o apportiamo modifiche tecniche significative, ci serve sapere in che modo ciò incide sui tempi di caricamento.","Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+Percorso dello stabilimento di connettività interattiva (SCI),Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+Performance Metrics,Số liệu hiệu suất,vi-VN
+Performans Ölçümleri,Số liệu hiệu suất,vi-VN
+Permito enviar mis datos de telemetría opcionales,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+Phase de l'échec,Giai đoạn gây lỗi,vi-VN
+Piattaforma,Nền tảng,vi-VN
+Plataforma,Nền tảng,vi-VN
+Plateforme,Nền tảng,vi-VN
+Platform,Nền tảng,vi-VN
+Plattform,Nền tảng,vi-VN
+Privacy Statement,Tuyên bố về quyền riêng tư,vi-VN
+Progreso realizado,Tiến trình đã làm,vi-VN
+Progresso compiuto,Tiến trình đã làm,vi-VN
+Progressos feitos,Tiến trình đã làm,vi-VN
+Progrès réalisés,Tiến trình đã làm,vi-VN
+"Quest'evento viene usato insieme a «Mondo caricato» per calcolare la durata della sessione del mondo. La durata (in secondi e in tick) viene misurata al termine della sessione di un mondo, cioè quando si torna al menù principale o ci si disconnette da un server.","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+"Questo evento ci aiuta a capire l'affidabilità e le prestazioni delle connessioni a rete paritaria tra giocatori. Registra l'esito della connessione, il tipo di candidato usato per lo stabilimento di connettività interattiva (SCI, o ICE in inglese, il protocollo che usiamo per le connessioni a rete paritaria) e il tempo richiesto per stabilire la connessione.","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+Questo evento ci comunica le capacità del dispositivo grafico in uso durante la partita.,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+Raccolta dei dati di telemetria,Thu thập dữ liệu đo từ xa,vi-VN
+Raison de l'échec de la création du backend,Lý do lỗi tạo Backend,vi-VN
+RAM ที่ใช้,Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+Realms Harita İçeriği (Mini Oyun Adı),Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Realms Map Content (Minigame Name),Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Realms 地圖內容（小遊戲名稱）,Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Realms 맵 콘텐츠 (미니게임 이름),Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Realms‐Weltinhalt (Name des Minispiels),Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Realmsのマップコンテンツ（ミニゲームの名前）,Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Realm地图内容（小游戏名称）,Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Recolección de datos de telemetría,Thu thập dữ liệu đo từ xa,vi-VN
+Remote Candidate Type,Loại ứng viên từ xa,vi-VN
+Render Distance,Khoảng cách kết xuất,vi-VN
+Render Time Samples,Mẫu thời gian kết xuất,vi-VN
+Route des interaktiven Verbindungsaufbaus (ICE),Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+Ruta de tipo de conectividad interactiva (ICE),Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+"Saber como os jogadores jogam Minecraft (como o modo de jogo, modificações de cliente ou servidor e a versão do jogo) nos permite melhorar as áreas mais interessantes aos jogadores.
+O evento Mundo Carregado é sincronizado com o Mundo Descarregado para calcular a duração da sessão de jogo.","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+"Saber cómo juegan los jugadores a Minecraft (qué modo de juego, cliente o servidor modificado y versión del juego usan) nos ayuda a mejorar los aspectos que más le importan a los jugadores.
+El evento «Mundo cargado» está unido al de «Mundo descargado» para calcular cuánto ha durado la sesión de juego.","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+Sample Count,Số lượng mẫu,vi-VN
+Sapere come i giocatori giocano a Minecraft (per esempio la modalità e la versione di gioco o client e server modificati) ci consente di focalizzare gli aggiornamenti del gioco al fine di migliorare le aree a cui i giocatori tengono di più. L'evento «Mondo caricato» è usato insieme a «Mondo scaricato» per calcolare la durata delle sessioni di gioco.,"Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+Server Modded,Máy chủ đã sửa đổi,vi-VN
+Server modifiziert,Máy chủ đã sửa đổi,vi-VN
+Server Session ID,ID phiên máy chủ,vi-VN
+Server Type,Loại máy chủ,vi-VN
+Servertyp,Loại máy chủ,vi-VN
+Server‐Sitzungs‐ID,ID phiên máy chủ,vi-VN
+Serveur moddé ?,Máy chủ đã sửa đổi,vi-VN
+Servidor modificado,Máy chủ đã sửa đổi,vi-VN
+Sichtweite,Khoảng cách kết xuất,vi-VN
+Signalaufbauzeit (Millisekunden),Thời gian kết nối tín hiệu (Miligiây),vi-VN
+Signaling Connection Time (Milliseconds),Thời gian kết nối tín hiệu (Miligiây),vi-VN
+Sistema operacional,Hệ điều hành,vi-VN
+Sistema operativo,Hệ điều hành,vi-VN
+Spielladezeiten,Thời gian nạp trò chơi,vi-VN
+Spielmodus,Chế độ chơi,vi-VN
+Spielversion,Phiên bản trò chơi,vi-VN
+Spielzeit (Ticks),Thời gian trong trò chơi (nhịp),vi-VN
+Sunucu Oturum Kimliği,ID phiên máy chủ,vi-VN
+Sunucu Türü,Loại máy chủ,vi-VN
+Système d'exploitation,Hệ điều hành,vi-VN
+Telemetrie‐Datenerhebung,Thu thập dữ liệu đo từ xa,vi-VN
+Telemetry Data Collection,Thu thập dữ liệu đo từ xa,vi-VN
+Tempi di caricamento del gioco,Thời gian nạp trò chơi,vi-VN
+Tempo antes da abertura da janela (milissegundos),Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+Tempo dal caricamento del mondo [s],Thời gian từ khi nạp (Giây),vi-VN
+Tempo dal caricamento del mondo [t],Thời gian từ khi nạp (Nhịp),vi-VN
+Tempo de carregamento de mundos,Thời gian nạp thế giới,vi-VN
+Tempo de carregamento do mundo (milissegundos),Thời gian nạp thế giới (Miligiây),vi-VN
+Tempo de carregamento total (milissegundos),Tổng thời gian nạp (Miligiây),vi-VN
+Tempo de conexão (milissegundos) do Interactive Connectivity Establishment (ICE),Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+Tempo de conexão da sinalização (milissegundos),Thời gian kết nối tín hiệu (Miligiây),vi-VN
+Tempo de conexão total (milissegundos),Tổng thời gian kết nối (Miligiây),vi-VN
+Tempo de inicialização (milissegundos),Thời gian khởi tạo trò chơi (miligiây),vi-VN
+Tempo de jogo (tiques),Thời gian trong trò chơi (nhịp),vi-VN
+Tempo desde carregamento (tiques),Thời gian từ khi nạp (Nhịp),vi-VN
+Tempo desde o carregamento (segundos),Thời gian từ khi nạp (Giây),vi-VN
+Tempo di avvio [ms],Thời gian khởi tạo trò chơi (miligiây),vi-VN
+Tempo di caricamento dei mondi,Thời gian nạp thế giới,vi-VN
+Tempo di caricamento del mondo [ms],Thời gian nạp thế giới (Miligiây),vi-VN
+Tempo di connessione dello SCI [ms],Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+Tempo di connessione di segnalamento [ms],Thời gian kết nối tín hiệu (Miligiây),vi-VN
+Tempo di gioco [t],Thời gian trong trò chơi (nhịp),vi-VN
+Tempo na tela de carregamento (milissegundos),Thời gian trong màn hình nạp (miligiây),vi-VN
+Tempo nella schermata di caricamento [ms],Thời gian trong màn hình nạp (miligiây),vi-VN
+Tempo prima dell'apertura della finestra [ms],Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+Tempo totale di caricamento [ms],Tổng thời gian nạp (Miligiây),vi-VN
+Tempo totale di connessione [ms],Tổng thời gian kết nối (Miligiây),vi-VN
+Tempos de carregamento do jogo,Thời gian nạp trò chơi,vi-VN
+Temps avant l'ouverture de la fenêtre (en millisecondes),Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+Temps de chargement des mondes,Thời gian nạp thế giới,vi-VN
+Temps de chargement du jeu,Thời gian nạp trò chơi,vi-VN
+Temps de chargement du monde (en millisecondes),Thời gian nạp thế giới (Miligiây),vi-VN
+Temps de connexion de l'établissement de connectivité interactive (ICE) (en millisecondes),Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+Temps de connexion de la signalisation (en millisecondes),Thời gian kết nối tín hiệu (Miligiây),vi-VN
+Temps de démarrage (en millisecondes),Thời gian khởi tạo trò chơi (miligiây),vi-VN
+Temps de l'écran de chargement (en millisecondes),Thời gian trong màn hình nạp (miligiây),vi-VN
+Temps depuis le chargement (en secondes),Thời gian từ khi nạp (Giây),vi-VN
+Temps depuis le chargement (en ticks),Thời gian từ khi nạp (Nhịp),vi-VN
+Temps en jeu (en ticks),Thời gian trong trò chơi (nhịp),vi-VN
+Temps total de chargement (en millisecondes),Tổng thời gian nạp (Miligiây),vi-VN
+Temps total de connexion (en millisecondes),Tổng thời gian kết nối (Miligiây),vi-VN
+This event can help us figure out where startup performance improvements are needed by measuring the execution times of the startup phases.,Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+"This event helps us understand the reliability and performance of peer-to-peer connections between players. It records whether the connection was successful, the type of Interactive Connectivity Establishment (ICE, the protocol we use to establish peer-to-peer connections) candidate used, and how long it took to establish the connection.","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+This event informs us of the capabilities of the graphics device used to play the game.,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+"This event is paired with the World Loaded event to calculate how long the world session has lasted.
+The duration (in seconds and ticks) is measured when a world session has ended (quitting to title, disconnecting from a server).","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+Tiempo antes de que la ventana se abra (milisegundos),Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+Tiempo de carga del mundo (en milisegundos),Thời gian nạp thế giới (Miligiây),vi-VN
+Tiempo de conexión de conectividad interactiva (ICE) (ms),Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+Tiempo de conexión de señalización (ms),Thời gian kết nối tín hiệu (Miligiây),vi-VN
+Tiempo de conexión total (ms),Tổng thời gian kết nối (Miligiây),vi-VN
+Tiempo de inicio (milisegundos),Thời gian khởi tạo trò chơi (miligiây),vi-VN
+Tiempo de juego (tics),Thời gian trong trò chơi (nhịp),vi-VN
+Tiempo desde que se cargó (en segundos),Thời gian từ khi nạp (Giây),vi-VN
+Tiempo desde que se cargó (en tics),Thời gian từ khi nạp (Nhịp),vi-VN
+Tiempo en pantalla de carga (milisegundos),Thời gian trong màn hình nạp (miligiây),vi-VN
+Tiempo total de carga (milisegundos),Tổng thời gian nạp (Miligiây),vi-VN
+Tiempos de carga del juego,Thời gian nạp trò chơi,vi-VN
+Tiempos de carga del mundo,Thời gian nạp thế giới,vi-VN
+Time Before Window Opens (Milliseconds),Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+Time in Loading Screen (Milliseconds),Thời gian trong màn hình nạp (miligiây),vi-VN
+Time Since Load (Seconds),Thời gian từ khi nạp (Giây),vi-VN
+Time Since Load (Ticks),Thời gian từ khi nạp (Nhịp),vi-VN
+Tipo de candidato local,Loại ứng viên cục bộ,vi-VN
+Tipo de candidato remoto,Loại ứng viên từ xa,vi-VN
+Tipo de servidor,Loại máy chủ,vi-VN
+Tipo di candidato locale,Loại ứng viên cục bộ,vi-VN
+Tipo di candidato remoto,Loại ứng viên từ xa,vi-VN
+Tipo di server,Loại máy chủ,vi-VN
+Toplam Bağlanma Süresi (Milisaniye),Tổng thời gian kết nối (Miligiây),vi-VN
+Toplam Yükleme Süresi (Milisaniye),Tổng thời gian nạp (Miligiây),vi-VN
+Total Connection Time (Milliseconds),Tổng thời gian kết nối (Miligiây),vi-VN
+Total Load Time (Milliseconds),Tổng thời gian nạp (Miligiây),vi-VN
+Type de candidat distant,Loại ứng viên từ xa,vi-VN
+Type de candidat local,Loại ứng viên cục bộ,vi-VN
+Type de serveur,Loại máy chủ,vi-VN
+Understanding the context behind receiving an advancement can help us better understand and improve the progression of the game.,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+Used Random Access Memory,Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+User ID,ID người dùng,vi-VN
+Utilizzo della memoria (RAM),Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+Uzak Aday Tipi,Loại ứng viên từ xa,vi-VN
+Ver meus dados,Xem dữ liệu của tôi,vi-VN
+Ver mis datos,Xem dữ liệu của tôi,vi-VN
+Verbindungserfolg,Kết nối thành công,vi-VN
+Verilerimi Görüntüle,Xem dữ liệu của tôi,vi-VN
+Version du jeu,Phiên bản trò chơi,vi-VN
+Versione del gioco,Phiên bản trò chơi,vi-VN
+Versión del juego,Phiên bản trò chơi,vi-VN
+Versão do jogo,Phiên bản trò chơi,vi-VN
+Verwendeter Arbeitsspeicher,Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+View My Data,Xem dữ liệu của tôi,vi-VN
+Visibilità,Khoảng cách kết xuất,vi-VN
+Voir mes données,Xem dữ liệu của tôi,vi-VN
+Welt entladen,Thế giới chưa nạp,vi-VN
+Welt geladen,Thế giới đã nạp,vi-VN
+Weltladezeit (Millisekunden),Thời gian nạp thế giới (Miligiây),vi-VN
+Weltladezeiten,Thời gian nạp thế giới,vi-VN
+Welt‐Sitzungs‐ID,ID phiên thế giới,vi-VN
+World Load Time (Milliseconds),Thời gian nạp thế giới (Miligiây),vi-VN
+World Load Times,Thời gian nạp thế giới,vi-VN
+World Loaded,Thế giới đã nạp,vi-VN
+World Session ID,ID phiên thế giới,vi-VN
+World Unloaded,Thế giới chưa nạp,vi-VN
+Yeni Dünya,Thế giới mới,vi-VN
+Yerel Aday Tipi,Loại ứng viên cục bộ,vi-VN
+Yükleme Ekranında Geçen Süre (Milisaniye),Thời gian trong màn hình nạp (miligiây),vi-VN
+Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),Thời gian từ khi nạp (Nhịp),vi-VN
+Yüklemeden Bu Yana Geçen Zaman (Saniye),Thời gian từ khi nạp (Giây),vi-VN
+Zeit im Ladebildschirm (Millisekunden),Thời gian trong màn hình nạp (miligiây),vi-VN
+Zeit seit dem Laden (Sekunden),Thời gian từ khi nạp (Giây),vi-VN
+Zeit seit dem Laden (Ticks),Thời gian từ khi nạp (Nhịp),vi-VN
+"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+Zeitpunkt des Ereignisses (koordinierte Weltzeit),Dấu thời gian sự kiện (giờ UTC),vi-VN
+"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+"Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+Zugewiesener Arbeitsspeicher (KB),Bộ nhớ chuyên dụng (kB),vi-VN
+"É importante entendermos o tempo necessário para entrar num mundo e como isso muda ao longo do tempo. Por exemplo, ao adicionar novos recursos ou fazer mudanças técnicas maiores, precisamos observar o impacto nos tempos de carregamento.","Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+Échantillons d'images par seconde (FPS),Mẫu tốc độ khung hình (FPS),vi-VN
+Échantillons du temps de rendu,Mẫu thời gian kết xuất,vi-VN
+Ölçüm Verileri Toplama,Thu thập dữ liệu đo từ xa,vi-VN
+Önyükleme Süresi (Milisaniye),Thời gian khởi tạo trò chơi (miligiây),vi-VN
+Örnek Sayısı,Số lượng mẫu,vi-VN
+"В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+Величина выборки,Số lượng mẫu,vi-VN
+Версия игры,Phiên bản trò chơi,vi-VN
+Включённые данные,Dữ liệu được bao gồm,vi-VN
+Возможности графического устройства,Tương thích đồ họa,vi-VN
+Временная метка (UTC),Dấu thời gian sự kiện (giờ UTC),vi-VN
+Время до открытия окна (миллисекунды),Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+Время загрузки игры,Thời gian nạp trò chơi,vi-VN
+Время загрузки мира,Thời gian nạp thế giới,vi-VN
+Время загрузки мира (миллисекунды),Thời gian nạp thế giới (Miligiây),vi-VN
+Время игры (такты),Thời gian trong trò chơi (nhịp),vi-VN
+Время инициализации (миллисекунды),Thời gian khởi tạo trò chơi (miligiây),vi-VN
+Время на экране загрузки (миллисекунды),Thời gian trong màn hình nạp (miligiây),vi-VN
+Время с загрузки (секунды),Thời gian từ khi nạp (Giây),vi-VN
+Время с загрузки (такты),Thời gian từ khi nạp (Nhịp),vi-VN
+Время установления интерактивного соединения (ICE) (миллисекунды),Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+Время установления соединения (миллисекунды),Thời gian kết nối tín hiệu (Miligiây),vi-VN
+Выборка времени кадра,Mẫu thời gian kết xuất,vi-VN
+Выборка частоты кадров (FPS),Mẫu tốc độ khung hình (FPS),vi-VN
+Выгрузка мира,Thế giới chưa nạp,vi-VN
+Выделенная память (Кбайт),Bộ nhớ chuyên dụng (kB),vi-VN
+Дальность прорисовки,Khoảng cách kết xuất,vi-VN
+Загрузка мира,Thế giới đã nạp,vi-VN
+Заявление о конфиденциальности,Tuyên bố về quyền riêng tư,vi-VN
+"Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+"Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+Идентификатор достижения,ID tiến trình,vi-VN
+Идентификатор клиента,ID máy khách,vi-VN
+Идентификатор пользователя,ID người dùng,vi-VN
+Идентификатор сессии Minecraft,ID phiên Minecraft,vi-VN
+Идентификатор сессии мира,ID phiên thế giới,vi-VN
+Идентификатор сессии сервера,ID phiên máy chủ,vi-VN
+Использование ОЗУ,Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+Карта Realms (название мини-игры),Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+Маршрут установления интерактивного соединения (ICE),Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+Модифицированность клиента,Máy khách đã sửa đổi,vi-VN
+Модифицированность сервера,Máy chủ đã sửa đổi,vi-VN
+Мои данные,Xem dữ liệu của tôi,vi-VN
+Название графического API,Tên Backend,vi-VN
+Название лаунчера,Tên trình khởi động,vi-VN
+"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.","Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+Новое достижение,Tiến trình đã làm,vi-VN
+Новый мир,Thế giới mới,vi-VN
+Общее время загрузки (миллисекунды),Tổng thời gian nạp (Miligiây),vi-VN
+Общее время подключения (миллисекунды),Tổng thời gian kết nối (Miligiây),vi-VN
+Одноранговое соединение,Kết nối ngang hàng,vi-VN
+Операционная система,Hệ điều hành,vi-VN
+Оставить отзыв,Gửi phản hồi,vi-VN
+Ошибка инициализации графического API: отсутствующие возможности,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+Ошибка инициализации графического API: подробности,Thông tin lỗi tạo Backend,vi-VN
+Ошибка инициализации графического API: причина,Lý do lỗi tạo Backend,vi-VN
+Платформа,Nền tảng,vi-VN
+Показатели производительности,Số liệu hiệu suất,vi-VN
+Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+Режим игры,Chế độ chơi,vi-VN
+Сбор данных телеметрии,Thu thập dữ liệu đo từ xa,vi-VN
+"Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+Согласие на отправку,Chọn tham gia,vi-VN
+Тип локального кандидата,Loại ứng viên cục bộ,vi-VN
+Тип сервера,Loại máy chủ,vi-VN
+Тип удалённого кандидата,Loại ứng viên từ xa,vi-VN
+Успешность подключения,Kết nối thành công,vi-VN
+Этап отказа,Giai đoạn gây lỗi,vi-VN
+"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+Это событие сообщает о возможностях используемого графического устройства.,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+Я даю согласие на отправку дополнительных телеметрических данных,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+กลุ่มตัวอย่างอัตราเฟรม (FPS),Mẫu tốc độ khung hình (FPS),vi-VN
+กลุ่มตัวอย่างเวลาเร็นเดอร์,Mẫu thời gian kết xuất,vi-VN
+"การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+การทำความก้าวหน้า,Tiến trình đã làm,vi-VN
+การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,Thu thập dữ liệu đo từ xa,vi-VN
+"การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+"การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+การเชื่อมต่อสำเร็จ,Kết nối thành công,vi-VN
+การเชื่อมต่อแบบเพียร์ทูเพียร์,Kết nối ngang hàng,vi-VN
+ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,Thông tin lỗi tạo Backend,vi-VN
+ข้อมูลที่รวมอยู่ด้วย,Dữ liệu được bao gồm,vi-VN
+ความยินยอมเข้าร่วม,Chọn tham gia,vi-VN
+ความสามารถของกราฟิก,Tương thích đồ họa,vi-VN
+ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+คำชี้แจงสิทธิ์ส่วนบุคคล,Tuyên bố về quyền riêng tư,vi-VN
+จำนวนกลุ่มตัวอย่าง,Số lượng mẫu,vi-VN
+ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+ชื่อลันเชอร์,Tên trình khởi động,vi-VN
+ชื่อแบ็กเอนด์,Tên Backend,vi-VN
+ดูข้อมูลของฉัน,Xem dữ liệu của tôi,vi-VN
+ประทับเวลาเหตุการณ์ (UTC),Dấu thời gian sự kiện (giờ UTC),vi-VN
+ประเภทตัวเลือกท้องถิ่น,Loại ứng viên cục bộ,vi-VN
+ประเภทตัวเลือกระยะไกล,Loại ứng viên từ xa,vi-VN
+ประเภทเซิร์ฟเวอร์,Loại máy chủ,vi-VN
+ระบบปฏิบัติการ,Hệ điều hành,vi-VN
+ระยะการมองเห็น,Khoảng cách kết xuất,vi-VN
+ระยะการล้มเหลว,Giai đoạn gây lỗi,vi-VN
+หน่วยความจำเฉพาะ (kB),Bộ nhớ chuyên dụng (kB),vi-VN
+เซิร์ฟเวอร์มีการดัดแปร,Máy chủ đã sửa đổi,vi-VN
+เนื้อหาแมป Realms (ชื่อมินิเกม),Nội dung bản đồ Realms (tên trò chơi nhỏ),vi-VN
+เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+เมตริกประสิทธิภาพ,Số liệu hiệu suất,vi-VN
+เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+เวลาตั้งแต่โหลด (ติ๊ก),Thời gian từ khi nạp (Nhịp),vi-VN
+เวลาตั้งแต่โหลด (วินาที),Thời gian từ khi nạp (Giây),vi-VN
+เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),Tổng thời gian kết nối (Miligiây),vi-VN
+เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),Thời gian kết nối tín hiệu (Miligiây),vi-VN
+เวลาเกม (ติ๊ก),Thời gian trong trò chơi (nhịp),vi-VN
+เวลาเริ่มต้นระบบ (มิลลิวินาที),Thời gian khởi tạo trò chơi (miligiây),vi-VN
+เวลาโหลดทั้งหมด (มิลลิวินาที),Tổng thời gian nạp (Miligiây),vi-VN
+เวลาโหลดเกม,Thời gian nạp trò chơi,vi-VN
+เวลาโหลดโลก,Thời gian nạp thế giới,vi-VN
+เวลาโหลดโลก (มิลลิวินาที),Thời gian nạp thế giới (Miligiây),vi-VN
+เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),Thời gian trong màn hình nạp (miligiây),vi-VN
+เวอร์ชันเกม,Phiên bản trò chơi,vi-VN
+เส้นทาง Interactive Connectivity Establishment (ICE),Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+"เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,Lý do lỗi tạo Backend,vi-VN
+แพลตฟอร์ม,Nền tảng,vi-VN
+โลกโหลด,Thế giới đã nạp,vi-VN
+โลกใหม่,Thế giới mới,vi-VN
+โลกไม่โหลด,Thế giới chưa nạp,vi-VN
+โหมดเกม,Chế độ chơi,vi-VN
+ให้ข้อเสนอแนะ,Gửi phản hồi,vi-VN
+ไคลเอนต์มีการดัดแปร,Máy khách đã sửa đổi,vi-VN
+このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+"このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+"これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+イベントの時刻（UTC）,Dấu thời gian sự kiện (giờ UTC),vi-VN
+ウィンドウが開くまでの時間（ミリ秒）,Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+オプトイン,Chọn tham gia,vi-VN
+オペレーティングシステム,Hệ điều hành,vi-VN
+クライアントID,ID máy khách,vi-VN
+グラフィック性能,Tương thích đồ họa,vi-VN
+ゲームのバージョン,Phiên bản trò chơi,vi-VN
+ゲームの読み込み時間,Thời gian nạp trò chơi,vi-VN
+ゲームモード,Chế độ chơi,vi-VN
+ゲーム内時間（ティック）,Thời gian trong trò chơi (nhịp),vi-VN
+サンプリング数,Số lượng mẫu,vi-VN
+サーバーのセッションID,ID phiên máy chủ,vi-VN
+サーバーの種類,Loại máy chủ,vi-VN
+シグナリング接続時間（ミリ秒）,Thời gian kết nối tín hiệu (Miligiây),vi-VN
+データの遠隔収集,Thu thập dữ liệu đo từ xa,vi-VN
+バックエンド作成失敗の原因,Lý do lỗi tạo Backend,vi-VN
+バックエンド作成失敗時のメッセージ,Thông tin lỗi tạo Backend,vi-VN
+バックエンド作成失敗時の不足していた性能情報,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+バックエンド名,Tên Backend,vi-VN
+パフォーマンス測定,Số liệu hiệu suất,vi-VN
+フィードバックを送信,Gửi phản hồi,vi-VN
+フレームレートのサンプル（FPS）,Mẫu tốc độ khung hình (FPS),vi-VN
+プライバシーに関する声明,Tuyên bố về quyền riêng tư,vi-VN
+プラットフォーム,Nền tảng,vi-VN
+"プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+ユーザーID,ID người dùng,vi-VN
+ランチャー名,Tên trình khởi động,vi-VN
+リモート候補タイプ,Loại ứng viên từ xa,vi-VN
+ローカル候補タイプ,Loại ứng viên cục bộ,vi-VN
+ワールドのセッションID,ID phiên thế giới,vi-VN
+ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+ワールドの読み込み時間（ミリ秒）,Thời gian nạp thế giới (Miligiây),vi-VN
+ワールドアンロード,Thế giới chưa nạp,vi-VN
+ワールドロード,Thế giới đã nạp,vi-VN
+ワールド読み込み時間,Thời gian nạp thế giới,vi-VN
+专用内存（kB）,Bộ nhớ chuyên dụng (kB),vi-VN
+世界 Session ID,ID phiên thế giới,vi-VN
+世界会话ID,ID phiên thế giới,vi-VN
+世界加载,Thế giới đã nạp,vi-VN
+世界加载时间,Thời gian nạp thế giới,vi-VN
+世界加载时间（毫秒）,Thời gian nạp thế giới (Miligiây),vi-VN
+世界卸載,Thế giới chưa nạp,vi-VN
+世界卸载,Thế giới chưa nạp,vi-VN
+世界載入,Thế giới đã nạp,vi-VN
+世界載入時間,Thời gian nạp thế giới,vi-VN
+世界載入時間（毫秒）,Thời gian nạp thế giới (Miligiây),vi-VN
+"了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+"了解Minecraft的整体性能概况，可以帮助我们针对各种机型和操作系统调整与优化游戏。 
+游戏版本信息也包含在其中，以帮助我们比较Minecraft新版本的性能概况。","Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.",vi-VN
+"了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+"了解玩家玩Minecraft时的细节（例如游戏模式、客户端或服务端是否被修改，以及游戏版本）有助于我们在游戏更新时注重改进玩家最关心的部分。
+世界加载事件将同世界卸载事件一起用于计算游戏会话的持续时长。","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+了解达成进度前后发生的事情有助于我们更好了解及改进游戏流程。,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+事件时间戳（UTC）,Dấu thời gian sự kiện (giờ UTC),vi-VN
+事件時間戳記（UTC）,Dấu thời gian sự kiện (giờ UTC),vi-VN
+互動式連線建立 (ICE) 路徑,Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+互動式連線建立 (ICE) 連線時間（毫秒）,Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+交互式连接建立（ICE）路径,Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+交互式连接建立（ICE）连接时间（毫秒）,Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+任意の遠隔測定データを送信することに同意する,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+伺服器 Session ID,ID phiên máy chủ,vi-VN
+伺服器是否為原版,Máy chủ đã sửa đổi,vi-VN
+伺服器類型,Loại máy chủ,vi-VN
+作業系統,Hệ điều hành,vi-VN
+使用されたランダムアクセスメモリ,Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+使用的記憶體,Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+使用者 ID,ID người dùng,vi-VN
+信令连接时间（毫秒）,Thời gian kết nối tín hiệu (Miligiây),vi-VN
+信令連線時間（毫秒）,Thời gian kết nối tín hiệu (Miligiây),vi-VN
+加载屏幕显示时间（毫秒）,Thời gian trong màn hình nạp (miligiây),vi-VN
+包含的数据,Dữ liệu được bao gồm,vi-VN
+包含的資料,Dữ liệu được bao gồm,vi-VN
+可选择加入,Chọn tham gia,vi-VN
+可選擇加入,Chọn tham gia,vi-VN
+后端创建失败原因,Lý do lỗi tạo Backend,vi-VN
+后端创建失败消息,Thông tin lỗi tạo Backend,vi-VN
+后端创建失败缺失功能,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+后端名称,Tên Backend,vi-VN
+含まれるデータ,Dữ liệu được bao gồm,vi-VN
+启动器名称,Tên trình khởi động,vi-VN
+启动引导时间（毫秒）,Thời gian khởi tạo trò chơi (miligiây),vi-VN
+啟動器名稱,Tên trình khởi động,vi-VN
+啟動引導時間（毫秒）,Thời gian khởi tạo trò chơi (miligiây),vi-VN
+图形功能,Tương thích đồ họa,vi-VN
+圖形功能,Tương thích đồ họa,vi-VN
+失敗の起きた段階,Giai đoạn gây lỗi,vi-VN
+失敗階段,Giai đoạn gây lỗi,vi-VN
+失败阶段,Giai đoạn gây lỗi,vi-VN
+客户端ID,ID máy khách,vi-VN
+客户端是否被修改,Máy khách đã sửa đổi,vi-VN
+对我们而言，了解加入世界所需的时长，以及这一时长随着时间推移会如何变化是很重要的。比如，当我们加入新功能或进行较大的技术更改时，我们需要知道这对加载时间有何影响。,"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+専用メモリ（kB）,Bộ nhớ chuyên dụng (kB),vi-VN
+專屬記憶體（kB）,Bộ nhớ chuyên dụng (kB),vi-VN
+對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+已使用的内存,Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+帧率样本（FPS）,Mẫu tốc độ khung hình (FPS),vi-VN
+平台,Nền tảng,vi-VN
+後端名稱,Tên Backend,vi-VN
+後端建立失敗原因,Lý do lỗi tạo Backend,vi-VN
+後端建立失敗缺少功能,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+後端建立失敗訊息,Thông tin lỗi tạo Backend,vi-VN
+性能指标,Số liệu hiệu suất,vi-VN
+总计加载时间（毫秒）,Tổng thời gian nạp (Miligiây),vi-VN
+总计连接时间（毫秒）,Tổng thời gian kết nối (Miligiây),vi-VN
+我同意傳送可選的遙測資料,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+我同意发送可选的遥测数据,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+打开我的数据,Xem dữ liệu của tôi,vi-VN
+接続の成功の是非,Kết nối thành công,vi-VN
+描画所要時間のサンプル,Mẫu thời gian kết xuất,vi-VN
+描画距離,Khoảng cách kết xuất,vi-VN
+提供反馈,Gửi phản hồi,vi-VN
+提供意見回饋,Gửi phản hồi,vi-VN
+操作系统,Hệ điều hành,vi-VN
+"收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+"收集这些数据可以让我们了解与玩家有关的实际情况，以便帮助我们改进Minecraft。
+你也可以发送其他反馈来帮助我们持续改进Minecraft。","Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+效能指標,Số liệu hiệu suất,vi-VN
+新規ワールド,Thế giới mới,vi-VN
+是否为新的世界,Thế giới mới,vi-VN
+是否為新的世界,Thế giới mới,vi-VN
+服务器会话ID,ID phiên máy chủ,vi-VN
+服务器类型,Loại máy chủ,vi-VN
+服务端是否被修改,Máy chủ đã sửa đổi,vi-VN
+本地候选类型,Loại ứng viên cục bộ,vi-VN
+本機候選類型,Loại ứng viên cục bộ,vi-VN
+样本数,Số lượng mẫu,vi-VN
+樣本數量,Số lượng mẫu,vi-VN
+"此事件与世界加载事件用于计算世界会话的持续时间。
+持续时间（以秒和刻为单位）在世界会话结束时（退回到标题屏幕，或从服务器断开连接）测量。","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+此事件会测量游戏启动各个阶段的时长以帮助我们找到游戏启动的性能优化点。,Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+此事件告知我们运行游戏所使用的图形设备的功能信息。,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+此事件有助于我们了解玩家之间点对点连接的可靠性和性能情况。事件将记录连接是否成功、所使用的交互式连接建立（ICE，即我们用于建立点对点连接的协议）候选类型，以及建立连接所花费的时间。,"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+"此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+渲染用时样本,Mẫu thời gian kết xuất,vi-VN
+渲染距离,Khoảng cách kết xuất,vi-VN
+游戏加载时间,Thời gian nạp trò chơi,vi-VN
+游戏时间（刻）,Thời gian trong trò chơi (nhịp),vi-VN
+游戏模式,Chế độ chơi,vi-VN
+游戏版本,Phiên bản trò chơi,vi-VN
+点对点连接,Kết nối ngang hàng,vi-VN
+用戶端 ID,ID máy khách,vi-VN
+用戶端是否為原版,Máy khách đã sửa đổi,vi-VN
+用户ID,ID người dùng,vi-VN
+畫面更新率樣本（FPS）,Mẫu tốc độ khung hình (FPS),vi-VN
+窗口开启前时间（毫秒）,Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+総接続時間（ミリ秒）,Tổng thời gian kết nối (Miligiây),vi-VN
+総読み込み時間（ミリ秒）,Tổng thời gian nạp (Miligiây),vi-VN
+總載入時間（毫秒）,Tổng thời gian nạp (Miligiây),vi-VN
+總連線時間（毫秒）,Tổng thời gian kết nối (Miligiây),vi-VN
+繪製時間樣本,Mẫu thời gian kết xuất,vi-VN
+自分のデータを確認する,Xem dữ liệu của tôi,vi-VN
+自加载后的时间（刻）,Thời gian từ khi nạp (Nhịp),vi-VN
+自加载后的时间（秒）,Thời gian từ khi nạp (Giây),vi-VN
+自載入後的時間（刻）,Thời gian từ khi nạp (Nhịp),vi-VN
+自載入後的時間（秒）,Thời gian từ khi nạp (Giây),vi-VN
+視窗開啟前時間（毫秒）,Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+読み込みからの時間（ティック）,Thời gian từ khi nạp (Nhịp),vi-VN
+読み込みからの時間（秒）,Thời gian từ khi nạp (Giây),vi-VN
+読み込み画面の所要時間（ミリ秒）,Thời gian trong màn hình nạp (miligiây),vi-VN
+起動所要時間（ミリ秒）,Thời gian khởi tạo trò chơi (miligiây),vi-VN
+載入畫面顯示時間（毫秒）,Thời gian trong màn hình nạp (miligiây),vi-VN
+达成进度,Tiến trình đã làm,vi-VN
+进度ID,ID tiến trình,vi-VN
+远程候选类型,Loại ứng viên từ xa,vi-VN
+连接成功,Kết nối thành công,vi-VN
+這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+連線成功,Kết nối thành công,vi-VN
+進度 ID,ID tiến trình,vi-VN
+進捗ID,ID tiến trình,vi-VN
+進捗の達成に関するデータ,Tiến trình đã làm,vi-VN
+進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+遊戲時間（刻）,Thời gian trong trò chơi (nhịp),vi-VN
+遊戲模式,Chế độ chơi,vi-VN
+遊戲版本,Phiên bản trò chơi,vi-VN
+遊戲載入時間,Thời gian nạp trò chơi,vi-VN
+達成進度,Tiến trình đã làm,vi-VN
+遙測資料收集,Thu thập dữ liệu đo từ xa,vi-VN
+遠端候選類型,Loại ứng viên từ xa,vi-VN
+遥测数据收集,Thu thập dữ liệu đo từ xa,vi-VN
+開啟我的統計資料,Xem dữ liệu của tôi,vi-VN
+隐私声明,Tuyên bố về quyền riêng tư,vi-VN
+隱私權聲明,Tuyên bố về quyền riêng tư,vi-VN
+顯示距離,Khoảng cách kết xuất,vi-VN
+개인 정보 처리 방침,Tuyên bố về quyền riêng tư,vi-VN
+게임 모드,Chế độ chơi,vi-VN
+게임 버전,Phiên bản trò chơi,vi-VN
+게임 시간 (틱),Thời gian trong trò chơi (nhịp),vi-VN
+게임을 불러오는 데 걸린 시간,Thời gian nạp trò chơi,vi-VN
+그래픽 기능,Tương thích đồ họa,vi-VN
+내 데이터 보기,Xem dữ liệu của tôi,vi-VN
+대화형 연결 구축 (ICE) 경로,Đường dẫn thiết lập kết nối tương tác (ICE),vi-VN
+대화형 연결 구축 (ICE) 연결 시간 (밀리초),Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),vi-VN
+랜덤 액세스 메모리 사용량,Bộ nhớ truy cập ngẫu nhiên đã sử dụng,vi-VN
+런처 이름,Tên trình khởi động,vi-VN
+렌더 거리,Khoảng cách kết xuất,vi-VN
+렌더 시간 표본,Mẫu thời gian kết xuất,vi-VN
+로딩 화면에 있던 시간 (밀리초),Thời gian trong màn hình nạp (miligiây),vi-VN
+로컬 후보 유형,Loại ứng viên cục bộ,vi-VN
+발전 과제 ID,ID tiến trình,vi-VN
+발전 과제 달성,Tiến trình đã làm,vi-VN
+발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,vi-VN
+백엔드 생성 실패 기능 누락,Tính năng bị thiếu gây lỗi tạo Backend,vi-VN
+백엔드 생성 실패 메시지,Thông tin lỗi tạo Backend,vi-VN
+백엔드 생성 실패 사유,Lý do lỗi tạo Backend,vi-VN
+백엔드 이름,Tên Backend,vi-VN
+부트스트랩 시간 (밀리초),Thời gian khởi tạo trò chơi (miligiây),vi-VN
+사용자 ID,ID người dùng,vi-VN
+새로운 세계 여부,Thế giới mới,vi-VN
+서버 모드 여부,Máy chủ đã sửa đổi,vi-VN
+서버 세션 ID,ID phiên máy chủ,vi-VN
+서버 유형,Loại máy chủ,vi-VN
+선택 수집 여부,Chọn tham gia,vi-VN
+선택적 원격 측정 데이터 전송에 동의합니다,Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,vi-VN
+성능 측정 결과,Số liệu hiệu suất,vi-VN
+세계 세션 ID,ID phiên thế giới,vi-VN
+세계를 떠날 때,Thế giới chưa nạp,vi-VN
+세계를 불러오는 데 걸린 시간,Thời gian nạp thế giới,vi-VN
+세계를 불러오는 데 걸린 시간 (밀리초),Thời gian nạp thế giới (Miligiây),vi-VN
+세계를 불러올 때,Thế giới đã nạp,vi-VN
+"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.","Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",vi-VN
+시그널링 연결 시간 (밀리초),Thời gian kết nối tín hiệu (Miligiây),vi-VN
+실패 단계,Giai đoạn gây lỗi,vi-VN
+실행된 시간 (초),Thời gian từ khi nạp (Giây),vi-VN
+실행된 시간 (틱),Thời gian từ khi nạp (Nhịp),vi-VN
+연결 성공,Kết nối thành công,vi-VN
+운영 체제,Hệ điều hành,vi-VN
+원격 측정 데이터 수집,Thu thập dữ liệu đo từ xa,vi-VN
+원격 후보 유형,Loại ứng viên từ xa,vi-VN
+이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,"Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.",vi-VN
+이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,vi-VN
+이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,vi-VN
+"이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.","Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).",vi-VN
+"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.","Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",vi-VN
+이벤트 시간 기록 (UTC),Dấu thời gian sự kiện (giờ UTC),vi-VN
+창이 켜지기까지 걸린 시간 (밀리초),Thời gian trước khi cửa sổ mở (miligiây),vi-VN
+총 접속 시간 (밀리초),Tổng thời gian kết nối (Miligiây),vi-VN
+총합 로드 시간 (밀리초),Tổng thời gian nạp (Miligiây),vi-VN
+클라이언트 ID,ID máy khách,vi-VN
+클라이언트 모드 여부,Máy khách đã sửa đổi,vi-VN
+포함 데이터,Dữ liệu được bao gồm,vi-VN
+표본 수,Số lượng mẫu,vi-VN
+프레임률 표본 (fps),Mẫu tốc độ khung hình (FPS),vi-VN
+플랫폼,Nền tảng,vi-VN
+"플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.","Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.",vi-VN
+피드백 보내기,Gửi phản hồi,vi-VN
+피어 투 피어 연결,Kết nối ngang hàng,vi-VN
+할당된 메모리 (kB),Bộ nhớ chuyên dụng (kB),vi-VN

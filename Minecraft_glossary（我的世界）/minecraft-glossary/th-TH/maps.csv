@@ -1,0 +1,423 @@
+﻿source,target,tgt_lng
+(Level %s/%s),(ระดับ %s/%s),th-TH
+(Livello %s/%s),(ระดับ %s/%s),th-TH
+(Mức %s/%s),(ระดับ %s/%s),th-TH
+(Niveau %s/%s),(ระดับ %s/%s),th-TH
+(Nivel %s/%s),(ระดับ %s/%s),th-TH
+(Nível %s/%s),(ระดับ %s/%s),th-TH
+(Seviye %s/%s),(ระดับ %s/%s),th-TH
+(Stufe %s/%s),(ระดับ %s/%s),th-TH
+(Уровень: %s/%s),(ระดับ %s/%s),th-TH
+(레벨 %s/%s),(ระดับ %s/%s),th-TH
+Alacalı Orman Kamp Haritası,แผนที่แคมป์ป่าแสงรำไร,th-TH
+Alacalı Orman Terkedilmiş Kamp Haritası,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+Bamboo Camp Map,แผนที่แคมป์ป่าไผ่,th-TH
+Bamboo Jungle Abandoned Camp Map,แผนที่แคมป์ร้างป่าไผ่,th-TH
+Bambu Kamp Haritası,แผนที่แคมป์ป่าไผ่,th-TH
+Bambu Ormanı Terkedilmiş Kamp Haritası,แผนที่แคมป์ร้างป่าไผ่,th-TH
+Bambus-Lagerkarte,แผนที่แคมป์ป่าไผ่,th-TH
+Bataklık Kamp Haritası,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+Bataklık Kâşif Haritası,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+Bataklık Terkedilmiş Kamp Haritası,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+Bilinmeyen Harita,แผนที่ที่ไม่ถูกเปิด,th-TH
+Birch Forest Abandoned Camp Map,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+Birch Forest Camp Map,แผนที่แคมป์ป่าเบิร์ช,th-TH
+Birkenwald-Lagerkarte,แผนที่แคมป์ป่าเบิร์ช,th-TH
+Blasser-Garten-Lagerkarte,แผนที่แคมป์สวนซีดจาง,th-TH
+Bloccata,ล็อกแล้ว,th-TH
+Bloqueado,ล็อกแล้ว,th-TH
+Blumenwald-Lagerkarte,แผนที่แคมป์ป่าดอกไม้,th-TH
+Buntwaldlagerkarte,แผนที่แคมป์ป่าแสงรำไร,th-TH
+Buried Treasure Map,แผนที่สมบัติที่ถูกฝัง,th-TH
+Bản đồ kho báu bị chôn vùi,แผนที่สมบัติที่ถูกฝัง,th-TH
+Bản đồ khám phá rừng nhiệt đới,แผนที่สำรวจป่าดงดิบ,th-TH
+Bản đồ khám phá rừng sâu,แผนที่สำรวจป่าไม้,th-TH
+Bản đồ khám phá thử thách,แผนที่สำรวจบททดสอบ,th-TH
+Bản đồ khám phá đại dương,แผนที่สำรวจมหาสมุทร,th-TH
+Bản đồ khám phá đầm lầy,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+Bản đồ không rõ,แผนที่ที่ไม่ถูกเปิด,th-TH
+Bản đồ làng băng tuyết,แผนที่หมู่บ้านหิมะ,th-TH
+Bản đồ làng rừng Taiga,แผนที่หมู่บ้านไทกา,th-TH
+Bản đồ làng sa mạc,แผนที่หมู่บ้านทะเลทราย,th-TH
+Bản đồ làng Xavan,แผนที่หมู่บ้านสะวันนา,th-TH
+Bản đồ làng đồng bằng,แผนที่หมู่บ้านที่ราบ,th-TH
+Bản đồ trại bỏ hoang khu vườn nhợt nhạt,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+Bản đồ trại bỏ hoang rừng bạch dương,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+Bản đồ trại bỏ hoang rừng hoa,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+Bản đồ trại bỏ hoang rừng lốm đốm,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+Bản đồ trại bỏ hoang rừng lộng gió,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+Bản đồ trại bỏ hoang rừng núi anh đào,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+Bản đồ trại bỏ hoang rừng tre,แผนที่แคมป์ร้างป่าไผ่,th-TH
+Bản đồ trại bỏ hoang đầm lầy,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+Bản đồ trại khu vườn nhợt nhạt,แผนที่แคมป์สวนซีดจาง,th-TH
+Bản đồ trại rừng bạch dương,แผนที่แคมป์ป่าเบิร์ช,th-TH
+Bản đồ trại rừng hoa,แผนที่แคมป์ป่าดอกไม้,th-TH
+Bản đồ trại rừng lốm đốm,แผนที่แคมป์ป่าแสงรำไร,th-TH
+Bản đồ trại rừng lộng gió,แผนที่แคมป์ป่าลมแรง,th-TH
+Bản đồ trại rừng núi anh đào,แผนที่แคมป์ป่าซากุระ,th-TH
+Bản đồ trại rừng tre,แผนที่แคมป์ป่าไผ่,th-TH
+Bản đồ trại đầm lầy,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+Bản đồ đền thờ rừng nhiệt đới,แผนที่วิหารป่าดงดิบ,th-TH
+Carte au trésor,แผนที่สมบัติที่ถูกฝัง,th-TH
+Carte d'exploration des bois,แผนที่สำรวจป่าไม้,th-TH
+Carte d'exploration des jungles,แผนที่สำรวจป่าดงดิบ,th-TH
+Carte d'exploration des marais,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+Carte d'exploration des océans,แผนที่สำรวจมหาสมุทร,th-TH
+Carte de camp de bosquet de cerisiers,แผนที่แคมป์ป่าซากุระ,th-TH
+Carte de camp de bosquet de cerisiers,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+Carte de camp de forêt ambrée,แผนที่แคมป์ป่าแสงรำไร,th-TH
+Carte de camp de forêt ambrée,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+Carte de camp de forêt de bouleaux,แผนที่แคมป์ป่าเบิร์ช,th-TH
+Carte de camp de forêt de bouleaux,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+Carte de camp de forêt fleurie,แผนที่แคมป์ป่าดอกไม้,th-TH
+Carte de camp de forêt fleurie,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+Carte de camp de forêt venteuse,แผนที่แคมป์ป่าลมแรง,th-TH
+Carte de camp de forêt venteuse,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+Carte de camp de jardin pâle,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+Carte de camp de jardin pâle,แผนที่แคมป์สวนซีดจาง,th-TH
+Carte de camp de jungle de bambous,แผนที่แคมป์ป่าไผ่,th-TH
+Carte de camp de jungle de bambous,แผนที่แคมป์ร้างป่าไผ่,th-TH
+Carte de camp de marais,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+Carte de camp de marais,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+Carte de chambres des épreuves,แผนที่สำรวจบททดสอบ,th-TH
+Carte de temple de la jungle,แผนที่วิหารป่าดงดิบ,th-TH
+Carte de village de la savane,แผนที่หมู่บ้านสะวันนา,th-TH
+Carte de village de la taïga,แผนที่หมู่บ้านไทกา,th-TH
+Carte de village des neiges,แผนที่หมู่บ้านหิมะ,th-TH
+Carte de village des plaines,แผนที่หมู่บ้านที่ราบ,th-TH
+Carte de village du désert,แผนที่หมู่บ้านทะเลทราย,th-TH
+Carte inconnue,แผนที่ที่ไม่ถูกเปิด,th-TH
+Cherry Grove Abandoned Camp Map,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+Cherry Grove Camp Map,แผนที่แคมป์ป่าซากุระ,th-TH
+Dappled Forest Abandoned Camp Map,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+Dappled Forest Camp Map,แผนที่แคมป์ป่าแสงรำไร,th-TH
+Definitivo,ล็อกแล้ว,th-TH
+Desert Village Map,แผนที่หมู่บ้านทะเลทราย,th-TH
+Dschungel-Entdeckerkarte,แผนที่สำรวจป่าดงดิบ,th-TH
+Dschungeltempelkarte,แผนที่วิหารป่าดงดิบ,th-TH
+Ebenendorfkarte,แผนที่หมู่บ้านที่ราบ,th-TH
+Escala 1:%s,มาตราส่วนที่ 1:%s,th-TH
+Escala a 1:%s,มาตราส่วนที่ 1:%s,th-TH
+Esintili Orman Kamp Haritası,แผนที่แคมป์ป่าลมแรง,th-TH
+Esintili Orman Terkedilmiş Kamp Haritası,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+Flower Forest Abandoned Camp Map,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+Flower Forest Camp Map,แผนที่แคมป์ป่าดอกไม้,th-TH
+Gesperrt,ล็อกแล้ว,th-TH
+Gömülü Hazine Haritası,แผนที่สมบัติที่ถูกฝัง,th-TH
+Huş Ormanı Kamp Haritası,แผนที่แคมป์ป่าเบิร์ช,th-TH
+Huş Ormanı Terkedilmiş Kamp Haritası,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+ID n.º %s,ID #%s,th-TH
+Id. n.º %s,ID #%s,th-TH
+ID: %s,ID #%s,th-TH
+Jungle Explorer Map,แผนที่สำรวจป่าดงดิบ,th-TH
+Jungle Temple Map,แผนที่วิหารป่าดงดิบ,th-TH
+Kara Orman Kâşifi Haritası,แผนที่สำรวจป่าไม้,th-TH
+Karlı Köy Haritası,แผนที่หมู่บ้านหิมะ,th-TH
+Karte des hinterlassenen Kirschberghainlagers,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+Karte des verlassenen Bambusdschungellagers,แผนที่แคมป์ร้างป่าไผ่,th-TH
+Karte des verlassenen Birkenwaldlagers,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+Karte des verlassenen Blumenwaldlagers,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+Karte des verlassenen Buntwaldlagers,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+Karte des verlassenen Sumpflagers,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+Karte zum aufgegebenen Lager im blassen Garten,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+Karte zum aufgegebenen Lager im zerzausten Wald,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+Kilitli,ล็อกแล้ว,th-TH
+Kimlik #%s,ID #%s,th-TH
+Kiraz Ağacı Korusu Kamp Haritası,แผนที่แคมป์ป่าซากุระ,th-TH
+Kiraz Ağacı Korusu Terkedilmiş Kamp Haritası,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+Kirschberghain-Lagerkarte,แผนที่แคมป์ป่าซากุระ,th-TH
+Locked,ล็อกแล้ว,th-TH
+Mapa de Acampamento Abandonado da Floresta das Ventanias,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+Mapa de Acampamento Abandonado da Floresta de Bétulas,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+Mapa de Acampamento Abandonado da Floresta de Flores,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+Mapa de Acampamento Abandonado da Floresta Salpicada,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+Mapa de Acampamento Abandonado da Selva de Bambu,แผนที่แคมป์ร้างป่าไผ่,th-TH
+Mapa de Acampamento Abandonado do Cerejal,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+Mapa de Acampamento Abandonado do Jardim Pálido,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+Mapa de Acampamento Abandonado do Pântano,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+Mapa de Acampamento da Floresta das Ventanias,แผนที่แคมป์ป่าลมแรง,th-TH
+Mapa de Acampamento da Floresta de Bétulas,แผนที่แคมป์ป่าเบิร์ช,th-TH
+Mapa de Acampamento da Floresta de Flores,แผนที่แคมป์ป่าดอกไม้,th-TH
+Mapa de Acampamento da Floresta Salpicada,แผนที่แคมป์ป่าแสงรำไร,th-TH
+Mapa de Acampamento da Selva de Bambu,แผนที่แคมป์ป่าไผ่,th-TH
+Mapa de Acampamento do Cerejal,แผนที่แคมป์ป่าซากุระ,th-TH
+Mapa de Acampamento do Jardim Pálido,แผนที่แคมป์สวนซีดจาง,th-TH
+Mapa de Acampamento do Pântano,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+Mapa de aldea de desierto,แผนที่หมู่บ้านทะเลทราย,th-TH
+Mapa de aldea de llanura,แผนที่หมู่บ้านที่ราบ,th-TH
+Mapa de aldea de llanura nevada,แผนที่หมู่บ้านหิมะ,th-TH
+Mapa de aldea de sabana,แผนที่หมู่บ้านสะวันนา,th-TH
+Mapa de aldea de taiga,แผนที่หมู่บ้านไทกา,th-TH
+Mapa de cabaña de pantano,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+Mapa de campamento abandonado de abedular,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+Mapa de campamento abandonado de bosque floral,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+Mapa de campamento abandonado de bosque moteado,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+Mapa de campamento abandonado de bosque ventiscoso,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+Mapa de campamento abandonado de cerezal,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+Mapa de campamento abandonado de jardín pálido,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+Mapa de campamento abandonado de jungla de bambú,แผนที่แคมป์ร้างป่าไผ่,th-TH
+Mapa de campamento abandonado de pantano,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+Mapa de campamento de abedular,แผนที่แคมป์ป่าเบิร์ช,th-TH
+Mapa de campamento de bosque floral,แผนที่แคมป์ป่าดอกไม้,th-TH
+Mapa de campamento de bosque moteado,แผนที่แคมป์ป่าแสงรำไร,th-TH
+Mapa de campamento de bosque ventiscoso,แผนที่แคมป์ป่าลมแรง,th-TH
+Mapa de campamento de cerezal,แผนที่แคมป์ป่าซากุระ,th-TH
+Mapa de campamento de jardín pálido,แผนที่แคมป์สวนซีดจาง,th-TH
+Mapa de campamento de jungla de bambú,แผนที่แคมป์ป่าไผ่,th-TH
+Mapa de campamento de pantano,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+Mapa de cámara de desafío,แผนที่สำรวจบททดสอบ,th-TH
+Mapa de Exploração da Floresta,แผนที่สำรวจป่าไม้,th-TH
+Mapa de Exploração da Selva,แผนที่สำรวจป่าดงดิบ,th-TH
+Mapa de Exploração do Desafio,แผนที่สำรวจบททดสอบ,th-TH
+Mapa de Exploração do Oceano,แผนที่สำรวจมหาสมุทร,th-TH
+Mapa de Exploração do Pântano,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+Mapa de mansión del bosque,แผนที่สำรวจป่าไม้,th-TH
+Mapa de monumento oceánico,แผนที่สำรวจมหาสมุทร,th-TH
+Mapa de Templo da Selva,แผนที่วิหารป่าดงดิบ,th-TH
+Mapa de templo de jungla,แผนที่วิหารป่าดงดิบ,th-TH
+Mapa de templo de jungla,แผนที่สำรวจป่าดงดิบ,th-TH
+Mapa de Tesouro Enterrado,แผนที่สมบัติที่ถูกฝัง,th-TH
+Mapa de Vila da Planície,แผนที่หมู่บ้านที่ราบ,th-TH
+Mapa de Vila da Savana,แผนที่หมู่บ้านสะวันนา,th-TH
+Mapa de Vila da Taiga,แผนที่หมู่บ้านไทกา,th-TH
+Mapa de Vila do Deserto,แผนที่หมู่บ้านทะเลทราย,th-TH
+Mapa de Vila Nevada,แผนที่หมู่บ้านหิมะ,th-TH
+Mapa del tesoro enterrado,แผนที่สมบัติที่ถูกฝัง,th-TH
+Mapa Desconhecido,แผนที่ที่ไม่ถูกเปิด,th-TH
+Mapa desconocido,แผนที่ที่ไม่ถูกเปิด,th-TH
+Mappa del tesoro,แผนที่สมบัติที่ถูกฝัง,th-TH
+Mappa per boschetto di ciliegi,แผนที่แคมป์ป่าซากุระ,th-TH
+Mappa per boschetto di ciliegi,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+Mappa per camera della sfida,แผนที่สำรวจบททดสอบ,th-TH
+Mappa per capanna della palude,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+Mappa per foresta ambrata,แผนที่แคมป์ป่าแสงรำไร,th-TH
+Mappa per foresta ambrata,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+Mappa per foresta di betulle,แผนที่แคมป์ป่าเบิร์ช,th-TH
+Mappa per foresta di betulle,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+Mappa per foresta floreale,แผนที่แคมป์ป่าดอกไม้,th-TH
+Mappa per foresta floreale,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+Mappa per foresta ventosa,แผนที่แคมป์ป่าลมแรง,th-TH
+Mappa per foresta ventosa,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+Mappa per giardino pallido,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+Mappa per giardino pallido,แผนที่แคมป์สวนซีดจาง,th-TH
+Mappa per giungla di bambù,แผนที่แคมป์ป่าไผ่,th-TH
+Mappa per giungla di bambù,แผนที่แคมป์ร้างป่าไผ่,th-TH
+Mappa per magione della foresta,แผนที่สำรวจป่าไม้,th-TH
+Mappa per monumento oceanico,แผนที่สำรวจมหาสมุทร,th-TH
+Mappa per palude,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+Mappa per palude,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+Mappa per piramide della giungla,แผนที่วิหารป่าดงดิบ,th-TH
+Mappa per piramide della giungla,แผนที่สำรวจป่าดงดิบ,th-TH
+Mappa per villaggio del deserto,แผนที่หมู่บ้านทะเลทราย,th-TH
+Mappa per villaggio della pianura,แผนที่หมู่บ้านที่ราบ,th-TH
+Mappa per villaggio della savana,แผนที่หมู่บ้านสะวันนา,th-TH
+Mappa per villaggio della taiga,แผนที่หมู่บ้านไทกา,th-TH
+Mappa per villaggio innevato,แผนที่หมู่บ้านหิมะ,th-TH
+Mappa sconosciuta,แผนที่ที่ไม่ถูกเปิด,th-TH
+Maßstab 1:%s,มาตราส่วนที่ 1:%s,th-TH
+Nr. %s,ID #%s,th-TH
+Ocean Explorer Map,แผนที่สำรวจมหาสมุทร,th-TH
+Okyanus Kâşif Haritası,แผนที่สำรวจมหาสมุทร,th-TH
+Ova Köyü Haritası,แผนที่หมู่บ้านที่ราบ,th-TH
+Ozean-Entdeckerkarte,แผนที่สำรวจมหาสมุทร,th-TH
+Pale Garden Abandoned Camp Map,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+Pale Garden Camp Map,แผนที่แคมป์สวนซีดจาง,th-TH
+Plains Village Map,แผนที่หมู่บ้านที่ราบ,th-TH
+Prüfungs-Entdeckerkarte,แผนที่สำรวจบททดสอบ,th-TH
+Quy mô 1:%s,มาตราส่วนที่ 1:%s,th-TH
+Savan Köyü Haritası,แผนที่หมู่บ้านสะวันนา,th-TH
+Savanna Village Map,แผนที่หมู่บ้านสะวันนา,th-TH
+Savannendorfkarte,แผนที่หมู่บ้านสะวันนา,th-TH
+Scala 1:%s,มาตราส่วนที่ 1:%s,th-TH
+Scaling at 1:%s,มาตราส่วนที่ 1:%s,th-TH
+Schatzkarte,แผนที่สมบัติที่ถูกฝัง,th-TH
+Schneedorfkarte,แผนที่หมู่บ้านหิมะ,th-TH
+Snowy Village Map,แผนที่หมู่บ้านหิมะ,th-TH
+Solgun Bahçe Kamp Haritası,แผนที่แคมป์สวนซีดจาง,th-TH
+Solgun Bahçe Terkedilmiş Kamp Haritası,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+Sumpf-Entdeckerkarte,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+Sumpf-Lagerkarte,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+Swamp Abandoned Camp Map,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+Swamp Camp Map,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+Swamp Explorer Map,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+Sınama Kâşif Haritası,แผนที่สำรวจบททดสอบ,th-TH
+Taiga Village Map,แผนที่หมู่บ้านไทกา,th-TH
+Taigadorfkarte,แผนที่หมู่บ้านไทกา,th-TH
+Tayga Köyü Haritası,แผนที่หมู่บ้านไทกา,th-TH
+Trial Explorer Map,แผนที่สำรวจบททดสอบ,th-TH
+Unbekannte Karte,แผนที่ที่ไม่ถูกเปิด,th-TH
+Unknown Map,แผนที่ที่ไม่ถูกเปิด,th-TH
+Verrouillée,ล็อกแล้ว,th-TH
+Wald-Entdeckerkarte,แผนที่สำรวจป่าไม้,th-TH
+Windswept Forest Abandoned Camp Map,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+Windswept Forest Camp Map,แผนที่แคมป์ป่าลมแรง,th-TH
+Woodland Explorer Map,แผนที่สำรวจป่าไม้,th-TH
+Wüstendorfkarte,แผนที่หมู่บ้านทะเลทราย,th-TH
+Yağmur Ormanı Kâşif Haritası,แผนที่สำรวจป่าดงดิบ,th-TH
+Yağmur Ormanı Tapınağı Haritası,แผนที่วิหารป่าดงดิบ,th-TH
+Zerzauster-Wald-Lagerkarte,แผนที่แคมป์ป่าลมแรง,th-TH
+Çicek Ormanı Terkedilmiş Kamp Haritası,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+Çicekli Orman Kamp Haritası,แผนที่แคมป์ป่าดอกไม้,th-TH
+Çöl Köyü Haritası,แผนที่หมู่บ้านทะเลทราย,th-TH
+Échelle 1:%s,มาตราส่วนที่ 1:%s,th-TH
+Ölçek: 1:%s,มาตราส่วนที่ 1:%s,th-TH
+Đã khoá,ล็อกแล้ว,th-TH
+Карта заброшенного лагеря в бамбуковых зарослях,แผนที่แคมป์ร้างป่าไผ่,th-TH
+Карта заброшенного лагеря в березняке,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+Карта заброшенного лагеря в бледном саду,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+Карта заброшенного лагеря в вишнёвой роще,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+Карта заброшенного лагеря в выветренном лесу,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+Карта заброшенного лагеря в пёстром лесу,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+Карта заброшенного лагеря в цветочном лесу,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+Карта заброшенного лагеря на болоте,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+Карта заснеженной деревни,แผนที่หมู่บ้านหิมะ,th-TH
+Карта искателя испытаний,แผนที่สำรวจบททดสอบ,th-TH
+Карта исследователя болот,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+Карта исследователя джунглей,แผนที่สำรวจป่าดงดิบ,th-TH
+Карта исследователя лесов,แผนที่สำรวจป่าไม้,th-TH
+Карта исследователя океанов,แผนที่สำรวจมหาสมุทร,th-TH
+Карта клада,แผนที่สมบัติที่ถูกฝัง,th-TH
+Карта лагеря в бамбуковых зарослях,แผนที่แคมป์ป่าไผ่,th-TH
+Карта лагеря в березняке,แผนที่แคมป์ป่าเบิร์ช,th-TH
+Карта лагеря в бледном саду,แผนที่แคมป์สวนซีดจาง,th-TH
+Карта лагеря в вишнёвой роще,แผนที่แคมป์ป่าซากุระ,th-TH
+Карта лагеря в выветренном лесу,แผนที่แคมป์ป่าลมแรง,th-TH
+Карта лагеря в пёстром лесу,แผนที่แคมป์ป่าแสงรำไร,th-TH
+Карта лагеря в цветочном лесу,แผนที่แคมป์ป่าดอกไม้,th-TH
+Карта лагеря на болоте,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+Карта пирамиды в джунглях,แผนที่วิหารป่าดงดิบ,th-TH
+Карта пустынной деревни,แผนที่หมู่บ้านทะเลทราย,th-TH
+Карта равнинной деревни,แผนที่หมู่บ้านที่ราบ,th-TH
+Карта саванной деревни,แผนที่หมู่บ้านสะวันนา,th-TH
+Карта таёжной деревни,แผนที่หมู่บ้านไทกา,th-TH
+Масштаб 1:%s,มาตราส่วนที่ 1:%s,th-TH
+Неизвестная карта,แผนที่ที่ไม่ถูกเปิด,th-TH
+Неизменяема,ล็อกแล้ว,th-TH
+№ %s,ID #%s,th-TH
+まだらな森のキャンプの地図,แผนที่แคมป์ป่าแสงรำไร,th-TH
+まだらな森の放棄されたキャンプの地図,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+サクラの林のキャンプの地図,แผนที่แคมป์ป่าซากุระ,th-TH
+サクラの林の放棄されたキャンプの地図,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+サバンナの村の地図,แผนที่หมู่บ้านสะวันนา,th-TH
+シラカバの森のキャンプの地図,แผนที่แคมป์ป่าเบิร์ช,th-TH
+シラカバの森の放棄されたキャンプの地図,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+ジャングルの寺院の地図,แผนที่วิหารป่าดงดิบ,th-TH
+ジャングル探検家の地図,แผนที่สำรวจป่าดงดิบ,th-TH
+タイガの村の地図,แผนที่หมู่บ้านไทกา,th-TH
+ペールガーデンのキャンプの地図,แผนที่แคมป์สวนซีดจาง,th-TH
+ペールガーデンの放棄されたキャンプの地図,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+ロックされています,ล็อกแล้ว,th-TH
+不明な地図,แผนที่ที่ไม่ถูกเปิด,th-TH
+丛林探险家地图,แผนที่สำรวจป่าดงดิบ,th-TH
+丛林神庙地图,แผนที่วิหารป่าดงดิบ,th-TH
+叢林探險家地圖,แผนที่สำรวจป่าดงดิบ,th-TH
+叢林遺跡地圖,แผนที่วิหารป่าดงดิบ,th-TH
+吹きさらしの森のキャンプの地図,แผนที่แคมป์ป่าลมแรง,th-TH
+吹きさらしの森の放棄されたキャンプの地図,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+宝の地図,แผนที่สมบัติที่ถูกฝัง,th-TH
+已鎖定,ล็อกแล้ว,th-TH
+已锁定,ล็อกแล้ว,th-TH
+平原の村の地図,แผนที่หมู่บ้านที่ราบ,th-TH
+平原村庄地图,แผนที่หมู่บ้านที่ราบ,th-TH
+平原村莊地圖,แผนที่หมู่บ้านที่ราบ,th-TH
+斑駁森林廢棄營地地圖,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+斑駁森林營地地圖,แผนที่แคมป์ป่าแสงรำไร,th-TH
+斑驳森林废弃营地地图,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+斑驳森林营地地图,แผนที่แคมป์ป่าแสงรำไร,th-TH
+未知地图,แผนที่ที่ไม่ถูกเปิด,th-TH
+未知的地圖,แผนที่ที่ไม่ถูกเปิด,th-TH
+林地探险家地图,แผนที่สำรวจป่าไม้,th-TH
+林地探險家地圖,แผนที่สำรวจป่าไม้,th-TH
+桦木森林废弃营地地图,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+桦木森林营地地图,แผนที่แคมป์ป่าเบิร์ช,th-TH
+森林探検家の地図,แผนที่สำรวจป่าไม้,th-TH
+樱花树林废弃营地地图,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+樱花树林营地地图,แผนที่แคมป์ป่าซากุระ,th-TH
+樺木森林廢棄營地地圖,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+樺木森林營地地圖,แผนที่แคมป์ป่าเบิร์ช,th-TH
+櫻花樹林廢棄營地地圖,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+櫻花樹林營地地圖,แผนที่แคมป์ป่าซากุระ,th-TH
+比例尺 1:%s,มาตราส่วนที่ 1:%s,th-TH
+比例尺1:%s,มาตราส่วนที่ 1:%s,th-TH
+沙漠村庄地图,แผนที่หมู่บ้านทะเลทราย,th-TH
+沙漠村莊地圖,แผนที่หมู่บ้านทะเลทราย,th-TH
+沼地のキャンプの地図,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+沼地の放棄されたキャンプの地図,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+沼地探検家の地図,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+沼泽废弃营地地图,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+沼泽探险家地图,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+沼泽营地地图,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+沼澤廢棄營地地圖,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+沼澤探險家地圖,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+沼澤營地地圖,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+海洋探検家の地図,แผนที่สำรวจมหาสมุทร,th-TH
+海洋探险家地图,แผนที่สำรวจมหาสมุทร,th-TH
+海洋探險家地圖,แผนที่สำรวจมหาสมุทร,th-TH
+热带草原村庄地图,แผนที่หมู่บ้านสะวันนา,th-TH
+砂漠の村の地図,แผนที่หมู่บ้านทะเลทราย,th-TH
+竹林のキャンプの地図,แผนที่แคมป์ป่าไผ่,th-TH
+竹林の放棄されたキャンプの地図,แผนที่แคมป์ร้างป่าไผ่,th-TH
+竹林废弃营地地图,แผนที่แคมป์ร้างป่าไผ่,th-TH
+竹林廢棄營地地圖,แผนที่แคมป์ร้างป่าไผ่,th-TH
+竹林營地地圖,แผนที่แคมป์ป่าไผ่,th-TH
+竹林营地地图,แผนที่แคมป์ป่าไผ่,th-TH
+縮尺1：%s,มาตราส่วนที่ 1:%s,th-TH
+繁花森林废弃营地地图,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+繁花森林廢棄營地地圖,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+繁花森林營地地圖,แผนที่แคมป์ป่าดอกไม้,th-TH
+繁花森林营地地图,แผนที่แคมป์ป่าดอกไม้,th-TH
+花の森のキャンプの地図,แผนที่แคมป์ป่าดอกไม้,th-TH
+花の森の放棄されたキャンプの地図,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+苍白之园废弃营地地图,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+苍白之园营地地图,แผนที่แคมป์สวนซีดจาง,th-TH
+莽原村莊地圖,แผนที่หมู่บ้านสะวันนา,th-TH
+蒼白之園廢棄營地地圖,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+蒼白之園營地地圖,แผนที่แคมป์สวนซีดจาง,th-TH
+藏宝图,แผนที่สมบัติที่ถูกฝัง,th-TH
+藏寶圖,แผนที่สมบัติที่ถูกฝัง,th-TH
+試煉探險家地圖,แผนที่สำรวจบททดสอบ,th-TH
+試練の間の地図,แผนที่สำรวจบททดสอบ,th-TH
+试炼探险家地图,แผนที่สำรวจบททดสอบ,th-TH
+針葉林村莊地圖,แผนที่หมู่บ้านไทกา,th-TH
+针叶林村庄地图,แผนที่หมู่บ้านไทกา,th-TH
+雪原の村の地図,แผนที่หมู่บ้านหิมะ,th-TH
+雪原村庄地图,แผนที่หมู่บ้านหิมะ,th-TH
+雪原村莊地圖,แผนที่หมู่บ้านหิมะ,th-TH
+風蝕森林廢棄營地地圖,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+風蝕森林營地地圖,แผนที่แคมป์ป่าลมแรง,th-TH
+风袭森林废弃营地地图,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+风袭森林营地地图,แผนที่แคมป์ป่าลมแรง,th-TH
+꽃 숲 버려진 야영지 지도,แผนที่แคมป์ร้างป่าดอกไม้,th-TH
+꽃 숲 야영지 지도,แผนที่แคมป์ป่าดอกไม้,th-TH
+눈 덮인 마을 지도,แผนที่หมู่บ้านหิมะ,th-TH
+늪 버려진 야영지 지도,แผนที่แคมป์ร้างที่ลุ่มน้ำขัง,th-TH
+늪 야영지 지도,แผนที่แคมป์ที่ลุ่มน้ำขัง,th-TH
+늪 탐험가 지도,แผนที่สำรวจที่ลุ่มน้ำขัง,th-TH
+대나무 야영지 지도,แผนที่แคมป์ป่าไผ่,th-TH
+대나무 정글 버려진 야영지 지도,แผนที่แคมป์ร้างป่าไผ่,th-TH
+땅에 묻힌 보물 지도,แผนที่สมบัติที่ถูกฝัง,th-TH
+바다 탐험가 지도,แผนที่สำรวจมหาสมุทร,th-TH
+바람이 세찬 숲 버려진 야영지 지도,แผนที่แคมป์ร้างป่าลมแรง,th-TH
+바람이 세찬 숲 야영지 지도,แผนที่แคมป์ป่าลมแรง,th-TH
+벚나무 숲 버려진 야영지 지도,แผนที่แคมป์ร้างป่าซากุระ,th-TH
+벚나무 숲 야영지 지도,แผนที่แคมป์ป่าซากุระ,th-TH
+사막 마을 지도,แผนที่หมู่บ้านทะเลทราย,th-TH
+사바나 마을 지도,แผนที่หมู่บ้านสะวันนา,th-TH
+삼림 탐험가 지도,แผนที่สำรวจป่าไม้,th-TH
+시련 탐험가 지도,แผนที่สำรวจบททดสอบ,th-TH
+알 수 없는 지도,แผนที่ที่ไม่ถูกเปิด,th-TH
+얼룩덜룩한 숲 버려진 야영지 지도,แผนที่แคมป์ร้างป่าแสงรำไร,th-TH
+얼룩덜룩한 숲 야영지 지도,แผนที่แคมป์ป่าแสงรำไร,th-TH
+자작나무 숲 버려진 야영지 지도,แผนที่แคมป์ร้างป่าเบิร์ช,th-TH
+자작나무 숲 야영지 지도,แผนที่แคมป์ป่าเบิร์ช,th-TH
+잠김,ล็อกแล้ว,th-TH
+정글 사원 지도,แผนที่วิหารป่าดงดิบ,th-TH
+정글 탐험가 지도,แผนที่สำรวจป่าดงดิบ,th-TH
+창백한 정원 버려진 야영지 지도,แผนที่แคมป์ร้างสวนซีดจาง,th-TH
+창백한 정원 야영지 지도,แผนที่แคมป์สวนซีดจาง,th-TH
+축척 1:%s,มาตราส่วนที่ 1:%s,th-TH
+타이가 마을 지도,แผนที่หมู่บ้านไทกา,th-TH
+평원 마을 지도,แผนที่หมู่บ้านที่ราบ,th-TH
+（レベル%s／%s）,(ระดับ %s/%s),th-TH
+（縮放等級 %s/%s）,(ระดับ %s/%s),th-TH
+（缩放等级%s/%s）,(ระดับ %s/%s),th-TH

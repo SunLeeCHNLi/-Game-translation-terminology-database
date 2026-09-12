@@ -1,0 +1,1493 @@
+﻿source,target,tgt_lng
+'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+A porcentagem de jogadores que devem dormir para passar a noite.,The percentage of players who must be sleeping to skip the night.,en-US
+A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+Accesso al Nether,Allow Nether,en-US
+Accès au Nether,Allow Nether,en-US
+Actions destructives des créatures,Allow destructive mob actions,en-US
+Activar la barra localizadora de jugadores,Enable player Locator Bar,en-US
+Actualisation du feu loin des joueurs,Tick fire away from players,en-US
+Actualisations du monde,World Updates,en-US
+Actualizaciones del mundo,World Updates,en-US
+Administratorbefehle protokollieren,Broadcast admin commands,en-US
+"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.","When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.","When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+"Al explotar (criaturas), algunos bloques no soltarán objetos","In mob explosions, some blocks won't drop their loot",en-US
+"Al explotar (por bloques), algunos bloques no soltarán objetos","In block interaction explosions, some blocks won't drop their loot",en-US
+"Al verificarsi di determinati eventi, come la generazione di un boss, il suono verrà udito globalmente.","When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+Alcune entità potrebbero avere regole separate.,Some entities might have separate rules.,en-US
+Algumas entidades podem ter regras separadas.,Some entities might have separate rules.,en-US
+Algunas entidades pueden tener sus propias reglas.,Some entities might have separate rules.,en-US
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de criaturas desaparecen con la explosión.,Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de interacciones con bloques desaparecen con la explosión.,Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de la dinamita desaparecen con la explosión.,Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+Allgemeine Verärgerung,Universal anger,en-US
+Altezza di accumulo della neve,Snow accumulation height,en-US
+Altura de acumulación de nieve,Snow accumulation height,en-US
+Altura de acumulação de neve,Snow accumulation height,en-US
+Anunciar comandos de administrador,Broadcast admin commands,en-US
+Anunciar progresos,Announce advancements,en-US
+Anunciar progressos,Announce advancements,en-US
+Anunciar saída dos Blocos de Comando,Broadcast command block output,en-US
+Anında yeniden canlanma,Respawn immediately,en-US
+"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.","If enabled, players will be able to craft only unlocked recipes.",en-US
+"Ao ativar, uma barra na tela indica a direção dos jogadores.","When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.","When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+Aplicável às cadeias de blocos de comando e funções.,Applies to command block chains and functions.,en-US
+Apparition,Spawning,en-US
+Apparition des créatures,Spawn mobs,en-US
+Apparition des marchands ambulants,Spawn Wandering Traders,en-US
+Apparition des monstres,Spawn Monsters,en-US
+Apparition des patrouilles de pillards,Spawn pillager patrols,en-US
+Apparition des Phantoms,Spawn phantoms,en-US
+Apparition des Wardens,Spawn Wardens,en-US
+As entidades com passageiros podem atravessar portais,Entities with passengers can use portals,en-US
+Ateş hasarı alma,Deal fire damage,en-US
+Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+Ateş yayılabilsin,Update fire,en-US
+Ateş yayılma yarıçapı,Fire spread radius,en-US
+Ativar Barra Localizadora de jogadores,Enable player Locator Bar,en-US
+Ativar Blocos de Comando,Enable Command Blocks,en-US
+Ativar Blocos Geradores,Enable Spawner Blocks,en-US
+Ativar invasões,Do raids,en-US
+Ativar PvP,Enable pvp,en-US
+Atraso do Portal do Nether em modo não Criativo,Player's Nether Portal delay in non-creative mode,en-US
+Atraso do Portal do Nether no Modo Criativo,Player's Nether Portal delay in creative mode,en-US
+Atualizar as regras do jogo requer permissões de operador.,Updating game rules requires operator permissions.,en-US
+Atılabilirler blokları kırabilir,Projectiles can break blocks,en-US
+Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+Atılan Ender İncileri ölünce yok olurlar,Thrown Ender Pearls vanish on death,en-US
+Ausbeute,Drops,en-US
+Avanzar ciclo de día y noche,Advance time of day,en-US
+Azioni distruttive delle creature,Allow destructive mob actions,en-US
+Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,"When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+Baixando regras do jogo...,Retrieving game rules...,en-US
+Barra localizzatrice,Enable player Locator Bar,en-US
+Barre de localisation,Enable player Locator Bar,en-US
+Baskınlar olsun,Do raids,en-US
+Baskınları kapat,Disable raids,en-US
+Bazı varlıkların ayrı kuralları olabilir.,Some entities might have separate rules.,en-US
+Başlangıç yığınları yarıçapı,Spawn chunk radius,en-US
+Befehlsausgabe anzeigen,Send command feedback,en-US
+Befehlsblockausgabe anzeigen,Broadcast command block output,en-US
+Befehlsblöcke,Enable Command Blocks,en-US
+Begrenzt die Inhalte der Debug‐Anzeige.,Limits contents of debug screen.,en-US
+Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,Are you sure you want to discard your pending game rule changes?,en-US
+"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.","When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+"Bist du sicher, dass du die ausstehenden Änderungen der Spielregeln verwerfen möchtest?",Are you sure you want to discard your pending game rule changes?,en-US
+Blocchi comandi funzionanti,Enable Command Blocks,en-US
+Blockausbeute fallen lassen,Drop blocks,en-US
+Blockgrenze für Befehlsänderungen,Command modification block limit,en-US
+Blockzerstörung durch Geschosse,Projectiles can break blocks,en-US
+Block‐Explosionsausbeute verschwindet,"In block interaction explosions, some blocks won't drop their loot",en-US
+Blocs de commande activés,Enable Command Blocks,en-US
+"Blok etkileşimi patlamalarında, bazı bloklar düşmesin","In block interaction explosions, some blocks won't drop their loot",en-US
+Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+Bloklar düşsün,Drop blocks,en-US
+Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Boğulma hasarı alma,Deal drowning damage,en-US
+Butin des blocs,Drop blocks,en-US
+Butin des créatures,Drop mob loot,en-US
+Butin des entités,Drop entity equipment,en-US
+Butins,Drops,en-US
+Bán kính lan lửa,Fire spread radius,en-US
+Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,The radius in blocks around a player in which fire can spread.,en-US
+Bán kính vị trí hồi sinh,Respawn location radius,en-US
+Bán kính đoạn khúc hồi sinh,Spawn chunk radius,en-US
+Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,Are you sure you want to discard your pending game rule changes?,en-US
+Bật các cuộc xâm lược,Do raids,en-US
+Bật khối lệnh,Enable Command Blocks,en-US
+Bật khối triệu hồi,Enable Spawner Blocks,en-US
+Bật PVP,Enable pvp,en-US
+Bật thanh định vị người chơi,Enable player Locator Bar,en-US
+Cambiar las reglas del juego requiere permisos de administrador.,Updating game rules requires operator permissions.,en-US
+Cambios en las reglas del juego,Game Rule Changes,en-US
+Canavarlar Oluşsun,Spawn Monsters,en-US
+Canavarların doğal olarak oluşabilmesini kontrol eder.,Controls whether monsters naturally spawn.,en-US
+Canlı ganimeti düşsün,Drop mob loot,en-US
+"Canlı patlamalarında, bazı bloklar düşmesin","In mob explosions, some blocks won't drop their loot",en-US
+Canlılar,Mobs,en-US
+Canlılar oluşsun,Spawn mobs,en-US
+Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+Canlıların yıkıcı etkilerine izin verilsin,Allow destructive mob actions,en-US
+"Cantidad de bloques que se pueden cambiar a la vez con un solo comando, como «/fill» o «/clone».","The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+Cantidad de chunks que se mantienen cargados alrededor del punto de aparición.,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+Cargar fuego lejos de los jugadores,Tick fire away from players,en-US
+Causar dano por afogamento,Deal drowning damage,en-US
+Causar dano por congelamento,Deal freeze damage,en-US
+Causar dano por fogo,Deal fire damage,en-US
+Causar dano por queda,Deal fall damage,en-US
+Certaines entités peuvent avoir des règles distinctes.,Some entities might have separate rules.,en-US
+Certains butins des blocs détruits par des explosions de créatures sont perdus dans l'explosion.,Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+Certains butins des blocs détruits par des explosions de TNT sont perdus dans l'explosion.,Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+Certains butins des blocs détruits par des explosions dues à des interactions de blocs sont perdus dans l'explosion.,Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+Chiều cao tích tụ tuyết,Snow accumulation height,en-US
+Cho phép hành động sinh vật phá hoại,Allow destructive mob actions,en-US
+Cho phép khán giả tạo địa hình,Allow spectators to generate terrain,en-US
+Cho phép Nether,Allow Nether,en-US
+"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.","Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+Cho phép TNT được kích hoạt và phát nổ,Allow TNT to be activated and to explode,en-US
+Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+Chỉnh sửa luật chơi,Edit Game Rules,en-US
+Chỉnh sửa luật chơi...,Edit Game Rules...,en-US
+Ciclo circadiano,Advance time of day,en-US
+Ciclo meteorológico,Update weather,en-US
+Ciclos do mundo,World Updates,en-US
+Colère universelle,Universal anger,en-US
+Combattimento tra giocatori,Enable pvp,en-US
+Commandes d'administrateur affichées,Broadcast admin commands,en-US
+Comprobar movimiento con élitros,Do elytra movement check,en-US
+Comprobar movimiento del jugador,Do player movement check,en-US
+"Consenti alle entità con passeggeri di teletrasportarsi attraverso i portali del Nether, i portali dell'End e i varchi dell'End.","Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+Conservation de l'inventaire après la mort,Keep inventory after death,en-US
+Conservazione dell'inventario dopo la morte,Keep inventory after death,en-US
+Controla el tamaño de la zona alrededor del punto de reaparición donde pueden aparecer los jugadores.,Controls the size of the area around the spawn point that players can spawn in.,en-US
+"Controla que las criaturas puedan soltar recursos, incluyendo orbes de experiencia.","Controls resource drops from mobs, including experience orbs.",en-US
+"Controla que los bloques puedan soltar recursos, incluyendo orbes de experiencia.","Controls resource drops from blocks, including experience orbs.",en-US
+Controla si el fuego o la lava deberían estar cargados al estar a más de 8 chunks de distancia de cualquier jugador.,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+Controla si el impacto de proyectiles destruirá bloques a los que normalmente puede destruir.,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+"Controla si las enredaderas se propagan a bloques adyacentes. No afecta otros tipos de enredaderas como enredaderas lacrimosas o enredaderas retorcidas, entre otras.","Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+Controla si los jugadores pueden dañar a otros jugadores o no.,Controls whether players are allowed to damage other players.,en-US
+Controla si los jugadores pueden entrar en el Nether.,Controls whether players are allowed to enter the Nether.,en-US
+Controla si los monstruos aparecen naturalmente o no.,Controls whether monsters naturally spawn.,en-US
+"Contrôle la propagation aléatoire des lianes sur les blocs adjacents. Cela n'affecte pas les autres types de lianes tels que les lianes pleureuses, les lianes tortueuses, etc.","Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+Contrôle la taille de la zone autour du point d'apparition dans laquelle les joueurs peuvent apparaître.,Controls the size of the area around the spawn point that players can spawn in.,en-US
+"Contrôle les butins des blocs, y compris les orbes d'expérience.","Controls resource drops from blocks, including experience orbs.",en-US
+"Contrôle les butins des créatures, y compris les orbes d'expérience.","Controls resource drops from mobs, including experience orbs.",en-US
+"Contrôle les butins des wagonnets (y compris leur inventaire), des cadres, des bateaux, etc.","Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+Contrôle si le feu et la lave peuvent s'actualiser à plus de 8 chunks de n'importe quel joueur.,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+Contrôle si les joueurs peuvent entrer dans le Nether.,Controls whether players are allowed to enter the Nether.,en-US
+Contrôle si les joueurs peuvent infliger des dégâts aux autres joueurs.,Controls whether players are allowed to damage other players.,en-US
+Contrôle si les monstres apparaissent naturellement.,Controls whether monsters naturally spawn.,en-US
+Contrôle si les perles de l'Ender lancées par un joueur disparaissent lorsque celui-ci meurt.,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+Contrôle si les projectiles détruisent les blocs destructibles par ceux-ci à l'impact.,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+Conversione d'acqua in sorgente,Water converts to source,en-US
+Conversione di lava in sorgente,Lava converts to source,en-US
+Creature,Mobs,en-US
+Creature,Spawn mobs,en-US
+Criaturas,Mobs,en-US
+Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+Créatures,Mobs,en-US
+"Cuando está activada, se muestra una barra en la pantalla que indica la dirección de otros jugadores.","When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+"Cuando nieva, se forma este número máximo de capas de nieve en el suelo.","When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+"Cuando se producen ciertos eventos durante la partida, como que aparezca un jefe, el sonido se escucha en todas partes.","When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+"Cuando una corriente de agua está rodeada de más agua por dos de sus lados, se convierte en una fuente.","When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+"Cuando una corriente de lava está rodeada de más lava por dos de sus lados, se convierte en una fuente.","When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+Cycle jour-nuit,Advance time of day,en-US
+Cycle météorologique,Update weather,en-US
+Cập nhật luật chơi yêu cầu quyền người điều hành.,Updating game rules requires operator permissions.,en-US
+Cập nhật lửa,Update fire,en-US
+Cập nhật thế giới,World Updates,en-US
+Cập nhật thời tiết,Update weather,en-US
+Danno da annegamento,Deal drowning damage,en-US
+Danno da bruciatura,Deal fire damage,en-US
+Danno da caduta,Deal fall damage,en-US
+Danno da congelamento,Deal freeze damage,en-US
+Das Ändern der Spielregeln erfordert Operatorrechte.,Updating game rules requires operator permissions.,en-US
+Daño por ahogamiento,Deal drowning damage,en-US
+Daño por caída,Deal fall damage,en-US
+Daño por congelamiento,Deal freeze damage,en-US
+Daño por fuego,Deal fire damage,en-US
+Debug‐Infos reduzieren,Reduce debug info,en-US
+"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.","Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+Define o tamanho do ponto de renascimento dos jogadores.,Controls the size of the area around the spawn point that players can spawn in.,en-US
+"Define os itens largados pelos blocos, incluindo as esferas de experiência.","Controls resource drops from blocks, including experience orbs.",en-US
+"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.","Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+"Define os itens largados por criaturas, incluindo as esferas de experiência.","Controls resource drops from mobs, including experience orbs.",en-US
+Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+Define se os jogadores podem atacar outros jogadores.,Controls whether players are allowed to damage other players.,en-US
+Define se os jogadores podem entrar no Nether.,Controls whether players are allowed to enter the Nether.,en-US
+Define se os monstros podem ser gerados naturalmente.,Controls whether monsters naturally spawn.,en-US
+Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+Demora para teletransportarse al Nether en creativo,Player's Nether Portal delay in creative mode,en-US
+Demora para teletransportarse al Nether por defecto,Player's Nether Portal delay in non-creative mode,en-US
+"Der Prozentsatz an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.",The percentage of players who must be sleeping to skip the night.,en-US
+"Der Radius in Blöcken um einen Spieler, in dem sich Feuer ausbreiten kann.",The radius in blocks around a player in which fire can spread.,en-US
+Desactivar control de movimiento de los jugadores,Disable player movement check,en-US
+Desactivar control de movimiento de élitros,Disable elytra movement check,en-US
+Desactivar invasiones,Disable raids,en-US
+Desativar invasões,Disable raids,en-US
+Desativar verificação de movimento do jogador,Disable player movement check,en-US
+Desativar verificação de movimento dos Élitros,Disable elytra movement check,en-US
+Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,Are you sure you want to discard your pending game rule changes?,en-US
+Destruction des blocs par des projectiles,Projectiles can break blocks,en-US
+Destruir Pérolas de Ender lançadas ao morrer,Thrown Ender Pearls vanish on death,en-US
+"Determina i rilasci dei vagonetti (compresi gli inventari), delle cornici, delle barche ecc.","Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+Determina la dimensione dell'area intorno al punto di generazione dei giocatori.,Controls the size of the area around the spawn point that players can spawn in.,en-US
+Determina la propagazione casuale dei rampicanti verso i blocchi adiacenti. Non ha effetto sugli altri tipi di rampicanti (come i rampicanti piangenti o i rampicanti attorcigliati).,"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+"Determina le risorse che vengono rilasciate dalle creature, comprese le sfere di esperienza.","Controls resource drops from mobs, including experience orbs.",en-US
+"Determina le risorse rilasciate dai blocchi, comprese le sfere di esperienza.","Controls resource drops from blocks, including experience orbs.",en-US
+Determina se i giocatori possono entrare nel Nether attraverso i portali.,Controls whether players are allowed to enter the Nether.,en-US
+Determina se i giocatori possono infliggere danno agli altri giocatori.,Controls whether players are allowed to damage other players.,en-US
+Determina se i mostri si generano naturalmente.,Controls whether monsters naturally spawn.,en-US
+Determina se i proiettili da impatto possono distruggere i blocchi vulnerabili.,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+Determina se il fuoco e la lava sono attivi anche a una distanza maggiore di 8 chunk da ogni giocatore.,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+"Die Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.","The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+"Die Anzahl der Chunks um den Einstiegspunkt in der Oberwelt, die dauerhaft geladen bleiben.",The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+Die Spielregeln können in einer Hardcore‐Welt nicht angepasst werden.,Cannot change game rules in a hardcore world.,en-US
+Disparition des perles de l'Ender lancées à la mort,Thrown Ender Pearls vanish on death,en-US
+Distruzione dei blocchi tramite proiettili,Projectiles can break blocks,en-US
+Divers,Miscellaneous,en-US
+Diversos,Miscellaneous,en-US
+Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,"The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+Donma hasarı alma,Deal freeze damage,en-US
+Dung nham chuyển thành nguồn,Lava converts to source,en-US
+Dây leo lan ra,Vines spread,en-US
+Dégâts de chute,Deal fall damage,en-US
+Dégâts de feu,Deal fire damage,en-US
+Dégâts de gel,Deal freeze damage,en-US
+Dégâts de noyade,Deal drowning damage,en-US
+Délai du portail du Nether,Player's Nether Portal delay in non-creative mode,en-US
+Délai du portail du Nether en mode Créatif,Player's Nether Portal delay in creative mode,en-US
+Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+Dünyadaki Hareketler,World Updates,en-US
+Düşenler,Drops,en-US
+Düşme hasarı alma,Deal fall damage,en-US
+Editar las reglas del juego,Edit Game Rules,en-US
+Editar las reglas del juego...,Edit Game Rules...,en-US
+Editar regras do jogo,Edit Game Rules,en-US
+Editar regras do jogo...,Edit Game Rules...,en-US
+"Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.",Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+"Einiges von der Ausbeute von Blöcken, die durch TNT‐Explosionen zerstört werden, geht dabei verloren.",Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+"Einiges von der Ausbeute von Blöcken, die durch von Kreaturen verursachte Explosionen zerstört werden, geht dabei verloren.",Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+Einstiegs‐Chunk‐Radius,Spawn chunk radius,en-US
+El agua se convierte en fuente,Water converts to source,en-US
+El número máximo de contextos que se pueden utilizar en comandos como «execute as».,Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+El porcentaje necesario de jugadores que deben dormir para pasar la noche.,The percentage of players who must be sleeping to skip the night.,en-US
+El radio en bloques alrededor de un jugador en el que el fuego puede expandirse,The radius in blocks around a player in which fire can spread.,en-US
+Elitra hareket hızı kontrolünü kapat,Disable elytra movement check,en-US
+Elitra hareketini denetle,Do elytra movement check,en-US
+Elytrenflug nicht überprüfen,Disable elytra movement check,en-US
+Elytren‐Bewegungsprüfung,Do elytra movement check,en-US
+"En explosiones por dinamita, algunos bloques no soltarán objetos","In TNT explosions, some blocks won't drop their loot",en-US
+En yüksek vagon hızı,Minecart max speed,en-US
+Enderperlen‐Mitleidenschaft,Thrown Ender Pearls vanish on death,en-US
+Entzünden und Explodieren von TNT,Allow TNT to be activated and to explode,en-US
+Enviar respuestas de comandos,Send command feedback,en-US
+Erfrierungsschaden,Deal freeze damage,en-US
+"Ermöglicht es Objekten mit Passagieren, sich durch Nether‐, End‐ und Endtransitportale zu teleportieren.","Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+Erzeugung,Spawning,en-US
+Esito dei blocchi comandi,Broadcast command block output,en-US
+Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,"If enabled, players will be able to craft only unlocked recipes.",en-US
+Eventi sonori globali,Global sound events,en-US
+Eventos de sonido globales,Global sound events,en-US
+Eventos sonoros globais,Global sound events,en-US
+Evrensel öfke,Universal anger,en-US
+Exigir receitas para fabricação,Require recipe for crafting,en-US
+Exigir recetas para poder fabricar,Require recipe for crafting,en-US
+Explosion de TNT,Allow TNT to be activated and to explode,en-US
+Fabbricazione limitata,Require recipe for crafting,en-US
+Fahrende Händler erzeugen,Spawn Wandering Traders,en-US
+Fallschaden,Deal fall damage,en-US
+Fantasmi,Spawn phantoms,en-US
+Feuerausbreitung,Update fire,en-US
+Feuerausbreitungs‐Radius,Fire spread radius,en-US
+Feuerschaden,Deal fire damage,en-US
+fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,"The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,"The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+Fortschritte bekannt geben,Announce advancements,en-US
+Frequenza dei tick casuali,Random tick speed rate,en-US
+Fúria universal,Universal anger,en-US
+Für einige Objekte können eigene Regeln gelten.,Some entities might have separate rules.,en-US
+Gece-gündüz döngüsü olsun,Advance time of day,en-US
+Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,The percentage of players who must be sleeping to skip the night.,en-US
+Gelişimler gösterilsin,Announce advancements,en-US
+Generación de criaturas,Spawning,en-US
+Generar bandas de saqueadores,Spawn pillager patrols,en-US
+Generar criaturas,Spawn mobs,en-US
+Generar fantasmas,Spawn phantoms,en-US
+Generar monstruos,Spawn Monsters,en-US
+Generar terreno en modo espectador,Allow spectators to generate terrain,en-US
+Generar vendedores ambulantes,Spawn Wandering Traders,en-US
+Generar wardens,Spawn Wardens,en-US
+Generatori funzionanti,Enable Spawner Blocks,en-US
+Generazione,Spawning,en-US
+Generazione di terreno da parte degli spettatori,Allow spectators to generate terrain,en-US
+Gerar criaturas,Spawn mobs,en-US
+Gerar Defensores,Spawn Wardens,en-US
+Gerar Espectros,Spawn phantoms,en-US
+Gerar Mercadores Ambulantes,Spawn Wandering Traders,en-US
+Gerar monstros,Spawn Monsters,en-US
+Gerar patrulhas de Saqueadores,Spawn pillager patrols,en-US
+Gerar terreno para os espectadores,Allow spectators to generate terrain,en-US
+Geração,Spawning,en-US
+Gestorbenen Spielern vergeben,Forgive dead players,en-US
+Gesundheit regenerieren,Regenerate health,en-US
+Giocatore,Player,en-US
+Giảm thông tin gỡ lỗi,Reduce debug info,en-US
+Giận dữ toàn diện,Universal anger,en-US
+Giới hạn kích cỡ chuỗi lệnh,Command chain size limit,en-US
+Giới hạn ngữ cảnh lệnh,Command context limit,en-US
+Giới hạn nội dung của màn hình gỡ lỗi.,Limits contents of debug screen.,en-US
+Giới hạn số khối sửa đổi bởi lệnh,Command modification block limit,en-US
+Giữ túi đồ sau khi chết,Keep inventory after death,en-US
+Gây sát thương lửa,Deal fire damage,en-US
+Gây sát thương rơi,Deal fall damage,en-US
+Gây sát thương đuối nước,Deal drowning damage,en-US
+Gây sát thương đóng băng,Deal freeze damage,en-US
+Générateurs activés,Enable Spawner Blocks,en-US
+Génération du terrain par les spectateurs,Allow spectators to generate terrain,en-US
+Gửi phản hồi về lệnh,Send command feedback,en-US
+Hata ayıklama bilgisini azalt,Reduce debug info,en-US
+Hata ayıklama ekranı içeriğini kısıtlar.,Limits contents of debug screen.,en-US
+Hauteur d'accumulation de la neige,Snow accumulation height,en-US
+Hava durumu döngüsü olsun,Update weather,en-US
+Hiển thị thông báo chết,Show death messages,en-US
+Häufigkeit von Zufallsereignissen,Random tick speed rate,en-US
+"Höchstgeschwindigkeit, die eine Lore an Land standardmäßig erreichen kann.",Maximum default speed of a moving Minecart on land.,en-US
+Hồi phục sinh lực,Regenerate health,en-US
+Il raggio in blocchi intorno a un giocatore entro cui il fuoco può propagarsi,The radius in blocks around a player in which fire can spread.,en-US
+Impossible de modifier les règles de jeu dans un monde Hardcore.,Cannot change game rules in a hardcore world.,en-US
+Incursioni,Do raids,en-US
+Incursioni disattivate,Disable raids,en-US
+Informazioni diagnostiche ridotte,Reduce debug info,en-US
+Infos de débogage réduites,Reduce debug info,en-US
+Innesco ed esplosione di TNT,Allow TNT to be activated and to explode,en-US
+Invasiones,Do raids,en-US
+Invasions,Do raids,en-US
+Invasions désactivées,Disable raids,en-US
+Inventar nach dem Tod behalten,Keep inventory after death,en-US
+Ira universal,Universal anger,en-US
+Itens largados,Drops,en-US
+Jogador,Player,en-US
+Joueur,Player,en-US
+Joueurs morts pardonnés,Forgive dead players,en-US
+Jugador,Player,en-US
+Kar birikme yüksekliği,Snow accumulation height,en-US
+"Kar yağdığında, zeminde birikecek kar katmanı sayısı.","When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,Maximum default speed of a moving Minecart on land.,en-US
+"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.","If enabled, players will be able to craft only unlocked recipes.",en-US
+"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.","When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.","When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.","When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.","When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.","When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+Khác,Miscellaneous,en-US
+Không thể thay đổi luật chơi trong thế giới siêu khó.,Cannot change game rules in a hardcore world.,en-US
+Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.","Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,Controls the size of the area around the spawn point that players can spawn in.,en-US
+Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,Controls whether players are allowed to damage other players.,en-US
+Kiểm soát người chơi được phép vào Nether hay không.,Controls whether players are allowed to enter the Nether.,en-US
+Kiểm soát quái vật sinh ra tự nhiên hay không.,Controls whether monsters naturally spawn.,en-US
+"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.","Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.","Controls resource drops from blocks, including experience orbs.",en-US
+"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.","Controls resource drops from mobs, including experience orbs.",en-US
+Kiểm tra chuyển động của cánh cứng,Do elytra movement check,en-US
+Kiểm tra chuyển động của người chơi,Do player movement check,en-US
+Komut bağlam limiti,Command context limit,en-US
+Komut Bloklarını Etkinleştir,Enable Command Blocks,en-US
+Komut bloğu zincirleri ve fonksiyonlar için geçerli.,Applies to command block chains and functions.,en-US
+Komut bloğu çıktıları gösterilsin,Broadcast command block output,en-US
+Komut değişikliği blok sınırı,Command modification block limit,en-US
+Komut geri bildirimi gösterilsin,Send command feedback,en-US
+Komut zinciri uzunluk sınırı,Command chain size limit,en-US
+Kreaturen,Mobs,en-US
+Kreaturen erzeugen,Spawn mobs,en-US
+Kreaturenausbeute fallen lassen,Drop mob loot,en-US
+Kreatur‐Explosionsausbeute verschwindet,"In mob explosions, some blocks won't drop their loot",en-US
+Kâbuslar oluşsun,Spawn phantoms,en-US
+Küresel ses olayları,Global sound events,en-US
+La lava se convierte en fuente,Lava converts to source,en-US
+La mise à jour des règles de jeu nécessite des permissions d'opérateur.,Updating game rules requires operator permissions.,en-US
+La percentuale di giocatori che devono dormire per saltare la notte.,The percentage of players who must be sleeping to skip the night.,en-US
+La vitesse maximale par défaut des wagonnets en mouvement sur le sol.,Maximum default speed of a moving Minecart on land.,en-US
+Largar blocos,Drop blocks,en-US
+Largar itens de criaturas,Drop mob loot,en-US
+Largar itens de entidades,Drop entity equipment,en-US
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar.
+Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar. Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+Las criaturas neutrales que estén enfadadas dejarán de estarlo cuando el jugador al que persigan muera cerca.,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+Las entidades con pasajeros pueden utilizar portales,Entities with passengers can use portals,en-US
+Las perlas de ender lanzadas desaparecen al morir,Thrown Ender Pearls vanish on death,en-US
+Las perlas de ender lanzadas por un jugador desaparecen cuando este muere.,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+"Lav, kaynağa dönüşsün",Lava converts to source,en-US
+Lava‐Erneuerbarkeit,Lava converts to source,en-US
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgive_dead_players» è disattivata.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgiveDeadPlayers» è disattivata.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+Le creature neutrali che sono state provocate smettono di essere arrabbiate quando il giocatore puntato muore nelle vicinanze.,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+Le entità con passeggeri possono attraversare i portali,Entities with passengers can use portals,en-US
+"Le nombre de blocs qui peuvent être modifiés à la fois par une commande, telle que /fill ou /clone.","The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+Le nombre de chunks qui restent chargés autour du point d'apparition de la Surface.,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+"Le nombre maximal de contextes qui peuvent être utilisés par des commandes telles que ""execute as"".",Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+Le pourcentage de joueurs qui doivent dormir pour passer la nuit.,The percentage of players who must be sleeping to skip the night.,en-US
+Le rayon (en blocs) autour d'un joueur dans lequel le feu peut se propager.,The radius in blocks around a player in which fire can spread.,en-US
+Le regole di gioco possono essere cambiate solo dagli operatori.,Updating game rules requires operator permissions.,en-US
+Le regole di gioco sono bloccate nei mondi in modalità estrema.,Cannot change game rules in a hardcore world.,en-US
+Le temps (en ticks) pendant lequel un joueur en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Le temps (en ticks) pendant lequel un joueur qui n'est pas en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgive_dead_players"" est désactivée.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgiveDeadPlayers"" est désactivée.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+Les créatures neutres en colère redeviennent calmes lorsque le joueur ciblé meurt à proximité.,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+Limita el contenido de la pantalla de desarrollo al pulsar F3.,Limits contents of debug screen.,en-US
+Limita il contenuto del cruscotto diagnostico.,Limits contents of debug screen.,en-US
+Limite d'ammassamento delle entità,Entity cramming threshold,en-US
+Limite d'entassement des entités,Entity cramming threshold,en-US
+Limite de blocos modificados por comando,Command modification block limit,en-US
+Limite de blocs modifiables par commande,Command modification block limit,en-US
+Limite de comandos em cadeia,Command chain size limit,en-US
+Limite de contextes des commandes,Command context limit,en-US
+Limite de contextos por comando,Command context limit,en-US
+Limite dei blocchi modificabili per comando,Command modification block limit,en-US
+Limite dei contesti dei comandi,Command context limit,en-US
+Limite delle catene di comandi,Command chain size limit,en-US
+Limite des chaînes de commandes,Command chain size limit,en-US
+Limite le contenu de l'écran de débogage.,Limits contents of debug screen.,en-US
+Loren‐Höchstgeschwindigkeit,Minecart max speed,en-US
+"Lorsqu'il neige, les couches de neige qui se forment sur le sol peuvent atteindre cette hauteur.","When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+"Lorsqu'un écoulement d'eau est entouré de deux sources d'eau, il se transforme en source.","When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+"Lorsqu'un écoulement de lave est entouré de deux sources de lave, il se transforme en source.","When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+"Lorsque certains événements se produisent dans le jeu, comme l'apparition d'un boss, le son est entendu partout.","When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+Los proyectiles pueden romper bloques,Projectiles can break blocks,en-US
+Límite de bloques modificables por comandos,Command modification block limit,en-US
+Límite de comandos encadenados,Command chain size limit,en-US
+Límite de contextos del comando,Command context limit,en-US
+Límite de entidades por bloque,Entity cramming threshold,en-US
+Lập tức hồi sinh,Respawn immediately,en-US
+Mantener inventario tras morir,Keep inventory after death,en-US
+Manter o inventário ao morrer,Keep inventory after death,en-US
+"Maximale Anzahl an Befehlsrahmen, die von Befehlen wie „execute as“ benutzt werden können.",Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+Mercanti ambulanti,Spawn Wandering Traders,en-US
+Messages de mort,Show death messages,en-US
+Messaggi di morte,Show death messages,en-US
+Mob,Mobs,en-US
+Mobがアイテムや経験値オーブをドロップするかを設定できます。,"Controls resource drops from mobs, including experience orbs.",en-US
+Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+Mobのアイテムのドロップ,Drop mob loot,en-US
+Mobのスポーン,Spawn mobs,en-US
+Mobの破壊行動の許可,Allow destructive mob actions,en-US
+Mob爆発時にブロックがドロップアイテムを落とさない可能性,"In mob explosions, some blocks won't drop their loot",en-US
+Modifica le regole di gioco,Edit Game Rules,en-US
+Modification des règles de jeu,Edit Game Rules,en-US
+Modifications des règles de jeu,Game Rule Changes,en-US
+Monster erzeugen,Spawn Monsters,en-US
+Mostrar mensagens de morte,Show death messages,en-US
+Mostrar mensajes de muerte,Show death messages,en-US
+Mostrar respostas dos comandos,Send command feedback,en-US
+Mostri,Spawn Monsters,en-US
+Mudanças nas regras do jogo,Game Rule Changes,en-US
+Muhafızlar oluşsun,Spawn Wardens,en-US
+Mặc định: %s,Default: %s,en-US
+Một vài thực thể có thể sẽ có luật riêng biệt.,Some entities might have separate rules.,en-US
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+Natura,World Updates,en-US
+Nether'a İzin Ver,Allow Nether,en-US
+Netherportal‐Verzögerung,Player's Nether Portal delay in non-creative mode,en-US
+Netherportal‐Verzögerung im Kreativmodus,Player's Nether Portal delay in creative mode,en-US
+Netherportal‐Zugang,Allow Nether,en-US
+Người chơi,Player,en-US
+Ngưỡng nhồi nhét thực thể,Entity cramming threshold,en-US
+Ngọc Ender được ném ra biến mất khi chết,Thrown Ender Pearls vanish on death,en-US
+No se pueden cambiar las reglas del juego en modo extremo.,Cannot change game rules in a hardcore world.,en-US
+Notificar uso de bloques de comandos,Broadcast command block output,en-US
+Notificar uso de comandos de admin.,Broadcast admin commands,en-US
+Numero di chunk che rimangono caricati intorno al punto di generazione globale.,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+Numero massimo di blocchi che possono essere cambiati contemporaneamente da un solo comando (come «/fill» o «/clone»).,"The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+Numero massimo di contesti che possono essere usati da comandi come «/execute as».,Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+Não largar todos os itens com explosões de blocos,"In block interaction explosions, some blocks won't drop their loot",en-US
+Não largar todos os itens com explosões de criaturas,"In mob explosions, some blocks won't drop their loot",en-US
+Não largar todos os itens com explosões de TNT,"In TNT explosions, some blocks won't drop their loot",en-US
+"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+Número máximo de entidades agrupadas,Entity cramming threshold,en-US
+Nước chuyển thành nguồn,Water converts to source,en-US
+"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.","The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,The radius in blocks around a player in which fire can spread.,en-US
+Obergrenze für Befehlsketten,Command chain size limit,en-US
+Obergrenze für Befehlsrahmen,Command context limit,en-US
+Obergrenze für Objektgedränge,Entity cramming threshold,en-US
+Objektausbeute fallen lassen,Drop entity equipment,en-US
+Obtención de objetos,Drops,en-US
+Obtener botín de criaturas,Drop mob loot,en-US
+Obteniendo las reglas del juego...,Retrieving game rules...,en-US
+Oluşum,Spawning,en-US
+Oyun kuralları alınıyor,Retrieving game rules...,en-US
+Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,Updating game rules requires operator permissions.,en-US
+Oyun Kurallarını Düzenle,Edit Game Rules,en-US
+Oyun Kurallarını Düzenle...,Edit Game Rules...,en-US
+Oyun Kuralı Değişiklikleri,Game Rule Changes,en-US
+Oyuncu,Player,en-US
+Oyuncu etrafında ateş yayılabilen blok yarıçapı.,The radius in blocks around a player in which fire can spread.,en-US
+Oyuncu hareket denetimini kapat,Disable player movement check,en-US
+Oyuncu hareketini denetle,Do player movement check,en-US
+Oyuncu Konum Çubuğunu aç,Enable player Locator Bar,en-US
+Oyunculardan uzakta ateş yayılabilsin,Tick fire away from players,en-US
+Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,Controls whether players are allowed to damage other players.,en-US
+Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,Controls the size of the area around the spawn point that players can spawn in.,en-US
+Oyuncuların Nether'a girebilmesini kontrol eder.,Controls whether players are allowed to enter the Nether.,en-US
+Padrão: %s,Default: %s,en-US
+Par défaut : %s,Default: %s,en-US
+Pattuglie di predoni,Spawn pillager patrols,en-US
+Percentuale di giocatori addormentati,Sleep percentage,en-US
+Perdita dei rilasci con le esplosioni dei blocchi,"In block interaction explosions, some blocks won't drop their loot",en-US
+Perdita dei rilasci con le esplosioni delle creature,"In mob explosions, some blocks won't drop their loot",en-US
+Perdita dei rilasci con le esplosioni di TNT,"In TNT explosions, some blocks won't drop their loot",en-US
+Perdoar jogadores mortos,Forgive dead players,en-US
+Perdonar jugadores muertos,Forgive dead players,en-US
+Perdono dei giocatori morti,Forgive dead players,en-US
+"Permet aux entités avec des passagers de se téléporter au travers des portails du Nether et de l'End, et des passerelles de l'End.","Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+"Permite a las entidades viajar con pasajeros a través de portales del Nether, del End y nexos del End.","Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.","Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+"Permite que se recupere una entidad al romperla. Afecta a vagonetas (incluyendo sus inventarios), marcos, barcas, etc.","Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+Permitir acesso ao Nether,Allow Nether,en-US
+Permitir ativação e explosão de TNT,Allow TNT to be activated and to explode,en-US
+Permitir ações destrutivas de criaturas,Allow destructive mob actions,en-US
+Permitir bloques de comandos,Enable Command Blocks,en-US
+Permitir explosiones de dinamita,Allow TNT to be activated and to explode,en-US
+Permitir generadores de criaturas,Enable Spawner Blocks,en-US
+Permitir JcJ (PvP),Enable pvp,en-US
+Permitir Nether,Allow Nether,en-US
+Permitir que las criaturas destruyan,Allow destructive mob actions,en-US
+Perte de butin dans les explosions de blocs,"In block interaction explosions, some blocks won't drop their loot",en-US
+Perte de butin dans les explosions de créatures,"In mob explosions, some blocks won't drop their loot",en-US
+Perte de butin dans les explosions de TNT,"In TNT explosions, some blocks won't drop their loot",en-US
+Phantome erzeugen,Spawn phantoms,en-US
+Plünderer‐Patrouillen erzeugen,Spawn pillager patrols,en-US
+Por defecto: %s,Default: %s,en-US
+Porcentagem de sono,Sleep percentage,en-US
+Porcentaje de jugadores para dormir,Sleep percentage,en-US
+Portalnutzung durch Objekte mit Passagieren,Entities with passengers can use portals,en-US
+Pourcentage de joueurs endormis,Sleep percentage,en-US
+Predefinito: %s,Default: %s,en-US
+Progressi annunciati,Announce advancements,en-US
+Progrès annoncés,Announce advancements,en-US
+Propagación de enredaderas,Vines spread,en-US
+Propagación del fuego,Update fire,en-US
+Propagation des lianes,Vines spread,en-US
+Propagation du feu,Update fire,en-US
+Propagazione dei rampicanti,Vines spread,en-US
+Propagazione del fuoco,Update fire,en-US
+Propagazione distante del fuoco,Tick fire away from players,en-US
+Propagação de trepadeiras,Vines spread,en-US
+Propagação distante de fogo,Tick fire away from players,en-US
+Propagação do fogo,Update fire,en-US
+PvP,Enable pvp,en-US
+pvp 켜기,Enable pvp,en-US
+Pvp'yi etkinleştir,Enable pvp,en-US
+PvPの有効化,Enable pvp,en-US
+"Quando attiva, viene mostrata una barra sullo schermo per indicare la posizione dei giocatori.","When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.","When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+"Quando il TNT causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+"Quando l'acqua corrente è circondata da sorgenti d'acqua su due lati, si trasforma in sorgente.","When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+"Quando l'interazione con blocchi causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+"Quando la lava colante è circondata da sorgenti di lava su due lati, si trasforma in sorgente.","When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+"Quando le creature causano esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+"Quando nevica, la neve si accumulerà a terra fino al numero massimo di strati specificato.","When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+Quebrar blocos com projéteis,Projectiles can break blocks,en-US
+Rabbia generale,Universal anger,en-US
+Radio de propagación del fuego,Fire spread radius,en-US
+Radio del punto de reaparición,Respawn location radius,en-US
+Radio del punto de reaparición,Spawn chunk radius,en-US
+Radius des Wiedereinstiegsbereichs,Respawn location radius,en-US
+Raggio dei chunk di generazione,Spawn chunk radius,en-US
+Raggio del punto di rinascita,Respawn location radius,en-US
+Raggio di propagazione del fuoco intorno al giocatore,Fire spread radius,en-US
+Raio de propagação do fogo,Fire spread radius,en-US
+Raio do ponto de renascimento,Respawn location radius,en-US
+Raio dos chunks ao renascer,Spawn chunk radius,en-US
+Rankenausbreitung,Vines spread,en-US
+Rastgele zaman birimi ilerleme oranı,Random tick speed rate,en-US
+Rayon de la zone de réapparition,Respawn location radius,en-US
+Rayon de propagation du feu,Fire spread radius,en-US
+Rayon des chunks d'apparition,Spawn chunk radius,en-US
+Reaparición instantánea,Respawn immediately,en-US
+Recette requise pour fabriquer,Require recipe for crafting,en-US
+Recupero delle regole di gioco...,Retrieving game rules...,en-US
+Reducir datos de F3,Reduce debug info,en-US
+Reduz o conteúdo da tela de depuração.,Limits contents of debug screen.,en-US
+Reduzir informações de depuração,Reduce debug info,en-US
+Regenerar salud,Regenerate health,en-US
+Regenerar vida,Regenerate health,en-US
+Registrazione dei comandi degli operatori,Broadcast admin commands,en-US
+Regole di gioco,Game Rule Changes,en-US
+Regole di gioco...,Edit Game Rules...,en-US
+Renascer imediatamente,Respawn immediately,en-US
+Rezepte zur Herstellung benötigt,Require recipe for crafting,en-US
+Rigenerazione della salute,Regenerate health,en-US
+Rilasci,Drops,en-US
+Rilasci dei blocchi,Drop blocks,en-US
+Rilasci delle creature,Drop mob loot,en-US
+Rilasci delle entità,Drop entity equipment,en-US
+Rinascita immediata,Respawn immediately,en-US
+Risposte dei comandi,Send command feedback,en-US
+Ritardo dei portali del Nether,Player's Nether Portal delay in non-creative mode,en-US
+Ritardo dei portali del Nether in modalità creativa,Player's Nether Portal delay in creative mode,en-US
+Règles de jeu...,Edit Game Rules...,en-US
+Réapparition immédiate,Respawn immediately,en-US
+Récupération des règles de jeu...,Retrieving game rules...,en-US
+Régénération de la vie,Regenerate health,en-US
+Résultat des commandes,Send command feedback,en-US
+Rơi ra,Drops,en-US
+Rơi ra khối,Drop blocks,en-US
+Rơi ra lợi phẩm của sinh vật,Drop mob loot,en-US
+Rơi ra trang bị của thực thể,Drop entity equipment,en-US
+S'applique aux blocs de commande en chaîne et aux fonctions.,Applies to command block chains and functions.,en-US
+"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.","Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+Sarmaşıklar yayılsın,Vines spread,en-US
+Sağlık yenilensin,Regenerate health,en-US
+Schaden durch Ertrinken,Deal drowning damage,en-US
+Schlafquote,Sleep percentage,en-US
+Schneedeckenhöhe,Snow accumulation height,en-US
+Scomparsa alla morte delle perle di ender già lanciate,Thrown Ender Pearls vanish on death,en-US
+Se aplica a las cadenas de bloques de comandos y funciones.,Applies to command block chains and functions.,en-US
+"Se attivata, i giocatori possono fabbricare oggetti solo seguendo le ricette sbloccate.","If enabled, players will be able to craft only unlocked recipes.",en-US
+Seyircilerin arazi oluşturmasına izin verilsin,Allow spectators to generate terrain,en-US
+Seyyar Tüccarlar oluşsun,Spawn Wandering Traders,en-US
+"Si activée, les joueurs ne pourront fabriquer qu'à partir des recettes débloquées.","If enabled, players will be able to craft only unlocked recipes.",en-US
+"Si activée, une barre s'affiche à l'écran pour indiquer la position des joueurs.","When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+Si applica a blocchi comandi a catena e funzioni.,Applies to command block chains and functions.,en-US
+"Si se activa, solo se podrán fabricar recetas aprendidas.","If enabled, players will be able to craft only unlocked recipes.",en-US
+Sinh ra,Spawning,en-US
+Sinh ra kẻ cai ngục,Spawn Wardens,en-US
+Sinh ra kẻ cướp tuần tra,Spawn pillager patrols,en-US
+Sinh ra phantom,Spawn phantoms,en-US
+Sinh ra quái vật,Spawn Monsters,en-US
+Sinh ra sinh vật,Spawn mobs,en-US
+Sinh ra thương nhân lang thang,Spawn Wandering Traders,en-US
+Sinh vật,Mobs,en-US
+Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+Sofortiger Wiedereinstieg,Respawn immediately,en-US
+Sohbet,Chat,en-US
+Soltar objetos al romper bloques,Drop blocks,en-US
+Soltar objetos al romper entidades,Drop entity equipment,en-US
+Sortie des blocs de commande,Broadcast command block output,en-US
+Sorveglianti,Spawn Wardens,en-US
+Spawner,Enable Spawner Blocks,en-US
+Spieler,Player,en-US
+Spielerbewegung nicht überprüfen,Disable player movement check,en-US
+Spielerortungsleiste aktivieren,Enable player Locator Bar,en-US
+Spieler‐Bewegungsprüfung,Do player movement check,en-US
+Spielregeln bearbeiten,Edit Game Rules,en-US
+Spielregeln bearbeiten …,Edit Game Rules...,en-US
+Spielregeln werden abgerufen …,Retrieving game rules...,en-US
+Stabilisce se le perle di ender lanciate da un giocatore scompaiono alla morte di quest'ultimo.,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+Standard: %s,Default: %s,en-US
+"Steuert die Größe des Bereichs um den Einstiegspunkt, in dem Spieler in die Welt einsteigen können.",Controls the size of the area around the spawn point that players can spawn in.,en-US
+"Steuert, ob aufprallende Geschosse Blöcke zerstören, die durch sie zerstörbar wären.",Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+"Steuert, ob Blöcke ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).","Controls resource drops from blocks, including experience orbs.",en-US
+"Steuert, ob Feuer und Lava in einer Entfernung von mehr als 8 Chunks von einem Spieler aktualisiert werden",Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+"Steuert, ob Kreaturen ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).","Controls resource drops from mobs, including experience orbs.",en-US
+"Steuert, ob Loren, Rahmen, Boote usw. ihre Ausbeute fallen lassen (einschließlich Inventaren).","Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+"Steuert, ob Monster natürlich erscheinen.",Controls whether monsters naturally spawn.,en-US
+"Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.","Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+"Steuert, ob Spieler anderen Spielern Schaden zufügen können.",Controls whether players are allowed to damage other players.,en-US
+"Steuert, ob Spieler den Nether durch Portale betreten können.",Controls whether players are allowed to enter the Nether.,en-US
+"Steuert, ob vom Spieler geworfene Enderperlen verschwinden, wenn dieser stirbt.",Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+"Su, kaynağa dönüşsün",Water converts to source,en-US
+Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,"The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+Sự kiện âm thanh toàn cầu,Global sound events,en-US
+Taxa de velocidade de tiques aleatórios,Random tick speed rate,en-US
+Tchat,Chat,en-US
+Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,"Controls resource drops from blocks, including experience orbs.",en-US
+Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,"Controls resource drops from mobs, including experience orbs.",en-US
+Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Tempo (in tick) che un giocatore in modalità creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Tempo (in tick) che un giocatore in modalità diverse dalla creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Tempo atmosferico,Update weather,en-US
+Tha thứ cho người chơi đã chết,Forgive dead players,en-US
+Thay đổi luật chơi,Game Rule Changes,en-US
+Thông báo tiến trình,Announce advancements,en-US
+Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Thời gian trong ngày trôi đi,Advance time of day,en-US
+Thực thể với hành khách có thể sử dụng cổng,Entities with passengers can use portals,en-US
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modo creativo para cambiar de dimensión.,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modos que no sean creativo para cambiar de dimensión.,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+"TNT patlamalarında, bazı bloklar düşmesin","In TNT explosions, some blocks won't drop their loot",en-US
+"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음","In TNT explosions, some blocks won't drop their loot",en-US
+TNT‐Explosionsausbeute verschwindet,"In TNT explosions, some blocks won't drop their loot",en-US
+TNT’nin etkinleştirilmesine ve patlamasına izin ver,Allow TNT to be activated and to explode,en-US
+TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+TNTの点火及び爆発の許可,Allow TNT to be activated and to explode,en-US
+TNT爆発時にブロックがドロップアイテムを落とさない可能性,"In TNT explosions, some blocks won't drop their loot",en-US
+"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+TNT의 점화 및 폭발 허용,Allow TNT to be activated and to explode,en-US
+Todesmeldungen anzeigen,Show death messages,en-US
+"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.","When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.","When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+Transformar lava em fonte,Lava converts to source,en-US
+Transformar água em fonte,Water converts to source,en-US
+Transformation de l'eau en source,Water converts to source,en-US
+Transformation de la lave en source,Lava converts to source,en-US
+"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm","In block interaction explosions, some blocks won't drop their loot",en-US
+"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm","In mob explosions, some blocks won't drop their loot",en-US
+"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm","In TNT explosions, some blocks won't drop their loot",en-US
+Truyền đi lệnh quản trị,Broadcast admin commands,en-US
+Truyền đi đầu ra của khối lệnh,Broadcast command block output,en-US
+Trò chuyện,Chat,en-US
+Téléportation des entités avec des passagers à travers les portails,Entities with passengers can use portals,en-US
+Tắt các cuộc xâm lược,Disable raids,en-US
+Tắt kiểm tra chuyển động của cánh cứng,Disable elytra movement check,en-US
+Tắt kiểm tra chuyển động của người chơi,Disable player movement check,en-US
+Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,The percentage of players who must be sleeping to skip the night.,en-US
+Tỉ lệ phần trăm ngủ,Sleep percentage,en-US
+Tỉ lệ tốc độ nhịp ngẫu nhiên,Random tick speed rate,en-US
+Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,Maximum default speed of a moving Minecart on land.,en-US
+Tốc độ tối đa của xe mỏ,Minecart max speed,en-US
+Uyuma yüzdesi,Sleep percentage,en-US
+"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.","Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+Varie,Miscellaneous,en-US
+Varios,Miscellaneous,en-US
+Varlık ekipmanı düşsün,Drop entity equipment,en-US
+Varlık sıkışması alt sınırı,Entity cramming threshold,en-US
+Varsayılan: %s,Default: %s,en-US
+Velocidad de tics al azar,Random tick speed rate,en-US
+Velocidad máxima de las vagonetas,Minecart max speed,en-US
+Velocidad máxima por defecto de una vagoneta por tierra.,Maximum default speed of a moving Minecart on land.,en-US
+Velocidade máxima do Carrinho de Mina,Minecart max speed,en-US
+Velocidade padrão máxima de um Carrinho de Mina no solo.,Maximum default speed of a moving Minecart on land.,en-US
+Velocità massima dei vagonetti,Minecart max speed,en-US
+Velocità massima predefinita di un vagonetto in movimento.,Maximum default speed of a moving Minecart on land.,en-US
+Verifica dei movimenti dei giocatori,Do player movement check,en-US
+Verifica dei movimenti dei giocatori disattivata,Disable player movement check,en-US
+Verifica del volo con le elitre,Do elytra movement check,en-US
+Verifica del volo con le elitre disattivata,Disable elytra movement check,en-US
+Verificação de movimentos do jogador,Do player movement check,en-US
+Verificação de movimentos dos Élitros,Do elytra movement check,en-US
+Verschiedenes,Miscellaneous,en-US
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgive_dead_players deaktiviert ist.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgiveDeadPlayers deaktiviert ist.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+"Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.",Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+Vitesse des ticks aléatoires,Random tick speed rate,en-US
+Vitesse maximale des wagonnets,Minecart max speed,en-US
+Você não pode alterar as regras do jogo em mundos no modo Intenso.,Cannot change game rules in a hardcore world.,en-US
+Von Spielern entferntes Feuer aktualisieren,Tick fire away from players,en-US
+Voranschreiten der Tageszeit,Advance time of day,en-US
+Voulez-vous vraiment abandonner les modifications en cours des règles de jeu ?,Are you sure you want to discard your pending game rule changes?,en-US
+Vuoi davvero annullare le modifiche in sospeso alle regole di gioco?,Are you sure you want to discard your pending game rule changes?,en-US
+Vérification des mouvements du joueur,Do player movement check,en-US
+Vérification du vol en élytres,Do elytra movement check,en-US
+Vérification désactivée des mouvements du joueur,Disable player movement check,en-US
+Vérification désactivée du vol en élytres,Disable elytra movement check,en-US
+Vật bắn ra có thể phá khối,Projectiles can break blocks,en-US
+Wasser‐Erneuerbarkeit,Water converts to source,en-US
+Weltaktualisierungen,World Updates,en-US
+Weltweite Geräuschereignisse,Global sound events,en-US
+"Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen.","If enabled, players will be able to craft only unlocked recipes.",en-US
+"Wenn aktiviert, zeigt eine Leiste auf dem Bildschirm die Richtung der Mitspieler an.","When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+"Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.","When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+"Wenn es schneit, entsteht auf dem Boden eine Schneedecke, die höchstens diese Anzahl von Schichten erreicht.","When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+"Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, wird sie zu einer Quelle.","When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+"Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, wird es zu einer Quelle.","When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+Wetterwechsel,Update weather,en-US
+Wird auf Befehlsblockketten und Funktionen angewandt.,Applies to command block chains and functions.,en-US
+Wärter erzeugen,Spawn Wardens,en-US
+Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,Player's Nether Portal delay in creative mode,en-US
+Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,Player's Nether Portal delay in non-creative mode,en-US
+Yağmacı devriyeleri oluşsun,Spawn pillager patrols,en-US
+Yeniden canlanma yeri çevresi,Respawn location radius,en-US
+"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.","Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+Yolcusu olan varlıklar geçitlerden geçebilir,Entities with passengers can use portals,en-US
+Yêu cầu công thức chế tạo,Require recipe for crafting,en-US
+Yönetici komutları gösterilsin,Broadcast admin commands,en-US
+"Zeit (in Ticks), die ein Spieler außerhalb des Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+"Zeit (in Ticks), die ein Spieler im Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Zerstörung durch Kreaturen,Allow destructive mob actions,en-US
+Zorlayıcı dünyada oyun kuralları değiştirilemez.,Cannot change game rules in a hardcore world.,en-US
+Zuschauer generieren Landschaft,Allow spectators to generate terrain,en-US
+¿Seguro que quieres descartar tus cambios?,Are you sure you want to discard your pending game rule changes?,en-US
+Áp dụng cho chuỗi khối lệnh và hàm.,Applies to command block chains and functions.,en-US
+Änderungen der Spielregeln,Game Rule Changes,en-US
+Çağırıcı Bloklarını Etkinleştir,Enable Spawner Blocks,en-US
+Çeşitli,Miscellaneous,en-US
+Événements sonores globaux,Global sound events,en-US
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+Öldükten sonra envanteri koru,Keep inventory after death,en-US
+Ölü oyuncular affedilsin,Forgive dead players,en-US
+Ölüm iletileri gösterilsin,Show death messages,en-US
+Überfälle,Do raids,en-US
+Überfälle deaktivieren,Disable raids,en-US
+Üretim için tarif gereksin,Require recipe for crafting,en-US
+Đang truy xuất luật chơi...,Retrieving game rules...,en-US
+Đếm nhịp lửa cách xa người chơi,Tick fire away from players,en-US
+Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,Player's Nether Portal delay in non-creative mode,en-US
+Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,Player's Nether Portal delay in creative mode,en-US
+Активация и взрыв динамита,Allow TNT to be activated and to explode,en-US
+Влияет на выпадение предметов и сфер опыта из блоков.,"Controls resource drops from blocks, including experience orbs.",en-US
+Влияет на выпадение предметов и сфер опыта из мобов.,"Controls resource drops from mobs, including experience orbs.",en-US
+"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.","Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+"Влияет на потерю предметов, выпавших после взрыва динамита.",Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+"Влияет на потерю предметов, выпавших после взрыва моба.",Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.","Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.","When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+Возобновление источников воды,Water converts to source,en-US
+Возобновление источников лавы,Lava converts to source,en-US
+Время прохождения портала Незера в творческом режиме,Player's Nether Portal delay in creative mode,en-US
+Время прохождения портала Незера вне творческого режима,Player's Nether Portal delay in non-creative mode,en-US
+Вы действительно хотите отменить изменения игровых правил?,Are you sure you want to discard your pending game rule changes?,en-US
+Выпадение блоков,Drop blocks,en-US
+Выпадение добычи из мобов,Drop mob loot,en-US
+Выпадение ресурсов,Drops,en-US
+Выпадение экипировки сущностей,Drop entity equipment,en-US
+Высота снежного покрова,Snow accumulation height,en-US
+Генерация мира наблюдателями,Allow spectators to generate terrain,en-US
+Глобальные звуковые события,Global sound events,en-US
+Доступ в Незер,Allow Nether,en-US
+"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.","If enabled, players will be able to craft only unlocked recipes.",en-US
+Загрузка игровых правил...,Retrieving game rules...,en-US
+Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+Запись команд администраторов,Broadcast admin commands,en-US
+Затрагивает цепочки командных блоков и функции.,Applies to command block chains and functions.,en-US
+Игровые правила...,Edit Game Rules...,en-US
+Игрок,Player,en-US
+Изменение игровых правил в Хардкоре недоступно.,Cannot change game rules in a hardcore world.,en-US
+Изменение игровых правил требует прав оператора.,Updating game rules requires operator permissions.,en-US
+Изменения игровых правил,Game Rule Changes,en-US
+Изменения погоды,Update weather,en-US
+Использование командных блоков,Enable Command Blocks,en-US
+Использование порталов сущностями с пассажирами,Entities with passengers can use portals,en-US
+Исчезновение брошенного эндер-жемчуга при смерти,Thrown Ender Pearls vanish on death,en-US
+"Когда включено, на экране отображается локатор, указывающий на расположение игроков.","When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+Командные блоки,Enable Command Blocks,en-US
+Локатор игроков,Enable player Locator Bar,en-US
+Максимальная базовая скорость движения вагонетки по земле.,Maximum default speed of a moving Minecart on land.,en-US
+Максимальная скорость вагонетки,Minecart max speed,en-US
+"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.","The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+Малый экран отладки,Reduce debug info,en-US
+Мгновенное возрождение,Respawn immediately,en-US
+Мобы,Mobs,en-US
+Настройка игровых правил,Edit Game Rules,en-US
+Обновление огня вдали от игроков,Tick fire away from players,en-US
+Обновления мира,World Updates,en-US
+Ограничение длины цепи команд,Command chain size limit,en-US
+Ограничение изменения блоков командой,Command modification block limit,en-US
+Ограничение контекста команд,Command context limit,en-US
+Ограничение содержания экрана отладки.,Limits contents of debug screen.,en-US
+Окружённая двумя источниками текущая вода образует третий.,"When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+Окружённая двумя источниками текущая лава образует третий.,"When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+Оповещения о достижениях,Announce advancements,en-US
+"Определяет, могут ли игроки входить в Незер.",Controls whether players are allowed to enter the Nether.,en-US
+"Определяет, могут ли игроки наносить урон другим игрокам.",Controls whether players are allowed to damage other players.,en-US
+"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+"Определяет, появляются ли монстры сами по себе.",Controls whether monsters naturally spawn.,en-US
+Отключение проверки движения игрока,Disable player movement check,en-US
+Отключение проверки на элитрах,Disable elytra movement check,en-US
+Отключение рейдов,Disable raids,en-US
+Отображение сообщений команд,Send command feedback,en-US
+Патрули разбойников,Spawn pillager patrols,en-US
+По умолчанию: %s,Default: %s,en-US
+"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.","Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+Потеря части добычи от взрыва при использовании блока,"In block interaction explosions, some blocks won't drop their loot",en-US
+Потеря части добычи при взрыве динамита,"In TNT explosions, some blocks won't drop their loot",en-US
+Потеря части добычи при взрыве моба,"In mob explosions, some blocks won't drop their loot",en-US
+Появление,Spawning,en-US
+Появление мобов,Spawn mobs,en-US
+Появление монстров,Spawn Monsters,en-US
+Появление фантомов,Spawn phantoms,en-US
+Появление хранителей,Spawn Wardens,en-US
+Предел сущностей в одном блоке,Entity cramming threshold,en-US
+"Предельное число слоёв снега, образующихся во время снегопада.","When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+Проверка движения игрока,Do player movement check,en-US
+Проверка движения на элитрах,Do elytra movement check,en-US
+"Процент игроков, которым нужно спать для пропуска ночи.",The percentage of players who must be sleeping to skip the night.,en-US
+Процент спящих,Sleep percentage,en-US
+Прощение умерших игроков,Forgive dead players,en-US
+"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",The radius in blocks around a player in which fire can spread.,en-US
+Радиус невыгружаемой области вокруг точек возрождения игроков.,Controls the size of the area around the spawn point that players can spawn in.,en-US
+Радиус невыгружаемой области вокруг точки возрождения мира.,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+Радиус области возрождения,Respawn location radius,en-US
+Радиус распространения огня,Fire spread radius,en-US
+Радиус чанков возрождения мира,Spawn chunk radius,en-US
+Разное,Miscellaneous,en-US
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+Разрушительные действия мобов,Allow destructive mob actions,en-US
+Распространение лианы,Vines spread,en-US
+Распространение огня,Update fire,en-US
+Рассадники,Enable Spawner Blocks,en-US
+Регенерация здоровья,Regenerate health,en-US
+"Регулирует, разрушаются ли определённые блоки от удара снаряда.",Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+Рейды,Do raids,en-US
+Слепая ярость,Universal anger,en-US
+Смена дня и ночи,Advance time of day,en-US
+Снаряды могут разрушать блоки,Projectiles can break blocks,en-US
+Создание только по рецепту,Require recipe for crafting,en-US
+Сообщения командных блоков,Broadcast command block output,en-US
+Сообщения о смерти,Show death messages,en-US
+Сохранение инвентаря при смерти,Keep inventory after death,en-US
+Странствующие торговцы,Spawn Wandering Traders,en-US
+У некоторых сущностей могут быть свои игровые правила.,Some entities might have separate rules.,en-US
+Урон от замерзания,Deal freeze damage,en-US
+Урон от огня,Deal fire damage,en-US
+Урон от падения,Deal fall damage,en-US
+Урон от утопления,Deal drowning damage,en-US
+Частота случайных тактов,Random tick speed rate,en-US
+Чат,Chat,en-US
+การดรอป,Drops,en-US
+การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,Updating game rules requires operator permissions.,en-US
+การอัปเดตของโลก,World Updates,en-US
+การเกิด,Spawning,en-US
+การโกรธทุกคน,Universal anger,en-US
+กำลังดึงข้อมูลกฎเกม...,Retrieving game rules...,en-US
+ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,"Controls resource drops from blocks, including experience orbs.",en-US
+ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,"Controls resource drops from mobs, including experience orbs.",en-US
+ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,Controls the size of the area around the spawn point that players can spawn in.,en-US
+ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,Controls whether players are allowed to damage other players.,en-US
+ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,Controls whether players are allowed to enter the Nether.,en-US
+ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,Controls whether monsters naturally spawn.,en-US
+ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+ความสูงในการสะสมชั้นหิมะ,Snow accumulation height,en-US
+ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,Maximum default speed of a moving Minecart on land.,en-US
+ความเร็วสูงสุดของรถราง,Minecart max speed,en-US
+คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,Are you sure you want to discard your pending game rule changes?,en-US
+ค่าเริ่มต้น: %s,Default: %s,en-US
+จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,Command chain size limit,en-US
+จำกัดจำนวนบริบทของคำสั่ง,Command context limit,en-US
+จำกัดเนื้อหาของหน้าจอดีบั๊ก,Limits contents of debug screen.,en-US
+จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,"The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,The percentage of players who must be sleeping to skip the night.,en-US
+จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,Entity cramming threshold,en-US
+ดรอปของจากเอนทิตี้,Drop entity equipment,en-US
+ดรอปลูตของม็อบ,Drop mob loot,en-US
+ดาเมจจากการจมน้ำ,Deal drowning damage,en-US
+ดาเมจจากการตกจากที่สูง,Deal fall damage,en-US
+ดาเมจจากความเย็น,Deal freeze damage,en-US
+ดาเมจจากไฟ,Deal fire damage,en-US
+ดำเนินวัฏจักรกลางวัน-กลางคืน,Advance time of day,en-US
+ตรวจสอบการเคลื่อนที่ของผู้เล่น,Do player movement check,en-US
+ตรวจสอบความเร็วขณะบินด้วยปีก,Do elytra movement check,en-US
+ตายของไม่ตก,Keep inventory after death,en-US
+ต้องมีสูตรสำหรับการคราฟต์,Require recipe for crafting,en-US
+บล็อกดรอป,Drop blocks,en-US
+ประกาศความก้าวหน้า,Announce advancements,en-US
+ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,Player's Nether Portal delay in non-creative mode,en-US
+ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,Player's Nether Portal delay in creative mode,en-US
+ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,Disable player movement check,en-US
+ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,Disable elytra movement check,en-US
+ปิดการปล้นสะดม,Disable raids,en-US
+ผู้เล่น,Player,en-US
+ฟื้นฟูเลือดตามธรรมชาติ,Regenerate health,en-US
+มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,Applies to command block chains and functions.,en-US
+ม็อบ,Mobs,en-US
+ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""","Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+รัศมีการลุกลามของไฟ,Fire spread radius,en-US
+รัศมีจุดเกิด,Respawn location radius,en-US
+รัศมีชังก์จุดเกิด,Spawn chunk radius,en-US
+รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,The radius in blocks around a player in which fire can spread.,en-US
+ลดการแสดงข้อมูลดีบั๊ก,Reduce debug info,en-US
+วัตถุพุ่งสามารถทำลายบล็อกได้,Projectiles can break blocks,en-US
+หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,"If enabled, players will be able to craft only unlocked recipes.",en-US
+อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,Allow TNT to be activated and to explode,en-US
+อนุญาตให้เข้าเนเธอร์,Allow Nether,en-US
+อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+อภัยผู้เล่นที่ตายแล้ว,Forgive dead players,en-US
+อัตราความเร็วติ๊กแบบสุ่ม,Random tick speed rate,en-US
+อัปเดตสภาพอากาศ,Update weather,en-US
+อัปเดตไฟ,Update fire,en-US
+เกิดใหม่ทันที,Respawn immediately,en-US
+เบ็ดเตล็ด,Miscellaneous,en-US
+เปลี่ยนแปลงกฎเกม,Game Rule Changes,en-US
+เปอร์เซ็นต์ของผู้เล่นนอน,Sleep percentage,en-US
+เปิดการปล้นสะดม,Do raids,en-US
+เปิดใช้งาน PvP,Enable pvp,en-US
+เปิดใช้งานบล็อกกรงกำเนิด,Enable Spawner Blocks,en-US
+เปิดใช้งานบล็อกคำสั่ง,Enable Command Blocks,en-US
+เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,Enable player Locator Bar,en-US
+เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,"When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,"When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,"When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,"When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,"When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+เหตุการณ์เสียงดังไปทั่ว,Global sound events,en-US
+เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,Entities with passengers can use portals,en-US
+เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,Some entities might have separate rules.,en-US
+แก้ไขกฎเกม,Edit Game Rules,en-US
+แก้ไขกฎเกม...,Edit Game Rules...,en-US
+แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,Command modification block limit,en-US
+แชต,Chat,en-US
+แสดงข้อความการตาย,Show death messages,en-US
+แสดงบันทึกคำสั่งของแอดมิน,Broadcast admin commands,en-US
+แสดงผลป้อนกลับคำสั่ง,Send command feedback,en-US
+แสดงเอาต์พุตของบล็อกคำสั่ง,Broadcast command block output,en-US
+ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"In block interaction explosions, some blocks won't drop their loot",en-US
+ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"In mob explosions, some blocks won't drop their loot",en-US
+ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"In TNT explosions, some blocks won't drop their loot",en-US
+ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+ให้กองโจรลาดตระเวนเกิด,Spawn pillager patrols,en-US
+ให้น้ำไหลกลายเป็นแหล่งน้ำได้,Water converts to source,en-US
+ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,Allow spectators to generate terrain,en-US
+ให้พ่อค้าเร่ร่อนเกิด,Spawn Wandering Traders,en-US
+ให้มอนสเตอร์เกิด,Spawn Monsters,en-US
+ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,Allow destructive mob actions,en-US
+ให้ม็อบเกิด,Spawn mobs,en-US
+ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,Lava converts to source,en-US
+ให้วอร์เดนเกิด,Spawn Wardens,en-US
+ให้เถาวัลย์แพร่,Vines spread,en-US
+ให้แฟนท่อมเกิด,Spawn phantoms,en-US
+ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,Tick fire away from players,en-US
+ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,Thrown Ender Pearls vanish on death,en-US
+ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,Cannot change game rules in a hardcore world.,en-US
+’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+“execute as”等命令可以使用的上下文数量最大值。,Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+「execute as」などのコマンドで使用できる実行文脈の最大数,Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+「execute as」等指令使用的上下文最大數量。,Maximum number of contexts that can be used by commands like 'execute as'.,en-US
+その他,Miscellaneous,en-US
+どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+ウォーデンのスポーン,Spawn Wardens,en-US
+エリトラの速度チェック,Do elytra movement check,en-US
+エリトラの速度チェックの無効化,Disable elytra movement check,en-US
+エンティティの最大密集数,Entity cramming threshold,en-US
+オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+クラフトにレシピを要求,Require recipe for crafting,en-US
+クリエイティブモードでのネザーポータルの待機時間,Player's Nether Portal delay in creative mode,en-US
+クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+ゲームルールの変更,Game Rule Changes,en-US
+ゲームルールの更新には管理者権限が必要です。,Updating game rules requires operator permissions.,en-US
+ゲームルールを取得中…,Retrieving game rules...,en-US
+ゲームルールを編集,Edit Game Rules,en-US
+ゲームルールを編集…,Edit Game Rules...,en-US
+ゲーム内時刻の進行,Advance time of day,en-US
+コマンドによるブロックの最大変更数,Command modification block limit,en-US
+コマンドの実行結果の表示,Send command feedback,en-US
+コマンドの最大チェーン数,Command chain size limit,en-US
+コマンドの最大実行文脈数,Command context limit,en-US
+コマンドブロックの実行結果の通知,Broadcast command block output,en-US
+コマンドブロックの有効化,Enable Command Blocks,en-US
+スペクテイターモードのプレイヤーによる地形生成の許可,Allow spectators to generate terrain,en-US
+スポナーの有効化,Enable Spawner Blocks,en-US
+スポーン,Spawning,en-US
+スポーンチャンクの半径,Spawn chunk radius,en-US
+スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,Controls the size of the area around the spawn point that players can spawn in.,en-US
+チェーンコマンドブロックや関数に適用されます。,Applies to command block chains and functions.,en-US
+チャット,Chat,en-US
+ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+ツタの成長,Vines spread,en-US
+デバッグ情報の制限,Reduce debug info,en-US
+デフォルト値：%s,Default: %s,en-US
+トロッコの最高速度,Minecart max speed,en-US
+トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+ドロップ,Drops,en-US
+ネザーの許可,Allow Nether,en-US
+ハードコアのワールドではゲームルールを変更できません。,Cannot change game rules in a hardcore world.,en-US
+ファントムのスポーン,Spawn phantoms,en-US
+ブロックがアイテムや経験値オーブをドロップするかを設定できます。,"Controls resource drops from blocks, including experience orbs.",en-US
+ブロックのドロップ,Drop blocks,en-US
+ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,"In block interaction explosions, some blocks won't drop their loot",en-US
+プレイヤー,Player,en-US
+プレイヤーから遠い炎のティック処理,Tick fire away from players,en-US
+プレイヤーがネザーに入ることができるかどうかを設定できます,Controls whether players are allowed to enter the Nether.,en-US
+プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,Controls whether players are allowed to damage other players.,en-US
+プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,The radius in blocks around a player in which fire can spread.,en-US
+プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+プレイヤーの方向バーの有効化,Enable player Locator Bar,en-US
+プレイヤーの速度チェック,Do player movement check,en-US
+プレイヤーの速度チェックの無効化,Disable player movement check,en-US
+プレイヤー死亡時のエンダーパールの消滅,Thrown Ender Pearls vanish on death,en-US
+ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,"When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+モンスターが自然にスポーンするかどうかを設定できます,Controls whether monsters naturally spawn.,en-US
+モンスターのスポーン,Spawn Monsters,en-US
+ランダムティックの発生数,Random tick speed rate,en-US
+リスポーン地点の半径,Respawn location radius,en-US
+ワールドの更新,World Updates,en-US
+ワールド全体のサウンドイベント,Global sound events,en-US
+一些实体可能有其特定的规则。,Some entities might have separate rules.,en-US
+世界更新,World Updates,en-US
+主世界出生点周围保持加载的区块数量。,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+主世界重生點周圍維持載入的區塊數量。,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+体力の自動回復,Regenerate health,en-US
+何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+何かが乗っているエンティティのポータル使用可否,Entities with passengers can use portals,en-US
+你确定要放弃未保存的游戏规则更改吗？,Are you sure you want to discard your pending game rule changes?,en-US
+你確定要捨棄尚未儲存的遊戲規則變更嗎？,Are you sure you want to discard your pending game rule changes?,en-US
+停用玩家移動檢測,Disable player movement check,en-US
+停用突襲,Disable raids,en-US
+停用鞘翅移動檢測,Disable elytra movement check,en-US
+允許 TNT 被點燃並爆炸,Allow TNT to be activated and to explode,en-US
+允許旁觀者生成地形,Allow spectators to generate terrain,en-US
+允許火在遠離玩家處蔓延,Tick fire away from players,en-US
+允許生物的破壞行為,Allow destructive mob actions,en-US
+允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+允許進入地獄,Allow Nether,en-US
+允许TNT被点燃并爆炸,Allow TNT to be activated and to explode,en-US
+允许旁观者生成地形,Allow spectators to generate terrain,en-US
+允许流动水转化为水源,Water converts to source,en-US
+允许流动熔岩转化为熔岩源,Lava converts to source,en-US
+允许火在远离玩家处蔓延,Tick fire away from players,en-US
+允许破坏性生物行为,Allow destructive mob actions,en-US
+允许被骑乘的实体通过下界传送门、末地传送门和末地折跃门传送。,"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+允许进入下界,Allow Nether,en-US
+入睡占比,Sleep percentage,en-US
+全域聲音事件,Global sound events,en-US
+全局声音事件,Global sound events,en-US
+冰冻伤害,Deal freeze damage,en-US
+凍結ダメージ,Deal freeze damage,en-US
+出生区块半径,Spawn chunk radius,en-US
+创造模式下玩家在下界传送门中等待的时间,Player's Nether Portal delay in creative mode,en-US
+创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+創造模式玩家使用地獄傳送門的等待時間,Player's Nether Portal delay in creative mode,en-US
+单条命令（如fill和clone）最多能更改的方块数量。,"The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+即時リスポーン,Respawn immediately,en-US
+原諒死者,Forgive dead players,en-US
+发送命令反馈,Send command feedback,en-US
+合成需要配方,Require recipe for crafting,en-US
+启用PvP,Enable pvp,en-US
+启用刷怪笼方块,Enable Spawner Blocks,en-US
+启用后，屏幕上会显示指示玩家方位的定位栏。,"When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+启用命令方块,Enable Command Blocks,en-US
+启用玩家定位栏,Enable player Locator Bar,en-US
+启用玩家移动检测,Do player movement check,en-US
+启用袭击,Do raids,en-US
+启用鞘翅移动检测,Do elytra movement check,en-US
+命令上下文数量限制,Command context limit,en-US
+命令修改方块数量限制,Command modification block limit,en-US
+命令连锁执行数量限制,Command chain size limit,en-US
+啟用 PvP,Enable pvp,en-US
+啟用後，畫面上會顯示指示玩家方位的定位條。,"When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+啟用指令方塊,Enable Command Blocks,en-US
+啟用玩家定位條,Enable player Locator Bar,en-US
+啟用玩家移動檢測,Do player movement check,en-US
+啟用生怪磚,Enable Spawner Blocks,en-US
+啟用突襲,Do raids,en-US
+啟用鞘翅移動檢測,Do elytra movement check,en-US
+單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,"The number of blocks that can be changed at once by one command, such as fill or clone.",en-US
+回傳指令回饋,Send command feedback,en-US
+在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+在 TNT 的爆炸中，部分方塊不會掉落成戰利品,"In TNT explosions, some blocks won't drop their loot",en-US
+在TNT引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,en-US
+在TNT爆炸中，一些方块不会掉落战利品,"In TNT explosions, some blocks won't drop their loot",en-US
+在与方块交互引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+在方块交互爆炸中，一些方块不会掉落战利品,"In block interaction explosions, some blocks won't drop their loot",en-US
+在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+在生物引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+在生物爆炸中，一些方块不会掉落战利品,"In mob explosions, some blocks won't drop their loot",en-US
+在生物的爆炸中，部分方塊不會掉落成戰利品,"In mob explosions, some blocks won't drop their loot",en-US
+在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,"In block interaction explosions, some blocks won't drop their loot",en-US
+在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+地上を走るトロッコのデフォルトの最高速度,Maximum default speed of a moving Minecart on land.,en-US
+夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,The percentage of players who must be sleeping to skip the night.,en-US
+天气更替,Update weather,en-US
+天気の更新,Update weather,en-US
+套用於連鎖型指令方塊及函數。,Applies to command block chains and functions.,en-US
+实体挤压上限,Entity cramming threshold,en-US
+宽恕死亡玩家,Forgive dead players,en-US
+實體擠壓上限,Entity cramming threshold,en-US
+就寝率,Sleep percentage,en-US
+广播命令方块输出,Broadcast command block output,en-US
+应用于命令方块链和函数。,Applies to command block chains and functions.,en-US
+弹射物能否破坏方块,Projectiles can break blocks,en-US
+愤怒的中立生物将在其目标玩家于附近死亡后息怒。,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用forgive_dead_players可达到最佳效果。,"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。,"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+投射物是否能破壞方塊,Projectiles can break blocks,en-US
+拋出的終界珍珠在死亡時消失,Thrown Ender Pearls vanish on death,en-US
+指令修改方塊數量限制,Command modification block limit,en-US
+指令的上下文上限,Command context limit,en-US
+指令連鎖大小限制,Command chain size limit,en-US
+掉落,Drops,en-US
+掉落實體裝備,Drop entity equipment,en-US
+掉落方塊,Drop blocks,en-US
+掉落生物戰利品,Drop mob loot,en-US
+控制各种矿车（含内容物）、物品展示框、船等的物品掉落。,"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+控制弹射物能否破坏可被其破坏的方块。,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+控制怪物是否能自然生成。,Controls whether monsters naturally spawn.,en-US
+控制怪物能否自然生成。,Controls whether monsters naturally spawn.,en-US
+控制投射物是否能破壞可被其破壞的方塊。,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+控制方块是否掉落资源，包括经验球。,"Controls resource drops from blocks, including experience orbs.",en-US
+控制方塊資源掉落，包含經驗球。,"Controls resource drops from blocks, including experience orbs.",en-US
+控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+控制火和熔岩能否在距离任何玩家超过8个区块处蔓延。,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+控制玩家是否能互相傷害。,Controls whether players are allowed to damage other players.,en-US
+控制玩家是否能進入地獄。,Controls whether players are allowed to enter the Nether.,en-US
+控制玩家能否进入下界。,Controls whether players are allowed to enter the Nether.,en-US
+控制玩家能夠生成的重生點範圍區域大小。,Controls the size of the area around the spawn point that players can spawn in.,en-US
+控制玩家间能否互相伤害。,Controls whether players are allowed to damage other players.,en-US
+控制生物是否掉落资源，包括经验球。,"Controls resource drops from mobs, including experience orbs.",en-US
+控制生物資源掉落，包含經驗球。,"Controls resource drops from mobs, including experience orbs.",en-US
+控制礦車（包括內容物）、物品展示框、船等的掉落物。,"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+控制藤蔓方块能否随机向相邻的方块蔓延。不会影响其他藤蔓类方块（例如垂泪藤和缠怨藤等）。,"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+控制适合玩家生成的出生点周围区域大小。,Controls the size of the area around the spawn point that players can spawn in.,en-US
+掷出的末影珍珠在死亡时消失,Thrown Ender Pearls vanish on death,en-US
+摔落伤害,Deal fall damage,en-US
+敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+敵対の共有,Universal anger,en-US
+敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+方块掉落,Drop blocks,en-US
+无差别愤怒,Universal anger,en-US
+无法在极限模式世界中更改游戏规则。,Cannot change game rules in a hardcore world.,en-US
+日夜交替,Advance time of day,en-US
+显示死亡消息,Show death messages,en-US
+更新天氣,Update weather,en-US
+更新游戏规则需要管理员权限。,Updating game rules requires operator permissions.,en-US
+更新火焰,Update fire,en-US
+更新遊戲規則需要管理員權限。,Updating game rules requires operator permissions.,en-US
+有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,"If enabled, players will be able to craft only unlocked recipes.",en-US
+有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,"When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+杂项,Miscellaneous,en-US
+正在擷取遊戲規則...,Retrieving game rules...,en-US
+正在获取游戏规则…,Retrieving game rules...,en-US
+死亡したプレイヤーへの敵対を解除,Forgive dead players,en-US
+死亡メッセージの表示,Show death messages,en-US
+死亡后保留物品栏,Keep inventory after death,en-US
+死亡後保留物品欄,Keep inventory after death,en-US
+死亡時のインベントリの保持,Keep inventory after death,en-US
+水流から水源への変化,Water converts to source,en-US
+水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,"When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+流動水在被兩個水源包圍時，會轉化成水源。,"When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+流動水轉化成水源,Water converts to source,en-US
+流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,"When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+流動熔岩轉化成熔岩源,Lava converts to source,en-US
+游戏内时间流逝,Advance time of day,en-US
+游戏规则更改,Game Rule Changes,en-US
+溶岩流から溶岩源への変化,Lava converts to source,en-US
+溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,"When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+溺水ダメージ,Deal drowning damage,en-US
+溺水伤害,Deal drowning damage,en-US
+火傷ダメージ,Deal fire damage,en-US
+火焰伤害,Deal fire damage,en-US
+火焰蔓延,Update fire,en-US
+火焰蔓延半径,Fire spread radius,en-US
+火焰蔓延半徑,Fire spread radius,en-US
+炎の延焼が起こる半径,Fire spread radius,en-US
+炎の更新,Update fire,en-US
+無差別憤怒,Universal anger,en-US
+無法在極限模式世界中變更遊戲規則。,Cannot change game rules in a hardcore world.,en-US
+特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,Some entities might have separate rules.,en-US
+特定游戏事件（如Boss生成）发生时，声音可在所有地方听见。,"When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+玩家,Player,en-US
+玩家周围火可以蔓延的方块半径。,The radius in blocks around a player in which fire can spread.,en-US
+玩家周圍火焰可蔓延的半徑格數。,The radius in blocks around a player in which fire can spread.,en-US
+玩家投掷的末影珍珠是否在玩家死亡时消失。,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+玩家拋出的終界珍珠是否在玩家死亡時消失。,Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+生命值自然恢复,Regenerate health,en-US
+生成,Spawning,en-US
+生成伏守者,Spawn Wardens,en-US
+生成夜魅,Spawn phantoms,en-US
+生成幻翼,Spawn phantoms,en-US
+生成怪物,Spawn Monsters,en-US
+生成掠奪者巡邏隊,Spawn pillager patrols,en-US
+生成流浪商人,Spawn Wandering Traders,en-US
+生成灾厄巡逻队,Spawn pillager patrols,en-US
+生成生物,Spawn mobs,en-US
+生成监守者,Spawn Wardens,en-US
+生物,Mobs,en-US
+生物战利品掉落,Drop mob loot,en-US
+略奪隊のスポーン,Spawn pillager patrols,en-US
+當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,"When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+相邻两面方块为水源的流动水会转化为水源。,"When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+相邻两面方块为熔岩源的流动熔岩会转化为熔岩源。,"When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US
+睡眠比例,Sleep percentage,en-US
+矿车在地面上移动的默认最大速度。,Maximum default speed of a moving Minecart on land.,en-US
+矿车最大速度,Minecart max speed,en-US
+礦車在地面上移動的預設速度上限。,Maximum default speed of a moving Minecart on land.,en-US
+礦車最大速度,Minecart max speed,en-US
+禁用玩家移动检测,Disable player movement check,en-US
+禁用袭击,Disable raids,en-US
+禁用鞘翅移动检测,Disable elytra movement check,en-US
+积雪厚度,Snow accumulation height,en-US
+積雪の深さ,Snow accumulation height,en-US
+積雪厚度,Snow accumulation height,en-US
+立即重生,Respawn immediately,en-US
+简化调试信息,Reduce debug info,en-US
+管理者ログへのコマンドの実行結果の通知,Broadcast admin commands,en-US
+簡化除錯資訊,Reduce debug info,en-US
+編輯遊戲規則,Edit Game Rules,en-US
+編輯遊戲規則...,Edit Game Rules...,en-US
+編集中のゲームルールの変更を破棄してもよろしいですか？,Are you sure you want to discard your pending game rule changes?,en-US
+编辑游戏规则,Edit Game Rules,en-US
+编辑游戏规则…,Edit Game Rules...,en-US
+聊天,Chat,en-US
+聊天欄,Chat,en-US
+自然回血,Regenerate health,en-US
+若启用，玩家只能使用已解锁的配方合成。,"If enabled, players will be able to craft only unlocked recipes.",en-US
+若啟用，玩家將只能合成已解鎖的配方。,"If enabled, players will be able to craft only unlocked recipes.",en-US
+落下ダメージ,Deal fall damage,en-US
+藤蔓蔓延,Vines spread,en-US
+行商人のスポーン,Spawn Wandering Traders,en-US
+表示するデバッグ情報の項目数を制限します。,Limits contents of debug screen.,en-US
+被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+被騎乘的實體是否能使用傳送門,Entities with passengers can use portals,en-US
+被骑乘的实体能否使用传送门,Entities with passengers can use portals,en-US
+襲撃の無効化,Disable raids,en-US
+襲撃の発生,Do raids,en-US
+記錄指令方塊輸出,Broadcast command block output,en-US
+記錄管理員指令,Broadcast admin commands,en-US
+設備エンティティのドロップ,Drop entity equipment,en-US
+跳过夜晚所需的入睡玩家占比。,The percentage of players who must be sleeping to skip the night.,en-US
+跳過夜晚所需的入睡玩家比例。,The percentage of players who must be sleeping to skip the night.,en-US
+进度通知,Announce advancements,en-US
+通告管理员命令,Broadcast admin commands,en-US
+造成冰凍傷害,Deal freeze damage,en-US
+造成摔落傷害,Deal fall damage,en-US
+造成溺水傷害,Deal drowning damage,en-US
+造成火焰傷害,Deal fire damage,en-US
+進度通知,Announce advancements,en-US
+進捗達成の通知,Announce advancements,en-US
+遊戲規則變更,Game Rule Changes,en-US
+部分實體可能採用不同的規則。,Some entities might have separate rules.,en-US
+重生區塊半徑,Spawn chunk radius,en-US
+重生点半径,Respawn location radius,en-US
+重生點半徑,Respawn location radius,en-US
+降雪时，地面上的雪最多堆积到此处指定的层数。,"When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+降雪時に積もる雪の層の最大数を設定できます。,"When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+降雪時，地面上的積雪最多累積至此處指定的層數。,"When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+限制调试屏幕内容。,Limits contents of debug screen.,en-US
+限制除錯畫面的內容。,Limits contents of debug screen.,en-US
+随机刻速率,Random tick speed rate,en-US
+隨機刻速率,Random tick speed rate,en-US
+雜項,Miscellaneous,en-US
+需要配方才能合成,Require recipe for crafting,en-US
+非クリエイティブモードでのネザーポータルの待機時間,Player's Nether Portal delay in non-creative mode,en-US
+非创造模式下玩家在下界传送门中等待的时间,Player's Nether Portal delay in non-creative mode,en-US
+非创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+非創造模式玩家使用地獄傳送門的等待時間,Player's Nether Portal delay in non-creative mode,en-US
+非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+非生物实体掉落,Drop entity equipment,en-US
+預設值：%s,Default: %s,en-US
+顯示死亡訊息,Show death messages,en-US
+飛び道具によるブロック破壊の可否,Projectiles can break blocks,en-US
+飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+默认：%s,Default: %s,en-US
+개체 장비 떨굼,Drop entity equipment,en-US
+개체 중첩 한계,Entity cramming threshold,en-US
+겉날개 움직임 확인 끄기,Disable elytra movement check,en-US
+겉날개 움직임 확인하기,Do elytra movement check,en-US
+게임 규칙 받아오는 중...,Retrieving game rules...,en-US
+게임 규칙 변경 사항,Game Rule Changes,en-US
+게임 규칙 수정,Edit Game Rules,en-US
+게임 규칙 수정...,Edit Game Rules...,en-US
+게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,Updating game rules requires operator permissions.,en-US
+경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,"Controls resource drops from mobs, including experience orbs.",en-US
+경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,"Controls resource drops from blocks, including experience orbs.",en-US
+관리자 명령 알림,Broadcast admin commands,en-US
+관전자의 지형 생성 허용,Allow spectators to generate terrain,en-US
+"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.","Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",en-US
+광산 수레 최고 속도,Minecart max speed,en-US
+기본값: %s,Default: %s,en-US
+기타,Miscellaneous,en-US
+낙하 피해,Deal fall damage,en-US
+날씨 갱신,Update weather,en-US
+네더 허용,Allow Nether,en-US
+"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.","When it snows, layers of snow form on the ground up to at most this number of layers.",en-US
+대화,Chat,en-US
+덩굴 퍼짐,Vines spread,en-US
+덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",en-US
+동상 피해,Deal freeze damage,en-US
+디버그 정보 축소,Reduce debug info,en-US
+디버그 화면의 내용을 제한합니다.,Limits contents of debug screen.,en-US
+땅에서 광산 수레가 움직일 때 최고 기본 속도,Maximum default speed of a moving Minecart on land.,en-US
+떠돌이 상인 생성,Spawn Wandering Traders,en-US
+떨굼 설정,Drops,en-US
+랜덤 틱 속도 비율,Random tick speed rate,en-US
+리스폰 위치 반지름,Respawn location radius,en-US
+명령 블록 연쇄와 함수에 해당.,Applies to command block chains and functions.,en-US
+명령 블록 출력 알림,Broadcast command block output,en-US
+명령 블록 켜기,Enable Command Blocks,en-US
+명령 연쇄 크기 제한,Command chain size limit,en-US
+명령 피드백 전송,Send command feedback,en-US
+명령어 맥락 제한,Command context limit,en-US
+명령어의 블록 변경량 제한,Command modification block limit,en-US
+몬스터 생성,Spawn Monsters,en-US
+몬스터의 자연적 생성 여부를 제어합니다.,Controls whether monsters naturally spawn.,en-US
+몹,Mobs,en-US
+몹 노획물 떨굼,Drop mob loot,en-US
+몹 생성,Spawn mobs,en-US
+"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음","In mob explosions, some blocks won't drop their loot",en-US
+"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,en-US
+무차별적 분노,Universal anger,en-US
+물이 원천으로 바뀜,Water converts to source,en-US
+발전 과제 알림,Announce advancements,en-US
+밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,The percentage of players who must be sleeping to skip the night.,en-US
+"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.","When certain game events happen, like a boss spawning, the sound is heard everywhere.",en-US
+분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",en-US
+불 갱신,Update fire,en-US
+불 피해,Deal fire damage,en-US
+불 확산 반지름,Fire spread radius,en-US
+블록 떨굼,Drop blocks,en-US
+"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음","In block interaction explosions, some blocks won't drop their loot",en-US
+"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,en-US
+생명력 재생,Regenerate health,en-US
+생성,Spawning,en-US
+생성기 블록 켜기,Enable Spawner Blocks,en-US
+세계 갱신,World Updates,en-US
+"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",Controls the size of the area around the spawn point that players can spawn in.,en-US
+스폰 청크 반지름,Spawn chunk radius,en-US
+습격 끄기,Disable raids,en-US
+습격 켜기,Do raids,en-US
+시간 흐름,Advance time of day,en-US
+약탈자 정찰대 생성,Spawn pillager patrols,en-US
+오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,The amount of chunks that stay loaded around the Overworld spawn position.,en-US
+용암이 원천으로 바뀜,Lava converts to source,en-US
+워든 생성,Spawn Wardens,en-US
+이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,"If enabled, players will be able to craft only unlocked recipes.",en-US
+익사 피해,Deal drowning damage,en-US
+일부 개체는 별도의 규칙이 있을 수 있습니다.,Some entities might have separate rules.,en-US
+저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,Are you sure you want to discard your pending game rule changes?,en-US
+적설 높이,Snow accumulation height,en-US
+전역 소리 이벤트,Global sound events,en-US
+제작에 제작법 필요,Require recipe for crafting,en-US
+죽은 플레이어 용서,Forgive dead players,en-US
+죽을 때 던져져 있는 엔더 진주 소멸,Thrown Ender Pearls vanish on death,en-US
+죽음 문구 표시,Show death messages,en-US
+죽음 후 보관함 보존,Keep inventory after death,en-US
+중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,Angered neutral mobs stop being angry when the targeted player dies nearby.,en-US
+중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",en-US
+즉시 리스폰,Respawn immediately,en-US
+취침 비율,Sleep percentage,en-US
+켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,"When enabled, a bar is shown on the screen to indicate the direction of players.",en-US
+크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,Player's Nether Portal delay in non-creative mode,en-US
+크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,en-US
+크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,Player's Nether Portal delay in creative mode,en-US
+"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.","Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",en-US
+탑승자가 있는 개체의 차원문 사용 허용,Entities with passengers can use portals,en-US
+투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,Controls whether impact projectiles will destroy blocks that are destructible by them.,en-US
+투사체가 블록 파괴 가능,Projectiles can break blocks,en-US
+파괴적 몹 행위 허용,Allow destructive mob actions,en-US
+팬텀 생성,Spawn phantoms,en-US
+플레이어,Player,en-US
+플레이어 움직임 확인 끄기,Disable player movement check,en-US
+플레이어 움직임 확인하기,Do player movement check,en-US
+플레이어 위치 표시 바 켜기,Enable player Locator Bar,en-US
+플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,Controls whether players are allowed to damage other players.,en-US
+"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",Whether Ender Pearls thrown by a player vanish when that player dies.,en-US
+플레이어로부터 떨어진 불 틱,Tick fire away from players,en-US
+플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,en-US
+플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,The radius in blocks around a player in which fire can spread.,en-US
+플레이어의 네더 진입 가능 여부를 제어합니다.,Controls whether players are allowed to enter the Nether.,en-US
+하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,Cannot change game rules in a hardcore world.,en-US
+"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.","When flowing water is surrounded on two sides by water sources, it converts into a source.",en-US
+"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.","When flowing lava is surrounded on two sides by lava sources, it converts into a source.",en-US

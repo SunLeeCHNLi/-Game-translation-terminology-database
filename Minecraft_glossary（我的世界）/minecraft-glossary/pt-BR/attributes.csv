@@ -1,0 +1,556 @@
+﻿source,target,tgt_lng
+%%%s %s,%2$s: %1$s%%,pt-BR
+%2$s %1$s%%,%2$s: %1$s%%,pt-BR
+%2$s +%1$s,%2$s: +%1$s,pt-BR
+%2$s +%1$s%%,%2$s: +%1$s%%,pt-BR
+%2$s -%1$s,%2$s: -%1$s,pt-BR
+%2$s -%1$s%%,%2$s: -%1$s%%,pt-BR
+%s %% %s,%2$s: %1$s%%,pt-BR
+%s %% en %s,%2$s: %1$s%%,pt-BR
+%s %s,%2$s: %1$s,pt-BR
+%s en %s,%2$s: %1$s,pt-BR
+%s%% %s,%2$s: %1$s%%,pt-BR
++%%%s %s,%2$s: +%1$s%%,pt-BR
++%s %% %s,%2$s: +%1$s%%,pt-BR
++%s %% en %s,%2$s: +%1$s%%,pt-BR
++%s %s,%2$s: +%1$s,pt-BR
++%s en %s,%2$s: +%1$s,pt-BR
++%s%% %s,%2$s: +%1$s%%,pt-BR
+-%%%s %s,%2$s: -%1$s%%,pt-BR
+-%s %% %s,%2$s: -%1$s%%,pt-BR
+-%s %% en %s,%2$s: -%1$s%%,pt-BR
+-%s %s,%2$s: -%1$s,pt-BR
+-%s en %s,%2$s: -%1$s,pt-BR
+-%s%% %s,%2$s: -%1$s%%,pt-BR
+Abbaueffizienz,Eficiência de mineração,pt-BR
+Absorción máxima,Absorção máxima,pt-BR
+absorption maximale,Absorção máxima,pt-BR
+Ad Etiketi Mesafesi,Distância do identificador,pt-BR
+Ad Etiketi Puan Mesafesi,Distância do marcador de pontuação,pt-BR
+Adım Yüksekliği,Altura dos passos,pt-BR
+Air Drag Modifier,Modificador de resistência ao ar,pt-BR
+Altezza del passo,Altura dos passos,pt-BR
+Altura de paso,Altura dos passos,pt-BR
+Angriffsgeschwindigkeit,Velocidade de ataque,pt-BR
+Angriffsrückstoß,Repulsão do ataque,pt-BR
+Angriffsschaden,Dano por golpe,pt-BR
+Armatura,Armadura,pt-BR
+Armor,Armadura,pt-BR
+Armor Toughness,Resistência da armadura,pt-BR
+Assorbimento massimo,Absorção máxima,pt-BR
+At Zıplama Gücü,Força de salto do cavalo,pt-BR
+Attack Damage,Dano por golpe,pt-BR
+Attack Knockback,Repulsão do ataque,pt-BR
+Attack Speed,Velocidade de ataque,pt-BR
+Bewegungseffizienz,Eficiência de movimento,pt-BR
+Block Break Speed,Velocidade de quebra de blocos,pt-BR
+Block Interaction Range,Alcance de interação com blocos,pt-BR
+Blockabbaugeschwindigkeit,Velocidade de quebra de blocos,pt-BR
+Block‐Interaktionsweite,Alcance de interação com blocos,pt-BR
+Blok Etkileşim Mesafesi,Alcance de interação com blocos,pt-BR
+Blok Kırma Hızı,Velocidade de quebra de blocos,pt-BR
+bonus d'oxygène,Oxigênio extra,pt-BR
+Bounciness,Rebote,pt-BR
+Brenndauer,Duração de queima,pt-BR
+Burning Time,Duração de queima,pt-BR
+Bật lùi tấn công,Repulsão do ataque,pt-BR
+Camera Distance,Distância da câmera,pt-BR
+Canlı Fark Etme Mesafesi,Alcance de atração das criaturas,pt-BR
+Canlı Takip Menzili,Alcance de perseguição das criaturas,pt-BR
+Canlı Takip Mesafesi,Alcance de perseguição das criaturas,pt-BR
+chance,Sorte,pt-BR
+Chiều cao bước,Altura dos passos,pt-BR
+Contraccolpo,Repulsão do ataque,pt-BR
+Danni per colpo,Dano por golpe,pt-BR
+Daño de ataque,Dano por golpe,pt-BR
+distance d'affichage du nom,Distância do identificador,pt-BR
+distance d'affichage du score du nom,Distância do marcador de pontuação,pt-BR
+distance de chute sûre,Distância de queda segura,pt-BR
+distance de la caméra,Distância da câmera,pt-BR
+Distancia de caída segura,Distância de queda segura,pt-BR
+Distancia de la cámara,Distância da câmera,pt-BR
+Distancia del identificador,Distância do identificador,pt-BR
+Distancia del marcador de puntuación,Distância do marcador de pontuação,pt-BR
+Distanza del punteggio nella targhetta,Distância do marcador de pontuação,pt-BR
+Distanza dell'inquadratura,Distância da câmera,pt-BR
+Distanza della targhetta,Distância do identificador,pt-BR
+Distanza di caduta sicura,Distância de queda segura,pt-BR
+Duración de quemadura,Duração de queima,pt-BR
+Dureza de armadura,Resistência da armadura,pt-BR
+Düşme Hasarı Çarpanı,Multiplicador de dano por queda,pt-BR
+efficacité de minage,Eficiência de mineração,pt-BR
+efficacité de mouvement,Eficiência de movimento,pt-BR
+efficacité de mouvement aquatique,Eficiência de movimento na água,pt-BR
+Efficienza d'estrazione,Eficiência de mineração,pt-BR
+Efficienza del movimento,Eficiência de movimento,pt-BR
+Efficienza del movimento in acqua,Eficiência de movimento na água,pt-BR
+Eficiencia al romper bloques,Eficiência de mineração,pt-BR
+Eficiencia de movimiento,Eficiência de movimento,pt-BR
+Eficiencia de movimiento acuático,Eficiência de movimento na água,pt-BR
+Elasticità,Rebote,pt-BR
+Empuje de ataque,Repulsão do ataque,pt-BR
+En Fazla Emilim,Absorção máxima,pt-BR
+En Fazla Sağlık,Vida máxima,pt-BR
+Entity Interaction Range,Alcance de interação com entidades,pt-BR
+Explosion Knockback Resistance,Resistência à repulsão de explosões,pt-BR
+Explosionsstandfestigkeit,Resistência à repulsão de explosões,pt-BR
+Eğilirken Hareket Hızı,Velocidade furtiva,pt-BR
+Eğilme Hızı,Velocidade furtiva,pt-BR
+Fall Damage Multiplier,Multiplicador de dano por queda,pt-BR
+Fallschaden‐Multiplikator,Multiplicador de dano por queda,pt-BR
+Federung,Rebote,pt-BR
+Fluggeschwindigkeit,Velocidade do voo,pt-BR
+Flying Speed,Velocidade do voo,pt-BR
+Fortuna,Sorte,pt-BR
+Forza del salto,Força do salto,pt-BR
+Forza di salto del cavallo,Força de salto do cavalo,pt-BR
+Friction Modifier,Modificador de atrito,pt-BR
+Geniş Saldırı Hasar Oranı,Taxa de dano lateral,pt-BR
+Geschwindigkeit,Velocidade,pt-BR
+Giáp,Armadura,pt-BR
+Glück,Sorte,pt-BR
+Gravedad,Gravidade,pt-BR
+Gravity,Gravidade,pt-BR
+Gravità,Gravidade,pt-BR
+gravité,Gravidade,pt-BR
+Größe,Escala,pt-BR
+Güvenli Düşüş Mesafesi,Distância de queda segura,pt-BR
+Hareket Verimliliği,Eficiência de movimento,pt-BR
+hauteur des pas,Altura dos passos,pt-BR
+Hava Direnci Niteleyici,Modificador de resistência ao ar,pt-BR
+Hiệu quả di chuyển,Eficiência de movimento,pt-BR
+Hiệu quả di chuyển dưới nước,Eficiência de movimento na água,pt-BR
+Hiệu suất đào,Eficiência de mineração,pt-BR
+Horse Jump Strength,Força de salto do cavalo,pt-BR
+Hız,Velocidade,pt-BR
+Hấp thụ tối đa,Absorção máxima,pt-BR
+Hệ số lực cản không khí,Modificador de resistência ao ar,pt-BR
+Hệ số ma sát,Modificador de atrito,pt-BR
+Hệ số sát thương rơi,Multiplicador de dano por queda,pt-BR
+Jump Strength,Força do salto,pt-BR
+Kamera Mesafesi,Distância da câmera,pt-BR
+Kameraabstand,Distância da câmera,pt-BR
+Kazım Verimliliği,Eficiência de mineração,pt-BR
+Khoảng cách hiển thị nhãn ghi tên,Distância do identificador,pt-BR
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,Distância do marcador de pontuação,pt-BR
+Khoảng cách máy quay,Distância da câmera,pt-BR
+Kháng đẩy lùi,Resistência à repulsão,pt-BR
+Kháng đẩy lùi từ vụ nổ,Resistência à repulsão de explosões,pt-BR
+Knockback Resistance,Resistência à repulsão,pt-BR
+Kreaturen‐Anlockdistanz,Alcance de atração das criaturas,pt-BR
+Kreaturen‐Verfolgedistanz,Alcance de perseguição das criaturas,pt-BR
+Luck,Sorte,pt-BR
+Luftwiderstandsfaktor,Modificador de resistência ao ar,pt-BR
+Lực lượng thây ma tăng cường,Reforços de zumbis,pt-BR
+Max Absorption,Absorção máxima,pt-BR
+Max Health,Vida máxima,pt-BR
+Maximale Absorption,Absorção máxima,pt-BR
+Maximale Gesundheit,Vida máxima,pt-BR
+May mắn,Sorte,pt-BR
+Mining Efficiency,Eficiência de mineração,pt-BR
+Mob Follow Range,Alcance de perseguição das criaturas,pt-BR
+Mob Tempt Range,Alcance de atração das criaturas,pt-BR
+Mobの誘引される範囲,Alcance de atração das criaturas,pt-BR
+Mobの追跡範囲,Alcance de perseguição das criaturas,pt-BR
+Modificador de fricción,Modificador de atrito,pt-BR
+Modificador de resistencia del aire,Modificador de resistência ao ar,pt-BR
+modificateur de friction,Modificador de atrito,pt-BR
+modificateur de résistance à l'air,Modificador de resistência ao ar,pt-BR
+Modificatore di attrito,Modificador de atrito,pt-BR
+Modificatore di resistenza aerodinamica,Modificador de resistência ao ar,pt-BR
+Moltiplicatore del danno da caduta,Multiplicador de dano por queda,pt-BR
+Movement Efficiency,Eficiência de movimento,pt-BR
+Multiplicador de daño por caída,Multiplicador de dano por queda,pt-BR
+multiplicateur des dégâts de chute,Multiplicador de dano por queda,pt-BR
+Name Tag Distance,Distância do identificador,pt-BR
+Name Tag Score Distance,Distância do marcador de pontuação,pt-BR
+Namensschildabstand,Distância do identificador,pt-BR
+Objekt‐Interaktionsweite,Alcance de interação com entidades,pt-BR
+Oksijen Takviyesi,Oxigênio extra,pt-BR
+Ossigeno aggiuntivo,Oxigênio extra,pt-BR
+Oxygen Bonus,Oxigênio extra,pt-BR
+Oxígeno extra,Oxigênio extra,pt-BR
+Patlama Savrulması Direnci,Resistência à repulsão de explosões,pt-BR
+Pferdesprungstärke,Força de salto do cavalo,pt-BR
+Phạm vi nhận điểm mốc,Alcance de detecção do marcador,pt-BR
+Phạm vi thu hút sinh vật,Alcance de atração das criaturas,pt-BR
+Phạm vi truyền điểm mốc,Alcance de transmissão do marcador,pt-BR
+Phạm vi tương tác khối,Alcance de interação com blocos,pt-BR
+Phạm vi tương tác thực thể,Alcance de interação com entidades,pt-BR
+Phạm vi đi theo của sinh vật,Alcance de perseguição das criaturas,pt-BR
+Phần oxi thêm,Oxigênio extra,pt-BR
+points d'armure,Armadura,pt-BR
+points d'attaque,Dano por golpe,pt-BR
+Portata di ricezione del punto di riferimento,Alcance de detecção do marcador,pt-BR
+Portata di trasmissione del punto di riferimento,Alcance de transmissão do marcador,pt-BR
+portée d'interaction avec les blocs,Alcance de interação com blocos,pt-BR
+portée d'interaction avec les entités,Alcance de interação com entidades,pt-BR
+portée de détection des créatures,Alcance de perseguição das criaturas,pt-BR
+portée de réception du point de repère,Alcance de detecção do marcador,pt-BR
+portée de tentation des créatures,Alcance de atração das criaturas,pt-BR
+portée de transmission du point de repère,Alcance de transmissão do marcador,pt-BR
+Potencia de salto,Força do salto,pt-BR
+Potencia de salto del caballo,Força de salto do cavalo,pt-BR
+Proporción del daño de barrido,Taxa de dano lateral,pt-BR
+puissance de saut,Força do salto,pt-BR
+puissance de saut du cheval,Força de salto do cavalo,pt-BR
+Punktetafelabstand,Distância do marcador de pontuação,pt-BR
+Punti armatura,Armadura,pt-BR
+Quy mô,Escala,pt-BR
+Radio de atracción de criaturas,Alcance de atração das criaturas,pt-BR
+Raggio d'interazione con i blocchi,Alcance de interação com blocos,pt-BR
+Raggio d'interazione con le entità,Alcance de interação com entidades,pt-BR
+Raggio di rilevamento delle creature,Alcance de perseguição das criaturas,pt-BR
+Raggio di tentazione delle creature,Alcance de atração das criaturas,pt-BR
+Rango de interacción con bloques,Alcance de interação com blocos,pt-BR
+Rango de interacción con entidades,Alcance de interação com entidades,pt-BR
+Rango de recepción del punto de referencia,Alcance de detecção do marcador,pt-BR
+Rango de seguimiento,Alcance de perseguição das criaturas,pt-BR
+Rango de transmisión del punto de referencia,Alcance de transmissão do marcador,pt-BR
+rapidité,Velocidade,pt-BR
+Rapporto del danno sferzante,Taxa de dano lateral,pt-BR
+ratio de dégâts par balayage,Taxa de dano lateral,pt-BR
+rebond,Rebote,pt-BR
+recul d'attaque,Repulsão do ataque,pt-BR
+Refuerzos zombi,Reforços de zumbis,pt-BR
+Reibungsfaktor,Modificador de atrito,pt-BR
+renforts de zombies,Reforços de zumbis,pt-BR
+Resistencia al empuje,Resistência à repulsão,pt-BR
+Resistencia al empuje de las explosiones,Resistência à repulsão de explosões,pt-BR
+Resistenza al contraccolpo,Resistência à repulsão,pt-BR
+Resistenza al contraccolpo delle esplosioni,Resistência à repulsão de explosões,pt-BR
+Rinforzi zombi,Reforços de zumbis,pt-BR
+robustesse,Resistência da armadura,pt-BR
+résistance au recul,Resistência à repulsão,pt-BR
+résistance au recul des explosions,Resistência à repulsão de explosões,pt-BR
+Rüstung,Armadura,pt-BR
+Rüstungshärte,Resistência da armadura,pt-BR
+Safe Fall Distance,Distância de queda segura,pt-BR
+Saldırı Hasarı,Dano por golpe,pt-BR
+Saldırı Hızı,Velocidade de ataque,pt-BR
+Saldırı Savurması,Repulsão do ataque,pt-BR
+Salud máxima,Vida máxima,pt-BR
+Salute massima,Vida máxima,pt-BR
+Sauerstoffbonus,Oxigênio extra,pt-BR
+Savrulma Direnci,Resistência à repulsão,pt-BR
+Scala,Escala,pt-BR
+Scale,Escala,pt-BR
+Schleichgeschwindigkeit,Velocidade furtiva,pt-BR
+Schritthöhe,Altura dos passos,pt-BR
+Schwerkraft,Gravidade,pt-BR
+Schwungschadensverhältnis,Taxa de dano lateral,pt-BR
+Sekme,Rebote,pt-BR
+Sichere Fallhöhe,Distância de queda segura,pt-BR
+Sinh lực tối đa,Vida máxima,pt-BR
+Sneaking Speed,Velocidade furtiva,pt-BR
+Solidità dell'armatura,Resistência da armadura,pt-BR
+Speed,Velocidade,pt-BR
+Sprungstärke,Força do salto,pt-BR
+Standfestigkeit,Resistência à repulsão,pt-BR
+Step Height,Altura dos passos,pt-BR
+Su Altında Kazım Hızı,Velocidade de mineração submersa,pt-BR
+Submerged Mining Speed,Velocidade de mineração submersa,pt-BR
+Suda Hareket Verimliliği,Eficiência de movimento na água,pt-BR
+Suerte,Sorte,pt-BR
+Sweeping Damage Ratio,Taxa de dano lateral,pt-BR
+Sürtünme Düzenleyici,Modificador de atrito,pt-BR
+Sức bật lùi,Repulsão do ataque,pt-BR
+Sức nhảy,Força do salto,pt-BR
+Sức nhảy của ngựa,Força de salto do cavalo,pt-BR
+Sức tấn công,Dano por golpe,pt-BR
+taille,Escala,pt-BR
+Tempo di combustione,Duração de queima,pt-BR
+temps en feu,Duração de queima,pt-BR
+Thời gian cháy,Duração de queima,pt-BR
+Trọng lực,Gravidade,pt-BR
+Tỉ lệ sát thương quét cạnh,Taxa de dano lateral,pt-BR
+Tốc độ,Velocidade,pt-BR
+Tốc độ bay,Velocidade do voo,pt-BR
+Tốc độ phá khối,Velocidade de quebra de blocos,pt-BR
+Tốc độ tấn công,Velocidade de ataque,pt-BR
+Tốc độ đi rón rén,Velocidade furtiva,pt-BR
+Tốc độ đào dưới nước,Velocidade de mineração submersa,pt-BR
+Unterwasser‐Abbaugeschwindigkeit,Velocidade de mineração submersa,pt-BR
+Uçma Hızı,Velocidade do voo,pt-BR
+Uçuş Hızı,Velocidade do voo,pt-BR
+Varlık Etkileşim Mesafesi,Alcance de interação com entidades,pt-BR
+Velocidad,Velocidade,pt-BR
+Velocidad al agacharse,Velocidade furtiva,pt-BR
+Velocidad al romper bloques,Velocidade de quebra de blocos,pt-BR
+Velocidad al romper bloques sumergido,Velocidade de mineração submersa,pt-BR
+Velocidad de ataque,Velocidade de ataque,pt-BR
+Velocidad de vuelo,Velocidade do voo,pt-BR
+Velocità,Velocidade,pt-BR
+Velocità d'attacco,Velocidade de ataque,pt-BR
+Velocità d'estrazione sott'acqua,Velocidade de mineração submersa,pt-BR
+Velocità di distruzione dei blocchi,Velocidade de quebra de blocos,pt-BR
+Velocità furtiva,Velocidade furtiva,pt-BR
+Velocità in volo,Velocidade do voo,pt-BR
+vie maximale,Vida máxima,pt-BR
+vitesse accroupie,Velocidade furtiva,pt-BR
+vitesse d'attaque,Velocidade de ataque,pt-BR
+vitesse de destruction des blocs,Velocidade de quebra de blocos,pt-BR
+vitesse de minage sous l'eau,Velocidade de mineração submersa,pt-BR
+vitesse de vol,Velocidade do voo,pt-BR
+Wasser‐Bewegungseffizienz,Eficiência de movimento na água,pt-BR
+Water Movement Efficiency,Eficiência de movimento na água,pt-BR
+Waypoint Receive Range,Alcance de detecção do marcador,pt-BR
+Waypoint Transmit Range,Alcance de transmissão do marcador,pt-BR
+Wegpunkt‐Empfangsreichweite,Alcance de detecção do marcador,pt-BR
+Wegpunkt‐Sendereichweite,Alcance de transmissão do marcador,pt-BR
+Yanma Süresi,Duração de queima,pt-BR
+Yer Çekimi,Gravidade,pt-BR
+Yol Noktası Alma Mesafesi,Alcance de detecção do marcador,pt-BR
+Yol Noktası İletme Mesafesi,Alcance de transmissão do marcador,pt-BR
+Zombi Takviyesi,Reforços de zumbis,pt-BR
+Zombie Reinforcements,Reforços de zumbis,pt-BR
+Zombie-Verstärkung,Reforços de zumbis,pt-BR
+Zombie‐Verstärkung,Reforços de zumbis,pt-BR
+Zıplama Gücü,Força do salto,pt-BR
+Zırh,Armadura,pt-BR
+Zırh Sertliği,Resistência da armadura,pt-BR
+Ölçek,Escala,pt-BR
+Độ bền của áo giáp,Resistência da armadura,pt-BR
+Độ bền áo giáp,Resistência da armadura,pt-BR
+Độ cao rơi xuống an toàn,Distância de queda segura,pt-BR
+Độ nảy,Rebote,pt-BR
+Şans,Sorte,pt-BR
+Безопасная высота падения,Distância de queda segura,pt-BR
+Бонус к кислороду,Oxigênio extra,pt-BR
+Броня,Armadura,pt-BR
+Везение,Sorte,pt-BR
+Время горения,Duração de queima,pt-BR
+Высота шага,Altura dos passos,pt-BR
+Гравитация,Gravidade,pt-BR
+Дальность взаимодействия с блоками,Alcance de interação com blocos,pt-BR
+Дальность взаимодействия с сущностями,Alcance de interação com entidades,pt-BR
+Дальность видимости имени,Distância do identificador,pt-BR
+Дальность видимости счёта под именем,Distância do marcador de pontuação,pt-BR
+Дальность обнаружения маркеров,Alcance de detecção do marcador,pt-BR
+Дальность передачи маркера,Alcance de transmissão do marcador,pt-BR
+Дальность приманивания,Alcance de atração das criaturas,pt-BR
+Диапазон преследования моба,Alcance de perseguição das criaturas,pt-BR
+Коэффициент разящего удара,Taxa de dano lateral,pt-BR
+Максимальное здоровье,Vida máxima,pt-BR
+Множитель урона от падения,Multiplicador de dano por queda,pt-BR
+Модификатор сопротивления воздуха,Modificador de resistência ao ar,pt-BR
+Модификатор трения,Modificador de atrito,pt-BR
+Отбрасывание при атаке,Repulsão do ataque,pt-BR
+Отдалённость камеры,Distância da câmera,pt-BR
+Подкрепление зомби,Reforços de zumbis,pt-BR
+Предел поглощения,Absorção máxima,pt-BR
+Размер,Escala,pt-BR
+Сила прыжка,Força do salto,pt-BR
+Сила прыжка лошади,Força de salto do cavalo,pt-BR
+Скорость,Velocidade,pt-BR
+Скорость атаки,Velocidade de ataque,pt-BR
+Скорость добычи под водой,Velocidade de mineração submersa,pt-BR
+Скорость подкрадывания,Velocidade furtiva,pt-BR
+Скорость полёта,Velocidade do voo,pt-BR
+Скорость разрушения блоков,Velocidade de quebra de blocos,pt-BR
+Сопротивление к отбрасыванию,Resistência à repulsão,pt-BR
+Сопротивление к отбрасыванию взрывом,Resistência à repulsão de explosões,pt-BR
+Твёрдость брони,Resistência da armadura,pt-BR
+Упругость,Rebote,pt-BR
+Урон при атаке,Dano por golpe,pt-BR
+Эффективность добычи,Eficiência de mineração,pt-BR
+Эффективность передвижения,Eficiência de movimento,pt-BR
+Эффективность передвижения в воде,Eficiência de movimento na água,pt-BR
+กระดอนโจมตี,Repulsão do ataque,pt-BR
+กำลังเสริมซอมบี้,Reforços de zumbis,pt-BR
+ขนาด,Escala,pt-BR
+ความต้านทานการกระดอน,Resistência à repulsão,pt-BR
+ความต้านทานการกระดอนจากระเบิด,Resistência à repulsão de explosões,pt-BR
+ความสูงของขั้นก้าว,Altura dos passos,pt-BR
+ความเด้ง,Rebote,pt-BR
+ความเร็ว,Velocidade,pt-BR
+ความเร็วการขุดใต้น้ำ,Velocidade de mineração submersa,pt-BR
+ความเร็วการทำลายบล็อก,Velocidade de quebra de blocos,pt-BR
+ความเร็วการบิน,Velocidade do voo,pt-BR
+ความเร็วการย่อง,Velocidade furtiva,pt-BR
+ความเร็วโจมตี,Velocidade de ataque,pt-BR
+ความแข็งแกร่งของเกราะ,Resistência da armadura,pt-BR
+ความแรงการกระโดด,Força do salto,pt-BR
+ดาเมจโจมตี,Dano por golpe,pt-BR
+ดูดซับสูงสุด,Absorção máxima,pt-BR
+ตัวคูณดาเมจจากการตก,Multiplicador de dano por queda,pt-BR
+ตัวดัดแปรแรงต้านอากาศ,Modificador de resistência ao ar,pt-BR
+ตัวดัดแปรแรงเสียดทาน,Modificador de atrito,pt-BR
+ประสิทธิภาพการขุด,Eficiência de mineração,pt-BR
+ประสิทธิภาพการเคลื่อนที่,Eficiência de movimento,pt-BR
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,Eficiência de movimento na água,pt-BR
+ระยะการตกที่ปลอดภัย,Distância de queda segura,pt-BR
+ระยะการรับเวย์พอยต์,Alcance de detecção do marcador,pt-BR
+ระยะการล่อของม็อบ,Alcance de atração das criaturas,pt-BR
+ระยะการส่งผ่านเวย์พอยต์,Alcance de transmissão do marcador,pt-BR
+ระยะคะแนนใต้ป้ายชื่อ,Distância do marcador de pontuação,pt-BR
+ระยะที่ม็อบติดตาม,Alcance de perseguição das criaturas,pt-BR
+ระยะปฏิสัมพันธ์กับบล็อก,Alcance de interação com blocos,pt-BR
+ระยะปฏิสัมพันธ์กับเอนทิตี้,Alcance de interação com entidades,pt-BR
+ระยะป้ายชื่อ,Distância do identificador,pt-BR
+ระยะห่างกล้อง,Distância da câmera,pt-BR
+ระยะเวลาติดไฟ,Duração de queima,pt-BR
+ออกซิเจนพิเศษ,Oxigênio extra,pt-BR
+อัตราส่วนดาเมจแบบกวาด,Taxa de dano lateral,pt-BR
+เกราะ,Armadura,pt-BR
+เลือดสูงสุด,Vida máxima,pt-BR
+แรงม้ากระโดด,Força de salto do cavalo,pt-BR
+แรงโน้มถ่วง,Gravidade,pt-BR
+โชค,Sorte,pt-BR
+なぎ払いダメージの比率,Taxa de dano lateral,pt-BR
+ウェイポイント伝達距離,Alcance de transmissão do marcador,pt-BR
+ウェイポイント受信距離,Alcance de detecção do marcador,pt-BR
+ウマの跳躍力,Força de salto do cavalo,pt-BR
+エンティティ操作範囲,Alcance de interação com entidades,pt-BR
+カメラ距離,Distância da câmera,pt-BR
+サイズ,Escala,pt-BR
+スニーク速度,Velocidade furtiva,pt-BR
+ゾンビの増援,Reforços de zumbis,pt-BR
+ネームタグの表示距離,Distância do identificador,pt-BR
+ネームタグ下のスコアの表示距離,Distância do marcador de pontuação,pt-BR
+ノックバック,Repulsão do ataque,pt-BR
+ノックバック力,Repulsão do ataque,pt-BR
+ノックバック耐性,Resistência à repulsão,pt-BR
+ブロック操作範囲,Alcance de interação com blocos,pt-BR
+ブロック破壊速度,Velocidade de quebra de blocos,pt-BR
+僵尸增援,Reforços de zumbis,pt-BR
+击退,Repulsão do ataque,pt-BR
+击退抗性,Resistência à repulsão,pt-BR
+名牌分数距离,Distância do marcador de pontuação,pt-BR
+名牌距离,Distância do identificador,pt-BR
+名稱標籤分數距離,Distância do marcador de pontuação,pt-BR
+名稱標籤距離,Distância do identificador,pt-BR
+大きさ,Escala,pt-BR
+大小,Escala,pt-BR
+安全摔落高度,Distância de queda segura,pt-BR
+安全落下高度,Distância de queda segura,pt-BR
+实体交互距离,Alcance de interação com entidades,pt-BR
+實體互動距離,Alcance de interação com entidades,pt-BR
+尺寸,Escala,pt-BR
+幸运值,Sorte,pt-BR
+幸運,Sorte,pt-BR
+弹性,Rebote,pt-BR
+弾性係数,Rebote,pt-BR
+彈性,Rebote,pt-BR
+抗擊退,Resistência à repulsão,pt-BR
+抗爆炸擊退,Resistência à repulsão de explosões,pt-BR
+护甲值,Armadura,pt-BR
+挖掘效率,Eficiência de mineração,pt-BR
+採掘効率,Eficiência de mineração,pt-BR
+摔落伤害倍数,Multiplicador de dano por queda,pt-BR
+摔落傷害倍率,Multiplicador de dano por queda,pt-BR
+摩擦係数,Modificador de atrito,pt-BR
+摩擦力修正係數,Modificador de atrito,pt-BR
+摩擦力修正系数,Modificador de atrito,pt-BR
+擊退,Repulsão do ataque,pt-BR
+攻击伤害,Dano por golpe,pt-BR
+攻击速度,Velocidade de ataque,pt-BR
+攻撃力,Dano por golpe,pt-BR
+攻撃速度,Velocidade de ataque,pt-BR
+攻擊傷害,Dano por golpe,pt-BR
+攻擊速度,Velocidade de ataque,pt-BR
+方块交互距离,Alcance de interação com blocos,pt-BR
+方块破坏速度,Velocidade de quebra de blocos,pt-BR
+方塊互動距離,Alcance de interação com blocos,pt-BR
+方塊破壞速度,Velocidade de quebra de blocos,pt-BR
+最大伤害吸收值,Absorção máxima,pt-BR
+最大体力,Vida máxima,pt-BR
+最大傷害吸收值,Absorção máxima,pt-BR
+最大生命值,Vida máxima,pt-BR
+最大行走高度,Altura dos passos,pt-BR
+最高生命值,Vida máxima,pt-BR
+横扫伤害比率,Taxa de dano lateral,pt-BR
+橫掃傷害率,Taxa de dano lateral,pt-BR
+殭屍增援隊,Reforços de zumbis,pt-BR
+段差上限,Altura dos passos,pt-BR
+水下挖掘速度,Velocidade de mineração submersa,pt-BR
+水中挖掘速度,Velocidade de mineração submersa,pt-BR
+水中採掘速度,Velocidade de mineração submersa,pt-BR
+水中移动效率,Eficiência de movimento na água,pt-BR
+水中移動効率,Eficiência de movimento na água,pt-BR
+水中移動效率,Eficiência de movimento na água,pt-BR
+潛行速度,Velocidade furtiva,pt-BR
+潜行速度,Velocidade furtiva,pt-BR
+炎上時間,Duração de queima,pt-BR
+燃燒時間,Duração de queima,pt-BR
+爆炸击退抗性,Resistência à repulsão de explosões,pt-BR
+爆発ノックバック耐性,Resistência à repulsão de explosões,pt-BR
+生物引誘範圍,Alcance de atração das criaturas,pt-BR
+生物引诱范围,Alcance de atração das criaturas,pt-BR
+生物跟随距离,Alcance de perseguição das criaturas,pt-BR
+生物追蹤範圍,Alcance de perseguição das criaturas,pt-BR
+盔甲,Armadura,pt-BR
+盔甲強度,Resistência da armadura,pt-BR
+盔甲韧性,Resistência da armadura,pt-BR
+着火时间,Duração de queima,pt-BR
+移动效率,Eficiência de movimento,pt-BR
+移動効率,Eficiência de movimento,pt-BR
+移動效率,Eficiência de movimento,pt-BR
+移動速度,Velocidade,pt-BR
+空气阻力修正系数,Modificador de resistência ao ar,pt-BR
+空気抵抗係数,Modificador de resistência ao ar,pt-BR
+空氣阻力修正係數,Modificador de resistência ao ar,pt-BR
+落下ダメージ倍率,Multiplicador de dano por queda,pt-BR
+衝撃吸収レベルの上限,Absorção máxima,pt-BR
+路径点传输距离,Alcance de transmissão do marcador,pt-BR
+路径点接收距离,Alcance de detecção do marcador,pt-BR
+路徑點傳輸距離,Alcance de transmissão do marcador,pt-BR
+路徑點接收距離,Alcance de detecção do marcador,pt-BR
+跳跃力度,Força do salto,pt-BR
+跳躍力,Força do salto,pt-BR
+速度,Velocidade,pt-BR
+運,Sorte,pt-BR
+酸素ボーナス,Oxigênio extra,pt-BR
+重力,Gravidade,pt-BR
+鏡頭距離,Distância da câmera,pt-BR
+镜头距离,Distância da câmera,pt-BR
+防具強度,Resistência da armadura,pt-BR
+防御力,Armadura,pt-BR
+額外氧氣,Oxigênio extra,pt-BR
+额外氧气,Oxigênio extra,pt-BR
+飛行速度,Velocidade do voo,pt-BR
+飞行速度,Velocidade do voo,pt-BR
+馬跳躍力,Força de salto do cavalo,pt-BR
+马匹跳跃能力,Força de salto do cavalo,pt-BR
+개체 상호 작용 범위,Alcance de interação com entidades,pt-BR
+걸음 높이,Altura dos passos,pt-BR
+경로점 발신 범위,Alcance de transmissão do marcador,pt-BR
+경로점 수신 범위,Alcance de detecção do marcador,pt-BR
+공격 밀침 세기,Repulsão do ataque,pt-BR
+공격 속도,Velocidade de ataque,pt-BR
+공격 피해,Dano por golpe,pt-BR
+공기 저항력 변경자,Modificador de resistência ao ar,pt-BR
+낙하 피해 배수,Multiplicador de dano por queda,pt-BR
+마찰력 변경자,Modificador de atrito,pt-BR
+말 점프 강도,Força de salto do cavalo,pt-BR
+몹 따름 범위,Alcance de perseguição das criaturas,pt-BR
+몹 유인 범위,Alcance de atração das criaturas,pt-BR
+밀침 저항,Resistência à repulsão,pt-BR
+방어,Armadura,pt-BR
+방어 강도,Resistência da armadura,pt-BR
+배율,Escala,pt-BR
+블록 상호 작용 범위,Alcance de interação com blocos,pt-BR
+블록 파괴 속도,Velocidade de quebra de blocos,pt-BR
+비행 속도,Velocidade do voo,pt-BR
+산소 추가,Oxigênio extra,pt-BR
+속도,Velocidade,pt-BR
+수중 이동 효율,Eficiência de movimento na água,pt-BR
+수중 채굴 속도,Velocidade de mineração submersa,pt-BR
+안전 낙하 거리,Distância de queda segura,pt-BR
+연소 시간,Duração de queima,pt-BR
+웅크렸을 때 속도,Velocidade furtiva,pt-BR
+이동 효율,Eficiência de movimento,pt-BR
+이름표 거리,Distância do identificador,pt-BR
+이름표 점수 거리,Distância do marcador de pontuação,pt-BR
+점프 세기,Força do salto,pt-BR
+좀비 증원,Reforços de zumbis,pt-BR
+중력,Gravidade,pt-BR
+채굴 효율,Eficiência de mineração,pt-BR
+최대 생명력,Vida máxima,pt-BR
+최대 흡수,Absorção máxima,pt-BR
+카메라 거리,Distância da câmera,pt-BR
+크기,Escala,pt-BR
+탄성,Rebote,pt-BR
+폭발 밀침 저항,Resistência à repulsão de explosões,pt-BR
+행운,Sorte,pt-BR
+휩쓸기 피해 비율,Taxa de dano lateral,pt-BR

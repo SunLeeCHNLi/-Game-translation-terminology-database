@@ -1,0 +1,568 @@
+﻿source,target,tgt_lng
+%%%s %s,%s %% %s,de-DE
+%2$s %1$s%%,%s %% %s,de-DE
+%2$s +%1$s,+%s %s,de-DE
+%2$s +%1$s%%,+%s %% %s,de-DE
+%2$s -%1$s,-%s %s,de-DE
+%2$s -%1$s%%,-%s %% %s,de-DE
+%2$s: %1$s,%s %s,de-DE
+%2$s: %1$s%%,%s %% %s,de-DE
+%2$s: +%1$s,+%s %s,de-DE
+%2$s: +%1$s%%,+%s %% %s,de-DE
+%2$s: -%1$s,-%s %s,de-DE
+%2$s: -%1$s%%,-%s %% %s,de-DE
+%s %% en %s,%s %% %s,de-DE
+%s en %s,%s %s,de-DE
+%s%% %s,%s %% %s,de-DE
++%%%s %s,+%s %% %s,de-DE
++%s %% en %s,+%s %% %s,de-DE
++%s en %s,+%s %s,de-DE
++%s%% %s,+%s %% %s,de-DE
+-%%%s %s,-%s %% %s,de-DE
+-%s %% en %s,-%s %% %s,de-DE
+-%s en %s,-%s %s,de-DE
+-%s%% %s,-%s %% %s,de-DE
+Absorción máxima,Maximale Absorption,de-DE
+absorption maximale,Maximale Absorption,de-DE
+Absorção máxima,Maximale Absorption,de-DE
+Ad Etiketi Mesafesi,Namensschildabstand,de-DE
+Ad Etiketi Puan Mesafesi,Punktetafelabstand,de-DE
+Adım Yüksekliği,Schritthöhe,de-DE
+Air Drag Modifier,Luftwiderstandsfaktor,de-DE
+Alcance de atração das criaturas,Kreaturen‐Anlockdistanz,de-DE
+Alcance de detecção do marcador,Wegpunkt‐Empfangsreichweite,de-DE
+Alcance de interação com blocos,Block‐Interaktionsweite,de-DE
+Alcance de interação com entidades,Objekt‐Interaktionsweite,de-DE
+Alcance de perseguição das criaturas,Kreaturen‐Verfolgedistanz,de-DE
+Alcance de transmissão do marcador,Wegpunkt‐Sendereichweite,de-DE
+Altezza del passo,Schritthöhe,de-DE
+Altura de paso,Schritthöhe,de-DE
+Altura dos passos,Schritthöhe,de-DE
+Armadura,Rüstung,de-DE
+Armatura,Rüstung,de-DE
+Armor,Rüstung,de-DE
+Armor Toughness,Rüstungshärte,de-DE
+Assorbimento massimo,Maximale Absorption,de-DE
+At Zıplama Gücü,Pferdesprungstärke,de-DE
+Attack Damage,Angriffsschaden,de-DE
+Attack Knockback,Angriffsrückstoß,de-DE
+Attack Speed,Angriffsgeschwindigkeit,de-DE
+Block Break Speed,Blockabbaugeschwindigkeit,de-DE
+Block Interaction Range,Block‐Interaktionsweite,de-DE
+Blok Etkileşim Mesafesi,Block‐Interaktionsweite,de-DE
+Blok Kırma Hızı,Blockabbaugeschwindigkeit,de-DE
+bonus d'oxygène,Sauerstoffbonus,de-DE
+Bounciness,Federung,de-DE
+Burning Time,Brenndauer,de-DE
+Bật lùi tấn công,Angriffsrückstoß,de-DE
+Camera Distance,Kameraabstand,de-DE
+Canlı Fark Etme Mesafesi,Kreaturen‐Anlockdistanz,de-DE
+Canlı Takip Menzili,Kreaturen‐Verfolgedistanz,de-DE
+Canlı Takip Mesafesi,Kreaturen‐Verfolgedistanz,de-DE
+chance,Glück,de-DE
+Chiều cao bước,Schritthöhe,de-DE
+Contraccolpo,Angriffsrückstoß,de-DE
+Danni per colpo,Angriffsschaden,de-DE
+Dano por golpe,Angriffsschaden,de-DE
+Daño de ataque,Angriffsschaden,de-DE
+distance d'affichage du nom,Namensschildabstand,de-DE
+distance d'affichage du score du nom,Punktetafelabstand,de-DE
+distance de chute sûre,Sichere Fallhöhe,de-DE
+distance de la caméra,Kameraabstand,de-DE
+Distancia de caída segura,Sichere Fallhöhe,de-DE
+Distancia de la cámara,Kameraabstand,de-DE
+Distancia del identificador,Namensschildabstand,de-DE
+Distancia del marcador de puntuación,Punktetafelabstand,de-DE
+Distanza del punteggio nella targhetta,Punktetafelabstand,de-DE
+Distanza dell'inquadratura,Kameraabstand,de-DE
+Distanza della targhetta,Namensschildabstand,de-DE
+Distanza di caduta sicura,Sichere Fallhöhe,de-DE
+Distância da câmera,Kameraabstand,de-DE
+Distância de queda segura,Sichere Fallhöhe,de-DE
+Distância do identificador,Namensschildabstand,de-DE
+Distância do marcador de pontuação,Punktetafelabstand,de-DE
+Duración de quemadura,Brenndauer,de-DE
+Duração de queima,Brenndauer,de-DE
+Dureza de armadura,Rüstungshärte,de-DE
+Düşme Hasarı Çarpanı,Fallschaden‐Multiplikator,de-DE
+efficacité de minage,Abbaueffizienz,de-DE
+efficacité de mouvement,Bewegungseffizienz,de-DE
+efficacité de mouvement aquatique,Wasser‐Bewegungseffizienz,de-DE
+Efficienza d'estrazione,Abbaueffizienz,de-DE
+Efficienza del movimento,Bewegungseffizienz,de-DE
+Efficienza del movimento in acqua,Wasser‐Bewegungseffizienz,de-DE
+Eficiencia al romper bloques,Abbaueffizienz,de-DE
+Eficiencia de movimiento,Bewegungseffizienz,de-DE
+Eficiencia de movimiento acuático,Wasser‐Bewegungseffizienz,de-DE
+Eficiência de mineração,Abbaueffizienz,de-DE
+Eficiência de movimento,Bewegungseffizienz,de-DE
+Eficiência de movimento na água,Wasser‐Bewegungseffizienz,de-DE
+Elasticità,Federung,de-DE
+Empuje de ataque,Angriffsrückstoß,de-DE
+En Fazla Emilim,Maximale Absorption,de-DE
+En Fazla Sağlık,Maximale Gesundheit,de-DE
+Entity Interaction Range,Objekt‐Interaktionsweite,de-DE
+Escala,Größe,de-DE
+Explosion Knockback Resistance,Explosionsstandfestigkeit,de-DE
+Eğilirken Hareket Hızı,Schleichgeschwindigkeit,de-DE
+Eğilme Hızı,Schleichgeschwindigkeit,de-DE
+Fall Damage Multiplier,Fallschaden‐Multiplikator,de-DE
+Flying Speed,Fluggeschwindigkeit,de-DE
+Fortuna,Glück,de-DE
+Forza del salto,Sprungstärke,de-DE
+Forza di salto del cavallo,Pferdesprungstärke,de-DE
+Força de salto do cavalo,Pferdesprungstärke,de-DE
+Força do salto,Sprungstärke,de-DE
+Friction Modifier,Reibungsfaktor,de-DE
+Geniş Saldırı Hasar Oranı,Schwungschadensverhältnis,de-DE
+Giáp,Rüstung,de-DE
+Gravedad,Schwerkraft,de-DE
+Gravidade,Schwerkraft,de-DE
+Gravity,Schwerkraft,de-DE
+Gravità,Schwerkraft,de-DE
+gravité,Schwerkraft,de-DE
+Güvenli Düşüş Mesafesi,Sichere Fallhöhe,de-DE
+Hareket Verimliliği,Bewegungseffizienz,de-DE
+hauteur des pas,Schritthöhe,de-DE
+Hava Direnci Niteleyici,Luftwiderstandsfaktor,de-DE
+Hiệu quả di chuyển,Bewegungseffizienz,de-DE
+Hiệu quả di chuyển dưới nước,Wasser‐Bewegungseffizienz,de-DE
+Hiệu suất đào,Abbaueffizienz,de-DE
+Horse Jump Strength,Pferdesprungstärke,de-DE
+Hız,Geschwindigkeit,de-DE
+Hấp thụ tối đa,Maximale Absorption,de-DE
+Hệ số lực cản không khí,Luftwiderstandsfaktor,de-DE
+Hệ số ma sát,Reibungsfaktor,de-DE
+Hệ số sát thương rơi,Fallschaden‐Multiplikator,de-DE
+Jump Strength,Sprungstärke,de-DE
+Kamera Mesafesi,Kameraabstand,de-DE
+Kazım Verimliliği,Abbaueffizienz,de-DE
+Khoảng cách hiển thị nhãn ghi tên,Namensschildabstand,de-DE
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,Punktetafelabstand,de-DE
+Khoảng cách máy quay,Kameraabstand,de-DE
+Kháng đẩy lùi,Standfestigkeit,de-DE
+Kháng đẩy lùi từ vụ nổ,Explosionsstandfestigkeit,de-DE
+Knockback Resistance,Standfestigkeit,de-DE
+Luck,Glück,de-DE
+Lực lượng thây ma tăng cường,Zombie-Verstärkung,de-DE
+Lực lượng thây ma tăng cường,Zombie‐Verstärkung,de-DE
+Max Absorption,Maximale Absorption,de-DE
+Max Health,Maximale Gesundheit,de-DE
+May mắn,Glück,de-DE
+Mining Efficiency,Abbaueffizienz,de-DE
+Mob Follow Range,Kreaturen‐Verfolgedistanz,de-DE
+Mob Tempt Range,Kreaturen‐Anlockdistanz,de-DE
+Mobの誘引される範囲,Kreaturen‐Anlockdistanz,de-DE
+Mobの追跡範囲,Kreaturen‐Verfolgedistanz,de-DE
+Modificador de atrito,Reibungsfaktor,de-DE
+Modificador de fricción,Reibungsfaktor,de-DE
+Modificador de resistencia del aire,Luftwiderstandsfaktor,de-DE
+Modificador de resistência ao ar,Luftwiderstandsfaktor,de-DE
+modificateur de friction,Reibungsfaktor,de-DE
+modificateur de résistance à l'air,Luftwiderstandsfaktor,de-DE
+Modificatore di attrito,Reibungsfaktor,de-DE
+Modificatore di resistenza aerodinamica,Luftwiderstandsfaktor,de-DE
+Moltiplicatore del danno da caduta,Fallschaden‐Multiplikator,de-DE
+Movement Efficiency,Bewegungseffizienz,de-DE
+Multiplicador de dano por queda,Fallschaden‐Multiplikator,de-DE
+Multiplicador de daño por caída,Fallschaden‐Multiplikator,de-DE
+multiplicateur des dégâts de chute,Fallschaden‐Multiplikator,de-DE
+Name Tag Distance,Namensschildabstand,de-DE
+Name Tag Score Distance,Punktetafelabstand,de-DE
+Oksijen Takviyesi,Sauerstoffbonus,de-DE
+Ossigeno aggiuntivo,Sauerstoffbonus,de-DE
+Oxigênio extra,Sauerstoffbonus,de-DE
+Oxygen Bonus,Sauerstoffbonus,de-DE
+Oxígeno extra,Sauerstoffbonus,de-DE
+Patlama Savrulması Direnci,Explosionsstandfestigkeit,de-DE
+Phạm vi nhận điểm mốc,Wegpunkt‐Empfangsreichweite,de-DE
+Phạm vi thu hút sinh vật,Kreaturen‐Anlockdistanz,de-DE
+Phạm vi truyền điểm mốc,Wegpunkt‐Sendereichweite,de-DE
+Phạm vi tương tác khối,Block‐Interaktionsweite,de-DE
+Phạm vi tương tác thực thể,Objekt‐Interaktionsweite,de-DE
+Phạm vi đi theo của sinh vật,Kreaturen‐Verfolgedistanz,de-DE
+Phần oxi thêm,Sauerstoffbonus,de-DE
+points d'armure,Rüstung,de-DE
+points d'attaque,Angriffsschaden,de-DE
+Portata di ricezione del punto di riferimento,Wegpunkt‐Empfangsreichweite,de-DE
+Portata di trasmissione del punto di riferimento,Wegpunkt‐Sendereichweite,de-DE
+portée d'interaction avec les blocs,Block‐Interaktionsweite,de-DE
+portée d'interaction avec les entités,Objekt‐Interaktionsweite,de-DE
+portée de détection des créatures,Kreaturen‐Verfolgedistanz,de-DE
+portée de réception du point de repère,Wegpunkt‐Empfangsreichweite,de-DE
+portée de tentation des créatures,Kreaturen‐Anlockdistanz,de-DE
+portée de transmission du point de repère,Wegpunkt‐Sendereichweite,de-DE
+Potencia de salto,Sprungstärke,de-DE
+Potencia de salto del caballo,Pferdesprungstärke,de-DE
+Proporción del daño de barrido,Schwungschadensverhältnis,de-DE
+puissance de saut,Sprungstärke,de-DE
+puissance de saut du cheval,Pferdesprungstärke,de-DE
+Punti armatura,Rüstung,de-DE
+Quy mô,Größe,de-DE
+Radio de atracción de criaturas,Kreaturen‐Anlockdistanz,de-DE
+Raggio d'interazione con i blocchi,Block‐Interaktionsweite,de-DE
+Raggio d'interazione con le entità,Objekt‐Interaktionsweite,de-DE
+Raggio di rilevamento delle creature,Kreaturen‐Verfolgedistanz,de-DE
+Raggio di tentazione delle creature,Kreaturen‐Anlockdistanz,de-DE
+Rango de interacción con bloques,Block‐Interaktionsweite,de-DE
+Rango de interacción con entidades,Objekt‐Interaktionsweite,de-DE
+Rango de recepción del punto de referencia,Wegpunkt‐Empfangsreichweite,de-DE
+Rango de seguimiento,Kreaturen‐Verfolgedistanz,de-DE
+Rango de transmisión del punto de referencia,Wegpunkt‐Sendereichweite,de-DE
+rapidité,Geschwindigkeit,de-DE
+Rapporto del danno sferzante,Schwungschadensverhältnis,de-DE
+ratio de dégâts par balayage,Schwungschadensverhältnis,de-DE
+rebond,Federung,de-DE
+Rebote,Federung,de-DE
+recul d'attaque,Angriffsrückstoß,de-DE
+Reforços de zumbis,Zombie-Verstärkung,de-DE
+Reforços de zumbis,Zombie‐Verstärkung,de-DE
+Refuerzos zombi,Zombie-Verstärkung,de-DE
+Refuerzos zombi,Zombie‐Verstärkung,de-DE
+renforts de zombies,Zombie-Verstärkung,de-DE
+renforts de zombies,Zombie‐Verstärkung,de-DE
+Repulsão do ataque,Angriffsrückstoß,de-DE
+Resistencia al empuje,Standfestigkeit,de-DE
+Resistencia al empuje de las explosiones,Explosionsstandfestigkeit,de-DE
+Resistenza al contraccolpo,Standfestigkeit,de-DE
+Resistenza al contraccolpo delle esplosioni,Explosionsstandfestigkeit,de-DE
+Resistência da armadura,Rüstungshärte,de-DE
+Resistência à repulsão,Standfestigkeit,de-DE
+Resistência à repulsão de explosões,Explosionsstandfestigkeit,de-DE
+Rinforzi zombi,Zombie-Verstärkung,de-DE
+Rinforzi zombi,Zombie‐Verstärkung,de-DE
+robustesse,Rüstungshärte,de-DE
+résistance au recul,Standfestigkeit,de-DE
+résistance au recul des explosions,Explosionsstandfestigkeit,de-DE
+Safe Fall Distance,Sichere Fallhöhe,de-DE
+Saldırı Hasarı,Angriffsschaden,de-DE
+Saldırı Hızı,Angriffsgeschwindigkeit,de-DE
+Saldırı Savurması,Angriffsrückstoß,de-DE
+Salud máxima,Maximale Gesundheit,de-DE
+Salute massima,Maximale Gesundheit,de-DE
+Savrulma Direnci,Standfestigkeit,de-DE
+Scala,Größe,de-DE
+Scale,Größe,de-DE
+Sekme,Federung,de-DE
+Sinh lực tối đa,Maximale Gesundheit,de-DE
+Sneaking Speed,Schleichgeschwindigkeit,de-DE
+Solidità dell'armatura,Rüstungshärte,de-DE
+Sorte,Glück,de-DE
+Speed,Geschwindigkeit,de-DE
+Step Height,Schritthöhe,de-DE
+Su Altında Kazım Hızı,Unterwasser‐Abbaugeschwindigkeit,de-DE
+Submerged Mining Speed,Unterwasser‐Abbaugeschwindigkeit,de-DE
+Suda Hareket Verimliliği,Wasser‐Bewegungseffizienz,de-DE
+Suerte,Glück,de-DE
+Sweeping Damage Ratio,Schwungschadensverhältnis,de-DE
+Sürtünme Düzenleyici,Reibungsfaktor,de-DE
+Sức bật lùi,Angriffsrückstoß,de-DE
+Sức nhảy,Sprungstärke,de-DE
+Sức nhảy của ngựa,Pferdesprungstärke,de-DE
+Sức tấn công,Angriffsschaden,de-DE
+taille,Größe,de-DE
+Taxa de dano lateral,Schwungschadensverhältnis,de-DE
+Tempo di combustione,Brenndauer,de-DE
+temps en feu,Brenndauer,de-DE
+Thời gian cháy,Brenndauer,de-DE
+Trọng lực,Schwerkraft,de-DE
+Tỉ lệ sát thương quét cạnh,Schwungschadensverhältnis,de-DE
+Tốc độ,Geschwindigkeit,de-DE
+Tốc độ bay,Fluggeschwindigkeit,de-DE
+Tốc độ phá khối,Blockabbaugeschwindigkeit,de-DE
+Tốc độ tấn công,Angriffsgeschwindigkeit,de-DE
+Tốc độ đi rón rén,Schleichgeschwindigkeit,de-DE
+Tốc độ đào dưới nước,Unterwasser‐Abbaugeschwindigkeit,de-DE
+Uçma Hızı,Fluggeschwindigkeit,de-DE
+Uçuş Hızı,Fluggeschwindigkeit,de-DE
+Varlık Etkileşim Mesafesi,Objekt‐Interaktionsweite,de-DE
+Velocidad,Geschwindigkeit,de-DE
+Velocidad al agacharse,Schleichgeschwindigkeit,de-DE
+Velocidad al romper bloques,Blockabbaugeschwindigkeit,de-DE
+Velocidad al romper bloques sumergido,Unterwasser‐Abbaugeschwindigkeit,de-DE
+Velocidad de ataque,Angriffsgeschwindigkeit,de-DE
+Velocidad de vuelo,Fluggeschwindigkeit,de-DE
+Velocidade,Geschwindigkeit,de-DE
+Velocidade de ataque,Angriffsgeschwindigkeit,de-DE
+Velocidade de mineração submersa,Unterwasser‐Abbaugeschwindigkeit,de-DE
+Velocidade de quebra de blocos,Blockabbaugeschwindigkeit,de-DE
+Velocidade do voo,Fluggeschwindigkeit,de-DE
+Velocidade furtiva,Schleichgeschwindigkeit,de-DE
+Velocità,Geschwindigkeit,de-DE
+Velocità d'attacco,Angriffsgeschwindigkeit,de-DE
+Velocità d'estrazione sott'acqua,Unterwasser‐Abbaugeschwindigkeit,de-DE
+Velocità di distruzione dei blocchi,Blockabbaugeschwindigkeit,de-DE
+Velocità furtiva,Schleichgeschwindigkeit,de-DE
+Velocità in volo,Fluggeschwindigkeit,de-DE
+Vida máxima,Maximale Gesundheit,de-DE
+vie maximale,Maximale Gesundheit,de-DE
+vitesse accroupie,Schleichgeschwindigkeit,de-DE
+vitesse d'attaque,Angriffsgeschwindigkeit,de-DE
+vitesse de destruction des blocs,Blockabbaugeschwindigkeit,de-DE
+vitesse de minage sous l'eau,Unterwasser‐Abbaugeschwindigkeit,de-DE
+vitesse de vol,Fluggeschwindigkeit,de-DE
+Water Movement Efficiency,Wasser‐Bewegungseffizienz,de-DE
+Waypoint Receive Range,Wegpunkt‐Empfangsreichweite,de-DE
+Waypoint Transmit Range,Wegpunkt‐Sendereichweite,de-DE
+Yanma Süresi,Brenndauer,de-DE
+Yer Çekimi,Schwerkraft,de-DE
+Yol Noktası Alma Mesafesi,Wegpunkt‐Empfangsreichweite,de-DE
+Yol Noktası İletme Mesafesi,Wegpunkt‐Sendereichweite,de-DE
+Zombi Takviyesi,Zombie-Verstärkung,de-DE
+Zombi Takviyesi,Zombie‐Verstärkung,de-DE
+Zombie Reinforcements,Zombie-Verstärkung,de-DE
+Zombie Reinforcements,Zombie‐Verstärkung,de-DE
+Zıplama Gücü,Sprungstärke,de-DE
+Zırh,Rüstung,de-DE
+Zırh Sertliği,Rüstungshärte,de-DE
+Ölçek,Größe,de-DE
+Độ bền của áo giáp,Rüstungshärte,de-DE
+Độ bền áo giáp,Rüstungshärte,de-DE
+Độ cao rơi xuống an toàn,Sichere Fallhöhe,de-DE
+Độ nảy,Federung,de-DE
+Şans,Glück,de-DE
+Безопасная высота падения,Sichere Fallhöhe,de-DE
+Бонус к кислороду,Sauerstoffbonus,de-DE
+Броня,Rüstung,de-DE
+Везение,Glück,de-DE
+Время горения,Brenndauer,de-DE
+Высота шага,Schritthöhe,de-DE
+Гравитация,Schwerkraft,de-DE
+Дальность взаимодействия с блоками,Block‐Interaktionsweite,de-DE
+Дальность взаимодействия с сущностями,Objekt‐Interaktionsweite,de-DE
+Дальность видимости имени,Namensschildabstand,de-DE
+Дальность видимости счёта под именем,Punktetafelabstand,de-DE
+Дальность обнаружения маркеров,Wegpunkt‐Empfangsreichweite,de-DE
+Дальность передачи маркера,Wegpunkt‐Sendereichweite,de-DE
+Дальность приманивания,Kreaturen‐Anlockdistanz,de-DE
+Диапазон преследования моба,Kreaturen‐Verfolgedistanz,de-DE
+Коэффициент разящего удара,Schwungschadensverhältnis,de-DE
+Максимальное здоровье,Maximale Gesundheit,de-DE
+Множитель урона от падения,Fallschaden‐Multiplikator,de-DE
+Модификатор сопротивления воздуха,Luftwiderstandsfaktor,de-DE
+Модификатор трения,Reibungsfaktor,de-DE
+Отбрасывание при атаке,Angriffsrückstoß,de-DE
+Отдалённость камеры,Kameraabstand,de-DE
+Подкрепление зомби,Zombie-Verstärkung,de-DE
+Подкрепление зомби,Zombie‐Verstärkung,de-DE
+Предел поглощения,Maximale Absorption,de-DE
+Размер,Größe,de-DE
+Сила прыжка,Sprungstärke,de-DE
+Сила прыжка лошади,Pferdesprungstärke,de-DE
+Скорость,Geschwindigkeit,de-DE
+Скорость атаки,Angriffsgeschwindigkeit,de-DE
+Скорость добычи под водой,Unterwasser‐Abbaugeschwindigkeit,de-DE
+Скорость подкрадывания,Schleichgeschwindigkeit,de-DE
+Скорость полёта,Fluggeschwindigkeit,de-DE
+Скорость разрушения блоков,Blockabbaugeschwindigkeit,de-DE
+Сопротивление к отбрасыванию,Standfestigkeit,de-DE
+Сопротивление к отбрасыванию взрывом,Explosionsstandfestigkeit,de-DE
+Твёрдость брони,Rüstungshärte,de-DE
+Упругость,Federung,de-DE
+Урон при атаке,Angriffsschaden,de-DE
+Эффективность добычи,Abbaueffizienz,de-DE
+Эффективность передвижения,Bewegungseffizienz,de-DE
+Эффективность передвижения в воде,Wasser‐Bewegungseffizienz,de-DE
+กระดอนโจมตี,Angriffsrückstoß,de-DE
+กำลังเสริมซอมบี้,Zombie-Verstärkung,de-DE
+กำลังเสริมซอมบี้,Zombie‐Verstärkung,de-DE
+ขนาด,Größe,de-DE
+ความต้านทานการกระดอน,Standfestigkeit,de-DE
+ความต้านทานการกระดอนจากระเบิด,Explosionsstandfestigkeit,de-DE
+ความสูงของขั้นก้าว,Schritthöhe,de-DE
+ความเด้ง,Federung,de-DE
+ความเร็ว,Geschwindigkeit,de-DE
+ความเร็วการขุดใต้น้ำ,Unterwasser‐Abbaugeschwindigkeit,de-DE
+ความเร็วการทำลายบล็อก,Blockabbaugeschwindigkeit,de-DE
+ความเร็วการบิน,Fluggeschwindigkeit,de-DE
+ความเร็วการย่อง,Schleichgeschwindigkeit,de-DE
+ความเร็วโจมตี,Angriffsgeschwindigkeit,de-DE
+ความแข็งแกร่งของเกราะ,Rüstungshärte,de-DE
+ความแรงการกระโดด,Sprungstärke,de-DE
+ดาเมจโจมตี,Angriffsschaden,de-DE
+ดูดซับสูงสุด,Maximale Absorption,de-DE
+ตัวคูณดาเมจจากการตก,Fallschaden‐Multiplikator,de-DE
+ตัวดัดแปรแรงต้านอากาศ,Luftwiderstandsfaktor,de-DE
+ตัวดัดแปรแรงเสียดทาน,Reibungsfaktor,de-DE
+ประสิทธิภาพการขุด,Abbaueffizienz,de-DE
+ประสิทธิภาพการเคลื่อนที่,Bewegungseffizienz,de-DE
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,Wasser‐Bewegungseffizienz,de-DE
+ระยะการตกที่ปลอดภัย,Sichere Fallhöhe,de-DE
+ระยะการรับเวย์พอยต์,Wegpunkt‐Empfangsreichweite,de-DE
+ระยะการล่อของม็อบ,Kreaturen‐Anlockdistanz,de-DE
+ระยะการส่งผ่านเวย์พอยต์,Wegpunkt‐Sendereichweite,de-DE
+ระยะคะแนนใต้ป้ายชื่อ,Punktetafelabstand,de-DE
+ระยะที่ม็อบติดตาม,Kreaturen‐Verfolgedistanz,de-DE
+ระยะปฏิสัมพันธ์กับบล็อก,Block‐Interaktionsweite,de-DE
+ระยะปฏิสัมพันธ์กับเอนทิตี้,Objekt‐Interaktionsweite,de-DE
+ระยะป้ายชื่อ,Namensschildabstand,de-DE
+ระยะห่างกล้อง,Kameraabstand,de-DE
+ระยะเวลาติดไฟ,Brenndauer,de-DE
+ออกซิเจนพิเศษ,Sauerstoffbonus,de-DE
+อัตราส่วนดาเมจแบบกวาด,Schwungschadensverhältnis,de-DE
+เกราะ,Rüstung,de-DE
+เลือดสูงสุด,Maximale Gesundheit,de-DE
+แรงม้ากระโดด,Pferdesprungstärke,de-DE
+แรงโน้มถ่วง,Schwerkraft,de-DE
+โชค,Glück,de-DE
+なぎ払いダメージの比率,Schwungschadensverhältnis,de-DE
+ウェイポイント伝達距離,Wegpunkt‐Sendereichweite,de-DE
+ウェイポイント受信距離,Wegpunkt‐Empfangsreichweite,de-DE
+ウマの跳躍力,Pferdesprungstärke,de-DE
+エンティティ操作範囲,Objekt‐Interaktionsweite,de-DE
+カメラ距離,Kameraabstand,de-DE
+サイズ,Größe,de-DE
+スニーク速度,Schleichgeschwindigkeit,de-DE
+ゾンビの増援,Zombie-Verstärkung,de-DE
+ゾンビの増援,Zombie‐Verstärkung,de-DE
+ネームタグの表示距離,Namensschildabstand,de-DE
+ネームタグ下のスコアの表示距離,Punktetafelabstand,de-DE
+ノックバック,Angriffsrückstoß,de-DE
+ノックバック力,Angriffsrückstoß,de-DE
+ノックバック耐性,Standfestigkeit,de-DE
+ブロック操作範囲,Block‐Interaktionsweite,de-DE
+ブロック破壊速度,Blockabbaugeschwindigkeit,de-DE
+僵尸增援,Zombie-Verstärkung,de-DE
+僵尸增援,Zombie‐Verstärkung,de-DE
+击退,Angriffsrückstoß,de-DE
+击退抗性,Standfestigkeit,de-DE
+名牌分数距离,Punktetafelabstand,de-DE
+名牌距离,Namensschildabstand,de-DE
+名稱標籤分數距離,Punktetafelabstand,de-DE
+名稱標籤距離,Namensschildabstand,de-DE
+大きさ,Größe,de-DE
+大小,Größe,de-DE
+安全摔落高度,Sichere Fallhöhe,de-DE
+安全落下高度,Sichere Fallhöhe,de-DE
+实体交互距离,Objekt‐Interaktionsweite,de-DE
+實體互動距離,Objekt‐Interaktionsweite,de-DE
+尺寸,Größe,de-DE
+幸运值,Glück,de-DE
+幸運,Glück,de-DE
+弹性,Federung,de-DE
+弾性係数,Federung,de-DE
+彈性,Federung,de-DE
+抗擊退,Standfestigkeit,de-DE
+抗爆炸擊退,Explosionsstandfestigkeit,de-DE
+护甲值,Rüstung,de-DE
+挖掘效率,Abbaueffizienz,de-DE
+採掘効率,Abbaueffizienz,de-DE
+摔落伤害倍数,Fallschaden‐Multiplikator,de-DE
+摔落傷害倍率,Fallschaden‐Multiplikator,de-DE
+摩擦係数,Reibungsfaktor,de-DE
+摩擦力修正係數,Reibungsfaktor,de-DE
+摩擦力修正系数,Reibungsfaktor,de-DE
+擊退,Angriffsrückstoß,de-DE
+攻击伤害,Angriffsschaden,de-DE
+攻击速度,Angriffsgeschwindigkeit,de-DE
+攻撃力,Angriffsschaden,de-DE
+攻撃速度,Angriffsgeschwindigkeit,de-DE
+攻擊傷害,Angriffsschaden,de-DE
+攻擊速度,Angriffsgeschwindigkeit,de-DE
+方块交互距离,Block‐Interaktionsweite,de-DE
+方块破坏速度,Blockabbaugeschwindigkeit,de-DE
+方塊互動距離,Block‐Interaktionsweite,de-DE
+方塊破壞速度,Blockabbaugeschwindigkeit,de-DE
+最大伤害吸收值,Maximale Absorption,de-DE
+最大体力,Maximale Gesundheit,de-DE
+最大傷害吸收值,Maximale Absorption,de-DE
+最大生命值,Maximale Gesundheit,de-DE
+最大行走高度,Schritthöhe,de-DE
+最高生命值,Maximale Gesundheit,de-DE
+横扫伤害比率,Schwungschadensverhältnis,de-DE
+橫掃傷害率,Schwungschadensverhältnis,de-DE
+殭屍增援隊,Zombie-Verstärkung,de-DE
+殭屍增援隊,Zombie‐Verstärkung,de-DE
+段差上限,Schritthöhe,de-DE
+水下挖掘速度,Unterwasser‐Abbaugeschwindigkeit,de-DE
+水中挖掘速度,Unterwasser‐Abbaugeschwindigkeit,de-DE
+水中採掘速度,Unterwasser‐Abbaugeschwindigkeit,de-DE
+水中移动效率,Wasser‐Bewegungseffizienz,de-DE
+水中移動効率,Wasser‐Bewegungseffizienz,de-DE
+水中移動效率,Wasser‐Bewegungseffizienz,de-DE
+潛行速度,Schleichgeschwindigkeit,de-DE
+潜行速度,Schleichgeschwindigkeit,de-DE
+炎上時間,Brenndauer,de-DE
+燃燒時間,Brenndauer,de-DE
+爆炸击退抗性,Explosionsstandfestigkeit,de-DE
+爆発ノックバック耐性,Explosionsstandfestigkeit,de-DE
+生物引誘範圍,Kreaturen‐Anlockdistanz,de-DE
+生物引诱范围,Kreaturen‐Anlockdistanz,de-DE
+生物跟随距离,Kreaturen‐Verfolgedistanz,de-DE
+生物追蹤範圍,Kreaturen‐Verfolgedistanz,de-DE
+盔甲,Rüstung,de-DE
+盔甲強度,Rüstungshärte,de-DE
+盔甲韧性,Rüstungshärte,de-DE
+着火时间,Brenndauer,de-DE
+移动效率,Bewegungseffizienz,de-DE
+移動効率,Bewegungseffizienz,de-DE
+移動效率,Bewegungseffizienz,de-DE
+移動速度,Geschwindigkeit,de-DE
+空气阻力修正系数,Luftwiderstandsfaktor,de-DE
+空気抵抗係数,Luftwiderstandsfaktor,de-DE
+空氣阻力修正係數,Luftwiderstandsfaktor,de-DE
+落下ダメージ倍率,Fallschaden‐Multiplikator,de-DE
+衝撃吸収レベルの上限,Maximale Absorption,de-DE
+路径点传输距离,Wegpunkt‐Sendereichweite,de-DE
+路径点接收距离,Wegpunkt‐Empfangsreichweite,de-DE
+路徑點傳輸距離,Wegpunkt‐Sendereichweite,de-DE
+路徑點接收距離,Wegpunkt‐Empfangsreichweite,de-DE
+跳跃力度,Sprungstärke,de-DE
+跳躍力,Sprungstärke,de-DE
+速度,Geschwindigkeit,de-DE
+運,Glück,de-DE
+酸素ボーナス,Sauerstoffbonus,de-DE
+重力,Schwerkraft,de-DE
+鏡頭距離,Kameraabstand,de-DE
+镜头距离,Kameraabstand,de-DE
+防具強度,Rüstungshärte,de-DE
+防御力,Rüstung,de-DE
+額外氧氣,Sauerstoffbonus,de-DE
+额外氧气,Sauerstoffbonus,de-DE
+飛行速度,Fluggeschwindigkeit,de-DE
+飞行速度,Fluggeschwindigkeit,de-DE
+馬跳躍力,Pferdesprungstärke,de-DE
+马匹跳跃能力,Pferdesprungstärke,de-DE
+개체 상호 작용 범위,Objekt‐Interaktionsweite,de-DE
+걸음 높이,Schritthöhe,de-DE
+경로점 발신 범위,Wegpunkt‐Sendereichweite,de-DE
+경로점 수신 범위,Wegpunkt‐Empfangsreichweite,de-DE
+공격 밀침 세기,Angriffsrückstoß,de-DE
+공격 속도,Angriffsgeschwindigkeit,de-DE
+공격 피해,Angriffsschaden,de-DE
+공기 저항력 변경자,Luftwiderstandsfaktor,de-DE
+낙하 피해 배수,Fallschaden‐Multiplikator,de-DE
+마찰력 변경자,Reibungsfaktor,de-DE
+말 점프 강도,Pferdesprungstärke,de-DE
+몹 따름 범위,Kreaturen‐Verfolgedistanz,de-DE
+몹 유인 범위,Kreaturen‐Anlockdistanz,de-DE
+밀침 저항,Standfestigkeit,de-DE
+방어,Rüstung,de-DE
+방어 강도,Rüstungshärte,de-DE
+배율,Größe,de-DE
+블록 상호 작용 범위,Block‐Interaktionsweite,de-DE
+블록 파괴 속도,Blockabbaugeschwindigkeit,de-DE
+비행 속도,Fluggeschwindigkeit,de-DE
+산소 추가,Sauerstoffbonus,de-DE
+속도,Geschwindigkeit,de-DE
+수중 이동 효율,Wasser‐Bewegungseffizienz,de-DE
+수중 채굴 속도,Unterwasser‐Abbaugeschwindigkeit,de-DE
+안전 낙하 거리,Sichere Fallhöhe,de-DE
+연소 시간,Brenndauer,de-DE
+웅크렸을 때 속도,Schleichgeschwindigkeit,de-DE
+이동 효율,Bewegungseffizienz,de-DE
+이름표 거리,Namensschildabstand,de-DE
+이름표 점수 거리,Punktetafelabstand,de-DE
+점프 세기,Sprungstärke,de-DE
+좀비 증원,Zombie-Verstärkung,de-DE
+좀비 증원,Zombie‐Verstärkung,de-DE
+중력,Schwerkraft,de-DE
+채굴 효율,Abbaueffizienz,de-DE
+최대 생명력,Maximale Gesundheit,de-DE
+최대 흡수,Maximale Absorption,de-DE
+카메라 거리,Kameraabstand,de-DE
+크기,Größe,de-DE
+탄성,Federung,de-DE
+폭발 밀침 저항,Explosionsstandfestigkeit,de-DE
+행운,Glück,de-DE
+휩쓸기 피해 비율,Schwungschadensverhältnis,de-DE

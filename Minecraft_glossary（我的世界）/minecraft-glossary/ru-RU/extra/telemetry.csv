@@ -1,0 +1,998 @@
+﻿source,target,tgt_lng
+%s (Bắt buộc),%s (обязательно),ru-RU
+%s (erforderlich),%s (обязательно),ru-RU
+%s (facoltativo),%s (необязательно),ru-RU
+%s (facoltativo) — disattivato,%s (необязательно) — Отключено,ru-RU
+%s (facultatif),%s (необязательно),ru-RU
+%s (facultatif) - désactivé,%s (необязательно) — Отключено,ru-RU
+%s (Gerekli),%s (обязательно),ru-RU
+%s (İsteğe Bağlı),%s (необязательно),ru-RU
+%s (İsteğe Bağlı) - Devre Dışı,%s (необязательно) — Отключено,ru-RU
+%s (Không bắt buộc),%s (необязательно),ru-RU
+%s (không bắt buộc) - Đã tắt,%s (необязательно) — Отключено,ru-RU
+%s (necesario),%s (обязательно),ru-RU
+%s (necessario),%s (обязательно),ru-RU
+%s (obrigatório),%s (обязательно),ru-RU
+%s (opcional),%s (необязательно),ru-RU
+%s (opcional) — Não,%s (необязательно) — Отключено,ru-RU
+%s (opcional): Desactivado,%s (необязательно) — Отключено,ru-RU
+%s (Optional),%s (необязательно),ru-RU
+%s (optional),%s (необязательно),ru-RU
+%s (Optional) - Disabled,%s (необязательно) — Отключено,ru-RU
+%s (optional) – Deaktiviert,%s (необязательно) — Отключено,ru-RU
+%s (Required),%s (обязательно),ru-RU
+%s (requis),%s (обязательно),ru-RU
+%s (จำเป็น),%s (обязательно),ru-RU
+%s (ไม่จำเป็น),%s (необязательно),ru-RU
+%s (ไม่จำเป็น) - ปิดการใช้งาน,%s (необязательно) — Отключено,ru-RU
+%s (선택적),%s (необязательно),ru-RU
+%s (선택적) - 꺼짐,%s (необязательно) — Отключено,ru-RU
+%s (필수),%s (обязательно),ru-RU
+%s（任意）,%s (необязательно),ru-RU
+%s（任意） - 無効,%s (необязательно) — Отключено,ru-RU
+%s（可选）,%s (необязательно),ru-RU
+%s（可选，已禁用）,%s (необязательно) — Отключено,ru-RU
+%s（可選 – 已停用）,%s (необязательно) — Отключено,ru-RU
+%s（可選）,%s (необязательно),ru-RU
+%s（必要）,%s (обязательно),ru-RU
+%s（必須）,%s (обязательно),ru-RU
+Acconsento all'invio di dati di telemetria facoltativi,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+Aceito o envio de telemetria opcional,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+Advancement ID,Идентификатор достижения,ru-RU
+Advancement Made,Новое достижение,ru-RU
+Alcance visual,Дальность прорисовки,ru-RU
+Amostras de taxa de quadros (FPS),Выборка частоты кадров (FPS),ru-RU
+Amostras do tempo de renderização,Выборка времени кадра,ru-RU
+"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+Anzahl der Datenwerte,Величина выборки,ru-RU
+Arka Uç Adı,Название графического API,ru-RU
+Arka Uç Oluşturma Hatası Eksik Özellikler,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+Arka Uç Oluşturma Hatası Mesajı,Ошибка инициализации графического API: подробности,ru-RU
+Arka Uç Oluşturma Hatası Nedeni,Ошибка инициализации графического API: причина,ru-RU
+Ayrılmış Bellek (kB),Выделенная память (Кбайт),ru-RU
+Backend Creation Failure Message,Ошибка инициализации графического API: подробности,ru-RU
+Backend Creation Failure Missing Capabilities,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+Backend Creation Failure Reason,Ошибка инициализации графического API: причина,ru-RU
+Backend Name,Название графического API,ru-RU
+Backend‐Initialisierungsfehler: Fehlende Funktionen,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+Backend‐Initialisierungsfehler: Fehlermeldung,Ошибка инициализации графического API: подробности,ru-RU
+Backend‐Initialisierungsfehler: Grund,Ошибка инициализации графического API: причина,ru-RU
+Bağlantı Başarılı,Успешность подключения,ru-RU
+Bağlantı Süresi (Milisaniye),Время установления соединения (миллисекунды),ru-RU
+Başarısızlık Aşaması,Этап отказа,ru-RU
+Başlatıcı Adı,Название лаунчера,ru-RU
+Benutzer‐ID,Идентификатор пользователя,ru-RU
+Betriebssystem,Операционная система,ru-RU
+"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.","Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+Bootstrap Time (Milliseconds),Время инициализации (миллисекунды),ru-RU
+Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+"Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+"Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+Bộ nhớ chuyên dụng (kB),Выделенная память (Кбайт),ru-RU
+Bộ nhớ truy cập ngẫu nhiên đã sử dụng,Использование ОЗУ,ru-RU
+Caminho do Interactive Connectivity Establishment (ICE),Маршрут установления интерактивного соединения (ICE),ru-RU
+Campioni del tempo di elaborazione grafica,Выборка времени кадра,ru-RU
+Campioni di frequenza dei fotogrammi [fps],Выборка частоты кадров (FPS),ru-RU
+Capacidades gráficas,Возможности графического устройства,ru-RU
+Capacités graphiques,Возможности графического устройства,ru-RU
+Capacités manquantes lors de l'échec de la création du backend,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+Capire il contesto relativo al compimento di un progresso può aiutarci a comprendere meglio e a perfezionare la sequenza di gioco.,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+"Cet événement est associé à l'événement ""Monde chargé"" pour calculer la durée de la session de jeu.
+La durée (en secondes et en ticks) est mesurée lorsqu'une session de jeu est terminée (en retournant au menu principal ou en se déconnectant d'un serveur).","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+"Cet événement nous aide à évaluer la fiabilité et les performances des connexions pair à pair entre les joueurs. Il enregistre la réussite ou l'échec de la connexion, le type de candidat utilisé pour l'établissement de connectivité interactive (ICE, le protocole que nous utilisons pour établir les connexions pair à pair) ainsi que le temps nécessaire pour établir la connexion.","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+Cet événement nous informe des capacités du périphérique graphique utilisé pour jouer au jeu.,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+Cet événement peut nous aider à déterminer où des améliorations des performances au démarrage sont nécessaires en mesurant les temps d'exécution des phases.,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+Chemin de l'établissement de connectivité interactive (ICE),Маршрут установления интерактивного соединения (ICE),ru-RU
+Chế độ chơi,Режим игры,ru-RU
+Chọn tham gia,Согласие на отправку,ru-RU
+Client ID,Идентификатор клиента,ru-RU
+Client Modded,Модифицированность клиента,ru-RU
+Client moddé ?,Модифицированность клиента,ru-RU
+Client modifiziert,Модифицированность клиента,ru-RU
+Cliente modificado,Модифицированность клиента,ru-RU
+Client‐ID,Идентификатор клиента,ru-RU
+Coleta de dados telemétricos,Сбор данных телеметрии,ru-RU
+"Coletar esses dados nos ajuda a melhorar o Minecraft, guiando nosso trabalho em direções relevantes para os jogadores.
+Você também pode enviar seu feedback para nos ajudar a melhorar o Minecraft.","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+Collecte des données de télémétrie,Сбор данных телеметрии,ru-RU
+"Collecter ces données nous aide à améliorer Minecraft en nous guidant dans des directions qui sont pertinentes pour nos joueurs.
+Vous pouvez aussi donner votre avis pour nous aider à améliorer le jeu.","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+"Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.
+You can also send in additional feedback to help us keep improving Minecraft.","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+Compartir datos,Согласие на отправку,ru-RU
+Comprender el contexto en el que se realiza un progreso nos ayudará a entender y mejorar la progresión del juego.,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+Comprendre le contexte derrière la réalisation d'un progrès peut nous aider à améliorer la progression du jeu.,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+Conectado con éxito,Успешность подключения,ru-RU
+Conexión P2P,Одноранговое соединение,ru-RU
+Conexão estabelecida,Успешность подключения,ru-RU
+Conexão ponto a ponto,Одноранговое соединение,ru-RU
+"Conhecer o perfil geral de desempenho do Minecraft nos ajuda a otimizar o jogo para uma ampla variedade de dispositivos e sistemas operacionais. 
+A versão do jogo é incluída para nos ajudar a comparar o desempenho das novas versões do Minecraft.","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+Connection Successful,Успешность подключения,ru-RU
+Connessione a rete paritaria,Одноранговое соединение,ru-RU
+Connexion pair à pair,Одноранговое соединение,ru-RU
+Connexion réussie,Успешность подключения,ru-RU
+"Conocer el perfil de rendimiento de Minecraft nos ayuda a optimizar el juego para muchas especificaciones y sistemas operativos. 
+La versión del juego se incluye para ayudarnos a comparar el rendimiento de nuevas versiones.","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+"Conoscere il profilo delle prestazioni di Minecraft ci aiuta ad adattare e a ottimizzare il gioco per un'ampia gamma di dispositivi e sistemi operativi.
+La versione del gioco è inclusa per aiutarci a effettuare il confronto con il profilo delle prestazioni delle nuove versioni di Minecraft.","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+Consenso,Согласие на отправку,ru-RU
+Consentement,Согласие на отправку,ru-RU
+Contagem de amostras,Величина выборки,ru-RU
+Contenido del mapa de Realms (nombre del minijuego),Карта Realms (название мини-игры),ru-RU
+Contenu de la carte de Realms (nom du mini-jeu),Карта Realms (название мини-игры),ru-RU
+Conteúdo do mapa do Realms (nome do minijogo),Карта Realms (название мини-игры),ru-RU
+Dados incluídos,Включённые данные,ru-RU
+Danos tu opinión,Оставить отзыв,ru-RU
+Datenschutzerklärung,Заявление о конфиденциальности,ru-RU
+Datenwerte zur Bildwiederholrate (FPS),Выборка частоты кадров (FPS),ru-RU
+Datenwerte zur Renderzeit,Выборка времени кадра,ru-RU
+Dati inclusi,Включённые данные,ru-RU
+Datos incluidos,Включённые данные,ru-RU
+Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+Declaración de privacidad,Заявление о конфиденциальности,ru-RU
+Declaração de Privacidade,Заявление о конфиденциальности,ru-RU
+Dedicated Memory (kB),Выделенная память (Кбайт),ru-RU
+"Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+"Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+"Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.","Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+Direktverbindung,Одноранговое соединение,ru-RU
+Distance d'affichage,Дальность прорисовки,ru-RU
+Distancia de renderizado,Дальность прорисовки,ru-RU
+Donner son avis,Оставить отзыв,ru-RU
+Données incluses,Включённые данные,ru-RU
+Déclaration de confidentialité,Заявление о конфиденциальности,ru-RU
+Dünya Oturum Kimliği,Идентификатор сессии мира,ru-RU
+Dünya Yükleme Süresi (Milisaniye),Время загрузки мира (миллисекунды),ru-RU
+Dünya Yüklendi,Загрузка мира,ru-RU
+Dünya Yüklenme Süreleri,Время загрузки мира,ru-RU
+Dünyadan Çıkıldı,Выгрузка мира,ru-RU
+Dấu thời gian sự kiện (giờ UTC),Временная метка (UTC),ru-RU
+Dữ liệu được bao gồm,Включённые данные,ru-RU
+"En apprendre davantage sur la manière dont les joueurs jouent à Minecraft (avec quel mode de jeu, si le client ou le serveur est moddé, sous quelle version) nous aide à améliorer les aspects qui ont le plus d'importance pour les joueurs.
+L'événement ""Monde chargé"" est associé à l'événement ""Monde déchargé"" pour calculer la durée de la session de jeu.","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+"En apprendre davantage sur le profil global des performances de Minecraft nous aide à ajuster et optimiser le jeu pour un large éventail d'appareils et de systèmes d'exploitation. 
+La version du jeu est incluse pour nous aider à comparer le profil des performances des nouvelles versions de Minecraft.","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+Entender o contexto de um progresso pode nos ajudar a entender e melhorar a progressão do jogo.,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+Enthaltene Daten,Включённые данные,ru-RU
+Enviar feedback,Оставить отзыв,ru-RU
+Erforderliches/optionales Ereignis,Согласие на отправку,ru-RU
+Erro ao criar o backend por falta de capacidades,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+Error en la creación del backend por falta de capacidades,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+"Es importante que sepamos cuánto tiempo se tarda en entrar en un mundo y cómo cambia eso con el tiempo. Por ejemplo, cuando añadimos nuevas características o realizamos cambios técnicos grandes, necesitamos ver qué impacto tienen en los tiempos de carga.","Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.","Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+Esito della connessione positivo,Успешность подключения,ru-RU
+"Esse evento nos ajuda a detectar a estabilidade e o desempenho das conexões ponto a ponto entre jogadores. Ele registra se a conexão foi estabelecida com êxito, o tipo de candidato usado (também conhecido por Interactive Connectivity Establishment, ou ICE, protocolo usado para estabelecer conexões ponto a ponto) e a duração para estabelecer a conexão.","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+Esse evento nos informa sobre as capacidades do dispositivo gráfico usado durante o jogo.,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+Esse evento pode nos ajudar a identificar as melhorias de desempenho de inicialização necessárias ao medir os tempos de execução das fases de inicialização.,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+"Esse evento é sincronizado com o ""Mundo Carregado"" para calcular a duração da sessão de jogo.
+A duração (em segundos e tiques) é medida no final de uma sessão (ao sair para o menu principal ou de um servidor).","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+"Este evento está unido al de «Mundo cargado» para calcular cuánto ha durado la sesión de juego.
+La duración (en segundos y tics) se mide cuando una sesión de juego termina (saliendo al menú principal, desconectándose de un servidor).","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+"Este evento nos ayuda a comprender la fiabilidad y el rendimiento de las conexiones P2P entre jugadores. Registra si la conexión fue exitosa, el tipo de conectividad interactiva (ICE, el protocolo que usamos para establecer conexiones P2P) que pudo utilizarse y cuánto tiempo tardó en establecerse la conexión.","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+Este evento nos informa sobre las capacidades del dispositivo gráfico utilizado para jugar.,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+"Este evento puede ayudarnos a determinar donde se necesitan las mejoras de rendimiento, midiendo los tiempos de ejecución de las diferentes fases de arranque.","Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,Маршрут установления интерактивного соединения (ICE),ru-RU
+Event Timestamp (UTC),Временная метка (UTC),ru-RU
+Externer Kandidatentyp,Тип удалённого кандидата,ru-RU
+Failure Stage,Этап отказа,ru-RU
+Fase de fallo,Этап отказа,ru-RU
+Fase dell'errore,Этап отказа,ru-RU
+Fase do erro,Этап отказа,ru-RU
+Feedback geben,Оставить отзыв,ru-RU
+Fehlerphase,Этап отказа,ru-RU
+Fortschritt erzielt,Новое достижение,ru-RU
+Fortschritts‐ID,Идентификатор достижения,ru-RU
+Frame Rate Samples (fps),Выборка частоты кадров (FPS),ru-RU
+Funzionalità grafiche,Возможности графического устройства,ru-RU
+Funzionalità mancanti alla creazione della libreria,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+Game Load Times,Время загрузки игры,ru-RU
+Game Mode,Режим игры,ru-RU
+Game Time (Ticks),Время игры (такты),ru-RU
+Game Version,Версия игры,ru-RU
+Gelişim Kimliği,Идентификатор достижения,ru-RU
+Gelişim Yapıldı,Новое достижение,ru-RU
+Geri Bildirim,Оставить отзыв,ru-RU
+Gesamte Ladezeit (Millisekunden),Общее время загрузки (миллисекунды),ru-RU
+Gesamte Verbindungszeit (Millisekunden),Общее время подключения (миллисекунды),ru-RU
+Giai đoạn gây lỗi,Этап отказа,ru-RU
+Give Feedback,Оставить отзыв,ru-RU
+Gizlilik Beyanı,Заявление о конфиденциальности,ru-RU
+Grafik Özellikleri,Возможности графического устройства,ru-RU
+Grafikfunktionen,Возможности графического устройства,ru-RU
+Graphics Capabilities,Возможности графического устройства,ru-RU
+Görüntü Oluşturma Zamanları,Выборка времени кадра,ru-RU
+Görüş Mesafesi,Дальность прорисовки,ru-RU
+Gửi phản hồi,Оставить отзыв,ru-RU
+Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+Hora del evento (UTC),Временная метка (UTC),ru-RU
+Hora do evento (UTC),Временная метка (UTC),ru-RU
+Horodatage de l'événement (UTC),Временная метка (UTC),ru-RU
+Hệ điều hành,Операционная система,ru-RU
+I consent to sending optional telemetry data,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+Ich stimme der Übermittlung optionaler Telemetriedaten zu,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+ID da sessão do Minecraft,Идентификатор сессии Minecraft,ru-RU
+ID da sessão do mundo,Идентификатор сессии мира,ru-RU
+ID da sessão do servidor,Идентификатор сессии сервера,ru-RU
+ID de l'utilisateur,Идентификатор пользователя,ru-RU
+ID de la session de Minecraft,Идентификатор сессии Minecraft,ru-RU
+ID de la session du monde,Идентификатор сессии мира,ru-RU
+ID de la session du serveur,Идентификатор сессии сервера,ru-RU
+ID del client,Идентификатор клиента,ru-RU
+ID del progresso,Идентификатор достижения,ru-RU
+ID dell'utente,Идентификатор пользователя,ru-RU
+ID della sessione del mondo,Идентификатор сессии мира,ru-RU
+ID della sessione del server,Идентификатор сессии сервера,ru-RU
+ID della sessione di Minecraft,Идентификатор сессии Minecraft,ru-RU
+ID do cliente,Идентификатор клиента,ru-RU
+ID do progresso,Идентификатор достижения,ru-RU
+ID do usuário,Идентификатор пользователя,ru-RU
+ID du client,Идентификатор клиента,ru-RU
+ID du progrès,Идентификатор достижения,ru-RU
+ID máy khách,Идентификатор клиента,ru-RU
+ID người dùng,Идентификатор пользователя,ru-RU
+ID phiên Minecraft,Идентификатор сессии Minecraft,ru-RU
+ID phiên máy chủ,Идентификатор сессии сервера,ru-RU
+ID phiên thế giới,Идентификатор сессии мира,ru-RU
+ID tiến trình,Идентификатор достижения,ru-RU
+ID ความก้าวหน้า,Идентификатор достижения,ru-RU
+ID ผู้ใช้,Идентификатор пользователя,ru-RU
+ID เซสชัน Minecraft,Идентификатор сессии Minecraft,ru-RU
+ID เซสชันเซิร์ฟเวอร์,Идентификатор сессии сервера,ru-RU
+ID เซสชันโลก,Идентификатор сессии мира,ru-RU
+ID ไคลเอนต์,Идентификатор клиента,ru-RU
+Id. de cliente,Идентификатор клиента,ru-RU
+Id. de sesión de Minecraft,Идентификатор сессии Minecraft,ru-RU
+Id. de sesión del mundo,Идентификатор сессии мира,ru-RU
+Id. de sesión del servidor,Идентификатор сессии сервера,ru-RU
+Id. de usuario,Идентификатор пользователя,ru-RU
+Id. del progreso,Идентификатор достижения,ru-RU
+"Il est important pour nous de déterminer le temps nécessaire pour rejoindre un monde, et la manière dont cela évolue au fil du temps. Par exemple, lorsque nous ajoutons de nouvelles fonctionnalités ou réalisons d'importants changements techniques, nous avons besoin d'en observer l'impact sur les temps de chargement.","Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+Included Data,Включённые данные,ru-RU
+Info sulla riservatezza,Заявление о конфиденциальности,ru-RU
+Initialisierungszeit (Millisekunden),Время инициализации (миллисекунды),ru-RU
+Interactive Connectivity Establishment (ICE) Connect Time (Milliseconds),Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+Interactive Connectivity Establishment (ICE) Path,Маршрут установления интерактивного соединения (ICE),ru-RU
+Interactive Connectivity Establishment（ICE）パス,Маршрут установления интерактивного соединения (ICE),ru-RU
+Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+Interner Kandidatentyp,Тип локального кандидата,ru-RU
+Invia riscontro,Оставить отзыв,ru-RU
+"It's important for us to understand how long it takes to join a world, and how that changes over time. For example, when we add new features or do larger technical changes, we need to see what impact that had on load times.","Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+İstemci Kimliği,Идентификатор клиента,ru-RU
+İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+İçerilen Veri,Включённые данные,ru-RU
+İşletim Sistemi,Операционная система,ru-RU
+J'accepte l'envoi de données de télémétrie facultatives,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+Kare Hızı Örnekleri (fps),Выборка частоты кадров (FPS),ru-RU
+Katıl,Согласие на отправку,ru-RU
+Khoảng cách kết xuất,Дальность прорисовки,ru-RU
+"Knowing how players play Minecraft (such as Game Mode, client or server modded, and game version) allows us to focus game updates to improve the areas that players care about most.
+The World Loaded event is paired with the World Unloaded event to calculate how long the play session has lasted.","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+"Knowing the overall performance profile of Minecraft helps us tune and optimize the game for a wide range of machine specifications and operating systems.
+Game version is included to help us compare the performance profile for new versions of Minecraft.","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+Kullanıcı Kimliği,Идентификатор пользователя,ru-RU
+Kullanılan Bellek (RAM),Использование ОЗУ,ru-RU
+Kết nối ngang hàng,Одноранговое соединение,ru-RU
+Kết nối thành công,Успешность подключения,ru-RU
+"La raccolta di questi dati ci aiuta a migliorare Minecraft, indicandoci le decisioni più opportune per i giocatori. Inoltre, puoi inviare un riscontro aggiuntivo per aiutarci a migliorare Minecraft ulteriormente.","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+"La recolección de datos nos ayuda a mejorar Minecraft guiándonos hacia direcciones que sean relevantes para nuestros jugadores.
+También puedes enviar sugerencias para ayudarnos a seguir mejorando Minecraft.","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+Launcher Name,Название лаунчера,ru-RU
+Launcher‐Name,Название лаунчера,ru-RU
+Leistungsmetriken,Показатели производительности,ru-RU
+Local Candidate Type,Тип локального кандидата,ru-RU
+Loại máy chủ,Тип сервера,ru-RU
+Loại ứng viên cục bộ,Тип локального кандидата,ru-RU
+Loại ứng viên từ xa,Тип удалённого кандидата,ru-RU
+Lý do lỗi tạo Backend,Ошибка инициализации графического API: причина,ru-RU
+Medición del rendimiento,Показатели производительности,ru-RU
+Meine Daten einsehen,Мои данные,ru-RU
+Memoria de acceso aleatorio usada (RAM),Использование ОЗУ,ru-RU
+Memoria dedicada (kB),Выделенная память (Кбайт),ru-RU
+Memoria dedicata [kB],Выделенная память (Кбайт),ru-RU
+Memória dedicada (kB),Выделенная память (Кбайт),ru-RU
+Memória RAM usada,Использование ОЗУ,ru-RU
+Mensagem de erro ao criar o backend,Ошибка инициализации графического API: подробности,ru-RU
+Mensaje de error en la creación del backend,Ошибка инициализации графического API: подробности,ru-RU
+Message d'échec de la création du backend,Ошибка инициализации графического API: подробности,ru-RU
+Messaggio dell'errore nella creazione della libreria,Ошибка инициализации графического API: подробности,ru-RU
+Mesures de performances,Показатели производительности,ru-RU
+Metriche di prestazione,Показатели производительности,ru-RU
+Minecraft Oturum Kimliği,Идентификатор сессии Minecraft,ru-RU
+Minecraft Session ID,Идентификатор сессии Minecraft,ru-RU
+Minecraft 세션 ID,Идентификатор сессии Minecraft,ru-RU
+Minecraft‐Sitzungs‐ID,Идентификатор сессии Minecraft,ru-RU
+"Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+MinecraftのセッションID,Идентификатор сессии Minecraft,ru-RU
+Minecraft会话ID,Идентификатор сессии Minecraft,ru-RU
+"Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+"Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+"Misurando il tempo necessario a eseguire le fasi di avvio, quest'evento può aiutarci a capire dove c'è bisogno di migliorie.","Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+Modalità di gioco,Режим игры,ru-RU
+Mode de jeu,Режим игры,ru-RU
+Modifiche del client,Модифицированность клиента,ru-RU
+Modifiche del server,Модифицированность сервера,ru-RU
+Modlanmış İstemci,Модифицированность клиента,ru-RU
+Modlanmış Sunucu,Модифицированность сервера,ru-RU
+Modo de jogo,Режим игры,ru-RU
+Modo de juego,Режим игры,ru-RU
+Modが導入されたクライアント,Модифицированность клиента,ru-RU
+Modが導入されたサーバー,Модифицированность сервера,ru-RU
+Monde chargé,Загрузка мира,ru-RU
+Monde déchargé,Выгрузка мира,ru-RU
+Mondo caricato,Загрузка мира,ru-RU
+Mondo scaricato,Выгрузка мира,ru-RU
+Mostra i miei dati,Мои данные,ru-RU
+Motivo de error en la creación del backend,Ошибка инициализации графического API: причина,ru-RU
+Motivo dell'errore nella creazione della libreria,Ошибка инициализации графического API: причина,ru-RU
+Motivo do erro ao criar o backend,Ошибка инициализации графического API: причина,ru-RU
+Muestras de fotogramas por segundo (FPS),Выборка частоты кадров (FPS),ru-RU
+Muestras de tiempo de renderizado,Выборка времени кадра,ru-RU
+Mundo cargado,Загрузка мира,ru-RU
+Mundo Carregado,Загрузка мира,ru-RU
+Mundo descargado,Выгрузка мира,ru-RU
+Mundo Descarregado,Выгрузка мира,ru-RU
+Mundo nuevo,Новый мир,ru-RU
+Máy chủ đã sửa đổi,Модифицированность сервера,ru-RU
+Máy khách đã sửa đổi,Модифицированность клиента,ru-RU
+Mémoire dédiée (Ko),Выделенная память (Кбайт),ru-RU
+Mémoire vive utilisée (RAM),Использование ОЗУ,ru-RU
+Métricas de desempenho,Показатели производительности,ru-RU
+Mẫu thời gian kết xuất,Выборка времени кадра,ru-RU
+Mẫu tốc độ khung hình (FPS),Выборка частоты кадров (FPS),ru-RU
+Name der Schnittstelle,Название графического API,ru-RU
+Neue Welt,Новый мир,ru-RU
+New World,Новый мир,ru-RU
+Nom du backend,Название графического API,ru-RU
+Nom du Launcher,Название лаунчера,ru-RU
+Nombre d'échantillons,Величина выборки,ru-RU
+Nombre del backend,Название графического API,ru-RU
+Nombre del lanzador,Название лаунчера,ru-RU
+Nome del launcher,Название лаунчера,ru-RU
+Nome del minigioco o contenuto di Realms,Карта Realms (название мини-игры),ru-RU
+Nome della libreria grafica,Название графического API,ru-RU
+Nome do backend,Название графического API,ru-RU
+Nome do launcher,Название лаунчера,ru-RU
+Nouveau monde ?,Новый мир,ru-RU
+Novo mundo,Новый мир,ru-RU
+Numero di campioni,Величина выборки,ru-RU
+Nuovo mondo,Новый мир,ru-RU
+Número de muestras,Величина выборки,ru-RU
+Nền tảng,Платформа,ru-RU
+Nội dung bản đồ Realms (tên trò chơi nhỏ),Карта Realms (название мини-игры),ru-RU
+Olay Tarih Bilgisi (UTC),Временная метка (UTC),ru-RU
+Operating System,Операционная система,ru-RU
+Opt-In,Согласие на отправку,ru-RU
+Orario dell'evento [UTC],Временная метка (UTC),ru-RU
+Oyun Modu,Режим игры,ru-RU
+Oyun Süresi (Birim Zaman),Время игры (такты),ru-RU
+Oyun Sürümü,Версия игры,ru-RU
+Oyun Yükleme Süreleri,Время загрузки игры,ru-RU
+"Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+P2P 連線,Одноранговое соединение,ru-RU
+P2P接続,Одноранговое соединение,ru-RU
+Participação,Согласие на отправку,ru-RU
+Peer-to-peer Bağlantı,Одноранговое соединение,ru-RU
+Peer-to-peer Connection,Одноранговое соединение,ru-RU
+Pencere Açılmadan Önceki Süre (Milisaniye),Время до открытия окна (миллисекунды),ru-RU
+"Per noi è importante capire il tempo necessario per entrare in un mondo e come questo dato può cambiare. Ad esempio, quando aggiungiamo nuove funzionalità o apportiamo modifiche tecniche significative, ci serve sapere in che modo ciò incide sui tempi di caricamento.","Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+Percorso dello stabilimento di connettività interattiva (SCI),Маршрут установления интерактивного соединения (ICE),ru-RU
+Performance Metrics,Показатели производительности,ru-RU
+Performans Ölçümleri,Показатели производительности,ru-RU
+Permito enviar mis datos de telemetría opcionales,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+Phase de l'échec,Этап отказа,ru-RU
+Phiên bản trò chơi,Версия игры,ru-RU
+Piattaforma,Платформа,ru-RU
+Plataforma,Платформа,ru-RU
+Plateforme,Платформа,ru-RU
+Platform,Платформа,ru-RU
+Plattform,Платформа,ru-RU
+Privacy Statement,Заявление о конфиденциальности,ru-RU
+Progreso realizado,Новое достижение,ru-RU
+Progresso compiuto,Новое достижение,ru-RU
+Progressos feitos,Новое достижение,ru-RU
+Progrès réalisés,Новое достижение,ru-RU
+"Quest'evento viene usato insieme a «Mondo caricato» per calcolare la durata della sessione del mondo. La durata (in secondi e in tick) viene misurata al termine della sessione di un mondo, cioè quando si torna al menù principale o ci si disconnette da un server.","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+"Questo evento ci aiuta a capire l'affidabilità e le prestazioni delle connessioni a rete paritaria tra giocatori. Registra l'esito della connessione, il tipo di candidato usato per lo stabilimento di connettività interattiva (SCI, o ICE in inglese, il protocollo che usiamo per le connessioni a rete paritaria) e il tempo richiesto per stabilire la connessione.","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+Questo evento ci comunica le capacità del dispositivo grafico in uso durante la partita.,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+Raccolta dei dati di telemetria,Сбор данных телеметрии,ru-RU
+Raison de l'échec de la création du backend,Ошибка инициализации графического API: причина,ru-RU
+RAM ที่ใช้,Использование ОЗУ,ru-RU
+Realms Harita İçeriği (Mini Oyun Adı),Карта Realms (название мини-игры),ru-RU
+Realms Map Content (Minigame Name),Карта Realms (название мини-игры),ru-RU
+Realms 地圖內容（小遊戲名稱）,Карта Realms (название мини-игры),ru-RU
+Realms 맵 콘텐츠 (미니게임 이름),Карта Realms (название мини-игры),ru-RU
+Realms‐Weltinhalt (Name des Minispiels),Карта Realms (название мини-игры),ru-RU
+Realmsのマップコンテンツ（ミニゲームの名前）,Карта Realms (название мини-игры),ru-RU
+Realm地图内容（小游戏名称）,Карта Realms (название мини-игры),ru-RU
+Recolección de datos de telemetría,Сбор данных телеметрии,ru-RU
+Remote Candidate Type,Тип удалённого кандидата,ru-RU
+Render Distance,Дальность прорисовки,ru-RU
+Render Time Samples,Выборка времени кадра,ru-RU
+Route des interaktiven Verbindungsaufbaus (ICE),Маршрут установления интерактивного соединения (ICE),ru-RU
+Ruta de tipo de conectividad interactiva (ICE),Маршрут установления интерактивного соединения (ICE),ru-RU
+"Saber como os jogadores jogam Minecraft (como o modo de jogo, modificações de cliente ou servidor e a versão do jogo) nos permite melhorar as áreas mais interessantes aos jogadores.
+O evento Mundo Carregado é sincronizado com o Mundo Descarregado para calcular a duração da sessão de jogo.","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+"Saber cómo juegan los jugadores a Minecraft (qué modo de juego, cliente o servidor modificado y versión del juego usan) nos ayuda a mejorar los aspectos que más le importan a los jugadores.
+El evento «Mundo cargado» está unido al de «Mundo descargado» para calcular cuánto ha durado la sesión de juego.","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+Sample Count,Величина выборки,ru-RU
+Sapere come i giocatori giocano a Minecraft (per esempio la modalità e la versione di gioco o client e server modificati) ci consente di focalizzare gli aggiornamenti del gioco al fine di migliorare le aree a cui i giocatori tengono di più. L'evento «Mondo caricato» è usato insieme a «Mondo scaricato» per calcolare la durata delle sessioni di gioco.,"Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+Server Modded,Модифицированность сервера,ru-RU
+Server modifiziert,Модифицированность сервера,ru-RU
+Server Session ID,Идентификатор сессии сервера,ru-RU
+Server Type,Тип сервера,ru-RU
+Servertyp,Тип сервера,ru-RU
+Server‐Sitzungs‐ID,Идентификатор сессии сервера,ru-RU
+Serveur moddé ?,Модифицированность сервера,ru-RU
+Servidor modificado,Модифицированность сервера,ru-RU
+Sichtweite,Дальность прорисовки,ru-RU
+Signalaufbauzeit (Millisekunden),Время установления соединения (миллисекунды),ru-RU
+Signaling Connection Time (Milliseconds),Время установления соединения (миллисекунды),ru-RU
+Sistema operacional,Операционная система,ru-RU
+Sistema operativo,Операционная система,ru-RU
+Spielladezeiten,Время загрузки игры,ru-RU
+Spielmodus,Режим игры,ru-RU
+Spielversion,Версия игры,ru-RU
+Spielzeit (Ticks),Время игры (такты),ru-RU
+Sunucu Oturum Kimliği,Идентификатор сессии сервера,ru-RU
+Sunucu Türü,Тип сервера,ru-RU
+Système d'exploitation,Операционная система,ru-RU
+Số liệu hiệu suất,Показатели производительности,ru-RU
+Số lượng mẫu,Величина выборки,ru-RU
+Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+"Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+Telemetrie‐Datenerhebung,Сбор данных телеметрии,ru-RU
+Telemetry Data Collection,Сбор данных телеметрии,ru-RU
+Tempi di caricamento del gioco,Время загрузки игры,ru-RU
+Tempo antes da abertura da janela (milissegundos),Время до открытия окна (миллисекунды),ru-RU
+Tempo dal caricamento del mondo [s],Время с загрузки (секунды),ru-RU
+Tempo dal caricamento del mondo [t],Время с загрузки (такты),ru-RU
+Tempo de carregamento de mundos,Время загрузки мира,ru-RU
+Tempo de carregamento do mundo (milissegundos),Время загрузки мира (миллисекунды),ru-RU
+Tempo de carregamento total (milissegundos),Общее время загрузки (миллисекунды),ru-RU
+Tempo de conexão (milissegundos) do Interactive Connectivity Establishment (ICE),Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+Tempo de conexão da sinalização (milissegundos),Время установления соединения (миллисекунды),ru-RU
+Tempo de conexão total (milissegundos),Общее время подключения (миллисекунды),ru-RU
+Tempo de inicialização (milissegundos),Время инициализации (миллисекунды),ru-RU
+Tempo de jogo (tiques),Время игры (такты),ru-RU
+Tempo desde carregamento (tiques),Время с загрузки (такты),ru-RU
+Tempo desde o carregamento (segundos),Время с загрузки (секунды),ru-RU
+Tempo di avvio [ms],Время инициализации (миллисекунды),ru-RU
+Tempo di caricamento dei mondi,Время загрузки мира,ru-RU
+Tempo di caricamento del mondo [ms],Время загрузки мира (миллисекунды),ru-RU
+Tempo di connessione dello SCI [ms],Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+Tempo di connessione di segnalamento [ms],Время установления соединения (миллисекунды),ru-RU
+Tempo di gioco [t],Время игры (такты),ru-RU
+Tempo na tela de carregamento (milissegundos),Время на экране загрузки (миллисекунды),ru-RU
+Tempo nella schermata di caricamento [ms],Время на экране загрузки (миллисекунды),ru-RU
+Tempo prima dell'apertura della finestra [ms],Время до открытия окна (миллисекунды),ru-RU
+Tempo totale di caricamento [ms],Общее время загрузки (миллисекунды),ru-RU
+Tempo totale di connessione [ms],Общее время подключения (миллисекунды),ru-RU
+Tempos de carregamento do jogo,Время загрузки игры,ru-RU
+Temps avant l'ouverture de la fenêtre (en millisecondes),Время до открытия окна (миллисекунды),ru-RU
+Temps de chargement des mondes,Время загрузки мира,ru-RU
+Temps de chargement du jeu,Время загрузки игры,ru-RU
+Temps de chargement du monde (en millisecondes),Время загрузки мира (миллисекунды),ru-RU
+Temps de connexion de l'établissement de connectivité interactive (ICE) (en millisecondes),Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+Temps de connexion de la signalisation (en millisecondes),Время установления соединения (миллисекунды),ru-RU
+Temps de démarrage (en millisecondes),Время инициализации (миллисекунды),ru-RU
+Temps de l'écran de chargement (en millisecondes),Время на экране загрузки (миллисекунды),ru-RU
+Temps depuis le chargement (en secondes),Время с загрузки (секунды),ru-RU
+Temps depuis le chargement (en ticks),Время с загрузки (такты),ru-RU
+Temps en jeu (en ticks),Время игры (такты),ru-RU
+Temps total de chargement (en millisecondes),Общее время загрузки (миллисекунды),ru-RU
+Temps total de connexion (en millisecondes),Общее время подключения (миллисекунды),ru-RU
+This event can help us figure out where startup performance improvements are needed by measuring the execution times of the startup phases.,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+"This event helps us understand the reliability and performance of peer-to-peer connections between players. It records whether the connection was successful, the type of Interactive Connectivity Establishment (ICE, the protocol we use to establish peer-to-peer connections) candidate used, and how long it took to establish the connection.","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+This event informs us of the capabilities of the graphics device used to play the game.,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+"This event is paired with the World Loaded event to calculate how long the world session has lasted.
+The duration (in seconds and ticks) is measured when a world session has ended (quitting to title, disconnecting from a server).","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+Thu thập dữ liệu đo từ xa,Сбор данных телеметрии,ru-RU
+Thông tin lỗi tạo Backend,Ошибка инициализации графического API: подробности,ru-RU
+Thế giới chưa nạp,Выгрузка мира,ru-RU
+Thế giới mới,Новый мир,ru-RU
+Thế giới đã nạp,Загрузка мира,ru-RU
+Thời gian khởi tạo trò chơi (miligiây),Время инициализации (миллисекунды),ru-RU
+Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+Thời gian kết nối tín hiệu (Miligiây),Время установления соединения (миллисекунды),ru-RU
+Thời gian nạp thế giới,Время загрузки мира,ru-RU
+Thời gian nạp thế giới (Miligiây),Время загрузки мира (миллисекунды),ru-RU
+Thời gian nạp trò chơi,Время загрузки игры,ru-RU
+Thời gian trong màn hình nạp (miligiây),Время на экране загрузки (миллисекунды),ru-RU
+Thời gian trong trò chơi (nhịp),Время игры (такты),ru-RU
+Thời gian trước khi cửa sổ mở (miligiây),Время до открытия окна (миллисекунды),ru-RU
+Thời gian từ khi nạp (Giây),Время с загрузки (секунды),ru-RU
+Thời gian từ khi nạp (Nhịp),Время с загрузки (такты),ru-RU
+Tiempo antes de que la ventana se abra (milisegundos),Время до открытия окна (миллисекунды),ru-RU
+Tiempo de carga del mundo (en milisegundos),Время загрузки мира (миллисекунды),ru-RU
+Tiempo de conexión de conectividad interactiva (ICE) (ms),Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+Tiempo de conexión de señalización (ms),Время установления соединения (миллисекунды),ru-RU
+Tiempo de conexión total (ms),Общее время подключения (миллисекунды),ru-RU
+Tiempo de inicio (milisegundos),Время инициализации (миллисекунды),ru-RU
+Tiempo de juego (tics),Время игры (такты),ru-RU
+Tiempo desde que se cargó (en segundos),Время с загрузки (секунды),ru-RU
+Tiempo desde que se cargó (en tics),Время с загрузки (такты),ru-RU
+Tiempo en pantalla de carga (milisegundos),Время на экране загрузки (миллисекунды),ru-RU
+Tiempo total de carga (milisegundos),Общее время загрузки (миллисекунды),ru-RU
+Tiempos de carga del juego,Время загрузки игры,ru-RU
+Tiempos de carga del mundo,Время загрузки мира,ru-RU
+Time Before Window Opens (Milliseconds),Время до открытия окна (миллисекунды),ru-RU
+Time in Loading Screen (Milliseconds),Время на экране загрузки (миллисекунды),ru-RU
+Time Since Load (Seconds),Время с загрузки (секунды),ru-RU
+Time Since Load (Ticks),Время с загрузки (такты),ru-RU
+Tipo de candidato local,Тип локального кандидата,ru-RU
+Tipo de candidato remoto,Тип удалённого кандидата,ru-RU
+Tipo de servidor,Тип сервера,ru-RU
+Tipo di candidato locale,Тип локального кандидата,ru-RU
+Tipo di candidato remoto,Тип удалённого кандидата,ru-RU
+Tipo di server,Тип сервера,ru-RU
+Tiến trình đã làm,Новое достижение,ru-RU
+Toplam Bağlanma Süresi (Milisaniye),Общее время подключения (миллисекунды),ru-RU
+Toplam Yükleme Süresi (Milisaniye),Общее время загрузки (миллисекунды),ru-RU
+Total Connection Time (Milliseconds),Общее время подключения (миллисекунды),ru-RU
+Total Load Time (Milliseconds),Общее время загрузки (миллисекунды),ru-RU
+Tuyên bố về quyền riêng tư,Заявление о конфиденциальности,ru-RU
+Type de candidat distant,Тип удалённого кандидата,ru-RU
+Type de candidat local,Тип локального кандидата,ru-RU
+Type de serveur,Тип сервера,ru-RU
+Tên Backend,Название графического API,ru-RU
+Tên trình khởi động,Название лаунчера,ru-RU
+Tính năng bị thiếu gây lỗi tạo Backend,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+Tương thích đồ họa,Возможности графического устройства,ru-RU
+Tổng thời gian kết nối (Miligiây),Общее время подключения (миллисекунды),ru-RU
+Tổng thời gian nạp (Miligiây),Общее время загрузки (миллисекунды),ru-RU
+Understanding the context behind receiving an advancement can help us better understand and improve the progression of the game.,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+Used Random Access Memory,Использование ОЗУ,ru-RU
+User ID,Идентификатор пользователя,ru-RU
+Utilizzo della memoria (RAM),Использование ОЗУ,ru-RU
+Uzak Aday Tipi,Тип удалённого кандидата,ru-RU
+Ver meus dados,Мои данные,ru-RU
+Ver mis datos,Мои данные,ru-RU
+Verbindungserfolg,Успешность подключения,ru-RU
+Verilerimi Görüntüle,Мои данные,ru-RU
+Version du jeu,Версия игры,ru-RU
+Versione del gioco,Версия игры,ru-RU
+Versión del juego,Версия игры,ru-RU
+Versão do jogo,Версия игры,ru-RU
+Verwendeter Arbeitsspeicher,Использование ОЗУ,ru-RU
+View My Data,Мои данные,ru-RU
+Visibilità,Дальность прорисовки,ru-RU
+"Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+"Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+"Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+Voir mes données,Мои данные,ru-RU
+Welt entladen,Выгрузка мира,ru-RU
+Welt geladen,Загрузка мира,ru-RU
+Weltladezeit (Millisekunden),Время загрузки мира (миллисекунды),ru-RU
+Weltladezeiten,Время загрузки мира,ru-RU
+Welt‐Sitzungs‐ID,Идентификатор сессии мира,ru-RU
+World Load Time (Milliseconds),Время загрузки мира (миллисекунды),ru-RU
+World Load Times,Время загрузки мира,ru-RU
+World Loaded,Загрузка мира,ru-RU
+World Session ID,Идентификатор сессии мира,ru-RU
+World Unloaded,Выгрузка мира,ru-RU
+Xem dữ liệu của tôi,Мои данные,ru-RU
+Yeni Dünya,Новый мир,ru-RU
+Yerel Aday Tipi,Тип локального кандидата,ru-RU
+Yükleme Ekranında Geçen Süre (Milisaniye),Время на экране загрузки (миллисекунды),ru-RU
+Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),Время с загрузки (такты),ru-RU
+Yüklemeden Bu Yana Geçen Zaman (Saniye),Время с загрузки (секунды),ru-RU
+Zeit im Ladebildschirm (Millisekunden),Время на экране загрузки (миллисекунды),ru-RU
+Zeit seit dem Laden (Sekunden),Время с загрузки (секунды),ru-RU
+Zeit seit dem Laden (Ticks),Время с загрузки (такты),ru-RU
+"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",Время до открытия окна (миллисекунды),ru-RU
+Zeitpunkt des Ereignisses (koordinierte Weltzeit),Временная метка (UTC),ru-RU
+"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+"Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+Zugewiesener Arbeitsspeicher (KB),Выделенная память (Кбайт),ru-RU
+"É importante entendermos o tempo necessário para entrar num mundo e como isso muda ao longo do tempo. Por exemplo, ao adicionar novos recursos ou fazer mudanças técnicas maiores, precisamos observar o impacto nos tempos de carregamento.","Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+Échantillons d'images par seconde (FPS),Выборка частоты кадров (FPS),ru-RU
+Échantillons du temps de rendu,Выборка времени кадра,ru-RU
+Ölçüm Verileri Toplama,Сбор данных телеметрии,ru-RU
+Önyükleme Süresi (Milisaniye),Время инициализации (миллисекунды),ru-RU
+Örnek Sayısı,Величина выборки,ru-RU
+"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.","Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+Đường dẫn thiết lập kết nối tương tác (ICE),Маршрут установления интерактивного соединения (ICE),ru-RU
+กลุ่มตัวอย่างอัตราเฟรม (FPS),Выборка частоты кадров (FPS),ru-RU
+กลุ่มตัวอย่างเวลาเร็นเดอร์,Выборка времени кадра,ru-RU
+"การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+การทำความก้าวหน้า,Новое достижение,ru-RU
+การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,Сбор данных телеметрии,ru-RU
+"การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+"การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+การเชื่อมต่อสำเร็จ,Успешность подключения,ru-RU
+การเชื่อมต่อแบบเพียร์ทูเพียร์,Одноранговое соединение,ru-RU
+ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,Ошибка инициализации графического API: подробности,ru-RU
+ข้อมูลที่รวมอยู่ด้วย,Включённые данные,ru-RU
+ความยินยอมเข้าร่วม,Согласие на отправку,ru-RU
+ความสามารถของกราฟิก,Возможности графического устройства,ru-RU
+ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+คำชี้แจงสิทธิ์ส่วนบุคคล,Заявление о конфиденциальности,ru-RU
+จำนวนกลุ่มตัวอย่าง,Величина выборки,ru-RU
+ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+ชื่อลันเชอร์,Название лаунчера,ru-RU
+ชื่อแบ็กเอนด์,Название графического API,ru-RU
+ดูข้อมูลของฉัน,Мои данные,ru-RU
+ประทับเวลาเหตุการณ์ (UTC),Временная метка (UTC),ru-RU
+ประเภทตัวเลือกท้องถิ่น,Тип локального кандидата,ru-RU
+ประเภทตัวเลือกระยะไกล,Тип удалённого кандидата,ru-RU
+ประเภทเซิร์ฟเวอร์,Тип сервера,ru-RU
+ระบบปฏิบัติการ,Операционная система,ru-RU
+ระยะการมองเห็น,Дальность прорисовки,ru-RU
+ระยะการล้มเหลว,Этап отказа,ru-RU
+หน่วยความจำเฉพาะ (kB),Выделенная память (Кбайт),ru-RU
+เซิร์ฟเวอร์มีการดัดแปร,Модифицированность сервера,ru-RU
+เนื้อหาแมป Realms (ชื่อมินิเกม),Карта Realms (название мини-игры),ru-RU
+เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+เมตริกประสิทธิภาพ,Показатели производительности,ru-RU
+เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),Время до открытия окна (миллисекунды),ru-RU
+เวลาตั้งแต่โหลด (ติ๊ก),Время с загрузки (такты),ru-RU
+เวลาตั้งแต่โหลด (วินาที),Время с загрузки (секунды),ru-RU
+เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),Общее время подключения (миллисекунды),ru-RU
+เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),Время установления соединения (миллисекунды),ru-RU
+เวลาเกม (ติ๊ก),Время игры (такты),ru-RU
+เวลาเริ่มต้นระบบ (มิลลิวินาที),Время инициализации (миллисекунды),ru-RU
+เวลาโหลดทั้งหมด (มิลลิวินาที),Общее время загрузки (миллисекунды),ru-RU
+เวลาโหลดเกม,Время загрузки игры,ru-RU
+เวลาโหลดโลก,Время загрузки мира,ru-RU
+เวลาโหลดโลก (มิลลิวินาที),Время загрузки мира (миллисекунды),ru-RU
+เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),Время на экране загрузки (миллисекунды),ru-RU
+เวอร์ชันเกม,Версия игры,ru-RU
+เส้นทาง Interactive Connectivity Establishment (ICE),Маршрут установления интерактивного соединения (ICE),ru-RU
+"เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,Ошибка инициализации графического API: причина,ru-RU
+แพลตฟอร์ม,Платформа,ru-RU
+โลกโหลด,Загрузка мира,ru-RU
+โลกใหม่,Новый мир,ru-RU
+โลกไม่โหลด,Выгрузка мира,ru-RU
+โหมดเกม,Режим игры,ru-RU
+ให้ข้อเสนอแนะ,Оставить отзыв,ru-RU
+ไคลเอนต์มีการดัดแปร,Модифицированность клиента,ru-RU
+このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+"このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+"これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+イベントの時刻（UTC）,Временная метка (UTC),ru-RU
+ウィンドウが開くまでの時間（ミリ秒）,Время до открытия окна (миллисекунды),ru-RU
+オプトイン,Согласие на отправку,ru-RU
+オペレーティングシステム,Операционная система,ru-RU
+クライアントID,Идентификатор клиента,ru-RU
+グラフィック性能,Возможности графического устройства,ru-RU
+ゲームのバージョン,Версия игры,ru-RU
+ゲームの読み込み時間,Время загрузки игры,ru-RU
+ゲームモード,Режим игры,ru-RU
+ゲーム内時間（ティック）,Время игры (такты),ru-RU
+サンプリング数,Величина выборки,ru-RU
+サーバーのセッションID,Идентификатор сессии сервера,ru-RU
+サーバーの種類,Тип сервера,ru-RU
+シグナリング接続時間（ミリ秒）,Время установления соединения (миллисекунды),ru-RU
+データの遠隔収集,Сбор данных телеметрии,ru-RU
+バックエンド作成失敗の原因,Ошибка инициализации графического API: причина,ru-RU
+バックエンド作成失敗時のメッセージ,Ошибка инициализации графического API: подробности,ru-RU
+バックエンド作成失敗時の不足していた性能情報,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+バックエンド名,Название графического API,ru-RU
+パフォーマンス測定,Показатели производительности,ru-RU
+フィードバックを送信,Оставить отзыв,ru-RU
+フレームレートのサンプル（FPS）,Выборка частоты кадров (FPS),ru-RU
+プライバシーに関する声明,Заявление о конфиденциальности,ru-RU
+プラットフォーム,Платформа,ru-RU
+"プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+ユーザーID,Идентификатор пользователя,ru-RU
+ランチャー名,Название лаунчера,ru-RU
+リモート候補タイプ,Тип удалённого кандидата,ru-RU
+ローカル候補タイプ,Тип локального кандидата,ru-RU
+ワールドのセッションID,Идентификатор сессии мира,ru-RU
+ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+ワールドの読み込み時間（ミリ秒）,Время загрузки мира (миллисекунды),ru-RU
+ワールドアンロード,Выгрузка мира,ru-RU
+ワールドロード,Загрузка мира,ru-RU
+ワールド読み込み時間,Время загрузки мира,ru-RU
+专用内存（kB）,Выделенная память (Кбайт),ru-RU
+世界 Session ID,Идентификатор сессии мира,ru-RU
+世界会话ID,Идентификатор сессии мира,ru-RU
+世界加载,Загрузка мира,ru-RU
+世界加载时间,Время загрузки мира,ru-RU
+世界加载时间（毫秒）,Время загрузки мира (миллисекунды),ru-RU
+世界卸載,Выгрузка мира,ru-RU
+世界卸载,Выгрузка мира,ru-RU
+世界載入,Загрузка мира,ru-RU
+世界載入時間,Время загрузки мира,ru-RU
+世界載入時間（毫秒）,Время загрузки мира (миллисекунды),ru-RU
+"了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+"了解Minecraft的整体性能概况，可以帮助我们针对各种机型和操作系统调整与优化游戏。 
+游戏版本信息也包含在其中，以帮助我们比较Minecraft新版本的性能概况。","Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.",ru-RU
+"了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+"了解玩家玩Minecraft时的细节（例如游戏模式、客户端或服务端是否被修改，以及游戏版本）有助于我们在游戏更新时注重改进玩家最关心的部分。
+世界加载事件将同世界卸载事件一起用于计算游戏会话的持续时长。","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+了解达成进度前后发生的事情有助于我们更好了解及改进游戏流程。,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+事件时间戳（UTC）,Временная метка (UTC),ru-RU
+事件時間戳記（UTC）,Временная метка (UTC),ru-RU
+互動式連線建立 (ICE) 路徑,Маршрут установления интерактивного соединения (ICE),ru-RU
+互動式連線建立 (ICE) 連線時間（毫秒）,Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+交互式连接建立（ICE）路径,Маршрут установления интерактивного соединения (ICE),ru-RU
+交互式连接建立（ICE）连接时间（毫秒）,Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+任意の遠隔測定データを送信することに同意する,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+伺服器 Session ID,Идентификатор сессии сервера,ru-RU
+伺服器是否為原版,Модифицированность сервера,ru-RU
+伺服器類型,Тип сервера,ru-RU
+作業系統,Операционная система,ru-RU
+使用されたランダムアクセスメモリ,Использование ОЗУ,ru-RU
+使用的記憶體,Использование ОЗУ,ru-RU
+使用者 ID,Идентификатор пользователя,ru-RU
+信令连接时间（毫秒）,Время установления соединения (миллисекунды),ru-RU
+信令連線時間（毫秒）,Время установления соединения (миллисекунды),ru-RU
+加载屏幕显示时间（毫秒）,Время на экране загрузки (миллисекунды),ru-RU
+包含的数据,Включённые данные,ru-RU
+包含的資料,Включённые данные,ru-RU
+可选择加入,Согласие на отправку,ru-RU
+可選擇加入,Согласие на отправку,ru-RU
+后端创建失败原因,Ошибка инициализации графического API: причина,ru-RU
+后端创建失败消息,Ошибка инициализации графического API: подробности,ru-RU
+后端创建失败缺失功能,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+后端名称,Название графического API,ru-RU
+含まれるデータ,Включённые данные,ru-RU
+启动器名称,Название лаунчера,ru-RU
+启动引导时间（毫秒）,Время инициализации (миллисекунды),ru-RU
+啟動器名稱,Название лаунчера,ru-RU
+啟動引導時間（毫秒）,Время инициализации (миллисекунды),ru-RU
+图形功能,Возможности графического устройства,ru-RU
+圖形功能,Возможности графического устройства,ru-RU
+失敗の起きた段階,Этап отказа,ru-RU
+失敗階段,Этап отказа,ru-RU
+失败阶段,Этап отказа,ru-RU
+客户端ID,Идентификатор клиента,ru-RU
+客户端是否被修改,Модифицированность клиента,ru-RU
+对我们而言，了解加入世界所需的时长，以及这一时长随着时间推移会如何变化是很重要的。比如，当我们加入新功能或进行较大的技术更改时，我们需要知道这对加载时间有何影响。,"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+専用メモリ（kB）,Выделенная память (Кбайт),ru-RU
+專屬記憶體（kB）,Выделенная память (Кбайт),ru-RU
+對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+已使用的内存,Использование ОЗУ,ru-RU
+帧率样本（FPS）,Выборка частоты кадров (FPS),ru-RU
+平台,Платформа,ru-RU
+後端名稱,Название графического API,ru-RU
+後端建立失敗原因,Ошибка инициализации графического API: причина,ru-RU
+後端建立失敗缺少功能,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+後端建立失敗訊息,Ошибка инициализации графического API: подробности,ru-RU
+性能指标,Показатели производительности,ru-RU
+总计加载时间（毫秒）,Общее время загрузки (миллисекунды),ru-RU
+总计连接时间（毫秒）,Общее время подключения (миллисекунды),ru-RU
+我同意傳送可選的遙測資料,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+我同意发送可选的遥测数据,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+打开我的数据,Мои данные,ru-RU
+接続の成功の是非,Успешность подключения,ru-RU
+描画所要時間のサンプル,Выборка времени кадра,ru-RU
+描画距離,Дальность прорисовки,ru-RU
+提供反馈,Оставить отзыв,ru-RU
+提供意見回饋,Оставить отзыв,ru-RU
+操作系统,Операционная система,ru-RU
+"收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+"收集这些数据可以让我们了解与玩家有关的实际情况，以便帮助我们改进Minecraft。
+你也可以发送其他反馈来帮助我们持续改进Minecraft。","Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+效能指標,Показатели производительности,ru-RU
+新規ワールド,Новый мир,ru-RU
+是否为新的世界,Новый мир,ru-RU
+是否為新的世界,Новый мир,ru-RU
+服务器会话ID,Идентификатор сессии сервера,ru-RU
+服务器类型,Тип сервера,ru-RU
+服务端是否被修改,Модифицированность сервера,ru-RU
+本地候选类型,Тип локального кандидата,ru-RU
+本機候選類型,Тип локального кандидата,ru-RU
+样本数,Величина выборки,ru-RU
+樣本數量,Величина выборки,ru-RU
+"此事件与世界加载事件用于计算世界会话的持续时间。
+持续时间（以秒和刻为单位）在世界会话结束时（退回到标题屏幕，或从服务器断开连接）测量。","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+此事件会测量游戏启动各个阶段的时长以帮助我们找到游戏启动的性能优化点。,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+此事件告知我们运行游戏所使用的图形设备的功能信息。,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+此事件有助于我们了解玩家之间点对点连接的可靠性和性能情况。事件将记录连接是否成功、所使用的交互式连接建立（ICE，即我们用于建立点对点连接的协议）候选类型，以及建立连接所花费的时间。,"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+"此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+渲染用时样本,Выборка времени кадра,ru-RU
+渲染距离,Дальность прорисовки,ru-RU
+游戏加载时间,Время загрузки игры,ru-RU
+游戏时间（刻）,Время игры (такты),ru-RU
+游戏模式,Режим игры,ru-RU
+游戏版本,Версия игры,ru-RU
+点对点连接,Одноранговое соединение,ru-RU
+用戶端 ID,Идентификатор клиента,ru-RU
+用戶端是否為原版,Модифицированность клиента,ru-RU
+用户ID,Идентификатор пользователя,ru-RU
+畫面更新率樣本（FPS）,Выборка частоты кадров (FPS),ru-RU
+窗口开启前时间（毫秒）,Время до открытия окна (миллисекунды),ru-RU
+総接続時間（ミリ秒）,Общее время подключения (миллисекунды),ru-RU
+総読み込み時間（ミリ秒）,Общее время загрузки (миллисекунды),ru-RU
+總載入時間（毫秒）,Общее время загрузки (миллисекунды),ru-RU
+總連線時間（毫秒）,Общее время подключения (миллисекунды),ru-RU
+繪製時間樣本,Выборка времени кадра,ru-RU
+自分のデータを確認する,Мои данные,ru-RU
+自加载后的时间（刻）,Время с загрузки (такты),ru-RU
+自加载后的时间（秒）,Время с загрузки (секунды),ru-RU
+自載入後的時間（刻）,Время с загрузки (такты),ru-RU
+自載入後的時間（秒）,Время с загрузки (секунды),ru-RU
+視窗開啟前時間（毫秒）,Время до открытия окна (миллисекунды),ru-RU
+読み込みからの時間（ティック）,Время с загрузки (такты),ru-RU
+読み込みからの時間（秒）,Время с загрузки (секунды),ru-RU
+読み込み画面の所要時間（ミリ秒）,Время на экране загрузки (миллисекунды),ru-RU
+起動所要時間（ミリ秒）,Время инициализации (миллисекунды),ru-RU
+載入畫面顯示時間（毫秒）,Время на экране загрузки (миллисекунды),ru-RU
+达成进度,Новое достижение,ru-RU
+进度ID,Идентификатор достижения,ru-RU
+远程候选类型,Тип удалённого кандидата,ru-RU
+连接成功,Успешность подключения,ru-RU
+這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+連線成功,Успешность подключения,ru-RU
+進度 ID,Идентификатор достижения,ru-RU
+進捗ID,Идентификатор достижения,ru-RU
+進捗の達成に関するデータ,Новое достижение,ru-RU
+進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+遊戲時間（刻）,Время игры (такты),ru-RU
+遊戲模式,Режим игры,ru-RU
+遊戲版本,Версия игры,ru-RU
+遊戲載入時間,Время загрузки игры,ru-RU
+達成進度,Новое достижение,ru-RU
+遙測資料收集,Сбор данных телеметрии,ru-RU
+遠端候選類型,Тип удалённого кандидата,ru-RU
+遥测数据收集,Сбор данных телеметрии,ru-RU
+開啟我的統計資料,Мои данные,ru-RU
+隐私声明,Заявление о конфиденциальности,ru-RU
+隱私權聲明,Заявление о конфиденциальности,ru-RU
+顯示距離,Дальность прорисовки,ru-RU
+개인 정보 처리 방침,Заявление о конфиденциальности,ru-RU
+게임 모드,Режим игры,ru-RU
+게임 버전,Версия игры,ru-RU
+게임 시간 (틱),Время игры (такты),ru-RU
+게임을 불러오는 데 걸린 시간,Время загрузки игры,ru-RU
+그래픽 기능,Возможности графического устройства,ru-RU
+내 데이터 보기,Мои данные,ru-RU
+대화형 연결 구축 (ICE) 경로,Маршрут установления интерактивного соединения (ICE),ru-RU
+대화형 연결 구축 (ICE) 연결 시간 (밀리초),Время установления интерактивного соединения (ICE) (миллисекунды),ru-RU
+랜덤 액세스 메모리 사용량,Использование ОЗУ,ru-RU
+런처 이름,Название лаунчера,ru-RU
+렌더 거리,Дальность прорисовки,ru-RU
+렌더 시간 표본,Выборка времени кадра,ru-RU
+로딩 화면에 있던 시간 (밀리초),Время на экране загрузки (миллисекунды),ru-RU
+로컬 후보 유형,Тип локального кандидата,ru-RU
+발전 과제 ID,Идентификатор достижения,ru-RU
+발전 과제 달성,Новое достижение,ru-RU
+발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,ru-RU
+백엔드 생성 실패 기능 누락,Ошибка инициализации графического API: отсутствующие возможности,ru-RU
+백엔드 생성 실패 메시지,Ошибка инициализации графического API: подробности,ru-RU
+백엔드 생성 실패 사유,Ошибка инициализации графического API: причина,ru-RU
+백엔드 이름,Название графического API,ru-RU
+부트스트랩 시간 (밀리초),Время инициализации (миллисекунды),ru-RU
+사용자 ID,Идентификатор пользователя,ru-RU
+새로운 세계 여부,Новый мир,ru-RU
+서버 모드 여부,Модифицированность сервера,ru-RU
+서버 세션 ID,Идентификатор сессии сервера,ru-RU
+서버 유형,Тип сервера,ru-RU
+선택 수집 여부,Согласие на отправку,ru-RU
+선택적 원격 측정 데이터 전송에 동의합니다,Я даю согласие на отправку дополнительных телеметрических данных,ru-RU
+성능 측정 결과,Показатели производительности,ru-RU
+세계 세션 ID,Идентификатор сессии мира,ru-RU
+세계를 떠날 때,Выгрузка мира,ru-RU
+세계를 불러오는 데 걸린 시간,Время загрузки мира,ru-RU
+세계를 불러오는 데 걸린 시간 (밀리초),Время загрузки мира (миллисекунды),ru-RU
+세계를 불러올 때,Загрузка мира,ru-RU
+"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.","Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ru-RU
+시그널링 연결 시간 (밀리초),Время установления соединения (миллисекунды),ru-RU
+실패 단계,Этап отказа,ru-RU
+실행된 시간 (초),Время с загрузки (секунды),ru-RU
+실행된 시간 (틱),Время с загрузки (такты),ru-RU
+연결 성공,Успешность подключения,ru-RU
+운영 체제,Операционная система,ru-RU
+원격 측정 데이터 수집,Сбор данных телеметрии,ru-RU
+원격 후보 유형,Тип удалённого кандидата,ru-RU
+이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,"Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.",ru-RU
+이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",ru-RU
+이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,Это событие сообщает о возможностях используемого графического устройства.,ru-RU
+"이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.","В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).",ru-RU
+"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.","Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",ru-RU
+이벤트 시간 기록 (UTC),Временная метка (UTC),ru-RU
+창이 켜지기까지 걸린 시간 (밀리초),Время до открытия окна (миллисекунды),ru-RU
+총 접속 시간 (밀리초),Общее время подключения (миллисекунды),ru-RU
+총합 로드 시간 (밀리초),Общее время загрузки (миллисекунды),ru-RU
+클라이언트 ID,Идентификатор клиента,ru-RU
+클라이언트 모드 여부,Модифицированность клиента,ru-RU
+포함 데이터,Включённые данные,ru-RU
+표본 수,Величина выборки,ru-RU
+프레임률 표본 (fps),Выборка частоты кадров (FPS),ru-RU
+플랫폼,Платформа,ru-RU
+"플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.","Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.",ru-RU
+피드백 보내기,Оставить отзыв,ru-RU
+피어 투 피어 연결,Одноранговое соединение,ru-RU
+할당된 메모리 (kB),Выделенная память (Кбайт),ru-RU

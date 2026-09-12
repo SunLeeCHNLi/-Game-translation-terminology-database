@@ -1,0 +1,1493 @@
+﻿source,target,tgt_lng
+'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,「execute as」等指令使用的上下文最大數量。,zh-TW
+A porcentagem de jogadores que devem dormir para passar a noite.,跳過夜晚所需的入睡玩家比例。,zh-TW
+A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,主世界重生點周圍維持載入的區塊數量。,zh-TW
+Accesso al Nether,允許進入地獄,zh-TW
+Accès au Nether,允許進入地獄,zh-TW
+Actions destructives des créatures,允許生物的破壞行為,zh-TW
+Activar la barra localizadora de jugadores,啟用玩家定位條,zh-TW
+Actualisation du feu loin des joueurs,允許火在遠離玩家處蔓延,zh-TW
+Actualisations du monde,世界更新,zh-TW
+Actualizaciones del mundo,世界更新,zh-TW
+Administratorbefehle protokollieren,記錄管理員指令,zh-TW
+Advance time of day,日夜交替,zh-TW
+"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+"Al explotar (criaturas), algunos bloques no soltarán objetos",在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"Al explotar (por bloques), algunos bloques no soltarán objetos",在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"Al verificarsi di determinati eventi, come la generazione di un boss, il suono verrà udito globalmente.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+Alcune entità potrebbero avere regole separate.,部分實體可能採用不同的規則。,zh-TW
+Algumas entidades podem ter regras separadas.,部分實體可能採用不同的規則。,zh-TW
+Algunas entidades pueden tener sus propias reglas.,部分實體可能採用不同的規則。,zh-TW
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de criaturas desaparecen con la explosión.,在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de interacciones con bloques desaparecen con la explosión.,在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de la dinamita desaparecen con la explosión.,在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Allgemeine Verärgerung,無差別憤怒,zh-TW
+Allow destructive mob actions,允許生物的破壞行為,zh-TW
+"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+Allow Nether,允許進入地獄,zh-TW
+Allow spectators to generate terrain,允許旁觀者生成地形,zh-TW
+Allow TNT to be activated and to explode,允許 TNT 被點燃並爆炸,zh-TW
+Altezza di accumulo della neve,積雪厚度,zh-TW
+Altura de acumulación de nieve,積雪厚度,zh-TW
+Altura de acumulação de neve,積雪厚度,zh-TW
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+Angered neutral mobs stop being angry when the targeted player dies nearby.,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+Announce advancements,進度通知,zh-TW
+Anunciar comandos de administrador,記錄管理員指令,zh-TW
+Anunciar progresos,進度通知,zh-TW
+Anunciar progressos,進度通知,zh-TW
+Anunciar saída dos Blocos de Comando,記錄指令方塊輸出,zh-TW
+Anında yeniden canlanma,立即重生,zh-TW
+"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+"Ao ativar, uma barra na tela indica a direção dos jogadores.",啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+Aplicável às cadeias de blocos de comando e funções.,套用於連鎖型指令方塊及函數。,zh-TW
+Apparition,生成,zh-TW
+Apparition des créatures,生成生物,zh-TW
+Apparition des marchands ambulants,生成流浪商人,zh-TW
+Apparition des monstres,生成怪物,zh-TW
+Apparition des patrouilles de pillards,生成掠奪者巡邏隊,zh-TW
+Apparition des Phantoms,生成夜魅,zh-TW
+Apparition des Wardens,生成伏守者,zh-TW
+Applies to command block chains and functions.,套用於連鎖型指令方塊及函數。,zh-TW
+Are you sure you want to discard your pending game rule changes?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+As entidades com passageiros podem atravessar portais,被騎乘的實體是否能使用傳送門,zh-TW
+Ateş hasarı alma,造成火焰傷害,zh-TW
+Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+Ateş yayılabilsin,更新火焰,zh-TW
+Ateş yayılma yarıçapı,火焰蔓延半徑,zh-TW
+Ativar Barra Localizadora de jogadores,啟用玩家定位條,zh-TW
+Ativar Blocos de Comando,啟用指令方塊,zh-TW
+Ativar Blocos Geradores,啟用生怪磚,zh-TW
+Ativar invasões,啟用突襲,zh-TW
+Ativar PvP,啟用 PvP,zh-TW
+Atraso do Portal do Nether em modo não Criativo,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Atraso do Portal do Nether no Modo Criativo,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Atualizar as regras do jogo requer permissões de operador.,更新遊戲規則需要管理員權限。,zh-TW
+Atılabilirler blokları kırabilir,投射物是否能破壞方塊,zh-TW
+Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+Atılan Ender İncileri ölünce yok olurlar,拋出的終界珍珠在死亡時消失,zh-TW
+Ausbeute,掉落,zh-TW
+Avanzar ciclo de día y noche,日夜交替,zh-TW
+Azioni distruttive delle creature,允許生物的破壞行為,zh-TW
+Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+Baixando regras do jogo...,正在擷取遊戲規則...,zh-TW
+Barra localizzatrice,啟用玩家定位條,zh-TW
+Barre de localisation,啟用玩家定位條,zh-TW
+Baskınlar olsun,啟用突襲,zh-TW
+Baskınları kapat,停用突襲,zh-TW
+Bazı varlıkların ayrı kuralları olabilir.,部分實體可能採用不同的規則。,zh-TW
+Başlangıç yığınları yarıçapı,重生區塊半徑,zh-TW
+Befehlsausgabe anzeigen,回傳指令回饋,zh-TW
+Befehlsblockausgabe anzeigen,記錄指令方塊輸出,zh-TW
+Befehlsblöcke,啟用指令方塊,zh-TW
+Begrenzt die Inhalte der Debug‐Anzeige.,限制除錯畫面的內容。,zh-TW
+Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+"Bist du sicher, dass du die ausstehenden Änderungen der Spielregeln verwerfen möchtest?",你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+Blocchi comandi funzionanti,啟用指令方塊,zh-TW
+Blockausbeute fallen lassen,掉落方塊,zh-TW
+Blockgrenze für Befehlsänderungen,指令修改方塊數量限制,zh-TW
+Blockzerstörung durch Geschosse,投射物是否能破壞方塊,zh-TW
+Block‐Explosionsausbeute verschwindet,在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Blocs de commande activés,啟用指令方塊,zh-TW
+"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Bloklar düşsün,掉落方塊,zh-TW
+Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Boğulma hasarı alma,造成溺水傷害,zh-TW
+Broadcast admin commands,記錄管理員指令,zh-TW
+Broadcast command block output,記錄指令方塊輸出,zh-TW
+Butin des blocs,掉落方塊,zh-TW
+Butin des créatures,掉落生物戰利品,zh-TW
+Butin des entités,掉落實體裝備,zh-TW
+Butins,掉落,zh-TW
+Bán kính lan lửa,火焰蔓延半徑,zh-TW
+Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+Bán kính vị trí hồi sinh,重生點半徑,zh-TW
+Bán kính đoạn khúc hồi sinh,重生區塊半徑,zh-TW
+Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+Bật các cuộc xâm lược,啟用突襲,zh-TW
+Bật khối lệnh,啟用指令方塊,zh-TW
+Bật khối triệu hồi,啟用生怪磚,zh-TW
+Bật PVP,啟用 PvP,zh-TW
+Bật thanh định vị người chơi,啟用玩家定位條,zh-TW
+Cambiar las reglas del juego requiere permisos de administrador.,更新遊戲規則需要管理員權限。,zh-TW
+Cambios en las reglas del juego,遊戲規則變更,zh-TW
+Canavarlar Oluşsun,生成怪物,zh-TW
+Canavarların doğal olarak oluşabilmesini kontrol eder.,控制怪物是否能自然生成。,zh-TW
+Canlı ganimeti düşsün,掉落生物戰利品,zh-TW
+"Canlı patlamalarında, bazı bloklar düşmesin",在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Canlılar,生物,zh-TW
+Canlılar oluşsun,生成生物,zh-TW
+Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Canlıların yıkıcı etkilerine izin verilsin,允許生物的破壞行為,zh-TW
+Cannot change game rules in a hardcore world.,無法在極限模式世界中變更遊戲規則。,zh-TW
+"Cantidad de bloques que se pueden cambiar a la vez con un solo comando, como «/fill» o «/clone».",單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+Cantidad de chunks que se mantienen cargados alrededor del punto de aparición.,主世界重生點周圍維持載入的區塊數量。,zh-TW
+Cargar fuego lejos de los jugadores,允許火在遠離玩家處蔓延,zh-TW
+Causar dano por afogamento,造成溺水傷害,zh-TW
+Causar dano por congelamento,造成冰凍傷害,zh-TW
+Causar dano por fogo,造成火焰傷害,zh-TW
+Causar dano por queda,造成摔落傷害,zh-TW
+Certaines entités peuvent avoir des règles distinctes.,部分實體可能採用不同的規則。,zh-TW
+Certains butins des blocs détruits par des explosions de créatures sont perdus dans l'explosion.,在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Certains butins des blocs détruits par des explosions de TNT sont perdus dans l'explosion.,在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Certains butins des blocs détruits par des explosions dues à des interactions de blocs sont perdus dans l'explosion.,在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Chat,聊天欄,zh-TW
+Chiều cao tích tụ tuyết,積雪厚度,zh-TW
+Cho phép hành động sinh vật phá hoại,允許生物的破壞行為,zh-TW
+Cho phép khán giả tạo địa hình,允許旁觀者生成地形,zh-TW
+Cho phép Nether,允許進入地獄,zh-TW
+"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+Cho phép TNT được kích hoạt và phát nổ,允許 TNT 被點燃並爆炸,zh-TW
+Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+Chỉnh sửa luật chơi,編輯遊戲規則,zh-TW
+Chỉnh sửa luật chơi...,編輯遊戲規則...,zh-TW
+Ciclo circadiano,日夜交替,zh-TW
+Ciclo meteorológico,更新天氣,zh-TW
+Ciclos do mundo,世界更新,zh-TW
+Colère universelle,無差別憤怒,zh-TW
+Combattimento tra giocatori,啟用 PvP,zh-TW
+Command chain size limit,指令連鎖大小限制,zh-TW
+Command context limit,指令的上下文上限,zh-TW
+Command modification block limit,指令修改方塊數量限制,zh-TW
+Commandes d'administrateur affichées,記錄管理員指令,zh-TW
+Comprobar movimiento con élitros,啟用鞘翅移動檢測,zh-TW
+Comprobar movimiento del jugador,啟用玩家移動檢測,zh-TW
+"Consenti alle entità con passeggeri di teletrasportarsi attraverso i portali del Nether, i portali dell'End e i varchi dell'End.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+Conservation de l'inventaire après la mort,死亡後保留物品欄,zh-TW
+Conservazione dell'inventario dopo la morte,死亡後保留物品欄,zh-TW
+Controla el tamaño de la zona alrededor del punto de reaparición donde pueden aparecer los jugadores.,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+"Controla que las criaturas puedan soltar recursos, incluyendo orbes de experiencia.",控制生物資源掉落，包含經驗球。,zh-TW
+"Controla que los bloques puedan soltar recursos, incluyendo orbes de experiencia.",控制方塊資源掉落，包含經驗球。,zh-TW
+Controla si el fuego o la lava deberían estar cargados al estar a más de 8 chunks de distancia de cualquier jugador.,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+Controla si el impacto de proyectiles destruirá bloques a los que normalmente puede destruir.,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+"Controla si las enredaderas se propagan a bloques adyacentes. No afecta otros tipos de enredaderas como enredaderas lacrimosas o enredaderas retorcidas, entre otras.",控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+Controla si los jugadores pueden dañar a otros jugadores o no.,控制玩家是否能互相傷害。,zh-TW
+Controla si los jugadores pueden entrar en el Nether.,控制玩家是否能進入地獄。,zh-TW
+Controla si los monstruos aparecen naturalmente o no.,控制怪物是否能自然生成。,zh-TW
+"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+"Controls resource drops from blocks, including experience orbs.",控制方塊資源掉落，包含經驗球。,zh-TW
+"Controls resource drops from mobs, including experience orbs.",控制生物資源掉落，包含經驗球。,zh-TW
+Controls the size of the area around the spawn point that players can spawn in.,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+Controls whether impact projectiles will destroy blocks that are destructible by them.,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+Controls whether monsters naturally spawn.,控制怪物是否能自然生成。,zh-TW
+Controls whether players are allowed to damage other players.,控制玩家是否能互相傷害。,zh-TW
+Controls whether players are allowed to enter the Nether.,控制玩家是否能進入地獄。,zh-TW
+"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+"Contrôle la propagation aléatoire des lianes sur les blocs adjacents. Cela n'affecte pas les autres types de lianes tels que les lianes pleureuses, les lianes tortueuses, etc.",控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+Contrôle la taille de la zone autour du point d'apparition dans laquelle les joueurs peuvent apparaître.,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+"Contrôle les butins des blocs, y compris les orbes d'expérience.",控制方塊資源掉落，包含經驗球。,zh-TW
+"Contrôle les butins des créatures, y compris les orbes d'expérience.",控制生物資源掉落，包含經驗球。,zh-TW
+"Contrôle les butins des wagonnets (y compris leur inventaire), des cadres, des bateaux, etc.",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+Contrôle si le feu et la lave peuvent s'actualiser à plus de 8 chunks de n'importe quel joueur.,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+Contrôle si les joueurs peuvent entrer dans le Nether.,控制玩家是否能進入地獄。,zh-TW
+Contrôle si les joueurs peuvent infliger des dégâts aux autres joueurs.,控制玩家是否能互相傷害。,zh-TW
+Contrôle si les monstres apparaissent naturellement.,控制怪物是否能自然生成。,zh-TW
+Contrôle si les perles de l'Ender lancées par un joueur disparaissent lorsque celui-ci meurt.,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+Contrôle si les projectiles détruisent les blocs destructibles par ceux-ci à l'impact.,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+Conversione d'acqua in sorgente,流動水轉化成水源,zh-TW
+Conversione di lava in sorgente,流動熔岩轉化成熔岩源,zh-TW
+Creature,生成生物,zh-TW
+Creature,生物,zh-TW
+Criaturas,生物,zh-TW
+Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+Créatures,生物,zh-TW
+"Cuando está activada, se muestra una barra en la pantalla que indica la dirección de otros jugadores.",啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+"Cuando nieva, se forma este número máximo de capas de nieve en el suelo.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+"Cuando se producen ciertos eventos durante la partida, como que aparezca un jefe, el sonido se escucha en todas partes.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+"Cuando una corriente de agua está rodeada de más agua por dos de sus lados, se convierte en una fuente.",流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+"Cuando una corriente de lava está rodeada de más lava por dos de sus lados, se convierte en una fuente.",流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+Cycle jour-nuit,日夜交替,zh-TW
+Cycle météorologique,更新天氣,zh-TW
+Cập nhật luật chơi yêu cầu quyền người điều hành.,更新遊戲規則需要管理員權限。,zh-TW
+Cập nhật lửa,更新火焰,zh-TW
+Cập nhật thế giới,世界更新,zh-TW
+Cập nhật thời tiết,更新天氣,zh-TW
+Danno da annegamento,造成溺水傷害,zh-TW
+Danno da bruciatura,造成火焰傷害,zh-TW
+Danno da caduta,造成摔落傷害,zh-TW
+Danno da congelamento,造成冰凍傷害,zh-TW
+Das Ändern der Spielregeln erfordert Operatorrechte.,更新遊戲規則需要管理員權限。,zh-TW
+Daño por ahogamiento,造成溺水傷害,zh-TW
+Daño por caída,造成摔落傷害,zh-TW
+Daño por congelamiento,造成冰凍傷害,zh-TW
+Daño por fuego,造成火焰傷害,zh-TW
+Deal drowning damage,造成溺水傷害,zh-TW
+Deal fall damage,造成摔落傷害,zh-TW
+Deal fire damage,造成火焰傷害,zh-TW
+Deal freeze damage,造成冰凍傷害,zh-TW
+Debug‐Infos reduzieren,簡化除錯資訊,zh-TW
+Default: %s,預設值：%s,zh-TW
+"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+Define o tamanho do ponto de renascimento dos jogadores.,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+"Define os itens largados pelos blocos, incluindo as esferas de experiência.",控制方塊資源掉落，包含經驗球。,zh-TW
+"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+"Define os itens largados por criaturas, incluindo as esferas de experiência.",控制生物資源掉落，包含經驗球。,zh-TW
+Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+Define se os jogadores podem atacar outros jogadores.,控制玩家是否能互相傷害。,zh-TW
+Define se os jogadores podem entrar no Nether.,控制玩家是否能進入地獄。,zh-TW
+Define se os monstros podem ser gerados naturalmente.,控制怪物是否能自然生成。,zh-TW
+Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+Demora para teletransportarse al Nether en creativo,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Demora para teletransportarse al Nether por defecto,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+"Der Prozentsatz an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.",跳過夜晚所需的入睡玩家比例。,zh-TW
+"Der Radius in Blöcken um einen Spieler, in dem sich Feuer ausbreiten kann.",玩家周圍火焰可蔓延的半徑格數。,zh-TW
+Desactivar control de movimiento de los jugadores,停用玩家移動檢測,zh-TW
+Desactivar control de movimiento de élitros,停用鞘翅移動檢測,zh-TW
+Desactivar invasiones,停用突襲,zh-TW
+Desativar invasões,停用突襲,zh-TW
+Desativar verificação de movimento do jogador,停用玩家移動檢測,zh-TW
+Desativar verificação de movimento dos Élitros,停用鞘翅移動檢測,zh-TW
+Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+Destruction des blocs par des projectiles,投射物是否能破壞方塊,zh-TW
+Destruir Pérolas de Ender lançadas ao morrer,拋出的終界珍珠在死亡時消失,zh-TW
+"Determina i rilasci dei vagonetti (compresi gli inventari), delle cornici, delle barche ecc.",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+Determina la dimensione dell'area intorno al punto di generazione dei giocatori.,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+Determina la propagazione casuale dei rampicanti verso i blocchi adiacenti. Non ha effetto sugli altri tipi di rampicanti (come i rampicanti piangenti o i rampicanti attorcigliati).,控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+"Determina le risorse che vengono rilasciate dalle creature, comprese le sfere di esperienza.",控制生物資源掉落，包含經驗球。,zh-TW
+"Determina le risorse rilasciate dai blocchi, comprese le sfere di esperienza.",控制方塊資源掉落，包含經驗球。,zh-TW
+Determina se i giocatori possono entrare nel Nether attraverso i portali.,控制玩家是否能進入地獄。,zh-TW
+Determina se i giocatori possono infliggere danno agli altri giocatori.,控制玩家是否能互相傷害。,zh-TW
+Determina se i mostri si generano naturalmente.,控制怪物是否能自然生成。,zh-TW
+Determina se i proiettili da impatto possono distruggere i blocchi vulnerabili.,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+Determina se il fuoco e la lava sono attivi anche a una distanza maggiore di 8 chunk da ogni giocatore.,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+"Die Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.",單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+"Die Anzahl der Chunks um den Einstiegspunkt in der Oberwelt, die dauerhaft geladen bleiben.",主世界重生點周圍維持載入的區塊數量。,zh-TW
+Die Spielregeln können in einer Hardcore‐Welt nicht angepasst werden.,無法在極限模式世界中變更遊戲規則。,zh-TW
+Disable elytra movement check,停用鞘翅移動檢測,zh-TW
+Disable player movement check,停用玩家移動檢測,zh-TW
+Disable raids,停用突襲,zh-TW
+Disparition des perles de l'Ender lancées à la mort,拋出的終界珍珠在死亡時消失,zh-TW
+Distruzione dei blocchi tramite proiettili,投射物是否能破壞方塊,zh-TW
+Divers,雜項,zh-TW
+Diversos,雜項,zh-TW
+Do elytra movement check,啟用鞘翅移動檢測,zh-TW
+Do player movement check,啟用玩家移動檢測,zh-TW
+Do raids,啟用突襲,zh-TW
+Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+Donma hasarı alma,造成冰凍傷害,zh-TW
+Drop blocks,掉落方塊,zh-TW
+Drop entity equipment,掉落實體裝備,zh-TW
+Drop mob loot,掉落生物戰利品,zh-TW
+Drops,掉落,zh-TW
+Dung nham chuyển thành nguồn,流動熔岩轉化成熔岩源,zh-TW
+Dây leo lan ra,藤蔓蔓延,zh-TW
+Dégâts de chute,造成摔落傷害,zh-TW
+Dégâts de feu,造成火焰傷害,zh-TW
+Dégâts de gel,造成冰凍傷害,zh-TW
+Dégâts de noyade,造成溺水傷害,zh-TW
+Délai du portail du Nether,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Délai du portail du Nether en mode Créatif,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,主世界重生點周圍維持載入的區塊數量。,zh-TW
+Dünyadaki Hareketler,世界更新,zh-TW
+Düşenler,掉落,zh-TW
+Düşme hasarı alma,造成摔落傷害,zh-TW
+Edit Game Rules,編輯遊戲規則,zh-TW
+Edit Game Rules...,編輯遊戲規則...,zh-TW
+Editar las reglas del juego,編輯遊戲規則,zh-TW
+Editar las reglas del juego...,編輯遊戲規則...,zh-TW
+Editar regras do jogo,編輯遊戲規則,zh-TW
+Editar regras do jogo...,編輯遊戲規則...,zh-TW
+"Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.",在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+"Einiges von der Ausbeute von Blöcken, die durch TNT‐Explosionen zerstört werden, geht dabei verloren.",在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+"Einiges von der Ausbeute von Blöcken, die durch von Kreaturen verursachte Explosionen zerstört werden, geht dabei verloren.",在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Einstiegs‐Chunk‐Radius,重生區塊半徑,zh-TW
+El agua se convierte en fuente,流動水轉化成水源,zh-TW
+El número máximo de contextos que se pueden utilizar en comandos como «execute as».,「execute as」等指令使用的上下文最大數量。,zh-TW
+El porcentaje necesario de jugadores que deben dormir para pasar la noche.,跳過夜晚所需的入睡玩家比例。,zh-TW
+El radio en bloques alrededor de un jugador en el que el fuego puede expandirse,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+Elitra hareket hızı kontrolünü kapat,停用鞘翅移動檢測,zh-TW
+Elitra hareketini denetle,啟用鞘翅移動檢測,zh-TW
+Elytrenflug nicht überprüfen,停用鞘翅移動檢測,zh-TW
+Elytren‐Bewegungsprüfung,啟用鞘翅移動檢測,zh-TW
+"En explosiones por dinamita, algunos bloques no soltarán objetos",在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+En yüksek vagon hızı,礦車最大速度,zh-TW
+Enable Command Blocks,啟用指令方塊,zh-TW
+Enable player Locator Bar,啟用玩家定位條,zh-TW
+Enable pvp,啟用 PvP,zh-TW
+Enable Spawner Blocks,啟用生怪磚,zh-TW
+Enderperlen‐Mitleidenschaft,拋出的終界珍珠在死亡時消失,zh-TW
+Entities with passengers can use portals,被騎乘的實體是否能使用傳送門,zh-TW
+Entity cramming threshold,實體擠壓上限,zh-TW
+Entzünden und Explodieren von TNT,允許 TNT 被點燃並爆炸,zh-TW
+Enviar respuestas de comandos,回傳指令回饋,zh-TW
+Erfrierungsschaden,造成冰凍傷害,zh-TW
+"Ermöglicht es Objekten mit Passagieren, sich durch Nether‐, End‐ und Endtransitportale zu teleportieren.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+Erzeugung,生成,zh-TW
+Esito dei blocchi comandi,記錄指令方塊輸出,zh-TW
+Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+Eventi sonori globali,全域聲音事件,zh-TW
+Eventos de sonido globales,全域聲音事件,zh-TW
+Eventos sonoros globais,全域聲音事件,zh-TW
+Evrensel öfke,無差別憤怒,zh-TW
+Exigir receitas para fabricação,需要配方才能合成,zh-TW
+Exigir recetas para poder fabricar,需要配方才能合成,zh-TW
+Explosion de TNT,允許 TNT 被點燃並爆炸,zh-TW
+Fabbricazione limitata,需要配方才能合成,zh-TW
+Fahrende Händler erzeugen,生成流浪商人,zh-TW
+Fallschaden,造成摔落傷害,zh-TW
+Fantasmi,生成夜魅,zh-TW
+Feuerausbreitung,更新火焰,zh-TW
+Feuerausbreitungs‐Radius,火焰蔓延半徑,zh-TW
+Feuerschaden,造成火焰傷害,zh-TW
+fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+Fire spread radius,火焰蔓延半徑,zh-TW
+Forgive dead players,原諒死者,zh-TW
+Fortschritte bekannt geben,進度通知,zh-TW
+Frequenza dei tick casuali,隨機刻速率,zh-TW
+Fúria universal,無差別憤怒,zh-TW
+Für einige Objekte können eigene Regeln gelten.,部分實體可能採用不同的規則。,zh-TW
+Game Rule Changes,遊戲規則變更,zh-TW
+Gece-gündüz döngüsü olsun,日夜交替,zh-TW
+Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,跳過夜晚所需的入睡玩家比例。,zh-TW
+Gelişimler gösterilsin,進度通知,zh-TW
+Generación de criaturas,生成,zh-TW
+Generar bandas de saqueadores,生成掠奪者巡邏隊,zh-TW
+Generar criaturas,生成生物,zh-TW
+Generar fantasmas,生成夜魅,zh-TW
+Generar monstruos,生成怪物,zh-TW
+Generar terreno en modo espectador,允許旁觀者生成地形,zh-TW
+Generar vendedores ambulantes,生成流浪商人,zh-TW
+Generar wardens,生成伏守者,zh-TW
+Generatori funzionanti,啟用生怪磚,zh-TW
+Generazione,生成,zh-TW
+Generazione di terreno da parte degli spettatori,允許旁觀者生成地形,zh-TW
+Gerar criaturas,生成生物,zh-TW
+Gerar Defensores,生成伏守者,zh-TW
+Gerar Espectros,生成夜魅,zh-TW
+Gerar Mercadores Ambulantes,生成流浪商人,zh-TW
+Gerar monstros,生成怪物,zh-TW
+Gerar patrulhas de Saqueadores,生成掠奪者巡邏隊,zh-TW
+Gerar terreno para os espectadores,允許旁觀者生成地形,zh-TW
+Geração,生成,zh-TW
+Gestorbenen Spielern vergeben,原諒死者,zh-TW
+Gesundheit regenerieren,自然回血,zh-TW
+Giocatore,玩家,zh-TW
+Giảm thông tin gỡ lỗi,簡化除錯資訊,zh-TW
+Giận dữ toàn diện,無差別憤怒,zh-TW
+Giới hạn kích cỡ chuỗi lệnh,指令連鎖大小限制,zh-TW
+Giới hạn ngữ cảnh lệnh,指令的上下文上限,zh-TW
+Giới hạn nội dung của màn hình gỡ lỗi.,限制除錯畫面的內容。,zh-TW
+Giới hạn số khối sửa đổi bởi lệnh,指令修改方塊數量限制,zh-TW
+Giữ túi đồ sau khi chết,死亡後保留物品欄,zh-TW
+Global sound events,全域聲音事件,zh-TW
+Gây sát thương lửa,造成火焰傷害,zh-TW
+Gây sát thương rơi,造成摔落傷害,zh-TW
+Gây sát thương đuối nước,造成溺水傷害,zh-TW
+Gây sát thương đóng băng,造成冰凍傷害,zh-TW
+Générateurs activés,啟用生怪磚,zh-TW
+Génération du terrain par les spectateurs,允許旁觀者生成地形,zh-TW
+Gửi phản hồi về lệnh,回傳指令回饋,zh-TW
+Hata ayıklama bilgisini azalt,簡化除錯資訊,zh-TW
+Hata ayıklama ekranı içeriğini kısıtlar.,限制除錯畫面的內容。,zh-TW
+Hauteur d'accumulation de la neige,積雪厚度,zh-TW
+Hava durumu döngüsü olsun,更新天氣,zh-TW
+Hiển thị thông báo chết,顯示死亡訊息,zh-TW
+Häufigkeit von Zufallsereignissen,隨機刻速率,zh-TW
+"Höchstgeschwindigkeit, die eine Lore an Land standardmäßig erreichen kann.",礦車在地面上移動的預設速度上限。,zh-TW
+Hồi phục sinh lực,自然回血,zh-TW
+"If enabled, players will be able to craft only unlocked recipes.",若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+Il raggio in blocchi intorno a un giocatore entro cui il fuoco può propagarsi,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+Impossible de modifier les règles de jeu dans un monde Hardcore.,無法在極限模式世界中變更遊戲規則。,zh-TW
+"In block interaction explosions, some blocks won't drop their loot",在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"In mob explosions, some blocks won't drop their loot",在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"In TNT explosions, some blocks won't drop their loot",在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Incursioni,啟用突襲,zh-TW
+Incursioni disattivate,停用突襲,zh-TW
+Informazioni diagnostiche ridotte,簡化除錯資訊,zh-TW
+Infos de débogage réduites,簡化除錯資訊,zh-TW
+Innesco ed esplosione di TNT,允許 TNT 被點燃並爆炸,zh-TW
+Invasiones,啟用突襲,zh-TW
+Invasions,啟用突襲,zh-TW
+Invasions désactivées,停用突襲,zh-TW
+Inventar nach dem Tod behalten,死亡後保留物品欄,zh-TW
+Ira universal,無差別憤怒,zh-TW
+Itens largados,掉落,zh-TW
+Jogador,玩家,zh-TW
+Joueur,玩家,zh-TW
+Joueurs morts pardonnés,原諒死者,zh-TW
+Jugador,玩家,zh-TW
+Kar birikme yüksekliği,積雪厚度,zh-TW
+"Kar yağdığında, zeminde birikecek kar katmanı sayısı.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,礦車在地面上移動的預設速度上限。,zh-TW
+Keep inventory after death,死亡後保留物品欄,zh-TW
+"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+Khác,雜項,zh-TW
+Không thể thay đổi luật chơi trong thế giới siêu khó.,無法在極限模式世界中變更遊戲規則。,zh-TW
+Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,控制玩家是否能互相傷害。,zh-TW
+Kiểm soát người chơi được phép vào Nether hay không.,控制玩家是否能進入地獄。,zh-TW
+Kiểm soát quái vật sinh ra tự nhiên hay không.,控制怪物是否能自然生成。,zh-TW
+"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",控制方塊資源掉落，包含經驗球。,zh-TW
+"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",控制生物資源掉落，包含經驗球。,zh-TW
+Kiểm tra chuyển động của cánh cứng,啟用鞘翅移動檢測,zh-TW
+Kiểm tra chuyển động của người chơi,啟用玩家移動檢測,zh-TW
+Komut bağlam limiti,指令的上下文上限,zh-TW
+Komut Bloklarını Etkinleştir,啟用指令方塊,zh-TW
+Komut bloğu zincirleri ve fonksiyonlar için geçerli.,套用於連鎖型指令方塊及函數。,zh-TW
+Komut bloğu çıktıları gösterilsin,記錄指令方塊輸出,zh-TW
+Komut değişikliği blok sınırı,指令修改方塊數量限制,zh-TW
+Komut geri bildirimi gösterilsin,回傳指令回饋,zh-TW
+Komut zinciri uzunluk sınırı,指令連鎖大小限制,zh-TW
+Kreaturen,生物,zh-TW
+Kreaturen erzeugen,生成生物,zh-TW
+Kreaturenausbeute fallen lassen,掉落生物戰利品,zh-TW
+Kreatur‐Explosionsausbeute verschwindet,在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Kâbuslar oluşsun,生成夜魅,zh-TW
+Küresel ses olayları,全域聲音事件,zh-TW
+La lava se convierte en fuente,流動熔岩轉化成熔岩源,zh-TW
+La mise à jour des règles de jeu nécessite des permissions d'opérateur.,更新遊戲規則需要管理員權限。,zh-TW
+La percentuale di giocatori che devono dormire per saltare la notte.,跳過夜晚所需的入睡玩家比例。,zh-TW
+La vitesse maximale par défaut des wagonnets en mouvement sur le sol.,礦車在地面上移動的預設速度上限。,zh-TW
+Largar blocos,掉落方塊,zh-TW
+Largar itens de criaturas,掉落生物戰利品,zh-TW
+Largar itens de entidades,掉落實體裝備,zh-TW
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar.
+Funciona mejor si «Perdonar jugadores muertos» se desactiva.",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar. Funciona mejor si «Perdonar jugadores muertos» se desactiva.",被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+Las criaturas neutrales que estén enfadadas dejarán de estarlo cuando el jugador al que persigan muera cerca.,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+Las entidades con pasajeros pueden utilizar portales,被騎乘的實體是否能使用傳送門,zh-TW
+Las perlas de ender lanzadas desaparecen al morir,拋出的終界珍珠在死亡時消失,zh-TW
+Las perlas de ender lanzadas por un jugador desaparecen cuando este muere.,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+"Lav, kaynağa dönüşsün",流動熔岩轉化成熔岩源,zh-TW
+Lava converts to source,流動熔岩轉化成熔岩源,zh-TW
+Lava‐Erneuerbarkeit,流動熔岩轉化成熔岩源,zh-TW
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgive_dead_players» è disattivata.",被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgiveDeadPlayers» è disattivata.",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+Le creature neutrali che sono state provocate smettono di essere arrabbiate quando il giocatore puntato muore nelle vicinanze.,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+Le entità con passeggeri possono attraversare i portali,被騎乘的實體是否能使用傳送門,zh-TW
+"Le nombre de blocs qui peuvent être modifiés à la fois par une commande, telle que /fill ou /clone.",單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+Le nombre de chunks qui restent chargés autour du point d'apparition de la Surface.,主世界重生點周圍維持載入的區塊數量。,zh-TW
+"Le nombre maximal de contextes qui peuvent être utilisés par des commandes telles que ""execute as"".",「execute as」等指令使用的上下文最大數量。,zh-TW
+Le pourcentage de joueurs qui doivent dormir pour passer la nuit.,跳過夜晚所需的入睡玩家比例。,zh-TW
+Le rayon (en blocs) autour d'un joueur dans lequel le feu peut se propager.,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+Le regole di gioco possono essere cambiate solo dagli operatori.,更新遊戲規則需要管理員權限。,zh-TW
+Le regole di gioco sono bloccate nei mondi in modalità estrema.,無法在極限模式世界中變更遊戲規則。,zh-TW
+Le temps (en ticks) pendant lequel un joueur en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Le temps (en ticks) pendant lequel un joueur qui n'est pas en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgive_dead_players"" est désactivée.",被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgiveDeadPlayers"" est désactivée.",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+Les créatures neutres en colère redeviennent calmes lorsque le joueur ciblé meurt à proximité.,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+Limita el contenido de la pantalla de desarrollo al pulsar F3.,限制除錯畫面的內容。,zh-TW
+Limita il contenuto del cruscotto diagnostico.,限制除錯畫面的內容。,zh-TW
+Limite d'ammassamento delle entità,實體擠壓上限,zh-TW
+Limite d'entassement des entités,實體擠壓上限,zh-TW
+Limite de blocos modificados por comando,指令修改方塊數量限制,zh-TW
+Limite de blocs modifiables par commande,指令修改方塊數量限制,zh-TW
+Limite de comandos em cadeia,指令連鎖大小限制,zh-TW
+Limite de contextes des commandes,指令的上下文上限,zh-TW
+Limite de contextos por comando,指令的上下文上限,zh-TW
+Limite dei blocchi modificabili per comando,指令修改方塊數量限制,zh-TW
+Limite dei contesti dei comandi,指令的上下文上限,zh-TW
+Limite delle catene di comandi,指令連鎖大小限制,zh-TW
+Limite des chaînes de commandes,指令連鎖大小限制,zh-TW
+Limite le contenu de l'écran de débogage.,限制除錯畫面的內容。,zh-TW
+Limits contents of debug screen.,限制除錯畫面的內容。,zh-TW
+Loren‐Höchstgeschwindigkeit,礦車最大速度,zh-TW
+"Lorsqu'il neige, les couches de neige qui se forment sur le sol peuvent atteindre cette hauteur.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+"Lorsqu'un écoulement d'eau est entouré de deux sources d'eau, il se transforme en source.",流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+"Lorsqu'un écoulement de lave est entouré de deux sources de lave, il se transforme en source.",流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+"Lorsque certains événements se produisent dans le jeu, comme l'apparition d'un boss, le son est entendu partout.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+Los proyectiles pueden romper bloques,投射物是否能破壞方塊,zh-TW
+Límite de bloques modificables por comandos,指令修改方塊數量限制,zh-TW
+Límite de comandos encadenados,指令連鎖大小限制,zh-TW
+Límite de contextos del comando,指令的上下文上限,zh-TW
+Límite de entidades por bloque,實體擠壓上限,zh-TW
+Lập tức hồi sinh,立即重生,zh-TW
+Mantener inventario tras morir,死亡後保留物品欄,zh-TW
+Manter o inventário ao morrer,死亡後保留物品欄,zh-TW
+"Maximale Anzahl an Befehlsrahmen, die von Befehlen wie „execute as“ benutzt werden können.",「execute as」等指令使用的上下文最大數量。,zh-TW
+Maximum default speed of a moving Minecart on land.,礦車在地面上移動的預設速度上限。,zh-TW
+Maximum number of contexts that can be used by commands like 'execute as'.,「execute as」等指令使用的上下文最大數量。,zh-TW
+Mercanti ambulanti,生成流浪商人,zh-TW
+Messages de mort,顯示死亡訊息,zh-TW
+Messaggi di morte,顯示死亡訊息,zh-TW
+Minecart max speed,礦車最大速度,zh-TW
+Miscellaneous,雜項,zh-TW
+Mob,生物,zh-TW
+Mobs,生物,zh-TW
+Mobがアイテムや経験値オーブをドロップするかを設定できます。,控制生物資源掉落，包含經驗球。,zh-TW
+Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Mobのアイテムのドロップ,掉落生物戰利品,zh-TW
+Mobのスポーン,生成生物,zh-TW
+Mobの破壊行動の許可,允許生物的破壞行為,zh-TW
+Mob爆発時にブロックがドロップアイテムを落とさない可能性,在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Modifica le regole di gioco,編輯遊戲規則,zh-TW
+Modification des règles de jeu,編輯遊戲規則,zh-TW
+Modifications des règles de jeu,遊戲規則變更,zh-TW
+Monster erzeugen,生成怪物,zh-TW
+Mostrar mensagens de morte,顯示死亡訊息,zh-TW
+Mostrar mensajes de muerte,顯示死亡訊息,zh-TW
+Mostrar respostas dos comandos,回傳指令回饋,zh-TW
+Mostri,生成怪物,zh-TW
+Mudanças nas regras do jogo,遊戲規則變更,zh-TW
+Muhafızlar oluşsun,生成伏守者,zh-TW
+Mặc định: %s,預設值：%s,zh-TW
+Một vài thực thể có thể sẽ có luật riêng biệt.,部分實體可能採用不同的規則。,zh-TW
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Natura,世界更新,zh-TW
+Nether'a İzin Ver,允許進入地獄,zh-TW
+Netherportal‐Verzögerung,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Netherportal‐Verzögerung im Kreativmodus,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Netherportal‐Zugang,允許進入地獄,zh-TW
+Người chơi,玩家,zh-TW
+Ngưỡng nhồi nhét thực thể,實體擠壓上限,zh-TW
+Ngọc Ender được ném ra biến mất khi chết,拋出的終界珍珠在死亡時消失,zh-TW
+No se pueden cambiar las reglas del juego en modo extremo.,無法在極限模式世界中變更遊戲規則。,zh-TW
+Notificar uso de bloques de comandos,記錄指令方塊輸出,zh-TW
+Notificar uso de comandos de admin.,記錄管理員指令,zh-TW
+Numero di chunk che rimangono caricati intorno al punto di generazione globale.,主世界重生點周圍維持載入的區塊數量。,zh-TW
+Numero massimo di blocchi che possono essere cambiati contemporaneamente da un solo comando (come «/fill» o «/clone»).,單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+Numero massimo di contesti che possono essere usati da comandi come «/execute as».,「execute as」等指令使用的上下文最大數量。,zh-TW
+Não largar todos os itens com explosões de blocos,在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Não largar todos os itens com explosões de criaturas,在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Não largar todos os itens com explosões de TNT,在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",「execute as」等指令使用的上下文最大數量。,zh-TW
+Número máximo de entidades agrupadas,實體擠壓上限,zh-TW
+Nước chuyển thành nguồn,流動水轉化成水源,zh-TW
+"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+Obergrenze für Befehlsketten,指令連鎖大小限制,zh-TW
+Obergrenze für Befehlsrahmen,指令的上下文上限,zh-TW
+Obergrenze für Objektgedränge,實體擠壓上限,zh-TW
+Objektausbeute fallen lassen,掉落實體裝備,zh-TW
+Obtención de objetos,掉落,zh-TW
+Obtener botín de criaturas,掉落生物戰利品,zh-TW
+Obteniendo las reglas del juego...,正在擷取遊戲規則...,zh-TW
+Oluşum,生成,zh-TW
+Oyun kuralları alınıyor,正在擷取遊戲規則...,zh-TW
+Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,更新遊戲規則需要管理員權限。,zh-TW
+Oyun Kurallarını Düzenle,編輯遊戲規則,zh-TW
+Oyun Kurallarını Düzenle...,編輯遊戲規則...,zh-TW
+Oyun Kuralı Değişiklikleri,遊戲規則變更,zh-TW
+Oyuncu,玩家,zh-TW
+Oyuncu etrafında ateş yayılabilen blok yarıçapı.,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+Oyuncu hareket denetimini kapat,停用玩家移動檢測,zh-TW
+Oyuncu hareketini denetle,啟用玩家移動檢測,zh-TW
+Oyuncu Konum Çubuğunu aç,啟用玩家定位條,zh-TW
+Oyunculardan uzakta ateş yayılabilsin,允許火在遠離玩家處蔓延,zh-TW
+Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,控制玩家是否能互相傷害。,zh-TW
+Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+Oyuncuların Nether'a girebilmesini kontrol eder.,控制玩家是否能進入地獄。,zh-TW
+Padrão: %s,預設值：%s,zh-TW
+Par défaut : %s,預設值：%s,zh-TW
+Pattuglie di predoni,生成掠奪者巡邏隊,zh-TW
+Percentuale di giocatori addormentati,睡眠比例,zh-TW
+Perdita dei rilasci con le esplosioni dei blocchi,在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Perdita dei rilasci con le esplosioni delle creature,在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Perdita dei rilasci con le esplosioni di TNT,在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Perdoar jogadores mortos,原諒死者,zh-TW
+Perdonar jugadores muertos,原諒死者,zh-TW
+Perdono dei giocatori morti,原諒死者,zh-TW
+"Permet aux entités avec des passagers de se téléporter au travers des portails du Nether et de l'End, et des passerelles de l'End.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+"Permite a las entidades viajar con pasajeros a través de portales del Nether, del End y nexos del End.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+"Permite que se recupere una entidad al romperla. Afecta a vagonetas (incluyendo sus inventarios), marcos, barcas, etc.",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+Permitir acesso ao Nether,允許進入地獄,zh-TW
+Permitir ativação e explosão de TNT,允許 TNT 被點燃並爆炸,zh-TW
+Permitir ações destrutivas de criaturas,允許生物的破壞行為,zh-TW
+Permitir bloques de comandos,啟用指令方塊,zh-TW
+Permitir explosiones de dinamita,允許 TNT 被點燃並爆炸,zh-TW
+Permitir generadores de criaturas,啟用生怪磚,zh-TW
+Permitir JcJ (PvP),啟用 PvP,zh-TW
+Permitir Nether,允許進入地獄,zh-TW
+Permitir que las criaturas destruyan,允許生物的破壞行為,zh-TW
+Perte de butin dans les explosions de blocs,在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Perte de butin dans les explosions de créatures,在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Perte de butin dans les explosions de TNT,在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Phantome erzeugen,生成夜魅,zh-TW
+Player,玩家,zh-TW
+Player's Nether Portal delay in creative mode,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Player's Nether Portal delay in non-creative mode,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Plünderer‐Patrouillen erzeugen,生成掠奪者巡邏隊,zh-TW
+Por defecto: %s,預設值：%s,zh-TW
+Porcentagem de sono,睡眠比例,zh-TW
+Porcentaje de jugadores para dormir,睡眠比例,zh-TW
+Portalnutzung durch Objekte mit Passagieren,被騎乘的實體是否能使用傳送門,zh-TW
+Pourcentage de joueurs endormis,睡眠比例,zh-TW
+Predefinito: %s,預設值：%s,zh-TW
+Progressi annunciati,進度通知,zh-TW
+Progrès annoncés,進度通知,zh-TW
+Projectiles can break blocks,投射物是否能破壞方塊,zh-TW
+Propagación de enredaderas,藤蔓蔓延,zh-TW
+Propagación del fuego,更新火焰,zh-TW
+Propagation des lianes,藤蔓蔓延,zh-TW
+Propagation du feu,更新火焰,zh-TW
+Propagazione dei rampicanti,藤蔓蔓延,zh-TW
+Propagazione del fuoco,更新火焰,zh-TW
+Propagazione distante del fuoco,允許火在遠離玩家處蔓延,zh-TW
+Propagação de trepadeiras,藤蔓蔓延,zh-TW
+Propagação distante de fogo,允許火在遠離玩家處蔓延,zh-TW
+Propagação do fogo,更新火焰,zh-TW
+PvP,啟用 PvP,zh-TW
+pvp 켜기,啟用 PvP,zh-TW
+Pvp'yi etkinleştir,啟用 PvP,zh-TW
+PvPの有効化,啟用 PvP,zh-TW
+"Quando attiva, viene mostrata una barra sullo schermo per indicare la posizione dei giocatori.",啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+"Quando il TNT causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+"Quando l'acqua corrente è circondata da sorgenti d'acqua su due lati, si trasforma in sorgente.",流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+"Quando l'interazione con blocchi causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+"Quando la lava colante è circondata da sorgenti di lava su due lati, si trasforma in sorgente.",流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+"Quando le creature causano esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+"Quando nevica, la neve si accumulerà a terra fino al numero massimo di strati specificato.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+Quebrar blocos com projéteis,投射物是否能破壞方塊,zh-TW
+Rabbia generale,無差別憤怒,zh-TW
+Radio de propagación del fuego,火焰蔓延半徑,zh-TW
+Radio del punto de reaparición,重生區塊半徑,zh-TW
+Radio del punto de reaparición,重生點半徑,zh-TW
+Radius des Wiedereinstiegsbereichs,重生點半徑,zh-TW
+Raggio dei chunk di generazione,重生區塊半徑,zh-TW
+Raggio del punto di rinascita,重生點半徑,zh-TW
+Raggio di propagazione del fuoco intorno al giocatore,火焰蔓延半徑,zh-TW
+Raio de propagação do fogo,火焰蔓延半徑,zh-TW
+Raio do ponto de renascimento,重生點半徑,zh-TW
+Raio dos chunks ao renascer,重生區塊半徑,zh-TW
+Random tick speed rate,隨機刻速率,zh-TW
+Rankenausbreitung,藤蔓蔓延,zh-TW
+Rastgele zaman birimi ilerleme oranı,隨機刻速率,zh-TW
+Rayon de la zone de réapparition,重生點半徑,zh-TW
+Rayon de propagation du feu,火焰蔓延半徑,zh-TW
+Rayon des chunks d'apparition,重生區塊半徑,zh-TW
+Reaparición instantánea,立即重生,zh-TW
+Recette requise pour fabriquer,需要配方才能合成,zh-TW
+Recupero delle regole di gioco...,正在擷取遊戲規則...,zh-TW
+Reduce debug info,簡化除錯資訊,zh-TW
+Reducir datos de F3,簡化除錯資訊,zh-TW
+Reduz o conteúdo da tela de depuração.,限制除錯畫面的內容。,zh-TW
+Reduzir informações de depuração,簡化除錯資訊,zh-TW
+Regenerar salud,自然回血,zh-TW
+Regenerar vida,自然回血,zh-TW
+Regenerate health,自然回血,zh-TW
+Registrazione dei comandi degli operatori,記錄管理員指令,zh-TW
+Regole di gioco,遊戲規則變更,zh-TW
+Regole di gioco...,編輯遊戲規則...,zh-TW
+Renascer imediatamente,立即重生,zh-TW
+Require recipe for crafting,需要配方才能合成,zh-TW
+Respawn immediately,立即重生,zh-TW
+Respawn location radius,重生點半徑,zh-TW
+Retrieving game rules...,正在擷取遊戲規則...,zh-TW
+Rezepte zur Herstellung benötigt,需要配方才能合成,zh-TW
+Rigenerazione della salute,自然回血,zh-TW
+Rilasci,掉落,zh-TW
+Rilasci dei blocchi,掉落方塊,zh-TW
+Rilasci delle creature,掉落生物戰利品,zh-TW
+Rilasci delle entità,掉落實體裝備,zh-TW
+Rinascita immediata,立即重生,zh-TW
+Risposte dei comandi,回傳指令回饋,zh-TW
+Ritardo dei portali del Nether,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Ritardo dei portali del Nether in modalità creativa,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Règles de jeu...,編輯遊戲規則...,zh-TW
+Réapparition immédiate,立即重生,zh-TW
+Récupération des règles de jeu...,正在擷取遊戲規則...,zh-TW
+Régénération de la vie,自然回血,zh-TW
+Résultat des commandes,回傳指令回饋,zh-TW
+Rơi ra,掉落,zh-TW
+Rơi ra khối,掉落方塊,zh-TW
+Rơi ra lợi phẩm của sinh vật,掉落生物戰利品,zh-TW
+Rơi ra trang bị của thực thể,掉落實體裝備,zh-TW
+S'applique aux blocs de commande en chaîne et aux fonctions.,套用於連鎖型指令方塊及函數。,zh-TW
+"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+Sarmaşıklar yayılsın,藤蔓蔓延,zh-TW
+Sağlık yenilensin,自然回血,zh-TW
+Schaden durch Ertrinken,造成溺水傷害,zh-TW
+Schlafquote,睡眠比例,zh-TW
+Schneedeckenhöhe,積雪厚度,zh-TW
+Scomparsa alla morte delle perle di ender già lanciate,拋出的終界珍珠在死亡時消失,zh-TW
+Se aplica a las cadenas de bloques de comandos y funciones.,套用於連鎖型指令方塊及函數。,zh-TW
+"Se attivata, i giocatori possono fabbricare oggetti solo seguendo le ricette sbloccate.",若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+Send command feedback,回傳指令回饋,zh-TW
+Seyircilerin arazi oluşturmasına izin verilsin,允許旁觀者生成地形,zh-TW
+Seyyar Tüccarlar oluşsun,生成流浪商人,zh-TW
+Show death messages,顯示死亡訊息,zh-TW
+"Si activée, les joueurs ne pourront fabriquer qu'à partir des recettes débloquées.",若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+"Si activée, une barre s'affiche à l'écran pour indiquer la position des joueurs.",啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+Si applica a blocchi comandi a catena e funzioni.,套用於連鎖型指令方塊及函數。,zh-TW
+"Si se activa, solo se podrán fabricar recetas aprendidas.",若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+Sinh ra,生成,zh-TW
+Sinh ra kẻ cai ngục,生成伏守者,zh-TW
+Sinh ra kẻ cướp tuần tra,生成掠奪者巡邏隊,zh-TW
+Sinh ra phantom,生成夜魅,zh-TW
+Sinh ra quái vật,生成怪物,zh-TW
+Sinh ra sinh vật,生成生物,zh-TW
+Sinh ra thương nhân lang thang,生成流浪商人,zh-TW
+Sinh vật,生物,zh-TW
+Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+Sleep percentage,睡眠比例,zh-TW
+Snow accumulation height,積雪厚度,zh-TW
+Sofortiger Wiedereinstieg,立即重生,zh-TW
+Sohbet,聊天欄,zh-TW
+Soltar objetos al romper bloques,掉落方塊,zh-TW
+Soltar objetos al romper entidades,掉落實體裝備,zh-TW
+Some entities might have separate rules.,部分實體可能採用不同的規則。,zh-TW
+Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+Sortie des blocs de commande,記錄指令方塊輸出,zh-TW
+Sorveglianti,生成伏守者,zh-TW
+Spawn chunk radius,重生區塊半徑,zh-TW
+Spawn mobs,生成生物,zh-TW
+Spawn Monsters,生成怪物,zh-TW
+Spawn phantoms,生成夜魅,zh-TW
+Spawn pillager patrols,生成掠奪者巡邏隊,zh-TW
+Spawn Wandering Traders,生成流浪商人,zh-TW
+Spawn Wardens,生成伏守者,zh-TW
+Spawner,啟用生怪磚,zh-TW
+Spawning,生成,zh-TW
+Spieler,玩家,zh-TW
+Spielerbewegung nicht überprüfen,停用玩家移動檢測,zh-TW
+Spielerortungsleiste aktivieren,啟用玩家定位條,zh-TW
+Spieler‐Bewegungsprüfung,啟用玩家移動檢測,zh-TW
+Spielregeln bearbeiten,編輯遊戲規則,zh-TW
+Spielregeln bearbeiten …,編輯遊戲規則...,zh-TW
+Spielregeln werden abgerufen …,正在擷取遊戲規則...,zh-TW
+Stabilisce se le perle di ender lanciate da un giocatore scompaiono alla morte di quest'ultimo.,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+Standard: %s,預設值：%s,zh-TW
+"Steuert die Größe des Bereichs um den Einstiegspunkt, in dem Spieler in die Welt einsteigen können.",控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+"Steuert, ob aufprallende Geschosse Blöcke zerstören, die durch sie zerstörbar wären.",控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+"Steuert, ob Blöcke ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",控制方塊資源掉落，包含經驗球。,zh-TW
+"Steuert, ob Feuer und Lava in einer Entfernung von mehr als 8 Chunks von einem Spieler aktualisiert werden",控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+"Steuert, ob Kreaturen ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",控制生物資源掉落，包含經驗球。,zh-TW
+"Steuert, ob Loren, Rahmen, Boote usw. ihre Ausbeute fallen lassen (einschließlich Inventaren).",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+"Steuert, ob Monster natürlich erscheinen.",控制怪物是否能自然生成。,zh-TW
+"Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.",控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+"Steuert, ob Spieler anderen Spielern Schaden zufügen können.",控制玩家是否能互相傷害。,zh-TW
+"Steuert, ob Spieler den Nether durch Portale betreten können.",控制玩家是否能進入地獄。,zh-TW
+"Steuert, ob vom Spieler geworfene Enderperlen verschwinden, wenn dieser stirbt.",玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+"Su, kaynağa dönüşsün",流動水轉化成水源,zh-TW
+Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,「execute as」等指令使用的上下文最大數量。,zh-TW
+Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,主世界重生點周圍維持載入的區塊數量。,zh-TW
+Sự kiện âm thanh toàn cầu,全域聲音事件,zh-TW
+Taxa de velocidade de tiques aleatórios,隨機刻速率,zh-TW
+Tchat,聊天欄,zh-TW
+Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,控制方塊資源掉落，包含經驗球。,zh-TW
+Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,控制生物資源掉落，包含經驗球。,zh-TW
+Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Tempo (in tick) che un giocatore in modalità creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Tempo (in tick) che un giocatore in modalità diverse dalla creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Tempo atmosferico,更新天氣,zh-TW
+Tha thứ cho người chơi đã chết,原諒死者,zh-TW
+Thay đổi luật chơi,遊戲規則變更,zh-TW
+The amount of chunks that stay loaded around the Overworld spawn position.,主世界重生點周圍維持載入的區塊數量。,zh-TW
+"The number of blocks that can be changed at once by one command, such as fill or clone.",單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+The percentage of players who must be sleeping to skip the night.,跳過夜晚所需的入睡玩家比例。,zh-TW
+The radius in blocks around a player in which fire can spread.,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+Thrown Ender Pearls vanish on death,拋出的終界珍珠在死亡時消失,zh-TW
+Thông báo tiến trình,進度通知,zh-TW
+Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Thời gian trong ngày trôi đi,日夜交替,zh-TW
+Thực thể với hành khách có thể sử dụng cổng,被騎乘的實體是否能使用傳送門,zh-TW
+Tick fire away from players,允許火在遠離玩家處蔓延,zh-TW
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modo creativo para cambiar de dimensión.,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modos que no sean creativo para cambiar de dimensión.,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+"TNT patlamalarında, bazı bloklar düşmesin",在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+TNT‐Explosionsausbeute verschwindet,在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+TNT’nin etkinleştirilmesine ve patlamasına izin ver,允許 TNT 被點燃並爆炸,zh-TW
+TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+TNTの点火及び爆発の許可,允許 TNT 被點燃並爆炸,zh-TW
+TNT爆発時にブロックがドロップアイテムを落とさない可能性,在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+TNT의 점화 및 폭발 허용,允許 TNT 被點燃並爆炸,zh-TW
+Todesmeldungen anzeigen,顯示死亡訊息,zh-TW
+"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+Transformar lava em fonte,流動熔岩轉化成熔岩源,zh-TW
+Transformar água em fonte,流動水轉化成水源,zh-TW
+Transformation de l'eau en source,流動水轉化成水源,zh-TW
+Transformation de la lave en source,流動熔岩轉化成熔岩源,zh-TW
+"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Truyền đi lệnh quản trị,記錄管理員指令,zh-TW
+Truyền đi đầu ra của khối lệnh,記錄指令方塊輸出,zh-TW
+Trò chuyện,聊天欄,zh-TW
+Téléportation des entités avec des passagers à travers les portails,被騎乘的實體是否能使用傳送門,zh-TW
+Tắt các cuộc xâm lược,停用突襲,zh-TW
+Tắt kiểm tra chuyển động của cánh cứng,停用鞘翅移動檢測,zh-TW
+Tắt kiểm tra chuyển động của người chơi,停用玩家移動檢測,zh-TW
+Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,跳過夜晚所需的入睡玩家比例。,zh-TW
+Tỉ lệ phần trăm ngủ,睡眠比例,zh-TW
+Tỉ lệ tốc độ nhịp ngẫu nhiên,隨機刻速率,zh-TW
+Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,礦車在地面上移動的預設速度上限。,zh-TW
+Tốc độ tối đa của xe mỏ,礦車最大速度,zh-TW
+Universal anger,無差別憤怒,zh-TW
+Update fire,更新火焰,zh-TW
+Update weather,更新天氣,zh-TW
+Updating game rules requires operator permissions.,更新遊戲規則需要管理員權限。,zh-TW
+Uyuma yüzdesi,睡眠比例,zh-TW
+"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+Varie,雜項,zh-TW
+Varios,雜項,zh-TW
+Varlık ekipmanı düşsün,掉落實體裝備,zh-TW
+Varlık sıkışması alt sınırı,實體擠壓上限,zh-TW
+Varsayılan: %s,預設值：%s,zh-TW
+Velocidad de tics al azar,隨機刻速率,zh-TW
+Velocidad máxima de las vagonetas,礦車最大速度,zh-TW
+Velocidad máxima por defecto de una vagoneta por tierra.,礦車在地面上移動的預設速度上限。,zh-TW
+Velocidade máxima do Carrinho de Mina,礦車最大速度,zh-TW
+Velocidade padrão máxima de um Carrinho de Mina no solo.,礦車在地面上移動的預設速度上限。,zh-TW
+Velocità massima dei vagonetti,礦車最大速度,zh-TW
+Velocità massima predefinita di un vagonetto in movimento.,礦車在地面上移動的預設速度上限。,zh-TW
+Verifica dei movimenti dei giocatori,啟用玩家移動檢測,zh-TW
+Verifica dei movimenti dei giocatori disattivata,停用玩家移動檢測,zh-TW
+Verifica del volo con le elitre,啟用鞘翅移動檢測,zh-TW
+Verifica del volo con le elitre disattivata,停用鞘翅移動檢測,zh-TW
+Verificação de movimentos do jogador,啟用玩家移動檢測,zh-TW
+Verificação de movimentos dos Élitros,啟用鞘翅移動檢測,zh-TW
+Verschiedenes,雜項,zh-TW
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgive_dead_players deaktiviert ist.",被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgiveDeadPlayers deaktiviert ist.",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+"Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.",當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+Vines spread,藤蔓蔓延,zh-TW
+Vitesse des ticks aléatoires,隨機刻速率,zh-TW
+Vitesse maximale des wagonnets,礦車最大速度,zh-TW
+Você não pode alterar as regras do jogo em mundos no modo Intenso.,無法在極限模式世界中變更遊戲規則。,zh-TW
+Von Spielern entferntes Feuer aktualisieren,允許火在遠離玩家處蔓延,zh-TW
+Voranschreiten der Tageszeit,日夜交替,zh-TW
+Voulez-vous vraiment abandonner les modifications en cours des règles de jeu ?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+Vuoi davvero annullare le modifiche in sospeso alle regole di gioco?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+Vérification des mouvements du joueur,啟用玩家移動檢測,zh-TW
+Vérification du vol en élytres,啟用鞘翅移動檢測,zh-TW
+Vérification désactivée des mouvements du joueur,停用玩家移動檢測,zh-TW
+Vérification désactivée du vol en élytres,停用鞘翅移動檢測,zh-TW
+Vật bắn ra có thể phá khối,投射物是否能破壞方塊,zh-TW
+Wasser‐Erneuerbarkeit,流動水轉化成水源,zh-TW
+Water converts to source,流動水轉化成水源,zh-TW
+Weltaktualisierungen,世界更新,zh-TW
+Weltweite Geräuschereignisse,全域聲音事件,zh-TW
+"Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen.",若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+"Wenn aktiviert, zeigt eine Leiste auf dem Bildschirm die Richtung der Mitspieler an.",啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+"Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+"Wenn es schneit, entsteht auf dem Boden eine Schneedecke, die höchstens diese Anzahl von Schichten erreicht.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+"Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, wird sie zu einer Quelle.",流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+"Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, wird es zu einer Quelle.",流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+Wetterwechsel,更新天氣,zh-TW
+"When certain game events happen, like a boss spawning, the sound is heard everywhere.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+"When enabled, a bar is shown on the screen to indicate the direction of players.",啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+"When flowing lava is surrounded on two sides by lava sources, it converts into a source.",流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+"When flowing water is surrounded on two sides by water sources, it converts into a source.",流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+"When it snows, layers of snow form on the ground up to at most this number of layers.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+Whether Ender Pearls thrown by a player vanish when that player dies.,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+Wird auf Befehlsblockketten und Funktionen angewandt.,套用於連鎖型指令方塊及函數。,zh-TW
+World Updates,世界更新,zh-TW
+Wärter erzeugen,生成伏守者,zh-TW
+Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Yağmacı devriyeleri oluşsun,生成掠奪者巡邏隊,zh-TW
+Yeniden canlanma yeri çevresi,重生點半徑,zh-TW
+"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+Yolcusu olan varlıklar geçitlerden geçebilir,被騎乘的實體是否能使用傳送門,zh-TW
+Yêu cầu công thức chế tạo,需要配方才能合成,zh-TW
+Yönetici komutları gösterilsin,記錄管理員指令,zh-TW
+"Zeit (in Ticks), die ein Spieler außerhalb des Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+"Zeit (in Ticks), die ein Spieler im Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Zerstörung durch Kreaturen,允許生物的破壞行為,zh-TW
+Zorlayıcı dünyada oyun kuralları değiştirilemez.,無法在極限模式世界中變更遊戲規則。,zh-TW
+Zuschauer generieren Landschaft,允許旁觀者生成地形,zh-TW
+¿Seguro que quieres descartar tus cambios?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+Áp dụng cho chuỗi khối lệnh và hàm.,套用於連鎖型指令方塊及函數。,zh-TW
+Änderungen der Spielregeln,遊戲規則變更,zh-TW
+Çağırıcı Bloklarını Etkinleştir,啟用生怪磚,zh-TW
+Çeşitli,雜項,zh-TW
+Événements sonores globaux,全域聲音事件,zh-TW
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+Öldükten sonra envanteri koru,死亡後保留物品欄,zh-TW
+Ölü oyuncular affedilsin,原諒死者,zh-TW
+Ölüm iletileri gösterilsin,顯示死亡訊息,zh-TW
+Überfälle,啟用突襲,zh-TW
+Überfälle deaktivieren,停用突襲,zh-TW
+Üretim için tarif gereksin,需要配方才能合成,zh-TW
+Đang truy xuất luật chơi...,正在擷取遊戲規則...,zh-TW
+Đếm nhịp lửa cách xa người chơi,允許火在遠離玩家處蔓延,zh-TW
+Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Активация и взрыв динамита,允許 TNT 被點燃並爆炸,zh-TW
+Влияет на выпадение предметов и сфер опыта из блоков.,控制方塊資源掉落，包含經驗球。,zh-TW
+Влияет на выпадение предметов и сфер опыта из мобов.,控制生物資源掉落，包含經驗球。,zh-TW
+"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+"Влияет на потерю предметов, выпавших после взрыва динамита.",在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+"Влияет на потерю предметов, выпавших после взрыва моба.",在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+Возобновление источников воды,流動水轉化成水源,zh-TW
+Возобновление источников лавы,流動熔岩轉化成熔岩源,zh-TW
+Время прохождения портала Незера в творческом режиме,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Время прохождения портала Незера вне творческого режима,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+Вы действительно хотите отменить изменения игровых правил?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+Выпадение блоков,掉落方塊,zh-TW
+Выпадение добычи из мобов,掉落生物戰利品,zh-TW
+Выпадение ресурсов,掉落,zh-TW
+Выпадение экипировки сущностей,掉落實體裝備,zh-TW
+Высота снежного покрова,積雪厚度,zh-TW
+Генерация мира наблюдателями,允許旁觀者生成地形,zh-TW
+Глобальные звуковые события,全域聲音事件,zh-TW
+Доступ в Незер,允許進入地獄,zh-TW
+"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+Загрузка игровых правил...,正在擷取遊戲規則...,zh-TW
+Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+Запись команд администраторов,記錄管理員指令,zh-TW
+Затрагивает цепочки командных блоков и функции.,套用於連鎖型指令方塊及函數。,zh-TW
+Игровые правила...,編輯遊戲規則...,zh-TW
+Игрок,玩家,zh-TW
+Изменение игровых правил в Хардкоре недоступно.,無法在極限模式世界中變更遊戲規則。,zh-TW
+Изменение игровых правил требует прав оператора.,更新遊戲規則需要管理員權限。,zh-TW
+Изменения игровых правил,遊戲規則變更,zh-TW
+Изменения погоды,更新天氣,zh-TW
+Использование командных блоков,啟用指令方塊,zh-TW
+Использование порталов сущностями с пассажирами,被騎乘的實體是否能使用傳送門,zh-TW
+Исчезновение брошенного эндер-жемчуга при смерти,拋出的終界珍珠在死亡時消失,zh-TW
+"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+Командные блоки,啟用指令方塊,zh-TW
+Локатор игроков,啟用玩家定位條,zh-TW
+Максимальная базовая скорость движения вагонетки по земле.,礦車在地面上移動的預設速度上限。,zh-TW
+Максимальная скорость вагонетки,礦車最大速度,zh-TW
+"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",「execute as」等指令使用的上下文最大數量。,zh-TW
+Малый экран отладки,簡化除錯資訊,zh-TW
+Мгновенное возрождение,立即重生,zh-TW
+Мобы,生物,zh-TW
+Настройка игровых правил,編輯遊戲規則,zh-TW
+Обновление огня вдали от игроков,允許火在遠離玩家處蔓延,zh-TW
+Обновления мира,世界更新,zh-TW
+Ограничение длины цепи команд,指令連鎖大小限制,zh-TW
+Ограничение изменения блоков командой,指令修改方塊數量限制,zh-TW
+Ограничение контекста команд,指令的上下文上限,zh-TW
+Ограничение содержания экрана отладки.,限制除錯畫面的內容。,zh-TW
+Окружённая двумя источниками текущая вода образует третий.,流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+Окружённая двумя источниками текущая лава образует третий.,流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+Оповещения о достижениях,進度通知,zh-TW
+"Определяет, могут ли игроки входить в Незер.",控制玩家是否能進入地獄。,zh-TW
+"Определяет, могут ли игроки наносить урон другим игрокам.",控制玩家是否能互相傷害。,zh-TW
+"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+"Определяет, появляются ли монстры сами по себе.",控制怪物是否能自然生成。,zh-TW
+Отключение проверки движения игрока,停用玩家移動檢測,zh-TW
+Отключение проверки на элитрах,停用鞘翅移動檢測,zh-TW
+Отключение рейдов,停用突襲,zh-TW
+Отображение сообщений команд,回傳指令回饋,zh-TW
+Патрули разбойников,生成掠奪者巡邏隊,zh-TW
+По умолчанию: %s,預設值：%s,zh-TW
+"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+Потеря части добычи от взрыва при использовании блока,在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Потеря части добычи при взрыве динамита,在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Потеря части добычи при взрыве моба,在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+Появление,生成,zh-TW
+Появление мобов,生成生物,zh-TW
+Появление монстров,生成怪物,zh-TW
+Появление фантомов,生成夜魅,zh-TW
+Появление хранителей,生成伏守者,zh-TW
+Предел сущностей в одном блоке,實體擠壓上限,zh-TW
+"Предельное число слоёв снега, образующихся во время снегопада.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+Проверка движения игрока,啟用玩家移動檢測,zh-TW
+Проверка движения на элитрах,啟用鞘翅移動檢測,zh-TW
+"Процент игроков, которым нужно спать для пропуска ночи.",跳過夜晚所需的入睡玩家比例。,zh-TW
+Процент спящих,睡眠比例,zh-TW
+Прощение умерших игроков,原諒死者,zh-TW
+"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",玩家周圍火焰可蔓延的半徑格數。,zh-TW
+Радиус невыгружаемой области вокруг точек возрождения игроков.,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+Радиус невыгружаемой области вокруг точки возрождения мира.,主世界重生點周圍維持載入的區塊數量。,zh-TW
+Радиус области возрождения,重生點半徑,zh-TW
+Радиус распространения огня,火焰蔓延半徑,zh-TW
+Радиус чанков возрождения мира,重生區塊半徑,zh-TW
+Разное,雜項,zh-TW
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+Разрушительные действия мобов,允許生物的破壞行為,zh-TW
+Распространение лианы,藤蔓蔓延,zh-TW
+Распространение огня,更新火焰,zh-TW
+Рассадники,啟用生怪磚,zh-TW
+Регенерация здоровья,自然回血,zh-TW
+"Регулирует, разрушаются ли определённые блоки от удара снаряда.",控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+Рейды,啟用突襲,zh-TW
+Слепая ярость,無差別憤怒,zh-TW
+Смена дня и ночи,日夜交替,zh-TW
+Снаряды могут разрушать блоки,投射物是否能破壞方塊,zh-TW
+Создание только по рецепту,需要配方才能合成,zh-TW
+Сообщения командных блоков,記錄指令方塊輸出,zh-TW
+Сообщения о смерти,顯示死亡訊息,zh-TW
+Сохранение инвентаря при смерти,死亡後保留物品欄,zh-TW
+Странствующие торговцы,生成流浪商人,zh-TW
+У некоторых сущностей могут быть свои игровые правила.,部分實體可能採用不同的規則。,zh-TW
+Урон от замерзания,造成冰凍傷害,zh-TW
+Урон от огня,造成火焰傷害,zh-TW
+Урон от падения,造成摔落傷害,zh-TW
+Урон от утопления,造成溺水傷害,zh-TW
+Частота случайных тактов,隨機刻速率,zh-TW
+Чат,聊天欄,zh-TW
+การดรอป,掉落,zh-TW
+การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,更新遊戲規則需要管理員權限。,zh-TW
+การอัปเดตของโลก,世界更新,zh-TW
+การเกิด,生成,zh-TW
+การโกรธทุกคน,無差別憤怒,zh-TW
+กำลังดึงข้อมูลกฎเกม...,正在擷取遊戲規則...,zh-TW
+ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,控制方塊資源掉落，包含經驗球。,zh-TW
+ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,控制生物資源掉落，包含經驗球。,zh-TW
+ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,控制玩家是否能互相傷害。,zh-TW
+ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,控制玩家是否能進入地獄。,zh-TW
+ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,控制怪物是否能自然生成。,zh-TW
+ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+ความสูงในการสะสมชั้นหิมะ,積雪厚度,zh-TW
+ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,礦車在地面上移動的預設速度上限。,zh-TW
+ความเร็วสูงสุดของรถราง,礦車最大速度,zh-TW
+คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+ค่าเริ่มต้น: %s,預設值：%s,zh-TW
+จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',「execute as」等指令使用的上下文最大數量。,zh-TW
+จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,指令連鎖大小限制,zh-TW
+จำกัดจำนวนบริบทของคำสั่ง,指令的上下文上限,zh-TW
+จำกัดเนื้อหาของหน้าจอดีบั๊ก,限制除錯畫面的內容。,zh-TW
+จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,主世界重生點周圍維持載入的區塊數量。,zh-TW
+จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,跳過夜晚所需的入睡玩家比例。,zh-TW
+จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,實體擠壓上限,zh-TW
+ดรอปของจากเอนทิตี้,掉落實體裝備,zh-TW
+ดรอปลูตของม็อบ,掉落生物戰利品,zh-TW
+ดาเมจจากการจมน้ำ,造成溺水傷害,zh-TW
+ดาเมจจากการตกจากที่สูง,造成摔落傷害,zh-TW
+ดาเมจจากความเย็น,造成冰凍傷害,zh-TW
+ดาเมจจากไฟ,造成火焰傷害,zh-TW
+ดำเนินวัฏจักรกลางวัน-กลางคืน,日夜交替,zh-TW
+ตรวจสอบการเคลื่อนที่ของผู้เล่น,啟用玩家移動檢測,zh-TW
+ตรวจสอบความเร็วขณะบินด้วยปีก,啟用鞘翅移動檢測,zh-TW
+ตายของไม่ตก,死亡後保留物品欄,zh-TW
+ต้องมีสูตรสำหรับการคราฟต์,需要配方才能合成,zh-TW
+บล็อกดรอป,掉落方塊,zh-TW
+ประกาศความก้าวหน้า,進度通知,zh-TW
+ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,停用玩家移動檢測,zh-TW
+ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,停用鞘翅移動檢測,zh-TW
+ปิดการปล้นสะดม,停用突襲,zh-TW
+ผู้เล่น,玩家,zh-TW
+ฟื้นฟูเลือดตามธรรมชาติ,自然回血,zh-TW
+มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,套用於連鎖型指令方塊及函數。,zh-TW
+ม็อบ,生物,zh-TW
+ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+รัศมีการลุกลามของไฟ,火焰蔓延半徑,zh-TW
+รัศมีจุดเกิด,重生點半徑,zh-TW
+รัศมีชังก์จุดเกิด,重生區塊半徑,zh-TW
+รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+ลดการแสดงข้อมูลดีบั๊ก,簡化除錯資訊,zh-TW
+วัตถุพุ่งสามารถทำลายบล็อกได้,投射物是否能破壞方塊,zh-TW
+หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,允許 TNT 被點燃並爆炸,zh-TW
+อนุญาตให้เข้าเนเธอร์,允許進入地獄,zh-TW
+อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+อภัยผู้เล่นที่ตายแล้ว,原諒死者,zh-TW
+อัตราความเร็วติ๊กแบบสุ่ม,隨機刻速率,zh-TW
+อัปเดตสภาพอากาศ,更新天氣,zh-TW
+อัปเดตไฟ,更新火焰,zh-TW
+เกิดใหม่ทันที,立即重生,zh-TW
+เบ็ดเตล็ด,雜項,zh-TW
+เปลี่ยนแปลงกฎเกม,遊戲規則變更,zh-TW
+เปอร์เซ็นต์ของผู้เล่นนอน,睡眠比例,zh-TW
+เปิดการปล้นสะดม,啟用突襲,zh-TW
+เปิดใช้งาน PvP,啟用 PvP,zh-TW
+เปิดใช้งานบล็อกกรงกำเนิด,啟用生怪磚,zh-TW
+เปิดใช้งานบล็อกคำสั่ง,啟用指令方塊,zh-TW
+เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,啟用玩家定位條,zh-TW
+เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+เหตุการณ์เสียงดังไปทั่ว,全域聲音事件,zh-TW
+เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,被騎乘的實體是否能使用傳送門,zh-TW
+เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,部分實體可能採用不同的規則。,zh-TW
+แก้ไขกฎเกม,編輯遊戲規則,zh-TW
+แก้ไขกฎเกม...,編輯遊戲規則...,zh-TW
+แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,指令修改方塊數量限制,zh-TW
+แชต,聊天欄,zh-TW
+แสดงข้อความการตาย,顯示死亡訊息,zh-TW
+แสดงบันทึกคำสั่งของแอดมิน,記錄管理員指令,zh-TW
+แสดงผลป้อนกลับคำสั่ง,回傳指令回饋,zh-TW
+แสดงเอาต์พุตของบล็อกคำสั่ง,記錄指令方塊輸出,zh-TW
+ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+ให้กองโจรลาดตระเวนเกิด,生成掠奪者巡邏隊,zh-TW
+ให้น้ำไหลกลายเป็นแหล่งน้ำได้,流動水轉化成水源,zh-TW
+ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,允許旁觀者生成地形,zh-TW
+ให้พ่อค้าเร่ร่อนเกิด,生成流浪商人,zh-TW
+ให้มอนสเตอร์เกิด,生成怪物,zh-TW
+ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,允許生物的破壞行為,zh-TW
+ให้ม็อบเกิด,生成生物,zh-TW
+ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,流動熔岩轉化成熔岩源,zh-TW
+ให้วอร์เดนเกิด,生成伏守者,zh-TW
+ให้เถาวัลย์แพร่,藤蔓蔓延,zh-TW
+ให้แฟนท่อมเกิด,生成夜魅,zh-TW
+ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,允許火在遠離玩家處蔓延,zh-TW
+ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,拋出的終界珍珠在死亡時消失,zh-TW
+ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,無法在極限模式世界中變更遊戲規則。,zh-TW
+’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,「execute as」等指令使用的上下文最大數量。,zh-TW
+“execute as”等命令可以使用的上下文数量最大值。,「execute as」等指令使用的上下文最大數量。,zh-TW
+「execute as」などのコマンドで使用できる実行文脈の最大数,「execute as」等指令使用的上下文最大數量。,zh-TW
+その他,雜項,zh-TW
+どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+ウォーデンのスポーン,生成伏守者,zh-TW
+エリトラの速度チェック,啟用鞘翅移動檢測,zh-TW
+エリトラの速度チェックの無効化,停用鞘翅移動檢測,zh-TW
+エンティティの最大密集数,實體擠壓上限,zh-TW
+オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,主世界重生點周圍維持載入的區塊數量。,zh-TW
+クラフトにレシピを要求,需要配方才能合成,zh-TW
+クリエイティブモードでのネザーポータルの待機時間,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+ゲームルールの変更,遊戲規則變更,zh-TW
+ゲームルールの更新には管理者権限が必要です。,更新遊戲規則需要管理員權限。,zh-TW
+ゲームルールを取得中…,正在擷取遊戲規則...,zh-TW
+ゲームルールを編集,編輯遊戲規則,zh-TW
+ゲームルールを編集…,編輯遊戲規則...,zh-TW
+ゲーム内時刻の進行,日夜交替,zh-TW
+コマンドによるブロックの最大変更数,指令修改方塊數量限制,zh-TW
+コマンドの実行結果の表示,回傳指令回饋,zh-TW
+コマンドの最大チェーン数,指令連鎖大小限制,zh-TW
+コマンドの最大実行文脈数,指令的上下文上限,zh-TW
+コマンドブロックの実行結果の通知,記錄指令方塊輸出,zh-TW
+コマンドブロックの有効化,啟用指令方塊,zh-TW
+スペクテイターモードのプレイヤーによる地形生成の許可,允許旁觀者生成地形,zh-TW
+スポナーの有効化,啟用生怪磚,zh-TW
+スポーン,生成,zh-TW
+スポーンチャンクの半径,重生區塊半徑,zh-TW
+スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+チェーンコマンドブロックや関数に適用されます。,套用於連鎖型指令方塊及函數。,zh-TW
+チャット,聊天欄,zh-TW
+ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+ツタの成長,藤蔓蔓延,zh-TW
+デバッグ情報の制限,簡化除錯資訊,zh-TW
+デフォルト値：%s,預設值：%s,zh-TW
+トロッコの最高速度,礦車最大速度,zh-TW
+トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+ドロップ,掉落,zh-TW
+ネザーの許可,允許進入地獄,zh-TW
+ハードコアのワールドではゲームルールを変更できません。,無法在極限模式世界中變更遊戲規則。,zh-TW
+ファントムのスポーン,生成夜魅,zh-TW
+ブロックがアイテムや経験値オーブをドロップするかを設定できます。,控制方塊資源掉落，包含經驗球。,zh-TW
+ブロックのドロップ,掉落方塊,zh-TW
+ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+プレイヤー,玩家,zh-TW
+プレイヤーから遠い炎のティック処理,允許火在遠離玩家處蔓延,zh-TW
+プレイヤーがネザーに入ることができるかどうかを設定できます,控制玩家是否能進入地獄。,zh-TW
+プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,控制玩家是否能互相傷害。,zh-TW
+プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+プレイヤーの方向バーの有効化,啟用玩家定位條,zh-TW
+プレイヤーの速度チェック,啟用玩家移動檢測,zh-TW
+プレイヤーの速度チェックの無効化,停用玩家移動檢測,zh-TW
+プレイヤー死亡時のエンダーパールの消滅,拋出的終界珍珠在死亡時消失,zh-TW
+ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+モンスターが自然にスポーンするかどうかを設定できます,控制怪物是否能自然生成。,zh-TW
+モンスターのスポーン,生成怪物,zh-TW
+ランダムティックの発生数,隨機刻速率,zh-TW
+リスポーン地点の半径,重生點半徑,zh-TW
+ワールドの更新,世界更新,zh-TW
+ワールド全体のサウンドイベント,全域聲音事件,zh-TW
+一些实体可能有其特定的规则。,部分實體可能採用不同的規則。,zh-TW
+主世界出生点周围保持加载的区块数量。,主世界重生點周圍維持載入的區塊數量。,zh-TW
+体力の自動回復,自然回血,zh-TW
+何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+何かが乗っているエンティティのポータル使用可否,被騎乘的實體是否能使用傳送門,zh-TW
+你确定要放弃未保存的游戏规则更改吗？,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+允许TNT被点燃并爆炸,允許 TNT 被點燃並爆炸,zh-TW
+允许旁观者生成地形,允許旁觀者生成地形,zh-TW
+允许流动水转化为水源,流動水轉化成水源,zh-TW
+允许流动熔岩转化为熔岩源,流動熔岩轉化成熔岩源,zh-TW
+允许火在远离玩家处蔓延,允許火在遠離玩家處蔓延,zh-TW
+允许破坏性生物行为,允許生物的破壞行為,zh-TW
+允许被骑乘的实体通过下界传送门、末地传送门和末地折跃门传送。,允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+允许进入下界,允許進入地獄,zh-TW
+入睡占比,睡眠比例,zh-TW
+全局声音事件,全域聲音事件,zh-TW
+冰冻伤害,造成冰凍傷害,zh-TW
+凍結ダメージ,造成冰凍傷害,zh-TW
+出生区块半径,重生區塊半徑,zh-TW
+创造模式下玩家在下界传送门中等待的时间,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+单条命令（如fill和clone）最多能更改的方块数量。,單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,zh-TW
+即時リスポーン,立即重生,zh-TW
+发送命令反馈,回傳指令回饋,zh-TW
+合成需要配方,需要配方才能合成,zh-TW
+启用PvP,啟用 PvP,zh-TW
+启用刷怪笼方块,啟用生怪磚,zh-TW
+启用后，屏幕上会显示指示玩家方位的定位栏。,啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+启用命令方块,啟用指令方塊,zh-TW
+启用玩家定位栏,啟用玩家定位條,zh-TW
+启用玩家移动检测,啟用玩家移動檢測,zh-TW
+启用袭击,啟用突襲,zh-TW
+启用鞘翅移动检测,啟用鞘翅移動檢測,zh-TW
+命令上下文数量限制,指令的上下文上限,zh-TW
+命令修改方块数量限制,指令修改方塊數量限制,zh-TW
+命令连锁执行数量限制,指令連鎖大小限制,zh-TW
+在TNT引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+在TNT爆炸中，一些方块不会掉落战利品,在 TNT 的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+在与方块交互引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+在方块交互爆炸中，一些方块不会掉落战利品,在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+在生物引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+在生物爆炸中，一些方块不会掉落战利品,在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+地上を走るトロッコのデフォルトの最高速度,礦車在地面上移動的預設速度上限。,zh-TW
+夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,跳過夜晚所需的入睡玩家比例。,zh-TW
+天气更替,更新天氣,zh-TW
+天気の更新,更新天氣,zh-TW
+实体挤压上限,實體擠壓上限,zh-TW
+宽恕死亡玩家,原諒死者,zh-TW
+就寝率,睡眠比例,zh-TW
+广播命令方块输出,記錄指令方塊輸出,zh-TW
+应用于命令方块链和函数。,套用於連鎖型指令方塊及函數。,zh-TW
+弹射物能否破坏方块,投射物是否能破壞方塊,zh-TW
+愤怒的中立生物将在其目标玩家于附近死亡后息怒。,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用forgive_dead_players可达到最佳效果。,被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。,被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+控制各种矿车（含内容物）、物品展示框、船等的物品掉落。,控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+控制弹射物能否破坏可被其破坏的方块。,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+控制怪物能否自然生成。,控制怪物是否能自然生成。,zh-TW
+控制方块是否掉落资源，包括经验球。,控制方塊資源掉落，包含經驗球。,zh-TW
+控制火和熔岩能否在距离任何玩家超过8个区块处蔓延。,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+控制玩家能否进入下界。,控制玩家是否能進入地獄。,zh-TW
+控制玩家间能否互相伤害。,控制玩家是否能互相傷害。,zh-TW
+控制生物是否掉落资源，包括经验球。,控制生物資源掉落，包含經驗球。,zh-TW
+控制藤蔓方块能否随机向相邻的方块蔓延。不会影响其他藤蔓类方块（例如垂泪藤和缠怨藤等）。,控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+控制适合玩家生成的出生点周围区域大小。,控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+掷出的末影珍珠在死亡时消失,拋出的終界珍珠在死亡時消失,zh-TW
+摔落伤害,造成摔落傷害,zh-TW
+敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+敵対の共有,無差別憤怒,zh-TW
+敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+方块掉落,掉落方塊,zh-TW
+无差别愤怒,無差別憤怒,zh-TW
+无法在极限模式世界中更改游戏规则。,無法在極限模式世界中變更遊戲規則。,zh-TW
+显示死亡消息,顯示死亡訊息,zh-TW
+更新游戏规则需要管理员权限。,更新遊戲規則需要管理員權限。,zh-TW
+有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+杂项,雜項,zh-TW
+正在获取游戏规则…,正在擷取遊戲規則...,zh-TW
+死亡したプレイヤーへの敵対を解除,原諒死者,zh-TW
+死亡メッセージの表示,顯示死亡訊息,zh-TW
+死亡后保留物品栏,死亡後保留物品欄,zh-TW
+死亡時のインベントリの保持,死亡後保留物品欄,zh-TW
+水流から水源への変化,流動水轉化成水源,zh-TW
+水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+游戏内时间流逝,日夜交替,zh-TW
+游戏规则更改,遊戲規則變更,zh-TW
+溶岩流から溶岩源への変化,流動熔岩轉化成熔岩源,zh-TW
+溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+溺水ダメージ,造成溺水傷害,zh-TW
+溺水伤害,造成溺水傷害,zh-TW
+火傷ダメージ,造成火焰傷害,zh-TW
+火焰伤害,造成火焰傷害,zh-TW
+火焰蔓延,更新火焰,zh-TW
+火焰蔓延半径,火焰蔓延半徑,zh-TW
+炎の延焼が起こる半径,火焰蔓延半徑,zh-TW
+炎の更新,更新火焰,zh-TW
+特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,部分實體可能採用不同的規則。,zh-TW
+特定游戏事件（如Boss生成）发生时，声音可在所有地方听见。,當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+玩家周围火可以蔓延的方块半径。,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+玩家投掷的末影珍珠是否在玩家死亡时消失。,玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+生命值自然恢复,自然回血,zh-TW
+生成幻翼,生成夜魅,zh-TW
+生成灾厄巡逻队,生成掠奪者巡邏隊,zh-TW
+生成监守者,生成伏守者,zh-TW
+生物战利品掉落,掉落生物戰利品,zh-TW
+略奪隊のスポーン,生成掠奪者巡邏隊,zh-TW
+相邻两面方块为水源的流动水会转化为水源。,流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+相邻两面方块为熔岩源的流动熔岩会转化为熔岩源。,流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW
+矿车在地面上移动的默认最大速度。,礦車在地面上移動的預設速度上限。,zh-TW
+矿车最大速度,礦車最大速度,zh-TW
+禁用玩家移动检测,停用玩家移動檢測,zh-TW
+禁用袭击,停用突襲,zh-TW
+禁用鞘翅移动检测,停用鞘翅移動檢測,zh-TW
+积雪厚度,積雪厚度,zh-TW
+積雪の深さ,積雪厚度,zh-TW
+简化调试信息,簡化除錯資訊,zh-TW
+管理者ログへのコマンドの実行結果の通知,記錄管理員指令,zh-TW
+編集中のゲームルールの変更を破棄してもよろしいですか？,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+编辑游戏规则,編輯遊戲規則,zh-TW
+编辑游戏规则…,編輯遊戲規則...,zh-TW
+聊天,聊天欄,zh-TW
+若启用，玩家只能使用已解锁的配方合成。,若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+落下ダメージ,造成摔落傷害,zh-TW
+行商人のスポーン,生成流浪商人,zh-TW
+表示するデバッグ情報の項目数を制限します。,限制除錯畫面的內容。,zh-TW
+被骑乘的实体能否使用传送门,被騎乘的實體是否能使用傳送門,zh-TW
+襲撃の無効化,停用突襲,zh-TW
+襲撃の発生,啟用突襲,zh-TW
+設備エンティティのドロップ,掉落實體裝備,zh-TW
+跳过夜晚所需的入睡玩家占比。,跳過夜晚所需的入睡玩家比例。,zh-TW
+进度通知,進度通知,zh-TW
+通告管理员命令,記錄管理員指令,zh-TW
+進捗達成の通知,進度通知,zh-TW
+重生点半径,重生點半徑,zh-TW
+降雪时，地面上的雪最多堆积到此处指定的层数。,降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+降雪時に積もる雪の層の最大数を設定できます。,降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+限制调试屏幕内容。,限制除錯畫面的內容。,zh-TW
+随机刻速率,隨機刻速率,zh-TW
+非クリエイティブモードでのネザーポータルの待機時間,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+非创造模式下玩家在下界传送门中等待的时间,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+非创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+非生物实体掉落,掉落實體裝備,zh-TW
+飛び道具によるブロック破壊の可否,投射物是否能破壞方塊,zh-TW
+飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+默认：%s,預設值：%s,zh-TW
+개체 장비 떨굼,掉落實體裝備,zh-TW
+개체 중첩 한계,實體擠壓上限,zh-TW
+겉날개 움직임 확인 끄기,停用鞘翅移動檢測,zh-TW
+겉날개 움직임 확인하기,啟用鞘翅移動檢測,zh-TW
+게임 규칙 받아오는 중...,正在擷取遊戲規則...,zh-TW
+게임 규칙 변경 사항,遊戲規則變更,zh-TW
+게임 규칙 수정,編輯遊戲規則,zh-TW
+게임 규칙 수정...,編輯遊戲規則...,zh-TW
+게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,更新遊戲規則需要管理員權限。,zh-TW
+경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,控制生物資源掉落，包含經驗球。,zh-TW
+경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,控制方塊資源掉落，包含經驗球。,zh-TW
+관리자 명령 알림,記錄管理員指令,zh-TW
+관전자의 지형 생성 허용,允許旁觀者生成地形,zh-TW
+"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",控制礦車（包括內容物）、物品展示框、船等的掉落物。,zh-TW
+광산 수레 최고 속도,礦車最大速度,zh-TW
+기본값: %s,預設值：%s,zh-TW
+기타,雜項,zh-TW
+낙하 피해,造成摔落傷害,zh-TW
+날씨 갱신,更新天氣,zh-TW
+네더 허용,允許進入地獄,zh-TW
+"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",降雪時，地面上的積雪最多累積至此處指定的層數。,zh-TW
+대화,聊天欄,zh-TW
+덩굴 퍼짐,藤蔓蔓延,zh-TW
+덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,zh-TW
+동상 피해,造成冰凍傷害,zh-TW
+디버그 정보 축소,簡化除錯資訊,zh-TW
+디버그 화면의 내용을 제한합니다.,限制除錯畫面的內容。,zh-TW
+땅에서 광산 수레가 움직일 때 최고 기본 속도,礦車在地面上移動的預設速度上限。,zh-TW
+떠돌이 상인 생성,生成流浪商人,zh-TW
+떨굼 설정,掉落,zh-TW
+랜덤 틱 속도 비율,隨機刻速率,zh-TW
+리스폰 위치 반지름,重生點半徑,zh-TW
+명령 블록 연쇄와 함수에 해당.,套用於連鎖型指令方塊及函數。,zh-TW
+명령 블록 출력 알림,記錄指令方塊輸出,zh-TW
+명령 블록 켜기,啟用指令方塊,zh-TW
+명령 연쇄 크기 제한,指令連鎖大小限制,zh-TW
+명령 피드백 전송,回傳指令回饋,zh-TW
+명령어 맥락 제한,指令的上下文上限,zh-TW
+명령어의 블록 변경량 제한,指令修改方塊數量限制,zh-TW
+몬스터 생성,生成怪物,zh-TW
+몬스터의 자연적 생성 여부를 제어합니다.,控制怪物是否能自然生成。,zh-TW
+몹,生物,zh-TW
+몹 노획물 떨굼,掉落生物戰利品,zh-TW
+몹 생성,生成生物,zh-TW
+"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",在生物的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+무차별적 분노,無差別憤怒,zh-TW
+물이 원천으로 바뀜,流動水轉化成水源,zh-TW
+발전 과제 알림,進度通知,zh-TW
+밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,跳過夜晚所需的入睡玩家比例。,zh-TW
+"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,zh-TW
+분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,zh-TW
+불 갱신,更新火焰,zh-TW
+불 피해,造成火焰傷害,zh-TW
+불 확산 반지름,火焰蔓延半徑,zh-TW
+블록 떨굼,掉落方塊,zh-TW
+"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,zh-TW
+"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,zh-TW
+생명력 재생,自然回血,zh-TW
+생성,生成,zh-TW
+생성기 블록 켜기,啟用生怪磚,zh-TW
+세계 갱신,世界更新,zh-TW
+"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",控制玩家能夠生成的重生點範圍區域大小。,zh-TW
+스폰 청크 반지름,重生區塊半徑,zh-TW
+습격 끄기,停用突襲,zh-TW
+습격 켜기,啟用突襲,zh-TW
+시간 흐름,日夜交替,zh-TW
+약탈자 정찰대 생성,生成掠奪者巡邏隊,zh-TW
+오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,主世界重生點周圍維持載入的區塊數量。,zh-TW
+용암이 원천으로 바뀜,流動熔岩轉化成熔岩源,zh-TW
+워든 생성,生成伏守者,zh-TW
+이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,若啟用，玩家將只能合成已解鎖的配方。,zh-TW
+익사 피해,造成溺水傷害,zh-TW
+일부 개체는 별도의 규칙이 있을 수 있습니다.,部分實體可能採用不同的規則。,zh-TW
+저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,你確定要捨棄尚未儲存的遊戲規則變更嗎？,zh-TW
+적설 높이,積雪厚度,zh-TW
+전역 소리 이벤트,全域聲音事件,zh-TW
+제작에 제작법 필요,需要配方才能合成,zh-TW
+죽은 플레이어 용서,原諒死者,zh-TW
+죽을 때 던져져 있는 엔더 진주 소멸,拋出的終界珍珠在死亡時消失,zh-TW
+죽음 문구 표시,顯示死亡訊息,zh-TW
+죽음 후 보관함 보존,死亡後保留物品欄,zh-TW
+중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,zh-TW
+중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,zh-TW
+즉시 리스폰,立即重生,zh-TW
+취침 비율,睡眠比例,zh-TW
+켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,啟用後，畫面上會顯示指示玩家方位的定位條。,zh-TW
+크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,非創造模式玩家使用地獄傳送門的等待時間,zh-TW
+크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,zh-TW
+크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,創造模式玩家使用地獄傳送門的等待時間,zh-TW
+"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,zh-TW
+탑승자가 있는 개체의 차원문 사용 허용,被騎乘的實體是否能使用傳送門,zh-TW
+투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,控制投射物是否能破壞可被其破壞的方塊。,zh-TW
+투사체가 블록 파괴 가능,投射物是否能破壞方塊,zh-TW
+파괴적 몹 행위 허용,允許生物的破壞行為,zh-TW
+팬텀 생성,生成夜魅,zh-TW
+플레이어,玩家,zh-TW
+플레이어 움직임 확인 끄기,停用玩家移動檢測,zh-TW
+플레이어 움직임 확인하기,啟用玩家移動檢測,zh-TW
+플레이어 위치 표시 바 켜기,啟用玩家定位條,zh-TW
+플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,控制玩家是否能互相傷害。,zh-TW
+"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",玩家拋出的終界珍珠是否在玩家死亡時消失。,zh-TW
+플레이어로부터 떨어진 불 틱,允許火在遠離玩家處蔓延,zh-TW
+플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,zh-TW
+플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,玩家周圍火焰可蔓延的半徑格數。,zh-TW
+플레이어의 네더 진입 가능 여부를 제어합니다.,控制玩家是否能進入地獄。,zh-TW
+하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,無法在極限模式世界中變更遊戲規則。,zh-TW
+"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",流動水在被兩個水源包圍時，會轉化成水源。,zh-TW
+"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,zh-TW

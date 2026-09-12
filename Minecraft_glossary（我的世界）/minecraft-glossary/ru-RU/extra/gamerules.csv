@@ -1,0 +1,1505 @@
+﻿source,target,tgt_lng
+'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+A porcentagem de jogadores que devem dormir para passar a noite.,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+Accesso al Nether,Доступ в Незер,ru-RU
+Accès au Nether,Доступ в Незер,ru-RU
+Actions destructives des créatures,Разрушительные действия мобов,ru-RU
+Activar la barra localizadora de jugadores,Локатор игроков,ru-RU
+Actualisation du feu loin des joueurs,Обновление огня вдали от игроков,ru-RU
+Actualisations du monde,Обновления мира,ru-RU
+Actualizaciones del mundo,Обновления мира,ru-RU
+Administratorbefehle protokollieren,Запись команд администраторов,ru-RU
+Advance time of day,Смена дня и ночи,ru-RU
+"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",Окружённая двумя источниками текущая лава образует третий.,ru-RU
+"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",Окружённая двумя источниками текущая вода образует третий.,ru-RU
+"Al explotar (criaturas), algunos bloques no soltarán objetos",Потеря части добычи при взрыве моба,ru-RU
+"Al explotar (por bloques), algunos bloques no soltarán objetos",Потеря части добычи от взрыва при использовании блока,ru-RU
+"Al verificarsi di determinati eventi, come la generazione di un boss, il suono verrà udito globalmente.","Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+Alcune entità potrebbero avere regole separate.,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+Algumas entidades podem ter regras separadas.,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+Algunas entidades pueden tener sus propias reglas.,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de criaturas desaparecen con la explosión.,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de interacciones con bloques desaparecen con la explosión.,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de la dinamita desaparecen con la explosión.,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+Allgemeine Verärgerung,Слепая ярость,ru-RU
+Allow destructive mob actions,Разрушительные действия мобов,ru-RU
+"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.","Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+Allow Nether,Доступ в Незер,ru-RU
+Allow spectators to generate terrain,Генерация мира наблюдателями,ru-RU
+Allow TNT to be activated and to explode,Активация и взрыв динамита,ru-RU
+Altezza di accumulo della neve,Высота снежного покрова,ru-RU
+Altura de acumulación de nieve,Высота снежного покрова,ru-RU
+Altura de acumulação de neve,Высота снежного покрова,ru-RU
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+Angered neutral mobs stop being angry when the targeted player dies nearby.,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+Announce advancements,Оповещения о достижениях,ru-RU
+Anunciar comandos de administrador,Запись команд администраторов,ru-RU
+Anunciar progresos,Оповещения о достижениях,ru-RU
+Anunciar progressos,Оповещения о достижениях,ru-RU
+Anunciar saída dos Blocos de Comando,Сообщения командных блоков,ru-RU
+Anında yeniden canlanma,Мгновенное возрождение,ru-RU
+"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.","Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+"Ao ativar, uma barra na tela indica a direção dos jogadores.","Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.","Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+Aplicável às cadeias de blocos de comando e funções.,Затрагивает цепочки командных блоков и функции.,ru-RU
+Apparition,Появление,ru-RU
+Apparition des créatures,Появление мобов,ru-RU
+Apparition des marchands ambulants,Странствующие торговцы,ru-RU
+Apparition des monstres,Появление монстров,ru-RU
+Apparition des patrouilles de pillards,Патрули разбойников,ru-RU
+Apparition des Phantoms,Появление фантомов,ru-RU
+Apparition des Wardens,Появление хранителей,ru-RU
+Applies to command block chains and functions.,Затрагивает цепочки командных блоков и функции.,ru-RU
+Are you sure you want to discard your pending game rule changes?,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+As entidades com passageiros podem atravessar portais,Использование порталов сущностями с пассажирами,ru-RU
+Ateş hasarı alma,Урон от огня,ru-RU
+Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+Ateş yayılabilsin,Распространение огня,ru-RU
+Ateş yayılma yarıçapı,Радиус распространения огня,ru-RU
+Ativar Barra Localizadora de jogadores,Локатор игроков,ru-RU
+Ativar Blocos de Comando,Использование командных блоков,ru-RU
+Ativar Blocos de Comando,Командные блоки,ru-RU
+Ativar Blocos Geradores,Рассадники,ru-RU
+Ativar invasões,Рейды,ru-RU
+Ativar PvP,PvP,ru-RU
+Atraso do Portal do Nether em modo não Criativo,Время прохождения портала Незера вне творческого режима,ru-RU
+Atraso do Portal do Nether no Modo Criativo,Время прохождения портала Незера в творческом режиме,ru-RU
+Atualizar as regras do jogo requer permissões de operador.,Изменение игровых правил требует прав оператора.,ru-RU
+Atılabilirler blokları kırabilir,Снаряды могут разрушать блоки,ru-RU
+Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+Atılan Ender İncileri ölünce yok olurlar,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+Ausbeute,Выпадение ресурсов,ru-RU
+Avanzar ciclo de día y noche,Смена дня и ночи,ru-RU
+Azioni distruttive delle creature,Разрушительные действия мобов,ru-RU
+Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+Baixando regras do jogo...,Загрузка игровых правил...,ru-RU
+Barra localizzatrice,Локатор игроков,ru-RU
+Barre de localisation,Локатор игроков,ru-RU
+Baskınlar olsun,Рейды,ru-RU
+Baskınları kapat,Отключение рейдов,ru-RU
+Bazı varlıkların ayrı kuralları olabilir.,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+Başlangıç yığınları yarıçapı,Радиус чанков возрождения мира,ru-RU
+Befehlsausgabe anzeigen,Отображение сообщений команд,ru-RU
+Befehlsblockausgabe anzeigen,Сообщения командных блоков,ru-RU
+Befehlsblöcke,Использование командных блоков,ru-RU
+Befehlsblöcke,Командные блоки,ru-RU
+Begrenzt die Inhalte der Debug‐Anzeige.,Ограничение содержания экрана отладки.,ru-RU
+Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.","Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+"Bist du sicher, dass du die ausstehenden Änderungen der Spielregeln verwerfen möchtest?",Вы действительно хотите отменить изменения игровых правил?,ru-RU
+Blocchi comandi funzionanti,Использование командных блоков,ru-RU
+Blocchi comandi funzionanti,Командные блоки,ru-RU
+Blockausbeute fallen lassen,Выпадение блоков,ru-RU
+Blockgrenze für Befehlsänderungen,Ограничение изменения блоков командой,ru-RU
+Blockzerstörung durch Geschosse,Снаряды могут разрушать блоки,ru-RU
+Block‐Explosionsausbeute verschwindet,Потеря части добычи от взрыва при использовании блока,ru-RU
+Blocs de commande activés,Использование командных блоков,ru-RU
+Blocs de commande activés,Командные блоки,ru-RU
+"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",Потеря части добычи от взрыва при использовании блока,ru-RU
+Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+Bloklar düşsün,Выпадение блоков,ru-RU
+Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+Boğulma hasarı alma,Урон от утопления,ru-RU
+Broadcast admin commands,Запись команд администраторов,ru-RU
+Broadcast command block output,Сообщения командных блоков,ru-RU
+Butin des blocs,Выпадение блоков,ru-RU
+Butin des créatures,Выпадение добычи из мобов,ru-RU
+Butin des entités,Выпадение экипировки сущностей,ru-RU
+Butins,Выпадение ресурсов,ru-RU
+Bán kính lan lửa,Радиус распространения огня,ru-RU
+Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+Bán kính vị trí hồi sinh,Радиус области возрождения,ru-RU
+Bán kính đoạn khúc hồi sinh,Радиус чанков возрождения мира,ru-RU
+Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+Bật các cuộc xâm lược,Рейды,ru-RU
+Bật khối lệnh,Использование командных блоков,ru-RU
+Bật khối lệnh,Командные блоки,ru-RU
+Bật khối triệu hồi,Рассадники,ru-RU
+Bật PVP,PvP,ru-RU
+Bật thanh định vị người chơi,Локатор игроков,ru-RU
+Cambiar las reglas del juego requiere permisos de administrador.,Изменение игровых правил требует прав оператора.,ru-RU
+Cambios en las reglas del juego,Изменения игровых правил,ru-RU
+Canavarlar Oluşsun,Появление монстров,ru-RU
+Canavarların doğal olarak oluşabilmesini kontrol eder.,"Определяет, появляются ли монстры сами по себе.",ru-RU
+Canlı ganimeti düşsün,Выпадение добычи из мобов,ru-RU
+"Canlı patlamalarında, bazı bloklar düşmesin",Потеря части добычи при взрыве моба,ru-RU
+Canlılar,Мобы,ru-RU
+Canlılar oluşsun,Появление мобов,ru-RU
+Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+Canlıların yıkıcı etkilerine izin verilsin,Разрушительные действия мобов,ru-RU
+Cannot change game rules in a hardcore world.,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+"Cantidad de bloques que se pueden cambiar a la vez con un solo comando, como «/fill» o «/clone».","Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+Cantidad de chunks que se mantienen cargados alrededor del punto de aparición.,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+Cargar fuego lejos de los jugadores,Обновление огня вдали от игроков,ru-RU
+Causar dano por afogamento,Урон от утопления,ru-RU
+Causar dano por congelamento,Урон от замерзания,ru-RU
+Causar dano por fogo,Урон от огня,ru-RU
+Causar dano por queda,Урон от падения,ru-RU
+Certaines entités peuvent avoir des règles distinctes.,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+Certains butins des blocs détruits par des explosions de créatures sont perdus dans l'explosion.,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+Certains butins des blocs détruits par des explosions de TNT sont perdus dans l'explosion.,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+Certains butins des blocs détruits par des explosions dues à des interactions de blocs sont perdus dans l'explosion.,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+Chat,Чат,ru-RU
+Chiều cao tích tụ tuyết,Высота снежного покрова,ru-RU
+Cho phép hành động sinh vật phá hoại,Разрушительные действия мобов,ru-RU
+Cho phép khán giả tạo địa hình,Генерация мира наблюдателями,ru-RU
+Cho phép Nether,Доступ в Незер,ru-RU
+"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.","Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+Cho phép TNT được kích hoạt và phát nổ,Активация и взрыв динамита,ru-RU
+Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+Chỉnh sửa luật chơi,Настройка игровых правил,ru-RU
+Chỉnh sửa luật chơi...,Игровые правила...,ru-RU
+Ciclo circadiano,Смена дня и ночи,ru-RU
+Ciclo meteorológico,Изменения погоды,ru-RU
+Ciclos do mundo,Обновления мира,ru-RU
+Colère universelle,Слепая ярость,ru-RU
+Combattimento tra giocatori,PvP,ru-RU
+Command chain size limit,Ограничение длины цепи команд,ru-RU
+Command context limit,Ограничение контекста команд,ru-RU
+Command modification block limit,Ограничение изменения блоков командой,ru-RU
+Commandes d'administrateur affichées,Запись команд администраторов,ru-RU
+Comprobar movimiento con élitros,Проверка движения на элитрах,ru-RU
+Comprobar movimiento del jugador,Проверка движения игрока,ru-RU
+"Consenti alle entità con passeggeri di teletrasportarsi attraverso i portali del Nether, i portali dell'End e i varchi dell'End.","Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+Conservation de l'inventaire après la mort,Сохранение инвентаря при смерти,ru-RU
+Conservazione dell'inventario dopo la morte,Сохранение инвентаря при смерти,ru-RU
+Controla el tamaño de la zona alrededor del punto de reaparición donde pueden aparecer los jugadores.,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+"Controla que las criaturas puedan soltar recursos, incluyendo orbes de experiencia.",Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+"Controla que los bloques puedan soltar recursos, incluyendo orbes de experiencia.",Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+Controla si el fuego o la lava deberían estar cargados al estar a más de 8 chunks de distancia de cualquier jugador.,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+Controla si el impacto de proyectiles destruirá bloques a los que normalmente puede destruir.,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+"Controla si las enredaderas se propagan a bloques adyacentes. No afecta otros tipos de enredaderas como enredaderas lacrimosas o enredaderas retorcidas, entre otras.","Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+Controla si los jugadores pueden dañar a otros jugadores o no.,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+Controla si los jugadores pueden entrar en el Nether.,"Определяет, могут ли игроки входить в Незер.",ru-RU
+Controla si los monstruos aparecen naturalmente o no.,"Определяет, появляются ли монстры сами по себе.",ru-RU
+"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.","Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+"Controls resource drops from blocks, including experience orbs.",Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+"Controls resource drops from mobs, including experience orbs.",Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+Controls the size of the area around the spawn point that players can spawn in.,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+Controls whether impact projectiles will destroy blocks that are destructible by them.,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+Controls whether monsters naturally spawn.,"Определяет, появляются ли монстры сами по себе.",ru-RU
+Controls whether players are allowed to damage other players.,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+Controls whether players are allowed to enter the Nether.,"Определяет, могут ли игроки входить в Незер.",ru-RU
+"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.","Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+"Contrôle la propagation aléatoire des lianes sur les blocs adjacents. Cela n'affecte pas les autres types de lianes tels que les lianes pleureuses, les lianes tortueuses, etc.","Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+Contrôle la taille de la zone autour du point d'apparition dans laquelle les joueurs peuvent apparaître.,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+"Contrôle les butins des blocs, y compris les orbes d'expérience.",Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+"Contrôle les butins des créatures, y compris les orbes d'expérience.",Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+"Contrôle les butins des wagonnets (y compris leur inventaire), des cadres, des bateaux, etc.","Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+Contrôle si le feu et la lave peuvent s'actualiser à plus de 8 chunks de n'importe quel joueur.,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+Contrôle si les joueurs peuvent entrer dans le Nether.,"Определяет, могут ли игроки входить в Незер.",ru-RU
+Contrôle si les joueurs peuvent infliger des dégâts aux autres joueurs.,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+Contrôle si les monstres apparaissent naturellement.,"Определяет, появляются ли монстры сами по себе.",ru-RU
+Contrôle si les perles de l'Ender lancées par un joueur disparaissent lorsque celui-ci meurt.,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+Contrôle si les projectiles détruisent les blocs destructibles par ceux-ci à l'impact.,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+Conversione d'acqua in sorgente,Возобновление источников воды,ru-RU
+Conversione di lava in sorgente,Возобновление источников лавы,ru-RU
+Creature,Мобы,ru-RU
+Creature,Появление мобов,ru-RU
+Criaturas,Мобы,ru-RU
+Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+Créatures,Мобы,ru-RU
+"Cuando está activada, se muestra una barra en la pantalla que indica la dirección de otros jugadores.","Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+"Cuando nieva, se forma este número máximo de capas de nieve en el suelo.","Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+"Cuando se producen ciertos eventos durante la partida, como que aparezca un jefe, el sonido se escucha en todas partes.","Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+"Cuando una corriente de agua está rodeada de más agua por dos de sus lados, se convierte en una fuente.",Окружённая двумя источниками текущая вода образует третий.,ru-RU
+"Cuando una corriente de lava está rodeada de más lava por dos de sus lados, se convierte en una fuente.",Окружённая двумя источниками текущая лава образует третий.,ru-RU
+Cycle jour-nuit,Смена дня и ночи,ru-RU
+Cycle météorologique,Изменения погоды,ru-RU
+Cập nhật luật chơi yêu cầu quyền người điều hành.,Изменение игровых правил требует прав оператора.,ru-RU
+Cập nhật lửa,Распространение огня,ru-RU
+Cập nhật thế giới,Обновления мира,ru-RU
+Cập nhật thời tiết,Изменения погоды,ru-RU
+Danno da annegamento,Урон от утопления,ru-RU
+Danno da bruciatura,Урон от огня,ru-RU
+Danno da caduta,Урон от падения,ru-RU
+Danno da congelamento,Урон от замерзания,ru-RU
+Das Ändern der Spielregeln erfordert Operatorrechte.,Изменение игровых правил требует прав оператора.,ru-RU
+Daño por ahogamiento,Урон от утопления,ru-RU
+Daño por caída,Урон от падения,ru-RU
+Daño por congelamiento,Урон от замерзания,ru-RU
+Daño por fuego,Урон от огня,ru-RU
+Deal drowning damage,Урон от утопления,ru-RU
+Deal fall damage,Урон от падения,ru-RU
+Deal fire damage,Урон от огня,ru-RU
+Deal freeze damage,Урон от замерзания,ru-RU
+Debug‐Infos reduzieren,Малый экран отладки,ru-RU
+Default: %s,По умолчанию: %s,ru-RU
+"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.","Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+Define o tamanho do ponto de renascimento dos jogadores.,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+"Define os itens largados pelos blocos, incluindo as esferas de experiência.",Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.","Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+"Define os itens largados por criaturas, incluindo as esferas de experiência.",Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+Define se os jogadores podem atacar outros jogadores.,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+Define se os jogadores podem entrar no Nether.,"Определяет, могут ли игроки входить в Незер.",ru-RU
+Define se os monstros podem ser gerados naturalmente.,"Определяет, появляются ли монстры сами по себе.",ru-RU
+Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+Demora para teletransportarse al Nether en creativo,Время прохождения портала Незера в творческом режиме,ru-RU
+Demora para teletransportarse al Nether por defecto,Время прохождения портала Незера вне творческого режима,ru-RU
+"Der Prozentsatz an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.","Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+"Der Radius in Blöcken um einen Spieler, in dem sich Feuer ausbreiten kann.","Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+Desactivar control de movimiento de los jugadores,Отключение проверки движения игрока,ru-RU
+Desactivar control de movimiento de élitros,Отключение проверки на элитрах,ru-RU
+Desactivar invasiones,Отключение рейдов,ru-RU
+Desativar invasões,Отключение рейдов,ru-RU
+Desativar verificação de movimento do jogador,Отключение проверки движения игрока,ru-RU
+Desativar verificação de movimento dos Élitros,Отключение проверки на элитрах,ru-RU
+Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+Destruction des blocs par des projectiles,Снаряды могут разрушать блоки,ru-RU
+Destruir Pérolas de Ender lançadas ao morrer,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+"Determina i rilasci dei vagonetti (compresi gli inventari), delle cornici, delle barche ecc.","Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+Determina la dimensione dell'area intorno al punto di generazione dei giocatori.,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+Determina la propagazione casuale dei rampicanti verso i blocchi adiacenti. Non ha effetto sugli altri tipi di rampicanti (come i rampicanti piangenti o i rampicanti attorcigliati).,"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+"Determina le risorse che vengono rilasciate dalle creature, comprese le sfere di esperienza.",Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+"Determina le risorse rilasciate dai blocchi, comprese le sfere di esperienza.",Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+Determina se i giocatori possono entrare nel Nether attraverso i portali.,"Определяет, могут ли игроки входить в Незер.",ru-RU
+Determina se i giocatori possono infliggere danno agli altri giocatori.,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+Determina se i mostri si generano naturalmente.,"Определяет, появляются ли монстры сами по себе.",ru-RU
+Determina se i proiettili da impatto possono distruggere i blocchi vulnerabili.,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+Determina se il fuoco e la lava sono attivi anche a una distanza maggiore di 8 chunk da ogni giocatore.,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+"Die Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.","Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+"Die Anzahl der Chunks um den Einstiegspunkt in der Oberwelt, die dauerhaft geladen bleiben.",Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+Die Spielregeln können in einer Hardcore‐Welt nicht angepasst werden.,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+Disable elytra movement check,Отключение проверки на элитрах,ru-RU
+Disable player movement check,Отключение проверки движения игрока,ru-RU
+Disable raids,Отключение рейдов,ru-RU
+Disparition des perles de l'Ender lancées à la mort,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+Distruzione dei blocchi tramite proiettili,Снаряды могут разрушать блоки,ru-RU
+Divers,Разное,ru-RU
+Diversos,Разное,ru-RU
+Do elytra movement check,Проверка движения на элитрах,ru-RU
+Do player movement check,Проверка движения игрока,ru-RU
+Do raids,Рейды,ru-RU
+Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+Donma hasarı alma,Урон от замерзания,ru-RU
+Drop blocks,Выпадение блоков,ru-RU
+Drop entity equipment,Выпадение экипировки сущностей,ru-RU
+Drop mob loot,Выпадение добычи из мобов,ru-RU
+Drops,Выпадение ресурсов,ru-RU
+Dung nham chuyển thành nguồn,Возобновление источников лавы,ru-RU
+Dây leo lan ra,Распространение лианы,ru-RU
+Dégâts de chute,Урон от падения,ru-RU
+Dégâts de feu,Урон от огня,ru-RU
+Dégâts de gel,Урон от замерзания,ru-RU
+Dégâts de noyade,Урон от утопления,ru-RU
+Délai du portail du Nether,Время прохождения портала Незера вне творческого режима,ru-RU
+Délai du portail du Nether en mode Créatif,Время прохождения портала Незера в творческом режиме,ru-RU
+Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+Dünyadaki Hareketler,Обновления мира,ru-RU
+Düşenler,Выпадение ресурсов,ru-RU
+Düşme hasarı alma,Урон от падения,ru-RU
+Edit Game Rules,Настройка игровых правил,ru-RU
+Edit Game Rules...,Игровые правила...,ru-RU
+Editar las reglas del juego,Настройка игровых правил,ru-RU
+Editar las reglas del juego...,Игровые правила...,ru-RU
+Editar regras do jogo,Настройка игровых правил,ru-RU
+Editar regras do jogo...,Игровые правила...,ru-RU
+"Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.","Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+"Einiges von der Ausbeute von Blöcken, die durch TNT‐Explosionen zerstört werden, geht dabei verloren.","Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+"Einiges von der Ausbeute von Blöcken, die durch von Kreaturen verursachte Explosionen zerstört werden, geht dabei verloren.","Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+Einstiegs‐Chunk‐Radius,Радиус чанков возрождения мира,ru-RU
+El agua se convierte en fuente,Возобновление источников воды,ru-RU
+El número máximo de contextos que se pueden utilizar en comandos como «execute as».,"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+El porcentaje necesario de jugadores que deben dormir para pasar la noche.,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+El radio en bloques alrededor de un jugador en el que el fuego puede expandirse,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+Elitra hareket hızı kontrolünü kapat,Отключение проверки на элитрах,ru-RU
+Elitra hareketini denetle,Проверка движения на элитрах,ru-RU
+Elytrenflug nicht überprüfen,Отключение проверки на элитрах,ru-RU
+Elytren‐Bewegungsprüfung,Проверка движения на элитрах,ru-RU
+"En explosiones por dinamita, algunos bloques no soltarán objetos",Потеря части добычи при взрыве динамита,ru-RU
+En yüksek vagon hızı,Максимальная скорость вагонетки,ru-RU
+Enable Command Blocks,Использование командных блоков,ru-RU
+Enable Command Blocks,Командные блоки,ru-RU
+Enable player Locator Bar,Локатор игроков,ru-RU
+Enable pvp,PvP,ru-RU
+Enable Spawner Blocks,Рассадники,ru-RU
+Enderperlen‐Mitleidenschaft,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+Entities with passengers can use portals,Использование порталов сущностями с пассажирами,ru-RU
+Entity cramming threshold,Предел сущностей в одном блоке,ru-RU
+Entzünden und Explodieren von TNT,Активация и взрыв динамита,ru-RU
+Enviar respuestas de comandos,Отображение сообщений команд,ru-RU
+Erfrierungsschaden,Урон от замерзания,ru-RU
+"Ermöglicht es Objekten mit Passagieren, sich durch Nether‐, End‐ und Endtransitportale zu teleportieren.","Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+Erzeugung,Появление,ru-RU
+Esito dei blocchi comandi,Сообщения командных блоков,ru-RU
+Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+Eventi sonori globali,Глобальные звуковые события,ru-RU
+Eventos de sonido globales,Глобальные звуковые события,ru-RU
+Eventos sonoros globais,Глобальные звуковые события,ru-RU
+Evrensel öfke,Слепая ярость,ru-RU
+Exigir receitas para fabricação,Создание только по рецепту,ru-RU
+Exigir recetas para poder fabricar,Создание только по рецепту,ru-RU
+Explosion de TNT,Активация и взрыв динамита,ru-RU
+Fabbricazione limitata,Создание только по рецепту,ru-RU
+Fahrende Händler erzeugen,Странствующие торговцы,ru-RU
+Fallschaden,Урон от падения,ru-RU
+Fantasmi,Появление фантомов,ru-RU
+Feuerausbreitung,Распространение огня,ru-RU
+Feuerausbreitungs‐Radius,Радиус распространения огня,ru-RU
+Feuerschaden,Урон от огня,ru-RU
+fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+Fire spread radius,Радиус распространения огня,ru-RU
+Forgive dead players,Прощение умерших игроков,ru-RU
+Fortschritte bekannt geben,Оповещения о достижениях,ru-RU
+Frequenza dei tick casuali,Частота случайных тактов,ru-RU
+Fúria universal,Слепая ярость,ru-RU
+Für einige Objekte können eigene Regeln gelten.,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+Game Rule Changes,Изменения игровых правил,ru-RU
+Gece-gündüz döngüsü olsun,Смена дня и ночи,ru-RU
+Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+Gelişimler gösterilsin,Оповещения о достижениях,ru-RU
+Generación de criaturas,Появление,ru-RU
+Generar bandas de saqueadores,Патрули разбойников,ru-RU
+Generar criaturas,Появление мобов,ru-RU
+Generar fantasmas,Появление фантомов,ru-RU
+Generar monstruos,Появление монстров,ru-RU
+Generar terreno en modo espectador,Генерация мира наблюдателями,ru-RU
+Generar vendedores ambulantes,Странствующие торговцы,ru-RU
+Generar wardens,Появление хранителей,ru-RU
+Generatori funzionanti,Рассадники,ru-RU
+Generazione,Появление,ru-RU
+Generazione di terreno da parte degli spettatori,Генерация мира наблюдателями,ru-RU
+Gerar criaturas,Появление мобов,ru-RU
+Gerar Defensores,Появление хранителей,ru-RU
+Gerar Espectros,Появление фантомов,ru-RU
+Gerar Mercadores Ambulantes,Странствующие торговцы,ru-RU
+Gerar monstros,Появление монстров,ru-RU
+Gerar patrulhas de Saqueadores,Патрули разбойников,ru-RU
+Gerar terreno para os espectadores,Генерация мира наблюдателями,ru-RU
+Geração,Появление,ru-RU
+Gestorbenen Spielern vergeben,Прощение умерших игроков,ru-RU
+Gesundheit regenerieren,Регенерация здоровья,ru-RU
+Giocatore,Игрок,ru-RU
+Giảm thông tin gỡ lỗi,Малый экран отладки,ru-RU
+Giận dữ toàn diện,Слепая ярость,ru-RU
+Giới hạn kích cỡ chuỗi lệnh,Ограничение длины цепи команд,ru-RU
+Giới hạn ngữ cảnh lệnh,Ограничение контекста команд,ru-RU
+Giới hạn nội dung của màn hình gỡ lỗi.,Ограничение содержания экрана отладки.,ru-RU
+Giới hạn số khối sửa đổi bởi lệnh,Ограничение изменения блоков командой,ru-RU
+Giữ túi đồ sau khi chết,Сохранение инвентаря при смерти,ru-RU
+Global sound events,Глобальные звуковые события,ru-RU
+Gây sát thương lửa,Урон от огня,ru-RU
+Gây sát thương rơi,Урон от падения,ru-RU
+Gây sát thương đuối nước,Урон от утопления,ru-RU
+Gây sát thương đóng băng,Урон от замерзания,ru-RU
+Générateurs activés,Рассадники,ru-RU
+Génération du terrain par les spectateurs,Генерация мира наблюдателями,ru-RU
+Gửi phản hồi về lệnh,Отображение сообщений команд,ru-RU
+Hata ayıklama bilgisini azalt,Малый экран отладки,ru-RU
+Hata ayıklama ekranı içeriğini kısıtlar.,Ограничение содержания экрана отладки.,ru-RU
+Hauteur d'accumulation de la neige,Высота снежного покрова,ru-RU
+Hava durumu döngüsü olsun,Изменения погоды,ru-RU
+Hiển thị thông báo chết,Сообщения о смерти,ru-RU
+Häufigkeit von Zufallsereignissen,Частота случайных тактов,ru-RU
+"Höchstgeschwindigkeit, die eine Lore an Land standardmäßig erreichen kann.",Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+Hồi phục sinh lực,Регенерация здоровья,ru-RU
+"If enabled, players will be able to craft only unlocked recipes.","Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+Il raggio in blocchi intorno a un giocatore entro cui il fuoco può propagarsi,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+Impossible de modifier les règles de jeu dans un monde Hardcore.,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+"In block interaction explosions, some blocks won't drop their loot",Потеря части добычи от взрыва при использовании блока,ru-RU
+"In mob explosions, some blocks won't drop their loot",Потеря части добычи при взрыве моба,ru-RU
+"In TNT explosions, some blocks won't drop their loot",Потеря части добычи при взрыве динамита,ru-RU
+Incursioni,Рейды,ru-RU
+Incursioni disattivate,Отключение рейдов,ru-RU
+Informazioni diagnostiche ridotte,Малый экран отладки,ru-RU
+Infos de débogage réduites,Малый экран отладки,ru-RU
+Innesco ed esplosione di TNT,Активация и взрыв динамита,ru-RU
+Invasiones,Рейды,ru-RU
+Invasions,Рейды,ru-RU
+Invasions désactivées,Отключение рейдов,ru-RU
+Inventar nach dem Tod behalten,Сохранение инвентаря при смерти,ru-RU
+Ira universal,Слепая ярость,ru-RU
+Itens largados,Выпадение ресурсов,ru-RU
+Jogador,Игрок,ru-RU
+Joueur,Игрок,ru-RU
+Joueurs morts pardonnés,Прощение умерших игроков,ru-RU
+Jugador,Игрок,ru-RU
+Kar birikme yüksekliği,Высота снежного покрова,ru-RU
+"Kar yağdığında, zeminde birikecek kar katmanı sayısı.","Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+Keep inventory after death,Сохранение инвентаря при смерти,ru-RU
+"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.","Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",Окружённая двумя источниками текущая лава образует третий.,ru-RU
+"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.","Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",Окружённая двумя источниками текущая вода образует третий.,ru-RU
+"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.","Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.","Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+Khác,Разное,ru-RU
+Không thể thay đổi luật chơi trong thế giới siêu khó.,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.","Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+Kiểm soát người chơi được phép vào Nether hay không.,"Определяет, могут ли игроки входить в Незер.",ru-RU
+Kiểm soát quái vật sinh ra tự nhiên hay không.,"Определяет, появляются ли монстры сами по себе.",ru-RU
+"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.","Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+Kiểm tra chuyển động của cánh cứng,Проверка движения на элитрах,ru-RU
+Kiểm tra chuyển động của người chơi,Проверка движения игрока,ru-RU
+Komut bağlam limiti,Ограничение контекста команд,ru-RU
+Komut Bloklarını Etkinleştir,Использование командных блоков,ru-RU
+Komut Bloklarını Etkinleştir,Командные блоки,ru-RU
+Komut bloğu zincirleri ve fonksiyonlar için geçerli.,Затрагивает цепочки командных блоков и функции.,ru-RU
+Komut bloğu çıktıları gösterilsin,Сообщения командных блоков,ru-RU
+Komut değişikliği blok sınırı,Ограничение изменения блоков командой,ru-RU
+Komut geri bildirimi gösterilsin,Отображение сообщений команд,ru-RU
+Komut zinciri uzunluk sınırı,Ограничение длины цепи команд,ru-RU
+Kreaturen,Мобы,ru-RU
+Kreaturen erzeugen,Появление мобов,ru-RU
+Kreaturenausbeute fallen lassen,Выпадение добычи из мобов,ru-RU
+Kreatur‐Explosionsausbeute verschwindet,Потеря части добычи при взрыве моба,ru-RU
+Kâbuslar oluşsun,Появление фантомов,ru-RU
+Küresel ses olayları,Глобальные звуковые события,ru-RU
+La lava se convierte en fuente,Возобновление источников лавы,ru-RU
+La mise à jour des règles de jeu nécessite des permissions d'opérateur.,Изменение игровых правил требует прав оператора.,ru-RU
+La percentuale di giocatori che devono dormire per saltare la notte.,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+La vitesse maximale par défaut des wagonnets en mouvement sur le sol.,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+Largar blocos,Выпадение блоков,ru-RU
+Largar itens de criaturas,Выпадение добычи из мобов,ru-RU
+Largar itens de entidades,Выпадение экипировки сущностей,ru-RU
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar.
+Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar. Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+Las criaturas neutrales que estén enfadadas dejarán de estarlo cuando el jugador al que persigan muera cerca.,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+Las entidades con pasajeros pueden utilizar portales,Использование порталов сущностями с пассажирами,ru-RU
+Las perlas de ender lanzadas desaparecen al morir,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+Las perlas de ender lanzadas por un jugador desaparecen cuando este muere.,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+"Lav, kaynağa dönüşsün",Возобновление источников лавы,ru-RU
+Lava converts to source,Возобновление источников лавы,ru-RU
+Lava‐Erneuerbarkeit,Возобновление источников лавы,ru-RU
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgive_dead_players» è disattivata.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgiveDeadPlayers» è disattivata.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+Le creature neutrali che sono state provocate smettono di essere arrabbiate quando il giocatore puntato muore nelle vicinanze.,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+Le entità con passeggeri possono attraversare i portali,Использование порталов сущностями с пассажирами,ru-RU
+"Le nombre de blocs qui peuvent être modifiés à la fois par une commande, telle que /fill ou /clone.","Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+Le nombre de chunks qui restent chargés autour du point d'apparition de la Surface.,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+"Le nombre maximal de contextes qui peuvent être utilisés par des commandes telles que ""execute as"".","Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+Le pourcentage de joueurs qui doivent dormir pour passer la nuit.,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+Le rayon (en blocs) autour d'un joueur dans lequel le feu peut se propager.,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+Le regole di gioco possono essere cambiate solo dagli operatori.,Изменение игровых правил требует прав оператора.,ru-RU
+Le regole di gioco sono bloccate nei mondi in modalità estrema.,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+Le temps (en ticks) pendant lequel un joueur en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+Le temps (en ticks) pendant lequel un joueur qui n'est pas en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgive_dead_players"" est désactivée.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgiveDeadPlayers"" est désactivée.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+Les créatures neutres en colère redeviennent calmes lorsque le joueur ciblé meurt à proximité.,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+Limita el contenido de la pantalla de desarrollo al pulsar F3.,Ограничение содержания экрана отладки.,ru-RU
+Limita il contenuto del cruscotto diagnostico.,Ограничение содержания экрана отладки.,ru-RU
+Limite d'ammassamento delle entità,Предел сущностей в одном блоке,ru-RU
+Limite d'entassement des entités,Предел сущностей в одном блоке,ru-RU
+Limite de blocos modificados por comando,Ограничение изменения блоков командой,ru-RU
+Limite de blocs modifiables par commande,Ограничение изменения блоков командой,ru-RU
+Limite de comandos em cadeia,Ограничение длины цепи команд,ru-RU
+Limite de contextes des commandes,Ограничение контекста команд,ru-RU
+Limite de contextos por comando,Ограничение контекста команд,ru-RU
+Limite dei blocchi modificabili per comando,Ограничение изменения блоков командой,ru-RU
+Limite dei contesti dei comandi,Ограничение контекста команд,ru-RU
+Limite delle catene di comandi,Ограничение длины цепи команд,ru-RU
+Limite des chaînes de commandes,Ограничение длины цепи команд,ru-RU
+Limite le contenu de l'écran de débogage.,Ограничение содержания экрана отладки.,ru-RU
+Limits contents of debug screen.,Ограничение содержания экрана отладки.,ru-RU
+Loren‐Höchstgeschwindigkeit,Максимальная скорость вагонетки,ru-RU
+"Lorsqu'il neige, les couches de neige qui se forment sur le sol peuvent atteindre cette hauteur.","Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+"Lorsqu'un écoulement d'eau est entouré de deux sources d'eau, il se transforme en source.",Окружённая двумя источниками текущая вода образует третий.,ru-RU
+"Lorsqu'un écoulement de lave est entouré de deux sources de lave, il se transforme en source.",Окружённая двумя источниками текущая лава образует третий.,ru-RU
+"Lorsque certains événements se produisent dans le jeu, comme l'apparition d'un boss, le son est entendu partout.","Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+Los proyectiles pueden romper bloques,Снаряды могут разрушать блоки,ru-RU
+Límite de bloques modificables por comandos,Ограничение изменения блоков командой,ru-RU
+Límite de comandos encadenados,Ограничение длины цепи команд,ru-RU
+Límite de contextos del comando,Ограничение контекста команд,ru-RU
+Límite de entidades por bloque,Предел сущностей в одном блоке,ru-RU
+Lập tức hồi sinh,Мгновенное возрождение,ru-RU
+Mantener inventario tras morir,Сохранение инвентаря при смерти,ru-RU
+Manter o inventário ao morrer,Сохранение инвентаря при смерти,ru-RU
+"Maximale Anzahl an Befehlsrahmen, die von Befehlen wie „execute as“ benutzt werden können.","Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+Maximum default speed of a moving Minecart on land.,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+Maximum number of contexts that can be used by commands like 'execute as'.,"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+Mercanti ambulanti,Странствующие торговцы,ru-RU
+Messages de mort,Сообщения о смерти,ru-RU
+Messaggi di morte,Сообщения о смерти,ru-RU
+Minecart max speed,Максимальная скорость вагонетки,ru-RU
+Miscellaneous,Разное,ru-RU
+Mob,Мобы,ru-RU
+Mobs,Мобы,ru-RU
+Mobがアイテムや経験値オーブをドロップするかを設定できます。,Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+Mobのアイテムのドロップ,Выпадение добычи из мобов,ru-RU
+Mobのスポーン,Появление мобов,ru-RU
+Mobの破壊行動の許可,Разрушительные действия мобов,ru-RU
+Mob爆発時にブロックがドロップアイテムを落とさない可能性,Потеря части добычи при взрыве моба,ru-RU
+Modifica le regole di gioco,Настройка игровых правил,ru-RU
+Modification des règles de jeu,Настройка игровых правил,ru-RU
+Modifications des règles de jeu,Изменения игровых правил,ru-RU
+Monster erzeugen,Появление монстров,ru-RU
+Mostrar mensagens de morte,Сообщения о смерти,ru-RU
+Mostrar mensajes de muerte,Сообщения о смерти,ru-RU
+Mostrar respostas dos comandos,Отображение сообщений команд,ru-RU
+Mostri,Появление монстров,ru-RU
+Mudanças nas regras do jogo,Изменения игровых правил,ru-RU
+Muhafızlar oluşsun,Появление хранителей,ru-RU
+Mặc định: %s,По умолчанию: %s,ru-RU
+Một vài thực thể có thể sẽ có luật riêng biệt.,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+Natura,Обновления мира,ru-RU
+Nether'a İzin Ver,Доступ в Незер,ru-RU
+Netherportal‐Verzögerung,Время прохождения портала Незера вне творческого режима,ru-RU
+Netherportal‐Verzögerung im Kreativmodus,Время прохождения портала Незера в творческом режиме,ru-RU
+Netherportal‐Zugang,Доступ в Незер,ru-RU
+Người chơi,Игрок,ru-RU
+Ngưỡng nhồi nhét thực thể,Предел сущностей в одном блоке,ru-RU
+Ngọc Ender được ném ra biến mất khi chết,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+No se pueden cambiar las reglas del juego en modo extremo.,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+Notificar uso de bloques de comandos,Сообщения командных блоков,ru-RU
+Notificar uso de comandos de admin.,Запись команд администраторов,ru-RU
+Numero di chunk che rimangono caricati intorno al punto di generazione globale.,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+Numero massimo di blocchi che possono essere cambiati contemporaneamente da un solo comando (come «/fill» o «/clone»).,"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+Numero massimo di contesti che possono essere usati da comandi come «/execute as».,"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+Não largar todos os itens com explosões de blocos,Потеря части добычи от взрыва при использовании блока,ru-RU
+Não largar todos os itens com explosões de criaturas,Потеря части добычи при взрыве моба,ru-RU
+Não largar todos os itens com explosões de TNT,Потеря части добычи при взрыве динамита,ru-RU
+"Número máximo de contextos que podem ser usados por comandos como ""execute as"".","Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+Número máximo de entidades agrupadas,Предел сущностей в одном блоке,ru-RU
+Nước chuyển thành nguồn,Возобновление источников воды,ru-RU
+"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.","Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+Obergrenze für Befehlsketten,Ограничение длины цепи команд,ru-RU
+Obergrenze für Befehlsrahmen,Ограничение контекста команд,ru-RU
+Obergrenze für Objektgedränge,Предел сущностей в одном блоке,ru-RU
+Objektausbeute fallen lassen,Выпадение экипировки сущностей,ru-RU
+Obtención de objetos,Выпадение ресурсов,ru-RU
+Obtener botín de criaturas,Выпадение добычи из мобов,ru-RU
+Obteniendo las reglas del juego...,Загрузка игровых правил...,ru-RU
+Oluşum,Появление,ru-RU
+Oyun kuralları alınıyor,Загрузка игровых правил...,ru-RU
+Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,Изменение игровых правил требует прав оператора.,ru-RU
+Oyun Kurallarını Düzenle,Настройка игровых правил,ru-RU
+Oyun Kurallarını Düzenle...,Игровые правила...,ru-RU
+Oyun Kuralı Değişiklikleri,Изменения игровых правил,ru-RU
+Oyuncu,Игрок,ru-RU
+Oyuncu etrafında ateş yayılabilen blok yarıçapı.,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+Oyuncu hareket denetimini kapat,Отключение проверки движения игрока,ru-RU
+Oyuncu hareketini denetle,Проверка движения игрока,ru-RU
+Oyuncu Konum Çubuğunu aç,Локатор игроков,ru-RU
+Oyunculardan uzakta ateş yayılabilsin,Обновление огня вдали от игроков,ru-RU
+Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+Oyuncuların Nether'a girebilmesini kontrol eder.,"Определяет, могут ли игроки входить в Незер.",ru-RU
+Padrão: %s,По умолчанию: %s,ru-RU
+Par défaut : %s,По умолчанию: %s,ru-RU
+Pattuglie di predoni,Патрули разбойников,ru-RU
+Percentuale di giocatori addormentati,Процент спящих,ru-RU
+Perdita dei rilasci con le esplosioni dei blocchi,Потеря части добычи от взрыва при использовании блока,ru-RU
+Perdita dei rilasci con le esplosioni delle creature,Потеря части добычи при взрыве моба,ru-RU
+Perdita dei rilasci con le esplosioni di TNT,Потеря части добычи при взрыве динамита,ru-RU
+Perdoar jogadores mortos,Прощение умерших игроков,ru-RU
+Perdonar jugadores muertos,Прощение умерших игроков,ru-RU
+Perdono dei giocatori morti,Прощение умерших игроков,ru-RU
+"Permet aux entités avec des passagers de se téléporter au travers des portails du Nether et de l'End, et des passerelles de l'End.","Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+"Permite a las entidades viajar con pasajeros a través de portales del Nether, del End y nexos del End.","Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.","Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+"Permite que se recupere una entidad al romperla. Afecta a vagonetas (incluyendo sus inventarios), marcos, barcas, etc.","Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+Permitir acesso ao Nether,Доступ в Незер,ru-RU
+Permitir ativação e explosão de TNT,Активация и взрыв динамита,ru-RU
+Permitir ações destrutivas de criaturas,Разрушительные действия мобов,ru-RU
+Permitir bloques de comandos,Использование командных блоков,ru-RU
+Permitir bloques de comandos,Командные блоки,ru-RU
+Permitir explosiones de dinamita,Активация и взрыв динамита,ru-RU
+Permitir generadores de criaturas,Рассадники,ru-RU
+Permitir JcJ (PvP),PvP,ru-RU
+Permitir Nether,Доступ в Незер,ru-RU
+Permitir que las criaturas destruyan,Разрушительные действия мобов,ru-RU
+Perte de butin dans les explosions de blocs,Потеря части добычи от взрыва при использовании блока,ru-RU
+Perte de butin dans les explosions de créatures,Потеря части добычи при взрыве моба,ru-RU
+Perte de butin dans les explosions de TNT,Потеря части добычи при взрыве динамита,ru-RU
+Phantome erzeugen,Появление фантомов,ru-RU
+Player,Игрок,ru-RU
+Player's Nether Portal delay in creative mode,Время прохождения портала Незера в творческом режиме,ru-RU
+Player's Nether Portal delay in non-creative mode,Время прохождения портала Незера вне творческого режима,ru-RU
+Plünderer‐Patrouillen erzeugen,Патрули разбойников,ru-RU
+Por defecto: %s,По умолчанию: %s,ru-RU
+Porcentagem de sono,Процент спящих,ru-RU
+Porcentaje de jugadores para dormir,Процент спящих,ru-RU
+Portalnutzung durch Objekte mit Passagieren,Использование порталов сущностями с пассажирами,ru-RU
+Pourcentage de joueurs endormis,Процент спящих,ru-RU
+Predefinito: %s,По умолчанию: %s,ru-RU
+Progressi annunciati,Оповещения о достижениях,ru-RU
+Progrès annoncés,Оповещения о достижениях,ru-RU
+Projectiles can break blocks,Снаряды могут разрушать блоки,ru-RU
+Propagación de enredaderas,Распространение лианы,ru-RU
+Propagación del fuego,Распространение огня,ru-RU
+Propagation des lianes,Распространение лианы,ru-RU
+Propagation du feu,Распространение огня,ru-RU
+Propagazione dei rampicanti,Распространение лианы,ru-RU
+Propagazione del fuoco,Распространение огня,ru-RU
+Propagazione distante del fuoco,Обновление огня вдали от игроков,ru-RU
+Propagação de trepadeiras,Распространение лианы,ru-RU
+Propagação distante de fogo,Обновление огня вдали от игроков,ru-RU
+Propagação do fogo,Распространение огня,ru-RU
+pvp 켜기,PvP,ru-RU
+Pvp'yi etkinleştir,PvP,ru-RU
+PvPの有効化,PvP,ru-RU
+"Quando attiva, viene mostrata una barra sullo schermo per indicare la posizione dei giocatori.","Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.","Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+"Quando il TNT causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.","Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+"Quando l'acqua corrente è circondata da sorgenti d'acqua su due lati, si trasforma in sorgente.",Окружённая двумя источниками текущая вода образует третий.,ru-RU
+"Quando l'interazione con blocchi causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.","Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+"Quando la lava colante è circondata da sorgenti di lava su due lati, si trasforma in sorgente.",Окружённая двумя источниками текущая лава образует третий.,ru-RU
+"Quando le creature causano esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.","Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+"Quando nevica, la neve si accumulerà a terra fino al numero massimo di strati specificato.","Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+Quebrar blocos com projéteis,Снаряды могут разрушать блоки,ru-RU
+Rabbia generale,Слепая ярость,ru-RU
+Radio de propagación del fuego,Радиус распространения огня,ru-RU
+Radio del punto de reaparición,Радиус области возрождения,ru-RU
+Radio del punto de reaparición,Радиус чанков возрождения мира,ru-RU
+Radius des Wiedereinstiegsbereichs,Радиус области возрождения,ru-RU
+Raggio dei chunk di generazione,Радиус чанков возрождения мира,ru-RU
+Raggio del punto di rinascita,Радиус области возрождения,ru-RU
+Raggio di propagazione del fuoco intorno al giocatore,Радиус распространения огня,ru-RU
+Raio de propagação do fogo,Радиус распространения огня,ru-RU
+Raio do ponto de renascimento,Радиус области возрождения,ru-RU
+Raio dos chunks ao renascer,Радиус чанков возрождения мира,ru-RU
+Random tick speed rate,Частота случайных тактов,ru-RU
+Rankenausbreitung,Распространение лианы,ru-RU
+Rastgele zaman birimi ilerleme oranı,Частота случайных тактов,ru-RU
+Rayon de la zone de réapparition,Радиус области возрождения,ru-RU
+Rayon de propagation du feu,Радиус распространения огня,ru-RU
+Rayon des chunks d'apparition,Радиус чанков возрождения мира,ru-RU
+Reaparición instantánea,Мгновенное возрождение,ru-RU
+Recette requise pour fabriquer,Создание только по рецепту,ru-RU
+Recupero delle regole di gioco...,Загрузка игровых правил...,ru-RU
+Reduce debug info,Малый экран отладки,ru-RU
+Reducir datos de F3,Малый экран отладки,ru-RU
+Reduz o conteúdo da tela de depuração.,Ограничение содержания экрана отладки.,ru-RU
+Reduzir informações de depuração,Малый экран отладки,ru-RU
+Regenerar salud,Регенерация здоровья,ru-RU
+Regenerar vida,Регенерация здоровья,ru-RU
+Regenerate health,Регенерация здоровья,ru-RU
+Registrazione dei comandi degli operatori,Запись команд администраторов,ru-RU
+Regole di gioco,Изменения игровых правил,ru-RU
+Regole di gioco...,Игровые правила...,ru-RU
+Renascer imediatamente,Мгновенное возрождение,ru-RU
+Require recipe for crafting,Создание только по рецепту,ru-RU
+Respawn immediately,Мгновенное возрождение,ru-RU
+Respawn location radius,Радиус области возрождения,ru-RU
+Retrieving game rules...,Загрузка игровых правил...,ru-RU
+Rezepte zur Herstellung benötigt,Создание только по рецепту,ru-RU
+Rigenerazione della salute,Регенерация здоровья,ru-RU
+Rilasci,Выпадение ресурсов,ru-RU
+Rilasci dei blocchi,Выпадение блоков,ru-RU
+Rilasci delle creature,Выпадение добычи из мобов,ru-RU
+Rilasci delle entità,Выпадение экипировки сущностей,ru-RU
+Rinascita immediata,Мгновенное возрождение,ru-RU
+Risposte dei comandi,Отображение сообщений команд,ru-RU
+Ritardo dei portali del Nether,Время прохождения портала Незера вне творческого режима,ru-RU
+Ritardo dei portali del Nether in modalità creativa,Время прохождения портала Незера в творческом режиме,ru-RU
+Règles de jeu...,Игровые правила...,ru-RU
+Réapparition immédiate,Мгновенное возрождение,ru-RU
+Récupération des règles de jeu...,Загрузка игровых правил...,ru-RU
+Régénération de la vie,Регенерация здоровья,ru-RU
+Résultat des commandes,Отображение сообщений команд,ru-RU
+Rơi ra,Выпадение ресурсов,ru-RU
+Rơi ra khối,Выпадение блоков,ru-RU
+Rơi ra lợi phẩm của sinh vật,Выпадение добычи из мобов,ru-RU
+Rơi ra trang bị của thực thể,Выпадение экипировки сущностей,ru-RU
+S'applique aux blocs de commande en chaîne et aux fonctions.,Затрагивает цепочки командных блоков и функции.,ru-RU
+"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.","Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+Sarmaşıklar yayılsın,Распространение лианы,ru-RU
+Sağlık yenilensin,Регенерация здоровья,ru-RU
+Schaden durch Ertrinken,Урон от утопления,ru-RU
+Schlafquote,Процент спящих,ru-RU
+Schneedeckenhöhe,Высота снежного покрова,ru-RU
+Scomparsa alla morte delle perle di ender già lanciate,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+Se aplica a las cadenas de bloques de comandos y funciones.,Затрагивает цепочки командных блоков и функции.,ru-RU
+"Se attivata, i giocatori possono fabbricare oggetti solo seguendo le ricette sbloccate.","Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+Send command feedback,Отображение сообщений команд,ru-RU
+Seyircilerin arazi oluşturmasına izin verilsin,Генерация мира наблюдателями,ru-RU
+Seyyar Tüccarlar oluşsun,Странствующие торговцы,ru-RU
+Show death messages,Сообщения о смерти,ru-RU
+"Si activée, les joueurs ne pourront fabriquer qu'à partir des recettes débloquées.","Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+"Si activée, une barre s'affiche à l'écran pour indiquer la position des joueurs.","Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+Si applica a blocchi comandi a catena e funzioni.,Затрагивает цепочки командных блоков и функции.,ru-RU
+"Si se activa, solo se podrán fabricar recetas aprendidas.","Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+Sinh ra,Появление,ru-RU
+Sinh ra kẻ cai ngục,Появление хранителей,ru-RU
+Sinh ra kẻ cướp tuần tra,Патрули разбойников,ru-RU
+Sinh ra phantom,Появление фантомов,ru-RU
+Sinh ra quái vật,Появление монстров,ru-RU
+Sinh ra sinh vật,Появление мобов,ru-RU
+Sinh ra thương nhân lang thang,Странствующие торговцы,ru-RU
+Sinh vật,Мобы,ru-RU
+Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+Sleep percentage,Процент спящих,ru-RU
+Snow accumulation height,Высота снежного покрова,ru-RU
+Sofortiger Wiedereinstieg,Мгновенное возрождение,ru-RU
+Sohbet,Чат,ru-RU
+Soltar objetos al romper bloques,Выпадение блоков,ru-RU
+Soltar objetos al romper entidades,Выпадение экипировки сущностей,ru-RU
+Some entities might have separate rules.,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+Sortie des blocs de commande,Сообщения командных блоков,ru-RU
+Sorveglianti,Появление хранителей,ru-RU
+Spawn chunk radius,Радиус чанков возрождения мира,ru-RU
+Spawn mobs,Появление мобов,ru-RU
+Spawn Monsters,Появление монстров,ru-RU
+Spawn phantoms,Появление фантомов,ru-RU
+Spawn pillager patrols,Патрули разбойников,ru-RU
+Spawn Wandering Traders,Странствующие торговцы,ru-RU
+Spawn Wardens,Появление хранителей,ru-RU
+Spawner,Рассадники,ru-RU
+Spawning,Появление,ru-RU
+Spieler,Игрок,ru-RU
+Spielerbewegung nicht überprüfen,Отключение проверки движения игрока,ru-RU
+Spielerortungsleiste aktivieren,Локатор игроков,ru-RU
+Spieler‐Bewegungsprüfung,Проверка движения игрока,ru-RU
+Spielregeln bearbeiten,Настройка игровых правил,ru-RU
+Spielregeln bearbeiten …,Игровые правила...,ru-RU
+Spielregeln werden abgerufen …,Загрузка игровых правил...,ru-RU
+Stabilisce se le perle di ender lanciate da un giocatore scompaiono alla morte di quest'ultimo.,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+Standard: %s,По умолчанию: %s,ru-RU
+"Steuert die Größe des Bereichs um den Einstiegspunkt, in dem Spieler in die Welt einsteigen können.",Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+"Steuert, ob aufprallende Geschosse Blöcke zerstören, die durch sie zerstörbar wären.","Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+"Steuert, ob Blöcke ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+"Steuert, ob Feuer und Lava in einer Entfernung von mehr als 8 Chunks von einem Spieler aktualisiert werden","Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+"Steuert, ob Kreaturen ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+"Steuert, ob Loren, Rahmen, Boote usw. ihre Ausbeute fallen lassen (einschließlich Inventaren).","Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+"Steuert, ob Monster natürlich erscheinen.","Определяет, появляются ли монстры сами по себе.",ru-RU
+"Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.","Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+"Steuert, ob Spieler anderen Spielern Schaden zufügen können.","Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+"Steuert, ob Spieler den Nether durch Portale betreten können.","Определяет, могут ли игроки входить в Незер.",ru-RU
+"Steuert, ob vom Spieler geworfene Enderperlen verschwinden, wenn dieser stirbt.",Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+"Su, kaynağa dönüşsün",Возобновление источников воды,ru-RU
+Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+Sự kiện âm thanh toàn cầu,Глобальные звуковые события,ru-RU
+Taxa de velocidade de tiques aleatórios,Частота случайных тактов,ru-RU
+Tchat,Чат,ru-RU
+Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+Tempo (in tick) che un giocatore in modalità creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+Tempo (in tick) che un giocatore in modalità diverse dalla creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+Tempo atmosferico,Изменения погоды,ru-RU
+Tha thứ cho người chơi đã chết,Прощение умерших игроков,ru-RU
+Thay đổi luật chơi,Изменения игровых правил,ru-RU
+The amount of chunks that stay loaded around the Overworld spawn position.,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+"The number of blocks that can be changed at once by one command, such as fill or clone.","Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+The percentage of players who must be sleeping to skip the night.,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+The radius in blocks around a player in which fire can spread.,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+Thrown Ender Pearls vanish on death,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+Thông báo tiến trình,Оповещения о достижениях,ru-RU
+Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+Thời gian trong ngày trôi đi,Смена дня и ночи,ru-RU
+Thực thể với hành khách có thể sử dụng cổng,Использование порталов сущностями с пассажирами,ru-RU
+Tick fire away from players,Обновление огня вдали от игроков,ru-RU
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modo creativo para cambiar de dimensión.,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modos que no sean creativo para cambiar de dimensión.,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+"TNT patlamalarında, bazı bloklar düşmesin",Потеря части добычи при взрыве динамита,ru-RU
+"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",Потеря части добычи при взрыве динамита,ru-RU
+TNT‐Explosionsausbeute verschwindet,Потеря части добычи при взрыве динамита,ru-RU
+TNT’nin etkinleştirilmesine ve patlamasına izin ver,Активация и взрыв динамита,ru-RU
+TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+TNTの点火及び爆発の許可,Активация и взрыв динамита,ru-RU
+TNT爆発時にブロックがドロップアイテムを落とさない可能性,Потеря части добычи при взрыве динамита,ru-RU
+"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.","Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+TNT의 점화 및 폭발 허용,Активация и взрыв динамита,ru-RU
+Todesmeldungen anzeigen,Сообщения о смерти,ru-RU
+"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",Окружённая двумя источниками текущая лава образует третий.,ru-RU
+"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",Окружённая двумя источниками текущая вода образует третий.,ru-RU
+Transformar lava em fonte,Возобновление источников лавы,ru-RU
+Transformar água em fonte,Возобновление источников воды,ru-RU
+Transformation de l'eau en source,Возобновление источников воды,ru-RU
+Transformation de la lave en source,Возобновление источников лавы,ru-RU
+"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",Потеря части добычи от взрыва при использовании блока,ru-RU
+"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",Потеря части добычи при взрыве моба,ru-RU
+"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",Потеря части добычи при взрыве динамита,ru-RU
+Truyền đi lệnh quản trị,Запись команд администраторов,ru-RU
+Truyền đi đầu ra của khối lệnh,Сообщения командных блоков,ru-RU
+Trò chuyện,Чат,ru-RU
+Téléportation des entités avec des passagers à travers les portails,Использование порталов сущностями с пассажирами,ru-RU
+Tắt các cuộc xâm lược,Отключение рейдов,ru-RU
+Tắt kiểm tra chuyển động của cánh cứng,Отключение проверки на элитрах,ru-RU
+Tắt kiểm tra chuyển động của người chơi,Отключение проверки движения игрока,ru-RU
+Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+Tỉ lệ phần trăm ngủ,Процент спящих,ru-RU
+Tỉ lệ tốc độ nhịp ngẫu nhiên,Частота случайных тактов,ru-RU
+Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+Tốc độ tối đa của xe mỏ,Максимальная скорость вагонетки,ru-RU
+Universal anger,Слепая ярость,ru-RU
+Update fire,Распространение огня,ru-RU
+Update weather,Изменения погоды,ru-RU
+Updating game rules requires operator permissions.,Изменение игровых правил требует прав оператора.,ru-RU
+Uyuma yüzdesi,Процент спящих,ru-RU
+"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.","Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+Varie,Разное,ru-RU
+Varios,Разное,ru-RU
+Varlık ekipmanı düşsün,Выпадение экипировки сущностей,ru-RU
+Varlık sıkışması alt sınırı,Предел сущностей в одном блоке,ru-RU
+Varsayılan: %s,По умолчанию: %s,ru-RU
+Velocidad de tics al azar,Частота случайных тактов,ru-RU
+Velocidad máxima de las vagonetas,Максимальная скорость вагонетки,ru-RU
+Velocidad máxima por defecto de una vagoneta por tierra.,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+Velocidade máxima do Carrinho de Mina,Максимальная скорость вагонетки,ru-RU
+Velocidade padrão máxima de um Carrinho de Mina no solo.,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+Velocità massima dei vagonetti,Максимальная скорость вагонетки,ru-RU
+Velocità massima predefinita di un vagonetto in movimento.,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+Verifica dei movimenti dei giocatori,Проверка движения игрока,ru-RU
+Verifica dei movimenti dei giocatori disattivata,Отключение проверки движения игрока,ru-RU
+Verifica del volo con le elitre,Проверка движения на элитрах,ru-RU
+Verifica del volo con le elitre disattivata,Отключение проверки на элитрах,ru-RU
+Verificação de movimentos do jogador,Проверка движения игрока,ru-RU
+Verificação de movimentos dos Élitros,Проверка движения на элитрах,ru-RU
+Verschiedenes,Разное,ru-RU
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgive_dead_players deaktiviert ist.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgiveDeadPlayers deaktiviert ist.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+"Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.","Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+Vines spread,Распространение лианы,ru-RU
+Vitesse des ticks aléatoires,Частота случайных тактов,ru-RU
+Vitesse maximale des wagonnets,Максимальная скорость вагонетки,ru-RU
+Você não pode alterar as regras do jogo em mundos no modo Intenso.,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+Von Spielern entferntes Feuer aktualisieren,Обновление огня вдали от игроков,ru-RU
+Voranschreiten der Tageszeit,Смена дня и ночи,ru-RU
+Voulez-vous vraiment abandonner les modifications en cours des règles de jeu ?,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+Vuoi davvero annullare le modifiche in sospeso alle regole di gioco?,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+Vérification des mouvements du joueur,Проверка движения игрока,ru-RU
+Vérification du vol en élytres,Проверка движения на элитрах,ru-RU
+Vérification désactivée des mouvements du joueur,Отключение проверки движения игрока,ru-RU
+Vérification désactivée du vol en élytres,Отключение проверки на элитрах,ru-RU
+Vật bắn ra có thể phá khối,Снаряды могут разрушать блоки,ru-RU
+Wasser‐Erneuerbarkeit,Возобновление источников воды,ru-RU
+Water converts to source,Возобновление источников воды,ru-RU
+Weltaktualisierungen,Обновления мира,ru-RU
+Weltweite Geräuschereignisse,Глобальные звуковые события,ru-RU
+"Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen.","Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+"Wenn aktiviert, zeigt eine Leiste auf dem Bildschirm die Richtung der Mitspieler an.","Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+"Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.","Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+"Wenn es schneit, entsteht auf dem Boden eine Schneedecke, die höchstens diese Anzahl von Schichten erreicht.","Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+"Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, wird sie zu einer Quelle.",Окружённая двумя источниками текущая лава образует третий.,ru-RU
+"Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, wird es zu einer Quelle.",Окружённая двумя источниками текущая вода образует третий.,ru-RU
+Wetterwechsel,Изменения погоды,ru-RU
+"When certain game events happen, like a boss spawning, the sound is heard everywhere.","Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+"When enabled, a bar is shown on the screen to indicate the direction of players.","Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+"When flowing lava is surrounded on two sides by lava sources, it converts into a source.",Окружённая двумя источниками текущая лава образует третий.,ru-RU
+"When flowing water is surrounded on two sides by water sources, it converts into a source.",Окружённая двумя источниками текущая вода образует третий.,ru-RU
+"When it snows, layers of snow form on the ground up to at most this number of layers.","Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+Whether Ender Pearls thrown by a player vanish when that player dies.,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+Wird auf Befehlsblockketten und Funktionen angewandt.,Затрагивает цепочки командных блоков и функции.,ru-RU
+World Updates,Обновления мира,ru-RU
+Wärter erzeugen,Появление хранителей,ru-RU
+Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,Время прохождения портала Незера в творческом режиме,ru-RU
+Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,Время прохождения портала Незера вне творческого режима,ru-RU
+Yağmacı devriyeleri oluşsun,Патрули разбойников,ru-RU
+Yeniden canlanma yeri çevresi,Радиус области возрождения,ru-RU
+"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.","Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+Yolcusu olan varlıklar geçitlerden geçebilir,Использование порталов сущностями с пассажирами,ru-RU
+Yêu cầu công thức chế tạo,Создание только по рецепту,ru-RU
+Yönetici komutları gösterilsin,Запись команд администраторов,ru-RU
+"Zeit (in Ticks), die ein Spieler außerhalb des Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+"Zeit (in Ticks), die ein Spieler im Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+Zerstörung durch Kreaturen,Разрушительные действия мобов,ru-RU
+Zorlayıcı dünyada oyun kuralları değiştirilemez.,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+Zuschauer generieren Landschaft,Генерация мира наблюдателями,ru-RU
+¿Seguro que quieres descartar tus cambios?,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+Áp dụng cho chuỗi khối lệnh và hàm.,Затрагивает цепочки командных блоков и функции.,ru-RU
+Änderungen der Spielregeln,Изменения игровых правил,ru-RU
+Çağırıcı Bloklarını Etkinleştir,Рассадники,ru-RU
+Çeşitli,Разное,ru-RU
+Événements sonores globaux,Глобальные звуковые события,ru-RU
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.","Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+Öldükten sonra envanteri koru,Сохранение инвентаря при смерти,ru-RU
+Ölü oyuncular affedilsin,Прощение умерших игроков,ru-RU
+Ölüm iletileri gösterilsin,Сообщения о смерти,ru-RU
+Überfälle,Рейды,ru-RU
+Überfälle deaktivieren,Отключение рейдов,ru-RU
+Üretim için tarif gereksin,Создание только по рецепту,ru-RU
+Đang truy xuất luật chơi...,Загрузка игровых правил...,ru-RU
+Đếm nhịp lửa cách xa người chơi,Обновление огня вдали от игроков,ru-RU
+Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,Время прохождения портала Незера вне творческого режима,ru-RU
+Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,Время прохождения портала Незера в творческом режиме,ru-RU
+การดรอป,Выпадение ресурсов,ru-RU
+การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,Изменение игровых правил требует прав оператора.,ru-RU
+การอัปเดตของโลก,Обновления мира,ru-RU
+การเกิด,Появление,ru-RU
+การโกรธทุกคน,Слепая ярость,ru-RU
+กำลังดึงข้อมูลกฎเกม...,Загрузка игровых правил...,ru-RU
+ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,"Определяет, могут ли игроки входить в Незер.",ru-RU
+ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,"Определяет, появляются ли монстры сами по себе.",ru-RU
+ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+ความสูงในการสะสมชั้นหิมะ,Высота снежного покрова,ru-RU
+ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+ความเร็วสูงสุดของรถราง,Максимальная скорость вагонетки,ru-RU
+คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+ค่าเริ่มต้น: %s,По умолчанию: %s,ru-RU
+จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,Ограничение длины цепи команд,ru-RU
+จำกัดจำนวนบริบทของคำสั่ง,Ограничение контекста команд,ru-RU
+จำกัดเนื้อหาของหน้าจอดีบั๊ก,Ограничение содержания экрана отладки.,ru-RU
+จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,Предел сущностей в одном блоке,ru-RU
+ดรอปของจากเอนทิตี้,Выпадение экипировки сущностей,ru-RU
+ดรอปลูตของม็อบ,Выпадение добычи из мобов,ru-RU
+ดาเมจจากการจมน้ำ,Урон от утопления,ru-RU
+ดาเมจจากการตกจากที่สูง,Урон от падения,ru-RU
+ดาเมจจากความเย็น,Урон от замерзания,ru-RU
+ดาเมจจากไฟ,Урон от огня,ru-RU
+ดำเนินวัฏจักรกลางวัน-กลางคืน,Смена дня и ночи,ru-RU
+ตรวจสอบการเคลื่อนที่ของผู้เล่น,Проверка движения игрока,ru-RU
+ตรวจสอบความเร็วขณะบินด้วยปีก,Проверка движения на элитрах,ru-RU
+ตายของไม่ตก,Сохранение инвентаря при смерти,ru-RU
+ต้องมีสูตรสำหรับการคราฟต์,Создание только по рецепту,ru-RU
+บล็อกดรอป,Выпадение блоков,ru-RU
+ประกาศความก้าวหน้า,Оповещения о достижениях,ru-RU
+ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,Время прохождения портала Незера вне творческого режима,ru-RU
+ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,Время прохождения портала Незера в творческом режиме,ru-RU
+ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,Отключение проверки движения игрока,ru-RU
+ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,Отключение проверки на элитрах,ru-RU
+ปิดการปล้นสะดม,Отключение рейдов,ru-RU
+ผู้เล่น,Игрок,ru-RU
+ฟื้นฟูเลือดตามธรรมชาติ,Регенерация здоровья,ru-RU
+มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,Затрагивает цепочки командных блоков и функции.,ru-RU
+ม็อบ,Мобы,ru-RU
+ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""","Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+รัศมีการลุกลามของไฟ,Радиус распространения огня,ru-RU
+รัศมีจุดเกิด,Радиус области возрождения,ru-RU
+รัศมีชังก์จุดเกิด,Радиус чанков возрождения мира,ru-RU
+รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+ลดการแสดงข้อมูลดีบั๊ก,Малый экран отладки,ru-RU
+วัตถุพุ่งสามารถทำลายบล็อกได้,Снаряды могут разрушать блоки,ru-RU
+หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,Активация и взрыв динамита,ru-RU
+อนุญาตให้เข้าเนเธอร์,Доступ в Незер,ru-RU
+อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+อภัยผู้เล่นที่ตายแล้ว,Прощение умерших игроков,ru-RU
+อัตราความเร็วติ๊กแบบสุ่ม,Частота случайных тактов,ru-RU
+อัปเดตสภาพอากาศ,Изменения погоды,ru-RU
+อัปเดตไฟ,Распространение огня,ru-RU
+เกิดใหม่ทันที,Мгновенное возрождение,ru-RU
+เบ็ดเตล็ด,Разное,ru-RU
+เปลี่ยนแปลงกฎเกม,Изменения игровых правил,ru-RU
+เปอร์เซ็นต์ของผู้เล่นนอน,Процент спящих,ru-RU
+เปิดการปล้นสะดม,Рейды,ru-RU
+เปิดใช้งาน PvP,PvP,ru-RU
+เปิดใช้งานบล็อกกรงกำเนิด,Рассадники,ru-RU
+เปิดใช้งานบล็อกคำสั่ง,Использование командных блоков,ru-RU
+เปิดใช้งานบล็อกคำสั่ง,Командные блоки,ru-RU
+เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,Локатор игроков,ru-RU
+เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,Окружённая двумя источниками текущая вода образует третий.,ru-RU
+เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,Окружённая двумя источниками текущая лава образует третий.,ru-RU
+เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,"Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+เหตุการณ์เสียงดังไปทั่ว,Глобальные звуковые события,ru-RU
+เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,Использование порталов сущностями с пассажирами,ru-RU
+เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+แก้ไขกฎเกม,Настройка игровых правил,ru-RU
+แก้ไขกฎเกม...,Игровые правила...,ru-RU
+แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,Ограничение изменения блоков командой,ru-RU
+แชต,Чат,ru-RU
+แสดงข้อความการตาย,Сообщения о смерти,ru-RU
+แสดงบันทึกคำสั่งของแอดมิน,Запись команд администраторов,ru-RU
+แสดงผลป้อนกลับคำสั่ง,Отображение сообщений команд,ru-RU
+แสดงเอาต์พุตของบล็อกคำสั่ง,Сообщения командных блоков,ru-RU
+ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,Потеря части добычи от взрыва при использовании блока,ru-RU
+ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,Потеря части добычи при взрыве моба,ru-RU
+ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,Потеря части добычи при взрыве динамита,ru-RU
+ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+ให้กองโจรลาดตระเวนเกิด,Патрули разбойников,ru-RU
+ให้น้ำไหลกลายเป็นแหล่งน้ำได้,Возобновление источников воды,ru-RU
+ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,Генерация мира наблюдателями,ru-RU
+ให้พ่อค้าเร่ร่อนเกิด,Странствующие торговцы,ru-RU
+ให้มอนสเตอร์เกิด,Появление монстров,ru-RU
+ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,Разрушительные действия мобов,ru-RU
+ให้ม็อบเกิด,Появление мобов,ru-RU
+ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,Возобновление источников лавы,ru-RU
+ให้วอร์เดนเกิด,Появление хранителей,ru-RU
+ให้เถาวัลย์แพร่,Распространение лианы,ru-RU
+ให้แฟนท่อมเกิด,Появление фантомов,ru-RU
+ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,Обновление огня вдали от игроков,ru-RU
+ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+“execute as”等命令可以使用的上下文数量最大值。,"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+「execute as」などのコマンドで使用できる実行文脈の最大数,"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+「execute as」等指令使用的上下文最大數量。,"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",ru-RU
+その他,Разное,ru-RU
+どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+ウォーデンのスポーン,Появление хранителей,ru-RU
+エリトラの速度チェック,Проверка движения на элитрах,ru-RU
+エリトラの速度チェックの無効化,Отключение проверки на элитрах,ru-RU
+エンティティの最大密集数,Предел сущностей в одном блоке,ru-RU
+オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+クラフトにレシピを要求,Создание только по рецепту,ru-RU
+クリエイティブモードでのネザーポータルの待機時間,Время прохождения портала Незера в творческом режиме,ru-RU
+クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+ゲームルールの変更,Изменения игровых правил,ru-RU
+ゲームルールの更新には管理者権限が必要です。,Изменение игровых правил требует прав оператора.,ru-RU
+ゲームルールを取得中…,Загрузка игровых правил...,ru-RU
+ゲームルールを編集,Настройка игровых правил,ru-RU
+ゲームルールを編集…,Игровые правила...,ru-RU
+ゲーム内時刻の進行,Смена дня и ночи,ru-RU
+コマンドによるブロックの最大変更数,Ограничение изменения блоков командой,ru-RU
+コマンドの実行結果の表示,Отображение сообщений команд,ru-RU
+コマンドの最大チェーン数,Ограничение длины цепи команд,ru-RU
+コマンドの最大実行文脈数,Ограничение контекста команд,ru-RU
+コマンドブロックの実行結果の通知,Сообщения командных блоков,ru-RU
+コマンドブロックの有効化,Использование командных блоков,ru-RU
+コマンドブロックの有効化,Командные блоки,ru-RU
+スペクテイターモードのプレイヤーによる地形生成の許可,Генерация мира наблюдателями,ru-RU
+スポナーの有効化,Рассадники,ru-RU
+スポーン,Появление,ru-RU
+スポーンチャンクの半径,Радиус чанков возрождения мира,ru-RU
+スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+チェーンコマンドブロックや関数に適用されます。,Затрагивает цепочки командных блоков и функции.,ru-RU
+チャット,Чат,ru-RU
+ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+ツタの成長,Распространение лианы,ru-RU
+デバッグ情報の制限,Малый экран отладки,ru-RU
+デフォルト値：%s,По умолчанию: %s,ru-RU
+トロッコの最高速度,Максимальная скорость вагонетки,ru-RU
+トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+ドロップ,Выпадение ресурсов,ru-RU
+ネザーの許可,Доступ в Незер,ru-RU
+ハードコアのワールドではゲームルールを変更できません。,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+ファントムのスポーン,Появление фантомов,ru-RU
+ブロックがアイテムや経験値オーブをドロップするかを設定できます。,Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+ブロックのドロップ,Выпадение блоков,ru-RU
+ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,Потеря части добычи от взрыва при использовании блока,ru-RU
+プレイヤー,Игрок,ru-RU
+プレイヤーから遠い炎のティック処理,Обновление огня вдали от игроков,ru-RU
+プレイヤーがネザーに入ることができるかどうかを設定できます,"Определяет, могут ли игроки входить в Незер.",ru-RU
+プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+プレイヤーの方向バーの有効化,Локатор игроков,ru-RU
+プレイヤーの速度チェック,Проверка движения игрока,ru-RU
+プレイヤーの速度チェックの無効化,Отключение проверки движения игрока,ru-RU
+プレイヤー死亡時のエンダーパールの消滅,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+モンスターが自然にスポーンするかどうかを設定できます,"Определяет, появляются ли монстры сами по себе.",ru-RU
+モンスターのスポーン,Появление монстров,ru-RU
+ランダムティックの発生数,Частота случайных тактов,ru-RU
+リスポーン地点の半径,Радиус области возрождения,ru-RU
+ワールドの更新,Обновления мира,ru-RU
+ワールド全体のサウンドイベント,Глобальные звуковые события,ru-RU
+一些实体可能有其特定的规则。,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+世界更新,Обновления мира,ru-RU
+主世界出生点周围保持加载的区块数量。,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+主世界重生點周圍維持載入的區塊數量。,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+体力の自動回復,Регенерация здоровья,ru-RU
+何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+何かが乗っているエンティティのポータル使用可否,Использование порталов сущностями с пассажирами,ru-RU
+你确定要放弃未保存的游戏规则更改吗？,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+你確定要捨棄尚未儲存的遊戲規則變更嗎？,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+停用玩家移動檢測,Отключение проверки движения игрока,ru-RU
+停用突襲,Отключение рейдов,ru-RU
+停用鞘翅移動檢測,Отключение проверки на элитрах,ru-RU
+允許 TNT 被點燃並爆炸,Активация и взрыв динамита,ru-RU
+允許旁觀者生成地形,Генерация мира наблюдателями,ru-RU
+允許火在遠離玩家處蔓延,Обновление огня вдали от игроков,ru-RU
+允許生物的破壞行為,Разрушительные действия мобов,ru-RU
+允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+允許進入地獄,Доступ в Незер,ru-RU
+允许TNT被点燃并爆炸,Активация и взрыв динамита,ru-RU
+允许旁观者生成地形,Генерация мира наблюдателями,ru-RU
+允许流动水转化为水源,Возобновление источников воды,ru-RU
+允许流动熔岩转化为熔岩源,Возобновление источников лавы,ru-RU
+允许火在远离玩家处蔓延,Обновление огня вдали от игроков,ru-RU
+允许破坏性生物行为,Разрушительные действия мобов,ru-RU
+允许被骑乘的实体通过下界传送门、末地传送门和末地折跃门传送。,"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+允许进入下界,Доступ в Незер,ru-RU
+入睡占比,Процент спящих,ru-RU
+全域聲音事件,Глобальные звуковые события,ru-RU
+全局声音事件,Глобальные звуковые события,ru-RU
+冰冻伤害,Урон от замерзания,ru-RU
+凍結ダメージ,Урон от замерзания,ru-RU
+出生区块半径,Радиус чанков возрождения мира,ru-RU
+创造模式下玩家在下界传送门中等待的时间,Время прохождения портала Незера в творческом режиме,ru-RU
+创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+創造模式玩家使用地獄傳送門的等待時間,Время прохождения портала Незера в творческом режиме,ru-RU
+单条命令（如fill和clone）最多能更改的方块数量。,"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+即時リスポーン,Мгновенное возрождение,ru-RU
+原諒死者,Прощение умерших игроков,ru-RU
+发送命令反馈,Отображение сообщений команд,ru-RU
+合成需要配方,Создание только по рецепту,ru-RU
+启用PvP,PvP,ru-RU
+启用刷怪笼方块,Рассадники,ru-RU
+启用后，屏幕上会显示指示玩家方位的定位栏。,"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+启用命令方块,Использование командных блоков,ru-RU
+启用命令方块,Командные блоки,ru-RU
+启用玩家定位栏,Локатор игроков,ru-RU
+启用玩家移动检测,Проверка движения игрока,ru-RU
+启用袭击,Рейды,ru-RU
+启用鞘翅移动检测,Проверка движения на элитрах,ru-RU
+命令上下文数量限制,Ограничение контекста команд,ru-RU
+命令修改方块数量限制,Ограничение изменения блоков командой,ru-RU
+命令连锁执行数量限制,Ограничение длины цепи команд,ru-RU
+啟用 PvP,PvP,ru-RU
+啟用後，畫面上會顯示指示玩家方位的定位條。,"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+啟用指令方塊,Использование командных блоков,ru-RU
+啟用指令方塊,Командные блоки,ru-RU
+啟用玩家定位條,Локатор игроков,ru-RU
+啟用玩家移動檢測,Проверка движения игрока,ru-RU
+啟用生怪磚,Рассадники,ru-RU
+啟用突襲,Рейды,ru-RU
+啟用鞘翅移動檢測,Проверка движения на элитрах,ru-RU
+單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",ru-RU
+回傳指令回饋,Отображение сообщений команд,ru-RU
+在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+在 TNT 的爆炸中，部分方塊不會掉落成戰利品,Потеря части добычи при взрыве динамита,ru-RU
+在TNT引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,"Влияет на потерю предметов, выпавших после взрыва динамита.",ru-RU
+在TNT爆炸中，一些方块不会掉落战利品,Потеря части добычи при взрыве динамита,ru-RU
+在与方块交互引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+在方块交互爆炸中，一些方块不会掉落战利品,Потеря части добычи от взрыва при использовании блока,ru-RU
+在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+在生物引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,"Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+在生物爆炸中，一些方块不会掉落战利品,Потеря части добычи при взрыве моба,ru-RU
+在生物的爆炸中，部分方塊不會掉落成戰利品,Потеря части добычи при взрыве моба,ru-RU
+在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,Потеря части добычи от взрыва при использовании блока,ru-RU
+在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+地上を走るトロッコのデフォルトの最高速度,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+天气更替,Изменения погоды,ru-RU
+天気の更新,Изменения погоды,ru-RU
+套用於連鎖型指令方塊及函數。,Затрагивает цепочки командных блоков и функции.,ru-RU
+实体挤压上限,Предел сущностей в одном блоке,ru-RU
+宽恕死亡玩家,Прощение умерших игроков,ru-RU
+實體擠壓上限,Предел сущностей в одном блоке,ru-RU
+就寝率,Процент спящих,ru-RU
+广播命令方块输出,Сообщения командных блоков,ru-RU
+应用于命令方块链和函数。,Затрагивает цепочки командных блоков и функции.,ru-RU
+弹射物能否破坏方块,Снаряды могут разрушать блоки,ru-RU
+愤怒的中立生物将在其目标玩家于附近死亡后息怒。,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用forgive_dead_players可达到最佳效果。,"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。,"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+投射物是否能破壞方塊,Снаряды могут разрушать блоки,ru-RU
+拋出的終界珍珠在死亡時消失,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+指令修改方塊數量限制,Ограничение изменения блоков командой,ru-RU
+指令的上下文上限,Ограничение контекста команд,ru-RU
+指令連鎖大小限制,Ограничение длины цепи команд,ru-RU
+掉落,Выпадение ресурсов,ru-RU
+掉落實體裝備,Выпадение экипировки сущностей,ru-RU
+掉落方塊,Выпадение блоков,ru-RU
+掉落生物戰利品,Выпадение добычи из мобов,ru-RU
+控制各种矿车（含内容物）、物品展示框、船等的物品掉落。,"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+控制弹射物能否破坏可被其破坏的方块。,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+控制怪物是否能自然生成。,"Определяет, появляются ли монстры сами по себе.",ru-RU
+控制怪物能否自然生成。,"Определяет, появляются ли монстры сами по себе.",ru-RU
+控制投射物是否能破壞可被其破壞的方塊。,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+控制方块是否掉落资源，包括经验球。,Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+控制方塊資源掉落，包含經驗球。,Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+控制火和熔岩能否在距离任何玩家超过8个区块处蔓延。,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+控制玩家是否能互相傷害。,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+控制玩家是否能進入地獄。,"Определяет, могут ли игроки входить в Незер.",ru-RU
+控制玩家能否进入下界。,"Определяет, могут ли игроки входить в Незер.",ru-RU
+控制玩家能夠生成的重生點範圍區域大小。,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+控制玩家间能否互相伤害。,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+控制生物是否掉落资源，包括经验球。,Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+控制生物資源掉落，包含經驗球。,Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+控制礦車（包括內容物）、物品展示框、船等的掉落物。,"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+控制藤蔓方块能否随机向相邻的方块蔓延。不会影响其他藤蔓类方块（例如垂泪藤和缠怨藤等）。,"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+控制适合玩家生成的出生点周围区域大小。,Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+掷出的末影珍珠在死亡时消失,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+摔落伤害,Урон от падения,ru-RU
+敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+敵対の共有,Слепая ярость,ru-RU
+敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+方块掉落,Выпадение блоков,ru-RU
+无差别愤怒,Слепая ярость,ru-RU
+无法在极限模式世界中更改游戏规则。,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+日夜交替,Смена дня и ночи,ru-RU
+显示死亡消息,Сообщения о смерти,ru-RU
+更新天氣,Изменения погоды,ru-RU
+更新游戏规则需要管理员权限。,Изменение игровых правил требует прав оператора.,ru-RU
+更新火焰,Распространение огня,ru-RU
+更新遊戲規則需要管理員權限。,Изменение игровых правил требует прав оператора.,ru-RU
+有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+杂项,Разное,ru-RU
+正在擷取遊戲規則...,Загрузка игровых правил...,ru-RU
+正在获取游戏规则…,Загрузка игровых правил...,ru-RU
+死亡したプレイヤーへの敵対を解除,Прощение умерших игроков,ru-RU
+死亡メッセージの表示,Сообщения о смерти,ru-RU
+死亡后保留物品栏,Сохранение инвентаря при смерти,ru-RU
+死亡後保留物品欄,Сохранение инвентаря при смерти,ru-RU
+死亡時のインベントリの保持,Сохранение инвентаря при смерти,ru-RU
+水流から水源への変化,Возобновление источников воды,ru-RU
+水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,Окружённая двумя источниками текущая вода образует третий.,ru-RU
+流動水在被兩個水源包圍時，會轉化成水源。,Окружённая двумя источниками текущая вода образует третий.,ru-RU
+流動水轉化成水源,Возобновление источников воды,ru-RU
+流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,Окружённая двумя источниками текущая лава образует третий.,ru-RU
+流動熔岩轉化成熔岩源,Возобновление источников лавы,ru-RU
+游戏内时间流逝,Смена дня и ночи,ru-RU
+游戏规则更改,Изменения игровых правил,ru-RU
+溶岩流から溶岩源への変化,Возобновление источников лавы,ru-RU
+溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,Окружённая двумя источниками текущая лава образует третий.,ru-RU
+溺水ダメージ,Урон от утопления,ru-RU
+溺水伤害,Урон от утопления,ru-RU
+火傷ダメージ,Урон от огня,ru-RU
+火焰伤害,Урон от огня,ru-RU
+火焰蔓延,Распространение огня,ru-RU
+火焰蔓延半径,Радиус распространения огня,ru-RU
+火焰蔓延半徑,Радиус распространения огня,ru-RU
+炎の延焼が起こる半径,Радиус распространения огня,ru-RU
+炎の更新,Распространение огня,ru-RU
+無差別憤怒,Слепая ярость,ru-RU
+無法在極限模式世界中變更遊戲規則。,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+特定游戏事件（如Boss生成）发生时，声音可在所有地方听见。,"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+玩家,Игрок,ru-RU
+玩家周围火可以蔓延的方块半径。,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+玩家周圍火焰可蔓延的半徑格數。,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+玩家投掷的末影珍珠是否在玩家死亡时消失。,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+玩家拋出的終界珍珠是否在玩家死亡時消失。,Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+生命值自然恢复,Регенерация здоровья,ru-RU
+生成,Появление,ru-RU
+生成伏守者,Появление хранителей,ru-RU
+生成夜魅,Появление фантомов,ru-RU
+生成幻翼,Появление фантомов,ru-RU
+生成怪物,Появление монстров,ru-RU
+生成掠奪者巡邏隊,Патрули разбойников,ru-RU
+生成流浪商人,Странствующие торговцы,ru-RU
+生成灾厄巡逻队,Патрули разбойников,ru-RU
+生成生物,Появление мобов,ru-RU
+生成监守者,Появление хранителей,ru-RU
+生物,Мобы,ru-RU
+生物战利品掉落,Выпадение добычи из мобов,ru-RU
+略奪隊のスポーン,Патрули разбойников,ru-RU
+當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+相邻两面方块为水源的流动水会转化为水源。,Окружённая двумя источниками текущая вода образует третий.,ru-RU
+相邻两面方块为熔岩源的流动熔岩会转化为熔岩源。,Окружённая двумя источниками текущая лава образует третий.,ru-RU
+睡眠比例,Процент спящих,ru-RU
+矿车在地面上移动的默认最大速度。,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+矿车最大速度,Максимальная скорость вагонетки,ru-RU
+礦車在地面上移動的預設速度上限。,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+礦車最大速度,Максимальная скорость вагонетки,ru-RU
+禁用玩家移动检测,Отключение проверки движения игрока,ru-RU
+禁用袭击,Отключение рейдов,ru-RU
+禁用鞘翅移动检测,Отключение проверки на элитрах,ru-RU
+积雪厚度,Высота снежного покрова,ru-RU
+積雪の深さ,Высота снежного покрова,ru-RU
+積雪厚度,Высота снежного покрова,ru-RU
+立即重生,Мгновенное возрождение,ru-RU
+简化调试信息,Малый экран отладки,ru-RU
+管理者ログへのコマンドの実行結果の通知,Запись команд администраторов,ru-RU
+簡化除錯資訊,Малый экран отладки,ru-RU
+編輯遊戲規則,Настройка игровых правил,ru-RU
+編輯遊戲規則...,Игровые правила...,ru-RU
+編集中のゲームルールの変更を破棄してもよろしいですか？,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+编辑游戏规则,Настройка игровых правил,ru-RU
+编辑游戏规则…,Игровые правила...,ru-RU
+聊天,Чат,ru-RU
+聊天欄,Чат,ru-RU
+自然回血,Регенерация здоровья,ru-RU
+若启用，玩家只能使用已解锁的配方合成。,"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+若啟用，玩家將只能合成已解鎖的配方。,"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+落下ダメージ,Урон от падения,ru-RU
+藤蔓蔓延,Распространение лианы,ru-RU
+行商人のスポーン,Странствующие торговцы,ru-RU
+表示するデバッグ情報の項目数を制限します。,Ограничение содержания экрана отладки.,ru-RU
+被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+被騎乘的實體是否能使用傳送門,Использование порталов сущностями с пассажирами,ru-RU
+被骑乘的实体能否使用传送门,Использование порталов сущностями с пассажирами,ru-RU
+襲撃の無効化,Отключение рейдов,ru-RU
+襲撃の発生,Рейды,ru-RU
+記錄指令方塊輸出,Сообщения командных блоков,ru-RU
+記錄管理員指令,Запись команд администраторов,ru-RU
+設備エンティティのドロップ,Выпадение экипировки сущностей,ru-RU
+跳过夜晚所需的入睡玩家占比。,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+跳過夜晚所需的入睡玩家比例。,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+进度通知,Оповещения о достижениях,ru-RU
+通告管理员命令,Запись команд администраторов,ru-RU
+造成冰凍傷害,Урон от замерзания,ru-RU
+造成摔落傷害,Урон от падения,ru-RU
+造成溺水傷害,Урон от утопления,ru-RU
+造成火焰傷害,Урон от огня,ru-RU
+進度通知,Оповещения о достижениях,ru-RU
+進捗達成の通知,Оповещения о достижениях,ru-RU
+遊戲規則變更,Изменения игровых правил,ru-RU
+部分實體可能採用不同的規則。,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+重生區塊半徑,Радиус чанков возрождения мира,ru-RU
+重生点半径,Радиус области возрождения,ru-RU
+重生點半徑,Радиус области возрождения,ru-RU
+降雪时，地面上的雪最多堆积到此处指定的层数。,"Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+降雪時に積もる雪の層の最大数を設定できます。,"Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+降雪時，地面上的積雪最多累積至此處指定的層數。,"Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+限制调试屏幕内容。,Ограничение содержания экрана отладки.,ru-RU
+限制除錯畫面的內容。,Ограничение содержания экрана отладки.,ru-RU
+随机刻速率,Частота случайных тактов,ru-RU
+隨機刻速率,Частота случайных тактов,ru-RU
+雜項,Разное,ru-RU
+需要配方才能合成,Создание только по рецепту,ru-RU
+非クリエイティブモードでのネザーポータルの待機時間,Время прохождения портала Незера вне творческого режима,ru-RU
+非创造模式下玩家在下界传送门中等待的时间,Время прохождения портала Незера вне творческого режима,ru-RU
+非创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+非創造模式玩家使用地獄傳送門的等待時間,Время прохождения портала Незера вне творческого режима,ru-RU
+非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+非生物实体掉落,Выпадение экипировки сущностей,ru-RU
+預設值：%s,По умолчанию: %s,ru-RU
+顯示死亡訊息,Сообщения о смерти,ru-RU
+飛び道具によるブロック破壊の可否,Снаряды могут разрушать блоки,ru-RU
+飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+默认：%s,По умолчанию: %s,ru-RU
+개체 장비 떨굼,Выпадение экипировки сущностей,ru-RU
+개체 중첩 한계,Предел сущностей в одном блоке,ru-RU
+겉날개 움직임 확인 끄기,Отключение проверки на элитрах,ru-RU
+겉날개 움직임 확인하기,Проверка движения на элитрах,ru-RU
+게임 규칙 받아오는 중...,Загрузка игровых правил...,ru-RU
+게임 규칙 변경 사항,Изменения игровых правил,ru-RU
+게임 규칙 수정,Настройка игровых правил,ru-RU
+게임 규칙 수정...,Игровые правила...,ru-RU
+게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,Изменение игровых правил требует прав оператора.,ru-RU
+경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,Влияет на выпадение предметов и сфер опыта из мобов.,ru-RU
+경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,Влияет на выпадение предметов и сфер опыта из блоков.,ru-RU
+관리자 명령 알림,Запись команд администраторов,ru-RU
+관전자의 지형 생성 허용,Генерация мира наблюдателями,ru-RU
+"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.","Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",ru-RU
+광산 수레 최고 속도,Максимальная скорость вагонетки,ru-RU
+기본값: %s,По умолчанию: %s,ru-RU
+기타,Разное,ru-RU
+낙하 피해,Урон от падения,ru-RU
+날씨 갱신,Изменения погоды,ru-RU
+네더 허용,Доступ в Незер,ru-RU
+"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.","Предельное число слоёв снега, образующихся во время снегопада.",ru-RU
+대화,Чат,ru-RU
+덩굴 퍼짐,Распространение лианы,ru-RU
+덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ru-RU
+동상 피해,Урон от замерзания,ru-RU
+디버그 정보 축소,Малый экран отладки,ru-RU
+디버그 화면의 내용을 제한합니다.,Ограничение содержания экрана отладки.,ru-RU
+땅에서 광산 수레가 움직일 때 최고 기본 속도,Максимальная базовая скорость движения вагонетки по земле.,ru-RU
+떠돌이 상인 생성,Странствующие торговцы,ru-RU
+떨굼 설정,Выпадение ресурсов,ru-RU
+랜덤 틱 속도 비율,Частота случайных тактов,ru-RU
+리스폰 위치 반지름,Радиус области возрождения,ru-RU
+명령 블록 연쇄와 함수에 해당.,Затрагивает цепочки командных блоков и функции.,ru-RU
+명령 블록 출력 알림,Сообщения командных блоков,ru-RU
+명령 블록 켜기,Использование командных блоков,ru-RU
+명령 블록 켜기,Командные блоки,ru-RU
+명령 연쇄 크기 제한,Ограничение длины цепи команд,ru-RU
+명령 피드백 전송,Отображение сообщений команд,ru-RU
+명령어 맥락 제한,Ограничение контекста команд,ru-RU
+명령어의 블록 변경량 제한,Ограничение изменения блоков командой,ru-RU
+몬스터 생성,Появление монстров,ru-RU
+몬스터의 자연적 생성 여부를 제어합니다.,"Определяет, появляются ли монстры сами по себе.",ru-RU
+몹,Мобы,ru-RU
+몹 노획물 떨굼,Выпадение добычи из мобов,ru-RU
+몹 생성,Появление мобов,ru-RU
+"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",Потеря части добычи при взрыве моба,ru-RU
+"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.","Влияет на потерю предметов, выпавших после взрыва моба.",ru-RU
+무차별적 분노,Слепая ярость,ru-RU
+물이 원천으로 바뀜,Возобновление источников воды,ru-RU
+발전 과제 알림,Оповещения о достижениях,ru-RU
+밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,"Процент игроков, которым нужно спать для пропуска ночи.",ru-RU
+"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.","Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ru-RU
+분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",ru-RU
+불 갱신,Распространение огня,ru-RU
+불 피해,Урон от огня,ru-RU
+불 확산 반지름,Радиус распространения огня,ru-RU
+블록 떨굼,Выпадение блоков,ru-RU
+"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",Потеря части добычи от взрыва при использовании блока,ru-RU
+"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.","Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",ru-RU
+생명력 재생,Регенерация здоровья,ru-RU
+생성,Появление,ru-RU
+생성기 블록 켜기,Рассадники,ru-RU
+세계 갱신,Обновления мира,ru-RU
+"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",Радиус невыгружаемой области вокруг точек возрождения игроков.,ru-RU
+스폰 청크 반지름,Радиус чанков возрождения мира,ru-RU
+습격 끄기,Отключение рейдов,ru-RU
+습격 켜기,Рейды,ru-RU
+시간 흐름,Смена дня и ночи,ru-RU
+약탈자 정찰대 생성,Патрули разбойников,ru-RU
+오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,Радиус невыгружаемой области вокруг точки возрождения мира.,ru-RU
+용암이 원천으로 바뀜,Возобновление источников лавы,ru-RU
+워든 생성,Появление хранителей,ru-RU
+이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",ru-RU
+익사 피해,Урон от утопления,ru-RU
+일부 개체는 별도의 규칙이 있을 수 있습니다.,У некоторых сущностей могут быть свои игровые правила.,ru-RU
+저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,Вы действительно хотите отменить изменения игровых правил?,ru-RU
+적설 높이,Высота снежного покрова,ru-RU
+전역 소리 이벤트,Глобальные звуковые события,ru-RU
+제작에 제작법 필요,Создание только по рецепту,ru-RU
+죽은 플레이어 용서,Прощение умерших игроков,ru-RU
+죽을 때 던져져 있는 엔더 진주 소멸,Исчезновение брошенного эндер-жемчуга при смерти,ru-RU
+죽음 문구 표시,Сообщения о смерти,ru-RU
+죽음 후 보관함 보존,Сохранение инвентаря при смерти,ru-RU
+중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",ru-RU
+중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",ru-RU
+즉시 리스폰,Мгновенное возрождение,ru-RU
+취침 비율,Процент спящих,ru-RU
+켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",ru-RU
+크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,ru-RU
+크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,Время прохождения портала Незера вне творческого режима,ru-RU
+크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,ru-RU
+크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,Время прохождения портала Незера в творческом режиме,ru-RU
+"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.","Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",ru-RU
+탑승자가 있는 개체의 차원문 사용 허용,Использование порталов сущностями с пассажирами,ru-RU
+투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,"Регулирует, разрушаются ли определённые блоки от удара снаряда.",ru-RU
+투사체가 블록 파괴 가능,Снаряды могут разрушать блоки,ru-RU
+파괴적 몹 행위 허용,Разрушительные действия мобов,ru-RU
+팬텀 생성,Появление фантомов,ru-RU
+플레이어,Игрок,ru-RU
+플레이어 움직임 확인 끄기,Отключение проверки движения игрока,ru-RU
+플레이어 움직임 확인하기,Проверка движения игрока,ru-RU
+플레이어 위치 표시 바 켜기,Локатор игроков,ru-RU
+플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,"Определяет, могут ли игроки наносить урон другим игрокам.",ru-RU
+"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,ru-RU
+플레이어로부터 떨어진 불 틱,Обновление огня вдали от игроков,ru-RU
+플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",ru-RU
+플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",ru-RU
+플레이어의 네더 진입 가능 여부를 제어합니다.,"Определяет, могут ли игроки входить в Незер.",ru-RU
+하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,Изменение игровых правил в Хардкоре недоступно.,ru-RU
+"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",Окружённая двумя источниками текущая вода образует третий.,ru-RU
+"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",Окружённая двумя источниками текущая лава образует третий.,ru-RU

@@ -1,0 +1,998 @@
+﻿source,target,tgt_lng
+%s (Bắt buộc),%s (erforderlich),de-DE
+%s (facoltativo),%s (optional),de-DE
+%s (facoltativo) — disattivato,%s (optional) – Deaktiviert,de-DE
+%s (facultatif),%s (optional),de-DE
+%s (facultatif) - désactivé,%s (optional) – Deaktiviert,de-DE
+%s (Gerekli),%s (erforderlich),de-DE
+%s (İsteğe Bağlı),%s (optional),de-DE
+%s (İsteğe Bağlı) - Devre Dışı,%s (optional) – Deaktiviert,de-DE
+%s (Không bắt buộc),%s (optional),de-DE
+%s (không bắt buộc) - Đã tắt,%s (optional) – Deaktiviert,de-DE
+%s (necesario),%s (erforderlich),de-DE
+%s (necessario),%s (erforderlich),de-DE
+%s (obrigatório),%s (erforderlich),de-DE
+%s (opcional),%s (optional),de-DE
+%s (opcional) — Não,%s (optional) – Deaktiviert,de-DE
+%s (opcional): Desactivado,%s (optional) – Deaktiviert,de-DE
+%s (Optional),%s (optional),de-DE
+%s (Optional) - Disabled,%s (optional) – Deaktiviert,de-DE
+%s (Required),%s (erforderlich),de-DE
+%s (requis),%s (erforderlich),de-DE
+%s (необязательно),%s (optional),de-DE
+%s (необязательно) — Отключено,%s (optional) – Deaktiviert,de-DE
+%s (обязательно),%s (erforderlich),de-DE
+%s (จำเป็น),%s (erforderlich),de-DE
+%s (ไม่จำเป็น),%s (optional),de-DE
+%s (ไม่จำเป็น) - ปิดการใช้งาน,%s (optional) – Deaktiviert,de-DE
+%s (선택적),%s (optional),de-DE
+%s (선택적) - 꺼짐,%s (optional) – Deaktiviert,de-DE
+%s (필수),%s (erforderlich),de-DE
+%s（任意）,%s (optional),de-DE
+%s（任意） - 無効,%s (optional) – Deaktiviert,de-DE
+%s（可选）,%s (optional),de-DE
+%s（可选，已禁用）,%s (optional) – Deaktiviert,de-DE
+%s（可選 – 已停用）,%s (optional) – Deaktiviert,de-DE
+%s（可選）,%s (optional),de-DE
+%s（必要）,%s (erforderlich),de-DE
+%s（必須）,%s (erforderlich),de-DE
+Acconsento all'invio di dati di telemetria facoltativi,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+Aceito o envio de telemetria opcional,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+Advancement ID,Fortschritts‐ID,de-DE
+Advancement Made,Fortschritt erzielt,de-DE
+Alcance visual,Sichtweite,de-DE
+Amostras de taxa de quadros (FPS),Datenwerte zur Bildwiederholrate (FPS),de-DE
+Amostras do tempo de renderização,Datenwerte zur Renderzeit,de-DE
+Arka Uç Adı,Name der Schnittstelle,de-DE
+Arka Uç Oluşturma Hatası Eksik Özellikler,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+Arka Uç Oluşturma Hatası Mesajı,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+Arka Uç Oluşturma Hatası Nedeni,Backend‐Initialisierungsfehler: Grund,de-DE
+Ayrılmış Bellek (kB),Zugewiesener Arbeitsspeicher (KB),de-DE
+Backend Creation Failure Message,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+Backend Creation Failure Missing Capabilities,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+Backend Creation Failure Reason,Backend‐Initialisierungsfehler: Grund,de-DE
+Backend Name,Name der Schnittstelle,de-DE
+Bağlantı Başarılı,Verbindungserfolg,de-DE
+Bağlantı Süresi (Milisaniye),Signalaufbauzeit (Millisekunden),de-DE
+Başarısızlık Aşaması,Fehlerphase,de-DE
+Başlatıcı Adı,Launcher‐Name,de-DE
+"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.","Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.","Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+Bootstrap Time (Milliseconds),Initialisierungszeit (Millisekunden),de-DE
+Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+"Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+"Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+Bộ nhớ chuyên dụng (kB),Zugewiesener Arbeitsspeicher (KB),de-DE
+Bộ nhớ truy cập ngẫu nhiên đã sử dụng,Verwendeter Arbeitsspeicher,de-DE
+Caminho do Interactive Connectivity Establishment (ICE),Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+Campioni del tempo di elaborazione grafica,Datenwerte zur Renderzeit,de-DE
+Campioni di frequenza dei fotogrammi [fps],Datenwerte zur Bildwiederholrate (FPS),de-DE
+Capacidades gráficas,Grafikfunktionen,de-DE
+Capacités graphiques,Grafikfunktionen,de-DE
+Capacités manquantes lors de l'échec de la création du backend,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+Capire il contesto relativo al compimento di un progresso può aiutarci a comprendere meglio e a perfezionare la sequenza di gioco.,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+"Cet événement est associé à l'événement ""Monde chargé"" pour calculer la durée de la session de jeu.
+La durée (en secondes et en ticks) est mesurée lorsqu'une session de jeu est terminée (en retournant au menu principal ou en se déconnectant d'un serveur).","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+"Cet événement nous aide à évaluer la fiabilité et les performances des connexions pair à pair entre les joueurs. Il enregistre la réussite ou l'échec de la connexion, le type de candidat utilisé pour l'établissement de connectivité interactive (ICE, le protocole que nous utilisons pour établir les connexions pair à pair) ainsi que le temps nécessaire pour établir la connexion.","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+Cet événement nous informe des capacités du périphérique graphique utilisé pour jouer au jeu.,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+Cet événement peut nous aider à déterminer où des améliorations des performances au démarrage sont nécessaires en mesurant les temps d'exécution des phases.,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+Chemin de l'établissement de connectivité interactive (ICE),Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+Chế độ chơi,Spielmodus,de-DE
+Chọn tham gia,Erforderliches/optionales Ereignis,de-DE
+Client ID,Client‐ID,de-DE
+Client Modded,Client modifiziert,de-DE
+Client moddé ?,Client modifiziert,de-DE
+Cliente modificado,Client modifiziert,de-DE
+Coleta de dados telemétricos,Telemetrie‐Datenerhebung,de-DE
+"Coletar esses dados nos ajuda a melhorar o Minecraft, guiando nosso trabalho em direções relevantes para os jogadores.
+Você também pode enviar seu feedback para nos ajudar a melhorar o Minecraft.","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+Collecte des données de télémétrie,Telemetrie‐Datenerhebung,de-DE
+"Collecter ces données nous aide à améliorer Minecraft en nous guidant dans des directions qui sont pertinentes pour nos joueurs.
+Vous pouvez aussi donner votre avis pour nous aider à améliorer le jeu.","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+"Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.
+You can also send in additional feedback to help us keep improving Minecraft.","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+Compartir datos,Erforderliches/optionales Ereignis,de-DE
+Comprender el contexto en el que se realiza un progreso nos ayudará a entender y mejorar la progresión del juego.,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+Comprendre le contexte derrière la réalisation d'un progrès peut nous aider à améliorer la progression du jeu.,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+Conectado con éxito,Verbindungserfolg,de-DE
+Conexión P2P,Direktverbindung,de-DE
+Conexão estabelecida,Verbindungserfolg,de-DE
+Conexão ponto a ponto,Direktverbindung,de-DE
+"Conhecer o perfil geral de desempenho do Minecraft nos ajuda a otimizar o jogo para uma ampla variedade de dispositivos e sistemas operacionais. 
+A versão do jogo é incluída para nos ajudar a comparar o desempenho das novas versões do Minecraft.","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+Connection Successful,Verbindungserfolg,de-DE
+Connessione a rete paritaria,Direktverbindung,de-DE
+Connexion pair à pair,Direktverbindung,de-DE
+Connexion réussie,Verbindungserfolg,de-DE
+"Conocer el perfil de rendimiento de Minecraft nos ayuda a optimizar el juego para muchas especificaciones y sistemas operativos. 
+La versión del juego se incluye para ayudarnos a comparar el rendimiento de nuevas versiones.","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+"Conoscere il profilo delle prestazioni di Minecraft ci aiuta ad adattare e a ottimizzare il gioco per un'ampia gamma di dispositivi e sistemi operativi.
+La versione del gioco è inclusa per aiutarci a effettuare il confronto con il profilo delle prestazioni delle nuove versioni di Minecraft.","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+Consenso,Erforderliches/optionales Ereignis,de-DE
+Consentement,Erforderliches/optionales Ereignis,de-DE
+Contagem de amostras,Anzahl der Datenwerte,de-DE
+Contenido del mapa de Realms (nombre del minijuego),Realms‐Weltinhalt (Name des Minispiels),de-DE
+Contenu de la carte de Realms (nom du mini-jeu),Realms‐Weltinhalt (Name des Minispiels),de-DE
+Conteúdo do mapa do Realms (nome do minijogo),Realms‐Weltinhalt (Name des Minispiels),de-DE
+Dados incluídos,Enthaltene Daten,de-DE
+Danos tu opinión,Feedback geben,de-DE
+Dati inclusi,Enthaltene Daten,de-DE
+Datos incluidos,Enthaltene Daten,de-DE
+Declaración de privacidad,Datenschutzerklärung,de-DE
+Declaração de Privacidade,Datenschutzerklärung,de-DE
+Dedicated Memory (kB),Zugewiesener Arbeitsspeicher (KB),de-DE
+Distance d'affichage,Sichtweite,de-DE
+Distancia de renderizado,Sichtweite,de-DE
+Donner son avis,Feedback geben,de-DE
+Données incluses,Enthaltene Daten,de-DE
+Déclaration de confidentialité,Datenschutzerklärung,de-DE
+Dünya Oturum Kimliği,Welt‐Sitzungs‐ID,de-DE
+Dünya Yükleme Süresi (Milisaniye),Weltladezeit (Millisekunden),de-DE
+Dünya Yüklendi,Welt geladen,de-DE
+Dünya Yüklenme Süreleri,Weltladezeiten,de-DE
+Dünyadan Çıkıldı,Welt entladen,de-DE
+Dấu thời gian sự kiện (giờ UTC),Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+Dữ liệu được bao gồm,Enthaltene Daten,de-DE
+"En apprendre davantage sur la manière dont les joueurs jouent à Minecraft (avec quel mode de jeu, si le client ou le serveur est moddé, sous quelle version) nous aide à améliorer les aspects qui ont le plus d'importance pour les joueurs.
+L'événement ""Monde chargé"" est associé à l'événement ""Monde déchargé"" pour calculer la durée de la session de jeu.","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+"En apprendre davantage sur le profil global des performances de Minecraft nous aide à ajuster et optimiser le jeu pour un large éventail d'appareils et de systèmes d'exploitation. 
+La version du jeu est incluse pour nous aider à comparer le profil des performances des nouvelles versions de Minecraft.","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+Entender o contexto de um progresso pode nos ajudar a entender e melhorar a progressão do jogo.,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+Enviar feedback,Feedback geben,de-DE
+Erro ao criar o backend por falta de capacidades,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+Error en la creación del backend por falta de capacidades,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+"Es importante que sepamos cuánto tiempo se tarda en entrar en un mundo y cómo cambia eso con el tiempo. Por ejemplo, cuando añadimos nuevas características o realizamos cambios técnicos grandes, necesitamos ver qué impacto tienen en los tiempos de carga.","Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+Esito della connessione positivo,Verbindungserfolg,de-DE
+"Esse evento nos ajuda a detectar a estabilidade e o desempenho das conexões ponto a ponto entre jogadores. Ele registra se a conexão foi estabelecida com êxito, o tipo de candidato usado (também conhecido por Interactive Connectivity Establishment, ou ICE, protocolo usado para estabelecer conexões ponto a ponto) e a duração para estabelecer a conexão.","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+Esse evento nos informa sobre as capacidades do dispositivo gráfico usado durante o jogo.,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+Esse evento pode nos ajudar a identificar as melhorias de desempenho de inicialização necessárias ao medir os tempos de execução das fases de inicialização.,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+"Esse evento é sincronizado com o ""Mundo Carregado"" para calcular a duração da sessão de jogo.
+A duração (em segundos e tiques) é medida no final de uma sessão (ao sair para o menu principal ou de um servidor).","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+"Este evento está unido al de «Mundo cargado» para calcular cuánto ha durado la sesión de juego.
+La duración (en segundos y tics) se mide cuando una sesión de juego termina (saliendo al menú principal, desconectándose de un servidor).","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+"Este evento nos ayuda a comprender la fiabilidad y el rendimiento de las conexiones P2P entre jugadores. Registra si la conexión fue exitosa, el tipo de conectividad interactiva (ICE, el protocolo que usamos para establecer conexiones P2P) que pudo utilizarse y cuánto tiempo tardó en establecerse la conexión.","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+Este evento nos informa sobre las capacidades del dispositivo gráfico utilizado para jugar.,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+"Este evento puede ayudarnos a determinar donde se necesitan las mejoras de rendimiento, midiendo los tiempos de ejecución de las diferentes fases de arranque.","Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+Event Timestamp (UTC),Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+Failure Stage,Fehlerphase,de-DE
+Fase de fallo,Fehlerphase,de-DE
+Fase dell'errore,Fehlerphase,de-DE
+Fase do erro,Fehlerphase,de-DE
+Frame Rate Samples (fps),Datenwerte zur Bildwiederholrate (FPS),de-DE
+Funzionalità grafiche,Grafikfunktionen,de-DE
+Funzionalità mancanti alla creazione della libreria,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+Game Load Times,Spielladezeiten,de-DE
+Game Mode,Spielmodus,de-DE
+Game Time (Ticks),Spielzeit (Ticks),de-DE
+Game Version,Spielversion,de-DE
+Gelişim Kimliği,Fortschritts‐ID,de-DE
+Gelişim Yapıldı,Fortschritt erzielt,de-DE
+Geri Bildirim,Feedback geben,de-DE
+Giai đoạn gây lỗi,Fehlerphase,de-DE
+Give Feedback,Feedback geben,de-DE
+Gizlilik Beyanı,Datenschutzerklärung,de-DE
+Grafik Özellikleri,Grafikfunktionen,de-DE
+Graphics Capabilities,Grafikfunktionen,de-DE
+Görüntü Oluşturma Zamanları,Datenwerte zur Renderzeit,de-DE
+Görüş Mesafesi,Sichtweite,de-DE
+Gửi phản hồi,Feedback geben,de-DE
+Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+Hora del evento (UTC),Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+Hora do evento (UTC),Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+Horodatage de l'événement (UTC),Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+Hệ điều hành,Betriebssystem,de-DE
+I consent to sending optional telemetry data,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+ID da sessão do Minecraft,Minecraft‐Sitzungs‐ID,de-DE
+ID da sessão do mundo,Welt‐Sitzungs‐ID,de-DE
+ID da sessão do servidor,Server‐Sitzungs‐ID,de-DE
+ID de l'utilisateur,Benutzer‐ID,de-DE
+ID de la session de Minecraft,Minecraft‐Sitzungs‐ID,de-DE
+ID de la session du monde,Welt‐Sitzungs‐ID,de-DE
+ID de la session du serveur,Server‐Sitzungs‐ID,de-DE
+ID del client,Client‐ID,de-DE
+ID del progresso,Fortschritts‐ID,de-DE
+ID dell'utente,Benutzer‐ID,de-DE
+ID della sessione del mondo,Welt‐Sitzungs‐ID,de-DE
+ID della sessione del server,Server‐Sitzungs‐ID,de-DE
+ID della sessione di Minecraft,Minecraft‐Sitzungs‐ID,de-DE
+ID do cliente,Client‐ID,de-DE
+ID do progresso,Fortschritts‐ID,de-DE
+ID do usuário,Benutzer‐ID,de-DE
+ID du client,Client‐ID,de-DE
+ID du progrès,Fortschritts‐ID,de-DE
+ID máy khách,Client‐ID,de-DE
+ID người dùng,Benutzer‐ID,de-DE
+ID phiên Minecraft,Minecraft‐Sitzungs‐ID,de-DE
+ID phiên máy chủ,Server‐Sitzungs‐ID,de-DE
+ID phiên thế giới,Welt‐Sitzungs‐ID,de-DE
+ID tiến trình,Fortschritts‐ID,de-DE
+ID ความก้าวหน้า,Fortschritts‐ID,de-DE
+ID ผู้ใช้,Benutzer‐ID,de-DE
+ID เซสชัน Minecraft,Minecraft‐Sitzungs‐ID,de-DE
+ID เซสชันเซิร์ฟเวอร์,Server‐Sitzungs‐ID,de-DE
+ID เซสชันโลก,Welt‐Sitzungs‐ID,de-DE
+ID ไคลเอนต์,Client‐ID,de-DE
+Id. de cliente,Client‐ID,de-DE
+Id. de sesión de Minecraft,Minecraft‐Sitzungs‐ID,de-DE
+Id. de sesión del mundo,Welt‐Sitzungs‐ID,de-DE
+Id. de sesión del servidor,Server‐Sitzungs‐ID,de-DE
+Id. de usuario,Benutzer‐ID,de-DE
+Id. del progreso,Fortschritts‐ID,de-DE
+"Il est important pour nous de déterminer le temps nécessaire pour rejoindre un monde, et la manière dont cela évolue au fil du temps. Par exemple, lorsque nous ajoutons de nouvelles fonctionnalités ou réalisons d'importants changements techniques, nous avons besoin d'en observer l'impact sur les temps de chargement.","Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+Included Data,Enthaltene Daten,de-DE
+Info sulla riservatezza,Datenschutzerklärung,de-DE
+Interactive Connectivity Establishment (ICE) Connect Time (Milliseconds),Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+Interactive Connectivity Establishment (ICE) Path,Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+Interactive Connectivity Establishment（ICE）パス,Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+Invia riscontro,Feedback geben,de-DE
+"It's important for us to understand how long it takes to join a world, and how that changes over time. For example, when we add new features or do larger technical changes, we need to see what impact that had on load times.","Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+İstemci Kimliği,Client‐ID,de-DE
+İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+İçerilen Veri,Enthaltene Daten,de-DE
+İşletim Sistemi,Betriebssystem,de-DE
+J'accepte l'envoi de données de télémétrie facultatives,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+Kare Hızı Örnekleri (fps),Datenwerte zur Bildwiederholrate (FPS),de-DE
+Katıl,Erforderliches/optionales Ereignis,de-DE
+Khoảng cách kết xuất,Sichtweite,de-DE
+"Knowing how players play Minecraft (such as Game Mode, client or server modded, and game version) allows us to focus game updates to improve the areas that players care about most.
+The World Loaded event is paired with the World Unloaded event to calculate how long the play session has lasted.","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+"Knowing the overall performance profile of Minecraft helps us tune and optimize the game for a wide range of machine specifications and operating systems.
+Game version is included to help us compare the performance profile for new versions of Minecraft.","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+Kullanıcı Kimliği,Benutzer‐ID,de-DE
+Kullanılan Bellek (RAM),Verwendeter Arbeitsspeicher,de-DE
+Kết nối ngang hàng,Direktverbindung,de-DE
+Kết nối thành công,Verbindungserfolg,de-DE
+"La raccolta di questi dati ci aiuta a migliorare Minecraft, indicandoci le decisioni più opportune per i giocatori. Inoltre, puoi inviare un riscontro aggiuntivo per aiutarci a migliorare Minecraft ulteriormente.","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+"La recolección de datos nos ayuda a mejorar Minecraft guiándonos hacia direcciones que sean relevantes para nuestros jugadores.
+También puedes enviar sugerencias para ayudarnos a seguir mejorando Minecraft.","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+Launcher Name,Launcher‐Name,de-DE
+Local Candidate Type,Interner Kandidatentyp,de-DE
+Loại máy chủ,Servertyp,de-DE
+Loại ứng viên cục bộ,Interner Kandidatentyp,de-DE
+Loại ứng viên từ xa,Externer Kandidatentyp,de-DE
+Lý do lỗi tạo Backend,Backend‐Initialisierungsfehler: Grund,de-DE
+Medición del rendimiento,Leistungsmetriken,de-DE
+Memoria de acceso aleatorio usada (RAM),Verwendeter Arbeitsspeicher,de-DE
+Memoria dedicada (kB),Zugewiesener Arbeitsspeicher (KB),de-DE
+Memoria dedicata [kB],Zugewiesener Arbeitsspeicher (KB),de-DE
+Memória dedicada (kB),Zugewiesener Arbeitsspeicher (KB),de-DE
+Memória RAM usada,Verwendeter Arbeitsspeicher,de-DE
+Mensagem de erro ao criar o backend,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+Mensaje de error en la creación del backend,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+Message d'échec de la création du backend,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+Messaggio dell'errore nella creazione della libreria,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+Mesures de performances,Leistungsmetriken,de-DE
+Metriche di prestazione,Leistungsmetriken,de-DE
+Minecraft Oturum Kimliği,Minecraft‐Sitzungs‐ID,de-DE
+Minecraft Session ID,Minecraft‐Sitzungs‐ID,de-DE
+Minecraft 세션 ID,Minecraft‐Sitzungs‐ID,de-DE
+"Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+MinecraftのセッションID,Minecraft‐Sitzungs‐ID,de-DE
+Minecraft会话ID,Minecraft‐Sitzungs‐ID,de-DE
+"Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+"Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+"Misurando il tempo necessario a eseguire le fasi di avvio, quest'evento può aiutarci a capire dove c'è bisogno di migliorie.","Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+Modalità di gioco,Spielmodus,de-DE
+Mode de jeu,Spielmodus,de-DE
+Modifiche del client,Client modifiziert,de-DE
+Modifiche del server,Server modifiziert,de-DE
+Modlanmış İstemci,Client modifiziert,de-DE
+Modlanmış Sunucu,Server modifiziert,de-DE
+Modo de jogo,Spielmodus,de-DE
+Modo de juego,Spielmodus,de-DE
+Modが導入されたクライアント,Client modifiziert,de-DE
+Modが導入されたサーバー,Server modifiziert,de-DE
+Monde chargé,Welt geladen,de-DE
+Monde déchargé,Welt entladen,de-DE
+Mondo caricato,Welt geladen,de-DE
+Mondo scaricato,Welt entladen,de-DE
+Mostra i miei dati,Meine Daten einsehen,de-DE
+Motivo de error en la creación del backend,Backend‐Initialisierungsfehler: Grund,de-DE
+Motivo dell'errore nella creazione della libreria,Backend‐Initialisierungsfehler: Grund,de-DE
+Motivo do erro ao criar o backend,Backend‐Initialisierungsfehler: Grund,de-DE
+Muestras de fotogramas por segundo (FPS),Datenwerte zur Bildwiederholrate (FPS),de-DE
+Muestras de tiempo de renderizado,Datenwerte zur Renderzeit,de-DE
+Mundo cargado,Welt geladen,de-DE
+Mundo Carregado,Welt geladen,de-DE
+Mundo descargado,Welt entladen,de-DE
+Mundo Descarregado,Welt entladen,de-DE
+Mundo nuevo,Neue Welt,de-DE
+Máy chủ đã sửa đổi,Server modifiziert,de-DE
+Máy khách đã sửa đổi,Client modifiziert,de-DE
+Mémoire dédiée (Ko),Zugewiesener Arbeitsspeicher (KB),de-DE
+Mémoire vive utilisée (RAM),Verwendeter Arbeitsspeicher,de-DE
+Métricas de desempenho,Leistungsmetriken,de-DE
+Mẫu thời gian kết xuất,Datenwerte zur Renderzeit,de-DE
+Mẫu tốc độ khung hình (FPS),Datenwerte zur Bildwiederholrate (FPS),de-DE
+New World,Neue Welt,de-DE
+Nom du backend,Name der Schnittstelle,de-DE
+Nom du Launcher,Launcher‐Name,de-DE
+Nombre d'échantillons,Anzahl der Datenwerte,de-DE
+Nombre del backend,Name der Schnittstelle,de-DE
+Nombre del lanzador,Launcher‐Name,de-DE
+Nome del launcher,Launcher‐Name,de-DE
+Nome del minigioco o contenuto di Realms,Realms‐Weltinhalt (Name des Minispiels),de-DE
+Nome della libreria grafica,Name der Schnittstelle,de-DE
+Nome do backend,Name der Schnittstelle,de-DE
+Nome do launcher,Launcher‐Name,de-DE
+Nouveau monde ?,Neue Welt,de-DE
+Novo mundo,Neue Welt,de-DE
+Numero di campioni,Anzahl der Datenwerte,de-DE
+Nuovo mondo,Neue Welt,de-DE
+Número de muestras,Anzahl der Datenwerte,de-DE
+Nền tảng,Plattform,de-DE
+Nội dung bản đồ Realms (tên trò chơi nhỏ),Realms‐Weltinhalt (Name des Minispiels),de-DE
+Olay Tarih Bilgisi (UTC),Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+Operating System,Betriebssystem,de-DE
+Opt-In,Erforderliches/optionales Ereignis,de-DE
+Orario dell'evento [UTC],Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+Oyun Modu,Spielmodus,de-DE
+Oyun Süresi (Birim Zaman),Spielzeit (Ticks),de-DE
+Oyun Sürümü,Spielversion,de-DE
+Oyun Yükleme Süreleri,Spielladezeiten,de-DE
+"Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+P2P 連線,Direktverbindung,de-DE
+P2P接続,Direktverbindung,de-DE
+Participação,Erforderliches/optionales Ereignis,de-DE
+Peer-to-peer Bağlantı,Direktverbindung,de-DE
+Peer-to-peer Connection,Direktverbindung,de-DE
+Pencere Açılmadan Önceki Süre (Milisaniye),"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+"Per noi è importante capire il tempo necessario per entrare in un mondo e come questo dato può cambiare. Ad esempio, quando aggiungiamo nuove funzionalità o apportiamo modifiche tecniche significative, ci serve sapere in che modo ciò incide sui tempi di caricamento.","Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+Percorso dello stabilimento di connettività interattiva (SCI),Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+Performance Metrics,Leistungsmetriken,de-DE
+Performans Ölçümleri,Leistungsmetriken,de-DE
+Permito enviar mis datos de telemetría opcionales,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+Phase de l'échec,Fehlerphase,de-DE
+Phiên bản trò chơi,Spielversion,de-DE
+Piattaforma,Plattform,de-DE
+Plataforma,Plattform,de-DE
+Plateforme,Plattform,de-DE
+Platform,Plattform,de-DE
+Privacy Statement,Datenschutzerklärung,de-DE
+Progreso realizado,Fortschritt erzielt,de-DE
+Progresso compiuto,Fortschritt erzielt,de-DE
+Progressos feitos,Fortschritt erzielt,de-DE
+Progrès réalisés,Fortschritt erzielt,de-DE
+"Quest'evento viene usato insieme a «Mondo caricato» per calcolare la durata della sessione del mondo. La durata (in secondi e in tick) viene misurata al termine della sessione di un mondo, cioè quando si torna al menù principale o ci si disconnette da un server.","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+"Questo evento ci aiuta a capire l'affidabilità e le prestazioni delle connessioni a rete paritaria tra giocatori. Registra l'esito della connessione, il tipo di candidato usato per lo stabilimento di connettività interattiva (SCI, o ICE in inglese, il protocollo che usiamo per le connessioni a rete paritaria) e il tempo richiesto per stabilire la connessione.","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+Questo evento ci comunica le capacità del dispositivo grafico in uso durante la partita.,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+Raccolta dei dati di telemetria,Telemetrie‐Datenerhebung,de-DE
+Raison de l'échec de la création du backend,Backend‐Initialisierungsfehler: Grund,de-DE
+RAM ที่ใช้,Verwendeter Arbeitsspeicher,de-DE
+Realms Harita İçeriği (Mini Oyun Adı),Realms‐Weltinhalt (Name des Minispiels),de-DE
+Realms Map Content (Minigame Name),Realms‐Weltinhalt (Name des Minispiels),de-DE
+Realms 地圖內容（小遊戲名稱）,Realms‐Weltinhalt (Name des Minispiels),de-DE
+Realms 맵 콘텐츠 (미니게임 이름),Realms‐Weltinhalt (Name des Minispiels),de-DE
+Realmsのマップコンテンツ（ミニゲームの名前）,Realms‐Weltinhalt (Name des Minispiels),de-DE
+Realm地图内容（小游戏名称）,Realms‐Weltinhalt (Name des Minispiels),de-DE
+Recolección de datos de telemetría,Telemetrie‐Datenerhebung,de-DE
+Remote Candidate Type,Externer Kandidatentyp,de-DE
+Render Distance,Sichtweite,de-DE
+Render Time Samples,Datenwerte zur Renderzeit,de-DE
+Ruta de tipo de conectividad interactiva (ICE),Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+"Saber como os jogadores jogam Minecraft (como o modo de jogo, modificações de cliente ou servidor e a versão do jogo) nos permite melhorar as áreas mais interessantes aos jogadores.
+O evento Mundo Carregado é sincronizado com o Mundo Descarregado para calcular a duração da sessão de jogo.","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+"Saber cómo juegan los jugadores a Minecraft (qué modo de juego, cliente o servidor modificado y versión del juego usan) nos ayuda a mejorar los aspectos que más le importan a los jugadores.
+El evento «Mundo cargado» está unido al de «Mundo descargado» para calcular cuánto ha durado la sesión de juego.","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+Sample Count,Anzahl der Datenwerte,de-DE
+Sapere come i giocatori giocano a Minecraft (per esempio la modalità e la versione di gioco o client e server modificati) ci consente di focalizzare gli aggiornamenti del gioco al fine di migliorare le aree a cui i giocatori tengono di più. L'evento «Mondo caricato» è usato insieme a «Mondo scaricato» per calcolare la durata delle sessioni di gioco.,"Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+Server Modded,Server modifiziert,de-DE
+Server Session ID,Server‐Sitzungs‐ID,de-DE
+Server Type,Servertyp,de-DE
+Serveur moddé ?,Server modifiziert,de-DE
+Servidor modificado,Server modifiziert,de-DE
+Signaling Connection Time (Milliseconds),Signalaufbauzeit (Millisekunden),de-DE
+Sistema operacional,Betriebssystem,de-DE
+Sistema operativo,Betriebssystem,de-DE
+Sunucu Oturum Kimliği,Server‐Sitzungs‐ID,de-DE
+Sunucu Türü,Servertyp,de-DE
+Système d'exploitation,Betriebssystem,de-DE
+Số liệu hiệu suất,Leistungsmetriken,de-DE
+Số lượng mẫu,Anzahl der Datenwerte,de-DE
+Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+"Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+Telemetry Data Collection,Telemetrie‐Datenerhebung,de-DE
+Tempi di caricamento del gioco,Spielladezeiten,de-DE
+Tempo antes da abertura da janela (milissegundos),"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+Tempo dal caricamento del mondo [s],Zeit seit dem Laden (Sekunden),de-DE
+Tempo dal caricamento del mondo [t],Zeit seit dem Laden (Ticks),de-DE
+Tempo de carregamento de mundos,Weltladezeiten,de-DE
+Tempo de carregamento do mundo (milissegundos),Weltladezeit (Millisekunden),de-DE
+Tempo de carregamento total (milissegundos),Gesamte Ladezeit (Millisekunden),de-DE
+Tempo de conexão (milissegundos) do Interactive Connectivity Establishment (ICE),Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+Tempo de conexão da sinalização (milissegundos),Signalaufbauzeit (Millisekunden),de-DE
+Tempo de conexão total (milissegundos),Gesamte Verbindungszeit (Millisekunden),de-DE
+Tempo de inicialização (milissegundos),Initialisierungszeit (Millisekunden),de-DE
+Tempo de jogo (tiques),Spielzeit (Ticks),de-DE
+Tempo desde carregamento (tiques),Zeit seit dem Laden (Ticks),de-DE
+Tempo desde o carregamento (segundos),Zeit seit dem Laden (Sekunden),de-DE
+Tempo di avvio [ms],Initialisierungszeit (Millisekunden),de-DE
+Tempo di caricamento dei mondi,Weltladezeiten,de-DE
+Tempo di caricamento del mondo [ms],Weltladezeit (Millisekunden),de-DE
+Tempo di connessione dello SCI [ms],Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+Tempo di connessione di segnalamento [ms],Signalaufbauzeit (Millisekunden),de-DE
+Tempo di gioco [t],Spielzeit (Ticks),de-DE
+Tempo na tela de carregamento (milissegundos),Zeit im Ladebildschirm (Millisekunden),de-DE
+Tempo nella schermata di caricamento [ms],Zeit im Ladebildschirm (Millisekunden),de-DE
+Tempo prima dell'apertura della finestra [ms],"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+Tempo totale di caricamento [ms],Gesamte Ladezeit (Millisekunden),de-DE
+Tempo totale di connessione [ms],Gesamte Verbindungszeit (Millisekunden),de-DE
+Tempos de carregamento do jogo,Spielladezeiten,de-DE
+Temps avant l'ouverture de la fenêtre (en millisecondes),"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+Temps de chargement des mondes,Weltladezeiten,de-DE
+Temps de chargement du jeu,Spielladezeiten,de-DE
+Temps de chargement du monde (en millisecondes),Weltladezeit (Millisekunden),de-DE
+Temps de connexion de l'établissement de connectivité interactive (ICE) (en millisecondes),Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+Temps de connexion de la signalisation (en millisecondes),Signalaufbauzeit (Millisekunden),de-DE
+Temps de démarrage (en millisecondes),Initialisierungszeit (Millisekunden),de-DE
+Temps de l'écran de chargement (en millisecondes),Zeit im Ladebildschirm (Millisekunden),de-DE
+Temps depuis le chargement (en secondes),Zeit seit dem Laden (Sekunden),de-DE
+Temps depuis le chargement (en ticks),Zeit seit dem Laden (Ticks),de-DE
+Temps en jeu (en ticks),Spielzeit (Ticks),de-DE
+Temps total de chargement (en millisecondes),Gesamte Ladezeit (Millisekunden),de-DE
+Temps total de connexion (en millisecondes),Gesamte Verbindungszeit (Millisekunden),de-DE
+This event can help us figure out where startup performance improvements are needed by measuring the execution times of the startup phases.,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+"This event helps us understand the reliability and performance of peer-to-peer connections between players. It records whether the connection was successful, the type of Interactive Connectivity Establishment (ICE, the protocol we use to establish peer-to-peer connections) candidate used, and how long it took to establish the connection.","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+This event informs us of the capabilities of the graphics device used to play the game.,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+"This event is paired with the World Loaded event to calculate how long the world session has lasted.
+The duration (in seconds and ticks) is measured when a world session has ended (quitting to title, disconnecting from a server).","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+Thu thập dữ liệu đo từ xa,Telemetrie‐Datenerhebung,de-DE
+Thông tin lỗi tạo Backend,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+Thế giới chưa nạp,Welt entladen,de-DE
+Thế giới mới,Neue Welt,de-DE
+Thế giới đã nạp,Welt geladen,de-DE
+Thời gian khởi tạo trò chơi (miligiây),Initialisierungszeit (Millisekunden),de-DE
+Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+Thời gian kết nối tín hiệu (Miligiây),Signalaufbauzeit (Millisekunden),de-DE
+Thời gian nạp thế giới,Weltladezeiten,de-DE
+Thời gian nạp thế giới (Miligiây),Weltladezeit (Millisekunden),de-DE
+Thời gian nạp trò chơi,Spielladezeiten,de-DE
+Thời gian trong màn hình nạp (miligiây),Zeit im Ladebildschirm (Millisekunden),de-DE
+Thời gian trong trò chơi (nhịp),Spielzeit (Ticks),de-DE
+Thời gian trước khi cửa sổ mở (miligiây),"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+Thời gian từ khi nạp (Giây),Zeit seit dem Laden (Sekunden),de-DE
+Thời gian từ khi nạp (Nhịp),Zeit seit dem Laden (Ticks),de-DE
+Tiempo antes de que la ventana se abra (milisegundos),"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+Tiempo de carga del mundo (en milisegundos),Weltladezeit (Millisekunden),de-DE
+Tiempo de conexión de conectividad interactiva (ICE) (ms),Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+Tiempo de conexión de señalización (ms),Signalaufbauzeit (Millisekunden),de-DE
+Tiempo de conexión total (ms),Gesamte Verbindungszeit (Millisekunden),de-DE
+Tiempo de inicio (milisegundos),Initialisierungszeit (Millisekunden),de-DE
+Tiempo de juego (tics),Spielzeit (Ticks),de-DE
+Tiempo desde que se cargó (en segundos),Zeit seit dem Laden (Sekunden),de-DE
+Tiempo desde que se cargó (en tics),Zeit seit dem Laden (Ticks),de-DE
+Tiempo en pantalla de carga (milisegundos),Zeit im Ladebildschirm (Millisekunden),de-DE
+Tiempo total de carga (milisegundos),Gesamte Ladezeit (Millisekunden),de-DE
+Tiempos de carga del juego,Spielladezeiten,de-DE
+Tiempos de carga del mundo,Weltladezeiten,de-DE
+Time Before Window Opens (Milliseconds),"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+Time in Loading Screen (Milliseconds),Zeit im Ladebildschirm (Millisekunden),de-DE
+Time Since Load (Seconds),Zeit seit dem Laden (Sekunden),de-DE
+Time Since Load (Ticks),Zeit seit dem Laden (Ticks),de-DE
+Tipo de candidato local,Interner Kandidatentyp,de-DE
+Tipo de candidato remoto,Externer Kandidatentyp,de-DE
+Tipo de servidor,Servertyp,de-DE
+Tipo di candidato locale,Interner Kandidatentyp,de-DE
+Tipo di candidato remoto,Externer Kandidatentyp,de-DE
+Tipo di server,Servertyp,de-DE
+Tiến trình đã làm,Fortschritt erzielt,de-DE
+Toplam Bağlanma Süresi (Milisaniye),Gesamte Verbindungszeit (Millisekunden),de-DE
+Toplam Yükleme Süresi (Milisaniye),Gesamte Ladezeit (Millisekunden),de-DE
+Total Connection Time (Milliseconds),Gesamte Verbindungszeit (Millisekunden),de-DE
+Total Load Time (Milliseconds),Gesamte Ladezeit (Millisekunden),de-DE
+Tuyên bố về quyền riêng tư,Datenschutzerklärung,de-DE
+Type de candidat distant,Externer Kandidatentyp,de-DE
+Type de candidat local,Interner Kandidatentyp,de-DE
+Type de serveur,Servertyp,de-DE
+Tên Backend,Name der Schnittstelle,de-DE
+Tên trình khởi động,Launcher‐Name,de-DE
+Tính năng bị thiếu gây lỗi tạo Backend,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+Tương thích đồ họa,Grafikfunktionen,de-DE
+Tổng thời gian kết nối (Miligiây),Gesamte Verbindungszeit (Millisekunden),de-DE
+Tổng thời gian nạp (Miligiây),Gesamte Ladezeit (Millisekunden),de-DE
+Understanding the context behind receiving an advancement can help us better understand and improve the progression of the game.,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+Used Random Access Memory,Verwendeter Arbeitsspeicher,de-DE
+User ID,Benutzer‐ID,de-DE
+Utilizzo della memoria (RAM),Verwendeter Arbeitsspeicher,de-DE
+Uzak Aday Tipi,Externer Kandidatentyp,de-DE
+Ver meus dados,Meine Daten einsehen,de-DE
+Ver mis datos,Meine Daten einsehen,de-DE
+Verilerimi Görüntüle,Meine Daten einsehen,de-DE
+Version du jeu,Spielversion,de-DE
+Versione del gioco,Spielversion,de-DE
+Versión del juego,Spielversion,de-DE
+Versão do jogo,Spielversion,de-DE
+View My Data,Meine Daten einsehen,de-DE
+Visibilità,Sichtweite,de-DE
+"Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+"Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+"Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+Voir mes données,Meine Daten einsehen,de-DE
+World Load Time (Milliseconds),Weltladezeit (Millisekunden),de-DE
+World Load Times,Weltladezeiten,de-DE
+World Loaded,Welt geladen,de-DE
+World Session ID,Welt‐Sitzungs‐ID,de-DE
+World Unloaded,Welt entladen,de-DE
+Xem dữ liệu của tôi,Meine Daten einsehen,de-DE
+Yeni Dünya,Neue Welt,de-DE
+Yerel Aday Tipi,Interner Kandidatentyp,de-DE
+Yükleme Ekranında Geçen Süre (Milisaniye),Zeit im Ladebildschirm (Millisekunden),de-DE
+Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),Zeit seit dem Laden (Ticks),de-DE
+Yüklemeden Bu Yana Geçen Zaman (Saniye),Zeit seit dem Laden (Sekunden),de-DE
+"É importante entendermos o tempo necessário para entrar num mundo e como isso muda ao longo do tempo. Por exemplo, ao adicionar novos recursos ou fazer mudanças técnicas maiores, precisamos observar o impacto nos tempos de carregamento.","Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+Échantillons d'images par seconde (FPS),Datenwerte zur Bildwiederholrate (FPS),de-DE
+Échantillons du temps de rendu,Datenwerte zur Renderzeit,de-DE
+Ölçüm Verileri Toplama,Telemetrie‐Datenerhebung,de-DE
+Önyükleme Süresi (Milisaniye),Initialisierungszeit (Millisekunden),de-DE
+Örnek Sayısı,Anzahl der Datenwerte,de-DE
+"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.","Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+Đường dẫn thiết lập kết nối tương tác (ICE),Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+"В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+Величина выборки,Anzahl der Datenwerte,de-DE
+Версия игры,Spielversion,de-DE
+Включённые данные,Enthaltene Daten,de-DE
+Возможности графического устройства,Grafikfunktionen,de-DE
+Временная метка (UTC),Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+Время до открытия окна (миллисекунды),"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+Время загрузки игры,Spielladezeiten,de-DE
+Время загрузки мира,Weltladezeiten,de-DE
+Время загрузки мира (миллисекунды),Weltladezeit (Millisekunden),de-DE
+Время игры (такты),Spielzeit (Ticks),de-DE
+Время инициализации (миллисекунды),Initialisierungszeit (Millisekunden),de-DE
+Время на экране загрузки (миллисекунды),Zeit im Ladebildschirm (Millisekunden),de-DE
+Время с загрузки (секунды),Zeit seit dem Laden (Sekunden),de-DE
+Время с загрузки (такты),Zeit seit dem Laden (Ticks),de-DE
+Время установления интерактивного соединения (ICE) (миллисекунды),Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+Время установления соединения (миллисекунды),Signalaufbauzeit (Millisekunden),de-DE
+Выборка времени кадра,Datenwerte zur Renderzeit,de-DE
+Выборка частоты кадров (FPS),Datenwerte zur Bildwiederholrate (FPS),de-DE
+Выгрузка мира,Welt entladen,de-DE
+Выделенная память (Кбайт),Zugewiesener Arbeitsspeicher (KB),de-DE
+Дальность прорисовки,Sichtweite,de-DE
+Загрузка мира,Welt geladen,de-DE
+Заявление о конфиденциальности,Datenschutzerklärung,de-DE
+"Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+"Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+Идентификатор достижения,Fortschritts‐ID,de-DE
+Идентификатор клиента,Client‐ID,de-DE
+Идентификатор пользователя,Benutzer‐ID,de-DE
+Идентификатор сессии Minecraft,Minecraft‐Sitzungs‐ID,de-DE
+Идентификатор сессии мира,Welt‐Sitzungs‐ID,de-DE
+Идентификатор сессии сервера,Server‐Sitzungs‐ID,de-DE
+Использование ОЗУ,Verwendeter Arbeitsspeicher,de-DE
+Карта Realms (название мини-игры),Realms‐Weltinhalt (Name des Minispiels),de-DE
+Маршрут установления интерактивного соединения (ICE),Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+Модифицированность клиента,Client modifiziert,de-DE
+Модифицированность сервера,Server modifiziert,de-DE
+Мои данные,Meine Daten einsehen,de-DE
+Название графического API,Name der Schnittstelle,de-DE
+Название лаунчера,Launcher‐Name,de-DE
+"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.","Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+Новое достижение,Fortschritt erzielt,de-DE
+Новый мир,Neue Welt,de-DE
+Общее время загрузки (миллисекунды),Gesamte Ladezeit (Millisekunden),de-DE
+Общее время подключения (миллисекунды),Gesamte Verbindungszeit (Millisekunden),de-DE
+Одноранговое соединение,Direktverbindung,de-DE
+Операционная система,Betriebssystem,de-DE
+Оставить отзыв,Feedback geben,de-DE
+Ошибка инициализации графического API: отсутствующие возможности,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+Ошибка инициализации графического API: подробности,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+Ошибка инициализации графического API: причина,Backend‐Initialisierungsfehler: Grund,de-DE
+Платформа,Plattform,de-DE
+Показатели производительности,Leistungsmetriken,de-DE
+Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+Режим игры,Spielmodus,de-DE
+Сбор данных телеметрии,Telemetrie‐Datenerhebung,de-DE
+"Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+Согласие на отправку,Erforderliches/optionales Ereignis,de-DE
+Тип локального кандидата,Interner Kandidatentyp,de-DE
+Тип сервера,Servertyp,de-DE
+Тип удалённого кандидата,Externer Kandidatentyp,de-DE
+Успешность подключения,Verbindungserfolg,de-DE
+Этап отказа,Fehlerphase,de-DE
+"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.","Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+Это событие сообщает о возможностях используемого графического устройства.,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+Я даю согласие на отправку дополнительных телеметрических данных,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+กลุ่มตัวอย่างอัตราเฟรม (FPS),Datenwerte zur Bildwiederholrate (FPS),de-DE
+กลุ่มตัวอย่างเวลาเร็นเดอร์,Datenwerte zur Renderzeit,de-DE
+"การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+การทำความก้าวหน้า,Fortschritt erzielt,de-DE
+การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,Telemetrie‐Datenerhebung,de-DE
+"การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+"การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+การเชื่อมต่อสำเร็จ,Verbindungserfolg,de-DE
+การเชื่อมต่อแบบเพียร์ทูเพียร์,Direktverbindung,de-DE
+ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+ข้อมูลที่รวมอยู่ด้วย,Enthaltene Daten,de-DE
+ความยินยอมเข้าร่วม,Erforderliches/optionales Ereignis,de-DE
+ความสามารถของกราฟิก,Grafikfunktionen,de-DE
+ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+คำชี้แจงสิทธิ์ส่วนบุคคล,Datenschutzerklärung,de-DE
+จำนวนกลุ่มตัวอย่าง,Anzahl der Datenwerte,de-DE
+ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+ชื่อลันเชอร์,Launcher‐Name,de-DE
+ชื่อแบ็กเอนด์,Name der Schnittstelle,de-DE
+ดูข้อมูลของฉัน,Meine Daten einsehen,de-DE
+ประทับเวลาเหตุการณ์ (UTC),Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+ประเภทตัวเลือกท้องถิ่น,Interner Kandidatentyp,de-DE
+ประเภทตัวเลือกระยะไกล,Externer Kandidatentyp,de-DE
+ประเภทเซิร์ฟเวอร์,Servertyp,de-DE
+ระบบปฏิบัติการ,Betriebssystem,de-DE
+ระยะการมองเห็น,Sichtweite,de-DE
+ระยะการล้มเหลว,Fehlerphase,de-DE
+หน่วยความจำเฉพาะ (kB),Zugewiesener Arbeitsspeicher (KB),de-DE
+เซิร์ฟเวอร์มีการดัดแปร,Server modifiziert,de-DE
+เนื้อหาแมป Realms (ชื่อมินิเกม),Realms‐Weltinhalt (Name des Minispiels),de-DE
+เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+เมตริกประสิทธิภาพ,Leistungsmetriken,de-DE
+เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+เวลาตั้งแต่โหลด (ติ๊ก),Zeit seit dem Laden (Ticks),de-DE
+เวลาตั้งแต่โหลด (วินาที),Zeit seit dem Laden (Sekunden),de-DE
+เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),Gesamte Verbindungszeit (Millisekunden),de-DE
+เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),Signalaufbauzeit (Millisekunden),de-DE
+เวลาเกม (ติ๊ก),Spielzeit (Ticks),de-DE
+เวลาเริ่มต้นระบบ (มิลลิวินาที),Initialisierungszeit (Millisekunden),de-DE
+เวลาโหลดทั้งหมด (มิลลิวินาที),Gesamte Ladezeit (Millisekunden),de-DE
+เวลาโหลดเกม,Spielladezeiten,de-DE
+เวลาโหลดโลก,Weltladezeiten,de-DE
+เวลาโหลดโลก (มิลลิวินาที),Weltladezeit (Millisekunden),de-DE
+เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),Zeit im Ladebildschirm (Millisekunden),de-DE
+เวอร์ชันเกม,Spielversion,de-DE
+เส้นทาง Interactive Connectivity Establishment (ICE),Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+"เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,Backend‐Initialisierungsfehler: Grund,de-DE
+แพลตฟอร์ม,Plattform,de-DE
+โลกโหลด,Welt geladen,de-DE
+โลกใหม่,Neue Welt,de-DE
+โลกไม่โหลด,Welt entladen,de-DE
+โหมดเกม,Spielmodus,de-DE
+ให้ข้อเสนอแนะ,Feedback geben,de-DE
+ไคลเอนต์มีการดัดแปร,Client modifiziert,de-DE
+このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+"このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+"これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+イベントの時刻（UTC）,Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+ウィンドウが開くまでの時間（ミリ秒）,"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+オプトイン,Erforderliches/optionales Ereignis,de-DE
+オペレーティングシステム,Betriebssystem,de-DE
+クライアントID,Client‐ID,de-DE
+グラフィック性能,Grafikfunktionen,de-DE
+ゲームのバージョン,Spielversion,de-DE
+ゲームの読み込み時間,Spielladezeiten,de-DE
+ゲームモード,Spielmodus,de-DE
+ゲーム内時間（ティック）,Spielzeit (Ticks),de-DE
+サンプリング数,Anzahl der Datenwerte,de-DE
+サーバーのセッションID,Server‐Sitzungs‐ID,de-DE
+サーバーの種類,Servertyp,de-DE
+シグナリング接続時間（ミリ秒）,Signalaufbauzeit (Millisekunden),de-DE
+データの遠隔収集,Telemetrie‐Datenerhebung,de-DE
+バックエンド作成失敗の原因,Backend‐Initialisierungsfehler: Grund,de-DE
+バックエンド作成失敗時のメッセージ,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+バックエンド作成失敗時の不足していた性能情報,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+バックエンド名,Name der Schnittstelle,de-DE
+パフォーマンス測定,Leistungsmetriken,de-DE
+フィードバックを送信,Feedback geben,de-DE
+フレームレートのサンプル（FPS）,Datenwerte zur Bildwiederholrate (FPS),de-DE
+プライバシーに関する声明,Datenschutzerklärung,de-DE
+プラットフォーム,Plattform,de-DE
+"プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+ユーザーID,Benutzer‐ID,de-DE
+ランチャー名,Launcher‐Name,de-DE
+リモート候補タイプ,Externer Kandidatentyp,de-DE
+ローカル候補タイプ,Interner Kandidatentyp,de-DE
+ワールドのセッションID,Welt‐Sitzungs‐ID,de-DE
+ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+ワールドの読み込み時間（ミリ秒）,Weltladezeit (Millisekunden),de-DE
+ワールドアンロード,Welt entladen,de-DE
+ワールドロード,Welt geladen,de-DE
+ワールド読み込み時間,Weltladezeiten,de-DE
+专用内存（kB）,Zugewiesener Arbeitsspeicher (KB),de-DE
+世界 Session ID,Welt‐Sitzungs‐ID,de-DE
+世界会话ID,Welt‐Sitzungs‐ID,de-DE
+世界加载,Welt geladen,de-DE
+世界加载时间,Weltladezeiten,de-DE
+世界加载时间（毫秒）,Weltladezeit (Millisekunden),de-DE
+世界卸載,Welt entladen,de-DE
+世界卸载,Welt entladen,de-DE
+世界載入,Welt geladen,de-DE
+世界載入時間,Weltladezeiten,de-DE
+世界載入時間（毫秒）,Weltladezeit (Millisekunden),de-DE
+"了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+"了解Minecraft的整体性能概况，可以帮助我们针对各种机型和操作系统调整与优化游戏。 
+游戏版本信息也包含在其中，以帮助我们比较Minecraft新版本的性能概况。","Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.",de-DE
+"了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+"了解玩家玩Minecraft时的细节（例如游戏模式、客户端或服务端是否被修改，以及游戏版本）有助于我们在游戏更新时注重改进玩家最关心的部分。
+世界加载事件将同世界卸载事件一起用于计算游戏会话的持续时长。","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+了解达成进度前后发生的事情有助于我们更好了解及改进游戏流程。,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+事件时间戳（UTC）,Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+事件時間戳記（UTC）,Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+互動式連線建立 (ICE) 路徑,Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+互動式連線建立 (ICE) 連線時間（毫秒）,Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+交互式连接建立（ICE）路径,Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+交互式连接建立（ICE）连接时间（毫秒）,Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+任意の遠隔測定データを送信することに同意する,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+伺服器 Session ID,Server‐Sitzungs‐ID,de-DE
+伺服器是否為原版,Server modifiziert,de-DE
+伺服器類型,Servertyp,de-DE
+作業系統,Betriebssystem,de-DE
+使用されたランダムアクセスメモリ,Verwendeter Arbeitsspeicher,de-DE
+使用的記憶體,Verwendeter Arbeitsspeicher,de-DE
+使用者 ID,Benutzer‐ID,de-DE
+信令连接时间（毫秒）,Signalaufbauzeit (Millisekunden),de-DE
+信令連線時間（毫秒）,Signalaufbauzeit (Millisekunden),de-DE
+加载屏幕显示时间（毫秒）,Zeit im Ladebildschirm (Millisekunden),de-DE
+包含的数据,Enthaltene Daten,de-DE
+包含的資料,Enthaltene Daten,de-DE
+可选择加入,Erforderliches/optionales Ereignis,de-DE
+可選擇加入,Erforderliches/optionales Ereignis,de-DE
+后端创建失败原因,Backend‐Initialisierungsfehler: Grund,de-DE
+后端创建失败消息,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+后端创建失败缺失功能,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+后端名称,Name der Schnittstelle,de-DE
+含まれるデータ,Enthaltene Daten,de-DE
+启动器名称,Launcher‐Name,de-DE
+启动引导时间（毫秒）,Initialisierungszeit (Millisekunden),de-DE
+啟動器名稱,Launcher‐Name,de-DE
+啟動引導時間（毫秒）,Initialisierungszeit (Millisekunden),de-DE
+图形功能,Grafikfunktionen,de-DE
+圖形功能,Grafikfunktionen,de-DE
+失敗の起きた段階,Fehlerphase,de-DE
+失敗階段,Fehlerphase,de-DE
+失败阶段,Fehlerphase,de-DE
+客户端ID,Client‐ID,de-DE
+客户端是否被修改,Client modifiziert,de-DE
+对我们而言，了解加入世界所需的时长，以及这一时长随着时间推移会如何变化是很重要的。比如，当我们加入新功能或进行较大的技术更改时，我们需要知道这对加载时间有何影响。,"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+専用メモリ（kB）,Zugewiesener Arbeitsspeicher (KB),de-DE
+專屬記憶體（kB）,Zugewiesener Arbeitsspeicher (KB),de-DE
+對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+已使用的内存,Verwendeter Arbeitsspeicher,de-DE
+帧率样本（FPS）,Datenwerte zur Bildwiederholrate (FPS),de-DE
+平台,Plattform,de-DE
+後端名稱,Name der Schnittstelle,de-DE
+後端建立失敗原因,Backend‐Initialisierungsfehler: Grund,de-DE
+後端建立失敗缺少功能,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+後端建立失敗訊息,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+性能指标,Leistungsmetriken,de-DE
+总计加载时间（毫秒）,Gesamte Ladezeit (Millisekunden),de-DE
+总计连接时间（毫秒）,Gesamte Verbindungszeit (Millisekunden),de-DE
+我同意傳送可選的遙測資料,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+我同意发送可选的遥测数据,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+打开我的数据,Meine Daten einsehen,de-DE
+接続の成功の是非,Verbindungserfolg,de-DE
+描画所要時間のサンプル,Datenwerte zur Renderzeit,de-DE
+描画距離,Sichtweite,de-DE
+提供反馈,Feedback geben,de-DE
+提供意見回饋,Feedback geben,de-DE
+操作系统,Betriebssystem,de-DE
+"收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+"收集这些数据可以让我们了解与玩家有关的实际情况，以便帮助我们改进Minecraft。
+你也可以发送其他反馈来帮助我们持续改进Minecraft。","Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+效能指標,Leistungsmetriken,de-DE
+新規ワールド,Neue Welt,de-DE
+是否为新的世界,Neue Welt,de-DE
+是否為新的世界,Neue Welt,de-DE
+服务器会话ID,Server‐Sitzungs‐ID,de-DE
+服务器类型,Servertyp,de-DE
+服务端是否被修改,Server modifiziert,de-DE
+本地候选类型,Interner Kandidatentyp,de-DE
+本機候選類型,Interner Kandidatentyp,de-DE
+样本数,Anzahl der Datenwerte,de-DE
+樣本數量,Anzahl der Datenwerte,de-DE
+"此事件与世界加载事件用于计算世界会话的持续时间。
+持续时间（以秒和刻为单位）在世界会话结束时（退回到标题屏幕，或从服务器断开连接）测量。","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+此事件会测量游戏启动各个阶段的时长以帮助我们找到游戏启动的性能优化点。,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+此事件告知我们运行游戏所使用的图形设备的功能信息。,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+此事件有助于我们了解玩家之间点对点连接的可靠性和性能情况。事件将记录连接是否成功、所使用的交互式连接建立（ICE，即我们用于建立点对点连接的协议）候选类型，以及建立连接所花费的时间。,"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+"此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+渲染用时样本,Datenwerte zur Renderzeit,de-DE
+渲染距离,Sichtweite,de-DE
+游戏加载时间,Spielladezeiten,de-DE
+游戏时间（刻）,Spielzeit (Ticks),de-DE
+游戏模式,Spielmodus,de-DE
+游戏版本,Spielversion,de-DE
+点对点连接,Direktverbindung,de-DE
+用戶端 ID,Client‐ID,de-DE
+用戶端是否為原版,Client modifiziert,de-DE
+用户ID,Benutzer‐ID,de-DE
+畫面更新率樣本（FPS）,Datenwerte zur Bildwiederholrate (FPS),de-DE
+窗口开启前时间（毫秒）,"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+総接続時間（ミリ秒）,Gesamte Verbindungszeit (Millisekunden),de-DE
+総読み込み時間（ミリ秒）,Gesamte Ladezeit (Millisekunden),de-DE
+總載入時間（毫秒）,Gesamte Ladezeit (Millisekunden),de-DE
+總連線時間（毫秒）,Gesamte Verbindungszeit (Millisekunden),de-DE
+繪製時間樣本,Datenwerte zur Renderzeit,de-DE
+自分のデータを確認する,Meine Daten einsehen,de-DE
+自加载后的时间（刻）,Zeit seit dem Laden (Ticks),de-DE
+自加载后的时间（秒）,Zeit seit dem Laden (Sekunden),de-DE
+自載入後的時間（刻）,Zeit seit dem Laden (Ticks),de-DE
+自載入後的時間（秒）,Zeit seit dem Laden (Sekunden),de-DE
+視窗開啟前時間（毫秒）,"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+読み込みからの時間（ティック）,Zeit seit dem Laden (Ticks),de-DE
+読み込みからの時間（秒）,Zeit seit dem Laden (Sekunden),de-DE
+読み込み画面の所要時間（ミリ秒）,Zeit im Ladebildschirm (Millisekunden),de-DE
+起動所要時間（ミリ秒）,Initialisierungszeit (Millisekunden),de-DE
+載入畫面顯示時間（毫秒）,Zeit im Ladebildschirm (Millisekunden),de-DE
+达成进度,Fortschritt erzielt,de-DE
+进度ID,Fortschritts‐ID,de-DE
+远程候选类型,Externer Kandidatentyp,de-DE
+连接成功,Verbindungserfolg,de-DE
+這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+連線成功,Verbindungserfolg,de-DE
+進度 ID,Fortschritts‐ID,de-DE
+進捗ID,Fortschritts‐ID,de-DE
+進捗の達成に関するデータ,Fortschritt erzielt,de-DE
+進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+遊戲時間（刻）,Spielzeit (Ticks),de-DE
+遊戲模式,Spielmodus,de-DE
+遊戲版本,Spielversion,de-DE
+遊戲載入時間,Spielladezeiten,de-DE
+達成進度,Fortschritt erzielt,de-DE
+遙測資料收集,Telemetrie‐Datenerhebung,de-DE
+遠端候選類型,Externer Kandidatentyp,de-DE
+遥测数据收集,Telemetrie‐Datenerhebung,de-DE
+開啟我的統計資料,Meine Daten einsehen,de-DE
+隐私声明,Datenschutzerklärung,de-DE
+隱私權聲明,Datenschutzerklärung,de-DE
+顯示距離,Sichtweite,de-DE
+개인 정보 처리 방침,Datenschutzerklärung,de-DE
+게임 모드,Spielmodus,de-DE
+게임 버전,Spielversion,de-DE
+게임 시간 (틱),Spielzeit (Ticks),de-DE
+게임을 불러오는 데 걸린 시간,Spielladezeiten,de-DE
+그래픽 기능,Grafikfunktionen,de-DE
+내 데이터 보기,Meine Daten einsehen,de-DE
+대화형 연결 구축 (ICE) 경로,Route des interaktiven Verbindungsaufbaus (ICE),de-DE
+대화형 연결 구축 (ICE) 연결 시간 (밀리초),Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),de-DE
+랜덤 액세스 메모리 사용량,Verwendeter Arbeitsspeicher,de-DE
+런처 이름,Launcher‐Name,de-DE
+렌더 거리,Sichtweite,de-DE
+렌더 시간 표본,Datenwerte zur Renderzeit,de-DE
+로딩 화면에 있던 시간 (밀리초),Zeit im Ladebildschirm (Millisekunden),de-DE
+로컬 후보 유형,Interner Kandidatentyp,de-DE
+발전 과제 ID,Fortschritts‐ID,de-DE
+발전 과제 달성,Fortschritt erzielt,de-DE
+발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",de-DE
+백엔드 생성 실패 기능 누락,Backend‐Initialisierungsfehler: Fehlende Funktionen,de-DE
+백엔드 생성 실패 메시지,Backend‐Initialisierungsfehler: Fehlermeldung,de-DE
+백엔드 생성 실패 사유,Backend‐Initialisierungsfehler: Grund,de-DE
+백엔드 이름,Name der Schnittstelle,de-DE
+부트스트랩 시간 (밀리초),Initialisierungszeit (Millisekunden),de-DE
+사용자 ID,Benutzer‐ID,de-DE
+새로운 세계 여부,Neue Welt,de-DE
+서버 모드 여부,Server modifiziert,de-DE
+서버 세션 ID,Server‐Sitzungs‐ID,de-DE
+서버 유형,Servertyp,de-DE
+선택 수집 여부,Erforderliches/optionales Ereignis,de-DE
+선택적 원격 측정 데이터 전송에 동의합니다,Ich stimme der Übermittlung optionaler Telemetriedaten zu,de-DE
+성능 측정 결과,Leistungsmetriken,de-DE
+세계 세션 ID,Welt‐Sitzungs‐ID,de-DE
+세계를 떠날 때,Welt entladen,de-DE
+세계를 불러오는 데 걸린 시간,Weltladezeiten,de-DE
+세계를 불러오는 데 걸린 시간 (밀리초),Weltladezeit (Millisekunden),de-DE
+세계를 불러올 때,Welt geladen,de-DE
+"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.","Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",de-DE
+시그널링 연결 시간 (밀리초),Signalaufbauzeit (Millisekunden),de-DE
+실패 단계,Fehlerphase,de-DE
+실행된 시간 (초),Zeit seit dem Laden (Sekunden),de-DE
+실행된 시간 (틱),Zeit seit dem Laden (Ticks),de-DE
+연결 성공,Verbindungserfolg,de-DE
+운영 체제,Betriebssystem,de-DE
+원격 측정 데이터 수집,Telemetrie‐Datenerhebung,de-DE
+원격 후보 유형,Externer Kandidatentyp,de-DE
+이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,"Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.",de-DE
+이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",de-DE
+이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,de-DE
+"이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.","Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.",de-DE
+"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.","Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",de-DE
+이벤트 시간 기록 (UTC),Zeitpunkt des Ereignisses (koordinierte Weltzeit),de-DE
+창이 켜지기까지 걸린 시간 (밀리초),"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",de-DE
+총 접속 시간 (밀리초),Gesamte Verbindungszeit (Millisekunden),de-DE
+총합 로드 시간 (밀리초),Gesamte Ladezeit (Millisekunden),de-DE
+클라이언트 ID,Client‐ID,de-DE
+클라이언트 모드 여부,Client modifiziert,de-DE
+포함 데이터,Enthaltene Daten,de-DE
+표본 수,Anzahl der Datenwerte,de-DE
+프레임률 표본 (fps),Datenwerte zur Bildwiederholrate (FPS),de-DE
+플랫폼,Plattform,de-DE
+"플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.","Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.",de-DE
+피드백 보내기,Feedback geben,de-DE
+피어 투 피어 연결,Direktverbindung,de-DE
+할당된 메모리 (kB),Zugewiesener Arbeitsspeicher (KB),de-DE

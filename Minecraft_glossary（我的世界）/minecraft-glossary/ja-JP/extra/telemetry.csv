@@ -1,0 +1,998 @@
+﻿source,target,tgt_lng
+%s (Bắt buộc),%s（必須）,ja-JP
+%s (erforderlich),%s（必須）,ja-JP
+%s (facoltativo),%s（任意）,ja-JP
+%s (facoltativo) — disattivato,%s（任意） - 無効,ja-JP
+%s (facultatif),%s（任意）,ja-JP
+%s (facultatif) - désactivé,%s（任意） - 無効,ja-JP
+%s (Gerekli),%s（必須）,ja-JP
+%s (İsteğe Bağlı),%s（任意）,ja-JP
+%s (İsteğe Bağlı) - Devre Dışı,%s（任意） - 無効,ja-JP
+%s (Không bắt buộc),%s（任意）,ja-JP
+%s (không bắt buộc) - Đã tắt,%s（任意） - 無効,ja-JP
+%s (necesario),%s（必須）,ja-JP
+%s (necessario),%s（必須）,ja-JP
+%s (obrigatório),%s（必須）,ja-JP
+%s (opcional),%s（任意）,ja-JP
+%s (opcional) — Não,%s（任意） - 無効,ja-JP
+%s (opcional): Desactivado,%s（任意） - 無効,ja-JP
+%s (Optional),%s（任意）,ja-JP
+%s (optional),%s（任意）,ja-JP
+%s (Optional) - Disabled,%s（任意） - 無効,ja-JP
+%s (optional) – Deaktiviert,%s（任意） - 無効,ja-JP
+%s (Required),%s（必須）,ja-JP
+%s (requis),%s（必須）,ja-JP
+%s (необязательно),%s（任意）,ja-JP
+%s (необязательно) — Отключено,%s（任意） - 無効,ja-JP
+%s (обязательно),%s（必須）,ja-JP
+%s (จำเป็น),%s（必須）,ja-JP
+%s (ไม่จำเป็น),%s（任意）,ja-JP
+%s (ไม่จำเป็น) - ปิดการใช้งาน,%s（任意） - 無効,ja-JP
+%s (선택적),%s（任意）,ja-JP
+%s (선택적) - 꺼짐,%s（任意） - 無効,ja-JP
+%s (필수),%s（必須）,ja-JP
+%s（可选）,%s（任意）,ja-JP
+%s（可选，已禁用）,%s（任意） - 無効,ja-JP
+%s（可選 – 已停用）,%s（任意） - 無効,ja-JP
+%s（可選）,%s（任意）,ja-JP
+%s（必要）,%s（必須）,ja-JP
+Acconsento all'invio di dati di telemetria facoltativi,任意の遠隔測定データを送信することに同意する,ja-JP
+Aceito o envio de telemetria opcional,任意の遠隔測定データを送信することに同意する,ja-JP
+Advancement ID,進捗ID,ja-JP
+Advancement Made,進捗の達成に関するデータ,ja-JP
+Alcance visual,描画距離,ja-JP
+Amostras de taxa de quadros (FPS),フレームレートのサンプル（FPS）,ja-JP
+Amostras do tempo de renderização,描画所要時間のサンプル,ja-JP
+"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+Anzahl der Datenwerte,サンプリング数,ja-JP
+Arka Uç Adı,バックエンド名,ja-JP
+Arka Uç Oluşturma Hatası Eksik Özellikler,バックエンド作成失敗時の不足していた性能情報,ja-JP
+Arka Uç Oluşturma Hatası Mesajı,バックエンド作成失敗時のメッセージ,ja-JP
+Arka Uç Oluşturma Hatası Nedeni,バックエンド作成失敗の原因,ja-JP
+Ayrılmış Bellek (kB),専用メモリ（kB）,ja-JP
+Backend Creation Failure Message,バックエンド作成失敗時のメッセージ,ja-JP
+Backend Creation Failure Missing Capabilities,バックエンド作成失敗時の不足していた性能情報,ja-JP
+Backend Creation Failure Reason,バックエンド作成失敗の原因,ja-JP
+Backend Name,バックエンド名,ja-JP
+Backend‐Initialisierungsfehler: Fehlende Funktionen,バックエンド作成失敗時の不足していた性能情報,ja-JP
+Backend‐Initialisierungsfehler: Fehlermeldung,バックエンド作成失敗時のメッセージ,ja-JP
+Backend‐Initialisierungsfehler: Grund,バックエンド作成失敗の原因,ja-JP
+Bağlantı Başarılı,接続の成功の是非,ja-JP
+Bağlantı Süresi (Milisaniye),シグナリング接続時間（ミリ秒）,ja-JP
+Başarısızlık Aşaması,失敗の起きた段階,ja-JP
+Başlatıcı Adı,ランチャー名,ja-JP
+Benutzer‐ID,ユーザーID,ja-JP
+Betriebssystem,オペレーティングシステム,ja-JP
+"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+Bootstrap Time (Milliseconds),起動所要時間（ミリ秒）,ja-JP
+Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+"Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+"Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+Bộ nhớ chuyên dụng (kB),専用メモリ（kB）,ja-JP
+Bộ nhớ truy cập ngẫu nhiên đã sử dụng,使用されたランダムアクセスメモリ,ja-JP
+Caminho do Interactive Connectivity Establishment (ICE),Interactive Connectivity Establishment（ICE）パス,ja-JP
+Campioni del tempo di elaborazione grafica,描画所要時間のサンプル,ja-JP
+Campioni di frequenza dei fotogrammi [fps],フレームレートのサンプル（FPS）,ja-JP
+Capacidades gráficas,グラフィック性能,ja-JP
+Capacités graphiques,グラフィック性能,ja-JP
+Capacités manquantes lors de l'échec de la création du backend,バックエンド作成失敗時の不足していた性能情報,ja-JP
+Capire il contesto relativo al compimento di un progresso può aiutarci a comprendere meglio e a perfezionare la sequenza di gioco.,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+"Cet événement est associé à l'événement ""Monde chargé"" pour calculer la durée de la session de jeu.
+La durée (en secondes et en ticks) est mesurée lorsqu'une session de jeu est terminée (en retournant au menu principal ou en se déconnectant d'un serveur).","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+"Cet événement nous aide à évaluer la fiabilité et les performances des connexions pair à pair entre les joueurs. Il enregistre la réussite ou l'échec de la connexion, le type de candidat utilisé pour l'établissement de connectivité interactive (ICE, le protocole que nous utilisons pour établir les connexions pair à pair) ainsi que le temps nécessaire pour établir la connexion.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+Cet événement nous informe des capacités du périphérique graphique utilisé pour jouer au jeu.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+Cet événement peut nous aider à déterminer où des améliorations des performances au démarrage sont nécessaires en mesurant les temps d'exécution des phases.,このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+Chemin de l'établissement de connectivité interactive (ICE),Interactive Connectivity Establishment（ICE）パス,ja-JP
+Chế độ chơi,ゲームモード,ja-JP
+Chọn tham gia,オプトイン,ja-JP
+Client ID,クライアントID,ja-JP
+Client Modded,Modが導入されたクライアント,ja-JP
+Client moddé ?,Modが導入されたクライアント,ja-JP
+Client modifiziert,Modが導入されたクライアント,ja-JP
+Cliente modificado,Modが導入されたクライアント,ja-JP
+Client‐ID,クライアントID,ja-JP
+Coleta de dados telemétricos,データの遠隔収集,ja-JP
+"Coletar esses dados nos ajuda a melhorar o Minecraft, guiando nosso trabalho em direções relevantes para os jogadores.
+Você também pode enviar seu feedback para nos ajudar a melhorar o Minecraft.","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+Collecte des données de télémétrie,データの遠隔収集,ja-JP
+"Collecter ces données nous aide à améliorer Minecraft en nous guidant dans des directions qui sont pertinentes pour nos joueurs.
+Vous pouvez aussi donner votre avis pour nous aider à améliorer le jeu.","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+"Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.
+You can also send in additional feedback to help us keep improving Minecraft.","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+Compartir datos,オプトイン,ja-JP
+Comprender el contexto en el que se realiza un progreso nos ayudará a entender y mejorar la progresión del juego.,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+Comprendre le contexte derrière la réalisation d'un progrès peut nous aider à améliorer la progression du jeu.,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+Conectado con éxito,接続の成功の是非,ja-JP
+Conexión P2P,P2P接続,ja-JP
+Conexão estabelecida,接続の成功の是非,ja-JP
+Conexão ponto a ponto,P2P接続,ja-JP
+"Conhecer o perfil geral de desempenho do Minecraft nos ajuda a otimizar o jogo para uma ampla variedade de dispositivos e sistemas operacionais. 
+A versão do jogo é incluída para nos ajudar a comparar o desempenho das novas versões do Minecraft.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+Connection Successful,接続の成功の是非,ja-JP
+Connessione a rete paritaria,P2P接続,ja-JP
+Connexion pair à pair,P2P接続,ja-JP
+Connexion réussie,接続の成功の是非,ja-JP
+"Conocer el perfil de rendimiento de Minecraft nos ayuda a optimizar el juego para muchas especificaciones y sistemas operativos. 
+La versión del juego se incluye para ayudarnos a comparar el rendimiento de nuevas versiones.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+"Conoscere il profilo delle prestazioni di Minecraft ci aiuta ad adattare e a ottimizzare il gioco per un'ampia gamma di dispositivi e sistemi operativi.
+La versione del gioco è inclusa per aiutarci a effettuare il confronto con il profilo delle prestazioni delle nuove versioni di Minecraft.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+Consenso,オプトイン,ja-JP
+Consentement,オプトイン,ja-JP
+Contagem de amostras,サンプリング数,ja-JP
+Contenido del mapa de Realms (nombre del minijuego),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Contenu de la carte de Realms (nom du mini-jeu),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Conteúdo do mapa do Realms (nome do minijogo),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Dados incluídos,含まれるデータ,ja-JP
+Danos tu opinión,フィードバックを送信,ja-JP
+Datenschutzerklärung,プライバシーに関する声明,ja-JP
+Datenwerte zur Bildwiederholrate (FPS),フレームレートのサンプル（FPS）,ja-JP
+Datenwerte zur Renderzeit,描画所要時間のサンプル,ja-JP
+Dati inclusi,含まれるデータ,ja-JP
+Datos incluidos,含まれるデータ,ja-JP
+Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+Declaración de privacidad,プライバシーに関する声明,ja-JP
+Declaração de Privacidade,プライバシーに関する声明,ja-JP
+Dedicated Memory (kB),専用メモリ（kB）,ja-JP
+"Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+"Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+"Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+Direktverbindung,P2P接続,ja-JP
+Distance d'affichage,描画距離,ja-JP
+Distancia de renderizado,描画距離,ja-JP
+Donner son avis,フィードバックを送信,ja-JP
+Données incluses,含まれるデータ,ja-JP
+Déclaration de confidentialité,プライバシーに関する声明,ja-JP
+Dünya Oturum Kimliği,ワールドのセッションID,ja-JP
+Dünya Yükleme Süresi (Milisaniye),ワールドの読み込み時間（ミリ秒）,ja-JP
+Dünya Yüklendi,ワールドロード,ja-JP
+Dünya Yüklenme Süreleri,ワールド読み込み時間,ja-JP
+Dünyadan Çıkıldı,ワールドアンロード,ja-JP
+Dấu thời gian sự kiện (giờ UTC),イベントの時刻（UTC）,ja-JP
+Dữ liệu được bao gồm,含まれるデータ,ja-JP
+"En apprendre davantage sur la manière dont les joueurs jouent à Minecraft (avec quel mode de jeu, si le client ou le serveur est moddé, sous quelle version) nous aide à améliorer les aspects qui ont le plus d'importance pour les joueurs.
+L'événement ""Monde chargé"" est associé à l'événement ""Monde déchargé"" pour calculer la durée de la session de jeu.","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+"En apprendre davantage sur le profil global des performances de Minecraft nous aide à ajuster et optimiser le jeu pour un large éventail d'appareils et de systèmes d'exploitation. 
+La version du jeu est incluse pour nous aider à comparer le profil des performances des nouvelles versions de Minecraft.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+Entender o contexto de um progresso pode nos ajudar a entender e melhorar a progressão do jogo.,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+Enthaltene Daten,含まれるデータ,ja-JP
+Enviar feedback,フィードバックを送信,ja-JP
+Erforderliches/optionales Ereignis,オプトイン,ja-JP
+Erro ao criar o backend por falta de capacidades,バックエンド作成失敗時の不足していた性能情報,ja-JP
+Error en la creación del backend por falta de capacidades,バックエンド作成失敗時の不足していた性能情報,ja-JP
+"Es importante que sepamos cuánto tiempo se tarda en entrar en un mundo y cómo cambia eso con el tiempo. Por ejemplo, cuando añadimos nuevas características o realizamos cambios técnicos grandes, necesitamos ver qué impacto tienen en los tiempos de carga.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+Esito della connessione positivo,接続の成功の是非,ja-JP
+"Esse evento nos ajuda a detectar a estabilidade e o desempenho das conexões ponto a ponto entre jogadores. Ele registra se a conexão foi estabelecida com êxito, o tipo de candidato usado (também conhecido por Interactive Connectivity Establishment, ou ICE, protocolo usado para estabelecer conexões ponto a ponto) e a duração para estabelecer a conexão.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+Esse evento nos informa sobre as capacidades do dispositivo gráfico usado durante o jogo.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+Esse evento pode nos ajudar a identificar as melhorias de desempenho de inicialização necessárias ao medir os tempos de execução das fases de inicialização.,このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+"Esse evento é sincronizado com o ""Mundo Carregado"" para calcular a duração da sessão de jogo.
+A duração (em segundos e tiques) é medida no final de uma sessão (ao sair para o menu principal ou de um servidor).","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+"Este evento está unido al de «Mundo cargado» para calcular cuánto ha durado la sesión de juego.
+La duración (en segundos y tics) se mide cuando una sesión de juego termina (saliendo al menú principal, desconectándose de un servidor).","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+"Este evento nos ayuda a comprender la fiabilidad y el rendimiento de las conexiones P2P entre jugadores. Registra si la conexión fue exitosa, el tipo de conectividad interactiva (ICE, el protocolo que usamos para establecer conexiones P2P) que pudo utilizarse y cuánto tiempo tardó en establecerse la conexión.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+Este evento nos informa sobre las capacidades del dispositivo gráfico utilizado para jugar.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+"Este evento puede ayudarnos a determinar donde se necesitan las mejoras de rendimiento, midiendo los tiempos de ejecución de las diferentes fases de arranque.",このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,Interactive Connectivity Establishment（ICE）パス,ja-JP
+Event Timestamp (UTC),イベントの時刻（UTC）,ja-JP
+Externer Kandidatentyp,リモート候補タイプ,ja-JP
+Failure Stage,失敗の起きた段階,ja-JP
+Fase de fallo,失敗の起きた段階,ja-JP
+Fase dell'errore,失敗の起きた段階,ja-JP
+Fase do erro,失敗の起きた段階,ja-JP
+Feedback geben,フィードバックを送信,ja-JP
+Fehlerphase,失敗の起きた段階,ja-JP
+Fortschritt erzielt,進捗の達成に関するデータ,ja-JP
+Fortschritts‐ID,進捗ID,ja-JP
+Frame Rate Samples (fps),フレームレートのサンプル（FPS）,ja-JP
+Funzionalità grafiche,グラフィック性能,ja-JP
+Funzionalità mancanti alla creazione della libreria,バックエンド作成失敗時の不足していた性能情報,ja-JP
+Game Load Times,ゲームの読み込み時間,ja-JP
+Game Mode,ゲームモード,ja-JP
+Game Time (Ticks),ゲーム内時間（ティック）,ja-JP
+Game Version,ゲームのバージョン,ja-JP
+Gelişim Kimliği,進捗ID,ja-JP
+Gelişim Yapıldı,進捗の達成に関するデータ,ja-JP
+Geri Bildirim,フィードバックを送信,ja-JP
+Gesamte Ladezeit (Millisekunden),総読み込み時間（ミリ秒）,ja-JP
+Gesamte Verbindungszeit (Millisekunden),総接続時間（ミリ秒）,ja-JP
+Giai đoạn gây lỗi,失敗の起きた段階,ja-JP
+Give Feedback,フィードバックを送信,ja-JP
+Gizlilik Beyanı,プライバシーに関する声明,ja-JP
+Grafik Özellikleri,グラフィック性能,ja-JP
+Grafikfunktionen,グラフィック性能,ja-JP
+Graphics Capabilities,グラフィック性能,ja-JP
+Görüntü Oluşturma Zamanları,描画所要時間のサンプル,ja-JP
+Görüş Mesafesi,描画距離,ja-JP
+Gửi phản hồi,フィードバックを送信,ja-JP
+Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+Hora del evento (UTC),イベントの時刻（UTC）,ja-JP
+Hora do evento (UTC),イベントの時刻（UTC）,ja-JP
+Horodatage de l'événement (UTC),イベントの時刻（UTC）,ja-JP
+Hệ điều hành,オペレーティングシステム,ja-JP
+I consent to sending optional telemetry data,任意の遠隔測定データを送信することに同意する,ja-JP
+Ich stimme der Übermittlung optionaler Telemetriedaten zu,任意の遠隔測定データを送信することに同意する,ja-JP
+ID da sessão do Minecraft,MinecraftのセッションID,ja-JP
+ID da sessão do mundo,ワールドのセッションID,ja-JP
+ID da sessão do servidor,サーバーのセッションID,ja-JP
+ID de l'utilisateur,ユーザーID,ja-JP
+ID de la session de Minecraft,MinecraftのセッションID,ja-JP
+ID de la session du monde,ワールドのセッションID,ja-JP
+ID de la session du serveur,サーバーのセッションID,ja-JP
+ID del client,クライアントID,ja-JP
+ID del progresso,進捗ID,ja-JP
+ID dell'utente,ユーザーID,ja-JP
+ID della sessione del mondo,ワールドのセッションID,ja-JP
+ID della sessione del server,サーバーのセッションID,ja-JP
+ID della sessione di Minecraft,MinecraftのセッションID,ja-JP
+ID do cliente,クライアントID,ja-JP
+ID do progresso,進捗ID,ja-JP
+ID do usuário,ユーザーID,ja-JP
+ID du client,クライアントID,ja-JP
+ID du progrès,進捗ID,ja-JP
+ID máy khách,クライアントID,ja-JP
+ID người dùng,ユーザーID,ja-JP
+ID phiên Minecraft,MinecraftのセッションID,ja-JP
+ID phiên máy chủ,サーバーのセッションID,ja-JP
+ID phiên thế giới,ワールドのセッションID,ja-JP
+ID tiến trình,進捗ID,ja-JP
+ID ความก้าวหน้า,進捗ID,ja-JP
+ID ผู้ใช้,ユーザーID,ja-JP
+ID เซสชัน Minecraft,MinecraftのセッションID,ja-JP
+ID เซสชันเซิร์ฟเวอร์,サーバーのセッションID,ja-JP
+ID เซสชันโลก,ワールドのセッションID,ja-JP
+ID ไคลเอนต์,クライアントID,ja-JP
+Id. de cliente,クライアントID,ja-JP
+Id. de sesión de Minecraft,MinecraftのセッションID,ja-JP
+Id. de sesión del mundo,ワールドのセッションID,ja-JP
+Id. de sesión del servidor,サーバーのセッションID,ja-JP
+Id. de usuario,ユーザーID,ja-JP
+Id. del progreso,進捗ID,ja-JP
+"Il est important pour nous de déterminer le temps nécessaire pour rejoindre un monde, et la manière dont cela évolue au fil du temps. Par exemple, lorsque nous ajoutons de nouvelles fonctionnalités ou réalisons d'importants changements techniques, nous avons besoin d'en observer l'impact sur les temps de chargement.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+Included Data,含まれるデータ,ja-JP
+Info sulla riservatezza,プライバシーに関する声明,ja-JP
+Initialisierungszeit (Millisekunden),起動所要時間（ミリ秒）,ja-JP
+Interactive Connectivity Establishment (ICE) Connect Time (Milliseconds),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+Interactive Connectivity Establishment (ICE) Path,Interactive Connectivity Establishment（ICE）パス,ja-JP
+Interner Kandidatentyp,ローカル候補タイプ,ja-JP
+Invia riscontro,フィードバックを送信,ja-JP
+"It's important for us to understand how long it takes to join a world, and how that changes over time. For example, when we add new features or do larger technical changes, we need to see what impact that had on load times.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+İstemci Kimliği,クライアントID,ja-JP
+İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,任意の遠隔測定データを送信することに同意する,ja-JP
+İçerilen Veri,含まれるデータ,ja-JP
+İşletim Sistemi,オペレーティングシステム,ja-JP
+J'accepte l'envoi de données de télémétrie facultatives,任意の遠隔測定データを送信することに同意する,ja-JP
+Kare Hızı Örnekleri (fps),フレームレートのサンプル（FPS）,ja-JP
+Katıl,オプトイン,ja-JP
+Khoảng cách kết xuất,描画距離,ja-JP
+"Knowing how players play Minecraft (such as Game Mode, client or server modded, and game version) allows us to focus game updates to improve the areas that players care about most.
+The World Loaded event is paired with the World Unloaded event to calculate how long the play session has lasted.","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+"Knowing the overall performance profile of Minecraft helps us tune and optimize the game for a wide range of machine specifications and operating systems.
+Game version is included to help us compare the performance profile for new versions of Minecraft.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+Kullanıcı Kimliği,ユーザーID,ja-JP
+Kullanılan Bellek (RAM),使用されたランダムアクセスメモリ,ja-JP
+Kết nối ngang hàng,P2P接続,ja-JP
+Kết nối thành công,接続の成功の是非,ja-JP
+"La raccolta di questi dati ci aiuta a migliorare Minecraft, indicandoci le decisioni più opportune per i giocatori. Inoltre, puoi inviare un riscontro aggiuntivo per aiutarci a migliorare Minecraft ulteriormente.","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+"La recolección de datos nos ayuda a mejorar Minecraft guiándonos hacia direcciones que sean relevantes para nuestros jugadores.
+También puedes enviar sugerencias para ayudarnos a seguir mejorando Minecraft.","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+Launcher Name,ランチャー名,ja-JP
+Launcher‐Name,ランチャー名,ja-JP
+Leistungsmetriken,パフォーマンス測定,ja-JP
+Local Candidate Type,ローカル候補タイプ,ja-JP
+Loại máy chủ,サーバーの種類,ja-JP
+Loại ứng viên cục bộ,ローカル候補タイプ,ja-JP
+Loại ứng viên từ xa,リモート候補タイプ,ja-JP
+Lý do lỗi tạo Backend,バックエンド作成失敗の原因,ja-JP
+Medición del rendimiento,パフォーマンス測定,ja-JP
+Meine Daten einsehen,自分のデータを確認する,ja-JP
+Memoria de acceso aleatorio usada (RAM),使用されたランダムアクセスメモリ,ja-JP
+Memoria dedicada (kB),専用メモリ（kB）,ja-JP
+Memoria dedicata [kB],専用メモリ（kB）,ja-JP
+Memória dedicada (kB),専用メモリ（kB）,ja-JP
+Memória RAM usada,使用されたランダムアクセスメモリ,ja-JP
+Mensagem de erro ao criar o backend,バックエンド作成失敗時のメッセージ,ja-JP
+Mensaje de error en la creación del backend,バックエンド作成失敗時のメッセージ,ja-JP
+Message d'échec de la création du backend,バックエンド作成失敗時のメッセージ,ja-JP
+Messaggio dell'errore nella creazione della libreria,バックエンド作成失敗時のメッセージ,ja-JP
+Mesures de performances,パフォーマンス測定,ja-JP
+Metriche di prestazione,パフォーマンス測定,ja-JP
+Minecraft Oturum Kimliği,MinecraftのセッションID,ja-JP
+Minecraft Session ID,MinecraftのセッションID,ja-JP
+Minecraft 세션 ID,MinecraftのセッションID,ja-JP
+Minecraft‐Sitzungs‐ID,MinecraftのセッションID,ja-JP
+"Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+Minecraft会话ID,MinecraftのセッションID,ja-JP
+"Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+"Misurando il tempo necessario a eseguire le fasi di avvio, quest'evento può aiutarci a capire dove c'è bisogno di migliorie.",このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+Modalità di gioco,ゲームモード,ja-JP
+Mode de jeu,ゲームモード,ja-JP
+Modifiche del client,Modが導入されたクライアント,ja-JP
+Modifiche del server,Modが導入されたサーバー,ja-JP
+Modlanmış İstemci,Modが導入されたクライアント,ja-JP
+Modlanmış Sunucu,Modが導入されたサーバー,ja-JP
+Modo de jogo,ゲームモード,ja-JP
+Modo de juego,ゲームモード,ja-JP
+Monde chargé,ワールドロード,ja-JP
+Monde déchargé,ワールドアンロード,ja-JP
+Mondo caricato,ワールドロード,ja-JP
+Mondo scaricato,ワールドアンロード,ja-JP
+Mostra i miei dati,自分のデータを確認する,ja-JP
+Motivo de error en la creación del backend,バックエンド作成失敗の原因,ja-JP
+Motivo dell'errore nella creazione della libreria,バックエンド作成失敗の原因,ja-JP
+Motivo do erro ao criar o backend,バックエンド作成失敗の原因,ja-JP
+Muestras de fotogramas por segundo (FPS),フレームレートのサンプル（FPS）,ja-JP
+Muestras de tiempo de renderizado,描画所要時間のサンプル,ja-JP
+Mundo cargado,ワールドロード,ja-JP
+Mundo Carregado,ワールドロード,ja-JP
+Mundo descargado,ワールドアンロード,ja-JP
+Mundo Descarregado,ワールドアンロード,ja-JP
+Mundo nuevo,新規ワールド,ja-JP
+Máy chủ đã sửa đổi,Modが導入されたサーバー,ja-JP
+Máy khách đã sửa đổi,Modが導入されたクライアント,ja-JP
+Mémoire dédiée (Ko),専用メモリ（kB）,ja-JP
+Mémoire vive utilisée (RAM),使用されたランダムアクセスメモリ,ja-JP
+Métricas de desempenho,パフォーマンス測定,ja-JP
+Mẫu thời gian kết xuất,描画所要時間のサンプル,ja-JP
+Mẫu tốc độ khung hình (FPS),フレームレートのサンプル（FPS）,ja-JP
+Name der Schnittstelle,バックエンド名,ja-JP
+Neue Welt,新規ワールド,ja-JP
+New World,新規ワールド,ja-JP
+Nom du backend,バックエンド名,ja-JP
+Nom du Launcher,ランチャー名,ja-JP
+Nombre d'échantillons,サンプリング数,ja-JP
+Nombre del backend,バックエンド名,ja-JP
+Nombre del lanzador,ランチャー名,ja-JP
+Nome del launcher,ランチャー名,ja-JP
+Nome del minigioco o contenuto di Realms,Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Nome della libreria grafica,バックエンド名,ja-JP
+Nome do backend,バックエンド名,ja-JP
+Nome do launcher,ランチャー名,ja-JP
+Nouveau monde ?,新規ワールド,ja-JP
+Novo mundo,新規ワールド,ja-JP
+Numero di campioni,サンプリング数,ja-JP
+Nuovo mondo,新規ワールド,ja-JP
+Número de muestras,サンプリング数,ja-JP
+Nền tảng,プラットフォーム,ja-JP
+Nội dung bản đồ Realms (tên trò chơi nhỏ),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Olay Tarih Bilgisi (UTC),イベントの時刻（UTC）,ja-JP
+Operating System,オペレーティングシステム,ja-JP
+Opt-In,オプトイン,ja-JP
+Orario dell'evento [UTC],イベントの時刻（UTC）,ja-JP
+Oyun Modu,ゲームモード,ja-JP
+Oyun Süresi (Birim Zaman),ゲーム内時間（ティック）,ja-JP
+Oyun Sürümü,ゲームのバージョン,ja-JP
+Oyun Yükleme Süreleri,ゲームの読み込み時間,ja-JP
+"Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+P2P 連線,P2P接続,ja-JP
+Participação,オプトイン,ja-JP
+Peer-to-peer Bağlantı,P2P接続,ja-JP
+Peer-to-peer Connection,P2P接続,ja-JP
+Pencere Açılmadan Önceki Süre (Milisaniye),ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+"Per noi è importante capire il tempo necessario per entrare in un mondo e come questo dato può cambiare. Ad esempio, quando aggiungiamo nuove funzionalità o apportiamo modifiche tecniche significative, ci serve sapere in che modo ciò incide sui tempi di caricamento.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+Percorso dello stabilimento di connettività interattiva (SCI),Interactive Connectivity Establishment（ICE）パス,ja-JP
+Performance Metrics,パフォーマンス測定,ja-JP
+Performans Ölçümleri,パフォーマンス測定,ja-JP
+Permito enviar mis datos de telemetría opcionales,任意の遠隔測定データを送信することに同意する,ja-JP
+Phase de l'échec,失敗の起きた段階,ja-JP
+Phiên bản trò chơi,ゲームのバージョン,ja-JP
+Piattaforma,プラットフォーム,ja-JP
+Plataforma,プラットフォーム,ja-JP
+Plateforme,プラットフォーム,ja-JP
+Platform,プラットフォーム,ja-JP
+Plattform,プラットフォーム,ja-JP
+Privacy Statement,プライバシーに関する声明,ja-JP
+Progreso realizado,進捗の達成に関するデータ,ja-JP
+Progresso compiuto,進捗の達成に関するデータ,ja-JP
+Progressos feitos,進捗の達成に関するデータ,ja-JP
+Progrès réalisés,進捗の達成に関するデータ,ja-JP
+"Quest'evento viene usato insieme a «Mondo caricato» per calcolare la durata della sessione del mondo. La durata (in secondi e in tick) viene misurata al termine della sessione di un mondo, cioè quando si torna al menù principale o ci si disconnette da un server.","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+"Questo evento ci aiuta a capire l'affidabilità e le prestazioni delle connessioni a rete paritaria tra giocatori. Registra l'esito della connessione, il tipo di candidato usato per lo stabilimento di connettività interattiva (SCI, o ICE in inglese, il protocollo che usiamo per le connessioni a rete paritaria) e il tempo richiesto per stabilire la connessione.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+Questo evento ci comunica le capacità del dispositivo grafico in uso durante la partita.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+Raccolta dei dati di telemetria,データの遠隔収集,ja-JP
+Raison de l'échec de la création du backend,バックエンド作成失敗の原因,ja-JP
+RAM ที่ใช้,使用されたランダムアクセスメモリ,ja-JP
+Realms Harita İçeriği (Mini Oyun Adı),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Realms Map Content (Minigame Name),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Realms 地圖內容（小遊戲名稱）,Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Realms 맵 콘텐츠 (미니게임 이름),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Realms‐Weltinhalt (Name des Minispiels),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Realm地图内容（小游戏名称）,Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Recolección de datos de telemetría,データの遠隔収集,ja-JP
+Remote Candidate Type,リモート候補タイプ,ja-JP
+Render Distance,描画距離,ja-JP
+Render Time Samples,描画所要時間のサンプル,ja-JP
+Route des interaktiven Verbindungsaufbaus (ICE),Interactive Connectivity Establishment（ICE）パス,ja-JP
+Ruta de tipo de conectividad interactiva (ICE),Interactive Connectivity Establishment（ICE）パス,ja-JP
+"Saber como os jogadores jogam Minecraft (como o modo de jogo, modificações de cliente ou servidor e a versão do jogo) nos permite melhorar as áreas mais interessantes aos jogadores.
+O evento Mundo Carregado é sincronizado com o Mundo Descarregado para calcular a duração da sessão de jogo.","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+"Saber cómo juegan los jugadores a Minecraft (qué modo de juego, cliente o servidor modificado y versión del juego usan) nos ayuda a mejorar los aspectos que más le importan a los jugadores.
+El evento «Mundo cargado» está unido al de «Mundo descargado» para calcular cuánto ha durado la sesión de juego.","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+Sample Count,サンプリング数,ja-JP
+Sapere come i giocatori giocano a Minecraft (per esempio la modalità e la versione di gioco o client e server modificati) ci consente di focalizzare gli aggiornamenti del gioco al fine di migliorare le aree a cui i giocatori tengono di più. L'evento «Mondo caricato» è usato insieme a «Mondo scaricato» per calcolare la durata delle sessioni di gioco.,"プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+Server Modded,Modが導入されたサーバー,ja-JP
+Server modifiziert,Modが導入されたサーバー,ja-JP
+Server Session ID,サーバーのセッションID,ja-JP
+Server Type,サーバーの種類,ja-JP
+Servertyp,サーバーの種類,ja-JP
+Server‐Sitzungs‐ID,サーバーのセッションID,ja-JP
+Serveur moddé ?,Modが導入されたサーバー,ja-JP
+Servidor modificado,Modが導入されたサーバー,ja-JP
+Sichtweite,描画距離,ja-JP
+Signalaufbauzeit (Millisekunden),シグナリング接続時間（ミリ秒）,ja-JP
+Signaling Connection Time (Milliseconds),シグナリング接続時間（ミリ秒）,ja-JP
+Sistema operacional,オペレーティングシステム,ja-JP
+Sistema operativo,オペレーティングシステム,ja-JP
+Spielladezeiten,ゲームの読み込み時間,ja-JP
+Spielmodus,ゲームモード,ja-JP
+Spielversion,ゲームのバージョン,ja-JP
+Spielzeit (Ticks),ゲーム内時間（ティック）,ja-JP
+Sunucu Oturum Kimliği,サーバーのセッションID,ja-JP
+Sunucu Türü,サーバーの種類,ja-JP
+Système d'exploitation,オペレーティングシステム,ja-JP
+Số liệu hiệu suất,パフォーマンス測定,ja-JP
+Số lượng mẫu,サンプリング数,ja-JP
+Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+"Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+Telemetrie‐Datenerhebung,データの遠隔収集,ja-JP
+Telemetry Data Collection,データの遠隔収集,ja-JP
+Tempi di caricamento del gioco,ゲームの読み込み時間,ja-JP
+Tempo antes da abertura da janela (milissegundos),ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+Tempo dal caricamento del mondo [s],読み込みからの時間（秒）,ja-JP
+Tempo dal caricamento del mondo [t],読み込みからの時間（ティック）,ja-JP
+Tempo de carregamento de mundos,ワールド読み込み時間,ja-JP
+Tempo de carregamento do mundo (milissegundos),ワールドの読み込み時間（ミリ秒）,ja-JP
+Tempo de carregamento total (milissegundos),総読み込み時間（ミリ秒）,ja-JP
+Tempo de conexão (milissegundos) do Interactive Connectivity Establishment (ICE),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+Tempo de conexão da sinalização (milissegundos),シグナリング接続時間（ミリ秒）,ja-JP
+Tempo de conexão total (milissegundos),総接続時間（ミリ秒）,ja-JP
+Tempo de inicialização (milissegundos),起動所要時間（ミリ秒）,ja-JP
+Tempo de jogo (tiques),ゲーム内時間（ティック）,ja-JP
+Tempo desde carregamento (tiques),読み込みからの時間（ティック）,ja-JP
+Tempo desde o carregamento (segundos),読み込みからの時間（秒）,ja-JP
+Tempo di avvio [ms],起動所要時間（ミリ秒）,ja-JP
+Tempo di caricamento dei mondi,ワールド読み込み時間,ja-JP
+Tempo di caricamento del mondo [ms],ワールドの読み込み時間（ミリ秒）,ja-JP
+Tempo di connessione dello SCI [ms],Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+Tempo di connessione di segnalamento [ms],シグナリング接続時間（ミリ秒）,ja-JP
+Tempo di gioco [t],ゲーム内時間（ティック）,ja-JP
+Tempo na tela de carregamento (milissegundos),読み込み画面の所要時間（ミリ秒）,ja-JP
+Tempo nella schermata di caricamento [ms],読み込み画面の所要時間（ミリ秒）,ja-JP
+Tempo prima dell'apertura della finestra [ms],ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+Tempo totale di caricamento [ms],総読み込み時間（ミリ秒）,ja-JP
+Tempo totale di connessione [ms],総接続時間（ミリ秒）,ja-JP
+Tempos de carregamento do jogo,ゲームの読み込み時間,ja-JP
+Temps avant l'ouverture de la fenêtre (en millisecondes),ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+Temps de chargement des mondes,ワールド読み込み時間,ja-JP
+Temps de chargement du jeu,ゲームの読み込み時間,ja-JP
+Temps de chargement du monde (en millisecondes),ワールドの読み込み時間（ミリ秒）,ja-JP
+Temps de connexion de l'établissement de connectivité interactive (ICE) (en millisecondes),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+Temps de connexion de la signalisation (en millisecondes),シグナリング接続時間（ミリ秒）,ja-JP
+Temps de démarrage (en millisecondes),起動所要時間（ミリ秒）,ja-JP
+Temps de l'écran de chargement (en millisecondes),読み込み画面の所要時間（ミリ秒）,ja-JP
+Temps depuis le chargement (en secondes),読み込みからの時間（秒）,ja-JP
+Temps depuis le chargement (en ticks),読み込みからの時間（ティック）,ja-JP
+Temps en jeu (en ticks),ゲーム内時間（ティック）,ja-JP
+Temps total de chargement (en millisecondes),総読み込み時間（ミリ秒）,ja-JP
+Temps total de connexion (en millisecondes),総接続時間（ミリ秒）,ja-JP
+This event can help us figure out where startup performance improvements are needed by measuring the execution times of the startup phases.,このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+"This event helps us understand the reliability and performance of peer-to-peer connections between players. It records whether the connection was successful, the type of Interactive Connectivity Establishment (ICE, the protocol we use to establish peer-to-peer connections) candidate used, and how long it took to establish the connection.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+This event informs us of the capabilities of the graphics device used to play the game.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+"This event is paired with the World Loaded event to calculate how long the world session has lasted.
+The duration (in seconds and ticks) is measured when a world session has ended (quitting to title, disconnecting from a server).","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+Thu thập dữ liệu đo từ xa,データの遠隔収集,ja-JP
+Thông tin lỗi tạo Backend,バックエンド作成失敗時のメッセージ,ja-JP
+Thế giới chưa nạp,ワールドアンロード,ja-JP
+Thế giới mới,新規ワールド,ja-JP
+Thế giới đã nạp,ワールドロード,ja-JP
+Thời gian khởi tạo trò chơi (miligiây),起動所要時間（ミリ秒）,ja-JP
+Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+Thời gian kết nối tín hiệu (Miligiây),シグナリング接続時間（ミリ秒）,ja-JP
+Thời gian nạp thế giới,ワールド読み込み時間,ja-JP
+Thời gian nạp thế giới (Miligiây),ワールドの読み込み時間（ミリ秒）,ja-JP
+Thời gian nạp trò chơi,ゲームの読み込み時間,ja-JP
+Thời gian trong màn hình nạp (miligiây),読み込み画面の所要時間（ミリ秒）,ja-JP
+Thời gian trong trò chơi (nhịp),ゲーム内時間（ティック）,ja-JP
+Thời gian trước khi cửa sổ mở (miligiây),ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+Thời gian từ khi nạp (Giây),読み込みからの時間（秒）,ja-JP
+Thời gian từ khi nạp (Nhịp),読み込みからの時間（ティック）,ja-JP
+Tiempo antes de que la ventana se abra (milisegundos),ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+Tiempo de carga del mundo (en milisegundos),ワールドの読み込み時間（ミリ秒）,ja-JP
+Tiempo de conexión de conectividad interactiva (ICE) (ms),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+Tiempo de conexión de señalización (ms),シグナリング接続時間（ミリ秒）,ja-JP
+Tiempo de conexión total (ms),総接続時間（ミリ秒）,ja-JP
+Tiempo de inicio (milisegundos),起動所要時間（ミリ秒）,ja-JP
+Tiempo de juego (tics),ゲーム内時間（ティック）,ja-JP
+Tiempo desde que se cargó (en segundos),読み込みからの時間（秒）,ja-JP
+Tiempo desde que se cargó (en tics),読み込みからの時間（ティック）,ja-JP
+Tiempo en pantalla de carga (milisegundos),読み込み画面の所要時間（ミリ秒）,ja-JP
+Tiempo total de carga (milisegundos),総読み込み時間（ミリ秒）,ja-JP
+Tiempos de carga del juego,ゲームの読み込み時間,ja-JP
+Tiempos de carga del mundo,ワールド読み込み時間,ja-JP
+Time Before Window Opens (Milliseconds),ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+Time in Loading Screen (Milliseconds),読み込み画面の所要時間（ミリ秒）,ja-JP
+Time Since Load (Seconds),読み込みからの時間（秒）,ja-JP
+Time Since Load (Ticks),読み込みからの時間（ティック）,ja-JP
+Tipo de candidato local,ローカル候補タイプ,ja-JP
+Tipo de candidato remoto,リモート候補タイプ,ja-JP
+Tipo de servidor,サーバーの種類,ja-JP
+Tipo di candidato locale,ローカル候補タイプ,ja-JP
+Tipo di candidato remoto,リモート候補タイプ,ja-JP
+Tipo di server,サーバーの種類,ja-JP
+Tiến trình đã làm,進捗の達成に関するデータ,ja-JP
+Toplam Bağlanma Süresi (Milisaniye),総接続時間（ミリ秒）,ja-JP
+Toplam Yükleme Süresi (Milisaniye),総読み込み時間（ミリ秒）,ja-JP
+Total Connection Time (Milliseconds),総接続時間（ミリ秒）,ja-JP
+Total Load Time (Milliseconds),総読み込み時間（ミリ秒）,ja-JP
+Tuyên bố về quyền riêng tư,プライバシーに関する声明,ja-JP
+Type de candidat distant,リモート候補タイプ,ja-JP
+Type de candidat local,ローカル候補タイプ,ja-JP
+Type de serveur,サーバーの種類,ja-JP
+Tên Backend,バックエンド名,ja-JP
+Tên trình khởi động,ランチャー名,ja-JP
+Tính năng bị thiếu gây lỗi tạo Backend,バックエンド作成失敗時の不足していた性能情報,ja-JP
+Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,任意の遠隔測定データを送信することに同意する,ja-JP
+Tương thích đồ họa,グラフィック性能,ja-JP
+Tổng thời gian kết nối (Miligiây),総接続時間（ミリ秒）,ja-JP
+Tổng thời gian nạp (Miligiây),総読み込み時間（ミリ秒）,ja-JP
+Understanding the context behind receiving an advancement can help us better understand and improve the progression of the game.,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+Used Random Access Memory,使用されたランダムアクセスメモリ,ja-JP
+User ID,ユーザーID,ja-JP
+Utilizzo della memoria (RAM),使用されたランダムアクセスメモリ,ja-JP
+Uzak Aday Tipi,リモート候補タイプ,ja-JP
+Ver meus dados,自分のデータを確認する,ja-JP
+Ver mis datos,自分のデータを確認する,ja-JP
+Verbindungserfolg,接続の成功の是非,ja-JP
+Verilerimi Görüntüle,自分のデータを確認する,ja-JP
+Version du jeu,ゲームのバージョン,ja-JP
+Versione del gioco,ゲームのバージョン,ja-JP
+Versión del juego,ゲームのバージョン,ja-JP
+Versão do jogo,ゲームのバージョン,ja-JP
+Verwendeter Arbeitsspeicher,使用されたランダムアクセスメモリ,ja-JP
+View My Data,自分のデータを確認する,ja-JP
+Visibilità,描画距離,ja-JP
+"Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+"Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+"Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+Voir mes données,自分のデータを確認する,ja-JP
+Welt entladen,ワールドアンロード,ja-JP
+Welt geladen,ワールドロード,ja-JP
+Weltladezeit (Millisekunden),ワールドの読み込み時間（ミリ秒）,ja-JP
+Weltladezeiten,ワールド読み込み時間,ja-JP
+Welt‐Sitzungs‐ID,ワールドのセッションID,ja-JP
+World Load Time (Milliseconds),ワールドの読み込み時間（ミリ秒）,ja-JP
+World Load Times,ワールド読み込み時間,ja-JP
+World Loaded,ワールドロード,ja-JP
+World Session ID,ワールドのセッションID,ja-JP
+World Unloaded,ワールドアンロード,ja-JP
+Xem dữ liệu của tôi,自分のデータを確認する,ja-JP
+Yeni Dünya,新規ワールド,ja-JP
+Yerel Aday Tipi,ローカル候補タイプ,ja-JP
+Yükleme Ekranında Geçen Süre (Milisaniye),読み込み画面の所要時間（ミリ秒）,ja-JP
+Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),読み込みからの時間（ティック）,ja-JP
+Yüklemeden Bu Yana Geçen Zaman (Saniye),読み込みからの時間（秒）,ja-JP
+Zeit im Ladebildschirm (Millisekunden),読み込み画面の所要時間（ミリ秒）,ja-JP
+Zeit seit dem Laden (Sekunden),読み込みからの時間（秒）,ja-JP
+Zeit seit dem Laden (Ticks),読み込みからの時間（ティック）,ja-JP
+"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+Zeitpunkt des Ereignisses (koordinierte Weltzeit),イベントの時刻（UTC）,ja-JP
+"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+"Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+Zugewiesener Arbeitsspeicher (KB),専用メモリ（kB）,ja-JP
+"É importante entendermos o tempo necessário para entrar num mundo e como isso muda ao longo do tempo. Por exemplo, ao adicionar novos recursos ou fazer mudanças técnicas maiores, precisamos observar o impacto nos tempos de carregamento.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+Échantillons d'images par seconde (FPS),フレームレートのサンプル（FPS）,ja-JP
+Échantillons du temps de rendu,描画所要時間のサンプル,ja-JP
+Ölçüm Verileri Toplama,データの遠隔収集,ja-JP
+Önyükleme Süresi (Milisaniye),起動所要時間（ミリ秒）,ja-JP
+Örnek Sayısı,サンプリング数,ja-JP
+"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+Đường dẫn thiết lập kết nối tương tác (ICE),Interactive Connectivity Establishment（ICE）パス,ja-JP
+"В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+Величина выборки,サンプリング数,ja-JP
+Версия игры,ゲームのバージョン,ja-JP
+Включённые данные,含まれるデータ,ja-JP
+Возможности графического устройства,グラフィック性能,ja-JP
+Временная метка (UTC),イベントの時刻（UTC）,ja-JP
+Время до открытия окна (миллисекунды),ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+Время загрузки игры,ゲームの読み込み時間,ja-JP
+Время загрузки мира,ワールド読み込み時間,ja-JP
+Время загрузки мира (миллисекунды),ワールドの読み込み時間（ミリ秒）,ja-JP
+Время игры (такты),ゲーム内時間（ティック）,ja-JP
+Время инициализации (миллисекунды),起動所要時間（ミリ秒）,ja-JP
+Время на экране загрузки (миллисекунды),読み込み画面の所要時間（ミリ秒）,ja-JP
+Время с загрузки (секунды),読み込みからの時間（秒）,ja-JP
+Время с загрузки (такты),読み込みからの時間（ティック）,ja-JP
+Время установления интерактивного соединения (ICE) (миллисекунды),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+Время установления соединения (миллисекунды),シグナリング接続時間（ミリ秒）,ja-JP
+Выборка времени кадра,描画所要時間のサンプル,ja-JP
+Выборка частоты кадров (FPS),フレームレートのサンプル（FPS）,ja-JP
+Выгрузка мира,ワールドアンロード,ja-JP
+Выделенная память (Кбайт),専用メモリ（kB）,ja-JP
+Дальность прорисовки,描画距離,ja-JP
+Загрузка мира,ワールドロード,ja-JP
+Заявление о конфиденциальности,プライバシーに関する声明,ja-JP
+"Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+"Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+Идентификатор достижения,進捗ID,ja-JP
+Идентификатор клиента,クライアントID,ja-JP
+Идентификатор пользователя,ユーザーID,ja-JP
+Идентификатор сессии Minecraft,MinecraftのセッションID,ja-JP
+Идентификатор сессии мира,ワールドのセッションID,ja-JP
+Идентификатор сессии сервера,サーバーのセッションID,ja-JP
+Использование ОЗУ,使用されたランダムアクセスメモリ,ja-JP
+Карта Realms (название мини-игры),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+Маршрут установления интерактивного соединения (ICE),Interactive Connectivity Establishment（ICE）パス,ja-JP
+Модифицированность клиента,Modが導入されたクライアント,ja-JP
+Модифицированность сервера,Modが導入されたサーバー,ja-JP
+Мои данные,自分のデータを確認する,ja-JP
+Название графического API,バックエンド名,ja-JP
+Название лаунчера,ランチャー名,ja-JP
+"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+Новое достижение,進捗の達成に関するデータ,ja-JP
+Новый мир,新規ワールド,ja-JP
+Общее время загрузки (миллисекунды),総読み込み時間（ミリ秒）,ja-JP
+Общее время подключения (миллисекунды),総接続時間（ミリ秒）,ja-JP
+Одноранговое соединение,P2P接続,ja-JP
+Операционная система,オペレーティングシステム,ja-JP
+Оставить отзыв,フィードバックを送信,ja-JP
+Ошибка инициализации графического API: отсутствующие возможности,バックエンド作成失敗時の不足していた性能情報,ja-JP
+Ошибка инициализации графического API: подробности,バックエンド作成失敗時のメッセージ,ja-JP
+Ошибка инициализации графического API: причина,バックエンド作成失敗の原因,ja-JP
+Платформа,プラットフォーム,ja-JP
+Показатели производительности,パフォーマンス測定,ja-JP
+Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+Режим игры,ゲームモード,ja-JP
+Сбор данных телеметрии,データの遠隔収集,ja-JP
+"Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+Согласие на отправку,オプトイン,ja-JP
+Тип локального кандидата,ローカル候補タイプ,ja-JP
+Тип сервера,サーバーの種類,ja-JP
+Тип удалённого кандидата,リモート候補タイプ,ja-JP
+Успешность подключения,接続の成功の是非,ja-JP
+Этап отказа,失敗の起きた段階,ja-JP
+"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+Это событие сообщает о возможностях используемого графического устройства.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+Я даю согласие на отправку дополнительных телеметрических данных,任意の遠隔測定データを送信することに同意する,ja-JP
+กลุ่มตัวอย่างอัตราเฟรม (FPS),フレームレートのサンプル（FPS）,ja-JP
+กลุ่มตัวอย่างเวลาเร็นเดอร์,描画所要時間のサンプル,ja-JP
+"การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+การทำความก้าวหน้า,進捗の達成に関するデータ,ja-JP
+การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,データの遠隔収集,ja-JP
+"การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+"การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+การเชื่อมต่อสำเร็จ,接続の成功の是非,ja-JP
+การเชื่อมต่อแบบเพียร์ทูเพียร์,P2P接続,ja-JP
+ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,バックエンド作成失敗時のメッセージ,ja-JP
+ข้อมูลที่รวมอยู่ด้วย,含まれるデータ,ja-JP
+ความยินยอมเข้าร่วม,オプトイン,ja-JP
+ความสามารถของกราฟิก,グラフィック性能,ja-JP
+ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,バックエンド作成失敗時の不足していた性能情報,ja-JP
+คำชี้แจงสิทธิ์ส่วนบุคคล,プライバシーに関する声明,ja-JP
+จำนวนกลุ่มตัวอย่าง,サンプリング数,ja-JP
+ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,任意の遠隔測定データを送信することに同意する,ja-JP
+ชื่อลันเชอร์,ランチャー名,ja-JP
+ชื่อแบ็กเอนด์,バックエンド名,ja-JP
+ดูข้อมูลของฉัน,自分のデータを確認する,ja-JP
+ประทับเวลาเหตุการณ์ (UTC),イベントの時刻（UTC）,ja-JP
+ประเภทตัวเลือกท้องถิ่น,ローカル候補タイプ,ja-JP
+ประเภทตัวเลือกระยะไกล,リモート候補タイプ,ja-JP
+ประเภทเซิร์ฟเวอร์,サーバーの種類,ja-JP
+ระบบปฏิบัติการ,オペレーティングシステム,ja-JP
+ระยะการมองเห็น,描画距離,ja-JP
+ระยะการล้มเหลว,失敗の起きた段階,ja-JP
+หน่วยความจำเฉพาะ (kB),専用メモリ（kB）,ja-JP
+เซิร์ฟเวอร์มีการดัดแปร,Modが導入されたサーバー,ja-JP
+เนื้อหาแมป Realms (ชื่อมินิเกม),Realmsのマップコンテンツ（ミニゲームの名前）,ja-JP
+เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+เมตริกประสิทธิภาพ,パフォーマンス測定,ja-JP
+เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+เวลาตั้งแต่โหลด (ติ๊ก),読み込みからの時間（ティック）,ja-JP
+เวลาตั้งแต่โหลด (วินาที),読み込みからの時間（秒）,ja-JP
+เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),総接続時間（ミリ秒）,ja-JP
+เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),シグナリング接続時間（ミリ秒）,ja-JP
+เวลาเกม (ติ๊ก),ゲーム内時間（ティック）,ja-JP
+เวลาเริ่มต้นระบบ (มิลลิวินาที),起動所要時間（ミリ秒）,ja-JP
+เวลาโหลดทั้งหมด (มิลลิวินาที),総読み込み時間（ミリ秒）,ja-JP
+เวลาโหลดเกม,ゲームの読み込み時間,ja-JP
+เวลาโหลดโลก,ワールド読み込み時間,ja-JP
+เวลาโหลดโลก (มิลลิวินาที),ワールドの読み込み時間（ミリ秒）,ja-JP
+เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),読み込み画面の所要時間（ミリ秒）,ja-JP
+เวอร์ชันเกม,ゲームのバージョン,ja-JP
+เส้นทาง Interactive Connectivity Establishment (ICE),Interactive Connectivity Establishment（ICE）パス,ja-JP
+"เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,バックエンド作成失敗の原因,ja-JP
+แพลตฟอร์ม,プラットフォーム,ja-JP
+โลกโหลด,ワールドロード,ja-JP
+โลกใหม่,新規ワールド,ja-JP
+โลกไม่โหลด,ワールドアンロード,ja-JP
+โหมดเกม,ゲームモード,ja-JP
+ให้ข้อเสนอแนะ,フィードバックを送信,ja-JP
+ไคลเอนต์มีการดัดแปร,Modが導入されたクライアント,ja-JP
+专用内存（kB）,専用メモリ（kB）,ja-JP
+世界 Session ID,ワールドのセッションID,ja-JP
+世界会话ID,ワールドのセッションID,ja-JP
+世界加载,ワールドロード,ja-JP
+世界加载时间,ワールド読み込み時間,ja-JP
+世界加载时间（毫秒）,ワールドの読み込み時間（ミリ秒）,ja-JP
+世界卸載,ワールドアンロード,ja-JP
+世界卸载,ワールドアンロード,ja-JP
+世界載入,ワールドロード,ja-JP
+世界載入時間,ワールド読み込み時間,ja-JP
+世界載入時間（毫秒）,ワールドの読み込み時間（ミリ秒）,ja-JP
+"了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+"了解Minecraft的整体性能概况，可以帮助我们针对各种机型和操作系统调整与优化游戏。 
+游戏版本信息也包含在其中，以帮助我们比较Minecraft新版本的性能概况。","Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。",ja-JP
+"了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+"了解玩家玩Minecraft时的细节（例如游戏模式、客户端或服务端是否被修改，以及游戏版本）有助于我们在游戏更新时注重改进玩家最关心的部分。
+世界加载事件将同世界卸载事件一起用于计算游戏会话的持续时长。","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+了解达成进度前后发生的事情有助于我们更好了解及改进游戏流程。,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+事件时间戳（UTC）,イベントの時刻（UTC）,ja-JP
+事件時間戳記（UTC）,イベントの時刻（UTC）,ja-JP
+互動式連線建立 (ICE) 路徑,Interactive Connectivity Establishment（ICE）パス,ja-JP
+互動式連線建立 (ICE) 連線時間（毫秒）,Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+交互式连接建立（ICE）路径,Interactive Connectivity Establishment（ICE）パス,ja-JP
+交互式连接建立（ICE）连接时间（毫秒）,Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+伺服器 Session ID,サーバーのセッションID,ja-JP
+伺服器是否為原版,Modが導入されたサーバー,ja-JP
+伺服器類型,サーバーの種類,ja-JP
+作業系統,オペレーティングシステム,ja-JP
+使用的記憶體,使用されたランダムアクセスメモリ,ja-JP
+使用者 ID,ユーザーID,ja-JP
+信令连接时间（毫秒）,シグナリング接続時間（ミリ秒）,ja-JP
+信令連線時間（毫秒）,シグナリング接続時間（ミリ秒）,ja-JP
+加载屏幕显示时间（毫秒）,読み込み画面の所要時間（ミリ秒）,ja-JP
+包含的数据,含まれるデータ,ja-JP
+包含的資料,含まれるデータ,ja-JP
+可选择加入,オプトイン,ja-JP
+可選擇加入,オプトイン,ja-JP
+后端创建失败原因,バックエンド作成失敗の原因,ja-JP
+后端创建失败消息,バックエンド作成失敗時のメッセージ,ja-JP
+后端创建失败缺失功能,バックエンド作成失敗時の不足していた性能情報,ja-JP
+后端名称,バックエンド名,ja-JP
+启动器名称,ランチャー名,ja-JP
+启动引导时间（毫秒）,起動所要時間（ミリ秒）,ja-JP
+啟動器名稱,ランチャー名,ja-JP
+啟動引導時間（毫秒）,起動所要時間（ミリ秒）,ja-JP
+图形功能,グラフィック性能,ja-JP
+圖形功能,グラフィック性能,ja-JP
+失敗階段,失敗の起きた段階,ja-JP
+失败阶段,失敗の起きた段階,ja-JP
+客户端ID,クライアントID,ja-JP
+客户端是否被修改,Modが導入されたクライアント,ja-JP
+对我们而言，了解加入世界所需的时长，以及这一时长随着时间推移会如何变化是很重要的。比如，当我们加入新功能或进行较大的技术更改时，我们需要知道这对加载时间有何影响。,ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+專屬記憶體（kB）,専用メモリ（kB）,ja-JP
+對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+已使用的内存,使用されたランダムアクセスメモリ,ja-JP
+帧率样本（FPS）,フレームレートのサンプル（FPS）,ja-JP
+平台,プラットフォーム,ja-JP
+後端名稱,バックエンド名,ja-JP
+後端建立失敗原因,バックエンド作成失敗の原因,ja-JP
+後端建立失敗缺少功能,バックエンド作成失敗時の不足していた性能情報,ja-JP
+後端建立失敗訊息,バックエンド作成失敗時のメッセージ,ja-JP
+性能指标,パフォーマンス測定,ja-JP
+总计加载时间（毫秒）,総読み込み時間（ミリ秒）,ja-JP
+总计连接时间（毫秒）,総接続時間（ミリ秒）,ja-JP
+我同意傳送可選的遙測資料,任意の遠隔測定データを送信することに同意する,ja-JP
+我同意发送可选的遥测数据,任意の遠隔測定データを送信することに同意する,ja-JP
+打开我的数据,自分のデータを確認する,ja-JP
+提供反馈,フィードバックを送信,ja-JP
+提供意見回饋,フィードバックを送信,ja-JP
+操作系统,オペレーティングシステム,ja-JP
+"收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+"收集这些数据可以让我们了解与玩家有关的实际情况，以便帮助我们改进Minecraft。
+你也可以发送其他反馈来帮助我们持续改进Minecraft。","これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+效能指標,パフォーマンス測定,ja-JP
+是否为新的世界,新規ワールド,ja-JP
+是否為新的世界,新規ワールド,ja-JP
+服务器会话ID,サーバーのセッションID,ja-JP
+服务器类型,サーバーの種類,ja-JP
+服务端是否被修改,Modが導入されたサーバー,ja-JP
+本地候选类型,ローカル候補タイプ,ja-JP
+本機候選類型,ローカル候補タイプ,ja-JP
+样本数,サンプリング数,ja-JP
+樣本數量,サンプリング数,ja-JP
+"此事件与世界加载事件用于计算世界会话的持续时间。
+持续时间（以秒和刻为单位）在世界会话结束时（退回到标题屏幕，或从服务器断开连接）测量。","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+此事件会测量游戏启动各个阶段的时长以帮助我们找到游戏启动的性能优化点。,このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+此事件告知我们运行游戏所使用的图形设备的功能信息。,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+此事件有助于我们了解玩家之间点对点连接的可靠性和性能情况。事件将记录连接是否成功、所使用的交互式连接建立（ICE，即我们用于建立点对点连接的协议）候选类型，以及建立连接所花费的时间。,このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+"此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+渲染用时样本,描画所要時間のサンプル,ja-JP
+渲染距离,描画距離,ja-JP
+游戏加载时间,ゲームの読み込み時間,ja-JP
+游戏时间（刻）,ゲーム内時間（ティック）,ja-JP
+游戏模式,ゲームモード,ja-JP
+游戏版本,ゲームのバージョン,ja-JP
+点对点连接,P2P接続,ja-JP
+用戶端 ID,クライアントID,ja-JP
+用戶端是否為原版,Modが導入されたクライアント,ja-JP
+用户ID,ユーザーID,ja-JP
+畫面更新率樣本（FPS）,フレームレートのサンプル（FPS）,ja-JP
+窗口开启前时间（毫秒）,ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+總載入時間（毫秒）,総読み込み時間（ミリ秒）,ja-JP
+總連線時間（毫秒）,総接続時間（ミリ秒）,ja-JP
+繪製時間樣本,描画所要時間のサンプル,ja-JP
+自加载后的时间（刻）,読み込みからの時間（ティック）,ja-JP
+自加载后的时间（秒）,読み込みからの時間（秒）,ja-JP
+自載入後的時間（刻）,読み込みからの時間（ティック）,ja-JP
+自載入後的時間（秒）,読み込みからの時間（秒）,ja-JP
+視窗開啟前時間（毫秒）,ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+載入畫面顯示時間（毫秒）,読み込み画面の所要時間（ミリ秒）,ja-JP
+达成进度,進捗の達成に関するデータ,ja-JP
+进度ID,進捗ID,ja-JP
+远程候选类型,リモート候補タイプ,ja-JP
+连接成功,接続の成功の是非,ja-JP
+這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+連線成功,接続の成功の是非,ja-JP
+進度 ID,進捗ID,ja-JP
+遊戲時間（刻）,ゲーム内時間（ティック）,ja-JP
+遊戲模式,ゲームモード,ja-JP
+遊戲版本,ゲームのバージョン,ja-JP
+遊戲載入時間,ゲームの読み込み時間,ja-JP
+達成進度,進捗の達成に関するデータ,ja-JP
+遙測資料收集,データの遠隔収集,ja-JP
+遠端候選類型,リモート候補タイプ,ja-JP
+遥测数据收集,データの遠隔収集,ja-JP
+開啟我的統計資料,自分のデータを確認する,ja-JP
+隐私声明,プライバシーに関する声明,ja-JP
+隱私權聲明,プライバシーに関する声明,ja-JP
+顯示距離,描画距離,ja-JP
+개인 정보 처리 방침,プライバシーに関する声明,ja-JP
+게임 모드,ゲームモード,ja-JP
+게임 버전,ゲームのバージョン,ja-JP
+게임 시간 (틱),ゲーム内時間（ティック）,ja-JP
+게임을 불러오는 데 걸린 시간,ゲームの読み込み時間,ja-JP
+그래픽 기능,グラフィック性能,ja-JP
+내 데이터 보기,自分のデータを確認する,ja-JP
+대화형 연결 구축 (ICE) 경로,Interactive Connectivity Establishment（ICE）パス,ja-JP
+대화형 연결 구축 (ICE) 연결 시간 (밀리초),Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,ja-JP
+랜덤 액세스 메모리 사용량,使用されたランダムアクセスメモリ,ja-JP
+런처 이름,ランチャー名,ja-JP
+렌더 거리,描画距離,ja-JP
+렌더 시간 표본,描画所要時間のサンプル,ja-JP
+로딩 화면에 있던 시간 (밀리초),読み込み画面の所要時間（ミリ秒）,ja-JP
+로컬 후보 유형,ローカル候補タイプ,ja-JP
+발전 과제 ID,進捗ID,ja-JP
+발전 과제 달성,進捗の達成に関するデータ,ja-JP
+발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,ja-JP
+백엔드 생성 실패 기능 누락,バックエンド作成失敗時の不足していた性能情報,ja-JP
+백엔드 생성 실패 메시지,バックエンド作成失敗時のメッセージ,ja-JP
+백엔드 생성 실패 사유,バックエンド作成失敗の原因,ja-JP
+백엔드 이름,バックエンド名,ja-JP
+부트스트랩 시간 (밀리초),起動所要時間（ミリ秒）,ja-JP
+사용자 ID,ユーザーID,ja-JP
+새로운 세계 여부,新規ワールド,ja-JP
+서버 모드 여부,Modが導入されたサーバー,ja-JP
+서버 세션 ID,サーバーのセッションID,ja-JP
+서버 유형,サーバーの種類,ja-JP
+선택 수집 여부,オプトイン,ja-JP
+선택적 원격 측정 데이터 전송에 동의합니다,任意の遠隔測定データを送信することに同意する,ja-JP
+성능 측정 결과,パフォーマンス測定,ja-JP
+세계 세션 ID,ワールドのセッションID,ja-JP
+세계를 떠날 때,ワールドアンロード,ja-JP
+세계를 불러오는 데 걸린 시간,ワールド読み込み時間,ja-JP
+세계를 불러오는 데 걸린 시간 (밀리초),ワールドの読み込み時間（ミリ秒）,ja-JP
+세계를 불러올 때,ワールドロード,ja-JP
+"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,ja-JP
+시그널링 연결 시간 (밀리초),シグナリング接続時間（ミリ秒）,ja-JP
+실패 단계,失敗の起きた段階,ja-JP
+실행된 시간 (초),読み込みからの時間（秒）,ja-JP
+실행된 시간 (틱),読み込みからの時間（ティック）,ja-JP
+연결 성공,接続の成功の是非,ja-JP
+운영 체제,オペレーティングシステム,ja-JP
+원격 측정 데이터 수집,データの遠隔収集,ja-JP
+원격 후보 유형,リモート候補タイプ,ja-JP
+이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,"これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。",ja-JP
+이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,ja-JP
+이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,ja-JP
+"이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.","このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。",ja-JP
+"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,ja-JP
+이벤트 시간 기록 (UTC),イベントの時刻（UTC）,ja-JP
+창이 켜지기까지 걸린 시간 (밀리초),ウィンドウが開くまでの時間（ミリ秒）,ja-JP
+총 접속 시간 (밀리초),総接続時間（ミリ秒）,ja-JP
+총합 로드 시간 (밀리초),総読み込み時間（ミリ秒）,ja-JP
+클라이언트 ID,クライアントID,ja-JP
+클라이언트 모드 여부,Modが導入されたクライアント,ja-JP
+포함 데이터,含まれるデータ,ja-JP
+표본 수,サンプリング数,ja-JP
+프레임률 표본 (fps),フレームレートのサンプル（FPS）,ja-JP
+플랫폼,プラットフォーム,ja-JP
+"플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.","プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。",ja-JP
+피드백 보내기,フィードバックを送信,ja-JP
+피어 투 피어 연결,P2P接続,ja-JP
+할당된 메모리 (kB),専用メモリ（kB）,ja-JP

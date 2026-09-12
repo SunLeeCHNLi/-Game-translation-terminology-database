@@ -1,0 +1,567 @@
+﻿source,target,tgt_lng
+%%%s %s,%2$s: %1$s%%,it-IT
+%2$s %1$s%%,%2$s: %1$s%%,it-IT
+%2$s +%1$s,%2$s: +%1$s,it-IT
+%2$s +%1$s%%,%2$s: +%1$s%%,it-IT
+%2$s -%1$s,%2$s: -%1$s,it-IT
+%2$s -%1$s%%,%2$s: -%1$s%%,it-IT
+%s %% %s,%2$s: %1$s%%,it-IT
+%s %% en %s,%2$s: %1$s%%,it-IT
+%s %s,%2$s: %1$s,it-IT
+%s en %s,%2$s: %1$s,it-IT
+%s%% %s,%2$s: %1$s%%,it-IT
++%%%s %s,%2$s: +%1$s%%,it-IT
++%s %% %s,%2$s: +%1$s%%,it-IT
++%s %% en %s,%2$s: +%1$s%%,it-IT
++%s %s,%2$s: +%1$s,it-IT
++%s en %s,%2$s: +%1$s,it-IT
++%s%% %s,%2$s: +%1$s%%,it-IT
+-%%%s %s,%2$s: -%1$s%%,it-IT
+-%s %% %s,%2$s: -%1$s%%,it-IT
+-%s %% en %s,%2$s: -%1$s%%,it-IT
+-%s %s,%2$s: -%1$s,it-IT
+-%s en %s,%2$s: -%1$s,it-IT
+-%s%% %s,%2$s: -%1$s%%,it-IT
+Abbaueffizienz,Efficienza d'estrazione,it-IT
+Absorción máxima,Assorbimento massimo,it-IT
+absorption maximale,Assorbimento massimo,it-IT
+Absorção máxima,Assorbimento massimo,it-IT
+Ad Etiketi Mesafesi,Distanza della targhetta,it-IT
+Ad Etiketi Puan Mesafesi,Distanza del punteggio nella targhetta,it-IT
+Adım Yüksekliği,Altezza del passo,it-IT
+Air Drag Modifier,Modificatore di resistenza aerodinamica,it-IT
+Alcance de atração das criaturas,Raggio di tentazione delle creature,it-IT
+Alcance de detecção do marcador,Portata di ricezione del punto di riferimento,it-IT
+Alcance de interação com blocos,Raggio d'interazione con i blocchi,it-IT
+Alcance de interação com entidades,Raggio d'interazione con le entità,it-IT
+Alcance de perseguição das criaturas,Raggio di rilevamento delle creature,it-IT
+Alcance de transmissão do marcador,Portata di trasmissione del punto di riferimento,it-IT
+Altura de paso,Altezza del passo,it-IT
+Altura dos passos,Altezza del passo,it-IT
+Angriffsgeschwindigkeit,Velocità d'attacco,it-IT
+Angriffsrückstoß,Contraccolpo,it-IT
+Angriffsschaden,Danni per colpo,it-IT
+Armadura,Armatura,it-IT
+Armadura,Punti armatura,it-IT
+Armor,Armatura,it-IT
+Armor,Punti armatura,it-IT
+Armor Toughness,Solidità dell'armatura,it-IT
+At Zıplama Gücü,Forza di salto del cavallo,it-IT
+Attack Damage,Danni per colpo,it-IT
+Attack Knockback,Contraccolpo,it-IT
+Attack Speed,Velocità d'attacco,it-IT
+Bewegungseffizienz,Efficienza del movimento,it-IT
+Block Break Speed,Velocità di distruzione dei blocchi,it-IT
+Block Interaction Range,Raggio d'interazione con i blocchi,it-IT
+Blockabbaugeschwindigkeit,Velocità di distruzione dei blocchi,it-IT
+Block‐Interaktionsweite,Raggio d'interazione con i blocchi,it-IT
+Blok Etkileşim Mesafesi,Raggio d'interazione con i blocchi,it-IT
+Blok Kırma Hızı,Velocità di distruzione dei blocchi,it-IT
+bonus d'oxygène,Ossigeno aggiuntivo,it-IT
+Bounciness,Elasticità,it-IT
+Brenndauer,Tempo di combustione,it-IT
+Burning Time,Tempo di combustione,it-IT
+Bật lùi tấn công,Contraccolpo,it-IT
+Camera Distance,Distanza dell'inquadratura,it-IT
+Canlı Fark Etme Mesafesi,Raggio di tentazione delle creature,it-IT
+Canlı Takip Menzili,Raggio di rilevamento delle creature,it-IT
+Canlı Takip Mesafesi,Raggio di rilevamento delle creature,it-IT
+chance,Fortuna,it-IT
+Chiều cao bước,Altezza del passo,it-IT
+Dano por golpe,Danni per colpo,it-IT
+Daño de ataque,Danni per colpo,it-IT
+distance d'affichage du nom,Distanza della targhetta,it-IT
+distance d'affichage du score du nom,Distanza del punteggio nella targhetta,it-IT
+distance de chute sûre,Distanza di caduta sicura,it-IT
+distance de la caméra,Distanza dell'inquadratura,it-IT
+Distancia de caída segura,Distanza di caduta sicura,it-IT
+Distancia de la cámara,Distanza dell'inquadratura,it-IT
+Distancia del identificador,Distanza della targhetta,it-IT
+Distancia del marcador de puntuación,Distanza del punteggio nella targhetta,it-IT
+Distância da câmera,Distanza dell'inquadratura,it-IT
+Distância de queda segura,Distanza di caduta sicura,it-IT
+Distância do identificador,Distanza della targhetta,it-IT
+Distância do marcador de pontuação,Distanza del punteggio nella targhetta,it-IT
+Duración de quemadura,Tempo di combustione,it-IT
+Duração de queima,Tempo di combustione,it-IT
+Dureza de armadura,Solidità dell'armatura,it-IT
+Düşme Hasarı Çarpanı,Moltiplicatore del danno da caduta,it-IT
+efficacité de minage,Efficienza d'estrazione,it-IT
+efficacité de mouvement,Efficienza del movimento,it-IT
+efficacité de mouvement aquatique,Efficienza del movimento in acqua,it-IT
+Eficiencia al romper bloques,Efficienza d'estrazione,it-IT
+Eficiencia de movimiento,Efficienza del movimento,it-IT
+Eficiencia de movimiento acuático,Efficienza del movimento in acqua,it-IT
+Eficiência de mineração,Efficienza d'estrazione,it-IT
+Eficiência de movimento,Efficienza del movimento,it-IT
+Eficiência de movimento na água,Efficienza del movimento in acqua,it-IT
+Empuje de ataque,Contraccolpo,it-IT
+En Fazla Emilim,Assorbimento massimo,it-IT
+En Fazla Sağlık,Salute massima,it-IT
+Entity Interaction Range,Raggio d'interazione con le entità,it-IT
+Escala,Scala,it-IT
+Explosion Knockback Resistance,Resistenza al contraccolpo delle esplosioni,it-IT
+Explosionsstandfestigkeit,Resistenza al contraccolpo delle esplosioni,it-IT
+Eğilirken Hareket Hızı,Velocità furtiva,it-IT
+Eğilme Hızı,Velocità furtiva,it-IT
+Fall Damage Multiplier,Moltiplicatore del danno da caduta,it-IT
+Fallschaden‐Multiplikator,Moltiplicatore del danno da caduta,it-IT
+Federung,Elasticità,it-IT
+Fluggeschwindigkeit,Velocità in volo,it-IT
+Flying Speed,Velocità in volo,it-IT
+Força de salto do cavalo,Forza di salto del cavallo,it-IT
+Força do salto,Forza del salto,it-IT
+Friction Modifier,Modificatore di attrito,it-IT
+Geniş Saldırı Hasar Oranı,Rapporto del danno sferzante,it-IT
+Geschwindigkeit,Velocità,it-IT
+Giáp,Armatura,it-IT
+Giáp,Punti armatura,it-IT
+Glück,Fortuna,it-IT
+Gravedad,Gravità,it-IT
+Gravidade,Gravità,it-IT
+Gravity,Gravità,it-IT
+gravité,Gravità,it-IT
+Größe,Scala,it-IT
+Güvenli Düşüş Mesafesi,Distanza di caduta sicura,it-IT
+Hareket Verimliliği,Efficienza del movimento,it-IT
+hauteur des pas,Altezza del passo,it-IT
+Hava Direnci Niteleyici,Modificatore di resistenza aerodinamica,it-IT
+Hiệu quả di chuyển,Efficienza del movimento,it-IT
+Hiệu quả di chuyển dưới nước,Efficienza del movimento in acqua,it-IT
+Hiệu suất đào,Efficienza d'estrazione,it-IT
+Horse Jump Strength,Forza di salto del cavallo,it-IT
+Hız,Velocità,it-IT
+Hấp thụ tối đa,Assorbimento massimo,it-IT
+Hệ số lực cản không khí,Modificatore di resistenza aerodinamica,it-IT
+Hệ số ma sát,Modificatore di attrito,it-IT
+Hệ số sát thương rơi,Moltiplicatore del danno da caduta,it-IT
+Jump Strength,Forza del salto,it-IT
+Kamera Mesafesi,Distanza dell'inquadratura,it-IT
+Kameraabstand,Distanza dell'inquadratura,it-IT
+Kazım Verimliliği,Efficienza d'estrazione,it-IT
+Khoảng cách hiển thị nhãn ghi tên,Distanza della targhetta,it-IT
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,Distanza del punteggio nella targhetta,it-IT
+Khoảng cách máy quay,Distanza dell'inquadratura,it-IT
+Kháng đẩy lùi,Resistenza al contraccolpo,it-IT
+Kháng đẩy lùi từ vụ nổ,Resistenza al contraccolpo delle esplosioni,it-IT
+Knockback Resistance,Resistenza al contraccolpo,it-IT
+Kreaturen‐Anlockdistanz,Raggio di tentazione delle creature,it-IT
+Kreaturen‐Verfolgedistanz,Raggio di rilevamento delle creature,it-IT
+Luck,Fortuna,it-IT
+Luftwiderstandsfaktor,Modificatore di resistenza aerodinamica,it-IT
+Lực lượng thây ma tăng cường,Rinforzi zombi,it-IT
+Max Absorption,Assorbimento massimo,it-IT
+Max Health,Salute massima,it-IT
+Maximale Absorption,Assorbimento massimo,it-IT
+Maximale Gesundheit,Salute massima,it-IT
+May mắn,Fortuna,it-IT
+Mining Efficiency,Efficienza d'estrazione,it-IT
+Mob Follow Range,Raggio di rilevamento delle creature,it-IT
+Mob Tempt Range,Raggio di tentazione delle creature,it-IT
+Mobの誘引される範囲,Raggio di tentazione delle creature,it-IT
+Mobの追跡範囲,Raggio di rilevamento delle creature,it-IT
+Modificador de atrito,Modificatore di attrito,it-IT
+Modificador de fricción,Modificatore di attrito,it-IT
+Modificador de resistencia del aire,Modificatore di resistenza aerodinamica,it-IT
+Modificador de resistência ao ar,Modificatore di resistenza aerodinamica,it-IT
+modificateur de friction,Modificatore di attrito,it-IT
+modificateur de résistance à l'air,Modificatore di resistenza aerodinamica,it-IT
+Movement Efficiency,Efficienza del movimento,it-IT
+Multiplicador de dano por queda,Moltiplicatore del danno da caduta,it-IT
+Multiplicador de daño por caída,Moltiplicatore del danno da caduta,it-IT
+multiplicateur des dégâts de chute,Moltiplicatore del danno da caduta,it-IT
+Name Tag Distance,Distanza della targhetta,it-IT
+Name Tag Score Distance,Distanza del punteggio nella targhetta,it-IT
+Namensschildabstand,Distanza della targhetta,it-IT
+Objekt‐Interaktionsweite,Raggio d'interazione con le entità,it-IT
+Oksijen Takviyesi,Ossigeno aggiuntivo,it-IT
+Oxigênio extra,Ossigeno aggiuntivo,it-IT
+Oxygen Bonus,Ossigeno aggiuntivo,it-IT
+Oxígeno extra,Ossigeno aggiuntivo,it-IT
+Patlama Savrulması Direnci,Resistenza al contraccolpo delle esplosioni,it-IT
+Pferdesprungstärke,Forza di salto del cavallo,it-IT
+Phạm vi nhận điểm mốc,Portata di ricezione del punto di riferimento,it-IT
+Phạm vi thu hút sinh vật,Raggio di tentazione delle creature,it-IT
+Phạm vi truyền điểm mốc,Portata di trasmissione del punto di riferimento,it-IT
+Phạm vi tương tác khối,Raggio d'interazione con i blocchi,it-IT
+Phạm vi tương tác thực thể,Raggio d'interazione con le entità,it-IT
+Phạm vi đi theo của sinh vật,Raggio di rilevamento delle creature,it-IT
+Phần oxi thêm,Ossigeno aggiuntivo,it-IT
+points d'armure,Armatura,it-IT
+points d'armure,Punti armatura,it-IT
+points d'attaque,Danni per colpo,it-IT
+portée d'interaction avec les blocs,Raggio d'interazione con i blocchi,it-IT
+portée d'interaction avec les entités,Raggio d'interazione con le entità,it-IT
+portée de détection des créatures,Raggio di rilevamento delle creature,it-IT
+portée de réception du point de repère,Portata di ricezione del punto di riferimento,it-IT
+portée de tentation des créatures,Raggio di tentazione delle creature,it-IT
+portée de transmission du point de repère,Portata di trasmissione del punto di riferimento,it-IT
+Potencia de salto,Forza del salto,it-IT
+Potencia de salto del caballo,Forza di salto del cavallo,it-IT
+Proporción del daño de barrido,Rapporto del danno sferzante,it-IT
+puissance de saut,Forza del salto,it-IT
+puissance de saut du cheval,Forza di salto del cavallo,it-IT
+Punktetafelabstand,Distanza del punteggio nella targhetta,it-IT
+Quy mô,Scala,it-IT
+Radio de atracción de criaturas,Raggio di tentazione delle creature,it-IT
+Rango de interacción con bloques,Raggio d'interazione con i blocchi,it-IT
+Rango de interacción con entidades,Raggio d'interazione con le entità,it-IT
+Rango de recepción del punto de referencia,Portata di ricezione del punto di riferimento,it-IT
+Rango de seguimiento,Raggio di rilevamento delle creature,it-IT
+Rango de transmisión del punto de referencia,Portata di trasmissione del punto di riferimento,it-IT
+rapidité,Velocità,it-IT
+ratio de dégâts par balayage,Rapporto del danno sferzante,it-IT
+rebond,Elasticità,it-IT
+Rebote,Elasticità,it-IT
+recul d'attaque,Contraccolpo,it-IT
+Reforços de zumbis,Rinforzi zombi,it-IT
+Refuerzos zombi,Rinforzi zombi,it-IT
+Reibungsfaktor,Modificatore di attrito,it-IT
+renforts de zombies,Rinforzi zombi,it-IT
+Repulsão do ataque,Contraccolpo,it-IT
+Resistencia al empuje,Resistenza al contraccolpo,it-IT
+Resistencia al empuje de las explosiones,Resistenza al contraccolpo delle esplosioni,it-IT
+Resistência da armadura,Solidità dell'armatura,it-IT
+Resistência à repulsão,Resistenza al contraccolpo,it-IT
+Resistência à repulsão de explosões,Resistenza al contraccolpo delle esplosioni,it-IT
+robustesse,Solidità dell'armatura,it-IT
+résistance au recul,Resistenza al contraccolpo,it-IT
+résistance au recul des explosions,Resistenza al contraccolpo delle esplosioni,it-IT
+Rüstung,Armatura,it-IT
+Rüstung,Punti armatura,it-IT
+Rüstungshärte,Solidità dell'armatura,it-IT
+Safe Fall Distance,Distanza di caduta sicura,it-IT
+Saldırı Hasarı,Danni per colpo,it-IT
+Saldırı Hızı,Velocità d'attacco,it-IT
+Saldırı Savurması,Contraccolpo,it-IT
+Salud máxima,Salute massima,it-IT
+Sauerstoffbonus,Ossigeno aggiuntivo,it-IT
+Savrulma Direnci,Resistenza al contraccolpo,it-IT
+Scale,Scala,it-IT
+Schleichgeschwindigkeit,Velocità furtiva,it-IT
+Schritthöhe,Altezza del passo,it-IT
+Schwerkraft,Gravità,it-IT
+Schwungschadensverhältnis,Rapporto del danno sferzante,it-IT
+Sekme,Elasticità,it-IT
+Sichere Fallhöhe,Distanza di caduta sicura,it-IT
+Sinh lực tối đa,Salute massima,it-IT
+Sneaking Speed,Velocità furtiva,it-IT
+Sorte,Fortuna,it-IT
+Speed,Velocità,it-IT
+Sprungstärke,Forza del salto,it-IT
+Standfestigkeit,Resistenza al contraccolpo,it-IT
+Step Height,Altezza del passo,it-IT
+Su Altında Kazım Hızı,Velocità d'estrazione sott'acqua,it-IT
+Submerged Mining Speed,Velocità d'estrazione sott'acqua,it-IT
+Suda Hareket Verimliliği,Efficienza del movimento in acqua,it-IT
+Suerte,Fortuna,it-IT
+Sweeping Damage Ratio,Rapporto del danno sferzante,it-IT
+Sürtünme Düzenleyici,Modificatore di attrito,it-IT
+Sức bật lùi,Contraccolpo,it-IT
+Sức nhảy,Forza del salto,it-IT
+Sức nhảy của ngựa,Forza di salto del cavallo,it-IT
+Sức tấn công,Danni per colpo,it-IT
+taille,Scala,it-IT
+Taxa de dano lateral,Rapporto del danno sferzante,it-IT
+temps en feu,Tempo di combustione,it-IT
+Thời gian cháy,Tempo di combustione,it-IT
+Trọng lực,Gravità,it-IT
+Tỉ lệ sát thương quét cạnh,Rapporto del danno sferzante,it-IT
+Tốc độ,Velocità,it-IT
+Tốc độ bay,Velocità in volo,it-IT
+Tốc độ phá khối,Velocità di distruzione dei blocchi,it-IT
+Tốc độ tấn công,Velocità d'attacco,it-IT
+Tốc độ đi rón rén,Velocità furtiva,it-IT
+Tốc độ đào dưới nước,Velocità d'estrazione sott'acqua,it-IT
+Unterwasser‐Abbaugeschwindigkeit,Velocità d'estrazione sott'acqua,it-IT
+Uçma Hızı,Velocità in volo,it-IT
+Uçuş Hızı,Velocità in volo,it-IT
+Varlık Etkileşim Mesafesi,Raggio d'interazione con le entità,it-IT
+Velocidad,Velocità,it-IT
+Velocidad al agacharse,Velocità furtiva,it-IT
+Velocidad al romper bloques,Velocità di distruzione dei blocchi,it-IT
+Velocidad al romper bloques sumergido,Velocità d'estrazione sott'acqua,it-IT
+Velocidad de ataque,Velocità d'attacco,it-IT
+Velocidad de vuelo,Velocità in volo,it-IT
+Velocidade,Velocità,it-IT
+Velocidade de ataque,Velocità d'attacco,it-IT
+Velocidade de mineração submersa,Velocità d'estrazione sott'acqua,it-IT
+Velocidade de quebra de blocos,Velocità di distruzione dei blocchi,it-IT
+Velocidade do voo,Velocità in volo,it-IT
+Velocidade furtiva,Velocità furtiva,it-IT
+Vida máxima,Salute massima,it-IT
+vie maximale,Salute massima,it-IT
+vitesse accroupie,Velocità furtiva,it-IT
+vitesse d'attaque,Velocità d'attacco,it-IT
+vitesse de destruction des blocs,Velocità di distruzione dei blocchi,it-IT
+vitesse de minage sous l'eau,Velocità d'estrazione sott'acqua,it-IT
+vitesse de vol,Velocità in volo,it-IT
+Wasser‐Bewegungseffizienz,Efficienza del movimento in acqua,it-IT
+Water Movement Efficiency,Efficienza del movimento in acqua,it-IT
+Waypoint Receive Range,Portata di ricezione del punto di riferimento,it-IT
+Waypoint Transmit Range,Portata di trasmissione del punto di riferimento,it-IT
+Wegpunkt‐Empfangsreichweite,Portata di ricezione del punto di riferimento,it-IT
+Wegpunkt‐Sendereichweite,Portata di trasmissione del punto di riferimento,it-IT
+Yanma Süresi,Tempo di combustione,it-IT
+Yer Çekimi,Gravità,it-IT
+Yol Noktası Alma Mesafesi,Portata di ricezione del punto di riferimento,it-IT
+Yol Noktası İletme Mesafesi,Portata di trasmissione del punto di riferimento,it-IT
+Zombi Takviyesi,Rinforzi zombi,it-IT
+Zombie Reinforcements,Rinforzi zombi,it-IT
+Zombie-Verstärkung,Rinforzi zombi,it-IT
+Zombie‐Verstärkung,Rinforzi zombi,it-IT
+Zıplama Gücü,Forza del salto,it-IT
+Zırh,Armatura,it-IT
+Zırh,Punti armatura,it-IT
+Zırh Sertliği,Solidità dell'armatura,it-IT
+Ölçek,Scala,it-IT
+Độ bền của áo giáp,Solidità dell'armatura,it-IT
+Độ bền áo giáp,Solidità dell'armatura,it-IT
+Độ cao rơi xuống an toàn,Distanza di caduta sicura,it-IT
+Độ nảy,Elasticità,it-IT
+Şans,Fortuna,it-IT
+Безопасная высота падения,Distanza di caduta sicura,it-IT
+Бонус к кислороду,Ossigeno aggiuntivo,it-IT
+Броня,Armatura,it-IT
+Броня,Punti armatura,it-IT
+Везение,Fortuna,it-IT
+Время горения,Tempo di combustione,it-IT
+Высота шага,Altezza del passo,it-IT
+Гравитация,Gravità,it-IT
+Дальность взаимодействия с блоками,Raggio d'interazione con i blocchi,it-IT
+Дальность взаимодействия с сущностями,Raggio d'interazione con le entità,it-IT
+Дальность видимости имени,Distanza della targhetta,it-IT
+Дальность видимости счёта под именем,Distanza del punteggio nella targhetta,it-IT
+Дальность обнаружения маркеров,Portata di ricezione del punto di riferimento,it-IT
+Дальность передачи маркера,Portata di trasmissione del punto di riferimento,it-IT
+Дальность приманивания,Raggio di tentazione delle creature,it-IT
+Диапазон преследования моба,Raggio di rilevamento delle creature,it-IT
+Коэффициент разящего удара,Rapporto del danno sferzante,it-IT
+Максимальное здоровье,Salute massima,it-IT
+Множитель урона от падения,Moltiplicatore del danno da caduta,it-IT
+Модификатор сопротивления воздуха,Modificatore di resistenza aerodinamica,it-IT
+Модификатор трения,Modificatore di attrito,it-IT
+Отбрасывание при атаке,Contraccolpo,it-IT
+Отдалённость камеры,Distanza dell'inquadratura,it-IT
+Подкрепление зомби,Rinforzi zombi,it-IT
+Предел поглощения,Assorbimento massimo,it-IT
+Размер,Scala,it-IT
+Сила прыжка,Forza del salto,it-IT
+Сила прыжка лошади,Forza di salto del cavallo,it-IT
+Скорость,Velocità,it-IT
+Скорость атаки,Velocità d'attacco,it-IT
+Скорость добычи под водой,Velocità d'estrazione sott'acqua,it-IT
+Скорость подкрадывания,Velocità furtiva,it-IT
+Скорость полёта,Velocità in volo,it-IT
+Скорость разрушения блоков,Velocità di distruzione dei blocchi,it-IT
+Сопротивление к отбрасыванию,Resistenza al contraccolpo,it-IT
+Сопротивление к отбрасыванию взрывом,Resistenza al contraccolpo delle esplosioni,it-IT
+Твёрдость брони,Solidità dell'armatura,it-IT
+Упругость,Elasticità,it-IT
+Урон при атаке,Danni per colpo,it-IT
+Эффективность добычи,Efficienza d'estrazione,it-IT
+Эффективность передвижения,Efficienza del movimento,it-IT
+Эффективность передвижения в воде,Efficienza del movimento in acqua,it-IT
+กระดอนโจมตี,Contraccolpo,it-IT
+กำลังเสริมซอมบี้,Rinforzi zombi,it-IT
+ขนาด,Scala,it-IT
+ความต้านทานการกระดอน,Resistenza al contraccolpo,it-IT
+ความต้านทานการกระดอนจากระเบิด,Resistenza al contraccolpo delle esplosioni,it-IT
+ความสูงของขั้นก้าว,Altezza del passo,it-IT
+ความเด้ง,Elasticità,it-IT
+ความเร็ว,Velocità,it-IT
+ความเร็วการขุดใต้น้ำ,Velocità d'estrazione sott'acqua,it-IT
+ความเร็วการทำลายบล็อก,Velocità di distruzione dei blocchi,it-IT
+ความเร็วการบิน,Velocità in volo,it-IT
+ความเร็วการย่อง,Velocità furtiva,it-IT
+ความเร็วโจมตี,Velocità d'attacco,it-IT
+ความแข็งแกร่งของเกราะ,Solidità dell'armatura,it-IT
+ความแรงการกระโดด,Forza del salto,it-IT
+ดาเมจโจมตี,Danni per colpo,it-IT
+ดูดซับสูงสุด,Assorbimento massimo,it-IT
+ตัวคูณดาเมจจากการตก,Moltiplicatore del danno da caduta,it-IT
+ตัวดัดแปรแรงต้านอากาศ,Modificatore di resistenza aerodinamica,it-IT
+ตัวดัดแปรแรงเสียดทาน,Modificatore di attrito,it-IT
+ประสิทธิภาพการขุด,Efficienza d'estrazione,it-IT
+ประสิทธิภาพการเคลื่อนที่,Efficienza del movimento,it-IT
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,Efficienza del movimento in acqua,it-IT
+ระยะการตกที่ปลอดภัย,Distanza di caduta sicura,it-IT
+ระยะการรับเวย์พอยต์,Portata di ricezione del punto di riferimento,it-IT
+ระยะการล่อของม็อบ,Raggio di tentazione delle creature,it-IT
+ระยะการส่งผ่านเวย์พอยต์,Portata di trasmissione del punto di riferimento,it-IT
+ระยะคะแนนใต้ป้ายชื่อ,Distanza del punteggio nella targhetta,it-IT
+ระยะที่ม็อบติดตาม,Raggio di rilevamento delle creature,it-IT
+ระยะปฏิสัมพันธ์กับบล็อก,Raggio d'interazione con i blocchi,it-IT
+ระยะปฏิสัมพันธ์กับเอนทิตี้,Raggio d'interazione con le entità,it-IT
+ระยะป้ายชื่อ,Distanza della targhetta,it-IT
+ระยะห่างกล้อง,Distanza dell'inquadratura,it-IT
+ระยะเวลาติดไฟ,Tempo di combustione,it-IT
+ออกซิเจนพิเศษ,Ossigeno aggiuntivo,it-IT
+อัตราส่วนดาเมจแบบกวาด,Rapporto del danno sferzante,it-IT
+เกราะ,Armatura,it-IT
+เกราะ,Punti armatura,it-IT
+เลือดสูงสุด,Salute massima,it-IT
+แรงม้ากระโดด,Forza di salto del cavallo,it-IT
+แรงโน้มถ่วง,Gravità,it-IT
+โชค,Fortuna,it-IT
+なぎ払いダメージの比率,Rapporto del danno sferzante,it-IT
+ウェイポイント伝達距離,Portata di trasmissione del punto di riferimento,it-IT
+ウェイポイント受信距離,Portata di ricezione del punto di riferimento,it-IT
+ウマの跳躍力,Forza di salto del cavallo,it-IT
+エンティティ操作範囲,Raggio d'interazione con le entità,it-IT
+カメラ距離,Distanza dell'inquadratura,it-IT
+サイズ,Scala,it-IT
+スニーク速度,Velocità furtiva,it-IT
+ゾンビの増援,Rinforzi zombi,it-IT
+ネームタグの表示距離,Distanza della targhetta,it-IT
+ネームタグ下のスコアの表示距離,Distanza del punteggio nella targhetta,it-IT
+ノックバック,Contraccolpo,it-IT
+ノックバック力,Contraccolpo,it-IT
+ノックバック耐性,Resistenza al contraccolpo,it-IT
+ブロック操作範囲,Raggio d'interazione con i blocchi,it-IT
+ブロック破壊速度,Velocità di distruzione dei blocchi,it-IT
+僵尸增援,Rinforzi zombi,it-IT
+击退,Contraccolpo,it-IT
+击退抗性,Resistenza al contraccolpo,it-IT
+名牌分数距离,Distanza del punteggio nella targhetta,it-IT
+名牌距离,Distanza della targhetta,it-IT
+名稱標籤分數距離,Distanza del punteggio nella targhetta,it-IT
+名稱標籤距離,Distanza della targhetta,it-IT
+大きさ,Scala,it-IT
+大小,Scala,it-IT
+安全摔落高度,Distanza di caduta sicura,it-IT
+安全落下高度,Distanza di caduta sicura,it-IT
+实体交互距离,Raggio d'interazione con le entità,it-IT
+實體互動距離,Raggio d'interazione con le entità,it-IT
+尺寸,Scala,it-IT
+幸运值,Fortuna,it-IT
+幸運,Fortuna,it-IT
+弹性,Elasticità,it-IT
+弾性係数,Elasticità,it-IT
+彈性,Elasticità,it-IT
+抗擊退,Resistenza al contraccolpo,it-IT
+抗爆炸擊退,Resistenza al contraccolpo delle esplosioni,it-IT
+护甲值,Armatura,it-IT
+护甲值,Punti armatura,it-IT
+挖掘效率,Efficienza d'estrazione,it-IT
+採掘効率,Efficienza d'estrazione,it-IT
+摔落伤害倍数,Moltiplicatore del danno da caduta,it-IT
+摔落傷害倍率,Moltiplicatore del danno da caduta,it-IT
+摩擦係数,Modificatore di attrito,it-IT
+摩擦力修正係數,Modificatore di attrito,it-IT
+摩擦力修正系数,Modificatore di attrito,it-IT
+擊退,Contraccolpo,it-IT
+攻击伤害,Danni per colpo,it-IT
+攻击速度,Velocità d'attacco,it-IT
+攻撃力,Danni per colpo,it-IT
+攻撃速度,Velocità d'attacco,it-IT
+攻擊傷害,Danni per colpo,it-IT
+攻擊速度,Velocità d'attacco,it-IT
+方块交互距离,Raggio d'interazione con i blocchi,it-IT
+方块破坏速度,Velocità di distruzione dei blocchi,it-IT
+方塊互動距離,Raggio d'interazione con i blocchi,it-IT
+方塊破壞速度,Velocità di distruzione dei blocchi,it-IT
+最大伤害吸收值,Assorbimento massimo,it-IT
+最大体力,Salute massima,it-IT
+最大傷害吸收值,Assorbimento massimo,it-IT
+最大生命值,Salute massima,it-IT
+最大行走高度,Altezza del passo,it-IT
+最高生命值,Salute massima,it-IT
+横扫伤害比率,Rapporto del danno sferzante,it-IT
+橫掃傷害率,Rapporto del danno sferzante,it-IT
+殭屍增援隊,Rinforzi zombi,it-IT
+段差上限,Altezza del passo,it-IT
+水下挖掘速度,Velocità d'estrazione sott'acqua,it-IT
+水中挖掘速度,Velocità d'estrazione sott'acqua,it-IT
+水中採掘速度,Velocità d'estrazione sott'acqua,it-IT
+水中移动效率,Efficienza del movimento in acqua,it-IT
+水中移動効率,Efficienza del movimento in acqua,it-IT
+水中移動效率,Efficienza del movimento in acqua,it-IT
+潛行速度,Velocità furtiva,it-IT
+潜行速度,Velocità furtiva,it-IT
+炎上時間,Tempo di combustione,it-IT
+燃燒時間,Tempo di combustione,it-IT
+爆炸击退抗性,Resistenza al contraccolpo delle esplosioni,it-IT
+爆発ノックバック耐性,Resistenza al contraccolpo delle esplosioni,it-IT
+生物引誘範圍,Raggio di tentazione delle creature,it-IT
+生物引诱范围,Raggio di tentazione delle creature,it-IT
+生物跟随距离,Raggio di rilevamento delle creature,it-IT
+生物追蹤範圍,Raggio di rilevamento delle creature,it-IT
+盔甲,Armatura,it-IT
+盔甲,Punti armatura,it-IT
+盔甲強度,Solidità dell'armatura,it-IT
+盔甲韧性,Solidità dell'armatura,it-IT
+着火时间,Tempo di combustione,it-IT
+移动效率,Efficienza del movimento,it-IT
+移動効率,Efficienza del movimento,it-IT
+移動效率,Efficienza del movimento,it-IT
+移動速度,Velocità,it-IT
+空气阻力修正系数,Modificatore di resistenza aerodinamica,it-IT
+空気抵抗係数,Modificatore di resistenza aerodinamica,it-IT
+空氣阻力修正係數,Modificatore di resistenza aerodinamica,it-IT
+落下ダメージ倍率,Moltiplicatore del danno da caduta,it-IT
+衝撃吸収レベルの上限,Assorbimento massimo,it-IT
+路径点传输距离,Portata di trasmissione del punto di riferimento,it-IT
+路径点接收距离,Portata di ricezione del punto di riferimento,it-IT
+路徑點傳輸距離,Portata di trasmissione del punto di riferimento,it-IT
+路徑點接收距離,Portata di ricezione del punto di riferimento,it-IT
+跳跃力度,Forza del salto,it-IT
+跳躍力,Forza del salto,it-IT
+速度,Velocità,it-IT
+運,Fortuna,it-IT
+酸素ボーナス,Ossigeno aggiuntivo,it-IT
+重力,Gravità,it-IT
+鏡頭距離,Distanza dell'inquadratura,it-IT
+镜头距离,Distanza dell'inquadratura,it-IT
+防具強度,Solidità dell'armatura,it-IT
+防御力,Armatura,it-IT
+防御力,Punti armatura,it-IT
+額外氧氣,Ossigeno aggiuntivo,it-IT
+额外氧气,Ossigeno aggiuntivo,it-IT
+飛行速度,Velocità in volo,it-IT
+飞行速度,Velocità in volo,it-IT
+馬跳躍力,Forza di salto del cavallo,it-IT
+马匹跳跃能力,Forza di salto del cavallo,it-IT
+개체 상호 작용 범위,Raggio d'interazione con le entità,it-IT
+걸음 높이,Altezza del passo,it-IT
+경로점 발신 범위,Portata di trasmissione del punto di riferimento,it-IT
+경로점 수신 범위,Portata di ricezione del punto di riferimento,it-IT
+공격 밀침 세기,Contraccolpo,it-IT
+공격 속도,Velocità d'attacco,it-IT
+공격 피해,Danni per colpo,it-IT
+공기 저항력 변경자,Modificatore di resistenza aerodinamica,it-IT
+낙하 피해 배수,Moltiplicatore del danno da caduta,it-IT
+마찰력 변경자,Modificatore di attrito,it-IT
+말 점프 강도,Forza di salto del cavallo,it-IT
+몹 따름 범위,Raggio di rilevamento delle creature,it-IT
+몹 유인 범위,Raggio di tentazione delle creature,it-IT
+밀침 저항,Resistenza al contraccolpo,it-IT
+방어,Armatura,it-IT
+방어,Punti armatura,it-IT
+방어 강도,Solidità dell'armatura,it-IT
+배율,Scala,it-IT
+블록 상호 작용 범위,Raggio d'interazione con i blocchi,it-IT
+블록 파괴 속도,Velocità di distruzione dei blocchi,it-IT
+비행 속도,Velocità in volo,it-IT
+산소 추가,Ossigeno aggiuntivo,it-IT
+속도,Velocità,it-IT
+수중 이동 효율,Efficienza del movimento in acqua,it-IT
+수중 채굴 속도,Velocità d'estrazione sott'acqua,it-IT
+안전 낙하 거리,Distanza di caduta sicura,it-IT
+연소 시간,Tempo di combustione,it-IT
+웅크렸을 때 속도,Velocità furtiva,it-IT
+이동 효율,Efficienza del movimento,it-IT
+이름표 거리,Distanza della targhetta,it-IT
+이름표 점수 거리,Distanza del punteggio nella targhetta,it-IT
+점프 세기,Forza del salto,it-IT
+좀비 증원,Rinforzi zombi,it-IT
+중력,Gravità,it-IT
+채굴 효율,Efficienza d'estrazione,it-IT
+최대 생명력,Salute massima,it-IT
+최대 흡수,Assorbimento massimo,it-IT
+카메라 거리,Distanza dell'inquadratura,it-IT
+크기,Scala,it-IT
+탄성,Elasticità,it-IT
+폭발 밀침 저항,Resistenza al contraccolpo delle esplosioni,it-IT
+행운,Fortuna,it-IT
+휩쓸기 피해 비율,Rapporto del danno sferzante,it-IT

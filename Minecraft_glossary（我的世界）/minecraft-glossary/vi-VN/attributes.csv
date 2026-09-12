@@ -1,0 +1,579 @@
+﻿source,target,tgt_lng
+%%%s %s,%s%% %s,vi-VN
+%2$s %1$s%%,%s%% %s,vi-VN
+%2$s +%1$s,+%s %s,vi-VN
+%2$s +%1$s%%,+%s%% %s,vi-VN
+%2$s -%1$s,-%s %s,vi-VN
+%2$s -%1$s%%,-%s%% %s,vi-VN
+%2$s: %1$s,%s %s,vi-VN
+%2$s: %1$s%%,%s%% %s,vi-VN
+%2$s: +%1$s,+%s %s,vi-VN
+%2$s: +%1$s%%,+%s%% %s,vi-VN
+%2$s: -%1$s,-%s %s,vi-VN
+%2$s: -%1$s%%,-%s%% %s,vi-VN
+%s %% %s,%s%% %s,vi-VN
+%s %% en %s,%s%% %s,vi-VN
+%s en %s,%s %s,vi-VN
++%%%s %s,+%s%% %s,vi-VN
++%s %% %s,+%s%% %s,vi-VN
++%s %% en %s,+%s%% %s,vi-VN
++%s en %s,+%s %s,vi-VN
+-%%%s %s,-%s%% %s,vi-VN
+-%s %% %s,-%s%% %s,vi-VN
+-%s %% en %s,-%s%% %s,vi-VN
+-%s en %s,-%s %s,vi-VN
+Abbaueffizienz,Hiệu suất đào,vi-VN
+Absorción máxima,Hấp thụ tối đa,vi-VN
+absorption maximale,Hấp thụ tối đa,vi-VN
+Absorção máxima,Hấp thụ tối đa,vi-VN
+Ad Etiketi Mesafesi,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+Ad Etiketi Puan Mesafesi,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+Adım Yüksekliği,Chiều cao bước,vi-VN
+Air Drag Modifier,Hệ số lực cản không khí,vi-VN
+Alcance de atração das criaturas,Phạm vi thu hút sinh vật,vi-VN
+Alcance de detecção do marcador,Phạm vi nhận điểm mốc,vi-VN
+Alcance de interação com blocos,Phạm vi tương tác khối,vi-VN
+Alcance de interação com entidades,Phạm vi tương tác thực thể,vi-VN
+Alcance de perseguição das criaturas,Phạm vi đi theo của sinh vật,vi-VN
+Alcance de transmissão do marcador,Phạm vi truyền điểm mốc,vi-VN
+Altezza del passo,Chiều cao bước,vi-VN
+Altura de paso,Chiều cao bước,vi-VN
+Altura dos passos,Chiều cao bước,vi-VN
+Angriffsgeschwindigkeit,Tốc độ tấn công,vi-VN
+Angriffsrückstoß,Bật lùi tấn công,vi-VN
+Angriffsrückstoß,Sức bật lùi,vi-VN
+Angriffsschaden,Sức tấn công,vi-VN
+Armadura,Giáp,vi-VN
+Armatura,Giáp,vi-VN
+Armor,Giáp,vi-VN
+Armor Toughness,Độ bền của áo giáp,vi-VN
+Armor Toughness,Độ bền áo giáp,vi-VN
+Assorbimento massimo,Hấp thụ tối đa,vi-VN
+At Zıplama Gücü,Sức nhảy của ngựa,vi-VN
+Attack Damage,Sức tấn công,vi-VN
+Attack Knockback,Bật lùi tấn công,vi-VN
+Attack Knockback,Sức bật lùi,vi-VN
+Attack Speed,Tốc độ tấn công,vi-VN
+Bewegungseffizienz,Hiệu quả di chuyển,vi-VN
+Block Break Speed,Tốc độ phá khối,vi-VN
+Block Interaction Range,Phạm vi tương tác khối,vi-VN
+Blockabbaugeschwindigkeit,Tốc độ phá khối,vi-VN
+Block‐Interaktionsweite,Phạm vi tương tác khối,vi-VN
+Blok Etkileşim Mesafesi,Phạm vi tương tác khối,vi-VN
+Blok Kırma Hızı,Tốc độ phá khối,vi-VN
+bonus d'oxygène,Phần oxi thêm,vi-VN
+Bounciness,Độ nảy,vi-VN
+Brenndauer,Thời gian cháy,vi-VN
+Burning Time,Thời gian cháy,vi-VN
+Camera Distance,Khoảng cách máy quay,vi-VN
+Canlı Fark Etme Mesafesi,Phạm vi thu hút sinh vật,vi-VN
+Canlı Takip Menzili,Phạm vi đi theo của sinh vật,vi-VN
+Canlı Takip Mesafesi,Phạm vi đi theo của sinh vật,vi-VN
+chance,May mắn,vi-VN
+Contraccolpo,Bật lùi tấn công,vi-VN
+Contraccolpo,Sức bật lùi,vi-VN
+Danni per colpo,Sức tấn công,vi-VN
+Dano por golpe,Sức tấn công,vi-VN
+Daño de ataque,Sức tấn công,vi-VN
+distance d'affichage du nom,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+distance d'affichage du score du nom,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+distance de chute sûre,Độ cao rơi xuống an toàn,vi-VN
+distance de la caméra,Khoảng cách máy quay,vi-VN
+Distancia de caída segura,Độ cao rơi xuống an toàn,vi-VN
+Distancia de la cámara,Khoảng cách máy quay,vi-VN
+Distancia del identificador,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+Distancia del marcador de puntuación,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+Distanza del punteggio nella targhetta,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+Distanza dell'inquadratura,Khoảng cách máy quay,vi-VN
+Distanza della targhetta,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+Distanza di caduta sicura,Độ cao rơi xuống an toàn,vi-VN
+Distância da câmera,Khoảng cách máy quay,vi-VN
+Distância de queda segura,Độ cao rơi xuống an toàn,vi-VN
+Distância do identificador,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+Distância do marcador de pontuação,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+Duración de quemadura,Thời gian cháy,vi-VN
+Duração de queima,Thời gian cháy,vi-VN
+Dureza de armadura,Độ bền của áo giáp,vi-VN
+Dureza de armadura,Độ bền áo giáp,vi-VN
+Düşme Hasarı Çarpanı,Hệ số sát thương rơi,vi-VN
+efficacité de minage,Hiệu suất đào,vi-VN
+efficacité de mouvement,Hiệu quả di chuyển,vi-VN
+efficacité de mouvement aquatique,Hiệu quả di chuyển dưới nước,vi-VN
+Efficienza d'estrazione,Hiệu suất đào,vi-VN
+Efficienza del movimento,Hiệu quả di chuyển,vi-VN
+Efficienza del movimento in acqua,Hiệu quả di chuyển dưới nước,vi-VN
+Eficiencia al romper bloques,Hiệu suất đào,vi-VN
+Eficiencia de movimiento,Hiệu quả di chuyển,vi-VN
+Eficiencia de movimiento acuático,Hiệu quả di chuyển dưới nước,vi-VN
+Eficiência de mineração,Hiệu suất đào,vi-VN
+Eficiência de movimento,Hiệu quả di chuyển,vi-VN
+Eficiência de movimento na água,Hiệu quả di chuyển dưới nước,vi-VN
+Elasticità,Độ nảy,vi-VN
+Empuje de ataque,Bật lùi tấn công,vi-VN
+Empuje de ataque,Sức bật lùi,vi-VN
+En Fazla Emilim,Hấp thụ tối đa,vi-VN
+En Fazla Sağlık,Sinh lực tối đa,vi-VN
+Entity Interaction Range,Phạm vi tương tác thực thể,vi-VN
+Escala,Quy mô,vi-VN
+Explosion Knockback Resistance,Kháng đẩy lùi từ vụ nổ,vi-VN
+Explosionsstandfestigkeit,Kháng đẩy lùi từ vụ nổ,vi-VN
+Eğilirken Hareket Hızı,Tốc độ đi rón rén,vi-VN
+Eğilme Hızı,Tốc độ đi rón rén,vi-VN
+Fall Damage Multiplier,Hệ số sát thương rơi,vi-VN
+Fallschaden‐Multiplikator,Hệ số sát thương rơi,vi-VN
+Federung,Độ nảy,vi-VN
+Fluggeschwindigkeit,Tốc độ bay,vi-VN
+Flying Speed,Tốc độ bay,vi-VN
+Fortuna,May mắn,vi-VN
+Forza del salto,Sức nhảy,vi-VN
+Forza di salto del cavallo,Sức nhảy của ngựa,vi-VN
+Força de salto do cavalo,Sức nhảy của ngựa,vi-VN
+Força do salto,Sức nhảy,vi-VN
+Friction Modifier,Hệ số ma sát,vi-VN
+Geniş Saldırı Hasar Oranı,Tỉ lệ sát thương quét cạnh,vi-VN
+Geschwindigkeit,Tốc độ,vi-VN
+Glück,May mắn,vi-VN
+Gravedad,Trọng lực,vi-VN
+Gravidade,Trọng lực,vi-VN
+Gravity,Trọng lực,vi-VN
+Gravità,Trọng lực,vi-VN
+gravité,Trọng lực,vi-VN
+Größe,Quy mô,vi-VN
+Güvenli Düşüş Mesafesi,Độ cao rơi xuống an toàn,vi-VN
+Hareket Verimliliği,Hiệu quả di chuyển,vi-VN
+hauteur des pas,Chiều cao bước,vi-VN
+Hava Direnci Niteleyici,Hệ số lực cản không khí,vi-VN
+Horse Jump Strength,Sức nhảy của ngựa,vi-VN
+Hız,Tốc độ,vi-VN
+Jump Strength,Sức nhảy,vi-VN
+Kamera Mesafesi,Khoảng cách máy quay,vi-VN
+Kameraabstand,Khoảng cách máy quay,vi-VN
+Kazım Verimliliği,Hiệu suất đào,vi-VN
+Knockback Resistance,Kháng đẩy lùi,vi-VN
+Kreaturen‐Anlockdistanz,Phạm vi thu hút sinh vật,vi-VN
+Kreaturen‐Verfolgedistanz,Phạm vi đi theo của sinh vật,vi-VN
+Luck,May mắn,vi-VN
+Luftwiderstandsfaktor,Hệ số lực cản không khí,vi-VN
+Max Absorption,Hấp thụ tối đa,vi-VN
+Max Health,Sinh lực tối đa,vi-VN
+Maximale Absorption,Hấp thụ tối đa,vi-VN
+Maximale Gesundheit,Sinh lực tối đa,vi-VN
+Mining Efficiency,Hiệu suất đào,vi-VN
+Mob Follow Range,Phạm vi đi theo của sinh vật,vi-VN
+Mob Tempt Range,Phạm vi thu hút sinh vật,vi-VN
+Mobの誘引される範囲,Phạm vi thu hút sinh vật,vi-VN
+Mobの追跡範囲,Phạm vi đi theo của sinh vật,vi-VN
+Modificador de atrito,Hệ số ma sát,vi-VN
+Modificador de fricción,Hệ số ma sát,vi-VN
+Modificador de resistencia del aire,Hệ số lực cản không khí,vi-VN
+Modificador de resistência ao ar,Hệ số lực cản không khí,vi-VN
+modificateur de friction,Hệ số ma sát,vi-VN
+modificateur de résistance à l'air,Hệ số lực cản không khí,vi-VN
+Modificatore di attrito,Hệ số ma sát,vi-VN
+Modificatore di resistenza aerodinamica,Hệ số lực cản không khí,vi-VN
+Moltiplicatore del danno da caduta,Hệ số sát thương rơi,vi-VN
+Movement Efficiency,Hiệu quả di chuyển,vi-VN
+Multiplicador de dano por queda,Hệ số sát thương rơi,vi-VN
+Multiplicador de daño por caída,Hệ số sát thương rơi,vi-VN
+multiplicateur des dégâts de chute,Hệ số sát thương rơi,vi-VN
+Name Tag Distance,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+Name Tag Score Distance,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+Namensschildabstand,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+Objekt‐Interaktionsweite,Phạm vi tương tác thực thể,vi-VN
+Oksijen Takviyesi,Phần oxi thêm,vi-VN
+Ossigeno aggiuntivo,Phần oxi thêm,vi-VN
+Oxigênio extra,Phần oxi thêm,vi-VN
+Oxygen Bonus,Phần oxi thêm,vi-VN
+Oxígeno extra,Phần oxi thêm,vi-VN
+Patlama Savrulması Direnci,Kháng đẩy lùi từ vụ nổ,vi-VN
+Pferdesprungstärke,Sức nhảy của ngựa,vi-VN
+points d'armure,Giáp,vi-VN
+points d'attaque,Sức tấn công,vi-VN
+Portata di ricezione del punto di riferimento,Phạm vi nhận điểm mốc,vi-VN
+Portata di trasmissione del punto di riferimento,Phạm vi truyền điểm mốc,vi-VN
+portée d'interaction avec les blocs,Phạm vi tương tác khối,vi-VN
+portée d'interaction avec les entités,Phạm vi tương tác thực thể,vi-VN
+portée de détection des créatures,Phạm vi đi theo của sinh vật,vi-VN
+portée de réception du point de repère,Phạm vi nhận điểm mốc,vi-VN
+portée de tentation des créatures,Phạm vi thu hút sinh vật,vi-VN
+portée de transmission du point de repère,Phạm vi truyền điểm mốc,vi-VN
+Potencia de salto,Sức nhảy,vi-VN
+Potencia de salto del caballo,Sức nhảy của ngựa,vi-VN
+Proporción del daño de barrido,Tỉ lệ sát thương quét cạnh,vi-VN
+puissance de saut,Sức nhảy,vi-VN
+puissance de saut du cheval,Sức nhảy của ngựa,vi-VN
+Punktetafelabstand,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+Punti armatura,Giáp,vi-VN
+Radio de atracción de criaturas,Phạm vi thu hút sinh vật,vi-VN
+Raggio d'interazione con i blocchi,Phạm vi tương tác khối,vi-VN
+Raggio d'interazione con le entità,Phạm vi tương tác thực thể,vi-VN
+Raggio di rilevamento delle creature,Phạm vi đi theo của sinh vật,vi-VN
+Raggio di tentazione delle creature,Phạm vi thu hút sinh vật,vi-VN
+Rango de interacción con bloques,Phạm vi tương tác khối,vi-VN
+Rango de interacción con entidades,Phạm vi tương tác thực thể,vi-VN
+Rango de recepción del punto de referencia,Phạm vi nhận điểm mốc,vi-VN
+Rango de seguimiento,Phạm vi đi theo của sinh vật,vi-VN
+Rango de transmisión del punto de referencia,Phạm vi truyền điểm mốc,vi-VN
+rapidité,Tốc độ,vi-VN
+Rapporto del danno sferzante,Tỉ lệ sát thương quét cạnh,vi-VN
+ratio de dégâts par balayage,Tỉ lệ sát thương quét cạnh,vi-VN
+rebond,Độ nảy,vi-VN
+Rebote,Độ nảy,vi-VN
+recul d'attaque,Bật lùi tấn công,vi-VN
+recul d'attaque,Sức bật lùi,vi-VN
+Reforços de zumbis,Lực lượng thây ma tăng cường,vi-VN
+Refuerzos zombi,Lực lượng thây ma tăng cường,vi-VN
+Reibungsfaktor,Hệ số ma sát,vi-VN
+renforts de zombies,Lực lượng thây ma tăng cường,vi-VN
+Repulsão do ataque,Bật lùi tấn công,vi-VN
+Repulsão do ataque,Sức bật lùi,vi-VN
+Resistencia al empuje,Kháng đẩy lùi,vi-VN
+Resistencia al empuje de las explosiones,Kháng đẩy lùi từ vụ nổ,vi-VN
+Resistenza al contraccolpo,Kháng đẩy lùi,vi-VN
+Resistenza al contraccolpo delle esplosioni,Kháng đẩy lùi từ vụ nổ,vi-VN
+Resistência da armadura,Độ bền của áo giáp,vi-VN
+Resistência da armadura,Độ bền áo giáp,vi-VN
+Resistência à repulsão,Kháng đẩy lùi,vi-VN
+Resistência à repulsão de explosões,Kháng đẩy lùi từ vụ nổ,vi-VN
+Rinforzi zombi,Lực lượng thây ma tăng cường,vi-VN
+robustesse,Độ bền của áo giáp,vi-VN
+robustesse,Độ bền áo giáp,vi-VN
+résistance au recul,Kháng đẩy lùi,vi-VN
+résistance au recul des explosions,Kháng đẩy lùi từ vụ nổ,vi-VN
+Rüstung,Giáp,vi-VN
+Rüstungshärte,Độ bền của áo giáp,vi-VN
+Rüstungshärte,Độ bền áo giáp,vi-VN
+Safe Fall Distance,Độ cao rơi xuống an toàn,vi-VN
+Saldırı Hasarı,Sức tấn công,vi-VN
+Saldırı Hızı,Tốc độ tấn công,vi-VN
+Saldırı Savurması,Bật lùi tấn công,vi-VN
+Saldırı Savurması,Sức bật lùi,vi-VN
+Salud máxima,Sinh lực tối đa,vi-VN
+Salute massima,Sinh lực tối đa,vi-VN
+Sauerstoffbonus,Phần oxi thêm,vi-VN
+Savrulma Direnci,Kháng đẩy lùi,vi-VN
+Scala,Quy mô,vi-VN
+Scale,Quy mô,vi-VN
+Schleichgeschwindigkeit,Tốc độ đi rón rén,vi-VN
+Schritthöhe,Chiều cao bước,vi-VN
+Schwerkraft,Trọng lực,vi-VN
+Schwungschadensverhältnis,Tỉ lệ sát thương quét cạnh,vi-VN
+Sekme,Độ nảy,vi-VN
+Sichere Fallhöhe,Độ cao rơi xuống an toàn,vi-VN
+Sneaking Speed,Tốc độ đi rón rén,vi-VN
+Solidità dell'armatura,Độ bền của áo giáp,vi-VN
+Solidità dell'armatura,Độ bền áo giáp,vi-VN
+Sorte,May mắn,vi-VN
+Speed,Tốc độ,vi-VN
+Sprungstärke,Sức nhảy,vi-VN
+Standfestigkeit,Kháng đẩy lùi,vi-VN
+Step Height,Chiều cao bước,vi-VN
+Su Altında Kazım Hızı,Tốc độ đào dưới nước,vi-VN
+Submerged Mining Speed,Tốc độ đào dưới nước,vi-VN
+Suda Hareket Verimliliği,Hiệu quả di chuyển dưới nước,vi-VN
+Suerte,May mắn,vi-VN
+Sweeping Damage Ratio,Tỉ lệ sát thương quét cạnh,vi-VN
+Sürtünme Düzenleyici,Hệ số ma sát,vi-VN
+taille,Quy mô,vi-VN
+Taxa de dano lateral,Tỉ lệ sát thương quét cạnh,vi-VN
+Tempo di combustione,Thời gian cháy,vi-VN
+temps en feu,Thời gian cháy,vi-VN
+Unterwasser‐Abbaugeschwindigkeit,Tốc độ đào dưới nước,vi-VN
+Uçma Hızı,Tốc độ bay,vi-VN
+Uçuş Hızı,Tốc độ bay,vi-VN
+Varlık Etkileşim Mesafesi,Phạm vi tương tác thực thể,vi-VN
+Velocidad,Tốc độ,vi-VN
+Velocidad al agacharse,Tốc độ đi rón rén,vi-VN
+Velocidad al romper bloques,Tốc độ phá khối,vi-VN
+Velocidad al romper bloques sumergido,Tốc độ đào dưới nước,vi-VN
+Velocidad de ataque,Tốc độ tấn công,vi-VN
+Velocidad de vuelo,Tốc độ bay,vi-VN
+Velocidade,Tốc độ,vi-VN
+Velocidade de ataque,Tốc độ tấn công,vi-VN
+Velocidade de mineração submersa,Tốc độ đào dưới nước,vi-VN
+Velocidade de quebra de blocos,Tốc độ phá khối,vi-VN
+Velocidade do voo,Tốc độ bay,vi-VN
+Velocidade furtiva,Tốc độ đi rón rén,vi-VN
+Velocità,Tốc độ,vi-VN
+Velocità d'attacco,Tốc độ tấn công,vi-VN
+Velocità d'estrazione sott'acqua,Tốc độ đào dưới nước,vi-VN
+Velocità di distruzione dei blocchi,Tốc độ phá khối,vi-VN
+Velocità furtiva,Tốc độ đi rón rén,vi-VN
+Velocità in volo,Tốc độ bay,vi-VN
+Vida máxima,Sinh lực tối đa,vi-VN
+vie maximale,Sinh lực tối đa,vi-VN
+vitesse accroupie,Tốc độ đi rón rén,vi-VN
+vitesse d'attaque,Tốc độ tấn công,vi-VN
+vitesse de destruction des blocs,Tốc độ phá khối,vi-VN
+vitesse de minage sous l'eau,Tốc độ đào dưới nước,vi-VN
+vitesse de vol,Tốc độ bay,vi-VN
+Wasser‐Bewegungseffizienz,Hiệu quả di chuyển dưới nước,vi-VN
+Water Movement Efficiency,Hiệu quả di chuyển dưới nước,vi-VN
+Waypoint Receive Range,Phạm vi nhận điểm mốc,vi-VN
+Waypoint Transmit Range,Phạm vi truyền điểm mốc,vi-VN
+Wegpunkt‐Empfangsreichweite,Phạm vi nhận điểm mốc,vi-VN
+Wegpunkt‐Sendereichweite,Phạm vi truyền điểm mốc,vi-VN
+Yanma Süresi,Thời gian cháy,vi-VN
+Yer Çekimi,Trọng lực,vi-VN
+Yol Noktası Alma Mesafesi,Phạm vi nhận điểm mốc,vi-VN
+Yol Noktası İletme Mesafesi,Phạm vi truyền điểm mốc,vi-VN
+Zombi Takviyesi,Lực lượng thây ma tăng cường,vi-VN
+Zombie Reinforcements,Lực lượng thây ma tăng cường,vi-VN
+Zombie-Verstärkung,Lực lượng thây ma tăng cường,vi-VN
+Zombie‐Verstärkung,Lực lượng thây ma tăng cường,vi-VN
+Zıplama Gücü,Sức nhảy,vi-VN
+Zırh,Giáp,vi-VN
+Zırh Sertliği,Độ bền của áo giáp,vi-VN
+Zırh Sertliği,Độ bền áo giáp,vi-VN
+Ölçek,Quy mô,vi-VN
+Şans,May mắn,vi-VN
+Безопасная высота падения,Độ cao rơi xuống an toàn,vi-VN
+Бонус к кислороду,Phần oxi thêm,vi-VN
+Броня,Giáp,vi-VN
+Везение,May mắn,vi-VN
+Время горения,Thời gian cháy,vi-VN
+Высота шага,Chiều cao bước,vi-VN
+Гравитация,Trọng lực,vi-VN
+Дальность взаимодействия с блоками,Phạm vi tương tác khối,vi-VN
+Дальность взаимодействия с сущностями,Phạm vi tương tác thực thể,vi-VN
+Дальность видимости имени,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+Дальность видимости счёта под именем,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+Дальность обнаружения маркеров,Phạm vi nhận điểm mốc,vi-VN
+Дальность передачи маркера,Phạm vi truyền điểm mốc,vi-VN
+Дальность приманивания,Phạm vi thu hút sinh vật,vi-VN
+Диапазон преследования моба,Phạm vi đi theo của sinh vật,vi-VN
+Коэффициент разящего удара,Tỉ lệ sát thương quét cạnh,vi-VN
+Максимальное здоровье,Sinh lực tối đa,vi-VN
+Множитель урона от падения,Hệ số sát thương rơi,vi-VN
+Модификатор сопротивления воздуха,Hệ số lực cản không khí,vi-VN
+Модификатор трения,Hệ số ma sát,vi-VN
+Отбрасывание при атаке,Bật lùi tấn công,vi-VN
+Отбрасывание при атаке,Sức bật lùi,vi-VN
+Отдалённость камеры,Khoảng cách máy quay,vi-VN
+Подкрепление зомби,Lực lượng thây ma tăng cường,vi-VN
+Предел поглощения,Hấp thụ tối đa,vi-VN
+Размер,Quy mô,vi-VN
+Сила прыжка,Sức nhảy,vi-VN
+Сила прыжка лошади,Sức nhảy của ngựa,vi-VN
+Скорость,Tốc độ,vi-VN
+Скорость атаки,Tốc độ tấn công,vi-VN
+Скорость добычи под водой,Tốc độ đào dưới nước,vi-VN
+Скорость подкрадывания,Tốc độ đi rón rén,vi-VN
+Скорость полёта,Tốc độ bay,vi-VN
+Скорость разрушения блоков,Tốc độ phá khối,vi-VN
+Сопротивление к отбрасыванию,Kháng đẩy lùi,vi-VN
+Сопротивление к отбрасыванию взрывом,Kháng đẩy lùi từ vụ nổ,vi-VN
+Твёрдость брони,Độ bền của áo giáp,vi-VN
+Твёрдость брони,Độ bền áo giáp,vi-VN
+Упругость,Độ nảy,vi-VN
+Урон при атаке,Sức tấn công,vi-VN
+Эффективность добычи,Hiệu suất đào,vi-VN
+Эффективность передвижения,Hiệu quả di chuyển,vi-VN
+Эффективность передвижения в воде,Hiệu quả di chuyển dưới nước,vi-VN
+กระดอนโจมตี,Bật lùi tấn công,vi-VN
+กระดอนโจมตี,Sức bật lùi,vi-VN
+กำลังเสริมซอมบี้,Lực lượng thây ma tăng cường,vi-VN
+ขนาด,Quy mô,vi-VN
+ความต้านทานการกระดอน,Kháng đẩy lùi,vi-VN
+ความต้านทานการกระดอนจากระเบิด,Kháng đẩy lùi từ vụ nổ,vi-VN
+ความสูงของขั้นก้าว,Chiều cao bước,vi-VN
+ความเด้ง,Độ nảy,vi-VN
+ความเร็ว,Tốc độ,vi-VN
+ความเร็วการขุดใต้น้ำ,Tốc độ đào dưới nước,vi-VN
+ความเร็วการทำลายบล็อก,Tốc độ phá khối,vi-VN
+ความเร็วการบิน,Tốc độ bay,vi-VN
+ความเร็วการย่อง,Tốc độ đi rón rén,vi-VN
+ความเร็วโจมตี,Tốc độ tấn công,vi-VN
+ความแข็งแกร่งของเกราะ,Độ bền của áo giáp,vi-VN
+ความแข็งแกร่งของเกราะ,Độ bền áo giáp,vi-VN
+ความแรงการกระโดด,Sức nhảy,vi-VN
+ดาเมจโจมตี,Sức tấn công,vi-VN
+ดูดซับสูงสุด,Hấp thụ tối đa,vi-VN
+ตัวคูณดาเมจจากการตก,Hệ số sát thương rơi,vi-VN
+ตัวดัดแปรแรงต้านอากาศ,Hệ số lực cản không khí,vi-VN
+ตัวดัดแปรแรงเสียดทาน,Hệ số ma sát,vi-VN
+ประสิทธิภาพการขุด,Hiệu suất đào,vi-VN
+ประสิทธิภาพการเคลื่อนที่,Hiệu quả di chuyển,vi-VN
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,Hiệu quả di chuyển dưới nước,vi-VN
+ระยะการตกที่ปลอดภัย,Độ cao rơi xuống an toàn,vi-VN
+ระยะการรับเวย์พอยต์,Phạm vi nhận điểm mốc,vi-VN
+ระยะการล่อของม็อบ,Phạm vi thu hút sinh vật,vi-VN
+ระยะการส่งผ่านเวย์พอยต์,Phạm vi truyền điểm mốc,vi-VN
+ระยะคะแนนใต้ป้ายชื่อ,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+ระยะที่ม็อบติดตาม,Phạm vi đi theo của sinh vật,vi-VN
+ระยะปฏิสัมพันธ์กับบล็อก,Phạm vi tương tác khối,vi-VN
+ระยะปฏิสัมพันธ์กับเอนทิตี้,Phạm vi tương tác thực thể,vi-VN
+ระยะป้ายชื่อ,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+ระยะห่างกล้อง,Khoảng cách máy quay,vi-VN
+ระยะเวลาติดไฟ,Thời gian cháy,vi-VN
+ออกซิเจนพิเศษ,Phần oxi thêm,vi-VN
+อัตราส่วนดาเมจแบบกวาด,Tỉ lệ sát thương quét cạnh,vi-VN
+เกราะ,Giáp,vi-VN
+เลือดสูงสุด,Sinh lực tối đa,vi-VN
+แรงม้ากระโดด,Sức nhảy của ngựa,vi-VN
+แรงโน้มถ่วง,Trọng lực,vi-VN
+โชค,May mắn,vi-VN
+なぎ払いダメージの比率,Tỉ lệ sát thương quét cạnh,vi-VN
+ウェイポイント伝達距離,Phạm vi truyền điểm mốc,vi-VN
+ウェイポイント受信距離,Phạm vi nhận điểm mốc,vi-VN
+ウマの跳躍力,Sức nhảy của ngựa,vi-VN
+エンティティ操作範囲,Phạm vi tương tác thực thể,vi-VN
+カメラ距離,Khoảng cách máy quay,vi-VN
+サイズ,Quy mô,vi-VN
+スニーク速度,Tốc độ đi rón rén,vi-VN
+ゾンビの増援,Lực lượng thây ma tăng cường,vi-VN
+ネームタグの表示距離,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+ネームタグ下のスコアの表示距離,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+ノックバック,Bật lùi tấn công,vi-VN
+ノックバック力,Sức bật lùi,vi-VN
+ノックバック耐性,Kháng đẩy lùi,vi-VN
+ブロック操作範囲,Phạm vi tương tác khối,vi-VN
+ブロック破壊速度,Tốc độ phá khối,vi-VN
+僵尸增援,Lực lượng thây ma tăng cường,vi-VN
+击退,Bật lùi tấn công,vi-VN
+击退,Sức bật lùi,vi-VN
+击退抗性,Kháng đẩy lùi,vi-VN
+名牌分数距离,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+名牌距离,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+名稱標籤分數距離,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+名稱標籤距離,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+大きさ,Quy mô,vi-VN
+大小,Quy mô,vi-VN
+安全摔落高度,Độ cao rơi xuống an toàn,vi-VN
+安全落下高度,Độ cao rơi xuống an toàn,vi-VN
+实体交互距离,Phạm vi tương tác thực thể,vi-VN
+實體互動距離,Phạm vi tương tác thực thể,vi-VN
+尺寸,Quy mô,vi-VN
+幸运值,May mắn,vi-VN
+幸運,May mắn,vi-VN
+弹性,Độ nảy,vi-VN
+弾性係数,Độ nảy,vi-VN
+彈性,Độ nảy,vi-VN
+抗擊退,Kháng đẩy lùi,vi-VN
+抗爆炸擊退,Kháng đẩy lùi từ vụ nổ,vi-VN
+护甲值,Giáp,vi-VN
+挖掘效率,Hiệu suất đào,vi-VN
+採掘効率,Hiệu suất đào,vi-VN
+摔落伤害倍数,Hệ số sát thương rơi,vi-VN
+摔落傷害倍率,Hệ số sát thương rơi,vi-VN
+摩擦係数,Hệ số ma sát,vi-VN
+摩擦力修正係數,Hệ số ma sát,vi-VN
+摩擦力修正系数,Hệ số ma sát,vi-VN
+擊退,Bật lùi tấn công,vi-VN
+擊退,Sức bật lùi,vi-VN
+攻击伤害,Sức tấn công,vi-VN
+攻击速度,Tốc độ tấn công,vi-VN
+攻撃力,Sức tấn công,vi-VN
+攻撃速度,Tốc độ tấn công,vi-VN
+攻擊傷害,Sức tấn công,vi-VN
+攻擊速度,Tốc độ tấn công,vi-VN
+方块交互距离,Phạm vi tương tác khối,vi-VN
+方块破坏速度,Tốc độ phá khối,vi-VN
+方塊互動距離,Phạm vi tương tác khối,vi-VN
+方塊破壞速度,Tốc độ phá khối,vi-VN
+最大伤害吸收值,Hấp thụ tối đa,vi-VN
+最大体力,Sinh lực tối đa,vi-VN
+最大傷害吸收值,Hấp thụ tối đa,vi-VN
+最大生命值,Sinh lực tối đa,vi-VN
+最大行走高度,Chiều cao bước,vi-VN
+最高生命值,Sinh lực tối đa,vi-VN
+横扫伤害比率,Tỉ lệ sát thương quét cạnh,vi-VN
+橫掃傷害率,Tỉ lệ sát thương quét cạnh,vi-VN
+殭屍增援隊,Lực lượng thây ma tăng cường,vi-VN
+段差上限,Chiều cao bước,vi-VN
+水下挖掘速度,Tốc độ đào dưới nước,vi-VN
+水中挖掘速度,Tốc độ đào dưới nước,vi-VN
+水中採掘速度,Tốc độ đào dưới nước,vi-VN
+水中移动效率,Hiệu quả di chuyển dưới nước,vi-VN
+水中移動効率,Hiệu quả di chuyển dưới nước,vi-VN
+水中移動效率,Hiệu quả di chuyển dưới nước,vi-VN
+潛行速度,Tốc độ đi rón rén,vi-VN
+潜行速度,Tốc độ đi rón rén,vi-VN
+炎上時間,Thời gian cháy,vi-VN
+燃燒時間,Thời gian cháy,vi-VN
+爆炸击退抗性,Kháng đẩy lùi từ vụ nổ,vi-VN
+爆発ノックバック耐性,Kháng đẩy lùi từ vụ nổ,vi-VN
+生物引誘範圍,Phạm vi thu hút sinh vật,vi-VN
+生物引诱范围,Phạm vi thu hút sinh vật,vi-VN
+生物跟随距离,Phạm vi đi theo của sinh vật,vi-VN
+生物追蹤範圍,Phạm vi đi theo của sinh vật,vi-VN
+盔甲,Giáp,vi-VN
+盔甲強度,Độ bền của áo giáp,vi-VN
+盔甲強度,Độ bền áo giáp,vi-VN
+盔甲韧性,Độ bền của áo giáp,vi-VN
+盔甲韧性,Độ bền áo giáp,vi-VN
+着火时间,Thời gian cháy,vi-VN
+移动效率,Hiệu quả di chuyển,vi-VN
+移動効率,Hiệu quả di chuyển,vi-VN
+移動效率,Hiệu quả di chuyển,vi-VN
+移動速度,Tốc độ,vi-VN
+空气阻力修正系数,Hệ số lực cản không khí,vi-VN
+空気抵抗係数,Hệ số lực cản không khí,vi-VN
+空氣阻力修正係數,Hệ số lực cản không khí,vi-VN
+落下ダメージ倍率,Hệ số sát thương rơi,vi-VN
+衝撃吸収レベルの上限,Hấp thụ tối đa,vi-VN
+路径点传输距离,Phạm vi truyền điểm mốc,vi-VN
+路径点接收距离,Phạm vi nhận điểm mốc,vi-VN
+路徑點傳輸距離,Phạm vi truyền điểm mốc,vi-VN
+路徑點接收距離,Phạm vi nhận điểm mốc,vi-VN
+跳跃力度,Sức nhảy,vi-VN
+跳躍力,Sức nhảy,vi-VN
+速度,Tốc độ,vi-VN
+運,May mắn,vi-VN
+酸素ボーナス,Phần oxi thêm,vi-VN
+重力,Trọng lực,vi-VN
+鏡頭距離,Khoảng cách máy quay,vi-VN
+镜头距离,Khoảng cách máy quay,vi-VN
+防具強度,Độ bền của áo giáp,vi-VN
+防具強度,Độ bền áo giáp,vi-VN
+防御力,Giáp,vi-VN
+額外氧氣,Phần oxi thêm,vi-VN
+额外氧气,Phần oxi thêm,vi-VN
+飛行速度,Tốc độ bay,vi-VN
+飞行速度,Tốc độ bay,vi-VN
+馬跳躍力,Sức nhảy của ngựa,vi-VN
+马匹跳跃能力,Sức nhảy của ngựa,vi-VN
+개체 상호 작용 범위,Phạm vi tương tác thực thể,vi-VN
+걸음 높이,Chiều cao bước,vi-VN
+경로점 발신 범위,Phạm vi truyền điểm mốc,vi-VN
+경로점 수신 범위,Phạm vi nhận điểm mốc,vi-VN
+공격 밀침 세기,Bật lùi tấn công,vi-VN
+공격 밀침 세기,Sức bật lùi,vi-VN
+공격 속도,Tốc độ tấn công,vi-VN
+공격 피해,Sức tấn công,vi-VN
+공기 저항력 변경자,Hệ số lực cản không khí,vi-VN
+낙하 피해 배수,Hệ số sát thương rơi,vi-VN
+마찰력 변경자,Hệ số ma sát,vi-VN
+말 점프 강도,Sức nhảy của ngựa,vi-VN
+몹 따름 범위,Phạm vi đi theo của sinh vật,vi-VN
+몹 유인 범위,Phạm vi thu hút sinh vật,vi-VN
+밀침 저항,Kháng đẩy lùi,vi-VN
+방어,Giáp,vi-VN
+방어 강도,Độ bền của áo giáp,vi-VN
+방어 강도,Độ bền áo giáp,vi-VN
+배율,Quy mô,vi-VN
+블록 상호 작용 범위,Phạm vi tương tác khối,vi-VN
+블록 파괴 속도,Tốc độ phá khối,vi-VN
+비행 속도,Tốc độ bay,vi-VN
+산소 추가,Phần oxi thêm,vi-VN
+속도,Tốc độ,vi-VN
+수중 이동 효율,Hiệu quả di chuyển dưới nước,vi-VN
+수중 채굴 속도,Tốc độ đào dưới nước,vi-VN
+안전 낙하 거리,Độ cao rơi xuống an toàn,vi-VN
+연소 시간,Thời gian cháy,vi-VN
+웅크렸을 때 속도,Tốc độ đi rón rén,vi-VN
+이동 효율,Hiệu quả di chuyển,vi-VN
+이름표 거리,Khoảng cách hiển thị nhãn ghi tên,vi-VN
+이름표 점수 거리,Khoảng cách hiển thị điểm số trên nhãn ghi tên,vi-VN
+점프 세기,Sức nhảy,vi-VN
+좀비 증원,Lực lượng thây ma tăng cường,vi-VN
+중력,Trọng lực,vi-VN
+채굴 효율,Hiệu suất đào,vi-VN
+최대 생명력,Sinh lực tối đa,vi-VN
+최대 흡수,Hấp thụ tối đa,vi-VN
+카메라 거리,Khoảng cách máy quay,vi-VN
+크기,Quy mô,vi-VN
+탄성,Độ nảy,vi-VN
+폭발 밀침 저항,Kháng đẩy lùi từ vụ nổ,vi-VN
+행운,May mắn,vi-VN
+휩쓸기 피해 비율,Tỉ lệ sát thương quét cạnh,vi-VN

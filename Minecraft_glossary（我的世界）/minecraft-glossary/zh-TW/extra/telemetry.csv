@@ -1,0 +1,998 @@
+﻿source,target,tgt_lng
+%s (Bắt buộc),%s（必要）,zh-TW
+%s (erforderlich),%s（必要）,zh-TW
+%s (facoltativo),%s（可選）,zh-TW
+%s (facoltativo) — disattivato,%s（可選 – 已停用）,zh-TW
+%s (facultatif),%s（可選）,zh-TW
+%s (facultatif) - désactivé,%s（可選 – 已停用）,zh-TW
+%s (Gerekli),%s（必要）,zh-TW
+%s (İsteğe Bağlı),%s（可選）,zh-TW
+%s (İsteğe Bağlı) - Devre Dışı,%s（可選 – 已停用）,zh-TW
+%s (Không bắt buộc),%s（可選）,zh-TW
+%s (không bắt buộc) - Đã tắt,%s（可選 – 已停用）,zh-TW
+%s (necesario),%s（必要）,zh-TW
+%s (necessario),%s（必要）,zh-TW
+%s (obrigatório),%s（必要）,zh-TW
+%s (opcional),%s（可選）,zh-TW
+%s (opcional) — Não,%s（可選 – 已停用）,zh-TW
+%s (opcional): Desactivado,%s（可選 – 已停用）,zh-TW
+%s (Optional),%s（可選）,zh-TW
+%s (optional),%s（可選）,zh-TW
+%s (Optional) - Disabled,%s（可選 – 已停用）,zh-TW
+%s (optional) – Deaktiviert,%s（可選 – 已停用）,zh-TW
+%s (Required),%s（必要）,zh-TW
+%s (requis),%s（必要）,zh-TW
+%s (необязательно),%s（可選）,zh-TW
+%s (необязательно) — Отключено,%s（可選 – 已停用）,zh-TW
+%s (обязательно),%s（必要）,zh-TW
+%s (จำเป็น),%s（必要）,zh-TW
+%s (ไม่จำเป็น),%s（可選）,zh-TW
+%s (ไม่จำเป็น) - ปิดการใช้งาน,%s（可選 – 已停用）,zh-TW
+%s (선택적),%s（可選）,zh-TW
+%s (선택적) - 꺼짐,%s（可選 – 已停用）,zh-TW
+%s (필수),%s（必要）,zh-TW
+%s（任意）,%s（可選）,zh-TW
+%s（任意） - 無効,%s（可選 – 已停用）,zh-TW
+%s（可选）,%s（可選）,zh-TW
+%s（可选，已禁用）,%s（可選 – 已停用）,zh-TW
+%s（必須）,%s（必要）,zh-TW
+Acconsento all'invio di dati di telemetria facoltativi,我同意傳送可選的遙測資料,zh-TW
+Aceito o envio de telemetria opcional,我同意傳送可選的遙測資料,zh-TW
+Advancement ID,進度 ID,zh-TW
+Advancement Made,達成進度,zh-TW
+Alcance visual,顯示距離,zh-TW
+Amostras de taxa de quadros (FPS),畫面更新率樣本（FPS）,zh-TW
+Amostras do tempo de renderização,繪製時間樣本,zh-TW
+"Anhand dieses Ereignisses können wir nachvollziehen, wie zuverlässig und leistungsstark Direktverbindungen zwischen Spielern sind. Es erfasst Art und Dauer des interaktiven Verbindungsaufbaus (ICE, das für Direktverbindungen genutzte Protokoll) sowie den Verbindungserfolg.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+Anzahl der Datenwerte,樣本數量,zh-TW
+Arka Uç Adı,後端名稱,zh-TW
+Arka Uç Oluşturma Hatası Eksik Özellikler,後端建立失敗缺少功能,zh-TW
+Arka Uç Oluşturma Hatası Mesajı,後端建立失敗訊息,zh-TW
+Arka Uç Oluşturma Hatası Nedeni,後端建立失敗原因,zh-TW
+Ayrılmış Bellek (kB),專屬記憶體（kB）,zh-TW
+Backend Creation Failure Message,後端建立失敗訊息,zh-TW
+Backend Creation Failure Missing Capabilities,後端建立失敗缺少功能,zh-TW
+Backend Creation Failure Reason,後端建立失敗原因,zh-TW
+Backend Name,後端名稱,zh-TW
+Backend‐Initialisierungsfehler: Fehlende Funktionen,後端建立失敗缺少功能,zh-TW
+Backend‐Initialisierungsfehler: Fehlermeldung,後端建立失敗訊息,zh-TW
+Backend‐Initialisierungsfehler: Grund,後端建立失敗原因,zh-TW
+Bağlantı Başarılı,連線成功,zh-TW
+Bağlantı Süresi (Milisaniye),信令連線時間（毫秒）,zh-TW
+Başarısızlık Aşaması,失敗階段,zh-TW
+Başlatıcı Adı,啟動器名稱,zh-TW
+Benutzer‐ID,使用者 ID,zh-TW
+Betriebssystem,作業系統,zh-TW
+"Bir dünyaya katılmanın ne kadar sürdüğünü ve bunun zaman içinde nasıl değiştiğini anlamak bizim için önemlidir. Örneğin, yeni özellikler eklediğimizde veya daha büyük teknik değişiklikler yaptığımızda, bunun yükleme süreleri üzerinde ne gibi bir etkisi olduğunu görmemiz gerekir.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+"Bir gelişim elde etmenin ardındaki mantığı anlamak, oyunun ilerlemesini daha iyi anlamamıza ve iyileştirmemize yardımcı olabilir.",了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+Bootstrap Time (Milliseconds),啟動引導時間（毫秒）,zh-TW
+Bu durum bize başlangıç aşamalarının yürütüm zamanlarını ölçerek nerede performans iyileştirmelerinin gerekli olduğunu anlamamıza yardımcı olabilir.,此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+"Bu etkinlik oyuncular arasındaki eşler arası bağlantıların güvenilirlik ve performansını anlamamıza yardımcı oluyor. Bağlantının başarılı olup olmadığını, Etkileşimli Bağlantı Kuruluşu (ICE, eşler arası bağlantılar kurmak için kullandığımız protokol) adayının türünü ve bağlantıyı kurmanın ne kadar sürdüğünü kaydeder.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+Bu eylem oyunu çalıştırmak için kullanılan grafik aygıtının özellikleri hakkında bilgi verir.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+"Bu olay, dünya oturumunun ne kadar sürdüğünü hesaplamak için Dünya Yüklendi olayıyla eşleştirilir.
+Süre (saniye ve birim zaman cinsinden), bir dünya oturumu sona erdiğinde ölçülür (menüye dönmek, sunucudan ayrılmak).","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+"Bu veriyi toplamak, Minecraft’ı oyuncular için önemli açılardan geliştirmemizi sağlar.
+Minecraft’ı geliştirmeye devam etmemize yardımcı olmak için ek geri bildirim de gönderebilirsiniz.","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+Bộ nhớ chuyên dụng (kB),專屬記憶體（kB）,zh-TW
+Bộ nhớ truy cập ngẫu nhiên đã sử dụng,使用的記憶體,zh-TW
+Caminho do Interactive Connectivity Establishment (ICE),互動式連線建立 (ICE) 路徑,zh-TW
+Campioni del tempo di elaborazione grafica,繪製時間樣本,zh-TW
+Campioni di frequenza dei fotogrammi [fps],畫面更新率樣本（FPS）,zh-TW
+Capacidades gráficas,圖形功能,zh-TW
+Capacités graphiques,圖形功能,zh-TW
+Capacités manquantes lors de l'échec de la création du backend,後端建立失敗缺少功能,zh-TW
+Capire il contesto relativo al compimento di un progresso può aiutarci a comprendere meglio e a perfezionare la sequenza di gioco.,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+"Cet événement est associé à l'événement ""Monde chargé"" pour calculer la durée de la session de jeu.
+La durée (en secondes et en ticks) est mesurée lorsqu'une session de jeu est terminée (en retournant au menu principal ou en se déconnectant d'un serveur).","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+"Cet événement nous aide à évaluer la fiabilité et les performances des connexions pair à pair entre les joueurs. Il enregistre la réussite ou l'échec de la connexion, le type de candidat utilisé pour l'établissement de connectivité interactive (ICE, le protocole que nous utilisons pour établir les connexions pair à pair) ainsi que le temps nécessaire pour établir la connexion.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+Cet événement nous informe des capacités du périphérique graphique utilisé pour jouer au jeu.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+Cet événement peut nous aider à déterminer où des améliorations des performances au démarrage sont nécessaires en mesurant les temps d'exécution des phases.,此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+Chemin de l'établissement de connectivité interactive (ICE),互動式連線建立 (ICE) 路徑,zh-TW
+Chế độ chơi,遊戲模式,zh-TW
+Chọn tham gia,可選擇加入,zh-TW
+Client ID,用戶端 ID,zh-TW
+Client Modded,用戶端是否為原版,zh-TW
+Client moddé ?,用戶端是否為原版,zh-TW
+Client modifiziert,用戶端是否為原版,zh-TW
+Cliente modificado,用戶端是否為原版,zh-TW
+Client‐ID,用戶端 ID,zh-TW
+Coleta de dados telemétricos,遙測資料收集,zh-TW
+"Coletar esses dados nos ajuda a melhorar o Minecraft, guiando nosso trabalho em direções relevantes para os jogadores.
+Você também pode enviar seu feedback para nos ajudar a melhorar o Minecraft.","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+Collecte des données de télémétrie,遙測資料收集,zh-TW
+"Collecter ces données nous aide à améliorer Minecraft en nous guidant dans des directions qui sont pertinentes pour nos joueurs.
+Vous pouvez aussi donner votre avis pour nous aider à améliorer le jeu.","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+"Collecting this data helps us improve Minecraft by guiding us in directions that are relevant to our players.
+You can also send in additional feedback to help us keep improving Minecraft.","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+Compartir datos,可選擇加入,zh-TW
+Comprender el contexto en el que se realiza un progreso nos ayudará a entender y mejorar la progresión del juego.,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+Comprendre le contexte derrière la réalisation d'un progrès peut nous aider à améliorer la progression du jeu.,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+Conectado con éxito,連線成功,zh-TW
+Conexión P2P,P2P 連線,zh-TW
+Conexão estabelecida,連線成功,zh-TW
+Conexão ponto a ponto,P2P 連線,zh-TW
+"Conhecer o perfil geral de desempenho do Minecraft nos ajuda a otimizar o jogo para uma ampla variedade de dispositivos e sistemas operacionais. 
+A versão do jogo é incluída para nos ajudar a comparar o desempenho das novas versões do Minecraft.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+Connection Successful,連線成功,zh-TW
+Connessione a rete paritaria,P2P 連線,zh-TW
+Connexion pair à pair,P2P 連線,zh-TW
+Connexion réussie,連線成功,zh-TW
+"Conocer el perfil de rendimiento de Minecraft nos ayuda a optimizar el juego para muchas especificaciones y sistemas operativos. 
+La versión del juego se incluye para ayudarnos a comparar el rendimiento de nuevas versiones.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+"Conoscere il profilo delle prestazioni di Minecraft ci aiuta ad adattare e a ottimizzare il gioco per un'ampia gamma di dispositivi e sistemi operativi.
+La versione del gioco è inclusa per aiutarci a effettuare il confronto con il profilo delle prestazioni delle nuove versioni di Minecraft.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+Consenso,可選擇加入,zh-TW
+Consentement,可選擇加入,zh-TW
+Contagem de amostras,樣本數量,zh-TW
+Contenido del mapa de Realms (nombre del minijuego),Realms 地圖內容（小遊戲名稱）,zh-TW
+Contenu de la carte de Realms (nom du mini-jeu),Realms 地圖內容（小遊戲名稱）,zh-TW
+Conteúdo do mapa do Realms (nome do minijogo),Realms 地圖內容（小遊戲名稱）,zh-TW
+Dados incluídos,包含的資料,zh-TW
+Danos tu opinión,提供意見回饋,zh-TW
+Datenschutzerklärung,隱私權聲明,zh-TW
+Datenwerte zur Bildwiederholrate (FPS),畫面更新率樣本（FPS）,zh-TW
+Datenwerte zur Renderzeit,繪製時間樣本,zh-TW
+Dati inclusi,包含的資料,zh-TW
+Datos incluidos,包含的資料,zh-TW
+Dauer (in Millisekunden) des interaktiven Verbindungsaufbaus (ICE),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Declaración de privacidad,隱私權聲明,zh-TW
+Declaração de Privacidade,隱私權聲明,zh-TW
+Dedicated Memory (kB),專屬記憶體（kB）,zh-TW
+"Die Erhebung dieser Daten hilft uns, Minecraft zu verbessern, indem wir uns damit in die Richtungen weisen lassen, die unseren Spielern wichtig sind.
+Du kannst auch zusätzliches Feedback abgeben, damit wir Minecraft weiter verbessern können.","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+"Die genaue Ermittlung des allgemeinen Leistungsprofils von Minecraft hilft uns, das Spiel an eine Vielzahl von Geräteeigenschaften und Betriebssystemen abzustimmen und dafür zu optimieren. 
+Die Angabe der Spielversion hilft uns, das Leistungsprofil für neue Versionen von Minecraft zu vergleichen.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+"Dieses Ereignis ist mit dem Ereignis „Welt geladen“ gekoppelt, um zu berechnen, wie lange die Weltsitzung gedauert hat.
+Wenn eine Weltsitzung beendet wurde (Verlassen der Welt bzw. Trennen der Verbindung zu einem Server), wird die Dauer (in Sekunden und Ticks) gemessen.","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+"Dieses Ereignis kann uns helfen, herauszufinden, wo Verbesserungen des Startvorgangs notwendig sind, indem es die Ausführungszeiten der einzelnen Startphasen misst.",此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+Dieses Ereignis unterrichtet uns über die vom genutzten Grafikprozessor unterstützten Funktionen.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+Direktverbindung,P2P 連線,zh-TW
+Distance d'affichage,顯示距離,zh-TW
+Distancia de renderizado,顯示距離,zh-TW
+Donner son avis,提供意見回饋,zh-TW
+Données incluses,包含的資料,zh-TW
+Déclaration de confidentialité,隱私權聲明,zh-TW
+Dünya Oturum Kimliği,世界 Session ID,zh-TW
+Dünya Yükleme Süresi (Milisaniye),世界載入時間（毫秒）,zh-TW
+Dünya Yüklendi,世界載入,zh-TW
+Dünya Yüklenme Süreleri,世界載入時間,zh-TW
+Dünyadan Çıkıldı,世界卸載,zh-TW
+Dấu thời gian sự kiện (giờ UTC),事件時間戳記（UTC）,zh-TW
+Dữ liệu được bao gồm,包含的資料,zh-TW
+"En apprendre davantage sur la manière dont les joueurs jouent à Minecraft (avec quel mode de jeu, si le client ou le serveur est moddé, sous quelle version) nous aide à améliorer les aspects qui ont le plus d'importance pour les joueurs.
+L'événement ""Monde chargé"" est associé à l'événement ""Monde déchargé"" pour calculer la durée de la session de jeu.","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+"En apprendre davantage sur le profil global des performances de Minecraft nous aide à ajuster et optimiser le jeu pour un large éventail d'appareils et de systèmes d'exploitation. 
+La version du jeu est incluse pour nous aider à comparer le profil des performances des nouvelles versions de Minecraft.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+Entender o contexto de um progresso pode nos ajudar a entender e melhorar a progressão do jogo.,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+Enthaltene Daten,包含的資料,zh-TW
+Enviar feedback,提供意見回饋,zh-TW
+Erforderliches/optionales Ereignis,可選擇加入,zh-TW
+Erro ao criar o backend por falta de capacidades,後端建立失敗缺少功能,zh-TW
+Error en la creación del backend por falta de capacidades,後端建立失敗缺少功能,zh-TW
+"Es importante que sepamos cuánto tiempo se tarda en entrar en un mundo y cómo cambia eso con el tiempo. Por ejemplo, cuando añadimos nuevas características o realizamos cambios técnicos grandes, necesitamos ver qué impacto tienen en los tiempos de carga.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+"Es ist wichtig, dass wir verstehen, wie lange es dauert, eine Welt zu betreten, und wie sich das im Lauf der Zeit ändert. Wenn wir beispielsweise neue Spielelemente hinzufügen oder umfassende technische Änderungen vornehmen, müssen wir wissen, wie sich das auf die Ladezeiten auswirkt.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+Esito della connessione positivo,連線成功,zh-TW
+"Esse evento nos ajuda a detectar a estabilidade e o desempenho das conexões ponto a ponto entre jogadores. Ele registra se a conexão foi estabelecida com êxito, o tipo de candidato usado (também conhecido por Interactive Connectivity Establishment, ou ICE, protocolo usado para estabelecer conexões ponto a ponto) e a duração para estabelecer a conexão.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+Esse evento nos informa sobre as capacidades do dispositivo gráfico usado durante o jogo.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+Esse evento pode nos ajudar a identificar as melhorias de desempenho de inicialização necessárias ao medir os tempos de execução das fases de inicialização.,此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+"Esse evento é sincronizado com o ""Mundo Carregado"" para calcular a duração da sessão de jogo.
+A duração (em segundos e tiques) é medida no final de uma sessão (ao sair para o menu principal ou de um servidor).","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+"Este evento está unido al de «Mundo cargado» para calcular cuánto ha durado la sesión de juego.
+La duración (en segundos y tics) se mide cuando una sesión de juego termina (saliendo al menú principal, desconectándose de un servidor).","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+"Este evento nos ayuda a comprender la fiabilidad y el rendimiento de las conexiones P2P entre jugadores. Registra si la conexión fue exitosa, el tipo de conectividad interactiva (ICE, el protocolo que usamos para establecer conexiones P2P) que pudo utilizarse y cuánto tiempo tardó en establecerse la conexión.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+Este evento nos informa sobre las capacidades del dispositivo gráfico utilizado para jugar.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+"Este evento puede ayudarnos a determinar donde se necesitan las mejoras de rendimiento, midiendo los tiempos de ejecución de las diferentes fases de arranque.",此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+Etkileşimli Bağlantı Kuruluşu (ICE) Bağlantı Süresi (Milisaniye),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Etkileşimli Bağlantı Kuruluşu (ICE) Yolu,互動式連線建立 (ICE) 路徑,zh-TW
+Event Timestamp (UTC),事件時間戳記（UTC）,zh-TW
+Externer Kandidatentyp,遠端候選類型,zh-TW
+Failure Stage,失敗階段,zh-TW
+Fase de fallo,失敗階段,zh-TW
+Fase dell'errore,失敗階段,zh-TW
+Fase do erro,失敗階段,zh-TW
+Feedback geben,提供意見回饋,zh-TW
+Fehlerphase,失敗階段,zh-TW
+Fortschritt erzielt,達成進度,zh-TW
+Fortschritts‐ID,進度 ID,zh-TW
+Frame Rate Samples (fps),畫面更新率樣本（FPS）,zh-TW
+Funzionalità grafiche,圖形功能,zh-TW
+Funzionalità mancanti alla creazione della libreria,後端建立失敗缺少功能,zh-TW
+Game Load Times,遊戲載入時間,zh-TW
+Game Mode,遊戲模式,zh-TW
+Game Time (Ticks),遊戲時間（刻）,zh-TW
+Game Version,遊戲版本,zh-TW
+Gelişim Kimliği,進度 ID,zh-TW
+Gelişim Yapıldı,達成進度,zh-TW
+Geri Bildirim,提供意見回饋,zh-TW
+Gesamte Ladezeit (Millisekunden),總載入時間（毫秒）,zh-TW
+Gesamte Verbindungszeit (Millisekunden),總連線時間（毫秒）,zh-TW
+Giai đoạn gây lỗi,失敗階段,zh-TW
+Give Feedback,提供意見回饋,zh-TW
+Gizlilik Beyanı,隱私權聲明,zh-TW
+Grafik Özellikleri,圖形功能,zh-TW
+Grafikfunktionen,圖形功能,zh-TW
+Graphics Capabilities,圖形功能,zh-TW
+Görüntü Oluşturma Zamanları,繪製時間樣本,zh-TW
+Görüş Mesafesi,顯示距離,zh-TW
+Gửi phản hồi,提供意見回饋,zh-TW
+Hiểu được bối cảnh đằng sau việc nhận được tiến trình có thể giúp chúng tôi nắm rõ hơn và cải thiện cách mà trò chơi tiến triển.,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+Hora del evento (UTC),事件時間戳記（UTC）,zh-TW
+Hora do evento (UTC),事件時間戳記（UTC）,zh-TW
+Horodatage de l'événement (UTC),事件時間戳記（UTC）,zh-TW
+Hệ điều hành,作業系統,zh-TW
+I consent to sending optional telemetry data,我同意傳送可選的遙測資料,zh-TW
+Ich stimme der Übermittlung optionaler Telemetriedaten zu,我同意傳送可選的遙測資料,zh-TW
+ID da sessão do Minecraft,Minecraft Session ID,zh-TW
+ID da sessão do mundo,世界 Session ID,zh-TW
+ID da sessão do servidor,伺服器 Session ID,zh-TW
+ID de l'utilisateur,使用者 ID,zh-TW
+ID de la session de Minecraft,Minecraft Session ID,zh-TW
+ID de la session du monde,世界 Session ID,zh-TW
+ID de la session du serveur,伺服器 Session ID,zh-TW
+ID del client,用戶端 ID,zh-TW
+ID del progresso,進度 ID,zh-TW
+ID dell'utente,使用者 ID,zh-TW
+ID della sessione del mondo,世界 Session ID,zh-TW
+ID della sessione del server,伺服器 Session ID,zh-TW
+ID della sessione di Minecraft,Minecraft Session ID,zh-TW
+ID do cliente,用戶端 ID,zh-TW
+ID do progresso,進度 ID,zh-TW
+ID do usuário,使用者 ID,zh-TW
+ID du client,用戶端 ID,zh-TW
+ID du progrès,進度 ID,zh-TW
+ID máy khách,用戶端 ID,zh-TW
+ID người dùng,使用者 ID,zh-TW
+ID phiên Minecraft,Minecraft Session ID,zh-TW
+ID phiên máy chủ,伺服器 Session ID,zh-TW
+ID phiên thế giới,世界 Session ID,zh-TW
+ID tiến trình,進度 ID,zh-TW
+ID ความก้าวหน้า,進度 ID,zh-TW
+ID ผู้ใช้,使用者 ID,zh-TW
+ID เซสชัน Minecraft,Minecraft Session ID,zh-TW
+ID เซสชันเซิร์ฟเวอร์,伺服器 Session ID,zh-TW
+ID เซสชันโลก,世界 Session ID,zh-TW
+ID ไคลเอนต์,用戶端 ID,zh-TW
+Id. de cliente,用戶端 ID,zh-TW
+Id. de sesión de Minecraft,Minecraft Session ID,zh-TW
+Id. de sesión del mundo,世界 Session ID,zh-TW
+Id. de sesión del servidor,伺服器 Session ID,zh-TW
+Id. de usuario,使用者 ID,zh-TW
+Id. del progreso,進度 ID,zh-TW
+"Il est important pour nous de déterminer le temps nécessaire pour rejoindre un monde, et la manière dont cela évolue au fil du temps. Par exemple, lorsque nous ajoutons de nouvelles fonctionnalités ou réalisons d'importants changements techniques, nous avons besoin d'en observer l'impact sur les temps de chargement.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+Included Data,包含的資料,zh-TW
+Info sulla riservatezza,隱私權聲明,zh-TW
+Initialisierungszeit (Millisekunden),啟動引導時間（毫秒）,zh-TW
+Interactive Connectivity Establishment (ICE) Connect Time (Milliseconds),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Interactive Connectivity Establishment (ICE) Path,互動式連線建立 (ICE) 路徑,zh-TW
+Interactive Connectivity Establishment（ICE）パス,互動式連線建立 (ICE) 路徑,zh-TW
+Interactive Connectivity Establishment（ICE）接続時間（ミリ秒）,互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Interner Kandidatentyp,本機候選類型,zh-TW
+Invia riscontro,提供意見回饋,zh-TW
+"It's important for us to understand how long it takes to join a world, and how that changes over time. For example, when we add new features or do larger technical changes, we need to see what impact that had on load times.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+İstemci Kimliği,用戶端 ID,zh-TW
+İsteğe bağlı telemetri verilerinin gönderilmesine izin veriyorum,我同意傳送可選的遙測資料,zh-TW
+İçerilen Veri,包含的資料,zh-TW
+İşletim Sistemi,作業系統,zh-TW
+J'accepte l'envoi de données de télémétrie facultatives,我同意傳送可選的遙測資料,zh-TW
+Kare Hızı Örnekleri (fps),畫面更新率樣本（FPS）,zh-TW
+Katıl,可選擇加入,zh-TW
+Khoảng cách kết xuất,顯示距離,zh-TW
+"Knowing how players play Minecraft (such as Game Mode, client or server modded, and game version) allows us to focus game updates to improve the areas that players care about most.
+The World Loaded event is paired with the World Unloaded event to calculate how long the play session has lasted.","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+"Knowing the overall performance profile of Minecraft helps us tune and optimize the game for a wide range of machine specifications and operating systems.
+Game version is included to help us compare the performance profile for new versions of Minecraft.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+Kullanıcı Kimliği,使用者 ID,zh-TW
+Kullanılan Bellek (RAM),使用的記憶體,zh-TW
+Kết nối ngang hàng,P2P 連線,zh-TW
+Kết nối thành công,連線成功,zh-TW
+"La raccolta di questi dati ci aiuta a migliorare Minecraft, indicandoci le decisioni più opportune per i giocatori. Inoltre, puoi inviare un riscontro aggiuntivo per aiutarci a migliorare Minecraft ulteriormente.","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+"La recolección de datos nos ayuda a mejorar Minecraft guiándonos hacia direcciones que sean relevantes para nuestros jugadores.
+También puedes enviar sugerencias para ayudarnos a seguir mejorando Minecraft.","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+Launcher Name,啟動器名稱,zh-TW
+Launcher‐Name,啟動器名稱,zh-TW
+Leistungsmetriken,效能指標,zh-TW
+Local Candidate Type,本機候選類型,zh-TW
+Loại máy chủ,伺服器類型,zh-TW
+Loại ứng viên cục bộ,本機候選類型,zh-TW
+Loại ứng viên từ xa,遠端候選類型,zh-TW
+Lý do lỗi tạo Backend,後端建立失敗原因,zh-TW
+Medición del rendimiento,效能指標,zh-TW
+Meine Daten einsehen,開啟我的統計資料,zh-TW
+Memoria de acceso aleatorio usada (RAM),使用的記憶體,zh-TW
+Memoria dedicada (kB),專屬記憶體（kB）,zh-TW
+Memoria dedicata [kB],專屬記憶體（kB）,zh-TW
+Memória dedicada (kB),專屬記憶體（kB）,zh-TW
+Memória RAM usada,使用的記憶體,zh-TW
+Mensagem de erro ao criar o backend,後端建立失敗訊息,zh-TW
+Mensaje de error en la creación del backend,後端建立失敗訊息,zh-TW
+Message d'échec de la création du backend,後端建立失敗訊息,zh-TW
+Messaggio dell'errore nella creazione della libreria,後端建立失敗訊息,zh-TW
+Mesures de performances,效能指標,zh-TW
+Metriche di prestazione,效能指標,zh-TW
+Minecraft Oturum Kimliği,Minecraft Session ID,zh-TW
+Minecraft 세션 ID,Minecraft Session ID,zh-TW
+Minecraft‐Sitzungs‐ID,Minecraft Session ID,zh-TW
+"Minecraft’ın genel performans profilini bilmek, oyunu çeşitli aygıt özellikleri ve işletim sistemleri için ayarlamamıza ve iyileştirmemize yardımcı olur.
+Yeni sürümlerin performans profilini karşılaştırmamıza yardımcı olmak için oyun sürümü dâhil edilmiştir.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+MinecraftのセッションID,Minecraft Session ID,zh-TW
+Minecraft会话ID,Minecraft Session ID,zh-TW
+"Minecraft全体のパフォーマンスプロファイルを知ることで、様々なマシンのスペックやOSに向けたゲームの調整や最適化が出来ます。
+新しいバージョンのMinecraftのパフォーマンスプロファイルを比較するために、ゲームのバージョンが含まれます。","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+"Minecraft의 전반적인 성능 프로필을 알면 다양한 기기 사양 및 운영 체제에 맞게 게임을 조정하거나 최적화할 수 있습니다. 
+새 버전에서의 Minecraft의 성능 프로필을 비교할 수 있도록 게임 버전도 포함되어 있습니다.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+"Misurando il tempo necessario a eseguire le fasi di avvio, quest'evento può aiutarci a capire dove c'è bisogno di migliorie.",此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+Modalità di gioco,遊戲模式,zh-TW
+Mode de jeu,遊戲模式,zh-TW
+Modifiche del client,用戶端是否為原版,zh-TW
+Modifiche del server,伺服器是否為原版,zh-TW
+Modlanmış İstemci,用戶端是否為原版,zh-TW
+Modlanmış Sunucu,伺服器是否為原版,zh-TW
+Modo de jogo,遊戲模式,zh-TW
+Modo de juego,遊戲模式,zh-TW
+Modが導入されたクライアント,用戶端是否為原版,zh-TW
+Modが導入されたサーバー,伺服器是否為原版,zh-TW
+Monde chargé,世界載入,zh-TW
+Monde déchargé,世界卸載,zh-TW
+Mondo caricato,世界載入,zh-TW
+Mondo scaricato,世界卸載,zh-TW
+Mostra i miei dati,開啟我的統計資料,zh-TW
+Motivo de error en la creación del backend,後端建立失敗原因,zh-TW
+Motivo dell'errore nella creazione della libreria,後端建立失敗原因,zh-TW
+Motivo do erro ao criar o backend,後端建立失敗原因,zh-TW
+Muestras de fotogramas por segundo (FPS),畫面更新率樣本（FPS）,zh-TW
+Muestras de tiempo de renderizado,繪製時間樣本,zh-TW
+Mundo cargado,世界載入,zh-TW
+Mundo Carregado,世界載入,zh-TW
+Mundo descargado,世界卸載,zh-TW
+Mundo Descarregado,世界卸載,zh-TW
+Mundo nuevo,是否為新的世界,zh-TW
+Máy chủ đã sửa đổi,伺服器是否為原版,zh-TW
+Máy khách đã sửa đổi,用戶端是否為原版,zh-TW
+Mémoire dédiée (Ko),專屬記憶體（kB）,zh-TW
+Mémoire vive utilisée (RAM),使用的記憶體,zh-TW
+Métricas de desempenho,效能指標,zh-TW
+Mẫu thời gian kết xuất,繪製時間樣本,zh-TW
+Mẫu tốc độ khung hình (FPS),畫面更新率樣本（FPS）,zh-TW
+Name der Schnittstelle,後端名稱,zh-TW
+Neue Welt,是否為新的世界,zh-TW
+New World,是否為新的世界,zh-TW
+Nom du backend,後端名稱,zh-TW
+Nom du Launcher,啟動器名稱,zh-TW
+Nombre d'échantillons,樣本數量,zh-TW
+Nombre del backend,後端名稱,zh-TW
+Nombre del lanzador,啟動器名稱,zh-TW
+Nome del launcher,啟動器名稱,zh-TW
+Nome del minigioco o contenuto di Realms,Realms 地圖內容（小遊戲名稱）,zh-TW
+Nome della libreria grafica,後端名稱,zh-TW
+Nome do backend,後端名稱,zh-TW
+Nome do launcher,啟動器名稱,zh-TW
+Nouveau monde ?,是否為新的世界,zh-TW
+Novo mundo,是否為新的世界,zh-TW
+Numero di campioni,樣本數量,zh-TW
+Nuovo mondo,是否為新的世界,zh-TW
+Número de muestras,樣本數量,zh-TW
+Nền tảng,平台,zh-TW
+Nội dung bản đồ Realms (tên trò chơi nhỏ),Realms 地圖內容（小遊戲名稱）,zh-TW
+Olay Tarih Bilgisi (UTC),事件時間戳記（UTC）,zh-TW
+Operating System,作業系統,zh-TW
+Opt-In,可選擇加入,zh-TW
+Orario dell'evento [UTC],事件時間戳記（UTC）,zh-TW
+Oyun Modu,遊戲模式,zh-TW
+Oyun Süresi (Birim Zaman),遊戲時間（刻）,zh-TW
+Oyun Sürümü,遊戲版本,zh-TW
+Oyun Yükleme Süreleri,遊戲載入時間,zh-TW
+"Oyuncuların Minecraft’ı nasıl oynadığını bilmek (Oyun modu, istemci veya sunucu modu ve oyun sürümü gibi), oyuncuların en çok önem verdiği alanları iyileştirmek için oyun güncellemelerine odaklanmamızı sağlar.
+Dünya Yüklendi olayı, oyun oturumunun ne kadar sürdüğünü hesaplamak için Dünyadan Çıkıldı olayıyla eşleştirilir.","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+P2P接続,P2P 連線,zh-TW
+Participação,可選擇加入,zh-TW
+Peer-to-peer Bağlantı,P2P 連線,zh-TW
+Peer-to-peer Connection,P2P 連線,zh-TW
+Pencere Açılmadan Önceki Süre (Milisaniye),視窗開啟前時間（毫秒）,zh-TW
+"Per noi è importante capire il tempo necessario per entrare in un mondo e come questo dato può cambiare. Ad esempio, quando aggiungiamo nuove funzionalità o apportiamo modifiche tecniche significative, ci serve sapere in che modo ciò incide sui tempi di caricamento.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+Percorso dello stabilimento di connettività interattiva (SCI),互動式連線建立 (ICE) 路徑,zh-TW
+Performance Metrics,效能指標,zh-TW
+Performans Ölçümleri,效能指標,zh-TW
+Permito enviar mis datos de telemetría opcionales,我同意傳送可選的遙測資料,zh-TW
+Phase de l'échec,失敗階段,zh-TW
+Phiên bản trò chơi,遊戲版本,zh-TW
+Piattaforma,平台,zh-TW
+Plataforma,平台,zh-TW
+Plateforme,平台,zh-TW
+Platform,平台,zh-TW
+Plattform,平台,zh-TW
+Privacy Statement,隱私權聲明,zh-TW
+Progreso realizado,達成進度,zh-TW
+Progresso compiuto,達成進度,zh-TW
+Progressos feitos,達成進度,zh-TW
+Progrès réalisés,達成進度,zh-TW
+"Quest'evento viene usato insieme a «Mondo caricato» per calcolare la durata della sessione del mondo. La durata (in secondi e in tick) viene misurata al termine della sessione di un mondo, cioè quando si torna al menù principale o ci si disconnette da un server.","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+"Questo evento ci aiuta a capire l'affidabilità e le prestazioni delle connessioni a rete paritaria tra giocatori. Registra l'esito della connessione, il tipo di candidato usato per lo stabilimento di connettività interattiva (SCI, o ICE in inglese, il protocollo che usiamo per le connessioni a rete paritaria) e il tempo richiesto per stabilire la connessione.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+Questo evento ci comunica le capacità del dispositivo grafico in uso durante la partita.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+Raccolta dei dati di telemetria,遙測資料收集,zh-TW
+Raison de l'échec de la création du backend,後端建立失敗原因,zh-TW
+RAM ที่ใช้,使用的記憶體,zh-TW
+Realms Harita İçeriği (Mini Oyun Adı),Realms 地圖內容（小遊戲名稱）,zh-TW
+Realms Map Content (Minigame Name),Realms 地圖內容（小遊戲名稱）,zh-TW
+Realms 맵 콘텐츠 (미니게임 이름),Realms 地圖內容（小遊戲名稱）,zh-TW
+Realms‐Weltinhalt (Name des Minispiels),Realms 地圖內容（小遊戲名稱）,zh-TW
+Realmsのマップコンテンツ（ミニゲームの名前）,Realms 地圖內容（小遊戲名稱）,zh-TW
+Realm地图内容（小游戏名称）,Realms 地圖內容（小遊戲名稱）,zh-TW
+Recolección de datos de telemetría,遙測資料收集,zh-TW
+Remote Candidate Type,遠端候選類型,zh-TW
+Render Distance,顯示距離,zh-TW
+Render Time Samples,繪製時間樣本,zh-TW
+Route des interaktiven Verbindungsaufbaus (ICE),互動式連線建立 (ICE) 路徑,zh-TW
+Ruta de tipo de conectividad interactiva (ICE),互動式連線建立 (ICE) 路徑,zh-TW
+"Saber como os jogadores jogam Minecraft (como o modo de jogo, modificações de cliente ou servidor e a versão do jogo) nos permite melhorar as áreas mais interessantes aos jogadores.
+O evento Mundo Carregado é sincronizado com o Mundo Descarregado para calcular a duração da sessão de jogo.","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+"Saber cómo juegan los jugadores a Minecraft (qué modo de juego, cliente o servidor modificado y versión del juego usan) nos ayuda a mejorar los aspectos que más le importan a los jugadores.
+El evento «Mundo cargado» está unido al de «Mundo descargado» para calcular cuánto ha durado la sesión de juego.","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+Sample Count,樣本數量,zh-TW
+Sapere come i giocatori giocano a Minecraft (per esempio la modalità e la versione di gioco o client e server modificati) ci consente di focalizzare gli aggiornamenti del gioco al fine di migliorare le aree a cui i giocatori tengono di più. L'evento «Mondo caricato» è usato insieme a «Mondo scaricato» per calcolare la durata delle sessioni di gioco.,"了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+Server Modded,伺服器是否為原版,zh-TW
+Server modifiziert,伺服器是否為原版,zh-TW
+Server Session ID,伺服器 Session ID,zh-TW
+Server Type,伺服器類型,zh-TW
+Servertyp,伺服器類型,zh-TW
+Server‐Sitzungs‐ID,伺服器 Session ID,zh-TW
+Serveur moddé ?,伺服器是否為原版,zh-TW
+Servidor modificado,伺服器是否為原版,zh-TW
+Sichtweite,顯示距離,zh-TW
+Signalaufbauzeit (Millisekunden),信令連線時間（毫秒）,zh-TW
+Signaling Connection Time (Milliseconds),信令連線時間（毫秒）,zh-TW
+Sistema operacional,作業系統,zh-TW
+Sistema operativo,作業系統,zh-TW
+Spielladezeiten,遊戲載入時間,zh-TW
+Spielmodus,遊戲模式,zh-TW
+Spielversion,遊戲版本,zh-TW
+Spielzeit (Ticks),遊戲時間（刻）,zh-TW
+Sunucu Oturum Kimliği,伺服器 Session ID,zh-TW
+Sunucu Türü,伺服器類型,zh-TW
+Système d'exploitation,作業系統,zh-TW
+Số liệu hiệu suất,效能指標,zh-TW
+Số lượng mẫu,樣本數量,zh-TW
+Sự kiện này cho chúng tôi biết về các tính năng khả dụng của thiết bị đồ hoạ được sử dụng để chơi trò chơi.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+Sự kiện này có thể giúp chúng tôi tìm ra nơi cần phải cải thiện hiệu suất khởi động bằng việc đo thời gian thực thi của các giai đoạn khởi động.,此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+"Sự kiện này giúp chúng tôi hiểu được độ tin cậy và hiệu suất của kết nối ngang hàng giữa các người chơi với nhau. Nó ghi lại kết nối có thành công hay không, loại ứng viên thiết lập kết nối tương tác (ICE, giao thức chúng tôi sử dụng để thiết lập kết nối ngang hàng) được sử dụng và mất bao lâu để thiết lập kết nối.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+"Sự kiện này được ghép nối với sự kiện thế giới đã nạp để tính toán phiên thế giới đã kéo dài bao lâu.
+Khoảng thời gian (theo giây và nhịp) được đo khi một phiên thế giới đã kết thúc (trở về màn hình chính, ngắt kết nối khỏi máy chủ).","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+Telemetrie‐Datenerhebung,遙測資料收集,zh-TW
+Telemetry Data Collection,遙測資料收集,zh-TW
+Tempi di caricamento del gioco,遊戲載入時間,zh-TW
+Tempo antes da abertura da janela (milissegundos),視窗開啟前時間（毫秒）,zh-TW
+Tempo dal caricamento del mondo [s],自載入後的時間（秒）,zh-TW
+Tempo dal caricamento del mondo [t],自載入後的時間（刻）,zh-TW
+Tempo de carregamento de mundos,世界載入時間,zh-TW
+Tempo de carregamento do mundo (milissegundos),世界載入時間（毫秒）,zh-TW
+Tempo de carregamento total (milissegundos),總載入時間（毫秒）,zh-TW
+Tempo de conexão (milissegundos) do Interactive Connectivity Establishment (ICE),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Tempo de conexão da sinalização (milissegundos),信令連線時間（毫秒）,zh-TW
+Tempo de conexão total (milissegundos),總連線時間（毫秒）,zh-TW
+Tempo de inicialização (milissegundos),啟動引導時間（毫秒）,zh-TW
+Tempo de jogo (tiques),遊戲時間（刻）,zh-TW
+Tempo desde carregamento (tiques),自載入後的時間（刻）,zh-TW
+Tempo desde o carregamento (segundos),自載入後的時間（秒）,zh-TW
+Tempo di avvio [ms],啟動引導時間（毫秒）,zh-TW
+Tempo di caricamento dei mondi,世界載入時間,zh-TW
+Tempo di caricamento del mondo [ms],世界載入時間（毫秒）,zh-TW
+Tempo di connessione dello SCI [ms],互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Tempo di connessione di segnalamento [ms],信令連線時間（毫秒）,zh-TW
+Tempo di gioco [t],遊戲時間（刻）,zh-TW
+Tempo na tela de carregamento (milissegundos),載入畫面顯示時間（毫秒）,zh-TW
+Tempo nella schermata di caricamento [ms],載入畫面顯示時間（毫秒）,zh-TW
+Tempo prima dell'apertura della finestra [ms],視窗開啟前時間（毫秒）,zh-TW
+Tempo totale di caricamento [ms],總載入時間（毫秒）,zh-TW
+Tempo totale di connessione [ms],總連線時間（毫秒）,zh-TW
+Tempos de carregamento do jogo,遊戲載入時間,zh-TW
+Temps avant l'ouverture de la fenêtre (en millisecondes),視窗開啟前時間（毫秒）,zh-TW
+Temps de chargement des mondes,世界載入時間,zh-TW
+Temps de chargement du jeu,遊戲載入時間,zh-TW
+Temps de chargement du monde (en millisecondes),世界載入時間（毫秒）,zh-TW
+Temps de connexion de l'établissement de connectivité interactive (ICE) (en millisecondes),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Temps de connexion de la signalisation (en millisecondes),信令連線時間（毫秒）,zh-TW
+Temps de démarrage (en millisecondes),啟動引導時間（毫秒）,zh-TW
+Temps de l'écran de chargement (en millisecondes),載入畫面顯示時間（毫秒）,zh-TW
+Temps depuis le chargement (en secondes),自載入後的時間（秒）,zh-TW
+Temps depuis le chargement (en ticks),自載入後的時間（刻）,zh-TW
+Temps en jeu (en ticks),遊戲時間（刻）,zh-TW
+Temps total de chargement (en millisecondes),總載入時間（毫秒）,zh-TW
+Temps total de connexion (en millisecondes),總連線時間（毫秒）,zh-TW
+This event can help us figure out where startup performance improvements are needed by measuring the execution times of the startup phases.,此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+"This event helps us understand the reliability and performance of peer-to-peer connections between players. It records whether the connection was successful, the type of Interactive Connectivity Establishment (ICE, the protocol we use to establish peer-to-peer connections) candidate used, and how long it took to establish the connection.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+This event informs us of the capabilities of the graphics device used to play the game.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+"This event is paired with the World Loaded event to calculate how long the world session has lasted.
+The duration (in seconds and ticks) is measured when a world session has ended (quitting to title, disconnecting from a server).","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+Thu thập dữ liệu đo từ xa,遙測資料收集,zh-TW
+Thông tin lỗi tạo Backend,後端建立失敗訊息,zh-TW
+Thế giới chưa nạp,世界卸載,zh-TW
+Thế giới mới,是否為新的世界,zh-TW
+Thế giới đã nạp,世界載入,zh-TW
+Thời gian khởi tạo trò chơi (miligiây),啟動引導時間（毫秒）,zh-TW
+Thời gian kết nối thiết lập kết nối tương tác (ICE) (Miligiây),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Thời gian kết nối tín hiệu (Miligiây),信令連線時間（毫秒）,zh-TW
+Thời gian nạp thế giới,世界載入時間,zh-TW
+Thời gian nạp thế giới (Miligiây),世界載入時間（毫秒）,zh-TW
+Thời gian nạp trò chơi,遊戲載入時間,zh-TW
+Thời gian trong màn hình nạp (miligiây),載入畫面顯示時間（毫秒）,zh-TW
+Thời gian trong trò chơi (nhịp),遊戲時間（刻）,zh-TW
+Thời gian trước khi cửa sổ mở (miligiây),視窗開啟前時間（毫秒）,zh-TW
+Thời gian từ khi nạp (Giây),自載入後的時間（秒）,zh-TW
+Thời gian từ khi nạp (Nhịp),自載入後的時間（刻）,zh-TW
+Tiempo antes de que la ventana se abra (milisegundos),視窗開啟前時間（毫秒）,zh-TW
+Tiempo de carga del mundo (en milisegundos),世界載入時間（毫秒）,zh-TW
+Tiempo de conexión de conectividad interactiva (ICE) (ms),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Tiempo de conexión de señalización (ms),信令連線時間（毫秒）,zh-TW
+Tiempo de conexión total (ms),總連線時間（毫秒）,zh-TW
+Tiempo de inicio (milisegundos),啟動引導時間（毫秒）,zh-TW
+Tiempo de juego (tics),遊戲時間（刻）,zh-TW
+Tiempo desde que se cargó (en segundos),自載入後的時間（秒）,zh-TW
+Tiempo desde que se cargó (en tics),自載入後的時間（刻）,zh-TW
+Tiempo en pantalla de carga (milisegundos),載入畫面顯示時間（毫秒）,zh-TW
+Tiempo total de carga (milisegundos),總載入時間（毫秒）,zh-TW
+Tiempos de carga del juego,遊戲載入時間,zh-TW
+Tiempos de carga del mundo,世界載入時間,zh-TW
+Time Before Window Opens (Milliseconds),視窗開啟前時間（毫秒）,zh-TW
+Time in Loading Screen (Milliseconds),載入畫面顯示時間（毫秒）,zh-TW
+Time Since Load (Seconds),自載入後的時間（秒）,zh-TW
+Time Since Load (Ticks),自載入後的時間（刻）,zh-TW
+Tipo de candidato local,本機候選類型,zh-TW
+Tipo de candidato remoto,遠端候選類型,zh-TW
+Tipo de servidor,伺服器類型,zh-TW
+Tipo di candidato locale,本機候選類型,zh-TW
+Tipo di candidato remoto,遠端候選類型,zh-TW
+Tipo di server,伺服器類型,zh-TW
+Tiến trình đã làm,達成進度,zh-TW
+Toplam Bağlanma Süresi (Milisaniye),總連線時間（毫秒）,zh-TW
+Toplam Yükleme Süresi (Milisaniye),總載入時間（毫秒）,zh-TW
+Total Connection Time (Milliseconds),總連線時間（毫秒）,zh-TW
+Total Load Time (Milliseconds),總載入時間（毫秒）,zh-TW
+Tuyên bố về quyền riêng tư,隱私權聲明,zh-TW
+Type de candidat distant,遠端候選類型,zh-TW
+Type de candidat local,本機候選類型,zh-TW
+Type de serveur,伺服器類型,zh-TW
+Tên Backend,後端名稱,zh-TW
+Tên trình khởi động,啟動器名稱,zh-TW
+Tính năng bị thiếu gây lỗi tạo Backend,後端建立失敗缺少功能,zh-TW
+Tôi đồng ý gửi dữ liệu đo từ xa không bắt buộc,我同意傳送可選的遙測資料,zh-TW
+Tương thích đồ họa,圖形功能,zh-TW
+Tổng thời gian kết nối (Miligiây),總連線時間（毫秒）,zh-TW
+Tổng thời gian nạp (Miligiây),總載入時間（毫秒）,zh-TW
+Understanding the context behind receiving an advancement can help us better understand and improve the progression of the game.,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+Used Random Access Memory,使用的記憶體,zh-TW
+User ID,使用者 ID,zh-TW
+Utilizzo della memoria (RAM),使用的記憶體,zh-TW
+Uzak Aday Tipi,遠端候選類型,zh-TW
+Ver meus dados,開啟我的統計資料,zh-TW
+Ver mis datos,開啟我的統計資料,zh-TW
+Verbindungserfolg,連線成功,zh-TW
+Verilerimi Görüntüle,開啟我的統計資料,zh-TW
+Version du jeu,遊戲版本,zh-TW
+Versione del gioco,遊戲版本,zh-TW
+Versión del juego,遊戲版本,zh-TW
+Versão do jogo,遊戲版本,zh-TW
+Verwendeter Arbeitsspeicher,使用的記憶體,zh-TW
+View My Data,開啟我的統計資料,zh-TW
+Visibilità,顯示距離,zh-TW
+"Việc biết cách mà người chơi chơi Minecraft (ví dụ như chế độ chơi, máy khách hoặc máy chủ đã sửa đổi và phiên bản trò chơi) cho phép chúng tôi tập trung vào các bản cập nhật trò chơi để cải thiện điều mà người chơi quan tâm nhất.
+Sự kiện thế giới đã nạp được ghép nối với sự kiện thế giới chưa nạp để tính toán phiên chơi đã kéo dài bao lâu.","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+"Việc biết được hồ sơ hiệu suất tổng thể của Minecraft giúp chúng tôi tinh chỉnh và tối ưu hoá cho một phạm vi rộng các thông số kĩ thuật máy và hệ điều hành.
+Phiên bản trò chơi được đưa vào để giúp chúng tôi so sánh hồ sơ hiệu suất cho phiên bản mới của Minecraft.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+"Việc thu thập dữ liệu này giúp chúng tôi cải thiện Minecraft bằng cách hướng dẫn chúng tôi đi theo hướng liên quan đến người chơi.
+Bạn cũng có thể gửi phản hồi bổ sung để giúp chúng tôi tiếp tục cải thiện Minecraft.","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+Voir mes données,開啟我的統計資料,zh-TW
+Welt entladen,世界卸載,zh-TW
+Welt geladen,世界載入,zh-TW
+Weltladezeit (Millisekunden),世界載入時間（毫秒）,zh-TW
+Weltladezeiten,世界載入時間,zh-TW
+Welt‐Sitzungs‐ID,世界 Session ID,zh-TW
+World Load Time (Milliseconds),世界載入時間（毫秒）,zh-TW
+World Load Times,世界載入時間,zh-TW
+World Loaded,世界載入,zh-TW
+World Session ID,世界 Session ID,zh-TW
+World Unloaded,世界卸載,zh-TW
+Xem dữ liệu của tôi,開啟我的統計資料,zh-TW
+Yeni Dünya,是否為新的世界,zh-TW
+Yerel Aday Tipi,本機候選類型,zh-TW
+Yükleme Ekranında Geçen Süre (Milisaniye),載入畫面顯示時間（毫秒）,zh-TW
+Yüklemeden Bu Yana Geçen Zaman (Birim Zaman),自載入後的時間（刻）,zh-TW
+Yüklemeden Bu Yana Geçen Zaman (Saniye),自載入後的時間（秒）,zh-TW
+Zeit im Ladebildschirm (Millisekunden),載入畫面顯示時間（毫秒）,zh-TW
+Zeit seit dem Laden (Sekunden),自載入後的時間（秒）,zh-TW
+Zeit seit dem Laden (Ticks),自載入後的時間（刻）,zh-TW
+"Zeit, bevor sich das Spielfenster öffnet (Millisekunden)",視窗開啟前時間（毫秒）,zh-TW
+Zeitpunkt des Ereignisses (koordinierte Weltzeit),事件時間戳記（UTC）,zh-TW
+"Zu erfahren, unter welchen Gegebenheiten Fortschritte erzielt werden, kann uns dabei helfen, den Spielverlauf besser zu verstehen und ihn zu verbessern.",了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+"Zu wissen, wie Spieler Minecraft spielen (z. B. Spielmodus, Spielversion und modifizierter Client bzw. Server), erlaubt es uns, Spielaktualisierungen auf die Bereiche auszurichten, die ihnen von Bedeutung sind.
+Das Ereignis „Welt geladen“ ist mit dem Ereignis „Welt entladen“ gekoppelt, um zu berechnen, wie lange die Spielsitzung gedauert hat.","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+Zugewiesener Arbeitsspeicher (KB),專屬記憶體（kB）,zh-TW
+"É importante entendermos o tempo necessário para entrar num mundo e como isso muda ao longo do tempo. Por exemplo, ao adicionar novos recursos ou fazer mudanças técnicas maiores, precisamos observar o impacto nos tempos de carregamento.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+Échantillons d'images par seconde (FPS),畫面更新率樣本（FPS）,zh-TW
+Échantillons du temps de rendu,繪製時間樣本,zh-TW
+Ölçüm Verileri Toplama,遙測資料收集,zh-TW
+Önyükleme Süresi (Milisaniye),啟動引導時間（毫秒）,zh-TW
+Örnek Sayısı,樣本數量,zh-TW
+"Điều quan trọng với chúng tôi là phải hiểu được việc tham gia thế giới kéo dài bao lâu, và điều đó thay đổi như thế nào theo thời gian. Ví dụ như khi chúng tôi thêm vào những tính năng mới hoặc thực hiện những thay đổi kĩ thuật lớn hơn, chúng tôi cần thấy được điều đó tác động như thế nào đến thời gian nạp thế giới.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+Đường dẫn thiết lập kết nối tương tác (ICE),互動式連線建立 (ICE) 路徑,zh-TW
+"В паре с «Загрузка мира» это событие позволяет оценить продолжительность игровой сессии.
+Продолжительность (в секундах и тактах) определяется при завершении игры (отключение от сервера, возвращение в главное меню).","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+Величина выборки,樣本數量,zh-TW
+Версия игры,遊戲版本,zh-TW
+Включённые данные,包含的資料,zh-TW
+Возможности графического устройства,圖形功能,zh-TW
+Временная метка (UTC),事件時間戳記（UTC）,zh-TW
+Время до открытия окна (миллисекунды),視窗開啟前時間（毫秒）,zh-TW
+Время загрузки игры,遊戲載入時間,zh-TW
+Время загрузки мира,世界載入時間,zh-TW
+Время загрузки мира (миллисекунды),世界載入時間（毫秒）,zh-TW
+Время игры (такты),遊戲時間（刻）,zh-TW
+Время инициализации (миллисекунды),啟動引導時間（毫秒）,zh-TW
+Время на экране загрузки (миллисекунды),載入畫面顯示時間（毫秒）,zh-TW
+Время с загрузки (секунды),自載入後的時間（秒）,zh-TW
+Время с загрузки (такты),自載入後的時間（刻）,zh-TW
+Время установления интерактивного соединения (ICE) (миллисекунды),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+Время установления соединения (миллисекунды),信令連線時間（毫秒）,zh-TW
+Выборка времени кадра,繪製時間樣本,zh-TW
+Выборка частоты кадров (FPS),畫面更新率樣本（FPS）,zh-TW
+Выгрузка мира,世界卸載,zh-TW
+Выделенная память (Кбайт),專屬記憶體（kB）,zh-TW
+Дальность прорисовки,顯示距離,zh-TW
+Загрузка мира,世界載入,zh-TW
+Заявление о конфиденциальности,隱私權聲明,zh-TW
+"Знание общей картины производительности Minecraft помогает нам настраивать и оптимизировать игру для широкого спектра конфигураций устройств и операционных систем.
+Версия игры необходима для оценки производительности новых версий Minecraft.","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+"Знание того, как игроки используют возможности Minecraft (например, какие предпочитают версию и режим игры, модифицируют ли клиент или сервер), позволяет нам лучше расставлять приоритеты в их обновлении.
+Сведения о «Загрузке мира» и «Выгрузке мира» позволяют оценить продолжительность игровой сессии.","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+Идентификатор достижения,進度 ID,zh-TW
+Идентификатор клиента,用戶端 ID,zh-TW
+Идентификатор пользователя,使用者 ID,zh-TW
+Идентификатор сессии Minecraft,Minecraft Session ID,zh-TW
+Идентификатор сессии мира,世界 Session ID,zh-TW
+Идентификатор сессии сервера,伺服器 Session ID,zh-TW
+Использование ОЗУ,使用的記憶體,zh-TW
+Карта Realms (название мини-игры),Realms 地圖內容（小遊戲名稱）,zh-TW
+Маршрут установления интерактивного соединения (ICE),互動式連線建立 (ICE) 路徑,zh-TW
+Модифицированность клиента,用戶端是否為原版,zh-TW
+Модифицированность сервера,伺服器是否為原版,zh-TW
+Мои данные,開啟我的統計資料,zh-TW
+Название графического API,後端名稱,zh-TW
+Название лаунчера,啟動器名稱,zh-TW
+"Нам важно понимать, сколько времени требуется, чтобы присоединиться к миру, и как это меняется со временем. Например, когда мы добавляем новые функции или вносим крупные технические изменения, нам важно понимать, как это влияет на время загрузки.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+Новое достижение,達成進度,zh-TW
+Новый мир,是否為新的世界,zh-TW
+Общее время загрузки (миллисекунды),總載入時間（毫秒）,zh-TW
+Общее время подключения (миллисекунды),總連線時間（毫秒）,zh-TW
+Одноранговое соединение,P2P 連線,zh-TW
+Операционная система,作業系統,zh-TW
+Оставить отзыв,提供意見回饋,zh-TW
+Ошибка инициализации графического API: отсутствующие возможности,後端建立失敗缺少功能,zh-TW
+Ошибка инициализации графического API: подробности,後端建立失敗訊息,zh-TW
+Ошибка инициализации графического API: причина,後端建立失敗原因,zh-TW
+Платформа,平台,zh-TW
+Показатели производительности,效能指標,zh-TW
+Понимание процессов выполнения достижений может помочь нам лучше понять и улучшить продвижение по игре.,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+Режим игры,遊戲模式,zh-TW
+Сбор данных телеметрии,遙測資料收集,zh-TW
+"Сбор этих данных помогает нам улучшать Minecraft в тех направлениях, что актуальны для наших игроков.
+Вы также можете отправить дополнительный отзыв, чтобы помочь нам продолжать улучшать Minecraft.","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+Согласие на отправку,可選擇加入,zh-TW
+Тип локального кандидата,本機候選類型,zh-TW
+Тип сервера,伺服器類型,zh-TW
+Тип удалённого кандидата,遠端候選類型,zh-TW
+Успешность подключения,連線成功,zh-TW
+Этап отказа,失敗階段,zh-TW
+"Это событие поможет нам лучше понять, где требуются улучшения производительности во время запуска игры, анализируя время выполнения различных его этапов.",此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+Это событие сообщает о возможностях используемого графического устройства.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+"Этот параметр помогает нам оценить надёжность и производительность одноранговых (P2P) соединений между игроками. Он фиксирует успешность подключения, тип используемого кандидата ICE (протокола для установки P2P-соединений), а также время, затраченное на установку соединения.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+Я даю согласие на отправку дополнительных телеметрических данных,我同意傳送可選的遙測資料,zh-TW
+กลุ่มตัวอย่างอัตราเฟรม (FPS),畫面更新率樣本（FPS）,zh-TW
+กลุ่มตัวอย่างเวลาเร็นเดอร์,繪製時間樣本,zh-TW
+"การทราบโปรไฟล์ประสิทธิภาพโดยรวมของ Minecraft ช่วยให้เราปรับแต่งและเพิ่มประสิทธิภาพของเกมให้เหมาะกับสเปกเครื่องและระบบปฏิบัติการที่หลากหลาย 
+มีข้อมูลเวอร์ชันเกมรวมอยู่ด้วยเพื่อช่วยเราเปรียบเทียบโปรไฟล์ประสิทธิภาพของ Minecraft เวอร์ชันใหม่","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+การทำความก้าวหน้า,達成進度,zh-TW
+การทำความเข้าใจบริบทเบื้องหลังของการได้รับความก้าวหน้า สามารถช่วยให้เราเข้าใจและปรับปรุงความก้าวหน้าของเกมได้ดีขึ้น,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+การรวบรวมข้อมูลจากการวัดและส่งข้อมูลทางไกล,遙測資料收集,zh-TW
+"การรวบรวมข้อมูลนี้จะช่วยให้เราปรับปรุง Minecraft ได้ดีขึ้นด้วยการชี้แนะแนวทางที่เกี่ยวข้องกับผู้เล่นของเรา
+คุณยังสามารถส่งข้อเสนอแนะเพิ่มเติมเพื่อช่วยให้เราปรับปรุง Minecraft ได้ดี","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+"การรู้ว่าผู้เล่นเล่น Minecraft อย่างไร (เช่น โหมดเกม ไคลเอนต์หรือเซิร์ฟเวอร์ที่มีการดัดแปร และเวอร์ชันเกม) ช่วยให้พวกสามารถเรามุ่งเน้นการอัปเดตเกมเพื่อปรับปรุงในส่วนที่ผู้เล่นให้ความสำคัญมากที่สุดได้
+เหตุการณ์ 'โลกโหลด' จะจับคู่กับเหตุการณ์ 'โลกไม่โหลด' เพื่อคำนวณว่าเซสชันการเล่นกินเวลานานเท่าไร","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+การเชื่อมต่อสำเร็จ,連線成功,zh-TW
+การเชื่อมต่อแบบเพียร์ทูเพียร์,P2P 連線,zh-TW
+ข้อความแสดงความล้มเหลวในการสร้างแบ็กเอนด์,後端建立失敗訊息,zh-TW
+ข้อมูลที่รวมอยู่ด้วย,包含的資料,zh-TW
+ความยินยอมเข้าร่วม,可選擇加入,zh-TW
+ความสามารถของกราฟิก,圖形功能,zh-TW
+ความสามารถที่สูญหายซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,後端建立失敗缺少功能,zh-TW
+คำชี้แจงสิทธิ์ส่วนบุคคล,隱私權聲明,zh-TW
+จำนวนกลุ่มตัวอย่าง,樣本數量,zh-TW
+ฉันยินยอมที่จะส่งข้อมูลจากการวัดและส่งข้อมูลทางไกลเพิ่มเติม,我同意傳送可選的遙測資料,zh-TW
+ชื่อลันเชอร์,啟動器名稱,zh-TW
+ชื่อแบ็กเอนด์,後端名稱,zh-TW
+ดูข้อมูลของฉัน,開啟我的統計資料,zh-TW
+ประทับเวลาเหตุการณ์ (UTC),事件時間戳記（UTC）,zh-TW
+ประเภทตัวเลือกท้องถิ่น,本機候選類型,zh-TW
+ประเภทตัวเลือกระยะไกล,遠端候選類型,zh-TW
+ประเภทเซิร์ฟเวอร์,伺服器類型,zh-TW
+ระบบปฏิบัติการ,作業系統,zh-TW
+ระยะการมองเห็น,顯示距離,zh-TW
+ระยะการล้มเหลว,失敗階段,zh-TW
+หน่วยความจำเฉพาะ (kB),專屬記憶體（kB）,zh-TW
+เซิร์ฟเวอร์มีการดัดแปร,伺服器是否為原版,zh-TW
+เนื้อหาแมป Realms (ชื่อมินิเกม),Realms 地圖內容（小遊戲名稱）,zh-TW
+เป็นเรื่องสำคัญสำหรับเราในการเข้าใจว่าใช้เวลานานแค่ไหนในการเข้าร่วมโลกและเวลานั้นเปลี่ยนไปอย่างไรเมื่อเวลาผ่านไป ตัวอย่างเช่น เมื่อเราเพิ่มฟีเจอร์ใหม่หรือทำการเปลี่ยนแปลงทางเทคนิคครั้งใหญ่ เราต้องดูว่ามีผลกระทบอะไรบ้างต่อเวลาในการโหลด,對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+เมตริกประสิทธิภาพ,效能指標,zh-TW
+เวลาก่อนหน้าต่างเปิด (มิลลิวินาที),視窗開啟前時間（毫秒）,zh-TW
+เวลาตั้งแต่โหลด (ติ๊ก),自載入後的時間（刻）,zh-TW
+เวลาตั้งแต่โหลด (วินาที),自載入後的時間（秒）,zh-TW
+เวลาที่ใช้เชื่อมต่อ Interactive Connectivity Establishment (ICE) (มิลลิวินาที),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+เวลาที่ใช้เชื่อมต่อทั้งหมด (มิลลิวินาที),總連線時間（毫秒）,zh-TW
+เวลาที่ใช้เชื่อมต่อสัญญาณ (มิลลิวินาที),信令連線時間（毫秒）,zh-TW
+เวลาเกม (ติ๊ก),遊戲時間（刻）,zh-TW
+เวลาเริ่มต้นระบบ (มิลลิวินาที),啟動引導時間（毫秒）,zh-TW
+เวลาโหลดทั้งหมด (มิลลิวินาที),總載入時間（毫秒）,zh-TW
+เวลาโหลดเกม,遊戲載入時間,zh-TW
+เวลาโหลดโลก,世界載入時間,zh-TW
+เวลาโหลดโลก (มิลลิวินาที),世界載入時間（毫秒）,zh-TW
+เวลาในหน้าจอกำลังโหลด (มิลลิวินาที),載入畫面顯示時間（毫秒）,zh-TW
+เวอร์ชันเกม,遊戲版本,zh-TW
+เส้นทาง Interactive Connectivity Establishment (ICE),互動式連線建立 (ICE) 路徑,zh-TW
+"เหตุการณ์นี้จะจับคู่กับเหตุการณ์ 'โลกโหลด' เพื่อคำนวณว่าเซสชันโลกกินเวลานานเท่าไร
+ระยะเวลานี้ (ในหน่วยวินาทีและติ๊ก) จะวัดในตอนที่เซสชันโลกได้จบลง (เมื่อกลับไปที่หน้าหลักหรือตัดการเชื่อมต่อจากเซิร์ฟเวอร์)","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+เหตุการณ์นี้ช่วยให้เราทราบถึงความสามารถของอุปกรณ์กราฟิกที่ใช้ในการเล่นเกม,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+"เหตุการณ์นี้ช่วยให้เราเข้าใจถึงความมั่นคงและประสิทธิภาพของการเชื่อมต่อแบบเพียร์ทูเพียร์ระหว่างผู้เล่น โดยจะบันทึกว่าการเชื่อมต่อสำเร็จหรือไม่, ประเภทของตัวเลือก Interactive Connectivity Establishment ที่เลือกใช้ (ICE เป็นโปรโตคอลที่เราใช้ในการสร้างการเชื่อมต่อแบบเพียร์ทูเพียร์) และระยะเวลาที่ใช้ในการสร้างการเชื่อมต่อ",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+เหตุการณ์นี้สามารถช่วยให้เราทราบว่าจำเป็นต้องปรับปรุงประสิทธิภาพการเริ่มต้นระบบในจุดใดบ้างโดยการวัดเวลาดำเนินการของระยะเริ่มต้นระบบ,此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+เหตุผลซึ่งก่อให้เกิดความล้มเหลวในการสร้างแบ็กเอนด์,後端建立失敗原因,zh-TW
+แพลตฟอร์ม,平台,zh-TW
+โลกโหลด,世界載入,zh-TW
+โลกใหม่,是否為新的世界,zh-TW
+โลกไม่โหลด,世界卸載,zh-TW
+โหมดเกม,遊戲模式,zh-TW
+ให้ข้อเสนอแนะ,提供意見回饋,zh-TW
+ไคลเอนต์มีการดัดแปร,用戶端是否為原版,zh-TW
+このイベントは、ゲームのプレイに使用されているグラフィックデバイスの性能に関する情報を把握するためのものです。,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+このイベントは、プレイヤー間のP2P接続の信頼性とパフォーマンスを把握するためのものです。接続の成功の是非、使用されたInteractive Connectivity Establishment（ICE：本ゲームのP2P接続に採用されているプロトコル）の候補の種類、および接続確立に掛かった時間を記録します。,這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+このイベントは、起動フェーズの実行時間を測定し、起動性能の改善が必要な箇所を把握するためのものです。,此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+"このイベントはワールドロードイベントと対応してワールドセッションの継続時間を計算します。
+継続時間（秒及びティック）は、ワールドセッションが終了（タイトルに戻る、またはサーバーから切断）したときに測定されます。","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+"これらのデータを収集することにより、プレイヤーの傾向を導き出し、Minecraftの改善に活かすことができます。
+また、Minecraftの継続的な改善のために、追加のフィードバックを送信することもできます。","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+イベントの時刻（UTC）,事件時間戳記（UTC）,zh-TW
+ウィンドウが開くまでの時間（ミリ秒）,視窗開啟前時間（毫秒）,zh-TW
+オプトイン,可選擇加入,zh-TW
+オペレーティングシステム,作業系統,zh-TW
+クライアントID,用戶端 ID,zh-TW
+グラフィック性能,圖形功能,zh-TW
+ゲームのバージョン,遊戲版本,zh-TW
+ゲームの読み込み時間,遊戲載入時間,zh-TW
+ゲームモード,遊戲模式,zh-TW
+ゲーム内時間（ティック）,遊戲時間（刻）,zh-TW
+サンプリング数,樣本數量,zh-TW
+サーバーのセッションID,伺服器 Session ID,zh-TW
+サーバーの種類,伺服器類型,zh-TW
+シグナリング接続時間（ミリ秒）,信令連線時間（毫秒）,zh-TW
+データの遠隔収集,遙測資料收集,zh-TW
+バックエンド作成失敗の原因,後端建立失敗原因,zh-TW
+バックエンド作成失敗時のメッセージ,後端建立失敗訊息,zh-TW
+バックエンド作成失敗時の不足していた性能情報,後端建立失敗缺少功能,zh-TW
+バックエンド名,後端名稱,zh-TW
+パフォーマンス測定,效能指標,zh-TW
+フィードバックを送信,提供意見回饋,zh-TW
+フレームレートのサンプル（FPS）,畫面更新率樣本（FPS）,zh-TW
+プライバシーに関する声明,隱私權聲明,zh-TW
+プラットフォーム,平台,zh-TW
+"プレイヤーのMinecraftのプレイ状況（ゲームモード、Modが導入されたクライアントやサーバー、ゲームバージョン等）を知ることは、ゲームのアップデートにあたってプレイヤーが最も気にする部分の改善に焦点を絞ることにつながります。
+ワールドロードイベントは、ワールドアンロードイベントと対応してプレイセッションの長さを計算します。","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+ユーザーID,使用者 ID,zh-TW
+ランチャー名,啟動器名稱,zh-TW
+リモート候補タイプ,遠端候選類型,zh-TW
+ローカル候補タイプ,本機候選類型,zh-TW
+ワールドのセッションID,世界 Session ID,zh-TW
+ワールドの読み込みにかかる時間、および開発過程でそれがどのように変化するかを理解することは重要です。例えば、新しい要素の追加や技術的に大きな変更を行った場合に、これらが読み込み時間に対してどのような影響を及ぼすかを確認する必要があります。,對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+ワールドの読み込み時間（ミリ秒）,世界載入時間（毫秒）,zh-TW
+ワールドアンロード,世界卸載,zh-TW
+ワールドロード,世界載入,zh-TW
+ワールド読み込み時間,世界載入時間,zh-TW
+专用内存（kB）,專屬記憶體（kB）,zh-TW
+世界会话ID,世界 Session ID,zh-TW
+世界加载,世界載入,zh-TW
+世界加载时间,世界載入時間,zh-TW
+世界加载时间（毫秒）,世界載入時間（毫秒）,zh-TW
+世界卸载,世界卸載,zh-TW
+"了解Minecraft的整体性能概况，可以帮助我们针对各种机型和操作系统调整与优化游戏。 
+游戏版本信息也包含在其中，以帮助我们比较Minecraft新版本的性能概况。","了解 Minecraft 整體的效能概況，可以幫助我們針對各類裝置及作業系統調整並改進遊戲。
+遊戲版本資訊也包含在內，以便我們比較新版本 Minecraft 的效能概況。",zh-TW
+"了解玩家玩Minecraft时的细节（例如游戏模式、客户端或服务端是否被修改，以及游戏版本）有助于我们在游戏更新时注重改进玩家最关心的部分。
+世界加载事件将同世界卸载事件一起用于计算游戏会话的持续时长。","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+了解达成进度前后发生的事情有助于我们更好了解及改进游戏流程。,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+事件时间戳（UTC）,事件時間戳記（UTC）,zh-TW
+交互式连接建立（ICE）路径,互動式連線建立 (ICE) 路徑,zh-TW
+交互式连接建立（ICE）连接时间（毫秒）,互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+任意の遠隔測定データを送信することに同意する,我同意傳送可選的遙測資料,zh-TW
+使用されたランダムアクセスメモリ,使用的記憶體,zh-TW
+信令连接时间（毫秒）,信令連線時間（毫秒）,zh-TW
+加载屏幕显示时间（毫秒）,載入畫面顯示時間（毫秒）,zh-TW
+包含的数据,包含的資料,zh-TW
+可选择加入,可選擇加入,zh-TW
+后端创建失败原因,後端建立失敗原因,zh-TW
+后端创建失败消息,後端建立失敗訊息,zh-TW
+后端创建失败缺失功能,後端建立失敗缺少功能,zh-TW
+后端名称,後端名稱,zh-TW
+含まれるデータ,包含的資料,zh-TW
+启动器名称,啟動器名稱,zh-TW
+启动引导时间（毫秒）,啟動引導時間（毫秒）,zh-TW
+图形功能,圖形功能,zh-TW
+失敗の起きた段階,失敗階段,zh-TW
+失败阶段,失敗階段,zh-TW
+客户端ID,用戶端 ID,zh-TW
+客户端是否被修改,用戶端是否為原版,zh-TW
+对我们而言，了解加入世界所需的时长，以及这一时长随着时间推移会如何变化是很重要的。比如，当我们加入新功能或进行较大的技术更改时，我们需要知道这对加载时间有何影响。,對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+専用メモリ（kB）,專屬記憶體（kB）,zh-TW
+已使用的内存,使用的記憶體,zh-TW
+帧率样本（FPS）,畫面更新率樣本（FPS）,zh-TW
+性能指标,效能指標,zh-TW
+总计加载时间（毫秒）,總載入時間（毫秒）,zh-TW
+总计连接时间（毫秒）,總連線時間（毫秒）,zh-TW
+我同意发送可选的遥测数据,我同意傳送可選的遙測資料,zh-TW
+打开我的数据,開啟我的統計資料,zh-TW
+接続の成功の是非,連線成功,zh-TW
+描画所要時間のサンプル,繪製時間樣本,zh-TW
+描画距離,顯示距離,zh-TW
+提供反馈,提供意見回饋,zh-TW
+操作系统,作業系統,zh-TW
+"收集这些数据可以让我们了解与玩家有关的实际情况，以便帮助我们改进Minecraft。
+你也可以发送其他反馈来帮助我们持续改进Minecraft。","收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+新規ワールド,是否為新的世界,zh-TW
+是否为新的世界,是否為新的世界,zh-TW
+服务器会话ID,伺服器 Session ID,zh-TW
+服务器类型,伺服器類型,zh-TW
+服务端是否被修改,伺服器是否為原版,zh-TW
+本地候选类型,本機候選類型,zh-TW
+样本数,樣本數量,zh-TW
+"此事件与世界加载事件用于计算世界会话的持续时间。
+持续时间（以秒和刻为单位）在世界会话结束时（退回到标题屏幕，或从服务器断开连接）测量。","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+此事件会测量游戏启动各个阶段的时长以帮助我们找到游戏启动的性能优化点。,此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+此事件告知我们运行游戏所使用的图形设备的功能信息。,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+此事件有助于我们了解玩家之间点对点连接的可靠性和性能情况。事件将记录连接是否成功、所使用的交互式连接建立（ICE，即我们用于建立点对点连接的协议）候选类型，以及建立连接所花费的时间。,這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+渲染用时样本,繪製時間樣本,zh-TW
+渲染距离,顯示距離,zh-TW
+游戏加载时间,遊戲載入時間,zh-TW
+游戏时间（刻）,遊戲時間（刻）,zh-TW
+游戏模式,遊戲模式,zh-TW
+游戏版本,遊戲版本,zh-TW
+点对点连接,P2P 連線,zh-TW
+用户ID,使用者 ID,zh-TW
+窗口开启前时间（毫秒）,視窗開啟前時間（毫秒）,zh-TW
+総接続時間（ミリ秒）,總連線時間（毫秒）,zh-TW
+総読み込み時間（ミリ秒）,總載入時間（毫秒）,zh-TW
+自分のデータを確認する,開啟我的統計資料,zh-TW
+自加载后的时间（刻）,自載入後的時間（刻）,zh-TW
+自加载后的时间（秒）,自載入後的時間（秒）,zh-TW
+読み込みからの時間（ティック）,自載入後的時間（刻）,zh-TW
+読み込みからの時間（秒）,自載入後的時間（秒）,zh-TW
+読み込み画面の所要時間（ミリ秒）,載入畫面顯示時間（毫秒）,zh-TW
+起動所要時間（ミリ秒）,啟動引導時間（毫秒）,zh-TW
+达成进度,達成進度,zh-TW
+进度ID,進度 ID,zh-TW
+远程候选类型,遠端候選類型,zh-TW
+连接成功,連線成功,zh-TW
+進捗ID,進度 ID,zh-TW
+進捗の達成に関するデータ,達成進度,zh-TW
+進捗達成時の状況を知ることで、開発チームのより深い把握とゲームの改善・発展に繋げることができます。,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+遥测数据收集,遙測資料收集,zh-TW
+隐私声明,隱私權聲明,zh-TW
+개인 정보 처리 방침,隱私權聲明,zh-TW
+게임 모드,遊戲模式,zh-TW
+게임 버전,遊戲版本,zh-TW
+게임 시간 (틱),遊戲時間（刻）,zh-TW
+게임을 불러오는 데 걸린 시간,遊戲載入時間,zh-TW
+그래픽 기능,圖形功能,zh-TW
+내 데이터 보기,開啟我的統計資料,zh-TW
+대화형 연결 구축 (ICE) 경로,互動式連線建立 (ICE) 路徑,zh-TW
+대화형 연결 구축 (ICE) 연결 시간 (밀리초),互動式連線建立 (ICE) 連線時間（毫秒）,zh-TW
+랜덤 액세스 메모리 사용량,使用的記憶體,zh-TW
+런처 이름,啟動器名稱,zh-TW
+렌더 거리,顯示距離,zh-TW
+렌더 시간 표본,繪製時間樣本,zh-TW
+로딩 화면에 있던 시간 (밀리초),載入畫面顯示時間（毫秒）,zh-TW
+로컬 후보 유형,本機候選類型,zh-TW
+발전 과제 ID,進度 ID,zh-TW
+발전 과제 달성,達成進度,zh-TW
+발전 과제의 달성 배경을 이해하면 게임의 진행을 더 잘 이해하고 개선하는 데 도움이 됩니다.,了解達成進度後發生的事情，有利於我們更好了解並改進遊戲過程。,zh-TW
+백엔드 생성 실패 기능 누락,後端建立失敗缺少功能,zh-TW
+백엔드 생성 실패 메시지,後端建立失敗訊息,zh-TW
+백엔드 생성 실패 사유,後端建立失敗原因,zh-TW
+백엔드 이름,後端名稱,zh-TW
+부트스트랩 시간 (밀리초),啟動引導時間（毫秒）,zh-TW
+사용자 ID,使用者 ID,zh-TW
+새로운 세계 여부,是否為新的世界,zh-TW
+서버 모드 여부,伺服器是否為原版,zh-TW
+서버 세션 ID,伺服器 Session ID,zh-TW
+서버 유형,伺服器類型,zh-TW
+선택 수집 여부,可選擇加入,zh-TW
+선택적 원격 측정 데이터 전송에 동의합니다,我同意傳送可選的遙測資料,zh-TW
+성능 측정 결과,效能指標,zh-TW
+세계 세션 ID,世界 Session ID,zh-TW
+세계를 떠날 때,世界卸載,zh-TW
+세계를 불러오는 데 걸린 시간,世界載入時間,zh-TW
+세계를 불러오는 데 걸린 시간 (밀리초),世界載入時間（毫秒）,zh-TW
+세계를 불러올 때,世界載入,zh-TW
+"세계에 참여하는 데 걸린 시간과, 시간이 지남에 따라 그 시간이 어떻게 변화하는지 아는 것이 저희에게는 중요합니다. 예를 들어, 새로운 기능을 추가하거나 큰 기술적 변경점을 적용했을 때, 불러오는 데 걸리는 시간에 생긴 영향을 확인할 필요가 있습니다.",對我們而言，了解加入世界所需的時長，以及此時長隨時間推移的變化情形是十分重要的。舉例來說，當我們加入新功能或是進行較大的技術性改動時，我們會需要這些資訊來了解這些改動對載入時間有何影響。,zh-TW
+시그널링 연결 시간 (밀리초),信令連線時間（毫秒）,zh-TW
+실패 단계,失敗階段,zh-TW
+실행된 시간 (초),自載入後的時間（秒）,zh-TW
+실행된 시간 (틱),自載入後的時間（刻）,zh-TW
+연결 성공,連線成功,zh-TW
+운영 체제,作業系統,zh-TW
+원격 측정 데이터 수집,遙測資料收集,zh-TW
+원격 후보 유형,遠端候選類型,zh-TW
+이 데이터를 수집하면 플레이어에게 중요한 점들을 잘 파악하며 Minecraft를 개선하는 데 도움이 됩니다. Minecraft를 계속 개선하는 데 도움이 되도록 추가 피드백을 보낼 수도 있습니다.,"收集以下資料有助於讓我們了解與玩家相關的實際情形，進而幫助我們改進 Minecraft。
+您也可以傳送額外的意見回饋來幫助我們持續改進 Minecraft。",zh-TW
+이 이벤트는 게임 시작 중 각 단계의 실행 시간을 측정하여 성능 개선이 필요한 부분을 파악하는 데 쓰입니다.,此事件透過測量遊戲啟動階段的各段執行時長，可幫助我們找到需要改進啟動效能的地方。,zh-TW
+이 이벤트는 게임 플레이에 사용하는 그래픽 장치의 기능을 보고합니다.,這個事件可讓我們了解執行遊戲時，所用圖形裝置的功能。,zh-TW
+"이 이벤트는 세계를 불러올 때 이벤트와 쌍을 이루어 세계 세션이 지속된 시간을 계산하는 데 쓰입니다.
+지속 시간(초와 틱 단위)은 세계 세션이 끝날 때 (타이틀 화면으로 돌아가기, 서버 연결 해제) 측정됩니다.","此事件與世界載入事件用於計算遊戲時長。
+持續時間（單位為秒和刻）在遊玩結束時（回到標題畫面，或是從伺服器中斷連線）測量。",zh-TW
+"이 이벤트는 플레이어간 피어 투 피어 연결의 신뢰성과 성능을 파악하는 데 사용됩니다. 연결 성공 여부, 상호 연결 구축 (ICE, 피어 투 피어 연결 수립에 사용하는 프로토콜) 후보 유형 및 연결에 소요된 시간을 기록합니다.",這個事件有助於我們了解玩家之間 P2P 連線的可靠性與效能。其記錄了連線是否成功、所使用的互動式連線建立（ICE，即我們用於建立 P2P 連線的協定）候選類型，以及建立連線所花費的時間。,zh-TW
+이벤트 시간 기록 (UTC),事件時間戳記（UTC）,zh-TW
+창이 켜지기까지 걸린 시간 (밀리초),視窗開啟前時間（毫秒）,zh-TW
+총 접속 시간 (밀리초),總連線時間（毫秒）,zh-TW
+총합 로드 시간 (밀리초),總載入時間（毫秒）,zh-TW
+클라이언트 ID,用戶端 ID,zh-TW
+클라이언트 모드 여부,用戶端是否為原版,zh-TW
+포함 데이터,包含的資料,zh-TW
+표본 수,樣本數量,zh-TW
+프레임률 표본 (fps),畫面更新率樣本（FPS）,zh-TW
+플랫폼,平台,zh-TW
+"플레이어의 Minecraft 플레이 방식(게임 모드, 클라이언트 및 서버 모드 여부, 게임 버전 등)을 알면 플레이어들이 가장 중요시하는 부분을 개선하는 데 게임 업데이트를 집중할 수 있습니다.
+세계를 불러올 때 이벤트는 세계를 떠날 때 이벤트와 쌍을 이루어 플레이 세션이 지속된 시간을 계산하는 데 쓰입니다.","了解玩家如何遊玩 Minecraft （例如遊戲模式、伺服器和用戶端是否為原版、遊戲版本等資訊），可以讓我們專注於遊戲更新，用來改善玩家最關心的地方。
+世界載入事件和世界卸載事件一起用於計算遊戲時間。",zh-TW
+피드백 보내기,提供意見回饋,zh-TW
+피어 투 피어 연결,P2P 連線,zh-TW
+할당된 메모리 (kB),專屬記憶體（kB）,zh-TW

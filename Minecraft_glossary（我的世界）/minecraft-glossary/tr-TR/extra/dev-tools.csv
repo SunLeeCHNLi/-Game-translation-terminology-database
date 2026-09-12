@@ -1,0 +1,1903 @@
+﻿source,target,tgt_lng
+ ,Yerleştirme Önceliği:,tr-TR
+"""%s"" n'est pas un nom de structure valide",Geçersiz yapı adı '%s',tr-TR
+#%sに含まれるブロックが必要ですが、%sが検出されました,"#%s etiketinde blok beklendi, %s bulundu",tr-TR
+"#%s에 속하는 블록이 필요한데, %s(이)었습니다","#%s etiketinde blok beklendi, %s bulundu",tr-TR
+"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다","%s türünden %s varlık beklendi, %s bulundu",tr-TR
+"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다","%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+"%2$s, %3$s, %4$s 周圍應只有一個 %1$s，但找到了 %5$s 個","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+"%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+"%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+"%2$s, %3$s, %4$s周围应仅存在一个%1$s，实际为%5$s个","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+"%2$s, %3$s, %4$s周围应存在%1$s","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+%2$sティック時点で%1$s,%2$s birim zamanda %1$s,tr-TR
+"%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+%s (틱 %s),%2$s birim zamanda %1$s,tr-TR
+%s al tick %s,%2$s birim zamanda %1$s,tr-TR
+"%s at %s, %s, %s (relative: %s, %s, %s) on tick %s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+%s au tick %s,%2$s birim zamanda %1$s,tr-TR
+"%s bei %s, %s, %s (relativ: %s, %s, %s) in Tick %s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+"%s chạm vào %s, %s, %s không mong muốn (tương đối: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+"%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+"%s en %s, %s, %s (relative : %s, %s, %s) au tick %s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+"%s en %s, %s, %s (relativo: %s, %s, %s) en el tic %s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+%s en el tic %s,%2$s birim zamanda %1$s,tr-TR
+"%s entités de type ""%s"" attendues (%s trouvées)","%s türünden %s varlık beklendi, %s bulundu",tr-TR
+%s erwartet,%s beklendi,tr-TR
+%s Gegenstände vom Typ %s erwartet; %s gefunden,"%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+%s in Tick %s,%2$s birim zamanda %1$s,tr-TR
+%s no tique %s,%2$s birim zamanda %1$s,tr-TR
+%s Objekte vom Typ %s erwartet; %s gefunden,"%s türünden %s varlık beklendi, %s bulundu",tr-TR
+"%s objets de type ""%s"" attendus (%s trouvés)","%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+%s on tick %s,%2$s birim zamanda %1$s,tr-TR
+"%s presso %s, %s, %s (relativa: %s, %s, %s) al tick %s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+"%s previsto: %s, risultato: %s","%s değerinin %s olması beklendi, %s bulundu",tr-TR
+%s trên nhịp %s,%2$s birim zamanda %1$s,tr-TR
+"%s tại %s, %s, %s (tương đối: %s, %s, %s) trên nhịp %s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+"%s wurde als %s erwartet, war aber %s","%s değerinin %s olması beklendi, %s bulundu",tr-TR
+"%s wurde als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+"%s wurde bei %s, %s, %s erwartet","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+"%s wurde nicht als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+"%s zwischen %s und %s erwartet, war aber %s",%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+%s в такте %s,%2$s birim zamanda %1$s,tr-TR
+"%s в точке %s, %s, %s (относительно: %s, %s, %s) в такте %s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+%s ต้องมีเอฟเฟกต์ %s %s,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+%s ต้องเป็น %s: ตอนนี้เป็น %s,"%s değerinin %s olması beklendi, %s bulundu",tr-TR
+"%s ที่ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s) ในติ๊กที่ %s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+%s ในติ๊กที่ %s,%2$s birim zamanda %1$s,tr-TR
+%s 不應存在,%s varlığının var olması beklenmedi,tr-TR
+"%s 不應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+%s 應位於 %s 和 %s 之間，但實際為 %s,%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+"%s 應存在於 %s, %s, %s 周圍","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+%s 應存在於測試中,%s varlığının testte var olması beklendi,tr-TR
+%s 應有效果 %s %s,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+%s 應為 %s，但實際為 %s,"%s değerinin %s olması beklendi, %s bulundu",tr-TR
+"%s 應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+%s 方塊過多,Çok fazla %s bloğu,tr-TR
+%s 的實體資料不相符,%s için varlık verisi uyumsuzluğu,tr-TR
+%s 개체 생성에 실패했습니다,%s varlığı oluşturulamadı,tr-TR
+%s 개체가 테스트에 실패했습니다: %s,%s varlığı testte başarısız oldu: %s,tr-TR
+"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+%s 블록이 너무 많습니다,Çok fazla %s bloğu,tr-TR
+%s 블록이 있으면 안 됩니다,Bloğun %s olması beklenmedi,tr-TR
+"%s 블록이 필요한데, %s(이)었습니다","%s bloğu beklendi, %s bulundu",tr-TR
+"%s 속성이 %s(이)어야 하는데, %s(이)었습니다","%s durumunun %s olması beklendi, %s bulundu",tr-TR
+%s 유형의 아이템이 있으면 안 됩니다,%s eşya tipi beklenmedi,tr-TR
+%s 유형의 아이템이 필요합니다,%s türünde eşya beklendi,tr-TR
+"%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+"%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+"%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+"%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+"%sが%s, %s, %sの周囲に存在することが必要です","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+%sが%sであることが必要ですが、%sでした,"%s değerinin %s olması beklendi, %s bulundu",tr-TR
+%sがテスト内に存在している必要があります,%s varlığının testte var olması beklendi,tr-TR
+%sが存在することは予期されていません,%s varlığının var olması beklenmedi,tr-TR
+%sが必要です,%s beklendi,tr-TR
+%sには効果%s %sが付与されている必要があります,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+%sのテスト構造物の設置に失敗しました,%s için olan test yapısı yerleştirilemedi,tr-TR
+%sは%sから%sの間であることが必要ですが、%sでした,%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+%sティック以内にシーケンスが終了しませんでした,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+%sティック以内に成功も失敗もしませんでした。,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+%sブロックが多すぎます,Çok fazla %s bloğu,tr-TR
+%s不应存在,%s varlığının var olması beklenmedi,tr-TR
+"%s不应接触%s, %s, %s（相对位置：%s, %s, %s）","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+%s应存在于测试中,%s varlığının testte var olması beklendi,tr-TR
+"%s应接触%s, %s, %s（相对位置：%s, %s, %s）","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+%s应有%s %s效果,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+%s方块过多,Çok fazla %s bloğu,tr-TR
+%s的实体数据不匹配,%s için varlık verisi uyumsuzluğu,tr-TR
+%s의 개체 데이터가 일치하지 않았습니다,%s için varlık verisi uyumsuzluğu,tr-TR
+%s의 테스트 구조물 설치에 실패했습니다,%s için olan test yapısı yerleştirilemedi,tr-TR
+%s이(가) %s %s 효과를 갖고 있어야 합니다,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+"%s이(가) %s(이)어야 하는데, %s(이)었습니다","%s değerinin %s olması beklendi, %s bulundu",tr-TR
+"%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+"%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+%s이(가) 아닌 잘못된 틱에 성공했습니다,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+%s이(가) 있으면 안 됩니다,%s varlığının var olması beklenmedi,tr-TR
+%s이(가) 필요합니다,%s beklendi,tr-TR
+%s틱 안에 끝난 시퀀스가 없습니다,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+%s틱 안에 성공하거나 실패하지 않았습니다,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+"%s，位于%s, %s, %s（相对位置：%s, %s, %s），时间为第%s刻","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+"%s，位於 %s, %s, %s（相對位置：%s, %s, %s），時間為 %s 刻","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+%s，时间为%s刻,%2$s birim zamanda %1$s,tr-TR
+%s，時間為 %s 刻,%2$s birim zamanda %1$s,tr-TR
+'%s' 구조물을 사용할 수 없습니다,'%s' yapısı kullanılabilir değil,tr-TR
+'%s'은(는) 잘못된 구조물 이름입니다,Geçersiz yapı adı '%s',tr-TR
+'%s'의 크기를 성공적으로 감지했습니다,'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+[invalid],[geçersiz],tr-TR
+[inválido],[geçersiz],tr-TR
+[không hợp lệ],[geçersiz],tr-TR
+[no válido],[geçersiz],tr-TR
+[non valide],[geçersiz],tr-TR
+[non valido],[geçersiz],tr-TR
+[ungültig],[geçersiz],tr-TR
+[недействительно],[geçersiz],tr-TR
+[ไม่ถูกต้อง],[geçersiz],tr-TR
+[无效],[geçersiz],tr-TR
+[無効],[geçersiz],tr-TR
+[無效],[geçersiz],tr-TR
+[잘못됨],[geçersiz],tr-TR
+A entidade %s falhou no teste: %s,%s varlığı testte başarısız oldu: %s,tr-TR
+"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+A entidade deve segurar: %s,Varlık %s tutmalı,tr-TR
+Accept,Onayla,tr-TR
+Accept Mode - Accept success for (part of) a test,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+Accepter,Onayla,tr-TR
+Accetta,Onayla,tr-TR
+Accettazione: accetta la riuscita di (una parte di) un collaudo,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+Aceitar,Onayla,tr-TR
+Aceptar,Onayla,tr-TR
+Afficher la zone de délimitation :,Çerçeveyi göster:,tr-TR
+Afficher les blocs invisibles :,Görünmez Blokları Göster:,tr-TR
+Akzeptanzmodus – Nimmt (teilweisen) Erfolg eines Tests entgegen,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+Akzeptieren,Onayla,tr-TR
+"Al procesar la pieza asociada a las conexiones, este es el orden en el que el bloque rompecabezas intenta conectar con su pieza de destino.
+
+Los bloques rompecabezas se procesan en orden descendente, con un orden de inserción aleatorio.","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+Aligned,Hizalı,tr-TR
+Aligné,Hizalı,tr-TR
+Ambiente: %s,Çevre: %s,tr-TR
+Angolo,Köşe,tr-TR
+Angolo: %s,Köşe: %s,tr-TR
+Angolo: marcatore per piazzamento e dimensione,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+"Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+Aucun test,Böyle bir test yok,tr-TR
+Aucune séquence ne s'est terminée durant %s ticks,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+Ausgerichtet,Hizalı,tr-TR
+Auswahlpriorität:,Seçim Önceliği:,tr-TR
+Avvia,Başlat,tr-TR
+Avvio del collaudo %s...,%s testi yürütülüyor,tr-TR
+Avvio: il punto di partenza di un collaudo,Yürütme Modu - Bir testin başlama noktası,tr-TR
+Bao gồm thực thể:,Varlıkları Dâhil Et:,tr-TR
+Bedingung bereits in Tick %s ausgelöst,Şart %s birim zamanda zaten tetiklendi,tr-TR
+Bedingung nicht ausgelöst,Şart tetiklenmedi,tr-TR
+Begrenzungsrahmen anzeigen:,Çerçeveyi göster:,tr-TR
+Behälter muss ein %s enthalten,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+Behälter muss enthalten: %s,Depo şu eşyayı barındırmalı: %s,tr-TR
+Behälter muss leer sein,Depo boş olmalı,tr-TR
+Benutzerdefinierte NBT-Daten,Özel Veri Etiketi Adı,tr-TR
+Bezugsquelle:,Hedef Havuzu:,tr-TR
+Biom für Test konnte nicht festgelegt werden,Test için biyom değiştirilemedi,tr-TR
+"Bloc ""%s"" attendu (bloc reçu : ""%s"")","%s bloğu beklendi, %s bulundu",tr-TR
+"Bloc ""%s"" inattendu",Bloğun %s olması beklenmedi,tr-TR
+"Bloc ""%s"" manquant de la structure de test",Test yapısında %s bloğu eksik,tr-TR
+"Bloc attendu dans le tag #%s (valeur reçue : ""%s"")","#%s etiketinde blok beklendi, %s bulundu",tr-TR
+Blocco %s mancante dalla struttura di collaudo,Test yapısında %s bloğu eksik,tr-TR
+Blocco complesso mancante,Blok varlık eksik,tr-TR
+"Block %s erwartet, war aber %s","%s bloğu beklendi, %s bulundu",tr-TR
+"Block in #%s erwartet, war aber %s","#%s etiketinde blok beklendi, %s bulundu",tr-TR
+Block property missing. Expected property %s to be %s,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+Block wurde nicht als %s erwartet,Bloğun %s olması beklenmedi,tr-TR
+Block-Based Test,Block Tabanlı Test,tr-TR
+Blockbasierter Test,Block Tabanlı Test,tr-TR
+Blockeigenschaft nicht vorhanden. Eigenschaft %s wurde als %s erwartet,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+Built-in Function Test,Dâhilî Fonksiyon Testi,tr-TR
+Bắt đầu,Başlat,tr-TR
+Bị dư %s,%s varlığının var olması beklenmedi,tr-TR
+Bị dư khối %s,Bloğun %s olması beklenmedi,tr-TR
+Bị dư vật phẩm thuộc loại %s,%s eşya tipi beklenmedi,tr-TR
+Bị thiếu %s,%s beklendi,tr-TR
+Bị thiếu %s thực thể thuộc loại %s: đã tìm thấy %s,"%s türünden %s varlık beklendi, %s bulundu",tr-TR
+"Bị thiếu %s tồn tại xung quanh %s, %s, %s","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+Bị thiếu %s vật phẩm thuộc loại %s: đã tìm thấy %s,"%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+Bị thiếu khối %s,%s bloğunun mevcut olması bekleniyor,tr-TR
+Bị thiếu khối %s: đã nhận %s,"%s bloğu beklendi, %s bulundu",tr-TR
+Bị thiếu khối trong #%s: đã nhận %s,"#%s etiketinde blok beklendi, %s bulundu",tr-TR
+Bị thiếu thuộc tính khối. Dự kiến thuộc tính %s là %s,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+Bị thiếu thực thể khối,Blok varlık eksik,tr-TR
+Bị thiếu vật phẩm thuộc loại %s,%s türünde eşya beklendi,tr-TR
+Canto,Köşe,tr-TR
+Cantos: %s,Köşe: %s,tr-TR
+CARGAR,YÜKLE,tr-TR
+Cargar,Yükleme,tr-TR
+Cargar y ejecutar,Yükle ve Yürüt,tr-TR
+Cargar: %s,Yükle: %s,tr-TR
+Carica,YÜKLE,tr-TR
+Carica,Yükleme,tr-TR
+Carica ed esegui,Yükle ve Yürüt,tr-TR
+Caricamento: %s,Yükle: %s,tr-TR
+Caricamento: carica da documento,Yükleme Modu - Dosyadan yükle,tr-TR
+Caricato la struttura da «%s»,Yapı '%s' yüklendi,tr-TR
+CARREGAR,YÜKLE,tr-TR
+Carregar,Yükleme,tr-TR
+Carregar e executar,Yükle ve Yürüt,tr-TR
+Carregar: %s,Yükle: %s,tr-TR
+Ch.nhận,Onayla,tr-TR
+CHARGE,YÜKLE,tr-TR
+Charger,Yükleme,tr-TR
+Charger : %s,Yükle: %s,tr-TR
+Charger et exécuter,Yükle ve Yürüt,tr-TR
+Chiều không gian: %s,Boyut: %s,tr-TR
+Chế độ bắt đầu - Điểm bắt đầu cho một bài kiểm tra,Yürütme Modu - Bir testin başlama noktası,tr-TR
+Chế độ chấp nhận - Chấp nhận thành công (một phần) bài kiểm tra,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+Chế độ dữ liệu - Đánh dấu logic trò chơi,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+Chế độ góc - Đánh dấu vị trí và kích cỡ,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+Chế độ lưu - Ghi vào tập tin,Kayıt Modu - Dosyaya yaz,tr-TR
+Chế độ nhật kí - Ghi một tin nhắn,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+Chế độ nạp - Nạp từ tập tin,Yükleme Modu - Dosyadan yükle,tr-TR
+Chế độ thất bại - Kiểm tra không thành công,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+Coin,Köşe,tr-TR
+Coin : %s,Köşe: %s,tr-TR
+Collaudo basato su blocchi,Block Tabanlı Test,tr-TR
+Collaudo di funzione integrata,Dâhilî Fonksiyon Testi,tr-TR
+Collaudo in corso prima di piazzare la struttura,Yapı yerleştirilmeden test yürütüldü,tr-TR
+Colocación estricta:,Katı Yerleştirme:,tr-TR
+Concluído antes do tique esperado: esperava-se %s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+Concluído no tique inválido. Esperava-se: %s,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+Condición no activada,Şart tetiklenmedi,tr-TR
+Condición ya activada en %s,Şart %s birim zamanda zaten tetiklendi,tr-TR
+Condition already triggered at %s,Şart %s birim zamanda zaten tetiklendi,tr-TR
+Condition déjà déclenchée au tick %s,Şart %s birim zamanda zaten tetiklendi,tr-TR
+Condition non déclenchée,Şart tetiklenmedi,tr-TR
+Condition not triggered,Şart tetiklenmedi,tr-TR
+Conditions d'échec remplies,Başarısızlık şartları karşılandı,tr-TR
+Condizione già attivata nel tick %s,Şart %s birim zamanda zaten tetiklendi,tr-TR
+Condizione non attivata,Şart tetiklenmedi,tr-TR
+Condizioni di fallimento soddisfatte,Başarısızlık şartları karşılandı,tr-TR
+Condição já acionada em %s,Şart %s birim zamanda zaten tetiklendi,tr-TR
+Condição não acionada,Şart tetiklenmedi,tr-TR
+Condições de falha atendidas,Başarısızlık şartları karşılandı,tr-TR
+Conjunto-alvo:,Hedef Havuzu:,tr-TR
+Container should be empty,Depo boş olmalı,tr-TR
+Container should contain a single: %s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+Container should contain: %s,Depo şu eşyayı barındırmalı: %s,tr-TR
+"Coordenadas de prueba: [%s, %s, %s] en %s","Test konumu: [%s, %s, %s] %s",tr-TR
+"Coordenadas de teste: [%s, %s, %s] em %s","Test konumu: [%s, %s, %s] %s",tr-TR
+"Coordenadas del jugador: [%s, %s, %s] en %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+"Coordenadas do jogador: [%s, %s, %s] em %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+Coordinate automatiche,Yapı boyutunu ve konumunu algıla:,tr-TR
+"Coordinate del giocatore: [%s, %s, %s] nella dimensione %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+"Coordinate di collaudo: [%s, %s, %s] nella dimensione %s","Test konumu: [%s, %s, %s] %s",tr-TR
+"Coordonnées de test : [%s, %s, %s] dans la dimension %s","Test konumu: [%s, %s, %s] %s",tr-TR
+"Coordonnées du joueur : [%s, %s, %s] dans la dimension %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+Corner,Köşe,tr-TR
+Corner Mode - Placement and size marker,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+Corner: %s,Köşe: %s,tr-TR
+Creazione dell'entità %s non riuscita,%s varlığı oluşturulamadı,tr-TR
+"Cuando el bloque rompecabezas se conecta a una pieza, este es el orden en el que la pieza se procesa para las conexiones en estructuras más anchas.
+
+Las piezas se procesan en orden descendente, teniendo en cuenta el orden de inserción.","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+Custom Data Tag Name,Özel Veri Etiketi Adı,tr-TR
+Cấp độ: %s,Seviyeler: %s,tr-TR
+Cấu trúc '%s' không có sẵn,'%s' yapısı kullanılabilir değil,tr-TR
+Cấu trúc kiểm tra thiếu %s khối,Test yapısında %s bloğu eksik,tr-TR
+Cấu trúc được lưu với tên '%s',Yapı '%s' olarak kaydedildi,tr-TR
+Cấu trúc: %s,Yapı: %s,tr-TR
+Dados,Veri,tr-TR
+Dados: %s,Veri: %s,tr-TR
+Data,Veri,tr-TR
+Data Mode - Game logic marker,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+Data: %s,Veri: %s,tr-TR
+Daten,Veri,tr-TR
+Daten: %s,Veri: %s,tr-TR
+Daten‐Modus – Markierung der Spiellogik,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+Dati,Veri,tr-TR
+Dati dell'entità previsti: %s (ricevuto: %s),"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+Dati: %s,Veri: %s,tr-TR
+Dati: marcatore per logiche di gioco,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+Datos,Veri,tr-TR
+Datos: %s,Veri: %s,tr-TR
+Demasiados bloques %s,Çok fazla %s bloğu,tr-TR
+Der angegebene Block ist kein Blockgegenstand,Verilen blok bir blok eşyası değil,tr-TR
+DETECT,TESPİT ET,tr-TR
+Detect Structure Size and Position:,Yapı boyutunu ve konumunu algıla:,tr-TR
+DETECTAR,TESPİT ET,tr-TR
+Detectar posição e tamanho da estrutura:,Yapı boyutunu ve konumunu algıla:,tr-TR
+Detectar tamaño y posición:,Yapı boyutunu ve konumunu algıla:,tr-TR
+Did not expect %s to exist,%s varlığının var olması beklenmedi,tr-TR
+"Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+Did not expect block to be %s,Bloğun %s olması beklenmedi,tr-TR
+Did not expect item of type %s,%s eşya tipi beklenmedi,tr-TR
+Didn't succeed or fail within %s ticks,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+Dieser Test existiert nicht,Böyle bir test yok,tr-TR
+Dimension : %s,Boyut: %s,tr-TR
+Dimension: %s,Boyut: %s,tr-TR
+Dimensione della struttura,Yapı Boyutu,tr-TR
+Dimensione della struttura di collaudo,Test Yapısı Boyutu,tr-TR
+dimensione della struttura in x,yapı boyutu x,tr-TR
+dimensione della struttura in y,yapı boyutu y,tr-TR
+dimensione della struttura in z,yapı boyutu z,tr-TR
+Dimensione: %s,Boyut: %s,tr-TR
+Dimensión: %s,Boyut: %s,tr-TR
+Dimensão: %s,Boyut: %s,tr-TR
+Données,Veri,tr-TR
+Données : %s,Veri: %s,tr-TR
+Données d'entité attendues : %s (valeur reçue : %s),"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+Drehbar,Döndürülebilir,tr-TR
+Délai d'expiration non valide (%s) - doit être un nombre positif de ticks,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+"Démarrage du test ""%s""",%s testi yürütülüyor,tr-TR
+Démarrer,Başlat,tr-TR
+DÉTECTE,TESPİT ET,tr-TR
+Détecter la position et la taille :,Yapı boyutunu ve konumunu algıla:,tr-TR
+Dữ liệu,Veri,tr-TR
+Dữ liệu thực thể không khớp cho %s,%s için varlık verisi uyumsuzluğu,tr-TR
+Dữ liệu: %s,Veri: %s,tr-TR
+"Dự kiến %s chạm vào %s, %s, %s (tương đối: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+Dự kiến %s có hiệu ứng %s %s,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+Dự kiến %s là %s: trước đó là %s,"%s değerinin %s olması beklendi, %s bulundu",tr-TR
+Dự kiến %s nằm trong phạm vi từ %s đến %s: trước đó là %s,%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+Dự kiến %s tồn tại trong kiểm tra,%s varlığının testte var olması beklendi,tr-TR
+"Dự kiến chỉ một %s tồn tại xung quanh %s, %s, %s nhưng đã tìm thấy %s","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+Dự kiến dữ liệu thực thể là %s: trước đó là %s,"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+Dự kiến thuộc tính %s là %s: trước đó là %s,"%s durumunun %s olması beklendi, %s bulundu",tr-TR
+Ebenen: %s,Seviyeler: %s,tr-TR
+Ecke,Köşe,tr-TR
+Ecke: %s,Köşe: %s,tr-TR
+Eck‐Modus – Markierung von Position und Größe,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+Effekt für %s wurde als %s %s erwartet,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+Ejecutar la prueba antes de colocar la estructura,Yapı yerleştirilmeden test yürütüldü,tr-TR
+El bloque proporcionado no puede ser un objeto,Verilen blok bir blok eşyası değil,tr-TR
+El contenedor debe contener un único: %s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+El contenedor debe contener: %s,Depo şu eşyayı barındırmalı: %s,tr-TR
+El contenedor debe estar vacío,Depo boş olmalı,tr-TR
+El inventario de la entidad debe contener %s,Varlığın envanteri %s barındırmalı,tr-TR
+El tamaño de «%s» se ha detectado con éxito,'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+Enregistrer,Günlüğe Yaz,tr-TR
+Enregistrer la structure,Yapıyı Kaydet,tr-TR
+Ensemble d'éléments cible :,Hedef Havuzu:,tr-TR
+Entidade-bloco ausente,Blok varlık eksik,tr-TR
+Entidades:,Varlıklar:,tr-TR
+Entities:,Varlıklar:,tr-TR
+Entity %s failed test: %s,%s varlığı testte başarısız oldu: %s,tr-TR
+Entity %s failed test: %s. Expected %s: was %s,%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+Entity data mismatch for %s,%s için varlık verisi uyumsuzluğu,tr-TR
+Entity inventory should contain %s,Varlığın envanteri %s barındırmalı,tr-TR
+Entity should be holding %s,Varlık %s tutmalı,tr-TR
+Entità,Varlıklar:,tr-TR
+Entità,Varlıkları Dâhil Et:,tr-TR
+"Entité ""%s"" attendue",%s beklendi,tr-TR
+"Entité ""%s"" attendue autour de %s, %s, %s","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+"Entité ""%s"" attendue d'avoir l'effet %s %s",%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+"Entité ""%s"" attendue dans le test",%s varlığının testte var olması beklendi,tr-TR
+"Entité ""%s"" attendue de toucher %s, %s, %s (relative : %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+"Entité ""%s"" inattendue",%s varlığının var olması beklenmedi,tr-TR
+"Entité ""%s"" non attendue de toucher %s, %s, %s (relative : %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+Entité de bloc manquante,Blok varlık eksik,tr-TR
+Entités :,Varlıklar:,tr-TR
+Entorno: %s,Çevre: %s,tr-TR
+Environment: %s,Çevre: %s,tr-TR
+Environnement : %s,Çevre: %s,tr-TR
+Erkennen,TESPİT ET,tr-TR
+Erreur interne inconnue : %s,Bilinmeyen dâhilî hata: %s,tr-TR
+Erro interno desconhecido: %s,Bilinmeyen dâhilî hata: %s,tr-TR
+Error al colocar la estructura de prueba para %s,%s için olan test yapısı yerleştirilemedi,tr-TR
+Error interno desconocido: %s,Bilinmeyen dâhilî hata: %s,tr-TR
+Errore interno sconosciuto: %s,Bilinmeyen dâhilî hata: %s,tr-TR
+Erwartete %s im Test,%s varlığının testte var olması beklendi,tr-TR
+Esa prueba no existe,Böyle bir test yok,tr-TR
+"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s","%s türünden %s varlık beklendi, %s bulundu",tr-TR
+Esperava-se %s,%s beklendi,tr-TR
+Esperava-se a presença do bloco %s,%s bloğunun mevcut olması bekleniyor,tr-TR
+"Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+"Esperava-se o bloco %s, obteve-se %s","%s bloğu beklendi, %s bulundu",tr-TR
+"Esperava-se o bloco em #%s, obteve-se %s","#%s etiketinde blok beklendi, %s bulundu",tr-TR
+Esperava-se o item do tipo %s,%s türünde eşya beklendi,tr-TR
+"Esperava-se que %s exista ao redor de %s, %s, %s","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+Esperava-se que %s existisse no teste,%s varlığının testte var olması beklendi,tr-TR
+"Esperava-se que %s fosse %s, foi %s","%s değerinin %s olması beklendi, %s bulundu",tr-TR
+Esperava-se que a entidade %s tivesse o efeito %s (%s),%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+"Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+"Esperava-se que a propriedade %s seja %s, foi %s","%s durumunun %s olması beklendi, %s bulundu",tr-TR
+"Esperava-se que o valor %s estivesse %s e %s, foi %s",%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+"Esperavam-se %s itens do tipo %s, encontrou-se %s","%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+"Esperavam-se os dados da entidade: %s, foram: %s","Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+Esquina,Köşe,tr-TR
+Esquina: %s,Köşe: %s,tr-TR
+Estado incorrecto. Se requiere %s: se obtuvo %s,"Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+"Estado incorreto. Esperava-se %s, foi %s","Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+Estructura: %s,Yapı: %s,tr-TR
+"Estrutura ""%s"" não encontrada",'%s' yapısı kullanılabilir değil,tr-TR
+"Estrutura carregada de ""%s""",Yapı '%s' yüklendi,tr-TR
+Estrutura de teste com o bloco ausente: %s,Test yapısında %s bloğu eksik,tr-TR
+"Estrutura salva como ""%s""",Yapı '%s' olarak kaydedildi,tr-TR
+Estrutura: %s,Yapı: %s,tr-TR
+Expected %s,%s beklendi,tr-TR
+Expected %s entities of type %s: found %s,"%s türünden %s varlık beklendi, %s bulundu",tr-TR
+Expected %s items of type %s: found %s,"%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+Expected %s to be %s: was %s,"%s değerinin %s olması beklendi, %s bulundu",tr-TR
+Expected %s to be in between %s and %s: was %s,%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+"Expected %s to exist around %s, %s, %s","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+Expected %s to exist in test,%s varlığının testte var olması beklendi,tr-TR
+Expected %s to have effect %s %s,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+"Expected %s touching %s, %s, %s (relative: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+Expected block %s to be present,%s bloğunun mevcut olması bekleniyor,tr-TR
+Expected block %s: got %s,"%s bloğu beklendi, %s bulundu",tr-TR
+Expected block in #%s: got %s,"#%s etiketinde blok beklendi, %s bulundu",tr-TR
+Expected entity data to be %s: was %s,"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+Expected item of type %s,%s türünde eşya beklendi,tr-TR
+"Expected only one %s to exist around %s, %s, %s but found %s","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+Expected property %s to be %s: was %s,"%s durumunun %s olması beklendi, %s bulundu",tr-TR
+Fail,Başarısız et,tr-TR
+Fail conditions met,Başarısızlık şartları karşılandı,tr-TR
+Fail Mode - Fail the test,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+Failed to create entity %s,%s varlığı oluşturulamadı,tr-TR
+Failed to place test structure for %s,%s için olan test yapısı yerleştirilemedi,tr-TR
+Failed to set biome for test,Test için biyom değiştirilemedi,tr-TR
+Failed: %s,Başarısız: %s,tr-TR
+Falha ao colocar a estrutura de teste para %s,%s için olan test yapısı yerleştirilemedi,tr-TR
+Falha ao criar a entidade %s,%s varlığı oluşturulamadı,tr-TR
+Falha ao definir o bioma para teste,Test için biyom değiştirilemedi,tr-TR
+Falhar,Başarısız et,tr-TR
+Falhou: %s,Başarısız: %s,tr-TR
+Fallar,Başarısız et,tr-TR
+Fallimento: fa' fallire il collaudo,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+Fallisci,Başarısız et,tr-TR
+Falló: %s,Başarısız: %s,tr-TR
+Falscher Blockobjekttyp: %s,Yanlış blok varlık türü: %s,tr-TR
+"Falscher Zustand. %s erwartet, war %s","Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+Falta el bloque %s en la estructura de prueba,Test yapısında %s bloğu eksik,tr-TR
+Falta una entidad-bloque,Blok varlık eksik,tr-TR
+Falta una propiedad de bloque. Se requiere que la propiedad %s sea %s,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+Fehlendes Blockobjekt,Blok varlık eksik,tr-TR
+Fehlermodus – Lässt den Test fehlschlagen,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+Fehlgeschlagen: %s,Başarısız: %s,tr-TR
+Fehlkriterien erfüllt,Başarısızlık şartları karşılandı,tr-TR
+Fehlschlag,Başarısız et,tr-TR
+Fija,Hizalı,tr-TR
+Fissa,Hizalı,tr-TR
+Fixa,Hizalı,tr-TR
+Fonction : %s,Fonksiyon: %s,tr-TR
+Función: %s,Fonksiyon: %s,tr-TR
+Function: %s,Fonksiyon: %s,tr-TR
+Funktion: %s,Fonksiyon: %s,tr-TR
+Funzione: %s,Fonksiyon: %s,tr-TR
+Função: %s,Fonksiyon: %s,tr-TR
+Garder puzzle,Yapbozları Sakla,tr-TR
+Gegenstand vom Typ %s erwartet,%s türünde eşya beklendi,tr-TR
+Gegenstand vom Typ %s wurde nicht erwartet,%s eşya tipi beklenmedi,tr-TR
+Genera,Oluştur,tr-TR
+Generar,Oluştur,tr-TR
+Generate,Oluştur,tr-TR
+Generieren,Oluştur,tr-TR
+Gerar,Oluştur,tr-TR
+Given block is not a block item,Verilen blok bir blok eşyası değil,tr-TR
+Giữ mảnh ghép,Yapbozları Sakla,tr-TR
+Graine de la structure,Yapı Oluşturucusu Kodu,tr-TR
+Grupo objetivo:,Hedef Havuzu:,tr-TR
+Größe der Testkonstruktion,Test Yapısı Boyutu,tr-TR
+Größe von ‚%s‘ erfolgreich erkannt,'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+GUARDAR,KAYDET,tr-TR
+Guardar,Kaydet,tr-TR
+Guardar estructura,Yapıyı Kaydet,tr-TR
+Guardar: %s,Kaydet: %s,tr-TR
+Générer,Oluştur,tr-TR
+Góc,Köşe,tr-TR
+Góc: %s,Köşe: %s,tr-TR
+Hiển thị hộp giới hạn:,Çerçeveyi göster:,tr-TR
+Hiển thị khối vô hình:,Görünmez Blokları Göster:,tr-TR
+Hàm: %s,Fonksiyon: %s,tr-TR
+Há muitos blocos (%s),Çok fazla %s bloğu,tr-TR
+Hạt giống cấu trúc,Yapı Oluşturucusu Kodu,tr-TR
+I dati dell'entità non corrispondono per %s,%s için varlık verisi uyumsuzluğu,tr-TR
+ID de instância do teste,Test Birimi Kimliği,tr-TR
+ID de l'instance de test,Test Birimi Kimliği,tr-TR
+ID de test non valide,Geçersiz test kimliği,tr-TR
+ID dell'istanza di collaudo,Test Birimi Kimliği,tr-TR
+ID di collaudo non valido,Geçersiz test kimliği,tr-TR
+ID do teste inválido,Geçersiz test kimliği,tr-TR
+ID kiểm tra không hợp lệ,Geçersiz test kimliği,tr-TR
+ID trường hợp kiểm tra,Test Birimi Kimliği,tr-TR
+ID กรณีตัวอย่างทดสอบ,Test Birimi Kimliği,tr-TR
+ID การทดสอบไม่ถูกต้อง,Geçersiz test kimliği,tr-TR
+Id. de prueba no válida,Geçersiz test kimliği,tr-TR
+Id. del caso de prueba,Test Birimi Kimliği,tr-TR
+Il blocco specificato non può essere un oggetto,Verilen blok bir blok eşyası değil,tr-TR
+Il collaudo è scaduto prima del completamento della sequenza,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+Il contenitore dovrebbe avere un solo: %s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+Il contenitore dovrebbe avere: %s,Depo şu eşyayı barındırmalı: %s,tr-TR
+Il contenitore dovrebbe essere vuoto,Depo boş olmalı,tr-TR
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non ha una struttura di collaudo","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non è stato definito alcun collaudo","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+Impossibile rilevare la dimensione della struttura. Aggiungi degli angoli con il nome della struttura corrispondente.,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+"Impossibile salvare il modello di struttura per l'istanza di collaudo presso %s, %s, %s","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+Impossibile salvare la struttura %s,Yapı '%s' kaydedilemedi,tr-TR
+"Impossible d'enregistrer la structure ""%s""",Yapı '%s' kaydedilemedi,tr-TR
+"Impossible d'enregistrer le modèle de structure de test pour l'instance de test en %s, %s, %s","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de structure de test","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de test défini","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+Impossible de détecter la taille de la structure. Ajoutez des coins avec les noms de structure correspondants,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+Impostazione del bioma non riuscita,Test için biyom değiştirilemedi,tr-TR
+In ungültigem Tick stattgefunden: %s wurde erwartet,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+Include Entities:,Varlıkları Dâhil Et:,tr-TR
+Incluir entidades:,Varlıkları Dâhil Et:,tr-TR
+Inclure les entités :,Varlıkları Dâhil Et:,tr-TR
+Incorrect state. Expected %s: was %s,"Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+Iniciando o teste %s,%s testi yürütülüyor,tr-TR
+Iniciando prueba %s,%s testi yürütülüyor,tr-TR
+Iniciar,Başlat,tr-TR
+Insieme di destinazione,Hedef Havuzu:,tr-TR
+Integridad de la estructura,Yapı Bütünlüğü,tr-TR
+Integridad y semilla de la estructura,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+Integridade da estrutura,Yapı Bütünlüğü,tr-TR
+Integridade e semente da estrutura,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+Integrierter Funktionstest,Dâhilî Fonksiyon Testi,tr-TR
+Integrità della struttura,Yapı Bütünlüğü,tr-TR
+Integrità e seme della struttura,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+Intégrité de la structure,Yapı Bütünlüğü,tr-TR
+Intégrité de la structure et graine,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+Invalid structure name '%s',Geçersiz yapı adı '%s',tr-TR
+Invalid test ID,Geçersiz test kimliği,tr-TR
+Invalid timeout (%s) - must be a positive number of ticks,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+Joint Type:,Bağlantı Türü:,tr-TR
+Kann Konstruktionsgröße nicht erkennen - füge Ecken mit gleichem Konstruktionsnamen hinzu,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+Keep Jigsaws,Yapbozları Sakla,tr-TR
+Keine Testabläufe innerhalb von %s Ticks abgeschlossen,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+"Khi khối mảnh ghép này kết nối đến một mảnh, đây là thứ tự mà mảnh đó được xử lí cho các kết nối trong cấu trúc rộng hơn.
+
+Các mảnh sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự chèn.","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+"Khi mảnh gốc được xử lí cho các kết nối, đây là thứ tự mà khối mảnh ghép này cố gắng kết nối đến mảnh mục tiêu.
+
+Các khối mảnh ghép sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự ngẫu nhiên.","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+Không có kiểm tra nào như vậy,Böyle bir test yok,tr-TR
+Không có trình tự nào được hoàn tất trong %s nhịp,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có cấu trúc kiểm tra nào","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có kiểm tra nào được xác định","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+Không thể chỉnh quần xã cho kiểm tra,Test için biyom değiştirilemedi,tr-TR
+Không thể lưu cấu trúc '%s',Yapı '%s' kaydedilemedi,tr-TR
+"Không thể lưu mẫu cấu trúc kiểm tra cho trường hợp kiểm tra ở %s, %s, %s","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+Không thể phát hiện kích cỡ của cấu trúc. Hãy bổ sung thêm góc với tên cấu trúc khớp nhau,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+Không thể tạo thực thể %s,%s varlığı oluşturulamadı,tr-TR
+Không thể đặt cấu trúc kiểm tra cho %s,%s için olan test yapısı yerleştirilemedi,tr-TR
+Khối được trao không phải là một khối vật phẩm,Verilen blok bir blok eşyası değil,tr-TR
+Kiểm tra dựa trên khối,Block Tabanlı Test,tr-TR
+Kiểm tra hàm được tích hợp sẵn,Dâhilî Fonksiyon Testi,tr-TR
+Kiểm tra đang đếm nhịp trước khi đặt cấu trúc,Yapı yerleştirilmeden test yürütüldü,tr-TR
+Kiểm tra đã hết thời gian trước khi trình tự được hoàn thành,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+Konstruktion als ‚%s‘ gespeichert,Yapı '%s' olarak kaydedildi,tr-TR
+Konstruktion speichern,Yapıyı Kaydet,tr-TR
+Konstruktion ‚%s‘ geladen,Yapı '%s' yüklendi,tr-TR
+Konstruktion ‚%s‘ konnte nicht gespeichert werden,Yapı '%s' kaydedilemedi,tr-TR
+Konstruktion ‚%s‘ nicht gefunden,'%s' yapısı kullanılabilir değil,tr-TR
+Konstruktion: %s,Yapı: %s,tr-TR
+Konstruktions-Startwert,Yapı Oluşturucusu Kodu,tr-TR
+Konstruktionsgröße,Yapı Boyutu,tr-TR
+Konstruktionsgröße (X),yapı boyutu x,tr-TR
+Konstruktionsgröße (Y),yapı boyutu y,tr-TR
+Konstruktionsgröße (Z),yapı boyutu z,tr-TR
+Konstruktionsgröße und ‐position erkennen:,Yapı boyutunu ve konumunu algıla:,tr-TR
+Konstruktionsname,Yapı Adı,tr-TR
+Konstruktionsvollständigkeit,Yapı Bütünlüğü,tr-TR
+Kích cỡ cấu trúc,Yapı Boyutu,tr-TR
+Kích cỡ cấu trúc kiểm tra,Test Yapısı Boyutu,tr-TR
+kích cỡ cấu trúc x,yapı boyutu x,tr-TR
+kích cỡ cấu trúc y,yapı boyutu y,tr-TR
+kích cỡ cấu trúc z,yapı boyutu z,tr-TR
+L'entità %s ha fallito il collaudo: %s,%s varlığı testte başarısız oldu: %s,tr-TR
+"L'entità %s ha fallito il collaudo: %s (previsto: %s, ricevuto: %s)",%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+L'entità dovrebbe impugnare %s,Varlık %s tutmalı,tr-TR
+"L'entité ""%s"" a échoué le test : %s (valeur attendue : %s, valeur reçue : %s)",%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+"L'entité doit tenir l'objet ""%s""",Varlık %s tutmalı,tr-TR
+"L'inventaire de l'entité doit contenir l'objet ""%s""",Varlığın envanteri %s barındırmalı,tr-TR
+L'inventario dell'entità dovrebbe avere %s,Varlığın envanteri %s barındırmalı,tr-TR
+La entidad %s falló la prueba: %s,%s varlığı testte başarısız oldu: %s,tr-TR
+La entidad %s falló la prueba: %s. Se requiere %s: se obtuvo %s,%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+La entidad debe sostener %s,Varlık %s tutmalı,tr-TR
+"La estructura ""%s"" no está disponible ",'%s' yapısı kullanılabilir değil,tr-TR
+La estructura se ha guardado como «%s»,Yapı '%s' olarak kaydedildi,tr-TR
+"La position de la structure ""%s"" a été préparée",'%s' yapısı için konum hazırlandı,tr-TR
+La prueba se terminó antes de que se completara la secuencia,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+"La structure ""%s"" n'est pas disponible ",'%s' yapısı kullanılabilir değil,tr-TR
+La struttura %s non è disponibile,'%s' yapısı kullanılabilir değil,tr-TR
+"La taille de la structure ""%s"" a été détectée",'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+Laden,YÜKLE,tr-TR
+Laden,Yükleme,tr-TR
+Laden und ausführen,Yükle ve Yürüt,tr-TR
+Laden: %s,Yükle: %s,tr-TR
+Lade‐Modus – Aus Datei laden,Yükleme Modu - Dosyadan yükle,tr-TR
+Le bloc spécifié n'est pas un bloc sous forme d'objet,Verilen blok bir blok eşyası değil,tr-TR
+"Le conteneur doit contenir l'objet ""%s""",Depo şu eşyayı barındırmalı: %s,tr-TR
+"Le conteneur doit contenir un seul objet ""%s""",Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+Le conteneur doit être vide,Depo boş olmalı,tr-TR
+Le test n'a ni réussi ni échoué durant %s tick(s),%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+Le test s'est terminé avant la fin de la séquence,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+Levels: %s,Seviyeler: %s,tr-TR
+Livelli: %s,Seviyeler: %s,tr-TR
+LOAD,YÜKLE,tr-TR
+Load,Yükleme,tr-TR
+Load and Run,Yükle ve Yürüt,tr-TR
+Load Mode - Load from file,Yükleme Modu - Dosyadan yükle,tr-TR
+Load: %s,Yükle: %s,tr-TR
+Log,Günlüğe Yaz,tr-TR
+Log Mode - Log a message,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+Los datos de la entidad no coinciden para %s,%s için varlık verisi uyumsuzluğu,tr-TR
+Loại khớp nối:,Bağlantı Türü:,tr-TR
+Loại: %s,Tür: %s,tr-TR
+LƯU,KAYDET,tr-TR
+Lưu,Kaydet,tr-TR
+Lưu cấu trúc,Yapıyı Kaydet,tr-TR
+Lưu: %s,Kaydet: %s,tr-TR
+Lỗi nội bộ không rõ: %s,Bilinmeyen dâhilî hata: %s,tr-TR
+Mantener rompec.,Yapbozları Sakla,tr-TR
+Mantenimento,Yapbozları Sakla,tr-TR
+Mantê-los,Yapbozları Sakla,tr-TR
+Mensagem:,Mesaj:,tr-TR
+Mensaje:,Mesaj:,tr-TR
+Message :,Mesaj:,tr-TR
+Message:,Mesaj:,tr-TR
+Messaggio,Mesaj:,tr-TR
+Missing block entity,Blok varlık eksik,tr-TR
+Mode Accepter - Accepter la réussite (d'une partie) d'un test,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+Mode Charger - Charger depuis un fichier,Yükleme Modu - Dosyadan yükle,tr-TR
+Mode Coin - Marqueur de position et de taille,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+Mode Données - Marqueur de logique du jeu,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+Mode Démarrer - Le point de départ d'un test,Yürütme Modu - Bir testin başlama noktası,tr-TR
+Mode Enregistrer - Enregistrer un message,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+Mode Sauvegarder - Écrire dans un fichier,Kayıt Modu - Dosyaya yaz,tr-TR
+Mode Échouer - Échouer le test,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+Modo aceptar: acepta superación de (parte de) una prueba,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+Modo cargar: carga desde un archivo,Yükleme Modu - Dosyadan yükle,tr-TR
+Modo datos: usa la lógica del juego,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+Modo de aceite — Aceitar o sucesso de (parte de) um teste,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+Modo de canto — Marcador de posição e tamanho,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+Modo de carregamento — Carregar do arquivo,Yükleme Modu - Dosyadan yükle,tr-TR
+Modo de dados — Marcador lógico do jogo,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+Modo de falha — Falhar o teste,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+Modo de início — Ponto inicial de um teste,Yürütme Modu - Bir testin başlama noktası,tr-TR
+Modo de registro — Registrar uma mensagem,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+Modo de salvamento — Salvar no arquivo,Kayıt Modu - Dosyaya yaz,tr-TR
+Modo esquina: indica posición y tamaño,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+Modo fallar: falla la prueba,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+Modo guardar: guarda en un archivo,Kayıt Modu - Dosyaya yaz,tr-TR
+Modo iniciar: el punto de inicio de una prueba,Yürütme Modu - Bir testin başlama noktası,tr-TR
+Modo registrar: registra un mensaje,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+Mostra blocchi invisibili,Görünmez Blokları Göster:,tr-TR
+Mostrar blocos invisíveis:,Görünmez Blokları Göster:,tr-TR
+Mostrar bloques invisibles:,Görünmez Blokları Göster:,tr-TR
+Mostrar bordas:,Çerçeveyi göster:,tr-TR
+Mostrar límites:,Çerçeveyi göster:,tr-TR
+Môi trường: %s,Çevre: %s,tr-TR
+Nachricht:,Mesaj:,tr-TR
+Name:,Ad:,tr-TR
+Nenhum teste,Böyle bir test yok,tr-TR
+Nenhuma sequência concluída dentro de %s tique(s),"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+Nessun collaudo trovato,Böyle bir test yok,tr-TR
+Nessuna sequenza finita entro %s tick,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+Nhóm mục tiêu:,Hedef Havuzu:,tr-TR
+Nhật kí,Günlüğe Yaz,tr-TR
+"Nicht erwartet, %s vorzufinden",%s varlığının var olması beklenmedi,tr-TR
+Ninguna secuencia finalizó durante %s ticks,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+Niveaux : %s,Seviyeler: %s,tr-TR
+Niveles: %s,Seviyeler: %s,tr-TR
+No hubo ningún resultado durante %s tics,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+No se esperaba que %s existiera,%s varlığının var olması beklenmedi,tr-TR
+"No se esperaba que %s tocase %s, %s, %s (relativo: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+No se esperaba que el bloque fuese %s,Bloğun %s olması beklenmedi,tr-TR
+No se esperaba un objeto del tipo %s,%s eşya tipi beklenmedi,tr-TR
+No se ha podido detectar el tamaño de la estructura. Añade más esquinas con el nombre de la estructura correspondiente,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+"No se ha podido ejecutar el caso de prueba en %s, %s, %s porque no se ha definido una prueba","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+"No se ha podido ejecutar la instancia de prueba en %s, %s, %s porque no tiene estructura de prueba","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+No se ha podido guardar la estructura «%s»,Yapı '%s' kaydedilemedi,tr-TR
+No se pudo crear la entidad %s,%s varlığı oluşturulamadı,tr-TR
+No se pudo establecer el bioma para la prueba,Test için biyom değiştirilemedi,tr-TR
+"No se pudo guardar la plantilla de estructura de prueba en %s, %s, %s","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+No sequences finished within %s ticks,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+No such test,Böyle bir test yok,tr-TR
+Nom :,Ad:,tr-TR
+Nom de la cible :,Hedef adı:,tr-TR
+Nom de la structure,Yapı Adı,tr-TR
+Nom du tag de données personnalisé,Özel Veri Etiketi Adı,tr-TR
+Nombre de etiqueta de datos personalizado,Özel Veri Etiketi Adı,tr-TR
+Nombre de la estructura,Yapı Adı,tr-TR
+Nombre del objetivo:,Hedef adı:,tr-TR
+Nombre:,Ad:,tr-TR
+Nome,Ad:,tr-TR
+Nome da estrutura,Yapı Adı,tr-TR
+Nome da estrutura inválido: %s,Geçersiz yapı adı '%s',tr-TR
+Nome da marcação de dados personalizados,Özel Veri Etiketi Adı,tr-TR
+Nome del marcatore personalizzato,Özel Veri Etiketi Adı,tr-TR
+Nome della struttura,Yapı Adı,tr-TR
+Nome della struttura non valido: «%s»,Geçersiz yapı adı '%s',tr-TR
+Nome di destinazione,Hedef adı:,tr-TR
+Nome do alvo:,Hedef adı:,tr-TR
+Nome:,Ad:,tr-TR
+Non era prevista l'esistenza di %s,%s varlığının var olması beklenmedi,tr-TR
+Non era previsto che il blocco fosse %s,Bloğun %s olması beklenmedi,tr-TR
+Non era previsto un oggetto di tipo %s,%s eşya tipi beklenmedi,tr-TR
+"Non previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+Non riuscito né fallito entro %s tick,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+Non riuscito: %s,Başarısız: %s,tr-TR
+"Non-correspondance des données de l'entité ""%s""",%s için varlık verisi uyumsuzluğu,tr-TR
+"Nur ein %s um %s, %s, %s erwartet, aber %s gefunden","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+"Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+Não esperava-se que o bloco fosse %s,Bloğun %s olması beklenmedi,tr-TR
+Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+"Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+"Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+"Não foi possível salvar a estrutura ""%s""",Yapı '%s' kaydedilemedi,tr-TR
+"Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+Não se esperava que %s existisse,%s varlığının var olması beklenmedi,tr-TR
+Não se esperava um item do tipo %s,%s eşya tipi beklenmedi,tr-TR
+Níveis: %s,Seviyeler: %s,tr-TR
+NẠP,YÜKLE,tr-TR
+Nạp,Yükleme,tr-TR
+Nạp và chạy,Yükle ve Yürüt,tr-TR
+Nạp: %s,Yükle: %s,tr-TR
+O bloco especificado não é um item-bloco.,Verilen blok bir blok eşyası değil,tr-TR
+O inventário da entidade deve conter %s,Varlığın envanteri %s barındırmalı,tr-TR
+O recipiente deve conter um único: %s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+O recipiente deve conter: %s,Depo şu eşyayı barındırmalı: %s,tr-TR
+O recipiente deve estar vazio,Depo boş olmalı,tr-TR
+O teste acabou antes de completar a sequência,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+O teste não foi concluído ou falhou dentro de %s tique(s),%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+Objekt %s erfüllte Test nicht: %s,%s varlığı testte başarısız oldu: %s,tr-TR
+"Objekt %s hat Test %s nicht erfüllt: %s erwartet, war aber %s",%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+Objekt %s konnte nicht erzeugt werden,%s varlığı oluşturulamadı,tr-TR
+Objekt hätte %s halten sollen,Varlık %s tutmalı,tr-TR
+"Objektdaten %s wurden erwartet, waren aber %s","Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+Objektdaten für %s stimmen nicht überein,%s için varlık verisi uyumsuzluğu,tr-TR
+Objekte einbeziehen:,Varlıkları Dâhil Et:,tr-TR
+Objekte:,Varlıklar:,tr-TR
+Objektinventar hätte %s enthalten sollen,Varlığın envanteri %s barındırmalı,tr-TR
+"Objet de type ""%s"" attendu",%s türünde eşya beklendi,tr-TR
+"Objet de type ""%s"" inattendu",%s eşya tipi beklenmedi,tr-TR
+"Ordre dans lequel ce bloc de puzzle tente de se connecter à sa pièce cible lorsque la pièce parent est traitée pour les connexions.
+
+Le processus se déroule dans l'ordre décroissant, ou de manière aléatoire en cas d'égalité.","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+"Ordre dans lequel la pièce sur laquelle se connecte ce bloc de puzzle est traitée parmi les connexions d'une structure plus large.
+
+Le processus se déroule dans l'ordre décroissant, en suivant l'ordre d'insertion en cas d'égalité.","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+Os dados da entidade não correspondem para: %s,%s için varlık verisi uyumsuzluğu,tr-TR
+P. de colocación:,Yerleştirme Önceliği:,tr-TR
+P. de selección:,Seçim Önceliği:,tr-TR
+PH.HIỆN,TESPİT ET,tr-TR
+Phát hiện kích cỡ và vị trí cấu trúc:,Yapı boyutunu ve konumunu algıla:,tr-TR
+Piazzamento della struttura di collaudo per %s non riuscita,%s için olan test yapısı yerleştirilemedi,tr-TR
+Piazzamento statico,Katı Yerleştirme:,tr-TR
+Placement Priority:,Yerleştirme Önceliği:,tr-TR
+Placement strict :,Katı Yerleştirme:,tr-TR
+Platzierpriorität:,Yerleştirme Önceliği:,tr-TR
+"Player coordinates: [%s, %s, %s] in %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+Posicionamento exato:,Katı Yerleştirme:,tr-TR
+Position relative,Göreceli Konum,tr-TR
+position relative x,göreceli konum x,tr-TR
+position relative y,göreceli konum y,tr-TR
+position relative z,göreceli konum z,tr-TR
+Position von Konstruktion ‚%s‘ vorbereitet,'%s' yapısı için konum hazırlandı,tr-TR
+Posizione relativa,Göreceli Konum,tr-TR
+Posizione relativa in x,göreceli konum x,tr-TR
+Posizione relativa in y,göreceli konum y,tr-TR
+Posizione relativa in z,göreceli konum z,tr-TR
+"Posição da estrutura ""%s"" preparada",'%s' yapısı için konum hazırlandı,tr-TR
+Posição relativa,Göreceli Konum,tr-TR
+posição x relativa,göreceli konum x,tr-TR
+posição y relativa,göreceli konum y,tr-TR
+posição z relativa,göreceli konum z,tr-TR
+Preparato la posizione della struttura %s,'%s' yapısı için konum hazırlandı,tr-TR
+"Prevista l'esistenza di %s intorno a %s, %s, %s","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+Prevista l'esistenza di %s nel collaudo,%s varlığının testte var olması beklendi,tr-TR
+"Prevista l'esistenza di una sola entità %s intorno a %s, %s, %s (ricevuto: %s)","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+Prevista la presenza del blocco %s,%s bloğunun mevcut olması bekleniyor,tr-TR
+Previste %s entità di tipo %s (ricevuto: %s),"%s türünden %s varlık beklendi, %s bulundu",tr-TR
+Previsti %s oggetti di tipo %s (ricevuto: %s),"%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+Previsto %s,%s beklendi,tr-TR
+"Previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+Previsto blocco nell'insieme #%s (ricevuto: %s),"#%s etiketinde blok beklendi, %s bulundu",tr-TR
+Previsto che %s abbia l'effetto %s %s,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+Previsto il blocco %s (ricevuto: %s),"%s bloğu beklendi, %s bulundu",tr-TR
+Previsto oggetto di tipo %s,%s türünde eşya beklendi,tr-TR
+Previsto un valore %s tra %s e %s (ricevuto: %s),%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+Prio. de placement :,Yerleştirme Önceliği:,tr-TR
+Prio. de sélection :,Seçim Önceliği:,tr-TR
+Prior. de posição:,Yerleştirme Önceliği:,tr-TR
+Prior. de seleção:,Seçim Önceliği:,tr-TR
+Priorità di selezione e di piazzamento,Seçim Önceliği:,tr-TR
+Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+Proprietà %s prevista: %s (ricevuto: %s),"%s durumunun %s olması beklendi, %s bulundu",tr-TR
+Proprietà di blocco mancante. Proprietà %s prevista: %s,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+"Propriété de bloc manquante. Valeur de la propriété ""%s"" attendue : %s","Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+Protokoll,Günlüğe Yaz,tr-TR
+Protokollmodus – Protokolliere eine Nachricht,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+Prueba basada en bloques,Block Tabanlı Test,tr-TR
+Prueba de función integrada,Dâhilî Fonksiyon Testi,tr-TR
+"Présence du bloc ""%s"" attendue",%s bloğunun mevcut olması bekleniyor,tr-TR
+"Quando il pezzo associato viene elaborato per le connessioni, questo sarà l'ordine in cui questo blocco incastri tenterà di connettersi al suo pezzo di destinazione.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, casualmente.","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+"Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+"Quando questo blocco incastri si connette a un pezzo, questo sarà l'ordine in cui il pezzo viene elaborato per le connessioni nella struttura complessiva.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, seguendo l'ordine d'inserimento.","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+Quá nhiều khối %s,Çok fazla %s bloğu,tr-TR
+Redefinir e carregar,Sıfırla ve Yükle,tr-TR
+Redefinição concluída para o teste: %s,Test sıfırlama başarılı oldu: %s,tr-TR
+Registra,Günlüğe Yaz,tr-TR
+Registrar,Günlüğe Yaz,tr-TR
+Registrazione: registra un messaggio,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+Reiniciar y cargar,Sıfırla ve Yükle,tr-TR
+Relative Position,Göreceli Konum,tr-TR
+relative position x,göreceli konum x,tr-TR
+relative position y,göreceli konum y,tr-TR
+relative position z,göreceli konum z,tr-TR
+Relative X-Position,göreceli konum x,tr-TR
+Relative Y-Position,göreceli konum y,tr-TR
+Relative Z-Position,göreceli konum z,tr-TR
+Reset and Load,Sıfırla ve Yükle,tr-TR
+Reset succeeded for test: %s,Test sıfırlama başarılı oldu: %s,tr-TR
+Rileva,TESPİT ET,tr-TR
+Rilevato la dimensione della struttura %s,'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+Ripristina e carica,Sıfırla ve Yükle,tr-TR
+Ripristino riuscito per il collaudo: %s,Test sıfırlama başarılı oldu: %s,tr-TR
+Riuscita ottenuta durante un tick non valido: previsto %s,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+Riuscita ottenuta prima del tick previsto: prevista l'attesa di %s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+Rollable,Döndürülebilir,tr-TR
+Rotable,Döndürülebilir,tr-TR
+Rotación:,Yön:,tr-TR
+Rotatif,Döndürülebilir,tr-TR
+Rotation :,Yön:,tr-TR
+Rotation:,Yön:,tr-TR
+Rotativa,Döndürülebilir,tr-TR
+Rotatoria,Döndürülebilir,tr-TR
+Rotazione,Yön:,tr-TR
+Rotação:,Yön:,tr-TR
+"Réinitialisation réussie pour le test ""%s""",Test sıfırlama başarılı oldu: %s,tr-TR
+Réinitialiser et charger,Sıfırla ve Yükle,tr-TR
+Réussite avant le tick attendu : le tick minimum attendu était de %s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+Réussite dans le tick non valide : %s attendu(s),Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+Sai loại thực thể khối: %s,Yanlış blok varlık türü: %s,tr-TR
+Salva,KAYDET,tr-TR
+Salva,Kaydet,tr-TR
+Salva struttura,Yapıyı Kaydet,tr-TR
+SALVAR,KAYDET,tr-TR
+Salvar,Kaydet,tr-TR
+Salvar estrutura,Yapıyı Kaydet,tr-TR
+Salvar: %s,Kaydet: %s,tr-TR
+Salvataggio: %s,Kaydet: %s,tr-TR
+Salvataggio: scrivi su documento,Kayıt Modu - Dosyaya yaz,tr-TR
+Salvato la struttura come «%s»,Yapı '%s' olarak kaydedildi,tr-TR
+SAUVE,KAYDET,tr-TR
+Sauvegarder,Kaydet,tr-TR
+Sauvegarder : %s,Kaydet: %s,tr-TR
+SAVE,KAYDET,tr-TR
+Save,Kaydet,tr-TR
+Save Mode - Write to file,Kayıt Modu - Dosyaya yaz,tr-TR
+Save Structure,Yapıyı Kaydet,tr-TR
+Save: %s,Kaydet: %s,tr-TR
+Se change en :,Dönüşür:,tr-TR
+Se convierte en:,Dönüşür:,tr-TR
+Se cumplieron las condiciones de falla,Başarısızlık şartları karşılandı,tr-TR
+Se encontró un tipo de bloque no esperado: %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+Se ha cargado la estructura de «%s»,Yapı '%s' yüklendi,tr-TR
+"Se ha preparado la ubicación de la estructura ""%s""",'%s' yapısı için konum hazırlandı,tr-TR
+Se ha reiniciado la prueba %s,Test sıfırlama başarılı oldu: %s,tr-TR
+Se requiere %s,%s beklendi,tr-TR
+Se requiere el bloque %s: se obtuvo %s,"%s bloğu beklendi, %s bulundu",tr-TR
+Se requiere el bloque en #%s: se obtuvo %s,"#%s etiketinde blok beklendi, %s bulundu",tr-TR
+"Se requiere que %s exista alrededor de %s, %s, %s","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+Se requiere que %s exista en la prueba,%s varlığının testte var olması beklendi,tr-TR
+Se requiere que %s sea %s: se obtuvo %s,"%s değerinin %s olması beklendi, %s bulundu",tr-TR
+Se requiere que %s tenga efecto %s %s,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+Se requiere que %s tenga un valor entre %s y %s: es %s,%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+"Se requiere que %s toque %s, %s, %s (relativo: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+Se requiere que el bloque %s esté presente,%s bloğunun mevcut olması bekleniyor,tr-TR
+"Se requiere que exista un único %s alrededor de %s, %s, %s, pero se encontraron %s","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+Se requiere que la propiedad %s sea %s: se obtuvo %s,"%s durumunun %s olması beklendi, %s bulundu",tr-TR
+Se requiere que los datos de la entidad sean %s: se obtuvo %s,"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+Se requiere un objeto del tipo %s,%s türünde eşya beklendi,tr-TR
+"Se requieren %s entidades del tipo %s, encontradas: %s","%s türünden %s varlık beklendi, %s bulundu",tr-TR
+"Se requieren %s objetos del tipo %s, encontrados: %s","%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+Selection Priority:,Seçim Önceliği:,tr-TR
+Seme della struttura,Yapı Oluşturucusu Kodu,tr-TR
+Semente da estrutura,Yapı Oluşturucusu Kodu,tr-TR
+Semilla de la estructura,Yapı Oluşturucusu Kodu,tr-TR
+Show Bounding Box:,Çerçeveyi göster:,tr-TR
+Show Invisible Blocks:,Görünmez Blokları Göster:,tr-TR
+Size successfully detected for '%s','%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+Speichern,KAYDET,tr-TR
+Speichern,Kaydet,tr-TR
+Speichern: %s,Kaydet: %s,tr-TR
+Speicher‐Modus – In Datei speichern,Kayıt Modu - Dosyaya yaz,tr-TR
+"Spielerkoordinaten: [%s, %s, %s] in %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+Start,Başlat,tr-TR
+Start Mode - The starting point for a test,Yürütme Modu - Bir testin başlama noktası,tr-TR
+Starting test %s,%s testi yürütülüyor,tr-TR
+Startmodus – Der Anfangspunkt eines Tests,Yürütme Modu - Bir testin başlama noktası,tr-TR
+Stato finale,Dönüşür:,tr-TR
+"Stato non corretto (previsto: %s, ricevuto: %s)","Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+Strict Placement:,Katı Yerleştirme:,tr-TR
+Strikte Platzierung:,Katı Yerleştirme:,tr-TR
+Structure '%s' is not available,'%s' yapısı kullanılabilir değil,tr-TR
+Structure '%s' position prepared,'%s' yapısı için konum hazırlandı,tr-TR
+Structure : %s,Yapı: %s,tr-TR
+"Structure chargée depuis ""%s""",Yapı '%s' yüklendi,tr-TR
+"Structure enregistrée comme ""%s""",Yapı '%s' olarak kaydedildi,tr-TR
+Structure Integrity,Yapı Bütünlüğü,tr-TR
+Structure Integrity and Seed,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+Structure loaded from '%s',Yapı '%s' yüklendi,tr-TR
+Structure Name,Yapı Adı,tr-TR
+Structure saved as '%s',Yapı '%s' olarak kaydedildi,tr-TR
+Structure Seed,Yapı Oluşturucusu Kodu,tr-TR
+Structure Size,Yapı Boyutu,tr-TR
+structure size x,yapı boyutu x,tr-TR
+structure size y,yapı boyutu y,tr-TR
+structure size z,yapı boyutu z,tr-TR
+Structure: %s,Yapı: %s,tr-TR
+Struttura: %s,Yapı: %s,tr-TR
+Succeeded before expected tick: expected to wait %s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+Succeeded in invalid tick: expected %s,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+Taille de la structure,Yapı Boyutu,tr-TR
+Taille de la structure de test,Test Yapısı Boyutu,tr-TR
+taille de la structure x,yapı boyutu x,tr-TR
+taille de la structure y,yapı boyutu y,tr-TR
+taille de la structure z,yapı boyutu z,tr-TR
+Tamanho da estrutura,Yapı Boyutu,tr-TR
+"Tamanho da estrutura ""%s"" detectado",'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+Tamanho da estrutura do teste,Test Yapısı Boyutu,tr-TR
+tamanho x da estrutura,yapı boyutu x,tr-TR
+tamanho y da estrutura,yapı boyutu y,tr-TR
+tamanho z da estrutura,yapı boyutu z,tr-TR
+Tamaño de la estructura,Yapı Boyutu,tr-TR
+Tamaño de la estructura de prueba,Test Yapısı Boyutu,tr-TR
+tamaño de la estructura x,yapı boyutu x,tr-TR
+tamaño de la estructura y,yapı boyutu y,tr-TR
+tamaño de la estructura z,yapı boyutu z,tr-TR
+Target Name:,Hedef adı:,tr-TR
+Target Pool:,Hedef Havuzu:,tr-TR
+Tempo limite inválido (%s) — Deve conter um número positivo de tiques,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+Test %s wird gestartet,%s testi yürütülüyor,tr-TR
+Test %s wurde erfolgreich zurückgesetzt,Test sıfırlama başarılı oldu: %s,tr-TR
+Test basé sur des blocs,Block Tabanlı Test,tr-TR
+"Test coordinates: [%s, %s, %s] in %s","Test konumu: [%s, %s, %s] %s",tr-TR
+Test de fonction intégrée,Dâhilî Fonksiyon Testi,tr-TR
+Test de ticks effectué avant le placement de la structure,Yapı yerleştirilmeden test yürütüldü,tr-TR
+Test Instance ID,Test Birimi Kimliği,tr-TR
+Test structure missing %s block,Test yapısında %s bloğu eksik,tr-TR
+Test Structure Size,Test Yapısı Boyutu,tr-TR
+Test timed out before sequence completed,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+Test vor Abschluss des Vorgangs abgelaufen,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+"Testausführung begann, bevor Konstruktion platziert wurde",Yapı yerleştirilmeden test yürütüldü,tr-TR
+Teste baseado em blocos,Block Tabanlı Test,tr-TR
+Teste de função integrada,Dâhilî Fonksiyon Testi,tr-TR
+Teste em tiques antes de colocar a estrutura,Yapı yerleştirilmeden test yürütüldü,tr-TR
+"Testinstanz bei %s, %s, %s kann nicht ausgeführt werden, da ihr kein Test zugewiesen ist","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+"Testinstanz bei %s, %s, %s konnte nicht ausgeführt werden, da ihre Testkonstruktion fehlt","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+Testinstanz‐ID,Test Birimi Kimliği,tr-TR
+Testkonstruktion für %s konnte nicht platziert werden,%s için olan test yapısı yerleştirilemedi,tr-TR
+Testkonstruktion hat keinen %s‐Block,Test yapısında %s bloğu eksik,tr-TR
+"Testkonstruktionsvorlage für Testinstanz bei %s, %s, %s kann nicht gespeichert werden","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+"Testkoordinaten: [%s, %s, %s] in %s","Test konumu: [%s, %s, %s] %s",tr-TR
+Thiết lập lại và nạp,Sıfırla ve Yükle,tr-TR
+Thất bại,Başarısız et,tr-TR
+Thất bại: %s,Başarısız: %s,tr-TR
+Thời gian chờ không hợp lệ (%s) - số lượng nhịp phải là số dương,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+Thực thể %s đã kiểm tra thất bại: %s,%s varlığı testte başarısız oldu: %s,tr-TR
+Thực thể %s đã kiểm tra thất bại: %s. Bị thiếu: %s: trước đó là %s,%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+Thực thể phải giữ %s,Varlık %s tutmalı,tr-TR
+Thực thể:,Varlıklar:,tr-TR
+Ticking test before placing structure,Yapı yerleştirilmeden test yürütüldü,tr-TR
+Tiempo de espera no válido (%s): debe ser un número positivo de tics,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+Timeout non valido (%s): deve essere un numero positivo di tick,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+Tin nhắn:,Mesaj:,tr-TR
+Tipo de bloco inesperado encontrado: %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+Tipo de entidade-bloco incorreto: %s,Yanlış blok varlık türü: %s,tr-TR
+Tipo de ligação:,Bağlantı Türü:,tr-TR
+Tipo de unión:,Bağlantı Türü:,tr-TR
+Tipo di blocco complesso errato: %s,Yanlış blok varlık türü: %s,tr-TR
+Tipo di giunzione,Bağlantı Türü:,tr-TR
+Tipo incorrecto de entidad-bloque: %s,Yanlış blok varlık türü: %s,tr-TR
+Tipo: %s,Tür: %s,tr-TR
+Too many %s blocks,Çok fazla %s bloğu,tr-TR
+Torna-se:,Dönüşür:,tr-TR
+"Toạ độ kiểm tra: [%s, %s, %s] trong %s","Test konumu: [%s, %s, %s] %s",tr-TR
+"Toạ độ người chơi: [%s, %s, %s] trong %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+toạ độ tương đối x,göreceli konum x,tr-TR
+"Trop de blocs ""%s""",Çok fazla %s bloğu,tr-TR
+Troppi blocchi (%s),Çok fazla %s bloğu,tr-TR
+Trovato tipo di blocco non previsto: %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+Trạng thái không chính xác. Bị thiếu %s: trước đó là %s,"Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+Trở thành:,Dönüşür:,tr-TR
+Turns into:,Dönüşür:,tr-TR
+Typ: %s,Tür: %s,tr-TR
+Type : %s,Tür: %s,tr-TR
+Type d'emboîtement :,Bağlantı Türü:,tr-TR
+Type d'entité de bloc incorrect : %s,Yanlış blok varlık türü: %s,tr-TR
+Type de bloc inattendu trouvé : %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+Type: %s,Tür: %s,tr-TR
+Tên cấu trúc,Yapı Adı,tr-TR
+Tên cấu trúc '%s' không hợp lệ,Geçersiz yapı adı '%s',tr-TR
+Tên mục tiêu:,Hedef adı:,tr-TR
+Tên nhãn dữ liệu tuỳ chỉnh,Özel Veri Etiketi Adı,tr-TR
+Tên:,Ad:,tr-TR
+Túi đồ của thực thể phải chứa %s,Varlığın envanteri %s barındırmalı,tr-TR
+Tạo,Oluştur,tr-TR
+Ubicación relativa,Göreceli Konum,tr-TR
+ubicación X relativa,göreceli konum x,tr-TR
+ubicación Y relativa,göreceli konum y,tr-TR
+ubicación Z relativa,göreceli konum z,tr-TR
+Umgebung: %s,Çevre: %s,tr-TR
+Unable to detect structure size. Add corners with matching structure names,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+"Unable to run test instance at %s, %s, %s since it has an undefined test","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+"Unable to run test instance at %s, %s, %s since it has no test structure","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+Unable to save structure '%s',Yapı '%s' kaydedilemedi,tr-TR
+"Unable to save test structure template for test instance at %s, %s, %s","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+Unbekannter interner Fehler: %s,Bilinmeyen dâhilî hata: %s,tr-TR
+"Une seule entité ""%s"" attendue autour de %s, %s, %s mais en a trouvé %s","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+Unerwarteter Blocktyp gefunden: %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+Unexpected block type found: %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+Ungültige Test‐ID,Geçersiz test kimliği,tr-TR
+Ungültiger Konstruktionsname ‚%s‘,Geçersiz yapı adı '%s',tr-TR
+Ungültiges Timeout (%s) – muss eine positive Anzahl von Ticks sein,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+Unknown internal error: %s,Bilinmeyen dâhilî hata: %s,tr-TR
+Unsichtbare Blöcke anzeigen:,Görünmez Blokları Göster:,tr-TR
+Valeur %s attendue : %s (valeur reçue : %s),"%s değerinin %s olması beklendi, %s bulundu",tr-TR
+Valeur %s attendue entre %s et %s (valeur reçue : %s),%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+"Valeur de la propriété ""%s"" attendue : %s (valeur reçue : %s)","%s durumunun %s olması beklendi, %s bulundu",tr-TR
+Verbindung:,Bağlantı Türü:,tr-TR
+Verbundblöcke behalten,Yapbozları Sakla,tr-TR
+Vollständigkeit & Startwert (Konstruktion),Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+"Vor erwartetem Tick stattgefunden: erwartet, %s zu warten",Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+Vorhandensein des Blocks %s erwartet,%s bloğunun mevcut olması bekleniyor,tr-TR
+Vật chứa phải chứa một: %s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+Vật chứa phải chứa: %s,Depo şu eşyayı barındırmalı: %s,tr-TR
+Vật chứa phải để trống,Depo boş olmalı,tr-TR
+Vị trí bảo toàn:,Katı Yerleştirme:,tr-TR
+Vị trí tương đối,Göreceli Konum,tr-TR
+vị trí tương đối y,göreceli konum y,tr-TR
+vị trí tương đối z,göreceli konum z,tr-TR
+Weder Erfolg noch Fehlschlag innerhalb von %s Ticks,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+"Wenn das zugehörige Stück auf Verbindungen verarbeitet wird, ist dies die Reihenfolge, in der dieser Verbundblock versucht, sich mit seinem Zielstück zu verbinden.
+
+Verbünde werden in absteigender Priorität verarbeitet, wobei Gleichstände durch eine zufällige Reihenfolge gelöst werden.","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+"Wenn sich dieser Verbundblock mit einem Stück verbindet, ist dies die Reihenfolge, in der das Stück auf Verbindungen zur Gesamtkonstruktion verarbeitet wird.
+
+Stücke werden in absteigender Priorität verarbeitet, wobei Gleichstände durch die Einfügungsreihenfolge gelöst werden.","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+"When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+"When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+Wird zu:,Dönüşür:,tr-TR
+Wrong block entity type: %s,Yanlış blok varlık türü: %s,tr-TR
+X 軸相對位置,göreceli konum x,tr-TR
+X 軸結構大小,yapı boyutu x,tr-TR
+Xoay được,Döndürülebilir,tr-TR
+X軸方向の構造物のサイズ,yapı boyutu x,tr-TR
+X軸方向の相対座標,göreceli konum x,tr-TR
+Y 軸相對位置,göreceli konum y,tr-TR
+Y 軸結構大小,yapı boyutu y,tr-TR
+Y軸方向の構造物のサイズ,yapı boyutu y,tr-TR
+Y軸方向の相対位置,göreceli konum y,tr-TR
+Z 軸相對位置,göreceli konum z,tr-TR
+Z 軸結構大小,yapı boyutu z,tr-TR
+Zielname:,Hedef adı:,tr-TR
+Zona di delimitazione,Çerçeveyi göster:,tr-TR
+Zu viele %s‐Blöcke,Çok fazla %s bloğu,tr-TR
+Zurücksetzen und laden,Sıfırla ve Yükle,tr-TR
+"Zustand %s wurde als %s erwartet, war aber %s","%s durumunun %s olması beklendi, %s bulundu",tr-TR
+Z軸方向の構造物のサイズ,yapı boyutu z,tr-TR
+Z軸方向の相対位置,göreceli konum z,tr-TR
+«%s» no es un nombre de estructura válido,Geçersiz yapı adı '%s',tr-TR
+Échec : %s,Başarısız: %s,tr-TR
+"Échec de la création de l'entité ""%s""",%s varlığı oluşturulamadı,tr-TR
+Échec de la définition du biome pour le test,Test için biyom değiştirilemedi,tr-TR
+"Échec du placement de la structure de test pour ""%s""",%s için olan test yapısı yerleştirilemedi,tr-TR
+"Échec du test de l'entité ""%s"" : %s",%s varlığı testte başarısız oldu: %s,tr-TR
+Échouer,Başarısız et,tr-TR
+"État incorrect (état attendu : %s, état reçu : %s)","Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+Éxito antes del tic esperado: se esperaba %s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+Éxito en tic no válido: se esperaba %s,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+Đang bắt đầu kiểm tra %s,%s testi yürütülüyor,tr-TR
+Điều kiện không được kích hoạt,Şart tetiklenmedi,tr-TR
+Điều kiện đã được kích hoạt ở %s,Şart %s birim zamanda zaten tetiklendi,tr-TR
+Đã gặp điều kiện gây thất bại,Başarısızlık şartları karşılandı,tr-TR
+Đã không thành công hoặc thất bại trong %s nhịp,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+Đã nạp cấu trúc từ '%s',Yapı '%s' yüklendi,tr-TR
+Đã phát hiện thành công kích cỡ của '%s','%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+Đã thiết lập lại thành công kiểm tra: %s,Test sıfırlama başarılı oldu: %s,tr-TR
+Đã thành công trong nhịp không hợp lệ: bị thiếu %s,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+Đã thành công trước nhịp dự kiến: đã dự kiến đợi %s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+Đã tìm thấy loại khối bị dư: %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+Đã xác định vị trí cấu trúc '%s','%s' yapısı için konum hazırlandı,tr-TR
+Được căn chỉnh,Hizalı,tr-TR
+Độ toàn vẹn của cấu trúc,Yapı Bütünlüğü,tr-TR
+Độ toàn vẹn và hạt giống của cấu trúc,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+Độ xoay:,Yön:,tr-TR
+Ưu tiên lựa chọn:,Seçim Önceliği:,tr-TR
+Ưu tiên đặt:,Yerleştirme Önceliği:,tr-TR
+Без обновлений:,Katı Yerleştirme:,tr-TR
+В тестовой конструкции отсутствует блок «%s»,Test yapısında %s bloğu eksik,tr-TR
+Вращаемый,Döndürülebilir,tr-TR
+Выполнены условия провала,Başarısızlık şartları karşılandı,tr-TR
+Выровнен,Hizalı,tr-TR
+Генерировать,Oluştur,tr-TR
+Данные,Veri,tr-TR
+Данные: %s,Veri: %s,tr-TR
+Журнал,Günlüğe Yaz,tr-TR
+Завершено до указанного такта: ожидалось прождать %s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+Загрузить и запустить,Yükle ve Yürüt,tr-TR
+ЗАПИСЬ,KAYDET,tr-TR
+Запись,Kaydet,tr-TR
+Запись: %s,Kaydet: %s,tr-TR
+Запуск,Başlat,tr-TR
+Запуск теста %s,%s testi yürütülüyor,tr-TR
+Идентификатор тестового экземпляра,Test Birimi Kimliği,tr-TR
+Измерение: %s,Boyut: %s,tr-TR
+Инвентарь сущности должен содержать %s,Varlığın envanteri %s barındırmalı,tr-TR
+Ключ строений,Yapı Oluşturucusu Kodu,tr-TR
+Конструкция «%s» не обнаружена,'%s' yapısı kullanılabilir değil,tr-TR
+Конструкция загружена из файла «%s»,Yapı '%s' yüklendi,tr-TR
+Конструкция сохранена в файл «%s»,Yapı '%s' olarak kaydedildi,tr-TR
+Конструкция: %s,Yapı: %s,tr-TR
+Контейнер должен быть пустым,Depo boş olmalı,tr-TR
+Контейнер должен содержать один %s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+Контейнер должен содержать: %s,Depo şu eşyayı barındırmalı: %s,tr-TR
+"Координаты игрока: [%s, %s, %s] в %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+"Координаты теста: [%s, %s, %s] в %s","Test konumu: [%s, %s, %s] %s",tr-TR
+Название конструкции,Yapı Adı,tr-TR
+Название цели:,Hedef adı:,tr-TR
+Название:,Ad:,tr-TR
+Найден неожиданный тип блока: %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+"Не ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+Не ожидался %s,%s varlığının var olması beklenmedi,tr-TR
+Не ожидался блок %s,Bloğun %s olması beklenmedi,tr-TR
+Не ожидался предмет типа %s,%s eşya tipi beklenmedi,tr-TR
+Не получено результатов в течение %s тактов,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+Не удалось задать биом для теста,Test için biyom değiştirilemedi,tr-TR
+"Не удалось определить размер конструкции. Добавьте углы с названием, соответствующим конструкции",Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+Не удалось разместить тестовую конструкцию для %s,%s için olan test yapısı yerleştirilemedi,tr-TR
+Не удалось создать сущность %s,%s varlığı oluşturulamadı,tr-TR
+Не удалось сохранить конструкцию «%s»,Yapı '%s' kaydedilemedi,tr-TR
+Неверное время ожидания (%s); должно быть положительное число тактов,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+Неверное название конструкции «%s»,Geçersiz yapı adı '%s',tr-TR
+Неверное состояние. Ожидалось: %s; получено: %s,"Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+Неверный идентификатор теста,Geçersiz test kimliği,tr-TR
+Неверный тип блока-сущности: %s,Yanlış blok varlık türü: %s,tr-TR
+"Невозможно выполнить тестовый экземпляр в точке %s, %s, %s: тест не определён","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+"Невозможно запустить тестовый экземпляр в точке %s, %s, %s: тестовая конструкция отсутствует","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+"Невозможно сохранить шаблон тестовой конструкции у тестового экземпляра в точке %s, %s, %s","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+Неизвестная внутренняя ошибка: %s,Bilinmeyen dâhilî hata: %s,tr-TR
+Несоответствие данных сущности %s,%s için varlık verisi uyumsuzluğu,tr-TR
+Нет такого теста,Böyle bir test yok,tr-TR
+Ни одна последовательность не завершилась в течение %s тактов,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+"Ожидалась одна сущность типа %s рядом с точкой %s, %s, %s; обнаружено %s","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+Ожидались данные сущности со значением %s; получено: %s,"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+"Ожидалось %s возле точки %s, %s, %s","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+Ожидалось %s предметов типа %s; обнаружено %s,"%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+Ожидалось %s со значением %s; получено: %s,"%s değerinin %s olması beklendi, %s bulundu",tr-TR
+Ожидалось %s со значением между %s и %s; получено: %s,%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+Ожидалось %s сущностей типа %s; обнаружено %s,"%s türünden %s varlık beklendi, %s bulundu",tr-TR
+Ожидалось наличие блока %s,%s bloğunun mevcut olması bekleniyor,tr-TR
+Ожидалось присутствие %s в тесте,%s varlığının testte var olması beklendi,tr-TR
+Ожидалось свойство %s со значением %s; получено: %s,"%s durumunun %s olması beklendi, %s bulundu",tr-TR
+"Ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+Ожидался %s,%s beklendi,tr-TR
+Ожидался %s с эффектом «%s» %s,%s varlığının %s %s etkisine sahip olması beklendi,tr-TR
+Ожидался блок %s; получено: %s,"%s bloğu beklendi, %s bulundu",tr-TR
+"Ожидался блок из #%s, получено: %s","#%s etiketinde blok beklendi, %s bulundu",tr-TR
+Ожидался предмет типа %s,%s türünde eşya beklendi,tr-TR
+Определить размер и расположение:,Yapı boyutunu ve konumunu algıla:,tr-TR
+"Определяется порядок, в котором этот шаблон обрабатывается в рамках общей конструкции.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться порядком вставки.","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+Отказ,Başarısız et,tr-TR
+относительная координата зет,göreceli konum z,tr-TR
+относительная координата игрек,göreceli konum y,tr-TR
+относительная координата икс,göreceli konum x,tr-TR
+Относительные координаты,Göreceli Konum,tr-TR
+Отсутствует блок-сущность,Blok varlık eksik,tr-TR
+Ошибка в недопустимом такте: ожидается %s,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+Пазлы,Yapbozları Sakla,tr-TR
+Поворот:,Yön:,tr-TR
+Подготовлено расположение конструкции «%s»,'%s' yapısı için konum hazırlandı,tr-TR
+Показать границы:,Çerçeveyi göster:,tr-TR
+Показывать невидимые блоки:,Görünmez Blokları Göster:,tr-TR
+"Порядок, в котором этот блок пазла будет пытаться связываться с соседними шаблонами.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться случайным образом.","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+Превращается в:,Dönüşür:,tr-TR
+Приоритет выбора:,Seçim Önceliği:,tr-TR
+Приоритет установки:,Yerleştirme Önceliği:,tr-TR
+Провал: %s,Başarısız: %s,tr-TR
+Проверка хода тактов перед установкой конструкции,Yapı yerleştirilmeden test yürütüldü,tr-TR
+Произвольные теги данных,Özel Veri Etiketi Adı,tr-TR
+Пул шаблонов:,Hedef Havuzu:,tr-TR
+Размер конструкции,Yapı Boyutu,tr-TR
+размер конструкции зет,yapı boyutu z,tr-TR
+размер конструкции игрек,yapı boyutu y,tr-TR
+размер конструкции икс,yapı boyutu x,tr-TR
+Размер тестовой конструкции,Test Yapısı Boyutu,tr-TR
+Рассчитан размер конструкции «%s»,'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+РАСЧЁТ,TESPİT ET,tr-TR
+Режим данных — маркер игровой логики,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+Режим журнала — запись сообщения в журнал,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+Режим записи — сохранение в файл,Kayıt Modu - Dosyaya yaz,tr-TR
+Режим запуска — начальная точка теста,Yürütme Modu - Bir testin başlama noktası,tr-TR
+Режим отказа — тестирование на ошибку,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+Режим успеха — достижение успеха для (части) теста,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+Режим чтения — загрузка из файла,Yükleme Modu - Dosyadan yükle,tr-TR
+Сбросить и загрузить,Sıfırla ve Yükle,tr-TR
+Сброшен тест %s,Test sıfırlama başarılı oldu: %s,tr-TR
+Свойство блока отсутствует; ожидалось свойство %s со значением %s,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+Слишком много блоков %s,Çok fazla %s bloğu,tr-TR
+Сообщение:,Mesaj:,tr-TR
+Сохранить конструкцию,Yapıyı Kaydet,tr-TR
+Среда: %s,Çevre: %s,tr-TR
+Сущности:,Varlıklar:,tr-TR
+Сущность %s провалила тест: %s,%s varlığı testte başarısız oldu: %s,tr-TR
+Сущность %s провалила тест: %s; ожидалось: %s; получено: %s,%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+Сущность должна держать %s,Varlık %s tutmalı,tr-TR
+Тест встроенной функции,Dâhilî Fonksiyon Testi,tr-TR
+Тест завершился по таймеру до завершения последовательности,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+Тест на блоках,Block Tabanlı Test,tr-TR
+Тип соединения:,Bağlantı Türü:,tr-TR
+Тип: %s,Tür: %s,tr-TR
+Угол,Köşe,tr-TR
+Угол — маркер размещения и размера,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+Угол: %s,Köşe: %s,tr-TR
+Указанный блок не имеет соответствующего ему предмета,Verilen blok bir blok eşyası değil,tr-TR
+Уровни: %s,Seviyeler: %s,tr-TR
+Условие не задействовано,Şart tetiklenmedi,tr-TR
+Условие уже задействовано в такте %s,Şart %s birim zamanda zaten tetiklendi,tr-TR
+Успех,Onayla,tr-TR
+Учитывать сущности:,Varlıkları Dâhil Et:,tr-TR
+Функция: %s,Fonksiyon: %s,tr-TR
+Целостность конструкции,Yapı Bütünlüğü,tr-TR
+Целостность конструкции и ключ,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+ЧТЕНИЕ,YÜKLE,tr-TR
+Чтение,Yükleme,tr-TR
+Чтение: %s,Yükle: %s,tr-TR
+กลุ่มเป้าหมาย:,Hedef Havuzu:,tr-TR
+การทดสอบฟังก์ชันในตัว,Dâhilî Fonksiyon Testi,tr-TR
+การทดสอบหมดเวลาก่อนที่ลำดับจะเสร็จสิ้น,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+การทดสอบโดยอิงจากบล็อก,Block Tabanlı Test,tr-TR
+การทดสอบได้เริ่มนับติ๊กโดยที่ยังไม่ได้วางโครงสร้าง,Yapı yerleştirilmeden test yürütüldü,tr-TR
+การวางอย่างเคร่งครัด:,Katı Yerleştirme:,tr-TR
+การหมดเวลาไม่ถูกต้อง (%s) - ติ๊กต้องเป็นจำนวนบวก,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+การหมุน:,Yön:,tr-TR
+กำลังเริ่มการทดสอบ %s,%s testi yürütülüyor,tr-TR
+ขนาดโครงสร้าง,Yapı Boyutu,tr-TR
+ขนาดโครงสร้าง x,yapı boyutu x,tr-TR
+ขนาดโครงสร้าง y,yapı boyutu y,tr-TR
+ขนาดโครงสร้าง z,yapı boyutu z,tr-TR
+ขนาดโครงสร้างทดสอบ,Test Yapısı Boyutu,tr-TR
+ขาดคุณสมบัติบล็อก ต้องมีคุณสมบัติ %s เป็น %s,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+ขาดเอนทิตี้บล็อก,Blok varlık eksik,tr-TR
+ข้อความ:,Mesaj:,tr-TR
+ข้อมูล,Veri,tr-TR
+ข้อมูล: %s,Veri: %s,tr-TR
+ข้อมูลเอนทิตี้ต้องเป็น %s: ตอนนี้เป็น %s,"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+ข้อมูลเอนทิตี้สำหรับ %s ไม่ตรงกัน,%s için varlık verisi uyumsuzluğu,tr-TR
+คงบล็อกจิ๊กซอว์ไว้,Yapbozları Sakla,tr-TR
+ความสมบูรณ์ของโครงสร้าง,Yapı Bütünlüğü,tr-TR
+ความสมบูรณ์ของโครงสร้างและซีด,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+คอนเทนเนอร์ควรมี: %s,Depo şu eşyayı barındırmalı: %s,tr-TR
+คอนเทนเนอร์ควรมีสิ่งนี้เพียงชิ้นเดียว: %s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+คอนเทนเนอร์ควรว่างเปล่า,Depo boş olmalı,tr-TR
+คุณสมบัติ %s ต้องเป็น %s: ตอนนี้เป็น %s,"%s durumunun %s olması beklendi, %s bulundu",tr-TR
+ชื่อ:,Ad:,tr-TR
+ชื่อเป้าหมาย:,Hedef adı:,tr-TR
+ชื่อแท็กข้อมูลกำหนดเอง,Özel Veri Etiketi Adı,tr-TR
+ชื่อโครงสร้าง,Yapı Adı,tr-TR
+ชื่อโครงสร้าง '%s' ไม่ถูกต้อง,Geçersiz yapı adı '%s',tr-TR
+ช่องเก็บของเอนทิตี้ควรมี %s,Varlığın envanteri %s barındırmalı,tr-TR
+ซีดโครงสร้าง,Yapı Oluşturucusu Kodu,tr-TR
+ตรงตามเงื่อนไขความล้มเหลว,Başarısızlık şartları karşılandı,tr-TR
+ตรวจจับ,TESPİT ET,tr-TR
+ตรวจจับขนาดและตำแหน่งโครงสร้าง:,Yapı boyutunu ve konumunu algıla:,tr-TR
+ตรวจพบขนาดสำหรับ '%s' แล้ว,'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+ตำแหน่ง x สัมพัทธ์,göreceli konum x,tr-TR
+ตำแหน่งสัมพัทธ์,Göreceli Konum,tr-TR
+ตำแหน่งสัมพัทธ์ y,göreceli konum y,tr-TR
+ตำแหน่งสัมพัทธ์ z,göreceli konum z,tr-TR
+ตำแหน่งโครงสร้าง '%s' ถูกเตรียม,'%s' yapısı için konum hazırlandı,tr-TR
+ต้องมี %s,%s beklendi,tr-TR
+"ต้องมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)",tr-TR
+"ต้องมี %s อยู่รอบ %s, %s, %s","%s varlığının %s, %s, %s civarında var olması beklendi",tr-TR
+ต้องมี %s อยู่ระหว่าง %s กับ %s: ตอนนี้เป็น %s,%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+ต้องมี %s อยู่ในการทดสอบ,%s varlığının testte var olması beklendi,tr-TR
+"ต้องมี %s เพียง 1 รายการรอบ %s, %s, %s เท่านั้น แต่พบ %s รายการ","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+ต้องมีบล็อก %s อยู่,%s bloğunun mevcut olması bekleniyor,tr-TR
+ต้องมีเอนทิตี้ %s รายการของประเภท %s: พบ %s รายการ,"%s türünden %s varlık beklendi, %s bulundu",tr-TR
+ต้องมีไอเทม %s รายการของประเภท %s: พบ %s รายการ,"%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+ต้องมีไอเทมของประเภท %s,%s türünde eşya beklendi,tr-TR
+ต้องเป็นบล็อก %s: ได้รับ %s,"%s bloğu beklendi, %s bulundu",tr-TR
+ต้องเป็นบล็อกใน #%s: ได้รับ %s,"#%s etiketinde blok beklendi, %s bulundu",tr-TR
+บล็อก%sมากเกินไป,Çok fazla %s bloğu,tr-TR
+บล็อกนั้นไม่ใช่ไอเทมบล็อก,Verilen blok bir blok eşyası değil,tr-TR
+บล็อกไม่ควรเป็น %s,Bloğun %s olması beklenmedi,tr-TR
+บันทึก,KAYDET,tr-TR
+บันทึก,Kaydet,tr-TR
+บันทึก: %s,Kaydet: %s,tr-TR
+บันทึกโครงสร้าง,Yapıyı Kaydet,tr-TR
+ประเภท: %s,Tür: %s,tr-TR
+ประเภทการต่อ:,Bağlantı Türü:,tr-TR
+ประเภทเอนทิตี้บล็อกผิดพลาด: %s,Yanlış blok varlık türü: %s,tr-TR
+พบประเภทบล็อกที่ไม่คาดคิด: %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+"พิกัดทดสอบ: [%s, %s, %s] ใน %s","Test konumu: [%s, %s, %s] %s",tr-TR
+"พิกัดผู้เล่น: [%s, %s, %s] ใน %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+ฟังก์ชัน: %s,Fonksiyon: %s,tr-TR
+มิติ: %s,Boyut: %s,tr-TR
+มุม,Köşe,tr-TR
+มุม: %s,Köşe: %s,tr-TR
+ยอมรับ,Onayla,tr-TR
+รวมถึงเอนทิตี้:,Varlıkları Dâhil Et:,tr-TR
+ระดับ: %s,Seviyeler: %s,tr-TR
+รีเซตการทดสอบสำเร็จ: %s,Test sıfırlama başarılı oldu: %s,tr-TR
+รีเซตและโหลด,Sıfırla ve Yükle,tr-TR
+ลงบันทึก,Günlüğe Yaz,tr-TR
+ลำดับความสำคัญในการวาง:,Yerleştirme Önceliği:,tr-TR
+ลำดับความสำคัญในการเลือก:,Seçim Önceliği:,tr-TR
+ล้มเหลว,Başarısız et,tr-TR
+ล้มเหลว: %s,Başarısız: %s,tr-TR
+ล้มเหลวในการตั้งไบโอมสำหรับการทดสอบ,Test için biyom değiştirilemedi,tr-TR
+ล้มเหลวในการวางโครงสร้างทดสอบสำหรับ %s,%s için olan test yapısı yerleştirilemedi,tr-TR
+ล้มเหลวในการสร้างเอนทิตี้ %s,%s varlığı oluşturulamadı,tr-TR
+สถานะไม่ถูกต้อง ต้องเป็น %s: ตอนนี้เป็น %s,"Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+สภาพแวดล้อม: %s,Çevre: %s,tr-TR
+สร้าง,Oluştur,tr-TR
+สำเร็จก่อนติ๊กที่คาดไว้: ต้องรอจนถึง %s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+สำเร็จในติ๊กที่ไม่ถูกต้อง: ต้องเป็น %s,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+หมุนได้,Döndürülebilir,tr-TR
+หมุนไม่ได้,Hizalı,tr-TR
+เงื่อนไขถูกทริกเกอร์ไปแล้วในติ๊กที่ %s,Şart %s birim zamanda zaten tetiklendi,tr-TR
+เงื่อนไขไม่ถูกทริกเกอร์,Şart tetiklenmedi,tr-TR
+"เมื่อชิ้นส่วนแม่ถูกประมวลผลเพื่อการเชื่อมต่อ นี่คือลำดับที่บล็อกจิ๊กซอว์นี้จะพยายามเชื่อมต่อกับชิ้นส่วนเป้าหมาย
+
+บล็อกจิ๊กซอว์ต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย หากมีลำดับความสำคัญเท่ากัน จะใช้การสุ่มในการเลือกลำดับการประมวลผล","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+"เมื่อบล็อกจิ๊กซอว์นี้เชื่อมต่อกับชิ้นส่วนใด ๆ นี่คือลำดับที่ชิ้นส่วนนั้นจะถูกประมวลผลเพื่อการเชื่อมต่อในโครงสร้างที่ใหญ่ขึ้น
+
+ชิ้นส่วนต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย โดยหากมีลำดับความสำคัญเท่ากัน จะประมวลผลตามลำดับการแทรก","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+เริ่มต้น,Başlat,tr-TR
+เสร็จสิ้นกลายเป็น:,Dönüşür:,tr-TR
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s,%s varlığı testte başarısız oldu: %s,tr-TR
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s ต้องเป็น %s: ตอนนี้เป็น %s,%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+เอนทิตี้:,Varlıklar:,tr-TR
+เอนทิตี้ควรกำลังถือ %s,Varlık %s tutmalı,tr-TR
+แสดงกล่องขอบเขต:,Çerçeveyi göster:,tr-TR
+แสดงบล็อกล่องหน:,Görünmez Blokları Göster:,tr-TR
+โครงสร้าง '%s' ไม่พร้อมใช้งาน,'%s' yapısı kullanılabilir değil,tr-TR
+โครงสร้าง: %s,Yapı: %s,tr-TR
+โครงสร้างถูกบันทึกเป็น '%s',Yapı '%s' olarak kaydedildi,tr-TR
+โครงสร้างถูกโหลดจาก '%s',Yapı '%s' yüklendi,tr-TR
+โครงสร้างทดสอบขาดบล็อก%s,Test yapısında %s bloğu eksik,tr-TR
+โหมดข้อมูล - ตัวทำเครื่องหมายตรรกะเกม,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+โหมดบันทึก - บันทึกไปยังไฟล์,Kayıt Modu - Dosyaya yaz,tr-TR
+โหมดมุม - ตัวทําเครื่องหมายการวางและขนาด,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+โหมดยอมรับ - ยอมรับความสำเร็จของ (บางส่วนของ) การทดสอบ,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+โหมดลงบันทึก - บันทึกข้อความเอาต์พุตลงไฟล์บันทึก,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+โหมดล้มเหลว - ทำให้การทดสอบล้มเหลว,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+โหมดเริ่มต้น - จุดเริ่มต้นของการทดสอบ,Yürütme Modu - Bir testin başlama noktası,tr-TR
+โหมดโหลด - โหลดจากไฟล์,Yükleme Modu - Dosyadan yükle,tr-TR
+โหลด,YÜKLE,tr-TR
+โหลด,Yükleme,tr-TR
+โหลด: %s,Yükle: %s,tr-TR
+โหลดและรัน,Yükle ve Yürüt,tr-TR
+"ไม่ควรมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)",tr-TR
+ไม่ควรมี %s อยู่,%s varlığının var olması beklenmedi,tr-TR
+ไม่ควรมีไอเทมประเภท %s,%s eşya tipi beklenmedi,tr-TR
+ไม่ทราบข้อผิดพลาดภายใน: %s,Bilinmeyen dâhilî hata: %s,tr-TR
+ไม่มีการทดสอบดังกล่าว,Böyle bir test yok,tr-TR
+ไม่มีลำดับเสร็จสิ้นภายใน %s ติ๊ก,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+ไม่สามารถตรวจจับขนาดโครงสร้างได้ เพิ่มมุมด้วยชื่อโครงสร้างที่ตรงกัน,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+"ไม่สามารถบันทึกแม่แบบโครงสร้างทดสอบสำหรับกรณีทดสอบที่ %s, %s, %s","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+ไม่สามารถบันทึกโครงสร้าง '%s' ได้,Yapı '%s' kaydedilemedi,tr-TR
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีการกำหนดค่าการทดสอบ","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีโครงสร้างทดสอบ","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+ไม่สำเร็จหรือล้มเหลวภายใน %s ติ๊ก,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+“%s”的大小已成功检测,'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+「%s」から構造物を読み込みました,Yapı '%s' yüklendi,tr-TR
+「%s」のサイズが正常に検出されました,'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+「%s」は無効な構造物名です,Geçersiz yapı adı '%s',tr-TR
+"この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+"この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+そのテストは存在しません,Böyle bir test yok,tr-TR
+"ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました","%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu",tr-TR
+エンティティ%sがテストに失敗しました：%s,%s varlığı testte başarısız oldu: %s,tr-TR
+エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+エンティティ%sの作成に失敗しました,%s varlığı oluşturulamadı,tr-TR
+エンティティのインベントリには%sが入っている必要があります,Varlığın envanteri %s barındırmalı,tr-TR
+エンティティは%sを手に持っている必要があります,Varlık %s tutmalı,tr-TR
+エンティティを含めるかどうか：,Varlıkları Dâhil Et:,tr-TR
+エンティティデータが%sに合致しません,%s için varlık verisi uyumsuzluğu,tr-TR
+エンティティデータは%sでなければなりませんが、%sでした,"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+エンティティ：,Varlıklar:,tr-TR
+カスタムデータタグ名,Özel Veri Etiketi Adı,tr-TR
+コンテナには%sが入っている必要があります,Depo şu eşyayı barındırmalı: %s,tr-TR
+コンテナには単一の%sが入っている必要があります,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+コンテナは空である必要があります,Depo boş olmalı,tr-TR
+コーナー,Köşe,tr-TR
+コーナーモード - 構造物のサイズと位置を標識します,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+コーナー：%s,Köşe: %s,tr-TR
+シーケンスが完了する前にテストがタイムアウトしました,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+ジグソーを維持,Yapbozları Sakla,tr-TR
+セーブ,Kaydet,tr-TR
+セーブモード - ファイルへの書き込みを行います,Kayıt Modu - Dosyaya yaz,tr-TR
+セーブ：%s,Kaydet: %s,tr-TR
+タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,"%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,"%s türünden %s varlık beklendi, %s bulundu",tr-TR
+タイプ%sのアイテムが必要です,%s türünde eşya beklendi,tr-TR
+タイプ%sのアイテムは予期されていません,%s eşya tipi beklenmedi,tr-TR
+タイプ：%s,Tür: %s,tr-TR
+"ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s","%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında",tr-TR
+テスト%sを開始します,%s testi yürütülüyor,tr-TR
+テストに向けたバイオームの設定に失敗しました,Test için biyom değiştirilemedi,tr-TR
+テストのリセットが成功しました：%s,Test sıfırlama başarılı oldu: %s,tr-TR
+"テストの座標：%4$s内の[%1$s, %2$s, %3$s]","Test konumu: [%s, %s, %s] %s",tr-TR
+テストインスタンスID,Test Birimi Kimliği,tr-TR
+"テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+テスト構造物に%sブロックがありません,Test yapısında %s bloğu eksik,tr-TR
+テスト構造物のサイズ,Test Yapısı Boyutu,tr-TR
+ディメンション：%s,Boyut: %s,tr-TR
+データ,Veri,tr-TR
+データモード - 構造物ごとに固有の処理をマーキングします,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+データ：%s,Veri: %s,tr-TR
+ビルトイン関数型テスト,Dâhilî Fonksiyon Testi,tr-TR
+ブロック%sが存在する必要があります,%s bloğunun mevcut olması bekleniyor,tr-TR
+ブロック%sが必要ですが、%sが検出されました,"%s bloğu beklendi, %s bulundu",tr-TR
+ブロックが%sであることは予期されていません,Bloğun %s olması beklenmedi,tr-TR
+ブロックエンティティが不足しています,Blok varlık eksik,tr-TR
+ブロックエンティティタイプが間違っています：%s,Yanlış blok varlık türü: %s,tr-TR
+ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+ブロックベース型テスト,Block Tabanlı Test,tr-TR
+"プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+プロパティ%sが%sであることが必要ですが、%sでした,"%s durumunun %s olması beklendi, %s bulundu",tr-TR
+メッセージ：,Mesaj:,tr-TR
+リセットして読み込む,Sıfırla ve Yükle,tr-TR
+レベル：%s,Seviyeler: %s,tr-TR
+ログ,Günlüğe Yaz,tr-TR
+ログモード - メッセージをログに出力します,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+ロード,Yükleme,tr-TR
+ロードモード - ファイルからの読み込みを行います,Yükleme Modu - Dosyadan yükle,tr-TR
+ロード：%s,Yükle: %s,tr-TR
+不存在名为“%s”的结构 ,'%s' yapısı kullanılabilir değil,tr-TR
+不明な内部エラーです：%s,Bilinmeyen dâhilî hata: %s,tr-TR
+严格放置：,Katı Yerleştirme:,tr-TR
+为%s放置测试结构失败,%s için olan test yapısı yerleştirilemedi,tr-TR
+予定のティックより早く成功しました。予想された待ち時間は%sでした,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+予期せぬブロックタイプが検出されました：%s,Beklenmeyen blok türü bulundu: %s,tr-TR
+保存,KAYDET,tr-TR
+保存模式,Kaydet,tr-TR
+保存模式 — 写入文件,Kayıt Modu - Dosyaya yaz,tr-TR
+保存结构,Yapıyı Kaydet,tr-TR
+保存：%s,Kaydet: %s,tr-TR
+保留拼图,Yapbozları Sakla,tr-TR
+偵測,TESPİT ET,tr-TR
+偵測結構的大小與位置：,Yapı boyutunu ve konumunu algıla:,tr-TR
+儲存,KAYDET,tr-TR
+儲存,Kaydet,tr-TR
+儲存拼圖,Yapbozları Sakla,tr-TR
+儲存模式 ─ 寫入檔案,Kayıt Modu - Dosyaya yaz,tr-TR
+儲存結構,Yapıyı Kaydet,tr-TR
+儲存：%s,Kaydet: %s,tr-TR
+內建函數測試,Dâhilî Fonksiyon Testi,tr-TR
+内置函数测试,Dâhilî Fonksiyon Testi,tr-TR
+函数：%s,Fonksiyon: %s,tr-TR
+函數：%s,Fonksiyon: %s,tr-TR
+创建实体%s失败,%s varlığı oluşturulamadı,tr-TR
+加载,YÜKLE,tr-TR
+加载并运行,Yükle ve Yürüt,tr-TR
+加载模式,Yükleme,tr-TR
+加载模式 — 从文件中加载,Yükleme Modu - Dosyadan yükle,tr-TR
+加载：%s,Yükle: %s,tr-TR
+包含實體：,Varlıkları Dâhil Et:,tr-TR
+包括实体：,Varlıkları Dâhil Et:,tr-TR
+厳密な配置：,Katı Yerleştirme:,tr-TR
+发现非预期的方块类型：%s,Beklenmeyen blok türü bulundu: %s,tr-TR
+可旋轉,Döndürülebilir,tr-TR
+可旋转,Döndürülebilir,tr-TR
+名前：,Ad:,tr-TR
+名称：,Ad:,tr-TR
+名稱：,Ad:,tr-TR
+启动,Başlat,tr-TR
+启动模式 - 测试的起点,Yürütme Modu - Bir testin başlama noktası,tr-TR
+啟動,Başlat,tr-TR
+啟動模式 ─ 測試的起點,Yürütme Modu - Bir testin başlama noktası,tr-TR
+嚴格放置：,Katı Yerleştirme:,tr-TR
+回転可能,Döndürülebilir,tr-TR
+回転：,Yön:,tr-TR
+固定,Hizalı,tr-TR
+在 %s 刻內沒有序列完成,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+在%s刻内没有序列完成,"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",tr-TR
+在放置結構前執行了測試,Yapı yerleştirilmeden test yürütüldü,tr-TR
+在無效刻時成功：應為 %s,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+在預期刻之前成功：應等待 %s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+基于方块的测试,Block Tabanlı Test,tr-TR
+基於方塊的測試,Block Tabanlı Test,tr-TR
+境界線を表示する：,Çerçeveyi göster:,tr-TR
+失敗,Başarısız et,tr-TR
+失敗モード - テストを失敗させます,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+失敗条件が満たされました,Başarısızlık şartları karşılandı,tr-TR
+失敗模式 ─ 使測試失敗,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+失敗：%s,Başarısız: %s,tr-TR
+失败,Başarısız et,tr-TR
+失败模式 - 使测试失败,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+失败：%s,Başarısız: %s,tr-TR
+"存在未定义的测试，无法在%s, %s, %s处运行测试实例","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+"存在未被定義的測試，無法在 %s, %s, %s 處執行測試實例","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+实体%s测试失败：%s,%s varlığı testte başarısız oldu: %s,tr-TR
+实体%s测试失败：%s。应为%s：实际为%s,%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+实体应持有%s,Varlık %s tutmalı,tr-TR
+实体数据应为%s：实际为%s,"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+实体物品栏中应包含%s,Varlığın envanteri %s barındırmalı,tr-TR
+实体：,Varlıklar:,tr-TR
+容器应为空,Depo boş olmalı,tr-TR
+容器应包含：%s,Depo şu eşyayı barındırmalı: %s,tr-TR
+容器应含有单个：%s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+容器應含有單個：%s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+容器應含有：%s,Depo şu eşyayı barındırmalı: %s,tr-TR
+容器應為空,Depo boş olmalı,tr-TR
+實體 %s 測試失敗：%s,%s varlığı testte başarısız oldu: %s,tr-TR
+實體 %s 測試失敗：%s。應為 %s，但實際為 %s,%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,tr-TR
+實體應持有 %s,Varlık %s tutmalı,tr-TR
+實體物品欄中應含有 %s,Varlığın envanteri %s barındırmalı,tr-TR
+實體資料應為 %s，但實際為 %s,"Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+實體：,Varlıklar:,tr-TR
+対象の名前：,Hedef adı:,tr-TR
+尚未放置结构时执行了测试,Yapı yerleştirilmeden test yürütüldü,tr-TR
+层数：%s,Seviyeler: %s,tr-TR
+属性%s应为%s：实际为%s,"%s değerinin %s olması beklendi, %s bulundu",tr-TR
+属性%s应为%s：实际为%s,"%s durumunun %s olması beklendi, %s bulundu",tr-TR
+属性%s应在%s和%s之间：实际为%s,%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,tr-TR
+層數：%s,Seviyeler: %s,tr-TR
+屬性 %s 應為 %s，但實際為 %s,"%s durumunun %s olması beklendi, %s bulundu",tr-TR
+已將結構儲存為 '%s',Yapı '%s' olarak kaydedildi,tr-TR
+已從 '%s' 載入結構,Yapı '%s' yüklendi,tr-TR
+已成功偵測 '%s' 的大小,'%s' yapısı için boyut başarıyla tespit edildi,tr-TR
+应为%s个%s类型的物品：实际为%s个,"%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+应为%s类型的物品,%s türünde eşya beklendi,tr-TR
+应存在方块%s,%s bloğunun mevcut olması bekleniyor,tr-TR
+应有%s个类型为%s的实体：实际有%s个,"%s türünden %s varlık beklendi, %s bulundu",tr-TR
+"当此拼图方块连接到部件时，此处即为在更大的结构中各部件处理连接的顺序。
+
+部件按照优先级由高到低处理，若优先级相同，则按照插入顺序处理。","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+"当父级片段处理连接时，此处即为各拼图方块尝试连接目标部件的顺序。
+
+拼图方块将会按照优先级由高到低处理，同级则随机处理。","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+應存在方塊 %s,%s bloğunun mevcut olması bekleniyor,tr-TR
+應為 %s,%s beklendi,tr-TR
+應為類型 %s 的物品,%s türünde eşya beklendi,tr-TR
+成功于无效的刻：应为%s,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+成功于预期的刻之前：应等待%s,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+成功从“%s”中加载结构,Yapı '%s' yüklendi,tr-TR
+成功将结构保存为“%s”,Yapı '%s' olarak kaydedildi,tr-TR
+找到非預期的方塊類型：%s,Beklenmeyen blok türü bulundu: %s,tr-TR
+拼接类型：,Bağlantı Türü:,tr-TR
+拼接類型：,Bağlantı Türü:,tr-TR
+指定のブロックはブロックアイテムではありません,Verilen blok bir blok eşyası değil,tr-TR
+指定的方块不是方块物品,Verilen blok bir blok eşyası değil,tr-TR
+指定的方塊不是方塊物品,Verilen blok bir blok eşyası değil,tr-TR
+探测,TESPİT ET,tr-TR
+探测结构大小和位置：,Yapı boyutunu ve konumunu algıla:,tr-TR
+接受,Onayla,tr-TR
+接受模式 - 接受（部分）测试的成功,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+接受模式 ─ 接受測試（部分）成功,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+接続タイプ：,Bağlantı Türü:,tr-TR
+放置优先级：,Yerleştirme Önceliği:,tr-TR
+放置優先順序：,Yerleştirme Önceliği:,tr-TR
+数据模式,Veri,tr-TR
+数据模式 — 游戏逻辑标记,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+数据：%s,Veri: %s,tr-TR
+整列,Hizalı,tr-TR
+方块不应为%s,Bloğun %s olması beklenmedi,tr-TR
+方块应为%s：实际为%s,"%s bloğu beklendi, %s bulundu",tr-TR
+方块应在#%s中：实际为%s,"#%s etiketinde blok beklendi, %s bulundu",tr-TR
+方塊不應為 %s,Bloğun %s olması beklenmedi,tr-TR
+方塊應在 #%s 中，但實際為 %s,"#%s etiketinde blok beklendi, %s bulundu",tr-TR
+方塊應為 %s，但實際為 %s,"%s bloğu beklendi, %s bulundu",tr-TR
+旋轉角度：,Yön:,tr-TR
+旋转角度：,Yön:,tr-TR
+无效的时限（%s），刻数必须为正数,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+无效的测试ID,Geçersiz test kimliği,tr-TR
+无效的结构名“%s”,Geçersiz yapı adı '%s',tr-TR
+"无法保存%s, %s, %s处测试实例的测试结构模板","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+无法保存结构“%s”,Yapı '%s' kaydedilemedi,tr-TR
+无法检测结构大小。请放置与结构名称对应的角落结构方块,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+日志输出,Günlüğe Yaz,tr-TR
+日志输出模式 - 将消息输出到日志,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+显示边框：,Çerçeveyi göster:,tr-TR
+显示隐形方块：,Görünmez Blokları Göster:,tr-TR
+未在 %s 刻內成功或失敗,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+未在%s刻内成功或失败,%s birim zaman içinde başarılı veya başarısız olunmadı,tr-TR
+"未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+未知的內部錯誤：%s,Bilinmeyen dâhilî hata: %s,tr-TR
+未知的内部错误：%s,Bilinmeyen dâhilî hata: %s,tr-TR
+条件がすでに%sでトリガーされています,Şart %s birim zamanda zaten tetiklendi,tr-TR
+条件がトリガーされていません,Şart tetiklenmedi,tr-TR
+条件已在%s刻时触发,Şart %s birim zamanda zaten tetiklendi,tr-TR
+条件未触发,Şart tetiklenmedi,tr-TR
+條件已在 %s 刻時觸發,Şart %s birim zamanda zaten tetiklendi,tr-TR
+條件未觸發,Şart tetiklenmedi,tr-TR
+検出,TESPİT ET,tr-TR
+構成要素プール：,Hedef Havuzu:,tr-TR
+構造物「%s」の位置が準備されました,'%s' yapısı için konum hazırlandı,tr-TR
+構造物「%s」は利用できません,'%s' yapısı kullanılabilir değil,tr-TR
+構造物「%s」を保存できません,Yapı '%s' kaydedilemedi,tr-TR
+構造物が「%s」として保存されました,Yapı '%s' olarak kaydedildi,tr-TR
+構造物が未設置の状態でティック処理が実行されました,Yapı yerleştirilmeden test yürütüldü,tr-TR
+構造物のサイズ,Yapı Boyutu,tr-TR
+構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+構造物のシード値,Yapı Oluşturucusu Kodu,tr-TR
+構造物の大きさと位置を検出：,Yapı boyutunu ve konumunu algıla:,tr-TR
+構造物の完全性,Yapı Bütünlüğü,tr-TR
+構造物の完全性とシード値,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+構造物を保存,Yapıyı Kaydet,tr-TR
+構造物名,Yapı Adı,tr-TR
+構造物：%s,Yapı: %s,tr-TR
+正在启动测试%s,%s testi yürütülüyor,tr-TR
+正在啟動測試 %s,%s testi yürütülüyor,tr-TR
+此测试不存在,Böyle bir test yok,tr-TR
+沒有名為 '%s' 的結構,'%s' yapısı kullanılabilir değil,tr-TR
+"沒有測試結構，無法在 %s, %s, %s 處執行測試實例","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+"没有测试结构，无法在%s, %s, %s处运行测试实例","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+测试在序列完成前超时,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+"测试坐标：[%s, %s, %s]，位于%s","Test konumu: [%s, %s, %s] %s",tr-TR
+测试实例ID,Test Birimi Kimliği,tr-TR
+测试结构大小,Test Yapısı Boyutu,tr-TR
+测试结构缺少%s方块,Test yapısında %s bloğu eksik,tr-TR
+测试重置成功：%s,Test sıfırlama başarılı oldu: %s,tr-TR
+消息：,Mesaj:,tr-TR
+測試不存在,Böyle bir test yok,tr-TR
+測試在序列完成前已逾時,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+測試實例 ID,Test Birimi Kimliği,tr-TR
+"測試座標：[%s, %s, %s]，位於 %s","Test konumu: [%s, %s, %s] %s",tr-TR
+測試結構大小,Test Yapısı Boyutu,tr-TR
+測試結構缺少 %s 方塊,Test yapısında %s bloğu eksik,tr-TR
+測試重設成功：%s,Test sıfırlama başarılı oldu: %s,tr-TR
+满足失败条件,Başarısızlık şartları karşılandı,tr-TR
+滿足失敗條件,Başarısızlık şartları karşılandı,tr-TR
+無効なティックにおいて成功しました。%sでなければなりません,Geçersiz birim zamanda başarıldı: %s beklendi,tr-TR
+無効なテストID,Geçersiz test kimliği,tr-TR
+無效的時間限制 (%s) - 刻數須為正數,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+無效的測試 ID,Geçersiz test kimliği,tr-TR
+無效的結構名稱 '%s',Geçersiz yapı adı '%s',tr-TR
+無法偵測結構大小。請添加與結構名稱對應的角落,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+無法儲存結構 '%s',Yapı '%s' kaydedilemedi,tr-TR
+"無法在 %s, %s, %s 處儲存測試實例的測試結構模板","Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi",tr-TR
+無法建立實體 %s,%s varlığı oluşturulamadı,tr-TR
+無法為 %s 放置測試結構,%s için olan test yapısı yerleştirilemedi,tr-TR
+無法設定測試的生態域,Test için biyom değiştirilemedi,tr-TR
+物品不应为类型%s,%s eşya tipi beklenmedi,tr-TR
+物品不應為類型 %s,%s eşya tipi beklenmedi,tr-TR
+状态错误。应为%s：实际为%s,"Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+状態が間違っています。%sであることが必要ですが、%sでした,"Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+狀態錯誤。應為 %s，但實際為 %s,"Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+"玩家坐标：[%s, %s, %s]，位于%s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+"玩家座標：[%s, %s, %s]，位於 %s","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+环境：%s,Çevre: %s,tr-TR
+環境：%s,Çevre: %s,tr-TR
+生成,Oluştur,tr-TR
+"當此拼圖方塊連接到某個部件時，此處即為在更大的結構中各部件的處理連接的順序。
+
+部件依照優先順序由高到低處理，若優先順序相同，則依插入順序處理。","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+"當父級部件處理連接時，此處即為拼圖方塊嘗試連接到目標部件的順序。
+
+拼圖方塊會依照優先順序由高到低處理，若優先順序相同，則依隨機順序處理。","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+目标名称：,Hedef adı:,tr-TR
+目标池：,Hedef Havuzu:,tr-TR
+目標名稱：,Hedef adı:,tr-TR
+目標池：,Hedef Havuzu:,tr-TR
+相对X坐标,göreceli konum x,tr-TR
+相对Y坐标,göreceli konum y,tr-TR
+相对Z坐标,göreceli konum z,tr-TR
+相对位置,Göreceli Konum,tr-TR
+相対位置,Göreceli Konum,tr-TR
+相對位置,Göreceli Konum,tr-TR
+类型：%s,Tür: %s,tr-TR
+結構 '%s' 的位置已準備就緒,'%s' yapısı için konum hazırlandı,tr-TR
+結構名稱,Yapı Adı,tr-TR
+結構大小,Yapı Boyutu,tr-TR
+結構完整度及種子碼,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+結構完整性,Yapı Bütünlüğü,tr-TR
+結構種子碼,Yapı Oluşturucusu Kodu,tr-TR
+結構：%s,Yapı: %s,tr-TR
+維度：%s,Boyut: %s,tr-TR
+结构X轴大小,yapı boyutu x,tr-TR
+结构Y轴大小,yapı boyutu y,tr-TR
+结构Z轴大小,yapı boyutu z,tr-TR
+结构“%s”的加载位置已就绪,'%s' yapısı için konum hazırlandı,tr-TR
+结构名称,Yapı Adı,tr-TR
+结构大小,Yapı Boyutu,tr-TR
+结构完整性,Yapı Bütünlüğü,tr-TR
+结构完整性及种子,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+结构种子,Yapı Oluşturucusu Kodu,tr-TR
+结构：%s,Yapı: %s,tr-TR
+维度：%s,Boyut: %s,tr-TR
+缺少%s,%s beklendi,tr-TR
+缺少方块实体,Blok varlık eksik,tr-TR
+缺少方块属性。属性%s应为%s,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+缺少方塊實體,Blok varlık eksik,tr-TR
+缺少方塊屬性。屬性 %s 應為 %s,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+置換先：,Dönüşür:,tr-TR
+自定义数据标签名,Özel Veri Etiketi Adı,tr-TR
+自訂資料標籤名稱,Özel Veri Etiketi Adı,tr-TR
+見えないブロックを表示する：,Görünmez Blokları Göster:,tr-TR
+角落,Köşe,tr-TR
+角落模式,Köşe,tr-TR
+角落模式 — 位置和大小标记,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+角落模式 ─ 位置及大小記號,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+角落：%s,Köşe: %s,tr-TR
+訊息：,Mesaj:,tr-TR
+記錄,Günlüğe Yaz,tr-TR
+記錄模式 ─ 將紀錄輸出至記錄檔中,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+設置優先度：,Yerleştirme Önceliği:,tr-TR
+認証,Onayla,tr-TR
+認証モード - テスト（の一部）の成功を認証します,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+読み込み,YÜKLE,tr-TR
+読み込んで実行,Yükle ve Yürüt,tr-TR
+设置测试生物群系失败,Test için biyom değiştirilemedi,tr-TR
+資料,Veri,tr-TR
+資料模式 ─ 遊戲邏輯記號,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+資料：%s,Veri: %s,tr-TR
+載入,YÜKLE,tr-TR
+載入,Yükleme,tr-TR
+載入並執行,Yükle ve Yürüt,tr-TR
+載入模式 ─ 從檔案載入,Yükleme Modu - Dosyadan yükle,tr-TR
+載入：%s,Yükle: %s,tr-TR
+轉變為：,Dönüşür:,tr-TR
+转变为：,Dönüşür:,tr-TR
+选择优先级：,Seçim Önceliği:,tr-TR
+選択優先度：,Seçim Önceliği:,tr-TR
+選擇優先順序：,Seçim Önceliği:,tr-TR
+重置并加载,Sıfırla ve Yükle,tr-TR
+重設並載入,Sıfırla ve Yükle,tr-TR
+錯誤的方塊實體類型：%s,Yanlış blok varlık türü: %s,tr-TR
+错误的方块实体类型：%s,Yanlış blok varlık türü: %s,tr-TR
+開始,Başlat,tr-TR
+開始モード - テストの起点となります,Yürütme Modu - Bir testin başlama noktası,tr-TR
+関数：%s,Fonksiyon: %s,tr-TR
+類型為 %2$s 的實體應有 %1$s 個，但實際為 %3$s 個,"%s türünden %s varlık beklendi, %s bulundu",tr-TR
+類型為 %2$s 的物品應有 %1$s 個，但實際為 %3$s 個,"%2$s türü %1$s eşya beklendi, %3$s bulundu",tr-TR
+類型：%s,Tür: %s,tr-TR
+顯示定界框：,Çerçeveyi göster:,tr-TR
+顯示隱形方塊：,Görünmez Blokları Göster:,tr-TR
+감지,TESPİT ET,tr-TR
+"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다","Varlık verisinin: %s olması beklendi, %s bulundu",tr-TR
+개체 보관함이 %s을(를) 포함해아 합니다,Varlığın envanteri %s barındırmalı,tr-TR
+개체 포함:,Varlıkları Dâhil Et:,tr-TR
+개체:,Varlıklar:,tr-TR
+개체가 %s을(를) 들고 있어야 합니다,Varlık %s tutmalı,tr-TR
+결합 유형:,Bağlantı Türü:,tr-TR
+경계 상자 표시:,Çerçeveyi göster:,tr-TR
+고정,Hizalı,tr-TR
+구조물 '%s'의 위치가 준비되었습니다,'%s' yapısı için konum hazırlandı,tr-TR
+구조물 설치 전에 테스트를 틱하려 했습니다,Yapı yerleştirilmeden test yürütüldü,tr-TR
+구조물 시드,Yapı Oluşturucusu Kodu,tr-TR
+구조물 온전도,Yapı Bütünlüğü,tr-TR
+구조물 온전도 및 시드,Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,tr-TR
+구조물 이름,Yapı Adı,tr-TR
+구조물 저장,Yapıyı Kaydet,tr-TR
+구조물 크기,Yapı Boyutu,tr-TR
+구조물 크기 x,yapı boyutu x,tr-TR
+구조물 크기 y,yapı boyutu y,tr-TR
+구조물 크기 z,yapı boyutu z,tr-TR
+구조물 크기 및 위치 감지:,Yapı boyutunu ve konumunu algıla:,tr-TR
+구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,tr-TR
+구조물: %s,Yapı: %s,tr-TR
+구조물을 '%s'(으)로 저장할 수 없습니다,Yapı '%s' kaydedilemedi,tr-TR
+구조물을 '%s'에서 불러왔습니다,Yapı '%s' yüklendi,tr-TR
+구조물이 '%s'(으)로 저장되었습니다,Yapı '%s' olarak kaydedildi,tr-TR
+기록,Günlüğe Yaz,tr-TR
+기록 모드 - 메시지를 기록합니다,Günlük Modu - Günlüğe mesaj yazdır,tr-TR
+내장 함수 테스트,Dâhilî Fonksiyon Testi,tr-TR
+다음으로 변화:,Dönüşür:,tr-TR
+대상 이름:,Hedef adı:,tr-TR
+대상 풀:,Hedef Havuzu:,tr-TR
+데이터,Veri,tr-TR
+데이터 모드 - 게임 논리 표지,Veri Modu - Oyun mantığı işaretleyici,tr-TR
+데이터: %s,Veri: %s,tr-TR
+레벨: %s,Seviyeler: %s,tr-TR
+메시지:,Mesaj:,tr-TR
+모서리,Köşe,tr-TR
+모서리 모드 - 설치 및 크기 표지,Köşe Modu - Konum ve boyut işaretleyici,tr-TR
+모서리: %s,Köşe: %s,tr-TR
+"부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.","Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.",tr-TR
+불러오고 실행,Yükle ve Yürüt,tr-TR
+불러오기,YÜKLE,tr-TR
+불러오기,Yükleme,tr-TR
+불러오기 모드 - 파일에서 불러오기,Yükleme Modu - Dosyadan yükle,tr-TR
+불러오기: %s,Yükle: %s,tr-TR
+블록 %s이(가) 존재해야 합니다,%s bloğunun mevcut olması bekleniyor,tr-TR
+블록 개체가 누락되었습니다,Blok varlık eksik,tr-TR
+블록 기반 테스트,Block Tabanlı Test,tr-TR
+블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,"Blok durumu eksik, %s durumunun %s olması beklendi",tr-TR
+사용자 지정 데이터 태그 이름,Özel Veri Etiketi Adı,tr-TR
+상대 위치 x,göreceli konum x,tr-TR
+상대 위치 y,göreceli konum y,tr-TR
+상대 위치 z,göreceli konum z,tr-TR
+상대적 위치,Göreceli Konum,tr-TR
+생성,Oluştur,tr-TR
+선택 우선도:,Seçim Önceliği:,tr-TR
+설치 우선도:,Yerleştirme Önceliği:,tr-TR
+시작,Başlat,tr-TR
+시작 모드 - 테스트의 시작 지점입니다,Yürütme Modu - Bir testin başlama noktası,tr-TR
+시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,"Test, dizi tamamlanmadan zaman aşımına uğradı",tr-TR
+실패,Başarısız et,tr-TR
+실패 모드 - 테스트를 실패시킵니다,Başarısız Etme Modu - Testi başarısızlığa uğrat,tr-TR
+실패 조건을 충족했습니다,Başarısızlık şartları karşılandı,tr-TR
+실패: %s,Başarısız: %s,tr-TR
+알 수 없는 내부 오류: %s,Bilinmeyen dâhilî hata: %s,tr-TR
+엄격한 설치:,Katı Yerleştirme:,tr-TR
+예기치 않은 블록 유형입니다: %s,Beklenmeyen blok türü bulundu: %s,tr-TR
+예상된 %s보다 빨리 성공했습니다,Beklenen tick'den önce başarıldı: beklenen tick %s,tr-TR
+용기가 다음을 포함해야 합니다: %s,Depo şu eşyayı barındırmalı: %s,tr-TR
+용기가 다음을 하나 포함해야 합니다: %s,Depo şu eşyadan bir tane barındırmalı: %s,tr-TR
+용기가 비어 있어야 합니다,Depo boş olmalı,tr-TR
+유형: %s,Tür: %s,tr-TR
+"이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.","Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.",tr-TR
+이름:,Ad:,tr-TR
+인정,Onayla,tr-TR
+인정 모드 - 테스트 (일부)의 성공을 인정합니다,Onay Modu - Bir testin (parçasının) başarısını onaylama,tr-TR
+잘못된 블록 개체 유형입니다: %s,Yanlış blok varlık türü: %s,tr-TR
+"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다","Geçersiz durum. %s beklendi, %s bulundu",tr-TR
+잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,tr-TR
+잘못된 테스트 ID입니다,Geçersiz test kimliği,tr-TR
+저장,KAYDET,tr-TR
+저장,Kaydet,tr-TR
+저장 모드 - 파일에 쓰기,Kayıt Modu - Dosyaya yaz,tr-TR
+저장: %s,Kaydet: %s,tr-TR
+"정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다","Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi",tr-TR
+조건이 %s에 이미 발동했습니다,Şart %s birim zamanda zaten tetiklendi,tr-TR
+조건이 발동하지 않았습니다,Şart tetiklenmedi,tr-TR
+주어진 블록은 블록 아이템이 아닙니다,Verilen blok bir blok eşyası değil,tr-TR
+직소 유지,Yapbozları Sakla,tr-TR
+차원: %s,Boyut: %s,tr-TR
+초기화하고 불러오기,Sıfırla ve Yükle,tr-TR
+테스트 %s을(를) 시작합니다,%s testi yürütülüyor,tr-TR
+테스트 %s을(를) 초기화하는 데 성공했습니다,Test sıfırlama başarılı oldu: %s,tr-TR
+테스트 구조물 크기,Test Yapısı Boyutu,tr-TR
+테스트 구조물에 %s 블록이 없습니다,Test yapısında %s bloğu eksik,tr-TR
+"테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다","Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi",tr-TR
+테스트 안에 %s이(가) 있어야 합니다,%s varlığının testte var olması beklendi,tr-TR
+테스트 인스턴스 ID,Test Birimi Kimliği,tr-TR
+"테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]","Test konumu: [%s, %s, %s] %s",tr-TR
+테스트를 위해 생물 군계를 설정하는 데 실패했습니다,Test için biyom değiştirilemedi,tr-TR
+투명 블록 표시:,Görünmez Blokları Göster:,tr-TR
+"플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]","Oyuncu konumu: [%s, %s, %s] %s",tr-TR
+함수: %s,Fonksiyon: %s,tr-TR
+해당하는 테스트 없음,Böyle bir test yok,tr-TR
+환경: %s,Çevre: %s,tr-TR
+회전 가능,Döndürülebilir,tr-TR
+회전:,Yön:,tr-TR

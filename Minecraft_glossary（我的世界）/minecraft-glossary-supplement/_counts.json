@@ -1,0 +1,77 @@
+{
+  "source": "https://zh.minecraft.wiki/w/Minecraft_Wiki:译名标准化",
+  "note": "此补充词库仅覆盖简体中文与繁体中文；行数 = 该语言文件夹内 CSV 数据行数",
+  "categories": {
+    "advancements": {
+      "entries": 126
+    },
+    "biomes": {
+      "entries": 67
+    },
+    "blocks": {
+      "entries": 1345
+    },
+    "effects": {
+      "entries": 40
+    },
+    "enchantments": {
+      "entries": 43
+    },
+    "entities": {
+      "entries": 161
+    },
+    "environment": {
+      "entries": 119
+    },
+    "game-content": {
+      "entries": 67
+    },
+    "game-modes": {
+      "entries": 18
+    },
+    "game-versions": {
+      "entries": 64
+    },
+    "items": {
+      "entries": 626
+    },
+    "other": {
+      "entries": 38
+    },
+    "technical": {
+      "entries": 58
+    }
+  },
+  "rows": {
+    "zh-CN": {
+      "advancements": 242,
+      "biomes": 117,
+      "blocks": 2561,
+      "effects": 73,
+      "enchantments": 82,
+      "entities": 289,
+      "environment": 205,
+      "game-content": 113,
+      "game-modes": 31,
+      "game-versions": 101,
+      "items": 1178,
+      "other": 64,
+      "technical": 101
+    },
+    "zh-TW": {
+      "advancements": 242,
+      "biomes": 117,
+      "blocks": 2561,
+      "effects": 73,
+      "enchantments": 82,
+      "entities": 289,
+      "environment": 205,
+      "game-content": 113,
+      "game-modes": 31,
+      "game-versions": 101,
+      "items": 1178,
+      "other": 64,
+      "technical": 101
+    }
+  }
+}

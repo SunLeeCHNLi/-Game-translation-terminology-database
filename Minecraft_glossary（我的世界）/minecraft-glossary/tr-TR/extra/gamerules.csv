@@ -1,0 +1,1493 @@
+﻿source,target,tgt_lng
+'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+A porcentagem de jogadores que devem dormir para passar a noite.,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+Accesso al Nether,Nether'a İzin Ver,tr-TR
+Accès au Nether,Nether'a İzin Ver,tr-TR
+Actions destructives des créatures,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+Activar la barra localizadora de jugadores,Oyuncu Konum Çubuğunu aç,tr-TR
+Actualisation du feu loin des joueurs,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+Actualisations du monde,Dünyadaki Hareketler,tr-TR
+Actualizaciones del mundo,Dünyadaki Hareketler,tr-TR
+Administratorbefehle protokollieren,Yönetici komutları gösterilsin,tr-TR
+Advance time of day,Gece-gündüz döngüsü olsun,tr-TR
+"Al explotar (criaturas), algunos bloques no soltarán objetos","Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+"Al explotar (por bloques), algunos bloques no soltarán objetos","Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+"Al verificarsi di determinati eventi, come la generazione di un boss, il suono verrà udito globalmente.","Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+Alcune entità potrebbero avere regole separate.,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+Algumas entidades podem ter regras separadas.,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+Algunas entidades pueden tener sus propias reglas.,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de criaturas desaparecen con la explosión.,Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de interacciones con bloques desaparecen con la explosión.,Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de la dinamita desaparecen con la explosión.,TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Allgemeine Verärgerung,Evrensel öfke,tr-TR
+Allow destructive mob actions,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.","Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+Allow Nether,Nether'a İzin Ver,tr-TR
+Allow spectators to generate terrain,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+Allow TNT to be activated and to explode,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+Altezza di accumulo della neve,Kar birikme yüksekliği,tr-TR
+Altura de acumulación de nieve,Kar birikme yüksekliği,tr-TR
+Altura de acumulação de neve,Kar birikme yüksekliği,tr-TR
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+Angered neutral mobs stop being angry when the targeted player dies nearby.,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+Announce advancements,Gelişimler gösterilsin,tr-TR
+Anunciar comandos de administrador,Yönetici komutları gösterilsin,tr-TR
+Anunciar progresos,Gelişimler gösterilsin,tr-TR
+Anunciar progressos,Gelişimler gösterilsin,tr-TR
+Anunciar saída dos Blocos de Comando,Komut bloğu çıktıları gösterilsin,tr-TR
+"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+"Ao ativar, uma barra na tela indica a direção dos jogadores.",Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.","Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+Aplicável às cadeias de blocos de comando e funções.,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+Apparition,Oluşum,tr-TR
+Apparition des créatures,Canlılar oluşsun,tr-TR
+Apparition des marchands ambulants,Seyyar Tüccarlar oluşsun,tr-TR
+Apparition des monstres,Canavarlar Oluşsun,tr-TR
+Apparition des patrouilles de pillards,Yağmacı devriyeleri oluşsun,tr-TR
+Apparition des Phantoms,Kâbuslar oluşsun,tr-TR
+Apparition des Wardens,Muhafızlar oluşsun,tr-TR
+Applies to command block chains and functions.,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+Are you sure you want to discard your pending game rule changes?,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+As entidades com passageiros podem atravessar portais,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+Ativar Barra Localizadora de jogadores,Oyuncu Konum Çubuğunu aç,tr-TR
+Ativar Blocos de Comando,Komut Bloklarını Etkinleştir,tr-TR
+Ativar Blocos Geradores,Çağırıcı Bloklarını Etkinleştir,tr-TR
+Ativar invasões,Baskınlar olsun,tr-TR
+Ativar PvP,Pvp'yi etkinleştir,tr-TR
+Atraso do Portal do Nether em modo não Criativo,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Atraso do Portal do Nether no Modo Criativo,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Atualizar as regras do jogo requer permissões de operador.,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+Ausbeute,Düşenler,tr-TR
+Avanzar ciclo de día y noche,Gece-gündüz döngüsü olsun,tr-TR
+Azioni distruttive delle creature,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+Baixando regras do jogo...,Oyun kuralları alınıyor,tr-TR
+Barra localizzatrice,Oyuncu Konum Çubuğunu aç,tr-TR
+Barre de localisation,Oyuncu Konum Çubuğunu aç,tr-TR
+Befehlsausgabe anzeigen,Komut geri bildirimi gösterilsin,tr-TR
+Befehlsblockausgabe anzeigen,Komut bloğu çıktıları gösterilsin,tr-TR
+Befehlsblöcke,Komut Bloklarını Etkinleştir,tr-TR
+Begrenzt die Inhalte der Debug‐Anzeige.,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+"Bist du sicher, dass du die ausstehenden Änderungen der Spielregeln verwerfen möchtest?",Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+Blocchi comandi funzionanti,Komut Bloklarını Etkinleştir,tr-TR
+Blockausbeute fallen lassen,Bloklar düşsün,tr-TR
+Blockgrenze für Befehlsänderungen,Komut değişikliği blok sınırı,tr-TR
+Blockzerstörung durch Geschosse,Atılabilirler blokları kırabilir,tr-TR
+Block‐Explosionsausbeute verschwindet,"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+Blocs de commande activés,Komut Bloklarını Etkinleştir,tr-TR
+Broadcast admin commands,Yönetici komutları gösterilsin,tr-TR
+Broadcast command block output,Komut bloğu çıktıları gösterilsin,tr-TR
+Butin des blocs,Bloklar düşsün,tr-TR
+Butin des créatures,Canlı ganimeti düşsün,tr-TR
+Butin des entités,Varlık ekipmanı düşsün,tr-TR
+Butins,Düşenler,tr-TR
+Bán kính lan lửa,Ateş yayılma yarıçapı,tr-TR
+Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+Bán kính vị trí hồi sinh,Yeniden canlanma yeri çevresi,tr-TR
+Bán kính đoạn khúc hồi sinh,Başlangıç yığınları yarıçapı,tr-TR
+Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+Bật các cuộc xâm lược,Baskınlar olsun,tr-TR
+Bật khối lệnh,Komut Bloklarını Etkinleştir,tr-TR
+Bật khối triệu hồi,Çağırıcı Bloklarını Etkinleştir,tr-TR
+Bật PVP,Pvp'yi etkinleştir,tr-TR
+Bật thanh định vị người chơi,Oyuncu Konum Çubuğunu aç,tr-TR
+Cambiar las reglas del juego requiere permisos de administrador.,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+Cambios en las reglas del juego,Oyun Kuralı Değişiklikleri,tr-TR
+Cannot change game rules in a hardcore world.,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+"Cantidad de bloques que se pueden cambiar a la vez con un solo comando, como «/fill» o «/clone».",Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+Cantidad de chunks que se mantienen cargados alrededor del punto de aparición.,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+Cargar fuego lejos de los jugadores,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+Causar dano por afogamento,Boğulma hasarı alma,tr-TR
+Causar dano por congelamento,Donma hasarı alma,tr-TR
+Causar dano por fogo,Ateş hasarı alma,tr-TR
+Causar dano por queda,Düşme hasarı alma,tr-TR
+Certaines entités peuvent avoir des règles distinctes.,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+Certains butins des blocs détruits par des explosions de créatures sont perdus dans l'explosion.,Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Certains butins des blocs détruits par des explosions de TNT sont perdus dans l'explosion.,TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Certains butins des blocs détruits par des explosions dues à des interactions de blocs sont perdus dans l'explosion.,Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Chat,Sohbet,tr-TR
+Chiều cao tích tụ tuyết,Kar birikme yüksekliği,tr-TR
+Cho phép hành động sinh vật phá hoại,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+Cho phép khán giả tạo địa hình,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+Cho phép Nether,Nether'a İzin Ver,tr-TR
+"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.","Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+Cho phép TNT được kích hoạt và phát nổ,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+Chỉnh sửa luật chơi,Oyun Kurallarını Düzenle,tr-TR
+Chỉnh sửa luật chơi...,Oyun Kurallarını Düzenle...,tr-TR
+Ciclo circadiano,Gece-gündüz döngüsü olsun,tr-TR
+Ciclo meteorológico,Hava durumu döngüsü olsun,tr-TR
+Ciclos do mundo,Dünyadaki Hareketler,tr-TR
+Colère universelle,Evrensel öfke,tr-TR
+Combattimento tra giocatori,Pvp'yi etkinleştir,tr-TR
+Command chain size limit,Komut zinciri uzunluk sınırı,tr-TR
+Command context limit,Komut bağlam limiti,tr-TR
+Command modification block limit,Komut değişikliği blok sınırı,tr-TR
+Commandes d'administrateur affichées,Yönetici komutları gösterilsin,tr-TR
+Comprobar movimiento con élitros,Elitra hareketini denetle,tr-TR
+Comprobar movimiento del jugador,Oyuncu hareketini denetle,tr-TR
+"Consenti alle entità con passeggeri di teletrasportarsi attraverso i portali del Nether, i portali dell'End e i varchi dell'End.","Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+Conservation de l'inventaire après la mort,Öldükten sonra envanteri koru,tr-TR
+Conservazione dell'inventario dopo la morte,Öldükten sonra envanteri koru,tr-TR
+Controla el tamaño de la zona alrededor del punto de reaparición donde pueden aparecer los jugadores.,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+"Controla que las criaturas puedan soltar recursos, incluyendo orbes de experiencia.",Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+"Controla que los bloques puedan soltar recursos, incluyendo orbes de experiencia.",Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+Controla si el fuego o la lava deberían estar cargados al estar a más de 8 chunks de distancia de cualquier jugador.,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+Controla si el impacto de proyectiles destruirá bloques a los que normalmente puede destruir.,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+"Controla si las enredaderas se propagan a bloques adyacentes. No afecta otros tipos de enredaderas como enredaderas lacrimosas o enredaderas retorcidas, entre otras.","Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+Controla si los jugadores pueden dañar a otros jugadores o no.,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+Controla si los jugadores pueden entrar en el Nether.,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+Controla si los monstruos aparecen naturalmente o no.,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.","Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+"Controls resource drops from blocks, including experience orbs.",Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+"Controls resource drops from mobs, including experience orbs.",Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+Controls the size of the area around the spawn point that players can spawn in.,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+Controls whether impact projectiles will destroy blocks that are destructible by them.,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+Controls whether monsters naturally spawn.,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+Controls whether players are allowed to damage other players.,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+Controls whether players are allowed to enter the Nether.,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.","Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+"Contrôle la propagation aléatoire des lianes sur les blocs adjacents. Cela n'affecte pas les autres types de lianes tels que les lianes pleureuses, les lianes tortueuses, etc.","Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+Contrôle la taille de la zone autour du point d'apparition dans laquelle les joueurs peuvent apparaître.,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+"Contrôle les butins des blocs, y compris les orbes d'expérience.",Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+"Contrôle les butins des créatures, y compris les orbes d'expérience.",Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+"Contrôle les butins des wagonnets (y compris leur inventaire), des cadres, des bateaux, etc.","Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+Contrôle si le feu et la lave peuvent s'actualiser à plus de 8 chunks de n'importe quel joueur.,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+Contrôle si les joueurs peuvent entrer dans le Nether.,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+Contrôle si les joueurs peuvent infliger des dégâts aux autres joueurs.,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+Contrôle si les monstres apparaissent naturellement.,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+Contrôle si les perles de l'Ender lancées par un joueur disparaissent lorsque celui-ci meurt.,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+Contrôle si les projectiles détruisent les blocs destructibles par ceux-ci à l'impact.,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+Conversione d'acqua in sorgente,"Su, kaynağa dönüşsün",tr-TR
+Conversione di lava in sorgente,"Lav, kaynağa dönüşsün",tr-TR
+Creature,Canlılar,tr-TR
+Creature,Canlılar oluşsun,tr-TR
+Criaturas,Canlılar,tr-TR
+Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+Créatures,Canlılar,tr-TR
+"Cuando está activada, se muestra una barra en la pantalla que indica la dirección de otros jugadores.",Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+"Cuando nieva, se forma este número máximo de capas de nieve en el suelo.","Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+"Cuando se producen ciertos eventos durante la partida, como que aparezca un jefe, el sonido se escucha en todas partes.","Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+"Cuando una corriente de agua está rodeada de más agua por dos de sus lados, se convierte en una fuente.","Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"Cuando una corriente de lava está rodeada de más lava por dos de sus lados, se convierte en una fuente.","Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+Cycle jour-nuit,Gece-gündüz döngüsü olsun,tr-TR
+Cycle météorologique,Hava durumu döngüsü olsun,tr-TR
+Cập nhật luật chơi yêu cầu quyền người điều hành.,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+Cập nhật lửa,Ateş yayılabilsin,tr-TR
+Cập nhật thế giới,Dünyadaki Hareketler,tr-TR
+Cập nhật thời tiết,Hava durumu döngüsü olsun,tr-TR
+Danno da annegamento,Boğulma hasarı alma,tr-TR
+Danno da bruciatura,Ateş hasarı alma,tr-TR
+Danno da caduta,Düşme hasarı alma,tr-TR
+Danno da congelamento,Donma hasarı alma,tr-TR
+Das Ändern der Spielregeln erfordert Operatorrechte.,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+Daño por ahogamiento,Boğulma hasarı alma,tr-TR
+Daño por caída,Düşme hasarı alma,tr-TR
+Daño por congelamiento,Donma hasarı alma,tr-TR
+Daño por fuego,Ateş hasarı alma,tr-TR
+Deal drowning damage,Boğulma hasarı alma,tr-TR
+Deal fall damage,Düşme hasarı alma,tr-TR
+Deal fire damage,Ateş hasarı alma,tr-TR
+Deal freeze damage,Donma hasarı alma,tr-TR
+Debug‐Infos reduzieren,Hata ayıklama bilgisini azalt,tr-TR
+Default: %s,Varsayılan: %s,tr-TR
+"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.","Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+Define o tamanho do ponto de renascimento dos jogadores.,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+"Define os itens largados pelos blocos, incluindo as esferas de experiência.",Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.","Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+"Define os itens largados por criaturas, incluindo as esferas de experiência.",Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+Define se os jogadores podem atacar outros jogadores.,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+Define se os jogadores podem entrar no Nether.,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+Define se os monstros podem ser gerados naturalmente.,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+Demora para teletransportarse al Nether en creativo,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Demora para teletransportarse al Nether por defecto,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+"Der Prozentsatz an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.",Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+"Der Radius in Blöcken um einen Spieler, in dem sich Feuer ausbreiten kann.",Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+Desactivar control de movimiento de los jugadores,Oyuncu hareket denetimini kapat,tr-TR
+Desactivar control de movimiento de élitros,Elitra hareket hızı kontrolünü kapat,tr-TR
+Desactivar invasiones,Baskınları kapat,tr-TR
+Desativar invasões,Baskınları kapat,tr-TR
+Desativar verificação de movimento do jogador,Oyuncu hareket denetimini kapat,tr-TR
+Desativar verificação de movimento dos Élitros,Elitra hareket hızı kontrolünü kapat,tr-TR
+Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+Destruction des blocs par des projectiles,Atılabilirler blokları kırabilir,tr-TR
+Destruir Pérolas de Ender lançadas ao morrer,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+"Determina i rilasci dei vagonetti (compresi gli inventari), delle cornici, delle barche ecc.","Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+Determina la dimensione dell'area intorno al punto di generazione dei giocatori.,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+Determina la propagazione casuale dei rampicanti verso i blocchi adiacenti. Non ha effetto sugli altri tipi di rampicanti (come i rampicanti piangenti o i rampicanti attorcigliati).,"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+"Determina le risorse che vengono rilasciate dalle creature, comprese le sfere di esperienza.",Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+"Determina le risorse rilasciate dai blocchi, comprese le sfere di esperienza.",Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+Determina se i giocatori possono entrare nel Nether attraverso i portali.,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+Determina se i giocatori possono infliggere danno agli altri giocatori.,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+Determina se i mostri si generano naturalmente.,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+Determina se i proiettili da impatto possono distruggere i blocchi vulnerabili.,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+Determina se il fuoco e la lava sono attivi anche a una distanza maggiore di 8 chunk da ogni giocatore.,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+"Die Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.",Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+"Die Anzahl der Chunks um den Einstiegspunkt in der Oberwelt, die dauerhaft geladen bleiben.",Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+Die Spielregeln können in einer Hardcore‐Welt nicht angepasst werden.,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+Disable elytra movement check,Elitra hareket hızı kontrolünü kapat,tr-TR
+Disable player movement check,Oyuncu hareket denetimini kapat,tr-TR
+Disable raids,Baskınları kapat,tr-TR
+Disparition des perles de l'Ender lancées à la mort,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+Distruzione dei blocchi tramite proiettili,Atılabilirler blokları kırabilir,tr-TR
+Divers,Çeşitli,tr-TR
+Diversos,Çeşitli,tr-TR
+Do elytra movement check,Elitra hareketini denetle,tr-TR
+Do player movement check,Oyuncu hareketini denetle,tr-TR
+Do raids,Baskınlar olsun,tr-TR
+Drop blocks,Bloklar düşsün,tr-TR
+Drop entity equipment,Varlık ekipmanı düşsün,tr-TR
+Drop mob loot,Canlı ganimeti düşsün,tr-TR
+Drops,Düşenler,tr-TR
+Dung nham chuyển thành nguồn,"Lav, kaynağa dönüşsün",tr-TR
+Dây leo lan ra,Sarmaşıklar yayılsın,tr-TR
+Dégâts de chute,Düşme hasarı alma,tr-TR
+Dégâts de feu,Ateş hasarı alma,tr-TR
+Dégâts de gel,Donma hasarı alma,tr-TR
+Dégâts de noyade,Boğulma hasarı alma,tr-TR
+Délai du portail du Nether,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Délai du portail du Nether en mode Créatif,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Edit Game Rules,Oyun Kurallarını Düzenle,tr-TR
+Edit Game Rules...,Oyun Kurallarını Düzenle...,tr-TR
+Editar las reglas del juego,Oyun Kurallarını Düzenle,tr-TR
+Editar las reglas del juego...,Oyun Kurallarını Düzenle...,tr-TR
+Editar regras do jogo,Oyun Kurallarını Düzenle,tr-TR
+Editar regras do jogo...,Oyun Kurallarını Düzenle...,tr-TR
+"Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.",Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+"Einiges von der Ausbeute von Blöcken, die durch TNT‐Explosionen zerstört werden, geht dabei verloren.",TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+"Einiges von der Ausbeute von Blöcken, die durch von Kreaturen verursachte Explosionen zerstört werden, geht dabei verloren.",Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Einstiegs‐Chunk‐Radius,Başlangıç yığınları yarıçapı,tr-TR
+El agua se convierte en fuente,"Su, kaynağa dönüşsün",tr-TR
+El número máximo de contextos que se pueden utilizar en comandos como «execute as».,’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+El porcentaje necesario de jugadores que deben dormir para pasar la noche.,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+El radio en bloques alrededor de un jugador en el que el fuego puede expandirse,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+Elytrenflug nicht überprüfen,Elitra hareket hızı kontrolünü kapat,tr-TR
+Elytren‐Bewegungsprüfung,Elitra hareketini denetle,tr-TR
+"En explosiones por dinamita, algunos bloques no soltarán objetos","TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+Enable Command Blocks,Komut Bloklarını Etkinleştir,tr-TR
+Enable player Locator Bar,Oyuncu Konum Çubuğunu aç,tr-TR
+Enable pvp,Pvp'yi etkinleştir,tr-TR
+Enable Spawner Blocks,Çağırıcı Bloklarını Etkinleştir,tr-TR
+Enderperlen‐Mitleidenschaft,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+Entities with passengers can use portals,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+Entity cramming threshold,Varlık sıkışması alt sınırı,tr-TR
+Entzünden und Explodieren von TNT,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+Enviar respuestas de comandos,Komut geri bildirimi gösterilsin,tr-TR
+Erfrierungsschaden,Donma hasarı alma,tr-TR
+"Ermöglicht es Objekten mit Passagieren, sich durch Nether‐, End‐ und Endtransitportale zu teleportieren.","Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+Erzeugung,Oluşum,tr-TR
+Esito dei blocchi comandi,Komut bloğu çıktıları gösterilsin,tr-TR
+Eventi sonori globali,Küresel ses olayları,tr-TR
+Eventos de sonido globales,Küresel ses olayları,tr-TR
+Eventos sonoros globais,Küresel ses olayları,tr-TR
+Exigir receitas para fabricação,Üretim için tarif gereksin,tr-TR
+Exigir recetas para poder fabricar,Üretim için tarif gereksin,tr-TR
+Explosion de TNT,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+Fabbricazione limitata,Üretim için tarif gereksin,tr-TR
+Fahrende Händler erzeugen,Seyyar Tüccarlar oluşsun,tr-TR
+Fallschaden,Düşme hasarı alma,tr-TR
+Fantasmi,Kâbuslar oluşsun,tr-TR
+Feuerausbreitung,Ateş yayılabilsin,tr-TR
+Feuerausbreitungs‐Radius,Ateş yayılma yarıçapı,tr-TR
+Feuerschaden,Ateş hasarı alma,tr-TR
+fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+Fire spread radius,Ateş yayılma yarıçapı,tr-TR
+Forgive dead players,Ölü oyuncular affedilsin,tr-TR
+Fortschritte bekannt geben,Gelişimler gösterilsin,tr-TR
+Frequenza dei tick casuali,Rastgele zaman birimi ilerleme oranı,tr-TR
+Fúria universal,Evrensel öfke,tr-TR
+Für einige Objekte können eigene Regeln gelten.,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+Game Rule Changes,Oyun Kuralı Değişiklikleri,tr-TR
+Generación de criaturas,Oluşum,tr-TR
+Generar bandas de saqueadores,Yağmacı devriyeleri oluşsun,tr-TR
+Generar criaturas,Canlılar oluşsun,tr-TR
+Generar fantasmas,Kâbuslar oluşsun,tr-TR
+Generar monstruos,Canavarlar Oluşsun,tr-TR
+Generar terreno en modo espectador,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+Generar vendedores ambulantes,Seyyar Tüccarlar oluşsun,tr-TR
+Generar wardens,Muhafızlar oluşsun,tr-TR
+Generatori funzionanti,Çağırıcı Bloklarını Etkinleştir,tr-TR
+Generazione,Oluşum,tr-TR
+Generazione di terreno da parte degli spettatori,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+Gerar criaturas,Canlılar oluşsun,tr-TR
+Gerar Defensores,Muhafızlar oluşsun,tr-TR
+Gerar Espectros,Kâbuslar oluşsun,tr-TR
+Gerar Mercadores Ambulantes,Seyyar Tüccarlar oluşsun,tr-TR
+Gerar monstros,Canavarlar Oluşsun,tr-TR
+Gerar patrulhas de Saqueadores,Yağmacı devriyeleri oluşsun,tr-TR
+Gerar terreno para os espectadores,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+Geração,Oluşum,tr-TR
+Gestorbenen Spielern vergeben,Ölü oyuncular affedilsin,tr-TR
+Gesundheit regenerieren,Sağlık yenilensin,tr-TR
+Giocatore,Oyuncu,tr-TR
+Giảm thông tin gỡ lỗi,Hata ayıklama bilgisini azalt,tr-TR
+Giận dữ toàn diện,Evrensel öfke,tr-TR
+Giới hạn kích cỡ chuỗi lệnh,Komut zinciri uzunluk sınırı,tr-TR
+Giới hạn ngữ cảnh lệnh,Komut bağlam limiti,tr-TR
+Giới hạn nội dung của màn hình gỡ lỗi.,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+Giới hạn số khối sửa đổi bởi lệnh,Komut değişikliği blok sınırı,tr-TR
+Giữ túi đồ sau khi chết,Öldükten sonra envanteri koru,tr-TR
+Global sound events,Küresel ses olayları,tr-TR
+Gây sát thương lửa,Ateş hasarı alma,tr-TR
+Gây sát thương rơi,Düşme hasarı alma,tr-TR
+Gây sát thương đuối nước,Boğulma hasarı alma,tr-TR
+Gây sát thương đóng băng,Donma hasarı alma,tr-TR
+Générateurs activés,Çağırıcı Bloklarını Etkinleştir,tr-TR
+Génération du terrain par les spectateurs,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+Gửi phản hồi về lệnh,Komut geri bildirimi gösterilsin,tr-TR
+Hauteur d'accumulation de la neige,Kar birikme yüksekliği,tr-TR
+Hiển thị thông báo chết,Ölüm iletileri gösterilsin,tr-TR
+Häufigkeit von Zufallsereignissen,Rastgele zaman birimi ilerleme oranı,tr-TR
+"Höchstgeschwindigkeit, die eine Lore an Land standardmäßig erreichen kann.",Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+Hồi phục sinh lực,Sağlık yenilensin,tr-TR
+"If enabled, players will be able to craft only unlocked recipes.",Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+Il raggio in blocchi intorno a un giocatore entro cui il fuoco può propagarsi,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+Impossible de modifier les règles de jeu dans un monde Hardcore.,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+"In block interaction explosions, some blocks won't drop their loot","Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+"In mob explosions, some blocks won't drop their loot","Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+"In TNT explosions, some blocks won't drop their loot","TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+Incursioni,Baskınlar olsun,tr-TR
+Incursioni disattivate,Baskınları kapat,tr-TR
+Informazioni diagnostiche ridotte,Hata ayıklama bilgisini azalt,tr-TR
+Infos de débogage réduites,Hata ayıklama bilgisini azalt,tr-TR
+Innesco ed esplosione di TNT,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+Invasiones,Baskınlar olsun,tr-TR
+Invasions,Baskınlar olsun,tr-TR
+Invasions désactivées,Baskınları kapat,tr-TR
+Inventar nach dem Tod behalten,Öldükten sonra envanteri koru,tr-TR
+Ira universal,Evrensel öfke,tr-TR
+Itens largados,Düşenler,tr-TR
+Jogador,Oyuncu,tr-TR
+Joueur,Oyuncu,tr-TR
+Joueurs morts pardonnés,Ölü oyuncular affedilsin,tr-TR
+Jugador,Oyuncu,tr-TR
+Keep inventory after death,Öldükten sonra envanteri koru,tr-TR
+"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.","Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.","Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.","Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.","Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+Khác,Çeşitli,tr-TR
+Không thể thay đổi luật chơi trong thế giới siêu khó.,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.","Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+Kiểm soát người chơi được phép vào Nether hay không.,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+Kiểm soát quái vật sinh ra tự nhiên hay không.,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.","Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+Kiểm tra chuyển động của cánh cứng,Elitra hareketini denetle,tr-TR
+Kiểm tra chuyển động của người chơi,Oyuncu hareketini denetle,tr-TR
+Kreaturen,Canlılar,tr-TR
+Kreaturen erzeugen,Canlılar oluşsun,tr-TR
+Kreaturenausbeute fallen lassen,Canlı ganimeti düşsün,tr-TR
+Kreatur‐Explosionsausbeute verschwindet,"Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+La lava se convierte en fuente,"Lav, kaynağa dönüşsün",tr-TR
+La mise à jour des règles de jeu nécessite des permissions d'opérateur.,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+La percentuale di giocatori che devono dormire per saltare la notte.,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+La vitesse maximale par défaut des wagonnets en mouvement sur le sol.,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+Largar blocos,Bloklar düşsün,tr-TR
+Largar itens de criaturas,Canlı ganimeti düşsün,tr-TR
+Largar itens de entidades,Varlık ekipmanı düşsün,tr-TR
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar.
+Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar. Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+Las criaturas neutrales que estén enfadadas dejarán de estarlo cuando el jugador al que persigan muera cerca.,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+Las entidades con pasajeros pueden utilizar portales,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+Las perlas de ender lanzadas desaparecen al morir,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+Las perlas de ender lanzadas por un jugador desaparecen cuando este muere.,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+Lava converts to source,"Lav, kaynağa dönüşsün",tr-TR
+Lava‐Erneuerbarkeit,"Lav, kaynağa dönüşsün",tr-TR
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgive_dead_players» è disattivata.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgiveDeadPlayers» è disattivata.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+Le creature neutrali che sono state provocate smettono di essere arrabbiate quando il giocatore puntato muore nelle vicinanze.,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+Le entità con passeggeri possono attraversare i portali,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+"Le nombre de blocs qui peuvent être modifiés à la fois par une commande, telle que /fill ou /clone.",Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+Le nombre de chunks qui restent chargés autour du point d'apparition de la Surface.,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+"Le nombre maximal de contextes qui peuvent être utilisés par des commandes telles que ""execute as"".",’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+Le pourcentage de joueurs qui doivent dormir pour passer la nuit.,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+Le rayon (en blocs) autour d'un joueur dans lequel le feu peut se propager.,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+Le regole di gioco possono essere cambiate solo dagli operatori.,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+Le regole di gioco sono bloccate nei mondi in modalità estrema.,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+Le temps (en ticks) pendant lequel un joueur en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Le temps (en ticks) pendant lequel un joueur qui n'est pas en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgive_dead_players"" est désactivée.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgiveDeadPlayers"" est désactivée.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+Les créatures neutres en colère redeviennent calmes lorsque le joueur ciblé meurt à proximité.,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+Limita el contenido de la pantalla de desarrollo al pulsar F3.,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+Limita il contenuto del cruscotto diagnostico.,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+Limite d'ammassamento delle entità,Varlık sıkışması alt sınırı,tr-TR
+Limite d'entassement des entités,Varlık sıkışması alt sınırı,tr-TR
+Limite de blocos modificados por comando,Komut değişikliği blok sınırı,tr-TR
+Limite de blocs modifiables par commande,Komut değişikliği blok sınırı,tr-TR
+Limite de comandos em cadeia,Komut zinciri uzunluk sınırı,tr-TR
+Limite de contextes des commandes,Komut bağlam limiti,tr-TR
+Limite de contextos por comando,Komut bağlam limiti,tr-TR
+Limite dei blocchi modificabili per comando,Komut değişikliği blok sınırı,tr-TR
+Limite dei contesti dei comandi,Komut bağlam limiti,tr-TR
+Limite delle catene di comandi,Komut zinciri uzunluk sınırı,tr-TR
+Limite des chaînes de commandes,Komut zinciri uzunluk sınırı,tr-TR
+Limite le contenu de l'écran de débogage.,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+Limits contents of debug screen.,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+Loren‐Höchstgeschwindigkeit,En yüksek vagon hızı,tr-TR
+"Lorsqu'il neige, les couches de neige qui se forment sur le sol peuvent atteindre cette hauteur.","Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+"Lorsqu'un écoulement d'eau est entouré de deux sources d'eau, il se transforme en source.","Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"Lorsqu'un écoulement de lave est entouré de deux sources de lave, il se transforme en source.","Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"Lorsque certains événements se produisent dans le jeu, comme l'apparition d'un boss, le son est entendu partout.","Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+Los proyectiles pueden romper bloques,Atılabilirler blokları kırabilir,tr-TR
+Límite de bloques modificables por comandos,Komut değişikliği blok sınırı,tr-TR
+Límite de comandos encadenados,Komut zinciri uzunluk sınırı,tr-TR
+Límite de contextos del comando,Komut bağlam limiti,tr-TR
+Límite de entidades por bloque,Varlık sıkışması alt sınırı,tr-TR
+Lập tức hồi sinh,Anında yeniden canlanma,tr-TR
+Mantener inventario tras morir,Öldükten sonra envanteri koru,tr-TR
+Manter o inventário ao morrer,Öldükten sonra envanteri koru,tr-TR
+"Maximale Anzahl an Befehlsrahmen, die von Befehlen wie „execute as“ benutzt werden können.",’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+Maximum default speed of a moving Minecart on land.,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+Maximum number of contexts that can be used by commands like 'execute as'.,’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+Mercanti ambulanti,Seyyar Tüccarlar oluşsun,tr-TR
+Messages de mort,Ölüm iletileri gösterilsin,tr-TR
+Messaggi di morte,Ölüm iletileri gösterilsin,tr-TR
+Minecart max speed,En yüksek vagon hızı,tr-TR
+Miscellaneous,Çeşitli,tr-TR
+Mob,Canlılar,tr-TR
+Mobs,Canlılar,tr-TR
+Mobがアイテムや経験値オーブをドロップするかを設定できます。,Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Mobのアイテムのドロップ,Canlı ganimeti düşsün,tr-TR
+Mobのスポーン,Canlılar oluşsun,tr-TR
+Mobの破壊行動の許可,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+Mob爆発時にブロックがドロップアイテムを落とさない可能性,"Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+Modifica le regole di gioco,Oyun Kurallarını Düzenle,tr-TR
+Modification des règles de jeu,Oyun Kurallarını Düzenle,tr-TR
+Modifications des règles de jeu,Oyun Kuralı Değişiklikleri,tr-TR
+Monster erzeugen,Canavarlar Oluşsun,tr-TR
+Mostrar mensagens de morte,Ölüm iletileri gösterilsin,tr-TR
+Mostrar mensajes de muerte,Ölüm iletileri gösterilsin,tr-TR
+Mostrar respostas dos comandos,Komut geri bildirimi gösterilsin,tr-TR
+Mostri,Canavarlar Oluşsun,tr-TR
+Mudanças nas regras do jogo,Oyun Kuralı Değişiklikleri,tr-TR
+Mặc định: %s,Varsayılan: %s,tr-TR
+Một vài thực thể có thể sẽ có luật riêng biệt.,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Natura,Dünyadaki Hareketler,tr-TR
+Netherportal‐Verzögerung,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Netherportal‐Verzögerung im Kreativmodus,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Netherportal‐Zugang,Nether'a İzin Ver,tr-TR
+Người chơi,Oyuncu,tr-TR
+Ngưỡng nhồi nhét thực thể,Varlık sıkışması alt sınırı,tr-TR
+Ngọc Ender được ném ra biến mất khi chết,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+No se pueden cambiar las reglas del juego en modo extremo.,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+Notificar uso de bloques de comandos,Komut bloğu çıktıları gösterilsin,tr-TR
+Notificar uso de comandos de admin.,Yönetici komutları gösterilsin,tr-TR
+Numero di chunk che rimangono caricati intorno al punto di generazione globale.,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+Numero massimo di blocchi che possono essere cambiati contemporaneamente da un solo comando (come «/fill» o «/clone»).,Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+Numero massimo di contesti che possono essere usati da comandi come «/execute as».,’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+Não largar todos os itens com explosões de blocos,"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+Não largar todos os itens com explosões de criaturas,"Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+Não largar todos os itens com explosões de TNT,"TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+Número máximo de entidades agrupadas,Varlık sıkışması alt sınırı,tr-TR
+Nước chuyển thành nguồn,"Su, kaynağa dönüşsün",tr-TR
+"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+Obergrenze für Befehlsketten,Komut zinciri uzunluk sınırı,tr-TR
+Obergrenze für Befehlsrahmen,Komut bağlam limiti,tr-TR
+Obergrenze für Objektgedränge,Varlık sıkışması alt sınırı,tr-TR
+Objektausbeute fallen lassen,Varlık ekipmanı düşsün,tr-TR
+Obtención de objetos,Düşenler,tr-TR
+Obtener botín de criaturas,Canlı ganimeti düşsün,tr-TR
+Obteniendo las reglas del juego...,Oyun kuralları alınıyor,tr-TR
+Padrão: %s,Varsayılan: %s,tr-TR
+Par défaut : %s,Varsayılan: %s,tr-TR
+Pattuglie di predoni,Yağmacı devriyeleri oluşsun,tr-TR
+Percentuale di giocatori addormentati,Uyuma yüzdesi,tr-TR
+Perdita dei rilasci con le esplosioni dei blocchi,"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+Perdita dei rilasci con le esplosioni delle creature,"Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+Perdita dei rilasci con le esplosioni di TNT,"TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+Perdoar jogadores mortos,Ölü oyuncular affedilsin,tr-TR
+Perdonar jugadores muertos,Ölü oyuncular affedilsin,tr-TR
+Perdono dei giocatori morti,Ölü oyuncular affedilsin,tr-TR
+"Permet aux entités avec des passagers de se téléporter au travers des portails du Nether et de l'End, et des passerelles de l'End.","Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+"Permite a las entidades viajar con pasajeros a través de portales del Nether, del End y nexos del End.","Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.","Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+"Permite que se recupere una entidad al romperla. Afecta a vagonetas (incluyendo sus inventarios), marcos, barcas, etc.","Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+Permitir acesso ao Nether,Nether'a İzin Ver,tr-TR
+Permitir ativação e explosão de TNT,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+Permitir ações destrutivas de criaturas,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+Permitir bloques de comandos,Komut Bloklarını Etkinleştir,tr-TR
+Permitir explosiones de dinamita,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+Permitir generadores de criaturas,Çağırıcı Bloklarını Etkinleştir,tr-TR
+Permitir JcJ (PvP),Pvp'yi etkinleştir,tr-TR
+Permitir Nether,Nether'a İzin Ver,tr-TR
+Permitir que las criaturas destruyan,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+Perte de butin dans les explosions de blocs,"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+Perte de butin dans les explosions de créatures,"Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+Perte de butin dans les explosions de TNT,"TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+Phantome erzeugen,Kâbuslar oluşsun,tr-TR
+Player,Oyuncu,tr-TR
+Player's Nether Portal delay in creative mode,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Player's Nether Portal delay in non-creative mode,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Plünderer‐Patrouillen erzeugen,Yağmacı devriyeleri oluşsun,tr-TR
+Por defecto: %s,Varsayılan: %s,tr-TR
+Porcentagem de sono,Uyuma yüzdesi,tr-TR
+Porcentaje de jugadores para dormir,Uyuma yüzdesi,tr-TR
+Portalnutzung durch Objekte mit Passagieren,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+Pourcentage de joueurs endormis,Uyuma yüzdesi,tr-TR
+Predefinito: %s,Varsayılan: %s,tr-TR
+Progressi annunciati,Gelişimler gösterilsin,tr-TR
+Progrès annoncés,Gelişimler gösterilsin,tr-TR
+Projectiles can break blocks,Atılabilirler blokları kırabilir,tr-TR
+Propagación de enredaderas,Sarmaşıklar yayılsın,tr-TR
+Propagación del fuego,Ateş yayılabilsin,tr-TR
+Propagation des lianes,Sarmaşıklar yayılsın,tr-TR
+Propagation du feu,Ateş yayılabilsin,tr-TR
+Propagazione dei rampicanti,Sarmaşıklar yayılsın,tr-TR
+Propagazione del fuoco,Ateş yayılabilsin,tr-TR
+Propagazione distante del fuoco,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+Propagação de trepadeiras,Sarmaşıklar yayılsın,tr-TR
+Propagação distante de fogo,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+Propagação do fogo,Ateş yayılabilsin,tr-TR
+PvP,Pvp'yi etkinleştir,tr-TR
+pvp 켜기,Pvp'yi etkinleştir,tr-TR
+PvPの有効化,Pvp'yi etkinleştir,tr-TR
+"Quando attiva, viene mostrata una barra sullo schermo per indicare la posizione dei giocatori.",Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.","Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+"Quando il TNT causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+"Quando l'acqua corrente è circondata da sorgenti d'acqua su due lati, si trasforma in sorgente.","Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"Quando l'interazione con blocchi causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+"Quando la lava colante è circondata da sorgenti di lava su due lati, si trasforma in sorgente.","Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"Quando le creature causano esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+"Quando nevica, la neve si accumulerà a terra fino al numero massimo di strati specificato.","Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+Quebrar blocos com projéteis,Atılabilirler blokları kırabilir,tr-TR
+Rabbia generale,Evrensel öfke,tr-TR
+Radio de propagación del fuego,Ateş yayılma yarıçapı,tr-TR
+Radio del punto de reaparición,Başlangıç yığınları yarıçapı,tr-TR
+Radio del punto de reaparición,Yeniden canlanma yeri çevresi,tr-TR
+Radius des Wiedereinstiegsbereichs,Yeniden canlanma yeri çevresi,tr-TR
+Raggio dei chunk di generazione,Başlangıç yığınları yarıçapı,tr-TR
+Raggio del punto di rinascita,Yeniden canlanma yeri çevresi,tr-TR
+Raggio di propagazione del fuoco intorno al giocatore,Ateş yayılma yarıçapı,tr-TR
+Raio de propagação do fogo,Ateş yayılma yarıçapı,tr-TR
+Raio do ponto de renascimento,Yeniden canlanma yeri çevresi,tr-TR
+Raio dos chunks ao renascer,Başlangıç yığınları yarıçapı,tr-TR
+Random tick speed rate,Rastgele zaman birimi ilerleme oranı,tr-TR
+Rankenausbreitung,Sarmaşıklar yayılsın,tr-TR
+Rayon de la zone de réapparition,Yeniden canlanma yeri çevresi,tr-TR
+Rayon de propagation du feu,Ateş yayılma yarıçapı,tr-TR
+Rayon des chunks d'apparition,Başlangıç yığınları yarıçapı,tr-TR
+Reaparición instantánea,Anında yeniden canlanma,tr-TR
+Recette requise pour fabriquer,Üretim için tarif gereksin,tr-TR
+Recupero delle regole di gioco...,Oyun kuralları alınıyor,tr-TR
+Reduce debug info,Hata ayıklama bilgisini azalt,tr-TR
+Reducir datos de F3,Hata ayıklama bilgisini azalt,tr-TR
+Reduz o conteúdo da tela de depuração.,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+Reduzir informações de depuração,Hata ayıklama bilgisini azalt,tr-TR
+Regenerar salud,Sağlık yenilensin,tr-TR
+Regenerar vida,Sağlık yenilensin,tr-TR
+Regenerate health,Sağlık yenilensin,tr-TR
+Registrazione dei comandi degli operatori,Yönetici komutları gösterilsin,tr-TR
+Regole di gioco,Oyun Kuralı Değişiklikleri,tr-TR
+Regole di gioco...,Oyun Kurallarını Düzenle...,tr-TR
+Renascer imediatamente,Anında yeniden canlanma,tr-TR
+Require recipe for crafting,Üretim için tarif gereksin,tr-TR
+Respawn immediately,Anında yeniden canlanma,tr-TR
+Respawn location radius,Yeniden canlanma yeri çevresi,tr-TR
+Retrieving game rules...,Oyun kuralları alınıyor,tr-TR
+Rezepte zur Herstellung benötigt,Üretim için tarif gereksin,tr-TR
+Rigenerazione della salute,Sağlık yenilensin,tr-TR
+Rilasci,Düşenler,tr-TR
+Rilasci dei blocchi,Bloklar düşsün,tr-TR
+Rilasci delle creature,Canlı ganimeti düşsün,tr-TR
+Rilasci delle entità,Varlık ekipmanı düşsün,tr-TR
+Rinascita immediata,Anında yeniden canlanma,tr-TR
+Risposte dei comandi,Komut geri bildirimi gösterilsin,tr-TR
+Ritardo dei portali del Nether,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Ritardo dei portali del Nether in modalità creativa,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Règles de jeu...,Oyun Kurallarını Düzenle...,tr-TR
+Réapparition immédiate,Anında yeniden canlanma,tr-TR
+Récupération des règles de jeu...,Oyun kuralları alınıyor,tr-TR
+Régénération de la vie,Sağlık yenilensin,tr-TR
+Résultat des commandes,Komut geri bildirimi gösterilsin,tr-TR
+Rơi ra,Düşenler,tr-TR
+Rơi ra khối,Bloklar düşsün,tr-TR
+Rơi ra lợi phẩm của sinh vật,Canlı ganimeti düşsün,tr-TR
+Rơi ra trang bị của thực thể,Varlık ekipmanı düşsün,tr-TR
+S'applique aux blocs de commande en chaîne et aux fonctions.,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+Schaden durch Ertrinken,Boğulma hasarı alma,tr-TR
+Schlafquote,Uyuma yüzdesi,tr-TR
+Schneedeckenhöhe,Kar birikme yüksekliği,tr-TR
+Scomparsa alla morte delle perle di ender già lanciate,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+Se aplica a las cadenas de bloques de comandos y funciones.,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+"Se attivata, i giocatori possono fabbricare oggetti solo seguendo le ricette sbloccate.",Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+Send command feedback,Komut geri bildirimi gösterilsin,tr-TR
+Show death messages,Ölüm iletileri gösterilsin,tr-TR
+"Si activée, les joueurs ne pourront fabriquer qu'à partir des recettes débloquées.",Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+"Si activée, une barre s'affiche à l'écran pour indiquer la position des joueurs.",Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+Si applica a blocchi comandi a catena e funzioni.,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+"Si se activa, solo se podrán fabricar recetas aprendidas.",Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+Sinh ra,Oluşum,tr-TR
+Sinh ra kẻ cai ngục,Muhafızlar oluşsun,tr-TR
+Sinh ra kẻ cướp tuần tra,Yağmacı devriyeleri oluşsun,tr-TR
+Sinh ra phantom,Kâbuslar oluşsun,tr-TR
+Sinh ra quái vật,Canavarlar Oluşsun,tr-TR
+Sinh ra sinh vật,Canlılar oluşsun,tr-TR
+Sinh ra thương nhân lang thang,Seyyar Tüccarlar oluşsun,tr-TR
+Sinh vật,Canlılar,tr-TR
+Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+Sleep percentage,Uyuma yüzdesi,tr-TR
+Snow accumulation height,Kar birikme yüksekliği,tr-TR
+Sofortiger Wiedereinstieg,Anında yeniden canlanma,tr-TR
+Soltar objetos al romper bloques,Bloklar düşsün,tr-TR
+Soltar objetos al romper entidades,Varlık ekipmanı düşsün,tr-TR
+Some entities might have separate rules.,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+Sortie des blocs de commande,Komut bloğu çıktıları gösterilsin,tr-TR
+Sorveglianti,Muhafızlar oluşsun,tr-TR
+Spawn chunk radius,Başlangıç yığınları yarıçapı,tr-TR
+Spawn mobs,Canlılar oluşsun,tr-TR
+Spawn Monsters,Canavarlar Oluşsun,tr-TR
+Spawn phantoms,Kâbuslar oluşsun,tr-TR
+Spawn pillager patrols,Yağmacı devriyeleri oluşsun,tr-TR
+Spawn Wandering Traders,Seyyar Tüccarlar oluşsun,tr-TR
+Spawn Wardens,Muhafızlar oluşsun,tr-TR
+Spawner,Çağırıcı Bloklarını Etkinleştir,tr-TR
+Spawning,Oluşum,tr-TR
+Spieler,Oyuncu,tr-TR
+Spielerbewegung nicht überprüfen,Oyuncu hareket denetimini kapat,tr-TR
+Spielerortungsleiste aktivieren,Oyuncu Konum Çubuğunu aç,tr-TR
+Spieler‐Bewegungsprüfung,Oyuncu hareketini denetle,tr-TR
+Spielregeln bearbeiten,Oyun Kurallarını Düzenle,tr-TR
+Spielregeln bearbeiten …,Oyun Kurallarını Düzenle...,tr-TR
+Spielregeln werden abgerufen …,Oyun kuralları alınıyor,tr-TR
+Stabilisce se le perle di ender lanciate da un giocatore scompaiono alla morte di quest'ultimo.,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+Standard: %s,Varsayılan: %s,tr-TR
+"Steuert die Größe des Bereichs um den Einstiegspunkt, in dem Spieler in die Welt einsteigen können.",Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+"Steuert, ob aufprallende Geschosse Blöcke zerstören, die durch sie zerstörbar wären.",Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+"Steuert, ob Blöcke ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+"Steuert, ob Feuer und Lava in einer Entfernung von mehr als 8 Chunks von einem Spieler aktualisiert werden",Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+"Steuert, ob Kreaturen ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+"Steuert, ob Loren, Rahmen, Boote usw. ihre Ausbeute fallen lassen (einschließlich Inventaren).","Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+"Steuert, ob Monster natürlich erscheinen.",Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+"Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.","Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+"Steuert, ob Spieler anderen Spielern Schaden zufügen können.",Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+"Steuert, ob Spieler den Nether durch Portale betreten können.",Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+"Steuert, ob vom Spieler geworfene Enderperlen verschwinden, wenn dieser stirbt.",Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+Sự kiện âm thanh toàn cầu,Küresel ses olayları,tr-TR
+Taxa de velocidade de tiques aleatórios,Rastgele zaman birimi ilerleme oranı,tr-TR
+Tchat,Sohbet,tr-TR
+Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Tempo (in tick) che un giocatore in modalità creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Tempo (in tick) che un giocatore in modalità diverse dalla creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Tempo atmosferico,Hava durumu döngüsü olsun,tr-TR
+Tha thứ cho người chơi đã chết,Ölü oyuncular affedilsin,tr-TR
+Thay đổi luật chơi,Oyun Kuralı Değişiklikleri,tr-TR
+The amount of chunks that stay loaded around the Overworld spawn position.,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+"The number of blocks that can be changed at once by one command, such as fill or clone.",Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+The percentage of players who must be sleeping to skip the night.,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+The radius in blocks around a player in which fire can spread.,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+Thrown Ender Pearls vanish on death,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+Thông báo tiến trình,Gelişimler gösterilsin,tr-TR
+Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Thời gian trong ngày trôi đi,Gece-gündüz döngüsü olsun,tr-TR
+Thực thể với hành khách có thể sử dụng cổng,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+Tick fire away from players,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modo creativo para cambiar de dimensión.,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modos que no sean creativo para cambiar de dimensión.,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음","TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+TNT‐Explosionsausbeute verschwindet,"TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+TNTの点火及び爆発の許可,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+TNT爆発時にブロックがドロップアイテムを落とさない可能性,"TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+TNT의 점화 및 폭발 허용,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+Todesmeldungen anzeigen,Ölüm iletileri gösterilsin,tr-TR
+"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.","Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.","Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+Transformar lava em fonte,"Lav, kaynağa dönüşsün",tr-TR
+Transformar água em fonte,"Su, kaynağa dönüşsün",tr-TR
+Transformation de l'eau en source,"Su, kaynağa dönüşsün",tr-TR
+Transformation de la lave en source,"Lav, kaynağa dönüşsün",tr-TR
+"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm","Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm","Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm","TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+Truyền đi lệnh quản trị,Yönetici komutları gösterilsin,tr-TR
+Truyền đi đầu ra của khối lệnh,Komut bloğu çıktıları gösterilsin,tr-TR
+Trò chuyện,Sohbet,tr-TR
+Téléportation des entités avec des passagers à travers les portails,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+Tắt các cuộc xâm lược,Baskınları kapat,tr-TR
+Tắt kiểm tra chuyển động của cánh cứng,Elitra hareket hızı kontrolünü kapat,tr-TR
+Tắt kiểm tra chuyển động của người chơi,Oyuncu hareket denetimini kapat,tr-TR
+Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+Tỉ lệ phần trăm ngủ,Uyuma yüzdesi,tr-TR
+Tỉ lệ tốc độ nhịp ngẫu nhiên,Rastgele zaman birimi ilerleme oranı,tr-TR
+Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+Tốc độ tối đa của xe mỏ,En yüksek vagon hızı,tr-TR
+Universal anger,Evrensel öfke,tr-TR
+Update fire,Ateş yayılabilsin,tr-TR
+Update weather,Hava durumu döngüsü olsun,tr-TR
+Updating game rules requires operator permissions.,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+Varie,Çeşitli,tr-TR
+Varios,Çeşitli,tr-TR
+Velocidad de tics al azar,Rastgele zaman birimi ilerleme oranı,tr-TR
+Velocidad máxima de las vagonetas,En yüksek vagon hızı,tr-TR
+Velocidad máxima por defecto de una vagoneta por tierra.,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+Velocidade máxima do Carrinho de Mina,En yüksek vagon hızı,tr-TR
+Velocidade padrão máxima de um Carrinho de Mina no solo.,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+Velocità massima dei vagonetti,En yüksek vagon hızı,tr-TR
+Velocità massima predefinita di un vagonetto in movimento.,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+Verifica dei movimenti dei giocatori,Oyuncu hareketini denetle,tr-TR
+Verifica dei movimenti dei giocatori disattivata,Oyuncu hareket denetimini kapat,tr-TR
+Verifica del volo con le elitre,Elitra hareketini denetle,tr-TR
+Verifica del volo con le elitre disattivata,Elitra hareket hızı kontrolünü kapat,tr-TR
+Verificação de movimentos do jogador,Oyuncu hareketini denetle,tr-TR
+Verificação de movimentos dos Élitros,Elitra hareketini denetle,tr-TR
+Verschiedenes,Çeşitli,tr-TR
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgive_dead_players deaktiviert ist.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgiveDeadPlayers deaktiviert ist.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+"Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.","Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+Vines spread,Sarmaşıklar yayılsın,tr-TR
+Vitesse des ticks aléatoires,Rastgele zaman birimi ilerleme oranı,tr-TR
+Vitesse maximale des wagonnets,En yüksek vagon hızı,tr-TR
+Você não pode alterar as regras do jogo em mundos no modo Intenso.,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+Von Spielern entferntes Feuer aktualisieren,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+Voranschreiten der Tageszeit,Gece-gündüz döngüsü olsun,tr-TR
+Voulez-vous vraiment abandonner les modifications en cours des règles de jeu ?,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+Vuoi davvero annullare le modifiche in sospeso alle regole di gioco?,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+Vérification des mouvements du joueur,Oyuncu hareketini denetle,tr-TR
+Vérification du vol en élytres,Elitra hareketini denetle,tr-TR
+Vérification désactivée des mouvements du joueur,Oyuncu hareket denetimini kapat,tr-TR
+Vérification désactivée du vol en élytres,Elitra hareket hızı kontrolünü kapat,tr-TR
+Vật bắn ra có thể phá khối,Atılabilirler blokları kırabilir,tr-TR
+Wasser‐Erneuerbarkeit,"Su, kaynağa dönüşsün",tr-TR
+Water converts to source,"Su, kaynağa dönüşsün",tr-TR
+Weltaktualisierungen,Dünyadaki Hareketler,tr-TR
+Weltweite Geräuschereignisse,Küresel ses olayları,tr-TR
+"Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen.",Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+"Wenn aktiviert, zeigt eine Leiste auf dem Bildschirm die Richtung der Mitspieler an.",Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+"Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.","Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+"Wenn es schneit, entsteht auf dem Boden eine Schneedecke, die höchstens diese Anzahl von Schichten erreicht.","Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+"Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, wird sie zu einer Quelle.","Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, wird es zu einer Quelle.","Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+Wetterwechsel,Hava durumu döngüsü olsun,tr-TR
+"When certain game events happen, like a boss spawning, the sound is heard everywhere.","Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+"When enabled, a bar is shown on the screen to indicate the direction of players.",Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+"When flowing lava is surrounded on two sides by lava sources, it converts into a source.","Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"When flowing water is surrounded on two sides by water sources, it converts into a source.","Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"When it snows, layers of snow form on the ground up to at most this number of layers.","Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+Whether Ender Pearls thrown by a player vanish when that player dies.,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+Wird auf Befehlsblockketten und Funktionen angewandt.,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+World Updates,Dünyadaki Hareketler,tr-TR
+Wärter erzeugen,Muhafızlar oluşsun,tr-TR
+Yêu cầu công thức chế tạo,Üretim için tarif gereksin,tr-TR
+"Zeit (in Ticks), die ein Spieler außerhalb des Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+"Zeit (in Ticks), die ein Spieler im Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Zerstörung durch Kreaturen,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+Zuschauer generieren Landschaft,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+¿Seguro que quieres descartar tus cambios?,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+Áp dụng cho chuỗi khối lệnh và hàm.,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+Änderungen der Spielregeln,Oyun Kuralı Değişiklikleri,tr-TR
+Événements sonores globaux,Küresel ses olayları,tr-TR
+Überfälle,Baskınlar olsun,tr-TR
+Überfälle deaktivieren,Baskınları kapat,tr-TR
+Đang truy xuất luật chơi...,Oyun kuralları alınıyor,tr-TR
+Đếm nhịp lửa cách xa người chơi,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Активация и взрыв динамита,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+Влияет на выпадение предметов и сфер опыта из блоков.,Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+Влияет на выпадение предметов и сфер опыта из мобов.,Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.","Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+"Влияет на потерю предметов, выпавших после взрыва динамита.",TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+"Влияет на потерю предметов, выпавших после взрыва моба.",Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.","Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.","Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+Возобновление источников воды,"Su, kaynağa dönüşsün",tr-TR
+Возобновление источников лавы,"Lav, kaynağa dönüşsün",tr-TR
+Время прохождения портала Незера в творческом режиме,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Время прохождения портала Незера вне творческого режима,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+Вы действительно хотите отменить изменения игровых правил?,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+Выпадение блоков,Bloklar düşsün,tr-TR
+Выпадение добычи из мобов,Canlı ganimeti düşsün,tr-TR
+Выпадение ресурсов,Düşenler,tr-TR
+Выпадение экипировки сущностей,Varlık ekipmanı düşsün,tr-TR
+Высота снежного покрова,Kar birikme yüksekliği,tr-TR
+Генерация мира наблюдателями,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+Глобальные звуковые события,Küresel ses olayları,tr-TR
+Доступ в Незер,Nether'a İzin Ver,tr-TR
+"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+Загрузка игровых правил...,Oyun kuralları alınıyor,tr-TR
+Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+Запись команд администраторов,Yönetici komutları gösterilsin,tr-TR
+Затрагивает цепочки командных блоков и функции.,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+Игровые правила...,Oyun Kurallarını Düzenle...,tr-TR
+Игрок,Oyuncu,tr-TR
+Изменение игровых правил в Хардкоре недоступно.,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+Изменение игровых правил требует прав оператора.,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+Изменения игровых правил,Oyun Kuralı Değişiklikleri,tr-TR
+Изменения погоды,Hava durumu döngüsü olsun,tr-TR
+Использование командных блоков,Komut Bloklarını Etkinleştir,tr-TR
+Использование порталов сущностями с пассажирами,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+Исчезновение брошенного эндер-жемчуга при смерти,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+Командные блоки,Komut Bloklarını Etkinleştir,tr-TR
+Локатор игроков,Oyuncu Konum Çubuğunu aç,tr-TR
+Максимальная базовая скорость движения вагонетки по земле.,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+Максимальная скорость вагонетки,En yüksek vagon hızı,tr-TR
+"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+Малый экран отладки,Hata ayıklama bilgisini azalt,tr-TR
+Мгновенное возрождение,Anında yeniden canlanma,tr-TR
+Мобы,Canlılar,tr-TR
+Настройка игровых правил,Oyun Kurallarını Düzenle,tr-TR
+Обновление огня вдали от игроков,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+Обновления мира,Dünyadaki Hareketler,tr-TR
+Ограничение длины цепи команд,Komut zinciri uzunluk sınırı,tr-TR
+Ограничение изменения блоков командой,Komut değişikliği blok sınırı,tr-TR
+Ограничение контекста команд,Komut bağlam limiti,tr-TR
+Ограничение содержания экрана отладки.,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+Окружённая двумя источниками текущая вода образует третий.,"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+Окружённая двумя источниками текущая лава образует третий.,"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+Оповещения о достижениях,Gelişimler gösterilsin,tr-TR
+"Определяет, могут ли игроки входить в Незер.",Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+"Определяет, могут ли игроки наносить урон другим игрокам.",Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+"Определяет, появляются ли монстры сами по себе.",Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+Отключение проверки движения игрока,Oyuncu hareket denetimini kapat,tr-TR
+Отключение проверки на элитрах,Elitra hareket hızı kontrolünü kapat,tr-TR
+Отключение рейдов,Baskınları kapat,tr-TR
+Отображение сообщений команд,Komut geri bildirimi gösterilsin,tr-TR
+Патрули разбойников,Yağmacı devriyeleri oluşsun,tr-TR
+По умолчанию: %s,Varsayılan: %s,tr-TR
+"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.","Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+Потеря части добычи от взрыва при использовании блока,"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+Потеря части добычи при взрыве динамита,"TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+Потеря части добычи при взрыве моба,"Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+Появление,Oluşum,tr-TR
+Появление мобов,Canlılar oluşsun,tr-TR
+Появление монстров,Canavarlar Oluşsun,tr-TR
+Появление фантомов,Kâbuslar oluşsun,tr-TR
+Появление хранителей,Muhafızlar oluşsun,tr-TR
+Предел сущностей в одном блоке,Varlık sıkışması alt sınırı,tr-TR
+"Предельное число слоёв снега, образующихся во время снегопада.","Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+Проверка движения игрока,Oyuncu hareketini denetle,tr-TR
+Проверка движения на элитрах,Elitra hareketini denetle,tr-TR
+"Процент игроков, которым нужно спать для пропуска ночи.",Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+Процент спящих,Uyuma yüzdesi,tr-TR
+Прощение умерших игроков,Ölü oyuncular affedilsin,tr-TR
+"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+Радиус невыгружаемой области вокруг точек возрождения игроков.,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+Радиус невыгружаемой области вокруг точки возрождения мира.,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+Радиус области возрождения,Yeniden canlanma yeri çevresi,tr-TR
+Радиус распространения огня,Ateş yayılma yarıçapı,tr-TR
+Радиус чанков возрождения мира,Başlangıç yığınları yarıçapı,tr-TR
+Разное,Çeşitli,tr-TR
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.","Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+Разрушительные действия мобов,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+Распространение лианы,Sarmaşıklar yayılsın,tr-TR
+Распространение огня,Ateş yayılabilsin,tr-TR
+Рассадники,Çağırıcı Bloklarını Etkinleştir,tr-TR
+Регенерация здоровья,Sağlık yenilensin,tr-TR
+"Регулирует, разрушаются ли определённые блоки от удара снаряда.",Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+Рейды,Baskınlar olsun,tr-TR
+Слепая ярость,Evrensel öfke,tr-TR
+Смена дня и ночи,Gece-gündüz döngüsü olsun,tr-TR
+Снаряды могут разрушать блоки,Atılabilirler blokları kırabilir,tr-TR
+Создание только по рецепту,Üretim için tarif gereksin,tr-TR
+Сообщения командных блоков,Komut bloğu çıktıları gösterilsin,tr-TR
+Сообщения о смерти,Ölüm iletileri gösterilsin,tr-TR
+Сохранение инвентаря при смерти,Öldükten sonra envanteri koru,tr-TR
+Странствующие торговцы,Seyyar Tüccarlar oluşsun,tr-TR
+У некоторых сущностей могут быть свои игровые правила.,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+Урон от замерзания,Donma hasarı alma,tr-TR
+Урон от огня,Ateş hasarı alma,tr-TR
+Урон от падения,Düşme hasarı alma,tr-TR
+Урон от утопления,Boğulma hasarı alma,tr-TR
+Частота случайных тактов,Rastgele zaman birimi ilerleme oranı,tr-TR
+Чат,Sohbet,tr-TR
+การดรอป,Düşenler,tr-TR
+การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+การอัปเดตของโลก,Dünyadaki Hareketler,tr-TR
+การเกิด,Oluşum,tr-TR
+การโกรธทุกคน,Evrensel öfke,tr-TR
+กำลังดึงข้อมูลกฎเกม...,Oyun kuralları alınıyor,tr-TR
+ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+ความสูงในการสะสมชั้นหิมะ,Kar birikme yüksekliği,tr-TR
+ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+ความเร็วสูงสุดของรถราง,En yüksek vagon hızı,tr-TR
+คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+ค่าเริ่มต้น: %s,Varsayılan: %s,tr-TR
+จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,Komut zinciri uzunluk sınırı,tr-TR
+จำกัดจำนวนบริบทของคำสั่ง,Komut bağlam limiti,tr-TR
+จำกัดเนื้อหาของหน้าจอดีบั๊ก,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,Varlık sıkışması alt sınırı,tr-TR
+ดรอปของจากเอนทิตี้,Varlık ekipmanı düşsün,tr-TR
+ดรอปลูตของม็อบ,Canlı ganimeti düşsün,tr-TR
+ดาเมจจากการจมน้ำ,Boğulma hasarı alma,tr-TR
+ดาเมจจากการตกจากที่สูง,Düşme hasarı alma,tr-TR
+ดาเมจจากความเย็น,Donma hasarı alma,tr-TR
+ดาเมจจากไฟ,Ateş hasarı alma,tr-TR
+ดำเนินวัฏจักรกลางวัน-กลางคืน,Gece-gündüz döngüsü olsun,tr-TR
+ตรวจสอบการเคลื่อนที่ของผู้เล่น,Oyuncu hareketini denetle,tr-TR
+ตรวจสอบความเร็วขณะบินด้วยปีก,Elitra hareketini denetle,tr-TR
+ตายของไม่ตก,Öldükten sonra envanteri koru,tr-TR
+ต้องมีสูตรสำหรับการคราฟต์,Üretim için tarif gereksin,tr-TR
+บล็อกดรอป,Bloklar düşsün,tr-TR
+ประกาศความก้าวหน้า,Gelişimler gösterilsin,tr-TR
+ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,Oyuncu hareket denetimini kapat,tr-TR
+ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,Elitra hareket hızı kontrolünü kapat,tr-TR
+ปิดการปล้นสะดม,Baskınları kapat,tr-TR
+ผู้เล่น,Oyuncu,tr-TR
+ฟื้นฟูเลือดตามธรรมชาติ,Sağlık yenilensin,tr-TR
+มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+ม็อบ,Canlılar,tr-TR
+ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""","Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+รัศมีการลุกลามของไฟ,Ateş yayılma yarıçapı,tr-TR
+รัศมีจุดเกิด,Yeniden canlanma yeri çevresi,tr-TR
+รัศมีชังก์จุดเกิด,Başlangıç yığınları yarıçapı,tr-TR
+รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+ลดการแสดงข้อมูลดีบั๊ก,Hata ayıklama bilgisini azalt,tr-TR
+วัตถุพุ่งสามารถทำลายบล็อกได้,Atılabilirler blokları kırabilir,tr-TR
+หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+อนุญาตให้เข้าเนเธอร์,Nether'a İzin Ver,tr-TR
+อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+อภัยผู้เล่นที่ตายแล้ว,Ölü oyuncular affedilsin,tr-TR
+อัตราความเร็วติ๊กแบบสุ่ม,Rastgele zaman birimi ilerleme oranı,tr-TR
+อัปเดตสภาพอากาศ,Hava durumu döngüsü olsun,tr-TR
+อัปเดตไฟ,Ateş yayılabilsin,tr-TR
+เกิดใหม่ทันที,Anında yeniden canlanma,tr-TR
+เบ็ดเตล็ด,Çeşitli,tr-TR
+เปลี่ยนแปลงกฎเกม,Oyun Kuralı Değişiklikleri,tr-TR
+เปอร์เซ็นต์ของผู้เล่นนอน,Uyuma yüzdesi,tr-TR
+เปิดการปล้นสะดม,Baskınlar olsun,tr-TR
+เปิดใช้งาน PvP,Pvp'yi etkinleştir,tr-TR
+เปิดใช้งานบล็อกกรงกำเนิด,Çağırıcı Bloklarını Etkinleştir,tr-TR
+เปิดใช้งานบล็อกคำสั่ง,Komut Bloklarını Etkinleştir,tr-TR
+เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,Oyuncu Konum Çubuğunu aç,tr-TR
+เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,"Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+เหตุการณ์เสียงดังไปทั่ว,Küresel ses olayları,tr-TR
+เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+แก้ไขกฎเกม,Oyun Kurallarını Düzenle,tr-TR
+แก้ไขกฎเกม...,Oyun Kurallarını Düzenle...,tr-TR
+แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,Komut değişikliği blok sınırı,tr-TR
+แชต,Sohbet,tr-TR
+แสดงข้อความการตาย,Ölüm iletileri gösterilsin,tr-TR
+แสดงบันทึกคำสั่งของแอดมิน,Yönetici komutları gösterilsin,tr-TR
+แสดงผลป้อนกลับคำสั่ง,Komut geri bildirimi gösterilsin,tr-TR
+แสดงเอาต์พุตของบล็อกคำสั่ง,Komut bloğu çıktıları gösterilsin,tr-TR
+ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,"TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+ให้กองโจรลาดตระเวนเกิด,Yağmacı devriyeleri oluşsun,tr-TR
+ให้น้ำไหลกลายเป็นแหล่งน้ำได้,"Su, kaynağa dönüşsün",tr-TR
+ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+ให้พ่อค้าเร่ร่อนเกิด,Seyyar Tüccarlar oluşsun,tr-TR
+ให้มอนสเตอร์เกิด,Canavarlar Oluşsun,tr-TR
+ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+ให้ม็อบเกิด,Canlılar oluşsun,tr-TR
+ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,"Lav, kaynağa dönüşsün",tr-TR
+ให้วอร์เดนเกิด,Muhafızlar oluşsun,tr-TR
+ให้เถาวัลย์แพร่,Sarmaşıklar yayılsın,tr-TR
+ให้แฟนท่อมเกิด,Kâbuslar oluşsun,tr-TR
+ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+“execute as”等命令可以使用的上下文数量最大值。,’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+「execute as」などのコマンドで使用できる実行文脈の最大数,’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+「execute as」等指令使用的上下文最大數量。,’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,tr-TR
+その他,Çeşitli,tr-TR
+どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+ウォーデンのスポーン,Muhafızlar oluşsun,tr-TR
+エリトラの速度チェック,Elitra hareketini denetle,tr-TR
+エリトラの速度チェックの無効化,Elitra hareket hızı kontrolünü kapat,tr-TR
+エンティティの最大密集数,Varlık sıkışması alt sınırı,tr-TR
+オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+クラフトにレシピを要求,Üretim için tarif gereksin,tr-TR
+クリエイティブモードでのネザーポータルの待機時間,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+ゲームルールの変更,Oyun Kuralı Değişiklikleri,tr-TR
+ゲームルールの更新には管理者権限が必要です。,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+ゲームルールを取得中…,Oyun kuralları alınıyor,tr-TR
+ゲームルールを編集,Oyun Kurallarını Düzenle,tr-TR
+ゲームルールを編集…,Oyun Kurallarını Düzenle...,tr-TR
+ゲーム内時刻の進行,Gece-gündüz döngüsü olsun,tr-TR
+コマンドによるブロックの最大変更数,Komut değişikliği blok sınırı,tr-TR
+コマンドの実行結果の表示,Komut geri bildirimi gösterilsin,tr-TR
+コマンドの最大チェーン数,Komut zinciri uzunluk sınırı,tr-TR
+コマンドの最大実行文脈数,Komut bağlam limiti,tr-TR
+コマンドブロックの実行結果の通知,Komut bloğu çıktıları gösterilsin,tr-TR
+コマンドブロックの有効化,Komut Bloklarını Etkinleştir,tr-TR
+スペクテイターモードのプレイヤーによる地形生成の許可,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+スポナーの有効化,Çağırıcı Bloklarını Etkinleştir,tr-TR
+スポーン,Oluşum,tr-TR
+スポーンチャンクの半径,Başlangıç yığınları yarıçapı,tr-TR
+スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+チェーンコマンドブロックや関数に適用されます。,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+チャット,Sohbet,tr-TR
+ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+ツタの成長,Sarmaşıklar yayılsın,tr-TR
+デバッグ情報の制限,Hata ayıklama bilgisini azalt,tr-TR
+デフォルト値：%s,Varsayılan: %s,tr-TR
+トロッコの最高速度,En yüksek vagon hızı,tr-TR
+トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+ドロップ,Düşenler,tr-TR
+ネザーの許可,Nether'a İzin Ver,tr-TR
+ハードコアのワールドではゲームルールを変更できません。,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+ファントムのスポーン,Kâbuslar oluşsun,tr-TR
+ブロックがアイテムや経験値オーブをドロップするかを設定できます。,Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+ブロックのドロップ,Bloklar düşsün,tr-TR
+ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+プレイヤー,Oyuncu,tr-TR
+プレイヤーから遠い炎のティック処理,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+プレイヤーがネザーに入ることができるかどうかを設定できます,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+プレイヤーの方向バーの有効化,Oyuncu Konum Çubuğunu aç,tr-TR
+プレイヤーの速度チェック,Oyuncu hareketini denetle,tr-TR
+プレイヤーの速度チェックの無効化,Oyuncu hareket denetimini kapat,tr-TR
+プレイヤー死亡時のエンダーパールの消滅,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+モンスターが自然にスポーンするかどうかを設定できます,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+モンスターのスポーン,Canavarlar Oluşsun,tr-TR
+ランダムティックの発生数,Rastgele zaman birimi ilerleme oranı,tr-TR
+リスポーン地点の半径,Yeniden canlanma yeri çevresi,tr-TR
+ワールドの更新,Dünyadaki Hareketler,tr-TR
+ワールド全体のサウンドイベント,Küresel ses olayları,tr-TR
+一些实体可能有其特定的规则。,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+世界更新,Dünyadaki Hareketler,tr-TR
+主世界出生点周围保持加载的区块数量。,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+主世界重生點周圍維持載入的區塊數量。,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+体力の自動回復,Sağlık yenilensin,tr-TR
+何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+何かが乗っているエンティティのポータル使用可否,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+你确定要放弃未保存的游戏规则更改吗？,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+你確定要捨棄尚未儲存的遊戲規則變更嗎？,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+停用玩家移動檢測,Oyuncu hareket denetimini kapat,tr-TR
+停用突襲,Baskınları kapat,tr-TR
+停用鞘翅移動檢測,Elitra hareket hızı kontrolünü kapat,tr-TR
+允許 TNT 被點燃並爆炸,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+允許旁觀者生成地形,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+允許火在遠離玩家處蔓延,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+允許生物的破壞行為,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+允許進入地獄,Nether'a İzin Ver,tr-TR
+允许TNT被点燃并爆炸,TNT’nin etkinleştirilmesine ve patlamasına izin ver,tr-TR
+允许旁观者生成地形,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+允许流动水转化为水源,"Su, kaynağa dönüşsün",tr-TR
+允许流动熔岩转化为熔岩源,"Lav, kaynağa dönüşsün",tr-TR
+允许火在远离玩家处蔓延,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+允许破坏性生物行为,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+允许被骑乘的实体通过下界传送门、末地传送门和末地折跃门传送。,"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+允许进入下界,Nether'a İzin Ver,tr-TR
+入睡占比,Uyuma yüzdesi,tr-TR
+全域聲音事件,Küresel ses olayları,tr-TR
+全局声音事件,Küresel ses olayları,tr-TR
+冰冻伤害,Donma hasarı alma,tr-TR
+凍結ダメージ,Donma hasarı alma,tr-TR
+出生区块半径,Başlangıç yığınları yarıçapı,tr-TR
+创造模式下玩家在下界传送门中等待的时间,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+創造模式玩家使用地獄傳送門的等待時間,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+单条命令（如fill和clone）最多能更改的方块数量。,Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+即時リスポーン,Anında yeniden canlanma,tr-TR
+原諒死者,Ölü oyuncular affedilsin,tr-TR
+发送命令反馈,Komut geri bildirimi gösterilsin,tr-TR
+合成需要配方,Üretim için tarif gereksin,tr-TR
+启用PvP,Pvp'yi etkinleştir,tr-TR
+启用刷怪笼方块,Çağırıcı Bloklarını Etkinleştir,tr-TR
+启用后，屏幕上会显示指示玩家方位的定位栏。,Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+启用命令方块,Komut Bloklarını Etkinleştir,tr-TR
+启用玩家定位栏,Oyuncu Konum Çubuğunu aç,tr-TR
+启用玩家移动检测,Oyuncu hareketini denetle,tr-TR
+启用袭击,Baskınlar olsun,tr-TR
+启用鞘翅移动检测,Elitra hareketini denetle,tr-TR
+命令上下文数量限制,Komut bağlam limiti,tr-TR
+命令修改方块数量限制,Komut değişikliği blok sınırı,tr-TR
+命令连锁执行数量限制,Komut zinciri uzunluk sınırı,tr-TR
+啟用 PvP,Pvp'yi etkinleştir,tr-TR
+啟用後，畫面上會顯示指示玩家方位的定位條。,Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+啟用指令方塊,Komut Bloklarını Etkinleştir,tr-TR
+啟用玩家定位條,Oyuncu Konum Çubuğunu aç,tr-TR
+啟用玩家移動檢測,Oyuncu hareketini denetle,tr-TR
+啟用生怪磚,Çağırıcı Bloklarını Etkinleştir,tr-TR
+啟用突襲,Baskınlar olsun,tr-TR
+啟用鞘翅移動檢測,Elitra hareketini denetle,tr-TR
+單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,tr-TR
+回傳指令回饋,Komut geri bildirimi gösterilsin,tr-TR
+在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+在 TNT 的爆炸中，部分方塊不會掉落成戰利品,"TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+在TNT引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+在TNT爆炸中，一些方块不会掉落战利品,"TNT patlamalarında, bazı bloklar düşmesin",tr-TR
+在与方块交互引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+在方块交互爆炸中，一些方块不会掉落战利品,"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+在生物引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+在生物爆炸中，一些方块不会掉落战利品,"Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+在生物的爆炸中，部分方塊不會掉落成戰利品,"Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+地上を走るトロッコのデフォルトの最高速度,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+天气更替,Hava durumu döngüsü olsun,tr-TR
+天気の更新,Hava durumu döngüsü olsun,tr-TR
+套用於連鎖型指令方塊及函數。,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+实体挤压上限,Varlık sıkışması alt sınırı,tr-TR
+宽恕死亡玩家,Ölü oyuncular affedilsin,tr-TR
+實體擠壓上限,Varlık sıkışması alt sınırı,tr-TR
+就寝率,Uyuma yüzdesi,tr-TR
+广播命令方块输出,Komut bloğu çıktıları gösterilsin,tr-TR
+应用于命令方块链和函数。,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+弹射物能否破坏方块,Atılabilirler blokları kırabilir,tr-TR
+愤怒的中立生物将在其目标玩家于附近死亡后息怒。,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用forgive_dead_players可达到最佳效果。,"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。,"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+投射物是否能破壞方塊,Atılabilirler blokları kırabilir,tr-TR
+拋出的終界珍珠在死亡時消失,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+指令修改方塊數量限制,Komut değişikliği blok sınırı,tr-TR
+指令的上下文上限,Komut bağlam limiti,tr-TR
+指令連鎖大小限制,Komut zinciri uzunluk sınırı,tr-TR
+掉落,Düşenler,tr-TR
+掉落實體裝備,Varlık ekipmanı düşsün,tr-TR
+掉落方塊,Bloklar düşsün,tr-TR
+掉落生物戰利品,Canlı ganimeti düşsün,tr-TR
+控制各种矿车（含内容物）、物品展示框、船等的物品掉落。,"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+控制弹射物能否破坏可被其破坏的方块。,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+控制怪物是否能自然生成。,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+控制怪物能否自然生成。,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+控制投射物是否能破壞可被其破壞的方塊。,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+控制方块是否掉落资源，包括经验球。,Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+控制方塊資源掉落，包含經驗球。,Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+控制火和熔岩能否在距离任何玩家超过8个区块处蔓延。,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+控制玩家是否能互相傷害。,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+控制玩家是否能進入地獄。,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+控制玩家能否进入下界。,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+控制玩家能夠生成的重生點範圍區域大小。,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+控制玩家间能否互相伤害。,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+控制生物是否掉落资源，包括经验球。,Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+控制生物資源掉落，包含經驗球。,Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+控制礦車（包括內容物）、物品展示框、船等的掉落物。,"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+控制藤蔓方块能否随机向相邻的方块蔓延。不会影响其他藤蔓类方块（例如垂泪藤和缠怨藤等）。,"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+控制适合玩家生成的出生点周围区域大小。,Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+掷出的末影珍珠在死亡时消失,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+摔落伤害,Düşme hasarı alma,tr-TR
+敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+敵対の共有,Evrensel öfke,tr-TR
+敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+方块掉落,Bloklar düşsün,tr-TR
+无差别愤怒,Evrensel öfke,tr-TR
+无法在极限模式世界中更改游戏规则。,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+日夜交替,Gece-gündüz döngüsü olsun,tr-TR
+显示死亡消息,Ölüm iletileri gösterilsin,tr-TR
+更新天氣,Hava durumu döngüsü olsun,tr-TR
+更新游戏规则需要管理员权限。,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+更新火焰,Ateş yayılabilsin,tr-TR
+更新遊戲規則需要管理員權限。,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+杂项,Çeşitli,tr-TR
+正在擷取遊戲規則...,Oyun kuralları alınıyor,tr-TR
+正在获取游戏规则…,Oyun kuralları alınıyor,tr-TR
+死亡したプレイヤーへの敵対を解除,Ölü oyuncular affedilsin,tr-TR
+死亡メッセージの表示,Ölüm iletileri gösterilsin,tr-TR
+死亡后保留物品栏,Öldükten sonra envanteri koru,tr-TR
+死亡後保留物品欄,Öldükten sonra envanteri koru,tr-TR
+死亡時のインベントリの保持,Öldükten sonra envanteri koru,tr-TR
+水流から水源への変化,"Su, kaynağa dönüşsün",tr-TR
+水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+流動水在被兩個水源包圍時，會轉化成水源。,"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+流動水轉化成水源,"Su, kaynağa dönüşsün",tr-TR
+流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+流動熔岩轉化成熔岩源,"Lav, kaynağa dönüşsün",tr-TR
+游戏内时间流逝,Gece-gündüz döngüsü olsun,tr-TR
+游戏规则更改,Oyun Kuralı Değişiklikleri,tr-TR
+溶岩流から溶岩源への変化,"Lav, kaynağa dönüşsün",tr-TR
+溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+溺水ダメージ,Boğulma hasarı alma,tr-TR
+溺水伤害,Boğulma hasarı alma,tr-TR
+火傷ダメージ,Ateş hasarı alma,tr-TR
+火焰伤害,Ateş hasarı alma,tr-TR
+火焰蔓延,Ateş yayılabilsin,tr-TR
+火焰蔓延半径,Ateş yayılma yarıçapı,tr-TR
+火焰蔓延半徑,Ateş yayılma yarıçapı,tr-TR
+炎の延焼が起こる半径,Ateş yayılma yarıçapı,tr-TR
+炎の更新,Ateş yayılabilsin,tr-TR
+無差別憤怒,Evrensel öfke,tr-TR
+無法在極限模式世界中變更遊戲規則。,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+特定游戏事件（如Boss生成）发生时，声音可在所有地方听见。,"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+玩家,Oyuncu,tr-TR
+玩家周围火可以蔓延的方块半径。,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+玩家周圍火焰可蔓延的半徑格數。,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+玩家投掷的末影珍珠是否在玩家死亡时消失。,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+玩家拋出的終界珍珠是否在玩家死亡時消失。,Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+生命值自然恢复,Sağlık yenilensin,tr-TR
+生成,Oluşum,tr-TR
+生成伏守者,Muhafızlar oluşsun,tr-TR
+生成夜魅,Kâbuslar oluşsun,tr-TR
+生成幻翼,Kâbuslar oluşsun,tr-TR
+生成怪物,Canavarlar Oluşsun,tr-TR
+生成掠奪者巡邏隊,Yağmacı devriyeleri oluşsun,tr-TR
+生成流浪商人,Seyyar Tüccarlar oluşsun,tr-TR
+生成灾厄巡逻队,Yağmacı devriyeleri oluşsun,tr-TR
+生成生物,Canlılar oluşsun,tr-TR
+生成监守者,Muhafızlar oluşsun,tr-TR
+生物,Canlılar,tr-TR
+生物战利品掉落,Canlı ganimeti düşsün,tr-TR
+略奪隊のスポーン,Yağmacı devriyeleri oluşsun,tr-TR
+當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+相邻两面方块为水源的流动水会转化为水源。,"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+相邻两面方块为熔岩源的流动熔岩会转化为熔岩源。,"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+睡眠比例,Uyuma yüzdesi,tr-TR
+矿车在地面上移动的默认最大速度。,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+矿车最大速度,En yüksek vagon hızı,tr-TR
+礦車在地面上移動的預設速度上限。,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+礦車最大速度,En yüksek vagon hızı,tr-TR
+禁用玩家移动检测,Oyuncu hareket denetimini kapat,tr-TR
+禁用袭击,Baskınları kapat,tr-TR
+禁用鞘翅移动检测,Elitra hareket hızı kontrolünü kapat,tr-TR
+积雪厚度,Kar birikme yüksekliği,tr-TR
+積雪の深さ,Kar birikme yüksekliği,tr-TR
+積雪厚度,Kar birikme yüksekliği,tr-TR
+立即重生,Anında yeniden canlanma,tr-TR
+简化调试信息,Hata ayıklama bilgisini azalt,tr-TR
+管理者ログへのコマンドの実行結果の通知,Yönetici komutları gösterilsin,tr-TR
+簡化除錯資訊,Hata ayıklama bilgisini azalt,tr-TR
+編輯遊戲規則,Oyun Kurallarını Düzenle,tr-TR
+編輯遊戲規則...,Oyun Kurallarını Düzenle...,tr-TR
+編集中のゲームルールの変更を破棄してもよろしいですか？,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+编辑游戏规则,Oyun Kurallarını Düzenle,tr-TR
+编辑游戏规则…,Oyun Kurallarını Düzenle...,tr-TR
+聊天,Sohbet,tr-TR
+聊天欄,Sohbet,tr-TR
+自然回血,Sağlık yenilensin,tr-TR
+若启用，玩家只能使用已解锁的配方合成。,Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+若啟用，玩家將只能合成已解鎖的配方。,Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+落下ダメージ,Düşme hasarı alma,tr-TR
+藤蔓蔓延,Sarmaşıklar yayılsın,tr-TR
+行商人のスポーン,Seyyar Tüccarlar oluşsun,tr-TR
+表示するデバッグ情報の項目数を制限します。,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+被騎乘的實體是否能使用傳送門,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+被骑乘的实体能否使用传送门,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+襲撃の無効化,Baskınları kapat,tr-TR
+襲撃の発生,Baskınlar olsun,tr-TR
+記錄指令方塊輸出,Komut bloğu çıktıları gösterilsin,tr-TR
+記錄管理員指令,Yönetici komutları gösterilsin,tr-TR
+設備エンティティのドロップ,Varlık ekipmanı düşsün,tr-TR
+跳过夜晚所需的入睡玩家占比。,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+跳過夜晚所需的入睡玩家比例。,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+进度通知,Gelişimler gösterilsin,tr-TR
+通告管理员命令,Yönetici komutları gösterilsin,tr-TR
+造成冰凍傷害,Donma hasarı alma,tr-TR
+造成摔落傷害,Düşme hasarı alma,tr-TR
+造成溺水傷害,Boğulma hasarı alma,tr-TR
+造成火焰傷害,Ateş hasarı alma,tr-TR
+進度通知,Gelişimler gösterilsin,tr-TR
+進捗達成の通知,Gelişimler gösterilsin,tr-TR
+遊戲規則變更,Oyun Kuralı Değişiklikleri,tr-TR
+部分實體可能採用不同的規則。,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+重生區塊半徑,Başlangıç yığınları yarıçapı,tr-TR
+重生点半径,Yeniden canlanma yeri çevresi,tr-TR
+重生點半徑,Yeniden canlanma yeri çevresi,tr-TR
+降雪时，地面上的雪最多堆积到此处指定的层数。,"Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+降雪時に積もる雪の層の最大数を設定できます。,"Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+降雪時，地面上的積雪最多累積至此處指定的層數。,"Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+限制调试屏幕内容。,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+限制除錯畫面的內容。,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+随机刻速率,Rastgele zaman birimi ilerleme oranı,tr-TR
+隨機刻速率,Rastgele zaman birimi ilerleme oranı,tr-TR
+雜項,Çeşitli,tr-TR
+需要配方才能合成,Üretim için tarif gereksin,tr-TR
+非クリエイティブモードでのネザーポータルの待機時間,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+非创造模式下玩家在下界传送门中等待的时间,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+非创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+非創造模式玩家使用地獄傳送門的等待時間,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+非生物实体掉落,Varlık ekipmanı düşsün,tr-TR
+預設值：%s,Varsayılan: %s,tr-TR
+顯示死亡訊息,Ölüm iletileri gösterilsin,tr-TR
+飛び道具によるブロック破壊の可否,Atılabilirler blokları kırabilir,tr-TR
+飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+默认：%s,Varsayılan: %s,tr-TR
+개체 장비 떨굼,Varlık ekipmanı düşsün,tr-TR
+개체 중첩 한계,Varlık sıkışması alt sınırı,tr-TR
+겉날개 움직임 확인 끄기,Elitra hareket hızı kontrolünü kapat,tr-TR
+겉날개 움직임 확인하기,Elitra hareketini denetle,tr-TR
+게임 규칙 받아오는 중...,Oyun kuralları alınıyor,tr-TR
+게임 규칙 변경 사항,Oyun Kuralı Değişiklikleri,tr-TR
+게임 규칙 수정,Oyun Kurallarını Düzenle,tr-TR
+게임 규칙 수정...,Oyun Kurallarını Düzenle...,tr-TR
+게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,tr-TR
+경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,tr-TR
+경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,tr-TR
+관리자 명령 알림,Yönetici komutları gösterilsin,tr-TR
+관전자의 지형 생성 허용,Seyircilerin arazi oluşturmasına izin verilsin,tr-TR
+"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.","Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",tr-TR
+광산 수레 최고 속도,En yüksek vagon hızı,tr-TR
+기본값: %s,Varsayılan: %s,tr-TR
+기타,Çeşitli,tr-TR
+낙하 피해,Düşme hasarı alma,tr-TR
+날씨 갱신,Hava durumu döngüsü olsun,tr-TR
+네더 허용,Nether'a İzin Ver,tr-TR
+"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.","Kar yağdığında, zeminde birikecek kar katmanı sayısı.",tr-TR
+대화,Sohbet,tr-TR
+덩굴 퍼짐,Sarmaşıklar yayılsın,tr-TR
+덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",tr-TR
+동상 피해,Donma hasarı alma,tr-TR
+디버그 정보 축소,Hata ayıklama bilgisini azalt,tr-TR
+디버그 화면의 내용을 제한합니다.,Hata ayıklama ekranı içeriğini kısıtlar.,tr-TR
+땅에서 광산 수레가 움직일 때 최고 기본 속도,Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,tr-TR
+떠돌이 상인 생성,Seyyar Tüccarlar oluşsun,tr-TR
+떨굼 설정,Düşenler,tr-TR
+랜덤 틱 속도 비율,Rastgele zaman birimi ilerleme oranı,tr-TR
+리스폰 위치 반지름,Yeniden canlanma yeri çevresi,tr-TR
+명령 블록 연쇄와 함수에 해당.,Komut bloğu zincirleri ve fonksiyonlar için geçerli.,tr-TR
+명령 블록 출력 알림,Komut bloğu çıktıları gösterilsin,tr-TR
+명령 블록 켜기,Komut Bloklarını Etkinleştir,tr-TR
+명령 연쇄 크기 제한,Komut zinciri uzunluk sınırı,tr-TR
+명령 피드백 전송,Komut geri bildirimi gösterilsin,tr-TR
+명령어 맥락 제한,Komut bağlam limiti,tr-TR
+명령어의 블록 변경량 제한,Komut değişikliği blok sınırı,tr-TR
+몬스터 생성,Canavarlar Oluşsun,tr-TR
+몬스터의 자연적 생성 여부를 제어합니다.,Canavarların doğal olarak oluşabilmesini kontrol eder.,tr-TR
+몹,Canlılar,tr-TR
+몹 노획물 떨굼,Canlı ganimeti düşsün,tr-TR
+몹 생성,Canlılar oluşsun,tr-TR
+"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음","Canlı patlamalarında, bazı bloklar düşmesin",tr-TR
+"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+무차별적 분노,Evrensel öfke,tr-TR
+물이 원천으로 바뀜,"Su, kaynağa dönüşsün",tr-TR
+발전 과제 알림,Gelişimler gösterilsin,tr-TR
+밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,tr-TR
+"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.","Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",tr-TR
+분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",tr-TR
+불 갱신,Ateş yayılabilsin,tr-TR
+불 피해,Ateş hasarı alma,tr-TR
+불 확산 반지름,Ateş yayılma yarıçapı,tr-TR
+블록 떨굼,Bloklar düşsün,tr-TR
+"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음","Blok etkileşimi patlamalarında, bazı bloklar düşmesin",tr-TR
+"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,tr-TR
+생명력 재생,Sağlık yenilensin,tr-TR
+생성,Oluşum,tr-TR
+생성기 블록 켜기,Çağırıcı Bloklarını Etkinleştir,tr-TR
+세계 갱신,Dünyadaki Hareketler,tr-TR
+"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,tr-TR
+스폰 청크 반지름,Başlangıç yığınları yarıçapı,tr-TR
+습격 끄기,Baskınları kapat,tr-TR
+습격 켜기,Baskınlar olsun,tr-TR
+시간 흐름,Gece-gündüz döngüsü olsun,tr-TR
+약탈자 정찰대 생성,Yağmacı devriyeleri oluşsun,tr-TR
+오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,tr-TR
+용암이 원천으로 바뀜,"Lav, kaynağa dönüşsün",tr-TR
+워든 생성,Muhafızlar oluşsun,tr-TR
+이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,tr-TR
+익사 피해,Boğulma hasarı alma,tr-TR
+일부 개체는 별도의 규칙이 있을 수 있습니다.,Bazı varlıkların ayrı kuralları olabilir.,tr-TR
+저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,tr-TR
+적설 높이,Kar birikme yüksekliği,tr-TR
+전역 소리 이벤트,Küresel ses olayları,tr-TR
+제작에 제작법 필요,Üretim için tarif gereksin,tr-TR
+죽은 플레이어 용서,Ölü oyuncular affedilsin,tr-TR
+죽을 때 던져져 있는 엔더 진주 소멸,Atılan Ender İncileri ölünce yok olurlar,tr-TR
+죽음 문구 표시,Ölüm iletileri gösterilsin,tr-TR
+죽음 후 보관함 보존,Öldükten sonra envanteri koru,tr-TR
+중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",tr-TR
+중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",tr-TR
+즉시 리스폰,Anında yeniden canlanma,tr-TR
+취침 비율,Uyuma yüzdesi,tr-TR
+켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,tr-TR
+크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,tr-TR
+크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,tr-TR
+크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,tr-TR
+"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.","Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",tr-TR
+탑승자가 있는 개체의 차원문 사용 허용,Yolcusu olan varlıklar geçitlerden geçebilir,tr-TR
+투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,tr-TR
+투사체가 블록 파괴 가능,Atılabilirler blokları kırabilir,tr-TR
+파괴적 몹 행위 허용,Canlıların yıkıcı etkilerine izin verilsin,tr-TR
+팬텀 생성,Kâbuslar oluşsun,tr-TR
+플레이어,Oyuncu,tr-TR
+플레이어 움직임 확인 끄기,Oyuncu hareket denetimini kapat,tr-TR
+플레이어 움직임 확인하기,Oyuncu hareketini denetle,tr-TR
+플레이어 위치 표시 바 켜기,Oyuncu Konum Çubuğunu aç,tr-TR
+플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,tr-TR
+"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,tr-TR
+플레이어로부터 떨어진 불 틱,Oyunculardan uzakta ateş yayılabilsin,tr-TR
+플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,tr-TR
+플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,Oyuncu etrafında ateş yayılabilen blok yarıçapı.,tr-TR
+플레이어의 네더 진입 가능 여부를 제어합니다.,Oyuncuların Nether'a girebilmesini kontrol eder.,tr-TR
+하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,Zorlayıcı dünyada oyun kuralları değiştirilemez.,tr-TR
+"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.","Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR
+"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.","Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",tr-TR

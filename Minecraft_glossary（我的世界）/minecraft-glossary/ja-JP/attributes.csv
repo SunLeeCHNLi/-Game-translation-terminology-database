@@ -1,0 +1,589 @@
+﻿source,target,tgt_lng
+%%%s %s,%2$s %1$s%%,ja-JP
+%%%s %s,%s%% %s,ja-JP
+%2$s: %1$s,%s %s,ja-JP
+%2$s: %1$s%%,%2$s %1$s%%,ja-JP
+%2$s: %1$s%%,%s%% %s,ja-JP
+%2$s: +%1$s,%2$s +%1$s,ja-JP
+%2$s: +%1$s%%,%2$s +%1$s%%,ja-JP
+%2$s: +%1$s%%,+%s%% %s,ja-JP
+%2$s: -%1$s,%2$s -%1$s,ja-JP
+%2$s: -%1$s%%,%2$s -%1$s%%,ja-JP
+%2$s: -%1$s%%,-%s%% %s,ja-JP
+%s %% %s,%2$s %1$s%%,ja-JP
+%s %% %s,%s%% %s,ja-JP
+%s %% en %s,%2$s %1$s%%,ja-JP
+%s %% en %s,%s%% %s,ja-JP
+%s en %s,%s %s,ja-JP
+%s%% %s,%2$s %1$s%%,ja-JP
++%%%s %s,%2$s +%1$s%%,ja-JP
++%%%s %s,+%s%% %s,ja-JP
++%s %% %s,%2$s +%1$s%%,ja-JP
++%s %% %s,+%s%% %s,ja-JP
++%s %% en %s,%2$s +%1$s%%,ja-JP
++%s %% en %s,+%s%% %s,ja-JP
++%s %s,%2$s +%1$s,ja-JP
++%s en %s,%2$s +%1$s,ja-JP
++%s%% %s,%2$s +%1$s%%,ja-JP
+-%%%s %s,%2$s -%1$s%%,ja-JP
+-%%%s %s,-%s%% %s,ja-JP
+-%s %% %s,%2$s -%1$s%%,ja-JP
+-%s %% %s,-%s%% %s,ja-JP
+-%s %% en %s,%2$s -%1$s%%,ja-JP
+-%s %% en %s,-%s%% %s,ja-JP
+-%s %s,%2$s -%1$s,ja-JP
+-%s en %s,%2$s -%1$s,ja-JP
+-%s%% %s,%2$s -%1$s%%,ja-JP
+Abbaueffizienz,採掘効率,ja-JP
+Absorción máxima,衝撃吸収レベルの上限,ja-JP
+absorption maximale,衝撃吸収レベルの上限,ja-JP
+Absorção máxima,衝撃吸収レベルの上限,ja-JP
+Ad Etiketi Mesafesi,ネームタグの表示距離,ja-JP
+Ad Etiketi Puan Mesafesi,ネームタグ下のスコアの表示距離,ja-JP
+Adım Yüksekliği,段差上限,ja-JP
+Air Drag Modifier,空気抵抗係数,ja-JP
+Alcance de atração das criaturas,Mobの誘引される範囲,ja-JP
+Alcance de detecção do marcador,ウェイポイント受信距離,ja-JP
+Alcance de interação com blocos,ブロック操作範囲,ja-JP
+Alcance de interação com entidades,エンティティ操作範囲,ja-JP
+Alcance de perseguição das criaturas,Mobの追跡範囲,ja-JP
+Alcance de transmissão do marcador,ウェイポイント伝達距離,ja-JP
+Altezza del passo,段差上限,ja-JP
+Altura de paso,段差上限,ja-JP
+Altura dos passos,段差上限,ja-JP
+Angriffsgeschwindigkeit,攻撃速度,ja-JP
+Angriffsrückstoß,ノックバック,ja-JP
+Angriffsrückstoß,ノックバック力,ja-JP
+Angriffsschaden,攻撃力,ja-JP
+Armadura,防御力,ja-JP
+Armatura,防御力,ja-JP
+Armor,防御力,ja-JP
+Armor Toughness,防具強度,ja-JP
+Assorbimento massimo,衝撃吸収レベルの上限,ja-JP
+At Zıplama Gücü,ウマの跳躍力,ja-JP
+Attack Damage,攻撃力,ja-JP
+Attack Knockback,ノックバック,ja-JP
+Attack Knockback,ノックバック力,ja-JP
+Attack Speed,攻撃速度,ja-JP
+Bewegungseffizienz,移動効率,ja-JP
+Block Break Speed,ブロック破壊速度,ja-JP
+Block Interaction Range,ブロック操作範囲,ja-JP
+Blockabbaugeschwindigkeit,ブロック破壊速度,ja-JP
+Block‐Interaktionsweite,ブロック操作範囲,ja-JP
+Blok Etkileşim Mesafesi,ブロック操作範囲,ja-JP
+Blok Kırma Hızı,ブロック破壊速度,ja-JP
+bonus d'oxygène,酸素ボーナス,ja-JP
+Bounciness,弾性係数,ja-JP
+Brenndauer,炎上時間,ja-JP
+Burning Time,炎上時間,ja-JP
+Bật lùi tấn công,ノックバック,ja-JP
+Camera Distance,カメラ距離,ja-JP
+Canlı Fark Etme Mesafesi,Mobの誘引される範囲,ja-JP
+Canlı Takip Menzili,Mobの追跡範囲,ja-JP
+Canlı Takip Mesafesi,Mobの追跡範囲,ja-JP
+chance,運,ja-JP
+Chiều cao bước,段差上限,ja-JP
+Contraccolpo,ノックバック,ja-JP
+Contraccolpo,ノックバック力,ja-JP
+Danni per colpo,攻撃力,ja-JP
+Dano por golpe,攻撃力,ja-JP
+Daño de ataque,攻撃力,ja-JP
+distance d'affichage du nom,ネームタグの表示距離,ja-JP
+distance d'affichage du score du nom,ネームタグ下のスコアの表示距離,ja-JP
+distance de chute sûre,安全落下高度,ja-JP
+distance de la caméra,カメラ距離,ja-JP
+Distancia de caída segura,安全落下高度,ja-JP
+Distancia de la cámara,カメラ距離,ja-JP
+Distancia del identificador,ネームタグの表示距離,ja-JP
+Distancia del marcador de puntuación,ネームタグ下のスコアの表示距離,ja-JP
+Distanza del punteggio nella targhetta,ネームタグ下のスコアの表示距離,ja-JP
+Distanza dell'inquadratura,カメラ距離,ja-JP
+Distanza della targhetta,ネームタグの表示距離,ja-JP
+Distanza di caduta sicura,安全落下高度,ja-JP
+Distância da câmera,カメラ距離,ja-JP
+Distância de queda segura,安全落下高度,ja-JP
+Distância do identificador,ネームタグの表示距離,ja-JP
+Distância do marcador de pontuação,ネームタグ下のスコアの表示距離,ja-JP
+Duración de quemadura,炎上時間,ja-JP
+Duração de queima,炎上時間,ja-JP
+Dureza de armadura,防具強度,ja-JP
+Düşme Hasarı Çarpanı,落下ダメージ倍率,ja-JP
+efficacité de minage,採掘効率,ja-JP
+efficacité de mouvement,移動効率,ja-JP
+efficacité de mouvement aquatique,水中移動効率,ja-JP
+Efficienza d'estrazione,採掘効率,ja-JP
+Efficienza del movimento,移動効率,ja-JP
+Efficienza del movimento in acqua,水中移動効率,ja-JP
+Eficiencia al romper bloques,採掘効率,ja-JP
+Eficiencia de movimiento,移動効率,ja-JP
+Eficiencia de movimiento acuático,水中移動効率,ja-JP
+Eficiência de mineração,採掘効率,ja-JP
+Eficiência de movimento,移動効率,ja-JP
+Eficiência de movimento na água,水中移動効率,ja-JP
+Elasticità,弾性係数,ja-JP
+Empuje de ataque,ノックバック,ja-JP
+Empuje de ataque,ノックバック力,ja-JP
+En Fazla Emilim,衝撃吸収レベルの上限,ja-JP
+En Fazla Sağlık,最大体力,ja-JP
+Entity Interaction Range,エンティティ操作範囲,ja-JP
+Escala,サイズ,ja-JP
+Escala,大きさ,ja-JP
+Explosion Knockback Resistance,爆発ノックバック耐性,ja-JP
+Explosionsstandfestigkeit,爆発ノックバック耐性,ja-JP
+Eğilirken Hareket Hızı,スニーク速度,ja-JP
+Eğilme Hızı,スニーク速度,ja-JP
+Fall Damage Multiplier,落下ダメージ倍率,ja-JP
+Fallschaden‐Multiplikator,落下ダメージ倍率,ja-JP
+Federung,弾性係数,ja-JP
+Fluggeschwindigkeit,飛行速度,ja-JP
+Flying Speed,飛行速度,ja-JP
+Fortuna,運,ja-JP
+Forza del salto,跳躍力,ja-JP
+Forza di salto del cavallo,ウマの跳躍力,ja-JP
+Força de salto do cavalo,ウマの跳躍力,ja-JP
+Força do salto,跳躍力,ja-JP
+Friction Modifier,摩擦係数,ja-JP
+Geniş Saldırı Hasar Oranı,なぎ払いダメージの比率,ja-JP
+Geschwindigkeit,移動速度,ja-JP
+Giáp,防御力,ja-JP
+Glück,運,ja-JP
+Gravedad,重力,ja-JP
+Gravidade,重力,ja-JP
+Gravity,重力,ja-JP
+Gravità,重力,ja-JP
+gravité,重力,ja-JP
+Größe,サイズ,ja-JP
+Größe,大きさ,ja-JP
+Güvenli Düşüş Mesafesi,安全落下高度,ja-JP
+Hareket Verimliliği,移動効率,ja-JP
+hauteur des pas,段差上限,ja-JP
+Hava Direnci Niteleyici,空気抵抗係数,ja-JP
+Hiệu quả di chuyển,移動効率,ja-JP
+Hiệu quả di chuyển dưới nước,水中移動効率,ja-JP
+Hiệu suất đào,採掘効率,ja-JP
+Horse Jump Strength,ウマの跳躍力,ja-JP
+Hız,移動速度,ja-JP
+Hấp thụ tối đa,衝撃吸収レベルの上限,ja-JP
+Hệ số lực cản không khí,空気抵抗係数,ja-JP
+Hệ số ma sát,摩擦係数,ja-JP
+Hệ số sát thương rơi,落下ダメージ倍率,ja-JP
+Jump Strength,跳躍力,ja-JP
+Kamera Mesafesi,カメラ距離,ja-JP
+Kameraabstand,カメラ距離,ja-JP
+Kazım Verimliliği,採掘効率,ja-JP
+Khoảng cách hiển thị nhãn ghi tên,ネームタグの表示距離,ja-JP
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,ネームタグ下のスコアの表示距離,ja-JP
+Khoảng cách máy quay,カメラ距離,ja-JP
+Kháng đẩy lùi,ノックバック耐性,ja-JP
+Kháng đẩy lùi từ vụ nổ,爆発ノックバック耐性,ja-JP
+Knockback Resistance,ノックバック耐性,ja-JP
+Kreaturen‐Anlockdistanz,Mobの誘引される範囲,ja-JP
+Kreaturen‐Verfolgedistanz,Mobの追跡範囲,ja-JP
+Luck,運,ja-JP
+Luftwiderstandsfaktor,空気抵抗係数,ja-JP
+Lực lượng thây ma tăng cường,ゾンビの増援,ja-JP
+Max Absorption,衝撃吸収レベルの上限,ja-JP
+Max Health,最大体力,ja-JP
+Maximale Absorption,衝撃吸収レベルの上限,ja-JP
+Maximale Gesundheit,最大体力,ja-JP
+May mắn,運,ja-JP
+Mining Efficiency,採掘効率,ja-JP
+Mob Follow Range,Mobの追跡範囲,ja-JP
+Mob Tempt Range,Mobの誘引される範囲,ja-JP
+Modificador de atrito,摩擦係数,ja-JP
+Modificador de fricción,摩擦係数,ja-JP
+Modificador de resistencia del aire,空気抵抗係数,ja-JP
+Modificador de resistência ao ar,空気抵抗係数,ja-JP
+modificateur de friction,摩擦係数,ja-JP
+modificateur de résistance à l'air,空気抵抗係数,ja-JP
+Modificatore di attrito,摩擦係数,ja-JP
+Modificatore di resistenza aerodinamica,空気抵抗係数,ja-JP
+Moltiplicatore del danno da caduta,落下ダメージ倍率,ja-JP
+Movement Efficiency,移動効率,ja-JP
+Multiplicador de dano por queda,落下ダメージ倍率,ja-JP
+Multiplicador de daño por caída,落下ダメージ倍率,ja-JP
+multiplicateur des dégâts de chute,落下ダメージ倍率,ja-JP
+Name Tag Distance,ネームタグの表示距離,ja-JP
+Name Tag Score Distance,ネームタグ下のスコアの表示距離,ja-JP
+Namensschildabstand,ネームタグの表示距離,ja-JP
+Objekt‐Interaktionsweite,エンティティ操作範囲,ja-JP
+Oksijen Takviyesi,酸素ボーナス,ja-JP
+Ossigeno aggiuntivo,酸素ボーナス,ja-JP
+Oxigênio extra,酸素ボーナス,ja-JP
+Oxygen Bonus,酸素ボーナス,ja-JP
+Oxígeno extra,酸素ボーナス,ja-JP
+Patlama Savrulması Direnci,爆発ノックバック耐性,ja-JP
+Pferdesprungstärke,ウマの跳躍力,ja-JP
+Phạm vi nhận điểm mốc,ウェイポイント受信距離,ja-JP
+Phạm vi thu hút sinh vật,Mobの誘引される範囲,ja-JP
+Phạm vi truyền điểm mốc,ウェイポイント伝達距離,ja-JP
+Phạm vi tương tác khối,ブロック操作範囲,ja-JP
+Phạm vi tương tác thực thể,エンティティ操作範囲,ja-JP
+Phạm vi đi theo của sinh vật,Mobの追跡範囲,ja-JP
+Phần oxi thêm,酸素ボーナス,ja-JP
+points d'armure,防御力,ja-JP
+points d'attaque,攻撃力,ja-JP
+Portata di ricezione del punto di riferimento,ウェイポイント受信距離,ja-JP
+Portata di trasmissione del punto di riferimento,ウェイポイント伝達距離,ja-JP
+portée d'interaction avec les blocs,ブロック操作範囲,ja-JP
+portée d'interaction avec les entités,エンティティ操作範囲,ja-JP
+portée de détection des créatures,Mobの追跡範囲,ja-JP
+portée de réception du point de repère,ウェイポイント受信距離,ja-JP
+portée de tentation des créatures,Mobの誘引される範囲,ja-JP
+portée de transmission du point de repère,ウェイポイント伝達距離,ja-JP
+Potencia de salto,跳躍力,ja-JP
+Potencia de salto del caballo,ウマの跳躍力,ja-JP
+Proporción del daño de barrido,なぎ払いダメージの比率,ja-JP
+puissance de saut,跳躍力,ja-JP
+puissance de saut du cheval,ウマの跳躍力,ja-JP
+Punktetafelabstand,ネームタグ下のスコアの表示距離,ja-JP
+Punti armatura,防御力,ja-JP
+Quy mô,サイズ,ja-JP
+Quy mô,大きさ,ja-JP
+Radio de atracción de criaturas,Mobの誘引される範囲,ja-JP
+Raggio d'interazione con i blocchi,ブロック操作範囲,ja-JP
+Raggio d'interazione con le entità,エンティティ操作範囲,ja-JP
+Raggio di rilevamento delle creature,Mobの追跡範囲,ja-JP
+Raggio di tentazione delle creature,Mobの誘引される範囲,ja-JP
+Rango de interacción con bloques,ブロック操作範囲,ja-JP
+Rango de interacción con entidades,エンティティ操作範囲,ja-JP
+Rango de recepción del punto de referencia,ウェイポイント受信距離,ja-JP
+Rango de seguimiento,Mobの追跡範囲,ja-JP
+Rango de transmisión del punto de referencia,ウェイポイント伝達距離,ja-JP
+rapidité,移動速度,ja-JP
+Rapporto del danno sferzante,なぎ払いダメージの比率,ja-JP
+ratio de dégâts par balayage,なぎ払いダメージの比率,ja-JP
+rebond,弾性係数,ja-JP
+Rebote,弾性係数,ja-JP
+recul d'attaque,ノックバック,ja-JP
+recul d'attaque,ノックバック力,ja-JP
+Reforços de zumbis,ゾンビの増援,ja-JP
+Refuerzos zombi,ゾンビの増援,ja-JP
+Reibungsfaktor,摩擦係数,ja-JP
+renforts de zombies,ゾンビの増援,ja-JP
+Repulsão do ataque,ノックバック,ja-JP
+Repulsão do ataque,ノックバック力,ja-JP
+Resistencia al empuje,ノックバック耐性,ja-JP
+Resistencia al empuje de las explosiones,爆発ノックバック耐性,ja-JP
+Resistenza al contraccolpo,ノックバック耐性,ja-JP
+Resistenza al contraccolpo delle esplosioni,爆発ノックバック耐性,ja-JP
+Resistência da armadura,防具強度,ja-JP
+Resistência à repulsão,ノックバック耐性,ja-JP
+Resistência à repulsão de explosões,爆発ノックバック耐性,ja-JP
+Rinforzi zombi,ゾンビの増援,ja-JP
+robustesse,防具強度,ja-JP
+résistance au recul,ノックバック耐性,ja-JP
+résistance au recul des explosions,爆発ノックバック耐性,ja-JP
+Rüstung,防御力,ja-JP
+Rüstungshärte,防具強度,ja-JP
+Safe Fall Distance,安全落下高度,ja-JP
+Saldırı Hasarı,攻撃力,ja-JP
+Saldırı Hızı,攻撃速度,ja-JP
+Saldırı Savurması,ノックバック,ja-JP
+Saldırı Savurması,ノックバック力,ja-JP
+Salud máxima,最大体力,ja-JP
+Salute massima,最大体力,ja-JP
+Sauerstoffbonus,酸素ボーナス,ja-JP
+Savrulma Direnci,ノックバック耐性,ja-JP
+Scala,サイズ,ja-JP
+Scala,大きさ,ja-JP
+Scale,サイズ,ja-JP
+Scale,大きさ,ja-JP
+Schleichgeschwindigkeit,スニーク速度,ja-JP
+Schritthöhe,段差上限,ja-JP
+Schwerkraft,重力,ja-JP
+Schwungschadensverhältnis,なぎ払いダメージの比率,ja-JP
+Sekme,弾性係数,ja-JP
+Sichere Fallhöhe,安全落下高度,ja-JP
+Sinh lực tối đa,最大体力,ja-JP
+Sneaking Speed,スニーク速度,ja-JP
+Solidità dell'armatura,防具強度,ja-JP
+Sorte,運,ja-JP
+Speed,移動速度,ja-JP
+Sprungstärke,跳躍力,ja-JP
+Standfestigkeit,ノックバック耐性,ja-JP
+Step Height,段差上限,ja-JP
+Su Altında Kazım Hızı,水中採掘速度,ja-JP
+Submerged Mining Speed,水中採掘速度,ja-JP
+Suda Hareket Verimliliği,水中移動効率,ja-JP
+Suerte,運,ja-JP
+Sweeping Damage Ratio,なぎ払いダメージの比率,ja-JP
+Sürtünme Düzenleyici,摩擦係数,ja-JP
+Sức bật lùi,ノックバック力,ja-JP
+Sức nhảy,跳躍力,ja-JP
+Sức nhảy của ngựa,ウマの跳躍力,ja-JP
+Sức tấn công,攻撃力,ja-JP
+taille,サイズ,ja-JP
+taille,大きさ,ja-JP
+Taxa de dano lateral,なぎ払いダメージの比率,ja-JP
+Tempo di combustione,炎上時間,ja-JP
+temps en feu,炎上時間,ja-JP
+Thời gian cháy,炎上時間,ja-JP
+Trọng lực,重力,ja-JP
+Tỉ lệ sát thương quét cạnh,なぎ払いダメージの比率,ja-JP
+Tốc độ,移動速度,ja-JP
+Tốc độ bay,飛行速度,ja-JP
+Tốc độ phá khối,ブロック破壊速度,ja-JP
+Tốc độ tấn công,攻撃速度,ja-JP
+Tốc độ đi rón rén,スニーク速度,ja-JP
+Tốc độ đào dưới nước,水中採掘速度,ja-JP
+Unterwasser‐Abbaugeschwindigkeit,水中採掘速度,ja-JP
+Uçma Hızı,飛行速度,ja-JP
+Uçuş Hızı,飛行速度,ja-JP
+Varlık Etkileşim Mesafesi,エンティティ操作範囲,ja-JP
+Velocidad,移動速度,ja-JP
+Velocidad al agacharse,スニーク速度,ja-JP
+Velocidad al romper bloques,ブロック破壊速度,ja-JP
+Velocidad al romper bloques sumergido,水中採掘速度,ja-JP
+Velocidad de ataque,攻撃速度,ja-JP
+Velocidad de vuelo,飛行速度,ja-JP
+Velocidade,移動速度,ja-JP
+Velocidade de ataque,攻撃速度,ja-JP
+Velocidade de mineração submersa,水中採掘速度,ja-JP
+Velocidade de quebra de blocos,ブロック破壊速度,ja-JP
+Velocidade do voo,飛行速度,ja-JP
+Velocidade furtiva,スニーク速度,ja-JP
+Velocità,移動速度,ja-JP
+Velocità d'attacco,攻撃速度,ja-JP
+Velocità d'estrazione sott'acqua,水中採掘速度,ja-JP
+Velocità di distruzione dei blocchi,ブロック破壊速度,ja-JP
+Velocità furtiva,スニーク速度,ja-JP
+Velocità in volo,飛行速度,ja-JP
+Vida máxima,最大体力,ja-JP
+vie maximale,最大体力,ja-JP
+vitesse accroupie,スニーク速度,ja-JP
+vitesse d'attaque,攻撃速度,ja-JP
+vitesse de destruction des blocs,ブロック破壊速度,ja-JP
+vitesse de minage sous l'eau,水中採掘速度,ja-JP
+vitesse de vol,飛行速度,ja-JP
+Wasser‐Bewegungseffizienz,水中移動効率,ja-JP
+Water Movement Efficiency,水中移動効率,ja-JP
+Waypoint Receive Range,ウェイポイント受信距離,ja-JP
+Waypoint Transmit Range,ウェイポイント伝達距離,ja-JP
+Wegpunkt‐Empfangsreichweite,ウェイポイント受信距離,ja-JP
+Wegpunkt‐Sendereichweite,ウェイポイント伝達距離,ja-JP
+Yanma Süresi,炎上時間,ja-JP
+Yer Çekimi,重力,ja-JP
+Yol Noktası Alma Mesafesi,ウェイポイント受信距離,ja-JP
+Yol Noktası İletme Mesafesi,ウェイポイント伝達距離,ja-JP
+Zombi Takviyesi,ゾンビの増援,ja-JP
+Zombie Reinforcements,ゾンビの増援,ja-JP
+Zombie-Verstärkung,ゾンビの増援,ja-JP
+Zombie‐Verstärkung,ゾンビの増援,ja-JP
+Zıplama Gücü,跳躍力,ja-JP
+Zırh,防御力,ja-JP
+Zırh Sertliği,防具強度,ja-JP
+Ölçek,サイズ,ja-JP
+Ölçek,大きさ,ja-JP
+Độ bền của áo giáp,防具強度,ja-JP
+Độ bền áo giáp,防具強度,ja-JP
+Độ cao rơi xuống an toàn,安全落下高度,ja-JP
+Độ nảy,弾性係数,ja-JP
+Şans,運,ja-JP
+Безопасная высота падения,安全落下高度,ja-JP
+Бонус к кислороду,酸素ボーナス,ja-JP
+Броня,防御力,ja-JP
+Везение,運,ja-JP
+Время горения,炎上時間,ja-JP
+Высота шага,段差上限,ja-JP
+Гравитация,重力,ja-JP
+Дальность взаимодействия с блоками,ブロック操作範囲,ja-JP
+Дальность взаимодействия с сущностями,エンティティ操作範囲,ja-JP
+Дальность видимости имени,ネームタグの表示距離,ja-JP
+Дальность видимости счёта под именем,ネームタグ下のスコアの表示距離,ja-JP
+Дальность обнаружения маркеров,ウェイポイント受信距離,ja-JP
+Дальность передачи маркера,ウェイポイント伝達距離,ja-JP
+Дальность приманивания,Mobの誘引される範囲,ja-JP
+Диапазон преследования моба,Mobの追跡範囲,ja-JP
+Коэффициент разящего удара,なぎ払いダメージの比率,ja-JP
+Максимальное здоровье,最大体力,ja-JP
+Множитель урона от падения,落下ダメージ倍率,ja-JP
+Модификатор сопротивления воздуха,空気抵抗係数,ja-JP
+Модификатор трения,摩擦係数,ja-JP
+Отбрасывание при атаке,ノックバック,ja-JP
+Отбрасывание при атаке,ノックバック力,ja-JP
+Отдалённость камеры,カメラ距離,ja-JP
+Подкрепление зомби,ゾンビの増援,ja-JP
+Предел поглощения,衝撃吸収レベルの上限,ja-JP
+Размер,サイズ,ja-JP
+Размер,大きさ,ja-JP
+Сила прыжка,跳躍力,ja-JP
+Сила прыжка лошади,ウマの跳躍力,ja-JP
+Скорость,移動速度,ja-JP
+Скорость атаки,攻撃速度,ja-JP
+Скорость добычи под водой,水中採掘速度,ja-JP
+Скорость подкрадывания,スニーク速度,ja-JP
+Скорость полёта,飛行速度,ja-JP
+Скорость разрушения блоков,ブロック破壊速度,ja-JP
+Сопротивление к отбрасыванию,ノックバック耐性,ja-JP
+Сопротивление к отбрасыванию взрывом,爆発ノックバック耐性,ja-JP
+Твёрдость брони,防具強度,ja-JP
+Упругость,弾性係数,ja-JP
+Урон при атаке,攻撃力,ja-JP
+Эффективность добычи,採掘効率,ja-JP
+Эффективность передвижения,移動効率,ja-JP
+Эффективность передвижения в воде,水中移動効率,ja-JP
+กระดอนโจมตี,ノックバック,ja-JP
+กระดอนโจมตี,ノックバック力,ja-JP
+กำลังเสริมซอมบี้,ゾンビの増援,ja-JP
+ขนาด,サイズ,ja-JP
+ขนาด,大きさ,ja-JP
+ความต้านทานการกระดอน,ノックバック耐性,ja-JP
+ความต้านทานการกระดอนจากระเบิด,爆発ノックバック耐性,ja-JP
+ความสูงของขั้นก้าว,段差上限,ja-JP
+ความเด้ง,弾性係数,ja-JP
+ความเร็ว,移動速度,ja-JP
+ความเร็วการขุดใต้น้ำ,水中採掘速度,ja-JP
+ความเร็วการทำลายบล็อก,ブロック破壊速度,ja-JP
+ความเร็วการบิน,飛行速度,ja-JP
+ความเร็วการย่อง,スニーク速度,ja-JP
+ความเร็วโจมตี,攻撃速度,ja-JP
+ความแข็งแกร่งของเกราะ,防具強度,ja-JP
+ความแรงการกระโดด,跳躍力,ja-JP
+ดาเมจโจมตี,攻撃力,ja-JP
+ดูดซับสูงสุด,衝撃吸収レベルの上限,ja-JP
+ตัวคูณดาเมจจากการตก,落下ダメージ倍率,ja-JP
+ตัวดัดแปรแรงต้านอากาศ,空気抵抗係数,ja-JP
+ตัวดัดแปรแรงเสียดทาน,摩擦係数,ja-JP
+ประสิทธิภาพการขุด,採掘効率,ja-JP
+ประสิทธิภาพการเคลื่อนที่,移動効率,ja-JP
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,水中移動効率,ja-JP
+ระยะการตกที่ปลอดภัย,安全落下高度,ja-JP
+ระยะการรับเวย์พอยต์,ウェイポイント受信距離,ja-JP
+ระยะการล่อของม็อบ,Mobの誘引される範囲,ja-JP
+ระยะการส่งผ่านเวย์พอยต์,ウェイポイント伝達距離,ja-JP
+ระยะคะแนนใต้ป้ายชื่อ,ネームタグ下のスコアの表示距離,ja-JP
+ระยะที่ม็อบติดตาม,Mobの追跡範囲,ja-JP
+ระยะปฏิสัมพันธ์กับบล็อก,ブロック操作範囲,ja-JP
+ระยะปฏิสัมพันธ์กับเอนทิตี้,エンティティ操作範囲,ja-JP
+ระยะป้ายชื่อ,ネームタグの表示距離,ja-JP
+ระยะห่างกล้อง,カメラ距離,ja-JP
+ระยะเวลาติดไฟ,炎上時間,ja-JP
+ออกซิเจนพิเศษ,酸素ボーナス,ja-JP
+อัตราส่วนดาเมจแบบกวาด,なぎ払いダメージの比率,ja-JP
+เกราะ,防御力,ja-JP
+เลือดสูงสุด,最大体力,ja-JP
+แรงม้ากระโดด,ウマの跳躍力,ja-JP
+แรงโน้มถ่วง,重力,ja-JP
+โชค,運,ja-JP
+僵尸增援,ゾンビの増援,ja-JP
+击退,ノックバック,ja-JP
+击退,ノックバック力,ja-JP
+击退抗性,ノックバック耐性,ja-JP
+名牌分数距离,ネームタグ下のスコアの表示距離,ja-JP
+名牌距离,ネームタグの表示距離,ja-JP
+名稱標籤分數距離,ネームタグ下のスコアの表示距離,ja-JP
+名稱標籤距離,ネームタグの表示距離,ja-JP
+大小,サイズ,ja-JP
+大小,大きさ,ja-JP
+安全摔落高度,安全落下高度,ja-JP
+实体交互距离,エンティティ操作範囲,ja-JP
+實體互動距離,エンティティ操作範囲,ja-JP
+尺寸,サイズ,ja-JP
+尺寸,大きさ,ja-JP
+幸运值,運,ja-JP
+幸運,運,ja-JP
+弹性,弾性係数,ja-JP
+彈性,弾性係数,ja-JP
+抗擊退,ノックバック耐性,ja-JP
+抗爆炸擊退,爆発ノックバック耐性,ja-JP
+护甲值,防御力,ja-JP
+挖掘效率,採掘効率,ja-JP
+摔落伤害倍数,落下ダメージ倍率,ja-JP
+摔落傷害倍率,落下ダメージ倍率,ja-JP
+摩擦力修正係數,摩擦係数,ja-JP
+摩擦力修正系数,摩擦係数,ja-JP
+擊退,ノックバック,ja-JP
+擊退,ノックバック力,ja-JP
+攻击伤害,攻撃力,ja-JP
+攻击速度,攻撃速度,ja-JP
+攻擊傷害,攻撃力,ja-JP
+攻擊速度,攻撃速度,ja-JP
+方块交互距离,ブロック操作範囲,ja-JP
+方块破坏速度,ブロック破壊速度,ja-JP
+方塊互動距離,ブロック操作範囲,ja-JP
+方塊破壞速度,ブロック破壊速度,ja-JP
+最大伤害吸收值,衝撃吸収レベルの上限,ja-JP
+最大傷害吸收值,衝撃吸収レベルの上限,ja-JP
+最大生命值,最大体力,ja-JP
+最大行走高度,段差上限,ja-JP
+最高生命值,最大体力,ja-JP
+横扫伤害比率,なぎ払いダメージの比率,ja-JP
+橫掃傷害率,なぎ払いダメージの比率,ja-JP
+殭屍增援隊,ゾンビの増援,ja-JP
+水下挖掘速度,水中採掘速度,ja-JP
+水中挖掘速度,水中採掘速度,ja-JP
+水中移动效率,水中移動効率,ja-JP
+水中移動效率,水中移動効率,ja-JP
+潛行速度,スニーク速度,ja-JP
+潜行速度,スニーク速度,ja-JP
+燃燒時間,炎上時間,ja-JP
+爆炸击退抗性,爆発ノックバック耐性,ja-JP
+生物引誘範圍,Mobの誘引される範囲,ja-JP
+生物引诱范围,Mobの誘引される範囲,ja-JP
+生物跟随距离,Mobの追跡範囲,ja-JP
+生物追蹤範圍,Mobの追跡範囲,ja-JP
+盔甲,防御力,ja-JP
+盔甲強度,防具強度,ja-JP
+盔甲韧性,防具強度,ja-JP
+着火时间,炎上時間,ja-JP
+移动效率,移動効率,ja-JP
+移動效率,移動効率,ja-JP
+空气阻力修正系数,空気抵抗係数,ja-JP
+空氣阻力修正係數,空気抵抗係数,ja-JP
+路径点传输距离,ウェイポイント伝達距離,ja-JP
+路径点接收距离,ウェイポイント受信距離,ja-JP
+路徑點傳輸距離,ウェイポイント伝達距離,ja-JP
+路徑點接收距離,ウェイポイント受信距離,ja-JP
+跳跃力度,跳躍力,ja-JP
+速度,移動速度,ja-JP
+鏡頭距離,カメラ距離,ja-JP
+镜头距离,カメラ距離,ja-JP
+額外氧氣,酸素ボーナス,ja-JP
+额外氧气,酸素ボーナス,ja-JP
+飞行速度,飛行速度,ja-JP
+馬跳躍力,ウマの跳躍力,ja-JP
+马匹跳跃能力,ウマの跳躍力,ja-JP
+개체 상호 작용 범위,エンティティ操作範囲,ja-JP
+걸음 높이,段差上限,ja-JP
+경로점 발신 범위,ウェイポイント伝達距離,ja-JP
+경로점 수신 범위,ウェイポイント受信距離,ja-JP
+공격 밀침 세기,ノックバック,ja-JP
+공격 밀침 세기,ノックバック力,ja-JP
+공격 속도,攻撃速度,ja-JP
+공격 피해,攻撃力,ja-JP
+공기 저항력 변경자,空気抵抗係数,ja-JP
+낙하 피해 배수,落下ダメージ倍率,ja-JP
+마찰력 변경자,摩擦係数,ja-JP
+말 점프 강도,ウマの跳躍力,ja-JP
+몹 따름 범위,Mobの追跡範囲,ja-JP
+몹 유인 범위,Mobの誘引される範囲,ja-JP
+밀침 저항,ノックバック耐性,ja-JP
+방어,防御力,ja-JP
+방어 강도,防具強度,ja-JP
+배율,サイズ,ja-JP
+블록 상호 작용 범위,ブロック操作範囲,ja-JP
+블록 파괴 속도,ブロック破壊速度,ja-JP
+비행 속도,飛行速度,ja-JP
+산소 추가,酸素ボーナス,ja-JP
+속도,移動速度,ja-JP
+수중 이동 효율,水中移動効率,ja-JP
+수중 채굴 속도,水中採掘速度,ja-JP
+안전 낙하 거리,安全落下高度,ja-JP
+연소 시간,炎上時間,ja-JP
+웅크렸을 때 속도,スニーク速度,ja-JP
+이동 효율,移動効率,ja-JP
+이름표 거리,ネームタグの表示距離,ja-JP
+이름표 점수 거리,ネームタグ下のスコアの表示距離,ja-JP
+점프 세기,跳躍力,ja-JP
+좀비 증원,ゾンビの増援,ja-JP
+중력,重力,ja-JP
+채굴 효율,採掘効率,ja-JP
+최대 생명력,最大体力,ja-JP
+최대 흡수,衝撃吸収レベルの上限,ja-JP
+카메라 거리,カメラ距離,ja-JP
+크기,大きさ,ja-JP
+탄성,弾性係数,ja-JP
+폭발 밀침 저항,爆発ノックバック耐性,ja-JP
+행운,運,ja-JP
+휩쓸기 피해 비율,なぎ払いダメージの比率,ja-JP

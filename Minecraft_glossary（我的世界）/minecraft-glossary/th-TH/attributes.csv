@@ -1,0 +1,556 @@
+﻿source,target,tgt_lng
+%%%s %s,%s%% %s,th-TH
+%2$s %1$s%%,%s%% %s,th-TH
+%2$s +%1$s,+%s %s,th-TH
+%2$s +%1$s%%,+%s%% %s,th-TH
+%2$s -%1$s,-%s %s,th-TH
+%2$s -%1$s%%,-%s%% %s,th-TH
+%2$s: %1$s,%s %s,th-TH
+%2$s: %1$s%%,%s%% %s,th-TH
+%2$s: +%1$s,+%s %s,th-TH
+%2$s: +%1$s%%,+%s%% %s,th-TH
+%2$s: -%1$s,-%s %s,th-TH
+%2$s: -%1$s%%,-%s%% %s,th-TH
+%s %% %s,%s%% %s,th-TH
+%s %% en %s,%s%% %s,th-TH
+%s en %s,%s %s,th-TH
++%%%s %s,+%s%% %s,th-TH
++%s %% %s,+%s%% %s,th-TH
++%s %% en %s,+%s%% %s,th-TH
++%s en %s,+%s %s,th-TH
+-%%%s %s,-%s%% %s,th-TH
+-%s %% %s,-%s%% %s,th-TH
+-%s %% en %s,-%s%% %s,th-TH
+-%s en %s,-%s %s,th-TH
+Abbaueffizienz,ประสิทธิภาพการขุด,th-TH
+Absorción máxima,ดูดซับสูงสุด,th-TH
+absorption maximale,ดูดซับสูงสุด,th-TH
+Absorção máxima,ดูดซับสูงสุด,th-TH
+Ad Etiketi Mesafesi,ระยะป้ายชื่อ,th-TH
+Ad Etiketi Puan Mesafesi,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+Adım Yüksekliği,ความสูงของขั้นก้าว,th-TH
+Air Drag Modifier,ตัวดัดแปรแรงต้านอากาศ,th-TH
+Alcance de atração das criaturas,ระยะการล่อของม็อบ,th-TH
+Alcance de detecção do marcador,ระยะการรับเวย์พอยต์,th-TH
+Alcance de interação com blocos,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+Alcance de interação com entidades,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+Alcance de perseguição das criaturas,ระยะที่ม็อบติดตาม,th-TH
+Alcance de transmissão do marcador,ระยะการส่งผ่านเวย์พอยต์,th-TH
+Altezza del passo,ความสูงของขั้นก้าว,th-TH
+Altura de paso,ความสูงของขั้นก้าว,th-TH
+Altura dos passos,ความสูงของขั้นก้าว,th-TH
+Angriffsgeschwindigkeit,ความเร็วโจมตี,th-TH
+Angriffsrückstoß,กระดอนโจมตี,th-TH
+Angriffsschaden,ดาเมจโจมตี,th-TH
+Armadura,เกราะ,th-TH
+Armatura,เกราะ,th-TH
+Armor,เกราะ,th-TH
+Armor Toughness,ความแข็งแกร่งของเกราะ,th-TH
+Assorbimento massimo,ดูดซับสูงสุด,th-TH
+At Zıplama Gücü,แรงม้ากระโดด,th-TH
+Attack Damage,ดาเมจโจมตี,th-TH
+Attack Knockback,กระดอนโจมตี,th-TH
+Attack Speed,ความเร็วโจมตี,th-TH
+Bewegungseffizienz,ประสิทธิภาพการเคลื่อนที่,th-TH
+Block Break Speed,ความเร็วการทำลายบล็อก,th-TH
+Block Interaction Range,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+Blockabbaugeschwindigkeit,ความเร็วการทำลายบล็อก,th-TH
+Block‐Interaktionsweite,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+Blok Etkileşim Mesafesi,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+Blok Kırma Hızı,ความเร็วการทำลายบล็อก,th-TH
+bonus d'oxygène,ออกซิเจนพิเศษ,th-TH
+Bounciness,ความเด้ง,th-TH
+Brenndauer,ระยะเวลาติดไฟ,th-TH
+Burning Time,ระยะเวลาติดไฟ,th-TH
+Bật lùi tấn công,กระดอนโจมตี,th-TH
+Camera Distance,ระยะห่างกล้อง,th-TH
+Canlı Fark Etme Mesafesi,ระยะการล่อของม็อบ,th-TH
+Canlı Takip Menzili,ระยะที่ม็อบติดตาม,th-TH
+Canlı Takip Mesafesi,ระยะที่ม็อบติดตาม,th-TH
+chance,โชค,th-TH
+Chiều cao bước,ความสูงของขั้นก้าว,th-TH
+Contraccolpo,กระดอนโจมตี,th-TH
+Danni per colpo,ดาเมจโจมตี,th-TH
+Dano por golpe,ดาเมจโจมตี,th-TH
+Daño de ataque,ดาเมจโจมตี,th-TH
+distance d'affichage du nom,ระยะป้ายชื่อ,th-TH
+distance d'affichage du score du nom,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+distance de chute sûre,ระยะการตกที่ปลอดภัย,th-TH
+distance de la caméra,ระยะห่างกล้อง,th-TH
+Distancia de caída segura,ระยะการตกที่ปลอดภัย,th-TH
+Distancia de la cámara,ระยะห่างกล้อง,th-TH
+Distancia del identificador,ระยะป้ายชื่อ,th-TH
+Distancia del marcador de puntuación,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+Distanza del punteggio nella targhetta,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+Distanza dell'inquadratura,ระยะห่างกล้อง,th-TH
+Distanza della targhetta,ระยะป้ายชื่อ,th-TH
+Distanza di caduta sicura,ระยะการตกที่ปลอดภัย,th-TH
+Distância da câmera,ระยะห่างกล้อง,th-TH
+Distância de queda segura,ระยะการตกที่ปลอดภัย,th-TH
+Distância do identificador,ระยะป้ายชื่อ,th-TH
+Distância do marcador de pontuação,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+Duración de quemadura,ระยะเวลาติดไฟ,th-TH
+Duração de queima,ระยะเวลาติดไฟ,th-TH
+Dureza de armadura,ความแข็งแกร่งของเกราะ,th-TH
+Düşme Hasarı Çarpanı,ตัวคูณดาเมจจากการตก,th-TH
+efficacité de minage,ประสิทธิภาพการขุด,th-TH
+efficacité de mouvement,ประสิทธิภาพการเคลื่อนที่,th-TH
+efficacité de mouvement aquatique,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+Efficienza d'estrazione,ประสิทธิภาพการขุด,th-TH
+Efficienza del movimento,ประสิทธิภาพการเคลื่อนที่,th-TH
+Efficienza del movimento in acqua,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+Eficiencia al romper bloques,ประสิทธิภาพการขุด,th-TH
+Eficiencia de movimiento,ประสิทธิภาพการเคลื่อนที่,th-TH
+Eficiencia de movimiento acuático,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+Eficiência de mineração,ประสิทธิภาพการขุด,th-TH
+Eficiência de movimento,ประสิทธิภาพการเคลื่อนที่,th-TH
+Eficiência de movimento na água,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+Elasticità,ความเด้ง,th-TH
+Empuje de ataque,กระดอนโจมตี,th-TH
+En Fazla Emilim,ดูดซับสูงสุด,th-TH
+En Fazla Sağlık,เลือดสูงสุด,th-TH
+Entity Interaction Range,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+Escala,ขนาด,th-TH
+Explosion Knockback Resistance,ความต้านทานการกระดอนจากระเบิด,th-TH
+Explosionsstandfestigkeit,ความต้านทานการกระดอนจากระเบิด,th-TH
+Eğilirken Hareket Hızı,ความเร็วการย่อง,th-TH
+Eğilme Hızı,ความเร็วการย่อง,th-TH
+Fall Damage Multiplier,ตัวคูณดาเมจจากการตก,th-TH
+Fallschaden‐Multiplikator,ตัวคูณดาเมจจากการตก,th-TH
+Federung,ความเด้ง,th-TH
+Fluggeschwindigkeit,ความเร็วการบิน,th-TH
+Flying Speed,ความเร็วการบิน,th-TH
+Fortuna,โชค,th-TH
+Forza del salto,ความแรงการกระโดด,th-TH
+Forza di salto del cavallo,แรงม้ากระโดด,th-TH
+Força de salto do cavalo,แรงม้ากระโดด,th-TH
+Força do salto,ความแรงการกระโดด,th-TH
+Friction Modifier,ตัวดัดแปรแรงเสียดทาน,th-TH
+Geniş Saldırı Hasar Oranı,อัตราส่วนดาเมจแบบกวาด,th-TH
+Geschwindigkeit,ความเร็ว,th-TH
+Giáp,เกราะ,th-TH
+Glück,โชค,th-TH
+Gravedad,แรงโน้มถ่วง,th-TH
+Gravidade,แรงโน้มถ่วง,th-TH
+Gravity,แรงโน้มถ่วง,th-TH
+Gravità,แรงโน้มถ่วง,th-TH
+gravité,แรงโน้มถ่วง,th-TH
+Größe,ขนาด,th-TH
+Güvenli Düşüş Mesafesi,ระยะการตกที่ปลอดภัย,th-TH
+Hareket Verimliliği,ประสิทธิภาพการเคลื่อนที่,th-TH
+hauteur des pas,ความสูงของขั้นก้าว,th-TH
+Hava Direnci Niteleyici,ตัวดัดแปรแรงต้านอากาศ,th-TH
+Hiệu quả di chuyển,ประสิทธิภาพการเคลื่อนที่,th-TH
+Hiệu quả di chuyển dưới nước,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+Hiệu suất đào,ประสิทธิภาพการขุด,th-TH
+Horse Jump Strength,แรงม้ากระโดด,th-TH
+Hız,ความเร็ว,th-TH
+Hấp thụ tối đa,ดูดซับสูงสุด,th-TH
+Hệ số lực cản không khí,ตัวดัดแปรแรงต้านอากาศ,th-TH
+Hệ số ma sát,ตัวดัดแปรแรงเสียดทาน,th-TH
+Hệ số sát thương rơi,ตัวคูณดาเมจจากการตก,th-TH
+Jump Strength,ความแรงการกระโดด,th-TH
+Kamera Mesafesi,ระยะห่างกล้อง,th-TH
+Kameraabstand,ระยะห่างกล้อง,th-TH
+Kazım Verimliliği,ประสิทธิภาพการขุด,th-TH
+Khoảng cách hiển thị nhãn ghi tên,ระยะป้ายชื่อ,th-TH
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+Khoảng cách máy quay,ระยะห่างกล้อง,th-TH
+Kháng đẩy lùi,ความต้านทานการกระดอน,th-TH
+Kháng đẩy lùi từ vụ nổ,ความต้านทานการกระดอนจากระเบิด,th-TH
+Knockback Resistance,ความต้านทานการกระดอน,th-TH
+Kreaturen‐Anlockdistanz,ระยะการล่อของม็อบ,th-TH
+Kreaturen‐Verfolgedistanz,ระยะที่ม็อบติดตาม,th-TH
+Luck,โชค,th-TH
+Luftwiderstandsfaktor,ตัวดัดแปรแรงต้านอากาศ,th-TH
+Lực lượng thây ma tăng cường,กำลังเสริมซอมบี้,th-TH
+Max Absorption,ดูดซับสูงสุด,th-TH
+Max Health,เลือดสูงสุด,th-TH
+Maximale Absorption,ดูดซับสูงสุด,th-TH
+Maximale Gesundheit,เลือดสูงสุด,th-TH
+May mắn,โชค,th-TH
+Mining Efficiency,ประสิทธิภาพการขุด,th-TH
+Mob Follow Range,ระยะที่ม็อบติดตาม,th-TH
+Mob Tempt Range,ระยะการล่อของม็อบ,th-TH
+Mobの誘引される範囲,ระยะการล่อของม็อบ,th-TH
+Mobの追跡範囲,ระยะที่ม็อบติดตาม,th-TH
+Modificador de atrito,ตัวดัดแปรแรงเสียดทาน,th-TH
+Modificador de fricción,ตัวดัดแปรแรงเสียดทาน,th-TH
+Modificador de resistencia del aire,ตัวดัดแปรแรงต้านอากาศ,th-TH
+Modificador de resistência ao ar,ตัวดัดแปรแรงต้านอากาศ,th-TH
+modificateur de friction,ตัวดัดแปรแรงเสียดทาน,th-TH
+modificateur de résistance à l'air,ตัวดัดแปรแรงต้านอากาศ,th-TH
+Modificatore di attrito,ตัวดัดแปรแรงเสียดทาน,th-TH
+Modificatore di resistenza aerodinamica,ตัวดัดแปรแรงต้านอากาศ,th-TH
+Moltiplicatore del danno da caduta,ตัวคูณดาเมจจากการตก,th-TH
+Movement Efficiency,ประสิทธิภาพการเคลื่อนที่,th-TH
+Multiplicador de dano por queda,ตัวคูณดาเมจจากการตก,th-TH
+Multiplicador de daño por caída,ตัวคูณดาเมจจากการตก,th-TH
+multiplicateur des dégâts de chute,ตัวคูณดาเมจจากการตก,th-TH
+Name Tag Distance,ระยะป้ายชื่อ,th-TH
+Name Tag Score Distance,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+Namensschildabstand,ระยะป้ายชื่อ,th-TH
+Objekt‐Interaktionsweite,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+Oksijen Takviyesi,ออกซิเจนพิเศษ,th-TH
+Ossigeno aggiuntivo,ออกซิเจนพิเศษ,th-TH
+Oxigênio extra,ออกซิเจนพิเศษ,th-TH
+Oxygen Bonus,ออกซิเจนพิเศษ,th-TH
+Oxígeno extra,ออกซิเจนพิเศษ,th-TH
+Patlama Savrulması Direnci,ความต้านทานการกระดอนจากระเบิด,th-TH
+Pferdesprungstärke,แรงม้ากระโดด,th-TH
+Phạm vi nhận điểm mốc,ระยะการรับเวย์พอยต์,th-TH
+Phạm vi thu hút sinh vật,ระยะการล่อของม็อบ,th-TH
+Phạm vi truyền điểm mốc,ระยะการส่งผ่านเวย์พอยต์,th-TH
+Phạm vi tương tác khối,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+Phạm vi tương tác thực thể,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+Phạm vi đi theo của sinh vật,ระยะที่ม็อบติดตาม,th-TH
+Phần oxi thêm,ออกซิเจนพิเศษ,th-TH
+points d'armure,เกราะ,th-TH
+points d'attaque,ดาเมจโจมตี,th-TH
+Portata di ricezione del punto di riferimento,ระยะการรับเวย์พอยต์,th-TH
+Portata di trasmissione del punto di riferimento,ระยะการส่งผ่านเวย์พอยต์,th-TH
+portée d'interaction avec les blocs,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+portée d'interaction avec les entités,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+portée de détection des créatures,ระยะที่ม็อบติดตาม,th-TH
+portée de réception du point de repère,ระยะการรับเวย์พอยต์,th-TH
+portée de tentation des créatures,ระยะการล่อของม็อบ,th-TH
+portée de transmission du point de repère,ระยะการส่งผ่านเวย์พอยต์,th-TH
+Potencia de salto,ความแรงการกระโดด,th-TH
+Potencia de salto del caballo,แรงม้ากระโดด,th-TH
+Proporción del daño de barrido,อัตราส่วนดาเมจแบบกวาด,th-TH
+puissance de saut,ความแรงการกระโดด,th-TH
+puissance de saut du cheval,แรงม้ากระโดด,th-TH
+Punktetafelabstand,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+Punti armatura,เกราะ,th-TH
+Quy mô,ขนาด,th-TH
+Radio de atracción de criaturas,ระยะการล่อของม็อบ,th-TH
+Raggio d'interazione con i blocchi,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+Raggio d'interazione con le entità,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+Raggio di rilevamento delle creature,ระยะที่ม็อบติดตาม,th-TH
+Raggio di tentazione delle creature,ระยะการล่อของม็อบ,th-TH
+Rango de interacción con bloques,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+Rango de interacción con entidades,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+Rango de recepción del punto de referencia,ระยะการรับเวย์พอยต์,th-TH
+Rango de seguimiento,ระยะที่ม็อบติดตาม,th-TH
+Rango de transmisión del punto de referencia,ระยะการส่งผ่านเวย์พอยต์,th-TH
+rapidité,ความเร็ว,th-TH
+Rapporto del danno sferzante,อัตราส่วนดาเมจแบบกวาด,th-TH
+ratio de dégâts par balayage,อัตราส่วนดาเมจแบบกวาด,th-TH
+rebond,ความเด้ง,th-TH
+Rebote,ความเด้ง,th-TH
+recul d'attaque,กระดอนโจมตี,th-TH
+Reforços de zumbis,กำลังเสริมซอมบี้,th-TH
+Refuerzos zombi,กำลังเสริมซอมบี้,th-TH
+Reibungsfaktor,ตัวดัดแปรแรงเสียดทาน,th-TH
+renforts de zombies,กำลังเสริมซอมบี้,th-TH
+Repulsão do ataque,กระดอนโจมตี,th-TH
+Resistencia al empuje,ความต้านทานการกระดอน,th-TH
+Resistencia al empuje de las explosiones,ความต้านทานการกระดอนจากระเบิด,th-TH
+Resistenza al contraccolpo,ความต้านทานการกระดอน,th-TH
+Resistenza al contraccolpo delle esplosioni,ความต้านทานการกระดอนจากระเบิด,th-TH
+Resistência da armadura,ความแข็งแกร่งของเกราะ,th-TH
+Resistência à repulsão,ความต้านทานการกระดอน,th-TH
+Resistência à repulsão de explosões,ความต้านทานการกระดอนจากระเบิด,th-TH
+Rinforzi zombi,กำลังเสริมซอมบี้,th-TH
+robustesse,ความแข็งแกร่งของเกราะ,th-TH
+résistance au recul,ความต้านทานการกระดอน,th-TH
+résistance au recul des explosions,ความต้านทานการกระดอนจากระเบิด,th-TH
+Rüstung,เกราะ,th-TH
+Rüstungshärte,ความแข็งแกร่งของเกราะ,th-TH
+Safe Fall Distance,ระยะการตกที่ปลอดภัย,th-TH
+Saldırı Hasarı,ดาเมจโจมตี,th-TH
+Saldırı Hızı,ความเร็วโจมตี,th-TH
+Saldırı Savurması,กระดอนโจมตี,th-TH
+Salud máxima,เลือดสูงสุด,th-TH
+Salute massima,เลือดสูงสุด,th-TH
+Sauerstoffbonus,ออกซิเจนพิเศษ,th-TH
+Savrulma Direnci,ความต้านทานการกระดอน,th-TH
+Scala,ขนาด,th-TH
+Scale,ขนาด,th-TH
+Schleichgeschwindigkeit,ความเร็วการย่อง,th-TH
+Schritthöhe,ความสูงของขั้นก้าว,th-TH
+Schwerkraft,แรงโน้มถ่วง,th-TH
+Schwungschadensverhältnis,อัตราส่วนดาเมจแบบกวาด,th-TH
+Sekme,ความเด้ง,th-TH
+Sichere Fallhöhe,ระยะการตกที่ปลอดภัย,th-TH
+Sinh lực tối đa,เลือดสูงสุด,th-TH
+Sneaking Speed,ความเร็วการย่อง,th-TH
+Solidità dell'armatura,ความแข็งแกร่งของเกราะ,th-TH
+Sorte,โชค,th-TH
+Speed,ความเร็ว,th-TH
+Sprungstärke,ความแรงการกระโดด,th-TH
+Standfestigkeit,ความต้านทานการกระดอน,th-TH
+Step Height,ความสูงของขั้นก้าว,th-TH
+Su Altında Kazım Hızı,ความเร็วการขุดใต้น้ำ,th-TH
+Submerged Mining Speed,ความเร็วการขุดใต้น้ำ,th-TH
+Suda Hareket Verimliliği,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+Suerte,โชค,th-TH
+Sweeping Damage Ratio,อัตราส่วนดาเมจแบบกวาด,th-TH
+Sürtünme Düzenleyici,ตัวดัดแปรแรงเสียดทาน,th-TH
+Sức bật lùi,กระดอนโจมตี,th-TH
+Sức nhảy,ความแรงการกระโดด,th-TH
+Sức nhảy của ngựa,แรงม้ากระโดด,th-TH
+Sức tấn công,ดาเมจโจมตี,th-TH
+taille,ขนาด,th-TH
+Taxa de dano lateral,อัตราส่วนดาเมจแบบกวาด,th-TH
+Tempo di combustione,ระยะเวลาติดไฟ,th-TH
+temps en feu,ระยะเวลาติดไฟ,th-TH
+Thời gian cháy,ระยะเวลาติดไฟ,th-TH
+Trọng lực,แรงโน้มถ่วง,th-TH
+Tỉ lệ sát thương quét cạnh,อัตราส่วนดาเมจแบบกวาด,th-TH
+Tốc độ,ความเร็ว,th-TH
+Tốc độ bay,ความเร็วการบิน,th-TH
+Tốc độ phá khối,ความเร็วการทำลายบล็อก,th-TH
+Tốc độ tấn công,ความเร็วโจมตี,th-TH
+Tốc độ đi rón rén,ความเร็วการย่อง,th-TH
+Tốc độ đào dưới nước,ความเร็วการขุดใต้น้ำ,th-TH
+Unterwasser‐Abbaugeschwindigkeit,ความเร็วการขุดใต้น้ำ,th-TH
+Uçma Hızı,ความเร็วการบิน,th-TH
+Uçuş Hızı,ความเร็วการบิน,th-TH
+Varlık Etkileşim Mesafesi,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+Velocidad,ความเร็ว,th-TH
+Velocidad al agacharse,ความเร็วการย่อง,th-TH
+Velocidad al romper bloques,ความเร็วการทำลายบล็อก,th-TH
+Velocidad al romper bloques sumergido,ความเร็วการขุดใต้น้ำ,th-TH
+Velocidad de ataque,ความเร็วโจมตี,th-TH
+Velocidad de vuelo,ความเร็วการบิน,th-TH
+Velocidade,ความเร็ว,th-TH
+Velocidade de ataque,ความเร็วโจมตี,th-TH
+Velocidade de mineração submersa,ความเร็วการขุดใต้น้ำ,th-TH
+Velocidade de quebra de blocos,ความเร็วการทำลายบล็อก,th-TH
+Velocidade do voo,ความเร็วการบิน,th-TH
+Velocidade furtiva,ความเร็วการย่อง,th-TH
+Velocità,ความเร็ว,th-TH
+Velocità d'attacco,ความเร็วโจมตี,th-TH
+Velocità d'estrazione sott'acqua,ความเร็วการขุดใต้น้ำ,th-TH
+Velocità di distruzione dei blocchi,ความเร็วการทำลายบล็อก,th-TH
+Velocità furtiva,ความเร็วการย่อง,th-TH
+Velocità in volo,ความเร็วการบิน,th-TH
+Vida máxima,เลือดสูงสุด,th-TH
+vie maximale,เลือดสูงสุด,th-TH
+vitesse accroupie,ความเร็วการย่อง,th-TH
+vitesse d'attaque,ความเร็วโจมตี,th-TH
+vitesse de destruction des blocs,ความเร็วการทำลายบล็อก,th-TH
+vitesse de minage sous l'eau,ความเร็วการขุดใต้น้ำ,th-TH
+vitesse de vol,ความเร็วการบิน,th-TH
+Wasser‐Bewegungseffizienz,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+Water Movement Efficiency,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+Waypoint Receive Range,ระยะการรับเวย์พอยต์,th-TH
+Waypoint Transmit Range,ระยะการส่งผ่านเวย์พอยต์,th-TH
+Wegpunkt‐Empfangsreichweite,ระยะการรับเวย์พอยต์,th-TH
+Wegpunkt‐Sendereichweite,ระยะการส่งผ่านเวย์พอยต์,th-TH
+Yanma Süresi,ระยะเวลาติดไฟ,th-TH
+Yer Çekimi,แรงโน้มถ่วง,th-TH
+Yol Noktası Alma Mesafesi,ระยะการรับเวย์พอยต์,th-TH
+Yol Noktası İletme Mesafesi,ระยะการส่งผ่านเวย์พอยต์,th-TH
+Zombi Takviyesi,กำลังเสริมซอมบี้,th-TH
+Zombie Reinforcements,กำลังเสริมซอมบี้,th-TH
+Zombie-Verstärkung,กำลังเสริมซอมบี้,th-TH
+Zombie‐Verstärkung,กำลังเสริมซอมบี้,th-TH
+Zıplama Gücü,ความแรงการกระโดด,th-TH
+Zırh,เกราะ,th-TH
+Zırh Sertliği,ความแข็งแกร่งของเกราะ,th-TH
+Ölçek,ขนาด,th-TH
+Độ bền của áo giáp,ความแข็งแกร่งของเกราะ,th-TH
+Độ bền áo giáp,ความแข็งแกร่งของเกราะ,th-TH
+Độ cao rơi xuống an toàn,ระยะการตกที่ปลอดภัย,th-TH
+Độ nảy,ความเด้ง,th-TH
+Şans,โชค,th-TH
+Безопасная высота падения,ระยะการตกที่ปลอดภัย,th-TH
+Бонус к кислороду,ออกซิเจนพิเศษ,th-TH
+Броня,เกราะ,th-TH
+Везение,โชค,th-TH
+Время горения,ระยะเวลาติดไฟ,th-TH
+Высота шага,ความสูงของขั้นก้าว,th-TH
+Гравитация,แรงโน้มถ่วง,th-TH
+Дальность взаимодействия с блоками,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+Дальность взаимодействия с сущностями,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+Дальность видимости имени,ระยะป้ายชื่อ,th-TH
+Дальность видимости счёта под именем,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+Дальность обнаружения маркеров,ระยะการรับเวย์พอยต์,th-TH
+Дальность передачи маркера,ระยะการส่งผ่านเวย์พอยต์,th-TH
+Дальность приманивания,ระยะการล่อของม็อบ,th-TH
+Диапазон преследования моба,ระยะที่ม็อบติดตาม,th-TH
+Коэффициент разящего удара,อัตราส่วนดาเมจแบบกวาด,th-TH
+Максимальное здоровье,เลือดสูงสุด,th-TH
+Множитель урона от падения,ตัวคูณดาเมจจากการตก,th-TH
+Модификатор сопротивления воздуха,ตัวดัดแปรแรงต้านอากาศ,th-TH
+Модификатор трения,ตัวดัดแปรแรงเสียดทาน,th-TH
+Отбрасывание при атаке,กระดอนโจมตี,th-TH
+Отдалённость камеры,ระยะห่างกล้อง,th-TH
+Подкрепление зомби,กำลังเสริมซอมบี้,th-TH
+Предел поглощения,ดูดซับสูงสุด,th-TH
+Размер,ขนาด,th-TH
+Сила прыжка,ความแรงการกระโดด,th-TH
+Сила прыжка лошади,แรงม้ากระโดด,th-TH
+Скорость,ความเร็ว,th-TH
+Скорость атаки,ความเร็วโจมตี,th-TH
+Скорость добычи под водой,ความเร็วการขุดใต้น้ำ,th-TH
+Скорость подкрадывания,ความเร็วการย่อง,th-TH
+Скорость полёта,ความเร็วการบิน,th-TH
+Скорость разрушения блоков,ความเร็วการทำลายบล็อก,th-TH
+Сопротивление к отбрасыванию,ความต้านทานการกระดอน,th-TH
+Сопротивление к отбрасыванию взрывом,ความต้านทานการกระดอนจากระเบิด,th-TH
+Твёрдость брони,ความแข็งแกร่งของเกราะ,th-TH
+Упругость,ความเด้ง,th-TH
+Урон при атаке,ดาเมจโจมตี,th-TH
+Эффективность добычи,ประสิทธิภาพการขุด,th-TH
+Эффективность передвижения,ประสิทธิภาพการเคลื่อนที่,th-TH
+Эффективность передвижения в воде,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+なぎ払いダメージの比率,อัตราส่วนดาเมจแบบกวาด,th-TH
+ウェイポイント伝達距離,ระยะการส่งผ่านเวย์พอยต์,th-TH
+ウェイポイント受信距離,ระยะการรับเวย์พอยต์,th-TH
+ウマの跳躍力,แรงม้ากระโดด,th-TH
+エンティティ操作範囲,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+カメラ距離,ระยะห่างกล้อง,th-TH
+サイズ,ขนาด,th-TH
+スニーク速度,ความเร็วการย่อง,th-TH
+ゾンビの増援,กำลังเสริมซอมบี้,th-TH
+ネームタグの表示距離,ระยะป้ายชื่อ,th-TH
+ネームタグ下のスコアの表示距離,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+ノックバック,กระดอนโจมตี,th-TH
+ノックバック力,กระดอนโจมตี,th-TH
+ノックバック耐性,ความต้านทานการกระดอน,th-TH
+ブロック操作範囲,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+ブロック破壊速度,ความเร็วการทำลายบล็อก,th-TH
+僵尸增援,กำลังเสริมซอมบี้,th-TH
+击退,กระดอนโจมตี,th-TH
+击退抗性,ความต้านทานการกระดอน,th-TH
+名牌分数距离,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+名牌距离,ระยะป้ายชื่อ,th-TH
+名稱標籤分數距離,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+名稱標籤距離,ระยะป้ายชื่อ,th-TH
+大きさ,ขนาด,th-TH
+大小,ขนาด,th-TH
+安全摔落高度,ระยะการตกที่ปลอดภัย,th-TH
+安全落下高度,ระยะการตกที่ปลอดภัย,th-TH
+实体交互距离,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+實體互動距離,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+尺寸,ขนาด,th-TH
+幸运值,โชค,th-TH
+幸運,โชค,th-TH
+弹性,ความเด้ง,th-TH
+弾性係数,ความเด้ง,th-TH
+彈性,ความเด้ง,th-TH
+抗擊退,ความต้านทานการกระดอน,th-TH
+抗爆炸擊退,ความต้านทานการกระดอนจากระเบิด,th-TH
+护甲值,เกราะ,th-TH
+挖掘效率,ประสิทธิภาพการขุด,th-TH
+採掘効率,ประสิทธิภาพการขุด,th-TH
+摔落伤害倍数,ตัวคูณดาเมจจากการตก,th-TH
+摔落傷害倍率,ตัวคูณดาเมจจากการตก,th-TH
+摩擦係数,ตัวดัดแปรแรงเสียดทาน,th-TH
+摩擦力修正係數,ตัวดัดแปรแรงเสียดทาน,th-TH
+摩擦力修正系数,ตัวดัดแปรแรงเสียดทาน,th-TH
+擊退,กระดอนโจมตี,th-TH
+攻击伤害,ดาเมจโจมตี,th-TH
+攻击速度,ความเร็วโจมตี,th-TH
+攻撃力,ดาเมจโจมตี,th-TH
+攻撃速度,ความเร็วโจมตี,th-TH
+攻擊傷害,ดาเมจโจมตี,th-TH
+攻擊速度,ความเร็วโจมตี,th-TH
+方块交互距离,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+方块破坏速度,ความเร็วการทำลายบล็อก,th-TH
+方塊互動距離,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+方塊破壞速度,ความเร็วการทำลายบล็อก,th-TH
+最大伤害吸收值,ดูดซับสูงสุด,th-TH
+最大体力,เลือดสูงสุด,th-TH
+最大傷害吸收值,ดูดซับสูงสุด,th-TH
+最大生命值,เลือดสูงสุด,th-TH
+最大行走高度,ความสูงของขั้นก้าว,th-TH
+最高生命值,เลือดสูงสุด,th-TH
+横扫伤害比率,อัตราส่วนดาเมจแบบกวาด,th-TH
+橫掃傷害率,อัตราส่วนดาเมจแบบกวาด,th-TH
+殭屍增援隊,กำลังเสริมซอมบี้,th-TH
+段差上限,ความสูงของขั้นก้าว,th-TH
+水下挖掘速度,ความเร็วการขุดใต้น้ำ,th-TH
+水中挖掘速度,ความเร็วการขุดใต้น้ำ,th-TH
+水中採掘速度,ความเร็วการขุดใต้น้ำ,th-TH
+水中移动效率,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+水中移動効率,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+水中移動效率,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+潛行速度,ความเร็วการย่อง,th-TH
+潜行速度,ความเร็วการย่อง,th-TH
+炎上時間,ระยะเวลาติดไฟ,th-TH
+燃燒時間,ระยะเวลาติดไฟ,th-TH
+爆炸击退抗性,ความต้านทานการกระดอนจากระเบิด,th-TH
+爆発ノックバック耐性,ความต้านทานการกระดอนจากระเบิด,th-TH
+生物引誘範圍,ระยะการล่อของม็อบ,th-TH
+生物引诱范围,ระยะการล่อของม็อบ,th-TH
+生物跟随距离,ระยะที่ม็อบติดตาม,th-TH
+生物追蹤範圍,ระยะที่ม็อบติดตาม,th-TH
+盔甲,เกราะ,th-TH
+盔甲強度,ความแข็งแกร่งของเกราะ,th-TH
+盔甲韧性,ความแข็งแกร่งของเกราะ,th-TH
+着火时间,ระยะเวลาติดไฟ,th-TH
+移动效率,ประสิทธิภาพการเคลื่อนที่,th-TH
+移動効率,ประสิทธิภาพการเคลื่อนที่,th-TH
+移動效率,ประสิทธิภาพการเคลื่อนที่,th-TH
+移動速度,ความเร็ว,th-TH
+空气阻力修正系数,ตัวดัดแปรแรงต้านอากาศ,th-TH
+空気抵抗係数,ตัวดัดแปรแรงต้านอากาศ,th-TH
+空氣阻力修正係數,ตัวดัดแปรแรงต้านอากาศ,th-TH
+落下ダメージ倍率,ตัวคูณดาเมจจากการตก,th-TH
+衝撃吸収レベルの上限,ดูดซับสูงสุด,th-TH
+路径点传输距离,ระยะการส่งผ่านเวย์พอยต์,th-TH
+路径点接收距离,ระยะการรับเวย์พอยต์,th-TH
+路徑點傳輸距離,ระยะการส่งผ่านเวย์พอยต์,th-TH
+路徑點接收距離,ระยะการรับเวย์พอยต์,th-TH
+跳跃力度,ความแรงการกระโดด,th-TH
+跳躍力,ความแรงการกระโดด,th-TH
+速度,ความเร็ว,th-TH
+運,โชค,th-TH
+酸素ボーナス,ออกซิเจนพิเศษ,th-TH
+重力,แรงโน้มถ่วง,th-TH
+鏡頭距離,ระยะห่างกล้อง,th-TH
+镜头距离,ระยะห่างกล้อง,th-TH
+防具強度,ความแข็งแกร่งของเกราะ,th-TH
+防御力,เกราะ,th-TH
+額外氧氣,ออกซิเจนพิเศษ,th-TH
+额外氧气,ออกซิเจนพิเศษ,th-TH
+飛行速度,ความเร็วการบิน,th-TH
+飞行速度,ความเร็วการบิน,th-TH
+馬跳躍力,แรงม้ากระโดด,th-TH
+马匹跳跃能力,แรงม้ากระโดด,th-TH
+개체 상호 작용 범위,ระยะปฏิสัมพันธ์กับเอนทิตี้,th-TH
+걸음 높이,ความสูงของขั้นก้าว,th-TH
+경로점 발신 범위,ระยะการส่งผ่านเวย์พอยต์,th-TH
+경로점 수신 범위,ระยะการรับเวย์พอยต์,th-TH
+공격 밀침 세기,กระดอนโจมตี,th-TH
+공격 속도,ความเร็วโจมตี,th-TH
+공격 피해,ดาเมจโจมตี,th-TH
+공기 저항력 변경자,ตัวดัดแปรแรงต้านอากาศ,th-TH
+낙하 피해 배수,ตัวคูณดาเมจจากการตก,th-TH
+마찰력 변경자,ตัวดัดแปรแรงเสียดทาน,th-TH
+말 점프 강도,แรงม้ากระโดด,th-TH
+몹 따름 범위,ระยะที่ม็อบติดตาม,th-TH
+몹 유인 범위,ระยะการล่อของม็อบ,th-TH
+밀침 저항,ความต้านทานการกระดอน,th-TH
+방어,เกราะ,th-TH
+방어 강도,ความแข็งแกร่งของเกราะ,th-TH
+배율,ขนาด,th-TH
+블록 상호 작용 범위,ระยะปฏิสัมพันธ์กับบล็อก,th-TH
+블록 파괴 속도,ความเร็วการทำลายบล็อก,th-TH
+비행 속도,ความเร็วการบิน,th-TH
+산소 추가,ออกซิเจนพิเศษ,th-TH
+속도,ความเร็ว,th-TH
+수중 이동 효율,ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,th-TH
+수중 채굴 속도,ความเร็วการขุดใต้น้ำ,th-TH
+안전 낙하 거리,ระยะการตกที่ปลอดภัย,th-TH
+연소 시간,ระยะเวลาติดไฟ,th-TH
+웅크렸을 때 속도,ความเร็วการย่อง,th-TH
+이동 효율,ประสิทธิภาพการเคลื่อนที่,th-TH
+이름표 거리,ระยะป้ายชื่อ,th-TH
+이름표 점수 거리,ระยะคะแนนใต้ป้ายชื่อ,th-TH
+점프 세기,ความแรงการกระโดด,th-TH
+좀비 증원,กำลังเสริมซอมบี้,th-TH
+중력,แรงโน้มถ่วง,th-TH
+채굴 효율,ประสิทธิภาพการขุด,th-TH
+최대 생명력,เลือดสูงสุด,th-TH
+최대 흡수,ดูดซับสูงสุด,th-TH
+카메라 거리,ระยะห่างกล้อง,th-TH
+크기,ขนาด,th-TH
+탄성,ความเด้ง,th-TH
+폭발 밀침 저항,ความต้านทานการกระดอนจากระเบิด,th-TH
+행운,โชค,th-TH
+휩쓸기 피해 비율,อัตราส่วนดาเมจแบบกวาด,th-TH

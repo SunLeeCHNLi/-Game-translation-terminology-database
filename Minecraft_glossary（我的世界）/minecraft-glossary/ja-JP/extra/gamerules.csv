@@ -1,0 +1,1493 @@
+﻿source,target,tgt_lng
+'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+A porcentagem de jogadores que devem dormir para passar a noite.,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+Accesso al Nether,ネザーの許可,ja-JP
+Accès au Nether,ネザーの許可,ja-JP
+Actions destructives des créatures,Mobの破壊行動の許可,ja-JP
+Activar la barra localizadora de jugadores,プレイヤーの方向バーの有効化,ja-JP
+Actualisation du feu loin des joueurs,プレイヤーから遠い炎のティック処理,ja-JP
+Actualisations du monde,ワールドの更新,ja-JP
+Actualizaciones del mundo,ワールドの更新,ja-JP
+Administratorbefehle protokollieren,管理者ログへのコマンドの実行結果の通知,ja-JP
+Advance time of day,ゲーム内時刻の進行,ja-JP
+"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.",溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.",水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+"Al explotar (criaturas), algunos bloques no soltarán objetos",Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"Al explotar (por bloques), algunos bloques no soltarán objetos",ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"Al verificarsi di determinati eventi, come la generazione di un boss, il suono verrà udito globalmente.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+Alcune entità potrebbero avere regole separate.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+Algumas entidades podem ter regras separadas.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+Algunas entidades pueden tener sus propias reglas.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de criaturas desaparecen con la explosión.,Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de interacciones con bloques desaparecen con la explosión.,オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de la dinamita desaparecen con la explosión.,オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Allgemeine Verärgerung,敵対の共有,ja-JP
+Allow destructive mob actions,Mobの破壊行動の許可,ja-JP
+"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+Allow Nether,ネザーの許可,ja-JP
+Allow spectators to generate terrain,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+Allow TNT to be activated and to explode,TNTの点火及び爆発の許可,ja-JP
+Altezza di accumulo della neve,積雪の深さ,ja-JP
+Altura de acumulación de nieve,積雪の深さ,ja-JP
+Altura de acumulação de neve,積雪の深さ,ja-JP
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.",敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+Angered neutral mobs stop being angry when the targeted player dies nearby.,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+Announce advancements,進捗達成の通知,ja-JP
+Anunciar comandos de administrador,管理者ログへのコマンドの実行結果の通知,ja-JP
+Anunciar progresos,進捗達成の通知,ja-JP
+Anunciar progressos,進捗達成の通知,ja-JP
+Anunciar saída dos Blocos de Comando,コマンドブロックの実行結果の通知,ja-JP
+Anında yeniden canlanma,即時リスポーン,ja-JP
+"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+"Ao ativar, uma barra na tela indica a direção dos jogadores.",有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+Aplicável às cadeias de blocos de comando e funções.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+Apparition,スポーン,ja-JP
+Apparition des créatures,Mobのスポーン,ja-JP
+Apparition des marchands ambulants,行商人のスポーン,ja-JP
+Apparition des monstres,モンスターのスポーン,ja-JP
+Apparition des patrouilles de pillards,略奪隊のスポーン,ja-JP
+Apparition des Phantoms,ファントムのスポーン,ja-JP
+Apparition des Wardens,ウォーデンのスポーン,ja-JP
+Applies to command block chains and functions.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+Are you sure you want to discard your pending game rule changes?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+As entidades com passageiros podem atravessar portais,何かが乗っているエンティティのポータル使用可否,ja-JP
+Ateş hasarı alma,火傷ダメージ,ja-JP
+Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+Ateş yayılabilsin,炎の更新,ja-JP
+Ateş yayılma yarıçapı,炎の延焼が起こる半径,ja-JP
+Ativar Barra Localizadora de jogadores,プレイヤーの方向バーの有効化,ja-JP
+Ativar Blocos de Comando,コマンドブロックの有効化,ja-JP
+Ativar Blocos Geradores,スポナーの有効化,ja-JP
+Ativar invasões,襲撃の発生,ja-JP
+Ativar PvP,PvPの有効化,ja-JP
+Atraso do Portal do Nether em modo não Criativo,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Atraso do Portal do Nether no Modo Criativo,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Atualizar as regras do jogo requer permissões de operador.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+Atılabilirler blokları kırabilir,飛び道具によるブロック破壊の可否,ja-JP
+Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+Atılan Ender İncileri ölünce yok olurlar,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+Ausbeute,ドロップ,ja-JP
+Avanzar ciclo de día y noche,ゲーム内時刻の進行,ja-JP
+Azioni distruttive delle creature,Mobの破壊行動の許可,ja-JP
+Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+Baixando regras do jogo...,ゲームルールを取得中…,ja-JP
+Barra localizzatrice,プレイヤーの方向バーの有効化,ja-JP
+Barre de localisation,プレイヤーの方向バーの有効化,ja-JP
+Baskınlar olsun,襲撃の発生,ja-JP
+Baskınları kapat,襲撃の無効化,ja-JP
+Bazı varlıkların ayrı kuralları olabilir.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+Başlangıç yığınları yarıçapı,スポーンチャンクの半径,ja-JP
+Befehlsausgabe anzeigen,コマンドの実行結果の表示,ja-JP
+Befehlsblockausgabe anzeigen,コマンドブロックの実行結果の通知,ja-JP
+Befehlsblöcke,コマンドブロックの有効化,ja-JP
+Begrenzt die Inhalte der Debug‐Anzeige.,表示するデバッグ情報の項目数を制限します。,ja-JP
+Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+"Bist du sicher, dass du die ausstehenden Änderungen der Spielregeln verwerfen möchtest?",編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+Blocchi comandi funzionanti,コマンドブロックの有効化,ja-JP
+Blockausbeute fallen lassen,ブロックのドロップ,ja-JP
+Blockgrenze für Befehlsänderungen,コマンドによるブロックの最大変更数,ja-JP
+Blockzerstörung durch Geschosse,飛び道具によるブロック破壊の可否,ja-JP
+Block‐Explosionsausbeute verschwindet,ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Blocs de commande activés,コマンドブロックの有効化,ja-JP
+"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Bloklar düşsün,ブロックのドロップ,ja-JP
+Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Boğulma hasarı alma,溺水ダメージ,ja-JP
+Broadcast admin commands,管理者ログへのコマンドの実行結果の通知,ja-JP
+Broadcast command block output,コマンドブロックの実行結果の通知,ja-JP
+Butin des blocs,ブロックのドロップ,ja-JP
+Butin des créatures,Mobのアイテムのドロップ,ja-JP
+Butin des entités,設備エンティティのドロップ,ja-JP
+Butins,ドロップ,ja-JP
+Bán kính lan lửa,炎の延焼が起こる半径,ja-JP
+Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+Bán kính vị trí hồi sinh,リスポーン地点の半径,ja-JP
+Bán kính đoạn khúc hồi sinh,スポーンチャンクの半径,ja-JP
+Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+Bật các cuộc xâm lược,襲撃の発生,ja-JP
+Bật khối lệnh,コマンドブロックの有効化,ja-JP
+Bật khối triệu hồi,スポナーの有効化,ja-JP
+Bật PVP,PvPの有効化,ja-JP
+Bật thanh định vị người chơi,プレイヤーの方向バーの有効化,ja-JP
+Cambiar las reglas del juego requiere permisos de administrador.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+Cambios en las reglas del juego,ゲームルールの変更,ja-JP
+Canavarlar Oluşsun,モンスターのスポーン,ja-JP
+Canavarların doğal olarak oluşabilmesini kontrol eder.,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+Canlı ganimeti düşsün,Mobのアイテムのドロップ,ja-JP
+"Canlı patlamalarında, bazı bloklar düşmesin",Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Canlılar,Mob,ja-JP
+Canlılar oluşsun,Mobのスポーン,ja-JP
+Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+Canlıların yıkıcı etkilerine izin verilsin,Mobの破壊行動の許可,ja-JP
+Cannot change game rules in a hardcore world.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+"Cantidad de bloques que se pueden cambiar a la vez con un solo comando, como «/fill» o «/clone».",fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+Cantidad de chunks que se mantienen cargados alrededor del punto de aparición.,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+Cargar fuego lejos de los jugadores,プレイヤーから遠い炎のティック処理,ja-JP
+Causar dano por afogamento,溺水ダメージ,ja-JP
+Causar dano por congelamento,凍結ダメージ,ja-JP
+Causar dano por fogo,火傷ダメージ,ja-JP
+Causar dano por queda,落下ダメージ,ja-JP
+Certaines entités peuvent avoir des règles distinctes.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+Certains butins des blocs détruits par des explosions de créatures sont perdus dans l'explosion.,Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+Certains butins des blocs détruits par des explosions de TNT sont perdus dans l'explosion.,オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Certains butins des blocs détruits par des explosions dues à des interactions de blocs sont perdus dans l'explosion.,オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Chat,チャット,ja-JP
+Chiều cao tích tụ tuyết,積雪の深さ,ja-JP
+Cho phép hành động sinh vật phá hoại,Mobの破壊行動の許可,ja-JP
+Cho phép khán giả tạo địa hình,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+Cho phép Nether,ネザーの許可,ja-JP
+"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+Cho phép TNT được kích hoạt và phát nổ,TNTの点火及び爆発の許可,ja-JP
+Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+Chỉnh sửa luật chơi,ゲームルールを編集,ja-JP
+Chỉnh sửa luật chơi...,ゲームルールを編集…,ja-JP
+Ciclo circadiano,ゲーム内時刻の進行,ja-JP
+Ciclo meteorológico,天気の更新,ja-JP
+Ciclos do mundo,ワールドの更新,ja-JP
+Colère universelle,敵対の共有,ja-JP
+Combattimento tra giocatori,PvPの有効化,ja-JP
+Command chain size limit,コマンドの最大チェーン数,ja-JP
+Command context limit,コマンドの最大実行文脈数,ja-JP
+Command modification block limit,コマンドによるブロックの最大変更数,ja-JP
+Commandes d'administrateur affichées,管理者ログへのコマンドの実行結果の通知,ja-JP
+Comprobar movimiento con élitros,エリトラの速度チェック,ja-JP
+Comprobar movimiento del jugador,プレイヤーの速度チェック,ja-JP
+"Consenti alle entità con passeggeri di teletrasportarsi attraverso i portali del Nether, i portali dell'End e i varchi dell'End.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+Conservation de l'inventaire après la mort,死亡時のインベントリの保持,ja-JP
+Conservazione dell'inventario dopo la morte,死亡時のインベントリの保持,ja-JP
+Controla el tamaño de la zona alrededor del punto de reaparición donde pueden aparecer los jugadores.,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+"Controla que las criaturas puedan soltar recursos, incluyendo orbes de experiencia.",Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Controla que los bloques puedan soltar recursos, incluyendo orbes de experiencia.",ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+Controla si el fuego o la lava deberían estar cargados al estar a más de 8 chunks de distancia de cualquier jugador.,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+Controla si el impacto de proyectiles destruirá bloques a los que normalmente puede destruir.,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+"Controla si las enredaderas se propagan a bloques adyacentes. No afecta otros tipos de enredaderas como enredaderas lacrimosas o enredaderas retorcidas, entre otras.",ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+Controla si los jugadores pueden dañar a otros jugadores o no.,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+Controla si los jugadores pueden entrar en el Nether.,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+Controla si los monstruos aparecen naturalmente o no.,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+"Controls resource drops from blocks, including experience orbs.",ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Controls resource drops from mobs, including experience orbs.",Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+Controls the size of the area around the spawn point that players can spawn in.,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+Controls whether impact projectiles will destroy blocks that are destructible by them.,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+Controls whether monsters naturally spawn.,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+Controls whether players are allowed to damage other players.,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+Controls whether players are allowed to enter the Nether.,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.",ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+"Contrôle la propagation aléatoire des lianes sur les blocs adjacents. Cela n'affecte pas les autres types de lianes tels que les lianes pleureuses, les lianes tortueuses, etc.",ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+Contrôle la taille de la zone autour du point d'apparition dans laquelle les joueurs peuvent apparaître.,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+"Contrôle les butins des blocs, y compris les orbes d'expérience.",ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Contrôle les butins des créatures, y compris les orbes d'expérience.",Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Contrôle les butins des wagonnets (y compris leur inventaire), des cadres, des bateaux, etc.",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+Contrôle si le feu et la lave peuvent s'actualiser à plus de 8 chunks de n'importe quel joueur.,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+Contrôle si les joueurs peuvent entrer dans le Nether.,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+Contrôle si les joueurs peuvent infliger des dégâts aux autres joueurs.,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+Contrôle si les monstres apparaissent naturellement.,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+Contrôle si les perles de l'Ender lancées par un joueur disparaissent lorsque celui-ci meurt.,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+Contrôle si les projectiles détruisent les blocs destructibles par ceux-ci à l'impact.,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+Conversione d'acqua in sorgente,水流から水源への変化,ja-JP
+Conversione di lava in sorgente,溶岩流から溶岩源への変化,ja-JP
+Creature,Mob,ja-JP
+Creature,Mobのスポーン,ja-JP
+Criaturas,Mob,ja-JP
+Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+Créatures,Mob,ja-JP
+"Cuando está activada, se muestra una barra en la pantalla que indica la dirección de otros jugadores.",有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+"Cuando nieva, se forma este número máximo de capas de nieve en el suelo.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+"Cuando se producen ciertos eventos durante la partida, como que aparezca un jefe, el sonido se escucha en todas partes.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+"Cuando una corriente de agua está rodeada de más agua por dos de sus lados, se convierte en una fuente.",水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+"Cuando una corriente de lava está rodeada de más lava por dos de sus lados, se convierte en una fuente.",溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+Cycle jour-nuit,ゲーム内時刻の進行,ja-JP
+Cycle météorologique,天気の更新,ja-JP
+Cập nhật luật chơi yêu cầu quyền người điều hành.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+Cập nhật lửa,炎の更新,ja-JP
+Cập nhật thế giới,ワールドの更新,ja-JP
+Cập nhật thời tiết,天気の更新,ja-JP
+Danno da annegamento,溺水ダメージ,ja-JP
+Danno da bruciatura,火傷ダメージ,ja-JP
+Danno da caduta,落下ダメージ,ja-JP
+Danno da congelamento,凍結ダメージ,ja-JP
+Das Ändern der Spielregeln erfordert Operatorrechte.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+Daño por ahogamiento,溺水ダメージ,ja-JP
+Daño por caída,落下ダメージ,ja-JP
+Daño por congelamiento,凍結ダメージ,ja-JP
+Daño por fuego,火傷ダメージ,ja-JP
+Deal drowning damage,溺水ダメージ,ja-JP
+Deal fall damage,落下ダメージ,ja-JP
+Deal fire damage,火傷ダメージ,ja-JP
+Deal freeze damage,凍結ダメージ,ja-JP
+Debug‐Infos reduzieren,デバッグ情報の制限,ja-JP
+Default: %s,デフォルト値：%s,ja-JP
+"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+Define o tamanho do ponto de renascimento dos jogadores.,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+"Define os itens largados pelos blocos, incluindo as esferas de experiência.",ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+"Define os itens largados por criaturas, incluindo as esferas de experiência.",Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+Define se os jogadores podem atacar outros jogadores.,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+Define se os jogadores podem entrar no Nether.,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+Define se os monstros podem ser gerados naturalmente.,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+Demora para teletransportarse al Nether en creativo,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Demora para teletransportarse al Nether por defecto,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+"Der Prozentsatz an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.",夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+"Der Radius in Blöcken um einen Spieler, in dem sich Feuer ausbreiten kann.",プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+Desactivar control de movimiento de los jugadores,プレイヤーの速度チェックの無効化,ja-JP
+Desactivar control de movimiento de élitros,エリトラの速度チェックの無効化,ja-JP
+Desactivar invasiones,襲撃の無効化,ja-JP
+Desativar invasões,襲撃の無効化,ja-JP
+Desativar verificação de movimento do jogador,プレイヤーの速度チェックの無効化,ja-JP
+Desativar verificação de movimento dos Élitros,エリトラの速度チェックの無効化,ja-JP
+Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+Destruction des blocs par des projectiles,飛び道具によるブロック破壊の可否,ja-JP
+Destruir Pérolas de Ender lançadas ao morrer,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+"Determina i rilasci dei vagonetti (compresi gli inventari), delle cornici, delle barche ecc.",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+Determina la dimensione dell'area intorno al punto di generazione dei giocatori.,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+Determina la propagazione casuale dei rampicanti verso i blocchi adiacenti. Non ha effetto sugli altri tipi di rampicanti (come i rampicanti piangenti o i rampicanti attorcigliati).,ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+"Determina le risorse che vengono rilasciate dalle creature, comprese le sfere di esperienza.",Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Determina le risorse rilasciate dai blocchi, comprese le sfere di esperienza.",ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+Determina se i giocatori possono entrare nel Nether attraverso i portali.,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+Determina se i giocatori possono infliggere danno agli altri giocatori.,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+Determina se i mostri si generano naturalmente.,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+Determina se i proiettili da impatto possono distruggere i blocchi vulnerabili.,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+Determina se il fuoco e la lava sono attivi anche a una distanza maggiore di 8 chunk da ogni giocatore.,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+"Die Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.",fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+"Die Anzahl der Chunks um den Einstiegspunkt in der Oberwelt, die dauerhaft geladen bleiben.",オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+Die Spielregeln können in einer Hardcore‐Welt nicht angepasst werden.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+Disable elytra movement check,エリトラの速度チェックの無効化,ja-JP
+Disable player movement check,プレイヤーの速度チェックの無効化,ja-JP
+Disable raids,襲撃の無効化,ja-JP
+Disparition des perles de l'Ender lancées à la mort,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+Distruzione dei blocchi tramite proiettili,飛び道具によるブロック破壊の可否,ja-JP
+Divers,その他,ja-JP
+Diversos,その他,ja-JP
+Do elytra movement check,エリトラの速度チェック,ja-JP
+Do player movement check,プレイヤーの速度チェック,ja-JP
+Do raids,襲撃の発生,ja-JP
+Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+Donma hasarı alma,凍結ダメージ,ja-JP
+Drop blocks,ブロックのドロップ,ja-JP
+Drop entity equipment,設備エンティティのドロップ,ja-JP
+Drop mob loot,Mobのアイテムのドロップ,ja-JP
+Drops,ドロップ,ja-JP
+Dung nham chuyển thành nguồn,溶岩流から溶岩源への変化,ja-JP
+Dây leo lan ra,ツタの成長,ja-JP
+Dégâts de chute,落下ダメージ,ja-JP
+Dégâts de feu,火傷ダメージ,ja-JP
+Dégâts de gel,凍結ダメージ,ja-JP
+Dégâts de noyade,溺水ダメージ,ja-JP
+Délai du portail du Nether,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Délai du portail du Nether en mode Créatif,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+Dünyadaki Hareketler,ワールドの更新,ja-JP
+Düşenler,ドロップ,ja-JP
+Düşme hasarı alma,落下ダメージ,ja-JP
+Edit Game Rules,ゲームルールを編集,ja-JP
+Edit Game Rules...,ゲームルールを編集…,ja-JP
+Editar las reglas del juego,ゲームルールを編集,ja-JP
+Editar las reglas del juego...,ゲームルールを編集…,ja-JP
+Editar regras do jogo,ゲームルールを編集,ja-JP
+Editar regras do jogo...,ゲームルールを編集…,ja-JP
+"Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.",オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+"Einiges von der Ausbeute von Blöcken, die durch TNT‐Explosionen zerstört werden, geht dabei verloren.",オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+"Einiges von der Ausbeute von Blöcken, die durch von Kreaturen verursachte Explosionen zerstört werden, geht dabei verloren.",Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+Einstiegs‐Chunk‐Radius,スポーンチャンクの半径,ja-JP
+El agua se convierte en fuente,水流から水源への変化,ja-JP
+El número máximo de contextos que se pueden utilizar en comandos como «execute as».,「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+El porcentaje necesario de jugadores que deben dormir para pasar la noche.,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+El radio en bloques alrededor de un jugador en el que el fuego puede expandirse,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+Elitra hareket hızı kontrolünü kapat,エリトラの速度チェックの無効化,ja-JP
+Elitra hareketini denetle,エリトラの速度チェック,ja-JP
+Elytrenflug nicht überprüfen,エリトラの速度チェックの無効化,ja-JP
+Elytren‐Bewegungsprüfung,エリトラの速度チェック,ja-JP
+"En explosiones por dinamita, algunos bloques no soltarán objetos",TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+En yüksek vagon hızı,トロッコの最高速度,ja-JP
+Enable Command Blocks,コマンドブロックの有効化,ja-JP
+Enable player Locator Bar,プレイヤーの方向バーの有効化,ja-JP
+Enable pvp,PvPの有効化,ja-JP
+Enable Spawner Blocks,スポナーの有効化,ja-JP
+Enderperlen‐Mitleidenschaft,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+Entities with passengers can use portals,何かが乗っているエンティティのポータル使用可否,ja-JP
+Entity cramming threshold,エンティティの最大密集数,ja-JP
+Entzünden und Explodieren von TNT,TNTの点火及び爆発の許可,ja-JP
+Enviar respuestas de comandos,コマンドの実行結果の表示,ja-JP
+Erfrierungsschaden,凍結ダメージ,ja-JP
+"Ermöglicht es Objekten mit Passagieren, sich durch Nether‐, End‐ und Endtransitportale zu teleportieren.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+Erzeugung,スポーン,ja-JP
+Esito dei blocchi comandi,コマンドブロックの実行結果の通知,ja-JP
+Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+Eventi sonori globali,ワールド全体のサウンドイベント,ja-JP
+Eventos de sonido globales,ワールド全体のサウンドイベント,ja-JP
+Eventos sonoros globais,ワールド全体のサウンドイベント,ja-JP
+Evrensel öfke,敵対の共有,ja-JP
+Exigir receitas para fabricação,クラフトにレシピを要求,ja-JP
+Exigir recetas para poder fabricar,クラフトにレシピを要求,ja-JP
+Explosion de TNT,TNTの点火及び爆発の許可,ja-JP
+Fabbricazione limitata,クラフトにレシピを要求,ja-JP
+Fahrende Händler erzeugen,行商人のスポーン,ja-JP
+Fallschaden,落下ダメージ,ja-JP
+Fantasmi,ファントムのスポーン,ja-JP
+Feuerausbreitung,炎の更新,ja-JP
+Feuerausbreitungs‐Radius,炎の延焼が起こる半径,ja-JP
+Feuerschaden,火傷ダメージ,ja-JP
+fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+Fire spread radius,炎の延焼が起こる半径,ja-JP
+Forgive dead players,死亡したプレイヤーへの敵対を解除,ja-JP
+Fortschritte bekannt geben,進捗達成の通知,ja-JP
+Frequenza dei tick casuali,ランダムティックの発生数,ja-JP
+Fúria universal,敵対の共有,ja-JP
+Für einige Objekte können eigene Regeln gelten.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+Game Rule Changes,ゲームルールの変更,ja-JP
+Gece-gündüz döngüsü olsun,ゲーム内時刻の進行,ja-JP
+Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+Gelişimler gösterilsin,進捗達成の通知,ja-JP
+Generación de criaturas,スポーン,ja-JP
+Generar bandas de saqueadores,略奪隊のスポーン,ja-JP
+Generar criaturas,Mobのスポーン,ja-JP
+Generar fantasmas,ファントムのスポーン,ja-JP
+Generar monstruos,モンスターのスポーン,ja-JP
+Generar terreno en modo espectador,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+Generar vendedores ambulantes,行商人のスポーン,ja-JP
+Generar wardens,ウォーデンのスポーン,ja-JP
+Generatori funzionanti,スポナーの有効化,ja-JP
+Generazione,スポーン,ja-JP
+Generazione di terreno da parte degli spettatori,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+Gerar criaturas,Mobのスポーン,ja-JP
+Gerar Defensores,ウォーデンのスポーン,ja-JP
+Gerar Espectros,ファントムのスポーン,ja-JP
+Gerar Mercadores Ambulantes,行商人のスポーン,ja-JP
+Gerar monstros,モンスターのスポーン,ja-JP
+Gerar patrulhas de Saqueadores,略奪隊のスポーン,ja-JP
+Gerar terreno para os espectadores,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+Geração,スポーン,ja-JP
+Gestorbenen Spielern vergeben,死亡したプレイヤーへの敵対を解除,ja-JP
+Gesundheit regenerieren,体力の自動回復,ja-JP
+Giocatore,プレイヤー,ja-JP
+Giảm thông tin gỡ lỗi,デバッグ情報の制限,ja-JP
+Giận dữ toàn diện,敵対の共有,ja-JP
+Giới hạn kích cỡ chuỗi lệnh,コマンドの最大チェーン数,ja-JP
+Giới hạn ngữ cảnh lệnh,コマンドの最大実行文脈数,ja-JP
+Giới hạn nội dung của màn hình gỡ lỗi.,表示するデバッグ情報の項目数を制限します。,ja-JP
+Giới hạn số khối sửa đổi bởi lệnh,コマンドによるブロックの最大変更数,ja-JP
+Giữ túi đồ sau khi chết,死亡時のインベントリの保持,ja-JP
+Global sound events,ワールド全体のサウンドイベント,ja-JP
+Gây sát thương lửa,火傷ダメージ,ja-JP
+Gây sát thương rơi,落下ダメージ,ja-JP
+Gây sát thương đuối nước,溺水ダメージ,ja-JP
+Gây sát thương đóng băng,凍結ダメージ,ja-JP
+Générateurs activés,スポナーの有効化,ja-JP
+Génération du terrain par les spectateurs,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+Gửi phản hồi về lệnh,コマンドの実行結果の表示,ja-JP
+Hata ayıklama bilgisini azalt,デバッグ情報の制限,ja-JP
+Hata ayıklama ekranı içeriğini kısıtlar.,表示するデバッグ情報の項目数を制限します。,ja-JP
+Hauteur d'accumulation de la neige,積雪の深さ,ja-JP
+Hava durumu döngüsü olsun,天気の更新,ja-JP
+Hiển thị thông báo chết,死亡メッセージの表示,ja-JP
+Häufigkeit von Zufallsereignissen,ランダムティックの発生数,ja-JP
+"Höchstgeschwindigkeit, die eine Lore an Land standardmäßig erreichen kann.",地上を走るトロッコのデフォルトの最高速度,ja-JP
+Hồi phục sinh lực,体力の自動回復,ja-JP
+"If enabled, players will be able to craft only unlocked recipes.",有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+Il raggio in blocchi intorno a un giocatore entro cui il fuoco può propagarsi,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+Impossible de modifier les règles de jeu dans un monde Hardcore.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+"In block interaction explosions, some blocks won't drop their loot",ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"In mob explosions, some blocks won't drop their loot",Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"In TNT explosions, some blocks won't drop their loot",TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Incursioni,襲撃の発生,ja-JP
+Incursioni disattivate,襲撃の無効化,ja-JP
+Informazioni diagnostiche ridotte,デバッグ情報の制限,ja-JP
+Infos de débogage réduites,デバッグ情報の制限,ja-JP
+Innesco ed esplosione di TNT,TNTの点火及び爆発の許可,ja-JP
+Invasiones,襲撃の発生,ja-JP
+Invasions,襲撃の発生,ja-JP
+Invasions désactivées,襲撃の無効化,ja-JP
+Inventar nach dem Tod behalten,死亡時のインベントリの保持,ja-JP
+Ira universal,敵対の共有,ja-JP
+Itens largados,ドロップ,ja-JP
+Jogador,プレイヤー,ja-JP
+Joueur,プレイヤー,ja-JP
+Joueurs morts pardonnés,死亡したプレイヤーへの敵対を解除,ja-JP
+Jugador,プレイヤー,ja-JP
+Kar birikme yüksekliği,積雪の深さ,ja-JP
+"Kar yağdığında, zeminde birikecek kar katmanı sayısı.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,地上を走るトロッコのデフォルトの最高速度,ja-JP
+Keep inventory after death,死亡時のインベントリの保持,ja-JP
+"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.",有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.",溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.",水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.",有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+Khác,その他,ja-JP
+Không thể thay đổi luật chơi trong thế giới siêu khó.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.",ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+Kiểm soát người chơi được phép vào Nether hay không.,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+Kiểm soát quái vật sinh ra tự nhiên hay không.,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.",ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.",Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+Kiểm tra chuyển động của cánh cứng,エリトラの速度チェック,ja-JP
+Kiểm tra chuyển động của người chơi,プレイヤーの速度チェック,ja-JP
+Komut bağlam limiti,コマンドの最大実行文脈数,ja-JP
+Komut Bloklarını Etkinleştir,コマンドブロックの有効化,ja-JP
+Komut bloğu zincirleri ve fonksiyonlar için geçerli.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+Komut bloğu çıktıları gösterilsin,コマンドブロックの実行結果の通知,ja-JP
+Komut değişikliği blok sınırı,コマンドによるブロックの最大変更数,ja-JP
+Komut geri bildirimi gösterilsin,コマンドの実行結果の表示,ja-JP
+Komut zinciri uzunluk sınırı,コマンドの最大チェーン数,ja-JP
+Kreaturen,Mob,ja-JP
+Kreaturen erzeugen,Mobのスポーン,ja-JP
+Kreaturenausbeute fallen lassen,Mobのアイテムのドロップ,ja-JP
+Kreatur‐Explosionsausbeute verschwindet,Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Kâbuslar oluşsun,ファントムのスポーン,ja-JP
+Küresel ses olayları,ワールド全体のサウンドイベント,ja-JP
+La lava se convierte en fuente,溶岩流から溶岩源への変化,ja-JP
+La mise à jour des règles de jeu nécessite des permissions d'opérateur.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+La percentuale di giocatori che devono dormire per saltare la notte.,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+La vitesse maximale par défaut des wagonnets en mouvement sur le sol.,地上を走るトロッコのデフォルトの最高速度,ja-JP
+Largar blocos,ブロックのドロップ,ja-JP
+Largar itens de criaturas,Mobのアイテムのドロップ,ja-JP
+Largar itens de entidades,設備エンティティのドロップ,ja-JP
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar.
+Funciona mejor si «Perdonar jugadores muertos» se desactiva.",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar. Funciona mejor si «Perdonar jugadores muertos» se desactiva.",敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+Las criaturas neutrales que estén enfadadas dejarán de estarlo cuando el jugador al que persigan muera cerca.,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+Las entidades con pasajeros pueden utilizar portales,何かが乗っているエンティティのポータル使用可否,ja-JP
+Las perlas de ender lanzadas desaparecen al morir,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+Las perlas de ender lanzadas por un jugador desaparecen cuando este muere.,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+"Lav, kaynağa dönüşsün",溶岩流から溶岩源への変化,ja-JP
+Lava converts to source,溶岩流から溶岩源への変化,ja-JP
+Lava‐Erneuerbarkeit,溶岩流から溶岩源への変化,ja-JP
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgive_dead_players» è disattivata.",敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgiveDeadPlayers» è disattivata.",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+Le creature neutrali che sono state provocate smettono di essere arrabbiate quando il giocatore puntato muore nelle vicinanze.,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+Le entità con passeggeri possono attraversare i portali,何かが乗っているエンティティのポータル使用可否,ja-JP
+"Le nombre de blocs qui peuvent être modifiés à la fois par une commande, telle que /fill ou /clone.",fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+Le nombre de chunks qui restent chargés autour du point d'apparition de la Surface.,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+"Le nombre maximal de contextes qui peuvent être utilisés par des commandes telles que ""execute as"".",「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+Le pourcentage de joueurs qui doivent dormir pour passer la nuit.,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+Le rayon (en blocs) autour d'un joueur dans lequel le feu peut se propager.,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+Le regole di gioco possono essere cambiate solo dagli operatori.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+Le regole di gioco sono bloccate nei mondi in modalità estrema.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+Le temps (en ticks) pendant lequel un joueur en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Le temps (en ticks) pendant lequel un joueur qui n'est pas en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgive_dead_players"" est désactivée.",敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgiveDeadPlayers"" est désactivée.",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+Les créatures neutres en colère redeviennent calmes lorsque le joueur ciblé meurt à proximité.,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+Limita el contenido de la pantalla de desarrollo al pulsar F3.,表示するデバッグ情報の項目数を制限します。,ja-JP
+Limita il contenuto del cruscotto diagnostico.,表示するデバッグ情報の項目数を制限します。,ja-JP
+Limite d'ammassamento delle entità,エンティティの最大密集数,ja-JP
+Limite d'entassement des entités,エンティティの最大密集数,ja-JP
+Limite de blocos modificados por comando,コマンドによるブロックの最大変更数,ja-JP
+Limite de blocs modifiables par commande,コマンドによるブロックの最大変更数,ja-JP
+Limite de comandos em cadeia,コマンドの最大チェーン数,ja-JP
+Limite de contextes des commandes,コマンドの最大実行文脈数,ja-JP
+Limite de contextos por comando,コマンドの最大実行文脈数,ja-JP
+Limite dei blocchi modificabili per comando,コマンドによるブロックの最大変更数,ja-JP
+Limite dei contesti dei comandi,コマンドの最大実行文脈数,ja-JP
+Limite delle catene di comandi,コマンドの最大チェーン数,ja-JP
+Limite des chaînes de commandes,コマンドの最大チェーン数,ja-JP
+Limite le contenu de l'écran de débogage.,表示するデバッグ情報の項目数を制限します。,ja-JP
+Limits contents of debug screen.,表示するデバッグ情報の項目数を制限します。,ja-JP
+Loren‐Höchstgeschwindigkeit,トロッコの最高速度,ja-JP
+"Lorsqu'il neige, les couches de neige qui se forment sur le sol peuvent atteindre cette hauteur.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+"Lorsqu'un écoulement d'eau est entouré de deux sources d'eau, il se transforme en source.",水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+"Lorsqu'un écoulement de lave est entouré de deux sources de lave, il se transforme en source.",溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+"Lorsque certains événements se produisent dans le jeu, comme l'apparition d'un boss, le son est entendu partout.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+Los proyectiles pueden romper bloques,飛び道具によるブロック破壊の可否,ja-JP
+Límite de bloques modificables por comandos,コマンドによるブロックの最大変更数,ja-JP
+Límite de comandos encadenados,コマンドの最大チェーン数,ja-JP
+Límite de contextos del comando,コマンドの最大実行文脈数,ja-JP
+Límite de entidades por bloque,エンティティの最大密集数,ja-JP
+Lập tức hồi sinh,即時リスポーン,ja-JP
+Mantener inventario tras morir,死亡時のインベントリの保持,ja-JP
+Manter o inventário ao morrer,死亡時のインベントリの保持,ja-JP
+"Maximale Anzahl an Befehlsrahmen, die von Befehlen wie „execute as“ benutzt werden können.",「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+Maximum default speed of a moving Minecart on land.,地上を走るトロッコのデフォルトの最高速度,ja-JP
+Maximum number of contexts that can be used by commands like 'execute as'.,「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+Mercanti ambulanti,行商人のスポーン,ja-JP
+Messages de mort,死亡メッセージの表示,ja-JP
+Messaggi di morte,死亡メッセージの表示,ja-JP
+Minecart max speed,トロッコの最高速度,ja-JP
+Miscellaneous,その他,ja-JP
+Mobs,Mob,ja-JP
+Modifica le regole di gioco,ゲームルールを編集,ja-JP
+Modification des règles de jeu,ゲームルールを編集,ja-JP
+Modifications des règles de jeu,ゲームルールの変更,ja-JP
+Monster erzeugen,モンスターのスポーン,ja-JP
+Mostrar mensagens de morte,死亡メッセージの表示,ja-JP
+Mostrar mensajes de muerte,死亡メッセージの表示,ja-JP
+Mostrar respostas dos comandos,コマンドの実行結果の表示,ja-JP
+Mostri,モンスターのスポーン,ja-JP
+Mudanças nas regras do jogo,ゲームルールの変更,ja-JP
+Muhafızlar oluşsun,ウォーデンのスポーン,ja-JP
+Mặc định: %s,デフォルト値：%s,ja-JP
+Một vài thực thể có thể sẽ có luật riêng biệt.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Natura,ワールドの更新,ja-JP
+Nether'a İzin Ver,ネザーの許可,ja-JP
+Netherportal‐Verzögerung,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Netherportal‐Verzögerung im Kreativmodus,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Netherportal‐Zugang,ネザーの許可,ja-JP
+Người chơi,プレイヤー,ja-JP
+Ngưỡng nhồi nhét thực thể,エンティティの最大密集数,ja-JP
+Ngọc Ender được ném ra biến mất khi chết,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+No se pueden cambiar las reglas del juego en modo extremo.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+Notificar uso de bloques de comandos,コマンドブロックの実行結果の通知,ja-JP
+Notificar uso de comandos de admin.,管理者ログへのコマンドの実行結果の通知,ja-JP
+Numero di chunk che rimangono caricati intorno al punto di generazione globale.,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+Numero massimo di blocchi che possono essere cambiati contemporaneamente da un solo comando (come «/fill» o «/clone»).,fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+Numero massimo di contesti che possono essere usati da comandi come «/execute as».,「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+Não largar todos os itens com explosões de blocos,ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Não largar todos os itens com explosões de criaturas,Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Não largar todos os itens com explosões de TNT,TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+Número máximo de entidades agrupadas,エンティティの最大密集数,ja-JP
+Nước chuyển thành nguồn,水流から水源への変化,ja-JP
+"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+Obergrenze für Befehlsketten,コマンドの最大チェーン数,ja-JP
+Obergrenze für Befehlsrahmen,コマンドの最大実行文脈数,ja-JP
+Obergrenze für Objektgedränge,エンティティの最大密集数,ja-JP
+Objektausbeute fallen lassen,設備エンティティのドロップ,ja-JP
+Obtención de objetos,ドロップ,ja-JP
+Obtener botín de criaturas,Mobのアイテムのドロップ,ja-JP
+Obteniendo las reglas del juego...,ゲームルールを取得中…,ja-JP
+Oluşum,スポーン,ja-JP
+Oyun kuralları alınıyor,ゲームルールを取得中…,ja-JP
+Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+Oyun Kurallarını Düzenle,ゲームルールを編集,ja-JP
+Oyun Kurallarını Düzenle...,ゲームルールを編集…,ja-JP
+Oyun Kuralı Değişiklikleri,ゲームルールの変更,ja-JP
+Oyuncu,プレイヤー,ja-JP
+Oyuncu etrafında ateş yayılabilen blok yarıçapı.,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+Oyuncu hareket denetimini kapat,プレイヤーの速度チェックの無効化,ja-JP
+Oyuncu hareketini denetle,プレイヤーの速度チェック,ja-JP
+Oyuncu Konum Çubuğunu aç,プレイヤーの方向バーの有効化,ja-JP
+Oyunculardan uzakta ateş yayılabilsin,プレイヤーから遠い炎のティック処理,ja-JP
+Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+Oyuncuların Nether'a girebilmesini kontrol eder.,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+Padrão: %s,デフォルト値：%s,ja-JP
+Par défaut : %s,デフォルト値：%s,ja-JP
+Pattuglie di predoni,略奪隊のスポーン,ja-JP
+Percentuale di giocatori addormentati,就寝率,ja-JP
+Perdita dei rilasci con le esplosioni dei blocchi,ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Perdita dei rilasci con le esplosioni delle creature,Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Perdita dei rilasci con le esplosioni di TNT,TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Perdoar jogadores mortos,死亡したプレイヤーへの敵対を解除,ja-JP
+Perdonar jugadores muertos,死亡したプレイヤーへの敵対を解除,ja-JP
+Perdono dei giocatori morti,死亡したプレイヤーへの敵対を解除,ja-JP
+"Permet aux entités avec des passagers de se téléporter au travers des portails du Nether et de l'End, et des passerelles de l'End.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+"Permite a las entidades viajar con pasajeros a través de portales del Nether, del End y nexos del End.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+"Permite que se recupere una entidad al romperla. Afecta a vagonetas (incluyendo sus inventarios), marcos, barcas, etc.",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+Permitir acesso ao Nether,ネザーの許可,ja-JP
+Permitir ativação e explosão de TNT,TNTの点火及び爆発の許可,ja-JP
+Permitir ações destrutivas de criaturas,Mobの破壊行動の許可,ja-JP
+Permitir bloques de comandos,コマンドブロックの有効化,ja-JP
+Permitir explosiones de dinamita,TNTの点火及び爆発の許可,ja-JP
+Permitir generadores de criaturas,スポナーの有効化,ja-JP
+Permitir JcJ (PvP),PvPの有効化,ja-JP
+Permitir Nether,ネザーの許可,ja-JP
+Permitir que las criaturas destruyan,Mobの破壊行動の許可,ja-JP
+Perte de butin dans les explosions de blocs,ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Perte de butin dans les explosions de créatures,Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Perte de butin dans les explosions de TNT,TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Phantome erzeugen,ファントムのスポーン,ja-JP
+Player,プレイヤー,ja-JP
+Player's Nether Portal delay in creative mode,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Player's Nether Portal delay in non-creative mode,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Plünderer‐Patrouillen erzeugen,略奪隊のスポーン,ja-JP
+Por defecto: %s,デフォルト値：%s,ja-JP
+Porcentagem de sono,就寝率,ja-JP
+Porcentaje de jugadores para dormir,就寝率,ja-JP
+Portalnutzung durch Objekte mit Passagieren,何かが乗っているエンティティのポータル使用可否,ja-JP
+Pourcentage de joueurs endormis,就寝率,ja-JP
+Predefinito: %s,デフォルト値：%s,ja-JP
+Progressi annunciati,進捗達成の通知,ja-JP
+Progrès annoncés,進捗達成の通知,ja-JP
+Projectiles can break blocks,飛び道具によるブロック破壊の可否,ja-JP
+Propagación de enredaderas,ツタの成長,ja-JP
+Propagación del fuego,炎の更新,ja-JP
+Propagation des lianes,ツタの成長,ja-JP
+Propagation du feu,炎の更新,ja-JP
+Propagazione dei rampicanti,ツタの成長,ja-JP
+Propagazione del fuoco,炎の更新,ja-JP
+Propagazione distante del fuoco,プレイヤーから遠い炎のティック処理,ja-JP
+Propagação de trepadeiras,ツタの成長,ja-JP
+Propagação distante de fogo,プレイヤーから遠い炎のティック処理,ja-JP
+Propagação do fogo,炎の更新,ja-JP
+PvP,PvPの有効化,ja-JP
+pvp 켜기,PvPの有効化,ja-JP
+Pvp'yi etkinleştir,PvPの有効化,ja-JP
+"Quando attiva, viene mostrata una barra sullo schermo per indicare la posizione dei giocatori.",有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+"Quando il TNT causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+"Quando l'acqua corrente è circondata da sorgenti d'acqua su due lati, si trasforma in sorgente.",水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+"Quando l'interazione con blocchi causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+"Quando la lava colante è circondata da sorgenti di lava su due lati, si trasforma in sorgente.",溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+"Quando le creature causano esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+"Quando nevica, la neve si accumulerà a terra fino al numero massimo di strati specificato.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+Quebrar blocos com projéteis,飛び道具によるブロック破壊の可否,ja-JP
+Rabbia generale,敵対の共有,ja-JP
+Radio de propagación del fuego,炎の延焼が起こる半径,ja-JP
+Radio del punto de reaparición,スポーンチャンクの半径,ja-JP
+Radio del punto de reaparición,リスポーン地点の半径,ja-JP
+Radius des Wiedereinstiegsbereichs,リスポーン地点の半径,ja-JP
+Raggio dei chunk di generazione,スポーンチャンクの半径,ja-JP
+Raggio del punto di rinascita,リスポーン地点の半径,ja-JP
+Raggio di propagazione del fuoco intorno al giocatore,炎の延焼が起こる半径,ja-JP
+Raio de propagação do fogo,炎の延焼が起こる半径,ja-JP
+Raio do ponto de renascimento,リスポーン地点の半径,ja-JP
+Raio dos chunks ao renascer,スポーンチャンクの半径,ja-JP
+Random tick speed rate,ランダムティックの発生数,ja-JP
+Rankenausbreitung,ツタの成長,ja-JP
+Rastgele zaman birimi ilerleme oranı,ランダムティックの発生数,ja-JP
+Rayon de la zone de réapparition,リスポーン地点の半径,ja-JP
+Rayon de propagation du feu,炎の延焼が起こる半径,ja-JP
+Rayon des chunks d'apparition,スポーンチャンクの半径,ja-JP
+Reaparición instantánea,即時リスポーン,ja-JP
+Recette requise pour fabriquer,クラフトにレシピを要求,ja-JP
+Recupero delle regole di gioco...,ゲームルールを取得中…,ja-JP
+Reduce debug info,デバッグ情報の制限,ja-JP
+Reducir datos de F3,デバッグ情報の制限,ja-JP
+Reduz o conteúdo da tela de depuração.,表示するデバッグ情報の項目数を制限します。,ja-JP
+Reduzir informações de depuração,デバッグ情報の制限,ja-JP
+Regenerar salud,体力の自動回復,ja-JP
+Regenerar vida,体力の自動回復,ja-JP
+Regenerate health,体力の自動回復,ja-JP
+Registrazione dei comandi degli operatori,管理者ログへのコマンドの実行結果の通知,ja-JP
+Regole di gioco,ゲームルールの変更,ja-JP
+Regole di gioco...,ゲームルールを編集…,ja-JP
+Renascer imediatamente,即時リスポーン,ja-JP
+Require recipe for crafting,クラフトにレシピを要求,ja-JP
+Respawn immediately,即時リスポーン,ja-JP
+Respawn location radius,リスポーン地点の半径,ja-JP
+Retrieving game rules...,ゲームルールを取得中…,ja-JP
+Rezepte zur Herstellung benötigt,クラフトにレシピを要求,ja-JP
+Rigenerazione della salute,体力の自動回復,ja-JP
+Rilasci,ドロップ,ja-JP
+Rilasci dei blocchi,ブロックのドロップ,ja-JP
+Rilasci delle creature,Mobのアイテムのドロップ,ja-JP
+Rilasci delle entità,設備エンティティのドロップ,ja-JP
+Rinascita immediata,即時リスポーン,ja-JP
+Risposte dei comandi,コマンドの実行結果の表示,ja-JP
+Ritardo dei portali del Nether,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Ritardo dei portali del Nether in modalità creativa,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Règles de jeu...,ゲームルールを編集…,ja-JP
+Réapparition immédiate,即時リスポーン,ja-JP
+Récupération des règles de jeu...,ゲームルールを取得中…,ja-JP
+Régénération de la vie,体力の自動回復,ja-JP
+Résultat des commandes,コマンドの実行結果の表示,ja-JP
+Rơi ra,ドロップ,ja-JP
+Rơi ra khối,ブロックのドロップ,ja-JP
+Rơi ra lợi phẩm của sinh vật,Mobのアイテムのドロップ,ja-JP
+Rơi ra trang bị của thực thể,設備エンティティのドロップ,ja-JP
+S'applique aux blocs de commande en chaîne et aux fonctions.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.",ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+Sarmaşıklar yayılsın,ツタの成長,ja-JP
+Sağlık yenilensin,体力の自動回復,ja-JP
+Schaden durch Ertrinken,溺水ダメージ,ja-JP
+Schlafquote,就寝率,ja-JP
+Schneedeckenhöhe,積雪の深さ,ja-JP
+Scomparsa alla morte delle perle di ender già lanciate,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+Se aplica a las cadenas de bloques de comandos y funciones.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+"Se attivata, i giocatori possono fabbricare oggetti solo seguendo le ricette sbloccate.",有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+Send command feedback,コマンドの実行結果の表示,ja-JP
+Seyircilerin arazi oluşturmasına izin verilsin,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+Seyyar Tüccarlar oluşsun,行商人のスポーン,ja-JP
+Show death messages,死亡メッセージの表示,ja-JP
+"Si activée, les joueurs ne pourront fabriquer qu'à partir des recettes débloquées.",有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+"Si activée, une barre s'affiche à l'écran pour indiquer la position des joueurs.",有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+Si applica a blocchi comandi a catena e funzioni.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+"Si se activa, solo se podrán fabricar recetas aprendidas.",有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+Sinh ra,スポーン,ja-JP
+Sinh ra kẻ cai ngục,ウォーデンのスポーン,ja-JP
+Sinh ra kẻ cướp tuần tra,略奪隊のスポーン,ja-JP
+Sinh ra phantom,ファントムのスポーン,ja-JP
+Sinh ra quái vật,モンスターのスポーン,ja-JP
+Sinh ra sinh vật,Mobのスポーン,ja-JP
+Sinh ra thương nhân lang thang,行商人のスポーン,ja-JP
+Sinh vật,Mob,ja-JP
+Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.",敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+Sleep percentage,就寝率,ja-JP
+Snow accumulation height,積雪の深さ,ja-JP
+Sofortiger Wiedereinstieg,即時リスポーン,ja-JP
+Sohbet,チャット,ja-JP
+Soltar objetos al romper bloques,ブロックのドロップ,ja-JP
+Soltar objetos al romper entidades,設備エンティティのドロップ,ja-JP
+Some entities might have separate rules.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+Sortie des blocs de commande,コマンドブロックの実行結果の通知,ja-JP
+Sorveglianti,ウォーデンのスポーン,ja-JP
+Spawn chunk radius,スポーンチャンクの半径,ja-JP
+Spawn mobs,Mobのスポーン,ja-JP
+Spawn Monsters,モンスターのスポーン,ja-JP
+Spawn phantoms,ファントムのスポーン,ja-JP
+Spawn pillager patrols,略奪隊のスポーン,ja-JP
+Spawn Wandering Traders,行商人のスポーン,ja-JP
+Spawn Wardens,ウォーデンのスポーン,ja-JP
+Spawner,スポナーの有効化,ja-JP
+Spawning,スポーン,ja-JP
+Spieler,プレイヤー,ja-JP
+Spielerbewegung nicht überprüfen,プレイヤーの速度チェックの無効化,ja-JP
+Spielerortungsleiste aktivieren,プレイヤーの方向バーの有効化,ja-JP
+Spieler‐Bewegungsprüfung,プレイヤーの速度チェック,ja-JP
+Spielregeln bearbeiten,ゲームルールを編集,ja-JP
+Spielregeln bearbeiten …,ゲームルールを編集…,ja-JP
+Spielregeln werden abgerufen …,ゲームルールを取得中…,ja-JP
+Stabilisce se le perle di ender lanciate da un giocatore scompaiono alla morte di quest'ultimo.,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+Standard: %s,デフォルト値：%s,ja-JP
+"Steuert die Größe des Bereichs um den Einstiegspunkt, in dem Spieler in die Welt einsteigen können.",スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+"Steuert, ob aufprallende Geschosse Blöcke zerstören, die durch sie zerstörbar wären.",飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+"Steuert, ob Blöcke ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Steuert, ob Feuer und Lava in einer Entfernung von mehr als 8 Chunks von einem Spieler aktualisiert werden",どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+"Steuert, ob Kreaturen ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).",Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Steuert, ob Loren, Rahmen, Boote usw. ihre Ausbeute fallen lassen (einschließlich Inventaren).",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+"Steuert, ob Monster natürlich erscheinen.",モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+"Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.",ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+"Steuert, ob Spieler anderen Spielern Schaden zufügen können.",プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+"Steuert, ob Spieler den Nether durch Portale betreten können.",プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+"Steuert, ob vom Spieler geworfene Enderperlen verschwinden, wenn dieser stirbt.",プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+"Su, kaynağa dönüşsün",水流から水源への変化,ja-JP
+Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+Sự kiện âm thanh toàn cầu,ワールド全体のサウンドイベント,ja-JP
+Taxa de velocidade de tiques aleatórios,ランダムティックの発生数,ja-JP
+Tchat,チャット,ja-JP
+Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Tempo (in tick) che un giocatore in modalità creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Tempo (in tick) che un giocatore in modalità diverse dalla creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Tempo atmosferico,天気の更新,ja-JP
+Tha thứ cho người chơi đã chết,死亡したプレイヤーへの敵対を解除,ja-JP
+Thay đổi luật chơi,ゲームルールの変更,ja-JP
+The amount of chunks that stay loaded around the Overworld spawn position.,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+"The number of blocks that can be changed at once by one command, such as fill or clone.",fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+The percentage of players who must be sleeping to skip the night.,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+The radius in blocks around a player in which fire can spread.,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+Thrown Ender Pearls vanish on death,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+Thông báo tiến trình,進捗達成の通知,ja-JP
+Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Thời gian trong ngày trôi đi,ゲーム内時刻の進行,ja-JP
+Thực thể với hành khách có thể sử dụng cổng,何かが乗っているエンティティのポータル使用可否,ja-JP
+Tick fire away from players,プレイヤーから遠い炎のティック処理,ja-JP
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modo creativo para cambiar de dimensión.,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modos que no sean creativo para cambiar de dimensión.,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+"TNT patlamalarında, bazı bloklar düşmesin",TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+TNT‐Explosionsausbeute verschwindet,TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+TNT’nin etkinleştirilmesine ve patlamasına izin ver,TNTの点火及び爆発の許可,ja-JP
+TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+TNT의 점화 및 폭발 허용,TNTの点火及び爆発の許可,ja-JP
+Todesmeldungen anzeigen,死亡メッセージの表示,ja-JP
+"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+Transformar lava em fonte,溶岩流から溶岩源への変化,ja-JP
+Transformar água em fonte,水流から水源への変化,ja-JP
+Transformation de l'eau en source,水流から水源への変化,ja-JP
+Transformation de la lave en source,溶岩流から溶岩源への変化,ja-JP
+"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Truyền đi lệnh quản trị,管理者ログへのコマンドの実行結果の通知,ja-JP
+Truyền đi đầu ra của khối lệnh,コマンドブロックの実行結果の通知,ja-JP
+Trò chuyện,チャット,ja-JP
+Téléportation des entités avec des passagers à travers les portails,何かが乗っているエンティティのポータル使用可否,ja-JP
+Tắt các cuộc xâm lược,襲撃の無効化,ja-JP
+Tắt kiểm tra chuyển động của cánh cứng,エリトラの速度チェックの無効化,ja-JP
+Tắt kiểm tra chuyển động của người chơi,プレイヤーの速度チェックの無効化,ja-JP
+Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+Tỉ lệ phần trăm ngủ,就寝率,ja-JP
+Tỉ lệ tốc độ nhịp ngẫu nhiên,ランダムティックの発生数,ja-JP
+Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,地上を走るトロッコのデフォルトの最高速度,ja-JP
+Tốc độ tối đa của xe mỏ,トロッコの最高速度,ja-JP
+Universal anger,敵対の共有,ja-JP
+Update fire,炎の更新,ja-JP
+Update weather,天気の更新,ja-JP
+Updating game rules requires operator permissions.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+Uyuma yüzdesi,就寝率,ja-JP
+"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+Varie,その他,ja-JP
+Varios,その他,ja-JP
+Varlık ekipmanı düşsün,設備エンティティのドロップ,ja-JP
+Varlık sıkışması alt sınırı,エンティティの最大密集数,ja-JP
+Varsayılan: %s,デフォルト値：%s,ja-JP
+Velocidad de tics al azar,ランダムティックの発生数,ja-JP
+Velocidad máxima de las vagonetas,トロッコの最高速度,ja-JP
+Velocidad máxima por defecto de una vagoneta por tierra.,地上を走るトロッコのデフォルトの最高速度,ja-JP
+Velocidade máxima do Carrinho de Mina,トロッコの最高速度,ja-JP
+Velocidade padrão máxima de um Carrinho de Mina no solo.,地上を走るトロッコのデフォルトの最高速度,ja-JP
+Velocità massima dei vagonetti,トロッコの最高速度,ja-JP
+Velocità massima predefinita di un vagonetto in movimento.,地上を走るトロッコのデフォルトの最高速度,ja-JP
+Verifica dei movimenti dei giocatori,プレイヤーの速度チェック,ja-JP
+Verifica dei movimenti dei giocatori disattivata,プレイヤーの速度チェックの無効化,ja-JP
+Verifica del volo con le elitre,エリトラの速度チェック,ja-JP
+Verifica del volo con le elitre disattivata,エリトラの速度チェックの無効化,ja-JP
+Verificação de movimentos do jogador,プレイヤーの速度チェック,ja-JP
+Verificação de movimentos dos Élitros,エリトラの速度チェック,ja-JP
+Verschiedenes,その他,ja-JP
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgive_dead_players deaktiviert ist.",敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgiveDeadPlayers deaktiviert ist.",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+"Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.",敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+Vines spread,ツタの成長,ja-JP
+Vitesse des ticks aléatoires,ランダムティックの発生数,ja-JP
+Vitesse maximale des wagonnets,トロッコの最高速度,ja-JP
+Você não pode alterar as regras do jogo em mundos no modo Intenso.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+Von Spielern entferntes Feuer aktualisieren,プレイヤーから遠い炎のティック処理,ja-JP
+Voranschreiten der Tageszeit,ゲーム内時刻の進行,ja-JP
+Voulez-vous vraiment abandonner les modifications en cours des règles de jeu ?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+Vuoi davvero annullare le modifiche in sospeso alle regole di gioco?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+Vérification des mouvements du joueur,プレイヤーの速度チェック,ja-JP
+Vérification du vol en élytres,エリトラの速度チェック,ja-JP
+Vérification désactivée des mouvements du joueur,プレイヤーの速度チェックの無効化,ja-JP
+Vérification désactivée du vol en élytres,エリトラの速度チェックの無効化,ja-JP
+Vật bắn ra có thể phá khối,飛び道具によるブロック破壊の可否,ja-JP
+Wasser‐Erneuerbarkeit,水流から水源への変化,ja-JP
+Water converts to source,水流から水源への変化,ja-JP
+Weltaktualisierungen,ワールドの更新,ja-JP
+Weltweite Geräuschereignisse,ワールド全体のサウンドイベント,ja-JP
+"Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen.",有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+"Wenn aktiviert, zeigt eine Leiste auf dem Bildschirm die Richtung der Mitspieler an.",有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+"Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+"Wenn es schneit, entsteht auf dem Boden eine Schneedecke, die höchstens diese Anzahl von Schichten erreicht.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+"Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, wird sie zu einer Quelle.",溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+"Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, wird es zu einer Quelle.",水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+Wetterwechsel,天気の更新,ja-JP
+"When certain game events happen, like a boss spawning, the sound is heard everywhere.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+"When enabled, a bar is shown on the screen to indicate the direction of players.",有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+"When flowing lava is surrounded on two sides by lava sources, it converts into a source.",溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+"When flowing water is surrounded on two sides by water sources, it converts into a source.",水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+"When it snows, layers of snow form on the ground up to at most this number of layers.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+Whether Ender Pearls thrown by a player vanish when that player dies.,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+Wird auf Befehlsblockketten und Funktionen angewandt.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+World Updates,ワールドの更新,ja-JP
+Wärter erzeugen,ウォーデンのスポーン,ja-JP
+Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Yağmacı devriyeleri oluşsun,略奪隊のスポーン,ja-JP
+Yeniden canlanma yeri çevresi,リスポーン地点の半径,ja-JP
+"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+Yolcusu olan varlıklar geçitlerden geçebilir,何かが乗っているエンティティのポータル使用可否,ja-JP
+Yêu cầu công thức chế tạo,クラフトにレシピを要求,ja-JP
+Yönetici komutları gösterilsin,管理者ログへのコマンドの実行結果の通知,ja-JP
+"Zeit (in Ticks), die ein Spieler außerhalb des Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+"Zeit (in Ticks), die ein Spieler im Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Zerstörung durch Kreaturen,Mobの破壊行動の許可,ja-JP
+Zorlayıcı dünyada oyun kuralları değiştirilemez.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+Zuschauer generieren Landschaft,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+¿Seguro que quieres descartar tus cambios?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+Áp dụng cho chuỗi khối lệnh và hàm.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+Änderungen der Spielregeln,ゲームルールの変更,ja-JP
+Çağırıcı Bloklarını Etkinleştir,スポナーの有効化,ja-JP
+Çeşitli,その他,ja-JP
+Événements sonores globaux,ワールド全体のサウンドイベント,ja-JP
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.",敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+Öldükten sonra envanteri koru,死亡時のインベントリの保持,ja-JP
+Ölü oyuncular affedilsin,死亡したプレイヤーへの敵対を解除,ja-JP
+Ölüm iletileri gösterilsin,死亡メッセージの表示,ja-JP
+Überfälle,襲撃の発生,ja-JP
+Überfälle deaktivieren,襲撃の無効化,ja-JP
+Üretim için tarif gereksin,クラフトにレシピを要求,ja-JP
+Đang truy xuất luật chơi...,ゲームルールを取得中…,ja-JP
+Đếm nhịp lửa cách xa người chơi,プレイヤーから遠い炎のティック処理,ja-JP
+Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Активация и взрыв динамита,TNTの点火及び爆発の許可,ja-JP
+Влияет на выпадение предметов и сфер опыта из блоков.,ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+Влияет на выпадение предметов и сфер опыта из мобов.,Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+"Влияет на потерю предметов, выпавших после взрыва динамита.",オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+"Влияет на потерю предметов, выпавших после взрыва моба.",Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.",ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+Возобновление источников воды,水流から水源への変化,ja-JP
+Возобновление источников лавы,溶岩流から溶岩源への変化,ja-JP
+Время прохождения портала Незера в творческом режиме,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Время прохождения портала Незера вне творческого режима,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+Вы действительно хотите отменить изменения игровых правил?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+Выпадение блоков,ブロックのドロップ,ja-JP
+Выпадение добычи из мобов,Mobのアイテムのドロップ,ja-JP
+Выпадение ресурсов,ドロップ,ja-JP
+Выпадение экипировки сущностей,設備エンティティのドロップ,ja-JP
+Высота снежного покрова,積雪の深さ,ja-JP
+Генерация мира наблюдателями,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+Глобальные звуковые события,ワールド全体のサウンドイベント,ja-JP
+Доступ в Незер,ネザーの許可,ja-JP
+"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.",有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+Загрузка игровых правил...,ゲームルールを取得中…,ja-JP
+Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+Запись команд администраторов,管理者ログへのコマンドの実行結果の通知,ja-JP
+Затрагивает цепочки командных блоков и функции.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+Игровые правила...,ゲームルールを編集…,ja-JP
+Игрок,プレイヤー,ja-JP
+Изменение игровых правил в Хардкоре недоступно.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+Изменение игровых правил требует прав оператора.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+Изменения игровых правил,ゲームルールの変更,ja-JP
+Изменения погоды,天気の更新,ja-JP
+Использование командных блоков,コマンドブロックの有効化,ja-JP
+Использование порталов сущностями с пассажирами,何かが乗っているエンティティのポータル使用可否,ja-JP
+Исчезновение брошенного эндер-жемчуга при смерти,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+"Когда включено, на экране отображается локатор, указывающий на расположение игроков.",有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+Командные блоки,コマンドブロックの有効化,ja-JP
+Локатор игроков,プレイヤーの方向バーの有効化,ja-JP
+Максимальная базовая скорость движения вагонетки по земле.,地上を走るトロッコのデフォルトの最高速度,ja-JP
+Максимальная скорость вагонетки,トロッコの最高速度,ja-JP
+"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.",fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».",「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+Малый экран отладки,デバッグ情報の制限,ja-JP
+Мгновенное возрождение,即時リスポーン,ja-JP
+Мобы,Mob,ja-JP
+Настройка игровых правил,ゲームルールを編集,ja-JP
+Обновление огня вдали от игроков,プレイヤーから遠い炎のティック処理,ja-JP
+Обновления мира,ワールドの更新,ja-JP
+Ограничение длины цепи команд,コマンドの最大チェーン数,ja-JP
+Ограничение изменения блоков командой,コマンドによるブロックの最大変更数,ja-JP
+Ограничение контекста команд,コマンドの最大実行文脈数,ja-JP
+Ограничение содержания экрана отладки.,表示するデバッグ情報の項目数を制限します。,ja-JP
+Окружённая двумя источниками текущая вода образует третий.,水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+Окружённая двумя источниками текущая лава образует третий.,溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+Оповещения о достижениях,進捗達成の通知,ja-JP
+"Определяет, могут ли игроки входить в Незер.",プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+"Определяет, могут ли игроки наносить урон другим игрокам.",プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+"Определяет, появляются ли монстры сами по себе.",モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+Отключение проверки движения игрока,プレイヤーの速度チェックの無効化,ja-JP
+Отключение проверки на элитрах,エリトラの速度チェックの無効化,ja-JP
+Отключение рейдов,襲撃の無効化,ja-JP
+Отображение сообщений команд,コマンドの実行結果の表示,ja-JP
+Патрули разбойников,略奪隊のスポーン,ja-JP
+По умолчанию: %s,デフォルト値：%s,ja-JP
+"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+Потеря части добычи от взрыва при использовании блока,ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Потеря части добычи при взрыве динамита,TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Потеря части добычи при взрыве моба,Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+Появление,スポーン,ja-JP
+Появление мобов,Mobのスポーン,ja-JP
+Появление монстров,モンスターのスポーン,ja-JP
+Появление фантомов,ファントムのスポーン,ja-JP
+Появление хранителей,ウォーデンのスポーン,ja-JP
+Предел сущностей в одном блоке,エンティティの最大密集数,ja-JP
+"Предельное число слоёв снега, образующихся во время снегопада.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+Проверка движения игрока,プレイヤーの速度チェック,ja-JP
+Проверка движения на элитрах,エリトラの速度チェック,ja-JP
+"Процент игроков, которым нужно спать для пропуска ночи.",夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+Процент спящих,就寝率,ja-JP
+Прощение умерших игроков,死亡したプレイヤーへの敵対を解除,ja-JP
+"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+Радиус невыгружаемой области вокруг точек возрождения игроков.,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+Радиус невыгружаемой области вокруг точки возрождения мира.,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+Радиус области возрождения,リスポーン地点の半径,ja-JP
+Радиус распространения огня,炎の延焼が起こる半径,ja-JP
+Радиус чанков возрождения мира,スポーンチャンクの半径,ja-JP
+Разное,その他,ja-JP
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.",敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+Разрушительные действия мобов,Mobの破壊行動の許可,ja-JP
+Распространение лианы,ツタの成長,ja-JP
+Распространение огня,炎の更新,ja-JP
+Рассадники,スポナーの有効化,ja-JP
+Регенерация здоровья,体力の自動回復,ja-JP
+"Регулирует, разрушаются ли определённые блоки от удара снаряда.",飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+Рейды,襲撃の発生,ja-JP
+Слепая ярость,敵対の共有,ja-JP
+Смена дня и ночи,ゲーム内時刻の進行,ja-JP
+Снаряды могут разрушать блоки,飛び道具によるブロック破壊の可否,ja-JP
+Создание только по рецепту,クラフトにレシピを要求,ja-JP
+Сообщения командных блоков,コマンドブロックの実行結果の通知,ja-JP
+Сообщения о смерти,死亡メッセージの表示,ja-JP
+Сохранение инвентаря при смерти,死亡時のインベントリの保持,ja-JP
+Странствующие торговцы,行商人のスポーン,ja-JP
+У некоторых сущностей могут быть свои игровые правила.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+Урон от замерзания,凍結ダメージ,ja-JP
+Урон от огня,火傷ダメージ,ja-JP
+Урон от падения,落下ダメージ,ja-JP
+Урон от утопления,溺水ダメージ,ja-JP
+Частота случайных тактов,ランダムティックの発生数,ja-JP
+Чат,チャット,ja-JP
+การดรอป,ドロップ,ja-JP
+การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,ゲームルールの更新には管理者権限が必要です。,ja-JP
+การอัปเดตของโลก,ワールドの更新,ja-JP
+การเกิด,スポーン,ja-JP
+การโกรธทุกคน,敵対の共有,ja-JP
+กำลังดึงข้อมูลกฎเกม...,ゲームルールを取得中…,ja-JP
+ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+ความสูงในการสะสมชั้นหิมะ,積雪の深さ,ja-JP
+ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,地上を走るトロッコのデフォルトの最高速度,ja-JP
+ความเร็วสูงสุดของรถราง,トロッコの最高速度,ja-JP
+คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+ค่าเริ่มต้น: %s,デフォルト値：%s,ja-JP
+จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,コマンドの最大チェーン数,ja-JP
+จำกัดจำนวนบริบทของคำสั่ง,コマンドの最大実行文脈数,ja-JP
+จำกัดเนื้อหาของหน้าจอดีบั๊ก,表示するデバッグ情報の項目数を制限します。,ja-JP
+จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,エンティティの最大密集数,ja-JP
+ดรอปของจากเอนทิตี้,設備エンティティのドロップ,ja-JP
+ดรอปลูตของม็อบ,Mobのアイテムのドロップ,ja-JP
+ดาเมจจากการจมน้ำ,溺水ダメージ,ja-JP
+ดาเมจจากการตกจากที่สูง,落下ダメージ,ja-JP
+ดาเมจจากความเย็น,凍結ダメージ,ja-JP
+ดาเมจจากไฟ,火傷ダメージ,ja-JP
+ดำเนินวัฏจักรกลางวัน-กลางคืน,ゲーム内時刻の進行,ja-JP
+ตรวจสอบการเคลื่อนที่ของผู้เล่น,プレイヤーの速度チェック,ja-JP
+ตรวจสอบความเร็วขณะบินด้วยปีก,エリトラの速度チェック,ja-JP
+ตายของไม่ตก,死亡時のインベントリの保持,ja-JP
+ต้องมีสูตรสำหรับการคราฟต์,クラフトにレシピを要求,ja-JP
+บล็อกดรอป,ブロックのドロップ,ja-JP
+ประกาศความก้าวหน้า,進捗達成の通知,ja-JP
+ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,プレイヤーの速度チェックの無効化,ja-JP
+ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,エリトラの速度チェックの無効化,ja-JP
+ปิดการปล้นสะดม,襲撃の無効化,ja-JP
+ผู้เล่น,プレイヤー,ja-JP
+ฟื้นฟูเลือดตามธรรมชาติ,体力の自動回復,ja-JP
+มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,チェーンコマンドブロックや関数に適用されます。,ja-JP
+ม็อบ,Mob,ja-JP
+ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""",敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+รัศมีการลุกลามของไฟ,炎の延焼が起こる半径,ja-JP
+รัศมีจุดเกิด,リスポーン地点の半径,ja-JP
+รัศมีชังก์จุดเกิด,スポーンチャンクの半径,ja-JP
+รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+ลดการแสดงข้อมูลดีบั๊ก,デバッグ情報の制限,ja-JP
+วัตถุพุ่งสามารถทำลายบล็อกได้,飛び道具によるブロック破壊の可否,ja-JP
+หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,TNTの点火及び爆発の許可,ja-JP
+อนุญาตให้เข้าเนเธอร์,ネザーの許可,ja-JP
+อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+อภัยผู้เล่นที่ตายแล้ว,死亡したプレイヤーへの敵対を解除,ja-JP
+อัตราความเร็วติ๊กแบบสุ่ม,ランダムティックの発生数,ja-JP
+อัปเดตสภาพอากาศ,天気の更新,ja-JP
+อัปเดตไฟ,炎の更新,ja-JP
+เกิดใหม่ทันที,即時リスポーン,ja-JP
+เบ็ดเตล็ด,その他,ja-JP
+เปลี่ยนแปลงกฎเกม,ゲームルールの変更,ja-JP
+เปอร์เซ็นต์ของผู้เล่นนอน,就寝率,ja-JP
+เปิดการปล้นสะดม,襲撃の発生,ja-JP
+เปิดใช้งาน PvP,PvPの有効化,ja-JP
+เปิดใช้งานบล็อกกรงกำเนิด,スポナーの有効化,ja-JP
+เปิดใช้งานบล็อกคำสั่ง,コマンドブロックの有効化,ja-JP
+เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,プレイヤーの方向バーの有効化,ja-JP
+เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+เหตุการณ์เสียงดังไปทั่ว,ワールド全体のサウンドイベント,ja-JP
+เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,何かが乗っているエンティティのポータル使用可否,ja-JP
+เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+แก้ไขกฎเกม,ゲームルールを編集,ja-JP
+แก้ไขกฎเกม...,ゲームルールを編集…,ja-JP
+แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,コマンドによるブロックの最大変更数,ja-JP
+แชต,チャット,ja-JP
+แสดงข้อความการตาย,死亡メッセージの表示,ja-JP
+แสดงบันทึกคำสั่งของแอดมิน,管理者ログへのコマンドの実行結果の通知,ja-JP
+แสดงผลป้อนกลับคำสั่ง,コマンドの実行結果の表示,ja-JP
+แสดงเอาต์พุตของบล็อกคำสั่ง,コマンドブロックの実行結果の通知,ja-JP
+ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+ให้กองโจรลาดตระเวนเกิด,略奪隊のスポーン,ja-JP
+ให้น้ำไหลกลายเป็นแหล่งน้ำได้,水流から水源への変化,ja-JP
+ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+ให้พ่อค้าเร่ร่อนเกิด,行商人のスポーン,ja-JP
+ให้มอนสเตอร์เกิด,モンスターのスポーン,ja-JP
+ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,Mobの破壊行動の許可,ja-JP
+ให้ม็อบเกิด,Mobのスポーン,ja-JP
+ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,溶岩流から溶岩源への変化,ja-JP
+ให้วอร์เดนเกิด,ウォーデンのスポーン,ja-JP
+ให้เถาวัลย์แพร่,ツタの成長,ja-JP
+ให้แฟนท่อมเกิด,ファントムのスポーン,ja-JP
+ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,プレイヤーから遠い炎のティック処理,ja-JP
+ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+“execute as”等命令可以使用的上下文数量最大值。,「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+「execute as」等指令使用的上下文最大數量。,「execute as」などのコマンドで使用できる実行文脈の最大数,ja-JP
+一些实体可能有其特定的规则。,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+世界更新,ワールドの更新,ja-JP
+主世界出生点周围保持加载的区块数量。,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+主世界重生點周圍維持載入的區塊數量。,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+你确定要放弃未保存的游戏规则更改吗？,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+你確定要捨棄尚未儲存的遊戲規則變更嗎？,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+停用玩家移動檢測,プレイヤーの速度チェックの無効化,ja-JP
+停用突襲,襲撃の無効化,ja-JP
+停用鞘翅移動檢測,エリトラの速度チェックの無効化,ja-JP
+允許 TNT 被點燃並爆炸,TNTの点火及び爆発の許可,ja-JP
+允許旁觀者生成地形,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+允許火在遠離玩家處蔓延,プレイヤーから遠い炎のティック処理,ja-JP
+允許生物的破壞行為,Mobの破壊行動の許可,ja-JP
+允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+允許進入地獄,ネザーの許可,ja-JP
+允许TNT被点燃并爆炸,TNTの点火及び爆発の許可,ja-JP
+允许旁观者生成地形,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+允许流动水转化为水源,水流から水源への変化,ja-JP
+允许流动熔岩转化为熔岩源,溶岩流から溶岩源への変化,ja-JP
+允许火在远离玩家处蔓延,プレイヤーから遠い炎のティック処理,ja-JP
+允许破坏性生物行为,Mobの破壊行動の許可,ja-JP
+允许被骑乘的实体通过下界传送门、末地传送门和末地折跃门传送。,何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+允许进入下界,ネザーの許可,ja-JP
+入睡占比,就寝率,ja-JP
+全域聲音事件,ワールド全体のサウンドイベント,ja-JP
+全局声音事件,ワールド全体のサウンドイベント,ja-JP
+冰冻伤害,凍結ダメージ,ja-JP
+出生区块半径,スポーンチャンクの半径,ja-JP
+创造模式下玩家在下界传送门中等待的时间,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+創造模式玩家使用地獄傳送門的等待時間,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+单条命令（如fill和clone）最多能更改的方块数量。,fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+原諒死者,死亡したプレイヤーへの敵対を解除,ja-JP
+发送命令反馈,コマンドの実行結果の表示,ja-JP
+合成需要配方,クラフトにレシピを要求,ja-JP
+启用PvP,PvPの有効化,ja-JP
+启用刷怪笼方块,スポナーの有効化,ja-JP
+启用后，屏幕上会显示指示玩家方位的定位栏。,有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+启用命令方块,コマンドブロックの有効化,ja-JP
+启用玩家定位栏,プレイヤーの方向バーの有効化,ja-JP
+启用玩家移动检测,プレイヤーの速度チェック,ja-JP
+启用袭击,襲撃の発生,ja-JP
+启用鞘翅移动检测,エリトラの速度チェック,ja-JP
+命令上下文数量限制,コマンドの最大実行文脈数,ja-JP
+命令修改方块数量限制,コマンドによるブロックの最大変更数,ja-JP
+命令连锁执行数量限制,コマンドの最大チェーン数,ja-JP
+啟用 PvP,PvPの有効化,ja-JP
+啟用後，畫面上會顯示指示玩家方位的定位條。,有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+啟用指令方塊,コマンドブロックの有効化,ja-JP
+啟用玩家定位條,プレイヤーの方向バーの有効化,ja-JP
+啟用玩家移動檢測,プレイヤーの速度チェック,ja-JP
+啟用生怪磚,スポナーの有効化,ja-JP
+啟用突襲,襲撃の発生,ja-JP
+啟用鞘翅移動檢測,エリトラの速度チェック,ja-JP
+單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,ja-JP
+回傳指令回饋,コマンドの実行結果の表示,ja-JP
+在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+在 TNT 的爆炸中，部分方塊不會掉落成戰利品,TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+在TNT引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+在TNT爆炸中，一些方块不会掉落战利品,TNT爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+在与方块交互引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+在方块交互爆炸中，一些方块不会掉落战利品,ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+在生物引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+在生物爆炸中，一些方块不会掉落战利品,Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+在生物的爆炸中，部分方塊不會掉落成戰利品,Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+天气更替,天気の更新,ja-JP
+套用於連鎖型指令方塊及函數。,チェーンコマンドブロックや関数に適用されます。,ja-JP
+实体挤压上限,エンティティの最大密集数,ja-JP
+宽恕死亡玩家,死亡したプレイヤーへの敵対を解除,ja-JP
+實體擠壓上限,エンティティの最大密集数,ja-JP
+广播命令方块输出,コマンドブロックの実行結果の通知,ja-JP
+应用于命令方块链和函数。,チェーンコマンドブロックや関数に適用されます。,ja-JP
+弹射物能否破坏方块,飛び道具によるブロック破壊の可否,ja-JP
+愤怒的中立生物将在其目标玩家于附近死亡后息怒。,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用forgive_dead_players可达到最佳效果。,敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。,敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+投射物是否能破壞方塊,飛び道具によるブロック破壊の可否,ja-JP
+拋出的終界珍珠在死亡時消失,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+指令修改方塊數量限制,コマンドによるブロックの最大変更数,ja-JP
+指令的上下文上限,コマンドの最大実行文脈数,ja-JP
+指令連鎖大小限制,コマンドの最大チェーン数,ja-JP
+掉落,ドロップ,ja-JP
+掉落實體裝備,設備エンティティのドロップ,ja-JP
+掉落方塊,ブロックのドロップ,ja-JP
+掉落生物戰利品,Mobのアイテムのドロップ,ja-JP
+控制各种矿车（含内容物）、物品展示框、船等的物品掉落。,トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+控制弹射物能否破坏可被其破坏的方块。,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+控制怪物是否能自然生成。,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+控制怪物能否自然生成。,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+控制投射物是否能破壞可被其破壞的方塊。,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+控制方块是否掉落资源，包括经验球。,ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+控制方塊資源掉落，包含經驗球。,ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+控制火和熔岩能否在距离任何玩家超过8个区块处蔓延。,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+控制玩家是否能互相傷害。,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+控制玩家是否能進入地獄。,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+控制玩家能否进入下界。,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+控制玩家能夠生成的重生點範圍區域大小。,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+控制玩家间能否互相伤害。,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+控制生物是否掉落资源，包括经验球。,Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+控制生物資源掉落，包含經驗球。,Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+控制礦車（包括內容物）、物品展示框、船等的掉落物。,トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+控制藤蔓方块能否随机向相邻的方块蔓延。不会影响其他藤蔓类方块（例如垂泪藤和缠怨藤等）。,ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+控制适合玩家生成的出生点周围区域大小。,スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+掷出的末影珍珠在死亡时消失,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+摔落伤害,落下ダメージ,ja-JP
+方块掉落,ブロックのドロップ,ja-JP
+无差别愤怒,敵対の共有,ja-JP
+无法在极限模式世界中更改游戏规则。,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+日夜交替,ゲーム内時刻の進行,ja-JP
+显示死亡消息,死亡メッセージの表示,ja-JP
+更新天氣,天気の更新,ja-JP
+更新游戏规则需要管理员权限。,ゲームルールの更新には管理者権限が必要です。,ja-JP
+更新火焰,炎の更新,ja-JP
+更新遊戲規則需要管理員權限。,ゲームルールの更新には管理者権限が必要です。,ja-JP
+杂项,その他,ja-JP
+正在擷取遊戲規則...,ゲームルールを取得中…,ja-JP
+正在获取游戏规则…,ゲームルールを取得中…,ja-JP
+死亡后保留物品栏,死亡時のインベントリの保持,ja-JP
+死亡後保留物品欄,死亡時のインベントリの保持,ja-JP
+流動水在被兩個水源包圍時，會轉化成水源。,水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+流動水轉化成水源,水流から水源への変化,ja-JP
+流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+流動熔岩轉化成熔岩源,溶岩流から溶岩源への変化,ja-JP
+游戏内时间流逝,ゲーム内時刻の進行,ja-JP
+游戏规则更改,ゲームルールの変更,ja-JP
+溺水伤害,溺水ダメージ,ja-JP
+火焰伤害,火傷ダメージ,ja-JP
+火焰蔓延,炎の更新,ja-JP
+火焰蔓延半径,炎の延焼が起こる半径,ja-JP
+火焰蔓延半徑,炎の延焼が起こる半径,ja-JP
+無差別憤怒,敵対の共有,ja-JP
+無法在極限模式世界中變更遊戲規則。,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+特定游戏事件（如Boss生成）发生时，声音可在所有地方听见。,ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+玩家,プレイヤー,ja-JP
+玩家周围火可以蔓延的方块半径。,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+玩家周圍火焰可蔓延的半徑格數。,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+玩家投掷的末影珍珠是否在玩家死亡时消失。,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+玩家拋出的終界珍珠是否在玩家死亡時消失。,プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+生命值自然恢复,体力の自動回復,ja-JP
+生成,スポーン,ja-JP
+生成伏守者,ウォーデンのスポーン,ja-JP
+生成夜魅,ファントムのスポーン,ja-JP
+生成幻翼,ファントムのスポーン,ja-JP
+生成怪物,モンスターのスポーン,ja-JP
+生成掠奪者巡邏隊,略奪隊のスポーン,ja-JP
+生成流浪商人,行商人のスポーン,ja-JP
+生成灾厄巡逻队,略奪隊のスポーン,ja-JP
+生成生物,Mobのスポーン,ja-JP
+生成监守者,ウォーデンのスポーン,ja-JP
+生物,Mob,ja-JP
+生物战利品掉落,Mobのアイテムのドロップ,ja-JP
+當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+相邻两面方块为水源的流动水会转化为水源。,水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+相邻两面方块为熔岩源的流动熔岩会转化为熔岩源。,溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP
+睡眠比例,就寝率,ja-JP
+矿车在地面上移动的默认最大速度。,地上を走るトロッコのデフォルトの最高速度,ja-JP
+矿车最大速度,トロッコの最高速度,ja-JP
+礦車在地面上移動的預設速度上限。,地上を走るトロッコのデフォルトの最高速度,ja-JP
+礦車最大速度,トロッコの最高速度,ja-JP
+禁用玩家移动检测,プレイヤーの速度チェックの無効化,ja-JP
+禁用袭击,襲撃の無効化,ja-JP
+禁用鞘翅移动检测,エリトラの速度チェックの無効化,ja-JP
+积雪厚度,積雪の深さ,ja-JP
+積雪厚度,積雪の深さ,ja-JP
+立即重生,即時リスポーン,ja-JP
+简化调试信息,デバッグ情報の制限,ja-JP
+簡化除錯資訊,デバッグ情報の制限,ja-JP
+編輯遊戲規則,ゲームルールを編集,ja-JP
+編輯遊戲規則...,ゲームルールを編集…,ja-JP
+编辑游戏规则,ゲームルールを編集,ja-JP
+编辑游戏规则…,ゲームルールを編集…,ja-JP
+聊天,チャット,ja-JP
+聊天欄,チャット,ja-JP
+自然回血,体力の自動回復,ja-JP
+若启用，玩家只能使用已解锁的配方合成。,有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+若啟用，玩家將只能合成已解鎖的配方。,有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+藤蔓蔓延,ツタの成長,ja-JP
+被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+被騎乘的實體是否能使用傳送門,何かが乗っているエンティティのポータル使用可否,ja-JP
+被骑乘的实体能否使用传送门,何かが乗っているエンティティのポータル使用可否,ja-JP
+記錄指令方塊輸出,コマンドブロックの実行結果の通知,ja-JP
+記錄管理員指令,管理者ログへのコマンドの実行結果の通知,ja-JP
+跳过夜晚所需的入睡玩家占比。,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+跳過夜晚所需的入睡玩家比例。,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+进度通知,進捗達成の通知,ja-JP
+通告管理员命令,管理者ログへのコマンドの実行結果の通知,ja-JP
+造成冰凍傷害,凍結ダメージ,ja-JP
+造成摔落傷害,落下ダメージ,ja-JP
+造成溺水傷害,溺水ダメージ,ja-JP
+造成火焰傷害,火傷ダメージ,ja-JP
+進度通知,進捗達成の通知,ja-JP
+遊戲規則變更,ゲームルールの変更,ja-JP
+部分實體可能採用不同的規則。,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+重生區塊半徑,スポーンチャンクの半径,ja-JP
+重生点半径,リスポーン地点の半径,ja-JP
+重生點半徑,リスポーン地点の半径,ja-JP
+降雪时，地面上的雪最多堆积到此处指定的层数。,降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+降雪時，地面上的積雪最多累積至此處指定的層數。,降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+限制调试屏幕内容。,表示するデバッグ情報の項目数を制限します。,ja-JP
+限制除錯畫面的內容。,表示するデバッグ情報の項目数を制限します。,ja-JP
+随机刻速率,ランダムティックの発生数,ja-JP
+隨機刻速率,ランダムティックの発生数,ja-JP
+雜項,その他,ja-JP
+需要配方才能合成,クラフトにレシピを要求,ja-JP
+非创造模式下玩家在下界传送门中等待的时间,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+非创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+非創造模式玩家使用地獄傳送門的等待時間,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+非生物实体掉落,設備エンティティのドロップ,ja-JP
+預設值：%s,デフォルト値：%s,ja-JP
+顯示死亡訊息,死亡メッセージの表示,ja-JP
+默认：%s,デフォルト値：%s,ja-JP
+개체 장비 떨굼,設備エンティティのドロップ,ja-JP
+개체 중첩 한계,エンティティの最大密集数,ja-JP
+겉날개 움직임 확인 끄기,エリトラの速度チェックの無効化,ja-JP
+겉날개 움직임 확인하기,エリトラの速度チェック,ja-JP
+게임 규칙 받아오는 중...,ゲームルールを取得中…,ja-JP
+게임 규칙 변경 사항,ゲームルールの変更,ja-JP
+게임 규칙 수정,ゲームルールを編集,ja-JP
+게임 규칙 수정...,ゲームルールを編集…,ja-JP
+게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,ゲームルールの更新には管理者権限が必要です。,ja-JP
+경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,Mobがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,ブロックがアイテムや経験値オーブをドロップするかを設定できます。,ja-JP
+관리자 명령 알림,管理者ログへのコマンドの実行結果の通知,ja-JP
+관전자의 지형 생성 허용,スペクテイターモードのプレイヤーによる地形生成の許可,ja-JP
+"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.",トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,ja-JP
+광산 수레 최고 속도,トロッコの最高速度,ja-JP
+기본값: %s,デフォルト値：%s,ja-JP
+기타,その他,ja-JP
+낙하 피해,落下ダメージ,ja-JP
+날씨 갱신,天気の更新,ja-JP
+네더 허용,ネザーの許可,ja-JP
+"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.",降雪時に積もる雪の層の最大数を設定できます。,ja-JP
+대화,チャット,ja-JP
+덩굴 퍼짐,ツタの成長,ja-JP
+덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,ja-JP
+동상 피해,凍結ダメージ,ja-JP
+디버그 정보 축소,デバッグ情報の制限,ja-JP
+디버그 화면의 내용을 제한합니다.,表示するデバッグ情報の項目数を制限します。,ja-JP
+땅에서 광산 수레가 움직일 때 최고 기본 속도,地上を走るトロッコのデフォルトの最高速度,ja-JP
+떠돌이 상인 생성,行商人のスポーン,ja-JP
+떨굼 설정,ドロップ,ja-JP
+랜덤 틱 속도 비율,ランダムティックの発生数,ja-JP
+리스폰 위치 반지름,リスポーン地点の半径,ja-JP
+명령 블록 연쇄와 함수에 해당.,チェーンコマンドブロックや関数に適用されます。,ja-JP
+명령 블록 출력 알림,コマンドブロックの実行結果の通知,ja-JP
+명령 블록 켜기,コマンドブロックの有効化,ja-JP
+명령 연쇄 크기 제한,コマンドの最大チェーン数,ja-JP
+명령 피드백 전송,コマンドの実行結果の表示,ja-JP
+명령어 맥락 제한,コマンドの最大実行文脈数,ja-JP
+명령어의 블록 변경량 제한,コマンドによるブロックの最大変更数,ja-JP
+몬스터 생성,モンスターのスポーン,ja-JP
+몬스터의 자연적 생성 여부를 제어합니다.,モンスターが自然にスポーンするかどうかを設定できます,ja-JP
+몹,Mob,ja-JP
+몹 노획물 떨굼,Mobのアイテムのドロップ,ja-JP
+몹 생성,Mobのスポーン,ja-JP
+"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",Mob爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,ja-JP
+무차별적 분노,敵対の共有,ja-JP
+물이 원천으로 바뀜,水流から水源への変化,ja-JP
+발전 과제 알림,進捗達成の通知,ja-JP
+밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,ja-JP
+"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.",ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,ja-JP
+분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,ja-JP
+불 갱신,炎の更新,ja-JP
+불 피해,火傷ダメージ,ja-JP
+불 확산 반지름,炎の延焼が起こる半径,ja-JP
+블록 떨굼,ブロックのドロップ,ja-JP
+"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,ja-JP
+"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,ja-JP
+생명력 재생,体力の自動回復,ja-JP
+생성,スポーン,ja-JP
+생성기 블록 켜기,スポナーの有効化,ja-JP
+세계 갱신,ワールドの更新,ja-JP
+"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,ja-JP
+스폰 청크 반지름,スポーンチャンクの半径,ja-JP
+습격 끄기,襲撃の無効化,ja-JP
+습격 켜기,襲撃の発生,ja-JP
+시간 흐름,ゲーム内時刻の進行,ja-JP
+약탈자 정찰대 생성,略奪隊のスポーン,ja-JP
+오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,ja-JP
+용암이 원천으로 바뀜,溶岩流から溶岩源への変化,ja-JP
+워든 생성,ウォーデンのスポーン,ja-JP
+이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,ja-JP
+익사 피해,溺水ダメージ,ja-JP
+일부 개체는 별도의 규칙이 있을 수 있습니다.,特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,ja-JP
+저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,編集中のゲームルールの変更を破棄してもよろしいですか？,ja-JP
+적설 높이,積雪の深さ,ja-JP
+전역 소리 이벤트,ワールド全体のサウンドイベント,ja-JP
+제작에 제작법 필요,クラフトにレシピを要求,ja-JP
+죽은 플레이어 용서,死亡したプレイヤーへの敵対を解除,ja-JP
+죽을 때 던져져 있는 엔더 진주 소멸,プレイヤー死亡時のエンダーパールの消滅,ja-JP
+죽음 문구 표시,死亡メッセージの表示,ja-JP
+죽음 후 보관함 보존,死亡時のインベントリの保持,ja-JP
+중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,ja-JP
+중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,ja-JP
+즉시 리스폰,即時リスポーン,ja-JP
+취침 비율,就寝率,ja-JP
+켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,ja-JP
+크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,非クリエイティブモードでのネザーポータルの待機時間,ja-JP
+크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,ja-JP
+크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,クリエイティブモードでのネザーポータルの待機時間,ja-JP
+"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.",何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,ja-JP
+탑승자가 있는 개체의 차원문 사용 허용,何かが乗っているエンティティのポータル使用可否,ja-JP
+투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,ja-JP
+투사체가 블록 파괴 가능,飛び道具によるブロック破壊の可否,ja-JP
+파괴적 몹 행위 허용,Mobの破壊行動の許可,ja-JP
+팬텀 생성,ファントムのスポーン,ja-JP
+플레이어,プレイヤー,ja-JP
+플레이어 움직임 확인 끄기,プレイヤーの速度チェックの無効化,ja-JP
+플레이어 움직임 확인하기,プレイヤーの速度チェック,ja-JP
+플레이어 위치 표시 바 켜기,プレイヤーの方向バーの有効化,ja-JP
+플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,ja-JP
+"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,ja-JP
+플레이어로부터 떨어진 불 틱,プレイヤーから遠い炎のティック処理,ja-JP
+플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,ja-JP
+플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,ja-JP
+플레이어의 네더 진입 가능 여부를 제어합니다.,プレイヤーがネザーに入ることができるかどうかを設定できます,ja-JP
+하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,ハードコアのワールドではゲームルールを変更できません。,ja-JP
+"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,ja-JP
+"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.",溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,ja-JP

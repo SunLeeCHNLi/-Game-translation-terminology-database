@@ -1,0 +1,1915 @@
+﻿source,target,tgt_lng
+ ,設置優先度：,ja-JP
+"""%s"" n'est pas un nom de structure valide",「%s」は無効な構造物名です,ja-JP
+"#%s etiketinde blok beklendi, %s bulundu",#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+"#%s에 속하는 블록이 필요한데, %s(이)었습니다",#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+%2$s birim zamanda %1$s,%2$sティック時点で%1$s,ja-JP
+"%2$s türü %1$s eşya beklendi, %3$s bulundu",タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+"%2$s 유형의 개체 %1$s개가 필요한데, %3$s개가 있었습니다",タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+"%2$s 유형의 아이템 %1$s개가 필요한데, %3$s개가 있었습니다",タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+"%2$s, %3$s, %4$s etrafında yalnızca bir %1$s olması beklenirken %5$s tane bulundu","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+"%2$s, %3$s, %4$s 周圍應只有一個 %1$s，但找到了 %5$s 個","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+"%2$s, %3$s, %4$s 주변에 %1$이(가) 있어야 합니다","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+"%2$s, %3$s, %4$s 주위에 %1$s이(가) 하나 있어야 하는데, %5$s개가 있었습니다","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+"%2$s, %3$s, %4$s周围应仅存在一个%1$s，实际为%5$s个","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+"%2$s, %3$s, %4$s周围应存在%1$s","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+"%s (절대 좌표: %s, %s, %s. 상대 좌표: %s, %s, %s. 틱 %s)","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+%s (틱 %s),%2$sティック時点で%1$s,ja-JP
+%s al tick %s,%2$sティック時点で%1$s,ja-JP
+"%s at %s, %s, %s (relative: %s, %s, %s) on tick %s","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+%s au tick %s,%2$sティック時点で%1$s,ja-JP
+"%s bei %s, %s, %s (relativ: %s, %s, %s) in Tick %s","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+%s beklendi,%sが必要です,ja-JP
+%s birim zaman içinde başarılı veya başarısız olunmadı,%sティック以内に成功も失敗もしませんでした。,ja-JP
+"%s bloğu beklendi, %s bulundu",ブロック%sが必要ですが、%sが検出されました,ja-JP
+%s bloğunun mevcut olması bekleniyor,ブロック%sが存在する必要があります,ja-JP
+"%s chạm vào %s, %s, %s không mong muốn (tương đối: %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+"%s değerinin %s olması beklendi, %s bulundu",%sが%sであることが必要ですが、%sでした,ja-JP
+"%s durumunun %s olması beklendi, %s bulundu",プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+"%s em %s, %s, %s (relativa: %s, %s, %s) no tique %s","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+"%s en %s, %s, %s (relative : %s, %s, %s) au tick %s","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+"%s en %s, %s, %s (relativo: %s, %s, %s) en el tic %s","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+%s en el tic %s,%2$sティック時点で%1$s,ja-JP
+"%s entités de type ""%s"" attendues (%s trouvées)",タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+%s erwartet,%sが必要です,ja-JP
+%s eşya tipi beklenmedi,タイプ%sのアイテムは予期されていません,ja-JP
+%s Gegenstände vom Typ %s erwartet; %s gefunden,タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+%s in Tick %s,%2$sティック時点で%1$s,ja-JP
+%s için değerin %s ile %s arasında olması bekleniyor: %s bulundu,%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+%s için olan test yapısı yerleştirilemedi,%sのテスト構造物の設置に失敗しました,ja-JP
+%s için varlık verisi uyumsuzluğu,エンティティデータが%sに合致しません,ja-JP
+%s no tique %s,%2$sティック時点で%1$s,ja-JP
+%s Objekte vom Typ %s erwartet; %s gefunden,タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+"%s objets de type ""%s"" attendus (%s trouvés)",タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+%s on tick %s,%2$sティック時点で%1$s,ja-JP
+"%s presso %s, %s, %s (relativa: %s, %s, %s) al tick %s","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+"%s previsto: %s, risultato: %s",%sが%sであることが必要ですが、%sでした,ja-JP
+"%s tarafından %s, %s, %s'ya dokunulması bekleniyordu (göreceliliği: %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+"%s tarafından %s, %s, %s'ya dokunulması beklenmiyordu (göreceliliği: %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+%s testi yürütülüyor,テスト%sを開始します,ja-JP
+%s trên nhịp %s,%2$sティック時点で%1$s,ja-JP
+%s türünde eşya beklendi,タイプ%sのアイテムが必要です,ja-JP
+"%s türünden %s varlık beklendi, %s bulundu",タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+"%s tại %s, %s, %s (tương đối: %s, %s, %s) trên nhịp %s","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+%s varlığı oluşturulamadı,エンティティ%sの作成に失敗しました,ja-JP
+%s varlığı testte başarısız oldu: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+%s varlığı testte başarısız oldu: %s. %s beklendi: %s bulundu,エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+%s varlığının %s %s etkisine sahip olması beklendi,%sには効果%s %sが付与されている必要があります,ja-JP
+"%s varlığının %s, %s, %s civarında var olması beklendi","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+%s varlığının testte var olması beklendi,%sがテスト内に存在している必要があります,ja-JP
+%s varlığının var olması beklenmedi,%sが存在することは予期されていません,ja-JP
+"%s wurde als %s erwartet, war aber %s",%sが%sであることが必要ですが、%sでした,ja-JP
+"%s wurde als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+"%s wurde bei %s, %s, %s erwartet","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+"%s wurde nicht als an %s, %s, %s angrenzend erwartet (relativ: %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+"%s zwischen %s und %s erwartet, war aber %s",%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+%s в такте %s,%2$sティック時点で%1$s,ja-JP
+"%s в точке %s, %s, %s (относительно: %s, %s, %s) в такте %s","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+%s ต้องมีเอฟเฟกต์ %s %s,%sには効果%s %sが付与されている必要があります,ja-JP
+%s ต้องเป็น %s: ตอนนี้เป็น %s,%sが%sであることが必要ですが、%sでした,ja-JP
+"%s ที่ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s) ในติ๊กที่ %s","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+%s ในติ๊กที่ %s,%2$sティック時点で%1$s,ja-JP
+%s 不應存在,%sが存在することは予期されていません,ja-JP
+"%s 不應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+%s 應位於 %s 和 %s 之間，但實際為 %s,%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+"%s 應存在於 %s, %s, %s 周圍","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+%s 應存在於測試中,%sがテスト内に存在している必要があります,ja-JP
+%s 應有效果 %s %s,%sには効果%s %sが付与されている必要があります,ja-JP
+%s 應為 %s，但實際為 %s,%sが%sであることが必要ですが、%sでした,ja-JP
+"%s 應與 %s, %s, %s 接觸（相對位置：%s, %s, %s）","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+%s 方塊過多,%sブロックが多すぎます,ja-JP
+%s 的實體資料不相符,エンティティデータが%sに合致しません,ja-JP
+%s 개체 생성에 실패했습니다,エンティティ%sの作成に失敗しました,ja-JP
+%s 개체가 테스트에 실패했습니다: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+"%s 개체가 테스트에 실패했습니다: %s. %s이(가) 필요한데, %s(이)었습니다",エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+%s 블록이 너무 많습니다,%sブロックが多すぎます,ja-JP
+%s 블록이 있으면 안 됩니다,ブロックが%sであることは予期されていません,ja-JP
+"%s 블록이 필요한데, %s(이)었습니다",ブロック%sが必要ですが、%sが検出されました,ja-JP
+"%s 속성이 %s(이)어야 하는데, %s(이)었습니다",プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+%s 유형의 아이템이 있으면 안 됩니다,タイプ%sのアイテムは予期されていません,ja-JP
+%s 유형의 아이템이 필요합니다,タイプ%sのアイテムが必要です,ja-JP
+"%s, %s, %s, %s'de (göreceliliği: %s, %s, %s) %s birim zamanında","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+"%s, %s, %s에 있는 테스트 인스턴스의 테스트 구조물 템플릿을 저장할 수 없습니다","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+%s不应存在,%sが存在することは予期されていません,ja-JP
+"%s不应接触%s, %s, %s（相对位置：%s, %s, %s）","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+%s应存在于测试中,%sがテスト内に存在している必要があります,ja-JP
+"%s应接触%s, %s, %s（相对位置：%s, %s, %s）","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+%s应有%s %s效果,%sには効果%s %sが付与されている必要があります,ja-JP
+%s方块过多,%sブロックが多すぎます,ja-JP
+%s的实体数据不匹配,エンティティデータが%sに合致しません,ja-JP
+%s의 개체 데이터가 일치하지 않았습니다,エンティティデータが%sに合致しません,ja-JP
+%s의 테스트 구조물 설치에 실패했습니다,%sのテスト構造物の設置に失敗しました,ja-JP
+%s이(가) %s %s 효과를 갖고 있어야 합니다,%sには効果%s %sが付与されている必要があります,ja-JP
+"%s이(가) %s(이)어야 하는데, %s(이)었습니다",%sが%sであることが必要ですが、%sでした,ja-JP
+"%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있어야 합니다","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+"%s이(가) %s, %s, %s (상대 좌표: %s, %s, %s)에 닿아 있으면 안 됩니다","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+"%s이(가) %s과(와) %s 사이에 있어야 하는데, %s이었습니다",%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+%s이(가) 아닌 잘못된 틱에 성공했습니다,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+%s이(가) 있으면 안 됩니다,%sが存在することは予期されていません,ja-JP
+%s이(가) 필요합니다,%sが必要です,ja-JP
+%s틱 안에 끝난 시퀀스가 없습니다,%sティック以内にシーケンスが終了しませんでした,ja-JP
+%s틱 안에 성공하거나 실패하지 않았습니다,%sティック以内に成功も失敗もしませんでした。,ja-JP
+"%s，位于%s, %s, %s（相对位置：%s, %s, %s），时间为第%s刻","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+"%s，位於 %s, %s, %s（相對位置：%s, %s, %s），時間為 %s 刻","ティック%8$s時点で、%2$s, %3$s, %4$s（相対位置：%5$s, %6$s, %7$s）において%1$s",ja-JP
+%s，时间为%s刻,%2$sティック時点で%1$s,ja-JP
+%s，時間為 %s 刻,%2$sティック時点で%1$s,ja-JP
+'%s' yapısı için boyut başarıyla tespit edildi,「%s」のサイズが正常に検出されました,ja-JP
+'%s' yapısı için konum hazırlandı,構造物「%s」の位置が準備されました,ja-JP
+'%s' yapısı kullanılabilir değil,構造物「%s」は利用できません,ja-JP
+'%s' 구조물을 사용할 수 없습니다,構造物「%s」は利用できません,ja-JP
+'%s'은(는) 잘못된 구조물 이름입니다,「%s」は無効な構造物名です,ja-JP
+'%s'의 크기를 성공적으로 감지했습니다,「%s」のサイズが正常に検出されました,ja-JP
+[geçersiz],[無効],ja-JP
+[invalid],[無効],ja-JP
+[inválido],[無効],ja-JP
+[không hợp lệ],[無効],ja-JP
+[no válido],[無効],ja-JP
+[non valide],[無効],ja-JP
+[non valido],[無効],ja-JP
+[ungültig],[無効],ja-JP
+[недействительно],[無効],ja-JP
+[ไม่ถูกต้อง],[無効],ja-JP
+[无效],[無効],ja-JP
+[無效],[無効],ja-JP
+[잘못됨],[無効],ja-JP
+A entidade %s falhou no teste: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+"A entidade %s falhou no teste: %s, esperava-se: %s, foi: %s",エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+A entidade deve segurar: %s,エンティティは%sを手に持っている必要があります,ja-JP
+Accept,認証,ja-JP
+Accept Mode - Accept success for (part of) a test,認証モード - テスト（の一部）の成功を認証します,ja-JP
+Accepter,認証,ja-JP
+Accetta,認証,ja-JP
+Accettazione: accetta la riuscita di (una parte di) un collaudo,認証モード - テスト（の一部）の成功を認証します,ja-JP
+Aceitar,認証,ja-JP
+Aceptar,認証,ja-JP
+Ad:,名前：,ja-JP
+Afficher la zone de délimitation :,境界線を表示する：,ja-JP
+Afficher les blocs invisibles :,見えないブロックを表示する：,ja-JP
+Akzeptanzmodus – Nimmt (teilweisen) Erfolg eines Tests entgegen,認証モード - テスト（の一部）の成功を認証します,ja-JP
+Akzeptieren,認証,ja-JP
+"Al procesar la pieza asociada a las conexiones, este es el orden en el que el bloque rompecabezas intenta conectar con su pieza de destino.
+
+Los bloques rompecabezas se procesan en orden descendente, con un orden de inserción aleatorio.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Aligned,整列,ja-JP
+Aligné,整列,ja-JP
+Ambiente: %s,環境：%s,ja-JP
+Angolo,コーナー,ja-JP
+Angolo: %s,コーナー：%s,ja-JP
+Angolo: marcatore per piazzamento e dimensione,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+"Ao processar a peça associada às conexões, essa é a ordem em que o bloco-quebra-cabeça tentará conectar-se à peça-alvo.
+
+O processo ocorre em ordem decrescente, ou aleatoriamente em caso de empate.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Aucun test,そのテストは存在しません,ja-JP
+Aucune séquence ne s'est terminée durant %s ticks,%sティック以内にシーケンスが終了しませんでした,ja-JP
+Ausgerichtet,整列,ja-JP
+Auswahlpriorität:,選択優先度：,ja-JP
+Avvia,開始,ja-JP
+Avvio del collaudo %s...,テスト%sを開始します,ja-JP
+Avvio: il punto di partenza di un collaudo,開始モード - テストの起点となります,ja-JP
+Bao gồm thực thể:,エンティティを含めるかどうか：,ja-JP
+Bağlantı Türü:,接続タイプ：,ja-JP
+Başarısız et,失敗,ja-JP
+Başarısız Etme Modu - Testi başarısızlığa uğrat,失敗モード - テストを失敗させます,ja-JP
+Başarısız: %s,失敗：%s,ja-JP
+Başarısızlık şartları karşılandı,失敗条件が満たされました,ja-JP
+Başlat,開始,ja-JP
+Bedingung bereits in Tick %s ausgelöst,条件がすでに%sでトリガーされています,ja-JP
+Bedingung nicht ausgelöst,条件がトリガーされていません,ja-JP
+Begrenzungsrahmen anzeigen:,境界線を表示する：,ja-JP
+Behälter muss ein %s enthalten,コンテナには単一の%sが入っている必要があります,ja-JP
+Behälter muss enthalten: %s,コンテナには%sが入っている必要があります,ja-JP
+Behälter muss leer sein,コンテナは空である必要があります,ja-JP
+Beklenen tick'den önce başarıldı: beklenen tick %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+Beklenmeyen blok türü bulundu: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+Benutzerdefinierte NBT-Daten,カスタムデータタグ名,ja-JP
+Bezugsquelle:,構成要素プール：,ja-JP
+Bilinmeyen dâhilî hata: %s,不明な内部エラーです：%s,ja-JP
+Biom für Test konnte nicht festgelegt werden,テストに向けたバイオームの設定に失敗しました,ja-JP
+"Bloc ""%s"" attendu (bloc reçu : ""%s"")",ブロック%sが必要ですが、%sが検出されました,ja-JP
+"Bloc ""%s"" inattendu",ブロックが%sであることは予期されていません,ja-JP
+"Bloc ""%s"" manquant de la structure de test",テスト構造物に%sブロックがありません,ja-JP
+"Bloc attendu dans le tag #%s (valeur reçue : ""%s"")",#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+Blocco %s mancante dalla struttura di collaudo,テスト構造物に%sブロックがありません,ja-JP
+Blocco complesso mancante,ブロックエンティティが不足しています,ja-JP
+"Block %s erwartet, war aber %s",ブロック%sが必要ですが、%sが検出されました,ja-JP
+"Block in #%s erwartet, war aber %s",#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+Block property missing. Expected property %s to be %s,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+Block Tabanlı Test,ブロックベース型テスト,ja-JP
+Block wurde nicht als %s erwartet,ブロックが%sであることは予期されていません,ja-JP
+Block-Based Test,ブロックベース型テスト,ja-JP
+Blockbasierter Test,ブロックベース型テスト,ja-JP
+Blockeigenschaft nicht vorhanden. Eigenschaft %s wurde als %s erwartet,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+"Blok durumu eksik, %s durumunun %s olması beklendi",ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+Blok varlık eksik,ブロックエンティティが不足しています,ja-JP
+Bloğun %s olması beklenmedi,ブロックが%sであることは予期されていません,ja-JP
+Boyut: %s,ディメンション：%s,ja-JP
+"Bu Yapboz bloğu bir parçaya bağlandığında, o parçanın daha geniş yapıdaki bağlantılar için işlenme sırası böyledir.
+Parçalar azalan sırayla girilme sırası eşitlikleri bozacak şekilde işlenecek.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Built-in Function Test,ビルトイン関数型テスト,ja-JP
+Böyle bir test yok,そのテストは存在しません,ja-JP
+Bắt đầu,開始,ja-JP
+Bị dư %s,%sが存在することは予期されていません,ja-JP
+Bị dư khối %s,ブロックが%sであることは予期されていません,ja-JP
+Bị dư vật phẩm thuộc loại %s,タイプ%sのアイテムは予期されていません,ja-JP
+Bị thiếu %s,%sが必要です,ja-JP
+Bị thiếu %s thực thể thuộc loại %s: đã tìm thấy %s,タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+"Bị thiếu %s tồn tại xung quanh %s, %s, %s","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+Bị thiếu %s vật phẩm thuộc loại %s: đã tìm thấy %s,タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+Bị thiếu khối %s,ブロック%sが存在する必要があります,ja-JP
+Bị thiếu khối %s: đã nhận %s,ブロック%sが必要ですが、%sが検出されました,ja-JP
+Bị thiếu khối trong #%s: đã nhận %s,#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+Bị thiếu thuộc tính khối. Dự kiến thuộc tính %s là %s,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+Bị thiếu thực thể khối,ブロックエンティティが不足しています,ja-JP
+Bị thiếu vật phẩm thuộc loại %s,タイプ%sのアイテムが必要です,ja-JP
+Canto,コーナー,ja-JP
+Cantos: %s,コーナー：%s,ja-JP
+CARGAR,読み込み,ja-JP
+Cargar,ロード,ja-JP
+Cargar y ejecutar,読み込んで実行,ja-JP
+Cargar: %s,ロード：%s,ja-JP
+Carica,ロード,ja-JP
+Carica,読み込み,ja-JP
+Carica ed esegui,読み込んで実行,ja-JP
+Caricamento: %s,ロード：%s,ja-JP
+Caricamento: carica da documento,ロードモード - ファイルからの読み込みを行います,ja-JP
+Caricato la struttura da «%s»,「%s」から構造物を読み込みました,ja-JP
+CARREGAR,読み込み,ja-JP
+Carregar,ロード,ja-JP
+Carregar e executar,読み込んで実行,ja-JP
+Carregar: %s,ロード：%s,ja-JP
+Ch.nhận,認証,ja-JP
+CHARGE,読み込み,ja-JP
+Charger,ロード,ja-JP
+Charger : %s,ロード：%s,ja-JP
+Charger et exécuter,読み込んで実行,ja-JP
+Chiều không gian: %s,ディメンション：%s,ja-JP
+Chế độ bắt đầu - Điểm bắt đầu cho một bài kiểm tra,開始モード - テストの起点となります,ja-JP
+Chế độ chấp nhận - Chấp nhận thành công (một phần) bài kiểm tra,認証モード - テスト（の一部）の成功を認証します,ja-JP
+Chế độ dữ liệu - Đánh dấu logic trò chơi,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+Chế độ góc - Đánh dấu vị trí và kích cỡ,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+Chế độ lưu - Ghi vào tập tin,セーブモード - ファイルへの書き込みを行います,ja-JP
+Chế độ nhật kí - Ghi một tin nhắn,ログモード - メッセージをログに出力します,ja-JP
+Chế độ nạp - Nạp từ tập tin,ロードモード - ファイルからの読み込みを行います,ja-JP
+Chế độ thất bại - Kiểm tra không thành công,失敗モード - テストを失敗させます,ja-JP
+Coin,コーナー,ja-JP
+Coin : %s,コーナー：%s,ja-JP
+Collaudo basato su blocchi,ブロックベース型テスト,ja-JP
+Collaudo di funzione integrata,ビルトイン関数型テスト,ja-JP
+Collaudo in corso prima di piazzare la struttura,構造物が未設置の状態でティック処理が実行されました,ja-JP
+Colocación estricta:,厳密な配置：,ja-JP
+Concluído antes do tique esperado: esperava-se %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+Concluído no tique inválido. Esperava-se: %s,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+Condición no activada,条件がトリガーされていません,ja-JP
+Condición ya activada en %s,条件がすでに%sでトリガーされています,ja-JP
+Condition already triggered at %s,条件がすでに%sでトリガーされています,ja-JP
+Condition déjà déclenchée au tick %s,条件がすでに%sでトリガーされています,ja-JP
+Condition non déclenchée,条件がトリガーされていません,ja-JP
+Condition not triggered,条件がトリガーされていません,ja-JP
+Conditions d'échec remplies,失敗条件が満たされました,ja-JP
+Condizione già attivata nel tick %s,条件がすでに%sでトリガーされています,ja-JP
+Condizione non attivata,条件がトリガーされていません,ja-JP
+Condizioni di fallimento soddisfatte,失敗条件が満たされました,ja-JP
+Condição já acionada em %s,条件がすでに%sでトリガーされています,ja-JP
+Condição não acionada,条件がトリガーされていません,ja-JP
+Condições de falha atendidas,失敗条件が満たされました,ja-JP
+Conjunto-alvo:,構成要素プール：,ja-JP
+Container should be empty,コンテナは空である必要があります,ja-JP
+Container should contain a single: %s,コンテナには単一の%sが入っている必要があります,ja-JP
+Container should contain: %s,コンテナには%sが入っている必要があります,ja-JP
+"Coordenadas de prueba: [%s, %s, %s] en %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"Coordenadas de teste: [%s, %s, %s] em %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"Coordenadas del jugador: [%s, %s, %s] en %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"Coordenadas do jogador: [%s, %s, %s] em %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+Coordinate automatiche,構造物の大きさと位置を検出：,ja-JP
+"Coordinate del giocatore: [%s, %s, %s] nella dimensione %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"Coordinate di collaudo: [%s, %s, %s] nella dimensione %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"Coordonnées de test : [%s, %s, %s] dans la dimension %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"Coordonnées du joueur : [%s, %s, %s] dans la dimension %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+Corner,コーナー,ja-JP
+Corner Mode - Placement and size marker,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+Corner: %s,コーナー：%s,ja-JP
+Creazione dell'entità %s non riuscita,エンティティ%sの作成に失敗しました,ja-JP
+"Cuando el bloque rompecabezas se conecta a una pieza, este es el orden en el que la pieza se procesa para las conexiones en estructuras más anchas.
+
+Las piezas se procesan en orden descendente, teniendo en cuenta el orden de inserción.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Custom Data Tag Name,カスタムデータタグ名,ja-JP
+Cấp độ: %s,レベル：%s,ja-JP
+Cấu trúc '%s' không có sẵn,構造物「%s」は利用できません,ja-JP
+Cấu trúc kiểm tra thiếu %s khối,テスト構造物に%sブロックがありません,ja-JP
+Cấu trúc được lưu với tên '%s',構造物が「%s」として保存されました,ja-JP
+Cấu trúc: %s,構造物：%s,ja-JP
+Dados,データ,ja-JP
+Dados: %s,データ：%s,ja-JP
+Data,データ,ja-JP
+Data Mode - Game logic marker,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+Data: %s,データ：%s,ja-JP
+Daten,データ,ja-JP
+Daten: %s,データ：%s,ja-JP
+Daten‐Modus – Markierung der Spiellogik,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+Dati,データ,ja-JP
+Dati dell'entità previsti: %s (ricevuto: %s),エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+Dati: %s,データ：%s,ja-JP
+Dati: marcatore per logiche di gioco,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+Datos,データ,ja-JP
+Datos: %s,データ：%s,ja-JP
+Demasiados bloques %s,%sブロックが多すぎます,ja-JP
+Depo boş olmalı,コンテナは空である必要があります,ja-JP
+Depo şu eşyadan bir tane barındırmalı: %s,コンテナには単一の%sが入っている必要があります,ja-JP
+Depo şu eşyayı barındırmalı: %s,コンテナには%sが入っている必要があります,ja-JP
+Der angegebene Block ist kein Blockgegenstand,指定のブロックはブロックアイテムではありません,ja-JP
+DETECT,検出,ja-JP
+Detect Structure Size and Position:,構造物の大きさと位置を検出：,ja-JP
+DETECTAR,検出,ja-JP
+Detectar posição e tamanho da estrutura:,構造物の大きさと位置を検出：,ja-JP
+Detectar tamaño y posición:,構造物の大きさと位置を検出：,ja-JP
+Did not expect %s to exist,%sが存在することは予期されていません,ja-JP
+"Did not expect %s touching %s, %s, %s (relative: %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+Did not expect block to be %s,ブロックが%sであることは予期されていません,ja-JP
+Did not expect item of type %s,タイプ%sのアイテムは予期されていません,ja-JP
+Didn't succeed or fail within %s ticks,%sティック以内に成功も失敗もしませんでした。,ja-JP
+Dieser Test existiert nicht,そのテストは存在しません,ja-JP
+Dimension : %s,ディメンション：%s,ja-JP
+Dimension: %s,ディメンション：%s,ja-JP
+Dimensione della struttura,構造物のサイズ,ja-JP
+Dimensione della struttura di collaudo,テスト構造物のサイズ,ja-JP
+dimensione della struttura in x,X軸方向の構造物のサイズ,ja-JP
+dimensione della struttura in y,Y軸方向の構造物のサイズ,ja-JP
+dimensione della struttura in z,Z軸方向の構造物のサイズ,ja-JP
+Dimensione: %s,ディメンション：%s,ja-JP
+Dimensión: %s,ディメンション：%s,ja-JP
+Dimensão: %s,ディメンション：%s,ja-JP
+Données,データ,ja-JP
+Données : %s,データ：%s,ja-JP
+Données d'entité attendues : %s (valeur reçue : %s),エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+Drehbar,回転可能,ja-JP
+Dâhilî Fonksiyon Testi,ビルトイン関数型テスト,ja-JP
+Délai d'expiration non valide (%s) - doit être un nombre positif de ticks,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+"Démarrage du test ""%s""",テスト%sを開始します,ja-JP
+Démarrer,開始,ja-JP
+DÉTECTE,検出,ja-JP
+Détecter la position et la taille :,構造物の大きさと位置を検出：,ja-JP
+Döndürülebilir,回転可能,ja-JP
+Dönüşür:,置換先：,ja-JP
+Dữ liệu,データ,ja-JP
+Dữ liệu thực thể không khớp cho %s,エンティティデータが%sに合致しません,ja-JP
+Dữ liệu: %s,データ：%s,ja-JP
+"Dự kiến %s chạm vào %s, %s, %s (tương đối: %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+Dự kiến %s có hiệu ứng %s %s,%sには効果%s %sが付与されている必要があります,ja-JP
+Dự kiến %s là %s: trước đó là %s,%sが%sであることが必要ですが、%sでした,ja-JP
+Dự kiến %s nằm trong phạm vi từ %s đến %s: trước đó là %s,%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+Dự kiến %s tồn tại trong kiểm tra,%sがテスト内に存在している必要があります,ja-JP
+"Dự kiến chỉ một %s tồn tại xung quanh %s, %s, %s nhưng đã tìm thấy %s","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+Dự kiến dữ liệu thực thể là %s: trước đó là %s,エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+Dự kiến thuộc tính %s là %s: trước đó là %s,プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+Ebenen: %s,レベル：%s,ja-JP
+Ecke,コーナー,ja-JP
+Ecke: %s,コーナー：%s,ja-JP
+Eck‐Modus – Markierung von Position und Größe,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+Effekt für %s wurde als %s %s erwartet,%sには効果%s %sが付与されている必要があります,ja-JP
+Ejecutar la prueba antes de colocar la estructura,構造物が未設置の状態でティック処理が実行されました,ja-JP
+El bloque proporcionado no puede ser un objeto,指定のブロックはブロックアイテムではありません,ja-JP
+El contenedor debe contener un único: %s,コンテナには単一の%sが入っている必要があります,ja-JP
+El contenedor debe contener: %s,コンテナには%sが入っている必要があります,ja-JP
+El contenedor debe estar vacío,コンテナは空である必要があります,ja-JP
+El inventario de la entidad debe contener %s,エンティティのインベントリには%sが入っている必要があります,ja-JP
+El tamaño de «%s» se ha detectado con éxito,「%s」のサイズが正常に検出されました,ja-JP
+Enregistrer,ログ,ja-JP
+Enregistrer la structure,構造物を保存,ja-JP
+Ensemble d'éléments cible :,構成要素プール：,ja-JP
+Entidade-bloco ausente,ブロックエンティティが不足しています,ja-JP
+Entidades:,エンティティ：,ja-JP
+Entities:,エンティティ：,ja-JP
+Entity %s failed test: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+Entity %s failed test: %s. Expected %s: was %s,エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+Entity data mismatch for %s,エンティティデータが%sに合致しません,ja-JP
+Entity inventory should contain %s,エンティティのインベントリには%sが入っている必要があります,ja-JP
+Entity should be holding %s,エンティティは%sを手に持っている必要があります,ja-JP
+Entità,エンティティを含めるかどうか：,ja-JP
+Entità,エンティティ：,ja-JP
+"Entité ""%s"" attendue",%sが必要です,ja-JP
+"Entité ""%s"" attendue autour de %s, %s, %s","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+"Entité ""%s"" attendue d'avoir l'effet %s %s",%sには効果%s %sが付与されている必要があります,ja-JP
+"Entité ""%s"" attendue dans le test",%sがテスト内に存在している必要があります,ja-JP
+"Entité ""%s"" attendue de toucher %s, %s, %s (relative : %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+"Entité ""%s"" inattendue",%sが存在することは予期されていません,ja-JP
+"Entité ""%s"" non attendue de toucher %s, %s, %s (relative : %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+Entité de bloc manquante,ブロックエンティティが不足しています,ja-JP
+Entités :,エンティティ：,ja-JP
+Entorno: %s,環境：%s,ja-JP
+Environment: %s,環境：%s,ja-JP
+Environnement : %s,環境：%s,ja-JP
+Erkennen,検出,ja-JP
+Erreur interne inconnue : %s,不明な内部エラーです：%s,ja-JP
+Erro interno desconhecido: %s,不明な内部エラーです：%s,ja-JP
+Error al colocar la estructura de prueba para %s,%sのテスト構造物の設置に失敗しました,ja-JP
+Error interno desconocido: %s,不明な内部エラーです：%s,ja-JP
+Errore interno sconosciuto: %s,不明な内部エラーです：%s,ja-JP
+Erwartete %s im Test,%sがテスト内に存在している必要があります,ja-JP
+Esa prueba no existe,そのテストは存在しません,ja-JP
+"Esperava(m)-se %s entidade(s) do tipo %s, encontrada(s): %s",タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+Esperava-se %s,%sが必要です,ja-JP
+Esperava-se a presença do bloco %s,ブロック%sが存在する必要があります,ja-JP
+"Esperava-se apenas uma entidade %s ao redor de %s, %s, %s mas há %s","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+"Esperava-se o bloco %s, obteve-se %s",ブロック%sが必要ですが、%sが検出されました,ja-JP
+"Esperava-se o bloco em #%s, obteve-se %s",#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+Esperava-se o item do tipo %s,タイプ%sのアイテムが必要です,ja-JP
+"Esperava-se que %s exista ao redor de %s, %s, %s","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+Esperava-se que %s existisse no teste,%sがテスト内に存在している必要があります,ja-JP
+"Esperava-se que %s fosse %s, foi %s",%sが%sであることが必要ですが、%sでした,ja-JP
+Esperava-se que a entidade %s tivesse o efeito %s (%s),%sには効果%s %sが付与されている必要があります,ja-JP
+"Esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+"Esperava-se que a propriedade %s seja %s, foi %s",プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+"Esperava-se que o valor %s estivesse %s e %s, foi %s",%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+"Esperavam-se %s itens do tipo %s, encontrou-se %s",タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+"Esperavam-se os dados da entidade: %s, foram: %s",エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+Esquina,コーナー,ja-JP
+Esquina: %s,コーナー：%s,ja-JP
+Estado incorrecto. Se requiere %s: se obtuvo %s,状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+"Estado incorreto. Esperava-se %s, foi %s",状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+Estructura: %s,構造物：%s,ja-JP
+"Estrutura ""%s"" não encontrada",構造物「%s」は利用できません,ja-JP
+"Estrutura carregada de ""%s""",「%s」から構造物を読み込みました,ja-JP
+Estrutura de teste com o bloco ausente: %s,テスト構造物に%sブロックがありません,ja-JP
+"Estrutura salva como ""%s""",構造物が「%s」として保存されました,ja-JP
+Estrutura: %s,構造物：%s,ja-JP
+Expected %s,%sが必要です,ja-JP
+Expected %s entities of type %s: found %s,タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+Expected %s items of type %s: found %s,タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+Expected %s to be %s: was %s,%sが%sであることが必要ですが、%sでした,ja-JP
+Expected %s to be in between %s and %s: was %s,%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+"Expected %s to exist around %s, %s, %s","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+Expected %s to exist in test,%sがテスト内に存在している必要があります,ja-JP
+Expected %s to have effect %s %s,%sには効果%s %sが付与されている必要があります,ja-JP
+"Expected %s touching %s, %s, %s (relative: %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+Expected block %s to be present,ブロック%sが存在する必要があります,ja-JP
+Expected block %s: got %s,ブロック%sが必要ですが、%sが検出されました,ja-JP
+Expected block in #%s: got %s,#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+Expected entity data to be %s: was %s,エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+Expected item of type %s,タイプ%sのアイテムが必要です,ja-JP
+"Expected only one %s to exist around %s, %s, %s but found %s","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+Expected property %s to be %s: was %s,プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+Fail,失敗,ja-JP
+Fail conditions met,失敗条件が満たされました,ja-JP
+Fail Mode - Fail the test,失敗モード - テストを失敗させます,ja-JP
+Failed to create entity %s,エンティティ%sの作成に失敗しました,ja-JP
+Failed to place test structure for %s,%sのテスト構造物の設置に失敗しました,ja-JP
+Failed to set biome for test,テストに向けたバイオームの設定に失敗しました,ja-JP
+Failed: %s,失敗：%s,ja-JP
+Falha ao colocar a estrutura de teste para %s,%sのテスト構造物の設置に失敗しました,ja-JP
+Falha ao criar a entidade %s,エンティティ%sの作成に失敗しました,ja-JP
+Falha ao definir o bioma para teste,テストに向けたバイオームの設定に失敗しました,ja-JP
+Falhar,失敗,ja-JP
+Falhou: %s,失敗：%s,ja-JP
+Fallar,失敗,ja-JP
+Fallimento: fa' fallire il collaudo,失敗モード - テストを失敗させます,ja-JP
+Fallisci,失敗,ja-JP
+Falló: %s,失敗：%s,ja-JP
+Falscher Blockobjekttyp: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+"Falscher Zustand. %s erwartet, war %s",状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+Falta el bloque %s en la estructura de prueba,テスト構造物に%sブロックがありません,ja-JP
+Falta una entidad-bloque,ブロックエンティティが不足しています,ja-JP
+Falta una propiedad de bloque. Se requiere que la propiedad %s sea %s,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+Fehlendes Blockobjekt,ブロックエンティティが不足しています,ja-JP
+Fehlermodus – Lässt den Test fehlschlagen,失敗モード - テストを失敗させます,ja-JP
+Fehlgeschlagen: %s,失敗：%s,ja-JP
+Fehlkriterien erfüllt,失敗条件が満たされました,ja-JP
+Fehlschlag,失敗,ja-JP
+Fija,整列,ja-JP
+Fissa,整列,ja-JP
+Fixa,整列,ja-JP
+Fonction : %s,関数：%s,ja-JP
+Fonksiyon: %s,関数：%s,ja-JP
+Función: %s,関数：%s,ja-JP
+Function: %s,関数：%s,ja-JP
+Funktion: %s,関数：%s,ja-JP
+Funzione: %s,関数：%s,ja-JP
+Função: %s,関数：%s,ja-JP
+Garder puzzle,ジグソーを維持,ja-JP
+Gegenstand vom Typ %s erwartet,タイプ%sのアイテムが必要です,ja-JP
+Gegenstand vom Typ %s wurde nicht erwartet,タイプ%sのアイテムは予期されていません,ja-JP
+Genera,生成,ja-JP
+Generar,生成,ja-JP
+Generate,生成,ja-JP
+Generieren,生成,ja-JP
+Gerar,生成,ja-JP
+Geçersiz birim zamanda başarıldı: %s beklendi,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+"Geçersiz durum. %s beklendi, %s bulundu",状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+Geçersiz test kimliği,無効なテストID,ja-JP
+Geçersiz yapı adı '%s',「%s」は無効な構造物名です,ja-JP
+Geçersiz zaman aşımı (%s) - birim zaman pozitif değerde olmalı,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+Given block is not a block item,指定のブロックはブロックアイテムではありません,ja-JP
+Giữ mảnh ghép,ジグソーを維持,ja-JP
+Graine de la structure,構造物のシード値,ja-JP
+Grupo objetivo:,構成要素プール：,ja-JP
+Größe der Testkonstruktion,テスト構造物のサイズ,ja-JP
+Größe von ‚%s‘ erfolgreich erkannt,「%s」のサイズが正常に検出されました,ja-JP
+GUARDAR,保存,ja-JP
+Guardar,セーブ,ja-JP
+Guardar estructura,構造物を保存,ja-JP
+Guardar: %s,セーブ：%s,ja-JP
+Générer,生成,ja-JP
+Góc,コーナー,ja-JP
+Góc: %s,コーナー：%s,ja-JP
+Göreceli Konum,相対位置,ja-JP
+göreceli konum x,X軸方向の相対座標,ja-JP
+göreceli konum y,Y軸方向の相対位置,ja-JP
+göreceli konum z,Z軸方向の相対位置,ja-JP
+Görünmez Blokları Göster:,見えないブロックを表示する：,ja-JP
+Günlük Modu - Günlüğe mesaj yazdır,ログモード - メッセージをログに出力します,ja-JP
+Günlüğe Yaz,ログ,ja-JP
+Hedef adı:,対象の名前：,ja-JP
+Hedef Havuzu:,構成要素プール：,ja-JP
+Hizalı,整列,ja-JP
+"Hiçbir dizi, %s birim zaman içinde tamamlanmadı",%sティック以内にシーケンスが終了しませんでした,ja-JP
+Hiển thị hộp giới hạn:,境界線を表示する：,ja-JP
+Hiển thị khối vô hình:,見えないブロックを表示する：,ja-JP
+Hàm: %s,関数：%s,ja-JP
+Há muitos blocos (%s),%sブロックが多すぎます,ja-JP
+Hạt giống cấu trúc,構造物のシード値,ja-JP
+I dati dell'entità non corrispondono per %s,エンティティデータが%sに合致しません,ja-JP
+ID de instância do teste,テストインスタンスID,ja-JP
+ID de l'instance de test,テストインスタンスID,ja-JP
+ID de test non valide,無効なテストID,ja-JP
+ID dell'istanza di collaudo,テストインスタンスID,ja-JP
+ID di collaudo non valido,無効なテストID,ja-JP
+ID do teste inválido,無効なテストID,ja-JP
+ID kiểm tra không hợp lệ,無効なテストID,ja-JP
+ID trường hợp kiểm tra,テストインスタンスID,ja-JP
+ID กรณีตัวอย่างทดสอบ,テストインスタンスID,ja-JP
+ID การทดสอบไม่ถูกต้อง,無効なテストID,ja-JP
+Id. de prueba no válida,無効なテストID,ja-JP
+Id. del caso de prueba,テストインスタンスID,ja-JP
+Il blocco specificato non può essere un oggetto,指定のブロックはブロックアイテムではありません,ja-JP
+Il collaudo è scaduto prima del completamento della sequenza,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+Il contenitore dovrebbe avere un solo: %s,コンテナには単一の%sが入っている必要があります,ja-JP
+Il contenitore dovrebbe avere: %s,コンテナには%sが入っている必要があります,ja-JP
+Il contenitore dovrebbe essere vuoto,コンテナは空である必要があります,ja-JP
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non ha una struttura di collaudo","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+"Impossibile eseguire l'istanza di collaudo presso %s, %s, %s perché non è stato definito alcun collaudo","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+Impossibile rilevare la dimensione della struttura. Aggiungi degli angoli con il nome della struttura corrispondente.,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+"Impossibile salvare il modello di struttura per l'istanza di collaudo presso %s, %s, %s","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+Impossibile salvare la struttura %s,構造物「%s」を保存できません,ja-JP
+"Impossible d'enregistrer la structure ""%s""",構造物「%s」を保存できません,ja-JP
+"Impossible d'enregistrer le modèle de structure de test pour l'instance de test en %s, %s, %s","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de structure de test","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+"Impossible d'exécuter l'instance de test en %s, %s, %s car il n'y a pas de test défini","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+Impossible de détecter la taille de la structure. Ajoutez des coins avec les noms de structure correspondants,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+Impostazione del bioma non riuscita,テストに向けたバイオームの設定に失敗しました,ja-JP
+In ungültigem Tick stattgefunden: %s wurde erwartet,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+Include Entities:,エンティティを含めるかどうか：,ja-JP
+Incluir entidades:,エンティティを含めるかどうか：,ja-JP
+Inclure les entités :,エンティティを含めるかどうか：,ja-JP
+Incorrect state. Expected %s: was %s,状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+Iniciando o teste %s,テスト%sを開始します,ja-JP
+Iniciando prueba %s,テスト%sを開始します,ja-JP
+Iniciar,開始,ja-JP
+Insieme di destinazione,構成要素プール：,ja-JP
+Integridad de la estructura,構造物の完全性,ja-JP
+Integridad y semilla de la estructura,構造物の完全性とシード値,ja-JP
+Integridade da estrutura,構造物の完全性,ja-JP
+Integridade e semente da estrutura,構造物の完全性とシード値,ja-JP
+Integrierter Funktionstest,ビルトイン関数型テスト,ja-JP
+Integrità della struttura,構造物の完全性,ja-JP
+Integrità e seme della struttura,構造物の完全性とシード値,ja-JP
+Intégrité de la structure,構造物の完全性,ja-JP
+Intégrité de la structure et graine,構造物の完全性とシード値,ja-JP
+Invalid structure name '%s',「%s」は無効な構造物名です,ja-JP
+Invalid test ID,無効なテストID,ja-JP
+Invalid timeout (%s) - must be a positive number of ticks,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+Joint Type:,接続タイプ：,ja-JP
+Kann Konstruktionsgröße nicht erkennen - füge Ecken mit gleichem Konstruktionsnamen hinzu,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+Katı Yerleştirme:,厳密な配置：,ja-JP
+KAYDET,保存,ja-JP
+Kaydet,セーブ,ja-JP
+Kaydet: %s,セーブ：%s,ja-JP
+Kayıt Modu - Dosyaya yaz,セーブモード - ファイルへの書き込みを行います,ja-JP
+Keep Jigsaws,ジグソーを維持,ja-JP
+Keine Testabläufe innerhalb von %s Ticks abgeschlossen,%sティック以内にシーケンスが終了しませんでした,ja-JP
+"Khi khối mảnh ghép này kết nối đến một mảnh, đây là thứ tự mà mảnh đó được xử lí cho các kết nối trong cấu trúc rộng hơn.
+
+Các mảnh sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự chèn.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"Khi mảnh gốc được xử lí cho các kết nối, đây là thứ tự mà khối mảnh ghép này cố gắng kết nối đến mảnh mục tiêu.
+
+Các khối mảnh ghép sẽ được xử lí theo mức độ ưu tiên giảm dần, nếu có độ ưu tiên giống nhau thì xử lí theo thứ tự ngẫu nhiên.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Không có kiểm tra nào như vậy,そのテストは存在しません,ja-JP
+Không có trình tự nào được hoàn tất trong %s nhịp,%sティック以内にシーケンスが終了しませんでした,ja-JP
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có cấu trúc kiểm tra nào","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+"Không thể chạy trường hợp kiểm tra ở %s, %s, %s vì không có kiểm tra nào được xác định","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+Không thể chỉnh quần xã cho kiểm tra,テストに向けたバイオームの設定に失敗しました,ja-JP
+Không thể lưu cấu trúc '%s',構造物「%s」を保存できません,ja-JP
+"Không thể lưu mẫu cấu trúc kiểm tra cho trường hợp kiểm tra ở %s, %s, %s","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+Không thể phát hiện kích cỡ của cấu trúc. Hãy bổ sung thêm góc với tên cấu trúc khớp nhau,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+Không thể tạo thực thể %s,エンティティ%sの作成に失敗しました,ja-JP
+Không thể đặt cấu trúc kiểm tra cho %s,%sのテスト構造物の設置に失敗しました,ja-JP
+Khối được trao không phải là một khối vật phẩm,指定のブロックはブロックアイテムではありません,ja-JP
+Kiểm tra dựa trên khối,ブロックベース型テスト,ja-JP
+Kiểm tra hàm được tích hợp sẵn,ビルトイン関数型テスト,ja-JP
+Kiểm tra đang đếm nhịp trước khi đặt cấu trúc,構造物が未設置の状態でティック処理が実行されました,ja-JP
+Kiểm tra đã hết thời gian trước khi trình tự được hoàn thành,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+Konstruktion als ‚%s‘ gespeichert,構造物が「%s」として保存されました,ja-JP
+Konstruktion speichern,構造物を保存,ja-JP
+Konstruktion ‚%s‘ geladen,「%s」から構造物を読み込みました,ja-JP
+Konstruktion ‚%s‘ konnte nicht gespeichert werden,構造物「%s」を保存できません,ja-JP
+Konstruktion ‚%s‘ nicht gefunden,構造物「%s」は利用できません,ja-JP
+Konstruktion: %s,構造物：%s,ja-JP
+Konstruktions-Startwert,構造物のシード値,ja-JP
+Konstruktionsgröße,構造物のサイズ,ja-JP
+Konstruktionsgröße (X),X軸方向の構造物のサイズ,ja-JP
+Konstruktionsgröße (Y),Y軸方向の構造物のサイズ,ja-JP
+Konstruktionsgröße (Z),Z軸方向の構造物のサイズ,ja-JP
+Konstruktionsgröße und ‐position erkennen:,構造物の大きさと位置を検出：,ja-JP
+Konstruktionsname,構造物名,ja-JP
+Konstruktionsvollständigkeit,構造物の完全性,ja-JP
+Kích cỡ cấu trúc,構造物のサイズ,ja-JP
+Kích cỡ cấu trúc kiểm tra,テスト構造物のサイズ,ja-JP
+kích cỡ cấu trúc x,X軸方向の構造物のサイズ,ja-JP
+kích cỡ cấu trúc y,Y軸方向の構造物のサイズ,ja-JP
+kích cỡ cấu trúc z,Z軸方向の構造物のサイズ,ja-JP
+Köşe,コーナー,ja-JP
+Köşe Modu - Konum ve boyut işaretleyici,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+Köşe: %s,コーナー：%s,ja-JP
+L'entità %s ha fallito il collaudo: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+"L'entità %s ha fallito il collaudo: %s (previsto: %s, ricevuto: %s)",エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+L'entità dovrebbe impugnare %s,エンティティは%sを手に持っている必要があります,ja-JP
+"L'entité ""%s"" a échoué le test : %s (valeur attendue : %s, valeur reçue : %s)",エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+"L'entité doit tenir l'objet ""%s""",エンティティは%sを手に持っている必要があります,ja-JP
+"L'inventaire de l'entité doit contenir l'objet ""%s""",エンティティのインベントリには%sが入っている必要があります,ja-JP
+L'inventario dell'entità dovrebbe avere %s,エンティティのインベントリには%sが入っている必要があります,ja-JP
+La entidad %s falló la prueba: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+La entidad %s falló la prueba: %s. Se requiere %s: se obtuvo %s,エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+La entidad debe sostener %s,エンティティは%sを手に持っている必要があります,ja-JP
+"La estructura ""%s"" no está disponible ",構造物「%s」は利用できません,ja-JP
+La estructura se ha guardado como «%s»,構造物が「%s」として保存されました,ja-JP
+"La position de la structure ""%s"" a été préparée",構造物「%s」の位置が準備されました,ja-JP
+La prueba se terminó antes de que se completara la secuencia,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+"La structure ""%s"" n'est pas disponible ",構造物「%s」は利用できません,ja-JP
+La struttura %s non è disponibile,構造物「%s」は利用できません,ja-JP
+"La taille de la structure ""%s"" a été détectée",「%s」のサイズが正常に検出されました,ja-JP
+Laden,ロード,ja-JP
+Laden,読み込み,ja-JP
+Laden und ausführen,読み込んで実行,ja-JP
+Laden: %s,ロード：%s,ja-JP
+Lade‐Modus – Aus Datei laden,ロードモード - ファイルからの読み込みを行います,ja-JP
+Le bloc spécifié n'est pas un bloc sous forme d'objet,指定のブロックはブロックアイテムではありません,ja-JP
+"Le conteneur doit contenir l'objet ""%s""",コンテナには%sが入っている必要があります,ja-JP
+"Le conteneur doit contenir un seul objet ""%s""",コンテナには単一の%sが入っている必要があります,ja-JP
+Le conteneur doit être vide,コンテナは空である必要があります,ja-JP
+Le test n'a ni réussi ni échoué durant %s tick(s),%sティック以内に成功も失敗もしませんでした。,ja-JP
+Le test s'est terminé avant la fin de la séquence,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+Levels: %s,レベル：%s,ja-JP
+Livelli: %s,レベル：%s,ja-JP
+LOAD,読み込み,ja-JP
+Load,ロード,ja-JP
+Load and Run,読み込んで実行,ja-JP
+Load Mode - Load from file,ロードモード - ファイルからの読み込みを行います,ja-JP
+Load: %s,ロード：%s,ja-JP
+Log,ログ,ja-JP
+Log Mode - Log a message,ログモード - メッセージをログに出力します,ja-JP
+Los datos de la entidad no coinciden para %s,エンティティデータが%sに合致しません,ja-JP
+Loại khớp nối:,接続タイプ：,ja-JP
+Loại: %s,タイプ：%s,ja-JP
+LƯU,保存,ja-JP
+Lưu,セーブ,ja-JP
+Lưu cấu trúc,構造物を保存,ja-JP
+Lưu: %s,セーブ：%s,ja-JP
+Lỗi nội bộ không rõ: %s,不明な内部エラーです：%s,ja-JP
+Mantener rompec.,ジグソーを維持,ja-JP
+Mantenimento,ジグソーを維持,ja-JP
+Mantê-los,ジグソーを維持,ja-JP
+Mensagem:,メッセージ：,ja-JP
+Mensaje:,メッセージ：,ja-JP
+Mesaj:,メッセージ：,ja-JP
+Message :,メッセージ：,ja-JP
+Message:,メッセージ：,ja-JP
+Messaggio,メッセージ：,ja-JP
+Missing block entity,ブロックエンティティが不足しています,ja-JP
+Mode Accepter - Accepter la réussite (d'une partie) d'un test,認証モード - テスト（の一部）の成功を認証します,ja-JP
+Mode Charger - Charger depuis un fichier,ロードモード - ファイルからの読み込みを行います,ja-JP
+Mode Coin - Marqueur de position et de taille,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+Mode Données - Marqueur de logique du jeu,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+Mode Démarrer - Le point de départ d'un test,開始モード - テストの起点となります,ja-JP
+Mode Enregistrer - Enregistrer un message,ログモード - メッセージをログに出力します,ja-JP
+Mode Sauvegarder - Écrire dans un fichier,セーブモード - ファイルへの書き込みを行います,ja-JP
+Mode Échouer - Échouer le test,失敗モード - テストを失敗させます,ja-JP
+Modo aceptar: acepta superación de (parte de) una prueba,認証モード - テスト（の一部）の成功を認証します,ja-JP
+Modo cargar: carga desde un archivo,ロードモード - ファイルからの読み込みを行います,ja-JP
+Modo datos: usa la lógica del juego,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+Modo de aceite — Aceitar o sucesso de (parte de) um teste,認証モード - テスト（の一部）の成功を認証します,ja-JP
+Modo de canto — Marcador de posição e tamanho,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+Modo de carregamento — Carregar do arquivo,ロードモード - ファイルからの読み込みを行います,ja-JP
+Modo de dados — Marcador lógico do jogo,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+Modo de falha — Falhar o teste,失敗モード - テストを失敗させます,ja-JP
+Modo de início — Ponto inicial de um teste,開始モード - テストの起点となります,ja-JP
+Modo de registro — Registrar uma mensagem,ログモード - メッセージをログに出力します,ja-JP
+Modo de salvamento — Salvar no arquivo,セーブモード - ファイルへの書き込みを行います,ja-JP
+Modo esquina: indica posición y tamaño,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+Modo fallar: falla la prueba,失敗モード - テストを失敗させます,ja-JP
+Modo guardar: guarda en un archivo,セーブモード - ファイルへの書き込みを行います,ja-JP
+Modo iniciar: el punto de inicio de una prueba,開始モード - テストの起点となります,ja-JP
+Modo registrar: registra un mensaje,ログモード - メッセージをログに出力します,ja-JP
+Mostra blocchi invisibili,見えないブロックを表示する：,ja-JP
+Mostrar blocos invisíveis:,見えないブロックを表示する：,ja-JP
+Mostrar bloques invisibles:,見えないブロックを表示する：,ja-JP
+Mostrar bordas:,境界線を表示する：,ja-JP
+Mostrar límites:,境界線を表示する：,ja-JP
+Môi trường: %s,環境：%s,ja-JP
+Nachricht:,メッセージ：,ja-JP
+Name:,名前：,ja-JP
+Nenhum teste,そのテストは存在しません,ja-JP
+Nenhuma sequência concluída dentro de %s tique(s),%sティック以内にシーケンスが終了しませんでした,ja-JP
+Nessun collaudo trovato,そのテストは存在しません,ja-JP
+Nessuna sequenza finita entro %s tick,%sティック以内にシーケンスが終了しませんでした,ja-JP
+Nhóm mục tiêu:,構成要素プール：,ja-JP
+Nhật kí,ログ,ja-JP
+"Nicht erwartet, %s vorzufinden",%sが存在することは予期されていません,ja-JP
+Ninguna secuencia finalizó durante %s ticks,%sティック以内にシーケンスが終了しませんでした,ja-JP
+Niveaux : %s,レベル：%s,ja-JP
+Niveles: %s,レベル：%s,ja-JP
+No hubo ningún resultado durante %s tics,%sティック以内に成功も失敗もしませんでした。,ja-JP
+No se esperaba que %s existiera,%sが存在することは予期されていません,ja-JP
+"No se esperaba que %s tocase %s, %s, %s (relativo: %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+No se esperaba que el bloque fuese %s,ブロックが%sであることは予期されていません,ja-JP
+No se esperaba un objeto del tipo %s,タイプ%sのアイテムは予期されていません,ja-JP
+No se ha podido detectar el tamaño de la estructura. Añade más esquinas con el nombre de la estructura correspondiente,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+"No se ha podido ejecutar el caso de prueba en %s, %s, %s porque no se ha definido una prueba","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+"No se ha podido ejecutar la instancia de prueba en %s, %s, %s porque no tiene estructura de prueba","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+No se ha podido guardar la estructura «%s»,構造物「%s」を保存できません,ja-JP
+No se pudo crear la entidad %s,エンティティ%sの作成に失敗しました,ja-JP
+No se pudo establecer el bioma para la prueba,テストに向けたバイオームの設定に失敗しました,ja-JP
+"No se pudo guardar la plantilla de estructura de prueba en %s, %s, %s","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+No sequences finished within %s ticks,%sティック以内にシーケンスが終了しませんでした,ja-JP
+No such test,そのテストは存在しません,ja-JP
+Nom :,名前：,ja-JP
+Nom de la cible :,対象の名前：,ja-JP
+Nom de la structure,構造物名,ja-JP
+Nom du tag de données personnalisé,カスタムデータタグ名,ja-JP
+Nombre de etiqueta de datos personalizado,カスタムデータタグ名,ja-JP
+Nombre de la estructura,構造物名,ja-JP
+Nombre del objetivo:,対象の名前：,ja-JP
+Nombre:,名前：,ja-JP
+Nome,名前：,ja-JP
+Nome da estrutura,構造物名,ja-JP
+Nome da estrutura inválido: %s,「%s」は無効な構造物名です,ja-JP
+Nome da marcação de dados personalizados,カスタムデータタグ名,ja-JP
+Nome del marcatore personalizzato,カスタムデータタグ名,ja-JP
+Nome della struttura,構造物名,ja-JP
+Nome della struttura non valido: «%s»,「%s」は無効な構造物名です,ja-JP
+Nome di destinazione,対象の名前：,ja-JP
+Nome do alvo:,対象の名前：,ja-JP
+Nome:,名前：,ja-JP
+Non era prevista l'esistenza di %s,%sが存在することは予期されていません,ja-JP
+Non era previsto che il blocco fosse %s,ブロックが%sであることは予期されていません,ja-JP
+Non era previsto un oggetto di tipo %s,タイプ%sのアイテムは予期されていません,ja-JP
+"Non previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+Non riuscito né fallito entro %s tick,%sティック以内に成功も失敗もしませんでした。,ja-JP
+Non riuscito: %s,失敗：%s,ja-JP
+"Non-correspondance des données de l'entité ""%s""",エンティティデータが%sに合致しません,ja-JP
+"Nur ein %s um %s, %s, %s erwartet, aber %s gefunden","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+"Não esperava-se que a entidade %s tocasse %s, %s, %s (relativo: %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+Não esperava-se que o bloco fosse %s,ブロックが%sであることは予期されていません,ja-JP
+Não foi possível detectar o tamanho da estrutura. Adicione cantos com nomes correspondentes aos da estrutura,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+"Não foi possível executar a instância de teste em %s, %s, %s porque há um teste indefinido","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+"Não foi possível executar a instância de teste em %s, %s, %s porque não há uma estrutura de teste","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+"Não foi possível salvar a estrutura ""%s""",構造物「%s」を保存できません,ja-JP
+"Não foi possível salvar o modelo de estrutura de teste da instância de teste em %s, %s, %s","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+Não se esperava que %s existisse,%sが存在することは予期されていません,ja-JP
+Não se esperava um item do tipo %s,タイプ%sのアイテムは予期されていません,ja-JP
+Níveis: %s,レベル：%s,ja-JP
+NẠP,読み込み,ja-JP
+Nạp,ロード,ja-JP
+Nạp và chạy,読み込んで実行,ja-JP
+Nạp: %s,ロード：%s,ja-JP
+O bloco especificado não é um item-bloco.,指定のブロックはブロックアイテムではありません,ja-JP
+O inventário da entidade deve conter %s,エンティティのインベントリには%sが入っている必要があります,ja-JP
+O recipiente deve conter um único: %s,コンテナには単一の%sが入っている必要があります,ja-JP
+O recipiente deve conter: %s,コンテナには%sが入っている必要があります,ja-JP
+O recipiente deve estar vazio,コンテナは空である必要があります,ja-JP
+O teste acabou antes de completar a sequência,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+O teste não foi concluído ou falhou dentro de %s tique(s),%sティック以内に成功も失敗もしませんでした。,ja-JP
+Objekt %s erfüllte Test nicht: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+"Objekt %s hat Test %s nicht erfüllt: %s erwartet, war aber %s",エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+Objekt %s konnte nicht erzeugt werden,エンティティ%sの作成に失敗しました,ja-JP
+Objekt hätte %s halten sollen,エンティティは%sを手に持っている必要があります,ja-JP
+"Objektdaten %s wurden erwartet, waren aber %s",エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+Objektdaten für %s stimmen nicht überein,エンティティデータが%sに合致しません,ja-JP
+Objekte einbeziehen:,エンティティを含めるかどうか：,ja-JP
+Objekte:,エンティティ：,ja-JP
+Objektinventar hätte %s enthalten sollen,エンティティのインベントリには%sが入っている必要があります,ja-JP
+"Objet de type ""%s"" attendu",タイプ%sのアイテムが必要です,ja-JP
+"Objet de type ""%s"" inattendu",タイプ%sのアイテムは予期されていません,ja-JP
+Oluştur,生成,ja-JP
+Onay Modu - Bir testin (parçasının) başarısını onaylama,認証モード - テスト（の一部）の成功を認証します,ja-JP
+Onayla,認証,ja-JP
+"Ordre dans lequel ce bloc de puzzle tente de se connecter à sa pièce cible lorsque la pièce parent est traitée pour les connexions.
+
+Le processus se déroule dans l'ordre décroissant, ou de manière aléatoire en cas d'égalité.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"Ordre dans lequel la pièce sur laquelle se connecte ce bloc de puzzle est traitée parmi les connexions d'une structure plus large.
+
+Le processus se déroule dans l'ordre décroissant, en suivant l'ordre d'insertion en cas d'égalité.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Os dados da entidade não correspondem para: %s,エンティティデータが%sに合致しません,ja-JP
+"Oyuncu konumu: [%s, %s, %s] %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+P. de colocación:,設置優先度：,ja-JP
+P. de selección:,選択優先度：,ja-JP
+PH.HIỆN,検出,ja-JP
+Phát hiện kích cỡ và vị trí cấu trúc:,構造物の大きさと位置を検出：,ja-JP
+Piazzamento della struttura di collaudo per %s non riuscita,%sのテスト構造物の設置に失敗しました,ja-JP
+Piazzamento statico,厳密な配置：,ja-JP
+Placement Priority:,設置優先度：,ja-JP
+Placement strict :,厳密な配置：,ja-JP
+Platzierpriorität:,設置優先度：,ja-JP
+"Player coordinates: [%s, %s, %s] in %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+Posicionamento exato:,厳密な配置：,ja-JP
+Position relative,相対位置,ja-JP
+position relative x,X軸方向の相対座標,ja-JP
+position relative y,Y軸方向の相対位置,ja-JP
+position relative z,Z軸方向の相対位置,ja-JP
+Position von Konstruktion ‚%s‘ vorbereitet,構造物「%s」の位置が準備されました,ja-JP
+Posizione relativa,相対位置,ja-JP
+Posizione relativa in x,X軸方向の相対座標,ja-JP
+Posizione relativa in y,Y軸方向の相対位置,ja-JP
+Posizione relativa in z,Z軸方向の相対位置,ja-JP
+"Posição da estrutura ""%s"" preparada",構造物「%s」の位置が準備されました,ja-JP
+Posição relativa,相対位置,ja-JP
+posição x relativa,X軸方向の相対座標,ja-JP
+posição y relativa,Y軸方向の相対位置,ja-JP
+posição z relativa,Z軸方向の相対位置,ja-JP
+Preparato la posizione della struttura %s,構造物「%s」の位置が準備されました,ja-JP
+"Prevista l'esistenza di %s intorno a %s, %s, %s","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+Prevista l'esistenza di %s nel collaudo,%sがテスト内に存在している必要があります,ja-JP
+"Prevista l'esistenza di una sola entità %s intorno a %s, %s, %s (ricevuto: %s)","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+Prevista la presenza del blocco %s,ブロック%sが存在する必要があります,ja-JP
+Previste %s entità di tipo %s (ricevuto: %s),タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+Previsti %s oggetti di tipo %s (ricevuto: %s),タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+Previsto %s,%sが必要です,ja-JP
+"Previsto %s adiacente a %s, %s, %s (relativa: %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+Previsto blocco nell'insieme #%s (ricevuto: %s),#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+Previsto che %s abbia l'effetto %s %s,%sには効果%s %sが付与されている必要があります,ja-JP
+Previsto il blocco %s (ricevuto: %s),ブロック%sが必要ですが、%sが検出されました,ja-JP
+Previsto oggetto di tipo %s,タイプ%sのアイテムが必要です,ja-JP
+Previsto un valore %s tra %s e %s (ricevuto: %s),%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+Prio. de placement :,設置優先度：,ja-JP
+Prio. de sélection :,選択優先度：,ja-JP
+Prior. de posição:,設置優先度：,ja-JP
+Prior. de seleção:,選択優先度：,ja-JP
+Priorità di selezione e di piazzamento,選択優先度：,ja-JP
+Propriedade de bloco ausente. Esperava-se que a propriedade %s fosse %s,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+Proprietà %s prevista: %s (ricevuto: %s),プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+Proprietà di blocco mancante. Proprietà %s prevista: %s,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+"Propriété de bloc manquante. Valeur de la propriété ""%s"" attendue : %s",ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+Protokoll,ログ,ja-JP
+Protokollmodus – Protokolliere eine Nachricht,ログモード - メッセージをログに出力します,ja-JP
+Prueba basada en bloques,ブロックベース型テスト,ja-JP
+Prueba de función integrada,ビルトイン関数型テスト,ja-JP
+"Présence du bloc ""%s"" attendue",ブロック%sが存在する必要があります,ja-JP
+"Quando il pezzo associato viene elaborato per le connessioni, questo sarà l'ordine in cui questo blocco incastri tenterà di connettersi al suo pezzo di destinazione.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, casualmente.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"Quando o bloco-quebra-cabeça se conecta a uma peça, essa é a ordem em que a peça é processada para conexões em estruturas mais largas.
+
+O processo ocorre em ordem decrescente, seguindo a ordem de inserção em caso de empate.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"Quando questo blocco incastri si connette a un pezzo, questo sarà l'ordine in cui il pezzo viene elaborato per le connessioni nella struttura complessiva.
+
+I pezzi verranno elaborati in ordine di priorità decrescente o, in caso di parità, seguendo l'ordine d'inserimento.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Quá nhiều khối %s,%sブロックが多すぎます,ja-JP
+Redefinir e carregar,リセットして読み込む,ja-JP
+Redefinição concluída para o teste: %s,テストのリセットが成功しました：%s,ja-JP
+Registra,ログ,ja-JP
+Registrar,ログ,ja-JP
+Registrazione: registra un messaggio,ログモード - メッセージをログに出力します,ja-JP
+Reiniciar y cargar,リセットして読み込む,ja-JP
+Relative Position,相対位置,ja-JP
+relative position x,X軸方向の相対座標,ja-JP
+relative position y,Y軸方向の相対位置,ja-JP
+relative position z,Z軸方向の相対位置,ja-JP
+Relative X-Position,X軸方向の相対座標,ja-JP
+Relative Y-Position,Y軸方向の相対位置,ja-JP
+Relative Z-Position,Z軸方向の相対位置,ja-JP
+Reset and Load,リセットして読み込む,ja-JP
+Reset succeeded for test: %s,テストのリセットが成功しました：%s,ja-JP
+Rileva,検出,ja-JP
+Rilevato la dimensione della struttura %s,「%s」のサイズが正常に検出されました,ja-JP
+Ripristina e carica,リセットして読み込む,ja-JP
+Ripristino riuscito per il collaudo: %s,テストのリセットが成功しました：%s,ja-JP
+Riuscita ottenuta durante un tick non valido: previsto %s,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+Riuscita ottenuta prima del tick previsto: prevista l'attesa di %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+Rollable,回転可能,ja-JP
+Rotable,回転可能,ja-JP
+Rotación:,回転：,ja-JP
+Rotatif,回転可能,ja-JP
+Rotation :,回転：,ja-JP
+Rotation:,回転：,ja-JP
+Rotativa,回転可能,ja-JP
+Rotatoria,回転可能,ja-JP
+Rotazione,回転：,ja-JP
+Rotação:,回転：,ja-JP
+"Réinitialisation réussie pour le test ""%s""",テストのリセットが成功しました：%s,ja-JP
+Réinitialiser et charger,リセットして読み込む,ja-JP
+Réussite avant le tick attendu : le tick minimum attendu était de %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+Réussite dans le tick non valide : %s attendu(s),無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+Sai loại thực thể khối: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+Salva,セーブ,ja-JP
+Salva,保存,ja-JP
+Salva struttura,構造物を保存,ja-JP
+SALVAR,保存,ja-JP
+Salvar,セーブ,ja-JP
+Salvar estrutura,構造物を保存,ja-JP
+Salvar: %s,セーブ：%s,ja-JP
+Salvataggio: %s,セーブ：%s,ja-JP
+Salvataggio: scrivi su documento,セーブモード - ファイルへの書き込みを行います,ja-JP
+Salvato la struttura come «%s»,構造物が「%s」として保存されました,ja-JP
+SAUVE,保存,ja-JP
+Sauvegarder,セーブ,ja-JP
+Sauvegarder : %s,セーブ：%s,ja-JP
+SAVE,保存,ja-JP
+Save,セーブ,ja-JP
+Save Mode - Write to file,セーブモード - ファイルへの書き込みを行います,ja-JP
+Save Structure,構造物を保存,ja-JP
+Save: %s,セーブ：%s,ja-JP
+Se change en :,置換先：,ja-JP
+Se convierte en:,置換先：,ja-JP
+Se cumplieron las condiciones de falla,失敗条件が満たされました,ja-JP
+Se encontró un tipo de bloque no esperado: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+Se ha cargado la estructura de «%s»,「%s」から構造物を読み込みました,ja-JP
+"Se ha preparado la ubicación de la estructura ""%s""",構造物「%s」の位置が準備されました,ja-JP
+Se ha reiniciado la prueba %s,テストのリセットが成功しました：%s,ja-JP
+Se requiere %s,%sが必要です,ja-JP
+Se requiere el bloque %s: se obtuvo %s,ブロック%sが必要ですが、%sが検出されました,ja-JP
+Se requiere el bloque en #%s: se obtuvo %s,#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+"Se requiere que %s exista alrededor de %s, %s, %s","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+Se requiere que %s exista en la prueba,%sがテスト内に存在している必要があります,ja-JP
+Se requiere que %s sea %s: se obtuvo %s,%sが%sであることが必要ですが、%sでした,ja-JP
+Se requiere que %s tenga efecto %s %s,%sには効果%s %sが付与されている必要があります,ja-JP
+Se requiere que %s tenga un valor entre %s y %s: es %s,%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+"Se requiere que %s toque %s, %s, %s (relativo: %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+Se requiere que el bloque %s esté presente,ブロック%sが存在する必要があります,ja-JP
+"Se requiere que exista un único %s alrededor de %s, %s, %s, pero se encontraron %s","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+Se requiere que la propiedad %s sea %s: se obtuvo %s,プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+Se requiere que los datos de la entidad sean %s: se obtuvo %s,エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+Se requiere un objeto del tipo %s,タイプ%sのアイテムが必要です,ja-JP
+"Se requieren %s entidades del tipo %s, encontradas: %s",タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+"Se requieren %s objetos del tipo %s, encontrados: %s",タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+Selection Priority:,選択優先度：,ja-JP
+Seme della struttura,構造物のシード値,ja-JP
+Semente da estrutura,構造物のシード値,ja-JP
+Semilla de la estructura,構造物のシード値,ja-JP
+Seviyeler: %s,レベル：%s,ja-JP
+Seçim Önceliği:,選択優先度：,ja-JP
+Show Bounding Box:,境界線を表示する：,ja-JP
+Show Invisible Blocks:,見えないブロックを表示する：,ja-JP
+Size successfully detected for '%s',「%s」のサイズが正常に検出されました,ja-JP
+Speichern,セーブ,ja-JP
+Speichern,保存,ja-JP
+Speichern: %s,セーブ：%s,ja-JP
+Speicher‐Modus – In Datei speichern,セーブモード - ファイルへの書き込みを行います,ja-JP
+"Spielerkoordinaten: [%s, %s, %s] in %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+Start,開始,ja-JP
+Start Mode - The starting point for a test,開始モード - テストの起点となります,ja-JP
+Starting test %s,テスト%sを開始します,ja-JP
+Startmodus – Der Anfangspunkt eines Tests,開始モード - テストの起点となります,ja-JP
+Stato finale,置換先：,ja-JP
+"Stato non corretto (previsto: %s, ricevuto: %s)",状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+Strict Placement:,厳密な配置：,ja-JP
+Strikte Platzierung:,厳密な配置：,ja-JP
+Structure '%s' is not available,構造物「%s」は利用できません,ja-JP
+Structure '%s' position prepared,構造物「%s」の位置が準備されました,ja-JP
+Structure : %s,構造物：%s,ja-JP
+"Structure chargée depuis ""%s""",「%s」から構造物を読み込みました,ja-JP
+"Structure enregistrée comme ""%s""",構造物が「%s」として保存されました,ja-JP
+Structure Integrity,構造物の完全性,ja-JP
+Structure Integrity and Seed,構造物の完全性とシード値,ja-JP
+Structure loaded from '%s',「%s」から構造物を読み込みました,ja-JP
+Structure Name,構造物名,ja-JP
+Structure saved as '%s',構造物が「%s」として保存されました,ja-JP
+Structure Seed,構造物のシード値,ja-JP
+Structure Size,構造物のサイズ,ja-JP
+structure size x,X軸方向の構造物のサイズ,ja-JP
+structure size y,Y軸方向の構造物のサイズ,ja-JP
+structure size z,Z軸方向の構造物のサイズ,ja-JP
+Structure: %s,構造物：%s,ja-JP
+Struttura: %s,構造物：%s,ja-JP
+Succeeded before expected tick: expected to wait %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+Succeeded in invalid tick: expected %s,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+Sıfırla ve Yükle,リセットして読み込む,ja-JP
+Taille de la structure,構造物のサイズ,ja-JP
+Taille de la structure de test,テスト構造物のサイズ,ja-JP
+taille de la structure x,X軸方向の構造物のサイズ,ja-JP
+taille de la structure y,Y軸方向の構造物のサイズ,ja-JP
+taille de la structure z,Z軸方向の構造物のサイズ,ja-JP
+Tamanho da estrutura,構造物のサイズ,ja-JP
+"Tamanho da estrutura ""%s"" detectado",「%s」のサイズが正常に検出されました,ja-JP
+Tamanho da estrutura do teste,テスト構造物のサイズ,ja-JP
+tamanho x da estrutura,X軸方向の構造物のサイズ,ja-JP
+tamanho y da estrutura,Y軸方向の構造物のサイズ,ja-JP
+tamanho z da estrutura,Z軸方向の構造物のサイズ,ja-JP
+Tamaño de la estructura,構造物のサイズ,ja-JP
+Tamaño de la estructura de prueba,テスト構造物のサイズ,ja-JP
+tamaño de la estructura x,X軸方向の構造物のサイズ,ja-JP
+tamaño de la estructura y,Y軸方向の構造物のサイズ,ja-JP
+tamaño de la estructura z,Z軸方向の構造物のサイズ,ja-JP
+"Tanımlanmamış teste sahip olduğundan %s, %s, %s konumundaki test birimi yürütülemedi","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+Target Name:,対象の名前：,ja-JP
+Target Pool:,構成要素プール：,ja-JP
+Tempo limite inválido (%s) — Deve conter um número positivo de tiques,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+TESPİT ET,検出,ja-JP
+Test %s wird gestartet,テスト%sを開始します,ja-JP
+Test %s wurde erfolgreich zurückgesetzt,テストのリセットが成功しました：%s,ja-JP
+Test basé sur des blocs,ブロックベース型テスト,ja-JP
+Test Birimi Kimliği,テストインスタンスID,ja-JP
+"Test coordinates: [%s, %s, %s] in %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+Test de fonction intégrée,ビルトイン関数型テスト,ja-JP
+Test de ticks effectué avant le placement de la structure,構造物が未設置の状態でティック処理が実行されました,ja-JP
+Test Instance ID,テストインスタンスID,ja-JP
+Test için biyom değiştirilemedi,テストに向けたバイオームの設定に失敗しました,ja-JP
+"Test konumu: [%s, %s, %s] %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+Test structure missing %s block,テスト構造物に%sブロックがありません,ja-JP
+Test Structure Size,テスト構造物のサイズ,ja-JP
+Test sıfırlama başarılı oldu: %s,テストのリセットが成功しました：%s,ja-JP
+Test timed out before sequence completed,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+Test vor Abschluss des Vorgangs abgelaufen,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+"Test yapı şablonu %s, %s, %s konumundaki test birimi için kaydedilemedi","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+Test Yapısı Boyutu,テスト構造物のサイズ,ja-JP
+"Test yapısına sahip olmadığından %s, %s, %s konumundaki test yürütülemedi","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+Test yapısında %s bloğu eksik,テスト構造物に%sブロックがありません,ja-JP
+"Test, dizi tamamlanmadan zaman aşımına uğradı",シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+"Testausführung begann, bevor Konstruktion platziert wurde",構造物が未設置の状態でティック処理が実行されました,ja-JP
+Teste baseado em blocos,ブロックベース型テスト,ja-JP
+Teste de função integrada,ビルトイン関数型テスト,ja-JP
+Teste em tiques antes de colocar a estrutura,構造物が未設置の状態でティック処理が実行されました,ja-JP
+"Testinstanz bei %s, %s, %s kann nicht ausgeführt werden, da ihr kein Test zugewiesen ist","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+"Testinstanz bei %s, %s, %s konnte nicht ausgeführt werden, da ihre Testkonstruktion fehlt","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+Testinstanz‐ID,テストインスタンスID,ja-JP
+Testkonstruktion für %s konnte nicht platziert werden,%sのテスト構造物の設置に失敗しました,ja-JP
+Testkonstruktion hat keinen %s‐Block,テスト構造物に%sブロックがありません,ja-JP
+"Testkonstruktionsvorlage für Testinstanz bei %s, %s, %s kann nicht gespeichert werden","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+"Testkoordinaten: [%s, %s, %s] in %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+Thiết lập lại và nạp,リセットして読み込む,ja-JP
+Thất bại,失敗,ja-JP
+Thất bại: %s,失敗：%s,ja-JP
+Thời gian chờ không hợp lệ (%s) - số lượng nhịp phải là số dương,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+Thực thể %s đã kiểm tra thất bại: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+Thực thể %s đã kiểm tra thất bại: %s. Bị thiếu: %s: trước đó là %s,エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+Thực thể phải giữ %s,エンティティは%sを手に持っている必要があります,ja-JP
+Thực thể:,エンティティ：,ja-JP
+Ticking test before placing structure,構造物が未設置の状態でティック処理が実行されました,ja-JP
+Tiempo de espera no válido (%s): debe ser un número positivo de tics,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+Timeout non valido (%s): deve essere un numero positivo di tick,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+Tin nhắn:,メッセージ：,ja-JP
+Tipo de bloco inesperado encontrado: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+Tipo de entidade-bloco incorreto: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+Tipo de ligação:,接続タイプ：,ja-JP
+Tipo de unión:,接続タイプ：,ja-JP
+Tipo di blocco complesso errato: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+Tipo di giunzione,接続タイプ：,ja-JP
+Tipo incorrecto de entidad-bloque: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+Tipo: %s,タイプ：%s,ja-JP
+Too many %s blocks,%sブロックが多すぎます,ja-JP
+Torna-se:,置換先：,ja-JP
+"Toạ độ kiểm tra: [%s, %s, %s] trong %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"Toạ độ người chơi: [%s, %s, %s] trong %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+toạ độ tương đối x,X軸方向の相対座標,ja-JP
+"Trop de blocs ""%s""",%sブロックが多すぎます,ja-JP
+Troppi blocchi (%s),%sブロックが多すぎます,ja-JP
+Trovato tipo di blocco non previsto: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+Trạng thái không chính xác. Bị thiếu %s: trước đó là %s,状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+Trở thành:,置換先：,ja-JP
+Turns into:,置換先：,ja-JP
+Typ: %s,タイプ：%s,ja-JP
+Type : %s,タイプ：%s,ja-JP
+Type d'emboîtement :,接続タイプ：,ja-JP
+Type d'entité de bloc incorrect : %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+Type de bloc inattendu trouvé : %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+Type: %s,タイプ：%s,ja-JP
+Tên cấu trúc,構造物名,ja-JP
+Tên cấu trúc '%s' không hợp lệ,「%s」は無効な構造物名です,ja-JP
+Tên mục tiêu:,対象の名前：,ja-JP
+Tên nhãn dữ liệu tuỳ chỉnh,カスタムデータタグ名,ja-JP
+Tên:,名前：,ja-JP
+Túi đồ của thực thể phải chứa %s,エンティティのインベントリには%sが入っている必要があります,ja-JP
+Tür: %s,タイプ：%s,ja-JP
+Tạo,生成,ja-JP
+Ubicación relativa,相対位置,ja-JP
+ubicación X relativa,X軸方向の相対座標,ja-JP
+ubicación Y relativa,Y軸方向の相対位置,ja-JP
+ubicación Z relativa,Z軸方向の相対位置,ja-JP
+Umgebung: %s,環境：%s,ja-JP
+Unable to detect structure size. Add corners with matching structure names,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+"Unable to run test instance at %s, %s, %s since it has an undefined test","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+"Unable to run test instance at %s, %s, %s since it has no test structure","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+Unable to save structure '%s',構造物「%s」を保存できません,ja-JP
+"Unable to save test structure template for test instance at %s, %s, %s","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+Unbekannter interner Fehler: %s,不明な内部エラーです：%s,ja-JP
+"Une seule entité ""%s"" attendue autour de %s, %s, %s mais en a trouvé %s","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+Unerwarteter Blocktyp gefunden: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+Unexpected block type found: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+Ungültige Test‐ID,無効なテストID,ja-JP
+Ungültiger Konstruktionsname ‚%s‘,「%s」は無効な構造物名です,ja-JP
+Ungültiges Timeout (%s) – muss eine positive Anzahl von Ticks sein,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+Unknown internal error: %s,不明な内部エラーです：%s,ja-JP
+Unsichtbare Blöcke anzeigen:,見えないブロックを表示する：,ja-JP
+Valeur %s attendue : %s (valeur reçue : %s),%sが%sであることが必要ですが、%sでした,ja-JP
+Valeur %s attendue entre %s et %s (valeur reçue : %s),%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+"Valeur de la propriété ""%s"" attendue : %s (valeur reçue : %s)",プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+Varlık %s tutmalı,エンティティは%sを手に持っている必要があります,ja-JP
+"Varlık verisinin: %s olması beklendi, %s bulundu",エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+Varlıklar:,エンティティ：,ja-JP
+Varlıkları Dâhil Et:,エンティティを含めるかどうか：,ja-JP
+Varlığın envanteri %s barındırmalı,エンティティのインベントリには%sが入っている必要があります,ja-JP
+Verbindung:,接続タイプ：,ja-JP
+Verbundblöcke behalten,ジグソーを維持,ja-JP
+Veri,データ,ja-JP
+Veri Modu - Oyun mantığı işaretleyici,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+Veri: %s,データ：%s,ja-JP
+Verilen blok bir blok eşyası değil,指定のブロックはブロックアイテムではありません,ja-JP
+Vollständigkeit & Startwert (Konstruktion),構造物の完全性とシード値,ja-JP
+"Vor erwartetem Tick stattgefunden: erwartet, %s zu warten",予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+Vorhandensein des Blocks %s erwartet,ブロック%sが存在する必要があります,ja-JP
+Vật chứa phải chứa một: %s,コンテナには単一の%sが入っている必要があります,ja-JP
+Vật chứa phải chứa: %s,コンテナには%sが入っている必要があります,ja-JP
+Vật chứa phải để trống,コンテナは空である必要があります,ja-JP
+Vị trí bảo toàn:,厳密な配置：,ja-JP
+Vị trí tương đối,相対位置,ja-JP
+vị trí tương đối y,Y軸方向の相対位置,ja-JP
+vị trí tương đối z,Z軸方向の相対位置,ja-JP
+Weder Erfolg noch Fehlschlag innerhalb von %s Ticks,%sティック以内に成功も失敗もしませんでした。,ja-JP
+"Wenn das zugehörige Stück auf Verbindungen verarbeitet wird, ist dies die Reihenfolge, in der dieser Verbundblock versucht, sich mit seinem Zielstück zu verbinden.
+
+Verbünde werden in absteigender Priorität verarbeitet, wobei Gleichstände durch eine zufällige Reihenfolge gelöst werden.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"Wenn sich dieser Verbundblock mit einem Stück verbindet, ist dies die Reihenfolge, in der das Stück auf Verbindungen zur Gesamtkonstruktion verarbeitet wird.
+
+Stücke werden in absteigender Priorität verarbeitet, wobei Gleichstände durch die Einfügungsreihenfolge gelöst werden.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"When the parent piece is being processed for connections, this is the order in which this Jigsaw block attempts to connect to its target piece.
+
+Jigsaws will be processed in descending priority with random ordering breaking ties.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"When this Jigsaw block connects to a piece, this is the order in which that piece is processed for connections in the wider structure.
+
+Pieces will be processed in descending priority with insertion order breaking ties.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Wird zu:,置換先：,ja-JP
+Wrong block entity type: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+X 軸相對位置,X軸方向の相対座標,ja-JP
+X 軸結構大小,X軸方向の構造物のサイズ,ja-JP
+Xoay được,回転可能,ja-JP
+Y 軸相對位置,Y軸方向の相対位置,ja-JP
+Y 軸結構大小,Y軸方向の構造物のサイズ,ja-JP
+Yanlış blok varlık türü: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+Yapbozları Sakla,ジグソーを維持,ja-JP
+Yapı '%s' kaydedilemedi,構造物「%s」を保存できません,ja-JP
+Yapı '%s' olarak kaydedildi,構造物が「%s」として保存されました,ja-JP
+Yapı '%s' yüklendi,「%s」から構造物を読み込みました,ja-JP
+Yapı Adı,構造物名,ja-JP
+Yapı Boyutu,構造物のサイズ,ja-JP
+Yapı boyutu tespit edilemedi. Eşleşen yapı adlarına sahip köşeler ekleyin,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+yapı boyutu x,X軸方向の構造物のサイズ,ja-JP
+yapı boyutu y,Y軸方向の構造物のサイズ,ja-JP
+yapı boyutu z,Z軸方向の構造物のサイズ,ja-JP
+Yapı boyutunu ve konumunu algıla:,構造物の大きさと位置を検出：,ja-JP
+Yapı Bütünlüğü,構造物の完全性,ja-JP
+Yapı Bütünlüğü ve Dünya Oluşturucusu Kodu,構造物の完全性とシード値,ja-JP
+Yapı Oluşturucusu Kodu,構造物のシード値,ja-JP
+Yapı yerleştirilmeden test yürütüldü,構造物が未設置の状態でティック処理が実行されました,ja-JP
+Yapı: %s,構造物：%s,ja-JP
+Yapıyı Kaydet,構造物を保存,ja-JP
+Yerleştirme Önceliği:,設置優先度：,ja-JP
+Yön:,回転：,ja-JP
+YÜKLE,読み込み,ja-JP
+Yükle ve Yürüt,読み込んで実行,ja-JP
+Yükle: %s,ロード：%s,ja-JP
+Yükleme,ロード,ja-JP
+Yükleme Modu - Dosyadan yükle,ロードモード - ファイルからの読み込みを行います,ja-JP
+Yürütme Modu - Bir testin başlama noktası,開始モード - テストの起点となります,ja-JP
+Z 軸相對位置,Z軸方向の相対位置,ja-JP
+Z 軸結構大小,Z軸方向の構造物のサイズ,ja-JP
+Zielname:,対象の名前：,ja-JP
+Zona di delimitazione,境界線を表示する：,ja-JP
+Zu viele %s‐Blöcke,%sブロックが多すぎます,ja-JP
+Zurücksetzen und laden,リセットして読み込む,ja-JP
+"Zustand %s wurde als %s erwartet, war aber %s",プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+«%s» no es un nombre de estructura válido,「%s」は無効な構造物名です,ja-JP
+Çerçeveyi göster:,境界線を表示する：,ja-JP
+Çevre: %s,環境：%s,ja-JP
+Çok fazla %s bloğu,%sブロックが多すぎます,ja-JP
+Échec : %s,失敗：%s,ja-JP
+"Échec de la création de l'entité ""%s""",エンティティ%sの作成に失敗しました,ja-JP
+Échec de la définition du biome pour le test,テストに向けたバイオームの設定に失敗しました,ja-JP
+"Échec du placement de la structure de test pour ""%s""",%sのテスト構造物の設置に失敗しました,ja-JP
+"Échec du test de l'entité ""%s"" : %s",エンティティ%sがテストに失敗しました：%s,ja-JP
+Échouer,失敗,ja-JP
+"État incorrect (état attendu : %s, état reçu : %s)",状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+Éxito antes del tic esperado: se esperaba %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+Éxito en tic no válido: se esperaba %s,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+Özel Veri Etiketi Adı,カスタムデータタグ名,ja-JP
+"Üst parça bağlantılar için işlenirken, bu Yapboz bloğunun hedef parçasına bağlanmaya çalıştığı sıra budur.
+
+Yapbozlar, azalan öncelikle rastgele eşitlik kırılarak işlenecektir.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Đang bắt đầu kiểm tra %s,テスト%sを開始します,ja-JP
+Điều kiện không được kích hoạt,条件がトリガーされていません,ja-JP
+Điều kiện đã được kích hoạt ở %s,条件がすでに%sでトリガーされています,ja-JP
+Đã gặp điều kiện gây thất bại,失敗条件が満たされました,ja-JP
+Đã không thành công hoặc thất bại trong %s nhịp,%sティック以内に成功も失敗もしませんでした。,ja-JP
+Đã nạp cấu trúc từ '%s',「%s」から構造物を読み込みました,ja-JP
+Đã phát hiện thành công kích cỡ của '%s',「%s」のサイズが正常に検出されました,ja-JP
+Đã thiết lập lại thành công kiểm tra: %s,テストのリセットが成功しました：%s,ja-JP
+Đã thành công trong nhịp không hợp lệ: bị thiếu %s,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+Đã thành công trước nhịp dự kiến: đã dự kiến đợi %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+Đã tìm thấy loại khối bị dư: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+Đã xác định vị trí cấu trúc '%s',構造物「%s」の位置が準備されました,ja-JP
+Được căn chỉnh,整列,ja-JP
+Độ toàn vẹn của cấu trúc,構造物の完全性,ja-JP
+Độ toàn vẹn và hạt giống của cấu trúc,構造物の完全性とシード値,ja-JP
+Độ xoay:,回転：,ja-JP
+Şart %s birim zamanda zaten tetiklendi,条件がすでに%sでトリガーされています,ja-JP
+Şart tetiklenmedi,条件がトリガーされていません,ja-JP
+Ưu tiên lựa chọn:,選択優先度：,ja-JP
+Ưu tiên đặt:,設置優先度：,ja-JP
+Без обновлений:,厳密な配置：,ja-JP
+В тестовой конструкции отсутствует блок «%s»,テスト構造物に%sブロックがありません,ja-JP
+Вращаемый,回転可能,ja-JP
+Выполнены условия провала,失敗条件が満たされました,ja-JP
+Выровнен,整列,ja-JP
+Генерировать,生成,ja-JP
+Данные,データ,ja-JP
+Данные: %s,データ：%s,ja-JP
+Журнал,ログ,ja-JP
+Завершено до указанного такта: ожидалось прождать %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+Загрузить и запустить,読み込んで実行,ja-JP
+ЗАПИСЬ,保存,ja-JP
+Запись,セーブ,ja-JP
+Запись: %s,セーブ：%s,ja-JP
+Запуск,開始,ja-JP
+Запуск теста %s,テスト%sを開始します,ja-JP
+Идентификатор тестового экземпляра,テストインスタンスID,ja-JP
+Измерение: %s,ディメンション：%s,ja-JP
+Инвентарь сущности должен содержать %s,エンティティのインベントリには%sが入っている必要があります,ja-JP
+Ключ строений,構造物のシード値,ja-JP
+Конструкция «%s» не обнаружена,構造物「%s」は利用できません,ja-JP
+Конструкция загружена из файла «%s»,「%s」から構造物を読み込みました,ja-JP
+Конструкция сохранена в файл «%s»,構造物が「%s」として保存されました,ja-JP
+Конструкция: %s,構造物：%s,ja-JP
+Контейнер должен быть пустым,コンテナは空である必要があります,ja-JP
+Контейнер должен содержать один %s,コンテナには単一の%sが入っている必要があります,ja-JP
+Контейнер должен содержать: %s,コンテナには%sが入っている必要があります,ja-JP
+"Координаты игрока: [%s, %s, %s] в %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"Координаты теста: [%s, %s, %s] в %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+Название конструкции,構造物名,ja-JP
+Название цели:,対象の名前：,ja-JP
+Название:,名前：,ja-JP
+Найден неожиданный тип блока: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+"Не ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+Не ожидался %s,%sが存在することは予期されていません,ja-JP
+Не ожидался блок %s,ブロックが%sであることは予期されていません,ja-JP
+Не ожидался предмет типа %s,タイプ%sのアイテムは予期されていません,ja-JP
+Не получено результатов в течение %s тактов,%sティック以内に成功も失敗もしませんでした。,ja-JP
+Не удалось задать биом для теста,テストに向けたバイオームの設定に失敗しました,ja-JP
+"Не удалось определить размер конструкции. Добавьте углы с названием, соответствующим конструкции",構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+Не удалось разместить тестовую конструкцию для %s,%sのテスト構造物の設置に失敗しました,ja-JP
+Не удалось создать сущность %s,エンティティ%sの作成に失敗しました,ja-JP
+Не удалось сохранить конструкцию «%s»,構造物「%s」を保存できません,ja-JP
+Неверное время ожидания (%s); должно быть положительное число тактов,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+Неверное название конструкции «%s»,「%s」は無効な構造物名です,ja-JP
+Неверное состояние. Ожидалось: %s; получено: %s,状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+Неверный идентификатор теста,無効なテストID,ja-JP
+Неверный тип блока-сущности: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+"Невозможно выполнить тестовый экземпляр в точке %s, %s, %s: тест не определён","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+"Невозможно запустить тестовый экземпляр в точке %s, %s, %s: тестовая конструкция отсутствует","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+"Невозможно сохранить шаблон тестовой конструкции у тестового экземпляра в точке %s, %s, %s","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+Неизвестная внутренняя ошибка: %s,不明な内部エラーです：%s,ja-JP
+Несоответствие данных сущности %s,エンティティデータが%sに合致しません,ja-JP
+Нет такого теста,そのテストは存在しません,ja-JP
+Ни одна последовательность не завершилась в течение %s тактов,%sティック以内にシーケンスが終了しませんでした,ja-JP
+"Ожидалась одна сущность типа %s рядом с точкой %s, %s, %s; обнаружено %s","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+Ожидались данные сущности со значением %s; получено: %s,エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+"Ожидалось %s возле точки %s, %s, %s","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+Ожидалось %s предметов типа %s; обнаружено %s,タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+Ожидалось %s со значением %s; получено: %s,%sが%sであることが必要ですが、%sでした,ja-JP
+Ожидалось %s со значением между %s и %s; получено: %s,%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+Ожидалось %s сущностей типа %s; обнаружено %s,タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+Ожидалось наличие блока %s,ブロック%sが存在する必要があります,ja-JP
+Ожидалось присутствие %s в тесте,%sがテスト内に存在している必要があります,ja-JP
+Ожидалось свойство %s со значением %s; получено: %s,プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+"Ожидалось соприкосновение %s с точкой %s, %s, %s (относительно: %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+Ожидался %s,%sが必要です,ja-JP
+Ожидался %s с эффектом «%s» %s,%sには効果%s %sが付与されている必要があります,ja-JP
+Ожидался блок %s; получено: %s,ブロック%sが必要ですが、%sが検出されました,ja-JP
+"Ожидался блок из #%s, получено: %s",#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+Ожидался предмет типа %s,タイプ%sのアイテムが必要です,ja-JP
+Определить размер и расположение:,構造物の大きさと位置を検出：,ja-JP
+"Определяется порядок, в котором этот шаблон обрабатывается в рамках общей конструкции.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться порядком вставки.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Отказ,失敗,ja-JP
+относительная координата зет,Z軸方向の相対位置,ja-JP
+относительная координата игрек,Y軸方向の相対位置,ja-JP
+относительная координата икс,X軸方向の相対座標,ja-JP
+Относительные координаты,相対位置,ja-JP
+Отсутствует блок-сущность,ブロックエンティティが不足しています,ja-JP
+Ошибка в недопустимом такте: ожидается %s,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+Пазлы,ジグソーを維持,ja-JP
+Поворот:,回転：,ja-JP
+Подготовлено расположение конструкции «%s»,構造物「%s」の位置が準備されました,ja-JP
+Показать границы:,境界線を表示する：,ja-JP
+Показывать невидимые блоки:,見えないブロックを表示する：,ja-JP
+"Порядок, в котором этот блок пазла будет пытаться связываться с соседними шаблонами.
+
+Пазлы будут обрабатываться в порядке убывания приоритета; при равных значениях, очерёдность будет определяться случайным образом.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+Превращается в:,置換先：,ja-JP
+Приоритет выбора:,選択優先度：,ja-JP
+Приоритет установки:,設置優先度：,ja-JP
+Провал: %s,失敗：%s,ja-JP
+Проверка хода тактов перед установкой конструкции,構造物が未設置の状態でティック処理が実行されました,ja-JP
+Произвольные теги данных,カスタムデータタグ名,ja-JP
+Пул шаблонов:,構成要素プール：,ja-JP
+Размер конструкции,構造物のサイズ,ja-JP
+размер конструкции зет,Z軸方向の構造物のサイズ,ja-JP
+размер конструкции игрек,Y軸方向の構造物のサイズ,ja-JP
+размер конструкции икс,X軸方向の構造物のサイズ,ja-JP
+Размер тестовой конструкции,テスト構造物のサイズ,ja-JP
+Рассчитан размер конструкции «%s»,「%s」のサイズが正常に検出されました,ja-JP
+РАСЧЁТ,検出,ja-JP
+Режим данных — маркер игровой логики,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+Режим журнала — запись сообщения в журнал,ログモード - メッセージをログに出力します,ja-JP
+Режим записи — сохранение в файл,セーブモード - ファイルへの書き込みを行います,ja-JP
+Режим запуска — начальная точка теста,開始モード - テストの起点となります,ja-JP
+Режим отказа — тестирование на ошибку,失敗モード - テストを失敗させます,ja-JP
+Режим успеха — достижение успеха для (части) теста,認証モード - テスト（の一部）の成功を認証します,ja-JP
+Режим чтения — загрузка из файла,ロードモード - ファイルからの読み込みを行います,ja-JP
+Сбросить и загрузить,リセットして読み込む,ja-JP
+Сброшен тест %s,テストのリセットが成功しました：%s,ja-JP
+Свойство блока отсутствует; ожидалось свойство %s со значением %s,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+Слишком много блоков %s,%sブロックが多すぎます,ja-JP
+Сообщение:,メッセージ：,ja-JP
+Сохранить конструкцию,構造物を保存,ja-JP
+Среда: %s,環境：%s,ja-JP
+Сущности:,エンティティ：,ja-JP
+Сущность %s провалила тест: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+Сущность %s провалила тест: %s; ожидалось: %s; получено: %s,エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+Сущность должна держать %s,エンティティは%sを手に持っている必要があります,ja-JP
+Тест встроенной функции,ビルトイン関数型テスト,ja-JP
+Тест завершился по таймеру до завершения последовательности,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+Тест на блоках,ブロックベース型テスト,ja-JP
+Тип соединения:,接続タイプ：,ja-JP
+Тип: %s,タイプ：%s,ja-JP
+Угол,コーナー,ja-JP
+Угол — маркер размещения и размера,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+Угол: %s,コーナー：%s,ja-JP
+Указанный блок не имеет соответствующего ему предмета,指定のブロックはブロックアイテムではありません,ja-JP
+Уровни: %s,レベル：%s,ja-JP
+Условие не задействовано,条件がトリガーされていません,ja-JP
+Условие уже задействовано в такте %s,条件がすでに%sでトリガーされています,ja-JP
+Успех,認証,ja-JP
+Учитывать сущности:,エンティティを含めるかどうか：,ja-JP
+Функция: %s,関数：%s,ja-JP
+Целостность конструкции,構造物の完全性,ja-JP
+Целостность конструкции и ключ,構造物の完全性とシード値,ja-JP
+ЧТЕНИЕ,読み込み,ja-JP
+Чтение,ロード,ja-JP
+Чтение: %s,ロード：%s,ja-JP
+กลุ่มเป้าหมาย:,構成要素プール：,ja-JP
+การทดสอบฟังก์ชันในตัว,ビルトイン関数型テスト,ja-JP
+การทดสอบหมดเวลาก่อนที่ลำดับจะเสร็จสิ้น,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+การทดสอบโดยอิงจากบล็อก,ブロックベース型テスト,ja-JP
+การทดสอบได้เริ่มนับติ๊กโดยที่ยังไม่ได้วางโครงสร้าง,構造物が未設置の状態でティック処理が実行されました,ja-JP
+การวางอย่างเคร่งครัด:,厳密な配置：,ja-JP
+การหมดเวลาไม่ถูกต้อง (%s) - ติ๊กต้องเป็นจำนวนบวก,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+การหมุน:,回転：,ja-JP
+กำลังเริ่มการทดสอบ %s,テスト%sを開始します,ja-JP
+ขนาดโครงสร้าง,構造物のサイズ,ja-JP
+ขนาดโครงสร้าง x,X軸方向の構造物のサイズ,ja-JP
+ขนาดโครงสร้าง y,Y軸方向の構造物のサイズ,ja-JP
+ขนาดโครงสร้าง z,Z軸方向の構造物のサイズ,ja-JP
+ขนาดโครงสร้างทดสอบ,テスト構造物のサイズ,ja-JP
+ขาดคุณสมบัติบล็อก ต้องมีคุณสมบัติ %s เป็น %s,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+ขาดเอนทิตี้บล็อก,ブロックエンティティが不足しています,ja-JP
+ข้อความ:,メッセージ：,ja-JP
+ข้อมูล,データ,ja-JP
+ข้อมูล: %s,データ：%s,ja-JP
+ข้อมูลเอนทิตี้ต้องเป็น %s: ตอนนี้เป็น %s,エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+ข้อมูลเอนทิตี้สำหรับ %s ไม่ตรงกัน,エンティティデータが%sに合致しません,ja-JP
+คงบล็อกจิ๊กซอว์ไว้,ジグソーを維持,ja-JP
+ความสมบูรณ์ของโครงสร้าง,構造物の完全性,ja-JP
+ความสมบูรณ์ของโครงสร้างและซีด,構造物の完全性とシード値,ja-JP
+คอนเทนเนอร์ควรมี: %s,コンテナには%sが入っている必要があります,ja-JP
+คอนเทนเนอร์ควรมีสิ่งนี้เพียงชิ้นเดียว: %s,コンテナには単一の%sが入っている必要があります,ja-JP
+คอนเทนเนอร์ควรว่างเปล่า,コンテナは空である必要があります,ja-JP
+คุณสมบัติ %s ต้องเป็น %s: ตอนนี้เป็น %s,プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+ชื่อ:,名前：,ja-JP
+ชื่อเป้าหมาย:,対象の名前：,ja-JP
+ชื่อแท็กข้อมูลกำหนดเอง,カスタムデータタグ名,ja-JP
+ชื่อโครงสร้าง,構造物名,ja-JP
+ชื่อโครงสร้าง '%s' ไม่ถูกต้อง,「%s」は無効な構造物名です,ja-JP
+ช่องเก็บของเอนทิตี้ควรมี %s,エンティティのインベントリには%sが入っている必要があります,ja-JP
+ซีดโครงสร้าง,構造物のシード値,ja-JP
+ตรงตามเงื่อนไขความล้มเหลว,失敗条件が満たされました,ja-JP
+ตรวจจับ,検出,ja-JP
+ตรวจจับขนาดและตำแหน่งโครงสร้าง:,構造物の大きさと位置を検出：,ja-JP
+ตรวจพบขนาดสำหรับ '%s' แล้ว,「%s」のサイズが正常に検出されました,ja-JP
+ตำแหน่ง x สัมพัทธ์,X軸方向の相対座標,ja-JP
+ตำแหน่งสัมพัทธ์,相対位置,ja-JP
+ตำแหน่งสัมพัทธ์ y,Y軸方向の相対位置,ja-JP
+ตำแหน่งสัมพัทธ์ z,Z軸方向の相対位置,ja-JP
+ตำแหน่งโครงสร้าง '%s' ถูกเตรียม,構造物「%s」の位置が準備されました,ja-JP
+ต้องมี %s,%sが必要です,ja-JP
+"ต้องมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","%sが%s, %s, %sに接触している必要があります（相対位置：%s, %s, %s）",ja-JP
+"ต้องมี %s อยู่รอบ %s, %s, %s","%sが%s, %s, %sの周囲に存在することが必要です",ja-JP
+ต้องมี %s อยู่ระหว่าง %s กับ %s: ตอนนี้เป็น %s,%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+ต้องมี %s อยู่ในการทดสอบ,%sがテスト内に存在している必要があります,ja-JP
+"ต้องมี %s เพียง 1 รายการรอบ %s, %s, %s เท่านั้น แต่พบ %s รายการ","ただ1体の%sが%s, %s, %sの周囲に存在することが必要ですが、%s体が検出されました",ja-JP
+ต้องมีบล็อก %s อยู่,ブロック%sが存在する必要があります,ja-JP
+ต้องมีเอนทิตี้ %s รายการของประเภท %s: พบ %s รายการ,タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+ต้องมีไอเทม %s รายการของประเภท %s: พบ %s รายการ,タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+ต้องมีไอเทมของประเภท %s,タイプ%sのアイテムが必要です,ja-JP
+ต้องเป็นบล็อก %s: ได้รับ %s,ブロック%sが必要ですが、%sが検出されました,ja-JP
+ต้องเป็นบล็อกใน #%s: ได้รับ %s,#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+บล็อก%sมากเกินไป,%sブロックが多すぎます,ja-JP
+บล็อกนั้นไม่ใช่ไอเทมบล็อก,指定のブロックはブロックアイテムではありません,ja-JP
+บล็อกไม่ควรเป็น %s,ブロックが%sであることは予期されていません,ja-JP
+บันทึก,セーブ,ja-JP
+บันทึก,保存,ja-JP
+บันทึก: %s,セーブ：%s,ja-JP
+บันทึกโครงสร้าง,構造物を保存,ja-JP
+ประเภท: %s,タイプ：%s,ja-JP
+ประเภทการต่อ:,接続タイプ：,ja-JP
+ประเภทเอนทิตี้บล็อกผิดพลาด: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+พบประเภทบล็อกที่ไม่คาดคิด: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+"พิกัดทดสอบ: [%s, %s, %s] ใน %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"พิกัดผู้เล่น: [%s, %s, %s] ใน %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+ฟังก์ชัน: %s,関数：%s,ja-JP
+มิติ: %s,ディメンション：%s,ja-JP
+มุม,コーナー,ja-JP
+มุม: %s,コーナー：%s,ja-JP
+ยอมรับ,認証,ja-JP
+รวมถึงเอนทิตี้:,エンティティを含めるかどうか：,ja-JP
+ระดับ: %s,レベル：%s,ja-JP
+รีเซตการทดสอบสำเร็จ: %s,テストのリセットが成功しました：%s,ja-JP
+รีเซตและโหลด,リセットして読み込む,ja-JP
+ลงบันทึก,ログ,ja-JP
+ลำดับความสำคัญในการวาง:,設置優先度：,ja-JP
+ลำดับความสำคัญในการเลือก:,選択優先度：,ja-JP
+ล้มเหลว,失敗,ja-JP
+ล้มเหลว: %s,失敗：%s,ja-JP
+ล้มเหลวในการตั้งไบโอมสำหรับการทดสอบ,テストに向けたバイオームの設定に失敗しました,ja-JP
+ล้มเหลวในการวางโครงสร้างทดสอบสำหรับ %s,%sのテスト構造物の設置に失敗しました,ja-JP
+ล้มเหลวในการสร้างเอนทิตี้ %s,エンティティ%sの作成に失敗しました,ja-JP
+สถานะไม่ถูกต้อง ต้องเป็น %s: ตอนนี้เป็น %s,状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+สภาพแวดล้อม: %s,環境：%s,ja-JP
+สร้าง,生成,ja-JP
+สำเร็จก่อนติ๊กที่คาดไว้: ต้องรอจนถึง %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+สำเร็จในติ๊กที่ไม่ถูกต้อง: ต้องเป็น %s,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+หมุนได้,回転可能,ja-JP
+หมุนไม่ได้,整列,ja-JP
+เงื่อนไขถูกทริกเกอร์ไปแล้วในติ๊กที่ %s,条件がすでに%sでトリガーされています,ja-JP
+เงื่อนไขไม่ถูกทริกเกอร์,条件がトリガーされていません,ja-JP
+"เมื่อชิ้นส่วนแม่ถูกประมวลผลเพื่อการเชื่อมต่อ นี่คือลำดับที่บล็อกจิ๊กซอว์นี้จะพยายามเชื่อมต่อกับชิ้นส่วนเป้าหมาย
+
+บล็อกจิ๊กซอว์ต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย หากมีลำดับความสำคัญเท่ากัน จะใช้การสุ่มในการเลือกลำดับการประมวลผล","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"เมื่อบล็อกจิ๊กซอว์นี้เชื่อมต่อกับชิ้นส่วนใด ๆ นี่คือลำดับที่ชิ้นส่วนนั้นจะถูกประมวลผลเพื่อการเชื่อมต่อในโครงสร้างที่ใหญ่ขึ้น
+
+ชิ้นส่วนต่าง ๆ จะถูกประมวลผลตามลำดับความสำคัญจากมากไปน้อย โดยหากมีลำดับความสำคัญเท่ากัน จะประมวลผลตามลำดับการแทรก","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+เริ่มต้น,開始,ja-JP
+เสร็จสิ้นกลายเป็น:,置換先：,ja-JP
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s,エンティティ%sがテストに失敗しました：%s,ja-JP
+เอนทิตี้ %s ล้มเหลวในการทดสอบ: %s ต้องเป็น %s: ตอนนี้เป็น %s,エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+เอนทิตี้:,エンティティ：,ja-JP
+เอนทิตี้ควรกำลังถือ %s,エンティティは%sを手に持っている必要があります,ja-JP
+แสดงกล่องขอบเขต:,境界線を表示する：,ja-JP
+แสดงบล็อกล่องหน:,見えないブロックを表示する：,ja-JP
+โครงสร้าง '%s' ไม่พร้อมใช้งาน,構造物「%s」は利用できません,ja-JP
+โครงสร้าง: %s,構造物：%s,ja-JP
+โครงสร้างถูกบันทึกเป็น '%s',構造物が「%s」として保存されました,ja-JP
+โครงสร้างถูกโหลดจาก '%s',「%s」から構造物を読み込みました,ja-JP
+โครงสร้างทดสอบขาดบล็อก%s,テスト構造物に%sブロックがありません,ja-JP
+โหมดข้อมูล - ตัวทำเครื่องหมายตรรกะเกม,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+โหมดบันทึก - บันทึกไปยังไฟล์,セーブモード - ファイルへの書き込みを行います,ja-JP
+โหมดมุม - ตัวทําเครื่องหมายการวางและขนาด,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+โหมดยอมรับ - ยอมรับความสำเร็จของ (บางส่วนของ) การทดสอบ,認証モード - テスト（の一部）の成功を認証します,ja-JP
+โหมดลงบันทึก - บันทึกข้อความเอาต์พุตลงไฟล์บันทึก,ログモード - メッセージをログに出力します,ja-JP
+โหมดล้มเหลว - ทำให้การทดสอบล้มเหลว,失敗モード - テストを失敗させます,ja-JP
+โหมดเริ่มต้น - จุดเริ่มต้นของการทดสอบ,開始モード - テストの起点となります,ja-JP
+โหมดโหลด - โหลดจากไฟล์,ロードモード - ファイルからの読み込みを行います,ja-JP
+โหลด,ロード,ja-JP
+โหลด,読み込み,ja-JP
+โหลด: %s,ロード：%s,ja-JP
+โหลดและรัน,読み込んで実行,ja-JP
+"ไม่ควรมี %s สัมผัสกับ %s, %s, %s (ตำแหน่งสัมพัทธ์: %s, %s, %s)","%sが%s, %s, %sに接触していない必要があります（相対位置：%s, %s, %s）",ja-JP
+ไม่ควรมี %s อยู่,%sが存在することは予期されていません,ja-JP
+ไม่ควรมีไอเทมประเภท %s,タイプ%sのアイテムは予期されていません,ja-JP
+ไม่ทราบข้อผิดพลาดภายใน: %s,不明な内部エラーです：%s,ja-JP
+ไม่มีการทดสอบดังกล่าว,そのテストは存在しません,ja-JP
+ไม่มีลำดับเสร็จสิ้นภายใน %s ติ๊ก,%sティック以内にシーケンスが終了しませんでした,ja-JP
+ไม่สามารถตรวจจับขนาดโครงสร้างได้ เพิ่มมุมด้วยชื่อโครงสร้างที่ตรงกัน,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+"ไม่สามารถบันทึกแม่แบบโครงสร้างทดสอบสำหรับกรณีทดสอบที่ %s, %s, %s","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+ไม่สามารถบันทึกโครงสร้าง '%s' ได้,構造物「%s」を保存できません,ja-JP
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีการกำหนดค่าการทดสอบ","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+"ไม่สามารถรันกรณีตัวอย่างทดสอบที่ %s, %s, %s เนื่องจากไม่มีโครงสร้างทดสอบ","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+ไม่สำเร็จหรือล้มเหลวภายใน %s ติ๊ก,%sティック以内に成功も失敗もしませんでした。,ja-JP
+“%s”的大小已成功检测,「%s」のサイズが正常に検出されました,ja-JP
+不存在名为“%s”的结构 ,構造物「%s」は利用できません,ja-JP
+严格放置：,厳密な配置：,ja-JP
+为%s放置测试结构失败,%sのテスト構造物の設置に失敗しました,ja-JP
+保存模式,セーブ,ja-JP
+保存模式 — 写入文件,セーブモード - ファイルへの書き込みを行います,ja-JP
+保存结构,構造物を保存,ja-JP
+保存：%s,セーブ：%s,ja-JP
+保留拼图,ジグソーを維持,ja-JP
+偵測,検出,ja-JP
+偵測結構的大小與位置：,構造物の大きさと位置を検出：,ja-JP
+儲存,セーブ,ja-JP
+儲存,保存,ja-JP
+儲存拼圖,ジグソーを維持,ja-JP
+儲存模式 ─ 寫入檔案,セーブモード - ファイルへの書き込みを行います,ja-JP
+儲存結構,構造物を保存,ja-JP
+儲存：%s,セーブ：%s,ja-JP
+內建函數測試,ビルトイン関数型テスト,ja-JP
+内置函数测试,ビルトイン関数型テスト,ja-JP
+函数：%s,関数：%s,ja-JP
+函數：%s,関数：%s,ja-JP
+创建实体%s失败,エンティティ%sの作成に失敗しました,ja-JP
+加载,読み込み,ja-JP
+加载并运行,読み込んで実行,ja-JP
+加载模式,ロード,ja-JP
+加载模式 — 从文件中加载,ロードモード - ファイルからの読み込みを行います,ja-JP
+加载：%s,ロード：%s,ja-JP
+包含實體：,エンティティを含めるかどうか：,ja-JP
+包括实体：,エンティティを含めるかどうか：,ja-JP
+发现非预期的方块类型：%s,予期せぬブロックタイプが検出されました：%s,ja-JP
+可旋轉,回転可能,ja-JP
+可旋转,回転可能,ja-JP
+名称：,名前：,ja-JP
+名稱：,名前：,ja-JP
+启动,開始,ja-JP
+启动模式 - 测试的起点,開始モード - テストの起点となります,ja-JP
+啟動,開始,ja-JP
+啟動模式 ─ 測試的起點,開始モード - テストの起点となります,ja-JP
+嚴格放置：,厳密な配置：,ja-JP
+固定,整列,ja-JP
+在 %s 刻內沒有序列完成,%sティック以内にシーケンスが終了しませんでした,ja-JP
+在%s刻内没有序列完成,%sティック以内にシーケンスが終了しませんでした,ja-JP
+在放置結構前執行了測試,構造物が未設置の状態でティック処理が実行されました,ja-JP
+在無效刻時成功：應為 %s,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+在預期刻之前成功：應等待 %s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+基于方块的测试,ブロックベース型テスト,ja-JP
+基於方塊的測試,ブロックベース型テスト,ja-JP
+失敗模式 ─ 使測試失敗,失敗モード - テストを失敗させます,ja-JP
+失败,失敗,ja-JP
+失败模式 - 使测试失败,失敗モード - テストを失敗させます,ja-JP
+失败：%s,失敗：%s,ja-JP
+"存在未定义的测试，无法在%s, %s, %s处运行测试实例","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+"存在未被定義的測試，無法在 %s, %s, %s 處執行測試實例","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+实体%s测试失败：%s,エンティティ%sがテストに失敗しました：%s,ja-JP
+实体%s测试失败：%s。应为%s：实际为%s,エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+实体应持有%s,エンティティは%sを手に持っている必要があります,ja-JP
+实体数据应为%s：实际为%s,エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+实体物品栏中应包含%s,エンティティのインベントリには%sが入っている必要があります,ja-JP
+实体：,エンティティ：,ja-JP
+容器应为空,コンテナは空である必要があります,ja-JP
+容器应包含：%s,コンテナには%sが入っている必要があります,ja-JP
+容器应含有单个：%s,コンテナには単一の%sが入っている必要があります,ja-JP
+容器應含有單個：%s,コンテナには単一の%sが入っている必要があります,ja-JP
+容器應含有：%s,コンテナには%sが入っている必要があります,ja-JP
+容器應為空,コンテナは空である必要があります,ja-JP
+實體 %s 測試失敗：%s,エンティティ%sがテストに失敗しました：%s,ja-JP
+實體 %s 測試失敗：%s。應為 %s，但實際為 %s,エンティティ%sがテストに失敗しました：%s、%sが必要ですが、%sでした,ja-JP
+實體應持有 %s,エンティティは%sを手に持っている必要があります,ja-JP
+實體物品欄中應含有 %s,エンティティのインベントリには%sが入っている必要があります,ja-JP
+實體資料應為 %s，但實際為 %s,エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+實體：,エンティティ：,ja-JP
+尚未放置结构时执行了测试,構造物が未設置の状態でティック処理が実行されました,ja-JP
+层数：%s,レベル：%s,ja-JP
+属性%s应为%s：实际为%s,%sが%sであることが必要ですが、%sでした,ja-JP
+属性%s应为%s：实际为%s,プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+属性%s应在%s和%s之间：实际为%s,%sは%sから%sの間であることが必要ですが、%sでした,ja-JP
+層數：%s,レベル：%s,ja-JP
+屬性 %s 應為 %s，但實際為 %s,プロパティ%sが%sであることが必要ですが、%sでした,ja-JP
+已將結構儲存為 '%s',構造物が「%s」として保存されました,ja-JP
+已從 '%s' 載入結構,「%s」から構造物を読み込みました,ja-JP
+已成功偵測 '%s' 的大小,「%s」のサイズが正常に検出されました,ja-JP
+应为%s个%s类型的物品：实际为%s个,タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+应为%s类型的物品,タイプ%sのアイテムが必要です,ja-JP
+应存在方块%s,ブロック%sが存在する必要があります,ja-JP
+应有%s个类型为%s的实体：实际有%s个,タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+"当此拼图方块连接到部件时，此处即为在更大的结构中各部件处理连接的顺序。
+
+部件按照优先级由高到低处理，若优先级相同，则按照插入顺序处理。","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"当父级片段处理连接时，此处即为各拼图方块尝试连接目标部件的顺序。
+
+拼图方块将会按照优先级由高到低处理，同级则随机处理。","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+應存在方塊 %s,ブロック%sが存在する必要があります,ja-JP
+應為 %s,%sが必要です,ja-JP
+應為類型 %s 的物品,タイプ%sのアイテムが必要です,ja-JP
+成功于无效的刻：应为%s,無効なティックにおいて成功しました。%sでなければなりません,ja-JP
+成功于预期的刻之前：应等待%s,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+成功从“%s”中加载结构,「%s」から構造物を読み込みました,ja-JP
+成功将结构保存为“%s”,構造物が「%s」として保存されました,ja-JP
+找到非預期的方塊類型：%s,予期せぬブロックタイプが検出されました：%s,ja-JP
+拼接类型：,接続タイプ：,ja-JP
+拼接類型：,接続タイプ：,ja-JP
+指定的方块不是方块物品,指定のブロックはブロックアイテムではありません,ja-JP
+指定的方塊不是方塊物品,指定のブロックはブロックアイテムではありません,ja-JP
+探测,検出,ja-JP
+探测结构大小和位置：,構造物の大きさと位置を検出：,ja-JP
+接受,認証,ja-JP
+接受模式 - 接受（部分）测试的成功,認証モード - テスト（の一部）の成功を認証します,ja-JP
+接受模式 ─ 接受測試（部分）成功,認証モード - テスト（の一部）の成功を認証します,ja-JP
+放置优先级：,設置優先度：,ja-JP
+放置優先順序：,設置優先度：,ja-JP
+数据模式,データ,ja-JP
+数据模式 — 游戏逻辑标记,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+数据：%s,データ：%s,ja-JP
+方块不应为%s,ブロックが%sであることは予期されていません,ja-JP
+方块应为%s：实际为%s,ブロック%sが必要ですが、%sが検出されました,ja-JP
+方块应在#%s中：实际为%s,#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+方塊不應為 %s,ブロックが%sであることは予期されていません,ja-JP
+方塊應在 #%s 中，但實際為 %s,#%sに含まれるブロックが必要ですが、%sが検出されました,ja-JP
+方塊應為 %s，但實際為 %s,ブロック%sが必要ですが、%sが検出されました,ja-JP
+旋轉角度：,回転：,ja-JP
+旋转角度：,回転：,ja-JP
+无效的时限（%s），刻数必须为正数,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+无效的测试ID,無効なテストID,ja-JP
+无效的结构名“%s”,「%s」は無効な構造物名です,ja-JP
+"无法保存%s, %s, %s处测试实例的测试结构模板","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+无法保存结构“%s”,構造物「%s」を保存できません,ja-JP
+无法检测结构大小。请放置与结构名称对应的角落结构方块,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+日志输出,ログ,ja-JP
+日志输出模式 - 将消息输出到日志,ログモード - メッセージをログに出力します,ja-JP
+显示边框：,境界線を表示する：,ja-JP
+显示隐形方块：,見えないブロックを表示する：,ja-JP
+未在 %s 刻內成功或失敗,%sティック以内に成功も失敗もしませんでした。,ja-JP
+未在%s刻内成功或失败,%sティック以内に成功も失敗もしませんでした。,ja-JP
+未知的內部錯誤：%s,不明な内部エラーです：%s,ja-JP
+未知的内部错误：%s,不明な内部エラーです：%s,ja-JP
+条件已在%s刻时触发,条件がすでに%sでトリガーされています,ja-JP
+条件未触发,条件がトリガーされていません,ja-JP
+條件已在 %s 刻時觸發,条件がすでに%sでトリガーされています,ja-JP
+條件未觸發,条件がトリガーされていません,ja-JP
+正在启动测试%s,テスト%sを開始します,ja-JP
+正在啟動測試 %s,テスト%sを開始します,ja-JP
+此测试不存在,そのテストは存在しません,ja-JP
+沒有名為 '%s' 的結構,構造物「%s」は利用できません,ja-JP
+"沒有測試結構，無法在 %s, %s, %s 處執行測試實例","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+"没有测试结构，无法在%s, %s, %s处运行测试实例","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+测试在序列完成前超时,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+"测试坐标：[%s, %s, %s]，位于%s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+测试实例ID,テストインスタンスID,ja-JP
+测试结构大小,テスト構造物のサイズ,ja-JP
+测试结构缺少%s方块,テスト構造物に%sブロックがありません,ja-JP
+测试重置成功：%s,テストのリセットが成功しました：%s,ja-JP
+消息：,メッセージ：,ja-JP
+測試不存在,そのテストは存在しません,ja-JP
+測試在序列完成前已逾時,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+測試實例 ID,テストインスタンスID,ja-JP
+"測試座標：[%s, %s, %s]，位於 %s","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+測試結構大小,テスト構造物のサイズ,ja-JP
+測試結構缺少 %s 方塊,テスト構造物に%sブロックがありません,ja-JP
+測試重設成功：%s,テストのリセットが成功しました：%s,ja-JP
+满足失败条件,失敗条件が満たされました,ja-JP
+滿足失敗條件,失敗条件が満たされました,ja-JP
+無效的時間限制 (%s) - 刻數須為正數,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+無效的測試 ID,無効なテストID,ja-JP
+無效的結構名稱 '%s',「%s」は無効な構造物名です,ja-JP
+無法偵測結構大小。請添加與結構名稱對應的角落,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+無法儲存結構 '%s',構造物「%s」を保存できません,ja-JP
+"無法在 %s, %s, %s 處儲存測試實例的測試結構模板","%s, %s, %sにあるテストインスタンスのテスト構造物テンプレートを保存できません",ja-JP
+無法建立實體 %s,エンティティ%sの作成に失敗しました,ja-JP
+無法為 %s 放置測試結構,%sのテスト構造物の設置に失敗しました,ja-JP
+無法設定測試的生態域,テストに向けたバイオームの設定に失敗しました,ja-JP
+物品不应为类型%s,タイプ%sのアイテムは予期されていません,ja-JP
+物品不應為類型 %s,タイプ%sのアイテムは予期されていません,ja-JP
+状态错误。应为%s：实际为%s,状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+狀態錯誤。應為 %s，但實際為 %s,状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+"玩家坐标：[%s, %s, %s]，位于%s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+"玩家座標：[%s, %s, %s]，位於 %s","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+环境：%s,環境：%s,ja-JP
+"當此拼圖方塊連接到某個部件時，此處即為在更大的結構中各部件的處理連接的順序。
+
+部件依照優先順序由高到低處理，若優先順序相同，則依插入順序處理。","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+"當父級部件處理連接時，此處即為拼圖方塊嘗試連接到目標部件的順序。
+
+拼圖方塊會依照優先順序由高到低處理，若優先順序相同，則依隨機順序處理。","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+目标名称：,対象の名前：,ja-JP
+目标池：,構成要素プール：,ja-JP
+目標名稱：,対象の名前：,ja-JP
+目標池：,構成要素プール：,ja-JP
+相对X坐标,X軸方向の相対座標,ja-JP
+相对Y坐标,Y軸方向の相対位置,ja-JP
+相对Z坐标,Z軸方向の相対位置,ja-JP
+相对位置,相対位置,ja-JP
+相對位置,相対位置,ja-JP
+类型：%s,タイプ：%s,ja-JP
+結構 '%s' 的位置已準備就緒,構造物「%s」の位置が準備されました,ja-JP
+結構名稱,構造物名,ja-JP
+結構大小,構造物のサイズ,ja-JP
+結構完整度及種子碼,構造物の完全性とシード値,ja-JP
+結構完整性,構造物の完全性,ja-JP
+結構種子碼,構造物のシード値,ja-JP
+結構：%s,構造物：%s,ja-JP
+維度：%s,ディメンション：%s,ja-JP
+结构X轴大小,X軸方向の構造物のサイズ,ja-JP
+结构Y轴大小,Y軸方向の構造物のサイズ,ja-JP
+结构Z轴大小,Z軸方向の構造物のサイズ,ja-JP
+结构“%s”的加载位置已就绪,構造物「%s」の位置が準備されました,ja-JP
+结构名称,構造物名,ja-JP
+结构大小,構造物のサイズ,ja-JP
+结构完整性,構造物の完全性,ja-JP
+结构完整性及种子,構造物の完全性とシード値,ja-JP
+结构种子,構造物のシード値,ja-JP
+结构：%s,構造物：%s,ja-JP
+维度：%s,ディメンション：%s,ja-JP
+缺少%s,%sが必要です,ja-JP
+缺少方块实体,ブロックエンティティが不足しています,ja-JP
+缺少方块属性。属性%s应为%s,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+缺少方塊實體,ブロックエンティティが不足しています,ja-JP
+缺少方塊屬性。屬性 %s 應為 %s,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+自定义数据标签名,カスタムデータタグ名,ja-JP
+自訂資料標籤名稱,カスタムデータタグ名,ja-JP
+角落,コーナー,ja-JP
+角落模式,コーナー,ja-JP
+角落模式 — 位置和大小标记,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+角落模式 ─ 位置及大小記號,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+角落：%s,コーナー：%s,ja-JP
+訊息：,メッセージ：,ja-JP
+記錄,ログ,ja-JP
+記錄模式 ─ 將紀錄輸出至記錄檔中,ログモード - メッセージをログに出力します,ja-JP
+设置测试生物群系失败,テストに向けたバイオームの設定に失敗しました,ja-JP
+資料,データ,ja-JP
+資料模式 ─ 遊戲邏輯記號,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+資料：%s,データ：%s,ja-JP
+載入,ロード,ja-JP
+載入,読み込み,ja-JP
+載入並執行,読み込んで実行,ja-JP
+載入模式 ─ 從檔案載入,ロードモード - ファイルからの読み込みを行います,ja-JP
+載入：%s,ロード：%s,ja-JP
+轉變為：,置換先：,ja-JP
+转变为：,置換先：,ja-JP
+选择优先级：,選択優先度：,ja-JP
+選擇優先順序：,選択優先度：,ja-JP
+重置并加载,リセットして読み込む,ja-JP
+重設並載入,リセットして読み込む,ja-JP
+錯誤的方塊實體類型：%s,ブロックエンティティタイプが間違っています：%s,ja-JP
+错误的方块实体类型：%s,ブロックエンティティタイプが間違っています：%s,ja-JP
+類型為 %2$s 的實體應有 %1$s 個，但實際為 %3$s 個,タイプ%2$sのエンティティ%1$s体が必要ですが、%3$sが検出されました,ja-JP
+類型為 %2$s 的物品應有 %1$s 個，但實際為 %3$s 個,タイプ%2$sのアイテム%1$s個が必要ですが、%3$sが検出されました,ja-JP
+類型：%s,タイプ：%s,ja-JP
+顯示定界框：,境界線を表示する：,ja-JP
+顯示隱形方塊：,見えないブロックを表示する：,ja-JP
+감지,検出,ja-JP
+"개체 데이터가 %s(이)어야 하는데, %s(이)었습니다",エンティティデータは%sでなければなりませんが、%sでした,ja-JP
+개체 보관함이 %s을(를) 포함해아 합니다,エンティティのインベントリには%sが入っている必要があります,ja-JP
+개체 포함:,エンティティを含めるかどうか：,ja-JP
+개체:,エンティティ：,ja-JP
+개체가 %s을(를) 들고 있어야 합니다,エンティティは%sを手に持っている必要があります,ja-JP
+결합 유형:,接続タイプ：,ja-JP
+경계 상자 표시:,境界線を表示する：,ja-JP
+고정,整列,ja-JP
+구조물 '%s'의 위치가 준비되었습니다,構造物「%s」の位置が準備されました,ja-JP
+구조물 설치 전에 테스트를 틱하려 했습니다,構造物が未設置の状態でティック処理が実行されました,ja-JP
+구조물 시드,構造物のシード値,ja-JP
+구조물 온전도,構造物の完全性,ja-JP
+구조물 온전도 및 시드,構造物の完全性とシード値,ja-JP
+구조물 이름,構造物名,ja-JP
+구조물 저장,構造物を保存,ja-JP
+구조물 크기,構造物のサイズ,ja-JP
+구조물 크기 x,X軸方向の構造物のサイズ,ja-JP
+구조물 크기 y,Y軸方向の構造物のサイズ,ja-JP
+구조물 크기 z,Z軸方向の構造物のサイズ,ja-JP
+구조물 크기 및 위치 감지:,構造物の大きさと位置を検出：,ja-JP
+구조물 크기를 감지할 수 없습니다. 구조물 이름에 맞는 모서리들을 추가하세요,構造物のサイズを検出できません。同じ構造物名を入力した「コーナー」モードのストラクチャーブロックを設置してください。,ja-JP
+구조물: %s,構造物：%s,ja-JP
+구조물을 '%s'(으)로 저장할 수 없습니다,構造物「%s」を保存できません,ja-JP
+구조물을 '%s'에서 불러왔습니다,「%s」から構造物を読み込みました,ja-JP
+구조물이 '%s'(으)로 저장되었습니다,構造物が「%s」として保存されました,ja-JP
+기록,ログ,ja-JP
+기록 모드 - 메시지를 기록합니다,ログモード - メッセージをログに出力します,ja-JP
+내장 함수 테스트,ビルトイン関数型テスト,ja-JP
+다음으로 변화:,置換先：,ja-JP
+대상 이름:,対象の名前：,ja-JP
+대상 풀:,構成要素プール：,ja-JP
+데이터,データ,ja-JP
+데이터 모드 - 게임 논리 표지,データモード - 構造物ごとに固有の処理をマーキングします,ja-JP
+데이터: %s,データ：%s,ja-JP
+레벨: %s,レベル：%s,ja-JP
+메시지:,メッセージ：,ja-JP
+모서리,コーナー,ja-JP
+모서리 모드 - 설치 및 크기 표지,コーナーモード - 構造物のサイズと位置を標識します,ja-JP
+모서리: %s,コーナー：%s,ja-JP
+"부모 조각이 연결 처리될 때, 이 직소 블록이 대상 조각에 연결하려 시도하는 순서입니다.
+
+직소는 우선도 내림차순으로 처리되며, 우선도가 같은 경우 무작위 순서를 따릅니다.","この値は、一つ前のピースの接続相手の選択時におけるこのジグソーブロックの接続試行の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+불러오고 실행,読み込んで実行,ja-JP
+불러오기,ロード,ja-JP
+불러오기,読み込み,ja-JP
+불러오기 모드 - 파일에서 불러오기,ロードモード - ファイルからの読み込みを行います,ja-JP
+불러오기: %s,ロード：%s,ja-JP
+블록 %s이(가) 존재해야 합니다,ブロック%sが存在する必要があります,ja-JP
+블록 개체가 누락되었습니다,ブロックエンティティが不足しています,ja-JP
+블록 기반 테스트,ブロックベース型テスト,ja-JP
+블록 속성이 누락됐습니다. %s 속성이 %s이어야 합니다,ブロックプロパティが存在しません。プロパティ%sは%sでなければなりません,ja-JP
+사용자 지정 데이터 태그 이름,カスタムデータタグ名,ja-JP
+상대 위치 x,X軸方向の相対座標,ja-JP
+상대 위치 y,Y軸方向の相対位置,ja-JP
+상대 위치 z,Z軸方向の相対位置,ja-JP
+상대적 위치,相対位置,ja-JP
+생성,生成,ja-JP
+선택 우선도:,選択優先度：,ja-JP
+설치 우선도:,設置優先度：,ja-JP
+시작,開始,ja-JP
+시작 모드 - 테스트의 시작 지점입니다,開始モード - テストの起点となります,ja-JP
+시퀀스가 완료되기 전에 테스트가 시간 초과되었습니다,シーケンスが完了する前にテストがタイムアウトしました,ja-JP
+실패,失敗,ja-JP
+실패 모드 - 테스트를 실패시킵니다,失敗モード - テストを失敗させます,ja-JP
+실패 조건을 충족했습니다,失敗条件が満たされました,ja-JP
+실패: %s,失敗：%s,ja-JP
+알 수 없는 내부 오류: %s,不明な内部エラーです：%s,ja-JP
+엄격한 설치:,厳密な配置：,ja-JP
+예기치 않은 블록 유형입니다: %s,予期せぬブロックタイプが検出されました：%s,ja-JP
+예상된 %s보다 빨리 성공했습니다,予定のティックより早く成功しました。予想された待ち時間は%sでした,ja-JP
+용기가 다음을 포함해야 합니다: %s,コンテナには%sが入っている必要があります,ja-JP
+용기가 다음을 하나 포함해야 합니다: %s,コンテナには単一の%sが入っている必要があります,ja-JP
+용기가 비어 있어야 합니다,コンテナは空である必要があります,ja-JP
+유형: %s,タイプ：%s,ja-JP
+"이 직소 블록이 어떤 조각에 연결되었을 때, 더 큰 구조물에서 그 조각이 연결 처리되는 순서를 나타냅니다.
+
+조각들은 우선도 내림차순으로 처리되며, 우선도가 같은 경우 삽입 순서를 따릅니다.","この値は、大きな構造物の生成におけるこのジグソーブロックに接続するピースの処理の優先度です。
+
+構造物のピースはこの値が大きい順に処理されます。同じ値のピースの処理順はランダムです。",ja-JP
+이름:,名前：,ja-JP
+인정,認証,ja-JP
+인정 모드 - 테스트 (일부)의 성공을 인정합니다,認証モード - テスト（の一部）の成功を認証します,ja-JP
+잘못된 블록 개체 유형입니다: %s,ブロックエンティティタイプが間違っています：%s,ja-JP
+"잘못된 상태입니다. %s이(가) 필요한데, %s(이)었습니다",状態が間違っています。%sであることが必要ですが、%sでした,ja-JP
+잘못된 타임아웃입니다 (%s) - 양수 틱이어야 합니다,%sは無効なタイムアウト時間です。正の整数でティック数を指定してください,ja-JP
+잘못된 테스트 ID입니다,無効なテストID,ja-JP
+저장,セーブ,ja-JP
+저장,保存,ja-JP
+저장 모드 - 파일에 쓰기,セーブモード - ファイルへの書き込みを行います,ja-JP
+저장: %s,セーブ：%s,ja-JP
+"정의되지 않은 테스트를 가지고 있어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다","未定義のテストが存在しているため、%s, %s, %sでテストインスタンスを実行できません",ja-JP
+조건이 %s에 이미 발동했습니다,条件がすでに%sでトリガーされています,ja-JP
+조건이 발동하지 않았습니다,条件がトリガーされていません,ja-JP
+주어진 블록은 블록 아이템이 아닙니다,指定のブロックはブロックアイテムではありません,ja-JP
+직소 유지,ジグソーを維持,ja-JP
+차원: %s,ディメンション：%s,ja-JP
+초기화하고 불러오기,リセットして読み込む,ja-JP
+테스트 %s을(를) 시작합니다,テスト%sを開始します,ja-JP
+테스트 %s을(를) 초기화하는 데 성공했습니다,テストのリセットが成功しました：%s,ja-JP
+테스트 구조물 크기,テスト構造物のサイズ,ja-JP
+테스트 구조물에 %s 블록이 없습니다,テスト構造物に%sブロックがありません,ja-JP
+"테스트 구조물이 없어 %s, %s, %s에 있는 테스트 인스턴스를 실행할 수 없습니다","テスト構造物が設定されていないため、%s, %s, %sにあるテストインスタンスを実行できません",ja-JP
+테스트 안에 %s이(가) 있어야 합니다,%sがテスト内に存在している必要があります,ja-JP
+테스트 인스턴스 ID,テストインスタンスID,ja-JP
+"테스트 좌표: %4$s의 [%1$s, %2$s, %3$s]","テストの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+테스트를 위해 생물 군계를 설정하는 데 실패했습니다,テストに向けたバイオームの設定に失敗しました,ja-JP
+투명 블록 표시:,見えないブロックを表示する：,ja-JP
+"플레이어 좌표: %4$s의 [%1$s, %2$s, %3$s]","プレイヤーの座標：%4$s内の[%1$s, %2$s, %3$s]",ja-JP
+함수: %s,関数：%s,ja-JP
+해당하는 테스트 없음,そのテストは存在しません,ja-JP
+환경: %s,環境：%s,ja-JP
+회전 가능,回転可能,ja-JP
+회전:,回転：,ja-JP

@@ -1,0 +1,2583 @@
+﻿source,target,tgt_lng
+"
+Banimento válido até: %s","
+您的封鎖將於 %s 解除",zh-TW
+"
+Deine Sperre wird am %s aufgehoben","
+您的封鎖將於 %s 解除",zh-TW
+"
+El bloqueo acabará en %s","
+您的封鎖將於 %s 解除",zh-TW
+"
+Fecha de desbloqueo: %s","
+您的封鎖將於 %s 解除",zh-TW
+"
+Lệnh cấm sẽ hết hiệu lực vào %s","
+您的封鎖將於 %s 解除",zh-TW
+"
+Rimozione del ban: %s","
+您的封鎖將於 %s 解除",zh-TW
+"
+Votre bannissement prendra fin le %s","
+您的封鎖將於 %s 解除",zh-TW
+"
+Yasağınız %s tarihinde kalkacak","
+您的封鎖將於 %s 解除",zh-TW
+"
+Your ban will be removed on %s","
+您的封鎖將於 %s 解除",zh-TW
+"
+Ваша блокировка будет снята %s","
+您的封鎖將於 %s 解除",zh-TW
+"
+คุณจะได้รับการปลดแบนเมื่อ %s","
+您的封鎖將於 %s 解除",zh-TW
+"
+アクセスの禁止は%sに解除されます","
+您的封鎖將於 %s 解除",zh-TW
+"
+你的封禁将于%s解除","
+您的封鎖將於 %s 解除",zh-TW
+"
+차단은 %s에 해제됩니다","
+您的封鎖將於 %s 解除",zh-TW
+"""%s"" sera perdu pour toujours ! (Très longtemps !)",「%s」將會永遠消失！（非常久！）,zh-TW
+"""%s"" será perdido para sempre! (é muito tempo!)",「%s」將會永遠消失！（非常久！）,zh-TW
+%2$s人のうち%1$s人のプレイヤーがオンラインです,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%2$s명 중 %1$s명 접속 중,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+"%s
+
+Mensagem do servidor:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+Mensaje del servidor:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+Message du serveur :
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+Message from server:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+Messaggio dal server:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+Nachricht vom Server:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+Sunucu iletisi:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+Tin nhắn từ máy chủ:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+Сообщение сервера:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+ข้อความจากเซิร์ฟเวอร์:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+サーバーからのメッセージ：
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+来自服务器的消息：
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+"%s
+
+서버에서 보낸 메시지:
+%s","%s
+
+訊息來自於以下伺服器：
+%s",zh-TW
+%s (anciennement connu(e) sous le nom de %s) a rejoint la partie,%s （之前是 %s）加入了遊戲,zh-TW
+%s (antes conocido como %s) se ha unido a la partida,%s （之前是 %s）加入了遊戲,zh-TW
+%s (eski adıyla %s) oyuna katıldı,%s （之前是 %s）加入了遊戲,zh-TW
+%s (formerly known as %s) joined the game,%s （之前是 %s）加入了遊戲,zh-TW
+%s (früher bekannt als %s) hat das Spiel betreten,%s （之前是 %s）加入了遊戲,zh-TW
+%s (in precedenza %s) è ora nella partita,%s （之前是 %s）加入了遊戲,zh-TW
+%s (previamente como %s) entrou no jogo,%s （之前是 %s）加入了遊戲,zh-TW
+%s (trước đây gọi là %s) đã tham gia trò chơi,%s （之前是 %s）加入了遊戲,zh-TW
+%s (ранее известный как %s) присоединился к игре,%s （之前是 %s）加入了遊戲,zh-TW
+%s (แต่เดิมชื่อ %s) เข้าร่วมเกม,%s （之前是 %s）加入了遊戲,zh-TW
+%s a quitté la partie,%s 離開了遊戲,zh-TW
+%s a rejoint la partie,%s 加入了遊戲,zh-TW
+%s de %s jogadores online,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%s de %s jugadores en línea,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%s entrou no jogo,%s 加入了遊戲,zh-TW
+%s ha abandonado la partida,%s 離開了遊戲,zh-TW
+%s ha abbandonato la partita,%s 離開了遊戲,zh-TW
+%s hat das Spiel betreten,%s 加入了遊戲,zh-TW
+%s hat das Spiel verlassen,%s 離開了遊戲,zh-TW
+%s joined the game,%s 加入了遊戲,zh-TW
+%s joueurs sur %s en ligne,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%s left the game,%s 離開了遊戲,zh-TW
+%s LP,%s 生命值,zh-TW
+%s ms,%s 毫秒,zh-TW
+%s ms (miligiây),%s 毫秒,zh-TW
+%s out of %s players online,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%s oyuna katıldı,%s 加入了遊戲,zh-TW
+%s oyundan ayrıldı,%s 離開了遊戲,zh-TW
+%s PS,%s 生命值,zh-TW
+%s PV,%s 生命值,zh-TW
+%s saiu do jogo,%s 離開了遊戲,zh-TW
+%s se ha unido a la partida,%s 加入了遊戲,zh-TW
+%s trên %s người chơi đang trực tuyến,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%s von %s Spielern online,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%s è ora nella partita,%s 加入了遊戲,zh-TW
+%s đã rời trò chơi,%s 離開了遊戲,zh-TW
+%s đã tham gia trò chơi,%s 加入了遊戲,zh-TW
+%s из %s игроков в сети,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%s мс,%s 毫秒,zh-TW
+%s покинул игру,%s 離開了遊戲,zh-TW
+%s присоединился к игре,%s 加入了遊戲,zh-TW
+%s ออกจากเกม,%s 離開了遊戲,zh-TW
+%s เข้าร่วมเกม,%s 加入了遊戲,zh-TW
+%s(본래 %s)이(가) 게임에 참여했습니다,%s （之前是 %s）加入了遊戲,zh-TW
+%s/%s oyuncu çevrim içi,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%shp,%s 生命值,zh-TW
+%sms,%s 毫秒,zh-TW
+%sоз,%s 生命值,zh-TW
+%sがゲームに参加しました,%s 加入了遊戲,zh-TW
+%sがゲームを退出しました,%s 離開了遊戲,zh-TW
+%s加入了游戏,%s 加入了遊戲,zh-TW
+%s名玩家在线，共%s名玩家,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+%s毫秒,%s 毫秒,zh-TW
+%s生命值,%s 生命值,zh-TW
+%s退出了游戏,%s 離開了遊戲,zh-TW
+%s이(가) 게임에 참여했습니다,%s 加入了遊戲,zh-TW
+%s이(가) 게임을 떠났습니다,%s 離開了遊戲,zh-TW
+%s（之前被称为%s）加入了游戏,%s （之前是 %s）加入了遊戲,zh-TW
+%s（旧名%s）がゲームに参加しました,%s （之前是 %s）加入了遊戲,zh-TW
+%s／%s,%s/%s,zh-TW
+'%s' sonsuza kadar kaybolacak! (Uzun bir süre!),「%s」將會永遠消失！（非常久！）,zh-TW
+'%s' sẽ bị mất vĩnh viễn! (một thời gian dài!),「%s」將會永遠消失！（非常久！）,zh-TW
+'%s' will be lost forever! (A long time!),「%s」將會永遠消失！（非常久！）,zh-TW
+'%s' จะหายไปตลอดกาล! (นานมาก!),「%s」將會永遠消失！（非常久！）,zh-TW
+'%s'이(가) 영원히 사라지게 됩니다!,「%s」將會永遠消失！（非常久！）,zh-TW
+(aucune connexion),（未連線）,zh-TW
+(bağlantı yok),（未連線）,zh-TW
+(connessione assente),（未連線）,zh-TW
+(Gizli),（隱藏）,zh-TW
+(Hidden),（隱藏）,zh-TW
+(IP oculta),（隱藏）,zh-TW
+(keine Verbindung),（未連線）,zh-TW
+(không có kết nối),（未連線）,zh-TW
+(Masquée),（隱藏）,zh-TW
+(Nascosto),（隱藏）,zh-TW
+(no connection),（未連線）,zh-TW
+(oculto),（隱藏）,zh-TW
+(sem conexão),（未連線）,zh-TW
+(sin conexión),（未連線）,zh-TW
+(versteckt),（隱藏）,zh-TW
+(Đã ẩn đi),（隱藏）,zh-TW
+(нет соединения),（未連線）,zh-TW
+(Скрыт),（隱藏）,zh-TW
+(ซ่อนอยู่),（隱藏）,zh-TW
+(ไม่มีการเชื่อมต่อ),（未連線）,zh-TW
+(숨겨짐),（隱藏）,zh-TW
+(연결 없음),（未連線）,zh-TW
+... and %s more ...,... 以及另外 %s 人 ...,zh-TW
+... e altri %s ...,... 以及另外 %s 人 ...,zh-TW
+... e mais %s...,... 以及另外 %s 人 ...,zh-TW
+... et %s de plus...,... 以及另外 %s 人 ...,zh-TW
+... ve %s daha ...,... 以及另外 %s 人 ...,zh-TW
+... và %s người nữa ...,... 以及另外 %s 人 ...,zh-TW
+... y %s más ...,... 以及另外 %s 人 ...,zh-TW
+... и ещё %s ...,... 以及另外 %s 人 ...,zh-TW
+... และเพิ่มเติมอีก %s คน ...,... 以及另外 %s 人 ...,zh-TW
+... 외 %s명,... 以及另外 %s 人 ...,zh-TW
+?,???,zh-TW
+A conexão com o servidor será interrompida ao recusar esse pacote de recursos personalizado.,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+A conexão falhou ao transferir para o servidor,轉移至伺服器時連線失敗,zh-TW
+Abfrage,提示,zh-TW
+Abfragen …,Pinging...,zh-TW
+Abgebrochen,已中止,zh-TW
+Abgebrochen,已取消,zh-TW
+Aborted,已中止,zh-TW
+Accesso diretto,直接連線,zh-TW
+Accesso in corso...,登入中...,zh-TW
+Accesso non riuscito: %s,登入失敗：%s,zh-TW
+Activado,已啟用,zh-TW
+Activés,已啟用,zh-TW
+Actualiser,重新整理,zh-TW
+Actualizar,重新整理,zh-TW
+Add Server,新增伺服器,zh-TW
+Adicionar servidor,新增伺服器,zh-TW
+Adresse du serveur,伺服器位址,zh-TW
+"Adınızda sohbet mesajı gönderecek bir komut yürütmeye çalışıyorsunuz.
+Bu sadece sohbet ekranından çalıştırılabilir.
+Komut: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+Aggiorna,重新整理,zh-TW
+Aggiungi server,新增伺服器,zh-TW
+Aggiungi un server,新增伺服器,zh-TW
+Ajout d'un serveur,新增伺服器,zh-TW
+Ajustes para otros jugadores,對其他玩家的設定,zh-TW
+Ajustes para outros jogadores,對其他玩家的設定,zh-TW
+Aktiviert,已啟用,zh-TW
+Aktualisieren,重新整理,zh-TW
+Alzati dal letto,起床,zh-TW
+An einen anderen Server übertragen,已轉移至另一個伺服器,zh-TW
+Anfitrión desconocido,未知的主機,zh-TW
+Ankündigungen,公告,zh-TW
+Anlaşma yapılıyor...,協議中...,zh-TW
+Anmelden …,登入中...,zh-TW
+Anmeldung fehlgeschlagen: %s,登入失敗：%s,zh-TW
+Annonces,公告,zh-TW
+Announcements,公告,zh-TW
+Annulé,已取消,zh-TW
+Annunci,公告,zh-TW
+Anonim Oyuncu,匿名玩家,zh-TW
+Anonymer Spieler,匿名玩家,zh-TW
+Anonymous Player,匿名玩家,zh-TW
+Anuncios,公告,zh-TW
+Any functionality that requires custom resources might not work as expected,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+Anúncios,公告,zh-TW
+Apagar,刪除,zh-TW
+Aplicando pacote de recursos,正在套用資源包,zh-TW
+Aplicando paquete de recursos,正在套用資源包,zh-TW
+Application du pack de ressources...,正在套用資源包,zh-TW
+Applicazione del pacchetto di risorse...,正在套用資源包,zh-TW
+Applying resource pack,正在套用資源包,zh-TW
+Apri il mondo in rete locale,開始區網世界,zh-TW
+Arazi yükleniyor...,正在載入地形...,zh-TW
+Are you sure you want to remove this server?,你確定要移除這個伺服器嗎？,zh-TW
+As interações sociais só estão disponíveis em mundos multijogador,社群交流僅適用於多人遊戲世界,zh-TW
+As mensagens enviadas nesse servidor podem ser modificadas e diferir do conteúdo original da mensagem,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+"Assinatura inválida para a chave pública do perfil.
+Tente reiniciar seu jogo.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"Assinatura inválida para a chave pública do perfil.
+Tente reiniciar seu jogo.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+Assistance,支援,zh-TW
+Assistenza,支援,zh-TW
+"Atención: El juego en línea está provisto de servidores de terceros los cuales no son propiedad de Mojang Studios ni Microsoft, ni están administrados ni supervisados por ellos. Mientras juegas en línea puedes estar expuesto a mensajes de texto sin moderar u otro tipo de contenido generado por la comunidad que puede no ser apropiado para todos los usuarios.",警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+Atención: Juego en línea de terceros,警告：第三方遊戲伺服器,zh-TW
+Atenção: modo online de terceiros,警告：第三方遊戲伺服器,zh-TW
+"Atenção: o modo online é oferecido por servidores de terceiros não pertencentes e não operados ou supervisionados pela Mojang Studios ou pela Microsoft. No modo online, você poderá encontrar mensagens de chat não moderadas ou outros tipos de conteúdo criado por usuários que podem não ser adequados para todos.",警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+Attempting to attack an invalid entity,試圖攻擊無效的實體,zh-TW
+Attention : jeu en ligne tiers,警告：第三方遊戲伺服器,zh-TW
+"Attention : le jeu en ligne est proposé par des serveurs tiers qui ne sont pas détenus, exploités ou supervisés par Mojang Studios ou Microsoft. Durant le jeu en ligne, vous pouvez être exposé(e) à des messages non modérés dans le tchat ou à d'autres types de contenu généré par les utilisateurs qui peuvent ne pas convenir à tout le monde.",警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+Attenzione! Gioco in rete di terze parti,警告：第三方遊戲伺服器,zh-TW
+"Attenzione! Il gioco in rete è offerto da server di terze parti che non sono di proprietà, gestiti o controllati da Mojang Studios o da Microsoft. Durante il gioco in rete, potresti trovare messaggi in chat non moderati o altri tipi di contenuti generati da utenti che potrebbero non essere adatti a tutti.",警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+Atualizar,重新整理,zh-TW
+Atualização de status não solicitada recebida,接收到未請求的資訊,zh-TW
+Aufstehen,起床,zh-TW
+Aushandeln …,協議中...,zh-TW
+Authentication servers are down. Please try again later. Sorry!,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+Avvia la partita in rete locale,區網世界,zh-TW
+Açık,已啟用,zh-TW
+Añadir servidor,新增伺服器,zh-TW
+Ağ Protokolü Hatası,網路協定錯誤,zh-TW
+Ban da un operatore,已被管理員封鎖。,zh-TW
+Banimento por um operador.,已被管理員封鎖。,zh-TW
+Banned by an operator.,已被管理員封鎖。,zh-TW
+Banni(e) par un opérateur,已被管理員封鎖。,zh-TW
+Bağlantı isteğinin süresi doldu,連線要求逾時,zh-TW
+Bağlantı kesildi,連線中斷,zh-TW
+Bağlantı koptu,失去連線,zh-TW
+Bağlantı kuruluyor...,正在建立連線...,zh-TW
+"Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"Bağlantı noktası geçersiz.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+"Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya %s ve %s arasında farklı bir sayı girin.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"Bağlantı noktası kullanılamıyor.
+Düzenleme kutusunu boş bırakın veya 1024 ve 65535 arasında farklı bir sayı girin.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+Bağlantı Noktası Numarası,連接埠號碼,zh-TW
+Bağlantı sonu,數據傳送終止,zh-TW
+Bağlantı sınanıyor...,Pinging...,zh-TW
+Başka bir konumdan oturum açtınız,您已從其他位置登入,zh-TW
+Başka bir sunucuya aktarıldı,已轉移至另一個伺服器,zh-TW
+Bearbeiten,編輯,zh-TW
+Befehl ausführen,執行指令,zh-TW
+Befehlsausführung bestätigen,確認執行指令,zh-TW
+Benutzername konnte nicht überprüft werden!,無法驗證使用者名稱！,zh-TW
+Bilinmeyen sunucu,未知的主機,zh-TW
+Bir yönetici tarafından atıldın,已被管理員踢出,zh-TW
+Bir yönetici tarafından sunucuya girmen yasaklandı.,已被管理員封鎖。,zh-TW
+"Bist du sicher, dass du diesen Server entfernen möchtest?",你確定要移除這個伺服器嗎？,zh-TW
+Bitti,完成,zh-TW
+Bloqueado/a por un administrador.,已被管理員封鎖。,zh-TW
+Bu ad zaten alınmış,該名稱已被使用,zh-TW
+Bu Davranış Kurallarını tekrar gösterme,不再通知本行為準則,zh-TW
+Bu ekranı bir daha gösterme,不再顯示此畫面,zh-TW
+Bu sunucu aktarımları kabul etmiyor,伺服器不接受轉移,zh-TW
+Bu sunucu özel bir kaynak paketi kullanımı gerektiriyor.,此伺服器要求使用其自訂的資源包。,zh-TW
+Bu sunucu özel bir kaynak paketini kullanmayı öneriyor.,此伺服器建議使用其自訂的資源包。,zh-TW
+"Bu sunucu, özel bir kaynak paketi gerektiriyor",伺服器要求使用其自訂的資源包,zh-TW
+Bu sunucuda gönderilen iletiler değiştirilebilir ve iletinin aslını yansıtmayabilir,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+Bu sunucudan yasaklandınız,您已經被這個伺服器封鎖,zh-TW
+"Bu sunucudan yasaklandınız.
+Sebep: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+Bu sunucunun beyaz listesinde değilsiniz!,你不在這個伺服器的白名單中！,zh-TW
+Bu sunucuyu kaldırmak istediğinizden emin misin?,你確定要移除這個伺服器嗎？,zh-TW
+"Bu özel kaynak paketini reddetmek, sunucuyla olan bağlantınızı kesecek.",拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+Buscando mundos en LAN,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+Báo lỗi máy chủ,回報伺服器錯誤,zh-TW
+Bạn có muốn tải về và tự động cài đặt nó một cách kì diệu không?,您是否希望它自動下載並安裝？,zh-TW
+Bạn không nằm trong danh sách trắng của máy chủ này!,你不在這個伺服器的白名單中！,zh-TW
+Bạn vẫn chắc chắn muốn loại bỏ máy chủ này chứ?,你確定要移除這個伺服器嗎？,zh-TW
+"Bạn đang cố thực thi một lệnh không nhận dạng được hoặc không hợp lệ.
+Bạn vẫn chắc chắn chứ?
+Lệnh: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+"Bạn đang cố thực thi một lệnh mà sẽ gửi tin nhắn trò chuyện bằng tên của bạn.
+Lệnh này chỉ có thể chạy từ màn hình trò chuyện.
+Lệnh: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"Bạn đang cố thực thi một lệnh yêu cầu quyền nâng cao.
+Điều này có thể ảnh hưởng tiêu cực trò chơi của bạn.
+Bạn vẫn chắc chắn chứ?
+Lệnh: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+Bạn đã bị cấm chơi trực tuyến,您已被禁止遊玩多人遊戲,zh-TW
+Bạn đã bị cấm IP khỏi máy chủ này,您的 IP 位址已被這個伺服器封鎖,zh-TW
+Bạn đã bị cấm khỏi máy chủ này,您已經被這個伺服器封鎖,zh-TW
+"Bạn đã bị cấm khỏi máy chủ này.
+Lí do: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+Bạn đã đăng nhập từ một vị trí khác,您已從其他位置登入,zh-TW
+Bạn đã đứng yên quá lâu!,您的閒置時間過長！,zh-TW
+Bắt đầu thế giới mạng LAN,開始區網世界,zh-TW
+Bị dư dữ liệu tuỳ chỉnh từ máy khách,從用戶端接收到預期外的自訂資料,zh-TW
+Bị mất kết nối,連線中斷,zh-TW
+Calculando latência...,Pinging...,zh-TW
+Can't connect to server,無法連線到伺服器,zh-TW
+Can't deliver chat message; check server logs: %s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+Can't resolve hostname,無法解析主機名稱,zh-TW
+Cancelada,已取消,zh-TW
+Cancelado,已取消,zh-TW
+Cancelled,已取消,zh-TW
+Caracteres no permitidos en el chat,聊天欄中出現不允許的字元,zh-TW
+Caracteres não permitidos no chat,聊天欄中出現不允許的字元,zh-TW
+Caractères interdits dans le tchat,聊天欄中出現不允許的字元,zh-TW
+Caratteri non consentiti in chat,聊天欄中出現不允許的字元,zh-TW
+Cargando el terreno...,正在載入地形...,zh-TW
+Caricamento del terreno...,正在載入地形...,zh-TW
+Carregando terreno...,正在載入地形...,zh-TW
+"Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone.",警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+Caution: Third-Party Online Play,警告：第三方遊戲伺服器,zh-TW
+Ce nom est déjà pris,該名稱已被使用,zh-TW
+Ce serveur n'accepte pas les transferts,伺服器不接受轉移,zh-TW
+Ce serveur recommande l'utilisation d'un pack de ressources personnalisé.,此伺服器建議使用其自訂的資源包。,zh-TW
+Ce serveur requiert l'utilisation d'un pack de ressources personnalisé.,此伺服器要求使用其自訂的資源包。,zh-TW
+Ce serveur requiert un pack de ressources personnalisé,伺服器要求使用其自訂的資源包,zh-TW
+Chargement du terrain...,正在載入地形...,zh-TW
+Chat message validation failure,聊天訊息驗證失敗,zh-TW
+Chat messages can't be verified,無法驗證聊天訊息,zh-TW
+Chatnachricht konnte nicht zugestellt werden; Bitte Protokolldateien des Servers prüfen: %s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+Chatnachrichten sind nicht überprüfbar,無法驗證聊天訊息,zh-TW
+Chave pública do perfil expirada. Verifique se a hora do seu sistema está sincronizada e reinicie o jogo.,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+Chiedi,提示,zh-TW
+Chiffrement en cours...,加密中...,zh-TW
+Chiusura in corso...,正在離開,zh-TW
+Chú ý: Chơi trực tuyến bên thứ ba,警告：第三方遊戲伺服器,zh-TW
+"Chú ý: Việc chơi trực tuyến được cung cấp bởi máy chủ bên thứ ba không được sở hữu, điều hành hoặc giám sát bởi Mojang Studios hoặc Microsoft. Trong suốt quá trình chơi trực tuyến, bạn có thể tiếp xúc với tin nhắn trò chuyện không được kiểm duyệt hoặc loại nội dung khác được người dùng tạo ra có thể không phù hợp với tất cả mọi người.",警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+Chơi mạng,進行多人遊戲,zh-TW
+Chơi mạng đã bị tắt. Hãy kiểm tra cài đặt tài khoản Microsoft của bạn.,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+Chạy lệnh,執行指令,zh-TW
+Chỉnh sửa,編輯,zh-TW
+Chỉnh sửa thông tin máy chủ,編輯伺服器資訊,zh-TW
+"Chữ kí không hợp lệ cho mã khoá công khai của tài khoản.
+Hãy thử khởi động lại trò chơi của bạn.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"Chữ kí không hợp lệ cho mã khoá công khai của tài khoản. 
+Hãy thử khởi động lại trò chơi của bạn.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+Client incompatibile! Usa la versione %s,用戶端不相容！請使用 %s,zh-TW
+Client incompatible ! Veuillez utiliser la %s,用戶端不相容！請使用 %s,zh-TW
+Cliente incompatível! Use a versão %s,用戶端不相容！請使用 %s,zh-TW
+Clé publique du profil expirée. Vérifiez que l'heure de votre système est synchronisée puis essayez de redémarrer le jeu.,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+Code de conduite du serveur,伺服器行為準則,zh-TW
+Codice di condotta del server,伺服器行為準則,zh-TW
+Collettività,社群,zh-TW
+Commentaires,意見回饋,zh-TW
+Communauté,社群,zh-TW
+Community,社群,zh-TW
+Community Guidelines,社群規範,zh-TW
+Comprobando conexión...,Pinging...,zh-TW
+Comunidad,社群,zh-TW
+Comunidade,社群,zh-TW
+Concluído,完成,zh-TW
+Conectando con el servidor...,正在連線到伺服器...,zh-TW
+Conectando-se ao servidor...,正在連線到伺服器...,zh-TW
+Conectando...,協議中...,zh-TW
+Conexión cancelada,已中止,zh-TW
+Conexión directa,直接連線,zh-TW
+Conexión perdida,失去連線,zh-TW
+Conexão direta,直接連線,zh-TW
+Conexão perdida,失去連線,zh-TW
+Conferma l'esecuzione del comando,確認執行指令,zh-TW
+Confirm Command Execution,確認執行指令,zh-TW
+Confirmar ejecución del comando,確認執行指令,zh-TW
+Confirmar execução do comando,確認執行指令,zh-TW
+Confirmation de l'exécution d'une commande,確認執行指令,zh-TW
+"Conjunto de marcações incompletas recebidas do servidor.
+Fale com um operador do servidor.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+Connecting to the server...,正在連線到伺服器...,zh-TW
+Connection failed while transferring to the server,轉移至伺服器時連線失敗,zh-TW
+Connection Lost,失去連線,zh-TW
+Connection request timed out,連線要求逾時,zh-TW
+Connessione al server non riuscita,與伺服器連線失敗,zh-TW
+Connessione al server...,正在連線到伺服器...,zh-TW
+Connessione annullata,已取消,zh-TW
+Connessione interrotta,連線中斷,zh-TW
+Connessione non riuscita durante il trasferimento al server,轉移至伺服器時連線失敗,zh-TW
+Connessione persa,失去連線,zh-TW
+Connessione scaduta,連線逾時,zh-TW
+Connexion au serveur...,正在連線到伺服器...,zh-TW
+Connexion en cours...,登入中...,zh-TW
+Connexion interrompue,已中止,zh-TW
+Connexion perdue,失去連線,zh-TW
+Connexion rapide,直接連線,zh-TW
+Copia nella chat,複製到聊天欄,zh-TW
+Copiar a la pantalla de chat,複製到聊天欄,zh-TW
+Copiar para o chat,複製到聊天欄,zh-TW
+Copier dans le tchat,複製到聊天欄,zh-TW
+Copy to Chat Screen,複製到聊天欄,zh-TW
+Couldn't connect to player,無法連線至該玩家,zh-TW
+Criptografando...,加密中...,zh-TW
+Crittografia in corso...,加密中...,zh-TW
+Cualquier funcionalidad que requiera recursos personalizados puede no funcionar como se espera,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+Cài đặt cho người chơi khác,對其他玩家的設定,zh-TW
+Các máy chủ xác thực hiện không thể truy cập được. Vui lòng thử lại.,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+Các tin nhắn được gửi trên máy chủ này có thể bị sửa đổi và không phản ánh đúng nội dung gốc,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+Có kí tự không hợp lệ trong trò chuyện,聊天欄中出現不允許的字元,zh-TW
+Código de conducta del servidor,伺服器行為準則,zh-TW
+Código de Conduta do servidor,伺服器行為準則,zh-TW
+Cũ,舊版,zh-TW
+Cố gắng tấn công một thực thể không hợp lệ,試圖攻擊無效的實體,zh-TW
+"Cổng không có sẵn.
+Để trống hộp chỉnh sửa hoặc nhập vào một số khác trong phạm vi từ %s đến %s.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"Cổng không có sẵn.
+Để trống hộp chỉnh sửa hoặc nhập vào một số khác trong phạm vi từ 1024 đến 65535.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+"Cổng không hợp lệ.
+Để trống hộp chỉnh sửa hoặc nhập vào một số trong phạm vi từ %s đến %s.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"Cổng không hợp lệ.
+Để trống hộp chỉnh sửa hoặc điền một số trong phạm vi từ 1024 đến 65535.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+Cộng đồng,社群,zh-TW
+Dados inválidos do jogador,無效的玩家資料,zh-TW
+Dados personalizados inesperados do cliente,從用戶端接收到預期外的自訂資料,zh-TW
+Das Ressourcenpaket des Servers konnte nicht angewandt werden,無法套用伺服器資源包,zh-TW
+Dati del giocatore non validi,無效的玩家資料,zh-TW
+Datos del jugador no válidos,無效的玩家資料,zh-TW
+Deaktiviert,已停用,zh-TW
+Deine IP‐Adresse wurde auf diesem Server gesperrt,您的 IP 位址已被這個伺服器封鎖,zh-TW
+"Deine IP‐Adresse wurde auf diesem Server gesperrt. 
+Grund: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+Delete,刪除,zh-TW
+Demande de connexion expirée,連線要求逾時,zh-TW
+Demande de statut ignorée,忽略狀態請求,zh-TW
+Demander,提示,zh-TW
+Demasiados mensajes de chat sin confirmar,太多未經認可的聊天訊息,zh-TW
+Demorou muito para iniciar sessão,登入逾時,zh-TW
+Der Anmeldevorgang hat zu lange gedauert,登入逾時,zh-TW
+Der Mehrspielermodus ist deaktiviert. Bitte überprüfe die Einstellungen deines Microsoft‐Kontos.,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+Der Server hat ein ungültiges Paket gesendet,伺服器傳送了無效的封包,zh-TW
+Der Server ist voll!,伺服器已滿！,zh-TW
+"Der Server verlangt, dem Verhaltenskodex zuzustimmen.",伺服器要求接受行為準則,zh-TW
+"Der öffentliche Profilschlüssel ist abgelaufen. Überprüfe, ob deine Systemzeit synchronisiert ist, und versuche, dein Spiel neu zu starten.",個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+Desactivado,已停用,zh-TW
+Desactualizado,舊版,zh-TW
+Desatualizado,舊版,zh-TW
+Desconectado,連線中斷,zh-TW
+Desconectando,正在離開,zh-TW
+Deseja baixar e instalá-lo automagicamente?,您是否希望它自動下載並安裝？,zh-TW
+Deseja mesmo remover esse servidor?,你確定要移除這個伺服器嗎？,zh-TW
+Destek,支援,zh-TW
+Detected a missed or reordered chat message from the server,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+Die auf diesem Server gesendeten Nachrichten können verändert werden und entsprechen möglicherweise nicht der ursprünglichen Nachricht.,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+Die Authentifizierungsserver sind derzeit nicht erreichbar. Bitte versuche es erneut.,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+Die Authentifizierungsserver sind derzeit nicht erreichbar. Bitte versuche es später erneut!,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+Die Serveradresse kann nicht aufgelöst werden,無法解析主機名稱,zh-TW
+Die Verbindung zum Server kann nicht hergestellt werden,無法連線到伺服器,zh-TW
+Diesen Hinweis nicht mehr anzeigen,不再顯示此畫面,zh-TW
+Dieser Name wird bereits verwendet,該名稱已被使用,zh-TW
+Dieser Server empfiehlt die Verwendung eines benutzerdefinierten Ressourcenpakets.,此伺服器建議使用其自訂的資源包。,zh-TW
+Dieser Server erfordert die Verwendung eines benutzerdefinierten Ressourcenpakets.,此伺服器要求使用其自訂的資源包。,zh-TW
+Dieser Server erfordert ein benutzerdefiniertes Ressourcenpaket,伺服器要求使用其自訂的資源包,zh-TW
+Dieser Server nimmt keine Übertragungen entgegen.,伺服器不接受轉移,zh-TW
+Dikkat: Çevrim içi oyunlar hiçbir şekilde Mojang Studios veya Microsoft tarafından denetlenmemektedir. Çevrim içi oyun sırasında farklı oyuncular tarafından oluşturulmuş herkes için uygun olmayan içerik ve iletilerle karşılaşabilirsiniz.,警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+Dikkat: Üçüncü Parti Çevrim içi Oyun,警告：第三方遊戲伺服器,zh-TW
+Dirección del servidor,伺服器位址,zh-TW
+Direct Connection,直接連線,zh-TW
+Directives communautaires,社群規範,zh-TW
+Direktverbindung,直接連線,zh-TW
+Diretrizes da Comunidade,社群規範,zh-TW
+Disabled,已停用,zh-TW
+Disconnected,連線中斷,zh-TW
+Diğer Oyuncular için Ayarlar,對其他玩家的設定,zh-TW
+Diễn đàn,論壇,zh-TW
+Do not notify again for this Code of Conduct,不再通知本行為準則,zh-TW
+Do not show this screen again,不再顯示此畫面,zh-TW
+Done,完成,zh-TW
+Données de joueur non valides,無效的玩家資料,zh-TW
+Données personnalisées inattendues de la part du client,從用戶端接收到預期外的自訂資料,zh-TW
+Doğrudan Bağlantı,直接連線,zh-TW
+Doğrulama sunucularına şu anda ulaşılamıyor. Lütfen tekrar deneyin.,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+Du bist vom Online‐Spielen ausgeschlossen,您已被禁止遊玩多人遊戲,zh-TW
+Du hast dich von einem anderen Standort aus angemeldet,您已從其他位置登入,zh-TW
+Du stehst nicht auf der Gästeliste dieses Servers!,你不在這個伺服器的白名單中！,zh-TW
+"Du versuchst, einen Befehl auszuführen, der Chatnachrichten in deinem Namen versendet.
+Dieser Befehl kann nur über das Chatfenster ausgeführt werden.
+Befehl: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"Du versuchst, einen Befehl auszuführen, der ein erhöhtes Berechtigungslevel erfordert.
+Dies könnte sich negativ auf dein Spiel auswirken.
+Bist du sicher?
+Befehl: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+"Du versuchst, einen unbekannten oder ungültigen Befehl auszuführen.
+Bist du sicher?
+Befehl: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+Du warst zu lange untätig!,您的閒置時間過長！,zh-TW
+Du wurdest auf diesem Server gesperrt,您已經被這個伺服器封鎖,zh-TW
+"Du wurdest auf diesem Server gesperrt. 
+Grund: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+Durum,狀態,zh-TW
+Durum isteği işlendi,已處理傳送的狀態請求,zh-TW
+Durum isteği yok sayılıyor,忽略狀態請求,zh-TW
+Duyurular,公告,zh-TW
+Déconnecté(e),連線中斷,zh-TW
+Délai de connexion expiré,連線逾時,zh-TW
+Désactivés,已停用,zh-TW
+Dünyaya katılınıyor...,正在加入世界...,zh-TW
+Düzenle,編輯,zh-TW
+Dữ liệu người chơi không hợp lệ,無效的玩家資料,zh-TW
+Edit,編輯,zh-TW
+Edit Server Info,編輯伺服器資訊,zh-TW
+Editar,編輯,zh-TW
+Editar información del servidor,編輯伺服器資訊,zh-TW
+Editar informações do servidor,編輯伺服器資訊,zh-TW
+Ein Chatpaket mit fehlender oder ungültiger Signatur empfangen.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+Eine verpasste oder umgeordnete Chatnachricht vom Server erkannt,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+Einstellungen für andere Spieler,對其他玩家的設定,zh-TW
+Ejecutar comando,執行指令,zh-TW
+Eksik veya geçersiz imzalı bir sohbet paketi alındı.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+"El conjunto de etiquetas del servidor está incompleto.
+Ponte en contacto con el administrador del servidor.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+El jugador no está disponible,無法連上玩家,zh-TW
+"El modo multijugador está desactivado. Por favor, comprueba los ajustes de tu cuenta de Microsoft.",多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+El servidor envió un paquete no válido,伺服器傳送了無效的封包,zh-TW
+El servidor no acepta transferencias,伺服器不接受轉移,zh-TW
+El servidor requiere aceptar el código de conducta,伺服器要求接受行為準則,zh-TW
+Elimina,刪除,zh-TW
+Eliminar,刪除,zh-TW
+En ligne,線上,zh-TW
+En línea,線上,zh-TW
+Enabled,已啟用,zh-TW
+Encriptando...,加密中...,zh-TW
+Encrypting...,加密中...,zh-TW
+End of stream,數據傳送終止,zh-TW
+Ende der Datenübertragung,數據傳送終止,zh-TW
+Endereço do servidor,伺服器位址,zh-TW
+Entra nel server,加入伺服器,zh-TW
+Entrando al mundo...,正在加入世界...,zh-TW
+Entrando no mundo...,正在加入世界...,zh-TW
+Entrar al servidor,加入伺服器,zh-TW
+Entrar no servidor,加入伺服器,zh-TW
+Entrée dans le monde...,正在加入世界...,zh-TW
+Erreur de protocole réseau,網路協定錯誤,zh-TW
+Erreur inattendue durant la configuration,設定時發生非預期的錯誤,zh-TW
+Erro inesperado durante a configuração,設定時發生非預期的錯誤,zh-TW
+Erro no protocolo de rede,網路協定錯誤,zh-TW
+Error al conectar con el servidor,無法連線到伺服器,zh-TW
+Error al conectar con el servidor,與伺服器連線失敗,zh-TW
+"Error al enviar el mensaje del chat, revisa los registros del servidor: %s",無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+Error al iniciar sesión: %s,登入失敗：%s,zh-TW
+Error al resolver el nombre del host,無法解析主機名稱,zh-TW
+Error al validar el mensaje de chat,聊天訊息驗證失敗,zh-TW
+Error de conexión al transferir al servidor,轉移至伺服器時連線失敗,zh-TW
+Error de protocolo de red,網路協定錯誤,zh-TW
+Errore del protocollo di rete,網路協定錯誤,zh-TW
+Errore non previsto durante la configurazione,設定時發生非預期的錯誤,zh-TW
+"Es kann gerade keine Verbindung aufgebaut werden.
+Versuche es später erneut.","目前無法連線。
+請稍後再試。",zh-TW
+"Es wurde versucht, ein ungültiges Objekt anzugreifen",試圖攻擊無效的實體,zh-TW
+Esegui il comando,執行指令,zh-TW
+Eski,舊版,zh-TW
+Espulsione da un operatore,已被管理員踢出,zh-TW
+Espulsione per azioni ripetute,因為濫發訊息被踢出,zh-TW
+Espulsione per superamento del limite di pacchetti,由於超過封包速率限制而被踢出遊戲,zh-TW
+Esse nome já está em uso,該名稱已被使用,zh-TW
+Esse servidor não aceita transferências,伺服器不接受轉移,zh-TW
+Esse servidor recomenda o uso de um pacote de recursos personalizado.,此伺服器建議使用其自訂的資源包。,zh-TW
+Esse servidor requer o uso de um pacote de recursos personalizado.,此伺服器要求使用其自訂的資源包。,zh-TW
+Esse servidor requer um pacote de recursos personalizado,伺服器要求使用其自訂的資源包,zh-TW
+Estabelecendo conexão...,協議中...,zh-TW
+Estabelecendo conexão...,正在建立連線...,zh-TW
+Estableciendo conexión...,正在建立連線...,zh-TW
+Establishing connection...,正在建立連線...,zh-TW
+Estado,狀態,zh-TW
+Este servidor recomienda el uso de un paquete de recursos personalizado.,此伺服器建議使用其自訂的資源包。,zh-TW
+Este servidor requiere el uso de un paquete de recursos personalizado.,此伺服器要求使用其自訂的資源包。,zh-TW
+Este servidor requiere un paquete de recursos personalizado,伺服器要求使用其自訂的資源包,zh-TW
+"Estás intentando ejecutar un comando desconocido o no válido.
+¿Seguro que quieres hacer eso?
+Comando: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+"Estás intentando ejecutar un comando que enviará mensajes de chat utilizando tu nombre.
+Solo se puede ejecutar desde la pantalla de chat.
+Comando: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"Estás intentando ejecutar un comando que requiere permisos elevados.
+Esto podría afectar negativamente a tu juego.
+¿Seguro que quieres hacer esto?
+Comando: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+Executar comando,執行指令,zh-TW
+"Expired profile public key. Check that your system time is synchronized, and try restarting your game.",個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+Expulsado por exceso de paquetes,由於超過封包速率限制而被踢出遊戲,zh-TW
+Expulsado por hacer spam,因為濫發訊息被踢出,zh-TW
+Expulsado/a por un administrador,已被管理員踢出,zh-TW
+Expulsão por atingir o limite de envio de pacotes,由於超過封包速率限制而被踢出遊戲,zh-TW
+Expulsão por spam,因為濫發訊息被踢出,zh-TW
+Expulsão por um operador,已被管理員踢出,zh-TW
+Expulsé(e) par un opérateur,已被管理員踢出,zh-TW
+Expulsé(e) pour avoir dépassé la limite de débit de paquets,由於超過封包速率限制而被踢出遊戲,zh-TW
+Expulsé(e) pour spam,因為濫發訊息被踢出,zh-TW
+Exécuter la commande,執行指令,zh-TW
+Failed to connect to the server,與伺服器連線失敗,zh-TW
+Failed to log in: %s,登入失敗：%s,zh-TW
+Failed to verify username!,無法驗證使用者名稱！,zh-TW
+Falha ao conectar-se ao servidor,與伺服器連線失敗,zh-TW
+Falha ao iniciar sessão: %s,登入失敗：%s,zh-TW
+Falha ao validar a mensagem,聊天訊息驗證失敗,zh-TW
+Falha ao verificar o nome de usuário!,無法驗證使用者名稱！,zh-TW
+Fatto,完成,zh-TW
+Feedback,意見回饋,zh-TW
+Fehler am Server melden,回報伺服器錯誤,zh-TW
+Fehler bei der Überprüfung der Chatnachricht,聊天訊息驗證失敗,zh-TW
+Fehler im Netzwerkprotokoll,網路協定錯誤,zh-TW
+Fermeture en cours...,正在離開,zh-TW
+Fertig,完成,zh-TW
+Fim da transmissão,數據傳送終止,zh-TW
+Fin de la conexión,數據傳送終止,zh-TW
+Fin du flux,數據傳送終止,zh-TW
+Finalizado,完成,zh-TW
+Fine del flusso dati,數據傳送終止,zh-TW
+Finished,完成,zh-TW
+"Firma de la clave pública del perfil no válida.
+Prueba a reiniciar el juego.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"Firma de la clave pública del perfil no válida.
+Prueba a reiniciar el juego.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+"Firma della chiave pubblica del tuo profilo non valida.
+Prova a riavviare il gioco.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"Firma della chiave pubblica del tuo profilo non valida.
+Prova a riavviare il gioco.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+Fliegen ist auf diesem Server nicht erlaubt,此伺服器並沒有啟用飛行,zh-TW
+Flying is not enabled on this server,此伺服器並沒有啟用飛行,zh-TW
+Foi recebido um pacote de chat com uma assinatura inválida ou ausente.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+Foren,論壇,zh-TW
+Foros,論壇,zh-TW
+Forum,論壇,zh-TW
+Forumlar,論壇,zh-TW
+Forums,論壇,zh-TW
+Fóruns,論壇,zh-TW
+Für diesen Verhaltenskodex nicht erneut benachrichtigen,不再通知本行為準則,zh-TW
+Gecikme %s milisaniye,延遲為 %s 毫秒,zh-TW
+Gemeinschaft,社群,zh-TW
+Gemeinschaftsrichtlinien,社群規範,zh-TW
+Geri Bildirim,意見回饋,zh-TW
+Geçersiz bir varlığa saldırılmaya çalışıldı,試圖攻擊無效的實體,zh-TW
+Geçersiz oturum (Oyunu ve başlatıcıyı yeniden başlatmayı deneyin),無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+Geçersiz oyuncu hareket paketi alındı,接收到無效的玩家移動封包,zh-TW
+Geçersiz oyuncu verisi,無效的玩家資料,zh-TW
+Geçersiz taşıt hareket paketi alındı,接收到無效的載具移動封包,zh-TW
+Gioca in multigiocatore,進行多人遊戲,zh-TW
+Giocatore anonimo,匿名玩家,zh-TW
+Giocatore non raggiungibile,無法連上玩家,zh-TW
+Giocatori in linea: %s,在線玩家：%s,zh-TW
+Giocatori in linea: %s su %s,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+Gioco in rete proibito,您已被禁止遊玩多人遊戲,zh-TW
+Giriş yapılamadı: %s,登入失敗：%s,zh-TW
+Giriş yapılıyor...,登入中...,zh-TW
+"Gruppendaten konnten vom Server nur unvollständig empfangen werden.
+Bitte benachrichtige den Serverbetreiber.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+Gói người chơi di chuyển đã nhận không hợp lệ,接收到無效的玩家移動封包,zh-TW
+Gói phương tiện di chuyển đã nhận không hợp lệ,接收到無效的載具移動封包,zh-TW
+Gói tin nhắn đã nhận không theo trật tự. Thời gian hệ thống của bạn có thay đổi không?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+Gói tài nguyên máy chủ,伺服器資源包,zh-TW
+Günün iletisi: %s,伺服器訊息：%s,zh-TW
+Gặp lỗi bất thường khi đang cấu hình,設定時發生非預期的錯誤,zh-TW
+Haberler,新聞,zh-TW
+Hai già effettuato l'accesso da un'altra posizione,您已從其他位置登入,zh-TW
+Hai superato il tempo massimo d'inattività!,您的閒置時間過長！,zh-TW
+Has iniciado sesión desde otro sitio,您已從其他位置登入,zh-TW
+Hecho,完成,zh-TW
+Herkese açık profil anahtarının süresi dolmuş. Sistem zamanını kontrol edin ve oyunu yeniden başlatın.,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+Hilfe/Unterstützung,支援,zh-TW
+Host desconhecido,未知的主機,zh-TW
+Hoạt động bay không được bật trên máy chủ này,此伺服器並沒有啟用飛行,zh-TW
+HP：%s,%s 生命值,zh-TW
+Há muitas mensagens não confirmadas,太多未經認可的聊天訊息,zh-TW
+Hôte inconnu,未知的主機,zh-TW
+Hỗ trợ,支援,zh-TW
+I messaggi inviati su questo server possono essere modificati e potrebbero non riflettere i messaggi originali,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+I server di autenticazione non sono al momento raggiungibili. Riprova più tardi.,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+I server di autenticazione sono fuori servizio. Riprova più tardi.,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+Ignorando solicitud de estado,忽略狀態請求,zh-TW
+Ignoring status request,忽略狀態請求,zh-TW
+"Il n'est pas possible de se connecter pour le moment.
+Réessayez plus tard.","目前無法連線。
+請稍後再試。",zh-TW
+Il server ha inviato un pacchetto non valido,伺服器傳送了無效的封包,zh-TW
+Il server richiede l'accettazione del codice di condotta,伺服器要求接受行為準則,zh-TW
+Il server è pieno!,伺服器已滿！,zh-TW
+Il tuo nome è già in uso,該名稱已被使用,zh-TW
+Il volo non è consentito in questo server,此伺服器並沒有啟用飛行,zh-TW
+Illegal characters in chat,聊天欄中出現不允許的字元,zh-TW
+Impossibile applicare il pacchetto di risorse del server.,無法套用伺服器資源包,zh-TW
+Impossibile connettersi al giocatore,無法連線至該玩家,zh-TW
+Impossibile connettersi al server,無法連線到伺服器,zh-TW
+Impossibile convalidare il messaggio in chat,聊天訊息驗證失敗,zh-TW
+Impossibile inviare il messaggio in chat. Controlla i registri del server: %s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+Impossible de résoudre le nom de l'hôte,無法解析主機名稱,zh-TW
+Impossible de se connecter au joueur,無法連線至該玩家,zh-TW
+Impossible de se connecter au serveur,無法連線到伺服器,zh-TW
+Impossible de transmettre le message dans le tchat. Consultez les journaux du serveur : %s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+Impossible de vérifier les messages,無法驗證聊天訊息,zh-TW
+Impossible de vérifier votre nom d'utilisateur !,無法驗證使用者名稱！,zh-TW
+Impostazioni per gli altri giocatori,對其他玩家的設定,zh-TW
+In linea,線上,zh-TW
+Incompatible client! Please use %s,用戶端不相容！請使用 %s,zh-TW
+Incompatible version!,遊戲版本不相容！,zh-TW
+"Incomplete set of tags received from the server.
+Please contact a server operator.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+Indirizzo del server,伺服器位址,zh-TW
+Indirizzo non trovato,未知的主機,zh-TW
+Información del servidor,編輯伺服器資訊,zh-TW
+Informar de error en el servidor,回報伺服器錯誤,zh-TW
+Informar erro do servidor,回報伺服器錯誤,zh-TW
+Ingresso nel mondo...,正在加入世界...,zh-TW
+Iniciando sesión...,登入中...,zh-TW
+Iniciando sessão...,登入中...,zh-TW
+Iniciar mundo em LAN,開始區網世界,zh-TW
+Iniciar un mundo en LAN,開始區網世界,zh-TW
+Inkompatible Version!,遊戲版本不相容！,zh-TW
+Inkompatibler Client! Verwende bitte %s,用戶端不相容！請使用 %s,zh-TW
+Ins Chatfenster kopieren,複製到聊天欄,zh-TW
+Intentando atacar una entidad no válida,試圖攻擊無效的實體,zh-TW
+Interrompida,已中止,zh-TW
+Invalid move player packet received,接收到無效的玩家移動封包,zh-TW
+Invalid move vehicle packet received,接收到無效的載具移動封包,zh-TW
+Invalid player data,無效的玩家資料,zh-TW
+Invalid session (Try restarting your game and the launcher),無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+"Invalid signature for profile public key.
+Try restarting your game.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"Invalid signature for profile public key.
+Try restarting your game.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+IP adresiniz bu sunucudan yasaklandı,您的 IP 位址已被這個伺服器封鎖,zh-TW
+"IP adresiniz sunucudan yasaklandı.
+Sebep: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+IP del servidor,伺服器位址,zh-TW
+"IP 주소가 서버에서 차단되었습니다.
+사유: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+"It is not possible to connect right now.
+Try again later.","目前無法連線。
+請稍後再試。",zh-TW
+İnternet Sitesi,網站,zh-TW
+İptal Edildi,已中止,zh-TW
+İptal edildi,已取消,zh-TW
+İstatistikler alınıyor...,正在下載統計資訊...,zh-TW
+İstemciden beklenmeyen özel veri alındı,從用戶端接收到預期外的自訂資料,zh-TW
+İstenmeyen durum alındı,接收到未請求的資訊,zh-TW
+Jogador anônimo,匿名玩家,zh-TW
+Jogador inacessível,無法連上玩家,zh-TW
+Jogadores online: %s,在線玩家：%s,zh-TW
+Join Server,加入伺服器,zh-TW
+Joining world...,正在加入世界...,zh-TW
+Joueur anonyme,匿名玩家,zh-TW
+Joueurs en ligne : %s,在線玩家：%s,zh-TW
+Jugador anónimo,匿名玩家,zh-TW
+Jugadores en línea: %s,在線玩家：%s,zh-TW
+Kapalı,已停用,zh-TW
+Kaynak paketi uygulanıyor,正在套用資源包,zh-TW
+"Kein gültiger Port.
+Lass das Eingabefeld leer oder gib eine Nummer zwischen %s und %s ein.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"Kein gültiger Port.
+Lass das Eingabefeld leer oder gib eine Nummer zwischen 1024 und 65535 ein.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+"Khoá hồ sơ công khai đã hết hạn. Kiểm tra xem thời gian hệ thống của bạn đã được đồng bộ hay chưa, rồi thử khởi động lại trò chơi của bạn.",個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+Không thể chuyển tin nhắn trò chuyện; hãy kiểm tra bản ghi máy chủ: %s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+"Không thể kết nối ngay lúc này.
+Hãy thử lại sau.","目前無法連線。
+請稍後再試。",zh-TW
+Không thể kết nối đến máy chủ,無法連線到伺服器,zh-TW
+Không thể kết nối đến máy chủ,與伺服器連線失敗,zh-TW
+Không thể kết nối đến người chơi,無法連線至該玩家,zh-TW
+Không thể phân giải tên máy chủ,無法解析主機名稱,zh-TW
+Không thể xác minh tên người dùng!,無法驗證使用者名稱！,zh-TW
+Không thể xác thực tin nhắn trò chuyện,聊天訊息驗證失敗,zh-TW
+Không thể áp dụng gói tài nguyên của máy chủ,無法套用伺服器資源包,zh-TW
+Không thể đăng nhập: %s,登入失敗：%s,zh-TW
+Kicked by an operator,已被管理員踢出,zh-TW
+Kicked for exceeding packet rate limit,由於超過封包速率限制而被踢出遊戲,zh-TW
+Kicked for spamming,因為濫發訊息被踢出,zh-TW
+Kimlik doğrulama sunucuları kapalı. Lütfen daha sonra tekrar deneyin. Üzgünüz!,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+Komut Çalıştırılması Doğrulama,確認執行指令,zh-TW
+Komutu Çalıştır,執行指令,zh-TW
+Kullanıcı adı doğrulanamadı!,無法驗證使用者名稱！,zh-TW
+Kết nối không thành công khi đang di chuyển sang máy chủ,轉移至伺服器時連線失敗,zh-TW
+Kết nối trực tiếp,直接連線,zh-TW
+L'accesso ha richiesto troppo tempo,登入逾時,zh-TW
+La chat non può essere verificata,無法驗證聊天訊息,zh-TW
+La chiave pubblica del tuo profilo è scaduta. Controlla che l'ora del sistema sia sincronizzata e prova a riavviare il gioco.,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+La clave pública de perfil ha caducado. Comprueba que la hora del sistema esté sincronizada y reinicia tu juego.,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+La connexion a mis trop longtemps à s'établir,登入逾時,zh-TW
+La demande de statut a été traitée,已處理傳送的狀態請求,zh-TW
+La modalità multigiocatore è disattivata. Controlla le impostazioni del tuo account Microsoft.,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+LAN World,區網世界,zh-TW
+LAN 세계,區網世界,zh-TW
+LAN 세계 시작,開始區網世界,zh-TW
+Landschaft wird geladen …,正在載入地形...,zh-TW
+LAN‐Welt,區網世界,zh-TW
+LAN‐Welt starten,開始區網世界,zh-TW
+LANワールド,區網世界,zh-TW
+LANワールドを公開,開始區網世界,zh-TW
+LAN内のゲームを検索中,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+Las interacciones sociales solo están disponibles en mundos multijugador,社群交流僅適用於多人遊戲世界,zh-TW
+Latencia de %s milisegundos,延遲為 %s 毫秒,zh-TW
+Latenza di %s millisecondi,延遲為 %s 毫秒,zh-TW
+Latência de %s milissegundos,延遲為 %s 毫秒,zh-TW
+Le interazioni sociali sono disponibili solo nei mondi in multigiocatore,社群交流僅適用於多人遊戲世界,zh-TW
+Le joueur est injoignable,無法連上玩家,zh-TW
+Le menu des interactions sociales est uniquement disponible en multijoueur,社群交流僅適用於多人遊戲世界,zh-TW
+Le mode multijoueur est désactivé. Veuillez vérifier les paramètres de votre compte Microsoft.,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+Le pack de ressources du serveur n'a pas pu être appliqué.,無法套用伺服器資源包,zh-TW
+"Le serveur a envoyé un ensemble incomplet de tags.
+Veuillez contacter l'opérateur du serveur.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+Le serveur a envoyé un paquet non valide,伺服器傳送了無效的封包,zh-TW
+Le serveur est complet !,伺服器已滿！,zh-TW
+Le serveur exige l'acceptation du code de conduite,伺服器要求接受行為準則,zh-TW
+Leave Bed,起床,zh-TW
+Les messages envoyés sur ce serveur peuvent être modifiés et peuvent ne pas refléter le message d'origine,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+Les serveurs d'authentification sont actuellement inaccessibles. Veuillez réessayer.,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+Les serveurs d'authentification sont indisponibles. Veuillez réessayer plus tard. Désolé !,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+Levantar da cama,起床,zh-TW
+Levantarse,起床,zh-TW
+Linee guida,社群規範,zh-TW
+Loading terrain...,正在載入地形...,zh-TW
+Logging in...,登入中...,zh-TW
+Los mensajes enviados en este servidor pueden ser modificados y podrían no reflejar el mensaje original.,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+Los servidores de autenticación no funcionan. ¡Lo sentimos! Inténtalo más tarde.,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+Làm mới,重新整理,zh-TW
+Löschen,刪除,zh-TW
+Lỗi giao thức mạng,網路協定錯誤,zh-TW
+"Mechanismen, die benutzerdefinierte Ressourcen erfordern, funktionieren möglicherweise nicht wie erwartet",任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+Mehrspielermodus spielen,進行多人遊戲,zh-TW
+Mensagem de chat detectada como ausente ou reordenada do servidor,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+Mensagem do dia: %s,伺服器訊息：%s,zh-TW
+Mensaje de chat perdido o reordenado recibido del servidor,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+Mensaje del día: %s,伺服器訊息：%s,zh-TW
+Mensajes de chat no verificados,無法驗證聊天訊息,zh-TW
+Message du jour : %s,伺服器訊息：%s,zh-TW
+Message of the day: %s,伺服器訊息：%s,zh-TW
+Messages sent on this server may be modified and might not reflect the original message,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+Messaggio del giorno: %s,伺服器訊息：%s,zh-TW
+Minecraft Server,Minecraft 伺服器,zh-TW
+Minecraft Sunucusu,Minecraft 伺服器,zh-TW
+Minecraft 서버,Minecraft 伺服器,zh-TW
+Minecraft‐Server,Minecraft 伺服器,zh-TW
+Minecraftサーバー,Minecraft 伺服器,zh-TW
+Minecraft服务器,Minecraft 伺服器,zh-TW
+Modifica,編輯,zh-TW
+Modifica le informazioni del server,編輯伺服器資訊,zh-TW
+Modification des informations du serveur,編輯伺服器資訊,zh-TW
+Modifier,編輯,zh-TW
+Modo multijogador desativado. Veja as configurações da sua conta Microsoft.,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+Monde en réseau local,區網世界,zh-TW
+Multijogador,進行多人遊戲,zh-TW
+Multijoueur,進行多人遊戲,zh-TW
+Multijugador,進行多人遊戲,zh-TW
+Multiplayer is disabled. Please check your Microsoft account settings.,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+Mundo (LAN),區網世界,zh-TW
+Mundo LAN,區網世界,zh-TW
+Máy chủ không rõ,未知的主機,zh-TW
+Máy chủ Minecraft,Minecraft 伺服器,zh-TW
+Máy chủ này không chấp nhận di chuyển,伺服器不接受轉移,zh-TW
+Máy chủ này yêu cầu một gói tài nguyên tùy chỉnh,伺服器要求使用其自訂的資源包,zh-TW
+Máy chủ này yêu cầu sử dụng một gói tài nguyên tùy chỉnh.,此伺服器要求使用其自訂的資源包。,zh-TW
+Máy chủ này đề nghị sử dụng một gói tài nguyên tuỳ chỉnh.,此伺服器建議使用其自訂的資源包。,zh-TW
+"Máy chủ xác thực đã bị sập. Vui lòng thử lại sau, xin lỗi!",驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+Máy chủ yêu cầu chấp nhận quy tắc ứng xử,伺服器要求接受行為準則,zh-TW
+Máy chủ đã gửi một gói không hợp lệ,伺服器傳送了無效的封包,zh-TW
+Máy chủ đã đóng,伺服器已關閉,zh-TW
+Máy chủ đã đầy!,伺服器已滿！,zh-TW
+Möchtest du es automagisch herunterladen und installieren?,您是否希望它自動下載並安裝？,zh-TW
+Mất kết nối,失去連線,zh-TW
+Mất quá lâu để đăng nhập,登入逾時,zh-TW
+Mọi chức năng yêu cầu tài nguyên tùy chỉnh có thể không hoạt động như mong đợi,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+Nachricht des Tages: %s,伺服器訊息：%s,zh-TW
+Ne plus afficher ce message,不再顯示此畫面,zh-TW
+Ne plus m'avertir de ce code de conduite,不再通知本行為準則,zh-TW
+Negotiating...,協議中...,zh-TW
+Negoziazione in corso...,協議中...,zh-TW
+Network Protocol Error,網路協定錯誤,zh-TW
+Neu konfigurieren …,正在重新設定...,zh-TW
+Neu konfigurieren …,重新設定中...,zh-TW
+Neuen Server gefunden: %s,找到新的伺服器：%s,zh-TW
+Neuigkeiten,新聞,zh-TW
+New server found: %s,找到新的伺服器：%s,zh-TW
+News,新聞,zh-TW
+Nguyên tắc cộng đồng,社群規範,zh-TW
+Người chơi không tiếp cận được,無法連上玩家,zh-TW
+Người chơi trực tuyến: %s,在線玩家：%s,zh-TW
+Người chơi ẩn danh,匿名玩家,zh-TW
+Ngừng kết nối,數據傳送終止,zh-TW
+Nhắc nhở,提示,zh-TW
+No,已停用,zh-TW
+No está permitido volar en este servidor,此伺服器並沒有啟用飛行,zh-TW
+No mostrar este mensaje de nuevo,不再顯示此畫面,zh-TW
+No se ha podido aplicar el paquete de recursos del servidor,無法套用伺服器資源包,zh-TW
+"No se ha podido conectar ahora mismo.
+Inténtalo de nuevo más tarde.","目前無法連線。
+請稍後再試。",zh-TW
+No se pudo conectar con el jugador,無法連線至該玩家,zh-TW
+"No se tiene acceso a los servidores de autenticación. Por favor, inténtalo de nuevo.",目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+No volver a notificar sobre este código de conducta,不再通知本行為準則,zh-TW
+Nom du serveur,伺服器名稱,zh-TW
+Nombre del servidor,伺服器名稱,zh-TW
+Nome del server,伺服器名稱,zh-TW
+Nome do servidor,伺服器名稱,zh-TW
+Non aggiornato,舊版,zh-TW
+Non avvisarmi più per questo codice di condotta,不再通知本行為準則,zh-TW
+Non mostrare più questa schermata,不再顯示此畫面,zh-TW
+Non sei nella lista bianca di questo server!,你不在這個伺服器的白名單中！,zh-TW
+"Non è possibile connettersi al momento.
+Riprova più tardi.","目前無法連線。
+請稍後再試。",zh-TW
+Normas de la comunidad,社群規範,zh-TW
+"Not a valid port.
+Leave the edit box empty or enter a number between %s and %s.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"Not a valid port.
+Leave the edit box empty or enter a number between 1024 and 65535.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+Notizie,新聞,zh-TW
+Nouveau serveur,新增伺服器,zh-TW
+Nouveau serveur trouvé : %s,找到新的伺服器：%s,zh-TW
+Nouvelles,新聞,zh-TW
+Novedades,新聞,zh-TW
+Novidades,新聞,zh-TW
+Novo servidor encontrado: %s,找到新的伺服器：%s,zh-TW
+Nuevo servidor encontrado: %s,找到新的伺服器：%s,zh-TW
+Numero di porta,連接埠號碼,zh-TW
+Numéro de port,連接埠號碼,zh-TW
+Não,已停用,zh-TW
+Não foi possível aplicar o pacote de recursos do servidor.,無法套用伺服器資源包,zh-TW
+Não foi possível conectar-se ao jogador,無法連線至該玩家,zh-TW
+Não mostre esse aviso novamente,不再顯示此畫面,zh-TW
+Não notificar novamente sobre esse Código de Conduta,不再通知本行為準則,zh-TW
+Não é permitido voar nesse servidor,此伺服器並沒有啟用飛行,zh-TW
+"Não é possível conectar no momento.
+Tente novamente mais tarde.","目前無法連線。
+請稍後再試。",zh-TW
+Não é possível verificar as mensagens,無法驗證聊天訊息,zh-TW
+Négociation en cours...,協議中...,zh-TW
+Número da porta,連接埠號碼,zh-TW
+Número de puerto,連接埠號碼,zh-TW
+O servidor enviou um pacote inválido,伺服器傳送了無效的封包,zh-TW
+O servidor está lotado!,伺服器已滿！,zh-TW
+O servidor exige a aceitação do Código de Conduta,伺服器要求接受行為準則,zh-TW
+Obsolète,舊版,zh-TW
+Obtendo estatísticas...,正在下載統計資訊...,zh-TW
+Obteniendo estadísticas...,正在下載統計資訊...,zh-TW
+Old,舊版,zh-TW
+Online,線上,zh-TW
+Online players: %s,在線玩家：%s,zh-TW
+Operazione interrotta,已中止,zh-TW
+Opiniones,意見回饋,zh-TW
+Options pour les autres joueurs,對其他玩家的設定,zh-TW
+Os servidores de autenticação estão indisponíveis. Tente novamente mais tarde.,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+Otomatik olarak indirilip yüklenmesini ister misiniz?,您是否希望它自動下載並安裝？,zh-TW
+Oturum açmak çok uzun sürdü,登入逾時,zh-TW
+Out-of-order chat packet received. Did your system time change?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+Ouvrir au réseau local,開始區網世界,zh-TW
+Oyuncuya bağlanılamadı,無法連線至該玩家,zh-TW
+Oyuncuya ulaşılamıyor,無法連上玩家,zh-TW
+Packs de ressources,伺服器資源包,zh-TW
+Packs de ressources du serveur,伺服器資源包,zh-TW
+Pacote de chat corrompido recebido. A hora do seu sistema mudou?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+Pacote de movimento inválido de jogador recebido,接收到無效的玩家移動封包,zh-TW
+Pacote de movimento inválido de veículo recebido,接收到無效的載具移動封包,zh-TW
+Pacotes de recursos,伺服器資源包,zh-TW
+Pacotes de recursos do servidor,伺服器資源包,zh-TW
+Paket oranı sınırını aştığınız için atıldınız,由於超過封包速率限制而被踢出遊戲,zh-TW
+Paquet de déplacement du joueur non valide reçu,接收到無效的玩家移動封包,zh-TW
+Paquet de déplacement en véhicule non valide reçu,接收到無效的載具移動封包,zh-TW
+Paquet de tchat reçu dans le désordre. L'heure de votre système a-t-elle changé ?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+Paquete de recursos del servidor,伺服器資源包,zh-TW
+Paquetes de recursos,伺服器資源包,zh-TW
+Pedido de status ignorado,忽略狀態請求,zh-TW
+Pedido de status processado,已處理傳送的狀態請求,zh-TW
+Perguntar,提示,zh-TW
+Phiên bản không tương thích!,遊戲版本不相容！,zh-TW
+Phiên bản máy chủ: %s,伺服器版本：%s,zh-TW
+Phiên bản trò chơi không tương thích! Hãy sử dụng %s,用戶端不相容！請使用 %s,zh-TW
+Phiên không hợp lệ (Hãy thử khởi động lại trò chơi và trình khởi động của bạn),無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+Phản hồi,意見回饋,zh-TW
+Ping %s miligiây,延遲為 %s 毫秒,zh-TW
+Ping %s milliseconds,延遲為 %s 毫秒,zh-TW
+Ping de %s millisecondes,延遲為 %s 毫秒,zh-TW
+Ping en cours...,Pinging...,zh-TW
+Ping: %s Millisekunden,延遲為 %s 毫秒,zh-TW
+Ping応答時間は%sミリ秒です,延遲為 %s 毫秒,zh-TW
+Play Multiplayer,進行多人遊戲,zh-TW
+Player isn't reachable,無法連上玩家,zh-TW
+"Port nicht verfügbar.
+Lass das Eingabefeld leer oder gib eine andere Nummer zwischen %s und %s ein.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"Port nicht verfügbar.
+Lass das Eingabefeld leer oder gib eine andere Nummer zwischen 1024 und 65535 ein.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+"Port non disponible.
+Laissez le champ de saisie vide ou entrez un numéro différent compris entre %s et %s.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"Port non disponible.
+Laissez le champ de saisie vide ou entrez un numéro différent compris entre 1024 et 65535.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+"Port non valide.
+Laissez le champ de saisie vide ou entrez un numéro compris entre %s et %s.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"Port non valide.
+Laissez le champ de saisie vide ou entrez un numéro compris entre 1024 et 65535.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+"Port not available.
+Leave the edit box empty or enter a different number between %s and %s.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"Port not available.
+Leave the edit box empty or enter a different number between 1024 and 65535.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+Port Number,連接埠號碼,zh-TW
+"Porta indisponível.
+Deixe o campo em branco ou escolha um número diferente entre %s e %s.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"Porta indisponível.
+Deixe o campo em branco ou escolha um número diferente entre 1024 e 65535.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+"Porta inválida.
+Deixe o campo em branco ou escolha um número entre %s e %s.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"Porta inválida.
+Deixe o campo em branco ou escolha um número entre 1024 e 65535.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+"Porta non disponibile.
+Lascia il riquadro vuoto o inserisci un numero diverso compreso tra %s e %s.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"Porta non disponibile.
+Lascia il riquadro vuoto o inserisci un numero diverso compreso tra 1024 e 65535.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+"Porta non valida.
+Lascia il riquadro vuoto o inserisci un numero tra %s e %s.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"Porta non valida.
+Lascia il riquadro vuoto o inserisci un numero tra 1024 e 65535.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+Portnummer,連接埠號碼,zh-TW
+Preguntar,提示,zh-TW
+Procurando jogos em sua rede local,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+"Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"Profil açık anahtarı için geçersiz imza.
+Oyununuzu yeniden başlatmayı deneyin.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+Prompt,提示,zh-TW
+"Puerto no disponible.
+Deja la caja de edición vacía o elige un número diferente entre 1024 y 65535.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+"Puerto no disponible.
+Deja la caja de edición vacía o introduce un número distinto entre %s y %s.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"Puerto no válido.
+Deja la caja de edición vacía o elige un número entre 1024 y 65535.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+"Puerto no válido.
+Deja la caja de edición vacía o introduce un número entre %s y %s.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+Qualquer funcionalidade dependente de recursos personalizados pode não funcionar corretamente.,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+Qualsiasi funzionalità che richieda risorse personalizzate potrebbe non funzionare come previsto,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+Questo server consiglia l'uso di un pacchetto di risorse personalizzato.,此伺服器建議使用其自訂的資源包。,zh-TW
+Questo server non accetta i trasferimenti,伺服器不接受轉移,zh-TW
+Questo server richiede l'uso di un pacchetto di risorse personalizzato.,此伺服器要求使用其自訂的資源包。,zh-TW
+Questo server richiede un pacchetto di risorse personalizzato,伺服器要求使用其自訂的資源包,zh-TW
+Quitter le lit,起床,zh-TW
+Quitting,正在離開,zh-TW
+Quy tắc ứng xử máy chủ,伺服器行為準則,zh-TW
+Quá nhiều tin nhắn trò chuyện chưa được xác nhận,太多未經認可的聊天訊息,zh-TW
+Received a chat packet with a missing or invalid signature.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+Received unrequested status,接收到未請求的資訊,zh-TW
+Rechazar este paquete de recursos personalizado te desconectará del servidor.,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+Recherche de parties sur votre réseau local,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+Reconfigurando...,正在重新設定...,zh-TW
+Reconfigurando...,重新設定中...,zh-TW
+Reconfiguration en cours...,正在重新設定...,zh-TW
+Reconfiguration en cours...,重新設定中...,zh-TW
+Reconfiguring...,正在重新設定...,zh-TW
+Reconfiguring...,重新設定中...,zh-TW
+Recupero delle statistiche...,正在下載統計資訊...,zh-TW
+Refresh,重新整理,zh-TW
+Rejecting this custom resource pack will disconnect you from this server.,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+Rejeter ce pack de ressources personnalisé vous déconnectera de ce serveur.,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+Rejoindre,加入伺服器,zh-TW
+Report Server Bug,回報伺服器錯誤,zh-TW
+Ressourcenpaket wird angewandt,正在套用資源包,zh-TW
+Retrieving statistics...,正在下載統計資訊...,zh-TW
+Ricerca di partite nella rete locale...,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+"Ricevuta dal server una serie di dati non completa.
+Contatta un operatore del server.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+Ricevuti dal client dei dati personalizzati non previsti,從用戶端接收到預期外的自訂資料,zh-TW
+Ricevuto stato non richiesto,接收到未請求的資訊,zh-TW
+Ricevuto un pacchetto chat con firma mancante o non valida.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+Ricevuto un pacchetto chat non funzionante. L'orario del tuo computer è stato modificato?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+Ricevuto un pacchetto di movimento del giocatore non valido,接收到無效的玩家移動封包,zh-TW
+Ricevuto un pacchetto di movimento di un veicolo non valido,接收到無效的載具移動封包,zh-TW
+Richiesta di connessione scaduta,連線要求逾時,zh-TW
+Richiesta di stato ignorata,忽略狀態請求,zh-TW
+Richiesta di stato presa in gestione,已處理傳送的狀態請求,zh-TW
+Riconfigurazione in corso...,正在重新設定...,zh-TW
+Riconfigurazione in corso...,重新設定中...,zh-TW
+Rifiutare questo pacchetto di risorse ti disconnetterà dal server.,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+Rilevato un messaggio in chat mancante o riordinato dal server,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+Riscontro,意見回饋,zh-TW
+Risoluzione dell'indirizzo non riuscita,無法解析主機名稱,zh-TW
+Risorse del server,伺服器資源包,zh-TW
+Run Command,執行指令,zh-TW
+Récupération des statistiques...,正在下載統計資訊...,zh-TW
+Rückmeldung,意見回饋,zh-TW
+Rời khỏi giường,起床,zh-TW
+Saindo,正在離開,zh-TW
+Sao chép vào màn hình trò chuyện,複製到聊天欄,zh-TW
+Scanning for games on your local network,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+Se ha detectado un movimiento de jugador no válido,接收到無效的玩家移動封包,zh-TW
+Se ha detectado un movimiento de vehículo no válido,接收到無效的載具移動封包,zh-TW
+Se ha producido un error inesperado durante la configuración,設定時發生非預期的錯誤,zh-TW
+Se ha recibido la solicitud de estado,已處理傳送的狀態請求,zh-TW
+Se ha recibido un estado no solicitado,接收到未請求的資訊,zh-TW
+Se ha recibido un paquete de chat desordenado. ¿Ha habido algún cambio en la hora de tu dispositivo?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+Se ha recibido un paquete de chat sin firma o con una firma no válida.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+Se ha tardado demasiado en iniciar sesión,登入逾時,zh-TW
+Se han enviado datos desconocidos desde el cliente,從用戶端接收到預期外的自訂資料,zh-TW
+Se te ha prohibido jugar en línea,您已被禁止遊玩多人遊戲,zh-TW
+Segnala un errore,回報伺服器錯誤,zh-TW
+Server Address,伺服器位址,zh-TW
+Server beitreten,加入伺服器,zh-TW
+Server chiuso,伺服器已關閉,zh-TW
+Server closed,伺服器已關閉,zh-TW
+Server Code of Conduct,伺服器行為準則,zh-TW
+Server di Minecraft,Minecraft 伺服器,zh-TW
+Server geschlossen,伺服器已關閉,zh-TW
+Server hinzufügen,新增伺服器,zh-TW
+Server Name,伺服器名稱,zh-TW
+Server requires accepting the Code of Conduct,伺服器要求接受行為準則,zh-TW
+Server resource pack couldn't be applied,無法套用伺服器資源包,zh-TW
+Server Resource Packs,伺服器資源包,zh-TW
+Server version: %s,伺服器版本：%s,zh-TW
+Server-Ressourcenpakete,伺服器資源包,zh-TW
+Serveradresse,伺服器位址,zh-TW
+Serverinformationen bearbeiten,編輯伺服器資訊,zh-TW
+Servername,伺服器名稱,zh-TW
+Server‐Ressourcenpakete,伺服器資源包,zh-TW
+Server‐Verhaltenskodex,伺服器行為準則,zh-TW
+Server‐Version: %s,伺服器版本：%s,zh-TW
+Serveur fermé,伺服器已關閉,zh-TW
+Serveur Minecraft,Minecraft 伺服器,zh-TW
+Servidor cerrado,伺服器已關閉,zh-TW
+Servidor de Minecraft,Minecraft 伺服器,zh-TW
+Servidor fechado,伺服器已關閉,zh-TW
+Servidores de autenticação indisponíveis. Tente novamente mais tarde!,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+Sesión no válida (prueba a reiniciar el juego y el lanzador),無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+Session non valide (essayez de redémarrer le jeu et le Launcher),無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+Sessione non valida. Prova a riavviare il gioco e il launcher.,無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+Sessão inválida (tente reiniciar o jogo e o Launcher),無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+Settings for Other Players,對其他玩家的設定,zh-TW
+Seu endereço IP foi banido desse servidor,您的 IP 位址已被這個伺服器封鎖,zh-TW
+"Seu endereço IP foi banido desse servidor.
+Motivo: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+Si è tentato di attaccare un'entità non valida,試圖攻擊無效的實體,zh-TW
+Signaler un bug du serveur,回報伺服器錯誤,zh-TW
+"Signature non valide pour la clé publique du profil.
+Essayez de redémarrer le jeu.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"Signature non valide pour la clé publique du profil.
+Essayez de redémarrer le jeu.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+Sil,刪除,zh-TW
+Sim,已啟用,zh-TW
+Site,網站,zh-TW
+Site web,網站,zh-TW
+Sitio web,網站,zh-TW
+Sito,網站,zh-TW
+Social Interactions are only available in Multiplayer worlds,社群交流僅適用於多人遊戲世界,zh-TW
+Sohbet iletileri doğrulanamıyor,無法驗證聊天訊息,zh-TW
+Sohbet iletisi doğrulama başarısız,聊天訊息驗證失敗,zh-TW
+"Sohbet mesajı gönderilemedi, sunucu kayıtlarını kontrol edin: %s",無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+Sohbeti Ekrana Kopyala,複製到聊天欄,zh-TW
+Sohbette yasaklı karakterler kullanıldı,聊天欄中出現不允許的字元,zh-TW
+Soporte,支援,zh-TW
+Sor,提示,zh-TW
+Sosyal Etkileşimler sadece çok oyunculu dünyalarda mevcuttur,社群交流僅適用於多人遊戲世界,zh-TW
+Soziale Interaktionen sind nur in Mehrspielerwelten verfügbar,社群交流僅適用於多人遊戲世界,zh-TW
+Spam nedeniyle atıldın,因為濫發訊息被踢出,zh-TW
+Spieler ist nicht erreichbar,無法連上玩家,zh-TW
+Spieler online: %s,在線玩家：%s,zh-TW
+Stabilimento della connessione...,正在建立連線...,zh-TW
+"Stai cercando di eseguire un comando che invierà messaggi in chat a nome tuo.
+Può essere eseguito solo dalla chat.
+Comando: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"Stai cercando di eseguire un comando che richiede autorizzazioni elevate.
+Ciò potrebbe influire negativamente sulla tua esperienza di gioco.
+Vuoi davvero continuare?
+Comando: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+"Stai cercando di eseguire un comando non riconosciuto o invalido.
+Vuoi davvero continuare?
+Comando: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+Start LAN World,開始區網世界,zh-TW
+Statistiken werden abgerufen …,正在下載統計資訊...,zh-TW
+Stato,狀態,zh-TW
+Status,狀態,zh-TW
+Status ohne Anfrage erhalten,接收到未請求的資訊,zh-TW
+Status request has been handled,已處理傳送的狀態請求,zh-TW
+Statusanfrage wurde bearbeitet,已處理傳送的狀態請求,zh-TW
+Statusanfrage wurde nicht beantwortet,忽略狀態請求,zh-TW
+Statut non demandé reçu,接收到未請求的資訊,zh-TW
+Sua conta está banida do modo online,您已被禁止遊玩多人遊戲,zh-TW
+Suche nach Spielen im lokalen Netzwerk,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+Sunucu Adresi,伺服器位址,zh-TW
+Sunucu Adı,伺服器名稱,zh-TW
+Sunucu adı çözümlenemiyor,無法解析主機名稱,zh-TW
+Sunucu Bilgilerini Düzenle,編輯伺服器資訊,zh-TW
+Sunucu Bilgisini Düzenle,編輯伺服器資訊,zh-TW
+Sunucu Davranış Kuralları,伺服器行為準則,zh-TW
+Sunucu dolu!,伺服器已滿！,zh-TW
+Sunucu Ekle,新增伺服器,zh-TW
+Sunucu geçersiz bir paket gönderdi,伺服器傳送了無效的封包,zh-TW
+Sunucu Hatası Bildir,回報伺服器錯誤,zh-TW
+Sunucu kapatıldı,伺服器已關閉,zh-TW
+Sunucu kaynak paketi uygulanamadı,無法套用伺服器資源包,zh-TW
+Sunucu Kaynak Paketleri,伺服器資源包,zh-TW
+Sunucu sürümü %s,伺服器版本：%s,zh-TW
+"Sunucu, Davranış Kurallarını kabul etmeyi gerektirmektedir",伺服器要求接受行為準則,zh-TW
+"Sunucudan eksik etiket listesi alındı.
+Lütfen bir sunucu yöneticisiyle irtibata geçin.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+Sunucudan kaçırılmış veya yeniden sıralanmış sohbet mesajı algılandı,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+Sunucuya aktarılırken bağlantı başarısız oldu,轉移至伺服器時連線失敗,zh-TW
+Sunucuya bağlanılamadı,與伺服器連線失敗,zh-TW
+Sunucuya bağlanılamıyor,無法連線到伺服器,zh-TW
+Sunucuya bağlanılıyor...,正在連線到伺服器...,zh-TW
+Sunucuya Katıl,加入伺服器,zh-TW
+Suporte,支援,zh-TW
+Support,支援,zh-TW
+Supprimer,刪除,zh-TW
+Sì,已啟用,zh-TW
+Số cổng,連接埠號碼,zh-TW
+"Tanınmayan veya geçersiz bir komut yürütmeye çalışıyorsunuz.
+Emin misiniz?
+Komut: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+Te han bloqueado en este servidor,您已經被這個伺服器封鎖,zh-TW
+"Te han bloqueado en este servidor.
+Motivo: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+Tempo esgotado,連線逾時,zh-TW
+Tempo limite do pedido de conexão excedido,連線要求逾時,zh-TW
+Tentativa de atacar uma entidade inválida,試圖攻擊無效的實體,zh-TW
+Tentative d'attaque sur une entité non valide,試圖攻擊無效的實體,zh-TW
+Terminato,完成,zh-TW
+Terminé,完成,zh-TW
+Tham gia máy chủ,加入伺服器,zh-TW
+That name is already taken,該名稱已被使用,zh-TW
+The authentication servers are currently not reachable. Please try again.,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+The server is full!,伺服器已滿！,zh-TW
+The server sent an invalid packet,伺服器傳送了無效的封包,zh-TW
+This server does not accept transfers,伺服器不接受轉移,zh-TW
+This server recommends the use of a custom resource pack.,此伺服器建議使用其自訂的資源包。,zh-TW
+This server requires a custom resource pack,伺服器要求使用其自訂的資源包,zh-TW
+This server requires the use of a custom resource pack.,此伺服器要求使用其自訂的資源包。,zh-TW
+Thêm máy chủ,新增伺服器,zh-TW
+Thông báo,公告,zh-TW
+Thế giới mạng LAN,區網世界,zh-TW
+Tiempo de espera agotado,連線逾時,zh-TW
+Tiempo de espera de solicitud agotado,連線要求逾時,zh-TW
+Timed out,連線逾時,zh-TW
+Tin nhắn của ngày: %s,伺服器訊息：%s,zh-TW
+Tin nhắn trò chuyện không được xác minh,無法驗證聊天訊息,zh-TW
+Tin tức,新聞,zh-TW
+Too many unacknowledged chat messages,太多未經認可的聊天訊息,zh-TW
+Took too long to log in,登入逾時,zh-TW
+Topluluk,社群,zh-TW
+Topluluk Kuralları,社群規範,zh-TW
+Toute fonctionnalité qui requiert des ressources personnalisées peut ne pas fonctionner comme prévu.,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+Trang web,網站,zh-TW
+Transferido a otro servidor,已轉移至另一個伺服器,zh-TW
+Transferido para outro servidor,已轉移至另一個伺服器,zh-TW
+Transferindo para o novo servidor...,正在轉移至新的伺服器...,zh-TW
+Transferred to another server,已轉移至另一個伺服器,zh-TW
+Transferring to new server...,正在轉移至新的伺服器...,zh-TW
+Transfert vers un nouveau serveur...,正在轉移至新的伺服器...,zh-TW
+Transfiriendo al nuevo servidor...,正在轉移至新的伺服器...,zh-TW
+Transféré(e) vers un autre serveur,已轉移至另一個伺服器,zh-TW
+Trasferimento a un nuovo server...,正在轉移至新的伺服器...,zh-TW
+Trasferito a un altro server,已轉移至另一個伺服器,zh-TW
+Trop de messages du tchat non reconnus,太多未經認可的聊天訊息,zh-TW
+Troppi messaggi in chat non riconosciuti,太多未經認可的聊天訊息,zh-TW
+Trovato nuovo server: %s,找到新的伺服器：%s,zh-TW
+Trạng thái,狀態,zh-TW
+Trực tuyến,線上,zh-TW
+Tu IP ha sido bloqueada en este servidor,您的 IP 位址已被這個伺服器封鎖,zh-TW
+"Tu IP ha sido bloqueada en este servidor.
+Motivo: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+Tên máy chủ,伺服器名稱,zh-TW
+Tên đó đã bị lấy rồi,該名稱已被使用,zh-TW
+Tương tác xã hội chỉ có sẵn trong thế giới chơi mạng,社群交流僅適用於多人遊戲世界,zh-TW
+"Tập hợp nhãn nhận được từ máy chủ chưa hoàn thành.
+Hãy liên hệ người điều hành máy chủ.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+Từ chối sử dụng gói tài nguyên này sẽ khiến bạn rời khỏi máy chủ.,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+Un message manquant ou réordonné reçu de la part du serveur a été détecté,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+Un operatore ha bannato il tuo IP da questo server,您的 IP 位址已被這個伺服器封鎖,zh-TW
+"Un operatore ha bannato il tuo IP da questo server
+
+Motivo: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+Un operatore ti ha bannato dal server,您已經被這個伺服器封鎖,zh-TW
+"Un operatore ti ha bannato dal server
+
+Motivo: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+Un paquet de tchat avec une signature manquante ou non valide a été reçu.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+Unbekannter Server,未知的主機,zh-TW
+Unerwartete benutzerdefinierte Daten vom Client empfangen,從用戶端接收到預期外的自訂資料,zh-TW
+Unerwarteter Fehler während der Konfiguration,設定時發生非預期的錯誤,zh-TW
+Unerwartetes Chatpaket empfangen. Hat sich deine Systemzeit geändert?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+Unexpected custom data from client,從用戶端接收到預期外的自訂資料,zh-TW
+Unexpected error during configuration,設定時發生非預期的錯誤,zh-TW
+"Ungültige Signatur für den öffentlichen Profilschlüssel.
+Versuche, dein Spiel neu zu starten.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"Ungültige Signatur für den öffentlichen Profilschlüssel.
+Versuche, dein Spiel neu zu starten.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+"Ungültige Sitzung (Versuche, das Spiel und ggf. den Launcher neu zu starten)",無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+Ungültige Spielerdaten,無效的玩家資料,zh-TW
+Ungültiges Paket zur Fahrmittelbewegung empfangen,接收到無效的載具移動封包,zh-TW
+Ungültiges Paket zur Spielerbewegung empfangen,接收到無效的玩家移動封包,zh-TW
+Unknown host,未知的主機,zh-TW
+Unzulässige Zeichen im Chat,聊天欄中出現不允許的字元,zh-TW
+Uyumsuz istemci! Lütfen %s kullanın,用戶端不相容！請使用 %s,zh-TW
+Uyumsuz sürüm!,遊戲版本不相容！,zh-TW
+Uçma bu sunucuda açık değil,此伺服器並沒有啟用飛行,zh-TW
+Veraltet,舊版,zh-TW
+Verbindung abgebrochen,失去連線,zh-TW
+Verbindung bei Übertragung an den Server fehlgeschlagen,轉移至伺服器時連線失敗,zh-TW
+Verbindung getrennt,連線中斷,zh-TW
+Verbindung mit dem Server wird hergestellt …,正在連線到伺服器...,zh-TW
+Verbindung wird hergestellt …,正在建立連線...,zh-TW
+Verbindung zum Spieler konnte nicht hergestellt werden,無法連線至該玩家,zh-TW
+Verbindungsaufbau fehlgeschlagen,與伺服器連線失敗,zh-TW
+Verifica del nome utente non riuscita!,無法驗證使用者名稱！,zh-TW
+Verifica della latenza...,Pinging...,zh-TW
+Verschlüsseln …,加密中...,zh-TW
+Version du serveur : %s,伺服器版本：%s,zh-TW
+Version incompatible !,遊戲版本不相容！,zh-TW
+Versione del server: %s,伺服器版本：%s,zh-TW
+Versione incompatibile!,遊戲版本不相容！,zh-TW
+Versión del servidor: %s,伺服器版本：%s,zh-TW
+Versão do servidor: %s,伺服器版本：%s,zh-TW
+Versão incompatível!,遊戲版本不相容！,zh-TW
+"Você está tentando executar um comando não reconhecido ou inválido.
+Deseja continuar?
+Comando: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+"Você está tentando executar um comando que enviará mensagens de chat em seu nome.
+Só é possível executá-lo pelo chat.
+Comando: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"Você está tentando executar um comando que exige permissões altas.
+Isso pode prejudicar o seu jogo.
+Deseja continuar?
+Comando: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+Você ficou ausente por muito tempo!,您的閒置時間過長！,zh-TW
+Você foi banido(a) desse servidor,您已經被這個伺服器封鎖,zh-TW
+"Você foi banido(a) desse servidor.
+Motivo: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+Você iniciou sessão a partir de outro local,您已從其他位置登入,zh-TW
+Você não está na lista branca desse servidor!,你不在這個伺服器的白名單中！,zh-TW
+Você não pode enviar a mensagem de chat. Veja os registros do servidor: %s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+Você não pode resolver o nome do host,無法解析主機名稱,zh-TW
+Você não pode se conectar ao servidor,無法連線到伺服器,zh-TW
+Voler n'est pas autorisé sur ce serveur,此伺服器並沒有啟用飛行,zh-TW
+Von einem Operator gesperrt.,已被管理員封鎖。,zh-TW
+Von einem Operator hinausgeworfen,已被管理員踢出,zh-TW
+"Vorsicht: Der Mehrspielermodus wird über Drittanbieter‐Server angeboten, die Mojang Studios oder Microsoft weder gehören, noch von diesen betrieben oder überwacht werden. Bei der Verwendung des Mehrspielermodus könntest du unmoderierten Chatnachrichten oder sonstigen nutzergenerierten Inhalten ausgesetzt sein, die womöglich nicht für jeden angemessen sind.",警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+Vorsicht: Mehrspielermodus von Drittanbietern,警告：第三方遊戲伺服器,zh-TW
+Votre adresse IP est bannie de ce serveur,您的 IP 位址已被這個伺服器封鎖,zh-TW
+"Votre adresse IP est bannie de ce serveur.
+Raison : %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+Voulez-vous le télécharger et l'installer automagiquement ?,您是否希望它自動下載並安裝？,zh-TW
+Voulez-vous vraiment supprimer ce serveur ?,你確定要移除這個伺服器嗎？,zh-TW
+Vous avez été immobile trop longtemps !,您的閒置時間過長！,zh-TW
+Vous n'êtes pas sur la liste blanche de ce serveur !,你不在這個伺服器的白名單中！,zh-TW
+Vous êtes banni(e) de ce serveur,您已經被這個伺服器封鎖,zh-TW
+"Vous êtes banni(e) de ce serveur.
+Raison : %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+Vous êtes banni(e) du jeu en ligne,您已被禁止遊玩多人遊戲,zh-TW
+Vous êtes déjà connecté(e) depuis un autre emplacement,您已從其他位置登入,zh-TW
+"Vous êtes sur le point d'exécuter une commande non reconnue ou non valide.
+Voulez-vous continuer ?
+Commande : %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+"Vous êtes sur le point d'exécuter une commande qui enverra des messages dans le tchat à votre nom.
+Elle ne peut être exécutée qu'à partir du tchat.
+Commande : %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"Vous êtes sur le point d'exécuter une commande qui nécessite des permissions élevées.
+Cela pourrait affecter négativement votre partie.
+Voulez-vous continuer ?
+Commande : %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+Vuoi davvero rimuovere questo server?,你確定要移除這個伺服器嗎？,zh-TW
+Vuoi scaricarlo e installarlo automagicamente?,您是否希望它自動下載並安裝？,zh-TW
+Website,網站,zh-TW
+Wegen Spamming hinausgeworfen,因為濫發訊息被踢出,zh-TW
+Wegen Überschreitung des Paketratenlimits hinausgeworfen,由於超過封包速率限制而被踢出遊戲,zh-TW
+Welt wird betreten …,正在加入世界...,zh-TW
+"Wenn du das Ressourcenpaket ablehnst, wird deine Verbindung mit dem Server getrennt.",拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+Wird beendet,正在離開,zh-TW
+Would you like to download and install it automagically?,您是否希望它自動下載並安裝？,zh-TW
+Xong,完成,zh-TW
+Xoá,刪除,zh-TW
+Xác nhận thực thi lệnh,確認執行指令,zh-TW
+Ya hay alguien conectado con tu nombre,該名稱已被使用,zh-TW
+Yanlış zamanlı sohbet paketi alındı. Sistem tarihiniz mi değişti?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+Yapılandırmada beklenmeyen hata oluştu,設定時發生非預期的錯誤,zh-TW
+Yataktan Ayrıl,起床,zh-TW
+Yeni sunucu bulundu: %s,找到新的伺服器：%s,zh-TW
+Yeni sunucuya aktarılıyor...,正在轉移至新的伺服器...,zh-TW
+Yeniden Yapılandırılıyor...,正在重新設定...,zh-TW
+Yeniden Yapılandırılıyor...,重新設定中...,zh-TW
+Yenile,重新整理,zh-TW
+Yerel Ağ Dünyası,區網世界,zh-TW
+Yerel Ağ Dünyası Başlat,開始區網世界,zh-TW
+Yerel ağınızdaki oyunlar taranıyor,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+You are banned from playing online,您已被禁止遊玩多人遊戲,zh-TW
+You are banned from this server,您已經被這個伺服器封鎖,zh-TW
+"You are banned from this server.
+Reason: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+You are not white-listed on this server!,你不在這個伺服器的白名單中！,zh-TW
+"You are trying to execute a command that requires elevated permissions.
+This might negatively affect your game.
+Are you sure?
+Command: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+"You are trying to execute a command that will send chat messages using your name.
+It can only be run from the chat screen.
+Command: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"You are trying to execute an unrecognized or invalid command.
+Are you sure?
+Command: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+You have been idle for too long!,您的閒置時間過長！,zh-TW
+You have been IP banned from this server,您的 IP 位址已被這個伺服器封鎖,zh-TW
+You logged in from another location,您已從其他位置登入,zh-TW
+"Your IP address is banned from this server.
+Reason: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+Yêu cầu kết nối đã hết thời gian,連線要求逾時,zh-TW
+"Yüksek yetki gerektiren bir komut yürütmeye çalışıyorsunuz.
+Bu oyununuzu kötü etkileyebilir.
+Emin misiniz?
+Komut: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+Zaman aşımına uğradı,連線逾時,zh-TW
+Zeitüberschreitung,連線逾時,zh-TW
+Zeitüberschreitung beim Verbindungsaufbau,連線要求逾時,zh-TW
+Zu viele unbestätigte Chatnachrichten,太多未經認可的聊天訊息,zh-TW
+"¡Cliente no compatible! Por favor, usa %s",用戶端不相容！請使用 %s,zh-TW
+¡El servidor está lleno!,伺服器已滿！,zh-TW
+¡Has estado inactivo mucho tiempo!,您的閒置時間過長！,zh-TW
+¡No estás en la lista blanca del servidor!,你不在這個伺服器的白名單中！,zh-TW
+¡No se ha podido verificar el nombre de usuario!,無法驗證使用者名稱！,zh-TW
+¡Versión incompatible!,遊戲版本不相容！,zh-TW
+«%s» andrà perso per sempre! (Un sacco di tempo!),「%s」將會永遠消失！（非常久！）,zh-TW
+«%s» desaparecerá... ¡para siempre! (¡mucho tiempo!),「%s」將會永遠消失！（非常久！）,zh-TW
+«%s» будет удалён навсегда! (Безвозвратно!),「%s」將會永遠消失！（非常久！）,zh-TW
+¿Quieres descargarlo e instalarlo automágicamente?,您是否希望它自動下載並安裝？,zh-TW
+¿Seguro que quieres eliminar este servidor?,你確定要移除這個伺服器嗎？,zh-TW
+¿¿??,???,zh-TW
+Çevrim içi,線上,zh-TW
+Çevrim içi oynamanız yasaklandı,您已被禁止遊玩多人遊戲,zh-TW
+Çevrim içi oyuncular: %s,在線玩家：%s,zh-TW
+Çok fazla onaylanmamış sohbet iletisi,太多未經認可的聊天訊息,zh-TW
+Çok Oyunculu Oyna,進行多人遊戲,zh-TW
+Çok oyunculu oyun kapalı. Lütfen Microsoft hesap ayarlarınızı kontrol edin.,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+Çok uzun süre bir şey yapmadan bekledin!,您的閒置時間過長！,zh-TW
+Çıkılıyor,正在離開,zh-TW
+Échec de connexion au serveur,與伺服器連線失敗,zh-TW
+Échec de la connexion : %s,登入失敗：%s,zh-TW
+Échec de la connexion lors du transfert vers le serveur,轉移至伺服器時連線失敗,zh-TW
+Échec de la validation du message du tchat,聊天訊息驗證失敗,zh-TW
+Établissement de la connexion...,正在建立連線...,zh-TW
+État,狀態,zh-TW
+"Özel kaynak gerektiren hiçbir işlev, beklendiği gibi çalışmayabilir",任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+Übertrage an neuen Server …,正在轉移至新的伺服器...,zh-TW
+Đang bỏ qua yêu cầu trạng thái,忽略狀態請求,zh-TW
+Đang cấu hình lại...,正在重新設定...,zh-TW
+Đang cấu hình lại...,重新設定中...,zh-TW
+Đang di chuyển sang máy chủ mới...,正在轉移至新的伺服器...,zh-TW
+Đang kết nối đến máy chủ...,正在連線到伺服器...,zh-TW
+Đang mã hóa...,加密中...,zh-TW
+Đang ping...,Pinging...,zh-TW
+Đang tham gia thế giới...,正在加入世界...,zh-TW
+Đang thiết lập kết nối...,正在建立連線...,zh-TW
+Đang thoát,正在離開,zh-TW
+Đang truy xuất số liệu...,正在下載統計資訊...,zh-TW
+Đang truyền...,協議中...,zh-TW
+Đang tìm kiếm trò chơi trên mạng cục bộ của bạn,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+Đang tải địa hình...,正在載入地形...,zh-TW
+Đang áp dụng gói tài nguyên,正在套用資源包,zh-TW
+Đang đăng nhập...,登入中...,zh-TW
+Đã bật,已啟用,zh-TW
+Đã bị cấm bởi một người điều hành.,已被管理員封鎖。,zh-TW
+Đã bị đuổi vì vượt quá giới hạn tốc độ gói,由於超過封包速率限制而被踢出遊戲,zh-TW
+Đã bị đá bởi một người điều hành,已被管理員踢出,zh-TW
+Đã bị đá vì spam,因為濫發訊息被踢出,zh-TW
+Đã di chuyển sang một máy chủ khác,已轉移至另一個伺服器,zh-TW
+Đã hoàn tất,完成,zh-TW
+Đã huỷ bỏ,已取消,zh-TW
+Đã hết thời gian,連線逾時,zh-TW
+Đã hủy,已中止,zh-TW
+Đã nhận gói tin nhắn với chữ kí bị thiếu hoặc không hợp lệ.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+Đã nhận được trạng thái không được yêu cầu,接收到未請求的資訊,zh-TW
+Đã phát hiện một tin nhắn trò chuyện bị thiếu hoặc đã sắp xếp lại từ máy chủ,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+Đã tìm thấy máy chủ mới: %s,找到新的伺服器：%s,zh-TW
+Đã tắt,已停用,zh-TW
+Đã xử lí yêu cầu trạng thái,已處理傳送的狀態請求,zh-TW
+"Địa chỉ IP của bạn đã bị cấm khỏi máy chủ này.
+Lí do: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+Địa chỉ máy chủ,伺服器位址,zh-TW
+Đừng hiển thị lại màn hình này nữa,不再顯示此畫面,zh-TW
+Đừng thông báo lại cho quy tắc ứng xử này,不再通知本行為準則,zh-TW
+Şifreleniyor...,加密中...,zh-TW
+"Şu anda bağlantı kurmak mümkün değil.
+Daha sonra tekrar deneyin.","目前無法連線。
+請稍後再試。",zh-TW
+Адрес сервера,伺服器位址,zh-TW
+Анонимный игрок,匿名玩家,zh-TW
+Больше не показывать,不再顯示此畫面,zh-TW
+Вам заблокирована сетевая игра,您已被禁止遊玩多人遊戲,zh-TW
+Вас нет в белом списке этого сервера!,你不在這個伺服器的白名單中！,zh-TW
+Ваш IP-адрес заблокирован на этом сервере,您的 IP 位址已被這個伺服器封鎖,zh-TW
+"Ваш IP-адрес заблокирован на этом сервере.
+Причина: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+Версия сервера: %s,伺服器版本：%s,zh-TW
+Включены,已啟用,zh-TW
+Время подключения истекло,連線要求逾時,zh-TW
+Встать с кровати,起床,zh-TW
+Вы были исключены оператором,已被管理員踢出,zh-TW
+Вы действительно хотите удалить этот сервер?,你確定要移除這個伺服器嗎？,zh-TW
+Вы заблокированы на этом сервере,您已經被這個伺服器封鎖,zh-TW
+"Вы заблокированы на этом сервере.
+Причина: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+Вы исключены за превышение частоты передачи пакетов,由於超過封包速率限制而被踢出遊戲,zh-TW
+Вы исключены за спам,因為濫發訊息被踢出,zh-TW
+"Вы пытаетесь выполнить команду для отправки сообщений от вашего имени.
+Её можно выполнить только из чата.
+Команда: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"Вы пытаетесь выполнить команду, которая требует права администратора.
+Это может негативно повлиять на вашу игру.
+Продолжить?
+Команда: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+"Вы пытаетесь выполнить нераспознанную или недопустимую команду.
+Вы уверены?
+Команда: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+Вы слишком долго бездействовали!,您的閒置時間過長！,zh-TW
+Вы уже авторизованы где-то ещё,您已從其他位置登入,zh-TW
+Выполнить команду,執行指令,zh-TW
+Выполняется вход...,登入中...,zh-TW
+Выполняется запрос состояния,已處理傳送的狀態請求,zh-TW
+Выход,正在離開,zh-TW
+Готово,完成,zh-TW
+Добавить,新增伺服器,zh-TW
+Добавление сервера,新增伺服器,zh-TW
+Заблокирован оператором.,已被管理員封鎖。,zh-TW
+Завершено,完成,zh-TW
+Загрузить и установить его автомагически?,您是否希望它自動下載並安裝？,zh-TW
+Загрузка статистики...,正在下載統計資訊...,zh-TW
+Загрузка территории...,正在載入地形...,zh-TW
+Задержка %s миллисекунд,延遲為 %s 毫秒,zh-TW
+Запрашивать,提示,zh-TW
+Игнорирование запроса статуса,忽略狀態請求,zh-TW
+Игрок недоступен,無法連上玩家,zh-TW
+Игроки в сети: %s,在線玩家：%s,zh-TW
+Информация о сервере,編輯伺服器資訊,zh-TW
+Истёк срок действия открытого ключа профиля. Проверьте правильность системного времени и попробуйте перезапустить игру.,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+Клиент несовместим! Используйте %s,用戶端不相容！請使用 %s,zh-TW
+Кодекс поведения сервера,伺服器行為準則,zh-TW
+Конец потока,數據傳送終止,zh-TW
+Копировать в окно чата,複製到聊天欄,zh-TW
+"Любые возможности, использующие пользовательские ресурсы, могут работать неправильно",任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+Мир в локальной сети,區網世界,zh-TW
+На этом сервере полёты отключены,此伺服器並沒有啟用飛行,zh-TW
+Наборы ресурсов,伺服器資源包,zh-TW
+Название сервера,伺服器名稱,zh-TW
+Найден новый сервер: %s,找到新的伺服器：%s,zh-TW
+Нарушена очерёдность пакетов чата. Проверьте настройки системного времени.,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+Настроить,編輯,zh-TW
+Настройки для других игроков,對其他玩家的設定,zh-TW
+Не уведомлять об этом кодексе поведения,不再通知本行為準則,zh-TW
+Не удалось доставить сообщение в чат; проверьте журнал сервера: %s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+Не удалось подключиться к игроку,無法連線至該玩家,zh-TW
+Не удалось подключиться к серверу,與伺服器連線失敗,zh-TW
+Не удалось получить название узла,無法解析主機名稱,zh-TW
+Не удалось проверить имя пользователя!,無法驗證使用者名稱！,zh-TW
+"Неверная подпись открытого ключа профиля.
+Попробуйте перезапустить игру.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"Неверная подпись открытого ключа профиля.
+Попробуйте перезапустить игру.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+Неверные данные игрока,無效的玩家資料,zh-TW
+Невозможно подключиться к серверу,無法連線到伺服器,zh-TW
+Невозможно проверить сообщения чата,無法驗證聊天訊息,zh-TW
+Недействительная сессия (попробуйте перезапустить игру и лаунчер),無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+"Недействительный порт.
+Оставьте поле пустым или введите число от %s до %s.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"Недействительный порт.
+Оставьте поле пустым или введите число от 1024 до 65535.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+Недопустимые символы в чате,聊天欄中出現不允許的字元,zh-TW
+Неизвестный сервер,未知的主機,zh-TW
+Непредвиденная ошибка при настройке,設定時發生非預期的錯誤,zh-TW
+Несовместимая версия!,遊戲版本不相容！,zh-TW
+Новости,新聞,zh-TW
+Обнаружено пропущенное или внеочередное сообщение от сервера,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+Обновить,重新整理,zh-TW
+Обратная связь,意見回饋,zh-TW
+Объявления,公告,zh-TW
+Онлайн,線上,zh-TW
+Описание: %s,伺服器訊息：%s,zh-TW
+Отказ от использования набора ресурсов приведёт к отключению от сервера.,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+Отключение,連線中斷,zh-TW
+Отключены,已停用,zh-TW
+Открыть мир для сети,開始區網世界,zh-TW
+Отменено,已取消,zh-TW
+Ошибка входа: %s,登入失敗：%s,zh-TW
+Ошибка подключения к новому серверу,轉移至伺服器時連線失敗,zh-TW
+"Ошибка подключения.
+Повторите попытку позже.","目前無法連線。
+請稍後再試。",zh-TW
+Ошибка проверки сообщения в чате,聊天訊息驗證失敗,zh-TW
+Ошибка сетевого протокола,網路協定錯誤,zh-TW
+Перенастройка...,正在重新設定...,zh-TW
+Перенастройка...,重新設定中...,zh-TW
+Перенесён на другой сервер,已轉移至另一個伺服器,zh-TW
+Переход на новый сервер...,正在轉移至新的伺服器...,zh-TW
+По адресу,直接連線,zh-TW
+Поддержка,支援,zh-TW
+Подключение к миру...,正在加入世界...,zh-TW
+Подключение к серверу...,正在連線到伺服器...,zh-TW
+Подключиться,加入伺服器,zh-TW
+Подтвердить выполнение команды,確認執行指令,zh-TW
+Поиск миров в локальной сети...,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+Получен неверный пакет перемещения игрока,接收到無效的玩家移動封包,zh-TW
+Получен неверный пакет перемещения транспорта,接收到無效的載具移動封包,zh-TW
+Получен неожиданный статус,接收到未請求的資訊,zh-TW
+"Получен неполный набор тегов от сервера.
+Свяжитесь с оператором сервера.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+Получен пакет чата с отсутствующей или некорректной цифровой подписью.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+Получены неверные данные от клиента,從用戶端接收到預期外的自訂資料,zh-TW
+Попытка взаимодействия с неверной сущностью,試圖攻擊無效的實體,zh-TW
+Порт,連接埠號碼,zh-TW
+"Порт недоступен.
+Оставьте поле пустым или введите другое число в диапазоне от %s до %s.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"Порт недоступен.
+Оставьте поле пустым или введите другое число в диапазоне от 1024 до 65535.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+Правила сообщества,社群規範,zh-TW
+Превышено время ожидания,連線逾時,zh-TW
+"Предупреждение. Сетевая игра, предложенная сторонними серверами, не является собственностью, не управляется и не модерируется Mojang Studios или Microsoft. Во время сетевой игры вы можете столкнуться с немодерируемыми сообщениями в чате или иными видами пользовательского контента, который может подходить не всем игрокам.",警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+Предупреждение: игра на сторонних серверах,警告：第三方遊戲伺服器,zh-TW
+Применение набора ресурсов,正在套用資源包,zh-TW
+Сайт,網站,zh-TW
+Сервер Minecraft,Minecraft 伺服器,zh-TW
+Сервер закрыт,伺服器已關閉,zh-TW
+Сервер не принимает сторонних игроков,伺服器不接受轉移,zh-TW
+Сервер отправил неверный пакет,伺服器傳送了無效的封包,zh-TW
+Сервер полон!,伺服器已滿！,zh-TW
+Сервер предлагает использовать свой набор ресурсов.,此伺服器建議使用其自訂的資源包。,zh-TW
+Сервер требует принятия кодекса поведения,伺服器要求接受行為準則,zh-TW
+Сервер требует специальный набор ресурсов,伺服器要求使用其自訂的資源包,zh-TW
+Серверный набор ресурсов не применён,無法套用伺服器資源包,zh-TW
+Серверы аутентификации недоступны. Попробуйте снова.,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+Серверы аутентификации отключены. Повторите попытку позже. Извините!,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+Сетевая игра,進行多人遊戲,zh-TW
+Сетевая игра отключена. Проверьте настройки своего аккаунта Microsoft.,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+Слишком долгое подключение,登入逾時,zh-TW
+Слишком много неподтверждённых сообщений,太多未經認可的聊天訊息,zh-TW
+Соединение потеряно,失去連線,zh-TW
+Соединение прервано,已中止,zh-TW
+Соединение...,Pinging...,zh-TW
+Соединение...,協議中...,zh-TW
+"Сообщения, отправляемые в чат этого сервера, могут быть изменены и не отражать реальное сообщение",此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+Сообщество,社群,zh-TW
+Сообщить об ошибке сервера,回報伺服器錯誤,zh-TW
+Социальные взаимодействия доступны только в сетевой игре,社群交流僅適用於多人遊戲世界,zh-TW
+Статус,狀態,zh-TW
+Удалить,刪除,zh-TW
+Установка соединения...,正在建立連線...,zh-TW
+Устарел,舊版,zh-TW
+Форумы,論壇,zh-TW
+Шифрование...,加密中...,zh-TW
+Это имя уже занято,該名稱已被使用,zh-TW
+Этот сервер требует использования специального набора ресурсов.,此伺服器要求使用其自訂的資源包。,zh-TW
+การตรวจสอบความถูกต้องของข้อความแชตล้มเหลว,聊天訊息驗證失敗,zh-TW
+การตั้งค่าสำหรับผู้เล่นคนอื่น,對其他玩家的設定,zh-TW
+การบินไม่ได้เปิดใช้งานบนเซิร์ฟเวอร์นี้,此伺服器並沒有啟用飛行,zh-TW
+การปฏิเสธรีซอร์ซแพ็กที่กำหนดเองนี้จะตัดการเชื่อมต่อคุณจากเซิร์ฟเวอร์นี้,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+การรับส่งข้อมูลขาดตอน,數據傳送終止,zh-TW
+การเชื่อมต่อล้มเหลวขณะกำลังโอนย้ายไปยังเซิร์ฟเวอร์,轉移至伺服器時連線失敗,zh-TW
+การเชื่อมต่อสูญหาย,失去連線,zh-TW
+การเชื่อมต่อโดยตรง,直接連線,zh-TW
+กำลังดึงข้อมูลทางสถิติ...,正在下載統計資訊...,zh-TW
+กำลังตรวจสอบการเชื่อมต่อ...,Pinging...,zh-TW
+กำลังต่อรอง...,協議中...,zh-TW
+กำลังปรับแต่งใหม่...,正在重新設定...,zh-TW
+กำลังปรับแต่งใหม่...,重新設定中...,zh-TW
+กำลังปรับใช้รีซอร์ซแพ็ก,正在套用資源包,zh-TW
+กำลังสร้างการเชื่อมต่อ...,正在建立連線...,zh-TW
+กำลังสแกนหาเกมบนเครือข่ายท้องถิ่นของคุณ,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+กำลังออก,正在離開,zh-TW
+กำลังเข้ารหัส...,加密中...,zh-TW
+กำลังเข้าร่วมโลก...,正在加入世界...,zh-TW
+กำลังเข้าสู่ระบบ...,登入中...,zh-TW
+กำลังเชื่อมต่อไปยังเซิร์ฟเวอร์...,正在連線到伺服器...,zh-TW
+กำลังโหลดภูมิประเทศ...,正在載入地形...,zh-TW
+กำลังโอนย้ายไปยังเซิร์ฟเวอร์ใหม่...,正在轉移至新的伺服器...,zh-TW
+ขออภัย! เซิร์ฟเวอร์ระบบยืนยันตัวตนไม่ทำงาน กรุณาลองใหม่อีกครั้งในภายหลัง,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+ข่าวสาร,新聞,zh-TW
+ข้อความที่ส่งบนเซิร์ฟเวอร์นี้อาจมีการดัดแปรและอาจไม่สะท้อนให้เห็นถึงข้อความต้นฉบับได้,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+ข้อความประจำวัน: %s,伺服器訊息：%s,zh-TW
+ข้อผิดพลาดโพรโทคอลเครือข่าย,網路協定錯誤,zh-TW
+ข้อมูลผู้เล่นไม่ถูกต้อง,無效的玩家資料,zh-TW
+ข้อเสนอแนะ,意見回饋,zh-TW
+คัดลอกไปยังหน้าจอแชต,複製到聊天欄,zh-TW
+คำขอสถานะได้รับการจัดการแล้ว,已處理傳送的狀態請求,zh-TW
+คำขอเชื่อมต่อหมดเวลา,連線要求逾時,zh-TW
+คำเตือน: การเล่นออนไลน์ภายนอก,警告：第三方遊戲伺服器,zh-TW
+คำเตือน: การเล่นออนไลน์เป็นการใช้เซิร์ฟเวอร์ภายนอกที่ไม่ได้อยู่ภายใต้การดำเนินการหรือเป็นเจ้าของโดย Mojang หรือ Microsoft ดังนั้นในระหว่างการเล่นออนไลน์คุณอาจพบข้อความที่ปราศจากการคัดกรองหรือเนื้อหาที่สร้างจากผู้เล่นคนอื่น ๆ ซึ่งอาจไม่เหมาะสำหรับทุกคน,警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+คีย์สาธารณะของโปรไฟล์หมดอายุ โปรดตรวจสอบว่าได้ซิงค์เวลาระบบของคุณแล้ว และลองเริ่มเกมใหม่อีกครั้ง,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+"คุณกำลังพยายามดำเนินการคำสั่งที่จะส่งข้อความแชตโดยใช้ชื่อของคุณ
+การกระทำนี้สามารถรันได้จากหน้าจอแชตเท่านั้น
+คำสั่ง: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"คุณกำลังพยายามดำเนินการคำสั่งที่จำเป็นต้องใช้สิทธิ์ระดับสูง
+สิ่งนี้อาจส่งผลเชิงลบต่อเกมของคุณ
+คุณแน่ใจหรือไม่?
+คำสั่ง: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+"คุณกำลังพยายามดำเนินการคำสั่งที่ไม่รู้จักหรือไม่ถูกต้อง
+คุณแน่ใจหรือไม่?
+คำสั่ง: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+คุณต้องการให้ดาวน์โหลดและติดตั้งโดยอัตโนมัติไหม?,您是否希望它自動下載並安裝？,zh-TW
+คุณถูกแบน IP จากเซิร์ฟเวอร์นี้,您的 IP 位址已被這個伺服器封鎖,zh-TW
+คุณถูกแบนจากการเล่นแบบออนไลน์,您已被禁止遊玩多人遊戲,zh-TW
+คุณถูกแบนจากเซิร์ฟเวอร์นี้,您已經被這個伺服器封鎖,zh-TW
+"คุณถูกแบนจากเซิร์ฟเวอร์นี้
+เหตุผล: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+คุณอยู่เฉย ๆ นานเกินไป!,您的閒置時間過長！,zh-TW
+คุณเข้าสู่ระบบจากที่อื่น,您已從其他位置登入,zh-TW
+คุณแน่ใจหรือไม่ว่าคุณต้องการลบเซิร์ฟเวอร์นี้?,你確定要移除這個伺服器嗎？,zh-TW
+คุณไม่ได้อยู่ในบัญชีขาวบนเซิร์ฟเวอร์นี้!,你不在這個伺服器的白名單中！,zh-TW
+ชื่อนี้ถูกใช้ไปแล้ว,該名稱已被使用,zh-TW
+ชื่อเซิร์ฟเวอร์,伺服器名稱,zh-TW
+ชุมชน,社群,zh-TW
+ตรวจพบข้อความแชตที่สูญหายหรือเรียงลำดับใหม่จากเซิร์ฟเวอร์,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+ตัดการเชื่อมต่อแล้ว,連線中斷,zh-TW
+ถามก่อน,提示,zh-TW
+ถูกยกเลิก,已中止,zh-TW
+ถูกเตะเนื่องจากการสแปม,因為濫發訊息被踢出,zh-TW
+ถูกเตะเนื่องจากอัตราแพ็กเก็ตเกินขีดจำกัด,由於超過封包速率限制而被踢出遊戲,zh-TW
+ถูกเตะโดยผู้ควบคุม,已被管理員踢出,zh-TW
+ถูกแบนโดยผู้ควบคุม,已被管理員封鎖。,zh-TW
+"ที่อยู่ IP ของคุณถูกแบนจากเซิร์ฟเวอร์นี้
+เหตุผล: %s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+ที่อยู่เซิร์ฟเวอร์,伺服器位址,zh-TW
+ปฏิสัมพันธ์ทางสังคมพร้อมใช้งานในโลกผู้เล่นหลายคนเท่านั้น,社群交流僅適用於多人遊戲世界,zh-TW
+ประกาศ,公告,zh-TW
+ปิง %s มิลลิวินาที,延遲為 %s 毫秒,zh-TW
+ปิดใช้งาน,已停用,zh-TW
+ผู้เล่นที่ออนไลน์: %s,在線玩家：%s,zh-TW
+ผู้เล่นไม่ระบุชื่อ,匿名玩家,zh-TW
+พบเซิร์ฟเวอร์ใหม่: %s,找到新的伺服器：%s,zh-TW
+พยายามโจมตีเอนทิตี้อย่างไม่ถูกต้อง,試圖攻擊無效的實體,zh-TW
+"พอร์ตไม่ถูกต้อง
+เว้นช่องแก้ไขให้ว่างไว้หรือป้อนตัวเลขระหว่าง %s ถึง %s","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"พอร์ตไม่ถูกต้อง
+เว้นช่องแก้ไขให้ว่างไว้หรือป้อนตัวเลขระหว่าง 1024 ถึง 65535","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+"พอร์ตไม่พร้อมใช้งาน
+เว้นช่องแก้ไขให้ว่างไว้หรือป้อนตัวเลขอื่นระหว่าง %s ถึง %s","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"พอร์ตไม่พร้อมใช้งาน
+เว้นช่องแก้ไขให้ว่างไว้หรือป้อนตัวเลขอื่นระหว่าง 1024 ถึง 65535","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+ฟอรัม,論壇,zh-TW
+ฟังก์ชันการทำงานใด ๆ ที่ต้องใช้รีซอร์ซแพ็กแบบกำหนดเองอาจไม่ทำงานตามที่คาดไว้,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+มีข้อความแชตที่ไม่สามารถยืนยันได้มากเกินไป,太多未經認可的聊天訊息,zh-TW
+มีข้อมูลแบบปรับแต่งเองที่ไม่คาดคิดจากไคลเอนต์,從用戶端接收到預期外的自訂資料,zh-TW
+มีผู้เล่น %s คนจาก %s คนที่ออนไลน์,有 %s 位玩家在線上，共 %s 位玩家,zh-TW
+ยกเลิกแล้ว,已取消,zh-TW
+ยืนยันการดำเนินการคำสั่ง,確認執行指令,zh-TW
+รันคำสั่ง,執行指令,zh-TW
+รายงานจุดบกพร่องเซิร์ฟเวอร์,回報伺服器錯誤,zh-TW
+รีซอร์ซแพ็กเซิร์ฟเวอร์,伺服器資源包,zh-TW
+รีซอร์ซแพ็กเซิร์ฟเวอร์ไม่สามารถใช้งานได้,無法套用伺服器資源包,zh-TW
+รีเฟรช,重新整理,zh-TW
+ลบ,刪除,zh-TW
+ละเว้นคำขอสถานะ,忽略狀態請求,zh-TW
+"ลายเซ็นสำหรับคีย์สาธารณะของโปรไฟล์ไม่ถูกต้อง
+ลองรีสตาร์ตเกมของคุณ","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"ลายเซ็นสำหรับคีย์สาธารณะของโปรไฟล์ไม่ถูกต้อง
+ลองรีสตาร์ตเกมของคุณ","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+ลุกออกจากเตียง,起床,zh-TW
+ล้มเหลวในการทวนสอบชื่อผู้ใช้!,無法驗證使用者名稱！,zh-TW
+ล้มเหลวในการเข้าสู่ระบบ: %s,登入失敗：%s,zh-TW
+สถานะ,狀態,zh-TW
+สนับสนุน,支援,zh-TW
+หมดเวลาการเชื่อมต่อ,連線逾時,zh-TW
+หมายเลขพอร์ต,連接埠號碼,zh-TW
+หลักเกณฑ์ของชุมชน,社群規範,zh-TW
+ออนไลน์,線上,zh-TW
+อักขระผิดกฎในแชต,聊天欄中出現不允許的字元,zh-TW
+เกิดข้อผิดพลาดที่ไม่คาดคิดระหว่างการปรับแต่ง,設定時發生非預期的錯誤,zh-TW
+เก่า,舊版,zh-TW
+เข้าร่วมเซิร์ฟเวอร์,加入伺服器,zh-TW
+"เซตของแท็กที่ได้รับจากเซิร์ฟเวอร์ไม่สมบูรณ์
+โปรดติดต่อผู้ควบคุมเซิร์ฟเวอร์","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+เซสชันไม่ถูกต้อง (ลองรีสตาร์ตเกมและลันเชอร์ของคุณ),無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+เซิร์ฟเวอร์ Minecraft,Minecraft 伺服器,zh-TW
+เซิร์ฟเวอร์ต้องการให้ยอมรับแนวทางปฏิบัติ,伺服器要求接受行為準則,zh-TW
+เซิร์ฟเวอร์นี้ต้องใช้รีซอร์ซแพ็กที่กำหนดเอง,伺服器要求使用其自訂的資源包,zh-TW
+เซิร์ฟเวอร์นี้ต้องใช้รีซอร์ซแพ็กที่กำหนดเอง,此伺服器要求使用其自訂的資源包。,zh-TW
+เซิร์ฟเวอร์นี้แนะนำให้ใช้รีซอร์ซแพ็กที่กำหนดเอง,此伺服器建議使用其自訂的資源包。,zh-TW
+เซิร์ฟเวอร์นี้ไม่ยอมรับการโอนย้าย,伺服器不接受轉移,zh-TW
+เซิร์ฟเวอร์ปิดแล้ว,伺服器已關閉,zh-TW
+เซิร์ฟเวอร์ส่งแพ็กเก็ตที่ไม่ถูกต้อง,伺服器傳送了無效的封包,zh-TW
+เซิร์ฟเวอร์เต็มแล้ว!,伺服器已滿！,zh-TW
+เปิดใช้งาน,已啟用,zh-TW
+เพิ่มเซิร์ฟเวอร์,新增伺服器,zh-TW
+เริ่มโลก LAN,開始區網世界,zh-TW
+เล่นแบบผู้เล่นหลายคน,進行多人遊戲,zh-TW
+เวอร์ชันเข้ากันไม่ได้!,遊戲版本不相容！,zh-TW
+เวอร์ชันเซิร์ฟเวอร์: %s,伺服器版本：%s,zh-TW
+เว็บไซต์,網站,zh-TW
+เสร็จสิ้น,完成,zh-TW
+แก้ไข,編輯,zh-TW
+แก้ไขข้อมูลเซิร์ฟเวอร์,編輯伺服器資訊,zh-TW
+แนวทางปฏิบัติของเซิร์ฟเวอร์,伺服器行為準則,zh-TW
+โลก LAN,區網世界,zh-TW
+โหมดผู้เล่นหลายคนถูกปิดใช้งาน โปรดตรวจสอบการตั้งค่าบัญชี Microsoft ของคุณ,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+โอนย้ายไปอีกเซิร์ฟเวอร์แล้ว,已轉移至另一個伺服器,zh-TW
+ใช้เวลานานเกินไปในการเข้าสู่ระบบ,登入逾時,zh-TW
+ไคลเอนต์เข้ากันไม่ได้! โปรดใช้ %s,用戶端不相容！請使用 %s,zh-TW
+ได้รับสถานะที่ไม่ได้ร้องขอ,接收到未請求的資訊,zh-TW
+ได้รับแพ็กเก็ตการเคลื่อนที่ของผู้เล่นที่ไม่ถูกต้อง,接收到無效的玩家移動封包,zh-TW
+ได้รับแพ็กเก็ตการเคลื่อนที่ของยานพาหนะที่ไม่ถูกต้อง,接收到無效的載具移動封包,zh-TW
+ได้รับแพ็กเก็ตแชตที่ลายเซ็นสูญหายหรือไม่ถูกต้อง,收到缺少或含有無效簽章的聊天封包。,zh-TW
+ได้รับแพ็กเก็ตแชตที่ไม่เป็นลำดับ เวลาระบบของคุณเปลี่ยนไปหรือไม่?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+ไม่ต้องแจ้งเตือนแนวทางปฏิบัตินี้อีก,不再通知本行為準則,zh-TW
+ไม่ทราบโฮสต์,未知的主機,zh-TW
+ไม่พบชื่อโฮสต์,無法解析主機名稱,zh-TW
+ไม่สามารถยืนยันข้อความแชตได้,無法驗證聊天訊息,zh-TW
+ไม่สามารถส่งข้อความแชต โปรดตรวจสอบบันทึกเซิร์ฟเวอร์: %s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+ไม่สามารถเข้าถึงผู้เล่น,無法連上玩家,zh-TW
+ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ระบบยืนยันตัวตนได้ โปรดลองใหม่อีกครั้ง,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+"ไม่สามารถเชื่อมต่อได้ในขณะนี้
+ลองใหม่อีกครั้งในภายหลัง","目前無法連線。
+請稍後再試。",zh-TW
+ไม่สามารถเชื่อมต่อไปยังผู้เล่น,無法連線至該玩家,zh-TW
+ไม่สามารถเชื่อมต่อไปยังเซิร์ฟเวอร์,無法連線到伺服器,zh-TW
+ไม่สามารถเชื่อมต่อไปยังเซิร์ฟเวอร์ได้,與伺服器連線失敗,zh-TW
+ไม่แสดงหน้านี้อีก,不再顯示此畫面,zh-TW
+‚%s‘ wird für immer verloren sein! (Eine lange Zeit!),「%s」將會永遠消失！（非常久！）,zh-TW
+“%s”将会永久消失！（真的很久！）,「%s」將會永遠消失！（非常久！）,zh-TW
+… und %s weitere …,... 以及另外 %s 人 ...,zh-TW
+…その他%s人…,... 以及另外 %s 人 ...,zh-TW
+…及其他%s名玩家…,... 以及另外 %s 人 ...,zh-TW
+「%s」は完全に削除され、二度と元に戻せません！,「%s」將會永遠消失！（非常久！）,zh-TW
+"あなたのIPアドレスはこのサーバーからアクセスを禁止されています。
+理由：%s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+あなたのIPアドレスはこのサーバーへのアクセスを禁止されています,您的 IP 位址已被這個伺服器封鎖,zh-TW
+"あなたの名前でチャットメッセージを送信するコマンドを実行しようとしています。
+このコマンドはチャット欄からしか実行できません。
+コマンド：%s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+あなたはこのサーバーのホワイトリストに含まれていません,你不在這個伺服器的白名單中！,zh-TW
+あなたは別の場所で既にログインしています,您已從其他位置登入,zh-TW
+お知らせ,公告,zh-TW
+このカスタムリソースパックを拒否すると、このサーバーから切断されます。,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+このサーバーでは、カスタムリソースパックの利用が必要です。,此伺服器要求使用其自訂的資源包。,zh-TW
+このサーバーでは、カスタムリソースパックの利用をお勧めします。,此伺服器建議使用其自訂的資源包。,zh-TW
+このサーバーではカスタムリソースパックが必要です,伺服器要求使用其自訂的資源包,zh-TW
+このサーバーでは行動規範に同意する必要があります,伺服器要求接受行為準則,zh-TW
+このサーバーでは飛行は有効ではありません,此伺服器並沒有啟用飛行,zh-TW
+このサーバーで送信されたメッセージは変更される場合があり、元のメッセージを反映していない可能性があります。,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+このサーバーへのアクセスは禁止されています,您已經被這個伺服器封鎖,zh-TW
+"このサーバーへのアクセスは禁止されています。
+理由：%s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+このサーバーを削除しますか？,你確定要移除這個伺服器嗎？,zh-TW
+"このポートは利用できません。
+編集ボックスを空にするか、%1$sから%2$sまでの別の数値を入力してください。","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"このポートは利用できません。
+編集ボックスを空にするか、%1$sから%2$sまでの数値を入力してください。","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"このポートは利用できません。
+編集ボックスを空にするか、1024から65535までの別の数値を入力してください。","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+この画面を再度表示しない,不再顯示此畫面,zh-TW
+この行動規範について二度と通知しない,不再通知本行為準則,zh-TW
+その名前は既に使用されています,該名稱已被使用,zh-TW
+ウェブサイト,網站,zh-TW
+オンライン,線上,zh-TW
+オンラインプレイが禁止されています,您已被禁止遊玩多人遊戲,zh-TW
+カスタムリソースパックが必要になる機能は、正常に機能しない可能性があります,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+キャンセルしました,已取消,zh-TW
+クライアントからの予期しないカスタムデータ,從用戶端接收到預期外的自訂資料,zh-TW
+クライアントのバージョンが対応していません。%sを使用してください,用戶端不相容！請使用 %s,zh-TW
+コマンドの実行確認,確認執行指令,zh-TW
+コマンドを実行,執行指令,zh-TW
+コミュニティ,社群,zh-TW
+コミュニティガイドライン,社群規範,zh-TW
+サポート,支援,zh-TW
+"サーバーから不完全なタグのセットが受信されました。
+サーバーの管理者にお問い合わせください。","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+サーバーから欠けていた、あるいは再送信されたチャットメッセージを検出しました,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+サーバーが無効なパケットを送信しました,伺服器傳送了無效的封包,zh-TW
+サーバーが転送を受け付けていません,伺服器不接受轉移,zh-TW
+サーバーが閉鎖されました,伺服器已關閉,zh-TW
+サーバーに接続,加入伺服器,zh-TW
+サーバーに接続できません,無法連線到伺服器,zh-TW
+サーバーに接続中…,正在連線到伺服器...,zh-TW
+サーバーのバグを報告,回報伺服器錯誤,zh-TW
+サーバーのバージョンは%sです,伺服器版本：%s,zh-TW
+サーバーの行動規範,伺服器行為準則,zh-TW
+サーバーは満員です,伺服器已滿！,zh-TW
+サーバーへの接続に失敗しました,與伺服器連線失敗,zh-TW
+サーバーへの転送中に接続が切断されました,轉移至伺服器時連線失敗,zh-TW
+サーバーを追加,新增伺服器,zh-TW
+サーバーアドレス,伺服器位址,zh-TW
+サーバーリソースパック,伺服器資源包,zh-TW
+サーバーリソースパックを適用できませんでした,無法套用伺服器資源包,zh-TW
+サーバー名,伺服器名稱,zh-TW
+サーバー情報の編集,編輯伺服器資訊,zh-TW
+ステータスのリクエストが処理されました,已處理傳送的狀態請求,zh-TW
+ステータスのリクエストの無視,忽略狀態請求,zh-TW
+スパム行為のために退出させられました,因為濫發訊息被踢出,zh-TW
+タイムアウトしました,連線逾時,zh-TW
+ダイレクト接続,直接連線,zh-TW
+チャットに使用できない文字がありました,聊天欄中出現不允許的字元,zh-TW
+チャットメッセージの安全性の確認ができません,無法驗證聊天訊息,zh-TW
+チャットメッセージの検証に失敗しました,聊天訊息驗證失敗,zh-TW
+チャットメッセージを配信できません。サーバーのログを確認してください：%s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+チャット欄にコピー,複製到聊天欄,zh-TW
+ニュース,新聞,zh-TW
+ネットワークプロトコルのエラーが発生しました,網路協定錯誤,zh-TW
+バージョンが対応していません！,遊戲版本不相容！,zh-TW
+パケット量が規定値を超えたため退出させられました,由於超過封包速率限制而被踢出遊戲,zh-TW
+フィードバック,意見回饋,zh-TW
+フォーラム,論壇,zh-TW
+プレイヤーに到達できません,無法連上玩家,zh-TW
+プレイヤーに接続できませんでした,無法連線至該玩家,zh-TW
+プレイヤーの不正な動きを検知しました,接收到無效的玩家移動封包,zh-TW
+プロフィール公開鍵が失効しています。システム時刻が同期していることを確認し、ゲームを再起動してみてください。,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+ベッドから出る,起床,zh-TW
+ホスト名が見つかりません,無法解析主機名稱,zh-TW
+ポート番号,連接埠號碼,zh-TW
+マルチプレイが無効になっています。Microsoftアカウントの設定をご確認ください。,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+マルチプレイで遊ぶ,進行多人遊戲,zh-TW
+ユーザー名の検証に失敗しました,無法驗證使用者名稱！,zh-TW
+リクエストされていないステータスを受信しました,接收到未請求的資訊,zh-TW
+リソースパックを適用中,正在套用資源包,zh-TW
+ログインにかかる時間が長すぎました,登入逾時,zh-TW
+ログインに失敗しました：%s,登入失敗：%s,zh-TW
+ログイン中…,登入中...,zh-TW
+ワールドに接続中…,正在加入世界...,zh-TW
+不再显示此屏幕,不再顯示此畫面,zh-TW
+不再通知此行为准则,不再通知本行為準則,zh-TW
+不明なホストです,未知的主機,zh-TW
+中断されました,已中止,zh-TW
+乗り物の不正な動きを検知しました,接收到無效的載具移動封包,zh-TW
+从客户端收到未知的自定义数据,從用戶端接收到預期外的自訂資料,zh-TW
+"从该服务器接收到了不完整标签集。
+请联系服务器管理员。","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+他のプレイヤーのための設定,對其他玩家的設定,zh-TW
+你不在此服务器的白名单中！,你不在這個伺服器的白名單中！,zh-TW
+"你尝试执行的命令将使用你的名称发送聊天消息。
+该命令只能在聊天屏幕执行。
+命令：%s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+"你尝试执行的命令无法识别或无效。
+确定要执行吗？
+命令：%s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+"你尝试执行的命令需要较高的权限。
+这可能会对游戏产生负面影响。
+确定要执行吗？
+命令：%s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+你已在异地登录,您已從其他位置登入,zh-TW
+你已被此服务器封禁,您已經被這個伺服器封鎖,zh-TW
+"你已被此服务器封禁。
+原因：%s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+你已被禁止进行在线游戏,您已被禁止遊玩多人遊戲,zh-TW
+你想要自动下载和安装它吗？,您是否希望它自動下載並安裝？,zh-TW
+你的IP地址已被此服务器封禁,您的 IP 位址已被這個伺服器封鎖,zh-TW
+"你的IP已被此服务器封禁。
+原因：%s","您的 IP 位址已被這個伺服器封鎖。
+原因：%s",zh-TW
+你的未操作时间过长！,您的閒置時間過長！,zh-TW
+你确定要删除此服务器吗？,你確定要移除這個伺服器嗎？,zh-TW
+再構成中…,正在重新設定...,zh-TW
+再構成中…,重新設定中...,zh-TW
+切断されました,連線中斷,zh-TW
+创建局域网世界,開始區網世界,zh-TW
+删除,刪除,zh-TW
+別のサーバーに転送しました,已轉移至另一個伺服器,zh-TW
+刷新,重新整理,zh-TW
+削除,刪除,zh-TW
+加入世界中…,正在加入世界...,zh-TW
+加入服务器,加入伺服器,zh-TW
+加载地形中…,正在載入地形...,zh-TW
+匿名のプレイヤー,匿名玩家,zh-TW
+反馈,意見回饋,zh-TW
+发现新的服务器：%s,找到新的伺服器：%s,zh-TW
+受信したチャットパケットの署名が存在しないか、無効になっています,收到缺少或含有無效簽章的聊天封包。,zh-TW
+古いです,舊版,zh-TW
+启用,已啟用,zh-TW
+在线,線上,zh-TW
+在线玩家：%s,在線玩家：%s,zh-TW
+地形情報を読み込み中…,正在載入地形...,zh-TW
+复制到聊天屏幕,複製到聊天欄,zh-TW
+多人游戏,進行多人遊戲,zh-TW
+多人游戏已被禁用，请检查你的Microsoft账户设置。,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+完了,完成,zh-TW
+完了しました,完成,zh-TW
+客户端不兼容！请使用%s,用戶端不相容！請使用 %s,zh-TW
+对其他玩家的设置,對其他玩家的設定,zh-TW
+局域网世界,區網世界,zh-TW
+已完成,完成,zh-TW
+已被管理员封禁。,已被管理員封鎖。,zh-TW
+已转移至另一个服务器,已轉移至另一個伺服器,zh-TW
+延迟为%s毫秒,延遲為 %s 毫秒,zh-TW
+建立连接中…,正在建立連線...,zh-TW
+応答待機中…,Pinging...,zh-TW
+忽略状态请求,忽略狀態請求,zh-TW
+所有依赖自定义资源包的功能都有可能不按预期工作,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+执行命令,執行指令,zh-TW
+报告服务器漏洞,回報伺服器錯誤,zh-TW
+拒绝使用该自定义资源包将会断开你与该服务器的连接。,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+接收到了乱序的聊天数据包。你的系统时间是否被更改过？,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+接收到了缺少签名或含有无效签名的聊天数据包。,收到缺少或含有無效簽章的聊天封包。,zh-TW
+接続が終了されました,數據傳送終止,zh-TW
+接続を確立中…,正在建立連線...,zh-TW
+接続を維持できません,失去連線,zh-TW
+接続リクエストがタイムアウトしました,連線要求逾時,zh-TW
+支持,支援,zh-TW
+收到了包含非法玩家移动的数据包,接收到無效的玩家移動封包,zh-TW
+收到了包含非法载具移动的数据包,接收到無效的載具移動封包,zh-TW
+收到了未请求的状态,接收到未請求的資訊,zh-TW
+数据流终止,數據傳送終止,zh-TW
+新しいサーバーが見つかりました：%s,找到新的伺服器：%s,zh-TW
+新しいサーバーに転送中...,正在轉移至新的伺服器...,zh-TW
+新闻,新聞,zh-TW
+无效会话（请尝试重启游戏及启动器）,無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+无效的玩家数据,無效的玩家資料,zh-TW
+"无效的玩家档案公钥签名。
+请尝试重启游戏。","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"无效的玩家档案公钥签名。
+请尝试重启游戏。","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+无法发送聊天信息，请检查服务器日志：%s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+无法应用服务器资源包,無法套用伺服器資源包,zh-TW
+无法解析主机名,無法解析主機名稱,zh-TW
+无法连接至服务器,無法連線到伺服器,zh-TW
+无法连接至服务器,與伺服器連線失敗,zh-TW
+无法连接至该玩家,無法連線至該玩家,zh-TW
+无法验证聊天消息,無法驗證聊天訊息,zh-TW
+旧版,舊版,zh-TW
+"暂时无法连接。
+请稍后再试。","目前無法連線。
+請稍後再試。",zh-TW
+暂时无法连接到身份验证服务器，请稍后再试。,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+暗号化中…,加密中...,zh-TW
+更新,重新整理,zh-TW
+有効,已啟用,zh-TW
+服务器信息：%s,伺服器訊息：%s,zh-TW
+服务器名称,伺服器名稱,zh-TW
+服务器地址,伺服器位址,zh-TW
+服务器已关闭,伺服器已關閉,zh-TW
+服务器已满！,伺服器已滿！,zh-TW
+服务器版本：%s,伺服器版本：%s,zh-TW
+服务器行为准则,伺服器行為準則,zh-TW
+服务器要求接受行为准则,伺服器要求接受行為準則,zh-TW
+服务器资源包,伺服器資源包,zh-TW
+未承認のチャットメッセージが多すぎます,太多未經認可的聊天訊息,zh-TW
+未知的主机,未知的主機,zh-TW
+未经确认的聊天消息过多,太多未經認可的聊天訊息,zh-TW
+本日のメッセージは「%s」です,伺服器訊息：%s,zh-TW
+检测中…,Pinging...,zh-TW
+检测到来自此服务器的聊天消息部分缺失或已被重新排序,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+構成中に予期せぬエラーが発生しました,設定時發生非預期的錯誤,zh-TW
+正在你的本地网络中寻找游戏,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+正在应用资源包,正在套用資源包,zh-TW
+正在获取统计信息…,正在下載統計資訊...,zh-TW
+正在转移至新的服务器…,正在轉移至新的伺服器...,zh-TW
+正在连接至服务器…,正在連線到伺服器...,zh-TW
+正在退出,正在離開,zh-TW
+此名称已被占用,該名稱已被使用,zh-TW
+此服务器不接受转移,伺服器不接受轉移,zh-TW
+此服务器发送了一个无效的数据包,伺服器傳送了無效的封包,zh-TW
+此服务器未启用飞行,此伺服器並沒有啟用飛行,zh-TW
+此服务器需要自定义资源包,伺服器要求使用其自訂的資源包,zh-TW
+毎回確認,提示,zh-TW
+添加服务器,新增伺服器,zh-TW
+無効,已停用,zh-TW
+無効なエンティティを攻撃しようとしました,試圖攻擊無效的實體,zh-TW
+無効なセッションです（ゲームとランチャーを再起動してください）,無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+無効なプレイヤーデータです,無效的玩家資料,zh-TW
+"無効なプロフィール公開鍵の署名です。
+ゲームを再起動してください。","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"無効なプロフィール公開鍵の署名です。
+ゲームを再起動してください。","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+"無効なポートです。
+編集ボックスを空にするか、1024から65535までの数値を入力してください。","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+無操作時間が長すぎました,您的閒置時間過長！,zh-TW
+版本不兼容！,遊戲版本不相容！,zh-TW
+状态,狀態,zh-TW
+状态请求已处理,已處理傳送的狀態請求,zh-TW
+状態,狀態,zh-TW
+玩家无法连接,無法連上玩家,zh-TW
+玩家档案公钥过期。请确保系统时间同步，然后尝试重启游戏。,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+"現在、接続できません。
+後でもう一度お試しください。","目前無法連線。
+請稍後再試。",zh-TW
+現在オンラインのプレイヤーは%sです,在線玩家：%s,zh-TW
+由于滥发消息而被踢出游戏,因為濫發訊息被踢出,zh-TW
+由于超出数据包速率限制而被踢出游戏,由於超過封包速率限制而被踢出遊戲,zh-TW
+登录中…,登入中...,zh-TW
+登录失败：%s,登入失敗：%s,zh-TW
+登录超时,登入逾時,zh-TW
+直接连接,直接連線,zh-TW
+确认执行命令,確認執行指令,zh-TW
+社交屏幕仅在多人游戏世界中可用,社群交流僅適用於多人遊戲世界,zh-TW
+社交設定はマルチプレイでのみ利用できます,社群交流僅適用於多人遊戲世界,zh-TW
+社区,社群,zh-TW
+社区方针,社群規範,zh-TW
+禁用,已停用,zh-TW
+"端口不可用。
+请将编辑框留空，或输入一个介于%s和%s之间的新数字。","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"端口不可用。
+请将编辑框留空，或输入一个介于1024和65535之间的新数字。","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+端口号,連接埠號碼,zh-TW
+"端口无效。
+请将编辑框留空，或输入一个介于%s和%s之间的数字。","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"端口无效。
+请将编辑框留空，或输入一个介于1024和65535之间的数字。","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+管理者によりアクセスが禁止されました。,已被管理員封鎖。,zh-TW
+管理者に退出させられました,已被管理員踢出,zh-TW
+終了中,正在離開,zh-TW
+統計情報を取得中…,正在下載統計資訊...,zh-TW
+編集,編輯,zh-TW
+编辑,編輯,zh-TW
+编辑服务器信息,編輯伺服器資訊,zh-TW
+网站,網站,zh-TW
+网络协议错误,網路協定錯誤,zh-TW
+聊天消息验证失败,聊天訊息驗證失敗,zh-TW
+自動的にダウンロードしてインストールしますか？,您是否希望它自動下載並安裝？,zh-TW
+被管理员踢出游戏,已被管理員踢出,zh-TW
+認証サーバーがダウンしています。後でもう一度お試しください。,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+認証サーバーに接続できませんでした。もう一度お試しください。,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+"認識できないか無効なコマンドを実行しようとしています。
+よろしいですか？
+コマンド：%s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+警告：オンラインでのプレイはサードパーティ製のサーバーによって提供されており、Mojang StudiosやMicrosoftが所有、運営、監督するものではありません。オンラインでのプレイ中に、不適切な可能性があるチャットメッセージ等の内容にさらされる可能性があります。,警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+警告：サードパーティ製のオンラインサーバー,警告：第三方遊戲伺服器,zh-TW
+警告：在线游戏由第三方提供,警告：第三方遊戲伺服器,zh-TW
+警告：在线游戏由第三方服务器提供，不由Mojang Studios或Microsoft拥有、运营和监督。 在线游戏的过程中，你可能会收到不受规制的聊天消息或者其他用户生成内容，而这些内容可能不适合所有人。,警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+论坛,論壇,zh-TW
+试图攻击无效实体,試圖攻擊無效的實體,zh-TW
+询问,提示,zh-TW
+该服务器上发送的消息可能会被修改，可能无法反映原始消息,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+身份验证服务器目前处于宕机状态。请稍后再试。抱歉！,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+转移至服务器时连接失败,轉移至伺服器時連線失敗,zh-TW
+这个服务器推荐使用自定义的资源包。,此伺服器建議使用其自訂的資源包。,zh-TW
+这个服务器需要使用自定义的资源包。,此伺服器要求使用其自訂的資源包。,zh-TW
+连接中断,已中止,zh-TW
+连接中断,連線中斷,zh-TW
+连接协商中…,協議中...,zh-TW
+连接已丢失,失去連線,zh-TW
+连接请求超时,連線要求逾時,zh-TW
+连接超时,連線逾時,zh-TW
+通信を確立中…,協議中...,zh-TW
+通讯加密中…,加密中...,zh-TW
+配置时出现意外错误,設定時發生非預期的錯誤,zh-TW
+重新配置中…,正在重新設定...,zh-TW
+重新配置中…,重新設定中...,zh-TW
+非法聊天字符,聊天欄中出現不允許的字元,zh-TW
+順序の不正なチャットパケットを受信しました。システム時刻を変更していませんか？,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+验证用户名失败！,無法驗證使用者名稱！,zh-TW
+"高い権限が必要なコマンドを実行しようとしています。
+これはゲームに悪影響をもたらす可能性があります。
+よろしいですか？
+コマンド：%s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+공지,公告,zh-TW
+관리자에게 차단당했습니다.,已被管理員封鎖。,zh-TW
+관리자에게 추방당함,已被管理員踢出,zh-TW
+구 버전,舊版,zh-TW
+너무 오랫동안 가만히 있었습니다!,您的閒置時間過長！,zh-TW
+네트워크 프로토콜 오류,網路協定錯誤,zh-TW
+다른 서버로 이송됐습니다,已轉移至另一個伺服器,zh-TW
+다른 서버로 이송되는 중 연결에 실패했습니다,轉移至伺服器時連線失敗,zh-TW
+다른 위치에서 로그인했습니다,您已從其他位置登入,zh-TW
+다른 플레이어 설정,對其他玩家的設定,zh-TW
+"당신의 이름을 사용해서 대화 메시지를 보내는 명령어를 실행하려고 합니다.
+대화 화면에서만 실행할 수 있습니다.
+명령어: %s","你嘗試執行的指令將使用你的名稱傳送聊天訊息。
+該指令只能從聊天欄執行。
+指令：%s",zh-TW
+대화 메시지 검증 실패,聊天訊息驗證失敗,zh-TW
+대화 메시지를 검증할 수 없습니다,無法驗證聊天訊息,zh-TW
+대화 메시지를 전달할 수 없습니다. 서버 로그를 확인하세요: %s,無法傳送聊天訊息，請檢查伺服器記錄：%s,zh-TW
+대화 화면으로 복사하기,複製到聊天欄,zh-TW
+대화에서 금지된 문자를 사용했습니다,聊天欄中出現不允許的字元,zh-TW
+로그인 단계에 너무 긴 시간이 지났습니다,登入逾時,zh-TW
+로그인 중...,登入中...,zh-TW
+로그인에 실패했습니다: %s,登入失敗：%s,zh-TW
+로컬 네트워크에서 게임을 찾는 중,正在您的區域網路內尋找可供加入的遊戲,zh-TW
+리소스 팩 적용 중,正在套用資源包,zh-TW
+멀티플레이,進行多人遊戲,zh-TW
+멀티플레이가 꺼져 있습니다. Microsoft 계정 설정을 확인해 주세요.,多人遊戲已停用。請檢查您的 Microsoft 帳號設定。,zh-TW
+명령어 실행,執行指令,zh-TW
+명령어 실행 확인,確認執行指令,zh-TW
+물어보기,提示,zh-TW
+사용,已啟用,zh-TW
+사용자 지정 리소스가 필요한 기능들이 예상대로 작동하지 않을 수 있습니다,任何需要自訂資源包的功能可能無法依預期執行,zh-TW
+사용자명을 확인할 수 없습니다!,無法驗證使用者名稱！,zh-TW
+사용하지 않음,已停用,zh-TW
+사회적 상호 작용 설정은 멀티플레이 세계에서만 사용할 수 있습니다,社群交流僅適用於多人遊戲世界,zh-TW
+삭제,刪除,zh-TW
+"상위 권한이 필요한 명령어를 실행하려 합니다.
+이는 게임에 부정적인 영향을 줄 수 있습니다.
+그럼에도 실행할까요?
+명령어: %s","你嘗試執行的指令需要較高的權限。
+這可能會對你的遊戲產生負面影響。
+確定要執行嗎？
+指令：%s",zh-TW
+상태,狀態,zh-TW
+상태 요청 무시,忽略狀態請求,zh-TW
+상태 요청이 처리되었습니다,已處理傳送的狀態請求,zh-TW
+새 서버 발견: %s,找到新的伺服器：%s,zh-TW
+새 서버로 이송되는 중...,正在轉移至新的伺服器...,zh-TW
+새로 고침,重新整理,zh-TW
+서명이 없거나 유효하지 않은 대화 패킷을 받았습니다.,收到缺少或含有無效簽章的聊天封包。,zh-TW
+서버 리소스 팩,伺服器資源包,zh-TW
+서버 리소스 팩을 적용하지 못했습니다,無法套用伺服器資源包,zh-TW
+서버 버그 제보,回報伺服器錯誤,zh-TW
+서버 버전: %s,伺服器版本：%s,zh-TW
+서버 이름,伺服器名稱,zh-TW
+서버 접속에 실패했습니다,與伺服器連線失敗,zh-TW
+서버 정보 편집,編輯伺服器資訊,zh-TW
+서버 주소,伺服器位址,zh-TW
+서버 참여,加入伺服器,zh-TW
+서버 추가,新增伺服器,zh-TW
+서버 행동 강령,伺服器行為準則,zh-TW
+서버 화이트리스트에 등록되어 있지 않습니다!,你不在這個伺服器的白名單中！,zh-TW
+서버가 가득 찼습니다!,伺服器已滿！,zh-TW
+서버가 닫혔습니다,伺服器已關閉,zh-TW
+서버가 잘못된 패킷을 전송했습니다,伺服器傳送了無效的封包,zh-TW
+"서버로부터 받지 못한 태그가 있습니다.
+서버 관리자에게 문의해 주세요.","從伺服器接收到不完整的標籤集。
+請聯絡伺服器管理員。",zh-TW
+서버에 연결할 수 없습니다,無法連線到伺服器,zh-TW
+서버에 접속하는 중...,正在連線到伺服器...,zh-TW
+서버에 접속하려면 행동 강령에 동의해야 합니다,伺服器要求接受行為準則,zh-TW
+서버에서 IP 주소가 차단되었습니다,您的 IP 位址已被這個伺服器封鎖,zh-TW
+서버에서 오는 대화 메시지가 누락되거나 순서가 바뀐 것을 감지했습니다,偵測到來自伺服器已遺失或已重新排序的聊天訊息,zh-TW
+서버에서 차단되었습니다,您已經被這個伺服器封鎖,zh-TW
+"서버에서 차단되었습니다.
+사유: %s","您已被這個伺服器封鎖。
+原因：%s",zh-TW
+설정 중 예상치 못한 오류가 발생했습니다,設定時發生非預期的錯誤,zh-TW
+세계 참여 중...,正在加入世界...,zh-TW
+세션이 잘못되었습니다 (게임과 런처를 다시 시작해 보세요),無效的 session（請嘗試重開您的遊戲與啟動器）,zh-TW
+소식,新聞,zh-TW
+순서가 잘못된 대화 패킷을 수신했습니다. 시스템 시간이 변경되었나요?,收到的聊天封包順序不正確。您的系統時間是否已變更？,zh-TW
+스팸으로 인해 추방당함,因為濫發訊息被踢出,zh-TW
+시간 초과,連線逾時,zh-TW
+알 수 없는 호스트입니다,未知的主機,zh-TW
+암호화 중...,加密中...,zh-TW
+연결 구축 중...,正在建立連線...,zh-TW
+연결 끊김,失去連線,zh-TW
+연결 끊김,連線中斷,zh-TW
+연결 요청 시간이 초과되었습니다,連線要求逾時,zh-TW
+연결이 종료되었습니다,數據傳送終止,zh-TW
+온라인,線上,zh-TW
+온라인 플레이에서 차단되었습니다,您已被禁止遊玩多人遊戲,zh-TW
+"올바른 포트가 아닙니다.
+편집 상자를 비워두거나 %s과(와) %s 사이의 다른 번호를 입력하세요.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的數值。",zh-TW
+"올바른 포트가 아닙니다.
+편집 상자를 비워두거나 1024와 65535 사이의 다른 번호를 입력하세요.","無效的連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的數值。",zh-TW
+완료,完成,zh-TW
+완료됨,完成,zh-TW
+요청하지 않은 상태를 수신했습니다,接收到未請求的資訊,zh-TW
+웹사이트,網站,zh-TW
+응답 대기 중...,Pinging...,zh-TW
+이 사용자 지정 리소스 팩을 거부할 경우 서버에서 연결이 끊깁니다.,拒絕此自訂資源包將使你和伺服器的連線中斷。,zh-TW
+이 서버는 사용자 지정 리소스 팩 사용을 권장하고 있습니다.,此伺服器建議使用其自訂的資源包。,zh-TW
+이 서버는 사용자 지정 리소스 팩 사용을 요구합니다,伺服器要求使用其自訂的資源包,zh-TW
+이 서버는 사용자 지정 리소스 팩 사용을 요구합니다.,此伺服器要求使用其自訂的資源包。,zh-TW
+이 서버는 전송을 수락하지 않습니다,伺服器不接受轉移,zh-TW
+이 서버를 지우시겠습니까?,你確定要移除這個伺服器嗎？,zh-TW
+이 서버에서 오가는 메시지는 수정될 수 있으며 원본 메시지를 반영하지 않을 수도 있습니다,此伺服器中的聊天訊息可能經過修改，無法反映出原始的訊息,zh-TW
+이 서버에서는 비행이 허용되지 않습니다,此伺服器並沒有啟用飛行,zh-TW
+이 행동 강령에 대해서는 더 이상 알림을 보내지 않기,不再通知本行為準則,zh-TW
+이 화면을 다시 보지 않기,不再顯示此畫面,zh-TW
+익명 플레이어,匿名玩家,zh-TW
+"인식되지 않았거나 잘못된 명령어를 실행하려 합니다.
+그럼에도 실행할까요?
+명령어: %s","你嘗試執行的指令無法辨識或無效。
+確定要執行嗎？
+指令：%s",zh-TW
+인증 서버에 현재 연결할 수 없습니다. 다시 시도해 주세요.,目前無法連線到驗證伺服器。請稍後再試。,zh-TW
+일어나기,起床,zh-TW
+자동으로 다운로드 후 설치하시겠습니까?,您是否希望它自動下載並安裝？,zh-TW
+잘못된 개체를 공격하려고 시도했습니다,試圖攻擊無效的實體,zh-TW
+잘못된 탈것 이동 패킷을 수신했습니다,接收到無效的載具移動封包,zh-TW
+잘못된 플레이어 데이터입니다,無效的玩家資料,zh-TW
+잘못된 플레이어 이동 패킷을 수신했습니다,接收到無效的玩家移動封包,zh-TW
+재설정 중...,正在重新設定...,zh-TW
+재설정 중...,重新設定中...,zh-TW
+접속 중인 플레이어: %s,在線玩家：%s,zh-TW
+종료 중,正在離開,zh-TW
+"주의: 온라인 플레이는 Mojang Studios 및 Microsoft가 소유, 운영 또는 감독하지 않는 제삼자 서버를 통해 제공됩니다. 온라인 플레이 중에 모두에게 적합하지 않은, 관리되지 않는 대화 메시지나 다른 종류의 사용자 생성 콘텐츠에 노출될 수 있습니다.",警告：第三方伺服器所提供的遊戲不隸屬於 Mojang Studios 或 Microsoft， 不會受到我們的管理或監督。 線上遊玩時，您可能會遭遇到未受管理的聊天訊息、或是其他由使用者製造的內容，而這些內容可能不適合所有人。,zh-TW
+주의: 제삼자 온라인 플레이,警告：第三方遊戲伺服器,zh-TW
+중단됨,已中止,zh-TW
+"지금은 연결할 수 없습니다.
+나중에 다시 시도해 주세요.","目前無法連線。
+請稍後再試。",zh-TW
+지금은 인증 서버를 사용할 수 없습니다. 나중에 다시 시도해 주세요. 죄송합니다!,驗證伺服器沒有回應。請稍後再試。非常抱歉！,zh-TW
+지원,支援,zh-TW
+지형 불러오는 중...,正在載入地形...,zh-TW
+직접 연결,直接連線,zh-TW
+취소됨,已取消,zh-TW
+커뮤니티,社群,zh-TW
+커뮤니티 지침,社群規範,zh-TW
+클라이언트가 호환되지 않습니다! %s을(를) 사용해 주세요,用戶端不相容！請使用 %s,zh-TW
+클라이언트로부터 예기치 않은 사용자 지정 데이터를 수신했습니다,從用戶端接收到預期外的自訂資料,zh-TW
+통계 받아오는 중...,正在下載統計資訊...,zh-TW
+패킷 전송 속도 제한을 초과하여 추방당함,由於超過封包速率限制而被踢出遊戲,zh-TW
+편집,編輯,zh-TW
+포럼,論壇,zh-TW
+포트 번호,連接埠號碼,zh-TW
+"포트를 사용할 수 없습니다.
+편집 상자를 비워두거나 %s과(와) %s 사이의 다른 번호를 입력하세요.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 %s 到 %s 之間的新數值。",zh-TW
+"포트를 사용할 수 없습니다.
+편집 상자를 비워두거나 1024와 65535 사이의 다른 번호를 입력하세요.","無法使用這個連接埠。
+請將編輯欄留空，或是輸入一個 1024 到 65535 之間的新數值。",zh-TW
+프로필 공개 키가 만료되었습니다. 시스템 시간이 동기화되어 있는지 확인 후에 게임을 다시 시작해 보세요.,個人資訊公鑰已過期。請檢查系統時間已同步處理，並嘗試重新啟動遊戲。,zh-TW
+"프로필 공개 키의 서명이 잘못되었습니다.
+게임을 다시 시작해 보세요.","無效的個人資訊公鑰。
+請嘗試重啟遊戲。",zh-TW
+"프로필 공개 키의 서명이 잘못되었습니다.
+게임을 다시 시작해 보세요.","無效的個人資訊公鑰簽章。
+請嘗試重新啟動遊戲。",zh-TW
+플레이어에게 연결할 수 없습니다,無法連上玩家,zh-TW
+플레이어와 연결할 수 없습니다,無法連線至該玩家,zh-TW
+피드백,意見回饋,zh-TW
+핑 %s 밀리초,延遲為 %s 毫秒,zh-TW
+해당 이름은 이미 사용 중입니다,該名稱已被使用,zh-TW
+협상 중...,協議中...,zh-TW
+호스트 이름을 확인할 수 없습니다,無法解析主機名稱,zh-TW
+호환되지 않는 버전입니다!,遊戲版本不相容！,zh-TW
+확인 응답이 없는 대화 메시지가 너무 많습니다,太多未經認可的聊天訊息,zh-TW
+환영 문구: %s,伺服器訊息：%s,zh-TW
+（接続なし）,（未連線）,zh-TW
+（无连接）,（未連線）,zh-TW
+（隐藏）,（隱藏）,zh-TW
+（非表示）,（隱藏）,zh-TW
+？？？,???,zh-TW

@@ -1,0 +1,1505 @@
+﻿source,target,tgt_lng
+'execute as' 등의 명령어에서 쓰일 수 있는 맥락의 최대 개수.,"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+Accesso al Nether,Permitir acesso ao Nether,pt-BR
+Accès au Nether,Permitir acesso ao Nether,pt-BR
+Actions destructives des créatures,Permitir ações destrutivas de criaturas,pt-BR
+Activar la barra localizadora de jugadores,Ativar Barra Localizadora de jogadores,pt-BR
+Actualisation du feu loin des joueurs,Propagação distante de fogo,pt-BR
+Actualisations du monde,Ciclos do mundo,pt-BR
+Actualizaciones del mundo,Ciclos do mundo,pt-BR
+Administratorbefehle protokollieren,Anunciar comandos de administrador,pt-BR
+Advance time of day,Ciclo circadiano,pt-BR
+"Akan lav, iki tarafı lav kaynaklarıyla çevrildiğinde kaynağa dönüşür.","Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+"Akan su, iki tarafı su kaynaklarıyla çevrildiğinde kaynağa dönüşür.","Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+"Al explotar (criaturas), algunos bloques no soltarán objetos",Não largar todos os itens com explosões de criaturas,pt-BR
+"Al explotar (por bloques), algunos bloques no soltarán objetos",Não largar todos os itens com explosões de blocos,pt-BR
+"Al verificarsi di determinati eventi, come la generazione di un boss, il suono verrà udito globalmente.","Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+Alcune entità potrebbero avere regole separate.,Algumas entidades podem ter regras separadas.,pt-BR
+Algunas entidades pueden tener sus propias reglas.,Algumas entidades podem ter regras separadas.,pt-BR
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de criaturas desaparecen con la explosión.,Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de interacciones con bloques desaparecen con la explosión.,Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+Algunos de los objetos soltados por bloques destruidos a causa de explosiones derivadas de la dinamita desaparecen con la explosión.,Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+Allgemeine Verärgerung,Fúria universal,pt-BR
+Allow destructive mob actions,Permitir ações destrutivas de criaturas,pt-BR
+"Allow entities with passengers to teleport through Nether Portals, End Portals, and End Gateways.","Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+Allow Nether,Permitir acesso ao Nether,pt-BR
+Allow spectators to generate terrain,Gerar terreno para os espectadores,pt-BR
+Allow TNT to be activated and to explode,Permitir ativação e explosão de TNT,pt-BR
+Altezza di accumulo della neve,Altura de acumulação de neve,pt-BR
+Altura de acumulación de nieve,Altura de acumulação de neve,pt-BR
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgive_dead_players is disabled.","Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Angered neutral mobs attack any nearby player, not just the player that angered them. Works best if forgiveDeadPlayers is disabled.","Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+Angered neutral mobs stop being angry when the targeted player dies nearby.,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+Announce advancements,Anunciar progressos,pt-BR
+Anunciar progresos,Anunciar progressos,pt-BR
+Anında yeniden canlanma,Renascer imediatamente,pt-BR
+Apparition,Geração,pt-BR
+Apparition des créatures,Gerar criaturas,pt-BR
+Apparition des marchands ambulants,Gerar Mercadores Ambulantes,pt-BR
+Apparition des monstres,Gerar monstros,pt-BR
+Apparition des patrouilles de pillards,Gerar patrulhas de Saqueadores,pt-BR
+Apparition des Phantoms,Gerar Espectros,pt-BR
+Apparition des Wardens,Gerar Defensores,pt-BR
+Applies to command block chains and functions.,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+Are you sure you want to discard your pending game rule changes?,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+Ateş hasarı alma,Causar dano por fogo,pt-BR
+Ateş ve lavın herhangi oyuncudan 8 yığın uzakta yayılabilmesini kontrol eder.,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+Ateş yayılabilsin,Propagação do fogo,pt-BR
+Ateş yayılma yarıçapı,Raio de propagação do fogo,pt-BR
+Atılabilirler blokları kırabilir,Quebrar blocos com projéteis,pt-BR
+Atılabilirlerin kendileri tarafından kırılabilen blokları kırıp kıramayacağını kontrol eder.,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+Atılan Ender İncileri ölünce yok olurlar,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+Ausbeute,Itens largados,pt-BR
+Avanzar ciclo de día y noche,Ciclo circadiano,pt-BR
+Azioni distruttive delle creature,Permitir ações destrutivas de criaturas,pt-BR
+Açıldığında ekranda diğer oyuncuların yönünü gösteren bir çubuk gösterilir.,"Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+Barra localizzatrice,Ativar Barra Localizadora de jogadores,pt-BR
+Barre de localisation,Ativar Barra Localizadora de jogadores,pt-BR
+Baskınlar olsun,Ativar invasões,pt-BR
+Baskınları kapat,Desativar invasões,pt-BR
+Bazı varlıkların ayrı kuralları olabilir.,Algumas entidades podem ter regras separadas.,pt-BR
+Başlangıç yığınları yarıçapı,Raio dos chunks ao renascer,pt-BR
+Befehlsausgabe anzeigen,Mostrar respostas dos comandos,pt-BR
+Befehlsblockausgabe anzeigen,Anunciar saída dos Blocos de Comando,pt-BR
+Befehlsblöcke,Ativar Blocos de Comando,pt-BR
+Begrenzt die Inhalte der Debug‐Anzeige.,Reduz o conteúdo da tela de depuração.,pt-BR
+Beklenen oyun kuralı değişikliklerinizi iptal etmek istediğinizden emin misiniz?,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+"Bir boss doğması gibi belirli oyun olayları gerçekleştiğinde, ses her yerde duyulur.","Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+Bir oyuncu tarafından atılan Ender İncilerinin o oyuncu ölürse yok olup olmayacağı.,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+"Bist du sicher, dass du die ausstehenden Änderungen der Spielregeln verwerfen möchtest?",Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+Blocchi comandi funzionanti,Ativar Blocos de Comando,pt-BR
+Blockausbeute fallen lassen,Largar blocos,pt-BR
+Blockgrenze für Befehlsänderungen,Limite de blocos modificados por comando,pt-BR
+Blockzerstörung durch Geschosse,Quebrar blocos com projéteis,pt-BR
+Block‐Explosionsausbeute verschwindet,Não largar todos os itens com explosões de blocos,pt-BR
+Blocs de commande activés,Ativar Blocos de Comando,pt-BR
+"Blok etkileşimi patlamalarında, bazı bloklar düşmesin",Não largar todos os itens com explosões de blocos,pt-BR
+Blok etkileşimlerinin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+Bloklar düşsün,Largar blocos,pt-BR
+Boyut değiştirmeden önce yaratıcı modda olmayan bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Boyut değiştirmeden önce yaratıcı moddaki bir oyuncunun Nether Geçidinde beklemesi gereken süre (birim zaman).,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Boğulma hasarı alma,Causar dano por afogamento,pt-BR
+Broadcast admin commands,Anunciar comandos de administrador,pt-BR
+Broadcast command block output,Anunciar saída dos Blocos de Comando,pt-BR
+Butin des blocs,Largar blocos,pt-BR
+Butin des créatures,Largar itens de criaturas,pt-BR
+Butin des entités,Largar itens de entidades,pt-BR
+Butins,Itens largados,pt-BR
+Bán kính lan lửa,Raio de propagação do fogo,pt-BR
+Bán kính mà lửa có thể lan ra xung quanh người chơi (tính bằng khối).,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+Bán kính vị trí hồi sinh,Raio do ponto de renascimento,pt-BR
+Bán kính đoạn khúc hồi sinh,Raio dos chunks ao renascer,pt-BR
+Bạn vẫn chắc chắn muốn huỷ bỏ thay đổi luật chơi đang chờ chứ?,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+Bật các cuộc xâm lược,Ativar invasões,pt-BR
+Bật khối lệnh,Ativar Blocos de Comando,pt-BR
+Bật khối triệu hồi,Ativar Blocos Geradores,pt-BR
+Bật PVP,Ativar PvP,pt-BR
+Bật thanh định vị người chơi,Ativar Barra Localizadora de jogadores,pt-BR
+Cambiar las reglas del juego requiere permisos de administrador.,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+Cambios en las reglas del juego,Mudanças nas regras do jogo,pt-BR
+Canavarlar Oluşsun,Gerar monstros,pt-BR
+Canavarların doğal olarak oluşabilmesini kontrol eder.,Define se os monstros podem ser gerados naturalmente.,pt-BR
+Canlı ganimeti düşsün,Largar itens de criaturas,pt-BR
+"Canlı patlamalarında, bazı bloklar düşmesin",Não largar todos os itens com explosões de criaturas,pt-BR
+Canlılar,Criaturas,pt-BR
+Canlılar oluşsun,Gerar criaturas,pt-BR
+Canlıların neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+Canlıların yıkıcı etkilerine izin verilsin,Permitir ações destrutivas de criaturas,pt-BR
+Cannot change game rules in a hardcore world.,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+"Cantidad de bloques que se pueden cambiar a la vez con un solo comando, como «/fill» o «/clone».","O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+Cantidad de chunks que se mantienen cargados alrededor del punto de aparición.,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+Cargar fuego lejos de los jugadores,Propagação distante de fogo,pt-BR
+Certaines entités peuvent avoir des règles distinctes.,Algumas entidades podem ter regras separadas.,pt-BR
+Certains butins des blocs détruits par des explosions de créatures sont perdus dans l'explosion.,Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+Certains butins des blocs détruits par des explosions de TNT sont perdus dans l'explosion.,Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+Certains butins des blocs détruits par des explosions dues à des interactions de blocs sont perdus dans l'explosion.,Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+Chiều cao tích tụ tuyết,Altura de acumulação de neve,pt-BR
+Cho phép hành động sinh vật phá hoại,Permitir ações destrutivas de criaturas,pt-BR
+Cho phép khán giả tạo địa hình,Gerar terreno para os espectadores,pt-BR
+Cho phép Nether,Permitir acesso ao Nether,pt-BR
+"Cho phép thực thể với hành khách dịch chuyển qua cổng Nether, cổng End và cổng nối End.","Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+Cho phép TNT được kích hoạt và phát nổ,Permitir ativação e explosão de TNT,pt-BR
+Chỉnh ngọc Ender được ném ra bởi người chơi có biến mất khi người chơi đó chết hay không.,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+Chỉnh sửa luật chơi,Editar regras do jogo,pt-BR
+Chỉnh sửa luật chơi...,Editar regras do jogo...,pt-BR
+Colère universelle,Fúria universal,pt-BR
+Combattimento tra giocatori,Ativar PvP,pt-BR
+Command chain size limit,Limite de comandos em cadeia,pt-BR
+Command context limit,Limite de contextos por comando,pt-BR
+Command modification block limit,Limite de blocos modificados por comando,pt-BR
+Commandes d'administrateur affichées,Anunciar comandos de administrador,pt-BR
+Comprobar movimiento con élitros,Verificação de movimentos dos Élitros,pt-BR
+Comprobar movimiento del jugador,Verificação de movimentos do jogador,pt-BR
+"Consenti alle entità con passeggeri di teletrasportarsi attraverso i portali del Nether, i portali dell'End e i varchi dell'End.","Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+Conservation de l'inventaire après la mort,Manter o inventário ao morrer,pt-BR
+Conservazione dell'inventario dopo la morte,Manter o inventário ao morrer,pt-BR
+Controla el tamaño de la zona alrededor del punto de reaparición donde pueden aparecer los jugadores.,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+"Controla que las criaturas puedan soltar recursos, incluyendo orbes de experiencia.","Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+"Controla que los bloques puedan soltar recursos, incluyendo orbes de experiencia.","Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+Controla si el fuego o la lava deberían estar cargados al estar a más de 8 chunks de distancia de cualquier jugador.,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+Controla si el impacto de proyectiles destruirá bloques a los que normalmente puede destruir.,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+"Controla si las enredaderas se propagan a bloques adyacentes. No afecta otros tipos de enredaderas como enredaderas lacrimosas o enredaderas retorcidas, entre otras.","Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+Controla si los jugadores pueden dañar a otros jugadores o no.,Define se os jogadores podem atacar outros jogadores.,pt-BR
+Controla si los jugadores pueden entrar en el Nether.,Define se os jogadores podem entrar no Nether.,pt-BR
+Controla si los monstruos aparecen naturalmente o no.,Define se os monstros podem ser gerados naturalmente.,pt-BR
+"Controls drops from Minecarts (including inventories), Item Frames, Boats, etc.","Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+"Controls resource drops from blocks, including experience orbs.","Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+"Controls resource drops from mobs, including experience orbs.","Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+Controls the size of the area around the spawn point that players can spawn in.,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+Controls whether fire and lava should be able to tick further than 8 chunks away from any player.,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+Controls whether impact projectiles will destroy blocks that are destructible by them.,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+Controls whether monsters naturally spawn.,Define se os monstros podem ser gerados naturalmente.,pt-BR
+Controls whether players are allowed to damage other players.,Define se os jogadores podem atacar outros jogadores.,pt-BR
+Controls whether players are allowed to enter the Nether.,Define se os jogadores podem entrar no Nether.,pt-BR
+"Controls whether the Vines block spreads randomly to adjacent blocks. Does not affect other types of vine blocks such as Weeping Vines, Twisting Vines, etc.","Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+"Contrôle la propagation aléatoire des lianes sur les blocs adjacents. Cela n'affecte pas les autres types de lianes tels que les lianes pleureuses, les lianes tortueuses, etc.","Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+Contrôle la taille de la zone autour du point d'apparition dans laquelle les joueurs peuvent apparaître.,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+"Contrôle les butins des blocs, y compris les orbes d'expérience.","Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+"Contrôle les butins des créatures, y compris les orbes d'expérience.","Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+"Contrôle les butins des wagonnets (y compris leur inventaire), des cadres, des bateaux, etc.","Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+Contrôle si le feu et la lave peuvent s'actualiser à plus de 8 chunks de n'importe quel joueur.,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+Contrôle si les joueurs peuvent entrer dans le Nether.,Define se os jogadores podem entrar no Nether.,pt-BR
+Contrôle si les joueurs peuvent infliger des dégâts aux autres joueurs.,Define se os jogadores podem atacar outros jogadores.,pt-BR
+Contrôle si les monstres apparaissent naturellement.,Define se os monstros podem ser gerados naturalmente.,pt-BR
+Contrôle si les perles de l'Ender lancées par un joueur disparaissent lorsque celui-ci meurt.,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+Contrôle si les projectiles détruisent les blocs destructibles par ceux-ci à l'impact.,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+Conversione d'acqua in sorgente,Transformar água em fonte,pt-BR
+Conversione di lava in sorgente,Transformar lava em fonte,pt-BR
+Creature,Criaturas,pt-BR
+Creature,Gerar criaturas,pt-BR
+Créatures,Criaturas,pt-BR
+"Cuando está activada, se muestra una barra en la pantalla que indica la dirección de otros jugadores.","Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+"Cuando nieva, se forma este número máximo de capas de nieve en el suelo.","Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+"Cuando se producen ciertos eventos durante la partida, como que aparezca un jefe, el sonido se escucha en todas partes.","Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+"Cuando una corriente de agua está rodeada de más agua por dos de sus lados, se convierte en una fuente.","Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+"Cuando una corriente de lava está rodeada de más lava por dos de sus lados, se convierte en una fuente.","Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+Cycle jour-nuit,Ciclo circadiano,pt-BR
+Cycle météorologique,Ciclo meteorológico,pt-BR
+Cập nhật luật chơi yêu cầu quyền người điều hành.,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+Cập nhật lửa,Propagação do fogo,pt-BR
+Cập nhật thế giới,Ciclos do mundo,pt-BR
+Cập nhật thời tiết,Ciclo meteorológico,pt-BR
+Danno da annegamento,Causar dano por afogamento,pt-BR
+Danno da bruciatura,Causar dano por fogo,pt-BR
+Danno da caduta,Causar dano por queda,pt-BR
+Danno da congelamento,Causar dano por congelamento,pt-BR
+Das Ändern der Spielregeln erfordert Operatorrechte.,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+Daño por ahogamiento,Causar dano por afogamento,pt-BR
+Daño por caída,Causar dano por queda,pt-BR
+Daño por congelamiento,Causar dano por congelamento,pt-BR
+Daño por fuego,Causar dano por fogo,pt-BR
+Deal drowning damage,Causar dano por afogamento,pt-BR
+Deal fall damage,Causar dano por queda,pt-BR
+Deal fire damage,Causar dano por fogo,pt-BR
+Deal freeze damage,Causar dano por congelamento,pt-BR
+Debug‐Infos reduzieren,Reduzir informações de depuração,pt-BR
+Default: %s,Padrão: %s,pt-BR
+Demora para teletransportarse al Nether en creativo,Atraso do Portal do Nether no Modo Criativo,pt-BR
+Demora para teletransportarse al Nether por defecto,Atraso do Portal do Nether em modo não Criativo,pt-BR
+"Der Prozentsatz an Spielern, die im Bett liegen müssen, um die Nacht durchzuschlafen.",A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+"Der Radius in Blöcken um einen Spieler, in dem sich Feuer ausbreiten kann.",O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+Desactivar control de movimiento de los jugadores,Desativar verificação de movimento do jogador,pt-BR
+Desactivar control de movimiento de élitros,Desativar verificação de movimento dos Élitros,pt-BR
+Desactivar invasiones,Desativar invasões,pt-BR
+Destruction des blocs par des projectiles,Quebrar blocos com projéteis,pt-BR
+"Determina i rilasci dei vagonetti (compresi gli inventari), delle cornici, delle barche ecc.","Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+Determina la dimensione dell'area intorno al punto di generazione dei giocatori.,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+Determina la propagazione casuale dei rampicanti verso i blocchi adiacenti. Non ha effetto sugli altri tipi di rampicanti (come i rampicanti piangenti o i rampicanti attorcigliati).,"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+"Determina le risorse che vengono rilasciate dalle creature, comprese le sfere di esperienza.","Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+"Determina le risorse rilasciate dai blocchi, comprese le sfere di esperienza.","Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+Determina se i giocatori possono entrare nel Nether attraverso i portali.,Define se os jogadores podem entrar no Nether.,pt-BR
+Determina se i giocatori possono infliggere danno agli altri giocatori.,Define se os jogadores podem atacar outros jogadores.,pt-BR
+Determina se i mostri si generano naturalmente.,Define se os monstros podem ser gerados naturalmente.,pt-BR
+Determina se i proiettili da impatto possono distruggere i blocchi vulnerabili.,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+Determina se il fuoco e la lava sono attivi anche a una distanza maggiore di 8 chunk da ogni giocatore.,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+"Die Anzahl der Blöcke, die mit einem Befehl wie „fill“ oder „clone“ gleichzeitig geändert werden können.","O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+"Die Anzahl der Chunks um den Einstiegspunkt in der Oberwelt, die dauerhaft geladen bleiben.",A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+Die Spielregeln können in einer Hardcore‐Welt nicht angepasst werden.,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+Disable elytra movement check,Desativar verificação de movimento dos Élitros,pt-BR
+Disable player movement check,Desativar verificação de movimento do jogador,pt-BR
+Disable raids,Desativar invasões,pt-BR
+Disparition des perles de l'Ender lancées à la mort,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+Distruzione dei blocchi tramite proiettili,Quebrar blocos com projéteis,pt-BR
+Divers,Diversos,pt-BR
+Do elytra movement check,Verificação de movimentos dos Élitros,pt-BR
+Do player movement check,Verificação de movimentos do jogador,pt-BR
+Do raids,Ativar invasões,pt-BR
+Doldurma veya klonlama gibi tek bir komutla aynı anda değiştirilebilecek blok sayısı.,"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+Donma hasarı alma,Causar dano por congelamento,pt-BR
+Drop blocks,Largar blocos,pt-BR
+Drop entity equipment,Largar itens de entidades,pt-BR
+Drop mob loot,Largar itens de criaturas,pt-BR
+Drops,Itens largados,pt-BR
+Dung nham chuyển thành nguồn,Transformar lava em fonte,pt-BR
+Dây leo lan ra,Propagação de trepadeiras,pt-BR
+Dégâts de chute,Causar dano por queda,pt-BR
+Dégâts de feu,Causar dano por fogo,pt-BR
+Dégâts de gel,Causar dano por congelamento,pt-BR
+Dégâts de noyade,Causar dano por afogamento,pt-BR
+Délai du portail du Nether,Atraso do Portal do Nether em modo não Criativo,pt-BR
+Délai du portail du Nether en mode Créatif,Atraso do Portal do Nether no Modo Criativo,pt-BR
+Dünya başlangıç noktasında sürekli yüklenecek yığınların miktarı.,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+Dünyadaki Hareketler,Ciclos do mundo,pt-BR
+Düşenler,Itens largados,pt-BR
+Düşme hasarı alma,Causar dano por queda,pt-BR
+Edit Game Rules,Editar regras do jogo,pt-BR
+Edit Game Rules...,Editar regras do jogo...,pt-BR
+Editar las reglas del juego,Editar regras do jogo,pt-BR
+Editar las reglas del juego...,Editar regras do jogo...,pt-BR
+"Einiges von der Ausbeute von Blöcken, die durch Explosionen aufgrund von Blockinteraktionen zerstört werden, geht dabei verloren.",Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+"Einiges von der Ausbeute von Blöcken, die durch TNT‐Explosionen zerstört werden, geht dabei verloren.",Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+"Einiges von der Ausbeute von Blöcken, die durch von Kreaturen verursachte Explosionen zerstört werden, geht dabei verloren.",Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+Einstiegs‐Chunk‐Radius,Raio dos chunks ao renascer,pt-BR
+El agua se convierte en fuente,Transformar água em fonte,pt-BR
+El número máximo de contextos que se pueden utilizar en comandos como «execute as».,"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+El porcentaje necesario de jugadores que deben dormir para pasar la noche.,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+El radio en bloques alrededor de un jugador en el que el fuego puede expandirse,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+Elitra hareket hızı kontrolünü kapat,Desativar verificação de movimento dos Élitros,pt-BR
+Elitra hareketini denetle,Verificação de movimentos dos Élitros,pt-BR
+Elytrenflug nicht überprüfen,Desativar verificação de movimento dos Élitros,pt-BR
+Elytren‐Bewegungsprüfung,Verificação de movimentos dos Élitros,pt-BR
+"En explosiones por dinamita, algunos bloques no soltarán objetos",Não largar todos os itens com explosões de TNT,pt-BR
+En yüksek vagon hızı,Velocidade máxima do Carrinho de Mina,pt-BR
+Enable Command Blocks,Ativar Blocos de Comando,pt-BR
+Enable player Locator Bar,Ativar Barra Localizadora de jogadores,pt-BR
+Enable pvp,Ativar PvP,pt-BR
+Enable Spawner Blocks,Ativar Blocos Geradores,pt-BR
+Enderperlen‐Mitleidenschaft,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+Entities with passengers can use portals,As entidades com passageiros podem atravessar portais,pt-BR
+Entity cramming threshold,Número máximo de entidades agrupadas,pt-BR
+Entzünden und Explodieren von TNT,Permitir ativação e explosão de TNT,pt-BR
+Enviar respuestas de comandos,Mostrar respostas dos comandos,pt-BR
+Erfrierungsschaden,Causar dano por congelamento,pt-BR
+"Ermöglicht es Objekten mit Passagieren, sich durch Nether‐, End‐ und Endtransitportale zu teleportieren.","Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+Erzeugung,Geração,pt-BR
+Esito dei blocchi comandi,Anunciar saída dos Blocos de Comando,pt-BR
+Etkinleştirildiğinde oyuncular yalnızca kilidi açılmış tarifleri üretebilecek.,"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+Eventi sonori globali,Eventos sonoros globais,pt-BR
+Eventos de sonido globales,Eventos sonoros globais,pt-BR
+Evrensel öfke,Fúria universal,pt-BR
+Exigir recetas para poder fabricar,Exigir receitas para fabricação,pt-BR
+Explosion de TNT,Permitir ativação e explosão de TNT,pt-BR
+Fabbricazione limitata,Exigir receitas para fabricação,pt-BR
+Fahrende Händler erzeugen,Gerar Mercadores Ambulantes,pt-BR
+Fallschaden,Causar dano por queda,pt-BR
+Fantasmi,Gerar Espectros,pt-BR
+Feuerausbreitung,Propagação do fogo,pt-BR
+Feuerausbreitungs‐Radius,Raio de propagação do fogo,pt-BR
+Feuerschaden,Causar dano por fogo,pt-BR
+fillやcloneなど、コマンド一回の実行で変更できるブロックの最大数,"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+fill이나 clone 등의 명령어 하나가 한 번에 바꿀 수 있는 블록 수.,"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+Fire spread radius,Raio de propagação do fogo,pt-BR
+Forgive dead players,Perdoar jogadores mortos,pt-BR
+Fortschritte bekannt geben,Anunciar progressos,pt-BR
+Frequenza dei tick casuali,Taxa de velocidade de tiques aleatórios,pt-BR
+Für einige Objekte können eigene Regeln gelten.,Algumas entidades podem ter regras separadas.,pt-BR
+Game Rule Changes,Mudanças nas regras do jogo,pt-BR
+Gece-gündüz döngüsü olsun,Ciclo circadiano,pt-BR
+Geceyi atlamak için uyuması gereken oyuncuların yüzdesi.,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+Gelişimler gösterilsin,Anunciar progressos,pt-BR
+Generación de criaturas,Geração,pt-BR
+Generar bandas de saqueadores,Gerar patrulhas de Saqueadores,pt-BR
+Generar criaturas,Gerar criaturas,pt-BR
+Generar fantasmas,Gerar Espectros,pt-BR
+Generar monstruos,Gerar monstros,pt-BR
+Generar terreno en modo espectador,Gerar terreno para os espectadores,pt-BR
+Generar vendedores ambulantes,Gerar Mercadores Ambulantes,pt-BR
+Generar wardens,Gerar Defensores,pt-BR
+Generatori funzionanti,Ativar Blocos Geradores,pt-BR
+Generazione,Geração,pt-BR
+Generazione di terreno da parte degli spettatori,Gerar terreno para os espectadores,pt-BR
+Gestorbenen Spielern vergeben,Perdoar jogadores mortos,pt-BR
+Gesundheit regenerieren,Regenerar vida,pt-BR
+Giocatore,Jogador,pt-BR
+Giảm thông tin gỡ lỗi,Reduzir informações de depuração,pt-BR
+Giận dữ toàn diện,Fúria universal,pt-BR
+Giới hạn kích cỡ chuỗi lệnh,Limite de comandos em cadeia,pt-BR
+Giới hạn ngữ cảnh lệnh,Limite de contextos por comando,pt-BR
+Giới hạn nội dung của màn hình gỡ lỗi.,Reduz o conteúdo da tela de depuração.,pt-BR
+Giới hạn số khối sửa đổi bởi lệnh,Limite de blocos modificados por comando,pt-BR
+Giữ túi đồ sau khi chết,Manter o inventário ao morrer,pt-BR
+Global sound events,Eventos sonoros globais,pt-BR
+Gây sát thương lửa,Causar dano por fogo,pt-BR
+Gây sát thương rơi,Causar dano por queda,pt-BR
+Gây sát thương đuối nước,Causar dano por afogamento,pt-BR
+Gây sát thương đóng băng,Causar dano por congelamento,pt-BR
+Générateurs activés,Ativar Blocos Geradores,pt-BR
+Génération du terrain par les spectateurs,Gerar terreno para os espectadores,pt-BR
+Gửi phản hồi về lệnh,Mostrar respostas dos comandos,pt-BR
+Hata ayıklama bilgisini azalt,Reduzir informações de depuração,pt-BR
+Hata ayıklama ekranı içeriğini kısıtlar.,Reduz o conteúdo da tela de depuração.,pt-BR
+Hauteur d'accumulation de la neige,Altura de acumulação de neve,pt-BR
+Hava durumu döngüsü olsun,Ciclo meteorológico,pt-BR
+Hiển thị thông báo chết,Mostrar mensagens de morte,pt-BR
+Häufigkeit von Zufallsereignissen,Taxa de velocidade de tiques aleatórios,pt-BR
+"Höchstgeschwindigkeit, die eine Lore an Land standardmäßig erreichen kann.",Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+Hồi phục sinh lực,Regenerar vida,pt-BR
+"If enabled, players will be able to craft only unlocked recipes.","Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+Il raggio in blocchi intorno a un giocatore entro cui il fuoco può propagarsi,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+Impossible de modifier les règles de jeu dans un monde Hardcore.,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+"In block interaction explosions, some blocks won't drop their loot",Não largar todos os itens com explosões de blocos,pt-BR
+"In mob explosions, some blocks won't drop their loot",Não largar todos os itens com explosões de criaturas,pt-BR
+"In TNT explosions, some blocks won't drop their loot",Não largar todos os itens com explosões de TNT,pt-BR
+Incursioni,Ativar invasões,pt-BR
+Incursioni disattivate,Desativar invasões,pt-BR
+Informazioni diagnostiche ridotte,Reduzir informações de depuração,pt-BR
+Infos de débogage réduites,Reduzir informações de depuração,pt-BR
+Innesco ed esplosione di TNT,Permitir ativação e explosão de TNT,pt-BR
+Invasiones,Ativar invasões,pt-BR
+Invasions,Ativar invasões,pt-BR
+Invasions désactivées,Desativar invasões,pt-BR
+Inventar nach dem Tod behalten,Manter o inventário ao morrer,pt-BR
+Ira universal,Fúria universal,pt-BR
+Joueur,Jogador,pt-BR
+Joueurs morts pardonnés,Perdoar jogadores mortos,pt-BR
+Jugador,Jogador,pt-BR
+Kar birikme yüksekliği,Altura de acumulação de neve,pt-BR
+"Kar yağdığında, zeminde birikecek kar katmanı sayısı.","Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+Karada hareket eden bir Vagonun varsayılan en fazla hareket hızı.,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+Keep inventory after death,Manter o inventário ao morrer,pt-BR
+"Khi bật, người chơi chỉ có thể chế tạo các công thức đã mở khoá.","Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+"Khi dung nham chảy bị bao bọc cả hai phía bởi các nguồn dung nham, chúng trở thành một nguồn dung nham.","Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+"Khi một vài sự kiện trò chơi xảy ra, chẳng hạn như sinh ra boss, âm thanh có thể nghe được ở mọi nơi.","Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+"Khi nước chảy bị bao quanh hai phía bởi các nguồn nước, chúng trở thành một nguồn nước.","Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+"Khi tuyết rơi, các lớp tuyết sẽ hình thành trên mặt đất đến tối đa từng này số lớp.","Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+"Khi được bật, một thanh được hiển thị trên màn hình để biểu thị hướng của người chơi.","Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+Khác,Diversos,pt-BR
+Không thể thay đổi luật chơi trong thế giới siêu khó.,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+Kiểm soát các vật bắn ra gây tác động có phá các khối mà chúng có thể phá hay không.,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+"Kiểm soát khối dây leo có lan ra ngẫu nhiên đến khối liền kề hay không. Không ảnh hưởng đến các loại khối dây leo khác như dây leo đẫm máu, dây leo xoắn, v.v.","Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+Kiểm soát kích cỡ của khu vực quanh điểm hồi sinh nơi người chơi hồi sinh.,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+Kiểm soát lửa và dung nham có thể đếm nhịp cách xa hơn 8 đoạn khúc từ bất kì người chơi nào hay không.,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+Kiểm soát người chơi được phép gây sát thương người chơi khác hay không.,Define se os jogadores podem atacar outros jogadores.,pt-BR
+Kiểm soát người chơi được phép vào Nether hay không.,Define se os jogadores podem entrar no Nether.,pt-BR
+Kiểm soát quái vật sinh ra tự nhiên hay không.,Define se os monstros podem ser gerados naturalmente.,pt-BR
+"Kiểm soát rơi ra từ xe mỏ (bao gồm túi đồ), khung vật phẩm, thuyền, v.v.","Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+"Kiểm soát tài nguyên rơi ra từ khối, bao gồm quả cầu kinh nghiệm.","Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+"Kiểm soát tài nguyên rơi ra từ sinh vật, bao gồm quả cầu kinh nghiệm.","Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+Kiểm tra chuyển động của cánh cứng,Verificação de movimentos dos Élitros,pt-BR
+Kiểm tra chuyển động của người chơi,Verificação de movimentos do jogador,pt-BR
+Komut bağlam limiti,Limite de contextos por comando,pt-BR
+Komut Bloklarını Etkinleştir,Ativar Blocos de Comando,pt-BR
+Komut bloğu zincirleri ve fonksiyonlar için geçerli.,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+Komut bloğu çıktıları gösterilsin,Anunciar saída dos Blocos de Comando,pt-BR
+Komut değişikliği blok sınırı,Limite de blocos modificados por comando,pt-BR
+Komut geri bildirimi gösterilsin,Mostrar respostas dos comandos,pt-BR
+Komut zinciri uzunluk sınırı,Limite de comandos em cadeia,pt-BR
+Kreaturen,Criaturas,pt-BR
+Kreaturen erzeugen,Gerar criaturas,pt-BR
+Kreaturenausbeute fallen lassen,Largar itens de criaturas,pt-BR
+Kreatur‐Explosionsausbeute verschwindet,Não largar todos os itens com explosões de criaturas,pt-BR
+Kâbuslar oluşsun,Gerar Espectros,pt-BR
+Küresel ses olayları,Eventos sonoros globais,pt-BR
+La lava se convierte en fuente,Transformar lava em fonte,pt-BR
+La mise à jour des règles de jeu nécessite des permissions d'opérateur.,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+La percentuale di giocatori che devono dormire per saltare la notte.,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+La vitesse maximale par défaut des wagonnets en mouvement sur le sol.,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar.
+Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Las criaturas neutrales que estén enfadadas atacarán a cualquier jugador cercano, no solo al que las hizo enfadar. Funciona mejor si «Perdonar jugadores muertos» se desactiva.","Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+Las criaturas neutrales que estén enfadadas dejarán de estarlo cuando el jugador al que persigan muera cerca.,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+Las entidades con pasajeros pueden utilizar portales,As entidades com passageiros podem atravessar portais,pt-BR
+Las perlas de ender lanzadas desaparecen al morir,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+Las perlas de ender lanzadas por un jugador desaparecen cuando este muere.,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+"Lav, kaynağa dönüşsün",Transformar lava em fonte,pt-BR
+Lava converts to source,Transformar lava em fonte,pt-BR
+Lava‐Erneuerbarkeit,Transformar lava em fonte,pt-BR
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgive_dead_players» è disattivata.","Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Le creature neutrali che sono state provocate attaccano ogni giocatore nelle vicinanze, non solo il giocatore che li ha fatti arrabbiare. Funziona meglio se la regola «forgiveDeadPlayers» è disattivata.","Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+Le creature neutrali che sono state provocate smettono di essere arrabbiate quando il giocatore puntato muore nelle vicinanze.,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+Le entità con passeggeri possono attraversare i portali,As entidades com passageiros podem atravessar portais,pt-BR
+"Le nombre de blocs qui peuvent être modifiés à la fois par une commande, telle que /fill ou /clone.","O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+Le nombre de chunks qui restent chargés autour du point d'apparition de la Surface.,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+"Le nombre maximal de contextes qui peuvent être utilisés par des commandes telles que ""execute as"".","Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+Le pourcentage de joueurs qui doivent dormir pour passer la nuit.,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+Le rayon (en blocs) autour d'un joueur dans lequel le feu peut se propager.,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+Le regole di gioco possono essere cambiate solo dagli operatori.,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+Le regole di gioco sono bloccate nei mondi in modalità estrema.,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+Le temps (en ticks) pendant lequel un joueur en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Le temps (en ticks) pendant lequel un joueur qui n'est pas en mode Créatif doit attendre en se tenant dans un portail du Nether avant de changer de dimension.,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgive_dead_players"" est désactivée.","Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Les créatures neutres en colère attaquent n'importe quel joueur à proximité, pas seulement le joueur qui les a provoquées. Fonctionne mieux lorsque la règle ""forgiveDeadPlayers"" est désactivée.","Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+Les créatures neutres en colère redeviennent calmes lorsque le joueur ciblé meurt à proximité.,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+Limita el contenido de la pantalla de desarrollo al pulsar F3.,Reduz o conteúdo da tela de depuração.,pt-BR
+Limita il contenuto del cruscotto diagnostico.,Reduz o conteúdo da tela de depuração.,pt-BR
+Limite d'ammassamento delle entità,Número máximo de entidades agrupadas,pt-BR
+Limite d'entassement des entités,Número máximo de entidades agrupadas,pt-BR
+Limite de blocs modifiables par commande,Limite de blocos modificados por comando,pt-BR
+Limite de contextes des commandes,Limite de contextos por comando,pt-BR
+Limite dei blocchi modificabili per comando,Limite de blocos modificados por comando,pt-BR
+Limite dei contesti dei comandi,Limite de contextos por comando,pt-BR
+Limite delle catene di comandi,Limite de comandos em cadeia,pt-BR
+Limite des chaînes de commandes,Limite de comandos em cadeia,pt-BR
+Limite le contenu de l'écran de débogage.,Reduz o conteúdo da tela de depuração.,pt-BR
+Limits contents of debug screen.,Reduz o conteúdo da tela de depuração.,pt-BR
+Loren‐Höchstgeschwindigkeit,Velocidade máxima do Carrinho de Mina,pt-BR
+"Lorsqu'il neige, les couches de neige qui se forment sur le sol peuvent atteindre cette hauteur.","Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+"Lorsqu'un écoulement d'eau est entouré de deux sources d'eau, il se transforme en source.","Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+"Lorsqu'un écoulement de lave est entouré de deux sources de lave, il se transforme en source.","Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+"Lorsque certains événements se produisent dans le jeu, comme l'apparition d'un boss, le son est entendu partout.","Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+Los proyectiles pueden romper bloques,Quebrar blocos com projéteis,pt-BR
+Límite de bloques modificables por comandos,Limite de blocos modificados por comando,pt-BR
+Límite de comandos encadenados,Limite de comandos em cadeia,pt-BR
+Límite de contextos del comando,Limite de contextos por comando,pt-BR
+Límite de entidades por bloque,Número máximo de entidades agrupadas,pt-BR
+Lập tức hồi sinh,Renascer imediatamente,pt-BR
+Mantener inventario tras morir,Manter o inventário ao morrer,pt-BR
+"Maximale Anzahl an Befehlsrahmen, die von Befehlen wie „execute as“ benutzt werden können.","Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+Maximum default speed of a moving Minecart on land.,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+Maximum number of contexts that can be used by commands like 'execute as'.,"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+Mercanti ambulanti,Gerar Mercadores Ambulantes,pt-BR
+Messages de mort,Mostrar mensagens de morte,pt-BR
+Messaggi di morte,Mostrar mensagens de morte,pt-BR
+Minecart max speed,Velocidade máxima do Carrinho de Mina,pt-BR
+Miscellaneous,Diversos,pt-BR
+Mob,Criaturas,pt-BR
+Mobs,Criaturas,pt-BR
+Mobがアイテムや経験値オーブをドロップするかを設定できます。,"Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+Mobによる爆発で破壊されたブロックからのドロップアイテムの一部が、その爆発によって消失するかを設定できます。,Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+Mobのアイテムのドロップ,Largar itens de criaturas,pt-BR
+Mobのスポーン,Gerar criaturas,pt-BR
+Mobの破壊行動の許可,Permitir ações destrutivas de criaturas,pt-BR
+Mob爆発時にブロックがドロップアイテムを落とさない可能性,Não largar todos os itens com explosões de criaturas,pt-BR
+Modifica le regole di gioco,Editar regras do jogo,pt-BR
+Modification des règles de jeu,Editar regras do jogo,pt-BR
+Modifications des règles de jeu,Mudanças nas regras do jogo,pt-BR
+Monster erzeugen,Gerar monstros,pt-BR
+Mostrar mensajes de muerte,Mostrar mensagens de morte,pt-BR
+Mostri,Gerar monstros,pt-BR
+Muhafızlar oluşsun,Gerar Defensores,pt-BR
+Mặc định: %s,Padrão: %s,pt-BR
+Một vài thực thể có thể sẽ có luật riêng biệt.,Algumas entidades podem ter regras separadas.,pt-BR
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do sinh vật gây ra sẽ bị mất đi trong vụ nổ ấy.,Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ do TNT gây ra sẽ bị mất đi trong vụ nổ ấy.,Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+Một vài vật phẩm rơi ra từ việc phá huỷ khối bởi vụ nổ được gây ra bởi tương tác khối sẽ bị mất đi trong vụ nổ ấy.,Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+Natura,Ciclos do mundo,pt-BR
+Nether'a İzin Ver,Permitir acesso ao Nether,pt-BR
+Netherportal‐Verzögerung,Atraso do Portal do Nether em modo não Criativo,pt-BR
+Netherportal‐Verzögerung im Kreativmodus,Atraso do Portal do Nether no Modo Criativo,pt-BR
+Netherportal‐Zugang,Permitir acesso ao Nether,pt-BR
+Người chơi,Jogador,pt-BR
+Ngưỡng nhồi nhét thực thể,Número máximo de entidades agrupadas,pt-BR
+Ngọc Ender được ném ra biến mất khi chết,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+No se pueden cambiar las reglas del juego en modo extremo.,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+Notificar uso de bloques de comandos,Anunciar saída dos Blocos de Comando,pt-BR
+Notificar uso de comandos de admin.,Anunciar comandos de administrador,pt-BR
+Numero di chunk che rimangono caricati intorno al punto di generazione globale.,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+Numero massimo di blocchi che possono essere cambiati contemporaneamente da un solo comando (come «/fill» o «/clone»).,"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+Numero massimo di contesti che possono essere usati da comandi come «/execute as».,"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+Nước chuyển thành nguồn,Transformar água em fonte,pt-BR
+Obergrenze für Befehlsketten,Limite de comandos em cadeia,pt-BR
+Obergrenze für Befehlsrahmen,Limite de contextos por comando,pt-BR
+Obergrenze für Objektgedränge,Número máximo de entidades agrupadas,pt-BR
+Objektausbeute fallen lassen,Largar itens de entidades,pt-BR
+Obtención de objetos,Itens largados,pt-BR
+Obtener botín de criaturas,Largar itens de criaturas,pt-BR
+Obteniendo las reglas del juego...,Baixando regras do jogo...,pt-BR
+Oluşum,Geração,pt-BR
+Oyun kuralları alınıyor,Baixando regras do jogo...,pt-BR
+Oyun kurallarını değiştirmek yönetici yetkisi gerektirir.,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+Oyun Kurallarını Düzenle,Editar regras do jogo,pt-BR
+Oyun Kurallarını Düzenle...,Editar regras do jogo...,pt-BR
+Oyun Kuralı Değişiklikleri,Mudanças nas regras do jogo,pt-BR
+Oyuncu,Jogador,pt-BR
+Oyuncu etrafında ateş yayılabilen blok yarıçapı.,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+Oyuncu hareket denetimini kapat,Desativar verificação de movimento do jogador,pt-BR
+Oyuncu hareketini denetle,Verificação de movimentos do jogador,pt-BR
+Oyuncu Konum Çubuğunu aç,Ativar Barra Localizadora de jogadores,pt-BR
+Oyunculardan uzakta ateş yayılabilsin,Propagação distante de fogo,pt-BR
+Oyuncuların diğer oyunculara hasar verebilmesini kontrol eder.,Define se os jogadores podem atacar outros jogadores.,pt-BR
+Oyuncuların doğabileceği başlangıç noktası çevresindeki alanın boyutunu kontrol eder.,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+Oyuncuların Nether'a girebilmesini kontrol eder.,Define se os jogadores podem entrar no Nether.,pt-BR
+Par défaut : %s,Padrão: %s,pt-BR
+Pattuglie di predoni,Gerar patrulhas de Saqueadores,pt-BR
+Percentuale di giocatori addormentati,Porcentagem de sono,pt-BR
+Perdita dei rilasci con le esplosioni dei blocchi,Não largar todos os itens com explosões de blocos,pt-BR
+Perdita dei rilasci con le esplosioni delle creature,Não largar todos os itens com explosões de criaturas,pt-BR
+Perdita dei rilasci con le esplosioni di TNT,Não largar todos os itens com explosões de TNT,pt-BR
+Perdonar jugadores muertos,Perdoar jogadores mortos,pt-BR
+Perdono dei giocatori morti,Perdoar jogadores mortos,pt-BR
+"Permet aux entités avec des passagers de se téléporter au travers des portails du Nether et de l'End, et des passerelles de l'End.","Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+"Permite a las entidades viajar con pasajeros a través de portales del Nether, del End y nexos del End.","Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+"Permite que se recupere una entidad al romperla. Afecta a vagonetas (incluyendo sus inventarios), marcos, barcas, etc.","Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+Permitir bloques de comandos,Ativar Blocos de Comando,pt-BR
+Permitir explosiones de dinamita,Permitir ativação e explosão de TNT,pt-BR
+Permitir generadores de criaturas,Ativar Blocos Geradores,pt-BR
+Permitir JcJ (PvP),Ativar PvP,pt-BR
+Permitir Nether,Permitir acesso ao Nether,pt-BR
+Permitir que las criaturas destruyan,Permitir ações destrutivas de criaturas,pt-BR
+Perte de butin dans les explosions de blocs,Não largar todos os itens com explosões de blocos,pt-BR
+Perte de butin dans les explosions de créatures,Não largar todos os itens com explosões de criaturas,pt-BR
+Perte de butin dans les explosions de TNT,Não largar todos os itens com explosões de TNT,pt-BR
+Phantome erzeugen,Gerar Espectros,pt-BR
+Player,Jogador,pt-BR
+Player's Nether Portal delay in creative mode,Atraso do Portal do Nether no Modo Criativo,pt-BR
+Player's Nether Portal delay in non-creative mode,Atraso do Portal do Nether em modo não Criativo,pt-BR
+Plünderer‐Patrouillen erzeugen,Gerar patrulhas de Saqueadores,pt-BR
+Por defecto: %s,Padrão: %s,pt-BR
+Porcentaje de jugadores para dormir,Porcentagem de sono,pt-BR
+Portalnutzung durch Objekte mit Passagieren,As entidades com passageiros podem atravessar portais,pt-BR
+Pourcentage de joueurs endormis,Porcentagem de sono,pt-BR
+Predefinito: %s,Padrão: %s,pt-BR
+Progressi annunciati,Anunciar progressos,pt-BR
+Progrès annoncés,Anunciar progressos,pt-BR
+Projectiles can break blocks,Quebrar blocos com projéteis,pt-BR
+Propagación de enredaderas,Propagação de trepadeiras,pt-BR
+Propagación del fuego,Propagação do fogo,pt-BR
+Propagation des lianes,Propagação de trepadeiras,pt-BR
+Propagation du feu,Propagação do fogo,pt-BR
+Propagazione dei rampicanti,Propagação de trepadeiras,pt-BR
+Propagazione del fuoco,Propagação do fogo,pt-BR
+Propagazione distante del fuoco,Propagação distante de fogo,pt-BR
+PvP,Ativar PvP,pt-BR
+pvp 켜기,Ativar PvP,pt-BR
+Pvp'yi etkinleştir,Ativar PvP,pt-BR
+PvPの有効化,Ativar PvP,pt-BR
+"Quando attiva, viene mostrata una barra sullo schermo per indicare la posizione dei giocatori.","Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+"Quando il TNT causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+"Quando l'acqua corrente è circondata da sorgenti d'acqua su due lati, si trasforma in sorgente.","Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+"Quando l'interazione con blocchi causa esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+"Quando la lava colante è circondata da sorgenti di lava su due lati, si trasforma in sorgente.","Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+"Quando le creature causano esplosioni che distruggono blocchi, viene perduta parte degli oggetti normalmente rilasciabili.",Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+"Quando nevica, la neve si accumulerà a terra fino al numero massimo di strati specificato.","Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+Rabbia generale,Fúria universal,pt-BR
+Radio de propagación del fuego,Raio de propagação do fogo,pt-BR
+Radio del punto de reaparición,Raio do ponto de renascimento,pt-BR
+Radio del punto de reaparición,Raio dos chunks ao renascer,pt-BR
+Radius des Wiedereinstiegsbereichs,Raio do ponto de renascimento,pt-BR
+Raggio dei chunk di generazione,Raio dos chunks ao renascer,pt-BR
+Raggio del punto di rinascita,Raio do ponto de renascimento,pt-BR
+Raggio di propagazione del fuoco intorno al giocatore,Raio de propagação do fogo,pt-BR
+Random tick speed rate,Taxa de velocidade de tiques aleatórios,pt-BR
+Rankenausbreitung,Propagação de trepadeiras,pt-BR
+Rastgele zaman birimi ilerleme oranı,Taxa de velocidade de tiques aleatórios,pt-BR
+Rayon de la zone de réapparition,Raio do ponto de renascimento,pt-BR
+Rayon de propagation du feu,Raio de propagação do fogo,pt-BR
+Rayon des chunks d'apparition,Raio dos chunks ao renascer,pt-BR
+Reaparición instantánea,Renascer imediatamente,pt-BR
+Recette requise pour fabriquer,Exigir receitas para fabricação,pt-BR
+Recupero delle regole di gioco...,Baixando regras do jogo...,pt-BR
+Reduce debug info,Reduzir informações de depuração,pt-BR
+Reducir datos de F3,Reduzir informações de depuração,pt-BR
+Regenerar salud,Regenerar vida,pt-BR
+Regenerate health,Regenerar vida,pt-BR
+Registrazione dei comandi degli operatori,Anunciar comandos de administrador,pt-BR
+Regole di gioco,Mudanças nas regras do jogo,pt-BR
+Regole di gioco...,Editar regras do jogo...,pt-BR
+Require recipe for crafting,Exigir receitas para fabricação,pt-BR
+Respawn immediately,Renascer imediatamente,pt-BR
+Respawn location radius,Raio do ponto de renascimento,pt-BR
+Retrieving game rules...,Baixando regras do jogo...,pt-BR
+Rezepte zur Herstellung benötigt,Exigir receitas para fabricação,pt-BR
+Rigenerazione della salute,Regenerar vida,pt-BR
+Rilasci,Itens largados,pt-BR
+Rilasci dei blocchi,Largar blocos,pt-BR
+Rilasci delle creature,Largar itens de criaturas,pt-BR
+Rilasci delle entità,Largar itens de entidades,pt-BR
+Rinascita immediata,Renascer imediatamente,pt-BR
+Risposte dei comandi,Mostrar respostas dos comandos,pt-BR
+Ritardo dei portali del Nether,Atraso do Portal do Nether em modo não Criativo,pt-BR
+Ritardo dei portali del Nether in modalità creativa,Atraso do Portal do Nether no Modo Criativo,pt-BR
+Règles de jeu...,Editar regras do jogo...,pt-BR
+Réapparition immédiate,Renascer imediatamente,pt-BR
+Récupération des règles de jeu...,Baixando regras do jogo...,pt-BR
+Régénération de la vie,Regenerar vida,pt-BR
+Résultat des commandes,Mostrar respostas dos comandos,pt-BR
+Rơi ra,Itens largados,pt-BR
+Rơi ra khối,Largar blocos,pt-BR
+Rơi ra lợi phẩm của sinh vật,Largar itens de criaturas,pt-BR
+Rơi ra trang bị của thực thể,Largar itens de entidades,pt-BR
+S'applique aux blocs de commande en chaîne et aux fonctions.,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+"Sarmaşık bloğunun bitişik bloklara rastgele yayılabilmesini kontrol eder. Ağlayan Sarmaşık, Bükük Sarmaşık gibi diğer sarmaşık blok türlerini etkilemez.","Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+Sarmaşıklar yayılsın,Propagação de trepadeiras,pt-BR
+Sağlık yenilensin,Regenerar vida,pt-BR
+Schaden durch Ertrinken,Causar dano por afogamento,pt-BR
+Schlafquote,Porcentagem de sono,pt-BR
+Schneedeckenhöhe,Altura de acumulação de neve,pt-BR
+Scomparsa alla morte delle perle di ender già lanciate,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+Se aplica a las cadenas de bloques de comandos y funciones.,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+"Se attivata, i giocatori possono fabbricare oggetti solo seguendo le ricette sbloccate.","Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+Send command feedback,Mostrar respostas dos comandos,pt-BR
+Seyircilerin arazi oluşturmasına izin verilsin,Gerar terreno para os espectadores,pt-BR
+Seyyar Tüccarlar oluşsun,Gerar Mercadores Ambulantes,pt-BR
+Show death messages,Mostrar mensagens de morte,pt-BR
+"Si activée, les joueurs ne pourront fabriquer qu'à partir des recettes débloquées.","Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+"Si activée, une barre s'affiche à l'écran pour indiquer la position des joueurs.","Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+Si applica a blocchi comandi a catena e funzioni.,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+"Si se activa, solo se podrán fabricar recetas aprendidas.","Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+Sinh ra,Geração,pt-BR
+Sinh ra kẻ cai ngục,Gerar Defensores,pt-BR
+Sinh ra kẻ cướp tuần tra,Gerar patrulhas de Saqueadores,pt-BR
+Sinh ra phantom,Gerar Espectros,pt-BR
+Sinh ra quái vật,Gerar monstros,pt-BR
+Sinh ra sinh vật,Gerar criaturas,pt-BR
+Sinh ra thương nhân lang thang,Gerar Mercadores Ambulantes,pt-BR
+Sinh vật,Criaturas,pt-BR
+Sinh vật trung lập bị chọc tức sẽ ngừng tức giận khi người chơi mục tiêu chết gần đó.,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgive_dead_players đã bị tắt.","Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Sinh vật trung lập bị chọc tức sẽ tấn công bất kì người chơi nào gần đó, không chỉ người chơi đã chọc tức chúng. Hoạt động tốt nhất nếu forgiveDeadPlayers đã bị tắt.","Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+Sleep percentage,Porcentagem de sono,pt-BR
+Snow accumulation height,Altura de acumulação de neve,pt-BR
+Sofortiger Wiedereinstieg,Renascer imediatamente,pt-BR
+Sohbet,Chat,pt-BR
+Soltar objetos al romper bloques,Largar blocos,pt-BR
+Soltar objetos al romper entidades,Largar itens de entidades,pt-BR
+Some entities might have separate rules.,Algumas entidades podem ter regras separadas.,pt-BR
+Some of the drops from blocks destroyed by explosions caused by block interactions are lost in the explosion.,Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+Some of the drops from blocks destroyed by explosions caused by mobs are lost in the explosion.,Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+Some of the drops from blocks destroyed by explosions caused by TNT are lost in the explosion.,Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+Sortie des blocs de commande,Anunciar saída dos Blocos de Comando,pt-BR
+Sorveglianti,Gerar Defensores,pt-BR
+Spawn chunk radius,Raio dos chunks ao renascer,pt-BR
+Spawn mobs,Gerar criaturas,pt-BR
+Spawn Monsters,Gerar monstros,pt-BR
+Spawn phantoms,Gerar Espectros,pt-BR
+Spawn pillager patrols,Gerar patrulhas de Saqueadores,pt-BR
+Spawn Wandering Traders,Gerar Mercadores Ambulantes,pt-BR
+Spawn Wardens,Gerar Defensores,pt-BR
+Spawner,Ativar Blocos Geradores,pt-BR
+Spawning,Geração,pt-BR
+Spieler,Jogador,pt-BR
+Spielerbewegung nicht überprüfen,Desativar verificação de movimento do jogador,pt-BR
+Spielerortungsleiste aktivieren,Ativar Barra Localizadora de jogadores,pt-BR
+Spieler‐Bewegungsprüfung,Verificação de movimentos do jogador,pt-BR
+Spielregeln bearbeiten,Editar regras do jogo,pt-BR
+Spielregeln bearbeiten …,Editar regras do jogo...,pt-BR
+Spielregeln werden abgerufen …,Baixando regras do jogo...,pt-BR
+Stabilisce se le perle di ender lanciate da un giocatore scompaiono alla morte di quest'ultimo.,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+Standard: %s,Padrão: %s,pt-BR
+"Steuert die Größe des Bereichs um den Einstiegspunkt, in dem Spieler in die Welt einsteigen können.",Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+"Steuert, ob aufprallende Geschosse Blöcke zerstören, die durch sie zerstörbar wären.",Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+"Steuert, ob Blöcke ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).","Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+"Steuert, ob Feuer und Lava in einer Entfernung von mehr als 8 Chunks von einem Spieler aktualisiert werden",Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+"Steuert, ob Kreaturen ihre Ausbeute fallen lassen (einschließlich Erfahrungskugeln).","Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+"Steuert, ob Loren, Rahmen, Boote usw. ihre Ausbeute fallen lassen (einschließlich Inventaren).","Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+"Steuert, ob Monster natürlich erscheinen.",Define se os monstros podem ser gerados naturalmente.,pt-BR
+"Steuert, ob sich Ranken zufällig auf benachbarte Blöcke ausbreiten können. Wirkt sich nicht auf andere Rankenarten wie Trauerranken, Zwirbelranken usw. aus.","Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+"Steuert, ob Spieler anderen Spielern Schaden zufügen können.",Define se os jogadores podem atacar outros jogadores.,pt-BR
+"Steuert, ob Spieler den Nether durch Portale betreten können.",Define se os jogadores podem entrar no Nether.,pt-BR
+"Steuert, ob vom Spieler geworfene Enderperlen verschwinden, wenn dieser stirbt.",Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+"Su, kaynağa dönüşsün",Transformar água em fonte,pt-BR
+Số lượng khối có thể thay đổi cùng một lúc bởi một lệnh như fill hoặc clone.,"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+Số lượng ngữ cảnh tối đa có thể được sử dụng bởi các lệnh như 'execute as'.,"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+Số đoạn khúc sẽ luôn được tải quanh toạ độ điểm hồi sinh thế giới thực.,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+Sự kiện âm thanh toàn cầu,Eventos sonoros globais,pt-BR
+Tchat,Chat,pt-BR
+Tecrübe küreleri de dâhil olmak üzere bloklardan düşen kaynakları kontrol eder.,"Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+Tecrübe küreleri de dâhil olmak üzere yaratıklardan düşen kaynakları kontrol eder.,"Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+Tempo (in tick) che un giocatore in modalità creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Tempo (in tick) che un giocatore in modalità diverse dalla creativa deve trascorrere in un portale del Nether prima di cambiare dimensione.,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Tempo atmosferico,Ciclo meteorológico,pt-BR
+Tha thứ cho người chơi đã chết,Perdoar jogadores mortos,pt-BR
+Thay đổi luật chơi,Mudanças nas regras do jogo,pt-BR
+The amount of chunks that stay loaded around the Overworld spawn position.,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+"The number of blocks that can be changed at once by one command, such as fill or clone.","O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+The percentage of players who must be sleeping to skip the night.,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+The radius in blocks around a player in which fire can spread.,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+Thrown Ender Pearls vanish on death,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+Thông báo tiến trình,Anunciar progressos,pt-BR
+Thời gian (tính bằng nhịp) mà người chơi không ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Thời gian (tính bằng nhịp) mà người chơi ở chế độ sáng tạo cần phải đứng trong cổng Nether trước khi thay đổi chiều không gian.,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Thời gian trong ngày trôi đi,Ciclo circadiano,pt-BR
+Thực thể với hành khách có thể sử dụng cổng,As entidades com passageiros podem atravessar portais,pt-BR
+Tick fire away from players,Propagação distante de fogo,pt-BR
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modo creativo para cambiar de dimensión.,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Tiempo (en tics) que necesita pasar un jugador sobre el portal en modos que no sean creativo para cambiar de dimensión.,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Time (in ticks) that a creative mode player needs to stand in a Nether Portal before changing dimensions.,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Time (in ticks) that a non-creative mode player needs to stand in a Nether Portal before changing dimensions.,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+"TNT patlamalarında, bazı bloklar düşmesin",Não largar todos os itens com explosões de TNT,pt-BR
+"TNT 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",Não largar todos os itens com explosões de TNT,pt-BR
+TNT‐Explosionsausbeute verschwindet,Não largar todos os itens com explosões de TNT,pt-BR
+TNT’nin etkinleştirilmesine ve patlamasına izin ver,Permitir ativação e explosão de TNT,pt-BR
+TNT’nin neden olduğu patlamalarla yok edilen bloklardan düşen ögelerin bir kısmı patlamada kaybolur.,Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+TNTの点火及び爆発の許可,Permitir ativação e explosão de TNT,pt-BR
+TNT爆発時にブロックがドロップアイテムを落とさない可能性,Não largar todos os itens com explosões de TNT,pt-BR
+"TNT에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+TNT의 점화 및 폭발 허용,Permitir ativação e explosão de TNT,pt-BR
+Todesmeldungen anzeigen,Mostrar mensagens de morte,pt-BR
+Transformation de l'eau en source,Transformar água em fonte,pt-BR
+Transformation de la lave en source,Transformar lava em fonte,pt-BR
+"Trong vụ nổ tương tác khối, một vài khối sẽ không rơi ra lợi phẩm",Não largar todos os itens com explosões de blocos,pt-BR
+"Trong vụ nổ từ sinh vật, một vài khối sẽ không rơi ra lợi phẩm",Não largar todos os itens com explosões de criaturas,pt-BR
+"Trong vụ nổ từ TNT, một vài khối sẽ không rơi ra lợi phẩm",Não largar todos os itens com explosões de TNT,pt-BR
+Truyền đi lệnh quản trị,Anunciar comandos de administrador,pt-BR
+Truyền đi đầu ra của khối lệnh,Anunciar saída dos Blocos de Comando,pt-BR
+Trò chuyện,Chat,pt-BR
+Téléportation des entités avec des passagers à travers les portails,As entidades com passageiros podem atravessar portais,pt-BR
+Tắt các cuộc xâm lược,Desativar invasões,pt-BR
+Tắt kiểm tra chuyển động của cánh cứng,Desativar verificação de movimento dos Élitros,pt-BR
+Tắt kiểm tra chuyển động của người chơi,Desativar verificação de movimento do jogador,pt-BR
+Tỉ lệ phần trăm người chơi phải ngủ để qua đêm.,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+Tỉ lệ phần trăm ngủ,Porcentagem de sono,pt-BR
+Tỉ lệ tốc độ nhịp ngẫu nhiên,Taxa de velocidade de tiques aleatórios,pt-BR
+Tốc độ mặc định tối đa của xe mỏ trên mặt đất.,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+Tốc độ tối đa của xe mỏ,Velocidade máxima do Carrinho de Mina,pt-BR
+Universal anger,Fúria universal,pt-BR
+Update fire,Propagação do fogo,pt-BR
+Update weather,Ciclo meteorológico,pt-BR
+Updating game rules requires operator permissions.,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+Uyuma yüzdesi,Porcentagem de sono,pt-BR
+"Vagon (envanter dâhil), Eşya Çerçevesi, Tekne ve benzerlerinden düşen eşyaları kontrol eder.","Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+Varie,Diversos,pt-BR
+Varios,Diversos,pt-BR
+Varlık ekipmanı düşsün,Largar itens de entidades,pt-BR
+Varlık sıkışması alt sınırı,Número máximo de entidades agrupadas,pt-BR
+Varsayılan: %s,Padrão: %s,pt-BR
+Velocidad de tics al azar,Taxa de velocidade de tiques aleatórios,pt-BR
+Velocidad máxima de las vagonetas,Velocidade máxima do Carrinho de Mina,pt-BR
+Velocidad máxima por defecto de una vagoneta por tierra.,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+Velocità massima dei vagonetti,Velocidade máxima do Carrinho de Mina,pt-BR
+Velocità massima predefinita di un vagonetto in movimento.,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+Verifica dei movimenti dei giocatori,Verificação de movimentos do jogador,pt-BR
+Verifica dei movimenti dei giocatori disattivata,Desativar verificação de movimento do jogador,pt-BR
+Verifica del volo con le elitre,Verificação de movimentos dos Élitros,pt-BR
+Verifica del volo con le elitre disattivata,Desativar verificação de movimento dos Élitros,pt-BR
+Verschiedenes,Diversos,pt-BR
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgive_dead_players deaktiviert ist.","Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Verärgerte neutrale Kreaturen greifen jeden Spieler in der Nähe an – nicht nur den Spieler, der sie verärgert hat. Funktioniert am besten, wenn forgiveDeadPlayers deaktiviert ist.","Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Verärgerte neutrale Kreaturen hören auf, wütend zu sein, wenn der Zielspieler in der Nähe stirbt.",Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+Vines spread,Propagação de trepadeiras,pt-BR
+Vitesse des ticks aléatoires,Taxa de velocidade de tiques aleatórios,pt-BR
+Vitesse maximale des wagonnets,Velocidade máxima do Carrinho de Mina,pt-BR
+Von Spielern entferntes Feuer aktualisieren,Propagação distante de fogo,pt-BR
+Voranschreiten der Tageszeit,Ciclo circadiano,pt-BR
+Voulez-vous vraiment abandonner les modifications en cours des règles de jeu ?,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+Vuoi davvero annullare le modifiche in sospeso alle regole di gioco?,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+Vérification des mouvements du joueur,Verificação de movimentos do jogador,pt-BR
+Vérification du vol en élytres,Verificação de movimentos dos Élitros,pt-BR
+Vérification désactivée des mouvements du joueur,Desativar verificação de movimento do jogador,pt-BR
+Vérification désactivée du vol en élytres,Desativar verificação de movimento dos Élitros,pt-BR
+Vật bắn ra có thể phá khối,Quebrar blocos com projéteis,pt-BR
+Wasser‐Erneuerbarkeit,Transformar água em fonte,pt-BR
+Water converts to source,Transformar água em fonte,pt-BR
+Weltaktualisierungen,Ciclos do mundo,pt-BR
+Weltweite Geräuschereignisse,Eventos sonoros globais,pt-BR
+"Wenn aktiviert, können Spieler nur bereits freigeschaltete Rezepte nutzen.","Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+"Wenn aktiviert, zeigt eine Leiste auf dem Bildschirm die Richtung der Mitspieler an.","Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+"Wenn bestimmte Spielereignisse eintreten, z. B. das Auftauchen eines Endgegners, ist das Geräusch überall zu hören.","Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+"Wenn es schneit, entsteht auf dem Boden eine Schneedecke, die höchstens diese Anzahl von Schichten erreicht.","Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+"Wenn fließende Lava auf zwei Seiten von Lavaquellen umgeben ist, wird sie zu einer Quelle.","Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+"Wenn fließendes Wasser auf zwei Seiten von Wasserquellen umgeben ist, wird es zu einer Quelle.","Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+Wetterwechsel,Ciclo meteorológico,pt-BR
+"When certain game events happen, like a boss spawning, the sound is heard everywhere.","Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+"When enabled, a bar is shown on the screen to indicate the direction of players.","Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+"When flowing lava is surrounded on two sides by lava sources, it converts into a source.","Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+"When flowing water is surrounded on two sides by water sources, it converts into a source.","Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+"When it snows, layers of snow form on the ground up to at most this number of layers.","Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+Whether Ender Pearls thrown by a player vanish when that player dies.,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+Wird auf Befehlsblockketten und Funktionen angewandt.,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+World Updates,Ciclos do mundo,pt-BR
+Wärter erzeugen,Gerar Defensores,pt-BR
+Yaratıcı modda oyuncunun Nether Geçidi gecikmesi,Atraso do Portal do Nether no Modo Criativo,pt-BR
+Yaratıcı olmayan modlarda oyuncunun Nether Geçidi gecikmesi,Atraso do Portal do Nether em modo não Criativo,pt-BR
+Yağmacı devriyeleri oluşsun,Gerar patrulhas de Saqueadores,pt-BR
+Yeniden canlanma yeri çevresi,Raio do ponto de renascimento,pt-BR
+"Yolcuları olan varlıkların Nether Portalları, End Portalları ve End Geçitlerinden geçmelerine izin verir.","Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+Yolcusu olan varlıklar geçitlerden geçebilir,As entidades com passageiros podem atravessar portais,pt-BR
+Yêu cầu công thức chế tạo,Exigir receitas para fabricação,pt-BR
+Yönetici komutları gösterilsin,Anunciar comandos de administrador,pt-BR
+"Zeit (in Ticks), die ein Spieler außerhalb des Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+"Zeit (in Ticks), die ein Spieler im Kreativmodus in einem Netherportal verbringen muss, bevor dieser die Dimension wechselt.",Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Zerstörung durch Kreaturen,Permitir ações destrutivas de criaturas,pt-BR
+Zorlayıcı dünyada oyun kuralları değiştirilemez.,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+Zuschauer generieren Landschaft,Gerar terreno para os espectadores,pt-BR
+¿Seguro que quieres descartar tus cambios?,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+Áp dụng cho chuỗi khối lệnh và hàm.,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+Änderungen der Spielregeln,Mudanças nas regras do jogo,pt-BR
+Çağırıcı Bloklarını Etkinleştir,Ativar Blocos Geradores,pt-BR
+Çeşitli,Diversos,pt-BR
+Événements sonores globaux,Eventos sonoros globais,pt-BR
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgive_dead_players kapatıldığında daha iyi çalışır.","Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Öfkeli tarafsız canlılar sadece onları öfkelendiren oyuncuya değil, yakındaki tüm oyunculara saldırır. forgiveDeadPlayers kapatıldığında daha iyi çalışır.","Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Öfkeli tarafsız canlılar, hedeflenen oyuncu yakında öldüğünde öfkelenmeyi bırakır.",Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+Öldükten sonra envanteri koru,Manter o inventário ao morrer,pt-BR
+Ölü oyuncular affedilsin,Perdoar jogadores mortos,pt-BR
+Ölüm iletileri gösterilsin,Mostrar mensagens de morte,pt-BR
+Überfälle,Ativar invasões,pt-BR
+Überfälle deaktivieren,Desativar invasões,pt-BR
+Üretim için tarif gereksin,Exigir receitas para fabricação,pt-BR
+Đang truy xuất luật chơi...,Baixando regras do jogo...,pt-BR
+Đếm nhịp lửa cách xa người chơi,Propagação distante de fogo,pt-BR
+Độ trễ cổng Nether cho người chơi không ở chế độ sáng tạo,Atraso do Portal do Nether em modo não Criativo,pt-BR
+Độ trễ cổng Nether cho người chơi ở chế độ sáng tạo,Atraso do Portal do Nether no Modo Criativo,pt-BR
+Активация и взрыв динамита,Permitir ativação e explosão de TNT,pt-BR
+Влияет на выпадение предметов и сфер опыта из блоков.,"Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+Влияет на выпадение предметов и сфер опыта из мобов.,"Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+"Влияет на выпадение предметов из вагонеток (включая инвентарь), рамок, лодок и т. д.","Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+Влияет на исчезновение брошенного эндер-жемчуга после смерти игрока.,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+"Влияет на потерю предметов, выпавших после взрыва динамита.",Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+"Влияет на потерю предметов, выпавших после взрыва моба.",Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+"Влияет на потерю предметов, выпавших после взрыва, вызванного взаимодействием с блоком.",Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+"Влияет на случайное распространение лиан по соседним блокам. Не затрагивает другие сходные блоки, такие как плакучие или вьющиеся лозы.","Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+"Влияет на слышимость звука для всех игроков во время определённых событий, например, призыва босса.","Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+Возобновление источников воды,Transformar água em fonte,pt-BR
+Возобновление источников лавы,Transformar lava em fonte,pt-BR
+Время прохождения портала Незера в творческом режиме,Atraso do Portal do Nether no Modo Criativo,pt-BR
+Время прохождения портала Незера вне творческого режима,Atraso do Portal do Nether em modo não Criativo,pt-BR
+Вы действительно хотите отменить изменения игровых правил?,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+Выпадение блоков,Largar blocos,pt-BR
+Выпадение добычи из мобов,Largar itens de criaturas,pt-BR
+Выпадение ресурсов,Itens largados,pt-BR
+Выпадение экипировки сущностей,Largar itens de entidades,pt-BR
+Высота снежного покрова,Altura de acumulação de neve,pt-BR
+Генерация мира наблюдателями,Gerar terreno para os espectadores,pt-BR
+Глобальные звуковые события,Eventos sonoros globais,pt-BR
+Доступ в Незер,Permitir acesso ao Nether,pt-BR
+"Если включено, то игроки могут создавать предметы только по разблокированным рецептам.","Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+Загрузка игровых правил...,Baixando regras do jogo...,pt-BR
+Задержка перемещения при прохождении портала Незера игроками в творческом режиме (в тактах).,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Задержка перемещения при прохождении портала Незера игроками вне творческого режима (в тактах).,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+Запись команд администраторов,Anunciar comandos de administrador,pt-BR
+Затрагивает цепочки командных блоков и функции.,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+Игровые правила...,Editar regras do jogo...,pt-BR
+Игрок,Jogador,pt-BR
+Изменение игровых правил в Хардкоре недоступно.,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+Изменение игровых правил требует прав оператора.,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+Изменения игровых правил,Mudanças nas regras do jogo,pt-BR
+Изменения погоды,Ciclo meteorológico,pt-BR
+Использование командных блоков,Ativar Blocos de Comando,pt-BR
+Использование порталов сущностями с пассажирами,As entidades com passageiros podem atravessar portais,pt-BR
+Исчезновение брошенного эндер-жемчуга при смерти,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+"Когда включено, на экране отображается локатор, указывающий на расположение игроков.","Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+Командные блоки,Ativar Blocos de Comando,pt-BR
+Локатор игроков,Ativar Barra Localizadora de jogadores,pt-BR
+Максимальная базовая скорость движения вагонетки по земле.,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+Максимальная скорость вагонетки,Velocidade máxima do Carrinho de Mina,pt-BR
+"Максимальное количество блоков, которое можно изменить командой, например, /fill или /clone.","O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+"Максимальное количество контекстов, которые могут быть использованы командами вроде «execute as».","Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+Малый экран отладки,Reduzir informações de depuração,pt-BR
+Мгновенное возрождение,Renascer imediatamente,pt-BR
+Мобы,Criaturas,pt-BR
+Настройка игровых правил,Editar regras do jogo,pt-BR
+Обновление огня вдали от игроков,Propagação distante de fogo,pt-BR
+Обновления мира,Ciclos do mundo,pt-BR
+Ограничение длины цепи команд,Limite de comandos em cadeia,pt-BR
+Ограничение изменения блоков командой,Limite de blocos modificados por comando,pt-BR
+Ограничение контекста команд,Limite de contextos por comando,pt-BR
+Ограничение содержания экрана отладки.,Reduz o conteúdo da tela de depuração.,pt-BR
+Окружённая двумя источниками текущая вода образует третий.,"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+Окружённая двумя источниками текущая лава образует третий.,"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+Оповещения о достижениях,Anunciar progressos,pt-BR
+"Определяет, могут ли игроки входить в Незер.",Define se os jogadores podem entrar no Nether.,pt-BR
+"Определяет, могут ли игроки наносить урон другим игрокам.",Define se os jogadores podem atacar outros jogadores.,pt-BR
+"Определяет, обновляются ли огонь и лава в радиусе более 8 чанков от каждого игрока.",Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+"Определяет, появляются ли монстры сами по себе.",Define se os monstros podem ser gerados naturalmente.,pt-BR
+Отключение проверки движения игрока,Desativar verificação de movimento do jogador,pt-BR
+Отключение проверки на элитрах,Desativar verificação de movimento dos Élitros,pt-BR
+Отключение рейдов,Desativar invasões,pt-BR
+Отображение сообщений команд,Mostrar respostas dos comandos,pt-BR
+Патрули разбойников,Gerar patrulhas de Saqueadores,pt-BR
+По умолчанию: %s,Padrão: %s,pt-BR
+"Позволяет сущностям с пассажирами телепортироваться через порталы Незера, порталы Энда и врата Энда.","Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+Потеря части добычи от взрыва при использовании блока,Não largar todos os itens com explosões de blocos,pt-BR
+Потеря части добычи при взрыве динамита,Não largar todos os itens com explosões de TNT,pt-BR
+Потеря части добычи при взрыве моба,Não largar todos os itens com explosões de criaturas,pt-BR
+Появление,Geração,pt-BR
+Появление мобов,Gerar criaturas,pt-BR
+Появление монстров,Gerar monstros,pt-BR
+Появление фантомов,Gerar Espectros,pt-BR
+Появление хранителей,Gerar Defensores,pt-BR
+Предел сущностей в одном блоке,Número máximo de entidades agrupadas,pt-BR
+"Предельное число слоёв снега, образующихся во время снегопада.","Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+Проверка движения игрока,Verificação de movimentos do jogador,pt-BR
+Проверка движения на элитрах,Verificação de movimentos dos Élitros,pt-BR
+"Процент игроков, которым нужно спать для пропуска ночи.",A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+Процент спящих,Porcentagem de sono,pt-BR
+Прощение умерших игроков,Perdoar jogadores mortos,pt-BR
+"Радиус в блоках вокруг игрока, на котором может распространяться огонь.",O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+Радиус невыгружаемой области вокруг точек возрождения игроков.,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+Радиус невыгружаемой области вокруг точки возрождения мира.,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+Радиус области возрождения,Raio do ponto de renascimento,pt-BR
+Радиус распространения огня,Raio de propagação do fogo,pt-BR
+Радиус чанков возрождения мира,Raio dos chunks ao renascer,pt-BR
+Разное,Diversos,pt-BR
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgive_dead_players выключено.","Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Разозлённые нейтральные мобы будут нападать на любого игрока поблизости, а не на разозлившего их. Эффективнее, если правило forgiveDeadPlayers выключено.","Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+"Разозлённые нейтральные мобы перестают злиться на игрока, когда тот умирает неподалёку.",Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+Разрушительные действия мобов,Permitir ações destrutivas de criaturas,pt-BR
+Распространение лианы,Propagação de trepadeiras,pt-BR
+Распространение огня,Propagação do fogo,pt-BR
+Рассадники,Ativar Blocos Geradores,pt-BR
+Регенерация здоровья,Regenerar vida,pt-BR
+"Регулирует, разрушаются ли определённые блоки от удара снаряда.",Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+Рейды,Ativar invasões,pt-BR
+Слепая ярость,Fúria universal,pt-BR
+Смена дня и ночи,Ciclo circadiano,pt-BR
+Снаряды могут разрушать блоки,Quebrar blocos com projéteis,pt-BR
+Создание только по рецепту,Exigir receitas para fabricação,pt-BR
+Сообщения командных блоков,Anunciar saída dos Blocos de Comando,pt-BR
+Сообщения о смерти,Mostrar mensagens de morte,pt-BR
+Сохранение инвентаря при смерти,Manter o inventário ao morrer,pt-BR
+Странствующие торговцы,Gerar Mercadores Ambulantes,pt-BR
+У некоторых сущностей могут быть свои игровые правила.,Algumas entidades podem ter regras separadas.,pt-BR
+Урон от замерзания,Causar dano por congelamento,pt-BR
+Урон от огня,Causar dano por fogo,pt-BR
+Урон от падения,Causar dano por queda,pt-BR
+Урон от утопления,Causar dano por afogamento,pt-BR
+Частота случайных тактов,Taxa de velocidade de tiques aleatórios,pt-BR
+Чат,Chat,pt-BR
+การดรอป,Itens largados,pt-BR
+การอัปเดตกฎเกมต้องใช้สิทธิ์ผู้ควบคุม,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+การอัปเดตของโลก,Ciclos do mundo,pt-BR
+การเกิด,Geração,pt-BR
+การโกรธทุกคน,Fúria universal,pt-BR
+กำลังดึงข้อมูลกฎเกม...,Baixando regras do jogo...,pt-BR
+ควบคุมการดรอปจากบล็อก รวมถึงลูกแก้วประสบการณ์,"Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+ควบคุมการดรอปจากม็อบ รวมถึงลูกแก้วประสบการณ์,"Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+ควบคุมการดรอปจากรถราง (รวมถึงช่องเก็บของ) กรอบไอเทม เรือ ฯลฯ,"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+ควบคุมขนาดพื้นที่รอบ ๆ จุดเกิดที่ผู้เล่นสามารถเกิดได้,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+ควบคุมว่าจะให้บล็อกเถาวัลย์แพร่แบบสุ่มไปยังบล็อกที่อยู่ติดกันได้หรือไม่ ไม่ส่งผลต่อบล็อกเถาวัลย์ประเภทอื่น เช่น เถาวัลย์โศก เถาวัลย์บิดเกลียว ฯลฯ,"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+ควบคุมว่าจะให้ผู้เล่นสามารถทำดาเมจผู้เล่นคนอื่นได้หรือไม่,Define se os jogadores podem atacar outros jogadores.,pt-BR
+ควบคุมว่าจะให้ผู้เล่นสามารถเข้าเนเธอร์ได้หรือไม่,Define se os jogadores podem entrar no Nether.,pt-BR
+ควบคุมว่าจะให้มอนเตอร์เกิดตามธรรมชาติได้หรือไม่,Define se os monstros podem ser gerados naturalmente.,pt-BR
+ควบคุมว่าจะให้วัตถุพุ่งทำลายบล็อกที่สามารถทำลายได้ได้หรือไม่,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+ควบคุมว่าจะให้ไข่มุกเอนเดอร์ที่ผู้เล่นโยนไปหายไปหรือไม่เมื่อผู้เล่นคนนั้นตาย,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+ควบคุมว่าจะให้ไฟและลาวาที่อยู่ห่างจากผู้เล่นออกไป 8 ชังก์ สามารถลามได้หรือไม่,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+ความสูงในการสะสมชั้นหิมะ,Altura de acumulação de neve,pt-BR
+ความเร็วค่าเริ่มต้นสูงสุดของรถรางที่เคลื่อนที่บนบก,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+ความเร็วสูงสุดของรถราง,Velocidade máxima do Carrinho de Mina,pt-BR
+คุณแน่ใจหรือไม่ว่าคุณต้องการละทิ้งการเปลี่ยนแปลงกฎเกมที่ยังไม่ได้บันทึก?,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+ค่าเริ่มต้น: %s,Padrão: %s,pt-BR
+จำกัดค่าสูงสุดของจำนวนบริบทที่สามารถใช้ได้ในคำสั่งอย่าง 'execute as',"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+จำกัดจำนวนของคำสั่งแบบลูกโซ่ที่ต่อกัน,Limite de comandos em cadeia,pt-BR
+จำกัดจำนวนบริบทของคำสั่ง,Limite de contextos por comando,pt-BR
+จำกัดเนื้อหาของหน้าจอดีบั๊ก,Reduz o conteúdo da tela de depuração.,pt-BR
+จำนวนชังก์รอบ ๆ จุดเกิดโลกปกติที่จะโหลดตลอดเวลา,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+จำนวนบล็อกสูงสุดที่ได้รับผลกระทบจากคำสั่งหนึ่งครั้ง เช่น คำสั่ง fill หรือ clone,"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+จำนวนเปอร์เซ็นต์ของผู้เล่นที่ต้องนอนเพื่อข้ามเวลากลางคืน,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+จำนวนเอนทิตี้สูงสุดที่อัดกันในพื้นที่,Número máximo de entidades agrupadas,pt-BR
+ดรอปของจากเอนทิตี้,Largar itens de entidades,pt-BR
+ดรอปลูตของม็อบ,Largar itens de criaturas,pt-BR
+ดาเมจจากการจมน้ำ,Causar dano por afogamento,pt-BR
+ดาเมจจากการตกจากที่สูง,Causar dano por queda,pt-BR
+ดาเมจจากความเย็น,Causar dano por congelamento,pt-BR
+ดาเมจจากไฟ,Causar dano por fogo,pt-BR
+ดำเนินวัฏจักรกลางวัน-กลางคืน,Ciclo circadiano,pt-BR
+ตรวจสอบการเคลื่อนที่ของผู้เล่น,Verificação de movimentos do jogador,pt-BR
+ตรวจสอบความเร็วขณะบินด้วยปีก,Verificação de movimentos dos Élitros,pt-BR
+ตายของไม่ตก,Manter o inventário ao morrer,pt-BR
+ต้องมีสูตรสำหรับการคราฟต์,Exigir receitas para fabricação,pt-BR
+บล็อกดรอป,Largar blocos,pt-BR
+ประกาศความก้าวหน้า,Anunciar progressos,pt-BR
+ประตูมิติเนเธอร์ของผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์จะมีดีเลย์,Atraso do Portal do Nether em modo não Criativo,pt-BR
+ประตูมิติเนเธอร์ของผู้เล่นในโหมดสร้างสรรค์จะมีดีเลย์,Atraso do Portal do Nether no Modo Criativo,pt-BR
+ปิดการตรวจสอบการเคลื่อนที่ของผู้เล่น,Desativar verificação de movimento do jogador,pt-BR
+ปิดการตรวจสอบความเร็วขณะบินด้วยปีก,Desativar verificação de movimento dos Élitros,pt-BR
+ปิดการปล้นสะดม,Desativar invasões,pt-BR
+ผู้เล่น,Jogador,pt-BR
+ฟื้นฟูเลือดตามธรรมชาติ,Regenerar vida,pt-BR
+มีผลกับการทำงานของบล็อกคำสั่งแบบลูกโซ่,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+ม็อบ,Criaturas,pt-BR
+ม็อบเป็นกลางที่โกรธอยู่จะหยุดโกรธเมื่อผู้เล่นที่เป็นเป้าหมายตายในบริเวณใกล้เคียง,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+"ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน ""อภัยผู้เล่นที่ตายแล้ว""","Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+ม็อบเป็นกลางที่โกรธอยู่จะโจมตีผู้เล่นทุกคนที่อยู่ใกล้ ๆ ไม่ใช่เฉพาะผู้เล่นที่ทำให้มันโกรธ อีกทั้งจะใช้งานร่วมกันได้ดีเมื่อปิดการใช้งาน forgive_dead_players,"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+รัศมีการลุกลามของไฟ,Raio de propagação do fogo,pt-BR
+รัศมีจุดเกิด,Raio do ponto de renascimento,pt-BR
+รัศมีชังก์จุดเกิด,Raio dos chunks ao renascer,pt-BR
+รัศมีบล็อกรอบ ๆ ผู้เล่นที่ไฟสามารถลุกลามได้,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+ลดการแสดงข้อมูลดีบั๊ก,Reduzir informações de depuração,pt-BR
+วัตถุพุ่งสามารถทำลายบล็อกได้,Quebrar blocos com projéteis,pt-BR
+หากเปิดใช้งาน ผู้เล่นจะคราฟต์ได้เฉพาะสูตรที่ปลดล็อกแล้ว,"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+อนุญาตให้ระเบิดทีเอ็นทีสามารถจุดและระเบิดได้,Permitir ativação e explosão de TNT,pt-BR
+อนุญาตให้เข้าเนเธอร์,Permitir acesso ao Nether,pt-BR
+อนุญาตให้เอนทิตี้ที่มีผู้โดยสารเทเลพอร์ตผ่านประตูมิติเนเธอร์ ประตูมิติเอนด์ และประตูทางผ่านเอนด์,"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+อภัยผู้เล่นที่ตายแล้ว,Perdoar jogadores mortos,pt-BR
+อัตราความเร็วติ๊กแบบสุ่ม,Taxa de velocidade de tiques aleatórios,pt-BR
+อัปเดตสภาพอากาศ,Ciclo meteorológico,pt-BR
+อัปเดตไฟ,Propagação do fogo,pt-BR
+เกิดใหม่ทันที,Renascer imediatamente,pt-BR
+เบ็ดเตล็ด,Diversos,pt-BR
+เปลี่ยนแปลงกฎเกม,Mudanças nas regras do jogo,pt-BR
+เปอร์เซ็นต์ของผู้เล่นนอน,Porcentagem de sono,pt-BR
+เปิดการปล้นสะดม,Ativar invasões,pt-BR
+เปิดใช้งาน PvP,Ativar PvP,pt-BR
+เปิดใช้งานบล็อกกรงกำเนิด,Ativar Blocos Geradores,pt-BR
+เปิดใช้งานบล็อกคำสั่ง,Ativar Blocos de Comando,pt-BR
+เปิดใช้งานแถบระบุตำแหน่งผู้เล่น,Ativar Barra Localizadora de jogadores,pt-BR
+เมื่อน้ำไหลถูกล้อมรอบจากแหล่งน้ำ 2 ด้าน น้ำไหลนี้จะกลายเป็นแหล่งน้ำ,"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+เมื่อลาวาไหลถูกล้อมรอบจากแหล่งลาวา 2 ด้าน ลาวาไหลนี้จะกลายเป็นแหล่งลาวา,"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+เมื่อหิมะตก ชั้นหิมะจะก่อตัวขึ้นบนพื้นผิวมากถึงจำนวนชั้นที่กำหนด,"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+เมื่อเปิดใช้งานจะมีแถบปรากฏบนหน้าจอเพื่อบ่งชี้ทิศทางของผู้เล่น,"Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+เมื่อเหตุการณ์เกมบางอย่างเกิดขึ้น (เช่น การเสกบอส) ทุกที่จะได้ยินเสียงนี้,"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นที่ไม่ได้อยู่ในโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+เวลา (หน่วยเป็นติ๊ก) ที่ผู้เล่นโหมดสร้างสรรค์ต้องยืนอยู่ในประตูมิติเนเธอร์ก่อนที่จะย้ายมิติ,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+เหตุการณ์เสียงดังไปทั่ว,Eventos sonoros globais,pt-BR
+เอนทิตี้ที่มีผู้โดยสารสามารถใช้ประตูมิติได้,As entidades com passageiros podem atravessar portais,pt-BR
+เอนทิตี้บางรายการอาจมีกฎแยกต่างหาก,Algumas entidades podem ter regras separadas.,pt-BR
+แก้ไขกฎเกม,Editar regras do jogo,pt-BR
+แก้ไขกฎเกม...,Editar regras do jogo...,pt-BR
+แก้ไขขีดจำกัดของจำนวนบล็อกในคำสั่ง,Limite de blocos modificados por comando,pt-BR
+แชต,Chat,pt-BR
+แสดงข้อความการตาย,Mostrar mensagens de morte,pt-BR
+แสดงบันทึกคำสั่งของแอดมิน,Anunciar comandos de administrador,pt-BR
+แสดงผลป้อนกลับคำสั่ง,Mostrar respostas dos comandos,pt-BR
+แสดงเอาต์พุตของบล็อกคำสั่ง,Anunciar saída dos Blocos de Comando,pt-BR
+ในการระเบิดของปฏิสัมพันธ์กับบล็อก บล็อกบางส่วนจะไม่ดรอปลูตออกมา,Não largar todos os itens com explosões de blocos,pt-BR
+ในการระเบิดของม็อบ บล็อกบางส่วนจะไม่ดรอปลูตออกมา,Não largar todos os itens com explosões de criaturas,pt-BR
+ในการระเบิดของระเบิดทีเอ็นที บล็อกบางส่วนจะไม่ดรอปลูตออกมา,Não largar todos os itens com explosões de TNT,pt-BR
+ในการระเบิดที่เกิดจากปฏิสัมพันธ์กับบล็อก การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+ในการระเบิดที่เกิดจากม็อบ การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+ในการระเบิดที่เกิดจากระเบิดทีเอ็นที การดรอปบางส่วนจากบล็อกที่ถูกทำลายนั้นจะหายไปในการระเบิด,Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+ให้กองโจรลาดตระเวนเกิด,Gerar patrulhas de Saqueadores,pt-BR
+ให้น้ำไหลกลายเป็นแหล่งน้ำได้,Transformar água em fonte,pt-BR
+ให้ผู้เล่นโหมดผู้ชมสร้างภูมิประเทศ,Gerar terreno para os espectadores,pt-BR
+ให้พ่อค้าเร่ร่อนเกิด,Gerar Mercadores Ambulantes,pt-BR
+ให้มอนสเตอร์เกิด,Gerar monstros,pt-BR
+ให้ม็อบมีปฏิสัมพันธ์กับบล็อก,Permitir ações destrutivas de criaturas,pt-BR
+ให้ม็อบเกิด,Gerar criaturas,pt-BR
+ให้ลาวาไหลกลายเป็นแหล่งลาวาได้,Transformar lava em fonte,pt-BR
+ให้วอร์เดนเกิด,Gerar Defensores,pt-BR
+ให้เถาวัลย์แพร่,Propagação de trepadeiras,pt-BR
+ให้แฟนท่อมเกิด,Gerar Espectros,pt-BR
+ให้ไฟลามได้แม้ผู้เล่นอยู่ไกล,Propagação distante de fogo,pt-BR
+ไข่มุกเอนเดอร์ที่โยนไปหายเมื่อตาย,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+ไม่สามารถเปลี่ยนกฎเกมในโลกฮาร์ดคอร์,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+’execute as’ gibi komutların kullanabildiği tavan bağlam sayısı.,"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+“execute as”等命令可以使用的上下文数量最大值。,"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+「execute as」などのコマンドで使用できる実行文脈の最大数,"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+「execute as」等指令使用的上下文最大數量。,"Número máximo de contextos que podem ser usados por comandos como ""execute as"".",pt-BR
+その他,Diversos,pt-BR
+どのプレイヤーからも8チャンク以上離れた位置の炎・溶岩がティック処理を受けることができるかどうかを設定できます,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+ウォーデンのスポーン,Gerar Defensores,pt-BR
+エリトラの速度チェック,Verificação de movimentos dos Élitros,pt-BR
+エリトラの速度チェックの無効化,Desativar verificação de movimento dos Élitros,pt-BR
+エンティティの最大密集数,Número máximo de entidades agrupadas,pt-BR
+オンにすると、TNTの爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+オンにすると、ブロックへの作用による爆発で破壊されたブロックのドロップアイテムが一部消失するようになります。,Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+オーバーワールドのスポーン地点周辺の、常に読み込まれているチャンクの量。,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+クラフトにレシピを要求,Exigir receitas para fabricação,pt-BR
+クリエイティブモードでのネザーポータルの待機時間,Atraso do Portal do Nether no Modo Criativo,pt-BR
+クリエイティブモードのプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+クリエイティブモード以外のプレイヤーがディメンションを移動するまでにネザーポータル内に立っている必要のある時間（ティック）,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+ゲームルールの変更,Mudanças nas regras do jogo,pt-BR
+ゲームルールの更新には管理者権限が必要です。,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+ゲームルールを取得中…,Baixando regras do jogo...,pt-BR
+ゲームルールを編集,Editar regras do jogo,pt-BR
+ゲームルールを編集…,Editar regras do jogo...,pt-BR
+ゲーム内時刻の進行,Ciclo circadiano,pt-BR
+コマンドによるブロックの最大変更数,Limite de blocos modificados por comando,pt-BR
+コマンドの実行結果の表示,Mostrar respostas dos comandos,pt-BR
+コマンドの最大チェーン数,Limite de comandos em cadeia,pt-BR
+コマンドの最大実行文脈数,Limite de contextos por comando,pt-BR
+コマンドブロックの実行結果の通知,Anunciar saída dos Blocos de Comando,pt-BR
+コマンドブロックの有効化,Ativar Blocos de Comando,pt-BR
+スペクテイターモードのプレイヤーによる地形生成の許可,Gerar terreno para os espectadores,pt-BR
+スポナーの有効化,Ativar Blocos Geradores,pt-BR
+スポーン,Geração,pt-BR
+スポーンチャンクの半径,Raio dos chunks ao renascer,pt-BR
+スポーン地点を中心とした、プレイヤーがスポーンする可能性のある範囲の大きさを調整できます。,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+チェーンコマンドブロックや関数に適用されます。,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+チャット,Chat,pt-BR
+ツタがランダムに隣接するブロックへと成長するかどうかを設定できます。しだれツタやねじれツタなど、他のブロックには影響しません。,"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+ツタの成長,Propagação de trepadeiras,pt-BR
+デバッグ情報の制限,Reduzir informações de depuração,pt-BR
+デフォルト値：%s,Padrão: %s,pt-BR
+トロッコの最高速度,Velocidade máxima do Carrinho de Mina,pt-BR
+トロッコや額縁、ボートなどの破壊時に、（内容物も含め）アイテムがドロップするかを設定できます,"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+ドロップ,Itens largados,pt-BR
+ネザーの許可,Permitir acesso ao Nether,pt-BR
+ハードコアのワールドではゲームルールを変更できません。,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+ファントムのスポーン,Gerar Espectros,pt-BR
+ブロックがアイテムや経験値オーブをドロップするかを設定できます。,"Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+ブロックのドロップ,Largar blocos,pt-BR
+ブロックの操作による爆発時にブロックがドロップアイテムを落とさない可能性,Não largar todos os itens com explosões de blocos,pt-BR
+プレイヤー,Jogador,pt-BR
+プレイヤーから遠い炎のティック処理,Propagação distante de fogo,pt-BR
+プレイヤーがネザーに入ることができるかどうかを設定できます,Define se os jogadores podem entrar no Nether.,pt-BR
+プレイヤーが他のプレイヤーに対してダメージを与えることができるかどうかを設定できます,Define se os jogadores podem atacar outros jogadores.,pt-BR
+プレイヤーの周囲の炎の延焼が発生しうる範囲の半径（ブロック）。,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+プレイヤーの投げたエンダーパールが、投げたプレイヤーが死亡したときに消滅するかを設定できます。,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+プレイヤーの方向バーの有効化,Ativar Barra Localizadora de jogadores,pt-BR
+プレイヤーの速度チェック,Verificação de movimentos do jogador,pt-BR
+プレイヤーの速度チェックの無効化,Desativar verificação de movimento do jogador,pt-BR
+プレイヤー死亡時のエンダーパールの消滅,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+ボスの出現など、特定のゲームイベントが発生したときのサウンドがどこにいても聞こえるかを設定できます。,"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+モンスターが自然にスポーンするかどうかを設定できます,Define se os monstros podem ser gerados naturalmente.,pt-BR
+モンスターのスポーン,Gerar monstros,pt-BR
+ランダムティックの発生数,Taxa de velocidade de tiques aleatórios,pt-BR
+リスポーン地点の半径,Raio do ponto de renascimento,pt-BR
+ワールドの更新,Ciclos do mundo,pt-BR
+ワールド全体のサウンドイベント,Eventos sonoros globais,pt-BR
+一些实体可能有其特定的规则。,Algumas entidades podem ter regras separadas.,pt-BR
+世界更新,Ciclos do mundo,pt-BR
+主世界出生点周围保持加载的区块数量。,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+主世界重生點周圍維持載入的區塊數量。,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+体力の自動回復,Regenerar vida,pt-BR
+何かが乗っているエンティティが、ネザーポータル、エンドポータル、エンドゲートウェイを通過してテレポートするかを設定できます。,"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+何かが乗っているエンティティのポータル使用可否,As entidades com passageiros podem atravessar portais,pt-BR
+你确定要放弃未保存的游戏规则更改吗？,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+你確定要捨棄尚未儲存的遊戲規則變更嗎？,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+停用玩家移動檢測,Desativar verificação de movimento do jogador,pt-BR
+停用突襲,Desativar invasões,pt-BR
+停用鞘翅移動檢測,Desativar verificação de movimento dos Élitros,pt-BR
+允許 TNT 被點燃並爆炸,Permitir ativação e explosão de TNT,pt-BR
+允許旁觀者生成地形,Gerar terreno para os espectadores,pt-BR
+允許火在遠離玩家處蔓延,Propagação distante de fogo,pt-BR
+允許生物的破壞行為,Permitir ações destrutivas de criaturas,pt-BR
+允許被騎乘的實體透過地獄傳送門、終界傳送門和終界折躍門傳送。,"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+允許進入地獄,Permitir acesso ao Nether,pt-BR
+允许TNT被点燃并爆炸,Permitir ativação e explosão de TNT,pt-BR
+允许旁观者生成地形,Gerar terreno para os espectadores,pt-BR
+允许流动水转化为水源,Transformar água em fonte,pt-BR
+允许流动熔岩转化为熔岩源,Transformar lava em fonte,pt-BR
+允许火在远离玩家处蔓延,Propagação distante de fogo,pt-BR
+允许破坏性生物行为,Permitir ações destrutivas de criaturas,pt-BR
+允许被骑乘的实体通过下界传送门、末地传送门和末地折跃门传送。,"Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+允许进入下界,Permitir acesso ao Nether,pt-BR
+入睡占比,Porcentagem de sono,pt-BR
+全域聲音事件,Eventos sonoros globais,pt-BR
+全局声音事件,Eventos sonoros globais,pt-BR
+冰冻伤害,Causar dano por congelamento,pt-BR
+凍結ダメージ,Causar dano por congelamento,pt-BR
+出生区块半径,Raio dos chunks ao renascer,pt-BR
+创造模式下玩家在下界传送门中等待的时间,Atraso do Portal do Nether no Modo Criativo,pt-BR
+创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+創造模式玩家使用地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+創造模式玩家使用地獄傳送門的等待時間,Atraso do Portal do Nether no Modo Criativo,pt-BR
+单条命令（如fill和clone）最多能更改的方块数量。,"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+即時リスポーン,Renascer imediatamente,pt-BR
+原諒死者,Perdoar jogadores mortos,pt-BR
+发送命令反馈,Mostrar respostas dos comandos,pt-BR
+合成需要配方,Exigir receitas para fabricação,pt-BR
+启用PvP,Ativar PvP,pt-BR
+启用刷怪笼方块,Ativar Blocos Geradores,pt-BR
+启用后，屏幕上会显示指示玩家方位的定位栏。,"Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+启用命令方块,Ativar Blocos de Comando,pt-BR
+启用玩家定位栏,Ativar Barra Localizadora de jogadores,pt-BR
+启用玩家移动检测,Verificação de movimentos do jogador,pt-BR
+启用袭击,Ativar invasões,pt-BR
+启用鞘翅移动检测,Verificação de movimentos dos Élitros,pt-BR
+命令上下文数量限制,Limite de contextos por comando,pt-BR
+命令修改方块数量限制,Limite de blocos modificados por comando,pt-BR
+命令连锁执行数量限制,Limite de comandos em cadeia,pt-BR
+啟用 PvP,Ativar PvP,pt-BR
+啟用後，畫面上會顯示指示玩家方位的定位條。,"Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+啟用指令方塊,Ativar Blocos de Comando,pt-BR
+啟用玩家定位條,Ativar Barra Localizadora de jogadores,pt-BR
+啟用玩家移動檢測,Verificação de movimentos do jogador,pt-BR
+啟用生怪磚,Ativar Blocos Geradores,pt-BR
+啟用突襲,Ativar invasões,pt-BR
+啟用鞘翅移動檢測,Verificação de movimentos dos Élitros,pt-BR
+單個指令（例如 fill 或是 clone）最多能修改的方塊數量。,"O número de blocos que podem ser alterados de uma vez com um comando, como /fill ou /clone.",pt-BR
+回傳指令回饋,Mostrar respostas dos comandos,pt-BR
+在 TNT 引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+在 TNT 的爆炸中，部分方塊不會掉落成戰利品,Não largar todos os itens com explosões de TNT,pt-BR
+在TNT引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Alguns itens largados por blocos destruídos em explosões de TNT são perdidos na detonação.,pt-BR
+在TNT爆炸中，一些方块不会掉落战利品,Não largar todos os itens com explosões de TNT,pt-BR
+在与方块交互引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+在方块交互爆炸中，一些方块不会掉落战利品,Não largar todos os itens com explosões de blocos,pt-BR
+在生物引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+在生物引起的爆炸中，部分被破坏方块的掉落物会被炸毁。,Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+在生物爆炸中，一些方块不会掉落战利品,Não largar todos os itens com explosões de criaturas,pt-BR
+在生物的爆炸中，部分方塊不會掉落成戰利品,Não largar todos os itens com explosões de criaturas,pt-BR
+在與方塊互動的爆炸中，部分方塊不會掉落成戰利品,Não largar todos os itens com explosões de blocos,pt-BR
+在與方塊相互作用引發的爆炸中，會遺失部分被摧毀方塊的掉落物。,Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+地上を走るトロッコのデフォルトの最高速度,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+夜をスキップするために必要なベッドで寝ているプレイヤーの割合を設定できます。,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+天气更替,Ciclo meteorológico,pt-BR
+天気の更新,Ciclo meteorológico,pt-BR
+套用於連鎖型指令方塊及函數。,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+实体挤压上限,Número máximo de entidades agrupadas,pt-BR
+宽恕死亡玩家,Perdoar jogadores mortos,pt-BR
+實體擠壓上限,Número máximo de entidades agrupadas,pt-BR
+就寝率,Porcentagem de sono,pt-BR
+广播命令方块输出,Anunciar saída dos Blocos de Comando,pt-BR
+应用于命令方块链和函数。,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+弹射物能否破坏方块,Quebrar blocos com projéteis,pt-BR
+愤怒的中立生物将在其目标玩家于附近死亡后息怒。,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用forgive_dead_players可达到最佳效果。,"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+愤怒的中立生物将攻击附近的所有玩家，而不再限于激怒它们的玩家。禁用“宽恕死亡玩家”可达到最佳效果。,"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+投射物是否能破壞方塊,Quebrar blocos com projéteis,pt-BR
+拋出的終界珍珠在死亡時消失,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+指令修改方塊數量限制,Limite de blocos modificados por comando,pt-BR
+指令的上下文上限,Limite de contextos por comando,pt-BR
+指令連鎖大小限制,Limite de comandos em cadeia,pt-BR
+掉落,Itens largados,pt-BR
+掉落實體裝備,Largar itens de entidades,pt-BR
+掉落方塊,Largar blocos,pt-BR
+掉落生物戰利品,Largar itens de criaturas,pt-BR
+控制各种矿车（含内容物）、物品展示框、船等的物品掉落。,"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+控制弹射物能否破坏可被其破坏的方块。,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+控制怪物是否能自然生成。,Define se os monstros podem ser gerados naturalmente.,pt-BR
+控制怪物能否自然生成。,Define se os monstros podem ser gerados naturalmente.,pt-BR
+控制投射物是否能破壞可被其破壞的方塊。,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+控制方块是否掉落资源，包括经验球。,"Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+控制方塊資源掉落，包含經驗球。,"Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+控制火和熔岩是否能在距離任何玩家 8 個區塊之外繼續蔓延。,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+控制火和熔岩能否在距离任何玩家超过8个区块处蔓延。,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+控制玩家是否能互相傷害。,Define se os jogadores podem atacar outros jogadores.,pt-BR
+控制玩家是否能進入地獄。,Define se os jogadores podem entrar no Nether.,pt-BR
+控制玩家能否进入下界。,Define se os jogadores podem entrar no Nether.,pt-BR
+控制玩家能夠生成的重生點範圍區域大小。,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+控制玩家间能否互相伤害。,Define se os jogadores podem atacar outros jogadores.,pt-BR
+控制生物是否掉落资源，包括经验球。,"Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+控制生物資源掉落，包含經驗球。,"Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+控制礦車（包括內容物）、物品展示框、船等的掉落物。,"Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+控制藤蔓方块能否随机向相邻的方块蔓延。不会影响其他藤蔓类方块（例如垂泪藤和缠怨藤等）。,"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+控制藤蔓方塊是否能隨機向相鄰的方塊蔓延。這不會影響其他類型的藤蔓方塊（例如垂泣藤及扭曲藤等）。,"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+控制适合玩家生成的出生点周围区域大小。,Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+掷出的末影珍珠在死亡时消失,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+摔落伤害,Causar dano por queda,pt-BR
+敵対した中立Mobが、敵対させたプレイヤーが周囲で死亡すると中立状態に戻るかを設定できます。,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+敵対の共有,Fúria universal,pt-BR
+敵対状態となった中立Mobが、最初に敵対したプレイヤーだけでなく他のプレイヤーにも攻撃するかを設定できます。forgiveDeadPlayersが無効になっている際に最適です。,"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+敵対状態になった中立Mob が、敵対させた本人だけでなく他のプレイヤーにも攻撃するかを設定できます。forgive_dead_playersが無効になっている際に最適です。,"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+方块掉落,Largar blocos,pt-BR
+无差别愤怒,Fúria universal,pt-BR
+无法在极限模式世界中更改游戏规则。,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+日夜交替,Ciclo circadiano,pt-BR
+显示死亡消息,Mostrar mensagens de morte,pt-BR
+更新天氣,Ciclo meteorológico,pt-BR
+更新游戏规则需要管理员权限。,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+更新火焰,Propagação do fogo,pt-BR
+更新遊戲規則需要管理員權限。,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+有効にすると、プレイヤーは解禁されたレシピのみクラフトが可能になります。,"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+有効にすると、他のプレイヤーの方向を示すバーが画面に表示されます。,"Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+杂项,Diversos,pt-BR
+正在擷取遊戲規則...,Baixando regras do jogo...,pt-BR
+正在获取游戏规则…,Baixando regras do jogo...,pt-BR
+死亡したプレイヤーへの敵対を解除,Perdoar jogadores mortos,pt-BR
+死亡メッセージの表示,Mostrar mensagens de morte,pt-BR
+死亡后保留物品栏,Manter o inventário ao morrer,pt-BR
+死亡後保留物品欄,Manter o inventário ao morrer,pt-BR
+死亡時のインベントリの保持,Manter o inventário ao morrer,pt-BR
+水流から水源への変化,Transformar água em fonte,pt-BR
+水流が二方向から水源に挟まれた時に、水源に変化するかを設定できます。,"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+流動水在被兩個水源包圍時，會轉化成水源。,"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+流動水轉化成水源,Transformar água em fonte,pt-BR
+流動熔岩在被兩個熔岩源包圍時，會轉化成熔岩源。,"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+流動熔岩轉化成熔岩源,Transformar lava em fonte,pt-BR
+游戏内时间流逝,Ciclo circadiano,pt-BR
+游戏规则更改,Mudanças nas regras do jogo,pt-BR
+溶岩流から溶岩源への変化,Transformar lava em fonte,pt-BR
+溶岩流が二方向から溶岩源に挟まれた時に、溶岩源に変化するかを設定できます。,"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+溺水ダメージ,Causar dano por afogamento,pt-BR
+溺水伤害,Causar dano por afogamento,pt-BR
+火傷ダメージ,Causar dano por fogo,pt-BR
+火焰伤害,Causar dano por fogo,pt-BR
+火焰蔓延,Propagação do fogo,pt-BR
+火焰蔓延半径,Raio de propagação do fogo,pt-BR
+火焰蔓延半徑,Raio de propagação do fogo,pt-BR
+炎の延焼が起こる半径,Raio de propagação do fogo,pt-BR
+炎の更新,Propagação do fogo,pt-BR
+無差別憤怒,Fúria universal,pt-BR
+無法在極限模式世界中變更遊戲規則。,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+特定のエンティティに関しては、他のゲームルールでそのスポーンの有無が制御されている場合があります。,Algumas entidades podem ter regras separadas.,pt-BR
+特定游戏事件（如Boss生成）发生时，声音可在所有地方听见。,"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+玩家,Jogador,pt-BR
+玩家周围火可以蔓延的方块半径。,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+玩家周圍火焰可蔓延的半徑格數。,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+玩家投掷的末影珍珠是否在玩家死亡时消失。,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+玩家拋出的終界珍珠是否在玩家死亡時消失。,Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+生命值自然恢复,Regenerar vida,pt-BR
+生成,Geração,pt-BR
+生成伏守者,Gerar Defensores,pt-BR
+生成夜魅,Gerar Espectros,pt-BR
+生成幻翼,Gerar Espectros,pt-BR
+生成怪物,Gerar monstros,pt-BR
+生成掠奪者巡邏隊,Gerar patrulhas de Saqueadores,pt-BR
+生成流浪商人,Gerar Mercadores Ambulantes,pt-BR
+生成灾厄巡逻队,Gerar patrulhas de Saqueadores,pt-BR
+生成生物,Gerar criaturas,pt-BR
+生成监守者,Gerar Defensores,pt-BR
+生物,Criaturas,pt-BR
+生物战利品掉落,Largar itens de criaturas,pt-BR
+略奪隊のスポーン,Gerar patrulhas de Saqueadores,pt-BR
+當特定遊戲事件發生時，例如生成 Boss，聲音可以在任何地方被聽見。,"Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+當目標玩家在附近死亡後，被其激怒的中立生物將息怒。,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+相邻两面方块为水源的流动水会转化为水源。,"Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+相邻两面方块为熔岩源的流动熔岩会转化为熔岩源。,"Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR
+睡眠比例,Porcentagem de sono,pt-BR
+矿车在地面上移动的默认最大速度。,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+矿车最大速度,Velocidade máxima do Carrinho de Mina,pt-BR
+礦車在地面上移動的預設速度上限。,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+礦車最大速度,Velocidade máxima do Carrinho de Mina,pt-BR
+禁用玩家移动检测,Desativar verificação de movimento do jogador,pt-BR
+禁用袭击,Desativar invasões,pt-BR
+禁用鞘翅移动检测,Desativar verificação de movimento dos Élitros,pt-BR
+积雪厚度,Altura de acumulação de neve,pt-BR
+積雪の深さ,Altura de acumulação de neve,pt-BR
+積雪厚度,Altura de acumulação de neve,pt-BR
+立即重生,Renascer imediatamente,pt-BR
+简化调试信息,Reduzir informações de depuração,pt-BR
+管理者ログへのコマンドの実行結果の通知,Anunciar comandos de administrador,pt-BR
+簡化除錯資訊,Reduzir informações de depuração,pt-BR
+編輯遊戲規則,Editar regras do jogo,pt-BR
+編輯遊戲規則...,Editar regras do jogo...,pt-BR
+編集中のゲームルールの変更を破棄してもよろしいですか？,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+编辑游戏规则,Editar regras do jogo,pt-BR
+编辑游戏规则…,Editar regras do jogo...,pt-BR
+聊天,Chat,pt-BR
+聊天欄,Chat,pt-BR
+自然回血,Regenerar vida,pt-BR
+若启用，玩家只能使用已解锁的配方合成。,"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+若啟用，玩家將只能合成已解鎖的配方。,"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+落下ダメージ,Causar dano por queda,pt-BR
+藤蔓蔓延,Propagação de trepadeiras,pt-BR
+行商人のスポーン,Gerar Mercadores Ambulantes,pt-BR
+表示するデバッグ情報の項目数を制限します。,Reduz o conteúdo da tela de depuração.,pt-BR
+被激怒的中立生物將攻擊任何附近的玩家，而不限於激怒他們的那位。停用「forgiveDeadPlayers」可以有更好的效果。,"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+被激怒的中立生物將攻擊附近的所有玩家，而不限於激怒它們的那位玩家。停用 forgive_dead_players 以達到最佳效果。,"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+被騎乘的實體是否能使用傳送門,As entidades com passageiros podem atravessar portais,pt-BR
+被骑乘的实体能否使用传送门,As entidades com passageiros podem atravessar portais,pt-BR
+襲撃の無効化,Desativar invasões,pt-BR
+襲撃の発生,Ativar invasões,pt-BR
+記錄指令方塊輸出,Anunciar saída dos Blocos de Comando,pt-BR
+記錄管理員指令,Anunciar comandos de administrador,pt-BR
+設備エンティティのドロップ,Largar itens de entidades,pt-BR
+跳过夜晚所需的入睡玩家占比。,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+跳過夜晚所需的入睡玩家比例。,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+进度通知,Anunciar progressos,pt-BR
+通告管理员命令,Anunciar comandos de administrador,pt-BR
+造成冰凍傷害,Causar dano por congelamento,pt-BR
+造成摔落傷害,Causar dano por queda,pt-BR
+造成溺水傷害,Causar dano por afogamento,pt-BR
+造成火焰傷害,Causar dano por fogo,pt-BR
+進度通知,Anunciar progressos,pt-BR
+進捗達成の通知,Anunciar progressos,pt-BR
+遊戲規則變更,Mudanças nas regras do jogo,pt-BR
+部分實體可能採用不同的規則。,Algumas entidades podem ter regras separadas.,pt-BR
+重生區塊半徑,Raio dos chunks ao renascer,pt-BR
+重生点半径,Raio do ponto de renascimento,pt-BR
+重生點半徑,Raio do ponto de renascimento,pt-BR
+降雪时，地面上的雪最多堆积到此处指定的层数。,"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+降雪時に積もる雪の層の最大数を設定できます。,"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+降雪時，地面上的積雪最多累積至此處指定的層數。,"Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+限制调试屏幕内容。,Reduz o conteúdo da tela de depuração.,pt-BR
+限制除錯畫面的內容。,Reduz o conteúdo da tela de depuração.,pt-BR
+随机刻速率,Taxa de velocidade de tiques aleatórios,pt-BR
+隨機刻速率,Taxa de velocidade de tiques aleatórios,pt-BR
+雜項,Diversos,pt-BR
+需要配方才能合成,Exigir receitas para fabricação,pt-BR
+非クリエイティブモードでのネザーポータルの待機時間,Atraso do Portal do Nether em modo não Criativo,pt-BR
+非创造模式下玩家在下界传送门中等待的时间,Atraso do Portal do Nether em modo não Criativo,pt-BR
+非创造模式下的玩家通过下界传送门前往其他维度前需要站在其中等待的时间（以刻为单位）。,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+非創造模式玩家使用地獄傳送門的等待時間,Atraso do Portal do Nether em modo não Criativo,pt-BR
+非創造模式玩家通過地獄傳送門前往其他維度前，需要站在其中的等待時間（以刻為單位）。,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+非生物实体掉落,Largar itens de entidades,pt-BR
+預設值：%s,Padrão: %s,pt-BR
+顯示死亡訊息,Mostrar mensagens de morte,pt-BR
+飛び道具によるブロック破壊の可否,Quebrar blocos com projéteis,pt-BR
+飛び道具の着弾によって破壊されうるブロックが実際に破壊されるかどうかを設定できます。,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+默认：%s,Padrão: %s,pt-BR
+개체 장비 떨굼,Largar itens de entidades,pt-BR
+개체 중첩 한계,Número máximo de entidades agrupadas,pt-BR
+겉날개 움직임 확인 끄기,Desativar verificação de movimento dos Élitros,pt-BR
+겉날개 움직임 확인하기,Verificação de movimentos dos Élitros,pt-BR
+게임 규칙 받아오는 중...,Baixando regras do jogo...,pt-BR
+게임 규칙 변경 사항,Mudanças nas regras do jogo,pt-BR
+게임 규칙 수정,Editar regras do jogo,pt-BR
+게임 규칙 수정...,Editar regras do jogo...,pt-BR
+게임 규칙을 갱신하려면 관리자 권한이 필요합니다.,Atualizar as regras do jogo requer permissões de operador.,pt-BR
+경험 구슬을 포함하여 몹으로부터의 자원 떨굼을 제어합니다.,"Define os itens largados por criaturas, incluindo as esferas de experiência.",pt-BR
+경험 구슬을 포함하여 블록으로부터의 자원 떨굼을 제어합니다.,"Define os itens largados pelos blocos, incluindo as esferas de experiência.",pt-BR
+관리자 명령 알림,Anunciar comandos de administrador,pt-BR
+관전자의 지형 생성 허용,Gerar terreno para os espectadores,pt-BR
+"광산 수레 (보관함 포함), 아이템 액자, 보트 등에서의 떨굼을 제어합니다.","Define os itens largados por Carrinhos de Mina (incluindo inventários), Molduras de Itens, Botes etc.",pt-BR
+광산 수레 최고 속도,Velocidade máxima do Carrinho de Mina,pt-BR
+기본값: %s,Padrão: %s,pt-BR
+기타,Diversos,pt-BR
+낙하 피해,Causar dano por queda,pt-BR
+날씨 갱신,Ciclo meteorológico,pt-BR
+네더 허용,Permitir acesso ao Nether,pt-BR
+"눈이 올 때, 최대 이 숫자만큼 눈의 층이 쌓입니다.","Ao nevar, as camadas de neve formadas no solo podem atingir até essa altura.",pt-BR
+대화,Chat,pt-BR
+덩굴 퍼짐,Propagação de trepadeiras,pt-BR
+덩굴이 인접한 블록으로 무작위하게 퍼지는지 여부를 제어합니다. 늘어진 덩굴이나 휘어진 덩굴 등 다른 종류의 덩굴 블록에는 영향을 주지 않습니다.,"Define a propagação aleatória de trepadeiras em blocos adjacentes. Não afeta outros tipos de trepadeiras, como as Trepadeiras Choronas, Trepadeiras Retorcidas etc.",pt-BR
+동상 피해,Causar dano por congelamento,pt-BR
+디버그 정보 축소,Reduzir informações de depuração,pt-BR
+디버그 화면의 내용을 제한합니다.,Reduz o conteúdo da tela de depuração.,pt-BR
+땅에서 광산 수레가 움직일 때 최고 기본 속도,Velocidade padrão máxima de um Carrinho de Mina no solo.,pt-BR
+떠돌이 상인 생성,Gerar Mercadores Ambulantes,pt-BR
+떨굼 설정,Itens largados,pt-BR
+랜덤 틱 속도 비율,Taxa de velocidade de tiques aleatórios,pt-BR
+리스폰 위치 반지름,Raio do ponto de renascimento,pt-BR
+명령 블록 연쇄와 함수에 해당.,Aplicável às cadeias de blocos de comando e funções.,pt-BR
+명령 블록 출력 알림,Anunciar saída dos Blocos de Comando,pt-BR
+명령 블록 켜기,Ativar Blocos de Comando,pt-BR
+명령 연쇄 크기 제한,Limite de comandos em cadeia,pt-BR
+명령 피드백 전송,Mostrar respostas dos comandos,pt-BR
+명령어 맥락 제한,Limite de contextos por comando,pt-BR
+명령어의 블록 변경량 제한,Limite de blocos modificados por comando,pt-BR
+몬스터 생성,Gerar monstros,pt-BR
+몬스터의 자연적 생성 여부를 제어합니다.,Define se os monstros podem ser gerados naturalmente.,pt-BR
+몹,Criaturas,pt-BR
+몹 노획물 떨굼,Largar itens de criaturas,pt-BR
+몹 생성,Gerar criaturas,pt-BR
+"몹 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",Não largar todos os itens com explosões de criaturas,pt-BR
+"몹에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Alguns itens largados por blocos destruídos em explosões de criaturas são perdidos na detonação.,pt-BR
+무차별적 분노,Fúria universal,pt-BR
+물이 원천으로 바뀜,Transformar água em fonte,pt-BR
+발전 과제 알림,Anunciar progressos,pt-BR
+밤을 건너뛰려면 잠들어야 하는 플레이어들의 비율.,A porcentagem de jogadores que devem dormir para passar a noite.,pt-BR
+"보스 생성 등 특정 게임 이벤트가 발생했을 때, 그 소리가 어디서나 들립니다.","Quando certos eventos ocorrem no jogo, como o surgimento de um chefe, o som é ouvido em todo o mundo.",pt-BR
+분노한 중립 몹이 자신을 화나게 한 플레이어뿐만 아니라 주변의 모든 플레이어를 공격합니다. forgive_dead_players가 비활성화되어 있을 때 가장 잘 작동합니다.,"Criaturas neutras furiosas atacam todos os jogadores. Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+불 갱신,Propagação do fogo,pt-BR
+불 피해,Causar dano por fogo,pt-BR
+불 확산 반지름,Raio de propagação do fogo,pt-BR
+블록 떨굼,Largar blocos,pt-BR
+"블록 사용에 의한 폭발에서, 몇몇 블록이 노획물을 떨어뜨리지 않음",Não largar todos os itens com explosões de blocos,pt-BR
+"블록 사용에 의한 폭발에서, 파괴된 블록이 떨궈야 할 아이템 중 일부가 그대로 사라집니다.",Alguns itens largados por blocos destruídos na explosão de outros blocos são perdidos na detonação.,pt-BR
+생명력 재생,Regenerar vida,pt-BR
+생성,Geração,pt-BR
+생성기 블록 켜기,Ativar Blocos Geradores,pt-BR
+세계 갱신,Ciclos do mundo,pt-BR
+"스폰 지점 주위, 플레이어들이 스폰할 수 있는 영역의 크기를 제어합니다.",Define o tamanho do ponto de renascimento dos jogadores.,pt-BR
+스폰 청크 반지름,Raio dos chunks ao renascer,pt-BR
+습격 끄기,Desativar invasões,pt-BR
+습격 켜기,Ativar invasões,pt-BR
+시간 흐름,Ciclo circadiano,pt-BR
+약탈자 정찰대 생성,Gerar patrulhas de Saqueadores,pt-BR
+오버월드 스폰 위치 주변에 항상 불러와진 상태를 유지하는 청크의 양.,A quantidade de chunks que permanecem carregados ao redor do ponto de nascimento na Superfície.,pt-BR
+용암이 원천으로 바뀜,Transformar lava em fonte,pt-BR
+워든 생성,Gerar Defensores,pt-BR
+이 설정을 켜면 플레이어들은 잠금 해제된 제작법으로만 제작할 수 있습니다.,"Ao ativar, os jogadores só poderão fabricar receitas desbloqueadas.",pt-BR
+익사 피해,Causar dano por afogamento,pt-BR
+일부 개체는 별도의 규칙이 있을 수 있습니다.,Algumas entidades podem ter regras separadas.,pt-BR
+저장하지 않은 게임 규칙 변경 사항을 폐기하시겠습니까?,Deseja mesmo descartar as mudanças pendentes nas regras do jogo?,pt-BR
+적설 높이,Altura de acumulação de neve,pt-BR
+전역 소리 이벤트,Eventos sonoros globais,pt-BR
+제작에 제작법 필요,Exigir receitas para fabricação,pt-BR
+죽은 플레이어 용서,Perdoar jogadores mortos,pt-BR
+죽을 때 던져져 있는 엔더 진주 소멸,Destruir Pérolas de Ender lançadas ao morrer,pt-BR
+죽음 문구 표시,Mostrar mensagens de morte,pt-BR
+죽음 후 보관함 보존,Manter o inventário ao morrer,pt-BR
+중립 몹이 화나 있다가도 목표 플레이어가 근처에서 죽으면 화를 풉니다.,Criaturas neutras furiosas acalmam-se quando o jogador-alvo morre.,pt-BR
+중립 몹이 화나면 화나게 한 플레이어뿐만 아니라 근처에 있는 모든 플레이어를 공격합니다. '죽은 플레이어 용서'가 꺼져 있을 때 가장 잘 작동합니다.,"Criaturas neutras furiosas atacam todos os jogadores.
+Funciona melhor se a regra ""Perdoar jogadores mortos"" estiver desativada.",pt-BR
+즉시 리스폰,Renascer imediatamente,pt-BR
+취침 비율,Porcentagem de sono,pt-BR
+켜져 있으면 플레이어가 있는 방향을 알려 주는 바를 화면에 표시합니다.,"Ao ativar, uma barra na tela indica a direção dos jogadores.",pt-BR
+크리에이티브 모드가 아닌 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Tempo (em tiques) em que um jogador num modo não Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+크리에이티브 모드가 아닌 플레이어의 네더 차원문 지연 시간,Atraso do Portal do Nether em modo não Criativo,pt-BR
+크리에이티브 모드인 플레이어가 다른 차원으로 가기 위해 네더 차원문에서 기다려야 하는 시간 (틱 단위).,Tempo (em tiques) em que um jogador no Modo Criativo permanece num Portal do Nether antes de mudar de dimensão.,pt-BR
+크리에이티브 모드인 플레이어의 네더 차원문 지연 시간,Atraso do Portal do Nether no Modo Criativo,pt-BR
+"탑승자가 있는 개체가 네더 차원문, 엔드 차원문, 엔드 관문을 통해 이동할 수 있도록 합니다.","Permite o teletransporte de entidades com passageiros em Portais do Nether, Portais do End e suas passagens.",pt-BR
+탑승자가 있는 개체의 차원문 사용 허용,As entidades com passageiros podem atravessar portais,pt-BR
+투사체 충돌이 투사체로 파괴 가능한 블록을 파괴할지 여부를 제어합니다.,Define se os projéteis podem quebrar blocos destrutíveis com o impacto.,pt-BR
+투사체가 블록 파괴 가능,Quebrar blocos com projéteis,pt-BR
+파괴적 몹 행위 허용,Permitir ações destrutivas de criaturas,pt-BR
+팬텀 생성,Gerar Espectros,pt-BR
+플레이어,Jogador,pt-BR
+플레이어 움직임 확인 끄기,Desativar verificação de movimento do jogador,pt-BR
+플레이어 움직임 확인하기,Verificação de movimentos do jogador,pt-BR
+플레이어 위치 표시 바 켜기,Ativar Barra Localizadora de jogadores,pt-BR
+플레이어가 다른 플레이어에게 피해를 입힐 수 있는지 여부를 제어합니다.,Define se os jogadores podem atacar outros jogadores.,pt-BR
+"플레이어가 죽을 때, 던져져 있는 엔더 진주가 사라지는지 여부입니다.",Define se as Pérolas de Ender lançadas desaparecem com a morte do jogador.,pt-BR
+플레이어로부터 떨어진 불 틱,Propagação distante de fogo,pt-BR
+플레이어로부터 청크 8개 이상 떨어진 불과 용암의 틱 여부를 제어합니다.,Define a propagação de fogo e lava acima de 8 chunks de distância de qualquer jogador,pt-BR
+플레이어를 중심으로 불이 확산될 수 있는 블록 단위의 반경.,O raio em blocos ao redor do jogador no qual o fogo pode se espalhar.,pt-BR
+플레이어의 네더 진입 가능 여부를 제어합니다.,Define se os jogadores podem entrar no Nether.,pt-BR
+하드코어 세계에서는 게임 규칙을 변경할 수 없습니다.,Você não pode alterar as regras do jogo em mundos no modo Intenso.,pt-BR
+"흐르는 물의 두 면이 물 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.","Transforma a corrente de água em fonte, quando cercada em dois lados por fontes de água.",pt-BR
+"흐르는 용암의 두 면이 용암 원천으로 둘러싸일 때, 그 블록이 원천으로 바뀝니다.","Transforma a corrente de lava em fonte, quando cercada em dois lados por fontes de lava.",pt-BR

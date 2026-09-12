@@ -1,0 +1,556 @@
+﻿source,target,tgt_lng
+%%%s %s,%s %% en %s,fr-FR
+%2$s %1$s%%,%s %% en %s,fr-FR
+%2$s +%1$s,+%s en %s,fr-FR
+%2$s +%1$s%%,+%s %% en %s,fr-FR
+%2$s -%1$s,-%s en %s,fr-FR
+%2$s -%1$s%%,-%s %% en %s,fr-FR
+%2$s: %1$s,%s en %s,fr-FR
+%2$s: %1$s%%,%s %% en %s,fr-FR
+%2$s: +%1$s,+%s en %s,fr-FR
+%2$s: +%1$s%%,+%s %% en %s,fr-FR
+%2$s: -%1$s,-%s en %s,fr-FR
+%2$s: -%1$s%%,-%s %% en %s,fr-FR
+%s %% %s,%s %% en %s,fr-FR
+%s %s,%s en %s,fr-FR
+%s%% %s,%s %% en %s,fr-FR
++%%%s %s,+%s %% en %s,fr-FR
++%s %% %s,+%s %% en %s,fr-FR
++%s %s,+%s en %s,fr-FR
++%s%% %s,+%s %% en %s,fr-FR
+-%%%s %s,-%s %% en %s,fr-FR
+-%s %% %s,-%s %% en %s,fr-FR
+-%s %s,-%s en %s,fr-FR
+-%s%% %s,-%s %% en %s,fr-FR
+Abbaueffizienz,efficacité de minage,fr-FR
+Absorción máxima,absorption maximale,fr-FR
+Absorção máxima,absorption maximale,fr-FR
+Ad Etiketi Mesafesi,distance d'affichage du nom,fr-FR
+Ad Etiketi Puan Mesafesi,distance d'affichage du score du nom,fr-FR
+Adım Yüksekliği,hauteur des pas,fr-FR
+Air Drag Modifier,modificateur de résistance à l'air,fr-FR
+Alcance de atração das criaturas,portée de tentation des créatures,fr-FR
+Alcance de detecção do marcador,portée de réception du point de repère,fr-FR
+Alcance de interação com blocos,portée d'interaction avec les blocs,fr-FR
+Alcance de interação com entidades,portée d'interaction avec les entités,fr-FR
+Alcance de perseguição das criaturas,portée de détection des créatures,fr-FR
+Alcance de transmissão do marcador,portée de transmission du point de repère,fr-FR
+Altezza del passo,hauteur des pas,fr-FR
+Altura de paso,hauteur des pas,fr-FR
+Altura dos passos,hauteur des pas,fr-FR
+Angriffsgeschwindigkeit,vitesse d'attaque,fr-FR
+Angriffsrückstoß,recul d'attaque,fr-FR
+Angriffsschaden,points d'attaque,fr-FR
+Armadura,points d'armure,fr-FR
+Armatura,points d'armure,fr-FR
+Armor,points d'armure,fr-FR
+Armor Toughness,robustesse,fr-FR
+Assorbimento massimo,absorption maximale,fr-FR
+At Zıplama Gücü,puissance de saut du cheval,fr-FR
+Attack Damage,points d'attaque,fr-FR
+Attack Knockback,recul d'attaque,fr-FR
+Attack Speed,vitesse d'attaque,fr-FR
+Bewegungseffizienz,efficacité de mouvement,fr-FR
+Block Break Speed,vitesse de destruction des blocs,fr-FR
+Block Interaction Range,portée d'interaction avec les blocs,fr-FR
+Blockabbaugeschwindigkeit,vitesse de destruction des blocs,fr-FR
+Block‐Interaktionsweite,portée d'interaction avec les blocs,fr-FR
+Blok Etkileşim Mesafesi,portée d'interaction avec les blocs,fr-FR
+Blok Kırma Hızı,vitesse de destruction des blocs,fr-FR
+Bounciness,rebond,fr-FR
+Brenndauer,temps en feu,fr-FR
+Burning Time,temps en feu,fr-FR
+Bật lùi tấn công,recul d'attaque,fr-FR
+Camera Distance,distance de la caméra,fr-FR
+Canlı Fark Etme Mesafesi,portée de tentation des créatures,fr-FR
+Canlı Takip Menzili,portée de détection des créatures,fr-FR
+Canlı Takip Mesafesi,portée de détection des créatures,fr-FR
+Chiều cao bước,hauteur des pas,fr-FR
+Contraccolpo,recul d'attaque,fr-FR
+Danni per colpo,points d'attaque,fr-FR
+Dano por golpe,points d'attaque,fr-FR
+Daño de ataque,points d'attaque,fr-FR
+Distancia de caída segura,distance de chute sûre,fr-FR
+Distancia de la cámara,distance de la caméra,fr-FR
+Distancia del identificador,distance d'affichage du nom,fr-FR
+Distancia del marcador de puntuación,distance d'affichage du score du nom,fr-FR
+Distanza del punteggio nella targhetta,distance d'affichage du score du nom,fr-FR
+Distanza dell'inquadratura,distance de la caméra,fr-FR
+Distanza della targhetta,distance d'affichage du nom,fr-FR
+Distanza di caduta sicura,distance de chute sûre,fr-FR
+Distância da câmera,distance de la caméra,fr-FR
+Distância de queda segura,distance de chute sûre,fr-FR
+Distância do identificador,distance d'affichage du nom,fr-FR
+Distância do marcador de pontuação,distance d'affichage du score du nom,fr-FR
+Duración de quemadura,temps en feu,fr-FR
+Duração de queima,temps en feu,fr-FR
+Dureza de armadura,robustesse,fr-FR
+Düşme Hasarı Çarpanı,multiplicateur des dégâts de chute,fr-FR
+Efficienza d'estrazione,efficacité de minage,fr-FR
+Efficienza del movimento,efficacité de mouvement,fr-FR
+Efficienza del movimento in acqua,efficacité de mouvement aquatique,fr-FR
+Eficiencia al romper bloques,efficacité de minage,fr-FR
+Eficiencia de movimiento,efficacité de mouvement,fr-FR
+Eficiencia de movimiento acuático,efficacité de mouvement aquatique,fr-FR
+Eficiência de mineração,efficacité de minage,fr-FR
+Eficiência de movimento,efficacité de mouvement,fr-FR
+Eficiência de movimento na água,efficacité de mouvement aquatique,fr-FR
+Elasticità,rebond,fr-FR
+Empuje de ataque,recul d'attaque,fr-FR
+En Fazla Emilim,absorption maximale,fr-FR
+En Fazla Sağlık,vie maximale,fr-FR
+Entity Interaction Range,portée d'interaction avec les entités,fr-FR
+Escala,taille,fr-FR
+Explosion Knockback Resistance,résistance au recul des explosions,fr-FR
+Explosionsstandfestigkeit,résistance au recul des explosions,fr-FR
+Eğilirken Hareket Hızı,vitesse accroupie,fr-FR
+Eğilme Hızı,vitesse accroupie,fr-FR
+Fall Damage Multiplier,multiplicateur des dégâts de chute,fr-FR
+Fallschaden‐Multiplikator,multiplicateur des dégâts de chute,fr-FR
+Federung,rebond,fr-FR
+Fluggeschwindigkeit,vitesse de vol,fr-FR
+Flying Speed,vitesse de vol,fr-FR
+Fortuna,chance,fr-FR
+Forza del salto,puissance de saut,fr-FR
+Forza di salto del cavallo,puissance de saut du cheval,fr-FR
+Força de salto do cavalo,puissance de saut du cheval,fr-FR
+Força do salto,puissance de saut,fr-FR
+Friction Modifier,modificateur de friction,fr-FR
+Geniş Saldırı Hasar Oranı,ratio de dégâts par balayage,fr-FR
+Geschwindigkeit,rapidité,fr-FR
+Giáp,points d'armure,fr-FR
+Glück,chance,fr-FR
+Gravedad,gravité,fr-FR
+Gravidade,gravité,fr-FR
+Gravity,gravité,fr-FR
+Gravità,gravité,fr-FR
+Größe,taille,fr-FR
+Güvenli Düşüş Mesafesi,distance de chute sûre,fr-FR
+Hareket Verimliliği,efficacité de mouvement,fr-FR
+Hava Direnci Niteleyici,modificateur de résistance à l'air,fr-FR
+Hiệu quả di chuyển,efficacité de mouvement,fr-FR
+Hiệu quả di chuyển dưới nước,efficacité de mouvement aquatique,fr-FR
+Hiệu suất đào,efficacité de minage,fr-FR
+Horse Jump Strength,puissance de saut du cheval,fr-FR
+Hız,rapidité,fr-FR
+Hấp thụ tối đa,absorption maximale,fr-FR
+Hệ số lực cản không khí,modificateur de résistance à l'air,fr-FR
+Hệ số ma sát,modificateur de friction,fr-FR
+Hệ số sát thương rơi,multiplicateur des dégâts de chute,fr-FR
+Jump Strength,puissance de saut,fr-FR
+Kamera Mesafesi,distance de la caméra,fr-FR
+Kameraabstand,distance de la caméra,fr-FR
+Kazım Verimliliği,efficacité de minage,fr-FR
+Khoảng cách hiển thị nhãn ghi tên,distance d'affichage du nom,fr-FR
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,distance d'affichage du score du nom,fr-FR
+Khoảng cách máy quay,distance de la caméra,fr-FR
+Kháng đẩy lùi,résistance au recul,fr-FR
+Kháng đẩy lùi từ vụ nổ,résistance au recul des explosions,fr-FR
+Knockback Resistance,résistance au recul,fr-FR
+Kreaturen‐Anlockdistanz,portée de tentation des créatures,fr-FR
+Kreaturen‐Verfolgedistanz,portée de détection des créatures,fr-FR
+Luck,chance,fr-FR
+Luftwiderstandsfaktor,modificateur de résistance à l'air,fr-FR
+Lực lượng thây ma tăng cường,renforts de zombies,fr-FR
+Max Absorption,absorption maximale,fr-FR
+Max Health,vie maximale,fr-FR
+Maximale Absorption,absorption maximale,fr-FR
+Maximale Gesundheit,vie maximale,fr-FR
+May mắn,chance,fr-FR
+Mining Efficiency,efficacité de minage,fr-FR
+Mob Follow Range,portée de détection des créatures,fr-FR
+Mob Tempt Range,portée de tentation des créatures,fr-FR
+Mobの誘引される範囲,portée de tentation des créatures,fr-FR
+Mobの追跡範囲,portée de détection des créatures,fr-FR
+Modificador de atrito,modificateur de friction,fr-FR
+Modificador de fricción,modificateur de friction,fr-FR
+Modificador de resistencia del aire,modificateur de résistance à l'air,fr-FR
+Modificador de resistência ao ar,modificateur de résistance à l'air,fr-FR
+Modificatore di attrito,modificateur de friction,fr-FR
+Modificatore di resistenza aerodinamica,modificateur de résistance à l'air,fr-FR
+Moltiplicatore del danno da caduta,multiplicateur des dégâts de chute,fr-FR
+Movement Efficiency,efficacité de mouvement,fr-FR
+Multiplicador de dano por queda,multiplicateur des dégâts de chute,fr-FR
+Multiplicador de daño por caída,multiplicateur des dégâts de chute,fr-FR
+Name Tag Distance,distance d'affichage du nom,fr-FR
+Name Tag Score Distance,distance d'affichage du score du nom,fr-FR
+Namensschildabstand,distance d'affichage du nom,fr-FR
+Objekt‐Interaktionsweite,portée d'interaction avec les entités,fr-FR
+Oksijen Takviyesi,bonus d'oxygène,fr-FR
+Ossigeno aggiuntivo,bonus d'oxygène,fr-FR
+Oxigênio extra,bonus d'oxygène,fr-FR
+Oxygen Bonus,bonus d'oxygène,fr-FR
+Oxígeno extra,bonus d'oxygène,fr-FR
+Patlama Savrulması Direnci,résistance au recul des explosions,fr-FR
+Pferdesprungstärke,puissance de saut du cheval,fr-FR
+Phạm vi nhận điểm mốc,portée de réception du point de repère,fr-FR
+Phạm vi thu hút sinh vật,portée de tentation des créatures,fr-FR
+Phạm vi truyền điểm mốc,portée de transmission du point de repère,fr-FR
+Phạm vi tương tác khối,portée d'interaction avec les blocs,fr-FR
+Phạm vi tương tác thực thể,portée d'interaction avec les entités,fr-FR
+Phạm vi đi theo của sinh vật,portée de détection des créatures,fr-FR
+Phần oxi thêm,bonus d'oxygène,fr-FR
+Portata di ricezione del punto di riferimento,portée de réception du point de repère,fr-FR
+Portata di trasmissione del punto di riferimento,portée de transmission du point de repère,fr-FR
+Potencia de salto,puissance de saut,fr-FR
+Potencia de salto del caballo,puissance de saut du cheval,fr-FR
+Proporción del daño de barrido,ratio de dégâts par balayage,fr-FR
+Punktetafelabstand,distance d'affichage du score du nom,fr-FR
+Punti armatura,points d'armure,fr-FR
+Quy mô,taille,fr-FR
+Radio de atracción de criaturas,portée de tentation des créatures,fr-FR
+Raggio d'interazione con i blocchi,portée d'interaction avec les blocs,fr-FR
+Raggio d'interazione con le entità,portée d'interaction avec les entités,fr-FR
+Raggio di rilevamento delle creature,portée de détection des créatures,fr-FR
+Raggio di tentazione delle creature,portée de tentation des créatures,fr-FR
+Rango de interacción con bloques,portée d'interaction avec les blocs,fr-FR
+Rango de interacción con entidades,portée d'interaction avec les entités,fr-FR
+Rango de recepción del punto de referencia,portée de réception du point de repère,fr-FR
+Rango de seguimiento,portée de détection des créatures,fr-FR
+Rango de transmisión del punto de referencia,portée de transmission du point de repère,fr-FR
+Rapporto del danno sferzante,ratio de dégâts par balayage,fr-FR
+Rebote,rebond,fr-FR
+Reforços de zumbis,renforts de zombies,fr-FR
+Refuerzos zombi,renforts de zombies,fr-FR
+Reibungsfaktor,modificateur de friction,fr-FR
+Repulsão do ataque,recul d'attaque,fr-FR
+Resistencia al empuje,résistance au recul,fr-FR
+Resistencia al empuje de las explosiones,résistance au recul des explosions,fr-FR
+Resistenza al contraccolpo,résistance au recul,fr-FR
+Resistenza al contraccolpo delle esplosioni,résistance au recul des explosions,fr-FR
+Resistência da armadura,robustesse,fr-FR
+Resistência à repulsão,résistance au recul,fr-FR
+Resistência à repulsão de explosões,résistance au recul des explosions,fr-FR
+Rinforzi zombi,renforts de zombies,fr-FR
+Rüstung,points d'armure,fr-FR
+Rüstungshärte,robustesse,fr-FR
+Safe Fall Distance,distance de chute sûre,fr-FR
+Saldırı Hasarı,points d'attaque,fr-FR
+Saldırı Hızı,vitesse d'attaque,fr-FR
+Saldırı Savurması,recul d'attaque,fr-FR
+Salud máxima,vie maximale,fr-FR
+Salute massima,vie maximale,fr-FR
+Sauerstoffbonus,bonus d'oxygène,fr-FR
+Savrulma Direnci,résistance au recul,fr-FR
+Scala,taille,fr-FR
+Scale,taille,fr-FR
+Schleichgeschwindigkeit,vitesse accroupie,fr-FR
+Schritthöhe,hauteur des pas,fr-FR
+Schwerkraft,gravité,fr-FR
+Schwungschadensverhältnis,ratio de dégâts par balayage,fr-FR
+Sekme,rebond,fr-FR
+Sichere Fallhöhe,distance de chute sûre,fr-FR
+Sinh lực tối đa,vie maximale,fr-FR
+Sneaking Speed,vitesse accroupie,fr-FR
+Solidità dell'armatura,robustesse,fr-FR
+Sorte,chance,fr-FR
+Speed,rapidité,fr-FR
+Sprungstärke,puissance de saut,fr-FR
+Standfestigkeit,résistance au recul,fr-FR
+Step Height,hauteur des pas,fr-FR
+Su Altında Kazım Hızı,vitesse de minage sous l'eau,fr-FR
+Submerged Mining Speed,vitesse de minage sous l'eau,fr-FR
+Suda Hareket Verimliliği,efficacité de mouvement aquatique,fr-FR
+Suerte,chance,fr-FR
+Sweeping Damage Ratio,ratio de dégâts par balayage,fr-FR
+Sürtünme Düzenleyici,modificateur de friction,fr-FR
+Sức bật lùi,recul d'attaque,fr-FR
+Sức nhảy,puissance de saut,fr-FR
+Sức nhảy của ngựa,puissance de saut du cheval,fr-FR
+Sức tấn công,points d'attaque,fr-FR
+Taxa de dano lateral,ratio de dégâts par balayage,fr-FR
+Tempo di combustione,temps en feu,fr-FR
+Thời gian cháy,temps en feu,fr-FR
+Trọng lực,gravité,fr-FR
+Tỉ lệ sát thương quét cạnh,ratio de dégâts par balayage,fr-FR
+Tốc độ,rapidité,fr-FR
+Tốc độ bay,vitesse de vol,fr-FR
+Tốc độ phá khối,vitesse de destruction des blocs,fr-FR
+Tốc độ tấn công,vitesse d'attaque,fr-FR
+Tốc độ đi rón rén,vitesse accroupie,fr-FR
+Tốc độ đào dưới nước,vitesse de minage sous l'eau,fr-FR
+Unterwasser‐Abbaugeschwindigkeit,vitesse de minage sous l'eau,fr-FR
+Uçma Hızı,vitesse de vol,fr-FR
+Uçuş Hızı,vitesse de vol,fr-FR
+Varlık Etkileşim Mesafesi,portée d'interaction avec les entités,fr-FR
+Velocidad,rapidité,fr-FR
+Velocidad al agacharse,vitesse accroupie,fr-FR
+Velocidad al romper bloques,vitesse de destruction des blocs,fr-FR
+Velocidad al romper bloques sumergido,vitesse de minage sous l'eau,fr-FR
+Velocidad de ataque,vitesse d'attaque,fr-FR
+Velocidad de vuelo,vitesse de vol,fr-FR
+Velocidade,rapidité,fr-FR
+Velocidade de ataque,vitesse d'attaque,fr-FR
+Velocidade de mineração submersa,vitesse de minage sous l'eau,fr-FR
+Velocidade de quebra de blocos,vitesse de destruction des blocs,fr-FR
+Velocidade do voo,vitesse de vol,fr-FR
+Velocidade furtiva,vitesse accroupie,fr-FR
+Velocità,rapidité,fr-FR
+Velocità d'attacco,vitesse d'attaque,fr-FR
+Velocità d'estrazione sott'acqua,vitesse de minage sous l'eau,fr-FR
+Velocità di distruzione dei blocchi,vitesse de destruction des blocs,fr-FR
+Velocità furtiva,vitesse accroupie,fr-FR
+Velocità in volo,vitesse de vol,fr-FR
+Vida máxima,vie maximale,fr-FR
+Wasser‐Bewegungseffizienz,efficacité de mouvement aquatique,fr-FR
+Water Movement Efficiency,efficacité de mouvement aquatique,fr-FR
+Waypoint Receive Range,portée de réception du point de repère,fr-FR
+Waypoint Transmit Range,portée de transmission du point de repère,fr-FR
+Wegpunkt‐Empfangsreichweite,portée de réception du point de repère,fr-FR
+Wegpunkt‐Sendereichweite,portée de transmission du point de repère,fr-FR
+Yanma Süresi,temps en feu,fr-FR
+Yer Çekimi,gravité,fr-FR
+Yol Noktası Alma Mesafesi,portée de réception du point de repère,fr-FR
+Yol Noktası İletme Mesafesi,portée de transmission du point de repère,fr-FR
+Zombi Takviyesi,renforts de zombies,fr-FR
+Zombie Reinforcements,renforts de zombies,fr-FR
+Zombie-Verstärkung,renforts de zombies,fr-FR
+Zombie‐Verstärkung,renforts de zombies,fr-FR
+Zıplama Gücü,puissance de saut,fr-FR
+Zırh,points d'armure,fr-FR
+Zırh Sertliği,robustesse,fr-FR
+Ölçek,taille,fr-FR
+Độ bền của áo giáp,robustesse,fr-FR
+Độ bền áo giáp,robustesse,fr-FR
+Độ cao rơi xuống an toàn,distance de chute sûre,fr-FR
+Độ nảy,rebond,fr-FR
+Şans,chance,fr-FR
+Безопасная высота падения,distance de chute sûre,fr-FR
+Бонус к кислороду,bonus d'oxygène,fr-FR
+Броня,points d'armure,fr-FR
+Везение,chance,fr-FR
+Время горения,temps en feu,fr-FR
+Высота шага,hauteur des pas,fr-FR
+Гравитация,gravité,fr-FR
+Дальность взаимодействия с блоками,portée d'interaction avec les blocs,fr-FR
+Дальность взаимодействия с сущностями,portée d'interaction avec les entités,fr-FR
+Дальность видимости имени,distance d'affichage du nom,fr-FR
+Дальность видимости счёта под именем,distance d'affichage du score du nom,fr-FR
+Дальность обнаружения маркеров,portée de réception du point de repère,fr-FR
+Дальность передачи маркера,portée de transmission du point de repère,fr-FR
+Дальность приманивания,portée de tentation des créatures,fr-FR
+Диапазон преследования моба,portée de détection des créatures,fr-FR
+Коэффициент разящего удара,ratio de dégâts par balayage,fr-FR
+Максимальное здоровье,vie maximale,fr-FR
+Множитель урона от падения,multiplicateur des dégâts de chute,fr-FR
+Модификатор сопротивления воздуха,modificateur de résistance à l'air,fr-FR
+Модификатор трения,modificateur de friction,fr-FR
+Отбрасывание при атаке,recul d'attaque,fr-FR
+Отдалённость камеры,distance de la caméra,fr-FR
+Подкрепление зомби,renforts de zombies,fr-FR
+Предел поглощения,absorption maximale,fr-FR
+Размер,taille,fr-FR
+Сила прыжка,puissance de saut,fr-FR
+Сила прыжка лошади,puissance de saut du cheval,fr-FR
+Скорость,rapidité,fr-FR
+Скорость атаки,vitesse d'attaque,fr-FR
+Скорость добычи под водой,vitesse de minage sous l'eau,fr-FR
+Скорость подкрадывания,vitesse accroupie,fr-FR
+Скорость полёта,vitesse de vol,fr-FR
+Скорость разрушения блоков,vitesse de destruction des blocs,fr-FR
+Сопротивление к отбрасыванию,résistance au recul,fr-FR
+Сопротивление к отбрасыванию взрывом,résistance au recul des explosions,fr-FR
+Твёрдость брони,robustesse,fr-FR
+Упругость,rebond,fr-FR
+Урон при атаке,points d'attaque,fr-FR
+Эффективность добычи,efficacité de minage,fr-FR
+Эффективность передвижения,efficacité de mouvement,fr-FR
+Эффективность передвижения в воде,efficacité de mouvement aquatique,fr-FR
+กระดอนโจมตี,recul d'attaque,fr-FR
+กำลังเสริมซอมบี้,renforts de zombies,fr-FR
+ขนาด,taille,fr-FR
+ความต้านทานการกระดอน,résistance au recul,fr-FR
+ความต้านทานการกระดอนจากระเบิด,résistance au recul des explosions,fr-FR
+ความสูงของขั้นก้าว,hauteur des pas,fr-FR
+ความเด้ง,rebond,fr-FR
+ความเร็ว,rapidité,fr-FR
+ความเร็วการขุดใต้น้ำ,vitesse de minage sous l'eau,fr-FR
+ความเร็วการทำลายบล็อก,vitesse de destruction des blocs,fr-FR
+ความเร็วการบิน,vitesse de vol,fr-FR
+ความเร็วการย่อง,vitesse accroupie,fr-FR
+ความเร็วโจมตี,vitesse d'attaque,fr-FR
+ความแข็งแกร่งของเกราะ,robustesse,fr-FR
+ความแรงการกระโดด,puissance de saut,fr-FR
+ดาเมจโจมตี,points d'attaque,fr-FR
+ดูดซับสูงสุด,absorption maximale,fr-FR
+ตัวคูณดาเมจจากการตก,multiplicateur des dégâts de chute,fr-FR
+ตัวดัดแปรแรงต้านอากาศ,modificateur de résistance à l'air,fr-FR
+ตัวดัดแปรแรงเสียดทาน,modificateur de friction,fr-FR
+ประสิทธิภาพการขุด,efficacité de minage,fr-FR
+ประสิทธิภาพการเคลื่อนที่,efficacité de mouvement,fr-FR
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,efficacité de mouvement aquatique,fr-FR
+ระยะการตกที่ปลอดภัย,distance de chute sûre,fr-FR
+ระยะการรับเวย์พอยต์,portée de réception du point de repère,fr-FR
+ระยะการล่อของม็อบ,portée de tentation des créatures,fr-FR
+ระยะการส่งผ่านเวย์พอยต์,portée de transmission du point de repère,fr-FR
+ระยะคะแนนใต้ป้ายชื่อ,distance d'affichage du score du nom,fr-FR
+ระยะที่ม็อบติดตาม,portée de détection des créatures,fr-FR
+ระยะปฏิสัมพันธ์กับบล็อก,portée d'interaction avec les blocs,fr-FR
+ระยะปฏิสัมพันธ์กับเอนทิตี้,portée d'interaction avec les entités,fr-FR
+ระยะป้ายชื่อ,distance d'affichage du nom,fr-FR
+ระยะห่างกล้อง,distance de la caméra,fr-FR
+ระยะเวลาติดไฟ,temps en feu,fr-FR
+ออกซิเจนพิเศษ,bonus d'oxygène,fr-FR
+อัตราส่วนดาเมจแบบกวาด,ratio de dégâts par balayage,fr-FR
+เกราะ,points d'armure,fr-FR
+เลือดสูงสุด,vie maximale,fr-FR
+แรงม้ากระโดด,puissance de saut du cheval,fr-FR
+แรงโน้มถ่วง,gravité,fr-FR
+โชค,chance,fr-FR
+なぎ払いダメージの比率,ratio de dégâts par balayage,fr-FR
+ウェイポイント伝達距離,portée de transmission du point de repère,fr-FR
+ウェイポイント受信距離,portée de réception du point de repère,fr-FR
+ウマの跳躍力,puissance de saut du cheval,fr-FR
+エンティティ操作範囲,portée d'interaction avec les entités,fr-FR
+カメラ距離,distance de la caméra,fr-FR
+サイズ,taille,fr-FR
+スニーク速度,vitesse accroupie,fr-FR
+ゾンビの増援,renforts de zombies,fr-FR
+ネームタグの表示距離,distance d'affichage du nom,fr-FR
+ネームタグ下のスコアの表示距離,distance d'affichage du score du nom,fr-FR
+ノックバック,recul d'attaque,fr-FR
+ノックバック力,recul d'attaque,fr-FR
+ノックバック耐性,résistance au recul,fr-FR
+ブロック操作範囲,portée d'interaction avec les blocs,fr-FR
+ブロック破壊速度,vitesse de destruction des blocs,fr-FR
+僵尸增援,renforts de zombies,fr-FR
+击退,recul d'attaque,fr-FR
+击退抗性,résistance au recul,fr-FR
+名牌分数距离,distance d'affichage du score du nom,fr-FR
+名牌距离,distance d'affichage du nom,fr-FR
+名稱標籤分數距離,distance d'affichage du score du nom,fr-FR
+名稱標籤距離,distance d'affichage du nom,fr-FR
+大きさ,taille,fr-FR
+大小,taille,fr-FR
+安全摔落高度,distance de chute sûre,fr-FR
+安全落下高度,distance de chute sûre,fr-FR
+实体交互距离,portée d'interaction avec les entités,fr-FR
+實體互動距離,portée d'interaction avec les entités,fr-FR
+尺寸,taille,fr-FR
+幸运值,chance,fr-FR
+幸運,chance,fr-FR
+弹性,rebond,fr-FR
+弾性係数,rebond,fr-FR
+彈性,rebond,fr-FR
+抗擊退,résistance au recul,fr-FR
+抗爆炸擊退,résistance au recul des explosions,fr-FR
+护甲值,points d'armure,fr-FR
+挖掘效率,efficacité de minage,fr-FR
+採掘効率,efficacité de minage,fr-FR
+摔落伤害倍数,multiplicateur des dégâts de chute,fr-FR
+摔落傷害倍率,multiplicateur des dégâts de chute,fr-FR
+摩擦係数,modificateur de friction,fr-FR
+摩擦力修正係數,modificateur de friction,fr-FR
+摩擦力修正系数,modificateur de friction,fr-FR
+擊退,recul d'attaque,fr-FR
+攻击伤害,points d'attaque,fr-FR
+攻击速度,vitesse d'attaque,fr-FR
+攻撃力,points d'attaque,fr-FR
+攻撃速度,vitesse d'attaque,fr-FR
+攻擊傷害,points d'attaque,fr-FR
+攻擊速度,vitesse d'attaque,fr-FR
+方块交互距离,portée d'interaction avec les blocs,fr-FR
+方块破坏速度,vitesse de destruction des blocs,fr-FR
+方塊互動距離,portée d'interaction avec les blocs,fr-FR
+方塊破壞速度,vitesse de destruction des blocs,fr-FR
+最大伤害吸收值,absorption maximale,fr-FR
+最大体力,vie maximale,fr-FR
+最大傷害吸收值,absorption maximale,fr-FR
+最大生命值,vie maximale,fr-FR
+最大行走高度,hauteur des pas,fr-FR
+最高生命值,vie maximale,fr-FR
+横扫伤害比率,ratio de dégâts par balayage,fr-FR
+橫掃傷害率,ratio de dégâts par balayage,fr-FR
+殭屍增援隊,renforts de zombies,fr-FR
+段差上限,hauteur des pas,fr-FR
+水下挖掘速度,vitesse de minage sous l'eau,fr-FR
+水中挖掘速度,vitesse de minage sous l'eau,fr-FR
+水中採掘速度,vitesse de minage sous l'eau,fr-FR
+水中移动效率,efficacité de mouvement aquatique,fr-FR
+水中移動効率,efficacité de mouvement aquatique,fr-FR
+水中移動效率,efficacité de mouvement aquatique,fr-FR
+潛行速度,vitesse accroupie,fr-FR
+潜行速度,vitesse accroupie,fr-FR
+炎上時間,temps en feu,fr-FR
+燃燒時間,temps en feu,fr-FR
+爆炸击退抗性,résistance au recul des explosions,fr-FR
+爆発ノックバック耐性,résistance au recul des explosions,fr-FR
+生物引誘範圍,portée de tentation des créatures,fr-FR
+生物引诱范围,portée de tentation des créatures,fr-FR
+生物跟随距离,portée de détection des créatures,fr-FR
+生物追蹤範圍,portée de détection des créatures,fr-FR
+盔甲,points d'armure,fr-FR
+盔甲強度,robustesse,fr-FR
+盔甲韧性,robustesse,fr-FR
+着火时间,temps en feu,fr-FR
+移动效率,efficacité de mouvement,fr-FR
+移動効率,efficacité de mouvement,fr-FR
+移動效率,efficacité de mouvement,fr-FR
+移動速度,rapidité,fr-FR
+空气阻力修正系数,modificateur de résistance à l'air,fr-FR
+空気抵抗係数,modificateur de résistance à l'air,fr-FR
+空氣阻力修正係數,modificateur de résistance à l'air,fr-FR
+落下ダメージ倍率,multiplicateur des dégâts de chute,fr-FR
+衝撃吸収レベルの上限,absorption maximale,fr-FR
+路径点传输距离,portée de transmission du point de repère,fr-FR
+路径点接收距离,portée de réception du point de repère,fr-FR
+路徑點傳輸距離,portée de transmission du point de repère,fr-FR
+路徑點接收距離,portée de réception du point de repère,fr-FR
+跳跃力度,puissance de saut,fr-FR
+跳躍力,puissance de saut,fr-FR
+速度,rapidité,fr-FR
+運,chance,fr-FR
+酸素ボーナス,bonus d'oxygène,fr-FR
+重力,gravité,fr-FR
+鏡頭距離,distance de la caméra,fr-FR
+镜头距离,distance de la caméra,fr-FR
+防具強度,robustesse,fr-FR
+防御力,points d'armure,fr-FR
+額外氧氣,bonus d'oxygène,fr-FR
+额外氧气,bonus d'oxygène,fr-FR
+飛行速度,vitesse de vol,fr-FR
+飞行速度,vitesse de vol,fr-FR
+馬跳躍力,puissance de saut du cheval,fr-FR
+马匹跳跃能力,puissance de saut du cheval,fr-FR
+개체 상호 작용 범위,portée d'interaction avec les entités,fr-FR
+걸음 높이,hauteur des pas,fr-FR
+경로점 발신 범위,portée de transmission du point de repère,fr-FR
+경로점 수신 범위,portée de réception du point de repère,fr-FR
+공격 밀침 세기,recul d'attaque,fr-FR
+공격 속도,vitesse d'attaque,fr-FR
+공격 피해,points d'attaque,fr-FR
+공기 저항력 변경자,modificateur de résistance à l'air,fr-FR
+낙하 피해 배수,multiplicateur des dégâts de chute,fr-FR
+마찰력 변경자,modificateur de friction,fr-FR
+말 점프 강도,puissance de saut du cheval,fr-FR
+몹 따름 범위,portée de détection des créatures,fr-FR
+몹 유인 범위,portée de tentation des créatures,fr-FR
+밀침 저항,résistance au recul,fr-FR
+방어,points d'armure,fr-FR
+방어 강도,robustesse,fr-FR
+배율,taille,fr-FR
+블록 상호 작용 범위,portée d'interaction avec les blocs,fr-FR
+블록 파괴 속도,vitesse de destruction des blocs,fr-FR
+비행 속도,vitesse de vol,fr-FR
+산소 추가,bonus d'oxygène,fr-FR
+속도,rapidité,fr-FR
+수중 이동 효율,efficacité de mouvement aquatique,fr-FR
+수중 채굴 속도,vitesse de minage sous l'eau,fr-FR
+안전 낙하 거리,distance de chute sûre,fr-FR
+연소 시간,temps en feu,fr-FR
+웅크렸을 때 속도,vitesse accroupie,fr-FR
+이동 효율,efficacité de mouvement,fr-FR
+이름표 거리,distance d'affichage du nom,fr-FR
+이름표 점수 거리,distance d'affichage du score du nom,fr-FR
+점프 세기,puissance de saut,fr-FR
+좀비 증원,renforts de zombies,fr-FR
+중력,gravité,fr-FR
+채굴 효율,efficacité de minage,fr-FR
+최대 생명력,vie maximale,fr-FR
+최대 흡수,absorption maximale,fr-FR
+카메라 거리,distance de la caméra,fr-FR
+크기,taille,fr-FR
+탄성,rebond,fr-FR
+폭발 밀침 저항,résistance au recul des explosions,fr-FR
+행운,chance,fr-FR
+휩쓸기 피해 비율,ratio de dégâts par balayage,fr-FR

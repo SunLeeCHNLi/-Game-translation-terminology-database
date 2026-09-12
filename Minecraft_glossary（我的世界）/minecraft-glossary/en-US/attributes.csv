@@ -1,0 +1,556 @@
+﻿source,target,tgt_lng
+%%%s %s,%s%% %s,en-US
+%2$s %1$s%%,%s%% %s,en-US
+%2$s +%1$s,+%s %s,en-US
+%2$s +%1$s%%,+%s%% %s,en-US
+%2$s -%1$s,-%s %s,en-US
+%2$s -%1$s%%,-%s%% %s,en-US
+%2$s: %1$s,%s %s,en-US
+%2$s: %1$s%%,%s%% %s,en-US
+%2$s: +%1$s,+%s %s,en-US
+%2$s: +%1$s%%,+%s%% %s,en-US
+%2$s: -%1$s,-%s %s,en-US
+%2$s: -%1$s%%,-%s%% %s,en-US
+%s %% %s,%s%% %s,en-US
+%s %% en %s,%s%% %s,en-US
+%s en %s,%s %s,en-US
++%%%s %s,+%s%% %s,en-US
++%s %% %s,+%s%% %s,en-US
++%s %% en %s,+%s%% %s,en-US
++%s en %s,+%s %s,en-US
+-%%%s %s,-%s%% %s,en-US
+-%s %% %s,-%s%% %s,en-US
+-%s %% en %s,-%s%% %s,en-US
+-%s en %s,-%s %s,en-US
+Abbaueffizienz,Mining Efficiency,en-US
+Absorción máxima,Max Absorption,en-US
+absorption maximale,Max Absorption,en-US
+Absorção máxima,Max Absorption,en-US
+Ad Etiketi Mesafesi,Name Tag Distance,en-US
+Ad Etiketi Puan Mesafesi,Name Tag Score Distance,en-US
+Adım Yüksekliği,Step Height,en-US
+Alcance de atração das criaturas,Mob Tempt Range,en-US
+Alcance de detecção do marcador,Waypoint Receive Range,en-US
+Alcance de interação com blocos,Block Interaction Range,en-US
+Alcance de interação com entidades,Entity Interaction Range,en-US
+Alcance de perseguição das criaturas,Mob Follow Range,en-US
+Alcance de transmissão do marcador,Waypoint Transmit Range,en-US
+Altezza del passo,Step Height,en-US
+Altura de paso,Step Height,en-US
+Altura dos passos,Step Height,en-US
+Angriffsgeschwindigkeit,Attack Speed,en-US
+Angriffsrückstoß,Attack Knockback,en-US
+Angriffsschaden,Attack Damage,en-US
+Armadura,Armor,en-US
+Armatura,Armor,en-US
+Assorbimento massimo,Max Absorption,en-US
+At Zıplama Gücü,Horse Jump Strength,en-US
+Bewegungseffizienz,Movement Efficiency,en-US
+Blockabbaugeschwindigkeit,Block Break Speed,en-US
+Block‐Interaktionsweite,Block Interaction Range,en-US
+Blok Etkileşim Mesafesi,Block Interaction Range,en-US
+Blok Kırma Hızı,Block Break Speed,en-US
+bonus d'oxygène,Oxygen Bonus,en-US
+Brenndauer,Burning Time,en-US
+Bật lùi tấn công,Attack Knockback,en-US
+Canlı Fark Etme Mesafesi,Mob Tempt Range,en-US
+Canlı Takip Menzili,Mob Follow Range,en-US
+Canlı Takip Mesafesi,Mob Follow Range,en-US
+chance,Luck,en-US
+Chiều cao bước,Step Height,en-US
+Contraccolpo,Attack Knockback,en-US
+Danni per colpo,Attack Damage,en-US
+Dano por golpe,Attack Damage,en-US
+Daño de ataque,Attack Damage,en-US
+distance d'affichage du nom,Name Tag Distance,en-US
+distance d'affichage du score du nom,Name Tag Score Distance,en-US
+distance de chute sûre,Safe Fall Distance,en-US
+distance de la caméra,Camera Distance,en-US
+Distancia de caída segura,Safe Fall Distance,en-US
+Distancia de la cámara,Camera Distance,en-US
+Distancia del identificador,Name Tag Distance,en-US
+Distancia del marcador de puntuación,Name Tag Score Distance,en-US
+Distanza del punteggio nella targhetta,Name Tag Score Distance,en-US
+Distanza dell'inquadratura,Camera Distance,en-US
+Distanza della targhetta,Name Tag Distance,en-US
+Distanza di caduta sicura,Safe Fall Distance,en-US
+Distância da câmera,Camera Distance,en-US
+Distância de queda segura,Safe Fall Distance,en-US
+Distância do identificador,Name Tag Distance,en-US
+Distância do marcador de pontuação,Name Tag Score Distance,en-US
+Duración de quemadura,Burning Time,en-US
+Duração de queima,Burning Time,en-US
+Dureza de armadura,Armor Toughness,en-US
+Düşme Hasarı Çarpanı,Fall Damage Multiplier,en-US
+efficacité de minage,Mining Efficiency,en-US
+efficacité de mouvement,Movement Efficiency,en-US
+efficacité de mouvement aquatique,Water Movement Efficiency,en-US
+Efficienza d'estrazione,Mining Efficiency,en-US
+Efficienza del movimento,Movement Efficiency,en-US
+Efficienza del movimento in acqua,Water Movement Efficiency,en-US
+Eficiencia al romper bloques,Mining Efficiency,en-US
+Eficiencia de movimiento,Movement Efficiency,en-US
+Eficiencia de movimiento acuático,Water Movement Efficiency,en-US
+Eficiência de mineração,Mining Efficiency,en-US
+Eficiência de movimento,Movement Efficiency,en-US
+Eficiência de movimento na água,Water Movement Efficiency,en-US
+Elasticità,Bounciness,en-US
+Empuje de ataque,Attack Knockback,en-US
+En Fazla Emilim,Max Absorption,en-US
+En Fazla Sağlık,Max Health,en-US
+Escala,Scale,en-US
+Explosionsstandfestigkeit,Explosion Knockback Resistance,en-US
+Eğilirken Hareket Hızı,Sneaking Speed,en-US
+Eğilme Hızı,Sneaking Speed,en-US
+Fallschaden‐Multiplikator,Fall Damage Multiplier,en-US
+Federung,Bounciness,en-US
+Fluggeschwindigkeit,Flying Speed,en-US
+Fortuna,Luck,en-US
+Forza del salto,Jump Strength,en-US
+Forza di salto del cavallo,Horse Jump Strength,en-US
+Força de salto do cavalo,Horse Jump Strength,en-US
+Força do salto,Jump Strength,en-US
+Geniş Saldırı Hasar Oranı,Sweeping Damage Ratio,en-US
+Geschwindigkeit,Speed,en-US
+Giáp,Armor,en-US
+Glück,Luck,en-US
+Gravedad,Gravity,en-US
+Gravidade,Gravity,en-US
+Gravità,Gravity,en-US
+gravité,Gravity,en-US
+Größe,Scale,en-US
+Güvenli Düşüş Mesafesi,Safe Fall Distance,en-US
+Hareket Verimliliği,Movement Efficiency,en-US
+hauteur des pas,Step Height,en-US
+Hava Direnci Niteleyici,Air Drag Modifier,en-US
+Hiệu quả di chuyển,Movement Efficiency,en-US
+Hiệu quả di chuyển dưới nước,Water Movement Efficiency,en-US
+Hiệu suất đào,Mining Efficiency,en-US
+Hız,Speed,en-US
+Hấp thụ tối đa,Max Absorption,en-US
+Hệ số lực cản không khí,Air Drag Modifier,en-US
+Hệ số ma sát,Friction Modifier,en-US
+Hệ số sát thương rơi,Fall Damage Multiplier,en-US
+Kamera Mesafesi,Camera Distance,en-US
+Kameraabstand,Camera Distance,en-US
+Kazım Verimliliği,Mining Efficiency,en-US
+Khoảng cách hiển thị nhãn ghi tên,Name Tag Distance,en-US
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,Name Tag Score Distance,en-US
+Khoảng cách máy quay,Camera Distance,en-US
+Kháng đẩy lùi,Knockback Resistance,en-US
+Kháng đẩy lùi từ vụ nổ,Explosion Knockback Resistance,en-US
+Kreaturen‐Anlockdistanz,Mob Tempt Range,en-US
+Kreaturen‐Verfolgedistanz,Mob Follow Range,en-US
+Luftwiderstandsfaktor,Air Drag Modifier,en-US
+Lực lượng thây ma tăng cường,Zombie Reinforcements,en-US
+Maximale Absorption,Max Absorption,en-US
+Maximale Gesundheit,Max Health,en-US
+May mắn,Luck,en-US
+Mobの誘引される範囲,Mob Tempt Range,en-US
+Mobの追跡範囲,Mob Follow Range,en-US
+Modificador de atrito,Friction Modifier,en-US
+Modificador de fricción,Friction Modifier,en-US
+Modificador de resistencia del aire,Air Drag Modifier,en-US
+Modificador de resistência ao ar,Air Drag Modifier,en-US
+modificateur de friction,Friction Modifier,en-US
+modificateur de résistance à l'air,Air Drag Modifier,en-US
+Modificatore di attrito,Friction Modifier,en-US
+Modificatore di resistenza aerodinamica,Air Drag Modifier,en-US
+Moltiplicatore del danno da caduta,Fall Damage Multiplier,en-US
+Multiplicador de dano por queda,Fall Damage Multiplier,en-US
+Multiplicador de daño por caída,Fall Damage Multiplier,en-US
+multiplicateur des dégâts de chute,Fall Damage Multiplier,en-US
+Namensschildabstand,Name Tag Distance,en-US
+Objekt‐Interaktionsweite,Entity Interaction Range,en-US
+Oksijen Takviyesi,Oxygen Bonus,en-US
+Ossigeno aggiuntivo,Oxygen Bonus,en-US
+Oxigênio extra,Oxygen Bonus,en-US
+Oxígeno extra,Oxygen Bonus,en-US
+Patlama Savrulması Direnci,Explosion Knockback Resistance,en-US
+Pferdesprungstärke,Horse Jump Strength,en-US
+Phạm vi nhận điểm mốc,Waypoint Receive Range,en-US
+Phạm vi thu hút sinh vật,Mob Tempt Range,en-US
+Phạm vi truyền điểm mốc,Waypoint Transmit Range,en-US
+Phạm vi tương tác khối,Block Interaction Range,en-US
+Phạm vi tương tác thực thể,Entity Interaction Range,en-US
+Phạm vi đi theo của sinh vật,Mob Follow Range,en-US
+Phần oxi thêm,Oxygen Bonus,en-US
+points d'armure,Armor,en-US
+points d'attaque,Attack Damage,en-US
+Portata di ricezione del punto di riferimento,Waypoint Receive Range,en-US
+Portata di trasmissione del punto di riferimento,Waypoint Transmit Range,en-US
+portée d'interaction avec les blocs,Block Interaction Range,en-US
+portée d'interaction avec les entités,Entity Interaction Range,en-US
+portée de détection des créatures,Mob Follow Range,en-US
+portée de réception du point de repère,Waypoint Receive Range,en-US
+portée de tentation des créatures,Mob Tempt Range,en-US
+portée de transmission du point de repère,Waypoint Transmit Range,en-US
+Potencia de salto,Jump Strength,en-US
+Potencia de salto del caballo,Horse Jump Strength,en-US
+Proporción del daño de barrido,Sweeping Damage Ratio,en-US
+puissance de saut,Jump Strength,en-US
+puissance de saut du cheval,Horse Jump Strength,en-US
+Punktetafelabstand,Name Tag Score Distance,en-US
+Punti armatura,Armor,en-US
+Quy mô,Scale,en-US
+Radio de atracción de criaturas,Mob Tempt Range,en-US
+Raggio d'interazione con i blocchi,Block Interaction Range,en-US
+Raggio d'interazione con le entità,Entity Interaction Range,en-US
+Raggio di rilevamento delle creature,Mob Follow Range,en-US
+Raggio di tentazione delle creature,Mob Tempt Range,en-US
+Rango de interacción con bloques,Block Interaction Range,en-US
+Rango de interacción con entidades,Entity Interaction Range,en-US
+Rango de recepción del punto de referencia,Waypoint Receive Range,en-US
+Rango de seguimiento,Mob Follow Range,en-US
+Rango de transmisión del punto de referencia,Waypoint Transmit Range,en-US
+rapidité,Speed,en-US
+Rapporto del danno sferzante,Sweeping Damage Ratio,en-US
+ratio de dégâts par balayage,Sweeping Damage Ratio,en-US
+rebond,Bounciness,en-US
+Rebote,Bounciness,en-US
+recul d'attaque,Attack Knockback,en-US
+Reforços de zumbis,Zombie Reinforcements,en-US
+Refuerzos zombi,Zombie Reinforcements,en-US
+Reibungsfaktor,Friction Modifier,en-US
+renforts de zombies,Zombie Reinforcements,en-US
+Repulsão do ataque,Attack Knockback,en-US
+Resistencia al empuje,Knockback Resistance,en-US
+Resistencia al empuje de las explosiones,Explosion Knockback Resistance,en-US
+Resistenza al contraccolpo,Knockback Resistance,en-US
+Resistenza al contraccolpo delle esplosioni,Explosion Knockback Resistance,en-US
+Resistência da armadura,Armor Toughness,en-US
+Resistência à repulsão,Knockback Resistance,en-US
+Resistência à repulsão de explosões,Explosion Knockback Resistance,en-US
+Rinforzi zombi,Zombie Reinforcements,en-US
+robustesse,Armor Toughness,en-US
+résistance au recul,Knockback Resistance,en-US
+résistance au recul des explosions,Explosion Knockback Resistance,en-US
+Rüstung,Armor,en-US
+Rüstungshärte,Armor Toughness,en-US
+Saldırı Hasarı,Attack Damage,en-US
+Saldırı Hızı,Attack Speed,en-US
+Saldırı Savurması,Attack Knockback,en-US
+Salud máxima,Max Health,en-US
+Salute massima,Max Health,en-US
+Sauerstoffbonus,Oxygen Bonus,en-US
+Savrulma Direnci,Knockback Resistance,en-US
+Scala,Scale,en-US
+Schleichgeschwindigkeit,Sneaking Speed,en-US
+Schritthöhe,Step Height,en-US
+Schwerkraft,Gravity,en-US
+Schwungschadensverhältnis,Sweeping Damage Ratio,en-US
+Sekme,Bounciness,en-US
+Sichere Fallhöhe,Safe Fall Distance,en-US
+Sinh lực tối đa,Max Health,en-US
+Solidità dell'armatura,Armor Toughness,en-US
+Sorte,Luck,en-US
+Sprungstärke,Jump Strength,en-US
+Standfestigkeit,Knockback Resistance,en-US
+Su Altında Kazım Hızı,Submerged Mining Speed,en-US
+Suda Hareket Verimliliği,Water Movement Efficiency,en-US
+Suerte,Luck,en-US
+Sürtünme Düzenleyici,Friction Modifier,en-US
+Sức bật lùi,Attack Knockback,en-US
+Sức nhảy,Jump Strength,en-US
+Sức nhảy của ngựa,Horse Jump Strength,en-US
+Sức tấn công,Attack Damage,en-US
+taille,Scale,en-US
+Taxa de dano lateral,Sweeping Damage Ratio,en-US
+Tempo di combustione,Burning Time,en-US
+temps en feu,Burning Time,en-US
+Thời gian cháy,Burning Time,en-US
+Trọng lực,Gravity,en-US
+Tỉ lệ sát thương quét cạnh,Sweeping Damage Ratio,en-US
+Tốc độ,Speed,en-US
+Tốc độ bay,Flying Speed,en-US
+Tốc độ phá khối,Block Break Speed,en-US
+Tốc độ tấn công,Attack Speed,en-US
+Tốc độ đi rón rén,Sneaking Speed,en-US
+Tốc độ đào dưới nước,Submerged Mining Speed,en-US
+Unterwasser‐Abbaugeschwindigkeit,Submerged Mining Speed,en-US
+Uçma Hızı,Flying Speed,en-US
+Uçuş Hızı,Flying Speed,en-US
+Varlık Etkileşim Mesafesi,Entity Interaction Range,en-US
+Velocidad,Speed,en-US
+Velocidad al agacharse,Sneaking Speed,en-US
+Velocidad al romper bloques,Block Break Speed,en-US
+Velocidad al romper bloques sumergido,Submerged Mining Speed,en-US
+Velocidad de ataque,Attack Speed,en-US
+Velocidad de vuelo,Flying Speed,en-US
+Velocidade,Speed,en-US
+Velocidade de ataque,Attack Speed,en-US
+Velocidade de mineração submersa,Submerged Mining Speed,en-US
+Velocidade de quebra de blocos,Block Break Speed,en-US
+Velocidade do voo,Flying Speed,en-US
+Velocidade furtiva,Sneaking Speed,en-US
+Velocità,Speed,en-US
+Velocità d'attacco,Attack Speed,en-US
+Velocità d'estrazione sott'acqua,Submerged Mining Speed,en-US
+Velocità di distruzione dei blocchi,Block Break Speed,en-US
+Velocità furtiva,Sneaking Speed,en-US
+Velocità in volo,Flying Speed,en-US
+Vida máxima,Max Health,en-US
+vie maximale,Max Health,en-US
+vitesse accroupie,Sneaking Speed,en-US
+vitesse d'attaque,Attack Speed,en-US
+vitesse de destruction des blocs,Block Break Speed,en-US
+vitesse de minage sous l'eau,Submerged Mining Speed,en-US
+vitesse de vol,Flying Speed,en-US
+Wasser‐Bewegungseffizienz,Water Movement Efficiency,en-US
+Wegpunkt‐Empfangsreichweite,Waypoint Receive Range,en-US
+Wegpunkt‐Sendereichweite,Waypoint Transmit Range,en-US
+Yanma Süresi,Burning Time,en-US
+Yer Çekimi,Gravity,en-US
+Yol Noktası Alma Mesafesi,Waypoint Receive Range,en-US
+Yol Noktası İletme Mesafesi,Waypoint Transmit Range,en-US
+Zombi Takviyesi,Zombie Reinforcements,en-US
+Zombie-Verstärkung,Zombie Reinforcements,en-US
+Zombie‐Verstärkung,Zombie Reinforcements,en-US
+Zıplama Gücü,Jump Strength,en-US
+Zırh,Armor,en-US
+Zırh Sertliği,Armor Toughness,en-US
+Ölçek,Scale,en-US
+Độ bền của áo giáp,Armor Toughness,en-US
+Độ bền áo giáp,Armor Toughness,en-US
+Độ cao rơi xuống an toàn,Safe Fall Distance,en-US
+Độ nảy,Bounciness,en-US
+Şans,Luck,en-US
+Безопасная высота падения,Safe Fall Distance,en-US
+Бонус к кислороду,Oxygen Bonus,en-US
+Броня,Armor,en-US
+Везение,Luck,en-US
+Время горения,Burning Time,en-US
+Высота шага,Step Height,en-US
+Гравитация,Gravity,en-US
+Дальность взаимодействия с блоками,Block Interaction Range,en-US
+Дальность взаимодействия с сущностями,Entity Interaction Range,en-US
+Дальность видимости имени,Name Tag Distance,en-US
+Дальность видимости счёта под именем,Name Tag Score Distance,en-US
+Дальность обнаружения маркеров,Waypoint Receive Range,en-US
+Дальность передачи маркера,Waypoint Transmit Range,en-US
+Дальность приманивания,Mob Tempt Range,en-US
+Диапазон преследования моба,Mob Follow Range,en-US
+Коэффициент разящего удара,Sweeping Damage Ratio,en-US
+Максимальное здоровье,Max Health,en-US
+Множитель урона от падения,Fall Damage Multiplier,en-US
+Модификатор сопротивления воздуха,Air Drag Modifier,en-US
+Модификатор трения,Friction Modifier,en-US
+Отбрасывание при атаке,Attack Knockback,en-US
+Отдалённость камеры,Camera Distance,en-US
+Подкрепление зомби,Zombie Reinforcements,en-US
+Предел поглощения,Max Absorption,en-US
+Размер,Scale,en-US
+Сила прыжка,Jump Strength,en-US
+Сила прыжка лошади,Horse Jump Strength,en-US
+Скорость,Speed,en-US
+Скорость атаки,Attack Speed,en-US
+Скорость добычи под водой,Submerged Mining Speed,en-US
+Скорость подкрадывания,Sneaking Speed,en-US
+Скорость полёта,Flying Speed,en-US
+Скорость разрушения блоков,Block Break Speed,en-US
+Сопротивление к отбрасыванию,Knockback Resistance,en-US
+Сопротивление к отбрасыванию взрывом,Explosion Knockback Resistance,en-US
+Твёрдость брони,Armor Toughness,en-US
+Упругость,Bounciness,en-US
+Урон при атаке,Attack Damage,en-US
+Эффективность добычи,Mining Efficiency,en-US
+Эффективность передвижения,Movement Efficiency,en-US
+Эффективность передвижения в воде,Water Movement Efficiency,en-US
+กระดอนโจมตี,Attack Knockback,en-US
+กำลังเสริมซอมบี้,Zombie Reinforcements,en-US
+ขนาด,Scale,en-US
+ความต้านทานการกระดอน,Knockback Resistance,en-US
+ความต้านทานการกระดอนจากระเบิด,Explosion Knockback Resistance,en-US
+ความสูงของขั้นก้าว,Step Height,en-US
+ความเด้ง,Bounciness,en-US
+ความเร็ว,Speed,en-US
+ความเร็วการขุดใต้น้ำ,Submerged Mining Speed,en-US
+ความเร็วการทำลายบล็อก,Block Break Speed,en-US
+ความเร็วการบิน,Flying Speed,en-US
+ความเร็วการย่อง,Sneaking Speed,en-US
+ความเร็วโจมตี,Attack Speed,en-US
+ความแข็งแกร่งของเกราะ,Armor Toughness,en-US
+ความแรงการกระโดด,Jump Strength,en-US
+ดาเมจโจมตี,Attack Damage,en-US
+ดูดซับสูงสุด,Max Absorption,en-US
+ตัวคูณดาเมจจากการตก,Fall Damage Multiplier,en-US
+ตัวดัดแปรแรงต้านอากาศ,Air Drag Modifier,en-US
+ตัวดัดแปรแรงเสียดทาน,Friction Modifier,en-US
+ประสิทธิภาพการขุด,Mining Efficiency,en-US
+ประสิทธิภาพการเคลื่อนที่,Movement Efficiency,en-US
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,Water Movement Efficiency,en-US
+ระยะการตกที่ปลอดภัย,Safe Fall Distance,en-US
+ระยะการรับเวย์พอยต์,Waypoint Receive Range,en-US
+ระยะการล่อของม็อบ,Mob Tempt Range,en-US
+ระยะการส่งผ่านเวย์พอยต์,Waypoint Transmit Range,en-US
+ระยะคะแนนใต้ป้ายชื่อ,Name Tag Score Distance,en-US
+ระยะที่ม็อบติดตาม,Mob Follow Range,en-US
+ระยะปฏิสัมพันธ์กับบล็อก,Block Interaction Range,en-US
+ระยะปฏิสัมพันธ์กับเอนทิตี้,Entity Interaction Range,en-US
+ระยะป้ายชื่อ,Name Tag Distance,en-US
+ระยะห่างกล้อง,Camera Distance,en-US
+ระยะเวลาติดไฟ,Burning Time,en-US
+ออกซิเจนพิเศษ,Oxygen Bonus,en-US
+อัตราส่วนดาเมจแบบกวาด,Sweeping Damage Ratio,en-US
+เกราะ,Armor,en-US
+เลือดสูงสุด,Max Health,en-US
+แรงม้ากระโดด,Horse Jump Strength,en-US
+แรงโน้มถ่วง,Gravity,en-US
+โชค,Luck,en-US
+なぎ払いダメージの比率,Sweeping Damage Ratio,en-US
+ウェイポイント伝達距離,Waypoint Transmit Range,en-US
+ウェイポイント受信距離,Waypoint Receive Range,en-US
+ウマの跳躍力,Horse Jump Strength,en-US
+エンティティ操作範囲,Entity Interaction Range,en-US
+カメラ距離,Camera Distance,en-US
+サイズ,Scale,en-US
+スニーク速度,Sneaking Speed,en-US
+ゾンビの増援,Zombie Reinforcements,en-US
+ネームタグの表示距離,Name Tag Distance,en-US
+ネームタグ下のスコアの表示距離,Name Tag Score Distance,en-US
+ノックバック,Attack Knockback,en-US
+ノックバック力,Attack Knockback,en-US
+ノックバック耐性,Knockback Resistance,en-US
+ブロック操作範囲,Block Interaction Range,en-US
+ブロック破壊速度,Block Break Speed,en-US
+僵尸增援,Zombie Reinforcements,en-US
+击退,Attack Knockback,en-US
+击退抗性,Knockback Resistance,en-US
+名牌分数距离,Name Tag Score Distance,en-US
+名牌距离,Name Tag Distance,en-US
+名稱標籤分數距離,Name Tag Score Distance,en-US
+名稱標籤距離,Name Tag Distance,en-US
+大きさ,Scale,en-US
+大小,Scale,en-US
+安全摔落高度,Safe Fall Distance,en-US
+安全落下高度,Safe Fall Distance,en-US
+实体交互距离,Entity Interaction Range,en-US
+實體互動距離,Entity Interaction Range,en-US
+尺寸,Scale,en-US
+幸运值,Luck,en-US
+幸運,Luck,en-US
+弹性,Bounciness,en-US
+弾性係数,Bounciness,en-US
+彈性,Bounciness,en-US
+抗擊退,Knockback Resistance,en-US
+抗爆炸擊退,Explosion Knockback Resistance,en-US
+护甲值,Armor,en-US
+挖掘效率,Mining Efficiency,en-US
+採掘効率,Mining Efficiency,en-US
+摔落伤害倍数,Fall Damage Multiplier,en-US
+摔落傷害倍率,Fall Damage Multiplier,en-US
+摩擦係数,Friction Modifier,en-US
+摩擦力修正係數,Friction Modifier,en-US
+摩擦力修正系数,Friction Modifier,en-US
+擊退,Attack Knockback,en-US
+攻击伤害,Attack Damage,en-US
+攻击速度,Attack Speed,en-US
+攻撃力,Attack Damage,en-US
+攻撃速度,Attack Speed,en-US
+攻擊傷害,Attack Damage,en-US
+攻擊速度,Attack Speed,en-US
+方块交互距离,Block Interaction Range,en-US
+方块破坏速度,Block Break Speed,en-US
+方塊互動距離,Block Interaction Range,en-US
+方塊破壞速度,Block Break Speed,en-US
+最大伤害吸收值,Max Absorption,en-US
+最大体力,Max Health,en-US
+最大傷害吸收值,Max Absorption,en-US
+最大生命值,Max Health,en-US
+最大行走高度,Step Height,en-US
+最高生命值,Max Health,en-US
+横扫伤害比率,Sweeping Damage Ratio,en-US
+橫掃傷害率,Sweeping Damage Ratio,en-US
+殭屍增援隊,Zombie Reinforcements,en-US
+段差上限,Step Height,en-US
+水下挖掘速度,Submerged Mining Speed,en-US
+水中挖掘速度,Submerged Mining Speed,en-US
+水中採掘速度,Submerged Mining Speed,en-US
+水中移动效率,Water Movement Efficiency,en-US
+水中移動効率,Water Movement Efficiency,en-US
+水中移動效率,Water Movement Efficiency,en-US
+潛行速度,Sneaking Speed,en-US
+潜行速度,Sneaking Speed,en-US
+炎上時間,Burning Time,en-US
+燃燒時間,Burning Time,en-US
+爆炸击退抗性,Explosion Knockback Resistance,en-US
+爆発ノックバック耐性,Explosion Knockback Resistance,en-US
+生物引誘範圍,Mob Tempt Range,en-US
+生物引诱范围,Mob Tempt Range,en-US
+生物跟随距离,Mob Follow Range,en-US
+生物追蹤範圍,Mob Follow Range,en-US
+盔甲,Armor,en-US
+盔甲強度,Armor Toughness,en-US
+盔甲韧性,Armor Toughness,en-US
+着火时间,Burning Time,en-US
+移动效率,Movement Efficiency,en-US
+移動効率,Movement Efficiency,en-US
+移動效率,Movement Efficiency,en-US
+移動速度,Speed,en-US
+空气阻力修正系数,Air Drag Modifier,en-US
+空気抵抗係数,Air Drag Modifier,en-US
+空氣阻力修正係數,Air Drag Modifier,en-US
+落下ダメージ倍率,Fall Damage Multiplier,en-US
+衝撃吸収レベルの上限,Max Absorption,en-US
+路径点传输距离,Waypoint Transmit Range,en-US
+路径点接收距离,Waypoint Receive Range,en-US
+路徑點傳輸距離,Waypoint Transmit Range,en-US
+路徑點接收距離,Waypoint Receive Range,en-US
+跳跃力度,Jump Strength,en-US
+跳躍力,Jump Strength,en-US
+速度,Speed,en-US
+運,Luck,en-US
+酸素ボーナス,Oxygen Bonus,en-US
+重力,Gravity,en-US
+鏡頭距離,Camera Distance,en-US
+镜头距离,Camera Distance,en-US
+防具強度,Armor Toughness,en-US
+防御力,Armor,en-US
+額外氧氣,Oxygen Bonus,en-US
+额外氧气,Oxygen Bonus,en-US
+飛行速度,Flying Speed,en-US
+飞行速度,Flying Speed,en-US
+馬跳躍力,Horse Jump Strength,en-US
+马匹跳跃能力,Horse Jump Strength,en-US
+개체 상호 작용 범위,Entity Interaction Range,en-US
+걸음 높이,Step Height,en-US
+경로점 발신 범위,Waypoint Transmit Range,en-US
+경로점 수신 범위,Waypoint Receive Range,en-US
+공격 밀침 세기,Attack Knockback,en-US
+공격 속도,Attack Speed,en-US
+공격 피해,Attack Damage,en-US
+공기 저항력 변경자,Air Drag Modifier,en-US
+낙하 피해 배수,Fall Damage Multiplier,en-US
+마찰력 변경자,Friction Modifier,en-US
+말 점프 강도,Horse Jump Strength,en-US
+몹 따름 범위,Mob Follow Range,en-US
+몹 유인 범위,Mob Tempt Range,en-US
+밀침 저항,Knockback Resistance,en-US
+방어,Armor,en-US
+방어 강도,Armor Toughness,en-US
+배율,Scale,en-US
+블록 상호 작용 범위,Block Interaction Range,en-US
+블록 파괴 속도,Block Break Speed,en-US
+비행 속도,Flying Speed,en-US
+산소 추가,Oxygen Bonus,en-US
+속도,Speed,en-US
+수중 이동 효율,Water Movement Efficiency,en-US
+수중 채굴 속도,Submerged Mining Speed,en-US
+안전 낙하 거리,Safe Fall Distance,en-US
+연소 시간,Burning Time,en-US
+웅크렸을 때 속도,Sneaking Speed,en-US
+이동 효율,Movement Efficiency,en-US
+이름표 거리,Name Tag Distance,en-US
+이름표 점수 거리,Name Tag Score Distance,en-US
+점프 세기,Jump Strength,en-US
+좀비 증원,Zombie Reinforcements,en-US
+중력,Gravity,en-US
+채굴 효율,Mining Efficiency,en-US
+최대 생명력,Max Health,en-US
+최대 흡수,Max Absorption,en-US
+카메라 거리,Camera Distance,en-US
+크기,Scale,en-US
+탄성,Bounciness,en-US
+폭발 밀침 저항,Explosion Knockback Resistance,en-US
+행운,Luck,en-US
+휩쓸기 피해 비율,Sweeping Damage Ratio,en-US

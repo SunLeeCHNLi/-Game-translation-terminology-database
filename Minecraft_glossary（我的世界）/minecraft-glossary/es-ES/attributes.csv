@@ -1,0 +1,568 @@
+﻿source,target,tgt_lng
+%%%s %s,%2$s: %1$s%%,es-ES
+%%%s %s,%s%% %s,es-ES
+%2$s %1$s%%,%2$s: %1$s%%,es-ES
+%2$s +%1$s,%2$s: +%1$s,es-ES
+%2$s +%1$s%%,%2$s: +%1$s%%,es-ES
+%2$s -%1$s,%2$s: -%1$s,es-ES
+%2$s -%1$s%%,%2$s: -%1$s%%,es-ES
+%2$s: %1$s,%s %s,es-ES
+%2$s: %1$s%%,%s%% %s,es-ES
+%2$s: +%1$s%%,+%s%% %s,es-ES
+%2$s: -%1$s%%,-%s%% %s,es-ES
+%s %% %s,%2$s: %1$s%%,es-ES
+%s %% %s,%s%% %s,es-ES
+%s %% en %s,%2$s: %1$s%%,es-ES
+%s %% en %s,%s%% %s,es-ES
+%s en %s,%s %s,es-ES
+%s%% %s,%2$s: %1$s%%,es-ES
++%%%s %s,%2$s: +%1$s%%,es-ES
++%%%s %s,+%s%% %s,es-ES
++%s %% %s,%2$s: +%1$s%%,es-ES
++%s %% %s,+%s%% %s,es-ES
++%s %% en %s,%2$s: +%1$s%%,es-ES
++%s %% en %s,+%s%% %s,es-ES
++%s %s,%2$s: +%1$s,es-ES
++%s en %s,%2$s: +%1$s,es-ES
++%s%% %s,%2$s: +%1$s%%,es-ES
+-%%%s %s,%2$s: -%1$s%%,es-ES
+-%%%s %s,-%s%% %s,es-ES
+-%s %% %s,%2$s: -%1$s%%,es-ES
+-%s %% %s,-%s%% %s,es-ES
+-%s %% en %s,%2$s: -%1$s%%,es-ES
+-%s %% en %s,-%s%% %s,es-ES
+-%s %s,%2$s: -%1$s,es-ES
+-%s en %s,%2$s: -%1$s,es-ES
+-%s%% %s,%2$s: -%1$s%%,es-ES
+Abbaueffizienz,Eficiencia al romper bloques,es-ES
+absorption maximale,Absorción máxima,es-ES
+Absorção máxima,Absorción máxima,es-ES
+Ad Etiketi Mesafesi,Distancia del identificador,es-ES
+Ad Etiketi Puan Mesafesi,Distancia del marcador de puntuación,es-ES
+Adım Yüksekliği,Altura de paso,es-ES
+Air Drag Modifier,Modificador de resistencia del aire,es-ES
+Alcance de atração das criaturas,Radio de atracción de criaturas,es-ES
+Alcance de detecção do marcador,Rango de recepción del punto de referencia,es-ES
+Alcance de interação com blocos,Rango de interacción con bloques,es-ES
+Alcance de interação com entidades,Rango de interacción con entidades,es-ES
+Alcance de perseguição das criaturas,Rango de seguimiento,es-ES
+Alcance de transmissão do marcador,Rango de transmisión del punto de referencia,es-ES
+Altezza del passo,Altura de paso,es-ES
+Altura dos passos,Altura de paso,es-ES
+Angriffsgeschwindigkeit,Velocidad de ataque,es-ES
+Angriffsrückstoß,Empuje de ataque,es-ES
+Angriffsschaden,Daño de ataque,es-ES
+Armatura,Armadura,es-ES
+Armor,Armadura,es-ES
+Armor Toughness,Dureza de armadura,es-ES
+Assorbimento massimo,Absorción máxima,es-ES
+At Zıplama Gücü,Potencia de salto del caballo,es-ES
+Attack Damage,Daño de ataque,es-ES
+Attack Knockback,Empuje de ataque,es-ES
+Attack Speed,Velocidad de ataque,es-ES
+Bewegungseffizienz,Eficiencia de movimiento,es-ES
+Block Break Speed,Velocidad al romper bloques,es-ES
+Block Interaction Range,Rango de interacción con bloques,es-ES
+Blockabbaugeschwindigkeit,Velocidad al romper bloques,es-ES
+Block‐Interaktionsweite,Rango de interacción con bloques,es-ES
+Blok Etkileşim Mesafesi,Rango de interacción con bloques,es-ES
+Blok Kırma Hızı,Velocidad al romper bloques,es-ES
+bonus d'oxygène,Oxígeno extra,es-ES
+Bounciness,Rebote,es-ES
+Brenndauer,Duración de quemadura,es-ES
+Burning Time,Duración de quemadura,es-ES
+Bật lùi tấn công,Empuje de ataque,es-ES
+Camera Distance,Distancia de la cámara,es-ES
+Canlı Fark Etme Mesafesi,Radio de atracción de criaturas,es-ES
+Canlı Takip Menzili,Rango de seguimiento,es-ES
+Canlı Takip Mesafesi,Rango de seguimiento,es-ES
+chance,Suerte,es-ES
+Chiều cao bước,Altura de paso,es-ES
+Contraccolpo,Empuje de ataque,es-ES
+Danni per colpo,Daño de ataque,es-ES
+Dano por golpe,Daño de ataque,es-ES
+distance d'affichage du nom,Distancia del identificador,es-ES
+distance d'affichage du score du nom,Distancia del marcador de puntuación,es-ES
+distance de chute sûre,Distancia de caída segura,es-ES
+distance de la caméra,Distancia de la cámara,es-ES
+Distanza del punteggio nella targhetta,Distancia del marcador de puntuación,es-ES
+Distanza dell'inquadratura,Distancia de la cámara,es-ES
+Distanza della targhetta,Distancia del identificador,es-ES
+Distanza di caduta sicura,Distancia de caída segura,es-ES
+Distância da câmera,Distancia de la cámara,es-ES
+Distância de queda segura,Distancia de caída segura,es-ES
+Distância do identificador,Distancia del identificador,es-ES
+Distância do marcador de pontuação,Distancia del marcador de puntuación,es-ES
+Duração de queima,Duración de quemadura,es-ES
+Düşme Hasarı Çarpanı,Multiplicador de daño por caída,es-ES
+efficacité de minage,Eficiencia al romper bloques,es-ES
+efficacité de mouvement,Eficiencia de movimiento,es-ES
+efficacité de mouvement aquatique,Eficiencia de movimiento acuático,es-ES
+Efficienza d'estrazione,Eficiencia al romper bloques,es-ES
+Efficienza del movimento,Eficiencia de movimiento,es-ES
+Efficienza del movimento in acqua,Eficiencia de movimiento acuático,es-ES
+Eficiência de mineração,Eficiencia al romper bloques,es-ES
+Eficiência de movimento,Eficiencia de movimiento,es-ES
+Eficiência de movimento na água,Eficiencia de movimiento acuático,es-ES
+Elasticità,Rebote,es-ES
+En Fazla Emilim,Absorción máxima,es-ES
+En Fazla Sağlık,Salud máxima,es-ES
+Entity Interaction Range,Rango de interacción con entidades,es-ES
+Explosion Knockback Resistance,Resistencia al empuje de las explosiones,es-ES
+Explosionsstandfestigkeit,Resistencia al empuje de las explosiones,es-ES
+Eğilirken Hareket Hızı,Velocidad al agacharse,es-ES
+Eğilme Hızı,Velocidad al agacharse,es-ES
+Fall Damage Multiplier,Multiplicador de daño por caída,es-ES
+Fallschaden‐Multiplikator,Multiplicador de daño por caída,es-ES
+Federung,Rebote,es-ES
+Fluggeschwindigkeit,Velocidad de vuelo,es-ES
+Flying Speed,Velocidad de vuelo,es-ES
+Fortuna,Suerte,es-ES
+Forza del salto,Potencia de salto,es-ES
+Forza di salto del cavallo,Potencia de salto del caballo,es-ES
+Força de salto do cavalo,Potencia de salto del caballo,es-ES
+Força do salto,Potencia de salto,es-ES
+Friction Modifier,Modificador de fricción,es-ES
+Geniş Saldırı Hasar Oranı,Proporción del daño de barrido,es-ES
+Geschwindigkeit,Velocidad,es-ES
+Giáp,Armadura,es-ES
+Glück,Suerte,es-ES
+Gravidade,Gravedad,es-ES
+Gravity,Gravedad,es-ES
+Gravità,Gravedad,es-ES
+gravité,Gravedad,es-ES
+Größe,Escala,es-ES
+Güvenli Düşüş Mesafesi,Distancia de caída segura,es-ES
+Hareket Verimliliği,Eficiencia de movimiento,es-ES
+hauteur des pas,Altura de paso,es-ES
+Hava Direnci Niteleyici,Modificador de resistencia del aire,es-ES
+Hiệu quả di chuyển,Eficiencia de movimiento,es-ES
+Hiệu quả di chuyển dưới nước,Eficiencia de movimiento acuático,es-ES
+Hiệu suất đào,Eficiencia al romper bloques,es-ES
+Horse Jump Strength,Potencia de salto del caballo,es-ES
+Hız,Velocidad,es-ES
+Hấp thụ tối đa,Absorción máxima,es-ES
+Hệ số lực cản không khí,Modificador de resistencia del aire,es-ES
+Hệ số ma sát,Modificador de fricción,es-ES
+Hệ số sát thương rơi,Multiplicador de daño por caída,es-ES
+Jump Strength,Potencia de salto,es-ES
+Kamera Mesafesi,Distancia de la cámara,es-ES
+Kameraabstand,Distancia de la cámara,es-ES
+Kazım Verimliliği,Eficiencia al romper bloques,es-ES
+Khoảng cách hiển thị nhãn ghi tên,Distancia del identificador,es-ES
+Khoảng cách hiển thị điểm số trên nhãn ghi tên,Distancia del marcador de puntuación,es-ES
+Khoảng cách máy quay,Distancia de la cámara,es-ES
+Kháng đẩy lùi,Resistencia al empuje,es-ES
+Kháng đẩy lùi từ vụ nổ,Resistencia al empuje de las explosiones,es-ES
+Knockback Resistance,Resistencia al empuje,es-ES
+Kreaturen‐Anlockdistanz,Radio de atracción de criaturas,es-ES
+Kreaturen‐Verfolgedistanz,Rango de seguimiento,es-ES
+Luck,Suerte,es-ES
+Luftwiderstandsfaktor,Modificador de resistencia del aire,es-ES
+Lực lượng thây ma tăng cường,Refuerzos zombi,es-ES
+Max Absorption,Absorción máxima,es-ES
+Max Health,Salud máxima,es-ES
+Maximale Absorption,Absorción máxima,es-ES
+Maximale Gesundheit,Salud máxima,es-ES
+May mắn,Suerte,es-ES
+Mining Efficiency,Eficiencia al romper bloques,es-ES
+Mob Follow Range,Rango de seguimiento,es-ES
+Mob Tempt Range,Radio de atracción de criaturas,es-ES
+Mobの誘引される範囲,Radio de atracción de criaturas,es-ES
+Mobの追跡範囲,Rango de seguimiento,es-ES
+Modificador de atrito,Modificador de fricción,es-ES
+Modificador de resistência ao ar,Modificador de resistencia del aire,es-ES
+modificateur de friction,Modificador de fricción,es-ES
+modificateur de résistance à l'air,Modificador de resistencia del aire,es-ES
+Modificatore di attrito,Modificador de fricción,es-ES
+Modificatore di resistenza aerodinamica,Modificador de resistencia del aire,es-ES
+Moltiplicatore del danno da caduta,Multiplicador de daño por caída,es-ES
+Movement Efficiency,Eficiencia de movimiento,es-ES
+Multiplicador de dano por queda,Multiplicador de daño por caída,es-ES
+multiplicateur des dégâts de chute,Multiplicador de daño por caída,es-ES
+Name Tag Distance,Distancia del identificador,es-ES
+Name Tag Score Distance,Distancia del marcador de puntuación,es-ES
+Namensschildabstand,Distancia del identificador,es-ES
+Objekt‐Interaktionsweite,Rango de interacción con entidades,es-ES
+Oksijen Takviyesi,Oxígeno extra,es-ES
+Ossigeno aggiuntivo,Oxígeno extra,es-ES
+Oxigênio extra,Oxígeno extra,es-ES
+Oxygen Bonus,Oxígeno extra,es-ES
+Patlama Savrulması Direnci,Resistencia al empuje de las explosiones,es-ES
+Pferdesprungstärke,Potencia de salto del caballo,es-ES
+Phạm vi nhận điểm mốc,Rango de recepción del punto de referencia,es-ES
+Phạm vi thu hút sinh vật,Radio de atracción de criaturas,es-ES
+Phạm vi truyền điểm mốc,Rango de transmisión del punto de referencia,es-ES
+Phạm vi tương tác khối,Rango de interacción con bloques,es-ES
+Phạm vi tương tác thực thể,Rango de interacción con entidades,es-ES
+Phạm vi đi theo của sinh vật,Rango de seguimiento,es-ES
+Phần oxi thêm,Oxígeno extra,es-ES
+points d'armure,Armadura,es-ES
+points d'attaque,Daño de ataque,es-ES
+Portata di ricezione del punto di riferimento,Rango de recepción del punto de referencia,es-ES
+Portata di trasmissione del punto di riferimento,Rango de transmisión del punto de referencia,es-ES
+portée d'interaction avec les blocs,Rango de interacción con bloques,es-ES
+portée d'interaction avec les entités,Rango de interacción con entidades,es-ES
+portée de détection des créatures,Rango de seguimiento,es-ES
+portée de réception du point de repère,Rango de recepción del punto de referencia,es-ES
+portée de tentation des créatures,Radio de atracción de criaturas,es-ES
+portée de transmission du point de repère,Rango de transmisión del punto de referencia,es-ES
+puissance de saut,Potencia de salto,es-ES
+puissance de saut du cheval,Potencia de salto del caballo,es-ES
+Punktetafelabstand,Distancia del marcador de puntuación,es-ES
+Punti armatura,Armadura,es-ES
+Quy mô,Escala,es-ES
+Raggio d'interazione con i blocchi,Rango de interacción con bloques,es-ES
+Raggio d'interazione con le entità,Rango de interacción con entidades,es-ES
+Raggio di rilevamento delle creature,Rango de seguimiento,es-ES
+Raggio di tentazione delle creature,Radio de atracción de criaturas,es-ES
+rapidité,Velocidad,es-ES
+Rapporto del danno sferzante,Proporción del daño de barrido,es-ES
+ratio de dégâts par balayage,Proporción del daño de barrido,es-ES
+rebond,Rebote,es-ES
+recul d'attaque,Empuje de ataque,es-ES
+Reforços de zumbis,Refuerzos zombi,es-ES
+Reibungsfaktor,Modificador de fricción,es-ES
+renforts de zombies,Refuerzos zombi,es-ES
+Repulsão do ataque,Empuje de ataque,es-ES
+Resistenza al contraccolpo,Resistencia al empuje,es-ES
+Resistenza al contraccolpo delle esplosioni,Resistencia al empuje de las explosiones,es-ES
+Resistência da armadura,Dureza de armadura,es-ES
+Resistência à repulsão,Resistencia al empuje,es-ES
+Resistência à repulsão de explosões,Resistencia al empuje de las explosiones,es-ES
+Rinforzi zombi,Refuerzos zombi,es-ES
+robustesse,Dureza de armadura,es-ES
+résistance au recul,Resistencia al empuje,es-ES
+résistance au recul des explosions,Resistencia al empuje de las explosiones,es-ES
+Rüstung,Armadura,es-ES
+Rüstungshärte,Dureza de armadura,es-ES
+Safe Fall Distance,Distancia de caída segura,es-ES
+Saldırı Hasarı,Daño de ataque,es-ES
+Saldırı Hızı,Velocidad de ataque,es-ES
+Saldırı Savurması,Empuje de ataque,es-ES
+Salute massima,Salud máxima,es-ES
+Sauerstoffbonus,Oxígeno extra,es-ES
+Savrulma Direnci,Resistencia al empuje,es-ES
+Scala,Escala,es-ES
+Scale,Escala,es-ES
+Schleichgeschwindigkeit,Velocidad al agacharse,es-ES
+Schritthöhe,Altura de paso,es-ES
+Schwerkraft,Gravedad,es-ES
+Schwungschadensverhältnis,Proporción del daño de barrido,es-ES
+Sekme,Rebote,es-ES
+Sichere Fallhöhe,Distancia de caída segura,es-ES
+Sinh lực tối đa,Salud máxima,es-ES
+Sneaking Speed,Velocidad al agacharse,es-ES
+Solidità dell'armatura,Dureza de armadura,es-ES
+Sorte,Suerte,es-ES
+Speed,Velocidad,es-ES
+Sprungstärke,Potencia de salto,es-ES
+Standfestigkeit,Resistencia al empuje,es-ES
+Step Height,Altura de paso,es-ES
+Su Altında Kazım Hızı,Velocidad al romper bloques sumergido,es-ES
+Submerged Mining Speed,Velocidad al romper bloques sumergido,es-ES
+Suda Hareket Verimliliği,Eficiencia de movimiento acuático,es-ES
+Sweeping Damage Ratio,Proporción del daño de barrido,es-ES
+Sürtünme Düzenleyici,Modificador de fricción,es-ES
+Sức bật lùi,Empuje de ataque,es-ES
+Sức nhảy,Potencia de salto,es-ES
+Sức nhảy của ngựa,Potencia de salto del caballo,es-ES
+Sức tấn công,Daño de ataque,es-ES
+taille,Escala,es-ES
+Taxa de dano lateral,Proporción del daño de barrido,es-ES
+Tempo di combustione,Duración de quemadura,es-ES
+temps en feu,Duración de quemadura,es-ES
+Thời gian cháy,Duración de quemadura,es-ES
+Trọng lực,Gravedad,es-ES
+Tỉ lệ sát thương quét cạnh,Proporción del daño de barrido,es-ES
+Tốc độ,Velocidad,es-ES
+Tốc độ bay,Velocidad de vuelo,es-ES
+Tốc độ phá khối,Velocidad al romper bloques,es-ES
+Tốc độ tấn công,Velocidad de ataque,es-ES
+Tốc độ đi rón rén,Velocidad al agacharse,es-ES
+Tốc độ đào dưới nước,Velocidad al romper bloques sumergido,es-ES
+Unterwasser‐Abbaugeschwindigkeit,Velocidad al romper bloques sumergido,es-ES
+Uçma Hızı,Velocidad de vuelo,es-ES
+Uçuş Hızı,Velocidad de vuelo,es-ES
+Varlık Etkileşim Mesafesi,Rango de interacción con entidades,es-ES
+Velocidade,Velocidad,es-ES
+Velocidade de ataque,Velocidad de ataque,es-ES
+Velocidade de mineração submersa,Velocidad al romper bloques sumergido,es-ES
+Velocidade de quebra de blocos,Velocidad al romper bloques,es-ES
+Velocidade do voo,Velocidad de vuelo,es-ES
+Velocidade furtiva,Velocidad al agacharse,es-ES
+Velocità,Velocidad,es-ES
+Velocità d'attacco,Velocidad de ataque,es-ES
+Velocità d'estrazione sott'acqua,Velocidad al romper bloques sumergido,es-ES
+Velocità di distruzione dei blocchi,Velocidad al romper bloques,es-ES
+Velocità furtiva,Velocidad al agacharse,es-ES
+Velocità in volo,Velocidad de vuelo,es-ES
+Vida máxima,Salud máxima,es-ES
+vie maximale,Salud máxima,es-ES
+vitesse accroupie,Velocidad al agacharse,es-ES
+vitesse d'attaque,Velocidad de ataque,es-ES
+vitesse de destruction des blocs,Velocidad al romper bloques,es-ES
+vitesse de minage sous l'eau,Velocidad al romper bloques sumergido,es-ES
+vitesse de vol,Velocidad de vuelo,es-ES
+Wasser‐Bewegungseffizienz,Eficiencia de movimiento acuático,es-ES
+Water Movement Efficiency,Eficiencia de movimiento acuático,es-ES
+Waypoint Receive Range,Rango de recepción del punto de referencia,es-ES
+Waypoint Transmit Range,Rango de transmisión del punto de referencia,es-ES
+Wegpunkt‐Empfangsreichweite,Rango de recepción del punto de referencia,es-ES
+Wegpunkt‐Sendereichweite,Rango de transmisión del punto de referencia,es-ES
+Yanma Süresi,Duración de quemadura,es-ES
+Yer Çekimi,Gravedad,es-ES
+Yol Noktası Alma Mesafesi,Rango de recepción del punto de referencia,es-ES
+Yol Noktası İletme Mesafesi,Rango de transmisión del punto de referencia,es-ES
+Zombi Takviyesi,Refuerzos zombi,es-ES
+Zombie Reinforcements,Refuerzos zombi,es-ES
+Zombie-Verstärkung,Refuerzos zombi,es-ES
+Zombie‐Verstärkung,Refuerzos zombi,es-ES
+Zıplama Gücü,Potencia de salto,es-ES
+Zırh,Armadura,es-ES
+Zırh Sertliği,Dureza de armadura,es-ES
+Ölçek,Escala,es-ES
+Độ bền của áo giáp,Dureza de armadura,es-ES
+Độ bền áo giáp,Dureza de armadura,es-ES
+Độ cao rơi xuống an toàn,Distancia de caída segura,es-ES
+Độ nảy,Rebote,es-ES
+Şans,Suerte,es-ES
+Безопасная высота падения,Distancia de caída segura,es-ES
+Бонус к кислороду,Oxígeno extra,es-ES
+Броня,Armadura,es-ES
+Везение,Suerte,es-ES
+Время горения,Duración de quemadura,es-ES
+Высота шага,Altura de paso,es-ES
+Гравитация,Gravedad,es-ES
+Дальность взаимодействия с блоками,Rango de interacción con bloques,es-ES
+Дальность взаимодействия с сущностями,Rango de interacción con entidades,es-ES
+Дальность видимости имени,Distancia del identificador,es-ES
+Дальность видимости счёта под именем,Distancia del marcador de puntuación,es-ES
+Дальность обнаружения маркеров,Rango de recepción del punto de referencia,es-ES
+Дальность передачи маркера,Rango de transmisión del punto de referencia,es-ES
+Дальность приманивания,Radio de atracción de criaturas,es-ES
+Диапазон преследования моба,Rango de seguimiento,es-ES
+Коэффициент разящего удара,Proporción del daño de barrido,es-ES
+Максимальное здоровье,Salud máxima,es-ES
+Множитель урона от падения,Multiplicador de daño por caída,es-ES
+Модификатор сопротивления воздуха,Modificador de resistencia del aire,es-ES
+Модификатор трения,Modificador de fricción,es-ES
+Отбрасывание при атаке,Empuje de ataque,es-ES
+Отдалённость камеры,Distancia de la cámara,es-ES
+Подкрепление зомби,Refuerzos zombi,es-ES
+Предел поглощения,Absorción máxima,es-ES
+Размер,Escala,es-ES
+Сила прыжка,Potencia de salto,es-ES
+Сила прыжка лошади,Potencia de salto del caballo,es-ES
+Скорость,Velocidad,es-ES
+Скорость атаки,Velocidad de ataque,es-ES
+Скорость добычи под водой,Velocidad al romper bloques sumergido,es-ES
+Скорость подкрадывания,Velocidad al agacharse,es-ES
+Скорость полёта,Velocidad de vuelo,es-ES
+Скорость разрушения блоков,Velocidad al romper bloques,es-ES
+Сопротивление к отбрасыванию,Resistencia al empuje,es-ES
+Сопротивление к отбрасыванию взрывом,Resistencia al empuje de las explosiones,es-ES
+Твёрдость брони,Dureza de armadura,es-ES
+Упругость,Rebote,es-ES
+Урон при атаке,Daño de ataque,es-ES
+Эффективность добычи,Eficiencia al romper bloques,es-ES
+Эффективность передвижения,Eficiencia de movimiento,es-ES
+Эффективность передвижения в воде,Eficiencia de movimiento acuático,es-ES
+กระดอนโจมตี,Empuje de ataque,es-ES
+กำลังเสริมซอมบี้,Refuerzos zombi,es-ES
+ขนาด,Escala,es-ES
+ความต้านทานการกระดอน,Resistencia al empuje,es-ES
+ความต้านทานการกระดอนจากระเบิด,Resistencia al empuje de las explosiones,es-ES
+ความสูงของขั้นก้าว,Altura de paso,es-ES
+ความเด้ง,Rebote,es-ES
+ความเร็ว,Velocidad,es-ES
+ความเร็วการขุดใต้น้ำ,Velocidad al romper bloques sumergido,es-ES
+ความเร็วการทำลายบล็อก,Velocidad al romper bloques,es-ES
+ความเร็วการบิน,Velocidad de vuelo,es-ES
+ความเร็วการย่อง,Velocidad al agacharse,es-ES
+ความเร็วโจมตี,Velocidad de ataque,es-ES
+ความแข็งแกร่งของเกราะ,Dureza de armadura,es-ES
+ความแรงการกระโดด,Potencia de salto,es-ES
+ดาเมจโจมตี,Daño de ataque,es-ES
+ดูดซับสูงสุด,Absorción máxima,es-ES
+ตัวคูณดาเมจจากการตก,Multiplicador de daño por caída,es-ES
+ตัวดัดแปรแรงต้านอากาศ,Modificador de resistencia del aire,es-ES
+ตัวดัดแปรแรงเสียดทาน,Modificador de fricción,es-ES
+ประสิทธิภาพการขุด,Eficiencia al romper bloques,es-ES
+ประสิทธิภาพการเคลื่อนที่,Eficiencia de movimiento,es-ES
+ประสิทธิภาพการเคลื่อนที่ใต้น้ำ,Eficiencia de movimiento acuático,es-ES
+ระยะการตกที่ปลอดภัย,Distancia de caída segura,es-ES
+ระยะการรับเวย์พอยต์,Rango de recepción del punto de referencia,es-ES
+ระยะการล่อของม็อบ,Radio de atracción de criaturas,es-ES
+ระยะการส่งผ่านเวย์พอยต์,Rango de transmisión del punto de referencia,es-ES
+ระยะคะแนนใต้ป้ายชื่อ,Distancia del marcador de puntuación,es-ES
+ระยะที่ม็อบติดตาม,Rango de seguimiento,es-ES
+ระยะปฏิสัมพันธ์กับบล็อก,Rango de interacción con bloques,es-ES
+ระยะปฏิสัมพันธ์กับเอนทิตี้,Rango de interacción con entidades,es-ES
+ระยะป้ายชื่อ,Distancia del identificador,es-ES
+ระยะห่างกล้อง,Distancia de la cámara,es-ES
+ระยะเวลาติดไฟ,Duración de quemadura,es-ES
+ออกซิเจนพิเศษ,Oxígeno extra,es-ES
+อัตราส่วนดาเมจแบบกวาด,Proporción del daño de barrido,es-ES
+เกราะ,Armadura,es-ES
+เลือดสูงสุด,Salud máxima,es-ES
+แรงม้ากระโดด,Potencia de salto del caballo,es-ES
+แรงโน้มถ่วง,Gravedad,es-ES
+โชค,Suerte,es-ES
+なぎ払いダメージの比率,Proporción del daño de barrido,es-ES
+ウェイポイント伝達距離,Rango de transmisión del punto de referencia,es-ES
+ウェイポイント受信距離,Rango de recepción del punto de referencia,es-ES
+ウマの跳躍力,Potencia de salto del caballo,es-ES
+エンティティ操作範囲,Rango de interacción con entidades,es-ES
+カメラ距離,Distancia de la cámara,es-ES
+サイズ,Escala,es-ES
+スニーク速度,Velocidad al agacharse,es-ES
+ゾンビの増援,Refuerzos zombi,es-ES
+ネームタグの表示距離,Distancia del identificador,es-ES
+ネームタグ下のスコアの表示距離,Distancia del marcador de puntuación,es-ES
+ノックバック,Empuje de ataque,es-ES
+ノックバック力,Empuje de ataque,es-ES
+ノックバック耐性,Resistencia al empuje,es-ES
+ブロック操作範囲,Rango de interacción con bloques,es-ES
+ブロック破壊速度,Velocidad al romper bloques,es-ES
+僵尸增援,Refuerzos zombi,es-ES
+击退,Empuje de ataque,es-ES
+击退抗性,Resistencia al empuje,es-ES
+名牌分数距离,Distancia del marcador de puntuación,es-ES
+名牌距离,Distancia del identificador,es-ES
+名稱標籤分數距離,Distancia del marcador de puntuación,es-ES
+名稱標籤距離,Distancia del identificador,es-ES
+大きさ,Escala,es-ES
+大小,Escala,es-ES
+安全摔落高度,Distancia de caída segura,es-ES
+安全落下高度,Distancia de caída segura,es-ES
+实体交互距离,Rango de interacción con entidades,es-ES
+實體互動距離,Rango de interacción con entidades,es-ES
+尺寸,Escala,es-ES
+幸运值,Suerte,es-ES
+幸運,Suerte,es-ES
+弹性,Rebote,es-ES
+弾性係数,Rebote,es-ES
+彈性,Rebote,es-ES
+抗擊退,Resistencia al empuje,es-ES
+抗爆炸擊退,Resistencia al empuje de las explosiones,es-ES
+护甲值,Armadura,es-ES
+挖掘效率,Eficiencia al romper bloques,es-ES
+採掘効率,Eficiencia al romper bloques,es-ES
+摔落伤害倍数,Multiplicador de daño por caída,es-ES
+摔落傷害倍率,Multiplicador de daño por caída,es-ES
+摩擦係数,Modificador de fricción,es-ES
+摩擦力修正係數,Modificador de fricción,es-ES
+摩擦力修正系数,Modificador de fricción,es-ES
+擊退,Empuje de ataque,es-ES
+攻击伤害,Daño de ataque,es-ES
+攻击速度,Velocidad de ataque,es-ES
+攻撃力,Daño de ataque,es-ES
+攻撃速度,Velocidad de ataque,es-ES
+攻擊傷害,Daño de ataque,es-ES
+攻擊速度,Velocidad de ataque,es-ES
+方块交互距离,Rango de interacción con bloques,es-ES
+方块破坏速度,Velocidad al romper bloques,es-ES
+方塊互動距離,Rango de interacción con bloques,es-ES
+方塊破壞速度,Velocidad al romper bloques,es-ES
+最大伤害吸收值,Absorción máxima,es-ES
+最大体力,Salud máxima,es-ES
+最大傷害吸收值,Absorción máxima,es-ES
+最大生命值,Salud máxima,es-ES
+最大行走高度,Altura de paso,es-ES
+最高生命值,Salud máxima,es-ES
+横扫伤害比率,Proporción del daño de barrido,es-ES
+橫掃傷害率,Proporción del daño de barrido,es-ES
+殭屍增援隊,Refuerzos zombi,es-ES
+段差上限,Altura de paso,es-ES
+水下挖掘速度,Velocidad al romper bloques sumergido,es-ES
+水中挖掘速度,Velocidad al romper bloques sumergido,es-ES
+水中採掘速度,Velocidad al romper bloques sumergido,es-ES
+水中移动效率,Eficiencia de movimiento acuático,es-ES
+水中移動効率,Eficiencia de movimiento acuático,es-ES
+水中移動效率,Eficiencia de movimiento acuático,es-ES
+潛行速度,Velocidad al agacharse,es-ES
+潜行速度,Velocidad al agacharse,es-ES
+炎上時間,Duración de quemadura,es-ES
+燃燒時間,Duración de quemadura,es-ES
+爆炸击退抗性,Resistencia al empuje de las explosiones,es-ES
+爆発ノックバック耐性,Resistencia al empuje de las explosiones,es-ES
+生物引誘範圍,Radio de atracción de criaturas,es-ES
+生物引诱范围,Radio de atracción de criaturas,es-ES
+生物跟随距离,Rango de seguimiento,es-ES
+生物追蹤範圍,Rango de seguimiento,es-ES
+盔甲,Armadura,es-ES
+盔甲強度,Dureza de armadura,es-ES
+盔甲韧性,Dureza de armadura,es-ES
+着火时间,Duración de quemadura,es-ES
+移动效率,Eficiencia de movimiento,es-ES
+移動効率,Eficiencia de movimiento,es-ES
+移動效率,Eficiencia de movimiento,es-ES
+移動速度,Velocidad,es-ES
+空气阻力修正系数,Modificador de resistencia del aire,es-ES
+空気抵抗係数,Modificador de resistencia del aire,es-ES
+空氣阻力修正係數,Modificador de resistencia del aire,es-ES
+落下ダメージ倍率,Multiplicador de daño por caída,es-ES
+衝撃吸収レベルの上限,Absorción máxima,es-ES
+路径点传输距离,Rango de transmisión del punto de referencia,es-ES
+路径点接收距离,Rango de recepción del punto de referencia,es-ES
+路徑點傳輸距離,Rango de transmisión del punto de referencia,es-ES
+路徑點接收距離,Rango de recepción del punto de referencia,es-ES
+跳跃力度,Potencia de salto,es-ES
+跳躍力,Potencia de salto,es-ES
+速度,Velocidad,es-ES
+運,Suerte,es-ES
+酸素ボーナス,Oxígeno extra,es-ES
+重力,Gravedad,es-ES
+鏡頭距離,Distancia de la cámara,es-ES
+镜头距离,Distancia de la cámara,es-ES
+防具強度,Dureza de armadura,es-ES
+防御力,Armadura,es-ES
+額外氧氣,Oxígeno extra,es-ES
+额外氧气,Oxígeno extra,es-ES
+飛行速度,Velocidad de vuelo,es-ES
+飞行速度,Velocidad de vuelo,es-ES
+馬跳躍力,Potencia de salto del caballo,es-ES
+马匹跳跃能力,Potencia de salto del caballo,es-ES
+개체 상호 작용 범위,Rango de interacción con entidades,es-ES
+걸음 높이,Altura de paso,es-ES
+경로점 발신 범위,Rango de transmisión del punto de referencia,es-ES
+경로점 수신 범위,Rango de recepción del punto de referencia,es-ES
+공격 밀침 세기,Empuje de ataque,es-ES
+공격 속도,Velocidad de ataque,es-ES
+공격 피해,Daño de ataque,es-ES
+공기 저항력 변경자,Modificador de resistencia del aire,es-ES
+낙하 피해 배수,Multiplicador de daño por caída,es-ES
+마찰력 변경자,Modificador de fricción,es-ES
+말 점프 강도,Potencia de salto del caballo,es-ES
+몹 따름 범위,Rango de seguimiento,es-ES
+몹 유인 범위,Radio de atracción de criaturas,es-ES
+밀침 저항,Resistencia al empuje,es-ES
+방어,Armadura,es-ES
+방어 강도,Dureza de armadura,es-ES
+배율,Escala,es-ES
+블록 상호 작용 범위,Rango de interacción con bloques,es-ES
+블록 파괴 속도,Velocidad al romper bloques,es-ES
+비행 속도,Velocidad de vuelo,es-ES
+산소 추가,Oxígeno extra,es-ES
+속도,Velocidad,es-ES
+수중 이동 효율,Eficiencia de movimiento acuático,es-ES
+수중 채굴 속도,Velocidad al romper bloques sumergido,es-ES
+안전 낙하 거리,Distancia de caída segura,es-ES
+연소 시간,Duración de quemadura,es-ES
+웅크렸을 때 속도,Velocidad al agacharse,es-ES
+이동 효율,Eficiencia de movimiento,es-ES
+이름표 거리,Distancia del identificador,es-ES
+이름표 점수 거리,Distancia del marcador de puntuación,es-ES
+점프 세기,Potencia de salto,es-ES
+좀비 증원,Refuerzos zombi,es-ES
+중력,Gravedad,es-ES
+채굴 효율,Eficiencia al romper bloques,es-ES
+최대 생명력,Salud máxima,es-ES
+최대 흡수,Absorción máxima,es-ES
+카메라 거리,Distancia de la cámara,es-ES
+크기,Escala,es-ES
+탄성,Rebote,es-ES
+폭발 밀침 저항,Resistencia al empuje de las explosiones,es-ES
+행운,Suerte,es-ES
+휩쓸기 피해 비율,Proporción del daño de barrido,es-ES
