@@ -1,4 +1,4 @@
-# 游戏翻译术语库 / Game-translation-terminology-database / ゲーム翻訳用語集
+﻿# 游戏翻译术语库 / Game-translation-terminology-database / ゲーム翻訳用語集
 
 ## [English](README_EN.md) [日本語](README_JP.md)
 
@@ -27,7 +27,9 @@
 
 **鸣潮**：[wuwa-translate-bot](https://github.com/My-Denia/wuwa-translate-bot)；[WutheringData](https://github.com/Dimbreath/WutheringData)；[WutheringWavesUID](https://github.com/CM-Edelweiss/WutheringWavesUID)；[WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
 
-**我的世界（Minecraft）**：[mcmeta](https://github.com/misode/mcmeta)；[minecraft-data](https://github.com/PrismarineJS/minecraft-data)；[minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets)；[Minecraft Wiki 译名标准化](https://zh.minecraft.wiki/w/Minecraft_Wiki:译名标准化)
+**猫之城**：[DataTable · game/CatFantasy](https://github.com/PackageInstaller/DataTable/tree/game/CatFantasy)；[CatFantasy-2.18.1](https://github.com/Moli13337/CatFantasy-2.18.1)
+
+**我的世界**：[mcmeta](https://github.com/misode/mcmeta)；[minecraft-data](https://github.com/PrismarineJS/minecraft-data)；[minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets)；[Minecraft Wiki 译名标准化](https://zh.minecraft.wiki/w/Minecraft_Wiki:译名标准化)
 
 ## 免责声明
 

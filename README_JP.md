@@ -1,4 +1,4 @@
-# ゲーム翻訳用語集 / Game-translation-terminology-database / 游戏翻译术语库
+﻿# ゲーム翻訳用語集 / Game-translation-terminology-database / 游戏翻译术语库
 
 ## [中文](README.md) [English](README_EN.md)
 
@@ -27,6 +27,8 @@
 **ブルーアーカイブ（Blue Archive）**: [ba-storybook](https://github.com/HePudding/ba-storybook); [blue-archive](https://github.com/ba-archive/blue-archive); [bluearchive-data](https://github.com/arisu-archive/bluearchive-data); [BlueArchive](https://github.com/RedBeanN/BlueArchive)
 
 **鳴潮（Wuthering Waves）**: [wuwa-translate-bot](https://github.com/My-Denia/wuwa-translate-bot); [WutheringData](https://github.com/Dimbreath/WutheringData); [WutheringWavesUID](https://github.com/CM-Edelweiss/WutheringWavesUID); [WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
+
+**キャットファンタジー（Cat Fantasy）**: [DataTable · game/CatFantasy](https://github.com/PackageInstaller/DataTable/tree/game/CatFantasy)；[CatFantasy-2.18.1](https://github.com/Moli13337/CatFantasy-2.18.1)
 
 **マインクラフト（Minecraft）**: [mcmeta](https://github.com/misode/mcmeta); [minecraft-data](https://github.com/PrismarineJS/minecraft-data); [minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets); [Minecraft Wiki 訳名標準化](https://zh.minecraft.wiki/w/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96)
 
