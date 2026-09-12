@@ -2,7 +2,7 @@
 
 ## [中文](README.md) [English](README_EN.md)
 
-主に「没入型翻訳（Immersive Translation）」などのAI翻訳ソフトウェアで使用することを目的とした用語集です。
+「没入型翻訳（Immersive Translation）」などのAI翻訳ソフトウェアで使用することを主な目的とした用語集です。
 
 本用語集に収録されている用語は、主に管理者自身が日常的に必要とする翻訳用語を収集し、関連するAIソフトウェアの支援を受けて整理・作成したものです。
 
@@ -12,6 +12,8 @@
 
 2. リポジトリ全体をクローンまたはダウンロードし、その中から必要なファイルを選択して使用してください。
 
+3. 2つ目の方法と同様に、処理済みのファイルをまとめてダウンロードした後、関連するソフトウェアやCodexなどのAI支援ツールを使用して、さらに処理することもできます。**この方法を利用する場合は、本プロジェクトが参照している関連リポジトリのソースコードをあらかじめダウンロードしておく必要があります。**
+
 ## 使用した関連コンテンツ
 
 **アズールレーン（Azur Lane）**: [AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData); [AzurLaneLuaScripts](https://github.com/AzurLaneTools/AzurLaneLuaScripts)
@@ -20,7 +22,11 @@
 
 **原神（Genshin Impact）**: [genshin-db](https://github.com/theBowja/genshin-db); [genshin-langdata](https://github.com/xicri/genshin-langdata)
 
-**アークナイツ（Arknights）**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite)；[ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata)；[Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
+**アークナイツ（Arknights）**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite); [ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata); [Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
+
+**ブルーアーカイブ（Blue Archive）**: [ba-storybook](https://github.com/HePudding/ba-storybook); [blue-archive](https://github.com/ba-archive/blue-archive); [bluearchive-data](https://github.com/arisu-archive/bluearchive-data); [BlueArchive](https://github.com/RedBeanN/BlueArchive)
+
+**鳴潮（Wuthering Waves）**: [wuwa-translate-bot](https://github.com/My-Denia/wuwa-translate-bot); [WutheringData](https://github.com/Dimbreath/WutheringData); [WutheringWavesUID](https://github.com/CM-Edelweiss/WutheringWavesUID); [WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
 
 ## 免責事項
 
@@ -28,9 +34,9 @@
 
 ### 1. 非公式プロジェクト
 
-本プロジェクトおよびその管理者は、**本プロジェクトに関連するゲームの開発会社、パブリッシャー、販売会社、配信会社、運営会社、著作権者、その他の関連企業・団体とは、いかなる所属関係、許諾関係、提携関係、代理関係、または公式な代表関係も有していません。**
+本プロジェクトおよびその管理者は、**本プロジェクトに関連するゲームの開発会社、パブリッシャー、販売会社、代理店、運営会社、著作権者、その他の関連企業・団体とは、いかなる所属関係、許諾関係、提携関係、代理関係、または公式な代表関係も有していません。**
 
-特に明記されていない限り、本プロジェクトに含まれるいかなる内容も、**関連するゲーム企業または権利者の公式見解、公式名称、公式用語、公式翻訳、または公式ローカライズを示すものではありません。**
+特に明記されていない限り、本プロジェクトに含まれるいかなる内容も、**関連するゲーム企業または権利者の公式見解、公式名称、公式用語、または公式翻訳を示すものではありません。**
 
 ### 2. 知的財産権
 
@@ -69,7 +75,7 @@ AI翻訳システムには一定の不確実性があるため、本プロジェ
 
 ### 5. 利用者の責任
 
-本プロジェクトの内容は、学習、研究、個人的な翻訳支援、およびその他の合法的な目的でのみ使用されることを想定しています。
+本プロジェクトの内容は、学習、研究、個人的な翻訳支援、およびその他の合法的な目的で使用されることを想定しています。
 
 利用者は、本プロジェクトおよび本プロジェクトに基づいて生成、整理、または編集されたコンテンツの利用が、利用者の所在する地域に適用される法令、および関連するサービス、ソフトウェア、ゲーム等の利用規約に適合していることを、自らの責任において確認するものとします。
 
@@ -77,7 +83,7 @@ AI翻訳システムには一定の不確実性があるため、本プロジェ
 
 ### 6. 権利者からのご連絡
 
-ゲーム開発会社、パブリッシャー、販売会社、配信会社、著作権者、商標権者、その他の関連する権利者が、本プロジェクトに含まれるコンテンツについて、自己の正当な権利を侵害している、不適切に使用されている、記載内容が正確ではない、またはその他の対応が必要であると判断した場合は、GitHub Issues、Pull Request、またはその他の公開されている連絡手段を通じて、プロジェクト管理者までご連絡ください。
+ゲーム開発会社、パブリッシャー、代理店、著作権者、商標権者、その他の関連する権利者が、本プロジェクトに含まれるコンテンツについて、自己の正当な権利を侵害している、不適切に使用されている、記載内容が正確ではない、またはその他の対応が必要であると判断した場合は、GitHub Issues、Pull Request、またはその他の公開されている連絡手段を通じて、プロジェクト管理者までご連絡ください。
 
 権利者から合理的な申し出を受けた場合、管理者は該当する内容を確認し、状況に応じて修正または削除等の対応を行います。
 
@@ -92,5 +98,3 @@ AI翻訳システムには一定の不確実性があるため、本プロジェ
 **Game-translation-terminology-database は独立した個人プロジェクトであり、上記のいずれのゲームおよびその関連企業・団体とも関係ありません。**
 
 **Game-translation-terminology-database is an independent personal project and is not affiliated with, endorsed by, sponsored by, or officially connected with any of the games, developers, publishers, distributors, operators, or rights holders mentioned in this repository.**
-
-**本プロジェクトに掲載されているゲームタイトル、商標、キャラクター、その他の関連する知的財産は、それぞれの権利者に帰属します。**
