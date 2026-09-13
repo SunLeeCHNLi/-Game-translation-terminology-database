@@ -20,8 +20,11 @@ genshin-glossary/
 │       └── ...
 ├── zh-TW/
 ├── en-US/ ... vi-VN/         # 共 14 个语言文件夹
-└── _counts.json              # 各语言、各类目的条目数统计
+└── （生成元数据已移至同级 ../tools/glossary_counts.json）
 ```
+
+> 本目录由同级 `tools/build_main_glossary.js` 生成，构建元数据（各语言、各类目的条目数与行数统计）
+> 存放于同级 `tools/glossary_counts.json`，不在本目录内。
 
 ## 文件格式
 
@@ -29,8 +32,8 @@ genshin-glossary/
 
 | source | target | tgt_lng |
 | --- | --- | --- |
-| Enterprise | 企业 | zh-CN |
-| エンタープライズ | 企业 | zh-CN |
+| Alhacén | 艾尔海森 | zh-CN |
+| Alhaitham | 艾尔海森 | zh-CN |
 
 含义：对于 `tgt_lng` 指定的目标语言，`target` 是译文，`source` 是**其它任一语言**的原文。
 即每个语言文件夹内，同一条目会以其余 13 种语言分别作为 `source` 各出现一行（重复行与同形行已合并）。
@@ -77,9 +80,9 @@ genshin-glossary/
 | windgliders | `windgliders.csv` | 18 | 211 |
 | namecards | `namecards.csv` | 289 | 3,606 |
 | geographies | `geographies.csv` | 268 | 3,389 |
-| achievements | `achievements.csv` | 1548 | 19,463 |
+| achievements | `achievements.csv` | 1,548 | 19,463 |
 | adventureranks | `adventureranks.csv` | 21 | 158 |
-| TCG | `TCG/*.csv` | 2743 | 26,304 |
+| TCG | `TCG/*.csv` | 2,743 | 26,304 |
 
 ### TCG 子类目
 
@@ -89,7 +92,7 @@ genshin-glossary/
 | character-cards | `TCG/character-cards.csv` | 149 |
 | enemy-cards | `TCG/enemy-cards.csv` | 134 |
 | summons | `TCG/summons.csv` | 152 |
-| status-effects | `TCG/status-effects.csv` | 1159 |
+| status-effects | `TCG/status-effects.csv` | 1,159 |
 | keywords | `TCG/keywords.csv` | 139 |
 | card-backs | `TCG/card-backs.csv` | 39 |
 | card-boxes | `TCG/card-boxes.csv` | 7 |
@@ -136,3 +139,14 @@ genshin-glossary/
 
 - 导入 CAT 工具（Trados、memoQ、Phrase 等）时，选择对应目标语言的 CSV 直接作为术语库导入即可。
 - 文件名即类目名，可按需合并；如需「全部类目合并为单一文件」或增加 `src_lng`（源语言）列，可随时生成。
+
+## 生成说明
+
+本目录由同级 `tools/build_main_glossary.js` 从 [genshin-db](https://github.com/theBowja/genshin-db) 源码生成：
+
+```bash
+node tools/build_main_glossary.js
+```
+
+该脚本会在输出目录写出全部 14 个语言文件夹、27 个 CSV，以及统计元数据 `glossary_counts.json`；
+仓库内保存的那一份统计元数据位于 `tools/glossary_counts.json`。本 README 的表格由 `tools/readme_main.js` 生成。

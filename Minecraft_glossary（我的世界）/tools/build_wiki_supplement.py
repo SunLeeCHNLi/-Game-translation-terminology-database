@@ -6,6 +6,12 @@ Source : https://zh.minecraft.wiki/w/Minecraft_Wiki:译名标准化  (rendered t
          fetched with action=parse&variant=zh-cn and &variant=zh-tw)
 Input  : SRC_DIR/wiki_std_cn.json, SRC_DIR/wiki_std_tw.json
 Output : OUT_DIR/zh-CN/<category>.csv, OUT_DIR/zh-TW/<category>.csv
+         + tools/supplement_counts.json  (entry/row counts, read by make_readme.py
+                                           and verify_output.py)
+
+SRC_DIR is an external working directory (not part of this repository).  The metadata
+file deliberately lands in this script's own tools/ folder and NOT inside OUT_DIR,
+which holds data only.
 
 The wiki lists standardised (Crowdin-aligned) names per category; the two fetches
 give the 大陆简体 and 台灣正體 column of every row.  Only Chinese is covered by
@@ -14,8 +20,9 @@ this source, so the supplement only contains zh-CN / zh-TW folders.
 import json, os, re, csv, html, collections
 
 SRC_DIR = r"E:\Download\BT\Codex_input"
-OUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                       "minecraft-glossary-supplement")
+TOOLS_DIR = os.path.dirname(os.path.abspath(__file__))
+OUT_DIR = os.path.join(os.path.dirname(TOOLS_DIR), "minecraft-glossary-supplement")
+COUNTS_PATH = os.path.join(TOOLS_DIR, "supplement_counts.json")
 
 # section headings appear in a fixed order; the traditional-Chinese variant uses
 # different wording (生態域 / 附魔 / 遊戲難易度和模式 ...) so map by position
@@ -128,7 +135,7 @@ def main():
         "categories": {s: {"entries": len(t)} for s, t in sorted(pairs.items())},
         "rows": counts,
     }
-    with open(os.path.join(OUT_DIR, "_counts.json"), "w", encoding="utf-8") as fh:
+    with open(COUNTS_PATH, "w", encoding="utf-8") as fh:
         json.dump(payload, fh, ensure_ascii=False, indent=2)
 
 

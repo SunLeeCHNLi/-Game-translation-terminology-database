@@ -1,4 +1,8 @@
-"""Map every MultiText key to exactly one glossary category."""
+"""Map every MultiText key to exactly one glossary category.
+
+Pure text-key classification: this module reads no files and owns no output
+paths, so moving the build scripts into ``tools/`` needs no change here.
+"""
 from __future__ import annotations
 
 import re

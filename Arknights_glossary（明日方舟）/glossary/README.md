@@ -5,18 +5,24 @@
 ## 目录结构
 
 ```
-glossary/
-├── zh-CN/                    # 目标语言 = 简体中文
-│   ├── 01_干员名称.csv
-│   ├── 02_干员异格.csv
-│   ├── ...
-│   ├── 20_游戏机制.csv
-│   └── _all.json             # 上述 20 个文件的合并版（JSON）
-├── zh-TW/   (同结构)
-├── en-US/   (同结构)
-├── ja-JP/   (同结构)
-├── ko-KR/   (同结构)
-└── _summary.json             # 各分类词条数与覆盖率统计
+Arknights_glossary（明日方舟）/
+├── glossary/                 # 术语库数据产品
+│   ├── README.md             # 本说明（由 tools/write_readme.py 生成）
+│   ├── zh-CN/                # 目标语言 = 简体中文
+│   │   ├── 01_干员名称.csv
+│   │   ├── 02_干员异格.csv
+│   │   ├── ...
+│   │   ├── 20_游戏机制.csv
+│   │   └── _all.json         # 上述 20 个文件的合并版（JSON）
+│   ├── zh-TW/   (同结构)
+│   ├── en-US/   (同结构)
+│   ├── ja-JP/   (同结构)
+│   └── ko-KR/   (同结构)
+├── tools/                    # 生成脚本与元数据
+│   ├── build_glossary.py     # 读取 _data/gamedata，输出 glossary/
+│   ├── write_readme.py       # 依据 _summary.json 生成 glossary/README.md
+│   └── _summary.json         # 各分类词条数与覆盖率统计
+└── README.md                 # 游戏总说明（中文）
 ```
 
 ## 文件格式
@@ -25,8 +31,10 @@ glossary/
 
 | source | target | tgt_lng |
 | ------ | ------ | ------- |
-| Enterprise | 企业 | zh-CN |
-| エンタープライズ | 企业 | zh-CN |
+| Amiya | 阿米娅 | zh-CN |
+| アーミヤ | 阿米娅 | zh-CN |
+| 阿米婭 | 阿米娅 | zh-CN |
+| 아미야 | 阿米娅 | zh-CN |
 
 - `target`：该文件所属目标语言的官方译名。
 - `tgt_lng`：目标语言标签，等于所在文件夹名。
@@ -61,7 +69,7 @@ glossary/
 | 19_UI与系统术语 | 2,479 | 2,459 | i18n/string_map.txt — 客户端全部界面文本 |
 | 20_游戏机制 | 247 | 236 | tip_table 战斗提示 + GUIDE 任务 + 基建房间 + 特性/模组描述术语 |
 
-合计 **23,840** 个词条，导出 **266,111** 行。（5 个语言文件夹 × 20 个分类合计）
+合计 **23,840** 个词条，导出 **266,111** 行**（5 个语言文件夹 × 20 个分类）
 
 ## 各语言分布
 
@@ -88,7 +96,9 @@ glossary/
 | 19_UI与系统术语 | 8,789 | 8,799 | 8,822 | 8,813 | 8,777 |
 | 20_游戏机制 | 944 | 944 | 924 | 939 | 936 |
 
-（表内为 CSV 行数；同一词条会因多语言 source 产生多行）
+（「词条数」= 同一分类下参与对齐的**唯一 ID 数**；「五语齐全」= 5 个区服都取到文本的 ID 数；
+「各语言分布」表内为 **CSV 数据行数**——同一词条会因多语言 source 产生多行，且 source 与 target
+写法完全相同的行不会写入，因此各语言行数略有差异。）
 
 ## 数据来源与版本
 
@@ -127,6 +137,10 @@ glossary/
 ## 复现
 
 ```
-python build_glossary.py     # 读取 _data/gamedata，输出 glossary/
+python tools/build_glossary.py     # 读取 <游戏根>/_data/gamedata，输出 <游戏根>/glossary/
+python tools/write_readme.py       # 依据 tools/_summary.json 重新生成本文件
 ```
+
+> `_data/gamedata` 是外部数据目录（各服官方客户端解包表格），**未随仓库分发**，
+> 需先按「数据来源与版本」一节自行准备后才能复现。
 

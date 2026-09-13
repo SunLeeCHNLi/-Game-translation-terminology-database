@@ -1,6 +1,11 @@
 const fs=require('fs'),path=require('path');
+// External generation pipeline (do not relocate): MAIN/SUP are the working output
+// directories written by build_main_glossary.js / build_supplement.mjs.
 const MAIN='E:/Download/BT/Codex_input/genshin-glossary';
 const SUP='E:/Download/BT/Codex_input/genshin-glossary-supplement';
+// Build metadata produced by build_main_glossary.js. The copy kept in this repository
+// lives at tools/glossary_counts.json (moved out of genshin-glossary/ during the
+// repository tools/ consolidation); keep the two in sync.
 const counts=JSON.parse(fs.readFileSync(path.join(MAIN,'_counts.json'),'utf8'));
 const langNames={ 'zh-CN':'简体中文','zh-TW':'繁體中文','en-US':'English','ja-JP':'日本語','ko-KR':'한국어','fr-FR':'Français','de-DE':'Deutsch','es-ES':'Español','ru-RU':'Русский','pt-BR':'Português','it-IT':'Italiano','tr-TR':'Türkçe','th-TH':'ภาษาไทย','vi-VN':'Tiếng Việt' };
 const langOrder=Object.keys(langNames);
@@ -9,7 +14,8 @@ const tcgOrder=['action-cards','character-cards','enemy-cards','summons','status
 const concepts=counts.concepts;
 const byCode={}; for(const l of counts.languages) byCode[l.code]=l;
 
-function header(t){ return '| source | target | tgt_lng |\n| --- | --- | --- |\n| Enterprise | 企业 | zh-CN |\n| エンタープライズ | 企业 | zh-CN |\n'; }
+// Example rows must exist verbatim in genshin-glossary/zh-CN/characters.csv.
+function header(t){ return '| source | target | tgt_lng |\n| --- | --- | --- |\n| Alhacén | 艾尔海森 | zh-CN |\n| Alhaitham | 艾尔海森 | zh-CN |\n'; }
 
 let md = [];
 md.push('# 原神（Genshin Impact）多语言术语库');
@@ -34,8 +40,11 @@ md.push('│       ├── action-cards.csv');
 md.push('│       └── ...');
 md.push('├── zh-TW/');
 md.push('├── en-US/ ... vi-VN/         # 共 14 个语言文件夹');
-md.push('└── _counts.json              # 各语言、各类目的条目数统计');
+md.push('└── （生成元数据已移至同级 ../tools/glossary_counts.json）');
 md.push('```');
+md.push('');
+md.push('> 本目录由同级 `tools/build_main_glossary.js` 生成，构建元数据（各语言、各类目的条目数与行数统计）');
+md.push('> 存放于同级 `tools/glossary_counts.json`，不在本目录内。');
 md.push('');
 md.push('## 文件格式');
 md.push('');
@@ -63,15 +72,15 @@ md.push('| --- | --- | --- | --- |');
 for(const c of catOrder){
   const vals=langOrder.map(l=>byCode[l].categories[c]).filter(v=>v!==undefined);
   const avg=Math.round(vals.reduce((a,b)=>a+b,0)/vals.length);
-  md.push(`| ${c} | \`${c}.csv\` | ${concepts[c]} | ${avg.toLocaleString()} |`);
+  md.push(`| ${c} | \`${c}.csv\` | ${concepts[c].toLocaleString()} | ${avg.toLocaleString()} |`);
 }
-md.push('| TCG | `TCG/*.csv` | ' + tcgOrder.reduce((a,t)=>a+concepts[t],0) + ' | ' + Math.round(langOrder.reduce((a,l)=>a+byCode[l].tcgRows,0)/14).toLocaleString() + ' |');
+md.push('| TCG | `TCG/*.csv` | ' + tcgOrder.reduce((a,t)=>a+concepts[t],0).toLocaleString() + ' | ' + Math.round(langOrder.reduce((a,l)=>a+byCode[l].tcgRows,0)/14).toLocaleString() + ' |');
 md.push('');
 md.push('### TCG 子类目');
 md.push('');
 md.push('| 子类目 | 文件 | 词条数 |');
 md.push('| --- | --- | --- |');
-for(const t of tcgOrder) md.push(`| ${t} | \`TCG/${t}.csv\` | ${concepts[t]} |`);
+for(const t of tcgOrder) md.push(`| ${t} | \`TCG/${t}.csv\` | ${concepts[t].toLocaleString()} |`);
 md.push('');
 md.push('## 各语言总行数');
 md.push('');
@@ -81,7 +90,9 @@ let grand=0; const fileCount = catOrder.length + tcgOrder.length;
 for(const c of langOrder){ const l=byCode[c]; grand+=l.rows; md.push(`| \`${c}\` | ${fileCount} | ${l.rows.toLocaleString()} |`); }
 md.push(`| **合计** | **${fileCount*14}** | **${grand.toLocaleString()}** |`);
 md.push('');
-md.push('> 跨类目存在同名词条（例如某武器名同时出现在 `weapons` 与 `TCG` 中），因此各文件行数相加会大于全局去重后的词条数，属正常现象。全局唯一 `source/target/tgt_lng` 组合数约为 1,065,154。');
+// 1,069,738 = number of distinct `source,target,tgt_lng` data lines across all 27 CSVs
+// of all 14 language directories (verified by direct count over the generated files).
+md.push('> 跨类目存在同名词条（例如某武器名同时出现在 `weapons` 与 `TCG` 中），因此各文件行数相加会大于全局去重后的词条数，属正常现象。全局唯一 `source/target/tgt_lng` 组合数为 1,069,738。');
 md.push('');
 md.push('## 数据清洗说明');
 md.push('');
@@ -101,6 +112,17 @@ md.push('## 使用提示');
 md.push('');
 md.push('- 导入 CAT 工具（Trados、memoQ、Phrase 等）时，选择对应目标语言的 CSV 直接作为术语库导入即可。');
 md.push('- 文件名即类目名，可按需合并；如需「全部类目合并为单一文件」或增加 `src_lng`（源语言）列，可随时生成。');
+md.push('');
+md.push('## 生成说明');
+md.push('');
+md.push('本目录由同级 `tools/build_main_glossary.js` 从 [genshin-db](https://github.com/theBowja/genshin-db) 源码生成：');
+md.push('');
+md.push('```bash');
+md.push('node tools/build_main_glossary.js');
+md.push('```');
+md.push('');
+md.push('该脚本会在输出目录写出全部 14 个语言文件夹、27 个 CSV，以及统计元数据 `glossary_counts.json`；');
+md.push('仓库内保存的那一份统计元数据位于 `tools/glossary_counts.json`。本 README 的表格由 `tools/readme_main.js` 生成。');
 md.push('');
 fs.writeFileSync(path.join(MAIN,'README.md'), md.join('\n'), 'utf8');
 console.log('main README written,', md.length, 'lines');

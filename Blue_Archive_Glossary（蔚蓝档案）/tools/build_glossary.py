@@ -8,10 +8,10 @@
   ba-archive-blue-archive              剧情阅览器索引 + 剧情编辑器 Excel 表
   ba-storybook                         社区整理的 JP→CN 剧情对照表
 
-用法：
+用法（脚本位于 <游戏目录>/tools/ 下，输出默认写回游戏目录）：
 
-  python build_glossary.py
-  BA_INPUT_DIR="D:\\src" BA_OUTPUT_DIR="D:\\out" python build_glossary.py
+  python tools/build_glossary.py
+  BA_INPUT_DIR="D:\\src" BA_OUTPUT_DIR="D:\\out" python tools/build_glossary.py
 
 输出：按目标语言拆分的 6 套术语库，每套内部再按分类归档。
 """
@@ -28,8 +28,10 @@ import sys
 from functools import lru_cache
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+GAME = os.path.dirname(HERE)
 INPUT = os.path.abspath(os.environ.get("BA_INPUT_DIR", r"E:\Download\BT\Codex_input"))
-OUT = os.path.abspath(os.environ.get("BA_OUTPUT_DIR", HERE))
+# 脚本已移入 <游戏目录>/tools/，术语库数据在游戏目录下，故默认输出到上一级
+OUT = os.path.abspath(os.environ.get("BA_OUTPUT_DIR", GAME))
 
 REDBEAN = os.path.join(INPUT, "RedBeanN-BlueArchive", "assets", "data")
 ARCHIVE = os.path.join(INPUT, "ba-archive-blue-archive")
@@ -826,10 +828,13 @@ def category_tree(categories):
     lines.extend(
         [
             "  multilingual/            六语并排总表",
-            "  README.md                本说明",
-            "  build_glossary.py        生成脚本",
-            "  extract_ts_titles.mjs    剧情标题提取脚本（需要 Node.js）",
-            "  ts_titles.json           剧情标题提取结果（脚本的缓存）",
+            "  tools/                   生成脚本与生成元数据",
+            "    build_glossary.py      生成脚本",
+            "    extract_ts_titles.mjs  剧情标题提取脚本（需要 Node.js）",
+            "    ts_titles.json         剧情标题提取结果（脚本的缓存）",
+            "  README.md                本说明（简体中文）",
+            "  README_EN.md             英文说明",
+            "  README_JP.md             日文说明",
         ]
     )
     return CRLF.join(lines)
@@ -970,7 +975,7 @@ def write_root_readme(categories, per_language, total_entries):
             "- `04_story_title`、`06_location`、`09_scenario_character` 以剧情与社区资料为底，会用官方表按完全相同的写法自动补齐语种，因此并非每条都六语齐全；`09_scenario_character` 里的中日韩学生名同样取自官方表，只有官方表没有的 NPC 才使用客户端名表；",
             "- 同一名称存在多条数据时（例如不同等级的同名敌人）会合并为一条；与目标语言写法完全相同的条目不会写入术语表；",
             "- 极少数词条（约 1%–3%）会在**同一个目标语言文件内**出现一条 `source` 对应多个 `target` 的情况，多来自同名不同物的短词（例如 `Normal` 既是装甲类型也是道具稀有度），或简繁两套客户端写法并存；按 `source` 去重的工具只会保留其中一条，需要区分时请用 `_terms.csv` 里的 `id` 与 `src_table` 回查上下文；",
-            "- 重新生成：`python build_glossary.py`（默认读取 `E:\\Download\\BT\\Codex_input`，可用环境变量 `BA_INPUT_DIR` / `BA_OUTPUT_DIR` 覆盖）。",
+            "- 重新生成：`python tools/build_glossary.py`（默认读取 `E:\\Download\\BT\\Codex_input`，可用环境变量 `BA_INPUT_DIR` / `BA_OUTPUT_DIR` 覆盖；脚本位于 `tools/`，因此命令行必须带 `tools/` 前缀）。",
             "",
         ]
     )

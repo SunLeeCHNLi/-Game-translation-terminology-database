@@ -1,4 +1,4 @@
-﻿# 《猫之城》Cat Fantasy 术语库 — Bahasa Indonesia（`id-ID`）
+# 《猫之城》Cat Fantasy 术语库 — Bahasa Indonesia（`id-ID`）
 
 本文件夹是**以 `id-ID` 为目标语言**的术语库：每一条都是「其他语言词条 → Bahasa Indonesia」的对照，
 共 **9,916** 条词条、**28,827** 行对照（`tgt_lng` 列固定为 `id-ID`）。
@@ -34,4 +34,9 @@
 ## 说明
 
 - 译文来自游戏官方多语言文本库，按同一文本键对齐，非二次翻译；
-- 文件编码为 UTF-8 with BOM，Excel 双击即可正确显示文字。
+- **本套只有 `13_ui` 一个分类有数据**：官方只对界面文本（I18N 表）做了印尼语本地化，
+  游戏数据表（`Setting/Data`）中不存在印尼语列，角色、技能、道具、关卡等实体名称没有官方印尼文
+  可抽取，本库也不自行翻译，因此表中另外 15 个分类的条数与对照行数均为 0（对应 CSV 只有表头）；
+- `13_ui` 取自 `Setting/I18N` 哈希文本表，按 `Id` 键与其余六种语言对齐；
+- 文件编码为 UTF-8 with BOM + CRLF，Excel 双击即可正确显示文字；
+- 本目录的逐条说明另见语言根目录的 `README.md`（Bahasa Indonesia）与 `README_zh-CN.md`（简体中文）。

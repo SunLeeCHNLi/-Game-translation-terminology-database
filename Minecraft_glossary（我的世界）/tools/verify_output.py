@@ -1,7 +1,12 @@
 import csv, os, json, collections, sys
 sys.stdout.reconfigure(encoding="utf-8")
-ROOT=r"C:\Users\admin\Documents\GitHub\-Game-translation-terminology-database\Minecraft_glossary（我的世界）"
+# game root = parent of this tools/ folder; no absolute path baked in
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
 LANGS={"zh-CN","zh-TW","en-US","ja-JP","ko-KR","fr-FR","de-DE","es-ES","ru-RU","pt-BR","it-IT","tr-TR","th-TH","vi-VN"}
+# per-glossary metadata now lives in tools/, next to this script
+COUNTS={ "minecraft-glossary": os.path.join(HERE, "glossary_counts.json"),
+         "minecraft-glossary-supplement": os.path.join(HERE, "supplement_counts.json") }
 problems=[]; total=0; counts=collections.defaultdict(collections.Counter)
 for base in ("minecraft-glossary","minecraft-glossary-supplement"):
     for dirpath,_,fs in os.walk(os.path.join(ROOT,base)):
@@ -20,7 +25,7 @@ for base in ("minecraft-glossary","minecraft-glossary-supplement"):
                     if (row[0],row[1]) in seen: problems.append((base,lang,cat,"dup",row))
                     seen.add((row[0],row[1])); n+=1
                 counts[(base,lang)][cat]=n; total+=n
-    d=json.load(open(os.path.join(ROOT,base,"_counts.json"),encoding="utf-8"))
+    d=json.load(open(COUNTS[base],encoding="utf-8"))
     for lang,cats in d["rows"].items():
         for c,v in cats.items():
             if counts[(base,lang)][c]!=v:

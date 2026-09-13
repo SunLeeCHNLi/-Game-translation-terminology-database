@@ -23,8 +23,11 @@ genshin-glossary-supplement/
 │       ├── quests.csv
 │       └── ...
 ├── zh-TW/  en-US/  ja-JP/
-└── _counts.json
+└── （生成元数据已移至同级 ../tools/supplement_counts.json）
 ```
+
+> 本目录由同级 `tools/build_supplement.mjs` 生成，构建元数据（各语言、各类目的行数统计）
+> 存放于同级 `tools/supplement_counts.json`，不在本目录内。
 
 ## 文件格式
 
@@ -32,8 +35,8 @@ genshin-glossary-supplement/
 
 | source | target | tgt_lng |
 | --- | --- | --- |
-| Harbinger of Dawn | 黎明神剑 | zh-CN |
-| 黎明の神剣 | 黎明神剑 | zh-CN |
+| Blackmarrow Lantern | 鸟髄孑灯 | zh-CN |
+| 鳥髄の狐灯 | 鸟髄孑灯 | zh-CN |
 
 ## 类目
 
@@ -76,3 +79,17 @@ genshin-glossary-supplement/
 | `ja-JP` | 19 | 13,308 | 283 |
 
 > 行数指叠加前的新增行数；实际使用时与主词库合并即可。
+> 「主类目文件」= 9 个与主词库同名的主类目 + `extra/` 下的 10 个额外类目，合计 19 个 CSV，另有 1 个 `_variants.csv`。
+
+## 生成说明
+
+本目录由同级 `tools/build_supplement.mjs` 生成，它读取两个输入：`xicri/genshin-langdata` 的数据集，
+以及**主词库 `genshin-glossary/` 已生成的全部 CSV**（用于剔除重复行）：
+
+```bash
+node tools/build_main_glossary.js   # 先生成主词库
+node tools/build_supplement.mjs     # 再生成补充词库（依赖上一步的产物）
+```
+
+该脚本会在输出目录写出 4 个语言文件夹及统计元数据 `supplement_counts.json`；
+仓库内保存的那一份统计元数据位于 `tools/supplement_counts.json`。本 README 的表格由 `tools/readme_sup.js` 生成。

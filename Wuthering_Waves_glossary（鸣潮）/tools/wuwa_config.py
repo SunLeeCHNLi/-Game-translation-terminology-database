@@ -1,4 +1,11 @@
-"""Shared configuration and source-data helpers for the WuWa glossary build."""
+"""Shared configuration and source-data helpers for the WuWa glossary build.
+
+This module holds no paths of its own on disk: it reads the external datamined
+source trees under ``WUWA_DATA_ROOT`` (default ``E:\\Download\\BT\\Codex_input``)
+and the caller passes the ``_cfgmap_cache.pkl`` path, which
+``build_wuwa_glossary.py`` resolves to ``tools/_cfgmap_cache.pkl`` beside the
+scripts.
+"""
 from __future__ import annotations
 
 import json

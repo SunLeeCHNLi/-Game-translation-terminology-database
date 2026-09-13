@@ -12,17 +12,26 @@
 ## 目录结构
 
 ```
-minecraft-glossary/
-├── zh-CN/                    # 目标语言 = 简体中文
-│   ├── blocks.csv
-│   ├── items.csv
-│   ├── ...
-│   └── extra/                # 系统与文本类目
-│       ├── subtitles.csv
-│       └── ...
-├── zh-TW/
-├── en-US/ ... vi-VN/         # 共 14 个语言文件夹
-└── _counts.json              # 各语言、各类目的条目数统计
+minecraft-glossary（我的世界）/
+├── minecraft-glossary/       # 主词库：14 种目标语言 × 34 个类目
+│   ├── zh-CN/                # 目标语言 = 简体中文
+│   │   ├── blocks.csv        # 主类目（游戏内容），19 个文件
+│   │   ├── items.csv
+│   │   ├── ...
+│   │   └── extra/            # 系统与文本类目，15 个文件
+│   │       ├── subtitles.csv
+│   │       └── ...
+│   ├── zh-TW/
+│   ├── en-US/ ... vi-VN/     # 共 14 个语言文件夹
+│   └── README.md             # 本文件
+├── minecraft-glossary-supplement/   # 补充词库（Wiki 译名标准化），2 种语言 × 13 个类目
+└── tools/                    # 生成脚本与元数据
+    ├── build_glossary.py
+    ├── build_wiki_supplement.py
+    ├── make_readme.py
+    ├── verify_output.py
+    ├── glossary_counts.json      # 主词库各语言、各类目条目数统计
+    └── supplement_counts.json    # 补充词库各语言、各类目条目数统计
 ```
 
 ## 文件格式
@@ -31,17 +40,15 @@ minecraft-glossary/
 
 | source | target | tgt_lng |
 | --- | --- | --- |
-| Enterprise | 企业 | zh-CN |
-| エンタープライズ | 企业 | zh-CN |
+| Abbaueffizienz | 挖掘效率 | zh-CN |
+| 採掘効率 | 挖掘效率 | zh-CN |
 
 含义：对于 `tgt_lng` 指定的目标语言，`target` 是译文，`source` 是**其它任一语言**的原文。
 即每个语言文件夹内，同一条目会以其余 13 种语言分别作为 `source` 各出现一行（重复行与同形行已合并）。
 
 ## 语言代码
 
-| 语言文件夹 | 语言 | Minecraft 语言文件 |
-| --- | --- | --- |
-| 语言文件夹 | 语言 | locale |
+| 语言文件夹 | 语言 | Minecraft 语言文件 locale |
 | --- | --- | --- |
 | `zh-CN` | 简体中文 | `zh_cn` |
 | `zh-TW` | 繁體中文 | `zh_tw` |
@@ -60,7 +67,9 @@ minecraft-glossary/
 
 ## 类目与条目数
 
-「条目」指该分类下的**去重词条数**（一个词条 = 游戏中的一个名称对象）；「行数」为简体中文文件夹内该类目 CSV 的数据行数。
+「词条数」指该分类在官方语言文件里对应的**游戏名称对象数**（该分类键的条数，含少数官方未翻译的键），
+即这一分类在这一目标语言下参与对照的条目总量；「行数」为该语言文件夹内该类目 CSV 的数据行数。
+两个数字不同：一个条目会以其余 13 种语言分别作为 `source` 各生成一行。
 
 ### 主类目（游戏内容）
 
@@ -142,3 +151,12 @@ minecraft-glossary/
 - 文件名即类目名，可按需合并；如需「全部类目合并为单一文件」或增加 `src_lng`（源语言）列，可随时生成。
 - 重新生成词库：先准备官方语言文件（`lang/<locale>.json`），再运行 `tools/build_glossary.py`；前缀到类目的完整映射见该脚本中的 `CATEGORIES` 表。
 - 官方语言文件共有 144 种语言变体，本词库按需选取其中 14 种；若需其它语言，在 `tools/build_glossary.py` 的 `LANG_FILES` 中补充后重新生成即可。
+- 本 README 由 `tools/make_readme.py` 生成，本页数字取自 `tools/glossary_counts.json`；请勿手工改动数字。
+
+## 免责声明
+
+本目录为个人整理与维护的**非官方**翻译术语资料库，仅用于个人学习、研究及辅助 AI 翻译软件（包括但不限于沉浸式翻译）的术语匹配。本库与《我的世界》（Minecraft）的开发商、发行商、代理商、运营商、版权方不存在任何从属、授权、合作、代理或官方代表关系；库中译名不代表官方立场，不保证始终准确、完整或与游戏当前版本一致，**不应被视为任何游戏的官方术语表或官方本地化文件**。游戏名称、角色名称、专有名词、商标等知识产权均归各自权利人所有。本库不主张对上述第三方知识产权的任何权利。使用本项目及基于其产生的翻译结果所引发的一切责任由使用者自行承担。如权利人认为内容不当，欢迎通过 GitHub Issues / Pull Request 联系，维护者将核实后修改或删除。完整条款见仓库根目录 `README.md` / `README_EN.md` / `README_JP.md`。
+
+---
+
+**Game-translation-terminology-database 是一个独立的个人项目，与本游戏及其开发商、发行商、代理商、版权方不存在任何隶属、授权、合作或代理关系。**

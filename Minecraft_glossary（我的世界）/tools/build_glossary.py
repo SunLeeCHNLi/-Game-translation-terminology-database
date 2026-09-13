@@ -6,6 +6,12 @@ Source : misode/mcmeta (branch `assets`) -> assets/minecraft/lang/<locale>.json
          (mirrors the official Minecraft language files shipped with the game)
 Input  : SRC_DIR/mcmeta_lang/<locale>.json
 Output : OUT_DIR/<lang>/<category>.csv  and  OUT_DIR/<lang>/extra/<category>.csv
+         + tools/glossary_counts.json   (entry/row counts, read by make_readme.py
+                                          and verify_output.py)
+
+SRC_DIR is an external working directory (not part of this repository); the CSVs it
+produces are the only thing committed under OUT_DIR.  The metadata file deliberately
+lands in this script's own tools/ folder and NOT inside OUT_DIR, which holds data only.
 
 CSV format (same as the rest of this repository):
     source,target,tgt_lng
@@ -17,7 +23,9 @@ Identical rows (source == target) and duplicate rows are merged away.
 import json, os, csv, collections
 
 SRC_DIR = r"E:\Download\BT\Codex_input"
-OUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "minecraft-glossary")
+TOOLS_DIR = os.path.dirname(os.path.abspath(__file__))
+OUT_DIR = os.path.join(os.path.dirname(TOOLS_DIR), "minecraft-glossary")
+COUNTS_PATH = os.path.join(TOOLS_DIR, "glossary_counts.json")
 
 LANG_FILES = [
     ("zh-CN", "zh_cn"), ("zh-TW", "zh_tw"), ("en-US", "en_us"), ("ja-JP", "ja_jp"),
@@ -153,7 +161,7 @@ def main():
         print(f"{code}: " + ", ".join(f"{k}={v}" for k, v in sorted(counts[code].items())))
 
     payload = {
-        "note": "entry count per category = number of CSV data rows in that language folder",
+        "note": "categories[*].entries = number of official language-file name objects bucketed into that category (language-independent, includes entries untranslated in the target language); rows[lang][category] = CSV data rows in that language folder",
         "languages": [{"code": c, "language": cn} for c, cn in
                       [("zh-CN", "简体中文"), ("zh-TW", "繁體中文"), ("en-US", "English"), ("ja-JP", "日本語"),
                        ("ko-KR", "한국어"), ("fr-FR", "Français"), ("de-DE", "Deutsch"), ("es-ES", "Español"),
@@ -163,7 +171,7 @@ def main():
                        [(n, s) for n, s, _, _ in CATEGORIES] + [("misc", "extra")]},
         "rows": counts,
     }
-    with open(os.path.join(OUT_DIR, "_counts.json"), "w", encoding="utf-8") as fh:
+    with open(COUNTS_PATH, "w", encoding="utf-8") as fh:
         json.dump(payload, fh, ensure_ascii=False, indent=2)
     print(f"\nTOTAL data rows = {total_rows}")
 

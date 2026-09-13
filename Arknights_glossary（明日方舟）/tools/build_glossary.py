@@ -2,9 +2,10 @@
 """Arknights multilingual glossary builder (zh-CN / zh-TW / en-US / ja-JP / ko-KR)."""
 import io, os, re, gc, csv, json, collections
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
-DATA = os.path.join(ROOT, "_data", "gamedata")
-OUT = os.path.join(ROOT, "glossary")
+ROOT = os.path.dirname(os.path.abspath(__file__))       # <game>/tools
+REPO = os.path.dirname(ROOT)                            # <game>
+DATA = os.path.join(REPO, "_data", "gamedata")          # 外部数据目录（未随仓库分发）
+OUT = os.path.join(REPO, "glossary")                    # <game>/glossary
 
 LANGS = [("zh-CN", "cn"), ("zh-TW", "tw"), ("en-US", "en"), ("ja-JP", "jp"), ("ko-KR", "kr")]
 CODES = [c for _, c in LANGS]
@@ -569,7 +570,7 @@ def main():
         s["records_all5"] = sum(1 for _, v in recs if len(v) == len(LANGS))
         s["present"] = {l: sum(1 for _, v in recs if l in v) for l, _ in LANGS}
     summary["generated"] = "Arknights gamedata (cn/tw/en/jp/kr)"
-    io.open(os.path.join(OUT, "_summary.json"), "w", encoding="utf-8").write(
+    io.open(os.path.join(ROOT, "_summary.json"), "w", encoding="utf-8").write(
         json.dumps(summary, ensure_ascii=False, indent=1))
     print(json.dumps({c: len(v) for c, v in CATS.items()}, ensure_ascii=False, indent=1))
 

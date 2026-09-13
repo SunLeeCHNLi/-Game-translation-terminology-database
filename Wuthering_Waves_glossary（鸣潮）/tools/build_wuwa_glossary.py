@@ -2,12 +2,15 @@
 
 Output layout (one folder per target language, one CSV per category):
 
-    wuwa-glossary/
+    <--out>/                       # repository copy: wuwa-glossary/
     |-- zh-CN/characters.csv
     |-- zh-CN/items.csv
     |-- ...
-    |-- th-TH/...
-    `-- _counts.json
+    `-- th-TH/...
+
+The per-language/category counts report is written next to this script so the
+repository copy lives at ``tools/_counts.json`` (override with ``--counts``);
+without ``--counts`` it falls back to ``<--out>/_counts.json``.
 
 Every CSV uses the shared ``source,target,tgt_lng`` schema: for the target
 language each entry is emitted once per *other* language carrying the same text
@@ -38,7 +41,13 @@ from wuwa_config import (  # noqa: E402
     normalize_text,
 )
 
-CACHE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "_cfgmap_cache.pkl")
+TOOLS_DIR = os.path.dirname(os.path.abspath(__file__))
+CACHE = os.path.join(TOOLS_DIR, "_cfgmap_cache.pkl")
+
+# The repository's metadata copy lives beside the scripts, not inside the
+# glossary output tree (it was moved from wuwa-glossary/ to tools/ together
+# with the build scripts).
+DEFAULT_COUNTS = os.path.join(TOOLS_DIR, "_counts.json")
 
 
 def write_csv(path: str, rows, code: str) -> int:
@@ -68,6 +77,9 @@ def collect_rows(keys, target_code, maps):
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--out", required=True, help="output glossary root")
+    parser.add_argument("--counts", default=DEFAULT_COUNTS,
+                        help="where to write the counts report "
+                             "(default: tools/_counts.json next to this script)")
     parser.add_argument("--with-dialogue", action="store_true",
                         help="also emit the dialogue category (very large)")
     parser.add_argument("--rebuild-cache", action="store_true")
@@ -177,9 +189,14 @@ def main() -> int:
             "languages": report,
             "concepts": concepts,
         }
-        with open(os.path.join(args.out, "_counts.json"), "w", encoding="utf-8") as fh:
+        counts_path = args.counts or os.path.join(args.out, "_counts.json")
+        counts_dir = os.path.dirname(os.path.abspath(counts_path))
+        if counts_dir:
+            os.makedirs(counts_dir, exist_ok=True)
+        with open(counts_path, "w", encoding="utf-8") as fh:
             json.dump(payload, fh, ensure_ascii=False, indent=2)
             fh.write("\n")
+        print(f"counts report: {counts_path}")
         print(f"\ntotal written: {total_bytes / 1048576:.1f} MiB")
     print(f"done in {time.time() - started:.1f}s")
     return 0

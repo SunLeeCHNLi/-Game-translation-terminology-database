@@ -1,5 +1,10 @@
 const fs=require('fs'),path=require('path');
+// External generation pipeline (do not relocate): SUP is the working output directory
+// written by build_supplement.mjs (which also reads ../genshin-glossary from there).
 const SUP='E:/Download/BT/Codex_input/genshin-glossary-supplement';
+// Build metadata produced by build_supplement.mjs. The copy kept in this repository
+// lives at tools/supplement_counts.json (moved out of genshin-glossary-supplement/
+// during the repository tools/ consolidation); keep the two in sync.
 const counts=JSON.parse(fs.readFileSync(path.join(SUP,'_counts.json'),'utf8'));
 const byCode={}; for(const l of counts.languages) byCode[l.code]=l;
 const langNames={ 'zh-CN':'简体中文','zh-TW':'繁體中文','en-US':'English','ja-JP':'日本語' };
@@ -32,8 +37,11 @@ md.push('│   └── extra/                # 主类目之外、原神翻译�
 md.push('│       ├── quests.csv');
 md.push('│       └── ...');
 md.push('├── zh-TW/  en-US/  ja-JP/');
-md.push('└── _counts.json');
+md.push('└── （生成元数据已移至同级 ../tools/supplement_counts.json）');
 md.push('```');
+md.push('');
+md.push('> 本目录由同级 `tools/build_supplement.mjs` 生成，构建元数据（各语言、各类目的行数统计）');
+md.push('> 存放于同级 `tools/supplement_counts.json`，不在本目录内。');
 md.push('');
 md.push('## 文件格式');
 md.push('');
@@ -41,8 +49,8 @@ md.push('与主词库完全一致（UTF-8 含 BOM、CRLF、RFC 4180 转义）：
 md.push('');
 md.push('| source | target | tgt_lng |');
 md.push('| --- | --- | --- |');
-md.push('| Harbinger of Dawn | 黎明神剑 | zh-CN |');
-md.push('| 黎明の神剣 | 黎明神剑 | zh-CN |');
+md.push('| Blackmarrow Lantern | 鸟髄孑灯 | zh-CN |');
+md.push('| 鳥髄の狐灯 | 鸟髄孑灯 | zh-CN |');
 md.push('');
 md.push('## 类目');
 md.push('');
@@ -71,6 +79,20 @@ md.push('| --- | --- | --- | --- |');
 for(const c of Object.keys(langNames)){ const l=byCode[c]; md.push(`| \`${c}\` | ${Object.keys(l.categories).length} | ${l.rows.toLocaleString()} | ${l.variantRows} |`); }
 md.push('');
 md.push('> 行数指叠加前的新增行数；实际使用时与主词库合并即可。');
+md.push('> 「主类目文件」= 9 个与主词库同名的主类目 + `extra/` 下的 10 个额外类目，合计 19 个 CSV，另有 1 个 `_variants.csv`。');
+md.push('');
+md.push('## 生成说明');
+md.push('');
+md.push('本目录由同级 `tools/build_supplement.mjs` 生成，它读取两个输入：`xicri/genshin-langdata` 的数据集，');
+md.push('以及**主词库 `genshin-glossary/` 已生成的全部 CSV**（用于剔除重复行）：');
+md.push('');
+md.push('```bash');
+md.push('node tools/build_main_glossary.js   # 先生成主词库');
+md.push('node tools/build_supplement.mjs     # 再生成补充词库（依赖上一步的产物）');
+md.push('```');
+md.push('');
+md.push('该脚本会在输出目录写出 4 个语言文件夹及统计元数据 `supplement_counts.json`；');
+md.push('仓库内保存的那一份统计元数据位于 `tools/supplement_counts.json`。本 README 的表格由 `tools/readme_sup.js` 生成。');
 md.push('');
 fs.writeFileSync(path.join(SUP,'README.md'), md.join('\n'), 'utf8');
 console.log('supplement README written,', md.length, 'lines');
