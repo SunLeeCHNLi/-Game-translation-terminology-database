@@ -22,6 +22,7 @@
 **星塔旅人**：[StellaSoraData](https://github.com/Hiro420/StellaSoraData)；[sstoy](https://github.com/JforPlay/sstoy)
 
 **原神**：[genshin-db](https://github.com/theBowja/genshin-db)；[genshin-langdata](https://github.com/xicri/genshin-langdata)
+
 **崩坏：星穹铁道**：[TurnBasedGameData](https://github.com/DimbreathBot/TurnBasedGameData)；[StarRailRes](https://github.com/Mar-7th/StarRailRes)；[StarRailStaticAPI](https://github.com/VizualAbstract/StarRailStaticAPI)；[StarRail_Dialogue_Browser](https://github.com/M1k0t0/StarRail_Dialogue_Browser)
 
 **明日方舟**: [ArknightsGameDataComposite](https://github.com/flandia/ArknightsGameDataComposite)；[ArknightsGamedata](https://github.com/ArknightsAssets/ArknightsGamedata)；[Arknights Translation Contrast](https://github.com/ArchyCillp/ArknightsTranslationContrast)
