@@ -10,32 +10,32 @@
 
 | 文件 | 分类 | 本语言记录数 |
 | --- | --- | ---: |
-| `01_character.csv` | 角色与 NPC | 2,905 |
-| `02_path.csv` | 命途 | 206 |
-| `03_element.csv` | 属性 | 149 |
-| `04_skill.csv` | 技能 | 5,239 |
-| `05_trace.csv` | 行迹 | 3,065 |
-| `06_eidolon.csv` | 星魂 | 5,563 |
-| `07_light_cone.csv` | 光锥 | 3,219 |
-| `08_relic.csv` | 遗器 | 2,743 |
-| `09_item.csv` | 道具 | 19,918 |
-| `10_material.csv` | 材料 | 6,090 |
-| `11_enemy.csv` | 敌人 | 9,701 |
-| `12_location.csv` | 地点 | 11,786 |
-| `13_faction.csv` | 阵营与组织 | 361 |
-| `14_quest.csv` | 任务 | 67,938 |
-| `15_stage.csv` | 关卡与副本 | 2,021 |
-| `16_event.csv` | 活动 | 14,762 |
-| `17_achievement.csv` | 成就 | 21,842 |
-| `18_simulated_universe.csv` | 模拟宇宙 | 20,586 |
-| `19_forgotten_hall.csv` | 忘却之庭 | 9,772 |
-| `20_story.csv` | 剧情 | 214 |
-| `21_world_lore.csv` | 世界观 | 1,206 |
-| `22_book.csv` | 书籍 | 11,337 |
-| `23_dialogue.csv` | 对话 | 60,386 |
-| `24_system.csv` | 系统 | 22,148 |
-| `25_ui.csv` | 界面 | 11,731 |
-| `26_other.csv` | 其他 | 2,216 |
+| `01_character（Nhân vật & NPC）.csv` | 角色与 NPC | 2,905 |
+| `02_path（Vận mệnh）.csv` | 命途 | 206 |
+| `03_element（Nguyên tố）.csv` | 属性 | 149 |
+| `04_skill（Kỹ năng）.csv` | 技能 | 5,239 |
+| `05_trace（Dấu vết）.csv` | 行迹 | 3,065 |
+| `06_eidolon（Tinh hồn）.csv` | 星魂 | 5,563 |
+| `07_light_cone（Nón ánh sáng）.csv` | 光锥 | 3,219 |
+| `08_relic（Di vật）.csv` | 遗器 | 2,743 |
+| `09_item（Vật phẩm）.csv` | 道具 | 19,918 |
+| `10_material（Nguyên liệu）.csv` | 材料 | 6,090 |
+| `11_enemy（Kẻ địch）.csv` | 敌人 | 9,701 |
+| `12_location（Địa điểm）.csv` | 地点 | 11,786 |
+| `13_faction（Phe phái & tổ chức）.csv` | 阵营与组织 | 361 |
+| `14_quest（Nhiệm vụ）.csv` | 任务 | 67,938 |
+| `15_stage（Ải & bí cảnh）.csv` | 关卡与副本 | 2,021 |
+| `16_event（Sự kiện）.csv` | 活动 | 14,762 |
+| `17_achievement（Thành tựu）.csv` | 成就 | 21,842 |
+| `18_simulated_universe（Vũ trụ mô phỏng）.csv` | 模拟宇宙 | 20,586 |
+| `19_forgotten_hall（Sảnh bị lãng quên）.csv` | 忘却之庭 | 9,772 |
+| `20_story（Cốt truyện）.csv` | 剧情 | 214 |
+| `21_world_lore（Thế giới quan）.csv` | 世界观 | 1,206 |
+| `22_book（Sách）.csv` | 书籍 | 11,337 |
+| `23_dialogue（Hội thoại）.csv` | 对话 | 60,386 |
+| `24_system（Hệ thống）.csv` | 系统 | 22,148 |
+| `25_ui（Giao diện）.csv` | 界面 | 11,731 |
+| `26_other（Khác）.csv` | 其他 | 2,216 |
 
 ## 说明
 

@@ -16,70 +16,70 @@
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `blocks` | 方块 | `blocks.csv` | 25,426 |
-| `items` | 物品 | `items.csv` | 9,115 |
-| `entities` | 实体 | `entities.csv` | 2,592 |
-| `biomes` | 生物群系 | `biomes.csv` | 835 |
-| `enchantments` | 魔咒 | `enchantments.csv` | 553 |
-| `effects` | 状态效果 | `effects.csv` | 514 |
-| `instruments` | 乐器 | `instruments.csv` | 98 |
-| `materials` | 盔甲纹饰材料 | `materials.csv` | 143 |
-| `paintings` | 画 | `paintings.csv` | 315 |
-| `attributes` | 属性 | `attributes.csv` | 590 |
-| `item-groups` | 物品栏分类 | `item-groups.csv` | 198 |
-| `jukebox-songs` | 唱片曲目 | `jukebox-songs.csv` | 42 |
-| `trim-patterns` | 盔甲纹饰图案 | `trim-patterns.csv` | 234 |
-| `colors` | 颜色 | `colors.csv` | 184 |
-| `statistics` | 统计 | `statistics.csv` | 1,143 |
-| `maps` | 地图 | `maps.csv` | 422 |
-| `music` | 音乐曲目 | `music.csv` | 192 |
-| `sound-categories` | 声音分类 | `sound-categories.csv` | 133 |
-| `game-modes` | 游戏模式 | `game-modes.csv` | 77 |
+| `blocks` | 方块 | `blocks（Bloklar）.csv` | 25,426 |
+| `items` | 物品 | `items（Eşyalar）.csv` | 9,115 |
+| `entities` | 实体 | `entities（Varlıklar）.csv` | 2,592 |
+| `biomes` | 生物群系 | `biomes（Biyomlar）.csv` | 835 |
+| `enchantments` | 魔咒 | `enchantments（Büyüler）.csv` | 553 |
+| `effects` | 状态效果 | `effects（Durum etkileri）.csv` | 514 |
+| `instruments` | 乐器 | `instruments（Enstrümanlar）.csv` | 98 |
+| `materials` | 盔甲纹饰材料 | `materials（Zırh süsleme malzemeleri）.csv` | 143 |
+| `paintings` | 画 | `paintings（Tablolar）.csv` | 315 |
+| `attributes` | 属性 | `attributes（Nitelikler）.csv` | 590 |
+| `item-groups` | 物品栏分类 | `item-groups（Eşya grupları）.csv` | 198 |
+| `jukebox-songs` | 唱片曲目 | `jukebox-songs（Müzik kutusu şarkıları）.csv` | 42 |
+| `trim-patterns` | 盔甲纹饰图案 | `trim-patterns（Zırh süsleme desenleri）.csv` | 234 |
+| `colors` | 颜色 | `colors（Renkler）.csv` | 184 |
+| `statistics` | 统计 | `statistics（İstatistikler）.csv` | 1,143 |
+| `maps` | 地图 | `maps（Haritalar）.csv` | 422 |
+| `music` | 音乐曲目 | `music（Müzik）.csv` | 192 |
+| `sound-categories` | 声音分类 | `sound-categories（Ses kategorileri）.csv` | 133 |
+| `game-modes` | 游戏模式 | `game-modes（Oyun modları）.csv` | 77 |
 
 ### `extra-`（系统与文本）
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `subtitles` | 字幕 | `extra-subtitles.csv` | 12,431 |
-| `death-messages` | 死亡消息 | `extra-death-messages.csv` | 1,354 |
-| `advancement-titles` | 进度标题 | `extra-advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | 进度描述 | `extra-advancement-descriptions.csv` | 1,650 |
-| `gamerules` | 游戏规则 | `extra-gamerules.csv` | 1,490 |
-| `commands` | 命令与参数 | `extra-commands.csv` | 10,765 |
-| `gui` | 界面文本 | `extra-gui.csv` | 6,751 |
-| `options` | 设置与按键 | `extra-options.csv` | 8,174 |
-| `multiplayer` | 多人游戏 | `extra-multiplayer.csv` | 2,021 |
-| `realms` | Realms | `extra-realms.csv` | 5,054 |
-| `world-management` | 世界管理 | `extra-world-management.csv` | 3,581 |
-| `resource-packs` | 资源包与数据包 | `extra-resource-packs.csv` | 761 |
-| `telemetry` | 遥测 | `extra-telemetry.csv` | 897 |
-| `dev-tools` | 开发与测试工具 | `extra-dev-tools.csv` | 1,811 |
-| `misc` | 其他 | `extra-misc.csv` | 516 |
+| `subtitles` | 字幕 | `extra-subtitles（Altyazılar）.csv` | 12,431 |
+| `death-messages` | 死亡消息 | `extra-death-messages（Ölüm mesajları）.csv` | 1,354 |
+| `advancement-titles` | 进度标题 | `extra-advancement-titles（İlerleme başlıkları）.csv` | 1,603 |
+| `advancement-descriptions` | 进度描述 | `extra-advancement-descriptions（İlerleme açıklamaları）.csv` | 1,650 |
+| `gamerules` | 游戏规则 | `extra-gamerules（Oyun kuralları）.csv` | 1,490 |
+| `commands` | 命令与参数 | `extra-commands（Komutlar ve argümanlar）.csv` | 10,765 |
+| `gui` | 界面文本 | `extra-gui（Arayüz metinleri）.csv` | 6,751 |
+| `options` | 设置与按键 | `extra-options（Ayarlar ve tuşlar）.csv` | 8,174 |
+| `multiplayer` | 多人游戏 | `extra-multiplayer（Çok oyunculu）.csv` | 2,021 |
+| `realms` | Realms | `extra-realms（Realms）.csv` | 5,054 |
+| `world-management` | 世界管理 | `extra-world-management（Dünya yönetimi）.csv` | 3,581 |
+| `resource-packs` | 资源包与数据包 | `extra-resource-packs（Kaynak ve veri paketleri）.csv` | 761 |
+| `telemetry` | 遥测 | `extra-telemetry（Telemetri）.csv` | 897 |
+| `dev-tools` | 开发与测试工具 | `extra-dev-tools（Geliştirme ve test araçları）.csv` | 1,811 |
+| `misc` | 其他 | `extra-misc（Diğer）.csv` | 516 |
 
 ### 文件清单
 
 ```text
 minecraft-glossary/
 <lang>/                       # 14 个语言文件夹
-|   blocks.csv
-|   items.csv
-|   entities.csv
-|   biomes.csv
-|   enchantments.csv
-|   effects.csv
-|   instruments.csv
-|   materials.csv
-|   paintings.csv
-|   attributes.csv
-|   item-groups.csv
-|   jukebox-songs.csv
-|   trim-patterns.csv
-|   colors.csv
-|   statistics.csv
-|   maps.csv
-|   music.csv
-|   sound-categories.csv
-|   game-modes.csv
+|   blocks（Bloklar）.csv
+|   items（Eşyalar）.csv
+|   entities（Varlıklar）.csv
+|   biomes（Biyomlar）.csv
+|   enchantments（Büyüler）.csv
+|   effects（Durum etkileri）.csv
+|   instruments（Enstrümanlar）.csv
+|   materials（Zırh süsleme malzemeleri）.csv
+|   paintings（Tablolar）.csv
+|   attributes（Nitelikler）.csv
+|   item-groups（Eşya grupları）.csv
+|   jukebox-songs（Müzik kutusu şarkıları）.csv
+|   trim-patterns（Zırh süsleme desenleri）.csv
+|   colors（Renkler）.csv
+|   statistics（İstatistikler）.csv
+|   maps（Haritalar）.csv
+|   music（Müzik）.csv
+|   sound-categories（Ses kategorileri）.csv
+|   game-modes（Oyun modları）.csv
 |   +-- extra-               # 系统与文本类分类
 |       |-- subtitles.csv
 |       |-- death-messages.csv

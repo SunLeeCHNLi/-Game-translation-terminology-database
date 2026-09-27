@@ -15,52 +15,52 @@
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `advancements` | 进度 | `advancements.csv` | 242 |
-| `biomes` | 生物群系 | `biomes.csv` | 117 |
-| `blocks` | 方块 | `blocks.csv` | 2,561 |
-| `effects` | 状态效果 | `effects.csv` | 73 |
-| `enchantments` | 魔咒 | `enchantments.csv` | 82 |
-| `entities` | 实体 | `entities.csv` | 289 |
-| `environment` | 环境 | `environment.csv` | 205 |
-| `game-content` | 游戏内容 | `game-content.csv` | 113 |
-| `game-modes` | 游戏模式 | `game-modes.csv` | 31 |
-| `game-versions` | 游戏版本 | `game-versions.csv` | 101 |
-| `items` | 物品 | `items.csv` | 1,178 |
-| `other` | 其他 | `other.csv` | 64 |
-| `technical` | 技术性内容 | `technical.csv` | 101 |
+| `advancements` | 进度 | `advancements（进度）.csv` | 242 |
+| `biomes` | 生物群系 | `biomes（生物群系）.csv` | 117 |
+| `blocks` | 方块 | `blocks（方块）.csv` | 2,561 |
+| `effects` | 状态效果 | `effects（状态效果）.csv` | 73 |
+| `enchantments` | 魔咒 | `enchantments（魔咒）.csv` | 82 |
+| `entities` | 实体 | `entities（实体）.csv` | 289 |
+| `environment` | 环境 | `environment（环境）.csv` | 205 |
+| `game-content` | 游戏内容 | `game-content（游戏内容）.csv` | 113 |
+| `game-modes` | 游戏模式 | `game-modes（游戏模式）.csv` | 31 |
+| `game-versions` | 游戏版本 | `game-versions（游戏版本）.csv` | 101 |
+| `items` | 物品 | `items（物品）.csv` | 1,178 |
+| `other` | 其他 | `other（其他）.csv` | 64 |
+| `technical` | 技术性内容 | `technical（技术性）.csv` | 101 |
 
 ### 文件清单
 
 ```text
 minecraft-glossary-supplement/
 +-- zh-CN/
-|   |-- advancements.csv
-|   |-- biomes.csv
-|   |-- blocks.csv
-|   |-- effects.csv
-|   |-- enchantments.csv
-|   |-- entities.csv
-|   |-- environment.csv
-|   |-- game-content.csv
-|   |-- game-modes.csv
-|   |-- game-versions.csv
-|   |-- items.csv
-|   |-- other.csv
-|   \-- technical.csv
+|   |-- advancements（进度）.csv
+|   |-- biomes（生物群系）.csv
+|   |-- blocks（方块）.csv
+|   |-- effects（状态效果）.csv
+|   |-- enchantments（魔咒）.csv
+|   |-- entities（实体）.csv
+|   |-- environment（环境）.csv
+|   |-- game-content（游戏内容）.csv
+|   |-- game-modes（游戏模式）.csv
+|   |-- game-versions（游戏版本）.csv
+|   |-- items（物品）.csv
+|   |-- other（其他）.csv
+|   \-- technical（技术性）.csv
 +-- zh-TW/
-|   |-- advancements.csv
-|   |-- biomes.csv
-|   |-- blocks.csv
-|   |-- effects.csv
-|   |-- enchantments.csv
-|   |-- entities.csv
-|   |-- environment.csv
-|   |-- game-content.csv
-|   |-- game-modes.csv
-|   |-- game-versions.csv
-|   |-- items.csv
-|   |-- other.csv
-|   \-- technical.csv
+|   |-- advancements（进度）.csv
+|   |-- biomes（生物群系）.csv
+|   |-- blocks（方块）.csv
+|   |-- effects（状态效果）.csv
+|   |-- enchantments（魔咒）.csv
+|   |-- entities（实体）.csv
+|   |-- environment（环境）.csv
+|   |-- game-content（游戏内容）.csv
+|   |-- game-modes（游戏模式）.csv
+|   |-- game-versions（游戏版本）.csv
+|   |-- items（物品）.csv
+|   |-- other（其他）.csv
+|   \-- technical（技术性）.csv
 ```
 
 ## 说明

@@ -1,6 +1,6 @@
 # Stella Sora Terminology Base — English (`en-US`)
 
-[← Back to the game overview](../README.md)
+[← Back to the game overview](../README.md) · [简体中文](README_zh-CN.md)
 
 This directory is the termbase **whose target language is `en-US` (English)**: every row aligns the wording of another language with English, giving **12288** entries and **46032** alignment rows. The `tgt_lng` column is always `en-US`, and the `source` column holds the wording of the same entry in `zh-CN` / `zh-TW` / `ja-JP` / `ko-KR`. For the complete five-language side-by-side view of each entry, see `00_master/README.md` and `../multilingual/00_master/`.
 

@@ -1,6 +1,6 @@
 # 我的世界（Minecraft） terim sözlüğü — Türkçe (`tr-TR`)
 
-[← Oyunun genel açıklamasına dön](../../README.md)
+[← Oyunun genel açıklamasına dön](../../README.md) · [简体中文](README_zh-CN.md)
 
 Bu dizin, **hedef dili Türkçe (`tr-TR`) olan** terim sözlüğüdür.
 **34 CSV dosyasında** (34 kategori: 19'u dizin kökünde, 15'i `extra-` içinde) toplam
@@ -17,70 +17,70 @@ alınmıştır; yeniden çeviri değildir.
 
 | Kategori | Konu | Dosya | Satır |
 | --- | --- | --- | --- |
-| `blocks` | Bloklar | `blocks.csv` | 25,426 |
-| `items` | Eşyalar | `items.csv` | 9,115 |
-| `entities` | Varlıklar | `entities.csv` | 2,592 |
-| `biomes` | Biyomlar | `biomes.csv` | 835 |
-| `enchantments` | Büyüler | `enchantments.csv` | 553 |
-| `effects` | Durum etkileri | `effects.csv` | 514 |
-| `instruments` | Enstrümanlar | `instruments.csv` | 98 |
-| `materials` | Süsleme malzemeleri | `materials.csv` | 143 |
-| `paintings` | Tablolar | `paintings.csv` | 315 |
-| `attributes` | Nitelikler | `attributes.csv` | 590 |
-| `item-groups` | Eşya grupları | `item-groups.csv` | 198 |
-| `jukebox-songs` | Müzik kutusu parçaları | `jukebox-songs.csv` | 42 |
-| `trim-patterns` | Süsleme desenleri | `trim-patterns.csv` | 234 |
-| `colors` | Renkler | `colors.csv` | 184 |
-| `statistics` | İstatistikler | `statistics.csv` | 1,143 |
-| `maps` | Haritalar | `maps.csv` | 422 |
-| `music` | Müzik parçaları | `music.csv` | 192 |
-| `sound-categories` | Ses kategorileri | `sound-categories.csv` | 133 |
-| `game-modes` | Oyun modları | `game-modes.csv` | 77 |
+| `blocks` | Bloklar | `blocks（Bloklar）.csv` | 25,426 |
+| `items` | Eşyalar | `items（Eşyalar）.csv` | 9,115 |
+| `entities` | Varlıklar | `entities（Varlıklar）.csv` | 2,592 |
+| `biomes` | Biyomlar | `biomes（Biyomlar）.csv` | 835 |
+| `enchantments` | Büyüler | `enchantments（Büyüler）.csv` | 553 |
+| `effects` | Durum etkileri | `effects（Durum etkileri）.csv` | 514 |
+| `instruments` | Enstrümanlar | `instruments（Enstrümanlar）.csv` | 98 |
+| `materials` | Süsleme malzemeleri | `materials（Zırh süsleme malzemeleri）.csv` | 143 |
+| `paintings` | Tablolar | `paintings（Tablolar）.csv` | 315 |
+| `attributes` | Nitelikler | `attributes（Nitelikler）.csv` | 590 |
+| `item-groups` | Eşya grupları | `item-groups（Eşya grupları）.csv` | 198 |
+| `jukebox-songs` | Müzik kutusu parçaları | `jukebox-songs（Müzik kutusu şarkıları）.csv` | 42 |
+| `trim-patterns` | Süsleme desenleri | `trim-patterns（Zırh süsleme desenleri）.csv` | 234 |
+| `colors` | Renkler | `colors（Renkler）.csv` | 184 |
+| `statistics` | İstatistikler | `statistics（İstatistikler）.csv` | 1,143 |
+| `maps` | Haritalar | `maps（Haritalar）.csv` | 422 |
+| `music` | Müzik parçaları | `music（Müzik）.csv` | 192 |
+| `sound-categories` | Ses kategorileri | `sound-categories（Ses kategorileri）.csv` | 133 |
+| `game-modes` | Oyun modları | `game-modes（Oyun modları）.csv` | 77 |
 
 ### `extra-` (sistem ve metin)
 
 | Kategori | Konu | Dosya | Satır |
 | --- | --- | --- | --- |
-| `subtitles` | Alt yazılar | `extra-subtitles.csv` | 12,431 |
-| `death-messages` | Ölüm mesajları | `extra-death-messages.csv` | 1,354 |
-| `advancement-titles` | Başarım adları | `extra-advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | Başarım açıklamaları | `extra-advancement-descriptions.csv` | 1,650 |
-| `gamerules` | Oyun kuralları | `extra-gamerules.csv` | 1,490 |
-| `commands` | Komutlar ve argümanlar | `extra-commands.csv` | 10,765 |
-| `gui` | Arayüz metinleri | `extra-gui.csv` | 6,751 |
-| `options` | Ayarlar ve tuşlar | `extra-options.csv` | 8,174 |
-| `multiplayer` | Çok oyunculu | `extra-multiplayer.csv` | 2,021 |
-| `realms` | Realms | `extra-realms.csv` | 5,054 |
-| `world-management` | Dünya yönetimi | `extra-world-management.csv` | 3,581 |
-| `resource-packs` | Kaynak ve veri paketleri | `extra-resource-packs.csv` | 761 |
-| `telemetry` | Telemetri | `extra-telemetry.csv` | 897 |
-| `dev-tools` | Geliştirme ve test araçları | `extra-dev-tools.csv` | 1,811 |
-| `misc` | Diğer | `extra-misc.csv` | 516 |
+| `subtitles` | Alt yazılar | `extra-subtitles（Altyazılar）.csv` | 12,431 |
+| `death-messages` | Ölüm mesajları | `extra-death-messages（Ölüm mesajları）.csv` | 1,354 |
+| `advancement-titles` | Başarım adları | `extra-advancement-titles（İlerleme başlıkları）.csv` | 1,603 |
+| `advancement-descriptions` | Başarım açıklamaları | `extra-advancement-descriptions（İlerleme açıklamaları）.csv` | 1,650 |
+| `gamerules` | Oyun kuralları | `extra-gamerules（Oyun kuralları）.csv` | 1,490 |
+| `commands` | Komutlar ve argümanlar | `extra-commands（Komutlar ve argümanlar）.csv` | 10,765 |
+| `gui` | Arayüz metinleri | `extra-gui（Arayüz metinleri）.csv` | 6,751 |
+| `options` | Ayarlar ve tuşlar | `extra-options（Ayarlar ve tuşlar）.csv` | 8,174 |
+| `multiplayer` | Çok oyunculu | `extra-multiplayer（Çok oyunculu）.csv` | 2,021 |
+| `realms` | Realms | `extra-realms（Realms）.csv` | 5,054 |
+| `world-management` | Dünya yönetimi | `extra-world-management（Dünya yönetimi）.csv` | 3,581 |
+| `resource-packs` | Kaynak ve veri paketleri | `extra-resource-packs（Kaynak ve veri paketleri）.csv` | 761 |
+| `telemetry` | Telemetri | `extra-telemetry（Telemetri）.csv` | 897 |
+| `dev-tools` | Geliştirme ve test araçları | `extra-dev-tools（Geliştirme ve test araçları）.csv` | 1,811 |
+| `misc` | Diğer | `extra-misc（Diğer）.csv` | 516 |
 
 ### Dosya listesi
 
 ```text
 minecraft-glossary/
 <lang>/                       # 14 dil klasörü
-|   blocks.csv
-|   items.csv
-|   entities.csv
-|   biomes.csv
-|   enchantments.csv
-|   effects.csv
-|   instruments.csv
-|   materials.csv
-|   paintings.csv
-|   attributes.csv
-|   item-groups.csv
-|   jukebox-songs.csv
-|   trim-patterns.csv
-|   colors.csv
-|   statistics.csv
-|   maps.csv
-|   music.csv
-|   sound-categories.csv
-|   game-modes.csv
+|   blocks（Bloklar）.csv
+|   items（Eşyalar）.csv
+|   entities（Varlıklar）.csv
+|   biomes（Biyomlar）.csv
+|   enchantments（Büyüler）.csv
+|   effects（Durum etkileri）.csv
+|   instruments（Enstrümanlar）.csv
+|   materials（Zırh süsleme malzemeleri）.csv
+|   paintings（Tablolar）.csv
+|   attributes（Nitelikler）.csv
+|   item-groups（Eşya grupları）.csv
+|   jukebox-songs（Müzik kutusu şarkıları）.csv
+|   trim-patterns（Zırh süsleme desenleri）.csv
+|   colors（Renkler）.csv
+|   statistics（İstatistikler）.csv
+|   maps（Haritalar）.csv
+|   music（Müzik）.csv
+|   sound-categories（Ses kategorileri）.csv
+|   game-modes（Oyun modları）.csv
 |   +-- extra-               # sistem ve metin kategorileri
 |       |-- subtitles.csv
 |       |-- death-messages.csv

@@ -10,32 +10,32 @@
 
 | 文件 | 分类 | 本语言记录数 |
 | --- | --- | ---: |
-| `01_character.csv` | 角色与 NPC | 2,910 |
-| `02_path.csv` | 命途 | 206 |
-| `03_element.csv` | 属性 | 149 |
-| `04_skill.csv` | 技能 | 5,136 |
-| `05_trace.csv` | 行迹 | 3,073 |
-| `06_eidolon.csv` | 星魂 | 5,463 |
-| `07_light_cone.csv` | 光锥 | 3,217 |
-| `08_relic.csv` | 遗器 | 2,712 |
-| `09_item.csv` | 道具 | 19,739 |
-| `10_material.csv` | 材料 | 6,071 |
-| `11_enemy.csv` | 敌人 | 9,100 |
-| `12_location.csv` | 地点 | 11,728 |
-| `13_faction.csv` | 阵营与组织 | 361 |
-| `14_quest.csv` | 任务 | 61,758 |
-| `15_stage.csv` | 关卡与副本 | 1,987 |
-| `16_event.csv` | 活动 | 14,772 |
-| `17_achievement.csv` | 成就 | 21,785 |
-| `18_simulated_universe.csv` | 模拟宇宙 | 20,307 |
-| `19_forgotten_hall.csv` | 忘却之庭 | 9,738 |
-| `20_story.csv` | 剧情 | 214 |
-| `21_world_lore.csv` | 世界观 | 1,196 |
-| `22_book.csv` | 书籍 | 11,305 |
-| `23_dialogue.csv` | 对话 | 60,353 |
-| `24_system.csv` | 系统 | 20,847 |
-| `25_ui.csv` | 界面 | 11,567 |
-| `26_other.csv` | 其他 | 2,211 |
+| `01_character（Charaktere & NPCs）.csv` | 角色与 NPC | 2,910 |
+| `02_path（Pfade）.csv` | 命途 | 206 |
+| `03_element（Elemente）.csv` | 属性 | 149 |
+| `04_skill（Fähigkeiten）.csv` | 技能 | 5,136 |
+| `05_trace（Spuren）.csv` | 行迹 | 3,073 |
+| `06_eidolon（Eidolons）.csv` | 星魂 | 5,463 |
+| `07_light_cone（Lichtkegel）.csv` | 光锥 | 3,217 |
+| `08_relic（Relikte）.csv` | 遗器 | 2,712 |
+| `09_item（Gegenstände）.csv` | 道具 | 19,739 |
+| `10_material（Materialien）.csv` | 材料 | 6,071 |
+| `11_enemy（Gegner）.csv` | 敌人 | 9,100 |
+| `12_location（Orte）.csv` | 地点 | 11,728 |
+| `13_faction（Fraktionen & Organisationen）.csv` | 阵营与组织 | 361 |
+| `14_quest（Aufträge）.csv` | 任务 | 61,758 |
+| `15_stage（Ebenen & Domänen）.csv` | 关卡与副本 | 1,987 |
+| `16_event（Events）.csv` | 活动 | 14,772 |
+| `17_achievement（Erfolge）.csv` | 成就 | 21,785 |
+| `18_simulated_universe（Simulierte Universum）.csv` | 模拟宇宙 | 20,307 |
+| `19_forgotten_hall（Vergessene Halle）.csv` | 忘却之庭 | 9,738 |
+| `20_story（Handlung）.csv` | 剧情 | 214 |
+| `21_world_lore（Weltwissen）.csv` | 世界观 | 1,196 |
+| `22_book（Bücher）.csv` | 书籍 | 11,305 |
+| `23_dialogue（Dialoge）.csv` | 对话 | 60,353 |
+| `24_system（System）.csv` | 系统 | 20,847 |
+| `25_ui（Oberfläche）.csv` | 界面 | 11,567 |
+| `26_other（Sonstiges）.csv` | 其他 | 2,211 |
 
 ## 说明
 

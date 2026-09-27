@@ -1,6 +1,6 @@
 # Kho thuật ngữ 我的世界（Minecraft） — Tiếng Việt (`vi-VN`)
 
-[← Quay lại phần giới thiệu chung của game](../../README.md)
+[← Quay lại phần giới thiệu chung của game](../../README.md) · [简体中文](README_zh-CN.md)
 
 Thư mục này là kho thuật ngữ có **ngôn ngữ đích là tiếng Việt (`vi-VN`)**.
 Gồm **101,325 dòng đối chiếu** trong **34 tệp CSV** (34 hạng mục: 19 tệp ở thư mục gốc và
@@ -17,70 +17,70 @@ bản dịch lại.
 
 | Hạng mục | Chủ đề | Tệp | Số dòng |
 | --- | --- | --- | --- |
-| `blocks` | Khối | `blocks.csv` | 25,426 |
-| `items` | Vật phẩm | `items.csv` | 9,103 |
-| `entities` | Thực thể | `entities.csv` | 2,582 |
-| `biomes` | Quần xã sinh vật | `biomes.csv` | 835 |
-| `enchantments` | Phù phép | `enchantments.csv` | 553 |
-| `effects` | Hiệu ứng trạng thái | `effects.csv` | 514 |
-| `instruments` | Nhạc cụ | `instruments.csv` | 98 |
-| `materials` | Vật liệu trang trí | `materials.csv` | 143 |
-| `paintings` | Tranh | `paintings.csv` | 315 |
-| `attributes` | Thuộc tính | `attributes.csv` | 578 |
-| `item-groups` | Nhóm vật phẩm | `item-groups.csv` | 198 |
-| `jukebox-songs` | Bài hát trong máy hát | `jukebox-songs.csv` | 42 |
-| `trim-patterns` | Hoa văn trang trí | `trim-patterns.csv` | 234 |
-| `colors` | Màu sắc | `colors.csv` | 184 |
-| `statistics` | Thống kê | `statistics.csv` | 1,143 |
-| `maps` | Bản đồ | `maps.csv` | 422 |
-| `music` | Bản nhạc | `music.csv` | 192 |
-| `sound-categories` | Loại âm thanh | `sound-categories.csv` | 133 |
-| `game-modes` | Chế độ chơi | `game-modes.csv` | 77 |
+| `blocks` | Khối | `blocks（Khối）.csv` | 25,426 |
+| `items` | Vật phẩm | `items（Vật phẩm）.csv` | 9,103 |
+| `entities` | Thực thể | `entities（Thực thể）.csv` | 2,582 |
+| `biomes` | Quần xã sinh vật | `biomes（Quần xã sinh vật）.csv` | 835 |
+| `enchantments` | Phù phép | `enchantments（Phù phép）.csv` | 553 |
+| `effects` | Hiệu ứng trạng thái | `effects（Hiệu ứng trạng thái）.csv` | 514 |
+| `instruments` | Nhạc cụ | `instruments（Nhạc cụ）.csv` | 98 |
+| `materials` | Vật liệu trang trí | `materials（Nguyên liệu trang trí giáp）.csv` | 143 |
+| `paintings` | Tranh | `paintings（Tranh）.csv` | 315 |
+| `attributes` | Thuộc tính | `attributes（Thuộc tính）.csv` | 578 |
+| `item-groups` | Nhóm vật phẩm | `item-groups（Nhóm vật phẩm）.csv` | 198 |
+| `jukebox-songs` | Bài hát trong máy hát | `jukebox-songs（Bài hát máy hát）.csv` | 42 |
+| `trim-patterns` | Hoa văn trang trí | `trim-patterns（Hoa văn trang trí giáp）.csv` | 234 |
+| `colors` | Màu sắc | `colors（Màu sắc）.csv` | 184 |
+| `statistics` | Thống kê | `statistics（Thống kê）.csv` | 1,143 |
+| `maps` | Bản đồ | `maps（Bản đồ）.csv` | 422 |
+| `music` | Bản nhạc | `music（Âm nhạc）.csv` | 192 |
+| `sound-categories` | Loại âm thanh | `sound-categories（Phân loại âm thanh）.csv` | 133 |
+| `game-modes` | Chế độ chơi | `game-modes（Chế độ chơi）.csv` | 77 |
 
 ### `extra-` (hệ thống và văn bản)
 
 | Hạng mục | Chủ đề | Tệp | Số dòng |
 | --- | --- | --- | --- |
-| `subtitles` | Phụ đề | `extra-subtitles.csv` | 12,416 |
-| `death-messages` | Thông báo tử vong | `extra-death-messages.csv` | 1,334 |
-| `advancement-titles` | Tên tiến trình | `extra-advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | Mô tả tiến trình | `extra-advancement-descriptions.csv` | 1,641 |
-| `gamerules` | Luật chơi | `extra-gamerules.csv` | 1,490 |
-| `commands` | Lệnh và đối số | `extra-commands.csv` | 10,738 |
-| `gui` | Văn bản giao diện | `extra-gui.csv` | 6,609 |
-| `options` | Cài đặt và phím | `extra-options.csv` | 8,152 |
-| `multiplayer` | Nhiều người chơi | `extra-multiplayer.csv` | 2,024 |
-| `realms` | Realms | `extra-realms.csv` | 4,996 |
-| `world-management` | Quản lý thế giới | `extra-world-management.csv` | 3,565 |
-| `resource-packs` | Gói tài nguyên và dữ liệu | `extra-resource-packs.csv` | 761 |
-| `telemetry` | Dữ liệu từ xa | `extra-telemetry.csv` | 897 |
-| `dev-tools` | Công cụ phát triển và kiểm thử | `extra-dev-tools.csv` | 1,811 |
-| `misc` | Khác | `extra-misc.csv` | 516 |
+| `subtitles` | Phụ đề | `extra-subtitles（Phụ đề）.csv` | 12,416 |
+| `death-messages` | Thông báo tử vong | `extra-death-messages（Thông báo tử vong）.csv` | 1,334 |
+| `advancement-titles` | Tên tiến trình | `extra-advancement-titles（Tiêu đề tiến trình）.csv` | 1,603 |
+| `advancement-descriptions` | Mô tả tiến trình | `extra-advancement-descriptions（Mô tả tiến trình）.csv` | 1,641 |
+| `gamerules` | Luật chơi | `extra-gamerules（Luật chơi）.csv` | 1,490 |
+| `commands` | Lệnh và đối số | `extra-commands（Lệnh và tham số）.csv` | 10,738 |
+| `gui` | Văn bản giao diện | `extra-gui（Văn bản giao diện）.csv` | 6,609 |
+| `options` | Cài đặt và phím | `extra-options（Cài đặt và phím）.csv` | 8,152 |
+| `multiplayer` | Nhiều người chơi | `extra-multiplayer（Nhiều người chơi）.csv` | 2,024 |
+| `realms` | Realms | `extra-realms（Realms）.csv` | 4,996 |
+| `world-management` | Quản lý thế giới | `extra-world-management（Quản lý thế giới）.csv` | 3,565 |
+| `resource-packs` | Gói tài nguyên và dữ liệu | `extra-resource-packs（Gói tài nguyên và dữ liệu）.csv` | 761 |
+| `telemetry` | Dữ liệu từ xa | `extra-telemetry（Đo từ xa）.csv` | 897 |
+| `dev-tools` | Công cụ phát triển và kiểm thử | `extra-dev-tools（Công cụ phát triển và thử nghiệm）.csv` | 1,811 |
+| `misc` | Khác | `extra-misc（Khác）.csv` | 516 |
 
 ### Danh sách tệp
 
 ```text
 minecraft-glossary/
 <lang>/                       # 14 thư mục ngôn ngữ
-|   blocks.csv
-|   items.csv
-|   entities.csv
-|   biomes.csv
-|   enchantments.csv
-|   effects.csv
-|   instruments.csv
-|   materials.csv
-|   paintings.csv
-|   attributes.csv
-|   item-groups.csv
-|   jukebox-songs.csv
-|   trim-patterns.csv
-|   colors.csv
-|   statistics.csv
-|   maps.csv
-|   music.csv
-|   sound-categories.csv
-|   game-modes.csv
+|   blocks（Khối）.csv
+|   items（Vật phẩm）.csv
+|   entities（Thực thể）.csv
+|   biomes（Quần xã sinh vật）.csv
+|   enchantments（Phù phép）.csv
+|   effects（Hiệu ứng trạng thái）.csv
+|   instruments（Nhạc cụ）.csv
+|   materials（Nguyên liệu trang trí giáp）.csv
+|   paintings（Tranh）.csv
+|   attributes（Thuộc tính）.csv
+|   item-groups（Nhóm vật phẩm）.csv
+|   jukebox-songs（Bài hát máy hát）.csv
+|   trim-patterns（Hoa văn trang trí giáp）.csv
+|   colors（Màu sắc）.csv
+|   statistics（Thống kê）.csv
+|   maps（Bản đồ）.csv
+|   music（Âm nhạc）.csv
+|   sound-categories（Phân loại âm thanh）.csv
+|   game-modes（Chế độ chơi）.csv
 |   +-- extra-               # hạng mục hệ thống và văn bản
 |       |-- subtitles.csv
 |       |-- death-messages.csv

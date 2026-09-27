@@ -6,8 +6,8 @@ Questa cartella è il glossario terminologico di Minecraft con **l'italiano (`it
 
 ## File
 
-- `blocks.csv`, `items.csv`, `entities.csv`, `biomes.csv`, `enchantments.csv`, `effects.csv`, `instruments.csv`, `materials.csv`, `paintings.csv`, `attributes.csv`, `item-groups.csv`, `jukebox-songs.csv`, `trim-patterns.csv`, `colors.csv`, `statistics.csv`, `maps.csv`, `music.csv`, `sound-categories.csv`, `game-modes.csv` — 19 file delle categorie principali
-- `extra-subtitles.csv`, `extra-death-messages.csv`, `extra-advancement-titles.csv`, `extra-advancement-descriptions.csv`, `extra-gamerules.csv`, `extra-commands.csv`, `extra-gui.csv`, `extra-options.csv`, `extra-multiplayer.csv`, `extra-realms.csv`, `extra-world-management.csv`, `extra-resource-packs.csv`, `extra-telemetry.csv`, `extra-dev-tools.csv`, `extra-misc.csv` — 15 file delle categorie di sistema e testo in `extra-`
+- `blocks（Blocchi）.csv`, `items（Oggetti）.csv`, `entities（Entità）.csv`, `biomes（Biomi）.csv`, `enchantments（Incantesimi）.csv`, `effects（Effetti di stato）.csv`, `instruments（Strumenti）.csv`, `materials（Materiali per fregi delle armature）.csv`, `paintings（Dipinti）.csv`, `attributes（Attributi）.csv`, `item-groups（Gruppi di oggetti）.csv`, `jukebox-songs（Brani del giradischi）.csv`, `trim-patterns（Motivi per fregi delle armature）.csv`, `colors（Colori）.csv`, `statistics（Statistiche）.csv`, `maps（Mappe）.csv`, `music（Musica）.csv`, `sound-categories（Categorie sonore）.csv`, `game-modes（Modalità di gioco）.csv` — 19 file delle categorie principali
+- `extra-subtitles（Sottotitoli）.csv`, `extra-death-messages（Messaggi di morte）.csv`, `extra-advancement-titles（Titoli dei progressi）.csv`, `extra-advancement-descriptions（Descrizioni dei progressi）.csv`, `extra-gamerules（Regole di gioco）.csv`, `extra-commands（Comandi e argomenti）.csv`, `extra-gui（Testi dell’interfaccia）.csv`, `extra-options（Impostazioni e tasti）.csv`, `extra-multiplayer（Multigiocatore）.csv`, `extra-realms（Realms）.csv`, `extra-world-management（Gestione del mondo）.csv`, `extra-resource-packs（Pacchetti di risorse e dati）.csv`, `extra-telemetry（Telemetria）.csv`, `extra-dev-tools（Strumenti di sviluppo e test）.csv`, `extra-misc（Altro）.csv` — 15 file delle categorie di sistema e testo in `extra-`
 
 In totale **34 file CSV**. Tutti usano le stesse tre colonne:
 
@@ -20,25 +20,25 @@ Struttura delle cartelle:
 
 ```text
 it-IT/
-├── blocks.csv
-├── items.csv
-├── entities.csv
-├── biomes.csv
-├── enchantments.csv
-├── effects.csv
-├── instruments.csv
-├── materials.csv
-├── paintings.csv
-├── attributes.csv
-├── item-groups.csv
-├── jukebox-songs.csv
-├── trim-patterns.csv
-├── colors.csv
-├── statistics.csv
-├── maps.csv
-├── music.csv
-├── sound-categories.csv
-├── game-modes.csv
+├── blocks（Blocchi）.csv
+├── items（Oggetti）.csv
+├── entities（Entità）.csv
+├── biomes（Biomi）.csv
+├── enchantments（Incantesimi）.csv
+├── effects（Effetti di stato）.csv
+├── instruments（Strumenti）.csv
+├── materials（Materiali per fregi delle armature）.csv
+├── paintings（Dipinti）.csv
+├── attributes（Attributi）.csv
+├── item-groups（Gruppi di oggetti）.csv
+├── jukebox-songs（Brani del giradischi）.csv
+├── trim-patterns（Motivi per fregi delle armature）.csv
+├── colors（Colori）.csv
+├── statistics（Statistiche）.csv
+├── maps（Mappe）.csv
+├── music（Musica）.csv
+├── sound-categories（Categorie sonore）.csv
+├── game-modes（Modalità di gioco）.csv
 └── extra-  # categorie di sistema e testo
     ├── subtitles.csv
     ├── death-messages.csv
@@ -65,46 +65,46 @@ La colonna «Voci» indica quante **entità denominate dei file di lingua uffici
 
 | Categoria | Tema | Voci | Righe |
 | --- | --- | ---: | ---: |
-| `blocks.csv` | Blocchi | 1.975 | 25.426 |
-| `items.csv` | Oggetti | 803 | 9.065 |
-| `entities.csv` | Entità | 219 | 2.582 |
-| `biomes.csv` | Biomi | 67 | 835 |
-| `enchantments.csv` | Incantesimi | 54 | 553 |
-| `effects.csv` | Effetti di stato | 42 | 514 |
-| `instruments.csv` | Strumenti | 8 | 98 |
-| `materials.csv` | Materiali per fregi | 11 | 143 |
-| `paintings.csv` | Quadri | 104 | 315 |
-| `attributes.csv` | Attributi | 83 | 566 |
-| `item-groups.csv` | Gruppi di oggetti | 16 | 198 |
-| `jukebox-songs.csv` | Brani del giradischi | 22 | 42 |
-| `trim-patterns.csv` | Motivi per fregi | 18 | 234 |
-| `colors.csv` | Colori | 16 | 184 |
-| `statistics.csv` | Statistiche | 88 | 1.143 |
-| `maps.csv` | Mappe | 33 | 413 |
-| `music.csv` | Brani musicali | 70 | 192 |
-| `sound-categories.csv` | Categorie audio | 11 | 133 |
-| `game-modes.csv` | Modalità di gioco | 6 | 77 |
+| `blocks（Blocchi）.csv` | Blocchi | 1.975 | 25.426 |
+| `items（Oggetti）.csv` | Oggetti | 803 | 9.065 |
+| `entities（Entità）.csv` | Entità | 219 | 2.582 |
+| `biomes（Biomi）.csv` | Biomi | 67 | 835 |
+| `enchantments（Incantesimi）.csv` | Incantesimi | 54 | 553 |
+| `effects（Effetti di stato）.csv` | Effetti di stato | 42 | 514 |
+| `instruments（Strumenti）.csv` | Strumenti | 8 | 98 |
+| `materials（Materiali per fregi delle armature）.csv` | Materiali per fregi | 11 | 143 |
+| `paintings（Dipinti）.csv` | Quadri | 104 | 315 |
+| `attributes（Attributi）.csv` | Attributi | 83 | 566 |
+| `item-groups（Gruppi di oggetti）.csv` | Gruppi di oggetti | 16 | 198 |
+| `jukebox-songs（Brani del giradischi）.csv` | Brani del giradischi | 22 | 42 |
+| `trim-patterns（Motivi per fregi delle armature）.csv` | Motivi per fregi | 18 | 234 |
+| `colors（Colori）.csv` | Colori | 16 | 184 |
+| `statistics（Statistiche）.csv` | Statistiche | 88 | 1.143 |
+| `maps（Mappe）.csv` | Mappe | 33 | 413 |
+| `music（Musica）.csv` | Brani musicali | 70 | 192 |
+| `sound-categories（Categorie sonore）.csv` | Categorie audio | 11 | 133 |
+| `game-modes（Modalità di gioco）.csv` | Modalità di gioco | 6 | 77 |
 | **Subtotale** | 19 file | **3.646** | **42.713** |
 
 ### Categorie in `extra-` (sistema e testo)
 
 | Categoria | Tema | Voci | Righe |
 | --- | --- | ---: | ---: |
-| `extra-subtitles.csv` | Sottotitoli | 1.023 | 12.602 |
-| `extra-death-messages.csv` | Messaggi di morte | 106 | 1.340 |
-| `extra-advancement-titles.csv` | Titoli dei progressi | 127 | 1.603 |
-| `extra-advancement-descriptions.csv` | Descrizioni dei progressi | 127 | 1.641 |
-| `extra-gamerules.csv` | Regole di gioco | 117 | 1.490 |
-| `extra-commands.csv` | Comandi e argomenti | 856 | 10.779 |
-| `extra-gui.csv` | Testi dell'interfaccia | 581 | 6.614 |
-| `extra-options.csv` | Opzioni e tasti | 754 | 8.211 |
-| `extra-multiplayer.csv` | Multigiocatore | 173 | 2.025 |
-| `extra-realms.csv` | Realms | 426 | 5.022 |
-| `extra-world-management.csv` | Gestione dei mondi | 294 | 3.563 |
-| `extra-resource-packs.csv` | Pacchetti di risorse e dati | 62 | 761 |
-| `extra-telemetry.csv` | Telemetria | 70 | 897 |
-| `extra-dev-tools.csv` | Strumenti di sviluppo e test | 144 | 1.803 |
-| `extra-misc.csv` | Varie | 53 | 516 |
+| `extra-subtitles（Sottotitoli）.csv` | Sottotitoli | 1.023 | 12.602 |
+| `extra-death-messages（Messaggi di morte）.csv` | Messaggi di morte | 106 | 1.340 |
+| `extra-advancement-titles（Titoli dei progressi）.csv` | Titoli dei progressi | 127 | 1.603 |
+| `extra-advancement-descriptions（Descrizioni dei progressi）.csv` | Descrizioni dei progressi | 127 | 1.641 |
+| `extra-gamerules（Regole di gioco）.csv` | Regole di gioco | 117 | 1.490 |
+| `extra-commands（Comandi e argomenti）.csv` | Comandi e argomenti | 856 | 10.779 |
+| `extra-gui（Testi dell’interfaccia）.csv` | Testi dell'interfaccia | 581 | 6.614 |
+| `extra-options（Impostazioni e tasti）.csv` | Opzioni e tasti | 754 | 8.211 |
+| `extra-multiplayer（Multigiocatore）.csv` | Multigiocatore | 173 | 2.025 |
+| `extra-realms（Realms）.csv` | Realms | 426 | 5.022 |
+| `extra-world-management（Gestione del mondo）.csv` | Gestione dei mondi | 294 | 3.563 |
+| `extra-resource-packs（Pacchetti di risorse e dati）.csv` | Pacchetti di risorse e dati | 62 | 761 |
+| `extra-telemetry（Telemetria）.csv` | Telemetria | 70 | 897 |
+| `extra-dev-tools（Strumenti di sviluppo e test）.csv` | Strumenti di sviluppo e test | 144 | 1.803 |
+| `extra-misc（Altro）.csv` | Varie | 53 | 516 |
 | **Subtotale** | 15 file | **4.913** | **58.867** |
 
 **Totale di questa cartella: 34 file, 7.777 voci distinte (deduplicate su `target`), 101.580 righe di confronto.**

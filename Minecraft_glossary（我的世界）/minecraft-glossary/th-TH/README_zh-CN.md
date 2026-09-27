@@ -16,70 +16,70 @@
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `blocks` | 方块 | `blocks.csv` | 25,426 |
-| `items` | 物品 | `items.csv` | 9,061 |
-| `entities` | 实体 | `entities.csv` | 2,581 |
-| `biomes` | 生物群系 | `biomes.csv` | 835 |
-| `enchantments` | 魔咒 | `enchantments.csv` | 553 |
-| `effects` | 状态效果 | `effects.csv` | 514 |
-| `instruments` | 乐器 | `instruments.csv` | 98 |
-| `materials` | 盔甲纹饰材料 | `materials.csv` | 143 |
-| `paintings` | 画 | `paintings.csv` | 315 |
-| `attributes` | 属性 | `attributes.csv` | 555 |
-| `item-groups` | 物品栏分类 | `item-groups.csv` | 198 |
-| `jukebox-songs` | 唱片曲目 | `jukebox-songs.csv` | 42 |
-| `trim-patterns` | 盔甲纹饰图案 | `trim-patterns.csv` | 234 |
-| `colors` | 颜色 | `colors.csv` | 184 |
-| `statistics` | 统计 | `statistics.csv` | 1,143 |
-| `maps` | 地图 | `maps.csv` | 422 |
-| `music` | 音乐曲目 | `music.csv` | 192 |
-| `sound-categories` | 声音分类 | `sound-categories.csv` | 133 |
-| `game-modes` | 游戏模式 | `game-modes.csv` | 77 |
+| `blocks` | 方块 | `blocks（บล็อก）.csv` | 25,426 |
+| `items` | 物品 | `items（ไอเทม）.csv` | 9,061 |
+| `entities` | 实体 | `entities（เอนทิตี）.csv` | 2,581 |
+| `biomes` | 生物群系 | `biomes（ไบโอม）.csv` | 835 |
+| `enchantments` | 魔咒 | `enchantments（คาถา）.csv` | 553 |
+| `effects` | 状态效果 | `effects（เอฟเฟกต์สถานะ）.csv` | 514 |
+| `instruments` | 乐器 | `instruments（เครื่องดนตรี）.csv` | 98 |
+| `materials` | 盔甲纹饰材料 | `materials（วัสดุตกแต่งเกราะ）.csv` | 143 |
+| `paintings` | 画 | `paintings（ภาพวาด）.csv` | 315 |
+| `attributes` | 属性 | `attributes（คุณสมบัติ）.csv` | 555 |
+| `item-groups` | 物品栏分类 | `item-groups（กลุ่มไอเทม）.csv` | 198 |
+| `jukebox-songs` | 唱片曲目 | `jukebox-songs（เพลงจู๊กบ็อกซ์）.csv` | 42 |
+| `trim-patterns` | 盔甲纹饰图案 | `trim-patterns（ลวดลายตกแต่งเกราะ）.csv` | 234 |
+| `colors` | 颜色 | `colors（สี）.csv` | 184 |
+| `statistics` | 统计 | `statistics（สถิติ）.csv` | 1,143 |
+| `maps` | 地图 | `maps（แผนที่）.csv` | 422 |
+| `music` | 音乐曲目 | `music（เพลง）.csv` | 192 |
+| `sound-categories` | 声音分类 | `sound-categories（หมวดเสียง）.csv` | 133 |
+| `game-modes` | 游戏模式 | `game-modes（โหมดเกม）.csv` | 77 |
 
 ### `extra-`（系统与文本）
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `subtitles` | 字幕 | `extra-subtitles.csv` | 12,402 |
-| `death-messages` | 死亡消息 | `extra-death-messages.csv` | 1,336 |
-| `advancement-titles` | 进度标题 | `extra-advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | 进度描述 | `extra-advancement-descriptions.csv` | 1,641 |
-| `gamerules` | 游戏规则 | `extra-gamerules.csv` | 1,490 |
-| `commands` | 命令与参数 | `extra-commands.csv` | 10,750 |
-| `gui` | 界面文本 | `extra-gui.csv` | 6,649 |
-| `options` | 设置与按键 | `extra-options.csv` | 8,162 |
-| `multiplayer` | 多人游戏 | `extra-multiplayer.csv` | 2,010 |
-| `realms` | Realms | `extra-realms.csv` | 4,964 |
-| `world-management` | 世界管理 | `extra-world-management.csv` | 3,574 |
-| `resource-packs` | 资源包与数据包 | `extra-resource-packs.csv` | 761 |
-| `telemetry` | 遥测 | `extra-telemetry.csv` | 897 |
-| `dev-tools` | 开发与测试工具 | `extra-dev-tools.csv` | 1,803 |
-| `misc` | 其他 | `extra-misc.csv` | 516 |
+| `subtitles` | 字幕 | `extra-subtitles（คำบรรยาย）.csv` | 12,402 |
+| `death-messages` | 死亡消息 | `extra-death-messages（ข้อความตาย）.csv` | 1,336 |
+| `advancement-titles` | 进度标题 | `extra-advancement-titles（ชื่อความก้าวหน้า）.csv` | 1,603 |
+| `advancement-descriptions` | 进度描述 | `extra-advancement-descriptions（คำอธิบายความก้าวหน้า）.csv` | 1,641 |
+| `gamerules` | 游戏规则 | `extra-gamerules（กฎเกม）.csv` | 1,490 |
+| `commands` | 命令与参数 | `extra-commands（คำสั่งและอาร์กิวเมนต์）.csv` | 10,750 |
+| `gui` | 界面文本 | `extra-gui（ข้อความอินเทอร์เฟซ）.csv` | 6,649 |
+| `options` | 设置与按键 | `extra-options（การตั้งค่าและปุ่ม）.csv` | 8,162 |
+| `multiplayer` | 多人游戏 | `extra-multiplayer（ผู้เล่นหลายคน）.csv` | 2,010 |
+| `realms` | Realms | `extra-realms（Realms）.csv` | 4,964 |
+| `world-management` | 世界管理 | `extra-world-management（การจัดการโลก）.csv` | 3,574 |
+| `resource-packs` | 资源包与数据包 | `extra-resource-packs（ชุดทรัพยากรและข้อมูล）.csv` | 761 |
+| `telemetry` | 遥测 | `extra-telemetry（เทเลเมทรี）.csv` | 897 |
+| `dev-tools` | 开发与测试工具 | `extra-dev-tools（เครื่องมือพัฒนาและทดสอบ）.csv` | 1,803 |
+| `misc` | 其他 | `extra-misc（อื่น ๆ）.csv` | 516 |
 
 ### 文件清单
 
 ```text
 minecraft-glossary/
 <lang>/                       # 14 个语言文件夹
-|   blocks.csv
-|   items.csv
-|   entities.csv
-|   biomes.csv
-|   enchantments.csv
-|   effects.csv
-|   instruments.csv
-|   materials.csv
-|   paintings.csv
-|   attributes.csv
-|   item-groups.csv
-|   jukebox-songs.csv
-|   trim-patterns.csv
-|   colors.csv
-|   statistics.csv
-|   maps.csv
-|   music.csv
-|   sound-categories.csv
-|   game-modes.csv
+|   blocks（บล็อก）.csv
+|   items（ไอเทม）.csv
+|   entities（เอนทิตี）.csv
+|   biomes（ไบโอม）.csv
+|   enchantments（คาถา）.csv
+|   effects（เอฟเฟกต์สถานะ）.csv
+|   instruments（เครื่องดนตรี）.csv
+|   materials（วัสดุตกแต่งเกราะ）.csv
+|   paintings（ภาพวาด）.csv
+|   attributes（คุณสมบัติ）.csv
+|   item-groups（กลุ่มไอเทม）.csv
+|   jukebox-songs（เพลงจู๊กบ็อกซ์）.csv
+|   trim-patterns（ลวดลายตกแต่งเกราะ）.csv
+|   colors（สี）.csv
+|   statistics（สถิติ）.csv
+|   maps（แผนที่）.csv
+|   music（เพลง）.csv
+|   sound-categories（หมวดเสียง）.csv
+|   game-modes（โหมดเกม）.csv
 |   +-- extra-               # 系统与文本类分类
 |       |-- subtitles.csv
 |       |-- death-messages.csv

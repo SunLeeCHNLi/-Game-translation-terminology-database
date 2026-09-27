@@ -8,29 +8,29 @@
 
 本目录为**扁平结构**，23 个类目 CSV 直接放在本目录下，没有额外的子目录：
 
-- `characters.csv` — 角色名称
-- `weapons.csv` — 武器名称
-- `echoes.csv` — 声骸
-- `skills.csv` — 技能
-- `resonant-chains.csv` — 共鸣链
-- `quests.csv` — 任务
-- `dungeons.csv` — 关卡与挑战
-- `regions.csv` — 地区与地图
-- `factions.csv` — 阵营与势力
-- `items.csv` — 道具与材料
-- `monsters.csv` — 怪物与生物
-- `npcs.csv` — NPC 与说话人
-- `achievements.csv` — 成就
-- `activities.csv` — 活动与玩法
-- `buffs.csv` — 增益与效果
-- `voice-lines.csv` — 角色语音
-- `archives.csv` — 档案与读物
-- `terms.csv` — 术语与百科
-- `system.csv` — 系统文本
-- `ui.csv` — UI 文本
-- `tutorials.csv` — 教程与引导
-- `story.csv` — 剧情文本
-- `other.csv` — 其他
+- `characters（캐릭터 이름）.csv` — 角色名称
+- `weapons（무기 이름）.csv` — 武器名称
+- `echoes（에코）.csv` — 声骸
+- `skills（스킬）.csv` — 技能
+- `resonant-chains（공명 체인）.csv` — 共鸣链
+- `quests（퀘스트）.csv` — 任务
+- `dungeons（스테이지·도전）.csv` — 关卡与挑战
+- `regions（지역·지도）.csv` — 地区与地图
+- `factions（세력·진영）.csv` — 阵营与势力
+- `items（아이템·재료）.csv` — 道具与材料
+- `monsters（몬스터·생물）.csv` — 怪物与生物
+- `npcs（NPC·화자）.csv` — NPC 与说话人
+- `achievements（업적）.csv` — 成就
+- `activities（이벤트·콘텐츠）.csv` — 活动与玩法
+- `buffs（버프·효과）.csv` — 增益与效果
+- `voice-lines（캐릭터 음성）.csv` — 角色语音
+- `archives（기록·서적）.csv` — 档案与读物
+- `terms（용어·도감）.csv` — 术语与百科
+- `system（시스템 텍스트）.csv` — 系统文本
+- `ui（UI 텍스트）.csv` — UI 文本
+- `tutorials（튜토리얼）.csv` — 教程与引导
+- `story（스토리）.csv` — 剧情文本
+- `other（기타）.csv` — 其他
 
 每个文件都是 `source,target,tgt_lng` 三列（首行为表头）：对 `tgt_lng` 指定的目标语言，`target` 是译文，`source` 是**其它某一语言**的原文。因此同一条目会以其余 9 种语言分别作为 `source` 各出现一行（重复行与同形行已合并，故实际行数并非词条数的 9 倍）。文件可直接导入 CAT 工具或沉浸式翻译等术语匹配软件。
 
@@ -38,29 +38,29 @@
 
 | 分类 | 主题 | 条数 | 对照行 |
 | --- | --- | --- | --- |
-| `characters.csv` | 角色名称 | 1,230 | 5,209 |
-| `weapons.csv` | 武器名称 | 820 | 3,112 |
-| `echoes.csv` | 声骸 | 1,000 | 6,083 |
-| `skills.csv` | 技能 | 5,344 | 30,562 |
-| `resonant-chains.csv` | 共鸣链 | 784 | 6,124 |
-| `quests.csv` | 任务 | 2,807 | 14,620 |
-| `dungeons.csv` | 关卡与挑战 | 1,910 | 12,155 |
-| `regions.csv` | 地区与地图 | 2,229 | 16,199 |
-| `factions.csv` | 阵营与势力 | 8 | 44 |
-| `items.csv` | 道具与材料 | 8,384 | 54,484 |
-| `monsters.csv` | 怪物与生物 | 685 | 4,529 |
-| `npcs.csv` | NPC 与说话人 | 14,172 | 63,418 |
-| `achievements.csv` | 成就 | 2,563 | 22,169 |
-| `activities.csv` | 活动与玩法 | 9,531 | 63,608 |
-| `buffs.csv` | 增益与效果 | 270 | 2,034 |
-| `voice-lines.csv` | 角色语音 | 7,374 | 31,923 |
-| `archives.csv` | 档案与读物 | 839 | 6,563 |
-| `terms.csv` | 术语与百科 | 1,672 | 12,423 |
-| `system.csv` | 系统文本 | 9,756 | 65,835 |
-| `ui.csv` | UI 文本 | 13,866 | 78,159 |
-| `tutorials.csv` | 教程与引导 | 6,253 | 31,905 |
-| `story.csv` | 剧情文本 | 29,841 | 102,395 |
-| `other.csv` | 其他 | 1,892 | 13,335 |
+| `characters（캐릭터 이름）.csv` | 角色名称 | 1,230 | 5,209 |
+| `weapons（무기 이름）.csv` | 武器名称 | 820 | 3,112 |
+| `echoes（에코）.csv` | 声骸 | 1,000 | 6,083 |
+| `skills（스킬）.csv` | 技能 | 5,344 | 30,562 |
+| `resonant-chains（공명 체인）.csv` | 共鸣链 | 784 | 6,124 |
+| `quests（퀘스트）.csv` | 任务 | 2,807 | 14,620 |
+| `dungeons（스테이지·도전）.csv` | 关卡与挑战 | 1,910 | 12,155 |
+| `regions（지역·지도）.csv` | 地区与地图 | 2,229 | 16,199 |
+| `factions（세력·진영）.csv` | 阵营与势力 | 8 | 44 |
+| `items（아이템·재료）.csv` | 道具与材料 | 8,384 | 54,484 |
+| `monsters（몬스터·생물）.csv` | 怪物与生物 | 685 | 4,529 |
+| `npcs（NPC·화자）.csv` | NPC 与说话人 | 14,172 | 63,418 |
+| `achievements（업적）.csv` | 成就 | 2,563 | 22,169 |
+| `activities（이벤트·콘텐츠）.csv` | 活动与玩法 | 9,531 | 63,608 |
+| `buffs（버프·효과）.csv` | 增益与效果 | 270 | 2,034 |
+| `voice-lines（캐릭터 음성）.csv` | 角色语音 | 7,374 | 31,923 |
+| `archives（기록·서적）.csv` | 档案与读物 | 839 | 6,563 |
+| `terms（용어·도감）.csv` | 术语与百科 | 1,672 | 12,423 |
+| `system（시스템 텍스트）.csv` | 系统文本 | 9,756 | 65,835 |
+| `ui（UI 텍스트）.csv` | UI 文本 | 13,866 | 78,159 |
+| `tutorials（튜토리얼）.csv` | 教程与引导 | 6,253 | 31,905 |
+| `story（스토리）.csv` | 剧情文本 | 29,841 | 102,395 |
+| `other（기타）.csv` | 其他 | 1,892 | 13,335 |
 | **合计** | **23 个类目** | **123,230** | **646,888** |
 
 「条数」为去重后的词条数（一个词条 = 游戏中的一条文本键），取自 `tools/_counts.json` 的 `concepts` 字段，**全库共用同一套、与目标语言无关**；「对照行」为本目录该类目 CSV 的实际数据行数。同一文本可能同时属于多个类目，各类目行数相加会大于去重词条数，属正常现象。

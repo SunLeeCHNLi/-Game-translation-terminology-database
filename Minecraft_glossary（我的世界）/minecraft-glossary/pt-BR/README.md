@@ -1,6 +1,6 @@
 # Base de terminologia de 我的世界（Minecraft） — Português (`pt-BR`)
 
-[← Voltar à visão geral do jogo](../../README.md)
+[← Voltar à visão geral do jogo](../../README.md) · [简体中文](README_zh-CN.md)
 
 Este diretório é a base de terminologia cujo **idioma de destino é o português (`pt-BR`)**.
 Contém **101,489 linhas de correspondência** em **34 arquivos CSV** (34 categorias: 19 na raiz
@@ -17,70 +17,70 @@ Java Edition**, não de uma retradução.
 
 | Categoria | Tema | Arquivo | Linhas |
 | --- | --- | --- | --- |
-| `blocks` | Blocos | `blocks.csv` | 25,426 |
-| `items` | Itens | `items.csv` | 9,061 |
-| `entities` | Entidades | `entities.csv` | 2,582 |
-| `biomes` | Biomas | `biomes.csv` | 835 |
-| `enchantments` | Encantamentos | `enchantments.csv` | 553 |
-| `effects` | Efeitos de status | `effects.csv` | 514 |
-| `instruments` | Instrumentos | `instruments.csv` | 98 |
-| `materials` | Materiais de ornamento | `materials.csv` | 143 |
-| `paintings` | Quadros | `paintings.csv` | 315 |
-| `attributes` | Atributos | `attributes.csv` | 555 |
-| `item-groups` | Grupos de itens | `item-groups.csv` | 198 |
-| `jukebox-songs` | Faixas de jukebox | `jukebox-songs.csv` | 42 |
-| `trim-patterns` | Padrões de ornamento | `trim-patterns.csv` | 234 |
-| `colors` | Cores | `colors.csv` | 184 |
-| `statistics` | Estatísticas | `statistics.csv` | 1,143 |
-| `maps` | Mapas | `maps.csv` | 422 |
-| `music` | Faixas musicais | `music.csv` | 192 |
-| `sound-categories` | Categorias de som | `sound-categories.csv` | 133 |
-| `game-modes` | Modos de jogo | `game-modes.csv` | 77 |
+| `blocks` | Blocos | `blocks（Blocos）.csv` | 25,426 |
+| `items` | Itens | `items（Itens）.csv` | 9,061 |
+| `entities` | Entidades | `entities（Entidades）.csv` | 2,582 |
+| `biomes` | Biomas | `biomes（Biomas）.csv` | 835 |
+| `enchantments` | Encantamentos | `enchantments（Encantamentos）.csv` | 553 |
+| `effects` | Efeitos de status | `effects（Efeitos de status）.csv` | 514 |
+| `instruments` | Instrumentos | `instruments（Instrumentos）.csv` | 98 |
+| `materials` | Materiais de ornamento | `materials（Materiais de ornamentos de armadura）.csv` | 143 |
+| `paintings` | Quadros | `paintings（Quadros）.csv` | 315 |
+| `attributes` | Atributos | `attributes（Atributos）.csv` | 555 |
+| `item-groups` | Grupos de itens | `item-groups（Grupos de itens）.csv` | 198 |
+| `jukebox-songs` | Faixas de jukebox | `jukebox-songs（Músicas da jukebox）.csv` | 42 |
+| `trim-patterns` | Padrões de ornamento | `trim-patterns（Padrões de ornamentos de armadura）.csv` | 234 |
+| `colors` | Cores | `colors（Cores）.csv` | 184 |
+| `statistics` | Estatísticas | `statistics（Estatísticas）.csv` | 1,143 |
+| `maps` | Mapas | `maps（Mapas）.csv` | 422 |
+| `music` | Faixas musicais | `music（Música）.csv` | 192 |
+| `sound-categories` | Categorias de som | `sound-categories（Categorias de som）.csv` | 133 |
+| `game-modes` | Modos de jogo | `game-modes（Modos de jogo）.csv` | 77 |
 
 ### `extra-` (sistema e texto)
 
 | Categoria | Tema | Arquivo | Linhas |
 | --- | --- | --- | --- |
-| `subtitles` | Legendas | `extra-subtitles.csv` | 12,504 |
-| `death-messages` | Mensagens de morte | `extra-death-messages.csv` | 1,338 |
-| `advancement-titles` | Títulos de progresso | `extra-advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | Descrições de progresso | `extra-advancement-descriptions.csv` | 1,641 |
-| `gamerules` | Regras de jogo | `extra-gamerules.csv` | 1,490 |
-| `commands` | Comandos e argumentos | `extra-commands.csv` | 10,751 |
-| `gui` | Textos de interface | `extra-gui.csv` | 6,655 |
-| `options` | Opções e teclas | `extra-options.csv` | 8,223 |
-| `multiplayer` | Multijogador | `extra-multiplayer.csv` | 2,019 |
-| `realms` | Realms | `extra-realms.csv` | 5,005 |
-| `world-management` | Gestão de mundos | `extra-world-management.csv` | 3,568 |
-| `resource-packs` | Pacotes de recursos e de dados | `extra-resource-packs.csv` | 761 |
-| `telemetry` | Telemetria | `extra-telemetry.csv` | 897 |
-| `dev-tools` | Ferramentas de desenvolvimento e teste | `extra-dev-tools.csv` | 1,811 |
-| `misc` | Outros | `extra-misc.csv` | 516 |
+| `subtitles` | Legendas | `extra-subtitles（Legendas）.csv` | 12,504 |
+| `death-messages` | Mensagens de morte | `extra-death-messages（Mensagens de morte）.csv` | 1,338 |
+| `advancement-titles` | Títulos de progresso | `extra-advancement-titles（Títulos de progresso）.csv` | 1,603 |
+| `advancement-descriptions` | Descrições de progresso | `extra-advancement-descriptions（Descrições de progresso）.csv` | 1,641 |
+| `gamerules` | Regras de jogo | `extra-gamerules（Regras de jogo）.csv` | 1,490 |
+| `commands` | Comandos e argumentos | `extra-commands（Comandos e argumentos）.csv` | 10,751 |
+| `gui` | Textos de interface | `extra-gui（Textos de interface）.csv` | 6,655 |
+| `options` | Opções e teclas | `extra-options（Configurações e teclas）.csv` | 8,223 |
+| `multiplayer` | Multijogador | `extra-multiplayer（Multijogador）.csv` | 2,019 |
+| `realms` | Realms | `extra-realms（Realms）.csv` | 5,005 |
+| `world-management` | Gestão de mundos | `extra-world-management（Gestão do mundo）.csv` | 3,568 |
+| `resource-packs` | Pacotes de recursos e de dados | `extra-resource-packs（Pacotes de recursos e dados）.csv` | 761 |
+| `telemetry` | Telemetria | `extra-telemetry（Telemetria）.csv` | 897 |
+| `dev-tools` | Ferramentas de desenvolvimento e teste | `extra-dev-tools（Ferramentas de desenvolvimento e teste）.csv` | 1,811 |
+| `misc` | Outros | `extra-misc（Outros）.csv` | 516 |
 
 ### Lista de ficheiros
 
 ```text
 minecraft-glossary/
 <lang>/                       # 14 pastas de idioma
-|   blocks.csv
-|   items.csv
-|   entities.csv
-|   biomes.csv
-|   enchantments.csv
-|   effects.csv
-|   instruments.csv
-|   materials.csv
-|   paintings.csv
-|   attributes.csv
-|   item-groups.csv
-|   jukebox-songs.csv
-|   trim-patterns.csv
-|   colors.csv
-|   statistics.csv
-|   maps.csv
-|   music.csv
-|   sound-categories.csv
-|   game-modes.csv
+|   blocks（Blocos）.csv
+|   items（Itens）.csv
+|   entities（Entidades）.csv
+|   biomes（Biomas）.csv
+|   enchantments（Encantamentos）.csv
+|   effects（Efeitos de status）.csv
+|   instruments（Instrumentos）.csv
+|   materials（Materiais de ornamentos de armadura）.csv
+|   paintings（Quadros）.csv
+|   attributes（Atributos）.csv
+|   item-groups（Grupos de itens）.csv
+|   jukebox-songs（Músicas da jukebox）.csv
+|   trim-patterns（Padrões de ornamentos de armadura）.csv
+|   colors（Cores）.csv
+|   statistics（Estatísticas）.csv
+|   maps（Mapas）.csv
+|   music（Música）.csv
+|   sound-categories（Categorias de som）.csv
+|   game-modes（Modos de jogo）.csv
 |   +-- extra-               # categorias de sistema e texto
 |       |-- subtitles.csv
 |       |-- death-messages.csv

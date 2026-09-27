@@ -2,7 +2,7 @@
 
 [← 返回游戏总说明](../../README.md) · [日本語](README.md)
 
-本目录是**以 `ja-JP`（日文）为目标语言**的原神术语库**补充词库**：全局 `genshin-glossary/` 主词库按 27 个类目统计共 **8,186** 条词条，本补充库收录主词库未包含的词条，本语言共 **13,308** 行对照（另有别名 `_variants.csv` **283** 行）。`tgt_lng` 列固定为 `ja-JP`；每行的 `source` 是同一词条在**其余 3 种语言（`zh-CN`、`zh-TW`、`en-US`）中的某一种**的写法，`target` 是日文译名。
+本目录是**以 `ja-JP`（日文）为目标语言**的原神术语库**补充词库**：全局 `genshin-glossary/` 主词库按 27 个类目统计共 **8,186** 条词条，本补充库收录主词库未包含的词条，本语言共 **13,308** 行对照（另有别名 `_variants（別名・通称・よくある誤記）.csv` **283** 行）。`tgt_lng` 列固定为 `ja-JP`；每行的 `source` 是同一词条在**其余 3 种语言（`zh-CN`、`zh-TW`、`en-US`）中的某一种**的写法，`target` 是日文译名。
 
 ## 与主词库的关系
 
@@ -12,9 +12,9 @@
 
 ## 文件
 
-- 主类目文件（9 个，与主词库同名）：`characters.csv`、`materials.csv`、`geographies.csv`、`enemies.csv`、`foods.csv`、`animals.csv`、`domains.csv`、`artifacts.csv`、`weapons.csv`
-- 别名文件：`_variants.csv` — 别名/俗称/常见误写，作为额外 `source` 补充
-- 额外类目文件（`extra-` 下 10 个）：`extra-quests.csv`、`extra-events.csv`、`extra-objects.csv`、`extra-system.csv`、`extra-archives.csv`、`extra-story.csv`、`extra-facilities.csv`、`extra-organizations.csv`、`extra-dialogue.csv`、`extra-sereniteapot.csv`
+- 主类目文件（9 个，与主词库同名）：`characters（キャラクター）.csv`、`materials（素材）.csv`、`geographies（地名）.csv`、`enemies（敵）.csv`、`foods（食べ物）.csv`、`animals（生物）.csv`、`domains（秘境）.csv`、`artifacts（聖遺物）.csv`、`weapons（武器）.csv`
+- 别名文件：`_variants（別名・通称・よくある誤記）.csv` — 别名/俗称/常见误写，作为额外 `source` 补充
+- 额外类目文件（`extra-` 下 10 个）：`extra-quests（任務名）.csv`、`extra-events（イベント名）.csv`、`extra-objects（オブジェクト）.csv`、`extra-system（システム用語）.csv`、`extra-archives（書庫資料）.csv`、`extra-story（ストーリーと章）.csv`、`extra-facilities（施設と建物）.csv`、`extra-organizations（組織と勢力）.csv`、`extra-dialogue（会話表現）.csv`、`extra-sereniteapot（塵歌壺）.csv`
 
 合计 **20 个 CSV 文件**（9 个主类目 + 1 个别名 + 10 个额外类目），格式统一为三列：
 
@@ -27,27 +27,27 @@
 
 ```text
 ja-JP/
-├── characters.csv
-├── materials.csv
-├── geographies.csv
-├── enemies.csv
-├── foods.csv
-├── animals.csv
-├── domains.csv
-├── artifacts.csv
-├── weapons.csv
-├── _variants.csv
+├── characters（キャラクター）.csv
+├── materials（素材）.csv
+├── geographies（地名）.csv
+├── enemies（敵）.csv
+├── foods（食べ物）.csv
+├── animals（生物）.csv
+├── domains（秘境）.csv
+├── artifacts（聖遺物）.csv
+├── weapons（武器）.csv
+├── _variants（別名・通称・よくある誤記）.csv
 └── extra-
-    ├── quests.csv
-    ├── events.csv
-    ├── objects.csv
-    ├── system.csv
-    ├── archives.csv
-    ├── story.csv
-    ├── facilities.csv
-    ├── organizations.csv
-    ├── dialogue.csv
-    └── sereniteapot.csv
+    ├── quests（任務）.csv
+    ├── events（イベント）.csv
+    ├── objects（オブジェクト）.csv
+    ├── system（システム）.csv
+    ├── archives（書庫）.csv
+    ├── story（ストーリー）.csv
+    ├── facilities（施設）.csv
+    ├── organizations（組織）.csv
+    ├── dialogue（会話）.csv
+    └── sereniteapot（塵歌壺）.csv
 ```
 
 ## 分类与条数
@@ -58,37 +58,37 @@ ja-JP/
 
 | 分类 | 文件 | 主题（上游来源） | 行数 |
 | --- | --- | --- | ---: |
-| characters（角色） | `characters.csv` | characters-*（蒙德/璃月/稻妻/须弥/枫丹/纳塔/挪德卡莱/至冬/坎瑞亚/愚人众等） | 4,221 |
-| materials（材料） | `materials.csv` | items / drops / drops-boss / gemstones / specialties / talent-materials / weapon-materials | 789 |
-| geographies（地理） | `geographies.csv` | locations | 1,163 |
-| enemies（敌人） | `enemies.csv` | enemies | 697 |
-| foods（食物） | `foods.csv` | foods | 246 |
-| animals（生物） | `animals.csv` | living-beings | 175 |
-| domains（秘境） | `domains.csv` | domains | 226 |
-| artifacts（圣遗物） | `artifacts.csv` | artifacts | 32 |
-| weapons（武器） | `weapons.csv` | weapons | 69 |
+| characters（角色） | `characters（キャラクター）.csv` | characters-*（蒙德/璃月/稻妻/须弥/枫丹/纳塔/挪德卡莱/至冬/坎瑞亚/愚人众等） | 4,221 |
+| materials（材料） | `materials（素材）.csv` | items / drops / drops-boss / gemstones / specialties / talent-materials / weapon-materials | 789 |
+| geographies（地理） | `geographies（地名）.csv` | locations | 1,163 |
+| enemies（敌人） | `enemies（敵）.csv` | enemies | 697 |
+| foods（食物） | `foods（食べ物）.csv` | foods | 246 |
+| animals（生物） | `animals（生物）.csv` | living-beings | 175 |
+| domains（秘境） | `domains（秘境）.csv` | domains | 226 |
+| artifacts（圣遗物） | `artifacts（聖遺物）.csv` | artifacts | 32 |
+| weapons（武器） | `weapons（武器）.csv` | weapons | 69 |
 | **小计** | 9 个文件 | — | **7,618** |
 
-### 别名（`_variants.csv`）
+### 别名（`_variants（別名・通称・よくある誤記）.csv`）
 
 | 文件 | 说明 | 行数 |
 | --- | --- | ---: |
-| `_variants.csv` | 别名/俗称/常见误写，作为额外 `source` 补充 | 283 |
+| `_variants（別名・通称・よくある誤記）.csv` | 别名/俗称/常见误写，作为额外 `source` 补充 | 283 |
 
 ### 额外类目（`extra-`）
 
 | 分类 | 文件 | 说明 | 行数 |
 | --- | --- | --- | ---: |
-| quests（任务） | `extra-quests.csv` | 任务名称（魔神/世界/传说/每日/部族等） | 1,753 |
-| events（活动） | `extra-events.csv` | 活动名称 | 1,796 |
-| objects（物件） | `extra-objects.csv` | 场景物件 | 472 |
-| system（系统） | `extra-system.csv` | 系统与玩法术语 | 387 |
-| archives（档案） | `extra-archives.csv` | 档案资料 | 382 |
-| story（剧情） | `extra-story.csv` | 剧情与章节 | 302 |
-| facilities（设施） | `extra-facilities.csv` | 设施与建筑 | 236 |
-| organizations（组织） | `extra-organizations.csv` | 组织与势力 | 209 |
-| dialogue（对白） | `extra-dialogue.csv` | 对白用语 | 121 |
-| sereniteapot（尘歌壶） | `extra-sereniteapot.csv` | 尘歌壶 | 32 |
+| quests（任务） | `extra-quests（任務名）.csv` | 任务名称（魔神/世界/传说/每日/部族等） | 1,753 |
+| events（活动） | `extra-events（イベント名）.csv` | 活动名称 | 1,796 |
+| objects（物件） | `extra-objects（オブジェクト）.csv` | 场景物件 | 472 |
+| system（系统） | `extra-system（システム用語）.csv` | 系统与玩法术语 | 387 |
+| archives（档案） | `extra-archives（書庫資料）.csv` | 档案资料 | 382 |
+| story（剧情） | `extra-story（ストーリーと章）.csv` | 剧情与章节 | 302 |
+| facilities（设施） | `extra-facilities（施設と建物）.csv` | 设施与建筑 | 236 |
+| organizations（组织） | `extra-organizations（組織と勢力）.csv` | 组织与势力 | 209 |
+| dialogue（对白） | `extra-dialogue（会話表現）.csv` | 对白用语 | 121 |
+| sereniteapot（尘歌壶） | `extra-sereniteapot（塵歌壺）.csv` | 尘歌壶 | 32 |
 | **小计** | 10 个文件 | — | **5,690** |
 
 **本目录合计：20 个文件、13,308 行对照（含别名 283 行）。**
@@ -98,7 +98,7 @@ ja-JP/
 - **译文来源与对齐方式**：数据来自 [xicri/genshin-langdata](https://github.com/xicri/genshin-langdata)，是社区整理的**游戏官方本地化文本**汇总，不是二次翻译或机器生成。对齐以词条为单位：`target` 为目标语言译名，`source` 为其余语言的写法；本库已在生成时扣除主词库已有的组合，因此可与主词库叠加。
 - **语言标签**：本目录 `tgt_lng` 固定为 `ja-JP`，表示目标语言；`source` 可能是 `zh-CN`、`zh-TW`、`en-US` 中的任意一种。
 - **编码**：全部 CSV 为 **UTF-8 with BOM** 编码、**CRLF** 换行，首行为表头，含逗号或引号的字段按 RFC 4180 转义（例如 `"""Big Sis"""`）；Excel 可直接双击打开，无需调整编码。
-- **已知限制**：本库按上游来源表拆分文件，各类目的覆盖范围与主词库并不一一对应；`characters.csv` 体量最大，因其包含 NPC 与出场角色。部分词的英/日/中写法与主词库略有差异，属正常现象。
+- **已知限制**：本库按上游来源表拆分文件，各类目的覆盖范围与主词库并不一一对应；`characters（キャラクター）.csv` 体量最大，因其包含 NPC 与出场角色。部分词的英/日/中写法与主词库略有差异，属正常现象。
 - **词条数与行数说明**：本库未提供独立于行数的「去重词条数」统计，故本页只给出实际数据行数，不作估算。
 
 ## 免责声明

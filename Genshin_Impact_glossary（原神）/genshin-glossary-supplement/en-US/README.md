@@ -14,7 +14,7 @@ This directory is the **supplement** to the *Genshin Impact* terminology databas
 
 - Main categories (9 files, sharing their names with the main glossary): `characters.csv`, `materials.csv`, `geographies.csv`, `enemies.csv`, `foods.csv`, `animals.csv`, `domains.csv`, `artifacts.csv`, `weapons.csv`
 - Alias file: `_variants.csv` — aliases, colloquial names and common misspellings, added as extra `source` entries
-- Extra categories (10 files under `extra-`): `extra-quests.csv`, `extra-events.csv`, `extra-objects.csv`, `extra-system.csv`, `extra-archives.csv`, `extra-story.csv`, `extra-facilities.csv`, `extra-organizations.csv`, `extra-dialogue.csv`, `extra-sereniteapot.csv`
+- Extra categories (10 files under the `extra/` sub-folder): `quests.csv`, `events.csv`, `objects.csv`, `system.csv`, `archives.csv`, `story.csv`, `facilities.csv`, `organizations.csv`, `dialogue.csv`, `sereniteapot.csv`
 
 **20 CSV files** in total (9 main categories + 1 alias file + 10 extra categories), all sharing the same three-column format:
 
@@ -37,7 +37,7 @@ en-US/
 ├── artifacts.csv
 ├── weapons.csv
 ├── _variants.csv
-└── extra-
+└── extra/
     ├── quests.csv
     ├── events.csv
     ├── objects.csv
@@ -79,16 +79,16 @@ Every category here corresponds to **one upstream source table**, so the Theme c
 
 | Category | File | Description | Rows |
 | --- | --- | --- | ---: |
-| quests | `extra-quests.csv` | Quest names (Archon / World / Story / Daily / Tribal, etc.) | 1,769 |
-| events | `extra-events.csv` | Event names | 1,842 |
-| objects | `extra-objects.csv` | Scene objects | 508 |
-| system | `extra-system.csv` | System and gameplay terminology | 447 |
-| archives | `extra-archives.csv` | Archive material | 386 |
-| story | `extra-story.csv` | Story and chapters | 348 |
-| facilities | `extra-facilities.csv` | Facilities and buildings | 270 |
-| organizations | `extra-organizations.csv` | Organizations and factions | 243 |
-| dialogue | `extra-dialogue.csv` | Dialogue expressions | 123 |
-| sereniteapot | `extra-sereniteapot.csv` | Serenitea Pot | 37 |
+| quests | `quests.csv` | Quest names (Archon / World / Story / Daily / Tribal, etc.) | 1,769 |
+| events | `events.csv` | Event names | 1,842 |
+| objects | `objects.csv` | Scene objects | 508 |
+| system | `system.csv` | System and gameplay terminology | 447 |
+| archives | `archives.csv` | Archive material | 386 |
+| story | `story.csv` | Story and chapters | 348 |
+| facilities | `facilities.csv` | Facilities and buildings | 270 |
+| organizations | `organizations.csv` | Organizations and factions | 243 |
+| dialogue | `dialogue.csv` | Dialogue expressions | 123 |
+| sereniteapot | `sereniteapot.csv` | Serenitea Pot | 37 |
 | **Subtotal** | 10 files | — | **5,973** |
 
 **Total for this directory: 20 files, 13,815 alignment rows (plus 395 alias rows).**

@@ -1,6 +1,6 @@
 # คลังศัพท์ 我的世界（Minecraft） — ภาษาไทย (`th-TH`)
 
-[← กลับไปยังคำอธิบายรวมของเกม](../../README.md)
+[← กลับไปยังคำอธิบายรวมของเกม](../../README.md) · [简体中文](README_zh-CN.md)
 
 ไดเรกทอรีนี้เป็นคลังศัพท์ที่**ใช้ภาษาไทย (`th-TH`) เป็นภาษาปลายทาง**
 มี **101,264 บรรทัดเทียบเคียง** ใน **ไฟล์ CSV 34 ไฟล์** (34 หมวดหมู่: 19 ไฟล์ในรากไดเรกทอรี
@@ -17,70 +17,70 @@
 
 | หมวดหมู่ | หัวข้อ | ไฟล์ | บรรทัด |
 | --- | --- | --- | --- |
-| `blocks` | บล็อก | `blocks.csv` | 25,426 |
-| `items` | ไอเทม | `items.csv` | 9,061 |
-| `entities` | เอนทิตี | `entities.csv` | 2,581 |
-| `biomes` | ไบโอม | `biomes.csv` | 835 |
-| `enchantments` | คาถาเสริม | `enchantments.csv` | 553 |
-| `effects` | เอฟเฟกต์สถานะ | `effects.csv` | 514 |
-| `instruments` | เครื่องดนตรี | `instruments.csv` | 98 |
-| `materials` | วัสดุตกแต่ง | `materials.csv` | 143 |
-| `paintings` | ภาพวาด | `paintings.csv` | 315 |
-| `attributes` | ค่าคุณลักษณะ | `attributes.csv` | 555 |
-| `item-groups` | กลุ่มไอเทม | `item-groups.csv` | 198 |
-| `jukebox-songs` | เพลงในตู้jukebox | `jukebox-songs.csv` | 42 |
-| `trim-patterns` | ลวดลายตกแต่ง | `trim-patterns.csv` | 234 |
-| `colors` | สี | `colors.csv` | 184 |
-| `statistics` | สถิติ | `statistics.csv` | 1,143 |
-| `maps` | แผนที่ | `maps.csv` | 422 |
-| `music` | เพลงประกอบ | `music.csv` | 192 |
-| `sound-categories` | หมวดหมู่เสียง | `sound-categories.csv` | 133 |
-| `game-modes` | โหมดเกม | `game-modes.csv` | 77 |
+| `blocks` | บล็อก | `blocks（บล็อก）.csv` | 25,426 |
+| `items` | ไอเทม | `items（ไอเทม）.csv` | 9,061 |
+| `entities` | เอนทิตี | `entities（เอนทิตี）.csv` | 2,581 |
+| `biomes` | ไบโอม | `biomes（ไบโอม）.csv` | 835 |
+| `enchantments` | คาถาเสริม | `enchantments（คาถา）.csv` | 553 |
+| `effects` | เอฟเฟกต์สถานะ | `effects（เอฟเฟกต์สถานะ）.csv` | 514 |
+| `instruments` | เครื่องดนตรี | `instruments（เครื่องดนตรี）.csv` | 98 |
+| `materials` | วัสดุตกแต่ง | `materials（วัสดุตกแต่งเกราะ）.csv` | 143 |
+| `paintings` | ภาพวาด | `paintings（ภาพวาด）.csv` | 315 |
+| `attributes` | ค่าคุณลักษณะ | `attributes（คุณสมบัติ）.csv` | 555 |
+| `item-groups` | กลุ่มไอเทม | `item-groups（กลุ่มไอเทม）.csv` | 198 |
+| `jukebox-songs` | เพลงในตู้jukebox | `jukebox-songs（เพลงจู๊กบ็อกซ์）.csv` | 42 |
+| `trim-patterns` | ลวดลายตกแต่ง | `trim-patterns（ลวดลายตกแต่งเกราะ）.csv` | 234 |
+| `colors` | สี | `colors（สี）.csv` | 184 |
+| `statistics` | สถิติ | `statistics（สถิติ）.csv` | 1,143 |
+| `maps` | แผนที่ | `maps（แผนที่）.csv` | 422 |
+| `music` | เพลงประกอบ | `music（เพลง）.csv` | 192 |
+| `sound-categories` | หมวดหมู่เสียง | `sound-categories（หมวดเสียง）.csv` | 133 |
+| `game-modes` | โหมดเกม | `game-modes（โหมดเกม）.csv` | 77 |
 
 ### `extra-` (ระบบและข้อความ)
 
 | หมวดหมู่ | หัวข้อ | ไฟล์ | บรรทัด |
 | --- | --- | --- | --- |
-| `subtitles` | คำบรรยาย | `extra-subtitles.csv` | 12,402 |
-| `death-messages` | ข้อความเมื่อตาย | `extra-death-messages.csv` | 1,336 |
-| `advancement-titles` | ชื่อความก้าวหน้า | `extra-advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | คำอธิบายความก้าวหน้า | `extra-advancement-descriptions.csv` | 1,641 |
-| `gamerules` | กฎของเกม | `extra-gamerules.csv` | 1,490 |
-| `commands` | คำสั่งและอาร์กิวเมนต์ | `extra-commands.csv` | 10,750 |
-| `gui` | ข้อความส่วนติดต่อผู้ใช้ | `extra-gui.csv` | 6,649 |
-| `options` | การตั้งค่าและปุ่มกด | `extra-options.csv` | 8,162 |
-| `multiplayer` | ผู้เล่นหลายคน | `extra-multiplayer.csv` | 2,010 |
-| `realms` | Realms | `extra-realms.csv` | 4,964 |
-| `world-management` | การจัดการโลก | `extra-world-management.csv` | 3,574 |
-| `resource-packs` | ทรัพยากรและดาต้าแพ็ก | `extra-resource-packs.csv` | 761 |
-| `telemetry` | การส่งข้อมูลเทเลเมทรี | `extra-telemetry.csv` | 897 |
-| `dev-tools` | เครื่องมือพัฒนาและทดสอบ | `extra-dev-tools.csv` | 1,803 |
-| `misc` | อื่น ๆ | `extra-misc.csv` | 516 |
+| `subtitles` | คำบรรยาย | `extra-subtitles（คำบรรยาย）.csv` | 12,402 |
+| `death-messages` | ข้อความเมื่อตาย | `extra-death-messages（ข้อความตาย）.csv` | 1,336 |
+| `advancement-titles` | ชื่อความก้าวหน้า | `extra-advancement-titles（ชื่อความก้าวหน้า）.csv` | 1,603 |
+| `advancement-descriptions` | คำอธิบายความก้าวหน้า | `extra-advancement-descriptions（คำอธิบายความก้าวหน้า）.csv` | 1,641 |
+| `gamerules` | กฎของเกม | `extra-gamerules（กฎเกม）.csv` | 1,490 |
+| `commands` | คำสั่งและอาร์กิวเมนต์ | `extra-commands（คำสั่งและอาร์กิวเมนต์）.csv` | 10,750 |
+| `gui` | ข้อความส่วนติดต่อผู้ใช้ | `extra-gui（ข้อความอินเทอร์เฟซ）.csv` | 6,649 |
+| `options` | การตั้งค่าและปุ่มกด | `extra-options（การตั้งค่าและปุ่ม）.csv` | 8,162 |
+| `multiplayer` | ผู้เล่นหลายคน | `extra-multiplayer（ผู้เล่นหลายคน）.csv` | 2,010 |
+| `realms` | Realms | `extra-realms（Realms）.csv` | 4,964 |
+| `world-management` | การจัดการโลก | `extra-world-management（การจัดการโลก）.csv` | 3,574 |
+| `resource-packs` | ทรัพยากรและดาต้าแพ็ก | `extra-resource-packs（ชุดทรัพยากรและข้อมูล）.csv` | 761 |
+| `telemetry` | การส่งข้อมูลเทเลเมทรี | `extra-telemetry（เทเลเมทรี）.csv` | 897 |
+| `dev-tools` | เครื่องมือพัฒนาและทดสอบ | `extra-dev-tools（เครื่องมือพัฒนาและทดสอบ）.csv` | 1,803 |
+| `misc` | อื่น ๆ | `extra-misc（อื่น ๆ）.csv` | 516 |
 
 ### รายการไฟล์
 
 ```text
 minecraft-glossary/
 <lang>/                       # 14 โฟลเดอร์ภาษา
-|   blocks.csv
-|   items.csv
-|   entities.csv
-|   biomes.csv
-|   enchantments.csv
-|   effects.csv
-|   instruments.csv
-|   materials.csv
-|   paintings.csv
-|   attributes.csv
-|   item-groups.csv
-|   jukebox-songs.csv
-|   trim-patterns.csv
-|   colors.csv
-|   statistics.csv
-|   maps.csv
-|   music.csv
-|   sound-categories.csv
-|   game-modes.csv
+|   blocks（บล็อก）.csv
+|   items（ไอเทม）.csv
+|   entities（เอนทิตี）.csv
+|   biomes（ไบโอม）.csv
+|   enchantments（คาถา）.csv
+|   effects（เอฟเฟกต์สถานะ）.csv
+|   instruments（เครื่องดนตรี）.csv
+|   materials（วัสดุตกแต่งเกราะ）.csv
+|   paintings（ภาพวาด）.csv
+|   attributes（คุณสมบัติ）.csv
+|   item-groups（กลุ่มไอเทม）.csv
+|   jukebox-songs（เพลงจู๊กบ็อกซ์）.csv
+|   trim-patterns（ลวดลายตกแต่งเกราะ）.csv
+|   colors（สี）.csv
+|   statistics（สถิติ）.csv
+|   maps（แผนที่）.csv
+|   music（เพลง）.csv
+|   sound-categories（หมวดเสียง）.csv
+|   game-modes（โหมดเกม）.csv
 |   +-- extra-               # หมวดหมู่ระบบและข้อความ
 |       |-- subtitles.csv
 |       |-- death-messages.csv

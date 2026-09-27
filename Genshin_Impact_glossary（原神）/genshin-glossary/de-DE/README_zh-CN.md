@@ -9,9 +9,9 @@
 本语言目录下共有 **27 个 CSV 文件**，分两层存放：
 
 - **17 个主类目**（直接位于本目录）：
-  `characters.csv`、`talents.csv`、`constellations.csv`、`weapons.csv`、`materials.csv`、`foods.csv`、`crafts.csv`、`artifacts.csv`、`domains.csv`、`enemies.csv`、`animals.csv`、`outfits.csv`、`windgliders.csv`、`namecards.csv`、`geographies.csv`、`achievements.csv`、`adventureranks.csv`
+  `characters（Charaktere）.csv`、`talents（Talente）.csv`、`constellations（Konstellationen）.csv`、`weapons（Waffen）.csv`、`materials（Materialien）.csv`、`foods（Speisen）.csv`、`crafts（Handwerksmaterialien）.csv`、`artifacts（Artefakte）.csv`、`domains（Domänen）.csv`、`enemies（Gegner）.csv`、`animals（Tiere）.csv`、`outfits（Kostüme）.csv`、`windgliders（Windgleiter）.csv`、`namecards（Namenskarten）.csv`、`geographies（Orts- und Gebietsnamen）.csv`、`achievements（Erfolge）.csv`、`adventureranks（Abenteurerstufen-Texte）.csv`
 - **10 个 TCG 子类目**（位于 `tcg-` 前缀）：
-  `tcg-action-cards.csv`、`tcg-character-cards.csv`、`tcg-enemy-cards.csv`、`tcg-summons.csv`、`tcg-status-effects.csv`、`tcg-keywords.csv`、`tcg-card-backs.csv`、`tcg-card-boxes.csv`、`tcg-detailed-rules.csv`、`tcg-level-rewards.csv`
+  `tcg-action-cards（Aktionskarten）.csv`、`tcg-character-cards（Charakterkarten）.csv`、`tcg-enemy-cards（Gegnerkarten）.csv`、`tcg-summons（Beschwörungen）.csv`、`tcg-status-effects（Statuseffekte）.csv`、`tcg-keywords（Schlüsselwörter）.csv`、`tcg-card-backs（Kartenrücken）.csv`、`tcg-card-boxes（Kartenboxen）.csv`、`tcg-detailed-rules（Ausführliche Regeln）.csv`、`tcg-level-rewards（Stufenbelohnungen）.csv`
 
 每个文件只有三列：
 
@@ -25,33 +25,33 @@
 
 | 分类 | 主题 | 条数 | 对照行 |
 | --- | --- | ---: | ---: |
-| `characters.csv` | 角色 | 122 | 577 |
-| `talents.csv` | 天赋 | 125 | 632 |
-| `constellations.csv` | 命之座 | 125 | 632 |
-| `weapons.csv` | 武器 | 249 | 2,823 |
-| `materials.csv` | 材料 | 919 | 10,636 |
-| `foods.csv` | 食物 | 398 | 4,541 |
-| `crafts.csv` | 合成材料 | 295 | 3,522 |
-| `artifacts.csv` | 圣遗物 | 63 | 727 |
-| `domains.csv` | 秘境 | 284 | 3,636 |
-| `enemies.csv` | 敌人 | 346 | 4,103 |
-| `animals.csv` | 生物 | 223 | 2,647 |
-| `outfits.csv` | 衣装 | 150 | 1,869 |
-| `windgliders.csv` | 风之翼 | 18 | 211 |
-| `namecards.csv` | 名片 | 289 | 3,606 |
-| `geographies.csv` | 地名 | 268 | 3,389 |
-| `achievements.csv` | 成就 | 1,548 | 19,464 |
-| `adventureranks.csv` | 冒险等阶说明 | 21 | 157 |
-| `tcg-action-cards.csv` | 行动牌 | 927 | 9,530 |
-| `tcg-character-cards.csv` | 角色牌 | 149 | 929 |
-| `tcg-enemy-cards.csv` | 敌人牌 | 134 | 1,114 |
-| `tcg-summons.csv` | 召唤物 | 152 | 1,139 |
-| `tcg-status-effects.csv` | 状态效果 | 1,159 | 11,217 |
-| `tcg-keywords.csv` | 关键词 | 139 | 1,511 |
-| `tcg-card-backs.csv` | 牌背 | 39 | 407 |
-| `tcg-card-boxes.csv` | 牌盒 | 7 | 32 |
-| `tcg-detailed-rules.csv` | 详细规则 | 11 | 142 |
-| `tcg-level-rewards.csv` | 等级奖励 | 26 | 169 |
+| `characters（Charaktere）.csv` | 角色 | 122 | 577 |
+| `talents（Talente）.csv` | 天赋 | 125 | 632 |
+| `constellations（Konstellationen）.csv` | 命之座 | 125 | 632 |
+| `weapons（Waffen）.csv` | 武器 | 249 | 2,823 |
+| `materials（Materialien）.csv` | 材料 | 919 | 10,636 |
+| `foods（Speisen）.csv` | 食物 | 398 | 4,541 |
+| `crafts（Handwerksmaterialien）.csv` | 合成材料 | 295 | 3,522 |
+| `artifacts（Artefakte）.csv` | 圣遗物 | 63 | 727 |
+| `domains（Domänen）.csv` | 秘境 | 284 | 3,636 |
+| `enemies（Gegner）.csv` | 敌人 | 346 | 4,103 |
+| `animals（Tiere）.csv` | 生物 | 223 | 2,647 |
+| `outfits（Kostüme）.csv` | 衣装 | 150 | 1,869 |
+| `windgliders（Windgleiter）.csv` | 风之翼 | 18 | 211 |
+| `namecards（Namenskarten）.csv` | 名片 | 289 | 3,606 |
+| `geographies（Orts- und Gebietsnamen）.csv` | 地名 | 268 | 3,389 |
+| `achievements（Erfolge）.csv` | 成就 | 1,548 | 19,464 |
+| `adventureranks（Abenteurerstufen-Texte）.csv` | 冒险等阶说明 | 21 | 157 |
+| `tcg-action-cards（Aktionskarten）.csv` | 行动牌 | 927 | 9,530 |
+| `tcg-character-cards（Charakterkarten）.csv` | 角色牌 | 149 | 929 |
+| `tcg-enemy-cards（Gegnerkarten）.csv` | 敌人牌 | 134 | 1,114 |
+| `tcg-summons（Beschwörungen）.csv` | 召唤物 | 152 | 1,139 |
+| `tcg-status-effects（Statuseffekte）.csv` | 状态效果 | 1,159 | 11,217 |
+| `tcg-keywords（Schlüsselwörter）.csv` | 关键词 | 139 | 1,511 |
+| `tcg-card-backs（Kartenrücken）.csv` | 牌背 | 39 | 407 |
+| `tcg-card-boxes（Kartenboxen）.csv` | 牌盒 | 7 | 32 |
+| `tcg-detailed-rules（Ausführliche Regeln）.csv` | 详细规则 | 11 | 142 |
+| `tcg-level-rewards（Stufenbelohnungen）.csv` | 等级奖励 | 26 | 169 |
 | **主类目（17 个文件）** | — | **5,443** | **63,172** |
 | **TCG（10 个文件）** | — | **2,743** | **26,190** |
 | **合计（27 个文件）** | — | **8,186** | **89,362** |

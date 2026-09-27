@@ -1,6 +1,6 @@
 # 异环（Neverness to Everness）术语库 — Français（`fr-FR`）
 
-[← 返回游戏总说明](../../README.md) ｜ [← nte-glossary 子库说明](../README.md)
+[← 返回游戏总说明](../../README.md) ｜ [← nte-glossary 子库说明](../README.md) ｜ [简体中文](README_zh-CN.md)
 
 本目录是**以 `fr-FR`（Français）为目标语言**的异环术语库。共 **21** 个类目 CSV、
 **55,391** 行对照。所有 CSV 的 `tgt_lng` 列固定为 `fr-FR`；`source` 列收录其余语言
@@ -10,27 +10,27 @@
 
 本目录为**扁平结构**，21 个类目 CSV 直接放在本目录下，没有额外的子目录：
 
-- `achievements.csv` — 成就
-- `buffs.csv` — 增益与效果
-- `characters.csv` — 角色
-- `combat.csv` — 战斗
-- `dungeons.csv` — 关卡与副本
-- `enemies.csv` — 敌人
-- `equipment.csv` — 装备
-- `factions.csv` — 阵营与势力
-- `furniture.csv` — 家具
-- `items.csv` — 道具与材料
-- `npcs.csv` — NPC
-- `quests.csv` — 任务
-- `regions.csv` — 地区
-- `skills.csv` — 技能
-- `specials.csv` — 特殊系统
-- `story.csv` — 剧情专有名词
-- `system.csv` — 系统文本
-- `terms.csv` — 术语
-- `ui.csv` — UI 文本
-- `vehicles.csv` — 载具
-- `weapons.csv` — 武器
+- `achievements（Succès）.csv` — 成就
+- `buffs（Bonus et effets）.csv` — 增益与效果
+- `characters（Personnages）.csv` — 角色
+- `combat（Combat）.csv` — 战斗
+- `dungeons（Niveaux et domaines）.csv` — 关卡与副本
+- `enemies（Ennemis）.csv` — 敌人
+- `equipment（Équipement）.csv` — 装备
+- `factions（Factions）.csv` — 阵营与势力
+- `furniture（Meubles）.csv` — 家具
+- `items（Objets et matériaux）.csv` — 道具与材料
+- `npcs（PNJ）.csv` — NPC
+- `quests（Quêtes）.csv` — 任务
+- `regions（Régions）.csv` — 地区
+- `skills（Compétences）.csv` — 技能
+- `specials（Systèmes spéciaux）.csv` — 特殊系统
+- `story（Termes scénaristiques）.csv` — 剧情专有名词
+- `system（Textes système）.csv` — 系统文本
+- `terms（Termes）.csv` — 术语
+- `ui（Textes d’interface）.csv` — UI 文本
+- `vehicles（Véhicules）.csv` — 载具
+- `weapons（Armes）.csv` — 武器
 
 每个文件都是 `source,target,tgt_lng` 三列（首行为表头）：对 `tgt_lng` 指定的目标语言，
 `target` 是译文，`source` 是**其它某一语言**的原文。文件可直接导入 CAT 工具或沉浸式翻译等术语匹配软件。

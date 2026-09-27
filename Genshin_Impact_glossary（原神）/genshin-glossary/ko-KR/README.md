@@ -1,6 +1,6 @@
 # 원신（原神）용어집 — 한국어（`ko-KR`）
 
-[← 게임 전체 설명으로 돌아가기](../../README.md)
+[← 게임 전체 설명으로 돌아가기](../../README.md) · [简体中文](README_zh-CN.md)
 
 이 디렉터리는 Genshin Impact(원신) 용어집 가운데 **`ko-KR`를 대상 언어로 하는** 주 용어집입니다. 중복을 제거한 **8,186**개 용어와 **89,460**개 대역 행(주 분류 17개 파일 **63,180**행, TCG 10개 파일 **26,280**행)을 수록합니다. 27개 CSV 모두 `tgt_lng` 열이 `ko-KR`로 고정되어 있고, `source`에는 나머지 13개 언어 중 하나의 표기, `target`에는 이 대상 언어의 명칭이 들어 있습니다.
 
@@ -9,9 +9,9 @@
 이 언어 디렉터리에는 두 계층에 걸쳐 **CSV 파일 27개**가 있습니다.
 
 - **주 분류 17개**(이 디렉터리 바로 아래):
-  `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv`
+  `characters（캐릭터）.csv`, `talents（특성）.csv`, `constellations（별자리）.csv`, `weapons（무기）.csv`, `materials（재료）.csv`, `foods（음식）.csv`, `crafts（제작 재료）.csv`, `artifacts（성유물）.csv`, `domains（비경）.csv`, `enemies（적）.csv`, `animals（동물）.csv`, `outfits（의상）.csv`, `windgliders（바람의 날개）.csv`, `namecards（명함）.csv`, `geographies（지명）.csv`, `achievements（업적）.csv`, `adventureranks（모험 등급 설명）.csv`
 - **TCG 하위 분류 10개**(`tcg-` 하위 폴더):
-  `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv`
+  `tcg-action-cards（행동 카드）.csv`, `tcg-character-cards（캐릭터 카드）.csv`, `tcg-enemy-cards（적 카드）.csv`, `tcg-summons（소환물）.csv`, `tcg-status-effects（상태 효과）.csv`, `tcg-keywords（키워드）.csv`, `tcg-card-backs（카드 뒷면）.csv`, `tcg-card-boxes（카드 상자）.csv`, `tcg-detailed-rules（상세 규칙）.csv`, `tcg-level-rewards（레벨 보상）.csv`
 
 각 파일은 다음 세 개 열로만 구성됩니다.
 
@@ -25,33 +25,33 @@
 
 | 분류 | 주제 | 용어 수 | 대역 행 |
 | --- | --- | ---: | ---: |
-| `characters.csv` | 캐릭터 | 122 | 577 |
-| `talents.csv` | 특성 | 125 | 632 |
-| `constellations.csv` | 별자리 | 125 | 632 |
-| `weapons.csv` | 무기 | 249 | 2,823 |
-| `materials.csv` | 재료 | 919 | 10,636 |
-| `foods.csv` | 음식 | 398 | 4,541 |
-| `crafts.csv` | 제작 재료 | 295 | 3,522 |
-| `artifacts.csv` | 성유물 | 63 | 727 |
-| `domains.csv` | 비경 | 284 | 3,636 |
-| `enemies.csv` | 적 | 346 | 4,104 |
-| `animals.csv` | 동물 | 223 | 2,647 |
-| `outfits.csv` | 의상 | 150 | 1,869 |
-| `windgliders.csv` | 바람의 날개 | 18 | 211 |
-| `namecards.csv` | 명함 | 289 | 3,606 |
-| `geographies.csv` | 지명 | 268 | 3,389 |
-| `achievements.csv` | 업적 | 1,548 | 19,461 |
-| `adventureranks.csv` | 모험 등급 설명 | 21 | 167 |
-| `tcg-action-cards.csv` | 행동 카드 | 927 | 9,636 |
-| `tcg-character-cards.csv` | 캐릭터 카드 | 149 | 929 |
-| `tcg-enemy-cards.csv` | 적 카드 | 134 | 1,114 |
-| `tcg-summons.csv` | 소환물 | 152 | 1,139 |
-| `tcg-status-effects.csv` | 상태 효과 | 1,159 | 11,201 |
-| `tcg-keywords.csv` | 키워드 | 139 | 1,511 |
-| `tcg-card-backs.csv` | 카드 뒷면 | 39 | 407 |
-| `tcg-card-boxes.csv` | 카드 상자 | 7 | 32 |
-| `tcg-detailed-rules.csv` | 상세 규칙 | 11 | 142 |
-| `tcg-level-rewards.csv` | 레벨 보상 | 26 | 169 |
+| `characters（캐릭터）.csv` | 캐릭터 | 122 | 577 |
+| `talents（특성）.csv` | 특성 | 125 | 632 |
+| `constellations（별자리）.csv` | 별자리 | 125 | 632 |
+| `weapons（무기）.csv` | 무기 | 249 | 2,823 |
+| `materials（재료）.csv` | 재료 | 919 | 10,636 |
+| `foods（음식）.csv` | 음식 | 398 | 4,541 |
+| `crafts（제작 재료）.csv` | 제작 재료 | 295 | 3,522 |
+| `artifacts（성유물）.csv` | 성유물 | 63 | 727 |
+| `domains（비경）.csv` | 비경 | 284 | 3,636 |
+| `enemies（적）.csv` | 적 | 346 | 4,104 |
+| `animals（동물）.csv` | 동물 | 223 | 2,647 |
+| `outfits（의상）.csv` | 의상 | 150 | 1,869 |
+| `windgliders（바람의 날개）.csv` | 바람의 날개 | 18 | 211 |
+| `namecards（명함）.csv` | 명함 | 289 | 3,606 |
+| `geographies（지명）.csv` | 지명 | 268 | 3,389 |
+| `achievements（업적）.csv` | 업적 | 1,548 | 19,461 |
+| `adventureranks（모험 등급 설명）.csv` | 모험 등급 설명 | 21 | 167 |
+| `tcg-action-cards（행동 카드）.csv` | 행동 카드 | 927 | 9,636 |
+| `tcg-character-cards（캐릭터 카드）.csv` | 캐릭터 카드 | 149 | 929 |
+| `tcg-enemy-cards（적 카드）.csv` | 적 카드 | 134 | 1,114 |
+| `tcg-summons（소환물）.csv` | 소환물 | 152 | 1,139 |
+| `tcg-status-effects（상태 효과）.csv` | 상태 효과 | 1,159 | 11,201 |
+| `tcg-keywords（키워드）.csv` | 키워드 | 139 | 1,511 |
+| `tcg-card-backs（카드 뒷면）.csv` | 카드 뒷면 | 39 | 407 |
+| `tcg-card-boxes（카드 상자）.csv` | 카드 상자 | 7 | 32 |
+| `tcg-detailed-rules（상세 규칙）.csv` | 상세 규칙 | 11 | 142 |
+| `tcg-level-rewards（레벨 보상）.csv` | 레벨 보상 | 26 | 169 |
 | **주 분류(17개 파일)** | — | **5,443** | **63,180** |
 | **TCG(10개 파일)** | — | **2,743** | **26,280** |
 | **합계(27개 파일)** | — | **8,186** | **89,460** |

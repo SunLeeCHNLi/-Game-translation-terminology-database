@@ -10,27 +10,27 @@
 
 本目录为**扁平结构**，21 个类目 CSV 直接放在本目录下，没有额外的子目录：
 
-- `achievements.csv` — 成就
-- `buffs.csv` — 增益与效果
-- `characters.csv` — 角色
-- `combat.csv` — 战斗
-- `dungeons.csv` — 关卡与副本
-- `enemies.csv` — 敌人
-- `equipment.csv` — 装备
-- `factions.csv` — 阵营与势力
-- `furniture.csv` — 家具
-- `items.csv` — 道具与材料
-- `npcs.csv` — NPC
-- `quests.csv` — 任务
-- `regions.csv` — 地区
-- `skills.csv` — 技能
-- `specials.csv` — 特殊系统
-- `story.csv` — 剧情专有名词
-- `system.csv` — 系统文本
-- `terms.csv` — 术语
-- `ui.csv` — UI 文本
-- `vehicles.csv` — 载具
-- `weapons.csv` — 武器
+- `achievements（업적）.csv` — 成就
+- `buffs（버프와 효과）.csv` — 增益与效果
+- `characters（캐릭터）.csv` — 角色
+- `combat（전투）.csv` — 战斗
+- `dungeons（스테이지와 비경）.csv` — 关卡与副本
+- `enemies（적）.csv` — 敌人
+- `equipment（장비）.csv` — 装备
+- `factions（세력과 진영）.csv` — 阵营与势力
+- `furniture（가구）.csv` — 家具
+- `items（아이템과 재료）.csv` — 道具与材料
+- `npcs（NPC）.csv` — NPC
+- `quests（임무）.csv` — 任务
+- `regions（지역）.csv` — 地区
+- `skills（스킬）.csv` — 技能
+- `specials（특수 시스템）.csv` — 特殊系统
+- `story（스토리 고유명사）.csv` — 剧情专有名词
+- `system（시스템 텍스트）.csv` — 系统文本
+- `terms（용어）.csv` — 术语
+- `ui（UI 텍스트）.csv` — UI 文本
+- `vehicles（탈것）.csv` — 载具
+- `weapons（무기）.csv` — 武器
 
 每个文件都是 `source,target,tgt_lng` 三列（首行为表头）：对 `tgt_lng` 指定的目标语言，
 `target` 是译文，`source` 是**其它某一语言**的原文。文件可直接导入 CAT 工具或沉浸式翻译等术语匹配软件。

@@ -1,6 +1,6 @@
 # 《蔚藍檔案》術語庫 — 繁體中文（`zh-TW`）
 
-[← 返回遊戲總說明](../README.md)
+[← 返回遊戲總說明](../README.md) · [简体中文](README_zh-CN.md)
 
 本資料夾是**以 `zh-TW`（繁體中文）為目標語言**的術語庫：每一條都是「其他語言寫法 → 繁體中文」的對照，共 **6036** 條詞條、**27453** 行對照，`tgt_lng` 欄固定為 `zh-TW`，`source` 欄收錄 `zh-CN` / `en-US` / `ja-JP` / `ko-KR` / `th-TH` 五種語言裡同一詞條的寫法。需要每一詞條六語並排的完整檢視，請見 `../_master/<target-language>__README.md` 與 `../multilingual/00_master/`。
 

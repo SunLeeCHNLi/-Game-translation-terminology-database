@@ -1,6 +1,6 @@
 # 我的世界（Minecraft） Wiki 譯名標準化補充詞庫 — 繁體中文（`zh-TW`）
 
-[← 返回遊戲總說明](../../README.md)
+[← 返回遊戲總說明](../../README.md) · [简体中文](README_zh-CN.md)
 
 本目錄是 `minecraft-glossary/` 的**補充詞庫**，**以繁體中文（`zh-TW`）為目標語言**，
 共 **13 個 CSV 檔案**（13 個分類）、**5,157 行對照**。詞條取自
@@ -15,52 +15,52 @@
 
 | 分類 | 主題 | 檔案 | 對照行 |
 | --- | --- | --- | --- |
-| `advancements` | 進度 | `advancements.csv` | 242 |
-| `biomes` | 生物群系 | `biomes.csv` | 117 |
-| `blocks` | 方塊 | `blocks.csv` | 2,561 |
-| `effects` | 狀態效果 | `effects.csv` | 73 |
-| `enchantments` | 附魔 | `enchantments.csv` | 82 |
-| `entities` | 實體 | `entities.csv` | 289 |
-| `environment` | 環境 | `environment.csv` | 205 |
-| `game-content` | 遊戲內容 | `game-content.csv` | 113 |
-| `game-modes` | 遊戲模式 | `game-modes.csv` | 31 |
-| `game-versions` | 遊戲版本 | `game-versions.csv` | 101 |
-| `items` | 物品 | `items.csv` | 1,178 |
-| `other` | 其他 | `other.csv` | 64 |
-| `technical` | 技術性內容 | `technical.csv` | 101 |
+| `advancements` | 進度 | `advancements（進度）.csv` | 242 |
+| `biomes` | 生物群系 | `biomes（生態域）.csv` | 117 |
+| `blocks` | 方塊 | `blocks（方塊）.csv` | 2,561 |
+| `effects` | 狀態效果 | `effects（狀態效果）.csv` | 73 |
+| `enchantments` | 附魔 | `enchantments（附魔）.csv` | 82 |
+| `entities` | 實體 | `entities（實體）.csv` | 289 |
+| `environment` | 環境 | `environment（環境）.csv` | 205 |
+| `game-content` | 遊戲內容 | `game-content（遊戲內容）.csv` | 113 |
+| `game-modes` | 遊戲模式 | `game-modes（遊戲模式）.csv` | 31 |
+| `game-versions` | 遊戲版本 | `game-versions（遊戲版本）.csv` | 101 |
+| `items` | 物品 | `items（物品）.csv` | 1,178 |
+| `other` | 其他 | `other（其他）.csv` | 64 |
+| `technical` | 技術性內容 | `technical（技術性）.csv` | 101 |
 
 ### 檔案清單
 
 ```text
 minecraft-glossary-supplement/
 +-- zh-CN/
-|   |-- advancements.csv
-|   |-- biomes.csv
-|   |-- blocks.csv
-|   |-- effects.csv
-|   |-- enchantments.csv
-|   |-- entities.csv
-|   |-- environment.csv
-|   |-- game-content.csv
-|   |-- game-modes.csv
-|   |-- game-versions.csv
-|   |-- items.csv
-|   |-- other.csv
-|   \-- technical.csv
+|   |-- advancements（進度）.csv
+|   |-- biomes（生態域）.csv
+|   |-- blocks（方塊）.csv
+|   |-- effects（狀態效果）.csv
+|   |-- enchantments（附魔）.csv
+|   |-- entities（實體）.csv
+|   |-- environment（環境）.csv
+|   |-- game-content（遊戲內容）.csv
+|   |-- game-modes（遊戲模式）.csv
+|   |-- game-versions（遊戲版本）.csv
+|   |-- items（物品）.csv
+|   |-- other（其他）.csv
+|   \-- technical（技術性）.csv
 +-- zh-TW/
-|   |-- advancements.csv
-|   |-- biomes.csv
-|   |-- blocks.csv
-|   |-- effects.csv
-|   |-- enchantments.csv
-|   |-- entities.csv
-|   |-- environment.csv
-|   |-- game-content.csv
-|   |-- game-modes.csv
-|   |-- game-versions.csv
-|   |-- items.csv
-|   |-- other.csv
-|   \-- technical.csv
+|   |-- advancements（進度）.csv
+|   |-- biomes（生態域）.csv
+|   |-- blocks（方塊）.csv
+|   |-- effects（狀態效果）.csv
+|   |-- enchantments（附魔）.csv
+|   |-- entities（實體）.csv
+|   |-- environment（環境）.csv
+|   |-- game-content（遊戲內容）.csv
+|   |-- game-modes（遊戲模式）.csv
+|   |-- game-versions（遊戲版本）.csv
+|   |-- items（物品）.csv
+|   |-- other（其他）.csv
+|   \-- technical（技術性）.csv
 ```
 
 ## 說明

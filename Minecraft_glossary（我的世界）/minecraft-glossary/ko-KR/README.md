@@ -6,8 +6,8 @@
 
 ## 파일
 
-- `blocks.csv`, `items.csv`, `entities.csv`, `biomes.csv`, `enchantments.csv`, `effects.csv`, `instruments.csv`, `materials.csv`, `paintings.csv`, `attributes.csv`, `item-groups.csv`, `jukebox-songs.csv`, `trim-patterns.csv`, `colors.csv`, `statistics.csv`, `maps.csv`, `music.csv`, `sound-categories.csv`, `game-modes.csv` — 주요 분류 파일 19개
-- `extra-subtitles.csv`, `extra-death-messages.csv`, `extra-advancement-titles.csv`, `extra-advancement-descriptions.csv`, `extra-gamerules.csv`, `extra-commands.csv`, `extra-gui.csv`, `extra-options.csv`, `extra-multiplayer.csv`, `extra-realms.csv`, `extra-world-management.csv`, `extra-resource-packs.csv`, `extra-telemetry.csv`, `extra-dev-tools.csv`, `extra-misc.csv` — `extra-` 시스템·텍스트 분류 파일 15개
+- `blocks（블록）.csv`, `items（아이템）.csv`, `entities（개체）.csv`, `biomes（생물 군계）.csv`, `enchantments（마법 부여）.csv`, `effects（상태 효과）.csv`, `instruments（악기）.csv`, `materials（갑옷 장식 재료）.csv`, `paintings（그림）.csv`, `attributes（속성）.csv`, `item-groups（아이템 그룹）.csv`, `jukebox-songs（주크박스 곡）.csv`, `trim-patterns（갑옷 장식 문양）.csv`, `colors（색상）.csv`, `statistics（통계）.csv`, `maps（지도）.csv`, `music（음악）.csv`, `sound-categories（사운드 분류）.csv`, `game-modes（게임 모드）.csv` — 주요 분류 파일 19개
+- `extra-subtitles（자막）.csv`, `extra-death-messages（사망 메시지）.csv`, `extra-advancement-titles（발전 과제 제목）.csv`, `extra-advancement-descriptions（발전 과제 설명）.csv`, `extra-gamerules（게임 규칙）.csv`, `extra-commands（명령어와 인수）.csv`, `extra-gui（인터페이스 텍스트）.csv`, `extra-options（설정과 키）.csv`, `extra-multiplayer（멀티플레이）.csv`, `extra-realms（Realms）.csv`, `extra-world-management（세계 관리）.csv`, `extra-resource-packs（리소스 팩과 데이터 팩）.csv`, `extra-telemetry（텔레메트리）.csv`, `extra-dev-tools（개발·테스트 도구）.csv`, `extra-misc（기타）.csv` — `extra-` 시스템·텍스트 분류 파일 15개
 
 모두 **34개의 CSV 파일**이며, 형식은 동일한 3열입니다:
 
@@ -20,25 +20,25 @@
 
 ```text
 ko-KR/
-├── blocks.csv
-├── items.csv
-├── entities.csv
-├── biomes.csv
-├── enchantments.csv
-├── effects.csv
-├── instruments.csv
-├── materials.csv
-├── paintings.csv
-├── attributes.csv
-├── item-groups.csv
-├── jukebox-songs.csv
-├── trim-patterns.csv
-├── colors.csv
-├── statistics.csv
-├── maps.csv
-├── music.csv
-├── sound-categories.csv
-├── game-modes.csv
+├── blocks（블록）.csv
+├── items（아이템）.csv
+├── entities（개체）.csv
+├── biomes（생물 군계）.csv
+├── enchantments（마법 부여）.csv
+├── effects（상태 효과）.csv
+├── instruments（악기）.csv
+├── materials（갑옷 장식 재료）.csv
+├── paintings（그림）.csv
+├── attributes（속성）.csv
+├── item-groups（아이템 그룹）.csv
+├── jukebox-songs（주크박스 곡）.csv
+├── trim-patterns（갑옷 장식 문양）.csv
+├── colors（색상）.csv
+├── statistics（통계）.csv
+├── maps（지도）.csv
+├── music（음악）.csv
+├── sound-categories（사운드 분류）.csv
+├── game-modes（게임 모드）.csv
 └── extra-  # 시스템·텍스트 분류
     ├── subtitles.csv
     ├── death-messages.csv
@@ -65,46 +65,46 @@ ko-KR/
 
 | 분류 | 주제 | 표제어 수 | 대조 행 수 |
 | --- | --- | ---: | ---: |
-| `blocks.csv` | 블록 | 1,975 | 25,426 |
-| `items.csv` | 아이템 | 803 | 9,061 |
-| `entities.csv` | 엔티티 | 219 | 2,582 |
-| `biomes.csv` | 생물 군계 | 67 | 835 |
-| `enchantments.csv` | 마법 부여 | 54 | 553 |
-| `effects.csv` | 상태 효과 | 42 | 514 |
-| `instruments.csv` | 악기 | 8 | 98 |
-| `materials.csv` | 갑옷 장식 재료 | 11 | 143 |
-| `paintings.csv` | 그림 | 104 | 315 |
-| `attributes.csv` | 속성 | 83 | 565 |
-| `item-groups.csv` | 아이템 그룹 | 16 | 198 |
-| `jukebox-songs.csv` | 주크박스 곡 | 22 | 42 |
-| `trim-patterns.csv` | 갑옷 장식 무늬 | 18 | 234 |
-| `colors.csv` | 색상 | 16 | 184 |
-| `statistics.csv` | 통계 | 88 | 1,143 |
-| `maps.csv` | 지도 | 33 | 422 |
-| `music.csv` | 음악 | 70 | 192 |
-| `sound-categories.csv` | 소리 분류 | 11 | 133 |
-| `game-modes.csv` | 게임 모드 | 6 | 77 |
+| `blocks（블록）.csv` | 블록 | 1,975 | 25,426 |
+| `items（아이템）.csv` | 아이템 | 803 | 9,061 |
+| `entities（개체）.csv` | 엔티티 | 219 | 2,582 |
+| `biomes（생물 군계）.csv` | 생물 군계 | 67 | 835 |
+| `enchantments（마법 부여）.csv` | 마법 부여 | 54 | 553 |
+| `effects（상태 효과）.csv` | 상태 효과 | 42 | 514 |
+| `instruments（악기）.csv` | 악기 | 8 | 98 |
+| `materials（갑옷 장식 재료）.csv` | 갑옷 장식 재료 | 11 | 143 |
+| `paintings（그림）.csv` | 그림 | 104 | 315 |
+| `attributes（속성）.csv` | 속성 | 83 | 565 |
+| `item-groups（아이템 그룹）.csv` | 아이템 그룹 | 16 | 198 |
+| `jukebox-songs（주크박스 곡）.csv` | 주크박스 곡 | 22 | 42 |
+| `trim-patterns（갑옷 장식 문양）.csv` | 갑옷 장식 무늬 | 18 | 234 |
+| `colors（색상）.csv` | 색상 | 16 | 184 |
+| `statistics（통계）.csv` | 통계 | 88 | 1,143 |
+| `maps（지도）.csv` | 지도 | 33 | 422 |
+| `music（음악）.csv` | 음악 | 70 | 192 |
+| `sound-categories（사운드 분류）.csv` | 소리 분류 | 11 | 133 |
+| `game-modes（게임 모드）.csv` | 게임 모드 | 6 | 77 |
 | **소계** | 19개 파일 | **3,646** | **42,717** |
 
 ### `extra-` 분류(시스템·텍스트)
 
 | 분류 | 주제 | 표제어 수 | 대조 행 수 |
 | --- | --- | ---: | ---: |
-| `extra-subtitles.csv` | 자막 | 1,023 | 12,412 |
-| `extra-death-messages.csv` | 사망 메시지 | 106 | 1,352 |
-| `extra-advancement-titles.csv` | 발전 과제 제목 | 127 | 1,603 |
-| `extra-advancement-descriptions.csv` | 발전 과제 설명 | 127 | 1,641 |
-| `extra-gamerules.csv` | 게임 규칙 | 117 | 1,490 |
-| `extra-commands.csv` | 명령어와 인수 | 856 | 10,733 |
-| `extra-gui.csv` | 인터페이스 텍스트 | 581 | 6,637 |
-| `extra-options.csv` | 설정 및 키 | 754 | 8,163 |
-| `extra-multiplayer.csv` | 멀티플레이 | 173 | 2,015 |
-| `extra-realms.csv` | Realms | 426 | 4,970 |
-| `extra-world-management.csv` | 월드 관리 | 294 | 3,569 |
-| `extra-resource-packs.csv` | 리소스 팩과 데이터 팩 | 62 | 761 |
-| `extra-telemetry.csv` | 원격 측정 | 70 | 897 |
-| `extra-dev-tools.csv` | 개발 및 테스트 도구 | 144 | 1,803 |
-| `extra-misc.csv` | 기타 | 53 | 516 |
+| `extra-subtitles（자막）.csv` | 자막 | 1,023 | 12,412 |
+| `extra-death-messages（사망 메시지）.csv` | 사망 메시지 | 106 | 1,352 |
+| `extra-advancement-titles（발전 과제 제목）.csv` | 발전 과제 제목 | 127 | 1,603 |
+| `extra-advancement-descriptions（발전 과제 설명）.csv` | 발전 과제 설명 | 127 | 1,641 |
+| `extra-gamerules（게임 규칙）.csv` | 게임 규칙 | 117 | 1,490 |
+| `extra-commands（명령어와 인수）.csv` | 명령어와 인수 | 856 | 10,733 |
+| `extra-gui（인터페이스 텍스트）.csv` | 인터페이스 텍스트 | 581 | 6,637 |
+| `extra-options（설정과 키）.csv` | 설정 및 키 | 754 | 8,163 |
+| `extra-multiplayer（멀티플레이）.csv` | 멀티플레이 | 173 | 2,015 |
+| `extra-realms（Realms）.csv` | Realms | 426 | 4,970 |
+| `extra-world-management（세계 관리）.csv` | 월드 관리 | 294 | 3,569 |
+| `extra-resource-packs（리소스 팩과 데이터 팩）.csv` | 리소스 팩과 데이터 팩 | 62 | 761 |
+| `extra-telemetry（텔레메트리）.csv` | 원격 측정 | 70 | 897 |
+| `extra-dev-tools（개발·테스트 도구）.csv` | 개발 및 테스트 도구 | 144 | 1,803 |
+| `extra-misc（기타）.csv` | 기타 | 53 | 516 |
 | **소계** | 15개 파일 | **4,913** | **58,562** |
 
 **이 디렉터리 합계: 34개 파일, `target` 열 기준 중복 제거 표제어 7,784개, 대조 101,279행.**

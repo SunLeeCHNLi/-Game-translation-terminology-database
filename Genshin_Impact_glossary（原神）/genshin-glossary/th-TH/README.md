@@ -6,8 +6,8 @@
 
 ## ไฟล์
 
-- `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 ไฟล์หมวดหมู่หลัก
-- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 ไฟล์หมวดหมู่ย่อย TCG (เกมเรียกเทพทั้งเจ็ด)
+- `characters（ตัวละคร）.csv`, `talents（พรสวรรค์）.csv`, `constellations（กลุ่มดาว）.csv`, `weapons（อาวุธ）.csv`, `materials（วัสดุ）.csv`, `foods（อาหาร）.csv`, `crafts（วัสดุสังเคราะห์）.csv`, `artifacts（อาร์ติแฟกต์）.csv`, `domains（ดันเจียน）.csv`, `enemies（ศัตรู）.csv`, `animals（สิ่งมีชีวิต）.csv`, `outfits（เครื่องแต่งกาย）.csv`, `windgliders（เครื่องร่อนเวหา）.csv`, `namecards（นามบัตร）.csv`, `geographies（ชื่อสถานที่）.csv`, `achievements（ความสำเร็จ）.csv`, `adventureranks（ข้อความระดับนักผจญภัย）.csv` — 17 ไฟล์หมวดหมู่หลัก
+- `tcg-action-cards（การ์ดแอ็กชัน）.csv`, `tcg-character-cards（การ์ดตัวละคร）.csv`, `tcg-enemy-cards（การ์ดศัตรู）.csv`, `tcg-summons（สิ่งอัญเชิญ）.csv`, `tcg-status-effects（เอฟเฟกต์สถานะ）.csv`, `tcg-keywords（คีย์เวิร์ด）.csv`, `tcg-card-backs（ด้านหลังการ์ด）.csv`, `tcg-card-boxes（กล่องการ์ด）.csv`, `tcg-detailed-rules（กฎโดยละเอียด）.csv`, `tcg-level-rewards（รางวัลเลเวล）.csv` — 10 ไฟล์หมวดหมู่ย่อย TCG (เกมเรียกเทพทั้งเจ็ด)
 
 รวม **27 ไฟล์ CSV** ทุกไฟล์มีรูปแบบเดียวกันคือสามคอลัมน์:
 
@@ -20,23 +20,23 @@
 
 ```text
 th-TH/
-├── characters.csv
-├── talents.csv
-├── constellations.csv
-├── weapons.csv
-├── materials.csv
-├── foods.csv
-├── crafts.csv
-├── artifacts.csv
-├── domains.csv
-├── enemies.csv
-├── animals.csv
-├── outfits.csv
-├── windgliders.csv
-├── namecards.csv
-├── geographies.csv
-├── achievements.csv
-├── adventureranks.csv
+├── characters（ตัวละคร）.csv
+├── talents（พรสวรรค์）.csv
+├── constellations（กลุ่มดาว）.csv
+├── weapons（อาวุธ）.csv
+├── materials（วัสดุ）.csv
+├── foods（อาหาร）.csv
+├── crafts（วัสดุสังเคราะห์）.csv
+├── artifacts（อาร์ติแฟกต์）.csv
+├── domains（ดันเจียน）.csv
+├── enemies（ศัตรู）.csv
+├── animals（สิ่งมีชีวิต）.csv
+├── outfits（เครื่องแต่งกาย）.csv
+├── windgliders（เครื่องร่อนเวหา）.csv
+├── namecards（นามบัตร）.csv
+├── geographies（ชื่อสถานที่）.csv
+├── achievements（ความสำเร็จ）.csv
+├── adventureranks（ข้อความระดับนักผจญภัย）.csv
 └── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
@@ -58,39 +58,39 @@ th-TH/
 
 | หมวดหมู่ | ไฟล์ | คำศัพท์ | บรรทัด |
 | --- | --- | ---: | ---: |
-| characters | `characters.csv` | 122 | 577 |
-| talents | `talents.csv` | 125 | 632 |
-| constellations | `constellations.csv` | 125 | 632 |
-| weapons | `weapons.csv` | 249 | 2,823 |
-| materials | `materials.csv` | 919 | 10,636 |
-| foods | `foods.csv` | 398 | 4,541 |
-| crafts | `crafts.csv` | 295 | 3,522 |
-| artifacts | `artifacts.csv` | 63 | 727 |
-| domains | `domains.csv` | 284 | 3,636 |
-| enemies | `enemies.csv` | 346 | 4,104 |
-| animals | `animals.csv` | 223 | 2,647 |
-| outfits | `outfits.csv` | 150 | 1,869 |
-| windgliders | `windgliders.csv` | 18 | 211 |
-| namecards | `namecards.csv` | 289 | 3,606 |
-| geographies | `geographies.csv` | 268 | 3,389 |
-| achievements | `achievements.csv` | 1,548 | 19,464 |
-| adventureranks | `adventureranks.csv` | 21 | 157 |
+| characters | `characters（ตัวละคร）.csv` | 122 | 577 |
+| talents | `talents（พรสวรรค์）.csv` | 125 | 632 |
+| constellations | `constellations（กลุ่มดาว）.csv` | 125 | 632 |
+| weapons | `weapons（อาวุธ）.csv` | 249 | 2,823 |
+| materials | `materials（วัสดุ）.csv` | 919 | 10,636 |
+| foods | `foods（อาหาร）.csv` | 398 | 4,541 |
+| crafts | `crafts（วัสดุสังเคราะห์）.csv` | 295 | 3,522 |
+| artifacts | `artifacts（อาร์ติแฟกต์）.csv` | 63 | 727 |
+| domains | `domains（ดันเจียน）.csv` | 284 | 3,636 |
+| enemies | `enemies（ศัตรู）.csv` | 346 | 4,104 |
+| animals | `animals（สิ่งมีชีวิต）.csv` | 223 | 2,647 |
+| outfits | `outfits（เครื่องแต่งกาย）.csv` | 150 | 1,869 |
+| windgliders | `windgliders（เครื่องร่อนเวหา）.csv` | 18 | 211 |
+| namecards | `namecards（นามบัตร）.csv` | 289 | 3,606 |
+| geographies | `geographies（ชื่อสถานที่）.csv` | 268 | 3,389 |
+| achievements | `achievements（ความสำเร็จ）.csv` | 1,548 | 19,464 |
+| adventureranks | `adventureranks（ข้อความระดับนักผจญภัย）.csv` | 21 | 157 |
 | **รวมย่อย** | 17 ไฟล์ | — | **63,173** |
 
 ### หมวดหมู่ย่อย TCG (`tcg-`)
 
 | หมวดหมู่ย่อย | ไฟล์ | คำศัพท์ | บรรทัด |
 | --- | --- | ---: | ---: |
-| action-cards | `tcg-action-cards.csv` | 927 | 9,609 |
-| character-cards | `tcg-character-cards.csv` | 149 | 929 |
-| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1,126 |
-| summons | `tcg-summons.csv` | 152 | 1,150 |
-| status-effects | `tcg-status-effects.csv` | 1,159 | 11,220 |
-| keywords | `tcg-keywords.csv` | 139 | 1,511 |
-| card-backs | `tcg-card-backs.csv` | 39 | 407 |
-| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
-| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
-| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards（การ์ดแอ็กชัน）.csv` | 927 | 9,609 |
+| character-cards | `tcg-character-cards（การ์ดตัวละคร）.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards（การ์ดศัตรู）.csv` | 134 | 1,126 |
+| summons | `tcg-summons（สิ่งอัญเชิญ）.csv` | 152 | 1,150 |
+| status-effects | `tcg-status-effects（เอฟเฟกต์สถานะ）.csv` | 1,159 | 11,220 |
+| keywords | `tcg-keywords（คีย์เวิร์ด）.csv` | 139 | 1,511 |
+| card-backs | `tcg-card-backs（ด้านหลังการ์ด）.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes（กล่องการ์ด）.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules（กฎโดยละเอียด）.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards（รางวัลเลเวล）.csv` | 26 | 169 |
 | **รวมย่อย** | 10 ไฟล์ | — | **26,295** |
 
 **รวมทั้งไดเรกทอรี: 27 ไฟล์ 89,468 บรรทัด**

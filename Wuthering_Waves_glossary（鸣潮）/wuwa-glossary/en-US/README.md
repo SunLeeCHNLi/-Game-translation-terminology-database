@@ -1,6 +1,6 @@
 # Wuthering Waves（鸣潮）Terminology Database — English（`en-US`）
 
-[← Back to the game overview](../../README.md) ｜ [← wuwa-glossary sub-library description](../README.md)
+[← Back to the game overview](../../README.md) ｜ [← wuwa-glossary sub-library description](../README.md) ｜ [简体中文](README_zh-CN.md)
 
 This directory is the Wuthering Waves terminology database with **`en-US` (English) as the target language**. It holds **123,230** unique terms and **645,837** aligned rows (the data rows of the 23 CSV files in this directory, about **58.6 MiB**). The `tgt_lng` column is always `en-US`, and the `source` column stores the wording in each of the other 9 languages (`zh-CN` (简体中文), `zh-TW` (繁體中文), `ja-JP` (日本語), `ko-KR` (한국어), `fr-FR` (Français), `de-DE` (Deutsch), `es-ES` (Español), `pt-BR` (Português), `th-TH` (ภาษาไทย)), so one and the same game text key can be matched from any of them.
 

@@ -10,32 +10,32 @@
 
 | 文件 | 分类 | 本语言记录数 |
 | --- | --- | ---: |
-| `01_character.csv` | 角色与 NPC | 2,910 |
-| `02_path.csv` | 命途 | 206 |
-| `03_element.csv` | 属性 | 149 |
-| `04_skill.csv` | 技能 | 5,147 |
-| `05_trace.csv` | 行迹 | 3,051 |
-| `06_eidolon.csv` | 星魂 | 5,486 |
-| `07_light_cone.csv` | 光锥 | 3,219 |
-| `08_relic.csv` | 遗器 | 2,743 |
-| `09_item.csv` | 道具 | 19,938 |
-| `10_material.csv` | 材料 | 6,082 |
-| `11_enemy.csv` | 敌人 | 9,759 |
-| `12_location.csv` | 地点 | 11,755 |
-| `13_faction.csv` | 阵营与组织 | 357 |
-| `14_quest.csv` | 任务 | 70,065 |
-| `15_stage.csv` | 关卡与副本 | 1,991 |
-| `16_event.csv` | 活动 | 14,832 |
-| `17_achievement.csv` | 成就 | 21,902 |
-| `18_simulated_universe.csv` | 模拟宇宙 | 20,421 |
-| `19_forgotten_hall.csv` | 忘却之庭 | 9,728 |
-| `20_story.csv` | 剧情 | 214 |
-| `21_world_lore.csv` | 世界观 | 1,288 |
-| `22_book.csv` | 书籍 | 11,421 |
-| `23_dialogue.csv` | 对话 | 60,460 |
-| `24_system.csv` | 系统 | 22,379 |
-| `25_ui.csv` | 界面 | 9,997 |
-| `26_other.csv` | 其他 | 2,216 |
+| `01_character（キャラクターとNPC）.csv` | 角色与 NPC | 2,910 |
+| `02_path（運命）.csv` | 命途 | 206 |
+| `03_element（属性）.csv` | 属性 | 149 |
+| `04_skill（スキル）.csv` | 技能 | 5,147 |
+| `05_trace（痕跡）.csv` | 行迹 | 3,051 |
+| `06_eidolon（星魂）.csv` | 星魂 | 5,486 |
+| `07_light_cone（光円錐）.csv` | 光锥 | 3,219 |
+| `08_relic（遺物）.csv` | 遗器 | 2,743 |
+| `09_item（アイテム）.csv` | 道具 | 19,938 |
+| `10_material（素材）.csv` | 材料 | 6,082 |
+| `11_enemy（敵）.csv` | 敌人 | 9,759 |
+| `12_location（場所）.csv` | 地点 | 11,755 |
+| `13_faction（陣営と組織）.csv` | 阵营与组织 | 357 |
+| `14_quest（クエスト）.csv` | 任务 | 70,065 |
+| `15_stage（ステージと秘境）.csv` | 关卡与副本 | 1,991 |
+| `16_event（イベント）.csv` | 活动 | 14,832 |
+| `17_achievement（実績）.csv` | 成就 | 21,902 |
+| `18_simulated_universe（模擬宇宙）.csv` | 模拟宇宙 | 20,421 |
+| `19_forgotten_hall（忘卻の庭）.csv` | 忘却之庭 | 9,728 |
+| `20_story（ストーリー）.csv` | 剧情 | 214 |
+| `21_world_lore（世界観）.csv` | 世界观 | 1,288 |
+| `22_book（書籍）.csv` | 书籍 | 11,421 |
+| `23_dialogue（会話）.csv` | 对话 | 60,460 |
+| `24_system（システム）.csv` | 系统 | 22,379 |
+| `25_ui（UI）.csv` | 界面 | 9,997 |
+| `26_other（その他）.csv` | 其他 | 2,216 |
 
 ## 说明
 

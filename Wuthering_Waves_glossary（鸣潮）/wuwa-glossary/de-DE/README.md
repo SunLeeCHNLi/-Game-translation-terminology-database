@@ -1,6 +1,6 @@
 # Wuthering Waves（鸣潮）Terminologiedatenbank — Deutsch（`de-DE`）
 
-[← Zurück zur Spielübersicht](../../README.md) ｜ [← Beschreibung der Unterbibliothek wuwa-glossary](../README.md)
+[← Zurück zur Spielübersicht](../../README.md) ｜ [← Beschreibung der Unterbibliothek wuwa-glossary](../README.md) ｜ [简体中文](README_zh-CN.md)
 
 Dieses Verzeichnis ist die Wuthering-Waves-Terminologiedatenbank mit **`de-DE` (Deutsch) als Zielsprache**. Es enthält **123,230** Einträge und **652,349** Vergleichszeilen (die Datenzeilen der 23 CSV-Dateien in diesem Verzeichnis, etwa **63.0 MiB**). Die Spalte `tgt_lng` ist immer `de-DE`, und die Spalte `source` enthält die Schreibweise in jeder der anderen 9 Sprachen (`zh-CN` (简体中文), `zh-TW` (繁體中文), `en-US` (English), `ja-JP` (日本語), `ko-KR` (한국어), `fr-FR` (Français), `es-ES` (Español), `pt-BR` (Português), `th-TH` (ภาษาไทย)), sodass sich derselbe Spieltextschlüssel aus jeder dieser Sprachen zuordnen lässt.
 
@@ -8,29 +8,29 @@ Dieses Verzeichnis ist die Wuthering-Waves-Terminologiedatenbank mit **`de-DE` (
 
 Dieses Verzeichnis ist **flach aufgebaut**: die 23 Kategorie-CSVs liegen direkt hier, weitere Unterverzeichnisse gibt es nicht:
 
-- `characters.csv` — Charakternamen
-- `weapons.csv` — Waffennamen
-- `echoes.csv` — Echoes
-- `skills.csv` — Fähigkeiten
-- `resonant-chains.csv` — Resonanzketten
-- `quests.csv` — Quests
-- `dungeons.csv` — Dungeons und Herausforderungen
-- `regions.csv` — Regionen und Karte
-- `factions.csv` — Fraktionen und Mächte
-- `items.csv` — Items und Materialien
-- `monsters.csv` — Monster und Kreaturen
-- `npcs.csv` — NPCs und Sprecher
-- `achievements.csv` — Erfolge
-- `activities.csv` — Events und Spielmodi
-- `buffs.csv` — Buffs und Effekte
-- `voice-lines.csv` — Charakterstimmen
-- `archives.csv` — Archive und Lesetexte
-- `terms.csv` — Begriffe und Lexikon
-- `system.csv` — Systemtexte
-- `ui.csv` — UI-Texte
-- `tutorials.csv` — Tutorials
-- `story.csv` — Story-Texte
-- `other.csv` — Sonstiges
+- `characters（Charakternamen）.csv` — Charakternamen
+- `weapons（Waffennamen）.csv` — Waffennamen
+- `echoes（Echoes）.csv` — Echoes
+- `skills（Fähigkeiten）.csv` — Fähigkeiten
+- `resonant-chains（Resonanzketten）.csv` — Resonanzketten
+- `quests（Quests）.csv` — Quests
+- `dungeons（Dungeons und Herausforderungen）.csv` — Dungeons und Herausforderungen
+- `regions（Regionen und Karte）.csv` — Regionen und Karte
+- `factions（Fraktionen und Mächte）.csv` — Fraktionen und Mächte
+- `items（Items und Materialien）.csv` — Items und Materialien
+- `monsters（Monster und Kreaturen）.csv` — Monster und Kreaturen
+- `npcs（NPCs und Sprecher）.csv` — NPCs und Sprecher
+- `achievements（Erfolge）.csv` — Erfolge
+- `activities（Events und Spielmodi）.csv` — Events und Spielmodi
+- `buffs（Buffs und Effekte）.csv` — Buffs und Effekte
+- `voice-lines（Charakterstimmen）.csv` — Charakterstimmen
+- `archives（Archive und Lesetexte）.csv` — Archive und Lesetexte
+- `terms（Begriffe und Lexikon）.csv` — Begriffe und Lexikon
+- `system（Systemtexte）.csv` — Systemtexte
+- `ui（UI-Texte）.csv` — UI-Texte
+- `tutorials（Tutorials）.csv` — Tutorials
+- `story（Story-Texte）.csv` — Story-Texte
+- `other（Sonstiges）.csv` — Sonstiges
 
 Jede Datei hat genau drei Spalten, `source,target,tgt_lng`, mit einer Kopfzeile: Für die in `tgt_lng` angegebene Zielsprache ist `target` die Übersetzung und `source` die Formulierung in **einer der anderen Sprachen**. Ein Eintrag erscheint daher pro übriger Sprache einmal als `source`-Zeile (doppelte und gleichlautende Zeilen wurden zusammengeführt, die Zeilenzahl ist also nicht das Neunfache der Eintragszahl). Die Dateien lassen sich direkt in CAT-Tools oder Terminologie-Matching-Software wie Immersive Translate importieren.
 
@@ -38,29 +38,29 @@ Jede Datei hat genau drei Spalten, `source,target,tgt_lng`, mit einer Kopfzeile:
 
 | Kategorie | Thema | Einträge | Vergleichszeilen |
 | --- | --- | --- | --- |
-| `characters.csv` | Charakternamen | 1,230 | 5,262 |
-| `weapons.csv` | Waffennamen | 820 | 3,072 |
-| `echoes.csv` | Echoes | 1,000 | 6,215 |
-| `skills.csv` | Fähigkeiten | 5,344 | 31,062 |
-| `resonant-chains.csv` | Resonanzketten | 784 | 6,119 |
-| `quests.csv` | Quests | 2,807 | 14,709 |
-| `dungeons.csv` | Dungeons und Herausforderungen | 1,910 | 12,235 |
-| `regions.csv` | Regionen und Karte | 2,229 | 16,216 |
-| `factions.csv` | Fraktionen und Mächte | 8 | 44 |
-| `items.csv` | Items und Materialien | 8,384 | 56,133 |
-| `monsters.csv` | Monster und Kreaturen | 685 | 4,616 |
-| `npcs.csv` | NPCs und Sprecher | 14,172 | 63,159 |
-| `achievements.csv` | Erfolge | 2,563 | 22,187 |
-| `activities.csv` | Events und Spielmodi | 9,531 | 64,261 |
-| `buffs.csv` | Buffs und Effekte | 270 | 2,084 |
-| `voice-lines.csv` | Charakterstimmen | 7,374 | 31,807 |
-| `archives.csv` | Archive und Lesetexte | 839 | 6,719 |
-| `terms.csv` | Begriffe und Lexikon | 1,672 | 12,501 |
-| `system.csv` | Systemtexte | 9,756 | 66,344 |
-| `ui.csv` | UI-Texte | 13,866 | 78,242 |
-| `tutorials.csv` | Tutorials | 6,253 | 32,039 |
-| `story.csv` | Story-Texte | 29,841 | 104,033 |
-| `other.csv` | Sonstiges | 1,892 | 13,290 |
+| `characters（Charakternamen）.csv` | Charakternamen | 1,230 | 5,262 |
+| `weapons（Waffennamen）.csv` | Waffennamen | 820 | 3,072 |
+| `echoes（Echoes）.csv` | Echoes | 1,000 | 6,215 |
+| `skills（Fähigkeiten）.csv` | Fähigkeiten | 5,344 | 31,062 |
+| `resonant-chains（Resonanzketten）.csv` | Resonanzketten | 784 | 6,119 |
+| `quests（Quests）.csv` | Quests | 2,807 | 14,709 |
+| `dungeons（Dungeons und Herausforderungen）.csv` | Dungeons und Herausforderungen | 1,910 | 12,235 |
+| `regions（Regionen und Karte）.csv` | Regionen und Karte | 2,229 | 16,216 |
+| `factions（Fraktionen und Mächte）.csv` | Fraktionen und Mächte | 8 | 44 |
+| `items（Items und Materialien）.csv` | Items und Materialien | 8,384 | 56,133 |
+| `monsters（Monster und Kreaturen）.csv` | Monster und Kreaturen | 685 | 4,616 |
+| `npcs（NPCs und Sprecher）.csv` | NPCs und Sprecher | 14,172 | 63,159 |
+| `achievements（Erfolge）.csv` | Erfolge | 2,563 | 22,187 |
+| `activities（Events und Spielmodi）.csv` | Events und Spielmodi | 9,531 | 64,261 |
+| `buffs（Buffs und Effekte）.csv` | Buffs und Effekte | 270 | 2,084 |
+| `voice-lines（Charakterstimmen）.csv` | Charakterstimmen | 7,374 | 31,807 |
+| `archives（Archive und Lesetexte）.csv` | Archive und Lesetexte | 839 | 6,719 |
+| `terms（Begriffe und Lexikon）.csv` | Begriffe und Lexikon | 1,672 | 12,501 |
+| `system（Systemtexte）.csv` | Systemtexte | 9,756 | 66,344 |
+| `ui（UI-Texte）.csv` | UI-Texte | 13,866 | 78,242 |
+| `tutorials（Tutorials）.csv` | Tutorials | 6,253 | 32,039 |
+| `story（Story-Texte）.csv` | Story-Texte | 29,841 | 104,033 |
+| `other（Sonstiges）.csv` | Sonstiges | 1,892 | 13,290 |
 | **Gesamt** | **23 Kategorien** | **123,230** | **652,349** |
 
 „Einträge“ ist die Anzahl der deduplizierten Einträge (ein Eintrag = ein Spiel-Textschlüssel); der Wert stammt aus dem Feld `concepts` in `tools/_counts.json` und ist **für die gesamte Datenbank identisch und unabhängig von der Zielsprache**. „Vergleichszeilen“ ist die tatsächliche Anzahl der Datenzeilen in der CSV dieser Kategorie in diesem Verzeichnis. Derselbe Text kann zu mehreren Kategorien gehören, daher ergibt die Summe der Kategoriezeilen mehr als die deduplizierte Eintragszahl.

@@ -1,6 +1,6 @@
 # 崩壞：星穹鐵道（Honkai: Star Rail）術語庫 — 繁體中文（`zh-TW`）
 
-[← 返回遊戲總說明](../../README.md) ｜ [← hsr-glossary 子庫說明](../README.md)
+[← 返回遊戲總說明](../../README.md) ｜ [← hsr-glossary 子庫說明](../README.md) ｜ [简体中文](README_zh-CN.md)
 
 本目錄是**以 `zh-TW`（繁體中文）為目標語言**的星穹鐵道術語庫，共 **26** 個分類 CSV、**320,157** 行對照。所有 CSV 的 `tgt_lng` 欄固定為 `zh-TW`；`source` 欄收錄其餘語言的官方在地化寫法，因此同一條遊戲文本可以從任一種語言對應到本語言的譯名。
 
@@ -10,32 +10,32 @@
 
 | 檔案 | 分類 | 本語言記錄數 |
 | --- | --- | ---: |
-| `01_character.csv` | 角色与 NPC | 2,910 |
-| `02_path.csv` | 命途 | 206 |
-| `03_element.csv` | 属性 | 149 |
-| `04_skill.csv` | 技能 | 5,136 |
-| `05_trace.csv` | 行迹 | 3,051 |
-| `06_eidolon.csv` | 星魂 | 5,513 |
-| `07_light_cone.csv` | 光锥 | 3,219 |
-| `08_relic.csv` | 遗器 | 2,746 |
-| `09_item.csv` | 道具 | 19,949 |
-| `10_material.csv` | 材料 | 6,082 |
-| `11_enemy.csv` | 敌人 | 9,846 |
-| `12_location.csv` | 地点 | 11,731 |
-| `13_faction.csv` | 阵营与组织 | 347 |
-| `14_quest.csv` | 任务 | 70,420 |
-| `15_stage.csv` | 关卡与副本 | 1,991 |
-| `16_event.csv` | 活动 | 14,852 |
-| `17_achievement.csv` | 成就 | 21,919 |
-| `18_simulated_universe.csv` | 模拟宇宙 | 20,325 |
-| `19_forgotten_hall.csv` | 忘却之庭 | 9,739 |
-| `20_story.csv` | 剧情 | 258 |
-| `21_world_lore.csv` | 世界观 | 1,318 |
-| `22_book.csv` | 书籍 | 11,380 |
-| `23_dialogue.csv` | 对话 | 60,541 |
-| `24_system.csv` | 系统 | 22,600 |
-| `25_ui.csv` | 界面 | 11,707 |
-| `26_other.csv` | 其他 | 2,222 |
+| `01_character（角色與NPC）.csv` | 角色与 NPC | 2,910 |
+| `02_path（命途）.csv` | 命途 | 206 |
+| `03_element（屬性）.csv` | 属性 | 149 |
+| `04_skill（技能）.csv` | 技能 | 5,136 |
+| `05_trace（行跡）.csv` | 行迹 | 3,051 |
+| `06_eidolon（星魂）.csv` | 星魂 | 5,513 |
+| `07_light_cone（光錐）.csv` | 光锥 | 3,219 |
+| `08_relic（遺器）.csv` | 遗器 | 2,746 |
+| `09_item（道具）.csv` | 道具 | 19,949 |
+| `10_material（材料）.csv` | 材料 | 6,082 |
+| `11_enemy（敵人）.csv` | 敌人 | 9,846 |
+| `12_location（地點）.csv` | 地点 | 11,731 |
+| `13_faction（陣營與組織）.csv` | 阵营与组织 | 347 |
+| `14_quest（任務）.csv` | 任务 | 70,420 |
+| `15_stage（關卡與副本）.csv` | 关卡与副本 | 1,991 |
+| `16_event（活動）.csv` | 活动 | 14,852 |
+| `17_achievement（成就）.csv` | 成就 | 21,919 |
+| `18_simulated_universe（模擬宇宙）.csv` | 模拟宇宙 | 20,325 |
+| `19_forgotten_hall（忘卻之庭）.csv` | 忘却之庭 | 9,739 |
+| `20_story（劇情）.csv` | 剧情 | 258 |
+| `21_world_lore（世界觀）.csv` | 世界观 | 1,318 |
+| `22_book（書籍）.csv` | 书籍 | 11,380 |
+| `23_dialogue（對話）.csv` | 对话 | 60,541 |
+| `24_system（系統）.csv` | 系统 | 22,600 |
+| `25_ui（介面）.csv` | 界面 | 11,707 |
+| `26_other（其他）.csv` | 其他 | 2,222 |
 
 ## 說明
 

@@ -6,8 +6,8 @@ Thư mục này là phần từ điển thuật ngữ *Genshin Impact* **lấy t
 
 ## Tệp
 
-- `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 tệp phân loại chính
-- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 tệp phân loại con TCG (Thất Thánh Triệu Hồi)
+- `characters（Nhân vật）.csv`, `talents（Thiên phú）.csv`, `constellations（Chòm sao）.csv`, `weapons（Vũ khí）.csv`, `materials（Nguyên liệu）.csv`, `foods（Thức ăn）.csv`, `crafts（Nguyên liệu chế tạo）.csv`, `artifacts（Thánh di vật）.csv`, `domains（Bí cảnh）.csv`, `enemies（Kẻ địch）.csv`, `animals（Sinh vật）.csv`, `outfits（Trang phục）.csv`, `windgliders（Phong chi dực）.csv`, `namecards（Danh thiếp）.csv`, `geographies（Địa danh）.csv`, `achievements（Thành tựu）.csv`, `adventureranks（Nội dung cấp mạo hiểm）.csv` — 17 tệp phân loại chính
+- `tcg-action-cards（Thẻ hành động）.csv`, `tcg-character-cards（Thẻ nhân vật）.csv`, `tcg-enemy-cards（Thẻ kẻ địch）.csv`, `tcg-summons（Triệu hồi）.csv`, `tcg-status-effects（Hiệu ứng trạng thái）.csv`, `tcg-keywords（Từ khóa）.csv`, `tcg-card-backs（Mặt sau thẻ）.csv`, `tcg-card-boxes（Hộp thẻ）.csv`, `tcg-detailed-rules（Luật chi tiết）.csv`, `tcg-level-rewards（Thưởng cấp độ）.csv` — 10 tệp phân loại con TCG (Thất Thánh Triệu Hồi)
 
 Tổng cộng **27 tệp CSV**. Tất cả đều có cùng định dạng ba cột:
 
@@ -20,23 +20,23 @@ Cấu trúc thư mục:
 
 ```text
 vi-VN/
-├── characters.csv
-├── talents.csv
-├── constellations.csv
-├── weapons.csv
-├── materials.csv
-├── foods.csv
-├── crafts.csv
-├── artifacts.csv
-├── domains.csv
-├── enemies.csv
-├── animals.csv
-├── outfits.csv
-├── windgliders.csv
-├── namecards.csv
-├── geographies.csv
-├── achievements.csv
-├── adventureranks.csv
+├── characters（Nhân vật）.csv
+├── talents（Thiên phú）.csv
+├── constellations（Chòm sao）.csv
+├── weapons（Vũ khí）.csv
+├── materials（Nguyên liệu）.csv
+├── foods（Thức ăn）.csv
+├── crafts（Nguyên liệu chế tạo）.csv
+├── artifacts（Thánh di vật）.csv
+├── domains（Bí cảnh）.csv
+├── enemies（Kẻ địch）.csv
+├── animals（Sinh vật）.csv
+├── outfits（Trang phục）.csv
+├── windgliders（Phong chi dực）.csv
+├── namecards（Danh thiếp）.csv
+├── geographies（Địa danh）.csv
+├── achievements（Thành tựu）.csv
+├── adventureranks（Nội dung cấp mạo hiểm）.csv
 └── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
@@ -58,39 +58,39 @@ vi-VN/
 
 | Phân loại | Tệp | Thuật ngữ | Dòng |
 | --- | --- | ---: | ---: |
-| characters | `characters.csv` | 122 | 577 |
-| talents | `talents.csv` | 125 | 632 |
-| constellations | `constellations.csv` | 125 | 632 |
-| weapons | `weapons.csv` | 249 | 2.823 |
-| materials | `materials.csv` | 919 | 10.648 |
-| foods | `foods.csv` | 398 | 4.541 |
-| crafts | `crafts.csv` | 295 | 3.522 |
-| artifacts | `artifacts.csv` | 63 | 727 |
-| domains | `domains.csv` | 284 | 3.636 |
-| enemies | `enemies.csv` | 346 | 4.104 |
-| animals | `animals.csv` | 223 | 2.647 |
-| outfits | `outfits.csv` | 150 | 1.869 |
-| windgliders | `windgliders.csv` | 18 | 211 |
-| namecards | `namecards.csv` | 289 | 3.606 |
-| geographies | `geographies.csv` | 268 | 3.389 |
-| achievements | `achievements.csv` | 1.548 | 19.464 |
-| adventureranks | `adventureranks.csv` | 21 | 156 |
+| characters | `characters（Nhân vật）.csv` | 122 | 577 |
+| talents | `talents（Thiên phú）.csv` | 125 | 632 |
+| constellations | `constellations（Chòm sao）.csv` | 125 | 632 |
+| weapons | `weapons（Vũ khí）.csv` | 249 | 2.823 |
+| materials | `materials（Nguyên liệu）.csv` | 919 | 10.648 |
+| foods | `foods（Thức ăn）.csv` | 398 | 4.541 |
+| crafts | `crafts（Nguyên liệu chế tạo）.csv` | 295 | 3.522 |
+| artifacts | `artifacts（Thánh di vật）.csv` | 63 | 727 |
+| domains | `domains（Bí cảnh）.csv` | 284 | 3.636 |
+| enemies | `enemies（Kẻ địch）.csv` | 346 | 4.104 |
+| animals | `animals（Sinh vật）.csv` | 223 | 2.647 |
+| outfits | `outfits（Trang phục）.csv` | 150 | 1.869 |
+| windgliders | `windgliders（Phong chi dực）.csv` | 18 | 211 |
+| namecards | `namecards（Danh thiếp）.csv` | 289 | 3.606 |
+| geographies | `geographies（Địa danh）.csv` | 268 | 3.389 |
+| achievements | `achievements（Thành tựu）.csv` | 1.548 | 19.464 |
+| adventureranks | `adventureranks（Nội dung cấp mạo hiểm）.csv` | 21 | 156 |
 | **Tổng phụ** | 17 tệp | — | **63.184** |
 
 ### Phân loại con TCG (`tcg-`)
 
 | Phân loại con | Tệp | Thuật ngữ | Dòng |
 | --- | --- | ---: | ---: |
-| action-cards | `tcg-action-cards.csv` | 927 | 9.628 |
-| character-cards | `tcg-character-cards.csv` | 149 | 929 |
-| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1.114 |
-| summons | `tcg-summons.csv` | 152 | 1.157 |
-| status-effects | `tcg-status-effects.csv` | 1.159 | 11.257 |
-| keywords | `tcg-keywords.csv` | 139 | 1.511 |
-| card-backs | `tcg-card-backs.csv` | 39 | 407 |
-| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
-| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
-| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards（Thẻ hành động）.csv` | 927 | 9.628 |
+| character-cards | `tcg-character-cards（Thẻ nhân vật）.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards（Thẻ kẻ địch）.csv` | 134 | 1.114 |
+| summons | `tcg-summons（Triệu hồi）.csv` | 152 | 1.157 |
+| status-effects | `tcg-status-effects（Hiệu ứng trạng thái）.csv` | 1.159 | 11.257 |
+| keywords | `tcg-keywords（Từ khóa）.csv` | 139 | 1.511 |
+| card-backs | `tcg-card-backs（Mặt sau thẻ）.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes（Hộp thẻ）.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules（Luật chi tiết）.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards（Thưởng cấp độ）.csv` | 26 | 169 |
 | **Tổng phụ** | 10 tệp | — | **26.346** |
 
 **Tổng cộng thư mục này: 27 tệp, 89.530 dòng.**

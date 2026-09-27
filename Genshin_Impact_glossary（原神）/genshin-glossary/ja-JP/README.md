@@ -1,6 +1,6 @@
 # 原神 用語集 — 日本語（`ja-JP`）
 
-[← ゲーム総説に戻る](../../README.md)
+[← ゲーム総説に戻る](../../README.md) · [简体中文](README_zh-CN.md)
 
 本ディレクトリは、Genshin Impact（原神）用語集のうち **`ja-JP` を目標言語とする**主用語集です。重複を排除した **8,186** 件の語句と **89,490** 行の対訳行（主分類 17 ファイルで **63,173** 行、TCG 10 ファイルで **26,317** 行）を収録しています。27 個の CSV はすべて `tgt_lng` 列が `ja-JP` に固定され、`source` に他の 13 言語のいずれかの表記、`target` にこの目標言語での名称が入ります。
 
@@ -9,9 +9,9 @@
 本言語ディレクトリには、2 つの階層に分けて **27 個の CSV ファイル**があります。
 
 - **主分類 17 件**（このディレクトリ直下）:
-  `characters.csv`、`talents.csv`、`constellations.csv`、`weapons.csv`、`materials.csv`、`foods.csv`、`crafts.csv`、`artifacts.csv`、`domains.csv`、`enemies.csv`、`animals.csv`、`outfits.csv`、`windgliders.csv`、`namecards.csv`、`geographies.csv`、`achievements.csv`、`adventureranks.csv`
+  `characters（キャラクター）.csv`、`talents（天賦）.csv`、`constellations（命ノ星座）.csv`、`weapons（武器）.csv`、`materials（素材）.csv`、`foods（食べ物）.csv`、`crafts（合成素材）.csv`、`artifacts（聖遺物）.csv`、`domains（秘境）.csv`、`enemies（敵）.csv`、`animals（生物）.csv`、`outfits（衣装）.csv`、`windgliders（風の翼）.csv`、`namecards（名刺）.csv`、`geographies（地名）.csv`、`achievements（実績）.csv`、`adventureranks（冒険ランクの説明）.csv`
 - **TCG サブ分類 10 件**（`tcg-` サブフォルダ内）:
-  `tcg-action-cards.csv`、`tcg-character-cards.csv`、`tcg-enemy-cards.csv`、`tcg-summons.csv`、`tcg-status-effects.csv`、`tcg-keywords.csv`、`tcg-card-backs.csv`、`tcg-card-boxes.csv`、`tcg-detailed-rules.csv`、`tcg-level-rewards.csv`
+  `tcg-action-cards（アクションカード）.csv`、`tcg-character-cards（キャラカード）.csv`、`tcg-enemy-cards（敵カード）.csv`、`tcg-summons（召喚物）.csv`、`tcg-status-effects（状態効果）.csv`、`tcg-keywords（キーワード）.csv`、`tcg-card-backs（カードの裏面）.csv`、`tcg-card-boxes（カードボックス）.csv`、`tcg-detailed-rules（詳細ルール）.csv`、`tcg-level-rewards（レベル報酬）.csv`
 
 各ファイルは次の 3 列のみで構成されています。
 
@@ -25,33 +25,33 @@
 
 | 分類 | テーマ | 語句数 | 対訳行 |
 | --- | --- | ---: | ---: |
-| `characters.csv` | キャラクター | 122 | 577 |
-| `talents.csv` | 天賦 | 125 | 632 |
-| `constellations.csv` | 命ノ星座 | 125 | 632 |
-| `weapons.csv` | 武器 | 249 | 2,823 |
-| `materials.csv` | 素材 | 919 | 10,636 |
-| `foods.csv` | 食べ物 | 398 | 4,541 |
-| `crafts.csv` | 合成素材 | 295 | 3,522 |
-| `artifacts.csv` | 聖遺物 | 63 | 727 |
-| `domains.csv` | 秘境 | 284 | 3,636 |
-| `enemies.csv` | 敵 | 346 | 4,104 |
-| `animals.csv` | 生物 | 223 | 2,647 |
-| `outfits.csv` | 衣装 | 150 | 1,869 |
-| `windgliders.csv` | 風の翼 | 18 | 211 |
-| `namecards.csv` | 名刺 | 289 | 3,606 |
-| `geographies.csv` | 地名 | 268 | 3,389 |
-| `achievements.csv` | 実績 | 1,548 | 19,464 |
-| `adventureranks.csv` | 冒険ランクの説明 | 21 | 157 |
-| `tcg-action-cards.csv` | アクションカード | 927 | 9,534 |
-| `tcg-character-cards.csv` | キャラカード | 149 | 929 |
-| `tcg-enemy-cards.csv` | 敵カード | 134 | 1,125 |
-| `tcg-summons.csv` | 召喚物 | 152 | 1,197 |
-| `tcg-status-effects.csv` | 状態効果 | 1,159 | 11,271 |
-| `tcg-keywords.csv` | キーワード | 139 | 1,511 |
-| `tcg-card-backs.csv` | カードの裏面 | 39 | 407 |
-| `tcg-card-boxes.csv` | カードボックス | 7 | 32 |
-| `tcg-detailed-rules.csv` | 詳細ルール | 11 | 142 |
-| `tcg-level-rewards.csv` | レベル報酬 | 26 | 169 |
+| `characters（キャラクター）.csv` | キャラクター | 122 | 577 |
+| `talents（天賦）.csv` | 天賦 | 125 | 632 |
+| `constellations（命ノ星座）.csv` | 命ノ星座 | 125 | 632 |
+| `weapons（武器）.csv` | 武器 | 249 | 2,823 |
+| `materials（素材）.csv` | 素材 | 919 | 10,636 |
+| `foods（食べ物）.csv` | 食べ物 | 398 | 4,541 |
+| `crafts（合成素材）.csv` | 合成素材 | 295 | 3,522 |
+| `artifacts（聖遺物）.csv` | 聖遺物 | 63 | 727 |
+| `domains（秘境）.csv` | 秘境 | 284 | 3,636 |
+| `enemies（敵）.csv` | 敵 | 346 | 4,104 |
+| `animals（生物）.csv` | 生物 | 223 | 2,647 |
+| `outfits（衣装）.csv` | 衣装 | 150 | 1,869 |
+| `windgliders（風の翼）.csv` | 風の翼 | 18 | 211 |
+| `namecards（名刺）.csv` | 名刺 | 289 | 3,606 |
+| `geographies（地名）.csv` | 地名 | 268 | 3,389 |
+| `achievements（実績）.csv` | 実績 | 1,548 | 19,464 |
+| `adventureranks（冒険ランクの説明）.csv` | 冒険ランクの説明 | 21 | 157 |
+| `tcg-action-cards（アクションカード）.csv` | アクションカード | 927 | 9,534 |
+| `tcg-character-cards（キャラカード）.csv` | キャラカード | 149 | 929 |
+| `tcg-enemy-cards（敵カード）.csv` | 敵カード | 134 | 1,125 |
+| `tcg-summons（召喚物）.csv` | 召喚物 | 152 | 1,197 |
+| `tcg-status-effects（状態効果）.csv` | 状態効果 | 1,159 | 11,271 |
+| `tcg-keywords（キーワード）.csv` | キーワード | 139 | 1,511 |
+| `tcg-card-backs（カードの裏面）.csv` | カードの裏面 | 39 | 407 |
+| `tcg-card-boxes（カードボックス）.csv` | カードボックス | 7 | 32 |
+| `tcg-detailed-rules（詳細ルール）.csv` | 詳細ルール | 11 | 142 |
+| `tcg-level-rewards（レベル報酬）.csv` | レベル報酬 | 26 | 169 |
 | **主分類（17 ファイル）** | — | **5,443** | **63,173** |
 | **TCG（10 ファイル）** | — | **2,743** | **26,317** |
 | **合計（27 ファイル）** | — | **8,186** | **89,490** |

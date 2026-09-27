@@ -1,6 +1,6 @@
 # Wuthering Waves（鸣潮）Base de terminologia — Português（`pt-BR`）
 
-[← Voltar à visão geral do jogo](../../README.md) ｜ [← Descrição da sub-biblioteca wuwa-glossary](../README.md)
+[← Voltar à visão geral do jogo](../../README.md) ｜ [← Descrição da sub-biblioteca wuwa-glossary](../README.md) ｜ [简体中文](README_zh-CN.md)
 
 Este diretório é a base de terminologia de Wuthering Waves com **`pt-BR` (português) como idioma de destino**. Contém **123,230** verbetes e **648,957** linhas de correspondência (as linhas de dados dos 23 arquivos CSV deste diretório, cerca de **62.0 MiB**). A coluna `tgt_lng` é sempre `pt-BR` e a coluna `source` traz a forma em cada um dos outros 9 idiomas (`zh-CN` (简体中文), `zh-TW` (繁體中文), `en-US` (English), `ja-JP` (日本語), `ko-KR` (한국어), `fr-FR` (Français), `de-DE` (Deutsch), `es-ES` (Español), `th-TH` (ภาษาไทย)), de modo que o mesmo texto do jogo pode ser localizado a partir de qualquer um deles.
 
@@ -8,29 +8,29 @@ Este diretório é a base de terminologia de Wuthering Waves com **`pt-BR` (port
 
 Este diretório tem **estrutura plana**: os 23 CSVs de categoria ficam diretamente aqui e não há subdiretório adicional:
 
-- `characters.csv` — Nomes de personagens
-- `weapons.csv` — Nomes de armas
-- `echoes.csv` — Ecos
-- `skills.csv` — Habilidades
-- `resonant-chains.csv` — Correntes de ressonância
-- `quests.csv` — Missões
-- `dungeons.csv` — Masmorras e desafios
-- `regions.csv` — Regiões e mapa
-- `factions.csv` — Facções e potências
-- `items.csv` — Itens e materiais
-- `monsters.csv` — Monstros e criaturas
-- `npcs.csv` — NPCs e falantes
-- `achievements.csv` — Conquistas
-- `activities.csv` — Eventos e modos de jogo
-- `buffs.csv` — Buffs e efeitos
-- `voice-lines.csv` — Vozes de personagens
-- `archives.csv` — Arquivos e leituras
-- `terms.csv` — Termos e enciclopédia
-- `system.csv` — Textos do sistema
-- `ui.csv` — Textos de interface
-- `tutorials.csv` — Tutoriais
-- `story.csv` — Textos de história
-- `other.csv` — Outros
+- `characters（Nomes de personagens）.csv` — Nomes de personagens
+- `weapons（Nomes de armas）.csv` — Nomes de armas
+- `echoes（Ecos）.csv` — Ecos
+- `skills（Habilidades）.csv` — Habilidades
+- `resonant-chains（Correntes de ressonância）.csv` — Correntes de ressonância
+- `quests（Missões）.csv` — Missões
+- `dungeons（Masmorras e desafios）.csv` — Masmorras e desafios
+- `regions（Regiões e mapa）.csv` — Regiões e mapa
+- `factions（Facções e potências）.csv` — Facções e potências
+- `items（Itens e materiais）.csv` — Itens e materiais
+- `monsters（Monstros e criaturas）.csv` — Monstros e criaturas
+- `npcs（NPCs e falantes）.csv` — NPCs e falantes
+- `achievements（Conquistas）.csv` — Conquistas
+- `activities（Eventos e modos de jogo）.csv` — Eventos e modos de jogo
+- `buffs（Buffs e efeitos）.csv` — Buffs e efeitos
+- `voice-lines（Vozes de personagens）.csv` — Vozes de personagens
+- `archives（Arquivos e leituras）.csv` — Arquivos e leituras
+- `terms（Termos e enciclopédia）.csv` — Termos e enciclopédia
+- `system（Textos do sistema）.csv` — Textos do sistema
+- `ui（Textos de interface）.csv` — Textos de interface
+- `tutorials（Tutoriais）.csv` — Tutoriais
+- `story（Textos de história）.csv` — Textos de história
+- `other（Outros）.csv` — Outros
 
 Todos os arquivos têm três colunas, `source,target,tgt_lng`, com uma linha de cabeçalho: para o idioma de destino indicado em `tgt_lng`, `target` é a tradução e `source` é o texto em **um dos outros idiomas**. Assim, cada verbete aparece uma vez por idioma restante como linha `source` (linhas duplicadas e idênticas foram mescladas, portanto o número de linhas não é nove vezes o de verbetes). Os arquivos podem ser importados diretamente em ferramentas CAT ou em softwares de correspondência terminológica como o Immersive Translate.
 
@@ -38,29 +38,29 @@ Todos os arquivos têm três colunas, `source,target,tgt_lng`, com uma linha de 
 
 | Categoria | Tema | Verbetes | Linhas de correspondência |
 | --- | --- | --- | --- |
-| `characters.csv` | Nomes de personagens | 1,230 | 5,258 |
-| `weapons.csv` | Nomes de armas | 820 | 2,972 |
-| `echoes.csv` | Ecos | 1,000 | 6,114 |
-| `skills.csv` | Habilidades | 5,344 | 30,804 |
-| `resonant-chains.csv` | Correntes de ressonância | 784 | 6,119 |
-| `quests.csv` | Missões | 2,807 | 14,517 |
-| `dungeons.csv` | Masmorras e desafios | 1,910 | 10,514 |
-| `regions.csv` | Regiões e mapa | 2,229 | 16,092 |
-| `factions.csv` | Facções e potências | 8 | 44 |
-| `items.csv` | Itens e materiais | 8,384 | 55,588 |
-| `monsters.csv` | Monstros e criaturas | 685 | 4,590 |
-| `npcs.csv` | NPCs e falantes | 14,172 | 63,310 |
-| `achievements.csv` | Conquistas | 2,563 | 22,179 |
-| `activities.csv` | Eventos e modos de jogo | 9,531 | 64,429 |
-| `buffs.csv` | Buffs e efeitos | 270 | 2,090 |
-| `voice-lines.csv` | Vozes de personagens | 7,374 | 32,440 |
-| `archives.csv` | Arquivos e leituras | 839 | 6,582 |
-| `terms.csv` | Termos e enciclopédia | 1,672 | 11,875 |
-| `system.csv` | Textos do sistema | 9,756 | 65,832 |
-| `ui.csv` | Textos de interface | 13,866 | 78,457 |
-| `tutorials.csv` | Tutoriais | 6,253 | 32,247 |
-| `story.csv` | Textos de história | 29,841 | 103,562 |
-| `other.csv` | Outros | 1,892 | 13,342 |
+| `characters（Nomes de personagens）.csv` | Nomes de personagens | 1,230 | 5,258 |
+| `weapons（Nomes de armas）.csv` | Nomes de armas | 820 | 2,972 |
+| `echoes（Ecos）.csv` | Ecos | 1,000 | 6,114 |
+| `skills（Habilidades）.csv` | Habilidades | 5,344 | 30,804 |
+| `resonant-chains（Correntes de ressonância）.csv` | Correntes de ressonância | 784 | 6,119 |
+| `quests（Missões）.csv` | Missões | 2,807 | 14,517 |
+| `dungeons（Masmorras e desafios）.csv` | Masmorras e desafios | 1,910 | 10,514 |
+| `regions（Regiões e mapa）.csv` | Regiões e mapa | 2,229 | 16,092 |
+| `factions（Facções e potências）.csv` | Facções e potências | 8 | 44 |
+| `items（Itens e materiais）.csv` | Itens e materiais | 8,384 | 55,588 |
+| `monsters（Monstros e criaturas）.csv` | Monstros e criaturas | 685 | 4,590 |
+| `npcs（NPCs e falantes）.csv` | NPCs e falantes | 14,172 | 63,310 |
+| `achievements（Conquistas）.csv` | Conquistas | 2,563 | 22,179 |
+| `activities（Eventos e modos de jogo）.csv` | Eventos e modos de jogo | 9,531 | 64,429 |
+| `buffs（Buffs e efeitos）.csv` | Buffs e efeitos | 270 | 2,090 |
+| `voice-lines（Vozes de personagens）.csv` | Vozes de personagens | 7,374 | 32,440 |
+| `archives（Arquivos e leituras）.csv` | Arquivos e leituras | 839 | 6,582 |
+| `terms（Termos e enciclopédia）.csv` | Termos e enciclopédia | 1,672 | 11,875 |
+| `system（Textos do sistema）.csv` | Textos do sistema | 9,756 | 65,832 |
+| `ui（Textos de interface）.csv` | Textos de interface | 13,866 | 78,457 |
+| `tutorials（Tutoriais）.csv` | Tutoriais | 6,253 | 32,247 |
+| `story（Textos de história）.csv` | Textos de história | 29,841 | 103,562 |
+| `other（Outros）.csv` | Outros | 1,892 | 13,342 |
 | **Total** | **23 categorias** | **123,230** | **648,957** |
 
 “Verbetes” é o número de verbetes sem duplicatas (um verbete = uma chave de texto do jogo); o valor vem do campo `concepts` de `tools/_counts.json` e é **comum a toda a base e independente do idioma de destino**. “Linhas de correspondência” é o número real de linhas de dados do CSV dessa categoria neste diretório. Um mesmo texto pode pertencer a várias categorias, por isso a soma das linhas por categoria é maior que o número de verbetes sem duplicatas.

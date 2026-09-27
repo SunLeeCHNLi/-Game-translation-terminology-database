@@ -1,6 +1,6 @@
 # 我的世界（Minecraft） 术语库 — 繁体中文（`zh-TW`）
 
-[← 返回游戏总说明](../../README.md)
+[← 返回游戏总说明](../../README.md) · [简体中文](README_zh-CN.md)
 
 本目录是**以繁体中文（`zh-TW`）为目标语言**的术语库，共 **34 个 CSV 文件**（34 个分类：
 19 个无前缀、15 个以 `extra-` 前缀命名）、**101,215 行对照**；`tgt_lng` 列固定为 `zh-TW`，
@@ -16,70 +16,70 @@
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `blocks` | 方塊 | `blocks.csv` | 25,426 |
-| `items` | 物品 | `items.csv` | 9,061 |
-| `entities` | 實體 | `entities.csv` | 2,582 |
-| `biomes` | 生物群系 | `biomes.csv` | 835 |
-| `enchantments` | 附魔 | `enchantments.csv` | 553 |
-| `effects` | 狀態效果 | `effects.csv` | 514 |
-| `instruments` | 樂器 | `instruments.csv` | 98 |
-| `materials` | 盔甲紋飾材料 | `materials.csv` | 143 |
-| `paintings` | 畫 | `paintings.csv` | 315 |
-| `attributes` | 屬性 | `attributes.csv` | 555 |
-| `item-groups` | 物品欄分類 | `item-groups.csv` | 198 |
-| `jukebox-songs` | 唱片曲目 | `jukebox-songs.csv` | 42 |
-| `trim-patterns` | 盔甲紋飾圖案 | `trim-patterns.csv` | 234 |
-| `colors` | 顏色 | `colors.csv` | 184 |
-| `statistics` | 統計 | `statistics.csv` | 1,143 |
-| `maps` | 地圖 | `maps.csv` | 422 |
-| `music` | 音樂曲目 | `music.csv` | 192 |
-| `sound-categories` | 聲音分類 | `sound-categories.csv` | 133 |
-| `game-modes` | 遊戲模式 | `game-modes.csv` | 77 |
+| `blocks` | 方塊 | `blocks（方塊）.csv` | 25,426 |
+| `items` | 物品 | `items（物品）.csv` | 9,061 |
+| `entities` | 實體 | `entities（實體）.csv` | 2,582 |
+| `biomes` | 生物群系 | `biomes（生態域）.csv` | 835 |
+| `enchantments` | 附魔 | `enchantments（附魔）.csv` | 553 |
+| `effects` | 狀態效果 | `effects（狀態效果）.csv` | 514 |
+| `instruments` | 樂器 | `instruments（樂器）.csv` | 98 |
+| `materials` | 盔甲紋飾材料 | `materials（盔甲紋飾材料）.csv` | 143 |
+| `paintings` | 畫 | `paintings（畫）.csv` | 315 |
+| `attributes` | 屬性 | `attributes（屬性）.csv` | 555 |
+| `item-groups` | 物品欄分類 | `item-groups（物品欄分類）.csv` | 198 |
+| `jukebox-songs` | 唱片曲目 | `jukebox-songs（唱片曲目）.csv` | 42 |
+| `trim-patterns` | 盔甲紋飾圖案 | `trim-patterns（盔甲紋飾圖案）.csv` | 234 |
+| `colors` | 顏色 | `colors（顏色）.csv` | 184 |
+| `statistics` | 統計 | `statistics（統計）.csv` | 1,143 |
+| `maps` | 地圖 | `maps（地圖）.csv` | 422 |
+| `music` | 音樂曲目 | `music（音樂曲目）.csv` | 192 |
+| `sound-categories` | 聲音分類 | `sound-categories（音效分類）.csv` | 133 |
+| `game-modes` | 遊戲模式 | `game-modes（遊戲模式）.csv` | 77 |
 
 ### `extra-`（系统与文本）
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `subtitles` | 字幕 | `extra-subtitles.csv` | 12,398 |
-| `death-messages` | 死亡訊息 | `extra-death-messages.csv` | 1,336 |
-| `advancement-titles` | 進度標題 | `extra-advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | 進度描述 | `extra-advancement-descriptions.csv` | 1,641 |
-| `gamerules` | 遊戲規則 | `extra-gamerules.csv` | 1,490 |
-| `commands` | 指令與參數 | `extra-commands.csv` | 10,734 |
-| `gui` | 介面文字 | `extra-gui.csv` | 6,618 |
-| `options` | 設定與按鍵 | `extra-options.csv` | 8,151 |
-| `multiplayer` | 多人遊戲 | `extra-multiplayer.csv` | 2,032 |
-| `realms` | Realms | `extra-realms.csv` | 4,966 |
-| `world-management` | 世界管理 | `extra-world-management.csv` | 3,562 |
-| `resource-packs` | 資源包與資料包 | `extra-resource-packs.csv` | 761 |
-| `telemetry` | 遙測 | `extra-telemetry.csv` | 897 |
-| `dev-tools` | 開發與測試工具 | `extra-dev-tools.csv` | 1,803 |
-| `misc` | 其他 | `extra-misc.csv` | 516 |
+| `subtitles` | 字幕 | `extra-subtitles（字幕）.csv` | 12,398 |
+| `death-messages` | 死亡訊息 | `extra-death-messages（死亡訊息）.csv` | 1,336 |
+| `advancement-titles` | 進度標題 | `extra-advancement-titles（進度標題）.csv` | 1,603 |
+| `advancement-descriptions` | 進度描述 | `extra-advancement-descriptions（進度描述）.csv` | 1,641 |
+| `gamerules` | 遊戲規則 | `extra-gamerules（遊戲規則）.csv` | 1,490 |
+| `commands` | 指令與參數 | `extra-commands（指令與參數）.csv` | 10,734 |
+| `gui` | 介面文字 | `extra-gui（介面文字）.csv` | 6,618 |
+| `options` | 設定與按鍵 | `extra-options（設定與按鍵）.csv` | 8,151 |
+| `multiplayer` | 多人遊戲 | `extra-multiplayer（多人遊戲）.csv` | 2,032 |
+| `realms` | Realms | `extra-realms（Realms）.csv` | 4,966 |
+| `world-management` | 世界管理 | `extra-world-management（世界管理）.csv` | 3,562 |
+| `resource-packs` | 資源包與資料包 | `extra-resource-packs（資源包與資料包）.csv` | 761 |
+| `telemetry` | 遙測 | `extra-telemetry（遙測）.csv` | 897 |
+| `dev-tools` | 開發與測試工具 | `extra-dev-tools（開發與測試工具）.csv` | 1,803 |
+| `misc` | 其他 | `extra-misc（其他）.csv` | 516 |
 
 ### 文件清单
 
 ```text
 minecraft-glossary/
 <lang>/                       # 14 个语言文件夹
-|   blocks.csv
-|   items.csv
-|   entities.csv
-|   biomes.csv
-|   enchantments.csv
-|   effects.csv
-|   instruments.csv
-|   materials.csv
-|   paintings.csv
-|   attributes.csv
-|   item-groups.csv
-|   jukebox-songs.csv
-|   trim-patterns.csv
-|   colors.csv
-|   statistics.csv
-|   maps.csv
-|   music.csv
-|   sound-categories.csv
-|   game-modes.csv
+|   blocks（方塊）.csv
+|   items（物品）.csv
+|   entities（實體）.csv
+|   biomes（生態域）.csv
+|   enchantments（附魔）.csv
+|   effects（狀態效果）.csv
+|   instruments（樂器）.csv
+|   materials（盔甲紋飾材料）.csv
+|   paintings（畫）.csv
+|   attributes（屬性）.csv
+|   item-groups（物品欄分類）.csv
+|   jukebox-songs（唱片曲目）.csv
+|   trim-patterns（盔甲紋飾圖案）.csv
+|   colors（顏色）.csv
+|   statistics（統計）.csv
+|   maps（地圖）.csv
+|   music（音樂曲目）.csv
+|   sound-categories（音效分類）.csv
+|   game-modes（遊戲模式）.csv
 |   +-- extra-               # 系统与文本类分类
 |       |-- subtitles.csv
 |       |-- death-messages.csv

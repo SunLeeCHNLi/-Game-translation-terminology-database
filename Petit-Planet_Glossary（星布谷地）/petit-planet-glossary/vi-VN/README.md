@@ -1,6 +1,6 @@
 # 《星布谷地》术语库 — Tiếng Việt（`vi-VN`）
 
-[← 返回游戏总说明](../README.md)
+[← 返回游戏总说明](../README.md) · [简体中文](README_zh-CN.md)
 
 本目录是**以 `vi-VN` 为目标语言**的术语库：每一条都是「其他语言词条 → Tiếng Việt」的对照。
 `tgt_lng` 列固定为 `vi-VN`；`source` 列收录官方本地化文本中其余语言的写法。

@@ -6,8 +6,8 @@
 
 ## 文件
 
-- `characters.csv`、`talents.csv`、`constellations.csv`、`weapons.csv`、`materials.csv`、`foods.csv`、`crafts.csv`、`artifacts.csv`、`domains.csv`、`enemies.csv`、`animals.csv`、`outfits.csv`、`windgliders.csv`、`namecards.csv`、`geographies.csv`、`achievements.csv`、`adventureranks.csv` — 17 个主类目文件
-- `tcg-action-cards.csv`、`tcg-character-cards.csv`、`tcg-enemy-cards.csv`、`tcg-summons.csv`、`tcg-status-effects.csv`、`tcg-keywords.csv`、`tcg-card-backs.csv`、`tcg-card-boxes.csv`、`tcg-detailed-rules.csv`、`tcg-level-rewards.csv` — 10 个 TCG（七圣召唤）子类目文件
+- `characters（ตัวละคร）.csv`、`talents（พรสวรรค์）.csv`、`constellations（กลุ่มดาว）.csv`、`weapons（อาวุธ）.csv`、`materials（วัสดุ）.csv`、`foods（อาหาร）.csv`、`crafts（วัสดุสังเคราะห์）.csv`、`artifacts（อาร์ติแฟกต์）.csv`、`domains（ดันเจียน）.csv`、`enemies（ศัตรู）.csv`、`animals（สิ่งมีชีวิต）.csv`、`outfits（เครื่องแต่งกาย）.csv`、`windgliders（เครื่องร่อนเวหา）.csv`、`namecards（นามบัตร）.csv`、`geographies（ชื่อสถานที่）.csv`、`achievements（ความสำเร็จ）.csv`、`adventureranks（ข้อความระดับนักผจญภัย）.csv` — 17 个主类目文件
+- `tcg-action-cards（การ์ดแอ็กชัน）.csv`、`tcg-character-cards（การ์ดตัวละคร）.csv`、`tcg-enemy-cards（การ์ดศัตรู）.csv`、`tcg-summons（สิ่งอัญเชิญ）.csv`、`tcg-status-effects（เอฟเฟกต์สถานะ）.csv`、`tcg-keywords（คีย์เวิร์ด）.csv`、`tcg-card-backs（ด้านหลังการ์ด）.csv`、`tcg-card-boxes（กล่องการ์ด）.csv`、`tcg-detailed-rules（กฎโดยละเอียด）.csv`、`tcg-level-rewards（รางวัลเลเวล）.csv` — 10 个 TCG（七圣召唤）子类目文件
 
 合计 **27 个 CSV 文件**，格式统一为三列：
 
@@ -20,23 +20,23 @@
 
 ```text
 th-TH/
-├── characters.csv
-├── talents.csv
-├── constellations.csv
-├── weapons.csv
-├── materials.csv
-├── foods.csv
-├── crafts.csv
-├── artifacts.csv
-├── domains.csv
-├── enemies.csv
-├── animals.csv
-├── outfits.csv
-├── windgliders.csv
-├── namecards.csv
-├── geographies.csv
-├── achievements.csv
-├── adventureranks.csv
+├── characters（ตัวละคร）.csv
+├── talents（พรสวรรค์）.csv
+├── constellations（กลุ่มดาว）.csv
+├── weapons（อาวุธ）.csv
+├── materials（วัสดุ）.csv
+├── foods（อาหาร）.csv
+├── crafts（วัสดุสังเคราะห์）.csv
+├── artifacts（อาร์ติแฟกต์）.csv
+├── domains（ดันเจียน）.csv
+├── enemies（ศัตรู）.csv
+├── animals（สิ่งมีชีวิต）.csv
+├── outfits（เครื่องแต่งกาย）.csv
+├── windgliders（เครื่องร่อนเวหา）.csv
+├── namecards（นามบัตร）.csv
+├── geographies（ชื่อสถานที่）.csv
+├── achievements（ความสำเร็จ）.csv
+├── adventureranks（ข้อความระดับนักผจญภัย）.csv
 └── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
@@ -58,39 +58,39 @@ th-TH/
 
 | 分类 | 文件 | 词条数 | 行数 |
 | --- | --- | ---: | ---: |
-| characters（角色） | `characters.csv` | 122 | 577 |
-| talents（天赋） | `talents.csv` | 125 | 632 |
-| constellations（命之座） | `constellations.csv` | 125 | 632 |
-| weapons（武器） | `weapons.csv` | 249 | 2,823 |
-| materials（材料） | `materials.csv` | 919 | 10,636 |
-| foods（食物） | `foods.csv` | 398 | 4,541 |
-| crafts（合成物） | `crafts.csv` | 295 | 3,522 |
-| artifacts（圣遗物） | `artifacts.csv` | 63 | 727 |
-| domains（秘境） | `domains.csv` | 284 | 3,636 |
-| enemies（敌人） | `enemies.csv` | 346 | 4,104 |
-| animals（生物） | `animals.csv` | 223 | 2,647 |
-| outfits（装扮） | `outfits.csv` | 150 | 1,869 |
-| windgliders（风之翼） | `windgliders.csv` | 18 | 211 |
-| namecards（名片） | `namecards.csv` | 289 | 3,606 |
-| geographies（地理） | `geographies.csv` | 268 | 3,389 |
-| achievements（成就） | `achievements.csv` | 1,548 | 19,464 |
-| adventureranks（冒险等阶） | `adventureranks.csv` | 21 | 157 |
+| characters（角色） | `characters（ตัวละคร）.csv` | 122 | 577 |
+| talents（天赋） | `talents（พรสวรรค์）.csv` | 125 | 632 |
+| constellations（命之座） | `constellations（กลุ่มดาว）.csv` | 125 | 632 |
+| weapons（武器） | `weapons（อาวุธ）.csv` | 249 | 2,823 |
+| materials（材料） | `materials（วัสดุ）.csv` | 919 | 10,636 |
+| foods（食物） | `foods（อาหาร）.csv` | 398 | 4,541 |
+| crafts（合成物） | `crafts（วัสดุสังเคราะห์）.csv` | 295 | 3,522 |
+| artifacts（圣遗物） | `artifacts（อาร์ติแฟกต์）.csv` | 63 | 727 |
+| domains（秘境） | `domains（ดันเจียน）.csv` | 284 | 3,636 |
+| enemies（敌人） | `enemies（ศัตรู）.csv` | 346 | 4,104 |
+| animals（生物） | `animals（สิ่งมีชีวิต）.csv` | 223 | 2,647 |
+| outfits（装扮） | `outfits（เครื่องแต่งกาย）.csv` | 150 | 1,869 |
+| windgliders（风之翼） | `windgliders（เครื่องร่อนเวหา）.csv` | 18 | 211 |
+| namecards（名片） | `namecards（นามบัตร）.csv` | 289 | 3,606 |
+| geographies（地理） | `geographies（ชื่อสถานที่）.csv` | 268 | 3,389 |
+| achievements（成就） | `achievements（ความสำเร็จ）.csv` | 1,548 | 19,464 |
+| adventureranks（冒险等阶） | `adventureranks（ข้อความระดับนักผจญภัย）.csv` | 21 | 157 |
 | **小计** | 17 个文件 | — | **63,173** |
 
 ### TCG 子类目（`tcg-`）
 
 | 子类目 | 文件 | 词条数 | 行数 |
 | --- | --- | ---: | ---: |
-| action-cards（行动牌） | `tcg-action-cards.csv` | 927 | 9,609 |
-| character-cards（角色牌） | `tcg-character-cards.csv` | 149 | 929 |
-| enemy-cards（敌人牌） | `tcg-enemy-cards.csv` | 134 | 1,126 |
-| summons（召唤物） | `tcg-summons.csv` | 152 | 1,150 |
-| status-effects（状态效果） | `tcg-status-effects.csv` | 1,159 | 11,220 |
-| keywords（关键词） | `tcg-keywords.csv` | 139 | 1,511 |
-| card-backs（牌背） | `tcg-card-backs.csv` | 39 | 407 |
-| card-boxes（牌盒） | `tcg-card-boxes.csv` | 7 | 32 |
-| detailed-rules（详细规则） | `tcg-detailed-rules.csv` | 11 | 142 |
-| level-rewards（等级奖励） | `tcg-level-rewards.csv` | 26 | 169 |
+| action-cards（行动牌） | `tcg-action-cards（การ์ดแอ็กชัน）.csv` | 927 | 9,609 |
+| character-cards（角色牌） | `tcg-character-cards（การ์ดตัวละคร）.csv` | 149 | 929 |
+| enemy-cards（敌人牌） | `tcg-enemy-cards（การ์ดศัตรู）.csv` | 134 | 1,126 |
+| summons（召唤物） | `tcg-summons（สิ่งอัญเชิญ）.csv` | 152 | 1,150 |
+| status-effects（状态效果） | `tcg-status-effects（เอฟเฟกต์สถานะ）.csv` | 1,159 | 11,220 |
+| keywords（关键词） | `tcg-keywords（คีย์เวิร์ด）.csv` | 139 | 1,511 |
+| card-backs（牌背） | `tcg-card-backs（ด้านหลังการ์ด）.csv` | 39 | 407 |
+| card-boxes（牌盒） | `tcg-card-boxes（กล่องการ์ด）.csv` | 7 | 32 |
+| detailed-rules（详细规则） | `tcg-detailed-rules（กฎโดยละเอียด）.csv` | 11 | 142 |
+| level-rewards（等级奖励） | `tcg-level-rewards（รางวัลเลเวล）.csv` | 26 | 169 |
 | **小计** | 10 个文件 | — | **26,295** |
 
 **本目录合计：27 个文件、89,468 行。**

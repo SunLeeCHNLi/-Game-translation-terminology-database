@@ -1,6 +1,6 @@
 # 명조（Wuthering Waves）용어집 — 한국어（`ko-KR`）
 
-[← 게임 전체 설명으로 돌아가기](../../README.md) ｜ [← wuwa-glossary 하위 라이브러리 설명](../README.md)
+[← 게임 전체 설명으로 돌아가기](../../README.md) ｜ [← wuwa-glossary 하위 라이브러리 설명](../README.md) ｜ [简体中文](README_zh-CN.md)
 
 이 디렉터리는 **`ko-KR`(한국어)을 대상 언어로 하는** 명조(Wuthering Waves) 용어집입니다. **123,230**개 용어와 **646,888**행의 대역(이 디렉터리에 있는 CSV 23개의 데이터 행 합계, 약 **63.4 MiB**)을 수록하고 있습니다. 모든 CSV의 `tgt_lng` 열은 `ko-KR`로 고정되어 있고, `source` 열에는 나머지 9개 언어(`zh-CN` (简体中文), `zh-TW` (繁體中文), `en-US` (English), `ja-JP` (日本語), `fr-FR` (Français), `de-DE` (Deutsch), `es-ES` (Español), `pt-BR` (Português), `th-TH` (ภาษาไทย))의 표기가 들어가므로 동일한 게임 텍스트를 어느 언어에서든 이 언어의 역어와 대조할 수 있습니다.
 
@@ -8,29 +8,29 @@
 
 이 디렉터리는 **평면 구조**로, 23개의 분류 CSV가 이 디렉터리에 바로 있으며 추가 하위 디렉터리가 없습니다:
 
-- `characters.csv` — 캐릭터 이름
-- `weapons.csv` — 무기 이름
-- `echoes.csv` — 에코
-- `skills.csv` — 스킬
-- `resonant-chains.csv` — 공명 체인
-- `quests.csv` — 퀘스트
-- `dungeons.csv` — 스테이지·도전
-- `regions.csv` — 지역·지도
-- `factions.csv` — 세력·진영
-- `items.csv` — 아이템·재료
-- `monsters.csv` — 몬스터·생물
-- `npcs.csv` — NPC·화자
-- `achievements.csv` — 업적
-- `activities.csv` — 이벤트·콘텐츠
-- `buffs.csv` — 버프·효과
-- `voice-lines.csv` — 캐릭터 음성
-- `archives.csv` — 기록·서적
-- `terms.csv` — 용어·도감
-- `system.csv` — 시스템 텍스트
-- `ui.csv` — UI 텍스트
-- `tutorials.csv` — 튜토리얼
-- `story.csv` — 스토리
-- `other.csv` — 기타
+- `characters（캐릭터 이름）.csv` — 캐릭터 이름
+- `weapons（무기 이름）.csv` — 무기 이름
+- `echoes（에코）.csv` — 에코
+- `skills（스킬）.csv` — 스킬
+- `resonant-chains（공명 체인）.csv` — 공명 체인
+- `quests（퀘스트）.csv` — 퀘스트
+- `dungeons（스테이지·도전）.csv` — 스테이지·도전
+- `regions（지역·지도）.csv` — 지역·지도
+- `factions（세력·진영）.csv` — 세력·진영
+- `items（아이템·재료）.csv` — 아이템·재료
+- `monsters（몬스터·생물）.csv` — 몬스터·생물
+- `npcs（NPC·화자）.csv` — NPC·화자
+- `achievements（업적）.csv` — 업적
+- `activities（이벤트·콘텐츠）.csv` — 이벤트·콘텐츠
+- `buffs（버프·효과）.csv` — 버프·효과
+- `voice-lines（캐릭터 음성）.csv` — 캐릭터 음성
+- `archives（기록·서적）.csv` — 기록·서적
+- `terms（용어·도감）.csv` — 용어·도감
+- `system（시스템 텍스트）.csv` — 시스템 텍스트
+- `ui（UI 텍스트）.csv` — UI 텍스트
+- `tutorials（튜토리얼）.csv` — 튜토리얼
+- `story（스토리）.csv` — 스토리
+- `other（기타）.csv` — 기타
 
 각 파일은 `source,target,tgt_lng` 세 열(첫 행은 헤더)로 이루어집니다. `tgt_lng`가 지정하는 대상 언어에 대해 `target`은 번역문이고 `source`는 **다른 어느 한 언어**의 원문입니다. 따라서 하나의 항목은 나머지 9개 언어 각각을 `source`로 하여 한 행씩 나타납니다(중복 행과 동일 표기 행은 병합되었으므로 실제 행 수가 용어 수의 9배는 아닙니다). 파일은 CAT 도구나 Immersive Translate 등 용어 매칭 소프트웨어에 바로 가져올 수 있습니다.
 
@@ -38,29 +38,29 @@
 
 | 분류 | 주제 | 용어 수 | 대역 행 |
 | --- | --- | --- | --- |
-| `characters.csv` | 캐릭터 이름 | 1,230 | 5,209 |
-| `weapons.csv` | 무기 이름 | 820 | 3,112 |
-| `echoes.csv` | 에코 | 1,000 | 6,083 |
-| `skills.csv` | 스킬 | 5,344 | 30,562 |
-| `resonant-chains.csv` | 공명 체인 | 784 | 6,124 |
-| `quests.csv` | 퀘스트 | 2,807 | 14,620 |
-| `dungeons.csv` | 스테이지·도전 | 1,910 | 12,155 |
-| `regions.csv` | 지역·지도 | 2,229 | 16,199 |
-| `factions.csv` | 세력·진영 | 8 | 44 |
-| `items.csv` | 아이템·재료 | 8,384 | 54,484 |
-| `monsters.csv` | 몬스터·생물 | 685 | 4,529 |
-| `npcs.csv` | NPC·화자 | 14,172 | 63,418 |
-| `achievements.csv` | 업적 | 2,563 | 22,169 |
-| `activities.csv` | 이벤트·콘텐츠 | 9,531 | 63,608 |
-| `buffs.csv` | 버프·효과 | 270 | 2,034 |
-| `voice-lines.csv` | 캐릭터 음성 | 7,374 | 31,923 |
-| `archives.csv` | 기록·서적 | 839 | 6,563 |
-| `terms.csv` | 용어·도감 | 1,672 | 12,423 |
-| `system.csv` | 시스템 텍스트 | 9,756 | 65,835 |
-| `ui.csv` | UI 텍스트 | 13,866 | 78,159 |
-| `tutorials.csv` | 튜토리얼 | 6,253 | 31,905 |
-| `story.csv` | 스토리 | 29,841 | 102,395 |
-| `other.csv` | 기타 | 1,892 | 13,335 |
+| `characters（캐릭터 이름）.csv` | 캐릭터 이름 | 1,230 | 5,209 |
+| `weapons（무기 이름）.csv` | 무기 이름 | 820 | 3,112 |
+| `echoes（에코）.csv` | 에코 | 1,000 | 6,083 |
+| `skills（스킬）.csv` | 스킬 | 5,344 | 30,562 |
+| `resonant-chains（공명 체인）.csv` | 공명 체인 | 784 | 6,124 |
+| `quests（퀘스트）.csv` | 퀘스트 | 2,807 | 14,620 |
+| `dungeons（스테이지·도전）.csv` | 스테이지·도전 | 1,910 | 12,155 |
+| `regions（지역·지도）.csv` | 지역·지도 | 2,229 | 16,199 |
+| `factions（세력·진영）.csv` | 세력·진영 | 8 | 44 |
+| `items（아이템·재료）.csv` | 아이템·재료 | 8,384 | 54,484 |
+| `monsters（몬스터·생물）.csv` | 몬스터·생물 | 685 | 4,529 |
+| `npcs（NPC·화자）.csv` | NPC·화자 | 14,172 | 63,418 |
+| `achievements（업적）.csv` | 업적 | 2,563 | 22,169 |
+| `activities（이벤트·콘텐츠）.csv` | 이벤트·콘텐츠 | 9,531 | 63,608 |
+| `buffs（버프·효과）.csv` | 버프·효과 | 270 | 2,034 |
+| `voice-lines（캐릭터 음성）.csv` | 캐릭터 음성 | 7,374 | 31,923 |
+| `archives（기록·서적）.csv` | 기록·서적 | 839 | 6,563 |
+| `terms（용어·도감）.csv` | 용어·도감 | 1,672 | 12,423 |
+| `system（시스템 텍스트）.csv` | 시스템 텍스트 | 9,756 | 65,835 |
+| `ui（UI 텍스트）.csv` | UI 텍스트 | 13,866 | 78,159 |
+| `tutorials（튜토리얼）.csv` | 튜토리얼 | 6,253 | 31,905 |
+| `story（스토리）.csv` | 스토리 | 29,841 | 102,395 |
+| `other（기타）.csv` | 기타 | 1,892 | 13,335 |
 | **합계** | **23 개 분류** | **123,230** | **646,888** |
 
 “용어 수”는 중복을 제거한 용어 개수(1개 용어 = 게임 내 텍스트 키 1개)이며 `tools/_counts.json`의 `concepts` 필드 값입니다. **전체 데이터베이스가 같은 값을 공유하며 대상 언어와 무관합니다.** “대역 행”은 이 디렉터리에 있는 해당 분류 CSV의 실제 데이터 행 수입니다. 같은 텍스트가 여러 분류에 속할 수 있으므로 분류별 행 수의 합계는 중복 제거된 용어 수보다 큽니다.

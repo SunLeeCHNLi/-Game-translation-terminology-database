@@ -1,6 +1,6 @@
 # Genshin Impact Glossary（原神）— English（`en-US`）
 
-[← Back to the game overview](../../README.md)
+[← Back to the game overview](../../README.md) · [简体中文](README_zh-CN.md)
 
 This directory is the main glossary of the Genshin Impact terminology database **with `en-US` as the target language**: **8,186** deduplicated terms and **89,412** parallel rows in total — **63,172** rows in the 17 main categories and **26,240** rows in the 10 TCG sub-categories. In all 27 CSV files `tgt_lng` is fixed to `en-US`, `source` holds the spelling used by one of the other 13 languages, and `target` holds the name in this target language.
 

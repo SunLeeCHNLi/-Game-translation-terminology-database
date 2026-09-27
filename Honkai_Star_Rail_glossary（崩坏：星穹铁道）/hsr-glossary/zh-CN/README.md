@@ -10,32 +10,32 @@
 
 | 文件 | 分类 | 本语言记录数 |
 | --- | --- | ---: |
-| `01_character.csv` | 角色与 NPC | 2,910 |
-| `02_path.csv` | 命途 | 206 |
-| `03_element.csv` | 属性 | 149 |
-| `04_skill.csv` | 技能 | 5,136 |
-| `05_trace.csv` | 行迹 | 3,051 |
-| `06_eidolon.csv` | 星魂 | 5,491 |
-| `07_light_cone.csv` | 光锥 | 3,219 |
-| `08_relic.csv` | 遗器 | 2,746 |
-| `09_item.csv` | 道具 | 19,949 |
-| `10_material.csv` | 材料 | 6,082 |
-| `11_enemy.csv` | 敌人 | 9,554 |
-| `12_location.csv` | 地点 | 11,731 |
-| `13_faction.csv` | 阵营与组织 | 347 |
-| `14_quest.csv` | 任务 | 70,378 |
-| `15_stage.csv` | 关卡与副本 | 1,991 |
-| `16_event.csv` | 活动 | 14,841 |
-| `17_achievement.csv` | 成就 | 21,919 |
-| `18_simulated_universe.csv` | 模拟宇宙 | 20,288 |
-| `19_forgotten_hall.csv` | 忘却之庭 | 9,739 |
-| `20_story.csv` | 剧情 | 214 |
-| `21_world_lore.csv` | 世界观 | 1,318 |
-| `22_book.csv` | 书籍 | 11,380 |
-| `23_dialogue.csv` | 对话 | 60,556 |
-| `24_system.csv` | 系统 | 22,550 |
-| `25_ui.csv` | 界面 | 11,726 |
-| `26_other.csv` | 其他 | 2,222 |
+| `01_character（角色与NPC）.csv` | 角色与 NPC | 2,910 |
+| `02_path（命途）.csv` | 命途 | 206 |
+| `03_element（属性）.csv` | 属性 | 149 |
+| `04_skill（技能）.csv` | 技能 | 5,136 |
+| `05_trace（行迹）.csv` | 行迹 | 3,051 |
+| `06_eidolon（星魂）.csv` | 星魂 | 5,491 |
+| `07_light_cone（光锥）.csv` | 光锥 | 3,219 |
+| `08_relic（遗器）.csv` | 遗器 | 2,746 |
+| `09_item（道具）.csv` | 道具 | 19,949 |
+| `10_material（材料）.csv` | 材料 | 6,082 |
+| `11_enemy（敌人）.csv` | 敌人 | 9,554 |
+| `12_location（地点）.csv` | 地点 | 11,731 |
+| `13_faction（阵营与组织）.csv` | 阵营与组织 | 347 |
+| `14_quest（任务）.csv` | 任务 | 70,378 |
+| `15_stage（关卡与副本）.csv` | 关卡与副本 | 1,991 |
+| `16_event（活动）.csv` | 活动 | 14,841 |
+| `17_achievement（成就）.csv` | 成就 | 21,919 |
+| `18_simulated_universe（模拟宇宙）.csv` | 模拟宇宙 | 20,288 |
+| `19_forgotten_hall（忘却之庭）.csv` | 忘却之庭 | 9,739 |
+| `20_story（剧情）.csv` | 剧情 | 214 |
+| `21_world_lore（世界观）.csv` | 世界观 | 1,318 |
+| `22_book（书籍）.csv` | 书籍 | 11,380 |
+| `23_dialogue（对话）.csv` | 对话 | 60,556 |
+| `24_system（系统）.csv` | 系统 | 22,550 |
+| `25_ui（界面）.csv` | 界面 | 11,726 |
+| `26_other（其他）.csv` | 其他 | 2,222 |
 
 ## 说明
 

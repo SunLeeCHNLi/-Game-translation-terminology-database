@@ -17,8 +17,7 @@ written in the other four languages (`zh-CN` / `zh-TW` / `ja-JP` / `ko-KR`).
   It contains the same 53,269 mappings as the 20 CSVs.
 - This readme (`README.md`) and its Simplified Chinese counterpart (`README_zh-CN.md`).
 
-> Category file names stay in Chinese in every language directory (e.g. `01_干员名称.csv`, “operator
-> names”) so that categories line up across languages and scripts can treat them uniformly.
+> Category file names are based on the Chinese name with the language's own category name appended in each language directory (e.g. `01_干员名称.csv`, “operator names”), so that categories line up across languages and scripts can treat them uniformly.
 
 ## Categories and counts
 

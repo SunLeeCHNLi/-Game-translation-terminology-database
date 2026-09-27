@@ -1,6 +1,6 @@
 # Honkai: Star Rail Terminology Database — English (`en-US`)
 
-[← Back to the game overview](../../README.md) ｜ [← hsr-glossary sub-library](../README.md)
+[← Back to the game overview](../../README.md) ｜ [← hsr-glossary sub-library](../README.md) ｜ [简体中文](README_zh-CN.md)
 
 This directory holds the Honkai: Star Rail terminology database with **`en-US` (English) as the target language**: **26** category CSVs and **313,831** comparison rows. The `tgt_lng` column is always `en-US` and the `source` column carries the official localization of every other language, so any source language can be matched to this language.
 

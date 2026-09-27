@@ -6,8 +6,8 @@
 
 ## ファイル
 
-- `blocks.csv`, `items.csv`, `entities.csv`, `biomes.csv`, `enchantments.csv`, `effects.csv`, `instruments.csv`, `materials.csv`, `paintings.csv`, `attributes.csv`, `item-groups.csv`, `jukebox-songs.csv`, `trim-patterns.csv`, `colors.csv`, `statistics.csv`, `maps.csv`, `music.csv`, `sound-categories.csv`, `game-modes.csv` — 主要カテゴリのファイル 19 件
-- `extra-subtitles.csv`, `extra-death-messages.csv`, `extra-advancement-titles.csv`, `extra-advancement-descriptions.csv`, `extra-gamerules.csv`, `extra-commands.csv`, `extra-gui.csv`, `extra-options.csv`, `extra-multiplayer.csv`, `extra-realms.csv`, `extra-world-management.csv`, `extra-resource-packs.csv`, `extra-telemetry.csv`, `extra-dev-tools.csv`, `extra-misc.csv` — `extra-` のシステム・テキスト系カテゴリのファイル 15 件
+- `blocks（ブロック）.csv`, `items（アイテム）.csv`, `entities（エンティティ）.csv`, `biomes（バイオーム）.csv`, `enchantments（エンチャント）.csv`, `effects（ステータス効果）.csv`, `instruments（楽器）.csv`, `materials（防具装飾素材）.csv`, `paintings（絵画）.csv`, `attributes（属性）.csv`, `item-groups（アイテムグループ）.csv`, `jukebox-songs（ジュークボックスの曲）.csv`, `trim-patterns（防具装飾パターン）.csv`, `colors（色）.csv`, `statistics（統計）.csv`, `maps（地図）.csv`, `music（音楽）.csv`, `sound-categories（サウンドカテゴリ）.csv`, `game-modes（ゲームモード）.csv` — 主要カテゴリのファイル 19 件
+- `extra-subtitles（字幕）.csv`, `extra-death-messages（死亡メッセージ）.csv`, `extra-advancement-titles（進捗のタイトル）.csv`, `extra-advancement-descriptions（進捗の説明）.csv`, `extra-gamerules（ゲームルール）.csv`, `extra-commands（コマンドと引数）.csv`, `extra-gui（画面テキスト）.csv`, `extra-options（設定とキー）.csv`, `extra-multiplayer（マルチプレイ）.csv`, `extra-realms（Realms）.csv`, `extra-world-management（ワールド管理）.csv`, `extra-resource-packs（リソースパックとデータパック）.csv`, `extra-telemetry（テレメトリ）.csv`, `extra-dev-tools（開発・テストツール）.csv`, `extra-misc（その他）.csv` — `extra-` のシステム・テキスト系カテゴリのファイル 15 件
 
 合計 **34 個の CSV ファイル**で、いずれも同じ 3 列の形式です。
 
@@ -20,25 +20,25 @@
 
 ```text
 ja-JP/
-├── blocks.csv
-├── items.csv
-├── entities.csv
-├── biomes.csv
-├── enchantments.csv
-├── effects.csv
-├── instruments.csv
-├── materials.csv
-├── paintings.csv
-├── attributes.csv
-├── item-groups.csv
-├── jukebox-songs.csv
-├── trim-patterns.csv
-├── colors.csv
-├── statistics.csv
-├── maps.csv
-├── music.csv
-├── sound-categories.csv
-├── game-modes.csv
+├── blocks（ブロック）.csv
+├── items（アイテム）.csv
+├── entities（エンティティ）.csv
+├── biomes（バイオーム）.csv
+├── enchantments（エンチャント）.csv
+├── effects（ステータス効果）.csv
+├── instruments（楽器）.csv
+├── materials（防具装飾素材）.csv
+├── paintings（絵画）.csv
+├── attributes（属性）.csv
+├── item-groups（アイテムグループ）.csv
+├── jukebox-songs（ジュークボックスの曲）.csv
+├── trim-patterns（防具装飾パターン）.csv
+├── colors（色）.csv
+├── statistics（統計）.csv
+├── maps（地図）.csv
+├── music（音楽）.csv
+├── sound-categories（サウンドカテゴリ）.csv
+├── game-modes（ゲームモード）.csv
 └── extra-  # システム系・テキスト系カテゴリ
     ├── subtitles.csv
     ├── death-messages.csv
@@ -65,46 +65,46 @@ ja-JP/
 
 | カテゴリ | テーマ | 語数 | 対照行数 |
 | --- | --- | ---: | ---: |
-| `blocks.csv` | ブロック | 1,975 | 25,426 |
-| `items.csv` | アイテム | 803 | 9,092 |
-| `entities.csv` | エンティティ | 219 | 2,582 |
-| `biomes.csv` | バイオーム | 67 | 835 |
-| `enchantments.csv` | エンチャント | 54 | 553 |
-| `effects.csv` | ステータス効果 | 42 | 514 |
-| `instruments.csv` | 楽器 | 8 | 98 |
-| `materials.csv` | 装飾素材 | 11 | 143 |
-| `paintings.csv` | 絵画 | 104 | 315 |
-| `attributes.csv` | 属性 | 83 | 588 |
-| `item-groups.csv` | アイテムグループ | 16 | 198 |
-| `jukebox-songs.csv` | ジュークボックスの曲 | 22 | 42 |
-| `trim-patterns.csv` | 装飾模様 | 18 | 234 |
-| `colors.csv` | 色 | 16 | 184 |
-| `statistics.csv` | 統計 | 88 | 1,143 |
-| `maps.csv` | 地図 | 33 | 422 |
-| `music.csv` | 音楽 | 70 | 192 |
-| `sound-categories.csv` | サウンドカテゴリ | 11 | 133 |
-| `game-modes.csv` | ゲームモード | 6 | 77 |
+| `blocks（ブロック）.csv` | ブロック | 1,975 | 25,426 |
+| `items（アイテム）.csv` | アイテム | 803 | 9,092 |
+| `entities（エンティティ）.csv` | エンティティ | 219 | 2,582 |
+| `biomes（バイオーム）.csv` | バイオーム | 67 | 835 |
+| `enchantments（エンチャント）.csv` | エンチャント | 54 | 553 |
+| `effects（ステータス効果）.csv` | ステータス効果 | 42 | 514 |
+| `instruments（楽器）.csv` | 楽器 | 8 | 98 |
+| `materials（防具装飾素材）.csv` | 装飾素材 | 11 | 143 |
+| `paintings（絵画）.csv` | 絵画 | 104 | 315 |
+| `attributes（属性）.csv` | 属性 | 83 | 588 |
+| `item-groups（アイテムグループ）.csv` | アイテムグループ | 16 | 198 |
+| `jukebox-songs（ジュークボックスの曲）.csv` | ジュークボックスの曲 | 22 | 42 |
+| `trim-patterns（防具装飾パターン）.csv` | 装飾模様 | 18 | 234 |
+| `colors（色）.csv` | 色 | 16 | 184 |
+| `statistics（統計）.csv` | 統計 | 88 | 1,143 |
+| `maps（地図）.csv` | 地図 | 33 | 422 |
+| `music（音楽）.csv` | 音楽 | 70 | 192 |
+| `sound-categories（サウンドカテゴリ）.csv` | サウンドカテゴリ | 11 | 133 |
+| `game-modes（ゲームモード）.csv` | ゲームモード | 6 | 77 |
 | **小計** | 19 ファイル | **3,646** | **42,771** |
 
 ### `extra-` のカテゴリ（システム・テキスト）
 
 | カテゴリ | テーマ | 語数 | 対照行数 |
 | --- | --- | ---: | ---: |
-| `extra-subtitles.csv` | 字幕 | 1,023 | 12,528 |
-| `extra-death-messages.csv` | 死亡メッセージ | 106 | 1,354 |
-| `extra-advancement-titles.csv` | 進捗のタイトル | 127 | 1,603 |
-| `extra-advancement-descriptions.csv` | 進捗の説明 | 127 | 1,650 |
-| `extra-gamerules.csv` | ゲームルール | 117 | 1,490 |
-| `extra-commands.csv` | コマンドと引数 | 856 | 10,743 |
-| `extra-gui.csv` | インターフェース | 581 | 6,655 |
-| `extra-options.csv` | 設定とキー | 754 | 8,162 |
-| `extra-multiplayer.csv` | マルチプレイ | 173 | 2,015 |
-| `extra-realms.csv` | Realms | 426 | 4,988 |
-| `extra-world-management.csv` | ワールド管理 | 294 | 3,609 |
-| `extra-resource-packs.csv` | リソースパックとデータパック | 62 | 761 |
-| `extra-telemetry.csv` | テレメトリ | 70 | 897 |
-| `extra-dev-tools.csv` | 開発・テストツール | 144 | 1,811 |
-| `extra-misc.csv` | その他 | 53 | 516 |
+| `extra-subtitles（字幕）.csv` | 字幕 | 1,023 | 12,528 |
+| `extra-death-messages（死亡メッセージ）.csv` | 死亡メッセージ | 106 | 1,354 |
+| `extra-advancement-titles（進捗のタイトル）.csv` | 進捗のタイトル | 127 | 1,603 |
+| `extra-advancement-descriptions（進捗の説明）.csv` | 進捗の説明 | 127 | 1,650 |
+| `extra-gamerules（ゲームルール）.csv` | ゲームルール | 117 | 1,490 |
+| `extra-commands（コマンドと引数）.csv` | コマンドと引数 | 856 | 10,743 |
+| `extra-gui（画面テキスト）.csv` | インターフェース | 581 | 6,655 |
+| `extra-options（設定とキー）.csv` | 設定とキー | 754 | 8,162 |
+| `extra-multiplayer（マルチプレイ）.csv` | マルチプレイ | 173 | 2,015 |
+| `extra-realms（Realms）.csv` | Realms | 426 | 4,988 |
+| `extra-world-management（ワールド管理）.csv` | ワールド管理 | 294 | 3,609 |
+| `extra-resource-packs（リソースパックとデータパック）.csv` | リソースパックとデータパック | 62 | 761 |
+| `extra-telemetry（テレメトリ）.csv` | テレメトリ | 70 | 897 |
+| `extra-dev-tools（開発・テストツール）.csv` | 開発・テストツール | 144 | 1,811 |
+| `extra-misc（その他）.csv` | その他 | 53 | 516 |
 | **小計** | 15 ファイル | **4,913** | **58,782** |
 
 **本ディレクトリ合計：34 ファイル、`target` 列で重複除去した用語 7,826 語、対照 101,553 行。**

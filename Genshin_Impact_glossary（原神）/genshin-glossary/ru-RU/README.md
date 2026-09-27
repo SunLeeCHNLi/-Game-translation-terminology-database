@@ -6,8 +6,8 @@
 
 ## Файлы
 
-- `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 файлов основных категорий
-- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 файлов подкатегории TCG («Священное призывание семи»)
+- `characters（Персонажи）.csv`, `talents（Таланты）.csv`, `constellations（Созвездия）.csv`, `weapons（Оружие）.csv`, `materials（Материалы）.csv`, `foods（Еда）.csv`, `crafts（Материалы для крафта）.csv`, `artifacts（Артефакты）.csv`, `domains（Подземелья）.csv`, `enemies（Противники）.csv`, `animals（Животные）.csv`, `outfits（Наряды）.csv`, `windgliders（Планеры）.csv`, `namecards（Визитки）.csv`, `geographies（Топонимы）.csv`, `achievements（Достижения）.csv`, `adventureranks（Тексты ранга приключений）.csv` — 17 файлов основных категорий
+- `tcg-action-cards（Карты действий）.csv`, `tcg-character-cards（Карты персонажей）.csv`, `tcg-enemy-cards（Карты противников）.csv`, `tcg-summons（Призывы）.csv`, `tcg-status-effects（Эффекты состояния）.csv`, `tcg-keywords（Ключевые слова）.csv`, `tcg-card-backs（Обратные стороны карт）.csv`, `tcg-card-boxes（Коробки для карт）.csv`, `tcg-detailed-rules（Подробные правила）.csv`, `tcg-level-rewards（Награды за уровень）.csv` — 10 файлов подкатегории TCG («Священное призывание семи»)
 
 Всего **27 CSV-файлов**. Формат у всех одинаковый — три столбца:
 
@@ -20,23 +20,23 @@
 
 ```text
 ru-RU/
-├── characters.csv
-├── talents.csv
-├── constellations.csv
-├── weapons.csv
-├── materials.csv
-├── foods.csv
-├── crafts.csv
-├── artifacts.csv
-├── domains.csv
-├── enemies.csv
-├── animals.csv
-├── outfits.csv
-├── windgliders.csv
-├── namecards.csv
-├── geographies.csv
-├── achievements.csv
-├── adventureranks.csv
+├── characters（Персонажи）.csv
+├── talents（Таланты）.csv
+├── constellations（Созвездия）.csv
+├── weapons（Оружие）.csv
+├── materials（Материалы）.csv
+├── foods（Еда）.csv
+├── crafts（Материалы для крафта）.csv
+├── artifacts（Артефакты）.csv
+├── domains（Подземелья）.csv
+├── enemies（Противники）.csv
+├── animals（Животные）.csv
+├── outfits（Наряды）.csv
+├── windgliders（Планеры）.csv
+├── namecards（Визитки）.csv
+├── geographies（Топонимы）.csv
+├── achievements（Достижения）.csv
+├── adventureranks（Тексты ранга приключений）.csv
 └── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
@@ -58,39 +58,39 @@ ru-RU/
 
 | Категория | Файл | Термины | Строки |
 | --- | --- | ---: | ---: |
-| characters | `characters.csv` | 122 | 577 |
-| talents | `talents.csv` | 125 | 632 |
-| constellations | `constellations.csv` | 125 | 632 |
-| weapons | `weapons.csv` | 249 | 2 823 |
-| materials | `materials.csv` | 919 | 10 636 |
-| foods | `foods.csv` | 398 | 4 541 |
-| crafts | `crafts.csv` | 295 | 3 522 |
-| artifacts | `artifacts.csv` | 63 | 727 |
-| domains | `domains.csv` | 284 | 3 636 |
-| enemies | `enemies.csv` | 346 | 4 104 |
-| animals | `animals.csv` | 223 | 2 647 |
-| outfits | `outfits.csv` | 150 | 1 869 |
-| windgliders | `windgliders.csv` | 18 | 211 |
-| namecards | `namecards.csv` | 289 | 3 606 |
-| geographies | `geographies.csv` | 268 | 3 389 |
-| achievements | `achievements.csv` | 1 548 | 19 461 |
-| adventureranks | `adventureranks.csv` | 21 | 157 |
+| characters | `characters（Персонажи）.csv` | 122 | 577 |
+| talents | `talents（Таланты）.csv` | 125 | 632 |
+| constellations | `constellations（Созвездия）.csv` | 125 | 632 |
+| weapons | `weapons（Оружие）.csv` | 249 | 2 823 |
+| materials | `materials（Материалы）.csv` | 919 | 10 636 |
+| foods | `foods（Еда）.csv` | 398 | 4 541 |
+| crafts | `crafts（Материалы для крафта）.csv` | 295 | 3 522 |
+| artifacts | `artifacts（Артефакты）.csv` | 63 | 727 |
+| domains | `domains（Подземелья）.csv` | 284 | 3 636 |
+| enemies | `enemies（Противники）.csv` | 346 | 4 104 |
+| animals | `animals（Животные）.csv` | 223 | 2 647 |
+| outfits | `outfits（Наряды）.csv` | 150 | 1 869 |
+| windgliders | `windgliders（Планеры）.csv` | 18 | 211 |
+| namecards | `namecards（Визитки）.csv` | 289 | 3 606 |
+| geographies | `geographies（Топонимы）.csv` | 268 | 3 389 |
+| achievements | `achievements（Достижения）.csv` | 1 548 | 19 461 |
+| adventureranks | `adventureranks（Тексты ранга приключений）.csv` | 21 | 157 |
 | **Итого** | 17 файлов | — | **63 170** |
 
 ### Подкатегории TCG (`tcg-`)
 
 | Подкатегория | Файл | Термины | Строки |
 | --- | --- | ---: | ---: |
-| action-cards | `tcg-action-cards.csv` | 927 | 9 521 |
-| character-cards | `tcg-character-cards.csv` | 149 | 929 |
-| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1 114 |
-| summons | `tcg-summons.csv` | 152 | 1 139 |
-| status-effects | `tcg-status-effects.csv` | 1 159 | 11 224 |
-| keywords | `tcg-keywords.csv` | 139 | 1 571 |
-| card-backs | `tcg-card-backs.csv` | 39 | 407 |
-| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
-| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
-| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards（Карты действий）.csv` | 927 | 9 521 |
+| character-cards | `tcg-character-cards（Карты персонажей）.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards（Карты противников）.csv` | 134 | 1 114 |
+| summons | `tcg-summons（Призывы）.csv` | 152 | 1 139 |
+| status-effects | `tcg-status-effects（Эффекты состояния）.csv` | 1 159 | 11 224 |
+| keywords | `tcg-keywords（Ключевые слова）.csv` | 139 | 1 571 |
+| card-backs | `tcg-card-backs（Обратные стороны карт）.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes（Коробки для карт）.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules（Подробные правила）.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards（Награды за уровень）.csv` | 26 | 169 |
 | **Итого** | 10 файлов | — | **26 248** |
 
 **Всего в этом каталоге: 27 файлов, 89 418 строк.**

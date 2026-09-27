@@ -1,6 +1,6 @@
 # Cat Fantasy Terminology Database — English (`en-US`)
 
-[← Back to the game overview](../README.md)
+[← Back to the game overview](../README.md) · [简体中文](README_zh-CN.md)
 
 This directory is the terminology database whose **target language is `en-US`**: every row is an
 "entry in another language → English" mapping. It holds **101,692** terms and **197,404** aligned rows,

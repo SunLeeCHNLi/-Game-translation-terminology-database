@@ -6,8 +6,8 @@ Bu dizin, *Genshin Impact* terminoloji sözlüğünün **hedef dili Türkçe (`t
 
 ## Dosyalar
 
-- `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 ana kategori dosyası
-- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 TCG (Yedi Kutsal Çağrı) alt kategori dosyası
+- `characters（Karakterler）.csv`, `talents（Yetenekler）.csv`, `constellations（Takımyıldızlar）.csv`, `weapons（Silahlar）.csv`, `materials（Malzemeler）.csv`, `foods（Yemekler）.csv`, `crafts（Üretim malzemeleri）.csv`, `artifacts（Yadigârlar）.csv`, `domains（Alanlar）.csv`, `enemies（Düşmanlar）.csv`, `animals（Hayvanlar）.csv`, `outfits（Kıyafetler）.csv`, `windgliders（Rüzgâr Planörleri）.csv`, `namecards（Kartvizitler）.csv`, `geographies（Yer adları）.csv`, `achievements（Başarımlar）.csv`, `adventureranks（Maceracı rütbesi metinleri）.csv` — 17 ana kategori dosyası
+- `tcg-action-cards（Eylem Kartları）.csv`, `tcg-character-cards（Karakter Kartları）.csv`, `tcg-enemy-cards（Düşman Kartları）.csv`, `tcg-summons（Çağırılanlar）.csv`, `tcg-status-effects（Durum Etkileri）.csv`, `tcg-keywords（Anahtar Sözcükler）.csv`, `tcg-card-backs（Kart Arkaları）.csv`, `tcg-card-boxes（Kart Kutuları）.csv`, `tcg-detailed-rules（Ayrıntılı Kurallar）.csv`, `tcg-level-rewards（Seviye Ödülleri）.csv` — 10 TCG (Yedi Kutsal Çağrı) alt kategori dosyası
 
 Toplam **27 CSV dosyası**. Tümü aynı üç sütunlu biçimdedir:
 
@@ -20,23 +20,23 @@ Dizin yapısı:
 
 ```text
 tr-TR/
-├── characters.csv
-├── talents.csv
-├── constellations.csv
-├── weapons.csv
-├── materials.csv
-├── foods.csv
-├── crafts.csv
-├── artifacts.csv
-├── domains.csv
-├── enemies.csv
-├── animals.csv
-├── outfits.csv
-├── windgliders.csv
-├── namecards.csv
-├── geographies.csv
-├── achievements.csv
-├── adventureranks.csv
+├── characters（Karakterler）.csv
+├── talents（Yetenekler）.csv
+├── constellations（Takımyıldızlar）.csv
+├── weapons（Silahlar）.csv
+├── materials（Malzemeler）.csv
+├── foods（Yemekler）.csv
+├── crafts（Üretim malzemeleri）.csv
+├── artifacts（Yadigârlar）.csv
+├── domains（Alanlar）.csv
+├── enemies（Düşmanlar）.csv
+├── animals（Hayvanlar）.csv
+├── outfits（Kıyafetler）.csv
+├── windgliders（Rüzgâr Planörleri）.csv
+├── namecards（Kartvizitler）.csv
+├── geographies（Yer adları）.csv
+├── achievements（Başarımlar）.csv
+├── adventureranks（Maceracı rütbesi metinleri）.csv
 └── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
@@ -58,39 +58,39 @@ tr-TR/
 
 | Kategori | Dosya | Terim | Satır |
 | --- | --- | ---: | ---: |
-| characters | `characters.csv` | 122 | 577 |
-| talents | `talents.csv` | 125 | 632 |
-| constellations | `constellations.csv` | 125 | 632 |
-| weapons | `weapons.csv` | 249 | 2.823 |
-| materials | `materials.csv` | 919 | 10.636 |
-| foods | `foods.csv` | 398 | 4.541 |
-| crafts | `crafts.csv` | 295 | 3.522 |
-| artifacts | `artifacts.csv` | 63 | 727 |
-| domains | `domains.csv` | 284 | 3.636 |
-| enemies | `enemies.csv` | 346 | 4.104 |
-| animals | `animals.csv` | 223 | 2.647 |
-| outfits | `outfits.csv` | 150 | 1.869 |
-| windgliders | `windgliders.csv` | 18 | 211 |
-| namecards | `namecards.csv` | 289 | 3.606 |
-| geographies | `geographies.csv` | 268 | 3.389 |
-| achievements | `achievements.csv` | 1.548 | 19.463 |
-| adventureranks | `adventureranks.csv` | 21 | 169 |
+| characters | `characters（Karakterler）.csv` | 122 | 577 |
+| talents | `talents（Yetenekler）.csv` | 125 | 632 |
+| constellations | `constellations（Takımyıldızlar）.csv` | 125 | 632 |
+| weapons | `weapons（Silahlar）.csv` | 249 | 2.823 |
+| materials | `materials（Malzemeler）.csv` | 919 | 10.636 |
+| foods | `foods（Yemekler）.csv` | 398 | 4.541 |
+| crafts | `crafts（Üretim malzemeleri）.csv` | 295 | 3.522 |
+| artifacts | `artifacts（Yadigârlar）.csv` | 63 | 727 |
+| domains | `domains（Alanlar）.csv` | 284 | 3.636 |
+| enemies | `enemies（Düşmanlar）.csv` | 346 | 4.104 |
+| animals | `animals（Hayvanlar）.csv` | 223 | 2.647 |
+| outfits | `outfits（Kıyafetler）.csv` | 150 | 1.869 |
+| windgliders | `windgliders（Rüzgâr Planörleri）.csv` | 18 | 211 |
+| namecards | `namecards（Kartvizitler）.csv` | 289 | 3.606 |
+| geographies | `geographies（Yer adları）.csv` | 268 | 3.389 |
+| achievements | `achievements（Başarımlar）.csv` | 1.548 | 19.463 |
+| adventureranks | `adventureranks（Maceracı rütbesi metinleri）.csv` | 21 | 169 |
 | **Ara toplam** | 17 dosya | — | **63.184** |
 
 ### TCG alt kategorileri (`tcg-`)
 
 | Alt kategori | Dosya | Terim | Satır |
 | --- | --- | ---: | ---: |
-| action-cards | `tcg-action-cards.csv` | 927 | 9.592 |
-| character-cards | `tcg-character-cards.csv` | 149 | 929 |
-| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1.114 |
-| summons | `tcg-summons.csv` | 152 | 1.139 |
-| status-effects | `tcg-status-effects.csv` | 1.159 | 11.204 |
-| keywords | `tcg-keywords.csv` | 139 | 1.511 |
-| card-backs | `tcg-card-backs.csv` | 39 | 407 |
-| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
-| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
-| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards（Eylem Kartları）.csv` | 927 | 9.592 |
+| character-cards | `tcg-character-cards（Karakter Kartları）.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards（Düşman Kartları）.csv` | 134 | 1.114 |
+| summons | `tcg-summons（Çağırılanlar）.csv` | 152 | 1.139 |
+| status-effects | `tcg-status-effects（Durum Etkileri）.csv` | 1.159 | 11.204 |
+| keywords | `tcg-keywords（Anahtar Sözcükler）.csv` | 139 | 1.511 |
+| card-backs | `tcg-card-backs（Kart Arkaları）.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes（Kart Kutuları）.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules（Ayrıntılı Kurallar）.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards（Seviye Ödülleri）.csv` | 26 | 169 |
 | **Ara toplam** | 10 dosya | — | **26.239** |
 
 **Bu dizinin toplamı: 27 dosya, 89.423 satır.**

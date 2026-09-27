@@ -9,9 +9,9 @@
 本语言目录下共有 **27 个 CSV 文件**，分两层存放：
 
 - **17 个主类目**（直接位于本目录）：
-  `characters.csv`、`talents.csv`、`constellations.csv`、`weapons.csv`、`materials.csv`、`foods.csv`、`crafts.csv`、`artifacts.csv`、`domains.csv`、`enemies.csv`、`animals.csv`、`outfits.csv`、`windgliders.csv`、`namecards.csv`、`geographies.csv`、`achievements.csv`、`adventureranks.csv`
+  `characters（캐릭터）.csv`、`talents（특성）.csv`、`constellations（별자리）.csv`、`weapons（무기）.csv`、`materials（재료）.csv`、`foods（음식）.csv`、`crafts（제작 재료）.csv`、`artifacts（성유물）.csv`、`domains（비경）.csv`、`enemies（적）.csv`、`animals（동물）.csv`、`outfits（의상）.csv`、`windgliders（바람의 날개）.csv`、`namecards（명함）.csv`、`geographies（지명）.csv`、`achievements（업적）.csv`、`adventureranks（모험 등급 설명）.csv`
 - **10 个 TCG 子类目**（位于 `tcg-` 前缀）：
-  `tcg-action-cards.csv`、`tcg-character-cards.csv`、`tcg-enemy-cards.csv`、`tcg-summons.csv`、`tcg-status-effects.csv`、`tcg-keywords.csv`、`tcg-card-backs.csv`、`tcg-card-boxes.csv`、`tcg-detailed-rules.csv`、`tcg-level-rewards.csv`
+  `tcg-action-cards（행동 카드）.csv`、`tcg-character-cards（캐릭터 카드）.csv`、`tcg-enemy-cards（적 카드）.csv`、`tcg-summons（소환물）.csv`、`tcg-status-effects（상태 효과）.csv`、`tcg-keywords（키워드）.csv`、`tcg-card-backs（카드 뒷면）.csv`、`tcg-card-boxes（카드 상자）.csv`、`tcg-detailed-rules（상세 규칙）.csv`、`tcg-level-rewards（레벨 보상）.csv`
 
 每个文件只有三列：
 
@@ -25,33 +25,33 @@
 
 | 分类 | 主题 | 条数 | 对照行 |
 | --- | --- | ---: | ---: |
-| `characters.csv` | 角色 | 122 | 577 |
-| `talents.csv` | 天赋 | 125 | 632 |
-| `constellations.csv` | 命之座 | 125 | 632 |
-| `weapons.csv` | 武器 | 249 | 2,823 |
-| `materials.csv` | 材料 | 919 | 10,636 |
-| `foods.csv` | 食物 | 398 | 4,541 |
-| `crafts.csv` | 合成材料 | 295 | 3,522 |
-| `artifacts.csv` | 圣遗物 | 63 | 727 |
-| `domains.csv` | 秘境 | 284 | 3,636 |
-| `enemies.csv` | 敌人 | 346 | 4,104 |
-| `animals.csv` | 生物 | 223 | 2,647 |
-| `outfits.csv` | 衣装 | 150 | 1,869 |
-| `windgliders.csv` | 风之翼 | 18 | 211 |
-| `namecards.csv` | 名片 | 289 | 3,606 |
-| `geographies.csv` | 地名 | 268 | 3,389 |
-| `achievements.csv` | 成就 | 1,548 | 19,461 |
-| `adventureranks.csv` | 冒险等阶说明 | 21 | 167 |
-| `tcg-action-cards.csv` | 行动牌 | 927 | 9,636 |
-| `tcg-character-cards.csv` | 角色牌 | 149 | 929 |
-| `tcg-enemy-cards.csv` | 敌人牌 | 134 | 1,114 |
-| `tcg-summons.csv` | 召唤物 | 152 | 1,139 |
-| `tcg-status-effects.csv` | 状态效果 | 1,159 | 11,201 |
-| `tcg-keywords.csv` | 关键词 | 139 | 1,511 |
-| `tcg-card-backs.csv` | 牌背 | 39 | 407 |
-| `tcg-card-boxes.csv` | 牌盒 | 7 | 32 |
-| `tcg-detailed-rules.csv` | 详细规则 | 11 | 142 |
-| `tcg-level-rewards.csv` | 等级奖励 | 26 | 169 |
+| `characters（캐릭터）.csv` | 角色 | 122 | 577 |
+| `talents（특성）.csv` | 天赋 | 125 | 632 |
+| `constellations（별자리）.csv` | 命之座 | 125 | 632 |
+| `weapons（무기）.csv` | 武器 | 249 | 2,823 |
+| `materials（재료）.csv` | 材料 | 919 | 10,636 |
+| `foods（음식）.csv` | 食物 | 398 | 4,541 |
+| `crafts（제작 재료）.csv` | 合成材料 | 295 | 3,522 |
+| `artifacts（성유물）.csv` | 圣遗物 | 63 | 727 |
+| `domains（비경）.csv` | 秘境 | 284 | 3,636 |
+| `enemies（적）.csv` | 敌人 | 346 | 4,104 |
+| `animals（동물）.csv` | 生物 | 223 | 2,647 |
+| `outfits（의상）.csv` | 衣装 | 150 | 1,869 |
+| `windgliders（바람의 날개）.csv` | 风之翼 | 18 | 211 |
+| `namecards（명함）.csv` | 名片 | 289 | 3,606 |
+| `geographies（지명）.csv` | 地名 | 268 | 3,389 |
+| `achievements（업적）.csv` | 成就 | 1,548 | 19,461 |
+| `adventureranks（모험 등급 설명）.csv` | 冒险等阶说明 | 21 | 167 |
+| `tcg-action-cards（행동 카드）.csv` | 行动牌 | 927 | 9,636 |
+| `tcg-character-cards（캐릭터 카드）.csv` | 角色牌 | 149 | 929 |
+| `tcg-enemy-cards（적 카드）.csv` | 敌人牌 | 134 | 1,114 |
+| `tcg-summons（소환물）.csv` | 召唤物 | 152 | 1,139 |
+| `tcg-status-effects（상태 효과）.csv` | 状态效果 | 1,159 | 11,201 |
+| `tcg-keywords（키워드）.csv` | 关键词 | 139 | 1,511 |
+| `tcg-card-backs（카드 뒷면）.csv` | 牌背 | 39 | 407 |
+| `tcg-card-boxes（카드 상자）.csv` | 牌盒 | 7 | 32 |
+| `tcg-detailed-rules（상세 규칙）.csv` | 详细规则 | 11 | 142 |
+| `tcg-level-rewards（레벨 보상）.csv` | 等级奖励 | 26 | 169 |
 | **主类目（17 个文件）** | — | **5,443** | **63,180** |
 | **TCG（10 个文件）** | — | **2,743** | **26,280** |
 | **合计（27 个文件）** | — | **8,186** | **89,460** |

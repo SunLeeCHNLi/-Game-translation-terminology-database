@@ -6,8 +6,8 @@
 
 ## 文件
 
-- `blocks.csv`、`items.csv`、`entities.csv`、`biomes.csv`、`enchantments.csv`、`effects.csv`、`instruments.csv`、`materials.csv`、`paintings.csv`、`attributes.csv`、`item-groups.csv`、`jukebox-songs.csv`、`trim-patterns.csv`、`colors.csv`、`statistics.csv`、`maps.csv`、`music.csv`、`sound-categories.csv`、`game-modes.csv` —— 19 个主类目文件
-- `extra-subtitles.csv`、`extra-death-messages.csv`、`extra-advancement-titles.csv`、`extra-advancement-descriptions.csv`、`extra-gamerules.csv`、`extra-commands.csv`、`extra-gui.csv`、`extra-options.csv`、`extra-multiplayer.csv`、`extra-realms.csv`、`extra-world-management.csv`、`extra-resource-packs.csv`、`extra-telemetry.csv`、`extra-dev-tools.csv`、`extra-misc.csv` —— 15 个 `extra-` 系统与文本类目文件
+- `blocks（Bloques）.csv`、`items（Objetos）.csv`、`entities（Entidades）.csv`、`biomes（Biomas）.csv`、`enchantments（Encantamientos）.csv`、`effects（Efectos de estado）.csv`、`instruments（Instrumentos）.csv`、`materials（Materiales de adornos de armadura）.csv`、`paintings（Cuadros）.csv`、`attributes（Atributos）.csv`、`item-groups（Grupos de objetos）.csv`、`jukebox-songs（Canciones del tocadiscos）.csv`、`trim-patterns（Patrones de adornos de armadura）.csv`、`colors（Colores）.csv`、`statistics（Estadísticas）.csv`、`maps（Mapas）.csv`、`music（Música）.csv`、`sound-categories（Categorías de sonido）.csv`、`game-modes（Modos de juego）.csv` —— 19 个主类目文件
+- `extra-subtitles（Subtítulos）.csv`、`extra-death-messages（Mensajes de muerte）.csv`、`extra-advancement-titles（Títulos de progreso）.csv`、`extra-advancement-descriptions（Descripciones de progreso）.csv`、`extra-gamerules（Reglas de juego）.csv`、`extra-commands（Comandos y argumentos）.csv`、`extra-gui（Textos de interfaz）.csv`、`extra-options（Ajustes y teclas）.csv`、`extra-multiplayer（Multijugador）.csv`、`extra-realms（Realms）.csv`、`extra-world-management（Gestión del mundo）.csv`、`extra-resource-packs（Paquetes de recursos y datos）.csv`、`extra-telemetry（Telemetría）.csv`、`extra-dev-tools（Herramientas de desarrollo y prueba）.csv`、`extra-misc（Otros）.csv` —— 15 个 `extra-` 系统与文本类目文件
 
 合计 **34 个 CSV 文件**，格式统一为三列：
 
@@ -20,25 +20,25 @@
 
 ```text
 es-ES/
-├── blocks.csv
-├── items.csv
-├── entities.csv
-├── biomes.csv
-├── enchantments.csv
-├── effects.csv
-├── instruments.csv
-├── materials.csv
-├── paintings.csv
-├── attributes.csv
-├── item-groups.csv
-├── jukebox-songs.csv
-├── trim-patterns.csv
-├── colors.csv
-├── statistics.csv
-├── maps.csv
-├── music.csv
-├── sound-categories.csv
-├── game-modes.csv
+├── blocks（Bloques）.csv
+├── items（Objetos）.csv
+├── entities（Entidades）.csv
+├── biomes（Biomas）.csv
+├── enchantments（Encantamientos）.csv
+├── effects（Efectos de estado）.csv
+├── instruments（Instrumentos）.csv
+├── materials（Materiales de adornos de armadura）.csv
+├── paintings（Cuadros）.csv
+├── attributes（Atributos）.csv
+├── item-groups（Grupos de objetos）.csv
+├── jukebox-songs（Canciones del tocadiscos）.csv
+├── trim-patterns（Patrones de adornos de armadura）.csv
+├── colors（Colores）.csv
+├── statistics（Estadísticas）.csv
+├── maps（Mapas）.csv
+├── music（Música）.csv
+├── sound-categories（Categorías de sonido）.csv
+├── game-modes（Modos de juego）.csv
 └── extra-  # 系统与文本类目
     ├── subtitles.csv
     ├── death-messages.csv
@@ -65,46 +65,46 @@ es-ES/
 
 | 分类 | 主题 | 词条数 | 对照行 |
 | --- | --- | ---: | ---: |
-| `blocks.csv` | 方块 | 1,975 | 25,426 |
-| `items.csv` | 物品 | 803 | 9,077 |
-| `entities.csv` | 实体 | 219 | 2,582 |
-| `biomes.csv` | 生物群系 | 67 | 835 |
-| `enchantments.csv` | 魔咒 | 54 | 553 |
-| `effects.csv` | 状态效果 | 42 | 514 |
-| `instruments.csv` | 乐器 | 8 | 98 |
-| `materials.csv` | 盔甲纹饰材料 | 11 | 143 |
-| `paintings.csv` | 画 | 104 | 315 |
-| `attributes.csv` | 属性 | 83 | 567 |
-| `item-groups.csv` | 物品栏分类 | 16 | 198 |
-| `jukebox-songs.csv` | 唱片曲目 | 22 | 42 |
-| `trim-patterns.csv` | 盔甲纹饰图案 | 18 | 234 |
-| `colors.csv` | 颜色 | 16 | 184 |
-| `statistics.csv` | 统计 | 88 | 1,143 |
-| `maps.csv` | 地图 | 33 | 421 |
-| `music.csv` | 音乐曲目 | 70 | 192 |
-| `sound-categories.csv` | 声音分类 | 11 | 133 |
-| `game-modes.csv` | 游戏模式 | 6 | 77 |
+| `blocks（Bloques）.csv` | 方块 | 1,975 | 25,426 |
+| `items（Objetos）.csv` | 物品 | 803 | 9,077 |
+| `entities（Entidades）.csv` | 实体 | 219 | 2,582 |
+| `biomes（Biomas）.csv` | 生物群系 | 67 | 835 |
+| `enchantments（Encantamientos）.csv` | 魔咒 | 54 | 553 |
+| `effects（Efectos de estado）.csv` | 状态效果 | 42 | 514 |
+| `instruments（Instrumentos）.csv` | 乐器 | 8 | 98 |
+| `materials（Materiales de adornos de armadura）.csv` | 盔甲纹饰材料 | 11 | 143 |
+| `paintings（Cuadros）.csv` | 画 | 104 | 315 |
+| `attributes（Atributos）.csv` | 属性 | 83 | 567 |
+| `item-groups（Grupos de objetos）.csv` | 物品栏分类 | 16 | 198 |
+| `jukebox-songs（Canciones del tocadiscos）.csv` | 唱片曲目 | 22 | 42 |
+| `trim-patterns（Patrones de adornos de armadura）.csv` | 盔甲纹饰图案 | 18 | 234 |
+| `colors（Colores）.csv` | 颜色 | 16 | 184 |
+| `statistics（Estadísticas）.csv` | 统计 | 88 | 1,143 |
+| `maps（Mapas）.csv` | 地图 | 33 | 421 |
+| `music（Música）.csv` | 音乐曲目 | 70 | 192 |
+| `sound-categories（Categorías de sonido）.csv` | 声音分类 | 11 | 133 |
+| `game-modes（Modos de juego）.csv` | 游戏模式 | 6 | 77 |
 | **小计** | 19 个文件 | **3,646** | **42,734** |
 
 ### `extra-` 类目（系统与文本）
 
 | 分类 | 主题 | 词条数 | 对照行 |
 | --- | --- | ---: | ---: |
-| `extra-subtitles.csv` | 字幕 | 1,023 | 12,520 |
-| `extra-death-messages.csv` | 死亡消息 | 106 | 1,338 |
-| `extra-advancement-titles.csv` | 进度标题 | 127 | 1,603 |
-| `extra-advancement-descriptions.csv` | 进度描述 | 127 | 1,650 |
-| `extra-gamerules.csv` | 游戏规则 | 117 | 1,490 |
-| `extra-commands.csv` | 命令与参数 | 856 | 10,770 |
-| `extra-gui.csv` | 界面文本 | 581 | 6,658 |
-| `extra-options.csv` | 设置与按键 | 754 | 8,218 |
-| `extra-multiplayer.csv` | 多人游戏 | 173 | 2,057 |
-| `extra-realms.csv` | Realms | 426 | 5,055 |
-| `extra-world-management.csv` | 世界管理 | 294 | 3,569 |
-| `extra-resource-packs.csv` | 资源包与数据包 | 62 | 761 |
-| `extra-telemetry.csv` | 遥测 | 70 | 897 |
-| `extra-dev-tools.csv` | 开发与测试工具 | 144 | 1,811 |
-| `extra-misc.csv` | 其他 | 53 | 516 |
+| `extra-subtitles（Subtítulos）.csv` | 字幕 | 1,023 | 12,520 |
+| `extra-death-messages（Mensajes de muerte）.csv` | 死亡消息 | 106 | 1,338 |
+| `extra-advancement-titles（Títulos de progreso）.csv` | 进度标题 | 127 | 1,603 |
+| `extra-advancement-descriptions（Descripciones de progreso）.csv` | 进度描述 | 127 | 1,650 |
+| `extra-gamerules（Reglas de juego）.csv` | 游戏规则 | 117 | 1,490 |
+| `extra-commands（Comandos y argumentos）.csv` | 命令与参数 | 856 | 10,770 |
+| `extra-gui（Textos de interfaz）.csv` | 界面文本 | 581 | 6,658 |
+| `extra-options（Ajustes y teclas）.csv` | 设置与按键 | 754 | 8,218 |
+| `extra-multiplayer（Multijugador）.csv` | 多人游戏 | 173 | 2,057 |
+| `extra-realms（Realms）.csv` | Realms | 426 | 5,055 |
+| `extra-world-management（Gestión del mundo）.csv` | 世界管理 | 294 | 3,569 |
+| `extra-resource-packs（Paquetes de recursos y datos）.csv` | 资源包与数据包 | 62 | 761 |
+| `extra-telemetry（Telemetría）.csv` | 遥测 | 70 | 897 |
+| `extra-dev-tools（Herramientas de desarrollo y prueba）.csv` | 开发与测试工具 | 144 | 1,811 |
+| `extra-misc（Otros）.csv` | 其他 | 53 | 516 |
 | **小计** | 15 个文件 | **4,913** | **58,913** |
 
 **本目录合计：34 个文件，`target` 列去重后 7.833 条词条、101.647 行对照。**

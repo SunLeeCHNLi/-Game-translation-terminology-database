@@ -1,6 +1,6 @@
 # Azur Lane Terminology Database — English (`en-US`)
 
-[← Back to the sub-library description](../README.md) ｜ [← Back to the game overview](../../README.md)
+[← Back to the sub-library description](../README.md) ｜ [← Back to the game overview](../../README.md) ｜ [简体中文](README_zh-CN.md)
 
 [← Back to the game overview](../README.md)
 

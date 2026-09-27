@@ -6,8 +6,8 @@
 
 ## 文件
 
-- `blocks.csv`、`items.csv`、`entities.csv`、`biomes.csv`、`enchantments.csv`、`effects.csv`、`instruments.csv`、`materials.csv`、`paintings.csv`、`attributes.csv`、`item-groups.csv`、`jukebox-songs.csv`、`trim-patterns.csv`、`colors.csv`、`statistics.csv`、`maps.csv`、`music.csv`、`sound-categories.csv`、`game-modes.csv` —— 19 个主类目文件
-- `extra-subtitles.csv`、`extra-death-messages.csv`、`extra-advancement-titles.csv`、`extra-advancement-descriptions.csv`、`extra-gamerules.csv`、`extra-commands.csv`、`extra-gui.csv`、`extra-options.csv`、`extra-multiplayer.csv`、`extra-realms.csv`、`extra-world-management.csv`、`extra-resource-packs.csv`、`extra-telemetry.csv`、`extra-dev-tools.csv`、`extra-misc.csv` —— 15 个 `extra-` 系统与文本类目文件
+- `blocks（ブロック）.csv`、`items（アイテム）.csv`、`entities（エンティティ）.csv`、`biomes（バイオーム）.csv`、`enchantments（エンチャント）.csv`、`effects（ステータス効果）.csv`、`instruments（楽器）.csv`、`materials（防具装飾素材）.csv`、`paintings（絵画）.csv`、`attributes（属性）.csv`、`item-groups（アイテムグループ）.csv`、`jukebox-songs（ジュークボックスの曲）.csv`、`trim-patterns（防具装飾パターン）.csv`、`colors（色）.csv`、`statistics（統計）.csv`、`maps（地図）.csv`、`music（音楽）.csv`、`sound-categories（サウンドカテゴリ）.csv`、`game-modes（ゲームモード）.csv` —— 19 个主类目文件
+- `extra-subtitles（字幕）.csv`、`extra-death-messages（死亡メッセージ）.csv`、`extra-advancement-titles（進捗のタイトル）.csv`、`extra-advancement-descriptions（進捗の説明）.csv`、`extra-gamerules（ゲームルール）.csv`、`extra-commands（コマンドと引数）.csv`、`extra-gui（画面テキスト）.csv`、`extra-options（設定とキー）.csv`、`extra-multiplayer（マルチプレイ）.csv`、`extra-realms（Realms）.csv`、`extra-world-management（ワールド管理）.csv`、`extra-resource-packs（リソースパックとデータパック）.csv`、`extra-telemetry（テレメトリ）.csv`、`extra-dev-tools（開発・テストツール）.csv`、`extra-misc（その他）.csv` —— 15 个 `extra-` 系统与文本类目文件
 
 合计 **34 个 CSV 文件**，格式统一为三列：
 
@@ -20,25 +20,25 @@
 
 ```text
 ja-JP/
-├── blocks.csv
-├── items.csv
-├── entities.csv
-├── biomes.csv
-├── enchantments.csv
-├── effects.csv
-├── instruments.csv
-├── materials.csv
-├── paintings.csv
-├── attributes.csv
-├── item-groups.csv
-├── jukebox-songs.csv
-├── trim-patterns.csv
-├── colors.csv
-├── statistics.csv
-├── maps.csv
-├── music.csv
-├── sound-categories.csv
-├── game-modes.csv
+├── blocks（ブロック）.csv
+├── items（アイテム）.csv
+├── entities（エンティティ）.csv
+├── biomes（バイオーム）.csv
+├── enchantments（エンチャント）.csv
+├── effects（ステータス効果）.csv
+├── instruments（楽器）.csv
+├── materials（防具装飾素材）.csv
+├── paintings（絵画）.csv
+├── attributes（属性）.csv
+├── item-groups（アイテムグループ）.csv
+├── jukebox-songs（ジュークボックスの曲）.csv
+├── trim-patterns（防具装飾パターン）.csv
+├── colors（色）.csv
+├── statistics（統計）.csv
+├── maps（地図）.csv
+├── music（音楽）.csv
+├── sound-categories（サウンドカテゴリ）.csv
+├── game-modes（ゲームモード）.csv
 └── extra-  # 系统与文本类目
     ├── subtitles.csv
     ├── death-messages.csv
@@ -65,46 +65,46 @@ ja-JP/
 
 | 分类 | 主题 | 词条数 | 对照行 |
 | --- | --- | ---: | ---: |
-| `blocks.csv` | 方块 | 1,975 | 25,426 |
-| `items.csv` | 物品 | 803 | 9,092 |
-| `entities.csv` | 实体 | 219 | 2,582 |
-| `biomes.csv` | 生物群系 | 67 | 835 |
-| `enchantments.csv` | 魔咒 | 54 | 553 |
-| `effects.csv` | 状态效果 | 42 | 514 |
-| `instruments.csv` | 乐器 | 8 | 98 |
-| `materials.csv` | 盔甲纹饰材料 | 11 | 143 |
-| `paintings.csv` | 画 | 104 | 315 |
-| `attributes.csv` | 属性 | 83 | 588 |
-| `item-groups.csv` | 物品栏分类 | 16 | 198 |
-| `jukebox-songs.csv` | 唱片曲目 | 22 | 42 |
-| `trim-patterns.csv` | 盔甲纹饰图案 | 18 | 234 |
-| `colors.csv` | 颜色 | 16 | 184 |
-| `statistics.csv` | 统计 | 88 | 1,143 |
-| `maps.csv` | 地图 | 33 | 422 |
-| `music.csv` | 音乐曲目 | 70 | 192 |
-| `sound-categories.csv` | 声音分类 | 11 | 133 |
-| `game-modes.csv` | 游戏模式 | 6 | 77 |
+| `blocks（ブロック）.csv` | 方块 | 1,975 | 25,426 |
+| `items（アイテム）.csv` | 物品 | 803 | 9,092 |
+| `entities（エンティティ）.csv` | 实体 | 219 | 2,582 |
+| `biomes（バイオーム）.csv` | 生物群系 | 67 | 835 |
+| `enchantments（エンチャント）.csv` | 魔咒 | 54 | 553 |
+| `effects（ステータス効果）.csv` | 状态效果 | 42 | 514 |
+| `instruments（楽器）.csv` | 乐器 | 8 | 98 |
+| `materials（防具装飾素材）.csv` | 盔甲纹饰材料 | 11 | 143 |
+| `paintings（絵画）.csv` | 画 | 104 | 315 |
+| `attributes（属性）.csv` | 属性 | 83 | 588 |
+| `item-groups（アイテムグループ）.csv` | 物品栏分类 | 16 | 198 |
+| `jukebox-songs（ジュークボックスの曲）.csv` | 唱片曲目 | 22 | 42 |
+| `trim-patterns（防具装飾パターン）.csv` | 盔甲纹饰图案 | 18 | 234 |
+| `colors（色）.csv` | 颜色 | 16 | 184 |
+| `statistics（統計）.csv` | 统计 | 88 | 1,143 |
+| `maps（地図）.csv` | 地图 | 33 | 422 |
+| `music（音楽）.csv` | 音乐曲目 | 70 | 192 |
+| `sound-categories（サウンドカテゴリ）.csv` | 声音分类 | 11 | 133 |
+| `game-modes（ゲームモード）.csv` | 游戏模式 | 6 | 77 |
 | **小计** | 19 个文件 | **3,646** | **42,771** |
 
 ### `extra-` 类目（系统与文本）
 
 | 分类 | 主题 | 词条数 | 对照行 |
 | --- | --- | ---: | ---: |
-| `extra-subtitles.csv` | 字幕 | 1,023 | 12,528 |
-| `extra-death-messages.csv` | 死亡消息 | 106 | 1,354 |
-| `extra-advancement-titles.csv` | 进度标题 | 127 | 1,603 |
-| `extra-advancement-descriptions.csv` | 进度描述 | 127 | 1,650 |
-| `extra-gamerules.csv` | 游戏规则 | 117 | 1,490 |
-| `extra-commands.csv` | 命令与参数 | 856 | 10,743 |
-| `extra-gui.csv` | 界面文本 | 581 | 6,655 |
-| `extra-options.csv` | 设置与按键 | 754 | 8,162 |
-| `extra-multiplayer.csv` | 多人游戏 | 173 | 2,015 |
-| `extra-realms.csv` | Realms | 426 | 4,988 |
-| `extra-world-management.csv` | 世界管理 | 294 | 3,609 |
-| `extra-resource-packs.csv` | 资源包与数据包 | 62 | 761 |
-| `extra-telemetry.csv` | 遥测 | 70 | 897 |
-| `extra-dev-tools.csv` | 开发与测试工具 | 144 | 1,811 |
-| `extra-misc.csv` | 其他 | 53 | 516 |
+| `extra-subtitles（字幕）.csv` | 字幕 | 1,023 | 12,528 |
+| `extra-death-messages（死亡メッセージ）.csv` | 死亡消息 | 106 | 1,354 |
+| `extra-advancement-titles（進捗のタイトル）.csv` | 进度标题 | 127 | 1,603 |
+| `extra-advancement-descriptions（進捗の説明）.csv` | 进度描述 | 127 | 1,650 |
+| `extra-gamerules（ゲームルール）.csv` | 游戏规则 | 117 | 1,490 |
+| `extra-commands（コマンドと引数）.csv` | 命令与参数 | 856 | 10,743 |
+| `extra-gui（画面テキスト）.csv` | 界面文本 | 581 | 6,655 |
+| `extra-options（設定とキー）.csv` | 设置与按键 | 754 | 8,162 |
+| `extra-multiplayer（マルチプレイ）.csv` | 多人游戏 | 173 | 2,015 |
+| `extra-realms（Realms）.csv` | Realms | 426 | 4,988 |
+| `extra-world-management（ワールド管理）.csv` | 世界管理 | 294 | 3,609 |
+| `extra-resource-packs（リソースパックとデータパック）.csv` | 资源包与数据包 | 62 | 761 |
+| `extra-telemetry（テレメトリ）.csv` | 遥测 | 70 | 897 |
+| `extra-dev-tools（開発・テストツール）.csv` | 开发与测试工具 | 144 | 1,811 |
+| `extra-misc（その他）.csv` | 其他 | 53 | 516 |
 | **小计** | 15 个文件 | **4,913** | **58,782** |
 
 **本目录合计：34 个文件，`target` 列去重后 7,826 条词条、101,553 行对照。**

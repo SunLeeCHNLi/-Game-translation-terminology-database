@@ -6,8 +6,8 @@
 
 ## 文件
 
-- `characters.csv`、`talents.csv`、`constellations.csv`、`weapons.csv`、`materials.csv`、`foods.csv`、`crafts.csv`、`artifacts.csv`、`domains.csv`、`enemies.csv`、`animals.csv`、`outfits.csv`、`windgliders.csv`、`namecards.csv`、`geographies.csv`、`achievements.csv`、`adventureranks.csv` — 17 个主类目文件
-- `tcg-action-cards.csv`、`tcg-character-cards.csv`、`tcg-enemy-cards.csv`、`tcg-summons.csv`、`tcg-status-effects.csv`、`tcg-keywords.csv`、`tcg-card-backs.csv`、`tcg-card-boxes.csv`、`tcg-detailed-rules.csv`、`tcg-level-rewards.csv` — 10 个 TCG（七圣召唤）子类目文件
+- `characters（Karakterler）.csv`、`talents（Yetenekler）.csv`、`constellations（Takımyıldızlar）.csv`、`weapons（Silahlar）.csv`、`materials（Malzemeler）.csv`、`foods（Yemekler）.csv`、`crafts（Üretim malzemeleri）.csv`、`artifacts（Yadigârlar）.csv`、`domains（Alanlar）.csv`、`enemies（Düşmanlar）.csv`、`animals（Hayvanlar）.csv`、`outfits（Kıyafetler）.csv`、`windgliders（Rüzgâr Planörleri）.csv`、`namecards（Kartvizitler）.csv`、`geographies（Yer adları）.csv`、`achievements（Başarımlar）.csv`、`adventureranks（Maceracı rütbesi metinleri）.csv` — 17 个主类目文件
+- `tcg-action-cards（Eylem Kartları）.csv`、`tcg-character-cards（Karakter Kartları）.csv`、`tcg-enemy-cards（Düşman Kartları）.csv`、`tcg-summons（Çağırılanlar）.csv`、`tcg-status-effects（Durum Etkileri）.csv`、`tcg-keywords（Anahtar Sözcükler）.csv`、`tcg-card-backs（Kart Arkaları）.csv`、`tcg-card-boxes（Kart Kutuları）.csv`、`tcg-detailed-rules（Ayrıntılı Kurallar）.csv`、`tcg-level-rewards（Seviye Ödülleri）.csv` — 10 个 TCG（七圣召唤）子类目文件
 
 合计 **27 个 CSV 文件**，格式统一为三列：
 
@@ -20,23 +20,23 @@
 
 ```text
 tr-TR/
-├── characters.csv
-├── talents.csv
-├── constellations.csv
-├── weapons.csv
-├── materials.csv
-├── foods.csv
-├── crafts.csv
-├── artifacts.csv
-├── domains.csv
-├── enemies.csv
-├── animals.csv
-├── outfits.csv
-├── windgliders.csv
-├── namecards.csv
-├── geographies.csv
-├── achievements.csv
-├── adventureranks.csv
+├── characters（Karakterler）.csv
+├── talents（Yetenekler）.csv
+├── constellations（Takımyıldızlar）.csv
+├── weapons（Silahlar）.csv
+├── materials（Malzemeler）.csv
+├── foods（Yemekler）.csv
+├── crafts（Üretim malzemeleri）.csv
+├── artifacts（Yadigârlar）.csv
+├── domains（Alanlar）.csv
+├── enemies（Düşmanlar）.csv
+├── animals（Hayvanlar）.csv
+├── outfits（Kıyafetler）.csv
+├── windgliders（Rüzgâr Planörleri）.csv
+├── namecards（Kartvizitler）.csv
+├── geographies（Yer adları）.csv
+├── achievements（Başarımlar）.csv
+├── adventureranks（Maceracı rütbesi metinleri）.csv
 └── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
@@ -58,39 +58,39 @@ tr-TR/
 
 | 分类 | 文件 | 词条数 | 行数 |
 | --- | --- | ---: | ---: |
-| characters（角色） | `characters.csv` | 122 | 577 |
-| talents（天赋） | `talents.csv` | 125 | 632 |
-| constellations（命之座） | `constellations.csv` | 125 | 632 |
-| weapons（武器） | `weapons.csv` | 249 | 2,823 |
-| materials（材料） | `materials.csv` | 919 | 10,636 |
-| foods（食物） | `foods.csv` | 398 | 4,541 |
-| crafts（合成物） | `crafts.csv` | 295 | 3,522 |
-| artifacts（圣遗物） | `artifacts.csv` | 63 | 727 |
-| domains（秘境） | `domains.csv` | 284 | 3,636 |
-| enemies（敌人） | `enemies.csv` | 346 | 4,104 |
-| animals（生物） | `animals.csv` | 223 | 2,647 |
-| outfits（装扮） | `outfits.csv` | 150 | 1,869 |
-| windgliders（风之翼） | `windgliders.csv` | 18 | 211 |
-| namecards（名片） | `namecards.csv` | 289 | 3,606 |
-| geographies（地理） | `geographies.csv` | 268 | 3,389 |
-| achievements（成就） | `achievements.csv` | 1,548 | 19,463 |
-| adventureranks（冒险等阶） | `adventureranks.csv` | 21 | 169 |
+| characters（角色） | `characters（Karakterler）.csv` | 122 | 577 |
+| talents（天赋） | `talents（Yetenekler）.csv` | 125 | 632 |
+| constellations（命之座） | `constellations（Takımyıldızlar）.csv` | 125 | 632 |
+| weapons（武器） | `weapons（Silahlar）.csv` | 249 | 2,823 |
+| materials（材料） | `materials（Malzemeler）.csv` | 919 | 10,636 |
+| foods（食物） | `foods（Yemekler）.csv` | 398 | 4,541 |
+| crafts（合成物） | `crafts（Üretim malzemeleri）.csv` | 295 | 3,522 |
+| artifacts（圣遗物） | `artifacts（Yadigârlar）.csv` | 63 | 727 |
+| domains（秘境） | `domains（Alanlar）.csv` | 284 | 3,636 |
+| enemies（敌人） | `enemies（Düşmanlar）.csv` | 346 | 4,104 |
+| animals（生物） | `animals（Hayvanlar）.csv` | 223 | 2,647 |
+| outfits（装扮） | `outfits（Kıyafetler）.csv` | 150 | 1,869 |
+| windgliders（风之翼） | `windgliders（Rüzgâr Planörleri）.csv` | 18 | 211 |
+| namecards（名片） | `namecards（Kartvizitler）.csv` | 289 | 3,606 |
+| geographies（地理） | `geographies（Yer adları）.csv` | 268 | 3,389 |
+| achievements（成就） | `achievements（Başarımlar）.csv` | 1,548 | 19,463 |
+| adventureranks（冒险等阶） | `adventureranks（Maceracı rütbesi metinleri）.csv` | 21 | 169 |
 | **小计** | 17 个文件 | — | **63,184** |
 
 ### TCG 子类目（`tcg-`）
 
 | 子类目 | 文件 | 词条数 | 行数 |
 | --- | --- | ---: | ---: |
-| action-cards（行动牌） | `tcg-action-cards.csv` | 927 | 9,592 |
-| character-cards（角色牌） | `tcg-character-cards.csv` | 149 | 929 |
-| enemy-cards（敌人牌） | `tcg-enemy-cards.csv` | 134 | 1,114 |
-| summons（召唤物） | `tcg-summons.csv` | 152 | 1,139 |
-| status-effects（状态效果） | `tcg-status-effects.csv` | 1,159 | 11,204 |
-| keywords（关键词） | `tcg-keywords.csv` | 139 | 1,511 |
-| card-backs（牌背） | `tcg-card-backs.csv` | 39 | 407 |
-| card-boxes（牌盒） | `tcg-card-boxes.csv` | 7 | 32 |
-| detailed-rules（详细规则） | `tcg-detailed-rules.csv` | 11 | 142 |
-| level-rewards（等级奖励） | `tcg-level-rewards.csv` | 26 | 169 |
+| action-cards（行动牌） | `tcg-action-cards（Eylem Kartları）.csv` | 927 | 9,592 |
+| character-cards（角色牌） | `tcg-character-cards（Karakter Kartları）.csv` | 149 | 929 |
+| enemy-cards（敌人牌） | `tcg-enemy-cards（Düşman Kartları）.csv` | 134 | 1,114 |
+| summons（召唤物） | `tcg-summons（Çağırılanlar）.csv` | 152 | 1,139 |
+| status-effects（状态效果） | `tcg-status-effects（Durum Etkileri）.csv` | 1,159 | 11,204 |
+| keywords（关键词） | `tcg-keywords（Anahtar Sözcükler）.csv` | 139 | 1,511 |
+| card-backs（牌背） | `tcg-card-backs（Kart Arkaları）.csv` | 39 | 407 |
+| card-boxes（牌盒） | `tcg-card-boxes（Kart Kutuları）.csv` | 7 | 32 |
+| detailed-rules（详细规则） | `tcg-detailed-rules（Ayrıntılı Kurallar）.csv` | 11 | 142 |
+| level-rewards（等级奖励） | `tcg-level-rewards（Seviye Ödülleri）.csv` | 26 | 169 |
 | **小计** | 10 个文件 | — | **26,239** |
 
 **本目录合计：27 个文件、89,423 行。**

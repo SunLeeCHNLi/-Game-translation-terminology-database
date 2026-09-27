@@ -1,6 +1,6 @@
 # Basis Data Terminologi Cat Fantasy — Bahasa Indonesia (`id-ID`)
 
-[← Kembali ke penjelasan umum game](../README.md)
+[← Kembali ke penjelasan umum game](../README.md) · [简体中文](README_zh-CN.md)
 
 Direktori ini adalah basis data terminologi yang **menjadikan `id-ID` sebagai bahasa sasaran**: setiap baris
 adalah pemetaan "entri bahasa lain → Bahasa Indonesia". Direktori ini memuat **9,916** entri dan **28,827**

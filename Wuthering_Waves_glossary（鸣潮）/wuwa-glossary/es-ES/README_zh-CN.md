@@ -8,29 +8,29 @@
 
 本目录为**扁平结构**，23 个类目 CSV 直接放在本目录下，没有额外的子目录：
 
-- `characters.csv` — 角色名称
-- `weapons.csv` — 武器名称
-- `echoes.csv` — 声骸
-- `skills.csv` — 技能
-- `resonant-chains.csv` — 共鸣链
-- `quests.csv` — 任务
-- `dungeons.csv` — 关卡与挑战
-- `regions.csv` — 地区与地图
-- `factions.csv` — 阵营与势力
-- `items.csv` — 道具与材料
-- `monsters.csv` — 怪物与生物
-- `npcs.csv` — NPC 与说话人
-- `achievements.csv` — 成就
-- `activities.csv` — 活动与玩法
-- `buffs.csv` — 增益与效果
-- `voice-lines.csv` — 角色语音
-- `archives.csv` — 档案与读物
-- `terms.csv` — 术语与百科
-- `system.csv` — 系统文本
-- `ui.csv` — UI 文本
-- `tutorials.csv` — 教程与引导
-- `story.csv` — 剧情文本
-- `other.csv` — 其他
+- `characters（Nombres de personajes）.csv` — 角色名称
+- `weapons（Nombres de armas）.csv` — 武器名称
+- `echoes（Ecos）.csv` — 声骸
+- `skills（Habilidades）.csv` — 技能
+- `resonant-chains（Cadenas de resonancia）.csv` — 共鸣链
+- `quests（Misiones）.csv` — 任务
+- `dungeons（Mazmorras y desafíos）.csv` — 关卡与挑战
+- `regions（Regiones y mapa）.csv` — 地区与地图
+- `factions（Facciones y poderes）.csv` — 阵营与势力
+- `items（Objetos y materiales）.csv` — 道具与材料
+- `monsters（Monstruos y criaturas）.csv` — 怪物与生物
+- `npcs（PNJ y hablantes）.csv` — NPC 与说话人
+- `achievements（Logros）.csv` — 成就
+- `activities（Eventos y modos de juego）.csv` — 活动与玩法
+- `buffs（Mejoras y efectos）.csv` — 增益与效果
+- `voice-lines（Voces de personajes）.csv` — 角色语音
+- `archives（Archivos y lecturas）.csv` — 档案与读物
+- `terms（Términos y enciclopedia）.csv` — 术语与百科
+- `system（Textos del sistema）.csv` — 系统文本
+- `ui（Textos de interfaz）.csv` — UI 文本
+- `tutorials（Tutoriales）.csv` — 教程与引导
+- `story（Textos de historia）.csv` — 剧情文本
+- `other（Otros）.csv` — 其他
 
 每个文件都是 `source,target,tgt_lng` 三列（首行为表头）：对 `tgt_lng` 指定的目标语言，`target` 是译文，`source` 是**其它某一语言**的原文。因此同一条目会以其余 9 种语言分别作为 `source` 各出现一行（重复行与同形行已合并，故实际行数并非词条数的 9 倍）。文件可直接导入 CAT 工具或沉浸式翻译等术语匹配软件。
 
@@ -38,29 +38,29 @@
 
 | 分类 | 主题 | 条数 | 对照行 |
 | --- | --- | --- | --- |
-| `characters.csv` | 角色名称 | 1,230 | 5,264 |
-| `weapons.csv` | 武器名称 | 820 | 3,106 |
-| `echoes.csv` | 声骸 | 1,000 | 6,113 |
-| `skills.csv` | 技能 | 5,344 | 30,433 |
-| `resonant-chains.csv` | 共鸣链 | 784 | 6,169 |
-| `quests.csv` | 任务 | 2,807 | 14,558 |
-| `dungeons.csv` | 关卡与挑战 | 1,910 | 12,177 |
-| `regions.csv` | 地区与地图 | 2,229 | 16,169 |
-| `factions.csv` | 阵营与势力 | 8 | 49 |
-| `items.csv` | 道具与材料 | 8,384 | 54,692 |
-| `monsters.csv` | 怪物与生物 | 685 | 4,533 |
-| `npcs.csv` | NPC 与说话人 | 14,172 | 62,976 |
-| `achievements.csv` | 成就 | 2,563 | 22,168 |
-| `activities.csv` | 活动与玩法 | 9,531 | 64,032 |
-| `buffs.csv` | 增益与效果 | 270 | 2,029 |
-| `voice-lines.csv` | 角色语音 | 7,374 | 31,684 |
-| `archives.csv` | 档案与读物 | 839 | 6,709 |
-| `terms.csv` | 术语与百科 | 1,672 | 12,547 |
-| `system.csv` | 系统文本 | 9,756 | 65,754 |
-| `ui.csv` | UI 文本 | 13,866 | 77,772 |
-| `tutorials.csv` | 教程与引导 | 6,253 | 31,933 |
-| `story.csv` | 剧情文本 | 29,841 | 102,517 |
-| `other.csv` | 其他 | 1,892 | 13,307 |
+| `characters（Nombres de personajes）.csv` | 角色名称 | 1,230 | 5,264 |
+| `weapons（Nombres de armas）.csv` | 武器名称 | 820 | 3,106 |
+| `echoes（Ecos）.csv` | 声骸 | 1,000 | 6,113 |
+| `skills（Habilidades）.csv` | 技能 | 5,344 | 30,433 |
+| `resonant-chains（Cadenas de resonancia）.csv` | 共鸣链 | 784 | 6,169 |
+| `quests（Misiones）.csv` | 任务 | 2,807 | 14,558 |
+| `dungeons（Mazmorras y desafíos）.csv` | 关卡与挑战 | 1,910 | 12,177 |
+| `regions（Regiones y mapa）.csv` | 地区与地图 | 2,229 | 16,169 |
+| `factions（Facciones y poderes）.csv` | 阵营与势力 | 8 | 49 |
+| `items（Objetos y materiales）.csv` | 道具与材料 | 8,384 | 54,692 |
+| `monsters（Monstruos y criaturas）.csv` | 怪物与生物 | 685 | 4,533 |
+| `npcs（PNJ y hablantes）.csv` | NPC 与说话人 | 14,172 | 62,976 |
+| `achievements（Logros）.csv` | 成就 | 2,563 | 22,168 |
+| `activities（Eventos y modos de juego）.csv` | 活动与玩法 | 9,531 | 64,032 |
+| `buffs（Mejoras y efectos）.csv` | 增益与效果 | 270 | 2,029 |
+| `voice-lines（Voces de personajes）.csv` | 角色语音 | 7,374 | 31,684 |
+| `archives（Archivos y lecturas）.csv` | 档案与读物 | 839 | 6,709 |
+| `terms（Términos y enciclopedia）.csv` | 术语与百科 | 1,672 | 12,547 |
+| `system（Textos del sistema）.csv` | 系统文本 | 9,756 | 65,754 |
+| `ui（Textos de interfaz）.csv` | UI 文本 | 13,866 | 77,772 |
+| `tutorials（Tutoriales）.csv` | 教程与引导 | 6,253 | 31,933 |
+| `story（Textos de historia）.csv` | 剧情文本 | 29,841 | 102,517 |
+| `other（Otros）.csv` | 其他 | 1,892 | 13,307 |
 | **合计** | **23 个类目** | **123,230** | **646,691** |
 
 「条数」为去重后的词条数（一个词条 = 游戏中的一条文本键），取自 `tools/_counts.json` 的 `concepts` 字段，**全库共用同一套、与目标语言无关**；「对照行」为本目录该类目 CSV 的实际数据行数。同一文本可能同时属于多个类目，各类目行数相加会大于去重词条数，属正常现象。

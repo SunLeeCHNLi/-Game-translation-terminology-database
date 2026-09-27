@@ -16,70 +16,70 @@
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `blocks` | 方块 | `blocks.csv` | 25,426 |
-| `items` | 物品 | `items.csv` | 9,103 |
-| `entities` | 实体 | `entities.csv` | 2,582 |
-| `biomes` | 生物群系 | `biomes.csv` | 835 |
-| `enchantments` | 魔咒 | `enchantments.csv` | 553 |
-| `effects` | 状态效果 | `effects.csv` | 514 |
-| `instruments` | 乐器 | `instruments.csv` | 98 |
-| `materials` | 盔甲纹饰材料 | `materials.csv` | 143 |
-| `paintings` | 画 | `paintings.csv` | 315 |
-| `attributes` | 属性 | `attributes.csv` | 578 |
-| `item-groups` | 物品栏分类 | `item-groups.csv` | 198 |
-| `jukebox-songs` | 唱片曲目 | `jukebox-songs.csv` | 42 |
-| `trim-patterns` | 盔甲纹饰图案 | `trim-patterns.csv` | 234 |
-| `colors` | 颜色 | `colors.csv` | 184 |
-| `statistics` | 统计 | `statistics.csv` | 1,143 |
-| `maps` | 地图 | `maps.csv` | 422 |
-| `music` | 音乐曲目 | `music.csv` | 192 |
-| `sound-categories` | 声音分类 | `sound-categories.csv` | 133 |
-| `game-modes` | 游戏模式 | `game-modes.csv` | 77 |
+| `blocks` | 方块 | `blocks（Khối）.csv` | 25,426 |
+| `items` | 物品 | `items（Vật phẩm）.csv` | 9,103 |
+| `entities` | 实体 | `entities（Thực thể）.csv` | 2,582 |
+| `biomes` | 生物群系 | `biomes（Quần xã sinh vật）.csv` | 835 |
+| `enchantments` | 魔咒 | `enchantments（Phù phép）.csv` | 553 |
+| `effects` | 状态效果 | `effects（Hiệu ứng trạng thái）.csv` | 514 |
+| `instruments` | 乐器 | `instruments（Nhạc cụ）.csv` | 98 |
+| `materials` | 盔甲纹饰材料 | `materials（Nguyên liệu trang trí giáp）.csv` | 143 |
+| `paintings` | 画 | `paintings（Tranh）.csv` | 315 |
+| `attributes` | 属性 | `attributes（Thuộc tính）.csv` | 578 |
+| `item-groups` | 物品栏分类 | `item-groups（Nhóm vật phẩm）.csv` | 198 |
+| `jukebox-songs` | 唱片曲目 | `jukebox-songs（Bài hát máy hát）.csv` | 42 |
+| `trim-patterns` | 盔甲纹饰图案 | `trim-patterns（Hoa văn trang trí giáp）.csv` | 234 |
+| `colors` | 颜色 | `colors（Màu sắc）.csv` | 184 |
+| `statistics` | 统计 | `statistics（Thống kê）.csv` | 1,143 |
+| `maps` | 地图 | `maps（Bản đồ）.csv` | 422 |
+| `music` | 音乐曲目 | `music（Âm nhạc）.csv` | 192 |
+| `sound-categories` | 声音分类 | `sound-categories（Phân loại âm thanh）.csv` | 133 |
+| `game-modes` | 游戏模式 | `game-modes（Chế độ chơi）.csv` | 77 |
 
 ### `extra-`（系统与文本）
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `subtitles` | 字幕 | `extra-subtitles.csv` | 12,416 |
-| `death-messages` | 死亡消息 | `extra-death-messages.csv` | 1,334 |
-| `advancement-titles` | 进度标题 | `extra-advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | 进度描述 | `extra-advancement-descriptions.csv` | 1,641 |
-| `gamerules` | 游戏规则 | `extra-gamerules.csv` | 1,490 |
-| `commands` | 命令与参数 | `extra-commands.csv` | 10,738 |
-| `gui` | 界面文本 | `extra-gui.csv` | 6,609 |
-| `options` | 设置与按键 | `extra-options.csv` | 8,152 |
-| `multiplayer` | 多人游戏 | `extra-multiplayer.csv` | 2,024 |
-| `realms` | Realms | `extra-realms.csv` | 4,996 |
-| `world-management` | 世界管理 | `extra-world-management.csv` | 3,565 |
-| `resource-packs` | 资源包与数据包 | `extra-resource-packs.csv` | 761 |
-| `telemetry` | 遥测 | `extra-telemetry.csv` | 897 |
-| `dev-tools` | 开发与测试工具 | `extra-dev-tools.csv` | 1,811 |
-| `misc` | 其他 | `extra-misc.csv` | 516 |
+| `subtitles` | 字幕 | `extra-subtitles（Phụ đề）.csv` | 12,416 |
+| `death-messages` | 死亡消息 | `extra-death-messages（Thông báo tử vong）.csv` | 1,334 |
+| `advancement-titles` | 进度标题 | `extra-advancement-titles（Tiêu đề tiến trình）.csv` | 1,603 |
+| `advancement-descriptions` | 进度描述 | `extra-advancement-descriptions（Mô tả tiến trình）.csv` | 1,641 |
+| `gamerules` | 游戏规则 | `extra-gamerules（Luật chơi）.csv` | 1,490 |
+| `commands` | 命令与参数 | `extra-commands（Lệnh và tham số）.csv` | 10,738 |
+| `gui` | 界面文本 | `extra-gui（Văn bản giao diện）.csv` | 6,609 |
+| `options` | 设置与按键 | `extra-options（Cài đặt và phím）.csv` | 8,152 |
+| `multiplayer` | 多人游戏 | `extra-multiplayer（Nhiều người chơi）.csv` | 2,024 |
+| `realms` | Realms | `extra-realms（Realms）.csv` | 4,996 |
+| `world-management` | 世界管理 | `extra-world-management（Quản lý thế giới）.csv` | 3,565 |
+| `resource-packs` | 资源包与数据包 | `extra-resource-packs（Gói tài nguyên và dữ liệu）.csv` | 761 |
+| `telemetry` | 遥测 | `extra-telemetry（Đo từ xa）.csv` | 897 |
+| `dev-tools` | 开发与测试工具 | `extra-dev-tools（Công cụ phát triển và thử nghiệm）.csv` | 1,811 |
+| `misc` | 其他 | `extra-misc（Khác）.csv` | 516 |
 
 ### 文件清单
 
 ```text
 minecraft-glossary/
 <lang>/                       # 14 个语言文件夹
-|   blocks.csv
-|   items.csv
-|   entities.csv
-|   biomes.csv
-|   enchantments.csv
-|   effects.csv
-|   instruments.csv
-|   materials.csv
-|   paintings.csv
-|   attributes.csv
-|   item-groups.csv
-|   jukebox-songs.csv
-|   trim-patterns.csv
-|   colors.csv
-|   statistics.csv
-|   maps.csv
-|   music.csv
-|   sound-categories.csv
-|   game-modes.csv
+|   blocks（Khối）.csv
+|   items（Vật phẩm）.csv
+|   entities（Thực thể）.csv
+|   biomes（Quần xã sinh vật）.csv
+|   enchantments（Phù phép）.csv
+|   effects（Hiệu ứng trạng thái）.csv
+|   instruments（Nhạc cụ）.csv
+|   materials（Nguyên liệu trang trí giáp）.csv
+|   paintings（Tranh）.csv
+|   attributes（Thuộc tính）.csv
+|   item-groups（Nhóm vật phẩm）.csv
+|   jukebox-songs（Bài hát máy hát）.csv
+|   trim-patterns（Hoa văn trang trí giáp）.csv
+|   colors（Màu sắc）.csv
+|   statistics（Thống kê）.csv
+|   maps（Bản đồ）.csv
+|   music（Âm nhạc）.csv
+|   sound-categories（Phân loại âm thanh）.csv
+|   game-modes（Chế độ chơi）.csv
 |   +-- extra-               # 系统与文本类分类
 |       |-- subtitles.csv
 |       |-- death-messages.csv

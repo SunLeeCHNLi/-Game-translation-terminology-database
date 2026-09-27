@@ -10,32 +10,32 @@
 
 | 文件 | 分类 | 本语言记录数 |
 | --- | --- | ---: |
-| `01_character.csv` | 角色与 NPC | 2,910 |
-| `02_path.csv` | 命途 | 206 |
-| `03_element.csv` | 属性 | 149 |
-| `04_skill.csv` | 技能 | 5,208 |
-| `05_trace.csv` | 行迹 | 3,051 |
-| `06_eidolon.csv` | 星魂 | 5,515 |
-| `07_light_cone.csv` | 光锥 | 3,219 |
-| `08_relic.csv` | 遗器 | 2,734 |
-| `09_item.csv` | 道具 | 19,858 |
-| `10_material.csv` | 材料 | 6,082 |
-| `11_enemy.csv` | 敌人 | 9,244 |
-| `12_location.csv` | 地点 | 11,728 |
-| `13_faction.csv` | 阵营与组织 | 352 |
-| `14_quest.csv` | 任务 | 66,247 |
-| `15_stage.csv` | 关卡与副本 | 1,987 |
-| `16_event.csv` | 活动 | 14,803 |
-| `17_achievement.csv` | 成就 | 21,896 |
-| `18_simulated_universe.csv` | 模拟宇宙 | 20,414 |
-| `19_forgotten_hall.csv` | 忘却之庭 | 9,772 |
-| `20_story.csv` | 剧情 | 214 |
-| `21_world_lore.csv` | 世界观 | 1,196 |
-| `22_book.csv` | 书籍 | 11,394 |
-| `23_dialogue.csv` | 对话 | 60,182 |
-| `24_system.csv` | 系统 | 21,247 |
-| `25_ui.csv` | 界面 | 11,777 |
-| `26_other.csv` | 其他 | 2,218 |
+| `01_character（Karakter & NPC）.csv` | 角色与 NPC | 2,910 |
+| `02_path（Jalur）.csv` | 命途 | 206 |
+| `03_element（Elemen）.csv` | 属性 | 149 |
+| `04_skill（Skill）.csv` | 技能 | 5,208 |
+| `05_trace（Jejak）.csv` | 行迹 | 3,051 |
+| `06_eidolon（Eidolon）.csv` | 星魂 | 5,515 |
+| `07_light_cone（Krucut Cahaya）.csv` | 光锥 | 3,219 |
+| `08_relic（Relik）.csv` | 遗器 | 2,734 |
+| `09_item（Item）.csv` | 道具 | 19,858 |
+| `10_material（Material）.csv` | 材料 | 6,082 |
+| `11_enemy（Musuh）.csv` | 敌人 | 9,244 |
+| `12_location（Lokasi）.csv` | 地点 | 11,728 |
+| `13_faction（Faksi & Organisasi）.csv` | 阵营与组织 | 352 |
+| `14_quest（Misi）.csv` | 任务 | 66,247 |
+| `15_stage（Stage & Domain）.csv` | 关卡与副本 | 1,987 |
+| `16_event（Event）.csv` | 活动 | 14,803 |
+| `17_achievement（Pencapaian）.csv` | 成就 | 21,896 |
+| `18_simulated_universe（Universe Simulasi）.csv` | 模拟宇宙 | 20,414 |
+| `19_forgotten_hall（Aula Terlupakan）.csv` | 忘却之庭 | 9,772 |
+| `20_story（Cerita）.csv` | 剧情 | 214 |
+| `21_world_lore（Latar Dunia）.csv` | 世界观 | 1,196 |
+| `22_book（Buku）.csv` | 书籍 | 11,394 |
+| `23_dialogue（Dialog）.csv` | 对话 | 60,182 |
+| `24_system（Sistem）.csv` | 系统 | 21,247 |
+| `25_ui（Antarmuka）.csv` | 界面 | 11,777 |
+| `26_other（Lainnya）.csv` | 其他 | 2,218 |
 
 ## 说明
 

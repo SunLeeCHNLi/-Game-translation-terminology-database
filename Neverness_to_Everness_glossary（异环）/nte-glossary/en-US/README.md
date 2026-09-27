@@ -1,6 +1,6 @@
 # 异环（Neverness to Everness）术语库 — English（`en-US`）
 
-[← 返回游戏总说明](../../README.md) ｜ [← nte-glossary 子库说明](../README.md)
+[← 返回游戏总说明](../../README.md) ｜ [← nte-glossary 子库说明](../README.md) ｜ [简体中文](README_zh-CN.md)
 
 本目录是**以 `en-US`（English）为目标语言**的异环术语库。共 **21** 个类目 CSV、
 **55,226** 行对照。所有 CSV 的 `tgt_lng` 列固定为 `en-US`；`source` 列收录其余语言

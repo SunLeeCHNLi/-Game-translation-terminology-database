@@ -1,6 +1,6 @@
 # 鳴潮（Wuthering Waves）用語集 — 日本語（`ja-JP`）
 
-[← ゲーム全体の説明に戻る](../../README.md) ｜ [← wuwa-glossary サブライブラリの説明](../README.md)
+[← ゲーム全体の説明に戻る](../../README.md) ｜ [← wuwa-glossary サブライブラリの説明](../README.md) ｜ [简体中文](README_zh-CN.md)
 
 本ディレクトリは**`ja-JP`（日本語）を対象言語とする**鳴潮（Wuthering Waves）の用語集です。**123,230** 件の用語と **648,414** 行の対訳（本ディレクトリの 23 個の CSV のデータ行の合計、約 **63.4 MiB**）を収録しています。すべての CSV で `tgt_lng` 列は `ja-JP` に固定され、`source` 列には他の 9 言語（`zh-CN` (简体中文), `zh-TW` (繁體中文), `en-US` (English), `ko-KR` (한국어), `fr-FR` (Français), `de-DE` (Deutsch), `es-ES` (Español), `pt-BR` (Português), `th-TH` (ภาษาไทย)）での表記が入るため、同じゲームテキストをどの言語からでも本言語の訳語に照合できます。
 
@@ -8,29 +8,29 @@
 
 本ディレクトリは**フラット構成**で、23 個のカテゴリ CSV が本ディレクトリ直下にあり、追加のサブディレクトリはありません：
 
-- `characters.csv` — キャラクター名
-- `weapons.csv` — 武器名
-- `echoes.csv` — 音骸
-- `skills.csv` — スキル
-- `resonant-chains.csv` — 共鳴チェーン
-- `quests.csv` — クエスト
-- `dungeons.csv` — ステージ・挑戦
-- `regions.csv` — 地域・マップ
-- `factions.csv` — 勢力・陣営
-- `items.csv` — アイテム・素材
-- `monsters.csv` — モンスター・生物
-- `npcs.csv` — NPC・話者
-- `achievements.csv` — 実績
-- `activities.csv` — イベント・ゲームモード
-- `buffs.csv` — バフ・効果
-- `voice-lines.csv` — キャラクターボイス
-- `archives.csv` — 書物・記録
-- `terms.csv` — 用語・図鑑
-- `system.csv` — システムテキスト
-- `ui.csv` — UI テキスト
-- `tutorials.csv` — チュートリアル
-- `story.csv` — ストーリー
-- `other.csv` — その他
+- `characters（キャラクター名）.csv` — キャラクター名
+- `weapons（武器名）.csv` — 武器名
+- `echoes（音骸）.csv` — 音骸
+- `skills（スキル）.csv` — スキル
+- `resonant-chains（共鳴チェーン）.csv` — 共鳴チェーン
+- `quests（クエスト）.csv` — クエスト
+- `dungeons（ステージ・挑戦）.csv` — ステージ・挑戦
+- `regions（地域・マップ）.csv` — 地域・マップ
+- `factions（勢力・陣営）.csv` — 勢力・陣営
+- `items（アイテム・素材）.csv` — アイテム・素材
+- `monsters（モンスター・生物）.csv` — モンスター・生物
+- `npcs（NPC・話者）.csv` — NPC・話者
+- `achievements（実績）.csv` — 実績
+- `activities（イベント・ゲームモード）.csv` — イベント・ゲームモード
+- `buffs（バフ・効果）.csv` — バフ・効果
+- `voice-lines（キャラクターボイス）.csv` — キャラクターボイス
+- `archives（書物・記録）.csv` — 書物・記録
+- `terms（用語・図鑑）.csv` — 用語・図鑑
+- `system（システムテキスト）.csv` — システムテキスト
+- `ui（UI テキスト）.csv` — UI テキスト
+- `tutorials（チュートリアル）.csv` — チュートリアル
+- `story（ストーリー）.csv` — ストーリー
+- `other（その他）.csv` — その他
 
 各ファイルは `source,target,tgt_lng` の 3 列（先頭行は見出し行）です。`tgt_lng` が示す対象言語にとって `target` が訳文、`source` が**他のいずれかの言語**の原文です。したがって 1 件の項目は残り 9 言語それぞれを `source` として 1 行ずつ現れます（重複行と同形行は統合済みのため、実際の行数は用語数の 9 倍にはなりません）。ファイルは CAT ツールや Immersive Translate などの用語マッチングソフトにそのまま読み込めます。
 
@@ -38,29 +38,29 @@
 
 | カテゴリ | テーマ | 件数 | 対訳行 |
 | --- | --- | --- | --- |
-| `characters.csv` | キャラクター名 | 1,230 | 5,204 |
-| `weapons.csv` | 武器名 | 820 | 3,105 |
-| `echoes.csv` | 音骸 | 1,000 | 6,099 |
-| `skills.csv` | スキル | 5,344 | 30,475 |
-| `resonant-chains.csv` | 共鳴チェーン | 784 | 6,131 |
-| `quests.csv` | クエスト | 2,807 | 14,501 |
-| `dungeons.csv` | ステージ・挑戦 | 1,910 | 12,127 |
-| `regions.csv` | 地域・マップ | 2,229 | 16,177 |
-| `factions.csv` | 勢力・陣営 | 8 | 49 |
-| `items.csv` | アイテム・素材 | 8,384 | 54,386 |
-| `monsters.csv` | モンスター・生物 | 685 | 4,522 |
-| `npcs.csv` | NPC・話者 | 14,172 | 64,960 |
-| `achievements.csv` | 実績 | 2,563 | 22,173 |
-| `activities.csv` | イベント・ゲームモード | 9,531 | 63,557 |
-| `buffs.csv` | バフ・効果 | 270 | 2,072 |
-| `voice-lines.csv` | キャラクターボイス | 7,374 | 32,105 |
-| `archives.csv` | 書物・記録 | 839 | 6,593 |
-| `terms.csv` | 用語・図鑑 | 1,672 | 12,435 |
-| `system.csv` | システムテキスト | 9,756 | 65,916 |
-| `ui.csv` | UI テキスト | 13,866 | 79,262 |
-| `tutorials.csv` | チュートリアル | 6,253 | 32,459 |
-| `story.csv` | ストーリー | 29,841 | 100,775 |
-| `other.csv` | その他 | 1,892 | 13,331 |
+| `characters（キャラクター名）.csv` | キャラクター名 | 1,230 | 5,204 |
+| `weapons（武器名）.csv` | 武器名 | 820 | 3,105 |
+| `echoes（音骸）.csv` | 音骸 | 1,000 | 6,099 |
+| `skills（スキル）.csv` | スキル | 5,344 | 30,475 |
+| `resonant-chains（共鳴チェーン）.csv` | 共鳴チェーン | 784 | 6,131 |
+| `quests（クエスト）.csv` | クエスト | 2,807 | 14,501 |
+| `dungeons（ステージ・挑戦）.csv` | ステージ・挑戦 | 1,910 | 12,127 |
+| `regions（地域・マップ）.csv` | 地域・マップ | 2,229 | 16,177 |
+| `factions（勢力・陣営）.csv` | 勢力・陣営 | 8 | 49 |
+| `items（アイテム・素材）.csv` | アイテム・素材 | 8,384 | 54,386 |
+| `monsters（モンスター・生物）.csv` | モンスター・生物 | 685 | 4,522 |
+| `npcs（NPC・話者）.csv` | NPC・話者 | 14,172 | 64,960 |
+| `achievements（実績）.csv` | 実績 | 2,563 | 22,173 |
+| `activities（イベント・ゲームモード）.csv` | イベント・ゲームモード | 9,531 | 63,557 |
+| `buffs（バフ・効果）.csv` | バフ・効果 | 270 | 2,072 |
+| `voice-lines（キャラクターボイス）.csv` | キャラクターボイス | 7,374 | 32,105 |
+| `archives（書物・記録）.csv` | 書物・記録 | 839 | 6,593 |
+| `terms（用語・図鑑）.csv` | 用語・図鑑 | 1,672 | 12,435 |
+| `system（システムテキスト）.csv` | システムテキスト | 9,756 | 65,916 |
+| `ui（UI テキスト）.csv` | UI テキスト | 13,866 | 79,262 |
+| `tutorials（チュートリアル）.csv` | チュートリアル | 6,253 | 32,459 |
+| `story（ストーリー）.csv` | ストーリー | 29,841 | 100,775 |
+| `other（その他）.csv` | その他 | 1,892 | 13,331 |
 | **合計** | **23 カテゴリ** | **123,230** | **648,414** |
 
 「件数」は重複を除いた用語数（1 用語 = ゲーム内の 1 テキストキー）で、`tools/_counts.json` の `concepts` フィールドの値です。**データベース全体で共通であり、対象言語には依存しません**。「対訳行」は本ディレクトリの該当カテゴリ CSV の実際のデータ行数です。同じテキストが複数のカテゴリに属することがあるため、カテゴリ別行数の合計は重複除去後の用語数より多くなります。

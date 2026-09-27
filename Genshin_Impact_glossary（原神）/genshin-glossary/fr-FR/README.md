@@ -1,6 +1,6 @@
 # Glossaire de Genshin Impact（原神）— Français（`fr-FR`）
 
-[← Retour à la présentation du jeu](../../README.md)
+[← Retour à la présentation du jeu](../../README.md) · [简体中文](README_zh-CN.md)
 
 Ce répertoire constitue la partie principale du glossaire de Genshin Impact **avec `fr-FR` comme langue cible** : au total **8,186** termes dédoublonnés et **89,613** lignes parallèles — **63,156** lignes dans les 17 catégories principales et **26,457** lignes dans les 10 sous-catégories TCG. Dans les 27 fichiers CSV, la colonne `tgt_lng` est fixée à `fr-FR`, `source` contient la forme utilisée dans l’une des 13 autres langues et `target` le nom dans cette langue cible.
 
@@ -9,9 +9,9 @@ Ce répertoire constitue la partie principale du glossaire de Genshin Impact **a
 Ce répertoire de langue contient **27 fichiers CSV** sur deux niveaux :
 
 - **17 catégories principales** (directement dans ce répertoire) :
-  `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv`
+  `characters（Personnages）.csv`, `talents（Talents）.csv`, `constellations（Constellations）.csv`, `weapons（Armes）.csv`, `materials（Matériaux）.csv`, `foods（Nourriture）.csv`, `crafts（Matériaux de fabrication）.csv`, `artifacts（Artefacts）.csv`, `domains（Domaines）.csv`, `enemies（Ennemis）.csv`, `animals（Animaux）.csv`, `outfits（Tenues）.csv`, `windgliders（Planeurs）.csv`, `namecards（Cartes de visite）.csv`, `geographies（Noms de lieux）.csv`, `achievements（Succès）.csv`, `adventureranks（Textes de rang d’aventurier）.csv`
 - **10 sous-catégories TCG** (dans le sous-dossier `tcg-`) :
-  `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv`
+  `tcg-action-cards（Cartes d’action）.csv`, `tcg-character-cards（Cartes de personnage）.csv`, `tcg-enemy-cards（Cartes d’ennemi）.csv`, `tcg-summons（Invocations）.csv`, `tcg-status-effects（Effets de statut）.csv`, `tcg-keywords（Mots-clés）.csv`, `tcg-card-backs（Dos de carte）.csv`, `tcg-card-boxes（Boîtes de cartes）.csv`, `tcg-detailed-rules（Règles détaillées）.csv`, `tcg-level-rewards（Récompenses de niveau）.csv`
 
 Chaque fichier comporte exactement trois colonnes :
 
@@ -25,33 +25,33 @@ Chaque fichier comporte exactement trois colonnes :
 
 | Catégorie | Thème | Termes | Lignes |
 | --- | --- | ---: | ---: |
-| `characters.csv` | Personnages | 122 | 577 |
-| `talents.csv` | Talents | 125 | 632 |
-| `constellations.csv` | Constellations | 125 | 632 |
-| `weapons.csv` | Armes | 249 | 2,823 |
-| `materials.csv` | Matériaux | 919 | 10,636 |
-| `foods.csv` | Nourriture | 398 | 4,541 |
-| `crafts.csv` | Matériaux de fabrication | 295 | 3,522 |
-| `artifacts.csv` | Artefacts | 63 | 727 |
-| `domains.csv` | Domaines | 284 | 3,636 |
-| `enemies.csv` | Ennemis | 346 | 4,103 |
-| `animals.csv` | Animaux | 223 | 2,647 |
-| `outfits.csv` | Tenues | 150 | 1,869 |
-| `windgliders.csv` | Planeurs | 18 | 211 |
-| `namecards.csv` | Cartes de visite | 289 | 3,606 |
-| `geographies.csv` | Noms de lieux | 268 | 3,389 |
-| `achievements.csv` | Succès | 1,548 | 19,461 |
-| `adventureranks.csv` | Textes de rang d’aventurier | 21 | 144 |
-| `tcg-action-cards.csv` | Cartes d’action | 927 | 9,529 |
-| `tcg-character-cards.csv` | Cartes de personnage | 149 | 929 |
-| `tcg-enemy-cards.csv` | Cartes d’ennemi | 134 | 1,114 |
-| `tcg-summons.csv` | Invocations | 152 | 1,159 |
-| `tcg-status-effects.csv` | Effets de statut | 1,159 | 11,465 |
-| `tcg-keywords.csv` | Mots-clés | 139 | 1,511 |
-| `tcg-card-backs.csv` | Dos de carte | 39 | 407 |
-| `tcg-card-boxes.csv` | Boîtes de cartes | 7 | 32 |
-| `tcg-detailed-rules.csv` | Règles détaillées | 11 | 142 |
-| `tcg-level-rewards.csv` | Récompenses de niveau | 26 | 169 |
+| `characters（Personnages）.csv` | Personnages | 122 | 577 |
+| `talents（Talents）.csv` | Talents | 125 | 632 |
+| `constellations（Constellations）.csv` | Constellations | 125 | 632 |
+| `weapons（Armes）.csv` | Armes | 249 | 2,823 |
+| `materials（Matériaux）.csv` | Matériaux | 919 | 10,636 |
+| `foods（Nourriture）.csv` | Nourriture | 398 | 4,541 |
+| `crafts（Matériaux de fabrication）.csv` | Matériaux de fabrication | 295 | 3,522 |
+| `artifacts（Artefacts）.csv` | Artefacts | 63 | 727 |
+| `domains（Domaines）.csv` | Domaines | 284 | 3,636 |
+| `enemies（Ennemis）.csv` | Ennemis | 346 | 4,103 |
+| `animals（Animaux）.csv` | Animaux | 223 | 2,647 |
+| `outfits（Tenues）.csv` | Tenues | 150 | 1,869 |
+| `windgliders（Planeurs）.csv` | Planeurs | 18 | 211 |
+| `namecards（Cartes de visite）.csv` | Cartes de visite | 289 | 3,606 |
+| `geographies（Noms de lieux）.csv` | Noms de lieux | 268 | 3,389 |
+| `achievements（Succès）.csv` | Succès | 1,548 | 19,461 |
+| `adventureranks（Textes de rang d’aventurier）.csv` | Textes de rang d’aventurier | 21 | 144 |
+| `tcg-action-cards（Cartes d’action）.csv` | Cartes d’action | 927 | 9,529 |
+| `tcg-character-cards（Cartes de personnage）.csv` | Cartes de personnage | 149 | 929 |
+| `tcg-enemy-cards（Cartes d’ennemi）.csv` | Cartes d’ennemi | 134 | 1,114 |
+| `tcg-summons（Invocations）.csv` | Invocations | 152 | 1,159 |
+| `tcg-status-effects（Effets de statut）.csv` | Effets de statut | 1,159 | 11,465 |
+| `tcg-keywords（Mots-clés）.csv` | Mots-clés | 139 | 1,511 |
+| `tcg-card-backs（Dos de carte）.csv` | Dos de carte | 39 | 407 |
+| `tcg-card-boxes（Boîtes de cartes）.csv` | Boîtes de cartes | 7 | 32 |
+| `tcg-detailed-rules（Règles détaillées）.csv` | Règles détaillées | 11 | 142 |
+| `tcg-level-rewards（Récompenses de niveau）.csv` | Récompenses de niveau | 26 | 169 |
 | **Catégories principales (17 fichiers)** | — | **5,443** | **63,156** |
 | **TCG (10 fichiers)** | — | **2,743** | **26,457** |
 | **Total (27 fichiers)** | — | **8,186** | **89,613** |

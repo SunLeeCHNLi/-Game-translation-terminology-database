@@ -1,6 +1,6 @@
 # 블루 아카이브 용어집 — 한국어（`ko-KR`）
 
-[← 게임 전체 설명으로 돌아가기](../README.md)
+[← 게임 전체 설명으로 돌아가기](../README.md) · [简体中文](README_zh-CN.md)
 
 이 폴더는 **대상 언어를 `ko-KR`（한국어）로 하는 용어집**입니다. 각 행은 「다른 언어의 표기 → 한국어」 대역이며, **7310** 개 항목과 **29009** 행의 대역을 담고 있습니다. `tgt_lng` 열은 항상 `ko-KR`이고, `source` 열에는 `zh-CN` / `zh-TW` / `en-US` / `ja-JP` / `th-TH` 다섯 언어에서 같은 항목의 표기가 들어갑니다. 항목별 6개 언어 병렬 보기는 `../_master/<target-language>__README.md` 와 `../multilingual/00_master/` 를 참고하십시오.
 

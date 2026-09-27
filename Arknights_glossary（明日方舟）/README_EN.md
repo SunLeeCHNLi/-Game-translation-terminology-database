@@ -82,7 +82,7 @@ Chinese, 20 category CSVs and one `_all.json`.
 
 ### Categories × rows
 
-Category names stay in Chinese in every language directory (so that they line up across languages);
+Category file names are based on the Chinese name with each language's own category name appended (so that they line up across languages);
 the English and Japanese titles are given below for convenience.
 
 | Category file | Topic | 日本語 | zh-CN | zh-TW | en-US | ja-JP | ko-KR |

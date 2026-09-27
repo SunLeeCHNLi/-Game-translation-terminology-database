@@ -1,6 +1,6 @@
 # Blue Archive Terminology Database — English (`en-US`)
 
-[← Back to the game-level documentation](../README.md)
+[← Back to the game-level documentation](../README.md) · [简体中文](README_zh-CN.md)
 
 This folder is the termbase **targeting `en-US` (English)**: every row pairs a spelling from another language with the English spelling of the same entry. It holds **5909** entries and **26623** aligned rows, the `tgt_lng` column is always `en-US`, and the `source` column carries the spellings found in `zh-CN` / `zh-TW` / `ja-JP` / `ko-KR` / `th-TH`. For the full six-language side-by-side view of each entry, see `../_master/<target-language>__README.md` and `../multilingual/00_master/`.
 

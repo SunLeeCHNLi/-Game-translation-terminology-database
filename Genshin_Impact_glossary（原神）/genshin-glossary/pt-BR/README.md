@@ -6,8 +6,8 @@ Este diretório é o glossário de terminologia de *Genshin Impact* com o **port
 
 ## Arquivos
 
-- `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 arquivos de categoria principal
-- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 arquivos da subcategoria TCG (Jogo de Invocação das Sete)
+- `characters（Personagens）.csv`, `talents（Talentos）.csv`, `constellations（Constelações）.csv`, `weapons（Armas）.csv`, `materials（Materiais）.csv`, `foods（Comidas）.csv`, `crafts（Materiais de fabricação）.csv`, `artifacts（Artefatos）.csv`, `domains（Domínios）.csv`, `enemies（Inimigos）.csv`, `animals（Animais）.csv`, `outfits（Trajes）.csv`, `windgliders（Asas Planadoras）.csv`, `namecards（Cartões de visita）.csv`, `geographies（Nomes de lugares）.csv`, `achievements（Conquistas）.csv`, `adventureranks（Textos de nível de aventureiro）.csv` — 17 arquivos de categoria principal
+- `tcg-action-cards（Cartas de ação）.csv`, `tcg-character-cards（Cartas de personagem）.csv`, `tcg-enemy-cards（Cartas de inimigo）.csv`, `tcg-summons（Invocações）.csv`, `tcg-status-effects（Efeitos de estado）.csv`, `tcg-keywords（Palavras-chave）.csv`, `tcg-card-backs（Versos de carta）.csv`, `tcg-card-boxes（Caixas de cartas）.csv`, `tcg-detailed-rules（Regras detalhadas）.csv`, `tcg-level-rewards（Recompensas de nível）.csv` — 10 arquivos da subcategoria TCG (Jogo de Invocação das Sete)
 
 Total: **27 arquivos CSV**. Todos têm o mesmo formato de três colunas:
 
@@ -20,23 +20,23 @@ Estrutura de diretórios:
 
 ```text
 pt-BR/
-├── characters.csv
-├── talents.csv
-├── constellations.csv
-├── weapons.csv
-├── materials.csv
-├── foods.csv
-├── crafts.csv
-├── artifacts.csv
-├── domains.csv
-├── enemies.csv
-├── animals.csv
-├── outfits.csv
-├── windgliders.csv
-├── namecards.csv
-├── geographies.csv
-├── achievements.csv
-├── adventureranks.csv
+├── characters（Personagens）.csv
+├── talents（Talentos）.csv
+├── constellations（Constelações）.csv
+├── weapons（Armas）.csv
+├── materials（Materiais）.csv
+├── foods（Comidas）.csv
+├── crafts（Materiais de fabricação）.csv
+├── artifacts（Artefatos）.csv
+├── domains（Domínios）.csv
+├── enemies（Inimigos）.csv
+├── animals（Animais）.csv
+├── outfits（Trajes）.csv
+├── windgliders（Asas Planadoras）.csv
+├── namecards（Cartões de visita）.csv
+├── geographies（Nomes de lugares）.csv
+├── achievements（Conquistas）.csv
+├── adventureranks（Textos de nível de aventureiro）.csv
 └── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
@@ -58,39 +58,39 @@ pt-BR/
 
 | Categoria | Arquivo | Termos | Linhas |
 | --- | --- | ---: | ---: |
-| characters | `characters.csv` | 122 | 577 |
-| talents | `talents.csv` | 125 | 632 |
-| constellations | `constellations.csv` | 125 | 632 |
-| weapons | `weapons.csv` | 249 | 2.823 |
-| materials | `materials.csv` | 919 | 10.636 |
-| foods | `foods.csv` | 398 | 4.541 |
-| crafts | `crafts.csv` | 295 | 3.522 |
-| artifacts | `artifacts.csv` | 63 | 727 |
-| domains | `domains.csv` | 284 | 3.636 |
-| enemies | `enemies.csv` | 346 | 4.103 |
-| animals | `animals.csv` | 223 | 2.647 |
-| outfits | `outfits.csv` | 150 | 1.869 |
-| windgliders | `windgliders.csv` | 18 | 211 |
-| namecards | `namecards.csv` | 289 | 3.606 |
-| geographies | `geographies.csv` | 268 | 3.389 |
-| achievements | `achievements.csv` | 1.548 | 19.461 |
-| adventureranks | `adventureranks.csv` | 21 | 169 |
+| characters | `characters（Personagens）.csv` | 122 | 577 |
+| talents | `talents（Talentos）.csv` | 125 | 632 |
+| constellations | `constellations（Constelações）.csv` | 125 | 632 |
+| weapons | `weapons（Armas）.csv` | 249 | 2.823 |
+| materials | `materials（Materiais）.csv` | 919 | 10.636 |
+| foods | `foods（Comidas）.csv` | 398 | 4.541 |
+| crafts | `crafts（Materiais de fabricação）.csv` | 295 | 3.522 |
+| artifacts | `artifacts（Artefatos）.csv` | 63 | 727 |
+| domains | `domains（Domínios）.csv` | 284 | 3.636 |
+| enemies | `enemies（Inimigos）.csv` | 346 | 4.103 |
+| animals | `animals（Animais）.csv` | 223 | 2.647 |
+| outfits | `outfits（Trajes）.csv` | 150 | 1.869 |
+| windgliders | `windgliders（Asas Planadoras）.csv` | 18 | 211 |
+| namecards | `namecards（Cartões de visita）.csv` | 289 | 3.606 |
+| geographies | `geographies（Nomes de lugares）.csv` | 268 | 3.389 |
+| achievements | `achievements（Conquistas）.csv` | 1.548 | 19.461 |
+| adventureranks | `adventureranks（Textos de nível de aventureiro）.csv` | 21 | 169 |
 | **Subtotal** | 17 arquivos | — | **63.181** |
 
 ### Subcategorias de TCG (`tcg-`)
 
 | Subcategoria | Arquivo | Termos | Linhas |
 | --- | --- | ---: | ---: |
-| action-cards | `tcg-action-cards.csv` | 927 | 9.605 |
-| character-cards | `tcg-character-cards.csv` | 149 | 929 |
-| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1.114 |
-| summons | `tcg-summons.csv` | 152 | 1.139 |
-| status-effects | `tcg-status-effects.csv` | 1.159 | 11.215 |
-| keywords | `tcg-keywords.csv` | 139 | 1.511 |
-| card-backs | `tcg-card-backs.csv` | 39 | 407 |
-| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
-| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
-| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards（Cartas de ação）.csv` | 927 | 9.605 |
+| character-cards | `tcg-character-cards（Cartas de personagem）.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards（Cartas de inimigo）.csv` | 134 | 1.114 |
+| summons | `tcg-summons（Invocações）.csv` | 152 | 1.139 |
+| status-effects | `tcg-status-effects（Efeitos de estado）.csv` | 1.159 | 11.215 |
+| keywords | `tcg-keywords（Palavras-chave）.csv` | 139 | 1.511 |
+| card-backs | `tcg-card-backs（Versos de carta）.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes（Caixas de cartas）.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules（Regras detalhadas）.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards（Recompensas de nível）.csv` | 26 | 169 |
 | **Subtotal** | 10 arquivos | — | **26.263** |
 
 **Total deste diretório: 27 arquivos, 89.444 linhas.**

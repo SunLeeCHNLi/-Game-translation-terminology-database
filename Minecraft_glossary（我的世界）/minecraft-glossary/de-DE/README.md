@@ -6,8 +6,8 @@ Dieses Verzeichnis ist das Minecraft-Terminologieglossar mit **Deutsch (`de-DE`)
 
 ## Dateien
 
-- `blocks.csv`, `items.csv`, `entities.csv`, `biomes.csv`, `enchantments.csv`, `effects.csv`, `instruments.csv`, `materials.csv`, `paintings.csv`, `attributes.csv`, `item-groups.csv`, `jukebox-songs.csv`, `trim-patterns.csv`, `colors.csv`, `statistics.csv`, `maps.csv`, `music.csv`, `sound-categories.csv`, `game-modes.csv` — 19 Dateien der Hauptkategorien
-- `extra-subtitles.csv`, `extra-death-messages.csv`, `extra-advancement-titles.csv`, `extra-advancement-descriptions.csv`, `extra-gamerules.csv`, `extra-commands.csv`, `extra-gui.csv`, `extra-options.csv`, `extra-multiplayer.csv`, `extra-realms.csv`, `extra-world-management.csv`, `extra-resource-packs.csv`, `extra-telemetry.csv`, `extra-dev-tools.csv`, `extra-misc.csv` — 15 Dateien der Kategorien in `extra-`
+- `blocks（Blöcke）.csv`, `items（Gegenstände）.csv`, `entities（Entitäten）.csv`, `biomes（Biome）.csv`, `enchantments（Verzauberungen）.csv`, `effects（Statuseffekte）.csv`, `instruments（Instrumente）.csv`, `materials（Rüstungsverzierungsmaterialien）.csv`, `paintings（Gemälde）.csv`, `attributes（Attribute）.csv`, `item-groups（Gegenstandsgruppen）.csv`, `jukebox-songs（Plattenspieler-Songs）.csv`, `trim-patterns（Rüstungsverzierungsmuster）.csv`, `colors（Farben）.csv`, `statistics（Statistiken）.csv`, `maps（Karten）.csv`, `music（Musik）.csv`, `sound-categories（Soundkategorien）.csv`, `game-modes（Spielmodi）.csv` — 19 Dateien der Hauptkategorien
+- `extra-subtitles（Untertitel）.csv`, `extra-death-messages（Todesmeldungen）.csv`, `extra-advancement-titles（Fortschrittstitel）.csv`, `extra-advancement-descriptions（Fortschrittsbeschreibungen）.csv`, `extra-gamerules（Spielregeln）.csv`, `extra-commands（Befehle und Argumente）.csv`, `extra-gui（Oberflächentexte）.csv`, `extra-options（Einstellungen und Tasten）.csv`, `extra-multiplayer（Mehrspieler）.csv`, `extra-realms（Realms）.csv`, `extra-world-management（Weltverwaltung）.csv`, `extra-resource-packs（Ressourcen- und Datenpakete）.csv`, `extra-telemetry（Telemetrie）.csv`, `extra-dev-tools（Entwicklungs- und Testwerkzeuge）.csv`, `extra-misc（Sonstiges）.csv` — 15 Dateien der Kategorien in `extra-`
 
 Zusammen **34 CSV-Dateien**. Alle haben dieselben drei Spalten:
 
@@ -20,25 +20,25 @@ Verzeichnisstruktur:
 
 ```text
 de-DE/
-├── blocks.csv
-├── items.csv
-├── entities.csv
-├── biomes.csv
-├── enchantments.csv
-├── effects.csv
-├── instruments.csv
-├── materials.csv
-├── paintings.csv
-├── attributes.csv
-├── item-groups.csv
-├── jukebox-songs.csv
-├── trim-patterns.csv
-├── colors.csv
-├── statistics.csv
-├── maps.csv
-├── music.csv
-├── sound-categories.csv
-├── game-modes.csv
+├── blocks（Blöcke）.csv
+├── items（Gegenstände）.csv
+├── entities（Entitäten）.csv
+├── biomes（Biome）.csv
+├── enchantments（Verzauberungen）.csv
+├── effects（Statuseffekte）.csv
+├── instruments（Instrumente）.csv
+├── materials（Rüstungsverzierungsmaterialien）.csv
+├── paintings（Gemälde）.csv
+├── attributes（Attribute）.csv
+├── item-groups（Gegenstandsgruppen）.csv
+├── jukebox-songs（Plattenspieler-Songs）.csv
+├── trim-patterns（Rüstungsverzierungsmuster）.csv
+├── colors（Farben）.csv
+├── statistics（Statistiken）.csv
+├── maps（Karten）.csv
+├── music（Musik）.csv
+├── sound-categories（Soundkategorien）.csv
+├── game-modes（Spielmodi）.csv
 └── extra-  # System- und Textkategorien
     ├── subtitles.csv
     ├── death-messages.csv
@@ -65,46 +65,46 @@ Die Spalte „Begriffe“ nennt die Anzahl der **Namensobjekte der offiziellen S
 
 | Kategorie | Thema | Begriffe | Zeilen |
 | --- | --- | ---: | ---: |
-| `blocks.csv` | Blöcke | 1.975 | 25.426 |
-| `items.csv` | Gegenstände | 803 | 9.066 |
-| `entities.csv` | Entitäten | 219 | 2.582 |
-| `biomes.csv` | Biome | 67 | 835 |
-| `enchantments.csv` | Verzauberungen | 54 | 553 |
-| `effects.csv` | Statuseffekte | 42 | 514 |
-| `instruments.csv` | Instrumente | 8 | 98 |
-| `materials.csv` | Rüstungsbesatz-Materialien | 11 | 143 |
-| `paintings.csv` | Gemälde | 104 | 315 |
-| `attributes.csv` | Attribute | 83 | 567 |
-| `item-groups.csv` | Item-Gruppen | 16 | 197 |
-| `jukebox-songs.csv` | Schallplatten-Titel | 22 | 42 |
-| `trim-patterns.csv` | Rüstungsbesatz-Muster | 18 | 234 |
-| `colors.csv` | Farben | 16 | 184 |
-| `statistics.csv` | Statistiken | 88 | 1.143 |
-| `maps.csv` | Karten | 33 | 422 |
-| `music.csv` | Musikstücke | 70 | 192 |
-| `sound-categories.csv` | Sound-Kategorien | 11 | 133 |
-| `game-modes.csv` | Spielmodi | 6 | 77 |
+| `blocks（Blöcke）.csv` | Blöcke | 1.975 | 25.426 |
+| `items（Gegenstände）.csv` | Gegenstände | 803 | 9.066 |
+| `entities（Entitäten）.csv` | Entitäten | 219 | 2.582 |
+| `biomes（Biome）.csv` | Biome | 67 | 835 |
+| `enchantments（Verzauberungen）.csv` | Verzauberungen | 54 | 553 |
+| `effects（Statuseffekte）.csv` | Statuseffekte | 42 | 514 |
+| `instruments（Instrumente）.csv` | Instrumente | 8 | 98 |
+| `materials（Rüstungsverzierungsmaterialien）.csv` | Rüstungsbesatz-Materialien | 11 | 143 |
+| `paintings（Gemälde）.csv` | Gemälde | 104 | 315 |
+| `attributes（Attribute）.csv` | Attribute | 83 | 567 |
+| `item-groups（Gegenstandsgruppen）.csv` | Item-Gruppen | 16 | 197 |
+| `jukebox-songs（Plattenspieler-Songs）.csv` | Schallplatten-Titel | 22 | 42 |
+| `trim-patterns（Rüstungsverzierungsmuster）.csv` | Rüstungsbesatz-Muster | 18 | 234 |
+| `colors（Farben）.csv` | Farben | 16 | 184 |
+| `statistics（Statistiken）.csv` | Statistiken | 88 | 1.143 |
+| `maps（Karten）.csv` | Karten | 33 | 422 |
+| `music（Musik）.csv` | Musikstücke | 70 | 192 |
+| `sound-categories（Soundkategorien）.csv` | Sound-Kategorien | 11 | 133 |
+| `game-modes（Spielmodi）.csv` | Spielmodi | 6 | 77 |
 | **Zwischensumme** | 19 Dateien | **3.646** | **42.723** |
 
 ### Kategorien in `extra-` (System und Text)
 
 | Kategorie | Thema | Begriffe | Zeilen |
 | --- | --- | ---: | ---: |
-| `extra-subtitles.csv` | Untertitel | 1.023 | 12.491 |
-| `extra-death-messages.csv` | Todesmeldungen | 106 | 1.348 |
-| `extra-advancement-titles.csv` | Fortschrittstitel | 127 | 1.603 |
-| `extra-advancement-descriptions.csv` | Fortschrittsbeschreibungen | 127 | 1.641 |
-| `extra-gamerules.csv` | Spielregeln | 117 | 1.490 |
-| `extra-commands.csv` | Befehle und Argumente | 856 | 10.793 |
-| `extra-gui.csv` | GUI-Texte | 581 | 6.606 |
-| `extra-options.csv` | Optionen und Tastenbelegung | 754 | 8.152 |
-| `extra-multiplayer.csv` | Mehrspieler | 173 | 2.019 |
-| `extra-realms.csv` | Realms | 426 | 5.010 |
-| `extra-world-management.csv` | Weltverwaltung | 294 | 3.570 |
-| `extra-resource-packs.csv` | Ressourcen- und Datenpakete | 62 | 761 |
-| `extra-telemetry.csv` | Telemetrie | 70 | 897 |
-| `extra-dev-tools.csv` | Entwickler- und Testwerkzeuge | 144 | 1.803 |
-| `extra-misc.csv` | Sonstiges | 53 | 524 |
+| `extra-subtitles（Untertitel）.csv` | Untertitel | 1.023 | 12.491 |
+| `extra-death-messages（Todesmeldungen）.csv` | Todesmeldungen | 106 | 1.348 |
+| `extra-advancement-titles（Fortschrittstitel）.csv` | Fortschrittstitel | 127 | 1.603 |
+| `extra-advancement-descriptions（Fortschrittsbeschreibungen）.csv` | Fortschrittsbeschreibungen | 127 | 1.641 |
+| `extra-gamerules（Spielregeln）.csv` | Spielregeln | 117 | 1.490 |
+| `extra-commands（Befehle und Argumente）.csv` | Befehle und Argumente | 856 | 10.793 |
+| `extra-gui（Oberflächentexte）.csv` | GUI-Texte | 581 | 6.606 |
+| `extra-options（Einstellungen und Tasten）.csv` | Optionen und Tastenbelegung | 754 | 8.152 |
+| `extra-multiplayer（Mehrspieler）.csv` | Mehrspieler | 173 | 2.019 |
+| `extra-realms（Realms）.csv` | Realms | 426 | 5.010 |
+| `extra-world-management（Weltverwaltung）.csv` | Weltverwaltung | 294 | 3.570 |
+| `extra-resource-packs（Ressourcen- und Datenpakete）.csv` | Ressourcen- und Datenpakete | 62 | 761 |
+| `extra-telemetry（Telemetrie）.csv` | Telemetrie | 70 | 897 |
+| `extra-dev-tools（Entwicklungs- und Testwerkzeuge）.csv` | Entwickler- und Testwerkzeuge | 144 | 1.803 |
+| `extra-misc（Sonstiges）.csv` | Sonstiges | 53 | 524 |
 | **Zwischensumme** | 15 Dateien | **4.913** | **58.708** |
 
 **Gesamt: 34 Dateien, 7.789 eindeutige Begriffe (nach `target` entdoppelt), 101.431 Vergleichszeilen.**
