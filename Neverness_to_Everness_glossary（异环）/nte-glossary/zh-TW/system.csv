@@ -1,1 +1,2447 @@
 ﻿source,target,tgt_lng
+Reserve stamina,備用體力,zh-TW
+备用体力,備用體力,zh-TW
+スタミナを温存する,備用體力,zh-TW
+체력을 비축하세요,備用體力,zh-TW
+Reserveausdauer,備用體力,zh-TW
+réserve d'endurance,備用體力,zh-TW
+Reservar resistencia,備用體力,zh-TW
+Резервная выносливость,備用體力,zh-TW
+S-Class Selection,S級角色自選,zh-TW
+S级角色自选,S級角色自選,zh-TW
+選べるSランクキャラ,S級角色自選,zh-TW
+S급 캐릭터 선택,S級角色自選,zh-TW
+S-Rang-Auswahl,S級角色自選,zh-TW
+Sélection de classe S,S級角色自選,zh-TW
+Selección de Clase-S,S級角色自選,zh-TW
+Персонаж S-класса на выбор,S級角色自選,zh-TW
+Downloading…,下載中...,zh-TW
+下载中...,下載中...,zh-TW
+ダウンロード中…,下載中...,zh-TW
+다운로드 중…,下載中...,zh-TW
+Download läuft …,下載中...,zh-TW
+Téléchargement…,下載中...,zh-TW
+Descargando…,下載中...,zh-TW
+Загрузка…,下載中...,zh-TW
+Download failed…,下載失敗...,zh-TW
+下载失败...,下載失敗...,zh-TW
+ダウンロード失敗…,下載失敗...,zh-TW
+다운로드 실패…,下載失敗...,zh-TW
+Download fehlgeschlagen …,下載失敗...,zh-TW
+Échec du téléchargement…,下載失敗...,zh-TW
+No se pudo descargar…,下載失敗...,zh-TW
+Не удалось загрузить…,下載失敗...,zh-TW
+Download complete.,下載完成,zh-TW
+下载完成,下載完成,zh-TW
+ダウンロード完了,下載完成,zh-TW
+다운로드 완료,下載完成,zh-TW
+Download abgeschlossen.,下載完成,zh-TW
+Téléchargement terminé.,下載完成,zh-TW
+Descarga completada.,下載完成,zh-TW
+Загрузка завершена.,下載完成,zh-TW
+Download Progress,下載進度,zh-TW
+下载进度,下載進度,zh-TW
+ダウンロード進捗,下載進度,zh-TW
+다운로드 진행도,下載進度,zh-TW
+Download-Fortschritt,下載進度,zh-TW
+Progression du téléchargement,下載進度,zh-TW
+Progreso de descarga,下載進度,zh-TW
+Прогресс загрузки,下載進度,zh-TW
+Feature locked.,功能未解鎖，無法使用,zh-TW
+功能未解锁，无法使用,功能未解鎖，無法使用,zh-TW
+未解放の機能です,功能未解鎖，無法使用,zh-TW
+"기능이 해제되지 않아, 사용할 수 없습니다.",功能未解鎖，無法使用,zh-TW
+Funktion freigeschaltet.,功能未解鎖，無法使用,zh-TW
+Fonctionnalité verrouillée,功能未解鎖，無法使用,zh-TW
+Función bloqueada,功能未解鎖，無法使用,zh-TW
+Функция заблокирована.,功能未解鎖，無法使用,zh-TW
+Names cannot contain more than 6 numeric characters total,名稱內的數字字元不得累計超過6個,zh-TW
+名称内的数字字符不得累计超过6个,名稱內的數字字元不得累計超過6個,zh-TW
+名称の数字は合計6文字以内にしてください,名稱內的數字字元不得累計超過6個,zh-TW
+이름에 포함된 숫자는 6개를 초과할 수 없습니다.,名稱內的數字字元不得累計超過6個,zh-TW
+Namen können nicht mehr als 6 numerische Zeichen insgesamt enthalten,名稱內的數字字元不得累計超過6個,zh-TW
+Les noms ne peuvent pas contenir plus de 6 caractères numériques au total,名稱內的數字字元不得累計超過6個,zh-TW
+Los nombres no pueden contener más de 6 caracteres numéricos en total.,名稱內的數字字元不得累計超過6個,zh-TW
+В именах может быть не больше 6 цифр,名稱內的數字字元不得累計超過6個,zh-TW
+Dice roll in progress. Cannot roll again.,處於擲骰過程中，無法再次擲骰！,zh-TW
+处于掷骰过程中，无法再次掷骰！,處於擲骰過程中，無法再次擲骰！,zh-TW
+サイコロを振っている最中に再度振ることはできません,處於擲骰過程中，無法再次擲骰！,zh-TW
+주사위를 던지고 있어 다시 던질 수 없습니다!,處於擲骰過程中，無法再次擲骰！,zh-TW
+Würfelwurf läuft. Erneuter Wurf nicht möglich.,處於擲骰過程中，無法再次擲骰！,zh-TW
+Lancer de dés en cours. Impossible de relancer.,處於擲骰過程中，無法再次擲骰！,zh-TW
+Tirada de dados en curso. No se puede volver a tirar.,處於擲骰過程中，無法再次擲骰！,zh-TW
+Идёт бросок кубиков. Нельзя перебросить.,處於擲骰過程中，無法再次擲骰！,zh-TW
+NTE,異環,zh-TW
+异环,異環,zh-TW
+NTE: Neverness to Everness,異環,zh-TW
+이환,異環,zh-TW
+"Fewer than 200 slots remain. Clear some space soon, or newly acquired collectibles may be sold automatically.",當前倉庫剩餘空間少於200格，請及時清理以免自動出售新藏品。,zh-TW
+当前仓库剩余空间少于200格，请及时清理以免自动出售新藏品。,當前倉庫剩餘空間少於200格，請及時清理以免自動出售新藏品。,zh-TW
+倉庫の空き容量が200マスより少なくなっています。新しい所蔵品が自動売却されないよう、早めに整理することをおすすめいたします。,當前倉庫剩餘空間少於200格，請及時清理以免自動出售新藏品。,zh-TW
+현재 창고의 남은 공간이 200칸 미만입니다. 새 소장품이 자동으로 판매되지 않도록 창고를 정리해 주세요.,當前倉庫剩餘空間少於200格，請及時清理以免自動出售新藏品。,zh-TW
+The Display Case is full.,當前展示櫃內的藏品數量已達到上限,zh-TW
+当前展示柜内的藏品数量已达到上限,當前展示櫃內的藏品數量已達到上限,zh-TW
+現在、展示ケース内の所蔵品数が上限に達しています,當前展示櫃內的藏品數量已達到上限,zh-TW
+현재 진열장 내의 소장품 수량이 상한에 도달했습니다,當前展示櫃內的藏品數量已達到上限,zh-TW
+Die Vitrine ist voll.,當前展示櫃內的藏品數量已達到上限,zh-TW
+La Vitrine est pleine.,當前展示櫃內的藏品數量已達到上限,zh-TW
+La vitrina de exhibición está llena.,當前展示櫃內的藏品數量已達到上限,zh-TW
+Витрина заполнена,當前展示櫃內的藏品數量已達到上限,zh-TW
+City Hangouts for this character are not yet available in the current version.,當前版本該角色暫未開放都市偕遊,zh-TW
+当前版本该角色暂未开放都市偕游,當前版本該角色暫未開放都市偕遊,zh-TW
+このキャラの都市散策は未開放です,當前版本該角色暫未開放都市偕遊,zh-TW
+현재 버전에서는 해당 캐릭터의 도시 산책이 지원되지 않습니다.,當前版本該角色暫未開放都市偕遊,zh-TW
+Die aktuelle Version unterstützt dieses Zeichen für Urbane Zweisamkeit nicht.,當前版本該角色暫未開放都市偕遊,zh-TW
+La version actuelle ne prend pas en charge ce personnage pour les balades en ville.,當前版本該角色暫未開放都市偕遊,zh-TW
+La versión actual no es compatible con este personaje para Convivencia urbana.,當前版本該角色暫未開放都市偕遊,zh-TW
+Текущая версия не поддерживает этого персонажа для «Городского единения».,當前版本該角色暫未開放都市偕遊,zh-TW
+Cooldown,技能冷卻時間,zh-TW
+技能冷却时间,技能冷卻時間,zh-TW
+スキルクールダウン,技能冷卻時間,zh-TW
+스킬 쿨타임,技能冷卻時間,zh-TW
+Abklingzeit,技能冷卻時間,zh-TW
+Temps de recharge,技能冷卻時間,zh-TW
+Enfriamiento,技能冷卻時間,zh-TW
+Перезарядка,技能冷卻時間,zh-TW
+Duration,技能持續時間,zh-TW
+技能持续时间,技能持續時間,zh-TW
+スキル持続時間,技能持續時間,zh-TW
+스킬 지속 시간,技能持續時間,zh-TW
+Dauer,技能持續時間,zh-TW
+Durée,技能持續時間,zh-TW
+Duración,技能持續時間,zh-TW
+Длительность,技能持續時間,zh-TW
+Targets,技能目標數量,zh-TW
+技能目标数量,技能目標數量,zh-TW
+スキル対象数,技能目標數量,zh-TW
+스킬 목표 수,技能目標數量,zh-TW
+Ziele,技能目標數量,zh-TW
+Cibles,技能目標數量,zh-TW
+Objetivos,技能目標數量,zh-TW
+Цели,技能目標數量,zh-TW
+Level Up,技能等級提升,zh-TW
+技能等级提升,技能等級提升,zh-TW
+スキルレベルアップ,技能等級提升,zh-TW
+스킬 레벨 상승,技能等級提升,zh-TW
+Levelaufstieg,技能等級提升,zh-TW
+Montée de niveau,技能等級提升,zh-TW
+Subir de nivel,技能等級提升,zh-TW
+Повышение уровня,技能等級提升,zh-TW
+Range,技能範圍,zh-TW
+技能范围,技能範圍,zh-TW
+スキル範囲,技能範圍,zh-TW
+스킬 범위,技能範圍,zh-TW
+Reichweite,技能範圍,zh-TW
+Portée,技能範圍,zh-TW
+Alcance,技能範圍,zh-TW
+Радиус действия,技能範圍,zh-TW
+Attempts,技能釋放次數,zh-TW
+技能释放次数,技能釋放次數,zh-TW
+スキル発動回数,技能釋放次數,zh-TW
+스킬 발동 횟수,技能釋放次數,zh-TW
+Versuche,技能釋放次數,zh-TW
+Tentatives,技能釋放次數,zh-TW
+Intentos,技能釋放次數,zh-TW
+Попытки,技能釋放次數,zh-TW
+Challenge Successful,挑戰成功,zh-TW
+挑战成功,挑戰成功,zh-TW
+挑戦成功,挑戰成功,zh-TW
+챌린지 성공,挑戰成功,zh-TW
+Herausforderung geschafft,挑戰成功,zh-TW
+Défi réussi,挑戰成功,zh-TW
+Desafío superado,挑戰成功,zh-TW
+Испытание пройдено,挑戰成功,zh-TW
+Tip,提示,zh-TW
+ヒント,提示,zh-TW
+Tips,提示,zh-TW
+Hinweis,提示,zh-TW
+Conseil,提示,zh-TW
+Consejo,提示,zh-TW
+Подсказка,提示,zh-TW
+Saga of Infinity Mode,無盡挑戰模式,zh-TW
+无尽挑战模式,無盡挑戰模式,zh-TW
+無限挑戦モード,無盡挑戰模式,zh-TW
+무한 챌린지 모드,無盡挑戰模式,zh-TW
+Modus „Saga der Unendlichkeit“,無盡挑戰模式,zh-TW
+Mode Saga de l’infini,無盡挑戰模式,zh-TW
+Modo Saga del infinito,無盡挑戰模式,zh-TW
+Режим «Сага о бесконечности»,無盡挑戰模式,zh-TW
+Exit Order Mode?,是否確認退出接單模式?,zh-TW
+是否确认退出接单模式?,是否確認退出接單模式?,zh-TW
+配車受付を終了しますか？,是否確認退出接單模式?,zh-TW
+콜 수락 모드를 종료하시겠습니까?,是否確認退出接單模式?,zh-TW
+Auftragsmodus verlassen?,是否確認退出接單模式?,zh-TW
+Quitter le mode commande ?,是否確認退出接單模式?,zh-TW
+¿Quieres salir del modo pedido?,是否確認退出接單模式?,zh-TW
+Выйти из режима заказов?,是否確認退出接單模式?,zh-TW
+Character Pixels,本性像素,zh-TW
+本性ピクセル,本性像素,zh-TW
+본성 픽셀,本性像素,zh-TW
+Charakter-Pixel,本性像素,zh-TW
+Pixels de personnage,本性像素,zh-TW
+Píxeles de carácter,本性像素,zh-TW
+Пиксели эспера,本性像素,zh-TW
+Simulation Drill I,模擬演習-1,zh-TW
+模拟演习-1,模擬演習-1,zh-TW
+실전 훈련-1,模擬演習-1,zh-TW
+Simulationsübung I,模擬演習-1,zh-TW
+Exercice de simulation I,模擬演習-1,zh-TW
+Simulacro I,模擬演習-1,zh-TW
+Тренировочная симуляция I,模擬演習-1,zh-TW
+Simulation Drill II,模擬演習-2,zh-TW
+模拟演习-2,模擬演習-2,zh-TW
+실전 훈련-2,模擬演習-2,zh-TW
+Simulationsübung II,模擬演習-2,zh-TW
+Exercice de simulation II,模擬演習-2,zh-TW
+Simulacro II,模擬演習-2,zh-TW
+Тренировочная симуляция II,模擬演習-2,zh-TW
+Simulation Drill III,模擬演習-3,zh-TW
+模拟演习-3,模擬演習-3,zh-TW
+실전 훈련-3,模擬演習-3,zh-TW
+Simulationsübung III,模擬演習-3,zh-TW
+Exercice de simulation III,模擬演習-3,zh-TW
+Simulacro III,模擬演習-3,zh-TW
+Тренировочная симуляция III,模擬演習-3,zh-TW
+Simulation Drill IV,模擬演習-4,zh-TW
+模拟演习-4,模擬演習-4,zh-TW
+실전 훈련-4,模擬演習-4,zh-TW
+Simulationsübung IV,模擬演習-4,zh-TW
+Exercice de simulation IV,模擬演習-4,zh-TW
+Simulacro IV,模擬演習-4,zh-TW
+Тренировочная симуляция IV,模擬演習-4,zh-TW
+Simulation Drill V,模擬演習-5,zh-TW
+模拟演习-5,模擬演習-5,zh-TW
+실전 훈련-5,模擬演習-5,zh-TW
+Simulationsübung V,模擬演習-5,zh-TW
+Exercice de simulation V,模擬演習-5,zh-TW
+Simulacro V,模擬演習-5,zh-TW
+Тренировочная симуляция V,模擬演習-5,zh-TW
+Simulation Drill VI,模擬演習-6,zh-TW
+模拟演习-6,模擬演習-6,zh-TW
+실전 훈련-6,模擬演習-6,zh-TW
+Simulationsübung VI,模擬演習-6,zh-TW
+Exercice de simulation VI,模擬演習-6,zh-TW
+Simulacro VI,模擬演習-6,zh-TW
+Тренировочная симуляция VI,模擬演習-6,zh-TW
+Engaged in another City Mode.,正在進行其他城市玩法,zh-TW
+正在进行其他城市玩法,正在進行其他城市玩法,zh-TW
+ほかの都市コンテンツを進行中です,正在進行其他城市玩法,zh-TW
+다른 도시 콘텐츠를 진행 중입니다.,正在進行其他城市玩法,zh-TW
+In einem anderen Stadtmodus beschäftigt.,正在進行其他城市玩法,zh-TW
+Engagé dans un autre Mode urbain.,正在進行其他城市玩法,zh-TW
+Activo en otro modo ciudad.,正在進行其他城市玩法,zh-TW
+Сейчас в другом городском режиме.,正在進行其他城市玩法,zh-TW
+"During the event, City Stamina consumption is doubled in Hethereau Hobbies.",活動期間，在「都市閒趣」玩法中2倍消耗「都市活力」,zh-TW
+活动期间，在「都市闲趣」玩法中2倍消耗「都市活力」,活動期間，在「都市閒趣」玩法中2倍消耗「都市活力」,zh-TW
+イベント期間中、「シティライフ」での「シティスタミナ」消費量が2倍になります。,活動期間，在「都市閒趣」玩法中2倍消耗「都市活力」,zh-TW
+이벤트 기간 동안 「도시 일상」 콘텐츠에서 「도시 활력제」를 2배로 소모합니다,活動期間，在「都市閒趣」玩法中2倍消耗「都市活力」,zh-TW
+Während des Events wird der Verbrauch von Stadt-Ausdauer in Hethereau-Hobbys verdoppelt.,活動期間，在「都市閒趣」玩法中2倍消耗「都市活力」,zh-TW
+"Pendant l’événement, la consommation d’endurance urbaine est doublée dans Hobbies d’Hethereau.",活動期間，在「都市閒趣」玩法中2倍消耗「都市活力」,zh-TW
+"Durante el evento, el consumo de Vigor urbano se duplica en Aficiones en Hethereau.",活動期間，在「都市閒趣」玩法中2倍消耗「都市活力」,zh-TW
+Во время события расход выносливости в городе в «Увлечения в Этеро» увеличивается вдвое.,活動期間，在「都市閒趣」玩法中2倍消耗「都市活力」,zh-TW
+Annulith Exchange,環石兌換,zh-TW
+环石兑换,環石兌換,zh-TW
+円石交換,環石兌換,zh-TW
+환석 교환,環石兌換,zh-TW
+Annulith-Austausch,環石兌換,zh-TW
+Échange d’Annulith,環石兌換,zh-TW
+Intercambio de arolita,環石兌換,zh-TW
+Обмен аннулита,環石兌換,zh-TW
+Birthday Display,生日顯示設置,zh-TW
+生日显示设置,生日顯示設置,zh-TW
+誕生日の表示設定,生日顯示設置,zh-TW
+생일 표시 설정,生日顯示設置,zh-TW
+Geburtstags-Anzeige,生日顯示設置,zh-TW
+Affichage de la date de naissance,生日顯示設置,zh-TW
+Visualización de cumpleaños,生日顯示設置,zh-TW
+Показывать день рождения,生日顯示設置,zh-TW
+Confirm Name,確認名稱,zh-TW
+确认名称,確認名稱,zh-TW
+名前を確認,確認名稱,zh-TW
+이름 확인,確認名稱,zh-TW
+Name bestätigen,確認名稱,zh-TW
+Confirmer le nom,確認名稱,zh-TW
+Confirmar nombre,確認名稱,zh-TW
+Подтвердите имя,確認名稱,zh-TW
+Confirm Pull,確認抽取,zh-TW
+确认抽取,確認抽取,zh-TW
+引く,確認抽取,zh-TW
+확인,確認抽取,zh-TW
+Ziehen bestätigen,確認抽取,zh-TW
+Confirmer le tirage,確認抽取,zh-TW
+Confirmar tirada,確認抽取,zh-TW
+Подтвердить розыгрыш,確認抽取,zh-TW
+Heart of Bond,羈遇之心,zh-TW
+羁遇之心,羈遇之心,zh-TW
+心の絆,羈遇之心,zh-TW
+인연의 마음,羈遇之心,zh-TW
+Herz der Bindung,羈遇之心,zh-TW
+Cœur du lien,羈遇之心,zh-TW
+Corazón de vínculo,羈遇之心,zh-TW
+Сердце связи,羈遇之心,zh-TW
+Character Display,角色展示設置,zh-TW
+角色展示设置,角色展示設置,zh-TW
+キャラ表示設定,角色展示設置,zh-TW
+캐릭터 표시 설정,角色展示設置,zh-TW
+Charakteranzeige,角色展示設置,zh-TW
+Affichage du personnage,角色展示設置,zh-TW
+Visualización de personaje,角色展示設置,zh-TW
+Отображение персонажа,角色展示設置,zh-TW
+Your order has timed out. Continue matching new orders?,訂單已超時，是否繼續匹配新的訂單？,zh-TW
+订单已超时，是否继续匹配新的订单？,訂單已超時，是否繼續匹配新的訂單？,zh-TW
+タイムアウトしました。再マッチングしますか？,訂單已超時，是否繼續匹配新的訂單？,zh-TW
+시간이 초과되었습니다. 새로운 콜을 계속 대기하시겠습니까?,訂單已超時，是否繼續匹配新的訂單？,zh-TW
+Deine Bestellung wurde abgebrochen. Neue Aufträge weiter abgleichen?,訂單已超時，是否繼續匹配新的訂單？,zh-TW
+Votre commande a expiré. Continuer à rechercher de nouvelles commandes ?,訂單已超時，是否繼續匹配新的訂單？,zh-TW
+Tu pedido ha expirado. ¿Deseas seguir con los nuevos pedidos?,訂單已超時，是否繼續匹配新的訂單？,zh-TW
+Ваш заказ просрочен. Продолжить подбор новых заказов?,訂單已超時，是否繼續匹配新的訂單？,zh-TW
+Feature locked.,該功能尚未解鎖,zh-TW
+该功能尚未解锁,該功能尚未解鎖,zh-TW
+この機能は未解放です,該功能尚未解鎖,zh-TW
+아직 해제되지 않은 기능입니다,該功能尚未解鎖,zh-TW
+Funktion gesperrt.,該功能尚未解鎖,zh-TW
+Fonctionnalité verrouillée,該功能尚未解鎖,zh-TW
+Función bloqueada.,該功能尚未解鎖,zh-TW
+Функция заблокирована.,該功能尚未解鎖,zh-TW
+Runaway Echoes,軌外迴響,zh-TW
+轨外回响,軌外迴響,zh-TW
+軌道外ブレイク,軌外迴響,zh-TW
+궤도 너머의 메아리,軌外迴響,zh-TW
+Entfesselte Echos,軌外迴響,zh-TW
+Échos en fuite,軌外迴響,zh-TW
+Ecos desbocados,軌外迴響,zh-TW
+Беглые отголоски,軌外迴響,zh-TW
+Exiting the vehicle will cancel your current order. Confirm?,送客途中下車將退出接單模式，是否確認？,zh-TW
+送客途中下车将退出接单模式，是否确认？,送客途中下車將退出接單模式，是否確認？,zh-TW
+送迎中に降車すると受注モードが終了します。よろしいですか？,送客途中下車將退出接單模式，是否確認？,zh-TW
+승객 탑승 중에 하차하면 콜 수락 모드가 종료됩니다. 계속하시겠습니까?,送客途中下車將退出接單模式，是否確認？,zh-TW
+"Wenn du das Fahrzeug verlässt, wird deine aktuelle Bestellung storniert. Bestätigen?",送客途中下車將退出接單模式，是否確認？,zh-TW
+"Si vous sortez du véhicule, votre commande en cours sera annulée. Confirmer ?",送客途中下車將退出接單模式，是否確認？,zh-TW
+Salir del vehículo cancelará tu pedido actual. ¿Confirmar?,送客途中下車將退出接單模式，是否確認？,zh-TW
+Выход из транспорта приведет к отмене текущего заказа. Подтвердить?,送客途中下車將退出接單模式，是否確認？,zh-TW
+City Stamina,都市活力,zh-TW
+シティスタミナ,都市活力,zh-TW
+도시 활력제,都市活力,zh-TW
+Stadt-Ausdauer,都市活力,zh-TW
+Endurance urbaine,都市活力,zh-TW
+Vigor urbano,都市活力,zh-TW
+Выносливость в городе,都市活力,zh-TW
+GM account cannot be logged in from current IP.,GM帳號無法在當前IP登入,zh-TW
+GM账号无法在当前IP登录,GM帳號無法在當前IP登入,zh-TW
+このIPアドレスから、GMアカウントへのログインはできません,GM帳號無法在當前IP登入,zh-TW
+GM 계정은 현재 IP에서 로그인할 수 없습니다,GM帳號無法在當前IP登入,zh-TW
+GM-Konto darf nicht mit der aktuellen IP angemeldet sein.,GM帳號無法在當前IP登入,zh-TW
+Connexion au compte GM impossible à partir de cette adresse IP.,GM帳號無法在當前IP登入,zh-TW
+No puedes iniciar sesión como una cuenta GM desde tu IP actual.,GM帳號無法在當前IP登入,zh-TW
+В аккаунт ГМ нельзя зайти с текущего IP.,GM帳號無法在當前IP登入,zh-TW
+HTTP parameter error.,Http參數錯誤,zh-TW
+Http参数错误,Http參數錯誤,zh-TW
+Webパラメータエラー,Http參數錯誤,zh-TW
+HTTP 파라미터 오류,Http參數錯誤,zh-TW
+HTTP-Parameterfehler.,Http參數錯誤,zh-TW
+Erreur de paramètre HTTP.,Http參數錯誤,zh-TW
+Error del parámetro HTTP.,Http參數錯誤,zh-TW
+Ошибка параметров HTTP.,Http參數錯誤,zh-TW
+Server issue detected.,Http伺服器錯誤,zh-TW
+Http服务器错误,Http伺服器錯誤,zh-TW
+Webサーバーエラー,Http伺服器錯誤,zh-TW
+HTTP 서버 오류,Http伺服器錯誤,zh-TW
+Serverfehler erkannt.,Http伺服器錯誤,zh-TW
+Problème de serveur détecté.,Http伺服器錯誤,zh-TW
+Se detectó un problema con el servidor.,Http伺服器錯誤,zh-TW
+Обнаружена проблема с сервером.,Http伺服器錯誤,zh-TW
+HTTP timed out.,Http超時,zh-TW
+Http超时,Http超時,zh-TW
+接続がタイムアウトしました,Http超時,zh-TW
+HTTP 시간 초과,Http超時,zh-TW
+HTTP-Zeitüberschreitung.,Http超時,zh-TW
+Délai HTTP expiré.,Http超時,zh-TW
+Tiempo de espera del HTTP agotado.,Http超時,zh-TW
+Превышено время ожидания запроса HTTP.,Http超時,zh-TW
+PubData already exists for this account.,PubData已存在,zh-TW
+PUBデータがすでに存在しています,PubData已存在,zh-TW
+이미 존재하는 PubData입니다,PubData已存在,zh-TW
+PubData existiert bereits für dieses Konto.,PubData已存在,zh-TW
+PubData existe déjà pour ce compte.,PubData已存在,zh-TW
+Ya existe PubData para esta cuenta.,PubData已存在,zh-TW
+Для этого аккаунта уже существует PubData.,PubData已存在,zh-TW
+Token error.,Token錯誤,zh-TW
+Token错误,Token錯誤,zh-TW
+トークンエラー,Token錯誤,zh-TW
+토큰 오류,Token錯誤,zh-TW
+Token-Fehler.,Token錯誤,zh-TW
+Erreur de jeton.,Token錯誤,zh-TW
+Error de Token.,Token錯誤,zh-TW
+Ошибка жетона.,Token錯誤,zh-TW
+UID error.,UID錯誤,zh-TW
+UID错误,UID錯誤,zh-TW
+UIDエラー,UID錯誤,zh-TW
+UID 오류,UID錯誤,zh-TW
+UID-Fehler.,UID錯誤,zh-TW
+Erreur UID.,UID錯誤,zh-TW
+Error de UID.,UID錯誤,zh-TW
+Ошибка UID.,UID錯誤,zh-TW
+UID error.,Uid錯誤,zh-TW
+Uid错误,Uid錯誤,zh-TW
+UIDエラー,Uid錯誤,zh-TW
+UID 오류,Uid錯誤,zh-TW
+UID-Fehler.,Uid錯誤,zh-TW
+Erreur UID.,Uid錯誤,zh-TW
+Error de UID.,Uid錯誤,zh-TW
+Ошибка UID.,Uid錯誤,zh-TW
+Not on the local server.,不在本機伺服器中,zh-TW
+不在本地服务器中,不在本機伺服器中,zh-TW
+ローカルサーバーに存在しません,不在本機伺服器中,zh-TW
+로컬 서버에 없습니다,不在本機伺服器中,zh-TW
+Nicht auf dem lokalen Server.,不在本機伺服器中,zh-TW
+Pas sur le serveur local.,不在本機伺服器中,zh-TW
+No se encuentra en el servidor local.,不在本機伺服器中,zh-TW
+Не на локальном сервере.,不在本機伺服器中,zh-TW
+Invalid transaction UID.,交易Uid錯誤,zh-TW
+交易Uid错误,交易Uid錯誤,zh-TW
+取引UIDが存在しません,交易Uid錯誤,zh-TW
+거래 UID 오류,交易Uid錯誤,zh-TW
+Ungültige Transaktions-UID.,交易Uid錯誤,zh-TW
+UID de transaction invalide.,交易Uid錯誤,zh-TW
+UID de transacción inválida.,交易Uid錯誤,zh-TW
+Неверный UID транзакции.,交易Uid錯誤,zh-TW
+Transaction parameter error.,交易參數錯誤,zh-TW
+交易参数错误,交易參數錯誤,zh-TW
+取引パラメータエラー,交易參數錯誤,zh-TW
+거래 파라미터 오류,交易參數錯誤,zh-TW
+Fehler bei Transaktionsparametern.,交易參數錯誤,zh-TW
+Erreur de paramètre de transaction.,交易參數錯誤,zh-TW
+Error en los parámetros de transacción.,交易參數錯誤,zh-TW
+Ошибка параметра транзакции.,交易參數錯誤,zh-TW
+Teleport Center,傳送中心,zh-TW
+传送中心,傳送中心,zh-TW
+転送センター,傳送中心,zh-TW
+텔레포트 센터,傳送中心,zh-TW
+Teleportationszentrum,傳送中心,zh-TW
+Centre de téléportation,傳送中心,zh-TW
+Centro de teletransporte,傳送中心,zh-TW
+Центр телепортации,傳送中心,zh-TW
+Teleport Center on cooldown.,傳送中心CD,zh-TW
+传送中心CD,傳送中心CD,zh-TW
+転送センターCD中,傳送中心CD,zh-TW
+텔레포트 센터 대기시간,傳送中心CD,zh-TW
+Teleportationszentrum in Abklingzeit.,傳送中心CD,zh-TW
+Centre de téléportation en recharge.,傳送中心CD,zh-TW
+Centro de teletransporte en enfriamiento.,傳送中心CD,zh-TW
+Центр телепортации перезаряжается.,傳送中心CD,zh-TW
+Teleport Center database error.,傳送中心DB錯誤,zh-TW
+传送中心DB错误,傳送中心DB錯誤,zh-TW
+転送センターDBエラー,傳送中心DB錯誤,zh-TW
+텔레포트 센터 DB 오류,傳送中心DB錯誤,zh-TW
+Teleportationszentrum-Datenbankfehler.,傳送中心DB錯誤,zh-TW
+Erreur de base de données du centre de téléportation.,傳送中心DB錯誤,zh-TW
+Error en la base de datos del centro de teletransporte.,傳送中心DB錯誤,zh-TW
+Ошибка базы данных центра телепортации.,傳送中心DB錯誤,zh-TW
+Teleport Center closed.,傳送中心已結束,zh-TW
+传送中心已结束,傳送中心已結束,zh-TW
+転送センター停止,傳送中心已結束,zh-TW
+텔레포트 센터 종료,傳送中心已結束,zh-TW
+Teleportationszentrum geschlossen.,傳送中心已結束,zh-TW
+Centre de téléportation fermé.,傳送中心已結束,zh-TW
+Centro de teletransporte cerrado.,傳送中心已結束,zh-TW
+Центр телепортации закрыт.,傳送中心已結束,zh-TW
+Teleport Center Server disconnected.,傳送中心遊戲服已斷線,zh-TW
+传送中心游戏服已掉线,傳送中心遊戲服已斷線,zh-TW
+転送先サーバーオフライン,傳送中心遊戲服已斷線,zh-TW
+텔레포트 센터 게임 서버 연결이 끊겼습니다,傳送中心遊戲服已斷線,zh-TW
+Verbindung zum Teleportationszentrum-Server getrennt.,傳送中心遊戲服已斷線,zh-TW
+Serveur du centre de téléportation déconnecté.,傳送中心遊戲服已斷線,zh-TW
+Servidor del centro de teletransporte desconectado.,傳送中心遊戲服已斷線,zh-TW
+Сервер центра телепортации отключен.,傳送中心遊戲服已斷線,zh-TW
+Login to Teleport Center Server is restricted.,傳送禁止登入,zh-TW
+传送禁止登录,傳送禁止登入,zh-TW
+現在、サーバー移動はできません,傳送禁止登入,zh-TW
+텔레포트 중에는 로그인할 수 없습니다,傳送禁止登入,zh-TW
+Anmeldung im Teleportationszentrum-Server ist eingeschränkt.,傳送禁止登入,zh-TW
+La connexion au serveur du centre de téléportation est restreinte.,傳送禁止登入,zh-TW
+Inicio de sesión al servidor del centro de teletransporte restringido.,傳送禁止登入,zh-TW
+Вход на сервер центра телепортации ограничен.,傳送禁止登入,zh-TW
+Invalid Line ID.,分線ID錯誤,zh-TW
+分线ID错误,分線ID錯誤,zh-TW
+分配IDエラー,分線ID錯誤,zh-TW
+채널 ID 오류,分線ID錯誤,zh-TW
+Ungültige Line-ID.,分線ID錯誤,zh-TW
+ID de ligne invalide.,分線ID錯誤,zh-TW
+Línea de ID inválida.,分線ID錯誤,zh-TW
+Неверный ID строки.,分線ID錯誤,zh-TW
+Character creation parameter error.,創建角色參數錯誤,zh-TW
+创建角色参数错误,創建角色參數錯誤,zh-TW
+キャラ作成パラメータエラー,創建角色參數錯誤,zh-TW
+캐릭터 생성 파라미터 오류,創建角色參數錯誤,zh-TW
+Charakter-Erstellung-Parameter-Fehler.,創建角色參數錯誤,zh-TW
+Erreur de paramètre de création de caractère.,創建角色參數錯誤,zh-TW
+Error en los parámetros de creación de personaje.,創建角色參數錯誤,zh-TW
+Ошибка параметров создания персонажа.,創建角色參數錯誤,zh-TW
+Encryption error.,加密錯誤,zh-TW
+加密错误,加密錯誤,zh-TW
+暗号化エラー,加密錯誤,zh-TW
+암호화 오류,加密錯誤,zh-TW
+Verschlüsselungsfehler.,加密錯誤,zh-TW
+Erreur de chiffrement.,加密錯誤,zh-TW
+Error de encriptación.,加密錯誤,zh-TW
+Ошибка шифрования.,加密錯誤,zh-TW
+Matchmaking Server,匹配服,zh-TW
+マッチングサーバー,匹配服,zh-TW
+매칭 서버,匹配服,zh-TW
+Spielersuche-Server,匹配服,zh-TW
+Serveur de matchmaking,匹配服,zh-TW
+Servidor de emparejamiento,匹配服,zh-TW
+Сервер подбора,匹配服,zh-TW
+Error sending reward to Game Server.,發放獎勵到遊戲服錯誤,zh-TW
+发放奖励到游戏服错误,發放獎勵到遊戲服錯誤,zh-TW
+報酬送信エラー,發放獎勵到遊戲服錯誤,zh-TW
+게임 서버로 보상 지급 오류,發放獎勵到遊戲服錯誤,zh-TW
+Fehler beim Versenden von Belohnungen an Spielserver.,發放獎勵到遊戲服錯誤,zh-TW
+Erreur lors de l’envoi de récompense au serveur de jeu.,發放獎勵到遊戲服錯誤,zh-TW
+Error al enviar recompensa al servidor de juego.,發放獎勵到遊戲服錯誤,zh-TW
+Ошибка при отправке награды на игровой сервер.,發放獎勵到遊戲服錯誤,zh-TW
+Data transmission failed.,發送資料失敗,zh-TW
+发送数据失败,發送資料失敗,zh-TW
+データ送信エラー,發送資料失敗,zh-TW
+데이터 전송 실패,發送資料失敗,zh-TW
+Datenübertragung fehlgeschlagen.,發送資料失敗,zh-TW
+Échec de la transmission des données.,發送資料失敗,zh-TW
+Error en la transmisión de datos.,發送資料失敗,zh-TW
+Ошибка передачи данных.,發送資料失敗,zh-TW
+Other login session kicked out.,同帳號踢出,zh-TW
+同账号踢出,同帳號踢出,zh-TW
+他の端末からログインがありました,同帳號踢出,zh-TW
+동일 계정 접속으로 로그아웃되었습니다,同帳號踢出,zh-TW
+Andere Anmeldungssitzung wurde abgemeldet.,同帳號踢出,zh-TW
+Autre session de connexion interrompue.,同帳號踢出,zh-TW
+Se expulsó al otro inicio de sesión con la misma cuenta.,同帳號踢出,zh-TW
+Другая сессия входа отключена.,同帳號踢出,zh-TW
+Namecard Server,名片服,zh-TW
+プロフテーマサーバー,名片服,zh-TW
+명함 서버,名片服,zh-TW
+Namenskarte-Server,名片服,zh-TW
+Serveur de cartes nominatives,名片服,zh-TW
+Servidor de tarjetas de presentación,名片服,zh-TW
+Сервер карточек имени,名片服,zh-TW
+The Namecard Server already exists.,名片服已存在,zh-TW
+すでに使用されています,名片服已存在,zh-TW
+명함 서버가 이미 존재합니다.,名片服已存在,zh-TW
+Dieser Namenskarte-Server existiert bereits.,名片服已存在,zh-TW
+Le serveur de cartes nominatives existe déjà.,名片服已存在,zh-TW
+El servidor de tarjetas de presentación ya existe.,名片服已存在,zh-TW
+Сервер карточек имени уже существует.,名片服已存在,zh-TW
+Scenario Server,場景服,zh-TW
+场景服,場景服,zh-TW
+シーンサーバー,場景服,zh-TW
+필드 서버,場景服,zh-TW
+Szenarioserver,場景服,zh-TW
+Serveur de scénarios,場景服,zh-TW
+Servidor de escenarios/mapas,場景服,zh-TW
+Сервер сценариев,場景服,zh-TW
+Lobby Server,大廳服,zh-TW
+大厅服,大廳服,zh-TW
+ロビーサーバー,大廳服,zh-TW
+로비 서버,大廳服,zh-TW
+Lobby-Server,大廳服,zh-TW
+Serveur de lobby,大廳服,zh-TW
+Servidor de recepción,大廳服,zh-TW
+Сервер лобби,大廳服,zh-TW
+Friends,好友,zh-TW
+フレンド,好友,zh-TW
+친구,好友,zh-TW
+Freunde,好友,zh-TW
+Amis,好友,zh-TW
+Amistades,好友,zh-TW
+Друзья,好友,zh-TW
+Friend UID error.,好友UID錯誤,zh-TW
+好友UID错误,好友UID錯誤,zh-TW
+フレンドのUIDエラー,好友UID錯誤,zh-TW
+친구 UID 오류,好友UID錯誤,zh-TW
+Freunde-UID-Fehler.,好友UID錯誤,zh-TW
+Erreur UID de l’ami.,好友UID錯誤,zh-TW
+Error en la UID de tu amistad.,好友UID錯誤,zh-TW
+Ошибка UID друга.,好友UID錯誤,zh-TW
+Friend limit reached.,好友上限,zh-TW
+フレンド数上限,好友上限,zh-TW
+친구 상한 도달,好友上限,zh-TW
+Limit für Freunde erreicht.,好友上限,zh-TW
+Limite d’amis atteinte.,好友上限,zh-TW
+Se alcanzó el límite de amistades.,好友上限,zh-TW
+Достигнут лимит друзей.,好友上限,zh-TW
+You've already added this friend.,好友已存在,zh-TW
+すでにフレンド登録されています,好友已存在,zh-TW
+이미 등록된 친구입니다,好友已存在,zh-TW
+Du hast diesen Freund bereits hinzugefügt.,好友已存在,zh-TW
+Vous avez déjà ajouté cet ami.,好友已存在,zh-TW
+Ya agregaste a esta amistad.,好友已存在,zh-TW
+Вы уже добавили этого друга.,好友已存在,zh-TW
+Wrong friend search type.,好友搜尋類型錯誤,zh-TW
+好友搜索类型错误,好友搜尋類型錯誤,zh-TW
+フレンドの検索タイプエラー,好友搜尋類型錯誤,zh-TW
+친구 검색 유형 오류,好友搜尋類型錯誤,zh-TW
+Falscher Freundsuche-Typ.,好友搜尋類型錯誤,zh-TW
+Type de recherche d’ami incorrect.,好友搜尋類型錯誤,zh-TW
+Tipo de búsqueda de amistades incorrecto.,好友搜尋類型錯誤,zh-TW
+Неправильный тип поиска друга.,好友搜尋類型錯誤,zh-TW
+Friend Server database error.,好友服DB錯誤,zh-TW
+好友服DB错误,好友服DB錯誤,zh-TW
+フレンドサーバーのデータベースエラー,好友服DB錯誤,zh-TW
+친구 서버 DB 오류,好友服DB錯誤,zh-TW
+Freundeserver-Datenbankfehler.,好友服DB錯誤,zh-TW
+Erreur de base de données du serveur ami.,好友服DB錯誤,zh-TW
+Error en la base de datos del servidor de amistades.,好友服DB錯誤,zh-TW
+Ошибка базы данных сервера друга.,好友服DB錯誤,zh-TW
+Friend not found.,好友未找到,zh-TW
+フレンドが見つかりませんでした,好友未找到,zh-TW
+친구를 찾을 수 없습니다,好友未找到,zh-TW
+Freund nicht gefunden.,好友未找到,zh-TW
+Ami introuvable.,好友未找到,zh-TW
+Amistad no encontrada.,好友未找到,zh-TW
+Друг не найден.,好友未找到,zh-TW
+Storage,儲存,zh-TW
+存储,儲存,zh-TW
+保存,儲存,zh-TW
+저장,儲存,zh-TW
+Speicher,儲存,zh-TW
+Stockage,儲存,zh-TW
+Almacenamiento,儲存,zh-TW
+Хранение,儲存,zh-TW
+Failed to save data.,儲存資料失敗,zh-TW
+存储数据失败,儲存資料失敗,zh-TW
+データ保存エラー,儲存資料失敗,zh-TW
+데이터 저장 실패,儲存資料失敗,zh-TW
+Speichern der Daten fehlgeschlagen.,儲存資料失敗,zh-TW
+Échec de l’enregistrement des données.,儲存資料失敗,zh-TW
+No se pudieron guardar los datos.,儲存資料失敗,zh-TW
+Не удалось сохранить данные.,儲存資料失敗,zh-TW
+Storage Server database error.,儲存服DB錯誤,zh-TW
+存储服DB错误,儲存服DB錯誤,zh-TW
+データベースでエラーが発生しました,儲存服DB錯誤,zh-TW
+저장 서버 DB 오류,儲存服DB錯誤,zh-TW
+Speicherserver-Datenbankfehler.,儲存服DB錯誤,zh-TW
+Erreur de base de données du serveur de stockage.,儲存服DB錯誤,zh-TW
+Error en la base de datos del servidor de almacenamiento.,儲存服DB錯誤,zh-TW
+Ошибка базы данных сервера хранения.,儲存服DB錯誤,zh-TW
+Storage type error.,儲存類型錯誤,zh-TW
+存储类型错误,儲存類型錯誤,zh-TW
+保存タイプエラー,儲存類型錯誤,zh-TW
+저장 유형 오류,儲存類型錯誤,zh-TW
+Speichertyp-Fehler.,儲存類型錯誤,zh-TW
+Erreur de type de stockage.,儲存類型錯誤,zh-TW
+Error en el tipo de almacenamiento.,儲存類型錯誤,zh-TW
+Ошибка типа хранилища.,儲存類型錯誤,zh-TW
+Failed to save.,存檔異常,zh-TW
+存档异常,存檔異常,zh-TW
+アーカイブ異常,存檔異常,zh-TW
+저장 데이터 오류,存檔異常,zh-TW
+Speichern fehlgeschlagen.,存檔異常,zh-TW
+Échec de l’enregistrement.,存檔異常,zh-TW
+No se pudo guardar.,存檔異常,zh-TW
+Не удалось сохранить.,存檔異常,zh-TW
+Incorrect password.,密碼錯誤,zh-TW
+密码错误,密碼錯誤,zh-TW
+パスワードが一致しません,密碼錯誤,zh-TW
+비밀번호 오류,密碼錯誤,zh-TW
+Falsches Passwort.,密碼錯誤,zh-TW
+Mot de passe incorrect.,密碼錯誤,zh-TW
+Contraseña incorrecta.,密碼錯誤,zh-TW
+Неверный пароль.,密碼錯誤,zh-TW
+Switched.,已切換,zh-TW
+已切换,已切換,zh-TW
+切替成功,已切換,zh-TW
+전환 완료,已切換,zh-TW
+Gewechselt.,已切換,zh-TW
+Permuté.,已切換,zh-TW
+Cambiado.,已切換,zh-TW
+Переключено.,已切換,zh-TW
+Disconnected.,已斷線,zh-TW
+已掉线,已斷線,zh-TW
+オフラインになりました,已斷線,zh-TW
+접속 끊김,已斷線,zh-TW
+Verbindung getrennt.,已斷線,zh-TW
+Déconnecté.,已斷線,zh-TW
+Desconectado.,已斷線,zh-TW
+Отключение.,已斷線,zh-TW
+The server is not ready. Please try again later.,當前伺服器尚未準備好，請稍後嘗試,zh-TW
+当前服务器尚未准备好，请稍后尝试,當前伺服器尚未準備好，請稍後嘗試,zh-TW
+サーバーは現在利用できません。後ほどお試しください。,當前伺服器尚未準備好，請稍後嘗試,zh-TW
+해당 서버는 아직 준비가 끝나지 않았습니다. 잠시 후 다시 시도하세요.,當前伺服器尚未準備好，請稍後嘗試,zh-TW
+Der Server ist nicht bereit. Bitte versuche es später noch einmal.,當前伺服器尚未準備好，請稍後嘗試,zh-TW
+Le serveur n’est pas disponible. Veuillez réessayer plus tard.,當前伺服器尚未準備好，請稍後嘗試,zh-TW
+El servidor aún no está listo. Inténtalo de nuevo más tarde.,當前伺服器尚未準備好，請稍後嘗試,zh-TW
+Сервер ещё не готов. Повторите попытку позже.,當前伺服器尚未準備好，請稍後嘗試,zh-TW
+Your game version is out of date. Please update to continue.,當前遊戲版本與最新版本不匹配，請更新後繼續體驗,zh-TW
+当前游戏版本与最新版本不匹配，请更新后继续体验,當前遊戲版本與最新版本不匹配，請更新後繼續體驗,zh-TW
+現在のゲームバージョンが最新バージョンと一致しません。プレイを続けるにはアップデートが必要です。,當前遊戲版本與最新版本不匹配，請更新後繼續體驗,zh-TW
+현재 게임 버전이 최신 버전과 일치하지 않습니다. 업데이트 후 다시 이용해 주세요.,當前遊戲版本與最新版本不匹配，請更新後繼續體驗,zh-TW
+"Deine Spielversion ist veraltet. Bitte aktualisieren, um fortzufahren.",當前遊戲版本與最新版本不匹配，請更新後繼續體驗,zh-TW
+La version de votre jeu n’est plus à jour. Veuillez la mettre à jour pour continuer.,當前遊戲版本與最新版本不匹配，請更新後繼續體驗,zh-TW
+Tu versión del juego está desactualizada. Actualízala para continuar.,當前遊戲版本與最新版本不匹配，請更新後繼續體驗,zh-TW
+"Ваша версия игры устарела. Обновите игру, чтобы продолжить.",當前遊戲版本與最新版本不匹配，請更新後繼續體驗,zh-TW
+Room Server,房間服,zh-TW
+房间服,房間服,zh-TW
+ルームサーバー,房間服,zh-TW
+방 서버,房間服,zh-TW
+Raumserver,房間服,zh-TW
+Serveur de salles,房間服,zh-TW
+Servidor de la sala,房間服,zh-TW
+Сервер комнаты,房間服,zh-TW
+Room Server closed.,房間服已結束,zh-TW
+房间服已结束,房間服已結束,zh-TW
+ルームサーバー停止,房間服已結束,zh-TW
+방 서버 종료,房間服已結束,zh-TW
+Raumserver geschlossen.,房間服已結束,zh-TW
+Serveur de salles fermé.,房間服已結束,zh-TW
+Servidor de la sala cerrado.,房間服已結束,zh-TW
+Сервер комнаты закрыт.,房間服已結束,zh-TW
+Room network error.,房間網路錯誤,zh-TW
+房间网络错误,房間網路錯誤,zh-TW
+ルーム通信エラー,房間網路錯誤,zh-TW
+방 네트워크 오류,房間網路錯誤,zh-TW
+Raum-Netzwerkfehler.,房間網路錯誤,zh-TW
+Erreur de réseau du salon.,房間網路錯誤,zh-TW
+Error de la red de la sala.,房間網路錯誤,zh-TW
+Ошибка сети комнаты.,房間網路錯誤,zh-TW
+Leaderboard name error.,排行榜名稱錯誤,zh-TW
+排行榜名称错误,排行榜名稱錯誤,zh-TW
+ランキング名称エラー,排行榜名稱錯誤,zh-TW
+랭킹 이름 오류,排行榜名稱錯誤,zh-TW
+Rangelistenname-Fehler.,排行榜名稱錯誤,zh-TW
+Erreur du nom de classement.,排行榜名稱錯誤,zh-TW
+Error en los nombres de la tabla de clasificación.,排行榜名稱錯誤,zh-TW
+Ошибка имени в списке лидеров.,排行榜名稱錯誤,zh-TW
+No records.,排行榜無資料,zh-TW
+排行榜无数据,排行榜無資料,zh-TW
+ランキングデータがありません,排行榜無資料,zh-TW
+랭킹 데이터 없음,排行榜無資料,zh-TW
+Keine Rekorde,排行榜無資料,zh-TW
+Aucun enregistrement.,排行榜無資料,zh-TW
+No hay registros.,排行榜無資料,zh-TW
+Нет записей.,排行榜無資料,zh-TW
+Leaderboard not found.,排行榜未定義,zh-TW
+排行榜未定义,排行榜未定義,zh-TW
+ランキング未集計,排行榜未定義,zh-TW
+랭킹이 정의되지 않음,排行榜未定義,zh-TW
+Rangliste nicht gefunden.,排行榜未定義,zh-TW
+Classement introuvable.,排行榜未定義,zh-TW
+Tabla de clasificación no encontrada.,排行榜未定義,zh-TW
+Список лидеров не найден.,排行榜未定義,zh-TW
+Data storage,資料儲存,zh-TW
+数据存储,資料儲存,zh-TW
+データ保存,資料儲存,zh-TW
+데이터 저장,資料儲存,zh-TW
+Datenspeicher,資料儲存,zh-TW
+Stockage de données,資料儲存,zh-TW
+Almacenamiento de datos,資料儲存,zh-TW
+Хранение данных,資料儲存,zh-TW
+Data storage error.,資料儲存錯誤,zh-TW
+数据存储错误,資料儲存錯誤,zh-TW
+データ保存エラー,資料儲存錯誤,zh-TW
+데이터 저장 오류,資料儲存錯誤,zh-TW
+Datenspeicher-Fehler.,資料儲存錯誤,zh-TW
+Erreur de stockage de données.,資料儲存錯誤,zh-TW
+Error en el almacenamiento de datos,資料儲存錯誤,zh-TW
+Ошибка хранения данных.,資料儲存錯誤,zh-TW
+Invalid token.,無效Token,zh-TW
+无效Token,無效Token,zh-TW
+無効トークン,無效Token,zh-TW
+유효하지 않은 토큰입니다,無效Token,zh-TW
+Ungültige Marke.,無效Token,zh-TW
+Jeton invalide.,無效Token,zh-TW
+Token inválido.,無效Token,zh-TW
+Неверный жетон.,無效Token,zh-TW
+No permission.,無權限,zh-TW
+无权限,無權限,zh-TW
+権限がありません,無權限,zh-TW
+권한 없음,無權限,zh-TW
+Keine Erlaubnis.,無權限,zh-TW
+Aucune autorisation.,無權限,zh-TW
+Sin permiso.,無權限,zh-TW
+Нет разрешения.,無權限,zh-TW
+No idle instance available.,無空閒副本,zh-TW
+无空闲副本,無空閒副本,zh-TW
+現在、参加可能なダンジョンがありません,無空閒副本,zh-TW
+이용 가능한 던전 없음,無空閒副本,zh-TW
+Keine freie Instanz verfügbar.,無空閒副本,zh-TW
+Aucune instance inactive disponible.,無空閒副本,zh-TW
+No quedan instancias con cupos.,無空閒副本,zh-TW
+Нет доступных экземпляров мира.,無空閒副本,zh-TW
+Chat room not found.,無聊天房間,zh-TW
+无聊天房间,無聊天房間,zh-TW
+チャットルームが存在していません,無聊天房間,zh-TW
+채팅방 없음,無聊天房間,zh-TW
+Chatroom nicht gefunden.,無聊天房間,zh-TW
+Salon de discussion introuvable.,無聊天房間,zh-TW
+Sala de chat no encontrada.,無聊天房間,zh-TW
+Комната чата не найдена.,無聊天房間,zh-TW
+No character found.,無角色,zh-TW
+无角色,無角色,zh-TW
+キャラがありません,無角色,zh-TW
+캐릭터 없음,無角色,zh-TW
+Kein Charakter gefunden.,無角色,zh-TW
+Aucun personnage trouvé.,無角色,zh-TW
+No se encontró personaje.,無角色,zh-TW
+Персонаж не найден.,無角色,zh-TW
+Account not found.,無帳號,zh-TW
+无账号,無帳號,zh-TW
+アカウントが存在しません,無帳號,zh-TW
+계정 없음,無帳號,zh-TW
+Konto nicht gefunden.,無帳號,zh-TW
+Compte introuvable.,無帳號,zh-TW
+Cuenta no encontrada.,無帳號,zh-TW
+Аккаунт не найден.,無帳號,zh-TW
+No error.,無錯誤,zh-TW
+无错误,無錯誤,zh-TW
+エラーなし,無錯誤,zh-TW
+오류 없음,無錯誤,zh-TW
+Kein Fehler.,無錯誤,zh-TW
+Aucune erreur.,無錯誤,zh-TW
+No hay errores.,無錯誤,zh-TW
+Нет ошибок.,無錯誤,zh-TW
+Duplicated Server ID.,伺服器ID重複,zh-TW
+服务器ID重复,伺服器ID重複,zh-TW
+サーバーIDが重複しています,伺服器ID重複,zh-TW
+서버 ID 중복,伺服器ID重複,zh-TW
+Doppelte Server-ID.,伺服器ID重複,zh-TW
+ID de serveur dupliqué.,伺服器ID重複,zh-TW
+ID del servidor duplicada,伺服器ID重複,zh-TW
+ID сервера дублируется.,伺服器ID重複,zh-TW
+Server unavailable.,伺服器不可用,zh-TW
+服务器不可用,伺服器不可用,zh-TW
+サーバーが利用できません,伺服器不可用,zh-TW
+서버 사용 불가,伺服器不可用,zh-TW
+Server nicht verfügbar.,伺服器不可用,zh-TW
+Serveur indisponible.,伺服器不可用,zh-TW
+Servidor no disponible.,伺服器不可用,zh-TW
+Сервер недоступен.,伺服器不可用,zh-TW
+Server capacity reached. Please try again later.,伺服器人數已滿，無法進入遊戲，請稍後重新嘗試,zh-TW
+服务器人数已满，无法进入游戏，请稍后重新尝试,伺服器人數已滿，無法進入遊戲，請稍後重新嘗試,zh-TW
+サーバーが満員のため、ログインできません。しばらくしてから再度お試しください,伺服器人數已滿，無法進入遊戲，請稍後重新嘗試,zh-TW
+서버 인원을 초과했습니다. 잠시 후 다시 시도해 주세요,伺服器人數已滿，無法進入遊戲，請稍後重新嘗試,zh-TW
+Serverkapazität erreicht. Bitte versuche es später erneut.,伺服器人數已滿，無法進入遊戲，請稍後重新嘗試,zh-TW
+Capacité du serveur atteinte. Veuillez réessayer ultérieurement.,伺服器人數已滿，無法進入遊戲，請稍後重新嘗試,zh-TW
+Se alcanzó el límite de la capacidad del servidor. Vuelve a intentarlo.,伺服器人數已滿，無法進入遊戲，請稍後重新嘗試,zh-TW
+Достигнута макс. вместимость сервера. Повторите попытку позже.,伺服器人數已滿，無法進入遊戲，請稍後重新嘗試,zh-TW
+Server capacity reached.,伺服器已滿,zh-TW
+服务器已满,伺服器已滿,zh-TW
+サーバー収容人数が上限に達しました,伺服器已滿,zh-TW
+서버 정원이 초과되었습니다,伺服器已滿,zh-TW
+Serverkapazität erreicht.,伺服器已滿,zh-TW
+Capacité du serveur atteinte.,伺服器已滿,zh-TW
+Se alcanzó el límite de la capacidad del servidor.,伺服器已滿,zh-TW
+Достигнута макс. вместимость сервера.,伺服器已滿,zh-TW
+Server registration failed.,伺服器註冊失敗,zh-TW
+服务器注册失败,伺服器註冊失敗,zh-TW
+サーバーへの登録に失敗しました,伺服器註冊失敗,zh-TW
+서버 등록 실패,伺服器註冊失敗,zh-TW
+Serverregistrierung fehlgeschlagen.,伺服器註冊失敗,zh-TW
+Échec de l’inscription du serveur.,伺服器註冊失敗,zh-TW
+Registro en el servidor fallido.,伺服器註冊失敗,zh-TW
+Ошибка регистрации сервера.,伺服器註冊失敗,zh-TW
+Server is busy.,伺服器繁忙,zh-TW
+服务器繁忙,伺服器繁忙,zh-TW
+サーバーが混雑しています,伺服器繁忙,zh-TW
+서버가 혼잡합니다,伺服器繁忙,zh-TW
+Server ist beschäftigt.,伺服器繁忙,zh-TW
+Le serveur est occupé.,伺服器繁忙,zh-TW
+Servidor ocupado.,伺服器繁忙,zh-TW
+Список занят.,伺服器繁忙,zh-TW
+Character limit reached on the server.,伺服器角色限制,zh-TW
+服务器角色限制,伺服器角色限制,zh-TW
+キャラ作成数が上限に達しています,伺服器角色限制,zh-TW
+서버 캐릭터 제한,伺服器角色限制,zh-TW
+Charakterlimit auf dem Server erreicht.,伺服器角色限制,zh-TW
+Limite de personnages atteinte sur le serveur.,伺服器角色限制,zh-TW
+Se llegó al límite de personajes de este servidor.,伺服器角色限制,zh-TW
+На сервере достигнут лимит персонажей.,伺服器角色限制,zh-TW
+Server not created.,未創建伺服器,zh-TW
+未创建服务器,未創建伺服器,zh-TW
+サーバー未作成,未創建伺服器,zh-TW
+서버 미생성,未創建伺服器,zh-TW
+Server nicht erstellt.,未創建伺服器,zh-TW
+Serveur non créé.,未創建伺服器,zh-TW
+Servidor no creado.,未創建伺服器,zh-TW
+Сервер не создан.,未創建伺服器,zh-TW
+Player not found.,未找到玩家,zh-TW
+対象のプレイヤーが見つかりませんでした,未找到玩家,zh-TW
+플레이어를 찾을 수 없습니다,未找到玩家,zh-TW
+Spieler nicht gefunden.,未找到玩家,zh-TW
+Joueur introuvable.,未找到玩家,zh-TW
+Jugador no encontrado.,未找到玩家,zh-TW
+Игрок не найден.,未找到玩家,zh-TW
+Character not found.,未找到角色,zh-TW
+キャラが見つかりませんでした,未找到角色,zh-TW
+캐릭터를 찾을 수 없습니다,未找到角色,zh-TW
+Charakter nicht gefunden.,未找到角色,zh-TW
+Personnage introuvable.,未找到角色,zh-TW
+Personaje no encontrado.,未找到角色,zh-TW
+Персонаж не найден.,未找到角色,zh-TW
+Unverified character name.,未校驗角色名,zh-TW
+未校验角色名,未校驗角色名,zh-TW
+キャラ名の検証に失敗しました,未校驗角色名,zh-TW
+검증되지 않은 캐릭터 이름,未校驗角色名,zh-TW
+Nicht verifizierter Charaktername.,未校驗角色名,zh-TW
+Nom de personnage non vérifié.,未校驗角色名,zh-TW
+Nombre de personaje no verificado.,未校驗角色名,zh-TW
+Непроверенное имя персонажа.,未校驗角色名,zh-TW
+Unknown error.,未知錯誤,zh-TW
+未知错误,未知錯誤,zh-TW
+不明なエラー,未知錯誤,zh-TW
+알 수 없는 오류,未知錯誤,zh-TW
+Unbekannter Fehler.,未知錯誤,zh-TW
+Erreur inconnue.,未知錯誤,zh-TW
+Error desconocido.,未知錯誤,zh-TW
+Неизвестная ошибка.,未知錯誤,zh-TW
+Testing not started.,測試尚未開啟,zh-TW
+测试尚未开启,測試尚未開啟,zh-TW
+テストはまだ開始されていません,測試尚未開啟,zh-TW
+테스트가 아직 시작되지 않았습니다,測試尚未開啟,zh-TW
+Test hat noch nicht begonnen.,測試尚未開啟,zh-TW
+Test non démarré.,測試尚未開啟,zh-TW
+Prueba no iniciada.,測試尚未開啟,zh-TW
+Тестирование не началось.,測試尚未開啟,zh-TW
+Test ended.,測試已結束,zh-TW
+测试已结束,測試已結束,zh-TW
+テストは終了しました,測試已結束,zh-TW
+테스트가 종료되었습니다,測試已結束,zh-TW
+Test ist vorbei.,測試已結束,zh-TW
+Test terminé.,測試已結束,zh-TW
+Prueba terminada.,測試已結束,zh-TW
+Тестирование закончилось.,測試已結束,zh-TW
+Test device capacity reached.,測試機已滿,zh-TW
+测试机已满,測試機已滿,zh-TW
+テストクライアント数が上限です,測試機已滿,zh-TW
+테스트 기기가 모두 사용 중입니다,測試機已滿,zh-TW
+Testgerätkapazität erreicht.,測試機已滿,zh-TW
+Capacité de l’appareil de test atteinte.,測試機已滿,zh-TW
+Se alcanzó el límite de la capacidad del dispositivo de prueba.,測試機已滿,zh-TW
+Достигнут лимит для тестового устройства.,測試機已滿,zh-TW
+Message limit reached.,消息容量錯誤,zh-TW
+消息容量错误,消息容量錯誤,zh-TW
+容量エラー,消息容量錯誤,zh-TW
+메시지 용량 오류,消息容量錯誤,zh-TW
+Nachrichtenlimit erreicht.,消息容量錯誤,zh-TW
+Limite de message atteinte.,消息容量錯誤,zh-TW
+Se alcanzó el límite de mensajes.,消息容量錯誤,zh-TW
+Достигнут лимит сообщений.,消息容量錯誤,zh-TW
+Message version mismatch.,消息版本號錯誤,zh-TW
+消息版本号错误,消息版本號錯誤,zh-TW
+バージョンが一致しません,消息版本號錯誤,zh-TW
+메시지 버전 오류,消息版本號錯誤,zh-TW
+Nachrichtenversion-Diskrepanz.,消息版本號錯誤,zh-TW
+Version du message incompatible.,消息版本號錯誤,zh-TW
+Error en el número de versión del mensaje.,消息版本號錯誤,zh-TW
+Несоответствие версии сообщения.,消息版本號錯誤,zh-TW
+Message parsing error.,消息解析錯誤,zh-TW
+消息解析错误,消息解析錯誤,zh-TW
+メッセージ解析エラー,消息解析錯誤,zh-TW
+메시지 해석 오류,消息解析錯誤,zh-TW
+Nachricht-Parsing-Fehler.,消息解析錯誤,zh-TW
+Erreur d’analyse du message.,消息解析錯誤,zh-TW
+Error al analizar el mensaje.,消息解析錯誤,zh-TW
+Ошибка обработки сообщения.,消息解析錯誤,zh-TW
+Game content does not support your account's region. Please log in with a Mainland China account to play.,遊戲內容不支援帳號所屬區域，請使用中國大陸區域帳號登入遊玩,zh-TW
+游戏内容不支持账号所属区域，请使用中国大陆区域账号登录游玩,遊戲內容不支援帳號所屬區域，請使用中國大陸區域帳號登入遊玩,zh-TW
+ゲームにログインするには、中国本土のアカウントを使用してください,遊戲內容不支援帳號所屬區域，請使用中國大陸區域帳號登入遊玩,zh-TW
+본 계정의 소속 지역에서 지원하지 않는 콘텐츠입니다. 중국 지역의 계정으로 로그인해 주세요.,遊戲內容不支援帳號所屬區域，請使用中國大陸區域帳號登入遊玩,zh-TW
+Game content does not support your account's region. Please log in with a non-Mainland China account to play.,遊戲內容不支援帳號所屬區域，請使用非中國大陸區域帳號登入遊玩,zh-TW
+游戏内容不支持账号所属区域，请使用非中国大陆区域账号登录游玩,遊戲內容不支援帳號所屬區域，請使用非中國大陸區域帳號登入遊玩,zh-TW
+ゲームにログインするには、中国本土以外の地域のアカウントを使用してください,遊戲內容不支援帳號所屬區域，請使用非中國大陸區域帳號登入遊玩,zh-TW
+본 계정의 소속 지역에서 지원하지 않는 콘텐츠입니다. 중국 지역 외의 계정으로 로그인해 주세요.,遊戲內容不支援帳號所屬區域，請使用非中國大陸區域帳號登入遊玩,zh-TW
+Game Server,遊戲服,zh-TW
+游戏服,遊戲服,zh-TW
+ゲームサーバー,遊戲服,zh-TW
+게임 서버,遊戲服,zh-TW
+Spielserver,遊戲服,zh-TW
+Serveur de jeu,遊戲服,zh-TW
+Servidor de juego,遊戲服,zh-TW
+Игровой сервер,遊戲服,zh-TW
+Player is not online.,玩家不在線上,zh-TW
+玩家不在线,玩家不在線上,zh-TW
+プレイヤーオフライン,玩家不在線上,zh-TW
+플레이어가 오프라인 상태입니다,玩家不在線上,zh-TW
+Spieler ist nicht online.,玩家不在線上,zh-TW
+Le joueur est hors ligne.,玩家不在線上,zh-TW
+Jugador desconectado.,玩家不在線上,zh-TW
+Игрок не в сети.,玩家不在線上,zh-TW
+Character ID generation failed.,生成角色ID錯誤,zh-TW
+生成角色ID错误,生成角色ID錯誤,zh-TW
+キャラ作成IDエラー,生成角色ID錯誤,zh-TW
+캐릭터 ID 생성 오류,生成角色ID錯誤,zh-TW
+Generierung von Charakter-ID fehlgeschlagen.,生成角色ID錯誤,zh-TW
+Échec de la génération de l’ID du personnage.,生成角色ID錯誤,zh-TW
+Falló la generación de ID de personaje.,生成角色ID錯誤,zh-TW
+Не удалось сгенерировать ID персонажа.,生成角色ID錯誤,zh-TW
+User data.,用戶資料,zh-TW
+用户数据,用戶資料,zh-TW
+ユーザーデータ,用戶資料,zh-TW
+사용자 데이터,用戶資料,zh-TW
+Benutzerdaten.,用戶資料,zh-TW
+Données utilisateur.,用戶資料,zh-TW
+Datos de usuario.,用戶資料,zh-TW
+Данные пользователя.,用戶資料,zh-TW
+Failed to log in. Please check your network connection and try again.,登入異常，建議檢查網路後重新登入或重啟遊戲,zh-TW
+登录异常，建议检查网络后重新登录或重启游戏,登入異常，建議檢查網路後重新登入或重啟遊戲,zh-TW
+ログインに失敗しました。ネットワークを確認して再度ログインするか、再起動してください。,登入異常，建議檢查網路後重新登入或重啟遊戲,zh-TW
+로그인에 문제가 발생했습니다. 네트워크 확인 후 다시 로그인하거나 게임을 재시작해 주세요,登入異常，建議檢查網路後重新登入或重啟遊戲,zh-TW
+Anmeldung fehlgeschlagen. Überprüfe bitte deine Netzwerkverbindung und versuche es erneut.,登入異常，建議檢查網路後重新登入或重啟遊戲,zh-TW
+Échec de la connexion. Veuillez vérifier votre connexion réseau et réessayer.,登入異常，建議檢查網路後重新登入或重啟遊戲,zh-TW
+"No se pudo iniciar sesión. Por favor, revisa tu conexión e intenta nuevamente.",登入異常，建議檢查網路後重新登入或重啟遊戲,zh-TW
+Не удалось войти. Проверьте подключение к сети и повторите попытку.,登入異常，建議檢查網路後重新登入或重啟遊戲,zh-TW
+Login verification,登入校驗,zh-TW
+登录校验,登入校驗,zh-TW
+ログイン検証,登入校驗,zh-TW
+로그인 검증,登入校驗,zh-TW
+Anmeldungsverifikation,登入校驗,zh-TW
+Vérification de connexion,登入校驗,zh-TW
+Verificación del inicio de sesión,登入校驗,zh-TW
+Проверка входа,登入校驗,zh-TW
+Login error: verification error detected.,登入校驗參數錯誤,zh-TW
+登录校验参数错误,登入校驗參數錯誤,zh-TW
+ログイン検証パラメータエラー,登入校驗參數錯誤,zh-TW
+로그인 검증 파라미터 오류,登入校驗參數錯誤,zh-TW
+Anmeldungsfehler: Verifikationsfehler erkannt.,登入校驗參數錯誤,zh-TW
+Erreur de connexion : erreur de vérification détectée.,登入校驗參數錯誤,zh-TW
+Error de inicio de sesión: se detectó un error de verificación.,登入校驗參數錯誤,zh-TW
+Ошибка входа: обнаружена проблема с проверкой.,登入校驗參數錯誤,zh-TW
+Server capacity reached.,登入玩家已滿,zh-TW
+登录玩家已满,登入玩家已滿,zh-TW
+サーバーへのログイン数が上限に達しています,登入玩家已滿,zh-TW
+로그인 가능한 인원이 초과되었습니다,登入玩家已滿,zh-TW
+Serverkapazität erreicht.,登入玩家已滿,zh-TW
+Capacité du serveur atteinte.,登入玩家已滿,zh-TW
+Se alcanzó el límite de la capacidad del servidor.,登入玩家已滿,zh-TW
+Достигнута макс. вместимость сервера.,登入玩家已滿,zh-TW
+Invalid login type.,登入類型錯誤,zh-TW
+登录类型错误,登入類型錯誤,zh-TW
+ログイン方法が一致しません,登入類型錯誤,zh-TW
+로그인 유형 오류,登入類型錯誤,zh-TW
+Ungültiger Anmeldetyp.,登入類型錯誤,zh-TW
+Type de connexion invalide.,登入類型錯誤,zh-TW
+Tipo de inicio de sesión inválido.,登入類型錯誤,zh-TW
+Неверный тип входа.,登入類型錯誤,zh-TW
+Login interval too short.,登入間隔過近,zh-TW
+登录间隔过近,登入間隔過近,zh-TW
+ログインの間隔が短すぎます,登入間隔過近,zh-TW
+로그인 시도가 너무 빈번합니다,登入間隔過近,zh-TW
+Login-Intervall zu kurz.,登入間隔過近,zh-TW
+Intervalle de connexion trop court.,登入間隔過近,zh-TW
+Intervalo entre inicios de sesión demasiado corto.,登入間隔過近,zh-TW
+Интервал между входами слишком короткий.,登入間隔過近,zh-TW
+UID error.,目標UID錯誤,zh-TW
+目标UID错误,目標UID錯誤,zh-TW
+ターゲットのUIDエラー,目標UID錯誤,zh-TW
+대상 UID 오류,目標UID錯誤,zh-TW
+UID-Fehler.,目標UID錯誤,zh-TW
+Erreur UID.,目標UID錯誤,zh-TW
+Error de UID.,目標UID錯誤,zh-TW
+Ошибка UID.,目標UID錯誤,zh-TW
+Signal lost with target scene. Please try again later.,目標場景失去聯絡訊號，請稍後重試,zh-TW
+目标场景失去联络信号，请稍后重试,目標場景失去聯絡訊號，請稍後重試,zh-TW
+シーンサーバーとの接続が切れました。再度お試しください,目標場景失去聯絡訊號，請稍後重試,zh-TW
+목표 필드의 연결이 끊어졌습니다. 잠시 후 다시 시도해 주세요,目標場景失去聯絡訊號，請稍後重試,zh-TW
+Signal zu Zielszene verloren. Versuche es bitte später erneut.,目標場景失去聯絡訊號，請稍後重試,zh-TW
+Signal perdu avec la scène cible. Veuillez réessayer ultérieurement.,目標場景失去聯絡訊號，請稍後重試,zh-TW
+"Se perdió la señal con el escenario objetivo. Por favor, inténtelo más tarde.",目標場景失去聯絡訊號，請稍後重試,zh-TW
+Потерян сигнал. Повторите попытку позже.,目標場景失去聯絡訊號，請稍後重試,zh-TW
+Потерян сигнал целевой сцены. Повторите попытку позже.,目標場景失去聯絡訊號，請稍後重試,zh-TW
+Server database error.,目標伺服器DB錯誤,zh-TW
+目标服务器DB错误,目標伺服器DB錯誤,zh-TW
+転送先DBエラー,目標伺服器DB錯誤,zh-TW
+대상 서버 DB 오류,目標伺服器DB錯誤,zh-TW
+Server-Datenbankfehler.,目標伺服器DB錯誤,zh-TW
+Erreur de base de données du serveur.,目標伺服器DB錯誤,zh-TW
+Error en la base de datos del servidor.,目標伺服器DB錯誤,zh-TW
+Ошибка базы данных сервера.,目標伺服器DB錯誤,zh-TW
+No character found on this server.,目標伺服器無角色,zh-TW
+目标服务器无角色,目標伺服器無角色,zh-TW
+移動先のサーバーにキャラが存在しません,目標伺服器無角色,zh-TW
+대상 서버에 캐릭터가 없습니다,目標伺服器無角色,zh-TW
+Kein Charakter auf diesem Server gefunden.,目標伺服器無角色,zh-TW
+Aucun personnage trouvé sur ce serveur.,目標伺服器無角色,zh-TW
+No se encontraron personajes en este servidor.,目標伺服器無角色,zh-TW
+Персонаж не найден на этом сервере.,目標伺服器無角色,zh-TW
+Login prohibited.,禁止登入,zh-TW
+禁止登录,禁止登入,zh-TW
+ログインが制限されています,禁止登入,zh-TW
+로그인 차단,禁止登入,zh-TW
+Anmeldung verhindert.,禁止登入,zh-TW
+Connexion interdite.,禁止登入,zh-TW
+Inicio de sesión prohibido.,禁止登入,zh-TW
+Вход запрещен.,禁止登入,zh-TW
+No account info found.,空帳號,zh-TW
+空账户,空帳號,zh-TW
+アカウント未作成,空帳號,zh-TW
+비어 있는 계정,空帳號,zh-TW
+Keine Kontoinfo gefunden.,空帳號,zh-TW
+Aucune information sur le compte trouvée.,空帳號,zh-TW
+No se encontró información de la cuenta.,空帳號,zh-TW
+Не найдены сведения об аккаунте.,空帳號,zh-TW
+Billing timed out.,等待計費超時,zh-TW
+等待计费超时,等待計費超時,zh-TW
+請求処理がタイムアウトしました,等待計費超時,zh-TW
+결제 대기시간 초과,等待計費超時,zh-TW
+Rechnung-Zeitüberschreitung.,等待計費超時,zh-TW
+Délai de facturation expiré.,等待計費超時,zh-TW
+Tiempo de espera de facturación agotado.,等待計費超時,zh-TW
+Превышено время ожидания запроса на оплату.,等待計費超時,zh-TW
+Signature error.,簽名錯誤,zh-TW
+签名错误,簽名錯誤,zh-TW
+サインエラー,簽名錯誤,zh-TW
+서명 오류,簽名錯誤,zh-TW
+Signaturfehler.,簽名錯誤,zh-TW
+Erreur de signature.,簽名錯誤,zh-TW
+Error de firmas.,簽名錯誤,zh-TW
+Ошибка подписи.,簽名錯誤,zh-TW
+Statistics Server,統計服,zh-TW
+统计服,統計服,zh-TW
+集計サーバー,統計服,zh-TW
+통계 서버,統計服,zh-TW
+Statistik-Server,統計服,zh-TW
+Serveur de statistiques,統計服,zh-TW
+Servidor de estadísticas,統計服,zh-TW
+Сервер статистики,統計服,zh-TW
+Statistics Server database error.,統計服DB錯誤,zh-TW
+统计服DB错误,統計服DB錯誤,zh-TW
+集計サーバーのデータベースエラー,統計服DB錯誤,zh-TW
+통계 서버 DB 오류,統計服DB錯誤,zh-TW
+Statistik-Server-Datenbankfehler.,統計服DB錯誤,zh-TW
+Erreur de base de données du serveur de statistiques.,統計服DB錯誤,zh-TW
+Error en la base de datos del servidor de estadísticas.,統計服DB錯誤,zh-TW
+Ошибка базы данных сервера статистики.,統計服DB錯誤,zh-TW
+Statistics Server not found.,統計服未找到,zh-TW
+统计服未找到,統計服未找到,zh-TW
+統計サーバーの取得に失敗しました,統計服未找到,zh-TW
+통계 서버를 찾을 수 없음,統計服未找到,zh-TW
+Statistik-Server nicht gefunden.,統計服未找到,zh-TW
+Serveur de statistiques introuvable.,統計服未找到,zh-TW
+Servidor de estadísticas no encontrado.,統計服未找到,zh-TW
+Сервер статистики не найден.,統計服未找到,zh-TW
+Network unstable.,網路不穩定,zh-TW
+网络不稳定,網路不穩定,zh-TW
+ネットワークが不安定です,網路不穩定,zh-TW
+네트워크 연결 불안정,網路不穩定,zh-TW
+Instabiles Netzwerk.,網路不穩定,zh-TW
+Réseau instable.,網路不穩定,zh-TW
+Red inestable.,網路不穩定,zh-TW
+Сеть нестабильна.,網路不穩定,zh-TW
+Network reconnection failed.,網路重連失敗,zh-TW
+网络重连失败,網路重連失敗,zh-TW
+再接続に失敗しました,網路重連失敗,zh-TW
+인터넷 재연결 실패,網路重連失敗,zh-TW
+Netzwerk-Wiederverbindung fehlgeschlagen.,網路重連失敗,zh-TW
+Échec de la reconnexion du réseau.,網路重連失敗,zh-TW
+No se pudo reconectar a la red.,網路重連失敗,zh-TW
+Ошибка повторного подключения к сети.,網路重連失敗,zh-TW
+Network error.,網路錯誤,zh-TW
+网络错误,網路錯誤,zh-TW
+ネットワークエラー,網路錯誤,zh-TW
+네트워크 오류,網路錯誤,zh-TW
+Netzwerkfehler.,網路錯誤,zh-TW
+Erreur de réseau.,網路錯誤,zh-TW
+Error de red.,網路錯誤,zh-TW
+Ошибка сети.,網路錯誤,zh-TW
+Chat,聊天,zh-TW
+チャット,聊天,zh-TW
+채팅,聊天,zh-TW
+Чат,聊天,zh-TW
+Chat HTTP parameter error.,聊天HTTP參數錯誤,zh-TW
+聊天HTTP参数错误,聊天HTTP參數錯誤,zh-TW
+チャットWebエラー,聊天HTTP參數錯誤,zh-TW
+채팅 HTTP 파라미터 오류,聊天HTTP參數錯誤,zh-TW
+Fehler bei den Chat-HTTP-Parametern.,聊天HTTP參數錯誤,zh-TW
+Erreur de paramètre HTTP de chat.,聊天HTTP參數錯誤,zh-TW
+Error en los parámetros HTTP del chat.,聊天HTTP參數錯誤,zh-TW
+Ошибка параметров HTTP чата.,聊天HTTP參數錯誤,zh-TW
+Chat HTTP server error.,聊天HTTP伺服器錯誤,zh-TW
+聊天HTTP服务器错误,聊天HTTP伺服器錯誤,zh-TW
+チャットWebサーバーエラー,聊天HTTP伺服器錯誤,zh-TW
+채팅 HTTP 서버 오류,聊天HTTP伺服器錯誤,zh-TW
+Fehler beim Chat-HTTP-Server.,聊天HTTP伺服器錯誤,zh-TW
+Erreur de serveur HTTP de chat.,聊天HTTP伺服器錯誤,zh-TW
+Error en el servidor HTTP del chat.,聊天HTTP伺服器錯誤,zh-TW
+Ошибка сервера HTTP чата.,聊天HTTP伺服器錯誤,zh-TW
+Chat HTTP signature error.,聊天HTTP簽名錯誤,zh-TW
+聊天HTTP签名错误,聊天HTTP簽名錯誤,zh-TW
+チャットWebサインエラー,聊天HTTP簽名錯誤,zh-TW
+채팅 HTTP 서명 오류,聊天HTTP簽名錯誤,zh-TW
+Fehler bei der Chat-HTTP-Signatur.,聊天HTTP簽名錯誤,zh-TW
+Erreur de signature HTTP de chat.,聊天HTTP簽名錯誤,zh-TW
+Error de firmas HTTP del chat.,聊天HTTP簽名錯誤,zh-TW
+Ошибка подписи HTTP чата.,聊天HTTP簽名錯誤,zh-TW
+Chat HTTP processing error.,聊天HTTP進度錯誤,zh-TW
+聊天HTTP进程错误,聊天HTTP進度錯誤,zh-TW
+チャットWebロードエラー,聊天HTTP進度錯誤,zh-TW
+채팅 HTTP 프로세스 오류,聊天HTTP進度錯誤,zh-TW
+Fehler bei der Chat-HTTP-Verarbeitung.,聊天HTTP進度錯誤,zh-TW
+Erreur de traitement HTTP de chat.,聊天HTTP進度錯誤,zh-TW
+Error de procesamiento HTTP del chat.,聊天HTTP進度錯誤,zh-TW
+Ошибка обработки HTTP чата.,聊天HTTP進度錯誤,zh-TW
+Chat character creation failed.,聊天創建角色錯誤,zh-TW
+聊天创建角色错误,聊天創建角色錯誤,zh-TW
+チャットキャラ作成エラー,聊天創建角色錯誤,zh-TW
+채팅 캐릭터 생성 오류,聊天創建角色錯誤,zh-TW
+Chat-Charaktererstellung fehlgeschlagen.,聊天創建角色錯誤,zh-TW
+Échec de la création du personnage de chat.,聊天創建角色錯誤,zh-TW
+Falló la creación de personaje del chat.,聊天創建角色錯誤,zh-TW
+Не удалось создать персонаж чата.,聊天創建角色錯誤,zh-TW
+Chat parameter error.,聊天參數錯誤,zh-TW
+聊天参数错误,聊天參數錯誤,zh-TW
+チャットのパラメータエラー,聊天參數錯誤,zh-TW
+채팅 파라미터 오류,聊天參數錯誤,zh-TW
+Chat-Parameter-Fehler.,聊天參數錯誤,zh-TW
+Erreur de paramètre de chat.,聊天參數錯誤,zh-TW
+Error en los parámetros de chat.,聊天參數錯誤,zh-TW
+Ошибка параметров чата.,聊天參數錯誤,zh-TW
+Chat online check failed.,聊天在線檢測錯誤,zh-TW
+聊天在线检测错误,聊天在線檢測錯誤,zh-TW
+チャットオンライン検証エラー,聊天在線檢測錯誤,zh-TW
+채팅 접속 확인 오류,聊天在線檢測錯誤,zh-TW
+Chat-Onlineüberprüfung fehlgeschlagen.,聊天在線檢測錯誤,zh-TW
+Échec de la vérification du chat en ligne.,聊天在線檢測錯誤,zh-TW
+Falló la verificación de la conexión del chat.,聊天在線檢測錯誤,zh-TW
+Проверка чата онлайн не удалась.,聊天在線檢測錯誤,zh-TW
+Chat room on cooldown.,聊天房間冷卻中,zh-TW
+聊天房间冷却中,聊天房間冷卻中,zh-TW
+チャットルームCD中,聊天房間冷卻中,zh-TW
+채팅방 이용 대기시간 적용 중,聊天房間冷卻中,zh-TW
+Chatraum in Abklingzeit.,聊天房間冷卻中,zh-TW
+Salon de discussion en recharge.,聊天房間冷卻中,zh-TW
+Sala de chat en enfriamiento.,聊天房間冷卻中,zh-TW
+Комната чата восстанавливается.,聊天房間冷卻中,zh-TW
+Error creating chat room.,聊天房間創建錯誤,zh-TW
+聊天房间创建错误,聊天房間創建錯誤,zh-TW
+チャットルーム作成エラー,聊天房間創建錯誤,zh-TW
+채팅방 생성 오류,聊天房間創建錯誤,zh-TW
+Fehler beim Erstellen des Chatrooms.,聊天房間創建錯誤,zh-TW
+Erreur lors de la création du salon de discussion.,聊天房間創建錯誤,zh-TW
+Error al crear sala de chat.,聊天房間創建錯誤,zh-TW
+Ошибка создания комнаты чата.,聊天房間創建錯誤,zh-TW
+Chat room already exists.,聊天房間已存在,zh-TW
+聊天房间已存在,聊天房間已存在,zh-TW
+チャットルームが存在しています,聊天房間已存在,zh-TW
+이미 존재하는 채팅방입니다,聊天房間已存在,zh-TW
+Chatroom existiert bereits.,聊天房間已存在,zh-TW
+Salon de discussion existe déjà.,聊天房間已存在,zh-TW
+Ya existe la sala de chat.,聊天房間已存在,zh-TW
+Комната чата уже существует.,聊天房間已存在,zh-TW
+Error entering chat room.,聊天房間進入錯誤,zh-TW
+聊天房间进入错误,聊天房間進入錯誤,zh-TW
+チャットルーム参加エラー,聊天房間進入錯誤,zh-TW
+채팅방 입장 오류,聊天房間進入錯誤,zh-TW
+Fehler beim Betreten des Chatrooms.,聊天房間進入錯誤,zh-TW
+Erreur lors de l’accès au salon de discussion.,聊天房間進入錯誤,zh-TW
+Error al entrar a sala de chat.,聊天房間進入錯誤,zh-TW
+Ошибка входа в комнату чата.,聊天房間進入錯誤,zh-TW
+No chat attempts left.,聊天無次數,zh-TW
+聊天无次数,聊天無次數,zh-TW
+発言回数が上限に達しました,聊天無次數,zh-TW
+채팅 가능 횟수 소진,聊天無次數,zh-TW
+Keine Chat-Versuche übrig.,聊天無次數,zh-TW
+Plus aucune tentative de chat restante.,聊天無次數,zh-TW
+No quedan intentos de ingreso al chat.,聊天無次數,zh-TW
+Не осталось попыток чата.,聊天無次數,zh-TW
+Player is banned from chat.,聊天玩家被禁止,zh-TW
+現在、発言を禁止されています,聊天玩家被禁止,zh-TW
+채팅이 금지된 플레이어입니다,聊天玩家被禁止,zh-TW
+Spieler ist vom Chat ausgeschlossen.,聊天玩家被禁止,zh-TW
+Le joueur est banni du chat.,聊天玩家被禁止,zh-TW
+Se le prohibió el ingreso al chat a este jugador.,聊天玩家被禁止,zh-TW
+Игроку запрещен доступ в чат.,聊天玩家被禁止,zh-TW
+No customized data detected.,自定義資料為空,zh-TW
+自定义数据为空,自定義資料為空,zh-TW
+カスタムデータがありません,自定義資料為空,zh-TW
+사용자 설정 데이터 없음,自定義資料為空,zh-TW
+Keine benutzerdefinierten Daten erkannt.,自定義資料為空,zh-TW
+Aucune donnée personnalisée détectée.,自定義資料為空,zh-TW
+No se detectaron datos personalizados.,自定義資料為空,zh-TW
+Настраиваемые данные не обнаружены.,自定義資料為空,zh-TW
+Character not found.,角色不存在,zh-TW
+キャラ不存在,角色不存在,zh-TW
+존재하지 않는 캐릭터입니다,角色不存在,zh-TW
+Charakter nicht gefunden.,角色不存在,zh-TW
+Personnage introuvable.,角色不存在,zh-TW
+Personaje no encontrado.,角色不存在,zh-TW
+Персонаж не найден.,角色不存在,zh-TW
+Inappropriate character name detected.,角色名含有非法字元,zh-TW
+角色名含有非法字符,角色名含有非法字元,zh-TW
+使用できない文字が含まれています,角色名含有非法字元,zh-TW
+캐릭터 이름에 유효하지 않은 문자가 포함되어 있습니다,角色名含有非法字元,zh-TW
+Unangemessener Charaktername erkannt.,角色名含有非法字元,zh-TW
+Nom de personnage inapproprié détecté.,角色名含有非法字元,zh-TW
+Se detectó un nombre de personaje inapropiado.,角色名含有非法字元,zh-TW
+Обнаружено недопустимое имя персонажа.,角色名含有非法字元,zh-TW
+Character name already taken.,角色名重複,zh-TW
+角色名重复,角色名重複,zh-TW
+キャラ名が重複しています,角色名重複,zh-TW
+캐릭터 이름 중복,角色名重複,zh-TW
+Charaktername bereits vergeben.,角色名重複,zh-TW
+Nom de personnage déjà pris.,角色名重複,zh-TW
+Nombre de personaje ocupado.,角色名重複,zh-TW
+Имя персонажа уже занято.,角色名重複,zh-TW
+Character action blocked.,角色封鎖錯誤,zh-TW
+角色封锁错误,角色封鎖錯誤,zh-TW
+ブロックエラー,角色封鎖錯誤,zh-TW
+캐릭터 차단 오류,角色封鎖錯誤,zh-TW
+Charakteraktion blockiert.,角色封鎖錯誤,zh-TW
+Action du personnage bloquée.,角色封鎖錯誤,zh-TW
+Acción bloqueada.,角色封鎖錯誤,zh-TW
+Действие персонажа заблокировано.,角色封鎖錯誤,zh-TW
+This character already exists.,角色已存在,zh-TW
+キャラはすでに存在しています,角色已存在,zh-TW
+이미 존재하는 캐릭터입니다,角色已存在,zh-TW
+Dieser Charakter existiert bereits.,角色已存在,zh-TW
+Ce personnage existe déjà.,角色已存在,zh-TW
+Este personaje ya existe.,角色已存在,zh-TW
+Этот персонаж уже существует.,角色已存在,zh-TW
+Character ownership conflict.,角色所有權錯誤,zh-TW
+角色所有权错误,角色所有權錯誤,zh-TW
+キャラの所有情報が一致していません,角色所有權錯誤,zh-TW
+캐릭터 소유권 오류,角色所有權錯誤,zh-TW
+Charakterbesitz-Konflikt.,角色所有權錯誤,zh-TW
+Conflit de propriété du personnage.,角色所有權錯誤,zh-TW
+Problema con la apropiación del personaje.,角色所有權錯誤,zh-TW
+Конфликт владения персонажем.,角色所有權錯誤,zh-TW
+Character level verification failed.,角色等級校驗錯誤,zh-TW
+角色等级校验错误,角色等級校驗錯誤,zh-TW
+キャラレベル検証エラー,角色等級校驗錯誤,zh-TW
+캐릭터 레벨 확인 오류,角色等級校驗錯誤,zh-TW
+Verifizierung von Charakter-Level fehlgeschlagen.,角色等級校驗錯誤,zh-TW
+Échec de la vérification du niveau de personnage.,角色等級校驗錯誤,zh-TW
+Falló la verificación del nivel del personaje.,角色等級校驗錯誤,zh-TW
+Не удалось проверить уровень персонажа.,角色等級校驗錯誤,zh-TW
+Character index error.,角色索引錯誤,zh-TW
+角色索引错误,角色索引錯誤,zh-TW
+キャラ検索エラー,角色索引錯誤,zh-TW
+캐릭터 목차 오류,角色索引錯誤,zh-TW
+Fehler beim Charakter-Index.,角色索引錯誤,zh-TW
+Erreur d’index de caractère.,角色索引錯誤,zh-TW
+Error en el índice de personaje.,角色索引錯誤,zh-TW
+Ошибка индекса персонажа.,角色索引錯誤,zh-TW
+Error loading data.,負荷錯誤,zh-TW
+负荷错误,負荷錯誤,zh-TW
+ロードエラー,負荷錯誤,zh-TW
+과부하 오류,負荷錯誤,zh-TW
+Fehler beim Laden von Daten.,負荷錯誤,zh-TW
+Erreur lors du chargement de données.,負荷錯誤,zh-TW
+Error en la carga de datos.,負荷錯誤,zh-TW
+Ошибка загрузки данных.,負荷錯誤,zh-TW
+Account logged in on another device. You've been forced offline.,帳號已在其他設備登入，此設備被強制下線,zh-TW
+账号已在其他设备登陆，此客户端被强制下线,帳號已在其他設備登入，此設備被強制下線,zh-TW
+他の端末からログインされたため、強制的にログアウトしました。,帳號已在其他設備登入，此設備被強制下線,zh-TW
+다른 기기에서 로그인되었습니다. 이 클라이언트는 강제로 로그아웃됩니다,帳號已在其他設備登入，此設備被強制下線,zh-TW
+Konto auf einem anderen Gerät angemeldet. Du bis jetzt offline.,帳號已在其他設備登入，此設備被強制下線,zh-TW
+Compte connecté sur un autre appareil. Vous avez été déconnecté.,帳號已在其他設備登入，此設備被強制下線,zh-TW
+La cuenta ha iniciado sesión en otro dispositivo. Has sido desconectado de esta sesión.,帳號已在其他設備登入，此設備被強制下線,zh-TW
+Ваш аккаунт вошел в игру на другом устройстве. Вы принудительно отключены.,帳號已在其他設備登入，此設備被強制下線,zh-TW
+Account already registered.,帳號已存在,zh-TW
+账号已存在,帳號已存在,zh-TW
+このアカウントはすでに使用されています,帳號已存在,zh-TW
+이미 존재하는 계정입니다,帳號已存在,zh-TW
+Konto ist bereits registriert.,帳號已存在,zh-TW
+Compte déjà enregistré.,帳號已存在,zh-TW
+Esta cuenta ya está registrada.,帳號已存在,zh-TW
+Аккаунт уже зарегистрирован.,帳號已存在,zh-TW
+Account or password cannot be empty.,帳號或密碼為空,zh-TW
+账号或密码为空,帳號或密碼為空,zh-TW
+アカウントまたはパスワードが入力されていません,帳號或密碼為空,zh-TW
+계정 또는 비밀번호는 비워둘 수 없습니다,帳號或密碼為空,zh-TW
+Konto oder Passwort dürfen nicht leer sein.,帳號或密碼為空,zh-TW
+Le compte ou le mot de passe ne peuvent pas être vides.,帳號或密碼為空,zh-TW
+Nombre de cuenta o contraseña no pueden estar vacíos.,帳號或密碼為空,zh-TW
+Аккаунт или пароль не могут быть пустыми.,帳號或密碼為空,zh-TW
+Unable to access account data now. Please try again later.,帳號資料繁忙，請稍候再試,zh-TW
+账号数据繁忙，请稍候再试,帳號資料繁忙，請稍候再試,zh-TW
+アカウントデータを処理中です。しばらく時間をおいて、再度お試しください。,帳號資料繁忙，請稍候再試,zh-TW
+계정 데이터를 처리 중입니다. 잠시 후 다시 시도해 주세요,帳號資料繁忙，請稍候再試,zh-TW
+Zugriff auf Kontodaten aktuell nicht möglich. Versuche es bitte später erneut.,帳號資料繁忙，請稍候再試,zh-TW
+Données du compte inaccessibles pour le moment. Veuillez réessayer ultérieurement.,帳號資料繁忙，請稍候再試,zh-TW
+"No se pudo acceder a los datos de la cuenta. Por favor, inténtelo más tarde.",帳號資料繁忙，請稍候再試,zh-TW
+Не удается получить доступ к данным аккаунта. Повторите попытку позже.,帳號資料繁忙，請稍候再試,zh-TW
+Account,帳號,zh-TW
+账户,帳號,zh-TW
+アカウント,帳號,zh-TW
+계정,帳號,zh-TW
+Konto,帳號,zh-TW
+Compte,帳號,zh-TW
+Cuenta,帳號,zh-TW
+Аккаунт,帳號,zh-TW
+Duplicate AppOrder detected for this account.,帳號AppOrder重複,zh-TW
+账户AppOrder重复,帳號AppOrder重複,zh-TW
+AppOrder重複,帳號AppOrder重複,zh-TW
+계정 AppOrder 중복,帳號AppOrder重複,zh-TW
+Doppelte AppOrder für dieses Konto entdeckt.,帳號AppOrder重複,zh-TW
+AppOrder double détecté sur ce compte.,帳號AppOrder重複,zh-TW
+Se detectó una AppOrder duplicada para esta cuenta.,帳號AppOrder重複,zh-TW
+Обнаружен дубликат AppOrder для этого аккаунта.,帳號AppOrder重複,zh-TW
+Account AppOrder error.,帳號AppOrder錯誤,zh-TW
+账户AppOrder错误,帳號AppOrder錯誤,zh-TW
+AppOrderエラー,帳號AppOrder錯誤,zh-TW
+계정 AppOrder 오류,帳號AppOrder錯誤,zh-TW
+Konto-AppOrder-Fehler.,帳號AppOrder錯誤,zh-TW
+Erreur AppOrder du compte.,帳號AppOrder錯誤,zh-TW
+Error en la AppOrder de la cuenta.,帳號AppOrder錯誤,zh-TW
+Ошибка AppOrder для аккаунта.,帳號AppOrder錯誤,zh-TW
+Account info missing,帳號為空,zh-TW
+账户为空,帳號為空,zh-TW
+アカウントが存在しません,帳號為空,zh-TW
+계정 정보가 없습니다,帳號為空,zh-TW
+Kontoinfo fehlt,帳號為空,zh-TW
+Informations sur le compte manquantes,帳號為空,zh-TW
+Información de la cuenta faltante,帳號為空,zh-TW
+Отсутствуют сведения об аккаунте,帳號為空,zh-TW
+Error sending data to Game Server.,帳號發送到遊戲服錯誤,zh-TW
+账户发送到游戏服错误,帳號發送到遊戲服錯誤,zh-TW
+アカウント送信エラー,帳號發送到遊戲服錯誤,zh-TW
+게임 서버로 계정 전송 오류,帳號發送到遊戲服錯誤,zh-TW
+Fehler beim Versenden von Daten an Spielserver.,帳號發送到遊戲服錯誤,zh-TW
+Erreur lors de l’envoi de données au serveur de jeu.,帳號發送到遊戲服錯誤,zh-TW
+Error al enviar los datos al servidor de juego.,帳號發送到遊戲服錯誤,zh-TW
+Ошибка отправки данных на игровой сервер.,帳號發送到遊戲服錯誤,zh-TW
+Password error.,帳號密碼錯誤,zh-TW
+账户密码错误,帳號密碼錯誤,zh-TW
+パスワードが違います,帳號密碼錯誤,zh-TW
+계정 비밀번호 오류,帳號密碼錯誤,zh-TW
+Passwortfehler.,帳號密碼錯誤,zh-TW
+Erreur de mot de passe.,帳號密碼錯誤,zh-TW
+Error de contraseña.,帳號密碼錯誤,zh-TW
+Ошибка пароля.,帳號密碼錯誤,zh-TW
+This account already exists.,帳號已存在,zh-TW
+账户已存在,帳號已存在,zh-TW
+アカウントはすでに存在します,帳號已存在,zh-TW
+Dieses Konto existiert bereits.,帳號已存在,zh-TW
+Ce compte existe déjà.,帳號已存在,zh-TW
+Esta cuenta ya existe.,帳號已存在,zh-TW
+Этот аккаунт уже существует.,帳號已存在,zh-TW
+Invalid account login type,帳號登入類型錯誤,zh-TW
+账户登录类型错误,帳號登入類型錯誤,zh-TW
+ログイン方法が一致していません,帳號登入類型錯誤,zh-TW
+계정 로그인 유형 오류,帳號登入類型錯誤,zh-TW
+Ungültiger Konto-Anmeldetyp,帳號登入類型錯誤,zh-TW
+Type de connexion au compte invalide,帳號登入類型錯誤,zh-TW
+Tipo de inicio de sesión inválido.,帳號登入類型錯誤,zh-TW
+Неверный тип входа в аккаунт,帳號登入類型錯誤,zh-TW
+Account info contains invalid characters.,帳號非法字元,zh-TW
+账户非法字符,帳號非法字元,zh-TW
+使用できない文字が含まれています,帳號非法字元,zh-TW
+계정에 유효하지 않은 문자가 포함되어 있습니다,帳號非法字元,zh-TW
+Kontoinfo enthält ungültige Zeichen.,帳號非法字元,zh-TW
+Les informations sur le compte contiennent des caractères invalides.,帳號非法字元,zh-TW
+Información de la cuenta contiene caracteres inválidos.,帳號非法字元,zh-TW
+Сведения об аккаунте содержат недопустимые символы.,帳號非法字元,zh-TW
+Unable to connect to the server.,連接伺服器失敗,zh-TW
+连接服务器失败,連接伺服器失敗,zh-TW
+サーバーに接続できませんでした,連接伺服器失敗,zh-TW
+서버 연결 실패,連接伺服器失敗,zh-TW
+Verbindung zum Server fehlgeschlagen.,連接伺服器失敗,zh-TW
+Impossible de se connecter au serveur.,連接伺服器失敗,zh-TW
+No se puede conectar al servidor.,連接伺服器失敗,zh-TW
+Не удается подключиться к серверу.,連接伺服器失敗,zh-TW
+Connection timed out.,連接超時,zh-TW
+连接超时,連接超時,zh-TW
+接続がタイムアウトしました,連接超時,zh-TW
+연결 시간 초과,連接超時,zh-TW
+Verbindungs-Zeitüberschreitung.,連接超時,zh-TW
+Délai de connexion expiré.,連接超時,zh-TW
+Tiempo de espera de conexión agotado.,連接超時,zh-TW
+Превышено время ожидания запроса.,連接超時,zh-TW
+Duplicate payment cancellation detected.,重複取消支付,zh-TW
+重复取消支付,重複取消支付,zh-TW
+この支払いは、すでにキャンセル処理済みです,重複取消支付,zh-TW
+결제 중복 취소,重複取消支付,zh-TW
+Doppelter Zahlungsabbruch erkannt.,重複取消支付,zh-TW
+Annulation d’un double paiement détectée.,重複取消支付,zh-TW
+Se detectó un pago duplicado.,重複取消支付,zh-TW
+Обнаружено дублирование отмены платежа.,重複取消支付,zh-TW
+Duplicate login detected.,重複登入,zh-TW
+重复登录,重複登入,zh-TW
+重複ログイン,重複登入,zh-TW
+중복 로그인,重複登入,zh-TW
+Doppelte Anmeldung erkannt.,重複登入,zh-TW
+Connexion simultanée détectée.,重複登入,zh-TW
+Se ha detectado un inicio de sesión múltiple con la misma cuenta.,重複登入,zh-TW
+Обнаружен дублирующийся вход.,重複登入,zh-TW
+Reward already claimed.,重複獲得獎勵,zh-TW
+重复获得奖励,重複獲得獎勵,zh-TW
+この報酬は、すでに受け取り済みです,重複獲得獎勵,zh-TW
+보상 중복 수령,重複獲得獎勵,zh-TW
+Belohnung bereits abgeholt.,重複獲得獎勵,zh-TW
+Récompense déjà réclamée.,重複獲得獎勵,zh-TW
+Ya recibiste la recompensa.,重複獲得獎勵,zh-TW
+Награда уже получена.,重複獲得獎勵,zh-TW
+Inappropriate strings detected.,非法字串,zh-TW
+非法字符串,非法字串,zh-TW
+使用できない文字が含まれています,非法字串,zh-TW
+유효하지 않은 문자열,非法字串,zh-TW
+Unangemessene Zeichenfolge erkannt.,非法字串,zh-TW
+Chaînes inappropriées détectées.,非法字串,zh-TW
+Se detectaron cadenas inapropiadas.,非法字串,zh-TW
+Обнаружены недопустимые строки.,非法字串,zh-TW
+Invalid message.,非法消息,zh-TW
+不正なメッセージ,非法消息,zh-TW
+유효하지 않은 메시지,非法消息,zh-TW
+Ungültige Nachricht.,非法消息,zh-TW
+Message invalide.,非法消息,zh-TW
+Mensaje inválido.,非法消息,zh-TW
+Недопустимое сообщение.,非法消息,zh-TW
+Unauthorized GM login.,非法的GM登入,zh-TW
+非法的GM登录,非法的GM登入,zh-TW
+GMアカウントのログイン情報が不正です,非法的GM登入,zh-TW
+부적절한 GM 로그인,非法的GM登入,zh-TW
+Nicht autorisierte GM-Anmeldung.,非法的GM登入,zh-TW
+Connexion GM non autorisée.,非法的GM登入,zh-TW
+Inicio de sesión de GM no autorizado.,非法的GM登入,zh-TW
+Несанкционированный вход ГМ.,非法的GM登入,zh-TW
+Invalid account detected.,非法帳號,zh-TW
+非法账号,非法帳號,zh-TW
+不正なアカウント,非法帳號,zh-TW
+유효하지 않은 계정,非法帳號,zh-TW
+Ungültiges Konto erkannt.,非法帳號,zh-TW
+Compte invalide détecté.,非法帳號,zh-TW
+Cuenta inválida detectada.,非法帳號,zh-TW
+Обнаружен недопустимый аккаунт.,非法帳號,zh-TW
+Medium Miracle Strength Potion,中瓶大力奇蹟藥水,zh-TW
+中瓶大力奇迹药水,中瓶大力奇蹟藥水,zh-TW
+ミラクル怪力ポーション M,中瓶大力奇蹟藥水,zh-TW
+중형 파워 기적 물약,中瓶大力奇蹟藥水,zh-TW
+Mittlerer Wunderkrafttrank,中瓶大力奇蹟藥水,zh-TW
+Potion moyenne de force miraculeuse,中瓶大力奇蹟藥水,zh-TW
+Poción mediana de fuerza milagrosa,中瓶大力奇蹟藥水,zh-TW
+Среднее зелье чудодейственной силы,中瓶大力奇蹟藥水,zh-TW
+Medium Shield Potion,中瓶護盾藥水,zh-TW
+中瓶护盾药水,中瓶護盾藥水,zh-TW
+シールドポーション M,中瓶護盾藥水,zh-TW
+중형 방어 물약,中瓶護盾藥水,zh-TW
+Mittlerer Schildtrank,中瓶護盾藥水,zh-TW
+Potion de protection moyenne,中瓶護盾藥水,zh-TW
+Poción mediana de escudo,中瓶護盾藥水,zh-TW
+Среднее зелье щита,中瓶護盾藥水,zh-TW
+Medium Boom-Boom-Bang Potion,中瓶暴暴藥水,zh-TW
+中瓶暴暴药水,中瓶暴暴藥水,zh-TW
+ガンガンポーション M,中瓶暴暴藥水,zh-TW
+중형 폭주 물약,中瓶暴暴藥水,zh-TW
+Mittlerer Bum-Bum-Knall-Trank,中瓶暴暴藥水,zh-TW
+Potion Boum-Boum-Bam moyenne,中瓶暴暴藥水,zh-TW
+Poción mediana Bum Bum Pum,中瓶暴暴藥水,zh-TW
+Среднее зелье «Бум-бум-бах»,中瓶暴暴藥水,zh-TW
+Medium Lifewater Potion,中瓶生命之水,zh-TW
+生命の水 M,中瓶生命之水,zh-TW
+중형 생명수,中瓶生命之水,zh-TW
+Mittlerer Lebenswassertrank,中瓶生命之水,zh-TW
+Potion moyenne d’eau vivifiante,中瓶生命之水,zh-TW
+Poción mediana de agua vital,中瓶生命之水,zh-TW
+Среднее зелье живой воды,中瓶生命之水,zh-TW
+Medium Breaking Potion,中瓶癱倒藥水,zh-TW
+中瓶瘫倒药水,中瓶癱倒藥水,zh-TW
+へにゃへにゃポーション M,中瓶癱倒藥水,zh-TW
+중형 무기력 물약,中瓶癱倒藥水,zh-TW
+Mittlerer Bruchtrank,中瓶癱倒藥水,zh-TW
+Potion de rupture moyenne,中瓶癱倒藥水,zh-TW
+Poción mediana de ruptura,中瓶癱倒藥水,zh-TW
+Среднее зелье разрушения,中瓶癱倒藥水,zh-TW
+Medium Hardy Potion,中瓶硬邦邦藥水,zh-TW
+中瓶硬邦邦药水,中瓶硬邦邦藥水,zh-TW
+カチコチポーション M,中瓶硬邦邦藥水,zh-TW
+중형 딴딴 물약,中瓶硬邦邦藥水,zh-TW
+Mittlerer Zähigkeitstrank,中瓶硬邦邦藥水,zh-TW
+Potion de robustesse moyenne,中瓶硬邦邦藥水,zh-TW
+Poción mediana de tenacidad,中瓶硬邦邦藥水,zh-TW
+Среднее зелье стойкости,中瓶硬邦邦藥水,zh-TW
+Frostvein Butterfly,冰紋蝶,zh-TW
+冰纹蝶,冰紋蝶,zh-TW
+氷紋の蝶,冰紋蝶,zh-TW
+얼음무늬 나비,冰紋蝶,zh-TW
+Frostader-Schmetterling,冰紋蝶,zh-TW
+Papillon veiné de givre,冰紋蝶,zh-TW
+Mariposa de venas escarchadas,冰紋蝶,zh-TW
+Морозно-жильная бабочка,冰紋蝶,zh-TW
+Icy Mushroom,凍凍菇,zh-TW
+冻冻菇,凍凍菇,zh-TW
+フローズンキノコ,凍凍菇,zh-TW
+꽁꽁 버섯,凍凍菇,zh-TW
+Eisiger Pilz,凍凍菇,zh-TW
+Champignon glacé,凍凍菇,zh-TW
+Hongo gélido,凍凍菇,zh-TW
+Ледяной гриб,凍凍菇,zh-TW
+Tearing Bud,垂淚木芽,zh-TW
+垂泪木芽,垂淚木芽,zh-TW
+落涙の木芽,垂淚木芽,zh-TW
+눈물 흘리는 새싹,垂淚木芽,zh-TW
+Tränenknospe,垂淚木芽,zh-TW
+Bourgeon en pleurs,垂淚木芽,zh-TW
+Capullo en llanto,垂淚木芽,zh-TW
+Плакучий бутон,垂淚木芽,zh-TW
+Tearing Plant,垂淚草,zh-TW
+垂泪草,垂淚草,zh-TW
+落涙の草,垂淚草,zh-TW
+눈물풀,垂淚草,zh-TW
+Tränenpflanze,垂淚草,zh-TW
+Plante larmoyante,垂淚草,zh-TW
+Planta llorona,垂淚草,zh-TW
+Плакучее растение,垂淚草,zh-TW
+Large Miracle Strength Potion,大瓶大力奇蹟藥水,zh-TW
+大瓶大力奇迹药水,大瓶大力奇蹟藥水,zh-TW
+ミラクル怪力ポーション L,大瓶大力奇蹟藥水,zh-TW
+대형 파워 기적 물약,大瓶大力奇蹟藥水,zh-TW
+Großer Wunderkrafttrank,大瓶大力奇蹟藥水,zh-TW
+Grande potion de force miraculeuse,大瓶大力奇蹟藥水,zh-TW
+Poción grande de fuerza milagrosa,大瓶大力奇蹟藥水,zh-TW
+Большое зелье чудодейственной силы,大瓶大力奇蹟藥水,zh-TW
+Large Shield Potion,大瓶護盾藥水,zh-TW
+大瓶护盾药水,大瓶護盾藥水,zh-TW
+シールドポーション L,大瓶護盾藥水,zh-TW
+대형 방어 물약,大瓶護盾藥水,zh-TW
+Großer Schildtrank,大瓶護盾藥水,zh-TW
+Grande potion de protection,大瓶護盾藥水,zh-TW
+Poción grande de escudo,大瓶護盾藥水,zh-TW
+Большое зелье щита,大瓶護盾藥水,zh-TW
+Large Boom-Boom-Bang Potion,大瓶暴暴藥水,zh-TW
+大瓶暴暴药水,大瓶暴暴藥水,zh-TW
+ガンガンポーション L,大瓶暴暴藥水,zh-TW
+대형 폭주 물약,大瓶暴暴藥水,zh-TW
+Großer Bum-Bum-Knall-Trank,大瓶暴暴藥水,zh-TW
+Grande potion Boum-Boum-Bang,大瓶暴暴藥水,zh-TW
+Poción grande Bum Bum Pum,大瓶暴暴藥水,zh-TW
+Большое зелье «Бум-бум-бах»,大瓶暴暴藥水,zh-TW
+Large Lifewater Potion,大瓶生命之水,zh-TW
+生命の水 L,大瓶生命之水,zh-TW
+대형 생명수,大瓶生命之水,zh-TW
+Großer Lebenswassertrank,大瓶生命之水,zh-TW
+Grande potion d’eau vivifiante,大瓶生命之水,zh-TW
+Poción grande de agua vital,大瓶生命之水,zh-TW
+Большое зелье живой воды,大瓶生命之水,zh-TW
+Large Breaking Potion,大瓶癱倒藥水,zh-TW
+大瓶瘫倒药水,大瓶癱倒藥水,zh-TW
+へにゃへにゃポーション L,大瓶癱倒藥水,zh-TW
+대형 무기력 물약,大瓶癱倒藥水,zh-TW
+Großer Bruchtrank,大瓶癱倒藥水,zh-TW
+Grande potion de rupture,大瓶癱倒藥水,zh-TW
+Poción grande de ruptura,大瓶癱倒藥水,zh-TW
+Большое зелье разрушения,大瓶癱倒藥水,zh-TW
+Large Hardy Potion,大瓶硬邦邦藥水,zh-TW
+大瓶硬邦邦药水,大瓶硬邦邦藥水,zh-TW
+カチコチポーション L,大瓶硬邦邦藥水,zh-TW
+대형 딴딴 물약,大瓶硬邦邦藥水,zh-TW
+Großer Zähigkeitstrank,大瓶硬邦邦藥水,zh-TW
+Grande potion de robustesse,大瓶硬邦邦藥水,zh-TW
+Poción grande de tenacidad,大瓶硬邦邦藥水,zh-TW
+Большое зелье стойкости,大瓶硬邦邦藥水,zh-TW
+Small Miracle Strength Potion,小瓶大力奇蹟藥水,zh-TW
+小瓶大力奇迹药水,小瓶大力奇蹟藥水,zh-TW
+ミラクル怪力ポーション S,小瓶大力奇蹟藥水,zh-TW
+소형 파워 기적 물약,小瓶大力奇蹟藥水,zh-TW
+Kleiner Wunderkrafttrank,小瓶大力奇蹟藥水,zh-TW
+Petite potion de force miraculeuse,小瓶大力奇蹟藥水,zh-TW
+Poción pequeña de fuerza milagrosa,小瓶大力奇蹟藥水,zh-TW
+Малое зелье чудодейственной силы,小瓶大力奇蹟藥水,zh-TW
+Small Shield Potion,小瓶護盾藥水,zh-TW
+小瓶护盾药水,小瓶護盾藥水,zh-TW
+シールドポーション S,小瓶護盾藥水,zh-TW
+소형 방어 물약,小瓶護盾藥水,zh-TW
+Kleiner Schildtrank,小瓶護盾藥水,zh-TW
+Petite potion de protection,小瓶護盾藥水,zh-TW
+Poción pequeña de escudo,小瓶護盾藥水,zh-TW
+Малое зелье щита,小瓶護盾藥水,zh-TW
+Small Boom-Boom-Bang Potion,小瓶暴暴藥水,zh-TW
+小瓶暴暴药水,小瓶暴暴藥水,zh-TW
+ガンガンポーション S,小瓶暴暴藥水,zh-TW
+소형 폭주 물약,小瓶暴暴藥水,zh-TW
+Kleiner Bum-Bum-Knall-Trank,小瓶暴暴藥水,zh-TW
+Petite potion Boum-Boum-Bang,小瓶暴暴藥水,zh-TW
+Poción pequeña Bum Bum Pum,小瓶暴暴藥水,zh-TW
+Малое зелье «Бум-бум-бах»,小瓶暴暴藥水,zh-TW
+Small Lifewater Potion,小瓶生命之水,zh-TW
+生命の水 S,小瓶生命之水,zh-TW
+소형 생명수,小瓶生命之水,zh-TW
+Kleiner Lebenswassertrank,小瓶生命之水,zh-TW
+Petite potion d’eau vivifiante,小瓶生命之水,zh-TW
+Poción pequeña de agua vital,小瓶生命之水,zh-TW
+Малое зелье живой воды,小瓶生命之水,zh-TW
+Small Breaking Potion,小瓶癱倒藥水,zh-TW
+小瓶瘫倒药水,小瓶癱倒藥水,zh-TW
+へにゃへにゃポーション S,小瓶癱倒藥水,zh-TW
+소형 무기력 물약,小瓶癱倒藥水,zh-TW
+Kleiner Bruchtrank,小瓶癱倒藥水,zh-TW
+Petite potion de rupture,小瓶癱倒藥水,zh-TW
+Poción pequeña de ruptura,小瓶癱倒藥水,zh-TW
+Малое зелье разрушения,小瓶癱倒藥水,zh-TW
+Small Hardy Potion,小瓶硬邦邦藥水,zh-TW
+小瓶硬邦邦药水,小瓶硬邦邦藥水,zh-TW
+カチコチポーション S,小瓶硬邦邦藥水,zh-TW
+소형 딴딴 물약,小瓶硬邦邦藥水,zh-TW
+Kleiner Zähigkeitstrank,小瓶硬邦邦藥水,zh-TW
+Petite potion de robustesse,小瓶硬邦邦藥水,zh-TW
+Poción pequeña de tenacidad,小瓶硬邦邦藥水,zh-TW
+Малое зелье стойкости,小瓶硬邦邦藥水,zh-TW
+Umbral Butterfly,幽影蝶,zh-TW
+幽影の蝶,幽影蝶,zh-TW
+그림자 나비,幽影蝶,zh-TW
+Schatten-Schmetterling,幽影蝶,zh-TW
+Papillon obscur,幽影蝶,zh-TW
+Mariposa sombría,幽影蝶,zh-TW
+Сумеречная бабочка,幽影蝶,zh-TW
+Standard Heavy Can,標準噸噸罐,zh-TW
+标准吨吨罐,標準噸噸罐,zh-TW
+標準ごくごく缶,標準噸噸罐,zh-TW
+표준 통통 용기,標準噸噸罐,zh-TW
+Schwere Standard-Dose,標準噸噸罐,zh-TW
+Boîte massive standard,標準噸噸罐,zh-TW
+Lata pesada estándar,標準噸噸罐,zh-TW
+Стандартная тяжёлая банка,標準噸噸罐,zh-TW
+Regular Chug Jar - Nightmare,標準噸噸罐·惡夢,zh-TW
+标准吨吨罐·噩梦,標準噸噸罐·惡夢,zh-TW
+標準ごくごく缶・悪夢,標準噸噸罐·惡夢,zh-TW
+표준 통통 용기·악몽,標準噸噸罐·惡夢,zh-TW
+Normales Trink-Glas – Albtraum,標準噸噸罐·惡夢,zh-TW
+Bocal « cul sec » standard - Cauchemar,標準噸噸罐·惡夢,zh-TW
+Tarro gluglú común: Pesadilla,標準噸噸罐·惡夢,zh-TW
+Обычная питьевая банка: Кошмар,標準噸噸罐·惡夢,zh-TW
+Sturdy Jar (Valor),標準噸噸罐·幻境,zh-TW
+标准吨吨罐·幻境,標準噸噸罐·幻境,zh-TW
+幻境ベーシック缶,標準噸噸罐·幻境,zh-TW
+표준 통통 용기·환상,標準噸噸罐·幻境,zh-TW
+Robuster Krug (Tapferkeit),標準噸噸罐·幻境,zh-TW
+Bocal robuste (Vaillance),標準噸噸罐·幻境,zh-TW
+Recipiente resistente (Valor),標準噸噸罐·幻境,zh-TW
+Прочный кувшин (Доблесть),標準噸噸罐·幻境,zh-TW
+Regular Chug Jar - Challenge,標準噸噸罐·挑戰,zh-TW
+标准吨吨罐·挑战,標準噸噸罐·挑戰,zh-TW
+標準ごくごく缶・挑戦,標準噸噸罐·挑戰,zh-TW
+표준 통통 용기·챌린지,標準噸噸罐·挑戰,zh-TW
+Normales Trink-Glas – Herausforderung,標準噸噸罐·挑戰,zh-TW
+Bocal « cul sec » standard - Défi,標準噸噸罐·挑戰,zh-TW
+Tarro gluglú común: Desafío,標準噸噸罐·挑戰,zh-TW
+Обычная питьевая банка: Испытание,標準噸噸罐·挑戰,zh-TW
+Chess Piece: Pawn,棋子「兵」,zh-TW
+チェスの駒「ポーン」,棋子「兵」,zh-TW
+기물 「폰」,棋子「兵」,zh-TW
+Schachfigur: Bauer,棋子「兵」,zh-TW
+Pièce d’échecs : pion,棋子「兵」,zh-TW
+Pieza de Ajedrez: Peón,棋子「兵」,zh-TW
+Шахматная фигура: Пешка,棋子「兵」,zh-TW
+Chess Piece: Queen,棋子「后」,zh-TW
+チェスの駒「クイーン」,棋子「后」,zh-TW
+기물 「퀸」,棋子「后」,zh-TW
+Schachfigur: Dame,棋子「后」,zh-TW
+Pièce d’échecs : dame,棋子「后」,zh-TW
+Pieza de ajedrez: Reina,棋子「后」,zh-TW
+Шахматная фигура: Ферзь,棋子「后」,zh-TW
+Chess Piece: King,棋子「王」,zh-TW
+チェスの駒「キング」,棋子「王」,zh-TW
+기물 「킹」,棋子「王」,zh-TW
+Schachfigur: König,棋子「王」,zh-TW
+Pièce d’échecs : roi,棋子「王」,zh-TW
+Pieza de ajedrez: Rey,棋子「王」,zh-TW
+Шахматная фигура: Король,棋子「王」,zh-TW
+Chess Piece: Bishop,棋子「象」,zh-TW
+チェスの駒「ビショップ」,棋子「象」,zh-TW
+기물 「비숍」,棋子「象」,zh-TW
+Schachfigur: Läufer,棋子「象」,zh-TW
+Pièce d’échecs : fou,棋子「象」,zh-TW
+Pieza de ajedrez: alfil,棋子「象」,zh-TW
+Шахматная фигура: Слон,棋子「象」,zh-TW
+Chess Piece: Rook,棋子「車」,zh-TW
+棋子「车」,棋子「車」,zh-TW
+チェスの駒「ルーク」,棋子「車」,zh-TW
+기물 「룩」,棋子「車」,zh-TW
+Schachfigur: Turm,棋子「車」,zh-TW
+Pièce d’échecs : tour,棋子「車」,zh-TW
+Pieza de ajedrez: torre,棋子「車」,zh-TW
+Шахматная фигура: Ладья,棋子「車」,zh-TW
+Chess Piece: Knight,棋子「馬」,zh-TW
+棋子「马」,棋子「馬」,zh-TW
+チェスの駒「ナイト」,棋子「馬」,zh-TW
+기물 「나이트」,棋子「馬」,zh-TW
+Schachfigur: Springer,棋子「馬」,zh-TW
+Pièce d’échecs : cavalier,棋子「馬」,zh-TW
+Pieza de ajedrez: Caballo,棋子「馬」,zh-TW
+Шахматная фигура: Конь,棋子「馬」,zh-TW
+Icy Geode,棒冰晶簇,zh-TW
+フィリング氷晶,棒冰晶簇,zh-TW
+아이스바 결정체,棒冰晶簇,zh-TW
+Eisige Geode,棒冰晶簇,zh-TW
+Géode glacée,棒冰晶簇,zh-TW
+Geoda gélida,棒冰晶簇,zh-TW
+Ледяная жеода,棒冰晶簇,zh-TW
+Warren Gold Coin ×500,沃倫金幣x500,zh-TW
+沃伦金币x500,沃倫金幣x500,zh-TW
+ウォーレン金貨×500,沃倫金幣x500,zh-TW
+워런 금화×500,沃倫金幣x500,zh-TW
+Warren-Goldmünze ×500,沃倫金幣x500,zh-TW
+Pièce d’or Warren ×500,沃倫金幣x500,zh-TW
+Moneda de oro Warren × 500,沃倫金幣x500,zh-TW
+Золотая монета Уоррена ×500,沃倫金幣x500,zh-TW
+"Warren Gold Coin ×5,000",沃倫金幣x5000,zh-TW
+沃伦金币x5000,沃倫金幣x5000,zh-TW
+ウォーレン金貨×5000,沃倫金幣x5000,zh-TW
+"워런 금화×5,000",沃倫金幣x5000,zh-TW
+Warren-Goldmünze ×5000,沃倫金幣x5000,zh-TW
+Pièces d’or Warren ×5000,沃倫金幣x5000,zh-TW
+Moneda de oro Warren × 5000,沃倫金幣x5000,zh-TW
+Золотая монета Уоррена ×5000,沃倫金幣x5000,zh-TW
+Lava Geode,流心晶簇,zh-TW
+フォンダン岩,流心晶簇,zh-TW
+퐁당 결정체,流心晶簇,zh-TW
+Lava-Geode,流心晶簇,zh-TW
+Géode de lave,流心晶簇,zh-TW
+Geoda de lava,流心晶簇,zh-TW
+Лавовая жеода,流心晶簇,zh-TW
+Flower of the Full Moon Knight,滿月騎士花,zh-TW
+满月骑士花,滿月騎士花,zh-TW
+満月騎士の花,滿月騎士花,zh-TW
+만월기사꽃,滿月騎士花,zh-TW
+Blume des Vollmondritters,滿月騎士花,zh-TW
+Fleur du Chevalier de la pleine lune,滿月騎士花,zh-TW
+Flor del Caballero de la Luna Llena,滿月騎士花,zh-TW
+Цветок Рыцаря полной Луны,滿月騎士花,zh-TW
+Leaky Dopey Can,漏風呆呆罐,zh-TW
+漏风呆呆罐,漏風呆呆罐,zh-TW
+すきま風のぼんやり缶,漏風呆呆罐,zh-TW
+구멍 송송 용기,漏風呆呆罐,zh-TW
+Undichtes Dusel-Glas,漏風呆呆罐,zh-TW
+Boîte miteuse percée,漏風呆呆罐,zh-TW
+Lata torpe con fugas,漏風呆呆罐,zh-TW
+Дырявая чудаковатая банка,漏風呆呆罐,zh-TW
+Leaky Daze Jar - Nightmare,漏風呆呆罐·惡夢,zh-TW
+漏风呆呆罐·噩梦,漏風呆呆罐·惡夢,zh-TW
+すきま風のぼんやり缶・悪夢,漏風呆呆罐·惡夢,zh-TW
+구멍 송송 용기·악몽,漏風呆呆罐·惡夢,zh-TW
+Undichtes Dusel-Glas – Albtraum,漏風呆呆罐·惡夢,zh-TW
+Bocal ahuri percé - Cauchemar,漏風呆呆罐·惡夢,zh-TW
+Tarro aturdido con fugas: Pesadilla,漏風呆呆罐·惡夢,zh-TW
+Протекающая банка ступора: Кошмар,漏風呆呆罐·惡夢,zh-TW
+Wonky Jar (Valor),漏風呆呆罐·幻境,zh-TW
+漏风呆呆罐·幻境,漏風呆呆罐·幻境,zh-TW
+幻境ジャンク,漏風呆呆罐·幻境,zh-TW
+구멍 송송 용기·환상,漏風呆呆罐·幻境,zh-TW
+Schiefer Krug (Tapferkeit),漏風呆呆罐·幻境,zh-TW
+Bocal bancal (Vaillance),漏風呆呆罐·幻境,zh-TW
+Recipiente irregular (Valor),漏風呆呆罐·幻境,zh-TW
+Кривой кувшин (Доблесть),漏風呆呆罐·幻境,zh-TW
+Leaky Daze Jar - Challenge,漏風呆呆罐·挑戰,zh-TW
+漏风呆呆罐·挑战,漏風呆呆罐·挑戰,zh-TW
+すきま風のぼんやり缶・挑戦,漏風呆呆罐·挑戰,zh-TW
+구멍 송송 용기·챌린지,漏風呆呆罐·挑戰,zh-TW
+Undichtes Dusel-Glas – Herausforderung,漏風呆呆罐·挑戰,zh-TW
+Bocal ahuri percé - Défi,漏風呆呆罐·挑戰,zh-TW
+Tarro aturdido con fugas: Desafío,漏風呆呆罐·挑戰,zh-TW
+Протекающая банка ступора: Испытание,漏風呆呆罐·挑戰,zh-TW
+Dusty Gear,灰撲撲的齒輪,zh-TW
+灰扑扑的齿轮,灰撲撲的齒輪,zh-TW
+埃まみれの歯車,灰撲撲的齒輪,zh-TW
+먼지투성이 톱니바퀴,灰撲撲的齒輪,zh-TW
+Staubiges Zahnrad,灰撲撲的齒輪,zh-TW
+Engrenage poussiéreux,灰撲撲的齒輪,zh-TW
+Engranaje polvoriento,灰撲撲的齒輪,zh-TW
+Пыльная шестерня,灰撲撲的齒輪,zh-TW
+Ash Leaf,灰燼葉,zh-TW
+灰烬叶,灰燼葉,zh-TW
+灰燼の葉,灰燼葉,zh-TW
+재의 잎,灰燼葉,zh-TW
+Aschenblatt,灰燼葉,zh-TW
+Feuille cendrée,灰燼葉,zh-TW
+Hoja cenicienta,灰燼葉,zh-TW
+Пепельный лист,灰燼葉,zh-TW
+Blazerfly,灼焰蝶,zh-TW
+灼炎の蝶,灼焰蝶,zh-TW
+불꽃 나비,灼焰蝶,zh-TW
+Flammenfliege,灼焰蝶,zh-TW
+Papillon flamboyant,灼焰蝶,zh-TW
+Mosca ígnea,灼焰蝶,zh-TW
+Огнебабочка,灼焰蝶,zh-TW
+Rare Mushroom,稀有的菇,zh-TW
+希少なキノコ,稀有的菇,zh-TW
+희귀한 버섯,稀有的菇,zh-TW
+Seltener Pilz,稀有的菇,zh-TW
+Champignon rare,稀有的菇,zh-TW
+Hongo raro,稀有的菇,zh-TW
+Редкий гриб,稀有的菇,zh-TW
+Emerald Butterfly,翠閃蝶,zh-TW
+翠闪蝶,翠閃蝶,zh-TW
+翠閃の蝶,翠閃蝶,zh-TW
+에메랄드 나비,翠閃蝶,zh-TW
+Smaragdschmetterling,翠閃蝶,zh-TW
+Papillon d’émeraude,翠閃蝶,zh-TW
+Mariposa esmeralda,翠閃蝶,zh-TW
+Изумрудная бабочка,翠閃蝶,zh-TW
+Special Energy Booster,能量補給特調,zh-TW
+能量补给特调,能量補給特調,zh-TW
+特製エナジードリンク,能量補給特調,zh-TW
+에너지 보충 드링크,能量補給特調,zh-TW
+Sonder-Energie-Schub,能量補給特調,zh-TW
+Boisson énergétique spéciale,能量補給特調,zh-TW
+Potenciador especial de energía,能量補給特調,zh-TW
+Особый усилитель энергии,能量補給特調,zh-TW
+Supreme Sparkly Can,至尊閃閃罐,zh-TW
+至尊闪闪罐,至尊閃閃罐,zh-TW
+至高のキラキラ缶,至尊閃閃罐,zh-TW
+초특급 반짝 용기,至尊閃閃罐,zh-TW
+Ultimative Glitzerdose,至尊閃閃罐,zh-TW
+Boîte scintillante suprême,至尊閃閃罐,zh-TW
+Lata reluciente suprema,至尊閃閃罐,zh-TW
+Превосходная блестящая банка,至尊閃閃罐,zh-TW
+Ultra Sparkle Jar - Nightmare,至尊閃閃罐·惡夢,zh-TW
+至尊闪闪罐·噩梦,至尊閃閃罐·惡夢,zh-TW
+至高のキラキラ缶・悪夢,至尊閃閃罐·惡夢,zh-TW
+초특급 반짝 용기·악몽,至尊閃閃罐·惡夢,zh-TW
+Ultra-Glitzer-Glas – Albtraum,至尊閃閃罐·惡夢,zh-TW
+Bocal ultra scintillant - Cauchemar,至尊閃閃罐·惡夢,zh-TW
+Tarro ultrabrillante: Pesadilla,至尊閃閃罐·惡夢,zh-TW
+Сверхблестящая банка: Кошмар,至尊閃閃罐·惡夢,zh-TW
+Gleaming Jar (Valor),至尊閃閃罐·幻境,zh-TW
+至尊闪闪罐·幻境,至尊閃閃罐·幻境,zh-TW
+幻境プラチナ缶,至尊閃閃罐·幻境,zh-TW
+초특급 반짝 용기·환상,至尊閃閃罐·幻境,zh-TW
+Glänzender Krug (Tapferkeit),至尊閃閃罐·幻境,zh-TW
+Bocal scintillant (Vaillance),至尊閃閃罐·幻境,zh-TW
+Recipiente reluciente (Valor),至尊閃閃罐·幻境,zh-TW
+Сияющий кувшин (Доблесть),至尊閃閃罐·幻境,zh-TW
+Ultra Sparkle Jar - Challenge,至尊閃閃罐·挑戰,zh-TW
+至尊闪闪罐·挑战,至尊閃閃罐·挑戰,zh-TW
+至高のキラキラ缶・挑戦,至尊閃閃罐·挑戰,zh-TW
+초특급 반짝 용기·챌린지,至尊閃閃罐·挑戰,zh-TW
+Ultra-Glitzer-Glas – Herausforderung,至尊閃閃罐·挑戰,zh-TW
+Bocal ultra scintillant - Défi,至尊閃閃罐·挑戰,zh-TW
+Tarro ultrabrillante: Desafío,至尊閃閃罐·挑戰,zh-TW
+Сверхблестящая банка: Испытание,至尊閃閃罐·挑戰,zh-TW
+Mushroom,菇,zh-TW
+キノコ,菇,zh-TW
+버섯,菇,zh-TW
+Pilz,菇,zh-TW
+Champignon,菇,zh-TW
+Hongo,菇,zh-TW
+Гриб,菇,zh-TW
+Flower of the Falling Moon Knight,落月騎士花,zh-TW
+落月骑士花,落月騎士花,zh-TW
+落月騎士の花,落月騎士花,zh-TW
+낙월기사꽃,落月騎士花,zh-TW
+Blume des Mondfall-Ritters,落月騎士花,zh-TW
+Fleur du Chevalier de la lune déchue,落月騎士花,zh-TW
+Flor del Caballero de la Luna Caída,落月騎士花,zh-TW
+Цветок Рыцаря падающей Луны,落月騎士花,zh-TW
+Pom-Pom Yarn Ball,蓬蓬棉線團,zh-TW
+蓬蓬棉线团,蓬蓬棉線團,zh-TW
+モフモフの毛糸玉,蓬蓬棉線團,zh-TW
+폭신폭신 실타래,蓬蓬棉線團,zh-TW
+Pompon-Wollknäuel,蓬蓬棉線團,zh-TW
+Pelote à pompons,蓬蓬棉線團,zh-TW
+Bola de lana con pompón,蓬蓬棉線團,zh-TW
+Клубок пряжи с помпоном,蓬蓬棉線團,zh-TW
+Fuzzy-Rolling Pin,趕綿杖,zh-TW
+赶绵杖,趕綿杖,zh-TW
+メェ追い棒,趕綿杖,zh-TW
+솜몰이 막대기,趕綿杖,zh-TW
+Flauschi-Nudelholz,趕綿杖,zh-TW
+Rouleau à Moumouton,趕綿杖,zh-TW
+Rodillo para Peludo,趕綿杖,zh-TW
+Скалка для кудряшей,趕綿杖,zh-TW
+Spicy Fungi,辣菇,zh-TW
+激辛キノコ,辣菇,zh-TW
+매운 버섯,辣菇,zh-TW
+Scharfe Pilze,辣菇,zh-TW
+Champignons épicés,辣菇,zh-TW
+Hongos picantes,辣菇,zh-TW
+Острые грибы,辣菇,zh-TW
+Misty Fruit,迷霧果實,zh-TW
+迷雾果实,迷霧果實,zh-TW
+霧の果実,迷霧果實,zh-TW
+안개 열매,迷霧果實,zh-TW
+Misty-Obst,迷霧果實,zh-TW
+Fruit brumeux,迷霧果實,zh-TW
+Fruta de niebla,迷霧果實,zh-TW
+Туманный плод,迷霧果實,zh-TW
+Flower of the Knight,騎士花,zh-TW
+骑士花,騎士花,zh-TW
+騎士の花,騎士花,zh-TW
+기사꽃,騎士花,zh-TW
+Blume des Ritters,騎士花,zh-TW
+Fleur du chevalier,騎士花,zh-TW
+Flor del caballero,騎士花,zh-TW
+Цветок Рыцаря,騎士花,zh-TW
+Shared Emberdream,共燃之夢,zh-TW
+共燃之梦,共燃之夢,zh-TW
+共燃の夢,共燃之夢,zh-TW
+공명하는 불길의 꿈,共燃之夢,zh-TW
+Geteilter Gluttraum,共燃之夢,zh-TW
+Songe de braises partagées,共燃之夢,zh-TW
+Sueño de ascuas compartidas,共燃之夢,zh-TW
+Общий тлеющий сон,共燃之夢,zh-TW
+Thousand-Wind Verse,千風之章,zh-TW
+千风之章,千風之章,zh-TW
+千風の章,千風之章,zh-TW
+천 갈래의 바람,千風之章,zh-TW
+Vers der Tausend Winde,千風之章,zh-TW
+Strophe des mille vents,千風之章,zh-TW
+Verso milvientos,千風之章,zh-TW
+Стих тысячи ветров,千風之章,zh-TW
+Blazing Splendor,華光如焰,zh-TW
+华光如焰,華光如焰,zh-TW
+華光の如焔,華光如焰,zh-TW
+눈부신 불꽃,華光如焰,zh-TW
+Lodernde Pracht,華光如焰,zh-TW
+Splendeur ardente,華光如焰,zh-TW
+Esplendor ardiente,華光如焰,zh-TW
+Пылающее великолепие,華光如焰,zh-TW
+Fieldstalker,原野獵者,zh-TW
+原野猎者,原野獵者,zh-TW
+原野の狩人,原野獵者,zh-TW
+광야의 사냥꾼,原野獵者,zh-TW
+Feldpirscher,原野獵者,zh-TW
+Traqueur des plaines,原野獵者,zh-TW
+Acechallanuras,原野獵者,zh-TW
+Полевой следопыт,原野獵者,zh-TW
+Sunward Windrider,向日乘風,zh-TW
+向日乘风,向日乘風,zh-TW
+追日の風,向日乘風,zh-TW
+태양을 향한 비상,向日乘風,zh-TW
+Sunward-Windreiter,向日乘風,zh-TW
+Chevaucheur de vent de Solaire,向日乘風,zh-TW
+Jinete del viento Solardiente,向日乘風,zh-TW
+Солнцекрылый всадник ветра,向日乘風,zh-TW
+Night Hunt,夜獵時分,zh-TW
+夜猎时分,夜獵時分,zh-TW
+夜猟の時,夜獵時分,zh-TW
+밤사냥 시간,夜獵時分,zh-TW
+Nachtjagd,夜獵時分,zh-TW
+Chasse nocturne,夜獵時分,zh-TW
+Caza Nocturna,夜獵時分,zh-TW
+Ночная охота,夜獵時分,zh-TW
+Sword of Dawn,拂曉之劍,zh-TW
+拂晓之剑,拂曉之劍,zh-TW
+黎明の剣,拂曉之劍,zh-TW
+새벽녘의 검,拂曉之劍,zh-TW
+Dämmerungsschwert,拂曉之劍,zh-TW
+Épée de l’aube,拂曉之劍,zh-TW
+Espada del alba,拂曉之劍,zh-TW
+Меч рассвета,拂曉之劍,zh-TW
+Song of Dawn,拂曉之歌,zh-TW
+拂晓之歌,拂曉之歌,zh-TW
+黎明の歌,拂曉之歌,zh-TW
+새벽녘의 노래,拂曉之歌,zh-TW
+Dämmerungslied,拂曉之歌,zh-TW
+Chanson de l'aube,拂曉之歌,zh-TW
+Canto del alba,拂曉之歌,zh-TW
+Песнь рассвета,拂曉之歌,zh-TW
+Flame of Dawn,拂曉之炎,zh-TW
+拂晓之炎,拂曉之炎,zh-TW
+黎明の炎,拂曉之炎,zh-TW
+새벽녘의 태양,拂曉之炎,zh-TW
+Dämmerungsflamme,拂曉之炎,zh-TW
+Flamme de l’aube,拂曉之炎,zh-TW
+Llama del alba,拂曉之炎,zh-TW
+Пламя рассвета,拂曉之炎,zh-TW
+Cloudbreak Dawn,撥雲即明,zh-TW
+拨云即明,撥雲即明,zh-TW
+雲間の光,撥雲即明,zh-TW
+구름이 걷힌 창공,撥雲即明,zh-TW
+Wolkenbrecher-Dämmerung,撥雲即明,zh-TW
+Brise-nuages de l’aube,撥雲即明,zh-TW
+Rompenubes del alba,撥雲即明,zh-TW
+"Заря, разгоняющая тучи",撥雲即明,zh-TW
+Starborne Tide,星潮旅歌,zh-TW
+星潮の旅歌,星潮旅歌,zh-TW
+물결치는 별의 노래,星潮旅歌,zh-TW
+Sterngeborene Flut,星潮旅歌,zh-TW
+Marée stellaire,星潮旅歌,zh-TW
+Marea estelar,星潮旅歌,zh-TW
+Звёздный прилив,星潮旅歌,zh-TW
+Dreams Aglow,昭輝入夢,zh-TW
+昭辉入梦,昭輝入夢,zh-TW
+輝光の夢見,昭輝入夢,zh-TW
+꿈에 깃든 찬란한 빛,昭輝入夢,zh-TW
+Leuchtende Träume,昭輝入夢,zh-TW
+Rêves incandescents,昭輝入夢,zh-TW
+Sueños resplandecientes,昭輝入夢,zh-TW
+Сияющие грёзы,昭輝入夢,zh-TW
+Endless Starlight,晝夜星河,zh-TW
+昼夜星河,晝夜星河,zh-TW
+昼夜の星河,晝夜星河,zh-TW
+낮과 밤의 은하수,晝夜星河,zh-TW
+Endloses Sternenlicht,晝夜星河,zh-TW
+Lueur stellaire sans fin,晝夜星河,zh-TW
+Luz estelar eterna,晝夜星河,zh-TW
+Бесконечный звёздный свет,晝夜星河,zh-TW
+Daybreak Breeze,曉風初晴,zh-TW
+晓风初晴,曉風初晴,zh-TW
+暁風の初晴,曉風初晴,zh-TW
+새벽바람과 맑은 하늘,曉風初晴,zh-TW
+Morgenbrise,曉風初晴,zh-TW
+Brise de l’aube,曉風初晴,zh-TW
+Brisa del alba,曉風初晴,zh-TW
+Предрассветный бриз,曉風初晴,zh-TW
+Dusken Reverie,晦暗之夢,zh-TW
+晦暗之梦,晦暗之夢,zh-TW
+晦冥の夢,晦暗之夢,zh-TW
+어스름의 꿈,晦暗之夢,zh-TW
+Träumerei im Zwielicht,晦暗之夢,zh-TW
+Rêverie du crépuscule,晦暗之夢,zh-TW
+Ensueño crepuscular,晦暗之夢,zh-TW
+Сумеречные грёзы,晦暗之夢,zh-TW
+Dawnstar Rising,晨星啟明,zh-TW
+晨星启明,晨星啟明,zh-TW
+晨星の明光,晨星啟明,zh-TW
+샛별의 계시,晨星啟明,zh-TW
+Aufgehender Morgenstern,晨星啟明,zh-TW
+Étoile montante de l’aube,晨星啟明,zh-TW
+Ascenso de la estrella del alba,晨星啟明,zh-TW
+Восхождение рассветной звезды,晨星啟明,zh-TW
+Dawnbell Hymn,晨鐘牧歌,zh-TW
+晨钟牧歌,晨鐘牧歌,zh-TW
+暁鐘の牧歌,晨鐘牧歌,zh-TW
+새벽 종의 목가,晨鐘牧歌,zh-TW
+Hymnus der Dämmerungsglocke,晨鐘牧歌,zh-TW
+Hymne de la cloche de l’aube,晨鐘牧歌,zh-TW
+Himno de la campana del alba,晨鐘牧歌,zh-TW
+Гимн рассветного колокола,晨鐘牧歌,zh-TW
+Nightfall Embers,永夜餘燼,zh-TW
+永夜余烬,永夜餘燼,zh-TW
+永夜の余燼,永夜餘燼,zh-TW
+영원한 밤의 잔불,永夜餘燼,zh-TW
+Dämmerglut,永夜餘燼,zh-TW
+Braises du crépuscule,永夜餘燼,zh-TW
+Brasas del anochecer,永夜餘燼,zh-TW
+Угли наступающей ночи,永夜餘燼,zh-TW
+Falling Firestream,流火如墜,zh-TW
+流火如坠,流火如墜,zh-TW
+メテオ・ストライク,流火如墜,zh-TW
+불꽃의 추락,流火如墜,zh-TW
+Herabstürzender Feuerstrom,流火如墜,zh-TW
+Chute de flammes,流火如墜,zh-TW
+Caída de flamas,流火如墜,zh-TW
+Огненный водопад,流火如墜,zh-TW
+Wandering Star Ballad,漫遊星曲,zh-TW
+漫游星曲,漫遊星曲,zh-TW
+星々の曲,漫遊星曲,zh-TW
+유랑하는 별의 노래,漫遊星曲,zh-TW
+Ballade vom wandernden Stern,漫遊星曲,zh-TW
+Ballade de l’étoile vagabonde,漫遊星曲,zh-TW
+Balada de la estrella errante,漫遊星曲,zh-TW
+Баллада о странствующей звезде,漫遊星曲,zh-TW
+Blazing Pursuit,熾光追擊,zh-TW
+炽光追击,熾光追擊,zh-TW
+灼光の追撃,熾光追擊,zh-TW
+타오르는 섬광의 추격,熾光追擊,zh-TW
+Lodernde Jagd,熾光追擊,zh-TW
+Poursuite ardente,熾光追擊,zh-TW
+Persecución ardiente,熾光追擊,zh-TW
+Пылающая погоня,熾光追擊,zh-TW
+Embers Aglow,焰落生輝,zh-TW
+焰落生辉,焰落生輝,zh-TW
+焔落の生輝,焰落生輝,zh-TW
+내려앉은 불꽃,焰落生輝,zh-TW
+Glimmende Glut,焰落生輝,zh-TW
+Braises incandescentes,焰落生輝,zh-TW
+Brasas resplandecientes,焰落生輝,zh-TW
+Сияющие угольки,焰落生輝,zh-TW
+Shepherd's Suite,牧羊組曲,zh-TW
+牧羊组曲,牧羊組曲,zh-TW
+양치기 모음곡,牧羊組曲,zh-TW
+Hirtenlied,牧羊組曲,zh-TW
+Suite du berger,牧羊組曲,zh-TW
+Conjunto del pastor,牧羊組曲,zh-TW
+Пастушья сюита,牧羊組曲,zh-TW
+Pastoral Grace,田園牧歌,zh-TW
+田园牧歌,田園牧歌,zh-TW
+전원의 목가,田園牧歌,zh-TW
+Anmut des Hirtenlieds,田園牧歌,zh-TW
+Charme champêtre,田園牧歌,zh-TW
+Gracia pastoral,田園牧歌,zh-TW
+Пасторальная грация,田園牧歌,zh-TW
+Whiteflame Ballad,白焰長歌,zh-TW
+白焰长歌,白焰長歌,zh-TW
+白焔の調べ,白焰長歌,zh-TW
+흰 불꽃의 노래,白焰長歌,zh-TW
+Ballade der Weißflamme,白焰長歌,zh-TW
+Ballade de la flamme blanche,白焰長歌,zh-TW
+Balada de flamablanca,白焰長歌,zh-TW
+Баллада белого пламени,白焰長歌,zh-TW
+Freefarer,自由旅人,zh-TW
+自由な旅人,自由旅人,zh-TW
+자유로운 여행자,自由旅人,zh-TW
+Freiwanderer,自由旅人,zh-TW
+Erre-au-vent,自由旅人,zh-TW
+Viajero libre,自由旅人,zh-TW
+Вольный скиталец,自由旅人,zh-TW
+Blessed Nightfall,良夜長存,zh-TW
+良夜长存,良夜長存,zh-TW
+終わらぬ夜,良夜長存,zh-TW
+영원히 평온한 밤,良夜長存,zh-TW
+Segnung des Nachtfalls,良夜長存,zh-TW
+Bénédiction du crépuscule,良夜長存,zh-TW
+Bendición del anochecer,良夜長存,zh-TW
+Одарение сумерек,良夜長存,zh-TW
+Wishes Bloom,花間拾願,zh-TW
+花间拾愿,花間拾願,zh-TW
+花間の拾願,花間拾願,zh-TW
+꽃밭에서 주운 소원,花間拾願,zh-TW
+Aufblühende Wünsche,花間拾願,zh-TW
+Vœux en fleur,花間拾願,zh-TW
+Deseos entre flores,花間拾願,zh-TW
+Цветущие желания,花間拾願,zh-TW
+Astral Undertow,蝕星潮歌,zh-TW
+蚀星潮歌,蝕星潮歌,zh-TW
+蝕星の潮歌,蝕星潮歌,zh-TW
+잠식하는 별의 노래,蝕星潮歌,zh-TW
+Astralsog,蝕星潮歌,zh-TW
+Ressac astral,蝕星潮歌,zh-TW
+Corriente astral,蝕星潮歌,zh-TW
+Астральный омут,蝕星潮歌,zh-TW
+Heavenrend Light,裁破天光,zh-TW
+天光ブレイク,裁破天光,zh-TW
+하늘을 가르는 일격,裁破天光,zh-TW
+Himmelsreißendes Licht,裁破天光,zh-TW
+Lumière tranche-ciel,裁破天光,zh-TW
+Luz Rrasgacielos,裁破天光,zh-TW
+"Свет, рассекающий небеса",裁破天光,zh-TW
+Sage's Stone,賢者之石,zh-TW
+贤者之石,賢者之石,zh-TW
+賢者の石,賢者之石,zh-TW
+현자의 돌,賢者之石,zh-TW
+Stein des Weisen,賢者之石,zh-TW
+Pierre du sage,賢者之石,zh-TW
+Piedra del sabio,賢者之石,zh-TW
+Камень Мудреца,賢者之石,zh-TW
+Sunseeker Light,逐日之光,zh-TW
+太陽を追う光,逐日之光,zh-TW
+태양을 좇는 빛,逐日之光,zh-TW
+Sonnenjäger-Licht,逐日之光,zh-TW
+Lumière cherche-soleil,逐日之光,zh-TW
+Luz buscasol,逐日之光,zh-TW
+Свет искателя солнца,逐日之光,zh-TW
+Windborne Plumes,逐風凌羽,zh-TW
+逐风凌羽,逐風凌羽,zh-TW
+追風の飛翔,逐風凌羽,zh-TW
+풍운의 날갯짓,逐風凌羽,zh-TW
+Windgetragene Federn,逐風凌羽,zh-TW
+Plumes au vent,逐風凌羽,zh-TW
+Plumas al viento,逐風凌羽,zh-TW
+Рождённые ветром перья,逐風凌羽,zh-TW
+Haven of Night,長夜歸處,zh-TW
+长夜归处,長夜歸處,zh-TW
+常夜の帰路,長夜歸處,zh-TW
+긴 밤의 보금자리,長夜歸處,zh-TW
+Zuflucht der Nacht,長夜歸處,zh-TW
+Refuge de la nuit,長夜歸處,zh-TW
+Refugio de la Noche,長夜歸處,zh-TW
+Прибежище ночи,長夜歸處,zh-TW
+Where the Wind Returns,風起歸處,zh-TW
+风起归处,風起歸處,zh-TW
+風の故郷,風起歸處,zh-TW
+바람의 보금자리,風起歸處,zh-TW
+Wo der Wind wiederkehrt,風起歸處,zh-TW
+Là où retourne le vent,風起歸處,zh-TW
+Donde regresa el viento,風起歸處,zh-TW
+"Место, куда возвращается ветер",風起歸處,zh-TW
+Dragon and the Shepherd,龍與牧羊人,zh-TW
+龙与牧羊人,龍與牧羊人,zh-TW
+竜と羊飼い,龍與牧羊人,zh-TW
+용과 양치기,龍與牧羊人,zh-TW
+Drache und Hirte,龍與牧羊人,zh-TW
+Le Dragon et le berger,龍與牧羊人,zh-TW
+El dragón y el pastor,龍與牧羊人,zh-TW
+Дракон и Пастух,龍與牧羊人,zh-TW
+Dragon and Dragonhunter,龍與獵龍人,zh-TW
+龙与猎龙人,龍與獵龍人,zh-TW
+竜と竜狩り,龍與獵龍人,zh-TW
+용과 용 사냥꾼,龍與獵龍人,zh-TW
+Drache und Drachenjäger,龍與獵龍人,zh-TW
+Dragon et Chasseuse de dragons,龍與獵龍人,zh-TW
+El dragón y el cazador de dragones,龍與獵龍人,zh-TW
+Дракон и Драконоборец,龍與獵龍人,zh-TW
+Dragon and Crimson Dragon,龍與赤龍,zh-TW
+龙与赤龙,龍與赤龍,zh-TW
+竜と赤竜,龍與赤龍,zh-TW
+용과 적룡,龍與赤龍,zh-TW
+Drache und Purpurdrache,龍與赤龍,zh-TW
+Dragon et Dragon cramoisi,龍與赤龍,zh-TW
+El dragón y el Dragón Carmesí,龍與赤龍,zh-TW
+Дракон и Багровый дракон,龍與赤龍,zh-TW
+Dragonflame Suite,龍炎組曲,zh-TW
+龙炎组曲,龍炎組曲,zh-TW
+竜炎組曲,龍炎組曲,zh-TW
+용염 모음곡,龍炎組曲,zh-TW
+Drachenflammenlied,龍炎組曲,zh-TW
+Suite des flammes draconiques,龍炎組曲,zh-TW
+Conjunto de fuego dracónico,龍炎組曲,zh-TW
+Сюита драконьего пламени,龍炎組曲,zh-TW
+The Cafe by Origen Guide,「一咖舍」說明,zh-TW
+「一咖舍」说明,「一咖舍」說明,zh-TW
+「壱のコーヒー」説明,「一咖舍」說明,zh-TW
+「별미 카페」 설명,「一咖舍」說明,zh-TW
+Anleitung für das Café von Origen,「一咖舍」說明,zh-TW
+Guide du Café par Origen,「一咖舍」說明,zh-TW
+Guía de El Café de Origen,「一咖舍」說明,zh-TW
+Руководство по управлению кафе «Ориген»,「一咖舍」說明,zh-TW
+World Ranking Overview,「世界排名」說明,zh-TW
+「世界排名」说明,「世界排名」說明,zh-TW
+「世界ランキング」について,「世界排名」說明,zh-TW
+「세계 랭킹」 설명,「世界排名」說明,zh-TW
+Übersicht zur „Weltrangliste“,「世界排名」說明,zh-TW
+Aperçu du « Classement mondial »,「世界排名」說明,zh-TW
+Descripción general de «Clasificación mundial»,「世界排名」說明,zh-TW
+Обзор «Мирового рейтинга»,「世界排名」說明,zh-TW
+Pixel Surge Rules,「像素溢出」說明,zh-TW
+「像素溢出」说明,「像素溢出」說明,zh-TW
+「ピクセルオーバーフロー」説明,「像素溢出」說明,zh-TW
+「픽셀 대방출」 설명,「像素溢出」說明,zh-TW
+Pixel-Anstieg-Regeln,「像素溢出」說明,zh-TW
+Règles de Déferlement de pixels,「像素溢出」說明,zh-TW
+Reglas de Aumento de píxeles,「像素溢出」說明,zh-TW
+Правила «Всплеска пикселей»,「像素溢出」說明,zh-TW
+Bagel Data Authorization Notice,「唄果」資料授權聲明,zh-TW
+「呗果」数据授权声明,「唄果」資料授權聲明,zh-TW
+「ベーグル」データライセンスに関する声明,「唄果」資料授權聲明,zh-TW
+「베이글」 데이터 활용 안내,「唄果」資料授權聲明,zh-TW
+Bagel-Datenzustimmungshinweis,「唄果」資料授權聲明,zh-TW
+Avis relatif à l’autorisation de traitement des données sur Bagel,「唄果」資料授權聲明,zh-TW
+Notificación de autorización de datos de Bagel,「唄果」資料授權聲明,zh-TW
+Уведомление об авторизации данных в Bagel,「唄果」資料授權聲明,zh-TW
+Bagel Community Guidelines,「唄果」社群公約,zh-TW
+「呗果」社区公约,「唄果」社群公約,zh-TW
+「ベーグル」コミュニティ規約,「唄果」社群公約,zh-TW
+「베이글」 커뮤니티 규칙,「唄果」社群公約,zh-TW
+Bagel-Community-Richtlinien,「唄果」社群公約,zh-TW
+Règles de la communauté Bagel,「唄果」社群公約,zh-TW
+Normas de la comunidad de Bagel,「唄果」社群公約,zh-TW
+Правила сообщества Bagel,「唄果」社群公約,zh-TW
+Tycoon Incentive Fund Guide,「大亨計畫激勵金」說明,zh-TW
+「大亨计划激励金」说明,「大亨計畫激勵金」說明,zh-TW
+「プロジェクト・ミリオン」について,「大亨計畫激勵金」說明,zh-TW
+「타이쿤 프로젝트 지원금」 설명,「大亨計畫激勵金」說明,zh-TW
+Anleitung zum Tycoon-Anreiz-Fonds,「大亨計畫激勵金」說明,zh-TW
+Guide du Fonds d’incitation du magnat,「大亨計畫激勵金」說明,zh-TW
+Guía del Fondo de incentivos del magnate,「大亨計畫激勵金」說明,zh-TW
+Руководство по Фонду поощрения магнатов,「大亨計畫激勵金」說明,zh-TW
+Gold Clash Rules,「奪金大作戰」說明,zh-TW
+「夺金大作战」说明,「奪金大作戰」說明,zh-TW
+「略奪大作戦」説明,「奪金大作戰」說明,zh-TW
+「골드러시 대작전」 설명,「奪金大作戰」說明,zh-TW
+Gold-Clash-Regeln,「奪金大作戰」說明,zh-TW
+Règles de Sus à l’or,「奪金大作戰」說明,zh-TW
+Reglas de Choque dorado,「奪金大作戰」說明,zh-TW
+Правила «Битвы за золото»,「奪金大作戰」說明,zh-TW
+Pawbes Rich List Guide,「富爪榜」說明,zh-TW
+「富爪榜」说明,「富爪榜」說明,zh-TW
+「にくきゅうランキング」説明,「富爪榜」說明,zh-TW
+「핑크 자산 랭킹」 설명,「富爪榜」說明,zh-TW
+Anleitung zum Vermögensrangliste,「富爪榜」說明,zh-TW
+Guide du Classement des richesses des pattes,「富爪榜」說明,zh-TW
+Guía del tablero de riquezas,「富爪榜」說明,zh-TW
+Руководство по списку богачей,「富爪榜」說明,zh-TW
+Patrol Sweep Operation Details,「巡哨清掃計畫」說明,zh-TW
+「巡哨清扫计划」说明,「巡哨清掃計畫」說明,zh-TW
+「パトロール大作戦」について,「巡哨清掃計畫」說明,zh-TW
+「순찰 작전 행동」 설명,「巡哨清掃計畫」說明,zh-TW
+Schnurrpatrouille-Details,「巡哨清掃計畫」說明,zh-TW
+Détails de Patrouille de Moustaches,「巡哨清掃計畫」說明,zh-TW
+Detalles de Patrulla Whisker,「巡哨清掃計畫」說明,zh-TW
+Подробности о «Патруль Усатика»,「巡哨清掃計畫」說明,zh-TW
+Volley Star Guide,「排球之星」玩法說明,zh-TW
+「排球之星」玩法说明,「排球之星」玩法說明,zh-TW
+「スターズ・バレー」コンテンツ説明,「排球之星」玩法說明,zh-TW
+「배구 스타」 콘텐츠 설명,「排球之星」玩法說明,zh-TW
+Gameplay-Anleitung zu Volleyballstar,「排球之星」玩法說明,zh-TW
+Guide de jeu de « Étoile du volley »,「排球之星」玩法說明,zh-TW
+Guía de juego de «Estrella de voleibol»,「排球之星」玩法說明,zh-TW
+Руководство по игре «Звезда волейбола»,「排球之星」玩法說明,zh-TW
+Auto Equip Guide,「智慧裝配」說明,zh-TW
+「智能装配」说明,「智慧裝配」說明,zh-TW
+「おまかせ装備」説明,「智慧裝配」說明,zh-TW
+「스마트 장착」 설명,「智慧裝配」說明,zh-TW
+Auto-Ausrüsten-Anleitung,「智慧裝配」說明,zh-TW
+Guide d’équipement automatique,「智慧裝配」說明,zh-TW
+Guía de equipamiento automático,「智慧裝配」說明,zh-TW
+Руководство по автоприменению,「智慧裝配」說明,zh-TW
+Fons Rush Rules,「掏方斯記」說明,zh-TW
+「淘方斯记」说明,「掏方斯記」說明,zh-TW
+「ファンスラッシュ」説明,「掏方斯記」說明,zh-TW
+「폰즈 러시」 설명,「掏方斯記」說明,zh-TW
+Regeln für den Fons-Rausch,「掏方斯記」說明,zh-TW
+Règles de Ruée vers les Fons,「掏方斯記」說明,zh-TW
+Reglas de Fiebre de Fons,「掏方斯記」說明,zh-TW
+Правила «Фонсовой лихорадки»,「掏方斯記」說明,zh-TW
+Riichi Mahjong Guide,「立直麻將」說明,zh-TW
+「立直麻将」说明,「立直麻將」說明,zh-TW
+「リーチ麻雀」説明,「立直麻將」說明,zh-TW
+「리치마작」 설명,「立直麻將」說明,zh-TW
+Riichi-Mahjong-Leitfaden,「立直麻將」說明,zh-TW
+Guide du Riichi Mahjong,「立直麻將」說明,zh-TW
+Guía de Riichi Mahjong,「立直麻將」說明,zh-TW
+Руководство по «Риичи-маджонгу»,「立直麻將」說明,zh-TW
+Pink Paws Heist Rules,「粉爪大劫案」說明,zh-TW
+「粉爪大劫案」说明,「粉爪大劫案」說明,zh-TW
+「にくきゅう大強盗」説明,「粉爪大劫案」說明,zh-TW
+「핑크퍼스를 털어라」 설명,「粉爪大劫案」說明,zh-TW
+Regeln für Raub der rosa Pfötchen,「粉爪大劫案」說明,zh-TW
+Règles du Casse des Pattes roses,「粉爪大劫案」說明,zh-TW
+Reglas del Atraco a Pink Paws,「粉爪大劫案」說明,zh-TW
+Правила Ограбления «Розовых лапок»,「粉爪大劫案」說明,zh-TW
+Mahjong Inferno Guide,「血流麻將」說明,zh-TW
+「血流麻将」说明,「血流麻將」說明,zh-TW
+「血流麻雀」説明,「血流麻將」說明,zh-TW
+「혈류마작」 설명,「血流麻將」說明,zh-TW
+Handbuch „Mahjong Inferno“,「血流麻將」說明,zh-TW
+Guide du mahjong inferno,「血流麻將」說明,zh-TW
+Guía de Mahjong Inferno,「血流麻將」說明,zh-TW
+Руководство «Адского маджонга»,「血流麻將」說明,zh-TW
+999 Nights,九百九十九夜,zh-TW
+999일 야화,九百九十九夜,zh-TW
+999 Nächte,九百九十九夜,zh-TW
+999 nuits,九百九十九夜,zh-TW
+999 Noches,九百九十九夜,zh-TW
+999 ночей,九百九十九夜,zh-TW
+Riftcrystal Mining Permit,異晶開採憑證,zh-TW
+异晶开采凭证,異晶開採憑證,zh-TW
+異晶採掘免許証,異晶開採憑證,zh-TW
+이상 수정 채굴증,異晶開採憑證,zh-TW
+Risskristall-Abbauzulassung,異晶開採憑證,zh-TW
+Permis d’extraction des cristaux de la faille,異晶開採憑證,zh-TW
+Permiso para extraer Cristalfisura,異晶開採憑證,zh-TW
+Разрешение на добычу рифткристаллов,異晶開採憑證,zh-TW
+Fight Club,格鬥俱樂部,zh-TW
+格斗俱乐部,格鬥俱樂部,zh-TW
+ファイトクラブ,格鬥俱樂部,zh-TW
+파이트 클럽,格鬥俱樂部,zh-TW
+Kampfklub,格鬥俱樂部,zh-TW
+Club de combate,格鬥俱樂部,zh-TW
+Бойцовский клуб,格鬥俱樂部,zh-TW
+Circle Bounty Guide,環期賞令說明,zh-TW
+环期赏令说明,環期賞令說明,zh-TW
+ハンター褒章について,環期賞令說明,zh-TW
+시즌 패스 설명,環期賞令說明,zh-TW
+Zirkel-Kopfgeld-Anleitung,環期賞令說明,zh-TW
+Guide des primes du Cercle,環期賞令說明,zh-TW
+Guía de Botín del círculo,環期賞令說明,zh-TW
+Руководство по круговым миссиям с наградой,環期賞令說明,zh-TW
+Rules,規則說明,zh-TW
+规则说明,規則說明,zh-TW
+ルール説明,規則說明,zh-TW
+규칙 설명,規則說明,zh-TW
+Regeln,規則說明,zh-TW
+Règles,規則說明,zh-TW
+Reglas,規則說明,zh-TW
+Правила,規則說明,zh-TW
+Introduction: Beyond the Rails,軌外之境說明,zh-TW
+轨外之境说明,軌外之境說明,zh-TW
+軌道外領域について,軌外之境說明,zh-TW
+궤도 너머 설명,軌外之境說明,zh-TW
+Einführung: Jenseits der Schienen,軌外之境說明,zh-TW
+Présentation : Par-delà les rails,軌外之境說明,zh-TW
+Introducción: Más allá de los rieles,軌外之境說明,zh-TW
+Введение: «За рельсами»,軌外之境說明,zh-TW
+Invitation Mode Guide,邀約玩法說明,zh-TW
+邀约玩法说明,邀約玩法說明,zh-TW
+キャラ招待について,邀約玩法說明,zh-TW
+초대 콘텐츠 설명,邀約玩法說明,zh-TW
+Einladungsmodus-Anleitung,邀約玩法說明,zh-TW
+Guide du mode Invitation,邀約玩法說明,zh-TW
+Guía de modo por invitación,邀約玩法說明,zh-TW
+Руководство по режиму приглашений,邀約玩法說明,zh-TW
+Fish Tank Setup,魚缸佈景,zh-TW
+鱼缸置景,魚缸佈景,zh-TW
+水槽の設置,魚缸佈景,zh-TW
+어항 꾸미기,魚缸佈景,zh-TW
+Aufstellen des Aquariums,魚缸佈景,zh-TW
+Configuration de l’aquarium,魚缸佈景,zh-TW
+Configuración de la Pecera,魚缸佈景,zh-TW
+Настройка аквариума,魚缸佈景,zh-TW

@@ -1,1 +1,588 @@
 ﻿source,target,tgt_lng
+Main DPS,메인 딜러형,ko-KR
+主力输出,메인 딜러형,ko-KR
+主力輸出,메인 딜러형,ko-KR
+メイン攻撃力,메인 딜러형,ko-KR
+Haupt-SCH,메인 딜러형,ko-KR
+DPS principal,메인 딜러형,ko-KR
+Основной ДД,메인 딜러형,ko-KR
+DMG Redirection,피해 분담형,ko-KR
+伤害分摊,피해 분담형,ko-KR
+傷害分攤,피해 분담형,ko-KR
+ダメージ分担,피해 분담형,ko-KR
+SCH-Umlenkung,피해 분담형,ko-KR
+Redirection des DÉG,피해 분담형,ko-KR
+Redirección de daño,피해 분담형,ko-KR
+Перенаправление урона,피해 분담형,ko-KR
+Break Boost,붕괴 버프형,ko-KR
+倾陷增益,붕괴 버프형,ko-KR
+傾陷增益,붕괴 버프형,ko-KR
+ブレイクバフ,붕괴 버프형,ko-KR
+Bruch-Schub,붕괴 버프형,ko-KR
+Bonus de rupture,붕괴 버프형,ko-KR
+Impulso de ruptura,붕괴 버프형,ko-KR
+Усиление разрушения,붕괴 버프형,ko-KR
+Instant Cycle,쾌속 사이클,ko-KR
+即瞬环合,쾌속 사이클,ko-KR
+即瞬環合,쾌속 사이클,ko-KR
+即時連環,쾌속 사이클,ko-KR
+Sofortzyklus,쾌속 사이클,ko-KR
+Cycle instantané,쾌속 사이클,ko-KR
+Ciclo instantáneo,쾌속 사이클,ko-KR
+Мгновенный цикл,쾌속 사이클,ko-KR
+Buff,버프형,ko-KR
+增益,버프형,ko-KR
+バフ,버프형,ko-KR
+Mejora,버프형,ko-KR
+Усиление,버프형,ko-KR
+Shield,방어형,ko-KR
+护盾,방어형,ko-KR
+護盾,방어형,ko-KR
+シールド,방어형,ko-KR
+Schild,방어형,ko-KR
+Bouclier,방어형,ko-KR
+Escudo,방어형,ko-KR
+Щит,방어형,ko-KR
+DoT,지속 피해형,ko-KR
+持续伤害,지속 피해형,ko-KR
+持續傷害,지속 피해형,ko-KR
+継続ダメージ,지속 피해형,ko-KR
+Schaden über Zeit,지속 피해형,ko-KR
+Dégâts sur la durée,지속 피해형,ko-KR
+Daño prolongado,지속 피해형,ko-KR
+Периодический урон,지속 피해형,ko-KR
+Control,조작,ko-KR
+控制,조작,ko-KR
+コントロール,조작,ko-KR
+Kontrolle,조작,ko-KR
+Contrôle,조작,ko-KR
+Контроль,조작,ko-KR
+Healing,치료형,ko-KR
+治疗,치료형,ko-KR
+治療,치료형,ko-KR
+Heilung,치료형,ko-KR
+Soins,치료형,ko-KR
+Curación,치료형,ko-KR
+Исцеление,치료형,ko-KR
+Burst DPS,폭발 딜러형,ko-KR
+爆发输出,폭발 딜러형,ko-KR
+爆發輸出,폭발 딜러형,ko-KR
+瞬間火力,폭발 딜러형,ko-KR
+Burst-SCH,폭발 딜러형,ko-KR
+DPS explosif,폭발 딜러형,ko-KR
+DPS de ráfaga,폭발 딜러형,ko-KR
+Взрывной ДД,폭발 딜러형,ko-KR
+Survival,생존형,ko-KR
+生存,생존형,ko-KR
+Überleben,생존형,ko-KR
+Survie,생존형,ko-KR
+Supervivencia,생존형,ko-KR
+Выживание,생존형,ko-KR
+Damage,딜러,ko-KR
+输出,딜러,ko-KR
+輸出,딜러,ko-KR
+ダメージ出力,딜러,ko-KR
+Schaden,딜러,ko-KR
+Dégâts,딜러,ko-KR
+Daño,딜러,ko-KR
+Урон,딜러,ko-KR
+DMG Boost,피해 버프형,ko-KR
+输出增益,피해 버프형,ko-KR
+輸出增益,피해 버프형,ko-KR
+ダメージ出力バフ,피해 버프형,ko-KR
+SCH-Schub,피해 버프형,ko-KR
+Bonus de DÉG,피해 버프형,ko-KR
+Impulso de daño,피해 버프형,ko-KR
+Усиление урона,피해 버프형,ko-KR
+Follow-up Attack,추가 공격형,ko-KR
+追加攻击,추가 공격형,ko-KR
+追加攻擊,추가 공격형,ko-KR
+追加攻撃,추가 공격형,ko-KR
+Folgeangriff,추가 공격형,ko-KR
+Attaque de suivi,추가 공격형,ko-KR
+Ataque de seguimiento,추가 공격형,ko-KR
+Последующая атака,추가 공격형,ko-KR
+Blossom,블라썸,ko-KR
+创生,블라썸,ko-KR
+創生,블라썸,ko-KR
+Erblühen,블라썸,ko-KR
+Fleuraison,블라썸,ko-KR
+Floración,블라썸,ko-KR
+Цветение,블라썸,ko-KR
+Discord,디스코드,ko-KR
+失谐,디스코드,ko-KR
+失諧,디스코드,ko-KR
+Zwietracht,디스코드,ko-KR
+Discorde,디스코드,ko-KR
+Discusión,디스코드,ko-KR
+Диссонанс,디스코드,ko-KR
+Remora,레모라,ko-KR
+延滞,레모라,ko-KR
+延滯,레모라,ko-KR
+Rémora,레모라,ko-KR
+Ремора,레모라,ko-KR
+Scorch,스코치,ko-KR
+浊燃,스코치,ko-KR
+濁燃,스코치,ko-KR
+Versengen,스코치,ko-KR
+Brûlure,스코치,ko-KR
+Quemadura,스코치,ko-KR
+Ожог,스코치,ko-KR
+Stain,스테인,ko-KR
+浸染,스테인,ko-KR
+Beflecken,스테인,ko-KR
+Tache,스테인,ko-KR
+Mancha,스테인,ko-KR
+След,스테인,ko-KR
+Charge,차지,ko-KR
+盈蓄,차지,ko-KR
+充蓄,차지,ko-KR
+Aufladen,차지,ko-KR
+Carga,차지,ko-KR
+Зарядка,차지,ko-KR
+Hexed,헥스,ko-KR
+覆纹,헥스,ko-KR
+覆紋,헥스,ko-KR
+Verhext,헥스,ko-KR
+Malédiction,헥스,ko-KR
+Maleficio,헥스,ko-KR
+Колдовство,헥스,ko-KR
+Nova,노바,ko-KR
+黯星,노바,ko-KR
+暗星,노바,ko-KR
+Нова,노바,ko-KR
+Stamina,체력,ko-KR
+体力值,체력,ko-KR
+體力值,체력,ko-KR
+スタミナ,체력,ko-KR
+Ausdauer,체력,ko-KR
+Endurance,체력,ko-KR
+Vigor,체력,ko-KR
+Выносливость,체력,ko-KR
+Break Intensity,붕괴 강도,ko-KR
+倾陷强度,붕괴 강도,ko-KR
+傾陷強度,붕괴 강도,ko-KR
+ブレイクパワー,붕괴 강도,ko-KR
+Bruchstärke,붕괴 강도,ko-KR
+Intensité de rupture,붕괴 강도,ko-KR
+Intensidad de ruptura,붕괴 강도,ko-KR
+Интенсивность разрушения,붕괴 강도,ko-KR
+Charge Efficiency,에너지 충전 효율,ko-KR
+充能效率,에너지 충전 효율,ko-KR
+チャージ率,에너지 충전 효율,ko-KR
+Auflade-Effizienz,에너지 충전 효율,ko-KR
+Efficacité de la charge,에너지 충전 효율,ko-KR
+Eficiencia de carga,에너지 충전 효율,ko-KR
+Скорость зарядки,에너지 충전 효율,ko-KR
+Cosmos DMG Bonus,빛속성 피해 증강,ko-KR
+光属性伤害增强,빛속성 피해 증강,ko-KR
+光屬性傷害增強,빛속성 피해 증강,ko-KR
+光異能ダメージ強化,빛속성 피해 증강,ko-KR
+Kosmos-SCH-Bonus,빛속성 피해 증강,ko-KR
+Bonus de DÉG de cosmos,빛속성 피해 증강,ko-KR
+Bono de Daño de Cosmos,빛속성 피해 증강,ko-KR
+Бонус к урону космоса,빛속성 피해 증강,ko-KR
+Cosmos Resistance,빛속성 피해 저항,ko-KR
+光属性伤害抗性,빛속성 피해 저항,ko-KR
+光屬性傷害抗性,빛속성 피해 저항,ko-KR
+光異能ダメージ耐性,빛속성 피해 저항,ko-KR
+Kosmos-Resistenz,빛속성 피해 저항,ko-KR
+Résistance au cosmos,빛속성 피해 저항,ko-KR
+Resist. Cosmos,빛속성 피해 저항,ko-KR
+Сопротивление космосу,빛속성 피해 저항,ko-KR
+Level-Up Healing,레벨업 시 HP 회복,ko-KR
+升级回复生命,레벨업 시 HP 회복,ko-KR
+升級恢復生命,레벨업 시 HP 회복,ko-KR
+LvUP時HP回復,레벨업 시 HP 회복,ko-KR
+Levelaufstieg-Heilung,레벨업 시 HP 회복,ko-KR
+Soins de montée de niveau,레벨업 시 HP 회복,ko-KR
+Curación al subir de nivel,레벨업 시 HP 회복,ko-KR
+Исцеление при повышении уровня,레벨업 시 HP 회복,ko-KR
+Level-Up Healing Amount,레벨업 시 HP 회복,ko-KR
+升级回复生命值,레벨업 시 HP 회복,ko-KR
+升級恢復生命值,레벨업 시 HP 회복,ko-KR
+Levelaufstieg-Heilungsmenge,레벨업 시 HP 회복,ko-KR
+Quantité de soins de montée de niveau,레벨업 시 HP 회복,ko-KR
+Cantidad de curación al subir de nivel,레벨업 시 HP 회복,ko-KR
+Объём исцеления при повышении уровня,레벨업 시 HP 회복,ko-KR
+Healing Received Bonus,받는 치료 보너스,ko-KR
+受治疗加成,받는 치료 보너스,ko-KR
+受治療加成,받는 치료 보너스,ko-KR
+被治療アップ,받는 치료 보너스,ko-KR
+Bonus für erhaltene Heilung,받는 치료 보너스,ko-KR
+Bonus de soins reçus,받는 치료 보너스,ko-KR
+Bono de Curación Recibida,받는 치료 보너스,ko-KR
+Бонус к полученному лечению,받는 치료 보너스,ko-KR
+Incantation DMG Bonus,주속성 피해 증강,ko-KR
+咒属性伤害增强,주속성 피해 증강,ko-KR
+咒屬性傷害增強,주속성 피해 증강,ko-KR
+呪異能ダメージ強化,주속성 피해 증강,ko-KR
+Inkantations-SCH-Bonus,주속성 피해 증강,ko-KR
+Bonus de DÉG d’incantation,주속성 피해 증강,ko-KR
+Bono de Daño de encantamiento,주속성 피해 증강,ko-KR
+Бонус к урону от чар,주속성 피해 증강,ko-KR
+Incantation Resistance,주속성 피해 저항,ko-KR
+咒属性伤害抗性,주속성 피해 저항,ko-KR
+咒屬性傷害抗性,주속성 피해 저항,ko-KR
+呪異能ダメージ耐性,주속성 피해 저항,ko-KR
+Inkantation-Resistenz,주속성 피해 저항,ko-KR
+Résistance à l’incantation,주속성 피해 저항,ko-KR
+Resist. Encantamiento,주속성 피해 저항,ko-KR
+Сопротивление чарам,주속성 피해 저항,ko-KR
+Periodic Healing,일정 시간 HP 회복,ko-KR
+定时回复生命,일정 시간 HP 회복,ko-KR
+定時恢復生命,일정 시간 HP 회복,ko-KR
+定期HP回復,일정 시간 HP 회복,ko-KR
+Periodische Heilung,일정 시간 HP 회복,ko-KR
+Soins périodiques,일정 시간 HP 회복,ko-KR
+Curación periódica,일정 시간 HP 회복,ko-KR
+Периодическое исцеление,일정 시간 HP 회복,ko-KR
+Periodic Healing Amount,일정 시간 HP 회복,ko-KR
+定时回复生命值,일정 시간 HP 회복,ko-KR
+定時恢復生命值,일정 시간 HP 회복,ko-KR
+Menge der periodischen Heilung,일정 시간 HP 회복,ko-KR
+Quantité de soins périodiques,일정 시간 HP 회복,ko-KR
+Cantidad de curación periódica,일정 시간 HP 회복,ko-KR
+Объём периодического исцеления,일정 시간 HP 회복,ko-KR
+Mental DMG Bonus,정신 피해 증강,ko-KR
+心灵伤害增强,정신 피해 증강,ko-KR
+心靈傷害增強,정신 피해 증강,ko-KR
+精神ダメージ強化,정신 피해 증강,ko-KR
+Mental-SCH-Bonus,정신 피해 증강,ko-KR
+Bonus de DÉG mentaux,정신 피해 증강,ko-KR
+Bono de Daño Mental,정신 피해 증강,ko-KR
+Бонус к ментальному урону,정신 피해 증강,ko-KR
+Mental Resistance,정신 피해 저항,ko-KR
+心灵伤害抗性,정신 피해 저항,ko-KR
+心靈傷害抗性,정신 피해 저항,ko-KR
+精神ダメージ耐性,정신 피해 저항,ko-KR
+Mental-Resistenz,정신 피해 저항,ko-KR
+Résistance mentale,정신 피해 저항,ko-KR
+Resist. Mental,정신 피해 저항,ko-KR
+Сопротивление ментальному урону,정신 피해 저항,ko-KR
+Skill Ratio,스킬 배율,ko-KR
+技能倍率,스킬 배율,ko-KR
+スキル倍率,스킬 배율,ko-KR
+Fertigkeits-Multiplikator,스킬 배율,ko-KR
+Multiplicateur de compétence,스킬 배율,ko-KR
+Multiplicador de habilidad,스킬 배율,ko-KR
+Множитель навыка,스킬 배율,ko-KR
+Skill Cooldown,스킬 쿨타임,ko-KR
+技能冷却时间,스킬 쿨타임,ko-KR
+技能冷卻時間,스킬 쿨타임,ko-KR
+スキルクールダウン,스킬 쿨타임,ko-KR
+Fertigkeits-Abklingzeit,스킬 쿨타임,ko-KR
+Temps de recharge de la compétence,스킬 쿨타임,ko-KR
+Enfriamiento de habilidad,스킬 쿨타임,ko-KR
+Перезарядка навыка,스킬 쿨타임,ko-KR
+Skill Cooldown Reduction,스킬 쿨타임 감소,ko-KR
+技能冷却时间减少,스킬 쿨타임 감소,ko-KR
+技能冷卻時間減少,스킬 쿨타임 감소,ko-KR
+スキルクールダウン短縮,스킬 쿨타임 감소,ko-KR
+Fertigkeits-Abklingzeit-Reduzierung,스킬 쿨타임 감소,ko-KR
+Réduction du temps de recharge de la compétence,스킬 쿨타임 감소,ko-KR
+Reducción de enfriamiento de habilidad,스킬 쿨타임 감소,ko-KR
+Сокращение перезарядки навыка,스킬 쿨타임 감소,ko-KR
+Skill Duration,스킬 지속 시간,ko-KR
+技能持续时间,스킬 지속 시간,ko-KR
+技能持續時間,스킬 지속 시간,ko-KR
+スキル持続時間,스킬 지속 시간,ko-KR
+Fertigkeitsdauer,스킬 지속 시간,ko-KR
+Durée de la compétence,스킬 지속 시간,ko-KR
+Duración de la habilidad,스킬 지속 시간,ko-KR
+Длительность навыка,스킬 지속 시간,ko-KR
+Skill Duration Up,스킬 지속 시간 증가,ko-KR
+技能持续时间增加,스킬 지속 시간 증가,ko-KR
+技能持續時間增加,스킬 지속 시간 증가,ko-KR
+スキル持続時間延長,스킬 지속 시간 증가,ko-KR
+Fertigkeitsdauer erhöht,스킬 지속 시간 증가,ko-KR
+Augmentation de la durée de la compétence,스킬 지속 시간 증가,ko-KR
+Aumento de duración de habilidad,스킬 지속 시간 증가,ko-KR
+Увеличение длительности навыка,스킬 지속 시간 증가,ko-KR
+Skill Targets,스킬 목표 수,ko-KR
+技能目标数量,스킬 목표 수,ko-KR
+技能目標數量,스킬 목표 수,ko-KR
+スキルターゲット数,스킬 목표 수,ko-KR
+Fertigkeitsziele,스킬 목표 수,ko-KR
+Cibles de la compétence,스킬 목표 수,ko-KR
+Objetivos de habilidad,스킬 목표 수,ko-KR
+Цели навыка,스킬 목표 수,ko-KR
+Skill Targets Up,스킬 목표 수 증가,ko-KR
+技能目标数量增加,스킬 목표 수 증가,ko-KR
+技能目標數量增加,스킬 목표 수 증가,ko-KR
+スキルターゲット数増加,스킬 목표 수 증가,ko-KR
+Fertigkeits-Zielanzahl erhöht,스킬 목표 수 증가,ko-KR
+Augmentation du nombre de cibles de la compétence,스킬 목표 수 증가,ko-KR
+Aumento de objetivos de habilidad,스킬 목표 수 증가,ko-KR
+Увеличение числа целей навыка,스킬 목표 수 증가,ko-KR
+Skill Level Up,스킬 레벨 상승,ko-KR
+技能等级提升,스킬 레벨 상승,ko-KR
+技能等級提升,스킬 레벨 상승,ko-KR
+スキルレベルアップ,스킬 레벨 상승,ko-KR
+Fertigkeitslevel erhöht,스킬 레벨 상승,ko-KR
+Augmentation du niveau de la compétence,스킬 레벨 상승,ko-KR
+Aumento de nivel de habilidad,스킬 레벨 상승,ko-KR
+Повышение уровня навыка,스킬 레벨 상승,ko-KR
+Skill Range,스킬 범위,ko-KR
+技能范围,스킬 범위,ko-KR
+技能範圍,스킬 범위,ko-KR
+スキル範囲,스킬 범위,ko-KR
+Fertigkeits-Reichweite,스킬 범위,ko-KR
+Portée de la compétence,스킬 범위,ko-KR
+Alcance de habilidad,스킬 범위,ko-KR
+Дальность навыка,스킬 범위,ko-KR
+Skill Range Up,스킬 범위 증가,ko-KR
+技能范围增加,스킬 범위 증가,ko-KR
+技能範圍增加,스킬 범위 증가,ko-KR
+スキル範囲拡大,스킬 범위 증가,ko-KR
+Fertigkeits-Reichweite erhöht,스킬 범위 증가,ko-KR
+Augmentation de la portée de la compétence,스킬 범위 증가,ko-KR
+Aumento del alcance de habilidad,스킬 범위 증가,ko-KR
+Увеличение дальности навыка,스킬 범위 증가,ko-KR
+Skill Uses,스킬 발동 횟수,ko-KR
+技能释放次数,스킬 발동 횟수,ko-KR
+技能釋放次數,스킬 발동 횟수,ko-KR
+スキル発動回数,스킬 발동 횟수,ko-KR
+Fertigkeitsnutzungen,스킬 발동 횟수,ko-KR
+Utilisations de la compétence,스킬 발동 횟수,ko-KR
+Usos de la habilidad,스킬 발동 횟수,ko-KR
+Применения навыка,스킬 발동 횟수,ko-KR
+Skill Uses Up,스킬 발동 횟수 증가,ko-KR
+技能释放次数增加,스킬 발동 횟수 증가,ko-KR
+技能釋放次數增加,스킬 발동 횟수 증가,ko-KR
+スキル発動回数増加,스킬 발동 횟수 증가,ko-KR
+Fertigkeitsnutzungen erhöht,스킬 발동 횟수 증가,ko-KR
+Augmentation des utilisations de la compétence,스킬 발동 횟수 증가,ko-KR
+Aumento de usos de habilidad,스킬 발동 횟수 증가,ko-KR
+Дополнительные применения навыка,스킬 발동 횟수 증가,ko-KR
+Shield,방어막 수치,ko-KR
+护盾值,방어막 수치,ko-KR
+護盾值,방어막 수치,ko-KR
+シールド値,방어막 수치,ko-KR
+Schild,방어막 수치,ko-KR
+Bouclier,방어막 수치,ko-KR
+Escudo,방어막 수치,ko-KR
+Щит,방어막 수치,ko-KR
+Pickup Range,줍기 범위,ko-KR
+拾取范围,줍기 범위,ko-KR
+拾取範圍,줍기 범위,ko-KR
+取得範囲,줍기 범위,ko-KR
+Sammelreichweite,줍기 범위,ko-KR
+Portée de ramassage,줍기 범위,ko-KR
+Alcance de recogida,줍기 범위,ko-KR
+Радиус подбора,줍기 범위,ko-KR
+ATK,공격력,ko-KR
+攻击力,공격력,ko-KR
+攻擊力,공격력,ko-KR
+攻撃力,공격력,ko-KR
+ANG,공격력,ko-KR
+ATQ,공격력,ko-KR
+Атака,공격력,ko-KR
+ATK Bonus,공격력%,ko-KR
+攻击力百分比,공격력%,ko-KR
+攻擊力百分比,공격력%,ko-KR
+攻撃力％,공격력%,ko-KR
+ANG-Bonus,공격력%,ko-KR
+Bonus d’ATQ,공격력%,ko-KR
+Bono de ATQ,공격력%,ko-KR
+Бонус к атаке,공격력%,ko-KR
+Chaos DMG Bonus,암속성 피해 증강,ko-KR
+暗属性伤害增强,암속성 피해 증강,ko-KR
+暗屬性傷害增強,암속성 피해 증강,ko-KR
+闇異能ダメージ強化,암속성 피해 증강,ko-KR
+Chaos-SCH-Bonus,암속성 피해 증강,ko-KR
+Bonus de DÉG de chaos,암속성 피해 증강,ko-KR
+Bono de Daño de Caos,암속성 피해 증강,ko-KR
+Бонус к урону хаоса,암속성 피해 증강,ko-KR
+Chaos Resistance,암속성 피해 저항,ko-KR
+暗属性伤害抗性,암속성 피해 저항,ko-KR
+暗屬性傷害抗性,암속성 피해 저항,ko-KR
+闇異能ダメージ耐性,암속성 피해 저항,ko-KR
+Chaos-Resistenz,암속성 피해 저항,ko-KR
+Résistance au chaos,암속성 피해 저항,ko-KR
+Resist. Caos,암속성 피해 저항,ko-KR
+Сопротивление хаосу,암속성 피해 저항,ko-KR
+Crit DMG,치명 피해,ko-KR
+暴击伤害,치명 피해,ko-KR
+暴擊傷害,치명 피해,ko-KR
+クリティカルダメージ,치명 피해,ko-KR
+KRIT-SCH,치명 피해,ko-KR
+DÉG CRIT,치명 피해,ko-KR
+Daño CRIT,치명 피해,ko-KR
+Крит. урон,치명 피해,ko-KR
+Crit Rate,치명 확률,ko-KR
+暴击率,치명 확률,ko-KR
+暴擊率,치명 확률,ko-KR
+クリティカル率,치명 확률,ko-KR
+KRIT-Rate,치명 확률,ko-KR
+Chances de CRIT,치명 확률,ko-KR
+Prob. CRIT,치명 확률,ko-KR
+Шанс крит. удара,치명 확률,ko-KR
+Final DMG Bonus,최종 피해 증강,ko-KR
+最终伤害增强,최종 피해 증강,ko-KR
+最終傷害增強,최종 피해 증강,ko-KR
+最終ダメージ強化,최종 피해 증강,ko-KR
+End-SCH-Bonus,최종 피해 증강,ko-KR
+Bonus de DÉG finaux,최종 피해 증강,ko-KR
+Bono de Daño Final,최종 피해 증강,ko-KR
+Бонус к итоговому урону,최종 피해 증강,ko-KR
+Healing Bonus,치료 보너스,ko-KR
+治疗加成,치료 보너스,ko-KR
+治療加成,치료 보너스,ko-KR
+治療アップ,치료 보너스,ko-KR
+Heilungsbonus,치료 보너스,ko-KR
+Bonus de soins,치료 보너스,ko-KR
+Bono de curación,치료 보너스,ko-KR
+Бонус к лечению,치료 보너스,ko-KR
+Low-HP Healing,위급 시 HP 회복,ko-KR
+濒危回复生命,위급 시 HP 회복,ko-KR
+瀕危恢復生命,위급 시 HP 회복,ko-KR
+瀕死時HP回復,위급 시 HP 회복,ko-KR
+Niedrig-LP-Heilung,위급 시 HP 회복,ko-KR
+Soins en cas de PV critiques,위급 시 HP 회복,ko-KR
+Curación con PS bajos,위급 시 HP 회복,ko-KR
+Исцеление при низком уровне ОЗ,위급 시 HP 회복,ko-KR
+Low-HP Healing Amount,위급 시 HP 회복,ko-KR
+濒危回复生命值,위급 시 HP 회복,ko-KR
+瀕危恢復生命值,위급 시 HP 회복,ko-KR
+Niedrig-LP-Heilungsmenge,위급 시 HP 회복,ko-KR
+Quantité de soins en cas de PV critiques,위급 시 HP 회복,ko-KR
+Cantidad de curación con PS bajos,위급 시 HP 회복,ko-KR
+Объём исцеления при низком уровне ОЗ,위급 시 HP 회복,ko-KR
+Anima DMG Bonus,령속성 피해 증강,ko-KR
+灵属性伤害增强,령속성 피해 증강,ko-KR
+靈屬性傷害增強,령속성 피해 증강,ko-KR
+霊異能ダメージ強化,령속성 피해 증강,ko-KR
+Anima-SCH-Bonus,령속성 피해 증강,ko-KR
+Bonus de DÉG d’anima,령속성 피해 증강,ko-KR
+Bono de Daño de Ánima,령속성 피해 증강,ko-KR
+Бонус к урону анимы,령속성 피해 증강,ko-KR
+Anima Resistance,령속성 피해 저항,ko-KR
+灵属性伤害抗性,령속성 피해 저항,ko-KR
+靈屬性傷害抗性,령속성 피해 저항,ko-KR
+霊異能ダメージ耐性,령속성 피해 저항,ko-KR
+Anima-Resistenz,령속성 피해 저항,ko-KR
+Résistance à l’anima,령속성 피해 저항,ko-KR
+Resist. Ánima,령속성 피해 저항,ko-KR
+Сопротивление анимы,령속성 피해 저항,ko-KR
+Cycle Intensity,사이클 강도,ko-KR
+环合强度,사이클 강도,ko-KR
+環合強度,사이클 강도,ko-KR
+連環パワー,사이클 강도,ko-KR
+Zyklusstärke,사이클 강도,ko-KR
+Intensité de cycle,사이클 강도,ko-KR
+Intensidad de ciclo,사이클 강도,ko-KR
+Интенсивность цикла,사이클 강도,ko-KR
+生命值,HP,ko-KR
+LP,HP,ko-KR
+PV,HP,ko-KR
+PS,HP,ko-KR
+ОЗ,HP,ko-KR
+HP Bonus,HP%,ko-KR
+生命值百分比,HP%,ko-KR
+HP％,HP%,ko-KR
+LP-Bonus,HP%,ko-KR
+Bonus de PV,HP%,ko-KR
+Bono de PS,HP%,ko-KR
+Бонус к ОЗ,HP%,ko-KR
+Lakshana DMG Bonus,상속성 피해 증강,ko-KR
+相属性伤害增强,상속성 피해 증강,ko-KR
+相屬性傷害增強,상속성 피해 증강,ko-KR
+相異能ダメージ強化,상속성 피해 증강,ko-KR
+Lakshana-SCH-Bonus,상속성 피해 증강,ko-KR
+Bonus de DÉG de lakshana,상속성 피해 증강,ko-KR
+Bono de Daño de Lakshana,상속성 피해 증강,ko-KR
+Бонус к урону лакшаны,상속성 피해 증강,ko-KR
+Lakshana Resistance,상속성 피해 저항,ko-KR
+相属性伤害抗性,상속성 피해 저항,ko-KR
+相屬性傷害抗性,상속성 피해 저항,ko-KR
+相異能ダメージ耐性,상속성 피해 저항,ko-KR
+Lakshana-Resistenz,상속성 피해 저항,ko-KR
+Résistance au lakshana,상속성 피해 저항,ko-KR
+Resist. Lakshana,상속성 피해 저항,ko-KR
+Сопротивление лакшане,상속성 피해 저항,ko-KR
+Movement Speed Up,이동 속도 상승,ko-KR
+移速提升,이동 속도 상승,ko-KR
+移動速度増加,이동 속도 상승,ko-KR
+Erhöhte Bewegungsgeschwindigkeit,이동 속도 상승,ko-KR
+Augmentation de la vitesse de déplacement,이동 속도 상승,ko-KR
+Aumento de velocidad de movimiento,이동 속도 상승,ko-KR
+Повышение скорости движения,이동 속도 상승,ko-KR
+EXP Gain Rate,경험치 획득 효율,ko-KR
+获取经验效率,경험치 획득 효율,ko-KR
+獲取經驗效率,경험치 획득 효율,ko-KR
+Exp獲得効率,경험치 획득 효율,ko-KR
+EP-Gewinnrate,경험치 획득 효율,ko-KR
+Taux de gain d’EXP,경험치 획득 효율,ko-KR
+Tasa de obtención de EXP,경험치 획득 효율,ko-KR
+Скорость получения ОП,경험치 획득 효율,ko-KR
+Universal DMG Bonus,통용 피해 증강,ko-KR
+通用伤害增强,통용 피해 증강,ko-KR
+通用傷害增強,통용 피해 증강,ko-KR
+汎用ダメージ強化,통용 피해 증강,ko-KR
+Universal-SCH-Bonus,통용 피해 증강,ko-KR
+Bonus de DÉG universels,통용 피해 증강,ko-KR
+Bono de Daño Universal,통용 피해 증강,ko-KR
+Бонус к урону,통용 피해 증강,ko-KR
+DEF,방어력,ko-KR
+防御力,방어력,ko-KR
+防禦力,방어력,ko-KR
+VER,방어력,ko-KR
+DÉF,방어력,ko-KR
+Защита,방어력,ko-KR
+DEF Bonus,방어력%,ko-KR
+防御力百分比,방어력%,ko-KR
+防禦力百分比,방어력%,ko-KR
+防御力％,방어력%,ko-KR
+VER-Bonus,방어력%,ko-KR
+Bonus de DÉF,방어력%,ko-KR
+Bono de DEF,방어력%,ko-KR
+Бонус к защите,방어력%,ko-KR
+Penetration,방어 무시,ko-KR
+防御无视,방어 무시,ko-KR
+防禦無視,방어 무시,ko-KR
+防御無視,방어 무시,ko-KR
+Durchschlag,방어 무시,ko-KR
+Pénétration,방어 무시,ko-KR
+Penetración,방어 무시,ko-KR
+Пробивание,방어 무시,ko-KR
+Tenacity,근성,ko-KR
+韧性值,근성,ko-KR
+韌性值,근성,ko-KR
+靭性値,근성,ko-KR
+Zähigkeit,근성,ko-KR
+Ténacité,근성,ko-KR
+Tenacidad,근성,ko-KR
+Стойкость,근성,ko-KR
+Tenacity Resistance,근성 저항,ko-KR
+韧性抵抗,근성 저항,ko-KR
+韌性抵抗,근성 저항,ko-KR
+靭性抵抗,근성 저항,ko-KR
+Zähigkeit-Resistenz,근성 저항,ko-KR
+Résistance à la ténacité,근성 저항,ko-KR
+Resist. Tenacidad,근성 저항,ko-KR
+Сопротивление стойкости,근성 저항,ko-KR
+Tenacity Break Efficiency,근성 파괴 효율,ko-KR
+韧性破坏效率,근성 파괴 효율,ko-KR
+韌性破壞效率,근성 파괴 효율,ko-KR
+靭性破壊効率,근성 파괴 효율,ko-KR
+Zähigkeitsbruch-Effizienz,근성 파괴 효율,ko-KR
+Efficacité de rupture de la ténacité,근성 파괴 효율,ko-KR
+Eficiencia de ruptura de tenacidad,근성 파괴 효율,ko-KR
+Эффективность пробоя стойкости,근성 파괴 효율,ko-KR
+Psyche DMG Bonus,혼속성 피해 증강,ko-KR
+魂属性伤害增强,혼속성 피해 증강,ko-KR
+魂屬性傷害增強,혼속성 피해 증강,ko-KR
+魂異能ダメージ強化,혼속성 피해 증강,ko-KR
+Psyche-SCH-Bonus,혼속성 피해 증강,ko-KR
+Bonus de DÉG de psyché,혼속성 피해 증강,ko-KR
+Bono de Daño de Psique,혼속성 피해 증강,ko-KR
+Бонус к урону психики,혼속성 피해 증강,ko-KR
+Psyche Resistance,혼속성 피해 저항,ko-KR
+魂属性伤害抗性,혼속성 피해 저항,ko-KR
+魂屬性傷害抗性,혼속성 피해 저항,ko-KR
+魂異能ダメージ耐性,혼속성 피해 저항,ko-KR
+Psyche-Resistenz,혼속성 피해 저항,ko-KR
+Résistance à la psyché,혼속성 피해 저항,ko-KR
+Resist. Psique,혼속성 피해 저항,ko-KR
+Сопротивление психике,혼속성 피해 저항,ko-KR

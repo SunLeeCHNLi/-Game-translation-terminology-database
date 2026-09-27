@@ -2,66 +2,112 @@
 
 ## [English](README_EN.md) [日本語](README_JP.md)
 
-本库收录开放世界动作游戏《异环》（Neverness to Everness / NTE）的专有名词对照表，覆盖角色名称、武器、技能、战斗机制、任务、地区、阵营、道具、车辆、家具、UI 文本、剧情专有名词等共 **21 个类目**。按目标语言拆分为 **9** 套独立术语库。
+本库收录《异环》（Neverness to Everness / NTE）客户端本地化文本中的角色、技能、武器、装备、战斗、任务、地点、阵营、敌人、NPC、道具、载具、家具、成就、世界观术语、UI 和系统名称。目前共 **498,495** 条 `source,target,tgt_lng` 对照记录，覆盖 **9** 种目标语言和 **21** 个分类。
 
-> **当前状态**：本库处于初始搞建阶段，已确认的官方术语较少。需要从游戏客户端提取 `.locres` / TextMap 数据后方可大规模填充。详见 [`tools/SOURCES.md`](tools/SOURCES.md)。
+> 主数据来自 `NTE_Assets` 的 1.4.7 CN 提取文件。所有 `target` 都来自同一文本键下的游戏本地化值，不使用机器翻译补全。目标语言缺失文本时不生成记录，也不伪造译名。
 
-## 使用方法
+## 目录结构
 
-1. **单文件下载**：进入 `nte-glossary/` 下对应语言目录（例如 `zh-CN/`），按需要下载 `characters.csv`、`items.csv` 等类目文件。
-2. **重新生成**：提取游戏 `.locres` 数据后，运行 `python tools/build_nte_glossary.py` 即可全量更新。
+```text
+Neverness_to_Everness_glossary/
+  README.md
+  README_EN.md
+  README_JP.md
+  nte-glossary/
+    zh-CN/  zh-TW/  en-US/  ja-JP/  ko-KR/
+    de-DE/  fr-FR/  es-ES/  ru-RU/
+  tools/
+    build_nte_glossary.py
+    validate_nte_glossary.py
+    scrape_interactivemap.py
+    _counts.json
+    _validation.json
+  Sources/
+    README.md
+```
 
-## 语言覆盖
+## 文件格式
 
-| 语言代码 | 名称 | 类目数 | 已确认词条数 |
-| --- | --- | --- | --- |
-| `zh-CN` | 简体中文 | 21 | 6 |
-| `zh-TW` | 繁體中文（待确认） | 21 | 0 |
-| `en-US` | English | 21 | 5 |
-| `ja-JP` | 日本語（待确认） | 21 | 0 |
-| `ko-KR` | 한국어（待确认） | 21 | 0 |
-| `de-DE` | Deutsch（待确认） | 21 | 0 |
-| `fr-FR` | Français（待确认） | 21 | 0 |
-| `es-ES` | Español（待确认） | 21 | 0 |
-| `ru-RU` | Русский（待确认） | 21 | 0 |
-| **合计** | | **189** | **11** |
+所有 CSV 使用 UTF-8（含 BOM）、CRLF 换行、RFC 4180 转义，并严格保持三列：
 
-## 类目说明
-
-| 类目 | 文件名 | zh-CN 词条数 |
+| source | target | tgt_lng |
 | --- | --- | --- |
-| 角色名称 | `characters.csv` | 1 |
-| 角色技能 | `skills.csv` | 0 |
-| 武器与装备 | `weapons.csv` | 0 |
-| 战斗机制 | `combat.csv` | 0 |
-| 特殊生物/系统 | `specials.csv` | 0 |
-| 任务 | `quests.csv` | 0 |
-| 关卡与副本 | `dungeons.csv` | 0 |
-| 地区与地点 | `regions.csv` | 1 |
-| 阵营与组织 | `factions.csv` | 0 |
-| 敌人与Boss | `enemies.csv` | 0 |
-| 道具与材料 | `items.csv` | 0 |
-| 车辆与载具 | `vehicles.csv` | 0 |
-| 房屋与家具 | `furniture.csv` | 0 |
-| 成就 | `achievements.csv` | 0 |
-| 剧情专有名词 | `terms.csv` | 2 |
-| UI文本 | `ui.csv` | 0 |
-| 系统文本 | `system.csv` | 0 |
-| 剧情文本 | `story.csv` | 0 |
-| 增益与效果 | `buffs.csv` | 0 |
-| NPC与说话人 | `npcs.csv` | 0 |
-| 其他 | `other.csv` | 2 |
+| Hethereau | 海特洛 | zh-CN |
+| Anomaly Hunter | 异象猎人 | zh-CN |
 
-## 数据状态说明
+`source` 是同一文本键的其它语言本地化文本，`target` 是当前目录语言的游戏客户端本地化文本，`tgt_lng` 固定为目录语言代码。
 
-- 全部词条均取自官方游戏客户端或官方公告，不包含机器翻译结果
-- 标记为“待确认”的语言表示该语言支持情况尚未通过官方渠道独立验证
-- 相同 source 存在多个 target 时保留全部记录并标注来源差异
+## 各语言规模
+
+| 目标语言 | 对照行数 |
+| --- | ---: |
+| `en-US` | 55,226 |
+| `zh-CN` | 55,559 |
+| `zh-TW` | 55,530 |
+| `ja-JP` | 55,582 |
+| `ko-KR` | 55,393 |
+| `de-DE` | 55,259 |
+| `fr-FR` | 55,391 |
+| `es-ES` | 55,275 |
+| `ru-RU` | 55,280 |
+
+
+## 分类规模
+
+| 分类文件 | 独立实体数 | 全语言对照行数 |
+| --- | ---: | ---: |
+| `characters` | 38 | 1,062 |
+| `skills` | 974 | 42,226 |
+| `weapons` | 51 | 3,456 |
+| `equipment` | 66 | 4,563 |
+| `combat` | 96 | 5,284 |
+| `buffs` | 80 | 5,148 |
+| `specials` | 51 | 3,042 |
+| `quests` | 1,912 | 90,058 |
+| `dungeons` | 179 | 11,466 |
+| `regions` | 187 | 7,209 |
+| `factions` | 10 | 450 |
+| `enemies` | 176 | 9,743 |
+| `npcs` | 2,118 | 98,377 |
+| `items` | 1,314 | 79,137 |
+| `vehicles` | 449 | 14,968 |
+| `furniture` | 347 | 23,937 |
+| `achievements` | 547 | 36,975 |
+| `terms` | 55 | 3,332 |
+| `story` | 187 | 11,799 |
+| `ui` | 1,410 | 24,391 |
+| `system` | 326 | 21,872 |
+
+
+## 当前版本
+
+- 游戏数据版本：`1.4.7 (CN extraction)`
+- 上游仓库：https://github.com/Waifus-Grace/NTE_Assets
+- 上游提交：`ae1f348c35378184a9e14b56593f43854b7ce575`
+- 生成日期：`2026-09-27`
+- 数据来源数：本次生成 `3`，累计检查 `9`
+- 去重文本键数：`10,340`
+- 分类内实体数（分类累计）：`10,573`
+- 客户端本地化确认实体数：`10,340`
+- 未确认/机器翻译补全记录：`0` / `0`
+- 多译名冲突组：`6,169`。冲突记录全部保留，未自动选择“最佳译名”。
+
+## 重新生成
+
+```bash
+python tools/build_nte_glossary.py
+python tools/validate_nte_glossary.py
+```
+
+默认读取 `E:\Download\BT\Codex_input\nte_upstream\NTE_Assets`。可通过 `--assets-root` 指定新的上游路径。
+
+## 限制
+
+- 上游为社区提取的客户端文本，不等同于发行商公开发布的官方术语表。
+- 繁体中文在本库中统一写为 `zh-TW`，上游原始标识为 `zh-Hant`。
+- 缺少某语言文本时不会生成虚假对照；空分类表示当前上游没有可确认的实体名称。
+- 同一文本键在不同语境下可能有不同译名，详见 `tools/_validation.json` 的冲突统计。
 
 ## 免责声明
 
-本目录为个人整理与维护的**非官方**翻译术语资料库，仅用于个人学习、研究及辅助 AI 翻译软件的术语匹配。本库与《异环》的开发商、发行商、代理商、运营商、版权方不存在任何从属、授权、合作或代理关系。
-
----
-
-**Game-translation-terminology-database 是一个独立的个人项目，与《异环》及其开发商、发行商、代理商、版权方不存在任何隐属、授权、合作或代理关系。**
+本目录为非官方个人术语资料库，仅用于学习、研究与翻译辅助。游戏名称、角色、专有名词及相关资产的权利归原权利人所有。

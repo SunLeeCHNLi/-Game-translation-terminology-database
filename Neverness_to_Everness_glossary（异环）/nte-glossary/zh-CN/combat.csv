@@ -1,1 +1,591 @@
 ﻿source,target,tgt_lng
+Main DPS,主力输出,zh-CN
+主力輸出,主力输出,zh-CN
+メイン攻撃力,主力输出,zh-CN
+메인 딜러형,主力输出,zh-CN
+Haupt-SCH,主力输出,zh-CN
+DPS principal,主力输出,zh-CN
+Основной ДД,主力输出,zh-CN
+DMG Redirection,伤害分摊,zh-CN
+傷害分攤,伤害分摊,zh-CN
+ダメージ分担,伤害分摊,zh-CN
+피해 분담형,伤害分摊,zh-CN
+SCH-Umlenkung,伤害分摊,zh-CN
+Redirection des DÉG,伤害分摊,zh-CN
+Redirección de daño,伤害分摊,zh-CN
+Перенаправление урона,伤害分摊,zh-CN
+Break Boost,倾陷增益,zh-CN
+傾陷增益,倾陷增益,zh-CN
+ブレイクバフ,倾陷增益,zh-CN
+붕괴 버프형,倾陷增益,zh-CN
+Bruch-Schub,倾陷增益,zh-CN
+Bonus de rupture,倾陷增益,zh-CN
+Impulso de ruptura,倾陷增益,zh-CN
+Усиление разрушения,倾陷增益,zh-CN
+Instant Cycle,即瞬环合,zh-CN
+即瞬環合,即瞬环合,zh-CN
+即時連環,即瞬环合,zh-CN
+쾌속 사이클,即瞬环合,zh-CN
+Sofortzyklus,即瞬环合,zh-CN
+Cycle instantané,即瞬环合,zh-CN
+Ciclo instantáneo,即瞬环合,zh-CN
+Мгновенный цикл,即瞬环合,zh-CN
+Buff,增益,zh-CN
+バフ,增益,zh-CN
+버프형,增益,zh-CN
+Mejora,增益,zh-CN
+Усиление,增益,zh-CN
+Shield,护盾,zh-CN
+護盾,护盾,zh-CN
+シールド,护盾,zh-CN
+방어형,护盾,zh-CN
+Schild,护盾,zh-CN
+Bouclier,护盾,zh-CN
+Escudo,护盾,zh-CN
+Щит,护盾,zh-CN
+DoT,持续伤害,zh-CN
+持續傷害,持续伤害,zh-CN
+継続ダメージ,持续伤害,zh-CN
+지속 피해형,持续伤害,zh-CN
+Schaden über Zeit,持续伤害,zh-CN
+Dégâts sur la durée,持续伤害,zh-CN
+Daño prolongado,持续伤害,zh-CN
+Периодический урон,持续伤害,zh-CN
+Control,控制,zh-CN
+コントロール,控制,zh-CN
+조작,控制,zh-CN
+Kontrolle,控制,zh-CN
+Contrôle,控制,zh-CN
+Контроль,控制,zh-CN
+Healing,治疗,zh-CN
+治療,治疗,zh-CN
+치료형,治疗,zh-CN
+Heilung,治疗,zh-CN
+Soins,治疗,zh-CN
+Curación,治疗,zh-CN
+Исцеление,治疗,zh-CN
+Burst DPS,爆发输出,zh-CN
+爆發輸出,爆发输出,zh-CN
+瞬間火力,爆发输出,zh-CN
+폭발 딜러형,爆发输出,zh-CN
+Burst-SCH,爆发输出,zh-CN
+DPS explosif,爆发输出,zh-CN
+DPS de ráfaga,爆发输出,zh-CN
+Взрывной ДД,爆发输出,zh-CN
+Survival,生存,zh-CN
+생존형,生存,zh-CN
+Überleben,生存,zh-CN
+Survie,生存,zh-CN
+Supervivencia,生存,zh-CN
+Выживание,生存,zh-CN
+Damage,输出,zh-CN
+輸出,输出,zh-CN
+ダメージ出力,输出,zh-CN
+딜러,输出,zh-CN
+Schaden,输出,zh-CN
+Dégâts,输出,zh-CN
+Daño,输出,zh-CN
+Урон,输出,zh-CN
+DMG Boost,输出增益,zh-CN
+輸出增益,输出增益,zh-CN
+ダメージ出力バフ,输出增益,zh-CN
+피해 버프형,输出增益,zh-CN
+SCH-Schub,输出增益,zh-CN
+Bonus de DÉG,输出增益,zh-CN
+Impulso de daño,输出增益,zh-CN
+Усиление урона,输出增益,zh-CN
+Follow-up Attack,追加攻击,zh-CN
+追加攻擊,追加攻击,zh-CN
+追加攻撃,追加攻击,zh-CN
+추가 공격형,追加攻击,zh-CN
+Folgeangriff,追加攻击,zh-CN
+Attaque de suivi,追加攻击,zh-CN
+Ataque de seguimiento,追加攻击,zh-CN
+Последующая атака,追加攻击,zh-CN
+Blossom,创生,zh-CN
+創生,创生,zh-CN
+블라썸,创生,zh-CN
+Erblühen,创生,zh-CN
+Fleuraison,创生,zh-CN
+Floración,创生,zh-CN
+Цветение,创生,zh-CN
+Discord,失谐,zh-CN
+失諧,失谐,zh-CN
+디스코드,失谐,zh-CN
+Zwietracht,失谐,zh-CN
+Discorde,失谐,zh-CN
+Discusión,失谐,zh-CN
+Диссонанс,失谐,zh-CN
+Remora,延滞,zh-CN
+延滯,延滞,zh-CN
+레모라,延滞,zh-CN
+Rémora,延滞,zh-CN
+Ремора,延滞,zh-CN
+Scorch,浊燃,zh-CN
+濁燃,浊燃,zh-CN
+스코치,浊燃,zh-CN
+Versengen,浊燃,zh-CN
+Brûlure,浊燃,zh-CN
+Quemadura,浊燃,zh-CN
+Ожог,浊燃,zh-CN
+Stain,浸染,zh-CN
+스테인,浸染,zh-CN
+Beflecken,浸染,zh-CN
+Tache,浸染,zh-CN
+Mancha,浸染,zh-CN
+След,浸染,zh-CN
+Charge,盈蓄,zh-CN
+充蓄,盈蓄,zh-CN
+차지,盈蓄,zh-CN
+Aufladen,盈蓄,zh-CN
+Carga,盈蓄,zh-CN
+Зарядка,盈蓄,zh-CN
+Hexed,覆纹,zh-CN
+覆紋,覆纹,zh-CN
+헥스,覆纹,zh-CN
+Verhext,覆纹,zh-CN
+Malédiction,覆纹,zh-CN
+Maleficio,覆纹,zh-CN
+Колдовство,覆纹,zh-CN
+Nova,黯星,zh-CN
+暗星,黯星,zh-CN
+노바,黯星,zh-CN
+Нова,黯星,zh-CN
+Stamina,体力值,zh-CN
+體力值,体力值,zh-CN
+スタミナ,体力值,zh-CN
+체력,体力值,zh-CN
+Ausdauer,体力值,zh-CN
+Endurance,体力值,zh-CN
+Vigor,体力值,zh-CN
+Выносливость,体力值,zh-CN
+Break Intensity,倾陷强度,zh-CN
+傾陷強度,倾陷强度,zh-CN
+ブレイクパワー,倾陷强度,zh-CN
+붕괴 강도,倾陷强度,zh-CN
+Bruchstärke,倾陷强度,zh-CN
+Intensité de rupture,倾陷强度,zh-CN
+Intensidad de ruptura,倾陷强度,zh-CN
+Интенсивность разрушения,倾陷强度,zh-CN
+Charge Efficiency,充能效率,zh-CN
+チャージ率,充能效率,zh-CN
+에너지 충전 효율,充能效率,zh-CN
+Auflade-Effizienz,充能效率,zh-CN
+Efficacité de la charge,充能效率,zh-CN
+Eficiencia de carga,充能效率,zh-CN
+Скорость зарядки,充能效率,zh-CN
+Cosmos DMG Bonus,光属性伤害增强,zh-CN
+光屬性傷害增強,光属性伤害增强,zh-CN
+光異能ダメージ強化,光属性伤害增强,zh-CN
+빛속성 피해 증강,光属性伤害增强,zh-CN
+Kosmos-SCH-Bonus,光属性伤害增强,zh-CN
+Bonus de DÉG de cosmos,光属性伤害增强,zh-CN
+Bono de Daño de Cosmos,光属性伤害增强,zh-CN
+Бонус к урону космоса,光属性伤害增强,zh-CN
+Cosmos Resistance,光属性伤害抗性,zh-CN
+光屬性傷害抗性,光属性伤害抗性,zh-CN
+光異能ダメージ耐性,光属性伤害抗性,zh-CN
+빛속성 피해 저항,光属性伤害抗性,zh-CN
+Kosmos-Resistenz,光属性伤害抗性,zh-CN
+Résistance au cosmos,光属性伤害抗性,zh-CN
+Resist. Cosmos,光属性伤害抗性,zh-CN
+Сопротивление космосу,光属性伤害抗性,zh-CN
+Level-Up Healing,升级回复生命,zh-CN
+升級恢復生命,升级回复生命,zh-CN
+LvUP時HP回復,升级回复生命,zh-CN
+레벨업 시 HP 회복,升级回复生命,zh-CN
+Levelaufstieg-Heilung,升级回复生命,zh-CN
+Soins de montée de niveau,升级回复生命,zh-CN
+Curación al subir de nivel,升级回复生命,zh-CN
+Исцеление при повышении уровня,升级回复生命,zh-CN
+Level-Up Healing Amount,升级回复生命值,zh-CN
+升級恢復生命值,升级回复生命值,zh-CN
+LvUP時HP回復,升级回复生命值,zh-CN
+레벨업 시 HP 회복,升级回复生命值,zh-CN
+Levelaufstieg-Heilungsmenge,升级回复生命值,zh-CN
+Quantité de soins de montée de niveau,升级回复生命值,zh-CN
+Cantidad de curación al subir de nivel,升级回复生命值,zh-CN
+Объём исцеления при повышении уровня,升级回复生命值,zh-CN
+Healing Received Bonus,受治疗加成,zh-CN
+受治療加成,受治疗加成,zh-CN
+被治療アップ,受治疗加成,zh-CN
+받는 치료 보너스,受治疗加成,zh-CN
+Bonus für erhaltene Heilung,受治疗加成,zh-CN
+Bonus de soins reçus,受治疗加成,zh-CN
+Bono de Curación Recibida,受治疗加成,zh-CN
+Бонус к полученному лечению,受治疗加成,zh-CN
+Incantation DMG Bonus,咒属性伤害增强,zh-CN
+咒屬性傷害增強,咒属性伤害增强,zh-CN
+呪異能ダメージ強化,咒属性伤害增强,zh-CN
+주속성 피해 증강,咒属性伤害增强,zh-CN
+Inkantations-SCH-Bonus,咒属性伤害增强,zh-CN
+Bonus de DÉG d’incantation,咒属性伤害增强,zh-CN
+Bono de Daño de encantamiento,咒属性伤害增强,zh-CN
+Бонус к урону от чар,咒属性伤害增强,zh-CN
+Incantation Resistance,咒属性伤害抗性,zh-CN
+咒屬性傷害抗性,咒属性伤害抗性,zh-CN
+呪異能ダメージ耐性,咒属性伤害抗性,zh-CN
+주속성 피해 저항,咒属性伤害抗性,zh-CN
+Inkantation-Resistenz,咒属性伤害抗性,zh-CN
+Résistance à l’incantation,咒属性伤害抗性,zh-CN
+Resist. Encantamiento,咒属性伤害抗性,zh-CN
+Сопротивление чарам,咒属性伤害抗性,zh-CN
+Periodic Healing,定时回复生命,zh-CN
+定時恢復生命,定时回复生命,zh-CN
+定期HP回復,定时回复生命,zh-CN
+일정 시간 HP 회복,定时回复生命,zh-CN
+Periodische Heilung,定时回复生命,zh-CN
+Soins périodiques,定时回复生命,zh-CN
+Curación periódica,定时回复生命,zh-CN
+Периодическое исцеление,定时回复生命,zh-CN
+Periodic Healing Amount,定时回复生命值,zh-CN
+定時恢復生命值,定时回复生命值,zh-CN
+定期HP回復,定时回复生命值,zh-CN
+일정 시간 HP 회복,定时回复生命值,zh-CN
+Menge der periodischen Heilung,定时回复生命值,zh-CN
+Quantité de soins périodiques,定时回复生命值,zh-CN
+Cantidad de curación periódica,定时回复生命值,zh-CN
+Объём периодического исцеления,定时回复生命值,zh-CN
+Mental DMG Bonus,心灵伤害增强,zh-CN
+心靈傷害增強,心灵伤害增强,zh-CN
+精神ダメージ強化,心灵伤害增强,zh-CN
+정신 피해 증강,心灵伤害增强,zh-CN
+Mental-SCH-Bonus,心灵伤害增强,zh-CN
+Bonus de DÉG mentaux,心灵伤害增强,zh-CN
+Bono de Daño Mental,心灵伤害增强,zh-CN
+Бонус к ментальному урону,心灵伤害增强,zh-CN
+Mental Resistance,心灵伤害抗性,zh-CN
+心靈傷害抗性,心灵伤害抗性,zh-CN
+精神ダメージ耐性,心灵伤害抗性,zh-CN
+정신 피해 저항,心灵伤害抗性,zh-CN
+Mental-Resistenz,心灵伤害抗性,zh-CN
+Résistance mentale,心灵伤害抗性,zh-CN
+Resist. Mental,心灵伤害抗性,zh-CN
+Сопротивление ментальному урону,心灵伤害抗性,zh-CN
+Skill Ratio,技能倍率,zh-CN
+スキル倍率,技能倍率,zh-CN
+스킬 배율,技能倍率,zh-CN
+Fertigkeits-Multiplikator,技能倍率,zh-CN
+Multiplicateur de compétence,技能倍率,zh-CN
+Multiplicador de habilidad,技能倍率,zh-CN
+Множитель навыка,技能倍率,zh-CN
+Skill Cooldown,技能冷却时间,zh-CN
+技能冷卻時間,技能冷却时间,zh-CN
+スキルクールダウン,技能冷却时间,zh-CN
+스킬 쿨타임,技能冷却时间,zh-CN
+Fertigkeits-Abklingzeit,技能冷却时间,zh-CN
+Temps de recharge de la compétence,技能冷却时间,zh-CN
+Enfriamiento de habilidad,技能冷却时间,zh-CN
+Перезарядка навыка,技能冷却时间,zh-CN
+Skill Cooldown Reduction,技能冷却时间减少,zh-CN
+技能冷卻時間減少,技能冷却时间减少,zh-CN
+スキルクールダウン短縮,技能冷却时间减少,zh-CN
+스킬 쿨타임 감소,技能冷却时间减少,zh-CN
+Fertigkeits-Abklingzeit-Reduzierung,技能冷却时间减少,zh-CN
+Réduction du temps de recharge de la compétence,技能冷却时间减少,zh-CN
+Reducción de enfriamiento de habilidad,技能冷却时间减少,zh-CN
+Сокращение перезарядки навыка,技能冷却时间减少,zh-CN
+Skill Duration,技能持续时间,zh-CN
+技能持續時間,技能持续时间,zh-CN
+スキル持続時間,技能持续时间,zh-CN
+스킬 지속 시간,技能持续时间,zh-CN
+Fertigkeitsdauer,技能持续时间,zh-CN
+Durée de la compétence,技能持续时间,zh-CN
+Duración de la habilidad,技能持续时间,zh-CN
+Длительность навыка,技能持续时间,zh-CN
+Skill Duration Up,技能持续时间增加,zh-CN
+技能持續時間增加,技能持续时间增加,zh-CN
+スキル持続時間延長,技能持续时间增加,zh-CN
+스킬 지속 시간 증가,技能持续时间增加,zh-CN
+Fertigkeitsdauer erhöht,技能持续时间增加,zh-CN
+Augmentation de la durée de la compétence,技能持续时间增加,zh-CN
+Aumento de duración de habilidad,技能持续时间增加,zh-CN
+Увеличение длительности навыка,技能持续时间增加,zh-CN
+Skill Targets,技能目标数量,zh-CN
+技能目標數量,技能目标数量,zh-CN
+スキルターゲット数,技能目标数量,zh-CN
+스킬 목표 수,技能目标数量,zh-CN
+Fertigkeitsziele,技能目标数量,zh-CN
+Cibles de la compétence,技能目标数量,zh-CN
+Objetivos de habilidad,技能目标数量,zh-CN
+Цели навыка,技能目标数量,zh-CN
+Skill Targets Up,技能目标数量增加,zh-CN
+技能目標數量增加,技能目标数量增加,zh-CN
+スキルターゲット数増加,技能目标数量增加,zh-CN
+스킬 목표 수 증가,技能目标数量增加,zh-CN
+Fertigkeits-Zielanzahl erhöht,技能目标数量增加,zh-CN
+Augmentation du nombre de cibles de la compétence,技能目标数量增加,zh-CN
+Aumento de objetivos de habilidad,技能目标数量增加,zh-CN
+Увеличение числа целей навыка,技能目标数量增加,zh-CN
+Skill Level Up,技能等级提升,zh-CN
+技能等級提升,技能等级提升,zh-CN
+スキルレベルアップ,技能等级提升,zh-CN
+스킬 레벨 상승,技能等级提升,zh-CN
+Fertigkeitslevel erhöht,技能等级提升,zh-CN
+Augmentation du niveau de la compétence,技能等级提升,zh-CN
+Aumento de nivel de habilidad,技能等级提升,zh-CN
+Повышение уровня навыка,技能等级提升,zh-CN
+Skill Range,技能范围,zh-CN
+技能範圍,技能范围,zh-CN
+スキル範囲,技能范围,zh-CN
+스킬 범위,技能范围,zh-CN
+Fertigkeits-Reichweite,技能范围,zh-CN
+Portée de la compétence,技能范围,zh-CN
+Alcance de habilidad,技能范围,zh-CN
+Дальность навыка,技能范围,zh-CN
+Skill Range Up,技能范围增加,zh-CN
+技能範圍增加,技能范围增加,zh-CN
+スキル範囲拡大,技能范围增加,zh-CN
+스킬 범위 증가,技能范围增加,zh-CN
+Fertigkeits-Reichweite erhöht,技能范围增加,zh-CN
+Augmentation de la portée de la compétence,技能范围增加,zh-CN
+Aumento del alcance de habilidad,技能范围增加,zh-CN
+Увеличение дальности навыка,技能范围增加,zh-CN
+Skill Uses,技能释放次数,zh-CN
+技能釋放次數,技能释放次数,zh-CN
+スキル発動回数,技能释放次数,zh-CN
+스킬 발동 횟수,技能释放次数,zh-CN
+Fertigkeitsnutzungen,技能释放次数,zh-CN
+Utilisations de la compétence,技能释放次数,zh-CN
+Usos de la habilidad,技能释放次数,zh-CN
+Применения навыка,技能释放次数,zh-CN
+Skill Uses Up,技能释放次数增加,zh-CN
+技能釋放次數增加,技能释放次数增加,zh-CN
+スキル発動回数増加,技能释放次数增加,zh-CN
+스킬 발동 횟수 증가,技能释放次数增加,zh-CN
+Fertigkeitsnutzungen erhöht,技能释放次数增加,zh-CN
+Augmentation des utilisations de la compétence,技能释放次数增加,zh-CN
+Aumento de usos de habilidad,技能释放次数增加,zh-CN
+Дополнительные применения навыка,技能释放次数增加,zh-CN
+Shield,护盾值,zh-CN
+護盾值,护盾值,zh-CN
+シールド値,护盾值,zh-CN
+방어막 수치,护盾值,zh-CN
+Schild,护盾值,zh-CN
+Bouclier,护盾值,zh-CN
+Escudo,护盾值,zh-CN
+Щит,护盾值,zh-CN
+Pickup Range,拾取范围,zh-CN
+拾取範圍,拾取范围,zh-CN
+取得範囲,拾取范围,zh-CN
+줍기 범위,拾取范围,zh-CN
+Sammelreichweite,拾取范围,zh-CN
+Portée de ramassage,拾取范围,zh-CN
+Alcance de recogida,拾取范围,zh-CN
+Радиус подбора,拾取范围,zh-CN
+ATK,攻击力,zh-CN
+攻擊力,攻击力,zh-CN
+攻撃力,攻击力,zh-CN
+공격력,攻击力,zh-CN
+ANG,攻击力,zh-CN
+ATQ,攻击力,zh-CN
+Атака,攻击力,zh-CN
+ATK Bonus,攻击力百分比,zh-CN
+攻擊力百分比,攻击力百分比,zh-CN
+攻撃力％,攻击力百分比,zh-CN
+공격력%,攻击力百分比,zh-CN
+ANG-Bonus,攻击力百分比,zh-CN
+Bonus d’ATQ,攻击力百分比,zh-CN
+Bono de ATQ,攻击力百分比,zh-CN
+Бонус к атаке,攻击力百分比,zh-CN
+Chaos DMG Bonus,暗属性伤害增强,zh-CN
+暗屬性傷害增強,暗属性伤害增强,zh-CN
+闇異能ダメージ強化,暗属性伤害增强,zh-CN
+암속성 피해 증강,暗属性伤害增强,zh-CN
+Chaos-SCH-Bonus,暗属性伤害增强,zh-CN
+Bonus de DÉG de chaos,暗属性伤害增强,zh-CN
+Bono de Daño de Caos,暗属性伤害增强,zh-CN
+Бонус к урону хаоса,暗属性伤害增强,zh-CN
+Chaos Resistance,暗属性伤害抗性,zh-CN
+暗屬性傷害抗性,暗属性伤害抗性,zh-CN
+闇異能ダメージ耐性,暗属性伤害抗性,zh-CN
+암속성 피해 저항,暗属性伤害抗性,zh-CN
+Chaos-Resistenz,暗属性伤害抗性,zh-CN
+Résistance au chaos,暗属性伤害抗性,zh-CN
+Resist. Caos,暗属性伤害抗性,zh-CN
+Сопротивление хаосу,暗属性伤害抗性,zh-CN
+Crit DMG,暴击伤害,zh-CN
+暴擊傷害,暴击伤害,zh-CN
+クリティカルダメージ,暴击伤害,zh-CN
+치명 피해,暴击伤害,zh-CN
+KRIT-SCH,暴击伤害,zh-CN
+DÉG CRIT,暴击伤害,zh-CN
+Daño CRIT,暴击伤害,zh-CN
+Крит. урон,暴击伤害,zh-CN
+Crit Rate,暴击率,zh-CN
+暴擊率,暴击率,zh-CN
+クリティカル率,暴击率,zh-CN
+치명 확률,暴击率,zh-CN
+KRIT-Rate,暴击率,zh-CN
+Chances de CRIT,暴击率,zh-CN
+Prob. CRIT,暴击率,zh-CN
+Шанс крит. удара,暴击率,zh-CN
+Final DMG Bonus,最终伤害增强,zh-CN
+最終傷害增強,最终伤害增强,zh-CN
+最終ダメージ強化,最终伤害增强,zh-CN
+최종 피해 증강,最终伤害增强,zh-CN
+End-SCH-Bonus,最终伤害增强,zh-CN
+Bonus de DÉG finaux,最终伤害增强,zh-CN
+Bono de Daño Final,最终伤害增强,zh-CN
+Бонус к итоговому урону,最终伤害增强,zh-CN
+Healing Bonus,治疗加成,zh-CN
+治療加成,治疗加成,zh-CN
+治療アップ,治疗加成,zh-CN
+치료 보너스,治疗加成,zh-CN
+Heilungsbonus,治疗加成,zh-CN
+Bonus de soins,治疗加成,zh-CN
+Bono de curación,治疗加成,zh-CN
+Бонус к лечению,治疗加成,zh-CN
+Low-HP Healing,濒危回复生命,zh-CN
+瀕危恢復生命,濒危回复生命,zh-CN
+瀕死時HP回復,濒危回复生命,zh-CN
+위급 시 HP 회복,濒危回复生命,zh-CN
+Niedrig-LP-Heilung,濒危回复生命,zh-CN
+Soins en cas de PV critiques,濒危回复生命,zh-CN
+Curación con PS bajos,濒危回复生命,zh-CN
+Исцеление при низком уровне ОЗ,濒危回复生命,zh-CN
+Low-HP Healing Amount,濒危回复生命值,zh-CN
+瀕危恢復生命值,濒危回复生命值,zh-CN
+瀕死時HP回復,濒危回复生命值,zh-CN
+위급 시 HP 회복,濒危回复生命值,zh-CN
+Niedrig-LP-Heilungsmenge,濒危回复生命值,zh-CN
+Quantité de soins en cas de PV critiques,濒危回复生命值,zh-CN
+Cantidad de curación con PS bajos,濒危回复生命值,zh-CN
+Объём исцеления при низком уровне ОЗ,濒危回复生命值,zh-CN
+Anima DMG Bonus,灵属性伤害增强,zh-CN
+靈屬性傷害增強,灵属性伤害增强,zh-CN
+霊異能ダメージ強化,灵属性伤害增强,zh-CN
+령속성 피해 증강,灵属性伤害增强,zh-CN
+Anima-SCH-Bonus,灵属性伤害增强,zh-CN
+Bonus de DÉG d’anima,灵属性伤害增强,zh-CN
+Bono de Daño de Ánima,灵属性伤害增强,zh-CN
+Бонус к урону анимы,灵属性伤害增强,zh-CN
+Anima Resistance,灵属性伤害抗性,zh-CN
+靈屬性傷害抗性,灵属性伤害抗性,zh-CN
+霊異能ダメージ耐性,灵属性伤害抗性,zh-CN
+령속성 피해 저항,灵属性伤害抗性,zh-CN
+Anima-Resistenz,灵属性伤害抗性,zh-CN
+Résistance à l’anima,灵属性伤害抗性,zh-CN
+Resist. Ánima,灵属性伤害抗性,zh-CN
+Сопротивление анимы,灵属性伤害抗性,zh-CN
+Cycle Intensity,环合强度,zh-CN
+環合強度,环合强度,zh-CN
+連環パワー,环合强度,zh-CN
+사이클 강도,环合强度,zh-CN
+Zyklusstärke,环合强度,zh-CN
+Intensité de cycle,环合强度,zh-CN
+Intensidad de ciclo,环合强度,zh-CN
+Интенсивность цикла,环合强度,zh-CN
+HP,生命值,zh-CN
+LP,生命值,zh-CN
+PV,生命值,zh-CN
+PS,生命值,zh-CN
+ОЗ,生命值,zh-CN
+HP Bonus,生命值百分比,zh-CN
+HP％,生命值百分比,zh-CN
+HP%,生命值百分比,zh-CN
+LP-Bonus,生命值百分比,zh-CN
+Bonus de PV,生命值百分比,zh-CN
+Bono de PS,生命值百分比,zh-CN
+Бонус к ОЗ,生命值百分比,zh-CN
+Lakshana DMG Bonus,相属性伤害增强,zh-CN
+相屬性傷害增強,相属性伤害增强,zh-CN
+相異能ダメージ強化,相属性伤害增强,zh-CN
+상속성 피해 증강,相属性伤害增强,zh-CN
+Lakshana-SCH-Bonus,相属性伤害增强,zh-CN
+Bonus de DÉG de lakshana,相属性伤害增强,zh-CN
+Bono de Daño de Lakshana,相属性伤害增强,zh-CN
+Бонус к урону лакшаны,相属性伤害增强,zh-CN
+Lakshana Resistance,相属性伤害抗性,zh-CN
+相屬性傷害抗性,相属性伤害抗性,zh-CN
+相異能ダメージ耐性,相属性伤害抗性,zh-CN
+상속성 피해 저항,相属性伤害抗性,zh-CN
+Lakshana-Resistenz,相属性伤害抗性,zh-CN
+Résistance au lakshana,相属性伤害抗性,zh-CN
+Resist. Lakshana,相属性伤害抗性,zh-CN
+Сопротивление лакшане,相属性伤害抗性,zh-CN
+Movement Speed Up,移速提升,zh-CN
+移動速度増加,移速提升,zh-CN
+이동 속도 상승,移速提升,zh-CN
+Erhöhte Bewegungsgeschwindigkeit,移速提升,zh-CN
+Augmentation de la vitesse de déplacement,移速提升,zh-CN
+Aumento de velocidad de movimiento,移速提升,zh-CN
+Повышение скорости движения,移速提升,zh-CN
+EXP Gain Rate,获取经验效率,zh-CN
+獲取經驗效率,获取经验效率,zh-CN
+Exp獲得効率,获取经验效率,zh-CN
+경험치 획득 효율,获取经验效率,zh-CN
+EP-Gewinnrate,获取经验效率,zh-CN
+Taux de gain d’EXP,获取经验效率,zh-CN
+Tasa de obtención de EXP,获取经验效率,zh-CN
+Скорость получения ОП,获取经验效率,zh-CN
+Universal DMG Bonus,通用伤害增强,zh-CN
+通用傷害增強,通用伤害增强,zh-CN
+汎用ダメージ強化,通用伤害增强,zh-CN
+통용 피해 증강,通用伤害增强,zh-CN
+Universal-SCH-Bonus,通用伤害增强,zh-CN
+Bonus de DÉG universels,通用伤害增强,zh-CN
+Bono de Daño Universal,通用伤害增强,zh-CN
+Бонус к урону,通用伤害增强,zh-CN
+DEF,防御力,zh-CN
+防禦力,防御力,zh-CN
+방어력,防御力,zh-CN
+VER,防御力,zh-CN
+DÉF,防御力,zh-CN
+Защита,防御力,zh-CN
+DEF Bonus,防御力百分比,zh-CN
+防禦力百分比,防御力百分比,zh-CN
+防御力％,防御力百分比,zh-CN
+방어력%,防御力百分比,zh-CN
+VER-Bonus,防御力百分比,zh-CN
+Bonus de DÉF,防御力百分比,zh-CN
+Bono de DEF,防御力百分比,zh-CN
+Бонус к защите,防御力百分比,zh-CN
+Penetration,防御无视,zh-CN
+防禦無視,防御无视,zh-CN
+防御無視,防御无视,zh-CN
+방어 무시,防御无视,zh-CN
+Durchschlag,防御无视,zh-CN
+Pénétration,防御无视,zh-CN
+Penetración,防御无视,zh-CN
+Пробивание,防御无视,zh-CN
+Tenacity,韧性值,zh-CN
+韌性值,韧性值,zh-CN
+靭性値,韧性值,zh-CN
+근성,韧性值,zh-CN
+Zähigkeit,韧性值,zh-CN
+Ténacité,韧性值,zh-CN
+Tenacidad,韧性值,zh-CN
+Стойкость,韧性值,zh-CN
+Tenacity Resistance,韧性抵抗,zh-CN
+韌性抵抗,韧性抵抗,zh-CN
+靭性抵抗,韧性抵抗,zh-CN
+근성 저항,韧性抵抗,zh-CN
+Zähigkeit-Resistenz,韧性抵抗,zh-CN
+Résistance à la ténacité,韧性抵抗,zh-CN
+Resist. Tenacidad,韧性抵抗,zh-CN
+Сопротивление стойкости,韧性抵抗,zh-CN
+Tenacity Break Efficiency,韧性破坏效率,zh-CN
+韌性破壞效率,韧性破坏效率,zh-CN
+靭性破壊効率,韧性破坏效率,zh-CN
+근성 파괴 효율,韧性破坏效率,zh-CN
+Zähigkeitsbruch-Effizienz,韧性破坏效率,zh-CN
+Efficacité de rupture de la ténacité,韧性破坏效率,zh-CN
+Eficiencia de ruptura de tenacidad,韧性破坏效率,zh-CN
+Эффективность пробоя стойкости,韧性破坏效率,zh-CN
+Psyche DMG Bonus,魂属性伤害增强,zh-CN
+魂屬性傷害增強,魂属性伤害增强,zh-CN
+魂異能ダメージ強化,魂属性伤害增强,zh-CN
+혼속성 피해 증강,魂属性伤害增强,zh-CN
+Psyche-SCH-Bonus,魂属性伤害增强,zh-CN
+Bonus de DÉG de psyché,魂属性伤害增强,zh-CN
+Bono de Daño de Psique,魂属性伤害增强,zh-CN
+Бонус к урону психики,魂属性伤害增强,zh-CN
+Psyche Resistance,魂属性伤害抗性,zh-CN
+魂屬性傷害抗性,魂属性伤害抗性,zh-CN
+魂異能ダメージ耐性,魂属性伤害抗性,zh-CN
+혼속성 피해 저항,魂属性伤害抗性,zh-CN
+Psyche-Resistenz,魂属性伤害抗性,zh-CN
+Résistance à la psyché,魂属性伤害抗性,zh-CN
+Resist. Psique,魂属性伤害抗性,zh-CN
+Сопротивление психике,魂属性伤害抗性,zh-CN

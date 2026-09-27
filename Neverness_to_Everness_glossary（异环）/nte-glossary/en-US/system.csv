@@ -1,1 +1,2428 @@
 ﻿source,target,tgt_lng
+备用体力,Reserve stamina,en-US
+備用體力,Reserve stamina,en-US
+スタミナを温存する,Reserve stamina,en-US
+체력을 비축하세요,Reserve stamina,en-US
+Reserveausdauer,Reserve stamina,en-US
+réserve d'endurance,Reserve stamina,en-US
+Reservar resistencia,Reserve stamina,en-US
+Резервная выносливость,Reserve stamina,en-US
+S级角色自选,S-Class Selection,en-US
+S級角色自選,S-Class Selection,en-US
+選べるSランクキャラ,S-Class Selection,en-US
+S급 캐릭터 선택,S-Class Selection,en-US
+S-Rang-Auswahl,S-Class Selection,en-US
+Sélection de classe S,S-Class Selection,en-US
+Selección de Clase-S,S-Class Selection,en-US
+Персонаж S-класса на выбор,S-Class Selection,en-US
+下载中...,Downloading…,en-US
+下載中...,Downloading…,en-US
+ダウンロード中…,Downloading…,en-US
+다운로드 중…,Downloading…,en-US
+Download läuft …,Downloading…,en-US
+Téléchargement…,Downloading…,en-US
+Descargando…,Downloading…,en-US
+Загрузка…,Downloading…,en-US
+下载失败...,Download failed…,en-US
+下載失敗...,Download failed…,en-US
+ダウンロード失敗…,Download failed…,en-US
+다운로드 실패…,Download failed…,en-US
+Download fehlgeschlagen …,Download failed…,en-US
+Échec du téléchargement…,Download failed…,en-US
+No se pudo descargar…,Download failed…,en-US
+Не удалось загрузить…,Download failed…,en-US
+下载完成,Download complete.,en-US
+下載完成,Download complete.,en-US
+ダウンロード完了,Download complete.,en-US
+다운로드 완료,Download complete.,en-US
+Download abgeschlossen.,Download complete.,en-US
+Téléchargement terminé.,Download complete.,en-US
+Descarga completada.,Download complete.,en-US
+Загрузка завершена.,Download complete.,en-US
+下载进度,Download Progress,en-US
+下載進度,Download Progress,en-US
+ダウンロード進捗,Download Progress,en-US
+다운로드 진행도,Download Progress,en-US
+Download-Fortschritt,Download Progress,en-US
+Progression du téléchargement,Download Progress,en-US
+Progreso de descarga,Download Progress,en-US
+Прогресс загрузки,Download Progress,en-US
+功能未解锁，无法使用,Feature locked.,en-US
+功能未解鎖，無法使用,Feature locked.,en-US
+未解放の機能です,Feature locked.,en-US
+"기능이 해제되지 않아, 사용할 수 없습니다.",Feature locked.,en-US
+Funktion freigeschaltet.,Feature locked.,en-US
+Fonctionnalité verrouillée,Feature locked.,en-US
+Función bloqueada,Feature locked.,en-US
+Функция заблокирована.,Feature locked.,en-US
+名称内的数字字符不得累计超过6个,Names cannot contain more than 6 numeric characters total,en-US
+名稱內的數字字元不得累計超過6個,Names cannot contain more than 6 numeric characters total,en-US
+名称の数字は合計6文字以内にしてください,Names cannot contain more than 6 numeric characters total,en-US
+이름에 포함된 숫자는 6개를 초과할 수 없습니다.,Names cannot contain more than 6 numeric characters total,en-US
+Namen können nicht mehr als 6 numerische Zeichen insgesamt enthalten,Names cannot contain more than 6 numeric characters total,en-US
+Les noms ne peuvent pas contenir plus de 6 caractères numériques au total,Names cannot contain more than 6 numeric characters total,en-US
+Los nombres no pueden contener más de 6 caracteres numéricos en total.,Names cannot contain more than 6 numeric characters total,en-US
+В именах может быть не больше 6 цифр,Names cannot contain more than 6 numeric characters total,en-US
+处于掷骰过程中，无法再次掷骰！,Dice roll in progress. Cannot roll again.,en-US
+處於擲骰過程中，無法再次擲骰！,Dice roll in progress. Cannot roll again.,en-US
+サイコロを振っている最中に再度振ることはできません,Dice roll in progress. Cannot roll again.,en-US
+주사위를 던지고 있어 다시 던질 수 없습니다!,Dice roll in progress. Cannot roll again.,en-US
+Würfelwurf läuft. Erneuter Wurf nicht möglich.,Dice roll in progress. Cannot roll again.,en-US
+Lancer de dés en cours. Impossible de relancer.,Dice roll in progress. Cannot roll again.,en-US
+Tirada de dados en curso. No se puede volver a tirar.,Dice roll in progress. Cannot roll again.,en-US
+Идёт бросок кубиков. Нельзя перебросить.,Dice roll in progress. Cannot roll again.,en-US
+异环,NTE,en-US
+異環,NTE,en-US
+NTE: Neverness to Everness,NTE,en-US
+이환,NTE,en-US
+当前仓库剩余空间少于200格，请及时清理以免自动出售新藏品。,"Fewer than 200 slots remain. Clear some space soon, or newly acquired collectibles may be sold automatically.",en-US
+當前倉庫剩餘空間少於200格，請及時清理以免自動出售新藏品。,"Fewer than 200 slots remain. Clear some space soon, or newly acquired collectibles may be sold automatically.",en-US
+倉庫の空き容量が200マスより少なくなっています。新しい所蔵品が自動売却されないよう、早めに整理することをおすすめいたします。,"Fewer than 200 slots remain. Clear some space soon, or newly acquired collectibles may be sold automatically.",en-US
+현재 창고의 남은 공간이 200칸 미만입니다. 새 소장품이 자동으로 판매되지 않도록 창고를 정리해 주세요.,"Fewer than 200 slots remain. Clear some space soon, or newly acquired collectibles may be sold automatically.",en-US
+当前展示柜内的藏品数量已达到上限,The Display Case is full.,en-US
+當前展示櫃內的藏品數量已達到上限,The Display Case is full.,en-US
+現在、展示ケース内の所蔵品数が上限に達しています,The Display Case is full.,en-US
+현재 진열장 내의 소장품 수량이 상한에 도달했습니다,The Display Case is full.,en-US
+Die Vitrine ist voll.,The Display Case is full.,en-US
+La Vitrine est pleine.,The Display Case is full.,en-US
+La vitrina de exhibición está llena.,The Display Case is full.,en-US
+Витрина заполнена,The Display Case is full.,en-US
+当前版本该角色暂未开放都市偕游,City Hangouts for this character are not yet available in the current version.,en-US
+當前版本該角色暫未開放都市偕遊,City Hangouts for this character are not yet available in the current version.,en-US
+このキャラの都市散策は未開放です,City Hangouts for this character are not yet available in the current version.,en-US
+현재 버전에서는 해당 캐릭터의 도시 산책이 지원되지 않습니다.,City Hangouts for this character are not yet available in the current version.,en-US
+Die aktuelle Version unterstützt dieses Zeichen für Urbane Zweisamkeit nicht.,City Hangouts for this character are not yet available in the current version.,en-US
+La version actuelle ne prend pas en charge ce personnage pour les balades en ville.,City Hangouts for this character are not yet available in the current version.,en-US
+La versión actual no es compatible con este personaje para Convivencia urbana.,City Hangouts for this character are not yet available in the current version.,en-US
+Текущая версия не поддерживает этого персонажа для «Городского единения».,City Hangouts for this character are not yet available in the current version.,en-US
+技能冷却时间,Cooldown,en-US
+技能冷卻時間,Cooldown,en-US
+スキルクールダウン,Cooldown,en-US
+스킬 쿨타임,Cooldown,en-US
+Abklingzeit,Cooldown,en-US
+Temps de recharge,Cooldown,en-US
+Enfriamiento,Cooldown,en-US
+Перезарядка,Cooldown,en-US
+技能持续时间,Duration,en-US
+技能持續時間,Duration,en-US
+スキル持続時間,Duration,en-US
+스킬 지속 시간,Duration,en-US
+Dauer,Duration,en-US
+Durée,Duration,en-US
+Duración,Duration,en-US
+Длительность,Duration,en-US
+技能目标数量,Targets,en-US
+技能目標數量,Targets,en-US
+スキル対象数,Targets,en-US
+스킬 목표 수,Targets,en-US
+Ziele,Targets,en-US
+Cibles,Targets,en-US
+Objetivos,Targets,en-US
+Цели,Targets,en-US
+技能等级提升,Level Up,en-US
+技能等級提升,Level Up,en-US
+スキルレベルアップ,Level Up,en-US
+스킬 레벨 상승,Level Up,en-US
+Levelaufstieg,Level Up,en-US
+Montée de niveau,Level Up,en-US
+Subir de nivel,Level Up,en-US
+Повышение уровня,Level Up,en-US
+技能范围,Range,en-US
+技能範圍,Range,en-US
+スキル範囲,Range,en-US
+스킬 범위,Range,en-US
+Reichweite,Range,en-US
+Portée,Range,en-US
+Alcance,Range,en-US
+Радиус действия,Range,en-US
+技能释放次数,Attempts,en-US
+技能釋放次數,Attempts,en-US
+スキル発動回数,Attempts,en-US
+스킬 발동 횟수,Attempts,en-US
+Versuche,Attempts,en-US
+Tentatives,Attempts,en-US
+Intentos,Attempts,en-US
+Попытки,Attempts,en-US
+挑战成功,Challenge Successful,en-US
+挑戰成功,Challenge Successful,en-US
+挑戦成功,Challenge Successful,en-US
+챌린지 성공,Challenge Successful,en-US
+Herausforderung geschafft,Challenge Successful,en-US
+Défi réussi,Challenge Successful,en-US
+Desafío superado,Challenge Successful,en-US
+Испытание пройдено,Challenge Successful,en-US
+提示,Tip,en-US
+ヒント,Tip,en-US
+Tips,Tip,en-US
+Hinweis,Tip,en-US
+Conseil,Tip,en-US
+Consejo,Tip,en-US
+Подсказка,Tip,en-US
+无尽挑战模式,Saga of Infinity Mode,en-US
+無盡挑戰模式,Saga of Infinity Mode,en-US
+無限挑戦モード,Saga of Infinity Mode,en-US
+무한 챌린지 모드,Saga of Infinity Mode,en-US
+Modus „Saga der Unendlichkeit“,Saga of Infinity Mode,en-US
+Mode Saga de l’infini,Saga of Infinity Mode,en-US
+Modo Saga del infinito,Saga of Infinity Mode,en-US
+Режим «Сага о бесконечности»,Saga of Infinity Mode,en-US
+是否确认退出接单模式?,Exit Order Mode?,en-US
+是否確認退出接單模式?,Exit Order Mode?,en-US
+配車受付を終了しますか？,Exit Order Mode?,en-US
+콜 수락 모드를 종료하시겠습니까?,Exit Order Mode?,en-US
+Auftragsmodus verlassen?,Exit Order Mode?,en-US
+Quitter le mode commande ?,Exit Order Mode?,en-US
+¿Quieres salir del modo pedido?,Exit Order Mode?,en-US
+Выйти из режима заказов?,Exit Order Mode?,en-US
+本性像素,Character Pixels,en-US
+本性ピクセル,Character Pixels,en-US
+본성 픽셀,Character Pixels,en-US
+Charakter-Pixel,Character Pixels,en-US
+Pixels de personnage,Character Pixels,en-US
+Píxeles de carácter,Character Pixels,en-US
+Пиксели эспера,Character Pixels,en-US
+模拟演习-1,Simulation Drill I,en-US
+模擬演習-1,Simulation Drill I,en-US
+실전 훈련-1,Simulation Drill I,en-US
+Simulationsübung I,Simulation Drill I,en-US
+Exercice de simulation I,Simulation Drill I,en-US
+Simulacro I,Simulation Drill I,en-US
+Тренировочная симуляция I,Simulation Drill I,en-US
+模拟演习-2,Simulation Drill II,en-US
+模擬演習-2,Simulation Drill II,en-US
+실전 훈련-2,Simulation Drill II,en-US
+Simulationsübung II,Simulation Drill II,en-US
+Exercice de simulation II,Simulation Drill II,en-US
+Simulacro II,Simulation Drill II,en-US
+Тренировочная симуляция II,Simulation Drill II,en-US
+模拟演习-3,Simulation Drill III,en-US
+模擬演習-3,Simulation Drill III,en-US
+실전 훈련-3,Simulation Drill III,en-US
+Simulationsübung III,Simulation Drill III,en-US
+Exercice de simulation III,Simulation Drill III,en-US
+Simulacro III,Simulation Drill III,en-US
+Тренировочная симуляция III,Simulation Drill III,en-US
+模拟演习-4,Simulation Drill IV,en-US
+模擬演習-4,Simulation Drill IV,en-US
+실전 훈련-4,Simulation Drill IV,en-US
+Simulationsübung IV,Simulation Drill IV,en-US
+Exercice de simulation IV,Simulation Drill IV,en-US
+Simulacro IV,Simulation Drill IV,en-US
+Тренировочная симуляция IV,Simulation Drill IV,en-US
+模拟演习-5,Simulation Drill V,en-US
+模擬演習-5,Simulation Drill V,en-US
+실전 훈련-5,Simulation Drill V,en-US
+Simulationsübung V,Simulation Drill V,en-US
+Exercice de simulation V,Simulation Drill V,en-US
+Simulacro V,Simulation Drill V,en-US
+Тренировочная симуляция V,Simulation Drill V,en-US
+模拟演习-6,Simulation Drill VI,en-US
+模擬演習-6,Simulation Drill VI,en-US
+실전 훈련-6,Simulation Drill VI,en-US
+Simulationsübung VI,Simulation Drill VI,en-US
+Exercice de simulation VI,Simulation Drill VI,en-US
+Simulacro VI,Simulation Drill VI,en-US
+Тренировочная симуляция VI,Simulation Drill VI,en-US
+正在进行其他城市玩法,Engaged in another City Mode.,en-US
+正在進行其他城市玩法,Engaged in another City Mode.,en-US
+ほかの都市コンテンツを進行中です,Engaged in another City Mode.,en-US
+다른 도시 콘텐츠를 진행 중입니다.,Engaged in another City Mode.,en-US
+In einem anderen Stadtmodus beschäftigt.,Engaged in another City Mode.,en-US
+Engagé dans un autre Mode urbain.,Engaged in another City Mode.,en-US
+Activo en otro modo ciudad.,Engaged in another City Mode.,en-US
+Сейчас в другом городском режиме.,Engaged in another City Mode.,en-US
+活动期间，在「都市闲趣」玩法中2倍消耗「都市活力」,"During the event, City Stamina consumption is doubled in Hethereau Hobbies.",en-US
+活動期間，在「都市閒趣」玩法中2倍消耗「都市活力」,"During the event, City Stamina consumption is doubled in Hethereau Hobbies.",en-US
+イベント期間中、「シティライフ」での「シティスタミナ」消費量が2倍になります。,"During the event, City Stamina consumption is doubled in Hethereau Hobbies.",en-US
+이벤트 기간 동안 「도시 일상」 콘텐츠에서 「도시 활력제」를 2배로 소모합니다,"During the event, City Stamina consumption is doubled in Hethereau Hobbies.",en-US
+Während des Events wird der Verbrauch von Stadt-Ausdauer in Hethereau-Hobbys verdoppelt.,"During the event, City Stamina consumption is doubled in Hethereau Hobbies.",en-US
+"Pendant l’événement, la consommation d’endurance urbaine est doublée dans Hobbies d’Hethereau.","During the event, City Stamina consumption is doubled in Hethereau Hobbies.",en-US
+"Durante el evento, el consumo de Vigor urbano se duplica en Aficiones en Hethereau.","During the event, City Stamina consumption is doubled in Hethereau Hobbies.",en-US
+Во время события расход выносливости в городе в «Увлечения в Этеро» увеличивается вдвое.,"During the event, City Stamina consumption is doubled in Hethereau Hobbies.",en-US
+环石兑换,Annulith Exchange,en-US
+環石兌換,Annulith Exchange,en-US
+円石交換,Annulith Exchange,en-US
+환석 교환,Annulith Exchange,en-US
+Annulith-Austausch,Annulith Exchange,en-US
+Échange d’Annulith,Annulith Exchange,en-US
+Intercambio de arolita,Annulith Exchange,en-US
+Обмен аннулита,Annulith Exchange,en-US
+生日显示设置,Birthday Display,en-US
+生日顯示設置,Birthday Display,en-US
+誕生日の表示設定,Birthday Display,en-US
+생일 표시 설정,Birthday Display,en-US
+Geburtstags-Anzeige,Birthday Display,en-US
+Affichage de la date de naissance,Birthday Display,en-US
+Visualización de cumpleaños,Birthday Display,en-US
+Показывать день рождения,Birthday Display,en-US
+确认名称,Confirm Name,en-US
+確認名稱,Confirm Name,en-US
+名前を確認,Confirm Name,en-US
+이름 확인,Confirm Name,en-US
+Name bestätigen,Confirm Name,en-US
+Confirmer le nom,Confirm Name,en-US
+Confirmar nombre,Confirm Name,en-US
+Подтвердите имя,Confirm Name,en-US
+确认抽取,Confirm Pull,en-US
+確認抽取,Confirm Pull,en-US
+引く,Confirm Pull,en-US
+확인,Confirm Pull,en-US
+Ziehen bestätigen,Confirm Pull,en-US
+Confirmer le tirage,Confirm Pull,en-US
+Confirmar tirada,Confirm Pull,en-US
+Подтвердить розыгрыш,Confirm Pull,en-US
+羁遇之心,Heart of Bond,en-US
+羈遇之心,Heart of Bond,en-US
+心の絆,Heart of Bond,en-US
+인연의 마음,Heart of Bond,en-US
+Herz der Bindung,Heart of Bond,en-US
+Cœur du lien,Heart of Bond,en-US
+Corazón de vínculo,Heart of Bond,en-US
+Сердце связи,Heart of Bond,en-US
+角色展示设置,Character Display,en-US
+角色展示設置,Character Display,en-US
+キャラ表示設定,Character Display,en-US
+캐릭터 표시 설정,Character Display,en-US
+Charakteranzeige,Character Display,en-US
+Affichage du personnage,Character Display,en-US
+Visualización de personaje,Character Display,en-US
+Отображение персонажа,Character Display,en-US
+订单已超时，是否继续匹配新的订单？,Your order has timed out. Continue matching new orders?,en-US
+訂單已超時，是否繼續匹配新的訂單？,Your order has timed out. Continue matching new orders?,en-US
+タイムアウトしました。再マッチングしますか？,Your order has timed out. Continue matching new orders?,en-US
+시간이 초과되었습니다. 새로운 콜을 계속 대기하시겠습니까?,Your order has timed out. Continue matching new orders?,en-US
+Deine Bestellung wurde abgebrochen. Neue Aufträge weiter abgleichen?,Your order has timed out. Continue matching new orders?,en-US
+Votre commande a expiré. Continuer à rechercher de nouvelles commandes ?,Your order has timed out. Continue matching new orders?,en-US
+Tu pedido ha expirado. ¿Deseas seguir con los nuevos pedidos?,Your order has timed out. Continue matching new orders?,en-US
+Ваш заказ просрочен. Продолжить подбор новых заказов?,Your order has timed out. Continue matching new orders?,en-US
+该功能尚未解锁,Feature locked.,en-US
+該功能尚未解鎖,Feature locked.,en-US
+この機能は未解放です,Feature locked.,en-US
+아직 해제되지 않은 기능입니다,Feature locked.,en-US
+Funktion gesperrt.,Feature locked.,en-US
+Función bloqueada.,Feature locked.,en-US
+轨外回响,Runaway Echoes,en-US
+軌外迴響,Runaway Echoes,en-US
+軌道外ブレイク,Runaway Echoes,en-US
+궤도 너머의 메아리,Runaway Echoes,en-US
+Entfesselte Echos,Runaway Echoes,en-US
+Échos en fuite,Runaway Echoes,en-US
+Ecos desbocados,Runaway Echoes,en-US
+Беглые отголоски,Runaway Echoes,en-US
+送客途中下车将退出接单模式，是否确认？,Exiting the vehicle will cancel your current order. Confirm?,en-US
+送客途中下車將退出接單模式，是否確認？,Exiting the vehicle will cancel your current order. Confirm?,en-US
+送迎中に降車すると受注モードが終了します。よろしいですか？,Exiting the vehicle will cancel your current order. Confirm?,en-US
+승객 탑승 중에 하차하면 콜 수락 모드가 종료됩니다. 계속하시겠습니까?,Exiting the vehicle will cancel your current order. Confirm?,en-US
+"Wenn du das Fahrzeug verlässt, wird deine aktuelle Bestellung storniert. Bestätigen?",Exiting the vehicle will cancel your current order. Confirm?,en-US
+"Si vous sortez du véhicule, votre commande en cours sera annulée. Confirmer ?",Exiting the vehicle will cancel your current order. Confirm?,en-US
+Salir del vehículo cancelará tu pedido actual. ¿Confirmar?,Exiting the vehicle will cancel your current order. Confirm?,en-US
+Выход из транспорта приведет к отмене текущего заказа. Подтвердить?,Exiting the vehicle will cancel your current order. Confirm?,en-US
+都市活力,City Stamina,en-US
+シティスタミナ,City Stamina,en-US
+도시 활력제,City Stamina,en-US
+Stadt-Ausdauer,City Stamina,en-US
+Endurance urbaine,City Stamina,en-US
+Vigor urbano,City Stamina,en-US
+Выносливость в городе,City Stamina,en-US
+GM账号无法在当前IP登录,GM account cannot be logged in from current IP.,en-US
+GM帳號無法在當前IP登入,GM account cannot be logged in from current IP.,en-US
+このIPアドレスから、GMアカウントへのログインはできません,GM account cannot be logged in from current IP.,en-US
+GM 계정은 현재 IP에서 로그인할 수 없습니다,GM account cannot be logged in from current IP.,en-US
+GM-Konto darf nicht mit der aktuellen IP angemeldet sein.,GM account cannot be logged in from current IP.,en-US
+Connexion au compte GM impossible à partir de cette adresse IP.,GM account cannot be logged in from current IP.,en-US
+No puedes iniciar sesión como una cuenta GM desde tu IP actual.,GM account cannot be logged in from current IP.,en-US
+В аккаунт ГМ нельзя зайти с текущего IP.,GM account cannot be logged in from current IP.,en-US
+Http参数错误,HTTP parameter error.,en-US
+Http參數錯誤,HTTP parameter error.,en-US
+Webパラメータエラー,HTTP parameter error.,en-US
+HTTP 파라미터 오류,HTTP parameter error.,en-US
+HTTP-Parameterfehler.,HTTP parameter error.,en-US
+Erreur de paramètre HTTP.,HTTP parameter error.,en-US
+Error del parámetro HTTP.,HTTP parameter error.,en-US
+Ошибка параметров HTTP.,HTTP parameter error.,en-US
+Http服务器错误,Server issue detected.,en-US
+Http伺服器錯誤,Server issue detected.,en-US
+Webサーバーエラー,Server issue detected.,en-US
+HTTP 서버 오류,Server issue detected.,en-US
+Serverfehler erkannt.,Server issue detected.,en-US
+Problème de serveur détecté.,Server issue detected.,en-US
+Se detectó un problema con el servidor.,Server issue detected.,en-US
+Обнаружена проблема с сервером.,Server issue detected.,en-US
+Http超时,HTTP timed out.,en-US
+Http超時,HTTP timed out.,en-US
+接続がタイムアウトしました,HTTP timed out.,en-US
+HTTP 시간 초과,HTTP timed out.,en-US
+HTTP-Zeitüberschreitung.,HTTP timed out.,en-US
+Délai HTTP expiré.,HTTP timed out.,en-US
+Tiempo de espera del HTTP agotado.,HTTP timed out.,en-US
+Превышено время ожидания запроса HTTP.,HTTP timed out.,en-US
+PubData已存在,PubData already exists for this account.,en-US
+PUBデータがすでに存在しています,PubData already exists for this account.,en-US
+이미 존재하는 PubData입니다,PubData already exists for this account.,en-US
+PubData existiert bereits für dieses Konto.,PubData already exists for this account.,en-US
+PubData existe déjà pour ce compte.,PubData already exists for this account.,en-US
+Ya existe PubData para esta cuenta.,PubData already exists for this account.,en-US
+Для этого аккаунта уже существует PubData.,PubData already exists for this account.,en-US
+Token错误,Token error.,en-US
+Token錯誤,Token error.,en-US
+トークンエラー,Token error.,en-US
+토큰 오류,Token error.,en-US
+Token-Fehler.,Token error.,en-US
+Erreur de jeton.,Token error.,en-US
+Error de Token.,Token error.,en-US
+Ошибка жетона.,Token error.,en-US
+UID错误,UID error.,en-US
+UID錯誤,UID error.,en-US
+UIDエラー,UID error.,en-US
+UID 오류,UID error.,en-US
+UID-Fehler.,UID error.,en-US
+Erreur UID.,UID error.,en-US
+Error de UID.,UID error.,en-US
+Ошибка UID.,UID error.,en-US
+Uid错误,UID error.,en-US
+Uid錯誤,UID error.,en-US
+不在本地服务器中,Not on the local server.,en-US
+不在本機伺服器中,Not on the local server.,en-US
+ローカルサーバーに存在しません,Not on the local server.,en-US
+로컬 서버에 없습니다,Not on the local server.,en-US
+Nicht auf dem lokalen Server.,Not on the local server.,en-US
+Pas sur le serveur local.,Not on the local server.,en-US
+No se encuentra en el servidor local.,Not on the local server.,en-US
+Не на локальном сервере.,Not on the local server.,en-US
+交易Uid错误,Invalid transaction UID.,en-US
+交易Uid錯誤,Invalid transaction UID.,en-US
+取引UIDが存在しません,Invalid transaction UID.,en-US
+거래 UID 오류,Invalid transaction UID.,en-US
+Ungültige Transaktions-UID.,Invalid transaction UID.,en-US
+UID de transaction invalide.,Invalid transaction UID.,en-US
+UID de transacción inválida.,Invalid transaction UID.,en-US
+Неверный UID транзакции.,Invalid transaction UID.,en-US
+交易参数错误,Transaction parameter error.,en-US
+交易參數錯誤,Transaction parameter error.,en-US
+取引パラメータエラー,Transaction parameter error.,en-US
+거래 파라미터 오류,Transaction parameter error.,en-US
+Fehler bei Transaktionsparametern.,Transaction parameter error.,en-US
+Erreur de paramètre de transaction.,Transaction parameter error.,en-US
+Error en los parámetros de transacción.,Transaction parameter error.,en-US
+Ошибка параметра транзакции.,Transaction parameter error.,en-US
+传送中心,Teleport Center,en-US
+傳送中心,Teleport Center,en-US
+転送センター,Teleport Center,en-US
+텔레포트 센터,Teleport Center,en-US
+Teleportationszentrum,Teleport Center,en-US
+Centre de téléportation,Teleport Center,en-US
+Centro de teletransporte,Teleport Center,en-US
+Центр телепортации,Teleport Center,en-US
+传送中心CD,Teleport Center on cooldown.,en-US
+傳送中心CD,Teleport Center on cooldown.,en-US
+転送センターCD中,Teleport Center on cooldown.,en-US
+텔레포트 센터 대기시간,Teleport Center on cooldown.,en-US
+Teleportationszentrum in Abklingzeit.,Teleport Center on cooldown.,en-US
+Centre de téléportation en recharge.,Teleport Center on cooldown.,en-US
+Centro de teletransporte en enfriamiento.,Teleport Center on cooldown.,en-US
+Центр телепортации перезаряжается.,Teleport Center on cooldown.,en-US
+传送中心DB错误,Teleport Center database error.,en-US
+傳送中心DB錯誤,Teleport Center database error.,en-US
+転送センターDBエラー,Teleport Center database error.,en-US
+텔레포트 센터 DB 오류,Teleport Center database error.,en-US
+Teleportationszentrum-Datenbankfehler.,Teleport Center database error.,en-US
+Erreur de base de données du centre de téléportation.,Teleport Center database error.,en-US
+Error en la base de datos del centro de teletransporte.,Teleport Center database error.,en-US
+Ошибка базы данных центра телепортации.,Teleport Center database error.,en-US
+传送中心已结束,Teleport Center closed.,en-US
+傳送中心已結束,Teleport Center closed.,en-US
+転送センター停止,Teleport Center closed.,en-US
+텔레포트 센터 종료,Teleport Center closed.,en-US
+Teleportationszentrum geschlossen.,Teleport Center closed.,en-US
+Centre de téléportation fermé.,Teleport Center closed.,en-US
+Centro de teletransporte cerrado.,Teleport Center closed.,en-US
+Центр телепортации закрыт.,Teleport Center closed.,en-US
+传送中心游戏服已掉线,Teleport Center Server disconnected.,en-US
+傳送中心遊戲服已斷線,Teleport Center Server disconnected.,en-US
+転送先サーバーオフライン,Teleport Center Server disconnected.,en-US
+텔레포트 센터 게임 서버 연결이 끊겼습니다,Teleport Center Server disconnected.,en-US
+Verbindung zum Teleportationszentrum-Server getrennt.,Teleport Center Server disconnected.,en-US
+Serveur du centre de téléportation déconnecté.,Teleport Center Server disconnected.,en-US
+Servidor del centro de teletransporte desconectado.,Teleport Center Server disconnected.,en-US
+Сервер центра телепортации отключен.,Teleport Center Server disconnected.,en-US
+传送禁止登录,Login to Teleport Center Server is restricted.,en-US
+傳送禁止登入,Login to Teleport Center Server is restricted.,en-US
+現在、サーバー移動はできません,Login to Teleport Center Server is restricted.,en-US
+텔레포트 중에는 로그인할 수 없습니다,Login to Teleport Center Server is restricted.,en-US
+Anmeldung im Teleportationszentrum-Server ist eingeschränkt.,Login to Teleport Center Server is restricted.,en-US
+La connexion au serveur du centre de téléportation est restreinte.,Login to Teleport Center Server is restricted.,en-US
+Inicio de sesión al servidor del centro de teletransporte restringido.,Login to Teleport Center Server is restricted.,en-US
+Вход на сервер центра телепортации ограничен.,Login to Teleport Center Server is restricted.,en-US
+分线ID错误,Invalid Line ID.,en-US
+分線ID錯誤,Invalid Line ID.,en-US
+分配IDエラー,Invalid Line ID.,en-US
+채널 ID 오류,Invalid Line ID.,en-US
+Ungültige Line-ID.,Invalid Line ID.,en-US
+ID de ligne invalide.,Invalid Line ID.,en-US
+Línea de ID inválida.,Invalid Line ID.,en-US
+Неверный ID строки.,Invalid Line ID.,en-US
+创建角色参数错误,Character creation parameter error.,en-US
+創建角色參數錯誤,Character creation parameter error.,en-US
+キャラ作成パラメータエラー,Character creation parameter error.,en-US
+캐릭터 생성 파라미터 오류,Character creation parameter error.,en-US
+Charakter-Erstellung-Parameter-Fehler.,Character creation parameter error.,en-US
+Erreur de paramètre de création de caractère.,Character creation parameter error.,en-US
+Error en los parámetros de creación de personaje.,Character creation parameter error.,en-US
+Ошибка параметров создания персонажа.,Character creation parameter error.,en-US
+加密错误,Encryption error.,en-US
+加密錯誤,Encryption error.,en-US
+暗号化エラー,Encryption error.,en-US
+암호화 오류,Encryption error.,en-US
+Verschlüsselungsfehler.,Encryption error.,en-US
+Erreur de chiffrement.,Encryption error.,en-US
+Error de encriptación.,Encryption error.,en-US
+Ошибка шифрования.,Encryption error.,en-US
+匹配服,Matchmaking Server,en-US
+マッチングサーバー,Matchmaking Server,en-US
+매칭 서버,Matchmaking Server,en-US
+Spielersuche-Server,Matchmaking Server,en-US
+Serveur de matchmaking,Matchmaking Server,en-US
+Servidor de emparejamiento,Matchmaking Server,en-US
+Сервер подбора,Matchmaking Server,en-US
+发放奖励到游戏服错误,Error sending reward to Game Server.,en-US
+發放獎勵到遊戲服錯誤,Error sending reward to Game Server.,en-US
+報酬送信エラー,Error sending reward to Game Server.,en-US
+게임 서버로 보상 지급 오류,Error sending reward to Game Server.,en-US
+Fehler beim Versenden von Belohnungen an Spielserver.,Error sending reward to Game Server.,en-US
+Erreur lors de l’envoi de récompense au serveur de jeu.,Error sending reward to Game Server.,en-US
+Error al enviar recompensa al servidor de juego.,Error sending reward to Game Server.,en-US
+Ошибка при отправке награды на игровой сервер.,Error sending reward to Game Server.,en-US
+发送数据失败,Data transmission failed.,en-US
+發送資料失敗,Data transmission failed.,en-US
+データ送信エラー,Data transmission failed.,en-US
+데이터 전송 실패,Data transmission failed.,en-US
+Datenübertragung fehlgeschlagen.,Data transmission failed.,en-US
+Échec de la transmission des données.,Data transmission failed.,en-US
+Error en la transmisión de datos.,Data transmission failed.,en-US
+Ошибка передачи данных.,Data transmission failed.,en-US
+同账号踢出,Other login session kicked out.,en-US
+同帳號踢出,Other login session kicked out.,en-US
+他の端末からログインがありました,Other login session kicked out.,en-US
+동일 계정 접속으로 로그아웃되었습니다,Other login session kicked out.,en-US
+Andere Anmeldungssitzung wurde abgemeldet.,Other login session kicked out.,en-US
+Autre session de connexion interrompue.,Other login session kicked out.,en-US
+Se expulsó al otro inicio de sesión con la misma cuenta.,Other login session kicked out.,en-US
+Другая сессия входа отключена.,Other login session kicked out.,en-US
+名片服,Namecard Server,en-US
+プロフテーマサーバー,Namecard Server,en-US
+명함 서버,Namecard Server,en-US
+Namenskarte-Server,Namecard Server,en-US
+Serveur de cartes nominatives,Namecard Server,en-US
+Servidor de tarjetas de presentación,Namecard Server,en-US
+Сервер карточек имени,Namecard Server,en-US
+名片服已存在,The Namecard Server already exists.,en-US
+すでに使用されています,The Namecard Server already exists.,en-US
+명함 서버가 이미 존재합니다.,The Namecard Server already exists.,en-US
+Dieser Namenskarte-Server existiert bereits.,The Namecard Server already exists.,en-US
+Le serveur de cartes nominatives existe déjà.,The Namecard Server already exists.,en-US
+El servidor de tarjetas de presentación ya existe.,The Namecard Server already exists.,en-US
+Сервер карточек имени уже существует.,The Namecard Server already exists.,en-US
+场景服,Scenario Server,en-US
+場景服,Scenario Server,en-US
+シーンサーバー,Scenario Server,en-US
+필드 서버,Scenario Server,en-US
+Szenarioserver,Scenario Server,en-US
+Serveur de scénarios,Scenario Server,en-US
+Servidor de escenarios/mapas,Scenario Server,en-US
+Сервер сценариев,Scenario Server,en-US
+大厅服,Lobby Server,en-US
+大廳服,Lobby Server,en-US
+ロビーサーバー,Lobby Server,en-US
+로비 서버,Lobby Server,en-US
+Lobby-Server,Lobby Server,en-US
+Serveur de lobby,Lobby Server,en-US
+Servidor de recepción,Lobby Server,en-US
+Сервер лобби,Lobby Server,en-US
+好友,Friends,en-US
+フレンド,Friends,en-US
+친구,Friends,en-US
+Freunde,Friends,en-US
+Amis,Friends,en-US
+Amistades,Friends,en-US
+Друзья,Friends,en-US
+好友UID错误,Friend UID error.,en-US
+好友UID錯誤,Friend UID error.,en-US
+フレンドのUIDエラー,Friend UID error.,en-US
+친구 UID 오류,Friend UID error.,en-US
+Freunde-UID-Fehler.,Friend UID error.,en-US
+Erreur UID de l’ami.,Friend UID error.,en-US
+Error en la UID de tu amistad.,Friend UID error.,en-US
+Ошибка UID друга.,Friend UID error.,en-US
+好友上限,Friend limit reached.,en-US
+フレンド数上限,Friend limit reached.,en-US
+친구 상한 도달,Friend limit reached.,en-US
+Limit für Freunde erreicht.,Friend limit reached.,en-US
+Limite d’amis atteinte.,Friend limit reached.,en-US
+Se alcanzó el límite de amistades.,Friend limit reached.,en-US
+Достигнут лимит друзей.,Friend limit reached.,en-US
+好友已存在,You've already added this friend.,en-US
+すでにフレンド登録されています,You've already added this friend.,en-US
+이미 등록된 친구입니다,You've already added this friend.,en-US
+Du hast diesen Freund bereits hinzugefügt.,You've already added this friend.,en-US
+Vous avez déjà ajouté cet ami.,You've already added this friend.,en-US
+Ya agregaste a esta amistad.,You've already added this friend.,en-US
+Вы уже добавили этого друга.,You've already added this friend.,en-US
+好友搜索类型错误,Wrong friend search type.,en-US
+好友搜尋類型錯誤,Wrong friend search type.,en-US
+フレンドの検索タイプエラー,Wrong friend search type.,en-US
+친구 검색 유형 오류,Wrong friend search type.,en-US
+Falscher Freundsuche-Typ.,Wrong friend search type.,en-US
+Type de recherche d’ami incorrect.,Wrong friend search type.,en-US
+Tipo de búsqueda de amistades incorrecto.,Wrong friend search type.,en-US
+Неправильный тип поиска друга.,Wrong friend search type.,en-US
+好友服DB错误,Friend Server database error.,en-US
+好友服DB錯誤,Friend Server database error.,en-US
+フレンドサーバーのデータベースエラー,Friend Server database error.,en-US
+친구 서버 DB 오류,Friend Server database error.,en-US
+Freundeserver-Datenbankfehler.,Friend Server database error.,en-US
+Erreur de base de données du serveur ami.,Friend Server database error.,en-US
+Error en la base de datos del servidor de amistades.,Friend Server database error.,en-US
+Ошибка базы данных сервера друга.,Friend Server database error.,en-US
+好友未找到,Friend not found.,en-US
+フレンドが見つかりませんでした,Friend not found.,en-US
+친구를 찾을 수 없습니다,Friend not found.,en-US
+Freund nicht gefunden.,Friend not found.,en-US
+Ami introuvable.,Friend not found.,en-US
+Amistad no encontrada.,Friend not found.,en-US
+Друг не найден.,Friend not found.,en-US
+存储,Storage,en-US
+儲存,Storage,en-US
+保存,Storage,en-US
+저장,Storage,en-US
+Speicher,Storage,en-US
+Stockage,Storage,en-US
+Almacenamiento,Storage,en-US
+Хранение,Storage,en-US
+存储数据失败,Failed to save data.,en-US
+儲存資料失敗,Failed to save data.,en-US
+データ保存エラー,Failed to save data.,en-US
+데이터 저장 실패,Failed to save data.,en-US
+Speichern der Daten fehlgeschlagen.,Failed to save data.,en-US
+Échec de l’enregistrement des données.,Failed to save data.,en-US
+No se pudieron guardar los datos.,Failed to save data.,en-US
+Не удалось сохранить данные.,Failed to save data.,en-US
+存储服DB错误,Storage Server database error.,en-US
+儲存服DB錯誤,Storage Server database error.,en-US
+データベースでエラーが発生しました,Storage Server database error.,en-US
+저장 서버 DB 오류,Storage Server database error.,en-US
+Speicherserver-Datenbankfehler.,Storage Server database error.,en-US
+Erreur de base de données du serveur de stockage.,Storage Server database error.,en-US
+Error en la base de datos del servidor de almacenamiento.,Storage Server database error.,en-US
+Ошибка базы данных сервера хранения.,Storage Server database error.,en-US
+存储类型错误,Storage type error.,en-US
+儲存類型錯誤,Storage type error.,en-US
+保存タイプエラー,Storage type error.,en-US
+저장 유형 오류,Storage type error.,en-US
+Speichertyp-Fehler.,Storage type error.,en-US
+Erreur de type de stockage.,Storage type error.,en-US
+Error en el tipo de almacenamiento.,Storage type error.,en-US
+Ошибка типа хранилища.,Storage type error.,en-US
+存档异常,Failed to save.,en-US
+存檔異常,Failed to save.,en-US
+アーカイブ異常,Failed to save.,en-US
+저장 데이터 오류,Failed to save.,en-US
+Speichern fehlgeschlagen.,Failed to save.,en-US
+Échec de l’enregistrement.,Failed to save.,en-US
+No se pudo guardar.,Failed to save.,en-US
+Не удалось сохранить.,Failed to save.,en-US
+密码错误,Incorrect password.,en-US
+密碼錯誤,Incorrect password.,en-US
+パスワードが一致しません,Incorrect password.,en-US
+비밀번호 오류,Incorrect password.,en-US
+Falsches Passwort.,Incorrect password.,en-US
+Mot de passe incorrect.,Incorrect password.,en-US
+Contraseña incorrecta.,Incorrect password.,en-US
+Неверный пароль.,Incorrect password.,en-US
+已切换,Switched.,en-US
+已切換,Switched.,en-US
+切替成功,Switched.,en-US
+전환 완료,Switched.,en-US
+Gewechselt.,Switched.,en-US
+Permuté.,Switched.,en-US
+Cambiado.,Switched.,en-US
+Переключено.,Switched.,en-US
+已掉线,Disconnected.,en-US
+已斷線,Disconnected.,en-US
+オフラインになりました,Disconnected.,en-US
+접속 끊김,Disconnected.,en-US
+Verbindung getrennt.,Disconnected.,en-US
+Déconnecté.,Disconnected.,en-US
+Desconectado.,Disconnected.,en-US
+Отключение.,Disconnected.,en-US
+当前服务器尚未准备好，请稍后尝试,The server is not ready. Please try again later.,en-US
+當前伺服器尚未準備好，請稍後嘗試,The server is not ready. Please try again later.,en-US
+サーバーは現在利用できません。後ほどお試しください。,The server is not ready. Please try again later.,en-US
+해당 서버는 아직 준비가 끝나지 않았습니다. 잠시 후 다시 시도하세요.,The server is not ready. Please try again later.,en-US
+Der Server ist nicht bereit. Bitte versuche es später noch einmal.,The server is not ready. Please try again later.,en-US
+Le serveur n’est pas disponible. Veuillez réessayer plus tard.,The server is not ready. Please try again later.,en-US
+El servidor aún no está listo. Inténtalo de nuevo más tarde.,The server is not ready. Please try again later.,en-US
+Сервер ещё не готов. Повторите попытку позже.,The server is not ready. Please try again later.,en-US
+当前游戏版本与最新版本不匹配，请更新后继续体验,Your game version is out of date. Please update to continue.,en-US
+當前遊戲版本與最新版本不匹配，請更新後繼續體驗,Your game version is out of date. Please update to continue.,en-US
+現在のゲームバージョンが最新バージョンと一致しません。プレイを続けるにはアップデートが必要です。,Your game version is out of date. Please update to continue.,en-US
+현재 게임 버전이 최신 버전과 일치하지 않습니다. 업데이트 후 다시 이용해 주세요.,Your game version is out of date. Please update to continue.,en-US
+"Deine Spielversion ist veraltet. Bitte aktualisieren, um fortzufahren.",Your game version is out of date. Please update to continue.,en-US
+La version de votre jeu n’est plus à jour. Veuillez la mettre à jour pour continuer.,Your game version is out of date. Please update to continue.,en-US
+Tu versión del juego está desactualizada. Actualízala para continuar.,Your game version is out of date. Please update to continue.,en-US
+"Ваша версия игры устарела. Обновите игру, чтобы продолжить.",Your game version is out of date. Please update to continue.,en-US
+房间服,Room Server,en-US
+房間服,Room Server,en-US
+ルームサーバー,Room Server,en-US
+방 서버,Room Server,en-US
+Raumserver,Room Server,en-US
+Serveur de salles,Room Server,en-US
+Servidor de la sala,Room Server,en-US
+Сервер комнаты,Room Server,en-US
+房间服已结束,Room Server closed.,en-US
+房間服已結束,Room Server closed.,en-US
+ルームサーバー停止,Room Server closed.,en-US
+방 서버 종료,Room Server closed.,en-US
+Raumserver geschlossen.,Room Server closed.,en-US
+Serveur de salles fermé.,Room Server closed.,en-US
+Servidor de la sala cerrado.,Room Server closed.,en-US
+Сервер комнаты закрыт.,Room Server closed.,en-US
+房间网络错误,Room network error.,en-US
+房間網路錯誤,Room network error.,en-US
+ルーム通信エラー,Room network error.,en-US
+방 네트워크 오류,Room network error.,en-US
+Raum-Netzwerkfehler.,Room network error.,en-US
+Erreur de réseau du salon.,Room network error.,en-US
+Error de la red de la sala.,Room network error.,en-US
+Ошибка сети комнаты.,Room network error.,en-US
+排行榜名称错误,Leaderboard name error.,en-US
+排行榜名稱錯誤,Leaderboard name error.,en-US
+ランキング名称エラー,Leaderboard name error.,en-US
+랭킹 이름 오류,Leaderboard name error.,en-US
+Rangelistenname-Fehler.,Leaderboard name error.,en-US
+Erreur du nom de classement.,Leaderboard name error.,en-US
+Error en los nombres de la tabla de clasificación.,Leaderboard name error.,en-US
+Ошибка имени в списке лидеров.,Leaderboard name error.,en-US
+排行榜无数据,No records.,en-US
+排行榜無資料,No records.,en-US
+ランキングデータがありません,No records.,en-US
+랭킹 데이터 없음,No records.,en-US
+Keine Rekorde,No records.,en-US
+Aucun enregistrement.,No records.,en-US
+No hay registros.,No records.,en-US
+Нет записей.,No records.,en-US
+排行榜未定义,Leaderboard not found.,en-US
+排行榜未定義,Leaderboard not found.,en-US
+ランキング未集計,Leaderboard not found.,en-US
+랭킹이 정의되지 않음,Leaderboard not found.,en-US
+Rangliste nicht gefunden.,Leaderboard not found.,en-US
+Classement introuvable.,Leaderboard not found.,en-US
+Tabla de clasificación no encontrada.,Leaderboard not found.,en-US
+Список лидеров не найден.,Leaderboard not found.,en-US
+数据存储,Data storage,en-US
+資料儲存,Data storage,en-US
+データ保存,Data storage,en-US
+데이터 저장,Data storage,en-US
+Datenspeicher,Data storage,en-US
+Stockage de données,Data storage,en-US
+Almacenamiento de datos,Data storage,en-US
+Хранение данных,Data storage,en-US
+数据存储错误,Data storage error.,en-US
+資料儲存錯誤,Data storage error.,en-US
+データ保存エラー,Data storage error.,en-US
+데이터 저장 오류,Data storage error.,en-US
+Datenspeicher-Fehler.,Data storage error.,en-US
+Erreur de stockage de données.,Data storage error.,en-US
+Error en el almacenamiento de datos,Data storage error.,en-US
+Ошибка хранения данных.,Data storage error.,en-US
+无效Token,Invalid token.,en-US
+無效Token,Invalid token.,en-US
+無効トークン,Invalid token.,en-US
+유효하지 않은 토큰입니다,Invalid token.,en-US
+Ungültige Marke.,Invalid token.,en-US
+Jeton invalide.,Invalid token.,en-US
+Token inválido.,Invalid token.,en-US
+Неверный жетон.,Invalid token.,en-US
+无权限,No permission.,en-US
+無權限,No permission.,en-US
+権限がありません,No permission.,en-US
+권한 없음,No permission.,en-US
+Keine Erlaubnis.,No permission.,en-US
+Aucune autorisation.,No permission.,en-US
+Sin permiso.,No permission.,en-US
+Нет разрешения.,No permission.,en-US
+无空闲副本,No idle instance available.,en-US
+無空閒副本,No idle instance available.,en-US
+現在、参加可能なダンジョンがありません,No idle instance available.,en-US
+이용 가능한 던전 없음,No idle instance available.,en-US
+Keine freie Instanz verfügbar.,No idle instance available.,en-US
+Aucune instance inactive disponible.,No idle instance available.,en-US
+No quedan instancias con cupos.,No idle instance available.,en-US
+Нет доступных экземпляров мира.,No idle instance available.,en-US
+无聊天房间,Chat room not found.,en-US
+無聊天房間,Chat room not found.,en-US
+チャットルームが存在していません,Chat room not found.,en-US
+채팅방 없음,Chat room not found.,en-US
+Chatroom nicht gefunden.,Chat room not found.,en-US
+Salon de discussion introuvable.,Chat room not found.,en-US
+Sala de chat no encontrada.,Chat room not found.,en-US
+Комната чата не найдена.,Chat room not found.,en-US
+无角色,No character found.,en-US
+無角色,No character found.,en-US
+キャラがありません,No character found.,en-US
+캐릭터 없음,No character found.,en-US
+Kein Charakter gefunden.,No character found.,en-US
+Aucun personnage trouvé.,No character found.,en-US
+No se encontró personaje.,No character found.,en-US
+Персонаж не найден.,No character found.,en-US
+无账号,Account not found.,en-US
+無帳號,Account not found.,en-US
+アカウントが存在しません,Account not found.,en-US
+계정 없음,Account not found.,en-US
+Konto nicht gefunden.,Account not found.,en-US
+Compte introuvable.,Account not found.,en-US
+Cuenta no encontrada.,Account not found.,en-US
+Аккаунт не найден.,Account not found.,en-US
+无错误,No error.,en-US
+無錯誤,No error.,en-US
+エラーなし,No error.,en-US
+오류 없음,No error.,en-US
+Kein Fehler.,No error.,en-US
+Aucune erreur.,No error.,en-US
+No hay errores.,No error.,en-US
+Нет ошибок.,No error.,en-US
+服务器ID重复,Duplicated Server ID.,en-US
+伺服器ID重複,Duplicated Server ID.,en-US
+サーバーIDが重複しています,Duplicated Server ID.,en-US
+서버 ID 중복,Duplicated Server ID.,en-US
+Doppelte Server-ID.,Duplicated Server ID.,en-US
+ID de serveur dupliqué.,Duplicated Server ID.,en-US
+ID del servidor duplicada,Duplicated Server ID.,en-US
+ID сервера дублируется.,Duplicated Server ID.,en-US
+服务器不可用,Server unavailable.,en-US
+伺服器不可用,Server unavailable.,en-US
+サーバーが利用できません,Server unavailable.,en-US
+서버 사용 불가,Server unavailable.,en-US
+Server nicht verfügbar.,Server unavailable.,en-US
+Serveur indisponible.,Server unavailable.,en-US
+Servidor no disponible.,Server unavailable.,en-US
+Сервер недоступен.,Server unavailable.,en-US
+服务器人数已满，无法进入游戏，请稍后重新尝试,Server capacity reached. Please try again later.,en-US
+伺服器人數已滿，無法進入遊戲，請稍後重新嘗試,Server capacity reached. Please try again later.,en-US
+サーバーが満員のため、ログインできません。しばらくしてから再度お試しください,Server capacity reached. Please try again later.,en-US
+서버 인원을 초과했습니다. 잠시 후 다시 시도해 주세요,Server capacity reached. Please try again later.,en-US
+Serverkapazität erreicht. Bitte versuche es später erneut.,Server capacity reached. Please try again later.,en-US
+Capacité du serveur atteinte. Veuillez réessayer ultérieurement.,Server capacity reached. Please try again later.,en-US
+Se alcanzó el límite de la capacidad del servidor. Vuelve a intentarlo.,Server capacity reached. Please try again later.,en-US
+Достигнута макс. вместимость сервера. Повторите попытку позже.,Server capacity reached. Please try again later.,en-US
+服务器已满,Server capacity reached.,en-US
+伺服器已滿,Server capacity reached.,en-US
+サーバー収容人数が上限に達しました,Server capacity reached.,en-US
+서버 정원이 초과되었습니다,Server capacity reached.,en-US
+Serverkapazität erreicht.,Server capacity reached.,en-US
+Capacité du serveur atteinte.,Server capacity reached.,en-US
+Se alcanzó el límite de la capacidad del servidor.,Server capacity reached.,en-US
+Достигнута макс. вместимость сервера.,Server capacity reached.,en-US
+服务器注册失败,Server registration failed.,en-US
+伺服器註冊失敗,Server registration failed.,en-US
+サーバーへの登録に失敗しました,Server registration failed.,en-US
+서버 등록 실패,Server registration failed.,en-US
+Serverregistrierung fehlgeschlagen.,Server registration failed.,en-US
+Échec de l’inscription du serveur.,Server registration failed.,en-US
+Registro en el servidor fallido.,Server registration failed.,en-US
+Ошибка регистрации сервера.,Server registration failed.,en-US
+服务器繁忙,Server is busy.,en-US
+伺服器繁忙,Server is busy.,en-US
+サーバーが混雑しています,Server is busy.,en-US
+서버가 혼잡합니다,Server is busy.,en-US
+Server ist beschäftigt.,Server is busy.,en-US
+Le serveur est occupé.,Server is busy.,en-US
+Servidor ocupado.,Server is busy.,en-US
+Список занят.,Server is busy.,en-US
+服务器角色限制,Character limit reached on the server.,en-US
+伺服器角色限制,Character limit reached on the server.,en-US
+キャラ作成数が上限に達しています,Character limit reached on the server.,en-US
+서버 캐릭터 제한,Character limit reached on the server.,en-US
+Charakterlimit auf dem Server erreicht.,Character limit reached on the server.,en-US
+Limite de personnages atteinte sur le serveur.,Character limit reached on the server.,en-US
+Se llegó al límite de personajes de este servidor.,Character limit reached on the server.,en-US
+На сервере достигнут лимит персонажей.,Character limit reached on the server.,en-US
+未创建服务器,Server not created.,en-US
+未創建伺服器,Server not created.,en-US
+サーバー未作成,Server not created.,en-US
+서버 미생성,Server not created.,en-US
+Server nicht erstellt.,Server not created.,en-US
+Serveur non créé.,Server not created.,en-US
+Servidor no creado.,Server not created.,en-US
+Сервер не создан.,Server not created.,en-US
+未找到玩家,Player not found.,en-US
+対象のプレイヤーが見つかりませんでした,Player not found.,en-US
+플레이어를 찾을 수 없습니다,Player not found.,en-US
+Spieler nicht gefunden.,Player not found.,en-US
+Joueur introuvable.,Player not found.,en-US
+Jugador no encontrado.,Player not found.,en-US
+Игрок не найден.,Player not found.,en-US
+未找到角色,Character not found.,en-US
+キャラが見つかりませんでした,Character not found.,en-US
+캐릭터를 찾을 수 없습니다,Character not found.,en-US
+Charakter nicht gefunden.,Character not found.,en-US
+Personnage introuvable.,Character not found.,en-US
+Personaje no encontrado.,Character not found.,en-US
+Персонаж не найден.,Character not found.,en-US
+未校验角色名,Unverified character name.,en-US
+未校驗角色名,Unverified character name.,en-US
+キャラ名の検証に失敗しました,Unverified character name.,en-US
+검증되지 않은 캐릭터 이름,Unverified character name.,en-US
+Nicht verifizierter Charaktername.,Unverified character name.,en-US
+Nom de personnage non vérifié.,Unverified character name.,en-US
+Nombre de personaje no verificado.,Unverified character name.,en-US
+Непроверенное имя персонажа.,Unverified character name.,en-US
+未知错误,Unknown error.,en-US
+未知錯誤,Unknown error.,en-US
+不明なエラー,Unknown error.,en-US
+알 수 없는 오류,Unknown error.,en-US
+Unbekannter Fehler.,Unknown error.,en-US
+Erreur inconnue.,Unknown error.,en-US
+Error desconocido.,Unknown error.,en-US
+Неизвестная ошибка.,Unknown error.,en-US
+测试尚未开启,Testing not started.,en-US
+測試尚未開啟,Testing not started.,en-US
+テストはまだ開始されていません,Testing not started.,en-US
+테스트가 아직 시작되지 않았습니다,Testing not started.,en-US
+Test hat noch nicht begonnen.,Testing not started.,en-US
+Test non démarré.,Testing not started.,en-US
+Prueba no iniciada.,Testing not started.,en-US
+Тестирование не началось.,Testing not started.,en-US
+测试已结束,Test ended.,en-US
+測試已結束,Test ended.,en-US
+テストは終了しました,Test ended.,en-US
+테스트가 종료되었습니다,Test ended.,en-US
+Test ist vorbei.,Test ended.,en-US
+Test terminé.,Test ended.,en-US
+Prueba terminada.,Test ended.,en-US
+Тестирование закончилось.,Test ended.,en-US
+测试机已满,Test device capacity reached.,en-US
+測試機已滿,Test device capacity reached.,en-US
+テストクライアント数が上限です,Test device capacity reached.,en-US
+테스트 기기가 모두 사용 중입니다,Test device capacity reached.,en-US
+Testgerätkapazität erreicht.,Test device capacity reached.,en-US
+Capacité de l’appareil de test atteinte.,Test device capacity reached.,en-US
+Se alcanzó el límite de la capacidad del dispositivo de prueba.,Test device capacity reached.,en-US
+Достигнут лимит для тестового устройства.,Test device capacity reached.,en-US
+消息容量错误,Message limit reached.,en-US
+消息容量錯誤,Message limit reached.,en-US
+容量エラー,Message limit reached.,en-US
+메시지 용량 오류,Message limit reached.,en-US
+Nachrichtenlimit erreicht.,Message limit reached.,en-US
+Limite de message atteinte.,Message limit reached.,en-US
+Se alcanzó el límite de mensajes.,Message limit reached.,en-US
+Достигнут лимит сообщений.,Message limit reached.,en-US
+消息版本号错误,Message version mismatch.,en-US
+消息版本號錯誤,Message version mismatch.,en-US
+バージョンが一致しません,Message version mismatch.,en-US
+메시지 버전 오류,Message version mismatch.,en-US
+Nachrichtenversion-Diskrepanz.,Message version mismatch.,en-US
+Version du message incompatible.,Message version mismatch.,en-US
+Error en el número de versión del mensaje.,Message version mismatch.,en-US
+Несоответствие версии сообщения.,Message version mismatch.,en-US
+消息解析错误,Message parsing error.,en-US
+消息解析錯誤,Message parsing error.,en-US
+メッセージ解析エラー,Message parsing error.,en-US
+메시지 해석 오류,Message parsing error.,en-US
+Nachricht-Parsing-Fehler.,Message parsing error.,en-US
+Erreur d’analyse du message.,Message parsing error.,en-US
+Error al analizar el mensaje.,Message parsing error.,en-US
+Ошибка обработки сообщения.,Message parsing error.,en-US
+游戏内容不支持账号所属区域，请使用中国大陆区域账号登录游玩,Game content does not support your account's region. Please log in with a Mainland China account to play.,en-US
+遊戲內容不支援帳號所屬區域，請使用中國大陸區域帳號登入遊玩,Game content does not support your account's region. Please log in with a Mainland China account to play.,en-US
+ゲームにログインするには、中国本土のアカウントを使用してください,Game content does not support your account's region. Please log in with a Mainland China account to play.,en-US
+본 계정의 소속 지역에서 지원하지 않는 콘텐츠입니다. 중국 지역의 계정으로 로그인해 주세요.,Game content does not support your account's region. Please log in with a Mainland China account to play.,en-US
+游戏内容不支持账号所属区域，请使用非中国大陆区域账号登录游玩,Game content does not support your account's region. Please log in with a non-Mainland China account to play.,en-US
+遊戲內容不支援帳號所屬區域，請使用非中國大陸區域帳號登入遊玩,Game content does not support your account's region. Please log in with a non-Mainland China account to play.,en-US
+ゲームにログインするには、中国本土以外の地域のアカウントを使用してください,Game content does not support your account's region. Please log in with a non-Mainland China account to play.,en-US
+본 계정의 소속 지역에서 지원하지 않는 콘텐츠입니다. 중국 지역 외의 계정으로 로그인해 주세요.,Game content does not support your account's region. Please log in with a non-Mainland China account to play.,en-US
+游戏服,Game Server,en-US
+遊戲服,Game Server,en-US
+ゲームサーバー,Game Server,en-US
+게임 서버,Game Server,en-US
+Spielserver,Game Server,en-US
+Serveur de jeu,Game Server,en-US
+Servidor de juego,Game Server,en-US
+Игровой сервер,Game Server,en-US
+玩家不在线,Player is not online.,en-US
+玩家不在線上,Player is not online.,en-US
+プレイヤーオフライン,Player is not online.,en-US
+플레이어가 오프라인 상태입니다,Player is not online.,en-US
+Spieler ist nicht online.,Player is not online.,en-US
+Le joueur est hors ligne.,Player is not online.,en-US
+Jugador desconectado.,Player is not online.,en-US
+Игрок не в сети.,Player is not online.,en-US
+生成角色ID错误,Character ID generation failed.,en-US
+生成角色ID錯誤,Character ID generation failed.,en-US
+キャラ作成IDエラー,Character ID generation failed.,en-US
+캐릭터 ID 생성 오류,Character ID generation failed.,en-US
+Generierung von Charakter-ID fehlgeschlagen.,Character ID generation failed.,en-US
+Échec de la génération de l’ID du personnage.,Character ID generation failed.,en-US
+Falló la generación de ID de personaje.,Character ID generation failed.,en-US
+Не удалось сгенерировать ID персонажа.,Character ID generation failed.,en-US
+用户数据,User data.,en-US
+用戶資料,User data.,en-US
+ユーザーデータ,User data.,en-US
+사용자 데이터,User data.,en-US
+Benutzerdaten.,User data.,en-US
+Données utilisateur.,User data.,en-US
+Datos de usuario.,User data.,en-US
+Данные пользователя.,User data.,en-US
+登录异常，建议检查网络后重新登录或重启游戏,Failed to log in. Please check your network connection and try again.,en-US
+登入異常，建議檢查網路後重新登入或重啟遊戲,Failed to log in. Please check your network connection and try again.,en-US
+ログインに失敗しました。ネットワークを確認して再度ログインするか、再起動してください。,Failed to log in. Please check your network connection and try again.,en-US
+로그인에 문제가 발생했습니다. 네트워크 확인 후 다시 로그인하거나 게임을 재시작해 주세요,Failed to log in. Please check your network connection and try again.,en-US
+Anmeldung fehlgeschlagen. Überprüfe bitte deine Netzwerkverbindung und versuche es erneut.,Failed to log in. Please check your network connection and try again.,en-US
+Échec de la connexion. Veuillez vérifier votre connexion réseau et réessayer.,Failed to log in. Please check your network connection and try again.,en-US
+"No se pudo iniciar sesión. Por favor, revisa tu conexión e intenta nuevamente.",Failed to log in. Please check your network connection and try again.,en-US
+Не удалось войти. Проверьте подключение к сети и повторите попытку.,Failed to log in. Please check your network connection and try again.,en-US
+登录校验,Login verification,en-US
+登入校驗,Login verification,en-US
+ログイン検証,Login verification,en-US
+로그인 검증,Login verification,en-US
+Anmeldungsverifikation,Login verification,en-US
+Vérification de connexion,Login verification,en-US
+Verificación del inicio de sesión,Login verification,en-US
+Проверка входа,Login verification,en-US
+登录校验参数错误,Login error: verification error detected.,en-US
+登入校驗參數錯誤,Login error: verification error detected.,en-US
+ログイン検証パラメータエラー,Login error: verification error detected.,en-US
+로그인 검증 파라미터 오류,Login error: verification error detected.,en-US
+Anmeldungsfehler: Verifikationsfehler erkannt.,Login error: verification error detected.,en-US
+Erreur de connexion : erreur de vérification détectée.,Login error: verification error detected.,en-US
+Error de inicio de sesión: se detectó un error de verificación.,Login error: verification error detected.,en-US
+Ошибка входа: обнаружена проблема с проверкой.,Login error: verification error detected.,en-US
+登录玩家已满,Server capacity reached.,en-US
+登入玩家已滿,Server capacity reached.,en-US
+サーバーへのログイン数が上限に達しています,Server capacity reached.,en-US
+로그인 가능한 인원이 초과되었습니다,Server capacity reached.,en-US
+登录类型错误,Invalid login type.,en-US
+登入類型錯誤,Invalid login type.,en-US
+ログイン方法が一致しません,Invalid login type.,en-US
+로그인 유형 오류,Invalid login type.,en-US
+Ungültiger Anmeldetyp.,Invalid login type.,en-US
+Type de connexion invalide.,Invalid login type.,en-US
+Tipo de inicio de sesión inválido.,Invalid login type.,en-US
+Неверный тип входа.,Invalid login type.,en-US
+登录间隔过近,Login interval too short.,en-US
+登入間隔過近,Login interval too short.,en-US
+ログインの間隔が短すぎます,Login interval too short.,en-US
+로그인 시도가 너무 빈번합니다,Login interval too short.,en-US
+Login-Intervall zu kurz.,Login interval too short.,en-US
+Intervalle de connexion trop court.,Login interval too short.,en-US
+Intervalo entre inicios de sesión demasiado corto.,Login interval too short.,en-US
+Интервал между входами слишком короткий.,Login interval too short.,en-US
+目标UID错误,UID error.,en-US
+目標UID錯誤,UID error.,en-US
+ターゲットのUIDエラー,UID error.,en-US
+대상 UID 오류,UID error.,en-US
+目标场景失去联络信号，请稍后重试,Signal lost with target scene. Please try again later.,en-US
+目標場景失去聯絡訊號，請稍後重試,Signal lost with target scene. Please try again later.,en-US
+シーンサーバーとの接続が切れました。再度お試しください,Signal lost with target scene. Please try again later.,en-US
+목표 필드의 연결이 끊어졌습니다. 잠시 후 다시 시도해 주세요,Signal lost with target scene. Please try again later.,en-US
+Signal zu Zielszene verloren. Versuche es bitte später erneut.,Signal lost with target scene. Please try again later.,en-US
+Signal perdu avec la scène cible. Veuillez réessayer ultérieurement.,Signal lost with target scene. Please try again later.,en-US
+"Se perdió la señal con el escenario objetivo. Por favor, inténtelo más tarde.",Signal lost with target scene. Please try again later.,en-US
+Потерян сигнал. Повторите попытку позже.,Signal lost with target scene. Please try again later.,en-US
+Потерян сигнал целевой сцены. Повторите попытку позже.,Signal lost with target scene. Please try again later.,en-US
+目标服务器DB错误,Server database error.,en-US
+目標伺服器DB錯誤,Server database error.,en-US
+転送先DBエラー,Server database error.,en-US
+대상 서버 DB 오류,Server database error.,en-US
+Server-Datenbankfehler.,Server database error.,en-US
+Erreur de base de données du serveur.,Server database error.,en-US
+Error en la base de datos del servidor.,Server database error.,en-US
+Ошибка базы данных сервера.,Server database error.,en-US
+目标服务器无角色,No character found on this server.,en-US
+目標伺服器無角色,No character found on this server.,en-US
+移動先のサーバーにキャラが存在しません,No character found on this server.,en-US
+대상 서버에 캐릭터가 없습니다,No character found on this server.,en-US
+Kein Charakter auf diesem Server gefunden.,No character found on this server.,en-US
+Aucun personnage trouvé sur ce serveur.,No character found on this server.,en-US
+No se encontraron personajes en este servidor.,No character found on this server.,en-US
+Персонаж не найден на этом сервере.,No character found on this server.,en-US
+禁止登录,Login prohibited.,en-US
+禁止登入,Login prohibited.,en-US
+ログインが制限されています,Login prohibited.,en-US
+로그인 차단,Login prohibited.,en-US
+Anmeldung verhindert.,Login prohibited.,en-US
+Connexion interdite.,Login prohibited.,en-US
+Inicio de sesión prohibido.,Login prohibited.,en-US
+Вход запрещен.,Login prohibited.,en-US
+空账户,No account info found.,en-US
+空帳號,No account info found.,en-US
+アカウント未作成,No account info found.,en-US
+비어 있는 계정,No account info found.,en-US
+Keine Kontoinfo gefunden.,No account info found.,en-US
+Aucune information sur le compte trouvée.,No account info found.,en-US
+No se encontró información de la cuenta.,No account info found.,en-US
+Не найдены сведения об аккаунте.,No account info found.,en-US
+等待计费超时,Billing timed out.,en-US
+等待計費超時,Billing timed out.,en-US
+請求処理がタイムアウトしました,Billing timed out.,en-US
+결제 대기시간 초과,Billing timed out.,en-US
+Rechnung-Zeitüberschreitung.,Billing timed out.,en-US
+Délai de facturation expiré.,Billing timed out.,en-US
+Tiempo de espera de facturación agotado.,Billing timed out.,en-US
+Превышено время ожидания запроса на оплату.,Billing timed out.,en-US
+签名错误,Signature error.,en-US
+簽名錯誤,Signature error.,en-US
+サインエラー,Signature error.,en-US
+서명 오류,Signature error.,en-US
+Signaturfehler.,Signature error.,en-US
+Erreur de signature.,Signature error.,en-US
+Error de firmas.,Signature error.,en-US
+Ошибка подписи.,Signature error.,en-US
+统计服,Statistics Server,en-US
+統計服,Statistics Server,en-US
+集計サーバー,Statistics Server,en-US
+통계 서버,Statistics Server,en-US
+Statistik-Server,Statistics Server,en-US
+Serveur de statistiques,Statistics Server,en-US
+Servidor de estadísticas,Statistics Server,en-US
+Сервер статистики,Statistics Server,en-US
+统计服DB错误,Statistics Server database error.,en-US
+統計服DB錯誤,Statistics Server database error.,en-US
+集計サーバーのデータベースエラー,Statistics Server database error.,en-US
+통계 서버 DB 오류,Statistics Server database error.,en-US
+Statistik-Server-Datenbankfehler.,Statistics Server database error.,en-US
+Erreur de base de données du serveur de statistiques.,Statistics Server database error.,en-US
+Error en la base de datos del servidor de estadísticas.,Statistics Server database error.,en-US
+Ошибка базы данных сервера статистики.,Statistics Server database error.,en-US
+统计服未找到,Statistics Server not found.,en-US
+統計服未找到,Statistics Server not found.,en-US
+統計サーバーの取得に失敗しました,Statistics Server not found.,en-US
+통계 서버를 찾을 수 없음,Statistics Server not found.,en-US
+Statistik-Server nicht gefunden.,Statistics Server not found.,en-US
+Serveur de statistiques introuvable.,Statistics Server not found.,en-US
+Servidor de estadísticas no encontrado.,Statistics Server not found.,en-US
+Сервер статистики не найден.,Statistics Server not found.,en-US
+网络不稳定,Network unstable.,en-US
+網路不穩定,Network unstable.,en-US
+ネットワークが不安定です,Network unstable.,en-US
+네트워크 연결 불안정,Network unstable.,en-US
+Instabiles Netzwerk.,Network unstable.,en-US
+Réseau instable.,Network unstable.,en-US
+Red inestable.,Network unstable.,en-US
+Сеть нестабильна.,Network unstable.,en-US
+网络重连失败,Network reconnection failed.,en-US
+網路重連失敗,Network reconnection failed.,en-US
+再接続に失敗しました,Network reconnection failed.,en-US
+인터넷 재연결 실패,Network reconnection failed.,en-US
+Netzwerk-Wiederverbindung fehlgeschlagen.,Network reconnection failed.,en-US
+Échec de la reconnexion du réseau.,Network reconnection failed.,en-US
+No se pudo reconectar a la red.,Network reconnection failed.,en-US
+Ошибка повторного подключения к сети.,Network reconnection failed.,en-US
+网络错误,Network error.,en-US
+網路錯誤,Network error.,en-US
+ネットワークエラー,Network error.,en-US
+네트워크 오류,Network error.,en-US
+Netzwerkfehler.,Network error.,en-US
+Erreur de réseau.,Network error.,en-US
+Error de red.,Network error.,en-US
+Ошибка сети.,Network error.,en-US
+聊天,Chat,en-US
+チャット,Chat,en-US
+채팅,Chat,en-US
+Чат,Chat,en-US
+聊天HTTP参数错误,Chat HTTP parameter error.,en-US
+聊天HTTP參數錯誤,Chat HTTP parameter error.,en-US
+チャットWebエラー,Chat HTTP parameter error.,en-US
+채팅 HTTP 파라미터 오류,Chat HTTP parameter error.,en-US
+Fehler bei den Chat-HTTP-Parametern.,Chat HTTP parameter error.,en-US
+Erreur de paramètre HTTP de chat.,Chat HTTP parameter error.,en-US
+Error en los parámetros HTTP del chat.,Chat HTTP parameter error.,en-US
+Ошибка параметров HTTP чата.,Chat HTTP parameter error.,en-US
+聊天HTTP服务器错误,Chat HTTP server error.,en-US
+聊天HTTP伺服器錯誤,Chat HTTP server error.,en-US
+チャットWebサーバーエラー,Chat HTTP server error.,en-US
+채팅 HTTP 서버 오류,Chat HTTP server error.,en-US
+Fehler beim Chat-HTTP-Server.,Chat HTTP server error.,en-US
+Erreur de serveur HTTP de chat.,Chat HTTP server error.,en-US
+Error en el servidor HTTP del chat.,Chat HTTP server error.,en-US
+Ошибка сервера HTTP чата.,Chat HTTP server error.,en-US
+聊天HTTP签名错误,Chat HTTP signature error.,en-US
+聊天HTTP簽名錯誤,Chat HTTP signature error.,en-US
+チャットWebサインエラー,Chat HTTP signature error.,en-US
+채팅 HTTP 서명 오류,Chat HTTP signature error.,en-US
+Fehler bei der Chat-HTTP-Signatur.,Chat HTTP signature error.,en-US
+Erreur de signature HTTP de chat.,Chat HTTP signature error.,en-US
+Error de firmas HTTP del chat.,Chat HTTP signature error.,en-US
+Ошибка подписи HTTP чата.,Chat HTTP signature error.,en-US
+聊天HTTP进程错误,Chat HTTP processing error.,en-US
+聊天HTTP進度錯誤,Chat HTTP processing error.,en-US
+チャットWebロードエラー,Chat HTTP processing error.,en-US
+채팅 HTTP 프로세스 오류,Chat HTTP processing error.,en-US
+Fehler bei der Chat-HTTP-Verarbeitung.,Chat HTTP processing error.,en-US
+Erreur de traitement HTTP de chat.,Chat HTTP processing error.,en-US
+Error de procesamiento HTTP del chat.,Chat HTTP processing error.,en-US
+Ошибка обработки HTTP чата.,Chat HTTP processing error.,en-US
+聊天创建角色错误,Chat character creation failed.,en-US
+聊天創建角色錯誤,Chat character creation failed.,en-US
+チャットキャラ作成エラー,Chat character creation failed.,en-US
+채팅 캐릭터 생성 오류,Chat character creation failed.,en-US
+Chat-Charaktererstellung fehlgeschlagen.,Chat character creation failed.,en-US
+Échec de la création du personnage de chat.,Chat character creation failed.,en-US
+Falló la creación de personaje del chat.,Chat character creation failed.,en-US
+Не удалось создать персонаж чата.,Chat character creation failed.,en-US
+聊天参数错误,Chat parameter error.,en-US
+聊天參數錯誤,Chat parameter error.,en-US
+チャットのパラメータエラー,Chat parameter error.,en-US
+채팅 파라미터 오류,Chat parameter error.,en-US
+Chat-Parameter-Fehler.,Chat parameter error.,en-US
+Erreur de paramètre de chat.,Chat parameter error.,en-US
+Error en los parámetros de chat.,Chat parameter error.,en-US
+Ошибка параметров чата.,Chat parameter error.,en-US
+聊天在线检测错误,Chat online check failed.,en-US
+聊天在線檢測錯誤,Chat online check failed.,en-US
+チャットオンライン検証エラー,Chat online check failed.,en-US
+채팅 접속 확인 오류,Chat online check failed.,en-US
+Chat-Onlineüberprüfung fehlgeschlagen.,Chat online check failed.,en-US
+Échec de la vérification du chat en ligne.,Chat online check failed.,en-US
+Falló la verificación de la conexión del chat.,Chat online check failed.,en-US
+Проверка чата онлайн не удалась.,Chat online check failed.,en-US
+聊天房间冷却中,Chat room on cooldown.,en-US
+聊天房間冷卻中,Chat room on cooldown.,en-US
+チャットルームCD中,Chat room on cooldown.,en-US
+채팅방 이용 대기시간 적용 중,Chat room on cooldown.,en-US
+Chatraum in Abklingzeit.,Chat room on cooldown.,en-US
+Salon de discussion en recharge.,Chat room on cooldown.,en-US
+Sala de chat en enfriamiento.,Chat room on cooldown.,en-US
+Комната чата восстанавливается.,Chat room on cooldown.,en-US
+聊天房间创建错误,Error creating chat room.,en-US
+聊天房間創建錯誤,Error creating chat room.,en-US
+チャットルーム作成エラー,Error creating chat room.,en-US
+채팅방 생성 오류,Error creating chat room.,en-US
+Fehler beim Erstellen des Chatrooms.,Error creating chat room.,en-US
+Erreur lors de la création du salon de discussion.,Error creating chat room.,en-US
+Error al crear sala de chat.,Error creating chat room.,en-US
+Ошибка создания комнаты чата.,Error creating chat room.,en-US
+聊天房间已存在,Chat room already exists.,en-US
+聊天房間已存在,Chat room already exists.,en-US
+チャットルームが存在しています,Chat room already exists.,en-US
+이미 존재하는 채팅방입니다,Chat room already exists.,en-US
+Chatroom existiert bereits.,Chat room already exists.,en-US
+Salon de discussion existe déjà.,Chat room already exists.,en-US
+Ya existe la sala de chat.,Chat room already exists.,en-US
+Комната чата уже существует.,Chat room already exists.,en-US
+聊天房间进入错误,Error entering chat room.,en-US
+聊天房間進入錯誤,Error entering chat room.,en-US
+チャットルーム参加エラー,Error entering chat room.,en-US
+채팅방 입장 오류,Error entering chat room.,en-US
+Fehler beim Betreten des Chatrooms.,Error entering chat room.,en-US
+Erreur lors de l’accès au salon de discussion.,Error entering chat room.,en-US
+Error al entrar a sala de chat.,Error entering chat room.,en-US
+Ошибка входа в комнату чата.,Error entering chat room.,en-US
+聊天无次数,No chat attempts left.,en-US
+聊天無次數,No chat attempts left.,en-US
+発言回数が上限に達しました,No chat attempts left.,en-US
+채팅 가능 횟수 소진,No chat attempts left.,en-US
+Keine Chat-Versuche übrig.,No chat attempts left.,en-US
+Plus aucune tentative de chat restante.,No chat attempts left.,en-US
+No quedan intentos de ingreso al chat.,No chat attempts left.,en-US
+Не осталось попыток чата.,No chat attempts left.,en-US
+聊天玩家被禁止,Player is banned from chat.,en-US
+現在、発言を禁止されています,Player is banned from chat.,en-US
+채팅이 금지된 플레이어입니다,Player is banned from chat.,en-US
+Spieler ist vom Chat ausgeschlossen.,Player is banned from chat.,en-US
+Le joueur est banni du chat.,Player is banned from chat.,en-US
+Se le prohibió el ingreso al chat a este jugador.,Player is banned from chat.,en-US
+Игроку запрещен доступ в чат.,Player is banned from chat.,en-US
+自定义数据为空,No customized data detected.,en-US
+自定義資料為空,No customized data detected.,en-US
+カスタムデータがありません,No customized data detected.,en-US
+사용자 설정 데이터 없음,No customized data detected.,en-US
+Keine benutzerdefinierten Daten erkannt.,No customized data detected.,en-US
+Aucune donnée personnalisée détectée.,No customized data detected.,en-US
+No se detectaron datos personalizados.,No customized data detected.,en-US
+Настраиваемые данные не обнаружены.,No customized data detected.,en-US
+角色不存在,Character not found.,en-US
+キャラ不存在,Character not found.,en-US
+존재하지 않는 캐릭터입니다,Character not found.,en-US
+角色名含有非法字符,Inappropriate character name detected.,en-US
+角色名含有非法字元,Inappropriate character name detected.,en-US
+使用できない文字が含まれています,Inappropriate character name detected.,en-US
+캐릭터 이름에 유효하지 않은 문자가 포함되어 있습니다,Inappropriate character name detected.,en-US
+Unangemessener Charaktername erkannt.,Inappropriate character name detected.,en-US
+Nom de personnage inapproprié détecté.,Inappropriate character name detected.,en-US
+Se detectó un nombre de personaje inapropiado.,Inappropriate character name detected.,en-US
+Обнаружено недопустимое имя персонажа.,Inappropriate character name detected.,en-US
+角色名重复,Character name already taken.,en-US
+角色名重複,Character name already taken.,en-US
+キャラ名が重複しています,Character name already taken.,en-US
+캐릭터 이름 중복,Character name already taken.,en-US
+Charaktername bereits vergeben.,Character name already taken.,en-US
+Nom de personnage déjà pris.,Character name already taken.,en-US
+Nombre de personaje ocupado.,Character name already taken.,en-US
+Имя персонажа уже занято.,Character name already taken.,en-US
+角色封锁错误,Character action blocked.,en-US
+角色封鎖錯誤,Character action blocked.,en-US
+ブロックエラー,Character action blocked.,en-US
+캐릭터 차단 오류,Character action blocked.,en-US
+Charakteraktion blockiert.,Character action blocked.,en-US
+Action du personnage bloquée.,Character action blocked.,en-US
+Acción bloqueada.,Character action blocked.,en-US
+Действие персонажа заблокировано.,Character action blocked.,en-US
+角色已存在,This character already exists.,en-US
+キャラはすでに存在しています,This character already exists.,en-US
+이미 존재하는 캐릭터입니다,This character already exists.,en-US
+Dieser Charakter existiert bereits.,This character already exists.,en-US
+Ce personnage existe déjà.,This character already exists.,en-US
+Este personaje ya existe.,This character already exists.,en-US
+Этот персонаж уже существует.,This character already exists.,en-US
+角色所有权错误,Character ownership conflict.,en-US
+角色所有權錯誤,Character ownership conflict.,en-US
+キャラの所有情報が一致していません,Character ownership conflict.,en-US
+캐릭터 소유권 오류,Character ownership conflict.,en-US
+Charakterbesitz-Konflikt.,Character ownership conflict.,en-US
+Conflit de propriété du personnage.,Character ownership conflict.,en-US
+Problema con la apropiación del personaje.,Character ownership conflict.,en-US
+Конфликт владения персонажем.,Character ownership conflict.,en-US
+角色等级校验错误,Character level verification failed.,en-US
+角色等級校驗錯誤,Character level verification failed.,en-US
+キャラレベル検証エラー,Character level verification failed.,en-US
+캐릭터 레벨 확인 오류,Character level verification failed.,en-US
+Verifizierung von Charakter-Level fehlgeschlagen.,Character level verification failed.,en-US
+Échec de la vérification du niveau de personnage.,Character level verification failed.,en-US
+Falló la verificación del nivel del personaje.,Character level verification failed.,en-US
+Не удалось проверить уровень персонажа.,Character level verification failed.,en-US
+角色索引错误,Character index error.,en-US
+角色索引錯誤,Character index error.,en-US
+キャラ検索エラー,Character index error.,en-US
+캐릭터 목차 오류,Character index error.,en-US
+Fehler beim Charakter-Index.,Character index error.,en-US
+Erreur d’index de caractère.,Character index error.,en-US
+Error en el índice de personaje.,Character index error.,en-US
+Ошибка индекса персонажа.,Character index error.,en-US
+负荷错误,Error loading data.,en-US
+負荷錯誤,Error loading data.,en-US
+ロードエラー,Error loading data.,en-US
+과부하 오류,Error loading data.,en-US
+Fehler beim Laden von Daten.,Error loading data.,en-US
+Erreur lors du chargement de données.,Error loading data.,en-US
+Error en la carga de datos.,Error loading data.,en-US
+Ошибка загрузки данных.,Error loading data.,en-US
+账号已在其他设备登陆，此客户端被强制下线,Account logged in on another device. You've been forced offline.,en-US
+帳號已在其他設備登入，此設備被強制下線,Account logged in on another device. You've been forced offline.,en-US
+他の端末からログインされたため、強制的にログアウトしました。,Account logged in on another device. You've been forced offline.,en-US
+다른 기기에서 로그인되었습니다. 이 클라이언트는 강제로 로그아웃됩니다,Account logged in on another device. You've been forced offline.,en-US
+Konto auf einem anderen Gerät angemeldet. Du bis jetzt offline.,Account logged in on another device. You've been forced offline.,en-US
+Compte connecté sur un autre appareil. Vous avez été déconnecté.,Account logged in on another device. You've been forced offline.,en-US
+La cuenta ha iniciado sesión en otro dispositivo. Has sido desconectado de esta sesión.,Account logged in on another device. You've been forced offline.,en-US
+Ваш аккаунт вошел в игру на другом устройстве. Вы принудительно отключены.,Account logged in on another device. You've been forced offline.,en-US
+账号已存在,Account already registered.,en-US
+帳號已存在,Account already registered.,en-US
+このアカウントはすでに使用されています,Account already registered.,en-US
+이미 존재하는 계정입니다,Account already registered.,en-US
+Konto ist bereits registriert.,Account already registered.,en-US
+Compte déjà enregistré.,Account already registered.,en-US
+Esta cuenta ya está registrada.,Account already registered.,en-US
+Аккаунт уже зарегистрирован.,Account already registered.,en-US
+账号或密码为空,Account or password cannot be empty.,en-US
+帳號或密碼為空,Account or password cannot be empty.,en-US
+アカウントまたはパスワードが入力されていません,Account or password cannot be empty.,en-US
+계정 또는 비밀번호는 비워둘 수 없습니다,Account or password cannot be empty.,en-US
+Konto oder Passwort dürfen nicht leer sein.,Account or password cannot be empty.,en-US
+Le compte ou le mot de passe ne peuvent pas être vides.,Account or password cannot be empty.,en-US
+Nombre de cuenta o contraseña no pueden estar vacíos.,Account or password cannot be empty.,en-US
+Аккаунт или пароль не могут быть пустыми.,Account or password cannot be empty.,en-US
+账号数据繁忙，请稍候再试,Unable to access account data now. Please try again later.,en-US
+帳號資料繁忙，請稍候再試,Unable to access account data now. Please try again later.,en-US
+アカウントデータを処理中です。しばらく時間をおいて、再度お試しください。,Unable to access account data now. Please try again later.,en-US
+계정 데이터를 처리 중입니다. 잠시 후 다시 시도해 주세요,Unable to access account data now. Please try again later.,en-US
+Zugriff auf Kontodaten aktuell nicht möglich. Versuche es bitte später erneut.,Unable to access account data now. Please try again later.,en-US
+Données du compte inaccessibles pour le moment. Veuillez réessayer ultérieurement.,Unable to access account data now. Please try again later.,en-US
+"No se pudo acceder a los datos de la cuenta. Por favor, inténtelo más tarde.",Unable to access account data now. Please try again later.,en-US
+Не удается получить доступ к данным аккаунта. Повторите попытку позже.,Unable to access account data now. Please try again later.,en-US
+账户,Account,en-US
+帳號,Account,en-US
+アカウント,Account,en-US
+계정,Account,en-US
+Konto,Account,en-US
+Compte,Account,en-US
+Cuenta,Account,en-US
+Аккаунт,Account,en-US
+账户AppOrder重复,Duplicate AppOrder detected for this account.,en-US
+帳號AppOrder重複,Duplicate AppOrder detected for this account.,en-US
+AppOrder重複,Duplicate AppOrder detected for this account.,en-US
+계정 AppOrder 중복,Duplicate AppOrder detected for this account.,en-US
+Doppelte AppOrder für dieses Konto entdeckt.,Duplicate AppOrder detected for this account.,en-US
+AppOrder double détecté sur ce compte.,Duplicate AppOrder detected for this account.,en-US
+Se detectó una AppOrder duplicada para esta cuenta.,Duplicate AppOrder detected for this account.,en-US
+Обнаружен дубликат AppOrder для этого аккаунта.,Duplicate AppOrder detected for this account.,en-US
+账户AppOrder错误,Account AppOrder error.,en-US
+帳號AppOrder錯誤,Account AppOrder error.,en-US
+AppOrderエラー,Account AppOrder error.,en-US
+계정 AppOrder 오류,Account AppOrder error.,en-US
+Konto-AppOrder-Fehler.,Account AppOrder error.,en-US
+Erreur AppOrder du compte.,Account AppOrder error.,en-US
+Error en la AppOrder de la cuenta.,Account AppOrder error.,en-US
+Ошибка AppOrder для аккаунта.,Account AppOrder error.,en-US
+账户为空,Account info missing,en-US
+帳號為空,Account info missing,en-US
+アカウントが存在しません,Account info missing,en-US
+계정 정보가 없습니다,Account info missing,en-US
+Kontoinfo fehlt,Account info missing,en-US
+Informations sur le compte manquantes,Account info missing,en-US
+Información de la cuenta faltante,Account info missing,en-US
+Отсутствуют сведения об аккаунте,Account info missing,en-US
+账户发送到游戏服错误,Error sending data to Game Server.,en-US
+帳號發送到遊戲服錯誤,Error sending data to Game Server.,en-US
+アカウント送信エラー,Error sending data to Game Server.,en-US
+게임 서버로 계정 전송 오류,Error sending data to Game Server.,en-US
+Fehler beim Versenden von Daten an Spielserver.,Error sending data to Game Server.,en-US
+Erreur lors de l’envoi de données au serveur de jeu.,Error sending data to Game Server.,en-US
+Error al enviar los datos al servidor de juego.,Error sending data to Game Server.,en-US
+Ошибка отправки данных на игровой сервер.,Error sending data to Game Server.,en-US
+账户密码错误,Password error.,en-US
+帳號密碼錯誤,Password error.,en-US
+パスワードが違います,Password error.,en-US
+계정 비밀번호 오류,Password error.,en-US
+Passwortfehler.,Password error.,en-US
+Erreur de mot de passe.,Password error.,en-US
+Error de contraseña.,Password error.,en-US
+Ошибка пароля.,Password error.,en-US
+账户已存在,This account already exists.,en-US
+帳號已存在,This account already exists.,en-US
+アカウントはすでに存在します,This account already exists.,en-US
+이미 존재하는 계정입니다,This account already exists.,en-US
+Dieses Konto existiert bereits.,This account already exists.,en-US
+Ce compte existe déjà.,This account already exists.,en-US
+Esta cuenta ya existe.,This account already exists.,en-US
+Этот аккаунт уже существует.,This account already exists.,en-US
+账户登录类型错误,Invalid account login type,en-US
+帳號登入類型錯誤,Invalid account login type,en-US
+ログイン方法が一致していません,Invalid account login type,en-US
+계정 로그인 유형 오류,Invalid account login type,en-US
+Ungültiger Konto-Anmeldetyp,Invalid account login type,en-US
+Type de connexion au compte invalide,Invalid account login type,en-US
+Tipo de inicio de sesión inválido.,Invalid account login type,en-US
+Неверный тип входа в аккаунт,Invalid account login type,en-US
+账户非法字符,Account info contains invalid characters.,en-US
+帳號非法字元,Account info contains invalid characters.,en-US
+使用できない文字が含まれています,Account info contains invalid characters.,en-US
+계정에 유효하지 않은 문자가 포함되어 있습니다,Account info contains invalid characters.,en-US
+Kontoinfo enthält ungültige Zeichen.,Account info contains invalid characters.,en-US
+Les informations sur le compte contiennent des caractères invalides.,Account info contains invalid characters.,en-US
+Información de la cuenta contiene caracteres inválidos.,Account info contains invalid characters.,en-US
+Сведения об аккаунте содержат недопустимые символы.,Account info contains invalid characters.,en-US
+连接服务器失败,Unable to connect to the server.,en-US
+連接伺服器失敗,Unable to connect to the server.,en-US
+サーバーに接続できませんでした,Unable to connect to the server.,en-US
+서버 연결 실패,Unable to connect to the server.,en-US
+Verbindung zum Server fehlgeschlagen.,Unable to connect to the server.,en-US
+Impossible de se connecter au serveur.,Unable to connect to the server.,en-US
+No se puede conectar al servidor.,Unable to connect to the server.,en-US
+Не удается подключиться к серверу.,Unable to connect to the server.,en-US
+连接超时,Connection timed out.,en-US
+連接超時,Connection timed out.,en-US
+接続がタイムアウトしました,Connection timed out.,en-US
+연결 시간 초과,Connection timed out.,en-US
+Verbindungs-Zeitüberschreitung.,Connection timed out.,en-US
+Délai de connexion expiré.,Connection timed out.,en-US
+Tiempo de espera de conexión agotado.,Connection timed out.,en-US
+Превышено время ожидания запроса.,Connection timed out.,en-US
+重复取消支付,Duplicate payment cancellation detected.,en-US
+重複取消支付,Duplicate payment cancellation detected.,en-US
+この支払いは、すでにキャンセル処理済みです,Duplicate payment cancellation detected.,en-US
+결제 중복 취소,Duplicate payment cancellation detected.,en-US
+Doppelter Zahlungsabbruch erkannt.,Duplicate payment cancellation detected.,en-US
+Annulation d’un double paiement détectée.,Duplicate payment cancellation detected.,en-US
+Se detectó un pago duplicado.,Duplicate payment cancellation detected.,en-US
+Обнаружено дублирование отмены платежа.,Duplicate payment cancellation detected.,en-US
+重复登录,Duplicate login detected.,en-US
+重複登入,Duplicate login detected.,en-US
+重複ログイン,Duplicate login detected.,en-US
+중복 로그인,Duplicate login detected.,en-US
+Doppelte Anmeldung erkannt.,Duplicate login detected.,en-US
+Connexion simultanée détectée.,Duplicate login detected.,en-US
+Se ha detectado un inicio de sesión múltiple con la misma cuenta.,Duplicate login detected.,en-US
+Обнаружен дублирующийся вход.,Duplicate login detected.,en-US
+重复获得奖励,Reward already claimed.,en-US
+重複獲得獎勵,Reward already claimed.,en-US
+この報酬は、すでに受け取り済みです,Reward already claimed.,en-US
+보상 중복 수령,Reward already claimed.,en-US
+Belohnung bereits abgeholt.,Reward already claimed.,en-US
+Récompense déjà réclamée.,Reward already claimed.,en-US
+Ya recibiste la recompensa.,Reward already claimed.,en-US
+Награда уже получена.,Reward already claimed.,en-US
+非法字符串,Inappropriate strings detected.,en-US
+非法字串,Inappropriate strings detected.,en-US
+使用できない文字が含まれています,Inappropriate strings detected.,en-US
+유효하지 않은 문자열,Inappropriate strings detected.,en-US
+Unangemessene Zeichenfolge erkannt.,Inappropriate strings detected.,en-US
+Chaînes inappropriées détectées.,Inappropriate strings detected.,en-US
+Se detectaron cadenas inapropiadas.,Inappropriate strings detected.,en-US
+Обнаружены недопустимые строки.,Inappropriate strings detected.,en-US
+非法消息,Invalid message.,en-US
+不正なメッセージ,Invalid message.,en-US
+유효하지 않은 메시지,Invalid message.,en-US
+Ungültige Nachricht.,Invalid message.,en-US
+Message invalide.,Invalid message.,en-US
+Mensaje inválido.,Invalid message.,en-US
+Недопустимое сообщение.,Invalid message.,en-US
+非法的GM登录,Unauthorized GM login.,en-US
+非法的GM登入,Unauthorized GM login.,en-US
+GMアカウントのログイン情報が不正です,Unauthorized GM login.,en-US
+부적절한 GM 로그인,Unauthorized GM login.,en-US
+Nicht autorisierte GM-Anmeldung.,Unauthorized GM login.,en-US
+Connexion GM non autorisée.,Unauthorized GM login.,en-US
+Inicio de sesión de GM no autorizado.,Unauthorized GM login.,en-US
+Несанкционированный вход ГМ.,Unauthorized GM login.,en-US
+非法账号,Invalid account detected.,en-US
+非法帳號,Invalid account detected.,en-US
+不正なアカウント,Invalid account detected.,en-US
+유효하지 않은 계정,Invalid account detected.,en-US
+Ungültiges Konto erkannt.,Invalid account detected.,en-US
+Compte invalide détecté.,Invalid account detected.,en-US
+Cuenta inválida detectada.,Invalid account detected.,en-US
+Обнаружен недопустимый аккаунт.,Invalid account detected.,en-US
+中瓶大力奇迹药水,Medium Miracle Strength Potion,en-US
+中瓶大力奇蹟藥水,Medium Miracle Strength Potion,en-US
+ミラクル怪力ポーション M,Medium Miracle Strength Potion,en-US
+중형 파워 기적 물약,Medium Miracle Strength Potion,en-US
+Mittlerer Wunderkrafttrank,Medium Miracle Strength Potion,en-US
+Potion moyenne de force miraculeuse,Medium Miracle Strength Potion,en-US
+Poción mediana de fuerza milagrosa,Medium Miracle Strength Potion,en-US
+Среднее зелье чудодейственной силы,Medium Miracle Strength Potion,en-US
+中瓶护盾药水,Medium Shield Potion,en-US
+中瓶護盾藥水,Medium Shield Potion,en-US
+シールドポーション M,Medium Shield Potion,en-US
+중형 방어 물약,Medium Shield Potion,en-US
+Mittlerer Schildtrank,Medium Shield Potion,en-US
+Potion de protection moyenne,Medium Shield Potion,en-US
+Poción mediana de escudo,Medium Shield Potion,en-US
+Среднее зелье щита,Medium Shield Potion,en-US
+中瓶暴暴药水,Medium Boom-Boom-Bang Potion,en-US
+中瓶暴暴藥水,Medium Boom-Boom-Bang Potion,en-US
+ガンガンポーション M,Medium Boom-Boom-Bang Potion,en-US
+중형 폭주 물약,Medium Boom-Boom-Bang Potion,en-US
+Mittlerer Bum-Bum-Knall-Trank,Medium Boom-Boom-Bang Potion,en-US
+Potion Boum-Boum-Bam moyenne,Medium Boom-Boom-Bang Potion,en-US
+Poción mediana Bum Bum Pum,Medium Boom-Boom-Bang Potion,en-US
+Среднее зелье «Бум-бум-бах»,Medium Boom-Boom-Bang Potion,en-US
+中瓶生命之水,Medium Lifewater Potion,en-US
+生命の水 M,Medium Lifewater Potion,en-US
+중형 생명수,Medium Lifewater Potion,en-US
+Mittlerer Lebenswassertrank,Medium Lifewater Potion,en-US
+Potion moyenne d’eau vivifiante,Medium Lifewater Potion,en-US
+Poción mediana de agua vital,Medium Lifewater Potion,en-US
+Среднее зелье живой воды,Medium Lifewater Potion,en-US
+中瓶瘫倒药水,Medium Breaking Potion,en-US
+中瓶癱倒藥水,Medium Breaking Potion,en-US
+へにゃへにゃポーション M,Medium Breaking Potion,en-US
+중형 무기력 물약,Medium Breaking Potion,en-US
+Mittlerer Bruchtrank,Medium Breaking Potion,en-US
+Potion de rupture moyenne,Medium Breaking Potion,en-US
+Poción mediana de ruptura,Medium Breaking Potion,en-US
+Среднее зелье разрушения,Medium Breaking Potion,en-US
+中瓶硬邦邦药水,Medium Hardy Potion,en-US
+中瓶硬邦邦藥水,Medium Hardy Potion,en-US
+カチコチポーション M,Medium Hardy Potion,en-US
+중형 딴딴 물약,Medium Hardy Potion,en-US
+Mittlerer Zähigkeitstrank,Medium Hardy Potion,en-US
+Potion de robustesse moyenne,Medium Hardy Potion,en-US
+Poción mediana de tenacidad,Medium Hardy Potion,en-US
+Среднее зелье стойкости,Medium Hardy Potion,en-US
+冰纹蝶,Frostvein Butterfly,en-US
+冰紋蝶,Frostvein Butterfly,en-US
+氷紋の蝶,Frostvein Butterfly,en-US
+얼음무늬 나비,Frostvein Butterfly,en-US
+Frostader-Schmetterling,Frostvein Butterfly,en-US
+Papillon veiné de givre,Frostvein Butterfly,en-US
+Mariposa de venas escarchadas,Frostvein Butterfly,en-US
+Морозно-жильная бабочка,Frostvein Butterfly,en-US
+冻冻菇,Icy Mushroom,en-US
+凍凍菇,Icy Mushroom,en-US
+フローズンキノコ,Icy Mushroom,en-US
+꽁꽁 버섯,Icy Mushroom,en-US
+Eisiger Pilz,Icy Mushroom,en-US
+Champignon glacé,Icy Mushroom,en-US
+Hongo gélido,Icy Mushroom,en-US
+Ледяной гриб,Icy Mushroom,en-US
+垂泪木芽,Tearing Bud,en-US
+垂淚木芽,Tearing Bud,en-US
+落涙の木芽,Tearing Bud,en-US
+눈물 흘리는 새싹,Tearing Bud,en-US
+Tränenknospe,Tearing Bud,en-US
+Bourgeon en pleurs,Tearing Bud,en-US
+Capullo en llanto,Tearing Bud,en-US
+Плакучий бутон,Tearing Bud,en-US
+垂泪草,Tearing Plant,en-US
+垂淚草,Tearing Plant,en-US
+落涙の草,Tearing Plant,en-US
+눈물풀,Tearing Plant,en-US
+Tränenpflanze,Tearing Plant,en-US
+Plante larmoyante,Tearing Plant,en-US
+Planta llorona,Tearing Plant,en-US
+Плакучее растение,Tearing Plant,en-US
+大瓶大力奇迹药水,Large Miracle Strength Potion,en-US
+大瓶大力奇蹟藥水,Large Miracle Strength Potion,en-US
+ミラクル怪力ポーション L,Large Miracle Strength Potion,en-US
+대형 파워 기적 물약,Large Miracle Strength Potion,en-US
+Großer Wunderkrafttrank,Large Miracle Strength Potion,en-US
+Grande potion de force miraculeuse,Large Miracle Strength Potion,en-US
+Poción grande de fuerza milagrosa,Large Miracle Strength Potion,en-US
+Большое зелье чудодейственной силы,Large Miracle Strength Potion,en-US
+大瓶护盾药水,Large Shield Potion,en-US
+大瓶護盾藥水,Large Shield Potion,en-US
+シールドポーション L,Large Shield Potion,en-US
+대형 방어 물약,Large Shield Potion,en-US
+Großer Schildtrank,Large Shield Potion,en-US
+Grande potion de protection,Large Shield Potion,en-US
+Poción grande de escudo,Large Shield Potion,en-US
+Большое зелье щита,Large Shield Potion,en-US
+大瓶暴暴药水,Large Boom-Boom-Bang Potion,en-US
+大瓶暴暴藥水,Large Boom-Boom-Bang Potion,en-US
+ガンガンポーション L,Large Boom-Boom-Bang Potion,en-US
+대형 폭주 물약,Large Boom-Boom-Bang Potion,en-US
+Großer Bum-Bum-Knall-Trank,Large Boom-Boom-Bang Potion,en-US
+Grande potion Boum-Boum-Bang,Large Boom-Boom-Bang Potion,en-US
+Poción grande Bum Bum Pum,Large Boom-Boom-Bang Potion,en-US
+Большое зелье «Бум-бум-бах»,Large Boom-Boom-Bang Potion,en-US
+大瓶生命之水,Large Lifewater Potion,en-US
+生命の水 L,Large Lifewater Potion,en-US
+대형 생명수,Large Lifewater Potion,en-US
+Großer Lebenswassertrank,Large Lifewater Potion,en-US
+Grande potion d’eau vivifiante,Large Lifewater Potion,en-US
+Poción grande de agua vital,Large Lifewater Potion,en-US
+Большое зелье живой воды,Large Lifewater Potion,en-US
+大瓶瘫倒药水,Large Breaking Potion,en-US
+大瓶癱倒藥水,Large Breaking Potion,en-US
+へにゃへにゃポーション L,Large Breaking Potion,en-US
+대형 무기력 물약,Large Breaking Potion,en-US
+Großer Bruchtrank,Large Breaking Potion,en-US
+Grande potion de rupture,Large Breaking Potion,en-US
+Poción grande de ruptura,Large Breaking Potion,en-US
+Большое зелье разрушения,Large Breaking Potion,en-US
+大瓶硬邦邦药水,Large Hardy Potion,en-US
+大瓶硬邦邦藥水,Large Hardy Potion,en-US
+カチコチポーション L,Large Hardy Potion,en-US
+대형 딴딴 물약,Large Hardy Potion,en-US
+Großer Zähigkeitstrank,Large Hardy Potion,en-US
+Grande potion de robustesse,Large Hardy Potion,en-US
+Poción grande de tenacidad,Large Hardy Potion,en-US
+Большое зелье стойкости,Large Hardy Potion,en-US
+小瓶大力奇迹药水,Small Miracle Strength Potion,en-US
+小瓶大力奇蹟藥水,Small Miracle Strength Potion,en-US
+ミラクル怪力ポーション S,Small Miracle Strength Potion,en-US
+소형 파워 기적 물약,Small Miracle Strength Potion,en-US
+Kleiner Wunderkrafttrank,Small Miracle Strength Potion,en-US
+Petite potion de force miraculeuse,Small Miracle Strength Potion,en-US
+Poción pequeña de fuerza milagrosa,Small Miracle Strength Potion,en-US
+Малое зелье чудодейственной силы,Small Miracle Strength Potion,en-US
+小瓶护盾药水,Small Shield Potion,en-US
+小瓶護盾藥水,Small Shield Potion,en-US
+シールドポーション S,Small Shield Potion,en-US
+소형 방어 물약,Small Shield Potion,en-US
+Kleiner Schildtrank,Small Shield Potion,en-US
+Petite potion de protection,Small Shield Potion,en-US
+Poción pequeña de escudo,Small Shield Potion,en-US
+Малое зелье щита,Small Shield Potion,en-US
+小瓶暴暴药水,Small Boom-Boom-Bang Potion,en-US
+小瓶暴暴藥水,Small Boom-Boom-Bang Potion,en-US
+ガンガンポーション S,Small Boom-Boom-Bang Potion,en-US
+소형 폭주 물약,Small Boom-Boom-Bang Potion,en-US
+Kleiner Bum-Bum-Knall-Trank,Small Boom-Boom-Bang Potion,en-US
+Petite potion Boum-Boum-Bang,Small Boom-Boom-Bang Potion,en-US
+Poción pequeña Bum Bum Pum,Small Boom-Boom-Bang Potion,en-US
+Малое зелье «Бум-бум-бах»,Small Boom-Boom-Bang Potion,en-US
+小瓶生命之水,Small Lifewater Potion,en-US
+生命の水 S,Small Lifewater Potion,en-US
+소형 생명수,Small Lifewater Potion,en-US
+Kleiner Lebenswassertrank,Small Lifewater Potion,en-US
+Petite potion d’eau vivifiante,Small Lifewater Potion,en-US
+Poción pequeña de agua vital,Small Lifewater Potion,en-US
+Малое зелье живой воды,Small Lifewater Potion,en-US
+小瓶瘫倒药水,Small Breaking Potion,en-US
+小瓶癱倒藥水,Small Breaking Potion,en-US
+へにゃへにゃポーション S,Small Breaking Potion,en-US
+소형 무기력 물약,Small Breaking Potion,en-US
+Kleiner Bruchtrank,Small Breaking Potion,en-US
+Petite potion de rupture,Small Breaking Potion,en-US
+Poción pequeña de ruptura,Small Breaking Potion,en-US
+Малое зелье разрушения,Small Breaking Potion,en-US
+小瓶硬邦邦药水,Small Hardy Potion,en-US
+小瓶硬邦邦藥水,Small Hardy Potion,en-US
+カチコチポーション S,Small Hardy Potion,en-US
+소형 딴딴 물약,Small Hardy Potion,en-US
+Kleiner Zähigkeitstrank,Small Hardy Potion,en-US
+Petite potion de robustesse,Small Hardy Potion,en-US
+Poción pequeña de tenacidad,Small Hardy Potion,en-US
+Малое зелье стойкости,Small Hardy Potion,en-US
+幽影蝶,Umbral Butterfly,en-US
+幽影の蝶,Umbral Butterfly,en-US
+그림자 나비,Umbral Butterfly,en-US
+Schatten-Schmetterling,Umbral Butterfly,en-US
+Papillon obscur,Umbral Butterfly,en-US
+Mariposa sombría,Umbral Butterfly,en-US
+Сумеречная бабочка,Umbral Butterfly,en-US
+标准吨吨罐,Standard Heavy Can,en-US
+標準噸噸罐,Standard Heavy Can,en-US
+標準ごくごく缶,Standard Heavy Can,en-US
+표준 통통 용기,Standard Heavy Can,en-US
+Schwere Standard-Dose,Standard Heavy Can,en-US
+Boîte massive standard,Standard Heavy Can,en-US
+Lata pesada estándar,Standard Heavy Can,en-US
+Стандартная тяжёлая банка,Standard Heavy Can,en-US
+标准吨吨罐·噩梦,Regular Chug Jar - Nightmare,en-US
+標準噸噸罐·惡夢,Regular Chug Jar - Nightmare,en-US
+標準ごくごく缶・悪夢,Regular Chug Jar - Nightmare,en-US
+표준 통통 용기·악몽,Regular Chug Jar - Nightmare,en-US
+Normales Trink-Glas – Albtraum,Regular Chug Jar - Nightmare,en-US
+Bocal « cul sec » standard - Cauchemar,Regular Chug Jar - Nightmare,en-US
+Tarro gluglú común: Pesadilla,Regular Chug Jar - Nightmare,en-US
+Обычная питьевая банка: Кошмар,Regular Chug Jar - Nightmare,en-US
+标准吨吨罐·幻境,Sturdy Jar (Valor),en-US
+標準噸噸罐·幻境,Sturdy Jar (Valor),en-US
+幻境ベーシック缶,Sturdy Jar (Valor),en-US
+표준 통통 용기·환상,Sturdy Jar (Valor),en-US
+Robuster Krug (Tapferkeit),Sturdy Jar (Valor),en-US
+Bocal robuste (Vaillance),Sturdy Jar (Valor),en-US
+Recipiente resistente (Valor),Sturdy Jar (Valor),en-US
+Прочный кувшин (Доблесть),Sturdy Jar (Valor),en-US
+标准吨吨罐·挑战,Regular Chug Jar - Challenge,en-US
+標準噸噸罐·挑戰,Regular Chug Jar - Challenge,en-US
+標準ごくごく缶・挑戦,Regular Chug Jar - Challenge,en-US
+표준 통통 용기·챌린지,Regular Chug Jar - Challenge,en-US
+Normales Trink-Glas – Herausforderung,Regular Chug Jar - Challenge,en-US
+Bocal « cul sec » standard - Défi,Regular Chug Jar - Challenge,en-US
+Tarro gluglú común: Desafío,Regular Chug Jar - Challenge,en-US
+Обычная питьевая банка: Испытание,Regular Chug Jar - Challenge,en-US
+棋子「兵」,Chess Piece: Pawn,en-US
+チェスの駒「ポーン」,Chess Piece: Pawn,en-US
+기물 「폰」,Chess Piece: Pawn,en-US
+Schachfigur: Bauer,Chess Piece: Pawn,en-US
+Pièce d’échecs : pion,Chess Piece: Pawn,en-US
+Pieza de Ajedrez: Peón,Chess Piece: Pawn,en-US
+Шахматная фигура: Пешка,Chess Piece: Pawn,en-US
+棋子「后」,Chess Piece: Queen,en-US
+チェスの駒「クイーン」,Chess Piece: Queen,en-US
+기물 「퀸」,Chess Piece: Queen,en-US
+Schachfigur: Dame,Chess Piece: Queen,en-US
+Pièce d’échecs : dame,Chess Piece: Queen,en-US
+Pieza de ajedrez: Reina,Chess Piece: Queen,en-US
+Шахматная фигура: Ферзь,Chess Piece: Queen,en-US
+棋子「王」,Chess Piece: King,en-US
+チェスの駒「キング」,Chess Piece: King,en-US
+기물 「킹」,Chess Piece: King,en-US
+Schachfigur: König,Chess Piece: King,en-US
+Pièce d’échecs : roi,Chess Piece: King,en-US
+Pieza de ajedrez: Rey,Chess Piece: King,en-US
+Шахматная фигура: Король,Chess Piece: King,en-US
+棋子「象」,Chess Piece: Bishop,en-US
+チェスの駒「ビショップ」,Chess Piece: Bishop,en-US
+기물 「비숍」,Chess Piece: Bishop,en-US
+Schachfigur: Läufer,Chess Piece: Bishop,en-US
+Pièce d’échecs : fou,Chess Piece: Bishop,en-US
+Pieza de ajedrez: alfil,Chess Piece: Bishop,en-US
+Шахматная фигура: Слон,Chess Piece: Bishop,en-US
+棋子「车」,Chess Piece: Rook,en-US
+棋子「車」,Chess Piece: Rook,en-US
+チェスの駒「ルーク」,Chess Piece: Rook,en-US
+기물 「룩」,Chess Piece: Rook,en-US
+Schachfigur: Turm,Chess Piece: Rook,en-US
+Pièce d’échecs : tour,Chess Piece: Rook,en-US
+Pieza de ajedrez: torre,Chess Piece: Rook,en-US
+Шахматная фигура: Ладья,Chess Piece: Rook,en-US
+棋子「马」,Chess Piece: Knight,en-US
+棋子「馬」,Chess Piece: Knight,en-US
+チェスの駒「ナイト」,Chess Piece: Knight,en-US
+기물 「나이트」,Chess Piece: Knight,en-US
+Schachfigur: Springer,Chess Piece: Knight,en-US
+Pièce d’échecs : cavalier,Chess Piece: Knight,en-US
+Pieza de ajedrez: Caballo,Chess Piece: Knight,en-US
+Шахматная фигура: Конь,Chess Piece: Knight,en-US
+棒冰晶簇,Icy Geode,en-US
+フィリング氷晶,Icy Geode,en-US
+아이스바 결정체,Icy Geode,en-US
+Eisige Geode,Icy Geode,en-US
+Géode glacée,Icy Geode,en-US
+Geoda gélida,Icy Geode,en-US
+Ледяная жеода,Icy Geode,en-US
+沃伦金币x500,Warren Gold Coin ×500,en-US
+沃倫金幣x500,Warren Gold Coin ×500,en-US
+ウォーレン金貨×500,Warren Gold Coin ×500,en-US
+워런 금화×500,Warren Gold Coin ×500,en-US
+Warren-Goldmünze ×500,Warren Gold Coin ×500,en-US
+Pièce d’or Warren ×500,Warren Gold Coin ×500,en-US
+Moneda de oro Warren × 500,Warren Gold Coin ×500,en-US
+Золотая монета Уоррена ×500,Warren Gold Coin ×500,en-US
+沃伦金币x5000,"Warren Gold Coin ×5,000",en-US
+沃倫金幣x5000,"Warren Gold Coin ×5,000",en-US
+ウォーレン金貨×5000,"Warren Gold Coin ×5,000",en-US
+"워런 금화×5,000","Warren Gold Coin ×5,000",en-US
+Warren-Goldmünze ×5000,"Warren Gold Coin ×5,000",en-US
+Pièces d’or Warren ×5000,"Warren Gold Coin ×5,000",en-US
+Moneda de oro Warren × 5000,"Warren Gold Coin ×5,000",en-US
+Золотая монета Уоррена ×5000,"Warren Gold Coin ×5,000",en-US
+流心晶簇,Lava Geode,en-US
+フォンダン岩,Lava Geode,en-US
+퐁당 결정체,Lava Geode,en-US
+Lava-Geode,Lava Geode,en-US
+Géode de lave,Lava Geode,en-US
+Geoda de lava,Lava Geode,en-US
+Лавовая жеода,Lava Geode,en-US
+满月骑士花,Flower of the Full Moon Knight,en-US
+滿月騎士花,Flower of the Full Moon Knight,en-US
+満月騎士の花,Flower of the Full Moon Knight,en-US
+만월기사꽃,Flower of the Full Moon Knight,en-US
+Blume des Vollmondritters,Flower of the Full Moon Knight,en-US
+Fleur du Chevalier de la pleine lune,Flower of the Full Moon Knight,en-US
+Flor del Caballero de la Luna Llena,Flower of the Full Moon Knight,en-US
+Цветок Рыцаря полной Луны,Flower of the Full Moon Knight,en-US
+漏风呆呆罐,Leaky Dopey Can,en-US
+漏風呆呆罐,Leaky Dopey Can,en-US
+すきま風のぼんやり缶,Leaky Dopey Can,en-US
+구멍 송송 용기,Leaky Dopey Can,en-US
+Undichtes Dusel-Glas,Leaky Dopey Can,en-US
+Boîte miteuse percée,Leaky Dopey Can,en-US
+Lata torpe con fugas,Leaky Dopey Can,en-US
+Дырявая чудаковатая банка,Leaky Dopey Can,en-US
+漏风呆呆罐·噩梦,Leaky Daze Jar - Nightmare,en-US
+漏風呆呆罐·惡夢,Leaky Daze Jar - Nightmare,en-US
+すきま風のぼんやり缶・悪夢,Leaky Daze Jar - Nightmare,en-US
+구멍 송송 용기·악몽,Leaky Daze Jar - Nightmare,en-US
+Undichtes Dusel-Glas – Albtraum,Leaky Daze Jar - Nightmare,en-US
+Bocal ahuri percé - Cauchemar,Leaky Daze Jar - Nightmare,en-US
+Tarro aturdido con fugas: Pesadilla,Leaky Daze Jar - Nightmare,en-US
+Протекающая банка ступора: Кошмар,Leaky Daze Jar - Nightmare,en-US
+漏风呆呆罐·幻境,Wonky Jar (Valor),en-US
+漏風呆呆罐·幻境,Wonky Jar (Valor),en-US
+幻境ジャンク,Wonky Jar (Valor),en-US
+구멍 송송 용기·환상,Wonky Jar (Valor),en-US
+Schiefer Krug (Tapferkeit),Wonky Jar (Valor),en-US
+Bocal bancal (Vaillance),Wonky Jar (Valor),en-US
+Recipiente irregular (Valor),Wonky Jar (Valor),en-US
+Кривой кувшин (Доблесть),Wonky Jar (Valor),en-US
+漏风呆呆罐·挑战,Leaky Daze Jar - Challenge,en-US
+漏風呆呆罐·挑戰,Leaky Daze Jar - Challenge,en-US
+すきま風のぼんやり缶・挑戦,Leaky Daze Jar - Challenge,en-US
+구멍 송송 용기·챌린지,Leaky Daze Jar - Challenge,en-US
+Undichtes Dusel-Glas – Herausforderung,Leaky Daze Jar - Challenge,en-US
+Bocal ahuri percé - Défi,Leaky Daze Jar - Challenge,en-US
+Tarro aturdido con fugas: Desafío,Leaky Daze Jar - Challenge,en-US
+Протекающая банка ступора: Испытание,Leaky Daze Jar - Challenge,en-US
+灰扑扑的齿轮,Dusty Gear,en-US
+灰撲撲的齒輪,Dusty Gear,en-US
+埃まみれの歯車,Dusty Gear,en-US
+먼지투성이 톱니바퀴,Dusty Gear,en-US
+Staubiges Zahnrad,Dusty Gear,en-US
+Engrenage poussiéreux,Dusty Gear,en-US
+Engranaje polvoriento,Dusty Gear,en-US
+Пыльная шестерня,Dusty Gear,en-US
+灰烬叶,Ash Leaf,en-US
+灰燼葉,Ash Leaf,en-US
+灰燼の葉,Ash Leaf,en-US
+재의 잎,Ash Leaf,en-US
+Aschenblatt,Ash Leaf,en-US
+Feuille cendrée,Ash Leaf,en-US
+Hoja cenicienta,Ash Leaf,en-US
+Пепельный лист,Ash Leaf,en-US
+灼焰蝶,Blazerfly,en-US
+灼炎の蝶,Blazerfly,en-US
+불꽃 나비,Blazerfly,en-US
+Flammenfliege,Blazerfly,en-US
+Papillon flamboyant,Blazerfly,en-US
+Mosca ígnea,Blazerfly,en-US
+Огнебабочка,Blazerfly,en-US
+稀有的菇,Rare Mushroom,en-US
+希少なキノコ,Rare Mushroom,en-US
+희귀한 버섯,Rare Mushroom,en-US
+Seltener Pilz,Rare Mushroom,en-US
+Champignon rare,Rare Mushroom,en-US
+Hongo raro,Rare Mushroom,en-US
+Редкий гриб,Rare Mushroom,en-US
+翠闪蝶,Emerald Butterfly,en-US
+翠閃蝶,Emerald Butterfly,en-US
+翠閃の蝶,Emerald Butterfly,en-US
+에메랄드 나비,Emerald Butterfly,en-US
+Smaragdschmetterling,Emerald Butterfly,en-US
+Papillon d’émeraude,Emerald Butterfly,en-US
+Mariposa esmeralda,Emerald Butterfly,en-US
+Изумрудная бабочка,Emerald Butterfly,en-US
+能量补给特调,Special Energy Booster,en-US
+能量補給特調,Special Energy Booster,en-US
+特製エナジードリンク,Special Energy Booster,en-US
+에너지 보충 드링크,Special Energy Booster,en-US
+Sonder-Energie-Schub,Special Energy Booster,en-US
+Boisson énergétique spéciale,Special Energy Booster,en-US
+Potenciador especial de energía,Special Energy Booster,en-US
+Особый усилитель энергии,Special Energy Booster,en-US
+至尊闪闪罐,Supreme Sparkly Can,en-US
+至尊閃閃罐,Supreme Sparkly Can,en-US
+至高のキラキラ缶,Supreme Sparkly Can,en-US
+초특급 반짝 용기,Supreme Sparkly Can,en-US
+Ultimative Glitzerdose,Supreme Sparkly Can,en-US
+Boîte scintillante suprême,Supreme Sparkly Can,en-US
+Lata reluciente suprema,Supreme Sparkly Can,en-US
+Превосходная блестящая банка,Supreme Sparkly Can,en-US
+至尊闪闪罐·噩梦,Ultra Sparkle Jar - Nightmare,en-US
+至尊閃閃罐·惡夢,Ultra Sparkle Jar - Nightmare,en-US
+至高のキラキラ缶・悪夢,Ultra Sparkle Jar - Nightmare,en-US
+초특급 반짝 용기·악몽,Ultra Sparkle Jar - Nightmare,en-US
+Ultra-Glitzer-Glas – Albtraum,Ultra Sparkle Jar - Nightmare,en-US
+Bocal ultra scintillant - Cauchemar,Ultra Sparkle Jar - Nightmare,en-US
+Tarro ultrabrillante: Pesadilla,Ultra Sparkle Jar - Nightmare,en-US
+Сверхблестящая банка: Кошмар,Ultra Sparkle Jar - Nightmare,en-US
+至尊闪闪罐·幻境,Gleaming Jar (Valor),en-US
+至尊閃閃罐·幻境,Gleaming Jar (Valor),en-US
+幻境プラチナ缶,Gleaming Jar (Valor),en-US
+초특급 반짝 용기·환상,Gleaming Jar (Valor),en-US
+Glänzender Krug (Tapferkeit),Gleaming Jar (Valor),en-US
+Bocal scintillant (Vaillance),Gleaming Jar (Valor),en-US
+Recipiente reluciente (Valor),Gleaming Jar (Valor),en-US
+Сияющий кувшин (Доблесть),Gleaming Jar (Valor),en-US
+至尊闪闪罐·挑战,Ultra Sparkle Jar - Challenge,en-US
+至尊閃閃罐·挑戰,Ultra Sparkle Jar - Challenge,en-US
+至高のキラキラ缶・挑戦,Ultra Sparkle Jar - Challenge,en-US
+초특급 반짝 용기·챌린지,Ultra Sparkle Jar - Challenge,en-US
+Ultra-Glitzer-Glas – Herausforderung,Ultra Sparkle Jar - Challenge,en-US
+Bocal ultra scintillant - Défi,Ultra Sparkle Jar - Challenge,en-US
+Tarro ultrabrillante: Desafío,Ultra Sparkle Jar - Challenge,en-US
+Сверхблестящая банка: Испытание,Ultra Sparkle Jar - Challenge,en-US
+菇,Mushroom,en-US
+キノコ,Mushroom,en-US
+버섯,Mushroom,en-US
+Pilz,Mushroom,en-US
+Champignon,Mushroom,en-US
+Hongo,Mushroom,en-US
+Гриб,Mushroom,en-US
+落月骑士花,Flower of the Falling Moon Knight,en-US
+落月騎士花,Flower of the Falling Moon Knight,en-US
+落月騎士の花,Flower of the Falling Moon Knight,en-US
+낙월기사꽃,Flower of the Falling Moon Knight,en-US
+Blume des Mondfall-Ritters,Flower of the Falling Moon Knight,en-US
+Fleur du Chevalier de la lune déchue,Flower of the Falling Moon Knight,en-US
+Flor del Caballero de la Luna Caída,Flower of the Falling Moon Knight,en-US
+Цветок Рыцаря падающей Луны,Flower of the Falling Moon Knight,en-US
+蓬蓬棉线团,Pom-Pom Yarn Ball,en-US
+蓬蓬棉線團,Pom-Pom Yarn Ball,en-US
+モフモフの毛糸玉,Pom-Pom Yarn Ball,en-US
+폭신폭신 실타래,Pom-Pom Yarn Ball,en-US
+Pompon-Wollknäuel,Pom-Pom Yarn Ball,en-US
+Pelote à pompons,Pom-Pom Yarn Ball,en-US
+Bola de lana con pompón,Pom-Pom Yarn Ball,en-US
+Клубок пряжи с помпоном,Pom-Pom Yarn Ball,en-US
+赶绵杖,Fuzzy-Rolling Pin,en-US
+趕綿杖,Fuzzy-Rolling Pin,en-US
+メェ追い棒,Fuzzy-Rolling Pin,en-US
+솜몰이 막대기,Fuzzy-Rolling Pin,en-US
+Flauschi-Nudelholz,Fuzzy-Rolling Pin,en-US
+Rouleau à Moumouton,Fuzzy-Rolling Pin,en-US
+Rodillo para Peludo,Fuzzy-Rolling Pin,en-US
+Скалка для кудряшей,Fuzzy-Rolling Pin,en-US
+辣菇,Spicy Fungi,en-US
+激辛キノコ,Spicy Fungi,en-US
+매운 버섯,Spicy Fungi,en-US
+Scharfe Pilze,Spicy Fungi,en-US
+Champignons épicés,Spicy Fungi,en-US
+Hongos picantes,Spicy Fungi,en-US
+Острые грибы,Spicy Fungi,en-US
+迷雾果实,Misty Fruit,en-US
+迷霧果實,Misty Fruit,en-US
+霧の果実,Misty Fruit,en-US
+안개 열매,Misty Fruit,en-US
+Misty-Obst,Misty Fruit,en-US
+Fruit brumeux,Misty Fruit,en-US
+Fruta de niebla,Misty Fruit,en-US
+Туманный плод,Misty Fruit,en-US
+骑士花,Flower of the Knight,en-US
+騎士花,Flower of the Knight,en-US
+騎士の花,Flower of the Knight,en-US
+기사꽃,Flower of the Knight,en-US
+Blume des Ritters,Flower of the Knight,en-US
+Fleur du chevalier,Flower of the Knight,en-US
+Flor del caballero,Flower of the Knight,en-US
+Цветок Рыцаря,Flower of the Knight,en-US
+共燃之梦,Shared Emberdream,en-US
+共燃之夢,Shared Emberdream,en-US
+共燃の夢,Shared Emberdream,en-US
+공명하는 불길의 꿈,Shared Emberdream,en-US
+Geteilter Gluttraum,Shared Emberdream,en-US
+Songe de braises partagées,Shared Emberdream,en-US
+Sueño de ascuas compartidas,Shared Emberdream,en-US
+Общий тлеющий сон,Shared Emberdream,en-US
+千风之章,Thousand-Wind Verse,en-US
+千風之章,Thousand-Wind Verse,en-US
+千風の章,Thousand-Wind Verse,en-US
+천 갈래의 바람,Thousand-Wind Verse,en-US
+Vers der Tausend Winde,Thousand-Wind Verse,en-US
+Strophe des mille vents,Thousand-Wind Verse,en-US
+Verso milvientos,Thousand-Wind Verse,en-US
+Стих тысячи ветров,Thousand-Wind Verse,en-US
+华光如焰,Blazing Splendor,en-US
+華光如焰,Blazing Splendor,en-US
+華光の如焔,Blazing Splendor,en-US
+눈부신 불꽃,Blazing Splendor,en-US
+Lodernde Pracht,Blazing Splendor,en-US
+Splendeur ardente,Blazing Splendor,en-US
+Esplendor ardiente,Blazing Splendor,en-US
+Пылающее великолепие,Blazing Splendor,en-US
+原野猎者,Fieldstalker,en-US
+原野獵者,Fieldstalker,en-US
+原野の狩人,Fieldstalker,en-US
+광야의 사냥꾼,Fieldstalker,en-US
+Feldpirscher,Fieldstalker,en-US
+Traqueur des plaines,Fieldstalker,en-US
+Acechallanuras,Fieldstalker,en-US
+Полевой следопыт,Fieldstalker,en-US
+向日乘风,Sunward Windrider,en-US
+向日乘風,Sunward Windrider,en-US
+追日の風,Sunward Windrider,en-US
+태양을 향한 비상,Sunward Windrider,en-US
+Sunward-Windreiter,Sunward Windrider,en-US
+Chevaucheur de vent de Solaire,Sunward Windrider,en-US
+Jinete del viento Solardiente,Sunward Windrider,en-US
+Солнцекрылый всадник ветра,Sunward Windrider,en-US
+夜猎时分,Night Hunt,en-US
+夜獵時分,Night Hunt,en-US
+夜猟の時,Night Hunt,en-US
+밤사냥 시간,Night Hunt,en-US
+Nachtjagd,Night Hunt,en-US
+Chasse nocturne,Night Hunt,en-US
+Caza Nocturna,Night Hunt,en-US
+Ночная охота,Night Hunt,en-US
+拂晓之剑,Sword of Dawn,en-US
+拂曉之劍,Sword of Dawn,en-US
+黎明の剣,Sword of Dawn,en-US
+새벽녘의 검,Sword of Dawn,en-US
+Dämmerungsschwert,Sword of Dawn,en-US
+Épée de l’aube,Sword of Dawn,en-US
+Espada del alba,Sword of Dawn,en-US
+Меч рассвета,Sword of Dawn,en-US
+拂晓之歌,Song of Dawn,en-US
+拂曉之歌,Song of Dawn,en-US
+黎明の歌,Song of Dawn,en-US
+새벽녘의 노래,Song of Dawn,en-US
+Dämmerungslied,Song of Dawn,en-US
+Chanson de l'aube,Song of Dawn,en-US
+Canto del alba,Song of Dawn,en-US
+Песнь рассвета,Song of Dawn,en-US
+拂晓之炎,Flame of Dawn,en-US
+拂曉之炎,Flame of Dawn,en-US
+黎明の炎,Flame of Dawn,en-US
+새벽녘의 태양,Flame of Dawn,en-US
+Dämmerungsflamme,Flame of Dawn,en-US
+Flamme de l’aube,Flame of Dawn,en-US
+Llama del alba,Flame of Dawn,en-US
+Пламя рассвета,Flame of Dawn,en-US
+拨云即明,Cloudbreak Dawn,en-US
+撥雲即明,Cloudbreak Dawn,en-US
+雲間の光,Cloudbreak Dawn,en-US
+구름이 걷힌 창공,Cloudbreak Dawn,en-US
+Wolkenbrecher-Dämmerung,Cloudbreak Dawn,en-US
+Brise-nuages de l’aube,Cloudbreak Dawn,en-US
+Rompenubes del alba,Cloudbreak Dawn,en-US
+"Заря, разгоняющая тучи",Cloudbreak Dawn,en-US
+星潮旅歌,Starborne Tide,en-US
+星潮の旅歌,Starborne Tide,en-US
+물결치는 별의 노래,Starborne Tide,en-US
+Sterngeborene Flut,Starborne Tide,en-US
+Marée stellaire,Starborne Tide,en-US
+Marea estelar,Starborne Tide,en-US
+Звёздный прилив,Starborne Tide,en-US
+昭辉入梦,Dreams Aglow,en-US
+昭輝入夢,Dreams Aglow,en-US
+輝光の夢見,Dreams Aglow,en-US
+꿈에 깃든 찬란한 빛,Dreams Aglow,en-US
+Leuchtende Träume,Dreams Aglow,en-US
+Rêves incandescents,Dreams Aglow,en-US
+Sueños resplandecientes,Dreams Aglow,en-US
+Сияющие грёзы,Dreams Aglow,en-US
+昼夜星河,Endless Starlight,en-US
+晝夜星河,Endless Starlight,en-US
+昼夜の星河,Endless Starlight,en-US
+낮과 밤의 은하수,Endless Starlight,en-US
+Endloses Sternenlicht,Endless Starlight,en-US
+Lueur stellaire sans fin,Endless Starlight,en-US
+Luz estelar eterna,Endless Starlight,en-US
+Бесконечный звёздный свет,Endless Starlight,en-US
+晓风初晴,Daybreak Breeze,en-US
+曉風初晴,Daybreak Breeze,en-US
+暁風の初晴,Daybreak Breeze,en-US
+새벽바람과 맑은 하늘,Daybreak Breeze,en-US
+Morgenbrise,Daybreak Breeze,en-US
+Brise de l’aube,Daybreak Breeze,en-US
+Brisa del alba,Daybreak Breeze,en-US
+Предрассветный бриз,Daybreak Breeze,en-US
+晦暗之梦,Dusken Reverie,en-US
+晦暗之夢,Dusken Reverie,en-US
+晦冥の夢,Dusken Reverie,en-US
+어스름의 꿈,Dusken Reverie,en-US
+Träumerei im Zwielicht,Dusken Reverie,en-US
+Rêverie du crépuscule,Dusken Reverie,en-US
+Ensueño crepuscular,Dusken Reverie,en-US
+Сумеречные грёзы,Dusken Reverie,en-US
+晨星启明,Dawnstar Rising,en-US
+晨星啟明,Dawnstar Rising,en-US
+晨星の明光,Dawnstar Rising,en-US
+샛별의 계시,Dawnstar Rising,en-US
+Aufgehender Morgenstern,Dawnstar Rising,en-US
+Étoile montante de l’aube,Dawnstar Rising,en-US
+Ascenso de la estrella del alba,Dawnstar Rising,en-US
+Восхождение рассветной звезды,Dawnstar Rising,en-US
+晨钟牧歌,Dawnbell Hymn,en-US
+晨鐘牧歌,Dawnbell Hymn,en-US
+暁鐘の牧歌,Dawnbell Hymn,en-US
+새벽 종의 목가,Dawnbell Hymn,en-US
+Hymnus der Dämmerungsglocke,Dawnbell Hymn,en-US
+Hymne de la cloche de l’aube,Dawnbell Hymn,en-US
+Himno de la campana del alba,Dawnbell Hymn,en-US
+Гимн рассветного колокола,Dawnbell Hymn,en-US
+永夜余烬,Nightfall Embers,en-US
+永夜餘燼,Nightfall Embers,en-US
+永夜の余燼,Nightfall Embers,en-US
+영원한 밤의 잔불,Nightfall Embers,en-US
+Dämmerglut,Nightfall Embers,en-US
+Braises du crépuscule,Nightfall Embers,en-US
+Brasas del anochecer,Nightfall Embers,en-US
+Угли наступающей ночи,Nightfall Embers,en-US
+流火如坠,Falling Firestream,en-US
+流火如墜,Falling Firestream,en-US
+メテオ・ストライク,Falling Firestream,en-US
+불꽃의 추락,Falling Firestream,en-US
+Herabstürzender Feuerstrom,Falling Firestream,en-US
+Chute de flammes,Falling Firestream,en-US
+Caída de flamas,Falling Firestream,en-US
+Огненный водопад,Falling Firestream,en-US
+漫游星曲,Wandering Star Ballad,en-US
+漫遊星曲,Wandering Star Ballad,en-US
+星々の曲,Wandering Star Ballad,en-US
+유랑하는 별의 노래,Wandering Star Ballad,en-US
+Ballade vom wandernden Stern,Wandering Star Ballad,en-US
+Ballade de l’étoile vagabonde,Wandering Star Ballad,en-US
+Balada de la estrella errante,Wandering Star Ballad,en-US
+Баллада о странствующей звезде,Wandering Star Ballad,en-US
+炽光追击,Blazing Pursuit,en-US
+熾光追擊,Blazing Pursuit,en-US
+灼光の追撃,Blazing Pursuit,en-US
+타오르는 섬광의 추격,Blazing Pursuit,en-US
+Lodernde Jagd,Blazing Pursuit,en-US
+Poursuite ardente,Blazing Pursuit,en-US
+Persecución ardiente,Blazing Pursuit,en-US
+Пылающая погоня,Blazing Pursuit,en-US
+焰落生辉,Embers Aglow,en-US
+焰落生輝,Embers Aglow,en-US
+焔落の生輝,Embers Aglow,en-US
+내려앉은 불꽃,Embers Aglow,en-US
+Glimmende Glut,Embers Aglow,en-US
+Braises incandescentes,Embers Aglow,en-US
+Brasas resplandecientes,Embers Aglow,en-US
+Сияющие угольки,Embers Aglow,en-US
+牧羊组曲,Shepherd's Suite,en-US
+牧羊組曲,Shepherd's Suite,en-US
+양치기 모음곡,Shepherd's Suite,en-US
+Hirtenlied,Shepherd's Suite,en-US
+Suite du berger,Shepherd's Suite,en-US
+Conjunto del pastor,Shepherd's Suite,en-US
+Пастушья сюита,Shepherd's Suite,en-US
+田园牧歌,Pastoral Grace,en-US
+田園牧歌,Pastoral Grace,en-US
+전원의 목가,Pastoral Grace,en-US
+Anmut des Hirtenlieds,Pastoral Grace,en-US
+Charme champêtre,Pastoral Grace,en-US
+Gracia pastoral,Pastoral Grace,en-US
+Пасторальная грация,Pastoral Grace,en-US
+白焰长歌,Whiteflame Ballad,en-US
+白焰長歌,Whiteflame Ballad,en-US
+白焔の調べ,Whiteflame Ballad,en-US
+흰 불꽃의 노래,Whiteflame Ballad,en-US
+Ballade der Weißflamme,Whiteflame Ballad,en-US
+Ballade de la flamme blanche,Whiteflame Ballad,en-US
+Balada de flamablanca,Whiteflame Ballad,en-US
+Баллада белого пламени,Whiteflame Ballad,en-US
+自由旅人,Freefarer,en-US
+自由な旅人,Freefarer,en-US
+자유로운 여행자,Freefarer,en-US
+Freiwanderer,Freefarer,en-US
+Erre-au-vent,Freefarer,en-US
+Viajero libre,Freefarer,en-US
+Вольный скиталец,Freefarer,en-US
+良夜长存,Blessed Nightfall,en-US
+良夜長存,Blessed Nightfall,en-US
+終わらぬ夜,Blessed Nightfall,en-US
+영원히 평온한 밤,Blessed Nightfall,en-US
+Segnung des Nachtfalls,Blessed Nightfall,en-US
+Bénédiction du crépuscule,Blessed Nightfall,en-US
+Bendición del anochecer,Blessed Nightfall,en-US
+Одарение сумерек,Blessed Nightfall,en-US
+花间拾愿,Wishes Bloom,en-US
+花間拾願,Wishes Bloom,en-US
+花間の拾願,Wishes Bloom,en-US
+꽃밭에서 주운 소원,Wishes Bloom,en-US
+Aufblühende Wünsche,Wishes Bloom,en-US
+Vœux en fleur,Wishes Bloom,en-US
+Deseos entre flores,Wishes Bloom,en-US
+Цветущие желания,Wishes Bloom,en-US
+蚀星潮歌,Astral Undertow,en-US
+蝕星潮歌,Astral Undertow,en-US
+蝕星の潮歌,Astral Undertow,en-US
+잠식하는 별의 노래,Astral Undertow,en-US
+Astralsog,Astral Undertow,en-US
+Ressac astral,Astral Undertow,en-US
+Corriente astral,Astral Undertow,en-US
+Астральный омут,Astral Undertow,en-US
+裁破天光,Heavenrend Light,en-US
+天光ブレイク,Heavenrend Light,en-US
+하늘을 가르는 일격,Heavenrend Light,en-US
+Himmelsreißendes Licht,Heavenrend Light,en-US
+Lumière tranche-ciel,Heavenrend Light,en-US
+Luz Rrasgacielos,Heavenrend Light,en-US
+"Свет, рассекающий небеса",Heavenrend Light,en-US
+贤者之石,Sage's Stone,en-US
+賢者之石,Sage's Stone,en-US
+賢者の石,Sage's Stone,en-US
+현자의 돌,Sage's Stone,en-US
+Stein des Weisen,Sage's Stone,en-US
+Pierre du sage,Sage's Stone,en-US
+Piedra del sabio,Sage's Stone,en-US
+Камень Мудреца,Sage's Stone,en-US
+逐日之光,Sunseeker Light,en-US
+太陽を追う光,Sunseeker Light,en-US
+태양을 좇는 빛,Sunseeker Light,en-US
+Sonnenjäger-Licht,Sunseeker Light,en-US
+Lumière cherche-soleil,Sunseeker Light,en-US
+Luz buscasol,Sunseeker Light,en-US
+Свет искателя солнца,Sunseeker Light,en-US
+逐风凌羽,Windborne Plumes,en-US
+逐風凌羽,Windborne Plumes,en-US
+追風の飛翔,Windborne Plumes,en-US
+풍운의 날갯짓,Windborne Plumes,en-US
+Windgetragene Federn,Windborne Plumes,en-US
+Plumes au vent,Windborne Plumes,en-US
+Plumas al viento,Windborne Plumes,en-US
+Рождённые ветром перья,Windborne Plumes,en-US
+长夜归处,Haven of Night,en-US
+長夜歸處,Haven of Night,en-US
+常夜の帰路,Haven of Night,en-US
+긴 밤의 보금자리,Haven of Night,en-US
+Zuflucht der Nacht,Haven of Night,en-US
+Refuge de la nuit,Haven of Night,en-US
+Refugio de la Noche,Haven of Night,en-US
+Прибежище ночи,Haven of Night,en-US
+风起归处,Where the Wind Returns,en-US
+風起歸處,Where the Wind Returns,en-US
+風の故郷,Where the Wind Returns,en-US
+바람의 보금자리,Where the Wind Returns,en-US
+Wo der Wind wiederkehrt,Where the Wind Returns,en-US
+Là où retourne le vent,Where the Wind Returns,en-US
+Donde regresa el viento,Where the Wind Returns,en-US
+"Место, куда возвращается ветер",Where the Wind Returns,en-US
+龙与牧羊人,Dragon and the Shepherd,en-US
+龍與牧羊人,Dragon and the Shepherd,en-US
+竜と羊飼い,Dragon and the Shepherd,en-US
+용과 양치기,Dragon and the Shepherd,en-US
+Drache und Hirte,Dragon and the Shepherd,en-US
+Le Dragon et le berger,Dragon and the Shepherd,en-US
+El dragón y el pastor,Dragon and the Shepherd,en-US
+Дракон и Пастух,Dragon and the Shepherd,en-US
+龙与猎龙人,Dragon and Dragonhunter,en-US
+龍與獵龍人,Dragon and Dragonhunter,en-US
+竜と竜狩り,Dragon and Dragonhunter,en-US
+용과 용 사냥꾼,Dragon and Dragonhunter,en-US
+Drache und Drachenjäger,Dragon and Dragonhunter,en-US
+Dragon et Chasseuse de dragons,Dragon and Dragonhunter,en-US
+El dragón y el cazador de dragones,Dragon and Dragonhunter,en-US
+Дракон и Драконоборец,Dragon and Dragonhunter,en-US
+龙与赤龙,Dragon and Crimson Dragon,en-US
+龍與赤龍,Dragon and Crimson Dragon,en-US
+竜と赤竜,Dragon and Crimson Dragon,en-US
+용과 적룡,Dragon and Crimson Dragon,en-US
+Drache und Purpurdrache,Dragon and Crimson Dragon,en-US
+Dragon et Dragon cramoisi,Dragon and Crimson Dragon,en-US
+El dragón y el Dragón Carmesí,Dragon and Crimson Dragon,en-US
+Дракон и Багровый дракон,Dragon and Crimson Dragon,en-US
+龙炎组曲,Dragonflame Suite,en-US
+龍炎組曲,Dragonflame Suite,en-US
+竜炎組曲,Dragonflame Suite,en-US
+용염 모음곡,Dragonflame Suite,en-US
+Drachenflammenlied,Dragonflame Suite,en-US
+Suite des flammes draconiques,Dragonflame Suite,en-US
+Conjunto de fuego dracónico,Dragonflame Suite,en-US
+Сюита драконьего пламени,Dragonflame Suite,en-US
+「一咖舍」说明,The Cafe by Origen Guide,en-US
+「一咖舍」說明,The Cafe by Origen Guide,en-US
+「壱のコーヒー」説明,The Cafe by Origen Guide,en-US
+「별미 카페」 설명,The Cafe by Origen Guide,en-US
+Anleitung für das Café von Origen,The Cafe by Origen Guide,en-US
+Guide du Café par Origen,The Cafe by Origen Guide,en-US
+Guía de El Café de Origen,The Cafe by Origen Guide,en-US
+Руководство по управлению кафе «Ориген»,The Cafe by Origen Guide,en-US
+「世界排名」说明,World Ranking Overview,en-US
+「世界排名」說明,World Ranking Overview,en-US
+「世界ランキング」について,World Ranking Overview,en-US
+「세계 랭킹」 설명,World Ranking Overview,en-US
+Übersicht zur „Weltrangliste“,World Ranking Overview,en-US
+Aperçu du « Classement mondial »,World Ranking Overview,en-US
+Descripción general de «Clasificación mundial»,World Ranking Overview,en-US
+Обзор «Мирового рейтинга»,World Ranking Overview,en-US
+「像素溢出」说明,Pixel Surge Rules,en-US
+「像素溢出」說明,Pixel Surge Rules,en-US
+「ピクセルオーバーフロー」説明,Pixel Surge Rules,en-US
+「픽셀 대방출」 설명,Pixel Surge Rules,en-US
+Pixel-Anstieg-Regeln,Pixel Surge Rules,en-US
+Règles de Déferlement de pixels,Pixel Surge Rules,en-US
+Reglas de Aumento de píxeles,Pixel Surge Rules,en-US
+Правила «Всплеска пикселей»,Pixel Surge Rules,en-US
+「呗果」数据授权声明,Bagel Data Authorization Notice,en-US
+「唄果」資料授權聲明,Bagel Data Authorization Notice,en-US
+「ベーグル」データライセンスに関する声明,Bagel Data Authorization Notice,en-US
+「베이글」 데이터 활용 안내,Bagel Data Authorization Notice,en-US
+Bagel-Datenzustimmungshinweis,Bagel Data Authorization Notice,en-US
+Avis relatif à l’autorisation de traitement des données sur Bagel,Bagel Data Authorization Notice,en-US
+Notificación de autorización de datos de Bagel,Bagel Data Authorization Notice,en-US
+Уведомление об авторизации данных в Bagel,Bagel Data Authorization Notice,en-US
+「呗果」社区公约,Bagel Community Guidelines,en-US
+「唄果」社群公約,Bagel Community Guidelines,en-US
+「ベーグル」コミュニティ規約,Bagel Community Guidelines,en-US
+「베이글」 커뮤니티 규칙,Bagel Community Guidelines,en-US
+Bagel-Community-Richtlinien,Bagel Community Guidelines,en-US
+Règles de la communauté Bagel,Bagel Community Guidelines,en-US
+Normas de la comunidad de Bagel,Bagel Community Guidelines,en-US
+Правила сообщества Bagel,Bagel Community Guidelines,en-US
+「大亨计划激励金」说明,Tycoon Incentive Fund Guide,en-US
+「大亨計畫激勵金」說明,Tycoon Incentive Fund Guide,en-US
+「プロジェクト・ミリオン」について,Tycoon Incentive Fund Guide,en-US
+「타이쿤 프로젝트 지원금」 설명,Tycoon Incentive Fund Guide,en-US
+Anleitung zum Tycoon-Anreiz-Fonds,Tycoon Incentive Fund Guide,en-US
+Guide du Fonds d’incitation du magnat,Tycoon Incentive Fund Guide,en-US
+Guía del Fondo de incentivos del magnate,Tycoon Incentive Fund Guide,en-US
+Руководство по Фонду поощрения магнатов,Tycoon Incentive Fund Guide,en-US
+「夺金大作战」说明,Gold Clash Rules,en-US
+「奪金大作戰」說明,Gold Clash Rules,en-US
+「略奪大作戦」説明,Gold Clash Rules,en-US
+「골드러시 대작전」 설명,Gold Clash Rules,en-US
+Gold-Clash-Regeln,Gold Clash Rules,en-US
+Règles de Sus à l’or,Gold Clash Rules,en-US
+Reglas de Choque dorado,Gold Clash Rules,en-US
+Правила «Битвы за золото»,Gold Clash Rules,en-US
+「富爪榜」说明,Pawbes Rich List Guide,en-US
+「富爪榜」說明,Pawbes Rich List Guide,en-US
+「にくきゅうランキング」説明,Pawbes Rich List Guide,en-US
+「핑크 자산 랭킹」 설명,Pawbes Rich List Guide,en-US
+Anleitung zum Vermögensrangliste,Pawbes Rich List Guide,en-US
+Guide du Classement des richesses des pattes,Pawbes Rich List Guide,en-US
+Guía del tablero de riquezas,Pawbes Rich List Guide,en-US
+Руководство по списку богачей,Pawbes Rich List Guide,en-US
+「巡哨清扫计划」说明,Patrol Sweep Operation Details,en-US
+「巡哨清掃計畫」說明,Patrol Sweep Operation Details,en-US
+「パトロール大作戦」について,Patrol Sweep Operation Details,en-US
+「순찰 작전 행동」 설명,Patrol Sweep Operation Details,en-US
+Schnurrpatrouille-Details,Patrol Sweep Operation Details,en-US
+Détails de Patrouille de Moustaches,Patrol Sweep Operation Details,en-US
+Detalles de Patrulla Whisker,Patrol Sweep Operation Details,en-US
+Подробности о «Патруль Усатика»,Patrol Sweep Operation Details,en-US
+「排球之星」玩法说明,Volley Star Guide,en-US
+「排球之星」玩法說明,Volley Star Guide,en-US
+「スターズ・バレー」コンテンツ説明,Volley Star Guide,en-US
+「배구 스타」 콘텐츠 설명,Volley Star Guide,en-US
+Gameplay-Anleitung zu Volleyballstar,Volley Star Guide,en-US
+Guide de jeu de « Étoile du volley »,Volley Star Guide,en-US
+Guía de juego de «Estrella de voleibol»,Volley Star Guide,en-US
+Руководство по игре «Звезда волейбола»,Volley Star Guide,en-US
+「智能装配」说明,Auto Equip Guide,en-US
+「智慧裝配」說明,Auto Equip Guide,en-US
+「おまかせ装備」説明,Auto Equip Guide,en-US
+「스마트 장착」 설명,Auto Equip Guide,en-US
+Auto-Ausrüsten-Anleitung,Auto Equip Guide,en-US
+Guide d’équipement automatique,Auto Equip Guide,en-US
+Guía de equipamiento automático,Auto Equip Guide,en-US
+Руководство по автоприменению,Auto Equip Guide,en-US
+「淘方斯记」说明,Fons Rush Rules,en-US
+「掏方斯記」說明,Fons Rush Rules,en-US
+「ファンスラッシュ」説明,Fons Rush Rules,en-US
+「폰즈 러시」 설명,Fons Rush Rules,en-US
+Regeln für den Fons-Rausch,Fons Rush Rules,en-US
+Règles de Ruée vers les Fons,Fons Rush Rules,en-US
+Reglas de Fiebre de Fons,Fons Rush Rules,en-US
+Правила «Фонсовой лихорадки»,Fons Rush Rules,en-US
+「立直麻将」说明,Riichi Mahjong Guide,en-US
+「立直麻將」說明,Riichi Mahjong Guide,en-US
+「リーチ麻雀」説明,Riichi Mahjong Guide,en-US
+「리치마작」 설명,Riichi Mahjong Guide,en-US
+Riichi-Mahjong-Leitfaden,Riichi Mahjong Guide,en-US
+Guide du Riichi Mahjong,Riichi Mahjong Guide,en-US
+Guía de Riichi Mahjong,Riichi Mahjong Guide,en-US
+Руководство по «Риичи-маджонгу»,Riichi Mahjong Guide,en-US
+「粉爪大劫案」说明,Pink Paws Heist Rules,en-US
+「粉爪大劫案」說明,Pink Paws Heist Rules,en-US
+「にくきゅう大強盗」説明,Pink Paws Heist Rules,en-US
+「핑크퍼스를 털어라」 설명,Pink Paws Heist Rules,en-US
+Regeln für Raub der rosa Pfötchen,Pink Paws Heist Rules,en-US
+Règles du Casse des Pattes roses,Pink Paws Heist Rules,en-US
+Reglas del Atraco a Pink Paws,Pink Paws Heist Rules,en-US
+Правила Ограбления «Розовых лапок»,Pink Paws Heist Rules,en-US
+「血流麻将」说明,Mahjong Inferno Guide,en-US
+「血流麻將」說明,Mahjong Inferno Guide,en-US
+「血流麻雀」説明,Mahjong Inferno Guide,en-US
+「혈류마작」 설명,Mahjong Inferno Guide,en-US
+Handbuch „Mahjong Inferno“,Mahjong Inferno Guide,en-US
+Guide du mahjong inferno,Mahjong Inferno Guide,en-US
+Guía de Mahjong Inferno,Mahjong Inferno Guide,en-US
+Руководство «Адского маджонга»,Mahjong Inferno Guide,en-US
+九百九十九夜,999 Nights,en-US
+999일 야화,999 Nights,en-US
+999 Nächte,999 Nights,en-US
+999 nuits,999 Nights,en-US
+999 Noches,999 Nights,en-US
+999 ночей,999 Nights,en-US
+异晶开采凭证,Riftcrystal Mining Permit,en-US
+異晶開採憑證,Riftcrystal Mining Permit,en-US
+異晶採掘免許証,Riftcrystal Mining Permit,en-US
+이상 수정 채굴증,Riftcrystal Mining Permit,en-US
+Risskristall-Abbauzulassung,Riftcrystal Mining Permit,en-US
+Permis d’extraction des cristaux de la faille,Riftcrystal Mining Permit,en-US
+Permiso para extraer Cristalfisura,Riftcrystal Mining Permit,en-US
+Разрешение на добычу рифткристаллов,Riftcrystal Mining Permit,en-US
+格斗俱乐部,Fight Club,en-US
+格鬥俱樂部,Fight Club,en-US
+ファイトクラブ,Fight Club,en-US
+파이트 클럽,Fight Club,en-US
+Kampfklub,Fight Club,en-US
+Club de combate,Fight Club,en-US
+Бойцовский клуб,Fight Club,en-US
+环期赏令说明,Circle Bounty Guide,en-US
+環期賞令說明,Circle Bounty Guide,en-US
+ハンター褒章について,Circle Bounty Guide,en-US
+시즌 패스 설명,Circle Bounty Guide,en-US
+Zirkel-Kopfgeld-Anleitung,Circle Bounty Guide,en-US
+Guide des primes du Cercle,Circle Bounty Guide,en-US
+Guía de Botín del círculo,Circle Bounty Guide,en-US
+Руководство по круговым миссиям с наградой,Circle Bounty Guide,en-US
+规则说明,Rules,en-US
+規則說明,Rules,en-US
+ルール説明,Rules,en-US
+규칙 설명,Rules,en-US
+Regeln,Rules,en-US
+Règles,Rules,en-US
+Reglas,Rules,en-US
+Правила,Rules,en-US
+轨外之境说明,Introduction: Beyond the Rails,en-US
+軌外之境說明,Introduction: Beyond the Rails,en-US
+軌道外領域について,Introduction: Beyond the Rails,en-US
+궤도 너머 설명,Introduction: Beyond the Rails,en-US
+Einführung: Jenseits der Schienen,Introduction: Beyond the Rails,en-US
+Présentation : Par-delà les rails,Introduction: Beyond the Rails,en-US
+Introducción: Más allá de los rieles,Introduction: Beyond the Rails,en-US
+Введение: «За рельсами»,Introduction: Beyond the Rails,en-US
+邀约玩法说明,Invitation Mode Guide,en-US
+邀約玩法說明,Invitation Mode Guide,en-US
+キャラ招待について,Invitation Mode Guide,en-US
+초대 콘텐츠 설명,Invitation Mode Guide,en-US
+Einladungsmodus-Anleitung,Invitation Mode Guide,en-US
+Guide du mode Invitation,Invitation Mode Guide,en-US
+Guía de modo por invitación,Invitation Mode Guide,en-US
+Руководство по режиму приглашений,Invitation Mode Guide,en-US
+鱼缸置景,Fish Tank Setup,en-US
+魚缸佈景,Fish Tank Setup,en-US
+水槽の設置,Fish Tank Setup,en-US
+어항 꾸미기,Fish Tank Setup,en-US
+Aufstellen des Aquariums,Fish Tank Setup,en-US
+Configuration de l’aquarium,Fish Tank Setup,en-US
+Configuración de la Pecera,Fish Tank Setup,en-US
+Настройка аквариума,Fish Tank Setup,en-US

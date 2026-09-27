@@ -1,38 +1,44 @@
-# Neverness to Everness (NTE / 异环) Translation Terminology Database
+# Neverness to Everness Terminology Database
 
 ## [简体中文](README.md) [日本語](README_JP.md)
 
-A multi-language terminology glossary for *Neverness to Everness* (NTE / 异环), covering 21 categories: characters, skills, weapons, combat, quests, regions, factions, items, vehicles, furniture, achievements, UI, system, story terms, and more. Split into 9 language sets.
+This repository contains **498,495** `source,target,tgt_lng` rows extracted from the NTE 1.4.7 localization files, covering **9** target languages and **21** categories.
 
-> **Current status**: Initial scaffolding only. Confirmed term count is small pending `.locres` / TextMap extraction from the game client. See [`tools/SOURCES.md`](tools/SOURCES.md).
-
-## File Format
-
-All CSVs: **UTF-8 (BOM)**, **CRLF**, RFC 4180, three columns.
-
-| source | target | tgt_lng |
-| --- | --- | --- |
-| Hethereau | 海特洛市 | zh-CN |
-| Anomaly Hunter | 异象猎人 | zh-CN |
+All targets come from aligned game localization keys. Missing values are omitted rather than filled with machine translation.
 
 ## Language Coverage
 
-| Code | Language | Files | Rows |
-| --- | --- | ---: | ---: |
-| `zh-CN` | 简体中文 | 21 | 6 |
-| `zh-TW` | 繁體中文 (unconfirmed) | 21 | 0 |
-| `en-US` | English | 21 | 5 |
-| `ja-JP` | 日本語 (unconfirmed) | 21 | 0 |
-| `ko-KR` | 한국어 (unconfirmed) | 21 | 0 |
-| `de-DE` | Deutsch (unconfirmed) | 21 | 0 |
-| `fr-FR` | Français (unconfirmed) | 21 | 0 |
-| `es-ES` | Español (unconfirmed) | 21 | 0 |
-| `ru-RU` | Русский (unconfirmed) | 21 | 0 |
+| Target language | Rows |
+| --- | ---: |
+| `en-US` | 55,226 |
+| `zh-CN` | 55,559 |
+| `zh-TW` | 55,530 |
+| `ja-JP` | 55,582 |
+| `ko-KR` | 55,393 |
+| `de-DE` | 55,259 |
+| `fr-FR` | 55,391 |
+| `es-ES` | 55,275 |
+| `ru-RU` | 55,280 |
 
-## NTE-specific categories
 
-`vehicles.csv` and `furniture.csv` cover the game's city driving system and housing/furniture system respectively.
+## Data Source
 
-## Disclaimer
+- Repository: https://github.com/Waifus-Grace/NTE_Assets
+- Commit: `ae1f348c35378184a9e14b56593f43854b7ce575`
+- Game version: `1.4.7 (CN extraction)`
+- Generated: `2026-09-27`
+- Sources used / checked: `3` / `9`
+- Unique text keys: `10,340`
+- Concepts across categories: `10,573`
+- Client-localization-confirmed concepts: `10,340`
+- Unconfirmed / machine-translated rows: `0` / `0`
+- Multi-target conflict groups: `6,169`
 
-Unofficial personal project. Not affiliated with, endorsed by, or officially connected with *Neverness to Everness*, Perfect World, or any related entity.
+## Rebuild
+
+```bash
+python tools/build_nte_glossary.py
+python tools/validate_nte_glossary.py
+```
+
+This is an unofficial personal project and is not affiliated with Hotta Studio, Perfect World Games, or NTE.

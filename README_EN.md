@@ -28,6 +28,8 @@ The terminology is mainly collected based on my personal translation needs and o
 
 **Wuthering Waves**: [wuwa-translate-bot](https://github.com/My-Denia/wuwa-translate-bot); [WutheringData](https://github.com/Dimbreath/WutheringData); [WutheringWavesUID](https://github.com/CM-Edelweiss/WutheringWavesUID); [WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data)
 
+**Neverness to Everness**: [NTE_Assets](https://github.com/Waifus-Grace/NTE_Assets)
+
 **Cat Fantasy**: [DataTable · game/CatFantasy](https://github.com/PackageInstaller/DataTable/tree/game/CatFantasy); [CatFantasy-2.18.1](https://github.com/Moli13337/CatFantasy-2.18.1)
 
 **Minecraft**: [mcmeta](https://github.com/misode/mcmeta); [minecraft-data](https://github.com/PrismarineJS/minecraft-data); [minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets); [Minecraft Wiki translation standardisation](https://zh.minecraft.wiki/w/Minecraft_Wiki:%E8%AF%91%E5%90%8D%E6%A0%87%E5%87%86%E5%8C%96)

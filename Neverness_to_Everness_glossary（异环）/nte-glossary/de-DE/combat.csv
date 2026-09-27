@@ -1,1 +1,587 @@
 ﻿source,target,tgt_lng
+Main DPS,Haupt-SCH,de-DE
+主力输出,Haupt-SCH,de-DE
+主力輸出,Haupt-SCH,de-DE
+メイン攻撃力,Haupt-SCH,de-DE
+메인 딜러형,Haupt-SCH,de-DE
+DPS principal,Haupt-SCH,de-DE
+Основной ДД,Haupt-SCH,de-DE
+DMG Redirection,SCH-Umlenkung,de-DE
+伤害分摊,SCH-Umlenkung,de-DE
+傷害分攤,SCH-Umlenkung,de-DE
+ダメージ分担,SCH-Umlenkung,de-DE
+피해 분담형,SCH-Umlenkung,de-DE
+Redirection des DÉG,SCH-Umlenkung,de-DE
+Redirección de daño,SCH-Umlenkung,de-DE
+Перенаправление урона,SCH-Umlenkung,de-DE
+Break Boost,Bruch-Schub,de-DE
+倾陷增益,Bruch-Schub,de-DE
+傾陷增益,Bruch-Schub,de-DE
+ブレイクバフ,Bruch-Schub,de-DE
+붕괴 버프형,Bruch-Schub,de-DE
+Bonus de rupture,Bruch-Schub,de-DE
+Impulso de ruptura,Bruch-Schub,de-DE
+Усиление разрушения,Bruch-Schub,de-DE
+Instant Cycle,Sofortzyklus,de-DE
+即瞬环合,Sofortzyklus,de-DE
+即瞬環合,Sofortzyklus,de-DE
+即時連環,Sofortzyklus,de-DE
+쾌속 사이클,Sofortzyklus,de-DE
+Cycle instantané,Sofortzyklus,de-DE
+Ciclo instantáneo,Sofortzyklus,de-DE
+Мгновенный цикл,Sofortzyklus,de-DE
+增益,Buff,de-DE
+バフ,Buff,de-DE
+버프형,Buff,de-DE
+Mejora,Buff,de-DE
+Усиление,Buff,de-DE
+Shield,Schild,de-DE
+护盾,Schild,de-DE
+護盾,Schild,de-DE
+シールド,Schild,de-DE
+방어형,Schild,de-DE
+Bouclier,Schild,de-DE
+Escudo,Schild,de-DE
+Щит,Schild,de-DE
+DoT,Schaden über Zeit,de-DE
+持续伤害,Schaden über Zeit,de-DE
+持續傷害,Schaden über Zeit,de-DE
+継続ダメージ,Schaden über Zeit,de-DE
+지속 피해형,Schaden über Zeit,de-DE
+Dégâts sur la durée,Schaden über Zeit,de-DE
+Daño prolongado,Schaden über Zeit,de-DE
+Периодический урон,Schaden über Zeit,de-DE
+Control,Kontrolle,de-DE
+控制,Kontrolle,de-DE
+コントロール,Kontrolle,de-DE
+조작,Kontrolle,de-DE
+Contrôle,Kontrolle,de-DE
+Контроль,Kontrolle,de-DE
+Healing,Heilung,de-DE
+治疗,Heilung,de-DE
+治療,Heilung,de-DE
+치료형,Heilung,de-DE
+Soins,Heilung,de-DE
+Curación,Heilung,de-DE
+Исцеление,Heilung,de-DE
+Burst DPS,Burst-SCH,de-DE
+爆发输出,Burst-SCH,de-DE
+爆發輸出,Burst-SCH,de-DE
+瞬間火力,Burst-SCH,de-DE
+폭발 딜러형,Burst-SCH,de-DE
+DPS explosif,Burst-SCH,de-DE
+DPS de ráfaga,Burst-SCH,de-DE
+Взрывной ДД,Burst-SCH,de-DE
+Survival,Überleben,de-DE
+生存,Überleben,de-DE
+생존형,Überleben,de-DE
+Survie,Überleben,de-DE
+Supervivencia,Überleben,de-DE
+Выживание,Überleben,de-DE
+Damage,Schaden,de-DE
+输出,Schaden,de-DE
+輸出,Schaden,de-DE
+ダメージ出力,Schaden,de-DE
+딜러,Schaden,de-DE
+Dégâts,Schaden,de-DE
+Daño,Schaden,de-DE
+Урон,Schaden,de-DE
+DMG Boost,SCH-Schub,de-DE
+输出增益,SCH-Schub,de-DE
+輸出增益,SCH-Schub,de-DE
+ダメージ出力バフ,SCH-Schub,de-DE
+피해 버프형,SCH-Schub,de-DE
+Bonus de DÉG,SCH-Schub,de-DE
+Impulso de daño,SCH-Schub,de-DE
+Усиление урона,SCH-Schub,de-DE
+Follow-up Attack,Folgeangriff,de-DE
+追加攻击,Folgeangriff,de-DE
+追加攻擊,Folgeangriff,de-DE
+追加攻撃,Folgeangriff,de-DE
+추가 공격형,Folgeangriff,de-DE
+Attaque de suivi,Folgeangriff,de-DE
+Ataque de seguimiento,Folgeangriff,de-DE
+Последующая атака,Folgeangriff,de-DE
+Blossom,Erblühen,de-DE
+创生,Erblühen,de-DE
+創生,Erblühen,de-DE
+블라썸,Erblühen,de-DE
+Fleuraison,Erblühen,de-DE
+Floración,Erblühen,de-DE
+Цветение,Erblühen,de-DE
+Discord,Zwietracht,de-DE
+失谐,Zwietracht,de-DE
+失諧,Zwietracht,de-DE
+디스코드,Zwietracht,de-DE
+Discorde,Zwietracht,de-DE
+Discusión,Zwietracht,de-DE
+Диссонанс,Zwietracht,de-DE
+延滞,Remora,de-DE
+延滯,Remora,de-DE
+레모라,Remora,de-DE
+Rémora,Remora,de-DE
+Ремора,Remora,de-DE
+Scorch,Versengen,de-DE
+浊燃,Versengen,de-DE
+濁燃,Versengen,de-DE
+스코치,Versengen,de-DE
+Brûlure,Versengen,de-DE
+Quemadura,Versengen,de-DE
+Ожог,Versengen,de-DE
+Stain,Beflecken,de-DE
+浸染,Beflecken,de-DE
+스테인,Beflecken,de-DE
+Tache,Beflecken,de-DE
+Mancha,Beflecken,de-DE
+След,Beflecken,de-DE
+Charge,Aufladen,de-DE
+盈蓄,Aufladen,de-DE
+充蓄,Aufladen,de-DE
+차지,Aufladen,de-DE
+Carga,Aufladen,de-DE
+Зарядка,Aufladen,de-DE
+Hexed,Verhext,de-DE
+覆纹,Verhext,de-DE
+覆紋,Verhext,de-DE
+헥스,Verhext,de-DE
+Malédiction,Verhext,de-DE
+Maleficio,Verhext,de-DE
+Колдовство,Verhext,de-DE
+黯星,Nova,de-DE
+暗星,Nova,de-DE
+노바,Nova,de-DE
+Нова,Nova,de-DE
+Stamina,Ausdauer,de-DE
+体力值,Ausdauer,de-DE
+體力值,Ausdauer,de-DE
+スタミナ,Ausdauer,de-DE
+체력,Ausdauer,de-DE
+Endurance,Ausdauer,de-DE
+Vigor,Ausdauer,de-DE
+Выносливость,Ausdauer,de-DE
+Break Intensity,Bruchstärke,de-DE
+倾陷强度,Bruchstärke,de-DE
+傾陷強度,Bruchstärke,de-DE
+ブレイクパワー,Bruchstärke,de-DE
+붕괴 강도,Bruchstärke,de-DE
+Intensité de rupture,Bruchstärke,de-DE
+Intensidad de ruptura,Bruchstärke,de-DE
+Интенсивность разрушения,Bruchstärke,de-DE
+Charge Efficiency,Auflade-Effizienz,de-DE
+充能效率,Auflade-Effizienz,de-DE
+チャージ率,Auflade-Effizienz,de-DE
+에너지 충전 효율,Auflade-Effizienz,de-DE
+Efficacité de la charge,Auflade-Effizienz,de-DE
+Eficiencia de carga,Auflade-Effizienz,de-DE
+Скорость зарядки,Auflade-Effizienz,de-DE
+Cosmos DMG Bonus,Kosmos-SCH-Bonus,de-DE
+光属性伤害增强,Kosmos-SCH-Bonus,de-DE
+光屬性傷害增強,Kosmos-SCH-Bonus,de-DE
+光異能ダメージ強化,Kosmos-SCH-Bonus,de-DE
+빛속성 피해 증강,Kosmos-SCH-Bonus,de-DE
+Bonus de DÉG de cosmos,Kosmos-SCH-Bonus,de-DE
+Bono de Daño de Cosmos,Kosmos-SCH-Bonus,de-DE
+Бонус к урону космоса,Kosmos-SCH-Bonus,de-DE
+Cosmos Resistance,Kosmos-Resistenz,de-DE
+光属性伤害抗性,Kosmos-Resistenz,de-DE
+光屬性傷害抗性,Kosmos-Resistenz,de-DE
+光異能ダメージ耐性,Kosmos-Resistenz,de-DE
+빛속성 피해 저항,Kosmos-Resistenz,de-DE
+Résistance au cosmos,Kosmos-Resistenz,de-DE
+Resist. Cosmos,Kosmos-Resistenz,de-DE
+Сопротивление космосу,Kosmos-Resistenz,de-DE
+Level-Up Healing,Levelaufstieg-Heilung,de-DE
+升级回复生命,Levelaufstieg-Heilung,de-DE
+升級恢復生命,Levelaufstieg-Heilung,de-DE
+LvUP時HP回復,Levelaufstieg-Heilung,de-DE
+레벨업 시 HP 회복,Levelaufstieg-Heilung,de-DE
+Soins de montée de niveau,Levelaufstieg-Heilung,de-DE
+Curación al subir de nivel,Levelaufstieg-Heilung,de-DE
+Исцеление при повышении уровня,Levelaufstieg-Heilung,de-DE
+Level-Up Healing Amount,Levelaufstieg-Heilungsmenge,de-DE
+升级回复生命值,Levelaufstieg-Heilungsmenge,de-DE
+升級恢復生命值,Levelaufstieg-Heilungsmenge,de-DE
+LvUP時HP回復,Levelaufstieg-Heilungsmenge,de-DE
+레벨업 시 HP 회복,Levelaufstieg-Heilungsmenge,de-DE
+Quantité de soins de montée de niveau,Levelaufstieg-Heilungsmenge,de-DE
+Cantidad de curación al subir de nivel,Levelaufstieg-Heilungsmenge,de-DE
+Объём исцеления при повышении уровня,Levelaufstieg-Heilungsmenge,de-DE
+Healing Received Bonus,Bonus für erhaltene Heilung,de-DE
+受治疗加成,Bonus für erhaltene Heilung,de-DE
+受治療加成,Bonus für erhaltene Heilung,de-DE
+被治療アップ,Bonus für erhaltene Heilung,de-DE
+받는 치료 보너스,Bonus für erhaltene Heilung,de-DE
+Bonus de soins reçus,Bonus für erhaltene Heilung,de-DE
+Bono de Curación Recibida,Bonus für erhaltene Heilung,de-DE
+Бонус к полученному лечению,Bonus für erhaltene Heilung,de-DE
+Incantation DMG Bonus,Inkantations-SCH-Bonus,de-DE
+咒属性伤害增强,Inkantations-SCH-Bonus,de-DE
+咒屬性傷害增強,Inkantations-SCH-Bonus,de-DE
+呪異能ダメージ強化,Inkantations-SCH-Bonus,de-DE
+주속성 피해 증강,Inkantations-SCH-Bonus,de-DE
+Bonus de DÉG d’incantation,Inkantations-SCH-Bonus,de-DE
+Bono de Daño de encantamiento,Inkantations-SCH-Bonus,de-DE
+Бонус к урону от чар,Inkantations-SCH-Bonus,de-DE
+Incantation Resistance,Inkantation-Resistenz,de-DE
+咒属性伤害抗性,Inkantation-Resistenz,de-DE
+咒屬性傷害抗性,Inkantation-Resistenz,de-DE
+呪異能ダメージ耐性,Inkantation-Resistenz,de-DE
+주속성 피해 저항,Inkantation-Resistenz,de-DE
+Résistance à l’incantation,Inkantation-Resistenz,de-DE
+Resist. Encantamiento,Inkantation-Resistenz,de-DE
+Сопротивление чарам,Inkantation-Resistenz,de-DE
+Periodic Healing,Periodische Heilung,de-DE
+定时回复生命,Periodische Heilung,de-DE
+定時恢復生命,Periodische Heilung,de-DE
+定期HP回復,Periodische Heilung,de-DE
+일정 시간 HP 회복,Periodische Heilung,de-DE
+Soins périodiques,Periodische Heilung,de-DE
+Curación periódica,Periodische Heilung,de-DE
+Периодическое исцеление,Periodische Heilung,de-DE
+Periodic Healing Amount,Menge der periodischen Heilung,de-DE
+定时回复生命值,Menge der periodischen Heilung,de-DE
+定時恢復生命值,Menge der periodischen Heilung,de-DE
+定期HP回復,Menge der periodischen Heilung,de-DE
+일정 시간 HP 회복,Menge der periodischen Heilung,de-DE
+Quantité de soins périodiques,Menge der periodischen Heilung,de-DE
+Cantidad de curación periódica,Menge der periodischen Heilung,de-DE
+Объём периодического исцеления,Menge der periodischen Heilung,de-DE
+Mental DMG Bonus,Mental-SCH-Bonus,de-DE
+心灵伤害增强,Mental-SCH-Bonus,de-DE
+心靈傷害增強,Mental-SCH-Bonus,de-DE
+精神ダメージ強化,Mental-SCH-Bonus,de-DE
+정신 피해 증강,Mental-SCH-Bonus,de-DE
+Bonus de DÉG mentaux,Mental-SCH-Bonus,de-DE
+Bono de Daño Mental,Mental-SCH-Bonus,de-DE
+Бонус к ментальному урону,Mental-SCH-Bonus,de-DE
+Mental Resistance,Mental-Resistenz,de-DE
+心灵伤害抗性,Mental-Resistenz,de-DE
+心靈傷害抗性,Mental-Resistenz,de-DE
+精神ダメージ耐性,Mental-Resistenz,de-DE
+정신 피해 저항,Mental-Resistenz,de-DE
+Résistance mentale,Mental-Resistenz,de-DE
+Resist. Mental,Mental-Resistenz,de-DE
+Сопротивление ментальному урону,Mental-Resistenz,de-DE
+Skill Ratio,Fertigkeits-Multiplikator,de-DE
+技能倍率,Fertigkeits-Multiplikator,de-DE
+スキル倍率,Fertigkeits-Multiplikator,de-DE
+스킬 배율,Fertigkeits-Multiplikator,de-DE
+Multiplicateur de compétence,Fertigkeits-Multiplikator,de-DE
+Multiplicador de habilidad,Fertigkeits-Multiplikator,de-DE
+Множитель навыка,Fertigkeits-Multiplikator,de-DE
+Skill Cooldown,Fertigkeits-Abklingzeit,de-DE
+技能冷却时间,Fertigkeits-Abklingzeit,de-DE
+技能冷卻時間,Fertigkeits-Abklingzeit,de-DE
+スキルクールダウン,Fertigkeits-Abklingzeit,de-DE
+스킬 쿨타임,Fertigkeits-Abklingzeit,de-DE
+Temps de recharge de la compétence,Fertigkeits-Abklingzeit,de-DE
+Enfriamiento de habilidad,Fertigkeits-Abklingzeit,de-DE
+Перезарядка навыка,Fertigkeits-Abklingzeit,de-DE
+Skill Cooldown Reduction,Fertigkeits-Abklingzeit-Reduzierung,de-DE
+技能冷却时间减少,Fertigkeits-Abklingzeit-Reduzierung,de-DE
+技能冷卻時間減少,Fertigkeits-Abklingzeit-Reduzierung,de-DE
+スキルクールダウン短縮,Fertigkeits-Abklingzeit-Reduzierung,de-DE
+스킬 쿨타임 감소,Fertigkeits-Abklingzeit-Reduzierung,de-DE
+Réduction du temps de recharge de la compétence,Fertigkeits-Abklingzeit-Reduzierung,de-DE
+Reducción de enfriamiento de habilidad,Fertigkeits-Abklingzeit-Reduzierung,de-DE
+Сокращение перезарядки навыка,Fertigkeits-Abklingzeit-Reduzierung,de-DE
+Skill Duration,Fertigkeitsdauer,de-DE
+技能持续时间,Fertigkeitsdauer,de-DE
+技能持續時間,Fertigkeitsdauer,de-DE
+スキル持続時間,Fertigkeitsdauer,de-DE
+스킬 지속 시간,Fertigkeitsdauer,de-DE
+Durée de la compétence,Fertigkeitsdauer,de-DE
+Duración de la habilidad,Fertigkeitsdauer,de-DE
+Длительность навыка,Fertigkeitsdauer,de-DE
+Skill Duration Up,Fertigkeitsdauer erhöht,de-DE
+技能持续时间增加,Fertigkeitsdauer erhöht,de-DE
+技能持續時間增加,Fertigkeitsdauer erhöht,de-DE
+スキル持続時間延長,Fertigkeitsdauer erhöht,de-DE
+스킬 지속 시간 증가,Fertigkeitsdauer erhöht,de-DE
+Augmentation de la durée de la compétence,Fertigkeitsdauer erhöht,de-DE
+Aumento de duración de habilidad,Fertigkeitsdauer erhöht,de-DE
+Увеличение длительности навыка,Fertigkeitsdauer erhöht,de-DE
+Skill Targets,Fertigkeitsziele,de-DE
+技能目标数量,Fertigkeitsziele,de-DE
+技能目標數量,Fertigkeitsziele,de-DE
+スキルターゲット数,Fertigkeitsziele,de-DE
+스킬 목표 수,Fertigkeitsziele,de-DE
+Cibles de la compétence,Fertigkeitsziele,de-DE
+Objetivos de habilidad,Fertigkeitsziele,de-DE
+Цели навыка,Fertigkeitsziele,de-DE
+Skill Targets Up,Fertigkeits-Zielanzahl erhöht,de-DE
+技能目标数量增加,Fertigkeits-Zielanzahl erhöht,de-DE
+技能目標數量增加,Fertigkeits-Zielanzahl erhöht,de-DE
+スキルターゲット数増加,Fertigkeits-Zielanzahl erhöht,de-DE
+스킬 목표 수 증가,Fertigkeits-Zielanzahl erhöht,de-DE
+Augmentation du nombre de cibles de la compétence,Fertigkeits-Zielanzahl erhöht,de-DE
+Aumento de objetivos de habilidad,Fertigkeits-Zielanzahl erhöht,de-DE
+Увеличение числа целей навыка,Fertigkeits-Zielanzahl erhöht,de-DE
+Skill Level Up,Fertigkeitslevel erhöht,de-DE
+技能等级提升,Fertigkeitslevel erhöht,de-DE
+技能等級提升,Fertigkeitslevel erhöht,de-DE
+スキルレベルアップ,Fertigkeitslevel erhöht,de-DE
+스킬 레벨 상승,Fertigkeitslevel erhöht,de-DE
+Augmentation du niveau de la compétence,Fertigkeitslevel erhöht,de-DE
+Aumento de nivel de habilidad,Fertigkeitslevel erhöht,de-DE
+Повышение уровня навыка,Fertigkeitslevel erhöht,de-DE
+Skill Range,Fertigkeits-Reichweite,de-DE
+技能范围,Fertigkeits-Reichweite,de-DE
+技能範圍,Fertigkeits-Reichweite,de-DE
+スキル範囲,Fertigkeits-Reichweite,de-DE
+스킬 범위,Fertigkeits-Reichweite,de-DE
+Portée de la compétence,Fertigkeits-Reichweite,de-DE
+Alcance de habilidad,Fertigkeits-Reichweite,de-DE
+Дальность навыка,Fertigkeits-Reichweite,de-DE
+Skill Range Up,Fertigkeits-Reichweite erhöht,de-DE
+技能范围增加,Fertigkeits-Reichweite erhöht,de-DE
+技能範圍增加,Fertigkeits-Reichweite erhöht,de-DE
+スキル範囲拡大,Fertigkeits-Reichweite erhöht,de-DE
+스킬 범위 증가,Fertigkeits-Reichweite erhöht,de-DE
+Augmentation de la portée de la compétence,Fertigkeits-Reichweite erhöht,de-DE
+Aumento del alcance de habilidad,Fertigkeits-Reichweite erhöht,de-DE
+Увеличение дальности навыка,Fertigkeits-Reichweite erhöht,de-DE
+Skill Uses,Fertigkeitsnutzungen,de-DE
+技能释放次数,Fertigkeitsnutzungen,de-DE
+技能釋放次數,Fertigkeitsnutzungen,de-DE
+スキル発動回数,Fertigkeitsnutzungen,de-DE
+스킬 발동 횟수,Fertigkeitsnutzungen,de-DE
+Utilisations de la compétence,Fertigkeitsnutzungen,de-DE
+Usos de la habilidad,Fertigkeitsnutzungen,de-DE
+Применения навыка,Fertigkeitsnutzungen,de-DE
+Skill Uses Up,Fertigkeitsnutzungen erhöht,de-DE
+技能释放次数增加,Fertigkeitsnutzungen erhöht,de-DE
+技能釋放次數增加,Fertigkeitsnutzungen erhöht,de-DE
+スキル発動回数増加,Fertigkeitsnutzungen erhöht,de-DE
+스킬 발동 횟수 증가,Fertigkeitsnutzungen erhöht,de-DE
+Augmentation des utilisations de la compétence,Fertigkeitsnutzungen erhöht,de-DE
+Aumento de usos de habilidad,Fertigkeitsnutzungen erhöht,de-DE
+Дополнительные применения навыка,Fertigkeitsnutzungen erhöht,de-DE
+护盾值,Schild,de-DE
+護盾值,Schild,de-DE
+シールド値,Schild,de-DE
+방어막 수치,Schild,de-DE
+Pickup Range,Sammelreichweite,de-DE
+拾取范围,Sammelreichweite,de-DE
+拾取範圍,Sammelreichweite,de-DE
+取得範囲,Sammelreichweite,de-DE
+줍기 범위,Sammelreichweite,de-DE
+Portée de ramassage,Sammelreichweite,de-DE
+Alcance de recogida,Sammelreichweite,de-DE
+Радиус подбора,Sammelreichweite,de-DE
+ATK,ANG,de-DE
+攻击力,ANG,de-DE
+攻擊力,ANG,de-DE
+攻撃力,ANG,de-DE
+공격력,ANG,de-DE
+ATQ,ANG,de-DE
+Атака,ANG,de-DE
+ATK Bonus,ANG-Bonus,de-DE
+攻击力百分比,ANG-Bonus,de-DE
+攻擊力百分比,ANG-Bonus,de-DE
+攻撃力％,ANG-Bonus,de-DE
+공격력%,ANG-Bonus,de-DE
+Bonus d’ATQ,ANG-Bonus,de-DE
+Bono de ATQ,ANG-Bonus,de-DE
+Бонус к атаке,ANG-Bonus,de-DE
+Chaos DMG Bonus,Chaos-SCH-Bonus,de-DE
+暗属性伤害增强,Chaos-SCH-Bonus,de-DE
+暗屬性傷害增強,Chaos-SCH-Bonus,de-DE
+闇異能ダメージ強化,Chaos-SCH-Bonus,de-DE
+암속성 피해 증강,Chaos-SCH-Bonus,de-DE
+Bonus de DÉG de chaos,Chaos-SCH-Bonus,de-DE
+Bono de Daño de Caos,Chaos-SCH-Bonus,de-DE
+Бонус к урону хаоса,Chaos-SCH-Bonus,de-DE
+Chaos Resistance,Chaos-Resistenz,de-DE
+暗属性伤害抗性,Chaos-Resistenz,de-DE
+暗屬性傷害抗性,Chaos-Resistenz,de-DE
+闇異能ダメージ耐性,Chaos-Resistenz,de-DE
+암속성 피해 저항,Chaos-Resistenz,de-DE
+Résistance au chaos,Chaos-Resistenz,de-DE
+Resist. Caos,Chaos-Resistenz,de-DE
+Сопротивление хаосу,Chaos-Resistenz,de-DE
+Crit DMG,KRIT-SCH,de-DE
+暴击伤害,KRIT-SCH,de-DE
+暴擊傷害,KRIT-SCH,de-DE
+クリティカルダメージ,KRIT-SCH,de-DE
+치명 피해,KRIT-SCH,de-DE
+DÉG CRIT,KRIT-SCH,de-DE
+Daño CRIT,KRIT-SCH,de-DE
+Крит. урон,KRIT-SCH,de-DE
+Crit Rate,KRIT-Rate,de-DE
+暴击率,KRIT-Rate,de-DE
+暴擊率,KRIT-Rate,de-DE
+クリティカル率,KRIT-Rate,de-DE
+치명 확률,KRIT-Rate,de-DE
+Chances de CRIT,KRIT-Rate,de-DE
+Prob. CRIT,KRIT-Rate,de-DE
+Шанс крит. удара,KRIT-Rate,de-DE
+Final DMG Bonus,End-SCH-Bonus,de-DE
+最终伤害增强,End-SCH-Bonus,de-DE
+最終傷害增強,End-SCH-Bonus,de-DE
+最終ダメージ強化,End-SCH-Bonus,de-DE
+최종 피해 증강,End-SCH-Bonus,de-DE
+Bonus de DÉG finaux,End-SCH-Bonus,de-DE
+Bono de Daño Final,End-SCH-Bonus,de-DE
+Бонус к итоговому урону,End-SCH-Bonus,de-DE
+Healing Bonus,Heilungsbonus,de-DE
+治疗加成,Heilungsbonus,de-DE
+治療加成,Heilungsbonus,de-DE
+治療アップ,Heilungsbonus,de-DE
+치료 보너스,Heilungsbonus,de-DE
+Bonus de soins,Heilungsbonus,de-DE
+Bono de curación,Heilungsbonus,de-DE
+Бонус к лечению,Heilungsbonus,de-DE
+Low-HP Healing,Niedrig-LP-Heilung,de-DE
+濒危回复生命,Niedrig-LP-Heilung,de-DE
+瀕危恢復生命,Niedrig-LP-Heilung,de-DE
+瀕死時HP回復,Niedrig-LP-Heilung,de-DE
+위급 시 HP 회복,Niedrig-LP-Heilung,de-DE
+Soins en cas de PV critiques,Niedrig-LP-Heilung,de-DE
+Curación con PS bajos,Niedrig-LP-Heilung,de-DE
+Исцеление при низком уровне ОЗ,Niedrig-LP-Heilung,de-DE
+Low-HP Healing Amount,Niedrig-LP-Heilungsmenge,de-DE
+濒危回复生命值,Niedrig-LP-Heilungsmenge,de-DE
+瀕危恢復生命值,Niedrig-LP-Heilungsmenge,de-DE
+瀕死時HP回復,Niedrig-LP-Heilungsmenge,de-DE
+위급 시 HP 회복,Niedrig-LP-Heilungsmenge,de-DE
+Quantité de soins en cas de PV critiques,Niedrig-LP-Heilungsmenge,de-DE
+Cantidad de curación con PS bajos,Niedrig-LP-Heilungsmenge,de-DE
+Объём исцеления при низком уровне ОЗ,Niedrig-LP-Heilungsmenge,de-DE
+Anima DMG Bonus,Anima-SCH-Bonus,de-DE
+灵属性伤害增强,Anima-SCH-Bonus,de-DE
+靈屬性傷害增強,Anima-SCH-Bonus,de-DE
+霊異能ダメージ強化,Anima-SCH-Bonus,de-DE
+령속성 피해 증강,Anima-SCH-Bonus,de-DE
+Bonus de DÉG d’anima,Anima-SCH-Bonus,de-DE
+Bono de Daño de Ánima,Anima-SCH-Bonus,de-DE
+Бонус к урону анимы,Anima-SCH-Bonus,de-DE
+Anima Resistance,Anima-Resistenz,de-DE
+灵属性伤害抗性,Anima-Resistenz,de-DE
+靈屬性傷害抗性,Anima-Resistenz,de-DE
+霊異能ダメージ耐性,Anima-Resistenz,de-DE
+령속성 피해 저항,Anima-Resistenz,de-DE
+Résistance à l’anima,Anima-Resistenz,de-DE
+Resist. Ánima,Anima-Resistenz,de-DE
+Сопротивление анимы,Anima-Resistenz,de-DE
+Cycle Intensity,Zyklusstärke,de-DE
+环合强度,Zyklusstärke,de-DE
+環合強度,Zyklusstärke,de-DE
+連環パワー,Zyklusstärke,de-DE
+사이클 강도,Zyklusstärke,de-DE
+Intensité de cycle,Zyklusstärke,de-DE
+Intensidad de ciclo,Zyklusstärke,de-DE
+Интенсивность цикла,Zyklusstärke,de-DE
+HP,LP,de-DE
+生命值,LP,de-DE
+PV,LP,de-DE
+PS,LP,de-DE
+ОЗ,LP,de-DE
+HP Bonus,LP-Bonus,de-DE
+生命值百分比,LP-Bonus,de-DE
+HP％,LP-Bonus,de-DE
+HP%,LP-Bonus,de-DE
+Bonus de PV,LP-Bonus,de-DE
+Bono de PS,LP-Bonus,de-DE
+Бонус к ОЗ,LP-Bonus,de-DE
+Lakshana DMG Bonus,Lakshana-SCH-Bonus,de-DE
+相属性伤害增强,Lakshana-SCH-Bonus,de-DE
+相屬性傷害增強,Lakshana-SCH-Bonus,de-DE
+相異能ダメージ強化,Lakshana-SCH-Bonus,de-DE
+상속성 피해 증강,Lakshana-SCH-Bonus,de-DE
+Bonus de DÉG de lakshana,Lakshana-SCH-Bonus,de-DE
+Bono de Daño de Lakshana,Lakshana-SCH-Bonus,de-DE
+Бонус к урону лакшаны,Lakshana-SCH-Bonus,de-DE
+Lakshana Resistance,Lakshana-Resistenz,de-DE
+相属性伤害抗性,Lakshana-Resistenz,de-DE
+相屬性傷害抗性,Lakshana-Resistenz,de-DE
+相異能ダメージ耐性,Lakshana-Resistenz,de-DE
+상속성 피해 저항,Lakshana-Resistenz,de-DE
+Résistance au lakshana,Lakshana-Resistenz,de-DE
+Resist. Lakshana,Lakshana-Resistenz,de-DE
+Сопротивление лакшане,Lakshana-Resistenz,de-DE
+Movement Speed Up,Erhöhte Bewegungsgeschwindigkeit,de-DE
+移速提升,Erhöhte Bewegungsgeschwindigkeit,de-DE
+移動速度増加,Erhöhte Bewegungsgeschwindigkeit,de-DE
+이동 속도 상승,Erhöhte Bewegungsgeschwindigkeit,de-DE
+Augmentation de la vitesse de déplacement,Erhöhte Bewegungsgeschwindigkeit,de-DE
+Aumento de velocidad de movimiento,Erhöhte Bewegungsgeschwindigkeit,de-DE
+Повышение скорости движения,Erhöhte Bewegungsgeschwindigkeit,de-DE
+EXP Gain Rate,EP-Gewinnrate,de-DE
+获取经验效率,EP-Gewinnrate,de-DE
+獲取經驗效率,EP-Gewinnrate,de-DE
+Exp獲得効率,EP-Gewinnrate,de-DE
+경험치 획득 효율,EP-Gewinnrate,de-DE
+Taux de gain d’EXP,EP-Gewinnrate,de-DE
+Tasa de obtención de EXP,EP-Gewinnrate,de-DE
+Скорость получения ОП,EP-Gewinnrate,de-DE
+Universal DMG Bonus,Universal-SCH-Bonus,de-DE
+通用伤害增强,Universal-SCH-Bonus,de-DE
+通用傷害增強,Universal-SCH-Bonus,de-DE
+汎用ダメージ強化,Universal-SCH-Bonus,de-DE
+통용 피해 증강,Universal-SCH-Bonus,de-DE
+Bonus de DÉG universels,Universal-SCH-Bonus,de-DE
+Bono de Daño Universal,Universal-SCH-Bonus,de-DE
+Бонус к урону,Universal-SCH-Bonus,de-DE
+DEF,VER,de-DE
+防御力,VER,de-DE
+防禦力,VER,de-DE
+방어력,VER,de-DE
+DÉF,VER,de-DE
+Защита,VER,de-DE
+DEF Bonus,VER-Bonus,de-DE
+防御力百分比,VER-Bonus,de-DE
+防禦力百分比,VER-Bonus,de-DE
+防御力％,VER-Bonus,de-DE
+방어력%,VER-Bonus,de-DE
+Bonus de DÉF,VER-Bonus,de-DE
+Bono de DEF,VER-Bonus,de-DE
+Бонус к защите,VER-Bonus,de-DE
+Penetration,Durchschlag,de-DE
+防御无视,Durchschlag,de-DE
+防禦無視,Durchschlag,de-DE
+防御無視,Durchschlag,de-DE
+방어 무시,Durchschlag,de-DE
+Pénétration,Durchschlag,de-DE
+Penetración,Durchschlag,de-DE
+Пробивание,Durchschlag,de-DE
+Tenacity,Zähigkeit,de-DE
+韧性值,Zähigkeit,de-DE
+韌性值,Zähigkeit,de-DE
+靭性値,Zähigkeit,de-DE
+근성,Zähigkeit,de-DE
+Ténacité,Zähigkeit,de-DE
+Tenacidad,Zähigkeit,de-DE
+Стойкость,Zähigkeit,de-DE
+Tenacity Resistance,Zähigkeit-Resistenz,de-DE
+韧性抵抗,Zähigkeit-Resistenz,de-DE
+韌性抵抗,Zähigkeit-Resistenz,de-DE
+靭性抵抗,Zähigkeit-Resistenz,de-DE
+근성 저항,Zähigkeit-Resistenz,de-DE
+Résistance à la ténacité,Zähigkeit-Resistenz,de-DE
+Resist. Tenacidad,Zähigkeit-Resistenz,de-DE
+Сопротивление стойкости,Zähigkeit-Resistenz,de-DE
+Tenacity Break Efficiency,Zähigkeitsbruch-Effizienz,de-DE
+韧性破坏效率,Zähigkeitsbruch-Effizienz,de-DE
+韌性破壞效率,Zähigkeitsbruch-Effizienz,de-DE
+靭性破壊効率,Zähigkeitsbruch-Effizienz,de-DE
+근성 파괴 효율,Zähigkeitsbruch-Effizienz,de-DE
+Efficacité de rupture de la ténacité,Zähigkeitsbruch-Effizienz,de-DE
+Eficiencia de ruptura de tenacidad,Zähigkeitsbruch-Effizienz,de-DE
+Эффективность пробоя стойкости,Zähigkeitsbruch-Effizienz,de-DE
+Psyche DMG Bonus,Psyche-SCH-Bonus,de-DE
+魂属性伤害增强,Psyche-SCH-Bonus,de-DE
+魂屬性傷害增強,Psyche-SCH-Bonus,de-DE
+魂異能ダメージ強化,Psyche-SCH-Bonus,de-DE
+혼속성 피해 증강,Psyche-SCH-Bonus,de-DE
+Bonus de DÉG de psyché,Psyche-SCH-Bonus,de-DE
+Bono de Daño de Psique,Psyche-SCH-Bonus,de-DE
+Бонус к урону психики,Psyche-SCH-Bonus,de-DE
+Psyche Resistance,Psyche-Resistenz,de-DE
+魂属性伤害抗性,Psyche-Resistenz,de-DE
+魂屬性傷害抗性,Psyche-Resistenz,de-DE
+魂異能ダメージ耐性,Psyche-Resistenz,de-DE
+혼속성 피해 저항,Psyche-Resistenz,de-DE
+Résistance à la psyché,Psyche-Resistenz,de-DE
+Resist. Psique,Psyche-Resistenz,de-DE
+Сопротивление психике,Psyche-Resistenz,de-DE

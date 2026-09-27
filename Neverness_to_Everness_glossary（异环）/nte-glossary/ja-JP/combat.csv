@@ -1,1 +1,588 @@
 ﻿source,target,tgt_lng
+Main DPS,メイン攻撃力,ja-JP
+主力输出,メイン攻撃力,ja-JP
+主力輸出,メイン攻撃力,ja-JP
+메인 딜러형,メイン攻撃力,ja-JP
+Haupt-SCH,メイン攻撃力,ja-JP
+DPS principal,メイン攻撃力,ja-JP
+Основной ДД,メイン攻撃力,ja-JP
+DMG Redirection,ダメージ分担,ja-JP
+伤害分摊,ダメージ分担,ja-JP
+傷害分攤,ダメージ分担,ja-JP
+피해 분담형,ダメージ分担,ja-JP
+SCH-Umlenkung,ダメージ分担,ja-JP
+Redirection des DÉG,ダメージ分担,ja-JP
+Redirección de daño,ダメージ分担,ja-JP
+Перенаправление урона,ダメージ分担,ja-JP
+Break Boost,ブレイクバフ,ja-JP
+倾陷增益,ブレイクバフ,ja-JP
+傾陷增益,ブレイクバフ,ja-JP
+붕괴 버프형,ブレイクバフ,ja-JP
+Bruch-Schub,ブレイクバフ,ja-JP
+Bonus de rupture,ブレイクバフ,ja-JP
+Impulso de ruptura,ブレイクバフ,ja-JP
+Усиление разрушения,ブレイクバフ,ja-JP
+Instant Cycle,即時連環,ja-JP
+即瞬环合,即時連環,ja-JP
+即瞬環合,即時連環,ja-JP
+쾌속 사이클,即時連環,ja-JP
+Sofortzyklus,即時連環,ja-JP
+Cycle instantané,即時連環,ja-JP
+Ciclo instantáneo,即時連環,ja-JP
+Мгновенный цикл,即時連環,ja-JP
+Buff,バフ,ja-JP
+增益,バフ,ja-JP
+버프형,バフ,ja-JP
+Mejora,バフ,ja-JP
+Усиление,バフ,ja-JP
+Shield,シールド,ja-JP
+护盾,シールド,ja-JP
+護盾,シールド,ja-JP
+방어형,シールド,ja-JP
+Schild,シールド,ja-JP
+Bouclier,シールド,ja-JP
+Escudo,シールド,ja-JP
+Щит,シールド,ja-JP
+DoT,継続ダメージ,ja-JP
+持续伤害,継続ダメージ,ja-JP
+持續傷害,継続ダメージ,ja-JP
+지속 피해형,継続ダメージ,ja-JP
+Schaden über Zeit,継続ダメージ,ja-JP
+Dégâts sur la durée,継続ダメージ,ja-JP
+Daño prolongado,継続ダメージ,ja-JP
+Периодический урон,継続ダメージ,ja-JP
+Control,コントロール,ja-JP
+控制,コントロール,ja-JP
+조작,コントロール,ja-JP
+Kontrolle,コントロール,ja-JP
+Contrôle,コントロール,ja-JP
+Контроль,コントロール,ja-JP
+Healing,治療,ja-JP
+治疗,治療,ja-JP
+치료형,治療,ja-JP
+Heilung,治療,ja-JP
+Soins,治療,ja-JP
+Curación,治療,ja-JP
+Исцеление,治療,ja-JP
+Burst DPS,瞬間火力,ja-JP
+爆发输出,瞬間火力,ja-JP
+爆發輸出,瞬間火力,ja-JP
+폭발 딜러형,瞬間火力,ja-JP
+Burst-SCH,瞬間火力,ja-JP
+DPS explosif,瞬間火力,ja-JP
+DPS de ráfaga,瞬間火力,ja-JP
+Взрывной ДД,瞬間火力,ja-JP
+Survival,生存,ja-JP
+생존형,生存,ja-JP
+Überleben,生存,ja-JP
+Survie,生存,ja-JP
+Supervivencia,生存,ja-JP
+Выживание,生存,ja-JP
+Damage,ダメージ出力,ja-JP
+输出,ダメージ出力,ja-JP
+輸出,ダメージ出力,ja-JP
+딜러,ダメージ出力,ja-JP
+Schaden,ダメージ出力,ja-JP
+Dégâts,ダメージ出力,ja-JP
+Daño,ダメージ出力,ja-JP
+Урон,ダメージ出力,ja-JP
+DMG Boost,ダメージ出力バフ,ja-JP
+输出增益,ダメージ出力バフ,ja-JP
+輸出增益,ダメージ出力バフ,ja-JP
+피해 버프형,ダメージ出力バフ,ja-JP
+SCH-Schub,ダメージ出力バフ,ja-JP
+Bonus de DÉG,ダメージ出力バフ,ja-JP
+Impulso de daño,ダメージ出力バフ,ja-JP
+Усиление урона,ダメージ出力バフ,ja-JP
+Follow-up Attack,追加攻撃,ja-JP
+追加攻击,追加攻撃,ja-JP
+追加攻擊,追加攻撃,ja-JP
+추가 공격형,追加攻撃,ja-JP
+Folgeangriff,追加攻撃,ja-JP
+Attaque de suivi,追加攻撃,ja-JP
+Ataque de seguimiento,追加攻撃,ja-JP
+Последующая атака,追加攻撃,ja-JP
+Blossom,創生,ja-JP
+创生,創生,ja-JP
+블라썸,創生,ja-JP
+Erblühen,創生,ja-JP
+Fleuraison,創生,ja-JP
+Floración,創生,ja-JP
+Цветение,創生,ja-JP
+Discord,失諧,ja-JP
+失谐,失諧,ja-JP
+디스코드,失諧,ja-JP
+Zwietracht,失諧,ja-JP
+Discorde,失諧,ja-JP
+Discusión,失諧,ja-JP
+Диссонанс,失諧,ja-JP
+Remora,延滞,ja-JP
+延滯,延滞,ja-JP
+레모라,延滞,ja-JP
+Rémora,延滞,ja-JP
+Ремора,延滞,ja-JP
+Scorch,濁燃,ja-JP
+浊燃,濁燃,ja-JP
+스코치,濁燃,ja-JP
+Versengen,濁燃,ja-JP
+Brûlure,濁燃,ja-JP
+Quemadura,濁燃,ja-JP
+Ожог,濁燃,ja-JP
+Stain,浸染,ja-JP
+스테인,浸染,ja-JP
+Beflecken,浸染,ja-JP
+Tache,浸染,ja-JP
+Mancha,浸染,ja-JP
+След,浸染,ja-JP
+Charge,充蓄,ja-JP
+盈蓄,充蓄,ja-JP
+차지,充蓄,ja-JP
+Aufladen,充蓄,ja-JP
+Carga,充蓄,ja-JP
+Зарядка,充蓄,ja-JP
+Hexed,覆紋,ja-JP
+覆纹,覆紋,ja-JP
+헥스,覆紋,ja-JP
+Verhext,覆紋,ja-JP
+Malédiction,覆紋,ja-JP
+Maleficio,覆紋,ja-JP
+Колдовство,覆紋,ja-JP
+Nova,暗星,ja-JP
+黯星,暗星,ja-JP
+노바,暗星,ja-JP
+Нова,暗星,ja-JP
+Stamina,スタミナ,ja-JP
+体力值,スタミナ,ja-JP
+體力值,スタミナ,ja-JP
+체력,スタミナ,ja-JP
+Ausdauer,スタミナ,ja-JP
+Endurance,スタミナ,ja-JP
+Vigor,スタミナ,ja-JP
+Выносливость,スタミナ,ja-JP
+Break Intensity,ブレイクパワー,ja-JP
+倾陷强度,ブレイクパワー,ja-JP
+傾陷強度,ブレイクパワー,ja-JP
+붕괴 강도,ブレイクパワー,ja-JP
+Bruchstärke,ブレイクパワー,ja-JP
+Intensité de rupture,ブレイクパワー,ja-JP
+Intensidad de ruptura,ブレイクパワー,ja-JP
+Интенсивность разрушения,ブレイクパワー,ja-JP
+Charge Efficiency,チャージ率,ja-JP
+充能效率,チャージ率,ja-JP
+에너지 충전 효율,チャージ率,ja-JP
+Auflade-Effizienz,チャージ率,ja-JP
+Efficacité de la charge,チャージ率,ja-JP
+Eficiencia de carga,チャージ率,ja-JP
+Скорость зарядки,チャージ率,ja-JP
+Cosmos DMG Bonus,光異能ダメージ強化,ja-JP
+光属性伤害增强,光異能ダメージ強化,ja-JP
+光屬性傷害增強,光異能ダメージ強化,ja-JP
+빛속성 피해 증강,光異能ダメージ強化,ja-JP
+Kosmos-SCH-Bonus,光異能ダメージ強化,ja-JP
+Bonus de DÉG de cosmos,光異能ダメージ強化,ja-JP
+Bono de Daño de Cosmos,光異能ダメージ強化,ja-JP
+Бонус к урону космоса,光異能ダメージ強化,ja-JP
+Cosmos Resistance,光異能ダメージ耐性,ja-JP
+光属性伤害抗性,光異能ダメージ耐性,ja-JP
+光屬性傷害抗性,光異能ダメージ耐性,ja-JP
+빛속성 피해 저항,光異能ダメージ耐性,ja-JP
+Kosmos-Resistenz,光異能ダメージ耐性,ja-JP
+Résistance au cosmos,光異能ダメージ耐性,ja-JP
+Resist. Cosmos,光異能ダメージ耐性,ja-JP
+Сопротивление космосу,光異能ダメージ耐性,ja-JP
+Level-Up Healing,LvUP時HP回復,ja-JP
+升级回复生命,LvUP時HP回復,ja-JP
+升級恢復生命,LvUP時HP回復,ja-JP
+레벨업 시 HP 회복,LvUP時HP回復,ja-JP
+Levelaufstieg-Heilung,LvUP時HP回復,ja-JP
+Soins de montée de niveau,LvUP時HP回復,ja-JP
+Curación al subir de nivel,LvUP時HP回復,ja-JP
+Исцеление при повышении уровня,LvUP時HP回復,ja-JP
+Level-Up Healing Amount,LvUP時HP回復,ja-JP
+升级回复生命值,LvUP時HP回復,ja-JP
+升級恢復生命值,LvUP時HP回復,ja-JP
+Levelaufstieg-Heilungsmenge,LvUP時HP回復,ja-JP
+Quantité de soins de montée de niveau,LvUP時HP回復,ja-JP
+Cantidad de curación al subir de nivel,LvUP時HP回復,ja-JP
+Объём исцеления при повышении уровня,LvUP時HP回復,ja-JP
+Healing Received Bonus,被治療アップ,ja-JP
+受治疗加成,被治療アップ,ja-JP
+受治療加成,被治療アップ,ja-JP
+받는 치료 보너스,被治療アップ,ja-JP
+Bonus für erhaltene Heilung,被治療アップ,ja-JP
+Bonus de soins reçus,被治療アップ,ja-JP
+Bono de Curación Recibida,被治療アップ,ja-JP
+Бонус к полученному лечению,被治療アップ,ja-JP
+Incantation DMG Bonus,呪異能ダメージ強化,ja-JP
+咒属性伤害增强,呪異能ダメージ強化,ja-JP
+咒屬性傷害增強,呪異能ダメージ強化,ja-JP
+주속성 피해 증강,呪異能ダメージ強化,ja-JP
+Inkantations-SCH-Bonus,呪異能ダメージ強化,ja-JP
+Bonus de DÉG d’incantation,呪異能ダメージ強化,ja-JP
+Bono de Daño de encantamiento,呪異能ダメージ強化,ja-JP
+Бонус к урону от чар,呪異能ダメージ強化,ja-JP
+Incantation Resistance,呪異能ダメージ耐性,ja-JP
+咒属性伤害抗性,呪異能ダメージ耐性,ja-JP
+咒屬性傷害抗性,呪異能ダメージ耐性,ja-JP
+주속성 피해 저항,呪異能ダメージ耐性,ja-JP
+Inkantation-Resistenz,呪異能ダメージ耐性,ja-JP
+Résistance à l’incantation,呪異能ダメージ耐性,ja-JP
+Resist. Encantamiento,呪異能ダメージ耐性,ja-JP
+Сопротивление чарам,呪異能ダメージ耐性,ja-JP
+Periodic Healing,定期HP回復,ja-JP
+定时回复生命,定期HP回復,ja-JP
+定時恢復生命,定期HP回復,ja-JP
+일정 시간 HP 회복,定期HP回復,ja-JP
+Periodische Heilung,定期HP回復,ja-JP
+Soins périodiques,定期HP回復,ja-JP
+Curación periódica,定期HP回復,ja-JP
+Периодическое исцеление,定期HP回復,ja-JP
+Periodic Healing Amount,定期HP回復,ja-JP
+定时回复生命值,定期HP回復,ja-JP
+定時恢復生命值,定期HP回復,ja-JP
+Menge der periodischen Heilung,定期HP回復,ja-JP
+Quantité de soins périodiques,定期HP回復,ja-JP
+Cantidad de curación periódica,定期HP回復,ja-JP
+Объём периодического исцеления,定期HP回復,ja-JP
+Mental DMG Bonus,精神ダメージ強化,ja-JP
+心灵伤害增强,精神ダメージ強化,ja-JP
+心靈傷害增強,精神ダメージ強化,ja-JP
+정신 피해 증강,精神ダメージ強化,ja-JP
+Mental-SCH-Bonus,精神ダメージ強化,ja-JP
+Bonus de DÉG mentaux,精神ダメージ強化,ja-JP
+Bono de Daño Mental,精神ダメージ強化,ja-JP
+Бонус к ментальному урону,精神ダメージ強化,ja-JP
+Mental Resistance,精神ダメージ耐性,ja-JP
+心灵伤害抗性,精神ダメージ耐性,ja-JP
+心靈傷害抗性,精神ダメージ耐性,ja-JP
+정신 피해 저항,精神ダメージ耐性,ja-JP
+Mental-Resistenz,精神ダメージ耐性,ja-JP
+Résistance mentale,精神ダメージ耐性,ja-JP
+Resist. Mental,精神ダメージ耐性,ja-JP
+Сопротивление ментальному урону,精神ダメージ耐性,ja-JP
+Skill Ratio,スキル倍率,ja-JP
+技能倍率,スキル倍率,ja-JP
+스킬 배율,スキル倍率,ja-JP
+Fertigkeits-Multiplikator,スキル倍率,ja-JP
+Multiplicateur de compétence,スキル倍率,ja-JP
+Multiplicador de habilidad,スキル倍率,ja-JP
+Множитель навыка,スキル倍率,ja-JP
+Skill Cooldown,スキルクールダウン,ja-JP
+技能冷却时间,スキルクールダウン,ja-JP
+技能冷卻時間,スキルクールダウン,ja-JP
+스킬 쿨타임,スキルクールダウン,ja-JP
+Fertigkeits-Abklingzeit,スキルクールダウン,ja-JP
+Temps de recharge de la compétence,スキルクールダウン,ja-JP
+Enfriamiento de habilidad,スキルクールダウン,ja-JP
+Перезарядка навыка,スキルクールダウン,ja-JP
+Skill Cooldown Reduction,スキルクールダウン短縮,ja-JP
+技能冷却时间减少,スキルクールダウン短縮,ja-JP
+技能冷卻時間減少,スキルクールダウン短縮,ja-JP
+스킬 쿨타임 감소,スキルクールダウン短縮,ja-JP
+Fertigkeits-Abklingzeit-Reduzierung,スキルクールダウン短縮,ja-JP
+Réduction du temps de recharge de la compétence,スキルクールダウン短縮,ja-JP
+Reducción de enfriamiento de habilidad,スキルクールダウン短縮,ja-JP
+Сокращение перезарядки навыка,スキルクールダウン短縮,ja-JP
+Skill Duration,スキル持続時間,ja-JP
+技能持续时间,スキル持続時間,ja-JP
+技能持續時間,スキル持続時間,ja-JP
+스킬 지속 시간,スキル持続時間,ja-JP
+Fertigkeitsdauer,スキル持続時間,ja-JP
+Durée de la compétence,スキル持続時間,ja-JP
+Duración de la habilidad,スキル持続時間,ja-JP
+Длительность навыка,スキル持続時間,ja-JP
+Skill Duration Up,スキル持続時間延長,ja-JP
+技能持续时间增加,スキル持続時間延長,ja-JP
+技能持續時間增加,スキル持続時間延長,ja-JP
+스킬 지속 시간 증가,スキル持続時間延長,ja-JP
+Fertigkeitsdauer erhöht,スキル持続時間延長,ja-JP
+Augmentation de la durée de la compétence,スキル持続時間延長,ja-JP
+Aumento de duración de habilidad,スキル持続時間延長,ja-JP
+Увеличение длительности навыка,スキル持続時間延長,ja-JP
+Skill Targets,スキルターゲット数,ja-JP
+技能目标数量,スキルターゲット数,ja-JP
+技能目標數量,スキルターゲット数,ja-JP
+스킬 목표 수,スキルターゲット数,ja-JP
+Fertigkeitsziele,スキルターゲット数,ja-JP
+Cibles de la compétence,スキルターゲット数,ja-JP
+Objetivos de habilidad,スキルターゲット数,ja-JP
+Цели навыка,スキルターゲット数,ja-JP
+Skill Targets Up,スキルターゲット数増加,ja-JP
+技能目标数量增加,スキルターゲット数増加,ja-JP
+技能目標數量增加,スキルターゲット数増加,ja-JP
+스킬 목표 수 증가,スキルターゲット数増加,ja-JP
+Fertigkeits-Zielanzahl erhöht,スキルターゲット数増加,ja-JP
+Augmentation du nombre de cibles de la compétence,スキルターゲット数増加,ja-JP
+Aumento de objetivos de habilidad,スキルターゲット数増加,ja-JP
+Увеличение числа целей навыка,スキルターゲット数増加,ja-JP
+Skill Level Up,スキルレベルアップ,ja-JP
+技能等级提升,スキルレベルアップ,ja-JP
+技能等級提升,スキルレベルアップ,ja-JP
+스킬 레벨 상승,スキルレベルアップ,ja-JP
+Fertigkeitslevel erhöht,スキルレベルアップ,ja-JP
+Augmentation du niveau de la compétence,スキルレベルアップ,ja-JP
+Aumento de nivel de habilidad,スキルレベルアップ,ja-JP
+Повышение уровня навыка,スキルレベルアップ,ja-JP
+Skill Range,スキル範囲,ja-JP
+技能范围,スキル範囲,ja-JP
+技能範圍,スキル範囲,ja-JP
+스킬 범위,スキル範囲,ja-JP
+Fertigkeits-Reichweite,スキル範囲,ja-JP
+Portée de la compétence,スキル範囲,ja-JP
+Alcance de habilidad,スキル範囲,ja-JP
+Дальность навыка,スキル範囲,ja-JP
+Skill Range Up,スキル範囲拡大,ja-JP
+技能范围增加,スキル範囲拡大,ja-JP
+技能範圍增加,スキル範囲拡大,ja-JP
+스킬 범위 증가,スキル範囲拡大,ja-JP
+Fertigkeits-Reichweite erhöht,スキル範囲拡大,ja-JP
+Augmentation de la portée de la compétence,スキル範囲拡大,ja-JP
+Aumento del alcance de habilidad,スキル範囲拡大,ja-JP
+Увеличение дальности навыка,スキル範囲拡大,ja-JP
+Skill Uses,スキル発動回数,ja-JP
+技能释放次数,スキル発動回数,ja-JP
+技能釋放次數,スキル発動回数,ja-JP
+스킬 발동 횟수,スキル発動回数,ja-JP
+Fertigkeitsnutzungen,スキル発動回数,ja-JP
+Utilisations de la compétence,スキル発動回数,ja-JP
+Usos de la habilidad,スキル発動回数,ja-JP
+Применения навыка,スキル発動回数,ja-JP
+Skill Uses Up,スキル発動回数増加,ja-JP
+技能释放次数增加,スキル発動回数増加,ja-JP
+技能釋放次數增加,スキル発動回数増加,ja-JP
+스킬 발동 횟수 증가,スキル発動回数増加,ja-JP
+Fertigkeitsnutzungen erhöht,スキル発動回数増加,ja-JP
+Augmentation des utilisations de la compétence,スキル発動回数増加,ja-JP
+Aumento de usos de habilidad,スキル発動回数増加,ja-JP
+Дополнительные применения навыка,スキル発動回数増加,ja-JP
+Shield,シールド値,ja-JP
+护盾值,シールド値,ja-JP
+護盾值,シールド値,ja-JP
+방어막 수치,シールド値,ja-JP
+Schild,シールド値,ja-JP
+Bouclier,シールド値,ja-JP
+Escudo,シールド値,ja-JP
+Щит,シールド値,ja-JP
+Pickup Range,取得範囲,ja-JP
+拾取范围,取得範囲,ja-JP
+拾取範圍,取得範囲,ja-JP
+줍기 범위,取得範囲,ja-JP
+Sammelreichweite,取得範囲,ja-JP
+Portée de ramassage,取得範囲,ja-JP
+Alcance de recogida,取得範囲,ja-JP
+Радиус подбора,取得範囲,ja-JP
+ATK,攻撃力,ja-JP
+攻击力,攻撃力,ja-JP
+攻擊力,攻撃力,ja-JP
+공격력,攻撃力,ja-JP
+ANG,攻撃力,ja-JP
+ATQ,攻撃力,ja-JP
+Атака,攻撃力,ja-JP
+ATK Bonus,攻撃力％,ja-JP
+攻击力百分比,攻撃力％,ja-JP
+攻擊力百分比,攻撃力％,ja-JP
+공격력%,攻撃力％,ja-JP
+ANG-Bonus,攻撃力％,ja-JP
+Bonus d’ATQ,攻撃力％,ja-JP
+Bono de ATQ,攻撃力％,ja-JP
+Бонус к атаке,攻撃力％,ja-JP
+Chaos DMG Bonus,闇異能ダメージ強化,ja-JP
+暗属性伤害增强,闇異能ダメージ強化,ja-JP
+暗屬性傷害增強,闇異能ダメージ強化,ja-JP
+암속성 피해 증강,闇異能ダメージ強化,ja-JP
+Chaos-SCH-Bonus,闇異能ダメージ強化,ja-JP
+Bonus de DÉG de chaos,闇異能ダメージ強化,ja-JP
+Bono de Daño de Caos,闇異能ダメージ強化,ja-JP
+Бонус к урону хаоса,闇異能ダメージ強化,ja-JP
+Chaos Resistance,闇異能ダメージ耐性,ja-JP
+暗属性伤害抗性,闇異能ダメージ耐性,ja-JP
+暗屬性傷害抗性,闇異能ダメージ耐性,ja-JP
+암속성 피해 저항,闇異能ダメージ耐性,ja-JP
+Chaos-Resistenz,闇異能ダメージ耐性,ja-JP
+Résistance au chaos,闇異能ダメージ耐性,ja-JP
+Resist. Caos,闇異能ダメージ耐性,ja-JP
+Сопротивление хаосу,闇異能ダメージ耐性,ja-JP
+Crit DMG,クリティカルダメージ,ja-JP
+暴击伤害,クリティカルダメージ,ja-JP
+暴擊傷害,クリティカルダメージ,ja-JP
+치명 피해,クリティカルダメージ,ja-JP
+KRIT-SCH,クリティカルダメージ,ja-JP
+DÉG CRIT,クリティカルダメージ,ja-JP
+Daño CRIT,クリティカルダメージ,ja-JP
+Крит. урон,クリティカルダメージ,ja-JP
+Crit Rate,クリティカル率,ja-JP
+暴击率,クリティカル率,ja-JP
+暴擊率,クリティカル率,ja-JP
+치명 확률,クリティカル率,ja-JP
+KRIT-Rate,クリティカル率,ja-JP
+Chances de CRIT,クリティカル率,ja-JP
+Prob. CRIT,クリティカル率,ja-JP
+Шанс крит. удара,クリティカル率,ja-JP
+Final DMG Bonus,最終ダメージ強化,ja-JP
+最终伤害增强,最終ダメージ強化,ja-JP
+最終傷害增強,最終ダメージ強化,ja-JP
+최종 피해 증강,最終ダメージ強化,ja-JP
+End-SCH-Bonus,最終ダメージ強化,ja-JP
+Bonus de DÉG finaux,最終ダメージ強化,ja-JP
+Bono de Daño Final,最終ダメージ強化,ja-JP
+Бонус к итоговому урону,最終ダメージ強化,ja-JP
+Healing Bonus,治療アップ,ja-JP
+治疗加成,治療アップ,ja-JP
+治療加成,治療アップ,ja-JP
+치료 보너스,治療アップ,ja-JP
+Heilungsbonus,治療アップ,ja-JP
+Bonus de soins,治療アップ,ja-JP
+Bono de curación,治療アップ,ja-JP
+Бонус к лечению,治療アップ,ja-JP
+Low-HP Healing,瀕死時HP回復,ja-JP
+濒危回复生命,瀕死時HP回復,ja-JP
+瀕危恢復生命,瀕死時HP回復,ja-JP
+위급 시 HP 회복,瀕死時HP回復,ja-JP
+Niedrig-LP-Heilung,瀕死時HP回復,ja-JP
+Soins en cas de PV critiques,瀕死時HP回復,ja-JP
+Curación con PS bajos,瀕死時HP回復,ja-JP
+Исцеление при низком уровне ОЗ,瀕死時HP回復,ja-JP
+Low-HP Healing Amount,瀕死時HP回復,ja-JP
+濒危回复生命值,瀕死時HP回復,ja-JP
+瀕危恢復生命值,瀕死時HP回復,ja-JP
+Niedrig-LP-Heilungsmenge,瀕死時HP回復,ja-JP
+Quantité de soins en cas de PV critiques,瀕死時HP回復,ja-JP
+Cantidad de curación con PS bajos,瀕死時HP回復,ja-JP
+Объём исцеления при низком уровне ОЗ,瀕死時HP回復,ja-JP
+Anima DMG Bonus,霊異能ダメージ強化,ja-JP
+灵属性伤害增强,霊異能ダメージ強化,ja-JP
+靈屬性傷害增強,霊異能ダメージ強化,ja-JP
+령속성 피해 증강,霊異能ダメージ強化,ja-JP
+Anima-SCH-Bonus,霊異能ダメージ強化,ja-JP
+Bonus de DÉG d’anima,霊異能ダメージ強化,ja-JP
+Bono de Daño de Ánima,霊異能ダメージ強化,ja-JP
+Бонус к урону анимы,霊異能ダメージ強化,ja-JP
+Anima Resistance,霊異能ダメージ耐性,ja-JP
+灵属性伤害抗性,霊異能ダメージ耐性,ja-JP
+靈屬性傷害抗性,霊異能ダメージ耐性,ja-JP
+령속성 피해 저항,霊異能ダメージ耐性,ja-JP
+Anima-Resistenz,霊異能ダメージ耐性,ja-JP
+Résistance à l’anima,霊異能ダメージ耐性,ja-JP
+Resist. Ánima,霊異能ダメージ耐性,ja-JP
+Сопротивление анимы,霊異能ダメージ耐性,ja-JP
+Cycle Intensity,連環パワー,ja-JP
+环合强度,連環パワー,ja-JP
+環合強度,連環パワー,ja-JP
+사이클 강도,連環パワー,ja-JP
+Zyklusstärke,連環パワー,ja-JP
+Intensité de cycle,連環パワー,ja-JP
+Intensidad de ciclo,連環パワー,ja-JP
+Интенсивность цикла,連環パワー,ja-JP
+生命值,HP,ja-JP
+LP,HP,ja-JP
+PV,HP,ja-JP
+PS,HP,ja-JP
+ОЗ,HP,ja-JP
+HP Bonus,HP％,ja-JP
+生命值百分比,HP％,ja-JP
+HP%,HP％,ja-JP
+LP-Bonus,HP％,ja-JP
+Bonus de PV,HP％,ja-JP
+Bono de PS,HP％,ja-JP
+Бонус к ОЗ,HP％,ja-JP
+Lakshana DMG Bonus,相異能ダメージ強化,ja-JP
+相属性伤害增强,相異能ダメージ強化,ja-JP
+相屬性傷害增強,相異能ダメージ強化,ja-JP
+상속성 피해 증강,相異能ダメージ強化,ja-JP
+Lakshana-SCH-Bonus,相異能ダメージ強化,ja-JP
+Bonus de DÉG de lakshana,相異能ダメージ強化,ja-JP
+Bono de Daño de Lakshana,相異能ダメージ強化,ja-JP
+Бонус к урону лакшаны,相異能ダメージ強化,ja-JP
+Lakshana Resistance,相異能ダメージ耐性,ja-JP
+相属性伤害抗性,相異能ダメージ耐性,ja-JP
+相屬性傷害抗性,相異能ダメージ耐性,ja-JP
+상속성 피해 저항,相異能ダメージ耐性,ja-JP
+Lakshana-Resistenz,相異能ダメージ耐性,ja-JP
+Résistance au lakshana,相異能ダメージ耐性,ja-JP
+Resist. Lakshana,相異能ダメージ耐性,ja-JP
+Сопротивление лакшане,相異能ダメージ耐性,ja-JP
+Movement Speed Up,移動速度増加,ja-JP
+移速提升,移動速度増加,ja-JP
+이동 속도 상승,移動速度増加,ja-JP
+Erhöhte Bewegungsgeschwindigkeit,移動速度増加,ja-JP
+Augmentation de la vitesse de déplacement,移動速度増加,ja-JP
+Aumento de velocidad de movimiento,移動速度増加,ja-JP
+Повышение скорости движения,移動速度増加,ja-JP
+EXP Gain Rate,Exp獲得効率,ja-JP
+获取经验效率,Exp獲得効率,ja-JP
+獲取經驗效率,Exp獲得効率,ja-JP
+경험치 획득 효율,Exp獲得効率,ja-JP
+EP-Gewinnrate,Exp獲得効率,ja-JP
+Taux de gain d’EXP,Exp獲得効率,ja-JP
+Tasa de obtención de EXP,Exp獲得効率,ja-JP
+Скорость получения ОП,Exp獲得効率,ja-JP
+Universal DMG Bonus,汎用ダメージ強化,ja-JP
+通用伤害增强,汎用ダメージ強化,ja-JP
+通用傷害增強,汎用ダメージ強化,ja-JP
+통용 피해 증강,汎用ダメージ強化,ja-JP
+Universal-SCH-Bonus,汎用ダメージ強化,ja-JP
+Bonus de DÉG universels,汎用ダメージ強化,ja-JP
+Bono de Daño Universal,汎用ダメージ強化,ja-JP
+Бонус к урону,汎用ダメージ強化,ja-JP
+DEF,防御力,ja-JP
+防禦力,防御力,ja-JP
+방어력,防御力,ja-JP
+VER,防御力,ja-JP
+DÉF,防御力,ja-JP
+Защита,防御力,ja-JP
+DEF Bonus,防御力％,ja-JP
+防御力百分比,防御力％,ja-JP
+防禦力百分比,防御力％,ja-JP
+방어력%,防御力％,ja-JP
+VER-Bonus,防御力％,ja-JP
+Bonus de DÉF,防御力％,ja-JP
+Bono de DEF,防御力％,ja-JP
+Бонус к защите,防御力％,ja-JP
+Penetration,防御無視,ja-JP
+防御无视,防御無視,ja-JP
+防禦無視,防御無視,ja-JP
+방어 무시,防御無視,ja-JP
+Durchschlag,防御無視,ja-JP
+Pénétration,防御無視,ja-JP
+Penetración,防御無視,ja-JP
+Пробивание,防御無視,ja-JP
+Tenacity,靭性値,ja-JP
+韧性值,靭性値,ja-JP
+韌性值,靭性値,ja-JP
+근성,靭性値,ja-JP
+Zähigkeit,靭性値,ja-JP
+Ténacité,靭性値,ja-JP
+Tenacidad,靭性値,ja-JP
+Стойкость,靭性値,ja-JP
+Tenacity Resistance,靭性抵抗,ja-JP
+韧性抵抗,靭性抵抗,ja-JP
+韌性抵抗,靭性抵抗,ja-JP
+근성 저항,靭性抵抗,ja-JP
+Zähigkeit-Resistenz,靭性抵抗,ja-JP
+Résistance à la ténacité,靭性抵抗,ja-JP
+Resist. Tenacidad,靭性抵抗,ja-JP
+Сопротивление стойкости,靭性抵抗,ja-JP
+Tenacity Break Efficiency,靭性破壊効率,ja-JP
+韧性破坏效率,靭性破壊効率,ja-JP
+韌性破壞效率,靭性破壊効率,ja-JP
+근성 파괴 효율,靭性破壊効率,ja-JP
+Zähigkeitsbruch-Effizienz,靭性破壊効率,ja-JP
+Efficacité de rupture de la ténacité,靭性破壊効率,ja-JP
+Eficiencia de ruptura de tenacidad,靭性破壊効率,ja-JP
+Эффективность пробоя стойкости,靭性破壊効率,ja-JP
+Psyche DMG Bonus,魂異能ダメージ強化,ja-JP
+魂属性伤害增强,魂異能ダメージ強化,ja-JP
+魂屬性傷害增強,魂異能ダメージ強化,ja-JP
+혼속성 피해 증강,魂異能ダメージ強化,ja-JP
+Psyche-SCH-Bonus,魂異能ダメージ強化,ja-JP
+Bonus de DÉG de psyché,魂異能ダメージ強化,ja-JP
+Bono de Daño de Psique,魂異能ダメージ強化,ja-JP
+Бонус к урону психики,魂異能ダメージ強化,ja-JP
+Psyche Resistance,魂異能ダメージ耐性,ja-JP
+魂属性伤害抗性,魂異能ダメージ耐性,ja-JP
+魂屬性傷害抗性,魂異能ダメージ耐性,ja-JP
+혼속성 피해 저항,魂異能ダメージ耐性,ja-JP
+Psyche-Resistenz,魂異能ダメージ耐性,ja-JP
+Résistance à la psyché,魂異能ダメージ耐性,ja-JP
+Resist. Psique,魂異能ダメージ耐性,ja-JP
+Сопротивление психике,魂異能ダメージ耐性,ja-JP
