@@ -1,0 +1,8 @@
+﻿category,label,term_count,glossary_count,glossary_file,terms_file,target_language
+00_game_title,游戏与测试名称,2,10,00_game_title/00_game_title_glossary.csv,00_game_title/00_game_title_terms.csv,tr-TR
+01_neighbor,邻居与角色,38,379,01_neighbor/01_neighbor_glossary.csv,01_neighbor/01_neighbor_terms.csv,tr-TR
+02_location,星球与地区,4,21,02_location/02_location_glossary.csv,02_location/02_location_terms.csv,tr-TR
+06_test_version,测试版本,3,41,06_test_version/06_test_version_glossary.csv,06_test_version/06_test_version_terms.csv,tr-TR
+18_ui,系统与UI,36,449,18_ui/18_ui_glossary.csv,18_ui/18_ui_terms.csv,tr-TR
+21_world_term,游戏机制术语,20,258,21_world_term/21_world_term_glossary.csv,21_world_term/21_world_term_terms.csv,tr-TR
+22_title_tag,称号与标签,10,140,22_title_tag/22_title_tag_glossary.csv,22_title_tag/22_title_tag_terms.csv,tr-TR
