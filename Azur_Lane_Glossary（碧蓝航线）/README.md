@@ -11,55 +11,58 @@
 
 ## 使用方法
 
-1. **单文件下载**：进入对应语言目录（如 `en-US/`），下载 `azur_lane_glossary.csv`、`azur_lane_ship_character_glossary.csv` 或 `azur_lane_terms.csv`，即可直接导入沉浸式翻译等术语工具。
-2. **整个语言目录打包下载**：一次取得该语言的舰船名与术语全部条目（含 `*_detailed.csv` 明细表）。
-3. **克隆整个仓库自行复现**：配合 `tools/` 下的脚本与上游 `AzurLaneData` 配置（见「使用的相关内容」）重跑生成流程。
+1. **单文件下载**：进入 `azur-lane-glossary/<语言>/`（如 `azur-lane-glossary/en-US/`），下载 `glossary.csv`、`ship-characters.csv` 或 `terms.csv`，即可直接导入沉浸式翻译等术语工具。
+2. **整个语言目录打包下载**：一次取得该语言的舰船名与术语全部条目（含 `glossary-detailed.csv`、`ship-characters-detailed.csv`、`terms-detailed.csv` 明细表）。
+3. **克隆整个仓库自行复现**：配合根目录 `tools/` 下的脚本与上游 `AzurLaneData` 配置（见「使用的相关内容」）重跑生成流程。
 
 ## 目录结构
 
 ```text
 Azur_Lane_Glossary（碧蓝航线）/
-├─ zh-CN/                                  简体中文术语库（target = 简中）
-│     azur_lane_glossary.csv                   舰船名（简中标准名为源）
-│     azur_lane_glossary_detailed.csv          同上 + ship_id / 舰种 / 阵营 / 变体
-│     azur_lane_ship_character_glossary.csv    舰船名（简中和谐名为源）
-│     azur_lane_ship_character_glossary_detailed.csv
-│     azur_lane_terms.csv                      航海 / 军事 / 游戏术语
-│     azur_lane_terms_detailed.csv             同上 + category / same_source_alternatives
-│     azur_lane_ambiguous.csv                  一名多解的源词条（仅 zh-CN）
-│     azur_lane_combined_ships_and_terms.csv   舰船 + 术语合并版（仅 zh-CN）
-│     README.md                                本目录说明（简体中文）
-├─ en-US/                                  同上 6 个 CSV + README.md / README_zh-CN.md
-├─ ja-JP/                                  同上 6 个 CSV + README.md / README_zh-CN.md
-├─ ko-KR/                                  同上 6 个 CSV + README.md / README_zh-CN.md
-├─ by_language/                            按源语言拆分的舰船子表，target 一律为简中
-│     azur_lane_glossary_en-zh-CN.csv
-│     azur_lane_glossary_ja-zh-CN.csv
-│     azur_lane_glossary_ko-zh-CN.csv
-│     azur_lane_glossary_zh-TW-zh-CN.csv
-├─ sources/
-│     moegirl_name_table.json              萌娘百科《碧蓝航线/名称对照表》抓取结果，用于交叉校验
-├─ tools/                                  生成脚本与统计元数据
-│     build_glossary.py                        舰船词库（简中标准名）+ 五语总表 + by_language + 歧义表 + 单字代称
-│     build_harmonized.py                      和谐名对照表
-│     build_ship_character_glossary.py         舰船角色术语表（简中和谐名）
-│     build_multilang_glossaries.py            舰船的 en-US / ja-JP / ko-KR 版本
-│     build_terms_glossaries.py                术语表的四语版本
-│     terms_data.py                            术语词条数据源（人工维护）
-│     build_stats.json                         生成统计元数据（上次构建输出）
-├─ azur_lane_ship_names_multilingual.csv   891 艘舰船的中/英/日/繁/韩五语总表（源数据）
-├─ azur_lane_harmonized_ship_names.csv     和谐名对照（原名 → 和谐名，1187 行）
-├─ azur_lane_harmonized_names_detailed.csv 和谐名明细（1259 行，含萌娘百科校验注记）
-├─ azur_lane_harmonized_equipment.csv      舰载机等装备和谐名 8 条
-├─ azur_lane_ijn_codename_aliases.csv      旧日本海军单字代称对照（柚 → 绫波，1082 行）
-└─ README.md / README_EN.md / README_JP.md 中文 / English / 日本語说明
+├─ azur-lane-glossary/                      多语言数据容器
+│  ├─ README.md                             子库说明（简体中文）
+│  ├─ zh-CN/                                简体中文术语库（target = 简中）
+│  │  ├─ glossary.csv                       舰船名（简中标准名为源）
+│  │  ├─ glossary-detailed.csv              同上 + ship_id / 舰种 / 阵营 / 变体
+│  │  ├─ ship-characters.csv                舰船名（简中和谐名为源）
+│  │  ├─ ship-characters-detailed.csv
+│  │  ├─ terms.csv                          航海 / 军事 / 游戏术语
+│  │  ├─ terms-detailed.csv                 同上 + category / same_source_alternatives
+│  │  ├─ ambiguous.csv                      一名多解的源词条（仅 zh-CN）
+│  │  ├─ ships-and-terms.csv                舰船 + 术语合并版（仅 zh-CN）
+│  │  ├─ README.md                          本语言目录说明（简体中文）
+│  ├─ en-US/                                同上 6 个 CSV + README.md / README_zh-CN.md
+│  ├─ ja-JP/                                同上 6 个 CSV + README.md / README_zh-CN.md
+│  ├─ ko-KR/                                同上 6 个 CSV + README.md / README_zh-CN.md
+│  ├─ harmonized/                           源数据与和谐名 / 别称对照表
+│  │  ├─ ship-names-multilingual.csv        891 艘舰船的中/英/日/繁/韩五语总表
+│  │  ├─ ship-names-harmonized.csv          和谐名对照（原名 → 和谐名，1187 行）
+│  │  ├─ harmonized-names-detailed.csv      和谐名明细（1259 行，含萌网百科校验注记）
+│  │  ├─ equipment-harmonized.csv           舰载机等装备和谐名 8 条
+│  │  └─ ijn-codename-aliases.csv           旧日本海军单字代称对照（柚 → 绫波，1082 行）
+│  ├─ by-language/                          按源语言拆分的舰船子表，target 一律为简中
+│  │  ├─ glossary_en-zh-CN.csv
+│  │  ├─ glossary_ja-zh-CN.csv
+│  │  ├─ glossary_ko-zh-CN.csv
+│  │  └─ glossary_zh-TW-zh-CN.csv
+│  └─ sources/
+│     └─ moegirl_name_table.json            萌娘百科《碧蓝航线/名称对照表》抓取结果，用于交叉校验
+├─ tools/                                   生成脚本与统计元数据
+│  ├─ build_glossary.py                     舰船词库（简中标准名）+ 五语总表 + by-language + 歧义表 + 单字代称
+│  ├─ build_harmonized.py                   和谐名对照表
+│  ├─ build_ship_character_glossary.py      舰船角色术语表（简中和谐名）
+│  ├─ build_multilang_glossaries.py         舰船的 en-US / ja-JP / ko-KR 版本
+│  ├─ build_terms_glossaries.py             术语表的四语版本
+│  ├─ terms_data.py                         术语词条数据源（人工维护）
+│  └─ build_stats.json                      生成统计元数据（上次构建输出）
+└─ README.md / README_EN.md / README_JP.md  中文 / English / 日本語说明
 ```
 
-四个语言目录的入口文件结构完全一致（`zh-CN` 另有 `azur_lane_ambiguous.csv` 与
-`azur_lane_combined_ships_and_terms.csv` 两个文件）：`target` 为该语言的名称，
-`tgt_lng` 相应固定为 `zh-CN` / `en-US` / `ja-JP` / `ko-KR`；`source` 收录其余所有语言的写法。
-`by_language/` 是同一批舰船的**源语言侧视图**（英语 1544 行、日语 696 行、韩语 814 行、繁体 538 行，
-合计 3592 行 = `zh-CN/azur_lane_glossary_detailed.csv` 的行数）。
+四个语言目录的入口文件结构完全一致：`target` 为该语言的名称，
+`tgt_lng` 相应固定为 `zh-CN` / `en-US` / `ja-JP` / `ko-KR`；`source` 收录其余语言的写法。
+`zh-CN` 另有 `ambiguous.csv` 与 `ships-and-terms.csv` 两个文件。
+`by-language/` 是同一批舰船的**源语言侧视图**（英语 1544 行、日语 696 行、韩语 814 行、繁体 538 行，
+合计 3592 行 = `azur-lane-glossary/zh-CN/glossary-detailed.csv` 的行数）。
 
 ## 数据概览
 
@@ -72,16 +75,16 @@ Azur_Lane_Glossary（碧蓝航线）/
 | `ja-JP` | 877 / 3516 | 877 / 3805 | 125 / 356 |
 | `ko-KR` | 850 / 3481 | 850 / 3769 | 165 / 459 |
 
-- **词条数** = 该语言目录的 `azur_lane_*.csv` 中 `target` 列去重后的条数（即该语言有译名的舰船／术语数）；
+- **词条数** = 该语言目录的 `*.csv` 中 `target` 列去重后的条数（即该语言有译名的舰船／术语数）；
   **对照行数** = CSV 数据行数，不含表头（UTF-8 with BOM + CRLF，Excel 可直接打开）。
-- 同名明细表：`azur_lane_glossary_detailed.csv` 行数为 3592（zh-CN）/ 2809（en-US）/ 3596（ja-JP）/ 3525（ko-KR）；
-  `azur_lane_ship_character_glossary_detailed.csv` 行数为 3890 / 3104 / 3890 / 3818。
-- 仅 `zh-CN` 提供的两个附加表：`azur_lane_ambiguous.csv` 162 行（涉及 77 个一名多解的源串）、
-  `azur_lane_combined_ships_and_terms.csv` 3985 行（舰船 3592 行与术语 475 行合并去重后）。
+- 同名明细表：`glossary-detailed.csv` 行数为 3592（zh-CN）/ 2809（en-US）/ 3596（ja-JP）/ 3525（ko-KR）；
+  `ship-characters-detailed.csv` 行数为 3890 / 3104 / 3890 / 3818。
+- 仅 `zh-CN` 提供的两个附加表：`ambiguous.csv` 162 行（涉及 77 个一名多解的源串）、
+  `ships-and-terms.csv` 3985 行（舰船 3592 行与术语 475 行合并去重后）。
 
 ### 分类 × 条数
 
-舰船变体（以 `zh-CN/azur_lane_ship_character_glossary_detailed.csv` 统计，共 **884 名舰船角色**）：
+舰船变体（以 `azur-lane-glossary/zh-CN/ship-characters-detailed.csv` 统计，共 **884 名舰船角色**）：
 
 | 变体 | 舰船数 | 对照行 |
 | --- | --- | --- |
@@ -91,7 +94,7 @@ Azur_Lane_Glossary（碧蓝航线）/
 | II 型 | 10 | 43 |
 | **合计** | **884** | **3890** |
 
-术语五类（以 `zh-CN/azur_lane_terms_detailed.csv` 统计）：
+术语五类（以 `azur-lane-glossary/zh-CN/terms-detailed.csv` 统计）：
 
 | `category` | 主题 | 概念数 | 对照行 |
 | --- | --- | --- | --- |
@@ -110,14 +113,14 @@ Azur_Lane_Glossary（碧蓝航线）/
 
 | 文件 | zh-CN | en-US | ja-JP | ko-KR |
 | --- | --- | --- | --- | --- |
-| `azur_lane_glossary.csv`（标准简中名为源） | 3514 | 2795 | 3516 | 3481 |
-| `azur_lane_ship_character_glossary.csv`（和谐简中名为源） | 3804 | 3084 | 3805 | 3769 |
+| `glossary.csv`（标准简中名为源） | 3514 | 2795 | 3516 | 3481 |
+| `ship-characters.csv`（和谐简中名为源） | 3804 | 3084 | 3805 | 3769 |
 
 - 覆盖 **891 艘舰船 / 884 名舰船角色**，含 META、μ兵装、II 型、联动舰船。
-- `azur_lane_ship_character_glossary` 的 `target` 一律为**简中服实际显示名称**：
+- `ship-characters` 的 `target` 一律为**简中服实际显示名称**：
   有和谐名的用和谐名（**295 名**），没有的用标准中文名；其余语言版本则以对应语种舰名为 `target`。
 - 源语言包含：简中标准名、简中和谐名、英文名、英文全称（如 `IJN Fubuki`）、日文名、繁体名、韩文名。
-- 示例（`azur_lane_glossary.csv`，每个语言目录内的实际条目）：
+- 示例（`glossary.csv`，每个语言目录内的实际条目）：
 
 ```
 | source                    | target            | tgt_lng |
@@ -130,7 +133,7 @@ Azur_Lane_Glossary（碧蓝航线）/
 | イラストリアス(μ兵装)              | 光辉(μ兵装)          | zh-CN   |
 ```
 
-- 示例（`azur_lane_ship_character_glossary.csv`，和谐简中名为源；`柚` 是 `绫波` 的简中和谐名）：
+- 示例（`ship-characters.csv`，和谐简中名为源；`柚` 是 `绫波` 的简中和谐名）：
 
 ```
 | source                    | target            | tgt_lng |
@@ -142,28 +145,28 @@ Azur_Lane_Glossary（碧蓝航线）/
 ```
 
 - 每个源词条在主表只保留一条译文；同名多解取**舰船 id 最小者**，全部可能写法记入 detailed 表的
-  `same_source_alternatives`。例：`ja-JP/azur_lane_glossary_detailed.csv` 中 `HMS Belfast` 同时对应
+  `same_source_alternatives`。例：`azur-lane-glossary/ja-JP/glossary-detailed.csv` 中 `HMS Belfast` 同时对应
   `ベルファスト`（id 202121）与 `ベルちゃん`（id 202181），主表保留 id 较小的 `ベルファスト`，
   两个读法都写在 `same_source_alternatives` 里；`zh-CN` 侧对应 `贝尔法斯特` / `小贝法`。
 - 只有 **亚尔薇特（Alvitr，铁血战巡，ship_id 404061）** 一名铁血角色无和谐名 —— 游戏配置与社区对照表均无该条目。
 
 ### 航海 / 军事 / 游戏术语表
 
-`azur_lane_terms.csv`：人工维护 **176 个概念**（生成表中 175 个带对照行），原始源语言词条 478 条
+`terms.csv`：人工维护 **176 个概念**（生成表中 175 个带对照行），原始源语言词条 478 条
 （英文 175、日文 127、韩文 176）。
 
 | 目标语言 | 条目数 |
 | --- | --- |
-| `zh-CN/azur_lane_terms.csv` | 449 |
-| `en-US/azur_lane_terms.csv` | 404 |
-| `ja-JP/azur_lane_terms.csv` | 356 |
-| `ko-KR/azur_lane_terms.csv` | 459 |
+| `azur-lane-glossary/zh-CN/terms.csv` | 449 |
+| `azur-lane-glossary/en-US/terms.csv` | 404 |
+| `azur-lane-glossary/ja-JP/terms.csv` | 356 |
+| `azur-lane-glossary/ko-KR/terms.csv` | 459 |
 
 - 五大类：`hull_type` 舰种 31、`naval_term` 航海／军事术语 72、`navy_prefix` 阵营与舰名前缀 24、
   `rank` 军衔 24、`game_term` 游戏术语 24（detailed 表带 `category` / `category_zh` 列）。
 - 同一源词有多个概念时（如韩文 `대령` 既指「海军上校」也指「大佐」），主表取首个概念，
   其余写法记入 detailed 表的 `same_source_alternatives`。
-- 示例（`ko-KR/azur_lane_terms.csv`）：
+- 示例（`azur-lane-glossary/ko-KR/terms.csv`）：
 
 ```
 | source         | target   | tgt_lng |
@@ -208,14 +211,14 @@ Azur_Lane_Glossary（碧蓝航线）/
 | 来源 | 用途 |
 | --- | --- |
 | [AzurLaneTools/AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData) | CN / EN / JP / KR / TW 五服客户端配置：`sharecfgdata/ship_data_statistics.json`（各服舰船名）、`sharecfgdata/ship_data_template.json`（舰船唯一性过滤）、`ShareCfg/ship_skin_template.json`（`ship_group` 归一）、`ShareCfg/ship_data_by_type.json`（舰种名）、`ShareCfg/name_code.json`（和谐名与单字代称） |
-| 萌娘百科《[碧蓝航线/名称对照表](https://zh.moegirl.org.cn/碧蓝航线/名称对照表)》 | 和谐名交叉校验；抓取结果保存在 `sources/moegirl_name_table.json`，不一致的条目在 `azur_lane_harmonized_names_detailed.csv` 的 `wiki_note` 列注明 |
+| 萌娘百科《[碧蓝航线/名称对照表](https://zh.moegirl.org.cn/碧蓝航线/名称对照表)》 | 和谐名交叉校验；抓取结果保存在 `azur-lane-glossary/sources/moegirl_name_table.json`，不一致的条目在 `azur-lane-glossary/harmonized/harmonized-names-detailed.csv` 的 `wiki_note` 列注明 |
 
 ## 生成与复现
 
 脚本位于 `tools/`，一律以 `tools/` 为前缀调用（在游戏目录下执行）：
 
 ```bash
-# 1) 舰船词库（简中标准名）+ 五语总表 + by_language + 歧义表 + IJN 单字代称
+# 1) 舰船词库（简中标准名）+ 五语总表 + by-language + 歧义表 + IJN 单字代称
 python tools/build_glossary.py
 
 # 2) 和谐名对照表（依赖 1) 产出的五语总表）
@@ -232,7 +235,7 @@ python tools/build_terms_glossaries.py
 ```
 
 游戏数据更新后按上表顺序重跑即可（`build_harmonized.py` 与 `build_multilang_glossaries.py` 依赖
-`build_glossary.py` 产出的 `azur_lane_ship_names_multilingual.csv`）。
+`build_glossary.py` 产出的 `azur-lane-glossary/harmonized/ship-names-multilingual.csv`）。
 术语词条在 `tools/terms_data.py` 中维护，四个语言版本由 `build_terms_glossaries.py` 自动生成；
 生成统计写入 `build_stats.json`（本仓库内的副本为 `tools/build_stats.json`）。
 注意：脚本内的 `BASE` / `OUT` 路径常量指向**仓库外**的上游配置目录与生成工作目录，

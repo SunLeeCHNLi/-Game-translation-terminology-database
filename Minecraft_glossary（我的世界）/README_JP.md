@@ -6,7 +6,7 @@
 
 ## 使用方法
 
-1. **単一ファイルのダウンロード**：該当する言語ディレクトリ（例：`minecraft-glossary/zh-CN/`。システム系・テキスト系の分類はその言語ディレクトリ内の `extra/` サブフォルダにあります）を開き、必要な分類ファイル（`blocks.csv` / `items.csv` / `extra/subtitles.csv` など）だけをダウンロードします。Immersive Translate など用語リストに対応したツールへそのまま取り込めます。
+1. **単一ファイルのダウンロード**：該当する言語ディレクトリ（例：`minecraft-glossary/zh-CN/`。システム系・テキスト系の分類はその言語ディレクトリ内の `extra-` サブフォルダにあります）を開き、必要な分類ファイル（`blocks.csv` / `items.csv` / `extra-subtitles.csv` など）だけをダウンロードします。Immersive Translate など用語リストに対応したツールへそのまま取り込めます。
 2. **言語ディレクトリごとダウンロード**：ひとつの言語ディレクトリ（例：`minecraft-glossary/ja-JP/`）をまとめてダウンロードし、必要な分類ファイルを選んで使います。補助用語集は `minecraft-glossary-supplement/zh-CN/` と `minecraft-glossary-supplement/zh-TW/` にあります。
 3. **リポジトリ全体をクローンして再現**：`tools/` のスクリプトと「使用した関連コンテンツ」に挙げた上流リポジトリを用意すれば、すべての CSV とメタデータを自分で再生成できます（「再生成」を参照）。
 
@@ -23,7 +23,7 @@ Minecraft_glossary（我的世界）/
 │   │   ├── blocks.csv            # ゲーム内容の分類、19 ファイル
 │   │   ├── items.csv
 │   │   ├── ...
-│   │   └── extra/                # システム系・テキスト系の分類、15 ファイル
+│   │   └── extra-                # システム系・テキスト系の分類、15 ファイル
 │   │       ├── subtitles.csv
 │   │       └── ...
 │   ├── zh-TW/                    # 対象言語 = 繁体字中国語
@@ -52,7 +52,7 @@ Minecraft_glossary（我的世界）/
     └── supplement_counts.json    # 補助用語集の言語別・分類別の項目数統計
 ```
 
-各言語ディレクトリにはゲーム内容の 19 分類 CSV に加えて、システム系・テキスト系 15 分類の CSV を入れた `extra/` サブフォルダがあります（1 言語あたり 34 CSV）。CSV のファイル名がそのまま分類名です。
+各言語ディレクトリにはゲーム内容の 19 分類 CSV に加えて、システム系・テキスト系 15 分類の CSV を入れた `extra-` サブフォルダがあります（1 言語あたり 34 CSV）。CSV のファイル名がそのまま分類名です。
 
 ## データ概要
 
@@ -110,25 +110,25 @@ Minecraft_glossary（我的世界）/
 | sound-categories | `sound-categories.csv` | サウンドカテゴリ | 11 | 133 |
 | game-modes | `game-modes.csv` | ゲームモード | 6 | 77 |
 
-### 本編の `extra/` 分類（システム系・テキスト系、15）
+### 本編の `extra-` 分類（システム系・テキスト系、15）
 
 | 分類 | ファイル | 説明 | 項目数 | zh-CN 行数 |
 | --- | --- | --- | --- | --- |
-| subtitles | `extra/subtitles.csv` | 字幕 | 1023 | 12407 |
-| death-messages | `extra/death-messages.csv` | 死亡メッセージ | 106 | 1334 |
-| advancement-titles | `extra/advancement-titles.csv` | 進捗のタイトル | 127 | 1603 |
-| advancement-descriptions | `extra/advancement-descriptions.csv` | 進捗の説明 | 127 | 1641 |
-| gamerules | `extra/gamerules.csv` | ゲームルール | 117 | 1490 |
-| commands | `extra/commands.csv` | コマンドと引数 | 856 | 10758 |
-| gui | `extra/gui.csv` | 画面テキスト | 581 | 6604 |
-| options | `extra/options.csv` | 設定とキー割り当て | 754 | 8165 |
-| multiplayer | `extra/multiplayer.csv` | マルチプレイ | 173 | 2013 |
-| realms | `extra/realms.csv` | Realms | 426 | 4962 |
-| world-management | `extra/world-management.csv` | ワールド管理 | 294 | 3578 |
-| resource-packs | `extra/resource-packs.csv` | リソースパックとデータパック | 62 | 761 |
-| telemetry | `extra/telemetry.csv` | テレメトリ | 70 | 897 |
-| dev-tools | `extra/dev-tools.csv` | 開発・テスト用ツール | 144 | 1811 |
-| misc | `extra/misc.csv` | その他 | 53 | 516 |
+| subtitles | `extra-subtitles.csv` | 字幕 | 1023 | 12407 |
+| death-messages | `extra-death-messages.csv` | 死亡メッセージ | 106 | 1334 |
+| advancement-titles | `extra-advancement-titles.csv` | 進捗のタイトル | 127 | 1603 |
+| advancement-descriptions | `extra-advancement-descriptions.csv` | 進捗の説明 | 127 | 1641 |
+| gamerules | `extra-gamerules.csv` | ゲームルール | 117 | 1490 |
+| commands | `extra-commands.csv` | コマンドと引数 | 856 | 10758 |
+| gui | `extra-gui.csv` | 画面テキスト | 581 | 6604 |
+| options | `extra-options.csv` | 設定とキー割り当て | 754 | 8165 |
+| multiplayer | `extra-multiplayer.csv` | マルチプレイ | 173 | 2013 |
+| realms | `extra-realms.csv` | Realms | 426 | 4962 |
+| world-management | `extra-world-management.csv` | ワールド管理 | 294 | 3578 |
+| resource-packs | `extra-resource-packs.csv` | リソースパックとデータパック | 62 | 761 |
+| telemetry | `extra-telemetry.csv` | テレメトリ | 70 | 897 |
+| dev-tools | `extra-dev-tools.csv` | 開発・テスト用ツール | 144 | 1811 |
+| misc | `extra-misc.csv` | その他 | 53 | 516 |
 
 ### 補助用語集の分類（Wiki 訳名標準化、13）
 

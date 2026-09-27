@@ -4,14 +4,14 @@
 
 Этот каталог — глоссарий, **целевой язык которого — русский (`ru-RU`)**.
 В нём **101,629 строк соответствий** в **34 CSV-файлах** (34 категории: 19 в корне каталога
-и 15 в `extra/`); столбец `tgt_lng` всегда равен `ru-RU`, а столбец `source` содержит написания
+и 15 в `extra-`); столбец `tgt_lng` всегда равен `ru-RU`, а столбец `source` содержит написания
 на остальных 13 языках. Целевые переводы взяты из **официальных языковых файлов Minecraft
 Java Edition**, а не из повторного перевода.
 
 ## Файлы
 
 - `<категория>.csv` (19 файлов) — три столбца `source,target,tgt_lng`, готовы к импорту в CAT-системы и глоссарии
-- `extra/<категория>.csv` (15 файлов) — те же три столбца, для системных и текстовых категорий
+- `extra-<категория>.csv` (15 файлов) — те же три столбца, для системных и текстовых категорий
 
 ## Категории и количество
 
@@ -37,25 +37,25 @@ Java Edition**, а не из повторного перевода.
 | `sound-categories` | Категории звука | `sound-categories.csv` | 133 |
 | `game-modes` | Режимы игры | `game-modes.csv` | 77 |
 
-### `extra/` (система и текст)
+### `extra-` (система и текст)
 
 | Категория | Тема | Файл | Строк |
 | --- | --- | --- | --- |
-| `subtitles` | Субтитры | `extra/subtitles.csv` | 12,573 |
-| `death-messages` | Сообщения о смерти | `extra/death-messages.csv` | 1,347 |
-| `advancement-titles` | Названия достижений | `extra/advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | Описания достижений | `extra/advancement-descriptions.csv` | 1,650 |
-| `gamerules` | Игровые правила | `extra/gamerules.csv` | 1,502 |
-| `commands` | Команды и аргументы | `extra/commands.csv` | 10,776 |
-| `gui` | Тексты интерфейса | `extra/gui.csv` | 6,643 |
-| `options` | Настройки и клавиши | `extra/options.csv` | 8,200 |
-| `multiplayer` | Сетевая игра | `extra/multiplayer.csv` | 2,025 |
-| `realms` | Realms | `extra/realms.csv` | 5,042 |
-| `world-management` | Управление мирами | `extra/world-management.csv` | 3,561 |
-| `resource-packs` | Ресурспаки и датапаки | `extra/resource-packs.csv` | 761 |
-| `telemetry` | Телеметрия | `extra/telemetry.csv` | 897 |
-| `dev-tools` | Инструменты разработки и тестирования | `extra/dev-tools.csv` | 1,811 |
-| `misc` | Прочее | `extra/misc.csv` | 524 |
+| `subtitles` | Субтитры | `extra-subtitles.csv` | 12,573 |
+| `death-messages` | Сообщения о смерти | `extra-death-messages.csv` | 1,347 |
+| `advancement-titles` | Названия достижений | `extra-advancement-titles.csv` | 1,603 |
+| `advancement-descriptions` | Описания достижений | `extra-advancement-descriptions.csv` | 1,650 |
+| `gamerules` | Игровые правила | `extra-gamerules.csv` | 1,502 |
+| `commands` | Команды и аргументы | `extra-commands.csv` | 10,776 |
+| `gui` | Тексты интерфейса | `extra-gui.csv` | 6,643 |
+| `options` | Настройки и клавиши | `extra-options.csv` | 8,200 |
+| `multiplayer` | Сетевая игра | `extra-multiplayer.csv` | 2,025 |
+| `realms` | Realms | `extra-realms.csv` | 5,042 |
+| `world-management` | Управление мирами | `extra-world-management.csv` | 3,561 |
+| `resource-packs` | Ресурспаки и датапаки | `extra-resource-packs.csv` | 761 |
+| `telemetry` | Телеметрия | `extra-telemetry.csv` | 897 |
+| `dev-tools` | Инструменты разработки и тестирования | `extra-dev-tools.csv` | 1,811 |
+| `misc` | Прочее | `extra-misc.csv` | 524 |
 
 ### Список файлов
 
@@ -81,7 +81,7 @@ minecraft-glossary/
 |   music.csv
 |   sound-categories.csv
 |   game-modes.csv
-|   +-- extra/               # системные и текстовые категории
+|   +-- extra-               # системные и текстовые категории
 |       |-- subtitles.csv
 |       |-- death-messages.csv
 |       |-- advancement-titles.csv

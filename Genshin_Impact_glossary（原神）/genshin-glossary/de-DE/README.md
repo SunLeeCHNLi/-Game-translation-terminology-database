@@ -10,8 +10,8 @@ Dieses Sprachverzeichnis enthält **27 CSV-Dateien** auf zwei Ebenen:
 
 - **17 Hauptkategorien** (direkt im Verzeichnis):
   `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv`
-- **10 TCG-Unterkategorien** (im Unterordner `TCG/`):
-  `TCG/action-cards.csv`, `TCG/character-cards.csv`, `TCG/enemy-cards.csv`, `TCG/summons.csv`, `TCG/status-effects.csv`, `TCG/keywords.csv`, `TCG/card-backs.csv`, `TCG/card-boxes.csv`, `TCG/detailed-rules.csv`, `TCG/level-rewards.csv`
+- **10 TCG-Unterkategorien** (im Unterordner `tcg-`):
+  `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv`
 
 Jede Datei hat genau drei Spalten:
 
@@ -42,16 +42,16 @@ Jede Datei hat genau drei Spalten:
 | `geographies.csv` | Orts- und Gebietsnamen | 268 | 3,389 |
 | `achievements.csv` | Erfolge | 1,548 | 19,464 |
 | `adventureranks.csv` | Abenteurerstufen-Texte | 21 | 157 |
-| `TCG/action-cards.csv` | Aktionskarten | 927 | 9,530 |
-| `TCG/character-cards.csv` | Charakterkarten | 149 | 929 |
-| `TCG/enemy-cards.csv` | Gegnerkarten | 134 | 1,114 |
-| `TCG/summons.csv` | Beschwörungen | 152 | 1,139 |
-| `TCG/status-effects.csv` | Statuseffekte | 1,159 | 11,217 |
-| `TCG/keywords.csv` | Schlüsselwörter | 139 | 1,511 |
-| `TCG/card-backs.csv` | Kartenrücken | 39 | 407 |
-| `TCG/card-boxes.csv` | Kartenboxen | 7 | 32 |
-| `TCG/detailed-rules.csv` | Ausführliche Regeln | 11 | 142 |
-| `TCG/level-rewards.csv` | Stufenbelohnungen | 26 | 169 |
+| `tcg-action-cards.csv` | Aktionskarten | 927 | 9,530 |
+| `tcg-character-cards.csv` | Charakterkarten | 149 | 929 |
+| `tcg-enemy-cards.csv` | Gegnerkarten | 134 | 1,114 |
+| `tcg-summons.csv` | Beschwörungen | 152 | 1,139 |
+| `tcg-status-effects.csv` | Statuseffekte | 1,159 | 11,217 |
+| `tcg-keywords.csv` | Schlüsselwörter | 139 | 1,511 |
+| `tcg-card-backs.csv` | Kartenrücken | 39 | 407 |
+| `tcg-card-boxes.csv` | Kartenboxen | 7 | 32 |
+| `tcg-detailed-rules.csv` | Ausführliche Regeln | 11 | 142 |
+| `tcg-level-rewards.csv` | Stufenbelohnungen | 26 | 169 |
 | **Hauptkategorien (17 Dateien)** | — | **5,443** | **63,172** |
 | **TCG (10 Dateien)** | — | **2,743** | **26,190** |
 | **Gesamt (27 Dateien)** | — | **8,186** | **89,362** |

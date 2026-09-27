@@ -14,60 +14,62 @@
 
 ## 使用方法
 
-1. **単一ファイルのダウンロード**：目的の言語ディレクトリ（例：`en-US/`）で
-   `azur_lane_glossary.csv`、`azur_lane_ship_character_glossary.csv`、`azur_lane_terms.csv` を
-   ダウンロードすれば、Immersive Translate などの用語ツールにそのまま取り込めます。
+1. **単一ファイルのダウンロード**：目的の言語ディレクトリ（例：`azur-lane-glossary/en-US/`）で
+   `glossary.csv`、`ship-characters.csv`、`terms.csv` をダウンロードすれば、Immersive Translate などの
+   用語ツールにそのまま取り込めます。
 2. **言語ディレクトリごとの一括ダウンロード**：その言語の艦船名と用語をまとめて取得できます
-   （`*_detailed.csv` の詳細表を含む）。
-3. **リポジトリ全体をクローンして再現**：`tools/` 以下のスクリプトと上流の `AzurLaneData`
+   （`glossary-detailed.csv`、`ship-characters-detailed.csv`、`terms-detailed.csv` の詳細表を含む）。
+3. **リポジトリ全体をクローンして再現**：ルートの `tools/` 以下のスクリプトと上流の `AzurLaneData`
    クライアントデータ（「使用した関連コンテンツ」参照）を使って生成処理を再実行できます。
 
 ## ディレクトリ構成
 
 ```text
 Azur_Lane_Glossary（碧蓝航线）/
-├─ zh-CN/                                  簡体中文の用語集（target = zh-CN）
-│     azur_lane_glossary.csv                   艦船名（簡体中文の標準名をソースに）
-│     azur_lane_glossary_detailed.csv          同上 + ship_id / 艦種 / 陣営 / 派生
-│     azur_lane_ship_character_glossary.csv    艦船名（簡体中文の調和名をソースに）
-│     azur_lane_ship_character_glossary_detailed.csv
-│     azur_lane_terms.csv                      航海・軍事・ゲーム用語
-│     azur_lane_terms_detailed.csv             同上 + category / same_source_alternatives
-│     azur_lane_ambiguous.csv                  一語多義のソース語（zh-CN のみ）
-│     azur_lane_combined_ships_and_terms.csv   艦船 + 用語の統合版（zh-CN のみ）
-│     README.md                                このディレクトリの説明（簡体中文）
-├─ en-US/                                  同じ 6 CSV + README.md / README_zh-CN.md
-├─ ja-JP/                                  同じ 6 CSV + README.md / README_zh-CN.md
-├─ ko-KR/                                  同じ 6 CSV + README.md / README_zh-CN.md
-├─ by_language/                            ソース言語別に分割した艦船サブ表（target は常に簡体中文）
-│     azur_lane_glossary_en-zh-CN.csv
-│     azur_lane_glossary_ja-zh-CN.csv
-│     azur_lane_glossary_ko-zh-CN.csv
-│     azur_lane_glossary_zh-TW-zh-CN.csv
-├─ sources/
-│     moegirl_name_table.json              萌娘百科『アズールレーン/名称対照表』の取得結果（突き合わせ用）
-├─ tools/                                  生成スクリプトと統計メタデータ
-│     build_glossary.py                        艦船用語集（簡体中文の標準名）+ 5 言語総表 + by_language + 多義表 + 単字コード名
-│     build_harmonized.py                      調和名（和谐名）対照表
-│     build_ship_character_glossary.py         艦船キャラ用語集（簡体中文の調和名）
-│     build_multilang_glossaries.py            艦船表の en-US / ja-JP / ko-KR 版
-│     build_terms_glossaries.py                用語表の 4 言語版
-│     terms_data.py                            用語データのソース（手作業で維持）
-│     build_stats.json                         生成統計（前回ビルドの出力）
-├─ azur_lane_ship_names_multilingual.csv   891 隻の中文／英／日／繁／韓 5 言語総表（ソースデータ）
-├─ azur_lane_harmonized_ship_names.csv     調和名対照（原名 → 調和名、1187 行）
-├─ azur_lane_harmonized_names_detailed.csv 調和名の明細（1259 行、萌娘百科による検証メモ付き）
-├─ azur_lane_harmonized_equipment.csv      艦載機など装備の調和名 8 件
-├─ azur_lane_ijn_codename_aliases.csv      旧日本海軍の単字コード名対照（柚 → 绫波、1082 行）
-└─ README.md / README_EN.md / README_JP.md 中文 / English / 日本語の説明
+├─ azur-lane-glossary/                      多言語データコンテナ
+│  ├─ README.md                             サブライブラリの説明（簡体中文）
+│  ├─ zh-CN/                                簡体中文の用語集（target = zh-CN）
+│  │  ├─ glossary.csv                       艦船名（簡体中文の標準名をソースに）
+│  │  ├─ glossary-detailed.csv              同上 + ship_id / 艦種 / 陣営 / 派生
+│  │  ├─ ship-characters.csv                艦船名（簡体中文の調和名をソースに）
+│  │  ├─ ship-characters-detailed.csv
+│  │  ├─ terms.csv                          航海・軍事・ゲーム用語
+│  │  ├─ terms-detailed.csv                 同上 + category / same_source_alternatives
+│  │  ├─ ambiguous.csv                      一語多義のソース語（zh-CN のみ）
+│  │  ├─ ships-and-terms.csv                艦船 + 用語の統合版（zh-CN のみ）
+│  │  └─ README.md                          このディレクトリの説明（簡体中文）
+│  ├─ en-US/                                同じ 6 CSV + README.md / README_zh-CN.md
+│  ├─ ja-JP/                                同じ 6 CSV + README.md / README_zh-CN.md
+│  ├─ ko-KR/                                同じ 6 CSV + README.md / README_zh-CN.md
+│  ├─ harmonized/                           ソースデータと調和名 / 別称対照表
+│  │  ├─ ship-names-multilingual.csv        891 隻の中文／英／日／繁／韓 5 言語総表
+│  │  ├─ ship-names-harmonized.csv          調和名対照（原名 → 調和名、1187 行）
+│  │  ├─ harmonized-names-detailed.csv      調和名の明細（1259 行、萌娘百科による検証メモ付き）
+│  │  ├─ equipment-harmonized.csv           艦載機など装備の調和名 8 件
+│  │  └─ ijn-codename-aliases.csv           旧日本海軍の単字コード名対照（柚 → 绫波、1082 行）
+│  ├─ by-language/                          ソース言語別に分割した艦船サブ表（target は常に簡体中文）
+│  │  ├─ glossary_en-zh-CN.csv
+│  │  ├─ glossary_ja-zh-CN.csv
+│  │  ├─ glossary_ko-zh-CN.csv
+│  │  └─ glossary_zh-TW-zh-CN.csv
+│  └─ sources/
+│     └─ moegirl_name_table.json            萌娘百科『アズールレーン/名称対照表』の取得結果
+├─ tools/                                   生成スクリプトと統計メタデータ
+│  ├─ build_glossary.py                     艦船用語集（簡体中文の標準名）+ 5 言語総表 + by-language + 多義表 + 単字コード名
+│  ├─ build_harmonized.py                   調和名（和谐名）対照表
+│  ├─ build_ship_character_glossary.py      艦船キャラ用語集（簡体中文の調和名）
+│  ├─ build_multilang_glossaries.py         艦船表の en-US / ja-JP / ko-KR 版
+│  ├─ build_terms_glossaries.py             用語表の 4 言語版
+│  ├─ terms_data.py                         用語データのソース（手作業で維持）
+│  └─ build_stats.json                      生成統計（前回ビルドの出力）
+└─ README.md / README_EN.md / README_JP.md  中文 / English / 日本語の説明
 ```
 
-4 つの言語ディレクトリのファイル構成はまったく同じです（`zh-CN` のみ
-`azur_lane_ambiguous.csv` と `azur_lane_combined_ships_and_terms.csv` を追加で持ちます）。
-`target` はその言語の名称、`tgt_lng` はそれぞれ `zh-CN` / `en-US` / `ja-JP` / `ko-KR` に固定され、
-`source` には他のすべての言語の表記が入ります。
-`by_language/` は同じ艦船群の**ソース言語側ビュー**です（英語 1544 行、日本語 696 行、韓国語 814 行、
-繁体字 538 行、合計 3592 行 = `zh-CN/azur_lane_glossary_detailed.csv` の行数）。
+4 つの言語ディレクトリのファイル構成はまったく同じです。`target` はその言語の名称、`tgt_lng` は
+それぞれ `zh-CN` / `en-US` / `ja-JP` / `ko-KR` に固定され、`source` には他の言語の表記が入ります。
+`zh-CN` のみ `ambiguous.csv` と `ships-and-terms.csv` を追加で持ちます。
+`by-language/` は同じ艦船群の**ソース言語側ビュー**です（英語 1544 行、日本語 696 行、韓国語 814 行、
+繁体字 538 行、合計 3592 行 = `azur-lane-glossary/zh-CN/glossary-detailed.csv` の行数）。
 
 ## データ概要
 
@@ -80,17 +82,17 @@ Azur_Lane_Glossary（碧蓝航线）/
 | `ja-JP` | 877 / 3516 | 877 / 3805 | 125 / 356 |
 | `ko-KR` | 850 / 3481 | 850 / 3769 | 165 / 459 |
 
-- **語数** = その言語ディレクトリの `azur_lane_*.csv` における `target` 列の重複排除後の件数
+- **語数** = その言語ディレクトリの `*.csv` における `target` 列の重複排除後の件数
   （その言語で訳名を持つ艦船・用語の数）。**対照行** = ヘッダーを除く CSV のデータ行数
   （UTF-8 with BOM + CRLF なので Excel でそのまま開けます）。
-- 明細表の行数：`azur_lane_glossary_detailed.csv` は 3592（zh-CN）/ 2809（en-US）/ 3596（ja-JP）/
-  3525（ko-KR）、`azur_lane_ship_character_glossary_detailed.csv` は 3890 / 3104 / 3890 / 3818。
-- `zh-CN` のみが持つ 2 表：`azur_lane_ambiguous.csv` は 162 行（一語多義のソース語 77 件）、
-  `azur_lane_combined_ships_and_terms.csv` は 3985 行（艦船 3592 行と用語 475 行を統合・重複排除）。
+- 明細表の行数：`glossary-detailed.csv` は 3592（zh-CN）/ 2809（en-US）/ 3596（ja-JP）/
+  3525（ko-KR）、`ship-characters-detailed.csv` は 3890 / 3104 / 3890 / 3818。
+- `zh-CN` のみが持つ 2 表：`ambiguous.csv` は 162 行（一語多義のソース語 77 件）、
+  `ships-and-terms.csv` は 3985 行（艦船 3592 行と用語 475 行を統合・重複排除）。
 
 ### 分類と件数
 
-艦船の派生（`zh-CN/azur_lane_ship_character_glossary_detailed.csv` で集計、**884 名の艦船キャラ**）：
+艦船の派生（`azur-lane-glossary/zh-CN/ship-characters-detailed.csv` で集計、**884 名の艦船キャラ**）：
 
 | 派生 | 隻数 | 対照行 |
 | --- | --- | --- |
@@ -100,7 +102,7 @@ Azur_Lane_Glossary（碧蓝航线）/
 | II 型 | 10 | 43 |
 | **合計** | **884** | **3890** |
 
-用語の 5 分類（`zh-CN/azur_lane_terms_detailed.csv` で集計）：
+用語の 5 分類（`azur-lane-glossary/zh-CN/terms-detailed.csv` で集計）：
 
 | `category` | 主題 | 概念数 | 対照行 |
 | --- | --- | --- | --- |
@@ -119,16 +121,16 @@ Azur_Lane_Glossary（碧蓝航线）/
 
 | ファイル | zh-CN | en-US | ja-JP | ko-KR |
 | --- | --- | --- | --- | --- |
-| `azur_lane_glossary.csv`（簡体中文の標準名がソース） | 3514 | 2795 | 3516 | 3481 |
-| `azur_lane_ship_character_glossary.csv`（簡体中文の調和名がソース） | 3804 | 3084 | 3805 | 3769 |
+| `glossary.csv`（簡体中文の標準名がソース） | 3514 | 2795 | 3516 | 3481 |
+| `ship-characters.csv`（簡体中文の調和名がソース） | 3804 | 3084 | 3805 | 3769 |
 
 - **891 隻の艦船 / 884 名の艦船キャラ**を収録（META・μ兵装・II 型・コラボ艦を含む）。
-- `azur_lane_ship_character_glossary` の `target` は常に**簡体中文版クライアントの実際の表示名**です。
+- `ship-characters` の `target` は常に**簡体中文版クライアントの実際の表示名**です。
   調和名がある場合は調和名（**295 名**）、なければ標準中国語名を用います。他の言語版では
   それぞれの言語の艦船名が `target` になります。
 - ソース言語には簡体中文の標準名・簡体中文の調和名・英語名・英語の正式艦名（例：`IJN Fubuki`）・
   日本語名・繁体字名・韓国語名が含まれます。
-- 例（各言語ディレクトリの実際の行、`azur_lane_glossary.csv`）：
+- 例（各言語ディレクトリの実際の行、`glossary.csv`）：
 
 ```
 | source                    | target            | tgt_lng |
@@ -141,7 +143,7 @@ Azur_Lane_Glossary（碧蓝航线）/
 | イラストリアス(μ兵装)              | 光辉(μ兵装)          | zh-CN   |
 ```
 
-- 例（`azur_lane_ship_character_glossary.csv`、簡体中文の調和名がソース。`柚` は `绫波` の調和名）：
+- 例（`ship-characters.csv`、簡体中文の調和名がソース。`柚` は `绫波` の調和名）：
 
 ```
 | source                    | target            | tgt_lng |
@@ -154,7 +156,7 @@ Azur_Lane_Glossary（碧蓝航线）/
 
 - 主表では 1 つのソース語に対して訳を 1 件だけ残します。同名多義の場合は**艦船 id が最小のもの**を
   採用し、可能な表記はすべて明細表の `same_source_alternatives` 列に記録します。例えば
-  `ja-JP/azur_lane_glossary_detailed.csv` のソース `HMS Belfast` は `ベルファスト`（id 202121）と
+  `azur-lane-glossary/ja-JP/glossary-detailed.csv` のソース `HMS Belfast` は `ベルファスト`（id 202121）と
   `ベルちゃん`（id 202181）の両方に対応し、主表は id の小さい `ベルファスト` を残し、
   両方の読みを `same_source_alternatives` に記載しています（`zh-CN` 側は `贝尔法斯特` / `小贝法`）。
 - **亚尔薇特（Alvitr、鉄血の巡洋戦艦、ship_id 404061）** だけが鉄血で調和名を持たない艦船キャラです
@@ -162,21 +164,21 @@ Azur_Lane_Glossary（碧蓝航线）/
 
 ### 航海・軍事・ゲーム用語集
 
-`azur_lane_terms.csv`：手作業で維持する **176 件の概念**（生成表で対照行を持つのは 175 件）、
+`terms.csv`：手作業で維持する **176 件の概念**（生成表で対照行を持つのは 175 件）、
 元となるソース言語別の語は 478 件（英語 175、日本語 127、韓国語 176）。
 
 | 対象言語 | 件数 |
 | --- | --- |
-| `zh-CN/azur_lane_terms.csv` | 449 |
-| `en-US/azur_lane_terms.csv` | 404 |
-| `ja-JP/azur_lane_terms.csv` | 356 |
-| `ko-KR/azur_lane_terms.csv` | 459 |
+| `azur-lane-glossary/zh-CN/terms.csv` | 449 |
+| `azur-lane-glossary/en-US/terms.csv` | 404 |
+| `azur-lane-glossary/ja-JP/terms.csv` | 356 |
+| `azur-lane-glossary/ko-KR/terms.csv` | 459 |
 
 - 5 分類：`hull_type` 艦種 31、`naval_term` 航海・軍事用語 72、`navy_prefix` 陣営・艦名前綴り 24、
   `rank` 階級 24、`game_term` ゲーム用語 24（明細表には `category` / `category_zh` 列があります）。
 - 同一のソース語が複数の概念に対応する場合（例：韓国語 `대령` は「海軍大佐」と「大佐」の両方）、
   主表は最初の概念を採用し、他の表記は明細表の `same_source_alternatives` 列に記録します。
-- 例（`ko-KR/azur_lane_terms.csv`）：
+- 例（`azur-lane-glossary/ko-KR/terms.csv`）：
 
 ```
 | source         | target   | tgt_lng |
@@ -223,14 +225,14 @@ Azur_Lane_Glossary（碧蓝航线）/
 | 出典 | 用途 |
 | --- | --- |
 | [AzurLaneTools/AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData) | CN / EN / JP / KR / TW のクライアント設定：`sharecfgdata/ship_data_statistics.json`（各サーバーの艦船名）、`sharecfgdata/ship_data_template.json`（艦船同一性の絞り込み）、`ShareCfg/ship_skin_template.json`（`ship_group` による正規化）、`ShareCfg/ship_data_by_type.json`（艦種名）、`ShareCfg/name_code.json`（調和名と単字コード名） |
-| 萌娘百科『[碧蓝航线/名称对照表](https://zh.moegirl.org.cn/碧蓝航线/名称对照表)』 | 調和名の突き合わせ。取得結果は `sources/moegirl_name_table.json` に保存し、不一致は `azur_lane_harmonized_names_detailed.csv` の `wiki_note` 列に記載しています |
+| 萌娘百科『[碧蓝航线/名称对照表](https://zh.moegirl.org.cn/碧蓝航线/名称对照表)』 | 調和名の突き合わせ。取得結果は `azur-lane-glossary/sources/moegirl_name_table.json` に保存し、不一致は `azur-lane-glossary/harmonized/harmonized-names-detailed.csv` の `wiki_note` 列に記載しています |
 
 ## 再生成
 
 スクリプトは `tools/` にあり、常に `tools/` を前置して呼び出します（ゲームディレクトリで実行）：
 
 ```bash
-# 1) 艦船用語集（簡体中文の標準名）+ 5 言語総表 + by_language + 多義表 + 旧日本海軍の単字コード名
+# 1) 艦船用語集（簡体中文の標準名）+ 5 言語総表 + by-language + 多義表 + 旧日本海軍の単字コード名
 python tools/build_glossary.py
 
 # 2) 調和名（和谐名）対照表（1) の 5 言語総表が必要）
@@ -248,7 +250,7 @@ python tools/build_terms_glossaries.py
 
 ゲームデータを更新したら、この順序で再実行するだけです（`build_harmonized.py` と
 `build_multilang_glossaries.py` は `build_glossary.py` が出力する
-`azur_lane_ship_names_multilingual.csv` に依存します）。
+`azur-lane-glossary/harmonized/ship-names-multilingual.csv` に依存します）。
 用語の項目は `tools/terms_data.py` で維持し、4 言語版は `build_terms_glossaries.py` が自動生成します。
 生成統計は `build_stats.json` に書き出されます（本リポジトリ内のコピーは `tools/build_stats.json`）。
 注意：スクリプト内の `BASE` / `OUT` パス定数は**リポジトリ外**の上流設定ディレクトリと生成作業

@@ -10,7 +10,7 @@ Every translation is taken from the game's own official localized text (the game
 
 ## Usage
 
-1. Single-file download: open `genshin-glossary/<lang-code>/` and download the category CSV you need (TCG categories are in the `TCG/` subdirectory), then import it into terminology tools such as Immersive Translation. Supplement terms live in `genshin-glossary-supplement/<lang-code>/`.
+1. Single-file download: open `genshin-glossary/<lang-code>/` and download the category CSV you need (TCG categories use the `tcg-` filename prefix), then import it into terminology tools such as Immersive Translation. Supplement terms live in `genshin-glossary-supplement/<lang-code>/`.
 2. Whole-language-directory download: on GitHub, open `genshin-glossary/<lang-code>/` and use the directory download option to get every category file for that target language; the same applies to the supplement glossary.
 3. Clone the whole repository, use the scripts under `tools/`, and download the referenced upstream source repositories (genshin-db, genshin-langdata) in advance to reproduce all CSVs yourself.
 
@@ -107,16 +107,16 @@ Genshin_Impact_glossary（原神）/
 
 | Sub-category | File | Entries |
 | --- | --- | --- |
-| action-cards | `TCG/action-cards.csv` | 927 |
-| character-cards | `TCG/character-cards.csv` | 149 |
-| enemy-cards | `TCG/enemy-cards.csv` | 134 |
-| summons | `TCG/summons.csv` | 152 |
-| status-effects | `TCG/status-effects.csv` | 1,159 |
-| keywords | `TCG/keywords.csv` | 139 |
-| card-backs | `TCG/card-backs.csv` | 39 |
-| card-boxes | `TCG/card-boxes.csv` | 7 |
-| detailed-rules | `TCG/detailed-rules.csv` | 11 |
-| level-rewards | `TCG/level-rewards.csv` | 26 |
+| action-cards | `tcg-action-cards.csv` | 927 |
+| character-cards | `tcg-character-cards.csv` | 149 |
+| enemy-cards | `tcg-enemy-cards.csv` | 134 |
+| summons | `tcg-summons.csv` | 152 |
+| status-effects | `tcg-status-effects.csv` | 1,159 |
+| keywords | `tcg-keywords.csv` | 139 |
+| card-backs | `tcg-card-backs.csv` | 39 |
+| card-boxes | `tcg-card-boxes.csv` | 7 |
+| detailed-rules | `tcg-detailed-rules.csv` | 11 |
+| level-rewards | `tcg-level-rewards.csv` | 26 |
 
 ### Supplement glossary: newly added rows per language
 

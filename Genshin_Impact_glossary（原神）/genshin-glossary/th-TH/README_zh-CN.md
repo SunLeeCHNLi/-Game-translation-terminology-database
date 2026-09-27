@@ -7,7 +7,7 @@
 ## 文件
 
 - `characters.csv`、`talents.csv`、`constellations.csv`、`weapons.csv`、`materials.csv`、`foods.csv`、`crafts.csv`、`artifacts.csv`、`domains.csv`、`enemies.csv`、`animals.csv`、`outfits.csv`、`windgliders.csv`、`namecards.csv`、`geographies.csv`、`achievements.csv`、`adventureranks.csv` — 17 个主类目文件
-- `TCG/action-cards.csv`、`TCG/character-cards.csv`、`TCG/enemy-cards.csv`、`TCG/summons.csv`、`TCG/status-effects.csv`、`TCG/keywords.csv`、`TCG/card-backs.csv`、`TCG/card-boxes.csv`、`TCG/detailed-rules.csv`、`TCG/level-rewards.csv` — 10 个 TCG（七圣召唤）子类目文件
+- `tcg-action-cards.csv`、`tcg-character-cards.csv`、`tcg-enemy-cards.csv`、`tcg-summons.csv`、`tcg-status-effects.csv`、`tcg-keywords.csv`、`tcg-card-backs.csv`、`tcg-card-boxes.csv`、`tcg-detailed-rules.csv`、`tcg-level-rewards.csv` — 10 个 TCG（七圣召唤）子类目文件
 
 合计 **27 个 CSV 文件**，格式统一为三列：
 
@@ -37,7 +37,7 @@ th-TH/
 ├── geographies.csv
 ├── achievements.csv
 ├── adventureranks.csv
-└── TCG/
+└── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
     ├── enemy-cards.csv
@@ -77,20 +77,20 @@ th-TH/
 | adventureranks（冒险等阶） | `adventureranks.csv` | 21 | 157 |
 | **小计** | 17 个文件 | — | **63,173** |
 
-### TCG 子类目（`TCG/`）
+### TCG 子类目（`tcg-`）
 
 | 子类目 | 文件 | 词条数 | 行数 |
 | --- | --- | ---: | ---: |
-| action-cards（行动牌） | `TCG/action-cards.csv` | 927 | 9,609 |
-| character-cards（角色牌） | `TCG/character-cards.csv` | 149 | 929 |
-| enemy-cards（敌人牌） | `TCG/enemy-cards.csv` | 134 | 1,126 |
-| summons（召唤物） | `TCG/summons.csv` | 152 | 1,150 |
-| status-effects（状态效果） | `TCG/status-effects.csv` | 1,159 | 11,220 |
-| keywords（关键词） | `TCG/keywords.csv` | 139 | 1,511 |
-| card-backs（牌背） | `TCG/card-backs.csv` | 39 | 407 |
-| card-boxes（牌盒） | `TCG/card-boxes.csv` | 7 | 32 |
-| detailed-rules（详细规则） | `TCG/detailed-rules.csv` | 11 | 142 |
-| level-rewards（等级奖励） | `TCG/level-rewards.csv` | 26 | 169 |
+| action-cards（行动牌） | `tcg-action-cards.csv` | 927 | 9,609 |
+| character-cards（角色牌） | `tcg-character-cards.csv` | 149 | 929 |
+| enemy-cards（敌人牌） | `tcg-enemy-cards.csv` | 134 | 1,126 |
+| summons（召唤物） | `tcg-summons.csv` | 152 | 1,150 |
+| status-effects（状态效果） | `tcg-status-effects.csv` | 1,159 | 11,220 |
+| keywords（关键词） | `tcg-keywords.csv` | 139 | 1,511 |
+| card-backs（牌背） | `tcg-card-backs.csv` | 39 | 407 |
+| card-boxes（牌盒） | `tcg-card-boxes.csv` | 7 | 32 |
+| detailed-rules（详细规则） | `tcg-detailed-rules.csv` | 11 | 142 |
+| level-rewards（等级奖励） | `tcg-level-rewards.csv` | 26 | 169 |
 | **小计** | 10 个文件 | — | **26,295** |
 
 **本目录合计：27 个文件、89,468 行。**

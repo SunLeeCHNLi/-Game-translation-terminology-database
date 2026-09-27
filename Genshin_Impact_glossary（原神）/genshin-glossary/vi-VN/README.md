@@ -7,7 +7,7 @@ Thư mục này là phần từ điển thuật ngữ *Genshin Impact* **lấy t
 ## Tệp
 
 - `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 tệp phân loại chính
-- `TCG/action-cards.csv`, `TCG/character-cards.csv`, `TCG/enemy-cards.csv`, `TCG/summons.csv`, `TCG/status-effects.csv`, `TCG/keywords.csv`, `TCG/card-backs.csv`, `TCG/card-boxes.csv`, `TCG/detailed-rules.csv`, `TCG/level-rewards.csv` — 10 tệp phân loại con TCG (Thất Thánh Triệu Hồi)
+- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 tệp phân loại con TCG (Thất Thánh Triệu Hồi)
 
 Tổng cộng **27 tệp CSV**. Tất cả đều có cùng định dạng ba cột:
 
@@ -37,7 +37,7 @@ vi-VN/
 ├── geographies.csv
 ├── achievements.csv
 ├── adventureranks.csv
-└── TCG/
+└── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
     ├── enemy-cards.csv
@@ -77,20 +77,20 @@ vi-VN/
 | adventureranks | `adventureranks.csv` | 21 | 156 |
 | **Tổng phụ** | 17 tệp | — | **63.184** |
 
-### Phân loại con TCG (`TCG/`)
+### Phân loại con TCG (`tcg-`)
 
 | Phân loại con | Tệp | Thuật ngữ | Dòng |
 | --- | --- | ---: | ---: |
-| action-cards | `TCG/action-cards.csv` | 927 | 9.628 |
-| character-cards | `TCG/character-cards.csv` | 149 | 929 |
-| enemy-cards | `TCG/enemy-cards.csv` | 134 | 1.114 |
-| summons | `TCG/summons.csv` | 152 | 1.157 |
-| status-effects | `TCG/status-effects.csv` | 1.159 | 11.257 |
-| keywords | `TCG/keywords.csv` | 139 | 1.511 |
-| card-backs | `TCG/card-backs.csv` | 39 | 407 |
-| card-boxes | `TCG/card-boxes.csv` | 7 | 32 |
-| detailed-rules | `TCG/detailed-rules.csv` | 11 | 142 |
-| level-rewards | `TCG/level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards.csv` | 927 | 9.628 |
+| character-cards | `tcg-character-cards.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1.114 |
+| summons | `tcg-summons.csv` | 152 | 1.157 |
+| status-effects | `tcg-status-effects.csv` | 1.159 | 11.257 |
+| keywords | `tcg-keywords.csv` | 139 | 1.511 |
+| card-backs | `tcg-card-backs.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
 | **Tổng phụ** | 10 tệp | — | **26.346** |
 
 **Tổng cộng thư mục này: 27 tệp, 89.530 dòng.**

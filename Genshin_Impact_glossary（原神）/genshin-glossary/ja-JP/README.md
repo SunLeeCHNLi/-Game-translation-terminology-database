@@ -10,8 +10,8 @@
 
 - **主分類 17 件**（このディレクトリ直下）:
   `characters.csv`、`talents.csv`、`constellations.csv`、`weapons.csv`、`materials.csv`、`foods.csv`、`crafts.csv`、`artifacts.csv`、`domains.csv`、`enemies.csv`、`animals.csv`、`outfits.csv`、`windgliders.csv`、`namecards.csv`、`geographies.csv`、`achievements.csv`、`adventureranks.csv`
-- **TCG サブ分類 10 件**（`TCG/` サブフォルダ内）:
-  `TCG/action-cards.csv`、`TCG/character-cards.csv`、`TCG/enemy-cards.csv`、`TCG/summons.csv`、`TCG/status-effects.csv`、`TCG/keywords.csv`、`TCG/card-backs.csv`、`TCG/card-boxes.csv`、`TCG/detailed-rules.csv`、`TCG/level-rewards.csv`
+- **TCG サブ分類 10 件**（`tcg-` サブフォルダ内）:
+  `tcg-action-cards.csv`、`tcg-character-cards.csv`、`tcg-enemy-cards.csv`、`tcg-summons.csv`、`tcg-status-effects.csv`、`tcg-keywords.csv`、`tcg-card-backs.csv`、`tcg-card-boxes.csv`、`tcg-detailed-rules.csv`、`tcg-level-rewards.csv`
 
 各ファイルは次の 3 列のみで構成されています。
 
@@ -42,16 +42,16 @@
 | `geographies.csv` | 地名 | 268 | 3,389 |
 | `achievements.csv` | 実績 | 1,548 | 19,464 |
 | `adventureranks.csv` | 冒険ランクの説明 | 21 | 157 |
-| `TCG/action-cards.csv` | アクションカード | 927 | 9,534 |
-| `TCG/character-cards.csv` | キャラカード | 149 | 929 |
-| `TCG/enemy-cards.csv` | 敵カード | 134 | 1,125 |
-| `TCG/summons.csv` | 召喚物 | 152 | 1,197 |
-| `TCG/status-effects.csv` | 状態効果 | 1,159 | 11,271 |
-| `TCG/keywords.csv` | キーワード | 139 | 1,511 |
-| `TCG/card-backs.csv` | カードの裏面 | 39 | 407 |
-| `TCG/card-boxes.csv` | カードボックス | 7 | 32 |
-| `TCG/detailed-rules.csv` | 詳細ルール | 11 | 142 |
-| `TCG/level-rewards.csv` | レベル報酬 | 26 | 169 |
+| `tcg-action-cards.csv` | アクションカード | 927 | 9,534 |
+| `tcg-character-cards.csv` | キャラカード | 149 | 929 |
+| `tcg-enemy-cards.csv` | 敵カード | 134 | 1,125 |
+| `tcg-summons.csv` | 召喚物 | 152 | 1,197 |
+| `tcg-status-effects.csv` | 状態効果 | 1,159 | 11,271 |
+| `tcg-keywords.csv` | キーワード | 139 | 1,511 |
+| `tcg-card-backs.csv` | カードの裏面 | 39 | 407 |
+| `tcg-card-boxes.csv` | カードボックス | 7 | 32 |
+| `tcg-detailed-rules.csv` | 詳細ルール | 11 | 142 |
+| `tcg-level-rewards.csv` | レベル報酬 | 26 | 169 |
 | **主分類（17 ファイル）** | — | **5,443** | **63,173** |
 | **TCG（10 ファイル）** | — | **2,743** | **26,317** |
 | **合計（27 ファイル）** | — | **8,186** | **89,490** |

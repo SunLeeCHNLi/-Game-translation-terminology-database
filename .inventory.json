@@ -1,0 +1,1099 @@
+{
+ "Arknights_glossary（明日方舟）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md"
+  ],
+  "subdirs": {
+   "glossary": {
+    "dirs": [
+     "en-US",
+     "ja-JP",
+     "ko-KR",
+     "zh-CN",
+     "zh-TW"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "tools": {
+    "dirs": [],
+    "files": [
+     "_summary.json",
+     "build_glossary.py",
+     "write_readme.py"
+    ]
+   }
+  }
+ },
+ "Azur_Lane_Glossary（碧蓝航线）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md",
+   "azur_lane_harmonized_equipment.csv",
+   "azur_lane_harmonized_names_detailed.csv",
+   "azur_lane_harmonized_ship_names.csv",
+   "azur_lane_ijn_codename_aliases.csv",
+   "azur_lane_ship_names_multilingual.csv"
+  ],
+  "subdirs": {
+   "by_language": {
+    "dirs": [],
+    "files": [
+     "azur_lane_glossary_en-zh-CN.csv",
+     "azur_lane_glossary_ja-zh-CN.csv",
+     "azur_lane_glossary_ko-zh-CN.csv",
+     "azur_lane_glossary_zh-TW-zh-CN.csv"
+    ]
+   },
+   "en-US": {
+    "dirs": [],
+    "files": [
+     "README.md",
+     "README_zh-CN.md",
+     "azur_lane_glossary.csv",
+     "azur_lane_glossary_detailed.csv",
+     "azur_lane_ship_character_glossary.csv",
+     "azur_lane_ship_character_glossary_detailed.csv",
+     "azur_lane_terms.csv",
+     "azur_lane_terms_detailed.csv"
+    ]
+   },
+   "ja-JP": {
+    "dirs": [],
+    "files": [
+     "README.md",
+     "README_zh-CN.md",
+     "azur_lane_glossary.csv",
+     "azur_lane_glossary_detailed.csv",
+     "azur_lane_ship_character_glossary.csv",
+     "azur_lane_ship_character_glossary_detailed.csv",
+     "azur_lane_terms.csv",
+     "azur_lane_terms_detailed.csv"
+    ]
+   },
+   "ko-KR": {
+    "dirs": [],
+    "files": [
+     "README.md",
+     "README_zh-CN.md",
+     "azur_lane_glossary.csv",
+     "azur_lane_glossary_detailed.csv",
+     "azur_lane_ship_character_glossary.csv",
+     "azur_lane_ship_character_glossary_detailed.csv",
+     "azur_lane_terms.csv",
+     "azur_lane_terms_detailed.csv"
+    ]
+   },
+   "sources": {
+    "dirs": [],
+    "files": [
+     "moegirl_name_table.json"
+    ]
+   },
+   "tools": {
+    "dirs": [],
+    "files": [
+     "build_glossary.py",
+     "build_harmonized.py",
+     "build_multilang_glossaries.py",
+     "build_ship_character_glossary.py",
+     "build_stats.json",
+     "build_terms_glossaries.py",
+     "terms_data.py"
+    ]
+   },
+   "zh-CN": {
+    "dirs": [],
+    "files": [
+     "README.md",
+     "azur_lane_ambiguous.csv",
+     "azur_lane_combined_ships_and_terms.csv",
+     "azur_lane_glossary.csv",
+     "azur_lane_glossary_detailed.csv",
+     "azur_lane_ship_character_glossary.csv",
+     "azur_lane_ship_character_glossary_detailed.csv",
+     "azur_lane_terms.csv",
+     "azur_lane_terms_detailed.csv"
+    ]
+   }
+  }
+ },
+ "Blue_Archive_Glossary（蔚蓝档案）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md"
+  ],
+  "subdirs": {
+   "en-US": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_school",
+     "03_club",
+     "04_story_title",
+     "05_favor_item",
+     "06_location",
+     "07_terminology",
+     "08_event",
+     "09_scenario_character",
+     "10_enemy",
+     "11_skill",
+     "12_item",
+     "13_equipment",
+     "14_furniture",
+     "15_stage"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "ja-JP": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_school",
+     "03_club",
+     "04_story_title",
+     "05_favor_item",
+     "06_location",
+     "07_terminology",
+     "08_event",
+     "09_scenario_character",
+     "10_enemy",
+     "11_skill",
+     "12_item",
+     "13_equipment",
+     "14_furniture",
+     "15_stage"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "ko-KR": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_school",
+     "03_club",
+     "04_story_title",
+     "05_favor_item",
+     "06_location",
+     "07_terminology",
+     "08_event",
+     "09_scenario_character",
+     "10_enemy",
+     "11_skill",
+     "12_item",
+     "13_equipment",
+     "14_furniture",
+     "15_stage"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "multilingual": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_school",
+     "03_club",
+     "04_story_title",
+     "05_favor_item",
+     "06_location",
+     "07_terminology",
+     "08_event",
+     "09_scenario_character",
+     "10_enemy",
+     "11_skill",
+     "12_item",
+     "13_equipment",
+     "14_furniture",
+     "15_stage"
+    ],
+    "files": []
+   },
+   "th-TH": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_school",
+     "03_club",
+     "04_story_title",
+     "05_favor_item",
+     "06_location",
+     "07_terminology",
+     "08_event",
+     "09_scenario_character",
+     "10_enemy",
+     "11_skill",
+     "12_item",
+     "13_equipment",
+     "14_furniture",
+     "15_stage"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "tools": {
+    "dirs": [],
+    "files": [
+     "build_glossary.py",
+     "extract_ts_titles.mjs",
+     "ts_titles.json"
+    ]
+   },
+   "zh-CN": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_school",
+     "03_club",
+     "04_story_title",
+     "05_favor_item",
+     "06_location",
+     "07_terminology",
+     "08_event",
+     "09_scenario_character",
+     "10_enemy",
+     "11_skill",
+     "12_item",
+     "13_equipment",
+     "14_furniture",
+     "15_stage"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "zh-TW": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_school",
+     "03_club",
+     "04_story_title",
+     "05_favor_item",
+     "06_location",
+     "07_terminology",
+     "08_event",
+     "09_scenario_character",
+     "10_enemy",
+     "11_skill",
+     "12_item",
+     "13_equipment",
+     "14_furniture",
+     "15_stage"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   }
+  }
+ },
+ "Cat_Fantasy_Glossary（猫之城）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md"
+  ],
+  "subdirs": {
+   "en-US": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_talent",
+     "04_equipment",
+     "05_item",
+     "06_enemy",
+     "07_stage",
+     "08_event",
+     "09_gacha",
+     "10_shop",
+     "11_homeland",
+     "12_system",
+     "13_ui",
+     "14_story",
+     "15_location",
+     "16_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "id-ID": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_talent",
+     "04_equipment",
+     "05_item",
+     "06_enemy",
+     "07_stage",
+     "08_event",
+     "09_gacha",
+     "10_shop",
+     "11_homeland",
+     "12_system",
+     "13_ui",
+     "14_story",
+     "15_location",
+     "16_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "ja-JP": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_talent",
+     "04_equipment",
+     "05_item",
+     "06_enemy",
+     "07_stage",
+     "08_event",
+     "09_gacha",
+     "10_shop",
+     "11_homeland",
+     "12_system",
+     "13_ui",
+     "14_story",
+     "15_location",
+     "16_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "ko-KR": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_talent",
+     "04_equipment",
+     "05_item",
+     "06_enemy",
+     "07_stage",
+     "08_event",
+     "09_gacha",
+     "10_shop",
+     "11_homeland",
+     "12_system",
+     "13_ui",
+     "14_story",
+     "15_location",
+     "16_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "multilingual": {
+    "dirs": [
+     "00_master"
+    ],
+    "files": [
+     "all_languages_master.csv"
+    ]
+   },
+   "th-TH": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_talent",
+     "04_equipment",
+     "05_item",
+     "06_enemy",
+     "07_stage",
+     "08_event",
+     "09_gacha",
+     "10_shop",
+     "11_homeland",
+     "12_system",
+     "13_ui",
+     "14_story",
+     "15_location",
+     "16_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "zh-CN": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_talent",
+     "04_equipment",
+     "05_item",
+     "06_enemy",
+     "07_stage",
+     "08_event",
+     "09_gacha",
+     "10_shop",
+     "11_homeland",
+     "12_system",
+     "13_ui",
+     "14_story",
+     "15_location",
+     "16_terminology"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "zh-TW": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_talent",
+     "04_equipment",
+     "05_item",
+     "06_enemy",
+     "07_stage",
+     "08_event",
+     "09_gacha",
+     "10_shop",
+     "11_homeland",
+     "12_system",
+     "13_ui",
+     "14_story",
+     "15_location",
+     "16_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   }
+  }
+ },
+ "Genshin_Impact_glossary（原神）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md"
+  ],
+  "subdirs": {
+   "genshin-glossary": {
+    "dirs": [
+     "de-DE",
+     "en-US",
+     "es-ES",
+     "fr-FR",
+     "it-IT",
+     "ja-JP",
+     "ko-KR",
+     "pt-BR",
+     "ru-RU",
+     "th-TH",
+     "tr-TR",
+     "vi-VN",
+     "zh-CN",
+     "zh-TW"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "genshin-glossary-supplement": {
+    "dirs": [
+     "en-US",
+     "ja-JP",
+     "zh-CN",
+     "zh-TW"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "tools": {
+    "dirs": [],
+    "files": [
+     "build_main_glossary.js",
+     "build_supplement.mjs",
+     "glossary_counts.json",
+     "readme_main.js",
+     "readme_sup.js",
+     "supplement_counts.json"
+    ]
+   }
+  }
+ },
+ "Minecraft_glossary（我的世界）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md"
+  ],
+  "subdirs": {
+   "minecraft-glossary": {
+    "dirs": [
+     "de-DE",
+     "en-US",
+     "es-ES",
+     "fr-FR",
+     "it-IT",
+     "ja-JP",
+     "ko-KR",
+     "pt-BR",
+     "ru-RU",
+     "th-TH",
+     "tr-TR",
+     "vi-VN",
+     "zh-CN",
+     "zh-TW"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "minecraft-glossary-supplement": {
+    "dirs": [
+     "zh-CN",
+     "zh-TW"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "tools": {
+    "dirs": [],
+    "files": [
+     "build_glossary.py",
+     "build_wiki_supplement.py",
+     "glossary_counts.json",
+     "make_readme.py",
+     "supplement_counts.json",
+     "verify_output.py"
+    ]
+   }
+  }
+ },
+ "Neverness_to_Everness_glossary（异环）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md"
+  ],
+  "subdirs": {
+   "nte-glossary": {
+    "dirs": [
+     "de-DE",
+     "en-US",
+     "es-ES",
+     "fr-FR",
+     "ja-JP",
+     "ko-KR",
+     "ru-RU",
+     "zh-CN",
+     "zh-TW"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "Sources": {
+    "dirs": [],
+    "files": [
+     "README.md"
+    ]
+   },
+   "tools": {
+    "dirs": [],
+    "files": [
+     "_counts.json",
+     "_validation.json",
+     "build_nte_glossary.py",
+     "scrape_interactivemap.py",
+     "validate_nte_glossary.py"
+    ]
+   }
+  }
+ },
+ "Petit-Planet_Glossary（星布谷地）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md"
+  ],
+  "subdirs": {
+   "de-DE": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "en-US": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "03_item",
+     "04_material",
+     "05_furniture",
+     "06_test_version",
+     "07_cooking",
+     "08_fish",
+     "09_bugs",
+     "10_plants",
+     "11_shore",
+     "12_shop",
+     "13_neighbor_interaction",
+     "15_event",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "es-ES": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "fr-FR": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "id-ID": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "it-IT": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "ja-JP": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "ko-KR": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "multilingual": {
+    "dirs": [],
+    "files": [
+     "all_languages_master.csv"
+    ]
+   },
+   "pt-PT": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "ru-RU": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "th-TH": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "tr-TR": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "vi-VN": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "zh-CN": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "zh-TW": {
+    "dirs": [
+     "00_game_title",
+     "00_master",
+     "01_neighbor",
+     "02_location",
+     "06_test_version",
+     "18_ui",
+     "21_world_term",
+     "22_title_tag"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   }
+  }
+ },
+ "Stella_Sora_Glossary（星塔旅人）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md"
+  ],
+  "subdirs": {
+   "en-US": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_potential",
+     "04_disc",
+     "05_item",
+     "06_equipment",
+     "07_enemy",
+     "08_stage",
+     "09_event",
+     "10_system",
+     "11_ui",
+     "12_story",
+     "13_faction",
+     "14_location",
+     "15_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "ja-JP": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_potential",
+     "04_disc",
+     "05_item",
+     "06_equipment",
+     "07_enemy",
+     "08_stage",
+     "09_event",
+     "10_system",
+     "11_ui",
+     "12_story",
+     "13_faction",
+     "14_location",
+     "15_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "ko-KR": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_potential",
+     "04_disc",
+     "05_item",
+     "06_equipment",
+     "07_enemy",
+     "08_stage",
+     "09_event",
+     "10_system",
+     "11_ui",
+     "12_story",
+     "13_faction",
+     "14_location",
+     "15_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   },
+   "multilingual": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_potential",
+     "04_disc",
+     "05_item",
+     "06_equipment",
+     "07_enemy",
+     "08_stage",
+     "09_event",
+     "10_system",
+     "11_ui",
+     "12_story",
+     "13_faction",
+     "14_location",
+     "15_terminology"
+    ],
+    "files": [
+     "StellaSora_Glossary.xlsx"
+    ]
+   },
+   "tools": {
+    "dirs": [],
+    "files": [
+     "build_glossary.py",
+     "split_by_language.py"
+    ]
+   },
+   "zh-CN": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_potential",
+     "04_disc",
+     "05_item",
+     "06_equipment",
+     "07_enemy",
+     "08_stage",
+     "09_event",
+     "10_system",
+     "11_ui",
+     "12_story",
+     "13_faction",
+     "14_location",
+     "15_terminology"
+    ],
+    "files": [
+     "README.md"
+    ]
+   },
+   "zh-TW": {
+    "dirs": [
+     "00_master",
+     "01_character",
+     "02_skill",
+     "03_potential",
+     "04_disc",
+     "05_item",
+     "06_equipment",
+     "07_enemy",
+     "08_stage",
+     "09_event",
+     "10_system",
+     "11_ui",
+     "12_story",
+     "13_faction",
+     "14_location",
+     "15_terminology"
+    ],
+    "files": [
+     "README.md",
+     "README_zh-CN.md"
+    ]
+   }
+  }
+ },
+ "Wuthering_Waves_glossary（鸣潮）": {
+  "top_files": [
+   "README.md",
+   "README_EN.md",
+   "README_JP.md"
+  ],
+  "subdirs": {
+   "tools": {
+    "dirs": [],
+    "files": [
+     "_cfgmap_cache.pkl",
+     "_counts.json",
+     "build_wuwa_glossary.py",
+     "wuwa_classify.py",
+     "wuwa_config.py"
+    ]
+   },
+   "wuwa-glossary": {
+    "dirs": [
+     "de-DE",
+     "en-US",
+     "es-ES",
+     "fr-FR",
+     "ja-JP",
+     "ko-KR",
+     "pt-BR",
+     "th-TH",
+     "zh-CN",
+     "zh-TW"
+    ],
+    "files": [
+     "README.md"
+    ]
+   }
+  }
+ }
+}

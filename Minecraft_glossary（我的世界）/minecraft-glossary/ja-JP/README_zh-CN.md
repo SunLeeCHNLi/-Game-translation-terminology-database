@@ -2,12 +2,12 @@
 
 [← 返回游戏总说明](../../README.md) · [日本語](README.md)
 
-本目录是**以 `ja-JP`（日文）为目标语言**的术语库：`target` 列去重后共 **7,826** 条日文词条、**101,553** 行对照，分布在 **34** 个分类 CSV 文件中。`tgt_lng` 列固定为 `ja-JP`；每行的 `source` 是同一词条在**其余 13 种语言中的某一种**的写法，`target` 是该词条的日文译文。文件按**类目**分列，一个类目一个 CSV；系统与文本类目统一放在 `extra/` 子文件夹内。
+本目录是**以 `ja-JP`（日文）为目标语言**的术语库：`target` 列去重后共 **7,826** 条日文词条、**101,553** 行对照，分布在 **34** 个分类 CSV 文件中。`tgt_lng` 列固定为 `ja-JP`；每行的 `source` 是同一词条在**其余 13 种语言中的某一种**的写法，`target` 是该词条的日文译文。文件按**类目**分列，一个类目一个 CSV；系统与文本类目统一放在 `extra-` 子文件夹内。
 
 ## 文件
 
 - `blocks.csv`、`items.csv`、`entities.csv`、`biomes.csv`、`enchantments.csv`、`effects.csv`、`instruments.csv`、`materials.csv`、`paintings.csv`、`attributes.csv`、`item-groups.csv`、`jukebox-songs.csv`、`trim-patterns.csv`、`colors.csv`、`statistics.csv`、`maps.csv`、`music.csv`、`sound-categories.csv`、`game-modes.csv` —— 19 个主类目文件
-- `extra/subtitles.csv`、`extra/death-messages.csv`、`extra/advancement-titles.csv`、`extra/advancement-descriptions.csv`、`extra/gamerules.csv`、`extra/commands.csv`、`extra/gui.csv`、`extra/options.csv`、`extra/multiplayer.csv`、`extra/realms.csv`、`extra/world-management.csv`、`extra/resource-packs.csv`、`extra/telemetry.csv`、`extra/dev-tools.csv`、`extra/misc.csv` —— 15 个 `extra/` 系统与文本类目文件
+- `extra-subtitles.csv`、`extra-death-messages.csv`、`extra-advancement-titles.csv`、`extra-advancement-descriptions.csv`、`extra-gamerules.csv`、`extra-commands.csv`、`extra-gui.csv`、`extra-options.csv`、`extra-multiplayer.csv`、`extra-realms.csv`、`extra-world-management.csv`、`extra-resource-packs.csv`、`extra-telemetry.csv`、`extra-dev-tools.csv`、`extra-misc.csv` —— 15 个 `extra-` 系统与文本类目文件
 
 合计 **34 个 CSV 文件**，格式统一为三列：
 
@@ -39,7 +39,7 @@ ja-JP/
 ├── music.csv
 ├── sound-categories.csv
 ├── game-modes.csv
-└── extra/  # 系统与文本类目
+└── extra-  # 系统与文本类目
     ├── subtitles.csv
     ├── death-messages.csv
     ├── advancement-titles.csv
@@ -86,25 +86,25 @@ ja-JP/
 | `game-modes.csv` | 游戏模式 | 6 | 77 |
 | **小计** | 19 个文件 | **3,646** | **42,771** |
 
-### `extra/` 类目（系统与文本）
+### `extra-` 类目（系统与文本）
 
 | 分类 | 主题 | 词条数 | 对照行 |
 | --- | --- | ---: | ---: |
-| `extra/subtitles.csv` | 字幕 | 1,023 | 12,528 |
-| `extra/death-messages.csv` | 死亡消息 | 106 | 1,354 |
-| `extra/advancement-titles.csv` | 进度标题 | 127 | 1,603 |
-| `extra/advancement-descriptions.csv` | 进度描述 | 127 | 1,650 |
-| `extra/gamerules.csv` | 游戏规则 | 117 | 1,490 |
-| `extra/commands.csv` | 命令与参数 | 856 | 10,743 |
-| `extra/gui.csv` | 界面文本 | 581 | 6,655 |
-| `extra/options.csv` | 设置与按键 | 754 | 8,162 |
-| `extra/multiplayer.csv` | 多人游戏 | 173 | 2,015 |
-| `extra/realms.csv` | Realms | 426 | 4,988 |
-| `extra/world-management.csv` | 世界管理 | 294 | 3,609 |
-| `extra/resource-packs.csv` | 资源包与数据包 | 62 | 761 |
-| `extra/telemetry.csv` | 遥测 | 70 | 897 |
-| `extra/dev-tools.csv` | 开发与测试工具 | 144 | 1,811 |
-| `extra/misc.csv` | 其他 | 53 | 516 |
+| `extra-subtitles.csv` | 字幕 | 1,023 | 12,528 |
+| `extra-death-messages.csv` | 死亡消息 | 106 | 1,354 |
+| `extra-advancement-titles.csv` | 进度标题 | 127 | 1,603 |
+| `extra-advancement-descriptions.csv` | 进度描述 | 127 | 1,650 |
+| `extra-gamerules.csv` | 游戏规则 | 117 | 1,490 |
+| `extra-commands.csv` | 命令与参数 | 856 | 10,743 |
+| `extra-gui.csv` | 界面文本 | 581 | 6,655 |
+| `extra-options.csv` | 设置与按键 | 754 | 8,162 |
+| `extra-multiplayer.csv` | 多人游戏 | 173 | 2,015 |
+| `extra-realms.csv` | Realms | 426 | 4,988 |
+| `extra-world-management.csv` | 世界管理 | 294 | 3,609 |
+| `extra-resource-packs.csv` | 资源包与数据包 | 62 | 761 |
+| `extra-telemetry.csv` | 遥测 | 70 | 897 |
+| `extra-dev-tools.csv` | 开发与测试工具 | 144 | 1,811 |
+| `extra-misc.csv` | 其他 | 53 | 516 |
 | **小计** | 15 个文件 | **4,913** | **58,782** |
 
 **本目录合计：34 个文件，`target` 列去重后 7,826 条词条、101,553 行对照。**

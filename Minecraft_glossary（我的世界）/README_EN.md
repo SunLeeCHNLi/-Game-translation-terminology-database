@@ -6,7 +6,7 @@ This directory holds a multilingual terminology database for **Minecraft**, buil
 
 ## Usage
 
-1. **Download a single file**: open the target-language folder (for example `minecraft-glossary/zh-CN/`; system and text categories live in that folder's `extra/` subfolder), and download the one category file you need, such as `blocks.csv`, `items.csv` or `extra/subtitles.csv`. It can be imported straight into Immersive Translate or any other tool that accepts a term list.
+1. **Download a single file**: open the target-language folder (for example `minecraft-glossary/zh-CN/`; system and text categories live in that folder's `extra-` subfolder), and download the one category file you need, such as `blocks.csv`, `items.csv` or `extra-subtitles.csv`. It can be imported straight into Immersive Translate or any other tool that accepts a term list.
 2. **Download a whole language folder**: grab one language folder (for example `minecraft-glossary/ja-JP/`) and pick the category files you want from it. The supplement lives in the `minecraft-glossary-supplement/zh-CN/` and `minecraft-glossary-supplement/zh-TW/` folders.
 3. **Clone the repository and reproduce it yourself**: together with the scripts in `tools/` and the upstream repositories listed under "Related Sources", you can regenerate every CSV and metadata file (see "Regeneration").
 
@@ -23,7 +23,7 @@ Minecraft_glossary（我的世界）/
 │   │   ├── blocks.csv            # game-content categories, 19 files
 │   │   ├── items.csv
 │   │   ├── ...
-│   │   └── extra/                # system and text categories, 15 files
+│   │   └── extra-                # system and text categories, 15 files
 │   │       ├── subtitles.csv
 │   │       └── ...
 │   ├── zh-TW/                    # target language = Traditional Chinese
@@ -52,7 +52,7 @@ Minecraft_glossary（我的世界）/
     └── supplement_counts.json    # per-language, per-category entry counts of the supplement
 ```
 
-Besides its 19 game-content category CSVs, every language folder has an `extra/` subfolder holding 15 system and text category CSVs (34 CSVs per language). The CSV file name is the category name.
+Besides its 19 game-content category CSVs, every language folder has an `extra-` subfolder holding 15 system and text category CSVs (34 CSVs per language). The CSV file name is the category name.
 
 ## Data Overview
 
@@ -110,25 +110,25 @@ Besides its 19 game-content category CSVs, every language folder has an `extra/`
 | sound-categories | `sound-categories.csv` | Sound categories | 11 | 133 |
 | game-modes | `game-modes.csv` | Game modes | 6 | 77 |
 
-### Main glossary `extra/` categories (system and text, 15)
+### Main glossary `extra-` categories (system and text, 15)
 
 | Category | File | Description | Entries | zh-CN rows |
 | --- | --- | --- | --- | --- |
-| subtitles | `extra/subtitles.csv` | Subtitles | 1023 | 12407 |
-| death-messages | `extra/death-messages.csv` | Death messages | 106 | 1334 |
-| advancement-titles | `extra/advancement-titles.csv` | Advancement titles | 127 | 1603 |
-| advancement-descriptions | `extra/advancement-descriptions.csv` | Advancement descriptions | 127 | 1641 |
-| gamerules | `extra/gamerules.csv` | Game rules | 117 | 1490 |
-| commands | `extra/commands.csv` | Commands and arguments | 856 | 10758 |
-| gui | `extra/gui.csv` | GUI text | 581 | 6604 |
-| options | `extra/options.csv` | Options and key bindings | 754 | 8165 |
-| multiplayer | `extra/multiplayer.csv` | Multiplayer | 173 | 2013 |
-| realms | `extra/realms.csv` | Realms | 426 | 4962 |
-| world-management | `extra/world-management.csv` | World management | 294 | 3578 |
-| resource-packs | `extra/resource-packs.csv` | Resource and data packs | 62 | 761 |
-| telemetry | `extra/telemetry.csv` | Telemetry | 70 | 897 |
-| dev-tools | `extra/dev-tools.csv` | Development and test tools | 144 | 1811 |
-| misc | `extra/misc.csv` | Misc | 53 | 516 |
+| subtitles | `extra-subtitles.csv` | Subtitles | 1023 | 12407 |
+| death-messages | `extra-death-messages.csv` | Death messages | 106 | 1334 |
+| advancement-titles | `extra-advancement-titles.csv` | Advancement titles | 127 | 1603 |
+| advancement-descriptions | `extra-advancement-descriptions.csv` | Advancement descriptions | 127 | 1641 |
+| gamerules | `extra-gamerules.csv` | Game rules | 117 | 1490 |
+| commands | `extra-commands.csv` | Commands and arguments | 856 | 10758 |
+| gui | `extra-gui.csv` | GUI text | 581 | 6604 |
+| options | `extra-options.csv` | Options and key bindings | 754 | 8165 |
+| multiplayer | `extra-multiplayer.csv` | Multiplayer | 173 | 2013 |
+| realms | `extra-realms.csv` | Realms | 426 | 4962 |
+| world-management | `extra-world-management.csv` | World management | 294 | 3578 |
+| resource-packs | `extra-resource-packs.csv` | Resource and data packs | 62 | 761 |
+| telemetry | `extra-telemetry.csv` | Telemetry | 70 | 897 |
+| dev-tools | `extra-dev-tools.csv` | Development and test tools | 144 | 1811 |
+| misc | `extra-misc.csv` | Misc | 53 | 516 |
 
 ### Supplement categories (Wiki name standardisation, 13)
 

@@ -2,12 +2,12 @@
 
 [← Zurück zur Spielübersicht](../../README.md) · [zh-CN](README_zh-CN.md)
 
-Dieses Verzeichnis ist das Minecraft-Terminologieglossar mit **Deutsch (`de-DE`) als Zielsprache**: **7.789** nach `target` entdoppelte Begriffe und **101.431** Vergleichszeilen in **34** CSV-Dateien. Die Spalte `tgt_lng` enthält immer `de-DE`; `source` enthält denselben Begriff in **einer der übrigen 13 Sprachen**, `target` die deutsche Fassung. Die Dateien sind nach **Kategorie** getrennt – eine CSV pro Kategorie –, wobei System- und Textkategorien im Unterordner `extra/` liegen.
+Dieses Verzeichnis ist das Minecraft-Terminologieglossar mit **Deutsch (`de-DE`) als Zielsprache**: **7.789** nach `target` entdoppelte Begriffe und **101.431** Vergleichszeilen in **34** CSV-Dateien. Die Spalte `tgt_lng` enthält immer `de-DE`; `source` enthält denselben Begriff in **einer der übrigen 13 Sprachen**, `target` die deutsche Fassung. Die Dateien sind nach **Kategorie** getrennt – eine CSV pro Kategorie –, wobei System- und Textkategorien im Unterordner `extra-` liegen.
 
 ## Dateien
 
 - `blocks.csv`, `items.csv`, `entities.csv`, `biomes.csv`, `enchantments.csv`, `effects.csv`, `instruments.csv`, `materials.csv`, `paintings.csv`, `attributes.csv`, `item-groups.csv`, `jukebox-songs.csv`, `trim-patterns.csv`, `colors.csv`, `statistics.csv`, `maps.csv`, `music.csv`, `sound-categories.csv`, `game-modes.csv` — 19 Dateien der Hauptkategorien
-- `extra/subtitles.csv`, `extra/death-messages.csv`, `extra/advancement-titles.csv`, `extra/advancement-descriptions.csv`, `extra/gamerules.csv`, `extra/commands.csv`, `extra/gui.csv`, `extra/options.csv`, `extra/multiplayer.csv`, `extra/realms.csv`, `extra/world-management.csv`, `extra/resource-packs.csv`, `extra/telemetry.csv`, `extra/dev-tools.csv`, `extra/misc.csv` — 15 Dateien der Kategorien in `extra/`
+- `extra-subtitles.csv`, `extra-death-messages.csv`, `extra-advancement-titles.csv`, `extra-advancement-descriptions.csv`, `extra-gamerules.csv`, `extra-commands.csv`, `extra-gui.csv`, `extra-options.csv`, `extra-multiplayer.csv`, `extra-realms.csv`, `extra-world-management.csv`, `extra-resource-packs.csv`, `extra-telemetry.csv`, `extra-dev-tools.csv`, `extra-misc.csv` — 15 Dateien der Kategorien in `extra-`
 
 Zusammen **34 CSV-Dateien**. Alle haben dieselben drei Spalten:
 
@@ -39,7 +39,7 @@ de-DE/
 ├── music.csv
 ├── sound-categories.csv
 ├── game-modes.csv
-└── extra/  # System- und Textkategorien
+└── extra-  # System- und Textkategorien
     ├── subtitles.csv
     ├── death-messages.csv
     ├── advancement-titles.csv
@@ -86,25 +86,25 @@ Die Spalte „Begriffe“ nennt die Anzahl der **Namensobjekte der offiziellen S
 | `game-modes.csv` | Spielmodi | 6 | 77 |
 | **Zwischensumme** | 19 Dateien | **3.646** | **42.723** |
 
-### Kategorien in `extra/` (System und Text)
+### Kategorien in `extra-` (System und Text)
 
 | Kategorie | Thema | Begriffe | Zeilen |
 | --- | --- | ---: | ---: |
-| `extra/subtitles.csv` | Untertitel | 1.023 | 12.491 |
-| `extra/death-messages.csv` | Todesmeldungen | 106 | 1.348 |
-| `extra/advancement-titles.csv` | Fortschrittstitel | 127 | 1.603 |
-| `extra/advancement-descriptions.csv` | Fortschrittsbeschreibungen | 127 | 1.641 |
-| `extra/gamerules.csv` | Spielregeln | 117 | 1.490 |
-| `extra/commands.csv` | Befehle und Argumente | 856 | 10.793 |
-| `extra/gui.csv` | GUI-Texte | 581 | 6.606 |
-| `extra/options.csv` | Optionen und Tastenbelegung | 754 | 8.152 |
-| `extra/multiplayer.csv` | Mehrspieler | 173 | 2.019 |
-| `extra/realms.csv` | Realms | 426 | 5.010 |
-| `extra/world-management.csv` | Weltverwaltung | 294 | 3.570 |
-| `extra/resource-packs.csv` | Ressourcen- und Datenpakete | 62 | 761 |
-| `extra/telemetry.csv` | Telemetrie | 70 | 897 |
-| `extra/dev-tools.csv` | Entwickler- und Testwerkzeuge | 144 | 1.803 |
-| `extra/misc.csv` | Sonstiges | 53 | 524 |
+| `extra-subtitles.csv` | Untertitel | 1.023 | 12.491 |
+| `extra-death-messages.csv` | Todesmeldungen | 106 | 1.348 |
+| `extra-advancement-titles.csv` | Fortschrittstitel | 127 | 1.603 |
+| `extra-advancement-descriptions.csv` | Fortschrittsbeschreibungen | 127 | 1.641 |
+| `extra-gamerules.csv` | Spielregeln | 117 | 1.490 |
+| `extra-commands.csv` | Befehle und Argumente | 856 | 10.793 |
+| `extra-gui.csv` | GUI-Texte | 581 | 6.606 |
+| `extra-options.csv` | Optionen und Tastenbelegung | 754 | 8.152 |
+| `extra-multiplayer.csv` | Mehrspieler | 173 | 2.019 |
+| `extra-realms.csv` | Realms | 426 | 5.010 |
+| `extra-world-management.csv` | Weltverwaltung | 294 | 3.570 |
+| `extra-resource-packs.csv` | Ressourcen- und Datenpakete | 62 | 761 |
+| `extra-telemetry.csv` | Telemetrie | 70 | 897 |
+| `extra-dev-tools.csv` | Entwickler- und Testwerkzeuge | 144 | 1.803 |
+| `extra-misc.csv` | Sonstiges | 53 | 524 |
 | **Zwischensumme** | 15 Dateien | **4.913** | **58.708** |
 
 **Gesamt: 34 Dateien, 7.789 eindeutige Begriffe (nach `target` entdoppelt), 101.431 Vergleichszeilen.**

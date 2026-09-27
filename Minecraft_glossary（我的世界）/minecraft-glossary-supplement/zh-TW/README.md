@@ -9,7 +9,7 @@
 
 ## 檔案
 
-- `<分類>.csv`（13 個）— `source,target,tgt_lng` 三欄，可直接匯入 CAT / 術語管理工具；本補充庫**沒有** `extra/` 子目錄
+- `<分類>.csv`（13 個）— `source,target,tgt_lng` 三欄，可直接匯入 CAT / 術語管理工具；本補充庫**沒有** `extra-` 子目錄
 
 ## 分類與條數
 

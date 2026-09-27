@@ -7,7 +7,7 @@ Bu dizin, *Genshin Impact* terminoloji sözlüğünün **hedef dili Türkçe (`t
 ## Dosyalar
 
 - `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 ana kategori dosyası
-- `TCG/action-cards.csv`, `TCG/character-cards.csv`, `TCG/enemy-cards.csv`, `TCG/summons.csv`, `TCG/status-effects.csv`, `TCG/keywords.csv`, `TCG/card-backs.csv`, `TCG/card-boxes.csv`, `TCG/detailed-rules.csv`, `TCG/level-rewards.csv` — 10 TCG (Yedi Kutsal Çağrı) alt kategori dosyası
+- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 TCG (Yedi Kutsal Çağrı) alt kategori dosyası
 
 Toplam **27 CSV dosyası**. Tümü aynı üç sütunlu biçimdedir:
 
@@ -37,7 +37,7 @@ tr-TR/
 ├── geographies.csv
 ├── achievements.csv
 ├── adventureranks.csv
-└── TCG/
+└── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
     ├── enemy-cards.csv
@@ -77,20 +77,20 @@ tr-TR/
 | adventureranks | `adventureranks.csv` | 21 | 169 |
 | **Ara toplam** | 17 dosya | — | **63.184** |
 
-### TCG alt kategorileri (`TCG/`)
+### TCG alt kategorileri (`tcg-`)
 
 | Alt kategori | Dosya | Terim | Satır |
 | --- | --- | ---: | ---: |
-| action-cards | `TCG/action-cards.csv` | 927 | 9.592 |
-| character-cards | `TCG/character-cards.csv` | 149 | 929 |
-| enemy-cards | `TCG/enemy-cards.csv` | 134 | 1.114 |
-| summons | `TCG/summons.csv` | 152 | 1.139 |
-| status-effects | `TCG/status-effects.csv` | 1.159 | 11.204 |
-| keywords | `TCG/keywords.csv` | 139 | 1.511 |
-| card-backs | `TCG/card-backs.csv` | 39 | 407 |
-| card-boxes | `TCG/card-boxes.csv` | 7 | 32 |
-| detailed-rules | `TCG/detailed-rules.csv` | 11 | 142 |
-| level-rewards | `TCG/level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards.csv` | 927 | 9.592 |
+| character-cards | `tcg-character-cards.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1.114 |
+| summons | `tcg-summons.csv` | 152 | 1.139 |
+| status-effects | `tcg-status-effects.csv` | 1.159 | 11.204 |
+| keywords | `tcg-keywords.csv` | 139 | 1.511 |
+| card-backs | `tcg-card-backs.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
 | **Ara toplam** | 10 dosya | — | **26.239** |
 
 **Bu dizinin toplamı: 27 dosya, 89.423 satır.**

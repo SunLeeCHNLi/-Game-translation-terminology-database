@@ -2,12 +2,12 @@
 
 [← ゲーム総合説明に戻る](../../README.md) · [zh-CN](README_zh-CN.md)
 
-本ディレクトリは、**日本語（`ja-JP`）を対象言語**とする Minecraft 用語集です。**34** 個のカテゴリ別 CSV に、**7,826** 語の用語（`target` 列で重複除去）と **101,553** 行の対照が収録されています。`tgt_lng` 列は常に `ja-JP` で、`source` は同じ用語を書いた**他の 13 言語のいずれか**、`target` は日本語表記です。ファイルは**カテゴリ**単位に分割し（1 カテゴリ 1 CSV）、システム系・テキスト系のカテゴリは `extra/` サブフォルダにまとめています。
+本ディレクトリは、**日本語（`ja-JP`）を対象言語**とする Minecraft 用語集です。**34** 個のカテゴリ別 CSV に、**7,826** 語の用語（`target` 列で重複除去）と **101,553** 行の対照が収録されています。`tgt_lng` 列は常に `ja-JP` で、`source` は同じ用語を書いた**他の 13 言語のいずれか**、`target` は日本語表記です。ファイルは**カテゴリ**単位に分割し（1 カテゴリ 1 CSV）、システム系・テキスト系のカテゴリは `extra-` サブフォルダにまとめています。
 
 ## ファイル
 
 - `blocks.csv`, `items.csv`, `entities.csv`, `biomes.csv`, `enchantments.csv`, `effects.csv`, `instruments.csv`, `materials.csv`, `paintings.csv`, `attributes.csv`, `item-groups.csv`, `jukebox-songs.csv`, `trim-patterns.csv`, `colors.csv`, `statistics.csv`, `maps.csv`, `music.csv`, `sound-categories.csv`, `game-modes.csv` — 主要カテゴリのファイル 19 件
-- `extra/subtitles.csv`, `extra/death-messages.csv`, `extra/advancement-titles.csv`, `extra/advancement-descriptions.csv`, `extra/gamerules.csv`, `extra/commands.csv`, `extra/gui.csv`, `extra/options.csv`, `extra/multiplayer.csv`, `extra/realms.csv`, `extra/world-management.csv`, `extra/resource-packs.csv`, `extra/telemetry.csv`, `extra/dev-tools.csv`, `extra/misc.csv` — `extra/` のシステム・テキスト系カテゴリのファイル 15 件
+- `extra-subtitles.csv`, `extra-death-messages.csv`, `extra-advancement-titles.csv`, `extra-advancement-descriptions.csv`, `extra-gamerules.csv`, `extra-commands.csv`, `extra-gui.csv`, `extra-options.csv`, `extra-multiplayer.csv`, `extra-realms.csv`, `extra-world-management.csv`, `extra-resource-packs.csv`, `extra-telemetry.csv`, `extra-dev-tools.csv`, `extra-misc.csv` — `extra-` のシステム・テキスト系カテゴリのファイル 15 件
 
 合計 **34 個の CSV ファイル**で、いずれも同じ 3 列の形式です。
 
@@ -39,7 +39,7 @@ ja-JP/
 ├── music.csv
 ├── sound-categories.csv
 ├── game-modes.csv
-└── extra/  # システム系・テキスト系カテゴリ
+└── extra-  # システム系・テキスト系カテゴリ
     ├── subtitles.csv
     ├── death-messages.csv
     ├── advancement-titles.csv
@@ -86,25 +86,25 @@ ja-JP/
 | `game-modes.csv` | ゲームモード | 6 | 77 |
 | **小計** | 19 ファイル | **3,646** | **42,771** |
 
-### `extra/` のカテゴリ（システム・テキスト）
+### `extra-` のカテゴリ（システム・テキスト）
 
 | カテゴリ | テーマ | 語数 | 対照行数 |
 | --- | --- | ---: | ---: |
-| `extra/subtitles.csv` | 字幕 | 1,023 | 12,528 |
-| `extra/death-messages.csv` | 死亡メッセージ | 106 | 1,354 |
-| `extra/advancement-titles.csv` | 進捗のタイトル | 127 | 1,603 |
-| `extra/advancement-descriptions.csv` | 進捗の説明 | 127 | 1,650 |
-| `extra/gamerules.csv` | ゲームルール | 117 | 1,490 |
-| `extra/commands.csv` | コマンドと引数 | 856 | 10,743 |
-| `extra/gui.csv` | インターフェース | 581 | 6,655 |
-| `extra/options.csv` | 設定とキー | 754 | 8,162 |
-| `extra/multiplayer.csv` | マルチプレイ | 173 | 2,015 |
-| `extra/realms.csv` | Realms | 426 | 4,988 |
-| `extra/world-management.csv` | ワールド管理 | 294 | 3,609 |
-| `extra/resource-packs.csv` | リソースパックとデータパック | 62 | 761 |
-| `extra/telemetry.csv` | テレメトリ | 70 | 897 |
-| `extra/dev-tools.csv` | 開発・テストツール | 144 | 1,811 |
-| `extra/misc.csv` | その他 | 53 | 516 |
+| `extra-subtitles.csv` | 字幕 | 1,023 | 12,528 |
+| `extra-death-messages.csv` | 死亡メッセージ | 106 | 1,354 |
+| `extra-advancement-titles.csv` | 進捗のタイトル | 127 | 1,603 |
+| `extra-advancement-descriptions.csv` | 進捗の説明 | 127 | 1,650 |
+| `extra-gamerules.csv` | ゲームルール | 117 | 1,490 |
+| `extra-commands.csv` | コマンドと引数 | 856 | 10,743 |
+| `extra-gui.csv` | インターフェース | 581 | 6,655 |
+| `extra-options.csv` | 設定とキー | 754 | 8,162 |
+| `extra-multiplayer.csv` | マルチプレイ | 173 | 2,015 |
+| `extra-realms.csv` | Realms | 426 | 4,988 |
+| `extra-world-management.csv` | ワールド管理 | 294 | 3,609 |
+| `extra-resource-packs.csv` | リソースパックとデータパック | 62 | 761 |
+| `extra-telemetry.csv` | テレメトリ | 70 | 897 |
+| `extra-dev-tools.csv` | 開発・テストツール | 144 | 1,811 |
+| `extra-misc.csv` | その他 | 53 | 516 |
 | **小計** | 15 ファイル | **4,913** | **58,782** |
 
 **本ディレクトリ合計：34 ファイル、`target` 列で重複除去した用語 7,826 語、対照 101,553 行。**

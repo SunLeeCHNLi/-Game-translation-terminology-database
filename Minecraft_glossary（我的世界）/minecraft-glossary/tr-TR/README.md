@@ -3,7 +3,7 @@
 [← Oyunun genel açıklamasına dön](../../README.md)
 
 Bu dizin, **hedef dili Türkçe (`tr-TR`) olan** terim sözlüğüdür.
-**34 CSV dosyasında** (34 kategori: 19'u dizin kökünde, 15'i `extra/` içinde) toplam
+**34 CSV dosyasında** (34 kategori: 19'u dizin kökünde, 15'i `extra-` içinde) toplam
 **101,665 karşılık satırı** bulunur; `tgt_lng` sütunu her zaman `tr-TR`, `source` sütunu ise diğer
 13 dildeki yazımları içerir. Hedef çeviriler **Minecraft Java Edition'ın resmî dil dosyalarından**
 alınmıştır; yeniden çeviri değildir.
@@ -11,7 +11,7 @@ alınmıştır; yeniden çeviri değildir.
 ## Dosyalar
 
 - `<kategori>.csv` (19 dosya) — `source,target,tgt_lng` olmak üzere üç sütun; CAT ve terim yönetimi araçlarına doğrudan aktarılabilir
-- `extra/<kategori>.csv` (15 dosya) — aynı üç sütun; sistem ve metin kategorileri için
+- `extra-<kategori>.csv` (15 dosya) — aynı üç sütun; sistem ve metin kategorileri için
 
 ## Kategoriler ve sayılar
 
@@ -37,25 +37,25 @@ alınmıştır; yeniden çeviri değildir.
 | `sound-categories` | Ses kategorileri | `sound-categories.csv` | 133 |
 | `game-modes` | Oyun modları | `game-modes.csv` | 77 |
 
-### `extra/` (sistem ve metin)
+### `extra-` (sistem ve metin)
 
 | Kategori | Konu | Dosya | Satır |
 | --- | --- | --- | --- |
-| `subtitles` | Alt yazılar | `extra/subtitles.csv` | 12,431 |
-| `death-messages` | Ölüm mesajları | `extra/death-messages.csv` | 1,354 |
-| `advancement-titles` | Başarım adları | `extra/advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | Başarım açıklamaları | `extra/advancement-descriptions.csv` | 1,650 |
-| `gamerules` | Oyun kuralları | `extra/gamerules.csv` | 1,490 |
-| `commands` | Komutlar ve argümanlar | `extra/commands.csv` | 10,765 |
-| `gui` | Arayüz metinleri | `extra/gui.csv` | 6,751 |
-| `options` | Ayarlar ve tuşlar | `extra/options.csv` | 8,174 |
-| `multiplayer` | Çok oyunculu | `extra/multiplayer.csv` | 2,021 |
-| `realms` | Realms | `extra/realms.csv` | 5,054 |
-| `world-management` | Dünya yönetimi | `extra/world-management.csv` | 3,581 |
-| `resource-packs` | Kaynak ve veri paketleri | `extra/resource-packs.csv` | 761 |
-| `telemetry` | Telemetri | `extra/telemetry.csv` | 897 |
-| `dev-tools` | Geliştirme ve test araçları | `extra/dev-tools.csv` | 1,811 |
-| `misc` | Diğer | `extra/misc.csv` | 516 |
+| `subtitles` | Alt yazılar | `extra-subtitles.csv` | 12,431 |
+| `death-messages` | Ölüm mesajları | `extra-death-messages.csv` | 1,354 |
+| `advancement-titles` | Başarım adları | `extra-advancement-titles.csv` | 1,603 |
+| `advancement-descriptions` | Başarım açıklamaları | `extra-advancement-descriptions.csv` | 1,650 |
+| `gamerules` | Oyun kuralları | `extra-gamerules.csv` | 1,490 |
+| `commands` | Komutlar ve argümanlar | `extra-commands.csv` | 10,765 |
+| `gui` | Arayüz metinleri | `extra-gui.csv` | 6,751 |
+| `options` | Ayarlar ve tuşlar | `extra-options.csv` | 8,174 |
+| `multiplayer` | Çok oyunculu | `extra-multiplayer.csv` | 2,021 |
+| `realms` | Realms | `extra-realms.csv` | 5,054 |
+| `world-management` | Dünya yönetimi | `extra-world-management.csv` | 3,581 |
+| `resource-packs` | Kaynak ve veri paketleri | `extra-resource-packs.csv` | 761 |
+| `telemetry` | Telemetri | `extra-telemetry.csv` | 897 |
+| `dev-tools` | Geliştirme ve test araçları | `extra-dev-tools.csv` | 1,811 |
+| `misc` | Diğer | `extra-misc.csv` | 516 |
 
 ### Dosya listesi
 
@@ -81,7 +81,7 @@ minecraft-glossary/
 |   music.csv
 |   sound-categories.csv
 |   game-modes.csv
-|   +-- extra/               # sistem ve metin kategorileri
+|   +-- extra-               # sistem ve metin kategorileri
 |       |-- subtitles.csv
 |       |-- death-messages.csv
 |       |-- advancement-titles.csv

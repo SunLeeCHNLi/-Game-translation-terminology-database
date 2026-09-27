@@ -6,7 +6,7 @@
 
 ## 使用方法
 
-1. **单文件下载**：进入对应语言目录（例如 `minecraft-glossary/zh-CN/`，系统与文本类目在该语言目录的 `extra/` 子文件夹内），下载所需的 `blocks.csv` / `items.csv` / `extra/subtitles.csv` 等单个类目文件，即可直接导入沉浸式翻译等支持术语表的工具。
+1. **单文件下载**：进入对应语言目录（例如 `minecraft-glossary/zh-CN/`，系统与文本类目在该语言目录的 `extra-` 子文件夹内），下载所需的 `blocks.csv` / `items.csv` / `extra-subtitles.csv` 等单个类目文件，即可直接导入沉浸式翻译等支持术语表的工具。
 2. **整个语言目录打包下载**：把某一个语言目录（如 `minecraft-glossary/ja-JP/`）整体下载下来，按需选用其中的类目文件；补充词库则在 `minecraft-glossary-supplement/zh-CN/`、`minecraft-glossary-supplement/zh-TW/` 两个目录中。
 3. **克隆整个仓库自行复现**：配合 `tools/` 下的脚本与本文档「使用的相关内容」中列出的上游仓库，可自行重新生成全部 CSV 与元数据（见「生成与复现」）。
 
@@ -23,7 +23,7 @@ Minecraft_glossary（我的世界）/
 │   │   ├── blocks.csv            # 主类目（游戏内容），19 个文件
 │   │   ├── items.csv
 │   │   ├── ...
-│   │   └── extra/                # 系统与文本类目，15 个文件
+│   │   └── extra-                # 系统与文本类目，15 个文件
 │   │       ├── subtitles.csv
 │   │       └── ...
 │   ├── zh-TW/                    # 目标语言 = 繁體中文
@@ -52,7 +52,7 @@ Minecraft_glossary（我的世界）/
     └── supplement_counts.json    # 补充词库各语言、各类目条目数统计
 ```
 
-每个语言目录下除 19 个主类目 CSV 外，都有一个 `extra/` 子文件夹存放 15 个系统与文本类目 CSV（共 34 个 CSV / 语言），CSV 文件名即类目名。
+每个语言目录下除 19 个主类目 CSV 外，都有一个 `extra-` 子文件夹存放 15 个系统与文本类目 CSV（共 34 个 CSV / 语言），CSV 文件名即类目名。
 
 ## 数据概览
 
@@ -110,25 +110,25 @@ Minecraft_glossary（我的世界）/
 | sound-categories | `sound-categories.csv` | 声音分类 | 11 | 133 |
 | game-modes | `game-modes.csv` | 游戏模式 | 6 | 77 |
 
-### 主词库 `extra/` 类目（系统与文本，15 个）
+### 主词库 `extra-` 类目（系统与文本，15 个）
 
 | 类目 | 文件 | 说明 | 词条数 | zh-CN 行数 |
 | --- | --- | --- | --- | --- |
-| subtitles | `extra/subtitles.csv` | 字幕 | 1023 | 12407 |
-| death-messages | `extra/death-messages.csv` | 死亡消息 | 106 | 1334 |
-| advancement-titles | `extra/advancement-titles.csv` | 进度标题 | 127 | 1603 |
-| advancement-descriptions | `extra/advancement-descriptions.csv` | 进度描述 | 127 | 1641 |
-| gamerules | `extra/gamerules.csv` | 游戏规则 | 117 | 1490 |
-| commands | `extra/commands.csv` | 命令与参数 | 856 | 10758 |
-| gui | `extra/gui.csv` | 界面文本 | 581 | 6604 |
-| options | `extra/options.csv` | 设置与按键 | 754 | 8165 |
-| multiplayer | `extra/multiplayer.csv` | 多人游戏 | 173 | 2013 |
-| realms | `extra/realms.csv` | Realms | 426 | 4962 |
-| world-management | `extra/world-management.csv` | 世界管理 | 294 | 3578 |
-| resource-packs | `extra/resource-packs.csv` | 资源包与数据包 | 62 | 761 |
-| telemetry | `extra/telemetry.csv` | 遥测 | 70 | 897 |
-| dev-tools | `extra/dev-tools.csv` | 开发与测试工具 | 144 | 1811 |
-| misc | `extra/misc.csv` | 其他 | 53 | 516 |
+| subtitles | `extra-subtitles.csv` | 字幕 | 1023 | 12407 |
+| death-messages | `extra-death-messages.csv` | 死亡消息 | 106 | 1334 |
+| advancement-titles | `extra-advancement-titles.csv` | 进度标题 | 127 | 1603 |
+| advancement-descriptions | `extra-advancement-descriptions.csv` | 进度描述 | 127 | 1641 |
+| gamerules | `extra-gamerules.csv` | 游戏规则 | 117 | 1490 |
+| commands | `extra-commands.csv` | 命令与参数 | 856 | 10758 |
+| gui | `extra-gui.csv` | 界面文本 | 581 | 6604 |
+| options | `extra-options.csv` | 设置与按键 | 754 | 8165 |
+| multiplayer | `extra-multiplayer.csv` | 多人游戏 | 173 | 2013 |
+| realms | `extra-realms.csv` | Realms | 426 | 4962 |
+| world-management | `extra-world-management.csv` | 世界管理 | 294 | 3578 |
+| resource-packs | `extra-resource-packs.csv` | 资源包与数据包 | 62 | 761 |
+| telemetry | `extra-telemetry.csv` | 遥测 | 70 | 897 |
+| dev-tools | `extra-dev-tools.csv` | 开发与测试工具 | 144 | 1811 |
+| misc | `extra-misc.csv` | 其他 | 53 | 516 |
 
 ### 补充词库类目（Wiki 译名标准化，13 个）
 

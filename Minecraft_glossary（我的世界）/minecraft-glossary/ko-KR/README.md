@@ -2,12 +2,12 @@
 
 [← 게임 전체 안내로 돌아가기](../../README.md) · [zh-CN](README_zh-CN.md)
 
-이 디렉터리는 **한국어(`ko-KR`)를 대상 언어**로 하는 Minecraft 용어집입니다. **34**개의 분류별 CSV에 **7,784**개의 표제어(`target` 열 기준 중복 제거)와 **101,279**행의 대조가 담겨 있습니다. `tgt_lng` 열은 항상 `ko-KR`이고, `source`는 같은 표제어를 쓴 **나머지 13개 언어 가운데 하나**, `target`은 한국어 표기입니다. 파일은 **분류**별로 나뉘어 있고(분류당 CSV 하나), 시스템·텍스트 분류는 `extra/` 하위 폴더에 모아 두었습니다.
+이 디렉터리는 **한국어(`ko-KR`)를 대상 언어**로 하는 Minecraft 용어집입니다. **34**개의 분류별 CSV에 **7,784**개의 표제어(`target` 열 기준 중복 제거)와 **101,279**행의 대조가 담겨 있습니다. `tgt_lng` 열은 항상 `ko-KR`이고, `source`는 같은 표제어를 쓴 **나머지 13개 언어 가운데 하나**, `target`은 한국어 표기입니다. 파일은 **분류**별로 나뉘어 있고(분류당 CSV 하나), 시스템·텍스트 분류는 `extra-` 하위 폴더에 모아 두었습니다.
 
 ## 파일
 
 - `blocks.csv`, `items.csv`, `entities.csv`, `biomes.csv`, `enchantments.csv`, `effects.csv`, `instruments.csv`, `materials.csv`, `paintings.csv`, `attributes.csv`, `item-groups.csv`, `jukebox-songs.csv`, `trim-patterns.csv`, `colors.csv`, `statistics.csv`, `maps.csv`, `music.csv`, `sound-categories.csv`, `game-modes.csv` — 주요 분류 파일 19개
-- `extra/subtitles.csv`, `extra/death-messages.csv`, `extra/advancement-titles.csv`, `extra/advancement-descriptions.csv`, `extra/gamerules.csv`, `extra/commands.csv`, `extra/gui.csv`, `extra/options.csv`, `extra/multiplayer.csv`, `extra/realms.csv`, `extra/world-management.csv`, `extra/resource-packs.csv`, `extra/telemetry.csv`, `extra/dev-tools.csv`, `extra/misc.csv` — `extra/` 시스템·텍스트 분류 파일 15개
+- `extra-subtitles.csv`, `extra-death-messages.csv`, `extra-advancement-titles.csv`, `extra-advancement-descriptions.csv`, `extra-gamerules.csv`, `extra-commands.csv`, `extra-gui.csv`, `extra-options.csv`, `extra-multiplayer.csv`, `extra-realms.csv`, `extra-world-management.csv`, `extra-resource-packs.csv`, `extra-telemetry.csv`, `extra-dev-tools.csv`, `extra-misc.csv` — `extra-` 시스템·텍스트 분류 파일 15개
 
 모두 **34개의 CSV 파일**이며, 형식은 동일한 3열입니다:
 
@@ -39,7 +39,7 @@ ko-KR/
 ├── music.csv
 ├── sound-categories.csv
 ├── game-modes.csv
-└── extra/  # 시스템·텍스트 분류
+└── extra-  # 시스템·텍스트 분류
     ├── subtitles.csv
     ├── death-messages.csv
     ├── advancement-titles.csv
@@ -86,25 +86,25 @@ ko-KR/
 | `game-modes.csv` | 게임 모드 | 6 | 77 |
 | **소계** | 19개 파일 | **3,646** | **42,717** |
 
-### `extra/` 분류(시스템·텍스트)
+### `extra-` 분류(시스템·텍스트)
 
 | 분류 | 주제 | 표제어 수 | 대조 행 수 |
 | --- | --- | ---: | ---: |
-| `extra/subtitles.csv` | 자막 | 1,023 | 12,412 |
-| `extra/death-messages.csv` | 사망 메시지 | 106 | 1,352 |
-| `extra/advancement-titles.csv` | 발전 과제 제목 | 127 | 1,603 |
-| `extra/advancement-descriptions.csv` | 발전 과제 설명 | 127 | 1,641 |
-| `extra/gamerules.csv` | 게임 규칙 | 117 | 1,490 |
-| `extra/commands.csv` | 명령어와 인수 | 856 | 10,733 |
-| `extra/gui.csv` | 인터페이스 텍스트 | 581 | 6,637 |
-| `extra/options.csv` | 설정 및 키 | 754 | 8,163 |
-| `extra/multiplayer.csv` | 멀티플레이 | 173 | 2,015 |
-| `extra/realms.csv` | Realms | 426 | 4,970 |
-| `extra/world-management.csv` | 월드 관리 | 294 | 3,569 |
-| `extra/resource-packs.csv` | 리소스 팩과 데이터 팩 | 62 | 761 |
-| `extra/telemetry.csv` | 원격 측정 | 70 | 897 |
-| `extra/dev-tools.csv` | 개발 및 테스트 도구 | 144 | 1,803 |
-| `extra/misc.csv` | 기타 | 53 | 516 |
+| `extra-subtitles.csv` | 자막 | 1,023 | 12,412 |
+| `extra-death-messages.csv` | 사망 메시지 | 106 | 1,352 |
+| `extra-advancement-titles.csv` | 발전 과제 제목 | 127 | 1,603 |
+| `extra-advancement-descriptions.csv` | 발전 과제 설명 | 127 | 1,641 |
+| `extra-gamerules.csv` | 게임 규칙 | 117 | 1,490 |
+| `extra-commands.csv` | 명령어와 인수 | 856 | 10,733 |
+| `extra-gui.csv` | 인터페이스 텍스트 | 581 | 6,637 |
+| `extra-options.csv` | 설정 및 키 | 754 | 8,163 |
+| `extra-multiplayer.csv` | 멀티플레이 | 173 | 2,015 |
+| `extra-realms.csv` | Realms | 426 | 4,970 |
+| `extra-world-management.csv` | 월드 관리 | 294 | 3,569 |
+| `extra-resource-packs.csv` | 리소스 팩과 데이터 팩 | 62 | 761 |
+| `extra-telemetry.csv` | 원격 측정 | 70 | 897 |
+| `extra-dev-tools.csv` | 개발 및 테스트 도구 | 144 | 1,803 |
+| `extra-misc.csv` | 기타 | 53 | 516 |
 | **소계** | 15개 파일 | **4,913** | **58,562** |
 
 **이 디렉터리 합계: 34개 파일, `target` 열 기준 중복 제거 표제어 7,784개, 대조 101,279행.**

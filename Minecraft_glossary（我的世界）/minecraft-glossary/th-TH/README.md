@@ -4,14 +4,14 @@
 
 ไดเรกทอรีนี้เป็นคลังศัพท์ที่**ใช้ภาษาไทย (`th-TH`) เป็นภาษาปลายทาง**
 มี **101,264 บรรทัดเทียบเคียง** ใน **ไฟล์ CSV 34 ไฟล์** (34 หมวดหมู่: 19 ไฟล์ในรากไดเรกทอรี
-และ 15 ไฟล์ใน `extra/`) โดยคอลัมน์ `tgt_lng` เป็น `th-TH` เสมอ และคอลัมน์ `source` เก็บรูปเขียน
+และ 15 ไฟล์ใน `extra-`) โดยคอลัมน์ `tgt_lng` เป็น `th-TH` เสมอ และคอลัมน์ `source` เก็บรูปเขียน
 ของอีก 13 ภาษาที่เหลือ คำแปลปลายทางมาจาก**ไฟล์ภาษาทางการของ Minecraft Java Edition**
 ไม่ใช่การแปลซ้ำ
 
 ## ไฟล์
 
 - `<หมวดหมู่>.csv` (19 ไฟล์) — สามคอลัมน์ `source,target,tgt_lng` นำเข้าเครื่องมือ CAT หรือระบบจัดการศัพท์ได้โดยตรง
-- `extra/<หมวดหมู่>.csv` (15 ไฟล์) — สามคอลัมน์เดียวกัน สำหรับหมวดหมู่ระบบและข้อความ
+- `extra-<หมวดหมู่>.csv` (15 ไฟล์) — สามคอลัมน์เดียวกัน สำหรับหมวดหมู่ระบบและข้อความ
 
 ## หมวดหมู่และจำนวน
 
@@ -37,25 +37,25 @@
 | `sound-categories` | หมวดหมู่เสียง | `sound-categories.csv` | 133 |
 | `game-modes` | โหมดเกม | `game-modes.csv` | 77 |
 
-### `extra/` (ระบบและข้อความ)
+### `extra-` (ระบบและข้อความ)
 
 | หมวดหมู่ | หัวข้อ | ไฟล์ | บรรทัด |
 | --- | --- | --- | --- |
-| `subtitles` | คำบรรยาย | `extra/subtitles.csv` | 12,402 |
-| `death-messages` | ข้อความเมื่อตาย | `extra/death-messages.csv` | 1,336 |
-| `advancement-titles` | ชื่อความก้าวหน้า | `extra/advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | คำอธิบายความก้าวหน้า | `extra/advancement-descriptions.csv` | 1,641 |
-| `gamerules` | กฎของเกม | `extra/gamerules.csv` | 1,490 |
-| `commands` | คำสั่งและอาร์กิวเมนต์ | `extra/commands.csv` | 10,750 |
-| `gui` | ข้อความส่วนติดต่อผู้ใช้ | `extra/gui.csv` | 6,649 |
-| `options` | การตั้งค่าและปุ่มกด | `extra/options.csv` | 8,162 |
-| `multiplayer` | ผู้เล่นหลายคน | `extra/multiplayer.csv` | 2,010 |
-| `realms` | Realms | `extra/realms.csv` | 4,964 |
-| `world-management` | การจัดการโลก | `extra/world-management.csv` | 3,574 |
-| `resource-packs` | ทรัพยากรและดาต้าแพ็ก | `extra/resource-packs.csv` | 761 |
-| `telemetry` | การส่งข้อมูลเทเลเมทรี | `extra/telemetry.csv` | 897 |
-| `dev-tools` | เครื่องมือพัฒนาและทดสอบ | `extra/dev-tools.csv` | 1,803 |
-| `misc` | อื่น ๆ | `extra/misc.csv` | 516 |
+| `subtitles` | คำบรรยาย | `extra-subtitles.csv` | 12,402 |
+| `death-messages` | ข้อความเมื่อตาย | `extra-death-messages.csv` | 1,336 |
+| `advancement-titles` | ชื่อความก้าวหน้า | `extra-advancement-titles.csv` | 1,603 |
+| `advancement-descriptions` | คำอธิบายความก้าวหน้า | `extra-advancement-descriptions.csv` | 1,641 |
+| `gamerules` | กฎของเกม | `extra-gamerules.csv` | 1,490 |
+| `commands` | คำสั่งและอาร์กิวเมนต์ | `extra-commands.csv` | 10,750 |
+| `gui` | ข้อความส่วนติดต่อผู้ใช้ | `extra-gui.csv` | 6,649 |
+| `options` | การตั้งค่าและปุ่มกด | `extra-options.csv` | 8,162 |
+| `multiplayer` | ผู้เล่นหลายคน | `extra-multiplayer.csv` | 2,010 |
+| `realms` | Realms | `extra-realms.csv` | 4,964 |
+| `world-management` | การจัดการโลก | `extra-world-management.csv` | 3,574 |
+| `resource-packs` | ทรัพยากรและดาต้าแพ็ก | `extra-resource-packs.csv` | 761 |
+| `telemetry` | การส่งข้อมูลเทเลเมทรี | `extra-telemetry.csv` | 897 |
+| `dev-tools` | เครื่องมือพัฒนาและทดสอบ | `extra-dev-tools.csv` | 1,803 |
+| `misc` | อื่น ๆ | `extra-misc.csv` | 516 |
 
 ### รายการไฟล์
 
@@ -81,7 +81,7 @@ minecraft-glossary/
 |   music.csv
 |   sound-categories.csv
 |   game-modes.csv
-|   +-- extra/               # หมวดหมู่ระบบและข้อความ
+|   +-- extra-               # หมวดหมู่ระบบและข้อความ
 |       |-- subtitles.csv
 |       |-- death-messages.csv
 |       |-- advancement-titles.csv

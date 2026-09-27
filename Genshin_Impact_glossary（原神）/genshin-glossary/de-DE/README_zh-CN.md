@@ -10,8 +10,8 @@
 
 - **17 个主类目**（直接位于本目录）：
   `characters.csv`、`talents.csv`、`constellations.csv`、`weapons.csv`、`materials.csv`、`foods.csv`、`crafts.csv`、`artifacts.csv`、`domains.csv`、`enemies.csv`、`animals.csv`、`outfits.csv`、`windgliders.csv`、`namecards.csv`、`geographies.csv`、`achievements.csv`、`adventureranks.csv`
-- **10 个 TCG 子类目**（位于 `TCG/` 子目录）：
-  `TCG/action-cards.csv`、`TCG/character-cards.csv`、`TCG/enemy-cards.csv`、`TCG/summons.csv`、`TCG/status-effects.csv`、`TCG/keywords.csv`、`TCG/card-backs.csv`、`TCG/card-boxes.csv`、`TCG/detailed-rules.csv`、`TCG/level-rewards.csv`
+- **10 个 TCG 子类目**（位于 `tcg-` 前缀）：
+  `tcg-action-cards.csv`、`tcg-character-cards.csv`、`tcg-enemy-cards.csv`、`tcg-summons.csv`、`tcg-status-effects.csv`、`tcg-keywords.csv`、`tcg-card-backs.csv`、`tcg-card-boxes.csv`、`tcg-detailed-rules.csv`、`tcg-level-rewards.csv`
 
 每个文件只有三列：
 
@@ -42,16 +42,16 @@
 | `geographies.csv` | 地名 | 268 | 3,389 |
 | `achievements.csv` | 成就 | 1,548 | 19,464 |
 | `adventureranks.csv` | 冒险等阶说明 | 21 | 157 |
-| `TCG/action-cards.csv` | 行动牌 | 927 | 9,530 |
-| `TCG/character-cards.csv` | 角色牌 | 149 | 929 |
-| `TCG/enemy-cards.csv` | 敌人牌 | 134 | 1,114 |
-| `TCG/summons.csv` | 召唤物 | 152 | 1,139 |
-| `TCG/status-effects.csv` | 状态效果 | 1,159 | 11,217 |
-| `TCG/keywords.csv` | 关键词 | 139 | 1,511 |
-| `TCG/card-backs.csv` | 牌背 | 39 | 407 |
-| `TCG/card-boxes.csv` | 牌盒 | 7 | 32 |
-| `TCG/detailed-rules.csv` | 详细规则 | 11 | 142 |
-| `TCG/level-rewards.csv` | 等级奖励 | 26 | 169 |
+| `tcg-action-cards.csv` | 行动牌 | 927 | 9,530 |
+| `tcg-character-cards.csv` | 角色牌 | 149 | 929 |
+| `tcg-enemy-cards.csv` | 敌人牌 | 134 | 1,114 |
+| `tcg-summons.csv` | 召唤物 | 152 | 1,139 |
+| `tcg-status-effects.csv` | 状态效果 | 1,159 | 11,217 |
+| `tcg-keywords.csv` | 关键词 | 139 | 1,511 |
+| `tcg-card-backs.csv` | 牌背 | 39 | 407 |
+| `tcg-card-boxes.csv` | 牌盒 | 7 | 32 |
+| `tcg-detailed-rules.csv` | 详细规则 | 11 | 142 |
+| `tcg-level-rewards.csv` | 等级奖励 | 26 | 169 |
 | **主类目（17 个文件）** | — | **5,443** | **63,172** |
 | **TCG（10 个文件）** | — | **2,743** | **26,190** |
 | **合计（27 个文件）** | — | **8,186** | **89,362** |

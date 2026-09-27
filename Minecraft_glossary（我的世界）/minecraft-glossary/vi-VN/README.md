@@ -4,14 +4,14 @@
 
 Thư mục này là kho thuật ngữ có **ngôn ngữ đích là tiếng Việt (`vi-VN`)**.
 Gồm **101,325 dòng đối chiếu** trong **34 tệp CSV** (34 hạng mục: 19 tệp ở thư mục gốc và
-15 tệp trong `extra/`); cột `tgt_lng` luôn là `vi-VN`, cột `source` chứa cách viết của 13 ngôn ngữ
+15 tệp trong `extra-`); cột `tgt_lng` luôn là `vi-VN`, cột `source` chứa cách viết của 13 ngôn ngữ
 còn lại. Bản dịch đích lấy từ **tệp ngôn ngữ chính thức của Minecraft Java Edition**, không phải
 bản dịch lại.
 
 ## Tệp
 
 - `<hạng mục>.csv` (19 tệp) — ba cột `source,target,tgt_lng`, nhập trực tiếp vào công cụ CAT hoặc hệ thống quản lý thuật ngữ
-- `extra/<hạng mục>.csv` (15 tệp) — cùng ba cột, dành cho hạng mục hệ thống và văn bản
+- `extra-<hạng mục>.csv` (15 tệp) — cùng ba cột, dành cho hạng mục hệ thống và văn bản
 
 ## Danh mục và số lượng
 
@@ -37,25 +37,25 @@ bản dịch lại.
 | `sound-categories` | Loại âm thanh | `sound-categories.csv` | 133 |
 | `game-modes` | Chế độ chơi | `game-modes.csv` | 77 |
 
-### `extra/` (hệ thống và văn bản)
+### `extra-` (hệ thống và văn bản)
 
 | Hạng mục | Chủ đề | Tệp | Số dòng |
 | --- | --- | --- | --- |
-| `subtitles` | Phụ đề | `extra/subtitles.csv` | 12,416 |
-| `death-messages` | Thông báo tử vong | `extra/death-messages.csv` | 1,334 |
-| `advancement-titles` | Tên tiến trình | `extra/advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | Mô tả tiến trình | `extra/advancement-descriptions.csv` | 1,641 |
-| `gamerules` | Luật chơi | `extra/gamerules.csv` | 1,490 |
-| `commands` | Lệnh và đối số | `extra/commands.csv` | 10,738 |
-| `gui` | Văn bản giao diện | `extra/gui.csv` | 6,609 |
-| `options` | Cài đặt và phím | `extra/options.csv` | 8,152 |
-| `multiplayer` | Nhiều người chơi | `extra/multiplayer.csv` | 2,024 |
-| `realms` | Realms | `extra/realms.csv` | 4,996 |
-| `world-management` | Quản lý thế giới | `extra/world-management.csv` | 3,565 |
-| `resource-packs` | Gói tài nguyên và dữ liệu | `extra/resource-packs.csv` | 761 |
-| `telemetry` | Dữ liệu từ xa | `extra/telemetry.csv` | 897 |
-| `dev-tools` | Công cụ phát triển và kiểm thử | `extra/dev-tools.csv` | 1,811 |
-| `misc` | Khác | `extra/misc.csv` | 516 |
+| `subtitles` | Phụ đề | `extra-subtitles.csv` | 12,416 |
+| `death-messages` | Thông báo tử vong | `extra-death-messages.csv` | 1,334 |
+| `advancement-titles` | Tên tiến trình | `extra-advancement-titles.csv` | 1,603 |
+| `advancement-descriptions` | Mô tả tiến trình | `extra-advancement-descriptions.csv` | 1,641 |
+| `gamerules` | Luật chơi | `extra-gamerules.csv` | 1,490 |
+| `commands` | Lệnh và đối số | `extra-commands.csv` | 10,738 |
+| `gui` | Văn bản giao diện | `extra-gui.csv` | 6,609 |
+| `options` | Cài đặt và phím | `extra-options.csv` | 8,152 |
+| `multiplayer` | Nhiều người chơi | `extra-multiplayer.csv` | 2,024 |
+| `realms` | Realms | `extra-realms.csv` | 4,996 |
+| `world-management` | Quản lý thế giới | `extra-world-management.csv` | 3,565 |
+| `resource-packs` | Gói tài nguyên và dữ liệu | `extra-resource-packs.csv` | 761 |
+| `telemetry` | Dữ liệu từ xa | `extra-telemetry.csv` | 897 |
+| `dev-tools` | Công cụ phát triển và kiểm thử | `extra-dev-tools.csv` | 1,811 |
+| `misc` | Khác | `extra-misc.csv` | 516 |
 
 ### Danh sách tệp
 
@@ -81,7 +81,7 @@ minecraft-glossary/
 |   music.csv
 |   sound-categories.csv
 |   game-modes.csv
-|   +-- extra/               # hạng mục hệ thống và văn bản
+|   +-- extra-               # hạng mục hệ thống và văn bản
 |       |-- subtitles.csv
 |       |-- death-messages.csv
 |       |-- advancement-titles.csv

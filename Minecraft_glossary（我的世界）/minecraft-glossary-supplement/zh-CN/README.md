@@ -9,7 +9,7 @@
 
 ## 文件
 
-- `<分类>.csv`（13 个）— `source,target,tgt_lng` 三列，可直接导入 CAT / 术语管理工具；本补充库**没有** `extra/` 子目录
+- `<分类>.csv`（13 个）— `source,target,tgt_lng` 三列，可直接导入 CAT / 术语管理工具；本补充库**没有** `extra-` 前缀
 
 ## 分类与条数
 

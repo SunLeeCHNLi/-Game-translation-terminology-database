@@ -16,7 +16,7 @@
 
 - 主类目文件（9 个，与主词库同名）：`characters.csv`、`materials.csv`、`geographies.csv`、`enemies.csv`、`foods.csv`、`animals.csv`、`domains.csv`、`artifacts.csv`、`weapons.csv`
 - 别名文件：`_variants.csv` — 别名/俗称/常见误写，作为额外 `source` 补充
-- 额外类目文件（`extra/` 下 10 个）：`extra/quests.csv`、`extra/events.csv`、`extra/objects.csv`、`extra/system.csv`、`extra/archives.csv`、`extra/story.csv`、`extra/facilities.csv`、`extra/organizations.csv`、`extra/dialogue.csv`、`extra/sereniteapot.csv`
+- 额外类目文件（`extra-` 下 10 个）：`extra-quests.csv`、`extra-events.csv`、`extra-objects.csv`、`extra-system.csv`、`extra-archives.csv`、`extra-story.csv`、`extra-facilities.csv`、`extra-organizations.csv`、`extra-dialogue.csv`、`extra-sereniteapot.csv`
 
 合计 **20 个 CSV 文件**（9 个主类目 + 1 个别名 + 10 个额外类目），格式统一为三列：
 
@@ -39,7 +39,7 @@ zh-CN/
 ├── artifacts.csv
 ├── weapons.csv
 ├── _variants.csv
-└── extra/
+└── extra-
     ├── quests.csv
     ├── events.csv
     ├── objects.csv
@@ -77,20 +77,20 @@ zh-CN/
 | --- | --- | ---: |
 | `_variants.csv` | 别名/俗称/常见误写，作为额外 `source` 补充 | 333 |
 
-### 额外类目（`extra/`）
+### 额外类目（`extra-`）
 
 | 分类 | 文件 | 说明 | 行数 |
 | --- | --- | --- | ---: |
-| quests（任务） | `extra/quests.csv` | 任务名称（魔神/世界/传说/每日/部族等） | 1,664 |
-| events（活动） | `extra/events.csv` | 活动名称 | 1,715 |
-| objects（物件） | `extra/objects.csv` | 场景物件 | 459 |
-| system（系统） | `extra/system.csv` | 系统与玩法术语 | 357 |
-| archives（档案） | `extra/archives.csv` | 档案资料 | 345 |
-| story（剧情） | `extra/story.csv` | 剧情与章节 | 286 |
-| facilities（设施） | `extra/facilities.csv` | 设施与建筑 | 234 |
-| organizations（组织） | `extra/organizations.csv` | 组织与势力 | 213 |
-| dialogue（对白） | `extra/dialogue.csv` | 对白用语 | 117 |
-| sereniteapot（尘歌壶） | `extra/sereniteapot.csv` | 尘歌壶 | 33 |
+| quests（任务） | `extra-quests.csv` | 任务名称（魔神/世界/传说/每日/部族等） | 1,664 |
+| events（活动） | `extra-events.csv` | 活动名称 | 1,715 |
+| objects（物件） | `extra-objects.csv` | 场景物件 | 459 |
+| system（系统） | `extra-system.csv` | 系统与玩法术语 | 357 |
+| archives（档案） | `extra-archives.csv` | 档案资料 | 345 |
+| story（剧情） | `extra-story.csv` | 剧情与章节 | 286 |
+| facilities（设施） | `extra-facilities.csv` | 设施与建筑 | 234 |
+| organizations（组织） | `extra-organizations.csv` | 组织与势力 | 213 |
+| dialogue（对白） | `extra-dialogue.csv` | 对白用语 | 117 |
+| sereniteapot（尘歌壶） | `extra-sereniteapot.csv` | 尘歌壶 | 33 |
 | **小计** | 10 个文件 | — | **5,423** |
 
 **本目录合计：20 个文件、12,237 行对照（含别名 333 行）。**

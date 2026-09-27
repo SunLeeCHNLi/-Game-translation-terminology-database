@@ -4,14 +4,14 @@
 
 Este diretório é a base de terminologia cujo **idioma de destino é o português (`pt-BR`)**.
 Contém **101,489 linhas de correspondência** em **34 arquivos CSV** (34 categorias: 19 na raiz
-do diretório e 15 em `extra/`), todas com `tgt_lng` fixado em `pt-BR`; a coluna `source` reúne as
+do diretório e 15 em `extra-`), todas com `tgt_lng` fixado em `pt-BR`; a coluna `source` reúne as
 grafias dos outros 13 idiomas. As traduções-alvo vêm dos **arquivos de idioma oficiais do Minecraft
 Java Edition**, não de uma retradução.
 
 ## Ficheiros
 
 - `<categoria>.csv` (19 arquivos) — três colunas `source,target,tgt_lng`; podem ser importados diretamente em ferramentas CAT ou de gestão de terminologia
-- `extra/<categoria>.csv` (15 arquivos) — mesmas três colunas, para as categorias de sistema e texto
+- `extra-<categoria>.csv` (15 arquivos) — mesmas três colunas, para as categorias de sistema e texto
 
 ## Categorias e contagens
 
@@ -37,25 +37,25 @@ Java Edition**, não de uma retradução.
 | `sound-categories` | Categorias de som | `sound-categories.csv` | 133 |
 | `game-modes` | Modos de jogo | `game-modes.csv` | 77 |
 
-### `extra/` (sistema e texto)
+### `extra-` (sistema e texto)
 
 | Categoria | Tema | Arquivo | Linhas |
 | --- | --- | --- | --- |
-| `subtitles` | Legendas | `extra/subtitles.csv` | 12,504 |
-| `death-messages` | Mensagens de morte | `extra/death-messages.csv` | 1,338 |
-| `advancement-titles` | Títulos de progresso | `extra/advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | Descrições de progresso | `extra/advancement-descriptions.csv` | 1,641 |
-| `gamerules` | Regras de jogo | `extra/gamerules.csv` | 1,490 |
-| `commands` | Comandos e argumentos | `extra/commands.csv` | 10,751 |
-| `gui` | Textos de interface | `extra/gui.csv` | 6,655 |
-| `options` | Opções e teclas | `extra/options.csv` | 8,223 |
-| `multiplayer` | Multijogador | `extra/multiplayer.csv` | 2,019 |
-| `realms` | Realms | `extra/realms.csv` | 5,005 |
-| `world-management` | Gestão de mundos | `extra/world-management.csv` | 3,568 |
-| `resource-packs` | Pacotes de recursos e de dados | `extra/resource-packs.csv` | 761 |
-| `telemetry` | Telemetria | `extra/telemetry.csv` | 897 |
-| `dev-tools` | Ferramentas de desenvolvimento e teste | `extra/dev-tools.csv` | 1,811 |
-| `misc` | Outros | `extra/misc.csv` | 516 |
+| `subtitles` | Legendas | `extra-subtitles.csv` | 12,504 |
+| `death-messages` | Mensagens de morte | `extra-death-messages.csv` | 1,338 |
+| `advancement-titles` | Títulos de progresso | `extra-advancement-titles.csv` | 1,603 |
+| `advancement-descriptions` | Descrições de progresso | `extra-advancement-descriptions.csv` | 1,641 |
+| `gamerules` | Regras de jogo | `extra-gamerules.csv` | 1,490 |
+| `commands` | Comandos e argumentos | `extra-commands.csv` | 10,751 |
+| `gui` | Textos de interface | `extra-gui.csv` | 6,655 |
+| `options` | Opções e teclas | `extra-options.csv` | 8,223 |
+| `multiplayer` | Multijogador | `extra-multiplayer.csv` | 2,019 |
+| `realms` | Realms | `extra-realms.csv` | 5,005 |
+| `world-management` | Gestão de mundos | `extra-world-management.csv` | 3,568 |
+| `resource-packs` | Pacotes de recursos e de dados | `extra-resource-packs.csv` | 761 |
+| `telemetry` | Telemetria | `extra-telemetry.csv` | 897 |
+| `dev-tools` | Ferramentas de desenvolvimento e teste | `extra-dev-tools.csv` | 1,811 |
+| `misc` | Outros | `extra-misc.csv` | 516 |
 
 ### Lista de ficheiros
 
@@ -81,7 +81,7 @@ minecraft-glossary/
 |   music.csv
 |   sound-categories.csv
 |   game-modes.csv
-|   +-- extra/               # categorias de sistema e texto
+|   +-- extra-               # categorias de sistema e texto
 |       |-- subtitles.csv
 |       |-- death-messages.csv
 |       |-- advancement-titles.csv

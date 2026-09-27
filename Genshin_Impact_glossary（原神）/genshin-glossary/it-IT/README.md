@@ -10,8 +10,8 @@ Questa cartella di lingua contiene **27 file CSV** su due livelli:
 
 - **17 categorie principali** (direttamente in questa cartella):
   `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv`
-- **10 sottocategorie TCG** (nella sottocartella `TCG/`):
-  `TCG/action-cards.csv`, `TCG/character-cards.csv`, `TCG/enemy-cards.csv`, `TCG/summons.csv`, `TCG/status-effects.csv`, `TCG/keywords.csv`, `TCG/card-backs.csv`, `TCG/card-boxes.csv`, `TCG/detailed-rules.csv`, `TCG/level-rewards.csv`
+- **10 sottocategorie TCG** (nella sottocartella `tcg-`):
+  `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv`
 
 Ogni file ha esattamente tre colonne:
 
@@ -42,16 +42,16 @@ Ogni file ha esattamente tre colonne:
 | `geographies.csv` | Toponimi | 268 | 3,389 |
 | `achievements.csv` | Obiettivi | 1,548 | 19,464 |
 | `adventureranks.csv` | Testi del grado di avventura | 21 | 157 |
-| `TCG/action-cards.csv` | Carte azione | 927 | 9,618 |
-| `TCG/character-cards.csv` | Carte personaggio | 149 | 929 |
-| `TCG/enemy-cards.csv` | Carte nemico | 134 | 1,114 |
-| `TCG/summons.csv` | Evocazioni | 152 | 1,139 |
-| `TCG/status-effects.csv` | Effetti di stato | 1,159 | 11,203 |
-| `TCG/keywords.csv` | Parole chiave | 139 | 1,511 |
-| `TCG/card-backs.csv` | Dorsi delle carte | 39 | 407 |
-| `TCG/card-boxes.csv` | Scatole delle carte | 7 | 32 |
-| `TCG/detailed-rules.csv` | Regole dettagliate | 11 | 142 |
-| `TCG/level-rewards.csv` | Ricompense di livello | 26 | 169 |
+| `tcg-action-cards.csv` | Carte azione | 927 | 9,618 |
+| `tcg-character-cards.csv` | Carte personaggio | 149 | 929 |
+| `tcg-enemy-cards.csv` | Carte nemico | 134 | 1,114 |
+| `tcg-summons.csv` | Evocazioni | 152 | 1,139 |
+| `tcg-status-effects.csv` | Effetti di stato | 1,159 | 11,203 |
+| `tcg-keywords.csv` | Parole chiave | 139 | 1,511 |
+| `tcg-card-backs.csv` | Dorsi delle carte | 39 | 407 |
+| `tcg-card-boxes.csv` | Scatole delle carte | 7 | 32 |
+| `tcg-detailed-rules.csv` | Regole dettagliate | 11 | 142 |
+| `tcg-level-rewards.csv` | Ricompense di livello | 26 | 169 |
 | **Categorie principali (17 file)** | — | **5,443** | **63,173** |
 | **TCG (10 file)** | — | **2,743** | **26,264** |
 | **Totale (27 file)** | — | **8,186** | **89,437** |

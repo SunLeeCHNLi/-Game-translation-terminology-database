@@ -7,7 +7,7 @@
 ## ไฟล์
 
 - `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 ไฟล์หมวดหมู่หลัก
-- `TCG/action-cards.csv`, `TCG/character-cards.csv`, `TCG/enemy-cards.csv`, `TCG/summons.csv`, `TCG/status-effects.csv`, `TCG/keywords.csv`, `TCG/card-backs.csv`, `TCG/card-boxes.csv`, `TCG/detailed-rules.csv`, `TCG/level-rewards.csv` — 10 ไฟล์หมวดหมู่ย่อย TCG (เกมเรียกเทพทั้งเจ็ด)
+- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 ไฟล์หมวดหมู่ย่อย TCG (เกมเรียกเทพทั้งเจ็ด)
 
 รวม **27 ไฟล์ CSV** ทุกไฟล์มีรูปแบบเดียวกันคือสามคอลัมน์:
 
@@ -37,7 +37,7 @@ th-TH/
 ├── geographies.csv
 ├── achievements.csv
 ├── adventureranks.csv
-└── TCG/
+└── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
     ├── enemy-cards.csv
@@ -77,20 +77,20 @@ th-TH/
 | adventureranks | `adventureranks.csv` | 21 | 157 |
 | **รวมย่อย** | 17 ไฟล์ | — | **63,173** |
 
-### หมวดหมู่ย่อย TCG (`TCG/`)
+### หมวดหมู่ย่อย TCG (`tcg-`)
 
 | หมวดหมู่ย่อย | ไฟล์ | คำศัพท์ | บรรทัด |
 | --- | --- | ---: | ---: |
-| action-cards | `TCG/action-cards.csv` | 927 | 9,609 |
-| character-cards | `TCG/character-cards.csv` | 149 | 929 |
-| enemy-cards | `TCG/enemy-cards.csv` | 134 | 1,126 |
-| summons | `TCG/summons.csv` | 152 | 1,150 |
-| status-effects | `TCG/status-effects.csv` | 1,159 | 11,220 |
-| keywords | `TCG/keywords.csv` | 139 | 1,511 |
-| card-backs | `TCG/card-backs.csv` | 39 | 407 |
-| card-boxes | `TCG/card-boxes.csv` | 7 | 32 |
-| detailed-rules | `TCG/detailed-rules.csv` | 11 | 142 |
-| level-rewards | `TCG/level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards.csv` | 927 | 9,609 |
+| character-cards | `tcg-character-cards.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1,126 |
+| summons | `tcg-summons.csv` | 152 | 1,150 |
+| status-effects | `tcg-status-effects.csv` | 1,159 | 11,220 |
+| keywords | `tcg-keywords.csv` | 139 | 1,511 |
+| card-backs | `tcg-card-backs.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
 | **รวมย่อย** | 10 ไฟล์ | — | **26,295** |
 
 **รวมทั้งไดเรกทอรี: 27 ไฟล์ 89,468 บรรทัด**

@@ -23,34 +23,31 @@
 
 ## 使い方
 
-1. **単一ファイル** — 対象言語のフォルダ（例：`zh-CN/`）を開き、`01_neighbor/01_neighbor_glossary.csv`
+1. **単一ファイル** — 対象言語のフォルダ（例：`zh-CN/`）を開き、`neighbor.csv`
    のようなカテゴリ別ファイルをダウンロードします。変換なしで Immersive Translate などの用語ツールに
    そのまま読み込めます。
 2. **言語フォルダごと** — その言語フォルダ内の全カテゴリファイルをダウンロードします。
-3. **15 言語の並列表** — `multilingual/all_languages_master.csv`（1 言語につき 1 列）。
+3. **15 言語の並列表** — `petit-planet-glossary/multilingual/all_languages_master.csv`（1 言語につき 1 列）。
 
 ## ディレクトリ構成
 
 ```text
 Petit-Planet_Glossary（星布谷地）/
-  zh-CN/                    簡体字中国語を対象言語とする用語集
-    README.md               言語別の説明
-    00_master/
-      index.csv             カテゴリ索引と件数
-      README.md             言語別の説明
-    00_game_title/  01_neighbor/  02_location/  03_item/  04_material/
-    05_furniture/   06_test_version/  07_cooking/  08_fish/  09_bugs/
-    10_plants/      11_shore/  12_shop/  13_neighbor_interaction/
-    15_event/       18_ui/  21_world_term/  22_title_tag/
-  zh-TW/  en-US/  ja-JP/  ko-KR/  fr-FR/  de-DE/  es-ES/  ru-RU/
-  pt-PT/  it-IT/  tr-TR/  th-TH/  vi-VN/  id-ID/
-  multilingual/all_languages_master.csv
-  README.md  README_EN.md  README_JP.md
+  README.md                中国語
+  README_EN.md             英語
+  README_JP.md             日本語
+  petit-planet-glossary/   用語データ（対象言語ごとに 15 セット）
+    README.md              サブライブラリの説明（カテゴリ・クリーンアップ規則）
+    zh-CN/                 簡体字中国語向け（フラットなカテゴリ別 CSV）
+    zh-TW/  en-US/  ja-JP/  ko-KR/  fr-FR/  de-DE/  es-ES/
+    ru-RU/  pt-PT/  it-IT/  tr-TR/  th-TH/  vi-VN/  id-ID/
+    _master/               言語別 index.csv と説明（<lang>__index.csv）
+    multilingual/          15 言語の並列表
 ```
 
 ## ファイル形式
 
-`*_glossary.csv` は厳密に 3 列です。
+`<类目>.csv` は厳密に 3 列です。
 
 ```text
 source,target,tgt_lng
@@ -64,31 +61,28 @@ Starsea,星海,zh-CN
 - `target` — 対象言語の正式名称
 - `tgt_lng` — 対象言語コード
 
-`*_terms.csv` はその言語の見出し一覧（`id,term,src_table`）で、校正と照合に使用します。
+`*__terms.csv` はその言語の見出し一覧（`id,term,src_table`）で、校正と照合に使用します。
 
 ## 言語と件数
 
 | 対象言語 | 言語 | 見出し数 | 対照行数 |
 | --- | --- | ---: | ---: |
-| `zh-CN` | 簡体字中国語 | 125 | 1,363 |
-| `zh-TW` | 繁体字中国語 | 123 | 1,358 |
-| `en-US` | 英語 | 2,073 | 3,306 |
+| `zh-CN` | 简体中文 | 125 | 1,363 |
+| `zh-TW` | 繁體中文 | 123 | 1,358 |
+| `en-US` | English | 2,073 | 3,306 |
 | `ja-JP` | 日本語 | 114 | 1,303 |
-| `ko-KR` | 韓国語 | 114 | 1,304 |
-| `fr-FR` | フランス語 | 113 | 1,298 |
-| `de-DE` | ドイツ語 | 114 | 1,311 |
-| `es-ES` | スペイン語 | 113 | 1,298 |
-| `ru-RU` | ロシア語 | 112 | 1,296 |
-| `pt-PT` | ポルトガル語 | 114 | 1,308 |
-| `it-IT` | イタリア語 | 112 | 1,296 |
-| `tr-TR` | トルコ語 | 113 | 1,298 |
-| `th-TH` | タイ語 | 114 | 1,304 |
-| `vi-VN` | ベトナム語 | 114 | 1,304 |
-| `id-ID` | インドネシア語 | 113 | 1,298 |
+| `ko-KR` | 한국어 | 114 | 1,304 |
+| `fr-FR` | Français | 113 | 1,298 |
+| `de-DE` | Deutsch | 114 | 1,311 |
+| `es-ES` | Español | 113 | 1,298 |
+| `ru-RU` | Русский | 112 | 1,296 |
+| `pt-PT` | Português | 114 | 1,308 |
+| `it-IT` | Italiano | 112 | 1,296 |
+| `tr-TR` | Türkçe | 113 | 1,298 |
+| `th-TH` | ภาษาไทย | 114 | 1,304 |
+| `vi-VN` | Tiếng Việt | 114 | 1,304 |
+| `id-ID` | Bahasa Indonesia | 113 | 1,298 |
 | **合計** | | **3,681** | **21,645** |
-
-> ポルトガル語は公式サイトの表記に従い **`pt-PT`**、インドネシア語は **`id-ID`**（`in-ID` ではありません）。
-> 公式サイトには `pl-pl` と `hi-in` もありますが、本データベースの対象言語外です。
 
 ## 出典と信頼度
 

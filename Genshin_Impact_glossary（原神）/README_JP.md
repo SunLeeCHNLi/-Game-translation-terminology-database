@@ -108,16 +108,16 @@ Genshin_Impact_glossary（原神）/
 
 | サブカテゴリ | ファイル | 語数 |
 | --- | --- | --- |
-| action-cards | `TCG/action-cards.csv` | 927 |
-| character-cards | `TCG/character-cards.csv` | 149 |
-| enemy-cards | `TCG/enemy-cards.csv` | 134 |
-| summons | `TCG/summons.csv` | 152 |
-| status-effects | `TCG/status-effects.csv` | 1,159 |
-| keywords | `TCG/keywords.csv` | 139 |
-| card-backs | `TCG/card-backs.csv` | 39 |
-| card-boxes | `TCG/card-boxes.csv` | 7 |
-| detailed-rules | `TCG/detailed-rules.csv` | 11 |
-| level-rewards | `TCG/level-rewards.csv` | 26 |
+| action-cards | `tcg-action-cards.csv` | 927 |
+| character-cards | `tcg-character-cards.csv` | 149 |
+| enemy-cards | `tcg-enemy-cards.csv` | 134 |
+| summons | `tcg-summons.csv` | 152 |
+| status-effects | `tcg-status-effects.csv` | 1,159 |
+| keywords | `tcg-keywords.csv` | 139 |
+| card-backs | `tcg-card-backs.csv` | 39 |
+| card-boxes | `tcg-card-boxes.csv` | 7 |
+| detailed-rules | `tcg-detailed-rules.csv` | 11 |
+| level-rewards | `tcg-level-rewards.csv` | 26 |
 
 ### 補完用語集：言語別の追加行数
 

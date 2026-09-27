@@ -25,33 +25,30 @@ translation. No machine translation is used.
 ## How to use
 
 1. **Single file** — open a language folder (for example `zh-CN/`) and download a category file such as
-   `01_neighbor/01_neighbor_glossary.csv`. It can be imported into terminology tools such as
+   `neighbor.csv`. It can be imported into terminology tools such as
    Immersive Translate without any conversion.
 2. **Whole language folder** — download every category file in that language folder.
-3. **All languages side by side** — `multilingual/all_languages_master.csv`, one column per language.
+3. **All languages side by side** — `petit-planet-glossary/multilingual/all_languages_master.csv`, one column per language.
 
 ## Directory layout
 
 ```text
 Petit-Planet_Glossary（星布谷地）/
-  zh-CN/                    glossary targeting Simplified Chinese
-    README.md               per-language readme
-    00_master/
-      index.csv             category index and counts
-      README.md             per-language readme
-    00_game_title/  01_neighbor/  02_location/  03_item/  04_material/
-    05_furniture/   06_test_version/  07_cooking/  08_fish/  09_bugs/
-    10_plants/      11_shore/  12_shop/  13_neighbor_interaction/
-    15_event/       18_ui/  21_world_term/  22_title_tag/
-  zh-TW/  en-US/  ja-JP/  ko-KR/  fr-FR/  de-DE/  es-ES/  ru-RU/
-  pt-PT/  it-IT/  tr-TR/  th-TH/  vi-VN/  id-ID/
-  multilingual/all_languages_master.csv
-  README.md  README_EN.md  README_JP.md
+  README.md                Chinese
+  README_EN.md             English
+  README_JP.md             Japanese
+  petit-planet-glossary/   glossary data (15 sets, split by target language)
+    README.md              sub-library description (categories, cleanup rules)
+    zh-CN/                 targeting Simplified Chinese (flat category CSVs)
+    zh-TW/  en-US/  ja-JP/  ko-KR/  fr-FR/  de-DE/  es-ES/
+    ru-RU/  pt-PT/  it-IT/  tr-TR/  th-TH/  vi-VN/  id-ID/
+    _master/               per-language index.csv and notes (<lang>__index.csv)
+    multilingual/          all 15 languages side by side
 ```
 
 ## File format
 
-`*_glossary.csv` has exactly three columns:
+`<类目>.csv` has exactly three columns:
 
 ```text
 source,target,tgt_lng
@@ -65,31 +62,28 @@ Starsea,星海,zh-CN
 - `target` — the official name in the target language
 - `tgt_lng` — target language code
 
-`*_terms.csv` is the entry list for that language (`id,term,src_table`), for proofreading and lookup.
+`*__terms.csv` is the entry list for that language (`id,term,src_table`), for proofreading and lookup.
 
 ## Languages and counts
 
 | Target language | Language | Entries | Alignment rows |
 | --- | --- | ---: | ---: |
-| `zh-CN` | Simplified Chinese (zh-CN) | 125 | 1,363 |
-| `zh-TW` | Traditional Chinese (zh-TW) | 123 | 1,358 |
-| `en-US` | English (en-US) | 2,073 | 3,306 |
-| `ja-JP` | Japanese (ja-JP) | 114 | 1,303 |
-| `ko-KR` | Korean (ko-KR) | 114 | 1,304 |
-| `fr-FR` | French (fr-FR) | 113 | 1,298 |
-| `de-DE` | German (de-DE) | 114 | 1,311 |
-| `es-ES` | Spanish (es-ES) | 113 | 1,298 |
-| `ru-RU` | Russian (ru-RU) | 112 | 1,296 |
-| `pt-PT` | Portuguese (pt-PT) | 114 | 1,308 |
-| `it-IT` | Italian (it-IT) | 112 | 1,296 |
-| `tr-TR` | Turkish (tr-TR) | 113 | 1,298 |
-| `th-TH` | Thai (th-TH) | 114 | 1,304 |
-| `vi-VN` | Vietnamese (vi-VN) | 114 | 1,304 |
-| `id-ID` | Indonesian (id-ID) | 113 | 1,298 |
+| `zh-CN` | 简体中文 | 125 | 1,363 |
+| `zh-TW` | 繁體中文 | 123 | 1,358 |
+| `en-US` | English | 2,073 | 3,306 |
+| `ja-JP` | 日本語 | 114 | 1,303 |
+| `ko-KR` | 한국어 | 114 | 1,304 |
+| `fr-FR` | Français | 113 | 1,298 |
+| `de-DE` | Deutsch | 114 | 1,311 |
+| `es-ES` | Español | 113 | 1,298 |
+| `ru-RU` | Русский | 112 | 1,296 |
+| `pt-PT` | Português | 114 | 1,308 |
+| `it-IT` | Italiano | 112 | 1,296 |
+| `tr-TR` | Türkçe | 113 | 1,298 |
+| `th-TH` | ภาษาไทย | 114 | 1,304 |
+| `vi-VN` | Tiếng Việt | 114 | 1,304 |
+| `id-ID` | Bahasa Indonesia | 113 | 1,298 |
 | **Total** | | **3,681** | **21,645** |
-
-> The official site uses **`pt-PT`** for Portuguese and **`id-ID`** for Bahasa Indonesia (never `in-ID`).
-> The official site also offers `pl-pl` and `hi-in`, which are outside this database's language scope.
 
 ## Sources and reliability
 

@@ -10,7 +10,7 @@
 
 ## 使用方法
 
-1. 单文件下载：进入 `genshin-glossary/<语言代码>/` 选择需要的类目 CSV（TCG 类目在 `TCG/` 子目录内）直接下载，即可导入沉浸式翻译等术语工具；补充词条进入 `genshin-glossary-supplement/<语言代码>/`。
+1. 单文件下载：进入 `genshin-glossary/<语言代码>/` 选择需要的类目 CSV（TCG 类目以 `tcg-` 前缀命名）直接下载，即可导入沉浸式翻译等术语工具；补充词条进入 `genshin-glossary-supplement/<语言代码>/`。
 2. 整个语言目录打包下载：在 GitHub 上进入 `genshin-glossary/<语言代码>/`，使用「下载目录」取得该目标语言的全部类目文件；补充词库同理。
 3. 克隆整个仓库，配合 `tools/` 下的脚本，并预先下载所引用的上游数据仓库（genshin-db、genshin-langdata）源码，即可自行复现全部 CSV。
 
@@ -108,16 +108,16 @@ Genshin_Impact_glossary（原神）/
 
 | 子类目 | 文件 | 条目数 |
 | --- | --- | --- |
-| action-cards | `TCG/action-cards.csv` | 927 |
-| character-cards | `TCG/character-cards.csv` | 149 |
-| enemy-cards | `TCG/enemy-cards.csv` | 134 |
-| summons | `TCG/summons.csv` | 152 |
-| status-effects | `TCG/status-effects.csv` | 1,159 |
-| keywords | `TCG/keywords.csv` | 139 |
-| card-backs | `TCG/card-backs.csv` | 39 |
-| card-boxes | `TCG/card-boxes.csv` | 7 |
-| detailed-rules | `TCG/detailed-rules.csv` | 11 |
-| level-rewards | `TCG/level-rewards.csv` | 26 |
+| action-cards | `tcg-action-cards.csv` | 927 |
+| character-cards | `tcg-character-cards.csv` | 149 |
+| enemy-cards | `tcg-enemy-cards.csv` | 134 |
+| summons | `tcg-summons.csv` | 152 |
+| status-effects | `tcg-status-effects.csv` | 1,159 |
+| keywords | `tcg-keywords.csv` | 139 |
+| card-backs | `tcg-card-backs.csv` | 39 |
+| card-boxes | `tcg-card-boxes.csv` | 7 |
+| detailed-rules | `tcg-detailed-rules.csv` | 11 |
+| level-rewards | `tcg-level-rewards.csv` | 26 |
 
 ### 补充词库：各语言新增行数
 

@@ -13,16 +13,17 @@ only `13_ui`, because Indonesian is officially shipped for interface text only.
 
 ## Usage
 
-1. **Download a single file** — open the language directory you need (for example `zh-CN/`), open the
-   `NN_xxx_glossary.csv` of the category you want, and download it from its file detail page. The file has
-   three columns (`source,target,tgt_lng`) and can be imported directly into the terminology feature of AI
+1. **Download a single file** — open `cat-fantasy-glossary/<language>/`, open the `<category>.csv` you
+   want (for example `zh-CN/character.csv`), and download it from its file detail page. The file has three
+   columns (`source,target,tgt_lng`) and can be imported directly into the terminology feature of AI
    translation software such as Immersive Translation.
-2. **Download one whole language directory** — the 16 categories in a language directory together form the
-   complete term list for that language (see `00_master/index.csv` in that directory for the index and counts).
-3. **Clone the whole repository** — use each language's `00_master/index.csv` and
-   `multilingual/all_languages_master.csv` to search, split, or further process the data yourself; see
-   "Related Sources" below for the upstream repositories. **Note:** this database ships no generation
-   scripts (see "Regeneration").
+2. **Download one whole language directory** — the 16 category CSVs in `cat-fantasy-glossary/<language>/`
+   together form the complete term list for that language (see
+   `cat-fantasy-glossary/_master/<language>__index.csv` for the index and counts).
+3. **Clone the whole repository** — use `cat-fantasy-glossary/_master/<language>__index.csv` and
+   `cat-fantasy-glossary/multilingual/all_languages_master.csv` to search, split, or further process the
+   data yourself; see "Related Sources" below for the upstream repositories. **Note:** this database ships
+   no generation scripts (see "Regeneration").
 
 ## Directory Structure
 
@@ -31,42 +32,33 @@ Cat_Fantasy_Glossary（猫之城）/
 ├── README.md                          This document (Simplified Chinese)
 ├── README_EN.md                       This document (English)
 ├── README_JP.md                       This document (日本語)
-├── zh-CN/                             Simplified Chinese
-│   ├── 00_master/                     Index and notes (index.csv, README.md)
-│   ├── 01_character/                  Characters and cards
-│   ├── 02_skill/                      Skills and combat effects
-│   ├── 03_talent/                     Talents and awakening
-│   ├── 04_equipment/                  Equipment and signature weapons
-│   ├── 05_item/                       Items and materials
-│   ├── 06_enemy/                      Enemies and bosses
-│   ├── 07_stage/                      Stages and chapters
-│   ├── 08_event/                      Events and game modes
-│   ├── 09_gacha/                      Gacha and exchange
-│   ├── 10_shop/                       Shop and bundles
-│   ├── 11_homeland/                   Homeland and cat café
-│   ├── 12_system/                     Systems and quests
-│   ├── 13_ui/                         UI and interface text
-│   ├── 14_story/                      Story proper nouns
-│   ├── 15_location/                   Locations and regions
-│   └── 16_terminology/                Gameplay mechanics terminology
-├── zh-TW/                             繁體中文 (same layout as zh-CN)
-├── en-US/                             English (same layout as zh-CN)
-├── ja-JP/                             日本語 (same layout as zh-CN)
-├── ko-KR/                             한국어 (same layout as zh-CN)
-├── th-TH/                             ภาษาไทย (same layout as zh-CN)
-├── id-ID/                             Bahasa Indonesia (only 13_ui has content, see below)
-└── multilingual/                      Seven-language side-by-side master table
-    ├── all_languages_master.csv       Master table (102,213 entries × 10 columns)
-    └── 00_master/
-        ├── README.md                  Master table notes
-        ├── source_mapping.csv         Source table → category mapping (379 tables)
-        └── categories.csv             Definitions of the 16 categories
+└── cat-fantasy-glossary/              Multilingual terminology data product
+    ├── README.md                      Sub-library description
+    ├── zh-CN/                         Simplified Chinese (same layout as the other languages)
+    │   ├── character.csv              Characters and cards (`source,target,tgt_lng`)
+    │   ├── character__terms.csv       Characters and cards term list (`id,term,src_table`)
+    │   └── ...                        16 categories × 2 flat CSVs
+    ├── zh-TW/                         繁體中文
+    ├── en-US/                         English
+    ├── ja-JP/                         日本語
+    ├── ko-KR/                         한국어
+    ├── th-TH/                         ภาษาไทย
+    ├── id-ID/                         Bahasa Indonesia (only ui has content; the other 15 are header-only)
+    ├── _master/                       Per-language indexes and original notes
+    │   ├── zh-CN__index.csv           formerly `zh-CN/00_master/index.csv`
+    │   └── zh-CN__README.md           formerly `zh-CN/00_master/README.md`
+    └── multilingual/                  Seven-language side-by-side master table (unchanged layout)
+        ├── all_languages_master.csv   Master table (102,213 entries × 10 columns)
+        └── 00_master/
+            ├── README.md              Master table notes
+            ├── source_mapping.csv     Source table → category mapping (379 tables)
+            └── categories.csv         Definitions of the 16 categories
 ```
 
-Apart from `00_master/`, every category directory holds exactly two files: `NN_xxx_glossary.csv`
-(the aligned terminology table) and `NN_xxx_terms.csv` (the term list for that language). Each language
-directory also carries two README files — `README.md` (in that language) and `README_zh-CN.md`
-(in Simplified Chinese); `zh-CN/` has `README.md` only.
+Every language directory contains exactly 16 `<category>.csv` aligned-terminology files and 16
+`<category>__terms.csv` term-list files; there are no category subdirectories. The category slug is the
+old `NN_xxx/` directory name without its numeric prefix, so `01_character/01_character_glossary.csv` is now
+`character.csv` and `01_character/01_character_terms.csv` is now `character__terms.csv`.
 
 ## Data Overview
 
@@ -136,15 +128,15 @@ of both English variants is preserved in the corresponding columns of
 | `16_terminology` | Gameplay mechanics terminology | 1,636 | 4,120 | Attributes, elements, counter relationships, buffs/debuffs and other mechanical terms |
 | **Total** | | **102,213** | **196,870** | |
 
-Per-category counts for every language are in that language's `00_master/index.csv`; the category
-definitions are in `multilingual/00_master/categories.csv`.
+Per-category counts for every language are in `cat-fantasy-glossary/_master/<language>__index.csv`; the category
+definitions are in `cat-fantasy-glossary/multilingual/00_master/categories.csv`.
 
 ### File format
 
 Both files in each category folder are saved as **UTF-8 with BOM + CRLF**, so Excel opens them correctly
 on a double-click without specifying an encoding.
 
-**`NN_xxx_glossary.csv` — aligned terminology table (`source` / `target` / `tgt_lng`)**
+**`<category>.csv` — aligned terminology table (`source` / `target` / `tgt_lng`)**
 
 The `tgt_lng` column is fixed for a given language, and `source` holds the wording in the other languages
 (one row per available language wording of the same entry). It can be imported directly into terminology
@@ -156,7 +148,7 @@ tools such as Immersive Translation:
 | アスラ | 非天 | zh-CN |
 | 아수라 | 非天 | zh-CN |
 
-**`NN_xxx_terms.csv` — term list for that language (`id` / `term` / `src_table`)**
+**`<category>__terms.csv` — term list for that language (`id` / `term` / `src_table`)**
 
 | id | term | src_table |
 | --- | --- | --- |
@@ -168,7 +160,7 @@ tools such as Immersive Translation:
 - `src_table` = the relative path of that entry inside the official data package
   (under `MasterData\Setting\Data\`).
 
-**`00_master/index.csv`** is the category index and counts for that language (columns:
+**`_master/<language>__index.csv`** is the category index and counts for that language (columns:
 `category,label,term_count,glossary_count,glossary_file,terms_file,target_language`). Merging all 16
 categories in it yields the complete term list for that language.
 
@@ -193,20 +185,20 @@ upstream packages:
 1. Scan every data table under Setting/Data and identify multilingual field suffixes
    (_zh_TW / _en_UK / _ja_JP / _ko_KR / _th_TH); the base column (no suffix) is the zh-CN source text.
 2. Map each data table to one of 16 categories by the gameplay module it belongs to (see
-   multilingual/00_master/source_mapping.csv — 379 source tables in total).
+   cat-fantasy-glossary/multilingual/00_master/source_mapping.csv — 379 source tables in total).
 3. The 13_ui category comes from the Setting/I18N hashed text table, aligned across seven languages by Id.
 4. For NewChapter (the story table) only proper nouns such as appearing character and scene names are
    extracted; story dialogue body text is not included in the term database.
 5. Within a category, rows are de-duplicated by (source, target); no aligned row is produced when the
    source and target wordings are identical.
-6. Each language's *_glossary.csv is expanded from multilingual/all_languages_master.csv by category.
+6. Each language's `<category>.csv` is expanded from cat-fantasy-glossary/multilingual/all_languages_master.csv by category.
 
 # Data acquisition for reproduction:
 #   See "Related Sources" above for the upstream packages; download their Setting/Data and Setting/I18N.
 # To verify this database directly, read only (do not modify):
-#   zh-CN/00_master/index.csv                 per-language category index and counts
+#   cat-fantasy-glossary/_master/zh-CN__index.csv  per-language category index and counts
 #   multilingual/all_languages_master.csv     seven-language side-by-side master table
-#   multilingual/00_master/source_mapping.csv source table -> category mapping
+#   cat-fantasy-glossary/multilingual/00_master/source_mapping.csv source table -> category mapping
 ```
 
 Every set is **aligned by the same text key** and consists of official text rather than re-translation.

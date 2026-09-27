@@ -10,14 +10,14 @@
 
 ## 使用方法
 
-1. **单文件下载**：进入对应语言目录（如 `zh-CN/`），打开所需分类的 `NN_xxx_glossary.csv`，
+1. **单文件下载**：进入 `cat-fantasy-glossary/<语言>/`，打开所需分类的 `<category>.csv`（如 `zh-CN/character.csv`），
    在文件详情页直接下载。该文件为 `source,target,tgt_lng` 三列格式，可直接导入沉浸式翻译等
    AI 翻译软件的术语库功能；
-2. **整个语言目录打包下载**：语言目录内 16 个分类合起来即是该语言的完整术语表
-   （分类索引与条数见该目录的 `00_master/index.csv`）；
-3. **克隆整个仓库**：配合各语言目录的 `00_master/index.csv` 与 `multilingual/all_languages_master.csv`
-   自行检索、拆分或二次加工；数据来源仓库见下文「使用的相关内容」。
-   **注意**：本库不含生成脚本（详见「生成与复现」）。
+2. **整个语言目录打包下载**：`cat-fantasy-glossary/<语言>/` 内 16 个分类 CSV 合起来即是该语言的完整术语表
+   （分类索引与条数见 `cat-fantasy-glossary/_master/<语言>__index.csv`）；
+3. **克隆整个仓库**：配合 `cat-fantasy-glossary/_master/<语言>__index.csv` 与
+   `cat-fantasy-glossary/multilingual/all_languages_master.csv` 自行检索、拆分或二次加工；
+   数据来源仓库见下文「使用的相关内容」。**注意**：本库不含生成脚本（详见「生成与复现」）。
 
 ## 目录结构
 
@@ -26,41 +26,33 @@ Cat_Fantasy_Glossary（猫之城）/
 ├── README.md                          本说明（简体中文）
 ├── README_EN.md                       本说明（English）
 ├── README_JP.md                       本说明（日本語）
-├── zh-CN/                             简体中文
-│   ├── 00_master/                     索引与说明（index.csv、README.md）
-│   ├── 01_character/                  角色与卡牌
-│   ├── 02_skill/                      技能与战斗效果
-│   ├── 03_talent/                     天赋与觉醒
-│   ├── 04_equipment/                  装备与专属武器
-│   ├── 05_item/                       道具与材料
-│   ├── 06_enemy/                      敌人与BOSS
-│   ├── 07_stage/                      关卡与章节
-│   ├── 08_event/                      活动玩法
-│   ├── 09_gacha/                      抽卡与兑换
-│   ├── 10_shop/                       商店与礼包
-│   ├── 11_homeland/                   家园与猫咖
-│   ├── 12_system/                     系统与任务
-│   ├── 13_ui/                         UI与界面文本
-│   ├── 14_story/                      剧情专有名词
-│   ├── 15_location/                   地点与区域
-│   └── 16_terminology/                游戏机制术语
-├── zh-TW/                             繁體中文（结构与 zh-CN 相同）
-├── en-US/                             English（结构与 zh-CN 相同）
-├── ja-JP/                             日本語（结构与 zh-CN 相同）
-├── ko-KR/                             한국어（结构与 zh-CN 相同）
-├── th-TH/                             ภาษาไทย（结构与 zh-CN 相同）
-├── id-ID/                             Bahasa Indonesia（仅 13_ui 有内容，见下文说明）
-└── multilingual/                      七语并排总表
-    ├── all_languages_master.csv       七语并排总表（102,213 条 × 10 列）
-    └── 00_master/
-        ├── README.md                  总表说明
-        ├── source_mapping.csv         来源表 → 分类 映射（379 张表）
-        └── categories.csv             16 个分类的定义
+└── cat-fantasy-glossary/              多语言术语数据产品
+    ├── README.md                      子库说明
+    ├── zh-CN/                         简体中文（结构与其余语言相同）
+    │   ├── character.csv              角色与卡牌对照表（`source,target,tgt_lng`）
+    │   ├── character__terms.csv       角色与卡牌词条清单（`id,term,src_table`）
+    │   └── ...                        共 16 个类目 × 2 个扁平 CSV
+    ├── zh-TW/                         繁體中文
+    ├── en-US/                         English
+    ├── ja-JP/                         日本語
+    ├── ko-KR/                         한국어
+    ├── th-TH/                         ภาษาไทย
+    ├── id-ID/                         Bahasa Indonesia（仅 ui 有数据，其余 15 类为空表）
+    ├── _master/                       各语言索引与原始说明
+    │   ├── zh-CN__index.csv           原 `zh-CN/00_master/index.csv`
+    │   └── zh-CN__README.md           原 `zh-CN/00_master/README.md`
+    └── multilingual/                  七语并排总表（保持原布局）
+        ├── all_languages_master.csv   七语并排总表（102,213 条 × 10 列）
+        └── 00_master/
+            ├── README.md              总表说明
+            ├── source_mapping.csv     来源表 → 分类 映射（379 张表）
+            └── categories.csv         16 个分类的定义
 ```
 
-除 `00_master/` 外，每个分类目录内固定两个文件：`NN_xxx_glossary.csv`（术语对照表）与
-`NN_xxx_terms.csv`（本语言词条清单）。每个语言目录另有 `README.md`（该语言）与
-`README_zh-CN.md`（简体中文）两个说明文件（`zh-CN/` 只有 `README.md`）。
+每个语言目录内固定 16 个 `<category>.csv`（术语对照表）与 16 个 `<category>__terms.csv`
+（本语言词条清单），不再使用分类子目录。`<category>` 为原 `NN_xxx/` 目录名去掉数字前缀后的
+类目名，例如 `01_character/01_character_glossary.csv` 现为 `character.csv`，
+`01_character/01_character_terms.csv` 现为 `character__terms.csv`。
 
 ## 数据概览
 
@@ -125,15 +117,15 @@ Cat_Fantasy_Glossary（猫之城）/
 | `16_terminology` | 游戏机制术语 | 1,636 | 4,120 | 属性、元素、克制关系、增益/减益等机制用语 |
 | **合计** | | **102,213** | **196,870** | |
 
-各语言的逐分类条数见该语言目录下的 `00_master/index.csv`，分类定义见
-`multilingual/00_master/categories.csv`。
+各语言的逐分类条数见 `cat-fantasy-glossary/_master/<语言>__index.csv`，分类定义见
+`cat-fantasy-glossary/multilingual/00_master/categories.csv`。
 
 ### 文件格式
 
 每个分类文件夹内的两个文件均使用 **UTF-8 with BOM + CRLF** 保存（Excel 双击可直接打开，
 不需要额外指定编码）。
 
-**`NN_xxx_glossary.csv` —— 术语对照表（`source` / `target` / `tgt_lng`）**
+**`<category>.csv` —— 术语对照表（`source` / `target` / `tgt_lng`）**
 
 该语言的 `tgt_lng` 列固定，`source` 列是其余语言的写法（同一条词条的多个语言写法各占一行），
 可直接导入沉浸式翻译等术语工具：
@@ -144,7 +136,7 @@ Cat_Fantasy_Glossary（猫之城）/
 | アスラ | 非天 | zh-CN |
 | 아수라 | 非天 | zh-CN |
 
-**`NN_xxx_terms.csv` —— 本语言词条清单（`id` / `term` / `src_table`）**
+**`<category>__terms.csv` —— 本语言词条清单（`id` / `term` / `src_table`）**
 
 | id | term | src_table |
 | --- | --- | --- |
@@ -154,7 +146,7 @@ Cat_Fantasy_Glossary（猫之城）/
 - `id` = `源表名.主键.字段名`，可据此回查游戏原始数据表；
 - `src_table` = 该词条在官方数据包中的相对路径（`MasterData\Setting\Data\` 之下）。
 
-**`00_master/index.csv`** 为该语言的分类索引与条数（列为
+**`_master/<语言>__index.csv`** 为该语言的分类索引与条数（列为
 `category,label,term_count,glossary_count,glossary_file,terms_file,target_language`），
 合并其中全部 16 个分类即可得到该语言的完整术语表。
 
@@ -176,19 +168,19 @@ Cat_Fantasy_Glossary（猫之城）/
 # 生成流程（数据整理记录）：
 1. 扫描 Setting/Data 下全部数据表，识别带 _zh_TW / _en_UK / _ja_JP / _ko_KR / _th_TH 后缀的
    多语言字段；基准列（无后缀）即 zh-CN 原文；
-2. 按数据表所属玩法模块划分到 16 个分类（映射关系见 multilingual/00_master/source_mapping.csv，
+2. 按数据表所属玩法模块划分到 16 个分类（映射关系见 cat-fantasy-glossary/multilingual/00_master/source_mapping.csv，
    共 379 张来源表）；
 3. 13_ui 分类取自 Setting/I18N 哈希文本表，按 Id 键对齐七种语言；
 4. 对 NewChapter（剧情表）只提取登场角色名与场景名等专有名词，剧情正文对话不纳入术语库；
 5. 同一分类内按 (source, target) 去重；源语言与目标语言写法完全相同时不生成对照行；
-6. 各语言目录下的 *_glossary.csv 由 multilingual/all_languages_master.csv 按分类展开生成。
+6. 各语言目录下的 `<category>.csv` 由 cat-fantasy-glossary/multilingual/all_languages_master.csv 按分类展开生成。
 
 # 需要复现时的数据获取：
 #   上游数据包见上表「使用的相关内容」，需自行下载对应仓库的 Setting/Data 与 Setting/I18N。
 # 需要校验本库数据时可直接读取（只读，不修改）：
-#   zh-CN/00_master/index.csv           各语言分类索引与条数
+#   cat-fantasy-glossary/_master/zh-CN__index.csv  各语言分类索引与条数
 #   multilingual/all_languages_master.csv  七语并排总表
-#   multilingual/00_master/source_mapping.csv  来源表 → 分类 映射
+#   cat-fantasy-glossary/multilingual/00_master/source_mapping.csv  来源表 → 分类 映射
 ```
 
 每套术语库都是**按同一文本键对齐**的官方文本，非二次翻译；同一条词条会把其余语言的写法全部展开为

@@ -21,49 +21,30 @@
 
 ## 使用方法
 
-1. **单文件下载**：进入对应语言目录（例如 `zh-CN/`），下载 `01_neighbor/01_neighbor_glossary.csv`
+1. **单文件下载**：进入 `petit-planet-glossary/` 下对应语言目录（例如 `zh-CN/`），下载 `neighbor.csv`
    之类的分类术语表，直接导入沉浸式翻译等术语工具即可，无需转换。
 2. **整个语言目录打包下载**：若需要全部 18 个分类，下载该语言目录下的全部分类文件。
-3. **十五语并排总表**：`multilingual/all_languages_master.csv`，每种语言一列。
+3. **十五语并排总表**：`petit-planet-glossary/multilingual/all_languages_master.csv`，每种语言一列。
 
 ## 目录结构
 
 ```text
 Petit-Planet_Glossary（星布谷地）/
-  zh-CN/                    以简体中文为目标语言的术语库
-    README.md               本语言库说明
-    00_master/              索引与说明
-      index.csv             分类索引与条数
-      README.md             本语言库说明
-    00_game_title/          游戏与测试名称
-    01_neighbor/            邻居与角色
-    02_location/            星球与地区
-    03_item/                道具
-    04_material/            材料
-    05_furniture/           家具
-    06_test_version/        测试版本
-    07_cooking/             烹饪
-    08_fish/                鱼类
-    09_bugs/                昆虫
-    10_plants/              植物与农作物
-    11_shore/               海岸生物
-    12_shop/                商店与经济
-    13_neighbor_interaction/ 邻居互动
-    15_event/               活动
-    18_ui/                  系统与UI
-    21_world_term/          游戏机制术语
-    22_title_tag/           称号与标签
-  zh-TW/                    同上结构（繁体中文字为目标语言）
-  en-US/  ja-JP/  ko-KR/  fr-FR/  de-DE/  es-ES/  ru-RU/
-  pt-PT/  it-IT/  tr-TR/  th-TH/  vi-VN/  id-ID/
-  multilingual/
-    all_languages_master.csv  十五语并排总表
-  README.md  README_EN.md  README_JP.md
+  README.md                本说明（简体中文）
+  README_EN.md             English
+  README_JP.md             日本語
+  petit-planet-glossary/   术语库数据（15 套，按目标语言拆分）
+    README.md              子库详细说明（类目表、清洗规则）
+    zh-CN/                 以简体中文为目标语言（扁平结构，各语类目 CSV）
+    zh-TW/  en-US/  ja-JP/  ko-KR/  fr-FR/  de-DE/  es-ES/
+    ru-RU/  pt-PT/  it-IT/  tr-TR/  th-TH/  vi-VN/  id-ID/
+    _master/               各语言的 index.csv 与说明（<lang>__index.csv）
+    multilingual/          十五语并排总表
 ```
 
 ## 文件格式
 
-`*_glossary.csv` 严格为三列：
+`<类目>.csv` 严格为三列：
 
 ```text
 source,target,tgt_lng
@@ -77,7 +58,7 @@ Petit Planet,星布谷地,zh-TW
 - `target`：目标语言正式译名
 - `tgt_lng`：目标语言代码
 
-`*_terms.csv` 为本语言词条清单（`id,term,src_table`），便于校对与回查。
+`*__terms.csv` 为本语言词条清单（`id,term,src_table`），便于校对与回查。
 
 ## 语言与统计
 
@@ -99,9 +80,6 @@ Petit Planet,星布谷地,zh-TW
 | `vi-VN` | Tiếng Việt | 114 | 1,304 |
 | `id-ID` | Bahasa Indonesia | 113 | 1,298 |
 | **合计** | | **3,681** | **21,645** |
-
-> `Português` 官方使用 **`pt-PT`**；`Bahasa Indonesia` 使用 **`id-ID`**（不是 `in-ID`）。
-> 官方网站另有 `pl-pl`、`hi-in`，不在本库重点语言范围。
 
 ## 数据来源与可信度
 

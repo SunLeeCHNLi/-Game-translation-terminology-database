@@ -3,14 +3,14 @@
 [← 返回游戏总说明](../../README.md)
 
 本目录是**以繁体中文（`zh-TW`）为目标语言**的术语库，共 **34 个 CSV 文件**（34 个分类：
-19 个在目录根层、15 个在 `extra/` 子目录）、**101,215 行对照**；`tgt_lng` 列固定为 `zh-TW`，
+19 个无前缀、15 个以 `extra-` 前缀命名）、**101,215 行对照**；`tgt_lng` 列固定为 `zh-TW`，
 `source` 列收录其余 13 种语言的写法。译文取自 **Minecraft Java 版官方语言文件**（locale `zh_tw`），
 属官方本地化文本，非二次翻译。
 
 ## 文件
 
 - `<分类>.csv`（19 个）— `source,target,tgt_lng` 三列，可直接导入 CAT / 术语管理工具
-- `extra/<分类>.csv`（15 个）— 同为三列，收录系统与文本类分类
+- `extra-<分类>.csv`（15 个）— 同为三列，收录系统与文本类分类
 
 ## 分类与条数
 
@@ -36,25 +36,25 @@
 | `sound-categories` | 聲音分類 | `sound-categories.csv` | 133 |
 | `game-modes` | 遊戲模式 | `game-modes.csv` | 77 |
 
-### `extra/`（系统与文本）
+### `extra-`（系统与文本）
 
 | 分类 | 主题 | 文件 | 对照行 |
 | --- | --- | --- | --- |
-| `subtitles` | 字幕 | `extra/subtitles.csv` | 12,398 |
-| `death-messages` | 死亡訊息 | `extra/death-messages.csv` | 1,336 |
-| `advancement-titles` | 進度標題 | `extra/advancement-titles.csv` | 1,603 |
-| `advancement-descriptions` | 進度描述 | `extra/advancement-descriptions.csv` | 1,641 |
-| `gamerules` | 遊戲規則 | `extra/gamerules.csv` | 1,490 |
-| `commands` | 指令與參數 | `extra/commands.csv` | 10,734 |
-| `gui` | 介面文字 | `extra/gui.csv` | 6,618 |
-| `options` | 設定與按鍵 | `extra/options.csv` | 8,151 |
-| `multiplayer` | 多人遊戲 | `extra/multiplayer.csv` | 2,032 |
-| `realms` | Realms | `extra/realms.csv` | 4,966 |
-| `world-management` | 世界管理 | `extra/world-management.csv` | 3,562 |
-| `resource-packs` | 資源包與資料包 | `extra/resource-packs.csv` | 761 |
-| `telemetry` | 遙測 | `extra/telemetry.csv` | 897 |
-| `dev-tools` | 開發與測試工具 | `extra/dev-tools.csv` | 1,803 |
-| `misc` | 其他 | `extra/misc.csv` | 516 |
+| `subtitles` | 字幕 | `extra-subtitles.csv` | 12,398 |
+| `death-messages` | 死亡訊息 | `extra-death-messages.csv` | 1,336 |
+| `advancement-titles` | 進度標題 | `extra-advancement-titles.csv` | 1,603 |
+| `advancement-descriptions` | 進度描述 | `extra-advancement-descriptions.csv` | 1,641 |
+| `gamerules` | 遊戲規則 | `extra-gamerules.csv` | 1,490 |
+| `commands` | 指令與參數 | `extra-commands.csv` | 10,734 |
+| `gui` | 介面文字 | `extra-gui.csv` | 6,618 |
+| `options` | 設定與按鍵 | `extra-options.csv` | 8,151 |
+| `multiplayer` | 多人遊戲 | `extra-multiplayer.csv` | 2,032 |
+| `realms` | Realms | `extra-realms.csv` | 4,966 |
+| `world-management` | 世界管理 | `extra-world-management.csv` | 3,562 |
+| `resource-packs` | 資源包與資料包 | `extra-resource-packs.csv` | 761 |
+| `telemetry` | 遙測 | `extra-telemetry.csv` | 897 |
+| `dev-tools` | 開發與測試工具 | `extra-dev-tools.csv` | 1,803 |
+| `misc` | 其他 | `extra-misc.csv` | 516 |
 
 ### 文件清单
 
@@ -80,7 +80,7 @@ minecraft-glossary/
 |   music.csv
 |   sound-categories.csv
 |   game-modes.csv
-|   +-- extra/               # 系统与文本类分类
+|   +-- extra-               # 系统与文本类分类
 |       |-- subtitles.csv
 |       |-- death-messages.csv
 |       |-- advancement-titles.csv

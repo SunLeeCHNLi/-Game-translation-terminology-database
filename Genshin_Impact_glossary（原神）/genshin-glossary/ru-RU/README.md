@@ -7,7 +7,7 @@
 ## Файлы
 
 - `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 файлов основных категорий
-- `TCG/action-cards.csv`, `TCG/character-cards.csv`, `TCG/enemy-cards.csv`, `TCG/summons.csv`, `TCG/status-effects.csv`, `TCG/keywords.csv`, `TCG/card-backs.csv`, `TCG/card-boxes.csv`, `TCG/detailed-rules.csv`, `TCG/level-rewards.csv` — 10 файлов подкатегории TCG («Священное призывание семи»)
+- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 файлов подкатегории TCG («Священное призывание семи»)
 
 Всего **27 CSV-файлов**. Формат у всех одинаковый — три столбца:
 
@@ -37,7 +37,7 @@ ru-RU/
 ├── geographies.csv
 ├── achievements.csv
 ├── adventureranks.csv
-└── TCG/
+└── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
     ├── enemy-cards.csv
@@ -77,20 +77,20 @@ ru-RU/
 | adventureranks | `adventureranks.csv` | 21 | 157 |
 | **Итого** | 17 файлов | — | **63 170** |
 
-### Подкатегории TCG (`TCG/`)
+### Подкатегории TCG (`tcg-`)
 
 | Подкатегория | Файл | Термины | Строки |
 | --- | --- | ---: | ---: |
-| action-cards | `TCG/action-cards.csv` | 927 | 9 521 |
-| character-cards | `TCG/character-cards.csv` | 149 | 929 |
-| enemy-cards | `TCG/enemy-cards.csv` | 134 | 1 114 |
-| summons | `TCG/summons.csv` | 152 | 1 139 |
-| status-effects | `TCG/status-effects.csv` | 1 159 | 11 224 |
-| keywords | `TCG/keywords.csv` | 139 | 1 571 |
-| card-backs | `TCG/card-backs.csv` | 39 | 407 |
-| card-boxes | `TCG/card-boxes.csv` | 7 | 32 |
-| detailed-rules | `TCG/detailed-rules.csv` | 11 | 142 |
-| level-rewards | `TCG/level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards.csv` | 927 | 9 521 |
+| character-cards | `tcg-character-cards.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1 114 |
+| summons | `tcg-summons.csv` | 152 | 1 139 |
+| status-effects | `tcg-status-effects.csv` | 1 159 | 11 224 |
+| keywords | `tcg-keywords.csv` | 139 | 1 571 |
+| card-backs | `tcg-card-backs.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
 | **Итого** | 10 файлов | — | **26 248** |
 
 **Всего в этом каталоге: 27 файлов, 89 418 строк.**

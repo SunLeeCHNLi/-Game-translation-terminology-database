@@ -17,11 +17,12 @@ community reference table.
 
 ## Usage
 
-1. **Single-file download**: open the language directory you need (e.g. `en-US/`) and download
-   `azur_lane_glossary.csv`, `azur_lane_ship_character_glossary.csv` or `azur_lane_terms.csv`;
-   these can be imported directly into terminology tools such as Immersive Translate.
+1. **Single-file download**: open the language directory you need (e.g. `azur-lane-glossary/en-US/`) and
+   download `glossary.csv`, `ship-characters.csv` or `terms.csv`; these can be imported directly into
+   terminology tools such as Immersive Translate.
 2. **Whole-directory download**: get every ship-name and terminology entry for one language at once
-   (including the `*_detailed.csv` detail tables).
+   (including the `glossary-detailed.csv`, `ship-characters-detailed.csv` and `terms-detailed.csv`
+   detail tables).
 3. **Clone the whole repository and reproduce**: rerun the generation pipeline with the scripts under
    `tools/` together with the upstream `AzurLaneData` client data (see "Related Sources").
 
@@ -29,49 +30,52 @@ community reference table.
 
 ```text
 Azur_Lane_Glossary（碧蓝航线）/
-├─ zh-CN/                                  Simplified-Chinese termbase (target = zh-CN)
-│     azur_lane_glossary.csv                   ship names (Simplified-Chinese standard name as source)
-│     azur_lane_glossary_detailed.csv          same + ship_id / hull type / faction / variant
-│     azur_lane_ship_character_glossary.csv    ship names (Simplified-Chinese harmonised name as source)
-│     azur_lane_ship_character_glossary_detailed.csv
-│     azur_lane_terms.csv                      naval / military / in-game terminology
-│     azur_lane_terms_detailed.csv             same + category / same_source_alternatives
-│     azur_lane_ambiguous.csv                  source strings with more than one reading (zh-CN only)
-│     azur_lane_combined_ships_and_terms.csv   ships + terminology merged (zh-CN only)
-│     README.md                                documentation for this directory (Simplified Chinese)
-├─ en-US/                                  the same 6 CSVs + README.md / README_zh-CN.md
-├─ ja-JP/                                  the same 6 CSVs + README.md / README_zh-CN.md
-├─ ko-KR/                                  the same 6 CSVs + README.md / README_zh-CN.md
-├─ by_language/                            ship sub-tables split by source language, target is always zh-CN
-│     azur_lane_glossary_en-zh-CN.csv
-│     azur_lane_glossary_ja-zh-CN.csv
-│     azur_lane_glossary_ko-zh-CN.csv
-│     azur_lane_glossary_zh-TW-zh-CN.csv
-├─ sources/
-│     moegirl_name_table.json              scrape of the Moegirlpedia “Azur Lane / name table”, used for cross-checking
-├─ tools/                                  generation scripts and statistics metadata
-│     build_glossary.py                        ship termbase (zh-CN standard names) + 5-language master table + by_language + ambiguity table + IJN code aliases
-│     build_harmonized.py                      harmonised-name mapping
-│     build_ship_character_glossary.py         shipgirl termbase (zh-CN harmonised names)
-│     build_multilang_glossaries.py            en-US / ja-JP / ko-KR variants of the ship tables
-│     build_terms_glossaries.py                4-language variants of the terminology tables
-│     terms_data.py                            terminology source data (curated by hand)
-│     build_stats.json                         generation statistics (output of the last build)
-├─ azur_lane_ship_names_multilingual.csv   5-language master table of 891 ships (zh / en / ja / zh-TW / ko, source data)
-├─ azur_lane_harmonized_ship_names.csv     harmonised-name mapping (original → harmonised, 1187 rows)
-├─ azur_lane_harmonized_names_detailed.csv harmonised-name detail (1259 rows, with Moegirlpedia check notes)
-├─ azur_lane_harmonized_equipment.csv      8 harmonised aircraft / equipment names
-├─ azur_lane_ijn_codename_aliases.csv      IJN single-character code-name mapping (柚 → 绫波, 1082 rows)
-└─ README.md / README_EN.md / README_JP.md Chinese / English / Japanese documentation
+├─ azur-lane-glossary/                      multilingual data container
+│  ├─ README.md                             sub-library description (Simplified Chinese)
+│  ├─ zh-CN/                                Simplified-Chinese termbase (target = zh-CN)
+│  │  ├─ glossary.csv                       ship names (Simplified-Chinese standard name as source)
+│  │  ├─ glossary-detailed.csv              same + ship_id / hull type / faction / variant
+│  │  ├─ ship-characters.csv                ship names (Simplified-Chinese harmonised name as source)
+│  │  ├─ ship-characters-detailed.csv
+│  │  ├─ terms.csv                          naval / military / in-game terminology
+│  │  ├─ terms-detailed.csv                 same + category / same_source_alternatives
+│  │  ├─ ambiguous.csv                      source strings with more than one reading (zh-CN only)
+│  │  ├─ ships-and-terms.csv                ships + terminology merged (zh-CN only)
+│  │  └─ README.md                          documentation for this directory (Simplified Chinese)
+│  ├─ en-US/                                the same 6 CSVs + README.md / README_zh-CN.md
+│  ├─ ja-JP/                                the same 6 CSVs + README.md / README_zh-CN.md
+│  ├─ ko-KR/                                the same 6 CSVs + README.md / README_zh-CN.md
+│  ├─ harmonized/                           source data and harmonised-name / alias tables
+│  │  ├─ ship-names-multilingual.csv        five-language master table of 891 ships
+│  │  ├─ ship-names-harmonized.csv          harmonised-name mapping (original → harmonised, 1187 rows)
+│  │  ├─ harmonized-names-detailed.csv      harmonised-name detail (1259 rows, with Moegirlpedia notes)
+│  │  ├─ equipment-harmonized.csv           8 harmonised aircraft / equipment names
+│  │  └─ ijn-codename-aliases.csv           IJN single-character code-name mapping (柚 → 绫波, 1082 rows)
+│  ├─ by-language/                          ship sub-tables split by source language, target is always zh-CN
+│  │  ├─ glossary_en-zh-CN.csv
+│  │  ├─ glossary_ja-zh-CN.csv
+│  │  ├─ glossary_ko-zh-CN.csv
+│  │  └─ glossary_zh-TW-zh-CN.csv
+│  └─ sources/
+│     └─ moegirl_name_table.json            scrape of the Moegirlpedia “Azur Lane / name table”
+├─ tools/                                   generation scripts and statistics metadata
+│  ├─ build_glossary.py                     ship termbase (zh-CN standard names) + 5-language master table + by-language + ambiguity table + IJN code aliases
+│  ├─ build_harmonized.py                   harmonised-name mapping
+│  ├─ build_ship_character_glossary.py      shipgirl termbase (zh-CN harmonised names)
+│  ├─ build_multilang_glossaries.py         en-US / ja-JP / ko-KR variants of the ship tables
+│  ├─ build_terms_glossaries.py             4-language variants of the terminology tables
+│  ├─ terms_data.py                         terminology source data (curated by hand)
+│  └─ build_stats.json                      generation statistics (output of the last build)
+└─ README.md / README_EN.md / README_JP.md  Chinese / English / Japanese documentation
 ```
 
-All four language directories share exactly the same entry files (`zh-CN` additionally ships
-`azur_lane_ambiguous.csv` and `azur_lane_combined_ships_and_terms.csv`): `target` holds the name in
-that language and `tgt_lng` is fixed to `zh-CN` / `en-US` / `ja-JP` / `ko-KR` respectively, while
-`source` holds the readings of all the other languages.
-`by_language/` is the **source-language view** of the same ships (English 1544 rows, Japanese 696,
+All four language directories share exactly the same entry files: `target` holds the name in that
+language and `tgt_lng` is fixed to `zh-CN` / `en-US` / `ja-JP` / `ko-KR` respectively, while `source`
+holds the readings of the other languages. `zh-CN` additionally ships `ambiguous.csv` and
+`ships-and-terms.csv`.
+`by-language/` is the **source-language view** of the same ships (English 1544 rows, Japanese 696,
 Korean 814, Traditional Chinese 538 — 3592 rows in total, equal to the row count of
-`zh-CN/azur_lane_glossary_detailed.csv`).
+`azur-lane-glossary/zh-CN/glossary-detailed.csv`).
 
 ## Data Overview
 
@@ -84,18 +88,18 @@ Korean 814, Traditional Chinese 538 — 3592 rows in total, equal to the row cou
 | `ja-JP` | 877 / 3516 | 877 / 3805 | 125 / 356 |
 | `ko-KR` | 850 / 3481 | 850 / 3769 | 165 / 459 |
 
-- **Entries** = distinct values of the `target` column in that language directory's `azur_lane_*.csv`
+- **Entries** = distinct values of the `target` column in that language directory's `*.csv`
   (i.e. how many ships / terms have a name in that language); **rows** = CSV data rows excluding the
   header (UTF-8 with BOM + CRLF, so Excel opens them directly).
-- Detail tables: `azur_lane_glossary_detailed.csv` has 3592 (zh-CN) / 2809 (en-US) / 3596 (ja-JP) /
-  3525 (ko-KR) rows; `azur_lane_ship_character_glossary_detailed.csv` has 3890 / 3104 / 3890 / 3818 rows.
-- Two extra tables exist in `zh-CN` only: `azur_lane_ambiguous.csv` with 162 rows (covering 77 source
-  strings that have more than one reading) and `azur_lane_combined_ships_and_terms.csv` with 3985 rows
+- Detail tables: `glossary-detailed.csv` has 3592 (zh-CN) / 2809 (en-US) / 3596 (ja-JP) /
+  3525 (ko-KR) rows; `ship-characters-detailed.csv` has 3890 / 3104 / 3890 / 3818 rows.
+- Two extra tables exist in `zh-CN` only: `ambiguous.csv` with 162 rows (covering 77 source
+  strings that have more than one reading) and `ships-and-terms.csv` with 3985 rows
   (3592 ship rows + 475 terminology rows, merged and de-duplicated).
 
 ### Categories and counts
 
-Ship variants (measured on `zh-CN/azur_lane_ship_character_glossary_detailed.csv`, **884 shipgirls**):
+Ship variants (measured on `azur-lane-glossary/zh-CN/ship-characters-detailed.csv`, **884 shipgirls**):
 
 | Variant | Ships | Rows |
 | --- | --- | --- |
@@ -105,7 +109,7 @@ Ship variants (measured on `zh-CN/azur_lane_ship_character_glossary_detailed.csv
 | Type II | 10 | 43 |
 | **Total** | **884** | **3890** |
 
-Terminology categories (measured on `zh-CN/azur_lane_terms_detailed.csv`):
+Terminology categories (measured on `azur-lane-glossary/zh-CN/terms-detailed.csv`):
 
 | `category` | Topic | Concepts | Rows |
 | --- | --- | --- | --- |
@@ -125,17 +129,17 @@ is why only 175 concepts end up with comparison rows in the generated tables.
 
 | File | zh-CN | en-US | ja-JP | ko-KR |
 | --- | --- | --- | --- | --- |
-| `azur_lane_glossary.csv` (zh-CN standard name as source) | 3514 | 2795 | 3516 | 3481 |
-| `azur_lane_ship_character_glossary.csv` (zh-CN harmonised name as source) | 3804 | 3084 | 3805 | 3769 |
+| `glossary.csv` (zh-CN standard name as source) | 3514 | 2795 | 3516 | 3481 |
+| `ship-characters.csv` (zh-CN harmonised name as source) | 3804 | 3084 | 3805 | 3769 |
 
 - Covers **891 ships / 884 shipgirls**, including META, μ-equipment, Type-II and collab ships.
-- The `target` of `azur_lane_ship_character_glossary` is always the name **actually displayed by the
+- The `target` of `ship-characters` is always the name **actually displayed by the
   Simplified-Chinese client**: the harmonised name where one exists (**295 shipgirls**), otherwise the
   standard Chinese name. The other language variants use that language's ship name as `target`.
 - Source languages include: Simplified-Chinese standard name, Simplified-Chinese harmonised name,
   English name, English full hull designation (e.g. `IJN Fubuki`), Japanese name, Traditional-Chinese
   name and Korean name.
-- Examples (actual rows from every language directory, `azur_lane_glossary.csv`):
+- Examples (actual rows from every language directory, `glossary.csv`):
 
 ```
 | source                    | target            | tgt_lng |
@@ -148,7 +152,7 @@ is why only 175 concepts end up with comparison rows in the generated tables.
 | イラストリアス(μ兵装)              | 光辉(μ兵装)          | zh-CN   |
 ```
 
-- Examples (`azur_lane_ship_character_glossary.csv`, harmonised zh-CN name as source; `柚` is the
+- Examples (`ship-characters.csv`, harmonised zh-CN name as source; `柚` is the
   Simplified-Chinese harmonised name of `绫波`):
 
 ```
@@ -163,7 +167,7 @@ is why only 175 concepts end up with comparison rows in the generated tables.
 - Each source string keeps exactly one translation in the main table; when a source string has several
   readings the one with the **lowest ship id** wins and every reading is recorded in the
   `same_source_alternatives` column of the detail table. For example, in
-  `ja-JP/azur_lane_glossary_detailed.csv` the source `HMS Belfast` maps to both `ベルファスト`
+  `azur-lane-glossary/ja-JP/glossary-detailed.csv` the source `HMS Belfast` maps to both `ベルファスト`
   (id 202121) and `ベルちゃん` (id 202181); the main table keeps `ベルファスト`, and both readings
   appear in `same_source_alternatives`. On the `zh-CN` side they are `贝尔法斯特` / `小贝法`.
 - **亚尔薇特 (Alvitr, an Iron Blood battlecruiser, ship_id 404061)** is the only Iron Blood shipgirl
@@ -171,22 +175,22 @@ is why only 175 concepts end up with comparison rows in the generated tables.
 
 ### Naval / military / in-game terminology
 
-`azur_lane_terms.csv`: **176 curated concepts** (175 of which get comparison rows in the generated
+`terms.csv`: **176 curated concepts** (175 of which get comparison rows in the generated
 tables), from 478 curated source forms (English 175, Japanese 127, Korean 176).
 
 | Target language | Entries |
 | --- | --- |
-| `zh-CN/azur_lane_terms.csv` | 449 |
-| `en-US/azur_lane_terms.csv` | 404 |
-| `ja-JP/azur_lane_terms.csv` | 356 |
-| `ko-KR/azur_lane_terms.csv` | 459 |
+| `azur-lane-glossary/zh-CN/terms.csv` | 449 |
+| `azur-lane-glossary/en-US/terms.csv` | 404 |
+| `azur-lane-glossary/ja-JP/terms.csv` | 356 |
+| `azur-lane-glossary/ko-KR/terms.csv` | 459 |
 
 - Five categories: `hull_type` 31, `naval_term` 72, `navy_prefix` 24, `rank` 24, `game_term` 24
   (the detail table carries `category` / `category_zh` columns).
 - When one source word covers several concepts (e.g. the Korean `대령` is both "naval captain" and
   "colonel"), the main table keeps the first concept and the other readings are written into the
   `same_source_alternatives` column of the detail table.
-- Examples (`ko-KR/azur_lane_terms.csv`):
+- Examples (`azur-lane-glossary/ko-KR/terms.csv`):
 
 ```
 | source         | target   | tgt_lng |
@@ -236,7 +240,7 @@ tables), from 478 curated source forms (English 175, Japanese 127, Korean 176).
 | Source | Purpose |
 | --- | --- |
 | [AzurLaneTools/AzurLaneData](https://github.com/AzurLaneTools/AzurLaneData) | Client data for the CN / EN / JP / KR / TW servers: `sharecfgdata/ship_data_statistics.json` (ship names per server), `sharecfgdata/ship_data_template.json` (ship identity filter), `ShareCfg/ship_skin_template.json` (`ship_group` normalisation), `ShareCfg/ship_data_by_type.json` (hull-type names), `ShareCfg/name_code.json` (harmonised names and IJN code names) |
-| Moegirlpedia, [碧蓝航线/名称对照表](https://zh.moegirl.org.cn/碧蓝航线/名称对照表) | Cross-checking of harmonised names; the scrape is stored in `sources/moegirl_name_table.json` and any mismatch is noted in the `wiki_note` column of `azur_lane_harmonized_names_detailed.csv` |
+| Moegirlpedia, [碧蓝航线/名称对照表](https://zh.moegirl.org.cn/碧蓝航线/名称对照表) | Cross-checking of harmonised names; the scrape is stored in `azur-lane-glossary/sources/moegirl_name_table.json` and any mismatch is noted in the `wiki_note` column of `azur-lane-glossary/harmonized/harmonized-names-detailed.csv` |
 
 ## Regeneration
 
@@ -244,7 +248,7 @@ The scripts live in `tools/` and are always invoked with the `tools/` prefix (ru
 directory):
 
 ```bash
-# 1) ship termbase (zh-CN standard names) + 5-language master table + by_language + ambiguity table + IJN code aliases
+# 1) ship termbase (zh-CN standard names) + 5-language master table + by-language + ambiguity table + IJN code aliases
 python tools/build_glossary.py
 
 # 2) harmonised-name mapping (needs the 5-language master table from step 1)
@@ -261,7 +265,7 @@ python tools/build_terms_glossaries.py
 ```
 
 After a game-data update simply rerun the steps in this order (`build_harmonized.py` and
-`build_multilang_glossaries.py` depend on the `azur_lane_ship_names_multilingual.csv` produced by
+`build_multilang_glossaries.py` depend on the `azur-lane-glossary/harmonized/ship-names-multilingual.csv` produced by
 `build_glossary.py`).
 Terminology entries are maintained in `tools/terms_data.py` and the four language variants are
 generated by `build_terms_glossaries.py`; the generation statistics are written to `build_stats.json`

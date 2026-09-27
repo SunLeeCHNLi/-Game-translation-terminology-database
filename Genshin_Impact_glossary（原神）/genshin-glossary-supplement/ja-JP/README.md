@@ -14,7 +14,7 @@
 
 - 主要カテゴリ（本体辞書と同名の 9 ファイル）: `characters.csv`、`materials.csv`、`geographies.csv`、`enemies.csv`、`foods.csv`、`animals.csv`、`domains.csv`、`artifacts.csv`、`weapons.csv`
 - 別名ファイル: `_variants.csv` — 別名・通称・よくある誤記を追加の `source` として収録
-- 追加カテゴリ（`extra/` 内の 10 ファイル）: `extra/quests.csv`、`extra/events.csv`、`extra/objects.csv`、`extra/system.csv`、`extra/archives.csv`、`extra/story.csv`、`extra/facilities.csv`、`extra/organizations.csv`、`extra/dialogue.csv`、`extra/sereniteapot.csv`
+- 追加カテゴリ（`extra-` 内の 10 ファイル）: `extra-quests.csv`、`extra-events.csv`、`extra-objects.csv`、`extra-system.csv`、`extra-archives.csv`、`extra-story.csv`、`extra-facilities.csv`、`extra-organizations.csv`、`extra-dialogue.csv`、`extra-sereniteapot.csv`
 
 合計 **20 個の CSV ファイル**（主要 9 + 別名 1 + 追加 10）。形式はすべて同じ 3 列です。
 
@@ -37,7 +37,7 @@ ja-JP/
 ├── artifacts.csv
 ├── weapons.csv
 ├── _variants.csv
-└── extra/
+└── extra-
     ├── quests.csv
     ├── events.csv
     ├── objects.csv
@@ -75,20 +75,20 @@ ja-JP/
 | --- | --- | ---: |
 | `_variants.csv` | 別名・通称・よくある誤記を追加の `source` として収録 | 283 |
 
-### 追加カテゴリ（`extra/`）
+### 追加カテゴリ（`extra-`）
 
 | カテゴリ | ファイル | 説明 | 行数 |
 | --- | --- | --- | ---: |
-| quests | `extra/quests.csv` | 任務名（魔神／世界／伝説／デイリー／部族など） | 1,753 |
-| events | `extra/events.csv` | イベント名 | 1,796 |
-| objects | `extra/objects.csv` | 場景オブジェクト | 472 |
-| system | `extra/system.csv` | システム・遊び方の用語 | 387 |
-| archives | `extra/archives.csv` | 書庫・資料 | 382 |
-| story | `extra/story.csv` | ストーリーと章 | 302 |
-| facilities | `extra/facilities.csv` | 施設と建物 | 236 |
-| organizations | `extra/organizations.csv` | 組織と勢力 | 209 |
-| dialogue | `extra/dialogue.csv` | 会話表現 | 121 |
-| sereniteapot | `extra/sereniteapot.csv` | 塵歌壺 | 32 |
+| quests | `extra-quests.csv` | 任務名（魔神／世界／伝説／デイリー／部族など） | 1,753 |
+| events | `extra-events.csv` | イベント名 | 1,796 |
+| objects | `extra-objects.csv` | 場景オブジェクト | 472 |
+| system | `extra-system.csv` | システム・遊び方の用語 | 387 |
+| archives | `extra-archives.csv` | 書庫・資料 | 382 |
+| story | `extra-story.csv` | ストーリーと章 | 302 |
+| facilities | `extra-facilities.csv` | 施設と建物 | 236 |
+| organizations | `extra-organizations.csv` | 組織と勢力 | 209 |
+| dialogue | `extra-dialogue.csv` | 会話表現 | 121 |
+| sereniteapot | `extra-sereniteapot.csv` | 塵歌壺 | 32 |
 | **小計** | 10 ファイル | — | **5,690** |
 
 **このディレクトリの合計: 20 ファイル、13,308 行（別名 283 行を含む）。**

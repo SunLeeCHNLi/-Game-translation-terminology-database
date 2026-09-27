@@ -1,0 +1,208 @@
+{
+ "zh-CN": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1488,
+  "n": 7
+ },
+ "zh-TW": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1481,
+  "n": 7
+ },
+ "en-US": {
+  "cats": [
+   "bugs",
+   "cooking",
+   "event",
+   "fish",
+   "furniture",
+   "game_title",
+   "item",
+   "location",
+   "material",
+   "neighbor",
+   "neighbor_interaction",
+   "plants",
+   "shop",
+   "shore",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 5379,
+  "n": 18
+ },
+ "ja-JP": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1417,
+  "n": 7
+ },
+ "ko-KR": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1418,
+  "n": 7
+ },
+ "fr-FR": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1411,
+  "n": 7
+ },
+ "de-DE": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1425,
+  "n": 7
+ },
+ "es-ES": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1411,
+  "n": 7
+ },
+ "ru-RU": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1408,
+  "n": 7
+ },
+ "pt-PT": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1422,
+  "n": 7
+ },
+ "it-IT": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1408,
+  "n": 7
+ },
+ "tr-TR": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1411,
+  "n": 7
+ },
+ "th-TH": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1418,
+  "n": 7
+ },
+ "vi-VN": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1418,
+  "n": 7
+ },
+ "id-ID": {
+  "cats": [
+   "game_title",
+   "location",
+   "neighbor",
+   "test_version",
+   "title_tag",
+   "ui",
+   "world_term"
+  ],
+  "rows": 1411,
+  "n": 7
+ }
+}

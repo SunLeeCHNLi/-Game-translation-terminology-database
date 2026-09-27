@@ -14,16 +14,17 @@ Neverness_to_Everness_glossary/
   README_EN.md
   README_JP.md
   nte-glossary/
+    README.md
     zh-CN/  zh-TW/  en-US/  ja-JP/  ko-KR/
     de-DE/  fr-FR/  es-ES/  ru-RU/
+    sources/                语料/来源说明
+      README.md
   tools/
     build_nte_glossary.py
     validate_nte_glossary.py
     scrape_interactivemap.py
     _counts.json
     _validation.json
-  Sources/
-    README.md
 ```
 
 ## 文件格式

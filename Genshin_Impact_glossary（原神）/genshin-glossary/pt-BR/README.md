@@ -7,7 +7,7 @@ Este diretório é o glossário de terminologia de *Genshin Impact* com o **port
 ## Arquivos
 
 - `characters.csv`, `talents.csv`, `constellations.csv`, `weapons.csv`, `materials.csv`, `foods.csv`, `crafts.csv`, `artifacts.csv`, `domains.csv`, `enemies.csv`, `animals.csv`, `outfits.csv`, `windgliders.csv`, `namecards.csv`, `geographies.csv`, `achievements.csv`, `adventureranks.csv` — 17 arquivos de categoria principal
-- `TCG/action-cards.csv`, `TCG/character-cards.csv`, `TCG/enemy-cards.csv`, `TCG/summons.csv`, `TCG/status-effects.csv`, `TCG/keywords.csv`, `TCG/card-backs.csv`, `TCG/card-boxes.csv`, `TCG/detailed-rules.csv`, `TCG/level-rewards.csv` — 10 arquivos da subcategoria TCG (Jogo de Invocação das Sete)
+- `tcg-action-cards.csv`, `tcg-character-cards.csv`, `tcg-enemy-cards.csv`, `tcg-summons.csv`, `tcg-status-effects.csv`, `tcg-keywords.csv`, `tcg-card-backs.csv`, `tcg-card-boxes.csv`, `tcg-detailed-rules.csv`, `tcg-level-rewards.csv` — 10 arquivos da subcategoria TCG (Jogo de Invocação das Sete)
 
 Total: **27 arquivos CSV**. Todos têm o mesmo formato de três colunas:
 
@@ -37,7 +37,7 @@ pt-BR/
 ├── geographies.csv
 ├── achievements.csv
 ├── adventureranks.csv
-└── TCG/
+└── tcg-<分类>.csv
     ├── action-cards.csv
     ├── character-cards.csv
     ├── enemy-cards.csv
@@ -77,20 +77,20 @@ pt-BR/
 | adventureranks | `adventureranks.csv` | 21 | 169 |
 | **Subtotal** | 17 arquivos | — | **63.181** |
 
-### Subcategorias de TCG (`TCG/`)
+### Subcategorias de TCG (`tcg-`)
 
 | Subcategoria | Arquivo | Termos | Linhas |
 | --- | --- | ---: | ---: |
-| action-cards | `TCG/action-cards.csv` | 927 | 9.605 |
-| character-cards | `TCG/character-cards.csv` | 149 | 929 |
-| enemy-cards | `TCG/enemy-cards.csv` | 134 | 1.114 |
-| summons | `TCG/summons.csv` | 152 | 1.139 |
-| status-effects | `TCG/status-effects.csv` | 1.159 | 11.215 |
-| keywords | `TCG/keywords.csv` | 139 | 1.511 |
-| card-backs | `TCG/card-backs.csv` | 39 | 407 |
-| card-boxes | `TCG/card-boxes.csv` | 7 | 32 |
-| detailed-rules | `TCG/detailed-rules.csv` | 11 | 142 |
-| level-rewards | `TCG/level-rewards.csv` | 26 | 169 |
+| action-cards | `tcg-action-cards.csv` | 927 | 9.605 |
+| character-cards | `tcg-character-cards.csv` | 149 | 929 |
+| enemy-cards | `tcg-enemy-cards.csv` | 134 | 1.114 |
+| summons | `tcg-summons.csv` | 152 | 1.139 |
+| status-effects | `tcg-status-effects.csv` | 1.159 | 11.215 |
+| keywords | `tcg-keywords.csv` | 139 | 1.511 |
+| card-backs | `tcg-card-backs.csv` | 39 | 407 |
+| card-boxes | `tcg-card-boxes.csv` | 7 | 32 |
+| detailed-rules | `tcg-detailed-rules.csv` | 11 | 142 |
+| level-rewards | `tcg-level-rewards.csv` | 26 | 169 |
 | **Subtotal** | 10 arquivos | — | **26.263** |
 
 **Total deste diretório: 27 arquivos, 89.444 linhas.**

@@ -13,16 +13,17 @@
 
 ## 使用方法
 
-1. **単一ファイルのダウンロード** — 目的の言語ディレクトリ（例：`zh-CN/`）を開き、必要な分類の
-   `NN_xxx_glossary.csv` を開いてファイル詳細ページから直接ダウンロードします。このファイルは
-   `source,target,tgt_lng` の 3 列形式で、没入型翻訳（Immersive Translation）などの AI 翻訳
-   ソフトの用語集機能にそのまま読み込めます。
-2. **言語ディレクトリごとの一括ダウンロード** — 言語ディレクトリ内の 16 分類を合わせると、その
-   言語の完全な用語集になります（分類索引と件数は同ディレクトリの `00_master/index.csv` を参照）。
-3. **リポジトリ全体のクローン** — 各言語の `00_master/index.csv` と
-   `multilingual/all_languages_master.csv` を使って検索・分割・二次加工を行えます。データの出典は
-   後述の「使用した関連コンテンツ」を参照してください。**注意**：本データベースには生成スクリプトが
-   含まれていません（「再生成」を参照）。
+1. **単一ファイルのダウンロード** — `cat-fantasy-glossary/<言語>/` を開き、必要な分類の
+   `<category>.csv`（例：`zh-CN/character.csv`）を開いてファイル詳細ページから直接ダウンロードします。
+   このファイルは `source,target,tgt_lng` の 3 列形式で、没入型翻訳（Immersive Translation）などの
+   AI 翻訳ソフトの用語集機能にそのまま読み込めます。
+2. **言語ディレクトリごとの一括ダウンロード** — `cat-fantasy-glossary/<言語>/` 内の 16 分類 CSV を
+   合わせると、その言語の完全な用語集になります（分類索引と件数は
+   `cat-fantasy-glossary/_master/<言語>__index.csv` を参照）。
+3. **リポジトリ全体のクローン** — `cat-fantasy-glossary/_master/<言語>__index.csv` と
+   `cat-fantasy-glossary/multilingual/all_languages_master.csv` を使って検索・分割・二次加工を行えます。
+   データの出典は後述の「使用した関連コンテンツ」を参照してください。**注意**：本データベースには
+   生成スクリプトが含まれていません（「再生成」を参照）。
 
 ## ディレクトリ構成
 
@@ -31,42 +32,33 @@ Cat_Fantasy_Glossary（猫之城）/
 ├── README.md                          本説明（簡体字中国語）
 ├── README_EN.md                       本説明（English）
 ├── README_JP.md                       本説明（日本語）
-├── zh-CN/                             簡体字中国語
-│   ├── 00_master/                     索引と説明（index.csv、README.md）
-│   ├── 01_character/                  キャラクターとカード
-│   ├── 02_skill/                      スキルと戦闘効果
-│   ├── 03_talent/                     天賦と覚醒
-│   ├── 04_equipment/                  装備と専用武器
-│   ├── 05_item/                       アイテムと素材
-│   ├── 06_enemy/                      敵とボス
-│   ├── 07_stage/                      ステージとチャプター
-│   ├── 08_event/                      イベントと遊び方
-│   ├── 09_gacha/                      ガチャと交換
-│   ├── 10_shop/                       ショップとパック
-│   ├── 11_homeland/                   ホームと猫カフェ
-│   ├── 12_system/                     システムとクエスト
-│   ├── 13_ui/                         UI とインターフェーステキスト
-│   ├── 14_story/                      ストーリー固有名詞
-│   ├── 15_location/                   場所とエリア
-│   └── 16_terminology/                ゲームメカニクス用語
-├── zh-TW/                             繁體中文（構成は zh-CN と同じ）
-├── en-US/                             English（構成は zh-CN と同じ）
-├── ja-JP/                             日本語（構成は zh-CN と同じ）
-├── ko-KR/                             한국어（構成は zh-CN と同じ）
-├── th-TH/                             ภาษาไทย（構成は zh-CN と同じ）
-├── id-ID/                             Bahasa Indonesia（内容は 13_ui のみ。後述）
-└── multilingual/                      7 言語並列の総合テーブル
-    ├── all_languages_master.csv       7 言語並列の総合テーブル（102,213 項目 × 10 列）
-    └── 00_master/
-        ├── README.md                  総合テーブルの説明
-        ├── source_mapping.csv         元テーブル → 分類 の対応（379 テーブル）
-        └── categories.csv             16 分類の定義
+└── cat-fantasy-glossary/              多言語用語データ製品
+    ├── README.md                      サブライブラリの説明
+    ├── zh-CN/                         簡体字中国語（他の言語も同じ構成）
+    │   ├── character.csv              キャラクターとカードの対照表（`source,target,tgt_lng`）
+    │   ├── character__terms.csv       キャラクターとカードの項目リスト（`id,term,src_table`）
+    │   └── ...                        16 分類 × 2 個のフラット CSV
+    ├── zh-TW/                         繁體中文
+    ├── en-US/                         English
+    ├── ja-JP/                         日本語
+    ├── ko-KR/                         한국어
+    ├── th-TH/                         ภาษาไทย
+    ├── id-ID/                         Bahasa Indonesia（ui のみデータあり、他 15 分類はヘッダーのみ）
+    ├── _master/                       言語別索引と元の説明
+    │   ├── zh-CN__index.csv           旧 `zh-CN/00_master/index.csv`
+    │   └── zh-CN__README.md           旧 `zh-CN/00_master/README.md`
+    └── multilingual/                  7 言語並列の総合テーブル（元の構成を維持）
+        ├── all_languages_master.csv   総合テーブル（102,213 項目 × 10 列）
+        └── 00_master/
+            ├── README.md              総合テーブルの説明
+            ├── source_mapping.csv     元テーブル → 分類 の対応（379 テーブル）
+            └── categories.csv         16 分類の定義
 ```
 
-`00_master/` を除き、各分類ディレクトリには必ず 2 つのファイルがあります：`NN_xxx_glossary.csv`
-（用語対照表）と `NN_xxx_terms.csv`（その言語の項目リスト）です。また各言語ディレクトリには
-`README.md`（その言語）と `README_zh-CN.md`（簡体字中国語）の 2 つの説明ファイルがあります
-（`zh-CN/` は `README.md` のみ）。
+各言語ディレクトリには `<category>.csv`（用語対照表）と `<category>__terms.csv`（その言語の項目
+リスト）が 16 組ずつ直接入り、分類サブディレクトリはありません。`<category>` は旧 `NN_xxx/`
+ディレクトリ名から数字接頭辞を除いた名前です。例えば `01_character/01_character_glossary.csv` は
+`character.csv`、`01_character/01_character_terms.csv` は `character__terms.csv` になります。
 
 ## データ概要
 
@@ -136,15 +128,15 @@ Cat_Fantasy_Glossary（猫之城）/
 | `16_terminology` | ゲームメカニクス用語 | 1,636 | 4,120 | 属性、元素、相克関係、バフ／デバフなどのメカニクス用語 |
 | **合計** | | **102,213** | **196,870** | |
 
-言語ごとの分類別件数は各言語ディレクトリの `00_master/index.csv` に、分類の定義は
-`multilingual/00_master/categories.csv` にあります。
+言語ごとの分類別件数は `cat-fantasy-glossary/_master/<言語>__index.csv` に、分類の定義は
+`cat-fantasy-glossary/multilingual/00_master/categories.csv` にあります。
 
 ### ファイル形式
 
 各分類フォルダ内の 2 ファイルはいずれも **UTF-8 with BOM + CRLF** で保存されています（Excel で
 ダブルクリックすればそのまま正しく開けます）。
 
-**`NN_xxx_glossary.csv` — 用語対照表（`source` / `target` / `tgt_lng`）**
+**`<category>.csv` — 用語対照表（`source` / `target` / `tgt_lng`）**
 
 その言語の `tgt_lng` 列は固定で、`source` 列には他の言語の表記が入ります（同じ項目の各言語表記が
 1 行ずつ）。没入型翻訳などの用語ツールにそのまま読み込めます：
@@ -155,7 +147,7 @@ Cat_Fantasy_Glossary（猫之城）/
 | アスラ | 非天 | zh-CN |
 | 아수라 | 非天 | zh-CN |
 
-**`NN_xxx_terms.csv` — その言語の項目リスト（`id` / `term` / `src_table`）**
+**`<category>__terms.csv` — その言語の項目リスト（`id` / `term` / `src_table`）**
 
 | id | term | src_table |
 | --- | --- | --- |
@@ -165,7 +157,7 @@ Cat_Fantasy_Glossary（猫之城）/
 - `id` = `元テーブル名.主キー.フィールド名` で、これによりゲームの元データテーブルを逆引きできます；
 - `src_table` = 公式データパッケージ内でのその項目の相対パス（`MasterData\Setting\Data\` の下）。
 
-**`00_master/index.csv`** はその言語の分類索引と件数です（列は
+**`_master/<言語>__index.csv`** はその言語の分類索引と件数です（列は
 `category,label,term_count,glossary_count,glossary_file,terms_file,target_language`）。ここにある
 16 分類をすべて統合すると、その言語の完全な用語集になります。
 
@@ -190,21 +182,21 @@ Cat_Fantasy_Glossary（猫之城）/
 1. Setting/Data 配下の全データテーブルを走査し、_zh_TW / _en_UK / _ja_JP / _ko_KR / _th_TH の
    接尾辞を持つ多言語フィールドを識別する。基準列（接尾辞なし）が zh-CN 原文。
 2. データテーブルが属する遊び方のモジュールごとに 16 分類へ割り当てる（対応は
-   multilingual/00_master/source_mapping.csv、全 379 テーブル）。
+   cat-fantasy-glossary/multilingual/00_master/source_mapping.csv、全 379 テーブル）。
 3. 13_ui 分類は Setting/I18N のハッシュテキストテーブルから取得し、Id キーで 7 言語を整列する。
 4. NewChapter（ストーリーテーブル）からは登場キャラクター名やシーン名などの固有名詞のみを抽出し、
    ストーリー本文の会話は用語集に含めない。
 5. 同一分類内で (source, target) により重複を排除する。原文と訳文の表記が完全に同一の場合は
    対照行を生成しない。
-6. 各言語の *_glossary.csv は multilingual/all_languages_master.csv から分類ごとに展開して生成する。
+6. 各言語の `<category>.csv` は cat-fantasy-glossary/multilingual/all_languages_master.csv から分類ごとに展開して生成する。
 
 # 再現する場合のデータ取得：
 #   上流パッケージは上記「使用した関連コンテンツ」を参照し、各自で Setting/Data と Setting/I18N を
 #   ダウンロードしてください。
 # 本データベースを検証する場合は読み取り専用で直接参照できます（変更しないでください）：
-#   zh-CN/00_master/index.csv                 言語別の分類索引と件数
+#   cat-fantasy-glossary/_master/zh-CN__index.csv 言語別の分類索引と件数
 #   multilingual/all_languages_master.csv     7 言語並列の総合テーブル
-#   multilingual/00_master/source_mapping.csv 元テーブル → 分類 の対応
+#   cat-fantasy-glossary/multilingual/00_master/source_mapping.csv 元テーブル → 分類 の対応
 ```
 
 各セットは**同一のテキストキーで整列**した公式テキストであり、二次翻訳ではありません。1 つの項目が
