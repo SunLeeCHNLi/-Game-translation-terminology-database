@@ -1,0 +1,149 @@
+{
+  "game": {
+    "zh-CN": "星布谷地",
+    "zh-TW": "星布谷地",
+    "en-US": "Petit Planet",
+    "ja-JP": "プチプラネット",
+    "ko-KR": "쁘띠플래닛",
+    "fr-FR": "P'tite Planète"
+  },
+  "data_extraction_date": "2026-09-27",
+  "current_phase": "Final Beta Test (official zh-CN name: 连接测试)",
+  "release_window": "Winter 2026",
+  "build_reference": "PetitPlanet_FinalBetaTest_OSCBAndroid0.95.2 (official site download link)",
+  "official_site_localization_keys": 443,
+  "official_site_languages": [
+    "zh-CN",
+    "zh-TW",
+    "en-US",
+    "ja-JP",
+    "ko-KR",
+    "fr-FR",
+    "de-DE",
+    "es-ES",
+    "ru-RU",
+    "pt-PT",
+    "it-IT",
+    "tr-TR",
+    "th-TH",
+    "vi-VN",
+    "id-ID"
+  ],
+  "hoyolab": {
+    "game_uid": 10,
+    "rss_section": "planet",
+    "languages_fetched": 15,
+    "posts": 81
+  },
+  "petitplanet_life_pages": 22,
+  "unique_term_rows": 21884,
+  "rows_by_target_language": {
+    "zh-CN": 1363,
+    "zh-TW": 1358,
+    "ja-JP": 1303,
+    "ko-KR": 1304,
+    "fr-FR": 1298,
+    "en-US": 3545,
+    "de-DE": 1311,
+    "es-ES": 1298,
+    "ru-RU": 1296,
+    "pt-PT": 1308,
+    "it-IT": 1296,
+    "tr-TR": 1298,
+    "th-TH": 1304,
+    "vi-VN": 1304,
+    "id-ID": 1298
+  },
+  "rows_by_category": {
+    "00_game_title": 147,
+    "06_test_version": 615,
+    "18_ui": 6786,
+    "01_neighbor": 5877,
+    "22_title_tag": 2100,
+    "21_world_term": 3870,
+    "02_location": 315,
+    "05_furniture": 762,
+    "07_cooking": 93,
+    "08_fish": 92,
+    "09_bugs": 68,
+    "11_shore": 47,
+    "10_plants": 76,
+    "04_material": 50,
+    "03_item": 214,
+    "06_crafting": 239,
+    "12_shop": 510,
+    "15_event": 9,
+    "13_neighbor_interaction": 14
+  },
+  "rows_by_source_tier": {
+    "official_website+official_news": 5475,
+    "official_website": 13068,
+    "official_news": 15,
+    "official_website+official_news+community_db": 823,
+    "official_website+community_db": 315,
+    "community_database": 2188
+  },
+  "official_confirmed_rows": 19696,
+  "official_only_rows": 18558,
+  "community_database_only_rows": 2188,
+  "community_database_inventory_names": {
+    "05_furniture": 762,
+    "07_cooking": 93,
+    "08_fish": 92,
+    "09_bugs": 68,
+    "11_shore": 47,
+    "10_plants": 76,
+    "04_material": 50,
+    "03_item": 214,
+    "06_crafting": 239,
+    "12_shop": 510,
+    "15_event": 9,
+    "01_neighbor": 14,
+    "13_neighbor_interaction": 14
+  },
+  "community_database_inventory_total": 2188,
+  "sources_with_multiple_targets": 2597,
+  "language_codes": {
+    "zh-CN": "简体中文 Simplified Chinese",
+    "zh-TW": "繁體中文 Traditional Chinese",
+    "en-US": "English",
+    "ja-JP": "日本語 Japanese",
+    "ko-KR": "한국어 Korean",
+    "fr-FR": "Français French",
+    "de-DE": "Deutsch German",
+    "es-ES": "Español Spanish",
+    "ru-RU": "Русский Russian",
+    "pt-PT": "Português Portuguese (official URL uses pt-pt)",
+    "it-IT": "Italiano Italian",
+    "tr-TR": "Türkçe Turkish",
+    "th-TH": "ภาษาไทย Thai",
+    "vi-VN": "Tiếng Việt Vietnamese",
+    "id-ID": "Bahasa Indonesia (official URL uses id-id; NOT in-ID)"
+  },
+  "site_only_languages_not_included": [
+    "pl-pl (Polski)",
+    "hi-in (Hindi)"
+  ],
+  "versions": {
+    "Official Release": "not released yet (launching Winter 2026)",
+    "Final Beta Test": {
+      "official zh-CN": "连接测试",
+      "date": "2026-09-22 onwards (per official HoYoLAB posts)"
+    },
+    "Stardrift Test": {
+      "official zh-CN": "星旅测试",
+      "date": "2026-04-21 onwards (per official HoYoLAB posts)"
+    },
+    "Coziness Test": {
+      "official zh-CN": "居心地测试",
+      "date": "2025-11 onwards (per official HoYoLAB posts)"
+    },
+    "Historical": "kept separately when a name changed between tests",
+    "Unknown": "used when the exact build cannot be confirmed (never guessed)"
+  },
+  "quality_checks": [
+    "Round 1 – structure: empty source/target, wrong language code, duplicate rows, HTML tags, JSON residue, internal IDs, escape residue",
+    "Round 2 – language direction: every target column matches the declared tgt_lng script",
+    "Round 3 – cross-verification: game title, neighbour names, UI wording, world terms and test names re-checked against the official site localization JSON and official HoYoLAB announcements"
+  ]
+}

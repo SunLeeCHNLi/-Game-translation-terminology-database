@@ -33,6 +33,8 @@
 
 **猫之城**：[DataTable · game/CatFantasy](https://github.com/PackageInstaller/DataTable/tree/game/CatFantasy)；[CatFantasy-2.18.1](https://github.com/Moli13337/CatFantasy-2.18.1)
 
+**星布谷地**：[petitplanet-resources](https://github.com/petitplanet-life/petitplanet-resources)；[hoyolab-rss-feeds](https://github.com/c3kay/hoyolab-rss-feeds)；[planet.hoyoverse.com](https://planet.hoyoverse.com/zh-cn/home)；[petitplanet.life](https://petitplanet.life/)
+
 **我的世界**：[mcmeta](https://github.com/misode/mcmeta)；[minecraft-data](https://github.com/PrismarineJS/minecraft-data)；[minecraft-assets](https://github.com/InventivetalentDev/minecraft-assets)；[Minecraft Wiki 译名标准化](https://zh.minecraft.wiki/w/Minecraft_Wiki:译名标准化)
 
 ## 免责声明
