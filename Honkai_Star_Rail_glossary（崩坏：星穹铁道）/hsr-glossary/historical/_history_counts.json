@@ -1,0 +1,40 @@
+{
+  "generated": "2026-09-27",
+  "current_source": "StarRailRes index_min 4.5.0 (commit d226bef)",
+  "sources": {
+    "StarRailStaticAPI 2.3.0": {
+      "zh-CN": 4,
+      "zh-TW": 8,
+      "en-US": 17,
+      "ja-JP": 3,
+      "ko-KR": 13,
+      "fr-FR": 8,
+      "de-DE": 17,
+      "es-ES": 10,
+      "ru-RU": 15,
+      "pt-PT": 9,
+      "id-ID": 40,
+      "th-TH": 38,
+      "vi-VN": 7,
+      "total": 189
+    },
+    "HSR-Mapping-DATA 4.0": {
+      "zh-CN": 0,
+      "zh-TW": 1,
+      "en-US": 1,
+      "ja-JP": 0,
+      "ko-KR": 3,
+      "fr-FR": 3,
+      "de-DE": 0,
+      "es-ES": 3,
+      "ru-RU": 2,
+      "pt-PT": 24,
+      "id-ID": 0,
+      "th-TH": 5,
+      "vi-VN": 0,
+      "total": 42
+    }
+  },
+  "rows": 166,
+  "raw_rows": 231
+}

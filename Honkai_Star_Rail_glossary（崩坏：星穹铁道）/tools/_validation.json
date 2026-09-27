@@ -1,0 +1,171 @@
+{
+  "generated": "2026-09-27",
+  "files": 338,
+  "rows": 4085059,
+  "issues": {
+    "empty_source": 0,
+    "empty_target": 0,
+    "bad_language": 0,
+    "duplicate_row": 0,
+    "html_tag": 0,
+    "dev_variable": 0,
+    "hash_like": 0,
+    "internal_id": 0,
+    "na_value": 0,
+    "not_in_client_data": 0,
+    "machine_translation": 0
+  },
+  "issue_examples": {},
+  "rows_by_language": {
+    "zh-CN": 319693,
+    "zh-TW": 320157,
+    "en-US": 313831,
+    "ja-JP": 317716,
+    "ko-KR": 319228,
+    "fr-FR": 306045,
+    "de-DE": 307905,
+    "es-ES": 307652,
+    "ru-RU": 313470,
+    "pt-PT": 311326,
+    "id-ID": 313603,
+    "th-TH": 317329,
+    "vi-VN": 317104
+  },
+  "cross_check": {
+    "01_character": {
+      "sampled": 104,
+      "verified_against_starrailres": 81,
+      "note": ""
+    },
+    "02_path": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "03_element": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "04_skill": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "05_trace": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "06_eidolon": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "07_light_cone": {
+      "sampled": 104,
+      "verified_against_starrailres": 66,
+      "note": ""
+    },
+    "08_relic": {
+      "sampled": 104,
+      "verified_against_starrailres": 93,
+      "note": ""
+    },
+    "09_item": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "10_material": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "11_enemy": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "12_location": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "13_faction": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "14_quest": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "15_stage": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "16_event": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "17_achievement": {
+      "sampled": 104,
+      "verified_against_starrailres": 104,
+      "note": ""
+    },
+    "18_simulated_universe": {
+      "sampled": 104,
+      "verified_against_starrailres": 82,
+      "note": ""
+    },
+    "19_forgotten_hall": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "20_story": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "21_world_lore": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "22_book": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "23_dialogue": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "24_system": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "25_ui": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    },
+    "26_other": {
+      "sampled": 104,
+      "verified_against_starrailres": 0,
+      "note": ""
+    }
+  },
+  "round2_notes": [
+    "Targets are taken from the game client TextMap of the same language, so every row is traceable to an official localization key; no machine translation is used.",
+    "Sampled targets are additionally matched against the independent StarRailRes index for characters, light cones, relics, achievements and Simulated Universe entries.",
+    "Categories without a StarRailRes counterpart (quests, events, dialogue, system, ui, story, world lore, books) are verified against the client TextMap only."
+  ]
+}
